@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_seminorm_l2_bound
 -- name    : GlobalTheory.T.schwartz_seminorm_l2_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:42.028799+00:00
 -- url     : https://prove2.me/theorems/9c11fa85-ad47-5c1f-82aa-da5870529b99

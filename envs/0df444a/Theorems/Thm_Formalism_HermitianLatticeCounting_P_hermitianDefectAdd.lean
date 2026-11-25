@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hermitianDefectAdd
 -- name    : Formalism.HermitianLatticeCounting.P.hermitianDefectAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:38:43.982552+00:00
 -- url     : https://prove2.me/theorems/8e5ef826-c6a7-559b-a3b3-c83a4d099cd4

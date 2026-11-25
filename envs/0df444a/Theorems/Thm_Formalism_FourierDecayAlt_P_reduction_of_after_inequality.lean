@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_reduction_of_after_inequality
 -- name    : Formalism.FourierDecayAlt.P.reduction_of_after_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:34:17.524633+00:00
 -- url     : https://prove2.me/theorems/ae4eec93-ee1a-43e6-acc2-b515e3b14931

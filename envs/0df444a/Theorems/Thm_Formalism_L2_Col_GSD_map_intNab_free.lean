@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_map_intNab_free
 -- name    : Formalism.L2.Col.GSD.map_intNab_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:52:29.230642+00:00
 -- url     : https://prove2.me/theorems/fe59d406-5c88-5105-9ec3-69ccd8b1f03b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_frameRing_glRing
 -- name    : GlobalTheory.Frames.Model.frameRing_glRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:05:50.261793+00:00
 -- url     : https://prove2.me/theorems/ad9956b8-cf89-54de-aa6e-6b883a5a85e3

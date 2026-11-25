@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_chain_length_bound_of_sup_inf
 -- name    : GlobalTheory.T.chain_length_bound_of_sup_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:27:11.045203+00:00
 -- url     : https://prove2.me/theorems/ba11dc42-ada8-4376-9477-ec43a80659f8

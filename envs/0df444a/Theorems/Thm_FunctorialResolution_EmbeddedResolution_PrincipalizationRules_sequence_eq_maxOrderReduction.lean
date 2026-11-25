@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationRules_sequence_eq_maxOrderReduction
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationRules.sequence_eq_maxOrderReduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:30.438077+00:00
 -- url     : https://prove2.me/theorems/b1be352e-bc6a-501d-ba6c-3d50baec5eff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_exists_frame_net
 -- name    : GlobalTheory.FrameNet.exists_frame_net
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:35.986403+00:00
 -- url     : https://prove2.me/theorems/3e920314-9034-4f78-bc7d-c32e1a13fdfa

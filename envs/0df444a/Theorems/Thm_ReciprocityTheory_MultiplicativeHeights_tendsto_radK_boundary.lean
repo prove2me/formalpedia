@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_tendsto_radK_boundary
 -- name    : ReciprocityTheory.MultiplicativeHeights.tendsto_radK_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:04:49.360856+00:00
 -- url     : https://prove2.me/theorems/b443bdef-dda7-440f-90bb-eeb01266f747

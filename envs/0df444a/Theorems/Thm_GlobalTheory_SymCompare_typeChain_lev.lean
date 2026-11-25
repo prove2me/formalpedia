@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymCompare_typeChain_lev
 -- name    : GlobalTheory.SymCompare.typeChain_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:25:00.959394+00:00
 -- url     : https://prove2.me/theorems/96c9d61b-19d7-54ec-9e61-3a968e2ef621

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_radRatio_add_two
 -- name    : ReciprocityTheory.MultiplicativeHeights.radRatio_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:45.605932+00:00
 -- url     : https://prove2.me/theorems/c86f87a3-1d9b-427a-9cb5-86910eefecd6

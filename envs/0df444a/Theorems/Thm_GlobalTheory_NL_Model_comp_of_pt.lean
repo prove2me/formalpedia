@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_comp_of_pt
 -- name    : GlobalTheory.NL.Model.comp_of_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:14:22.491835+00:00
 -- url     : https://prove2.me/theorems/963cbf2d-0b96-545d-8d2d-e6e66abbd6ba

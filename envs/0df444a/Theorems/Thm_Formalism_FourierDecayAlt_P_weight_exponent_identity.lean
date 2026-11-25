@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weight_exponent_identity
 -- name    : Formalism.FourierDecayAlt.P.weight_exponent_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:13.399466+00:00
 -- url     : https://prove2.me/theorems/dd2c0267-0bc8-504f-896c-ca96ed7dbf2d

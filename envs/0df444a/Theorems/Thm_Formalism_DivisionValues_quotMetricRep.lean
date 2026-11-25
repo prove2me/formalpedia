@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_quotMetricRep
 -- name    : Formalism.DivisionValues.quotMetricRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:24:37.260514+00:00
 -- url     : https://prove2.me/theorems/47c12802-839c-55d7-90d3-1dad4ccbafec

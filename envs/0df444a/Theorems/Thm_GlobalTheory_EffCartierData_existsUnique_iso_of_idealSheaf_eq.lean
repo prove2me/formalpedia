@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_existsUnique_iso_of_idealSheaf_eq
 -- name    : GlobalTheory.EffCartierData.existsUnique_iso_of_idealSheaf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:10:56.815106+00:00
 -- url     : https://prove2.me/theorems/dcd7d27c-20f6-4142-b32a-89300b0d7c0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_leadMinor_size_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.leadMinor_size_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:00:36.951817+00:00
 -- url     : https://prove2.me/theorems/eb34091c-bc3c-5593-991e-449831160575

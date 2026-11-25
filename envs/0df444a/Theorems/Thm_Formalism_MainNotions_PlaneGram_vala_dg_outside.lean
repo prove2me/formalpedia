@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_dg_outside
 -- name    : Formalism.MainNotions.PlaneGram.vala_dg_outside
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:51:12.272718+00:00
 -- url     : https://prove2.me/theorems/7d83c4bf-b323-4293-ab7e-63e37f0f0021

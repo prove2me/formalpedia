@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallRankCoinv_exists_fullRank_sub_mem
 -- name    : GlobalTheory.SmallRankCoinv.exists_fullRank_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:26:00.389516+00:00
 -- url     : https://prove2.me/theorems/cf9e06ef-9f73-55a8-9ce3-925557ada035

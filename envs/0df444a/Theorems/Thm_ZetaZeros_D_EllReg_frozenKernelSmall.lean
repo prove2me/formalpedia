@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_frozenKernelSmall
 -- name    : ZetaZeros.D.EllReg.frozenKernelSmall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:13:17.768749+00:00
 -- url     : https://prove2.me/theorems/f56a6fe3-02db-44e5-9326-66388782a71e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_vandermonde_lambda_lower_bound
 -- name    : Formalism.FourierDecayAlt.P.vandermonde_lambda_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:38:07.340625+00:00
 -- url     : https://prove2.me/theorems/5991146a-56a8-4863-ad80-1561baaceb03

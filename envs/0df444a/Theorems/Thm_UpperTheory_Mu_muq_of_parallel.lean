@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_muq_of_parallel
 -- name    : UpperTheory.Mu.muq_of_parallel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:57.145197+00:00
 -- url     : https://prove2.me/theorems/a1f37378-926d-5d4a-a229-caa571d532b9

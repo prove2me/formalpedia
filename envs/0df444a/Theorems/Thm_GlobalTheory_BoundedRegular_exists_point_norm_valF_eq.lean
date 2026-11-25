@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoundedRegular_exists_point_norm_valF_eq
 -- name    : GlobalTheory.BoundedRegular.exists_point_norm_valF_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:59:03.722446+00:00
 -- url     : https://prove2.me/theorems/aedddc94-c42d-407b-8965-f6dd2d6719f3

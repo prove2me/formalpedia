@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGB_trunc_eG
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGB.trunc_eG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:34.101666+00:00
 -- url     : https://prove2.me/theorems/8ed67d46-b8e3-43ea-8b1d-b229956a2557

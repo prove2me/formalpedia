@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_norm_mulVec_le
 -- name    : GlobalTheory.CycPerturb.norm_mulVec_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:32.214868+00:00
 -- url     : https://prove2.me/theorems/7ab903c1-4bc0-5ef7-bedb-caef90a766ca

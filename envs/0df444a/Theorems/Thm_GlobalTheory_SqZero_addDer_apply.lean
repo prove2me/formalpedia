@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_addDer_apply
 -- name    : GlobalTheory.SqZero.addDer_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:24.1216+00:00
 -- url     : https://prove2.me/theorems/e636f84a-4f32-482d-b730-ff2c29d7ed79

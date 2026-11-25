@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LErr_error_windows_model
 -- name    : Formalism.LFunctionChainParameters.LErr.error_windows_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:50:00.824591+00:00
 -- url     : https://prove2.me/theorems/b2967a07-c9ea-44a9-ac01-4a4ef8e28724

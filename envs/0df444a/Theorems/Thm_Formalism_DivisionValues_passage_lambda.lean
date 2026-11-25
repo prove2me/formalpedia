@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_passage_lambda
 -- name    : Formalism.DivisionValues.passage_lambda
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:27:10.520396+00:00
 -- url     : https://prove2.me/theorems/d55138b2-3693-4ce5-a9bc-21253f8ce61d

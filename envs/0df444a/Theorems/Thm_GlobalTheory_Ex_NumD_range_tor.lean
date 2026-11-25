@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_range_tor
 -- name    : GlobalTheory.Ex.NumD.range_tor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:43.389601+00:00
 -- url     : https://prove2.me/theorems/5220dc69-cc47-4306-b4e4-82afe9d3aa11

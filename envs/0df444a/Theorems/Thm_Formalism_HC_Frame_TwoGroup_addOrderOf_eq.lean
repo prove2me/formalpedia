@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_TwoGroup_addOrderOf_eq
 -- name    : Formalism.HC.Frame.TwoGroup.addOrderOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:04.120894+00:00
 -- url     : https://prove2.me/theorems/6570b91a-08f8-452f-a86c-8307dde2c4c9

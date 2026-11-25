@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_IsValChar_expIn_eq
 -- name    : GlobalTheory.CMVal.Model.IsValChar.expIn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:58:52.703115+00:00
 -- url     : https://prove2.me/theorems/c70f1e84-6671-404f-abae-90717bdf4656

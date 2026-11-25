@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_permutedCokernelLowerBound_of
 -- name    : ReciprocityTheory.PGsh.Up.permutedCokernelLowerBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:55.279376+00:00
 -- url     : https://prove2.me/theorems/7525392c-9cf2-4498-8323-2b48d8ff82b2

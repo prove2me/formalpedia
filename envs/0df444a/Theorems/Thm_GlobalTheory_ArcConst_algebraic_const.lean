@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArcConst_algebraic_const
 -- name    : GlobalTheory.ArcConst.algebraic_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:55:52.915646+00:00
 -- url     : https://prove2.me/theorems/08f1d602-48eb-4efc-bf96-bab6942f0063

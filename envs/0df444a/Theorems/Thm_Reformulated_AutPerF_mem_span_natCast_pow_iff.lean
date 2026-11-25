@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_mem_span_natCast_pow_iff
 -- name    : Reformulated.AutPerF.mem_span_natCast_pow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:16.05831+00:00
 -- url     : https://prove2.me/theorems/6e9b9519-6645-4774-953a-d85c1bfadad2

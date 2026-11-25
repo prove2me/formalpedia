@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_prod_primeFactors_pow_ceil_padicValNat_mul_eq_pow
 -- name    : UpperTheory.prod_primeFactors_pow_ceil_padicValNat_mul_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:18.957934+00:00
 -- url     : https://prove2.me/theorems/49768b95-ca8a-43a8-83c1-69e9a4041f79

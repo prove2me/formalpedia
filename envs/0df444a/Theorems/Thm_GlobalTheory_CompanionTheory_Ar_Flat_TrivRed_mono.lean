@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_TrivRed_mono
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.TrivRed.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:59:21.645846+00:00
 -- url     : https://prove2.me/theorems/ed6253c1-e84b-4acf-bc99-0d6a6c24afe4

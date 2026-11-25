@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TwoSidedBoostBounds_maj_two_sided
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TwoSidedBoostBounds.maj_two_sided
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:22:45.546523+00:00
 -- url     : https://prove2.me/theorems/a69327b2-cf8a-549e-83ba-8457037eff3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_TwoFormSum_sum_sum_eq_lt
 -- name    : GlobalTheory.AbCoh.TwoFormSum.sum_sum_eq_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:08:40.212874+00:00
 -- url     : https://prove2.me/theorems/52dd4ade-359a-43fd-b758-0a64e08bc7f4

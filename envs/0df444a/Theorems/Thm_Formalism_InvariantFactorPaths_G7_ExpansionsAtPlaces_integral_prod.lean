@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ExpansionsAtPlaces_integral_prod
 -- name    : Formalism.InvariantFactorPaths.G7.ExpansionsAtPlaces.integral_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:43:48.274715+00:00
 -- url     : https://prove2.me/theorems/819a534f-276a-4e03-b180-ce8274ac198c

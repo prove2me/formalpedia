@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_finrank_Kn
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.finrank_Kn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:55:13.020054+00:00
 -- url     : https://prove2.me/theorems/1759cfad-a853-4960-bd33-d9fdc27166a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_up_kill
 -- name    : ReciprocityTheory.PGsh.Up.up_kill
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:54.521744+00:00
 -- url     : https://prove2.me/theorems/ea8228ba-6a85-4d59-8e49-b34d1f3e8ead

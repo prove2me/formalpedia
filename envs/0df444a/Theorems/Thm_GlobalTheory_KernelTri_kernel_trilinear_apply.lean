@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelTri_kernel_trilinear_apply
 -- name    : GlobalTheory.KernelTri.kernel_trilinear_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:15:15.171511+00:00
 -- url     : https://prove2.me/theorems/c5181bdd-c5d2-46ca-a0e7-98da1cc07a23

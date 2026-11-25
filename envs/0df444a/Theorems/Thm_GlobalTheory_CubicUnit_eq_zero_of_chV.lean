@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubicUnit_eq_zero_of_chV
 -- name    : GlobalTheory.CubicUnit.eq_zero_of_chV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:02:01.285275+00:00
 -- url     : https://prove2.me/theorems/840f76cc-52e4-41e4-8344-8aa22f901e4b

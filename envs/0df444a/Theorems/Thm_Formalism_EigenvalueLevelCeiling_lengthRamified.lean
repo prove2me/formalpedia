@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_lengthRamified
 -- name    : Formalism.EigenvalueLevelCeiling.lengthRamified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:27:52.099639+00:00
 -- url     : https://prove2.me/theorems/40abb7a0-73a5-4fdb-bfc9-61b875c771de

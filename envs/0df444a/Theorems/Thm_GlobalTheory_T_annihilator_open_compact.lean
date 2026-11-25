@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_annihilator_open_compact
 -- name    : GlobalTheory.T.annihilator_open_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:27:05.139473+00:00
 -- url     : https://prove2.me/theorems/9b05f1da-d2f6-5368-ac75-fa7fa9f8dafc

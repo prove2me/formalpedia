@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_mem_UJ_iff_adj_mul
 -- name    : GlobalTheory.RegSS.mem_UJ_iff_adj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:50.65133+00:00
 -- url     : https://prove2.me/theorems/186bf318-9af8-5fe9-91a7-c024b90a3f54

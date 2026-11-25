@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_t_PImportsHold
 -- name    : Formalism.FourierDecayAlt.P.LEx2.t_PImportsHold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:27.725843+00:00
 -- url     : https://prove2.me/theorems/c838d3b6-98b4-5702-a1be-45afa850991c

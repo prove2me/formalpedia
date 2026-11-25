@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_ValuationFitting_smith_data
 -- name    : Formalism.MainNotions.G.ValuationFitting.smith_data
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:41.32462+00:00
 -- url     : https://prove2.me/theorems/7664292a-49e3-437d-abeb-42da13fdb4f2

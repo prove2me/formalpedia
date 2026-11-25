@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_glued_injective
 -- name    : GlobalTheory.LatPair.Model.glued_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:12:56.53163+00:00
 -- url     : https://prove2.me/theorems/feb0c8e5-2151-5d38-ae32-71c7a2fd0142

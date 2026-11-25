@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_kato_norm_relation_tame_prime
 -- name    : UnipMove.kato_norm_relation_tame_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:11:51.796804+00:00
 -- url     : https://prove2.me/theorems/b31cbb0f-59db-5434-9401-7d138be90357

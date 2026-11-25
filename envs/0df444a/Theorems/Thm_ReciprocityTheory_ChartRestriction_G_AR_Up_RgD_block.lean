@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_RgD_block
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.RgD.block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:00:16.547805+00:00
 -- url     : https://prove2.me/theorems/e0d2e0b0-4f02-5e4f-b523-05237bc7d04d

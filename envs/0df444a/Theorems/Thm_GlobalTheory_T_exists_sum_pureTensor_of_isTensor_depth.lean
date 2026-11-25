@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_sum_pureTensor_of_isTensor_depth
 -- name    : GlobalTheory.T.exists_sum_pureTensor_of_isTensor_depth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:22.980457+00:00
 -- url     : https://prove2.me/theorems/dcfc276a-3c11-43aa-81f8-23199d589286

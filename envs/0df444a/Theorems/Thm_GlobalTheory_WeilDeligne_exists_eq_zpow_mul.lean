@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_exists_eq_zpow_mul
 -- name    : GlobalTheory.WeilDeligne.exists_eq_zpow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:08:03.830831+00:00
 -- url     : https://prove2.me/theorems/942a840e-7ee2-4ed7-a9b4-cacd8bb7c803

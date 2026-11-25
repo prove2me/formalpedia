@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for Formalism.LT.lubinTateExample
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T17:15:05.47181+00:00
+-- url     : https://prove2.me/submissions/d5f3b45f-7293-45b2-9ad8-e5cf24c09c33
+
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_SolveExistsProof
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_InvInt
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_SigmaNormLeOne
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_MemSpanOfNormLe
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_NormSigmaLeOne
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_MapSubtypeInjective
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_CoeffSubstAddCMulXPow
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_IsHomOfSubstEqSmul
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_TorsionNormIterProof
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_NormNatCastOfNotDvd
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_LTLemma
+import Definitions.Def_Formalism_TorsionNormIteration_LubinTateExample
+import Theorems.Thm_Formalism_LT_funEqFormalGroup
+import Theorems.Thm_Formalism_LT_funEqHom
+import Theorems.Thm_Formalism_LT_funEqCongr
+import Theorems.Thm_Formalism_LT_CongrP_funEqCongr
+import Theorems.Thm_Formalism_LT_LubinTateExample_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.LT
+universe u v
+namespace Formalism.LT
+theorem _root_.solution : Formalism.G.LubinTateExample :=
+  LubinTateExample_of funEqFormalGroup funEqHom funEqCongr
+end Formalism.LT

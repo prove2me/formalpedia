@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AinfXi_eq_zero_of_forall_dvd
 -- name    : GlobalTheory.AinfXi.eq_zero_of_forall_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:55:58.129015+00:00
 -- url     : https://prove2.me/theorems/4bfb80ca-8f5f-4cdb-9b1a-00689f299d8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_GL_cardinality_split
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.GL_cardinality_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:44:14.8409+00:00
 -- url     : https://prove2.me/theorems/dada11b8-1d96-4e19-8c4e-951fc98d4ebc

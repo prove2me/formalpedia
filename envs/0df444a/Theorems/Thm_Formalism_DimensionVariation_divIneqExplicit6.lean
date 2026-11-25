@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_divIneqExplicit6
 -- name    : Formalism.DimensionVariation.divIneqExplicit6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:25:39.722619+00:00
 -- url     : https://prove2.me/theorems/d0a3f78b-17e9-4603-a2c1-f325eec06eed

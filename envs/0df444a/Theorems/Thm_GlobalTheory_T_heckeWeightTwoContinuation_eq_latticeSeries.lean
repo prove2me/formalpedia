@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeWeightTwoContinuation_eq_latticeSeries
 -- name    : GlobalTheory.T.heckeWeightTwoContinuation_eq_latticeSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:06.884727+00:00
 -- url     : https://prove2.me/theorems/77f197ae-a5ba-4a0d-a261-db24048c182d

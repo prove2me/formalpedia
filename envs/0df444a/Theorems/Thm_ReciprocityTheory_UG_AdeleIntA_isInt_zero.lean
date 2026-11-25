@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_UG_AdeleIntA_isInt_zero
 -- name    : ReciprocityTheory.UG.AdeleIntA.isInt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:07.40857+00:00
 -- url     : https://prove2.me/theorems/8af5ab44-7e60-5bc6-9cd5-177960756183

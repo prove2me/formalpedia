@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_sCmp_of
 -- name    : UnipMove.sCmp_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:11:58.128589+00:00
 -- url     : https://prove2.me/theorems/7e6b29ea-241a-5cfa-b11e-36ad3882daa4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_complex_hessian_log_fubini_study
 -- name    : GlobalTheory.T.complex_hessian_log_fubini_study
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:47:06.925125+00:00
 -- url     : https://prove2.me/theorems/d63bfeca-f196-4bf6-a4a6-71a8bbfde9f8

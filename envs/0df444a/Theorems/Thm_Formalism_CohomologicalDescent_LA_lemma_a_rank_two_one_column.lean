@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_lemma_a_rank_two_one_column
 -- name    : Formalism.CohomologicalDescent.LA.lemma_a_rank_two_one_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:22:48.694867+00:00
 -- url     : https://prove2.me/theorems/b5e9bbff-e11e-4374-81f1-b048320199e1

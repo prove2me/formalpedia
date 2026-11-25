@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_tubeExtends_farCone
 -- name    : EisTube.tubeExtends_farCone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:18:07.732817+00:00
 -- url     : https://prove2.me/theorems/079ca1b5-ec32-5880-b87f-2eb96c323a96

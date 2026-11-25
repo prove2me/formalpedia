@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdRPlus_hom_ext_of_formallyUnramified
 -- name    : Reformulated.AutPerF.BdRPlus.hom_ext_of_formallyUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:22:46.107365+00:00
 -- url     : https://prove2.me/theorems/3ac692e3-84a0-4366-b80a-2faba79cfd24

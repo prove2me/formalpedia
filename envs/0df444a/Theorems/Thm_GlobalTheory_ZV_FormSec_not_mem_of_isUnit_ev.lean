@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_FormSec_not_mem_of_isUnit_ev
 -- name    : GlobalTheory.ZV.FormSec.not_mem_of_isUnit_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:50:41.631822+00:00
 -- url     : https://prove2.me/theorems/4aaa5893-c056-4b5b-8559-56d207dcd7e1

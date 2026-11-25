@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_tailSums
 -- name    : Formalism.G0.Top.tailSums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:39:39.667881+00:00
 -- url     : https://prove2.me/theorems/3a081ce3-a712-4593-98ad-9c165fc693fa

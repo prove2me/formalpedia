@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TQ_Desc_cubV_torus
 -- name    : GlobalTheory.UU.TQ.Desc.cubV_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:58:42.899858+00:00
 -- url     : https://prove2.me/theorems/acdaa3e3-abef-4848-a8e7-ded82f70cb33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_generator_extend_dense_proOpen
 -- name    : GlobalTheory.T.existsUnique_generator_extend_dense_proOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:02.524807+00:00
 -- url     : https://prove2.me/theorems/0f50f6d9-0340-4282-b066-514724257653

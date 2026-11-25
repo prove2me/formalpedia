@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_adelic_compact_real_places
 -- name    : adelic_compact_real_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:13.963054+00:00
 -- url     : https://prove2.me/theorems/d5c719b7-5fcf-5738-9605-bf6d332e643b

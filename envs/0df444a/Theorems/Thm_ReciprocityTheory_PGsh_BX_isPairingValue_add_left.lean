@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_isPairingValue_add_left
 -- name    : ReciprocityTheory.PGsh.BX.isPairingValue_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:13.820627+00:00
 -- url     : https://prove2.me/theorems/ab590cf0-1f7b-4347-9e10-4b933552a094

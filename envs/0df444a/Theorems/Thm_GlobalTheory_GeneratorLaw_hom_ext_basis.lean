@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorLaw_hom_ext_basis
 -- name    : GlobalTheory.GeneratorLaw.hom_ext_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:44:11.719123+00:00
 -- url     : https://prove2.me/theorems/e25351ce-0a57-4402-ae50-c30ec40b3763

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_sizeData_joint
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.sizeData_joint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:23:25.31518+00:00
 -- url     : https://prove2.me/theorems/fe161f02-42bf-4b06-8eeb-3852b259d399

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HtPlacesSumWork_places_over_height_one_prime
 -- name    : PI.HtPlacesSumWork.places_over_height_one_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:07:46.440081+00:00
 -- url     : https://prove2.me/theorems/d1a40657-cbf5-4221-ad68-90f923052f17

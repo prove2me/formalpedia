@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothPart_smooth_and_comap_eq
 -- name    : GlobalTheory.CompanionTheory.SmoothPart.smooth_and_comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:52:21.440833+00:00
 -- url     : https://prove2.me/theorems/96abc0da-bd3b-4af5-86e1-7c95762a6826

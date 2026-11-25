@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_split_frame_density
 -- name    : Formalism.FourierDecayAlt.P.split_frame_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:35:12.150521+00:00
 -- url     : https://prove2.me/theorems/ea64bd62-50f4-4861-807d-02c39e109cd9

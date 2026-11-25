@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpecialConn_thickTr_str
 -- name    : GlobalTheory.SpecialConn.thickTr_str
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:24:25.60273+00:00
 -- url     : https://prove2.me/theorems/a05a36ae-58c8-4c91-97b7-147681602bc9

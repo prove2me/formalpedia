@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_isLattice_act
 -- name    : GlobalTheory.IdealChain.isLattice_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:20.864219+00:00
 -- url     : https://prove2.me/theorems/70b7eb9e-0ff1-5485-a3ce-b2690e4ced91

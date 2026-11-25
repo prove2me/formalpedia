@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KZ_ES_lev_jK
 -- name    : GlobalTheory.KZ.ES.lev_jK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:12:07.624544+00:00
 -- url     : https://prove2.me/theorems/258910d2-765f-576b-b5f9-298a373a0c37

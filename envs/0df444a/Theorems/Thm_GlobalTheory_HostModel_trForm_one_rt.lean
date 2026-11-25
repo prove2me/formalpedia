@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_trForm_one_rt
 -- name    : GlobalTheory.HostModel.trForm_one_rt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:29.744858+00:00
 -- url     : https://prove2.me/theorems/5d56f83c-8482-5a31-b2c2-e325b7f71436

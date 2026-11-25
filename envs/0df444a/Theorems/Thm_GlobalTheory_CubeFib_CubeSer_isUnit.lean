@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFib_CubeSer_isUnit
 -- name    : GlobalTheory.CubeFib.CubeSer.isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:44.61101+00:00
 -- url     : https://prove2.me/theorems/f15df2ba-e8aa-443f-b911-bb0df25d46e5

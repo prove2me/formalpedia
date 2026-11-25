@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_example_exists_slopeBound_conditions_of_jacobiSym
 -- name    : Formalism.L2.Indef.Tree.example_exists_slopeBound_conditions_of_jacobiSym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:32.606032+00:00
 -- url     : https://prove2.me/theorems/9152d877-9c4d-4c7d-8fb6-70e45bb5e299

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_hensel_mem
 -- name    : ReciprocityTheory.ChartRestriction.L1.hensel_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:48:59.411732+00:00
 -- url     : https://prove2.me/theorems/44bc2024-9c96-4577-8e5d-a53eb50790b3

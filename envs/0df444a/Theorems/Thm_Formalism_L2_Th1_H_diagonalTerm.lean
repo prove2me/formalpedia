@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_diagonalTerm
 -- name    : Formalism.L2.Th1.H.diagonalTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:49:40.14645+00:00
 -- url     : https://prove2.me/theorems/ff3ba304-b943-4e00-9311-293e4a450afd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymRes_isPat_one
 -- name    : GlobalTheory.SymRes.isPat_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:25:46.153877+00:00
 -- url     : https://prove2.me/theorems/78aa588a-4e3a-4d11-818d-60781b11eeda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_GL_cost_proposition_at_scale
 -- name    : UpperTheory.GL.cost_proposition_at_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:13:32.525028+00:00
 -- url     : https://prove2.me/theorems/46ac2911-0dc8-403b-a062-bd0044f4d66f

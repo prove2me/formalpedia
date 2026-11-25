@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_ramificationIdx_eq_one_iff
 -- name    : Formalism.HC.HostAx.ramificationIdx_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:59.386821+00:00
 -- url     : https://prove2.me/theorems/d09541f3-625c-5e94-9096-a37b9672ea3f

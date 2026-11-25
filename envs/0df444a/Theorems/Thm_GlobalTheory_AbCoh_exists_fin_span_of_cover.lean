@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_exists_fin_span_of_cover
 -- name    : GlobalTheory.AbCoh.exists_fin_span_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:57:06.836948+00:00
 -- url     : https://prove2.me/theorems/891bdd69-84f8-4dd2-8de2-a1ec248f2127

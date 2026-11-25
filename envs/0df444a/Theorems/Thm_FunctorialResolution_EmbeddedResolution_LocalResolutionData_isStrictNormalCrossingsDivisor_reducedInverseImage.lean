@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_isStrictNormalCrossingsDivisor_reducedInverseImage
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.isStrictNormalCrossingsDivisor_reducedInverseImage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:59.823851+00:00
 -- url     : https://prove2.me/theorems/4a58fce7-88c8-4a37-8357-e80af4f28651

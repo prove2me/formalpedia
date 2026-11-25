@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_posDef_bGram_secFun
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.posDef_bGram_secFun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:15.80853+00:00
 -- url     : https://prove2.me/theorems/60c108aa-b907-407b-b2e1-5aa63f06060a

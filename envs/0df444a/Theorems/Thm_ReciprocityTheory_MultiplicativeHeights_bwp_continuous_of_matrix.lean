@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_bwp_continuous_of_matrix
 -- name    : ReciprocityTheory.MultiplicativeHeights.bwp_continuous_of_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:04:08.240126+00:00
 -- url     : https://prove2.me/theorems/cfe766af-fb1f-58ab-bd32-c5b1d0be7cf9

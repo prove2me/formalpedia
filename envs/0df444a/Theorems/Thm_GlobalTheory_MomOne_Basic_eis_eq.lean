@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Basic_eis_eq
 -- name    : GlobalTheory.MomOne.Basic.eis_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:30.225475+00:00
 -- url     : https://prove2.me/theorems/fdf599bf-4601-40f3-9ee6-9047c1c8093a

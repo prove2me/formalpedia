@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeRhamCompare_FildR_succ_le
 -- name    : GlobalTheory.DeRhamCompare.FildR_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:58.215543+00:00
 -- url     : https://prove2.me/theorems/dd595ba4-84bb-4b60-9d21-7181625c0d05

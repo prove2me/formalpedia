@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLift_exists_chart
 -- name    : GlobalTheory.LocalLift.exists_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:49:02.719889+00:00
 -- url     : https://prove2.me/theorems/4d99ff52-2337-5cb4-9d91-9f11b23f7b77

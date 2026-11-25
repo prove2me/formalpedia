@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_BKHom_onPol_Lc
 -- name    : GlobalTheory.BK.BKHom.onPol_Lc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:11:19.651035+00:00
 -- url     : https://prove2.me/theorems/66f268b6-20f3-4793-bb86-a2d6920926f1

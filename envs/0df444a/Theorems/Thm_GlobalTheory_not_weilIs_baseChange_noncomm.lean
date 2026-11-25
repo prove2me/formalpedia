@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_not_weilIs_baseChange_noncomm
 -- name    : GlobalTheory.not_weilIs_baseChange_noncomm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:16:10.814997+00:00
 -- url     : https://prove2.me/theorems/277132e7-2ff1-5d38-a421-d3116b2f0946

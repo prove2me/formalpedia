@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_muMin_eq_iInf_isSaturatedIn
 -- name    : GlobalTheory.ArchMetric.muMin_eq_iInf_isSaturatedIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:55:10.070439+00:00
 -- url     : https://prove2.me/theorems/e5bc0bfb-7353-5c69-be2c-43adda9d07df

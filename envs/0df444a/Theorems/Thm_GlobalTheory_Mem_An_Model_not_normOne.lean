@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_Model_not_normOne
 -- name    : GlobalTheory.Mem.An.Model.not_normOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:17.939344+00:00
 -- url     : https://prove2.me/theorems/b5e0a8da-633a-46d8-a689-342236762eb8

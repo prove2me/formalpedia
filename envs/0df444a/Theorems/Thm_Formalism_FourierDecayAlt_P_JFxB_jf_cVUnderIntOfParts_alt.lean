@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxB_jf_cVUnderIntOfParts_alt
 -- name    : Formalism.FourierDecayAlt.P.JFxB.jf_cVUnderIntOfParts_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:25.386946+00:00
 -- url     : https://prove2.me/theorems/8acb90cc-5786-5f4c-9f26-e0f321f9de49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LP_completeReducibility_holds
 -- name    : Formalism.CohomologicalDescent.LP.completeReducibility_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:22:24.475902+00:00
 -- url     : https://prove2.me/theorems/7010cb4e-4e8f-4369-a916-c9034e4366ca

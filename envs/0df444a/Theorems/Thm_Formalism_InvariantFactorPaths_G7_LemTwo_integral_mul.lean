@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_LemTwo_integral_mul
 -- name    : Formalism.InvariantFactorPaths.G7.LemTwo.integral_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:24.361891+00:00
 -- url     : https://prove2.me/theorems/b093c1e4-66f3-4574-b41b-0581ffa54c65

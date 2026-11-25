@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymAlg_algHom_eq_pow_mul
 -- name    : GlobalTheory.SymAlg.algHom_eq_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:25:06.236662+00:00
 -- url     : https://prove2.me/theorems/91539ce8-ed34-4acd-8106-7444f08b458e

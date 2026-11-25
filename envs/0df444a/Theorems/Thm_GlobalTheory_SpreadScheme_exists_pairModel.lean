@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpreadScheme_exists_pairModel
 -- name    : GlobalTheory.SpreadScheme.exists_pairModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:04:00.922834+00:00
 -- url     : https://prove2.me/theorems/86dcb6a1-78c7-4e00-8b50-9c4688778f2d

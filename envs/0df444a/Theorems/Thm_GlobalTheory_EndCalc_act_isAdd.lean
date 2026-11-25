@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndCalc_act_isAdd
 -- name    : GlobalTheory.EndCalc.act_isAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:59:22.065703+00:00
 -- url     : https://prove2.me/theorems/a3b131fe-3a40-4a5a-a44f-aabb0ae5321c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtensionRigidity_exists_factor
 -- name    : GlobalTheory.ExtensionRigidity.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:35:52.721937+00:00
 -- url     : https://prove2.me/theorems/89fc5ef4-94b6-42e1-895a-a55aaf406b28

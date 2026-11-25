@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_HasStrictNormalCrossingsWith_exists_etaleChart_of_cons
 -- name    : FunctorialResolution.EmbeddedResolution.HasStrictNormalCrossingsWith.exists_etaleChart_of_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:47.441645+00:00
 -- url     : https://prove2.me/theorems/52fa9705-85af-4527-939d-73088a81d593

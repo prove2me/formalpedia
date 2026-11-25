@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adelic_unitary_finite_set_decomposition
 -- name    : GlobalTheory.T.adelic_unitary_finite_set_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:45.975889+00:00
 -- url     : https://prove2.me/theorems/1c449008-548e-4342-86bb-42b0750fec4d

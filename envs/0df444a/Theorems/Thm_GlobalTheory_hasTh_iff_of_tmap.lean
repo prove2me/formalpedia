@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasTh_iff_of_tmap
 -- name    : GlobalTheory.hasTh_iff_of_tmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:53:42.686134+00:00
 -- url     : https://prove2.me/theorems/97e4ed69-a473-5579-81a3-d7d447b41c21

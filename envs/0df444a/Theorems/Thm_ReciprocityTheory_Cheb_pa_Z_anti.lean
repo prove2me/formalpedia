@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pa_Z_anti
 -- name    : ReciprocityTheory.Cheb.pa_Z_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:29.776901+00:00
 -- url     : https://prove2.me/theorems/616ce0a1-c699-48b7-8870-ef15ea08d255

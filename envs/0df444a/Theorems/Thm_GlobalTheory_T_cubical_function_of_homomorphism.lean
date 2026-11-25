@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cubical_function_of_homomorphism
 -- name    : GlobalTheory.T.cubical_function_of_homomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:28:19.604051+00:00
 -- url     : https://prove2.me/theorems/099b6901-74bc-46e6-997d-25698f93c1cb

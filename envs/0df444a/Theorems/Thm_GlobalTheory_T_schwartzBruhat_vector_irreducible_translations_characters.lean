@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_vector_irreducible_translations_characters
 -- name    : GlobalTheory.T.schwartzBruhat_vector_irreducible_translations_characters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:17.33146+00:00
 -- url     : https://prove2.me/theorems/8fe84e6c-201f-524e-8398-7a51f3075640

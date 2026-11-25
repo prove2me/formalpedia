@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_gramExpansion_orthonormal
 -- name    : gramExpansion_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:14:27.898402+00:00
 -- url     : https://prove2.me/theorems/54dfd1bb-aa9e-4cea-82ef-3293e6b0770c

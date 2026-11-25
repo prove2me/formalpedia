@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_elementary_divisor_statement
 -- name    : ReciprocityTheory.PGsh.Up.elementary_divisor_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:15:31.226634+00:00
 -- url     : https://prove2.me/theorems/9b838903-b5ea-4da9-9afd-56e8ab3b5c9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GapSizeCheck_gapOK_inhabited
 -- name    : GlobalTheory.GapSizeCheck.gapOK_inhabited
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:07:11.447381+00:00
 -- url     : https://prove2.me/theorems/28f4d796-973c-4130-8618-65ca83f6595d

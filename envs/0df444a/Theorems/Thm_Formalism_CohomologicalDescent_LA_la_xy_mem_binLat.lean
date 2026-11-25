@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_la_xy_mem_binLat
 -- name    : Formalism.CohomologicalDescent.LA.la_xy_mem_binLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:22:10.351312+00:00
 -- url     : https://prove2.me/theorems/59fe0426-b228-495a-ae2c-2efff2f444a3

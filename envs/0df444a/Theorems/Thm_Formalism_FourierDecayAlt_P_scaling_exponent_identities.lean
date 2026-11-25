@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_scaling_exponent_identities
 -- name    : Formalism.FourierDecayAlt.P.scaling_exponent_identities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:09.074639+00:00
 -- url     : https://prove2.me/theorems/7ef17ae3-e62c-404a-a8cf-f5fe52f047f6

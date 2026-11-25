@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_idealSheafGeometryHypotheses_of_vanishingOrderOneOnSmoothDivisor
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.idealSheafGeometryHypotheses_of_vanishingOrderOneOnSmoothDivisor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:36.612933+00:00
 -- url     : https://prove2.me/theorems/fb3006b7-b7f2-5c0d-976e-2e70598ae5df

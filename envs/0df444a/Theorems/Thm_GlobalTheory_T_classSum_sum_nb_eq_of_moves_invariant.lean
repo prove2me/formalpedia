@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_classSum_sum_nb_eq_of_moves_invariant
 -- name    : GlobalTheory.T.classSum_sum_nb_eq_of_moves_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:28:44.987667+00:00
 -- url     : https://prove2.me/theorems/f7fcd0de-c0f0-46bf-a7d0-f760ffe81997

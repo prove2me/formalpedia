@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_SegreCoord_spc
 -- name    : GlobalTheory.ZM.SegreCoord.spc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:47:03.333871+00:00
 -- url     : https://prove2.me/theorems/46ad4f01-78e2-4b4d-b42a-b503a72a98cf

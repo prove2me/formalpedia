@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_holoContDiff
 -- name    : ReciprocityTheory.L2DbarEstimates.C.holoContDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:20:00.872507+00:00
 -- url     : https://prove2.me/theorems/7e8b18f6-5f0f-4280-966c-b24c2e63b79b

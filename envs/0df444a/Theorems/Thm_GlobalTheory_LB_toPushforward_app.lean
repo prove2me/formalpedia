@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LB_toPushforward_app
 -- name    : GlobalTheory.LB.toPushforward_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:05:37.691909+00:00
 -- url     : https://prove2.me/theorems/b173feb1-900e-59d9-9187-fdc30f8eb751

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_scale_character_identity
 -- name    : Formalism.FourierDecayAlt.P.scale_character_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:00.442142+00:00
 -- url     : https://prove2.me/theorems/44bad184-26cd-4e65-843d-2bd43834d14c

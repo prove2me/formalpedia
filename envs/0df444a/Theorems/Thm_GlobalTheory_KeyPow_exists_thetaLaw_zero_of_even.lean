@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_exists_thetaLaw_zero_of_even
 -- name    : GlobalTheory.KeyPow.exists_thetaLaw_zero_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:03:48.753077+00:00
 -- url     : https://prove2.me/theorems/cf39f1ee-e738-43fe-b72a-6651f76b7e7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_det_leftMulReal_eq_one
 -- name    : Formalism.REAL.det_leftMulReal_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:24.69763+00:00
 -- url     : https://prove2.me/theorems/02d8a0a8-9178-47dc-9152-11fae0fa31b4

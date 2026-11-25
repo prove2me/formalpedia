@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_FamOf_unitInv_fst
 -- name    : GlobalTheory.ZM.FamOf.unitInv_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:06:56.451059+00:00
 -- url     : https://prove2.me/theorems/1188d69e-0bdc-5718-831e-a1e3363b3fdd

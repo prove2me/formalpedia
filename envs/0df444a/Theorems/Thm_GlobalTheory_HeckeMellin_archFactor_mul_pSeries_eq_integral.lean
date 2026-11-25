@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeMellin_archFactor_mul_pSeries_eq_integral
 -- name    : GlobalTheory.HeckeMellin.archFactor_mul_pSeries_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:06:41.4288+00:00
 -- url     : https://prove2.me/theorems/2cda14be-1df7-45a4-90db-b9d22e8c14c0

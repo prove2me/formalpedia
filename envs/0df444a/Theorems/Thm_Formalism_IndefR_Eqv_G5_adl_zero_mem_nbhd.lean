@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_G5_adl_zero_mem_nbhd
 -- name    : Formalism.IndefR.Eqv.G5.adl_zero_mem_nbhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:42:56.937651+00:00
 -- url     : https://prove2.me/theorems/de99b270-a2f6-46a5-97f9-4eeb0eadbf35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_TorusWeight_txFrame_of_one
 -- name    : GlobalTheory.UT.TorusWeight.txFrame_of_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:27:27.607147+00:00
 -- url     : https://prove2.me/theorems/1b663361-32b3-423c-b14c-b14aefa6a374

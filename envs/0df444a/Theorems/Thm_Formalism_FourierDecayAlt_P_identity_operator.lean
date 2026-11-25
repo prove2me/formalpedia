@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_identity_operator
 -- name    : Formalism.FourierDecayAlt.P.identity_operator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:36:29.994715+00:00
 -- url     : https://prove2.me/theorems/b0100902-c301-593f-b909-51257ec450ee

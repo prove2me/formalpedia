@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ValuationGridEstimates_valuation_ratio_index
 -- name    : Formalism.ValuationGridEstimates.valuation_ratio_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:40.795983+00:00
 -- url     : https://prove2.me/theorems/bf4c4258-cec3-4255-a868-2346961a6f5c

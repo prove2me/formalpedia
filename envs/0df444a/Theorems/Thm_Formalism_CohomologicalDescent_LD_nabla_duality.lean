@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_nabla_duality
 -- name    : Formalism.CohomologicalDescent.LD.nabla_duality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:32:06.173316+00:00
 -- url     : https://prove2.me/theorems/eea36c93-1164-5bd0-97de-f20b5a2e63c7

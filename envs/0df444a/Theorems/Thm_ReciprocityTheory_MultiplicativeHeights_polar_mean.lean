@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_polar_mean
 -- name    : ReciprocityTheory.MultiplicativeHeights.polar_mean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:42.986986+00:00
 -- url     : https://prove2.me/theorems/ee246e87-62d4-5993-8eab-f644fc0c9c52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_witt_theorem
 -- name    : GlobalTheory.HermWitt.witt_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:31.421214+00:00
 -- url     : https://prove2.me/theorems/5418c90a-7aff-4eb0-aec8-42f333bb75b1

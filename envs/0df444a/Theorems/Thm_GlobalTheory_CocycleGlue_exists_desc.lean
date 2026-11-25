@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CocycleGlue_exists_desc
 -- name    : GlobalTheory.CocycleGlue.exists_desc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:28:03.959587+00:00
 -- url     : https://prove2.me/theorems/2c7feb25-c85a-4255-bcd4-08a20cfd44be

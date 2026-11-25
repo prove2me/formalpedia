@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_Qcqs_exists_smul_eq_app
 -- name    : GlobalTheory.QCoh.Qcqs.exists_smul_eq_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:17:27.094077+00:00
 -- url     : https://prove2.me/theorems/6a3819db-2468-4c9b-934d-5910a3bf49ef

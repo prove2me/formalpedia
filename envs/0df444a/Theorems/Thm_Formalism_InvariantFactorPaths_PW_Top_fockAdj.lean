@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_fockAdj
 -- name    : Formalism.InvariantFactorPaths.PW.Top.fockAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:42:26.720625+00:00
 -- url     : https://prove2.me/theorems/55c30a14-8df4-553d-a525-ce79ac9a9bf3

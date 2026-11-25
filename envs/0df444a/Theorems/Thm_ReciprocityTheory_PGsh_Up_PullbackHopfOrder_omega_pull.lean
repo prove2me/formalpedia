@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_PullbackHopfOrder_omega_pull
 -- name    : ReciprocityTheory.PGsh.Up.PullbackHopfOrder.omega_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:06:08.594211+00:00
 -- url     : https://prove2.me/theorems/dd174c0e-c6fc-4a3e-aaa1-ee413f06f096

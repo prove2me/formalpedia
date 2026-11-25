@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_holoDeriv
 -- name    : ReciprocityTheory.L2DbarEstimates.C.holoDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:46.570801+00:00
 -- url     : https://prove2.me/theorems/bce7b065-1b57-4285-95a6-eef929f311ef

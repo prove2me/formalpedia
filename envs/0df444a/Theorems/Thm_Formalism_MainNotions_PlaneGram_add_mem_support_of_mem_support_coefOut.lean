@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_add_mem_support_of_mem_support_coefOut
 -- name    : Formalism.MainNotions.PlaneGram.add_mem_support_of_mem_support_coefOut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:50:59.055544+00:00
 -- url     : https://prove2.me/theorems/8f7dce6a-7ff2-462c-9281-1d5b241bbda0

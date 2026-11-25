@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_ConjInvariant_gramDet_conjugate
 -- name    : GlobalTheory.ArchMetric.ConjInvariant.gramDet_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:46.695622+00:00
 -- url     : https://prove2.me/theorems/10feb96e-e792-5eed-9d83-0f5ec124a162

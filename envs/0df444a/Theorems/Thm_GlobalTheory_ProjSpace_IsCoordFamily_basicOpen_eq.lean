@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_IsCoordFamily_basicOpen_eq
 -- name    : GlobalTheory.ProjSpace.IsCoordFamily.basicOpen_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:22:58.94391+00:00
 -- url     : https://prove2.me/theorems/4832fb15-4b55-47dd-90d4-2c5e8fb329db

@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.loops_give_series
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T16:43:40.547384+00:00
+-- url     : https://prove2.me/submissions/4356b0cd-53e2-4bb5-9622-9b2cfe009e0f
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementPB
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_JointInstanceTheoremA
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PullLatticeTypedUnit
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PeriodLatticeFactsSplitOfGeneral
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalisationScaledIdealMemIff
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TwistedIsRealOrderLattice
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_GrowthOfBasic
+import Theorems.Thm_Formalism_FourierDecayAlt_P_GrowthPolynomialOperator_t_LoopsGiveRows
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.PB.LoopsGiveRows := GrowthPolynomialOperator.t_LoopsGiveRows
+end Formalism.FourierDecayAlt.P

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_WA_gmap_loc_eq_of_frame
 -- name    : Formalism.HermitianLattices.Ext.L3.WA.gmap_loc_eq_of_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:13.565679+00:00
 -- url     : https://prove2.me/theorems/3aade15a-09fe-418b-bd3e-2c754965e2c0

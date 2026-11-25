@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_exists_monic_change_of_variables
 -- name    : UpperTheory.exists_monic_change_of_variables
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:12:42.385798+00:00
 -- url     : https://prove2.me/theorems/600d3997-4516-4192-afb2-216a5e6e2616

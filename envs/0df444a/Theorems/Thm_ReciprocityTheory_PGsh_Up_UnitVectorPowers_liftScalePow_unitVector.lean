@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_UnitVectorPowers_liftScalePow_unitVector
 -- name    : ReciprocityTheory.PGsh.Up.UnitVectorPowers.liftScalePow_unitVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:06:51.312302+00:00
 -- url     : https://prove2.me/theorems/6f0e9ac3-e5e9-5b2f-ade3-10a32e6bdfcf

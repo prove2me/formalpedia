@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ClosedFibre_closed_missing_closedFibre_empty
 -- name    : GlobalTheory.CompanionTheory.ClosedFibre.closed_missing_closedFibre_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:01:11.405908+00:00
 -- url     : https://prove2.me/theorems/d1d52706-2c09-4068-a389-e6aad4e749ea

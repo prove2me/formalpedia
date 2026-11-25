@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_flatTensor_pureTensor_eq_prod_contr
 -- name    : GlobalTheory.FunObj.flatTensor_pureTensor_eq_prod_contr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:26.539296+00:00
 -- url     : https://prove2.me/theorems/0017cf50-1104-4f9c-8d73-4c90679e97fd

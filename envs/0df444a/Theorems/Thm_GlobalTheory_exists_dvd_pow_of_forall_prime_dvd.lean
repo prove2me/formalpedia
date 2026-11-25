@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_dvd_pow_of_forall_prime_dvd
 -- name    : GlobalTheory.exists_dvd_pow_of_forall_prime_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:56:08.974441+00:00
 -- url     : https://prove2.me/theorems/162c7489-111c-43aa-ba3f-aa4d6a9abead

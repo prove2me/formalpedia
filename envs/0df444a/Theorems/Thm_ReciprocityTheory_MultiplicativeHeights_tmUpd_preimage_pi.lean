@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_tmUpd_preimage_pi
 -- name    : ReciprocityTheory.MultiplicativeHeights.tmUpd_preimage_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:04:43.67262+00:00
 -- url     : https://prove2.me/theorems/13bb33dd-85ff-5329-9876-8b160825dd54

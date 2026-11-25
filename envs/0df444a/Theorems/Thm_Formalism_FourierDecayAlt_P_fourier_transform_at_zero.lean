@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fourier_transform_at_zero
 -- name    : Formalism.FourierDecayAlt.P.fourier_transform_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:33:22.742926+00:00
 -- url     : https://prove2.me/theorems/af365a65-1b84-4c5b-8ce0-722a0348f312

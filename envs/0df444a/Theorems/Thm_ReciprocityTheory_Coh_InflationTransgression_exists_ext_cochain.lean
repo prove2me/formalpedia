@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTransgression_exists_ext_cochain
 -- name    : ReciprocityTheory.Coh.InflationTransgression.exists_ext_cochain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:50:35.900689+00:00
 -- url     : https://prove2.me/theorems/36db57da-b3ec-491f-9524-603a6bdad01a

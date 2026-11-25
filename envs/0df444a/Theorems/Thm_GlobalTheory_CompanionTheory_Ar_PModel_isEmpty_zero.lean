@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PModel_isEmpty_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.PModel.isEmpty_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:00:25.729812+00:00
 -- url     : https://prove2.me/theorems/84636b57-1aab-4442-a152-01fffaf2714c

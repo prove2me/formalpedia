@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Model_twistChain_reps_zero
 -- name    : GlobalTheory.StepData.Model.twistChain_reps_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:32.997525+00:00
 -- url     : https://prove2.me/theorems/cf120330-8f70-5bfb-9cff-0731b9615b11

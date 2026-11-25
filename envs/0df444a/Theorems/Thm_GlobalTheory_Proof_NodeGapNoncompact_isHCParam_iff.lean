@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_NodeGapNoncompact_isHCParam_iff
 -- name    : GlobalTheory.Proof.NodeGapNoncompact.isHCParam_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:19.67661+00:00
 -- url     : https://prove2.me/theorems/df9f5f58-ea70-4454-8389-35733e5d7c47

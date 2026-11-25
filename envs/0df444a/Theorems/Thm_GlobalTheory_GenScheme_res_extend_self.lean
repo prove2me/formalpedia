@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenScheme_res_extend_self
 -- name    : GlobalTheory.GenScheme.res_extend_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:18:46.206482+00:00
 -- url     : https://prove2.me/theorems/30853cdb-62a1-4f41-9b4d-bac5b6e015ca

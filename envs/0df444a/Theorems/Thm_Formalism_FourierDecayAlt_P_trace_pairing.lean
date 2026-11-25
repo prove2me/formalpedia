@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_trace_pairing
 -- name    : Formalism.FourierDecayAlt.P.trace_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:34:46.550217+00:00
 -- url     : https://prove2.me/theorems/00ce483f-4627-5fc1-8975-ff56e24dce15

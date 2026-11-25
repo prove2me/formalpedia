@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OriginValue_exists_gen_isValueAt_origin
 -- name    : GlobalTheory.OriginValue.exists_gen_isValueAt_origin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:21:16.664175+00:00
 -- url     : https://prove2.me/theorems/b1134d43-c45c-5117-9ca7-913164149855

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_matching_bound
 -- name    : Formalism.DworkPowerSeriesWeights.matching_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:36:45.596424+00:00
 -- url     : https://prove2.me/theorems/d1fe41b8-d4fe-4e04-85ab-fb2a16732535

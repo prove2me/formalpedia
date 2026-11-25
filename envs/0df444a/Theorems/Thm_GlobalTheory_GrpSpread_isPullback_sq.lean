@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpSpread_isPullback_sq
 -- name    : GlobalTheory.GrpSpread.isPullback_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:49:26.679802+00:00
 -- url     : https://prove2.me/theorems/10c19b14-19b8-4d6e-97cd-cc5215fcd134

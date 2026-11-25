@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_equivH2OfIso_mk
 -- name    : ReciprocityTheory.Neutral.Bridge.equivH2OfIso_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:14.490941+00:00
 -- url     : https://prove2.me/theorems/91a76b51-2f75-4865-b97e-9d29c6493176

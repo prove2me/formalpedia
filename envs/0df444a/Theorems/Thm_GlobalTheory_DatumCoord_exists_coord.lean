@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumCoord_exists_coord
 -- name    : GlobalTheory.DatumCoord.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:54.591273+00:00
 -- url     : https://prove2.me/theorems/1927db82-89c5-4cd9-9757-691596fb07ae

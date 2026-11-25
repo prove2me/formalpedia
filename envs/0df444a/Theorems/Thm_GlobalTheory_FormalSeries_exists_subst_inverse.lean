@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalSeries_exists_subst_inverse
 -- name    : GlobalTheory.FormalSeries.exists_subst_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:32.781945+00:00
 -- url     : https://prove2.me/theorems/da124535-e6c4-48fb-b61d-6760fe11f518

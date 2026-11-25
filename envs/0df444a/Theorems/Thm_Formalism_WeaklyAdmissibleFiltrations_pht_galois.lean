@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_pht_galois
 -- name    : Formalism.WeaklyAdmissibleFiltrations.pht_galois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:03.292565+00:00
 -- url     : https://prove2.me/theorems/4511826b-44d7-457b-8587-5c31a781ef3a

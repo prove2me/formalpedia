@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_IsCusp_isPlaceIn
 -- name    : GlobalTheory.Glue.IsCusp.isPlaceIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:11.308069+00:00
 -- url     : https://prove2.me/theorems/11d6b584-c8e5-46c7-97b3-bef511f4ec95

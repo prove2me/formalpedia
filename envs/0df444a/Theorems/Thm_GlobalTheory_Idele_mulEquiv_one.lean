@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_mulEquiv_one
 -- name    : GlobalTheory.Idele.mulEquiv_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:20.304544+00:00
 -- url     : https://prove2.me/theorems/c648bfe6-5911-40b3-8679-dba347f0f4cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tauBal_of_isPullDeg
 -- name    : GlobalTheory.tauBal_of_isPullDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:23:28.814819+00:00
 -- url     : https://prove2.me/theorems/a2931248-1e24-4ef1-b62c-6a1863219e07

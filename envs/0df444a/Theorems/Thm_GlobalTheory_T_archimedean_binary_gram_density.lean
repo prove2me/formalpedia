@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_archimedean_binary_gram_density
 -- name    : GlobalTheory.T.archimedean_binary_gram_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:39:37.195796+00:00
 -- url     : https://prove2.me/theorems/e9407418-12b5-5243-9b5c-f6501c8a03aa

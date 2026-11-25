@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_hasProperCenters_embeddedResolutionRuleOfPrincipalization
 -- name    : FunctorialResolution.EmbeddedResolution.hasProperCenters_embeddedResolutionRuleOfPrincipalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:10.462134+00:00
 -- url     : https://prove2.me/theorems/219086a7-95d6-4e48-ab43-be16cacc43e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_second_step_gluing
 -- name    : Formalism.DivisionValues.second_step_gluing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:26:23.628089+00:00
 -- url     : https://prove2.me/theorems/4b3fea13-5245-44ea-9346-e344cb5ef81a

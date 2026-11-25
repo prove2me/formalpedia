@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_ext_comm
 -- name    : GlobalTheory.AbCoh.ext_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:59:45.011854+00:00
 -- url     : https://prove2.me/theorems/e1973987-3f1b-5b70-bd0a-ddc9665364a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_continuous_sigR
 -- name    : GlobalTheory.RegSS.continuous_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:59.334449+00:00
 -- url     : https://prove2.me/theorems/608b182a-b0bc-41a0-bda6-6c0261e3f2c0

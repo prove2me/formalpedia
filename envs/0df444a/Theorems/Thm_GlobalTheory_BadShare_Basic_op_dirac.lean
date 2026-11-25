@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_op_dirac
 -- name    : GlobalTheory.BadShare.Basic.op_dirac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:41.732648+00:00
 -- url     : https://prove2.me/theorems/ea13a2e8-b8fb-4a2d-a673-735bec5af5ef

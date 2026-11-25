@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_convergence_group_of_block_det
 -- name    : GlobalTheory.T.convergence_group_of_block_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:32.745258+00:00
 -- url     : https://prove2.me/theorems/ef239f3f-01dc-5211-ae22-f46125939f7e

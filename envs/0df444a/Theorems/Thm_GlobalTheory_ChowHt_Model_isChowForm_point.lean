@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_Model_isChowForm_point
 -- name    : GlobalTheory.ChowHt.Model.isChowForm_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:07:06.233844+00:00
 -- url     : https://prove2.me/theorems/3743fe2e-39de-4c7b-8b5f-4c032875f658

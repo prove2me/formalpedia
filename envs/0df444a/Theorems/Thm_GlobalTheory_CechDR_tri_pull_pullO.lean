@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_tri_pull_pullO
 -- name    : GlobalTheory.CechDR.tri_pull_pullO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:51:05.320493+00:00
 -- url     : https://prove2.me/theorems/d5bc3ee1-28af-405e-afec-d0e53813a16f

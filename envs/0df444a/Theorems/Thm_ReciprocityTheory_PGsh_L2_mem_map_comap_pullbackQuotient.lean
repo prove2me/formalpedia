@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_mem_map_comap_pullbackQuotient
 -- name    : ReciprocityTheory.PGsh.L2.mem_map_comap_pullbackQuotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:05:49.896828+00:00
 -- url     : https://prove2.me/theorems/9e807a5d-68d3-45c0-add2-313e6b7f4952

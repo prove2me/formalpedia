@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralAddSum_add_sum_integral
 -- name    : GlobalTheory.IntegralAddSum.add_sum_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:10:48.504026+00:00
 -- url     : https://prove2.me/theorems/431384ba-cc34-48ae-91ed-c31564036eff

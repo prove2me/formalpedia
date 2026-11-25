@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HeightMultiplicativity_exists_unif
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HeightMultiplicativity.exists_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:45:13.578971+00:00
 -- url     : https://prove2.me/theorems/1bb4b78c-5bd2-4602-b6c1-3fd42f898113

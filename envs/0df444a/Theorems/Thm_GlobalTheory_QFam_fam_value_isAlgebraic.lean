@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_fam_value_isAlgebraic
 -- name    : GlobalTheory.QFam.fam_value_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:49.438665+00:00
 -- url     : https://prove2.me/theorems/cc96fc7a-e6b2-43ba-8426-9acc13cf7224

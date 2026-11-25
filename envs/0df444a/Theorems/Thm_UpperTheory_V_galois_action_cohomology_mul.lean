@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_galois_action_cohomology_mul
 -- name    : UpperTheory.V.galois_action_cohomology_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:16:02.723652+00:00
 -- url     : https://prove2.me/theorems/6e5b2622-d1b4-42f9-be61-a792cb6cc937

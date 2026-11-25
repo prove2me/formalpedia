@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_res_extTensor
 -- name    : GlobalTheory.Cube.res_extTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:01.140484+00:00
 -- url     : https://prove2.me/theorems/d3d5af8a-13f0-5b7e-8d87-9ca3c4897664

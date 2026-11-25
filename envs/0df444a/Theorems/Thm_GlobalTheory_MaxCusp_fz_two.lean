@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_fz_two
 -- name    : GlobalTheory.MaxCusp.fz_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:44:51.783003+00:00
 -- url     : https://prove2.me/theorems/97fcede9-67b3-5920-808e-804e177a2dc2

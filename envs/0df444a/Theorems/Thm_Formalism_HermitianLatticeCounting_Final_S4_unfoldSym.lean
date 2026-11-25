@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_unfoldSym
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.unfoldSym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:40:09.380689+00:00
 -- url     : https://prove2.me/theorems/8a654fbc-9afc-4b76-9121-92ec3cbab4fb

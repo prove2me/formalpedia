@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieChart_univChart_of_chart
 -- name    : GlobalTheory.LieChart.univChart_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:59:44.490567+00:00
 -- url     : https://prove2.me/theorems/b9675804-64f4-5fb7-a24e-7a24b2aab15f

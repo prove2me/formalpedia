@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_associated_of_height_one_agree
 -- name    : GlobalTheory.T.associated_of_height_one_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:27:27.99242+00:00
 -- url     : https://prove2.me/theorems/dc0548f8-35da-403d-b41d-be8236d1a378

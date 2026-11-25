@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TUniq_ext_of_geoGood
 -- name    : GlobalTheory.TUniq.ext_of_geoGood
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:56:47.678316+00:00
 -- url     : https://prove2.me/theorems/7ccaeb97-423d-5110-868d-8a9e7b095612

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_brauer_nesbitt_char_zero
 -- name    : Formalism.IrreducibleCountingLemmas.Z.brauer_nesbitt_char_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:00.420162+00:00
 -- url     : https://prove2.me/theorems/2b543b93-9038-5b1a-aecc-9bc5f8962841

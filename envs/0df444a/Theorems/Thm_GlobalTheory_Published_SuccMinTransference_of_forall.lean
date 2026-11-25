@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SuccMinTransference_of_forall
 -- name    : GlobalTheory.Published.SuccMinTransference.of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:17:25.576811+00:00
 -- url     : https://prove2.me/theorems/c775cc96-6168-43d8-894c-41f7d073ccd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiPull_cub_rel
 -- name    : GlobalTheory.PhiPull.cub_rel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:33:03.485852+00:00
 -- url     : https://prove2.me/theorems/9772cfaa-384d-4f0c-b5da-64d8d2116575

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_unr_self
 -- name    : GlobalTheory.SS.unr_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:21:37.3168+00:00
 -- url     : https://prove2.me/theorems/8b0d78bd-2e60-48bc-8ccf-a4d0bfa9cd4e

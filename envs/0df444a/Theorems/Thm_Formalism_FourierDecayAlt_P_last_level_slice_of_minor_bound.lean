@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_last_level_slice_of_minor_bound
 -- name    : Formalism.FourierDecayAlt.P.last_level_slice_of_minor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:35:26.985217+00:00
 -- url     : https://prove2.me/theorems/b3408e64-62b6-5420-9c8d-e855d7328c6e

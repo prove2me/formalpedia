@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_grpObj_isAbelianScheme_of_isPullback_spMap
 -- name    : GlobalTheory.exists_grpObj_isAbelianScheme_of_isPullback_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:57:18.346548+00:00
 -- url     : https://prove2.me/theorems/8d85e3d5-3823-431c-82ba-4805793bd81e

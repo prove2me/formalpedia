@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_kaehler_fibre_equiv_D_compat
 -- name    : GlobalTheory.T.exists_kaehler_fibre_equiv_D_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:08.755823+00:00
 -- url     : https://prove2.me/theorems/264ed17d-59d8-56be-a68e-20d0b6dee48e

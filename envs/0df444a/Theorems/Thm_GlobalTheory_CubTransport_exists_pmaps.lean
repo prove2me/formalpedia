@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubTransport_exists_pmaps
 -- name    : GlobalTheory.CubTransport.exists_pmaps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:10:31.215169+00:00
 -- url     : https://prove2.me/theorems/9356ba21-e3d7-5e89-b405-5c1d5e9ca6f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IdxAd_swapC_apply
 -- name    : GlobalTheory.CompanionTheory.IdxAd.swapC_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:27.282693+00:00
 -- url     : https://prove2.me/theorems/c870e93b-7610-47d2-a2c9-49b567c92331

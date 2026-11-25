@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contDiff_tsum_of_summable_iteratedFDeriv_bounds
 -- name    : GlobalTheory.T.contDiff_tsum_of_summable_iteratedFDeriv_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:45.954634+00:00
 -- url     : https://prove2.me/theorems/a5832802-c2ca-468c-818b-5985813679b0

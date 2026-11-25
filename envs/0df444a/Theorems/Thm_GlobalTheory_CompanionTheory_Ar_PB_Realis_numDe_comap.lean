@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_numDe_comap
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.numDe_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:00:00.934823+00:00
 -- url     : https://prove2.me/theorems/151a7f17-0a85-4b8e-9309-67cf69053078

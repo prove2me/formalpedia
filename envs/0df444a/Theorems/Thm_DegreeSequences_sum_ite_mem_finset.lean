@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_sum_ite_mem_finset
 -- name    : DegreeSequences.sum_ite_mem_finset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:46:25.486125+00:00
 -- url     : https://prove2.me/theorems/5b911c97-0edc-4958-afc7-0d45f7bcca35

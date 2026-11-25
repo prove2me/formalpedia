@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_diff_mult
 -- name    : UpperTheory.HF.diff_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:19:45.748122+00:00
 -- url     : https://prove2.me/theorems/5ee745d2-e0f2-5d59-be0a-e44d78368389

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Kummer_units_to_invariants_prime_injective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Kummer.units_to_invariants_prime_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:04:10.320368+00:00
 -- url     : https://prove2.me/theorems/795b6048-53fa-4d8a-8f3f-cb586460b976

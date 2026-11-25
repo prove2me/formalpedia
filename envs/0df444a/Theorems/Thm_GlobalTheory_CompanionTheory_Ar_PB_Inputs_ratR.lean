@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_ratR
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.ratR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:20.24687+00:00
 -- url     : https://prove2.me/theorems/f3fb7794-073c-4f13-a27c-61c7d8a1bf4f

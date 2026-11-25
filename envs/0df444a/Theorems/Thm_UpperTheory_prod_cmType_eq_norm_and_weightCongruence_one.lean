@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_prod_cmType_eq_norm_and_weightCongruence_one
 -- name    : UpperTheory.prod_cmType_eq_norm_and_weightCongruence_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:58.681983+00:00
 -- url     : https://prove2.me/theorems/56be7ddb-9ecd-4cac-ae5b-65bb397092ef

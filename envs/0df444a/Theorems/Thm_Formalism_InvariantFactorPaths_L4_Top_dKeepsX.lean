@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_dKeepsX
 -- name    : Formalism.InvariantFactorPaths.L4.Top.dKeepsX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:15.468118+00:00
 -- url     : https://prove2.me/theorems/a76ffa40-bf94-5608-a9d7-780eff75e1a2

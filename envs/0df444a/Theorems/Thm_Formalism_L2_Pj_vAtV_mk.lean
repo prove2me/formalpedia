@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_vAtV_mk
 -- name    : Formalism.L2.Pj.vAtV_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:46:42.936823+00:00
 -- url     : https://prove2.me/theorems/ec5a90ef-82af-4ef3-ac45-539afb329483

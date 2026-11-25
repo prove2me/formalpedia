@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_column_operation_identity
 -- name    : Formalism.FourierDecayAlt.P.column_operation_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:29:43.10537+00:00
 -- url     : https://prove2.me/theorems/1d82894f-0004-4ecf-861d-9c60efe2e877

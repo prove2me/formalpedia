@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_coset_reps_eq_relIndex
 -- name    : GlobalTheory.T.card_coset_reps_eq_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:53.836713+00:00
 -- url     : https://prove2.me/theorems/5dbf7601-4f7b-4be0-b0b1-8d207f942c63

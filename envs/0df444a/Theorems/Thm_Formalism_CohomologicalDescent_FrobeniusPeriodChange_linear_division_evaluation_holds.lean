@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_linear_division_evaluation_holds
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.linear_division_evaluation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:21:31.774667+00:00
 -- url     : https://prove2.me/theorems/8a63aaa0-796a-4c93-bb68-eb86a283b47a

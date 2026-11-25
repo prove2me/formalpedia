@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OverBasis_exists_basis_overlattice
 -- name    : GlobalTheory.HL.OverBasis.exists_basis_overlattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:25.232514+00:00
 -- url     : https://prove2.me/theorems/d67661d1-2201-562d-8ab4-e9056fd0a21b

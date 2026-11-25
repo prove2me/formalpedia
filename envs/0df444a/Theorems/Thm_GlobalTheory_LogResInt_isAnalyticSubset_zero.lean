@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogResInt_isAnalyticSubset_zero
 -- name    : GlobalTheory.LogResInt.isAnalyticSubset_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:07.460784+00:00
 -- url     : https://prove2.me/theorems/d24ffc71-8517-4867-9d62-f7624437252b

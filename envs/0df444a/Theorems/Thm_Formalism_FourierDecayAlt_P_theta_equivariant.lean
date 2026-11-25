@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_theta_equivariant
 -- name    : Formalism.FourierDecayAlt.P.theta_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:37:32.14401+00:00
 -- url     : https://prove2.me/theorems/90e78a1d-57f7-41b1-bee1-3b9e3e25ed45

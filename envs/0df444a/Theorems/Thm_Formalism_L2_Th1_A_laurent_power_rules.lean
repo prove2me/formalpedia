@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_laurent_power_rules
 -- name    : Formalism.L2.Th1.A.laurent_power_rules
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:48:13.008805+00:00
 -- url     : https://prove2.me/theorems/efea81e0-c7e5-42cb-a2b5-8c7b53011452

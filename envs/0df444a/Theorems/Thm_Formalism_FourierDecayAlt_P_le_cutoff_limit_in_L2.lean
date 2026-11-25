@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_cutoff_limit_in_L2
 -- name    : Formalism.FourierDecayAlt.P.le_cutoff_limit_in_L2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:26.037798+00:00
 -- url     : https://prove2.me/theorems/39e0e8a6-af79-56fb-a92b-ac9f65692c75

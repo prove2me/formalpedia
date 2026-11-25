@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_NX_Core_finiteDimensional_Fm
 -- name    : Formalism.IndefR.NX.Core.finiteDimensional_Fm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:42:15.216954+00:00
 -- url     : https://prove2.me/theorems/4d6a6a0d-dbff-4d65-8c62-a1cc6d00dec0

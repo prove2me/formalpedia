@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_sDelta_of
 -- name    : UnipMove.sDelta_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:15.340229+00:00
 -- url     : https://prove2.me/theorems/cd714f0f-49a2-45de-a640-d4fba1799de5

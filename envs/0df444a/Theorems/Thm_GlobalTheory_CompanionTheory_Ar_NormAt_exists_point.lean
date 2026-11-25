@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_NormAt_exists_point
 -- name    : GlobalTheory.CompanionTheory.Ar.NormAt.exists_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:13.10586+00:00
 -- url     : https://prove2.me/theorems/5bac3f8f-f9ae-57fb-89c3-bb048cb884eb

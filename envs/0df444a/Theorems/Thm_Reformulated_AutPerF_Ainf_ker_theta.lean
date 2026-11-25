@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_ker_theta
 -- name    : Reformulated.AutPerF.Ainf.ker_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:12:16.054445+00:00
 -- url     : https://prove2.me/theorems/68d2aaff-ffb3-4db1-b5fb-5b872c07447d

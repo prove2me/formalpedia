@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_unip_exp_bound
 -- name    : ReciprocityTheory.MultiplicativeHeights.unip_exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:04:57.431829+00:00
 -- url     : https://prove2.me/theorems/add7eefe-8d75-5024-bba4-1f8b08731104

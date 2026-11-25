@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_homQuot
 -- name    : Formalism.NG.homQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:51:29.23402+00:00
 -- url     : https://prove2.me/theorems/4ed2ef7b-0275-4eb5-a35a-c9921f7dd80c

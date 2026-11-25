@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_conductor_mem
 -- name    : ReciprocityTheory.PGsh.Up.conductor_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:09:49.639122+00:00
 -- url     : https://prove2.me/theorems/4840762e-4c22-5923-bd2b-ee1ebd7cda51

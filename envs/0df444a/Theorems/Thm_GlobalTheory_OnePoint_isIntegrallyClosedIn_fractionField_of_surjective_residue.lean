@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_isIntegrallyClosedIn_fractionField_of_surjective_residue
 -- name    : GlobalTheory.OnePoint.isIntegrallyClosedIn_fractionField_of_surjective_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:17.203281+00:00
 -- url     : https://prove2.me/theorems/2dba756e-f13c-43c0-b4a7-ac876cb8a787

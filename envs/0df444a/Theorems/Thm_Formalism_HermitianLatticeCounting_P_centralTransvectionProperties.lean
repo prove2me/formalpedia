@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_centralTransvectionProperties
 -- name    : Formalism.HermitianLatticeCounting.P.centralTransvectionProperties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:38:24.90283+00:00
 -- url     : https://prove2.me/theorems/c9e68029-c154-47ee-bd61-23fa967670f9

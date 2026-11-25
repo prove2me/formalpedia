@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionDivisible_finite_fibre_points
 -- name    : GlobalTheory.TorsionDivisible.finite_fibre_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:08:31.17395+00:00
 -- url     : https://prove2.me/theorems/2165be46-a0ca-50e4-8673-5a434eecb455

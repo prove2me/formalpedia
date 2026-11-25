@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RuleSS_I_of_comm
 -- name    : Formalism.FourierDecayAlt.P.RuleSS.I_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:25:56.307267+00:00
 -- url     : https://prove2.me/theorems/b67e2d5b-3421-481a-b43f-b4ffaca2a0b3

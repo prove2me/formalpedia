@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostRaw_Inert_not_dvd
 -- name    : UpperTheory.HF.Formalism.HC.HostRaw.Inert.not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:55.851891+00:00
 -- url     : https://prove2.me/theorems/0ea4917c-88a0-4f67-bad9-69b406b18812

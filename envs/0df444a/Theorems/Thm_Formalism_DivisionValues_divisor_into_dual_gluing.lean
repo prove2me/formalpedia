@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_divisor_into_dual_gluing
 -- name    : Formalism.DivisionValues.divisor_into_dual_gluing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:25:15.660971+00:00
 -- url     : https://prove2.me/theorems/168fd33f-80ab-409f-b51e-3407c7418f06

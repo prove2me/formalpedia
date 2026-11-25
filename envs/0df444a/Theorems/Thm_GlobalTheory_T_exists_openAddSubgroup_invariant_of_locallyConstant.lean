@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_openAddSubgroup_invariant_of_locallyConstant
 -- name    : GlobalTheory.T.exists_openAddSubgroup_invariant_of_locallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:30:15.789479+00:00
 -- url     : https://prove2.me/theorems/cae49560-60cc-51a7-b1ba-6b644b6b7ecd

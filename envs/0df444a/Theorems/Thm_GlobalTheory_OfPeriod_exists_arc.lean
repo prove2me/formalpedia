@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OfPeriod_exists_arc
 -- name    : GlobalTheory.OfPeriod.exists_arc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:16:30.76259+00:00
 -- url     : https://prove2.me/theorems/c1120aec-a797-49aa-9c4e-4f3f9c0ca2b6

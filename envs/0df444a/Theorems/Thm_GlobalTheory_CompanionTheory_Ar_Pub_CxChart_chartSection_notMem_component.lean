@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_chartSection_notMem_component
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.chartSection_notMem_component
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:45:08.048884+00:00
 -- url     : https://prove2.me/theorems/84be68f4-f235-5450-9d2d-e296cf437052

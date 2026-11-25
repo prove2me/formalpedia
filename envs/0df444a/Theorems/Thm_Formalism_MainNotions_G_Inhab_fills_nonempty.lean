@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_fills_nonempty
 -- name    : Formalism.MainNotions.G.Inhab.fills_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:51:42.856808+00:00
 -- url     : https://prove2.me/theorems/72a796b4-c33d-440d-a33d-9bd5497c0c16

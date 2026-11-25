@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Reg_exists_unique_lift
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Reg.exists_unique_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:33:48.861536+00:00
 -- url     : https://prove2.me/theorems/790c910b-b352-4299-94e7-9a12f3db6216

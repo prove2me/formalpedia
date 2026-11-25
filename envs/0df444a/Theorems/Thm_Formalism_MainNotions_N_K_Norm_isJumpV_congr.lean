@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_isJumpV_congr
 -- name    : Formalism.MainNotions.N.K.Norm.isJumpV_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:52:36.331831+00:00
 -- url     : https://prove2.me/theorems/0c8bea04-4d1b-4301-94ca-4dc123ad40fb

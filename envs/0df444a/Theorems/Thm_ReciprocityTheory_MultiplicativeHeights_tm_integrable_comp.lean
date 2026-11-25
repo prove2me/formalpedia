@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_tm_integrable_comp
 -- name    : ReciprocityTheory.MultiplicativeHeights.tm_integrable_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:25.962475+00:00
 -- url     : https://prove2.me/theorems/86f64994-7fda-4870-9e22-3b35cf749111

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_density_size
 -- name    : Formalism.FourierDecayAlt.P.density_size
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:59.138808+00:00
 -- url     : https://prove2.me/theorems/765190cb-0004-5ee2-977d-597e6c8d7896

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_dH_comm
 -- name    : GlobalTheory.Mem.Lift.dH_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:54.112143+00:00
 -- url     : https://prove2.me/theorems/a7382203-69ce-50bd-9408-4357fcef1afb

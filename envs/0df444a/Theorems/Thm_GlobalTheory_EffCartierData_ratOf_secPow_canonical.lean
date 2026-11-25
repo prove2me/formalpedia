@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_ratOf_secPow_canonical
 -- name    : GlobalTheory.EffCartierData.ratOf_secPow_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:12:13.68881+00:00
 -- url     : https://prove2.me/theorems/a4564bea-bd7e-4109-9381-6402922a6b77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_minor_degree_bound
 -- name    : Formalism.DworkPowerSeriesWeights.minor_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:25:24.981958+00:00
 -- url     : https://prove2.me/theorems/63cd25c5-3835-45f1-b757-4f9ea303f6d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_exists_eq_mul_of_forall
 -- name    : Reformulated.AutPerF.exists_eq_mul_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:28.058897+00:00
 -- url     : https://prove2.me/theorems/c801ceea-b17d-4c30-be81-bd467ee97d88

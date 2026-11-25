@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_fock_int
 -- name    : Formalism.CohomologicalDescent.LR.fock_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:34:40.929635+00:00
 -- url     : https://prove2.me/theorems/a1c7dd41-8420-5277-ae70-db443bf1e06b

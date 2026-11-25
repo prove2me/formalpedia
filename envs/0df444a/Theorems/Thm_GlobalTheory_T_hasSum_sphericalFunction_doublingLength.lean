@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_sphericalFunction_doublingLength
 -- name    : GlobalTheory.T.hasSum_sphericalFunction_doublingLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:34:43.417802+00:00
 -- url     : https://prove2.me/theorems/dce6e98c-951f-44d8-9bac-20029d3e199e

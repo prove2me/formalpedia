@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatCastUpperBound_le_natCast_of_add_one_le
 -- name    : GlobalTheory.NatCastUpperBound.le_natCast_of_add_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:53.290107+00:00
 -- url     : https://prove2.me/theorems/e963ffd9-5205-48d4-9e04-bc6bab17f99a

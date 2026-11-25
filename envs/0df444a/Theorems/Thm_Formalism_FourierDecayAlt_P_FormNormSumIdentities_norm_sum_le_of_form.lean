@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FormNormSumIdentities_norm_sum_le_of_form
 -- name    : Formalism.FourierDecayAlt.P.FormNormSumIdentities.norm_sum_le_of_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:25:09.170119+00:00
 -- url     : https://prove2.me/theorems/093e104e-c913-5dfb-8956-393cba262776

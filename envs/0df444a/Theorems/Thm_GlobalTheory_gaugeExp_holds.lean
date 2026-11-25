@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaugeExp_holds
 -- name    : GlobalTheory.gaugeExp_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:14:55.645612+00:00
 -- url     : https://prove2.me/theorems/c7dff5e1-aacf-4288-b4f6-30a9eabd8dd1

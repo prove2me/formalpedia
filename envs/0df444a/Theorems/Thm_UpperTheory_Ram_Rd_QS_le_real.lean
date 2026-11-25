@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Rd_QS_le_real
 -- name    : UpperTheory.Ram.Rd.QS_le_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:46.995635+00:00
 -- url     : https://prove2.me/theorems/2f240cff-3688-5e8f-b505-b5f9233cb6d0

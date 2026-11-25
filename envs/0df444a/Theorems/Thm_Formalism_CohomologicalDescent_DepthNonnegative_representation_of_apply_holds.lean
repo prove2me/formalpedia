@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_representation_of_apply_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.representation_of_apply_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:28:34.508398+00:00
 -- url     : https://prove2.me/theorems/596ec878-8810-551f-a80f-fd9f48ff3f77

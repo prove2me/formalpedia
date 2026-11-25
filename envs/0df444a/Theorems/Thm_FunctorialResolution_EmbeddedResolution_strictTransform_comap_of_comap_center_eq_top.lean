@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_strictTransform_comap_of_comap_center_eq_top
 -- name    : FunctorialResolution.EmbeddedResolution.strictTransform_comap_of_comap_center_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:22.492463+00:00
 -- url     : https://prove2.me/theorems/86a98d4d-b451-5053-b28d-7f58e2fe7f4a

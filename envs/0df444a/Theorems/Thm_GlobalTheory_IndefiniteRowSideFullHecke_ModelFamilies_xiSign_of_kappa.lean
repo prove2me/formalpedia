@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ModelFamilies_xiSign_of_kappa
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ModelFamilies.xiSign_of_kappa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:09:23.904463+00:00
 -- url     : https://prove2.me/theorems/b7ee7689-1994-4461-a03e-2f6e65afb793

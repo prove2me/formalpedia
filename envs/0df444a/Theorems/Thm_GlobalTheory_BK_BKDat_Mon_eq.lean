@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_BKDat_Mon_eq
 -- name    : GlobalTheory.BK.BKDat.Mon_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:42.410193+00:00
 -- url     : https://prove2.me/theorems/c8982552-ae7a-40d3-be0c-34b7911db9a2

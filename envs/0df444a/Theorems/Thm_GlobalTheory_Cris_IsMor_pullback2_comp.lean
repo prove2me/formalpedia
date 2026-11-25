@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_IsMor_pullback2_comp
 -- name    : GlobalTheory.Cris.IsMor.pullback2_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:03:09.577842+00:00
 -- url     : https://prove2.me/theorems/26a74e56-4b28-43e7-b27d-88af85b8a1b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_density_from_mass
 -- name    : Formalism.FourierDecayAlt.P.density_from_mass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:24.021663+00:00
 -- url     : https://prove2.me/theorems/a3c4dbdd-4d87-4c26-b440-57a404603ac5

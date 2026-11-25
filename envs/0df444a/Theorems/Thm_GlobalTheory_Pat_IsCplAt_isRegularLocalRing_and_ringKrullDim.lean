@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_IsCplAt_isRegularLocalRing_and_ringKrullDim
 -- name    : GlobalTheory.Pat.IsCplAt.isRegularLocalRing_and_ringKrullDim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:17:49.024004+00:00
 -- url     : https://prove2.me/theorems/0898cab5-1720-45e5-a768-0449dde6a06e

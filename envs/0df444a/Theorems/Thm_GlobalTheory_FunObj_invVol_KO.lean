@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_invVol_KO
 -- name    : GlobalTheory.FunObj.invVol_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:55.434674+00:00
 -- url     : https://prove2.me/theorems/3eedc80b-4b64-4b92-80f6-a10b754e9e1b

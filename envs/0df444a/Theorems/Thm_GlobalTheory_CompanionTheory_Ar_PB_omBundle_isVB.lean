@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_omBundle_isVB
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.omBundle_isVB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:00:12.266396+00:00
 -- url     : https://prove2.me/theorems/f8fe4afc-4800-5a6d-9399-a66b735968f7

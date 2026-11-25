@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_UnfModel_middle_not_mem
 -- name    : GlobalTheory.FunObj.UnfModel.middle_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:01.052961+00:00
 -- url     : https://prove2.me/theorems/f88033eb-01b3-4231-8f2b-9a1fb7fe212c

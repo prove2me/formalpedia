@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_embedding_eigenspace_sum
 -- name    : GlobalTheory.T.existsUnique_embedding_eigenspace_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:28:50.36071+00:00
 -- url     : https://prove2.me/theorems/4b6b95a8-0fd4-5f51-a199-c851379380f4

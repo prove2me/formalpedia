@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_affinePairRestriction_injective_firstCohomology
 -- name    : GlobalTheory.T.affinePairRestriction_injective_firstCohomology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:52.278986+00:00
 -- url     : https://prove2.me/theorems/5a92fc81-5a57-5f3d-91d7-b7bae47dd5fb

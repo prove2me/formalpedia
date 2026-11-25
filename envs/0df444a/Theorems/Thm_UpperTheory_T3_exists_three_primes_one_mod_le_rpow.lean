@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_T3_exists_three_primes_one_mod_le_rpow
 -- name    : UpperTheory.T3.exists_three_primes_one_mod_le_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:51.657805+00:00
 -- url     : https://prove2.me/theorems/84890dcf-4ff3-497f-9477-c104849790a7

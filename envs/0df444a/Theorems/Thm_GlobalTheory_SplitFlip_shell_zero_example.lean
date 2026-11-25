@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_shell_zero_example
 -- name    : GlobalTheory.SplitFlip.shell_zero_example
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:24:25.870533+00:00
 -- url     : https://prove2.me/theorems/303bb963-5a8e-51f4-97ca-78f55dded01d

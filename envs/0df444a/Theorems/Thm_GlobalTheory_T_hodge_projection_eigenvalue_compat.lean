@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hodge_projection_eigenvalue_compat
 -- name    : GlobalTheory.T.hodge_projection_eigenvalue_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:40.981595+00:00
 -- url     : https://prove2.me/theorems/cbef042d-e61d-5f54-8f4a-d1df0c01f5d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Arith_FormsL_gramC_eq_transpose
 -- name    : Formalism.IndefR.Arith.FormsL.gramC_eq_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:38.191619+00:00
 -- url     : https://prove2.me/theorems/4f1082f0-b538-5e33-a9cf-a2f0d4fabc97

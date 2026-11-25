@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieChart_unit_comp_of_isGrpPullback
 -- name    : GlobalTheory.LieChart.unit_comp_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:59:37.281573+00:00
 -- url     : https://prove2.me/theorems/1d86bfc7-6b1a-56c6-bb9d-862873d103c8

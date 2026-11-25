@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_Test_hyps_sat
 -- name    : Formalism.L2.DIV.Test.hyps_sat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:55.285106+00:00
 -- url     : https://prove2.me/theorems/57a04d8d-6db2-40fc-88f8-3a5289131cd2

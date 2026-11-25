@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreDeriv_isDerivAt0_of_isPullback
 -- name    : GlobalTheory.FibreDeriv.isDerivAt0_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:57:54.488919+00:00
 -- url     : https://prove2.me/theorems/742574e8-dcda-4c05-b377-1c0a9465eec9

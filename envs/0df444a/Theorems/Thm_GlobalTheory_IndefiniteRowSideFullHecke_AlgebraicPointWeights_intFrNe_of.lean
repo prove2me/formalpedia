@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AlgebraicPointWeights_intFrNe_of
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AlgebraicPointWeights.intFrNe_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:09:10.668295+00:00
 -- url     : https://prove2.me/theorems/d0e46fb5-1cb5-4ff7-83ad-67a0ad2822c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DigammaStrip_norm_digamma_le
 -- name    : GlobalTheory.CompanionTheory.DigammaStrip.norm_digamma_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:42.476108+00:00
 -- url     : https://prove2.me/theorems/bf3c4692-2913-4c11-8930-b61ce4c791bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unit_times_parameter_monomial
 -- name    : GlobalTheory.T.unit_times_parameter_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:30:33.755823+00:00
 -- url     : https://prove2.me/theorems/1336e822-0ce7-4e14-9bb6-eb2f3891d7e7

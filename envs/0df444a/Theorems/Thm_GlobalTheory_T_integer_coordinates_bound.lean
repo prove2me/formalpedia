@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integer_coordinates_bound
 -- name    : GlobalTheory.T.integer_coordinates_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:33:40.691261+00:00
 -- url     : https://prove2.me/theorems/a8093f73-7ed5-53e1-9981-451237631cc4

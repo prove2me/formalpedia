@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_mollify_indep
 -- name    : ReciprocityTheory.L2DbarEstimates.C.mollify_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:55:33.137402+00:00
 -- url     : https://prove2.me/theorems/9aecb2b0-0402-4500-a83e-80298148316c

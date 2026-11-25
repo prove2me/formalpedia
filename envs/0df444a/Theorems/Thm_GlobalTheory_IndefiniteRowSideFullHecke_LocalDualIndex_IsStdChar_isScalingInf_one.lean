@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LocalDualIndex_IsStdChar_isScalingInf_one
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LocalDualIndex.IsStdChar.isScalingInf_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:43.876559+00:00
 -- url     : https://prove2.me/theorems/c7bc6583-a111-4d9f-84be-bbf345b3d110

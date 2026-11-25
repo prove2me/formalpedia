@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_om_key
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.om_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:40:11.990809+00:00
 -- url     : https://prove2.me/theorems/8f2b0f00-a998-4150-9985-9ae357fc8319

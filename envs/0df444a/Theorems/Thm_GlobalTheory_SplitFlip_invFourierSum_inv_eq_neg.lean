@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_invFourierSum_inv_eq_neg
 -- name    : GlobalTheory.SplitFlip.invFourierSum_inv_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:24:23.616182+00:00
 -- url     : https://prove2.me/theorems/4a9284d9-f6fb-57e4-9cd7-800e0c01f34b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_product_domination
 -- name    : Formalism.FourierDecayAlt.P.product_domination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:05.583797+00:00
 -- url     : https://prove2.me/theorems/d294d5ea-d620-4717-a0d2-e81b8ff4860c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_pow_torsionOrder_eq_one
 -- name    : UpperTheory.Mu.pow_torsionOrder_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:14.221334+00:00
 -- url     : https://prove2.me/theorems/ec63bb18-098f-4ad2-aa11-894c47b3ce44

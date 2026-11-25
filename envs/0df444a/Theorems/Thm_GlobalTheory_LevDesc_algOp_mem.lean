@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_algOp_mem
 -- name    : GlobalTheory.LevDesc.algOp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:12:58.367275+00:00
 -- url     : https://prove2.me/theorems/9facedec-42a3-5d3a-8db0-61f3b3277bfa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_gaussianExtension_norm_rpow
 -- name    : GlobalTheory.T.summable_gaussianExtension_norm_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:59:00.088743+00:00
 -- url     : https://prove2.me/theorems/8061fe3e-3e6b-41bf-b4fd-aa2c01ffebe3

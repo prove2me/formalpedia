@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBundleSym_hasFactor_theta
 -- name    : GlobalTheory.ThetaBundleSym.hasFactor_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:05:12.012492+00:00
 -- url     : https://prove2.me/theorems/36546841-e166-432e-9842-a1d7544eef71

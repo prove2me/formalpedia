@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalLift_exists_tangent
 -- name    : GlobalTheory.LocalLift.exists_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:52:52.516703+00:00
 -- url     : https://prove2.me/theorems/3a32882f-60bc-58bd-ab85-31fe671144c0

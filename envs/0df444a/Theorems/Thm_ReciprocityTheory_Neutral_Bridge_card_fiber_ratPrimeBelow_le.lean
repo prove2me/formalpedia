@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_card_fiber_ratPrimeBelow_le
 -- name    : ReciprocityTheory.Neutral.Bridge.card_fiber_ratPrimeBelow_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:17.70906+00:00
 -- url     : https://prove2.me/theorems/9c3cedd5-0dc9-42aa-be90-f43e6cade6e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_standard_character_exists
 -- name    : Formalism.L2.SG.Pf.standard_character_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:49:15.152303+00:00
 -- url     : https://prove2.me/theorems/7aba702b-e385-4efc-825c-22793d9507b3

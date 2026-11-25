@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_P1_isAdicComplete_ps
 -- name    : ReciprocityTheory.P1.isAdicComplete_ps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:33:11.811435+00:00
 -- url     : https://prove2.me/theorems/c2a48187-158b-4ab7-9e17-17001a6a8d02

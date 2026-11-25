@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimScale_cT_cT
 -- name    : GlobalTheory.PrimScale.cT_cT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:19:10.728403+00:00
 -- url     : https://prove2.me/theorems/6956557c-b39b-45d7-a0e5-e99ab987ba8e

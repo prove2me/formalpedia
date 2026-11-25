@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ae_blockSphere_eval_ne_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.ae_blockSphere_eval_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:32:46.478291+00:00
 -- url     : https://prove2.me/theorems/d379f59e-df45-4b62-b23c-7b71c7405c49

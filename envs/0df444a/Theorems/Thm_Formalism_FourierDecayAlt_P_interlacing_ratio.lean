@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_interlacing_ratio
 -- name    : Formalism.FourierDecayAlt.P.interlacing_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:32:18.491783+00:00
 -- url     : https://prove2.me/theorems/1d08d874-f0c6-4391-a6aa-601fbc3a8ede

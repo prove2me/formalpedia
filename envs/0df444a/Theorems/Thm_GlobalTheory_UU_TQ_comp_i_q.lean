@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TQ_comp_i_q
 -- name    : GlobalTheory.UU.TQ.comp_i_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:01:31.936262+00:00
 -- url     : https://prove2.me/theorems/1104fb9a-42ac-5452-8b1f-bff734c7767c

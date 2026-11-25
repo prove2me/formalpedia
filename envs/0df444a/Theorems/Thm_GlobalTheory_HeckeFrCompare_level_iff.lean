@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_level_iff
 -- name    : GlobalTheory.HeckeFrCompare.level_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:46:10.296874+00:00
 -- url     : https://prove2.me/theorems/c932acf5-0c57-4045-a8f7-67b2de267a2b

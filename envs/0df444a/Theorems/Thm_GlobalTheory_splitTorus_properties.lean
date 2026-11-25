@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitTorus_properties
 -- name    : GlobalTheory.splitTorus_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:15:33.44657+00:00
 -- url     : https://prove2.me/theorems/03763ad4-5d9a-5985-aa47-1499043d57ee

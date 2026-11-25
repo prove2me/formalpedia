@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomN_latInt_zero
 -- name    : GlobalTheory.MomN.latInt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:20.627335+00:00
 -- url     : https://prove2.me/theorems/0ed064fc-7d30-4e7f-9d59-98fb94b796c8

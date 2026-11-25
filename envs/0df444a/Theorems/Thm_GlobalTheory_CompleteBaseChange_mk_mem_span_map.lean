@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompleteBaseChange_mk_mem_span_map
 -- name    : GlobalTheory.CompleteBaseChange.mk_mem_span_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:02:08.747948+00:00
 -- url     : https://prove2.me/theorems/be41a204-762f-4b11-807f-4105602669bb

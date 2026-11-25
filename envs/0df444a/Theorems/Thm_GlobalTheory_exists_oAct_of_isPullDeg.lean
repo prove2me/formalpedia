@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_oAct_of_isPullDeg
 -- name    : GlobalTheory.exists_oAct_of_isPullDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:49.849836+00:00
 -- url     : https://prove2.me/theorems/41dd8d63-b6aa-4975-b13f-a31b7d23c0e2

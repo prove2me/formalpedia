@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_lowerFace_obj
 -- name    : GlobalTheory.Cube.lowerFace_obj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:57.072445+00:00
 -- url     : https://prove2.me/theorems/aa258448-7e93-471a-a02c-7fc0636c77a3

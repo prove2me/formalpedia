@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_isoRelM_bijective
 -- name    : GlobalTheory.FieldBaseChange.isoRelM_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:56:19.278984+00:00
 -- url     : https://prove2.me/theorems/ba5fd7a8-a0d8-53ae-aad2-b59fc717ec4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_block_membership_norm_one
 -- name    : Formalism.L2.FormalSeriesBounds.RF.block_membership_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:44:25.829+00:00
 -- url     : https://prove2.me/theorems/241865d6-d2ab-407d-b8e5-f7a4af42d1f3

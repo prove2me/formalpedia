@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_transference_covering_divisor
 -- name    : transference_covering_divisor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:55.864571+00:00
 -- url     : https://prove2.me/theorems/18af78db-ed96-4f2a-9f2e-ff0ec3e6e7cc

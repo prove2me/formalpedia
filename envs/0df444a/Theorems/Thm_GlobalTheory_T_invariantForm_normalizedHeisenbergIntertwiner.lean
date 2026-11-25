@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariantForm_normalizedHeisenbergIntertwiner
 -- name    : GlobalTheory.T.invariantForm_normalizedHeisenbergIntertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:35:38.764059+00:00
 -- url     : https://prove2.me/theorems/e66a04f0-f4e0-4c62-9f22-d6667ec496f1

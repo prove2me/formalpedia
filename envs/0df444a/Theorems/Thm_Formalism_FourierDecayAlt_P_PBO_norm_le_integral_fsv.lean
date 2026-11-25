@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBO_norm_le_integral_fsv
 -- name    : Formalism.FourierDecayAlt.P.PBO.norm_le_integral_fsv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:27:35.32903+00:00
 -- url     : https://prove2.me/theorems/809d7c3a-593d-43aa-a2dd-611fd8b4b3b4

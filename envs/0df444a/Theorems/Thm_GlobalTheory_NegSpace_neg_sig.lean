@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NegSpace_neg_sig
 -- name    : GlobalTheory.NegSpace.neg_sig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:37.872379+00:00
 -- url     : https://prove2.me/theorems/dc4be61d-0ce6-406f-8d3a-ce0ac3b71a4f

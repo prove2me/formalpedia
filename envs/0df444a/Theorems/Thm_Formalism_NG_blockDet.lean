@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_blockDet
 -- name    : Formalism.NG.blockDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:24.999958+00:00
 -- url     : https://prove2.me/theorems/6dde1dd2-869c-4459-94ea-6b84a4739622

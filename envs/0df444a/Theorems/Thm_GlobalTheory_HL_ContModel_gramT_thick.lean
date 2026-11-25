@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_gramT_thick
 -- name    : GlobalTheory.HL.ContModel.gramT_thick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:56.646028+00:00
 -- url     : https://prove2.me/theorems/858364ef-e80c-5656-a01e-b4b7f940bef8

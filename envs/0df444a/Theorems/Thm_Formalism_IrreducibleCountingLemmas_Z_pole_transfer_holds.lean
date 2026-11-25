@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_pole_transfer_holds
 -- name    : Formalism.IrreducibleCountingLemmas.Z.pole_transfer_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:43:46.5058+00:00
 -- url     : https://prove2.me/theorems/696d3377-acf2-58a2-9c6c-f0f688944e59

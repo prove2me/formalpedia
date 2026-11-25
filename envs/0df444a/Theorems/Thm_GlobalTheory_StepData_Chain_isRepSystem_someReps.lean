@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Chain_isRepSystem_someReps
 -- name    : GlobalTheory.StepData.Chain.isRepSystem_someReps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:20.083776+00:00
 -- url     : https://prove2.me/theorems/98948e61-d11c-55f4-aa98-16cddb8a4b2e

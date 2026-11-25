@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_DeterminantValuationBounds_v_det_le_of_cols
 -- name    : ReciprocityTheory.PGsh.Up.DeterminantValuationBounds.v_det_le_of_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:06:27.459166+00:00
 -- url     : https://prove2.me/theorems/31cfdafb-6b5a-4248-a9b6-d88e67599910

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_inducedBlowups_isoObjZero
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.inducedBlowups_isoObjZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:36.944855+00:00
 -- url     : https://prove2.me/theorems/7d6afe0a-0956-51d3-b5f9-8345ab3fbeb2

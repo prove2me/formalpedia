@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TraceDualDifferent_norm_add_ne_zero
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TraceDualDifferent.norm_add_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:12.707516+00:00
 -- url     : https://prove2.me/theorems/72f9d4a1-9955-5c81-ad8c-73a750d959df

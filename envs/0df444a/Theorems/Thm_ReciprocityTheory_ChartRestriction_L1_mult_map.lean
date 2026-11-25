@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_mult_map
 -- name    : ReciprocityTheory.ChartRestriction.L1.mult_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:45:22.972531+00:00
 -- url     : https://prove2.me/theorems/c9c819f4-7faa-4a0f-8446-1c4d7b806796

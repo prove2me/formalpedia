@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_functionFieldPlace_localIndex_scaled_uniformiser
 -- name    : GlobalTheory.T.functionFieldPlace_localIndex_scaled_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:31:23.906664+00:00
 -- url     : https://prove2.me/theorems/0a803d46-bbfe-523e-8204-5b17844894f5

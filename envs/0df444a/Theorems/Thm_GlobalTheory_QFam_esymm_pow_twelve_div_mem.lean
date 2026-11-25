@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_esymm_pow_twelve_div_mem
 -- name    : GlobalTheory.QFam.esymm_pow_twelve_div_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:59:20.144919+00:00
 -- url     : https://prove2.me/theorems/d7c32940-810a-4d86-bded-e548492d2b4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_keptInXp
 -- name    : Formalism.HC.EvenGrp.keptInXp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:38:21.910013+00:00
 -- url     : https://prove2.me/theorems/0f4a575b-07b8-4e43-97d2-64aef9af7ff0

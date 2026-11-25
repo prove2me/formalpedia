@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heisenberg_smooth_rapid_superposition_translates
 -- name    : GlobalTheory.T.heisenberg_smooth_rapid_superposition_translates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:49.534479+00:00
 -- url     : https://prove2.me/theorems/e6800fd8-c5b7-4ab9-a729-0560214cee4e

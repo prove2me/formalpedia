@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_isThetaPtOver_move
 -- name    : GlobalTheory.ThetaPtMove.isThetaPtOver_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:38:09.728504+00:00
 -- url     : https://prove2.me/theorems/799ce517-0b58-5b7d-b1e3-a35ba7940f50

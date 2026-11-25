@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocAsm_exOne_theta
 -- name    : GlobalTheory.LocAsm.exOne_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:14:03.742919+00:00
 -- url     : https://prove2.me/theorems/0a024f5d-917b-48f9-b8c5-04c9ddcb3b80

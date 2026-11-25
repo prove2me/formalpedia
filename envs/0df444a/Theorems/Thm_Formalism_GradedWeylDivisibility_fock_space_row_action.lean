@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_fock_space_row_action
 -- name    : Formalism.GradedWeylDivisibility.fock_space_row_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:38:37.667802+00:00
 -- url     : https://prove2.me/theorems/7ccb2dce-8264-5459-a1cc-f0cdc88e7dd8

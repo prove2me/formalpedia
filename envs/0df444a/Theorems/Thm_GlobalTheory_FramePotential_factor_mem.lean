@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePotential_factor_mem
 -- name    : GlobalTheory.FramePotential.factor_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:39:33.051007+00:00
 -- url     : https://prove2.me/theorems/058f47b1-b6e7-4944-b770-e383fbabbe7d

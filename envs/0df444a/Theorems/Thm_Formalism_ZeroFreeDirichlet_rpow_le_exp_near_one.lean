@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_rpow_le_exp_near_one
 -- name    : Formalism.ZeroFreeDirichlet.rpow_le_exp_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:52.24818+00:00
 -- url     : https://prove2.me/theorems/77f7deff-1e0f-43a6-8c25-8b6f50e5eb38

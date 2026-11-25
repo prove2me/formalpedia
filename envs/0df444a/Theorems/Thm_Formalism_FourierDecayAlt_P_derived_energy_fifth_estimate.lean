@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_derived_energy_fifth_estimate
 -- name    : Formalism.FourierDecayAlt.P.derived_energy_fifth_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:29:11.100944+00:00
 -- url     : https://prove2.me/theorems/f845042b-1efd-415b-833f-481ef5722e94

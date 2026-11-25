@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronDef_fromSpecStalk_comp
 -- name    : GlobalTheory.SS.WeakNeronDef.fromSpecStalk_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:49:58.956093+00:00
 -- url     : https://prove2.me/theorems/19db3c9c-8248-433c-bf2c-9fa340de8a79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_unramified_of_sqrt
 -- name    : GlobalTheory.HostModel.unramified_of_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:34.923682+00:00
 -- url     : https://prove2.me/theorems/d7f27d4f-8d44-4cb3-9318-9b9a9ded7dcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_etaleOrbitalFourier_rankOne_transfer
 -- name    : GlobalTheory.T.etaleOrbitalFourier_rankOne_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:29:15.023544+00:00
 -- url     : https://prove2.me/theorems/ae5ff578-bfcf-58f6-8d69-546a264b8c9d

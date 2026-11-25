@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_euler_factors_multipliable
 -- name    : euler_factors_multipliable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:14:34.866287+00:00
 -- url     : https://prove2.me/theorems/d8420dc0-9d77-496c-81ee-07edfbc1d429

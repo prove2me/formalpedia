@@ -1,0 +1,81 @@
+-- Prove2me | solution 1 for Formalism.HermitianLattices.Final.global_bound_refinement_results
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T17:03:16.596879+00:00
+-- url     : https://prove2.me/submissions/eaa613f0-473a-402a-a665-b4cdcaa628fa
+
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_GlobalBoundRefinements
+import Definitions.Def_Formalism_GL3MeanSquares_GlobalBoundRefinementResults
+import Theorems.Thm_Formalism_HermitianLattices_GL2PrimeSums_shortIntervalLowerBound
+import Theorems.Thm_Formalism_HermitianLattices_GenusMassVolumes_log_l_value_field_bound
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_character_sum_lipschitz
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_characters_cancel
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_dimension_mass_joint_bound
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_discriminant_term_bound
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_error_term_bound
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_exponent_bounds
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_hypotheses_of_third_theorem
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_inv_norm_sq_conj_ratio_pow_identities
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_kernel_description
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_log_l_value_field_bound
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_moduli_minimum_bound
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_parallelogram_maximum
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_prime_divisor_count_absorption
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_rank_mul_pow_three_halves_le_fourth_power
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_shortIntervalImpliesProgressions_statement
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_shortIntervalLowerBound
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_triangular_sum_exponent_bound
+import Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_valuation_formula
+import Theorems.Thm_Formalism_HermitianLattices_LatticeEstimates_moduli_minimum_bound
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_kernel_description
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_exponent_bounds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLattices Formalism.HermitianLattices.Final
+namespace Formalism.HermitianLattices.Final
+theorem _root_.solution :
+    Formalism.HermitianLattices.GlobalBoundRefinements.ShortIntervalLowerBound ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.PrimeDivisorCountAbsorption ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.ShortIntervalImpliesProgressions ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.LipschitzWeightedSums ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.ParallelogramMax ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.BRValuation ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.Ms_min ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.LogLFunctionEulerBound ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.RankThresholdInequalityEventually ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.RankMulPowThreeHalvesLeFourthPower ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.DimensionMassJointBound ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.DiscriminantTermBound ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.TableauExponentRange ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.IndicatorKernelSum ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.CharactersCancelScalar ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.TriangularSumExponentBound ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.ExponentBudgetLogBound ∧
+    Formalism.HermitianLattices.GlobalBoundRefinements.InvNormSqConjRatioPowIdentities :=
+  ⟨Formalism.HermitianLattices.GlobalBoundRefinements.shortIntervalLowerBound,
+   Formalism.HermitianLattices.GlobalBoundRefinements.prime_divisor_count_absorption,
+   Formalism.HermitianLattices.GlobalBoundRefinements.shortIntervalImpliesProgressions_statement,
+   Formalism.HermitianLattices.GlobalBoundRefinements.character_sum_lipschitz,
+   Formalism.HermitianLattices.GlobalBoundRefinements.parallelogram_maximum,
+   Formalism.HermitianLattices.GlobalBoundRefinements.valuation_formula,
+   Formalism.HermitianLattices.GlobalBoundRefinements.moduli_minimum_bound,
+   Formalism.HermitianLattices.GlobalBoundRefinements.log_l_value_field_bound,
+   Formalism.HermitianLattices.GlobalBoundRefinements.hypotheses_of_third_theorem,
+   Formalism.HermitianLattices.GlobalBoundRefinements.rank_mul_pow_three_halves_le_fourth_power,
+   Formalism.HermitianLattices.GlobalBoundRefinements.dimension_mass_joint_bound,
+   Formalism.HermitianLattices.GlobalBoundRefinements.discriminant_term_bound,
+   Formalism.HermitianLattices.GlobalBoundRefinements.exponent_bounds,
+   Formalism.HermitianLattices.GlobalBoundRefinements.kernel_description,
+   Formalism.HermitianLattices.GlobalBoundRefinements.characters_cancel,
+   Formalism.HermitianLattices.GlobalBoundRefinements.triangular_sum_exponent_bound,
+   Formalism.HermitianLattices.GlobalBoundRefinements.error_term_bound,
+   Formalism.HermitianLattices.GlobalBoundRefinements.inv_norm_sq_conj_ratio_pow_identities⟩
+end Formalism.HermitianLattices.Final

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weight_inverse
 -- name    : Formalism.FourierDecayAlt.P.weight_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:58:20.162353+00:00
 -- url     : https://prove2.me/theorems/1e67bb63-a439-56be-b6da-6fff0fbda2fc

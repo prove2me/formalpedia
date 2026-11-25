@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_t_Constants
 -- name    : Formalism.FourierDecayAlt.P.LEx2.t_Constants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:27:19.381619+00:00
 -- url     : https://prove2.me/theorems/e7574c86-c0aa-46dc-825b-1c5625e6110a

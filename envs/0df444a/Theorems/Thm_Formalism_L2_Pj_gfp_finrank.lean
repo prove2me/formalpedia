@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_gfp_finrank
 -- name    : Formalism.L2.Pj.gfp_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:03:43.221192+00:00
 -- url     : https://prove2.me/theorems/2915bf74-558c-443d-9f78-93376e85b179

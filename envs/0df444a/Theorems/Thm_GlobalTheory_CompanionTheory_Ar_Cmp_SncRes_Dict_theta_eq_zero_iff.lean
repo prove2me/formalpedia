@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_theta_eq_zero_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dict.theta_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:15:17.265988+00:00
 -- url     : https://prove2.me/theorems/7a1e8ff3-55df-5788-a462-63c9fa73565d

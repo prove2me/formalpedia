@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourTermSumSwap_sum_four_swap
 -- name    : GlobalTheory.FourTermSumSwap.sum_four_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:27.354216+00:00
 -- url     : https://prove2.me/theorems/3e890941-10a6-5e9e-a163-d40a703db7d0

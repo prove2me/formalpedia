@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndCalc_act_unique
 -- name    : GlobalTheory.EndCalc.act_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:04:40.806579+00:00
 -- url     : https://prove2.me/theorems/5424ea68-f59b-5b3d-9921-48658b5c4db1

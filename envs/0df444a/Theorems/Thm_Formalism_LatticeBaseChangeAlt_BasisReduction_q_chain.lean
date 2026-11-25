@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_BasisReduction_q_chain
 -- name    : Formalism.LatticeBaseChangeAlt.BasisReduction.q_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:51:47.109834+00:00
 -- url     : https://prove2.me/theorems/d334cead-d52a-4ef5-9818-d4f38ecdee34

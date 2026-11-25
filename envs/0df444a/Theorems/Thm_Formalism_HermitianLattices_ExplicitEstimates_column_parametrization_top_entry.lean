@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExplicitEstimates_column_parametrization_top_entry
 -- name    : Formalism.HermitianLattices.ExplicitEstimates.column_parametrization_top_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:40:13.462512+00:00
 -- url     : https://prove2.me/theorems/2c312f74-b07b-5a6f-9fef-08ba2d00dc6d

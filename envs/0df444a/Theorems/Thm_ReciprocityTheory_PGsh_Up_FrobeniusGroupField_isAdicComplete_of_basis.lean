@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_isAdicComplete_of_basis
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.isAdicComplete_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:07:57.156697+00:00
 -- url     : https://prove2.me/theorems/dd97e552-1974-4cce-8418-dbf68474c94d

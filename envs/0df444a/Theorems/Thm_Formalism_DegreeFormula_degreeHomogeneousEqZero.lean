@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_degreeHomogeneousEqZero
 -- name    : Formalism.DegreeFormula.degreeHomogeneousEqZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:41.397492+00:00
 -- url     : https://prove2.me/theorems/c8dccf19-ed19-41d2-af8e-5b178122049f

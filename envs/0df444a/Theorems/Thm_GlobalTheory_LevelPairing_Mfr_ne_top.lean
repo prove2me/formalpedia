@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_Mfr_ne_top
 -- name    : GlobalTheory.LevelPairing.Mfr_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:14:15.176738+00:00
 -- url     : https://prove2.me/theorems/33fbd417-ada3-482b-8a7c-7b8d0c59765b

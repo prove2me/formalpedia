@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_pullGlob1_eq_of_natTrans
 -- name    : GlobalTheory.CechDR.pullGlob1_eq_of_natTrans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:49:50.196944+00:00
 -- url     : https://prove2.me/theorems/f7893e5e-c13a-43d1-96d1-432b3857b913

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDim_ringKrullDim_of_etale_mvPolynomial
 -- name    : GlobalTheory.SmoothDim.ringKrullDim_of_etale_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:59:38.138015+00:00
 -- url     : https://prove2.me/theorems/048a780b-8fa5-4e83-bae5-3fb750f60638

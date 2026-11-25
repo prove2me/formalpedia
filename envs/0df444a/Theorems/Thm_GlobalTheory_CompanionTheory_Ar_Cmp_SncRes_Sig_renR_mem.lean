@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Sig_renR_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Sig.renR_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:47:39.895986+00:00
 -- url     : https://prove2.me/theorems/a24997fb-c64a-4d76-8c59-c3d33c9222b3

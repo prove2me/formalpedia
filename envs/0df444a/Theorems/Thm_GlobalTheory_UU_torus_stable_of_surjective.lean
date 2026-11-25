@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_torus_stable_of_surjective
 -- name    : GlobalTheory.UU.torus_stable_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:57:19.379834+00:00
 -- url     : https://prove2.me/theorems/6107d41b-15b4-4ca9-b65c-b390323127f9

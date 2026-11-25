@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_gauss_a_one_bound
 -- name    : Formalism.InvariantFactorPaths.G7.gauss_a_one_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:44:17.010925+00:00
 -- url     : https://prove2.me/theorems/cda1a4de-e35e-4af7-a90f-744a0a6baea1

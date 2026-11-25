@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_stabVec_eq
 -- name    : GlobalTheory.SelfDualLatticeCompare.stabVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:26:53.402644+00:00
 -- url     : https://prove2.me/theorems/7b82f5c1-8827-5f6e-8df0-b8daff8989c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_alternating_form_lattice_integrality
 -- name    : GlobalTheory.T.alternating_form_lattice_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:15.254124+00:00
 -- url     : https://prove2.me/theorems/612e46f7-cf5f-5836-b5e2-e5452bef6a06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_etale_polynomial_substitution
 -- name    : GlobalTheory.T.etale_polynomial_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:28:38.97929+00:00
 -- url     : https://prove2.me/theorems/7bb1bbcb-fc8f-42d8-8255-8425fed31b68

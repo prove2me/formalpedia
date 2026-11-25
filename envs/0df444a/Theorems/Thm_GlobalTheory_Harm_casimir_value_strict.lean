@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Harm_casimir_value_strict
 -- name    : GlobalTheory.Harm.casimir_value_strict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:08.04626+00:00
 -- url     : https://prove2.me/theorems/bccc1933-a5dd-46ae-85c2-9323b81bd3a0

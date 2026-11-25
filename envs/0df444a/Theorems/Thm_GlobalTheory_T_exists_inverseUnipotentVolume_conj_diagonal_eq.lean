@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_inverseUnipotentVolume_conj_diagonal_eq
 -- name    : GlobalTheory.T.exists_inverseUnipotentVolume_conj_diagonal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:30:56.485347+00:00
 -- url     : https://prove2.me/theorems/448dc27a-5813-5ee1-a38a-81ca0193b18a

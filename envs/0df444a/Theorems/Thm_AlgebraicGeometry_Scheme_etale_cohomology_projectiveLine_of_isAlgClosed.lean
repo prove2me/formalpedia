@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_etale_cohomology_projectiveLine_of_isAlgClosed
 -- name    : AlgebraicGeometry.Scheme.etale_cohomology_projectiveLine_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T00:59:59.840619+00:00
 -- url     : https://prove2.me/theorems/7f366c39-a059-4604-aa2b-05cd176e43d7

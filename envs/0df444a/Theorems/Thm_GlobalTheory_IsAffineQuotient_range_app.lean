@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_range_app
 -- name    : GlobalTheory.IsAffineQuotient.range_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:12:04.232795+00:00
 -- url     : https://prove2.me/theorems/5c8c3def-7006-5a2a-b48a-a724da762330

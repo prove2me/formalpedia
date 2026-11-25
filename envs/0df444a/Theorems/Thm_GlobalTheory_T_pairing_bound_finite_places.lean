@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pairing_bound_finite_places
 -- name    : GlobalTheory.T.pairing_bound_finite_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:35:41.005806+00:00
 -- url     : https://prove2.me/theorems/135ecb57-76bf-51ba-b46d-f32a3d0da76a

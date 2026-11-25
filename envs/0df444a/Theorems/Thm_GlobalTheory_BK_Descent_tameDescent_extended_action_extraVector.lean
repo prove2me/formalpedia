@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_tameDescent_extended_action_extraVector
 -- name    : GlobalTheory.BK.Descent.tameDescent_extended_action_extraVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:56:55.476175+00:00
 -- url     : https://prove2.me/theorems/7dba953f-cd1c-5a20-8a6e-a3ed4cc80729

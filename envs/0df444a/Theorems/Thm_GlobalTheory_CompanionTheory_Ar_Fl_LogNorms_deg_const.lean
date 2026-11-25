@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Fl_LogNorms_deg_const
 -- name    : GlobalTheory.CompanionTheory.Ar.Fl.LogNorms.deg_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:58:56.593985+00:00
 -- url     : https://prove2.me/theorems/e5b7a16f-91a8-4dae-9851-0f24b2dcdb6d

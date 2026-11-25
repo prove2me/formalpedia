@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_IdealInvariantsOneOrbitSt_exists_ringEquiv
 -- name    : GlobalTheory.Published.IdealInvariantsOneOrbitSt.exists_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:17.405787+00:00
 -- url     : https://prove2.me/theorems/46ca9674-ba23-5dcf-8384-9ff7d68c8937

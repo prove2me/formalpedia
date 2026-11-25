@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_cupOneOne_equivH1
 -- name    : ReciprocityTheory.Neutral.Bridge.cupOneOne_equivH1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:05:23.183978+00:00
 -- url     : https://prove2.me/theorems/41fa1d9b-08e2-4dde-b034-7b3ae0fe7e23

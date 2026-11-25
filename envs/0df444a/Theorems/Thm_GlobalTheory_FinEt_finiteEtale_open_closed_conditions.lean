@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_finiteEtale_open_closed_conditions
 -- name    : GlobalTheory.FinEt.finiteEtale_open_closed_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:47.639479+00:00
 -- url     : https://prove2.me/theorems/c75a7f72-9ce3-52f4-9ee6-0a8e103b2a1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_constant_top_corollary
 -- name    : Formalism.FourierDecayAlt.P.constant_top_corollary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:30:08.789577+00:00
 -- url     : https://prove2.me/theorems/42a68bca-0e7e-420f-bfea-93d1bb63b945

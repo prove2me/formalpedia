@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_SeriesSubgroup_XTShape_holds
 -- name    : UpperTheory.Reformulated.B.SeriesSubgroup.XTShape_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:24:07.184864+00:00
 -- url     : https://prove2.me/theorems/c879b759-d558-4da0-af4f-95ef3fe4d30b

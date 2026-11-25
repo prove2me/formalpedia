@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasConstSecondDiff_bilin_comp_left
 -- name    : GlobalTheory.HasConstSecondDiff.bilin_comp_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:55.624157+00:00
 -- url     : https://prove2.me/theorems/64d6132d-89ef-48de-861c-2015a264c299

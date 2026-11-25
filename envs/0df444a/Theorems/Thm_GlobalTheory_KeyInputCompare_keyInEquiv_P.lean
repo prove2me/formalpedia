@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyInputCompare_keyInEquiv_P
 -- name    : GlobalTheory.KeyInputCompare.keyInEquiv_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:18:49.11283+00:00
 -- url     : https://prove2.me/theorems/9b675e05-daac-4570-90ec-ed37ab41e507

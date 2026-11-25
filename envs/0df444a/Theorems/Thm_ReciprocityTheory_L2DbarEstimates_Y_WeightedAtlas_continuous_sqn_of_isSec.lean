@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_continuous_sqn_of_isSec
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.continuous_sqn_of_isSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:02:51.08909+00:00
 -- url     : https://prove2.me/theorems/8e0766c4-c93a-570a-b619-8a90299080ba

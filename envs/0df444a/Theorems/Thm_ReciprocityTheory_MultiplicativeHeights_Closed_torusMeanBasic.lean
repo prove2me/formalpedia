@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_torusMeanBasic
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.torusMeanBasic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:16:00.322524+00:00
 -- url     : https://prove2.me/theorems/4a5fe1b3-95fb-455a-9616-9f9e7bd41ca4

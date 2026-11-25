@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unitary_group_order
 -- name    : Formalism.FourierDecayAlt.P.unitary_group_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:39.15613+00:00
 -- url     : https://prove2.me/theorems/1d1d7b50-66c7-4106-a4d1-9ef7864da4d7

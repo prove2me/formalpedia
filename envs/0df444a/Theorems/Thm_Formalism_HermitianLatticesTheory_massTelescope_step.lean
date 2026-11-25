@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_massTelescope_step
 -- name    : Formalism.HermitianLatticesTheory.massTelescope_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:47:31.354271+00:00
 -- url     : https://prove2.me/theorems/d0b8dec2-12dd-51fa-91ff-78714e708734

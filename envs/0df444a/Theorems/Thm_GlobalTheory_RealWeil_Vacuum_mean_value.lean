@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Vacuum_mean_value
 -- name    : GlobalTheory.RealWeil.Vacuum.mean_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:19:58.610377+00:00
 -- url     : https://prove2.me/theorems/0cd9d7d3-5e72-526d-ba12-cf0aae99f9f6

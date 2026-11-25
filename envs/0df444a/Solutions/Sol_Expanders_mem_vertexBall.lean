@@ -1,0 +1,21 @@
+-- Prove2me | solution 1 for Expanders.mem_vertexBall
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-11-25T15:08:32.990875+00:00
+-- url     : https://prove2.me/submissions/ea4008cb-bef8-4015-8203-2b54b4df75bc
+
+module
+public import Mathlib
+public import Definitions.Def_ExpanderLib_NilliBall
+
+set_option autoImplicit true
+@[expose] public section
+public section
+open SimpleGraph Matrix Finset
+open Expanders
+variable {V : Type*} [Fintype V]
+namespace Expanders
+theorem _root_.solution {G : SimpleGraph V} {u v : V} {k : ℕ} :
+    v ∈ vertexBall G u k ↔ G.Reachable u v ∧ G.dist u v ≤ k + 1 := by
+  simp [vertexBall]
+end Expanders

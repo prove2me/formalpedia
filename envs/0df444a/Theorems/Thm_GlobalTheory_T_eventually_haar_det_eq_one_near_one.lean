@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eventually_haar_det_eq_one_near_one
 -- name    : GlobalTheory.T.eventually_haar_det_eq_one_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:28:19.110862+00:00
 -- url     : https://prove2.me/theorems/fdc51ada-abae-5c02-a609-d7e962c06607

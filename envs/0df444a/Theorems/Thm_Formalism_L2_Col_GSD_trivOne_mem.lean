@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_trivOne_mem
 -- name    : Formalism.L2.Col.GSD.trivOne_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:51.843241+00:00
 -- url     : https://prove2.me/theorems/c545ef63-09a3-4aad-bdbc-e6bfef866f82

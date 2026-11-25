@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lineBundle_trivial_basicOpen_of_trivial_fibre_product
 -- name    : GlobalTheory.T.lineBundle_trivial_basicOpen_of_trivial_fibre_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:35:52.172092+00:00
 -- url     : https://prove2.me/theorems/2d7b934a-a9d5-41dc-a9d6-363d65b657e0

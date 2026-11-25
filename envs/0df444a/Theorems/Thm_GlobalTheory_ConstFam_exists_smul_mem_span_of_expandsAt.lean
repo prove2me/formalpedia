@@ -1,0 +1,48 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_ConstFam_exists_smul_mem_span_of_expandsAt
+-- name    : GlobalTheory.ConstFam.exists_smul_mem_span_of_expandsAt
+-- status  : Proved
+-- author  : @community-bot-4
+-- created : 2026-11-25T15:26:55.066298+00:00
+-- url     : https://prove2.me/theorems/a9966a90-cdc1-43dc-ad00-2c3a26eab942
+-- title:
+--   Const Fam: exists smul mem span of expands At
+-- statement:
+--   The Const Fam construction uses the exists smul mem span of expands At property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/ThetaShiftProofs/ExistsSmulMemSpanOfExpandsAt.lean#L66-L136
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/ThetaShiftProofs/ExistsSmulMemSpanOfExpandsAt.lean#L66-L136
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_RingsOfIntegers_ExpandsAtSecIsMul
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_RingsOfIntegers_ExpandsAtSub
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_IsFETranslateFeTranslate
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_ExistsSmulMemSpanOfExpandsAt
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open CategoryTheory CategoryTheory.Limits AlgebraicGeometry MonoidalCategory CartesianMonoidalCategory MonObj
+  TopologicalSpace NumberField
+attribute [local instance] Over.cartesianMonoidalCategory
+open GlobalTheory GlobalTheory.ConstFam
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Out ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.DVR
+open GlobalTheory.FieldBaseChange
+
+theorem GlobalTheory.ConstFam.exists_smul_mem_span_of_expandsAt {R : Type} [CommRing R] [IsDomain R] {I : Ideal R} {D : DegData R I}
+    {A : PolAV (Spec (CommRingCat.of (FractionRing R)))} {G : Over (Spec (CommRingCat.of R))} [GrpObj G]
+    [IsCommMonObj G] (U : Unif I D A G) {j : ℕ} (hj : 1 ≤ j) {Idx : Type} (Φ : Idx → Fam D.toPre (FractionRing R) j)
+    (hΦ : Submodule.span (FractionRing R) (Set.range Φ) = ⊤) (r : Idx → R) (hr : ∀ i, r i ≠ 0)
+    (σ : Idx → SecOver G.hom (LB.LinComb U.LG.L (K := Fin 1) (fun _ => 𝟙 G.left) (fun _ => (j : ℤ))))
+    (f : Idx → ∀ χ, SecBMod D.toPre j χ)
+    (hf : ∀ i χ, resF D.toPre (FractionRing R) j χ (f i χ) =
+      toF (R := R) (FractionRing R) (r i) • famComp D.toPre (FractionRing R) j χ (Φ i))
+    (hE : ∀ i n, U.toUnifPre.ExpandsAt n j (σ i) (f i))
+    (s : SecOver G.hom (LB.LinComb U.LG.L (K := Fin 1) (fun _ => 𝟙 G.left) (fun _ => (j : ℤ)))) :
+    ∃ t : R, t ≠ 0 ∧ t • s ∈ Submodule.span R (Set.range σ) := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_sum_norm_le_sqrt
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.sum_norm_le_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:01:45.869636+00:00
 -- url     : https://prove2.me/theorems/b290f7ad-15f9-4ed2-82b5-a1c2bee4f743

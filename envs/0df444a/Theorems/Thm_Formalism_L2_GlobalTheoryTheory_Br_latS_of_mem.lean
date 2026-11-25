@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Br_latS_of_mem
 -- name    : Formalism.L2.GlobalTheoryTheory.Br.latS_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:48:09.168007+00:00
 -- url     : https://prove2.me/theorems/09323d11-9740-5fa1-a1c6-91f89d414bf5

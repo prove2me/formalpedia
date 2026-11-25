@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_normOrd_mul_mem_iff
 -- name    : ReciprocityTheory.MultiplicativeHeights.normOrd_mul_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:19.49519+00:00
 -- url     : https://prove2.me/theorems/277f50e7-cc1e-53be-9833-c1b1a0bf1aa6

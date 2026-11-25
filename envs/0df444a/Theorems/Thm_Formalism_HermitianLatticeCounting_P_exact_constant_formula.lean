@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_exact_constant_formula
 -- name    : Formalism.HermitianLatticeCounting.P.exact_constant_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:38:49.642297+00:00
 -- url     : https://prove2.me/theorems/774baf74-e64f-5729-8a42-5e75bd308ae2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_quotMap_mul_incl
 -- name    : GlobalTheory.HermFrame.quotMap_mul_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:18.079406+00:00
 -- url     : https://prove2.me/theorems/ad4cb2fb-e9ad-4596-81f0-35ad1bb3049e

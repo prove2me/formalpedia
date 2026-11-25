@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothPart_radical_eq_of_isReduced
 -- name    : GlobalTheory.CompanionTheory.SmoothPart.radical_eq_of_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:53:36.475816+00:00
 -- url     : https://prove2.me/theorems/9ee6493d-7095-466d-a482-cb1857a88d28

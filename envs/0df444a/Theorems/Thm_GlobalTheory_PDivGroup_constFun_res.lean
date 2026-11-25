@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_constFun_res
 -- name    : GlobalTheory.PDivGroup.constFun_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:27:14.535787+00:00
 -- url     : https://prove2.me/theorems/fbbd88e9-15b2-595b-8944-c78a930bbca1

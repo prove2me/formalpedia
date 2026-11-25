@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_integral_db_chart_eq_zero
 -- name    : ReciprocityTheory.L2DbarEstimates.integral_db_chart_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:32.900799+00:00
 -- url     : https://prove2.me/theorems/f3280161-335e-402e-b819-a872434ad8c4

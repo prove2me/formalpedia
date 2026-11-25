@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_w_cub_pull
 -- name    : GlobalTheory.w_cub_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:26:01.746544+00:00
 -- url     : https://prove2.me/theorems/5866f984-eac5-468c-ba7b-f4f28fac583b

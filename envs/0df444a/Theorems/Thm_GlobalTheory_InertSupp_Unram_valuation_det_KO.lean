@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertSupp_Unram_valuation_det_KO
 -- name    : GlobalTheory.InertSupp.Unram.valuation_det_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:19.63134+00:00
 -- url     : https://prove2.me/theorems/fd0e2028-92dc-59a3-a3cd-13ebcb2b44b8

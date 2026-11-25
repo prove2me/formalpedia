@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilPullNoncomm_manyChart_iso
 -- name    : GlobalTheory.WeilPullNoncomm.manyChart_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:07:41.373135+00:00
 -- url     : https://prove2.me/theorems/7dc60c82-232f-4ba7-a0f6-e1c62d9dd6e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_tateModule_map_eq_padicPow_cyclotomicCharacter
 -- name    : Reformulated.AutPerF.tateModule.map_eq_padicPow_cyclotomicCharacter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:31.047342+00:00
 -- url     : https://prove2.me/theorems/932e87a3-5993-42c0-ac2f-f4dba1c6ec27

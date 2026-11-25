@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactHowe_totalDegree_substF_le
 -- name    : GlobalTheory.CompactHowe.totalDegree_substF_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:41.706502+00:00
 -- url     : https://prove2.me/theorems/f0de7076-8952-4e79-89fc-070ca9199a45

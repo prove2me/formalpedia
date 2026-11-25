@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_blockParabolicSubgroupGL
 -- name    : GlobalTheory.T.card_blockParabolicSubgroupGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:40.393805+00:00
 -- url     : https://prove2.me/theorems/7cc5cb76-6e82-57ef-8f07-7334dd82cae6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SmoothDecompositionForms_contr_pure
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SmoothDecompositionForms.contr_pure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:09:37.472604+00:00
 -- url     : https://prove2.me/theorems/1556fc12-9bbb-412a-9a06-54786f8515ae

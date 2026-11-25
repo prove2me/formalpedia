@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_dvd_of_ringOfIntegers_to_int_matrix
 -- name    : GlobalTheory.T.finrank_dvd_of_ringOfIntegers_to_int_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:15.646909+00:00
 -- url     : https://prove2.me/theorems/0364c2e0-f03c-41a3-8b52-86e5139203f8

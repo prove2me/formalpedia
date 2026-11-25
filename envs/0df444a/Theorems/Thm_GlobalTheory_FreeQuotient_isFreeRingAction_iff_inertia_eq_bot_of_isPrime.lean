@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_isFreeRingAction_iff_inertia_eq_bot_of_isPrime
 -- name    : GlobalTheory.FreeQuotient.isFreeRingAction_iff_inertia_eq_bot_of_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:05:19.038864+00:00
 -- url     : https://prove2.me/theorems/38428fe0-e1df-5302-a9e8-f74318fea9bc

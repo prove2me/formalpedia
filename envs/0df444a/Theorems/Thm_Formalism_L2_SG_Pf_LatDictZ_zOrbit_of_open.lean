@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_zOrbit_of_open
 -- name    : Formalism.L2.SG.Pf.LatDictZ.zOrbit_of_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:58:09.443397+00:00
 -- url     : https://prove2.me/theorems/c2211e4d-6d92-42c8-bfba-64e2394553c7

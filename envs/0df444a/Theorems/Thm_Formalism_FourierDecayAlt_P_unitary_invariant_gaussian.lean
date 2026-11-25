@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unitary_invariant_gaussian
 -- name    : Formalism.FourierDecayAlt.P.unitary_invariant_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:15.499188+00:00
 -- url     : https://prove2.me/theorems/8d8c0b3a-06a8-5c4d-a0ee-f3b58084aa44

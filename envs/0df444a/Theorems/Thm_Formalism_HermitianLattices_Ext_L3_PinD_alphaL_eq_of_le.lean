@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinD_alphaL_eq_of_le
 -- name    : Formalism.HermitianLattices.Ext.L3.PinD.alphaL_eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:44:32.390845+00:00
 -- url     : https://prove2.me/theorems/64763984-5f68-5f03-9361-339e67819200

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_restrictIdeal_comap_eq_comap_resLE_restrictIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.restrictIdeal_comap_eq_comap_resLE_restrictIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:12.092509+00:00
 -- url     : https://prove2.me/theorems/002fc1e4-c380-5eed-845c-5907846d2420

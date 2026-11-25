@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_apply_self_mem
 -- name    : GlobalTheory.HermForm.apply_self_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:18.545126+00:00
 -- url     : https://prove2.me/theorems/4cd73eae-2e64-4ee3-a161-bf1edab5e810

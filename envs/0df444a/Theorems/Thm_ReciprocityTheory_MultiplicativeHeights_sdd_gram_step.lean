@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sdd_gram_step
 -- name    : ReciprocityTheory.MultiplicativeHeights.sdd_gram_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:23.618577+00:00
 -- url     : https://prove2.me/theorems/acb1540d-69a5-462f-b65e-3174d5476412

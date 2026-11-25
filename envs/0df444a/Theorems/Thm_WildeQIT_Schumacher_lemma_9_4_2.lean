@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WildeQIT_Schumacher_lemma_9_4_2
 -- name    : WildeQIT.Schumacher.lemma_9_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-31T18:36:23.026925+00:00
 -- url     : https://prove2.me/theorems/9868efff-f297-4bca-aa10-86f1a0bc8a8f

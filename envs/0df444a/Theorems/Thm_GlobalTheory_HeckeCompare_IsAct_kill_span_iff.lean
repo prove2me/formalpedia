@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_IsAct_kill_span_iff
 -- name    : GlobalTheory.HeckeCompare.IsAct.kill_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:07:31.156292+00:00
 -- url     : https://prove2.me/theorems/956f8229-b333-45c0-8d21-5518e0bb1a46

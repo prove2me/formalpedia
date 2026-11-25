@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_IsGenericFlag_indep_mul_genUp
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.IsGenericFlag.indep_mul_genUp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:16.375807+00:00
 -- url     : https://prove2.me/theorems/0f9c1292-6fd0-4499-ab34-b82ef910135c

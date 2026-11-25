@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_fibreDim
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.fibreDim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:33.747178+00:00
 -- url     : https://prove2.me/theorems/8b9ca8c3-ff1c-46e3-b3aa-8f7816be3de9

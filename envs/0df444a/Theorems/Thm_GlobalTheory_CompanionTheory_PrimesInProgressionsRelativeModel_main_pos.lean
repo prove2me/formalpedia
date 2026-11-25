@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrimesInProgressionsRelativeModel_main_pos
 -- name    : GlobalTheory.CompanionTheory.PrimesInProgressionsRelativeModel.main_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:53.901063+00:00
 -- url     : https://prove2.me/theorems/4e55871f-2b72-4b04-9f91-25cb40c61c27

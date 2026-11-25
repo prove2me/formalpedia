@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_regular_local_differentials_linearIndependent
 -- name    : GlobalTheory.T.regular_local_differentials_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:24.041854+00:00
 -- url     : https://prove2.me/theorems/3a4933cf-c2d2-5171-9f0c-e704f6da66a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qj8_conv_sq_le
 -- name    : UpperTheory.Reformulated.B.Qj8.conv_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:43.566713+00:00
 -- url     : https://prove2.me/theorems/4c6e995d-95a1-542f-99b9-cb496cadd532

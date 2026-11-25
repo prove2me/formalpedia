@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_gen_of_rigidified_faithfullyFlat_descent
 -- name    : GlobalTheory.T.exists_gen_of_rigidified_faithfullyFlat_descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:34.36559+00:00
 -- url     : https://prove2.me/theorems/ff491904-25f9-5e7a-987a-646a17349247

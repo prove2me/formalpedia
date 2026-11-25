@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_isHolTo_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.isHolTo_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:02.093829+00:00
 -- url     : https://prove2.me/theorems/1ebe057a-14df-4491-a0b4-6d7dc900b798

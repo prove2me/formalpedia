@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_weight_zero_not_pos_det
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.weight_zero_not_pos_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:28:09.547259+00:00
 -- url     : https://prove2.me/theorems/f6eb21e0-72bd-4c06-be88-e57abf5dac72

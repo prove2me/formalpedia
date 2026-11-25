@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_SwapBlocks_smInd_equiv_of_eq
 -- name    : GlobalTheory.SmGL.SwapBlocks.smInd_equiv_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:23:53.113529+00:00
 -- url     : https://prove2.me/theorems/a80166c7-6d09-5012-9608-058de54883ae

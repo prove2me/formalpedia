@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_ringHom_comp_eq_of_isIntegral
 -- name    : GlobalTheory.SS.exists_ringHom_comp_eq_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:09:45.2238+00:00
 -- url     : https://prove2.me/theorems/40a97bd6-9039-456f-bba7-355c5cfeaa08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_word_fusion
 -- name    : Formalism.FourierDecayAlt.P.word_fusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:24.554955+00:00
 -- url     : https://prove2.me/theorems/300adde4-5388-4a66-b683-bb410c53dc0f

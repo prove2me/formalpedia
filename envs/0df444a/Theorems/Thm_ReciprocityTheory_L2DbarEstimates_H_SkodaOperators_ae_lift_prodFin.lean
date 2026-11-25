@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_SkodaOperators_ae_lift_prodFin
 -- name    : ReciprocityTheory.L2DbarEstimates.H.SkodaOperators.ae_lift_prodFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:57:33.746563+00:00
 -- url     : https://prove2.me/theorems/ed63968a-bef3-5c41-98e2-3e473a245f5c

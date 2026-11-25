@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_thetaInversion
 -- name    : Formalism.H.thetaInversion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:40:02.612847+00:00
 -- url     : https://prove2.me/theorems/8d79f893-9217-5cf9-b12d-aeec75e5d468

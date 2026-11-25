@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_weyl_log_bound
 -- name    : Formalism.BranchingDeterminantCap.weyl_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:20:33.091119+00:00
 -- url     : https://prove2.me/theorems/e737ebe7-4332-4494-a35d-ffd12438bda3

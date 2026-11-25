@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r20a_finsum_const_eq_card_mul
 -- name    : UpperTheory.Reformulated.B.P6.r20a.finsum_const_eq_card_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:41.820794+00:00
 -- url     : https://prove2.me/theorems/534afdd5-bc08-4d8c-954b-75f64ee35c66

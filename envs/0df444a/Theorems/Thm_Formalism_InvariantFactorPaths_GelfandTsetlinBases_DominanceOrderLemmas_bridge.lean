@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_DominanceOrderLemmas_bridge
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.DominanceOrderLemmas.bridge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:23.092882+00:00
 -- url     : https://prove2.me/theorems/02c3cda2-2320-4ec4-a863-06652f5ca5a1

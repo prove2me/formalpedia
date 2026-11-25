@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_sum_demand_filter_two_div_le_of_isOptDual
 -- name    : UpperTheory.sum_demand_filter_two_div_le_of_isOptDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:11.286649+00:00
 -- url     : https://prove2.me/theorems/a042fd73-aab6-5146-98f8-481d29314c12

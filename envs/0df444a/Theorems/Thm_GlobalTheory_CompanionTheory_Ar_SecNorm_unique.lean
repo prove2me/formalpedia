@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SecNorm_unique
 -- name    : GlobalTheory.CompanionTheory.Ar.SecNorm.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:01.217075+00:00
 -- url     : https://prove2.me/theorems/c793b49b-27c0-47d8-947d-88f436866488

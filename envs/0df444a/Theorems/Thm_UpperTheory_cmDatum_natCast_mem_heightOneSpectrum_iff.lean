@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_cmDatum_natCast_mem_heightOneSpectrum_iff
 -- name    : UpperTheory.cmDatum_natCast_mem_heightOneSpectrum_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:13:13.940674+00:00
 -- url     : https://prove2.me/theorems/e057bb15-522c-5c93-8c3d-80baaca797e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_smoothDual_apply
 -- name    : GlobalTheory.LGrp.smoothDual_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:18:08.19046+00:00
 -- url     : https://prove2.me/theorems/80af24a1-e8a5-5f5a-a740-dd879c9e0ad5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericFlat_exists_charZero_specializes
 -- name    : GlobalTheory.GenericFlat.exists_charZero_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:19.554425+00:00
 -- url     : https://prove2.me/theorems/cb4e7112-2a58-59f1-afca-9244ff5c3cb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_block_duality
 -- name    : Formalism.CohomologicalDescent.LD.block_duality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:23:22.764873+00:00
 -- url     : https://prove2.me/theorems/fc32c755-875c-4d24-8c2c-7c6d394107b2

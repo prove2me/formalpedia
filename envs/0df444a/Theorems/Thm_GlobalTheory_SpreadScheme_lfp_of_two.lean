@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpreadScheme_lfp_of_two
 -- name    : GlobalTheory.SpreadScheme.lfp_of_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:03:31.987898+00:00
 -- url     : https://prove2.me/theorems/2d144d72-38ea-4b7e-8d8d-6eb4d2ab0af1

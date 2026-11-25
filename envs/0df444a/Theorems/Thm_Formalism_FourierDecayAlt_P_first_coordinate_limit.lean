@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_first_coordinate_limit
 -- name    : Formalism.FourierDecayAlt.P.first_coordinate_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:32:00.646202+00:00
 -- url     : https://prove2.me/theorems/7702f39e-5e01-4c73-8cd2-24849c783f13

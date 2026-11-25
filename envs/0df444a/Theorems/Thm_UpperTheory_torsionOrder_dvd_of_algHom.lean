@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_torsionOrder_dvd_of_algHom
 -- name    : UpperTheory.torsionOrder_dvd_of_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:14:40.899191+00:00
 -- url     : https://prove2.me/theorems/bf5ccccd-25bd-41c0-8648-9e03e1cf474e

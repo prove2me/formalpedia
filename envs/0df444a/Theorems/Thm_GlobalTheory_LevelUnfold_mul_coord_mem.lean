@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnfold_mul_coord_mem
 -- name    : GlobalTheory.LevelUnfold.mul_coord_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:13:35.163961+00:00
 -- url     : https://prove2.me/theorems/a1b06a71-fae4-4c65-ae68-ac0d443fa7a8

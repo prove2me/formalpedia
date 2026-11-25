@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_general_linear_topological_group
 -- name    : GlobalTheory.T.general_linear_topological_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:33:17.144519+00:00
 -- url     : https://prove2.me/theorems/1b0c4cef-214f-5d88-8d1c-5a0994368efc

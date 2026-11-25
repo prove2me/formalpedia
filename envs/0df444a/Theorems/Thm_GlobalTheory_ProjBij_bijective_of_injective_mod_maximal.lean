@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjBij_bijective_of_injective_mod_maximal
 -- name    : GlobalTheory.ProjBij.bijective_of_injective_mod_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:17:37.787595+00:00
 -- url     : https://prove2.me/theorems/1a7961a8-c0ed-509e-b1de-a5f22543213a

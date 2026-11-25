@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_period_coordinates_frames_lift_tendsto
 -- name    : GlobalTheory.T.period_coordinates_frames_lift_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:49.280653+00:00
 -- url     : https://prove2.me/theorems/e8122224-d57c-5ddf-9665-27c7e54fd1cc

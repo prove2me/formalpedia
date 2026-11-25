@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hkCellBound
 -- name    : Formalism.L2.Th1.F.hkCellBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:51:44.855302+00:00
 -- url     : https://prove2.me/theorems/7e9b18f2-bddb-4e10-ba03-82cd883a51e1

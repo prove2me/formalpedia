@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_finite_lev
 -- name    : GlobalTheory.CompanionTheory.LocalDens.finite_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:56.682421+00:00
 -- url     : https://prove2.me/theorems/e4fabf41-9599-44f5-a348-23837ccb8e36

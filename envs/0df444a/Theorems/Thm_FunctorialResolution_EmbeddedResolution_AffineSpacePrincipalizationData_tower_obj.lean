@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_tower_obj
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.tower_obj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:55:07.934742+00:00
 -- url     : https://prove2.me/theorems/2d23d5b2-df78-435d-b3bc-704db3e5e9d5

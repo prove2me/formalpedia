@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Eigen_phiQ_eigen
 -- name    : GlobalTheory.CompanionTheory.QL.Eigen.phiQ_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:44.097289+00:00
 -- url     : https://prove2.me/theorems/7ffe45e0-93ff-5c2b-abca-b966cb02353b

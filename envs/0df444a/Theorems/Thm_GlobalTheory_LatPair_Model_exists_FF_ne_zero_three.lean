@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_exists_FF_ne_zero_three
 -- name    : GlobalTheory.LatPair.Model.exists_FF_ne_zero_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:13:11.527068+00:00
 -- url     : https://prove2.me/theorems/78ca9a9b-feff-46be-bf28-f6c76f06face

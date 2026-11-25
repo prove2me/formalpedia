@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0812_1178_wrapped_kernel_closure
 -- name    : Arxiv0812_1178.wrapped_kernel_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:50:04.989972+00:00
 -- url     : https://prove2.me/theorems/3a924f6a-2e36-451f-b431-be60d44ef5bd

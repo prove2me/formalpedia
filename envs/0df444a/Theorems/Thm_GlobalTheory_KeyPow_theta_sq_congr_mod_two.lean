@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_theta_sq_congr_mod_two
 -- name    : GlobalTheory.KeyPow.theta_sq_congr_mod_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:50:09.564565+00:00
 -- url     : https://prove2.me/theorems/f3837375-f719-419d-bb3e-86f838a816e9

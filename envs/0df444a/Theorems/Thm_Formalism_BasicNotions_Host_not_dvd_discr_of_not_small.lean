@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_not_dvd_discr_of_not_small
 -- name    : Formalism.BasicNotions.Host.not_dvd_discr_of_not_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:24:55.356335+00:00
 -- url     : https://prove2.me/theorems/1ad3765c-03d8-5b4d-b795-9fec797edfae

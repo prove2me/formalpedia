@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedIdealWithBoundary_krullDimSucc_eq_krullDimSucc_scheme
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedIdealWithBoundary.krullDimSucc_eq_krullDimSucc_scheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:45.88691+00:00
 -- url     : https://prove2.me/theorems/f73c09d2-167d-495b-84f1-8edf96fadeb5

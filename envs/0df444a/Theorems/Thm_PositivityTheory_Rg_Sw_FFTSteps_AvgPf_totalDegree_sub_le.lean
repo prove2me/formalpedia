@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AvgPf_totalDegree_sub_le
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AvgPf.totalDegree_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:01:47.587265+00:00
 -- url     : https://prove2.me/theorems/8e7fee31-2748-5726-9ab3-3c8e643bd77b

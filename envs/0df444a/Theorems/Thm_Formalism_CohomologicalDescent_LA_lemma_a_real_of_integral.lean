@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_lemma_a_real_of_integral
 -- name    : Formalism.CohomologicalDescent.LA.lemma_a_real_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:23:09.169456+00:00
 -- url     : https://prove2.me/theorems/55d80a6a-625f-4644-bd90-e240cb419090

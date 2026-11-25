@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubleCosetIndicator_main
 -- name    : GlobalTheory.DoubleCosetIndicator.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:03:48.212863+00:00
 -- url     : https://prove2.me/theorems/cde18d60-33ad-5e1b-923f-5230c6d82da4

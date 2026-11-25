@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_model_int
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.model_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:18:14.766989+00:00
 -- url     : https://prove2.me/theorems/f5f81125-8ec0-45d3-acba-e59e40858518

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LandL_gram_det_unit
 -- name    : Formalism.HermitianLattices.Ext.L3.LandL.gram_det_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:44:05.192219+00:00
 -- url     : https://prove2.me/theorems/e4a55300-93eb-52bd-bc5c-85b6103a3f7a

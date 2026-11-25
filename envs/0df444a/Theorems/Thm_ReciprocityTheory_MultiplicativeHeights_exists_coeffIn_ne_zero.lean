@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_exists_coeffIn_ne_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.exists_coeffIn_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:11.890502+00:00
 -- url     : https://prove2.me/theorems/b5e83996-dac3-5307-934b-618f1799a08c

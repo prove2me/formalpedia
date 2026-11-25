@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_cohDimTwoLocal_of_localFiniteness
 -- name    : GlobalTheory.Published.cohDimTwoLocal_of_localFiniteness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:17:09.401558+00:00
 -- url     : https://prove2.me/theorems/5d75a49f-01b4-5671-93df-e0e121950b46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_split_integral
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.split_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:02:19.49496+00:00
 -- url     : https://prove2.me/theorems/eb52b85c-a592-4b5a-a1cb-72a1e51bca17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetIntegral_integral_eq_of_coset_support
 -- name    : GlobalTheory.CosetIntegral.integral_eq_of_coset_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:50.149539+00:00
 -- url     : https://prove2.me/theorems/05b9e515-8308-489f-9fef-5554d43b538e

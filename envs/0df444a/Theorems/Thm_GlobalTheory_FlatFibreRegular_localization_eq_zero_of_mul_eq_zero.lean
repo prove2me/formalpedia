@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFibreRegular_localization_eq_zero_of_mul_eq_zero
 -- name    : GlobalTheory.FlatFibreRegular.localization_eq_zero_of_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:41:15.362174+00:00
 -- url     : https://prove2.me/theorems/17a1a887-7969-44db-ba25-8ee9188c0680

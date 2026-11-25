@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_L2DbarEstimates_Y_four_mul__6fe18a244e26
 -- name    : P2M_ReciprocityTheory_L2DbarEstimates_Y_four_mul__6fe18a244e26
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:35:43.155411+00:00
 -- url     : https://prove2.me/theorems/013dc812-8a18-46c8-b79d-52d05c539863

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_CubTriv_twist_even_twistSym
 -- name    : GlobalTheory.UU.CubTriv.twist_even_twistSym
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:51:06.369816+00:00
 -- url     : https://prove2.me/theorems/11ef054d-604d-5f93-b0c6-e8d3e11a7979

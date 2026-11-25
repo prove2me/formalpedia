@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_DimFac_finrank_fixed_eq_prod
 -- name    : GlobalTheory.BCT.DimFac.finrank_fixed_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:48.672515+00:00
 -- url     : https://prove2.me/theorems/8acee847-d42e-423d-b67b-2f99f47ecc2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_smoothOrderOneCentersIsolated_of_principalizationCertificate
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.smoothOrderOneCentersIsolated_of_principalizationCertificate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:58.570596+00:00
 -- url     : https://prove2.me/theorems/96afa05c-d737-52d7-8884-5eb6715c4f63

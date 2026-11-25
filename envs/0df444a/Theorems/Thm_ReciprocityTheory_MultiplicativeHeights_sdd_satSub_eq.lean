@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sdd_satSub_eq
 -- name    : ReciprocityTheory.MultiplicativeHeights.sdd_satSub_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:06.072335+00:00
 -- url     : https://prove2.me/theorems/395b4926-f3e8-420a-a745-21c82c1e751a

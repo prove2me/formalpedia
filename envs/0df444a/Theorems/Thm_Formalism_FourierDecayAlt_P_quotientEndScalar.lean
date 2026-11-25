@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_quotientEndScalar
 -- name    : Formalism.FourierDecayAlt.P.quotientEndScalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:33:54.17801+00:00
 -- url     : https://prove2.me/theorems/a7c3ba7a-778e-5b32-a0cc-237354681d18

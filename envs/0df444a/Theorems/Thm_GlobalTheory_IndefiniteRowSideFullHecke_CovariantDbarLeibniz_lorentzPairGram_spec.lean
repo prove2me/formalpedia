@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CovariantDbarLeibniz_lorentzPairGram_spec
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CovariantDbarLeibniz.lorentzPairGram_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:25.299786+00:00
 -- url     : https://prove2.me/theorems/fa70d44e-17e5-4c72-b1eb-730fd5471d8e

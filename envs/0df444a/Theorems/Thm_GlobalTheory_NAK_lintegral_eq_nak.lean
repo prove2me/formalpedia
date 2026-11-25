@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NAK_lintegral_eq_nak
 -- name    : GlobalTheory.NAK.lintegral_eq_nak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:17:04.931453+00:00
 -- url     : https://prove2.me/theorems/837e2ee9-4695-50ae-b6bb-78be9a636698

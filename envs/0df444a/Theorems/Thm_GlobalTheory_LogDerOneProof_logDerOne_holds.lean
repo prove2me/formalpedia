@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerOneProof_logDerOne_holds
 -- name    : GlobalTheory.LogDerOneProof.logDerOne_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:04.12466+00:00
 -- url     : https://prove2.me/theorems/480363e2-d0e0-4722-ac67-0e597c9020a9

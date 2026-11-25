@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_kernel_tensor_spans
 -- name    : kernel_tensor_spans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:15:57.626521+00:00
 -- url     : https://prove2.me/theorems/1daa6a04-2efd-4189-8c05-1f6f779ba971

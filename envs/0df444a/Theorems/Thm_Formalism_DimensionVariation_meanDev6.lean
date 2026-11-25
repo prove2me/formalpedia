@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_meanDev6
 -- name    : Formalism.DimensionVariation.meanDev6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:25:27.701835+00:00
 -- url     : https://prove2.me/theorems/bf63d1ca-3854-4099-a82e-5675adfd64d4

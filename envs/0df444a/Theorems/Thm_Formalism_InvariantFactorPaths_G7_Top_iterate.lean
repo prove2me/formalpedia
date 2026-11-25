@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_iterate
 -- name    : Formalism.InvariantFactorPaths.G7.Top.iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:50:35.840803+00:00
 -- url     : https://prove2.me/theorems/efb95e6a-8c5b-5063-9fd4-f758b4fe6d90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fundamental_domain_fourier_unfolding
 -- name    : GlobalTheory.T.fundamental_domain_fourier_unfolding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:54.691928+00:00
 -- url     : https://prove2.me/theorems/66cbffdc-5fb6-535b-8475-df3ccedf97b1

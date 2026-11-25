@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_many_orbits_refined
 -- name    : Formalism.G0.Top.many_orbits_refined
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:37:34.983075+00:00
 -- url     : https://prove2.me/theorems/ae1e965a-8ab2-4759-b02b-e7019feb7ebb

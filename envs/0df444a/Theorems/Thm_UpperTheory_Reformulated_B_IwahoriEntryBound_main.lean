@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_IwahoriEntryBound_main
 -- name    : UpperTheory.Reformulated.B.IwahoriEntryBound.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:12:00.057264+00:00
 -- url     : https://prove2.me/theorems/415e7f19-984b-4f65-b428-bddd07ea61a3

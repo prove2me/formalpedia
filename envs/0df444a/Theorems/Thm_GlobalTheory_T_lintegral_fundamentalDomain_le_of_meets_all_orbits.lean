@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_fundamentalDomain_le_of_meets_all_orbits
 -- name    : GlobalTheory.T.lintegral_fundamentalDomain_le_of_meets_all_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:59.601507+00:00
 -- url     : https://prove2.me/theorems/0d3bfe24-d7d0-583f-bb41-08e18c4d3a45

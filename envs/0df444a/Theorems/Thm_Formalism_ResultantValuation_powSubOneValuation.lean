@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ResultantValuation_powSubOneValuation
 -- name    : Formalism.ResultantValuation.powSubOneValuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:09.164013+00:00
 -- url     : https://prove2.me/theorems/6bfd241c-ef8e-5f23-913d-96214ef699d3

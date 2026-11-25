@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_SkodaOperators_ae_slice_prodFin
 -- name    : ReciprocityTheory.L2DbarEstimates.H.SkodaOperators.ae_slice_prodFin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:43:58.993321+00:00
 -- url     : https://prove2.me/theorems/7e569ce5-2645-45fb-a8f8-fa8390ab0bf8

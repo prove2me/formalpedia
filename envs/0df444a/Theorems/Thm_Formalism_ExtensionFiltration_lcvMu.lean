@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_lcvMu
 -- name    : Formalism.ExtensionFiltration.lcvMu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:26:06.27261+00:00
 -- url     : https://prove2.me/theorems/4b4adc53-5835-5e35-ae5d-2a06d6a4d123

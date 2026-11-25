@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclicNormCheck_real_clause_iff
 -- name    : GlobalTheory.CyclicNormCheck.real_clause_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:25.544402+00:00
 -- url     : https://prove2.me/theorems/266cbe75-afb3-5350-81c0-aef890d46059

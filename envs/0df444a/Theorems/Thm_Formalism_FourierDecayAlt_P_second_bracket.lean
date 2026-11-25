@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_second_bracket
 -- name    : Formalism.FourierDecayAlt.P.second_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:50.937582+00:00
 -- url     : https://prove2.me/theorems/b1e2b203-2e34-4c6e-9134-5ca6c501c4bc

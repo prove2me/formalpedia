@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SchrModel_exists_isModel
 -- name    : GlobalTheory.CompanionTheory.SchrModel.exists_isModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:21.051796+00:00
 -- url     : https://prove2.me/theorems/6a4eeecf-4b19-50f0-89cc-f0cd1456656b

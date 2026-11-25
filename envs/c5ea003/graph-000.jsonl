@@ -89641,4 +89641,4 @@
 {"parent": "SingularModuli.successDensity_le", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
 {"parent": "SingularModuli.successDensity_le_balanced", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
 {"parent": "SingularModuli.total_work_ge", "child": "Cryptography_SingularModuli_GcdCriterion", "via": ["solution"]}
-{"parent": "LocalHirschHyperfinite.theorem1_1", "child": "LocalHirsch20261125", "via": ["statement"]}
+{"parent": "LocalHirschHyperfinite.theorem1_1", "child": "LocalHirsch20261125", "via": ["solution", "statement"]}

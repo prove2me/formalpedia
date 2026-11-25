@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_ev_sub
 -- name    : GlobalTheory.HeckeCompare.ev_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:07:05.536784+00:00
 -- url     : https://prove2.me/theorems/7a58ee35-77ce-4e3a-b004-ff8a3072fbe9

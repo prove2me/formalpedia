@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusGrading_exists_expansion
 -- name    : GlobalTheory.TorusGrading.exists_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:05:22.477781+00:00
 -- url     : https://prove2.me/theorems/2edd474f-1ca0-58fc-9271-eaa74b7e2465

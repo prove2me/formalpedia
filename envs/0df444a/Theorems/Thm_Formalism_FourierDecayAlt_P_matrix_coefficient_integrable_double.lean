@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_matrix_coefficient_integrable_double
 -- name    : Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_double
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:22.90719+00:00
 -- url     : https://prove2.me/theorems/efde7a27-c2c0-48e1-98a8-f7688772cb9f

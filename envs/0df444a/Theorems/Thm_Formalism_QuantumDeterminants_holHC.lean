@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_holHC
 -- name    : Formalism.QuantumDeterminants.holHC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:52:18.86172+00:00
 -- url     : https://prove2.me/theorems/21478bc7-52cf-4008-ac86-c2b5d1af100c

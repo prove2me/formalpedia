@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_congBoundGoodLarge
 -- name    : Formalism.NG.congBoundGoodLarge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:51:18.102414+00:00
 -- url     : https://prove2.me/theorems/fdfa90d1-cdb9-4d91-b2de-34d8f08a7599

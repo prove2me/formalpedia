@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupLatW_supLat_eq_iff
 -- name    : SupLatW.supLat_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:10:28.49139+00:00
 -- url     : https://prove2.me/theorems/e9156939-5428-52f9-b921-9ffd8b8ef9e4

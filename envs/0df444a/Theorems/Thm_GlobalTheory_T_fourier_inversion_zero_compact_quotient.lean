@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_inversion_zero_compact_quotient
 -- name    : GlobalTheory.T.fourier_inversion_zero_compact_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:39.098564+00:00
 -- url     : https://prove2.me/theorems/e10bdf1f-a356-468d-ba4d-588813d3a954

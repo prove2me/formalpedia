@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothParam_contDiff_integral_density
 -- name    : GlobalTheory.CompanionTheory.SmoothParam.contDiff_integral_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:40.244791+00:00
 -- url     : https://prove2.me/theorems/c1c04020-1fed-5f44-95aa-15a07aee3dfa

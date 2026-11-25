@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericHom_exists_monHom_extension
 -- name    : GlobalTheory.GenericHom.exists_monHom_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:13:28.242337+00:00
 -- url     : https://prove2.me/theorems/77acb531-b483-57f9-9ecb-751a4e576e0b

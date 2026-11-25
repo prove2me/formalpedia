@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FibreFramesOnModels_isBaseRing_local
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FibreFramesOnModels.isBaseRing_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:09:35.077845+00:00
 -- url     : https://prove2.me/theorems/daa416ab-aea6-4cbd-b757-d1e064edf884

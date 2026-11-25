@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WeakNeronDef_exists_dvr_point
 -- name    : GlobalTheory.SS.WeakNeronDef.exists_dvr_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:57:35.231434+00:00
 -- url     : https://prove2.me/theorems/54a0e5fd-abe9-5aa0-9bf3-bf92e37b8df3

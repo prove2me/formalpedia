@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_Exact_not_sq_dvd
 -- name    : Formalism.HC.HostRaw.Exact.not_sq_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:30.244665+00:00
 -- url     : https://prove2.me/theorems/bb5c0116-10cd-5400-963c-faf3fe64187d

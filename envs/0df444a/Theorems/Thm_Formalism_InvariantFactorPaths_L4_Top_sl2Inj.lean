@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_sl2Inj
 -- name    : Formalism.InvariantFactorPaths.L4.Top.sl2Inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:43:40.286175+00:00
 -- url     : https://prove2.me/theorems/ea1120d4-87fa-4105-b192-ed178f7b8f90

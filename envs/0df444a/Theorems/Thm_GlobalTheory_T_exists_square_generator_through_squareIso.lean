@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_square_generator_through_squareIso
 -- name    : GlobalTheory.T.exists_square_generator_through_squareIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:40:26.185921+00:00
 -- url     : https://prove2.me/theorems/52ce3632-4941-4861-b694-6792273c2604

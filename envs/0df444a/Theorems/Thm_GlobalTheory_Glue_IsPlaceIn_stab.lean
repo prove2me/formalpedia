@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_IsPlaceIn_stab
 -- name    : GlobalTheory.Glue.IsPlaceIn.stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:24.332481+00:00
 -- url     : https://prove2.me/theorems/4249c786-82b4-5150-bfd0-97a276c6585e

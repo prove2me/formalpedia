@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_tensAmb_tmul
 -- name    : GlobalTheory.AdmLoc.tensAmb_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:58.512867+00:00
 -- url     : https://prove2.me/theorems/c4359e6e-ad0f-52be-aa50-131aa7bba699

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_app_comp_eq_zero_of_germ_dvd
 -- name    : GlobalTheory.app_comp_eq_zero_of_germ_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:08:53.020886+00:00
 -- url     : https://prove2.me/theorems/bb14bb39-7350-4126-a49a-16a03d05d14f

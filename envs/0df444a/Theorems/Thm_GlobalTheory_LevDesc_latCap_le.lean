@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_latCap_le
 -- name    : GlobalTheory.LevDesc.latCap_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:35.951297+00:00
 -- url     : https://prove2.me/theorems/1e4dea14-a2eb-4d8e-afa0-b3401d8eb8c5

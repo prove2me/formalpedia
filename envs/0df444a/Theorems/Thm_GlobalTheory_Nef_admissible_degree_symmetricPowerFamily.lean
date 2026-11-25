@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_admissible_degree_symmetricPowerFamily
 -- name    : GlobalTheory.Nef.admissible_degree_symmetricPowerFamily
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:40.247699+00:00
 -- url     : https://prove2.me/theorems/8ddaf16a-2281-4ede-a7bb-9ea4cb85e544

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_mem_lineParU_Q_iff_smul
 -- name    : GlobalTheory.LGrp.mem_lineParU_Q_iff_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:17:42.179363+00:00
 -- url     : https://prove2.me/theorems/dc2fcc08-9d04-41d4-9919-0ac3ae2f0b56

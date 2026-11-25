@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weilIs_of_openCover
 -- name    : GlobalTheory.weilIs_of_openCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:26:04.879912+00:00
 -- url     : https://prove2.me/theorems/a3efb9c2-7514-4bb5-97ff-1181b1a38a3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_isHolPeriods_iff
 -- name    : GlobalTheory.PeriodCompare.isHolPeriods_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:21.334407+00:00
 -- url     : https://prove2.me/theorems/38ceb0c2-c740-5000-87bb-30b99f9c560d

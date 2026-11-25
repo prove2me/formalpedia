@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integralGLSet_isOpen_and_isCompact
 -- name    : GlobalTheory.T.integralGLSet_isOpen_and_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:34:11.914522+00:00
 -- url     : https://prove2.me/theorems/88a7b0d6-bde5-4d1e-92c9-825b70c61024

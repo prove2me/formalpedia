@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_height_maximal_le_prime_add_dim
 -- name    : GlobalTheory.T.height_maximal_le_prime_add_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:33:23.956572+00:00
 -- url     : https://prove2.me/theorems/1db4483f-0572-4775-a88d-a199ca0281b1

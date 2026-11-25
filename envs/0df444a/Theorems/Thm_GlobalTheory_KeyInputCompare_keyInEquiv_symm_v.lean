@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyInputCompare_keyInEquiv_symm_v
 -- name    : GlobalTheory.KeyInputCompare.keyInEquiv_symm_v
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:13:16.537868+00:00
 -- url     : https://prove2.me/theorems/fc089fbe-c1ef-502a-a5c5-3e3e2394f133

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_hcomp_of_mem
 -- name    : Formalism.MainNotions.PlaneGram.hcomp_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:13.987865+00:00
 -- url     : https://prove2.me/theorems/cc2e42be-2831-4f0f-b18f-504b7b2fc96a

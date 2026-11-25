@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_phase_root_selfDual
 -- name    : Formalism.L2.Th1.H.phase_root_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:23.972947+00:00
 -- url     : https://prove2.me/theorems/4901b020-9b28-423d-ab2a-f8cc3a97b2ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UniformizationClosedSplit_unifAt_of
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UniformizationClosedSplit.unifAt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:00.879603+00:00
 -- url     : https://prove2.me/theorems/6ac033a3-5f5d-546d-b299-c6f66d1325e8

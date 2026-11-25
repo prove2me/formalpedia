@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_modT_holds
 -- name    : ReciprocityTheory.Coh.modT_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:52:31.494479+00:00
 -- url     : https://prove2.me/theorems/def30241-d478-4346-aba9-e9c841e5979c

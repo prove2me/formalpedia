@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_holomorphic_morse_inequality_uniform
 -- name    : GlobalTheory.T.local_holomorphic_morse_inequality_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:49.735656+00:00
 -- url     : https://prove2.me/theorems/0fab8567-e804-5401-b3dc-2e1b47d80e9c

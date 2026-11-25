@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowTiePKey_jointEig_holds
 -- name    : Formalism.L2.FormalSeriesBounds.RowTiePKey.jointEig_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:44:13.221796+00:00
 -- url     : https://prove2.me/theorems/59dd03f5-ab91-562d-99e2-040bf282436d

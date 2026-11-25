@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_PrismSpan_semisimple
 -- name    : Formalism.CyclotomicNorms.PrismSpan.semisimple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:19.960522+00:00
 -- url     : https://prove2.me/theorems/cc057c71-a538-474b-938a-43c3bfa52a1d

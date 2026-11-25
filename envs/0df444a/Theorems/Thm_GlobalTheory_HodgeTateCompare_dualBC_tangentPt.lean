@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateCompare_dualBC_tangentPt
 -- name    : GlobalTheory.HodgeTateCompare.dualBC_tangentPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:01.276562+00:00
 -- url     : https://prove2.me/theorems/db65af49-050d-584c-afc0-96bf875153b5

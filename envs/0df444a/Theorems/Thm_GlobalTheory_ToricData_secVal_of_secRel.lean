@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_secVal_of_secRel
 -- name    : GlobalTheory.ToricData.secVal_of_secRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:49.535497+00:00
 -- url     : https://prove2.me/theorems/6d0c9dfa-c324-4fa6-9185-094ea56f0f63

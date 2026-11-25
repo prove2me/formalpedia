@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_RealCyclotomicSubfield_zeta_not_mem
 -- name    : Formalism.FrobeniusOrbits.RealCyclotomicSubfield.zeta_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:35:23.143195+00:00
 -- url     : https://prove2.me/theorems/d66f015e-a93d-49c1-8bd5-b0db8bcbe9fa

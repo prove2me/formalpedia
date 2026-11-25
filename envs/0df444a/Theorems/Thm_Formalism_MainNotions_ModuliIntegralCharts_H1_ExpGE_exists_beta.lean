@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGE_exists_beta
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGE.exists_beta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:47.652908+00:00
 -- url     : https://prove2.me/theorems/425a30cc-0496-402b-ae1a-0fa149a12971

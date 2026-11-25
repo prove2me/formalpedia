@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_mem_Weil
 -- name    : GlobalTheory.WeilDeligne.mem_Weil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:09:54.453809+00:00
 -- url     : https://prove2.me/theorems/0a1263c7-99e8-429c-a03e-02e7934e39bf

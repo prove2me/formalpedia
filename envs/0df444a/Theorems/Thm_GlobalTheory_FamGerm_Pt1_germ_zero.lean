@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamGerm_Pt1_germ_zero
 -- name    : GlobalTheory.FamGerm.Pt1.germ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:18.206561+00:00
 -- url     : https://prove2.me/theorems/a812e299-b2ca-4b5e-8599-9f29788a6439

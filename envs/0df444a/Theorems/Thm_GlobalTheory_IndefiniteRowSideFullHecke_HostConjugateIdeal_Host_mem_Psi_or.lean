@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_HostConjugateIdeal_Host_mem_Psi_or
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.HostConjugateIdeal.Host.mem_Psi_or
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:41.980848+00:00
 -- url     : https://prove2.me/theorems/7d627a14-8647-5e6a-a29a-a0ee75f47d07

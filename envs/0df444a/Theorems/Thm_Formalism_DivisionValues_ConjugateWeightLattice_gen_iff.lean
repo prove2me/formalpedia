@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_ConjugateWeightLattice_gen_iff
 -- name    : Formalism.DivisionValues.ConjugateWeightLattice.gen_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:52.464222+00:00
 -- url     : https://prove2.me/theorems/f7f477db-6872-4c19-900e-1599a21ba1cc

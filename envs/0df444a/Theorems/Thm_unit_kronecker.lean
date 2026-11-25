@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_unit_kronecker
 -- name    : unit_kronecker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:17:07.451092+00:00
 -- url     : https://prove2.me/theorems/3999d29e-1be8-4d9c-adee-9a7e9dc1084a

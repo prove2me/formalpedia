@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenTorsor_exists_universal_units
 -- name    : GlobalTheory.GenTorsor.exists_universal_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:01.845566+00:00
 -- url     : https://prove2.me/theorems/25371bc5-930d-48d8-a2f4-2694699a2679

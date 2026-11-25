@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_exists_mem_dpSpan_Ico
 -- name    : Reformulated.AutPerF.exists_mem_dpSpan_Ico
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:49.363798+00:00
 -- url     : https://prove2.me/theorems/4a010578-4ba6-4caf-abae-e04b5c30f9ee

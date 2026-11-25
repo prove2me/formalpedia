@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_frobG_one
 -- name    : GlobalTheory.SS.frobG_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:05.284743+00:00
 -- url     : https://prove2.me/theorems/7af4f5c0-9767-4507-b250-fc610f8cd59f

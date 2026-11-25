@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_dpowInt
 -- name    : Formalism.InvariantFactorPaths.L4.Top.dpowInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:14.897853+00:00
 -- url     : https://prove2.me/theorems/719a4101-4558-5e19-81fd-b810e4db674c

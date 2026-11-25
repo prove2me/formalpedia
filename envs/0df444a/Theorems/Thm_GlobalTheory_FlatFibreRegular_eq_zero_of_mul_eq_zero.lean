@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFibreRegular_eq_zero_of_mul_eq_zero
 -- name    : GlobalTheory.FlatFibreRegular.eq_zero_of_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:44:00.826115+00:00
 -- url     : https://prove2.me/theorems/f498aa2e-9415-4bce-852e-c732fd724f54

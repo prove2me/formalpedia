@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_Test_height_eq_of_iso
 -- name    : GlobalTheory.PDivGroup.Test.height_eq_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:22:43.768636+00:00
 -- url     : https://prove2.me/theorems/553c4287-29df-4ea7-91f1-82002480529c

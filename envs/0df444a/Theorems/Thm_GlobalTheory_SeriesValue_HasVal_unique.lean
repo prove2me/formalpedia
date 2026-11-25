@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesValue_HasVal_unique
 -- name    : GlobalTheory.SeriesValue.HasVal.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:51:32.694265+00:00
 -- url     : https://prove2.me/theorems/35a1e6c3-2c8f-4713-b022-bb1469c72fbe

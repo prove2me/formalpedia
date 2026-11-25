@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isHomogeneous_aeval_eq_of_first_eq_one
 -- name    : GlobalTheory.T.exists_isHomogeneous_aeval_eq_of_first_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:30:20.079385+00:00
 -- url     : https://prove2.me/theorems/f0e87ffe-8f7b-4916-885e-3277741fe885

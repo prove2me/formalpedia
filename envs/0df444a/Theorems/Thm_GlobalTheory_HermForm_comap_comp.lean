@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_comap_comp
 -- name    : GlobalTheory.HermForm.comap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:43.379835+00:00
 -- url     : https://prove2.me/theorems/abfdeb34-8ed5-5d96-a4e7-8ea577392b64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieChart_univChart_baseChange_of_chart
 -- name    : GlobalTheory.LieChart.univChart_baseChange_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:57:30.436258+00:00
 -- url     : https://prove2.me/theorems/09c2186c-c38e-5822-bb11-396f9c15dd13

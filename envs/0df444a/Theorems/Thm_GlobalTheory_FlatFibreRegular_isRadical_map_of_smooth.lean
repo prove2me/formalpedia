@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFibreRegular_isRadical_map_of_smooth
 -- name    : GlobalTheory.FlatFibreRegular.isRadical_map_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:41:13.426713+00:00
 -- url     : https://prove2.me/theorems/ded1bf9d-6632-44d9-b3ad-52dc6a7be7d7

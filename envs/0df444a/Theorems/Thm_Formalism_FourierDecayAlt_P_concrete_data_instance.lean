@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_concrete_data_instance
 -- name    : Formalism.FourierDecayAlt.P.concrete_data_instance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:40:11.911606+00:00
 -- url     : https://prove2.me/theorems/8e1f479a-f4f0-43cb-b285-132d6844c66d

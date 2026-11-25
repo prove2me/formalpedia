@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_compactSpace_unitary_of_definite
 -- name    : GlobalTheory.MixedSignature.compactSpace_unitary_of_definite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:54:48.747875+00:00
 -- url     : https://prove2.me/theorems/53c86732-28fa-4f94-accf-29a56cc3e3cc

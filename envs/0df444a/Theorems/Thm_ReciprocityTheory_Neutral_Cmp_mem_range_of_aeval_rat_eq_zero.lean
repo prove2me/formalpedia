@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_mem_range_of_aeval_rat_eq_zero
 -- name    : ReciprocityTheory.Neutral.Cmp.mem_range_of_aeval_rat_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:08:21.61397+00:00
 -- url     : https://prove2.me/theorems/3b2e6816-a09e-4e83-a484-806aba157947

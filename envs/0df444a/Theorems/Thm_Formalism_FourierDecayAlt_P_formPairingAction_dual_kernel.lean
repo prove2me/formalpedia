@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_formPairingAction_dual_kernel
 -- name    : Formalism.FourierDecayAlt.P.formPairingAction_dual_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:31:49.630902+00:00
 -- url     : https://prove2.me/theorems/a34c02ab-558c-4adb-a5d4-404084692206

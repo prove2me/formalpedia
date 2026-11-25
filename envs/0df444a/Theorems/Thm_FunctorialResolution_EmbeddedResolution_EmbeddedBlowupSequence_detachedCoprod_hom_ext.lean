@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_detachedCoprod_hom_ext
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.detachedCoprod_hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:30.052874+00:00
 -- url     : https://prove2.me/theorems/928c3d8c-4597-476f-b213-6d86f2bfb5ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianTripleChecks_sabMap_ext
 -- name    : GlobalTheory.SemiAbelianTripleChecks.sabMap_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:22:57.637924+00:00
 -- url     : https://prove2.me/theorems/50f0dcf1-9ce4-5843-8009-2ec7ea6fe239

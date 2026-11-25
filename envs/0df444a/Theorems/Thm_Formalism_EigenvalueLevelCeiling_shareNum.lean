@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_shareNum
 -- name    : Formalism.EigenvalueLevelCeiling.shareNum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:26:52.664659+00:00
 -- url     : https://prove2.me/theorems/3728ead3-45bf-5a7a-a186-4102cceda16b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Metaplectic_Model_holPart_shear
 -- name    : GlobalTheory.Published.Metaplectic.Model.holPart_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:21.51861+00:00
 -- url     : https://prove2.me/theorems/69a812cf-361f-4bf9-b480-7938e7be4163

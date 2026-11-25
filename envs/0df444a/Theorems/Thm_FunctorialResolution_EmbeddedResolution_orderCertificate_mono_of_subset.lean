@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderCertificate_mono_of_subset
 -- name    : FunctorialResolution.EmbeddedResolution.orderCertificate_mono_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:28.53595+00:00
 -- url     : https://prove2.me/theorems/bf2bb108-aeb8-59c0-8955-123d9564628c

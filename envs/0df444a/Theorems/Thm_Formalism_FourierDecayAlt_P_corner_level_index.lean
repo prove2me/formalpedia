@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_corner_level_index
 -- name    : Formalism.FourierDecayAlt.P.corner_level_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:31:42.744114+00:00
 -- url     : https://prove2.me/theorems/6dce2a3d-d14d-494c-99e6-cce354e4e382

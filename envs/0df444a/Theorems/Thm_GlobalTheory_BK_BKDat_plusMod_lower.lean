@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_BKDat_plusMod_lower
 -- name    : GlobalTheory.BK.BKDat.plusMod_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:52.925925+00:00
 -- url     : https://prove2.me/theorems/aec16309-5f2d-5b08-9bdd-163d90260bff

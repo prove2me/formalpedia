@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_psi_neg
 -- name    : GlobalTheory.ThetaPtMove.psi_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:35:51.788565+00:00
 -- url     : https://prove2.me/theorems/7a03d891-bb34-5e93-a8c7-8a34b7a617a5

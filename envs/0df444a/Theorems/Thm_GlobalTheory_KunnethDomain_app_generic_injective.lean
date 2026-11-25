@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KunnethDomain_app_generic_injective
 -- name    : GlobalTheory.KunnethDomain.app_generic_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:07:30.453807+00:00
 -- url     : https://prove2.me/theorems/ff2c90f3-0707-569d-ba56-6fee485cae47

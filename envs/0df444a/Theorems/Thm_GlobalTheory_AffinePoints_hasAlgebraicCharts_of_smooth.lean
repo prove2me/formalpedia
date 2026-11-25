@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_hasAlgebraicCharts_of_smooth
 -- name    : GlobalTheory.AffinePoints.hasAlgebraicCharts_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:55:36.010901+00:00
 -- url     : https://prove2.me/theorems/1882c277-e530-5e95-8086-287ff8049d7b

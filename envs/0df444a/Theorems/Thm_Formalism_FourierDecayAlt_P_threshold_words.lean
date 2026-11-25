@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_threshold_words
 -- name    : Formalism.FourierDecayAlt.P.threshold_words
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:10.757327+00:00
 -- url     : https://prove2.me/theorems/f4e854d1-7e70-4ae4-863a-53a3ca171336

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_normalised_iso_pullback_mul_by_m
 -- name    : GlobalTheory.T.exists_normalised_iso_pullback_mul_by_m
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:38:15.022809+00:00
 -- url     : https://prove2.me/theorems/86c2efc9-321c-4823-9ff2-4b0c9248aa26

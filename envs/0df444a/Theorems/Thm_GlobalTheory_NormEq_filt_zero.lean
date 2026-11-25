@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormEq_filt_zero
 -- name    : GlobalTheory.NormEq.filt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:17:56.382021+00:00
 -- url     : https://prove2.me/theorems/199d186b-46d2-56a3-aa68-f840f9ffd587

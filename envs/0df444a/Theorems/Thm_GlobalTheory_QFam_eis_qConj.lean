@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_eis_qConj
 -- name    : GlobalTheory.QFam.eis_qConj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:42:46.85902+00:00
 -- url     : https://prove2.me/theorems/efd81e4e-4810-4b75-9cbb-269647cc3360

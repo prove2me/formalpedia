@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_negIndex_le_card
 -- name    : GlobalTheory.Inertia.negIndex_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:10:14.15655+00:00
 -- url     : https://prove2.me/theorems/0cf8c282-0d38-4f59-b0e0-a3f38a4fad2c

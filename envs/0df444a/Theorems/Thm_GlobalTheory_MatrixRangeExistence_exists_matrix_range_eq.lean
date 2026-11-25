@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixRangeExistence_exists_matrix_range_eq
 -- name    : GlobalTheory.MatrixRangeExistence.exists_matrix_range_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:48.994439+00:00
 -- url     : https://prove2.me/theorems/32f93db9-a304-5429-b7d3-71eef002c72d

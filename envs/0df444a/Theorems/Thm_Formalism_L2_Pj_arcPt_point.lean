@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_arcPt_point
 -- name    : Formalism.L2.Pj.arcPt_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:47:42.158809+00:00
 -- url     : https://prove2.me/theorems/f67b4da6-5b22-419a-929a-2646899fb490

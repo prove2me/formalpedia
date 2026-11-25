@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_detKills
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.detKills
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:37:15.100518+00:00
 -- url     : https://prove2.me/theorems/49b69029-91a4-4193-be4e-ccb336eb84f6

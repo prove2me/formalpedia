@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coeff_annihilated_of_aeval_mem_ker_pow
 -- name    : GlobalTheory.T.coeff_annihilated_of_aeval_mem_ker_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:27:12.91618+00:00
 -- url     : https://prove2.me/theorems/e7ae5821-3000-5ebf-b4a1-54a867713c74

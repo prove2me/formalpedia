@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_exists_comp_eq_of_isAlgClosed
 -- name    : GlobalTheory.IsAffineQuotient.exists_comp_eq_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:09.975967+00:00
 -- url     : https://prove2.me/theorems/a34fc055-4e65-4e12-b7de-4e61933f7d0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CM_TenExp_card_type
 -- name    : GlobalTheory.CM.TenExp.card_type
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:55.46294+00:00
 -- url     : https://prove2.me/theorems/77e964ef-7949-412c-af68-221cacf532b7

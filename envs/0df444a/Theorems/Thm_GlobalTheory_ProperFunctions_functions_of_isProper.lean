@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_functions_of_isProper
 -- name    : GlobalTheory.ProperFunctions.functions_of_isProper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:15:55.5739+00:00
 -- url     : https://prove2.me/theorems/d0890e0c-e7e0-4f7a-8539-1b7c94e74f0a

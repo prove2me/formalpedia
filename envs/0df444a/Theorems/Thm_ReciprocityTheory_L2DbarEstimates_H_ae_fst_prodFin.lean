@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_ae_fst_prodFin
 -- name    : ReciprocityTheory.L2DbarEstimates.H.ae_fst_prodFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:59:34.151796+00:00
 -- url     : https://prove2.me/theorems/bff3c69e-c77f-545b-a8bf-3b8d895977ee

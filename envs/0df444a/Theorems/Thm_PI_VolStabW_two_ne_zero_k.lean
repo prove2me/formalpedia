@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_two_ne_zero_k
 -- name    : PI.VolStabW.two_ne_zero_k
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:03:41.330192+00:00
 -- url     : https://prove2.me/theorems/de7d8347-d549-46d2-93aa-3a33f1e49c7f

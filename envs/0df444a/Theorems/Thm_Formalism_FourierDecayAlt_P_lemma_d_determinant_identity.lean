@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_d_determinant_identity
 -- name    : Formalism.FourierDecayAlt.P.lemma_d_determinant_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:07.670338+00:00
 -- url     : https://prove2.me/theorems/97e77060-4a0c-5af6-84d9-abe5cadd446a

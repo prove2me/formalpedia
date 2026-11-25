@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_homLoc_grSum_res
 -- name    : GlobalTheory.homLoc_grSum_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:56:22.972966+00:00
 -- url     : https://prove2.me/theorems/2952ad11-d6eb-407d-ab16-5dbd69a2c903

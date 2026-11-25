@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_sec_zero__b0dd91851335
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_sec_zero__b0dd91851335
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:59:15.866373+00:00
 -- url     : https://prove2.me/theorems/bb4ecfdb-2548-4166-b3c2-04efb054dd2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_arSlope_eq
 -- name    : GlobalTheory.ArchMetric.arSlope_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:31.826339+00:00
 -- url     : https://prove2.me/theorems/caaa0c14-37cd-5ead-b593-273e8a75bd7d

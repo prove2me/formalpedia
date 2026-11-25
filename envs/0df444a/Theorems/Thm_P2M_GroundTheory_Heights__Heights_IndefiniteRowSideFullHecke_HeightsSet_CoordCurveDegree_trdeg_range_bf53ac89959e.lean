@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_trdeg_range_bf53ac89959e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_trdeg_range_bf53ac89959e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:40:29.789494+00:00
 -- url     : https://prove2.me/theorems/bd56a559-1e9a-4b0e-8c5d-3e00401ce189

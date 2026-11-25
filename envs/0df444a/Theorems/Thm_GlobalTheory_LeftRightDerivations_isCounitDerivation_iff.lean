@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeftRightDerivations_isCounitDerivation_iff
 -- name    : GlobalTheory.LeftRightDerivations.isCounitDerivation_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:13:22.605606+00:00
 -- url     : https://prove2.me/theorems/3555a0f8-203c-4bb1-af61-83059b6b33e7

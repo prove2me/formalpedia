@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_row_letter_rule
 -- name    : row_letter_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:16:41.734554+00:00
 -- url     : https://prove2.me/theorems/79b2d8a8-4a8b-465b-a556-9b05d41148d8

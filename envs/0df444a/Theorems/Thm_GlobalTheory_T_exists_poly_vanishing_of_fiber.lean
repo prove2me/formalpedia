@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_poly_vanishing_of_fiber
 -- name    : GlobalTheory.T.exists_poly_vanishing_of_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:31:03.306097+00:00
 -- url     : https://prove2.me/theorems/d466a3b7-15c7-4ec8-b4e1-53db62d1d9ae

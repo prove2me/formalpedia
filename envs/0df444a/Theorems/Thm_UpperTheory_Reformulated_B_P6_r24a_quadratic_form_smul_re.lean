@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r24a_quadratic_form_smul_re
 -- name    : UpperTheory.Reformulated.B.P6.r24a.quadratic_form_smul_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:41.601638+00:00
 -- url     : https://prove2.me/theorems/14c755f3-584b-4502-8a0b-e00cf02f2715

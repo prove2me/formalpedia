@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_matU_matV
 -- name    : ReciprocityTheory.PGsh.Up.matU_matV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:09:08.795599+00:00
 -- url     : https://prove2.me/theorems/ed816f44-9bb3-4fc0-bd2a-34f41c08c467

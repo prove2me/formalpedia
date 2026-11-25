@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_ordV_units_smul_gen
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.ordV_units_smul_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:49:48.065794+00:00
 -- url     : https://prove2.me/theorems/235db770-3d63-5de7-8356-05dcdf70c321

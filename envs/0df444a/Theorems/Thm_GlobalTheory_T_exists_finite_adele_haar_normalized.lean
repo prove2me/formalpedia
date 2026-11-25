@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finite_adele_haar_normalized
 -- name    : GlobalTheory.T.exists_finite_adele_haar_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:33:28.291107+00:00
 -- url     : https://prove2.me/theorems/dfd3bcc1-0b2d-5283-bf99-5373ed406a5f

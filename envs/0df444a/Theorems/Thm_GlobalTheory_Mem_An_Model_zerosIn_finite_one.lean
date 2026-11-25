@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_Model_zerosIn_finite_one
 -- name    : GlobalTheory.Mem.An.Model.zerosIn_finite_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:56.133633+00:00
 -- url     : https://prove2.me/theorems/ab4c8a05-8b29-5bc6-b988-330ee0a0a45e

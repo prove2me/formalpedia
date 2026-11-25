@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Jet_polyDeriv_add_fun
 -- name    : GlobalTheory.Jet.polyDeriv_add_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:11:29.793272+00:00
 -- url     : https://prove2.me/theorems/3441496f-8f82-5e6c-9e15-9a7a908b3e3b

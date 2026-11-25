@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_mem_unitaryGroup_iff_isIsometry
 -- name    : GlobalTheory.HermForm.mem_unitaryGroup_iff_isIsometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:58.881719+00:00
 -- url     : https://prove2.me/theorems/b5d51164-bd28-4805-9d35-c849058a0eae

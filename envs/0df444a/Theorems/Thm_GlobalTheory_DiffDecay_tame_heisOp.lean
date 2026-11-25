@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffDecay_tame_heisOp
 -- name    : GlobalTheory.DiffDecay.tame_heisOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:21.750443+00:00
 -- url     : https://prove2.me/theorems/3190f13a-5f1a-4a61-a18c-74cb4ed43534

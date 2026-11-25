@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_biadditiveOfCube_holds
 -- name    : biadditiveOfCube_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:14:11.959933+00:00
 -- url     : https://prove2.me/theorems/db11fd76-c68b-47b8-9b1c-c1e0d2554e02

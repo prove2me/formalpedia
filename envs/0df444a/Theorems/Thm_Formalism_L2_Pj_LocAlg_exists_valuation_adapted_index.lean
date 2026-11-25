@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LocAlg_exists_valuation_adapted_index
 -- name    : Formalism.L2.Pj.LocAlg.exists_valuation_adapted_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:47:10.266782+00:00
 -- url     : https://prove2.me/theorems/593ec847-f62e-42ec-a6d4-d5feb0cc5e30

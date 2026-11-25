@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_glCharacter_factors_through_det_of_two_ne_zero
 -- name    : GlobalTheory.T.glCharacter_factors_through_det_of_two_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:49.981267+00:00
 -- url     : https://prove2.me/theorems/d2adfb70-e01c-4f50-b2ed-5dd676631936

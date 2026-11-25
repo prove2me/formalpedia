@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_fockGauss
 -- name    : Formalism.CountingSumsFrames.Top.fockGauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:22:49.275002+00:00
 -- url     : https://prove2.me/theorems/5b7a9127-b4e6-5397-8b3f-221481a67bd3

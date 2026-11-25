@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesValue_ValAt_succ
 -- name    : GlobalTheory.SeriesValue.ValAt.succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:19.844217+00:00
 -- url     : https://prove2.me/theorems/b200be86-01b5-516a-b4a9-25d1dd087094

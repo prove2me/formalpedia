@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Expanders_mem_vertexBall
 -- name    : Expanders.mem_vertexBall
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:08:25.992741+00:00
 -- url     : https://prove2.me/theorems/57a7442c-e4bd-5240-ae16-b3947dd20121

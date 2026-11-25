@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_budgetNum
 -- name    : Formalism.EigenvalueLevelCeiling.budgetNum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:27:44.268938+00:00
 -- url     : https://prove2.me/theorems/21154e48-afdb-4fe5-b9ae-06b4c0dd7890

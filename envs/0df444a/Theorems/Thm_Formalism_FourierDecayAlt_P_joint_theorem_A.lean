@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_joint_theorem_A
 -- name    : Formalism.FourierDecayAlt.P.joint_theorem_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:32:43.740529+00:00
 -- url     : https://prove2.me/theorems/a4877765-b35d-410d-8f71-2028bf3a30b9

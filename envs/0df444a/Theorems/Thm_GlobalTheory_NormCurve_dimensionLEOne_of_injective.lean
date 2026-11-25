@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCurve_dimensionLEOne_of_injective
 -- name    : GlobalTheory.NormCurve.dimensionLEOne_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:29:40.552112+00:00
 -- url     : https://prove2.me/theorems/291b275f-aa10-528e-967f-7e777b7d5773

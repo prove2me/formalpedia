@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_quasiPeriodic_and_independent
 -- name    : GlobalTheory.AnArc.quasiPeriodic_and_independent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:56:42.961112+00:00
 -- url     : https://prove2.me/theorems/fd0c4ae3-a088-4629-91fc-ef09db194998

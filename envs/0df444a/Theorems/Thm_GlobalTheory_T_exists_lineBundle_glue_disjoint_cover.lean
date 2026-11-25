@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lineBundle_glue_disjoint_cover
 -- name    : GlobalTheory.T.exists_lineBundle_glue_disjoint_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:19:23.395774+00:00
 -- url     : https://prove2.me/theorems/9cd4386f-a05b-4fc1-8b8c-2312663350e1

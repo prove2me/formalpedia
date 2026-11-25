@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_adicCompletion_noetherian_flat_complete
 -- name    : GlobalTheory.T.exists_adicCompletion_noetherian_flat_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:28:20.424514+00:00
 -- url     : https://prove2.me/theorems/b0053749-ce65-5bf1-b0a2-e2bd2daae032

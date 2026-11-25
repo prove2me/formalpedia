@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_LocOp_op_mem_intOf
 -- name    : Formalism.L2.Col.LocOp.op_mem_intOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:52:34.549559+00:00
 -- url     : https://prove2.me/theorems/291b6a5f-2965-564b-9910-7b22fc31a9b9

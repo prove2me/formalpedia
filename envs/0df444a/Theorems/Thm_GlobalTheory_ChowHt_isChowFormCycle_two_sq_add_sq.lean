@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_isChowFormCycle_two_sq_add_sq
 -- name    : GlobalTheory.ChowHt.isChowFormCycle_two_sq_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:42.558804+00:00
 -- url     : https://prove2.me/theorems/9f0f07ea-113e-58c5-82c3-a81f563ad0c0

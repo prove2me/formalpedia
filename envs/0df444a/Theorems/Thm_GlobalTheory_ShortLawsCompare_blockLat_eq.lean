@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortLawsCompare_blockLat_eq
 -- name    : GlobalTheory.ShortLawsCompare.blockLat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:55.971963+00:00
 -- url     : https://prove2.me/theorems/e1797511-dbbd-5370-88f9-35c1500deb41

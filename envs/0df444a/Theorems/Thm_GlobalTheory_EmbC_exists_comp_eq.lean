@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EmbC_exists_comp_eq
 -- name    : GlobalTheory.EmbC.exists_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:04:25.155873+00:00
 -- url     : https://prove2.me/theorems/0db0a4da-70e2-5c63-8060-67739d79c2dc

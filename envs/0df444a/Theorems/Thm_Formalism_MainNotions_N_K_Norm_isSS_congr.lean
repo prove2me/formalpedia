@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_isSS_congr
 -- name    : Formalism.MainNotions.N.K.Norm.isSS_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:51:24.61333+00:00
 -- url     : https://prove2.me/theorems/ef134914-a102-53f2-aae5-880ff83b3d99

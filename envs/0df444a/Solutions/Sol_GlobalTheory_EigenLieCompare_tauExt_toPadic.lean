@@ -1,0 +1,85 @@
+-- Prove2me | solution 1 for GlobalTheory.EigenLieCompare.tauExt_toPadic
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T16:21:42.210388+00:00
+-- url     : https://prove2.me/submissions/a9cf6de9-ed6d-472f-9d84-927e1c7cf56d
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_PlaceDivisors_StAvDefs
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_FiniteAlgebraLocalCompletion
+import Definitions.Def_Development_AbelianVarietyTheory_BlockTheory_JetGauges_ConjugatePlaceEigen
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_JetHarmonics_CotangentBidualToTangentFunctionInjective
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_FiniteResidueFieldAdicCompletionIntegers
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DegenerationProofs_GeometricallyConnectedOfIsPullbackOfSurjective
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ModuliProofs_NonemptyPadicIntRingHomOfIsAdicComplete
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsTorusAndQuotientHom
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_SplitTorusHomProperTrivialLocal
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_JetHarmonics_MulEqZeroOfToCompletion
+import Theorems.Thm_GlobalTheory_EigenLieCompare_toPadic_apply
+import Theorems.Thm_GlobalTheory_AugCot_baseChangeAug_tmul
+import Theorems.Thm_GlobalTheory_AugCot_baseChangeEquiv_tmul_d
+import Theorems.Thm_GlobalTheory_AugCot_mvPolynomialBasis_apply
+import Theorems.Thm_GlobalTheory_BoundedPowerSeriesDisc_evalBounded_C
+import Theorems.Thm_GlobalTheory_BoundedPowerSeriesDisc_evalBounded_X
+import Theorems.Thm_GlobalTheory_GroupRingConst_powChar_apply
+import Theorems.Thm_GlobalTheory_GroupRingConst_pt_single
+import Theorems.Thm_GlobalTheory_Idele_adelicMulEquiv_mk
+import Theorems.Thm_GlobalTheory_LocalLattice_hermPairing_apply
+import Theorems.Thm_GlobalTheory_restrictPoints_val
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_add
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_cc
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_eq_zero
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_intCast
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_inv
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_mul
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_natCast
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_neg
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_one
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_sub
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_cc_zero
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] GlobalTheory.AugCot.baseChangeAug_tmul
+attribute [local simp] GlobalTheory.AugCot.baseChangeEquiv_tmul_d
+attribute [local simp] GlobalTheory.AugCot.mvPolynomialBasis_apply
+attribute [local simp] GlobalTheory.BoundedPowerSeriesDisc.evalBounded_C
+attribute [local simp] GlobalTheory.BoundedPowerSeriesDisc.evalBounded_X
+attribute [local simp] GlobalTheory.GroupRingConst.powChar_apply
+attribute [local simp] GlobalTheory.GroupRingConst.pt_single
+attribute [local simp] GlobalTheory.Idele.adelicMulEquiv_mk
+attribute [local simp] GlobalTheory.LocalLattice.hermPairing_apply
+attribute [local simp] GlobalTheory.restrictPoints_val
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_add
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_cc
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_eq_zero
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_intCast
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_inv
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_mul
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_natCast
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_neg
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_one
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_sub
+attribute [local simp] ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.cc_zero
+
+
+
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry
+open NumberField IsDedekindDomain
+open scoped CategoryTheory.Obj CategoryTheory.MonObj TensorProduct
+open GlobalTheory GlobalTheory.EigenLieCompare
+open ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Pdiv ReciprocityTheory.ChartRestriction.G.Out ReciprocityTheory.ChartRestriction.G.Pdiv.AvDefs
+open GlobalTheory.IndefiniteRowSideFullHecke.ConjugatePlaceEigen GlobalTheory.HodgeTateCompare
+variable {p : ℕ} [Fact p.Prime] {E : Type} [Field E] [NumberField E]
+namespace GlobalTheory.EigenLieCompare
+theorem _root_.solution {O : Type} [CommRing O] [Algebra ℤ_[p] O] (τ : 𝓞 E →+* O) (a : 𝓞 E) :
+    tauExt τ (toPadic p E a) = τ a := by
+  simp [toPadic_apply, tauExt]
+end GlobalTheory.EigenLieCompare

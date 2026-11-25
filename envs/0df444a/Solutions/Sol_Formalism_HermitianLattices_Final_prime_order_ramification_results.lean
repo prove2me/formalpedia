@@ -1,0 +1,55 @@
+-- Prove2me | solution 1 for Formalism.HermitianLattices.Final.prime_order_ramification_results
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T17:03:31.168899+00:00
+-- url     : https://prove2.me/submissions/16770479-f54b-415c-8ab1-77998972abbc
+
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_ConditionIffDualEqFunctional
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_FourierCommutesHeckeScalar
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_LengthQuotientBoundGeneral
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_LemmaCTwistRamified
+import Definitions.Def_Formalism_GL3MeanSquares_PrimeOrderRamificationResults
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_cauchy_schwarz_bound
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_column_decomposition
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_coprime_case_decomposition
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_exponent_bounds
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_imprimitive_case_count
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_lemma_c_twist_ramified
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_lemma_c_under_twist
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_logarithmic_bound
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_prime_order_element
+import Theorems.Thm_Formalism_HermitianLattices_RamifiedHeckeModels_ramified_decomposition
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLattices Formalism.HermitianLattices.Final
+namespace Formalism.HermitianLattices.Final
+theorem _root_.solution :
+    Formalism.HermitianLattices.RamifiedHeckeModels.RationalMatrixPrimeOrderBound ∧
+    Formalism.HermitianLattices.RamifiedHeckeModels.LogRatioAtMostOne ∧
+    Formalism.HermitianLattices.RamifiedHeckeModels.LemmaC_twist ∧
+    Formalism.HermitianLattices.RamifiedHeckeModels.LemmaC_twist_ram ∧
+    Formalism.HermitianLattices.RamifiedHeckeModels.TableauExponentRange ∧
+    Formalism.HermitianLattices.RamifiedHeckeModels.ConjRatioPowUnitModulus ∧
+    Formalism.HermitianLattices.RamifiedHeckeModels.HeckeKernelPreservesRamified ∧
+    Formalism.HermitianLattices.RamifiedHeckeModels.LatticeColumnOperatorBound ∧
+    Formalism.HermitianLattices.RamifiedHeckeModels.CauchySchwarzUnitModulus ∧
+    Formalism.HermitianLattices.RamifiedHeckeModels.ImprimitiveOrbitCondition :=
+  ⟨Formalism.HermitianLattices.RamifiedHeckeModels.prime_order_element,
+   Formalism.HermitianLattices.RamifiedHeckeModels.logarithmic_bound,
+   Formalism.HermitianLattices.RamifiedHeckeModels.lemma_c_under_twist,
+   Formalism.HermitianLattices.RamifiedHeckeModels.lemma_c_twist_ramified,
+   Formalism.HermitianLattices.RamifiedHeckeModels.exponent_bounds,
+   Formalism.HermitianLattices.RamifiedHeckeModels.coprime_case_decomposition,
+   Formalism.HermitianLattices.RamifiedHeckeModels.ramified_decomposition,
+   Formalism.HermitianLattices.RamifiedHeckeModels.column_decomposition,
+   Formalism.HermitianLattices.RamifiedHeckeModels.cauchy_schwarz_bound,
+   Formalism.HermitianLattices.RamifiedHeckeModels.imprimitive_case_count⟩
+end Formalism.HermitianLattices.Final

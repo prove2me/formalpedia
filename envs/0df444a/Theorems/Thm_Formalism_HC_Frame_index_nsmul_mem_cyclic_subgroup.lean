@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_index_nsmul_mem_cyclic_subgroup
 -- name    : Formalism.HC.Frame.index_nsmul_mem_cyclic_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:20.363656+00:00
 -- url     : https://prove2.me/theorems/7f908460-ea77-519b-8357-9f21c51b05c6

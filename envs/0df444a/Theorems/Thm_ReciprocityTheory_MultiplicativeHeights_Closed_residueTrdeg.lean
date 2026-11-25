@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_residueTrdeg
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.residueTrdeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:20:12.286651+00:00
 -- url     : https://prove2.me/theorems/692bb39a-5213-4dce-ba64-053861016052

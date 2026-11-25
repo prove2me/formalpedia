@@ -1,0 +1,60 @@
+-- Prove2me | solution 1 for Formalism.HermitianLattices.Final.cumulant_and_partition_function_estimates
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T17:03:07.224734+00:00
+-- url     : https://prove2.me/submissions/ee79ed36-ff0f-4560-934c-85947c187577
+
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_TeichmullerUnitAllPrimes
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_HadamardUnitDiagonalDetLeOne
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_HilbertSchmidtHalfBound
+import Definitions.Def_Formalism_GL3MeanSquares_FinalB
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_cumulant_upper_bound
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_exponent_alpha_bound
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_hecke_character_sums
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_height_parameter_bound
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_hilbert_schmidt_half_bound
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_hyperbolic_sine_bound
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_lattice_rank_cardinality
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_partition_function_bound
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_quadratic_form_lower_bound
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_quadratic_form_upper_bound
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_tail_along_ray_bound
+import Theorems.Thm_Formalism_HermitianLattices_CumulantEstimateDefs_volume_eq_siegel_mass
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLattices Formalism.HermitianLattices.Final
+namespace Formalism.HermitianLattices.Final
+theorem _root_.solution :
+    Formalism.HermitianLattices.CumulantEstimateDefs.SW_hecke_charsums ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.VolumeDependsOnSumOfRecurrence ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.QuadraticFormLowerBound ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.QuadraticFormUpperBound ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.CumulantUpperBound ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.SinhBounds ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.EigenvalueSumBound ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.DecayExponentLowerBound ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.TailAlongRay ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.PartitionFunctionBound ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.HilbertSchmidtHalfBound ∧
+    Formalism.HermitianLattices.CumulantEstimateDefs.UnipotentRadicalCard :=
+  ⟨Formalism.HermitianLattices.CumulantEstimateDefs.hecke_character_sums,
+   Formalism.HermitianLattices.CumulantEstimateDefs.volume_eq_siegel_mass,
+   Formalism.HermitianLattices.CumulantEstimateDefs.quadratic_form_lower_bound,
+   Formalism.HermitianLattices.CumulantEstimateDefs.quadratic_form_upper_bound,
+   Formalism.HermitianLattices.CumulantEstimateDefs.cumulant_upper_bound,
+   Formalism.HermitianLattices.CumulantEstimateDefs.hyperbolic_sine_bound,
+   Formalism.HermitianLattices.CumulantEstimateDefs.height_parameter_bound,
+   Formalism.HermitianLattices.CumulantEstimateDefs.exponent_alpha_bound,
+   Formalism.HermitianLattices.CumulantEstimateDefs.tail_along_ray_bound,
+   Formalism.HermitianLattices.CumulantEstimateDefs.partition_function_bound,
+   Formalism.HermitianLattices.CumulantEstimateDefs.hilbert_schmidt_half_bound,
+   Formalism.HermitianLattices.CumulantEstimateDefs.lattice_rank_cardinality⟩
+end Formalism.HermitianLattices.Final

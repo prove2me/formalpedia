@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetricLevelChain_supportAt_of_pattern
 -- name    : GlobalTheory.T.symmetricLevelChain_supportAt_of_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:40:25.235489+00:00
 -- url     : https://prove2.me/theorems/7b6cfd1a-db41-5071-90de-4624c16653f1

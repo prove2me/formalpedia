@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_isLocalHom_of_intEmb_eq_discEval
 -- name    : GlobalTheory.DiscEval.isLocalHom_of_intEmb_eq_discEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:58:01.266797+00:00
 -- url     : https://prove2.me/theorems/261bd91d-4bb1-478c-a250-0a5b297c5be1

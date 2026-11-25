@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_isGenSec_move
 -- name    : GlobalTheory.ThetaPtMove.isGenSec_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:34:02.702518+00:00
 -- url     : https://prove2.me/theorems/24ced96c-4123-555f-848c-58ba4a85f426

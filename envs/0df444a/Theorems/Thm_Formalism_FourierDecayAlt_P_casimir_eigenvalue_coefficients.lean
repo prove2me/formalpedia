@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_casimir_eigenvalue_coefficients
 -- name    : Formalism.FourierDecayAlt.P.casimir_eigenvalue_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:32:21.764505+00:00
 -- url     : https://prove2.me/theorems/9798eb13-f792-4bfb-a9e0-fe8636bed5b6

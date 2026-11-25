@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_AinfInv_theta_liftFracWitt
 -- name    : Reformulated.AutPerF.AinfInv.theta_liftFracWitt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:10:12.241886+00:00
 -- url     : https://prove2.me/theorems/38fbc17b-d206-44ac-8a72-19213a274bcc

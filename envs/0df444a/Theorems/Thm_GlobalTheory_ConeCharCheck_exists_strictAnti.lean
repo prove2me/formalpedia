@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConeCharCheck_exists_strictAnti
 -- name    : GlobalTheory.ConeCharCheck.exists_strictAnti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:39.741081+00:00
 -- url     : https://prove2.me/theorems/67a60034-0a0f-4899-8c7e-df639702d194

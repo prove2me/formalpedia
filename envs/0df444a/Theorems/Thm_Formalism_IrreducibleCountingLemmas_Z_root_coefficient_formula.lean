@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_root_coefficient_formula
 -- name    : Formalism.IrreducibleCountingLemmas.Z.root_coefficient_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:04.280622+00:00
 -- url     : https://prove2.me/theorems/b5e5ea52-0910-4eaa-a542-53b3538685ef

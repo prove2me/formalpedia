@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_digitDoubleCount
 -- name    : Formalism.CountingSumsFrames.Top.digitDoubleCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:23:19.131823+00:00
 -- url     : https://prove2.me/theorems/4cfbcf3d-7356-4d6c-a751-f916e424ded6

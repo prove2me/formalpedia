@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_thetaLaw_generators
 -- name    : GlobalTheory.KeyPow.thetaLaw_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:49:50.509004+00:00
 -- url     : https://prove2.me/theorems/1b64ff5c-6dab-436f-b2a8-8313153021c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPowerFormula_commutator_pow_of_commutator_eq_smul
 -- name    : GlobalTheory.CommutatorPowerFormula.commutator_pow_of_commutator_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:48.231056+00:00
 -- url     : https://prove2.me/theorems/3350434a-7666-51c0-b229-2ffce9f25627

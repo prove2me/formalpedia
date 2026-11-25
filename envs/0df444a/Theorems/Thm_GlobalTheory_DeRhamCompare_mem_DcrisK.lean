@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeRhamCompare_mem_DcrisK
 -- name    : GlobalTheory.DeRhamCompare.mem_DcrisK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:03:58.873652+00:00
 -- url     : https://prove2.me/theorems/fb2b43aa-347d-5f55-b47f-fdb4123aeec8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mvPolynomial_eq_zero_of_vanish_skewHermitian
 -- name    : GlobalTheory.T.mvPolynomial_eq_zero_of_vanish_skewHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:59.64805+00:00
 -- url     : https://prove2.me/theorems/08a110ad-f08c-554c-8f9c-840049519a8d

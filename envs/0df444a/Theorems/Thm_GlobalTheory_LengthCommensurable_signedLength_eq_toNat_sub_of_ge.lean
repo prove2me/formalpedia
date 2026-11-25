@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_signedLength_eq_toNat_sub_of_ge
 -- name    : GlobalTheory.LengthCommensurable.signedLength_eq_toNat_sub_of_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:15.484739+00:00
 -- url     : https://prove2.me/theorems/e0bbee4a-d28c-4960-926b-a0f2679181ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Cot_cotSt
 -- name    : GlobalTheory.CompanionTheory.Cot.cotSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:08:40.358772+00:00
 -- url     : https://prove2.me/theorems/2269c415-cf41-4844-af4e-27158d20599f

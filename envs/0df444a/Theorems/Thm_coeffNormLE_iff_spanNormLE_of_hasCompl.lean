@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_coeffNormLE_iff_spanNormLE_of_hasCompl
 -- name    : coeffNormLE_iff_spanNormLE_of_hasCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:14:14.930433+00:00
 -- url     : https://prove2.me/theorems/a47d5361-5563-57ae-9d3f-6794b0f42b6c

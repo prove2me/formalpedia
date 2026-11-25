@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_monomial_factorization_bound
 -- name    : Formalism.FourierDecayAlt.P.monomial_factorization_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:35:51.488519+00:00
 -- url     : https://prove2.me/theorems/6a93cabd-dbeb-5a9f-a021-bff253c24c39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_fromTest_iff_of_valAtCx
 -- name    : GlobalTheory.SupLawProbe.fromTest_iff_of_valAtCx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:25:58.120549+00:00
 -- url     : https://prove2.me/theorems/e1a6893e-8fde-4627-a106-f1dd7592ad4d

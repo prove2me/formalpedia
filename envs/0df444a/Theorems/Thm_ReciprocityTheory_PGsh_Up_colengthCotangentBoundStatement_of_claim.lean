@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_colengthCotangentBoundStatement_of_claim
 -- name    : ReciprocityTheory.PGsh.Up.colengthCotangentBoundStatement_of_claim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:08:27.25288+00:00
 -- url     : https://prove2.me/theorems/c9d0aa9e-0175-46c5-add5-fa600ed132d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_field_stableRange_one_det_ne_zero
 -- name    : GlobalTheory.T.matrix_field_stableRange_one_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:15.081937+00:00
 -- url     : https://prove2.me/theorems/d4fdedcc-31a5-496a-9618-580fb10e150e

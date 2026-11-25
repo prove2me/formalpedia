@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_stabiliser_finite_cosets_mod
 -- name    : GlobalTheory.RootEx.UnfoldShape.stabiliser_finite_cosets_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:46.078318+00:00
 -- url     : https://prove2.me/theorems/b0d4363d-8e3d-5742-8403-106e0fb628ca

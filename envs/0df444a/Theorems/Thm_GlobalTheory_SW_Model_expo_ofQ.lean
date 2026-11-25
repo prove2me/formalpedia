@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_expo_ofQ
 -- name    : GlobalTheory.SW.Model.expo_ofQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:15.452163+00:00
 -- url     : https://prove2.me/theorems/73744031-a58e-593e-b23c-64ed1396e066

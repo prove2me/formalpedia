@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LieCharpolyRootPairs_DetCond_swap
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LieCharpolyRootPairs.DetCond.swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:22.755804+00:00
 -- url     : https://prove2.me/theorems/d06fa90d-c656-4ae0-a3d5-704f69340a88

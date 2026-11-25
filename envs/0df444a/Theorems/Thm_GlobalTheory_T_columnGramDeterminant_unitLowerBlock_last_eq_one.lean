@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_columnGramDeterminant_unitLowerBlock_last_eq_one
 -- name    : GlobalTheory.T.columnGramDeterminant_unitLowerBlock_last_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:27:42.581438+00:00
 -- url     : https://prove2.me/theorems/97f15df2-5eb8-5523-ad24-793b6f0cf961

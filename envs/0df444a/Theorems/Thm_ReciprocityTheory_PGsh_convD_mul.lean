@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_convD_mul
 -- name    : ReciprocityTheory.PGsh.convD_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:14.387342+00:00
 -- url     : https://prove2.me/theorems/283cbca0-0e0e-55c8-a326-d3bfd0f4e0fd

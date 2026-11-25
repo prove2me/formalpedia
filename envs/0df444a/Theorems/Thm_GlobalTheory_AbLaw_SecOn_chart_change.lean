@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_chart_change
 -- name    : GlobalTheory.AbLaw.SecOn.chart_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:35:50.764037+00:00
 -- url     : https://prove2.me/theorems/9b56acfa-e7e0-4fe1-a248-0cf8c0490d07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_level_sizes_joint
 -- name    : Formalism.FourierDecayAlt.P.level_sizes_joint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:33:13.802363+00:00
 -- url     : https://prove2.me/theorems/37db14a2-3100-4448-9cef-df78ef212204

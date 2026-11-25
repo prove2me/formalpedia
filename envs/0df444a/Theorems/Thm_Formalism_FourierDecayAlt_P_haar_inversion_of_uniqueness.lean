@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_haar_inversion_of_uniqueness
 -- name    : Formalism.FourierDecayAlt.P.haar_inversion_of_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:30:40.426462+00:00
 -- url     : https://prove2.me/theorems/478f9dfb-4a59-5d46-bef5-79610d2cdb51

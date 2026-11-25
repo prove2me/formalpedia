@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_rhF_sharp_gradient
 -- name    : GlobalTheory.SharpGradient.rhF_sharp_gradient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:23:05.94242+00:00
 -- url     : https://prove2.me/theorems/5224ab5a-10b3-5e17-adf5-a188d847b712

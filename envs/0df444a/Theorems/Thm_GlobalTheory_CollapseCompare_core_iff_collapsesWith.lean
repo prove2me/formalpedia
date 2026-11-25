@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CollapseCompare_core_iff_collapsesWith
 -- name    : GlobalTheory.CollapseCompare.core_iff_collapsesWith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:22.621713+00:00
 -- url     : https://prove2.me/theorems/e0bc694f-cc1c-4efb-bbf8-aa1733223eea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_algDisc_dense
 -- name    : GlobalTheory.DiscEval.algDisc_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:57:53.456903+00:00
 -- url     : https://prove2.me/theorems/9339efe7-9590-4c36-8263-4ec8b3acd1ad

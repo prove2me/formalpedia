@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_exists_div_sq
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.exists_div_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:34.99753+00:00
 -- url     : https://prove2.me/theorems/c5825905-7897-430a-9319-40f2546bf1a6

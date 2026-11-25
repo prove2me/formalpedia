@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_compatible_symplectic_alt
 -- name    : GlobalTheory.T.exists_compatible_symplectic_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:56.857944+00:00
 -- url     : https://prove2.me/theorems/8b3aff76-d52c-4bd2-a9ef-768b8d865d85

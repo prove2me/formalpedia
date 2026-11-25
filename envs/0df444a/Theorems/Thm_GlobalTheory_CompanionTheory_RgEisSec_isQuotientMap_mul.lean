@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisSec_isQuotientMap_mul
 -- name    : GlobalTheory.CompanionTheory.RgEisSec.isQuotientMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:59:39.580951+00:00
 -- url     : https://prove2.me/theorems/46e3d3a2-2934-4869-9795-d0c97e35ea6b

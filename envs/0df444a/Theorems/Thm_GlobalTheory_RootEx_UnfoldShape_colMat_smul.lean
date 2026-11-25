@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_colMat_smul
 -- name    : GlobalTheory.RootEx.UnfoldShape.colMat_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:21:29.248064+00:00
 -- url     : https://prove2.me/theorems/61d178b8-b741-5ff6-bc08-893918fc15cc

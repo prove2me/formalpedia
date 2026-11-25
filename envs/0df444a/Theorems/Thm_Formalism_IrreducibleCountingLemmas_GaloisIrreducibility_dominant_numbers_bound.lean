@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_dominant_numbers_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.dominant_numbers_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:43:21.046424+00:00
 -- url     : https://prove2.me/theorems/8ab30ee1-0565-5003-a630-472408f6549d

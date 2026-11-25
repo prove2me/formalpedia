@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Final_zero_free_region_gl2_prime_choice_results
 -- name    : Formalism.HermitianLattices.Final.zero_free_region_gl2_prime_choice_results
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:35.7622+00:00
 -- url     : https://prove2.me/theorems/3bbec8f3-c2bc-4853-874e-c3f78b0369a3

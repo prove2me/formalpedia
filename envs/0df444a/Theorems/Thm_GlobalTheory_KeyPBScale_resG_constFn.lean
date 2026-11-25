@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPBScale_resG_constFn
 -- name    : GlobalTheory.KeyPBScale.resG_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:05:15.755648+00:00
 -- url     : https://prove2.me/theorems/08c6da63-8adc-4a4f-93c9-68db83e52fa5

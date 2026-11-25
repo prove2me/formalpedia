@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_conjugate_self_reciprocal_charpoly
 -- name    : GlobalTheory.T.conjugate_self_reciprocal_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:28:19.014484+00:00
 -- url     : https://prove2.me/theorems/6adb8793-74ae-4833-8414-f3ef7194df57

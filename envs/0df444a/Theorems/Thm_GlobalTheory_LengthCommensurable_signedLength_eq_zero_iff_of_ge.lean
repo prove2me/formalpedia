@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_signedLength_eq_zero_iff_of_ge
 -- name    : GlobalTheory.LengthCommensurable.signedLength_eq_zero_iff_of_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:15.573544+00:00
 -- url     : https://prove2.me/theorems/10f943b9-6a9d-4eb6-80dd-cb52a8b8c987

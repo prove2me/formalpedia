@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_Hom_onPol_mem_Z
 -- name    : GlobalTheory.BK.Descent.Hom.onPol_mem_Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:03:14.717798+00:00
 -- url     : https://prove2.me/theorems/eb32e9cc-91c8-55ec-8d0e-905e654a2d24

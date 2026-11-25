@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_support_centerOffDetached_subset_preimage
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.support_centerOffDetached_subset_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:19.739314+00:00
 -- url     : https://prove2.me/theorems/3eeae7b3-ef74-566a-9280-20b774216ec0

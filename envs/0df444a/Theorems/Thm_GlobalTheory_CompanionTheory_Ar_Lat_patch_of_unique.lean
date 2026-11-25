@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_patch_of_unique
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.patch_of_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:59:00.251923+00:00
 -- url     : https://prove2.me/theorems/04c5ab30-c4d7-554c-899c-d51195901690

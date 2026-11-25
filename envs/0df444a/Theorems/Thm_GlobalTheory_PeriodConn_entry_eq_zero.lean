@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodConn_entry_eq_zero
 -- name    : GlobalTheory.PeriodConn.entry_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:15:54.300958+00:00
 -- url     : https://prove2.me/theorems/23275d18-fb20-4879-876c-a9276c0e70b5

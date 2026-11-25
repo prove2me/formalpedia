@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_map_liftWitt
 -- name    : Reformulated.AutPerF.Ainf.map_liftWitt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:22:32.304799+00:00
 -- url     : https://prove2.me/theorems/001c3e45-c1c7-4cd4-86bd-12aaa0e63682

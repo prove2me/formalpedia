@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SymmetricPatternGroup_mem_symGrp_iff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SymmetricPatternGroup.mem_symGrp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:09:42.365672+00:00
 -- url     : https://prove2.me/theorems/4422e3fc-e245-5780-a129-851b74df9c3b

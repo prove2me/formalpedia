@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r23b_pow_mul_exp_le_half_exp
 -- name    : UpperTheory.Reformulated.B.P6.r23b.pow_mul_exp_le_half_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:38.767066+00:00
 -- url     : https://prove2.me/theorems/5bc2ac7c-c2b0-4427-849c-1e59fba8c6cc

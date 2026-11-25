@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_datum_block_eigenvalues
 -- name    : datum_block_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:17:37.829425+00:00
 -- url     : https://prove2.me/theorems/9d7b0ea1-d3cf-5fda-b17a-adbc8dd29a41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fixedLattice_inf_eq_and_pairing_of_isometry
 -- name    : GlobalTheory.T.fixedLattice_inf_eq_and_pairing_of_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:33:42.077206+00:00
 -- url     : https://prove2.me/theorems/8e08e99b-35a9-4002-ad63-4fb20668c18b

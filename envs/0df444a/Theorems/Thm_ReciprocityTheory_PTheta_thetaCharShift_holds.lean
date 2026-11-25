@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_thetaCharShift_holds
 -- name    : ReciprocityTheory.PTheta.thetaCharShift_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:00.121462+00:00
 -- url     : https://prove2.me/theorems/5bd0513b-0b8a-4053-a8b6-fb6f731c884e

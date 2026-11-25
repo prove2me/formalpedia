@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_IsBlowupAlongIdealSheaf_hom_ext_of_isBlowupAlongIdealSheaf
 -- name    : FunctorialResolution.Blowup.IsBlowupAlongIdealSheaf.hom_ext_of_isBlowupAlongIdealSheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:16.643795+00:00
 -- url     : https://prove2.me/theorems/2719f5ee-6627-5b57-8ed9-1ad87f28cdb4

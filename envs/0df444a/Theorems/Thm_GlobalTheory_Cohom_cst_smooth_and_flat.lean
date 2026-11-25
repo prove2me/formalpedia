@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cohom_cst_smooth_and_flat
 -- name    : GlobalTheory.Cohom.cst_smooth_and_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:58:53.314028+00:00
 -- url     : https://prove2.me/theorems/65483528-fad4-4edc-a94c-033786251fed

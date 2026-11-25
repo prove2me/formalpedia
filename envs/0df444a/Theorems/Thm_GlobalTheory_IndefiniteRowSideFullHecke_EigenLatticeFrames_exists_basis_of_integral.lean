@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_EigenLatticeFrames_exists_basis_of_integral
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.EigenLatticeFrames.exists_basis_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:46.046027+00:00
 -- url     : https://prove2.me/theorems/eaf1e2b5-cd7a-408c-9aec-37442c6b201b

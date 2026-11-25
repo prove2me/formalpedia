@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GeneratorValues_ord_vp_p
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GeneratorValues.ord_vp_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:11:17.968028+00:00
 -- url     : https://prove2.me/theorems/72768b89-a9b7-5191-be49-d0f977b7534b

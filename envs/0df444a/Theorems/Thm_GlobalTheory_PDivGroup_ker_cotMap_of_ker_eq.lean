@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_ker_cotMap_of_ker_eq
 -- name    : GlobalTheory.PDivGroup.ker_cotMap_of_ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:45.046531+00:00
 -- url     : https://prove2.me/theorems/40d55bd9-0173-4e3a-9e0f-ff34fd24186a

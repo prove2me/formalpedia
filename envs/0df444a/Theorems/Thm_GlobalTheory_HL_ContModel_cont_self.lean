@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_cont_self
 -- name    : GlobalTheory.HL.ContModel.cont_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:03.672007+00:00
 -- url     : https://prove2.me/theorems/7a4c68d2-e788-4068-96b9-fe0c3a2892bb

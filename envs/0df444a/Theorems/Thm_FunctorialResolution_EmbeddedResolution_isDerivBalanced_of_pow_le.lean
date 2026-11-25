@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isDerivBalanced_of_pow_le
 -- name    : FunctorialResolution.EmbeddedResolution.isDerivBalanced_of_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:53:25.07675+00:00
 -- url     : https://prove2.me/theorems/753011aa-7f8e-570e-9a47-b5ffafa8d3ab

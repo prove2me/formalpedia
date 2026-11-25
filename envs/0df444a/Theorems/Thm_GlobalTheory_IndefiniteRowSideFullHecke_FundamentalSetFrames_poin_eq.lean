@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FundamentalSetFrames_poin_eq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FundamentalSetFrames.poin_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:43.304885+00:00
 -- url     : https://prove2.me/theorems/bd8d8441-d90d-4677-bc11-a130f3da4b1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_operator_words_bound
 -- name    : operator_words_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:06.835953+00:00
 -- url     : https://prove2.me/theorems/a19fa32e-c74e-4330-b88a-4d96c25ddeb4

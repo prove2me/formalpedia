@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetInv_iotaScalar_one
 -- name    : GlobalTheory.DetInv.iotaScalar_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:13.221089+00:00
 -- url     : https://prove2.me/theorems/e13fb076-9b73-4320-99eb-d01c5726ae90

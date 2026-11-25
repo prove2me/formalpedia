@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_adic_coordinates_of_basis_mod_p
 -- name    : GlobalTheory.T.exists_adic_coordinates_of_basis_mod_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:28:14.934551+00:00
 -- url     : https://prove2.me/theorems/3f4cb07f-9e0f-527b-8a7f-9c84b12b558c

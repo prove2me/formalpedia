@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_twKer_one_eq
 -- name    : GlobalTheory.LGrp.twKer_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:27.544532+00:00
 -- url     : https://prove2.me/theorems/6bb958c3-d094-4964-a083-eee8de3928a9

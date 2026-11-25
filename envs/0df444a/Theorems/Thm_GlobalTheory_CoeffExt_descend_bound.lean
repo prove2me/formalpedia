@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_descend_bound
 -- name    : GlobalTheory.CoeffExt.descend_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:48.373329+00:00
 -- url     : https://prove2.me/theorems/1fa0e1d9-3dbd-40e0-b6c3-86ebe90be57b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_lag_nontrivial
 -- name    : GlobalTheory.SW.Model.lag_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:21.012616+00:00
 -- url     : https://prove2.me/theorems/c9a26c33-60d0-5ea0-b081-90a26d48a586

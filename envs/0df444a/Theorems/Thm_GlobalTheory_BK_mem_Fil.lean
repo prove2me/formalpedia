@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_mem_Fil
 -- name    : GlobalTheory.BK.mem_Fil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:57:06.40529+00:00
 -- url     : https://prove2.me/theorems/b6fcd716-7608-55e4-8656-09c10af343af

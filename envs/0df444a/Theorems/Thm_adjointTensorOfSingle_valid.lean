@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_adjointTensorOfSingle_valid
 -- name    : adjointTensorOfSingle_valid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:14:19.480931+00:00
 -- url     : https://prove2.me/theorems/73ea19d6-a303-4364-aac4-79299c30695a

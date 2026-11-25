@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A0_eps_eq
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.eps_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:57:45.8139+00:00
 -- url     : https://prove2.me/theorems/75e8d5f4-d587-4c02-95f9-3693f9062090

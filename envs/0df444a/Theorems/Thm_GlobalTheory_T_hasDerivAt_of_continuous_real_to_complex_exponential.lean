@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasDerivAt_of_continuous_real_to_complex_exponential
 -- name    : GlobalTheory.T.hasDerivAt_of_continuous_real_to_complex_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:33:00.420652+00:00
 -- url     : https://prove2.me/theorems/19830ed3-1ca0-4c57-adf3-ff15f02da95d

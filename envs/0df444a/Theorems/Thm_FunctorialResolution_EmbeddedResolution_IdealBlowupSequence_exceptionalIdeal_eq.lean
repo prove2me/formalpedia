@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IdealBlowupSequence_exceptionalIdeal_eq
 -- name    : FunctorialResolution.EmbeddedResolution.IdealBlowupSequence.exceptionalIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:54.337806+00:00
 -- url     : https://prove2.me/theorems/52b3fa4d-8728-4f60-b8ae-6dd7bb328d5f

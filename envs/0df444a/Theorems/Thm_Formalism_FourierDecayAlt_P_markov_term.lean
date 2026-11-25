@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_markov_term
 -- name    : Formalism.FourierDecayAlt.P.markov_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:08.015946+00:00
 -- url     : https://prove2.me/theorems/1d0134e1-b92d-4baa-9f97-8a2cf7369dd7

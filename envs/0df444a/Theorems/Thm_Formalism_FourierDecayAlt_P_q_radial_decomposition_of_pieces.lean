@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_q_radial_decomposition_of_pieces
 -- name    : Formalism.FourierDecayAlt.P.q_radial_decomposition_of_pieces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:44:12.258279+00:00
 -- url     : https://prove2.me/theorems/2e5f7131-18af-4957-9487-03631bd3bbc2

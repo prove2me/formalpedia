@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModelRelProbe_transition_over
 -- name    : GlobalTheory.ModelRelProbe.transition_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:29.485544+00:00
 -- url     : https://prove2.me/theorems/3374df4e-8216-4ef7-a719-0fe536bdfa10

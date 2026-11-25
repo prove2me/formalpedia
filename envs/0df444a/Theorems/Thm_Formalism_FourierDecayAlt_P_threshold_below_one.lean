@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_threshold_below_one
 -- name    : Formalism.FourierDecayAlt.P.threshold_below_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:09.158349+00:00
 -- url     : https://prove2.me/theorems/5efd0347-4787-42c4-984c-e9ad52e84c2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_waveCExists
 -- name    : Formalism.FourierDecayAlt.P5.waveCExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:40:39.199606+00:00
 -- url     : https://prove2.me/theorems/04dbf87f-8a63-5101-bc23-f5fd3dba1056

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_det_ofReal_le_factorial_mul_pow
 -- name    : GlobalTheory.T.norm_det_ofReal_le_factorial_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:41.387945+00:00
 -- url     : https://prove2.me/theorems/8493b6c2-67d7-4031-ab8f-5d2dc3cce688

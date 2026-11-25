@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_weilQkIs_pt
 -- name    : GlobalTheory.ToricData.weilQkIs_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:37:19.259481+00:00
 -- url     : https://prove2.me/theorems/2efd0eb1-3c76-5883-9947-1aff4f97ca4a

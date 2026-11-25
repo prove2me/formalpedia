@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_lbIso_pull
 -- name    : GlobalTheory.EffCartierData.lbIso_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:10:53.908002+00:00
 -- url     : https://prove2.me/theorems/c1ea5fa3-0e22-4fe7-b0c7-9abaa06ce201

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_equivFamilies_val
 -- name    : GlobalTheory.AbLaw.SecOn.equivFamilies_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:38:58.908362+00:00
 -- url     : https://prove2.me/theorems/ced4baf1-39ac-4df8-b694-5d95acb52a01

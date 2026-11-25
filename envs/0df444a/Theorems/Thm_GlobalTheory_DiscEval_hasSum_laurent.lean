@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_hasSum_laurent
 -- name    : GlobalTheory.DiscEval.hasSum_laurent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:57:33.455996+00:00
 -- url     : https://prove2.me/theorems/dedbb462-4629-566b-b96d-1cce7b407c50

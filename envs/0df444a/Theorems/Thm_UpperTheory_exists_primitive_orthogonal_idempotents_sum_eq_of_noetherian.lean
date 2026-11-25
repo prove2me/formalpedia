@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_exists_primitive_orthogonal_idempotents_sum_eq_of_noetherian
 -- name    : UpperTheory.exists_primitive_orthogonal_idempotents_sum_eq_of_noetherian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:13:24.314851+00:00
 -- url     : https://prove2.me/theorems/faa3c27c-8498-4165-9550-861c98c3ff1b

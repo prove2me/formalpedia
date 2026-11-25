@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_ordGe_aeval_monomial
 -- name    : Formalism.L2.Pj.Crude.ordGe_aeval_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:47:19.817011+00:00
 -- url     : https://prove2.me/theorems/01dc2b9c-394a-4ad4-b89e-42a99b7a9c3e

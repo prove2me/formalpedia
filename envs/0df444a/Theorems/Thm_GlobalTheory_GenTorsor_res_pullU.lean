@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenTorsor_res_pullU
 -- name    : GlobalTheory.GenTorsor.res_pullU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:28.049732+00:00
 -- url     : https://prove2.me/theorems/384932d9-1fe2-5bc1-9d62-65809116de46

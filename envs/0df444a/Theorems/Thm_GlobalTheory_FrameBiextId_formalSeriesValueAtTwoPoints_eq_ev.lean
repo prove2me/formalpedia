@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBiextId_formalSeriesValueAtTwoPoints_eq_ev
 -- name    : GlobalTheory.FrameBiextId.formalSeriesValueAtTwoPoints_eq_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:38.393859+00:00
 -- url     : https://prove2.me/theorems/e431555b-9d5a-4968-ab21-93bd477fa43b

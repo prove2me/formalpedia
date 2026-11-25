@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaPtMove_psi_tr__fb963db54922
 -- name    : P2M_GlobalTheory_ThetaPtMove_psi_tr__fb963db54922
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:37:26.736282+00:00
 -- url     : https://prove2.me/theorems/1ab7b646-c01f-544d-a95f-ddfdcd46877d

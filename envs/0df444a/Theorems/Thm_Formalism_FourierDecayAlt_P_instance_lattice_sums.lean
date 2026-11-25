@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_instance_lattice_sums
 -- name    : Formalism.FourierDecayAlt.P.instance_lattice_sums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:32:41.179632+00:00
 -- url     : https://prove2.me/theorems/f9395158-197c-4bda-a642-f70c2b6216e2

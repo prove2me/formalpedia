@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_inv_continuous_joint
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.inv_continuous_joint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:16:04.232649+00:00
 -- url     : https://prove2.me/theorems/eb0015c0-c853-4969-bd7c-76e610365f8f

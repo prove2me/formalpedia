@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDescent_exactAt_of_pull
 -- name    : GlobalTheory.TraceDescent.exactAt_of_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:48:48.838935+00:00
 -- url     : https://prove2.me/theorems/1dee6d6b-562a-4b1b-a0d7-afb94b80b776

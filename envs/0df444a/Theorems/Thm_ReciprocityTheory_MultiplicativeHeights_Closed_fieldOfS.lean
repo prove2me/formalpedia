@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_fieldOfS
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.fieldOfS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:28.642783+00:00
 -- url     : https://prove2.me/theorems/fd02ea05-95c3-4e74-b6dc-1d37a2dadb4e

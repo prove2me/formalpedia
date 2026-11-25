@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_schur_closable
 -- name    : schur_closable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:17:05.424184+00:00
 -- url     : https://prove2.me/theorems/e684e528-6cea-4eda-88cf-86b9f583775a

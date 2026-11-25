@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Rand_expect_sum_ite
 -- name    : Formalism.BehrendSets.Rand.expect_sum_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:19:48.458119+00:00
 -- url     : https://prove2.me/theorems/0e8f9df8-b801-52ca-a3d9-bbb9560f7ac6

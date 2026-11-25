@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isFlatOver_structureModule_iff_flat
 -- name    : GlobalTheory.QCoh.isFlatOver_structureModule_iff_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:18:50.526212+00:00
 -- url     : https://prove2.me/theorems/0512a5b1-c906-5f88-9b3a-5499ee569940

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Arith_FormsL_Mj_le_Mall
 -- name    : Formalism.IndefR.Arith.FormsL.Mj_le_Mall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:55.781509+00:00
 -- url     : https://prove2.me/theorems/67dccd5e-98b4-4da2-a175-a51fb70a7dc5

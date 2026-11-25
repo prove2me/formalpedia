@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_lenOl_ext
 -- name    : GlobalTheory.CoeffExt.lenOl_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:01.350805+00:00
 -- url     : https://prove2.me/theorems/71d03085-7ec2-43d6-86ec-6b8319c8053f

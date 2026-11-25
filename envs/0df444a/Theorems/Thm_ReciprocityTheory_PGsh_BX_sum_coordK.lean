@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_sum_coordK
 -- name    : ReciprocityTheory.PGsh.BX.sum_coordK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:05:46.439684+00:00
 -- url     : https://prove2.me/theorems/88ffed42-d58e-5380-976f-3b5bb993d340

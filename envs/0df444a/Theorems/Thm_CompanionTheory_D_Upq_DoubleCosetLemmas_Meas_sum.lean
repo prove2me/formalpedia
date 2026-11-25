@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_DoubleCosetLemmas_Meas_sum
 -- name    : CompanionTheory.D.Upq.DoubleCosetLemmas.Meas.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:16:19.307896+00:00
 -- url     : https://prove2.me/theorems/6ae10096-9ab7-43ea-a969-8786db18e389

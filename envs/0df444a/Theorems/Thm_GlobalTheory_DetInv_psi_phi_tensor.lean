@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetInv_psi_phi_tensor
 -- name    : GlobalTheory.DetInv.psi_phi_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:35.986583+00:00
 -- url     : https://prove2.me/theorems/35ad8cb8-86a2-5be7-8d82-10323f10eb21

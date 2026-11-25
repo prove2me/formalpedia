@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Hom_onPol_Mon
 -- name    : GlobalTheory.BK.Hom.onPol_Mon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:56:17.079031+00:00
 -- url     : https://prove2.me/theorems/58f8ecb7-8f18-44c4-b1d9-bfb9a13812b9

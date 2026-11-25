@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_topRadius
 -- name    : Formalism.IncomingBounds.topRadius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:42:01.085133+00:00
 -- url     : https://prove2.me/theorems/832548cd-027c-42a4-9eca-885cb1d0c501

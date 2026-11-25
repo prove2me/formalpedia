@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvFieldRing_constFn_spMap
 -- name    : GlobalTheory.InvFieldRing.constFn_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:11:58.043952+00:00
 -- url     : https://prove2.me/theorems/57e31414-c041-5cfe-a6e3-b08583f54573

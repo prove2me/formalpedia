@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_post_composition
 -- name    : Formalism.FourierDecayAlt.P.capelli_post_composition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:34:39.680801+00:00
 -- url     : https://prove2.me/theorems/986900b5-41c4-4106-8ab5-51eaa7fbffa8

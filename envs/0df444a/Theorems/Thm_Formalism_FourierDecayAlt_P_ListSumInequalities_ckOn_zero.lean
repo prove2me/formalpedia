@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumInequalities_ckOn_zero
 -- name    : Formalism.FourierDecayAlt.P.ListSumInequalities.ckOn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:12.166025+00:00
 -- url     : https://prove2.me/theorems/b8c62d02-2e15-414e-844f-2165087123cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_flatW__52449b1b4fd3
 -- name    : P2M_ReciprocityTheory_PGsh_flatW__52449b1b4fd3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:28.237069+00:00
 -- url     : https://prove2.me/theorems/abd30705-c46d-41ae-8b43-ba5f3106eca3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_derivF
 -- name    : PositivityTheory.Rg.Sw.WR.D.derivF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:04:56.241939+00:00
 -- url     : https://prove2.me/theorems/46367913-44b0-52cf-901e-e298c825a458

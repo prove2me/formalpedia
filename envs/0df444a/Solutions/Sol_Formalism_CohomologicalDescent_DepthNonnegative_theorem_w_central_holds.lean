@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.CohomologicalDescent.DepthNonnegative.theorem_w_central_holds
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T16:30:30.80813+00:00
+-- url     : https://prove2.me/submissions/baa13463-9794-423e-9284-9763829c9b9d
+
+import Definitions.Def_Formalism_PieriBlockIdeals_BlockIdealBound5Derived
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_ProdInitialMinorsMemDetSpan
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_UnitNormBounds
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_JointCorollaryFiveBound
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalC
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDbasisLemmas
+import Definitions.Def_Formalism_RankGapBounds_RankGapProofs_FormsTensorLocalization
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_RegularCuspidalTrace
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_DepthNonnegative
+import Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_subquotient_iso_holds
+import Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_simple_subquotient_of_power_holds
+import Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_theorem_w_central_of_simple_quotients
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open TensorProduct MvPolynomial
+open Formalism Formalism.CohomologicalDescent Formalism.CohomologicalDescent.DepthNonnegative
+open Formalism.UG Formalism.RankGapBounds.FormsTensorLocalization Formalism.GradedWeylDivisibility Formalism.CohomologicalDescent.LD Formalism.CohomologicalDescent.UnitNormBounds
+namespace Formalism.CohomologicalDescent.DepthNonnegative
+theorem _root_.solution : TheoremWCore := theorem_w_central_of_simple_quotients simple_subquotient_of_power_holds subquotient_iso_holds
+end Formalism.CohomologicalDescent.DepthNonnegative

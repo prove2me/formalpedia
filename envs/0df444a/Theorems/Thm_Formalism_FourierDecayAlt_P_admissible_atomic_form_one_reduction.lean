@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_admissible_atomic_form_one_reduction
 -- name    : Formalism.FourierDecayAlt.P.admissible_atomic_form_one_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:33:38.214029+00:00
 -- url     : https://prove2.me/theorems/de9c6a06-d378-4e4c-9dad-37dbadadf0d0

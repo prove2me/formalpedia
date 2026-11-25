@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LowSpanCombinations_isFlat_rank_one
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LowSpanCombinations.isFlat_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:09:11.884098+00:00
 -- url     : https://prove2.me/theorems/aba908b5-72be-4495-85e0-5fd8df69d147

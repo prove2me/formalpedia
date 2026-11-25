@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SphereMeanDrop_blockSphereMean_incl
 -- name    : GlobalTheory.SphereMeanDrop.blockSphereMean_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:24:32.884384+00:00
 -- url     : https://prove2.me/theorems/48c61c6d-01c4-518d-b2a8-f104024d81eb

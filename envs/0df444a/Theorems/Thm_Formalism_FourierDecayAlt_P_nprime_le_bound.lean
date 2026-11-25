@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_nprime_le_bound
 -- name    : Formalism.FourierDecayAlt.P.nprime_le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:45:44.582475+00:00
 -- url     : https://prove2.me/theorems/d45f1f86-9677-5cf5-a4e0-572a3cbe54b4

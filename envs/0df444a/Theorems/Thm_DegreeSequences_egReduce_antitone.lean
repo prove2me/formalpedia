@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_egReduce_antitone
 -- name    : DegreeSequences.egReduce_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:57:11.346302+00:00
 -- url     : https://prove2.me/theorems/361729ae-43b8-438d-93e0-c27b20880643

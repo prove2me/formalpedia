@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_IsZonal_one_and_biinv
 -- name    : GlobalTheory.LGrp.IsZonal.one_and_biinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:17:44.859543+00:00
 -- url     : https://prove2.me/theorems/e55d0283-ed60-5e11-aaa5-376fb1839902

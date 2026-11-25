@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpSeries_convex_and_differentiableOn_tsum_cexp
 -- name    : GlobalTheory.ExpSeries.convex_and_differentiableOn_tsum_cexp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:53.257723+00:00
 -- url     : https://prove2.me/theorems/c71cb399-f405-4760-a5f4-575d16e52d1d

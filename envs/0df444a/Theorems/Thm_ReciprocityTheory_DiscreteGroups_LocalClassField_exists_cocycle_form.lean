@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_cocycle_form
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_cocycle_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:05:19.99683+00:00
 -- url     : https://prove2.me/theorems/9e85369f-43a0-4e2b-932a-0dce5d9fedb3

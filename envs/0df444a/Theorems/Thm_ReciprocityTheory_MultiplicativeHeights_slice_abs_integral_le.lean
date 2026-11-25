@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_slice_abs_integral_le
 -- name    : ReciprocityTheory.MultiplicativeHeights.slice_abs_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:04:51.659418+00:00
 -- url     : https://prove2.me/theorems/250037f1-98c4-4e49-ab8a-8702f1b834ac

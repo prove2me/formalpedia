@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_dualGram_det
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.dualGram_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:59.789372+00:00
 -- url     : https://prove2.me/theorems/f2863566-a048-5b09-aba9-e99908390a4d

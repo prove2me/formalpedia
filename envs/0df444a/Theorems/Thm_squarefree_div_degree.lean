@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_squarefree_div_degree
 -- name    : squarefree_div_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:16:56.826227+00:00
 -- url     : https://prove2.me/theorems/46592166-5ba4-4ebe-9847-80429774081e

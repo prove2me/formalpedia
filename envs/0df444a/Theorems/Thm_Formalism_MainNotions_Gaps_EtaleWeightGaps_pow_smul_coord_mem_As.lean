@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_pow_smul_coord_mem_As
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.pow_smul_coord_mem_As
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:50:07.57263+00:00
 -- url     : https://prove2.me/theorems/45473075-c6a0-4609-b1cc-9e4bbf76b728

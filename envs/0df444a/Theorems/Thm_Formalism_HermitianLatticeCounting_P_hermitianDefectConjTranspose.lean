@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hermitianDefectConjTranspose
 -- name    : Formalism.HermitianLatticeCounting.P.hermitianDefectConjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:39:57.56836+00:00
 -- url     : https://prove2.me/theorems/f5c8c326-0c15-4bd3-9044-f9d048b63a51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagFlowCheck_scaled_maj_flow
 -- name    : GlobalTheory.FlagFlowCheck.scaled_maj_flow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:07.567904+00:00
 -- url     : https://prove2.me/theorems/29b0979f-38af-561a-8855-f2aa140ab152

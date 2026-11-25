@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCharCheck_exists_mem_unipBlock
 -- name    : GlobalTheory.CuspCharCheck.exists_mem_unipBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:41.770348+00:00
 -- url     : https://prove2.me/theorems/cc213c62-8525-4275-92a1-8962e48e8e22

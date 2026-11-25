@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolPeriods_isHolTo_point_and_exp
 -- name    : GlobalTheory.HolPeriods.isHolTo_point_and_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:50.395964+00:00
 -- url     : https://prove2.me/theorems/da26c731-eb4b-40ce-91ad-03955cb84e52

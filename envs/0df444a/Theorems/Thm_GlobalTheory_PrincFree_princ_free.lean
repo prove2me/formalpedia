@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrincFree_princ_free
 -- name    : GlobalTheory.PrincFree.princ_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:21:08.893811+00:00
 -- url     : https://prove2.me/theorems/9ca09b66-ee4a-4709-b02a-2215ed0e255b

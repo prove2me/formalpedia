@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_graphMorphismToAffineSpace_eq_homOfVector
 -- name    : FunctorialResolution.EmbeddedResolution.graphMorphismToAffineSpace_eq_homOfVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:56:04.027566+00:00
 -- url     : https://prove2.me/theorems/0bc354ef-b026-490a-ae07-d0867e17f925

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gaussian_one_dim
 -- name    : Formalism.FourierDecayAlt.P.gaussian_one_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:35.760365+00:00
 -- url     : https://prove2.me/theorems/7609b4ed-8aa9-42cb-9e3f-41239d185b50

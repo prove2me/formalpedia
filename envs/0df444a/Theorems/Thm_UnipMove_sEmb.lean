@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_sEmb
 -- name    : UnipMove.sEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:12:29.165038+00:00
 -- url     : https://prove2.me/theorems/1b7da89e-2649-45ca-9183-bd255ef63d80

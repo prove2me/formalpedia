@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_uProduct
 -- name    : Formalism.IncomingBounds.uProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:38.273127+00:00
 -- url     : https://prove2.me/theorems/092eadef-370e-573d-94ee-1e9d7a897b4e

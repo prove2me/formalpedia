@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycInvariants_exists_field
 -- name    : GlobalTheory.CycInvariants.exists_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:07:18.726711+00:00
 -- url     : https://prove2.me/theorems/f700874c-e413-4880-bb85-9d1a5fc0e468

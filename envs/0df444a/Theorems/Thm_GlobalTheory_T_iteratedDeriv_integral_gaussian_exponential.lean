@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iteratedDeriv_integral_gaussian_exponential
 -- name    : GlobalTheory.T.iteratedDeriv_integral_gaussian_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:59.804246+00:00
 -- url     : https://prove2.me/theorems/30ffe5e6-2bbc-4efa-8111-c7d53fcc3d2e

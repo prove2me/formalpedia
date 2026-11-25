@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_firstPartialLaw_push_along_tripleMap
 -- name    : GlobalTheory.T.firstPartialLaw_push_along_tripleMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:06.270997+00:00
 -- url     : https://prove2.me/theorems/ae3375fb-9028-592f-87d1-5267a717ca19

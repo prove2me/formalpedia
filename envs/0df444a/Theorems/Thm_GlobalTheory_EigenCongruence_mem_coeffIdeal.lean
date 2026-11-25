@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenCongruence_mem_coeffIdeal
 -- name    : GlobalTheory.EigenCongruence.mem_coeffIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:27.784538+00:00
 -- url     : https://prove2.me/theorems/d6faca8d-b988-4566-8487-e2e61d71f439

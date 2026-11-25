@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos679_cardDistinctFactors_le_of_dvd
 -- name    : Erdos679.cardDistinctFactors_le_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:01:14.756217+00:00
 -- url     : https://prove2.me/theorems/8ff2b939-8364-56e8-b813-83b3393b9309

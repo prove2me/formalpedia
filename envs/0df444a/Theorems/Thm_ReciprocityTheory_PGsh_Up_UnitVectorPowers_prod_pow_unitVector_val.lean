@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_UnitVectorPowers_prod_pow_unitVector_val
 -- name    : ReciprocityTheory.PGsh.Up.UnitVectorPowers.prod_pow_unitVector_val
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:18.806685+00:00
 -- url     : https://prove2.me/theorems/dd9bf2f8-c14d-4eeb-bd13-bfaa50ec8ef5

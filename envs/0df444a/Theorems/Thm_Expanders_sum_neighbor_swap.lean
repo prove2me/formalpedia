@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Expanders_sum_neighbor_swap
 -- name    : Expanders.sum_neighbor_swap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:08:37.884964+00:00
 -- url     : https://prove2.me/theorems/f4917c2a-6da4-5c17-b634-465bcb280e4d

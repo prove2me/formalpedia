@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubicUnit_exists_char
 -- name    : GlobalTheory.CubicUnit.exists_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:01:14.331917+00:00
 -- url     : https://prove2.me/theorems/24cedc82-aef4-436e-af79-2b3333653a8d

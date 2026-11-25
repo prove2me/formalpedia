@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unitHeadsMass_statement
 -- name    : Formalism.FourierDecayAlt.P.unitHeadsMass_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:36:17.745874+00:00
 -- url     : https://prove2.me/theorems/0efc1db3-2a71-4f50-a6f9-b7dae1d6d26e

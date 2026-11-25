@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowData_hPull_axis_right
 -- name    : Formalism.L2.FormalSeriesBounds.RowData.hPull_axis_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:44:45.025888+00:00
 -- url     : https://prove2.me/theorems/05faf4cd-e111-4557-aa12-73ef03ad7e85

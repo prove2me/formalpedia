@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_CubWeil_mul_left
 -- name    : GlobalTheory.UU.CubWeil.mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:08:06.456352+00:00
 -- url     : https://prove2.me/theorems/8c65d6db-ec38-5c0a-9a52-48f222be2e67

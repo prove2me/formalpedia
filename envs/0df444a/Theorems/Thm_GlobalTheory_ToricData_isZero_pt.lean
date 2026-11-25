@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_isZero_pt
 -- name    : GlobalTheory.ToricData.isZero_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:40:54.423841+00:00
 -- url     : https://prove2.me/theorems/30fec4ab-6929-4997-966a-7bc3d23d45a6

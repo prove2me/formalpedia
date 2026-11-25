@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Join_tens_join
 -- name    : PositivityTheory.ThKR.Join.tens_join
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:24:30.428337+00:00
 -- url     : https://prove2.me/theorems/6324d31f-cc02-4473-8847-c38452364243

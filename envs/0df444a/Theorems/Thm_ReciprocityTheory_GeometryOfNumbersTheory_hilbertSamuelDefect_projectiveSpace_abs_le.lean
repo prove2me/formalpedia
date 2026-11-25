@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_hilbertSamuelDefect_projectiveSpace_abs_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.hilbertSamuelDefect_projectiveSpace_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:53:42.601113+00:00
 -- url     : https://prove2.me/theorems/36166cf0-e6e2-5216-9abb-8fa29bf0576d

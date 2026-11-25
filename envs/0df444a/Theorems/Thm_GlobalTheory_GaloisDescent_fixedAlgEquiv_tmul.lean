@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_fixedAlgEquiv_tmul
 -- name    : GlobalTheory.GaloisDescent.fixedAlgEquiv_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:15.547185+00:00
 -- url     : https://prove2.me/theorems/9b3f8c9c-3566-4694-a75a-46e9ca287e3b

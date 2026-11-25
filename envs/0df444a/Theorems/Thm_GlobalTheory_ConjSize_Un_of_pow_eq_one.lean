@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjSize_Un_of_pow_eq_one
 -- name    : GlobalTheory.ConjSize.Un.of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:02:31.76765+00:00
 -- url     : https://prove2.me/theorems/f203f1d0-d8fd-50b0-aff9-bbc953e15d6b

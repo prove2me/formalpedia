@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_regular_local_extension_with_simple_root
 -- name    : GlobalTheory.T.exists_regular_local_extension_with_simple_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:06.746665+00:00
 -- url     : https://prove2.me/theorems/8b89c993-fddf-44b4-8909-580016d8a5d6

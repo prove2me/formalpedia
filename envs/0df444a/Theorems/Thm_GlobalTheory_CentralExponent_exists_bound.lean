@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CentralExponent_exists_bound
 -- name    : GlobalTheory.CentralExponent.exists_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:36.241814+00:00
 -- url     : https://prove2.me/theorems/6dd0aeb8-efeb-414f-bf60-1461e170992f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_StabilizerIndexVolumes_ptMat_isUnit
 -- name    : Formalism.L2.SG.Pf.StabilizerIndexVolumes.ptMat_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:47:24.21065+00:00
 -- url     : https://prove2.me/theorems/0c628b1b-3fb3-5b01-a3be-5e52eb8e3725

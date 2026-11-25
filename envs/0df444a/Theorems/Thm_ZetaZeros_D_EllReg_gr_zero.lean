@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_gr_zero
 -- name    : ZetaZeros.D.EllReg.gr_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:13:17.576256+00:00
 -- url     : https://prove2.me/theorems/2da64e23-3c0e-4a2d-900e-7644c08987ae

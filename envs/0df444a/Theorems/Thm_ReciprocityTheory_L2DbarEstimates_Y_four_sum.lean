@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_four_sum
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.four_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:00:16.272042+00:00
 -- url     : https://prove2.me/theorems/301a6ae0-649c-4300-953c-aa87fb958034

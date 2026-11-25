@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_rank_eq_rank_of_perm_and_zero
 -- name    : ReciprocityTheory.PGsh.Up.rank_eq_rank_of_perm_and_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:06.162252+00:00
 -- url     : https://prove2.me/theorems/e476fbf4-a007-529b-b75f-57d655ddcfb8

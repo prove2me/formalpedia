@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LocAlg_mem_intPoly
 -- name    : Formalism.L2.Pj.LocAlg.mem_intPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:47:15.682808+00:00
 -- url     : https://prove2.me/theorems/6899d1b1-fcc9-4a02-a814-6bff121600d2

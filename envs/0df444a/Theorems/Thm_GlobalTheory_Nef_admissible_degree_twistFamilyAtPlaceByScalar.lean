@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_admissible_degree_twistFamilyAtPlaceByScalar
 -- name    : GlobalTheory.Nef.admissible_degree_twistFamilyAtPlaceByScalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:14:46.739425+00:00
 -- url     : https://prove2.me/theorems/07baa305-d72c-5105-951c-faa7b25785d0

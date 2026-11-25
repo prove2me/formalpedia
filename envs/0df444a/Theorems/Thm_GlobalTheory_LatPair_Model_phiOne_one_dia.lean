@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_phiOne_one_dia
 -- name    : GlobalTheory.LatPair.Model.phiOne_one_dia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:13:07.51021+00:00
 -- url     : https://prove2.me/theorems/7aae2853-6eb0-4e96-9ff1-d81bf2f2a9d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LocBrg_finNormSurj
 -- name    : Formalism.IndefR.LocBrg.finNormSurj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:41:59.624676+00:00
 -- url     : https://prove2.me/theorems/b88d070c-2f10-4a03-a86a-6cf61cb0bd5e

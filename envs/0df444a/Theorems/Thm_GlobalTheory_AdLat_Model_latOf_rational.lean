@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Model_latOf_rational
 -- name    : GlobalTheory.AdLat.Model.latOf_rational
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:54:57.21775+00:00
 -- url     : https://prove2.me/theorems/5e7c1ae5-5b04-419d-ada6-a763b9051534

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIndicator_forall_mul_map_mem_range_iff
 -- name    : GlobalTheory.LatticeIndicator.forall_mul_map_mem_range_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:12:54.682896+00:00
 -- url     : https://prove2.me/theorems/4f38512a-5ea4-5339-b4aa-e067826595fd

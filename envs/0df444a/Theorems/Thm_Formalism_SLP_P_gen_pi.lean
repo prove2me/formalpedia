@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_P_gen_pi
 -- name    : Formalism.SLP.P.gen_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:09.237386+00:00
 -- url     : https://prove2.me/theorems/cac38657-5a23-51be-9401-651e92bc8fe5

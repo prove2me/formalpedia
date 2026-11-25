@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_unip_val
 -- name    : GlobalTheory.KSp.unip_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:11:53.829223+00:00
 -- url     : https://prove2.me/theorems/ad1b9b9e-1b83-5085-8db8-a56b3faa30c3

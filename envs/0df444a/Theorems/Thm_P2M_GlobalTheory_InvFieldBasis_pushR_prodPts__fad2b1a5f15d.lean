@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_InvFieldBasis_pushR_prodPts__fad2b1a5f15d
 -- name    : P2M_GlobalTheory_InvFieldBasis_pushR_prodPts__fad2b1a5f15d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:09:18.089198+00:00
 -- url     : https://prove2.me/theorems/7b03e617-dfb7-4410-97e8-ebf84875619a

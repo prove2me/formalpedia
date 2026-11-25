@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CovariantSecondFundamentalForm_SameJet_covDel
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CovariantSecondFundamentalForm.SameJet.covDel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:49.15365+00:00
 -- url     : https://prove2.me/theorems/63486b25-c5da-48ab-95b5-542cee5c1979

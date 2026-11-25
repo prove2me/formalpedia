@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segShortWindowNoTie
 -- name    : Formalism.CountingSumsFrames.Top.segShortWindowNoTie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:10.165355+00:00
 -- url     : https://prove2.me/theorems/d556ec7f-9482-4dea-a5b0-7b36f8231356

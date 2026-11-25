@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_cm_sigma_bound
 -- name    : Formalism.AtG.cm_sigma_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:21:06.261558+00:00
 -- url     : https://prove2.me/theorems/fdcdad3e-4d2e-4eef-997f-22c920a0206e

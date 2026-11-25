@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Capelli_rowOp_eq_colOp
 -- name    : GlobalTheory.Capelli.rowOp_eq_colOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:22.415699+00:00
 -- url     : https://prove2.me/theorems/bfb7f12e-0c0f-41b9-abc4-f260daaa1354

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_glue_rigidified_partial_line_bundles
 -- name    : GlobalTheory.T.exists_glue_rigidified_partial_line_bundles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:36:26.9999+00:00
 -- url     : https://prove2.me/theorems/e2cb0bfc-956b-4175-8df8-943ed8c2296e

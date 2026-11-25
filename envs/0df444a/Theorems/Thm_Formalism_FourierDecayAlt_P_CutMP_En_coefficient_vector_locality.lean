@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_En_coefficient_vector_locality
 -- name    : Formalism.FourierDecayAlt.P.CutMP.En.coefficient_vector_locality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:26:24.797425+00:00
 -- url     : https://prove2.me/theorems/8c791daf-0c6c-5806-a31a-f6d8a93a326f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_blockPar_s_val
 -- name    : GlobalTheory.LGrp.blockPar_s_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:03.390296+00:00
 -- url     : https://prove2.me/theorems/89c349d7-7ded-5f23-b8da-a2d676d12e13

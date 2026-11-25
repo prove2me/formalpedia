@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DimCodim_dim_compl_add_one_le
 -- name    : GlobalTheory.DimCodim.dim_compl_add_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:03:50.133209+00:00
 -- url     : https://prove2.me/theorems/50942a59-b37f-5f9d-85eb-e58487490cf9

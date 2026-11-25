@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscreteSeriesTest_order_needed
 -- name    : GlobalTheory.DiscreteSeriesTest.order_needed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:03:51.579869+00:00
 -- url     : https://prove2.me/theorems/c656461a-1d4d-52c3-9474-f5f399556718

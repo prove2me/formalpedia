@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SelfReciprocalLocalField_Isometric_of_norm
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SelfReciprocalLocalField.Isometric.of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:23:53.34784+00:00
 -- url     : https://prove2.me/theorems/5e2e4797-7e75-5399-88b2-dbcc8f78b6bc

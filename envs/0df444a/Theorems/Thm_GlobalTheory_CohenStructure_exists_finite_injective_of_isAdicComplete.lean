@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenStructure_exists_finite_injective_of_isAdicComplete
 -- name    : GlobalTheory.CohenStructure.exists_finite_injective_of_isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:06:29.93326+00:00
 -- url     : https://prove2.me/theorems/a48170d6-23a8-41f3-b716-b11f0c8a0197

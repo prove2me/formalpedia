@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_polydisc_mean_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.polydisc_mean_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:53:58.379608+00:00
 -- url     : https://prove2.me/theorems/201898ed-9965-48d8-a18e-06746d3a4d76

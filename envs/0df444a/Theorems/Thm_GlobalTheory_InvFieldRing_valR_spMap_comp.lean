@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvFieldRing_valR_spMap_comp
 -- name    : GlobalTheory.InvFieldRing.valR_spMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:12:15.681157+00:00
 -- url     : https://prove2.me/theorems/91839eaa-993f-5b6e-8433-5e4681ed714f

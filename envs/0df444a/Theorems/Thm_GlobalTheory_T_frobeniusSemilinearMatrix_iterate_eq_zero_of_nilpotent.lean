@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frobeniusSemilinearMatrix_iterate_eq_zero_of_nilpotent
 -- name    : GlobalTheory.T.frobeniusSemilinearMatrix_iterate_eq_zero_of_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:31:21.487019+00:00
 -- url     : https://prove2.me/theorems/999f5f9d-8fa0-5a1f-a211-6952b93dc26c

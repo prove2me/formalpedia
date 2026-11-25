@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_comparison_mk
 -- name    : GlobalTheory.CechDR.comparison_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:45.24699+00:00
 -- url     : https://prove2.me/theorems/fc9744bb-b389-465f-a75a-4fca2a54512a

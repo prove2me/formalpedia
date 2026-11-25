@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomPairDescent_comp_eq_pow_of_epi
 -- name    : GlobalTheory.HomPairDescent.comp_eq_pow_of_epi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:46:32.906415+00:00
 -- url     : https://prove2.me/theorems/fa66a49e-48f5-412d-a1fb-205b729fa888

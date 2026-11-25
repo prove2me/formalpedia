@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_rootModP_holds
 -- name    : rootModP_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:15:57.144723+00:00
 -- url     : https://prove2.me/theorems/21958be1-0324-4dc4-a81b-b99a773a7188

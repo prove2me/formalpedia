@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_chainStep_kernel_rank_le_mod_maxIdeal
 -- name    : GlobalTheory.T.chainStep_kernel_rank_le_mod_maxIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:36.599897+00:00
 -- url     : https://prove2.me/theorems/ba5e1771-fdc1-5e83-a09a-ccb88f885f0a

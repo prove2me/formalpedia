@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_cyclotomic_splitting_extension
 -- name    : GlobalTheory.T.exists_cyclotomic_splitting_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:28:46.331689+00:00
 -- url     : https://prove2.me/theorems/ad6d54a2-646d-5e09-addf-5edd0df2e6b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CurvMargin_leviRh_eq
 -- name    : GlobalTheory.CurvMargin.leviRh_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:30:17.128777+00:00
 -- url     : https://prove2.me/theorems/36be996c-7b5b-41e9-99d3-2b8ad5f2f3e1

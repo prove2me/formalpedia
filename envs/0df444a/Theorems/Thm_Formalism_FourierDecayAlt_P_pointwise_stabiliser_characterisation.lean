@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_pointwise_stabiliser_characterisation
 -- name    : Formalism.FourierDecayAlt.P.pointwise_stabiliser_characterisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:33:58.016828+00:00
 -- url     : https://prove2.me/theorems/f05b86d7-6e1e-448c-9df4-bb0f31bb3359

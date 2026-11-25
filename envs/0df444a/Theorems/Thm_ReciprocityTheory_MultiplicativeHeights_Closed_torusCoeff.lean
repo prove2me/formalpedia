@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_torusCoeff
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.torusCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:16:39.294738+00:00
 -- url     : https://prove2.me/theorems/286fb7f4-c4dc-422e-ae3e-6c608bf03cbc

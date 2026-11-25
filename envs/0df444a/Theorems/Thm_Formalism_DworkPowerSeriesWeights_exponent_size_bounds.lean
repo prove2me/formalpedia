@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_exponent_size_bounds
 -- name    : Formalism.DworkPowerSeriesWeights.exponent_size_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:36:04.07189+00:00
 -- url     : https://prove2.me/theorems/a89394b3-af44-4eb8-9413-ae96221fb422

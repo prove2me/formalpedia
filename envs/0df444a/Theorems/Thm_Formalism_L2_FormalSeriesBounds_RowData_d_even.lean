@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowData_d_even
 -- name    : Formalism.L2.FormalSeriesBounds.RowData.d_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:44:10.877038+00:00
 -- url     : https://prove2.me/theorems/2cb7aca3-9ed6-57d1-8961-53503e6213f4

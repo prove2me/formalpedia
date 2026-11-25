@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_witt_unramified
 -- name    : witt_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:16:23.253794+00:00
 -- url     : https://prove2.me/theorems/79e818df-4e0f-4492-acf8-e2c41bba7591

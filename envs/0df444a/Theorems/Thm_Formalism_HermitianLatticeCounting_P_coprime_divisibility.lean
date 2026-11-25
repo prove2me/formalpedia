@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_coprime_divisibility
 -- name    : Formalism.HermitianLatticeCounting.P.coprime_divisibility
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:05.832507+00:00
 -- url     : https://prove2.me/theorems/53d6d295-17d6-5186-a6ed-e646035fe67b

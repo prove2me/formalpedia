@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_primeHopfOrder_of_addEquiv
 -- name    : ReciprocityTheory.PGsh.Up.primeHopfOrder_of_addEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:09:20.72694+00:00
 -- url     : https://prove2.me/theorems/92e0b9e5-ec0c-5c41-a906-0485c92088b5

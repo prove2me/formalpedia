@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_flat_contr_intIndicator
 -- name    : GlobalTheory.LocFlat.flat_contr_intIndicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:19:54.747172+00:00
 -- url     : https://prove2.me/theorems/ed8de407-7da5-41da-a613-fca33499f08e

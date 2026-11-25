@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisSec_secLaw
 -- name    : GlobalTheory.CompanionTheory.RgEisSec.secLaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:59:56.643259+00:00
 -- url     : https://prove2.me/theorems/54fa045a-567b-4b68-9040-5cac6c330fa3

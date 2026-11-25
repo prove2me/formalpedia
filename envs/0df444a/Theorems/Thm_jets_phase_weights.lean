@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_jets_phase_weights
 -- name    : jets_phase_weights
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:55:47.162849+00:00
 -- url     : https://prove2.me/theorems/de84b07d-bc6d-4136-bf88-427073260206

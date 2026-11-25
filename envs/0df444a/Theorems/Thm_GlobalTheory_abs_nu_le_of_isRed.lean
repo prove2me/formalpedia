@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_nu_le_of_isRed
 -- name    : GlobalTheory.abs_nu_le_of_isRed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:04:33.06081+00:00
 -- url     : https://prove2.me/theorems/7f8cd8bc-a4fe-4b1e-9d10-42f08095eb95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sec_of_generic_fibre
 -- name    : GlobalTheory.exists_sec_of_generic_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:45:49.017211+00:00
 -- url     : https://prove2.me/theorems/ded1848f-d4f8-4449-a1ca-0ba4f983687d

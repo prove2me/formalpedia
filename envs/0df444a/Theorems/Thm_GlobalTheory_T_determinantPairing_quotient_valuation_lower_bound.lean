@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_determinantPairing_quotient_valuation_lower_bound
 -- name    : GlobalTheory.T.determinantPairing_quotient_valuation_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:53:21.13547+00:00
 -- url     : https://prove2.me/theorems/634ea1b7-f330-4c38-b052-166b2bdbb3f1

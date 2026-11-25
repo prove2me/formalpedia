@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_left_translation
 -- name    : Formalism.FourierDecayAlt.P.capelli_left_translation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:36:36.76642+00:00
 -- url     : https://prove2.me/theorems/f6d0d079-7c35-5ddd-9217-230a0e3cccc9

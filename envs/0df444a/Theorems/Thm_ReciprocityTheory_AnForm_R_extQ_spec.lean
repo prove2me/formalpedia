@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_extQ_spec
 -- name    : ReciprocityTheory.AnForm.R.extQ_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:31:55.439572+00:00
 -- url     : https://prove2.me/theorems/aa5f5669-eed9-4084-b5f5-3665071f8a73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrSum_X_smul_bijective
 -- name    : GlobalTheory.GrSum.X_smul_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:58:24.768008+00:00
 -- url     : https://prove2.me/theorems/8e20e763-49e4-55e1-b741-83711340196e

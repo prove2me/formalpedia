@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hom_ext_specProdSelf_of_basicOpen_preimage_eq
 -- name    : GlobalTheory.T.hom_ext_specProdSelf_of_basicOpen_preimage_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:33:07.384803+00:00
 -- url     : https://prove2.me/theorems/7e2e04bb-f6a8-4746-9e13-a8ecca93ca23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_natural_level_product
 -- name    : Formalism.FourierDecayAlt.P.natural_level_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:02.914633+00:00
 -- url     : https://prove2.me/theorems/581acde2-f38d-40f5-adac-e5eb7e29d024

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_wwInjective_of
 -- name    : wwInjective_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:55:17.067215+00:00
 -- url     : https://prove2.me/theorems/0d943ef4-7731-5dd2-9750-0734a975823d

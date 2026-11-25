@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_mem_powSub
 -- name    : GlobalTheory.CNorm.mem_powSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:09.209664+00:00
 -- url     : https://prove2.me/theorems/c845a8f8-58e7-4520-bbbc-57051f0f3e49

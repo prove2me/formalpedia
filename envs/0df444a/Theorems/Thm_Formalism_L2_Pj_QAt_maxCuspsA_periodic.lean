@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_maxCuspsA_periodic
 -- name    : Formalism.L2.Pj.QAt.maxCuspsA_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:11.368125+00:00
 -- url     : https://prove2.me/theorems/c94595ec-67ac-4025-8318-e566e2cabcf4

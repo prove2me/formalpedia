@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelCoh_exists_equivariant_proj_of_irreducible_family
 -- name    : GlobalTheory.BorelCoh.exists_equivariant_proj_of_irreducible_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:57:52.126559+00:00
 -- url     : https://prove2.me/theorems/8c4731af-c483-4634-9ac1-e64dd221170f

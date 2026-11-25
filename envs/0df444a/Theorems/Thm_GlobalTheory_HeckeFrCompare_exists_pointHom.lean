@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_exists_pointHom
 -- name    : GlobalTheory.HeckeFrCompare.exists_pointHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:44:38.240201+00:00
 -- url     : https://prove2.me/theorems/512789a9-110e-4273-8d96-35d57b90fb7c

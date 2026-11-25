@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CrystallineExtensions_IsExt_exists_cocycle
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CrystallineExtensions.IsExt.exists_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:17:22.988854+00:00
 -- url     : https://prove2.me/theorems/6657b122-f106-4ad4-b97f-6cd273386148

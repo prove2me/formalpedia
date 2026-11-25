@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_Dec_trOp_add
 -- name    : ZetaZeros.D.EllReg.Dec.trOp_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:13:45.460075+00:00
 -- url     : https://prove2.me/theorems/60102d9c-4477-46fb-ba54-fc17f2f8f85b

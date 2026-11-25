@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_primCancel
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.primCancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:49.709805+00:00
 -- url     : https://prove2.me/theorems/6012578f-0032-52f7-9dcb-4a91f11f5ca7

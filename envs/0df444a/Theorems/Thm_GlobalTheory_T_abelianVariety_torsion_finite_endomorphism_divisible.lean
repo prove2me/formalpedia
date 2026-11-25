@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_abelianVariety_torsion_finite_endomorphism_divisible
 -- name    : GlobalTheory.T.abelianVariety_torsion_finite_endomorphism_divisible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:04:39.536849+00:00
 -- url     : https://prove2.me/theorems/a35531c8-fbef-4be6-9e3b-d08774124ed8

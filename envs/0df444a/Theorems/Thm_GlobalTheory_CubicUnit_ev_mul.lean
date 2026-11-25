@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubicUnit_ev_mul
 -- name    : GlobalTheory.CubicUnit.ev_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:00:26.815448+00:00
 -- url     : https://prove2.me/theorems/dac6bee4-1c62-4f7a-8ad2-e37af2e9fa7a

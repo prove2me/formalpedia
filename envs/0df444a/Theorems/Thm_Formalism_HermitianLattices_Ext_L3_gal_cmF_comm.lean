@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_gal_cmF_comm
 -- name    : Formalism.HermitianLattices.Ext.L3.gal_cmF_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:40:46.476815+00:00
 -- url     : https://prove2.me/theorems/ac9088ce-f7be-4e5e-8409-23c447fc2bcd

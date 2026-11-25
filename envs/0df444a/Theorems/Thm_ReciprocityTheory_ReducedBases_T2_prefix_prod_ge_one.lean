@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_prefix_prod_ge_one
 -- name    : ReciprocityTheory.ReducedBases.T2.prefix_prod_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:05.372002+00:00
 -- url     : https://prove2.me/theorems/c7b9f8b6-68cb-4ca7-b890-3dd1bc75bdbd

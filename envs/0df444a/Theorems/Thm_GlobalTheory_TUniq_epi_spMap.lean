@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TUniq_epi_spMap
 -- name    : GlobalTheory.TUniq.epi_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:43:48.407589+00:00
 -- url     : https://prove2.me/theorems/8e9bed75-c029-4823-a289-858914ea0d2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_rho_of_parts
 -- name    : Formalism.FourierDecayAlt.P.capelli_rho_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:41:34.246261+00:00
 -- url     : https://prove2.me/theorems/cd0f899c-58b6-44dd-b017-1c1eb5f28467

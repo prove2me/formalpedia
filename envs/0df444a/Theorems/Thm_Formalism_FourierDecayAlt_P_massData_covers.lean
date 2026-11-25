@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_massData_covers
 -- name    : Formalism.FourierDecayAlt.P.massData_covers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:17.68891+00:00
 -- url     : https://prove2.me/theorems/66e65804-c193-5754-b234-37ba503b44f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankStrataProof_lower
 -- name    : GlobalTheory.RankStrataProof.lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:20:06.986043+00:00
 -- url     : https://prove2.me/theorems/b88888ce-f456-52d3-8e18-a76ddbe534b8

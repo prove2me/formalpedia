@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_GL_oddQS_le
 -- name    : UpperTheory.GL.oddQS_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:13:05.050827+00:00
 -- url     : https://prove2.me/theorems/61cbf00f-a703-5af9-94d8-afd2d690cc1f

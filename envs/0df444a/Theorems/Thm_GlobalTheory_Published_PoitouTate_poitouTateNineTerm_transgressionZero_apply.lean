@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTate_poitouTateNineTerm_transgressionZero_apply
 -- name    : GlobalTheory.Published.PoitouTate.poitouTateNineTerm_transgressionZero_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:04.564961+00:00
 -- url     : https://prove2.me/theorems/560b8042-daaa-51e1-bb07-6c562e615472

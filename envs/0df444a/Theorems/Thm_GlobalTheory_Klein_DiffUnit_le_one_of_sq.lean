@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_DiffUnit_le_one_of_sq
 -- name    : GlobalTheory.Klein.DiffUnit.le_one_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:12:10.327936+00:00
 -- url     : https://prove2.me/theorems/225a517a-c15a-5ef5-8cb5-e5bc1adf34d7

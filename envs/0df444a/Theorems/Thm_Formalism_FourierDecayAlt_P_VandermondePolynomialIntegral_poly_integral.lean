@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_VandermondePolynomialIntegral_poly_integral
 -- name    : Formalism.FourierDecayAlt.P.VandermondePolynomialIntegral.poly_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:27:17.580724+00:00
 -- url     : https://prove2.me/theorems/caf7870f-eeeb-4ce7-8d43-76d2ed5b3718

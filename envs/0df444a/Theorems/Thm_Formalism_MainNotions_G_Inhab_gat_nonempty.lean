@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_gat_nonempty
 -- name    : Formalism.MainNotions.G.Inhab.gat_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:57:53.082881+00:00
 -- url     : https://prove2.me/theorems/f041268c-240c-5277-9301-dbe1db40fa7c

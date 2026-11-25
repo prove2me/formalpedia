@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_inversion_coordinate_localization_polynomial
 -- name    : GlobalTheory.T.exists_inversion_coordinate_localization_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:30:23.323537+00:00
 -- url     : https://prove2.me/theorems/c2073716-0d78-4b2d-8db0-ca3cb44c5669

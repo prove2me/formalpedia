@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumSign_finrank_le
 -- name    : GlobalTheory.DatumSign.finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:51.472523+00:00
 -- url     : https://prove2.me/theorems/2899c832-b429-5525-9084-f998f4f15f2b

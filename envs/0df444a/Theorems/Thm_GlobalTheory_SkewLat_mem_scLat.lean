@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SkewLat_mem_scLat
 -- name    : GlobalTheory.SkewLat.mem_scLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:23:46.039172+00:00
 -- url     : https://prove2.me/theorems/3f6aa7c0-d43f-4794-839a-dd149bf0107a

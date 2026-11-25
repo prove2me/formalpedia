@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorInt_integrableOn_minor
 -- name    : GlobalTheory.MinorInt.integrableOn_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:25.789785+00:00
 -- url     : https://prove2.me/theorems/a20d1465-6aab-4dd5-9cc3-634875746fb9

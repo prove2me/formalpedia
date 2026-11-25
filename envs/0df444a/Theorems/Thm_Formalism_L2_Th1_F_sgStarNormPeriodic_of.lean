@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sgStarNormPeriodic_of
 -- name    : Formalism.L2.Th1.F.sgStarNormPeriodic_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:48:45.643483+00:00
 -- url     : https://prove2.me/theorems/cfcc7a94-d41e-5500-b58e-90b3c299460b

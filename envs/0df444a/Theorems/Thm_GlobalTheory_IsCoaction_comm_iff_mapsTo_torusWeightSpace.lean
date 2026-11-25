@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsCoaction_comm_iff_mapsTo_torusWeightSpace
 -- name    : GlobalTheory.IsCoaction.comm_iff_mapsTo_torusWeightSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:21.20939+00:00
 -- url     : https://prove2.me/theorems/cb2d2634-0b33-598c-aa91-d79df93aa63f

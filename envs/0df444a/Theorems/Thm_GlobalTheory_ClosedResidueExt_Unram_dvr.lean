@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedResidueExt_Unram_dvr
 -- name    : GlobalTheory.ClosedResidueExt.Unram.dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:34.263515+00:00
 -- url     : https://prove2.me/theorems/cdaf9cb2-ea5b-5f2e-ae80-092f4faa1ae1

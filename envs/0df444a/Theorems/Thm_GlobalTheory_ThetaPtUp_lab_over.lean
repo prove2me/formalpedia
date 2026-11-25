@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtUp_lab_over
 -- name    : GlobalTheory.ThetaPtUp.lab_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:53.675924+00:00
 -- url     : https://prove2.me/theorems/e5c3eb0f-6ec5-5eae-9960-473e40a7b34f

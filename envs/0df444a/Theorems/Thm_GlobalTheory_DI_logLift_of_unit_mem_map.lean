@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_logLift_of_unit_mem_map
 -- name    : GlobalTheory.DI.logLift_of_unit_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:44.098692+00:00
 -- url     : https://prove2.me/theorems/e84622eb-dc52-4d17-9c56-09ff8d81b00f

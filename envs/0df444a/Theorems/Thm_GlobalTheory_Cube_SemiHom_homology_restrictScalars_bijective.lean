@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_SemiHom_homology_restrictScalars_bijective
 -- name    : GlobalTheory.Cube.SemiHom.homology_restrictScalars_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:03:12.483943+00:00
 -- url     : https://prove2.me/theorems/813abbd8-0a6f-5f31-8831-e2547750ea48

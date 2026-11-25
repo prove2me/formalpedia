@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_CoprimeFifteen_three_not_dvd_condN
 -- name    : Formalism.HC.HostRaw.CoprimeFifteen.three_not_dvd_condN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:13.69774+00:00
 -- url     : https://prove2.me/theorems/b7e637d1-0db4-5eab-ab76-0d3407f4a768

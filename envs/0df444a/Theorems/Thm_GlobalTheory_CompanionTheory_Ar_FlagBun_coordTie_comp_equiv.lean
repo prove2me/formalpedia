@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagBun_coordTie_comp_equiv
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagBun.coordTie_comp_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:13.702448+00:00
 -- url     : https://prove2.me/theorems/7dae2c7a-085a-4a64-bd57-6ceb7149909f

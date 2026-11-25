@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_Sub_hyperbolic
 -- name    : DensInertW.Sub.hyperbolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:46.198054+00:00
 -- url     : https://prove2.me/theorems/0b949d89-0f08-5bae-a25e-1f3d79162694

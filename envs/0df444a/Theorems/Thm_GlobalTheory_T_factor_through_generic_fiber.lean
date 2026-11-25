@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_factor_through_generic_fiber
 -- name    : GlobalTheory.T.factor_through_generic_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:31:52.426911+00:00
 -- url     : https://prove2.me/theorems/ec65349d-6502-44a6-98f2-295525bc8d95

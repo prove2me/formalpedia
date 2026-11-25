@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinkowskiOrder_card_dvd_prod
 -- name    : GlobalTheory.MinkowskiOrder.card_dvd_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:14:36.914933+00:00
 -- url     : https://prove2.me/theorems/d88807d1-3d17-56aa-a73d-35d96044631b

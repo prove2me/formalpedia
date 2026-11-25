@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_coeff_eq_zero_of_stable
 -- name    : ReciprocityTheory.PGsh.coeff_eq_zero_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:35.345219+00:00
 -- url     : https://prove2.me/theorems/17e14eb5-73b0-4b2e-81f5-46c698fe5f56

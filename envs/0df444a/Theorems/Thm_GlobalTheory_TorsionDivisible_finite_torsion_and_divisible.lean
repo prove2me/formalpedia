@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionDivisible_finite_torsion_and_divisible
 -- name    : GlobalTheory.TorsionDivisible.finite_torsion_and_divisible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:59:16.644824+00:00
 -- url     : https://prove2.me/theorems/06a998cd-1e14-4af1-bf6a-96628784c258

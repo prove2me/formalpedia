@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inertiaDeg_bot_eq_finrank_finite_domain
 -- name    : GlobalTheory.T.inertiaDeg_bot_eq_finrank_finite_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:18.232844+00:00
 -- url     : https://prove2.me/theorems/19da97f0-a493-45bd-877b-3dfc9afbd0c6

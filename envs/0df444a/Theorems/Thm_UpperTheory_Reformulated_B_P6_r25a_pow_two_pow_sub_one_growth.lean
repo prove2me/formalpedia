@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r25a_pow_two_pow_sub_one_growth
 -- name    : UpperTheory.Reformulated.B.P6.r25a.pow_two_pow_sub_one_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:40.311414+00:00
 -- url     : https://prove2.me/theorems/cdcba269-e294-4a6f-9336-f5579aff11b4

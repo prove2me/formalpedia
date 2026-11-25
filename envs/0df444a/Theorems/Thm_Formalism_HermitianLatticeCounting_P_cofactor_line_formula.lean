@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_cofactor_line_formula
 -- name    : Formalism.HermitianLatticeCounting.P.cofactor_line_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:39:28.362307+00:00
 -- url     : https://prove2.me/theorems/b8502f8d-0ce8-46d8-a8e0-a886bbbbe0b2

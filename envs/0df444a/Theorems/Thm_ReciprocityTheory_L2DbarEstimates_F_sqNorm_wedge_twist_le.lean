@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_sqNorm_wedge_twist_le
 -- name    : ReciprocityTheory.L2DbarEstimates.F.sqNorm_wedge_twist_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:03:17.7318+00:00
 -- url     : https://prove2.me/theorems/927c26a5-f27a-440b-9695-e7fcfff5abc6

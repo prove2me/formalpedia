@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensor_prime_over_ideal_completion
 -- name    : GlobalTheory.T.tensor_prime_over_ideal_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:37.142867+00:00
 -- url     : https://prove2.me/theorems/283bf457-1fb3-50d0-a6f5-5b84e7e73034

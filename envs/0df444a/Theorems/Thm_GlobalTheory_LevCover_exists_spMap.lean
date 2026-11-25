@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_exists_spMap
 -- name    : GlobalTheory.LevCover.exists_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:36:17.72356+00:00
 -- url     : https://prove2.me/theorems/5ffe37e5-05ea-4d6c-b6e6-2f9e45439791

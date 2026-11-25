@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_typed_local_model
 -- name    : Formalism.FourierDecayAlt.P.typed_local_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:12.614383+00:00
 -- url     : https://prove2.me/theorems/d0a3b559-8cbf-5aea-8737-cf82a126f87d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntPair_Carry_refl
 -- name    : GlobalTheory.IntPair.Carry.refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:24:59.033089+00:00
 -- url     : https://prove2.me/theorems/2c56917e-3ed6-4fe2-948a-c364cb600378

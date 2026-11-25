@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightOneHopf_exists_isPtDer_dual
 -- name    : GlobalTheory.HeightOneHopf.exists_isPtDer_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:16:31.465498+00:00
 -- url     : https://prove2.me/theorems/39687ab6-25c8-4366-bfd5-d2561f7e84ed

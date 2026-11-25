@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.REAL.diagChar
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T17:33:22.107909+00:00
+-- url     : https://prove2.me/submissions/2a4c10e2-dfcb-44b7-b24a-3e6f71fc95e7
+
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuadraticInequalityBoundHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_HalfSumRootsStandard
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_SumOfSquaresIdentityHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasKHW
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CasComm
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorPowUpperVanishHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_HWDiag
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_TrPowSumFilterZero
+import Definitions.Def_Formalism_RealPlaceAnalysis_StatementD
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_QuantumDetHighestWeightHolds
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_ShiftedGeneratorEqIteSmulAdd
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_GeneratorCommutatorQuantumDet
+import Definitions.Def_Formalism_RealPlaceAnalysis_RealPlaceTaylor_CharId
+import Definitions.Def_Formalism_RealPlaceAnalysis_ThirdArithmeticHolds
+import Theorems.Thm_Formalism_REAL_diagChar_of
+import Theorems.Thm_Formalism_REAL_generatorPowDiagRecursion_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.REAL
+namespace Formalism.REAL
+theorem _root_.solution : DiagChar := diagChar_of generatorPowDiagRecursion_holds
+end Formalism.REAL

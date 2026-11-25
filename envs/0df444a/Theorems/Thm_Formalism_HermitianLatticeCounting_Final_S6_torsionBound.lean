@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_torsionBound
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.torsionBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:44:41.523652+00:00
 -- url     : https://prove2.me/theorems/8d150543-be6a-51a5-ba9a-7b747d7c9ed2

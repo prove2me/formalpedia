@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_eMat
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.eMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:53:11.053008+00:00
 -- url     : https://prove2.me/theorems/8d1afb7b-a3bb-458f-937a-5d15800f3b3f

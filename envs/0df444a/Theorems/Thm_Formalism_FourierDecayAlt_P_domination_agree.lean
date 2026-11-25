@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_domination_agree
 -- name    : Formalism.FourierDecayAlt.P.domination_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:31:53.984826+00:00
 -- url     : https://prove2.me/theorems/279a7b83-b205-49c6-b6f6-2137296c49e0

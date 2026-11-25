@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_slice_power_identity
 -- name    : Formalism.FourierDecayAlt.P.slice_power_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:34:47.193099+00:00
 -- url     : https://prove2.me/theorems/0750f7f0-2127-5c12-b60e-ad3a9550ea96

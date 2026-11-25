@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_S_Loc_add_natPred_succ
 -- name    : Formalism.MainNotions.S.Loc.add_natPred_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:51:51.487729+00:00
 -- url     : https://prove2.me/theorems/b90ef290-fb29-4d2f-824a-d6f06a286a97

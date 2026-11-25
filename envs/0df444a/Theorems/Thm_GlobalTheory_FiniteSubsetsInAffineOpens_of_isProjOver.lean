@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteSubsetsInAffineOpens_of_isProjOver
 -- name    : GlobalTheory.FiniteSubsetsInAffineOpens.of_isProjOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:06.846456+00:00
 -- url     : https://prove2.me/theorems/c6e04378-043a-51e0-b92c-fa5c304b4007

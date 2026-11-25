@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_corner_level_product
 -- name    : Formalism.FourierDecayAlt.P.corner_level_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:31:03.435117+00:00
 -- url     : https://prove2.me/theorems/7c80de2c-8578-490c-91e3-33cfbcfa3f41

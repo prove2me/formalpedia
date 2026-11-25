@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_chain_nonempty
 -- name    : Formalism.MainNotions.G.Inhab.chain_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:17.853792+00:00
 -- url     : https://prove2.me/theorems/44fa2f0a-3a3d-4123-b7ab-04c7e4a31de7

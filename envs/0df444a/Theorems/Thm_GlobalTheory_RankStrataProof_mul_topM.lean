@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankStrataProof_mul_topM
 -- name    : GlobalTheory.RankStrataProof.mul_topM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:20:08.336946+00:00
 -- url     : https://prove2.me/theorems/41279e25-365d-5d32-8a2f-e4fb8cf80ddb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_galoisCover_descent_and_cartesian_squares
 -- name    : GlobalTheory.T.galoisCover_descent_and_cartesian_squares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:33:13.488196+00:00
 -- url     : https://prove2.me/theorems/e0fca8de-69bc-4589-974d-8934e48c56a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WD_base
 -- name    : ZetaZeros.D.EllReg.WD.base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:13:45.403746+00:00
 -- url     : https://prove2.me/theorems/29411bdf-afe6-4c53-87ca-896f2584b045

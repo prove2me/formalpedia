@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Div_semilinear_factors_through_reduction
 -- name    : GlobalTheory.CompanionTheory.Div.semilinear_factors_through_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:26.100012+00:00
 -- url     : https://prove2.me/theorems/efa3f5db-f660-5473-b21e-9f7a48338422

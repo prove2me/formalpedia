@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_inert_order_residue
 -- name    : Formalism.L2.DIV.inert_order_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:45:29.592329+00:00
 -- url     : https://prove2.me/theorems/03a0046b-1fcd-4431-9107-19104a703926

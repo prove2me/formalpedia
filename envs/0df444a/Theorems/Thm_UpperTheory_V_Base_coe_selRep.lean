@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_coe_selRep
 -- name    : UpperTheory.V.Base.coe_selRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:13:12.204408+00:00
 -- url     : https://prove2.me/theorems/1f875615-995b-5ae4-a24e-dbe7f4357b05

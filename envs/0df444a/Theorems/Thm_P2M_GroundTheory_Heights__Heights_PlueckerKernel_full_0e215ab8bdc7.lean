@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlueckerKernel_full_0e215ab8bdc7
 -- name    : P2M_GroundTheory_Heights__Heights_PlueckerKernel_full_0e215ab8bdc7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:17.922824+00:00
 -- url     : https://prove2.me/theorems/3b3ea7ac-c111-4b97-91c8-74104d3e3f97

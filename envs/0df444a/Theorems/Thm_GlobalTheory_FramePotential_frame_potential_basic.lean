@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePotential_frame_potential_basic
 -- name    : GlobalTheory.FramePotential.frame_potential_basic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:37.853971+00:00
 -- url     : https://prove2.me/theorems/b58e4df8-1952-5a1b-91e8-2fc9f875a806

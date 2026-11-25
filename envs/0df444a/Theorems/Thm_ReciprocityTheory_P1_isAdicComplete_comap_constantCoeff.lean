@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_P1_isAdicComplete_comap_constantCoeff
 -- name    : ReciprocityTheory.P1.isAdicComplete_comap_constantCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:44:10.316218+00:00
 -- url     : https://prove2.me/theorems/155ef9cc-1a10-4a84-9ba3-f716f0644ff0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecSpread_isUnit_cst
 -- name    : GlobalTheory.SecSpread.isUnit_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:56:54.111086+00:00
 -- url     : https://prove2.me/theorems/7cb58c46-c95c-4860-9bfb-b4cf9bbbf808

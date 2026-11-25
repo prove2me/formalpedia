@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistLoc_exists_clear_denominator
 -- name    : GlobalTheory.TwistLoc.exists_clear_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:14:18.869954+00:00
 -- url     : https://prove2.me/theorems/77c6a767-ed59-43f5-b74b-44ae6ac0acf9

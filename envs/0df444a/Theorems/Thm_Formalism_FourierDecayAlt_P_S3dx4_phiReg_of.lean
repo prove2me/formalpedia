@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_phiReg_of
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.phiReg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:35:42.679084+00:00
 -- url     : https://prove2.me/theorems/ce2edecb-79ac-4188-bad7-2479f80cd44e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_directSum_obj
 -- name    : GlobalTheory.Cube.directSum_obj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:45.842805+00:00
 -- url     : https://prove2.me/theorems/ac683961-caaa-5e8a-bf88-745136d0574f

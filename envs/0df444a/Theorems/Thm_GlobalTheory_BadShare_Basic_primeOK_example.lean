@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_primeOK_example
 -- name    : GlobalTheory.BadShare.Basic.primeOK_example
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:50.9649+00:00
 -- url     : https://prove2.me/theorems/55ebf967-1195-43fe-ba69-330536f6955c

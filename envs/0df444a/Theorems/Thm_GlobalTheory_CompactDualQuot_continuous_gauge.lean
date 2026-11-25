@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_continuous_gauge
 -- name    : GlobalTheory.CompactDualQuot.continuous_gauge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:03:52.543318+00:00
 -- url     : https://prove2.me/theorems/ee09a7fc-6ebd-5cbe-8694-13f66c01d820

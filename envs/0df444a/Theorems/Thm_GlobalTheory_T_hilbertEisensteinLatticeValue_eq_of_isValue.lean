@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertEisensteinLatticeValue_eq_of_isValue
 -- name    : GlobalTheory.T.hilbertEisensteinLatticeValue_eq_of_isValue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:11.50444+00:00
 -- url     : https://prove2.me/theorems/4fca9565-2cd7-50b8-afdb-1237eafef5dd

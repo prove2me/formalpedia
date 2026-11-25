@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_norm_det_orth
 -- name    : GlobalTheory.MixedSignature.norm_det_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:06:37.592165+00:00
 -- url     : https://prove2.me/theorems/d5b39001-1843-532a-9300-6d6e7890fc3f

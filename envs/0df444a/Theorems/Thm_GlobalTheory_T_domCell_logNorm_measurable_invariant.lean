@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_domCell_logNorm_measurable_invariant
 -- name    : GlobalTheory.T.domCell_logNorm_measurable_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:29:34.354108+00:00
 -- url     : https://prove2.me/theorems/9eac5cb8-9482-50a4-ae88-aec37141551e

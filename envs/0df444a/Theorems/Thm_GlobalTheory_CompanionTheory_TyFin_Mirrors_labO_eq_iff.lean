@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Mirrors_labO_eq_iff
 -- name    : GlobalTheory.CompanionTheory.TyFin.Mirrors.labO_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:58.420128+00:00
 -- url     : https://prove2.me/theorems/4fb09354-622f-42c1-b3b7-ac1f8a9e4b38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FrTanDirAlg_decomp_of_inv
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FrTanDirAlg.decomp_of_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:50:46.26039+00:00
 -- url     : https://prove2.me/theorems/73d91aad-7ac4-5ffa-93ff-dc757df8e86d

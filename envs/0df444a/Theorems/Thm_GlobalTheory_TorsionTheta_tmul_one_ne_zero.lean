@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionTheta_tmul_one_ne_zero
 -- name    : GlobalTheory.TorsionTheta.tmul_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:59:24.843422+00:00
 -- url     : https://prove2.me/theorems/7e00f156-c081-45d7-8051-729c45dabe5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_kaVal_unique
 -- name    : GlobalTheory.KaUnique.kaVal_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:46:55.255212+00:00
 -- url     : https://prove2.me/theorems/de5f72d1-bcc5-40f7-8351-562b66a8fa8c

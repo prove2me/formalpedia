@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_centralBinom_le_pow_card_primes_between
 -- name    : GlobalTheory.BadShare.centralBinom_le_pow_card_primes_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:56:53.010482+00:00
 -- url     : https://prove2.me/theorems/655eb7c7-0dc5-4ea9-ae1c-eb3f457e32e3

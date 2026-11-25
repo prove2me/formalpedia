@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_finite_term
 -- name    : GlobalTheory.Cube.finite_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:51.673725+00:00
 -- url     : https://prove2.me/theorems/2639cd17-af64-46ff-b3f1-3431580abf95

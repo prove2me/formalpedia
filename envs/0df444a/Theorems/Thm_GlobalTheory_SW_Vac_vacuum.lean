@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Vac_vacuum
 -- name    : GlobalTheory.SW.Vac.vacuum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:21:51.111251+00:00
 -- url     : https://prove2.me/theorems/bec9ff85-374e-55e3-bb52-635db0dc18ae

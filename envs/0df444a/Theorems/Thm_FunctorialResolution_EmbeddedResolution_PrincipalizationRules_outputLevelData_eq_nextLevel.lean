@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationRules_outputLevelData_eq_nextLevel
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationRules.outputLevelData_eq_nextLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:54:31.616629+00:00
 -- url     : https://prove2.me/theorems/e01cb373-16a7-5211-8d9c-067032d5dfc6

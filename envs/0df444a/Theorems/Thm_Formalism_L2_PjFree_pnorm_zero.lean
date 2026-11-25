@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_pnorm_zero
 -- name    : Formalism.L2.PjFree.pnorm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:18.317334+00:00
 -- url     : https://prove2.me/theorems/11e19ef2-ae46-5bf8-9885-cffc0db5135c

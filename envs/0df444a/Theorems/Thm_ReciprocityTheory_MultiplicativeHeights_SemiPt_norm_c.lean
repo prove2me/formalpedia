@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_norm_c
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.norm_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:03:38.348871+00:00
 -- url     : https://prove2.me/theorems/4a2dd39d-7d61-4624-a6eb-622fb1bac7d9

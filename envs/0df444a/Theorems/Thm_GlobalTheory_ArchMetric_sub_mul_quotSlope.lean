@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_sub_mul_quotSlope
 -- name    : GlobalTheory.ArchMetric.sub_mul_quotSlope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:57:19.146814+00:00
 -- url     : https://prove2.me/theorems/0f1273d4-b6a5-4e79-a4e6-521ea1626814

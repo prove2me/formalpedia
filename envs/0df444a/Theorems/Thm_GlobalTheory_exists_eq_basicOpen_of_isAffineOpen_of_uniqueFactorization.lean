@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_eq_basicOpen_of_isAffineOpen_of_uniqueFactorization
 -- name    : GlobalTheory.exists_eq_basicOpen_of_isAffineOpen_of_uniqueFactorization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:07:22.558816+00:00
 -- url     : https://prove2.me/theorems/fe1e52cb-4972-4cd8-8d00-e5faa3c70540

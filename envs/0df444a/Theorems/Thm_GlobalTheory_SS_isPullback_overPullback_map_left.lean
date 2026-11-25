@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_isPullback_overPullback_map_left
 -- name    : GlobalTheory.SS.isPullback_overPullback_map_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:09:43.473207+00:00
 -- url     : https://prove2.me/theorems/50183086-9893-4622-8236-866134b60f6d

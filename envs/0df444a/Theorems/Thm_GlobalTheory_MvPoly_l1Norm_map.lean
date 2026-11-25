@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_l1Norm_map
 -- name    : GlobalTheory.MvPoly.l1Norm_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:26.568163+00:00
 -- url     : https://prove2.me/theorems/2d7a88f2-ed69-419b-b8b4-02b605dd1245

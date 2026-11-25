@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqGlue_expUniqRaw
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqGlue.expUniqRaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:44:26.85883+00:00
 -- url     : https://prove2.me/theorems/d92c87cf-aded-4dd8-9f77-02d08d617e68

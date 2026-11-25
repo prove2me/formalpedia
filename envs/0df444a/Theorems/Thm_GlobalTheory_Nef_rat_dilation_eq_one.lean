@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_rat_dilation_eq_one
 -- name    : GlobalTheory.Nef.rat_dilation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:19:55.323887+00:00
 -- url     : https://prove2.me/theorems/6546a293-1b9b-4ebd-8190-a457e2bbd425

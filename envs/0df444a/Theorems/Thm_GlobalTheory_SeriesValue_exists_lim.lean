@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesValue_exists_lim
 -- name    : GlobalTheory.SeriesValue.exists_lim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:50:46.891169+00:00
 -- url     : https://prove2.me/theorems/d1f9b73b-538b-4892-a851-c71914857335

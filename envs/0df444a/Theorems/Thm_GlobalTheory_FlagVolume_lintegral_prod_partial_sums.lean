@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagVolume_lintegral_prod_partial_sums
 -- name    : GlobalTheory.FlagVolume.lintegral_prod_partial_sums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:14.217435+00:00
 -- url     : https://prove2.me/theorems/2e9fad55-eaff-51a5-ae68-ec57448d5458

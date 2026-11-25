@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_adjLastCol_statement
 -- name    : Formalism.FourierDecayAlt.P.adjLastCol_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:25.043913+00:00
 -- url     : https://prove2.me/theorems/667a52a8-1e9c-448b-818e-a6eeafe2848c

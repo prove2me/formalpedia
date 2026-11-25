@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_triv_rat
 -- name    : Formalism.L2.Col.GSD.triv_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:43:10.323525+00:00
 -- url     : https://prove2.me/theorems/07d5d6cb-839c-44ad-bc35-b0da356f9942

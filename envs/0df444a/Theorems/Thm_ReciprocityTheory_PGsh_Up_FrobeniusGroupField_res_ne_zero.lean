@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_res_ne_zero
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.res_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:45.360802+00:00
 -- url     : https://prove2.me/theorems/6b52d5cd-579e-48b6-a356-38248d054a45

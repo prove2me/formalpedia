@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_levelFourierDatum_eq_iff
 -- name    : GlobalTheory.LevelPairing.levelFourierDatum_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:15:01.107116+00:00
 -- url     : https://prove2.me/theorems/7c7adac9-9b38-52e3-9820-3cf521fef479

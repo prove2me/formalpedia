@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvA_prod_exp
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvA.prod_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:50:59.752001+00:00
 -- url     : https://prove2.me/theorems/aebac55a-c739-4f92-9442-a833d0c31c31

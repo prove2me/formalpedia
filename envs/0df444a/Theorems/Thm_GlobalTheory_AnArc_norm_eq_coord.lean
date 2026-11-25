@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_norm_eq_coord
 -- name    : GlobalTheory.AnArc.norm_eq_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:55:54.339846+00:00
 -- url     : https://prove2.me/theorems/ff54bc35-4006-543a-9b6e-db0a4b1309be

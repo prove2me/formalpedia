@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianModel_charpoly_eq_and_unitary
 -- name    : GlobalTheory.T.hermitianModel_charpoly_eq_and_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:27.287333+00:00
 -- url     : https://prove2.me/theorems/e17b26ef-fd2d-4ac0-8396-c5174f90c2d0

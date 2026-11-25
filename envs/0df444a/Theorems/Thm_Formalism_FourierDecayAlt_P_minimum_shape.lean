@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_minimum_shape
 -- name    : Formalism.FourierDecayAlt.P.minimum_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:33:48.72713+00:00
 -- url     : https://prove2.me/theorems/0e9341eb-aba6-5669-913d-eacad9eca9a8

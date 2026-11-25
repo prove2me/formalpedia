@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_dualGram_norm
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.dualGram_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:01:11.830954+00:00
 -- url     : https://prove2.me/theorems/0116bc77-ff51-4298-ba6f-8e49e94211b0

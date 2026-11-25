@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_unique_square_root_near_one
 -- name    : GlobalTheory.T.local_unique_square_root_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:31.656846+00:00
 -- url     : https://prove2.me/theorems/5afe2409-bee9-4cd3-a534-4a9d984c6803

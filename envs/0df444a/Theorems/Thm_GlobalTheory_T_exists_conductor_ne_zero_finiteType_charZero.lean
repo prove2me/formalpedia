@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_conductor_ne_zero_finiteType_charZero
 -- name    : GlobalTheory.T.exists_conductor_ne_zero_finiteType_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:16:25.304813+00:00
 -- url     : https://prove2.me/theorems/9f9287d4-0504-447f-bb8f-c82ee602e10a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_coordSubspaceIdeal_empty
 -- name    : FunctorialResolution.EmbeddedResolution.coordSubspaceIdeal_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:52:48.451067+00:00
 -- url     : https://prove2.me/theorems/181e7566-8cc5-5103-8fbd-9422e075b01d

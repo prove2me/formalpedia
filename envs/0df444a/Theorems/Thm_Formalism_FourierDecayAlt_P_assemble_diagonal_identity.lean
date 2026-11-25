@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_assemble_diagonal_identity
 -- name    : Formalism.FourierDecayAlt.P.assemble_diagonal_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:29:48.699535+00:00
 -- url     : https://prove2.me/theorems/6456358f-c61b-44a2-aae0-b2d8f1628e42

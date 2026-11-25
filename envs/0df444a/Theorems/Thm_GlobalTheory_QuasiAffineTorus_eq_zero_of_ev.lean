@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuasiAffineTorus_eq_zero_of_ev
 -- name    : GlobalTheory.QuasiAffineTorus.eq_zero_of_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:43:40.988351+00:00
 -- url     : https://prove2.me/theorems/2cbcf10a-ff60-492b-b2ec-886fae8bf551

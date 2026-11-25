@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flat_of_flat_comp_of_map_maximalIdeal_eq
 -- name    : GlobalTheory.T.flat_of_flat_comp_of_map_maximalIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:27.97949+00:00
 -- url     : https://prove2.me/theorems/18501ca6-f451-44e7-b0ea-ef8649682746

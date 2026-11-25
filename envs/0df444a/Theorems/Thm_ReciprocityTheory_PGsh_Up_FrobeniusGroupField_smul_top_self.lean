@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_smul_top_self
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.smul_top_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:24.223483+00:00
 -- url     : https://prove2.me/theorems/c7eb75d9-709b-4668-b201-7b0c84fdac8e

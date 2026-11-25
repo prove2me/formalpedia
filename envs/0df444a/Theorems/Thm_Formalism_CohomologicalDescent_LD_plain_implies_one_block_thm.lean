@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_plain_implies_one_block_thm
 -- name    : Formalism.CohomologicalDescent.LD.plain_implies_one_block_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:39:35.493552+00:00
 -- url     : https://prove2.me/theorems/9bc45919-e53d-4ba7-b984-eab4b6942758

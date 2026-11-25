@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SymmetricPatternGroup_psiZero_residue
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SymmetricPatternGroup.psiZero_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:09:58.62693+00:00
 -- url     : https://prove2.me/theorems/c98296d8-0b6e-4d18-94e6-3978335f4977

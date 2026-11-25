@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_CptOver_isGeom_of_surjective
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.CptOver.isGeom_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:24.535278+00:00
 -- url     : https://prove2.me/theorems/b56473e1-4866-58b9-a12a-d3281d311601

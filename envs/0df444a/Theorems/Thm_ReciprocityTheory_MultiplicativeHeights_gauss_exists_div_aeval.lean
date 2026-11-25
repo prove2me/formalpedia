@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gauss_exists_div_aeval
 -- name    : ReciprocityTheory.MultiplicativeHeights.gauss_exists_div_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:03:57.379897+00:00
 -- url     : https://prove2.me/theorems/199f360b-9d2d-5749-94b6-0104a595f836

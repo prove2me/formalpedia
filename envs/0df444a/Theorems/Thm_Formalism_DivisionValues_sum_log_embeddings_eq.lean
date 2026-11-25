@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_sum_log_embeddings_eq
 -- name    : Formalism.DivisionValues.sum_log_embeddings_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:24:20.959857+00:00
 -- url     : https://prove2.me/theorems/c77999c1-8a73-4e63-8450-700cfb64c4f0

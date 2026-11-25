@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RealCovolume_covol_of_gram
 -- name    : Formalism.L2.SG.Pf.RealCovolume.covol_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:47:29.109702+00:00
 -- url     : https://prove2.me/theorems/e03ae392-4b57-4e8d-a15e-9404fadce896

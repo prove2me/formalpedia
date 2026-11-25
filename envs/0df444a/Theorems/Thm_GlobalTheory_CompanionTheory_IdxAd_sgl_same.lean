@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_IdxAd_sgl_same
 -- name    : GlobalTheory.CompanionTheory.IdxAd.sgl_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:47.044644+00:00
 -- url     : https://prove2.me/theorems/cb0c64f7-8fb3-5a81-8752-8dde8996db7e

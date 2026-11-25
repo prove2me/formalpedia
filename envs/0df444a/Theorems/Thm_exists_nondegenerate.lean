@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_nondegenerate
 -- name    : exists_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:14:27.93445+00:00
 -- url     : https://prove2.me/theorems/e2b765de-538d-49c6-850c-3a6e15236de2

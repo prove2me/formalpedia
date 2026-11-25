@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_moveInvol
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.moveInvol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:36.116719+00:00
 -- url     : https://prove2.me/theorems/b5c187ed-a6da-50f8-9a3b-cdc837bc3fe4

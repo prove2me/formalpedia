@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_quantum_ff_zero
 -- name    : quantum_ff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:15:11.232942+00:00
 -- url     : https://prove2.me/theorems/6302b28b-fc4f-4dcb-b2ee-800955611286

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Prism_Obj_crys_quot_nontrivial
 -- name    : GlobalTheory.Prism.Obj.crys_quot_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:12.78021+00:00
 -- url     : https://prove2.me/theorems/fb987062-e1ba-556b-ba3c-e329a13c6a3a

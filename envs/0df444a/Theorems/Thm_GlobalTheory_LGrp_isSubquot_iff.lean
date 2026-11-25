@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_isSubquot_iff
 -- name    : GlobalTheory.LGrp.isSubquot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:04.348361+00:00
 -- url     : https://prove2.me/theorems/3ee2178a-8655-593f-ba59-a7d68e177889

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gauss_height_const_eq_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.gauss_height_const_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:06.611825+00:00
 -- url     : https://prove2.me/theorems/6dc4134d-69a7-55d7-b338-14be81eb57c3

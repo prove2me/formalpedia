@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_countAt_of_trace_eq_zero
 -- name    : GlobalTheory.BadShare.Basic.countAt_of_trace_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:12.204112+00:00
 -- url     : https://prove2.me/theorems/98d96c65-ea12-536f-80f2-e1e2673f872d

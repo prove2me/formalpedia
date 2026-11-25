@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocWeil_DerComm_der_comm
 -- name    : GlobalTheory.LocWeil.DerComm.der_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:13:28.104576+00:00
 -- url     : https://prove2.me/theorems/95c5b277-a452-5c54-99ac-201ce63346cb

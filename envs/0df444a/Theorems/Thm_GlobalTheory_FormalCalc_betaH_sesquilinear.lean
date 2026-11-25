@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_betaH_sesquilinear
 -- name    : GlobalTheory.FormalCalc.betaH_sesquilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:24.704962+00:00
 -- url     : https://prove2.me/theorems/8f63e0d7-7fbc-5d37-991d-d7e3e093d4b1

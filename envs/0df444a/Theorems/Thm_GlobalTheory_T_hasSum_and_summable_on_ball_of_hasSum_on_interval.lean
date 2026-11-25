@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_and_summable_on_ball_of_hasSum_on_interval
 -- name    : GlobalTheory.T.hasSum_and_summable_on_ball_of_hasSum_on_interval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:37.714844+00:00
 -- url     : https://prove2.me/theorems/29c2a3be-59c8-56c8-933b-04f97e7d43f9

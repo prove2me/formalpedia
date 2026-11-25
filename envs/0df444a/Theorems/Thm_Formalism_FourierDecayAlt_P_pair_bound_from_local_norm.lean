@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_pair_bound_from_local_norm
 -- name    : Formalism.FourierDecayAlt.P.pair_bound_from_local_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:36:37.316263+00:00
 -- url     : https://prove2.me/theorems/d3092851-1125-5a59-99e3-4ce600e3efae

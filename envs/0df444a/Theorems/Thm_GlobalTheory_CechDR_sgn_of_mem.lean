@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_sgn_of_mem
 -- name    : GlobalTheory.CechDR.sgn_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:57:56.622253+00:00
 -- url     : https://prove2.me/theorems/e40027c9-3410-5bff-9c4b-93a542093e31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CovariantSecondFundamentalForm_SameJet_secDbar
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CovariantSecondFundamentalForm.SameJet.secDbar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:11.799247+00:00
 -- url     : https://prove2.me/theorems/86c9a267-0ad8-5ebd-89b1-4bec63b203b2

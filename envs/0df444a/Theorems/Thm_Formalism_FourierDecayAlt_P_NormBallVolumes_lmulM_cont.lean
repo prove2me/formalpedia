@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NormBallVolumes_lmulM_cont
 -- name    : Formalism.FourierDecayAlt.P.NormBallVolumes.lmulM_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:27:58.954854+00:00
 -- url     : https://prove2.me/theorems/c237f7b2-a672-4579-b02c-c6991177c407

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_TwoFormSum_coordPair_nat
 -- name    : GlobalTheory.AbCoh.TwoFormSum.coordPair_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:55:17.873704+00:00
 -- url     : https://prove2.me/theorems/93d8ec12-a94a-42e5-9c31-3ce4c261cbf7

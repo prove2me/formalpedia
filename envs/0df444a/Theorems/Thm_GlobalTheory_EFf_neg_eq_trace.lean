@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EFf_neg_eq_trace
 -- name    : GlobalTheory.EFf_neg_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:38:24.624842+00:00
 -- url     : https://prove2.me/theorems/99605aff-62dc-4783-a186-d770c24f9603

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_sum_erase_update
 -- name    : ReciprocityTheory.PGsh.Up.sum_erase_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:08:18.271988+00:00
 -- url     : https://prove2.me/theorems/a8ed886c-f064-5b66-9a83-7e14bf95990c

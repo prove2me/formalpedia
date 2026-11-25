@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1hw_tv_apply
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1hw.tv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:06.115337+00:00
 -- url     : https://prove2.me/theorems/b8b2a02f-2588-5272-ae51-0d192618fb0e

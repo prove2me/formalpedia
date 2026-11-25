@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_hess_bound_bcf9207f9557
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_hess_bound_bcf9207f9557
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:57.725935+00:00
 -- url     : https://prove2.me/theorems/bf7c699c-0f36-461a-ba7b-7454daa26490

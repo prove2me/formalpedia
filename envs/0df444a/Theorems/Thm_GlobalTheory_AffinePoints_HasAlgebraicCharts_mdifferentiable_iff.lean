@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_HasAlgebraicCharts_mdifferentiable_iff
 -- name    : GlobalTheory.AffinePoints.HasAlgebraicCharts.mdifferentiable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:54.756536+00:00
 -- url     : https://prove2.me/theorems/74082c0e-5db8-5e2d-a7b5-5e54703e6f5d

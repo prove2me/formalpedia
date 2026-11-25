@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unit_stratum_share
 -- name    : Formalism.FourierDecayAlt.P.unit_stratum_share
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:36:35.456237+00:00
 -- url     : https://prove2.me/theorems/fd9f38c8-3380-5b44-aea2-2c55c1cfef07

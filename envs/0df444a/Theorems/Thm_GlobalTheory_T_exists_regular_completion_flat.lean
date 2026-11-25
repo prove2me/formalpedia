@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_regular_completion_flat
 -- name    : GlobalTheory.T.exists_regular_completion_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:30:49.354533+00:00
 -- url     : https://prove2.me/theorems/c5415932-7fcc-46e4-b400-6e0ae9104f3c

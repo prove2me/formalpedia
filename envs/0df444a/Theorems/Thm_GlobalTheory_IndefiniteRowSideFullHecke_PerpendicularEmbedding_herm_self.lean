@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PerpendicularEmbedding_herm_self
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PerpendicularEmbedding.herm_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:09:48.99481+00:00
 -- url     : https://prove2.me/theorems/0f968641-88f1-4728-a12b-3fd64ada143f

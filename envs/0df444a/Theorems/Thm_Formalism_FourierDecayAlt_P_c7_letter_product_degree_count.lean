@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c7_letter_product_degree_count
 -- name    : Formalism.FourierDecayAlt.P.c7_letter_product_degree_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:36:51.8366+00:00
 -- url     : https://prove2.me/theorems/edc3d2da-8021-5a2b-9fd6-00faacc73b87

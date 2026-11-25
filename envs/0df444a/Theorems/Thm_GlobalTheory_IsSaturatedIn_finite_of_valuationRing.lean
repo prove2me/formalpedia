@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSaturatedIn_finite_of_valuationRing
 -- name    : GlobalTheory.IsSaturatedIn.finite_of_valuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:06.980685+00:00
 -- url     : https://prove2.me/theorems/537c9e92-3cb7-532e-9f47-8381bfaaa358

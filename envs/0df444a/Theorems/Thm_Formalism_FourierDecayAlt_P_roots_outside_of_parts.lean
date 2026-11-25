@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_roots_outside_of_parts
 -- name    : Formalism.FourierDecayAlt.P.roots_outside_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:35.836919+00:00
 -- url     : https://prove2.me/theorems/414b0cc0-0ae5-42c2-831d-62513ef24500

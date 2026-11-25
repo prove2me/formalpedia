@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_KT_mem_def
 -- name    : GlobalTheory.Glue.KT.mem_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:03.052488+00:00
 -- url     : https://prove2.me/theorems/b2ae899b-b78a-5799-950a-5f0ceb8aa551

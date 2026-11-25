@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolCoef_coef_one
 -- name    : GlobalTheory.CompanionTheory.HolCoef.coef_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:58.344321+00:00
 -- url     : https://prove2.me/theorems/e35dcd9a-257a-4af5-947a-787a35c6c13f

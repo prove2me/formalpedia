@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_charpoly_dvd_of_aeval_eq_zero_alt
 -- name    : GlobalTheory.T.charpoly_dvd_of_aeval_eq_zero_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:31:45.288435+00:00
 -- url     : https://prove2.me/theorems/f282785e-21c4-5220-a578-fc53c7bb30ba

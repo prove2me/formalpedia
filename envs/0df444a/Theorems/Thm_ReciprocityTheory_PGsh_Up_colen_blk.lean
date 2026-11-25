@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_colen_blk
 -- name    : ReciprocityTheory.PGsh.Up.colen_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:08:40.326629+00:00
 -- url     : https://prove2.me/theorems/3beb22f9-d0fa-4288-a0f9-95696185edf5

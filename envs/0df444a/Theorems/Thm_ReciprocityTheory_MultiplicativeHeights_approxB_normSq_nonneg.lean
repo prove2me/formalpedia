@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_approxB_normSq_nonneg
 -- name    : ReciprocityTheory.MultiplicativeHeights.approxB_normSq_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:03:23.766187+00:00
 -- url     : https://prove2.me/theorems/c8c0c16c-cce6-4d83-886a-ad35d2f44602

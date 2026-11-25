@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_tilde_adjoint_formula
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.tilde_adjoint_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:30.091847+00:00
 -- url     : https://prove2.me/theorems/0c1c90cd-0e98-4d45-ab87-843ef9673e41

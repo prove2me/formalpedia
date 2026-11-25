@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_orthogonal_splitting
 -- name    : Formalism.HermitianLatticeCounting.P.orthogonal_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:24.112412+00:00
 -- url     : https://prove2.me/theorems/06a5397c-d1a0-5ad3-8fd0-adbd2a96aa17

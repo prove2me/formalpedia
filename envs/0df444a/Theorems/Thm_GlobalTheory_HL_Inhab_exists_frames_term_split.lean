@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_exists_frames_term_split
 -- name    : GlobalTheory.HL.Inhab.exists_frames_term_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:12:35.16903+00:00
 -- url     : https://prove2.me/theorems/c7e81784-b2c9-53e2-a31a-0154eecd651d

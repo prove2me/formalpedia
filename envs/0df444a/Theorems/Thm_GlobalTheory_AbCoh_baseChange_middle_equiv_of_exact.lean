@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_baseChange_middle_equiv_of_exact
 -- name    : GlobalTheory.AbCoh.baseChange_middle_equiv_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:06:13.490324+00:00
 -- url     : https://prove2.me/theorems/18234058-59ed-54da-bbad-1487260eea67

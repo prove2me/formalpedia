@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_continuous_inner_orbit
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.continuous_inner_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:15:45.548335+00:00
 -- url     : https://prove2.me/theorems/067375ff-714d-5152-91cc-a61e0980ed08

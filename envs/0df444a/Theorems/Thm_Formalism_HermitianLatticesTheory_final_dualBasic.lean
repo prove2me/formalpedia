@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_final_dualBasic
 -- name    : Formalism.HermitianLatticesTheory.final_dualBasic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:44:37.763528+00:00
 -- url     : https://prove2.me/theorems/372ddea6-0564-5eb0-81f9-639b389f59a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_degreePowerSumMulEqZero
 -- name    : Formalism.DegreeFormula.degreePowerSumMulEqZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:47.062195+00:00
 -- url     : https://prove2.me/theorems/178e96de-e650-466a-abaf-13dc29393839

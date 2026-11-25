@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_BernoulliSumsFrobeniusOrbits_orbit_sum
 -- name    : UpperTheory.BernoulliSumsFrobeniusOrbits.orbit_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:12:04.163878+00:00
 -- url     : https://prove2.me/theorems/3d47b274-c749-5bff-bab1-e447aa9359ab

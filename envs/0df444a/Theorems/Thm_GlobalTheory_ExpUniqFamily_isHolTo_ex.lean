@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpUniqFamily_isHolTo_ex
 -- name    : GlobalTheory.ExpUniqFamily.isHolTo_ex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:09:56.850266+00:00
 -- url     : https://prove2.me/theorems/d13ef562-f53d-5595-83ec-65a015c1cac6

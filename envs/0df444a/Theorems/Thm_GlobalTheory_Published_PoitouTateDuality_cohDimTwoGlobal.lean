@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTateDuality_cohDimTwoGlobal
 -- name    : GlobalTheory.Published.PoitouTateDuality.cohDimTwoGlobal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:16:18.137741+00:00
 -- url     : https://prove2.me/theorems/666212f2-9fe4-55d3-93c4-388679454d35

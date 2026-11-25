@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CM_TenExp_exists_diagonal_coordinates
 -- name    : GlobalTheory.CM.TenExp.exists_diagonal_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:47.815836+00:00
 -- url     : https://prove2.me/theorems/cdda74bc-3074-469e-892c-80b24db897a5

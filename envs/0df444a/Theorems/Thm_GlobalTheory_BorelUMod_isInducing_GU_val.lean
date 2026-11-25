@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_isInducing_GU_val
 -- name    : GlobalTheory.BorelUMod.isInducing_GU_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:07.513145+00:00
 -- url     : https://prove2.me/theorems/490b0578-e9ca-58bc-8c76-dfdfa27648d9

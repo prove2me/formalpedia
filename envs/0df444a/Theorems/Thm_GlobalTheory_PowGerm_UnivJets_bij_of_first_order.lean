@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivJets_bij_of_first_order
 -- name    : GlobalTheory.PowGerm.UnivJets.bij_of_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:06:41.890818+00:00
 -- url     : https://prove2.me/theorems/395742b5-c3af-50ab-af3e-4dd4ebecd3fa

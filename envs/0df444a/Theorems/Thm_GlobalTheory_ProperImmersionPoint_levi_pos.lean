@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_levi_pos
 -- name    : GlobalTheory.ProperImmersionPoint.levi_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:50:32.288838+00:00
 -- url     : https://prove2.me/theorems/df09a1ef-2751-5bb8-95ee-ec6d84e04e56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_mem_unipOf
 -- name    : GlobalTheory.Doubling.mem_unipOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:03.999271+00:00
 -- url     : https://prove2.me/theorems/385de5e1-3104-40b5-833f-72959dd3e1f6

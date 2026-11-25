@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGJ_adVal
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGJ.adVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:59:46.755116+00:00
 -- url     : https://prove2.me/theorems/878e8499-48f4-40d7-8a4f-f3629e200c15

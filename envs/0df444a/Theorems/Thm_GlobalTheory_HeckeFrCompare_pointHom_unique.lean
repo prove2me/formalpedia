@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_pointHom_unique
 -- name    : GlobalTheory.HeckeFrCompare.pointHom_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:59:30.087676+00:00
 -- url     : https://prove2.me/theorems/ba5755b3-ccb3-5931-89ab-141d691ddf6f

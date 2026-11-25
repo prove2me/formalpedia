@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_sublattices_quotient_prod_degree_one_primes
 -- name    : GlobalTheory.T.card_sublattices_quotient_prod_degree_one_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:27:32.324371+00:00
 -- url     : https://prove2.me/theorems/1b378199-87e0-5d33-af13-bfdab7bfa072

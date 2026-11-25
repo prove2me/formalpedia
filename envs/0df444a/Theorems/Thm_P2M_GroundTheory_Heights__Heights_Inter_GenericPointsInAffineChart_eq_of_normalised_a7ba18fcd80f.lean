@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_GenericPointsInAffineChart_eq_of_normalised_a7ba18fcd80f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_GenericPointsInAffineChart_eq_of_normalised_a7ba18fcd80f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:54:34.192093+00:00
 -- url     : https://prove2.me/theorems/b46593f0-d188-40da-8a04-a7eb977365e7

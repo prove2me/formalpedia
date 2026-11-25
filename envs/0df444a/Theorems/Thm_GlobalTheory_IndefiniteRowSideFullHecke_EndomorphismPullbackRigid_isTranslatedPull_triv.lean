@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_EndomorphismPullbackRigid_isTranslatedPull_triv
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.EndomorphismPullbackRigid.isTranslatedPull_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:10:33.082549+00:00
 -- url     : https://prove2.me/theorems/37090829-4cfe-4f24-b5c6-deec9cf8ca61

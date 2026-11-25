@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PhiCMin_casimir
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PhiCMin.casimir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:51:25.814478+00:00
 -- url     : https://prove2.me/theorems/5ad7c05e-492d-51f0-a28f-91392c62079d

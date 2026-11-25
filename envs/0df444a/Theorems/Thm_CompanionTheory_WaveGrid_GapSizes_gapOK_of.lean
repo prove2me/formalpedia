@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_GapSizes_gapOK_of
 -- name    : CompanionTheory.WaveGrid.GapSizes.gapOK_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:18:24.284962+00:00
 -- url     : https://prove2.me/theorems/df64df55-747d-4703-9047-69ab523a7f85

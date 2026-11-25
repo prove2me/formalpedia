@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_plusLogDeriv_of
 -- name    : Formalism.L2.Th1.A.plusLogDeriv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:47:49.450366+00:00
 -- url     : https://prove2.me/theorems/adab126f-a741-5a81-bab0-c2b17866e685

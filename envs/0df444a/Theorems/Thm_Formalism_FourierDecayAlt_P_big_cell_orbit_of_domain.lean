@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_big_cell_orbit_of_domain
 -- name    : Formalism.FourierDecayAlt.P.big_cell_orbit_of_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:40:34.626351+00:00
 -- url     : https://prove2.me/theorems/dd388c98-6a78-47e4-b528-27ba596be813

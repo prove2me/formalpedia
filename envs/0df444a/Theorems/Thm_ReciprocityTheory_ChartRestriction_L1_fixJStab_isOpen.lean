@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_fixJStab_isOpen
 -- name    : ReciprocityTheory.ChartRestriction.L1.fixJStab_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:32:21.334117+00:00
 -- url     : https://prove2.me/theorems/6a08a895-04b9-42c2-8038-a13a6555de53

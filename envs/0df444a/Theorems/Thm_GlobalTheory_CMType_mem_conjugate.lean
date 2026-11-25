@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMType_mem_conjugate
 -- name    : GlobalTheory.CMType.mem_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:45.205235+00:00
 -- url     : https://prove2.me/theorems/10300ebc-9ce7-5b03-b393-bd918f8ea848

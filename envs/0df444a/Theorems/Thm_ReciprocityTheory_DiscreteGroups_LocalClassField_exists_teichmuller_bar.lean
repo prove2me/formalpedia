@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_teichmuller_bar
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_teichmuller_bar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:08.70106+00:00
 -- url     : https://prove2.me/theorems/adfccde8-0307-4079-8beb-7653f93958b4

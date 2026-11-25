@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_form_orthLift_incl
 -- name    : GlobalTheory.HermFrame.form_orthLift_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:59.592637+00:00
 -- url     : https://prove2.me/theorems/0d99734f-0439-5eb1-aec3-5a8d2d35e166

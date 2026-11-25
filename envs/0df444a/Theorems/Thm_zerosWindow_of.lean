@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_zerosWindow_of
 -- name    : zerosWindow_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:16:09.8788+00:00
 -- url     : https://prove2.me/theorems/95854bc7-2b05-5797-9cbe-d6856c463175

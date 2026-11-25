@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_integralClosureRank
 -- name    : ReciprocityTheory.MultiplicativeHeights.integralClosureRank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:09.20388+00:00
 -- url     : https://prove2.me/theorems/dd88b156-74da-4011-8b15-b847e3d36b19

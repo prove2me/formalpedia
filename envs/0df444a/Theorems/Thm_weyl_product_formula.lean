@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_weyl_product_formula
 -- name    : weyl_product_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:19:20.854941+00:00
 -- url     : https://prove2.me/theorems/59008297-4dfd-5b3c-9b23-901a54a28c03

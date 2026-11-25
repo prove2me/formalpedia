@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_wirtinger_integration_by_parts
 -- name    : Formalism.FourierDecayAlt.P.wirtinger_integration_by_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:07.191078+00:00
 -- url     : https://prove2.me/theorems/508c5c13-be05-5db4-ad08-d818d1ad113e

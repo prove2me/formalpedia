@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvariantSupremum_fixed_mem_of_mem_iSup_range
 -- name    : GlobalTheory.InvariantSupremum.fixed_mem_of_mem_iSup_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:10:38.829844+00:00
 -- url     : https://prove2.me/theorems/2cf927bb-23ee-5841-9003-813cc26765c4

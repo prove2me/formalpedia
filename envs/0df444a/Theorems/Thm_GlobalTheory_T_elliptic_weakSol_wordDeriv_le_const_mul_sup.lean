@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_elliptic_weakSol_wordDeriv_le_const_mul_sup
 -- name    : GlobalTheory.T.elliptic_weakSol_wordDeriv_le_const_mul_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:33:27.465349+00:00
 -- url     : https://prove2.me/theorems/3f7f774a-1f2f-4abb-a90a-cc535fcd6dba

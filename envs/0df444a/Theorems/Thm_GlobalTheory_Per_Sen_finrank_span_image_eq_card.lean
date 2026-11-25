@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Per_Sen_finrank_span_image_eq_card
 -- name    : GlobalTheory.Per.Sen.finrank_span_image_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:32.301869+00:00
 -- url     : https://prove2.me/theorems/603b5486-0abc-413e-b2a3-0ae10ca45bed

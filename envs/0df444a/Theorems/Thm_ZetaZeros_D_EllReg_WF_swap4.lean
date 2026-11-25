@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WF_swap4
 -- name    : ZetaZeros.D.EllReg.WF.swap4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:36.248389+00:00
 -- url     : https://prove2.me/theorems/ba4e6c1b-388e-4118-9e64-ec60f1e0ed32

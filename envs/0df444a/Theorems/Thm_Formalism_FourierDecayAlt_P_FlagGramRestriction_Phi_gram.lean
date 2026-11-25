@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagGramRestriction_Phi_gram
 -- name    : Formalism.FourierDecayAlt.P.FlagGramRestriction.Phi_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:42:49.689853+00:00
 -- url     : https://prove2.me/theorems/60f7038a-ea9d-4668-ae31-20aea48ca1da

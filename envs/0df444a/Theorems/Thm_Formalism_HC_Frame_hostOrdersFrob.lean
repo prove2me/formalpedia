@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hostOrdersFrob
 -- name    : Formalism.HC.Frame.hostOrdersFrob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:37.112913+00:00
 -- url     : https://prove2.me/theorems/2bd49757-4aa0-4eaf-b12e-993b76ae85c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_norm_iteratedDeriv_weierstrassP_le_one
 -- name    : GlobalTheory.Klein.norm_iteratedDeriv_weierstrassP_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:17:37.94355+00:00
 -- url     : https://prove2.me/theorems/2fcd28e4-7b91-51b7-bdc2-c4e64ba279c8

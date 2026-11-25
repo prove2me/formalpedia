@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Model_rat_finite_place
 -- name    : GlobalTheory.QuadSymbol.Model.rat_finite_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:20.514998+00:00
 -- url     : https://prove2.me/theorems/b372b2b4-81fe-49b0-b454-4b5f24692da1

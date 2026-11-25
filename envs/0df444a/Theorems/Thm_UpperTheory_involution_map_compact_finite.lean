@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_involution_map_compact_finite
 -- name    : UpperTheory.involution_map_compact_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:44.065448+00:00
 -- url     : https://prove2.me/theorems/c31f84e6-b195-4434-98b1-7dddee534197

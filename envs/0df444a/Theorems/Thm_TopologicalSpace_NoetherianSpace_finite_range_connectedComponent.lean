@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopologicalSpace_NoetherianSpace_finite_range_connectedComponent
 -- name    : TopologicalSpace.NoetherianSpace.finite_range_connectedComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:10:40.936004+00:00
 -- url     : https://prove2.me/theorems/8f2a6ca4-5a9c-42d0-a33d-591b1e299820

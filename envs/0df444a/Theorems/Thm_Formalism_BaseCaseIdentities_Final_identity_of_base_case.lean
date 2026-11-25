@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Final_identity_of_base_case
 -- name    : Formalism.BaseCaseIdentities.Final.identity_of_base_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:23:32.766268+00:00
 -- url     : https://prove2.me/theorems/a1490b73-88e0-428b-882b-d3cf6460293e

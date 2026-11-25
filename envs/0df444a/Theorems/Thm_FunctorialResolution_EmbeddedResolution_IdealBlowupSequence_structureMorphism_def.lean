@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IdealBlowupSequence_structureMorphism_def
 -- name    : FunctorialResolution.EmbeddedResolution.IdealBlowupSequence.structureMorphism_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:54:17.022075+00:00
 -- url     : https://prove2.me/theorems/6bbdcf39-2b41-58b7-8ef7-58aa2833b466

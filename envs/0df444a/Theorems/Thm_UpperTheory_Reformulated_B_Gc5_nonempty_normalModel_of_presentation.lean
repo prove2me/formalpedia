@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Gc5_nonempty_normalModel_of_presentation
 -- name    : UpperTheory.Reformulated.B.Gc5.nonempty_normalModel_of_presentation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:46.492185+00:00
 -- url     : https://prove2.me/theorems/610c4547-8d99-4593-93c2-c6415c3d9650

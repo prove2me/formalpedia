@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_IsGenericFlag_of_indep
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.IsGenericFlag.of_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:59:28.969825+00:00
 -- url     : https://prove2.me/theorems/1aa3ab87-1d79-5302-9619-6174538d753d

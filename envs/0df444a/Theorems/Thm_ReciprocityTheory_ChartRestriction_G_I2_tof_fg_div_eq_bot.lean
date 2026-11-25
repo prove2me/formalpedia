@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_tof_fg_div_eq_bot
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.tof_fg_div_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:09:47.426902+00:00
 -- url     : https://prove2.me/theorems/f030a8a7-f2ea-4e28-bcd6-eaea59ed4f5f

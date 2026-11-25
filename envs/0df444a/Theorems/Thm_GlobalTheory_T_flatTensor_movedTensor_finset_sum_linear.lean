@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flatTensor_movedTensor_finset_sum_linear
 -- name    : GlobalTheory.T.flatTensor_movedTensor_finset_sum_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:16.354562+00:00
 -- url     : https://prove2.me/theorems/bf639b95-8ca7-5076-9984-b36abda55e60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitSphereMeasure_finite_support_log_gaussAbsValue
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitSphereMeasure.finite_support_log_gaussAbsValue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:36.376665+00:00
 -- url     : https://prove2.me/theorems/879f4561-5852-4b9f-8784-9c22210081f4

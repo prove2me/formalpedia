@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_idl_eq_iff
 -- name    : GlobalTheory.IdealChain.idl_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:38.115708+00:00
 -- url     : https://prove2.me/theorems/a31d770d-9608-4704-b2bd-6c5ebd2a0b7f

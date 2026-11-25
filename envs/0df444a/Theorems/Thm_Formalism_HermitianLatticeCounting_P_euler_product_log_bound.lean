@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_euler_product_log_bound
 -- name    : Formalism.HermitianLatticeCounting.P.euler_product_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:39:20.948928+00:00
 -- url     : https://prove2.me/theorems/0c62ca1f-b5c0-419e-b742-7cd2a2f29b0f

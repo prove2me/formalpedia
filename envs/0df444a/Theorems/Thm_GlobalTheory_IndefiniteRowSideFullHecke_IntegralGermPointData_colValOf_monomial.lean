@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_IntegralGermPointData_colValOf_monomial
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.IntegralGermPointData.colValOf_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:09:07.983156+00:00
 -- url     : https://prove2.me/theorems/b47d23cd-0a7f-41da-985f-b8c0d20fc121

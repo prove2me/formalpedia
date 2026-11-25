@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_hasSatake_GL_one
 -- name    : GlobalTheory.LGrp.hasSatake_GL_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:21:16.546346+00:00
 -- url     : https://prove2.me/theorems/5e3f52df-6730-556d-971b-a5cd39c89fca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RingGlue_homOfLE_loc
 -- name    : GlobalTheory.RingGlue.homOfLE_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:59:45.843042+00:00
 -- url     : https://prove2.me/theorems/3aa883ab-997a-4c99-9130-ca0c293fe383

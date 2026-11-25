@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_zero_count_range
 -- name    : Formalism.IrreducibleCountingLemmas.Z.zero_count_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:43:46.892018+00:00
 -- url     : https://prove2.me/theorems/a040bf0f-c5f7-43f6-80f4-5e42dc083ef3

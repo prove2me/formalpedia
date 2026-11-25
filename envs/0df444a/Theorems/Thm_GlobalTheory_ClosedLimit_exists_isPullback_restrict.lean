@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedLimit_exists_isPullback_restrict
 -- name    : GlobalTheory.ClosedLimit.exists_isPullback_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:55:03.287979+00:00
 -- url     : https://prove2.me/theorems/b039d147-a078-51ed-8a90-619506d866e0

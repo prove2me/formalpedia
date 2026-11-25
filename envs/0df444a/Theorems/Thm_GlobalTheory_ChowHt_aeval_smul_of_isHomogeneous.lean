@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_aeval_smul_of_isHomogeneous
 -- name    : GlobalTheory.ChowHt.aeval_smul_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:01:16.032685+00:00
 -- url     : https://prove2.me/theorems/78a84d7e-5ef6-4824-836b-82a03088afc3

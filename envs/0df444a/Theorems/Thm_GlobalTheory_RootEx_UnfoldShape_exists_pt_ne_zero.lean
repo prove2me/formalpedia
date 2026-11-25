@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_exists_pt_ne_zero
 -- name    : GlobalTheory.RootEx.UnfoldShape.exists_pt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:21:01.177284+00:00
 -- url     : https://prove2.me/theorems/e5da5971-6d3f-40ef-9796-7bbceb8b1706

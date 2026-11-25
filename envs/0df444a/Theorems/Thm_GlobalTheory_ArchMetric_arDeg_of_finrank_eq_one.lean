@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_arDeg_of_finrank_eq_one
 -- name    : GlobalTheory.ArchMetric.arDeg_of_finrank_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:49.194773+00:00
 -- url     : https://prove2.me/theorems/dfdf8c96-4002-4947-a653-270aba0cbf2a

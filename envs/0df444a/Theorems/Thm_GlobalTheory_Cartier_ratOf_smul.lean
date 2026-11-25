@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_ratOf_smul
 -- name    : GlobalTheory.Cartier.ratOf_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:35.412069+00:00
 -- url     : https://prove2.me/theorems/60627385-3c42-5465-810a-936ea4bb2738

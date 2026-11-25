@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_local_places_combine
 -- name    : Formalism.FourierDecayAlt.P.local_places_combine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:33:12.664802+00:00
 -- url     : https://prove2.me/theorems/b0477273-8d27-49f7-bdf1-b07c02015947

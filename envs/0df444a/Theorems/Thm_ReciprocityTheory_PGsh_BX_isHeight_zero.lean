@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_isHeight_zero
 -- name    : ReciprocityTheory.PGsh.BX.isHeight_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:06.411323+00:00
 -- url     : https://prove2.me/theorems/45f43efc-ffc7-4681-ab08-16cfd37d3366

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_extract_chebyshev_bound
 -- name    : Formalism.FourierDecayAlt.P.extract_chebyshev_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:31:01.632669+00:00
 -- url     : https://prove2.me/theorems/ba556276-b77d-4332-a537-b34c1f78b6c5

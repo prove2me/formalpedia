@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_diagonal_fixed_dimension
 -- name    : diagonal_fixed_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:18:13.533457+00:00
 -- url     : https://prove2.me/theorems/574f4e9d-6102-4534-ad10-7e26817b60c9

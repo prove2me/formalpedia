@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinsetKernelTrivial_main
 -- name    : GlobalTheory.FinsetKernelTrivial.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:04:59.953913+00:00
 -- url     : https://prove2.me/theorems/530fcf2b-5e91-539b-974d-b384665c32d2

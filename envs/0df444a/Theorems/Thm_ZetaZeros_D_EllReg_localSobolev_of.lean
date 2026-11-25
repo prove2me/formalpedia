@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_localSobolev_of
 -- name    : ZetaZeros.D.EllReg.localSobolev_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:45.309209+00:00
 -- url     : https://prove2.me/theorems/db6580d2-7d92-53ca-9426-25c4b576661d

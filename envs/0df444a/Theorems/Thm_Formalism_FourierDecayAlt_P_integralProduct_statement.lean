@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_integralProduct_statement
 -- name    : Formalism.FourierDecayAlt.P.integralProduct_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:32:13.180665+00:00
 -- url     : https://prove2.me/theorems/e35a802c-9ee5-4350-b930-d27c5d158b97

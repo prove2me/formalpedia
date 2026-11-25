@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_coe_discardedLocusOpens
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.coe_discardedLocusOpens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:40.544068+00:00
 -- url     : https://prove2.me/theorems/510155d1-b0fc-41dd-b08c-7657c611216a

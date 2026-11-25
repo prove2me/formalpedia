@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_polyInner_eq_inner
 -- name    : ReciprocityTheory.MultiplicativeHeights.polyInner_eq_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:35.316386+00:00
 -- url     : https://prove2.me/theorems/170fe836-393e-4bf4-8ecd-5f5f54328df5

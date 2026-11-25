@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSaturatedIn_span_localization
 -- name    : GlobalTheory.IsSaturatedIn.span_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:56.291253+00:00
 -- url     : https://prove2.me/theorems/6680721f-7510-5045-ac05-272ee919e96f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_prod_le_of_gen
 -- name    : ReciprocityTheory.PGsh.Up.prod_le_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:18:12.215795+00:00
 -- url     : https://prove2.me/theorems/db48e115-6f45-4b7e-a4d1-4f8e1bcd5646

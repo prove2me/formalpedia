@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_bijective_of_split_of_FP
 -- name    : GlobalTheory.AbCoh.bijective_of_split_of_FP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:57:15.854589+00:00
 -- url     : https://prove2.me/theorems/7dfbcdf8-21ab-48d8-8ed7-60d257095be2

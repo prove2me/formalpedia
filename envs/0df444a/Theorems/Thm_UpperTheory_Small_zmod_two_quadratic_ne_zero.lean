@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_zmod_two_quadratic_ne_zero
 -- name    : UpperTheory.Small.zmod_two_quadratic_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:15.573377+00:00
 -- url     : https://prove2.me/theorems/f23c575f-9b1f-59ad-9ccf-d5ec57532fae

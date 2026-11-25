@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_rational_unitary_split_denominator
 -- name    : GlobalTheory.T.exists_rational_unitary_split_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:32:14.139749+00:00
 -- url     : https://prove2.me/theorems/836a582c-6844-497d-b1d8-0fcff425de60

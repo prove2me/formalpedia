@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_theta_sq_red
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.theta_sq_red
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:54:27.658503+00:00
 -- url     : https://prove2.me/theorems/7577d316-04f5-4193-aa6d-943c305b2983

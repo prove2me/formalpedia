@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_HasSmoothCoordCodim_resLE_open
 -- name    : FunctorialResolution.EmbeddedResolution.HasSmoothCoordCodim.resLE_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:53:12.850519+00:00
 -- url     : https://prove2.me/theorems/cf5f72d7-b0d0-5796-a8d1-6764b54d4911

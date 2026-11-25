@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeomFibre_locallyQuasiFinite_of_finite_geometric_fibres
 -- name    : GlobalTheory.GeomFibre.locallyQuasiFinite_of_finite_geometric_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:29.553796+00:00
 -- url     : https://prove2.me/theorems/9ab30f0b-37d1-58bf-862b-3f222f0634c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MatSat_exists_saturation
 -- name    : GlobalTheory.CompanionTheory.MatSat.exists_saturation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:41.472203+00:00
 -- url     : https://prove2.me/theorems/e0166a39-ed49-4a13-b00e-bba40562e7be

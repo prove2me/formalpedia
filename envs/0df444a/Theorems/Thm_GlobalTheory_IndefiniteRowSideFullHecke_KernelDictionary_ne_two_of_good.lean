@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_KernelDictionary_ne_two_of_good
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.KernelDictionary.ne_two_of_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:25.729199+00:00
 -- url     : https://prove2.me/theorems/93df394a-8d81-4fcc-9418-600f5e5aac10

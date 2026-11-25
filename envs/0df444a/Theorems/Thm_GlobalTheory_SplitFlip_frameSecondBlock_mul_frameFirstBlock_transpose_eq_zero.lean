@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_frameSecondBlock_mul_frameFirstBlock_transpose_eq_zero
 -- name    : GlobalTheory.SplitFlip.frameSecondBlock_mul_frameFirstBlock_transpose_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:24:30.167933+00:00
 -- url     : https://prove2.me/theorems/3d84ff54-53c5-47f5-a0fc-81047b324f72

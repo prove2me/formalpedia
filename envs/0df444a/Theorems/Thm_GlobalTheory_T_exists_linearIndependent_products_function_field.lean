@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_linearIndependent_products_function_field
 -- name    : GlobalTheory.T.exists_linearIndependent_products_function_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:31:09.013549+00:00
 -- url     : https://prove2.me/theorems/5d3574ff-9006-581b-9205-e7d3dab2c00f

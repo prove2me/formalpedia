@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_IsHermFrame_dual
 -- name    : GlobalTheory.HermFrame.IsHermFrame.dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:41.893434+00:00
 -- url     : https://prove2.me/theorems/1366b8fc-48ef-5fdd-99e8-761597041a1f

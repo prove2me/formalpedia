@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_isom_map_unit
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_isom_map_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:00.307388+00:00
 -- url     : https://prove2.me/theorems/49248d6c-25ca-47aa-85cc-aac91bfe3e3c

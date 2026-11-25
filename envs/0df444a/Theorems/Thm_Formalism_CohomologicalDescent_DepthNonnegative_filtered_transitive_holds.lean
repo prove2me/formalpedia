@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_filtered_transitive_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.filtered_transitive_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:23:48.223056+00:00
 -- url     : https://prove2.me/theorems/44207d09-4bc9-4528-b52c-4d3e7f6d9b37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_Iso_coord_mem_delLat
 -- name    : Formalism.L2.Col.GSD.Iso.coord_mem_delLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:51:13.355918+00:00
 -- url     : https://prove2.me/theorems/cda207af-68ae-4c91-b967-3d96e0c1fba4

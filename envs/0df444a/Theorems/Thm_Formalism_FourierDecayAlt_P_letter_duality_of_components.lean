@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_letter_duality_of_components
 -- name    : Formalism.FourierDecayAlt.P.letter_duality_of_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:18.097087+00:00
 -- url     : https://prove2.me/theorems/7e10bf6d-1591-5a27-b9e7-05b9427b3edf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IntegerToRational_length_le_coheight_eQ
 -- name    : ReciprocityTheory.AnForm.R.IntegerToRational.length_le_coheight_eQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:22.887948+00:00
 -- url     : https://prove2.me/theorems/8572e388-5d8b-4ba3-bb4e-d599efa0e827

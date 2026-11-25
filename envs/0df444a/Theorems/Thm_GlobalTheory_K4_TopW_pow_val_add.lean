@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K4_TopW_pow_val_add
 -- name    : GlobalTheory.K4.TopW.pow_val_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:33.973578+00:00
 -- url     : https://prove2.me/theorems/a83701b8-588d-5825-a7fc-1a20d7a3c960

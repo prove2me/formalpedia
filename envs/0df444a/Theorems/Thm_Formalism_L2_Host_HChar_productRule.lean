@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_HChar_productRule
 -- name    : Formalism.L2.Host.HChar.productRule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:24:59.233294+00:00
 -- url     : https://prove2.me/theorems/20159de9-eb30-4f24-bb24-ee92a29593a7

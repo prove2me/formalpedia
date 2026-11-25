@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_gelfand_convolution_comm
 -- name    : gelfand_convolution_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:14:01.178493+00:00
 -- url     : https://prove2.me/theorems/65d56973-02e4-5860-8a4f-c7bed763521d

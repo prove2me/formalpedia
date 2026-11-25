@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cone_closure_arc_of_integral_image_reduction_alt
 -- name    : GlobalTheory.T.cone_closure_arc_of_integral_image_reduction_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:08.365787+00:00
 -- url     : https://prove2.me/theorems/3dc04328-61f4-419d-9e23-45a5bb074275

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_inhabited_K
 -- name    : GlobalTheory.CMVal.InhabK.inhabited_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:58:37.494792+00:00
 -- url     : https://prove2.me/theorems/12b22f88-90cc-4c21-8a4c-50ca1cf2bba0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_single_row_lattice_sum_bound
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.single_row_lattice_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:20.152895+00:00
 -- url     : https://prove2.me/theorems/ae3e052e-4449-404c-b6e6-99b32603ee8d

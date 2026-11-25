@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticEtale_mem_range_of_fixed
 -- name    : GlobalTheory.QuadraticEtale.mem_range_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:19:34.377864+00:00
 -- url     : https://prove2.me/theorems/f0695e82-67ef-48b4-b47f-46eeb8daf898

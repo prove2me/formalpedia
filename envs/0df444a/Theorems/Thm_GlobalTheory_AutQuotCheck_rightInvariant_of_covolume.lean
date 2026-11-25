@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AutQuotCheck_rightInvariant_of_covolume
 -- name    : GlobalTheory.AutQuotCheck.rightInvariant_of_covolume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:56:35.878985+00:00
 -- url     : https://prove2.me/theorems/e83ea378-994c-451a-b730-33b5f75331d9

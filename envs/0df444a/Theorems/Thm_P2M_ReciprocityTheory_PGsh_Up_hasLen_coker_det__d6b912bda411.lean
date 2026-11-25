@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_Up_hasLen_coker_det__d6b912bda411
 -- name    : P2M_ReciprocityTheory_PGsh_Up_hasLen_coker_det__d6b912bda411
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:32:02.21769+00:00
 -- url     : https://prove2.me/theorems/00f265db-ac3e-4ae1-a42e-32a2a3427de5

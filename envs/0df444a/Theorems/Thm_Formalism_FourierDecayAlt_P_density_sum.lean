@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_density_sum
 -- name    : Formalism.FourierDecayAlt.P.density_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:30:07.071128+00:00
 -- url     : https://prove2.me/theorems/d5398336-baf1-4141-85db-cfa0787389ee

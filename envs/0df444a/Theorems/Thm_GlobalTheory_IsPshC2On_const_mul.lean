@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsPshC2On_const_mul
 -- name    : GlobalTheory.IsPshC2On.const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:04.671584+00:00
 -- url     : https://prove2.me/theorems/1556d913-a057-4e29-8f96-cae87602a218

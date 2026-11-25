@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_fixedHorizonSignedExtremaMeasurable
 -- name    : Kyprianou.Ch04.fixedHorizonSignedExtremaMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T12:42:48.417894+00:00
 -- url     : https://prove2.me/theorems/9a73a587-4df0-59fc-b1c7-b727947f1181

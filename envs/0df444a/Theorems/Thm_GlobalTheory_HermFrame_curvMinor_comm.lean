@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_curvMinor_comm
 -- name    : GlobalTheory.HermFrame.curvMinor_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:07:00.821801+00:00
 -- url     : https://prove2.me/theorems/65bdceb6-a870-49bb-a47f-a039050d84ec

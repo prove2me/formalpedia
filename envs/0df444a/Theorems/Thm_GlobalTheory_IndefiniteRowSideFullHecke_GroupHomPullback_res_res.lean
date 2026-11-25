@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GroupHomPullback_res_res
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GroupHomPullback.res_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:57.812715+00:00
 -- url     : https://prove2.me/theorems/1d5b3b79-dc5e-49d7-a054-998cdfa176a1

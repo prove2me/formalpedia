@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_multiple_mem_sublattice
 -- name    : GlobalTheory.T.lattice_multiple_mem_sublattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:31.220895+00:00
 -- url     : https://prove2.me/theorems/995055e9-a03f-5b67-91f9-dd511dfee801

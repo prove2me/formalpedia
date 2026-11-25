@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_conj_conj
 -- name    : DensInertW.conj_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:57.146055+00:00
 -- url     : https://prove2.me/theorems/b591f8b4-f098-4d2b-bc74-aea650a025b8

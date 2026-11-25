@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_IsCPMap_exists_comp
 -- name    : GlobalTheory.UU.IsCPMap.exists_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:42:53.798416+00:00
 -- url     : https://prove2.me/theorems/72b24d09-e83c-43ac-ab40-76becc0675d3

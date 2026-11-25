@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_relevant_monotone_of_parts_alt
 -- name    : Formalism.FourierDecayAlt.P.relevant_monotone_of_parts_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:08.097633+00:00
 -- url     : https://prove2.me/theorems/39c05e74-5f57-4f9f-8d5b-6a4a2883c971

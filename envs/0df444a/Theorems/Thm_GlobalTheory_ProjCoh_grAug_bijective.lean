@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCoh_grAug_bijective
 -- name    : GlobalTheory.ProjCoh.grAug_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:59.610005+00:00
 -- url     : https://prove2.me/theorems/0394f2c9-f061-5cbf-8738-18a5e5d68a48

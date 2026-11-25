@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PoincareAssembly_poinStatement_of
 -- name    : GlobalTheory.PoincareAssembly.poinStatement_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:22:38.60758+00:00
 -- url     : https://prove2.me/theorems/10242682-558b-4042-84ea-9d54e1019e0b

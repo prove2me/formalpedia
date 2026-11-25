@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_PlacePermOperatorBicommutantSpan_Tgt_weil_implication_nonarch_quadratic
 -- name    : CompanionTheory.PlacePermOperatorBicommutantSpan.Tgt.weil_implication_nonarch_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:18:09.881864+00:00
 -- url     : https://prove2.me/theorems/d28d436d-d955-4011-b892-f7ddbef7336e

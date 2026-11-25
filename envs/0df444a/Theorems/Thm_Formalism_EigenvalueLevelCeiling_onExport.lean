@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_onExport
 -- name    : Formalism.EigenvalueLevelCeiling.onExport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:35:41.541845+00:00
 -- url     : https://prove2.me/theorems/d4aee100-0a80-4f4b-99d3-23c33c03ffa7

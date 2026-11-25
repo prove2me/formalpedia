@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GermInterp_exists_sub_mem_map
 -- name    : GlobalTheory.GermInterp.exists_sub_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:52:30.440466+00:00
 -- url     : https://prove2.me/theorems/7a7f3fb8-7966-40b9-bf8f-1ab0a882fab2

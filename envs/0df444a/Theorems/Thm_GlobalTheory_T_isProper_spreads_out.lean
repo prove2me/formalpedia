@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isProper_spreads_out
 -- name    : GlobalTheory.T.isProper_spreads_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:50.620476+00:00
 -- url     : https://prove2.me/theorems/68fe4d91-25f6-5f3f-8fe6-39fc7ec09cb7

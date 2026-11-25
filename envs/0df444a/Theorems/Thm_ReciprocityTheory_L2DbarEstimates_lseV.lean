@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_lseV
 -- name    : ReciprocityTheory.L2DbarEstimates.lseV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:33:04.286422+00:00
 -- url     : https://prove2.me/theorems/a50c4e3f-8226-4598-a311-2d8e4ab6d62e

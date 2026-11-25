@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThK_Dbl_Vf2_exists_decomp
 -- name    : GlobalTheory.ThK.Dbl.Vf2.exists_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:41:21.508884+00:00
 -- url     : https://prove2.me/theorems/fe35d354-997a-54a5-988d-4e5722f22c5b

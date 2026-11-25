@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_exists_teichChar
 -- name    : ReciprocityTheory.PGsh.Up.U3.exists_teichChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:15.523126+00:00
 -- url     : https://prove2.me/theorems/cb26cd9e-9399-40be-8cec-5b20b3a50e12

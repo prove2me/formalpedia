@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_twKer_charFst_extProd
 -- name    : GlobalTheory.LGrp.twKer_charFst_extProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:17:30.341866+00:00
 -- url     : https://prove2.me/theorems/ad3dc190-5398-4030-95d6-cf4aa8cfc2e5

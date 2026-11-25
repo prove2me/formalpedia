@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_polynomial_sign_of_parts
 -- name    : Formalism.FourierDecayAlt.P.polynomial_sign_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:42:20.043302+00:00
 -- url     : https://prove2.me/theorems/72842a8e-d19d-4be2-907e-4f82ead850b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coeff_matrixFamilyBilateralSubstitution_monomial_continuous_algebraic
 -- name    : GlobalTheory.T.coeff_matrixFamilyBilateralSubstitution_monomial_continuous_algebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:27:35.53512+00:00
 -- url     : https://prove2.me/theorems/28e65378-2002-47fb-8ce7-7e43cfcdd461

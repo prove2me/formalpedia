@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_det_sq_eq_of_basis
 -- name    : GlobalTheory.EigenSplit.det_sq_eq_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:23.621838+00:00
 -- url     : https://prove2.me/theorems/bc7668eb-1630-48f6-b769-6085f1f7e68c

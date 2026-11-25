@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_coef_one
 -- name    : GlobalTheory.Mem.RayData.coef_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:14:05.426049+00:00
 -- url     : https://prove2.me/theorems/cf61a83e-8445-4460-98eb-e318e04a03a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_secMaps_genSec_iff
 -- name    : GlobalTheory.Cartier.secMaps_genSec_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:41.094355+00:00
 -- url     : https://prove2.me/theorems/6636728a-0f7c-4aae-916f-3510f0ff303e

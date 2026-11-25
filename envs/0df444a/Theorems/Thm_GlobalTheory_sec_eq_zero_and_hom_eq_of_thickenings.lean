@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sec_eq_zero_and_hom_eq_of_thickenings
 -- name    : GlobalTheory.sec_eq_zero_and_hom_eq_of_thickenings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:24:42.069078+00:00
 -- url     : https://prove2.me/theorems/02bd7dd8-99c5-463e-9db8-58ee213d8c6b

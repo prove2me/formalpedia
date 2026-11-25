@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gauss_abs_mul_of_monomial_order
 -- name    : ReciprocityTheory.MultiplicativeHeights.gauss_abs_mul_of_monomial_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:14.095227+00:00
 -- url     : https://prove2.me/theorems/2d1e1086-fbde-4153-972c-6c12047aea02

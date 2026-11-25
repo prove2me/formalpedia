@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SymplecticBasisLevel_SamePoint_refl
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SymplecticBasisLevel.SamePoint.refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:10:18.676748+00:00
 -- url     : https://prove2.me/theorems/b0f35e6a-ceaf-5f51-aee0-5428c192fe0f

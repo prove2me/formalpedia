@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_cmpa_cHess_comp
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.cmpa_cHess_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:57.266+00:00
 -- url     : https://prove2.me/theorems/e01a3a73-1d80-58b9-b503-a5584c814adf

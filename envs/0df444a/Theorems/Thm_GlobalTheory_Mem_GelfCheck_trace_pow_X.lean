@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_GelfCheck_trace_pow_X
 -- name    : GlobalTheory.Mem.GelfCheck.trace_pow_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:06.742668+00:00
 -- url     : https://prove2.me/theorems/2647dcad-001c-5a8d-be1a-06fcafae05b7

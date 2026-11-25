@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isQuasicoherent_iff_isBaseChange
 -- name    : GlobalTheory.QCoh.isQuasicoherent_iff_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:19:03.769667+00:00
 -- url     : https://prove2.me/theorems/7ac2f1bf-02a4-5bb2-9a01-0df973d41096

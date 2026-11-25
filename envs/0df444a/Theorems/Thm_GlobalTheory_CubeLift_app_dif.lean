@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_app_dif
 -- name    : GlobalTheory.CubeLift.app_dif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:58:11.296328+00:00
 -- url     : https://prove2.me/theorems/c7937d59-c16f-46cc-89b9-3e5988dbdd1c

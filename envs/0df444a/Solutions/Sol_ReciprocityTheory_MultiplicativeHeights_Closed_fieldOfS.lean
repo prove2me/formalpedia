@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for ReciprocityTheory.MultiplicativeHeights.Closed.fieldOfS
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T15:46:50.495707+00:00
+-- url     : https://prove2.me/submissions/ef9372dd-7da2-4e4e-a783-f2819c3976ca
+
+import Definitions.Def_ReciprocityTheory_SemistableReduction_FinrankRestrictTotalDegree
+import Definitions.Def_ReciprocityTheory_SemistableReduction_RankEqualityHolds
+import Definitions.Def_ReciprocityTheory_SemistableReduction_CauchyInequalityOnTorus
+import Definitions.Def_ReciprocityTheory_SemistableReduction_GenericImageFinite
+import Definitions.Def_ReciprocityTheory_SemistableReduction_IntegralClosureRankAndResidueTrdegLe
+import Definitions.Def_ReciprocityTheory_SemistableReduction_GaussExtensionAndResidueTrdegEq
+import Mathlib
+import Definitions.Def_ReciprocityTheory_SemistableReduction_DetSubtypeCompAssociatedProd
+import Definitions.Def_ReciprocityTheory_SemistableReduction_NormValuationEqFactorization
+import Definitions.Def_ReciprocityTheory_SemistableReduction_AlgAll
+import Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_genericImageFinite
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.MultiplicativeHeights ReciprocityTheory.MultiplicativeHeights.Closed
+open ReciprocityTheory.MultiplicativeHeights
+namespace ReciprocityTheory.MultiplicativeHeights.Closed
+theorem _root_.solution : FieldOfSStatement := genericImageFinite
+end ReciprocityTheory.MultiplicativeHeights.Closed

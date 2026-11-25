@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_psi_neg_conj_identity
 -- name    : Formalism.FourierDecayAlt.P.psi_neg_conj_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:42:39.209129+00:00
 -- url     : https://prove2.me/theorems/cddc9aed-0379-47ba-808b-976dc250055a

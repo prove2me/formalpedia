@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FGFieldEmb_nonempty_ringHom_complex_of_fg
 -- name    : GlobalTheory.FGFieldEmb.nonempty_ringHom_complex_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:10.013295+00:00
 -- url     : https://prove2.me/theorems/881478f1-19ee-4886-8920-3de137426535

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_isHeight_mul_p
 -- name    : ReciprocityTheory.PGsh.BX.isHeight_mul_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:07:03.338941+00:00
 -- url     : https://prove2.me/theorems/92be447f-e47b-40be-9970-9c8eb3bbd001

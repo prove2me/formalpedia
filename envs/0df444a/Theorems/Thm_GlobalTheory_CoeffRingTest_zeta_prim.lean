@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffRingTest_zeta_prim
 -- name    : GlobalTheory.CoeffRingTest.zeta_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:22.277167+00:00
 -- url     : https://prove2.me/theorems/780f40bc-20c3-4db1-aa09-5a6cfbf451eb

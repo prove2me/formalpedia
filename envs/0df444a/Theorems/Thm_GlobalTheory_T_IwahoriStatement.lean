@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_IwahoriStatement
 -- name    : GlobalTheory.T.IwahoriStatement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:25:58.066488+00:00
 -- url     : https://prove2.me/theorems/f695a56b-ddbf-5796-b2f1-8081155763eb

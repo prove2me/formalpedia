@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bes_torus_moves_character
 -- name    : GlobalTheory.CompanionTheory.Bes.torus_moves_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:48.785409+00:00
 -- url     : https://prove2.me/theorems/23119baf-b99a-5c09-bf4f-8ec5e9b0b4e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_HermSp_mem_perp
 -- name    : GlobalTheory.CompanionTheory.UnrDens.HermSp.mem_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:01:24.221459+00:00
 -- url     : https://prove2.me/theorems/49cae741-cbcf-5ba1-9b28-2e7fe47e4592

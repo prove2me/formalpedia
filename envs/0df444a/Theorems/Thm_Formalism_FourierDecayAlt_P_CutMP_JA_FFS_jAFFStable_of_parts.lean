@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_FFS_jAFFStable_of_parts
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.FFS.jAFFStable_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:37:46.169076+00:00
 -- url     : https://prove2.me/theorems/95553727-811c-4f54-9f88-090319c8a483

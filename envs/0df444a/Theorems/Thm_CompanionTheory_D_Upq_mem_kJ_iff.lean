@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_mem_kJ_iff
 -- name    : CompanionTheory.D.Upq.mem_kJ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:17:51.315142+00:00
 -- url     : https://prove2.me/theorems/2400769d-fde2-4e1a-94fb-75da5081b617

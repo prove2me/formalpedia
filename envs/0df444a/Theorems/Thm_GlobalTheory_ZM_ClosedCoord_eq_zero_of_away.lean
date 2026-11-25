@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ClosedCoord_eq_zero_of_away
 -- name    : GlobalTheory.ZM.ClosedCoord.eq_zero_of_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:46:41.597973+00:00
 -- url     : https://prove2.me/theorems/d7f3c6de-bf4b-4446-bfdb-8866a9809aed

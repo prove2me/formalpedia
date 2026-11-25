@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NsmulIntegersMembership_valued_absNorm_lt_one
 -- name    : GlobalTheory.NsmulIntegersMembership.valued_absNorm_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:04.270852+00:00
 -- url     : https://prove2.me/theorems/cbdf6348-ad7f-4973-a6de-482d73f98f16

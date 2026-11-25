@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_exists_grpObj_of_cover
 -- name    : GlobalTheory.CoverGlue.exists_grpObj_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:27:28.621721+00:00
 -- url     : https://prove2.me/theorems/ba506de3-a6cc-43ae-b27f-6c77f39830a9

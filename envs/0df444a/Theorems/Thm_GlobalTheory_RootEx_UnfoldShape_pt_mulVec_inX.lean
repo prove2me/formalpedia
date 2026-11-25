@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_pt_mulVec_inX
 -- name    : GlobalTheory.RootEx.UnfoldShape.pt_mulVec_inX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:53.386029+00:00
 -- url     : https://prove2.me/theorems/47a09f94-b72e-423b-ae2f-fa5b21d60d11

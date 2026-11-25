@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_construct_periodicity_of_modulus
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.construct_periodicity_of_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:50:44.915278+00:00
 -- url     : https://prove2.me/theorems/a881b36b-10de-4ba5-9f26-75602ac204a4

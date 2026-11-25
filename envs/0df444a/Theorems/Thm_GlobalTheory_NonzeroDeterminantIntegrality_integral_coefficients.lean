@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NonzeroDeterminantIntegrality_integral_coefficients
 -- name    : GlobalTheory.NonzeroDeterminantIntegrality.integral_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:14:40.912389+00:00
 -- url     : https://prove2.me/theorems/efd72ff7-6957-51bc-b631-f52d08aec51d

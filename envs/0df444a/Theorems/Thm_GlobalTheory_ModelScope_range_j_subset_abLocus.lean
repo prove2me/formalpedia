@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModelScope_range_j_subset_abLocus
 -- name    : GlobalTheory.ModelScope.range_j_subset_abLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:37.515875+00:00
 -- url     : https://prove2.me/theorems/cf0070de-3835-42cc-b875-2e1f5d3f428d

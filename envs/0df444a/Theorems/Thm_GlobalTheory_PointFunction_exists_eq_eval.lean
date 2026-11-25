@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointFunction_exists_eq_eval
 -- name    : GlobalTheory.PointFunction.exists_eq_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:34.975627+00:00
 -- url     : https://prove2.me/theorems/e16b1008-6d53-4c7f-9e3c-cd4ca9d79dc1

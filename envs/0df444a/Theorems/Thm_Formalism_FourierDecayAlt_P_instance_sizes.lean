@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_instance_sizes
 -- name    : Formalism.FourierDecayAlt.P.instance_sizes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:32:35.894435+00:00
 -- url     : https://prove2.me/theorems/fae09f2e-1c8c-49d7-bb95-aeba7c6b1b66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_eq_of_isIso_restrict_34b16c549938
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_eq_of_isIso_restrict_34b16c549938
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:42:49.337064+00:00
 -- url     : https://prove2.me/theorems/6eac79ec-bef3-4cd8-996f-feb34464f6ed

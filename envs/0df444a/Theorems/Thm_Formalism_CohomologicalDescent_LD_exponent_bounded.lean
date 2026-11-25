@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_exponent_bounded
 -- name    : Formalism.CohomologicalDescent.LD.exponent_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:26:38.180925+00:00
 -- url     : https://prove2.me/theorems/60374918-9e28-4648-bb8a-5b19cf3133e6

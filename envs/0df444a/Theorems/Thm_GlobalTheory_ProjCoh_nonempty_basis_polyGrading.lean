@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCoh_nonempty_basis_polyGrading
 -- name    : GlobalTheory.ProjCoh.nonempty_basis_polyGrading
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:16:06.520675+00:00
 -- url     : https://prove2.me/theorems/039e2d8d-080a-5bcb-bc8b-a3dca252ccb6

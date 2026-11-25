@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagSecProbe_pnorm_eq_zero_iff
 -- name    : GlobalTheory.FlagSecProbe.pnorm_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:16.156807+00:00
 -- url     : https://prove2.me/theorems/4e1655af-9252-5754-a01f-afe4f86c13e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_galois_unramified_outside_cohomology
 -- name    : GlobalTheory.T.galois_unramified_outside_cohomology
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:42.548155+00:00
 -- url     : https://prove2.me/theorems/f42cfa79-2325-4edf-a519-596918431d0e

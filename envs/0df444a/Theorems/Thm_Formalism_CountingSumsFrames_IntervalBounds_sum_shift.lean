@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_IntervalBounds_sum_shift
 -- name    : Formalism.CountingSumsFrames.IntervalBounds.sum_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:23:17.819889+00:00
 -- url     : https://prove2.me/theorems/bf56ad62-302c-41bb-b5be-af65f30efe8e

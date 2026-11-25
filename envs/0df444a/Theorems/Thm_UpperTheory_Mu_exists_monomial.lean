@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_exists_monomial
 -- name    : UpperTheory.Mu.exists_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:04.980052+00:00
 -- url     : https://prove2.me/theorems/b2f09cfd-295f-4f62-96aa-11f51a054a69

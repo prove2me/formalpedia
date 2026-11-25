@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_Final_Y_ModHypModel
 -- name    : Formalism.YangianSpanCharacter.Final.Y_ModHypModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:43.561801+00:00
 -- url     : https://prove2.me/theorems/d16ad796-ed08-4321-916f-1a09e2263019

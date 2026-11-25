@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_powLeMaxMulMax
 -- name    : Formalism.HermitianLatticeCounting.P.powLeMaxMulMax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:40:18.454325+00:00
 -- url     : https://prove2.me/theorems/c7df65fc-bae7-4b18-a901-bf037a47018c

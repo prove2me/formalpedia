@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_nhds_fix_of_continuous_coefficients
 -- name    : GlobalTheory.T.exists_nhds_fix_of_continuous_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:30:20.458903+00:00
 -- url     : https://prove2.me/theorems/2f8ba925-739d-4f48-89fb-1861e341f6d3

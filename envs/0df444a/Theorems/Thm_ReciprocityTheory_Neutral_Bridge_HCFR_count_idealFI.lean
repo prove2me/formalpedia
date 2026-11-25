@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCFR_count_idealFI
 -- name    : ReciprocityTheory.Neutral.Bridge.HCFR.count_idealFI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:45.236895+00:00
 -- url     : https://prove2.me/theorems/0b28c101-cedc-527b-b8af-b5f4b7623b98

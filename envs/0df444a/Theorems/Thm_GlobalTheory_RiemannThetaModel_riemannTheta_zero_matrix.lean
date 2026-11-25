@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_riemannTheta_zero_matrix
 -- name    : GlobalTheory.RiemannThetaModel.riemannTheta_zero_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:01.118205+00:00
 -- url     : https://prove2.me/theorems/4888b0e3-6c7d-5a37-8e07-bf02fe400e3f

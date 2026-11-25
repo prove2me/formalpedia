@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_twist_basis_off_prime
 -- name    : GlobalTheory.T.exists_twist_basis_off_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:19:31.112984+00:00
 -- url     : https://prove2.me/theorems/3a3e8194-eb61-4663-893b-0e042b2edc2a

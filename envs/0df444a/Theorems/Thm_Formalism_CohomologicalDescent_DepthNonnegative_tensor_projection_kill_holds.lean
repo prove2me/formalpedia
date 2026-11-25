@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_tensor_projection_kill_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.tensor_projection_kill_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:22:41.131069+00:00
 -- url     : https://prove2.me/theorems/337a46a6-da06-4334-9276-0c8ccffed8c2

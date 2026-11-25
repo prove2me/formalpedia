@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weilIs_along_hom
 -- name    : GlobalTheory.weilIs_along_hom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:17:05.74693+00:00
 -- url     : https://prove2.me/theorems/790b1033-bff4-4ca7-9045-d5086158e293

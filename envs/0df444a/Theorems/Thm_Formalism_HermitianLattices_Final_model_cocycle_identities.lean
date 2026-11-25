@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Final_model_cocycle_identities
 -- name    : Formalism.HermitianLattices.Final.model_cocycle_identities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:41.366397+00:00
 -- url     : https://prove2.me/theorems/7f9f9b32-8294-4bf6-b4f2-50e228384c0d

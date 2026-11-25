@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_absMulLeWeightedMean
 -- name    : Formalism.HermitianLatticeCounting.P.absMulLeWeightedMean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:38:28.535295+00:00
 -- url     : https://prove2.me/theorems/3cd65852-b7e7-4939-903f-c49e7a9d9155

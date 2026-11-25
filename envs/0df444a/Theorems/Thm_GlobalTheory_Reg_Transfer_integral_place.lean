@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_integral_place
 -- name    : GlobalTheory.Reg.Transfer.integral_place
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:06.202959+00:00
 -- url     : https://prove2.me/theorems/41d9ff2a-e14a-4cfb-9295-bbb08f5bc5c5

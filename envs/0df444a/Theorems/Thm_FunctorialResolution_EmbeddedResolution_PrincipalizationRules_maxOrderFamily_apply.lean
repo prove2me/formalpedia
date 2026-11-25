@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationRules_maxOrderFamily_apply
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationRules.maxOrderFamily_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:43.539237+00:00
 -- url     : https://prove2.me/theorems/7379ac72-3344-4241-ad12-515b8aa45ac0

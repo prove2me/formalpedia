@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_Model_zmult_pos
 -- name    : GlobalTheory.Mem.An.Model.zmult_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:24.303828+00:00
 -- url     : https://prove2.me/theorems/dde4edd0-e42a-4df7-8a3d-c39e19b95452

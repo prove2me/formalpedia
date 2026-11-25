@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_log_delta_le
 -- name    : Formalism.MainNotions.Gaps.T0.log_delta_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:37.851791+00:00
 -- url     : https://prove2.me/theorems/273a760c-0861-4af0-85ad-91a74810f28a

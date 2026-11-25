@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffGlue_Cech_eq_zero_of_small
 -- name    : GlobalTheory.AffGlue.Cech.eq_zero_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:47:58.935948+00:00
 -- url     : https://prove2.me/theorems/2083f8fd-436e-47dc-b400-25a784ffcf70

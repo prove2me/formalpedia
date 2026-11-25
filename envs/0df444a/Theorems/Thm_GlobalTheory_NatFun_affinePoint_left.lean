@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatFun_affinePoint_left
 -- name    : GlobalTheory.NatFun.affinePoint_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:40.288408+00:00
 -- url     : https://prove2.me/theorems/aeca88e1-0abf-584e-816b-9ca28388712f

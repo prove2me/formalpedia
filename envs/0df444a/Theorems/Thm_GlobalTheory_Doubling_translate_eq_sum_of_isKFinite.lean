@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_translate_eq_sum_of_isKFinite
 -- name    : GlobalTheory.Doubling.translate_eq_sum_of_isKFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:41.803533+00:00
 -- url     : https://prove2.me/theorems/b825e505-0e97-5127-a3ee-a950bdf96782

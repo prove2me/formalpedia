@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_weakEquationFourier
 -- name    : ZetaZeros.D.EllReg.weakEquationFourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:15:20.50252+00:00
 -- url     : https://prove2.me/theorems/71f50463-e32a-4d54-beff-2eb2271d288f

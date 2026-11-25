@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_count_exponent
 -- name    : Formalism.FourierDecayAlt.P.count_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:15.788259+00:00
 -- url     : https://prove2.me/theorems/6a520e96-8c1d-53b5-b614-9df18c7ed787

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_range_proj
 -- name    : GlobalTheory.EigenSplit.range_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:26.938538+00:00
 -- url     : https://prove2.me/theorems/7de2ce6a-8fc8-47e5-b22d-99737037812c

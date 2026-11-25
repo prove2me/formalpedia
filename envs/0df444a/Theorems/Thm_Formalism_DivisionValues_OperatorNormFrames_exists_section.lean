@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_OperatorNormFrames_exists_section
 -- name    : Formalism.DivisionValues.OperatorNormFrames.exists_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:56.93683+00:00
 -- url     : https://prove2.me/theorems/fef1a45a-ea7c-55e9-80e4-a78d6d2c4d59

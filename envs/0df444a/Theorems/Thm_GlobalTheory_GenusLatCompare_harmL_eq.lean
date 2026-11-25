@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenusLatCompare_harmL_eq
 -- name    : GlobalTheory.GenusLatCompare.harmL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:21.912264+00:00
 -- url     : https://prove2.me/theorems/156ca368-489d-4959-a446-e9f455040b27

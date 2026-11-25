@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_contDiffOn_of_differentiableOn
 -- name    : ReciprocityTheory.L2DbarEstimates.contDiffOn_of_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:51:58.732913+00:00
 -- url     : https://prove2.me/theorems/641e0f2a-be04-4700-8f25-f16e5d5b4fb4

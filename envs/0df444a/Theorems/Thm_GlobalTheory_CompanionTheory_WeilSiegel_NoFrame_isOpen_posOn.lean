@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_NoFrame_isOpen_posOn
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.NoFrame.isOpen_posOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:55.923869+00:00
 -- url     : https://prove2.me/theorems/b0d1f666-ed6a-4729-aaf9-d10adf06da8d

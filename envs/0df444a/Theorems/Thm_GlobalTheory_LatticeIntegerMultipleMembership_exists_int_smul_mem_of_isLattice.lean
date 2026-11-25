@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeIntegerMultipleMembership_exists_int_smul_mem_of_isLattice
 -- name    : GlobalTheory.LatticeIntegerMultipleMembership.exists_int_smul_mem_of_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:19.404603+00:00
 -- url     : https://prove2.me/theorems/c045e433-2bdd-4673-9172-faafeebfe6ea

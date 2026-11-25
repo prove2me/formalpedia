@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_Inhab_additive_char_nontrivial
 -- name    : Formalism.L2.SG.GGMirabolic.Inhab.additive_char_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:48:03.178301+00:00
 -- url     : https://prove2.me/theorems/f05410ee-38c2-4548-ae77-e8c969b06e76

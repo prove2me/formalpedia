@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_limit_shape
 -- name    : Formalism.FourierDecayAlt.P.limit_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:33:06.563078+00:00
 -- url     : https://prove2.me/theorems/ae9d78a2-9720-4b15-9cdb-1cc0a3a2f3a4

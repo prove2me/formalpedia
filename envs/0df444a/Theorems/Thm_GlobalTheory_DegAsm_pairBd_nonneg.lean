@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_pairBd_nonneg
 -- name    : GlobalTheory.DegAsm.pairBd_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:11:23.211258+00:00
 -- url     : https://prove2.me/theorems/413441b0-54c9-5c42-8768-84dd94536088

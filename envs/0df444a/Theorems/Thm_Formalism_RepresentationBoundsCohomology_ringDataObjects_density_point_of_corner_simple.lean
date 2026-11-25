@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_density_point_of_corner_simple
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.density_point_of_corner_simple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:45.320782+00:00
 -- url     : https://prove2.me/theorems/9b288861-fac5-4794-9568-8b1d2fc65fe6

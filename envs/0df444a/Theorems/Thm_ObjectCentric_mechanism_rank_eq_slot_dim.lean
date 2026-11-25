@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ObjectCentric_mechanism_rank_eq_slot_dim
 -- name    : ObjectCentric.mechanism_rank_eq_slot_dim
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T19:37:50.219273+00:00
 -- url     : https://prove2.me/theorems/1a063322-9c83-4b96-b727-2602ed781857

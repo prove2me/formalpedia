@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_zero_of_mem_all_powers
 -- name    : GlobalTheory.T.eq_zero_of_mem_all_powers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:52.433228+00:00
 -- url     : https://prove2.me/theorems/1cb357d5-4236-5a92-b338-a1c849fe5d4d

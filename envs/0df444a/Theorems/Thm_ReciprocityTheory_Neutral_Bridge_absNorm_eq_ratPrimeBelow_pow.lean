@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_absNorm_eq_ratPrimeBelow_pow
 -- name    : ReciprocityTheory.Neutral.Bridge.absNorm_eq_ratPrimeBelow_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:05:00.296848+00:00
 -- url     : https://prove2.me/theorems/062e840e-eeb7-554b-b24b-cf2cdfc30cb0

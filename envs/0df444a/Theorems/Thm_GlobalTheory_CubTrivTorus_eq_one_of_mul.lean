@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubTrivTorus_eq_one_of_mul
 -- name    : GlobalTheory.CubTrivTorus.eq_one_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:06:12.754894+00:00
 -- url     : https://prove2.me/theorems/ad50cd25-f65f-510e-a869-213db17a8a72

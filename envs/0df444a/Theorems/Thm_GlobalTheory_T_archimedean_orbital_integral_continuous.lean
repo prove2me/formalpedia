@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_archimedean_orbital_integral_continuous
 -- name    : GlobalTheory.T.archimedean_orbital_integral_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:26:58.87635+00:00
 -- url     : https://prove2.me/theorems/ea628580-e4af-5084-8f51-07181758ac8f

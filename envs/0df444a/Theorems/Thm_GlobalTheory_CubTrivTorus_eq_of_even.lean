@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubTrivTorus_eq_of_even
 -- name    : GlobalTheory.CubTrivTorus.eq_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:02:05.893229+00:00
 -- url     : https://prove2.me/theorems/bc1a70ac-ed9b-4ef6-a81e-c5de1ca66873

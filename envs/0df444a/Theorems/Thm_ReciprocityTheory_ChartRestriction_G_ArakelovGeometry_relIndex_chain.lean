@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_relIndex_chain
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.relIndex_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:01:41.580445+00:00
 -- url     : https://prove2.me/theorems/62f0507c-d91a-54f1-856d-a7948267a45a

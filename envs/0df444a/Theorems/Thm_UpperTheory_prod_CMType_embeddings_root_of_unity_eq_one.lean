@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_prod_CMType_embeddings_root_of_unity_eq_one
 -- name    : UpperTheory.prod_CMType_embeddings_root_of_unity_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:05.39557+00:00
 -- url     : https://prove2.me/theorems/c075b752-cefa-4a67-8f3f-e6c67666368d

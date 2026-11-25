@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_LemE_coeff_add_pow
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.LemE.coeff_add_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:09.924027+00:00
 -- url     : https://prove2.me/theorems/b6460994-ade6-52b7-adec-fed62a068f81

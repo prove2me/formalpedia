@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_isKum_unique
 -- name    : GlobalTheory.K5.Basic.isKum_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:13:19.524492+00:00
 -- url     : https://prove2.me/theorems/200c1d5b-6a56-46a8-a658-d1b4e7de3bdd

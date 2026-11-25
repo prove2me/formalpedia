@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_TypedOnto_jumps_width
 -- name    : GlobalTheory.NB.TypedOnto.jumps_width
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:12.626271+00:00
 -- url     : https://prove2.me/theorems/e7343cd5-cf43-58bd-90f0-ce26c26c17a2

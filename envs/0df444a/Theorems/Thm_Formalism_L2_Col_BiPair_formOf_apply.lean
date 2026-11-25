@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_BiPair_formOf_apply
 -- name    : Formalism.L2.Col.BiPair.formOf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:42:45.317351+00:00
 -- url     : https://prove2.me/theorems/8e1c3b67-adb0-40d5-9a73-b4397e9bac4d

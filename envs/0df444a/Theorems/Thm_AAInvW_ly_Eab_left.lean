@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AAInvW_ly_Eab_left
 -- name    : AAInvW.ly_Eab_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:17:27.304951+00:00
 -- url     : https://prove2.me/theorems/78188b65-2e49-48c1-aa99-6cae3e979bba

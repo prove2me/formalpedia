@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_isLattice_stdLat_and_act
 -- name    : GlobalTheory.RootEx.UnfoldShape.isLattice_stdLat_and_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:21:22.386916+00:00
 -- url     : https://prove2.me/theorems/257977c6-77db-4ec6-85e3-8522e2bda470

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_veluIntegralModel
 -- name    : Formalism.ELL.veluIntegralModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:24:39.432791+00:00
 -- url     : https://prove2.me/theorems/2d0ec7a5-14d9-5e2d-8e50-9e915ea89136

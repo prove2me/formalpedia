@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_weight_L1_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.weight_L1_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:43:51.357391+00:00
 -- url     : https://prove2.me/theorems/03c1890c-e0f5-5bb3-b2c0-aa128fe980b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_height
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:28.480176+00:00
 -- url     : https://prove2.me/theorems/103c1658-22fb-4846-94b1-60df0d632aa3

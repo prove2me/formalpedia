@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_isMonHom_of_over_isMonHom
 -- name    : GlobalTheory.UU.isMonHom_of_over_isMonHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:57:54.096711+00:00
 -- url     : https://prove2.me/theorems/8eeb1087-ee62-4576-a531-d46badd91119

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_cloudShare
 -- name    : Formalism.CountingSumsFrames.Top.cloudShare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:23:22.721343+00:00
 -- url     : https://prove2.me/theorems/5f71976a-d9e6-4349-8107-a9a0a6b051bd

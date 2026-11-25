@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_lat_tw_eq_iff
 -- name    : GlobalTheory.CountId.lat_tw_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:44.261737+00:00
 -- url     : https://prove2.me/theorems/886bb121-32b6-570c-8f13-ba77cbe6149d

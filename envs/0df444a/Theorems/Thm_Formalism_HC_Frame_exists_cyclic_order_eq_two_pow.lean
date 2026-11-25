@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_exists_cyclic_order_eq_two_pow
 -- name    : Formalism.HC.Frame.exists_cyclic_order_eq_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:02.047966+00:00
 -- url     : https://prove2.me/theorems/2dbe58e0-409b-511d-832c-5e6dc1bd1540

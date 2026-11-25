@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarScale_exists_scale_herm
 -- name    : GlobalTheory.CompanionTheory.SW.HaarScale.exists_scale_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:10.558361+00:00
 -- url     : https://prove2.me/theorems/a176a226-b8e2-467c-89b1-5a90ea83badc

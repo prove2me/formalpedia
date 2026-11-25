@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatMultipleInLattice_exists_nsmul_mem_lattice
 -- name    : GlobalTheory.NatMultipleInLattice.exists_nsmul_mem_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:35.153328+00:00
 -- url     : https://prove2.me/theorems/ff6ee6f7-f036-5599-9fa3-04f72b4300b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_splitPlaces_discriminantDepth_of_splitAt
 -- name    : UpperTheory.splitPlaces_discriminantDepth_of_splitAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:14:30.784833+00:00
 -- url     : https://prove2.me/theorems/a8a0cd06-21af-4c3b-b1e0-2fcdb07bca17

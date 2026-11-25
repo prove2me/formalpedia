@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_lineParU_nontrivial
 -- name    : GlobalTheory.LGrp.lineParU_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:13:39.440292+00:00
 -- url     : https://prove2.me/theorems/a0df52b2-0edc-4a5f-be06-5f606fdb7df9

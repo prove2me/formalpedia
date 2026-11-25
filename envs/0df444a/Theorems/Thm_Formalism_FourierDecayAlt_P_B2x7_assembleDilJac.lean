@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B2x7_assembleDilJac
 -- name    : Formalism.FourierDecayAlt.P.B2x7.assembleDilJac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:26:59.287838+00:00
 -- url     : https://prove2.me/theorems/b55d34c6-e3b9-4a0a-bfb1-9468a98bdcc6

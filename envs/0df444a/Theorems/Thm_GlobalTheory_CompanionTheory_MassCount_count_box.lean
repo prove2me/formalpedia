@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MassCount_count_box
 -- name    : GlobalTheory.CompanionTheory.MassCount.count_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:53:07.585651+00:00
 -- url     : https://prove2.me/theorems/ec496a43-52ad-4593-b466-fff632e30c01

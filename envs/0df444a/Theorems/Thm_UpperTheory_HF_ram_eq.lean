@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_ram_eq
 -- name    : UpperTheory.HF.ram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:27:52.866034+00:00
 -- url     : https://prove2.me/theorems/1cf7c89a-1d02-4973-ad31-db8bb13c6d65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coeff_mem_span_of_weightedHomogeneous_relation_quasiRegular
 -- name    : GlobalTheory.T.coeff_mem_span_of_weightedHomogeneous_relation_quasiRegular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:27:51.113394+00:00
 -- url     : https://prove2.me/theorems/1a654667-205a-417a-8625-5189134217d7

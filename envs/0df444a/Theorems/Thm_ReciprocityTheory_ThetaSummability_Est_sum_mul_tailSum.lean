@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ThetaSummability_Est_sum_mul_tailSum
 -- name    : ReciprocityTheory.ThetaSummability.Est.sum_mul_tailSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:10:01.561618+00:00
 -- url     : https://prove2.me/theorems/9cddb51d-3a98-529b-9ea9-a17b3cd61144

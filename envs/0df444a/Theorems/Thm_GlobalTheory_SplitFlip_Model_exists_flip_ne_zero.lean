@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Model_exists_flip_ne_zero
 -- name    : GlobalTheory.SplitFlip.Model.exists_flip_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:25:38.055099+00:00
 -- url     : https://prove2.me/theorems/fc685c58-50dd-48c3-8cfb-84a936fb0611

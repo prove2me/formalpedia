@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_boxScale
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.boxScale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:57:34.240536+00:00
 -- url     : https://prove2.me/theorems/a2425b21-2d91-4cec-86b2-cc38b978e967

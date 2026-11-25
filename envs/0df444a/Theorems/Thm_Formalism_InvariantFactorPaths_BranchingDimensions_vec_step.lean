@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_vec_step
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.vec_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:54.934185+00:00
 -- url     : https://prove2.me/theorems/3d013da9-6e56-4c16-880b-3f5edb9dfa67

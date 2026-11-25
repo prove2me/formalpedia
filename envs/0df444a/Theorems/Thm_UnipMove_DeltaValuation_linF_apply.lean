@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_DeltaValuation_linF_apply
 -- name    : UnipMove.DeltaValuation.linF_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:11:26.261108+00:00
 -- url     : https://prove2.me/theorems/388a38d6-14a3-4dc6-b90f-badb1870c306

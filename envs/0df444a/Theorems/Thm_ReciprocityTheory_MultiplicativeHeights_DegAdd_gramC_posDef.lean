@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DegAdd_gramC_posDef
 -- name    : ReciprocityTheory.MultiplicativeHeights.DegAdd.gramC_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:34.455907+00:00
 -- url     : https://prove2.me/theorems/534a9f93-7114-47b9-a190-3617e7af1c9b

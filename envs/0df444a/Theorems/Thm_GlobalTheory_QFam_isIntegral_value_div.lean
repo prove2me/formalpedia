@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_isIntegral_value_div
 -- name    : GlobalTheory.QFam.isIntegral_value_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:00:33.872472+00:00
 -- url     : https://prove2.me/theorems/c6ac4da7-277f-43de-a2ba-d780ff38f42b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AveragingRankOne_exists_field
 -- name    : GlobalTheory.Cyc.AveragingRankOne.exists_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:02:51.801948+00:00
 -- url     : https://prove2.me/theorems/375dc7d7-2605-4601-aeda-449e9d6001f5

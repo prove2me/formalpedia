@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_formal_group_invariant
 -- name    : Formalism.L2.Th1.A.formal_group_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:48:24.776924+00:00
 -- url     : https://prove2.me/theorems/daed2540-893b-4849-9f00-c49f3547a2c4

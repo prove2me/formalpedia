@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFormDeriv_charForm_kills_linear_mul
 -- name    : GlobalTheory.CharFormDeriv.charForm_kills_linear_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:22.428195+00:00
 -- url     : https://prove2.me/theorems/34f13e5d-f4fe-4949-bc7f-8d5adc64678d

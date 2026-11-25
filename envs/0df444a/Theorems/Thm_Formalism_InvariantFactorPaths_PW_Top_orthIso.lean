@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_orthIso
 -- name    : Formalism.InvariantFactorPaths.PW.Top.orthIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:43:29.934039+00:00
 -- url     : https://prove2.me/theorems/6b87acb3-b3b9-4f9d-97f6-7526c03f5580

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_jABddOpQQ_of_jABddOp
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.jABddOpQQ_of_jABddOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:29:55.477243+00:00
 -- url     : https://prove2.me/theorems/7ace2492-23e4-5af1-8bb9-35f5ecf22a06

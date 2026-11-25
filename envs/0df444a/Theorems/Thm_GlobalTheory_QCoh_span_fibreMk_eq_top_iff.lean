@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_span_fibreMk_eq_top_iff
 -- name    : GlobalTheory.QCoh.span_fibreMk_eq_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:19:53.987301+00:00
 -- url     : https://prove2.me/theorems/7cc038aa-974f-5401-b773-a86e6f3296c4

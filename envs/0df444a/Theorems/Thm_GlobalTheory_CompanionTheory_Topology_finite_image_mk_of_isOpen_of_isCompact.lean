@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Topology_finite_image_mk_of_isOpen_of_isCompact
 -- name    : GlobalTheory.CompanionTheory.Topology.finite_image_mk_of_isOpen_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:47.408093+00:00
 -- url     : https://prove2.me/theorems/b19b81fe-99bc-5bf8-813e-5aadba7c3455

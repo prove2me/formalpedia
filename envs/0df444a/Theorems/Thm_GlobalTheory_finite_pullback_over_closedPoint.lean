@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_pullback_over_closedPoint
 -- name    : GlobalTheory.finite_pullback_over_closedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:59:42.452829+00:00
 -- url     : https://prove2.me/theorems/71409cd2-d145-44d0-8f19-3a32c2ef10ba

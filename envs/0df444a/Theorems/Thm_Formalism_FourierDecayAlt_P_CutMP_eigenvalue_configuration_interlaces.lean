@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_eigenvalue_configuration_interlaces
 -- name    : Formalism.FourierDecayAlt.P.CutMP.eigenvalue_configuration_interlaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:26:30.192898+00:00
 -- url     : https://prove2.me/theorems/790afe2b-9a73-58b7-9aa2-5bffaa45a359

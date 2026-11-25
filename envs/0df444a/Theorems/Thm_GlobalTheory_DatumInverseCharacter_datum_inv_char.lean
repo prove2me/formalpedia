@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumInverseCharacter_datum_inv_char
 -- name    : GlobalTheory.DatumInverseCharacter.datum_inv_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:14.277394+00:00
 -- url     : https://prove2.me/theorems/87dee80a-ca1a-460b-bc78-fba354a38a95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_admissible_scaled_lattice_family
 -- name    : GlobalTheory.SW.Model.admissible_scaled_lattice_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:37.613344+00:00
 -- url     : https://prove2.me/theorems/1990c80a-1b7c-4fa6-819e-f095a4ed8297

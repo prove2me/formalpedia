@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeRep_IsLatRep_comm
 -- name    : GlobalTheory.LatticeRep.IsLatRep.comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:18:11.847991+00:00
 -- url     : https://prove2.me/theorems/6f894e0c-2134-4829-b9e9-9749480f77dd

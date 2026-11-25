@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_smoothOfSobolevAll
 -- name    : ZetaZeros.D.EllReg.smoothOfSobolevAll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:16:28.144288+00:00
 -- url     : https://prove2.me/theorems/519f189e-e630-5afd-92fa-768b57700eff

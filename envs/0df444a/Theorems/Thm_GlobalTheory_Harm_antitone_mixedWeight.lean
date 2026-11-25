@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Harm_antitone_mixedWeight
 -- name    : GlobalTheory.Harm.antitone_mixedWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:14.664981+00:00
 -- url     : https://prove2.me/theorems/37ad81e3-de72-5fe3-8cbc-5e9f6717cd95

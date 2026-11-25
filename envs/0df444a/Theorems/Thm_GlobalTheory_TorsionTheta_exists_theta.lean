@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionTheta_exists_theta
 -- name    : GlobalTheory.TorsionTheta.exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:05:13.670339+00:00
 -- url     : https://prove2.me/theorems/b3805ea3-df51-5cd9-b0f0-23c74fb5a10c

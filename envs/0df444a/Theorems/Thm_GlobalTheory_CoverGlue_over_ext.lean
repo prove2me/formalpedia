@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_over_ext
 -- name    : GlobalTheory.CoverGlue.over_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:19:49.649206+00:00
 -- url     : https://prove2.me/theorems/3ad4ee9c-1c4b-4376-bca4-751ff28de742

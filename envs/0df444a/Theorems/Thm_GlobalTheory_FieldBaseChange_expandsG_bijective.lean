@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_expandsG_bijective
 -- name    : GlobalTheory.FieldBaseChange.expandsG_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:47:34.039991+00:00
 -- url     : https://prove2.me/theorems/9550e0fd-916d-4c62-bd74-af2366fd0be2

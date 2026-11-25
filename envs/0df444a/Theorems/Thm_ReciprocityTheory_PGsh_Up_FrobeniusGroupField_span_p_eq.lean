@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_span_p_eq
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.span_p_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:48.942431+00:00
 -- url     : https://prove2.me/theorems/9cf247ed-5e9c-446f-ac5b-45b4e14c4590

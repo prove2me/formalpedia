@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_Defect_general
 -- name    : GlobalTheory.QNorm.Defect.general
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:19:10.255093+00:00
 -- url     : https://prove2.me/theorems/374d7ff5-fedf-52d1-a097-82c5d0e21436

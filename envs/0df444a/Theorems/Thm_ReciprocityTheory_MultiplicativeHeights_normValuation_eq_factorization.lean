@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_normValuation_eq_factorization
 -- name    : ReciprocityTheory.MultiplicativeHeights.normValuation_eq_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:23.133796+00:00
 -- url     : https://prove2.me/theorems/5030d74d-f106-5a95-8a46-787926c70f02

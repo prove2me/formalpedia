@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CartierDual_isGroupLikeElem_dual_iff
 -- name    : GlobalTheory.CartierDual.isGroupLikeElem_dual_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:21.297802+00:00
 -- url     : https://prove2.me/theorems/5fb4fdec-7416-485c-b402-02c1c6b8c8db

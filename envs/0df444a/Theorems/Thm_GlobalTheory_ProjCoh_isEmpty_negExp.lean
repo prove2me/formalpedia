@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCoh_isEmpty_negExp
 -- name    : GlobalTheory.ProjCoh.isEmpty_negExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:16:00.330484+00:00
 -- url     : https://prove2.me/theorems/76e649be-7758-5393-9d9a-c48b646925e1

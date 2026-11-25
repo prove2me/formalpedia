@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertLatticeTwist_hasLevel
 -- name    : GlobalTheory.T.hilbertLatticeTwist_hasLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:33:31.931105+00:00
 -- url     : https://prove2.me/theorems/daff9d02-3d60-588d-8050-80e19cb91cbc

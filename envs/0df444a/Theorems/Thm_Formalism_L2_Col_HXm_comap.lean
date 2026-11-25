@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_HXm_comap
 -- name    : Formalism.L2.Col.HXm_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:44:04.772949+00:00
 -- url     : https://prove2.me/theorems/e326eb11-0fa7-49ed-9e3c-3b087e5d75da

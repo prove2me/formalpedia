@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_dbar_coordinates_hold
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.dbar_coordinates_hold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:21:33.625842+00:00
 -- url     : https://prove2.me/theorems/8d2a7006-2e39-4048-baf7-0df0a09ded18

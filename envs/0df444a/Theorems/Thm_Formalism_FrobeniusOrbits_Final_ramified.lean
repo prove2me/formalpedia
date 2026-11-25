@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Final_ramified
 -- name    : Formalism.FrobeniusOrbits.Final.ramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:43:42.353781+00:00
 -- url     : https://prove2.me/theorems/4e64bd2b-42a1-5d7a-bdfe-833c9e4612b3

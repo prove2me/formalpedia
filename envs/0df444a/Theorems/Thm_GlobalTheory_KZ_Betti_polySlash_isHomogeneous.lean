@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KZ_Betti_polySlash_isHomogeneous
 -- name    : GlobalTheory.KZ.Betti.polySlash_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:12:17.15506+00:00
 -- url     : https://prove2.me/theorems/cdd54ae5-d8d2-4c17-8c50-cbdc4a221beb

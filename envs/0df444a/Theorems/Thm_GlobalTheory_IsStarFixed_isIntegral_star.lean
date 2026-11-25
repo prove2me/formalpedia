@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsStarFixed_isIntegral_star
 -- name    : GlobalTheory.IsStarFixed.isIntegral_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:11:09.583706+00:00
 -- url     : https://prove2.me/theorems/1ab7fa48-45c0-5960-b967-6e7e3483e1d1

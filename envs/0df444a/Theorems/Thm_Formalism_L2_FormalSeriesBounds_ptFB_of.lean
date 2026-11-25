@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ptFB_of
 -- name    : Formalism.L2.FormalSeriesBounds.ptFB_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:54.285471+00:00
 -- url     : https://prove2.me/theorems/426f7953-9fc3-5ad5-a5c0-8d90fce962b2

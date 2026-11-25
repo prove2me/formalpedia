@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_lemmaQ_tw
 -- name    : ReciprocityTheory.ChartRestriction.L1.lemmaQ_tw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:46:20.392824+00:00
 -- url     : https://prove2.me/theorems/8253f337-3266-4bf3-b2e1-0c6ad0a07e10

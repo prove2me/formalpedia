@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos679_gap_from_log_bounds
 -- name    : Erdos679.gap_from_log_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:01:15.65288+00:00
 -- url     : https://prove2.me/theorems/c15e11d6-3f8b-4009-92a3-146dec6339b9

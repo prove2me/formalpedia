@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_cechTripleRestrictComposite_comp_pairRestrict
 -- name    : GlobalTheory.CechDR.cechTripleRestrictComposite_comp_pairRestrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:51:20.827162+00:00
 -- url     : https://prove2.me/theorems/5b9a9e6f-4190-48fa-b0a2-9b08a6f3c7c7

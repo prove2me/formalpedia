@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjHol_bijective_fderiv_of_injOn
 -- name    : GlobalTheory.InjHol.bijective_fderiv_of_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:29.899408+00:00
 -- url     : https://prove2.me/theorems/dd3a345b-20ca-41fe-b3af-e1b4418137da

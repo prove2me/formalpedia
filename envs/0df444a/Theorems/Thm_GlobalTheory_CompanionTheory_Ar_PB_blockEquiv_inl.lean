@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_blockEquiv_inl
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.blockEquiv_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:40.799375+00:00
 -- url     : https://prove2.me/theorems/656ee3e9-e2a2-4061-b061-de5cda5d4b6c

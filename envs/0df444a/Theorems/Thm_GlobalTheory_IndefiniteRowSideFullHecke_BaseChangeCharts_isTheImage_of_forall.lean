@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_BaseChangeCharts_isTheImage_of_forall
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.BaseChangeCharts.isTheImage_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:09:38.748097+00:00
 -- url     : https://prove2.me/theorems/c29974ae-5d06-50a8-9d94-49c0c901c4d0

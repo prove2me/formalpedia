@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_index_eq_length
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.index_eq_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:53:01.236296+00:00
 -- url     : https://prove2.me/theorems/8849e9ee-1073-5240-bbcf-7961df727ff9

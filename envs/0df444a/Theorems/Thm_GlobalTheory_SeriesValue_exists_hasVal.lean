@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesValue_exists_hasVal
 -- name    : GlobalTheory.SeriesValue.exists_hasVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:50:45.834652+00:00
 -- url     : https://prove2.me/theorems/45294e61-9a9a-4571-a53f-1099e37adc14

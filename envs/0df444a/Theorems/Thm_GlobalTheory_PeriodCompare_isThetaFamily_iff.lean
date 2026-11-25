@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_isThetaFamily_iff
 -- name    : GlobalTheory.PeriodCompare.isThetaFamily_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:27.590852+00:00
 -- url     : https://prove2.me/theorems/8c7eaf72-dd16-5abf-b39c-18cf9fcd065b

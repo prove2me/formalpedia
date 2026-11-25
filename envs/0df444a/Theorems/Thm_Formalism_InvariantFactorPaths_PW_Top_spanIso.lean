@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_spanIso
 -- name    : Formalism.InvariantFactorPaths.PW.Top.spanIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:43:02.052665+00:00
 -- url     : https://prove2.me/theorems/f5324362-b0d4-5eef-9b78-6ece55b6d20c

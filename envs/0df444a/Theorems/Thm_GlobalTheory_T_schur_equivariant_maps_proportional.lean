@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schur_equivariant_maps_proportional
 -- name    : GlobalTheory.T.schur_equivariant_maps_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:09.135911+00:00
 -- url     : https://prove2.me/theorems/4e6af9cc-42e2-4f72-81e7-180bf4ecabc7

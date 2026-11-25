@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JacPoisson_jacobian_implication
 -- name    : JacPoisson.jacobian_implication
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:50:43.677432+00:00
 -- url     : https://prove2.me/theorems/90ba9bbb-c3e9-479a-818e-46418994a8bf

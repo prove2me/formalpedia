@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Chr_VS_anti
 -- name    : UpperTheory.V.Chr.VS_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:14:36.366019+00:00
 -- url     : https://prove2.me/theorems/e1bc9962-3a41-4088-afb8-60c3140647a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowValueCheck_no_equal_types
 -- name    : GlobalTheory.RowValueCheck.no_equal_types
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:43.574369+00:00
 -- url     : https://prove2.me/theorems/4ada851a-f9d7-4d67-8a11-636b8c806d84

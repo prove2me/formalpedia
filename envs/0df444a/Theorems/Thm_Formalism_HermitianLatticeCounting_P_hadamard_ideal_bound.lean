@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hadamard_ideal_bound
 -- name    : Formalism.HermitianLatticeCounting.P.hadamard_ideal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:39:02.162009+00:00
 -- url     : https://prove2.me/theorems/31ab28f0-d0ae-5641-907e-a465ec712e35

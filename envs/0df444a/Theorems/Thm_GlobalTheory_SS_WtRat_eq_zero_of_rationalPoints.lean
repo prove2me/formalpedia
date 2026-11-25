@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_WtRat_eq_zero_of_rationalPoints
 -- name    : GlobalTheory.SS.WtRat.eq_zero_of_rationalPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:47:22.949401+00:00
 -- url     : https://prove2.me/theorems/8a2c902e-d8e9-42d4-9db7-4fa854663aaa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetTest_jetTan_X
 -- name    : GlobalTheory.JetTest.jetTan_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:11:31.570187+00:00
 -- url     : https://prove2.me/theorems/a298ae79-3a3e-55ef-a910-6af9050953a9

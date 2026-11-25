@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_Smith_piv_zero
 -- name    : ReciprocityTheory.PGsh.Up.Smith.piv_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:14.850149+00:00
 -- url     : https://prove2.me/theorems/3d5ef959-badc-40f9-b1a3-60296b2c8b49

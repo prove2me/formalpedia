@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_one_add_pow_le
 -- name    : ZetaZeros.D.EllReg.one_add_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:46.382563+00:00
 -- url     : https://prove2.me/theorems/87a0acc3-289d-4d0e-920c-74b23504f96e

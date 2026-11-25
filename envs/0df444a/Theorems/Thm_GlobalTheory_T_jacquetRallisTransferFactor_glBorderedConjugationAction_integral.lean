@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquetRallisTransferFactor_glBorderedConjugationAction_integral
 -- name    : GlobalTheory.T.jacquetRallisTransferFactor_glBorderedConjugationAction_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:46.975005+00:00
 -- url     : https://prove2.me/theorems/bb4c5be3-4d2c-403c-a406-2ec2aa21dfa4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_HostConjugateIdeal_Level_Dvd_refl
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.HostConjugateIdeal.Level.Dvd.refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:41.983844+00:00
 -- url     : https://prove2.me/theorems/d69c8571-0b89-53df-8361-88f849286489

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_cls_splitK_or_small
 -- name    : Formalism.BasicNotions.Host.cls_splitK_or_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:20:17.970639+00:00
 -- url     : https://prove2.me/theorems/38dc3649-9563-5175-b844-315ebdebe7c0

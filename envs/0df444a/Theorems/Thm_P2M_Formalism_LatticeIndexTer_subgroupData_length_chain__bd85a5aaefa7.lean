@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LatticeIndexTer_subgroupData_length_chain__bd85a5aaefa7
 -- name    : P2M_Formalism_LatticeIndexTer_subgroupData_length_chain__bd85a5aaefa7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:05:55.966366+00:00
 -- url     : https://prove2.me/theorems/a2603b5c-0a1c-41f7-a728-297175ace036

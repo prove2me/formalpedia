@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_combined_trivial
 -- name    : GlobalTheory.Reg.Transfer.combined_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:18:36.203958+00:00
 -- url     : https://prove2.me/theorems/c0d3d417-6bc6-401d-8611-5973b9a896b6

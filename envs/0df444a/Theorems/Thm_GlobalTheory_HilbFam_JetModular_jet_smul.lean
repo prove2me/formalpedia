@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_JetModular_jet_smul
 -- name    : GlobalTheory.HilbFam.JetModular.jet_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:31.311331+00:00
 -- url     : https://prove2.me/theorems/30938d7f-6b89-49da-976c-3a3fc0882e98

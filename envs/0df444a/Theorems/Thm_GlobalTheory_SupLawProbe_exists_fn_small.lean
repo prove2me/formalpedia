@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_exists_fn_small
 -- name    : GlobalTheory.SupLawProbe.exists_fn_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:24:56.974404+00:00
 -- url     : https://prove2.me/theorems/98f6e05d-bbb7-5942-8a7f-bd30dca83b00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_OddFam_aChi_fam
 -- name    : GlobalTheory.Hk.OddFam.aChi_fam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:46.080322+00:00
 -- url     : https://prove2.me/theorems/b5a55d61-85ea-43dc-bb1d-8031daae26af

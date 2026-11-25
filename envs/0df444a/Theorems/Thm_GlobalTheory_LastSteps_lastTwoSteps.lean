@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastSteps_lastTwoSteps
 -- name    : GlobalTheory.LastSteps.lastTwoSteps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:12:42.407684+00:00
 -- url     : https://prove2.me/theorems/6eba0fb8-c10b-57e8-9804-b99c360a042c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_support_product_quotient
 -- name    : GlobalTheory.T.finite_support_product_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:07.624245+00:00
 -- url     : https://prove2.me/theorems/9ef1c41e-d8d8-5460-93b8-d3a579b20820

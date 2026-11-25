@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_threshold_exponent_estimate
 -- name    : Formalism.FourierDecayAlt.P.threshold_exponent_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:40:49.154958+00:00
 -- url     : https://prove2.me/theorems/d237d0d1-cd39-545f-bd13-94d439e56960

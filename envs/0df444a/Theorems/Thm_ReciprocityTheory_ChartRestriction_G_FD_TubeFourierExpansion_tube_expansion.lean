@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TubeFourierExpansion_tube_expansion
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TubeFourierExpansion.tube_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:24:06.568421+00:00
 -- url     : https://prove2.me/theorems/125e5e2c-2e29-43ea-9d2a-c9c14b9938dc

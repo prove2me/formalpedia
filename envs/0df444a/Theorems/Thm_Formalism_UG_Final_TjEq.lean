@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_TjEq
 -- name    : Formalism.UG.Final.TjEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:46.982573+00:00
 -- url     : https://prove2.me/theorems/6ff1294b-ce9c-5200-90a2-216e26f6f849

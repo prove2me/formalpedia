@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_continuous_crossed_homomorphisms
 -- name    : GlobalTheory.T.finite_continuous_crossed_homomorphisms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:03.010231+00:00
 -- url     : https://prove2.me/theorems/2c46e6a5-bd5d-4d72-8a15-48b21ab6fa00

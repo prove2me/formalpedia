@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_position_block_plus_alt
 -- name    : Formalism.FourierDecayAlt.P.position_block_plus_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:35.512806+00:00
 -- url     : https://prove2.me/theorems/5b7ced50-5503-5e18-b0d2-05d4e44e84e7

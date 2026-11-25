@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_unip_trace_map
 -- name    : ReciprocityTheory.MultiplicativeHeights.unip_trace_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:42.835359+00:00
 -- url     : https://prove2.me/theorems/e8818c09-25c7-5fc1-b8d2-6c4d11f66f13

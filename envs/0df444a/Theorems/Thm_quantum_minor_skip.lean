@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_quantum_minor_skip
 -- name    : quantum_minor_skip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:15:23.346234+00:00
 -- url     : https://prove2.me/theorems/5d90b9ea-d12b-5311-b6d4-dfdc401b4ce1

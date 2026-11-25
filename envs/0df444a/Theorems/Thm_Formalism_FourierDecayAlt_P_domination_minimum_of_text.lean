@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_domination_minimum_of_text
 -- name    : Formalism.FourierDecayAlt.P.domination_minimum_of_text
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:31:54.992798+00:00
 -- url     : https://prove2.me/theorems/11f1e241-39ee-478e-af06-14afcf196620

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_termBound_proof
 -- name    : Formalism.FourierDecayAlt.P.le_termBound_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:15.635296+00:00
 -- url     : https://prove2.me/theorems/97fdebb1-7d3f-518e-ad1a-e5b6e8155e1a

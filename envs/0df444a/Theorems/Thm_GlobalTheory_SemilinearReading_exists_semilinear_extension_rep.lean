@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilinearReading_exists_semilinear_extension_rep
 -- name    : GlobalTheory.SemilinearReading.exists_semilinear_extension_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:26.384134+00:00
 -- url     : https://prove2.me/theorems/4b82a887-9817-57e1-935f-3d69f1d480ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_twist_comp
 -- name    : GlobalTheory.GaloisDescent.twist_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:53.06214+00:00
 -- url     : https://prove2.me/theorems/4ad25c51-4ce2-5f9b-b626-fa7ded00ae32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_primeBoundsExact
 -- name    : Formalism.EigenvalueLevelCeiling.primeBoundsExact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:34:03.949331+00:00
 -- url     : https://prove2.me/theorems/5e0bd864-1b83-4c27-98ed-d508019db6f0

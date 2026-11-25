@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaCounterexample_betaH_congr
 -- name    : GlobalTheory.BetaCounterexample.betaH_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:09:39.188183+00:00
 -- url     : https://prove2.me/theorems/abeff00d-fc98-497e-bf17-ee61ac7bd53d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_expBijF_and_expandsF_lin
 -- name    : GlobalTheory.UT.expBijF_and_expandsF_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:03:28.976135+00:00
 -- url     : https://prove2.me/theorems/65c402c3-f6fb-4e88-bbe3-e0324b116a44

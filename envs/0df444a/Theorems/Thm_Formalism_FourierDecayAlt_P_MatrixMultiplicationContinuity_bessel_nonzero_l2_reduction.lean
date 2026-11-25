@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_bessel_nonzero_l2_reduction
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.bessel_nonzero_l2_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:56:02.934371+00:00
 -- url     : https://prove2.me/theorems/f900e384-5bd3-4eec-9c84-3273fe60e63c

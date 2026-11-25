@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CertRandQROM_lemma_3_1_trace_dist_le_euclid
 -- name    : CertRandQROM.lemma_3_1_trace_dist_le_euclid
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-06T22:30:49.548733+00:00
 -- url     : https://prove2.me/theorems/e49c5113-4298-480b-9b25-e00f268a476b

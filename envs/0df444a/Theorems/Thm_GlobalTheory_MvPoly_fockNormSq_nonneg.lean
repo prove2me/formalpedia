@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_fockNormSq_nonneg
 -- name    : GlobalTheory.MvPoly.fockNormSq_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:19.594899+00:00
 -- url     : https://prove2.me/theorems/14a7ca03-46ca-4a93-8a68-43270108e2d9

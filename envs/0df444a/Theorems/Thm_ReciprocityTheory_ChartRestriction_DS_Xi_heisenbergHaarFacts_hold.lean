@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_heisenbergHaarFacts_hold
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.heisenbergHaarFacts_hold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:45:36.236311+00:00
 -- url     : https://prove2.me/theorems/e2307b51-7217-438d-9861-35b151a53cb3

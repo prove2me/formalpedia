@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_eval_update_eq_eval_aeval
 -- name    : ReciprocityTheory.MultiplicativeHeights.eval_update_eq_eval_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:06.033517+00:00
 -- url     : https://prove2.me/theorems/b08adc9c-9d1b-5039-8697-f0b097e0ffa9

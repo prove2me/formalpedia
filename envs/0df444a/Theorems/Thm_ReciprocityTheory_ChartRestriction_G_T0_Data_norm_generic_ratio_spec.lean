@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_norm_generic_ratio_spec
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.norm_generic_ratio_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:40:39.796954+00:00
 -- url     : https://prove2.me/theorems/bbc29bf0-b814-4b3a-bff2-f04bda5e2774

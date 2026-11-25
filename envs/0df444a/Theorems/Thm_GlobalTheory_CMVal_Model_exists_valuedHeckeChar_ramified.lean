@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_exists_valuedHeckeChar_ramified
 -- name    : GlobalTheory.CMVal.Model.exists_valuedHeckeChar_ramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:42.013829+00:00
 -- url     : https://prove2.me/theorems/1a9c3acc-2877-4e4c-8c46-1790dd4fd50c

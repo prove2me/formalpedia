@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.size_bounds_conclusion
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T16:56:31.541436+00:00
+-- url     : https://prove2.me/submissions/f9dc606b-9430-4509-97bb-86e4fd8bd5df
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementSz
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CorollaryAOfPropositionA
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_VandermondeRatioHarmonic
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaBoundOnBoundary
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CmRingIdempotentUnitRatioIdentity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SixteenMulLeTwoPow
+import Theorems.Thm_Formalism_FourierDecayAlt_P_sz_sizesMain_of
+import Theorems.Thm_Formalism_FourierDecayAlt_P_a_zero_le_one_sixty
+import Theorems.Thm_Formalism_FourierDecayAlt_P_beta_bound_on_boundary
+import Theorems.Thm_Formalism_FourierDecayAlt_P_corollary_a_of_proposition_a
+import Theorems.Thm_Formalism_FourierDecayAlt_P_final_smallness
+import Theorems.Thm_Formalism_FourierDecayAlt_P_interlacing
+import Theorems.Thm_Formalism_FourierDecayAlt_P_lamStrictAnti
+import Theorems.Thm_Formalism_FourierDecayAlt_P_theta_lower_bound
+import Theorems.Thm_Formalism_FourierDecayAlt_P_theta_power_bound
+import Theorems.Thm_Formalism_FourierDecayAlt_P_threshold_products
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Finset Formalism.FourierDecayAlt.Sz Formalism.FourierDecayAlt.P.Sz9
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.Sz.SizesMain :=
+  sz_sizesMain_of corollary_a_of_proposition_a beta_bound_on_boundary a_zero_le_one_sixty interlacing
+    lamStrictAnti threshold_products theta_lower_bound theta_power_bound final_smallness
+end Formalism.FourierDecayAlt.P

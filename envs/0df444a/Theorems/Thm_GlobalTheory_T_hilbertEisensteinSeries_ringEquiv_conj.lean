@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertEisensteinSeries_ringEquiv_conj
 -- name    : GlobalTheory.T.hilbertEisensteinSeries_ringEquiv_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:09.291034+00:00
 -- url     : https://prove2.me/theorems/3aed20bc-2dd1-499e-9735-19f854ada10d

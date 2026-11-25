@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_subgroup_addChar_dotProduct_trivial_on_compact
 -- name    : GlobalTheory.T.exists_subgroup_addChar_dotProduct_trivial_on_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:16.302516+00:00
 -- url     : https://prove2.me/theorems/0c80c7e6-d827-4150-957b-17f7685105a6

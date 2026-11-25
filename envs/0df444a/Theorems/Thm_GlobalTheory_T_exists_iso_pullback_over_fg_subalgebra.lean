@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_iso_pullback_over_fg_subalgebra
 -- name    : GlobalTheory.T.exists_iso_pullback_over_fg_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:06:51.471463+00:00
 -- url     : https://prove2.me/theorems/c60a9879-28ea-5790-8e82-453cc3a43109

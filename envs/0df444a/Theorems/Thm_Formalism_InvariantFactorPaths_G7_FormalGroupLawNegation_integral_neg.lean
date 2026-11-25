@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLawNegation_integral_neg
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLawNegation.integral_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:39.874252+00:00
 -- url     : https://prove2.me/theorems/ec0e17f4-b6eb-4b5e-a547-a3a2e1d5e9f5

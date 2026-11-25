@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_descendedFunction_eq_partialFourier
 -- name    : GlobalTheory.T.fourier_descendedFunction_eq_partialFourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:07.192943+00:00
 -- url     : https://prove2.me/theorems/502eeb4b-9ba3-56ce-aa03-a84cc1c0e4dc

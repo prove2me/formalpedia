@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvDiffLocal_valuation_mul_different_le_one
 -- name    : GlobalTheory.InvDiffLocal.valuation_mul_different_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:10:53.867797+00:00
 -- url     : https://prove2.me/theorems/a96db1fe-95f8-4dfc-b2ff-8954cdf179d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_existsUnique_gen_linComb
 -- name    : GlobalTheory.DvrModel.existsUnique_gen_linComb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:03.390461+00:00
 -- url     : https://prove2.me/theorems/305fed1a-0e92-593c-ab21-50342329dadb

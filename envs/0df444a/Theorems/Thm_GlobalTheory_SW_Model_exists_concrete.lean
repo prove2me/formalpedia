@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_exists_concrete
 -- name    : GlobalTheory.SW.Model.exists_concrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:33.710091+00:00
 -- url     : https://prove2.me/theorems/71553daf-1521-4026-becf-c5e48fb7cf91

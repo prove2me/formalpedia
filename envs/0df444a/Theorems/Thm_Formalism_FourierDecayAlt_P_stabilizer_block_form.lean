@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_block_form
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_block_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:36:28.764171+00:00
 -- url     : https://prove2.me/theorems/5e4af647-6ea1-5040-9001-ba53b0cb8a3c

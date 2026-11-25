@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_coset_functional_mem
 -- name    : ReciprocityTheory.PGsh.L2.coset_functional_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:05:25.584972+00:00
 -- url     : https://prove2.me/theorems/187da488-847a-42c7-99ff-db433a489086

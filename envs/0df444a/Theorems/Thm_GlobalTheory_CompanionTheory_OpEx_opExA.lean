@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OpEx_opExA
 -- name    : GlobalTheory.CompanionTheory.OpEx.opExA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:12:05.808856+00:00
 -- url     : https://prove2.me/theorems/ad360916-aed4-48e5-aeeb-c95051271e5e

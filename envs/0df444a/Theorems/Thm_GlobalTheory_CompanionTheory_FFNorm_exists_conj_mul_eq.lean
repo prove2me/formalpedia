@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FFNorm_exists_conj_mul_eq
 -- name    : GlobalTheory.CompanionTheory.FFNorm.exists_conj_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:00:58.906801+00:00
 -- url     : https://prove2.me/theorems/dfd08a3d-2a3a-4256-9810-477949b889e3

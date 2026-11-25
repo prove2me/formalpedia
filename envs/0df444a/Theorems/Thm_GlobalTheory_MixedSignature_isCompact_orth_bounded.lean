@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_isCompact_orth_bounded
 -- name    : GlobalTheory.MixedSignature.isCompact_orth_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:54:36.650516+00:00
 -- url     : https://prove2.me/theorems/14910354-c4b3-468c-bb12-f181e0437fdb

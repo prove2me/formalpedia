@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_FilAt_anti
 -- name    : GlobalTheory.NL.Model.FilAt_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:15:34.986528+00:00
 -- url     : https://prove2.me/theorems/726c1d34-dc82-460f-8391-54c74197614f

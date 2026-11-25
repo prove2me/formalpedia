@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_finite_orbits_stLat_of_separable
 -- name    : GlobalTheory.UnitLemma.finite_orbits_stLat_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:09:30.890799+00:00
 -- url     : https://prove2.me/theorems/beb20ee8-eb6f-4510-a4d7-d0950bb75229

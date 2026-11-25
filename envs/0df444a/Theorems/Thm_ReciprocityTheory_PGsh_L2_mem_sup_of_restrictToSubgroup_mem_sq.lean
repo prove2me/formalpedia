@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_mem_sup_of_restrictToSubgroup_mem_sq
 -- name    : ReciprocityTheory.PGsh.L2.mem_sup_of_restrictToSubgroup_mem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:48.069941+00:00
 -- url     : https://prove2.me/theorems/ad082188-13b8-4ee1-bb52-a6e852ac048f

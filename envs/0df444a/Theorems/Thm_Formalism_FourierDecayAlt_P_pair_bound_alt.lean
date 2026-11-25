@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_pair_bound_alt
 -- name    : Formalism.FourierDecayAlt.P.pair_bound_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:34:20.609372+00:00
 -- url     : https://prove2.me/theorems/18c3fad5-1252-436d-b91e-3e253fc59643

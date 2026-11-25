@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OfPeriod_zsmul_mem_Lam
 -- name    : GlobalTheory.OfPeriod.zsmul_mem_Lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:10.616104+00:00
 -- url     : https://prove2.me/theorems/96a8227d-bce4-5f42-80cf-d52daa53afe7

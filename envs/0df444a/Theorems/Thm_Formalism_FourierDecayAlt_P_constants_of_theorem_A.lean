@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_constants_of_theorem_A
 -- name    : Formalism.FourierDecayAlt.P.constants_of_theorem_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:30:00.961399+00:00
 -- url     : https://prove2.me/theorems/ddd8b25c-981e-43d7-b14e-b2bcacf7c868

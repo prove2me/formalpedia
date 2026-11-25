@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_FormsTensorLocalization_hecke_valuation_reduction
 -- name    : Formalism.RankGapBounds.FormsTensorLocalization.hecke_valuation_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:09.562672+00:00
 -- url     : https://prove2.me/theorems/e92f788e-4226-4cd3-984e-425372661c3f

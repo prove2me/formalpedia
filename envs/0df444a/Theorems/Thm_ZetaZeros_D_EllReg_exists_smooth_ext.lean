@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_exists_smooth_ext
 -- name    : ZetaZeros.D.EllReg.exists_smooth_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:14:05.635494+00:00
 -- url     : https://prove2.me/theorems/dd43b72b-0140-42af-923f-8c771ae8da6b

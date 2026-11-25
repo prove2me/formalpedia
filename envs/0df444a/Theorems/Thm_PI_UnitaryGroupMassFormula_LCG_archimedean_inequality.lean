@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_archimedean_inequality
 -- name    : PI.UnitaryGroupMassFormula.LCG.archimedean_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:25.971249+00:00
 -- url     : https://prove2.me/theorems/07ac4c1f-e2f1-4953-87bc-aa73e4e5b708

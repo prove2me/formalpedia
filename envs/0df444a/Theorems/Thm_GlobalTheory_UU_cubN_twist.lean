@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_cubN_twist
 -- name    : GlobalTheory.UU.cubN_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:19.299791+00:00
 -- url     : https://prove2.me/theorems/80274bb8-665c-46ec-9ba5-3a755bc95c72

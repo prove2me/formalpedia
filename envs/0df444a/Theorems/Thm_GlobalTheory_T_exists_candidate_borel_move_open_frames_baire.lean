@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_candidate_borel_move_open_frames_baire
 -- name    : GlobalTheory.T.exists_candidate_borel_move_open_frames_baire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:41.167897+00:00
 -- url     : https://prove2.me/theorems/64430de5-c645-4dee-bd19-3474357f5b2a

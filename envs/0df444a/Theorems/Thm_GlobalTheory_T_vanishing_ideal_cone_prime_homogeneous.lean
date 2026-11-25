@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_vanishing_ideal_cone_prime_homogeneous
 -- name    : GlobalTheory.T.vanishing_ideal_cone_prime_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:01:49.965348+00:00
 -- url     : https://prove2.me/theorems/7932abed-15d4-43e2-a51b-3fc4268707ef

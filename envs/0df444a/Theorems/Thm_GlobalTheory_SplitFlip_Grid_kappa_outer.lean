@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Grid_kappa_outer
 -- name    : GlobalTheory.SplitFlip.Grid.kappa_outer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:26:10.726943+00:00
 -- url     : https://prove2.me/theorems/0916f436-a739-4d1c-9e8d-2139cf3cd27a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_thetaBound_proof
 -- name    : Formalism.FourierDecayAlt.P.le_thetaBound_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:42.222206+00:00
 -- url     : https://prove2.me/theorems/cd091fa1-aa27-4ae8-adc6-42a53cb42f62

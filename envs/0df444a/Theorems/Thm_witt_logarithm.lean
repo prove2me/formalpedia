@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_witt_logarithm
 -- name    : witt_logarithm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:19:16.817824+00:00
 -- url     : https://prove2.me/theorems/039948d2-b4ad-5baa-92d2-615f249a00a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_margin_quadForm_pos_of_perturbation
 -- name    : GlobalTheory.T.exists_margin_quadForm_pos_of_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:56.051797+00:00
 -- url     : https://prove2.me/theorems/8afede33-5a66-492f-ab16-332e12d9473e

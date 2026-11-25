@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_TotalDegreeLinear_main
 -- name    : UpperTheory.Reformulated.B.TotalDegreeLinear.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:22.108407+00:00
 -- url     : https://prove2.me/theorems/52849028-f6d0-5b97-aff0-60906a98cee0

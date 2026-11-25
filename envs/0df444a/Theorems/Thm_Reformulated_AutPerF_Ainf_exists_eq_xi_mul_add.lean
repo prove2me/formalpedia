@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_exists_eq_xi_mul_add
 -- name    : Reformulated.AutPerF.Ainf.exists_eq_xi_mul_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:21.883054+00:00
 -- url     : https://prove2.me/theorems/b6d08825-7f89-4e7b-8a42-033276729596

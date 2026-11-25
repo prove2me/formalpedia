@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_first_coordinate_admissible
 -- name    : GlobalTheory.SW.first_coordinate_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:22:13.055799+00:00
 -- url     : https://prove2.me/theorems/e9f9ca53-a3d2-4558-b583-d4909626d016

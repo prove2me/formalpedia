@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_integrable_of_continuous_real
 -- name    : ReciprocityTheory.L2DbarEstimates.integrable_of_continuous_real
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:19.784427+00:00
 -- url     : https://prove2.me/theorems/beec8dd0-eb89-418c-b98c-0f8b5053df5d

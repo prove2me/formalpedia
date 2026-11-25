@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_passage_chain
 -- name    : Formalism.DivisionValues.passage_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:50.14625+00:00
 -- url     : https://prove2.me/theorems/7cb7aaa3-c026-5713-9db8-49e0d81c38ab

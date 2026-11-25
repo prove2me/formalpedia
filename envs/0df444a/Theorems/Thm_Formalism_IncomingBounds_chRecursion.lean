@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_chRecursion
 -- name    : Formalism.IncomingBounds.chRecursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:28.712642+00:00
 -- url     : https://prove2.me/theorems/9526f139-aff0-53fa-a2ff-05344d72b32b

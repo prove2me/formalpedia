@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_sigR_sigR
 -- name    : GlobalTheory.RegSS.sigR_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:42.021178+00:00
 -- url     : https://prove2.me/theorems/53c880ef-8321-4b15-8b56-767032a0bea3

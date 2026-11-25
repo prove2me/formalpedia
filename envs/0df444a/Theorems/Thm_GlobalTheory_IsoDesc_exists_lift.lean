@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_exists_lift
 -- name    : GlobalTheory.IsoDesc.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:57:52.05747+00:00
 -- url     : https://prove2.me/theorems/4cff0474-1e4e-4397-8bcd-3891d8b83391

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_alphaPair_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.alphaPair_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:01.454428+00:00
 -- url     : https://prove2.me/theorems/4e6d1749-5c26-5de4-8190-9008092af0fa

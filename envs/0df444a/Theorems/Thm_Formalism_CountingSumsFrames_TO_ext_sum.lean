@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_TO_ext_sum
 -- name    : Formalism.CountingSumsFrames.TO.ext_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:24:31.625403+00:00
 -- url     : https://prove2.me/theorems/7c586f8f-d4c1-4684-97ec-5735eeeccf8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoExp_bOne_zero_qExpansion
 -- name    : GlobalTheory.HeckeTwoExp.bOne_zero_qExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:14:45.73626+00:00
 -- url     : https://prove2.me/theorems/b8f452ad-b028-4bfb-bdda-a48642eed534

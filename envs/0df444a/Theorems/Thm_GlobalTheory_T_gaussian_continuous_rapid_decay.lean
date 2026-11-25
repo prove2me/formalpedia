@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussian_continuous_rapid_decay
 -- name    : GlobalTheory.T.gaussian_continuous_rapid_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:33:56.254562+00:00
 -- url     : https://prove2.me/theorems/f0156edd-120f-4d6f-b448-efb76a5f375e

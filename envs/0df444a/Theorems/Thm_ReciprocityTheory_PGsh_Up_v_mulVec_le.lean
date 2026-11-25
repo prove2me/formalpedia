@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_v_mulVec_le
 -- name    : ReciprocityTheory.PGsh.Up.v_mulVec_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:05.992951+00:00
 -- url     : https://prove2.me/theorems/b0e5a776-b28d-5d8a-b0a7-d32640c86782

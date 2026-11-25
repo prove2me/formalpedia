@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_subring_eq_univ_of_uniformizer_generates
 -- name    : GlobalTheory.T.subring_eq_univ_of_uniformizer_generates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:38:55.484555+00:00
 -- url     : https://prove2.me/theorems/ff3d908a-b967-5dd6-a0b4-c97cb0ea5a8e

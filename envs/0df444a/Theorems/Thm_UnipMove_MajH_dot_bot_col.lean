@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_MajH_dot_bot_col
 -- name    : UnipMove.MajH.dot_bot_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:35.110475+00:00
 -- url     : https://prove2.me/theorems/85772016-de51-4a5c-882c-a74055435509

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_third_complement
 -- name    : Formalism.DivisionValues.third_complement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:24:04.774427+00:00
 -- url     : https://prove2.me/theorems/c7897a47-8e87-5c36-96e0-b27cb6ec75b2

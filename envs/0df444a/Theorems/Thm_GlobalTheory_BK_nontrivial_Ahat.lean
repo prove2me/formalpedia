@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_nontrivial_Ahat
 -- name    : GlobalTheory.BK.nontrivial_Ahat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:56:23.139348+00:00
 -- url     : https://prove2.me/theorems/10b4c895-649f-402d-9998-4dabdac3c2d0

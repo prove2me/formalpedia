@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_fold_via_lintegral_formula
 -- name    : GlobalTheory.T.integral_fold_via_lintegral_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:33:52.618369+00:00
 -- url     : https://prove2.me/theorems/2751d1c4-53e3-54f0-9fd9-40917752b4e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_f1alg_cancel
 -- name    : Formalism.REAL.f1alg_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:03.334042+00:00
 -- url     : https://prove2.me/theorems/ab8a6a2f-e002-4968-b367-ee405d9a5f34

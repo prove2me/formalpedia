@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_lbIso_of_isLimit
 -- name    : GlobalTheory.exists_lbIso_of_isLimit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:11:59.649576+00:00
 -- url     : https://prove2.me/theorems/bb3aa876-1abc-5ae8-82d9-e76a1b4fb9bd

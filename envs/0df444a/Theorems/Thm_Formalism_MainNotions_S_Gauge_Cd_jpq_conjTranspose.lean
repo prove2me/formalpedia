@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_S_Gauge_Cd_jpq_conjTranspose
 -- name    : Formalism.MainNotions.S.Gauge.Cd.jpq_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:51:11.73612+00:00
 -- url     : https://prove2.me/theorems/85f18090-535b-4902-8808-d97ca45fc932

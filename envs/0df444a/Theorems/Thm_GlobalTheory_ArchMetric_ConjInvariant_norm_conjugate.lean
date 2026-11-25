@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_ConjInvariant_norm_conjugate
 -- name    : GlobalTheory.ArchMetric.ConjInvariant.norm_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:47.841647+00:00
 -- url     : https://prove2.me/theorems/4b8f6bf9-4c45-40d9-b292-843539c1c441

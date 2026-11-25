@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_example_slope_bound_nontrivial
 -- name    : Formalism.L2.Indef.Tree.example_slope_bound_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:54.783808+00:00
 -- url     : https://prove2.me/theorems/11ef86ea-3371-4874-8475-d73195a3c517

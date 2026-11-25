@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_frameB_ne_bot
 -- name    : Formalism.HN.frameB_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:41.626098+00:00
 -- url     : https://prove2.me/theorems/4c191cdd-6384-4e35-b7bc-78dfade33e36

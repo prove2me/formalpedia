@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HermComp_map_unitary
 -- name    : GlobalTheory.SW.HermComp.map_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:21:20.945546+00:00
 -- url     : https://prove2.me/theorems/2b20a027-ee26-4fbc-93d1-71df62c32c9b

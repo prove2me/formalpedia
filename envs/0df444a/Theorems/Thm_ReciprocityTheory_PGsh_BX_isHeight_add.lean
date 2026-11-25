@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_isHeight_add
 -- name    : ReciprocityTheory.PGsh.BX.isHeight_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:25.220025+00:00
 -- url     : https://prove2.me/theorems/e05af309-55bc-42ed-9aac-787a170ca73c

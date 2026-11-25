@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_goodOpen_of_equivar
 -- name    : GlobalTheory.SS.TorusSlice.goodOpen_of_equivar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:21:29.364067+00:00
 -- url     : https://prove2.me/theorems/e284f495-d7ac-46cb-9f6c-8829d071e2e3

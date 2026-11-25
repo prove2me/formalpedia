@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeSplit_proj_apply
 -- name    : GlobalTheory.SelfDualLatticeSplit.proj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:22:55.207459+00:00
 -- url     : https://prove2.me/theorems/8d2531da-e92a-4d02-b4e8-a60c79d20943

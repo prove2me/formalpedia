@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_isCompl_part_off
 -- name    : Formalism.L2.NCov.isCompl_part_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:45:19.301172+00:00
 -- url     : https://prove2.me/theorems/aa3150c7-5561-4db5-b60e-e407581d0e4e

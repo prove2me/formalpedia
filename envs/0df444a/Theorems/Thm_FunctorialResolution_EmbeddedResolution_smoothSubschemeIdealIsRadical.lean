@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smoothSubschemeIdealIsRadical
 -- name    : FunctorialResolution.EmbeddedResolution.smoothSubschemeIdealIsRadical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:21.7088+00:00
 -- url     : https://prove2.me/theorems/7b598a1e-619f-48b4-b644-98a3c001da77

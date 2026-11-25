@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_dmin_line_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.dmin_line_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:56:30.662906+00:00
 -- url     : https://prove2.me/theorems/d9a2089e-728b-572f-bf65-824d35232aec

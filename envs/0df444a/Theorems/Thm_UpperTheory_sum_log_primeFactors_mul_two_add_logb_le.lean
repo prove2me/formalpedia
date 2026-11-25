@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_sum_log_primeFactors_mul_two_add_logb_le
 -- name    : UpperTheory.sum_log_primeFactors_mul_two_add_logb_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:19.258299+00:00
 -- url     : https://prove2.me/theorems/a80a8aff-cdd1-4235-abf7-5df47180efdb

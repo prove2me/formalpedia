@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSeries_intAA_iff_exists_map
 -- name    : GlobalTheory.IntSeries.intAA_iff_exists_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:28.809262+00:00
 -- url     : https://prove2.me/theorems/bc462aba-7108-46a4-90d4-fee57146ab9a

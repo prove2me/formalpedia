@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_discardedLocus_eq_sUnion_discardedComponents
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.discardedLocus_eq_sUnion_discardedComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:18.039201+00:00
 -- url     : https://prove2.me/theorems/66281797-dddb-4aac-915c-c809079127fa

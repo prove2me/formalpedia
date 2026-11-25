@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_top_pullback
 -- name    : Formalism.FourierDecayAlt.P.top_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:23.008797+00:00
 -- url     : https://prove2.me/theorems/4674fb1a-13eb-43e1-876d-6ba6618321f9

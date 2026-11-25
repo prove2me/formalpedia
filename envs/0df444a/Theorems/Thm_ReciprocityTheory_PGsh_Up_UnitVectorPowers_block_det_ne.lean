@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_UnitVectorPowers_block_det_ne
 -- name    : ReciprocityTheory.PGsh.Up.UnitVectorPowers.block_det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:08:42.437971+00:00
 -- url     : https://prove2.me/theorems/0a40fccb-a6af-4d97-b2bd-75295facdf50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagGramRestriction_cancel_left
 -- name    : Formalism.FourierDecayAlt.P.FlagGramRestriction.cancel_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:35:17.23073+00:00
 -- url     : https://prove2.me/theorems/5015b40f-619a-4da9-ba8a-4fa2be50a1a0

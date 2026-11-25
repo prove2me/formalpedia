@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_nfac_Zb
 -- name    : GlobalTheory.MaxCusp.nfac_Zb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:33:55.844194+00:00
 -- url     : https://prove2.me/theorems/d3e600e3-b432-5956-aa0c-4111150c966f

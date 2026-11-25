@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Par_span_algebraMap_eq_map_ptIdeal
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Par.span_algebraMap_eq_map_ptIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:36:43.112805+00:00
 -- url     : https://prove2.me/theorems/ecd1056c-fd33-4ff1-8b2e-4712ea1a404b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_brauer_nesbitt_finite_group
 -- name    : Formalism.IrreducibleCountingLemmas.Z.brauer_nesbitt_finite_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:00.054853+00:00
 -- url     : https://prove2.me/theorems/858bd55a-6731-57c1-bcdb-a59d48ebaab7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_baseUnit_rigidifiedGenericGenerator
 -- name    : GlobalTheory.T.exists_baseUnit_rigidifiedGenericGenerator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:29:09.226425+00:00
 -- url     : https://prove2.me/theorems/1522ebbc-d6ef-457e-bf19-9d18388cf4c7

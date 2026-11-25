@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_isProjBy_baseChange
 -- name    : GlobalTheory.AbLaw.isProjBy_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:47.059961+00:00
 -- url     : https://prove2.me/theorems/6cf7ae7a-fd6e-5ba4-a7d7-dab1b0775522

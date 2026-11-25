@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_SAHolds_full_5ea00a358f81
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_SAHolds_full_5ea00a358f81
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:40:02.45103+00:00
 -- url     : https://prove2.me/theorems/51f6b862-8fdc-5c73-ab32-0bc0ad984037

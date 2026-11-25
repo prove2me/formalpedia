@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpSpread_isSquare_sq
 -- name    : GlobalTheory.GrpSpread.isSquare_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:47:02.586488+00:00
 -- url     : https://prove2.me/theorems/6adcb18d-bd88-437f-9240-410cbd163099

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lift_of_isReduced_of_mem_ker_support
 -- name    : GlobalTheory.T.exists_lift_of_isReduced_of_mem_ker_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:47.820026+00:00
 -- url     : https://prove2.me/theorems/f3a07047-7c52-4c03-9d44-e4b75c2b7e8d

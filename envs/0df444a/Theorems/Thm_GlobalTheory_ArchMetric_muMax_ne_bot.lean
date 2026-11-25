@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_muMax_ne_bot
 -- name    : GlobalTheory.ArchMetric.muMax_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:55:17.350576+00:00
 -- url     : https://prove2.me/theorems/276086c3-0fa1-4101-8f1f-7807b1c73129

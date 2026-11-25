@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliCoordinates_out_of_inWb
 -- name    : Formalism.FourierDecayAlt.P.CapelliCoordinates.out_of_inWb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:31:40.184508+00:00
 -- url     : https://prove2.me/theorems/8f17a125-efc5-4fd4-8211-aa2ab17b60e6

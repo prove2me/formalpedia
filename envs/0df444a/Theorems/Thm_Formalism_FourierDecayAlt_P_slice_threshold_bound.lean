@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_slice_threshold_bound
 -- name    : Formalism.FourierDecayAlt.P.slice_threshold_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:36:01.484057+00:00
 -- url     : https://prove2.me/theorems/233ff786-c281-409f-b5c8-be9d8f12fec9

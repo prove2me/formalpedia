@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_fourierMap_smul_lambdaWeight
 -- name    : ReciprocityTheory.PGsh.Up.U3.fourierMap_smul_lambdaWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:42.002253+00:00
 -- url     : https://prove2.me/theorems/a75ddfa1-7c6d-58c6-b404-1c4d795d371b

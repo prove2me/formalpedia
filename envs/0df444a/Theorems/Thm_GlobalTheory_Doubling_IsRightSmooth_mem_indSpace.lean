@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IsRightSmooth_mem_indSpace
 -- name    : GlobalTheory.Doubling.IsRightSmooth.mem_indSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:09:15.334801+00:00
 -- url     : https://prove2.me/theorems/d88990da-d344-5d0f-9dee-46f173e65d8c

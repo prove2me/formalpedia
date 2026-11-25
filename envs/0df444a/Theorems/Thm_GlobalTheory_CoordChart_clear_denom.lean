@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordChart_clear_denom
 -- name    : GlobalTheory.CoordChart.clear_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:01:35.398935+00:00
 -- url     : https://prove2.me/theorems/7281ff22-9230-4b59-85b3-63193f449bb1

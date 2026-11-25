@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_formal_theta_sum_shift_period_div
 -- name    : GlobalTheory.AnArc.formal_theta_sum_shift_period_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:55:17.272402+00:00
 -- url     : https://prove2.me/theorems/58783e84-e1be-58a5-9109-e8d762847473

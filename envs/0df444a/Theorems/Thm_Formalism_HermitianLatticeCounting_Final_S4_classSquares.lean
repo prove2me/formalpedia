@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_classSquares
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.classSquares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:31.095813+00:00
 -- url     : https://prove2.me/theorems/fbb20480-4337-42b6-94cf-e1c525273b0b

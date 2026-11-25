@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_Inhab_levels_nonempty
 -- name    : Formalism.MainNotions.G.Inhab.levels_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:20.701164+00:00
 -- url     : https://prove2.me/theorems/fe015a7b-65dc-51df-b1cc-01e0b015c6fa

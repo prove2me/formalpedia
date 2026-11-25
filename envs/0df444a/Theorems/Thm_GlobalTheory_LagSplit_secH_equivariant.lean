@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_secH_equivariant
 -- name    : GlobalTheory.LagSplit.secH_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:13:21.651458+00:00
 -- url     : https://prove2.me/theorems/962495f6-da28-4c82-9bd0-a6bf79aaa5b5

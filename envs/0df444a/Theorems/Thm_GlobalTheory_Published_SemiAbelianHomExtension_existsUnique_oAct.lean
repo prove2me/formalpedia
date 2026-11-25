@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_existsUnique_oAct
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.existsUnique_oAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:18:38.946257+00:00
 -- url     : https://prove2.me/theorems/7dabe37f-12ce-57e5-8ead-50330edd9ff6

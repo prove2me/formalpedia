@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_modulated_schwartz_seminorm_polynomial
 -- name    : GlobalTheory.T.modulated_schwartz_seminorm_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:20.578193+00:00
 -- url     : https://prove2.me/theorems/9456c554-ec83-5f09-a8b0-5a11f6557e77

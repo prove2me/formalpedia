@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_padic_mem_range_complete_dvr_padicAlgCl
 -- name    : GlobalTheory.T.padic_mem_range_complete_dvr_padicAlgCl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:35:46.768721+00:00
 -- url     : https://prove2.me/theorems/2bda2a56-af4a-47a3-b7f3-a0edf1439d5b

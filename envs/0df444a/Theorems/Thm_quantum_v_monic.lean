@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_quantum_v_monic
 -- name    : quantum_v_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:16:58.323464+00:00
 -- url     : https://prove2.me/theorems/3c7c4242-4f5a-4a42-b3f4-962354667eab

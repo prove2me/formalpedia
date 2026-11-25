@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_P6_LargePrimeDivisors_GlobalTheory_CompanionTheory_Hypotheses__Shintani_exists_large_prime_dvd_eval_8fd8b0229643
 -- name    : P2M_UpperTheory_Reformulated_B_P6_LargePrimeDivisors_GlobalTheory_CompanionTheory_Hypotheses__Shintani_exists_large_prime_dvd_eval_8fd8b0229643
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:24:12.235075+00:00
 -- url     : https://prove2.me/theorems/1a4a4a4d-55a9-4091-8518-5757d6b5ae43

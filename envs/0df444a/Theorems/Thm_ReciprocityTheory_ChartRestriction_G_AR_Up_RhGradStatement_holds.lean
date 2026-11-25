@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_RhGradStatement_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.RhGradStatement_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:07:10.59261+00:00
 -- url     : https://prove2.me/theorems/66d3d000-5c91-58b5-9df2-eb6ded880d7f

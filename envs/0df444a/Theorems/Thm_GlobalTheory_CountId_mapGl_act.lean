@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_mapGl_act
 -- name    : GlobalTheory.CountId.mapGl_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:46.495806+00:00
 -- url     : https://prove2.me/theorems/952dd49b-3839-4ed9-86f4-148c3dd24d6e

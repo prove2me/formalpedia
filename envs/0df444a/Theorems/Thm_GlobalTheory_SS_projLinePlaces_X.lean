@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_projLinePlaces_X
 -- name    : GlobalTheory.SS.projLinePlaces_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:30.217468+00:00
 -- url     : https://prove2.me/theorems/a821910e-7b74-4f8b-85d4-dc753cf9a088

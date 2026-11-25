@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_taylor_expansion_local_coordinates
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.taylor_expansion_local_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:28:03.326941+00:00
 -- url     : https://prove2.me/theorems/6a4f3c5e-209e-4c50-9ad7-ac53a629f723

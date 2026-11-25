@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FormalGroupTorsionCharts_tateModule_ker
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FormalGroupTorsionCharts.tateModule_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:09:14.842937+00:00
 -- url     : https://prove2.me/theorems/01f30d06-952b-5abf-8d43-1b85f682d421

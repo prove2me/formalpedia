@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_borderedDetLinear_holds
 -- name    : Formalism.CountingSumsFrames.borderedDetLinear_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:23:22.144809+00:00
 -- url     : https://prove2.me/theorems/e04ad3da-1e9c-409b-8d58-c01c596b8d9a

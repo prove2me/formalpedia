@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_shannonTriangle_loopless
 -- name    : ShannonColouring.shannonTriangle_loopless
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:51:31.454653+00:00
 -- url     : https://prove2.me/theorems/b4d7748f-3caf-4ee2-947b-5da11b1e77be

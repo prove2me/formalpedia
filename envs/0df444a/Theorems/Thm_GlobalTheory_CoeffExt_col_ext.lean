@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_col_ext
 -- name    : GlobalTheory.CoeffExt.col_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:40.226383+00:00
 -- url     : https://prove2.me/theorems/e33329e9-638b-5425-ac81-7430f7e705b2

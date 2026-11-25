@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSaturatedIn_exists_disjoint_sup_eq
 -- name    : GlobalTheory.IsSaturatedIn.exists_disjoint_sup_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:01.192899+00:00
 -- url     : https://prove2.me/theorems/7ed3e9de-a535-5528-88aa-5aa4765b47a1

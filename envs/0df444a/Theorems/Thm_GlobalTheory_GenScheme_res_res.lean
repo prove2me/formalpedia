@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenScheme_res_res
 -- name    : GlobalTheory.GenScheme.res_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:17:15.168908+00:00
 -- url     : https://prove2.me/theorems/3f215690-f609-4908-9e48-ebe71ab64086

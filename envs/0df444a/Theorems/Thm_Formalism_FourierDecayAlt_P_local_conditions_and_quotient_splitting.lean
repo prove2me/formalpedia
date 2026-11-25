@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_local_conditions_and_quotient_splitting
 -- name    : Formalism.FourierDecayAlt.P.local_conditions_and_quotient_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:33:27.287682+00:00
 -- url     : https://prove2.me/theorems/04134f87-e0d0-5268-8d20-8375f4453259

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hilbert_schmidt_blocks
 -- name    : hilbert_schmidt_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:16:19.9022+00:00
 -- url     : https://prove2.me/theorems/7401fd69-cad2-4016-8e12-08f02553a076

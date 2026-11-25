@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_mem_spanCols_iff_inv
 -- name    : ReciprocityTheory.PGsh.L2.mem_spanCols_iff_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:05:44.861524+00:00
 -- url     : https://prove2.me/theorems/65704b28-97b0-4ee9-beda-2833c3b29a37

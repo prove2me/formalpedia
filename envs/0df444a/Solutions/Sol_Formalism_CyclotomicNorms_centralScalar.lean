@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for Formalism.CyclotomicNorms.centralScalar
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T16:24:29.449575+00:00
+-- url     : https://prove2.me/submissions/b2ae0877-37fd-41ed-a06c-88ad6b8004ff
+
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_Newton
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_SubstitutionBound
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_SpanQuadraticOfImage
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_Central
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_Cycles
+import Definitions.Def_Formalism_TameInertiaTowers_FinalGroup
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_Jordan
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_RestrictionOfBlocksAndJordan
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_NonsquarefreeMonicBoundHolds
+import Definitions.Def_Formalism_CyclotomicNorms_NonsquarefreeBounds_IrreducibilityOfRestriction
+import Definitions.Def_Formalism_CyclotomicNorms_IrreducibilityOfGoodTuple
+import Theorems.Thm_Formalism_CyclotomicNorms_central_scalar_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.CyclotomicNorms
+namespace Formalism.CyclotomicNorms
+theorem _root_.solution : CentralScalar := central_scalar_holds
+end Formalism.CyclotomicNorms

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_holomorphic_map_moduli_lifts_locally_to_periods
 -- name    : GlobalTheory.T.holomorphic_map_moduli_lifts_locally_to_periods
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:04:23.018575+00:00
 -- url     : https://prove2.me/theorems/ae454b86-85c2-484d-bd2b-58452610b7b7

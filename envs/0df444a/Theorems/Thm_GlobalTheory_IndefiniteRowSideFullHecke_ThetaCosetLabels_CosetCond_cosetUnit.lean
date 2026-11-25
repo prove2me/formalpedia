@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ThetaCosetLabels_CosetCond_cosetUnit
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ThetaCosetLabels.CosetCond.cosetUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:10:29.899896+00:00
 -- url     : https://prove2.me/theorems/f34aaeff-a16a-479c-b677-75fc6214666a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_minor_scaling_law_general
 -- name    : Formalism.FourierDecayAlt.P.minor_scaling_law_general
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:11.990003+00:00
 -- url     : https://prove2.me/theorems/8a47bbbc-3264-4f6b-91e2-7e0a007b8922

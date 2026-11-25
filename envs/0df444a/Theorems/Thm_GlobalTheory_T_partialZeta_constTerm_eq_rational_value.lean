@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialZeta_constTerm_eq_rational_value
 -- name    : GlobalTheory.T.partialZeta_constTerm_eq_rational_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:36:52.755581+00:00
 -- url     : https://prove2.me/theorems/52ec3978-ff4c-4812-afe6-9e89edbf481a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SelfDualHermitianLatticesTorsionBlocks_cj_mem
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SelfDualHermitianLatticesTorsionBlocks.cj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:00.843075+00:00
 -- url     : https://prove2.me/theorems/234bac5c-893c-44ab-a22d-5e219edb4bfe

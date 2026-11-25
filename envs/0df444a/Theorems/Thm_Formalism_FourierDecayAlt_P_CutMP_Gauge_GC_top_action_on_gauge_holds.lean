@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_top_action_on_gauge_holds
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.top_action_on_gauge_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:38:20.327061+00:00
 -- url     : https://prove2.me/theorems/bd10dee5-0951-5b68-8065-4422e9767847

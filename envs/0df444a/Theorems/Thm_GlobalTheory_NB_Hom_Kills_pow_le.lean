@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_Hom_Kills_pow_le
 -- name    : GlobalTheory.NB.Hom.Kills.pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:23.284085+00:00
 -- url     : https://prove2.me/theorems/af93c172-38eb-5646-a223-5da09e2acfb0

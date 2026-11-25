@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_product_neighbourhoods_shrink_compact_open
 -- name    : GlobalTheory.T.product_neighbourhoods_shrink_compact_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:44.833606+00:00
 -- url     : https://prove2.me/theorems/aa51d8dd-1082-4598-b7c9-bb06646ebab9

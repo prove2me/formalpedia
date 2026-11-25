@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenusLatCompare_levOK_iff
 -- name    : GlobalTheory.GenusLatCompare.levOK_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:03.435245+00:00
 -- url     : https://prove2.me/theorems/4860dec3-971c-45cf-8c8f-f6dda108ff50

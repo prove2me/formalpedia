@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_eval_blockScale_eq_prod_pow_mul
 -- name    : ReciprocityTheory.MultiplicativeHeights.eval_blockScale_eq_prod_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:00.966892+00:00
 -- url     : https://prove2.me/theorems/45410858-2c38-5366-9f45-91f73c97b902

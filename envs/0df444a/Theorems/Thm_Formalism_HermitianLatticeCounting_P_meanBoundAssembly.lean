@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_meanBoundAssembly
 -- name    : Formalism.HermitianLatticeCounting.P.meanBoundAssembly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:39:05.622197+00:00
 -- url     : https://prove2.me/theorems/ce137c58-9b5b-4e42-967e-eb7d223d656e

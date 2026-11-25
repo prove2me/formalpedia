@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivJets_toFirst_comp
 -- name    : GlobalTheory.PowGerm.UnivJets.toFirst_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:20:59.348475+00:00
 -- url     : https://prove2.me/theorems/7d1aa200-ffde-57a0-89f5-128ce72e97be

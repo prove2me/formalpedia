@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Model_smul_basis_mem_hat_iff
 -- name    : GlobalTheory.AdLat.Model.smul_basis_mem_hat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:40.431444+00:00
 -- url     : https://prove2.me/theorems/34491cb1-4f1e-45f0-8056-ebe3801a767e

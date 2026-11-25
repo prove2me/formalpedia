@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isotropic_normal_form_partial
 -- name    : isotropic_normal_form_partial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:16:55.390745+00:00
 -- url     : https://prove2.me/theorems/7ec4cb88-3980-4597-8d2a-bf12ad6f420a

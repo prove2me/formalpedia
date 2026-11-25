@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_adjoin_sqrt_eq_rat_span
 -- name    : UpperTheory.adjoin_sqrt_eq_rat_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:12:49.606367+00:00
 -- url     : https://prove2.me/theorems/932cb05f-c5bf-4912-8b54-6563aa7d16f5

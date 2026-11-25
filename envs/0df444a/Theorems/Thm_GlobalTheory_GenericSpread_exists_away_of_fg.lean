@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericSpread_exists_away_of_fg
 -- name    : GlobalTheory.GenericSpread.exists_away_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:54:54.647799+00:00
 -- url     : https://prove2.me/theorems/bf59a713-2709-5406-95ae-59c2ea786d61

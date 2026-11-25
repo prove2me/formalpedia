@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExplZeta_LeftShift_main
 -- name    : GlobalTheory.CompanionTheory.ExplZeta.LeftShift.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:00:27.87869+00:00
 -- url     : https://prove2.me/theorems/e77feb09-b205-5464-998b-13aa2ac9c048

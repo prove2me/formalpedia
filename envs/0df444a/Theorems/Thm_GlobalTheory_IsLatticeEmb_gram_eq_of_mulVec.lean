@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_gram_eq_of_mulVec
 -- name    : GlobalTheory.IsLatticeEmb.gram_eq_of_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:38:37.062843+00:00
 -- url     : https://prove2.me/theorems/1fcd8ced-901a-4b63-9005-6be4ba751d6a

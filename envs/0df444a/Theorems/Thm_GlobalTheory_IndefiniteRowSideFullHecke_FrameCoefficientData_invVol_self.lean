@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FrameCoefficientData_invVol_self
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FrameCoefficientData.invVol_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:41.539558+00:00
 -- url     : https://prove2.me/theorems/b5a0e4d7-10ea-4734-9e0c-24b2be287f22

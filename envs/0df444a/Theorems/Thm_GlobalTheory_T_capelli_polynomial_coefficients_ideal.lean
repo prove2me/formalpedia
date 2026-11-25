@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_capelli_polynomial_coefficients_ideal
 -- name    : GlobalTheory.T.capelli_polynomial_coefficients_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:53.006005+00:00
 -- url     : https://prove2.me/theorems/14b13e21-1aac-4c0c-9441-27cd6df3062e

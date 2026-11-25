@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iInf_map_le_map_iInf_of_flat
 -- name    : GlobalTheory.T.iInf_map_le_map_iInf_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:12.23554+00:00
 -- url     : https://prove2.me/theorems/a483f9ac-ddf9-4aa2-8547-7b96eb0e4ed1

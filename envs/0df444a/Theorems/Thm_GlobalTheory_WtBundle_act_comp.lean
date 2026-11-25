@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WtBundle_act_comp
 -- name    : GlobalTheory.WtBundle.act_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:56:23.483325+00:00
 -- url     : https://prove2.me/theorems/9ec370ee-510b-45cd-b3f6-9c714c1eba50

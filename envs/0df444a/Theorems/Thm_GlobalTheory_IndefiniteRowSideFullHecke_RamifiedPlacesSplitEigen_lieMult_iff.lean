@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_RamifiedPlacesSplitEigen_lieMult_iff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.RamifiedPlacesSplitEigen.lieMult_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:35:48.063089+00:00
 -- url     : https://prove2.me/theorems/2feef231-ab0c-47d0-a18e-342cfa56d60c

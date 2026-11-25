@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_finite_unfSupport
 -- name    : GlobalTheory.FunObj.FiniteSupport.finite_unfSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:27.626183+00:00
 -- url     : https://prove2.me/theorems/0a81a4f7-9d26-4594-9c07-2669391ca07b

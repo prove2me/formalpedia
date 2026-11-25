@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_admissibleBase_powerSeries
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.admissibleBase_powerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:36:47.494126+00:00
 -- url     : https://prove2.me/theorems/b6b9c9a1-8072-4ae7-8836-2e7e49f14cee

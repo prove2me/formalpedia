@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_PullbackHopfOrder_pullHopf_carrier
 -- name    : ReciprocityTheory.PGsh.Up.PullbackHopfOrder.pullHopf_carrier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:06:54.614188+00:00
 -- url     : https://prove2.me/theorems/0da69d95-3308-4aaf-8425-2809d06c9c89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycInvariants_sum_reps_invariant
 -- name    : GlobalTheory.CycInvariants.sum_reps_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:07:48.666433+00:00
 -- url     : https://prove2.me/theorems/829e7777-9721-4b8c-a2bb-1ff5d7a84296

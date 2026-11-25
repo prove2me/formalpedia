@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_inner_product_independent
 -- name    : Formalism.UG.P.inner_product_independent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:24.369652+00:00
 -- url     : https://prove2.me/theorems/1de155d4-fb23-4284-a007-a59922fbb971

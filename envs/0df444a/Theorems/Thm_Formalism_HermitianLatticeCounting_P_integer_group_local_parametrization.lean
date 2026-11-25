@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integer_group_local_parametrization
 -- name    : Formalism.HermitianLatticeCounting.P.integer_group_local_parametrization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:39:13.619198+00:00
 -- url     : https://prove2.me/theorems/969d1148-3c2a-5aa5-a152-36e73aca6b4c

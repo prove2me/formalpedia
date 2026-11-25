@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_irreducibleSpace_of_smooth_geometricallyConnected_domain
 -- name    : GlobalTheory.T.irreducibleSpace_of_smooth_geometricallyConnected_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:34:22.678163+00:00
 -- url     : https://prove2.me/theorems/bff527ff-5f64-5f5a-a6ef-cb581c5690ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_g_power_bounds
 -- name    : Formalism.FourierDecayAlt.P.g_power_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:30:05.018419+00:00
 -- url     : https://prove2.me/theorems/2cb00254-c2aa-53ac-967f-e10e9fc62dbf

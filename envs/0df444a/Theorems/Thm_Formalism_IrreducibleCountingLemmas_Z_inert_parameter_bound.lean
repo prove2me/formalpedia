@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_inert_parameter_bound
 -- name    : Formalism.IrreducibleCountingLemmas.Z.inert_parameter_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:47.209946+00:00
 -- url     : https://prove2.me/theorems/72ddfbf6-9c33-465c-beb7-9cc09f90901e

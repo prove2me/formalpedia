@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CoveringAbelianLocusSmooth_IsChartAt_unif
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CoveringAbelianLocusSmooth.IsChartAt.unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:10:25.819938+00:00
 -- url     : https://prove2.me/theorems/af9a0478-b3a4-5257-ae73-301cc0d3e1f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_psi_lift
 -- name    : GlobalTheory.ThetaPtMove.psi_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:29:36.3198+00:00
 -- url     : https://prove2.me/theorems/271e2153-61e5-449a-890f-fc9a9fec0041

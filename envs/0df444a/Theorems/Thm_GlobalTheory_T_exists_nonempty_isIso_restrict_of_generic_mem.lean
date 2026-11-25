@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_nonempty_isIso_restrict_of_generic_mem
 -- name    : GlobalTheory.T.exists_nonempty_isIso_restrict_of_generic_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:30:37.621482+00:00
 -- url     : https://prove2.me/theorems/76403a5d-208e-5caf-b7f6-0f8d8ff3714e

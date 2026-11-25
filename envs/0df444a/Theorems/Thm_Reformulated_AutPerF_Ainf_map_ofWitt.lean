@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_map_ofWitt
 -- name    : Reformulated.AutPerF.Ainf.map_ofWitt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:15.443319+00:00
 -- url     : https://prove2.me/theorems/66292a31-8890-4c0b-8ad8-6bee725774db

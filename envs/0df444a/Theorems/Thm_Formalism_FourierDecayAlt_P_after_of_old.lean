@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_after_of_old
 -- name    : Formalism.FourierDecayAlt.P.after_of_old
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:31:44.98573+00:00
 -- url     : https://prove2.me/theorems/62626cac-2117-47d4-a626-6e2f489060c7

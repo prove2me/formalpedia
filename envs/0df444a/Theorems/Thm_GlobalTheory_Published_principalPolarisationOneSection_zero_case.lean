@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_principalPolarisationOneSection_zero_case
 -- name    : GlobalTheory.Published.principalPolarisationOneSection.zero_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:17:49.006429+00:00
 -- url     : https://prove2.me/theorems/2b7e0b21-daa2-5cfa-919e-4bf1f4eb9748

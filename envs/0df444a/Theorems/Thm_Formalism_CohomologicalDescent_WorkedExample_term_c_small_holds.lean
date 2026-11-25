@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_term_c_small_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.term_c_small_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:49.106874+00:00
 -- url     : https://prove2.me/theorems/b1a9b381-3c46-40c4-8241-361c052337ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtensionTorsion_torsionHom_of_mulN
 -- name    : GlobalTheory.ExtensionTorsion.torsionHom_of_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:19:12.57393+00:00
 -- url     : https://prove2.me/theorems/98b3b02f-8e08-433f-ada6-1d617fa754fd

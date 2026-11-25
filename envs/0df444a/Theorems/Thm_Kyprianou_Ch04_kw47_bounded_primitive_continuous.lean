@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_bounded_primitive_continuous
 -- name    : Kyprianou.Ch04.kw47_bounded_primitive_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T12:34:25.796978+00:00
 -- url     : https://prove2.me/theorems/e0187da3-f220-5b3f-a2b0-9c623cb10161

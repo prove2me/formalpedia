@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistAdm_twist_std
 -- name    : GlobalTheory.SW.TwistAdm.twist_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:21:58.800402+00:00
 -- url     : https://prove2.me/theorems/7e2b2454-5fba-46d5-bcf1-ab1cf4174f7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_character_conductor
 -- name    : Formalism.LFunctionChainParameters.LHost.character_conductor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:51:07.06763+00:00
 -- url     : https://prove2.me/theorems/68acc7a4-04f4-5113-9c69-a5df29e41500

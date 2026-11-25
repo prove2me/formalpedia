@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleChart_restrictToSubscheme_coord
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleChart.restrictToSubscheme_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:51.667842+00:00
 -- url     : https://prove2.me/theorems/1b0af81b-d6bd-4205-862f-222ec8dbacf1

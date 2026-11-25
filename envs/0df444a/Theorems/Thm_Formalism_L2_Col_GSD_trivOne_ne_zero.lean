@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_trivOne_ne_zero
 -- name    : Formalism.L2.Col.GSD.trivOne_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:54.835512+00:00
 -- url     : https://prove2.me/theorems/9b08cb7d-25fb-4250-bc98-9072d30786fa

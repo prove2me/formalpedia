@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCosetQuadraticPhaseTestFunction_conj_character_mul
 -- name    : GlobalTheory.T.isCosetQuadraticPhaseTestFunction_conj_character_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:34:16.663948+00:00
 -- url     : https://prove2.me/theorems/0f276a4f-b299-40a8-9ce2-15c7393fcb8c

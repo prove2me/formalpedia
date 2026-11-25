@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lagrange_leading_coeff
 -- name    : Formalism.FourierDecayAlt.P.lagrange_leading_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:32:19.229917+00:00
 -- url     : https://prove2.me/theorems/f08f986c-52ce-5334-a7ef-e8a7da10dfe5

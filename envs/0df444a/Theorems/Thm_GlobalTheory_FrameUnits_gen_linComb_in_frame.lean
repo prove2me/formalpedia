@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnits_gen_linComb_in_frame
 -- name    : GlobalTheory.FrameUnits.gen_linComb_in_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:25.933828+00:00
 -- url     : https://prove2.me/theorems/64aa44b8-258d-5654-97c9-12e274106250

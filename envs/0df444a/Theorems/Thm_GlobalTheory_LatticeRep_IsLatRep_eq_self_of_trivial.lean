@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeRep_IsLatRep_eq_self_of_trivial
 -- name    : GlobalTheory.LatticeRep.IsLatRep.eq_self_of_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:02.505836+00:00
 -- url     : https://prove2.me/theorems/bb7a928d-6a52-4a06-876f-f36691dc0f52

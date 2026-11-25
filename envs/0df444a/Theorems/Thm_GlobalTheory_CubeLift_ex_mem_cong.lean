@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_ex_mem_cong
 -- name    : GlobalTheory.CubeLift.ex_mem_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:58:27.873182+00:00
 -- url     : https://prove2.me/theorems/68a9c7ba-b544-4004-bdf8-411e06ee70f7

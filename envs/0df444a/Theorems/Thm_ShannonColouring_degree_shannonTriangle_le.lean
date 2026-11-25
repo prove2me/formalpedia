@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_degree_shannonTriangle_le
 -- name    : ShannonColouring.degree_shannonTriangle_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:51:30.225324+00:00
 -- url     : https://prove2.me/theorems/dd0863ae-c644-40cf-8bf8-cce0c0b4c010

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_local_endomorphism_homeomorph
 -- name    : local_endomorphism_homeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:14:34.503923+00:00
 -- url     : https://prove2.me/theorems/1ce3e2b0-a92c-4580-b74b-d0b890665d3e

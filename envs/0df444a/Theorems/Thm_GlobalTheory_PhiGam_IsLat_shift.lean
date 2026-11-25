@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_IsLat_shift
 -- name    : GlobalTheory.PhiGam.IsLat.shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:22.148956+00:00
 -- url     : https://prove2.me/theorems/93d9001d-d4b3-4b0c-8f08-ffb16933483e

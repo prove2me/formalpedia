@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_FontW_avg_cob
 -- name    : GlobalTheory.Cyc.FontW.avg_cob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:03:20.435335+00:00
 -- url     : https://prove2.me/theorems/27d42585-f0cf-4c7c-8b2e-4e20d85e915a

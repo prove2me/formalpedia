@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_discr_CMDatum_eq_prod_places
 -- name    : UpperTheory.discr_CMDatum_eq_prod_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:14:00.209494+00:00
 -- url     : https://prove2.me/theorems/922f8043-2320-4aca-b4b6-87eaf4264054

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_frob_decomp
 -- name    : UpperTheory.HF.frob_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:23:00.90506+00:00
 -- url     : https://prove2.me/theorems/df426f75-4b97-5b7a-a15e-54f28b7fe41c

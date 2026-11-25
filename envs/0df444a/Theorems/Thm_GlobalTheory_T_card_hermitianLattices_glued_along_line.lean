@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_hermitianLattices_glued_along_line
 -- name    : GlobalTheory.T.card_hermitianLattices_glued_along_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:27:53.973006+00:00
 -- url     : https://prove2.me/theorems/c151bfd2-6895-5cd8-8bf2-189c1a6e0d78

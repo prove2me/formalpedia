@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermRateSplit_norm_sum_le_of_gram
 -- name    : Formalism.FourierDecayAlt.P.GermRateSplit.norm_sum_le_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:26:08.755906+00:00
 -- url     : https://prove2.me/theorems/83306ed6-6abb-4582-bdf7-056a759d087d

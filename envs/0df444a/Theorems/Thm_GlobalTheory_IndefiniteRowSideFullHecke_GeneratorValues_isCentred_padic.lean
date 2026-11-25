@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GeneratorValues_isCentred_padic
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GeneratorValues.isCentred_padic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:54.955077+00:00
 -- url     : https://prove2.me/theorems/fd7f22c1-260a-4f54-a906-751eae5afebb

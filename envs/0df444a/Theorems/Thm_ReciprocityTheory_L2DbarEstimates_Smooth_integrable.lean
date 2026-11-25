@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Smooth_integrable
 -- name    : ReciprocityTheory.L2DbarEstimates.Smooth.integrable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:32:23.513676+00:00
 -- url     : https://prove2.me/theorems/7392ca5c-5710-4d58-8c3c-0ef6178594bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_measure_subgroup_relIndex_mul
 -- name    : GlobalTheory.T.haar_measure_subgroup_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:32:00.975788+00:00
 -- url     : https://prove2.me/theorems/c8bc8f05-1d43-4528-b1b6-063ecb67b036

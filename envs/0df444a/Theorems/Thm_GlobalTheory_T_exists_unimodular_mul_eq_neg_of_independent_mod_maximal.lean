@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unimodular_mul_eq_neg_of_independent_mod_maximal
 -- name    : GlobalTheory.T.exists_unimodular_mul_eq_neg_of_independent_mod_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:12.494424+00:00
 -- url     : https://prove2.me/theorems/1d7e7a17-8fd7-42a1-adb4-aa6808a2da5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_pn_norm_bound
 -- name    : Formalism.FourierDecayAlt.P.pn_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:34:27.530172+00:00
 -- url     : https://prove2.me/theorems/f287040f-6368-4fb6-a19b-38a80e6f0ff8

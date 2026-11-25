@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuousOn_norm_diag_of_triangular_factor
 -- name    : GlobalTheory.T.continuousOn_norm_diag_of_triangular_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:45.150068+00:00
 -- url     : https://prove2.me/theorems/213caa64-bf82-411a-8f7a-cd5f6411fcb1

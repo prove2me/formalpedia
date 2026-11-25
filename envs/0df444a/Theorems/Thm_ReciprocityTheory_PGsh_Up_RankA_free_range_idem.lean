@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_RankA_free_range_idem
 -- name    : ReciprocityTheory.PGsh.Up.RankA.free_range_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:07:11.145146+00:00
 -- url     : https://prove2.me/theorems/ba4e3829-1a2e-488a-a897-d57a34728c9c

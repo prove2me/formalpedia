@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbTan_lifts_const
 -- name    : GlobalTheory.AbTan.lifts_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:01:09.178126+00:00
 -- url     : https://prove2.me/theorems/cec949ac-8701-4503-8f79-5260e071cf32

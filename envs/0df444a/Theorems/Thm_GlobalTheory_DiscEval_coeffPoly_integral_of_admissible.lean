@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_coeffPoly_integral_of_admissible
 -- name    : GlobalTheory.DiscEval.coeffPoly_integral_of_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:58:37.739252+00:00
 -- url     : https://prove2.me/theorems/9582b488-dbf2-4766-a0d2-3ec7f4f56569

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_norm_mfact_mul_coeff_le_of_B0S
 -- name    : UpperTheory.norm_mfact_mul_coeff_le_of_B0S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:13:55.579798+00:00
 -- url     : https://prove2.me/theorems/6960541b-b690-46f5-9237-0ba937c5e6b6

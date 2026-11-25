@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_section_at_block_point
 -- name    : Formalism.FourierDecayAlt.P.section_at_block_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:36.748565+00:00
 -- url     : https://prove2.me/theorems/3dea511a-33d1-49b5-b56a-24104c85e17d

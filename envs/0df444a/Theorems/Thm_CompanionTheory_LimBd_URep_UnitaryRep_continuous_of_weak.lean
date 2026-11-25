@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_continuous_of_weak
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.continuous_of_weak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:15:55.066688+00:00
 -- url     : https://prove2.me/theorems/a313ca52-92ca-5a9d-aa0a-96ab59ec5b04

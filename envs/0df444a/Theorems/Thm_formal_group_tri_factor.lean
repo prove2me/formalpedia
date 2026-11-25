@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_formal_group_tri_factor
 -- name    : formal_group_tri_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:15:04.597278+00:00
 -- url     : https://prove2.me/theorems/6ce0619a-d2ae-43af-96a2-4b7b2ad6cde4

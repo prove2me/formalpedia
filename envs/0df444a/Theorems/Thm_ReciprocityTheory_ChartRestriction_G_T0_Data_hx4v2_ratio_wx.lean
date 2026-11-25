@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_hx4v2_ratio_wx
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.hx4v2_ratio_wx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:40:47.032947+00:00
 -- url     : https://prove2.me/theorems/5644700a-8791-495d-8ff6-bbe1137478e0

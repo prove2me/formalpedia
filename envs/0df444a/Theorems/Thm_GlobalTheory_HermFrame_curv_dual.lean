@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_curv_dual
 -- name    : GlobalTheory.HermFrame.curv_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:52.437427+00:00
 -- url     : https://prove2.me/theorems/44aff9c6-e93d-586a-b428-4c9760323e1d

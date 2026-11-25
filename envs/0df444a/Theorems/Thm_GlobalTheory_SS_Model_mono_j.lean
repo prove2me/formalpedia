@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Model_mono_j
 -- name    : GlobalTheory.SS.Model.mono_j
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:22:33.016167+00:00
 -- url     : https://prove2.me/theorems/fcb094c5-8159-4c92-b869-402dc5abce79

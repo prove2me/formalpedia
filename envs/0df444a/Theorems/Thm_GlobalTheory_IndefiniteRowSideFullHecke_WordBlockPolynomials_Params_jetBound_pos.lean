@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_WordBlockPolynomials_Params_jetBound_pos
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.WordBlockPolynomials.Params.jetBound_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:08.555876+00:00
 -- url     : https://prove2.me/theorems/7c534a32-14f4-597e-9613-09d2b1d535a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_pairing_product_scale_bounds_below
 -- name    : Formalism.FourierDecayAlt.P.pairing_product_scale_bounds_below
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:34:08.004784+00:00
 -- url     : https://prove2.me/theorems/8b998351-aaa7-49dd-876b-884ec38f074c

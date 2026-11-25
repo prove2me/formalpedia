@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_inter_reesCharts
 -- name    : ReciprocityTheory.AnForm.R.inter_reesCharts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:45:41.042598+00:00
 -- url     : https://prove2.me/theorems/4ea11924-db81-4a59-975e-dc4c7113f05f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothPart_ideal_vanishingIdeal_congr
 -- name    : GlobalTheory.CompanionTheory.SmoothPart.ideal_vanishingIdeal_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:53:01.490509+00:00
 -- url     : https://prove2.me/theorems/71e1d032-3759-4c3f-8e5f-f01d642e56d8

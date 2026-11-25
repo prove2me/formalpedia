@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_volN_ne_zero
 -- name    : GlobalTheory.RootEx.Model.volN_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:41.147807+00:00
 -- url     : https://prove2.me/theorems/a2b0558c-88e3-46d8-baaf-07271cf7639b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Top_pairHyp
 -- name    : UpperTheory.Top.pairHyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:34.723801+00:00
 -- url     : https://prove2.me/theorems/724d393e-3098-4855-bd82-387cfa3941af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_not_mem_of_ramIdx_one
 -- name    : UpperTheory.Small.not_mem_of_ramIdx_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:15:08.276605+00:00
 -- url     : https://prove2.me/theorems/99c5472d-d968-406c-9b3a-a0601eea1782

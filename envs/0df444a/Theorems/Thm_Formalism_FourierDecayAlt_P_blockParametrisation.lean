@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_blockParametrisation
 -- name    : Formalism.FourierDecayAlt.P.blockParametrisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:28:43.779053+00:00
 -- url     : https://prove2.me/theorems/21631030-8a87-48f4-9d49-3f44e37fb50f

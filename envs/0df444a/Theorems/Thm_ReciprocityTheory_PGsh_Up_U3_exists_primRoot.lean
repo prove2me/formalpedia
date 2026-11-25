@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_exists_primRoot
 -- name    : ReciprocityTheory.PGsh.Up.U3.exists_primRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:24.795261+00:00
 -- url     : https://prove2.me/theorems/8c5f5b0b-ae86-4c9d-882c-410f43b61575

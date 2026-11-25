@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCharacterExt_exists_pair
 -- name    : GlobalTheory.TorsionCharacterExt.exists_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:52:08.372541+00:00
 -- url     : https://prove2.me/theorems/3a2599c2-9e1b-494f-9a44-fcc42eb4c0e9

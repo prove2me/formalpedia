@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_lift_of_forms
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.lift_of_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:01:24.900926+00:00
 -- url     : https://prove2.me/theorems/fba6e7d3-dd05-4f19-8374-36ef858f2521

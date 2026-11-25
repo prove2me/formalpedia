@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_inertia_eq_ramificationIdx_of_perfect_residue
 -- name    : GlobalTheory.T.card_inertia_eq_ramificationIdx_of_perfect_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:23.46851+00:00
 -- url     : https://prove2.me/theorems/6966e560-7d88-5acf-84dc-8889cac75e28

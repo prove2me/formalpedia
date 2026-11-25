@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GeneratorValues_xK_eq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GeneratorValues.xK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:11:23.378806+00:00
 -- url     : https://prove2.me/theorems/b7b4d47d-b9ea-5025-afdd-34a906f287b7

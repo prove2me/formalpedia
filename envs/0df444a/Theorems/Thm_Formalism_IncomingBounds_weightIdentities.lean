@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_weightIdentities
 -- name    : Formalism.IncomingBounds.weightIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:39.522136+00:00
 -- url     : https://prove2.me/theorems/0f242fd4-d40c-5032-928e-295186859f19

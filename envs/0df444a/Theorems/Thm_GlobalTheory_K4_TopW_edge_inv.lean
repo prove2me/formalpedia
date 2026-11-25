@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K4_TopW_edge_inv
 -- name    : GlobalTheory.K4.TopW.edge_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:58.723851+00:00
 -- url     : https://prove2.me/theorems/6221916f-3986-47e5-a629-2eda26899f5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenData_host_art
 -- name    : Formalism.HC.EvenData.host_art
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:41.126905+00:00
 -- url     : https://prove2.me/theorems/dda3c1a2-4c5d-41f7-8b6a-23e1fe04a3ef

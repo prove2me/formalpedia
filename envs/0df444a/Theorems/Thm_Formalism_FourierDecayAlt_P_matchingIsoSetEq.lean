@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_matchingIsoSetEq
 -- name    : Formalism.FourierDecayAlt.P.matchingIsoSetEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:33:04.824593+00:00
 -- url     : https://prove2.me/theorems/818bc8c6-5457-4f7a-ad1c-23cd3c0542bd

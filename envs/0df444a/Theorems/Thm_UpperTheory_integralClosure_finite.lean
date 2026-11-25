@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_integralClosure_finite
 -- name    : UpperTheory.integralClosure_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:12:44.860794+00:00
 -- url     : https://prove2.me/theorems/62a5868f-dc88-4017-999a-56c735653554

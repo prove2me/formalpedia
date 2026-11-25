@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_measurePreserving_rotS
 -- name    : ReciprocityTheory.MultiplicativeHeights.measurePreserving_rotS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:33.743991+00:00
 -- url     : https://prove2.me/theorems/5c5a21e3-ace6-49cf-a60b-4b947f0ea9ac

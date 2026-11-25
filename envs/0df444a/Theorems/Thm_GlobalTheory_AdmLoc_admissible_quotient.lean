@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_admissible_quotient
 -- name    : GlobalTheory.AdmLoc.admissible_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:55:30.4369+00:00
 -- url     : https://prove2.me/theorems/a1619d98-a7da-58b4-924c-ed9f11ebebe5

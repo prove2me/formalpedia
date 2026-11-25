@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Adopt_schroedingerOperatorHeisenberg_preserves_schwartzBruhat
 -- name    : GlobalTheory.Adopt.schroedingerOperatorHeisenberg_preserves_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:49:29.145777+00:00
 -- url     : https://prove2.me/theorems/e980bca3-2ce8-47c8-9abe-95c746f9fa48

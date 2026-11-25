@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_RegAt_mem_regAt
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.RegAt.mem_regAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:00:31.503906+00:00
 -- url     : https://prove2.me/theorems/cd8c71a6-c46b-577b-8ffa-fc7b80cd4402

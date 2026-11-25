@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_mul_comp_q
 -- name    : GlobalTheory.IsoDesc.mul_comp_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:56:32.822935+00:00
 -- url     : https://prove2.me/theorems/dc2000ff-ec22-4741-8df3-7d8ac7b5f7d8

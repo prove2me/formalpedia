@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_sizes_to_recursion
 -- name    : Formalism.FourierDecayAlt.P.sizes_to_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:22.266558+00:00
 -- url     : https://prove2.me/theorems/b375340e-44ff-45f0-b529-c3668a12aba7

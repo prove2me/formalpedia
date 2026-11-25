@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WF_ev_sb
 -- name    : ZetaZeros.D.EllReg.WF.ev_sb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:24.681222+00:00
 -- url     : https://prove2.me/theorems/d1e17b28-660d-473d-8b83-c4a02af122e6

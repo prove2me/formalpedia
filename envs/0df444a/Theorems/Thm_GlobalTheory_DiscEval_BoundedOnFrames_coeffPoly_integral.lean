@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_BoundedOnFrames_coeffPoly_integral
 -- name    : GlobalTheory.DiscEval.BoundedOnFrames.coeffPoly_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:57:13.446217+00:00
 -- url     : https://prove2.me/theorems/c38dbf6b-4d24-4b52-aec8-b8e6ce4aaf9c

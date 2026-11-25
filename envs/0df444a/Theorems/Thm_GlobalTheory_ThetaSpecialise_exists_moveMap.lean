@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSpecialise_exists_moveMap
 -- name    : GlobalTheory.ThetaSpecialise.exists_moveMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:03:49.86581+00:00
 -- url     : https://prove2.me/theorems/f8ec4dd0-1a6c-40d2-9c70-4e146de0b2c2

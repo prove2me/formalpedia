@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_eval_smul_of_isHomogeneous
 -- name    : ReciprocityTheory.MultiplicativeHeights.eval_smul_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:16.472006+00:00
 -- url     : https://prove2.me/theorems/b5f28e94-88f8-485a-a61e-85927a349999

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_tanS_scale
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.tanS_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:23.523787+00:00
 -- url     : https://prove2.me/theorems/8d91a164-34ca-521b-ae1d-8dc05e5067f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_valuation_fourier_le_one
 -- name    : ReciprocityTheory.PGsh.L2.valuation_fourier_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:06:08.12036+00:00
 -- url     : https://prove2.me/theorems/badab6b4-53b0-402c-af8c-59e7bb511ecb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_isRightAct_inv
 -- name    : GlobalTheory.LevDesc.isRightAct_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:04.023948+00:00
 -- url     : https://prove2.me/theorems/272f63fd-b92d-563c-94e0-599f7b8953dc

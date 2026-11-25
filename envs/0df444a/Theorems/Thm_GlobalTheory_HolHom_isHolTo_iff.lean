@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHom_isHolTo_iff
 -- name    : GlobalTheory.HolHom.isHolTo_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:07:44.195673+00:00
 -- url     : https://prove2.me/theorems/2ea48ed3-3ab7-57ba-a854-874e6a968c82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_schur_isotypic_decomposition
 -- name    : Formalism.FourierDecayAlt.P.schur_isotypic_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:36:30.134674+00:00
 -- url     : https://prove2.me/theorems/6d68fbe4-2ea6-474a-a194-70c7355fddd3

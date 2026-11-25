@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_HarmInvC_harm_kill_jet
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.HarmInvC.harm_kill_jet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:03:01.882446+00:00
 -- url     : https://prove2.me/theorems/db1d6643-0bb6-45d0-808a-72afb1ef87c1

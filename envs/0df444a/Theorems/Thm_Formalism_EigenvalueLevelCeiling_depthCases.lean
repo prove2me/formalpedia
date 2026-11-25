@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_depthCases
 -- name    : Formalism.EigenvalueLevelCeiling.depthCases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:27:50.00254+00:00
 -- url     : https://prove2.me/theorems/f4fc6c58-2a18-4a27-a731-e87192a3f57e

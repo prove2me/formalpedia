@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoprimeNatNotMem_natCast_not_mem_of_coprime
 -- name    : GlobalTheory.CoprimeNatNotMem.natCast_not_mem_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:48.773798+00:00
 -- url     : https://prove2.me/theorems/e49e4d4b-b31b-425e-8418-a849e262a3e5

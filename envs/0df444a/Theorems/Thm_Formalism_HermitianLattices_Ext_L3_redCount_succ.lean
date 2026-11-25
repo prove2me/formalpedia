@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_redCount_succ
 -- name    : Formalism.HermitianLattices.Ext.L3.redCount_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:15.728749+00:00
 -- url     : https://prove2.me/theorems/99eada07-af9c-52e3-8d26-dbe37963cc7a

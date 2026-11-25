@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycInvariants_stabilizer_finiteIndex
 -- name    : GlobalTheory.CycInvariants.stabilizer_finiteIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:07:50.936014+00:00
 -- url     : https://prove2.me/theorems/bacbd1f1-7261-4a03-aa0e-3bc470e0fffa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r26a_double_sum_reduce_fourth
 -- name    : UpperTheory.Reformulated.B.P6.r26a.double_sum_reduce_fourth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:49.031109+00:00
 -- url     : https://prove2.me/theorems/f9db6f59-0c28-4e00-8139-a302a0024a2a

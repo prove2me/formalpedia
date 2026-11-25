@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_sum_eq_mean_of_units
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.sum_eq_mean_of_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:55.267995+00:00
 -- url     : https://prove2.me/theorems/adf5bd37-33f5-5eb0-8191-39887cef9ad3

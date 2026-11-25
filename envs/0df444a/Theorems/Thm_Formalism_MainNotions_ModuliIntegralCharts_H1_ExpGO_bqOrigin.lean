@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGO_bqOrigin
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGO.bqOrigin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:52.720828+00:00
 -- url     : https://prove2.me/theorems/6d196350-5f04-4b43-a216-d15bad5dc426

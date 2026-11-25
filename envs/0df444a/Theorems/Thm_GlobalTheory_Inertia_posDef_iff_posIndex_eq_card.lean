@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posDef_iff_posIndex_eq_card
 -- name    : GlobalTheory.Inertia.posDef_iff_posIndex_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:10:21.473958+00:00
 -- url     : https://prove2.me/theorems/bf0dcc2f-2486-57dc-950d-72a8bb918d91

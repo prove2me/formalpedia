@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_ParamsIProof_half
 -- name    : Formalism.CountingSumsFrames.ParamsIProof.half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:24:06.500595+00:00
 -- url     : https://prove2.me/theorems/53956fd2-aebb-4e91-ba63-908ba3fb2cdd

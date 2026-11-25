@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_TateInh_phi_factor
 -- name    : GlobalTheory.Ex.TateInh.phi_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:04:58.736296+00:00
 -- url     : https://prove2.me/theorems/76e8f902-c12e-489e-bae6-2aadb9065bc3

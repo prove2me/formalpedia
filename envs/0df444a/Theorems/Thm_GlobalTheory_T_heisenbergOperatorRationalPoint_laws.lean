@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heisenbergOperatorRationalPoint_laws
 -- name    : GlobalTheory.T.heisenbergOperatorRationalPoint_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:48.97286+00:00
 -- url     : https://prove2.me/theorems/502be362-e556-4fb2-9057-6dea68c82cf5

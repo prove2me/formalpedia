@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_isTwistPull_move
 -- name    : GlobalTheory.ThetaPtMove.isTwistPull_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:30:17.624958+00:00
 -- url     : https://prove2.me/theorems/ba9136c3-d8f0-478d-91bd-7f8aae445280

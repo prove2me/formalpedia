@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Tilt_mk_seq
 -- name    : Reformulated.AutPerF.Tilt.mk_seq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:30.382343+00:00
 -- url     : https://prove2.me/theorems/d3e66e4f-3475-4c1d-97c6-1bf19954f443

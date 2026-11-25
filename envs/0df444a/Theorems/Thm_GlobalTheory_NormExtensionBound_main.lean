@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormExtensionBound_main
 -- name    : GlobalTheory.NormExtensionBound.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:14:49.386156+00:00
 -- url     : https://prove2.me/theorems/c6cb1ef1-a0a7-4268-8f38-20aaf467a8c3

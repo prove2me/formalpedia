@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_eta_mem_Isub
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.eta_mem_Isub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:05:28.874821+00:00
 -- url     : https://prove2.me/theorems/7b47cc57-a8fb-4ba1-bf59-886d88feb142

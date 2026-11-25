@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AinfXi_coeff_zero_eq_zero
 -- name    : GlobalTheory.AinfXi.coeff_zero_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:55:30.348067+00:00
 -- url     : https://prove2.me/theorems/635a381c-6a24-4049-8de4-38666c6a619b

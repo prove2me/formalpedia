@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_transfer_matrix_factorization
 -- name    : Formalism.FourierDecayAlt.P.transfer_matrix_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:13.44984+00:00
 -- url     : https://prove2.me/theorems/5c468b02-d880-4b6a-a74b-e2be50ca81fd

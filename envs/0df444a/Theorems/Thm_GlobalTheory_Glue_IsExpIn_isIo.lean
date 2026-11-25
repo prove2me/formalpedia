@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_IsExpIn_isIo
 -- name    : GlobalTheory.Glue.IsExpIn.isIo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:03.870025+00:00
 -- url     : https://prove2.me/theorems/c5f20ea9-cb95-40b5-a6fd-53bafd3d3ba7

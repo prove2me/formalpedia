@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_PartialFourier_partial_fourier_inversion
 -- name    : GlobalTheory.LocFlat.PartialFourier.partial_fourier_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:14:21.838723+00:00
 -- url     : https://prove2.me/theorems/a352f9f7-88bd-416f-9587-b6356e431fea

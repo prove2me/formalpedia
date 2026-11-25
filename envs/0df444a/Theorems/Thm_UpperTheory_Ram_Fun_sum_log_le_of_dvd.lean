@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Fun_sum_log_le_of_dvd
 -- name    : UpperTheory.Ram.Fun.sum_log_le_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:38.143938+00:00
 -- url     : https://prove2.me/theorems/c9df7359-afd0-59e2-8d5f-1548f1febf04

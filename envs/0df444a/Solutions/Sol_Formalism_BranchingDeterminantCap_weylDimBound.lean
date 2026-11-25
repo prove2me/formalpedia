@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.BranchingDeterminantCap.weylDimBound
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T16:16:47.844094+00:00
+-- url     : https://prove2.me/submissions/59e70d34-ee0c-46ba-9857-17a55dde9b27
+
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_BoundsIVal
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchScale
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchMap
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_XiNorm
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_GoodDual
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_Interlace
+import Definitions.Def_Formalism_BranchSandwichDivisors_StatementJ
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_MapScale
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_Numeric
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_OrthSum
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_StepDiii
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_Transfer
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_TransferMean
+import Definitions.Def_Formalism_BranchSandwichDivisors_DivFromPassageAndNorm
+import Theorems.Thm_Formalism_BranchingDeterminantCap_weyl_dimension_bound
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.BranchingDeterminantCap
+namespace Formalism.BranchingDeterminantCap
+theorem _root_.solution : WeylDimBound := weyl_dimension_bound
+end Formalism.BranchingDeterminantCap

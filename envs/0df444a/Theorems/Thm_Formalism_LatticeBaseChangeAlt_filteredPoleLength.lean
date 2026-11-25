@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_filteredPoleLength
 -- name    : Formalism.LatticeBaseChangeAlt.filteredPoleLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:52:25.548234+00:00
 -- url     : https://prove2.me/theorems/9a2d12f5-9db0-4543-9e41-021ef652464c

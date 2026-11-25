@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_pf_fourier_fderiv
 -- name    : ZetaZeros.D.EllReg.pf_fourier_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:42.978551+00:00
 -- url     : https://prove2.me/theorems/567de3e6-55fb-447f-851e-b1af11bc7584

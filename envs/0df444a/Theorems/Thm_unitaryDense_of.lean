@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_unitaryDense_of
 -- name    : unitaryDense_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:16:22.328399+00:00
 -- url     : https://prove2.me/theorems/8c847667-0bf4-5ab8-89bc-a8b9012ad870

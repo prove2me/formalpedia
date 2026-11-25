@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadAdj_rep_inj
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadAdj.rep_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:22.464334+00:00
 -- url     : https://prove2.me/theorems/f326fbf5-c7fd-4c5f-8574-13a16fa73935

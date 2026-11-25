@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_IsUnitaryRep_repTrace_eq_of_equiv
 -- name    : GlobalTheory.OpTrace.IsUnitaryRep.repTrace_eq_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:39.273777+00:00
 -- url     : https://prove2.me/theorems/f183c4d7-0a02-5f8d-8464-ed95cbb174e8

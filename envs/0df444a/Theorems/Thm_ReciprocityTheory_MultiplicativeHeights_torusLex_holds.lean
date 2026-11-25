@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_torusLex_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.torusLex_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:06.398476+00:00
 -- url     : https://prove2.me/theorems/bacae516-90c5-4463-80eb-0fb1ddc964f6

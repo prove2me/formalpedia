@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeymanPearsonClassification_gamma_antitone_convex
 -- name    : NeymanPearsonClassification.gamma_antitone_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:43:06.510751+00:00
 -- url     : https://prove2.me/theorems/876954f3-198b-4971-a6f8-f90c57370a7d

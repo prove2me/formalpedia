@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AveragingRankOne_cyclotomic_maximalIdeal_smul_cocycle_isCoboundary
 -- name    : GlobalTheory.Cyc.AveragingRankOne.cyclotomic_maximalIdeal_smul_cocycle_isCoboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:01:23.614802+00:00
 -- url     : https://prove2.me/theorems/b1133a79-eba2-5e23-8b5d-46e03685e3b3

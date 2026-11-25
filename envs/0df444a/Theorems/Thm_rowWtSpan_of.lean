@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_rowWtSpan_of
 -- name    : rowWtSpan_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:15:05.899276+00:00
 -- url     : https://prove2.me/theorems/b1cc71c4-2458-5120-b116-a34d4020f2df

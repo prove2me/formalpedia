@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_measurePreserving_update_torus
 -- name    : ReciprocityTheory.MultiplicativeHeights.measurePreserving_update_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:17.743807+00:00
 -- url     : https://prove2.me/theorems/6eeb6d3d-6d1f-5978-861b-c88d72ae2b59

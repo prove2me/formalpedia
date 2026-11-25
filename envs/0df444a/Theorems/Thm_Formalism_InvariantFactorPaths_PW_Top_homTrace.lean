@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_homTrace
 -- name    : Formalism.InvariantFactorPaths.PW.Top.homTrace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:43:26.436392+00:00
 -- url     : https://prove2.me/theorems/b5988663-4905-4a66-8c81-e22e26bcb60c

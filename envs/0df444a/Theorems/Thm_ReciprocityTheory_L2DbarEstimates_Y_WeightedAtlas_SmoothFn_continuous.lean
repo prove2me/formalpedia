@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_SmoothFn_continuous
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.SmoothFn.continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:00:17.957709+00:00
 -- url     : https://prove2.me/theorems/de69cd34-a2a8-4431-b1d6-6b98fa55e9a1

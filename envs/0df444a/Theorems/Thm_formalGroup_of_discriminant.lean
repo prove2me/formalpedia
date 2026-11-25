@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_formalGroup_of_discriminant
 -- name    : formalGroup_of_discriminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:14:00.346366+00:00
 -- url     : https://prove2.me/theorems/43b3d7b7-dac4-5727-bf65-9b74c9de67d1

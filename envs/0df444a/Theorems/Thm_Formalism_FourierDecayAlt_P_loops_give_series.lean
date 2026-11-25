@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_loops_give_series
 -- name    : Formalism.FourierDecayAlt.P.loops_give_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:33:33.913783+00:00
 -- url     : https://prove2.me/theorems/1d48588f-8e7a-5e86-8d99-650b1b8678f7

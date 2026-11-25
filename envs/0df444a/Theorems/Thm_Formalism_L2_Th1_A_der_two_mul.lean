@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_der_two_mul
 -- name    : Formalism.L2.Th1.A.der_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:47:19.771081+00:00
 -- url     : https://prove2.me/theorems/6adfdad7-4a16-4117-b2b0-031eb45ac945

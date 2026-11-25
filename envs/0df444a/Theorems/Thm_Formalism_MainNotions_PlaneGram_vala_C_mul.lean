@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_C_mul
 -- name    : Formalism.MainNotions.PlaneGram.vala_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:51:15.967319+00:00
 -- url     : https://prove2.me/theorems/1d79f471-422a-45d2-924c-56e3f67863e0

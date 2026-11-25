@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_UnrAny_unitLemma_local_of_lie_any
 -- name    : GlobalTheory.UnitLemma.UnrAny.unitLemma_local_of_lie_any
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:22:44.91053+00:00
 -- url     : https://prove2.me/theorems/f1a00da7-875b-403c-81cf-77b28695fd9f

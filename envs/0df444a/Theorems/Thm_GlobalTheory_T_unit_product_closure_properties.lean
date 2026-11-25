@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unit_product_closure_properties
 -- name    : GlobalTheory.T.unit_product_closure_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:45:18.753362+00:00
 -- url     : https://prove2.me/theorems/852bb52c-326e-5614-a24b-0679cc6fecfb

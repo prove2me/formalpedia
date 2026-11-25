@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_exists_convergence
 -- name    : GlobalTheory.AnArc.exists_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:55:01.832249+00:00
 -- url     : https://prove2.me/theorems/a9ddc22d-ac69-50ae-bf2f-b630e5f59547

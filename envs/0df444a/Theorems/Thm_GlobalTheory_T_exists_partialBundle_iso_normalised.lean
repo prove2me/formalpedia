@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_partialBundle_iso_normalised
 -- name    : GlobalTheory.T.exists_partialBundle_iso_normalised
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:37:56.985932+00:00
 -- url     : https://prove2.me/theorems/25e8c5a0-c557-402b-ae3b-eaa79cb63531

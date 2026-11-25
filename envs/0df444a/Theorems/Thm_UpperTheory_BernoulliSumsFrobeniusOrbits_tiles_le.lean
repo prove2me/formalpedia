@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_BernoulliSumsFrobeniusOrbits_tiles_le
 -- name    : UpperTheory.BernoulliSumsFrobeniusOrbits.tiles_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:00.704104+00:00
 -- url     : https://prove2.me/theorems/eec8cc3d-e6f2-55eb-8d44-a8e6bcd10d43

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_mem_of_pow_qK_sub_one
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.mem_of_pow_qK_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:48:30.964801+00:00
 -- url     : https://prove2.me/theorems/6cb85ca5-3daa-41df-8eef-5e1093c51e27

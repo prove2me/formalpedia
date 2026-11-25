@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_isSD_zero
 -- name    : GlobalTheory.HL.Model.isSD_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:09.010576+00:00
 -- url     : https://prove2.me/theorems/5cc90e79-acca-5cd3-9f00-22740e01c83e

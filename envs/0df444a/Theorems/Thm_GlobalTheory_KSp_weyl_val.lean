@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_weyl_val
 -- name    : GlobalTheory.KSp.weyl_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:11:45.820049+00:00
 -- url     : https://prove2.me/theorems/03ab2953-36d2-50af-ab8b-ae708fc61c67

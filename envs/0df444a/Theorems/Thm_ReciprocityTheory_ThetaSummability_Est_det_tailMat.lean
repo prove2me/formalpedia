@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ThetaSummability_Est_det_tailMat
 -- name    : ReciprocityTheory.ThetaSummability.Est.det_tailMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:10:23.532382+00:00
 -- url     : https://prove2.me/theorems/ff753240-aa36-414d-83f4-55643cb70d25

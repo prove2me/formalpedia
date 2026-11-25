@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_one_add_pow_mul_norm_fourier_le
 -- name    : ZetaZeros.D.EllReg.one_add_pow_mul_norm_fourier_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:47.649141+00:00
 -- url     : https://prove2.me/theorems/fc3f5b30-adda-4b34-9a6b-ca464f663571

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_trivial_inflation_h1_rat_mod_int_injective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.trivial_inflation_h1_rat_mod_int_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:05:31.316901+00:00
 -- url     : https://prove2.me/theorems/7def7e24-c3b9-4beb-a0b5-dbf85057c27d

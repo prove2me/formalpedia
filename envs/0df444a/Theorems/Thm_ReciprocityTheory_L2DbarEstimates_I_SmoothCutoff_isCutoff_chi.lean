@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_SmoothCutoff_isCutoff_chi
 -- name    : ReciprocityTheory.L2DbarEstimates.I.SmoothCutoff.isCutoff_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:56:33.281773+00:00
 -- url     : https://prove2.me/theorems/791e797d-bb77-4689-a78c-8b8a6f73c7c7

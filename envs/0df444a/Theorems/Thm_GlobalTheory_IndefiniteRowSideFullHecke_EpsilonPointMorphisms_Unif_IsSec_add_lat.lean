@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_EpsilonPointMorphisms_Unif_IsSec_add_lat
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.EpsilonPointMorphisms.Unif.IsSec.add_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:10:07.290256+00:00
 -- url     : https://prove2.me/theorems/ba62b53a-fdfc-5bc2-a112-43e255a1b26c

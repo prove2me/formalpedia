@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_spanIdx_pair
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.spanIdx_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:21.90167+00:00
 -- url     : https://prove2.me/theorems/50a25b03-86f7-4b09-8937-c47352c1e9d5

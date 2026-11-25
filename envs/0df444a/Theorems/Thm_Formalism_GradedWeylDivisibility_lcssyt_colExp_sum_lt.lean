@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lcssyt_colExp_sum_lt
 -- name    : Formalism.GradedWeylDivisibility.lcssyt_colExp_sum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:39:03.59247+00:00
 -- url     : https://prove2.me/theorems/d0dc1340-ee1e-5e47-91aa-a770a1c18cc9

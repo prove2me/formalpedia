@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_noetherianSpace_strictTransform
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.noetherianSpace_strictTransform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:57.009046+00:00
 -- url     : https://prove2.me/theorems/f3afe224-2178-4dc9-953d-68328dd83be0

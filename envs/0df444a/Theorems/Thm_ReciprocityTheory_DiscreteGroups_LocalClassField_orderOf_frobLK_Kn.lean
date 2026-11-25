@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_orderOf_frobLK_Kn
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.orderOf_frobLK_Kn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:00:46.948876+00:00
 -- url     : https://prove2.me/theorems/7ec0ac5f-5a93-5953-9757-2b01d741aca5

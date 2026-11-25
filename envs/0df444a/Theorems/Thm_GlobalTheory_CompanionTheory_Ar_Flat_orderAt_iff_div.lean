@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_orderAt_iff_div
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.orderAt_iff_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:59:21.423494+00:00
 -- url     : https://prove2.me/theorems/9e99a435-8c1a-42bd-903a-0c7b3ee0a962

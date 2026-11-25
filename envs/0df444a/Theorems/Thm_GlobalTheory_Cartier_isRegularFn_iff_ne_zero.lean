@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_isRegularFn_iff_ne_zero
 -- name    : GlobalTheory.Cartier.isRegularFn_iff_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:17.040462+00:00
 -- url     : https://prove2.me/theorems/ab367ae5-78b6-555b-b24e-0baf2f8e7c10

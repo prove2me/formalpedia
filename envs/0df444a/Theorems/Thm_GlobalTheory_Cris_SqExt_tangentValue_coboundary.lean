@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_SqExt_tangentValue_coboundary
 -- name    : GlobalTheory.Cris.SqExt.tangentValue_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:03:07.328668+00:00
 -- url     : https://prove2.me/theorems/42a4c58d-cce0-59d1-aba1-ff5897b553f3

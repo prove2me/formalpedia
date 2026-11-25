@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourTermSumReorder_sum_four_reorder
 -- name    : GlobalTheory.FourTermSumReorder.sum_four_reorder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:22.620162+00:00
 -- url     : https://prove2.me/theorems/a1a92df1-fc9f-5e78-a18b-0b8a9f067345

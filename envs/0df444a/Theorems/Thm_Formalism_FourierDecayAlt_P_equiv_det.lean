@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_equiv_det
 -- name    : Formalism.FourierDecayAlt.P.equiv_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:54.989836+00:00
 -- url     : https://prove2.me/theorems/18a54fbb-690f-4dc6-b482-293a8e9b2d2d

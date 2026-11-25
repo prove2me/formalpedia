@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Inh_alEx_nontrivial
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Inh.alEx_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:00:48.922957+00:00
 -- url     : https://prove2.me/theorems/61084b98-5f6c-462c-82d1-c5737c51b695

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_sg_ne_zero
 -- name    : GlobalTheory.CompactDualQuot.sg_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:08.091807+00:00
 -- url     : https://prove2.me/theorems/1eb2a353-12c7-582d-bcb8-61474ff4aadc

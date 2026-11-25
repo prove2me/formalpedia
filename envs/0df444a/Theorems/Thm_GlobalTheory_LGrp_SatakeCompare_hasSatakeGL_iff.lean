@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_SatakeCompare_hasSatakeGL_iff
 -- name    : GlobalTheory.LGrp.SatakeCompare.hasSatakeGL_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:13:16.624174+00:00
 -- url     : https://prove2.me/theorems/f828f4e7-fc78-4e30-9e1f-9a32d49e64b8

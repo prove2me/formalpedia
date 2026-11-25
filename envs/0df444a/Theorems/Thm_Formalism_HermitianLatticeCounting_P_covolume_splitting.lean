@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_covolume_splitting
 -- name    : Formalism.HermitianLatticeCounting.P.covolume_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:19.835019+00:00
 -- url     : https://prove2.me/theorems/de57935f-9a76-401e-ac3e-8c0f2d2b3a72

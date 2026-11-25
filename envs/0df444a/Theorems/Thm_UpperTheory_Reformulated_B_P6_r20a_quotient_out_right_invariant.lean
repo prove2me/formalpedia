@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r20a_quotient_out_right_invariant
 -- name    : UpperTheory.Reformulated.B.P6.r20a.quotient_out_right_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:22.173024+00:00
 -- url     : https://prove2.me/theorems/4a6c0249-4f87-5579-9084-4c6bc14a1f64

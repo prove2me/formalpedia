@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_cAct_cAct
 -- name    : UpperTheory.V.cAct_cAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:13:20.901596+00:00
 -- url     : https://prove2.me/theorems/52eb8c96-fccd-59ed-9b43-94ec14e94dcc

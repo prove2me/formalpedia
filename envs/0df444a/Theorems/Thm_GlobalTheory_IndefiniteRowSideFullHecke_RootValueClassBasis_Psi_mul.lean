@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_RootValueClassBasis_Psi_mul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.RootValueClassBasis.Psi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:09.403155+00:00
 -- url     : https://prove2.me/theorems/e8f36fe4-09ac-4088-a82e-ebbd713f26a5

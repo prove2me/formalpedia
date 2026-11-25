@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_LocInert
 -- name    : Formalism.UG.Final.LocInert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:55:41.643983+00:00
 -- url     : https://prove2.me/theorems/4692d051-ccdb-4385-9871-03643e4cd6ab

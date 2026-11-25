@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_mem_goodSet_iff_good
 -- name    : GlobalTheory.BadShare.mem_goodSet_iff_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:56:37.344045+00:00
 -- url     : https://prove2.me/theorems/b5cade83-a03d-5375-afc4-5f64e08cd7c9

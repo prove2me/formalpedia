@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommonValuation_exists_common_valuation
 -- name    : GlobalTheory.CommonValuation.exists_common_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:46.929598+00:00
 -- url     : https://prove2.me/theorems/a490ea93-8825-4016-9d50-5bc02058c0f2

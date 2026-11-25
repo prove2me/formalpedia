@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeCx_cof_eq
 -- name    : GlobalTheory.CompanionTheory.HodgeCx.cof_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:58.391899+00:00
 -- url     : https://prove2.me/theorems/cecd1764-5979-46b3-8699-2cd97afd1d36

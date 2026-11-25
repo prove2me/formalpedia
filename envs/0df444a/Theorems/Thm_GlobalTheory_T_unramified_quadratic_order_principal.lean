@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramified_quadratic_order_principal
 -- name    : GlobalTheory.T.unramified_quadratic_order_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:18.565179+00:00
 -- url     : https://prove2.me/theorems/247b802a-05fa-57b3-bdb6-4a4ad4274ddc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_splitT_fin
 -- name    : ReciprocityTheory.L2DbarEstimates.F.splitT_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:58:12.377115+00:00
 -- url     : https://prove2.me/theorems/8d463767-1c1d-516c-9bf2-fff3fa0df0b4

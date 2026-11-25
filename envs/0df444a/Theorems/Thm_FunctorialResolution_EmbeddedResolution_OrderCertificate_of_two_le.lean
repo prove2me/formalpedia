@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OrderCertificate_of_two_le
 -- name    : FunctorialResolution.EmbeddedResolution.OrderCertificate.of_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:55:02.466585+00:00
 -- url     : https://prove2.me/theorems/218cd0f6-feaa-570b-851f-fce53047596c

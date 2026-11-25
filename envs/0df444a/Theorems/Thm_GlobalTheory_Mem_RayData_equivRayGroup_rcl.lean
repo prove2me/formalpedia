@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_equivRayGroup_rcl
 -- name    : GlobalTheory.Mem.RayData.equivRayGroup_rcl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:14:11.750963+00:00
 -- url     : https://prove2.me/theorems/95245c7f-783a-4df6-87e7-70fb39c6e6b9

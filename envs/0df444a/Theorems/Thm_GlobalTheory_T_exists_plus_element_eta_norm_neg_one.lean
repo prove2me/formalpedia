@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_plus_element_eta_norm_neg_one
 -- name    : GlobalTheory.T.exists_plus_element_eta_norm_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:31:01.830806+00:00
 -- url     : https://prove2.me/theorems/6855fdd8-7fce-40e0-8a89-4e12e69142dc

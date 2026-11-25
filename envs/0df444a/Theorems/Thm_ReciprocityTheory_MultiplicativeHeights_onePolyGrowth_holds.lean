@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_onePolyGrowth_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.onePolyGrowth_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:22:40.169901+00:00
 -- url     : https://prove2.me/theorems/751ced37-b2d4-4252-9235-76c736ba43cd

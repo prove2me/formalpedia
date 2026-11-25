@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclicNormCheck_exists_gaussian_field
 -- name    : GlobalTheory.CyclicNormCheck.exists_gaussian_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:52.408832+00:00
 -- url     : https://prove2.me/theorems/2573db25-32dc-40e4-b217-75786127c911

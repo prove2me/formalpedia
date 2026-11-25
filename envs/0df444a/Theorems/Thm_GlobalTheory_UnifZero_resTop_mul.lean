@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifZero_resTop_mul
 -- name    : GlobalTheory.UnifZero.resTop_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:02:43.129015+00:00
 -- url     : https://prove2.me/theorems/a144c4ec-0248-4751-8080-6ba752c4e24f

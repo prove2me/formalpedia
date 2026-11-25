@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_val_spMap
 -- name    : GlobalTheory.PeriodCompare.val_spMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:16:19.803081+00:00
 -- url     : https://prove2.me/theorems/ba2febfa-c607-4c4c-a560-2a4c6579990a

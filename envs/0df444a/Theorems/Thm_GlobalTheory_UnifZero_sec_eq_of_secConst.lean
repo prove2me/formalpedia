@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifZero_sec_eq_of_secConst
 -- name    : GlobalTheory.UnifZero.sec_eq_of_secConst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:02:27.092521+00:00
 -- url     : https://prove2.me/theorems/887097b1-5b8e-4d3e-a68b-9aa2eb6a759d

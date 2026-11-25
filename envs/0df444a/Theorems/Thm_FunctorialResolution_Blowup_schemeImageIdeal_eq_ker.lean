@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_schemeImageIdeal_eq_ker
 -- name    : FunctorialResolution.Blowup.schemeImageIdeal_eq_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:00.647818+00:00
 -- url     : https://prove2.me/theorems/9a903d4a-09bb-4315-b2a8-0cd028aa6a3a

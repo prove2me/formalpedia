@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_detDivides
 -- name    : Formalism.G0.Top.detDivides
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:40:27.008909+00:00
 -- url     : https://prove2.me/theorems/05064f08-6834-417b-8608-f94745b7790a

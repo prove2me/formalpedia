@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_geomRegFib_of_isRegularRing_tensor_essFiniteType
 -- name    : GlobalTheory.T.geomRegFib_of_isRegularRing_tensor_essFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:33.670475+00:00
 -- url     : https://prove2.me/theorems/87ad61fd-2b0b-4c66-be13-eadc5ead04bc

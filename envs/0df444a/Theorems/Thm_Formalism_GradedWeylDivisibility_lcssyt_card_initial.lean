@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_lcssyt_card_initial
 -- name    : Formalism.GradedWeylDivisibility.lcssyt_card_initial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:43.207653+00:00
 -- url     : https://prove2.me/theorems/9b1c24b5-93b2-4a10-9a0a-065e36d52bff

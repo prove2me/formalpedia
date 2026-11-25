@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_localLift_holds
 -- name    : CompanionTheory.ThKR.localLift_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:17:49.571328+00:00
 -- url     : https://prove2.me/theorems/76c651d3-e47f-4fcc-b709-b123a88c2cfd

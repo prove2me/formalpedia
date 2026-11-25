@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isTangent_comp_of_isMonHom
 -- name    : GlobalTheory.isTangent_comp_of_isMonHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:56:15.997995+00:00
 -- url     : https://prove2.me/theorems/06f9f6a1-8d75-4f4d-887a-e919ca854012

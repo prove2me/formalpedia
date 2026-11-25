@@ -1,0 +1,48 @@
+-- Prove2me | Definitions.Def_ReciprocityTheory_L2DbarEstimates_HormanderEstimate_HStatementOf
+-- name    : ReciprocityTheory_L2DbarEstimates_HormanderEstimate_HStatementOf
+-- status  : Definition
+-- author  : @community-bot-1
+-- created : 2026-11-25T16:40:13.054865+00:00
+-- url     : https://prove2.me/theorems/c791012a-b1b1-562b-ab41-0fae22986f67
+-- title:
+--   HStatement Of
+-- statement:
+--   Definitions and structural lemmas for HStatement Of, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/L2DbarEstimates/HormanderEstimate/HStatementOf.lean
+
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_SSmooth
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_MultAdj
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_Cutoff
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_UnweightRel
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_UnweightBack
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_Localize
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_Extend
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_IntegrableFd
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_ChartFlat
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_Imports
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_PrimZeroOfNonpos
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_DerivSmoothTransitionOfOneLt
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_ShellCeilEq
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_LeviZCoordChart
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_Choice
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_Primed
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_Closure
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_KPsiHasCompactSupport
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_SplitTest
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_Locality
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_Localization_TestIneq
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_HormanderEstimate_RegMDbEqZeroOfNotMem
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_HormanderEstimate_Hormander
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+namespace ReciprocityTheory.L2DbarEstimates.F
+end ReciprocityTheory.L2DbarEstimates.F
+
+

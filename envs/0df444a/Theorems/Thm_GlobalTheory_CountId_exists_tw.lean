@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_exists_tw
 -- name    : GlobalTheory.CountId.exists_tw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:36.634589+00:00
 -- url     : https://prove2.me/theorems/36e13769-a502-45f6-974d-451a75e0c764

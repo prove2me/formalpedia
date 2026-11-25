@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_mem_sq_of_dvd_condN
 -- name    : UpperTheory.Ram.mem_sq_of_dvd_condN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:41.241786+00:00
 -- url     : https://prove2.me/theorems/29c779b2-ec5e-46d6-9070-d5d89b2dae97

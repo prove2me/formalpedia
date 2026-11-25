@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeFrame_finite_quotient
 -- name    : GlobalTheory.IsLatticeFrame.finite_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:13.411104+00:00
 -- url     : https://prove2.me/theorems/af2555de-7989-55a2-b2a6-274c21041805

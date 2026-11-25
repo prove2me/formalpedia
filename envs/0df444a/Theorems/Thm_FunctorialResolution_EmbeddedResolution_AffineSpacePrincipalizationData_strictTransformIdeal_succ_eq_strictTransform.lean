@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_strictTransformIdeal_succ_eq_strictTransform
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.strictTransformIdeal_succ_eq_strictTransform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:06.557908+00:00
 -- url     : https://prove2.me/theorems/7e908b71-7bcb-4560-b2f7-d960cf530bd0

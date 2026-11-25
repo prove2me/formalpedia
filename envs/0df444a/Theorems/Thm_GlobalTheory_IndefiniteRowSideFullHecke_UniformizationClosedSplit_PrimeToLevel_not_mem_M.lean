@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UniformizationClosedSplit_PrimeToLevel_not_mem_M
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UniformizationClosedSplit.PrimeToLevel.not_mem_M
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:16.021666+00:00
 -- url     : https://prove2.me/theorems/22f81e2f-4ac2-409c-b490-fdd228427352

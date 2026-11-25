@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_boundedOnFrames_iff_integralOnFrames
 -- name    : GlobalTheory.DiscEval.boundedOnFrames_iff_integralOnFrames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:58:27.480375+00:00
 -- url     : https://prove2.me/theorems/a86a2eb8-f221-4dc6-af55-d258a5c1757e

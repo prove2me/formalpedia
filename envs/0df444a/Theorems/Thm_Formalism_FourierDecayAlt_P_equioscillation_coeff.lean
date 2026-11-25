@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_equioscillation_coeff
 -- name    : Formalism.FourierDecayAlt.P.equioscillation_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:29:29.482437+00:00
 -- url     : https://prove2.me/theorems/5b3d7844-1238-50b3-84fc-8637d29304c0

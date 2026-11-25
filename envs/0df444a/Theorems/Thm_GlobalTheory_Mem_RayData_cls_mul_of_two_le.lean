@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_RayData_cls_mul_of_two_le
 -- name    : GlobalTheory.Mem.RayData.cls_mul_of_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:14:17.093797+00:00
 -- url     : https://prove2.me/theorems/21d2cd86-4b9b-4f62-b3e7-b327b1f1d16b

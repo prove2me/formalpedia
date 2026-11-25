@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThKOp_continuous_of_mem_schA
 -- name    : GlobalTheory.ThKOp.continuous_of_mem_schA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:41:04.021258+00:00
 -- url     : https://prove2.me/theorems/9763743b-dc88-4fa1-9930-7a78f59a1448

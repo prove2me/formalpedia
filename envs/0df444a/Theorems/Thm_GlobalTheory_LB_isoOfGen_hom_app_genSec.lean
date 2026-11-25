@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LB_isoOfGen_hom_app_genSec
 -- name    : GlobalTheory.LB.isoOfGen_hom_app_genSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:08:48.725353+00:00
 -- url     : https://prove2.me/theorems/680e4442-8195-55e0-ae99-7c163c3b5226

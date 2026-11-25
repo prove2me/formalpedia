@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_relIndexMonotone
 -- name    : Formalism.HermitianLatticeCounting.P.relIndexMonotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:39:48.236215+00:00
 -- url     : https://prove2.me/theorems/39ca96b6-a2c6-41f0-a24e-ffdd34173d4b

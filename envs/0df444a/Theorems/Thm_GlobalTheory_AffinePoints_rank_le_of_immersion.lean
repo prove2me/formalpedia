@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_rank_le_of_immersion
 -- name    : GlobalTheory.AffinePoints.rank_le_of_immersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:55:56.935011+00:00
 -- url     : https://prove2.me/theorems/9e217fd6-67a0-4623-9ac6-986fe811a76d

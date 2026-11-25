@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_fin_split
 -- name    : UnipMove.GraphH.fin_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:12:00.670281+00:00
 -- url     : https://prove2.me/theorems/a05a6679-25c5-42e3-aee5-7039db287be5

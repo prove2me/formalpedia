@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeBalance_balance
 -- name    : GlobalTheory.CubeBalance.balance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:09:53.833156+00:00
 -- url     : https://prove2.me/theorems/e9485a2d-d7d1-4975-b727-63c60eb58a7f

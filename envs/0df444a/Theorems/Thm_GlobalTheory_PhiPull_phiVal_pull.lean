@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiPull_phiVal_pull
 -- name    : GlobalTheory.PhiPull.phiVal_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:57:11.856564+00:00
 -- url     : https://prove2.me/theorems/316840f3-be44-48ea-b4bf-8049249467f9

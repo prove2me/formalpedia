@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_schur_lattice_bound
 -- name    : Formalism.FourierDecayAlt.P.schur_lattice_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:07.127678+00:00
 -- url     : https://prove2.me/theorems/d8abb845-51ae-4254-a915-c2c530a284d8

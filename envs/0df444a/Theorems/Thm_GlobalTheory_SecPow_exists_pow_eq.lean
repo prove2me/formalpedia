@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecPow_exists_pow_eq
 -- name    : GlobalTheory.SecPow.exists_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:55:39.392138+00:00
 -- url     : https://prove2.me/theorems/6277e80b-e222-5314-9248-91397c054447

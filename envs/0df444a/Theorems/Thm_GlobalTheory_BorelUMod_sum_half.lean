@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_sum_half
 -- name    : GlobalTheory.BorelUMod.sum_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:52.89614+00:00
 -- url     : https://prove2.me/theorems/7c60f242-900c-41a9-bad5-a0a20e71da0c

@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.lattice_facts_two_split_primes
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T16:46:42.636275+00:00
+-- url     : https://prove2.me/submissions/a36359ca-8632-46e2-9a22-a686058a87c8
+
+import Definitions.Def_Formalism_HermitianCurvature_PrimeToDifferent
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DualIdealInclusion
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstEmbeddingOne
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DualVolumePowerIdentity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PeriodLatticeFactsSplitOfGeneral
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalisationScaledIdealMemIff
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FinrankLeOfMapLe
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SplitPrimeToDifferent
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_TwistedIsRealOrderLattice
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalisationTypedIndependentExponent
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LocalConditionsAndQuotientSplitting
+import Theorems.Thm_Formalism_FourierDecayAlt_P_lattice_facts_general
+import Theorems.Thm_Formalism_FourierDecayAlt_P_periodLatticeFactsSplitOfGeneral
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.S6.TextLattices :=
+  periodLatticeFactsSplitOfGeneral lattice_facts_general
+end Formalism.FourierDecayAlt.P

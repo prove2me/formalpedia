@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_not_isSiegel_indefinite
 -- name    : GlobalTheory.RiemannThetaModel.not_isSiegel_indefinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:41.267399+00:00
 -- url     : https://prove2.me/theorems/b9835a42-9c3e-4dde-b618-a1be8941242d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_character_unit_split_or_inert
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.character_unit_split_or_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:19.587012+00:00
 -- url     : https://prove2.me/theorems/26d4a935-d379-442b-8f3d-847f43960c04

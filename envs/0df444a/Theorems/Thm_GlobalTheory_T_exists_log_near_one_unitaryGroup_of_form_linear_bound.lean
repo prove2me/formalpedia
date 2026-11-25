@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_log_near_one_unitaryGroup_of_form_linear_bound
 -- name    : GlobalTheory.T.exists_log_near_one_unitaryGroup_of_form_linear_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:47.718419+00:00
 -- url     : https://prove2.me/theorems/fe00feaf-bf61-5aba-b2bb-0854c5bd20df

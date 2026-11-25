@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_pf_eF_smooth
 -- name    : ZetaZeros.D.EllReg.pf_eF_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:25.067742+00:00
 -- url     : https://prove2.me/theorems/bd6a275a-e953-5af9-85c4-1854e023c391

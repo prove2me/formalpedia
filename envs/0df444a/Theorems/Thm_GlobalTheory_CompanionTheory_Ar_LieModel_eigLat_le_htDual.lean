@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_LieModel_eigLat_le_htDual
 -- name    : GlobalTheory.CompanionTheory.Ar.LieModel.eigLat_le_htDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:08.880891+00:00
 -- url     : https://prove2.me/theorems/df261663-ff4b-49c2-9291-b778ed1a9549

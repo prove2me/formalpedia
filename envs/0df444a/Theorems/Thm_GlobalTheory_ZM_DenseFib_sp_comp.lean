@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_DenseFib_sp_comp
 -- name    : GlobalTheory.ZM.DenseFib.sp_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:02:18.097082+00:00
 -- url     : https://prove2.me/theorems/15845e78-8a15-4389-9a4e-47a7507e74e2

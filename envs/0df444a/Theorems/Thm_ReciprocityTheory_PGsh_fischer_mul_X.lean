@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_fischer_mul_X
 -- name    : ReciprocityTheory.PGsh.fischer_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:09:13.622737+00:00
 -- url     : https://prove2.me/theorems/ed0b23b2-7c7c-5f6b-b7ff-f5c5425be6d9

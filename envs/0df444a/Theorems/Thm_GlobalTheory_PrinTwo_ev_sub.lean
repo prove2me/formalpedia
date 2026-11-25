@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_ev_sub
 -- name    : GlobalTheory.PrinTwo.ev_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:16:40.151691+00:00
 -- url     : https://prove2.me/theorems/92b963ff-9a82-5e49-9917-ce19a8b1228a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_ord_nsmul
 -- name    : Formalism.HC.Frame.ord_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:36.4243+00:00
 -- url     : https://prove2.me/theorems/6f004ee0-1f0e-478c-be86-ef3a68270853

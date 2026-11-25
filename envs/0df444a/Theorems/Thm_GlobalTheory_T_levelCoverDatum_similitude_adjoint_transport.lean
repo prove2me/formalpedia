@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_levelCoverDatum_similitude_adjoint_transport
 -- name    : GlobalTheory.T.levelCoverDatum_similitude_adjoint_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:35:26.821511+00:00
 -- url     : https://prove2.me/theorems/e18d2d0c-750e-5145-a42e-6cdd5fbd3f9e

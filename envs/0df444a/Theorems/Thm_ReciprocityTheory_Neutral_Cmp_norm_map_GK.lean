@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_norm_map_GK
 -- name    : ReciprocityTheory.Neutral.Cmp.norm_map_GK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:08:02.004069+00:00
 -- url     : https://prove2.me/theorems/c1b3b0e8-c37c-44ce-9219-2af10a235027

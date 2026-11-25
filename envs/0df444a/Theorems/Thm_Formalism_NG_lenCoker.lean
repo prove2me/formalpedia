@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_lenCoker
 -- name    : Formalism.NG.lenCoker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:03.938507+00:00
 -- url     : https://prove2.me/theorems/1b17b5d3-1122-434c-b633-faafa91abe31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_om_nonneg
 -- name    : ZetaZeros.D.EllReg.om_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:56.102855+00:00
 -- url     : https://prove2.me/theorems/001981b7-b1bc-41f5-bc84-d8761b7edd1d

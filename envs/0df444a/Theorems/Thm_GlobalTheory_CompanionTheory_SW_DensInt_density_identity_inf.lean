@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_DensInt_density_identity_inf
 -- name    : GlobalTheory.CompanionTheory.SW.DensInt.density_identity_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:05:25.380152+00:00
 -- url     : https://prove2.me/theorems/b40ea742-3f6c-55d7-8312-53f1e787167f

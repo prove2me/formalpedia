@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_EigD_tcoord_jet_lin
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.EigD.tcoord_jet_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:53:28.764878+00:00
 -- url     : https://prove2.me/theorems/c6c436b9-6427-5720-a944-cfd4572b3c14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasLogGrowthEntries_conjTranspose
 -- name    : GlobalTheory.HasLogGrowthEntries.conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:11.823832+00:00
 -- url     : https://prove2.me/theorems/ddc0b161-c8ed-4c77-9345-58c31a5eaf1c

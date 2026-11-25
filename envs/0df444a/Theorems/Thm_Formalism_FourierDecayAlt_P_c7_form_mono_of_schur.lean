@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c7_form_mono_of_schur
 -- name    : Formalism.FourierDecayAlt.P.c7_form_mono_of_schur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:35:42.941899+00:00
 -- url     : https://prove2.me/theorems/cb66d8f2-378d-555b-b555-945dbc62109b

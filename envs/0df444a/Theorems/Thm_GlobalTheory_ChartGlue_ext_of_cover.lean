@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartGlue_ext_of_cover
 -- name    : GlobalTheory.ChartGlue.ext_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:17.497679+00:00
 -- url     : https://prove2.me/theorems/70371974-ab83-4104-828a-acab43de90f7

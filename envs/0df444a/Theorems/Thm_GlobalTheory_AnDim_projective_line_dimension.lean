@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnDim_projective_line_dimension
 -- name    : GlobalTheory.AnDim.projective_line_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:42:04.55222+00:00
 -- url     : https://prove2.me/theorems/1175f35d-1030-5525-a0e6-838f8610eb25

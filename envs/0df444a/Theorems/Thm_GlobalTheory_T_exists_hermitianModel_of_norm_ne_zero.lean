@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hermitianModel_of_norm_ne_zero
 -- name    : GlobalTheory.T.exists_hermitianModel_of_norm_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:16.694186+00:00
 -- url     : https://prove2.me/theorems/ef4bf03e-2ee5-59a8-aeb6-f03d1f10576d

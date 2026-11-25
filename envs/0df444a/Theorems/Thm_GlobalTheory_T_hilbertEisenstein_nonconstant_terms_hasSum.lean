@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertEisenstein_nonconstant_terms_hasSum
 -- name    : GlobalTheory.T.hilbertEisenstein_nonconstant_terms_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:33:19.148577+00:00
 -- url     : https://prove2.me/theorems/cdf7ab78-00a8-5688-8b21-85546ab19b62

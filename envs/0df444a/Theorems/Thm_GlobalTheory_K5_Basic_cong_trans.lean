@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_cong_trans
 -- name    : GlobalTheory.K5.Basic.cong_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:11:42.293599+00:00
 -- url     : https://prove2.me/theorems/c130d22c-8184-4b45-a6df-1984e0092994

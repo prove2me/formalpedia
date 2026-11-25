@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_grid_squares_bound_alt
 -- name    : Formalism.AtG.grid_squares_bound_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:20:34.993795+00:00
 -- url     : https://prove2.me/theorems/a9083875-da88-59d2-a4d4-080a98d434e0

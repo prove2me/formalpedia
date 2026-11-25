@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_real_bounds
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_real_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:05:41.54962+00:00
 -- url     : https://prove2.me/theorems/c2659f11-e7e3-4093-8d36-f70b0cb1b9ab

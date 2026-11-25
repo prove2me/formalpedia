@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_colFrame_one
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.colFrame_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:24.770816+00:00
 -- url     : https://prove2.me/theorems/a98932c6-7758-47b0-b9f2-92341a18415c

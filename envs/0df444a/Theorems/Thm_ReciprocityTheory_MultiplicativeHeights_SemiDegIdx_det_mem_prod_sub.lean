@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_det_mem_prod_sub
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.det_mem_prod_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:48:15.555297+00:00
 -- url     : https://prove2.me/theorems/fb22380f-4fdc-4270-bba8-9da4ffbd0377

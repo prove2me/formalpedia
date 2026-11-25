@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_prod_sec_nonzeroLocus
 -- name    : GlobalTheory.exists_prod_sec_nonzeroLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:52:50.022702+00:00
 -- url     : https://prove2.me/theorems/49eba00c-d653-430a-86cc-3f1db5ebc4f7

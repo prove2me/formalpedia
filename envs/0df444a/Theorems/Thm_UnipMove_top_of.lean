@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_top_of
 -- name    : UnipMove.top_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:53.685616+00:00
 -- url     : https://prove2.me/theorems/92c2a5ad-8056-43a0-846d-4daee3ba33e8

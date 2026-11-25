@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SplitUnramifiedPlaces_nonempty_splitPlace_five
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SplitUnramifiedPlaces.nonempty_splitPlace_five
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:09:51.106257+00:00
 -- url     : https://prove2.me/theorems/b64d7095-7f04-4fa8-9056-505b8a4c4d00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isFlatOver_of_field
 -- name    : GlobalTheory.QCoh.isFlatOver_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:18:57.261439+00:00
 -- url     : https://prove2.me/theorems/c1d6a36e-dec1-5905-9193-4bce1b4f21a9

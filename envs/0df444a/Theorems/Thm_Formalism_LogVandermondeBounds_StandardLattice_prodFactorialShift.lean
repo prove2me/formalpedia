@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_prodFactorialShift
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.prodFactorialShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:49:31.141833+00:00
 -- url     : https://prove2.me/theorems/c110000c-c807-537b-8c6e-f5731c5d2c92

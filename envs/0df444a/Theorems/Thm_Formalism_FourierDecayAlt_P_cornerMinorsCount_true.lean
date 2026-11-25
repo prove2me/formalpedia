@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cornerMinorsCount_true
 -- name    : Formalism.FourierDecayAlt.P.cornerMinorsCount_true
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:47.939383+00:00
 -- url     : https://prove2.me/theorems/11ee1437-a869-48ff-abb5-b6b57d85b8fc

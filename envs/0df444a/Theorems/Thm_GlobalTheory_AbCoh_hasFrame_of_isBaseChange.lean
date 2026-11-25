@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_hasFrame_of_isBaseChange
 -- name    : GlobalTheory.AbCoh.hasFrame_of_isBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:06:03.559339+00:00
 -- url     : https://prove2.me/theorems/23d25152-a96c-4419-aa66-f815e35489c3

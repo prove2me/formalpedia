@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_locRing_bot_regular
 -- name    : ReciprocityTheory.AnForm.R.locRing_bot_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:56.068983+00:00
 -- url     : https://prove2.me/theorems/9ea77290-9f3d-4bd0-8d96-755cf6d7c352

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_parDatum_Q
 -- name    : GlobalTheory.LGrp.parDatum_Q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:18:02.943807+00:00
 -- url     : https://prove2.me/theorems/3ffd474b-35b7-5574-a6bb-0059868cf834

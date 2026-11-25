@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AdmissibleCharUnramified_homModInertia_eq_unr
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AdmissibleCharUnramified.homModInertia_eq_unr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:09:07.236488+00:00
 -- url     : https://prove2.me/theorems/f379d6ff-bb6e-4ae4-9b7a-c6718d3e32e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_FormSec_mem_of_X_mul_mem
 -- name    : GlobalTheory.ZV.FormSec.mem_of_X_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:49:39.03067+00:00
 -- url     : https://prove2.me/theorems/abe6b6d0-39dd-4d1b-a078-416346ce1e69

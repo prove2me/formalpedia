@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_exists_prime_saturation_generic_section
 -- name    : GlobalTheory.Chow.exists_prime_saturation_generic_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:24.421588+00:00
 -- url     : https://prove2.me/theorems/1a518e8f-6ff4-5dc4-aa86-3719ba503476

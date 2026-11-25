@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_IsConjM_dual
 -- name    : Formalism.MainNotions.N.K.Norm.IsConjM.dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:24.470595+00:00
 -- url     : https://prove2.me/theorems/dbf59a42-73ad-45ed-a333-1226713ecf55

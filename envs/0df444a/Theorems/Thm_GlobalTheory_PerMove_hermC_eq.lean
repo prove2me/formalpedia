@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PerMove_hermC_eq
 -- name    : GlobalTheory.PerMove.hermC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:16:04.288419+00:00
 -- url     : https://prove2.me/theorems/31a17fd7-1720-4ba1-8e08-0b4760b798e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_lineFibre
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.lineFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:59:20.962954+00:00
 -- url     : https://prove2.me/theorems/615f45f3-160d-4af7-b9bb-2b92cbb08a2e

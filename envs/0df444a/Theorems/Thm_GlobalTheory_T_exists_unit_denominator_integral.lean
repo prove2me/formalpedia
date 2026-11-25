@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_denominator_integral
 -- name    : GlobalTheory.T.exists_unit_denominator_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:03.274108+00:00
 -- url     : https://prove2.me/theorems/c9594599-d42d-4d9a-a593-4697b9e094ff

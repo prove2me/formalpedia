@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FrTanDirAlg_exists_inv
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FrTanDirAlg.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:01.13846+00:00
 -- url     : https://prove2.me/theorems/3b2d8acc-99b8-4963-b7fe-63b604bf66bc

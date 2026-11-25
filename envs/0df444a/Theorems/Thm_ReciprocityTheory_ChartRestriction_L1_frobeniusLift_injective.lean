@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_frobeniusLift_injective
 -- name    : ReciprocityTheory.ChartRestriction.L1.frobeniusLift_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:43:55.224204+00:00
 -- url     : https://prove2.me/theorems/6d31d97d-5b60-4a1f-b252-8feab494198a

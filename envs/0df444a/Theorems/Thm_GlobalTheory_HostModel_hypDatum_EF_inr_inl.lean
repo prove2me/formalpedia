@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_hypDatum_EF_inr_inl
 -- name    : GlobalTheory.HostModel.hypDatum_EF_inr_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:03.202226+00:00
 -- url     : https://prove2.me/theorems/8d6fdd92-f935-41f3-bfa0-745bca32cd75

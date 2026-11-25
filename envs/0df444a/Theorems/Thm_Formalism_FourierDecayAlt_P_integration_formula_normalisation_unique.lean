@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_integration_formula_normalisation_unique
 -- name    : Formalism.FourierDecayAlt.P.integration_formula_normalisation_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:30:24.064023+00:00
 -- url     : https://prove2.me/theorems/4bb1520c-9bfc-4c7c-9ab3-c3f2554689aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_det_mem_span_prod
 -- name    : ReciprocityTheory.PGsh.Up.det_mem_span_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:37:25.363127+00:00
 -- url     : https://prove2.me/theorems/30309f98-dfd3-4b24-a3ca-faffa9defac7

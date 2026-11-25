@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fourier_stable_submodule_containing_gaussian
 -- name    : GlobalTheory.T.exists_fourier_stable_submodule_containing_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:05.607872+00:00
 -- url     : https://prove2.me/theorems/aaffaf00-7cb5-551d-9494-bebcb16bde9b

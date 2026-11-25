@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_periods_polarised
 -- name    : GlobalTheory.AnArc.periods_polarised
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:55:45.078708+00:00
 -- url     : https://prove2.me/theorems/df8ab407-2058-5f12-bab5-ce43a844ef26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_fr_axes
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.fr_axes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:11.978512+00:00
 -- url     : https://prove2.me/theorems/08f4fa02-cdde-5019-a9ba-667c6d6fb022

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parabolic_law_of_block_det
 -- name    : GlobalTheory.T.parabolic_law_of_block_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:58.658055+00:00
 -- url     : https://prove2.me/theorems/948ef2a6-9f7d-4970-a769-bcc0a7788554

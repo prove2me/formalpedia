@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_alternatingDifference_term_window
 -- name    : GlobalTheory.T.alternatingDifference_term_window
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:55.129094+00:00
 -- url     : https://prove2.me/theorems/c1f0e159-6160-4b1b-897b-ac7e83914e69

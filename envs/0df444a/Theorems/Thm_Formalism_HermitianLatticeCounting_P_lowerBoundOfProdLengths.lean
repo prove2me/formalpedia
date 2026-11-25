@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lowerBoundOfProdLengths
 -- name    : Formalism.HermitianLatticeCounting.P.lowerBoundOfProdLengths
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:38:52.244792+00:00
 -- url     : https://prove2.me/theorems/f1209518-8ee6-5964-a4c1-109fbef1cead

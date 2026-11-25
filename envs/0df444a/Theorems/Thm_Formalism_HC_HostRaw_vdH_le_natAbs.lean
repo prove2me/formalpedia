@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_vdH_le_natAbs
 -- name    : Formalism.HC.HostRaw.vdH_le_natAbs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:38.477801+00:00
 -- url     : https://prove2.me/theorems/9810db74-95b5-4a29-b793-e61f81c38bc2

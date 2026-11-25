@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_harmonicMinSum_holds
 -- name    : Formalism.CohomologicalDescent.harmonicMinSum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:29.665972+00:00
 -- url     : https://prove2.me/theorems/e04f73a2-920e-44d1-a365-003cc9ae7bfa

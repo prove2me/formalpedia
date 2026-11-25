@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_h1_roots_of_unity_equiv_of_h1_subsingleton
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.h1_roots_of_unity_equiv_of_h1_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:05:11.643803+00:00
 -- url     : https://prove2.me/theorems/4020b5ea-cfc4-4ddc-b83f-691efeb2ffcc

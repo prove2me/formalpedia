@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_triangularFrameRing_over_testRing
 -- name    : GlobalTheory.T.exists_triangularFrameRing_over_testRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:12.415011+00:00
 -- url     : https://prove2.me/theorems/b8b30ba6-fe3e-4f48-a74e-81bc772aded8

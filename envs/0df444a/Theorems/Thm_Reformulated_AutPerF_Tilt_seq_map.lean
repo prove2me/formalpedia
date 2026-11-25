@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Tilt_seq_map
 -- name    : Reformulated.AutPerF.Tilt.seq_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:06.066988+00:00
 -- url     : https://prove2.me/theorems/c889522b-7b82-46cc-87a0-10f344e2cf49

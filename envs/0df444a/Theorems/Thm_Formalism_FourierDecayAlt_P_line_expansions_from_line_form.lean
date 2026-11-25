@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_line_expansions_from_line_form
 -- name    : Formalism.FourierDecayAlt.P.line_expansions_from_line_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:36.119799+00:00
 -- url     : https://prove2.me/theorems/9e36b126-fcf7-4488-882d-b24d3c7b6ecc

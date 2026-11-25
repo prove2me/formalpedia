@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_frobOrbitPeriod
 -- name    : Formalism.IncomingBounds.frobOrbitPeriod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:32.748801+00:00
 -- url     : https://prove2.me/theorems/d59453ce-ac61-4bde-970e-91df75a003e5

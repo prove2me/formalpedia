@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_eqns_quot
 -- name    : GlobalTheory.IsoDesc.eqns_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:55:35.200866+00:00
 -- url     : https://prove2.me/theorems/0bb270c5-52dc-4a0c-bcea-5f143c54118f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_dense_preimage_smoothLocus
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.dense_preimage_smoothLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:52.561627+00:00
 -- url     : https://prove2.me/theorems/4d91061b-73da-4231-806b-f74521c928a2

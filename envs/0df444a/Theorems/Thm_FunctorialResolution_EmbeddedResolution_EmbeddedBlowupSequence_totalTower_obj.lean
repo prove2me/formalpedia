@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_totalTower_obj
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.totalTower_obj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:43.913302+00:00
 -- url     : https://prove2.me/theorems/a211e5e1-7272-55da-97ef-0c31b5df14e0

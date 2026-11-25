@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_FormalGroupLawMap_map_inj
 -- name    : Formalism.FG.FormalGroupLawMap.map_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:01.955873+00:00
 -- url     : https://prove2.me/theorems/810a7570-794f-44db-bd70-18231e8a18c9

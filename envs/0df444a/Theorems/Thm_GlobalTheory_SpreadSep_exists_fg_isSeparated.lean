@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpreadSep_exists_fg_isSeparated
 -- name    : GlobalTheory.SpreadSep.exists_fg_isSeparated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:02:13.605829+00:00
 -- url     : https://prove2.me/theorems/769fff7f-e558-55da-bca0-82380c526813

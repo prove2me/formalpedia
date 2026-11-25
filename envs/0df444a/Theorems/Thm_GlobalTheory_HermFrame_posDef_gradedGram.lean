@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_posDef_gradedGram
 -- name    : GlobalTheory.HermFrame.posDef_gradedGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:17.726966+00:00
 -- url     : https://prove2.me/theorems/c92e3ff1-d9ba-5637-a0b8-c0a7ad1d35a5

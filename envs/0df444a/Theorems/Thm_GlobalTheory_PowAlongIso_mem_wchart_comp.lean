@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowAlongIso_mem_wchart_comp
 -- name    : GlobalTheory.PowAlongIso.mem_wchart_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:44:38.345994+00:00
 -- url     : https://prove2.me/theorems/fc62a27f-f335-5835-8bb7-318c26a7d3a6

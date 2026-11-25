@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_secOn_basicOpen_localization
 -- name    : GlobalTheory.AbLaw.secOn_basicOpen_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:09:18.273813+00:00
 -- url     : https://prove2.me/theorems/29de1443-765b-5638-9263-2d9c2fcb8b7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_budget_word
 -- name    : Formalism.FourierDecayAlt.P.budget_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:31:47.11101+00:00
 -- url     : https://prove2.me/theorems/685fc6d1-1bff-4aa3-b35e-e81afbebcaf9

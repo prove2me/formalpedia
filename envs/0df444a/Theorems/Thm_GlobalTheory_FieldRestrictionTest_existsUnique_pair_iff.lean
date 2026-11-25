@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldRestrictionTest_existsUnique_pair_iff
 -- name    : GlobalTheory.FieldRestrictionTest.existsUnique_pair_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:46:19.36934+00:00
 -- url     : https://prove2.me/theorems/5d0514f8-bb25-4f96-9d9f-7b2245077ae4

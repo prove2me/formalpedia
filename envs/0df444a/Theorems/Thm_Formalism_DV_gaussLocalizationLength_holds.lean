@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DV_gaussLocalizationLength_holds
 -- name    : Formalism.DV.gaussLocalizationLength_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:34.378055+00:00
 -- url     : https://prove2.me/theorems/098a3722-be02-5e92-8494-8eb64fcfb6f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ThetaWeightedNorm_ThetaIn_constant_lt_t_mul_a
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ThetaWeightedNorm.ThetaIn.constant_lt_t_mul_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:16.001345+00:00
 -- url     : https://prove2.me/theorems/1e8ae254-9ce6-50d7-a25f-dfcfa386f014

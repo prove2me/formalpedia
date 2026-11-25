@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_pht_lift
 -- name    : Formalism.WeaklyAdmissibleFiltrations.pht_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:03.343857+00:00
 -- url     : https://prove2.me/theorems/739ddd56-de4d-4f3a-8117-ecad6990d57b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ThetaSummability_Est_preimage_tailSum_logCone
 -- name    : ReciprocityTheory.ThetaSummability.Est.preimage_tailSum_logCone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:23.866467+00:00
 -- url     : https://prove2.me/theorems/2fa35bfe-3fa9-4a3b-9787-268be46a6177

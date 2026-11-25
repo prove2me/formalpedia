@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedLatticeOperators_IndexDeterminantCharacterSums_index_eq_determinant
 -- name    : Formalism.HermitianLattices.RamifiedLatticeOperators.IndexDeterminantCharacterSums.index_eq_determinant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:10.699989+00:00
 -- url     : https://prove2.me/theorems/96656047-abb8-597a-8ae6-ce8ea49df2b7

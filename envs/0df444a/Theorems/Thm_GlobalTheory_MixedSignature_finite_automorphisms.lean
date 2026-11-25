@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_finite_automorphisms
 -- name    : GlobalTheory.MixedSignature.finite_automorphisms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:55:05.66615+00:00
 -- url     : https://prove2.me/theorems/2b66e4f7-1b8e-4008-be57-2ad96e5dbb50

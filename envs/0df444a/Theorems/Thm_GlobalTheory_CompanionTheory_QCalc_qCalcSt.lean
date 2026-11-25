@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QCalc_qCalcSt
 -- name    : GlobalTheory.CompanionTheory.QCalc.qCalcSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:58.282671+00:00
 -- url     : https://prove2.me/theorems/dfb23959-e107-49d2-aa51-ba2b3f8c41ec

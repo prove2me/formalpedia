@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Arith_FormsL_pet_conj_symm
 -- name    : Formalism.IndefR.Arith.FormsL.pet_conj_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:59.60815+00:00
 -- url     : https://prove2.me/theorems/1bcb8f36-4dfa-43ce-93d3-ca1b4ab16f70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_IsRed_transport
 -- name    : GlobalTheory.SgGlob.IsRed.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:29.904971+00:00
 -- url     : https://prove2.me/theorems/498ca0dd-89d5-5538-a1a7-f9062f3ea74b

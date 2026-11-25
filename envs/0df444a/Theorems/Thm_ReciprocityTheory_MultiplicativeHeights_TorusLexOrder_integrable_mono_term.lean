@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_TorusLexOrder_integrable_mono_term
 -- name    : ReciprocityTheory.MultiplicativeHeights.TorusLexOrder.integrable_mono_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:02:51.268904+00:00
 -- url     : https://prove2.me/theorems/75ca3e36-b000-47b4-a91b-e149ce451bd9

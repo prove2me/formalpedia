@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_positive_definite_form
 -- name    : positive_definite_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:16:07.159323+00:00
 -- url     : https://prove2.me/theorems/9f405639-2f45-409a-ae99-8e6fc92d882e

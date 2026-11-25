@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ZeroWeightSections_toData_M_mem
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ZeroWeightSections.toData_M_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:46.322805+00:00
 -- url     : https://prove2.me/theorems/4cd774ff-a590-4994-bad7-50d10ad27981

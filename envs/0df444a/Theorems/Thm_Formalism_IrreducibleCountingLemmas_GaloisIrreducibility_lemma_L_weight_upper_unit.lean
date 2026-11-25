@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_lemma_L_weight_upper_unit
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.lemma_L_weight_upper_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:43:53.941194+00:00
 -- url     : https://prove2.me/theorems/8b874aa2-9dc8-41a8-8155-cc0e79834f98

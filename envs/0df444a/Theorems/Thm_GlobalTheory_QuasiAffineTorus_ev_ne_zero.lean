@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuasiAffineTorus_ev_ne_zero
 -- name    : GlobalTheory.QuasiAffineTorus.ev_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:53:23.533114+00:00
 -- url     : https://prove2.me/theorems/9209e2e1-5e2f-59cc-98f7-4961bf284410

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_HessFrame_cHess_log_sum_normSq_eq
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.HessFrame.cHess_log_sum_normSq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:40:37.739073+00:00
 -- url     : https://prove2.me/theorems/3abd9d5b-b825-49e0-bb9a-b98a8e1b1601

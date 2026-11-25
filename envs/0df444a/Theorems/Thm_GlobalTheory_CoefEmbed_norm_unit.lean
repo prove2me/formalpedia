@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoefEmbed_norm_unit
 -- name    : GlobalTheory.CoefEmbed.norm_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:52.59858+00:00
 -- url     : https://prove2.me/theorems/d890ab79-e4b9-4655-82ec-703289bc9be7

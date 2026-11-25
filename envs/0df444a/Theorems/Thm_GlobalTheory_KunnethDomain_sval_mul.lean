@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KunnethDomain_sval_mul
 -- name    : GlobalTheory.KunnethDomain.sval_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:04:13.395129+00:00
 -- url     : https://prove2.me/theorems/907bcd45-f2d0-5a5e-a9ee-7f44d68b6243

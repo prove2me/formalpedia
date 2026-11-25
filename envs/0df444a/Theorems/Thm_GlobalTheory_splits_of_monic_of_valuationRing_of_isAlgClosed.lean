@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splits_of_monic_of_valuationRing_of_isAlgClosed
 -- name    : GlobalTheory.splits_of_monic_of_valuationRing_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:05:12.035412+00:00
 -- url     : https://prove2.me/theorems/61831990-e9e1-4432-86eb-ac1c9cf1c2f6

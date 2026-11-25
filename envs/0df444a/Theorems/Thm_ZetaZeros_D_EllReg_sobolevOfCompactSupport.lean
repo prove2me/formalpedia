@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_sobolevOfCompactSupport
 -- name    : ZetaZeros.D.EllReg.sobolevOfCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:16:36.265106+00:00
 -- url     : https://prove2.me/theorems/4eefe6d7-e826-4710-bc3d-bc8ce03f43d1

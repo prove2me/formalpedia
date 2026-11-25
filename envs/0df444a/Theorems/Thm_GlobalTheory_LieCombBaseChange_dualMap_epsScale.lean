@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieCombBaseChange_dualMap_epsScale
 -- name    : GlobalTheory.LieCombBaseChange.dualMap_epsScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:43:25.253554+00:00
 -- url     : https://prove2.me/theorems/b23ba770-21e2-45dc-93b9-0041c5225368

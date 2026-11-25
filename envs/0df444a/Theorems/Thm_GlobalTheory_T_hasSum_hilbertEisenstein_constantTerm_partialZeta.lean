@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_hilbertEisenstein_constantTerm_partialZeta
 -- name    : GlobalTheory.T.hasSum_hilbertEisenstein_constantTerm_partialZeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:56.908297+00:00
 -- url     : https://prove2.me/theorems/42155384-4555-4483-b14b-3b61109c0d0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_slope_local_nonvacuous
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.slope_local_nonvacuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:58:01.298424+00:00
 -- url     : https://prove2.me/theorems/a6701e64-a132-54ea-adf7-e5e34f53290c

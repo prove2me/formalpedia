@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_uniform_near_parameter
 -- name    : GlobalTheory.T.lintegral_uniform_near_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:36:16.347806+00:00
 -- url     : https://prove2.me/theorems/a72b7e47-fe1b-4fa2-91b2-9301c19e4161

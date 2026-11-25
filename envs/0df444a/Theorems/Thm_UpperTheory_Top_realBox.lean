@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Top_realBox
 -- name    : UpperTheory.Top.realBox
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:13:55.672281+00:00
 -- url     : https://prove2.me/theorems/eefa7b8d-da67-577a-bd5f-cb96f54af952

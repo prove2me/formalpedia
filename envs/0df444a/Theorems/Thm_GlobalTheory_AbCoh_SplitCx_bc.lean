@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_SplitCx_bc
 -- name    : GlobalTheory.AbCoh.SplitCx.bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:50:56.642622+00:00
 -- url     : https://prove2.me/theorems/986c1ddd-a1ef-466f-a4c8-58d0f74ba49f

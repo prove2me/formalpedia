@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_support_ker_comp_subset_support_ker
 -- name    : FunctorialResolution.EmbeddedResolution.support_ker_comp_subset_support_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:27.565189+00:00
 -- url     : https://prove2.me/theorems/41e78371-ebf7-4e8e-99d4-d982548d04a7

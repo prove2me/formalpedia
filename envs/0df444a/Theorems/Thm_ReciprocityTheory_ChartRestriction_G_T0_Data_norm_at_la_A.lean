@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_norm_at_la_A
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.norm_at_la_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:00:58.673636+00:00
 -- url     : https://prove2.me/theorems/c1624c5f-d43a-5ade-be9a-55a82409dbc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_chernOne_eq_neg_ddc_log_det
 -- name    : GlobalTheory.HermFrame.chernOne_eq_neg_ddc_log_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:53.886317+00:00
 -- url     : https://prove2.me/theorems/75b659eb-f02c-4622-a615-6744d0b0acf0

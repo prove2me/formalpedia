@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_toFib_res
 -- name    : GlobalTheory.HeckeFrCompare.toFib_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:45:31.697673+00:00
 -- url     : https://prove2.me/theorems/c36132cf-2b4e-4597-9d23-7e4ad509bfa0

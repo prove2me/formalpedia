@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_divided_power_integrality
 -- name    : divided_power_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:15:51.500042+00:00
 -- url     : https://prove2.me/theorems/9df8a159-9084-4438-87f4-1963e069e626

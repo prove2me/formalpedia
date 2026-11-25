@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for GlobalTheory.MultiplicativeReduction.nonempty_torusExtension_splitTorus
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T16:06:13.407703+00:00
+-- url     : https://prove2.me/submissions/21e91a17-a639-454d-a80a-0e4ff93df4b0
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_CubeVal
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ShimuraVarieties_OpensRangeChartYSupOpensRangeChartZ
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_FamMod
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_SABBaseChangeSt
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_LocallyOfFinitePresentationDiagMap
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_OverHomEqIffForallIsAlgClosedAlgebra
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_IsAbelianSchemeAndExtendOfGenericHoms
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UniformizationProofs_RangeSubsetOfForallField
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UniformizationProofs_LiftMulHomPullbackFst
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UniformizationProofs_NonemptyTorusExtensionSplitTorus
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open CategoryTheory CategoryTheory.Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Out
+open scoped CategoryTheory.Obj
+attribute [local instance] Over.cartesianMonoidalCategory
+open GlobalTheory GlobalTheory.MultiplicativeReduction
+open GlobalTheory.WeierstrassCurve
+namespace GlobalTheory.MultiplicativeReduction
+theorem _root_.solution (K : Type) [Field K] :
+    Nonempty (TorusExtension (splitTorus (Spec (CommRingCat.of K)) ℤ)) :=
+  ⟨Geo.Tor.torusExtOfIso (GlobalTheory.Diag.baseChangeIso (𝟙 (Spec (CommRingCat.of K))) ℤ)
+    (GlobalTheory.Diag.torusExtension _ ℤ (𝟙 _))⟩
+end GlobalTheory.MultiplicativeReduction

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_Smith_blockOne_mul_mul_blockOne
 -- name    : ReciprocityTheory.PGsh.Up.Smith.blockOne_mul_mul_blockOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:07:10.302804+00:00
 -- url     : https://prove2.me/theorems/e6a40390-ff90-4c60-98a6-f661d38c467c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorLaw_exists_pt
 -- name    : GlobalTheory.GeneratorLaw.exists_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:34:41.566803+00:00
 -- url     : https://prove2.me/theorems/eed6c546-cb45-4990-8c94-23fc0dfe07aa

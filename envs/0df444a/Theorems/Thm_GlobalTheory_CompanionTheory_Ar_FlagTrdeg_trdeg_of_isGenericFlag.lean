@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagTrdeg_trdeg_of_isGenericFlag
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagTrdeg.trdeg_of_isGenericFlag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:09.682413+00:00
 -- url     : https://prove2.me/theorems/900c43de-97d2-4709-85b1-1e13316b430d

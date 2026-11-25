@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r26a_commutator_casimir_term
 -- name    : UpperTheory.Reformulated.B.P6.r26a.commutator_casimir_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:35.131689+00:00
 -- url     : https://prove2.me/theorems/da21d7e3-087d-4e54-bafc-3406b462273f

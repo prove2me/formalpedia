@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_HermitianTensorPowers_shift_comm
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.HermitianTensorPowers.shift_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:09:23.725679+00:00
 -- url     : https://prove2.me/theorems/6306f87a-682a-4a49-82d6-d05470035587

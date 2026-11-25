@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_limNumDe_eq_of_tendsto
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.limNumDe_eq_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:00:09.876924+00:00
 -- url     : https://prove2.me/theorems/05893e23-4443-4bc7-be8e-8e2ad12b94a4

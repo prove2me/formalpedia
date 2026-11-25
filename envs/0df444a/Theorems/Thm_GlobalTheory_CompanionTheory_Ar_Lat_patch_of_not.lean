@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_patch_of_not
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.patch_of_not
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:59:55.630695+00:00
 -- url     : https://prove2.me/theorems/33ce9ee5-73af-4d4e-9252-f712830851e1

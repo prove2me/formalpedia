@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sdd_cutProjK_eq
 -- name    : ReciprocityTheory.MultiplicativeHeights.sdd_cutProjK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:27.343712+00:00
 -- url     : https://prove2.me/theorems/8160f16f-62d8-44da-8e4d-426ab6e1fab8

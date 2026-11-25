@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_matK_eq
 -- name    : GlobalTheory.LocalInv.matK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:19:58.764148+00:00
 -- url     : https://prove2.me/theorems/872e590b-d4b2-4ee1-affd-004b3a26a44f

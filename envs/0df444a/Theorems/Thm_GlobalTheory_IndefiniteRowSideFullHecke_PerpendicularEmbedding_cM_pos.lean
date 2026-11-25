@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PerpendicularEmbedding_cM_pos
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PerpendicularEmbedding.cM_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:14.443096+00:00
 -- url     : https://prove2.me/theorems/33bcbceb-5182-5321-8ef5-92b2ad213215

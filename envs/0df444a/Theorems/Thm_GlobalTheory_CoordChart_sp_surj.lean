@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordChart_sp_surj
 -- name    : GlobalTheory.CoordChart.sp_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:08:10.716376+00:00
 -- url     : https://prove2.me/theorems/fa0bdf73-f079-5935-95e8-bd871477a4bb

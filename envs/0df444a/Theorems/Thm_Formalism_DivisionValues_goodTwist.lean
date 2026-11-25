@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_goodTwist
 -- name    : Formalism.DivisionValues.goodTwist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:37:25.018605+00:00
 -- url     : https://prove2.me/theorems/28363c22-9c7d-4cd1-a772-7d3c0d2065c7

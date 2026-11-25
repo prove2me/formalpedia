@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_mul_mem_spanBox_of_gap
 -- name    : CompanionTheory.LimBd.Main.mul_mem_spanBox_of_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:18:44.740214+00:00
 -- url     : https://prove2.me/theorems/aaba4fbb-1893-5e09-8916-cca30f85cddb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_no_vacuum_both_sides
 -- name    : Arxiv1510_02920.no_vacuum_both_sides
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:11:51.731113+00:00
 -- url     : https://prove2.me/theorems/6061bce1-8f67-45c5-8a76-7c3321b57b7b

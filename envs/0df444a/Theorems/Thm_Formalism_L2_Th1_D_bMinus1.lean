@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_bMinus1
 -- name    : Formalism.L2.Th1.D.bMinus1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:49:46.741378+00:00
 -- url     : https://prove2.me/theorems/8cc405c3-3c33-4086-9e60-31fa61eaf753

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_colength_sq_mul_le
 -- name    : ReciprocityTheory.PGsh.Up.colength_sq_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:31.160953+00:00
 -- url     : https://prove2.me/theorems/3975ecfb-6586-444f-bfc9-c0209de25385

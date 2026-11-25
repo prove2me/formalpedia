@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_metaplectic_oneParameter_schwartz_intertwining
 -- name    : GlobalTheory.T.metaplectic_oneParameter_schwartz_intertwining
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:28.7479+00:00
 -- url     : https://prove2.me/theorems/fe4c7859-e10e-4fe4-b6ae-f3efe06e2b25

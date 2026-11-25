@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_inj_of_prod_eq
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.inj_of_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:04:13.531065+00:00
 -- url     : https://prove2.me/theorems/501904ad-ea9f-4d76-a30d-1466a8209b55

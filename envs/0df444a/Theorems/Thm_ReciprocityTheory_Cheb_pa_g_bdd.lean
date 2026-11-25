@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pa_g_bdd
 -- name    : ReciprocityTheory.Cheb.pa_g_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:28.352419+00:00
 -- url     : https://prove2.me/theorems/c189d1c3-1c33-42e4-881a-a01c9b04d48d

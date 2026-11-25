@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_qConj_torsion_points
 -- name    : GlobalTheory.T.qConj_torsion_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:37:34.616353+00:00
 -- url     : https://prove2.me/theorems/e9fbd2e0-6ed9-5e5c-96d8-24a26c71b0bf

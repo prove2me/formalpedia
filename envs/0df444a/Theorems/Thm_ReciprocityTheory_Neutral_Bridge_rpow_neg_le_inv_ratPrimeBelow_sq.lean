@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_rpow_neg_le_inv_ratPrimeBelow_sq
 -- name    : ReciprocityTheory.Neutral.Bridge.rpow_neg_le_inv_ratPrimeBelow_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:03.880681+00:00
 -- url     : https://prove2.me/theorems/1e96b7ba-85d0-476a-b61e-d05cc59a232f

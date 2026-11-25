@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_ofGroup_generator
 -- name    : Formalism.HC.Frame.ofGroup_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:36:56.895997+00:00
 -- url     : https://prove2.me/theorems/c6b4b31c-404a-5bc0-937b-e82dc6ce2eb9

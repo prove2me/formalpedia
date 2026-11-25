@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_ED_finrank_split
 -- name    : ReciprocityTheory.PGsh.Up.ED.finrank_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:15:51.749112+00:00
 -- url     : https://prove2.me/theorems/54fa4357-1310-4794-9174-3096e2fb6733

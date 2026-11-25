@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_isMarkStab_iff
 -- name    : GlobalTheory.DictPinCompare.isMarkStab_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:58.374793+00:00
 -- url     : https://prove2.me/theorems/48f8c1ff-c6f8-54f4-89d4-205e3bd170e5

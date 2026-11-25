@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_levi_decomp_of_block_det
 -- name    : GlobalTheory.T.levi_decomp_of_block_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:34:41.398233+00:00
 -- url     : https://prove2.me/theorems/915f1e94-7749-53ef-9e6b-4dc70e9bd42c

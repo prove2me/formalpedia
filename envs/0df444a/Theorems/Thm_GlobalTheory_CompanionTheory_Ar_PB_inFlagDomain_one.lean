@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_inFlagDomain_one
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.inFlagDomain_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:59:53.122822+00:00
 -- url     : https://prove2.me/theorems/a8068b83-9126-5bad-be2c-ccf90214e3ba

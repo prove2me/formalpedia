@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_unweightBack
 -- name    : ReciprocityTheory.L2DbarEstimates.F.unweightBack
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:57:26.281993+00:00
 -- url     : https://prove2.me/theorems/862e4e32-a73a-40d8-93e9-8add0d87927d

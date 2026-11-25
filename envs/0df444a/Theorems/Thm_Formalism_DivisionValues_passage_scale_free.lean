@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_passage_scale_free
 -- name    : Formalism.DivisionValues.passage_scale_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:26:55.275578+00:00
 -- url     : https://prove2.me/theorems/f9ef3762-4a56-4766-b3da-5b5a9b786954

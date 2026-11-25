@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isModel_of_unitary_charpoly_eq
 -- name    : GlobalTheory.T.exists_isModel_of_unitary_charpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:30:09.275683+00:00
 -- url     : https://prove2.me/theorems/1caa622a-a727-5a08-b77f-c485abb745de

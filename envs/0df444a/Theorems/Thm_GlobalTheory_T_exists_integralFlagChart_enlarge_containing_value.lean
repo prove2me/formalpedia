@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integralFlagChart_enlarge_containing_value
 -- name    : GlobalTheory.T.exists_integralFlagChart_enlarge_containing_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:45.371867+00:00
 -- url     : https://prove2.me/theorems/347e6a19-3ac5-5f86-90e0-669c0138063a

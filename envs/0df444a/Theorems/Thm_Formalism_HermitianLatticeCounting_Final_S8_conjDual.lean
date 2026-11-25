@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S8_conjDual
 -- name    : Formalism.HermitianLatticeCounting.Final.S8.conjDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:40.459688+00:00
 -- url     : https://prove2.me/theorems/e5e5007b-c22c-4bdf-9865-58fc6590e844

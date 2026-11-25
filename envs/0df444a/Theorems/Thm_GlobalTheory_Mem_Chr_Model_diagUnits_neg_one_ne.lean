@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_Model_diagUnits_neg_one_ne
 -- name    : GlobalTheory.Mem.Chr.Model.diagUnits_neg_one_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:23.506341+00:00
 -- url     : https://prove2.me/theorems/53e08d7c-1113-4543-bf79-cc1bc7e16350

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_typeFn_period_exist_moduli_nonempty
 -- name    : GlobalTheory.T.typeFn_period_exist_moduli_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:02:31.228024+00:00
 -- url     : https://prove2.me/theorems/bd08968b-6de1-4fb0-8678-23e2239cf654

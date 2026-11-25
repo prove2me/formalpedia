@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Bmu_CWLin_comb
 -- name    : CompanionTheory.Bmu.CWLin.comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:17:42.372803+00:00
 -- url     : https://prove2.me/theorems/1f2c2484-b675-440c-9f01-419704e3c972

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MatrixRowSpace_span_rows_mul_of_rank
 -- name    : GlobalTheory.CompanionTheory.MatrixRowSpace.span_rows_mul_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:23.783915+00:00
 -- url     : https://prove2.me/theorems/cdfa9039-c0f3-5cc0-99b3-7988db0d6077

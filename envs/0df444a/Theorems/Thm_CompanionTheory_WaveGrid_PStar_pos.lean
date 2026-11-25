@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_PStar_pos
 -- name    : CompanionTheory.WaveGrid.PStar_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:20:05.163041+00:00
 -- url     : https://prove2.me/theorems/a84df79a-02b2-4fe5-8077-330cb806aef0

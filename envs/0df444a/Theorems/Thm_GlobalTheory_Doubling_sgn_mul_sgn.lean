@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_sgn_mul_sgn
 -- name    : GlobalTheory.Doubling.sgn_mul_sgn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:05.397535+00:00
 -- url     : https://prove2.me/theorems/4c421ef4-779f-461c-b8ff-f67fa3e0be73

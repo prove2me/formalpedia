@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_eg_sufficient
 -- name    : DegreeSequences.eg_sufficient
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:06:13.967446+00:00
 -- url     : https://prove2.me/theorems/66ee3ce3-f2f7-51c0-a703-a19df5d969c5

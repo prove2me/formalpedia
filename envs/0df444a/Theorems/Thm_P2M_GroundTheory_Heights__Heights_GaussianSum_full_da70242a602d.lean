@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussianSum_full_da70242a602d
 -- name    : P2M_GroundTheory_Heights__Heights_GaussianSum_full_da70242a602d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:45:20.461632+00:00
 -- url     : https://prove2.me/theorems/73cd943d-5dab-4d71-8c1d-1149effb7262

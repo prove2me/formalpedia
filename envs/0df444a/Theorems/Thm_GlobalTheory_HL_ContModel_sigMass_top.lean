@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_sigMass_top
 -- name    : GlobalTheory.HL.ContModel.sigMass_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:07.970254+00:00
 -- url     : https://prove2.me/theorems/3dd4c978-0cee-538f-b84a-9c23e6c3af54

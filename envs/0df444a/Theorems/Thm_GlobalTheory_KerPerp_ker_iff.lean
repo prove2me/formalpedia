@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPerp_ker_iff
 -- name    : GlobalTheory.KerPerp.ker_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:17:15.016825+00:00
 -- url     : https://prove2.me/theorems/664f2204-aab0-59fd-9f33-b444caf4d399

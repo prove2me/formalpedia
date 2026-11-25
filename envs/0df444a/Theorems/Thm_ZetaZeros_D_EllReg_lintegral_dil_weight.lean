@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_lintegral_dil_weight
 -- name    : ZetaZeros.D.EllReg.lintegral_dil_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:39.817128+00:00
 -- url     : https://prove2.me/theorems/75016f2e-eae8-59b2-b044-e88f0bdf8ba8

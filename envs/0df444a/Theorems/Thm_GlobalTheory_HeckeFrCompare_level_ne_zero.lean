@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_level_ne_zero
 -- name    : GlobalTheory.HeckeFrCompare.level_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:59:33.171748+00:00
 -- url     : https://prove2.me/theorems/370b7c55-1da5-5015-bc50-984c5cedb52e

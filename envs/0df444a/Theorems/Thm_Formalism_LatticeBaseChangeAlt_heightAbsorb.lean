@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_heightAbsorb
 -- name    : Formalism.LatticeBaseChangeAlt.heightAbsorb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:49:40.264936+00:00
 -- url     : https://prove2.me/theorems/8db89f2d-e5c8-4eb0-b62d-3bc7a326a5c6

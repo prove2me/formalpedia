@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_idempotent_image_surjective
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.idempotent_image_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:59:08.648996+00:00
 -- url     : https://prove2.me/theorems/1593ae8d-776a-4475-a44a-70d0ea691930

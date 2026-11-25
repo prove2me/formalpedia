@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSmoothBlowupSeq_isIso_restrict
 -- name    : GlobalTheory.IsSmoothBlowupSeq.isIso_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:13:32.126086+00:00
 -- url     : https://prove2.me/theorems/4f083ae5-8236-5975-8d04-239e0751bbe6

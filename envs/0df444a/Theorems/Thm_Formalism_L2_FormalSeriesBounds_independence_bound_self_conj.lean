@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_independence_bound_self_conj
 -- name    : Formalism.L2.FormalSeriesBounds.independence_bound_self_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:13.301087+00:00
 -- url     : https://prove2.me/theorems/43ecdf3d-d87e-5916-a5a8-2b8a513c7cd1

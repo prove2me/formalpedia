@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_condLE_of_isUnram
 -- name    : GlobalTheory.SplitFlip.condLE_of_isUnram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:24:21.735567+00:00
 -- url     : https://prove2.me/theorems/63b470aa-02b3-4828-abac-6d73486598f4

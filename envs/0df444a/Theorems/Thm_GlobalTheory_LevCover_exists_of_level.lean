@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_exists_of_level
 -- name    : GlobalTheory.LevCover.exists_of_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:24:48.298984+00:00
 -- url     : https://prove2.me/theorems/3e247d88-69cd-5291-a507-ad12b68baf7e

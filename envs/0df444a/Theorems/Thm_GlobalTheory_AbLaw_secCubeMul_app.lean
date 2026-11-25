@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_secCubeMul_app
 -- name    : GlobalTheory.AbLaw.secCubeMul_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:38:56.934309+00:00
 -- url     : https://prove2.me/theorems/1f9a25e3-d00a-47be-aef6-fa45861bff50

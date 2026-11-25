@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ThetaGLLen_FullRank_isLevel_self
 -- name    : GlobalTheory.CompanionTheory.ThetaGLLen.FullRank.isLevel_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:02:13.646974+00:00
 -- url     : https://prove2.me/theorems/4de3f0e2-8fd6-412c-9ee1-aa361e96f480

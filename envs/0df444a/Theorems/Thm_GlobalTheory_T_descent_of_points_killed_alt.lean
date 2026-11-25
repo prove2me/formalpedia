@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_descent_of_points_killed_alt
 -- name    : GlobalTheory.T.descent_of_points_killed_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:27:54.29561+00:00
 -- url     : https://prove2.me/theorems/ca319226-8652-5a2b-a44e-b4e8cbe214a6

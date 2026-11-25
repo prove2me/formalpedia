@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TorusGraphMaps_PsiGenOn_mono
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TorusGraphMaps.PsiGenOn.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:44.327363+00:00
 -- url     : https://prove2.me/theorems/988648ab-f68b-47f5-8f2a-3a84dd7cad86

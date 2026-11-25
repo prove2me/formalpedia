@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_jet_subst_linS
 -- name    : Formalism.L2.FormalSeriesBounds.jet_subst_linS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:45:06.624005+00:00
 -- url     : https://prove2.me/theorems/68ac6232-83fe-5fa6-818c-796c5eb84528

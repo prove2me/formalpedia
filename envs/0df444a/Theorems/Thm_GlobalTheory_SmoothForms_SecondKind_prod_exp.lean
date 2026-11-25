@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_SecondKind_prod_exp
 -- name    : GlobalTheory.SmoothForms.SecondKind.prod_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:25:18.64288+00:00
 -- url     : https://prove2.me/theorems/2026ee57-aee2-5380-917a-349c6036850a

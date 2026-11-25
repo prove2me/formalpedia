@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_row_space_basis_exists
 -- name    : GlobalTheory.T.integral_row_space_basis_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:34:02.348795+00:00
 -- url     : https://prove2.me/theorems/11a2317b-780f-5624-8e3c-2556c35c0681

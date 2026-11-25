@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeymanPearsonClassification_stochastic_constraint_tightening
 -- name    : NeymanPearsonClassification.stochastic_constraint_tightening
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:43:53.685185+00:00
 -- url     : https://prove2.me/theorems/7481535a-5a03-40aa-845c-56c93262d180

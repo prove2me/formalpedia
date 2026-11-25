@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_BridgeLemVC_iota_apply
 -- name    : Formalism.MainNotions.BridgeLemVC.iota_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:09:09.573447+00:00
 -- url     : https://prove2.me/theorems/1b049407-6aa1-5383-9e9a-b72e30d60b09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatFun_spMap_id
 -- name    : GlobalTheory.NatFun.spMap_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:20:49.850701+00:00
 -- url     : https://prove2.me/theorems/021dd9f3-a337-46b2-bdb7-47ae941ea1ae

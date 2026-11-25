@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_gfpVec_tmap
 -- name    : Formalism.L2.Pj.gfpVec_tmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:03:00.751808+00:00
 -- url     : https://prove2.me/theorems/7e2a4f39-fa4a-4bc1-afd6-7fe86544372b

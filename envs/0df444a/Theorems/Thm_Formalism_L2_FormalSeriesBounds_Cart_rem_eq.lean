@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Cart_rem_eq
 -- name    : Formalism.L2.FormalSeriesBounds.Cart.rem_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:43:53.614941+00:00
 -- url     : https://prove2.me/theorems/f8e7f55f-0083-574d-84dc-433e97b3ff31

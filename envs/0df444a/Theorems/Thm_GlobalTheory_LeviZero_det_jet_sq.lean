@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviZero_det_jet_sq
 -- name    : GlobalTheory.LeviZero.det_jet_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:48:23.672518+00:00
 -- url     : https://prove2.me/theorems/f55586a8-bfe1-599d-b6d2-4d94f291f15a

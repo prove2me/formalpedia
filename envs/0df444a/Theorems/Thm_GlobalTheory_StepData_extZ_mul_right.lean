@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_extZ_mul_right
 -- name    : GlobalTheory.StepData.extZ_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:24:51.458817+00:00
 -- url     : https://prove2.me/theorems/44db54dc-4a46-58e7-9e1a-f3160dc0b25b

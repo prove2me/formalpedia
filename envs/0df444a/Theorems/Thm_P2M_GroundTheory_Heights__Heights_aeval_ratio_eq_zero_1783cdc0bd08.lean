@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_aeval_ratio_eq_zero_1783cdc0bd08
 -- name    : P2M_GroundTheory_Heights__Heights_aeval_ratio_eq_zero_1783cdc0bd08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:44:16.736061+00:00
 -- url     : https://prove2.me/theorems/dc6a34bc-3e0a-4ddb-9f63-898199de6c0d

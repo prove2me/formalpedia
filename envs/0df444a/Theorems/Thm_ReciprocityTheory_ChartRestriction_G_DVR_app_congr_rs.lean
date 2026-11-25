@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_app_congr_rs
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.app_congr_rs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:46:37.8448+00:00
 -- url     : https://prove2.me/theorems/646e9f1d-8ba2-4134-a182-422c62e2e124

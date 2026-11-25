@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOnR_chart_apply
 -- name    : GlobalTheory.AbLaw.SecOnR.chart_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:46:58.712812+00:00
 -- url     : https://prove2.me/theorems/af085deb-a127-5124-a2b6-4b69fcd5de2f

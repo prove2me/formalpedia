@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_HarmMin_sum_log_eq_zero
 -- name    : GlobalTheory.ClassFin.HarmMin.sum_log_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:59:28.325428+00:00
 -- url     : https://prove2.me/theorems/dee48410-5357-4404-888d-b017df2744b6

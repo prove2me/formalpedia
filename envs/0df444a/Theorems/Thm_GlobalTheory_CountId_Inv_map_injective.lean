@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_Inv_map_injective
 -- name    : GlobalTheory.CountId.Inv_map_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:32.770342+00:00
 -- url     : https://prove2.me/theorems/b4b731aa-6004-5302-93ee-d9b04e0cf189

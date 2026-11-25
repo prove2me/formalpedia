@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_card_killSub_le
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.card_killSub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:03:47.587497+00:00
 -- url     : https://prove2.me/theorems/8ee7ac54-ddc6-48f0-9f85-4018b6e85f06

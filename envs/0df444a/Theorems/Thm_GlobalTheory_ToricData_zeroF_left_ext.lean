@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_zeroF_left_ext
 -- name    : GlobalTheory.ToricData.zeroF_left_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:40:22.22+00:00
 -- url     : https://prove2.me/theorems/ac9d51b3-6384-4dd5-a6f7-d2453a83f0ca

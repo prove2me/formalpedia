@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_changeLatticeGoodRank
 -- name    : Formalism.CountingSumsFrames.Top.changeLatticeGoodRank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:23:01.252949+00:00
 -- url     : https://prove2.me/theorems/904bca76-339a-4455-a9c9-c8718ae1f5f4

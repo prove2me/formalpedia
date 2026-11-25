@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegerMultipleMembership_exists_int_smul_mem
 -- name    : GlobalTheory.IntegerMultipleMembership.exists_int_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:10:59.157043+00:00
 -- url     : https://prove2.me/theorems/61cff6f7-7f70-4529-8cc9-599913cb760c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_twoForm_eq_wsum
 -- name    : GlobalTheory.AbCoh.twoForm_eq_wsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:50:51.141373+00:00
 -- url     : https://prove2.me/theorems/a0c33845-d04c-4870-a080-fc55cb83c310

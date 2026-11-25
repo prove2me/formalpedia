@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chain_RealIt_not_locallyFinite_mulLeft_add
 -- name    : GlobalTheory.Chain.RealIt.not_locallyFinite_mulLeft_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:18.32134+00:00
 -- url     : https://prove2.me/theorems/70f2513d-f49e-49b0-9079-e4bf725ddc22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomExt_isIso_of_densePart
 -- name    : GlobalTheory.HomExt.isIso_of_densePart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:08:41.928795+00:00
 -- url     : https://prove2.me/theorems/b73ccf8d-ffdd-41d2-932a-5ff33496bce4

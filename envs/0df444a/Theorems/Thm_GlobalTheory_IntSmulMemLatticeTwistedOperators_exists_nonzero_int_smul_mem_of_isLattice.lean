@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSmulMemLatticeTwistedOperators_exists_nonzero_int_smul_mem_of_isLattice
 -- name    : GlobalTheory.IntSmulMemLatticeTwistedOperators.exists_nonzero_int_smul_mem_of_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:10:57.998389+00:00
 -- url     : https://prove2.me/theorems/15237204-fedf-49ef-bdad-5a0290653c14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SmoothCenterBlowup_exceptionalIdeal_eq
 -- name    : FunctorialResolution.EmbeddedResolution.SmoothCenterBlowup.exceptionalIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:52:45.795733+00:00
 -- url     : https://prove2.me/theorems/0572b07e-118e-42ba-8b21-13f91a9e6ede

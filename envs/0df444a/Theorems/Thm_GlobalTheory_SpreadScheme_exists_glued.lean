@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpreadScheme_exists_glued
 -- name    : GlobalTheory.SpreadScheme.exists_glued
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:04:16.501994+00:00
 -- url     : https://prove2.me/theorems/c90a2539-e549-418a-9e34-0499414f543b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Fil_zero
 -- name    : GlobalTheory.BK.Fil_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:39.875804+00:00
 -- url     : https://prove2.me/theorems/e4a4d8aa-1d94-4b5c-afda-c2c3bc5a063b

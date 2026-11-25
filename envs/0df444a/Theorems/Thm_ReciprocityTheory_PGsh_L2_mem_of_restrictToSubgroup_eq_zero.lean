@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_mem_of_restrictToSubgroup_eq_zero
 -- name    : ReciprocityTheory.PGsh.L2.mem_of_restrictToSubgroup_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:32:59.969035+00:00
 -- url     : https://prove2.me/theorems/5e054ba4-8aba-4870-a2a4-db46c88f29d8

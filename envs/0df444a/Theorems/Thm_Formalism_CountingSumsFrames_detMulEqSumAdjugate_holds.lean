@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_detMulEqSumAdjugate_holds
 -- name    : Formalism.CountingSumsFrames.detMulEqSumAdjugate_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:23:02.819977+00:00
 -- url     : https://prove2.me/theorems/77eaed64-e90f-4b18-9120-a939f154e935

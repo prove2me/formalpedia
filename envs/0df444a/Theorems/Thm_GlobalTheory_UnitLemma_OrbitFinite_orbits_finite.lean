@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_OrbitFinite_orbits_finite
 -- name    : GlobalTheory.UnitLemma.OrbitFinite.orbits_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:41:28.382593+00:00
 -- url     : https://prove2.me/theorems/b01ba350-8ab7-435e-8648-bba177493269

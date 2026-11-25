@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_exists_pt
 -- name    : GlobalTheory.NL.Model.exists_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:15:13.508138+00:00
 -- url     : https://prove2.me/theorems/dd4d0340-f70a-4d9e-a59f-e8383637f17f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_grpObj_weierstrass
 -- name    : GlobalTheory.exists_grpObj_weierstrass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:10:03.870486+00:00
 -- url     : https://prove2.me/theorems/b04d25b9-3807-5935-900c-03670c46ce99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_snc_resolution_regular_local_ring
 -- name    : GlobalTheory.T.snc_resolution_regular_local_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:30.541189+00:00
 -- url     : https://prove2.me/theorems/b3f59155-27ff-4150-bf5a-8e2c6ea0d19e

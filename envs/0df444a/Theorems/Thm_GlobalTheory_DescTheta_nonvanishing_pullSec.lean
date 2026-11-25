@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescTheta_nonvanishing_pullSec
 -- name    : GlobalTheory.DescTheta.nonvanishing_pullSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:27:42.813364+00:00
 -- url     : https://prove2.me/theorems/982068a9-faaf-4cd1-b783-fd743958c368

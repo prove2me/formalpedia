@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SL_Final_frameGram
 -- name    : Formalism.SL.Final.frameGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:42.195561+00:00
 -- url     : https://prove2.me/theorems/c529b2a3-cdb1-4d57-ac12-f0027346453c

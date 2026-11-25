@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreAcyclic_exists_localRing
 -- name    : GlobalTheory.FibreAcyclic.exists_localRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:03.96656+00:00
 -- url     : https://prove2.me/theorems/1c63b448-35cf-5f3f-b15b-6bf52e02b1ab

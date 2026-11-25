@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cartier_SecMaps_isRegularSec
 -- name    : GlobalTheory.Cartier.SecMaps.isRegularSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:34.783612+00:00
 -- url     : https://prove2.me/theorems/b6656861-e1df-45dd-8698-1a48a78874df

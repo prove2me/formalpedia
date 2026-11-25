@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_power_bounded_integral
 -- name    : power_bounded_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:15:27.63626+00:00
 -- url     : https://prove2.me/theorems/53bc075e-4422-54ee-b951-da2f67fb5d97

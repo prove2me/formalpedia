@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_mem_pullLoc_of_ctr
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.mem_pullLoc_of_ctr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:59:06.822445+00:00
 -- url     : https://prove2.me/theorems/71475536-8269-5eba-92ae-94f059299f32

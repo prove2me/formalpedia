@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pow_mul_mem_range_of_local_denominators
 -- name    : GlobalTheory.exists_pow_mul_mem_range_of_local_denominators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:55:35.560957+00:00
 -- url     : https://prove2.me/theorems/69771be8-7806-49e9-86d8-a412332ef377

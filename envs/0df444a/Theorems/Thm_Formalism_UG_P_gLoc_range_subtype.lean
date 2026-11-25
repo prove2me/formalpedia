@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_gLoc_range_subtype
 -- name    : Formalism.UG.P.gLoc_range_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:54:00.767749+00:00
 -- url     : https://prove2.me/theorems/ed4aaf07-4ded-5867-abca-8f63cc3dabd5

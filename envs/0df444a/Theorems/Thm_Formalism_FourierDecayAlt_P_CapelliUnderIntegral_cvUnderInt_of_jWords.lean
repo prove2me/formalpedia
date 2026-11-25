@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliUnderIntegral_cvUnderInt_of_jWords
 -- name    : Formalism.FourierDecayAlt.P.CapelliUnderIntegral.cvUnderInt_of_jWords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:36:16.607277+00:00
 -- url     : https://prove2.me/theorems/4e0ce0f8-075d-5a31-adff-1e4e0b1f3653

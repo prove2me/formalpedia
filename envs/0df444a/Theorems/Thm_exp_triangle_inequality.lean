@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exp_triangle_inequality
 -- name    : exp_triangle_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:14:29.966039+00:00
 -- url     : https://prove2.me/theorems/32d8b9a3-6f9d-4b47-b818-29659db8be8f

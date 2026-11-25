@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_ClsKer_resOf_opOf
 -- name    : Formalism.L2.Col.ClsKer.resOf_opOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:49:10.394704+00:00
 -- url     : https://prove2.me/theorems/a03b0ae6-8145-5830-988c-2067476d9623

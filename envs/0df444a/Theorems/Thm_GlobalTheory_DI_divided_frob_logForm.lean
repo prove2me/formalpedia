@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_divided_frob_logForm
 -- name    : GlobalTheory.DI.divided_frob_logForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:22.981168+00:00
 -- url     : https://prove2.me/theorems/e1b0a7cf-c2a2-52dd-ae12-04116bc3944f

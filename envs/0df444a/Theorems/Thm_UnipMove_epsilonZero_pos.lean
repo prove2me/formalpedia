@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_epsilonZero_pos
 -- name    : UnipMove.epsilonZero_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:11:48.596533+00:00
 -- url     : https://prove2.me/theorems/cfde9e84-2e4c-407e-ba1a-a1f1147f3719

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Capelli_casimir_mixedOp
 -- name    : GlobalTheory.Capelli.casimir_mixedOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:23.656402+00:00
 -- url     : https://prove2.me/theorems/fca2bce1-49a7-4d4d-b9eb-f11ca3835e52

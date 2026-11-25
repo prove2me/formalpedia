@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_detQuotVal
 -- name    : Formalism.G0.Top.detQuotVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:36:52.740983+00:00
 -- url     : https://prove2.me/theorems/a97d2c99-124a-51dc-882c-0cc268566810

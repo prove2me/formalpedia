@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_approxB_card_neg
 -- name    : ReciprocityTheory.MultiplicativeHeights.approxB_card_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:03:21.291616+00:00
 -- url     : https://prove2.me/theorems/fe9b80fd-6016-4f1c-9fe0-093b0c6acb29

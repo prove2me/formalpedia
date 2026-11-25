@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_BasicIneq_basic_inequality
 -- name    : GlobalTheory.HL.BasicIneq.basic_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:35.328211+00:00
 -- url     : https://prove2.me/theorems/ea5cdc6d-3e70-4444-8af7-a2129a007727

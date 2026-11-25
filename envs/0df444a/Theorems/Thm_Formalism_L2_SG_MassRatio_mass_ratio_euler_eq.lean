@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_MassRatio_mass_ratio_euler_eq
 -- name    : Formalism.L2.SG.MassRatio.mass_ratio_euler_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:36:59.224202+00:00
 -- url     : https://prove2.me/theorems/05d78bdf-5754-4b50-ab5c-61a4f19d2c96

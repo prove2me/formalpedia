@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_exists_chiP_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.exists_chiP_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:53:26.7871+00:00
 -- url     : https://prove2.me/theorems/b95d17d1-d222-4dcd-9f9e-557b941a6cce

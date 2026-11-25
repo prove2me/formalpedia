@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_fischer_rowSubst
 -- name    : ReciprocityTheory.PGsh.fischer_rowSubst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:11.760005+00:00
 -- url     : https://prove2.me/theorems/ffaaa257-49e2-4549-9975-0fb0771c60b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gamma_numeric_bound
 -- name    : Formalism.FourierDecayAlt.P.gamma_numeric_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:31:07.32626+00:00
 -- url     : https://prove2.me/theorems/69726c32-2e24-45c8-9263-b2474242aa71

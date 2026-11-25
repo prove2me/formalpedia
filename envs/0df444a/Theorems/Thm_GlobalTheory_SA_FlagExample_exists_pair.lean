@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_FlagExample_exists_pair
 -- name    : GlobalTheory.SA.FlagExample.exists_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:23:19.218899+00:00
 -- url     : https://prove2.me/theorems/a2dee30a-c5de-46fc-a0fd-70624a3e4ecf

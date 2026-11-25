@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_eval_aeval_alt
 -- name    : ReciprocityTheory.MultiplicativeHeights.eval_aeval_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:09.46189+00:00
 -- url     : https://prove2.me/theorems/778f0d14-6023-40e3-a907-977fab3d09e7

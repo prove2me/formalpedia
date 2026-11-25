@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_FamInh_res_mem_stabilizer
 -- name    : CompanionTheory.FamInh.res_mem_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:17:29.506189+00:00
 -- url     : https://prove2.me/theorems/88a5f457-78b5-59ec-99cb-7292aa985316

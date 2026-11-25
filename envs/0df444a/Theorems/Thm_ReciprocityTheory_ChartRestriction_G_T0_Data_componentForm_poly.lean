@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_componentForm_poly
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.componentForm_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:05:04.212972+00:00
 -- url     : https://prove2.me/theorems/00f15993-dd0b-442f-a987-5ab3401398a8

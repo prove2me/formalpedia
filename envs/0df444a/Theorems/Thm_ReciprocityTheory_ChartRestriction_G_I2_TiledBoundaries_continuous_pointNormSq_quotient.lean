@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_continuous_pointNormSq_quotient
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.continuous_pointNormSq_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:55:15.711598+00:00
 -- url     : https://prove2.me/theorems/43462802-cc92-4dff-880f-4ffd861ef0a7

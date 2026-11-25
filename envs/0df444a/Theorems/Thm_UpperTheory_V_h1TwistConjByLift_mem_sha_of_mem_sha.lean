@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_h1TwistConjByLift_mem_sha_of_mem_sha
 -- name    : UpperTheory.V.h1TwistConjByLift_mem_sha_of_mem_sha
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:57.950846+00:00
 -- url     : https://prove2.me/theorems/1ec99bbc-847c-45fd-bff8-f2aa79970c48

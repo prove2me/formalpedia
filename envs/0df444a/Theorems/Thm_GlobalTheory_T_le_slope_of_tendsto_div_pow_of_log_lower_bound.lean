@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_le_slope_of_tendsto_div_pow_of_log_lower_bound
 -- name    : GlobalTheory.T.le_slope_of_tendsto_div_pow_of_log_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:28.66152+00:00
 -- url     : https://prove2.me/theorems/936a08a7-1fd5-4004-832f-dd931837c132

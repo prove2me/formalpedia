@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_card_cls
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.card_cls
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:40:53.764749+00:00
 -- url     : https://prove2.me/theorems/1513ccbd-2118-441a-96f4-ebb519314fd3

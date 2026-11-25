@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SiegelFamilyZetaUnit_mem_intRing
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SiegelFamilyZetaUnit.mem_intRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:20.40828+00:00
 -- url     : https://prove2.me/theorems/dccae57b-0fe1-48ac-9c78-e15faed821bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeMorganApprox_Main_claim_4_1_2
 -- name    : DeMorganApprox.Main.claim_4_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:00:56.695737+00:00
 -- url     : https://prove2.me/theorems/83bd0f53-68b8-44e8-b134-1924ee35c1dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubTrivTorus_exists_unit_delta
 -- name    : GlobalTheory.CubTrivTorus.exists_unit_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:58:55.361105+00:00
 -- url     : https://prove2.me/theorems/ed7c1af3-53a1-4736-be17-e432e615fe2f

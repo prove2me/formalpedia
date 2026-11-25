@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_padicAlgCl_norm_sub_le_max
 -- name    : ReciprocityTheory.Neutral.Cmp.padicAlgCl_norm_sub_le_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:32.960709+00:00
 -- url     : https://prove2.me/theorems/ac19009b-3c2b-45f7-aee9-04877fb36a0f

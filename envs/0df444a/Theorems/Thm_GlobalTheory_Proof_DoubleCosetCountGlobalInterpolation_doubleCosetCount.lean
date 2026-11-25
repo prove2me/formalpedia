@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_DoubleCosetCountGlobalInterpolation_doubleCosetCount
 -- name    : GlobalTheory.Proof.DoubleCosetCountGlobalInterpolation.doubleCosetCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:16:02.64503+00:00
 -- url     : https://prove2.me/theorems/94b21813-e845-4f5a-aada-b917f7d2e177

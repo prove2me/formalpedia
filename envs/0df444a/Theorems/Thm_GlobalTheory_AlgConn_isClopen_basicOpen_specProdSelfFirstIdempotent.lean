@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgConn_isClopen_basicOpen_specProdSelfFirstIdempotent
 -- name    : GlobalTheory.AlgConn.isClopen_basicOpen_specProdSelfFirstIdempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:55:41.210363+00:00
 -- url     : https://prove2.me/theorems/0422cee1-2ece-45ff-b0bf-4eea4d4bee86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSpecialise_move_indep
 -- name    : GlobalTheory.ThetaSpecialise.move_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:05:09.71081+00:00
 -- url     : https://prove2.me/theorems/01661521-4c96-4b54-9952-16ea75368945

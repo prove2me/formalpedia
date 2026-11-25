@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_CrystallineCyclotomic_isCrys_cyc
 -- name    : GlobalTheory.Survey.CrystallineCyclotomic.isCrys_cyc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:24:47.242798+00:00
 -- url     : https://prove2.me/theorems/e039a0c4-1ccc-4cb8-bc13-9e37662bdc15

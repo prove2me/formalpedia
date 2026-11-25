@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r26a_PositivityTheory_D_LK_casK_comm
 -- name    : UpperTheory.Reformulated.B.P6.r26a.PositivityTheory.D.LK.casK_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:57:20.897995+00:00
 -- url     : https://prove2.me/theorems/3998eb50-7280-4088-a5bb-7b69ab65771e

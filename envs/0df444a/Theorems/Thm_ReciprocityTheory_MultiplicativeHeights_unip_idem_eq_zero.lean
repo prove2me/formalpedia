@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_unip_idem_eq_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.unip_idem_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:12.889476+00:00
 -- url     : https://prove2.me/theorems/7dc10470-6333-45b1-8845-4b715ad37125

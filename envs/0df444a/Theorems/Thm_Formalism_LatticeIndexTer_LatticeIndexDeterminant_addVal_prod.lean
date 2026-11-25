@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_LatticeIndexDeterminant_addVal_prod
 -- name    : Formalism.LatticeIndexTer.LatticeIndexDeterminant.addVal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:33.122001+00:00
 -- url     : https://prove2.me/theorems/4fdb70f6-9025-45ef-abff-ff596377cb95

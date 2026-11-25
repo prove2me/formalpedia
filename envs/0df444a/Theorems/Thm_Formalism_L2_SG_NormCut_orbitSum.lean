@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NormCut_orbitSum
 -- name    : Formalism.L2.SG.NormCut.orbitSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:47:13.018528+00:00
 -- url     : https://prove2.me/theorems/e0a250aa-6fa0-4895-87ca-3c65a62184b7

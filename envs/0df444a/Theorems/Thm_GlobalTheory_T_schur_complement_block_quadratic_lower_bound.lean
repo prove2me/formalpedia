@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schur_complement_block_quadratic_lower_bound
 -- name    : GlobalTheory.T.schur_complement_block_quadratic_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:46.455453+00:00
 -- url     : https://prove2.me/theorems/da7cb0f5-7faa-4c70-98ae-62bfcc8b7ce8

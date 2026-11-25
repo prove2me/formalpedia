@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_IsTeich_ne_zero
 -- name    : ReciprocityTheory.PGsh.Up.U3.IsTeich.ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:53.845741+00:00
 -- url     : https://prove2.me/theorems/787f6659-7cfe-465a-b657-b44844df4391

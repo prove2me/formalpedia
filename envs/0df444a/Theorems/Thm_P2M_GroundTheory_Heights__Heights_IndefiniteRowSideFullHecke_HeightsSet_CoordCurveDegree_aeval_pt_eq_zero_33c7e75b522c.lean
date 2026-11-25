@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_aeval_pt_eq_zero_33c7e75b522c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_aeval_pt_eq_zero_33c7e75b522c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:48:50.23959+00:00
 -- url     : https://prove2.me/theorems/7ed60f92-2ddd-5096-9462-a70f487c4007

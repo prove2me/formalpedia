@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_latticeSummable_statement
 -- name    : Formalism.FourierDecayAlt.P.latticeSummable_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:48.147127+00:00
 -- url     : https://prove2.me/theorems/aed350cd-90df-4d9c-b8bd-70554e50633d

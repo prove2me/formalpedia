@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_chiAt_two
 -- name    : GlobalTheory.MaxCusp.chiAt_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:34:43.915342+00:00
 -- url     : https://prove2.me/theorems/ad0cf0eb-6ff8-4b02-8e26-7eaf30796cc2

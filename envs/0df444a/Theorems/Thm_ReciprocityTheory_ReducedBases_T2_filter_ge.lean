@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_filter_ge
 -- name    : ReciprocityTheory.ReducedBases.T2.filter_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:10:36.114222+00:00
 -- url     : https://prove2.me/theorems/4ae60d26-2e5d-4416-b236-cc8ce7a0f556

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_typedArithmetic_statement
 -- name    : Formalism.FourierDecayAlt.P.typedArithmetic_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:27.9575+00:00
 -- url     : https://prove2.me/theorems/b7f60c1d-9bcc-418f-a1ee-fa2b34945c68

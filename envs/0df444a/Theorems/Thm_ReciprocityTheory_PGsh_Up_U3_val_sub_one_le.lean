@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_val_sub_one_le
 -- name    : ReciprocityTheory.PGsh.Up.U3.val_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:17.649391+00:00
 -- url     : https://prove2.me/theorems/c0c45bdd-d89c-483b-a0d3-3f67f7ed346a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_E_tstar_norm_sq
 -- name    : ReciprocityTheory.L2DbarEstimates.E.tstar_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:56:35.558605+00:00
 -- url     : https://prove2.me/theorems/fa73fcc5-596f-4b9f-a85a-ed3a377155f0

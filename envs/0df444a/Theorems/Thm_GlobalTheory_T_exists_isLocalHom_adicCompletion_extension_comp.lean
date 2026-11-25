@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isLocalHom_adicCompletion_extension_comp
 -- name    : GlobalTheory.T.exists_isLocalHom_adicCompletion_extension_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:30:07.238713+00:00
 -- url     : https://prove2.me/theorems/954f865b-7132-465d-8b91-6c57497c8f7a

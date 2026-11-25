@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_rest_near_holds
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.rest_near_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:36:25.545811+00:00
 -- url     : https://prove2.me/theorems/0829fd1e-df17-4ebf-844f-a8a8e4b30de7

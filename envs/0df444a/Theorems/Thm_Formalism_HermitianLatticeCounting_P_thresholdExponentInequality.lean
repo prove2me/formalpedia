@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_thresholdExponentInequality
 -- name    : Formalism.HermitianLatticeCounting.P.thresholdExponentInequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:40.369114+00:00
 -- url     : https://prove2.me/theorems/0169f976-2a89-4665-8004-e35f0e0cd4e9

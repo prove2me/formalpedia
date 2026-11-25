@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DegAdd_range_fin_append
 -- name    : ReciprocityTheory.MultiplicativeHeights.DegAdd.range_fin_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:01:42.617139+00:00
 -- url     : https://prove2.me/theorems/26fd82bc-b4e0-4f65-8d83-5c697cdb9fa8

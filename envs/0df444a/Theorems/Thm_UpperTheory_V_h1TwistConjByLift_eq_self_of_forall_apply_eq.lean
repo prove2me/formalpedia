@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_h1TwistConjByLift_eq_self_of_forall_apply_eq
 -- name    : UpperTheory.V.h1TwistConjByLift_eq_self_of_forall_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:42.862898+00:00
 -- url     : https://prove2.me/theorems/39a1f577-94cb-44cc-9762-3fe66d8f6821

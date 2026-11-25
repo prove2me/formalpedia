@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExplicitEstimates_lemma_c_explicit_bounds
 -- name    : Formalism.HermitianLattices.ExplicitEstimates.lemma_c_explicit_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:40:18.424006+00:00
 -- url     : https://prove2.me/theorems/35a73aef-284d-5c58-b13f-4f1da0b4ff9b

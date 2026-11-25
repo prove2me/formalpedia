@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplitAll_Approx_strong_approx
 -- name    : GlobalTheory.HeckeSplitAll.Approx.strong_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:35.92681+00:00
 -- url     : https://prove2.me/theorems/0d8b647e-0daf-4159-a077-f3aebedbf2b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_of_mem_siegelH
 -- name    : GlobalTheory.IsSiegel.of_mem_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:11:09.027798+00:00
 -- url     : https://prove2.me/theorems/b0517dbc-c81e-5acc-896d-71ce45f5d7f9

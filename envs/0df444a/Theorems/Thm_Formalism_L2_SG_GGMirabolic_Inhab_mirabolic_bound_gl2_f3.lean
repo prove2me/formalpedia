@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_Inhab_mirabolic_bound_gl2_f3
 -- name    : Formalism.L2.SG.GGMirabolic.Inhab.mirabolic_bound_gl2_f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:47:36.723982+00:00
 -- url     : https://prove2.me/theorems/9dc12465-516e-5c6f-98e6-1e2b612f985f

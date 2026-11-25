@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_fractionField
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.fractionField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:16:25.313214+00:00
 -- url     : https://prove2.me/theorems/852492fb-be2a-4cac-bf4a-a07f0376dcd0

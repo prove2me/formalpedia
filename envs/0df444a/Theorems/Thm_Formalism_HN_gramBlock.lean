@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_gramBlock
 -- name    : Formalism.HN.gramBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:45:50.133514+00:00
 -- url     : https://prove2.me/theorems/30a057f3-eaff-4d2f-bbbb-f325d96d8675

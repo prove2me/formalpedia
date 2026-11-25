@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_multiplicity_at_place
 -- name    : Formalism.BranchingDeterminantCap.multiplicity_at_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:19:57.71047+00:00
 -- url     : https://prove2.me/theorems/097a49bc-524d-5417-a766-c33dbb81f7fb

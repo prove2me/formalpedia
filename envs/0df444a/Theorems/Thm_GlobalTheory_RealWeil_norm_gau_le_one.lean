@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_norm_gau_le_one
 -- name    : GlobalTheory.RealWeil.norm_gau_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:04.303137+00:00
 -- url     : https://prove2.me/theorems/e313b5fb-86a5-5d45-b97a-576045f638b7

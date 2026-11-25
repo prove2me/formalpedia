@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_top_energy
 -- name    : Formalism.FourierDecayAlt.P.top_energy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:10.456996+00:00
 -- url     : https://prove2.me/theorems/3dfebfd2-b9d3-4b2c-b934-e10ea87aee49

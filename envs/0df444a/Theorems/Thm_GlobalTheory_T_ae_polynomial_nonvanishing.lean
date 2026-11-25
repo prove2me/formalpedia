@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ae_polynomial_nonvanishing
 -- name    : GlobalTheory.T.ae_polynomial_nonvanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:10.709921+00:00
 -- url     : https://prove2.me/theorems/dbeb2f12-187c-5f4d-95e2-2f5eb9b1f773

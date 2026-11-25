@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_archFactor_mul_pSeries_eq_integral_alt
 -- name    : GlobalTheory.T.archFactor_mul_pSeries_eq_integral_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:27:16.138572+00:00
 -- url     : https://prove2.me/theorems/7fb4e6b2-0b78-4ba2-8e03-d35a14057e40

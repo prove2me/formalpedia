@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ringKrullDim_quotient_add_one_of_mem_minimalPrimes_sup
 -- name    : GlobalTheory.ringKrullDim_quotient_add_one_of_mem_minimalPrimes_sup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:15:17.526655+00:00
 -- url     : https://prove2.me/theorems/4f7f9761-7317-4e33-8a97-ec6756762a33

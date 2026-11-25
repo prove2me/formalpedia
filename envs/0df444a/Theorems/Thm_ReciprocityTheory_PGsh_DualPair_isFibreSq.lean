@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_DualPair_isFibreSq
 -- name    : ReciprocityTheory.PGsh.DualPair.isFibreSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:05:49.872871+00:00
 -- url     : https://prove2.me/theorems/e881e999-09f5-42b7-a1f5-bb0d4185b78e

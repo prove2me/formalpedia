@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_lim
 -- name    : ReciprocityTheory.PGsh.lim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:09:04.832349+00:00
 -- url     : https://prove2.me/theorems/ff59ffe5-8874-5b8c-9031-7747fd81bd0b

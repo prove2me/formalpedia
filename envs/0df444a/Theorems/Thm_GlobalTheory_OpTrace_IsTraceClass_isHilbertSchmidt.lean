@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_IsTraceClass_isHilbertSchmidt
 -- name    : GlobalTheory.OpTrace.IsTraceClass.isHilbertSchmidt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:56.336003+00:00
 -- url     : https://prove2.me/theorems/425ceae6-525f-4616-883d-d008cd3a1981

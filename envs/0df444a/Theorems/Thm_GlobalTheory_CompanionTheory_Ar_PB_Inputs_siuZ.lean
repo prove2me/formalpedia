@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_siuZ
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.siuZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:59:40.802246+00:00
 -- url     : https://prove2.me/theorems/45d8eff3-c1e7-49cc-a6ba-3b8ce15c1932

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManyServerQED_Scheduling_pscp_condition_49
 -- name    : ManyServerQED.Scheduling.pscp_condition_49
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-11-07T05:00:32.953644+00:00
 -- url     : https://prove2.me/theorems/d547d0c1-df37-431a-a6a3-0e4dbc615eb8

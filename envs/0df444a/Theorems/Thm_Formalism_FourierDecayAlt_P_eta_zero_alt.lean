@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_eta_zero_alt
 -- name    : Formalism.FourierDecayAlt.P.eta_zero_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:31:42.248724+00:00
 -- url     : https://prove2.me/theorems/8f34e9ba-b9b0-4f48-a923-00e18acf511f

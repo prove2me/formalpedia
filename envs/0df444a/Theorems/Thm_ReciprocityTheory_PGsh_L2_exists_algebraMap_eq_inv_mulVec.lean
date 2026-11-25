@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_exists_algebraMap_eq_inv_mulVec
 -- name    : ReciprocityTheory.PGsh.L2.exists_algebraMap_eq_inv_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:05:30.561178+00:00
 -- url     : https://prove2.me/theorems/706649e2-7078-4d68-b7b1-bb10e8ffdc71

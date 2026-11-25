@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_chk_discFactor
 -- name    : chk_discFactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:14:41.557433+00:00
 -- url     : https://prove2.me/theorems/02ff3c55-81a1-49e1-ac18-e64e4c55177d

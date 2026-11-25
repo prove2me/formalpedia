@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_qPow_add
 -- name    : GlobalTheory.WeilDeligne.qPow_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:09:57.939022+00:00
 -- url     : https://prove2.me/theorems/8bbc3a90-e813-42b9-9e75-54247474a8c0

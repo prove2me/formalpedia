@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceModel_isBichar_neg_one_zpow
 -- name    : GlobalTheory.PlaceModel.isBichar_neg_one_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:11.826562+00:00
 -- url     : https://prove2.me/theorems/4567ac49-ba36-5249-996b-70d454e14221

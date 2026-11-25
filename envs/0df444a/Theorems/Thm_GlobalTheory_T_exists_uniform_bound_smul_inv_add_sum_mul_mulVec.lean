@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_uniform_bound_smul_inv_add_sum_mul_mulVec
 -- name    : GlobalTheory.T.exists_uniform_bound_smul_inv_add_sum_mul_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:39.195616+00:00
 -- url     : https://prove2.me/theorems/596f1ecd-718c-4b4a-b0d0-ca9f3621e5c3

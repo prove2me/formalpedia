@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenusLatCompare_stdLat_eq
 -- name    : GlobalTheory.GenusLatCompare.stdLat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:36.740742+00:00
 -- url     : https://prove2.me/theorems/998c87e4-1120-48f0-9709-6b8a813743f4

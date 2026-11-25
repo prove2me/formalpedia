@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_lowKDiff
 -- name    : Formalism.QuantumDeterminants.lowKDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:07.170981+00:00
 -- url     : https://prove2.me/theorems/a65573e8-4279-4f28-ad7a-0dd3ef85fd82

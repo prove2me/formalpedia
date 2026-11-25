@@ -20994,7 +20994,7 @@
 {"parent": "PaddedDescent.F.Arith.Zof_ge", "child": "PaddedDescent_F_ArithTop", "via": ["solution", "statement"]}
 {"parent": "VariableBound.StepChoice.reached", "child": "AppVariablesStatement", "via": ["solution", "statement"]}
 {"parent": "VariableBound.StepChoice.reached", "child": "VariableBound_StepChoice", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_hit_of_isPlaneOpenBook", "child": "FiniteEnergyPlane_OpenBook", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_hit_of_isPlaneOpenBook", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p2_a_zero_rate_positive_real_integral_eq_of_ennreal_tests", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Spec.count_spec", "child": "VariableBound_Params_Spec", "via": ["solution", "statement"]}
 {"parent": "VariableBound.Spec.count_spec", "child": "VariableBound_Params_Defs", "via": ["solution", "statement"]}
@@ -22380,7 +22380,7 @@
 {"parent": "GraphProblems.DomTree.sat_light", "child": "GraphProblems_DomTree", "via": ["solution", "statement"]}
 {"parent": "GraphProblems.DomTree.sat_light", "child": "GraphProblems_Interfaces", "via": ["solution", "statement"]}
 {"parent": "GraphProblems.DomTree.sat_light", "child": "Groundwork.PolyT.map", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_fastPlane_open_book", "child": "FiniteEnergyPlane_OpenBook", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_fastPlane_open_book", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
 {"parent": "P2M_GeneralPieces_Series_kappa__sum_5bc6c6120ed7", "child": "ClauseBound_Boson_Scalars", "via": ["solution", "statement"]}
 {"parent": "P2M_GeneralPieces_Series_kappa__sum_5bc6c6120ed7", "child": "GeneralPieces_Series_Deriv", "via": ["solution", "statement"]}
 {"parent": "P2M_GeneralPieces_Series_kappa__sum_5bc6c6120ed7", "child": "GeneralPieces_Series_Rings", "via": ["solution", "statement"]}

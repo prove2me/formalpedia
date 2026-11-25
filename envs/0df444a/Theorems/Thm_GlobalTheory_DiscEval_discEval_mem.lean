@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_discEval_mem
 -- name    : GlobalTheory.DiscEval.discEval_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:00:08.245327+00:00
 -- url     : https://prove2.me/theorems/70c2464b-f32c-5b08-becf-d096722aa4da

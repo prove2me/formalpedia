@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_beSum_holds
 -- name    : Formalism.L2.Pj.QAt.beSum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:09.640703+00:00
 -- url     : https://prove2.me/theorems/83f4c39a-4e9a-4af7-aa7b-250e96a9c5b4

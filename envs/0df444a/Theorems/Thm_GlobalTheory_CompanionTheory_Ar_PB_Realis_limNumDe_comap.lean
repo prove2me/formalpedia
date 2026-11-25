@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_limNumDe_comap
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.limNumDe_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:00:30.039987+00:00
 -- url     : https://prove2.me/theorems/a38eafa7-2735-4dea-86c8-686c2bd0b913

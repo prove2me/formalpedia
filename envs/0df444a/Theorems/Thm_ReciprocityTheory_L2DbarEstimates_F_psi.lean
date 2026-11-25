@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_psi
 -- name    : ReciprocityTheory.L2DbarEstimates.F.psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:56:33.658174+00:00
 -- url     : https://prove2.me/theorems/b9579337-6627-4594-9996-1e2acf7a4b16

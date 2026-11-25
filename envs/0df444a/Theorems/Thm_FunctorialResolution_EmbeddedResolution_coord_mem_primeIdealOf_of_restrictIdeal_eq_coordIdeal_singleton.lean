@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_coord_mem_primeIdealOf_of_restrictIdeal_eq_coordIdeal_singleton
 -- name    : FunctorialResolution.EmbeddedResolution.coord_mem_primeIdealOf_of_restrictIdeal_eq_coordIdeal_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:55:17.046126+00:00
 -- url     : https://prove2.me/theorems/2eb4d392-47c8-4de2-b091-b6fd1c791484

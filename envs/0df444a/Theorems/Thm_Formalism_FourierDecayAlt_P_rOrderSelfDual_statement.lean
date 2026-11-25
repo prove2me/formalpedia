@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rOrderSelfDual_statement
 -- name    : Formalism.FourierDecayAlt.P.rOrderSelfDual_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:34:57.17915+00:00
 -- url     : https://prove2.me/theorems/c324fa77-e87f-4dc8-8665-700697b39ce6

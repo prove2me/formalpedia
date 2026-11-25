@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sesqFormSumExpansion
 -- name    : Formalism.HermitianLatticeCounting.P.sesqFormSumExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:21.834982+00:00
 -- url     : https://prove2.me/theorems/42523751-b8bf-42dc-911a-6f28c4ca9cab

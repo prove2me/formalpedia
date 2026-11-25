@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogKS_dense_interior
 -- name    : GlobalTheory.LogKS.dense_interior
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:19:24.649995+00:00
 -- url     : https://prove2.me/theorems/2a19e8e9-05ba-5e13-b346-863d75919131

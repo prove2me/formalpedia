@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_selfDual_measures_and_absK_scale
 -- name    : GlobalTheory.T.exists_selfDual_measures_and_absK_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:04.47199+00:00
 -- url     : https://prove2.me/theorems/217a6ff7-1c47-4785-a3cf-84fad2da7ef3

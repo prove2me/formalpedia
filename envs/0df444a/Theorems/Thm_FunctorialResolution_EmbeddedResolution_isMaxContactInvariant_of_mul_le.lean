@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isMaxContactInvariant_of_mul_le
 -- name    : FunctorialResolution.EmbeddedResolution.isMaxContactInvariant_of_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:13.29867+00:00
 -- url     : https://prove2.me/theorems/6c361fa3-d265-4fa3-b5f3-7634b64b7d19

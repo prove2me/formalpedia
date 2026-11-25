@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_extends_unique
 -- name    : GlobalTheory.SS.GI.extends_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:06.233531+00:00
 -- url     : https://prove2.me/theorems/2aa8c8c9-b7ee-5d0a-bdda-adde532710ae

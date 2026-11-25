@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitSphereMeasure_sphereMeasure_map_unitary
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitSphereMeasure.sphereMeasure_map_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:49.338646+00:00
 -- url     : https://prove2.me/theorems/ff1247c5-bdcd-49ce-8e73-98ef802cee60

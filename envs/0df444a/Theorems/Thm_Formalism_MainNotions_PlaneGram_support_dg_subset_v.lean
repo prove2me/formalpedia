@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_support_dg_subset_v
 -- name    : Formalism.MainNotions.PlaneGram.support_dg_subset_v
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:50:50.878026+00:00
 -- url     : https://prove2.me/theorems/b836b653-090c-59c5-bc7d-85001445b5b0

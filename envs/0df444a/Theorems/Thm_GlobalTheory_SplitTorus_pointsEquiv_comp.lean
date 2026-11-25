@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_pointsEquiv_comp
 -- name    : GlobalTheory.SplitTorus.pointsEquiv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:25:00.814122+00:00
 -- url     : https://prove2.me/theorems/89b98c43-ed00-468f-bf9d-332e14d25279

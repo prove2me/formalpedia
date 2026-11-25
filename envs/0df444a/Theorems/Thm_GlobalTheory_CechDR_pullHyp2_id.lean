@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_pullHyp2_id
 -- name    : GlobalTheory.CechDR.pullHyp2_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:59:03.63887+00:00
 -- url     : https://prove2.me/theorems/bf4ccf92-1d02-4060-be89-a8442d841a08

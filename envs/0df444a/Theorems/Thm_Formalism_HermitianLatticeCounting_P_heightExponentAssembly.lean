@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_heightExponentAssembly
 -- name    : Formalism.HermitianLatticeCounting.P.heightExponentAssembly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:38:50.45967+00:00
 -- url     : https://prove2.me/theorems/105553d2-5a7f-4ea6-908e-f4fd9531b0b5

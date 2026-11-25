@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_transH_translation
 -- name    : GlobalTheory.SW.Model.transH_translation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:28:36.616377+00:00
 -- url     : https://prove2.me/theorems/b85e4927-aa80-42cb-b783-998e3f2eb56e

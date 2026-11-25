@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_share_first_constant
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.share_first_constant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:38:43.354076+00:00
 -- url     : https://prove2.me/theorems/658a0f04-9a3f-4fc1-86e2-c2caa1f6b6cc

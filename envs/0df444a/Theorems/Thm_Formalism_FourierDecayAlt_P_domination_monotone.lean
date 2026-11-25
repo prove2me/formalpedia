@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_domination_monotone
 -- name    : Formalism.FourierDecayAlt.P.domination_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:31:24.404195+00:00
 -- url     : https://prove2.me/theorems/72f01e4d-f724-41fd-9907-a0f1efaeff6b

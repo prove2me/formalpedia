@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_e_zero
 -- name    : ReciprocityTheory.PGsh.L2.e_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:31.089477+00:00
 -- url     : https://prove2.me/theorems/6fd31aaa-f37b-48ce-ba35-f2a8caf542e9

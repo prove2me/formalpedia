@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsGradedMap_exact_of_exact_piece
 -- name    : GlobalTheory.IsGradedMap.exact_of_exact_piece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:24.593262+00:00
 -- url     : https://prove2.me/theorems/df953f72-6437-4efb-b082-e571082af968

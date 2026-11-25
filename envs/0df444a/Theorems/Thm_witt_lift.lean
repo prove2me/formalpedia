@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_witt_lift
 -- name    : witt_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:19:37.188415+00:00
 -- url     : https://prove2.me/theorems/d5ae65f8-097b-4be7-ad50-303970f8e6d9

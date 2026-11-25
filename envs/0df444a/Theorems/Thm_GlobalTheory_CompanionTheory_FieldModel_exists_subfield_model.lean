@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FieldModel_exists_subfield_model
 -- name    : GlobalTheory.CompanionTheory.FieldModel.exists_subfield_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:01:07.095991+00:00
 -- url     : https://prove2.me/theorems/38829914-970d-44f9-91a8-6f61c10e9cc4

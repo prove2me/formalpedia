@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_archimedean_gram_fiber_continuous_density
 -- name    : GlobalTheory.T.archimedean_gram_fiber_continuous_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:15.794689+00:00
 -- url     : https://prove2.me/theorems/eb952153-5af0-4e8a-bdef-52f855d1b775

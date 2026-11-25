@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_MajH_dot_add_left
 -- name    : UnipMove.MajH.dot_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:11:53.575931+00:00
 -- url     : https://prove2.me/theorems/f14a131e-cf87-5b4e-978e-564f70581ae7

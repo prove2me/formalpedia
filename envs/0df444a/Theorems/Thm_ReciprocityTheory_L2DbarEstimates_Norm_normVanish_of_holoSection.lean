@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_normVanish_of_holoSection
 -- name    : ReciprocityTheory.L2DbarEstimates.Norm.normVanish_of_holoSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:58:47.041955+00:00
 -- url     : https://prove2.me/theorems/f56e05e1-c338-47bd-84b2-8c6e2fa3d64c

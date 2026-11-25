@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_freePts_integral
 -- name    : ReciprocityTheory.PGsh.Up.freePts_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:06:45.163949+00:00
 -- url     : https://prove2.me/theorems/6d072bff-085b-46bc-a664-6b8595a9c862

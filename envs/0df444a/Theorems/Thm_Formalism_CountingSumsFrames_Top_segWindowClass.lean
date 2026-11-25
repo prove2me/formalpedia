@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segWindowClass
 -- name    : Formalism.CountingSumsFrames.Top.segWindowClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:15.169777+00:00
 -- url     : https://prove2.me/theorems/64536241-0b80-4198-81c2-7bcd2177cd33

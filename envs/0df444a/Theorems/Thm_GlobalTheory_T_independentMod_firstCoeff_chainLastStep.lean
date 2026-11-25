@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_independentMod_firstCoeff_chainLastStep
 -- name    : GlobalTheory.T.independentMod_firstCoeff_chainLastStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:28.619704+00:00
 -- url     : https://prove2.me/theorems/43712393-7f0c-4e21-bf77-acb80c5af201

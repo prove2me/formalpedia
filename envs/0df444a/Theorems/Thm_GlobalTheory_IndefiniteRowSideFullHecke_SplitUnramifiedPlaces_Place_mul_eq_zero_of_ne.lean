@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SplitUnramifiedPlaces_Place_mul_eq_zero_of_ne
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SplitUnramifiedPlaces.Place.mul_eq_zero_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:09:38.99275+00:00
 -- url     : https://prove2.me/theorems/22b2eda0-7fb9-485d-aeb5-65e40d5ae79b

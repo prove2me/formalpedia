@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_IntegralGermPointData_charZero_closure
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.IntegralGermPointData.charZero_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:09:02.045913+00:00
 -- url     : https://prove2.me/theorems/696756b4-9926-46b6-a336-4957f1d560f4

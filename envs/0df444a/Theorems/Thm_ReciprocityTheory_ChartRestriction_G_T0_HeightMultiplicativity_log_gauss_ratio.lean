@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HeightMultiplicativity_log_gauss_ratio
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HeightMultiplicativity.log_gauss_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:45:59.035738+00:00
 -- url     : https://prove2.me/theorems/6fd4b559-b6cd-4137-8aac-2e4e018e315d

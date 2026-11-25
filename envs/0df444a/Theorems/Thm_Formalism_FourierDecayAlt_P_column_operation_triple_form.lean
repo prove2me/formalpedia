@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_column_operation_triple_form
 -- name    : Formalism.FourierDecayAlt.P.column_operation_triple_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:29:49.315536+00:00
 -- url     : https://prove2.me/theorems/3433632c-1ab6-4504-a08b-7b7d81545053

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_ProperOn_mono
 -- name    : ShannonColouring.ProperOn.mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:52:27.513355+00:00
 -- url     : https://prove2.me/theorems/591bffc0-93f3-52b5-ba63-3507ad7b6b3e

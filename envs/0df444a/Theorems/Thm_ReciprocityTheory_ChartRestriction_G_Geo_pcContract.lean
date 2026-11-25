@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_pcContract
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.pcContract
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:59.712551+00:00
 -- url     : https://prove2.me/theorems/0bd80743-e714-4c4d-8c98-40eedc160f91

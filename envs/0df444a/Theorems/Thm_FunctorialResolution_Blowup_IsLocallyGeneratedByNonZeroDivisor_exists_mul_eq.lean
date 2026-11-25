@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_IsLocallyGeneratedByNonZeroDivisor_exists_mul_eq
 -- name    : FunctorialResolution.Blowup.IsLocallyGeneratedByNonZeroDivisor.exists_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:15.610201+00:00
 -- url     : https://prove2.me/theorems/594fc93e-1fa8-40fe-89c1-2cd5ff483795

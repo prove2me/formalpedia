@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_Adapted_mainVec_level_one
 -- name    : GlobalTheory.MainTerm.Adapted.mainVec_level_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:36.07113+00:00
 -- url     : https://prove2.me/theorems/6b94479c-44ea-49c3-8e96-ec3fde5d27b7

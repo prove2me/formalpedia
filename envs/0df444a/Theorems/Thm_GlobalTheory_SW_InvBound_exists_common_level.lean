@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_InvBound_exists_common_level
 -- name    : GlobalTheory.SW.InvBound.exists_common_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:50:02.872998+00:00
 -- url     : https://prove2.me/theorems/1487e273-f0f1-4fbf-8e6a-53d5653d47dc

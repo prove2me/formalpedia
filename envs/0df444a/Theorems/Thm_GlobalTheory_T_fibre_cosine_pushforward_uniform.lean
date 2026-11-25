@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fibre_cosine_pushforward_uniform
 -- name    : GlobalTheory.T.fibre_cosine_pushforward_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:31:27.693437+00:00
 -- url     : https://prove2.me/theorems/9bc4331e-99ce-59b6-80d9-4c36e4fe0ecb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_Dec_continuous_trOp
 -- name    : ZetaZeros.D.EllReg.Dec.continuous_trOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:14:08.661684+00:00
 -- url     : https://prove2.me/theorems/1718289d-7cd1-477e-bb86-5c955cd942c2

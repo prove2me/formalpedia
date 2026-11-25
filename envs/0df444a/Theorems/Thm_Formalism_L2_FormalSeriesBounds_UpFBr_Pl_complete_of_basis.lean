@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_complete_of_basis
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.complete_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:04.035217+00:00
 -- url     : https://prove2.me/theorems/b9e1131e-bcc2-4e48-b1c3-bb7f14475943

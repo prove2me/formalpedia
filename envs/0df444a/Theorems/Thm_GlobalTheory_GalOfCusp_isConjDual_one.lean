@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GalOfCusp_isConjDual_one
 -- name    : GlobalTheory.GalOfCusp.isConjDual_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:53.14131+00:00
 -- url     : https://prove2.me/theorems/ee5645b5-15c8-5ae4-ae87-cc304487ffa0

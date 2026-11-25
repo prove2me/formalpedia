@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtUp_exists_genThrough_up
 -- name    : GlobalTheory.ThetaPtUp.exists_genThrough_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:40:06.693669+00:00
 -- url     : https://prove2.me/theorems/1bce00ea-f821-417b-923c-aa69320672b3

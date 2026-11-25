@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_markedTripleOrderOne_pullbackAlong
 -- name    : FunctorialResolution.EmbeddedResolution.markedTripleOrderOne_pullbackAlong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:58.719521+00:00
 -- url     : https://prove2.me/theorems/bebda446-0acc-56ab-ba9c-91a5b536ae69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_BKDat_exists_conn_eq
 -- name    : GlobalTheory.BK.BKDat.exists_conn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:59:40.289463+00:00
 -- url     : https://prove2.me/theorems/834b8ba5-dac1-4365-9488-1b6d0d8dc4e5

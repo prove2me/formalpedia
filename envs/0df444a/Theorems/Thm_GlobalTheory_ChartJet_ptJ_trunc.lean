@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartJet_ptJ_trunc
 -- name    : GlobalTheory.ChartJet.ptJ_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:37:34.00795+00:00
 -- url     : https://prove2.me/theorems/51b41805-288e-4bbf-ac2c-3f0fa9067a32

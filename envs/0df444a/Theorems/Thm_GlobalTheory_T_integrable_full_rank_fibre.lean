@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integrable_full_rank_fibre
 -- name    : GlobalTheory.T.integrable_full_rank_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:34:14.926027+00:00
 -- url     : https://prove2.me/theorems/f4278053-e037-5e50-9d7a-41a968a94226

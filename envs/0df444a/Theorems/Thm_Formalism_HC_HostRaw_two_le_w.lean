@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_two_le_w
 -- name    : Formalism.HC.HostRaw.two_le_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:18.078127+00:00
 -- url     : https://prove2.me/theorems/947178d7-988b-413c-8c97-438b0c27b4cd

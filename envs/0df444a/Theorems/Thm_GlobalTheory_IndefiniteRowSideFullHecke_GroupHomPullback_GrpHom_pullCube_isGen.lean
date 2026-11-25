@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GroupHomPullback_GrpHom_pullCube_isGen
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GroupHomPullback.GrpHom.pullCube_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:51.446749+00:00
 -- url     : https://prove2.me/theorems/2db31bc5-759c-4989-be7b-9ce1b93d3443

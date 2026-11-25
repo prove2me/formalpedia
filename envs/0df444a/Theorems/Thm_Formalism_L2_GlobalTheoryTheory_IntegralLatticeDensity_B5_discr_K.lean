@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_discr_K
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.discr_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:45:06.469969+00:00
 -- url     : https://prove2.me/theorems/df2c0541-34ed-407a-be85-b9435516e35f

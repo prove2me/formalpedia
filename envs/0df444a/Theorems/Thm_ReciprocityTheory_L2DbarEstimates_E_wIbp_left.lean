@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_E_wIbp_left
 -- name    : ReciprocityTheory.L2DbarEstimates.E.wIbp_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:30:34.4759+00:00
 -- url     : https://prove2.me/theorems/4b5c3068-ee54-454e-b687-2dcabbf29399

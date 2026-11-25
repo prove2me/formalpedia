@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_smallSurjective
 -- name    : smallSurjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:16:50.648965+00:00
 -- url     : https://prove2.me/theorems/d560f0d6-1f73-4a9c-9c8f-6d10f9f538e6

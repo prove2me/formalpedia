@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickeningDivisible_cst_comp_eq_zero
 -- name    : GlobalTheory.ThickeningDivisible.cst_comp_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:44:52.128557+00:00
 -- url     : https://prove2.me/theorems/2711e3b6-61cb-4d36-87aa-0f1723015513

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_exact_sequence_of_forms
 -- name    : Formalism.HermitianLattices.StabilizerLevels.exact_sequence_of_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:52.137327+00:00
 -- url     : https://prove2.me/theorems/3dd95bab-7e8e-4c13-8ffe-82503e86fc3e

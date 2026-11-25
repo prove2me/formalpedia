@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetTest_jetTrunc_not_injective
 -- name    : GlobalTheory.JetTest.jetTrunc_not_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:11:31.090739+00:00
 -- url     : https://prove2.me/theorems/8d3108ec-e0a5-5cff-afcf-193d0983c976

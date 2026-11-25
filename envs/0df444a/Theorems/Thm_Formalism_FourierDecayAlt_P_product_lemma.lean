@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_product_lemma
 -- name    : Formalism.FourierDecayAlt.P.product_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:33:49.424571+00:00
 -- url     : https://prove2.me/theorems/c6c453a8-99a7-59be-bd6c-fb7ac0f2f5ab

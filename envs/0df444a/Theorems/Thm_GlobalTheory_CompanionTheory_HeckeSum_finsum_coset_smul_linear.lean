@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeSum_finsum_coset_smul_linear
 -- name    : GlobalTheory.CompanionTheory.HeckeSum.finsum_coset_smul_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:01:04.037879+00:00
 -- url     : https://prove2.me/theorems/18463e11-1add-56cd-b23f-5d6a97328b3d

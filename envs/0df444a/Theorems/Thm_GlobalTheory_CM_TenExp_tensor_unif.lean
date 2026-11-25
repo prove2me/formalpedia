@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CM_TenExp_tensor_unif
 -- name    : GlobalTheory.CM.TenExp.tensor_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:53.580869+00:00
 -- url     : https://prove2.me/theorems/330e06a0-6d8e-4440-9df7-7be09c59120e

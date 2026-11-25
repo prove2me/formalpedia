@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_level_at_place_alt
 -- name    : Formalism.EigenvalueLevelCeiling.level_at_place_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:27:02.074903+00:00
 -- url     : https://prove2.me/theorems/e4d3509a-61d8-48c0-8d4a-020d0886b8f6

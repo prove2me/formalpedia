@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_siegel_bound_same_character
 -- name    : Formalism.ZeroFreeDirichlet.siegel_bound_same_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:56.59217+00:00
 -- url     : https://prove2.me/theorems/b98f77f8-f0f0-4d4f-b573-b68871b80b6c

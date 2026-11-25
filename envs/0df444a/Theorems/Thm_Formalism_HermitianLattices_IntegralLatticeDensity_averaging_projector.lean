@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_averaging_projector
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.averaging_projector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:06.706536+00:00
 -- url     : https://prove2.me/theorems/4f602470-5990-4380-9854-dac2afb7ca1c

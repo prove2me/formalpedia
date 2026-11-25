@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasCompactSupport_jacquetRallisOrbitalIntegrand
 -- name    : GlobalTheory.T.hasCompactSupport_jacquetRallisOrbitalIntegrand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:56.743847+00:00
 -- url     : https://prove2.me/theorems/915925e4-90dd-5ad9-a386-5342401ba9ba

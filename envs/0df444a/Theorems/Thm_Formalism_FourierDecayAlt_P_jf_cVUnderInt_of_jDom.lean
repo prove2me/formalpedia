@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_jf_cVUnderInt_of_jDom
 -- name    : Formalism.FourierDecayAlt.P.jf_cVUnderInt_of_jDom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:56.385489+00:00
 -- url     : https://prove2.me/theorems/1f248c2c-0a1a-5f49-adfb-a901641a61ae

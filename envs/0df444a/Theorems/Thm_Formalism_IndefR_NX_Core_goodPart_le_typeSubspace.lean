@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_NX_Core_goodPart_le_typeSubspace
 -- name    : Formalism.IndefR.NX.Core.goodPart_le_typeSubspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:44.37342+00:00
 -- url     : https://prove2.me/theorems/a8a0c960-c0c2-4098-b246-c2d08ad7450f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pulled_comparison_even
 -- name    : GlobalTheory.pulled_comparison_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:22:36.489276+00:00
 -- url     : https://prove2.me/theorems/d318962b-400a-4385-9984-53fce2f6ae4d

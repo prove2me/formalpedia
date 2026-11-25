@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Calc_isMu_of_ph
 -- name    : GlobalTheory.Phase.Calc.isMu_of_ph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:15:26.620255+00:00
 -- url     : https://prove2.me/theorems/2d1ce69a-5e65-4f5b-a892-c5f74dbf7389

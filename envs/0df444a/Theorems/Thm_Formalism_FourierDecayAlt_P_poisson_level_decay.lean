@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_poisson_level_decay
 -- name    : Formalism.FourierDecayAlt.P.poisson_level_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:31.733403+00:00
 -- url     : https://prove2.me/theorems/c8af7618-7dab-4e6c-b15f-178ed71f48e6

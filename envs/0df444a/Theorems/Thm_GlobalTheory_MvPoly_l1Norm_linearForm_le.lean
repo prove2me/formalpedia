@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_l1Norm_linearForm_le
 -- name    : GlobalTheory.MvPoly.l1Norm_linearForm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:19.067367+00:00
 -- url     : https://prove2.me/theorems/2b4913a9-8e73-5646-b05f-c37610df5510

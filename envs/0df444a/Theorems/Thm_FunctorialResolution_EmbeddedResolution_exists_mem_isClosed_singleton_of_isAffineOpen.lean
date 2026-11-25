@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_mem_isClosed_singleton_of_isAffineOpen
 -- name    : FunctorialResolution.EmbeddedResolution.exists_mem_isClosed_singleton_of_isAffineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:50.300845+00:00
 -- url     : https://prove2.me/theorems/c234e44c-fc31-462c-bd3a-97b5542dd298

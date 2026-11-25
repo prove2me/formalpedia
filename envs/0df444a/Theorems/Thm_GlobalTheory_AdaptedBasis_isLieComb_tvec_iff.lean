@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedBasis_isLieComb_tvec_iff
 -- name    : GlobalTheory.AdaptedBasis.isLieComb_tvec_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:01:11.799163+00:00
 -- url     : https://prove2.me/theorems/1a510e3d-adec-58a6-99b4-b3e82ec41014

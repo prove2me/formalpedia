@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NodalCubic_range_subset_of_forall_field
 -- name    : GlobalTheory.NodalCubic.range_subset_of_forall_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:03:58.164798+00:00
 -- url     : https://prove2.me/theorems/3d13a9ad-c2c4-543e-82b8-e2499728aaa6

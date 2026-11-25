@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_NbAvg_ncard_carry
 -- name    : GlobalTheory.SW.NbAvg.ncard_carry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:43:37.846877+00:00
 -- url     : https://prove2.me/theorems/1b989146-01f5-4ed7-83c8-0ee424667d7a

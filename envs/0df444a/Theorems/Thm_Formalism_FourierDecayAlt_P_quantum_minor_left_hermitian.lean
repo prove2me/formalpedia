@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_quantum_minor_left_hermitian
 -- name    : Formalism.FourierDecayAlt.P.quantum_minor_left_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:50:52.560905+00:00
 -- url     : https://prove2.me/theorems/6ac40ac5-ebb9-4451-871c-dc72b16919b4

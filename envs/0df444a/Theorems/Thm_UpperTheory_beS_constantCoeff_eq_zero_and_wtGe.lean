@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_beS_constantCoeff_eq_zero_and_wtGe
 -- name    : UpperTheory.beS_constantCoeff_eq_zero_and_wtGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:13:39.779217+00:00
 -- url     : https://prove2.me/theorems/f5cf894e-0e29-4d04-a446-c81139785ff5

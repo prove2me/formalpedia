@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_existsUnique_iso_of_extensions
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.existsUnique_iso_of_extensions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:24:15.563071+00:00
 -- url     : https://prove2.me/theorems/443a5f7e-58b3-44c7-b4d7-bf5dc66f6bf4

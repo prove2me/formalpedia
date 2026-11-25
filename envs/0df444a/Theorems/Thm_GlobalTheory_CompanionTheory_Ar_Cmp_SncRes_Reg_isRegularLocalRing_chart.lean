@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Reg_isRegularLocalRing_chart
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Reg.isRegularLocalRing_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:42:37.362053+00:00
 -- url     : https://prove2.me/theorems/b9491874-4eeb-55de-8de8-bebcdb59d0c0

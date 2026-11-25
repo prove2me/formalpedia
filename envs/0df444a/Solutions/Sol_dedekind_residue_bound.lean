@@ -1,0 +1,56 @@
+-- Prove2me | solution 1 for dedekind_residue_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T16:08:18.254188+00:00
+-- url     : https://prove2.me/submissions/0b6789c7-377a-4b91-9b07-290aab3e4467
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_Residue
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_ResidueBoundOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_HeckeLowerOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_BClass
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_BUnfold
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_NormAtPlacePosOfNormPos
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_RealHitIneq
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_DvdSpanOfIdealSet
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_IdealEquiv
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_BoxEqConvexBodyLT
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_MemSmulNormLeOne
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_UnitMulDetNeZero
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_NnrealOfEnnreal
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_SumRangeLe
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ResidueLatticeCount_ThirdLeLog
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_Residue
+import Theorems.Thm_PI_Residue_boxVolume
+import Theorems.Thm_PI_Residue_classLower_of
+import Theorems.Thm_PI_Residue_classSum
+import Theorems.Thm_PI_Residue_countIntegral_of
+import Theorems.Thm_PI_Residue_heckeLower_of
+import Theorems.Thm_PI_Residue_hitBound_of
+import Theorems.Thm_PI_Residue_idealSetSum
+import Theorems.Thm_PI_Residue_optimise
+import Theorems.Thm_PI_Residue_residueBound_of
+import Theorems.Thm_PI_Residue_shellVolume
+import Theorems.Thm_PI_Residue_unfold_of
+import Theorems.Thm_PI_Residue_unitPreserving
+import Theorems.Thm_PI_Residue_zetaLePow
+import Theorems.Thm_PI_Residue_zetaRLe
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+open PI.Residue
+theorem _root_.solution : PI.ResidueBound :=
+  residueBound_of zetaLePow zetaRLe
+    (heckeLower_of
+      (classLower_of (countIntegral_of boxVolume) shellVolume (unfold_of unitPreserving)
+        (hitBound_of boxVolume) idealSetSum)
+      classSum)
+    optimise

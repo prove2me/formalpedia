@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_exists_fromRows_mulVec_iff
 -- name    : ReciprocityTheory.PGsh.Up.exists_fromRows_mulVec_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:06:38.496594+00:00
 -- url     : https://prove2.me/theorems/0e35ba86-d1c9-4637-a334-319a1fb4dd43

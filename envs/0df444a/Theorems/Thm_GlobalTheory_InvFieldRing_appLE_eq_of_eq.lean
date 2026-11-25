@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvFieldRing_appLE_eq_of_eq
 -- name    : GlobalTheory.InvFieldRing.appLE_eq_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:12:31.54532+00:00
 -- url     : https://prove2.me/theorems/dab7dccc-4fca-5bab-8dee-437d48210fd3

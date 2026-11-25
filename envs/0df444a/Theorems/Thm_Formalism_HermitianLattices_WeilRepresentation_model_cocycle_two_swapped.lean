@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_WeilRepresentation_model_cocycle_two_swapped
 -- name    : Formalism.HermitianLattices.WeilRepresentation.model_cocycle_two_swapped
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:00.030922+00:00
 -- url     : https://prove2.me/theorems/eba2b988-3419-50b2-8771-83d41ba1f3fc

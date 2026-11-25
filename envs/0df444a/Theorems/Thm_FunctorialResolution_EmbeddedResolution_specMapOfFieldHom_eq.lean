@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_specMapOfFieldHom_eq
 -- name    : FunctorialResolution.EmbeddedResolution.specMapOfFieldHom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:18.603809+00:00
 -- url     : https://prove2.me/theorems/3e7af965-0a57-5138-9f77-e260e738fc5d

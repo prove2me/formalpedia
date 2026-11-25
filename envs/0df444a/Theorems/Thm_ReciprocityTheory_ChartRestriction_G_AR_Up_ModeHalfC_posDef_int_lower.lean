@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ModeHalfC_posDef_int_lower
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ModeHalfC.posDef_int_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:02:38.218594+00:00
 -- url     : https://prove2.me/theorems/3821f0b4-c83c-41e6-bafa-4fc3260c657c

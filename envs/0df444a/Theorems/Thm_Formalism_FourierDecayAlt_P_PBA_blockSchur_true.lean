@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_blockSchur_true
 -- name    : Formalism.FourierDecayAlt.P.PBA.blockSchur_true
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:29:04.845289+00:00
 -- url     : https://prove2.me/theorems/b16d7b24-49ce-4c38-8efe-643447f5c2e9

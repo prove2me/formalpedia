@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_law_of_inertia
 -- name    : GlobalTheory.Inertia.law_of_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:59.624859+00:00
 -- url     : https://prove2.me/theorems/87669210-e1dc-5309-8371-b4b0f675be68

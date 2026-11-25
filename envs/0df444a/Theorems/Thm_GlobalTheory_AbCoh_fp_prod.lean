@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_fp_prod
 -- name    : GlobalTheory.AbCoh.fp_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:05:06.289796+00:00
 -- url     : https://prove2.me/theorems/19eb894d-421f-44ee-bb96-094b9a883cde

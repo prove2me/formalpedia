@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_genIso_twist_right
 -- name    : GlobalTheory.SS.GI.genIso_twist_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:04.59829+00:00
 -- url     : https://prove2.me/theorems/c1b5c4dc-fa66-5e58-aee6-087f71216603

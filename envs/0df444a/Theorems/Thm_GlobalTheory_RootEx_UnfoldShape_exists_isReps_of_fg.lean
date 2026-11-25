@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_exists_isReps_of_fg
 -- name    : GlobalTheory.RootEx.UnfoldShape.exists_isReps_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:21:24.585567+00:00
 -- url     : https://prove2.me/theorems/98d0da44-3a0c-46ed-b8b2-807ee27ee8a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_isBaseChange_ofKaehler
 -- name    : GlobalTheory.AugCot.isBaseChange_ofKaehler
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:59.343696+00:00
 -- url     : https://prove2.me/theorems/238fb45f-4966-4e69-9077-656a7bb5b88e

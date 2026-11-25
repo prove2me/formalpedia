@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_hon_mu
 -- name    : ReciprocityTheory.ChartRestriction.L1.hon_mu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:45:22.655544+00:00
 -- url     : https://prove2.me/theorems/62c065e6-7a82-4632-a67f-0a2e4ae4bc16

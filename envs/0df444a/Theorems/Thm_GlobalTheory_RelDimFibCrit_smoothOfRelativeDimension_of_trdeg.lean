@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelDimFibCrit_smoothOfRelativeDimension_of_trdeg
 -- name    : GlobalTheory.RelDimFibCrit.smoothOfRelativeDimension_of_trdeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:20:11.607047+00:00
 -- url     : https://prove2.me/theorems/04d497b7-5f8d-4ffd-be1f-f9cffae15c60

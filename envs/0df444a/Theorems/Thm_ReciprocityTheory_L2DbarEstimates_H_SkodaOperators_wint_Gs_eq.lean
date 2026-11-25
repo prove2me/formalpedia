@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_SkodaOperators_wint_Gs_eq
 -- name    : ReciprocityTheory.L2DbarEstimates.H.SkodaOperators.wint_Gs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:04:34.108092+00:00
 -- url     : https://prove2.me/theorems/dd1f1953-953a-439c-9b92-185dc9b33a19

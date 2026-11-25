@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_lattice_gluing_semilocal
 -- name    : Formalism.DivisionValues.lattice_gluing_semilocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:27.954445+00:00
 -- url     : https://prove2.me/theorems/8fbecfaf-1462-5631-8f16-5ff37ef15060

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Eqv_G5_adl_isOpen_nbhd
 -- name    : Formalism.IndefR.Eqv.G5.adl_isOpen_nbhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:42:21.741975+00:00
 -- url     : https://prove2.me/theorems/cc54bb2b-ad81-4b4a-a7e8-943d9cbb21ec

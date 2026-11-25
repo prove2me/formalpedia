@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_valTop_zero
 -- name    : GlobalTheory.NB.valTop_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:14.68802+00:00
 -- url     : https://prove2.me/theorems/049a2810-838b-582e-86d9-55641eba8438

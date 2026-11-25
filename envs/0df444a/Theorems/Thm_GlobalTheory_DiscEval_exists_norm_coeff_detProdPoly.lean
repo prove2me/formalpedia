@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_exists_norm_coeff_detProdPoly
 -- name    : GlobalTheory.DiscEval.exists_norm_coeff_detProdPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:57:47.946273+00:00
 -- url     : https://prove2.me/theorems/c0a0cd3e-e60d-5091-a7b4-dbef10d2ae3e

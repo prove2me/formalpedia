@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CondRescale_exists_rescale_conductor_integers
 -- name    : GlobalTheory.CondRescale.exists_rescale_conductor_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:43.968536+00:00
 -- url     : https://prove2.me/theorems/be28a2bd-4310-4b7c-84e8-92f1f74340a5

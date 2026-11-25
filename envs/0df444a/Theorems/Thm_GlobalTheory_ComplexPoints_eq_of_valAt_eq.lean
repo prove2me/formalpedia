@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPoints_eq_of_valAt_eq
 -- name    : GlobalTheory.ComplexPoints.eq_of_valAt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:40.415958+00:00
 -- url     : https://prove2.me/theorems/ff12a8d6-dbb4-5da6-a075-560aa479066f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_hensel
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.hensel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:06:25.693857+00:00
 -- url     : https://prove2.me/theorems/a6a703e8-fe11-51ca-b1b3-b013e953384a

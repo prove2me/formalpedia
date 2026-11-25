@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_norm_one_integral
 -- name    : Formalism.L2.FormalSeriesBounds.RF.norm_one_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:52:47.760076+00:00
 -- url     : https://prove2.me/theorems/6afa0945-fa84-4f0d-833f-d8dfb65d664f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_Final_intRightInv
 -- name    : Formalism.DoubleCosetMeasures.Final.intRightInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:24:34.898706+00:00
 -- url     : https://prove2.me/theorems/0cb9136d-89b5-45f4-a780-81d270084dbf

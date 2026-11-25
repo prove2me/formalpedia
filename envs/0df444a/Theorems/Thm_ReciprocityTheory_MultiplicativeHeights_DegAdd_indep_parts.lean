@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DegAdd_indep_parts
 -- name    : ReciprocityTheory.MultiplicativeHeights.DegAdd.indep_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:42.235667+00:00
 -- url     : https://prove2.me/theorems/e21274e8-711d-5f94-9456-d7727858501d

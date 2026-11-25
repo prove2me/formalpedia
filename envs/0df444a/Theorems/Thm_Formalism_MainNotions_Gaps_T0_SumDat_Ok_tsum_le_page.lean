@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_SumDat_Ok_tsum_le_page
 -- name    : Formalism.MainNotions.Gaps.T0.SumDat.Ok.tsum_le_page
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:50:15.125861+00:00
 -- url     : https://prove2.me/theorems/a98d8f6d-9288-4d55-9a30-26be0bcffe2c

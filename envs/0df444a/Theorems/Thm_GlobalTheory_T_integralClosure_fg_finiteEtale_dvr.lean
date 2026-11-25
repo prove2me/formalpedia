@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integralClosure_fg_finiteEtale_dvr
 -- name    : GlobalTheory.T.integralClosure_fg_finiteEtale_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:34:16.572476+00:00
 -- url     : https://prove2.me/theorems/dac4bedc-431c-489f-856a-a47e2f73272f

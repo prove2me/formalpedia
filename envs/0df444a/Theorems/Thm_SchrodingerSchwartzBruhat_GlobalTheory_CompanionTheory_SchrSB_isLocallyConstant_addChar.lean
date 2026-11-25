@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchrodingerSchwartzBruhat_GlobalTheory_CompanionTheory_SchrSB_isLocallyConstant_addChar
 -- name    : SchrodingerSchwartzBruhat.GlobalTheory.CompanionTheory.SchrSB.isLocallyConstant_addChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:10:59.825682+00:00
 -- url     : https://prove2.me/theorems/aff7ec59-1de7-4ab6-9c0e-ddba4f57a5f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coordinate_bijection_trace_form
 -- name    : GlobalTheory.T.coordinate_bijection_trace_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:59.636291+00:00
 -- url     : https://prove2.me/theorems/c5c77cc3-6d64-4252-9ece-3dedac17fa5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_germK_eq_pow_mul_ratOf_lbPow
 -- name    : GlobalTheory.EffCartierData.germK_eq_pow_mul_ratOf_lbPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:11:22.443193+00:00
 -- url     : https://prove2.me/theorems/842accdc-759b-4759-89c7-de4aa3ad9d02

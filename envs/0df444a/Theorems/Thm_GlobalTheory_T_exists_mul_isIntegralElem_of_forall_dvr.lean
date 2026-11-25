@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_mul_isIntegralElem_of_forall_dvr
 -- name    : GlobalTheory.T.exists_mul_isIntegralElem_of_forall_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:30:32.702089+00:00
 -- url     : https://prove2.me/theorems/cabe9668-9d5c-5b1a-a1c0-858d65941d6a

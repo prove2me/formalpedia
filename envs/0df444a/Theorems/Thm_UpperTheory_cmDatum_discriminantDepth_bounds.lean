@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_cmDatum_discriminantDepth_bounds
 -- name    : UpperTheory.cmDatum_discriminantDepth_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:04:21.110327+00:00
 -- url     : https://prove2.me/theorems/3bf9281f-d484-43fb-974c-2e30081969bc

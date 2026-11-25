@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsFreeAction_eq_one
 -- name    : GlobalTheory.IsFreeAction.eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:36.259894+00:00
 -- url     : https://prove2.me/theorems/158864cd-4728-4eba-beb4-474f9272aec8

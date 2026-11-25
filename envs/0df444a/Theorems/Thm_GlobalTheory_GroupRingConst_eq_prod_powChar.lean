@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupRingConst_eq_prod_powChar
 -- name    : GlobalTheory.GroupRingConst.eq_prod_powChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:34:16.631376+00:00
 -- url     : https://prove2.me/theorems/11a90c98-083e-56ad-96d9-8bcba362e8cd

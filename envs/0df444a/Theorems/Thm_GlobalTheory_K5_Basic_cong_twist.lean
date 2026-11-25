@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_cong_twist
 -- name    : GlobalTheory.K5.Basic.cong_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:11:38.544862+00:00
 -- url     : https://prove2.me/theorems/94d30d25-fd3c-4a3b-94da-fb508898afb9

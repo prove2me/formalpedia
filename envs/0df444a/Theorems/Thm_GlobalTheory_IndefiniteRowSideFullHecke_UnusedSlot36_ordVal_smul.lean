@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnusedSlot36_ordVal_smul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnusedSlot36.ordVal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:22:16.506315+00:00
 -- url     : https://prove2.me/theorems/269a4577-5ec5-4481-9df4-5115afbb64d6

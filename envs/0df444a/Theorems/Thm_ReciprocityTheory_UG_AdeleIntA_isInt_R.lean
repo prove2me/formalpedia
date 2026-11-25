@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_UG_AdeleIntA_isInt_R
 -- name    : ReciprocityTheory.UG.AdeleIntA.isInt_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:15.91768+00:00
 -- url     : https://prove2.me/theorems/8394e30a-2279-43d3-bfd9-cf529c3b3d66

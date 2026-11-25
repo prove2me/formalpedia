@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_isMF_eq_sum_monomials
 -- name    : GlobalTheory.QFam.isMF_eq_sum_monomials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:19:20.776406+00:00
 -- url     : https://prove2.me/theorems/44665f59-16d5-5060-a3e7-12972ab57d2f

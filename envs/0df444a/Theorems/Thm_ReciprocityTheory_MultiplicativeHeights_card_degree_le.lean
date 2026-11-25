@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_card_degree_le
 -- name    : ReciprocityTheory.MultiplicativeHeights.card_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:03:42.470645+00:00
 -- url     : https://prove2.me/theorems/809581a7-bbba-5366-8dd1-3ad184fc74a0

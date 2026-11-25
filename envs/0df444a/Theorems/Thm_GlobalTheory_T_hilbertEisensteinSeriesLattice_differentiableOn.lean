@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertEisensteinSeriesLattice_differentiableOn
 -- name    : GlobalTheory.T.hilbertEisensteinSeriesLattice_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:33:08.431407+00:00
 -- url     : https://prove2.me/theorems/27fc6117-f797-5e47-88c0-30b883597ab4

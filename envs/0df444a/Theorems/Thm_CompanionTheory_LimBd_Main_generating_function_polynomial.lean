@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_generating_function_polynomial
 -- name    : CompanionTheory.LimBd.Main.generating_function_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:19:45.604331+00:00
 -- url     : https://prove2.me/theorems/dada8421-a9b2-4a8d-a71f-cc2fe832e7b5

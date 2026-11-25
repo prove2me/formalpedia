@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FJ_sgF_apply
 -- name    : Formalism.L2.Pj.FJ.sgF_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:46:15.958105+00:00
 -- url     : https://prove2.me/theorems/49cebc79-a3db-45e8-a5f4-15cc0ee119bc

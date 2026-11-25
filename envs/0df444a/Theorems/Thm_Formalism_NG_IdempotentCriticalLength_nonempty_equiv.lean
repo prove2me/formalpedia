@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentCriticalLength_nonempty_equiv
 -- name    : Formalism.NG.IdempotentCriticalLength.nonempty_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:16.591878+00:00
 -- url     : https://prove2.me/theorems/3a20ff76-028b-59c8-8e60-74b1ce3dfaa2

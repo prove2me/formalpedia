@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_measurePreserving_toSphere_isometry
 -- name    : ReciprocityTheory.MultiplicativeHeights.measurePreserving_toSphere_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:27.673276+00:00
 -- url     : https://prove2.me/theorems/7bc6ca5a-1625-5f1a-bbbf-ec342c8a843d

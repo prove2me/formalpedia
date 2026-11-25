@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_map_Y
 -- name    : GlobalTheory.BK.Descent.map_Y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:23.200219+00:00
 -- url     : https://prove2.me/theorems/a65bccd0-f351-4a5c-879b-b82ddcbed69d

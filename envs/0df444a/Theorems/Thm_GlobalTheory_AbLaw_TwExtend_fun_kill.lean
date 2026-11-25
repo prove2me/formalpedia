@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_TwExtend_fun_kill
 -- name    : GlobalTheory.AbLaw.TwExtend.fun_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:01:36.682066+00:00
 -- url     : https://prove2.me/theorems/56bc3827-28e2-4135-a8db-aaead93eb0e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeafTerm_tan_int
 -- name    : GlobalTheory.LeafTerm.tan_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:13:08.101052+00:00
 -- url     : https://prove2.me/theorems/65945798-9705-53bc-b816-e7f924e35c8b

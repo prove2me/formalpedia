@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_grid_convergence
 -- name    : Formalism.FourierDecayAlt.P.grid_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:30:24.819911+00:00
 -- url     : https://prove2.me/theorems/0d09e20d-2a16-58f5-920c-065b7285e27a

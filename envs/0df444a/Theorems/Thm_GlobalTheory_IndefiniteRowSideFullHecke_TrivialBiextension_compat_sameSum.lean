@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TrivialBiextension_compat_sameSum
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TrivialBiextension.compat_sameSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:28.17286+00:00
 -- url     : https://prove2.me/theorems/58c2f7c0-5eb2-477f-95bf-bef5569ed4d9

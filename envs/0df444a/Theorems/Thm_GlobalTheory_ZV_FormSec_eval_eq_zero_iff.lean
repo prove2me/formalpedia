@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_FormSec_eval_eq_zero_iff
 -- name    : GlobalTheory.ZV.FormSec.eval_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:48:35.146362+00:00
 -- url     : https://prove2.me/theorems/1620cd20-75a6-4225-b9f0-7c8b2f34a22d

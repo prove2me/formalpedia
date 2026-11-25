@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverO_restrict_pull1_bijective_of_adj
 -- name    : GlobalTheory.CoverO.restrict_pull1_bijective_of_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:04:32.880551+00:00
 -- url     : https://prove2.me/theorems/35e85ab9-6842-4061-8012-5489a2c3468b

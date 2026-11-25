@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FN_WDiv_series_bound
 -- name    : Formalism.FN.WDiv.series_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:24:53.194209+00:00
 -- url     : https://prove2.me/theorems/b34c5f60-b8fc-4a04-85ba-62ac0a95c37b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_primes_dyadic_range
 -- name    : primes_dyadic_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:15:07.658791+00:00
 -- url     : https://prove2.me/theorems/0bbc735d-646c-48e3-91c2-3031fc55620e

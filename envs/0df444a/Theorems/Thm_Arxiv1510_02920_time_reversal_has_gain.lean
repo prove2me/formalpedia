@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_time_reversal_has_gain
 -- name    : Arxiv1510_02920.time_reversal_has_gain
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:12:24.462341+00:00
 -- url     : https://prove2.me/theorems/756cb727-cb8b-4884-afb8-58c851f25563

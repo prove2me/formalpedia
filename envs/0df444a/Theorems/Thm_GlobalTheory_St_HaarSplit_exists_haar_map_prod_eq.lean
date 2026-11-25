@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_St_HaarSplit_exists_haar_map_prod_eq
 -- name    : GlobalTheory.St.HaarSplit.exists_haar_map_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:24:46.95921+00:00
 -- url     : https://prove2.me/theorems/07748a90-1f7c-45ba-8293-00f2abca7602

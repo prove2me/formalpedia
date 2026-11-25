@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_geometricallyIntegral
 -- name    : GlobalTheory.Retract.geometricallyIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:19:51.896803+00:00
 -- url     : https://prove2.me/theorems/331d7648-d69d-5186-9bd7-b6e452eb87a2

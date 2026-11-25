@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invertible_of_faithfully_flat
 -- name    : GlobalTheory.T.invertible_of_faithfully_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:35:06.468107+00:00
 -- url     : https://prove2.me/theorems/7587b7dd-fffd-49d3-894d-5fd2a09f0b06

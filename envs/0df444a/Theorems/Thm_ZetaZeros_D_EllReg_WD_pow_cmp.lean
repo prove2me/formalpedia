@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WD_pow_cmp
 -- name    : ZetaZeros.D.EllReg.WD.pow_cmp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:13:34.395577+00:00
 -- url     : https://prove2.me/theorems/d4df249f-c4c2-54f1-bdec-12a28b93f853

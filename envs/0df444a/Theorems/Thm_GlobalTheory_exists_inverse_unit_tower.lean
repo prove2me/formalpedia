@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_inverse_unit_tower
 -- name    : GlobalTheory.exists_inverse_unit_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:44:30.780647+00:00
 -- url     : https://prove2.me/theorems/89306bdb-87aa-56be-83c9-bb9cedec62fb

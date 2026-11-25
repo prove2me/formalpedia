@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_pullLE_self
 -- name    : GlobalTheory.AbLaw.SecOn.pullLE_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:40:04.161245+00:00
 -- url     : https://prove2.me/theorems/90d21969-a995-46ae-881d-8d88fdd080e4

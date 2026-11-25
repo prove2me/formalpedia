@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LowSpanCombinations_tt_eq
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LowSpanCombinations.tt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:09:00.716404+00:00
 -- url     : https://prove2.me/theorems/af0425b4-9511-40ce-b79e-1a027a7aeb43

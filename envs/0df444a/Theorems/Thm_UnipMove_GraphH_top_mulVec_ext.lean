@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_top_mulVec_ext
 -- name    : UnipMove.GraphH.top_mulVec_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:11.857145+00:00
 -- url     : https://prove2.me/theorems/52f2f94a-50a0-46fb-8675-05c31b1bdf14

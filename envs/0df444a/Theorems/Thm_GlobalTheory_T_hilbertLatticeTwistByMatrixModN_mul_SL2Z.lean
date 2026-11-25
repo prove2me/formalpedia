@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertLatticeTwistByMatrixModN_mul_SL2Z
 -- name    : GlobalTheory.T.hilbertLatticeTwistByMatrixModN_mul_SL2Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:35:20.707636+00:00
 -- url     : https://prove2.me/theorems/28e587f4-f4d2-5720-99fa-174d404826b2

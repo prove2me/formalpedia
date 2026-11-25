@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dehom_deh_sub_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dehom.deh_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:43:42.09544+00:00
 -- url     : https://prove2.me/theorems/a8e18ea0-9153-401e-b84f-8e30dafbb6f2

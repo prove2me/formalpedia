@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeomFibre_exists_field_pullback_appTop_bijective_and_triv
 -- name    : GlobalTheory.GeomFibre.exists_field_pullback_appTop_bijective_and_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:13.60253+00:00
 -- url     : https://prove2.me/theorems/7723db7c-2154-4490-b67f-58aa72b1edf9

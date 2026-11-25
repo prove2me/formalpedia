@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusValuationMatrix_isUnit_det_MuR
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusValuationMatrix.isUnit_det_MuR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:35:23.077829+00:00
 -- url     : https://prove2.me/theorems/ff1a8ae8-bc89-49f3-b139-3324525afbc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_section_lifting_residue_values
 -- name    : GlobalTheory.T.exists_section_lifting_residue_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:07.22388+00:00
 -- url     : https://prove2.me/theorems/1ff41241-7fd1-4222-a3d8-c3631f143126

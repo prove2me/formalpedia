@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_io_mem
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.io_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:36.799146+00:00
 -- url     : https://prove2.me/theorems/ef5e52c8-0371-4712-8351-3edac6b908b7

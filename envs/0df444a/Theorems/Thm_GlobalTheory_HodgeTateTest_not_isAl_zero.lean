@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateTest_not_isAl_zero
 -- name    : GlobalTheory.HodgeTateTest.not_isAl_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:06.923174+00:00
 -- url     : https://prove2.me/theorems/844e0d51-27c7-53c1-9203-c21e258b65f3

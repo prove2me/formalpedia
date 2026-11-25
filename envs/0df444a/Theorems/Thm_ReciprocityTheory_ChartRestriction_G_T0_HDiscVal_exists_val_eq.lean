@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscVal_exists_val_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscVal.exists_val_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:00:10.797053+00:00
 -- url     : https://prove2.me/theorems/c67b57bc-ea9f-4353-a2fb-375a68450154

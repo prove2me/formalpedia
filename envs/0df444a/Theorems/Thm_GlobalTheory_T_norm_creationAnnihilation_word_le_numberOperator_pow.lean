@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_creationAnnihilation_word_le_numberOperator_pow
 -- name    : GlobalTheory.T.norm_creationAnnihilation_word_le_numberOperator_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:55.974456+00:00
 -- url     : https://prove2.me/theorems/e4dccac6-4963-4339-8593-9c4d9fc44fbb

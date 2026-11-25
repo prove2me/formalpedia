@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_schwartz_partition_of_unity_lattice
 -- name    : GlobalTheory.T.exists_schwartz_partition_of_unity_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:00.374795+00:00
 -- url     : https://prove2.me/theorems/75b33162-45b6-494b-bec3-4af6391722b2

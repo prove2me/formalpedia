@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_lowUniSplit
 -- name    : lowUniSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:14:43.24714+00:00
 -- url     : https://prove2.me/theorems/4612d76d-035c-4c94-912c-cfcdede76794

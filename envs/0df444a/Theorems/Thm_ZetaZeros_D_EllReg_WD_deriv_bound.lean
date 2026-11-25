@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WD_deriv_bound
 -- name    : ZetaZeros.D.EllReg.WD.deriv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:13:27.753694+00:00
 -- url     : https://prove2.me/theorems/6a2d88ac-d981-5b5e-bd42-17ab832f3a90

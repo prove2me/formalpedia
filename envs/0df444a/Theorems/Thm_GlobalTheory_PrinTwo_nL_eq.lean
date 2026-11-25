@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_nL_eq
 -- name    : GlobalTheory.PrinTwo.nL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:16:20.800953+00:00
 -- url     : https://prove2.me/theorems/5c98f0bb-bf23-58d3-87ab-c9507094d401

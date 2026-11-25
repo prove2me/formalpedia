@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_card_eq
 -- name    : GlobalTheory.CompactDualQuot.card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:41.058901+00:00
 -- url     : https://prove2.me/theorems/f0773c86-0e7c-5a57-8a80-ed273153c6a9

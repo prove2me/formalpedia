@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LevelPairAction_LevAct_congr
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LevelPairAction.LevAct.congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:13.89124+00:00
 -- url     : https://prove2.me/theorems/0c1b9013-a6d4-5c5f-834e-33c170f32222

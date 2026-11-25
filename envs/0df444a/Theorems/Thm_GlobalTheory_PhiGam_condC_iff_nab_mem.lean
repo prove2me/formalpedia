@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_condC_iff_nab_mem
 -- name    : GlobalTheory.PhiGam.condC_iff_nab_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:29.960916+00:00
 -- url     : https://prove2.me/theorems/7618b59f-6c13-4aa1-ad26-34740796a2fe

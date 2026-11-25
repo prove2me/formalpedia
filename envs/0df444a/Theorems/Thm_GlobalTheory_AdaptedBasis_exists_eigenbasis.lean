@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedBasis_exists_eigenbasis
 -- name    : GlobalTheory.AdaptedBasis.exists_eigenbasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:48:52.222391+00:00
 -- url     : https://prove2.me/theorems/dde026cb-75a7-44ea-ac60-47b1f9aede7b

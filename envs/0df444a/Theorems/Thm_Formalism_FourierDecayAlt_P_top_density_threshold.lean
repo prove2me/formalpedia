@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_top_density_threshold
 -- name    : Formalism.FourierDecayAlt.P.top_density_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:44:12.33592+00:00
 -- url     : https://prove2.me/theorems/90d48a40-b0e1-4368-a16d-3dfb90121f1a

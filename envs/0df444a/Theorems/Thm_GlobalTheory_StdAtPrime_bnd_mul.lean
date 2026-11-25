@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StdAtPrime_bnd_mul
 -- name    : GlobalTheory.StdAtPrime.bnd_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:05.848801+00:00
 -- url     : https://prove2.me/theorems/e584312c-e14b-5a7a-a73f-283e93f0b0e7

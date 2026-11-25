@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_linearEquiv_expandsF
 -- name    : GlobalTheory.exists_linearEquiv_expandsF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:54:27.782346+00:00
 -- url     : https://prove2.me/theorems/805f4abe-3159-5a5d-a428-4a9c9c38cb87

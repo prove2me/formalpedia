@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gauss_card_arith
 -- name    : ReciprocityTheory.MultiplicativeHeights.gauss_card_arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:03:55.57834+00:00
 -- url     : https://prove2.me/theorems/c8f3d8c3-8277-55f3-96ef-a28617e65599

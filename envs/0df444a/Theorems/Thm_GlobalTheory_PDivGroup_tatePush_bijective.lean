@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_tatePush_bijective
 -- name    : GlobalTheory.PDivGroup.tatePush_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:22:42.197389+00:00
 -- url     : https://prove2.me/theorems/ff7ff92e-70d9-441b-9120-94d68225937d

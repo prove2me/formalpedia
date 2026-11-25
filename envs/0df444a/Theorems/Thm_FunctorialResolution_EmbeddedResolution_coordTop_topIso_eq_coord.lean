@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_coordTop_topIso_eq_coord
 -- name    : FunctorialResolution.EmbeddedResolution.coordTop_topIso_eq_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:46.634207+00:00
 -- url     : https://prove2.me/theorems/1f4cabcf-c944-4491-8472-3c6c8c7f4729

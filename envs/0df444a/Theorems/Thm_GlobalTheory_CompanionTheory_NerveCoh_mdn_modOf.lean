@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_mdn_modOf
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.mdn_modOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:57.775074+00:00
 -- url     : https://prove2.me/theorems/d0e9cfc0-22e4-4850-aa4e-48f840c5ad9c

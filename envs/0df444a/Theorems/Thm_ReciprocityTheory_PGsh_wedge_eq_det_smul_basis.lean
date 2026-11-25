@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_wedge_eq_det_smul_basis
 -- name    : ReciprocityTheory.PGsh.wedge_eq_det_smul_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:09:35.411813+00:00
 -- url     : https://prove2.me/theorems/9399442e-3055-5ce1-ac2f-e6ec51e18fbe

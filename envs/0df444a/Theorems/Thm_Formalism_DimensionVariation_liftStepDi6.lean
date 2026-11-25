@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_liftStepDi6
 -- name    : Formalism.DimensionVariation.liftStepDi6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:25:11.196803+00:00
 -- url     : https://prove2.me/theorems/64f2e184-a6af-4195-9515-7ea461dc0f67

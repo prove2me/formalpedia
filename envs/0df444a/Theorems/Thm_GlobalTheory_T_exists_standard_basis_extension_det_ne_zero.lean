@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_standard_basis_extension_det_ne_zero
 -- name    : GlobalTheory.T.exists_standard_basis_extension_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:30:54.418045+00:00
 -- url     : https://prove2.me/theorems/9548fd60-4920-52df-8fb6-d4ab95c60eaf

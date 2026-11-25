@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_map_smul_one_matrix
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.map_smul_one_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:21:27.92111+00:00
 -- url     : https://prove2.me/theorems/978ec520-fea5-4f30-ba1b-e333415d438a

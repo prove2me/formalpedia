@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LiftF_IsThetaP_unique
 -- name    : Formalism.IndefR.LiftF.IsThetaP.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:42:13.938346+00:00
 -- url     : https://prove2.me/theorems/212d430c-6bec-4c4e-b338-ff324a0f51a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_IsFrob_pow_apply
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.IsFrob.pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:55:44.002777+00:00
 -- url     : https://prove2.me/theorems/4f019e7c-7033-416d-822c-d86bddcdee2a

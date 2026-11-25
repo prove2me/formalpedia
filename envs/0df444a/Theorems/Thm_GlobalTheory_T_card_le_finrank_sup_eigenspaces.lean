@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_le_finrank_sup_eigenspaces
 -- name    : GlobalTheory.T.card_le_finrank_sup_eigenspaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:23.99785+00:00
 -- url     : https://prove2.me/theorems/07fd8dee-ec4f-5607-ab31-07acf7dc7d56

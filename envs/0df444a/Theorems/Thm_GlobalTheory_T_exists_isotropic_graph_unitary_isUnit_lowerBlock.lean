@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isotropic_graph_unitary_isUnit_lowerBlock
 -- name    : GlobalTheory.T.exists_isotropic_graph_unitary_isUnit_lowerBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:46.068245+00:00
 -- url     : https://prove2.me/theorems/8486b53b-e148-4bed-8efa-094723f4e56b

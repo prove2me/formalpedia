@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chamber_isPar_stdPar
 -- name    : GlobalTheory.Chamber.isPar_stdPar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:35.73853+00:00
 -- url     : https://prove2.me/theorems/013c8088-0dae-459d-a40f-3c74c8a8e2ce

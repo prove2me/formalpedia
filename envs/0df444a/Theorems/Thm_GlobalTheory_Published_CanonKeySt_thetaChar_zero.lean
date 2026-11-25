@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_CanonKeySt_thetaChar_zero
 -- name    : GlobalTheory.Published.CanonKeySt.thetaChar_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:22:43.509346+00:00
 -- url     : https://prove2.me/theorems/4e6dd307-6735-420d-895d-d4678bcf7648

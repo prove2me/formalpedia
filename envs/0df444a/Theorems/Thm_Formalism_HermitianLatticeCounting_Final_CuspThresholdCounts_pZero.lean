@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_CuspThresholdCounts_pZero
 -- name    : Formalism.HermitianLatticeCounting.Final.CuspThresholdCounts.pZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:38:22.975634+00:00
 -- url     : https://prove2.me/theorems/3648f5c4-5276-5009-afd6-083f3943bd4b

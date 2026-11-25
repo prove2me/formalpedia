@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_pa_Z_lim
 -- name    : ReciprocityTheory.Cheb.pa_Z_lim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:31.46688+00:00
 -- url     : https://prove2.me/theorems/3684adef-1c92-4126-91dd-779ddb45c3d7

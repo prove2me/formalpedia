@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_norm_weierstrassP_sub_eq_one
 -- name    : GlobalTheory.Klein.norm_weierstrassP_sub_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:12:57.474258+00:00
 -- url     : https://prove2.me/theorems/54572a43-07f4-4d28-8da6-0914aff8ab10

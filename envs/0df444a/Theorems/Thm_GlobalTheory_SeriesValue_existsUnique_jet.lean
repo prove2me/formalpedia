@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesValue_existsUnique_jet
 -- name    : GlobalTheory.SeriesValue.existsUnique_jet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:49:16.38196+00:00
 -- url     : https://prove2.me/theorems/55773ea8-ba84-4c17-85a9-9d119ec568e3

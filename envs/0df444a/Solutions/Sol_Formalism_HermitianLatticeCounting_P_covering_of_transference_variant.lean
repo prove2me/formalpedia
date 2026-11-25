@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticeCounting.P.covering_of_transference_variant
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T17:19:38.866271+00:00
+-- url     : https://prove2.me/submissions/3cce562a-0445-49fc-be84-0e652f94c03a
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_CardSubmodulesAndLinearEquivBounds
+import Definitions.Def_Formalism_FlagUnipotentLattices_SubmoduleGeneratorsBound
+import Definitions.Def_Formalism_FlagUnipotentLattices_CoveringRadius2
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SumComplexEmbeddingsEqSumInfinitePlace
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LatticeSumTupleOfLatticeSumTuple
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransferenceCover
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransferenceCoveringDivisor
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_Residue
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_CoveringOfTransferenceVariant
+import Theorems.Thm_Formalism_HermitianLatticeCounting_P_transference_principle
+import Theorems.Thm_P2M_Formalism_HermitianLatticeCounting_P_coveringO__of_transference_9aab640b96fd
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.P
+namespace Formalism.HermitianLatticeCounting.P
+theorem _root_.solution : Formalism.HermitianLatticeCounting.LatticeSumBounds.CoveringO' := coveringO'_of_transference transference_principle
+end Formalism.HermitianLatticeCounting.P

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_numerical_price
 -- name    : Formalism.FourierDecayAlt.P.numerical_price
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:49.431639+00:00
 -- url     : https://prove2.me/theorems/49fc209b-702f-41ce-b706-b54cc7272ac8

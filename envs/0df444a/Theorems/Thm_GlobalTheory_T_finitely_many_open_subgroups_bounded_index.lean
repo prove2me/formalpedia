@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finitely_many_open_subgroups_bounded_index
 -- name    : GlobalTheory.T.finitely_many_open_subgroups_bounded_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:13.772826+00:00
 -- url     : https://prove2.me/theorems/08486c60-c44e-5066-adb9-6ad3dd1c15a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_RepMap_coord_germ
 -- name    : GlobalTheory.ZM.RepMap.coord_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:59:37.120287+00:00
 -- url     : https://prove2.me/theorems/d12a7587-da47-4f3f-a67b-9759813be463

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedLatticeOperators_IndexDeterminantCharacterSums_affine_fibre_count_comparison
 -- name    : Formalism.HermitianLattices.RamifiedLatticeOperators.IndexDeterminantCharacterSums.affine_fibre_count_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:48:35.652012+00:00
 -- url     : https://prove2.me/theorems/c54dbf8a-6d99-46fd-a71c-a21c8e80182c

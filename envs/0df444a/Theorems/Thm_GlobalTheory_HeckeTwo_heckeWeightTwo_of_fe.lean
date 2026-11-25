@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_heckeWeightTwo_of_fe
 -- name    : GlobalTheory.HeckeTwo.heckeWeightTwo_of_fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:14:54.528794+00:00
 -- url     : https://prove2.me/theorems/0df0a40b-ba89-45aa-a09f-a79b16cd8e89

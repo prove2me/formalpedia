@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_v_one
 -- name    : Formalism.UG.P.fSatake_v_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:28.532744+00:00
 -- url     : https://prove2.me/theorems/1589dc2a-d4d3-4f32-9c98-e449f62354e6

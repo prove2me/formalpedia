@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FirstMinimum_cmType_nonempty
 -- name    : GlobalTheory.FirstMinimum.cmType_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:23.965543+00:00
 -- url     : https://prove2.me/theorems/4539a7f5-31fa-45e0-9679-8c4d1cd61bee

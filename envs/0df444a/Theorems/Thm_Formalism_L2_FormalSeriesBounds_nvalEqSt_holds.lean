@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_nvalEqSt_holds
 -- name    : Formalism.L2.FormalSeriesBounds.nvalEqSt_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:46:46.463306+00:00
 -- url     : https://prove2.me/theorems/59c29910-c078-44d0-ab0e-b0ce9263f2bd

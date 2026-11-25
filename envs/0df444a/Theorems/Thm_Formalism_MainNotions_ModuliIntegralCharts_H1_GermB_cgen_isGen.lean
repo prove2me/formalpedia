@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_cgen_isGen
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.cgen_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:20.704844+00:00
 -- url     : https://prove2.me/theorems/eb55a667-a114-47d7-897c-ecae54f62cdc

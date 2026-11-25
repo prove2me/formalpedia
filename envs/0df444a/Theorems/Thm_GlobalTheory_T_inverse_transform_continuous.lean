@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inverse_transform_continuous
 -- name    : GlobalTheory.T.inverse_transform_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:47:16.237055+00:00
 -- url     : https://prove2.me/theorems/3e665990-1ad0-4cc4-b974-2b28e82555fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_muMax_mono
 -- name    : GlobalTheory.ArchMetric.muMax_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:55:27.986376+00:00
 -- url     : https://prove2.me/theorems/9e0b080e-4e8e-4f30-b0b4-00661e7039b7

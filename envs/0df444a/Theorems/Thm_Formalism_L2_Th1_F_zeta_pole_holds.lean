@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_zeta_pole_holds
 -- name    : Formalism.L2.Th1.F.zeta_pole_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:49:50.170231+00:00
 -- url     : https://prove2.me/theorems/b86ae5ed-719b-442e-85fe-8b438ba75c75

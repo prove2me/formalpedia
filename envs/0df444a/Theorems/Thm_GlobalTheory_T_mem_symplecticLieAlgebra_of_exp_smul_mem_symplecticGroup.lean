@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_symplecticLieAlgebra_of_exp_smul_mem_symplecticGroup
 -- name    : GlobalTheory.T.mem_symplecticLieAlgebra_of_exp_smul_mem_symplecticGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:11.857828+00:00
 -- url     : https://prove2.me/theorems/3f465625-9cdb-5448-9835-eef913ca62e2

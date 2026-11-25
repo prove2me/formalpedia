@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_arithmetic_reflected_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.arithmetic_reflected_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:03.710269+00:00
 -- url     : https://prove2.me/theorems/39b0187d-cba4-4c1a-b594-8028b223bf6d

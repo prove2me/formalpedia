@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_mem_cutLat
 -- name    : GlobalTheory.LevDesc.mem_cutLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:06.861178+00:00
 -- url     : https://prove2.me/theorems/09934fbc-7823-4cc4-b642-934561a8073f

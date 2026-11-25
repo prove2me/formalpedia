@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos679_eventually_log_factorial_le
 -- name    : Erdos679.eventually_log_factorial_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:01:14.295947+00:00
 -- url     : https://prove2.me/theorems/b92a7929-9f1e-4bc4-912c-a62f347af44a

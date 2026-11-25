@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_ker_eval_le_of_place
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.ker_eval_le_of_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:14:28.082869+00:00
 -- url     : https://prove2.me/theorems/2a988c80-b80c-4211-9564-0396fcf7ab2f

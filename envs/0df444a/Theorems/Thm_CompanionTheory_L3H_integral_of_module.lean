@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_L3H_integral_of_module
 -- name    : CompanionTheory.L3H.integral_of_module
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:20:12.181081+00:00
 -- url     : https://prove2.me/theorems/9b8769b9-a1a7-450e-ae2b-1886d8336d92

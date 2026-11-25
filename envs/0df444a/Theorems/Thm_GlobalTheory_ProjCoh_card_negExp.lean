@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCoh_card_negExp
 -- name    : GlobalTheory.ProjCoh.card_negExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:51.13341+00:00
 -- url     : https://prove2.me/theorems/d18f5b2c-32ef-58e7-9a01-8b154921b9be

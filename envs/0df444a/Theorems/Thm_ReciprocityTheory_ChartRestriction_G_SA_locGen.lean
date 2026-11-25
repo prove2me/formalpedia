@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_locGen
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.locGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:23.984598+00:00
 -- url     : https://prove2.me/theorems/b7d1b53e-fffd-41a0-b62e-b78a64e76899

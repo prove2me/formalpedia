@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_ClsKer_appOf_eq_csOf
 -- name    : Formalism.L2.Col.ClsKer.appOf_eq_csOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:06.598819+00:00
 -- url     : https://prove2.me/theorems/d2b20ea9-f047-5d48-b337-4c48986b4b70

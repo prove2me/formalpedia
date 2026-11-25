@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilPullNoncomm_manyChart_isLB
 -- name    : GlobalTheory.WeilPullNoncomm.manyChart_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:20:18.400931+00:00
 -- url     : https://prove2.me/theorems/27f2026f-c87d-4752-8cff-ecd5b4ae8299

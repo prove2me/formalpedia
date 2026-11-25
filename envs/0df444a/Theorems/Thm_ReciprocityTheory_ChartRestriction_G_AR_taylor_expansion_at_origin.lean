@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_taylor_expansion_at_origin
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.taylor_expansion_at_origin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:05:36.298124+00:00
 -- url     : https://prove2.me/theorems/a8d006cc-87b4-4fc4-bd04-427b27008da5

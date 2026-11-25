@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocDualInt_smul_mem_powSub
 -- name    : GlobalTheory.LocDualInt.smul_mem_powSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:19:24.108242+00:00
 -- url     : https://prove2.me/theorems/2549f25e-eeb7-5e8c-a394-bc10f37a757b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Inhab_rank_eq_of_std
 -- name    : GlobalTheory.RowLev.Inhab.rank_eq_of_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:13.417258+00:00
 -- url     : https://prove2.me/theorems/6c435d60-f0b3-5b6f-9f91-f714e51ef068

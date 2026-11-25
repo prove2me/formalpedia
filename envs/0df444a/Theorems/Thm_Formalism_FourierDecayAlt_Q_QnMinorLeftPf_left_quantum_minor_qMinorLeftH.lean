@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_QnMinorLeftPf_left_quantum_minor_qMinorLeftH
 -- name    : Formalism.FourierDecayAlt.Q.QnMinorLeftPf.left_quantum_minor_qMinorLeftH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:37:22.690797+00:00
 -- url     : https://prove2.me/theorems/60b5ac0e-7971-46da-9339-d791cc63bf5c

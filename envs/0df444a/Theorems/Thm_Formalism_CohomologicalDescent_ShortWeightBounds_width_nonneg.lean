@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_width_nonneg
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.width_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:34:28.99264+00:00
 -- url     : https://prove2.me/theorems/029d7e31-1e7c-5a6b-9926-2a42bc5c75c6

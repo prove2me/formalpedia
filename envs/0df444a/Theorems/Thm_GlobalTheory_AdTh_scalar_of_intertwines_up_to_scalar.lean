@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdTh_scalar_of_intertwines_up_to_scalar
 -- name    : GlobalTheory.AdTh.scalar_of_intertwines_up_to_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:26.274197+00:00
 -- url     : https://prove2.me/theorems/2ed88ec0-cd2b-5918-8f6f-f3e9550272b1

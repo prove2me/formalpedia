@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCoverDatum_zetaM_cover
 -- name    : GlobalTheory.LevelCoverDatum.zetaM_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:19:53.804375+00:00
 -- url     : https://prove2.me/theorems/ab4ff3ff-992f-4206-bee8-3ec6e7403300

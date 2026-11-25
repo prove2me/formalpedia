@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusGrading_chV_comp
 -- name    : GlobalTheory.TorusGrading.chV_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:58:47.203993+00:00
 -- url     : https://prove2.me/theorems/8c53952a-d6f3-4ad0-889c-fb7f79e9afb1

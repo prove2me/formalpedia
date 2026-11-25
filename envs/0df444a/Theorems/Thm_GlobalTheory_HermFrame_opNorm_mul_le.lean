@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_opNorm_mul_le
 -- name    : GlobalTheory.HermFrame.opNorm_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:07:09.479924+00:00
 -- url     : https://prove2.me/theorems/67a92ea3-7729-449e-b6b1-2810d3104588

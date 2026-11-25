@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_theta_halfVec_sq_transform
 -- name    : GlobalTheory.theta_halfVec_sq_transform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:54.550311+00:00
 -- url     : https://prove2.me/theorems/7f300ebb-5147-47ce-8f04-061b14380933

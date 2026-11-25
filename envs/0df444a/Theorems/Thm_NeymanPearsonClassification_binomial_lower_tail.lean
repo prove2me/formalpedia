@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeymanPearsonClassification_binomial_lower_tail
 -- name    : NeymanPearsonClassification.binomial_lower_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:45:33.514181+00:00
 -- url     : https://prove2.me/theorems/9f87280f-1a93-4703-8d25-d450c198f58f

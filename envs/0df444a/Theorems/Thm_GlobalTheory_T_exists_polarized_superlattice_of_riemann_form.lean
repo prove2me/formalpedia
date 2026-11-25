@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_polarized_superlattice_of_riemann_form
 -- name    : GlobalTheory.T.exists_polarized_superlattice_of_riemann_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:30:36.738205+00:00
 -- url     : https://prove2.me/theorems/2f9553d8-46ce-40dc-9dda-605a5d175949

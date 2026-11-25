@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_torsionOrder_le
 -- name    : UpperTheory.Mu.torsionOrder_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:31.640036+00:00
 -- url     : https://prove2.me/theorems/4d279a79-cae3-48a6-bc44-38bbc62798e6

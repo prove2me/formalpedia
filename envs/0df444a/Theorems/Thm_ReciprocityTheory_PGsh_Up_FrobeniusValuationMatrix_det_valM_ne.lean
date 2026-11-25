@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusValuationMatrix_det_valM_ne
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusValuationMatrix.det_valM_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:20.550169+00:00
 -- url     : https://prove2.me/theorems/612e27ba-aa91-4dc5-ad8f-1277a79b2876

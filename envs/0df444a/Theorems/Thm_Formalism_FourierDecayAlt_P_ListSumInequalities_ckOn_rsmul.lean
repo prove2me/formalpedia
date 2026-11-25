@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumInequalities_ckOn_rsmul
 -- name    : Formalism.FourierDecayAlt.P.ListSumInequalities.ckOn_rsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:27:40.518707+00:00
 -- url     : https://prove2.me/theorems/6b50ff0e-7dab-40c7-a4c2-8e56840ba2e0

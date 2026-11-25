@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_opAdj
 -- name    : PositivityTheory.Rg.BcB.E1.opAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:21.908648+00:00
 -- url     : https://prove2.me/theorems/5c4cc5e1-2ecd-4fa3-bfbd-be185112b1a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_apply_mem_irreducibleComponent_iff_of_flat
 -- name    : FunctorialResolution.EmbeddedResolution.apply_mem_irreducibleComponent_iff_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:52:46.591857+00:00
 -- url     : https://prove2.me/theorems/cf43ede0-f248-5bd7-bbba-1442546cf6a3

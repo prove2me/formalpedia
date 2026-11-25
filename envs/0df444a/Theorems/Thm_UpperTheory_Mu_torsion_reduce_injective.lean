@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_torsion_reduce_injective
 -- name    : UpperTheory.Mu.torsion_reduce_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:18.526266+00:00
 -- url     : https://prove2.me/theorems/69ae2150-d921-4bde-980d-78b769046430

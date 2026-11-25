@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_isoTransfer_proof2
 -- name    : Formalism.NuclearRankWeightBounds.P.isoTransfer_proof2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:52:00.559146+00:00
 -- url     : https://prove2.me/theorems/b2962f07-d373-48cd-90d1-3f22be6718f3

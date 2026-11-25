@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseCompl_continuous_of_valued_eq
 -- name    : GlobalTheory.DenseCompl.continuous_of_valued_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:27.943805+00:00
 -- url     : https://prove2.me/theorems/79786a5d-6bea-4747-9408-9341e45d0eb6

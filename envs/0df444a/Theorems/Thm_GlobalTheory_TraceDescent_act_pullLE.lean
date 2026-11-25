@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDescent_act_pullLE
 -- name    : GlobalTheory.TraceDescent.act_pullLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:03:06.800298+00:00
 -- url     : https://prove2.me/theorems/385364d9-8ea5-56ab-b2d2-8aa0a94b7e84

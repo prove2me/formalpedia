@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_extendedWeightWeylDimension_term_le
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.extendedWeightWeylDimension.term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:51.412623+00:00
 -- url     : https://prove2.me/theorems/518a5046-8c37-5f05-bae2-0b434c8cd43a

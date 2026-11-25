@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_neg_log_norm_coeff_le_finitePlaces
 -- name    : ReciprocityTheory.MultiplicativeHeights.neg_log_norm_coeff_le_finitePlaces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:35.556832+00:00
 -- url     : https://prove2.me/theorems/26cd5f4b-6f2d-4a8b-b0d2-bde9d1577ec9

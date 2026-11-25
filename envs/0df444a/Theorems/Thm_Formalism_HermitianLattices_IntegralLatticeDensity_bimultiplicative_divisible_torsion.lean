@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_bimultiplicative_divisible_torsion
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.bimultiplicative_divisible_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:17.076471+00:00
 -- url     : https://prove2.me/theorems/c619a43f-0036-47ce-9a73-d3af8edcbcbf

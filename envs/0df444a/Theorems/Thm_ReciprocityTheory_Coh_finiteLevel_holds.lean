@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_finiteLevel_holds
 -- name    : ReciprocityTheory.Coh.finiteLevel_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:10.046793+00:00
 -- url     : https://prove2.me/theorems/6a5486d1-e676-47cf-a2a7-e4bd7061a227

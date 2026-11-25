@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_jW_natCast
 -- name    : Formalism.L2.G.jW_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:44:52.686319+00:00
 -- url     : https://prove2.me/theorems/e6d8f328-81fe-5035-93cd-d119542f5462

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_cupHyp_add_cupHyp_swap
 -- name    : GlobalTheory.AbCoh.cupHyp_add_cupHyp_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:04:25.704717+00:00
 -- url     : https://prove2.me/theorems/15a95e28-5262-4bd0-9d9f-9f428a304827

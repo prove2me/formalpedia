@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_exists_isDiscPoint
 -- name    : GlobalTheory.DiscEval.exists_isDiscPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:00:11.918045+00:00
 -- url     : https://prove2.me/theorems/50acbc76-a49e-53dd-9880-45908bf173be

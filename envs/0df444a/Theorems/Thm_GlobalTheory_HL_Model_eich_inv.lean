@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_eich_inv
 -- name    : GlobalTheory.HL.Model.eich_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:41.230388+00:00
 -- url     : https://prove2.me/theorems/85e8c94d-938c-496e-9b92-fb183ee34527

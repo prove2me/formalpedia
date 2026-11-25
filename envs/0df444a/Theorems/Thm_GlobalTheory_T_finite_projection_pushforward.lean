@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_projection_pushforward
 -- name    : GlobalTheory.T.finite_projection_pushforward
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:31.791007+00:00
 -- url     : https://prove2.me/theorems/895b13ed-908a-492c-b84f-342a4dc5c44b

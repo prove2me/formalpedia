@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_two_mem
 -- name    : UpperTheory.Small.two_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:23:40.958061+00:00
 -- url     : https://prove2.me/theorems/0041ad41-6667-4985-a9f7-5f57e0285f5c

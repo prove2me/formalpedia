@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_automorphic_forms_level_finite_holds
 -- name    : Formalism.UG.P.automorphic_forms_level_finite_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:57:36.545802+00:00
 -- url     : https://prove2.me/theorems/4c8555a8-2478-53f9-86bf-0f8ba9c9916d

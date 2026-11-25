@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_FinCd2_of_comp
 -- name    : ReciprocityTheory.Neutral.Bridge.FinCd2.of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:05:06.012523+00:00
 -- url     : https://prove2.me/theorems/244820b8-8c71-407c-a5e7-09478a1e32ad

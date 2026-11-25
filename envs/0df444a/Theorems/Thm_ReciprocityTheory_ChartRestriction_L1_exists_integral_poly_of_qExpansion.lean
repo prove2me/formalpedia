@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_integral_poly_of_qExpansion
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_integral_poly_of_qExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:40.516154+00:00
 -- url     : https://prove2.me/theorems/2751c72a-472c-4d71-a90a-8361e5a472b0

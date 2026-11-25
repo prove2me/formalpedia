@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Reg_aeval_dual
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Reg.aeval_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:39:11.066429+00:00
 -- url     : https://prove2.me/theorems/ed2c68df-14b2-4186-a413-4450b871b37c

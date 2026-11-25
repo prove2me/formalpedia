@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_dim_indep
 -- name    : Formalism.L2.Col.GSD.dim_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:43:57.122735+00:00
 -- url     : https://prove2.me/theorems/6b68c146-58e5-4738-9004-15a01974ccb0

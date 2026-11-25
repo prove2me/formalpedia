@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Half_herm_add_left
 -- name    : GlobalTheory.AdLat.Half.herm_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:38.936662+00:00
 -- url     : https://prove2.me/theorems/5c4223a5-7190-4557-ade2-a1ba5cfa6afe

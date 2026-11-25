@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_isIrreducible_iff
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.isIrreducible_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:16:10.613896+00:00
 -- url     : https://prove2.me/theorems/206c0e0d-7219-4c75-907d-1aeccbdb8eb9

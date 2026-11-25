@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LineThrough_exists_prime_dimensionLEOne_avoiding
 -- name    : GlobalTheory.LineThrough.exists_prime_dimensionLEOne_avoiding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:13:42.887562+00:00
 -- url     : https://prove2.me/theorems/33d526af-50cd-4468-a752-69939aea03bb

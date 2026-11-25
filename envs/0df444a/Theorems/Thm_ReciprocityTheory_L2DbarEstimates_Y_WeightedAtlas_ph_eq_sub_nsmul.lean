@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_ph_eq_sub_nsmul
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.ph_eq_sub_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:37.29704+00:00
 -- url     : https://prove2.me/theorems/1b943477-07fc-5eec-b969-2a522dd8ce78

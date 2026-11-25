@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConj_pair_add
 -- name    : GlobalTheory.JetConj.pair_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:11:39.784016+00:00
 -- url     : https://prove2.me/theorems/cfac35b6-893c-4607-9015-6f3aefd77c53

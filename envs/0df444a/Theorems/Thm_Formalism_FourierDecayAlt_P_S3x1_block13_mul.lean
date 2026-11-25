@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x1_block13_mul
 -- name    : Formalism.FourierDecayAlt.P.S3x1.block13_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:26:18.926443+00:00
 -- url     : https://prove2.me/theorems/849f25a5-9150-47dd-aba3-e497504a98bd

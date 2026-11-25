@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Couple_psi_eq_sum_coupIdx
 -- name    : GlobalTheory.Couple.psi_eq_sum_coupIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:37.609929+00:00
 -- url     : https://prove2.me/theorems/1a748adc-03d6-56df-bce3-d480ec1f96be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_eichlerTransformProperties
 -- name    : Formalism.HermitianLatticeCounting.P.eichlerTransformProperties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:38:37.004804+00:00
 -- url     : https://prove2.me/theorems/8f33e4d1-70fe-55ad-8ef4-64ed7f19d99a

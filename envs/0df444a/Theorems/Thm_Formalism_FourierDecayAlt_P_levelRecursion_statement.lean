@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_levelRecursion_statement
 -- name    : Formalism.FourierDecayAlt.P.levelRecursion_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:33:25.163977+00:00
 -- url     : https://prove2.me/theorems/a6f9dfd8-b275-4086-b2bf-90ab14467001

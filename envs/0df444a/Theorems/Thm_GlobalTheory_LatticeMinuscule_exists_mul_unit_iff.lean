@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeMinuscule_exists_mul_unit_iff
 -- name    : GlobalTheory.LatticeMinuscule.exists_mul_unit_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:15.500334+00:00
 -- url     : https://prove2.me/theorems/5bf04fab-3601-420c-abaf-e1459083b80b

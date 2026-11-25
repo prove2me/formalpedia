@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_sphereQuadraticPositivity_symPart_isHermitian
 -- name    : ReciprocityTheory.PTheta.sphereQuadraticPositivity.symPart_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:41.273005+00:00
 -- url     : https://prove2.me/theorems/05e91075-63fd-43c4-a8c8-9fcc37ee0060

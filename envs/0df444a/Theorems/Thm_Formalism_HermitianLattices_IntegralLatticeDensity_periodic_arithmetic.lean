@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_periodic_arithmetic
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.periodic_arithmetic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:29.649133+00:00
 -- url     : https://prove2.me/theorems/afc0b030-594f-44af-871f-16c3a0c9f306

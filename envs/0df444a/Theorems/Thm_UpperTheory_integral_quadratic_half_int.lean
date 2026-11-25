@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_integral_quadratic_half_int
 -- name    : UpperTheory.integral_quadratic_half_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:12:50.168899+00:00
 -- url     : https://prove2.me/theorems/02f34aeb-ab72-4679-ad33-999b2ab554c2

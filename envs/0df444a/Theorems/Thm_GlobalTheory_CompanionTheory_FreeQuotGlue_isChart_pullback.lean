@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FreeQuotGlue_isChart_pullback
 -- name    : GlobalTheory.CompanionTheory.FreeQuotGlue.isChart_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:00.162918+00:00
 -- url     : https://prove2.me/theorems/a76ef6f0-1a62-4585-8425-8e0bf3306c3e

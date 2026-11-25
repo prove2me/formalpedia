@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_exponents_and_choose_ratio_bounds_pair
 -- name    : GlobalTheory.T.card_exponents_and_choose_ratio_bounds_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:36:59.774855+00:00
 -- url     : https://prove2.me/theorems/aba27fc7-c47b-40bd-9e90-99b30b25a780

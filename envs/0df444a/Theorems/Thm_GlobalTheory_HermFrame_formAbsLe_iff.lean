@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_formAbsLe_iff
 -- name    : GlobalTheory.HermFrame.formAbsLe_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:51.122736+00:00
 -- url     : https://prove2.me/theorems/46799ef3-bf64-5c83-ac7a-112d150bd3ad

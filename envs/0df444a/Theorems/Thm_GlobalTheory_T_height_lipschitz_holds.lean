@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_height_lipschitz_holds
 -- name    : GlobalTheory.T.height_lipschitz_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:45.1432+00:00
 -- url     : https://prove2.me/theorems/cf6d650c-7c0e-4cac-b881-fbad435dd2f3

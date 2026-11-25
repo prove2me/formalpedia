@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_FinitenessModel_admissible_of_subsingleton
 -- name    : GlobalTheory.SmGL.FinitenessModel.admissible_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:23:50.361712+00:00
 -- url     : https://prove2.me/theorems/b397feb4-c120-580f-b150-60204f00dcc2

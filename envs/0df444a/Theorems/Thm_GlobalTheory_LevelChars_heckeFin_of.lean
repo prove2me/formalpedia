@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelChars_heckeFin_of
 -- name    : GlobalTheory.LevelChars.heckeFin_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:09.286743+00:00
 -- url     : https://prove2.me/theorems/bcc91d80-8abf-5989-b32c-5514377b340c

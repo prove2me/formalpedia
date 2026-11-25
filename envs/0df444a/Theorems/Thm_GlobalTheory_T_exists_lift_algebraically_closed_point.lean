@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lift_algebraically_closed_point
 -- name    : GlobalTheory.T.exists_lift_algebraically_closed_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:12.818369+00:00
 -- url     : https://prove2.me/theorems/9011b79e-9fbb-411d-866b-41a14ab5e238

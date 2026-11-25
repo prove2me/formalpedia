@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_heightLowerBound_of_sj_of_sphereLogIntegrable
 -- name    : ReciprocityTheory.MultiplicativeHeights.heightLowerBound_of_sj_of_sphereLogIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:03:50.067376+00:00
 -- url     : https://prove2.me/theorems/b8e626fb-eaea-5d50-b598-5ce24fdabd6d

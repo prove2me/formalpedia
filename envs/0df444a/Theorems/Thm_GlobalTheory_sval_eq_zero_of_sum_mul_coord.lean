@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sval_eq_zero_of_sum_mul_coord
 -- name    : GlobalTheory.sval_eq_zero_of_sum_mul_coord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:00.120534+00:00
 -- url     : https://prove2.me/theorems/edeb4697-c466-402b-8f01-150ece2e80c8

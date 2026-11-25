@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_chain_sum_identity
 -- name    : Formalism.FourierDecayAlt.P.chain_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:30:08.899921+00:00
 -- url     : https://prove2.me/theorems/631a7220-5564-5e23-8693-1b9c61f76981

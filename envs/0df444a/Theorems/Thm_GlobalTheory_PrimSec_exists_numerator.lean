@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimSec_exists_numerator
 -- name    : GlobalTheory.PrimSec.exists_numerator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:59:46.389349+00:00
 -- url     : https://prove2.me/theorems/ca6da5ef-43b5-4f7c-ad2c-5fd8ad273394

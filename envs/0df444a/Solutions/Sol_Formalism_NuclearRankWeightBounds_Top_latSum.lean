@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for Formalism.NuclearRankWeightBounds.Top.latSum
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T17:24:08.091452+00:00
+-- url     : https://prove2.me/submissions/9edf8814-9cc5-4e2f-9c33-939ddca72175
+
+import Definitions.Def_Formalism_LogSumExpBounds_StatementE
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_LogSumExpBoundHolds
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_NuclearNormBoundHolds
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_RankLeOfSupport
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_WeightedOffDiagonalHolds
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_KappaModulusHolds
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_DetMulDiagonalMulEqSum
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_DescEquivLiftEquiv
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_LatSum
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_DecayAsm
+import Definitions.Def_Formalism_LogSumExpBounds_CharacterSumPhase_ZLiftAsm
+import Definitions.Def_Formalism_LogSumExpBounds_IsoTransfer
+import Theorems.Thm_Formalism_NuclearRankWeightBounds_P_lattice_sum_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.NuclearRankWeightBounds Formalism.NuclearRankWeightBounds.Top
+namespace Formalism.NuclearRankWeightBounds.Top
+theorem _root_.solution : Formalism.NuclearRankWeightBounds.Z.LatSum := Formalism.NuclearRankWeightBounds.P.lattice_sum_holds
+end Formalism.NuclearRankWeightBounds.Top

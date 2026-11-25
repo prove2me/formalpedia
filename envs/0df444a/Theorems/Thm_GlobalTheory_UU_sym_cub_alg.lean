@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_sym_cub_alg
 -- name    : GlobalTheory.UU.sym_cub_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:44:42.949186+00:00
 -- url     : https://prove2.me/theorems/d86d5eaa-3c16-4c57-900a-f1e62dafa87d

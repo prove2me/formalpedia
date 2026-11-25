@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_t_ConstSign
 -- name    : Formalism.FourierDecayAlt.P.LEx2.t_ConstSign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:27:08.139421+00:00
 -- url     : https://prove2.me/theorems/28daefe3-097c-45db-8a80-7c67ed994ab9

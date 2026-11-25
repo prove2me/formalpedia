@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_fdegPerm
 -- name    : Formalism.QuantumDeterminants.fdegPerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:58.168861+00:00
 -- url     : https://prove2.me/theorems/b34c7d93-8183-43ed-955d-043f1213cda1

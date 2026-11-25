@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_measurePreserving_tmUpd
 -- name    : ReciprocityTheory.MultiplicativeHeights.measurePreserving_tmUpd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:02:32.5938+00:00
 -- url     : https://prove2.me/theorems/aa770980-cbdf-464d-a9b5-cc03d2ff77b2

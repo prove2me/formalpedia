@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0812_1178_closure_kernel_eq_baseline_range
 -- name    : Arxiv0812_1178.closure_kernel_eq_baseline_range
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:48:07.946064+00:00
 -- url     : https://prove2.me/theorems/edaa5712-1313-46d0-b3cc-e55529cfba3d

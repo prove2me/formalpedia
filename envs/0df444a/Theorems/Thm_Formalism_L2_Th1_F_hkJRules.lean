@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hkJRules
 -- name    : Formalism.L2.Th1.F.hkJRules
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:50:00.895658+00:00
 -- url     : https://prove2.me/theorems/b791937c-91a9-5953-957c-7ce61187ec12

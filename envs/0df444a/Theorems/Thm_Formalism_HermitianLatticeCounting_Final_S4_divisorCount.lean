@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_divisorCount
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.divisorCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:36:58.921114+00:00
 -- url     : https://prove2.me/theorems/2f8c7632-b80e-4d50-b061-693925ff317e

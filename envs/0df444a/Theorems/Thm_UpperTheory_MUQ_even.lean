@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_MUQ_even
 -- name    : UpperTheory.MUQ.even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:00.15111+00:00
 -- url     : https://prove2.me/theorems/75afd99d-e6d5-49b8-9f33-bf4a6882693f

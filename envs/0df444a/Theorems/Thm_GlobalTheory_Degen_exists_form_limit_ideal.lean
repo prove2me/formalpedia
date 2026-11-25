@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Degen_exists_form_limit_ideal
 -- name    : GlobalTheory.Degen.exists_form_limit_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:14.531856+00:00
 -- url     : https://prove2.me/theorems/a1262e8b-ee29-4df1-a182-069c95386cf1

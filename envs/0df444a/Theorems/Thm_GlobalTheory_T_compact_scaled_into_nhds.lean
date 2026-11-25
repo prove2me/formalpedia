@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_compact_scaled_into_nhds
 -- name    : GlobalTheory.T.compact_scaled_into_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:27:52.92248+00:00
 -- url     : https://prove2.me/theorems/3bee63ae-d676-43e4-96ff-6e2156465fcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_isExactTriple_plus
 -- name    : GlobalTheory.BK.PhiMod.isExactTriple_plus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:57:00.809494+00:00
 -- url     : https://prove2.me/theorems/2037dffc-c226-50ab-8acd-e2e1a2d22759

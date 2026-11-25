@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_whittaker_functional_dual
 -- name    : whittaker_functional_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:20:17.081645+00:00
 -- url     : https://prove2.me/theorems/1ffbaafa-9313-4b76-be2e-1763a75dfde3

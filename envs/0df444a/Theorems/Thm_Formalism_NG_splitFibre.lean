@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_splitFibre
 -- name    : Formalism.NG.splitFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:52:29.736836+00:00
 -- url     : https://prove2.me/theorems/eae61812-c88e-4bc7-988d-5a516e61a919

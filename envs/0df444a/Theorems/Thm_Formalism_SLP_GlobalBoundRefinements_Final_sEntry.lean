@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_Final_sEntry
 -- name    : Formalism.SLP.GlobalBoundRefinements.Final.sEntry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:10.409168+00:00
 -- url     : https://prove2.me/theorems/3f8c0d6a-dae8-5019-ac56-ddd4302f077d

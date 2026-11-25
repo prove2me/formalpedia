@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RedPts_exists_reduction
 -- name    : GlobalTheory.RedPts.exists_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:16.632914+00:00
 -- url     : https://prove2.me/theorems/6cd5fb3b-2d07-5227-ab00-c35640a8dc6b

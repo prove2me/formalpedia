@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dual_measure_bound
 -- name    : Formalism.FourierDecayAlt.P.dual_measure_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:29:33.156531+00:00
 -- url     : https://prove2.me/theorems/469ef4ba-f7e3-4e06-956c-f1fcde160206

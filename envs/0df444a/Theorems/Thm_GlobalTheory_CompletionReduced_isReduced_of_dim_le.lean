@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionReduced_isReduced_of_dim_le
 -- name    : GlobalTheory.CompletionReduced.isReduced_of_dim_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:58:36.640742+00:00
 -- url     : https://prove2.me/theorems/df231bee-8ba2-456c-8353-c956618b0ec9

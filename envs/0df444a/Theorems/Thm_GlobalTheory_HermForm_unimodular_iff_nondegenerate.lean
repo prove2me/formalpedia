@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_unimodular_iff_nondegenerate
 -- name    : GlobalTheory.HermForm.unimodular_iff_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:07:04.19466+00:00
 -- url     : https://prove2.me/theorems/f5c984e9-e199-50a9-91d1-1ea59055391a

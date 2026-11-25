@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_cond_le_four_n_sq
 -- name    : UpperTheory.Ram.cond_le_four_n_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:15:59.120847+00:00
 -- url     : https://prove2.me/theorems/d13112d0-95ea-4cf9-837d-69382450c4b1

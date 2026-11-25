@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadTrace_cmHost_idempotent_trace_eq_one
 -- name    : GlobalTheory.QuadTrace.cmHost_idempotent_trace_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:21:42.025211+00:00
 -- url     : https://prove2.me/theorems/fc763f53-0e20-4997-88b4-49834f5f5f97

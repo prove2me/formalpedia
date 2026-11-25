@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WitnessData_exists_isPullDeg_pre
 -- name    : GlobalTheory.WitnessData.exists_isPullDeg_pre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:57:30.493832+00:00
 -- url     : https://prove2.me/theorems/21e0da46-5d5f-4805-bfbb-066dbf9a30d7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_logHeight_div_multihomogeneous
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.logHeight_div_multihomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:41.257525+00:00
 -- url     : https://prove2.me/theorems/37d7d538-8b15-5745-a1f3-6db9cbc7022e

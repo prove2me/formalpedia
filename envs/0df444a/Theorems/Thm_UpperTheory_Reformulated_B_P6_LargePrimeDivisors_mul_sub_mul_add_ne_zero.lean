@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_LargePrimeDivisors_mul_sub_mul_add_ne_zero
 -- name    : UpperTheory.Reformulated.B.P6.LargePrimeDivisors.mul_sub_mul_add_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:24.089307+00:00
 -- url     : https://prove2.me/theorems/9e5f7812-6c97-5bfe-afd3-23488cb67ddb

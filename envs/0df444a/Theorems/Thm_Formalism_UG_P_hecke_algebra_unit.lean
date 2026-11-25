@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hecke_algebra_unit
 -- name    : Formalism.UG.P.hecke_algebra_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:34.150244+00:00
 -- url     : https://prove2.me/theorems/44b5d963-d50e-4110-8970-845d63aee53c

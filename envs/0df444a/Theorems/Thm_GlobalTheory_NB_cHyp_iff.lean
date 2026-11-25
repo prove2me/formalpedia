@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_cHyp_iff
 -- name    : GlobalTheory.NB.cHyp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:31.006238+00:00
 -- url     : https://prove2.me/theorems/23bfedbf-fe56-4d0c-a705-1f7fbe00a162

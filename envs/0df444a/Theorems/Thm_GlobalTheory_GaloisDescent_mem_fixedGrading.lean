@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_mem_fixedGrading
 -- name    : GlobalTheory.GaloisDescent.mem_fixedGrading
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:29.680074+00:00
 -- url     : https://prove2.me/theorems/b9a8845a-e2ae-4b0e-9ed9-4aa175f0ad99

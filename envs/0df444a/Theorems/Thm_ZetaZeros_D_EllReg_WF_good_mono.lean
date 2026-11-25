@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WF_good_mono
 -- name    : ZetaZeros.D.EllReg.WF.good_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:46.513811+00:00
 -- url     : https://prove2.me/theorems/dfab4643-9817-43fa-8bd2-0341e5353284

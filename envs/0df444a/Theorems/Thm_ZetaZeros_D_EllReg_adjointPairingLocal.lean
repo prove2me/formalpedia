@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_adjointPairingLocal
 -- name    : ZetaZeros.D.EllReg.adjointPairingLocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:42.210993+00:00
 -- url     : https://prove2.me/theorems/2d4dfb8e-601e-4e2b-850c-817b15657dd6

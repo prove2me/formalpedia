@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_error_sum_good_places_exact
 -- name    : Formalism.EigenvalueLevelCeiling.error_sum_good_places_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:33:22.452719+00:00
 -- url     : https://prove2.me/theorems/27a1ee14-16e5-4b9b-9878-73f5e947baf9

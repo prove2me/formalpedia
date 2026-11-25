@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HeatJet_isOpen_dom
 -- name    : GlobalTheory.SW.HeatJet.isOpen_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:21:22.634612+00:00
 -- url     : https://prove2.me/theorems/87d82fa2-5d53-515e-a6e6-7fdea6f658e6

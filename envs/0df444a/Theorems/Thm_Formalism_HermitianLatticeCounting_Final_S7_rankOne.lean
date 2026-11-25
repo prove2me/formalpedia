@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_rankOne
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:07.132214+00:00
 -- url     : https://prove2.me/theorems/de53228d-a173-599b-92cc-7738f3e47caf

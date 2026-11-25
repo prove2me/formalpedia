@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistAdm_gidx_pos
 -- name    : GlobalTheory.SW.TwistAdm.gidx_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:54.285744+00:00
 -- url     : https://prove2.me/theorems/fe5507da-4355-4bd2-815f-967c1f9de9e5

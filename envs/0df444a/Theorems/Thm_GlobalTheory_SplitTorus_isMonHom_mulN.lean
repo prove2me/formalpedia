@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_isMonHom_mulN
 -- name    : GlobalTheory.SplitTorus.isMonHom_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:25:04.441017+00:00
 -- url     : https://prove2.me/theorems/37827568-15e3-4905-b61b-cae3dc7f9361

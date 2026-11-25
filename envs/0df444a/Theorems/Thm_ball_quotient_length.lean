@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ball_quotient_length
 -- name    : ball_quotient_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:49.034802+00:00
 -- url     : https://prove2.me/theorems/dd17fbed-85ce-5773-84d8-71a6f42007b8

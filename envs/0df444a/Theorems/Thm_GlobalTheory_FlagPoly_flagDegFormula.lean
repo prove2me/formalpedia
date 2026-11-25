@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPoly_flagDegFormula
 -- name    : GlobalTheory.FlagPoly.flagDegFormula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:12.370455+00:00
 -- url     : https://prove2.me/theorems/222cc3ed-b06e-47c1-9417-e4f5f256529b

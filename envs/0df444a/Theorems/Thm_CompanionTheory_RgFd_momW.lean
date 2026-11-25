@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgFd_momW
 -- name    : CompanionTheory.RgFd.momW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:18:03.299956+00:00
 -- url     : https://prove2.me/theorems/5957772d-63d6-43e9-8434-66fc870abb10

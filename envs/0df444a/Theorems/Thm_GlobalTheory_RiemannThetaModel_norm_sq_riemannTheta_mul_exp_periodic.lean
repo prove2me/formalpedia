@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_norm_sq_riemannTheta_mul_exp_periodic
 -- name    : GlobalTheory.RiemannThetaModel.norm_sq_riemannTheta_mul_exp_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:26:43.828672+00:00
 -- url     : https://prove2.me/theorems/366b18fe-2c66-4dcd-b0db-b07f25d6a4bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_germ_power_identity
 -- name    : Formalism.FourierDecayAlt.P.germ_power_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:32:28.46+00:00
 -- url     : https://prove2.me/theorems/23179bb1-1aad-455f-9eab-0e26d8fcaab9

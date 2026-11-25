@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_sum_log_div_cube_le_of_two_pow_dvd
 -- name    : UpperTheory.sum_log_div_cube_le_of_two_pow_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:20.189083+00:00
 -- url     : https://prove2.me/theorems/ccc581f3-8e66-41c7-82cf-5fb65f06fa6a

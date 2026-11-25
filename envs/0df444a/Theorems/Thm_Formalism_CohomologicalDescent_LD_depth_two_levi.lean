@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_depth_two_levi
 -- name    : Formalism.CohomologicalDescent.LD.depth_two_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:23:58.74987+00:00
 -- url     : https://prove2.me/theorems/c010ab44-f96d-46a0-b55e-230f3d485cdd

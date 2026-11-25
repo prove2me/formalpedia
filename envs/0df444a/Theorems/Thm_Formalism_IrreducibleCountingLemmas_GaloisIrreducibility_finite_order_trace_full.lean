@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_finite_order_trace_full
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.finite_order_trace_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:42:50.284305+00:00
 -- url     : https://prove2.me/theorems/b4e1c790-0a86-5bac-90d6-660babc340e9

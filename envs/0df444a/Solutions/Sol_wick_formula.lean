@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for wick_formula
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T16:17:27.706173+00:00
+-- url     : https://prove2.me/submissions/2452608b-7d9d-4cae-a913-33088c33c922
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_WickFormula
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_WickFormula_XdegLeTotalDegree
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_WickFormula_OrdEvalEqSumOf
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_WickFormula_LprodAddSmul
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_WickFormula_GenPow
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_WickFormula_GenVan
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantTheorems_WickFormula
+import Theorems.Thm_PI_WickFormula_Gen_commL_holds
+import Theorems.Thm_PI_WickFormula_Gen_powXL_holds
+import Theorems.Thm_PI_WickFormula_Gen_vanL_holds
+import Theorems.Thm_PI_WickFormula_bComm_holds
+import Theorems.Thm_PI_WickFormula_base_holds
+import Theorems.Thm_PI_WickFormula_ordLin_holds
+import Theorems.Thm_PI_WickFormula_ordX_holds
+import Theorems.Thm_PI_WickFormula_wickFormula_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+theorem _root_.solution : PI.WickFormula :=
+  PI.WickFormula.wickFormula_of PI.WickFormula.ordLin_holds PI.WickFormula.ordX_holds
+    PI.WickFormula.base_holds PI.WickFormula.bComm_holds PI.WickFormula.Gen.powXL_holds
+    PI.WickFormula.Gen.commL_holds PI.WickFormula.Gen.vanL_holds

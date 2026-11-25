@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateCompare_ev_apply
 -- name    : GlobalTheory.HodgeTateCompare.ev_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:09:31.945845+00:00
 -- url     : https://prove2.me/theorems/6bc19e7b-656f-42ed-b64b-53dc86fead21

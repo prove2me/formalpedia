@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Sig_ideal_mono
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Sig.ideal_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:47:43.570797+00:00
 -- url     : https://prove2.me/theorems/ee6b6007-2710-4d03-a75b-a6995e1c2940

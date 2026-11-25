@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_extract_K_bound
 -- name    : Formalism.FourierDecayAlt.P.extract_K_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:31:21.846061+00:00
 -- url     : https://prove2.me/theorems/b53332e7-973d-5b73-8318-d4d0fe8eb423

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_isSimple_triv
 -- name    : CompanionTheory.RgExh.isSimple_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:18:03.974589+00:00
 -- url     : https://prove2.me/theorems/bfafb425-ce61-4837-913a-1ea3d32a02f4

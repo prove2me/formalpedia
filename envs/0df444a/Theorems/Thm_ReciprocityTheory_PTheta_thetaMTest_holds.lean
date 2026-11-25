@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_thetaMTest_holds
 -- name    : ReciprocityTheory.PTheta.thetaMTest_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:10:14.746254+00:00
 -- url     : https://prove2.me/theorems/bc5a49a5-a5cd-5f29-8a33-d907ef52442f

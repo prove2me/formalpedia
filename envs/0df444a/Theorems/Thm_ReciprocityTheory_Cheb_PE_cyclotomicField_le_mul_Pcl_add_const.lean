@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_PE_cyclotomicField_le_mul_Pcl_add_const
 -- name    : ReciprocityTheory.Cheb.PE_cyclotomicField_le_mul_Pcl_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:47:55.407011+00:00
 -- url     : https://prove2.me/theorems/bcd36670-40e3-435d-b570-57098d51d003

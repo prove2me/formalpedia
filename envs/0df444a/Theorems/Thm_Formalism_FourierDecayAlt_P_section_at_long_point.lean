@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_section_at_long_point
 -- name    : Formalism.FourierDecayAlt.P.section_at_long_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:37.192455+00:00
 -- url     : https://prove2.me/theorems/c75e2975-1b9d-46b7-96fe-e302b2eb20cd

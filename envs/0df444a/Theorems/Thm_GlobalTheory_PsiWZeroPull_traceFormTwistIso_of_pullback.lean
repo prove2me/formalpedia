@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PsiWZeroPull_traceFormTwistIso_of_pullback
 -- name    : GlobalTheory.PsiWZeroPull.traceFormTwistIso_of_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:57:19.598608+00:00
 -- url     : https://prove2.me/theorems/87b94818-aedb-489b-9dd2-0d417894edb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SuperCusp_isCuspidal_of_isSupercuspidal
 -- name    : GlobalTheory.SuperCusp.isCuspidal_of_isSupercuspidal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:24:40.538937+00:00
 -- url     : https://prove2.me/theorems/24112cf1-8e20-5e8a-90b8-ffd90322de47

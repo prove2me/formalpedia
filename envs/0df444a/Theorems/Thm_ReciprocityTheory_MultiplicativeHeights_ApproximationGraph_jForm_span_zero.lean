@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_jForm_span_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.jForm_span_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:34.294277+00:00
 -- url     : https://prove2.me/theorems/9a91dc51-e0b2-4ff7-9466-f6d6b6125a81

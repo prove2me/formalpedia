@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prodMaxDivEqOne
 -- name    : Formalism.HermitianLatticeCounting.P.prodMaxDivEqOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:39:36.883382+00:00
 -- url     : https://prove2.me/theorems/fa2fb77a-9d52-48b9-8aaf-4c98f544075e

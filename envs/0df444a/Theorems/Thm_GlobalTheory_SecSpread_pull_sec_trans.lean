@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecSpread_pull_sec_trans
 -- name    : GlobalTheory.SecSpread.pull_sec_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:56:15.662208+00:00
 -- url     : https://prove2.me/theorems/4b8fe7c1-8982-4762-9546-63a308d2d13d

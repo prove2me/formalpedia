@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_interlaceTelescope_statement
 -- name    : Formalism.BranchingDeterminantCap.interlaceTelescope_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:20:00.315034+00:00
 -- url     : https://prove2.me/theorems/3f4fb82e-ae2d-436d-9cd5-f5693b9ce6e2

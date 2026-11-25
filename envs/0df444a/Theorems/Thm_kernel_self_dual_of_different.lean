@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_kernel_self_dual_of_different
 -- name    : kernel_self_dual_of_different
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:14:50.300882+00:00
 -- url     : https://prove2.me/theorems/acf67fe3-b40d-4d6a-bc74-7db080c1cce8

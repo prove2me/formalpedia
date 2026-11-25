@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCompact_GL_bounded_entries_completion_finitePlace
 -- name    : GlobalTheory.T.isCompact_GL_bounded_entries_completion_finitePlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:34:24.940813+00:00
 -- url     : https://prove2.me/theorems/d3d48d58-6b16-48dc-aafb-9a4cd76314d3

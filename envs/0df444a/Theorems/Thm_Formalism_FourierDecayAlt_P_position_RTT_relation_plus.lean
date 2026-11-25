@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_position_RTT_relation_plus
 -- name    : Formalism.FourierDecayAlt.P.position_RTT_relation_plus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:06.052795+00:00
 -- url     : https://prove2.me/theorems/b9127fbf-47b7-57f7-aff6-e9f9f9238b7b

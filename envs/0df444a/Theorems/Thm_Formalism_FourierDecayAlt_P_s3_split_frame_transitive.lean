@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_s3_split_frame_transitive
 -- name    : Formalism.FourierDecayAlt.P.s3_split_frame_transitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:35:15.680942+00:00
 -- url     : https://prove2.me/theorems/7e78104f-5f5e-4e7b-834f-8b6ea062cbd3

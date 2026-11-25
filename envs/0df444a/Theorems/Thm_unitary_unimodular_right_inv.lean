@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_unitary_unimodular_right_inv
 -- name    : unitary_unimodular_right_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:17:27.712852+00:00
 -- url     : https://prove2.me/theorems/c807e8a2-4f63-4217-b193-96ccd52b6d05

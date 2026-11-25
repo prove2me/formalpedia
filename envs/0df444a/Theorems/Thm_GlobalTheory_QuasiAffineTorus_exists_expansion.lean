@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuasiAffineTorus_exists_expansion
 -- name    : GlobalTheory.QuasiAffineTorus.exists_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:43:51.895281+00:00
 -- url     : https://prove2.me/theorems/293dc452-f332-47a5-8aa2-54dbc9a165cc

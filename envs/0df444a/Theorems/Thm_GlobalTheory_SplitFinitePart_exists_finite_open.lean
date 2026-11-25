@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFinitePart_exists_finite_open
 -- name    : GlobalTheory.SplitFinitePart.exists_finite_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:24:30.270474+00:00
 -- url     : https://prove2.me/theorems/1a915dc0-c245-4429-b37f-e8450dd58a1f

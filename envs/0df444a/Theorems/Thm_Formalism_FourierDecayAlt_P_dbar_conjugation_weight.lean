@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dbar_conjugation_weight
 -- name    : Formalism.FourierDecayAlt.P.dbar_conjugation_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:30:34.932414+00:00
 -- url     : https://prove2.me/theorems/655b3daa-e811-4193-84b6-352060ada777

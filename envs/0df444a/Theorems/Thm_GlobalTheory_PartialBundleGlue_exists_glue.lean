@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialBundleGlue_exists_glue
 -- name    : GlobalTheory.PartialBundleGlue.exists_glue
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:41:12.835428+00:00
 -- url     : https://prove2.me/theorems/e57126a0-b816-4ee9-bb3a-0362f3531550

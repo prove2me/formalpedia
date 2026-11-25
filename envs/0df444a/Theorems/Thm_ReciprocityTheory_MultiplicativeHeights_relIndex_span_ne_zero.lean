@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_relIndex_span_ne_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.relIndex_span_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:45.506802+00:00
 -- url     : https://prove2.me/theorems/2390bdeb-a296-4649-bde0-a71973481566

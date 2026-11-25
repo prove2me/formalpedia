@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_typeBeClass
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.typeBeClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:40:03.662853+00:00
 -- url     : https://prove2.me/theorems/5f8634f7-8937-42a0-b8ad-a284d2329b85

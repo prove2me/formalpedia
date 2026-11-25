@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_snc_chart_multihomog_order_at_point
 -- name    : GlobalTheory.T.snc_chart_multihomog_order_at_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:41:05.928426+00:00
 -- url     : https://prove2.me/theorems/7281a304-c702-4281-a167-27d56a6d72cb

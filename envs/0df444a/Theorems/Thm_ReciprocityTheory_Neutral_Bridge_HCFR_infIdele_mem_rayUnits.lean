@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCFR_infIdele_mem_rayUnits
 -- name    : ReciprocityTheory.Neutral.Bridge.HCFR.infIdele_mem_rayUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:56.774035+00:00
 -- url     : https://prove2.me/theorems/0402ed35-20d6-4abe-bd13-762bbeb1f76d

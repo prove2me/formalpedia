@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SCV_analyticOnNhd_iff_differentiableOn
 -- name    : GlobalTheory.SCV.analyticOnNhd_iff_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:43.35007+00:00
 -- url     : https://prove2.me/theorems/f7686f8f-a87f-40cd-8059-0fb99b597b37

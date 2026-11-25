@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Ainf_frob_surj
 -- name    : ReciprocityTheory.PGsh.Ainf.frob_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:06:05.546127+00:00
 -- url     : https://prove2.me/theorems/976c5547-bb97-4368-8b31-d6b03bce3982

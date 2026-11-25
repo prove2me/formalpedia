@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_invariant_derivations_quotient_bialgebra
 -- name    : GlobalTheory.T.exists_invariant_derivations_quotient_bialgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:55.647799+00:00
 -- url     : https://prove2.me/theorems/40c20a12-7260-5054-945b-fa71e0434228

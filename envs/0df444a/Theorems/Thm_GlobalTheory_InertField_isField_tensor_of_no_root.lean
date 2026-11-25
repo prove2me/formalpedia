@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertField_isField_tensor_of_no_root
 -- name    : GlobalTheory.InertField.isField_tensor_of_no_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:20.969795+00:00
 -- url     : https://prove2.me/theorems/adf69fbc-fa49-46e5-a498-c1ef94e9c488

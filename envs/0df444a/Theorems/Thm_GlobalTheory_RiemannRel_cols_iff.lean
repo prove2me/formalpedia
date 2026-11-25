@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannRel_cols_iff
 -- name    : GlobalTheory.RiemannRel.cols_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:20:07.040398+00:00
 -- url     : https://prove2.me/theorems/5398b8a9-125a-5110-9261-b413cc31496b

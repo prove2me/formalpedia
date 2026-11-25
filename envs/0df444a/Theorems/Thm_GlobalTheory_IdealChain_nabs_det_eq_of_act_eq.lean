@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_nabs_det_eq_of_act_eq
 -- name    : GlobalTheory.IdealChain.nabs_det_eq_of_act_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:26.18974+00:00
 -- url     : https://prove2.me/theorems/b045d32d-56b3-5198-8293-673d1860543d

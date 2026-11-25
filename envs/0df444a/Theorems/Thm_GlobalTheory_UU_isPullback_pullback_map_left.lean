@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_isPullback_pullback_map_left
 -- name    : GlobalTheory.UU.isPullback_pullback_map_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:59:34.702442+00:00
 -- url     : https://prove2.me/theorems/e8921fec-f41a-4965-ab1e-3c4cdb97db80

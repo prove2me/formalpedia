@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Expanders_quadForm_eq_of_split
 -- name    : Expanders.quadForm_eq_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:08:55.153592+00:00
 -- url     : https://prove2.me/theorems/70154ae8-1415-4093-83f6-e626b5fdf9a0

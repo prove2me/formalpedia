@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_homology_mod_prime_universal_coefficients
 -- name    : GlobalTheory.T.finrank_homology_mod_prime_universal_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:46.428273+00:00
 -- url     : https://prove2.me/theorems/45f9358a-20ee-44cc-a9dc-4220c07360a7

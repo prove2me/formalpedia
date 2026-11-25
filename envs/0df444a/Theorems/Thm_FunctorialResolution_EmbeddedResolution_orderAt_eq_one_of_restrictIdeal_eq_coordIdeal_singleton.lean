@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_eq_one_of_restrictIdeal_eq_coordIdeal_singleton
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_eq_one_of_restrictIdeal_eq_coordIdeal_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:48.603188+00:00
 -- url     : https://prove2.me/theorems/0ae713bd-fd57-4b87-8492-26b0f0574acd

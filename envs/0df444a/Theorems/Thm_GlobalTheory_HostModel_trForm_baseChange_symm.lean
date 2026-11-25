@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_trForm_baseChange_symm
 -- name    : GlobalTheory.HostModel.trForm_baseChange_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:21.982499+00:00
 -- url     : https://prove2.me/theorems/c6a9d3c0-6bf8-5465-bef4-48d30f807b1a

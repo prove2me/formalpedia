@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eisenstein_scaling_law
 -- name    : GlobalTheory.T.eisenstein_scaling_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:17.797597+00:00
 -- url     : https://prove2.me/theorems/59887134-08e9-466c-b90f-ca38b37fa0aa

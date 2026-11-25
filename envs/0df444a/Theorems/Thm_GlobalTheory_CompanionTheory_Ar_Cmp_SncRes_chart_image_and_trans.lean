@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_chart_image_and_trans
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.chart_image_and_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:23:27.907805+00:00
 -- url     : https://prove2.me/theorems/0a308648-6de6-5639-b310-2f936487caca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_isCyc_unique
 -- name    : GlobalTheory.K5.Basic.isCyc_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:41.07934+00:00
 -- url     : https://prove2.me/theorems/cdf970eb-13af-5f56-9a28-2043175a3dbc

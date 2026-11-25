@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hensel_root_residue
 -- name    : GlobalTheory.T.exists_hensel_root_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:23.398017+00:00
 -- url     : https://prove2.me/theorems/0def6ff1-ded5-4dde-ad42-0550c93ce372

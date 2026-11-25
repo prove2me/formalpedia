@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_mem_ball_zero_iff
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.mem_ball_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:12.059354+00:00
 -- url     : https://prove2.me/theorems/4be0a002-0e9d-48fa-970c-85cc42309101

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullbackCupProduct_pull_cup_of_bijective
 -- name    : GlobalTheory.PullbackCupProduct.pull_cup_of_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:57:52.687837+00:00
 -- url     : https://prove2.me/theorems/3dd28772-fafe-4f50-906d-4ba990b22c3c

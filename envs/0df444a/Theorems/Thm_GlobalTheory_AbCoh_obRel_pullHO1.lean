@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_obRel_pullHO1
 -- name    : GlobalTheory.AbCoh.obRel_pullHO1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:57:54.124245+00:00
 -- url     : https://prove2.me/theorems/b63f27d2-89d4-4bbe-80b6-e96eaf217f74

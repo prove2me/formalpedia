@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_peel_rows
 -- name    : Formalism.CohomologicalDescent.LD.peel_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:22:51.607798+00:00
 -- url     : https://prove2.me/theorems/1bd68ac1-3e2e-4eb8-8110-ea879c963f1a

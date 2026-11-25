@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_place_bound
 -- name    : Formalism.SA.P.place_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:24.841825+00:00
 -- url     : https://prove2.me/theorems/1a94c4c7-8539-5d44-8db6-8bbf4a70f000

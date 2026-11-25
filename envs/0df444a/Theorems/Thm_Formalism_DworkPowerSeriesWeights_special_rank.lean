@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_special_rank
 -- name    : Formalism.DworkPowerSeriesWeights.special_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:28.38303+00:00
 -- url     : https://prove2.me/theorems/d7b4b299-9a3b-49e2-a080-d8ca43e52453

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_coords_of_equiv
 -- name    : GlobalTheory.SectionBasis.coords_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:53.3869+00:00
 -- url     : https://prove2.me/theorems/274e2003-a015-5271-aa8f-a23e70e81978

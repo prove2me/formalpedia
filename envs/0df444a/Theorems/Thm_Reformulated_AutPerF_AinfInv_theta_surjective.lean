@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_AinfInv_theta_surjective
 -- name    : Reformulated.AutPerF.AinfInv.theta_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:10:03.173653+00:00
 -- url     : https://prove2.me/theorems/20e40c7b-7d30-5325-942c-21880d4739b2

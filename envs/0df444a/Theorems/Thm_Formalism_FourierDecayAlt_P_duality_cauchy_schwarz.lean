@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_duality_cauchy_schwarz
 -- name    : Formalism.FourierDecayAlt.P.duality_cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:31:12.954929+00:00
 -- url     : https://prove2.me/theorems/908c426a-a95f-50b5-88ec-47c257fe3691

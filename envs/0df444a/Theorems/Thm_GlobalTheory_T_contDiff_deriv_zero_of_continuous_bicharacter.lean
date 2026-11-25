@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contDiff_deriv_zero_of_continuous_bicharacter
 -- name    : GlobalTheory.T.contDiff_deriv_zero_of_continuous_bicharacter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:44.59386+00:00
 -- url     : https://prove2.me/theorems/4cd90401-5683-4c1e-a773-6ccdf5bfa5bb

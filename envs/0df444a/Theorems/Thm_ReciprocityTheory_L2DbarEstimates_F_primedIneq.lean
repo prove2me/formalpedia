@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_primedIneq
 -- name    : ReciprocityTheory.L2DbarEstimates.F.primedIneq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:01:50.126387+00:00
 -- url     : https://prove2.me/theorems/6931252a-3bb8-4dd4-9b48-c1f09d03123b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_crtAut_apply
 -- name    : GlobalTheory.LevDesc.crtAut_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:34.445444+00:00
 -- url     : https://prove2.me/theorems/0a46781b-83d8-4901-bfd6-5c747caad8f9

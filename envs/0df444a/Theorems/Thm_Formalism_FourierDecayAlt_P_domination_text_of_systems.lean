@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_domination_text_of_systems
 -- name    : Formalism.FourierDecayAlt.P.domination_text_of_systems
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:31:56.20284+00:00
 -- url     : https://prove2.me/theorems/f5f99986-ae37-4b72-a84e-0ae937a85412

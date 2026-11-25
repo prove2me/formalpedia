@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_En_fibre_membership_holds
 -- name    : Formalism.FourierDecayAlt.P.CutMP.En.fibre_membership_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:29:24.162809+00:00
 -- url     : https://prove2.me/theorems/0e3ee188-80e7-40a8-9c32-3be338ed4fb7

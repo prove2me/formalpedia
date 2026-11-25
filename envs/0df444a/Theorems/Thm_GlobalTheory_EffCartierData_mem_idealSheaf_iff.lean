@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_mem_idealSheaf_iff
 -- name    : GlobalTheory.EffCartierData.mem_idealSheaf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:21:00.022392+00:00
 -- url     : https://prove2.me/theorems/2c7e8d9b-3abe-5ef9-9a8b-579570987d10

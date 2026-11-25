@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_base_prime_condition
 -- name    : Formalism.L2.DIV.base_prime_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:49.628269+00:00
 -- url     : https://prove2.me/theorems/9a372932-b750-5fef-9824-d58e2168efe0

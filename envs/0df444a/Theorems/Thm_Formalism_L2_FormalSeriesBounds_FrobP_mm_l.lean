@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FrobP_mm_l
 -- name    : Formalism.L2.FormalSeriesBounds.FrobP.mm_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:44:37.688803+00:00
 -- url     : https://prove2.me/theorems/9eabbd12-dd8a-45ad-8ef7-522694eb6be1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_algebraic_values_finite
 -- name    : algebraic_values_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:40:57.303573+00:00
 -- url     : https://prove2.me/theorems/f3b497a3-b483-4e4d-97af-a6479abe8ed2

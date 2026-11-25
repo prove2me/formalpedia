@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_injective_ringHom_isLocalHom_and_extend
 -- name    : GlobalTheory.T.finite_injective_ringHom_isLocalHom_and_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:37.776346+00:00
 -- url     : https://prove2.me/theorems/628e3d6b-be12-4507-a44d-d0afc0bacc3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_signMat_eq
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_signMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:05:22.896592+00:00
 -- url     : https://prove2.me/theorems/674bbc06-c4c6-56c1-90f0-8979d0aa1e21

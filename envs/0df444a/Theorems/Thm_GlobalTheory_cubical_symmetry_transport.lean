@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubical_symmetry_transport
 -- name    : GlobalTheory.cubical_symmetry_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:06:19.959805+00:00
 -- url     : https://prove2.me/theorems/e567f778-e560-48c7-b6f1-b6ad85f8fd46

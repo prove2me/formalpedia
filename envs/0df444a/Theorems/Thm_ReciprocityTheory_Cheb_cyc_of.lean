@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cyc_of
 -- name    : ReciprocityTheory.Cheb.cyc_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:51.19661+00:00
 -- url     : https://prove2.me/theorems/4ea79f2c-8912-4122-8caa-7a730392a45e

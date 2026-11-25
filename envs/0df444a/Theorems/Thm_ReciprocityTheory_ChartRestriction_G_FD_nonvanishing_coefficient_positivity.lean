@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_nonvanishing_coefficient_positivity
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.nonvanishing_coefficient_positivity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:50:43.019824+00:00
 -- url     : https://prove2.me/theorems/a3676333-23af-4f1b-9310-1238373474a9

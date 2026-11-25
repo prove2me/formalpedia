@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GFam_ipOf_coord
 -- name    : Formalism.L2.Col.GFam.ipOf_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:55:10.961151+00:00
 -- url     : https://prove2.me/theorems/0f3ed2ed-0d3a-50cb-90ef-b86bb79c4252

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_Ea_snd
 -- name    : GlobalTheory.AdmLoc.Ea_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:02:34.748028+00:00
 -- url     : https://prove2.me/theorems/7934ac35-7573-4ae8-8be7-362eba83b82f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CovariantDbarLeibniz_vertForm_tautPairGram_zero
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CovariantDbarLeibniz.vertForm_tautPairGram_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:23.703038+00:00
 -- url     : https://prove2.me/theorems/e98d5a16-17f7-4e0f-b5f9-89a3ac7e1652

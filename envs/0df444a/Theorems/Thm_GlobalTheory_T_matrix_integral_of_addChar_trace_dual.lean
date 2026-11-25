@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_integral_of_addChar_trace_dual
 -- name    : GlobalTheory.T.matrix_integral_of_addChar_trace_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:34:56.112802+00:00
 -- url     : https://prove2.me/theorems/09f8c093-9324-5581-b1ee-8eca08c6bce4

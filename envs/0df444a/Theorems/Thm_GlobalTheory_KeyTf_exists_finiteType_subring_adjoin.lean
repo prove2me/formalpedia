@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyTf_exists_finiteType_subring_adjoin
 -- name    : GlobalTheory.KeyTf.exists_finiteType_subring_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:14.517572+00:00
 -- url     : https://prove2.me/theorems/19d2b62b-4ec6-45de-9a90-a9eed0d361bf

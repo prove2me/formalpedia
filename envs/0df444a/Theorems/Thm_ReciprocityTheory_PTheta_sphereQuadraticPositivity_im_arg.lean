@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_sphereQuadraticPositivity_im_arg
 -- name    : ReciprocityTheory.PTheta.sphereQuadraticPositivity.im_arg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:07.561543+00:00
 -- url     : https://prove2.me/theorems/1987c1bd-a9fd-46f5-a647-993580c73999

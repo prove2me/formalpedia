@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OpenClosedSequences_indSnd_apply
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OpenClosedSequences.indSnd_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:59.28382+00:00
 -- url     : https://prove2.me/theorems/239cdaee-de7f-4ad2-9eb7-8ad641ab94ff

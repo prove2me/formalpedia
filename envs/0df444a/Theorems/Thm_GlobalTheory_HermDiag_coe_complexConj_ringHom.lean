@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermDiag_coe_complexConj_ringHom
 -- name    : GlobalTheory.HermDiag.coe_complexConj_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:08.238246+00:00
 -- url     : https://prove2.me/theorems/52fcc63e-c04e-4d5b-a188-6eec283e4a5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_chebyshev_second_estimate
 -- name    : ReciprocityTheory.Cheb.chebyshev_second_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:47:36.228118+00:00
 -- url     : https://prove2.me/theorems/16467af2-dc06-5781-bf81-b10465223753

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscrJacobian_exists_socle
 -- name    : GlobalTheory.DiscrJacobian.exists_socle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:03:57.966797+00:00
 -- url     : https://prove2.me/theorems/af5db82a-a4c6-53f0-8285-50ba05aa9c51

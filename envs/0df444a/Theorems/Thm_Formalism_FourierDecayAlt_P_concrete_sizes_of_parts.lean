@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_concrete_sizes_of_parts
 -- name    : Formalism.FourierDecayAlt.P.concrete_sizes_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:31:29.992283+00:00
 -- url     : https://prove2.me/theorems/963073d3-834c-44ee-8e03-79832874b9e3

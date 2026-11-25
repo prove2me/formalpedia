@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCharCheck_not_isCuspChar_one
 -- name    : GlobalTheory.CuspCharCheck.not_isCuspChar_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:17.740294+00:00
 -- url     : https://prove2.me/theorems/825cbf37-0f2a-4268-84f3-cd84e0e8f986

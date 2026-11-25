@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_dense_eval_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.dense_eval_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:03:31.898719+00:00
 -- url     : https://prove2.me/theorems/ac339df0-a109-4c6e-9ede-585c3ff76488

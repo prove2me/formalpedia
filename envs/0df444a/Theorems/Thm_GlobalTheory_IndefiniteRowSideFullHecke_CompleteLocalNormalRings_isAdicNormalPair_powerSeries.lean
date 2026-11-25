@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CompleteLocalNormalRings_isAdicNormalPair_powerSeries
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CompleteLocalNormalRings.isAdicNormalPair_powerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:08:32.0896+00:00
 -- url     : https://prove2.me/theorems/a6830ae6-fdb1-4387-bd48-a9a3a1376384

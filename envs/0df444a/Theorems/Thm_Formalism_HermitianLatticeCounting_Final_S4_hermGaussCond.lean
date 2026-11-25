@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_hermGaussCond
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.hermGaussCond
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:37:29.987201+00:00
 -- url     : https://prove2.me/theorems/5ec18d2f-128c-55d9-9e6c-642e310f4a19

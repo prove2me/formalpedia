@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_torusStableGoodOpen_of_weightUnits
 -- name    : GlobalTheory.T.exists_torusStableGoodOpen_of_weightUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:43:41.035087+00:00
 -- url     : https://prove2.me/theorems/728122a7-1508-442b-92d8-41f13e96a023

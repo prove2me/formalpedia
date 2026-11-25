@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerAutomorphism_sigmaSplit_of_ne
 -- name    : GlobalTheory.InnerAutomorphism.sigmaSplit_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:11.230115+00:00
 -- url     : https://prove2.me/theorems/fe401910-d1ad-57ed-9d7d-00dfb694cc26

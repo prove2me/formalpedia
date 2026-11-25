@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignChar_pairing_nsmul_left
 -- name    : GlobalTheory.SignChar.pairing_nsmul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:15:53.030375+00:00
 -- url     : https://prove2.me/theorems/bb8fcadc-4b0f-4e50-bf6f-c22f7a2c06bc

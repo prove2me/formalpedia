@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_canonGauge_independence_harmonic
 -- name    : GlobalTheory.canonGauge_independence_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:32:09.912394+00:00
 -- url     : https://prove2.me/theorems/48bb6c0d-1a2b-4c31-a481-afc0b50ab559

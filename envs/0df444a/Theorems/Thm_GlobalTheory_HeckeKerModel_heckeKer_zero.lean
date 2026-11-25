@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeKerModel_heckeKer_zero
 -- name    : GlobalTheory.HeckeKerModel.heckeKer_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:53.856315+00:00
 -- url     : https://prove2.me/theorems/84740c0b-6201-5c4a-b44c-37fe83f71821

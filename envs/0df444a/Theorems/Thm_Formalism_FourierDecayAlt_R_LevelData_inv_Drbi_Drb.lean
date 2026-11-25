@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_R_LevelData_inv_Drbi_Drb
 -- name    : Formalism.FourierDecayAlt.R.LevelData.inv_Drbi_Drb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:35:22.170029+00:00
 -- url     : https://prove2.me/theorems/07d19575-b3a7-42e6-a76d-a1144de64b80

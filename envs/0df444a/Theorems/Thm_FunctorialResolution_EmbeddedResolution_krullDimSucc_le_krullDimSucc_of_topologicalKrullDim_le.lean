@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_krullDimSucc_le_krullDimSucc_of_topologicalKrullDim_le
 -- name    : FunctorialResolution.EmbeddedResolution.krullDimSucc_le_krullDimSucc_of_topologicalKrullDim_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:10.848084+00:00
 -- url     : https://prove2.me/theorems/19347c78-bf72-4705-b0b6-0b65dcbb67a5

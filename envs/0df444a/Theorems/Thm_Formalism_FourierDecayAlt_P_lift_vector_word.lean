@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lift_vector_word
 -- name    : Formalism.FourierDecayAlt.P.lift_vector_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:32:53.770715+00:00
 -- url     : https://prove2.me/theorems/e08b2518-1cd8-4e9a-9135-822a7157af1d

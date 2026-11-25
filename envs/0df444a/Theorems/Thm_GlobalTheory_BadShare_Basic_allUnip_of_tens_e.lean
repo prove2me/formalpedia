@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_allUnip_of_tens_e
 -- name    : GlobalTheory.BadShare.Basic.allUnip_of_tens_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:11.4318+00:00
 -- url     : https://prove2.me/theorems/75f5d1fe-0a72-5971-bf29-dc205a3c6fa9

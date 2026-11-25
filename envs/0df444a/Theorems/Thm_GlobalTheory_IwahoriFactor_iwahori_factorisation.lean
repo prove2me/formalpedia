@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwahoriFactor_iwahori_factorisation
 -- name    : GlobalTheory.IwahoriFactor.iwahori_factorisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:11:43.677868+00:00
 -- url     : https://prove2.me/theorems/9f73da87-caae-4dff-80a4-9f8c02d25764

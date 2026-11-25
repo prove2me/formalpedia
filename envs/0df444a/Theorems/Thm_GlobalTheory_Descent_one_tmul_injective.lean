@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Descent_one_tmul_injective
 -- name    : GlobalTheory.Descent.one_tmul_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:05.068858+00:00
 -- url     : https://prove2.me/theorems/31f93bb7-3be0-5446-ba1f-c79347cb7275

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_recursion_hypothesis_after_of_old
 -- name    : Formalism.FourierDecayAlt.P.recursion_hypothesis_after_of_old
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:35:10.781205+00:00
 -- url     : https://prove2.me/theorems/0eea4160-f2af-56fc-aa9a-e3221938ee62

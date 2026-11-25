@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_differentiable_perFactor
 -- name    : GlobalTheory.AnArc.differentiable_perFactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:04.094161+00:00
 -- url     : https://prove2.me/theorems/b52cd646-efc7-4959-a35c-7be9025d3506

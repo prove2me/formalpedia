@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpSep_rmul_oneF
 -- name    : GlobalTheory.GrpSep.rmul_oneF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:06.156353+00:00
 -- url     : https://prove2.me/theorems/7bfdb3e2-9ed0-5f28-bfc6-d74b6c717202

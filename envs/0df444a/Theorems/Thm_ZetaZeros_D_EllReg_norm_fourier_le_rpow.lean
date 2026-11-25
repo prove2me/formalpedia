@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_norm_fourier_le_rpow
 -- name    : ZetaZeros.D.EllReg.norm_fourier_le_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:41:47.158834+00:00
 -- url     : https://prove2.me/theorems/b3bd92e2-466f-4843-9787-89f26d6fd641

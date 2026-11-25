@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_harmonicDecomposition_holds
 -- name    : Formalism.CountingSumsFrames.harmonicDecomposition_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:24:40.556158+00:00
 -- url     : https://prove2.me/theorems/1fa74e83-7c58-453f-abf2-263ce836d833

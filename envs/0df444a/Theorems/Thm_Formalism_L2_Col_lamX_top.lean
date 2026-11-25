@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lamX_top
 -- name    : Formalism.L2.Col.lamX_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:17.934207+00:00
 -- url     : https://prove2.me/theorems/6a8ffca6-7ae7-4c08-9aca-a0b92a0c2171

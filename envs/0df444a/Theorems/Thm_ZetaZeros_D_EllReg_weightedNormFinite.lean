@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_weightedNormFinite
 -- name    : ZetaZeros.D.EllReg.weightedNormFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:15:05.019984+00:00
 -- url     : https://prove2.me/theorems/4e3168cb-bf08-4713-aa79-59a6ffdceb4f

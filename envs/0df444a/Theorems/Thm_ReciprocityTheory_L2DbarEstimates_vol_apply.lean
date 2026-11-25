@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_vol_apply
 -- name    : ReciprocityTheory.L2DbarEstimates.vol_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:21:04.823473+00:00
 -- url     : https://prove2.me/theorems/fde46599-fd7b-458c-b846-b515e5a5c437

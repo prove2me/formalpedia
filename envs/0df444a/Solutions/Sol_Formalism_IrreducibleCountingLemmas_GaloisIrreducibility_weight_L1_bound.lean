@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.weight_L1_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T17:10:35.01979+00:00
+-- url     : https://prove2.me/submissions/cb27168b-3c52-4348-a391-5fa1216c27af
+
+import Definitions.Def_Formalism_PadicSubsetSums_CentralIdempotents_EigenbasisOfDistinctRoots
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_PropositionOneCentralCount
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRDivisorDegreeSubSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCycleProbSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeRecipSum
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRLemmaLWeight
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartEqIff
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRPrimeToPartSpec
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRLemmaP
+import Definitions.Def_Formalism_GaloisIrreducibility_NoSolvableTransitive
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCentralIdemSelfAdjoint
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRIrredCountUpper
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRSquarefreeCount
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRTypeCountExact
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_IRRCycleTypeProb
+import Definitions.Def_Formalism_PadicSubsetSums_StableGradedCounts_LocalEstimateIVOfTypeSetWeight
+import Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_twisted_idempotent_holds
+import Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_weight_formula
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Finset Polynomial
+open scoped ComplexOrder
+open Formalism Formalism.IrreducibleCountingLemmas Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+namespace Formalism.IrreducibleCountingLemmas.GaloisIrreducibility
+theorem _root_.solution : WeightOfTwistedIdempotent := by
+  intro G V _ _ _ _ _ ρ J χ
+  obtain ⟨hidem, -, hc1, hrange⟩ := twisted_idempotent_holds G J χ
+  rw [weight_formula G V ρ _ hidem, hc1, hrange V ρ, div_inv_eq_mul]
+  ring
+end Formalism.IrreducibleCountingLemmas.GaloisIrreducibility

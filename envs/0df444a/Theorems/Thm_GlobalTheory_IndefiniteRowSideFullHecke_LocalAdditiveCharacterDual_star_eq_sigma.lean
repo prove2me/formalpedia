@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LocalAdditiveCharacterDual_star_eq_sigma
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LocalAdditiveCharacterDual.star_eq_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:35.112424+00:00
 -- url     : https://prove2.me/theorems/8e797984-1fd2-433f-9884-8ac05f04bb97

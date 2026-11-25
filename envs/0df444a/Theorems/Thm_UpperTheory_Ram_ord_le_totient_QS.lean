@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_ord_le_totient_QS
 -- name    : UpperTheory.Ram.ord_le_totient_QS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:15:27.912622+00:00
 -- url     : https://prove2.me/theorems/cbd13d85-b73c-47a0-ace0-d12da883755c

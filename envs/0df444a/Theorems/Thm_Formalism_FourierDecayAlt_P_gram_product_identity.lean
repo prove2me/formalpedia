@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_product_identity
 -- name    : Formalism.FourierDecayAlt.P.gram_product_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:30.303003+00:00
 -- url     : https://prove2.me/theorems/b538e29e-0b90-4875-a135-d3e6ddafa359

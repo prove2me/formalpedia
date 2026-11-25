@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Rd_log_rdE_le
 -- name    : UpperTheory.Ram.Rd.log_rdE_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:36.036858+00:00
 -- url     : https://prove2.me/theorems/a892c99e-0c94-5382-b78a-6439311d011a

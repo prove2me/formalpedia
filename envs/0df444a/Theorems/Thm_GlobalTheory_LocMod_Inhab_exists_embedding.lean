@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocMod_Inhab_exists_embedding
 -- name    : GlobalTheory.LocMod.Inhab.exists_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:14:04.655508+00:00
 -- url     : https://prove2.me/theorems/d8dac5f4-c0ba-43df-b101-12c9ac6bb46d

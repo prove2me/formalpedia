@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_KernelCokernelKilling_shift_step
 -- name    : ReciprocityTheory.Coh.KernelCokernelKilling.shift_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:50:37.131656+00:00
 -- url     : https://prove2.me/theorems/2d216113-1f0f-4fb3-9a6e-053c4b42f68a

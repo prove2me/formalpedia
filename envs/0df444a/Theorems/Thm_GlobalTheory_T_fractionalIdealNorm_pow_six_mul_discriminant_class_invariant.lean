@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fractionalIdealNorm_pow_six_mul_discriminant_class_invariant
 -- name    : GlobalTheory.T.fractionalIdealNorm_pow_six_mul_discriminant_class_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:05.8888+00:00
 -- url     : https://prove2.me/theorems/dffbf6f7-9973-5c49-9ad8-66a17fa0bd15

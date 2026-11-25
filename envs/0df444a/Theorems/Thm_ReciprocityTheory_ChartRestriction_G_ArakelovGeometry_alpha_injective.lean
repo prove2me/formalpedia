@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_alpha_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.alpha_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:33:02.977337+00:00
 -- url     : https://prove2.me/theorems/fdc27a51-3e84-47e2-910e-32660bd4664a

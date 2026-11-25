@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Basic_mk_le_of_denseRange
 -- name    : GlobalTheory.MomOne.Basic.mk_le_of_denseRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:57.220469+00:00
 -- url     : https://prove2.me/theorems/02297799-b011-594c-840a-d6efa49e14dd

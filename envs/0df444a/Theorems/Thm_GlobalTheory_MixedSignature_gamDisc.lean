@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_gamDisc
 -- name    : GlobalTheory.MixedSignature.gamDisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:07:28.005959+00:00
 -- url     : https://prove2.me/theorems/341f8fe6-61f0-520a-b6dc-ff15ab5c4bb1

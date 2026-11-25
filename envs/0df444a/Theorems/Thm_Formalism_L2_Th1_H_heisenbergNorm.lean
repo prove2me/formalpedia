@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_heisenbergNorm
 -- name    : Formalism.L2.Th1.H.heisenbergNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:49:09.947516+00:00
 -- url     : https://prove2.me/theorems/d23e93d7-90b9-4f32-adb5-5fce7df3c09d

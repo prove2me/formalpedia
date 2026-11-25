@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_thetaLaw_spTransl
 -- name    : GlobalTheory.KeyPow.thetaLaw_spTransl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:49:24.671832+00:00
 -- url     : https://prove2.me/theorems/91a4e25b-a341-4006-b7e0-c613bc6c314b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_ansatz_satisfies_conditions
 -- name    : Arxiv1510_02920.ansatz_satisfies_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:08:45.902034+00:00
 -- url     : https://prove2.me/theorems/b974322d-6e36-444b-81e7-ba9417680ae5

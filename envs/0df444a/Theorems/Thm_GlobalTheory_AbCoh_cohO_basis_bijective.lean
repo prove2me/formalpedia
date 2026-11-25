@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_cohO_basis_bijective
 -- name    : GlobalTheory.AbCoh.cohO_basis_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:54:56.925301+00:00
 -- url     : https://prove2.me/theorems/9b448343-b909-4b1e-9635-40407cca45fa

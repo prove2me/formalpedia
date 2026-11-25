@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_eArith
 -- name    : Formalism.InvariantFactorPaths.L4.Top.eArith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:51:09.974432+00:00
 -- url     : https://prove2.me/theorems/11094eb2-ef63-466e-8d35-41c644ad4302

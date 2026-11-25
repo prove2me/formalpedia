@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_corner_split
 -- name    : Formalism.FourierDecayAlt.P.corner_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:31:03.190198+00:00
 -- url     : https://prove2.me/theorems/130934b7-ac8f-45cd-b3d7-f22816d2111f

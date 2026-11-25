@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_BlochKatoDuality_haarInvFromUnique
 -- name    : UpperTheory.Reformulated.B.BlochKatoDuality.haarInvFromUnique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:58:03.915525+00:00
 -- url     : https://prove2.me/theorems/b4dd9881-ee9e-44e8-b734-87e3111934c5

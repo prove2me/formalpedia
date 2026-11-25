@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_HostModel_levelAgree_refl
+-- name    : GlobalTheory.HostModel.levelAgree_refl
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-25T18:18:55.436128+00:00
+-- url     : https://prove2.me/theorems/12a26eac-cb7e-409b-b241-bc9eb6a15395
+-- title:
+--   Host Model: level Agree refl
+-- statement:
+--   The Host Model construction uses the level Agree refl property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/ThetaShiftProofs/ExistsWitDataLevelAgree.lean#L148-L150
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/ThetaShiftProofs/ExistsWitDataLevelAgree.lean#L148-L150
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_DataRigidSt
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ArchimedeanThetaValues_IsPrimitiveRootArcRoot
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ArchimedeanThetaValues_ArcVarZpowInjective
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ThetaShiftProofs_ExistsWitDataLevelAgree
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open AlgebraicGeometry CategoryTheory NumberField
+open ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Out ReciprocityTheory.ChartRestriction.G.Geo.Tor
+open GlobalTheory GlobalTheory.HostModel
+open ToricData
+variable {E : Type} [Field E] [NumberField E] [IsCMField E] {H : Host E}
+variable {l : Level H} (c : Coeff l) (k : Type) [Field k] (bF : c.F →+* k)
+
+theorem GlobalTheory.HostModel.levelAgree_refl : LevelAgree (arcIn c k bF) (witP c k bF) (witIso c k bF) (witIso c k bF)
+    (LinearEquiv.refl (𝓞 E) (𝓞 E)) (LinearEquiv.refl (𝓞 E) (𝓞 E)) := by sorry

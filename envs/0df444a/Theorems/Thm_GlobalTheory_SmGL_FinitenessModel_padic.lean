@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_FinitenessModel_padic
 -- name    : GlobalTheory.SmGL.FinitenessModel.padic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:24:10.173879+00:00
 -- url     : https://prove2.me/theorems/193c5182-6d2f-4b42-9101-2662288c613b

@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for ReciprocityTheory.MultiplicativeHeights.Closed.gram
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T17:09:13.824432+00:00
+-- url     : https://prove2.me/submissions/8942e4a4-b397-4bdd-bbdd-c607826df784
+
+import Definitions.Def_ReciprocityTheory_SemistableReduction_SJCore
+import Definitions.Def_ReciprocityTheory_SemistableReduction_SjHolds
+import Definitions.Def_ReciprocityTheory_SemistableReduction_LagrangeIdealLiftsFact
+import Definitions.Def_ReciprocityTheory_SemistableReduction_HeightLowerBound
+import Definitions.Def_ReciprocityTheory_SemistableReduction_IntCores
+import Definitions.Def_ReciprocityTheory_SemistableReduction_TorusMean
+import Definitions.Def_ReciprocityTheory_SemistableReduction_TorusLex
+import Definitions.Def_ReciprocityTheory_SemistableReduction_GramOfLinearOrder
+import Definitions.Def_ReciprocityTheory_SemistableReduction_SphereTorus
+import Definitions.Def_ReciprocityTheory_SemistableReduction_TorusL2CauchyInequality
+import Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_torusMeanBasic
+import Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_torusLex
+import Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_torus_l2_cauchy_inequality
+import Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gram_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.MultiplicativeHeights ReciprocityTheory.MultiplicativeHeights.Closed
+open ReciprocityTheory.MultiplicativeHeights
+namespace ReciprocityTheory.MultiplicativeHeights.Closed
+theorem _root_.solution : GramStatement := gram_holds torusMeanBasic torusLex torus_l2_cauchy_inequality
+end ReciprocityTheory.MultiplicativeHeights.Closed

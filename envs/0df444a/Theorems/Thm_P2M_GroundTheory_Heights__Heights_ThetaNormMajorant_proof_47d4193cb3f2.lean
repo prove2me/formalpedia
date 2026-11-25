@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ThetaNormMajorant_proof_47d4193cb3f2
 -- name    : P2M_GroundTheory_Heights__Heights_ThetaNormMajorant_proof_47d4193cb3f2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:44.073555+00:00
 -- url     : https://prove2.me/theorems/520d89fc-4df6-43e0-a633-e0da7501bfeb

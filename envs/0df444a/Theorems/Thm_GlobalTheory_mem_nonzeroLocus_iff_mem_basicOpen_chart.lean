@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_nonzeroLocus_iff_mem_basicOpen_chart
 -- name    : GlobalTheory.mem_nonzeroLocus_iff_mem_basicOpen_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:48:09.694649+00:00
 -- url     : https://prove2.me/theorems/92b8115b-bcfc-4c7f-9850-49dae4767876

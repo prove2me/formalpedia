@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_LeviDatum_rJac_mk
 -- name    : GlobalTheory.LGrp.LeviDatum.rJac_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:22:11.23912+00:00
 -- url     : https://prove2.me/theorems/99a85a14-1432-574c-898e-4ce1b3be5dd1

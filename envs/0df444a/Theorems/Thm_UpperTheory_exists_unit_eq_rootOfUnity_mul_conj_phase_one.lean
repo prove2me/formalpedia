@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_exists_unit_eq_rootOfUnity_mul_conj_phase_one
 -- name    : UpperTheory.exists_unit_eq_rootOfUnity_mul_conj_phase_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:14:48.456187+00:00
 -- url     : https://prove2.me/theorems/aa045545-bba5-4c69-850c-86f6390f5878

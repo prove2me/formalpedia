@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_fockInner_self
 -- name    : GlobalTheory.MvPoly.fockInner_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:14.672196+00:00
 -- url     : https://prove2.me/theorems/4ef3b1b7-e43e-5f12-8132-9e9defc957fc

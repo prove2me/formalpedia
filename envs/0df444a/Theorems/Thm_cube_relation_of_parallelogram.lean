@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_cube_relation_of_parallelogram
 -- name    : cube_relation_of_parallelogram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:53.393607+00:00
 -- url     : https://prove2.me/theorems/476de4ee-09d1-5b67-b83b-b89c5b65abc7

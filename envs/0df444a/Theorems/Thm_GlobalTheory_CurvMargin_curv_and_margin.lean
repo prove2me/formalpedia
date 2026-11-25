@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CurvMargin_curv_and_margin
 -- name    : GlobalTheory.CurvMargin.curv_and_margin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:13.741306+00:00
 -- url     : https://prove2.me/theorems/fdfc3166-c072-465c-adce-b21f5ca954d8

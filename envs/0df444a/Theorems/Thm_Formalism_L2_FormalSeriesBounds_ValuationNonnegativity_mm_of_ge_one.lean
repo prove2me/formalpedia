@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ValuationNonnegativity_mm_of_ge_one
 -- name    : Formalism.L2.FormalSeriesBounds.ValuationNonnegativity.mm_of_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:26.375014+00:00
 -- url     : https://prove2.me/theorems/269ce50e-7f7d-47ee-9502-c2243cf0ad66

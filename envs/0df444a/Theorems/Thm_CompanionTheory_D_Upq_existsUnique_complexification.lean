@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_existsUnique_complexification
 -- name    : CompanionTheory.D.Upq.existsUnique_complexification
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:16:02.862744+00:00
 -- url     : https://prove2.me/theorems/9e88576b-f701-43a3-8611-0ae0d265fe3f

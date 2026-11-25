@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_powTwoDivLeExpLog
 -- name    : Formalism.HermitianLatticeCounting.P.powTwoDivLeExpLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:39:35.309806+00:00
 -- url     : https://prove2.me/theorems/df4919b7-69a8-4da6-847a-b26a219e3b0d

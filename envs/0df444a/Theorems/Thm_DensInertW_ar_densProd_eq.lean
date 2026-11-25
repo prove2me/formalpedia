@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_ar_densProd_eq
 -- name    : DensInertW.ar_densProd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:46.955886+00:00
 -- url     : https://prove2.me/theorems/7de4b3f0-7e74-4aad-9e8a-a26efb80eadb

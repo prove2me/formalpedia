@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_Q_estimate
 -- name    : Formalism.FourierDecayAlt.P.lemma_Q_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:33:03.250955+00:00
 -- url     : https://prove2.me/theorems/a3b68e16-02ae-4c18-a1d6-87367065dcb6

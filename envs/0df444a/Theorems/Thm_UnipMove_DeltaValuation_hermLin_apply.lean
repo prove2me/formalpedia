@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_DeltaValuation_hermLin_apply
 -- name    : UnipMove.DeltaValuation.hermLin_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:11:22.304672+00:00
 -- url     : https://prove2.me/theorems/db8d1496-c111-519b-bcae-516066024b82

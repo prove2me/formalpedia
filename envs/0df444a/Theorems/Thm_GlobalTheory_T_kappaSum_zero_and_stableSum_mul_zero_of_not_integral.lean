@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kappaSum_zero_and_stableSum_mul_zero_of_not_integral
 -- name    : GlobalTheory.T.kappaSum_zero_and_stableSum_mul_zero_of_not_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:16.921511+00:00
 -- url     : https://prove2.me/theorems/19ce2885-f90e-545d-99f0-4312890b06d5

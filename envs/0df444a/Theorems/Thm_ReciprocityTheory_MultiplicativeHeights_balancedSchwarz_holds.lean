@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_balancedSchwarz_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.balancedSchwarz_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:22:38.95082+00:00
 -- url     : https://prove2.me/theorems/6073cde7-9655-401a-b33d-23658480e479

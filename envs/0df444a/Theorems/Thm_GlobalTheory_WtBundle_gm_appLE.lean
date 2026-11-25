@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WtBundle_gm_appLE
 -- name    : GlobalTheory.WtBundle.gm_appLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:59:03.989829+00:00
 -- url     : https://prove2.me/theorems/eea5a9ae-c412-4649-b632-7648734ae5f5

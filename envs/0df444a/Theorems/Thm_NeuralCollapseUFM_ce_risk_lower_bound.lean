@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuralCollapseUFM_ce_risk_lower_bound
 -- name    : NeuralCollapseUFM.ce_risk_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:17:19.641571+00:00
 -- url     : https://prove2.me/theorems/afb7e312-b55b-4a38-95d0-d86dda5f3c83

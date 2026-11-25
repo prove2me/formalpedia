@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianPsiBounds_herm_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.HermitianPsiBounds.herm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:30:19.187741+00:00
 -- url     : https://prove2.me/theorems/73b8aa26-b86a-4c72-935d-35e5f72f664a

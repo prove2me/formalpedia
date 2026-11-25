@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_cHess_log_one_add_sum
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.cHess_log_one_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:39:55.254362+00:00
 -- url     : https://prove2.me/theorems/ffa8012a-ebb4-4de9-b600-e18fec814874

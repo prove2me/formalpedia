@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_absIrrDistinct_congr
 -- name    : Formalism.MainNotions.N.K.Norm.absIrrDistinct_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:52:52.77382+00:00
 -- url     : https://prove2.me/theorems/ac6fe960-066c-4dbc-8f2a-015e0c4dec9f

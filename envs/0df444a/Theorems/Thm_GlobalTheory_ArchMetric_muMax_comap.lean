@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_muMax_comap
 -- name    : GlobalTheory.ArchMetric.muMax_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:55:19.270277+00:00
 -- url     : https://prove2.me/theorems/06aebfcb-a65b-4166-803e-a4f76982a4a2

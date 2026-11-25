@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_scaled_pow
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.scaled_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:17.160569+00:00
 -- url     : https://prove2.me/theorems/73f46bef-5058-415c-a5b9-ea0e271efc09

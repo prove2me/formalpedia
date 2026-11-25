@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_generic_ratio_bound
 -- name    : generic_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:15:50.291829+00:00
 -- url     : https://prove2.me/theorems/7bb910ae-36b8-535a-876e-3e21da0d1c16

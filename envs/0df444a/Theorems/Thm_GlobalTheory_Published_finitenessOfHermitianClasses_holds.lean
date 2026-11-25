@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_finitenessOfHermitianClasses_holds
 -- name    : GlobalTheory.Published.finitenessOfHermitianClasses_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:17:36.611671+00:00
 -- url     : https://prove2.me/theorems/1ad80f06-ffe6-443f-8820-63e9b70307c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBiextId_formalSeriesValueAtTwoPoints_genericPoints
 -- name    : GlobalTheory.FrameBiextId.formalSeriesValueAtTwoPoints_genericPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:29.0558+00:00
 -- url     : https://prove2.me/theorems/559bd54e-9c45-40d7-ae58-c092d97db35b

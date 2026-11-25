@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenLine_line_hyperplane_cut
 -- name    : GlobalTheory.EigenLine.line_hyperplane_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:16.299799+00:00
 -- url     : https://prove2.me/theorems/499a615d-01bc-58fa-8f8a-c08a492a8070

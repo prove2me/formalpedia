@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_dvr_of_isGrpPullback
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.dvr_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:24:56.970806+00:00
 -- url     : https://prove2.me/theorems/0b2052c0-1de1-494b-9a11-8ecdbaec8d37

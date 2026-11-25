@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSmoothBlowupSeq_single
 -- name    : GlobalTheory.IsSmoothBlowupSeq.single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:11:35.548196+00:00
 -- url     : https://prove2.me/theorems/0eadd9d7-d117-4465-bdab-f3b8258addc1

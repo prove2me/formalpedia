@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_blkB_low
 -- name    : UnipMove.GraphH.blkB_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:10:59.736797+00:00
 -- url     : https://prove2.me/theorems/f9ef4ea8-c7fd-5e9b-88c0-271ad03ed57f

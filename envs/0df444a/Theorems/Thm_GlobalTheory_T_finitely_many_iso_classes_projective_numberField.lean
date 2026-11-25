@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finitely_many_iso_classes_projective_numberField
 -- name    : GlobalTheory.T.finitely_many_iso_classes_projective_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:08.733812+00:00
 -- url     : https://prove2.me/theorems/25264f06-8e3c-534d-a714-df1c0f2418ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_sum_fun_eq_sum_perm
 -- name    : ReciprocityTheory.PGsh.sum_fun_eq_sum_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:09:05.651693+00:00
 -- url     : https://prove2.me/theorems/dafdcfa2-02b3-4606-b7d4-3eff94cb635d

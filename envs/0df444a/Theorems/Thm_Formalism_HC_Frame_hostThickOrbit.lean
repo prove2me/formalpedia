@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hostThickOrbit
 -- name    : Formalism.HC.Frame.hostThickOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:09.290415+00:00
 -- url     : https://prove2.me/theorems/0813b4a3-084c-5c4d-bfcc-ffc14df2b244

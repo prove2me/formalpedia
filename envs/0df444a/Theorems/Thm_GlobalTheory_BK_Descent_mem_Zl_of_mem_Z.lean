@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_mem_Zl_of_mem_Z
 -- name    : GlobalTheory.BK.Descent.mem_Zl_of_mem_Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:01.463804+00:00
 -- url     : https://prove2.me/theorems/b0a627dc-68bc-4ea5-a80a-be4c382839d3

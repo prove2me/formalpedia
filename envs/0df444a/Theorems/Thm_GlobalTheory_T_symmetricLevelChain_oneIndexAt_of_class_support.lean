@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetricLevelChain_oneIndexAt_of_class_support
 -- name    : GlobalTheory.T.symmetricLevelChain_oneIndexAt_of_class_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:40:26.296878+00:00
 -- url     : https://prove2.me/theorems/446e06f9-b269-5e57-8c2c-61727850ae4d

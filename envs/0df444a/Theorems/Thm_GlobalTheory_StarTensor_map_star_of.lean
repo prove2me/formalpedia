@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StarTensor_map_star_of
 -- name    : GlobalTheory.StarTensor.map_star_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:23:54.047376+00:00
 -- url     : https://prove2.me/theorems/4b7b45c4-bb50-58be-bb20-2e8ed4b1991a

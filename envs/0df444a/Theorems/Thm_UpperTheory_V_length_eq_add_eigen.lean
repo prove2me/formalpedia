@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_length_eq_add_eigen
 -- name    : UpperTheory.V.length_eq_add_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:54.636875+00:00
 -- url     : https://prove2.me/theorems/c187f46b-bfcc-4feb-a7ca-4c6bfd2ab13a

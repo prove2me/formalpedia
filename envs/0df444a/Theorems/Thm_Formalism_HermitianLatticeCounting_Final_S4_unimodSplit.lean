@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_unimodSplit
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.unimodSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:39:48.892734+00:00
 -- url     : https://prove2.me/theorems/c66460d9-c52d-55df-b8fd-d96ba42e2469

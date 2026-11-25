@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_latB_le_pairSpace
 -- name    : GlobalTheory.Models.latB_le_pairSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:20:12.813128+00:00
 -- url     : https://prove2.me/theorems/a43b78d3-63f6-5ea3-abc9-de9297622592

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentNormalFormsRhoFacts_annih_anti
 -- name    : Formalism.NG.IdempotentNormalFormsRhoFacts.annih_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:52:03.416342+00:00
 -- url     : https://prove2.me/theorems/acf27abc-2412-55b1-8597-5d9450341f21

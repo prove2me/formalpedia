@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isometric_lattice_congruence_subgroups
 -- name    : GlobalTheory.T.isometric_lattice_congruence_subgroups
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:49.629821+00:00
 -- url     : https://prove2.me/theorems/05c2d4d0-17b0-462b-a0a2-9cf42a29a630

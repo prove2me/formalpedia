@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_degreeOfFamily_eq_degreeOfFamily
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.degreeOfFamily_eq_degreeOfFamily
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:54:32.01141+00:00
 -- url     : https://prove2.me/theorems/f544ac45-7a25-4e33-a68f-efe22a5c58a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramSubmodular_gram_fromCols
 -- name    : GlobalTheory.GramSubmodular.gram_fromCols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:06:03.34137+00:00
 -- url     : https://prove2.me/theorems/4a28ca7e-8226-4181-b6fe-46422eed4af4

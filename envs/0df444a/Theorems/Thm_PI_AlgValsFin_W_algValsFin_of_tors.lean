@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_algValsFin_of_tors
 -- name    : PI.AlgValsFin.W.algValsFin_of_tors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:22:31.75931+00:00
 -- url     : https://prove2.me/theorems/4b83820b-2d86-4a9f-aab6-a6ab6182d940

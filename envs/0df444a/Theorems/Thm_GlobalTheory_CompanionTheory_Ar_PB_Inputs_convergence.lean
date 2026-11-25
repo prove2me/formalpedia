@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_convergence
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.convergence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:30.3488+00:00
 -- url     : https://prove2.me/theorems/4310f72b-d343-406b-b6d9-2d7162763b4c

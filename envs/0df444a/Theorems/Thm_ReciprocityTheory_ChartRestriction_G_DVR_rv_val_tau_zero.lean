@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_rv_val_tau_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.rv_val_tau_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:02:19.709453+00:00
 -- url     : https://prove2.me/theorems/52c9ab89-5f08-453d-9df5-e2909cc74b22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_grLat_scaleLat
 -- name    : GlobalTheory.HTLat.grLat_scaleLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:32.136096+00:00
 -- url     : https://prove2.me/theorems/e345ff5d-5b50-40fb-a321-03e6610ba261

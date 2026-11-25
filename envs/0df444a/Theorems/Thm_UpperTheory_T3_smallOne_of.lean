@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_T3_smallOne_of
 -- name    : UpperTheory.T3.smallOne_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:14:17.936361+00:00
 -- url     : https://prove2.me/theorems/5b899a9f-6aea-49c6-b064-aa68f9513fe2

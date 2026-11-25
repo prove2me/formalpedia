@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_arakelovDegree_eq_degreeOfFamily
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.arakelovDegree_eq_degreeOfFamily
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:49:01.091901+00:00
 -- url     : https://prove2.me/theorems/e8429ead-d3a1-4c76-be25-089f5f908d5a

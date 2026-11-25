@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.hasProperCenters_embeddedResolutionRuleOfPrincipalization
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T17:23:21.284188+00:00
+-- url     : https://prove2.me/submissions/ffb1bd16-9930-4fa6-958b-b65611774010
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_RemoveIsoBlowups
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossingsNil
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_AffineResolutionRule
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_EmbeddedResolutionRule
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_FunctorialPrincipalization
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_EmbeddedBlowupSequence
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_EmbeddedStrictTransform
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_EmbeddedResolutionRuleOfPrincipalization
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_SequenceOfBlowups_withoutIsoBlowups_center_ne_top
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open CategoryTheory AlgebraicGeometry
+noncomputable section
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+namespace FunctorialResolution.EmbeddedResolution
+theorem _root_.solution (A : PrincipalizationAlgorithm.{u}) (h : TransitionsAreBlowupsForEmbeddings A) :
+    (embeddedResolutionRuleOfPrincipalization A h).HasProperCenters := by
+  intro k _ _ Y p _ _ _ _ D i hi
+  have hi' : i < ((D.toEmbeddedBlowupSequence A).inducedBlowups (h k Y p D)).withoutIsoBlowups.length := hi
+  exact SequenceOfBlowups.withoutIsoBlowups_center_ne_top _ hi'
+end FunctorialResolution.EmbeddedResolution

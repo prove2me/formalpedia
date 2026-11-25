@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_ptGauge_nonneg
 -- name    : GlobalTheory.CompactDualQuot.ptGauge_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:02.657309+00:00
 -- url     : https://prove2.me/theorems/2e50fe7e-278e-51b8-8aa9-b33c91e16483

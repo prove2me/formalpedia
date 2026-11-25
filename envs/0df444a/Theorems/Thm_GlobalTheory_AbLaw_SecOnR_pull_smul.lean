@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOnR_pull_smul
 -- name    : GlobalTheory.AbLaw.SecOnR.pull_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:38:44.237842+00:00
 -- url     : https://prove2.me/theorems/a53c9056-9209-4a07-8820-a88bb1897215

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isUnit_of_isUnit_mul_comul_eq_tmul
 -- name    : GlobalTheory.T.isUnit_of_isUnit_mul_comul_eq_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:20.196805+00:00
 -- url     : https://prove2.me/theorems/9cd8c137-f652-5d97-980d-23ccfa474932

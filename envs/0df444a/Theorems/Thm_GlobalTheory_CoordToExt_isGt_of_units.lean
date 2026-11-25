@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_isGt_of_units
 -- name    : GlobalTheory.CoordToExt.isGt_of_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:03.39395+00:00
 -- url     : https://prove2.me/theorems/65860fdd-ffcd-5794-8874-a43747956e48

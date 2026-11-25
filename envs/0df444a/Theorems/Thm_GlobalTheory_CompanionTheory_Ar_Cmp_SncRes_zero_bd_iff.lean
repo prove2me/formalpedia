@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_zero_bd_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.zero_bd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:02:22.923808+00:00
 -- url     : https://prove2.me/theorems/805884e2-75b9-545e-8322-e2cd845b2664

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_chrEquiv_apply
 -- name    : GlobalTheory.FourierChainCompare.chrEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:38.582951+00:00
 -- url     : https://prove2.me/theorems/097c4225-0725-4a37-ac84-c466273e2017

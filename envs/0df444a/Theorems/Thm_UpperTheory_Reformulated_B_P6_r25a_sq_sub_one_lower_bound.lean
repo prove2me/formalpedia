@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r25a_sq_sub_one_lower_bound
 -- name    : UpperTheory.Reformulated.B.P6.r25a.sq_sub_one_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:25.843705+00:00
 -- url     : https://prove2.me/theorems/13e6d49d-c9e6-593c-a6d9-41508e3c0d30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CMEul_eulerEq_of_fib
 -- name    : CMEul.eulerEq_of_fib
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:26:51.684815+00:00
 -- url     : https://prove2.me/theorems/c8dce181-dab7-40ff-93f8-406393952191

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_ipOf_eq_csOf
 -- name    : Formalism.L2.Col.GSD.ipOf_eq_csOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:08.366676+00:00
 -- url     : https://prove2.me/theorems/81e9607f-8559-57a1-9e85-737ad41578d5

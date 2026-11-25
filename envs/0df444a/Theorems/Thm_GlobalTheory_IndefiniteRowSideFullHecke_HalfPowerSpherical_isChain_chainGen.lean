@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_HalfPowerSpherical_isChain_chainGen
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.HalfPowerSpherical.isChain_chainGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:44.318559+00:00
 -- url     : https://prove2.me/theorems/777120fe-6886-5b38-b188-11a9ad11f9c4

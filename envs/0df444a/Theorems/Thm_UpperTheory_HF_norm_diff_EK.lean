@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_norm_diff_EK
 -- name    : UpperTheory.HF.norm_diff_EK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:20.595809+00:00
 -- url     : https://prove2.me/theorems/68165b5a-a45d-5c38-80d3-a21225e09732

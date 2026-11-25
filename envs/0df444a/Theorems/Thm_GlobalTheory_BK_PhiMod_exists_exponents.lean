@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_exists_exponents
 -- name    : GlobalTheory.BK.PhiMod.exists_exponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:56:04.238895+00:00
 -- url     : https://prove2.me/theorems/f68e811d-890a-55be-b330-cb21cb55d819

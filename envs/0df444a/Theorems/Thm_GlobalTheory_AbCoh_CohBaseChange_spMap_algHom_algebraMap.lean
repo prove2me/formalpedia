@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_CohBaseChange_spMap_algHom_algebraMap
 -- name    : GlobalTheory.AbCoh.CohBaseChange.spMap_algHom_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:02:08.843117+00:00
 -- url     : https://prove2.me/theorems/08b1b9ce-8f83-4364-b522-41430244ce09

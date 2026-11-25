@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_filter_le_succ
 -- name    : ReciprocityTheory.ReducedBases.T2.filter_le_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:10:29.104889+00:00
 -- url     : https://prove2.me/theorems/d3bf620a-4769-4e73-aa3e-daa6c3b2b8ec

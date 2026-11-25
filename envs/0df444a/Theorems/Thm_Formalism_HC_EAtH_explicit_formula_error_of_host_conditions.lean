@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EAtH_explicit_formula_error_of_host_conditions
 -- name    : Formalism.HC.EAtH.explicit_formula_error_of_host_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:36:38.682614+00:00
 -- url     : https://prove2.me/theorems/a3df57ac-a53a-58fc-a049-8151798e0238

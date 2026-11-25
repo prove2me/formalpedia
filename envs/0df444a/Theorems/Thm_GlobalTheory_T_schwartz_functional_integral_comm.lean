@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_functional_integral_comm
 -- name    : GlobalTheory.T.schwartz_functional_integral_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:04.917818+00:00
 -- url     : https://prove2.me/theorems/f9b57430-422f-5117-8c8d-70a9c62d7136

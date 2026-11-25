@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_unfTerm_coef_pos
 -- name    : GlobalTheory.FunObj.unfTerm_coef_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:40.654802+00:00
 -- url     : https://prove2.me/theorems/0ffaa459-9852-42b0-97d7-5a982ebde5b2

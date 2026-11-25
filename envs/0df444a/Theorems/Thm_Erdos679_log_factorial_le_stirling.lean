@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos679_log_factorial_le_stirling
 -- name    : Erdos679.log_factorial_le_stirling
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:01:14.524447+00:00
 -- url     : https://prove2.me/theorems/ff0bf872-25e9-42a6-b15a-31b375df2d91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_not_isLat_bot
 -- name    : GlobalTheory.HL.Model.not_isLat_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:21.334432+00:00
 -- url     : https://prove2.me/theorems/1952d234-44b7-450f-939e-dbdc7f6834d0

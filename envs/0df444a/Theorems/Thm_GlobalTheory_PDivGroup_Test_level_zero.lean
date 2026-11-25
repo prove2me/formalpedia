@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_Test_level_zero
 -- name    : GlobalTheory.PDivGroup.Test.level_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:35.318863+00:00
 -- url     : https://prove2.me/theorems/a65e6ef7-dba9-4e79-8bb7-10831355a46e

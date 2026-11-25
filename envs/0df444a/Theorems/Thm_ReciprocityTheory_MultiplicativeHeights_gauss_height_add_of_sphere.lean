@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gauss_height_add_of_sphere
 -- name    : ReciprocityTheory.MultiplicativeHeights.gauss_height_add_of_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:01.1468+00:00
 -- url     : https://prove2.me/theorems/f4d72b47-1766-5082-86b8-0caaf6bc1111

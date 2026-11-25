@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ModeHalfB_Ms_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ModeHalfB.Ms_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:01:46.027198+00:00
 -- url     : https://prove2.me/theorems/03ef86c3-db65-5698-b0db-06d0f95450e4

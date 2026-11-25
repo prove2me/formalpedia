@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealTangentSpace_maj_le_norm_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealTangentSpace.maj_le_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:31:48.966256+00:00
 -- url     : https://prove2.me/theorems/8799c00c-3ad5-46ea-a52b-fc76f8f0c162

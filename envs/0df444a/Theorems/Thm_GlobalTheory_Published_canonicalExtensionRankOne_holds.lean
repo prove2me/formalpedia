@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_canonicalExtensionRankOne_holds
 -- name    : GlobalTheory.Published.canonicalExtensionRankOne_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:17:36.38928+00:00
 -- url     : https://prove2.me/theorems/6c95d611-674a-443e-b120-969cbf559caf

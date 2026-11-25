@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_thetaQuasiPeriod_holds
 -- name    : ReciprocityTheory.PTheta.thetaQuasiPeriod_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:57.902039+00:00
 -- url     : https://prove2.me/theorems/67f4588d-e7ae-4a5c-9b24-88c215522b6a

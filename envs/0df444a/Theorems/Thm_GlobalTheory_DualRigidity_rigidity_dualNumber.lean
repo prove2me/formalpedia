@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualRigidity_rigidity_dualNumber
 -- name    : GlobalTheory.DualRigidity.rigidity_dualNumber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:35.495525+00:00
 -- url     : https://prove2.me/theorems/57d51110-5581-4daa-a175-fadd81ef1ac8

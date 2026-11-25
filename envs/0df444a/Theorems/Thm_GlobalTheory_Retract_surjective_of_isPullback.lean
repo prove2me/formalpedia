@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_surjective_of_isPullback
 -- name    : GlobalTheory.Retract.surjective_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:20:06.300498+00:00
 -- url     : https://prove2.me/theorems/a0ae46cd-89ff-4489-bce0-f0ad51936547

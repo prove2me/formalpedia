@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42FixedLipschitzGridLimitV1
 -- name    : Kyprianou.Ch04.exercise42FixedLipschitzGridLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:33:04.298919+00:00
 -- url     : https://prove2.me/theorems/0e270c5a-edff-5ed7-8c08-c9f957d9aaa8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_flipOneThree_Pf_KP_blockSplitting_holds
 -- name    : Formalism.MainNotions.flipOneThree.Pf.KP.blockSplitting_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:51:47.876779+00:00
 -- url     : https://prove2.me/theorems/a0ca5b0f-7188-530a-a2d7-3823bbe8c4cc

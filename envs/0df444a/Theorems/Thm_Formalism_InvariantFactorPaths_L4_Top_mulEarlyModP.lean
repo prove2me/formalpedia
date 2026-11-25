@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_mulEarlyModP
 -- name    : Formalism.InvariantFactorPaths.L4.Top.mulEarlyModP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:43:27.666348+00:00
 -- url     : https://prove2.me/theorems/dc674769-fcf0-4ea1-9476-74e78cf885c1

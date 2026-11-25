@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_gaugeNormalizedStabilizer
 -- name    : exists_gaugeNormalizedStabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:14:31.117873+00:00
 -- url     : https://prove2.me/theorems/b5dc5b90-7d65-4f7c-a5a1-1fde69d214cb

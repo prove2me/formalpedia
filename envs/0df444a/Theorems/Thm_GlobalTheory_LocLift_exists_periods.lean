@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_exists_periods
 -- name    : GlobalTheory.LocLift.exists_periods
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:51:07.707614+00:00
 -- url     : https://prove2.me/theorems/5af8fee2-dfa6-5bb9-831b-b6c5a65f77f8

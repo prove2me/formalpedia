@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Kummer_units_to_invariants_prime_surjective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Kummer.units_to_invariants_prime_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:04:03.615664+00:00
 -- url     : https://prove2.me/theorems/595983ae-fbc7-43c7-bd79-02ce453323b5

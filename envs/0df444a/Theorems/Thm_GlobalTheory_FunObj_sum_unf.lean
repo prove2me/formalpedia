@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_sum_unf
 -- name    : GlobalTheory.FunObj.sum_unf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:46.832906+00:00
 -- url     : https://prove2.me/theorems/d54ce279-b8ed-443e-8a2b-256bdfa81c00

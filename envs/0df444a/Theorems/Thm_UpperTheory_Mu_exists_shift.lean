@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_exists_shift
 -- name    : UpperTheory.Mu.exists_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:48:46.859834+00:00
 -- url     : https://prove2.me/theorems/28573702-c795-4c54-8346-57e975d28319

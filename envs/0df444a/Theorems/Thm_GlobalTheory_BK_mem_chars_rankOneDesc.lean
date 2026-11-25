@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_mem_chars_rankOneDesc
 -- name    : GlobalTheory.BK.mem_chars_rankOneDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:48.797352+00:00
 -- url     : https://prove2.me/theorems/68e46676-96ee-5f3e-9b9e-58bc27f281a5

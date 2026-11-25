@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HF_Final_hostDiscr
 -- name    : Formalism.HF.Final.hostDiscr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:20.46623+00:00
 -- url     : https://prove2.me/theorems/486555fe-9925-5876-8c38-e3448532cced

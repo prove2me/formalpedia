@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chevalley_exists_le_sup_maximalIdeal_pow_of_antitone
 -- name    : GlobalTheory.Chevalley.exists_le_sup_maximalIdeal_pow_of_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:31.88087+00:00
 -- url     : https://prove2.me/theorems/67b389d0-458b-572a-b9d3-719f177c997f

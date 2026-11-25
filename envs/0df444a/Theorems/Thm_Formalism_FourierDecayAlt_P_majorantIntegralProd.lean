@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_majorantIntegralProd
 -- name    : Formalism.FourierDecayAlt.P.majorantIntegralProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:08.442076+00:00
 -- url     : https://prove2.me/theorems/32f2b91b-5f25-5198-8ea1-fb4f992d3621

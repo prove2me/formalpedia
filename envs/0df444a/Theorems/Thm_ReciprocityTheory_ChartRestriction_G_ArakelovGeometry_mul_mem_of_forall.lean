@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_mul_mem_of_forall
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.mul_mem_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:02:59.789725+00:00
 -- url     : https://prove2.me/theorems/5afce3df-1c02-42bd-bdfc-aedc8d47447e

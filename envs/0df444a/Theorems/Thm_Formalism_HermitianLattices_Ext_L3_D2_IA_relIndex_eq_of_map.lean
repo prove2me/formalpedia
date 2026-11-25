@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_IA_relIndex_eq_of_map
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.IA.relIndex_eq_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:48:41.260491+00:00
 -- url     : https://prove2.me/theorems/754f88d7-43ff-4fa5-9ed8-fb429b449867

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gauss_form_plus_letter
 -- name    : Formalism.FourierDecayAlt.P.gauss_form_plus_letter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:30:52.467081+00:00
 -- url     : https://prove2.me/theorems/d06b19a5-d13d-5a2d-82f2-68c07562fb98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Short_ChowClosing_sectionCycleReduced_of
 -- name    : GlobalTheory.CompanionTheory.Ar.Short.ChowClosing.sectionCycleReduced_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:00:53.007592+00:00
 -- url     : https://prove2.me/theorems/cde74d5e-df98-52c5-ad40-972d38897718

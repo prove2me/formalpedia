@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszTheta_shannonCapacity_cycle_five
 -- name    : LovaszTheta.shannonCapacity_cycle_five
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:37:41.831861+00:00
 -- url     : https://prove2.me/theorems/c3ccadce-0ef3-4b57-81f5-853b8cfd845e

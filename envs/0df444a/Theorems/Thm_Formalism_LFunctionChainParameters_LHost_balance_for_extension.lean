@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_balance_for_extension
 -- name    : Formalism.LFunctionChainParameters.LHost.balance_for_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:51:01.471061+00:00
 -- url     : https://prove2.me/theorems/89b32f54-f187-4fc6-862a-e8917d579c02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_projection_degree_bound
 -- name    : projection_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:15:33.150413+00:00
 -- url     : https://prove2.me/theorems/d2316a5f-2cda-41a3-a840-113ba3b50702

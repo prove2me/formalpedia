@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_RankA_factor_of_basis
 -- name    : ReciprocityTheory.PGsh.Up.RankA.factor_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:06:42.716983+00:00
 -- url     : https://prove2.me/theorems/b5cd3d5d-4ddd-46a8-b4a0-de9b2edf1479

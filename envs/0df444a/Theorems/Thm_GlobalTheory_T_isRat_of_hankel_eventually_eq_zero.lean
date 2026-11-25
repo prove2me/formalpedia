@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isRat_of_hankel_eventually_eq_zero
 -- name    : GlobalTheory.T.isRat_of_hankel_eventually_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:30.310393+00:00
 -- url     : https://prove2.me/theorems/abad89b2-20c8-470e-86c4-7ce751811cba

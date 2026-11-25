@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_mem_dpSpan_Ici
 -- name    : Reformulated.AutPerF.mem_dpSpan_Ici
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:18.13705+00:00
 -- url     : https://prove2.me/theorems/3bf70426-e7b4-5f87-b120-8a97e99ab72a

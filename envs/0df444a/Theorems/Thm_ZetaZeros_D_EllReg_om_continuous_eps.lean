@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_om_continuous_eps
 -- name    : ZetaZeros.D.EllReg.om_continuous_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:56.065828+00:00
 -- url     : https://prove2.me/theorems/5de74c36-6264-48b6-9ed2-4560e3be2c75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCurve_exists_prime
 -- name    : GlobalTheory.NormCurve.exists_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:29:04.628917+00:00
 -- url     : https://prove2.me/theorems/72a0b383-1c23-4093-8f09-22d8e0b772c9

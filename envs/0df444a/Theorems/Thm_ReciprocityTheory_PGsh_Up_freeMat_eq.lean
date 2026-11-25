@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_freeMat_eq
 -- name    : ReciprocityTheory.PGsh.Up.freeMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:06:50.971445+00:00
 -- url     : https://prove2.me/theorems/4f7ba413-45df-4f0e-a2a9-fdaa3757bb9e

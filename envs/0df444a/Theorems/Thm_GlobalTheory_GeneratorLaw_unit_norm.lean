@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorLaw_unit_norm
 -- name    : GlobalTheory.GeneratorLaw.unit_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:35:01.392459+00:00
 -- url     : https://prove2.me/theorems/7fb881de-ff82-4775-b260-19a9d93330b2

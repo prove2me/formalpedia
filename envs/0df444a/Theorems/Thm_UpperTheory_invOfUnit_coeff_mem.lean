@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_invOfUnit_coeff_mem
 -- name    : UpperTheory.invOfUnit_coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:47.935281+00:00
 -- url     : https://prove2.me/theorems/94781303-d988-498e-85ba-468795650085

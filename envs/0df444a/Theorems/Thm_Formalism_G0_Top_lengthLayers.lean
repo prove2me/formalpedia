@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_lengthLayers
 -- name    : Formalism.G0.Top.lengthLayers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:37:09.312662+00:00
 -- url     : https://prove2.me/theorems/9f5a4d73-69ff-4899-8bd0-114ec0df4b5d

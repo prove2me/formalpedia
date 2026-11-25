@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_sharp_recursion_theorem_a
 -- name    : Formalism.FourierDecayAlt.P.sharp_recursion_theorem_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:57.518807+00:00
 -- url     : https://prove2.me/theorems/bf2e97ba-a618-491e-87ed-5dfd4cabcce8

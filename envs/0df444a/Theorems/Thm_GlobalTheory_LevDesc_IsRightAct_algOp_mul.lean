@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_IsRightAct_algOp_mul
 -- name    : GlobalTheory.LevDesc.IsRightAct.algOp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:11.926172+00:00
 -- url     : https://prove2.me/theorems/120493f0-7301-53e2-ab85-b0aacffc609f

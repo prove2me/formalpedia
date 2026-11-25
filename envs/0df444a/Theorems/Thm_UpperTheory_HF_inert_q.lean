@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_inert_q
 -- name    : UpperTheory.HF.inert_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:26:18.055377+00:00
 -- url     : https://prove2.me/theorems/3fa13033-4c48-4f16-a78a-8148af0279ff

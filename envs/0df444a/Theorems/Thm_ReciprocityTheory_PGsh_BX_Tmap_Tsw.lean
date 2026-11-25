@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_Tmap_Tsw
 -- name    : ReciprocityTheory.PGsh.BX.Tmap_Tsw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:28.67296+00:00
 -- url     : https://prove2.me/theorems/871ccb25-7c81-41d3-bb45-b3dd0ce43128

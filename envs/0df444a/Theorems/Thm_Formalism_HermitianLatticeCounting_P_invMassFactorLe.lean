@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_invMassFactorLe
 -- name    : Formalism.HermitianLatticeCounting.P.invMassFactorLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:39:43.864802+00:00
 -- url     : https://prove2.me/theorems/fe0b36ac-f25c-4a88-8bb5-3bb94f2b2ee4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_sum_intertwined_of_mem_invariant_submodule
 -- name    : GlobalTheory.T.exists_sum_intertwined_of_mem_invariant_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:08.709714+00:00
 -- url     : https://prove2.me/theorems/d0b35dfb-7c32-43b9-a1e3-b98658bf309e

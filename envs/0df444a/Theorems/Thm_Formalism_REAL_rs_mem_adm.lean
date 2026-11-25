@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rs_mem_adm
 -- name    : Formalism.REAL.rs_mem_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:14.314311+00:00
 -- url     : https://prove2.me/theorems/1d4114b3-3e9e-4608-a867-4781f7dede8a

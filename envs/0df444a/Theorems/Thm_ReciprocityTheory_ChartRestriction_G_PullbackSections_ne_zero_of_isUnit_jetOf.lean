@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_ne_zero_of_isUnit_jetOf
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.ne_zero_of_isUnit_jetOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:25:07.05668+00:00
 -- url     : https://prove2.me/theorems/fdcf1a5c-5663-432a-b1bc-9c0691c70890

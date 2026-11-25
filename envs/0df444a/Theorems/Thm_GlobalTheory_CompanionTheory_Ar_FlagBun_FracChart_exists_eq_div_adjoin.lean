@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_FlagBun_FracChart_exists_eq_div_adjoin
 -- name    : GlobalTheory.CompanionTheory.Ar.FlagBun.FracChart.exists_eq_div_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:15.101822+00:00
 -- url     : https://prove2.me/theorems/66d4cb8e-640e-4244-ab3d-0d31b7523eab

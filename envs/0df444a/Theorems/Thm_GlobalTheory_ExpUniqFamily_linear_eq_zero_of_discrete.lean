@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpUniqFamily_linear_eq_zero_of_discrete
 -- name    : GlobalTheory.ExpUniqFamily.linear_eq_zero_of_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:00:45.008565+00:00
 -- url     : https://prove2.me/theorems/10d6bf76-809d-4786-83ec-ade49c67534e

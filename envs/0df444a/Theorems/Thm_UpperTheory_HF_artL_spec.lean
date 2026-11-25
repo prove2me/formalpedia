@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_artL_spec
 -- name    : UpperTheory.HF.artL_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:13:12.557888+00:00
 -- url     : https://prove2.me/theorems/2d8945bc-9957-42b3-9035-8a75d9accd9d

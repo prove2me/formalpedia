@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosureDimensionSpecialization_dim_closure_le_of_specializes
 -- name    : GlobalTheory.ClosureDimensionSpecialization.dim_closure_le_of_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:36.401827+00:00
 -- url     : https://prove2.me/theorems/b0a38ba3-4905-5d67-93cc-fe56f6247ba1

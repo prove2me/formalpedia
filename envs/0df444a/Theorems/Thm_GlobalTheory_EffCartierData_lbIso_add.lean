@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_lbIso_add
 -- name    : GlobalTheory.EffCartierData.lbIso_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:27:47.443108+00:00
 -- url     : https://prove2.me/theorems/7d06adac-ecd8-58db-bbe6-74b0d6349b32

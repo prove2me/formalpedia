@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMorK_psi_apply
 -- name    : GlobalTheory.KS.DerMorK.psi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:14:05.703682+00:00
 -- url     : https://prove2.me/theorems/681000e4-bb4d-42bc-ad11-0e747fecc577

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SqZero_existsUnique_lieMatrix
 -- name    : GlobalTheory.SqZero.existsUnique_lieMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:31.91986+00:00
 -- url     : https://prove2.me/theorems/bb39267b-c899-5938-b035-acdcc09c56d1

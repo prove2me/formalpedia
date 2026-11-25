@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_directSumGoodRank
 -- name    : Formalism.CountingSumsFrames.Top.directSumGoodRank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:24:33.696363+00:00
 -- url     : https://prove2.me/theorems/abc31323-77b7-4f49-8e86-afc723f583dc

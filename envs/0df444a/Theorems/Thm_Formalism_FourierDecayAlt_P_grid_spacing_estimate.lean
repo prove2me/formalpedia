@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_grid_spacing_estimate
 -- name    : Formalism.FourierDecayAlt.P.grid_spacing_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:30:14.995678+00:00
 -- url     : https://prove2.me/theorems/a645f8c6-e2ce-438b-aadb-4ceeffbc4ce5

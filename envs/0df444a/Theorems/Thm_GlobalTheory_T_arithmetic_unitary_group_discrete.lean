@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_arithmetic_unitary_group_discrete
 -- name    : GlobalTheory.T.arithmetic_unitary_group_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:53.162429+00:00
 -- url     : https://prove2.me/theorems/e8bd90fd-5407-5b50-bd3c-edd5dae61489

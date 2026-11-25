@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_tensor_injective_holds
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.tensor_injective_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:31:21.047165+00:00
 -- url     : https://prove2.me/theorems/4566bcd5-6626-56a8-8b87-accc27d832cc

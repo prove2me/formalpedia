@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_invInt
 -- name    : Formalism.InvariantFactorPaths.PW.Top.invInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:43:05.318033+00:00
 -- url     : https://prove2.me/theorems/37b66d2a-e541-595c-b35f-266aaad4683d

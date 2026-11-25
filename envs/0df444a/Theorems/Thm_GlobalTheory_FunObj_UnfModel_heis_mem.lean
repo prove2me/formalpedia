@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_UnfModel_heis_mem
 -- name    : GlobalTheory.FunObj.UnfModel.heis_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:45.509869+00:00
 -- url     : https://prove2.me/theorems/ae43e7b0-3553-4661-a2dc-f8661febdd38

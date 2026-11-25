@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffGlue_eq_zero_of_cover_zero
 -- name    : GlobalTheory.AffGlue.eq_zero_of_cover_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:03:18.59489+00:00
 -- url     : https://prove2.me/theorems/bd714416-73be-4085-9f5d-19ed79cc8107

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_exists_orthonormal_of_unimodular
 -- name    : GlobalTheory.HermLocal.exists_orthonormal_of_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:09:06.765626+00:00
 -- url     : https://prove2.me/theorems/194fd896-a26b-40a0-949f-e19b0d8db0d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_Inh_isLat_stdLat
 -- name    : GlobalTheory.PhiGam.Inh.isLat_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:06.346806+00:00
 -- url     : https://prove2.me/theorems/4f99ae2a-041a-590c-9ce0-a5f92f198b1b

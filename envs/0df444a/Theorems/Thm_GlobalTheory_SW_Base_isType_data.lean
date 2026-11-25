@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_isType_data
 -- name    : GlobalTheory.SW.Base.isType_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:57.533723+00:00
 -- url     : https://prove2.me/theorems/2a941d9c-70e5-4703-9a2a-d98bc57f91e2

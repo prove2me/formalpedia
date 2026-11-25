@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_quotient_sigma_finite
 -- name    : quotient_sigma_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:16:07.532198+00:00
 -- url     : https://prove2.me/theorems/14d3e0d8-1332-4381-bf09-890fc5502406

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_weylForU_of
 -- name    : weylForU_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:32:02.142429+00:00
 -- url     : https://prove2.me/theorems/4be8abf8-1d01-4c71-89d2-1bd6f8d3b5f5

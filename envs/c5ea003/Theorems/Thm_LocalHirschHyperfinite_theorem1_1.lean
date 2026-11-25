@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalHirschHyperfinite_theorem1_1
 -- name    : LocalHirschHyperfinite.theorem1_1
--- status  : Open
+-- status  : Proved
 -- author  : @username
 -- created : 2026-11-25T14:28:17.324641+00:00
 -- url     : https://prove2.me/theorems/e34e74ba-f65f-5e51-8599-4cd7a3dd658f

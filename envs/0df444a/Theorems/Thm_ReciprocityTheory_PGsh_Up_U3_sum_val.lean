@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_sum_val
 -- name    : ReciprocityTheory.PGsh.Up.U3.sum_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:07:01.256652+00:00
 -- url     : https://prove2.me/theorems/d0d6515e-5a0f-4f6f-87ad-442e29ffbc2f

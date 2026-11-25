@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SpanSubtraction_VanOrd_eq_zero
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SpanSubtraction.VanOrd.eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:09:49.037858+00:00
 -- url     : https://prove2.me/theorems/b01c1673-4a3e-4e9c-9be7-4dd576b71fc9

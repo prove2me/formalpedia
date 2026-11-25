@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_infinite_component_coordinates_action
 -- name    : GlobalTheory.T.infinite_component_coordinates_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:35:16.507217+00:00
 -- url     : https://prove2.me/theorems/0251556c-7750-5375-b140-aca448fbf516

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Congruence_finite_cosets_principal_congruence
 -- name    : GlobalTheory.CompanionTheory.Congruence.finite_cosets_principal_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:01:01.52982+00:00
 -- url     : https://prove2.me/theorems/f403b4a1-1ce4-47c0-b393-24def1ecc3c2

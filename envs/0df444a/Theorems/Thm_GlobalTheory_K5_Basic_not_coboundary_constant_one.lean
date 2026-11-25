@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_not_coboundary_constant_one
 -- name    : GlobalTheory.K5.Basic.not_coboundary_constant_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:13:03.397288+00:00
 -- url     : https://prove2.me/theorems/09e1d88c-9479-4789-ae20-8b6e4b9e182c

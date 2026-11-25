@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_exists_eq_act_stdLat
 -- name    : GlobalTheory.RootEx.UnfoldShape.exists_eq_act_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:21:13.669456+00:00
 -- url     : https://prove2.me/theorems/d73ba900-fcd1-484d-9f2b-1944bd740da3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffDecay_Tame_decay
 -- name    : GlobalTheory.DiffDecay.Tame.decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:09.576376+00:00
 -- url     : https://prove2.me/theorems/b0bf14e1-3ada-4140-9baf-f61be4c088ae

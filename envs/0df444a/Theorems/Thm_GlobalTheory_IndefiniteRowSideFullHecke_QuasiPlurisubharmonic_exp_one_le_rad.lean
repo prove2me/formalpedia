@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_QuasiPlurisubharmonic_exp_one_le_rad
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.QuasiPlurisubharmonic.exp_one_le_rad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:12.356184+00:00
 -- url     : https://prove2.me/theorems/a9948c75-721e-4e4a-90e0-ffe9c6066836

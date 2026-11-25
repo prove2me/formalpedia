@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_eis_qAll
 -- name    : GlobalTheory.QFam.eis_qAll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:00:14.424001+00:00
 -- url     : https://prove2.me/theorems/475467b2-d644-4266-948c-0ccff6590390

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_StandardLattice_vandermondeAppendNeg
 -- name    : Formalism.LogVandermondeBounds.StandardLattice.vandermondeAppendNeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:49:35.061911+00:00
 -- url     : https://prove2.me/theorems/78ba21a9-1344-46ce-9597-f02d2ec8208f

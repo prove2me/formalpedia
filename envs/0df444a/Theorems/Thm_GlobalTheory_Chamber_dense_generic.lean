@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chamber_dense_generic
 -- name    : GlobalTheory.Chamber.dense_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:11.326508+00:00
 -- url     : https://prove2.me/theorems/ab1b8df8-f888-57b3-8625-8423c3b10dd5

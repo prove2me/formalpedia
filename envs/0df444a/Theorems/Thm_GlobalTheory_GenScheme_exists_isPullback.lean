@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenScheme_exists_isPullback
 -- name    : GlobalTheory.GenScheme.exists_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:33:24.492737+00:00
 -- url     : https://prove2.me/theorems/e28446c8-87d6-4a7a-a224-cad6bce3dbbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_prime_le_notMem_ringKrullDim_eq_one
 -- name    : GlobalTheory.exists_prime_le_notMem_ringKrullDim_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:38:16.124227+00:00
 -- url     : https://prove2.me/theorems/78fd120e-ebd3-44a6-859d-26a2e014e2fd

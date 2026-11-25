@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tauBimult_of_isPullDeg
 -- name    : GlobalTheory.tauBimult_of_isPullDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:23:27.131279+00:00
 -- url     : https://prove2.me/theorems/9057a412-107d-4425-9dae-3ba4618a376c

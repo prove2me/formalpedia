@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagGramRestriction_Rst_unip
 -- name    : Formalism.FourierDecayAlt.P.FlagGramRestriction.Rst_unip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:26:17.081335+00:00
 -- url     : https://prove2.me/theorems/a4c76262-07c8-539f-b35e-b7fb2a40c83b

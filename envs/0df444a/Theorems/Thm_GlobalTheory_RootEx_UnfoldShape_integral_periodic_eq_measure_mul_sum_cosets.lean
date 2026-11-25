@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_integral_periodic_eq_measure_mul_sum_cosets
 -- name    : GlobalTheory.RootEx.UnfoldShape.integral_periodic_eq_measure_mul_sum_cosets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:21:21.557644+00:00
 -- url     : https://prove2.me/theorems/02c2d632-9af1-47ae-9091-1eb96025dc68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_factorial_mul_dp
 -- name    : Reformulated.AutPerF.factorial_mul_dp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:13.441148+00:00
 -- url     : https://prove2.me/theorems/e030c14e-a5e7-4d46-bb2c-8432e0be7163

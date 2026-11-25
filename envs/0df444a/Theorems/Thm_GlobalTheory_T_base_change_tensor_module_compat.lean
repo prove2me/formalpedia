@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_base_change_tensor_module_compat
 -- name    : GlobalTheory.T.base_change_tensor_module_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:26:47.887847+00:00
 -- url     : https://prove2.me/theorems/63cbfb4f-e5f1-4ffa-90c9-4e8663b4464e

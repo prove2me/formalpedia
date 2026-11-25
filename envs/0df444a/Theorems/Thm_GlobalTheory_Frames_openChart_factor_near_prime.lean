@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_openChart_factor_near_prime
 -- name    : GlobalTheory.Frames.openChart_factor_near_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:06:08.955364+00:00
 -- url     : https://prove2.me/theorems/d6abfd4c-7167-419c-a5ed-8cc71965a91b

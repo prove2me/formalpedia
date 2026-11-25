@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Fun_sum_delta_log_le
 -- name    : UpperTheory.Ram.Fun.sum_delta_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:22:57.186098+00:00
 -- url     : https://prove2.me/theorems/00b97222-e718-4a06-97ef-f4e808e6981d

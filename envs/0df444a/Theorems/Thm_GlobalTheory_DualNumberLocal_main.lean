@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualNumberLocal_main
 -- name    : GlobalTheory.DualNumberLocal.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:30.134829+00:00
 -- url     : https://prove2.me/theorems/30fb1b91-0cec-474c-a930-6bfe03242deb

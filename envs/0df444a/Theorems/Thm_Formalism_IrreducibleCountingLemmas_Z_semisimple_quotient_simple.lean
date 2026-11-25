@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_semisimple_quotient_simple
 -- name    : Formalism.IrreducibleCountingLemmas.Z.semisimple_quotient_simple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:42:45.537549+00:00
 -- url     : https://prove2.me/theorems/d14e822c-b799-5b7a-bb71-5ccc6939f844

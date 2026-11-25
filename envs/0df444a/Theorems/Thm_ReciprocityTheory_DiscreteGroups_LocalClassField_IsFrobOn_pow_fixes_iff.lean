@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_IsFrobOn_pow_fixes_iff
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.IsFrobOn.pow_fixes_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:58:03.950381+00:00
 -- url     : https://prove2.me/theorems/aded7d63-4b4f-58be-a14f-ad6db20784c9

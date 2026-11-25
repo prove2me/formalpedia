@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubTrivTorus_eq_one_of_even
 -- name    : GlobalTheory.CubTrivTorus.eq_one_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:08:53.616467+00:00
 -- url     : https://prove2.me/theorems/2a258048-a32e-560a-b1bd-25bb600692eb

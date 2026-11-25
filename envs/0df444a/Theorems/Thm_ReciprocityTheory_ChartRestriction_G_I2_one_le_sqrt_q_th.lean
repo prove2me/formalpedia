@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_one_le_sqrt_q_th
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.one_le_sqrt_q_th
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:59:59.198883+00:00
 -- url     : https://prove2.me/theorems/4b51ee13-aef9-4c45-a626-476a567f084d

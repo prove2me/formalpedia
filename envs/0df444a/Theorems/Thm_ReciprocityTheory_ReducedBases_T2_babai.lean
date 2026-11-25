@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_babai
 -- name    : ReciprocityTheory.ReducedBases.T2.babai
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:10:33.867964+00:00
 -- url     : https://prove2.me/theorems/fa61d282-4150-4520-8a08-97906d2a0bc0

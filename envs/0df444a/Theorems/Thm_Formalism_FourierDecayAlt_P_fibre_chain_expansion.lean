@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fibre_chain_expansion
 -- name    : Formalism.FourierDecayAlt.P.fibre_chain_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:33:09.905622+00:00
 -- url     : https://prove2.me/theorems/ec827f06-446a-5cd9-ad94-cfb1d87f3e4d

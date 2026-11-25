@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicPt_existsUnique_lim
 -- name    : GlobalTheory.AdicPt.existsUnique_lim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:55:37.09395+00:00
 -- url     : https://prove2.me/theorems/73181cd3-46ed-5a34-bb91-d3d5be05e8a1

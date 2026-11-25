@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_slice_exponent_identity
 -- name    : Formalism.FourierDecayAlt.P.slice_exponent_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:22.497189+00:00
 -- url     : https://prove2.me/theorems/6fcb5f20-f11b-58e9-927f-db4f7ff8c497

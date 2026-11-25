@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_exists_coset_invariant_coefficients
 -- name    : ReciprocityTheory.PGsh.L2.exists_coset_invariant_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:27.795602+00:00
 -- url     : https://prove2.me/theorems/19b42052-add5-4a9b-927e-81c06304261b

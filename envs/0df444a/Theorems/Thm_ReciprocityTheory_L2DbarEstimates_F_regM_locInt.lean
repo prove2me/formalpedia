@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_regM_locInt
 -- name    : ReciprocityTheory.L2DbarEstimates.F.regM_locInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:57:30.070062+00:00
 -- url     : https://prove2.me/theorems/06f533b0-7546-4bfd-8d3f-66fff7b448b3

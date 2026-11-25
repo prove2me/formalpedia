@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_exists_teich_sub_one_eq
 -- name    : Reformulated.AutPerF.Ainf.exists_teich_sub_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:44.420162+00:00
 -- url     : https://prove2.me/theorems/ae52ff39-269e-4389-87ce-48145dcd9eb6

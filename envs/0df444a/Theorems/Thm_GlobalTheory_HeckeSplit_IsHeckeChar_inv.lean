@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplit_IsHeckeChar_inv
 -- name    : GlobalTheory.HeckeSplit.IsHeckeChar.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:57.986257+00:00
 -- url     : https://prove2.me/theorems/03139f47-621d-4f4e-8f8d-933f5a8d6659

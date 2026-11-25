@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_rank_two_exact_case
 -- name    : Formalism.CohomologicalDescent.LD.rank_two_exact_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:22:48.963665+00:00
 -- url     : https://prove2.me/theorems/f5a723fe-33e7-570e-bf57-a4f3c5618122

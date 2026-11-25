@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasQExpansionOfLevel_hilbertEisensteinQuasiPeriodJet
 -- name    : GlobalTheory.T.hasQExpansionOfLevel_hilbertEisensteinQuasiPeriodJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:40:33.452608+00:00
 -- url     : https://prove2.me/theorems/97a6440a-905b-55dd-bc8e-2f0aa6701ce4

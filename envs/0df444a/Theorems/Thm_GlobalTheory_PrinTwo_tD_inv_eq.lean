@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_tD_inv_eq
 -- name    : GlobalTheory.PrinTwo.tD_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:16:35.1216+00:00
 -- url     : https://prove2.me/theorems/0f67d4a9-d600-45e4-a39e-373c4172bf9c

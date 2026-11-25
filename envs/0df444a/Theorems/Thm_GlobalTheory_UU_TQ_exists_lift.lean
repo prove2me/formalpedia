@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TQ_exists_lift
 -- name    : GlobalTheory.UU.TQ.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:08:35.30472+00:00
 -- url     : https://prove2.me/theorems/790e83be-b884-40e7-b371-79b84ff79463

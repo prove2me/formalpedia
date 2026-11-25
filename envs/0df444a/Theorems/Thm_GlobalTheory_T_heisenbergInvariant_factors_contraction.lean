@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heisenbergInvariant_factors_contraction
 -- name    : GlobalTheory.T.heisenbergInvariant_factors_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:34:24.681909+00:00
 -- url     : https://prove2.me/theorems/b16305c3-76d3-41ac-8a80-cb88a77cbded

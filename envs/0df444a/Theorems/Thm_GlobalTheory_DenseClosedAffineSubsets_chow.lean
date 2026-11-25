@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseClosedAffineSubsets_chow
 -- name    : GlobalTheory.DenseClosedAffineSubsets.chow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:36.248968+00:00
 -- url     : https://prove2.me/theorems/2a050cdd-b6f6-4099-a453-f617be860ead

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_posSemidef_real_of_int_quadForm_nonneg
 -- name    : GlobalTheory.T.posSemidef_real_of_int_quadForm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:07.767834+00:00
 -- url     : https://prove2.me/theorems/570afc52-4de2-5c3a-b462-058e407b724d

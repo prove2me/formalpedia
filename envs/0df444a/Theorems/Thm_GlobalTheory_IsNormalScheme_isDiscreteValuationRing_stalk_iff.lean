@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsNormalScheme_isDiscreteValuationRing_stalk_iff
 -- name    : GlobalTheory.IsNormalScheme.isDiscreteValuationRing_stalk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:00.601434+00:00
 -- url     : https://prove2.me/theorems/6c6e6a3e-52bb-49a2-bd6f-313b432bb9a7

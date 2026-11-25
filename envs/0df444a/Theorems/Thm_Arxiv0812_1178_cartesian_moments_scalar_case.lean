@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0812_1178_cartesian_moments_scalar_case
 -- name    : Arxiv0812_1178.cartesian_moments_scalar_case
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:56:02.396832+00:00
 -- url     : https://prove2.me/theorems/9d5b4f67-08ee-4218-8547-72e89daa0c19

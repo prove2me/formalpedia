@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_approxGraph_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.approxGraph_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:31:58.942154+00:00
 -- url     : https://prove2.me/theorems/2da75c94-669a-43b4-b9d4-c31a804d4316

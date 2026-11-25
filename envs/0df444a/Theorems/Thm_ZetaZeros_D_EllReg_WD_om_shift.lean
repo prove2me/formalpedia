@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WD_om_shift
 -- name    : ZetaZeros.D.EllReg.WD.om_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:14:00.828562+00:00
 -- url     : https://prove2.me/theorems/3ae55aa0-be0c-4ead-818a-9d8f013ef553

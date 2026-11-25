@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Principalise_blowup_id
 -- name    : GlobalTheory.Principalise.blowup_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:16:38.545752+00:00
 -- url     : https://prove2.me/theorems/4d22553c-65be-4e3f-8734-50e8a3d6143a

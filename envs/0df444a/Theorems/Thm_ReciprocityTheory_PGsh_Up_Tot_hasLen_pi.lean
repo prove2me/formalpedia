@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_Tot_hasLen_pi
 -- name    : ReciprocityTheory.PGsh.Up.Tot.hasLen_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:18.596237+00:00
 -- url     : https://prove2.me/theorems/44bf0bd4-a622-4b79-abe4-d81f36c2fec8

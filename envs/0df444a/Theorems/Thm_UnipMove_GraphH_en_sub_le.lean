@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_en_sub_le
 -- name    : UnipMove.GraphH.en_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:11:25.254551+00:00
 -- url     : https://prove2.me/theorems/4f0a8485-c665-44b1-a1dc-d40e910f751f

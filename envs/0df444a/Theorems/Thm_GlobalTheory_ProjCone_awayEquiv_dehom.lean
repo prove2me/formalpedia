@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCone_awayEquiv_dehom
 -- name    : GlobalTheory.ProjCone.awayEquiv_dehom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:27:47.228141+00:00
 -- url     : https://prove2.me/theorems/01320831-de2d-47db-994a-7272e19de0c3

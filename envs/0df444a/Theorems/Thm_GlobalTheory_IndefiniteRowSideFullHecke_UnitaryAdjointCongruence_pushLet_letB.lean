@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitaryAdjointCongruence_pushLet_letB
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitaryAdjointCongruence.pushLet_letB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:55.044232+00:00
 -- url     : https://prove2.me/theorems/627259ee-2ad1-44dd-906c-9a335e9e4fae

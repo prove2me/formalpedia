@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bl_FirstLemmaG_goal1
 -- name    : Bl.FirstLemmaG.goal1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:15:53.145961+00:00
 -- url     : https://prove2.me/theorems/11924303-7304-5fef-aa23-6dbae7062724

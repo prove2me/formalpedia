@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isBaseChange_fibreEval
 -- name    : GlobalTheory.QCoh.isBaseChange_fibreEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:19:39.827796+00:00
 -- url     : https://prove2.me/theorems/c4dfcea8-8850-4b8e-94bf-986926b94fab

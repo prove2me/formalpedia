@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_isIso_of_mem_isoLocus
 -- name    : GlobalTheory.FinEt.isIso_of_mem_isoLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:38.736311+00:00
 -- url     : https://prove2.me/theorems/c0f1ff68-af38-52ee-b31c-31c72d65354b

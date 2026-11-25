@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussSum_summable_gauss_norm
 -- name    : GlobalTheory.GaussSum.summable_gauss_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:54:04.96217+00:00
 -- url     : https://prove2.me/theorems/14c76037-f6bc-489d-b2f3-b1ab121477ae

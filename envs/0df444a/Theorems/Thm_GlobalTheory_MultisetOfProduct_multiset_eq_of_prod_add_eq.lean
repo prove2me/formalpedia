@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultisetOfProduct_multiset_eq_of_prod_add_eq
 -- name    : GlobalTheory.MultisetOfProduct.multiset_eq_of_prod_add_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:15.057606+00:00
 -- url     : https://prove2.me/theorems/c8f077bb-e8dd-4556-886a-059705245e1b

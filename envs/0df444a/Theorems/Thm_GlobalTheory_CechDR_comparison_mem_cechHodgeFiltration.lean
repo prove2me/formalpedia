@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_comparison_mem_cechHodgeFiltration
 -- name    : GlobalTheory.CechDR.comparison_mem_cechHodgeFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:00.205859+00:00
 -- url     : https://prove2.me/theorems/84c1e5e4-2101-5570-9f2f-6d422a430fd9

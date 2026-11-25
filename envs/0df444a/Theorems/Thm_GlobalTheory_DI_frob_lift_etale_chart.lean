@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_frob_lift_etale_chart
 -- name    : GlobalTheory.DI.frob_lift_etale_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:33.861977+00:00
 -- url     : https://prove2.me/theorems/401a0126-c9ee-46d3-8e14-3c4fa576fc08

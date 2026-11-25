@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_grpObj_of_strict
 -- name    : GlobalTheory.SS.exists_grpObj_of_strict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:17:17.277893+00:00
 -- url     : https://prove2.me/theorems/127b37d2-5d84-40c4-b641-8c2474721330

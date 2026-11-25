@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_frameCyc_e
 -- name    : Formalism.HC.frameCyc_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:25.855794+00:00
 -- url     : https://prove2.me/theorems/c7d43799-102e-55c8-8637-ca501ad0c6a0

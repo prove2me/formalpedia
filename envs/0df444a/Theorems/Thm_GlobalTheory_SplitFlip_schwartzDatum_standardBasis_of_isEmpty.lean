@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_schwartzDatum_standardBasis_of_isEmpty
 -- name    : GlobalTheory.SplitFlip.schwartzDatum_standardBasis_of_isEmpty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:24:18.113095+00:00
 -- url     : https://prove2.me/theorems/378dc6ba-a070-5714-bf57-524d7106ae1b

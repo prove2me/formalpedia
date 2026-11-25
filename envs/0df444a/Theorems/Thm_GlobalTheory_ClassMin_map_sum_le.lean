@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_map_sum_le
 -- name    : GlobalTheory.ClassMin.map_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:49.054782+00:00
 -- url     : https://prove2.me/theorems/5d154562-ce38-479d-b820-ec1975e05e7e

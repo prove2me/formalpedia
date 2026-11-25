@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_fineToUniform6
 -- name    : Formalism.DimensionVariation.fineToUniform6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:25:59.75548+00:00
 -- url     : https://prove2.me/theorems/7550fff4-d6c1-4a17-8af5-10330a8dbb4e

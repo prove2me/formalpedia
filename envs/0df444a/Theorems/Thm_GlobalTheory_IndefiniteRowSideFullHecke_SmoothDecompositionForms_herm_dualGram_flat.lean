@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SmoothDecompositionForms_herm_dualGram_flat
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SmoothDecompositionForms.herm_dualGram_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:10:05.16464+00:00
 -- url     : https://prove2.me/theorems/8e1c7362-f70d-4861-9e8c-8db77c5d0e2e

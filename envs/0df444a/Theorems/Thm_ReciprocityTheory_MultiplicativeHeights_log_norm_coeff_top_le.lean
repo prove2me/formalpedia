@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_log_norm_coeff_top_le
 -- name    : ReciprocityTheory.MultiplicativeHeights.log_norm_coeff_top_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:41.928804+00:00
 -- url     : https://prove2.me/theorems/d33ff5b2-4f02-4058-9703-3a8acccb7a95

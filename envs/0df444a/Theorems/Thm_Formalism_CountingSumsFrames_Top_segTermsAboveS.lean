@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segTermsAboveS
 -- name    : Formalism.CountingSumsFrames.Top.segTermsAboveS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:01.245897+00:00
 -- url     : https://prove2.me/theorems/a94d0a2a-a8f1-4af0-a617-48163b6d7bb6

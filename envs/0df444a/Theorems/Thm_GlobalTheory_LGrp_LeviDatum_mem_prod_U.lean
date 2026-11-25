@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_LeviDatum_mem_prod_U
 -- name    : GlobalTheory.LGrp.LeviDatum.mem_prod_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:16:56.553063+00:00
 -- url     : https://prove2.me/theorems/56fc4df1-9aad-541e-94df-4a9f8d8437a6

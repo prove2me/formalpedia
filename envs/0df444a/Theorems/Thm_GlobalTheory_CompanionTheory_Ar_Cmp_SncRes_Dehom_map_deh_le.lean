@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dehom_map_deh_le
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dehom.map_deh_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:43:01.574998+00:00
 -- url     : https://prove2.me/theorems/b8b5547c-6d99-5f1e-b26a-6589968f4332

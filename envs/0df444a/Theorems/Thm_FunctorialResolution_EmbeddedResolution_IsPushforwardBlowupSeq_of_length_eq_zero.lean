@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsPushforwardBlowupSeq_of_length_eq_zero
 -- name    : FunctorialResolution.EmbeddedResolution.IsPushforwardBlowupSeq.of_length_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:55.918831+00:00
 -- url     : https://prove2.me/theorems/70b1bd8d-da7d-5d49-b6f3-3a41cf4a5299

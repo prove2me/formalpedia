@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_gfp_eig_iff
 -- name    : Formalism.L2.Pj.gfp_eig_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:31:51.990921+00:00
 -- url     : https://prove2.me/theorems/8d8431cc-440c-4a4c-8841-95dcc9643d92

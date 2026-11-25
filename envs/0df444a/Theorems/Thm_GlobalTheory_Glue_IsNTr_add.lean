@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_IsNTr_add
 -- name    : GlobalTheory.Glue.IsNTr.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:51.283747+00:00
 -- url     : https://prove2.me/theorems/98e3b071-97c6-5458-8216-9ce3b56feebc

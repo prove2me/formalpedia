@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_coord_sum
 -- name    : Formalism.HermitianLatticeCounting.P.coord_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:19.803806+00:00
 -- url     : https://prove2.me/theorems/e809bf4a-1591-5097-a759-be0e5eed9861

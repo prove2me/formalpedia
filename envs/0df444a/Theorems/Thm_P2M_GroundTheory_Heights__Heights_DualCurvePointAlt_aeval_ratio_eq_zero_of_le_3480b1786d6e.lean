@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_aeval_ratio_eq_zero_of_le_3480b1786d6e
 -- name    : P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_aeval_ratio_eq_zero_of_le_3480b1786d6e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:44:29.852171+00:00
 -- url     : https://prove2.me/theorems/8b6039da-c530-572d-a40f-e03f1971af9b

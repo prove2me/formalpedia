@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCoverDatum_pd_pos
 -- name    : GlobalTheory.LevelCoverDatum.pd_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:13:50.468744+00:00
 -- url     : https://prove2.me/theorems/bf242d56-03c8-5470-9229-50a21d331fb7

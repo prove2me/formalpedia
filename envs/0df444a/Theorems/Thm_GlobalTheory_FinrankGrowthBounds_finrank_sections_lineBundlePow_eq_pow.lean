@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinrankGrowthBounds_finrank_sections_lineBundlePow_eq_pow
 -- name    : GlobalTheory.FinrankGrowthBounds.finrank_sections_lineBundlePow_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:21.610426+00:00
 -- url     : https://prove2.me/theorems/3f0d02ce-91ff-5c8a-be23-3285f2ab90bd

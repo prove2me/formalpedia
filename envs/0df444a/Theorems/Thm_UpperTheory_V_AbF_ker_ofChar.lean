@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_AbF_ker_ofChar
 -- name    : UpperTheory.V.AbF.ker_ofChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:13:47.652716+00:00
 -- url     : https://prove2.me/theorems/1c018f9a-90d7-5911-9ce9-43c51b58181c

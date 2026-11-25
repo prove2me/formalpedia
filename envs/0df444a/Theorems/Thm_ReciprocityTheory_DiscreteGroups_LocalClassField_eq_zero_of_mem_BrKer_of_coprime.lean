@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_eq_zero_of_mem_BrKer_of_coprime
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.eq_zero_of_mem_BrKer_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:53:57.897156+00:00
 -- url     : https://prove2.me/theorems/58744587-6427-5479-8ff6-86d7d71c92f7

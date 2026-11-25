@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isQuasicoherent_of_epi_of_mono
 -- name    : GlobalTheory.QCoh.isQuasicoherent_of_epi_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:19:07.094659+00:00
 -- url     : https://prove2.me/theorems/9a4a9fea-671c-47c4-947b-646272750144

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inverseUnipotentVolume_conj_diagonalUnitsGL_mul
 -- name    : GlobalTheory.T.inverseUnipotentVolume_conj_diagonalUnitsGL_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:34:22.626317+00:00
 -- url     : https://prove2.me/theorems/4525f931-cb5c-486b-bc42-4c1987e1e9f3

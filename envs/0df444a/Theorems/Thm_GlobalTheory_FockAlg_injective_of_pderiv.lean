@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockAlg_injective_of_pderiv
 -- name    : GlobalTheory.FockAlg.injective_of_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:21.236339+00:00
 -- url     : https://prove2.me/theorems/7c7cd0ad-8d90-4e65-a566-1e134b374d50

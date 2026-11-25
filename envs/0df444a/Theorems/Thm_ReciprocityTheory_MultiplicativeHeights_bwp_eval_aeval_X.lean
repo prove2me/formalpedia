@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_bwp_eval_aeval_X
 -- name    : ReciprocityTheory.MultiplicativeHeights.bwp_eval_aeval_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:03:58.78982+00:00
 -- url     : https://prove2.me/theorems/22bbb4f2-6262-45e1-898e-4be0adb3ecff

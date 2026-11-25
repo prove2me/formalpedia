@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_continuous_ptGauge
 -- name    : GlobalTheory.CompactDualQuot.continuous_ptGauge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:00:31.52651+00:00
 -- url     : https://prove2.me/theorems/9d364b33-5683-4ed8-94b3-a50a9bc0d63b

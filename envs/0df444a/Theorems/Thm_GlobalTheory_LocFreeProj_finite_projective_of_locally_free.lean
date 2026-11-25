@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFreeProj_finite_projective_of_locally_free
 -- name    : GlobalTheory.LocFreeProj.finite_projective_of_locally_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:13:44.193036+00:00
 -- url     : https://prove2.me/theorems/7ee1aca3-ac24-441a-8bb3-261907f59191

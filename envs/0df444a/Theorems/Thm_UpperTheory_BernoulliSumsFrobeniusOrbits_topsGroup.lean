@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_BernoulliSumsFrobeniusOrbits_topsGroup
 -- name    : UpperTheory.BernoulliSumsFrobeniusOrbits.topsGroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:35:00.349314+00:00
 -- url     : https://prove2.me/theorems/9771c620-a7f6-4feb-b1c3-e521bc8d4e94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_CobEven_of
 -- name    : Formalism.L2.Th1.B.CobEven_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:48:18.171408+00:00
 -- url     : https://prove2.me/theorems/1dd347e4-450c-414b-941f-b3a5b2836484

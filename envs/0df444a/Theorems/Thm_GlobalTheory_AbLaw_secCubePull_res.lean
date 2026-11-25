@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_secCubePull_res
 -- name    : GlobalTheory.AbLaw.secCubePull_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:36:13.927147+00:00
 -- url     : https://prove2.me/theorems/f7493184-8bc6-4d2b-9260-edfcef7c49c9

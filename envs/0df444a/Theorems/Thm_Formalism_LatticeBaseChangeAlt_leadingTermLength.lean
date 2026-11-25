@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_leadingTermLength
 -- name    : Formalism.LatticeBaseChangeAlt.leadingTermLength
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:40:13.843272+00:00
 -- url     : https://prove2.me/theorems/e2603703-ae77-4a1d-bcb8-3fef08fe435b

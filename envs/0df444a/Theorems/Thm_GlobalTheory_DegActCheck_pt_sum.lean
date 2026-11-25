@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegActCheck_pt_sum
 -- name    : GlobalTheory.DegActCheck.pt_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:23.130834+00:00
 -- url     : https://prove2.me/theorems/566a57e2-314c-4064-9464-e0259ed433b6

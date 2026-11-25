@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_not_pt_one
 -- name    : GlobalTheory.NL.Model.not_pt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:37.564245+00:00
 -- url     : https://prove2.me/theorems/c9090d81-f09b-4972-9ab2-08326d13a55b

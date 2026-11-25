@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_scalar_pair_common_factor
 -- name    : Formalism.FourierDecayAlt.P.scalar_pair_common_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:33.880921+00:00
 -- url     : https://prove2.me/theorems/a6092f06-e1e2-4c34-8da7-2033ae12b145

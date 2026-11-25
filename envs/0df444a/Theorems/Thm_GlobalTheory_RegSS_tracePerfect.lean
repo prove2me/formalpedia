@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_tracePerfect
 -- name    : GlobalTheory.RegSS.tracePerfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:25:22.441626+00:00
 -- url     : https://prove2.me/theorems/e37f7379-05f4-5e45-bc9e-d933d48a135e

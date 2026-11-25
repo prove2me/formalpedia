@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_dOne_eq_dOm
 -- name    : GlobalTheory.CechDR.dOne_eq_dOm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:57:55.306414+00:00
 -- url     : https://prove2.me/theorems/aaf8df08-f9d6-4f3a-b1a0-11f7e4ea51ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdeleCharLevel_exists_level
 -- name    : GlobalTheory.IdeleCharLevel.exists_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:23.234699+00:00
 -- url     : https://prove2.me/theorems/501fa32a-1f95-5983-9274-a78bed7f0f25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_SecNotIn_exists_homogenise
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.SecNotIn.exists_homogenise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:31:43.899027+00:00
 -- url     : https://prove2.me/theorems/01893bfd-e8b9-519e-b15d-cfbc68ffdc42

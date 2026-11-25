@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_finrank_range_eq
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.finrank_range_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:52:10.693092+00:00
 -- url     : https://prove2.me/theorems/39e10502-2dca-5aee-89d1-4fc25385aabb

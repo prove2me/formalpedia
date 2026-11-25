@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronOff_vanish_off
 -- name    : GlobalTheory.KronOff.vanish_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:30.401953+00:00
 -- url     : https://prove2.me/theorems/6362d5cf-061d-5b4e-9a41-c259d4a7e83d

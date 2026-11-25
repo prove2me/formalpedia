@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_capPPerm
 -- name    : Formalism.QuantumDeterminants.capPPerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:52:00.500436+00:00
 -- url     : https://prove2.me/theorems/2d4d4926-d5a6-4139-a224-eca1ba7404d5

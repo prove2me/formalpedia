@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_le_locSpan
 -- name    : Formalism.CohomologicalDescent.LR.le_locSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:22.382798+00:00
 -- url     : https://prove2.me/theorems/7e2934be-e5b1-4918-aacd-b6adce2cdafe

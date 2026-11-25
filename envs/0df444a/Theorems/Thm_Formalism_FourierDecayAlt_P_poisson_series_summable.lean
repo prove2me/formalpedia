@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_poisson_series_summable
 -- name    : Formalism.FourierDecayAlt.P.poisson_series_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:39.174271+00:00
 -- url     : https://prove2.me/theorems/1823ddb8-6ce9-544b-9d71-9cacd5ffce4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_fPi_swap
 -- name    : GlobalTheory.K5.Basic.fPi_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:11:21.151278+00:00
 -- url     : https://prove2.me/theorems/568631cd-a108-5457-b48c-5de87edb9f21

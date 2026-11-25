@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_ThetaZeroHermitianLemmas_herm_half_left
 -- name    : Formalism.L2.Th1.F.ThetaZeroHermitianLemmas.herm_half_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:48:35.373624+00:00
 -- url     : https://prove2.me/theorems/de26c258-92f0-5ad5-a82c-61078accdc61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_central_idempotent_product
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.central_idempotent_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:43:15.634151+00:00
 -- url     : https://prove2.me/theorems/dda4ac7e-6665-45a4-99c4-b9fc0270e34d

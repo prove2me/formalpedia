@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_line_from_classes
 -- name    : Formalism.FourierDecayAlt.P.line_from_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:50.205971+00:00
 -- url     : https://prove2.me/theorems/913e0404-d83e-5527-93c1-a050f0a14c59

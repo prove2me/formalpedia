@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_stepF
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.stepF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:03:45.251919+00:00
 -- url     : https://prove2.me/theorems/f310c612-851c-4598-8168-151d51d327c6

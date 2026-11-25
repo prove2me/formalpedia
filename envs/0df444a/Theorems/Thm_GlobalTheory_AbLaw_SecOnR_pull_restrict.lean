@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOnR_pull_restrict
 -- name    : GlobalTheory.AbLaw.SecOnR.pull_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:47:06.93113+00:00
 -- url     : https://prove2.me/theorems/1cb609cc-3991-5989-ba5d-3b8b990682a5

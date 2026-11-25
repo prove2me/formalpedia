@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_isMultiHomogeneous_C_mul
 -- name    : ReciprocityTheory.MultiplicativeHeights.isMultiHomogeneous_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:22.625004+00:00
 -- url     : https://prove2.me/theorems/21e8533f-da79-574e-9d7e-6f857c208451

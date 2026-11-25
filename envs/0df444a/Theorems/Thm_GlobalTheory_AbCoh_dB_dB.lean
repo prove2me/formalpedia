@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_dB_dB
 -- name    : GlobalTheory.AbCoh.dB_dB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:55:35.570024+00:00
 -- url     : https://prove2.me/theorems/5b8cd446-7710-4588-9c38-02258b429513

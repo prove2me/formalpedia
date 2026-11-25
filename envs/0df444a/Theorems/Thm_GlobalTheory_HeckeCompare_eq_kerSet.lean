@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_eq_kerSet
 -- name    : GlobalTheory.HeckeCompare.eq_kerSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:07:27.386814+00:00
 -- url     : https://prove2.me/theorems/3352e527-a3b7-46c4-84ea-95d20a38ceb9

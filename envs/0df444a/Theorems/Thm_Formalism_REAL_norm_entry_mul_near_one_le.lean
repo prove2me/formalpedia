@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_norm_entry_mul_near_one_le
 -- name    : Formalism.REAL.norm_entry_mul_near_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:39.367796+00:00
 -- url     : https://prove2.me/theorems/16f3905d-f04a-5781-995f-72c1a81372a4

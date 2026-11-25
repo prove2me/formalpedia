@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsGenericPointHom_fractionField
 -- name    : GlobalTheory.IsGenericPointHom.fractionField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:16:35.117965+00:00
 -- url     : https://prove2.me/theorems/38dbc5cc-08ed-4b57-8826-e3ec75db18b5

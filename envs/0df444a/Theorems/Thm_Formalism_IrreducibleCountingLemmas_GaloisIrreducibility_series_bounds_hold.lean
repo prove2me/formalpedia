@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_series_bounds_hold
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.series_bounds_hold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:30.045872+00:00
 -- url     : https://prove2.me/theorems/0ac205e9-1204-4802-877d-c7de60d94ca7

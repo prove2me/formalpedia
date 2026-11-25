@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.DivisionValues.quotMetricRep
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T16:25:43.438324+00:00
+-- url     : https://prove2.me/submissions/b6783239-675f-4c51-83d7-1aa08c47b9a9
+
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjugateWeightLatticeOfGeneral
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_CommutingTwist
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_AuxStatement14
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ClassSumDualGeOfFamily
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondStepGluing
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_PlaceSumSquares
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_KappaNormalise
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DescendedNorm
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_YoungDiagramHook
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_YoungDiagramTopExact
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TwistedLatticeNaturality
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_SecondComplementParameterBounds
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_WeightedPlaceLogSum
+import Definitions.Def_Formalism_QuotientMetricDivisors_FinalW
+import Theorems.Thm_Formalism_DivisionValues_WeightedPlaceLogSum
+import Theorems.Thm_Formalism_DivisionValues_quotient_metric_representation
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.DivisionValues
+namespace Formalism.DivisionValues
+theorem _root_.solution : QuotMetricRep := quotient_metric_representation
+end Formalism.DivisionValues

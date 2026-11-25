@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_cosets_heckeSet_at_splitPlace_outside_level
 -- name    : GlobalTheory.T.finite_cosets_heckeSet_at_splitPlace_outside_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:39.307849+00:00
 -- url     : https://prove2.me/theorems/2049dea5-a065-4ebe-a025-dbb74edc6012

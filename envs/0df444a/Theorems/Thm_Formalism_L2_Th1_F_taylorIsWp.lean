@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_taylorIsWp
 -- name    : Formalism.L2.Th1.F.taylorIsWp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:50:03.374198+00:00
 -- url     : https://prove2.me/theorems/69b8a5b8-1dc9-5ba9-980e-eb9f1e9f3515

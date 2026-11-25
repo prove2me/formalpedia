@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_glue
 -- name    : GlobalTheory.SS.exists_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:10.422413+00:00
 -- url     : https://prove2.me/theorems/4fbdcdba-b5a8-5344-af78-78ef9e718652

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularFactorial_isRegularRing_of_isLocalization
 -- name    : GlobalTheory.RegularFactorial.isRegularRing_of_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:37.224477+00:00
 -- url     : https://prove2.me/theorems/b304cd2b-c0db-5e21-86fe-76c016c7a716

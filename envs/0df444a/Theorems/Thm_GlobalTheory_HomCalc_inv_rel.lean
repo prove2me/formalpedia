@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomCalc_inv_rel
 -- name    : GlobalTheory.HomCalc.inv_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:07.238801+00:00
 -- url     : https://prove2.me/theorems/471dfc2f-2fff-5d42-870b-7bc22fd2b8f5

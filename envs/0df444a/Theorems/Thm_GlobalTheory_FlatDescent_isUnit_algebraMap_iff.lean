@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_isUnit_algebraMap_iff
 -- name    : GlobalTheory.FlatDescent.isUnit_algebraMap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:29.61227+00:00
 -- url     : https://prove2.me/theorems/9d89fcb5-0ccc-5dfb-af50-7ca7335470cd

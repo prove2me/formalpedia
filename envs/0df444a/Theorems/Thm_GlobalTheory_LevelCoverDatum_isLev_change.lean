@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCoverDatum_isLev_change
 -- name    : GlobalTheory.LevelCoverDatum.isLev_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:18:45.766231+00:00
 -- url     : https://prove2.me/theorems/32d44dcc-e780-5fcd-b2b0-137c640769f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_phiRel_transport
 -- name    : GlobalTheory.phiRel_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:02.28747+00:00
 -- url     : https://prove2.me/theorems/d21ac168-a214-4a12-8d5e-eed5effee34d

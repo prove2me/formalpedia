@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CompletedLStripBounds_CompletedLBoundedInStrips_forall
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CompletedLStripBounds.CompletedLBoundedInStrips.forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:09:04.820795+00:00
 -- url     : https://prove2.me/theorems/d4416fcb-2bfd-4f6a-92b7-e99b767d69bb

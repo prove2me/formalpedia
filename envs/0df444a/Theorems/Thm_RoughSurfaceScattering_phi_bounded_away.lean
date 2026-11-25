@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_phi_bounded_away
 -- name    : RoughSurfaceScattering.phi_bounded_away
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-25T08:39:12.161849+00:00
 -- url     : https://prove2.me/theorems/e837efba-28cc-46cb-92bf-613a3acb7fe1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldRestrictionTest_maps_eq
 -- name    : GlobalTheory.FieldRestrictionTest.maps_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:01:22.951893+00:00
 -- url     : https://prove2.me/theorems/db58fa11-f4f2-4678-981f-4600d082af26

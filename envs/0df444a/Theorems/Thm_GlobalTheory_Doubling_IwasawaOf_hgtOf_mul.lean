@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_IwasawaOf_hgtOf_mul
 -- name    : GlobalTheory.Doubling.IwasawaOf.hgtOf_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:04:00.285698+00:00
 -- url     : https://prove2.me/theorems/59ecb14f-c249-49f0-a52f-74dee99eec59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_exists_unit_of_root
 -- name    : UpperTheory.Mu.exists_unit_of_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:09.82795+00:00
 -- url     : https://prove2.me/theorems/79e98b66-f1d3-4e99-9354-a3738501ea6e

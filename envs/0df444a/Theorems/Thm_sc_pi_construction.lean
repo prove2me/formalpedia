@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_sc_pi_construction
 -- name    : sc_pi_construction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:18:18.889268+00:00
 -- url     : https://prove2.me/theorems/2805b226-45cc-43f4-abc6-36ca3c586f16

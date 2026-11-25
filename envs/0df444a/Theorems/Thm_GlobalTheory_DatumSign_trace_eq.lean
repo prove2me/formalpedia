@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DatumSign_trace_eq
 -- name    : GlobalTheory.DatumSign.trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:54.588018+00:00
 -- url     : https://prove2.me/theorems/ef634e0f-168b-466a-b138-2bbae174819c

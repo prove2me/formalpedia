@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HopfSys_secA_apply
 -- name    : GlobalTheory.CompanionTheory.HopfSys.secA_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:53.554321+00:00
 -- url     : https://prove2.me/theorems/70e7b7b8-6974-56b0-8b3c-f4c488408cff

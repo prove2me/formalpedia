@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_thetaCube_triple_relation
 -- name    : thetaCube_triple_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:16:20.974218+00:00
 -- url     : https://prove2.me/theorems/d11fe327-3d74-53be-8203-348b2bdc894a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_W8_pair_one
 -- name    : Formalism.DivisionValues.W8.pair_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:42.275929+00:00
 -- url     : https://prove2.me/theorems/bc5bda21-826e-589a-8e01-da77e3033337

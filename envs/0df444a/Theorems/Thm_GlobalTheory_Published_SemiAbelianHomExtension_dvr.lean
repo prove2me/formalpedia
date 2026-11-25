@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_dvr
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:18:25.095108+00:00
 -- url     : https://prove2.me/theorems/ce35f9d4-24f4-5054-b51d-d59f340be129

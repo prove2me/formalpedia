@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_norm_Kn
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.norm_Kn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:55:36.337947+00:00
 -- url     : https://prove2.me/theorems/9c9c64ef-ee70-4c90-b4be-c18ca4f510a0

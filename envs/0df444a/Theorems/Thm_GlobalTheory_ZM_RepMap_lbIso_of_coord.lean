@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_RepMap_lbIso_of_coord
 -- name    : GlobalTheory.ZM.RepMap.lbIso_of_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:50:53.39419+00:00
 -- url     : https://prove2.me/theorems/4fda01f2-50a1-4014-bbe1-df42a510c45d

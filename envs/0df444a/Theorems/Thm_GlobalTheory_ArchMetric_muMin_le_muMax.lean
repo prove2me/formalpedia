@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_muMin_le_muMax
 -- name    : GlobalTheory.ArchMetric.muMin_le_muMax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:55:10.393159+00:00
 -- url     : https://prove2.me/theorems/561a08c6-ab6d-59ff-9f4d-721af60e7fc4

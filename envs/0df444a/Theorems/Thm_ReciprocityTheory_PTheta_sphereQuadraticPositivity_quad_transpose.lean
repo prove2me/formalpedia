@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_sphereQuadraticPositivity_quad_transpose
 -- name    : ReciprocityTheory.PTheta.sphereQuadraticPositivity.quad_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:41.84417+00:00
 -- url     : https://prove2.me/theorems/f043f1e0-58e1-45eb-890d-5117fa7b6e68

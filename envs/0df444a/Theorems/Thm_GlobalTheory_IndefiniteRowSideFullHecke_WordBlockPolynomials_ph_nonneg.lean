@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_WordBlockPolynomials_ph_nonneg
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.WordBlockPolynomials.ph_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:34.491133+00:00
 -- url     : https://prove2.me/theorems/d257e14a-11a3-495f-a2c8-568897dda45c

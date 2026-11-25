@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mdifferentiable_and_isBoundedAtImInfty_of_hasQ
 -- name    : GlobalTheory.T.mdifferentiable_and_isBoundedAtImInfty_of_hasQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:16.852195+00:00
 -- url     : https://prove2.me/theorems/52d54295-b379-421e-984f-3248dd63d496

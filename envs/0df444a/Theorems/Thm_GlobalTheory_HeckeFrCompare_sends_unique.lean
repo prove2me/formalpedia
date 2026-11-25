@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_sends_unique
 -- name    : GlobalTheory.HeckeFrCompare.sends_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:45:33.812395+00:00
 -- url     : https://prove2.me/theorems/bcbbd450-78e2-4ae4-89cb-1bad0850c9d3

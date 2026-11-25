@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PrimitiveExponentPullback_sameSum_adj
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PrimitiveExponentPullback.sameSum_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:10:42.239785+00:00
 -- url     : https://prove2.me/theorems/6ca90fa8-de07-4376-9bfd-d79783df33f5

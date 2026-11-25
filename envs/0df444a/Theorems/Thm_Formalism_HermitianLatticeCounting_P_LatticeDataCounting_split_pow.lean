@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_split_pow
 -- name    : Formalism.HermitianLatticeCounting.P.LatticeDataCounting.split_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:15.66138+00:00
 -- url     : https://prove2.me/theorems/c9a7cbe3-0d67-48d5-adeb-85399cdfdc96

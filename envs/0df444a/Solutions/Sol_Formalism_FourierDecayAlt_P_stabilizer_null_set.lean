@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.stabilizer_null_set
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T17:49:28.565877+00:00
+-- url     : https://prove2.me/submissions/e652fed5-d68c-4493-ac3e-35b6028f4c27
+
+import Definitions.Def_Formalism_HermitianCurvature_WeylElementCommutesLevelOne
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ConjugationContinuousOnInvertible
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ConjugationInvarianceEverySetting
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HeisenbergLeviConjugationMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CmHalfIntegralGeneratorMemAlgebraicClosure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HermitianLeviVectorBaseOrthogonal
+import Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_integration_formula
+import Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_null_of_integrable
+import Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_one_parameter_mem
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unitary_group_haar_exists
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MeasureTheory Filter Topology
+open scoped ComplexConjugate ENNReal NNReal
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Formalism.FourierDecayAlt.B2
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.B2.OneStepNull := by
+  exact stabilizer_null_of_integrable stabilizer_integration_formula unitary_group_haar_exists stabilizer_one_parameter_mem
+end Formalism.FourierDecayAlt.P

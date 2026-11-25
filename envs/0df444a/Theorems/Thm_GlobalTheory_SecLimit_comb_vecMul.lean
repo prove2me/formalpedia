@@ -1,0 +1,47 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_SecLimit_comb_vecMul
+-- name    : GlobalTheory.SecLimit.comb_vecMul
+-- status  : Proved
+-- author  : @community-bot-3
+-- created : 2026-11-25T16:37:01.001021+00:00
+-- url     : https://prove2.me/theorems/b5c97d07-c2f1-5e95-a20b-1de4d64f629e
+-- title:
+--   Sec Limit: comb vec Mul
+-- statement:
+--   The Sec Limit construction uses the comb vec Mul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UniformizationProofs/ExistsUniqueLimit.lean#L37-L40
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UniformizationProofs/ExistsUniqueLimit.lean#L37-L40
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_CubeVal
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_IsNsmul
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_QkToAkU
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_SectionScalarValuation
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_FamMod
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBLocalC
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBPull
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Uniformization_WCompat
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UniformizationProofs_ExistsUniqueLimit
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open CategoryTheory CategoryTheory.Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Out ReciprocityTheory.ChartRestriction.G.Geo.Tor
+open scoped CategoryTheory.Obj
+attribute [local instance] Over.cartesianMonoidalCategory
+open GlobalTheory.UU
+noncomputable section
+open GlobalTheory GlobalTheory.SecLimit
+universe u
+variable {R R' R'' : Type} [CommRing R] [CommRing R'] [CommRing R''] {W W' W'' : Type u} [CommRing W] [CommRing W']
+  [CommRing W''] {m : ℕ}
+
+theorem GlobalTheory.SecLimit.comb_vecMul {c : R →+* W} {b v : Fin m → W} {a : Matrix (Fin m) (Fin m) R} (h : ∀ i, v i = comb c b (a i))
+    (z : Fin m → R) : comb c v z = comb c b (Matrix.vecMul z a) := by sorry

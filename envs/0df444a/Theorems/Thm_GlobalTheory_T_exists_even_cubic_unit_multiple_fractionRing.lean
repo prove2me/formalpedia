@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_even_cubic_unit_multiple_fractionRing
 -- name    : GlobalTheory.T.exists_even_cubic_unit_multiple_fractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:28:51.390506+00:00
 -- url     : https://prove2.me/theorems/32db5eb6-af79-5a45-9067-bf16e484da96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_WedgeField_vb_of_bijective
 -- name    : GlobalTheory.CompanionTheory.Hodge.WedgeField.vb_of_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:01:45.832996+00:00
 -- url     : https://prove2.me/theorems/e69b7d65-0794-5d2a-adf7-c91b6296d00e

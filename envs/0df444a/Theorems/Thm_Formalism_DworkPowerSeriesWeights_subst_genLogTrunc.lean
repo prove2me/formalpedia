@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_subst_genLogTrunc
 -- name    : Formalism.DworkPowerSeriesWeights.subst_genLogTrunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:50.982595+00:00
 -- url     : https://prove2.me/theorems/81e5889b-9c2d-4495-9727-15bc51681f83

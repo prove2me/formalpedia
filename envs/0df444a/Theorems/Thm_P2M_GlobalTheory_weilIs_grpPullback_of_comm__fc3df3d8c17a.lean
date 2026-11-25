@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_weilIs_grpPullback_of_comm__fc3df3d8c17a
 -- name    : P2M_GlobalTheory_weilIs_grpPullback_of_comm__fc3df3d8c17a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:18:22.391946+00:00
 -- url     : https://prove2.me/theorems/b217f4ff-0bc4-437f-ac59-7a4be6131a6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mapDomain_fst_eq_of_coeff_matrixFamilyBilateralSubstitution_ne_zero
 -- name    : GlobalTheory.T.mapDomain_fst_eq_of_coeff_matrixFamilyBilateralSubstitution_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:10.703423+00:00
 -- url     : https://prove2.me/theorems/4612866d-6311-416d-b32d-2f8ab5c4bff9

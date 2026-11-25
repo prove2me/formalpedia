@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_simeq_pd_integral
 -- name    : simeq_pd_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:16:47.593414+00:00
 -- url     : https://prove2.me/theorems/8c7005fe-fee9-44bb-bcfa-0d2cc7eec330

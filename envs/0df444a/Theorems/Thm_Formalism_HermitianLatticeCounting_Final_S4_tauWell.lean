@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_tauWell
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.tauWell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:40:23.471751+00:00
 -- url     : https://prove2.me/theorems/780147bd-7cde-4832-8dbe-97e0b8217b80

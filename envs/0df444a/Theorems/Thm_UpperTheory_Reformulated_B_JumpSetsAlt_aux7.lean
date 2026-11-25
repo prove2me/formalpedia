@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_JumpSetsAlt_aux7
 -- name    : UpperTheory.Reformulated.B.JumpSetsAlt.aux7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:29.625091+00:00
 -- url     : https://prove2.me/theorems/11c58851-c325-4c3f-a784-15a3286ddc72

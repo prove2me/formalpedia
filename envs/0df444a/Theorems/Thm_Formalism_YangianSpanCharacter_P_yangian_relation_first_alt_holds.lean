@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_yangian_relation_first_alt_holds
 -- name    : Formalism.YangianSpanCharacter.P.yangian_relation_first_alt_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:30.29725+00:00
 -- url     : https://prove2.me/theorems/fb10eeb9-613a-4a65-86a9-a5918212194e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_pullbackMap
 -- name    : GlobalTheory.IsAffineQuotient.pullbackMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:53.050907+00:00
 -- url     : https://prove2.me/theorems/2d6a268b-3340-5fc4-9e70-dadd8d6ee55b

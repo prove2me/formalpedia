@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_notLawExample
 -- name    : Formalism.FG.notLawExample
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:13.726525+00:00
 -- url     : https://prove2.me/theorems/ead1cb8c-c5a2-497e-8a00-3a80f8530c08

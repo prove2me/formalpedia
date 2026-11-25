@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeCx_cxSt
 -- name    : GlobalTheory.CompanionTheory.HodgeCx.cxSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:12.529325+00:00
 -- url     : https://prove2.me/theorems/237ab7fc-9c33-448d-b7ef-612377740794

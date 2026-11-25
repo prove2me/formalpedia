@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_right_invariant
 -- name    : Formalism.FourierDecayAlt.P.capelli_right_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:01.997733+00:00
 -- url     : https://prove2.me/theorems/32e3df34-97cf-5571-bdfc-cdbfb65a3089

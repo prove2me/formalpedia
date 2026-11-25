@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NodalCubic_unitOf_surjective
 -- name    : GlobalTheory.NodalCubic.unitOf_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:09:30.986572+00:00
 -- url     : https://prove2.me/theorems/2b37fe4d-0b26-416d-a841-1ad7755965de

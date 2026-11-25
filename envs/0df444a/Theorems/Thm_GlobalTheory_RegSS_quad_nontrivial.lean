@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_quad_nontrivial
 -- name    : GlobalTheory.RegSS.quad_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:25:11.889963+00:00
 -- url     : https://prove2.me/theorems/59084e9d-0d3e-52e7-ac9b-fe8a3b4313fa

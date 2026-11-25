@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_adjointPairingFourier
 -- name    : ZetaZeros.D.EllReg.adjointPairingFourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:38.795844+00:00
 -- url     : https://prove2.me/theorems/bcaaf5b7-4ebd-4c15-b24a-1bda4d462d91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_top_of_local
 -- name    : Formalism.FourierDecayAlt.P.PBA.top_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:30:39.020649+00:00
 -- url     : https://prove2.me/theorems/40cb9d41-95e0-40b8-b829-7a174cb8a840

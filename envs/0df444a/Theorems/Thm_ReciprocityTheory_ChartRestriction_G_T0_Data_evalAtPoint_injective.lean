@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_evalAtPoint_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.evalAtPoint_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:36:39.170867+00:00
 -- url     : https://prove2.me/theorems/f4748109-d7c4-4316-9a4c-60a99854230d

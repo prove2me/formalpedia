@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_killAdd_of
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.killAdd_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:42:30.051132+00:00
 -- url     : https://prove2.me/theorems/229c5a29-3ab6-46e9-b1a2-4b99de99af50

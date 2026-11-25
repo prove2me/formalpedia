@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_bijective_H_of_adm
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.bijective_H_of_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:06:12.241863+00:00
 -- url     : https://prove2.me/theorems/aa7ef02b-4bfc-4f01-a9af-c37abfee221a

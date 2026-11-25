@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedLimit_descends_of_isAffine
 -- name    : GlobalTheory.ClosedLimit.descends_of_isAffine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:48:30.245842+00:00
 -- url     : https://prove2.me/theorems/f07a7902-6188-4998-bf06-f1891c244843

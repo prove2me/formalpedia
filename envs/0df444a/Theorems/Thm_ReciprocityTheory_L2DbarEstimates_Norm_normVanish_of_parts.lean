@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_normVanish_of_parts
 -- name    : ReciprocityTheory.L2DbarEstimates.Norm.normVanish_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:58:36.674436+00:00
 -- url     : https://prove2.me/theorems/851710b5-0d8d-4504-bc2c-ccb6408d111c

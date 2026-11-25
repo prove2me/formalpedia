@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_Model_hyperbolic_hyp
 -- name    : GlobalTheory.HermLocal.Model.hyperbolic_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:53.303182+00:00
 -- url     : https://prove2.me/theorems/41b4f1c5-78ab-56e6-937f-83e3de7615ee

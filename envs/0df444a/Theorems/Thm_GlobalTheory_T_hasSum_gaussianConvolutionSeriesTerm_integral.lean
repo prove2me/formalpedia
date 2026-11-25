@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_gaussianConvolutionSeriesTerm_integral
 -- name    : GlobalTheory.T.hasSum_gaussianConvolutionSeriesTerm_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:56.796997+00:00
 -- url     : https://prove2.me/theorems/17cb5814-20bc-40c8-aaac-7b3898d004fa

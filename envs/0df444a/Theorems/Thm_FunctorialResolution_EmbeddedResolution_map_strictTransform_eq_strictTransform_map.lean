@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_map_strictTransform_eq_strictTransform_map
 -- name    : FunctorialResolution.EmbeddedResolution.map_strictTransform_eq_strictTransform_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:54:27.948713+00:00
 -- url     : https://prove2.me/theorems/4059de54-89a3-4766-9735-2eebb01e9544

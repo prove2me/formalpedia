@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HT_LatBasic_eigQuot_le_eigSp
 -- name    : GlobalTheory.CompanionTheory.Ar.HT.LatBasic.eigQuot_le_eigSp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:59:43.107726+00:00
 -- url     : https://prove2.me/theorems/ec68f8ac-f91a-4b8f-a8ed-0fd1ce42f8f2

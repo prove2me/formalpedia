@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_per_embedding_coupled_bound
 -- name    : Formalism.DimensionVariation.per_embedding_coupled_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:26:39.209801+00:00
 -- url     : https://prove2.me/theorems/1d2a6d8d-65b2-445f-b94a-33dd5ad1ce08

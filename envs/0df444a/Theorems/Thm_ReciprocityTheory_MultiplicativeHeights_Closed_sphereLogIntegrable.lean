@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_sphereLogIntegrable
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.sphereLogIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:15:45.832505+00:00
 -- url     : https://prove2.me/theorems/fe9137a3-ab97-430c-a4f0-9f1f6036d3d1

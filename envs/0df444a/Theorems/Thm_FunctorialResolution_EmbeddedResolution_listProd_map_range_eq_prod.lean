@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_listProd_map_range_eq_prod
 -- name    : FunctorialResolution.EmbeddedResolution.listProd_map_range_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:42.454827+00:00
 -- url     : https://prove2.me/theorems/5dbd9925-649e-58eb-aaae-b8e00952c240

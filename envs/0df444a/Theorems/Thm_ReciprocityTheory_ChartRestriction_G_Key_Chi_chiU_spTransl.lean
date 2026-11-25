@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_chiU_spTransl
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.chiU_spTransl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:24:01.548621+00:00
 -- url     : https://prove2.me/theorems/85befec5-bbcb-4df2-8ce7-cb3cb0189303

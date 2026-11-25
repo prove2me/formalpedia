@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_ChebyshevFactorialBounds_sumLogDivPredLe_holds
 -- name    : Formalism.RankGapBounds.ChebyshevFactorialBounds.sumLogDivPredLe_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:48.594915+00:00
 -- url     : https://prove2.me/theorems/cfbc0dc4-4d50-5988-bf1b-d8d089fbd387

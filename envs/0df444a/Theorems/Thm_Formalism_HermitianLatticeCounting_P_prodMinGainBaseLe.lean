@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prodMinGainBaseLe
 -- name    : Formalism.HermitianLatticeCounting.P.prodMinGainBaseLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:39:40.720951+00:00
 -- url     : https://prove2.me/theorems/5b3ed187-356e-56c3-a445-1d5ca4b8e934

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_fromSpec_preimage_support
 -- name    : GlobalTheory.QCoh.fromSpec_preimage_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:25:36.323082+00:00
 -- url     : https://prove2.me/theorems/8fae70aa-6f75-4f22-ac4d-fdd50f50ece3

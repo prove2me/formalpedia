@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusGrading_isWt_of_expansion
 -- name    : GlobalTheory.TorusGrading.isWt_of_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:59:52.059838+00:00
 -- url     : https://prove2.me/theorems/2a47ac60-9eed-4e8d-866e-7d5d35710fbf

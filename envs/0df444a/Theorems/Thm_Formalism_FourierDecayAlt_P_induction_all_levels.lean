@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_induction_all_levels
 -- name    : Formalism.FourierDecayAlt.P.induction_all_levels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:32:21.499226+00:00
 -- url     : https://prove2.me/theorems/d355bee4-9585-4c92-9fa2-f13a5fe38ad7

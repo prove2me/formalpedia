@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_perron_Sz_eq_sum_range
 -- name    : Formalism.ZF.perron_Sz_eq_sum_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:40.918826+00:00
 -- url     : https://prove2.me/theorems/bf80fa21-55f1-424e-95e3-062f1a079b4c

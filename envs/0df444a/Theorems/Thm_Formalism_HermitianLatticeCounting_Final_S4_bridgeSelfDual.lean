@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_bridgeSelfDual
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.bridgeSelfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:27.417902+00:00
 -- url     : https://prove2.me/theorems/6e6d28e3-9337-442f-89a4-d27034600069

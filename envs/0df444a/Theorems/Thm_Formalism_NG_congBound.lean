@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_congBound
 -- name    : Formalism.NG.congBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:46.074596+00:00
 -- url     : https://prove2.me/theorems/5edb2a5b-2271-4b5e-a678-bc9371f54aef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_muq_of_const
 -- name    : UpperTheory.Mu.muq_of_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:23:53.23446+00:00
 -- url     : https://prove2.me/theorems/51520ef9-7818-4415-aee9-112c5c58f8d5

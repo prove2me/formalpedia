@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_LT_algHom_ext_X
 -- name    : GlobalTheory.NB.LT.algHom_ext_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:37.174011+00:00
 -- url     : https://prove2.me/theorems/bd2f60ab-e5fb-4846-8c8f-3032a821a3cd

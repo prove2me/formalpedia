@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_levelv_nat_denom
 -- name    : Formalism.UG.P.levelv_nat_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:39.822838+00:00
 -- url     : https://prove2.me/theorems/f2fd414e-9790-49b6-bcb6-99885844ff9e

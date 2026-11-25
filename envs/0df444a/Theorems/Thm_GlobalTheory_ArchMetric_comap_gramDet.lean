@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_comap_gramDet
 -- name    : GlobalTheory.ArchMetric.comap_gramDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:43.965575+00:00
 -- url     : https://prove2.me/theorems/1c0148e5-8bf8-4778-b06c-de3b96cf18a8

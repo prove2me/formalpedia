@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_isHeight_map
 -- name    : ReciprocityTheory.PGsh.BX.isHeight_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:15:51.789471+00:00
 -- url     : https://prove2.me/theorems/7c45be33-9d0d-437b-a54d-84ce2faca53d

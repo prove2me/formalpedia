@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isRegularRing_tensor_of_regular_fibre_localizations
 -- name    : GlobalTheory.T.isRegularRing_tensor_of_regular_fibre_localizations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:37.764802+00:00
 -- url     : https://prove2.me/theorems/9a72d9c6-196c-4d2e-b55e-b56cf498e7dd

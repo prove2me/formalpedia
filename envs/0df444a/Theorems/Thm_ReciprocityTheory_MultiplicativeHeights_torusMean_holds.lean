@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_torusMean_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.torusMean_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:11:16.798913+00:00
 -- url     : https://prove2.me/theorems/6e749ba1-253e-4805-a301-4b22a414f290

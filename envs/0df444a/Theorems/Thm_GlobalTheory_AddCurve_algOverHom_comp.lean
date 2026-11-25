@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddCurve_algOverHom_comp
 -- name    : GlobalTheory.AddCurve.algOverHom_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:34.556399+00:00
 -- url     : https://prove2.me/theorems/8a0ce3c2-eb30-50b8-ae57-45a87d084ef8

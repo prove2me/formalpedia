@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AddLaw_Represents_equiv
 -- name    : GlobalTheory.AddLaw.Represents.equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:36.773279+00:00
 -- url     : https://prove2.me/theorems/d742776d-5ce4-4d8c-93dd-54bbf8f05ab3

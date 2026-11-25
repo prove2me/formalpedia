@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_frame_e
 -- name    : Formalism.HC.EvenGrp.frame_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:38:42.037847+00:00
 -- url     : https://prove2.me/theorems/6db303bd-5ee5-47f2-850c-0d519433057c

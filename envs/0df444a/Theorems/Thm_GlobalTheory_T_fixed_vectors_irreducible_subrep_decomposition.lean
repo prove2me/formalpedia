@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fixed_vectors_irreducible_subrep_decomposition
 -- name    : GlobalTheory.T.fixed_vectors_irreducible_subrep_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:25.149994+00:00
 -- url     : https://prove2.me/theorems/5127fbb5-3422-4dbf-a524-67053ad2f7ec

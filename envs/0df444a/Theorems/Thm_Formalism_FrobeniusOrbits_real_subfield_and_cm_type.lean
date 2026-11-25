@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_real_subfield_and_cm_type
 -- name    : Formalism.FrobeniusOrbits.real_subfield_and_cm_type
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:38:28.854594+00:00
 -- url     : https://prove2.me/theorems/ee38cc4c-3b83-43c3-a522-dc9226515c2a

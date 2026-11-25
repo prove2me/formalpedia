@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_polarisation_sesquilinear
 -- name    : Formalism.HermitianLatticeCounting.P.polarisation_sesquilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:40:36.103153+00:00
 -- url     : https://prove2.me/theorems/9490161f-5999-4e53-a189-e8b5dbfc4da1

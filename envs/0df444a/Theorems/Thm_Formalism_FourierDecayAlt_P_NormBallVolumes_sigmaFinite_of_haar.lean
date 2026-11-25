@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NormBallVolumes_sigmaFinite_of_haar
 -- name    : Formalism.FourierDecayAlt.P.NormBallVolumes.sigmaFinite_of_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:28:16.787237+00:00
 -- url     : https://prove2.me/theorems/77efa6a0-be3a-4d54-beaa-c646e1cc2c99

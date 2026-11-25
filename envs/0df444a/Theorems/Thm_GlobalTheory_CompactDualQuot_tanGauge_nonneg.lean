@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_tanGauge_nonneg
 -- name    : GlobalTheory.CompactDualQuot.tanGauge_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:57.812207+00:00
 -- url     : https://prove2.me/theorems/a75278c0-aa4d-481e-8031-33cd08cadb2f

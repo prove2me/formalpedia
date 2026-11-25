@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tateIso_similar_of_two_data
 -- name    : GlobalTheory.tateIso_similar_of_two_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:15:24.226898+00:00
 -- url     : https://prove2.me/theorems/66a93467-634e-4e17-adb9-3f3f1bc6c2ea

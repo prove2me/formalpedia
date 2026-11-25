@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_blkLat_det
 -- name    : ReciprocityTheory.PGsh.Up.blkLat_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:09:15.913361+00:00
 -- url     : https://prove2.me/theorems/9ebbe8f8-614a-42ff-b183-38c0cd5b0241

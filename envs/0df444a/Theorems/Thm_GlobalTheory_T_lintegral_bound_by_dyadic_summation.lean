@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_bound_by_dyadic_summation
 -- name    : GlobalTheory.T.lintegral_bound_by_dyadic_summation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:55.578845+00:00
 -- url     : https://prove2.me/theorems/564c28be-09ca-5291-b021-546e19632125

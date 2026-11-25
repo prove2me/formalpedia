@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_filtered_map_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.filtered_map_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:32.578862+00:00
 -- url     : https://prove2.me/theorems/f8873566-d596-4889-9361-ccfdf20b8668

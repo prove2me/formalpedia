@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FT_symmetric_series_h_symm
 -- name    : Formalism.FT.symmetric_series_h_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:24:45.980814+00:00
 -- url     : https://prove2.me/theorems/46591b75-99dc-403c-8393-da065253127a

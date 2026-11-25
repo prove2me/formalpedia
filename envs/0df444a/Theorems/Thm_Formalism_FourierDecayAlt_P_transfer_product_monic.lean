@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_transfer_product_monic
 -- name    : Formalism.FourierDecayAlt.P.transfer_product_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:34:57.502716+00:00
 -- url     : https://prove2.me/theorems/a59003ad-0777-4c93-b02d-b7deb0358214

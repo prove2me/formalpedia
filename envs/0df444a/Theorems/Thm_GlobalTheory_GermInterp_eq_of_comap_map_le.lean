@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GermInterp_eq_of_comap_map_le
 -- name    : GlobalTheory.GermInterp.eq_of_comap_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:04:44.209482+00:00
 -- url     : https://prove2.me/theorems/13075c1e-3930-4597-8321-768896d5c4c3

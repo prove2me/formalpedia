@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_exists_lift_of_isFibreSq
 -- name    : ReciprocityTheory.PGsh.BX.exists_lift_of_isFibreSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:05:27.866257+00:00
 -- url     : https://prove2.me/theorems/9539ad24-6493-5573-b67d-e3a47ee0be1d

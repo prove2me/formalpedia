@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_pairing_pow
 -- name    : ReciprocityTheory.PGsh.BX.pairing_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:15:59.060775+00:00
 -- url     : https://prove2.me/theorems/10ecbe74-148a-4c11-9f1c-cce625622ef3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_charpolyRev_mul_eq_one_of_trace_pow_add_eq_zero
 -- name    : GlobalTheory.T.charpolyRev_mul_eq_one_of_trace_pow_add_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:27:07.458724+00:00
 -- url     : https://prove2.me/theorems/92eed766-4294-58ae-9468-91f6ed541c80

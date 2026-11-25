@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_h1_kbarRep_subsingleton
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.h1_kbarRep_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:54:14.17281+00:00
 -- url     : https://prove2.me/theorems/d6ef3ed9-e7ed-5a85-a9fa-1af072e7e614

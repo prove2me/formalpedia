@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimSec_rs_injective
 -- name    : GlobalTheory.PrimSec.rs_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:00:35.203535+00:00
 -- url     : https://prove2.me/theorems/4b0a63e3-db39-4784-8d58-4e3ab1ab5053

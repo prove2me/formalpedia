@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_density_ordinary_bound
 -- name    : Formalism.FourierDecayAlt.P.density_ordinary_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:36.202547+00:00
 -- url     : https://prove2.me/theorems/2102659a-3a31-4b31-935c-7de7e8b8e10f

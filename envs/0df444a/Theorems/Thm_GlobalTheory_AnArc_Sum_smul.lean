@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_Sum_smul
 -- name    : GlobalTheory.AnArc.Sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:55:19.602387+00:00
 -- url     : https://prove2.me/theorems/6a408ee0-d146-550c-a6e0-2269c83b47ac

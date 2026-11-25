@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassWeight_mem_classSub
 -- name    : GlobalTheory.ClassWeight.mem_classSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:59:34.068495+00:00
 -- url     : https://prove2.me/theorems/16776502-7302-5836-ba7a-ebcbd9445ac1

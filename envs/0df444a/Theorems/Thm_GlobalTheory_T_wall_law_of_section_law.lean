@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_wall_law_of_section_law
 -- name    : GlobalTheory.T.wall_law_of_section_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:41.999751+00:00
 -- url     : https://prove2.me/theorems/fb1c25a5-6e24-48d9-a76d-eed2346beee3

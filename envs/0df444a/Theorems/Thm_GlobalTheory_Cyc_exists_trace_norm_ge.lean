@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_exists_trace_norm_ge
 -- name    : GlobalTheory.Cyc.exists_trace_norm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:03:44.883186+00:00
 -- url     : https://prove2.me/theorems/f0524293-1660-5475-8024-43d9220a80a7

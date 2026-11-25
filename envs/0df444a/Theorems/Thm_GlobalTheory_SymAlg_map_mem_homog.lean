@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymAlg_map_mem_homog
 -- name    : GlobalTheory.SymAlg.map_mem_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:25:20.258303+00:00
 -- url     : https://prove2.me/theorems/7562950f-5083-4955-99a3-2b06e2ef8949

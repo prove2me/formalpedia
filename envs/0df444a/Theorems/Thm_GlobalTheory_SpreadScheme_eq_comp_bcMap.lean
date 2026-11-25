@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpreadScheme_eq_comp_bcMap
 -- name    : GlobalTheory.SpreadScheme.eq_comp_bcMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:04:21.416351+00:00
 -- url     : https://prove2.me/theorems/9eea694e-d30b-4c24-8f9f-4566b1e4c12d

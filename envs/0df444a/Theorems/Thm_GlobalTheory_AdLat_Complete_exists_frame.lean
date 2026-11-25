@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Complete_exists_frame
 -- name    : GlobalTheory.AdLat.Complete.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:40.034519+00:00
 -- url     : https://prove2.me/theorems/aa63d9fd-36f3-4330-b10f-ec7d1046a6c2

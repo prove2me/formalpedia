@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_admissible_isUnit_det_local_involution
 -- name    : GlobalTheory.T.exists_admissible_isUnit_det_local_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:28:28.704051+00:00
 -- url     : https://prove2.me/theorems/fafc9ae2-4ce2-5119-8a63-82f4eb8c4a4a

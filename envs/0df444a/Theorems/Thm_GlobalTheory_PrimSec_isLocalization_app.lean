@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimSec_isLocalization_app
 -- name    : GlobalTheory.PrimSec.isLocalization_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:03:10.389085+00:00
 -- url     : https://prove2.me/theorems/43b69444-016b-5aa0-a777-31ff36447fa1

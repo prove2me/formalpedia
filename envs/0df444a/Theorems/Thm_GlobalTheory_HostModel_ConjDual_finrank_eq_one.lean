@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_ConjDual_finrank_eq_one
 -- name    : GlobalTheory.HostModel.ConjDual.finrank_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:15:56.465936+00:00
 -- url     : https://prove2.me/theorems/48465571-6437-4d1f-861b-5064b8488c3a

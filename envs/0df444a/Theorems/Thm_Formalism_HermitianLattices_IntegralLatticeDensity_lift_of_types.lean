@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_lift_of_types
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.lift_of_types
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:40:59.788479+00:00
 -- url     : https://prove2.me/theorems/ad99e495-b823-5a7b-b0d6-b79228c07095

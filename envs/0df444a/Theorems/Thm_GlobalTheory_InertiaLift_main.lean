@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaLift_main
 -- name    : GlobalTheory.InertiaLift.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:10:14.145326+00:00
 -- url     : https://prove2.me/theorems/e581f4c8-2e08-508a-8a85-4c49281add0e

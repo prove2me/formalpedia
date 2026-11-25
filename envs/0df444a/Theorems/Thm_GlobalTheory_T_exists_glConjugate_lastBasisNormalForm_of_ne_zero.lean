@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_glConjugate_lastBasisNormalForm_of_ne_zero
 -- name    : GlobalTheory.T.exists_glConjugate_lastBasisNormalForm_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:18.851476+00:00
 -- url     : https://prove2.me/theorems/35217a20-d01a-4307-89d6-b7e030c81d50

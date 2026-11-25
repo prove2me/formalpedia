@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_majorantPSDA_statement
 -- name    : Formalism.FourierDecayAlt.P.majorantPSDA_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:35:13.726045+00:00
 -- url     : https://prove2.me/theorems/5165c671-f445-4b57-8a67-892822077dcf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_exact_z_twist_by_det
 -- name    : Formalism.CohomologicalDescent.LA.exact_z_twist_by_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:21:56.343594+00:00
 -- url     : https://prove2.me/theorems/0bae2058-7525-4b52-8524-4c4280c9f0b3

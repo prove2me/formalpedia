@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_map_mkQ_step_succ
 -- name    : GlobalTheory.HTLat.map_mkQ_step_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:32.768278+00:00
 -- url     : https://prove2.me/theorems/903b6c79-291a-4252-94c6-d18383064691

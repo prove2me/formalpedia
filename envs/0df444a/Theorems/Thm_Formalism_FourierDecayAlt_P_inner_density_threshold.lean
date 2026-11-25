@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_inner_density_threshold
 -- name    : Formalism.FourierDecayAlt.P.inner_density_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:32:36.891417+00:00
 -- url     : https://prove2.me/theorems/8ff1ce0b-a16e-4792-89f8-57bf1570a470

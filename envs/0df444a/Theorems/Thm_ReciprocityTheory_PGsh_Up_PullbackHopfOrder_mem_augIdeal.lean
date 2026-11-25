@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_PullbackHopfOrder_mem_augIdeal
 -- name    : ReciprocityTheory.PGsh.Up.PullbackHopfOrder.mem_augIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:06:21.534091+00:00
 -- url     : https://prove2.me/theorems/09d76515-7a12-4bdc-9a65-6a25eb985f09

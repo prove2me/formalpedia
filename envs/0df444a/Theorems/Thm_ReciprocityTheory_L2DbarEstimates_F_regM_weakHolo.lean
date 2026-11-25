@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_regM_weakHolo
 -- name    : ReciprocityTheory.L2DbarEstimates.F.regM_weakHolo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:59:09.988855+00:00
 -- url     : https://prove2.me/theorems/471ea666-a748-5bc4-a583-de4edd5243e7

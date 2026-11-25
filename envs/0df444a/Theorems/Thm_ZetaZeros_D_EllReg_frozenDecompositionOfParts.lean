@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_frozenDecompositionOfParts
 -- name    : ZetaZeros.D.EllReg.frozenDecompositionOfParts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:13:11.213181+00:00
 -- url     : https://prove2.me/theorems/64e9b52f-1eb0-41fa-b737-3e105a3d8c1c

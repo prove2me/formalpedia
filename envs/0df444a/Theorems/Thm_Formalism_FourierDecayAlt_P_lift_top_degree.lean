@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lift_top_degree
 -- name    : Formalism.FourierDecayAlt.P.lift_top_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:32:49.429045+00:00
 -- url     : https://prove2.me/theorems/8eba0f5c-9171-4558-acba-653d768f400b

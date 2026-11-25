@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_slope_local
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.slope_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:56.255191+00:00
 -- url     : https://prove2.me/theorems/07ac5a98-7135-55e2-be05-c12a39a34a16

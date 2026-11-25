@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_unrL_apply
 -- name    : GlobalTheory.LGrp.unrL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:56.190551+00:00
 -- url     : https://prove2.me/theorems/d43b7c61-9bc6-4d68-84d3-61ac09e8944a

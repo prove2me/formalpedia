@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_genericImageFinite
 -- name    : ReciprocityTheory.MultiplicativeHeights.genericImageFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:05.33617+00:00
 -- url     : https://prove2.me/theorems/4536c0e5-f350-4d8d-b485-3e6bfa07febd

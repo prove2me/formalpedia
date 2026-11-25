@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_not_mem_bad_primes_iff
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.not_mem_bad_primes_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:14.807796+00:00
 -- url     : https://prove2.me/theorems/a6cb8cf8-4bf0-4d92-a071-2760523ba9e5

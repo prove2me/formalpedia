@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_sum_bound_max
 -- name    : Formalism.FourierDecayAlt.P.sum_bound_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:35:37.192092+00:00
 -- url     : https://prove2.me/theorems/ca238f06-e60a-490b-a085-45082e953bb4

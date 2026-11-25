@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_eMat_mul_inr
 -- name    : GlobalTheory.GodementJacquet.eMat_mul_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:17:53.140332+00:00
 -- url     : https://prove2.me/theorems/09691d4f-4ffb-5c91-a103-e8f0c3d46690

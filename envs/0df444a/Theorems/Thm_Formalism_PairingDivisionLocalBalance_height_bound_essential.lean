@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_PairingDivisionLocalBalance_height_bound_essential
 -- name    : Formalism.PairingDivisionLocalBalance.height_bound_essential
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:52:44.658665+00:00
 -- url     : https://prove2.me/theorems/9e8d6be3-dd0d-4fb0-8e1b-e79b17059267

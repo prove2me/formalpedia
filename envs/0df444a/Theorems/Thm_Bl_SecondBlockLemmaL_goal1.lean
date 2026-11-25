@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bl_SecondBlockLemmaL_goal1
 -- name    : Bl.SecondBlockLemmaL.goal1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:15:57.93281+00:00
 -- url     : https://prove2.me/theorems/4d8b1c13-01ad-50da-bed4-5d1090fc73bd

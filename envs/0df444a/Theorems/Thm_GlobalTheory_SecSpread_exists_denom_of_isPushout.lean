@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecSpread_exists_denom_of_isPushout
 -- name    : GlobalTheory.SecSpread.exists_denom_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:08:01.974923+00:00
 -- url     : https://prove2.me/theorems/fa570bd0-e8e9-5e04-8770-60d7274b87fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitUnitary_heisFun_levi
 -- name    : GlobalTheory.SplitUnitary.heisFun_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:30.037408+00:00
 -- url     : https://prove2.me/theorems/4ec73778-fa46-4fef-b5ec-fa60e4659f59

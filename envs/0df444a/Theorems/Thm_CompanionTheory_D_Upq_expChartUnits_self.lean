@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_expChartUnits_self
 -- name    : CompanionTheory.D.Upq.expChartUnits_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:15:41.361991+00:00
 -- url     : https://prove2.me/theorems/17f93052-fcff-55bb-95ac-0ab74764781f

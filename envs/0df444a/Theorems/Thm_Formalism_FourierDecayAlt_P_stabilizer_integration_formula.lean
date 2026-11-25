@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_integration_formula
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_integration_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:43:45.472024+00:00
 -- url     : https://prove2.me/theorems/90ee1293-0b58-4154-a5db-8999bc60f50d

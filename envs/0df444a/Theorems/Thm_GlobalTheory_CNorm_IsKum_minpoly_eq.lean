@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_IsKum_minpoly_eq
 -- name    : GlobalTheory.CNorm.IsKum.minpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:15.949606+00:00
 -- url     : https://prove2.me/theorems/e7439e35-bb7c-4ac5-8e34-79f40296e158

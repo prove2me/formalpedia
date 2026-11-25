@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_descent_of
 -- name    : Formalism.L2.FormalSeriesBounds.descent_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:45:05.968803+00:00
 -- url     : https://prove2.me/theorems/8cbebeaa-73a1-44a0-ac07-aee348923ce3

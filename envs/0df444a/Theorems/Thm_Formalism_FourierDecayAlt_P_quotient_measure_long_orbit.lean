@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_quotient_measure_long_orbit
 -- name    : Formalism.FourierDecayAlt.P.quotient_measure_long_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:08.250101+00:00
 -- url     : https://prove2.me/theorems/ea589d11-5094-4352-bc74-7c59db244fb3

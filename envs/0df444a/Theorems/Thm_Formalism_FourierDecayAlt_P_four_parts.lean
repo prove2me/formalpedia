@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_four_parts
 -- name    : Formalism.FourierDecayAlt.P.four_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:33:13.715806+00:00
 -- url     : https://prove2.me/theorems/b4218eea-c17f-5ddb-9ece-ec1415950b27

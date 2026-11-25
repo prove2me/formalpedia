@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_dOp_linSub
 -- name    : ReciprocityTheory.PGsh.dOp_linSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:40.009411+00:00
 -- url     : https://prove2.me/theorems/0e6b7240-0637-4bce-947d-7f5db022fa6f

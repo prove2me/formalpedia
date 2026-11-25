@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integralFamily_at_prime
 -- name    : GlobalTheory.integralFamily_at_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:52.1898+00:00
 -- url     : https://prove2.me/theorems/50f8c2e7-33df-4c0e-8764-7532e6bc9b3b

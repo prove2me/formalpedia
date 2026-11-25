@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_zeta_tail_bound
 -- name    : Formalism.FourierDecayAlt.P.zeta_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:34.051132+00:00
 -- url     : https://prove2.me/theorems/4b30b6a9-b3a7-53a3-94d5-73f03f5ef15c

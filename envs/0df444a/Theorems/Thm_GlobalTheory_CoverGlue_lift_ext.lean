@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_lift_ext
 -- name    : GlobalTheory.CoverGlue.lift_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:32.166051+00:00
 -- url     : https://prove2.me/theorems/48413fcc-399d-41cf-8fe5-649da1b71772

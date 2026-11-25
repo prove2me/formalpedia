@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_dedekindZeta_residue_bound
 -- name    : Formalism.HermitianLatticeCounting.P.dedekindZeta_residue_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:19:04.231642+00:00
 -- url     : https://prove2.me/theorems/9208e34f-2ebf-4bd7-89b4-0fa7b70162e6

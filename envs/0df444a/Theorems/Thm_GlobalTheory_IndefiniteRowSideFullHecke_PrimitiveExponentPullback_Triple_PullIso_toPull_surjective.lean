@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PrimitiveExponentPullback_Triple_PullIso_toPull_surjective
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PrimitiveExponentPullback.Triple.PullIso.toPull_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:11:03.345558+00:00
 -- url     : https://prove2.me/theorems/5e595539-03e2-4566-b395-dfbe6838d5f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_isFreqZ_two
 -- name    : GlobalTheory.MaxCusp.isFreqZ_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:33:33.071871+00:00
 -- url     : https://prove2.me/theorems/08ba7d41-1a69-56a3-acfa-68444b73c8ff

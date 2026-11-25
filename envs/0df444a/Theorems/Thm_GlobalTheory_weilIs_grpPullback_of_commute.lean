@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weilIs_grpPullback_of_commute
 -- name    : GlobalTheory.weilIs_grpPullback_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:42.201391+00:00
 -- url     : https://prove2.me/theorems/d4531c49-af42-48a1-b31f-66163fb34a21

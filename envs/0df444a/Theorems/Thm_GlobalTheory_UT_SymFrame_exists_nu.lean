@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_SymFrame_exists_nu
 -- name    : GlobalTheory.UT.SymFrame.exists_nu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:20:47.057651+00:00
 -- url     : https://prove2.me/theorems/8230f388-9665-441a-9ef4-4c8f16a56139

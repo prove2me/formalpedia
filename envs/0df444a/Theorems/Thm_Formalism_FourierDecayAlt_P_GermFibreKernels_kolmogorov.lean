@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermFibreKernels_kolmogorov
 -- name    : Formalism.FourierDecayAlt.P.GermFibreKernels.kolmogorov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:25:36.166369+00:00
 -- url     : https://prove2.me/theorems/f8796f3a-4a99-4cd4-905c-5974bd464f47

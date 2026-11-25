@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_negIndex_eq_card_eigenvalues
 -- name    : GlobalTheory.Inertia.negIndex_eq_card_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:10:01.652478+00:00
 -- url     : https://prove2.me/theorems/b8d0a431-30d7-5054-89c6-4357dbe1ad7c

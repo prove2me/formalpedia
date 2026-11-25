@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_scaleHom_preimage_ball_ef6f63a16784
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_scaleHom_preimage_ball_ef6f63a16784
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:32:47.341803+00:00
 -- url     : https://prove2.me/theorems/7539cb07-5e15-495c-ba43-307f2f2b0ebf

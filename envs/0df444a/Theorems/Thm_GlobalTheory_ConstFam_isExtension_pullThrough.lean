@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConstFam_isExtension_pullThrough
 -- name    : GlobalTheory.ConstFam.isExtension_pullThrough
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:06:49.348838+00:00
 -- url     : https://prove2.me/theorems/cc00e109-480a-469e-ae57-2df1e8207177

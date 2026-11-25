@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for Formalism.WeaklyAdmissibleFiltrations.pht_lift
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T17:45:05.496135+00:00
+-- url     : https://prove2.me/submissions/267cdb81-b08f-40a1-9998-9eb1cd44d339
+
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_Window
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_JumpsPFilAntitoneOfLe
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_RankOne
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_ExwaFiltrationNegOneEqSpanSingle
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_Galois
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_TrivCrys
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_ExLattice
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_ExistsPeriodRingDataHolds
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_WachCol
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_LiftGal
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_NegJumps
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_DPotCrisStableAndExistsPotentiallyCrystallineDat
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_WindowCountIcoTelescope
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_PhtGalois
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_liftGal
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_negativeJumpsSum_holds
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_windowCountAlt
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.WeaklyAdmissibleFiltrations
+namespace Formalism.WeaklyAdmissibleFiltrations
+theorem _root_.solution : LiftGal ∧ NegJumps ∧ WindowCount :=
+  ⟨liftGal, negativeJumpsSum_holds, windowCountAlt⟩
+end Formalism.WeaklyAdmissibleFiltrations

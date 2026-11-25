@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_total_count_bound
 -- name    : Formalism.FourierDecayAlt.P.total_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:47.34674+00:00
 -- url     : https://prove2.me/theorems/d8260de5-730f-4f4d-a1fc-9ed824b7ad1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_isCond_iff_expAt
 -- name    : GlobalTheory.CMVal.isCond_iff_expAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:41.113214+00:00
 -- url     : https://prove2.me/theorems/5524532c-8643-4a86-8d68-bd872c2cf0e0

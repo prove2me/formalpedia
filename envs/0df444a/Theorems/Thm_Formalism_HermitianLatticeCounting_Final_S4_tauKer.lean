@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_tauKer
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.tauKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:40:09.115009+00:00
 -- url     : https://prove2.me/theorems/7bcadeba-e351-4001-942c-f3d4fe11aec2

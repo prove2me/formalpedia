@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lattice_part_congr_of_phiRel
 -- name    : GlobalTheory.lattice_part_congr_of_phiRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:12:06.448526+00:00
 -- url     : https://prove2.me/theorems/1938013c-0bcf-4c04-9ae6-aac1aa76773c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_component_surjects_clopen
 -- name    : GlobalTheory.T.exists_component_surjects_clopen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:29:00.326557+00:00
 -- url     : https://prove2.me/theorems/845b3288-4b21-4a5f-8452-3017e570dc51

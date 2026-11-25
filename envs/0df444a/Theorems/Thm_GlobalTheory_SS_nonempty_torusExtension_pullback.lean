@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_nonempty_torusExtension_pullback
 -- name    : GlobalTheory.SS.nonempty_torusExtension_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:10:01.571325+00:00
 -- url     : https://prove2.me/theorems/bb25bf87-b0ef-4ac9-aea6-b2dd02c39487

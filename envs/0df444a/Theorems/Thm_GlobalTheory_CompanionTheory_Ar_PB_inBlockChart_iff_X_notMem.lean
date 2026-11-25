@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_inBlockChart_iff_X_notMem
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.inBlockChart_iff_X_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:00:29.203539+00:00
 -- url     : https://prove2.me/theorems/832ee925-2706-5cc3-90bf-593c0826e6a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_exists_tw_extend_pow_mul
 -- name    : GlobalTheory.AbLaw.exists_tw_extend_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:02:42.535858+00:00
 -- url     : https://prove2.me/theorems/6d7a0bb1-7c02-4127-b6ec-3f629613d7a8

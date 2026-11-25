@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymCompare_typeChain_Phi
 -- name    : GlobalTheory.SymCompare.typeChain_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:25:23.261454+00:00
 -- url     : https://prove2.me/theorems/1824c4ac-ee03-4386-ab62-9c8ba30e1e41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_restrict_gramDet
 -- name    : GlobalTheory.ArchMetric.restrict_gramDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:56:22.297033+00:00
 -- url     : https://prove2.me/theorems/cb6635be-d88b-4d27-8c53-7c1a28173fe2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffRings_isUnit_of_coprime
 -- name    : GlobalTheory.CoeffRings.isUnit_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:00:11.114538+00:00
 -- url     : https://prove2.me/theorems/13764d5f-5f6a-41b6-b9fa-965ae22408bc

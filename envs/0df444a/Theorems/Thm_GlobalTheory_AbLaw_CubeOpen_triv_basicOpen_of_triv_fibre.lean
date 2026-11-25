@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeOpen_triv_basicOpen_of_triv_fibre
 -- name    : GlobalTheory.AbLaw.CubeOpen.triv_basicOpen_of_triv_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:55:00.274066+00:00
 -- url     : https://prove2.me/theorems/bf5f560f-4f89-5f50-a085-d8cd2ec473f8

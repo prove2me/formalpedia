@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_glRel_of_canonicalCommutationRelations
 -- name    : GlobalTheory.T.glRel_of_canonicalCommutationRelations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:34.705806+00:00
 -- url     : https://prove2.me/theorems/e075205b-8e95-524a-98a2-8532366018f6

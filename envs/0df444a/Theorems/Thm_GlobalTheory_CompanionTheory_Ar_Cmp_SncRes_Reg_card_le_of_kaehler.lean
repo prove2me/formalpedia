@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Reg_card_le_of_kaehler
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Reg.card_le_of_kaehler
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:43:23.900673+00:00
 -- url     : https://prove2.me/theorems/22daf8c7-70c8-4612-8166-7e80f651f7c5

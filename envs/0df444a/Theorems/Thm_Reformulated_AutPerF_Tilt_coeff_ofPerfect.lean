@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Tilt_coeff_ofPerfect
 -- name    : Reformulated.AutPerF.Tilt.coeff_ofPerfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:10:13.101165+00:00
 -- url     : https://prove2.me/theorems/8347e457-4e44-4348-a41e-6c72828b54eb

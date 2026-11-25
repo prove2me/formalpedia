@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_letters_at_places
 -- name    : Formalism.FourierDecayAlt.P.letters_at_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:33:42.337792+00:00
 -- url     : https://prove2.me/theorems/635a762c-0aa6-461a-b357-6c9a9563ec1f

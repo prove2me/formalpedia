@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_indFam_ne_zero
 -- name    : GlobalTheory.SW.Model.indFam_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:51.722177+00:00
 -- url     : https://prove2.me/theorems/08f98d47-c3be-4d5f-86b6-3e2e6ed7eb7f

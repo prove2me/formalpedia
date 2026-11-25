@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointSupport_exists_algHom_ker_eq
 -- name    : GlobalTheory.PointSupport.exists_algHom_ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:03:59.674801+00:00
 -- url     : https://prove2.me/theorems/c912cbd5-76ec-404b-adbd-c62cfa33979d

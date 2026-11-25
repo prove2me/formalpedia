@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_matrix_realizes_cusp_coords
 -- name    : GlobalTheory.T.hermitian_matrix_realizes_cusp_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:16.435067+00:00
 -- url     : https://prove2.me/theorems/ebb11c7a-c641-52cf-a0bd-903f00b9199d

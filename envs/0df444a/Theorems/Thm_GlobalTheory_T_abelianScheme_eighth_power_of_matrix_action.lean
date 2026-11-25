@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_abelianScheme_eighth_power_of_matrix_action
 -- name    : GlobalTheory.T.abelianScheme_eighth_power_of_matrix_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:31.225323+00:00
 -- url     : https://prove2.me/theorems/68b73341-bc4c-5e93-9a78-3248a87bd8ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_j3P2
 -- name    : Formalism.AtG.j3P2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:36:14.075104+00:00
 -- url     : https://prove2.me/theorems/cb61c247-4cfd-4b04-bc2b-9f3484d7f195

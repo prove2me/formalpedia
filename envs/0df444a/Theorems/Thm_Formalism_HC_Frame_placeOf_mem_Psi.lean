@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_placeOf_mem_Psi
 -- name    : Formalism.HC.Frame.placeOf_mem_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:34.875222+00:00
 -- url     : https://prove2.me/theorems/93cf9d5d-5e45-45e4-ba7e-eede2b16ea9f

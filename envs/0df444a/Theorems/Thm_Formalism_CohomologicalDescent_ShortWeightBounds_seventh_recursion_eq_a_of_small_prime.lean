@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_seventh_recursion_eq_a_of_small_prime
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.seventh_recursion_eq_a_of_small_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:23:50.586361+00:00
 -- url     : https://prove2.me/theorems/a187a863-371c-4f64-96a8-c838b5d7cb37

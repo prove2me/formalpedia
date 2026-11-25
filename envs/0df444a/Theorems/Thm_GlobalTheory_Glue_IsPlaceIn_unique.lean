@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_IsPlaceIn_unique
 -- name    : GlobalTheory.Glue.IsPlaceIn.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:28.951149+00:00
 -- url     : https://prove2.me/theorems/8dbd43fd-027a-5f9d-bd07-2ad31fdb983e

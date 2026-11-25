@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_liftMonomialDeterminantStatement_holds
 -- name    : ReciprocityTheory.PGsh.Up.liftMonomialDeterminantStatement_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:08:12.240815+00:00
 -- url     : https://prove2.me/theorems/ba95a822-cf93-5eae-8304-5841676a69e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_stepRatio_vw_bound
 -- name    : GlobalTheory.Square.stepRatio_vw_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:25:14.340237+00:00
 -- url     : https://prove2.me/theorems/7ee2a284-6b11-5bed-bdff-8b57b365375a

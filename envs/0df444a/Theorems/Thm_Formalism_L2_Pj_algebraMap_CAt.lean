@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_algebraMap_CAt
 -- name    : Formalism.L2.Pj.algebraMap_CAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:45:59.546534+00:00
 -- url     : https://prove2.me/theorems/844dfa74-043c-5a17-b1e4-1912e62f037e

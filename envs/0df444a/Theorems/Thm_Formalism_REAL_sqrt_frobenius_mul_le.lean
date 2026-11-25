@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sqrt_frobenius_mul_le
 -- name    : Formalism.REAL.sqrt_frobenius_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:59.106638+00:00
 -- url     : https://prove2.me/theorems/84238c38-416f-4d37-92ca-f1730cd15b43

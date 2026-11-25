@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_class_lower_decay_holds
 -- name    : Formalism.FourierDecayAlt.P.CutMP.class_lower_decay_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:18.262509+00:00
 -- url     : https://prove2.me/theorems/63b19867-904f-5e06-ae08-c45fa1746d34

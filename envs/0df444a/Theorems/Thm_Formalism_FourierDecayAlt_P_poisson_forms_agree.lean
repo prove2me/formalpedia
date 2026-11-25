@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_poisson_forms_agree
 -- name    : Formalism.FourierDecayAlt.P.poisson_forms_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:34:10.148844+00:00
 -- url     : https://prove2.me/theorems/316160d1-f09a-423a-bdcf-8c6577a25de6

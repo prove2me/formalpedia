@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsNormalScheme_of_isEmpty
 -- name    : GlobalTheory.IsNormalScheme.of_isEmpty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:07.41307+00:00
 -- url     : https://prove2.me/theorems/612c1f67-fa05-4378-94f0-1a03818d3ff7

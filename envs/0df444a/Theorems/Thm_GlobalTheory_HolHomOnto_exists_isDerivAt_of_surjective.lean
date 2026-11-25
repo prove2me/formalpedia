@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolHomOnto_exists_isDerivAt_of_surjective
 -- name    : GlobalTheory.HolHomOnto.exists_isDerivAt_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:14:34.618893+00:00
 -- url     : https://prove2.me/theorems/257fe2f1-af83-4299-8b2b-66e85c180c72

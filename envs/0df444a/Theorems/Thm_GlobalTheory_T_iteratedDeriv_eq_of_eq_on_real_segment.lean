@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iteratedDeriv_eq_of_eq_on_real_segment
 -- name    : GlobalTheory.T.iteratedDeriv_eq_of_eq_on_real_segment
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:29.073565+00:00
 -- url     : https://prove2.me/theorems/5c910283-22a8-41cc-9270-ca76bf8ad892

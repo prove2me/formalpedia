@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountableFibres_exists_rows
 -- name    : GlobalTheory.CountableFibres.exists_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:03:54.634514+00:00
 -- url     : https://prove2.me/theorems/46d9f82b-b17f-4daf-9684-8a64b760601b

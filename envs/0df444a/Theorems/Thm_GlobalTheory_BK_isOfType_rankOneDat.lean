@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_isOfType_rankOneDat
 -- name    : GlobalTheory.BK.isOfType_rankOneDat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:57:16.272642+00:00
 -- url     : https://prove2.me/theorems/565ebe75-bec4-5e1a-916f-793660e81471

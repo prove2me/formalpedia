@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_HF_le
 -- name    : Formalism.MainNotions.Gaps.T0.HF_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:50:02.736088+00:00
 -- url     : https://prove2.me/theorems/ef6cf7ab-bfab-4b8d-8231-2d8b4793df31

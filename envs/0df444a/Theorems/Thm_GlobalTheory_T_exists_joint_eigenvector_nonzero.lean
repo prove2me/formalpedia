@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_joint_eigenvector_nonzero
 -- name    : GlobalTheory.T.exists_joint_eigenvector_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:25.33099+00:00
 -- url     : https://prove2.me/theorems/1d4ece23-a7de-4b36-a063-055ab5d74042

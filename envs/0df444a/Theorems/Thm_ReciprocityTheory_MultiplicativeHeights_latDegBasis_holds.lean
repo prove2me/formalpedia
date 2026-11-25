@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_latDegBasis_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.latDegBasis_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:13:08.139808+00:00
 -- url     : https://prove2.me/theorems/18e82044-9a38-4427-90ba-38da33cd5061

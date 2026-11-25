@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_IsTeich_lam_scale
 -- name    : ReciprocityTheory.PGsh.Up.U3.IsTeich.lam_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:31.937967+00:00
 -- url     : https://prove2.me/theorems/19d756aa-57d7-4a94-84ef-85044b1aaf71

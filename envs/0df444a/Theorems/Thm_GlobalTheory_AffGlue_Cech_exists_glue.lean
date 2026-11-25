@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffGlue_Cech_exists_glue
 -- name    : GlobalTheory.AffGlue.Cech.exists_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:48:19.446519+00:00
 -- url     : https://prove2.me/theorems/c9ca8ede-ba6f-4255-8941-caa9588ad641

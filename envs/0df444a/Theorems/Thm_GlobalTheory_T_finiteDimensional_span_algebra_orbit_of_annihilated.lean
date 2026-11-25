@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteDimensional_span_algebra_orbit_of_annihilated
 -- name    : GlobalTheory.T.finiteDimensional_span_algebra_orbit_of_annihilated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:12.427951+00:00
 -- url     : https://prove2.me/theorems/bcd426e6-24b1-5a70-a4a0-4f3eadac88c4

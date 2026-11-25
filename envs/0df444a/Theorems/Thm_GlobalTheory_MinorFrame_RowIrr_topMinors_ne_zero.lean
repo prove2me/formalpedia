@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_RowIrr_topMinors_ne_zero
 -- name    : GlobalTheory.MinorFrame.RowIrr.topMinors_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:39.009102+00:00
 -- url     : https://prove2.me/theorems/0c293e3e-31db-4670-a32e-c012c7db3a71

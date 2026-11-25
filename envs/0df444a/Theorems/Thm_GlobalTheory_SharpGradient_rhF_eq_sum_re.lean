@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_rhF_eq_sum_re
 -- name    : GlobalTheory.SharpGradient.rhF_eq_sum_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:40:59.449618+00:00
 -- url     : https://prove2.me/theorems/50acbb99-110f-4c5c-b86e-1fef27aacd42

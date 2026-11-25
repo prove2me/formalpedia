@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBundleSym_rigidified_sym_section
 -- name    : GlobalTheory.ThetaBundleSym.rigidified_sym_section
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:53.130964+00:00
 -- url     : https://prove2.me/theorems/0df7759c-efdd-4f05-a4b2-eb05f09dce58

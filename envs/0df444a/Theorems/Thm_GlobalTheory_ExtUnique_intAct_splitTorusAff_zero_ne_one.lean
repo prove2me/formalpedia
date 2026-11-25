@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_intAct_splitTorusAff_zero_ne_one
 -- name    : GlobalTheory.ExtUnique.intAct_splitTorusAff_zero_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:02.25484+00:00
 -- url     : https://prove2.me/theorems/25052294-aa6a-40fb-9270-8e136e6d318d

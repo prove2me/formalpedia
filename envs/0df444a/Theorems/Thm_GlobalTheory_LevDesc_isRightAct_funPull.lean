@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_isRightAct_funPull
 -- name    : GlobalTheory.LevDesc.isRightAct_funPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:58.568843+00:00
 -- url     : https://prove2.me/theorems/22908bcd-5f8d-49d7-9b18-988de1819cb4

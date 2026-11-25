@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_grpObj_descends_to_fg_subalgebra
 -- name    : GlobalTheory.grpObj_descends_to_fg_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:02:13.851968+00:00
 -- url     : https://prove2.me/theorems/3313bc8e-3df4-5869-a1e9-dcf5e636789d

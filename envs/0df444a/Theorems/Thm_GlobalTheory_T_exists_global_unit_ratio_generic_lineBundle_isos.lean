@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_global_unit_ratio_generic_lineBundle_isos
 -- name    : GlobalTheory.T.exists_global_unit_ratio_generic_lineBundle_isos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:07:36.459797+00:00
 -- url     : https://prove2.me/theorems/08422f6a-c03d-5387-a609-04063cfd9826

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_prod_neg_one_zpow
 -- name    : UpperTheory.prod_neg_one_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:00.677951+00:00
 -- url     : https://prove2.me/theorems/41523dab-7ef8-5cb6-9c8b-dc0abc71c083

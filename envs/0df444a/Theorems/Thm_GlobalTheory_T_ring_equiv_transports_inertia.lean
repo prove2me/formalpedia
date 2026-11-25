@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ring_equiv_transports_inertia
 -- name    : GlobalTheory.T.ring_equiv_transports_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:56:45.011989+00:00
 -- url     : https://prove2.me/theorems/20d4920d-b415-4a1e-9147-6c9f95f7150f

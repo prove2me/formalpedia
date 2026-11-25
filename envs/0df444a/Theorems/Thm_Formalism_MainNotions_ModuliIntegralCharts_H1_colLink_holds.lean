@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_colLink_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.colLink_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:51:49.432885+00:00
 -- url     : https://prove2.me/theorems/184eb939-be07-588f-9b4e-1d50e5301971

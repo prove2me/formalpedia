@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralCusp_evHom_aeval
 -- name    : GlobalTheory.IntegralCusp.evHom_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:18:44.413129+00:00
 -- url     : https://prove2.me/theorems/b8ebbe12-20a5-593a-8a2c-a881d54cec52

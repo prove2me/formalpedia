@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SymmetricPatternGroup_exists_isUnif
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SymmetricPatternGroup.exists_isUnif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:10:32.31158+00:00
 -- url     : https://prove2.me/theorems/7feb65be-1368-4f34-976f-2e85f3a5fc9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecSpread_ext_generic
 -- name    : GlobalTheory.SecSpread.ext_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:05:10.855422+00:00
 -- url     : https://prove2.me/theorems/67b1d256-9f71-574a-be93-2daffaf411ec

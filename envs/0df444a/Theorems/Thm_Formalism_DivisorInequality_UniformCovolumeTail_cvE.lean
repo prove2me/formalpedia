@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisorInequality_UniformCovolumeTail_cvE
 -- name    : Formalism.DivisorInequality.UniformCovolumeTail.cvE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:44:58.893695+00:00
 -- url     : https://prove2.me/theorems/c246dde1-8ea3-56c8-805b-211f682805f6

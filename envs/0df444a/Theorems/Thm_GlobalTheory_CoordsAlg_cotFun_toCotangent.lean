@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordsAlg_cotFun_toCotangent
 -- name    : GlobalTheory.CoordsAlg.cotFun_toCotangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:42.384572+00:00
 -- url     : https://prove2.me/theorems/463ee3b4-8356-49f6-8ed2-11f4b1177450

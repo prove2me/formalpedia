@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_noeth
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.noeth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:51.412066+00:00
 -- url     : https://prove2.me/theorems/631b603f-93ab-41d4-81c2-a0f81a620563

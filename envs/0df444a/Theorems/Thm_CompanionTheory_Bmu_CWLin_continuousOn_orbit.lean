@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Bmu_CWLin_continuousOn_orbit
 -- name    : CompanionTheory.Bmu.CWLin.continuousOn_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:16:34.36082+00:00
 -- url     : https://prove2.me/theorems/9df8e48a-1e90-5fac-b060-03dabea89de4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_completed_heckePartialLSeries_entire_bounded_strips
 -- name    : GlobalTheory.T.completed_heckePartialLSeries_entire_bounded_strips
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:33:58.244841+00:00
 -- url     : https://prove2.me/theorems/fb874952-7089-4e1f-aa6f-66fa3c373d32

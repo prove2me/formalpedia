@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cuspFlow_eq_torusAction
 -- name    : GlobalTheory.T.cuspFlow_eq_torusAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:27:53.693969+00:00
 -- url     : https://prove2.me/theorems/e32c530f-ce33-5a72-9716-ebae1f36e014

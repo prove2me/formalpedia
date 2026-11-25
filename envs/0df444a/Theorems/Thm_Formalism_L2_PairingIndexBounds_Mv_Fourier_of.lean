@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_Fourier_of
 -- name    : Formalism.L2.PairingIndexBounds.Mv.Fourier_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:45:31.93791+00:00
 -- url     : https://prove2.me/theorems/9c682bbb-820c-4887-ad31-359ab1a63c7f

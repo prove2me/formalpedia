@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HkFactor_ext_of_geometricPoints
 -- name    : GlobalTheory.HkFactor.ext_of_geometricPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:08:31.659889+00:00
 -- url     : https://prove2.me/theorems/21ed388f-c8d2-4b57-8759-ffd813a9d3b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_pnorm_smul
 -- name    : Formalism.L2.PjFree.pnorm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:19.517048+00:00
 -- url     : https://prove2.me/theorems/7d48cb95-be89-5a95-9431-c2720c70f0f2

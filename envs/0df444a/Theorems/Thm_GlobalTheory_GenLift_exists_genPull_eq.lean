@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenLift_exists_genPull_eq
 -- name    : GlobalTheory.GenLift.exists_genPull_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:19:58.968082+00:00
 -- url     : https://prove2.me/theorems/c3d98147-ab79-4bee-8817-60979fab4ef2

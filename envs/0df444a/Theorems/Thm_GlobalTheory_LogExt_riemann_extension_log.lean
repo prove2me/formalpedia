@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogExt_riemann_extension_log
 -- name    : GlobalTheory.LogExt.riemann_extension_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:58.161186+00:00
 -- url     : https://prove2.me/theorems/ca7fc84c-fb8f-45ae-93c3-1923e865d865

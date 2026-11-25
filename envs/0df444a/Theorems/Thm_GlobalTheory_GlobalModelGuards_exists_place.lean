@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalModelGuards_exists_place
 -- name    : GlobalTheory.GlobalModelGuards.exists_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:04.474867+00:00
 -- url     : https://prove2.me/theorems/ddb50979-21c8-44e5-8d40-d4657cdc3d70

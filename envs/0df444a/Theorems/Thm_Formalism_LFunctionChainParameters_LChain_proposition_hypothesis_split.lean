@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_proposition_hypothesis_split
 -- name    : Formalism.LFunctionChainParameters.LChain.proposition_hypothesis_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:49:59.132804+00:00
 -- url     : https://prove2.me/theorems/96aee48b-410e-483c-a019-04659daa06d1

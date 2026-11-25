@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_decay_minimum
 -- name    : Formalism.FourierDecayAlt.P.decay_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:30:26.709099+00:00
 -- url     : https://prove2.me/theorems/6011a784-c0d8-468f-8b44-a44c3639743e

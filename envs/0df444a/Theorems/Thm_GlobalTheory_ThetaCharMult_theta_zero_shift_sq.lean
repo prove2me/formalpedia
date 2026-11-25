@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCharMult_theta_zero_shift_sq
 -- name    : GlobalTheory.ThetaCharMult.theta_zero_shift_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:04:40.671893+00:00
 -- url     : https://prove2.me/theorems/e0103c2a-d927-47db-9565-a9f78fd2b938

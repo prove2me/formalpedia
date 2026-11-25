@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ae_eval_ne_zero_703e4b72ee63
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ae_eval_ne_zero_703e4b72ee63
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:13.20825+00:00
 -- url     : https://prove2.me/theorems/6a49fec4-9d16-41fc-8d7b-3b6874c07c51

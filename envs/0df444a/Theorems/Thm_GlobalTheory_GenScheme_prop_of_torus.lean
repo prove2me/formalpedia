@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenScheme_prop_of_torus
 -- name    : GlobalTheory.GenScheme.prop_of_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:18:30.558006+00:00
 -- url     : https://prove2.me/theorems/10261a92-1315-4cf3-8d02-ee05b92bfb5e

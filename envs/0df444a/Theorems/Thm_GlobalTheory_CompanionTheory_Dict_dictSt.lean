@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dict_dictSt
 -- name    : GlobalTheory.CompanionTheory.Dict.dictSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:01:12.115551+00:00
 -- url     : https://prove2.me/theorems/68157b1d-30a4-5f39-961e-33748099ce06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_vandermondeRatioHarmonic
 -- name    : Formalism.FourierDecayAlt.P.vandermondeRatioHarmonic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:28.307566+00:00
 -- url     : https://prove2.me/theorems/94f71494-e8d6-44fd-8388-94d73fd8f128

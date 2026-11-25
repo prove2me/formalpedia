@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_measurable_encard_fiber
 -- name    : ReciprocityTheory.L2DbarEstimates.measurable_encard_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:01:11.665849+00:00
 -- url     : https://prove2.me/theorems/a280a34c-3917-42a8-b98c-0cc3df783428

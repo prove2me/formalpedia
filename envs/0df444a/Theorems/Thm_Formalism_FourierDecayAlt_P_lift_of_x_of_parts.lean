@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lift_of_x_of_parts
 -- name    : Formalism.FourierDecayAlt.P.lift_of_x_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:40.837138+00:00
 -- url     : https://prove2.me/theorems/45fc7aef-1b36-41fc-9c82-c4529798be9b

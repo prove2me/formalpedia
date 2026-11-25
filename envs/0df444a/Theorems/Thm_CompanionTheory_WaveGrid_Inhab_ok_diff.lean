@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_Inhab_ok_diff
 -- name    : CompanionTheory.WaveGrid.Inhab.ok_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:19:54.424936+00:00
 -- url     : https://prove2.me/theorems/f98a0222-6960-4006-9d3c-4c8eaa922e65

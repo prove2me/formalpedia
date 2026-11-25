@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_delta_rank_two_one_column
 -- name    : Formalism.CohomologicalDescent.LA.delta_rank_two_one_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:32:04.101215+00:00
 -- url     : https://prove2.me/theorems/c702b32e-6342-4bf6-ad52-f2207eda8091

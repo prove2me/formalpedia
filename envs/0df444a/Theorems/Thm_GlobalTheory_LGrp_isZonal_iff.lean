@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_isZonal_iff
 -- name    : GlobalTheory.LGrp.isZonal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:13:54.239849+00:00
 -- url     : https://prove2.me/theorems/c60242e7-5129-4a3a-8f2f-bb00cab43ca4

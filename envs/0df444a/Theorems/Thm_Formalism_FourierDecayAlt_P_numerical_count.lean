@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_numerical_count
 -- name    : Formalism.FourierDecayAlt.P.numerical_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:33:59.309098+00:00
 -- url     : https://prove2.me/theorems/b2581a94-311a-50d2-9dc0-3335d3dfe474

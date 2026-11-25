@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_matrix_of_lattice_isometry
 -- name    : GlobalTheory.T.exists_unitary_matrix_of_lattice_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:30.863326+00:00
 -- url     : https://prove2.me/theorems/05c7d45a-764a-5150-bbb7-564c7c42869e

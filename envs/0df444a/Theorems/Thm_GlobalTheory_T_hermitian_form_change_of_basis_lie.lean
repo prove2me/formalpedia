@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_form_change_of_basis_lie
 -- name    : GlobalTheory.T.hermitian_form_change_of_basis_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:27.354465+00:00
 -- url     : https://prove2.me/theorems/b57ff7db-91a3-4177-aca5-dbf1beb15917

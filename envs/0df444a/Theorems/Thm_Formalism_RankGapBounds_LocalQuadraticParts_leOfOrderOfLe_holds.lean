@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_LocalQuadraticParts_leOfOrderOfLe_holds
 -- name    : Formalism.RankGapBounds.LocalQuadraticParts.leOfOrderOfLe_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:09.780733+00:00
 -- url     : https://prove2.me/theorems/4706c263-70fd-4ae4-bd17-5c8e2d6cb690

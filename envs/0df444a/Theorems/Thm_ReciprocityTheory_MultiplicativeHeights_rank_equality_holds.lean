@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_rank_equality_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.rank_equality_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:52.356009+00:00
 -- url     : https://prove2.me/theorems/b9cc32e1-3d7c-4225-a214-b74bb0b86a6d

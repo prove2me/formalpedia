@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicVal_summable_of_mem
 -- name    : GlobalTheory.PadicVal.summable_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:24.524793+00:00
 -- url     : https://prove2.me/theorems/a8425c1d-0a36-4b12-a50d-36be5bb56674

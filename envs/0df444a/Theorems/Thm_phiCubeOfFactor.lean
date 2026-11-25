@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_phiCubeOfFactor
 -- name    : phiCubeOfFactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:16:01.61486+00:00
 -- url     : https://prove2.me/theorems/849d01b3-7dda-4656-aa29-ef2a2fbde300

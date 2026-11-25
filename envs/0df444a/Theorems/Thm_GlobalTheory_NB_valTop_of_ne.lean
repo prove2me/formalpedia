@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_valTop_of_ne
 -- name    : GlobalTheory.NB.valTop_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:24.454426+00:00
 -- url     : https://prove2.me/theorems/7f6fb0f5-ca46-5f44-8cab-ba77cbb3413e

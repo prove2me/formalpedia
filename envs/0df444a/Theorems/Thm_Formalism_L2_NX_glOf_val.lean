@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NX_glOf_val
 -- name    : Formalism.L2.NX.glOf_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:45:41.200874+00:00
 -- url     : https://prove2.me/theorems/e4266598-18bb-4e9d-8a9f-f5b2eb1b33eb

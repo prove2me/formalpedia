@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Member_LatData_finite_stab
 -- name    : GlobalTheory.Member.LatData.finite_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:14:18.988146+00:00
 -- url     : https://prove2.me/theorems/39a6a919-2a3d-5a48-8277-048490b715eb

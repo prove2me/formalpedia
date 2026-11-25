@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_maj_eq_sum_coord
 -- name    : GlobalTheory.FrameNet.maj_eq_sum_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:37:25.410925+00:00
 -- url     : https://prove2.me/theorems/e11c6e54-e096-4489-9f32-58faae236f43

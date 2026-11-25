@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_points
 -- name    : Formalism.NG.points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:43.488156+00:00
 -- url     : https://prove2.me/theorems/f3f985b7-b3ef-5e79-ba74-0d88731cc7e4

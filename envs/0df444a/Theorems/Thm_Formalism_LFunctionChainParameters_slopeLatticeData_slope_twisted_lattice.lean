@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_slope_twisted_lattice
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.slope_twisted_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:17.404927+00:00
 -- url     : https://prove2.me/theorems/92843aea-5602-4fc5-9c03-bfc36684c0d9

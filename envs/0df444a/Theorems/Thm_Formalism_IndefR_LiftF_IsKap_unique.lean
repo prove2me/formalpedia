@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LiftF_IsKap_unique
 -- name    : Formalism.IndefR.LiftF.IsKap.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:42:09.47856+00:00
 -- url     : https://prove2.me/theorems/b31246ca-1ce5-4b91-a684-9f02fec7514d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_iteratedDeriv_holomorphic_family
 -- name    : GlobalTheory.T.continuous_iteratedDeriv_holomorphic_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:28:08.286339+00:00
 -- url     : https://prove2.me/theorems/cc9a64e1-ab85-45ab-ba37-e2cac26950e3

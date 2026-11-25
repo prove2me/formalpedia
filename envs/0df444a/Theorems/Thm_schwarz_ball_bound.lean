@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_schwarz_ball_bound
 -- name    : schwarz_ball_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:16:53.106809+00:00
 -- url     : https://prove2.me/theorems/21de82fd-b3af-459a-89db-54ad3c320e81

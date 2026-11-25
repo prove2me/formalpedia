@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SplitUnramifiedPlaces_Place_conj_induces_iff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SplitUnramifiedPlaces.Place.conj_induces_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:09:43.247187+00:00
 -- url     : https://prove2.me/theorems/5f7eec6e-6824-4ec1-a721-84a7ba764bb1

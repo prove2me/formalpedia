@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sdd_schur
 -- name    : ReciprocityTheory.MultiplicativeHeights.sdd_schur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:23.239196+00:00
 -- url     : https://prove2.me/theorems/7bddc3f5-68a1-4c38-9f8e-6f267505c4b5

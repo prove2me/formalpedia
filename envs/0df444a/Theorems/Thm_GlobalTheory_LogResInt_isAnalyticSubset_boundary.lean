@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogResInt_isAnalyticSubset_boundary
 -- name    : GlobalTheory.LogResInt.isAnalyticSubset_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:25.604645+00:00
 -- url     : https://prove2.me/theorems/d6290efd-5276-4940-a0c9-e87b69cd7ab4

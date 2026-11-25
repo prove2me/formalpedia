@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Metaplectic_Model_shear_mem
 -- name    : GlobalTheory.Published.Metaplectic.Model.shear_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:15.147613+00:00
 -- url     : https://prove2.me/theorems/29661b7d-de84-4f26-b094-22ce88594c20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_lin_add
 -- name    : GlobalTheory.AnArc.lin_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:56:00.735822+00:00
 -- url     : https://prove2.me/theorems/b747ac38-28a3-4a78-8e51-16ff7600fe48

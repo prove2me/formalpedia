@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_fourier_cpow
 -- name    : ReciprocityTheory.PGsh.L2.fourier_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:05:52.336+00:00
 -- url     : https://prove2.me/theorems/360de237-9533-466d-8de8-0833d7384775

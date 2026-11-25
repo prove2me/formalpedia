@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_unimodular_genus_unique
 -- name    : unimodular_genus_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:06:43.314001+00:00
 -- url     : https://prove2.me/theorems/406805e4-9009-43f5-8f9f-177f5056d143

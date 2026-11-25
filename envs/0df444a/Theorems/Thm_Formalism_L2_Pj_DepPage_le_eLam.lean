@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_DepPage_le_eLam
 -- name    : Formalism.L2.Pj.DepPage.le_eLam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:46:45.320193+00:00
 -- url     : https://prove2.me/theorems/3b778cc1-1eb7-5ec3-8301-0a7249ca5609

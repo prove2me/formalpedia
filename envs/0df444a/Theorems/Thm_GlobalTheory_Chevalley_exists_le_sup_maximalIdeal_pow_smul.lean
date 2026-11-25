@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chevalley_exists_le_sup_maximalIdeal_pow_smul
 -- name    : GlobalTheory.Chevalley.exists_le_sup_maximalIdeal_pow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:30.962177+00:00
 -- url     : https://prove2.me/theorems/f9efb3b1-1979-4772-9189-4921efa0b2cb

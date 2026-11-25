@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_near_smooth_slice
 -- name    : ReciprocityTheory.L2DbarEstimates.H.near_smooth_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:03:30.680191+00:00
 -- url     : https://prove2.me/theorems/924eee0c-5616-4c3f-a68c-97b3aef22e34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_key_identity
 -- name    : Formalism.key_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:32.864285+00:00
 -- url     : https://prove2.me/theorems/ec2bc9bc-8281-47d5-98da-010cf812e020

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinkowskiOrder_sum_odd
 -- name    : GlobalTheory.MinkowskiOrder.sum_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:14:43.754534+00:00
 -- url     : https://prove2.me/theorems/df9269df-7875-53ec-a85e-f93c0b139c53

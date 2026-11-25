@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BB6Kit_degenerate
 -- name    : BB6Kit.degenerate
--- status  : Open
+-- status  : Proved
 -- author  : @alon yuval
 -- created : 2026-11-23T22:13:04.522973+00:00
 -- url     : https://prove2.me/theorems/8ed224cb-f24c-4322-b2c3-5fb53950c7c8

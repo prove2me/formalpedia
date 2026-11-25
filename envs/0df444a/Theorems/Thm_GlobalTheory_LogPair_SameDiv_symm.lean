@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogPair_SameDiv_symm
 -- name    : GlobalTheory.LogPair.SameDiv.symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:10.53838+00:00
 -- url     : https://prove2.me/theorems/5239a3e2-49c2-55e2-8ab6-556e2ea977d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_krull_dim_quotient_eq_trdeg_succ
 -- name    : GlobalTheory.T.krull_dim_quotient_eq_trdeg_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:35:33.760799+00:00
 -- url     : https://prove2.me/theorems/7f80c240-d29c-4f4e-bab7-d584733bd395

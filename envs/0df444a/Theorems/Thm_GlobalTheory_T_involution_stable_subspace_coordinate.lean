@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_involution_stable_subspace_coordinate
 -- name    : GlobalTheory.T.involution_stable_subspace_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:20.972898+00:00
 -- url     : https://prove2.me/theorems/c0898e2c-8605-4c93-9c92-650e5bf96817

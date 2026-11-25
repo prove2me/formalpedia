@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_dual_frame_span_unitary_representation
 -- name    : GlobalTheory.T.exists_dual_frame_span_unitary_representation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:29:13.914101+00:00
 -- url     : https://prove2.me/theorems/25aa69f0-fa23-482d-9a5c-d3acd36ff035

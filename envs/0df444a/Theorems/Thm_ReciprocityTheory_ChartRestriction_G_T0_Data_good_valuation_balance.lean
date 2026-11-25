@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_good_valuation_balance
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.good_valuation_balance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:05:24.040682+00:00
 -- url     : https://prove2.me/theorems/eaa39f54-a267-4b5f-98f2-d0181c74145a

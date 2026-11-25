@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomExt_comp_pow_eq_one_of_pullback_hom
 -- name    : GlobalTheory.HomExt.comp_pow_eq_one_of_pullback_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:18.278555+00:00
 -- url     : https://prove2.me/theorems/ae5faf27-6eb4-56c9-822a-73b045ebb59d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_cupSum_eq_zero_iff_wsum_eq_zero
 -- name    : GlobalTheory.AbCoh.cupSum_eq_zero_iff_wsum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:01:49.282839+00:00
 -- url     : https://prove2.me/theorems/6246a39c-675d-4da5-ad5a-3c0cca8ec536

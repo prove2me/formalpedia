@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_scal_unit_K
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.scal_unit_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:51:24.557544+00:00
 -- url     : https://prove2.me/theorems/977c9f07-7bb8-4d72-9119-0230b2fb91da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lineBundle_trivial_iso_descend_field
 -- name    : GlobalTheory.T.lineBundle_trivial_iso_descend_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:39:52.261793+00:00
 -- url     : https://prove2.me/theorems/5718ed60-eb28-5983-8fda-ec1a764c4274

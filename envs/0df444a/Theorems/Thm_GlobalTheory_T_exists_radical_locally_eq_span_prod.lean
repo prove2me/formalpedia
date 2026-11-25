@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_radical_locally_eq_span_prod
 -- name    : GlobalTheory.T.exists_radical_locally_eq_span_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:42:46.906987+00:00
 -- url     : https://prove2.me/theorems/8987ad29-56c6-53ad-97b6-073a23cbc280

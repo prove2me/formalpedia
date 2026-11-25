@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_lawA13_of_data
 -- name    : Formalism.L2.Pj.lawA13_of_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:49:05.913221+00:00
 -- url     : https://prove2.me/theorems/8f926de2-1521-4d78-9806-b3b14395825c

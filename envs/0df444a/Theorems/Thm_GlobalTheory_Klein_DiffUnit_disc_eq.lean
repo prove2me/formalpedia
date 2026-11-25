@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_DiffUnit_disc_eq
 -- name    : GlobalTheory.Klein.DiffUnit.disc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:12:34.877741+00:00
 -- url     : https://prove2.me/theorems/dce8366c-e64d-4576-977b-cee373b3a012

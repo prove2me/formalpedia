@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_isRefl
 -- name    : GlobalTheory.HermForm.isRefl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:31.059469+00:00
 -- url     : https://prove2.me/theorems/ceecc4f4-79ee-4936-addb-8b0b2173c6ed

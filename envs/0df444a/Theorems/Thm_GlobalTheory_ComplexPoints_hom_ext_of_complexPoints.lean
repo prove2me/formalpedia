@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPoints_hom_ext_of_complexPoints
 -- name    : GlobalTheory.ComplexPoints.hom_ext_of_complexPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:52.111798+00:00
 -- url     : https://prove2.me/theorems/fe8c876a-79e4-48e8-a3c2-b91b80e6a75e

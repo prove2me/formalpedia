@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_UnitVectorPowers_lam_p
 -- name    : ReciprocityTheory.PGsh.Up.UnitVectorPowers.lam_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:08:01.774334+00:00
 -- url     : https://prove2.me/theorems/d3cbcae8-147e-5358-b992-6bf10950ab27

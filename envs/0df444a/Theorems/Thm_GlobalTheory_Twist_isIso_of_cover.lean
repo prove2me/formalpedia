@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Twist_isIso_of_cover
 -- name    : GlobalTheory.Twist.isIso_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:13:34.481327+00:00
 -- url     : https://prove2.me/theorems/6cdb22af-329d-53fb-8270-32e3d22c2881

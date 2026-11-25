@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_transH_levi
 -- name    : GlobalTheory.SW.Model.transH_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:37.264392+00:00
 -- url     : https://prove2.me/theorems/d94518e9-253b-46c4-bc08-5981ca45b2ea

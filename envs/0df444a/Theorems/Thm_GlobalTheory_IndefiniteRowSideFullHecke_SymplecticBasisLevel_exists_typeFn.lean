@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SymplecticBasisLevel_exists_typeFn
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SymplecticBasisLevel.exists_typeFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:10:08.56796+00:00
 -- url     : https://prove2.me/theorems/c230877a-acf4-4b17-936c-fec7c2aef880

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_sec_eq_zero_of_mem_span_pow
 -- name    : GlobalTheory.DvrModel.sec_eq_zero_of_mem_span_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:17.944809+00:00
 -- url     : https://prove2.me/theorems/d43c970f-8e8b-53b5-8c67-3ddd3ee402ad

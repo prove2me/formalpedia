@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_form_ideal_dual_vector_integral
 -- name    : GlobalTheory.T.lattice_form_ideal_dual_vector_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:45.996298+00:00
 -- url     : https://prove2.me/theorems/ad85a934-1de0-4a70-b9d4-328bd06eee57

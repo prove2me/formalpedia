@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_MC_GI_kapE_ge
 -- name    : Formalism.InvariantFactorPaths.MC.GI.kapE_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:50:27.354494+00:00
 -- url     : https://prove2.me/theorems/c9fed778-a65c-51b2-b12b-2fd8b74b5798

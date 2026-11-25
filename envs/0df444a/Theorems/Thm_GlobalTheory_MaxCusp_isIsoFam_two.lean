@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_isIsoFam_two
 -- name    : GlobalTheory.MaxCusp.isIsoFam_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:42:29.601225+00:00
 -- url     : https://prove2.me/theorems/f694310e-2e22-4633-955d-29b3f0a0204e

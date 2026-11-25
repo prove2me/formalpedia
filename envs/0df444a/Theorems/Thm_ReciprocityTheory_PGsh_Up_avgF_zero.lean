@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_avgF_zero
 -- name    : ReciprocityTheory.PGsh.Up.avgF_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:09:51.851018+00:00
 -- url     : https://prove2.me/theorems/654eb83d-0ccd-4fca-a6c8-16329fdc3f92

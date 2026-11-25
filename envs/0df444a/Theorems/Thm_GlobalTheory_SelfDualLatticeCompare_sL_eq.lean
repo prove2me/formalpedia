@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_sL_eq
 -- name    : GlobalTheory.SelfDualLatticeCompare.sL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:23:35.345927+00:00
 -- url     : https://prove2.me/theorems/c3b7da25-5b76-4eda-8106-643b6a71c2e7

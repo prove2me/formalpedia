@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_logHeight_le_torusHeight
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.logHeight_le_torusHeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:38:42.934103+00:00
 -- url     : https://prove2.me/theorems/2c9fc8e4-9484-5964-a2a3-f2db0d6c2070

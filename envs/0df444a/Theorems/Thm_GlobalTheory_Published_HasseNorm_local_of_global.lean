@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_HasseNorm_local_of_global
 -- name    : GlobalTheory.Published.HasseNorm.local_of_global
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:10.747287+00:00
 -- url     : https://prove2.me/theorems/5bd4fb79-8966-4a5e-8ae1-10563ac7c74b

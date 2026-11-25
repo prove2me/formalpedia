@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_LeviDatum_reparam_U
 -- name    : GlobalTheory.LGrp.LeviDatum.reparam_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:13:35.556879+00:00
 -- url     : https://prove2.me/theorems/4499d402-0200-4870-a96b-b3bee689440a

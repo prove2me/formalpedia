@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CocycleGlue_glue_over_opens
 -- name    : GlobalTheory.CocycleGlue.glue_over_opens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:16:09.262495+00:00
 -- url     : https://prove2.me/theorems/4781fb37-d945-4dbc-92db-22ab6dd66f55

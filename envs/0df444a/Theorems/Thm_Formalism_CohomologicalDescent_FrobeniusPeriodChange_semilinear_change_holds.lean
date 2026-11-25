@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_semilinear_change_holds
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.semilinear_change_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:21:41.996455+00:00
 -- url     : https://prove2.me/theorems/e66fd4ef-b65a-4390-ab9d-873e35bfa764

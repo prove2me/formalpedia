@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_euclideanCoords_hermitian_cartanInvolution
 -- name    : GlobalTheory.T.exists_euclideanCoords_hermitian_cartanInvolution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:29:12.598169+00:00
 -- url     : https://prove2.me/theorems/473b09ce-6c15-55c8-8fba-97de11570015

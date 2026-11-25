@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_hint_ae_tail
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.hint_ae_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:15:38.604967+00:00
 -- url     : https://prove2.me/theorems/09d5acd2-67f1-4d12-84be-487fa35100ef

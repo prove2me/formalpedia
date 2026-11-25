@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_sg_aeval
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.sg_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:21.699948+00:00
 -- url     : https://prove2.me/theorems/2318098e-5a4b-48fb-9125-d429c992daf8

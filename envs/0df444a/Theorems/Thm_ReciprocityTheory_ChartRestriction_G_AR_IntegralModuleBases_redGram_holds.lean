@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_IntegralModuleBases_redGram_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.IntegralModuleBases.redGram_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:14:00.130877+00:00
 -- url     : https://prove2.me/theorems/303c7081-e667-43cc-a71f-e0b323d2c8b4

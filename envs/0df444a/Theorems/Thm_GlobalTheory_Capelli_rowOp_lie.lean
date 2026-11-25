@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Capelli_rowOp_lie
 -- name    : GlobalTheory.Capelli.rowOp_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:16.164052+00:00
 -- url     : https://prove2.me/theorems/b9e1ec57-d72e-446c-be10-0fe2de6f865b

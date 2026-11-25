@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitDualParts_extPair_tmul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitDualParts.extPair_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:12.007007+00:00
 -- url     : https://prove2.me/theorems/35161485-2632-4d51-be96-fcae36461221

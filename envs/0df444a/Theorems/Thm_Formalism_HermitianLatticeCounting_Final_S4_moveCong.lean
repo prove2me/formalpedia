@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_moveCong
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.moveCong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:36:55.027845+00:00
 -- url     : https://prove2.me/theorems/0ac28a15-c565-5b5b-9bf1-32a928adcd16

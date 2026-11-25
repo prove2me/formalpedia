@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostRaw_dvd_muW_iff
 -- name    : UpperTheory.HF.Formalism.HC.HostRaw.dvd_muW_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:21:13.337434+00:00
 -- url     : https://prove2.me/theorems/ac2e995b-6061-4386-8ec6-a8bdc82641cf

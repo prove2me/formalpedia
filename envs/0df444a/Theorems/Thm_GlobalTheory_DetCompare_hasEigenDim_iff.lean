@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetCompare_hasEigenDim_iff
 -- name    : GlobalTheory.DetCompare.hasEigenDim_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:16.51741+00:00
 -- url     : https://prove2.me/theorems/ade6cc14-273e-40d7-a083-1ae68d3ee29e

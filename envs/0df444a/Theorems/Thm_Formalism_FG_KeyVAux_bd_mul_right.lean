@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_KeyVAux_bd_mul_right
 -- name    : Formalism.FG.KeyVAux.bd_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:24:32.373787+00:00
 -- url     : https://prove2.me/theorems/5328249c-a5e1-553e-b517-f44617d4d701

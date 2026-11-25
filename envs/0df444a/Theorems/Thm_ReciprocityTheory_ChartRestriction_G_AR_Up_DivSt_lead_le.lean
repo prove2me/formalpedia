@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_DivSt_lead_le
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.DivSt.lead_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:58:02.056021+00:00
 -- url     : https://prove2.me/theorems/81c7c101-96c3-5aee-a7d6-8f5045a041cb

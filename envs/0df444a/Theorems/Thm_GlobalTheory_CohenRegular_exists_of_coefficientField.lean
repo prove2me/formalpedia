@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenRegular_exists_of_coefficientField
 -- name    : GlobalTheory.CohenRegular.exists_of_coefficientField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:13:42.236558+00:00
 -- url     : https://prove2.me/theorems/4e1bd81e-95c3-4253-96eb-4b0ccb406366

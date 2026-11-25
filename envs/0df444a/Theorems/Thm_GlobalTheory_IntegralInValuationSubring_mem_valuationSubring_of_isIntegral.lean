@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralInValuationSubring_mem_valuationSubring_of_isIntegral
 -- name    : GlobalTheory.IntegralInValuationSubring.mem_valuationSubring_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:10:56.163407+00:00
 -- url     : https://prove2.me/theorems/05e6519a-bdb0-494e-bba3-829bf47ff8d1

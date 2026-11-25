@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_kSub
 -- name    : ReciprocityTheory.L2DbarEstimates.F.kSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:03:25.887194+00:00
 -- url     : https://prove2.me/theorems/1d05e542-d7ff-4670-9b02-0905ab4ccbf5

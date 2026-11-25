@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_properIndex
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.properIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:38:38.38647+00:00
 -- url     : https://prove2.me/theorems/01877b0e-0969-4945-a641-b08318f221a5

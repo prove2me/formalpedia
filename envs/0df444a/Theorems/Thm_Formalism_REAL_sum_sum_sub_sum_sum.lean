@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_sum_sum_sub_sum_sum
 -- name    : Formalism.REAL.sum_sum_sub_sum_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:52.087242+00:00
 -- url     : https://prove2.me/theorems/993be0e9-123e-5a2c-bf15-d9b6bb7dd766

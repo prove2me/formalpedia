@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenLift_pullSec_surjective_of_le
 -- name    : GlobalTheory.GenLift.pullSec_surjective_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:28:05.792826+00:00
 -- url     : https://prove2.me/theorems/77ed3d62-89df-53ef-8eda-ab2bd4e91582

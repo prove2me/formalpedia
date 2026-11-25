@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_multiset_conjugate_neg_of_prod
 -- name    : GlobalTheory.T.multiset_conjugate_neg_of_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:37:44.328551+00:00
 -- url     : https://prove2.me/theorems/43945d2b-b8e4-5934-a9c2-63f95d8ab1bd

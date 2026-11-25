@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_esymm_pow_twelve_div_discriminant_mem_subring
 -- name    : GlobalTheory.T.esymm_pow_twelve_div_discriminant_mem_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:34:30.962548+00:00
 -- url     : https://prove2.me/theorems/941ebf45-251b-41d0-b2f2-406d59316bf4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_factor_of_isLocalRing_of_mem_affineOpen
 -- name    : GlobalTheory.exists_factor_of_isLocalRing_of_mem_affineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:07:27.69458+00:00
 -- url     : https://prove2.me/theorems/f81cedf7-e812-481a-a742-69efe7904725

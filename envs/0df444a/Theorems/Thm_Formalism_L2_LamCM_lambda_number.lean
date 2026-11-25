@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_lambda_number
 -- name    : Formalism.L2.LamCM.lambda_number
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:31.470894+00:00
 -- url     : https://prove2.me/theorems/013cd6d7-8066-577a-9782-55547bdec839

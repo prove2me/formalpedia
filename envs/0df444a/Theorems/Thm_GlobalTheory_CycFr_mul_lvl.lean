@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycFr_mul_lvl
 -- name    : GlobalTheory.CycFr.mul_lvl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:19.643729+00:00
 -- url     : https://prove2.me/theorems/1ac4c963-b24e-524c-8b10-c39328bbafe2

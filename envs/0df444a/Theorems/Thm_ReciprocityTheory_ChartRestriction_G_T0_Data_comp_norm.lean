@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_comp_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.comp_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:01:45.802937+00:00
 -- url     : https://prove2.me/theorems/b20c3769-bbfe-562c-bdb1-a7e3f9b6dfff

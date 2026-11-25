@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_Full_sumFull
 -- name    : GlobalTheory.AdmLoc.Full.sumFull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:55:49.631272+00:00
 -- url     : https://prove2.me/theorems/11f3d42e-18ad-56aa-b647-8910bc511497

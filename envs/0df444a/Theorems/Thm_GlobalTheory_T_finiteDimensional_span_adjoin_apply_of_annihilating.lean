@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteDimensional_span_adjoin_apply_of_annihilating
 -- name    : GlobalTheory.T.finiteDimensional_span_adjoin_apply_of_annihilating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:31:07.335097+00:00
 -- url     : https://prove2.me/theorems/71caea8a-7ebd-511f-9e08-9b233b111680

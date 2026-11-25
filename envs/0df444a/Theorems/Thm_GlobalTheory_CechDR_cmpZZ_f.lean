@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_cmpZZ_f
 -- name    : GlobalTheory.CechDR.cmpZZ_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:54.108795+00:00
 -- url     : https://prove2.me/theorems/6b9092a4-543a-4d6b-9705-4b6015b46cdd

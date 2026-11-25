@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Val_harmonic_value_integral
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Val.harmonic_value_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:45:15.581692+00:00
 -- url     : https://prove2.me/theorems/7ca391f5-e11a-5125-a4bb-4fe0741835e1

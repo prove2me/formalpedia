@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_b_any_measure_from_normalised
 -- name    : Formalism.FourierDecayAlt.P.lemma_b_any_measure_from_normalised
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:51.996441+00:00
 -- url     : https://prove2.me/theorems/3b7d1adc-8625-563e-8416-9ed6595fe72f

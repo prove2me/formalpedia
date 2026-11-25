@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_normInvEntryLeMinor
 -- name    : Formalism.HermitianLatticeCounting.P.normInvEntryLeMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:01.387487+00:00
 -- url     : https://prove2.me/theorems/9a1f9974-43b5-4425-8b6f-3205d49794eb

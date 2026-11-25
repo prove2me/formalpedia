@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_generic
 -- name    : Formalism.NG.generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:51:28.698385+00:00
 -- url     : https://prove2.me/theorems/c456f634-585e-4c95-9443-6c5c847ed005

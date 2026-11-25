@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_xc_pow
 -- name    : ReciprocityTheory.PGsh.Up.xc_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:05.719395+00:00
 -- url     : https://prove2.me/theorems/bf769621-2b41-5492-8bc9-16f24d21fb2c

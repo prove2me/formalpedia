@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_nrmContOff_of
 -- name    : Formalism.L2.Pj.nrmContOff_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:48:59.56845+00:00
 -- url     : https://prove2.me/theorems/10ee7a16-a9c8-4a39-8a1c-215f237eddc2

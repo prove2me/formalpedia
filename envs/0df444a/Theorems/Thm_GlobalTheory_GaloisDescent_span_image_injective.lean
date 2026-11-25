@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_span_image_injective
 -- name    : GlobalTheory.GaloisDescent.span_image_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:43.44792+00:00
 -- url     : https://prove2.me/theorems/e28d243f-25a8-4730-b250-981708db59da

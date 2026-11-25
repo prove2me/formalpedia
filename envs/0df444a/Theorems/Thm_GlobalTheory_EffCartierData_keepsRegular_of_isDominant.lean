@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_keepsRegular_of_isDominant
 -- name    : GlobalTheory.EffCartierData.keepsRegular_of_isDominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:24:45.5114+00:00
 -- url     : https://prove2.me/theorems/5d46f865-f4b9-514d-8b05-cb6874203608

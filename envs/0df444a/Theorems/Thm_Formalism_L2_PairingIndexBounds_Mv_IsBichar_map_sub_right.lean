@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PairingIndexBounds_Mv_IsBichar_map_sub_right
 -- name    : Formalism.L2.PairingIndexBounds.Mv.IsBichar.map_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:46:50.666613+00:00
 -- url     : https://prove2.me/theorems/d9955872-f0c6-537f-9ed1-06cfc22f0701

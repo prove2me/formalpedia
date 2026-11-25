@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiSpec_fam_comm
 -- name    : GlobalTheory.PhiSpec.fam_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:46:25.878575+00:00
 -- url     : https://prove2.me/theorems/8d4dcd43-b8cb-4b2e-a9fa-2f001adc1668

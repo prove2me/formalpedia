@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_err_bound
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.err_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:51:27.219796+00:00
 -- url     : https://prove2.me/theorems/8b1d798d-9dad-4d69-924e-2862d951c3ac

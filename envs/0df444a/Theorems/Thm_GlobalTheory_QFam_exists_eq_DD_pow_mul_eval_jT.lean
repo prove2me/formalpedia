@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_exists_eq_DD_pow_mul_eval_jT
 -- name    : GlobalTheory.QFam.exists_eq_DD_pow_mul_eval_jT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:59:55.630801+00:00
 -- url     : https://prove2.me/theorems/4791125a-5548-4665-8b17-f456e64de96f

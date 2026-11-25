@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_leviV_eq_dv
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.leviV_eq_dv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:00:53.465809+00:00
 -- url     : https://prove2.me/theorems/49e5f5dd-8a43-42b0-bde2-7a68fe2f11d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RowsOther_kppOff_of_termZero
 -- name    : Formalism.L2.SG.RowsOther.kppOff_of_termZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:49:05.132957+00:00
 -- url     : https://prove2.me/theorems/60533f61-221a-4c5a-8670-0413fea8727d

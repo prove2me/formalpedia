@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TQ_exists_affine_weight_units
 -- name    : GlobalTheory.UU.TQ.exists_affine_weight_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:07:43.65288+00:00
 -- url     : https://prove2.me/theorems/9f1f6d60-7c9d-49d4-b95e-5841b192579d

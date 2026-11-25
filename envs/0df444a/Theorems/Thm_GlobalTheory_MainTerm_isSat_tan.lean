@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_isSat_tan
 -- name    : GlobalTheory.MainTerm.isSat_tan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:49.772684+00:00
 -- url     : https://prove2.me/theorems/518892be-0107-55c6-b693-27c1b840d732

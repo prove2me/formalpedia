@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedIdealWithBoundary_mk_eq_mk
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedIdealWithBoundary.mk_eq_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:53:16.591833+00:00
 -- url     : https://prove2.me/theorems/169a6656-3aa8-4e02-a7ff-d48d99d8f1a6

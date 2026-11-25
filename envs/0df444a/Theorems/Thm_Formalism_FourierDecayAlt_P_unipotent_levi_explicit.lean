@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_levi_explicit
 -- name    : Formalism.FourierDecayAlt.P.unipotent_levi_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:36:17.759649+00:00
 -- url     : https://prove2.me/theorems/0121f07e-01a4-4679-bd68-95dcf9533d0e

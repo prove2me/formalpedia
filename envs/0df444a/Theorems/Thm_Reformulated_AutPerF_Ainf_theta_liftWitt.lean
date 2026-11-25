@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_theta_liftWitt
 -- name    : Reformulated.AutPerF.Ainf.theta_liftWitt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:23.404977+00:00
 -- url     : https://prove2.me/theorems/8fa8ad96-07b8-5f3c-8d3d-1687544a8ee2

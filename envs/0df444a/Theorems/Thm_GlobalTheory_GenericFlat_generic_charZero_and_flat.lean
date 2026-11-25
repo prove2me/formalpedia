@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericFlat_generic_charZero_and_flat
 -- name    : GlobalTheory.GenericFlat.generic_charZero_and_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:05:44.295791+00:00
 -- url     : https://prove2.me/theorems/70e75efa-33dd-5b65-b740-78c5dfbf169b

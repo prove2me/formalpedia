@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvFieldBasis_evalPt_expPt
 -- name    : GlobalTheory.InvFieldBasis.evalPt_expPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:08:08.550566+00:00
 -- url     : https://prove2.me/theorems/d97dd02e-4ab1-4bfe-9450-67f07da63fee

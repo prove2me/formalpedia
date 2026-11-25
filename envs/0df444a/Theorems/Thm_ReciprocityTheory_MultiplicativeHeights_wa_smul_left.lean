@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_wa_smul_left
 -- name    : ReciprocityTheory.MultiplicativeHeights.wa_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:23.556978+00:00
 -- url     : https://prove2.me/theorems/f3b974f2-1990-4612-b16a-da5fa0287118

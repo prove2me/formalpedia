@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_maxCuspsA_flow_eq
 -- name    : Formalism.L2.Pj.QAt.maxCuspsA_flow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:45:45.971432+00:00
 -- url     : https://prove2.me/theorems/d90d3681-4a3c-5373-92ff-bdf8dae3d43e

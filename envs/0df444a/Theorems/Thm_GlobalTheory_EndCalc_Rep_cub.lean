@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndCalc_Rep_cub
 -- name    : GlobalTheory.EndCalc.Rep.cub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:59:07.55567+00:00
 -- url     : https://prove2.me/theorems/5e999697-68ea-4c5c-ba89-7206a908829e

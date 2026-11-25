@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_mem_hermLat
 -- name    : GlobalTheory.HL.ContModel.mem_hermLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:02.226828+00:00
 -- url     : https://prove2.me/theorems/3a654189-48ef-5f46-bec1-2179a2104aec

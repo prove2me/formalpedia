@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_relations_core_and_norms
 -- name    : Formalism.FourierDecayAlt.P.relations_core_and_norms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:45:33.881939+00:00
 -- url     : https://prove2.me/theorems/1c9179f1-d787-575d-a2e4-ebc4d526d043

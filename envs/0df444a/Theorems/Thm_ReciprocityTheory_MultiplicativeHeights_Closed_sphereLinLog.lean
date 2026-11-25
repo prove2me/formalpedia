@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_sphereLinLog
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.sphereLinLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:16:57.509852+00:00
 -- url     : https://prove2.me/theorems/a8b3fd81-23a0-4099-bf45-4b0b7a58b6a4

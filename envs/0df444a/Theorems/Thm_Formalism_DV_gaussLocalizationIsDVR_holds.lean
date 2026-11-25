@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DV_gaussLocalizationIsDVR_holds
 -- name    : Formalism.DV.gaussLocalizationIsDVR_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:58.180786+00:00
 -- url     : https://prove2.me/theorems/a04c141a-c8b2-4609-8bf8-d94d881e62f7

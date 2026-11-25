@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_sph_mem_SB
 -- name    : GlobalTheory.IdealChain.sph_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:08:28.30385+00:00
 -- url     : https://prove2.me/theorems/be89ec3e-33fc-428d-a562-703d69fa1f41

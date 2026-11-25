@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_hf_sum_smul
 -- name    : GlobalTheory.HL.ContModel.hf_sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:10.527803+00:00
 -- url     : https://prove2.me/theorems/0bc1dd93-7918-46f5-bfe5-4b7e6df80a73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_curv_submatrix_equiv
 -- name    : GlobalTheory.HermFrame.curv_submatrix_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:07:03.820798+00:00
 -- url     : https://prove2.me/theorems/a6fe5784-68c7-469a-9193-3bd6aecaf86c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_GenericNoetherNormalisationCapelliIdentities_proof__e6cd435f9dea
 -- name    : P2M_UpperTheory_Reformulated_B_GenericNoetherNormalisationCapelliIdentities_proof__e6cd435f9dea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:27:07.763808+00:00
 -- url     : https://prove2.me/theorems/7f636ddc-e256-4d1a-8573-5f4982e3daa8

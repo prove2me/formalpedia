@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_normLength
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.normLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:02:12.389162+00:00
 -- url     : https://prove2.me/theorems/44d780cf-7f0c-4fd7-a1f1-7ebd902a1bc9

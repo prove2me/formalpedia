@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dehom_coeff_mul_eq_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dehom.coeff_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:44:04.341184+00:00
 -- url     : https://prove2.me/theorems/b83aa8f0-316d-435b-af71-ba0824841cd8

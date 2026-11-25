@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_separable_point_of_geometrically_domain
 -- name    : GlobalTheory.T.exists_separable_point_of_geometrically_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:43.673928+00:00
 -- url     : https://prove2.me/theorems/be205a47-1ded-4324-ad1d-68390ea8c188

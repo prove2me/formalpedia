@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_coordinateRelation_universalJets
 -- name    : GlobalTheory.T.exists_coordinateRelation_universalJets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:12.05138+00:00
 -- url     : https://prove2.me/theorems/7c400019-06be-4f86-a2c0-20db9552c74f

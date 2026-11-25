@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AugCot_isBaseChange_of_isPushout
 -- name    : GlobalTheory.AugCot.isBaseChange_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:51.827398+00:00
 -- url     : https://prove2.me/theorems/89ac3caf-5bec-5706-8d68-13a428a5156a

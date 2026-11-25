@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_det_eq_det_submatrix_of_col_eq_single
 -- name    : FunctorialResolution.EmbeddedResolution.det_eq_det_submatrix_of_col_eq_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:05.365063+00:00
 -- url     : https://prove2.me/theorems/1242b835-bf3c-44b1-9102-af341374a22f

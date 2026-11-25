@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameSplit_frameSplit
 -- name    : GlobalTheory.FrameSplit.frameSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:20.884821+00:00
 -- url     : https://prove2.me/theorems/8055d0ac-a3c0-4ff3-9f64-cd923acb84ef

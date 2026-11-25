@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_exists_pow_le_span_sup_pow_succ
 -- name    : GlobalTheory.JetSer.exists_pow_le_span_sup_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:12:58.481654+00:00
 -- url     : https://prove2.me/theorems/668611a5-50a5-5456-8328-eae48ba5f60d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_chain_reduction_weak_l
 -- name    : Formalism.LFunctionChainParameters.LChain.chain_reduction_weak_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:39.695277+00:00
 -- url     : https://prove2.me/theorems/10bd60a2-5b72-4cfe-9d7d-d072d994e6ec

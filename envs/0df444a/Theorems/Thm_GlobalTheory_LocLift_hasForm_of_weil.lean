@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_hasForm_of_weil
 -- name    : GlobalTheory.LocLift.hasForm_of_weil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:27:27.754862+00:00
 -- url     : https://prove2.me/theorems/bf1a084c-5805-5398-aac9-b760b2295046

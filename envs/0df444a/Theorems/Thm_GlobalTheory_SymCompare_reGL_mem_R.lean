@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymCompare_reGL_mem_R
 -- name    : GlobalTheory.SymCompare.reGL_mem_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:25:58.057411+00:00
 -- url     : https://prove2.me/theorems/6835749c-f836-4999-9821-791f8910bfb0

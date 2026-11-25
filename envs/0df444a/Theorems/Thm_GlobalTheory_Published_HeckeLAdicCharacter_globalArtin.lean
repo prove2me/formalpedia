@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_HeckeLAdicCharacter_globalArtin
 -- name    : GlobalTheory.Published.HeckeLAdicCharacter.globalArtin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:14.616328+00:00
 -- url     : https://prove2.me/theorems/0f95c789-bda9-40be-a98e-8c21276363b5

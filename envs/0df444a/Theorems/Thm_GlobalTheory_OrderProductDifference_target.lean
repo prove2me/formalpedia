@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrderProductDifference_target
 -- name    : GlobalTheory.OrderProductDifference.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:15:54.310271+00:00
 -- url     : https://prove2.me/theorems/85404b2f-3b63-4558-afb5-d3bb266a5531

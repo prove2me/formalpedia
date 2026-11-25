@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_traceFormTwistIso_of_overPullback
 -- name    : GlobalTheory.traceFormTwistIso_of_overPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:24:00.027312+00:00
 -- url     : https://prove2.me/theorems/5c2d3ba7-76bb-4237-8468-ecba01155e9a

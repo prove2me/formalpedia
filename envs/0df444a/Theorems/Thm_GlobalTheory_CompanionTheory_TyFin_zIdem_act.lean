@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_zIdem_act
 -- name    : GlobalTheory.CompanionTheory.TyFin.zIdem_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:19:46.668899+00:00
 -- url     : https://prove2.me/theorems/c591097c-be7b-4c2d-b78f-2c5b7607cabe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_heightFunctionalStatement_of_pairingProperties
 -- name    : ReciprocityTheory.PGsh.heightFunctionalStatement_of_pairingProperties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:26:53.735794+00:00
 -- url     : https://prove2.me/theorems/e6fce224-94c4-4b77-9909-01a406fb666d

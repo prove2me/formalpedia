@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_norm_coeffVec
 -- name    : ReciprocityTheory.MultiplicativeHeights.norm_coeffVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:37.142928+00:00
 -- url     : https://prove2.me/theorems/690fc1e6-2e87-40cb-a0c6-441082610775

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_positionDiff
 -- name    : Formalism.FourierDecayAlt.P.positionDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:02.817039+00:00
 -- url     : https://prove2.me/theorems/111c06da-d482-50a4-9aa7-96cefe6490e4

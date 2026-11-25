@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_WirtingerDerivatives_Wc_anti
 -- name    : Formalism.QuantumDeterminants.WirtingerDerivatives.Wc_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:36.604128+00:00
 -- url     : https://prove2.me/theorems/4dd58bb8-3484-4c19-acbb-99fe1a16068c

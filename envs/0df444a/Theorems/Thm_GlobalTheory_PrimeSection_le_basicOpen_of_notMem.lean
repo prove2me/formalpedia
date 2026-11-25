@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_le_basicOpen_of_notMem
 -- name    : GlobalTheory.PrimeSection.le_basicOpen_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:17:43.582674+00:00
 -- url     : https://prove2.me/theorems/ab240c86-c5c0-5adf-a6c3-fce406e28c58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_character_separating_lattice
 -- name    : GlobalTheory.T.exists_character_separating_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:29:03.486594+00:00
 -- url     : https://prove2.me/theorems/729c69a1-a5ac-5703-8152-f42691f89a47

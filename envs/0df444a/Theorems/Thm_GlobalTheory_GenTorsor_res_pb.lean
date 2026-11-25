@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenTorsor_res_pb
 -- name    : GlobalTheory.GenTorsor.res_pb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:49.189336+00:00
 -- url     : https://prove2.me/theorems/dee2f54d-3960-4cb1-9abf-0f417a717222

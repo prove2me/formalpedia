@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_canonicalThetaExponent_symplectic_invariant
 -- name    : GlobalTheory.T.canonicalThetaExponent_symplectic_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:26.724381+00:00
 -- url     : https://prove2.me/theorems/7174e1cc-57fa-590c-8c65-78e502d7957f

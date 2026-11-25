@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedSequenceOfBlowups_lastBoundary_eq
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedSequenceOfBlowups.lastBoundary_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:35.858712+00:00
 -- url     : https://prove2.me/theorems/2f09131e-a1c9-5f9e-8ea7-a6d96ab8a519

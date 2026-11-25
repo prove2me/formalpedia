@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_ech_int
 -- name    : GlobalTheory.SW.FourierJ.ech_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:48.52075+00:00
 -- url     : https://prove2.me/theorems/3b911866-07a9-5f86-9198-61a707090819

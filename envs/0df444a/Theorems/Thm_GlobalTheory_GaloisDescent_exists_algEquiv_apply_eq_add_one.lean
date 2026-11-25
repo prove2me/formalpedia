@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_exists_algEquiv_apply_eq_add_one
 -- name    : GlobalTheory.GaloisDescent.exists_algEquiv_apply_eq_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:59.054715+00:00
 -- url     : https://prove2.me/theorems/73cd0eb2-b554-45df-b173-626dd2e36fd3

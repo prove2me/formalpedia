@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Ainf_theta_surj
 -- name    : ReciprocityTheory.PGsh.Ainf.theta_surj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:33:51.081535+00:00
 -- url     : https://prove2.me/theorems/019a5519-6e4f-43a7-be8a-f25f0fec61ec

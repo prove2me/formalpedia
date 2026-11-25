@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_polyPt_X
 -- name    : GlobalTheory.SS.polyPt_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:28:52.376655+00:00
 -- url     : https://prove2.me/theorems/aac51a9b-e3b3-4e36-9380-7c77a243ec37

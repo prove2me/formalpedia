@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_stdL_mem_Vset
 -- name    : GlobalTheory.SW.stdL_mem_Vset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:22:39.40284+00:00
 -- url     : https://prove2.me/theorems/c53b8934-790a-4111-9e68-8c6df857ecbb

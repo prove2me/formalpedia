@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_gen_of_rigidified_of_flat_baseChange
 -- name    : GlobalTheory.exists_gen_of_rigidified_of_flat_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:53:40.230857+00:00
 -- url     : https://prove2.me/theorems/e244d511-b971-4865-974d-e31fbde3fe8d

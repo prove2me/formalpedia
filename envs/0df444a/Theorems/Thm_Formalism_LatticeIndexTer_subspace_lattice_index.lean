@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_subspace_lattice_index
 -- name    : Formalism.LatticeIndexTer.subspace_lattice_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:38.715144+00:00
 -- url     : https://prove2.me/theorems/dd9d2ad8-b411-45c5-8dc6-5f04813e3036

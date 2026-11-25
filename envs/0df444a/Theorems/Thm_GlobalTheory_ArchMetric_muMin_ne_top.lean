@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_muMin_ne_top
 -- name    : GlobalTheory.ArchMetric.muMin_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:56:35.111805+00:00
 -- url     : https://prove2.me/theorems/4afad01a-a3c1-46e8-8cae-5cfea40d8f19

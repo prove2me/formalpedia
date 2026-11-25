@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilSiegel_NoFrame_integrable_of_mul_unimodular
 -- name    : GlobalTheory.CompanionTheory.WeilSiegel.NoFrame.integrable_of_mul_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:34.834732+00:00
 -- url     : https://prove2.me/theorems/aa98949f-a5b3-5648-b4e6-fa7ce54a2b9c

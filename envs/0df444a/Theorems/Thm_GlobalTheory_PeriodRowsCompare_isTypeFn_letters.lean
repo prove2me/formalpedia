@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodRowsCompare_isTypeFn_letters
 -- name    : GlobalTheory.PeriodRowsCompare.isTypeFn_letters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:16:16.519261+00:00
 -- url     : https://prove2.me/theorems/7ba5caea-6ce8-4090-9df1-3348c96d9029

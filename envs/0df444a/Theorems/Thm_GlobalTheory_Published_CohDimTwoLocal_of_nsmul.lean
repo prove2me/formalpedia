@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_CohDimTwoLocal_of_nsmul
 -- name    : GlobalTheory.Published.CohDimTwoLocal.of_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:22.90194+00:00
 -- url     : https://prove2.me/theorems/44acb215-a7b4-4a5a-b843-4c2d3bac4910

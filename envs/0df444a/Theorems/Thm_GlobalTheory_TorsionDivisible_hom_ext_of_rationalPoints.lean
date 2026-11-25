@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionDivisible_hom_ext_of_rationalPoints
 -- name    : GlobalTheory.TorsionDivisible.hom_ext_of_rationalPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:58:08.019592+00:00
 -- url     : https://prove2.me/theorems/9f6b4ee0-37d6-4084-a160-cb665dac2ebc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomCNFDeficiency_LowerBound_closure_absorption
 -- name    : RandomCNFDeficiency.LowerBound.closure_absorption
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:32:15.020449+00:00
 -- url     : https://prove2.me/theorems/054e735f-8b36-492f-827e-638b30ce9b60

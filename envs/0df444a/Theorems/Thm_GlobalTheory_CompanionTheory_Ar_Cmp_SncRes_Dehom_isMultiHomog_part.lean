@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dehom_isMultiHomog_part
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dehom.isMultiHomog_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:46:22.213853+00:00
 -- url     : https://prove2.me/theorems/dd9859a9-37a0-415a-a5bb-83fbe9ac6793

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_constHom_apply
 -- name    : GlobalTheory.FieldBaseChange.constHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:46.756987+00:00
 -- url     : https://prove2.me/theorems/622f32a4-bb43-4040-b82f-bf59342e59dc

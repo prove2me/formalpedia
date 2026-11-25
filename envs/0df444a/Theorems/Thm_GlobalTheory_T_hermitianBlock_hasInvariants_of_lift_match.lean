@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianBlock_hasInvariants_of_lift_match
 -- name    : GlobalTheory.T.hermitianBlock_hasInvariants_of_lift_match
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:05.121264+00:00
 -- url     : https://prove2.me/theorems/491a3edc-1cb8-5cae-ad24-0f55ecf9e06a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_isSemisimpleRepresentation_tprod
 -- name    : GlobalTheory.ClassFin.isSemisimpleRepresentation_tprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:00:34.139889+00:00
 -- url     : https://prove2.me/theorems/781e1c4c-535b-4077-bd5f-adb1b99800cd

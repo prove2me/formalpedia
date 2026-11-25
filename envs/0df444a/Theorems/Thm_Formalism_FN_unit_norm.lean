@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FN_unit_norm
 -- name    : Formalism.FN.unit_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:24:39.278437+00:00
 -- url     : https://prove2.me/theorems/d803150e-d7f5-5d72-a087-86de5252d77a

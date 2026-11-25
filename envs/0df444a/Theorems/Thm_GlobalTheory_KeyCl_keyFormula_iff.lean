@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyCl_keyFormula_iff
 -- name    : GlobalTheory.KeyCl.keyFormula_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:13:32.091134+00:00
 -- url     : https://prove2.me/theorems/70d3a030-daa2-473d-9e98-1c1b44a1b73b

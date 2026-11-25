@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_exists_pushFr
 -- name    : GlobalTheory.ChartCmp.exists_pushFr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:27:18.746677+00:00
 -- url     : https://prove2.me/theorems/98347257-8a81-4781-b7ce-31bc2920f3f9

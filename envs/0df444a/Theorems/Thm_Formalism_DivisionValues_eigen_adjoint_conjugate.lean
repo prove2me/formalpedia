@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_eigen_adjoint_conjugate
 -- name    : Formalism.DivisionValues.eigen_adjoint_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:26:50.961455+00:00
 -- url     : https://prove2.me/theorems/4afffa8a-71db-4dc3-b781-a68fdbb75c69

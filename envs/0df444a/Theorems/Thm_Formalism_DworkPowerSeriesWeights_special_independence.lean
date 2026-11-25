@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_special_independence
 -- name    : Formalism.DworkPowerSeriesWeights.special_independence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:29.592327+00:00
 -- url     : https://prove2.me/theorems/7f1035ea-524b-48c9-9fea-cd434996a79a

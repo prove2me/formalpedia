@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_root_sum_unitary
 -- name    : Formalism.IrreducibleCountingLemmas.Z.root_sum_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:50:26.738009+00:00
 -- url     : https://prove2.me/theorems/fbddf432-f3ae-4cca-b0b9-740a9d43ebd1

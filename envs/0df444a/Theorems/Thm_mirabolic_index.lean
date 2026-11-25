@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mirabolic_index
 -- name    : mirabolic_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:25.046369+00:00
 -- url     : https://prove2.me/theorems/19bcffd9-8e47-5e75-a4fc-8d2a6bdad7e1

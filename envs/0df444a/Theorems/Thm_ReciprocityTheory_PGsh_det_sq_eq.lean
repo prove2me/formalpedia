@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_det_sq_eq
 -- name    : ReciprocityTheory.PGsh.det_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:36.269724+00:00
 -- url     : https://prove2.me/theorems/855a58af-0a1a-469d-b224-a008c967e118

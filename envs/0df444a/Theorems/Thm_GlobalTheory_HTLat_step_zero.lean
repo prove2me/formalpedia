@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_step_zero
 -- name    : GlobalTheory.HTLat.step_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:21.034219+00:00
 -- url     : https://prove2.me/theorems/01f3972b-ca8b-4350-9155-c52791188e54

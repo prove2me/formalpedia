@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_UnitVectorPowers_MuR_map
 -- name    : ReciprocityTheory.PGsh.Up.UnitVectorPowers.MuR_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:10:45.348799+00:00
 -- url     : https://prove2.me/theorems/e3e2a375-8c06-497c-a58c-b2010424a66f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_TorusLexOrder_coeff_coeffIn
 -- name    : ReciprocityTheory.MultiplicativeHeights.TorusLexOrder.coeff_coeffIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:03:10.353289+00:00
 -- url     : https://prove2.me/theorems/03d553e1-0b87-52d5-9505-171d1c271933

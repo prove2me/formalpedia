@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_approxB_norm_jForm_self_le
 -- name    : ReciprocityTheory.MultiplicativeHeights.approxB_norm_jForm_self_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:03:43.355362+00:00
 -- url     : https://prove2.me/theorems/3366b759-8f2a-5738-8bca-eac48220b885

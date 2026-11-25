@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_eq_zero_of_wrong_sign_gaussian_relation
 -- name    : GlobalTheory.T.schwartz_eq_zero_of_wrong_sign_gaussian_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:36:55.335534+00:00
 -- url     : https://prove2.me/theorems/f8ba1556-35a8-5db9-bf3b-63c7eb933ec7

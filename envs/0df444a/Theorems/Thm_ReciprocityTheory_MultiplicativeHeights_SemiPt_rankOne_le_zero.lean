@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_rankOne_le_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.rankOne_le_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:03:18.175172+00:00
 -- url     : https://prove2.me/theorems/905a7c9c-21c8-48c5-b8e2-c9c639a56a1b

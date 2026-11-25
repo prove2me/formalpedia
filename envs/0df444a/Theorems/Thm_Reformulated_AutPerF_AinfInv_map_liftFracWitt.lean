@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_AinfInv_map_liftFracWitt
 -- name    : Reformulated.AutPerF.AinfInv.map_liftFracWitt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:10:09.453644+00:00
 -- url     : https://prove2.me/theorems/9f89fcda-b7bd-44d7-9b51-eb3fe72cfc3e

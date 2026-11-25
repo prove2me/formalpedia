@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_not_weilIs_heis
 -- name    : GlobalTheory.WeilNoncomm.not_weilIs_heis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:11:01.075702+00:00
 -- url     : https://prove2.me/theorems/d671e86a-12cf-4edb-8190-5610a7260385

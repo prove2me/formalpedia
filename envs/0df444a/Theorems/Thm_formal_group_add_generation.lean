@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_formal_group_add_generation
 -- name    : formal_group_add_generation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:14:34.353907+00:00
 -- url     : https://prove2.me/theorems/b6ac62a4-7465-4d26-8a37-2b2486e4be6e

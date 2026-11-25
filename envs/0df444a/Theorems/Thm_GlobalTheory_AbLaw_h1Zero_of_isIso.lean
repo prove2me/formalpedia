@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_h1Zero_of_isIso
 -- name    : GlobalTheory.AbLaw.h1Zero_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:30.782954+00:00
 -- url     : https://prove2.me/theorems/705d32ad-0371-5554-b2a5-432e8de34aa1

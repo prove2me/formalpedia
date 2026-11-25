@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_map_substInv
 -- name    : GlobalTheory.FormalInv.map_substInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:22.256255+00:00
 -- url     : https://prove2.me/theorems/5ad199b2-2725-43b5-8b81-5feba6af0732

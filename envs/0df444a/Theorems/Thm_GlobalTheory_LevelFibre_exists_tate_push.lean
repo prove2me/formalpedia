@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_exists_tate_push
 -- name    : GlobalTheory.LevelFibre.exists_tate_push
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:11.19023+00:00
 -- url     : https://prove2.me/theorems/2576dbe1-1504-40b5-ba3b-aca4fab2fdf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_kempeGraph_adj_ends
 -- name    : ShannonColouring.kempeGraph_adj_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:03:20.898983+00:00
 -- url     : https://prove2.me/theorems/04ccc7d8-64cd-4327-bda2-9d1d13505926

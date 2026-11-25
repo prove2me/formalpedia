@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOfFinOrder_pic_of_isReduced_finite_int
 -- name    : GlobalTheory.T.isOfFinOrder_pic_of_isReduced_finite_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:36:36.864031+00:00
 -- url     : https://prove2.me/theorems/6bcf05b4-6f38-422a-abc3-fef5903c71da

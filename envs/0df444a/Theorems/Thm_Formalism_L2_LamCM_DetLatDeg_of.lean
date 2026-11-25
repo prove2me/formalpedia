@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_DetLatDeg_of
 -- name    : Formalism.L2.LamCM.DetLatDeg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:26.108538+00:00
 -- url     : https://prove2.me/theorems/343437d1-9144-57e2-9ad0-5cba411030e1

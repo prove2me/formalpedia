@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_unitChange
 -- name    : Formalism.EigenvalueLevelCeiling.unitChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:28:38.027111+00:00
 -- url     : https://prove2.me/theorems/4cc9bfab-3eb6-4256-b940-87ffa0fa9692

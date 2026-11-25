@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_smoothR_vsq
 -- name    : ReciprocityTheory.L2DbarEstimates.H.smoothR_vsq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:48:16.450538+00:00
 -- url     : https://prove2.me/theorems/0a76c8ef-51e9-4c3c-a3cb-f4cff8ac1883

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_principalGroup_acts_freely_on_flags
 -- name    : GlobalTheory.T.principalGroup_acts_freely_on_flags
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:55:28.837727+00:00
 -- url     : https://prove2.me/theorems/81e40f2b-5c56-4a4e-8b6f-f34e9847c335

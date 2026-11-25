@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_PB_filter_notPhi_eq
 -- name    : Formalism.LFunctionChainParameters.characterSumData.PB.filter_notPhi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:50:49.328952+00:00
 -- url     : https://prove2.me/theorems/8514d8ca-5748-4137-b889-1445e4a34819

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_independence_bound_of_coefficient
 -- name    : Formalism.L2.FormalSeriesBounds.independence_bound_of_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:02.908225+00:00
 -- url     : https://prove2.me/theorems/3a8ecfcc-adc1-5ba5-8c22-40ae7771aaa7

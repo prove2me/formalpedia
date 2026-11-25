@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_en_le_of_nsq
 -- name    : UnipMove.GraphH.en_le_of_nsq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:11:43.549697+00:00
 -- url     : https://prove2.me/theorems/d581c528-e587-445a-9347-70de12406e67

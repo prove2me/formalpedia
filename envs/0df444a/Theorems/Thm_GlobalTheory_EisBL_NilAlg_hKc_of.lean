@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisBL_NilAlg_hKc_of
 -- name    : GlobalTheory.EisBL.NilAlg.hKc_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:04:30.686461+00:00
 -- url     : https://prove2.me/theorems/98b42953-a559-450a-832e-89b362f291fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_example_weight_zero_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.example_weight_zero_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:02.231844+00:00
 -- url     : https://prove2.me/theorems/f48e6c18-6a72-4403-b1b0-6252ea075a5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_eq_torusMap_iff
 -- name    : GlobalTheory.SplitTorus.eq_torusMap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:24:24.754897+00:00
 -- url     : https://prove2.me/theorems/e05ce11f-269f-5cc1-96a1-035b37373754

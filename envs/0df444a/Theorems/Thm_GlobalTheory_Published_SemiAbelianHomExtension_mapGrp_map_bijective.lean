@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_mapGrp_map_bijective
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.mapGrp_map_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:17:49.468804+00:00
 -- url     : https://prove2.me/theorems/d76ea742-e885-4f80-aee6-291c2087b21b

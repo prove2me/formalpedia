@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_saturatedMember
 -- name    : Formalism.G0.Top.saturatedMember
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:37:32.402452+00:00
 -- url     : https://prove2.me/theorems/4ab5144e-4d47-4330-9f05-788409bffaef

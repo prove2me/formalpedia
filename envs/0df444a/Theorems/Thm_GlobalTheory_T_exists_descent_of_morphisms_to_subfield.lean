@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_descent_of_morphisms_to_subfield
 -- name    : GlobalTheory.T.exists_descent_of_morphisms_to_subfield
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:07:22.652797+00:00
 -- url     : https://prove2.me/theorems/45218ed1-44d8-4589-b1a6-8ee5a6ec3b5e

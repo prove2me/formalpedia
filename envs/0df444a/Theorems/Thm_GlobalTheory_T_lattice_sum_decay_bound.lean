@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_sum_decay_bound
 -- name    : GlobalTheory.T.lattice_sum_decay_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:37.867545+00:00
 -- url     : https://prove2.me/theorems/4a04f96e-0e38-5e5a-a38d-594012f5f801

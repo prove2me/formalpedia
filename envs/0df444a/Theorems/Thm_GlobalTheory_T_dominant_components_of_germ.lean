@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dominant_components_of_germ
 -- name    : GlobalTheory.T.dominant_components_of_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:02.825393+00:00
 -- url     : https://prove2.me/theorems/e63e25de-d8d7-58e7-9ba8-8085e53c0505

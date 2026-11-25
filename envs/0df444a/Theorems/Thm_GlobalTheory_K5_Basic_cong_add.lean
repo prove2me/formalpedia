@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_cong_add
 -- name    : GlobalTheory.K5.Basic.cong_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:43.06293+00:00
 -- url     : https://prove2.me/theorems/a8ebb6f5-6f33-40eb-a9e9-0aa4887c393d

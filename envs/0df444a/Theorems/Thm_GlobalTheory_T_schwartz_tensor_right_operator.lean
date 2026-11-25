@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_tensor_right_operator
 -- name    : GlobalTheory.T.schwartz_tensor_right_operator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:38:43.483806+00:00
 -- url     : https://prove2.me/theorems/9ef8c257-65d1-431d-a31f-3037acb4aee7

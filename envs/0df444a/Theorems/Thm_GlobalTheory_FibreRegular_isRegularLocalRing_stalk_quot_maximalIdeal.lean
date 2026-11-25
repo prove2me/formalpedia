@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreRegular_isRegularLocalRing_stalk_quot_maximalIdeal
 -- name    : GlobalTheory.FibreRegular.isRegularLocalRing_stalk_quot_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:10.471453+00:00
 -- url     : https://prove2.me/theorems/edb24e74-68a5-4cf8-a564-8a99f3a78162

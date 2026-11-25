@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmulMemOfMemSpanExists_exists_smul_mem_of_mem_span
 -- name    : GlobalTheory.SmulMemOfMemSpanExists.exists_smul_mem_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:24:21.710873+00:00
 -- url     : https://prove2.me/theorems/0bcafc50-6d38-414b-81c1-8c68a983047a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_PullbackHopfOrder_sqIdeal_le
 -- name    : ReciprocityTheory.PGsh.Up.PullbackHopfOrder.sqIdeal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:06:08.196088+00:00
 -- url     : https://prove2.me/theorems/315946a1-5dc7-4ded-970c-9696bcbb4ead

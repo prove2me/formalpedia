@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_annihSize
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.annihSize
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:41.974717+00:00
 -- url     : https://prove2.me/theorems/4604abd3-7f14-5f5c-872d-fb5719c16191

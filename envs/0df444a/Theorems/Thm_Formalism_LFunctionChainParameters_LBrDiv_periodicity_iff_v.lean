@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_periodicity_iff_v
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.periodicity_iff_v
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:51.172795+00:00
 -- url     : https://prove2.me/theorems/90731e95-5f7d-50b2-89a7-519e20710c35

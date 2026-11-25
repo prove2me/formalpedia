@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mapDegree_eq_expChar_pow_mul_card_kernel
 -- name    : GlobalTheory.T.mapDegree_eq_expChar_pow_mul_card_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:47.048988+00:00
 -- url     : https://prove2.me/theorems/91068ae7-5626-4ba2-93d5-09ae7e482af8

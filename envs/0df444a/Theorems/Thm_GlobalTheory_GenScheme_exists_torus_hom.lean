@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenScheme_exists_torus_hom
 -- name    : GlobalTheory.GenScheme.exists_torus_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:53:48.388985+00:00
 -- url     : https://prove2.me/theorems/c3d56134-8fa6-5fb8-af44-839754fdc7a6

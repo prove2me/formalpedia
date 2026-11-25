@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_det_eq_sq_mul_gram_det_of_mem_span
 -- name    : GlobalTheory.T.gram_det_eq_sq_mul_gram_det_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:31:51.16999+00:00
 -- url     : https://prove2.me/theorems/5f85c399-41fa-55e8-8e90-7af880025bd7

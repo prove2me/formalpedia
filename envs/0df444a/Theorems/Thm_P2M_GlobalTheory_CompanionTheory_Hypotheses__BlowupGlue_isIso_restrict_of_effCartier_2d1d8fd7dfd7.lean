@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_isIso_restrict_of_effCartier_2d1d8fd7dfd7
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_isIso_restrict_of_effCartier_2d1d8fd7dfd7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:53:04.767848+00:00
 -- url     : https://prove2.me/theorems/4d89af97-144d-57eb-a434-eac17a0daa29

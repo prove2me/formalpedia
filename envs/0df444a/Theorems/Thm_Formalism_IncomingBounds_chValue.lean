@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_chValue
 -- name    : Formalism.IncomingBounds.chValue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:28.708877+00:00
 -- url     : https://prove2.me/theorems/66393c71-cb1d-571e-9c8c-e6f731cfb23b

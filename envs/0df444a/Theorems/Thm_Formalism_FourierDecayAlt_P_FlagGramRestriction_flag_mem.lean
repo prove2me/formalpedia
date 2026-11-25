@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagGramRestriction_flag_mem
 -- name    : Formalism.FourierDecayAlt.P.FlagGramRestriction.flag_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:26:24.243341+00:00
 -- url     : https://prove2.me/theorems/6ca16f77-4729-54d8-8d53-3797f31de336

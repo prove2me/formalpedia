@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_del_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.del_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:10:45.626798+00:00
 -- url     : https://prove2.me/theorems/7991ed48-c017-4ac9-a4a1-e9aa03e22982

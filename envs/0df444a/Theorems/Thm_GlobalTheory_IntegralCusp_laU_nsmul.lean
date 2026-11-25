@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralCusp_laU_nsmul
 -- name    : GlobalTheory.IntegralCusp.laU_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:32.437413+00:00
 -- url     : https://prove2.me/theorems/8a43c2a6-a359-4b56-a131-58f574dea21e

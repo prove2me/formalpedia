@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_AbMulNSt_unit_case
 -- name    : GlobalTheory.Published.AbMulNSt.unit_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:16:17.284327+00:00
 -- url     : https://prove2.me/theorems/3cb1679e-513e-44ab-a03b-f9bda7dbff10

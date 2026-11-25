@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_pcEquidim
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.pcEquidim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:36:32.028142+00:00
 -- url     : https://prove2.me/theorems/b8c9bc6a-affe-4b9f-b976-24c5ede78fd8

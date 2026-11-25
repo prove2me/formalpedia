@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gradedExt_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.gradedExt_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:16.363795+00:00
 -- url     : https://prove2.me/theorems/c556172a-269a-43f0-8db6-782151e56847

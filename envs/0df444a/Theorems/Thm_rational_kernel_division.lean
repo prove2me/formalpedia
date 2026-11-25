@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_rational_kernel_division
 -- name    : rational_kernel_division
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:15:27.435262+00:00
 -- url     : https://prove2.me/theorems/5df240b6-d9d7-5c3c-b13c-0fa52b3b5df8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieBaseChange_isLieBasis_bcVec
 -- name    : GlobalTheory.LieBaseChange.isLieBasis_bcVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:55:30.5448+00:00
 -- url     : https://prove2.me/theorems/ed47592b-f457-4b89-b881-1681d00b7c8b

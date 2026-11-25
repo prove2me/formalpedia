@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_degData_isPullDeg
 -- name    : GlobalTheory.exists_degData_isPullDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:31:18.18869+00:00
 -- url     : https://prove2.me/theorems/ed126178-bfc7-4232-8da5-927b7da7ada3

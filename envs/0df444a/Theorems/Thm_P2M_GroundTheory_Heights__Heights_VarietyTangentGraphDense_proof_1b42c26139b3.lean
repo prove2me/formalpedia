@@ -1,0 +1,56 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_proof_1b42c26139b3
+-- name    : P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_proof_1b42c26139b3
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-25T15:23:39.456017+00:00
+-- url     : https://prove2.me/theorems/701533f9-3603-4ac8-af72-f2be792acb35
+-- title:
+--   P2 M Ground Theory Heights  Heights Variety Tangent Graph Dense proof 1b42c26139b3: P2 M Ground Theory Heights  Heights Variety Tangent Graph Dense proof 1b42c26139b3
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Variety Tangent Graph Dense proof 1b42c26139b3 construction uses the P2 M Ground Theory Heights  Heights Variety Tangent Graph Dense proof 1b42c26139b3 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ComplexAnalyticSets/PVarietyTangentGraphDense.lean#L276-L281
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ComplexAnalyticSets/PVarietyTangentGraphDense.lean#L276-L281
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StVarietyTangentGraphDense
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StZeroSetOpenMass
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_StFramePlaneGraph
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PFramePlaneGraph
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PFrameGraphGeneric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PFrameJacobianGeneric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PJacobianRankGeneric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PConormalGenerationGeneric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ElementarySymmetric_PFrameImplicitGraph
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PNullSmaller
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_OsgoodSeparate
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PVarietyTangentGraphDense
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConormalGenerationGeneric_proof_f41f288e0b9b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameGraphGeneric_proof_0d2e8b72cdc7
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_proof_b5407db643ba
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameJacobianGeneric_proof_1ca593bfb056
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FramePlaneGraph_proof_80ec7a065eb8
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankGeneric_proof_63329d51f704
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NullSmaller_proof_15fa22cfb07c
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_proof_5560ddb795d4
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_proof_0dafe800e45e
+import Theorems.Thm_UpperTheory_Reformulated_B_Qf34_proof
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open MvPolynomial Topology Filter MeasureTheory
+noncomputable section
+
+theorem P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_proof_1b42c26139b3 (hO : IndefiniteRowSideFullHecke.ComplexSets.ZeroSetOpenMass.Statement) :
+    VarietyTangentGraphDense.Statement := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«VarietyTangentGraphDense».«proof» := P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_proof_1b42c26139b3

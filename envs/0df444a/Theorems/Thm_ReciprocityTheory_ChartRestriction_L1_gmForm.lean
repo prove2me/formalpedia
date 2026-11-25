@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_gmForm
 -- name    : ReciprocityTheory.ChartRestriction.L1.gmForm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:59.323802+00:00
 -- url     : https://prove2.me/theorems/50a84739-b6d8-4a71-8115-bef66cd3ffa6

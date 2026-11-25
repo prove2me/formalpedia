@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_gramDet_pos_iff
 -- name    : GlobalTheory.ArchMetric.gramDet_pos_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:19.101794+00:00
 -- url     : https://prove2.me/theorems/3bc2b9b6-beb2-43d1-b3fb-c73c4138885f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_SchurChar_schur_translations_characters
 -- name    : GlobalTheory.CompanionTheory.SW.SchurChar.schur_translations_characters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:13.048811+00:00
 -- url     : https://prove2.me/theorems/119e526d-9ee0-4237-a91c-65ab68c1fe27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSpace_unimodular
 -- name    : GlobalTheory.HermSpace.unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:16.253795+00:00
 -- url     : https://prove2.me/theorems/8ddb1025-a4c0-5b47-bfcd-85a36ec462a8

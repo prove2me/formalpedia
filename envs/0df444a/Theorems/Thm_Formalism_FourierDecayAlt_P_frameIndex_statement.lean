@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frameIndex_statement
 -- name    : Formalism.FourierDecayAlt.P.frameIndex_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:43.7658+00:00
 -- url     : https://prove2.me/theorems/6f35cd89-5f50-4392-800e-aeab1c0629cb

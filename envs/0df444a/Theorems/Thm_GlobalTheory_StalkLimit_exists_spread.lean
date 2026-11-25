@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StalkLimit_exists_spread
 -- name    : GlobalTheory.StalkLimit.exists_spread
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:16:31.573865+00:00
 -- url     : https://prove2.me/theorems/0e611fd4-1cb0-40ed-a606-f4bb9b2e058e

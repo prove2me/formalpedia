@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_sj
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.sj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:16:52.948187+00:00
 -- url     : https://prove2.me/theorems/2c1d1750-fc06-444a-93e6-19608d430413

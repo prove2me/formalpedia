@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_fZ_eq_const_mul_irreducible_pow
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.fZ_eq_const_mul_irreducible_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:29:37.63136+00:00
 -- url     : https://prove2.me/theorems/da997b2f-d5f1-5a57-acfa-a1aacdec149c

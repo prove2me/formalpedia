@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_L2SquaredNorms_IsL2SquareIntegralProblem_nonneg
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.L2SquaredNorms.IsL2SquareIntegralProblem.nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:53.01251+00:00
 -- url     : https://prove2.me/theorems/038f6c3f-ef18-51d3-a9ed-a351223b4ec2

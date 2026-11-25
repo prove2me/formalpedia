@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_IsGoodCMCurve_hasGoodReductionOutside
 -- name    : GlobalTheory.Published.IsGoodCMCurve.hasGoodReductionOutside
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:27.399176+00:00
 -- url     : https://prove2.me/theorems/9ae3bd36-b026-50d5-b387-93d9f7615ed0

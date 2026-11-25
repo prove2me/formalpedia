@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_Final_polarise
 -- name    : Formalism.SLP.GlobalBoundRefinements.Final.polarise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:27.226406+00:00
 -- url     : https://prove2.me/theorems/917a30bc-3a61-41eb-ac16-ba1fad3ddb42

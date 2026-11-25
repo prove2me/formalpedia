@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_isIntegral
 -- name    : GlobalTheory.IsAffineQuotient.isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:59.78609+00:00
 -- url     : https://prove2.me/theorems/3dae053a-6fa5-4333-ba04-1926708d2af0

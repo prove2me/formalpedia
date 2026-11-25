@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_BdRPlus_eval_eq_zero_of_mem_ker_theta_pow
 -- name    : Reformulated.AutPerF.BdRPlus.eval_eq_zero_of_mem_ker_theta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:10:11.223335+00:00
 -- url     : https://prove2.me/theorems/80e4c6b1-ddb9-5948-b937-dd5cc64b7505

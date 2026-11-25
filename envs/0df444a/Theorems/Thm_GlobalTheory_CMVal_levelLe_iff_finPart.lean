@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_levelLe_iff_finPart
 -- name    : GlobalTheory.CMVal.levelLe_iff_finPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:44.868796+00:00
 -- url     : https://prove2.me/theorems/a5960427-68d9-534c-b594-dccc5ee6714d

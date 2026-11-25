@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Sq_sigmaSeriesOdd
 -- name    : Formalism.L2.Th1.B.Sq.sigmaSeriesOdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:47:53.124553+00:00
 -- url     : https://prove2.me/theorems/084daf41-9a93-4e3e-8da5-2d7d00899021

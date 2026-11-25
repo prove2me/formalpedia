@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_N_ExtNRows_finrank_span_image_le
 -- name    : Formalism.L2.N.ExtNRows.finrank_span_image_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:34.561341+00:00
 -- url     : https://prove2.me/theorems/b3b408c9-8ef2-4a76-9ede-d53671695567

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qn11_derivation_mem_pow_of_mem_pow_succ
 -- name    : UpperTheory.Reformulated.B.Qn11.derivation_mem_pow_of_mem_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:42.845398+00:00
 -- url     : https://prove2.me/theorems/0cc13e3e-dafb-41e0-b9d3-c09b38710108

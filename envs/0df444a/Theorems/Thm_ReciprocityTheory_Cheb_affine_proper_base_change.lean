@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_affine_proper_base_change
 -- name    : ReciprocityTheory.Cheb.affine_proper_base_change
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:01.164118+00:00
 -- url     : https://prove2.me/theorems/3e9fedf6-2ae2-449b-9b7b-ab0d3458a36d

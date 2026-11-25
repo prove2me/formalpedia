@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdPh_mk_rename
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdPh.mk_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:52:05.722677+00:00
 -- url     : https://prove2.me/theorems/ff88216f-df2d-4793-ab0c-027d11822148

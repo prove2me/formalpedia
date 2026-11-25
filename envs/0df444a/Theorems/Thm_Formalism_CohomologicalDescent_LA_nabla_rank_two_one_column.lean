@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_nabla_rank_two_one_column
 -- name    : Formalism.CohomologicalDescent.LA.nabla_rank_two_one_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:33:24.388578+00:00
 -- url     : https://prove2.me/theorems/4eed536b-58e5-5538-950c-da40d43339e3

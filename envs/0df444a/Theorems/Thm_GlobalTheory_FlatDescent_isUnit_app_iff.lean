@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_isUnit_app_iff
 -- name    : GlobalTheory.FlatDescent.isUnit_app_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:19.22164+00:00
 -- url     : https://prove2.me/theorems/64fa4f9f-4402-41bf-a468-6683a86aeb15

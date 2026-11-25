@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adjoin_gelfandInvariants_dual_pair_eq
 -- name    : GlobalTheory.T.adjoin_gelfandInvariants_dual_pair_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:18.007795+00:00
 -- url     : https://prove2.me/theorems/334f1a6a-f3a3-5c6c-a4ae-230a43a11b47

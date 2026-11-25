@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_rowShift_monomial_eq_self
 -- name    : Formalism.L2.FormalSeriesBounds.RF.rowShift_monomial_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:44:16.241809+00:00
 -- url     : https://prove2.me/theorems/78e21bd5-15a1-5344-915d-1d0498f56ddc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r26a_double_sum_reduce_first
 -- name    : UpperTheory.Reformulated.B.P6.r26a.double_sum_reduce_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:52.149994+00:00
 -- url     : https://prove2.me/theorems/8dacf7b4-9120-4532-a18b-69b2eeebbaec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unit_stratum_mass
 -- name    : Formalism.FourierDecayAlt.P.unit_stratum_mass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:36:28.589192+00:00
 -- url     : https://prove2.me/theorems/33daf460-a06c-467a-aa3a-1faad82864eb

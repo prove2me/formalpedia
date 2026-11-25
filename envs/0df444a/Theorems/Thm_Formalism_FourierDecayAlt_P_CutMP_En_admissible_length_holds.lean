@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_En_admissible_length_holds
 -- name    : Formalism.FourierDecayAlt.P.CutMP.En.admissible_length_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:44:31.012879+00:00
 -- url     : https://prove2.me/theorems/f7cb75cf-1600-5cd4-b71e-a2b77feb849b

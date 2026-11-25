@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_arDeg_restrict
 -- name    : GlobalTheory.ArchMetric.arDeg_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:46.525938+00:00
 -- url     : https://prove2.me/theorems/fc87ccac-47c8-4d57-ad9d-86c892827e71

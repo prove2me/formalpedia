@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertLatticeTwistByMatrixModN_mul
 -- name    : GlobalTheory.T.hilbertLatticeTwistByMatrixModN_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:07.94144+00:00
 -- url     : https://prove2.me/theorems/b7d1ed5b-bb0f-46f9-a440-1a6d9b4a86d1

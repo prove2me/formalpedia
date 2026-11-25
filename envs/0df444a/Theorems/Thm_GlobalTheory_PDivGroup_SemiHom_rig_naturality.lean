@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_SemiHom_rig_naturality
 -- name    : GlobalTheory.PDivGroup.SemiHom.rig_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:16:10.561348+00:00
 -- url     : https://prove2.me/theorems/9fd9b072-37b8-5f5f-a0af-725305e93de0

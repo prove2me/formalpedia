@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ne_zero_forall_exists_two_lifts
 -- name    : GlobalTheory.exists_ne_zero_forall_exists_two_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:06:56.929801+00:00
 -- url     : https://prove2.me/theorems/778d35d7-42ae-4922-8ac3-4775b0b5450e

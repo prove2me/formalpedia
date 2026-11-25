@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_etaleChart_numCoords_add_one_of_hypersurface
 -- name    : FunctorialResolution.EmbeddedResolution.etaleChart_numCoords_add_one_of_hypersurface
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:53:55.358945+00:00
 -- url     : https://prove2.me/theorems/f5945cef-d9b8-41ce-9948-52bb98b26d50

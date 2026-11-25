@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_continuous_section_vecMul_orbit
 -- name    : GlobalTheory.T.local_continuous_section_vecMul_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:14.042963+00:00
 -- url     : https://prove2.me/theorems/84cf2580-32ca-4247-860f-41fde574f92b

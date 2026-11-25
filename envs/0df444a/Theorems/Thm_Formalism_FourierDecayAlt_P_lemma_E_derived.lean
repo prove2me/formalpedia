@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_E_derived
 -- name    : Formalism.FourierDecayAlt.P.lemma_E_derived
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:33:26.486922+00:00
 -- url     : https://prove2.me/theorems/e7cccf66-3a78-4ec3-8330-ea4caa833e33

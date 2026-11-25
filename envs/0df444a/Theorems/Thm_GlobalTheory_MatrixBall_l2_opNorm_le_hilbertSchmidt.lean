@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixBall_l2_opNorm_le_hilbertSchmidt
 -- name    : GlobalTheory.MatrixBall.l2_opNorm_le_hilbertSchmidt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:53.88439+00:00
 -- url     : https://prove2.me/theorems/c46b1a41-06cc-464c-b10b-58fa5a071ac2

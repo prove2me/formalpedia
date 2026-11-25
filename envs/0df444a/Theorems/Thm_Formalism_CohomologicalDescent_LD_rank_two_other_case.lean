@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_rank_two_other_case
 -- name    : Formalism.CohomologicalDescent.LD.rank_two_other_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:44.869491+00:00
 -- url     : https://prove2.me/theorems/872a03e3-7a79-4d1c-84f9-cfb93d4b3adb

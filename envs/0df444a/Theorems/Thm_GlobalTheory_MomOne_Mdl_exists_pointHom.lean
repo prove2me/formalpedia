@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Mdl_exists_pointHom
 -- name    : GlobalTheory.MomOne.Mdl.exists_pointHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:59.998176+00:00
 -- url     : https://prove2.me/theorems/95df0208-034f-4078-85e1-c6ded4ef3fa2

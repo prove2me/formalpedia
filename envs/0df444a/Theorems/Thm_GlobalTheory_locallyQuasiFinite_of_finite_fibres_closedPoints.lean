@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_locallyQuasiFinite_of_finite_fibres_closedPoints
 -- name    : GlobalTheory.locallyQuasiFinite_of_finite_fibres_closedPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:04:36.369276+00:00
 -- url     : https://prove2.me/theorems/56ae92ec-4c88-5cc9-a0af-b7d85e83232d

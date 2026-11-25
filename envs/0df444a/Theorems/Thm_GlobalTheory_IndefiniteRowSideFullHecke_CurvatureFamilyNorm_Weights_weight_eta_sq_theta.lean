@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CurvatureFamilyNorm_Weights_weight_eta_sq_theta
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CurvatureFamilyNorm.Weights.weight_eta_sq_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:08:55.417897+00:00
 -- url     : https://prove2.me/theorems/df5d625f-1538-590a-8b11-c06a291fa148

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_energy_estimate_of_lemmas
 -- name    : Formalism.FourierDecayAlt.P.energy_estimate_of_lemmas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:29:45.226459+00:00
 -- url     : https://prove2.me/theorems/4c55104f-608a-485b-b15d-eaeee7729762

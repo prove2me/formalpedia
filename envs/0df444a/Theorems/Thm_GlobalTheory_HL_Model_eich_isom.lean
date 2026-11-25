@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_eich_isom
 -- name    : GlobalTheory.HL.Model.eich_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:29.785104+00:00
 -- url     : https://prove2.me/theorems/ae408ade-0938-498d-b85b-97a71735bded

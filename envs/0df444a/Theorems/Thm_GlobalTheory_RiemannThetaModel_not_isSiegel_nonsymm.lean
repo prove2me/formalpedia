@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_not_isSiegel_nonsymm
 -- name    : GlobalTheory.RiemannThetaModel.not_isSiegel_nonsymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:21.257283+00:00
 -- url     : https://prove2.me/theorems/32d2c012-9c5a-5891-b895-9f6b66a78aff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_siegel_bound_key_rearrange
 -- name    : Formalism.ZeroFreeDirichlet.siegel_bound_key_rearrange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:25.916699+00:00
 -- url     : https://prove2.me/theorems/b796f2bf-9858-5b1f-b1fb-9ad849aea8f6

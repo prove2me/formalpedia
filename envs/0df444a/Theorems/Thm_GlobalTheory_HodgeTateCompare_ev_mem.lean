@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateCompare_ev_mem
 -- name    : GlobalTheory.HodgeTateCompare.ev_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:14:09.126803+00:00
 -- url     : https://prove2.me/theorems/8bf6b659-9d31-5a98-b3f8-d3322f30bcdc

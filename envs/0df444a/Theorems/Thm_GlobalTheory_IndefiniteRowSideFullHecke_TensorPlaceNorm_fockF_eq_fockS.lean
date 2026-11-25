@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TensorPlaceNorm_fockF_eq_fockS
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TensorPlaceNorm.fockF_eq_fockS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:11.721881+00:00
 -- url     : https://prove2.me/theorems/e56671a0-c1f7-4450-98dd-b6c2a0e80e02

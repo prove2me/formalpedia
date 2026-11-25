@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitsInAffineOpens_of_locally_on_base
 -- name    : GlobalTheory.OrbitsInAffineOpens.of_locally_on_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:15:25.182863+00:00
 -- url     : https://prove2.me/theorems/fd2a8c5b-0b9c-4fe5-979d-e4820908f4b3

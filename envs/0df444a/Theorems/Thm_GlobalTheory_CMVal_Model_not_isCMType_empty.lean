@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_not_isCMType_empty
 -- name    : GlobalTheory.CMVal.Model.not_isCMType_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:32.126778+00:00
 -- url     : https://prove2.me/theorems/9992e374-0809-4f06-ab67-0490379297cc

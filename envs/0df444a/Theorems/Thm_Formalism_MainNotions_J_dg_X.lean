@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_dg_X
 -- name    : Formalism.MainNotions.J.dg_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:55.279348+00:00
 -- url     : https://prove2.me/theorems/1aa29483-cba1-492d-bc6c-8a47f9646f77

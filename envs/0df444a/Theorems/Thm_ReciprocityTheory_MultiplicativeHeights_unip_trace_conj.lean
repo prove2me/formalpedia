@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_unip_trace_conj
 -- name    : ReciprocityTheory.MultiplicativeHeights.unip_trace_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:35.640801+00:00
 -- url     : https://prove2.me/theorems/fa08e17d-4c09-4754-9be0-c06cb558c041

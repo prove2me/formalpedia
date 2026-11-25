@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplementTypes_types
 -- name    : GlobalTheory.ComplementTypes.types
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:02:49.760444+00:00
 -- url     : https://prove2.me/theorems/1fca83ee-50c9-44e3-972a-c64357e43577

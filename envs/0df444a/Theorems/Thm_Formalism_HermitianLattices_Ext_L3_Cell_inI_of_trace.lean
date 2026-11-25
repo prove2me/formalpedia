@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_inI_of_trace
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.inI_of_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:43:30.456999+00:00
 -- url     : https://prove2.me/theorems/32bfcbfe-fc42-4644-8f14-9c6219895cd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Locrep_eq_one_of_pow_near
 -- name    : PositivityTheory.ThKH.Locrep.eq_one_of_pow_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:04:59.806888+00:00
 -- url     : https://prove2.me/theorems/3864e563-1881-4c35-8cc8-9feb68655a57

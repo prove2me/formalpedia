@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolCoef_eabH_eq_fderiv
 -- name    : GlobalTheory.CompanionTheory.HolCoef.eabH_eq_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:10:46.924216+00:00
 -- url     : https://prove2.me/theorems/3dd9488a-c5cf-5746-83e0-9dcb4254f4e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_continuous_tanGauge
 -- name    : GlobalTheory.CompactDualQuot.continuous_tanGauge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:00:15.855514+00:00
 -- url     : https://prove2.me/theorems/ab6ee27f-e7ac-4219-8b35-12ee45704782

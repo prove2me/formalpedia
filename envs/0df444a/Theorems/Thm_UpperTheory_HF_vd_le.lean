@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_vd_le
 -- name    : UpperTheory.HF.vd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:31:47.225886+00:00
 -- url     : https://prove2.me/theorems/4710f3f1-6f54-43e0-b3d9-2a38cb8f01af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_summable_eisClass_two
 -- name    : GlobalTheory.HeckeTwo.summable_eisClass_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:13:52.794858+00:00
 -- url     : https://prove2.me/theorems/46d79bf6-d6d6-48ad-ab4e-e162d2be763c

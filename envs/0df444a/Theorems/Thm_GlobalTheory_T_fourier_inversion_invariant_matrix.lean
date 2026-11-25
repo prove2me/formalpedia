@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_inversion_invariant_matrix
 -- name    : GlobalTheory.T.fourier_inversion_invariant_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:09.620884+00:00
 -- url     : https://prove2.me/theorems/f7487292-08ba-4c25-b50b-45ea719d8114

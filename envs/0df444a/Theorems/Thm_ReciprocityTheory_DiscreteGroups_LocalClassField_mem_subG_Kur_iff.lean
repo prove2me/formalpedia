@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_mem_subG_Kur_iff
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.mem_subG_Kur_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:32:10.432688+00:00
 -- url     : https://prove2.me/theorems/d17bb683-8cbc-494b-95ff-3fdf22e62824

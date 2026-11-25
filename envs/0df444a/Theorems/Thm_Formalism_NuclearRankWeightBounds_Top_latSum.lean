@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_Top_latSum
 -- name    : Formalism.NuclearRankWeightBounds.Top.latSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:53:06.937626+00:00
 -- url     : https://prove2.me/theorems/f4cbe2d6-15c2-4fd4-85af-beb16c36781e

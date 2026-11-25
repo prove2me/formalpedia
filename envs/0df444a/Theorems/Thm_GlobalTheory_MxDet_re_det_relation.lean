@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MxDet_re_det_relation
 -- name    : GlobalTheory.MxDet.re_det_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:39.787902+00:00
 -- url     : https://prove2.me/theorems/e2859512-2d71-424b-aad9-5105b8795ac7

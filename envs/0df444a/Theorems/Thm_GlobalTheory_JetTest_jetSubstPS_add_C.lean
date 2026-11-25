@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetTest_jetSubstPS_add_C
 -- name    : GlobalTheory.JetTest.jetSubstPS_add_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:11:50.090834+00:00
 -- url     : https://prove2.me/theorems/07e3e132-02c6-4c81-bb06-81fb327c6f12

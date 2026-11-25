@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AutQuotCheck_normalised_eq
 -- name    : GlobalTheory.AutQuotCheck.normalised_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:57:10.236734+00:00
 -- url     : https://prove2.me/theorems/ece23c64-7be6-434d-a882-dca63177437e

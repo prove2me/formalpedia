@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_absNorm_inv_mul_different
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.absNorm_inv_mul_different
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:45:06.667548+00:00
 -- url     : https://prove2.me/theorems/65dec0ef-7ec6-4c79-9486-f75fff7d5983

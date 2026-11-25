@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_congr_iff_adicCompletion
 -- name    : GlobalTheory.HermLocal.congr_iff_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:09:22.908555+00:00
 -- url     : https://prove2.me/theorems/50b333cf-03fb-4b8b-b9d3-d85b43298a6d

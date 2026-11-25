@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_hasFiniteLength_iff
 -- name    : GlobalTheory.LGrp.hasFiniteLength_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:19:18.44392+00:00
 -- url     : https://prove2.me/theorems/b9c3797e-bb04-4f8e-9814-b7805332ef13

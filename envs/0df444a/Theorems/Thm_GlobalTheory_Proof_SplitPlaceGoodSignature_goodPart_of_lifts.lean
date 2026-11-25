@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_SplitPlaceGoodSignature_goodPart_of_lifts
 -- name    : GlobalTheory.Proof.SplitPlaceGoodSignature.goodPart_of_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:17:06.411051+00:00
 -- url     : https://prove2.me/theorems/be20f70c-5ac1-5e8a-8deb-bb40385949a5

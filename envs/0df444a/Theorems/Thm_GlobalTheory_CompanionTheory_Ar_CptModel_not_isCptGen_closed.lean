@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CptModel_not_isCptGen_closed
 -- name    : GlobalTheory.CompanionTheory.Ar.CptModel.not_isCptGen_closed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:03.837971+00:00
 -- url     : https://prove2.me/theorems/3269c41e-6ed6-47a9-9323-c3351ea92a14

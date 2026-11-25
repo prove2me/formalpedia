@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r22b_one_add_pow_mul_exp_neg_le_of_mul_le
 -- name    : UpperTheory.Reformulated.B.P6.r22b.one_add_pow_mul_exp_neg_le_of_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:35.492802+00:00
 -- url     : https://prove2.me/theorems/756be151-2bb8-4ba0-8ab8-9abf3b83545a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OpenClosedSequences_rankFiltration
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OpenClosedSequences.rankFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:09:05.785512+00:00
 -- url     : https://prove2.me/theorems/ceedbf85-38a8-4408-ae71-346935dbda67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_hypSegOfHypI
 -- name    : Formalism.CountingSumsFrames.Top.hypSegOfHypI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:23:03.826028+00:00
 -- url     : https://prove2.me/theorems/43411bc6-3e7f-4798-9dd6-86c5efe9268a

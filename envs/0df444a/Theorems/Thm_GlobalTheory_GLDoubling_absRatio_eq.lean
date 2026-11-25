@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLDoubling_absRatio_eq
 -- name    : GlobalTheory.GLDoubling.absRatio_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:55.136171+00:00
 -- url     : https://prove2.me/theorems/1be80382-7bfc-4375-9c1b-e0c5268d57d0

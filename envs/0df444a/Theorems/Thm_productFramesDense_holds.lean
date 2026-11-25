@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_productFramesDense_holds
 -- name    : productFramesDense_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:14:45.610532+00:00
 -- url     : https://prove2.me/theorems/f6af9e8b-779e-4d33-9572-ca0183950337

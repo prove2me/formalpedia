@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OfPeriod_sesq_ext
 -- name    : GlobalTheory.OfPeriod.sesq_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:41.446861+00:00
 -- url     : https://prove2.me/theorems/9f5f8ed3-5933-4688-a135-400c3061ad02

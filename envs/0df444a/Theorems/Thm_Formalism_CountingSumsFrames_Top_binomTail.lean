@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_binomTail
 -- name    : Formalism.CountingSumsFrames.Top.binomTail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:23:35.889737+00:00
 -- url     : https://prove2.me/theorems/33ba48d5-ab1b-4145-88c5-f04386bc1cbf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_modelAt_of_good_level
 -- name    : GlobalTheory.Reg.modelAt_of_good_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:10.735094+00:00
 -- url     : https://prove2.me/theorems/7489807b-33a0-4fa7-bb72-a8a40747309f

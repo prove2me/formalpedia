@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspBlock_glCast_rfl
 -- name    : GlobalTheory.CuspBlock.glCast_rfl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:04.158135+00:00
 -- url     : https://prove2.me/theorems/8b663826-1979-5409-ba2c-c83bc042a20d

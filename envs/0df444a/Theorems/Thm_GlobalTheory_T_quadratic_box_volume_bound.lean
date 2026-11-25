@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadratic_box_volume_bound
 -- name    : GlobalTheory.T.quadratic_box_volume_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:33.461268+00:00
 -- url     : https://prove2.me/theorems/26e0170b-5bfd-5015-ba3f-9fd8c332bc70

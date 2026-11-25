@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_upperSign_eq_pow
 -- name    : GlobalTheory.Cube.upperSign_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:06.685799+00:00
 -- url     : https://prove2.me/theorems/339b9890-2b63-531c-926f-0bdabd32c4db

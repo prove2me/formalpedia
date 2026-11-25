@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_isMonomialSplitting
 -- name    : FunctorialResolution.EmbeddedResolution.exists_isMonomialSplitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:06.455087+00:00
 -- url     : https://prove2.me/theorems/45470760-4087-42bc-bcc3-986442ea3e4a

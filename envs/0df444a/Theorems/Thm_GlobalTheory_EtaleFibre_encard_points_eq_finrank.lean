@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaleFibre_encard_points_eq_finrank
 -- name    : GlobalTheory.EtaleFibre.encard_points_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:46.634067+00:00
 -- url     : https://prove2.me/theorems/6bda9a87-2ac7-5c9b-8722-740ac0b2347f

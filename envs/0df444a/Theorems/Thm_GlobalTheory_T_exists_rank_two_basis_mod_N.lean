@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_rank_two_basis_mod_N
 -- name    : GlobalTheory.T.exists_rank_two_basis_mod_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:31:06.285523+00:00
 -- url     : https://prove2.me/theorems/d13242b9-b566-469c-a85d-8d6b6a8b114c

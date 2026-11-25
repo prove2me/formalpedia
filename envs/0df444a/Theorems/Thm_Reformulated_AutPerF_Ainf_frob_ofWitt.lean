@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_frob_ofWitt
 -- name    : Reformulated.AutPerF.Ainf.frob_ofWitt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:21.048211+00:00
 -- url     : https://prove2.me/theorems/81bdade9-3f3e-416b-abaf-995fa2cf2d87

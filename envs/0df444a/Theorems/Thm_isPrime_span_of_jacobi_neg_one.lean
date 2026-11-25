@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isPrime_span_of_jacobi_neg_one
 -- name    : isPrime_span_of_jacobi_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:48.564036+00:00
 -- url     : https://prove2.me/theorems/ba302e05-febc-4c84-8672-7f33dd8b1e9c

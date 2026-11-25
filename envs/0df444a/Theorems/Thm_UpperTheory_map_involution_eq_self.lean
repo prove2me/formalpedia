@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_map_involution_eq_self
 -- name    : UpperTheory.map_involution_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:44.395686+00:00
 -- url     : https://prove2.me/theorems/ede474bb-68e4-46e3-8082-390e2ce05e64

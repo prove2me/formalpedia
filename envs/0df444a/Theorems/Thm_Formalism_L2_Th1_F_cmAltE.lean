@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_cmAltE
 -- name    : Formalism.L2.Th1.F.cmAltE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:48:40.103606+00:00
 -- url     : https://prove2.me/theorems/1d4db475-81e0-4352-a231-0e20ead442d6

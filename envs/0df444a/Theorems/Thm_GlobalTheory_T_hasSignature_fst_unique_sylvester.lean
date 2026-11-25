@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSignature_fst_unique_sylvester
 -- name    : GlobalTheory.T.hasSignature_fst_unique_sylvester
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:38.112245+00:00
 -- url     : https://prove2.me/theorems/66d4e4ce-07a4-56c6-8090-5e02f370ba3f

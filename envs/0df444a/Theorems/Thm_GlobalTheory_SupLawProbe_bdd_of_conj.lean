@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_bdd_of_conj
 -- name    : GlobalTheory.SupLawProbe.bdd_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:23.634992+00:00
 -- url     : https://prove2.me/theorems/bbee0da6-0f53-5ecc-b0af-78c6ba9860d3

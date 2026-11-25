@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_StandardFourierShortSpan_StdFourier_unit
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.StandardFourierShortSpan.StdFourier.unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:12:29.489947+00:00
 -- url     : https://prove2.me/theorems/174b0f8d-f346-4b25-8864-4e9893d658be

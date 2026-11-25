@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HodgeIP_isLB
 -- name    : GlobalTheory.CompanionTheory.Ar.HodgeIP.isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:59:57.365481+00:00
 -- url     : https://prove2.me/theorems/1951568e-f577-47a0-b0d1-eb0fc0a1215b

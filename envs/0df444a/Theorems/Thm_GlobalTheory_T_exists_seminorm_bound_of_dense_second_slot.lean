@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_seminorm_bound_of_dense_second_slot
 -- name    : GlobalTheory.T.exists_seminorm_bound_of_dense_second_slot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:30:49.888669+00:00
 -- url     : https://prove2.me/theorems/a0513b59-66d5-5729-9a35-6bcf33f1ec8c

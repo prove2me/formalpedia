@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_algebraMap_of_subsingleton_algHom
 -- name    : GlobalTheory.bijective_algebraMap_of_subsingleton_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:08:02.753192+00:00
 -- url     : https://prove2.me/theorems/90ce5874-5aed-47e0-8083-0031ee1a3fb1

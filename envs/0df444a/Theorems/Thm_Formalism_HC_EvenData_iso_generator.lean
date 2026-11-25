@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenData_iso_generator
 -- name    : Formalism.HC.EvenData.iso_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:36:45.72539+00:00
 -- url     : https://prove2.me/theorems/3d1e1e04-ffee-5ebe-a532-447d505b323d

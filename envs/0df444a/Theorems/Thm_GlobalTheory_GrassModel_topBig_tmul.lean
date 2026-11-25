@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrassModel_topBig_tmul
 -- name    : GlobalTheory.GrassModel.topBig_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:06:12.835388+00:00
 -- url     : https://prove2.me/theorems/2f869adc-6831-4cce-94cf-c636aa0adce4

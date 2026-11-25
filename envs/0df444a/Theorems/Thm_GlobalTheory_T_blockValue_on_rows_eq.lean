@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_blockValue_on_rows_eq
 -- name    : GlobalTheory.T.blockValue_on_rows_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:02:17.320425+00:00
 -- url     : https://prove2.me/theorems/8647a232-f462-4926-a5ad-c6767b18bd23

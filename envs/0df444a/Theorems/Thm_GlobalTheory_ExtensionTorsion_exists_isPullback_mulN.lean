@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtensionTorsion_exists_isPullback_mulN
 -- name    : GlobalTheory.ExtensionTorsion.exists_isPullback_mulN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:19:08.406213+00:00
 -- url     : https://prove2.me/theorems/a65f88c1-2dc6-485c-a8f1-3fb0cfd08ab5

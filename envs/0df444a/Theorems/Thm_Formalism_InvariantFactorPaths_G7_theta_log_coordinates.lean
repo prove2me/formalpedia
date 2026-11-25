@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_theta_log_coordinates
 -- name    : Formalism.InvariantFactorPaths.G7.theta_log_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:44:46.430844+00:00
 -- url     : https://prove2.me/theorems/3b494de6-9e0b-4bb7-a670-fa918d059b65

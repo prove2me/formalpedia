@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_trForm_isSymm
 -- name    : GlobalTheory.HostModel.trForm_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:58.534688+00:00
 -- url     : https://prove2.me/theorems/443b08b3-4de4-58b2-9477-8bc05a1f9234

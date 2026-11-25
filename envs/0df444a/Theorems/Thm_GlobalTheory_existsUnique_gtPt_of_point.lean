@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_gtPt_of_point
 -- name    : GlobalTheory.existsUnique_gtPt_of_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:32:04.532964+00:00
 -- url     : https://prove2.me/theorems/de38f645-e221-5c23-9603-f5c56c54a349

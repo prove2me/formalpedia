@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_imageStep
 -- name    : Formalism.HN.imageStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:38:15.753843+00:00
 -- url     : https://prove2.me/theorems/92b8abf5-01de-4c70-b05e-14bf00b1ebe3

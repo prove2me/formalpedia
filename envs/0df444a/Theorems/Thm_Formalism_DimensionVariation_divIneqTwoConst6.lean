@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_divIneqTwoConst6
 -- name    : Formalism.DimensionVariation.divIneqTwoConst6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:25:39.721199+00:00
 -- url     : https://prove2.me/theorems/28ba32c9-8e52-4ee7-ad0d-1f30b17c5a67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_norm_congruent_one
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.norm_congruent_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:03:30.77485+00:00
 -- url     : https://prove2.me/theorems/25d17a6a-2a9d-45d1-81f3-6ee0637b81d0

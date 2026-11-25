@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_IsWt_pull
 -- name    : GlobalTheory.UU.IsWt.pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:08:18.662607+00:00
 -- url     : https://prove2.me/theorems/a2066e03-6893-4392-9903-077df74046dd

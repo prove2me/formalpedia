@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_hStabFB
 -- name    : Formalism.L2.FormalSeriesBounds.hStabFB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:44:55.251714+00:00
 -- url     : https://prove2.me/theorems/0e8f79fb-0618-5cfc-91d1-207f428f521e

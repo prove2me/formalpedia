@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_symIso_isGen
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.symIso_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:04:22.685097+00:00
 -- url     : https://prove2.me/theorems/e71a1a7b-a407-46b4-972f-98dad38c77c9

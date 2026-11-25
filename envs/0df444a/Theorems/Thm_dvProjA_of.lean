@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dvProjA_of
 -- name    : dvProjA_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:15:13.62071+00:00
 -- url     : https://prove2.me/theorems/2e8bf8f3-eaa6-4270-9370-bad2d93b6b6a

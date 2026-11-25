@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointVertRAux_degC_eq_finrank_02d1f9d69ae7
 -- name    : P2M_GroundTheory_Heights__Heights_PointVertRAux_degC_eq_finrank_02d1f9d69ae7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:31.37397+00:00
 -- url     : https://prove2.me/theorems/c8df6df4-4df6-4298-a5f1-1f3abe56153f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_semiAbelian_model_of_proper_base
 -- name    : GlobalTheory.SS.exists_semiAbelian_model_of_proper_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:29:13.550148+00:00
 -- url     : https://prove2.me/theorems/abbe10a0-92bc-492a-9e30-c526c6a5351b

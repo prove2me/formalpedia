@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_chgSec_nab
 -- name    : Formalism.L2.Col.GSD.chgSec_nab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:43:59.433845+00:00
 -- url     : https://prove2.me/theorems/ec27ac2d-ac55-4761-a32a-40b6dbcf0501

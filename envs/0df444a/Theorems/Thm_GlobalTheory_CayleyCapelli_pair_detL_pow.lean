@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CayleyCapelli_pair_detL_pow
 -- name    : GlobalTheory.CayleyCapelli.pair_detL_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:38:15.675459+00:00
 -- url     : https://prove2.me/theorems/a1c973a8-ecc8-4e9f-928b-659579a9b225

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_xModE_len
 -- name    : ReciprocityTheory.PGsh.Up.xModE_len
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:23.762826+00:00
 -- url     : https://prove2.me/theorems/5433ba97-e3b4-416c-9722-3005f582f991

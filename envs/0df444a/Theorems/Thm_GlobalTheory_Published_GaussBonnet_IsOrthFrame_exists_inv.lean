@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_GaussBonnet_IsOrthFrame_exists_inv
 -- name    : GlobalTheory.Published.GaussBonnet.IsOrthFrame.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:17:33.057177+00:00
 -- url     : https://prove2.me/theorems/8034eab5-a38c-4ebb-878e-9193ed54f501

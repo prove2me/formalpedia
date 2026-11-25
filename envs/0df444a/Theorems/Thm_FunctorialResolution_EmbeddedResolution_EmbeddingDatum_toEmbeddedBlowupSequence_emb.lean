@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddingDatum_toEmbeddedBlowupSequence_emb
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddingDatum.toEmbeddedBlowupSequence_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:53:01.551517+00:00
 -- url     : https://prove2.me/theorems/88bbbf95-273b-50eb-a761-2c5f27cbafef

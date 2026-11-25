@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_Dec_contDiff_eF
 -- name    : ZetaZeros.D.EllReg.Dec.contDiff_eF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:09.387791+00:00
 -- url     : https://prove2.me/theorems/c869db4c-78af-584f-bd34-e9212c838bec

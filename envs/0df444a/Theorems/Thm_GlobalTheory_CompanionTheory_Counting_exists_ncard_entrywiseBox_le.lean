@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Counting_exists_ncard_entrywiseBox_le
 -- name    : GlobalTheory.CompanionTheory.Counting.exists_ncard_entrywiseBox_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:33.044445+00:00
 -- url     : https://prove2.me/theorems/9e2bbcc9-9d66-4e3c-9050-8f18f1c7211d

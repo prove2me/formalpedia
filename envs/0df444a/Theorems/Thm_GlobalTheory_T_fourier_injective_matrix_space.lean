@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_injective_matrix_space
 -- name    : GlobalTheory.T.fourier_injective_matrix_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:43.586739+00:00
 -- url     : https://prove2.me/theorems/03eb8bae-474e-4a78-9b66-96e31ee3217e

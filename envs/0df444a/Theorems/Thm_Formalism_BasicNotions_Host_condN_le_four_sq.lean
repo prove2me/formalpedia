@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_condN_le_four_sq
 -- name    : Formalism.BasicNotions.Host.condN_le_four_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:24:47.77761+00:00
 -- url     : https://prove2.me/theorems/88471e09-8b27-56e2-b47e-162ceefddbd9

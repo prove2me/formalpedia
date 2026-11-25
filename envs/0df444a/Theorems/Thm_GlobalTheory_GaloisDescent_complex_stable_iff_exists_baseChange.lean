@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_complex_stable_iff_exists_baseChange
 -- name    : GlobalTheory.GaloisDescent.complex_stable_iff_exists_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:16.024849+00:00
 -- url     : https://prove2.me/theorems/64ef22cb-36bc-582a-bca2-1a9e0bb9a479

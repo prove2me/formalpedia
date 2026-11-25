@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_exists_isCCR_xOp_dOp
 -- name    : GlobalTheory.Mem.Lift.exists_isCCR_xOp_dOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:16:14.358526+00:00
 -- url     : https://prove2.me/theorems/2c9dce87-a92a-451a-8a20-468ff5e44351

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_exists_factor_iff
 -- name    : GlobalTheory.FixedPoint.exists_factor_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:56.726824+00:00
 -- url     : https://prove2.me/theorems/d8f5a7bf-9206-4494-b086-2058f662e0c3

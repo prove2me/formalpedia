@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_cross_up
 -- name    : GlobalTheory.LatPair.cross_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:10.053988+00:00
 -- url     : https://prove2.me/theorems/298b02c3-df7d-4128-86b7-c670064e26d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_eval_fibOp_cayDet
 -- name    : ReciprocityTheory.PGsh.eval_fibOp_cayDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:09:29.154034+00:00
 -- url     : https://prove2.me/theorems/d189a778-2e4a-4cd2-b1db-5526e71cf4c7

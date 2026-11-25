@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_tail_line_needs_f_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.tail_line_needs_f_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:44.90878+00:00
 -- url     : https://prove2.me/theorems/b4e2e679-b3d5-47dd-9343-d902c4a8f742

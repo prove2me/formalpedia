@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Broadcast_fidelity_range
 -- name    : FuchsThesis.Broadcast.fidelity_range
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:55:37.680986+00:00
 -- url     : https://prove2.me/theorems/2f3b8941-976b-4780-a094-d89c3a360564

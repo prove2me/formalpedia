@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieChart_algChart_of_isStandardSmooth
 -- name    : GlobalTheory.LieChart.algChart_of_isStandardSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:56:23.933134+00:00
 -- url     : https://prove2.me/theorems/69161f2c-e651-5c13-87cd-3f709767d77a

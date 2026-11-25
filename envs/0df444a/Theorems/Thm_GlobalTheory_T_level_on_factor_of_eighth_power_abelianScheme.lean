@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_level_on_factor_of_eighth_power_abelianScheme
 -- name    : GlobalTheory.T.level_on_factor_of_eighth_power_abelianScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:35:50.957369+00:00
 -- url     : https://prove2.me/theorems/fae43e1e-b961-4024-b029-93260f509c21

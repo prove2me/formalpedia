@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weilConstantStandardHermitian_eq_one
 -- name    : GlobalTheory.T.weilConstantStandardHermitian_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:41:29.707717+00:00
 -- url     : https://prove2.me/theorems/c60409ef-6648-471e-b3c9-1f12f9f06b02

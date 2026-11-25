@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_int_subst
 -- name    : Formalism.MainNotions.J.int_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:10.75346+00:00
 -- url     : https://prove2.me/theorems/2a28d4e0-1c38-5ae6-a62f-b5b52b1a0965

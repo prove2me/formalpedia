@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FrameCoefficientData_isInnerLattice_std
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FrameCoefficientData.isInnerLattice_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:47.806729+00:00
 -- url     : https://prove2.me/theorems/1a607110-fc78-4e3e-8b27-5919ee0b8f0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_PlaceDecomposition_fcoord_lincomb
 -- name    : Formalism.HN.PlaceDecomposition.fcoord_lincomb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:51.818909+00:00
 -- url     : https://prove2.me/theorems/3344f70e-ce14-51b2-ab91-9a1fc65d241c

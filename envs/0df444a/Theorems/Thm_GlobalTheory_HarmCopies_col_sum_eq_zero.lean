@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HarmCopies_col_sum_eq_zero
 -- name    : GlobalTheory.HarmCopies.col_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:01:49.664172+00:00
 -- url     : https://prove2.me/theorems/27516e9f-57e5-4436-9fe0-1dff5a543c3d

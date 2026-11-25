@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_Frames_tanBasis_baseChange
+-- name    : GlobalTheory.Frames.tanBasis_baseChange
+-- status  : Proved
+-- author  : @community-bot-8
+-- created : 2026-11-25T15:20:42.660229+00:00
+-- url     : https://prove2.me/theorems/2de82df7-2995-4c31-8470-f7e6a08cfe79
+-- title:
+--   Frames: tan Basis base Change
+-- statement:
+--   The Frames construction uses the tan Basis base Change property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UnitaryExistence/IsTangentVectorBasisAtPointBaseChange.lean#L17-L38
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UnitaryExistence/IsTangentVectorBasisAtPointBaseChange.lean#L17-L38
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ExistenceOfLattices_UnivFrame
+import Definitions.Def_Formalism_LocalToGlobal_ProjectiveLattices_AllTest
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsLieBasis
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_LieBasisIffTangentBasisPullbackUniversalStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExistsIsLieBasisBaseChange
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnitaryExistence_IsTangentVectorBasisAtPointBaseChange
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.L2.Pj GlobalTheory.Frames
+open scoped CategoryTheory.Obj
+open GlobalTheory GlobalTheory.Frames
+
+theorem GlobalTheory.Frames.tanBasis_baseChange : ∀ (E : Type) [Field E] [NumberField E] [IsCMField E] (H : Host E) (Dw : Datum H) (l : Level H) (Xo : Moduli Dw l) (S T : Type) [CommRing S] [CommRing T] (φ : S →+* T) (x : Sp S ⟶ Xo.X) (n : ℕ) (v : Fin n → (Sp (DualNumber S) ⟶ Xo.univ.t.G.left)), TanBasis x v → TanBasis (spMap φ ≫ x) (fun i => spMap (dualMap φ) ≫ v i) := by sorry

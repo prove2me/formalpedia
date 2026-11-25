@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralMultiples_exists_int_mul_mem
 -- name    : GlobalTheory.IntegralMultiples.exists_int_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:10:47.998984+00:00
 -- url     : https://prove2.me/theorems/26e18333-3520-4585-8462-3733f18d9def

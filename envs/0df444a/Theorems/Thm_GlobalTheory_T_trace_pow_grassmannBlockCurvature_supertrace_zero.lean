@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_trace_pow_grassmannBlockCurvature_supertrace_zero
 -- name    : GlobalTheory.T.trace_pow_grassmannBlockCurvature_supertrace_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:39:46.070363+00:00
 -- url     : https://prove2.me/theorems/5d9e5f4d-81a0-5141-87e3-da9475e7da17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_effCartier_of_forall_mem_6848e920bfed
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_effCartier_of_forall_mem_6848e920bfed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:44:23.445658+00:00
 -- url     : https://prove2.me/theorems/0a7639da-5f9a-4493-942c-8449928a5b06

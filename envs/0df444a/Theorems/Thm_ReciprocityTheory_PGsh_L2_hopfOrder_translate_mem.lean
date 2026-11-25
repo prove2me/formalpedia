@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_hopfOrder_translate_mem
 -- name    : ReciprocityTheory.PGsh.L2.hopfOrder_translate_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:02.130309+00:00
 -- url     : https://prove2.me/theorems/4b24f4a4-019a-4829-811d-bb4b54a03c13

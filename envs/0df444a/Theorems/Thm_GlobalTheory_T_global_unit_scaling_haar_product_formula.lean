@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_global_unit_scaling_haar_product_formula
 -- name    : GlobalTheory.T.global_unit_scaling_haar_product_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:57.35282+00:00
 -- url     : https://prove2.me/theorems/d781d5b8-fb98-520e-9f8e-bb50e1a7542d

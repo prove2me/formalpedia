@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_tower_group_foundations
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.tower_group_foundations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:54:09.941621+00:00
 -- url     : https://prove2.me/theorems/2f985ccd-c9db-4565-8b5f-5b87c5471b59

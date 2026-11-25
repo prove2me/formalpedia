@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_invVol_self
 -- name    : GlobalTheory.HL.Model.invVol_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:28.271204+00:00
 -- url     : https://prove2.me/theorems/0a225220-03fa-4082-b430-35255248c2f1

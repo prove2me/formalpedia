@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_coeff_one_add_X_mul_add_X_sq_mul
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.coeff_one_add_X_mul_add_X_sq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:20:55.829441+00:00
 -- url     : https://prove2.me/theorems/675da972-2a8e-43e9-9f44-694be86be4ea

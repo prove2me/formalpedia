@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1003_4724_static_permittivity_exceeds_one
 -- name    : Arxiv1003_4724.static_permittivity_exceeds_one
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T23:55:34.74829+00:00
 -- url     : https://prove2.me/theorems/c955de56-2dea-46f2-b16e-cc5a93524129

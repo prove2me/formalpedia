@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegActCheck_halfUnit_add_star
 -- name    : GlobalTheory.DegActCheck.halfUnit_add_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:12.835708+00:00
 -- url     : https://prove2.me/theorems/242780bf-cc8b-422c-945c-1db753b90e56

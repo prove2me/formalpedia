@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_IsogenySigmaQuotient_ind_neg
 -- name    : Formalism.L2.Th1.F.IsogenySigmaQuotient.ind_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:48:16.220049+00:00
 -- url     : https://prove2.me/theorems/e62892b7-999f-4566-9d14-8c3e16ba49d2

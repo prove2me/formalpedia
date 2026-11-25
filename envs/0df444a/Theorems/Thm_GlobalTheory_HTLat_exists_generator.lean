@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_exists_generator
 -- name    : GlobalTheory.HTLat.exists_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:38.146832+00:00
 -- url     : https://prove2.me/theorems/434e45fe-b2da-4fe3-9dce-6d3dd2c731d5

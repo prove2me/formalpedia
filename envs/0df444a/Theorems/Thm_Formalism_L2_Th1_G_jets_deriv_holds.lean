@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_jets_deriv_holds
 -- name    : Formalism.L2.Th1.G.jets_deriv_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:49:33.194486+00:00
 -- url     : https://prove2.me/theorems/ce79597c-8b7c-5fa5-bc67-ae7ea577d122

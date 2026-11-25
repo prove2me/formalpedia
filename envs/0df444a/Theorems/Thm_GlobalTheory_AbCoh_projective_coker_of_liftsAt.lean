@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_projective_coker_of_liftsAt
 -- name    : GlobalTheory.AbCoh.projective_coker_of_liftsAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:04:53.234173+00:00
 -- url     : https://prove2.me/theorems/d9b3e0b8-416f-4236-b55b-e5149dd26867

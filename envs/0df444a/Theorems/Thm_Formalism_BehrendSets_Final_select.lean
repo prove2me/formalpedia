@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Final_select
 -- name    : Formalism.BehrendSets.Final.select
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:20:06.906386+00:00
 -- url     : https://prove2.me/theorems/9ca2d251-e8e6-45b8-a5db-42d86d11381b

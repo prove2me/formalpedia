@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ChainLattice_isLattice_chainLat_and_comap
 -- name    : GlobalTheory.RootEx.ChainLattice.isLattice_chainLat_and_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:26.48661+00:00
 -- url     : https://prove2.me/theorems/bbafaa2e-01c6-4e2c-a8cc-384b404820f3

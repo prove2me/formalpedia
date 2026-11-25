@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_glueMeas_univ_eq_mul_of_fibre_encard_eq
 -- name    : GlobalTheory.T.glueMeas_univ_eq_mul_of_fibre_encard_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:32:30.485249+00:00
 -- url     : https://prove2.me/theorems/d32a347a-5e45-4c4d-93a3-861d067b595d

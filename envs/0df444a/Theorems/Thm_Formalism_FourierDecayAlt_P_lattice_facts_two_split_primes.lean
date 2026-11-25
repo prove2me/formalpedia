@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lattice_facts_two_split_primes
 -- name    : Formalism.FourierDecayAlt.P.lattice_facts_two_split_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:55.226124+00:00
 -- url     : https://prove2.me/theorems/3a3aa2ce-2274-4dd9-b03c-35e236f659ec

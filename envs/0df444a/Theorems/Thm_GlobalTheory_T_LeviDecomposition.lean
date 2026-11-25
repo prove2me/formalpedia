@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_LeviDecomposition
 -- name    : GlobalTheory.T.LeviDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:24.019837+00:00
 -- url     : https://prove2.me/theorems/deb48def-b5b9-5edb-b16f-b5cebb86c277

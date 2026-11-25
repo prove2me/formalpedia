@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetConstSq_main
 -- name    : GlobalTheory.JetConstSq.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:11:24.872297+00:00
 -- url     : https://prove2.me/theorems/83515fc5-d02a-52a8-9967-711e767e1f50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_polarPt_none
 -- name    : GlobalTheory.CompactDualQuot.polarPt_none
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:07:56.45567+00:00
 -- url     : https://prove2.me/theorems/7e56bea4-f81c-52e2-9839-819e645e47a1

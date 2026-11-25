@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_smul_right_of_isStarFixed
 -- name    : GlobalTheory.HermForm.smul_right_of_isStarFixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:08:08.441738+00:00
 -- url     : https://prove2.me/theorems/5efaad2c-f38d-4aaf-892e-f5b976aa8768

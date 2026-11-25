@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hom_descends_to_subfield_containing_finset
 -- name    : GlobalTheory.hom_descends_to_subfield_containing_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:46:54.40383+00:00
 -- url     : https://prove2.me/theorems/c4e9b476-55e9-406e-90f4-a1d4a4f80f05

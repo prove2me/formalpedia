@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_evaluation
 -- name    : Formalism.CyclotomicNorms.evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:24:04.184086+00:00
 -- url     : https://prove2.me/theorems/3a1bdd03-78ef-4fd3-b3f7-617f7ce6b302

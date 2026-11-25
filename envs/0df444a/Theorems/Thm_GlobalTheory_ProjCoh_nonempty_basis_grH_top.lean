@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCoh_nonempty_basis_grH_top
 -- name    : GlobalTheory.ProjCoh.nonempty_basis_grH_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:16:05.860657+00:00
 -- url     : https://prove2.me/theorems/004ca255-0c32-5f6a-bf5a-bdabf8e26c2c

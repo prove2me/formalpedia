@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isQuasicoherent_tfae
 -- name    : GlobalTheory.QCoh.isQuasicoherent_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:19:03.034063+00:00
 -- url     : https://prove2.me/theorems/e9d5dd32-361a-5eac-845a-89597bd17456

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lamJ_zero
 -- name    : Formalism.L2.Col.lamJ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:11.450953+00:00
 -- url     : https://prove2.me/theorems/8751083c-565a-4e13-9b0c-94e3c2f801a5

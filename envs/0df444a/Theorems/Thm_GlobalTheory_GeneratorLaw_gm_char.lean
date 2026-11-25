@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorLaw_gm_char
 -- name    : GlobalTheory.GeneratorLaw.gm_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:46:51.471566+00:00
 -- url     : https://prove2.me/theorems/0bc4913f-b4d9-4bd6-a69f-7d6733144840

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_genAlg_isReduced
 -- name    : GlobalTheory.RegSS.genAlg_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:24:20.197876+00:00
 -- url     : https://prove2.me/theorems/ac6d64a5-c6b9-5752-b8d1-8b56bfa91283

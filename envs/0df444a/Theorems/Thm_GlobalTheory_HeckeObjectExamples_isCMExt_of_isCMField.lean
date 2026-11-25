@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeObjectExamples_isCMExt_of_isCMField
 -- name    : GlobalTheory.HeckeObjectExamples.isCMExt_of_isCMField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:40.985065+00:00
 -- url     : https://prove2.me/theorems/1a9c82d2-1f39-4fb3-b842-bdef857036f2

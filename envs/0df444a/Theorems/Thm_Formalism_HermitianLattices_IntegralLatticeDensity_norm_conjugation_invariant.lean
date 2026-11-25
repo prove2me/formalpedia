@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_norm_conjugation_invariant
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.norm_conjugation_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:33.381152+00:00
 -- url     : https://prove2.me/theorems/74c62118-36ca-42ca-b9c6-0c3b90e3220c

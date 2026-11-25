@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_Br_latLocGlob
 -- name    : Formalism.L2.GlobalTheoryTheory.Br.latLocGlob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:45:26.38614+00:00
 -- url     : https://prove2.me/theorems/4560e00d-abe3-44fb-b900-47224f8e031d

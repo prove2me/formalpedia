@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sec_eq_zero_of_thickenings_of_section
 -- name    : GlobalTheory.sec_eq_zero_of_thickenings_of_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:53:34.693801+00:00
 -- url     : https://prove2.me/theorems/7385118f-66f0-4d9c-8ac7-fffbc8d5d3f6

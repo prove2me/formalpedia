@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_kernelAvg
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.kernelAvg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:36:43.835616+00:00
 -- url     : https://prove2.me/theorems/63c91682-61ad-506b-b2eb-14639e292c07

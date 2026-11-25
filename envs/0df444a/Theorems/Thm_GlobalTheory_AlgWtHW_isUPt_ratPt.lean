@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtHW_isUPt_ratPt
 -- name    : GlobalTheory.AlgWtHW.isUPt_ratPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:55:48.991053+00:00
 -- url     : https://prove2.me/theorems/2b931e35-ec90-413d-9a37-0d5ab2481b97

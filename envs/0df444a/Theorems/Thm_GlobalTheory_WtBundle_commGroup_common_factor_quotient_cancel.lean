@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WtBundle_commGroup_common_factor_quotient_cancel
 -- name    : GlobalTheory.WtBundle.commGroup_common_factor_quotient_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:00:38.039246+00:00
 -- url     : https://prove2.me/theorems/3245a0f7-15ff-4193-8434-137d6d7ecf2b

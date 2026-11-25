@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integralFamily_prescribedTerm_unit_at_prime
 -- name    : GlobalTheory.T.integralFamily_prescribedTerm_unit_at_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:47:47.447221+00:00
 -- url     : https://prove2.me/theorems/8e5dbc49-a32b-4c2f-9349-86b603a55d01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelTupleSum_torus_r
 -- name    : GlobalTheory.LevelTupleSum.torus_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:24:42.977731+00:00
 -- url     : https://prove2.me/theorems/4cd3b6f3-c969-404d-a7ed-613ad051a2ae

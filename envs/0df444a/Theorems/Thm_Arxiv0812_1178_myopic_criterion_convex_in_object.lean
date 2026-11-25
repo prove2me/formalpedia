@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0812_1178_myopic_criterion_convex_in_object
 -- name    : Arxiv0812_1178.myopic_criterion_convex_in_object
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:52:32.76519+00:00
 -- url     : https://prove2.me/theorems/c62b6e8b-4f42-4ccb-89c0-200a6e25a433

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_internal_of_leaves
 -- name    : ZetaZeros.D.EllReg.internal_of_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:45.528843+00:00
 -- url     : https://prove2.me/theorems/8a87f23f-b4a5-4809-ad36-647dd42d20fc

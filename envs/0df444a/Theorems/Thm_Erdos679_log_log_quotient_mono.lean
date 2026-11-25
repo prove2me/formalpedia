@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos679_log_log_quotient_mono
 -- name    : Erdos679.log_log_quotient_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:01:13.919444+00:00
 -- url     : https://prove2.me/theorems/ee1465d9-a501-4c5f-8cca-d90dfb824a1e

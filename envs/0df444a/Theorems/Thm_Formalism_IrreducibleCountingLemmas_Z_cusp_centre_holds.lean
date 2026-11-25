@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_cusp_centre_holds
 -- name    : Formalism.IrreducibleCountingLemmas.Z.cusp_centre_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:12.161837+00:00
 -- url     : https://prove2.me/theorems/4266e33c-79ca-5b56-a50d-50fe6a13de14

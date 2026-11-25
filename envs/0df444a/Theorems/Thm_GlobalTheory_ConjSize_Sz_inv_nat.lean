@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjSize_Sz_inv_nat
 -- name    : GlobalTheory.ConjSize.Sz.inv_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:02:44.674541+00:00
 -- url     : https://prove2.me/theorems/583a14fe-6568-4724-99e3-02aba8328e97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_eq_zero_of_ae_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.eq_zero_of_ae_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:06:24.092081+00:00
 -- url     : https://prove2.me/theorems/a4d767b6-0567-51dc-8d54-352606f93819

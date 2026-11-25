@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_product_of_energies
 -- name    : Formalism.FourierDecayAlt.P.product_of_energies
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:27.223698+00:00
 -- url     : https://prove2.me/theorems/4bc32817-e644-4bc9-a4d1-31f82f518dce

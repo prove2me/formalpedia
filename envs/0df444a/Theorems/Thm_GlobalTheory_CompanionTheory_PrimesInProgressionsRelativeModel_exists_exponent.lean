@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrimesInProgressionsRelativeModel_exists_exponent
 -- name    : GlobalTheory.CompanionTheory.PrimesInProgressionsRelativeModel.exists_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:08.973833+00:00
 -- url     : https://prove2.me/theorems/a72872d0-53d4-4d1a-9c49-92d2a5307764

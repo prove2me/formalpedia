@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_pairing_adjoint_identity
 -- name    : Formalism.FourierDecayAlt.P.pairing_adjoint_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:33:45.91723+00:00
 -- url     : https://prove2.me/theorems/80d7ece2-9e66-4541-9547-09d74fed2550

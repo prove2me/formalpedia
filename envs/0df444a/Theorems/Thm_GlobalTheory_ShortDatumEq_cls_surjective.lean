@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortDatumEq_cls_surjective
 -- name    : GlobalTheory.ShortDatumEq.cls_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:24:24.358926+00:00
 -- url     : https://prove2.me/theorems/9e0d2179-d2d4-5650-ab2b-4e5ba11d8605

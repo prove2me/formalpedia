@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_isRat_iff_exists_ratFunc
 -- name    : GlobalTheory.Nef.isRat_iff_exists_ratFunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:14:45.110543+00:00
 -- url     : https://prove2.me/theorems/a938717b-ec80-5c43-b420-fe73d6293a5f

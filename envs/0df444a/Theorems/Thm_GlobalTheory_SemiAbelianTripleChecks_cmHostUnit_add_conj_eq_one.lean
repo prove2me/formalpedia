@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianTripleChecks_cmHostUnit_add_conj_eq_one
 -- name    : GlobalTheory.SemiAbelianTripleChecks.cmHostUnit_add_conj_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:23:05.585171+00:00
 -- url     : https://prove2.me/theorems/9dbb6737-9cf8-4797-a2ff-8f41354cb186

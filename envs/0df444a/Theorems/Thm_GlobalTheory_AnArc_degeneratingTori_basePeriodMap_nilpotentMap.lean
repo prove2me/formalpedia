@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_degeneratingTori_basePeriodMap_nilpotentMap
 -- name    : GlobalTheory.AnArc.degeneratingTori_basePeriodMap_nilpotentMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:01:19.299013+00:00
 -- url     : https://prove2.me/theorems/e1c48587-a3eb-4a00-8dc0-998d9e197f79

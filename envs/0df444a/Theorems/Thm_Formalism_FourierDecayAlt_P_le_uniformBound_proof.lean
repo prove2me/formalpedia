@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_uniformBound_proof
 -- name    : Formalism.FourierDecayAlt.P.le_uniformBound_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:27.393366+00:00
 -- url     : https://prove2.me/theorems/2d5f2e35-1035-5840-83c3-bdac82a6ac37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealTangentSpace_mem_Lat
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealTangentSpace.mem_Lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:32:07.181617+00:00
 -- url     : https://prove2.me/theorems/a9f5e981-2dbe-4467-96f6-d60d29147fc4

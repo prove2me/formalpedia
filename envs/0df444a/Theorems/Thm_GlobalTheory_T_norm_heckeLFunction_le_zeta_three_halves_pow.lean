@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_heckeLFunction_le_zeta_three_halves_pow
 -- name    : GlobalTheory.T.norm_heckeLFunction_le_zeta_three_halves_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:50.949888+00:00
 -- url     : https://prove2.me/theorems/be131b4e-ffa4-4540-ac9a-07350c09431b

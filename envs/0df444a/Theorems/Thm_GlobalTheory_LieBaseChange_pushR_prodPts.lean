@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieBaseChange_pushR_prodPts
 -- name    : GlobalTheory.LieBaseChange.pushR_prodPts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:54:44.105945+00:00
 -- url     : https://prove2.me/theorems/4f9af0f6-8c84-496b-8244-bc70b859d12e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_psQ
 -- name    : Formalism.HC.EvenGrp.psQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:38:57.076523+00:00
 -- url     : https://prove2.me/theorems/f4fba12b-72bd-4eeb-8d12-159cc115dfbe

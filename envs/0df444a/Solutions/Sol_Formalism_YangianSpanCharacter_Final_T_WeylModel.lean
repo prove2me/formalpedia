@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for Formalism.YangianSpanCharacter.Final.T_WeylModel
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T17:23:31.841694+00:00
+-- url     : https://prove2.me/submissions/12217a38-b471-4eda-909d-92608a6ca19c
+
+import Definitions.Def_Formalism_YangianSpanCharacter_YangianRTTProofs_TransposeSymplecticShift
+import Definitions.Def_Formalism_YangianSpanCharacter_YangianRTTProofs_RttRelation
+import Definitions.Def_Formalism_YangianSpanCharacter_YangianRTTProofs_SymplecticTransposeEntryZeroOne
+import Definitions.Def_Formalism_YangianSpanCharacter_YangianRTTProofs_DiagonalEntryEqOfModularRelation
+import Definitions.Def_Formalism_YangianSpanCharacter_YangianRTTProofs_SpanCharacterIdentity
+import Definitions.Def_Formalism_YangianSpanCharacter_ModHypYangian
+import Definitions.Def_Formalism_YangianSpanCharacter_YangianRTTProofs_MinusFrameIdentity
+import Definitions.Def_Formalism_YangianSpanCharacter_YangianRTTProofs_TransposeJReversed
+import Definitions.Def_Formalism_YangianSpanCharacter_YangianRTTProofs_TransposeJTransposeReal
+import Definitions.Def_Formalism_YangianSpanCharacter_YangianRelationFirst
+import Theorems.Thm_Formalism_YangianSpanCharacter_P_isWeylTripleShiftModel
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.YangianSpanCharacter Formalism.YangianSpanCharacter.Final
+namespace Formalism.YangianSpanCharacter.Final
+theorem _root_.solution : Formalism.YangianSpanCharacter.T.WeylModel := Formalism.YangianSpanCharacter.P.isWeylTripleShiftModel
+end Formalism.YangianSpanCharacter.Final

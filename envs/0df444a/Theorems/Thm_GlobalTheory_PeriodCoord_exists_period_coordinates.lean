@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCoord_exists_period_coordinates
 -- name    : GlobalTheory.PeriodCoord.exists_period_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:21:47.56494+00:00
 -- url     : https://prove2.me/theorems/2d5efc18-b479-5436-9a58-a5715eb6cbb8

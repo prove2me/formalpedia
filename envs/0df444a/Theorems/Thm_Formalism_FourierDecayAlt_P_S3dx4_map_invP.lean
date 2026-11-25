@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_map_invP
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.map_invP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:47:48.086026+00:00
 -- url     : https://prove2.me/theorems/286c8f20-1718-4ba6-ac8f-393390d94b05

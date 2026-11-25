@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_lam_omega_mem
 -- name    : ReciprocityTheory.PGsh.Up.U3.lam_omega_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:31.806886+00:00
 -- url     : https://prove2.me/theorems/32dac82b-a6b8-46b1-b946-f15c3b3b715d

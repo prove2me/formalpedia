@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_defined_over_of_fixed
 -- name    : GlobalTheory.FixedPoint.defined_over_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:05.269188+00:00
 -- url     : https://prove2.me/theorems/8998534a-d994-4d7a-be2a-204bf6b2dfa4

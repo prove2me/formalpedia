@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_measurableSet_zeroTorus
 -- name    : ReciprocityTheory.MultiplicativeHeights.measurableSet_zeroTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:56.367511+00:00
 -- url     : https://prove2.me/theorems/3454c539-e849-4cc9-ac4d-29563f04f15c

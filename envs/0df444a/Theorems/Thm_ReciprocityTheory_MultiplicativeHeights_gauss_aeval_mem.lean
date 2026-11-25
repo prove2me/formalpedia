@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gauss_aeval_mem
 -- name    : ReciprocityTheory.MultiplicativeHeights.gauss_aeval_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:03.533328+00:00
 -- url     : https://prove2.me/theorems/928cf915-e1ae-45e7-8103-c62a408a9119

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_transvection_fix_generator
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.transvection_fix_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:41.749805+00:00
 -- url     : https://prove2.me/theorems/d976c8c1-6780-472a-820e-9131cf444161

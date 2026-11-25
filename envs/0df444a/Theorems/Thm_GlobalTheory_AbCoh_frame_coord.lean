@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_frame_coord
 -- name    : GlobalTheory.AbCoh.frame_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:03:59.116878+00:00
 -- url     : https://prove2.me/theorems/28741d5d-fe74-453b-99ba-9117673ba396

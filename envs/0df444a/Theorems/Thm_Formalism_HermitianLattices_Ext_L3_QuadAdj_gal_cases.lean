@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_QuadAdj_gal_cases
 -- name    : Formalism.HermitianLattices.Ext.L3.QuadAdj.gal_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:17.818342+00:00
 -- url     : https://prove2.me/theorems/6c741c24-eff6-4947-b345-d1e990b9a74b

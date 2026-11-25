@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_oneLevelAfterA_statement
 -- name    : Formalism.FourierDecayAlt.P.oneLevelAfterA_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:41.91041+00:00
 -- url     : https://prove2.me/theorems/b15208e4-d5ee-46a1-bb2e-b774468d6c48

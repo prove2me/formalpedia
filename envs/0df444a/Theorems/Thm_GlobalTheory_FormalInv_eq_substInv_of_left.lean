@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_eq_substInv_of_left
 -- name    : GlobalTheory.FormalInv.eq_substInv_of_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:22.059533+00:00
 -- url     : https://prove2.me/theorems/d9c8fb65-8b97-4a11-a52f-d57c0887cf22

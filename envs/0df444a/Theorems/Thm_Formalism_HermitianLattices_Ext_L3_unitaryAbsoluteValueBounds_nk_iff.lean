@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_nk_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.nk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:41:30.829031+00:00
 -- url     : https://prove2.me/theorems/4930d3c2-3e7b-4aed-98bb-7780c0d81374

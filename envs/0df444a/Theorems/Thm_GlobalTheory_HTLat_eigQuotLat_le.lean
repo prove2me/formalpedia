@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_eigQuotLat_le
 -- name    : GlobalTheory.HTLat.eigQuotLat_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:43.73773+00:00
 -- url     : https://prove2.me/theorems/87bad8c7-f072-46e2-8946-b80670e1fd11

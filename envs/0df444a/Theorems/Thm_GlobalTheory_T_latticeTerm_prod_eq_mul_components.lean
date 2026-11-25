@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_latticeTerm_prod_eq_mul_components
 -- name    : GlobalTheory.T.latticeTerm_prod_eq_mul_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:48.738408+00:00
 -- url     : https://prove2.me/theorems/c8c305f5-33d6-41a0-bc3a-ae5c619be4dc

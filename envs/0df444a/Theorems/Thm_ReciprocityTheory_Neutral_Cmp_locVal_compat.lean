@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_locVal_compat
 -- name    : ReciprocityTheory.Neutral.Cmp.locVal_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:07:41.041254+00:00
 -- url     : https://prove2.me/theorems/3a32e067-4c99-5676-920c-0fb8e1132030

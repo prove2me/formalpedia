@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_admissible_indicator_functions
 -- name    : GlobalTheory.SW.Model.admissible_indicator_functions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:38.554314+00:00
 -- url     : https://prove2.me/theorems/15848f73-8c5c-4854-929e-43821b638033

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_theta_char_transform
 -- name    : GlobalTheory.theta_char_transform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:23:59.306155+00:00
 -- url     : https://prove2.me/theorems/a8c77e7a-cd05-4f53-ae5a-1be4d51e1de2

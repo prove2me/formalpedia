@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_artinMap_second_eq_one
 -- name    : Formalism.HC.D7.artinMap_second_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:21.234557+00:00
 -- url     : https://prove2.me/theorems/463acf55-7767-59b2-a787-3ad334cafff6

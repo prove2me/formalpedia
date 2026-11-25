@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_deep_E
 -- name    : Formalism.MainNotions.Gaps.T0.deep_E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:30.697866+00:00
 -- url     : https://prove2.me/theorems/c04c25ee-4dd1-4607-b956-4d4f4fd4e081

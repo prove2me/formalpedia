@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_qVandermonde
 -- name    : Formalism.G0.Top.qVandermonde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:36:58.463803+00:00
 -- url     : https://prove2.me/theorems/d3ff8c99-9655-54c7-8c19-9edf1abf834d

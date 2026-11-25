@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_cosetInd_mem_SB
 -- name    : GlobalTheory.LGrp.cosetInd_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:14:36.526258+00:00
 -- url     : https://prove2.me/theorems/f1b323c7-fc60-4f77-8c39-085d7ff8ebfd

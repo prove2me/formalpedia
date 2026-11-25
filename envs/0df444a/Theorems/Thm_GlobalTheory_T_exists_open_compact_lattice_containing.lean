@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_open_compact_lattice_containing
 -- name    : GlobalTheory.T.exists_open_compact_lattice_containing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:30:35.451402+00:00
 -- url     : https://prove2.me/theorems/cbe22a59-fd98-4a33-9055-18368feb566d

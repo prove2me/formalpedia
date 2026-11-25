@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformLift_existsUnique_linearMap_lift_of_germ
 -- name    : GlobalTheory.UniformLift.existsUnique_linearMap_lift_of_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:33:00.553812+00:00
 -- url     : https://prove2.me/theorems/01f9d580-055a-5c05-ae65-43578c850d9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isometricEmbeddedDatumPairs_encard_isometry_smul
 -- name    : GlobalTheory.T.isometricEmbeddedDatumPairs_encard_isometry_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:03.94527+00:00
 -- url     : https://prove2.me/theorems/8625d5ef-9b94-5949-84c0-c3a9d460cc9c

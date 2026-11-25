@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prod_eq_sum_of_factorwise_linear_expansion
 -- name    : GlobalTheory.T.prod_eq_sum_of_factorwise_linear_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:27.715568+00:00
 -- url     : https://prove2.me/theorems/87c32ca5-4226-43c6-a589-35c844dbdfc2

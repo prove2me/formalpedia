@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPerp_finrank_kerPerp
 -- name    : GlobalTheory.KerPerp.finrank_kerPerp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:13:48.989298+00:00
 -- url     : https://prove2.me/theorems/f1aa5031-c77d-5dc7-9018-133c278411e8

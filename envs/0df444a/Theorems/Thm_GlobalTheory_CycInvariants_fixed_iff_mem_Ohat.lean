@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycInvariants_fixed_iff_mem_Ohat
 -- name    : GlobalTheory.CycInvariants.fixed_iff_mem_Ohat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:06:11.827896+00:00
 -- url     : https://prove2.me/theorems/ecb5e05f-66e0-5f59-84b7-eb8169ed8ed0

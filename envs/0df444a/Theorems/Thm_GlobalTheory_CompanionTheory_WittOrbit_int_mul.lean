@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WittOrbit_int_mul
 -- name    : GlobalTheory.CompanionTheory.WittOrbit.int_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:02:51.818997+00:00
 -- url     : https://prove2.me/theorems/e9b02b1d-c510-4854-a5b2-bad3cfe8bfd2

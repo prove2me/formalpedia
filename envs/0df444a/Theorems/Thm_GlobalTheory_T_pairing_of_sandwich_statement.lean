@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pairing_of_sandwich_statement
 -- name    : GlobalTheory.T.pairing_of_sandwich_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:53.584435+00:00
 -- url     : https://prove2.me/theorems/c0b98d1e-f0eb-4840-8879-e4fb8d87f84f

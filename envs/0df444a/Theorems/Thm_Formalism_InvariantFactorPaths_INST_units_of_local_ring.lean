@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_units_of_local_ring
 -- name    : Formalism.InvariantFactorPaths.INST.units_of_local_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:58.054567+00:00
 -- url     : https://prove2.me/theorems/4f8b9fa0-6bfe-4158-99c6-97f381fa867d

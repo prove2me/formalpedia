@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CosetSum_integrable_iff_and_integral_eq
 -- name    : GlobalTheory.CompanionTheory.CosetSum.integrable_iff_and_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:46.683221+00:00
 -- url     : https://prove2.me/theorems/57335559-00af-4c64-9ebe-3fc535fbdec7

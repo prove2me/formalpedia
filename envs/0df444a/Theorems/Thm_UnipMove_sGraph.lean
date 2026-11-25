@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_sGraph
 -- name    : UnipMove.sGraph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:27.430721+00:00
 -- url     : https://prove2.me/theorems/ef7d8800-f4bf-484c-a51c-aa97f506384d

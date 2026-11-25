@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_word_sum_general
 -- name    : Formalism.FourierDecayAlt.P.capelli_word_sum_general
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:33:05.928823+00:00
 -- url     : https://prove2.me/theorems/b6d01080-9a08-4a76-ac57-88a51a7b7c29

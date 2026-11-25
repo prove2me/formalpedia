@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_NrmCompl_nrmAbs_le_one_iff
 -- name    : GlobalTheory.Mem.NrmCompl.nrmAbs_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:54.435072+00:00
 -- url     : https://prove2.me/theorems/07247bbc-0e16-5281-b35f-26ae1932dd75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_norm_coeff_detProdPoly_le
 -- name    : GlobalTheory.DiscEval.norm_coeff_detProdPoly_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:00:17.269713+00:00
 -- url     : https://prove2.me/theorems/947d1081-4df1-419e-b2c2-62c4390b6d8f

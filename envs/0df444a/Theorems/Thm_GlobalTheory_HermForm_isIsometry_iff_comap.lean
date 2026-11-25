@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_isIsometry_iff_comap
 -- name    : GlobalTheory.HermForm.isIsometry_iff_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:10.54443+00:00
 -- url     : https://prove2.me/theorems/7a306e54-cd98-5256-8019-c61d3182d469

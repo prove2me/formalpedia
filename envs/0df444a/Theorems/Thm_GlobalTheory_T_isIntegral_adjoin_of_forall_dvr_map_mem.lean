@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_adjoin_of_forall_dvr_map_mem
 -- name    : GlobalTheory.T.isIntegral_adjoin_of_forall_dvr_map_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:34:22.696614+00:00
 -- url     : https://prove2.me/theorems/5d3be718-b2b4-423f-8625-3d7027d59d04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_meanVal_of_equi_countBd
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.meanVal_of_equi_countBd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:51:22.132302+00:00
 -- url     : https://prove2.me/theorems/29a370dc-9079-40cd-b0cf-a96684431b71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_coords_no_homogeneous_relation_generic_hyperplanes
 -- name    : GlobalTheory.T.exists_coords_no_homogeneous_relation_generic_hyperplanes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:29:18.963804+00:00
 -- url     : https://prove2.me/theorems/f072c3f2-5a1f-485d-a2f7-2d934eef59bb

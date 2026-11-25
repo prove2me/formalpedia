@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_shift_norm
 -- name    : Formalism.FourierDecayAlt.P.shift_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:45:11.587362+00:00
 -- url     : https://prove2.me/theorems/13c77204-b974-5684-82c2-0948c68b552c

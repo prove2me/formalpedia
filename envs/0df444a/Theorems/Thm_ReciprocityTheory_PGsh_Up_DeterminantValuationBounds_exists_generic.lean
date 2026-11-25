@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_DeterminantValuationBounds_exists_generic
 -- name    : ReciprocityTheory.PGsh.Up.DeterminantValuationBounds.exists_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:06:31.489277+00:00
 -- url     : https://prove2.me/theorems/b1d3e1cd-74e7-42f5-ba62-e78207777af3

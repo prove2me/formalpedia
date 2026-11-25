@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDescent_exactAt_of_trace
 -- name    : GlobalTheory.TraceDescent.exactAt_of_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:50:00.733187+00:00
 -- url     : https://prove2.me/theorems/38c109b8-d497-4e7d-9556-bfb8c08a1f89

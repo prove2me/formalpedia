@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_coordK_lTensor
 -- name    : ReciprocityTheory.PGsh.BX.coordK_lTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:07:13.165094+00:00
 -- url     : https://prove2.me/theorems/0579caa2-61b0-4a88-a588-2a9c14d92433

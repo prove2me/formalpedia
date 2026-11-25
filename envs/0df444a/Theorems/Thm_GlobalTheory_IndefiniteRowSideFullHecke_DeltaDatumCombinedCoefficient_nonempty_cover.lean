@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_DeltaDatumCombinedCoefficient_nonempty_cover
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.DeltaDatumCombinedCoefficient.nonempty_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:05.261948+00:00
 -- url     : https://prove2.me/theorems/acfc9120-f59d-5fc8-a7d6-0e00e7e34a0d

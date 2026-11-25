@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_jumpsInV_ext
 -- name    : GlobalTheory.CoeffExt.jumpsInV_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:02.176448+00:00
 -- url     : https://prove2.me/theorems/397bbd13-0f77-4293-9f40-b86e4e9d33ab

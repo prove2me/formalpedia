@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_BiTriv_val_one_left
 -- name    : GlobalTheory.UU.BiTriv.val_one_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:46:25.467345+00:00
 -- url     : https://prove2.me/theorems/12a72283-24e9-423e-b0d2-bd5d518d3c5e

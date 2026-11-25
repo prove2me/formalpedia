@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_echelon_projector_kernel_frobenius
 -- name    : GlobalTheory.T.echelon_projector_kernel_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:27:50.859829+00:00
 -- url     : https://prove2.me/theorems/7c1cdf73-3c08-55ba-b502-f356ef4b524e

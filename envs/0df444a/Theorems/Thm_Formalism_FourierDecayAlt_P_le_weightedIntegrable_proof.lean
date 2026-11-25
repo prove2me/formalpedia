@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_weightedIntegrable_proof
 -- name    : Formalism.FourierDecayAlt.P.le_weightedIntegrable_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:33:26.151927+00:00
 -- url     : https://prove2.me/theorems/074cabef-e37f-460e-ad06-fdab544b7bbe

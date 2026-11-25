@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_comb_triv
 -- name    : GlobalTheory.Reg.TrivBound.comb_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:18:43.006054+00:00
 -- url     : https://prove2.me/theorems/ce2525a2-ae02-4244-819e-701213bb97e9

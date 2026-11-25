@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SelfDualInf_exists_sdW_sdHerm
 -- name    : GlobalTheory.CompanionTheory.SelfDualInf.exists_sdW_sdHerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:01:57.032164+00:00
 -- url     : https://prove2.me/theorems/ad3812a1-bde2-535e-8a23-43cb6b3e3496

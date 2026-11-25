@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripleMap_exists_ratio
 -- name    : GlobalTheory.TripleMap.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:57:52.040407+00:00
 -- url     : https://prove2.me/theorems/ef1e860c-169c-4e0c-895a-27ab92e427f3

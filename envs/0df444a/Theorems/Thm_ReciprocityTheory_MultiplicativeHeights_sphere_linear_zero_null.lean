@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sphere_linear_zero_null
 -- name    : ReciprocityTheory.MultiplicativeHeights.sphere_linear_zero_null
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:08.389719+00:00
 -- url     : https://prove2.me/theorems/afb19654-ba45-494f-8564-6f3863d22e2a

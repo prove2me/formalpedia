@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_unimodHull
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.unimodHull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:39:55.634898+00:00
 -- url     : https://prove2.me/theorems/7c316936-fd86-42eb-8427-cfae64ad39a3

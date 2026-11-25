@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_sum_two_units_product
 -- name    : Formalism.L2.Th1.C.sum_two_units_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:49:02.5333+00:00
 -- url     : https://prove2.me/theorems/5300b634-c460-48d1-979f-8cc5657ea89b

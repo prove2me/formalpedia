@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SUVol_embGL_mem_realSU
 -- name    : GlobalTheory.SUVol.embGL_mem_realSU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:27:57.806133+00:00
 -- url     : https://prove2.me/theorems/92510c51-34b6-44fc-bd50-ddd3cfc9e94c

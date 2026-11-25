@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_continuous_action
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.continuous_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:15:47.079187+00:00
 -- url     : https://prove2.me/theorems/d584b450-146a-591e-a7f2-484c8663ef9b

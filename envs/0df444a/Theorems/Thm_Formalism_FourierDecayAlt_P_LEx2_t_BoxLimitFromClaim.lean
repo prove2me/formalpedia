@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_t_BoxLimitFromClaim
 -- name    : Formalism.FourierDecayAlt.P.LEx2.t_BoxLimitFromClaim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:27:13.80454+00:00
 -- url     : https://prove2.me/theorems/8e629e1c-08e9-4bad-8fe1-41cb78bfab8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightOneHopf_truncated_polynomial
 -- name    : GlobalTheory.HeightOneHopf.truncated_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:27.38738+00:00
 -- url     : https://prove2.me/theorems/4f02f3f9-04e8-4566-9552-94ad497267d8

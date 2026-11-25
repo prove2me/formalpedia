@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_section_pow
 -- name    : GlobalTheory.LocLift.section_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:43:23.227731+00:00
 -- url     : https://prove2.me/theorems/028f09d5-5c2d-487a-9b23-a614dd4e829a

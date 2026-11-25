@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadIndep_leadM_coeff_eq_zero
 -- name    : GlobalTheory.LeadIndep.leadM_coeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:13:51.09908+00:00
 -- url     : https://prove2.me/theorems/04791e5e-3967-57d9-a712-6b1f732b6f50

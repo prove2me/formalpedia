@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeomRegFibTransport_geomRegFib_adicCompletion_of_essFiniteType_int
 -- name    : GlobalTheory.GeomRegFibTransport.geomRegFib_adicCompletion_of_essFiniteType_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:58.109946+00:00
 -- url     : https://prove2.me/theorems/d4782978-866a-4562-a1b7-208586df7e87

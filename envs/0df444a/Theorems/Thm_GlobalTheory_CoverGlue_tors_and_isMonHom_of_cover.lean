@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_tors_and_isMonHom_of_cover
 -- name    : GlobalTheory.CoverGlue.tors_and_isMonHom_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:29:22.744581+00:00
 -- url     : https://prove2.me/theorems/bc917d45-36a3-495d-a99f-b9c10f1ece82

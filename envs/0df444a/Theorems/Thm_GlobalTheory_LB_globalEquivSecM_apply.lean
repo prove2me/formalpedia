@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LB_globalEquivSecM_apply
 -- name    : GlobalTheory.LB.globalEquivSecM_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:57:59.169905+00:00
 -- url     : https://prove2.me/theorems/bdcfcc4d-6d90-527a-b8c4-e37dd0874a30

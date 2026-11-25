@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_TorusLexOrder_torus_coeff_integral
 -- name    : ReciprocityTheory.MultiplicativeHeights.TorusLexOrder.torus_coeff_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:26.009805+00:00
 -- url     : https://prove2.me/theorems/1f5cb3c9-6ff5-4e66-83ca-755a56a3139e

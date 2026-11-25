@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dominated_convergence
 -- name    : Formalism.FourierDecayAlt.P.dominated_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:31:05.288983+00:00
 -- url     : https://prove2.me/theorems/4801eaeb-3145-5485-8aee-d9fd36159fa9

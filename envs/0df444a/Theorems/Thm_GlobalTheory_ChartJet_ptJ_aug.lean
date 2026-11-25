@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartJet_ptJ_aug
 -- name    : GlobalTheory.ChartJet.ptJ_aug
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:36:43.513735+00:00
 -- url     : https://prove2.me/theorems/e8d17abd-3c28-4b8a-85e7-c5351c2191e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1003_4724_static_permittivity_long_wave_limit
 -- name    : Arxiv1003_4724.static_permittivity_long_wave_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T23:54:56.272572+00:00
 -- url     : https://prove2.me/theorems/8e78231d-4d26-4cba-bf72-d0d8bb2da7d3

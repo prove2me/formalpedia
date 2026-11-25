@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_exists_form
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dict.exists_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:18:07.592934+00:00
 -- url     : https://prove2.me/theorems/311f095e-3ab5-497d-9e35-20f7e10ab347

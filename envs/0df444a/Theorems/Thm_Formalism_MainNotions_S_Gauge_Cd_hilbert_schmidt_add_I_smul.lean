@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_S_Gauge_Cd_hilbert_schmidt_add_I_smul
 -- name    : Formalism.MainNotions.S.Gauge.Cd.hilbert_schmidt_add_I_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:51:21.00473+00:00
 -- url     : https://prove2.me/theorems/94336763-9925-40b7-9d42-b96148866bc3

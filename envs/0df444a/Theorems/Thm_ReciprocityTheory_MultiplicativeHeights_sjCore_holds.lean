@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sjCore_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.sjCore_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:17.78511+00:00
 -- url     : https://prove2.me/theorems/22cc35c2-0a70-5bee-ad64-86be6e155953

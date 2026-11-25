@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_spanCharRing
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.spanCharRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:38:52.45956+00:00
 -- url     : https://prove2.me/theorems/6ea3d968-64f2-4914-b842-5b2120bd72c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamDim_exists_term_basis
 -- name    : GlobalTheory.FamDim.exists_term_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:47:27.56284+00:00
 -- url     : https://prove2.me/theorems/77bffb63-7d16-56b8-a445-616191a2f541

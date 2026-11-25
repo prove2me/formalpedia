@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_ChartMongeAmpereL1Measure_maMeasure_le_smul_sum_62af3e70de23
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_ChartMongeAmpereL1Measure_maMeasure_le_smul_sum_62af3e70de23
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:31:14.066655+00:00
 -- url     : https://prove2.me/theorems/4b573de7-3940-43a9-b7cd-3ab8cf54b85a

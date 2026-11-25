@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_scope_of_S3_holds
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.scope_of_S3_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:31.971497+00:00
 -- url     : https://prove2.me/theorems/129337ce-65dd-4c8f-bd2d-413d8001f4d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegulatorClassBound_regulator_le_sum_class
 -- name    : GlobalTheory.RegulatorClassBound.regulator_le_sum_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:20:02.617694+00:00
 -- url     : https://prove2.me/theorems/654bede8-5139-4328-88c4-de5cfadde866

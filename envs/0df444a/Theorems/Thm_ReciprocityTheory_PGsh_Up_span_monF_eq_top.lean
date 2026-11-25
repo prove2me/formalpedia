@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_span_monF_eq_top
 -- name    : ReciprocityTheory.PGsh.Up.span_monF_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:08:52.652939+00:00
 -- url     : https://prove2.me/theorems/ffe3e462-8de2-4c4b-8fe8-42487c7719af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_eigSubLat_mono
 -- name    : GlobalTheory.HTLat.eigSubLat_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:28.060359+00:00
 -- url     : https://prove2.me/theorems/cf8c0aa6-74ad-49d1-b0e5-cdc33be9f75b

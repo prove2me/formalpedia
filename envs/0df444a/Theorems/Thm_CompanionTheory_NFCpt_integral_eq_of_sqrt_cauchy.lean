@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_NFCpt_integral_eq_of_sqrt_cauchy
 -- name    : CompanionTheory.NFCpt.integral_eq_of_sqrt_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:18:40.073389+00:00
 -- url     : https://prove2.me/theorems/3c6afd4d-07f0-4f09-9f6d-7e0b81680c65

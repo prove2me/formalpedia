@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_ArcForm_aeval_arcTx_eq_zero
 -- name    : GlobalTheory.Ex.ArcForm.aeval_arcTx_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:33.629803+00:00
 -- url     : https://prove2.me/theorems/f4175f84-ee12-4f56-aabf-29d4dc94b6cb

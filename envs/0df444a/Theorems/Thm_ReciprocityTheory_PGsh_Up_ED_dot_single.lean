@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_ED_dot_single
 -- name    : ReciprocityTheory.PGsh.Up.ED.dot_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:06:21.940348+00:00
 -- url     : https://prove2.me/theorems/b094e647-ead0-50d9-8d54-7575f403884c

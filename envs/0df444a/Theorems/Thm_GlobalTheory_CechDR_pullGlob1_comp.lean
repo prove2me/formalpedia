@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_pullGlob1_comp
 -- name    : GlobalTheory.CechDR.pullGlob1_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:52:57.228555+00:00
 -- url     : https://prove2.me/theorems/cd14a6cd-a7f2-43c6-b0e6-2c3efebb9517

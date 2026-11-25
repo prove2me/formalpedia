@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_colMat_comb
 -- name    : ReciprocityTheory.MultiplicativeHeights.colMat_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:03:48.259731+00:00
 -- url     : https://prove2.me/theorems/bc2218f0-a8f3-58dc-b2e9-9da999ae3d80

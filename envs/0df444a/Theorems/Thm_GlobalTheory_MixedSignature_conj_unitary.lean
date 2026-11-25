@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_conj_unitary
 -- name    : GlobalTheory.MixedSignature.conj_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:50:51.386165+00:00
 -- url     : https://prove2.me/theorems/e4634978-eb71-5b9a-9af5-85348d998f23

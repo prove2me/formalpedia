@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_SatMul
 -- name    : Formalism.UG.Final.SatMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:08.485713+00:00
 -- url     : https://prove2.me/theorems/3f2fe25f-bc6d-5db6-a86c-3ab891852296

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_TypesB_exists_cmType
 -- name    : Formalism.Q3.TypesB.exists_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:52:10.467614+00:00
 -- url     : https://prove2.me/theorems/1224e33f-feda-41e3-8784-c4a81abef407

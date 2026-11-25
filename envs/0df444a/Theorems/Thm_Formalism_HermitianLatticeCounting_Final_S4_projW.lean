@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_projW
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.projW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:38:53.069536+00:00
 -- url     : https://prove2.me/theorems/006bcc77-77b2-49ec-b505-4927066d0898

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenSect_generic_section_not_mem
 -- name    : Formalism.L2.Pj.GenSect.generic_section_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:50.193794+00:00
 -- url     : https://prove2.me/theorems/49f8e809-1f25-5e89-afe2-c77ba23afb0c

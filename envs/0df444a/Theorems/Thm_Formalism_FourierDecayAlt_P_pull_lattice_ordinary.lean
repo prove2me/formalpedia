@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_pull_lattice_ordinary
 -- name    : Formalism.FourierDecayAlt.P.pull_lattice_ordinary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:32.447912+00:00
 -- url     : https://prove2.me/theorems/e0738837-f80a-450c-8eb7-fb09427f22d0

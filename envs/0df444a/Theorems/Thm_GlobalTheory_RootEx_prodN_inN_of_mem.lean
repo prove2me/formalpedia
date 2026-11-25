@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_prodN_inN_of_mem
 -- name    : GlobalTheory.RootEx.prodN_inN_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:00.427904+00:00
 -- url     : https://prove2.me/theorems/59d77e75-5b0b-48b9-a5ef-954ec9b69a2c

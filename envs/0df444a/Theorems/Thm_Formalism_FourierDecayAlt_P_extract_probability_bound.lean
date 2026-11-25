@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_extract_probability_bound
 -- name    : Formalism.FourierDecayAlt.P.extract_probability_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:31:51.315089+00:00
 -- url     : https://prove2.me/theorems/f7a4ab7d-ef9e-5700-9506-b4a051e7526d

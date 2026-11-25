@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_density_case_split
 -- name    : Formalism.FourierDecayAlt.P.density_case_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:07.415158+00:00
 -- url     : https://prove2.me/theorems/6fa34e37-5a75-5426-860b-8139ba5b4f87

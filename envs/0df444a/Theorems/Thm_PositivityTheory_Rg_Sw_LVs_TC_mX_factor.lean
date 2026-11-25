@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_mX_factor
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.mX_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:51:31.234605+00:00
 -- url     : https://prove2.me/theorems/5349e2c6-36e5-4da5-ab08-e42869337142

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_LeviDatum_delta_of_mem_U
 -- name    : GlobalTheory.LGrp.LeviDatum.delta_of_mem_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:00.165809+00:00
 -- url     : https://prove2.me/theorems/f32303f4-1c60-5e4d-a6dc-e94561a32a67

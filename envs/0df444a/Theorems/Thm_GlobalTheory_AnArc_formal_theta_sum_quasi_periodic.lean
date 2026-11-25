@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_formal_theta_sum_quasi_periodic
 -- name    : GlobalTheory.AnArc.formal_theta_sum_quasi_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:55:56.497608+00:00
 -- url     : https://prove2.me/theorems/51e9512b-9a0e-4a6d-9654-30214e621f9b

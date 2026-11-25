@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtUp_isGenSec_up
 -- name    : GlobalTheory.ThetaPtUp.isGenSec_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:45:27.715614+00:00
 -- url     : https://prove2.me/theorems/f58bcb6a-3f51-402a-aee8-fc0827aeadb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvVal_evValSt
 -- name    : GlobalTheory.EvVal.evValSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:07:34.567065+00:00
 -- url     : https://prove2.me/theorems/c7dffebc-0d9e-4556-9c49-a611ca2f6984

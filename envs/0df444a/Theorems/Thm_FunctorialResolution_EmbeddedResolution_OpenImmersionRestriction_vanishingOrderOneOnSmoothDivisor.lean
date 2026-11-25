@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_vanishingOrderOneOnSmoothDivisor
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.vanishingOrderOneOnSmoothDivisor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:55:31.902553+00:00
 -- url     : https://prove2.me/theorems/bee29b18-fb7a-5874-8b48-ebba0d0d00b9

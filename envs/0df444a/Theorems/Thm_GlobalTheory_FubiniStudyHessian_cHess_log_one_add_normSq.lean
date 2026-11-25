@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FubiniStudyHessian_cHess_log_one_add_normSq
 -- name    : GlobalTheory.FubiniStudyHessian.cHess_log_one_add_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:57.502048+00:00
 -- url     : https://prove2.me/theorems/6efa40f5-f4b4-44dc-b43a-fd00f980330f

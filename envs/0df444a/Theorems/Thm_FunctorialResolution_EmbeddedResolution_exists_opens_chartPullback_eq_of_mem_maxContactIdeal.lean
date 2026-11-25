@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_opens_chartPullback_eq_of_mem_maxContactIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.exists_opens_chartPullback_eq_of_mem_maxContactIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:54:07.849879+00:00
 -- url     : https://prove2.me/theorems/d2cc399f-299f-4202-aed2-97b13f4b097f

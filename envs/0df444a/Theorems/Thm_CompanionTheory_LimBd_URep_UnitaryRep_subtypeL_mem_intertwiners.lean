@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_subtypeL_mem_intertwiners
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.subtypeL_mem_intertwiners
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:18:20.329352+00:00
 -- url     : https://prove2.me/theorems/1c09d137-0fbe-4491-ae37-95a5a276e94c

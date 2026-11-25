@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtExist_exists_et
 -- name    : GlobalTheory.JR.EtExist.exists_et
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:11:50.011799+00:00
 -- url     : https://prove2.me/theorems/19e7de0c-1ab9-47af-a066-969be0cd6239

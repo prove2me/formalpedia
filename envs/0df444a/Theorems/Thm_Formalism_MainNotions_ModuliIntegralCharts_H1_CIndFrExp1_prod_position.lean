@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrExp1_prod_position
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrExp1.prod_position
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:33.973382+00:00
 -- url     : https://prove2.me/theorems/4d04e475-86d1-4fd3-b83d-d87dd0b7aef5

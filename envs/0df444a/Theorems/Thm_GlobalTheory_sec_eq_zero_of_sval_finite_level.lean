@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sec_eq_zero_of_sval_finite_level
 -- name    : GlobalTheory.sec_eq_zero_of_sval_finite_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:01:44.510161+00:00
 -- url     : https://prove2.me/theorems/9cf0e0c2-0060-5dd3-8bff-4bbd6f8f62da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_each_level_counted_once
 -- name    : Formalism.FourierDecayAlt.P.each_level_counted_once
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:29:37.972943+00:00
 -- url     : https://prove2.me/theorems/b96f30ee-d07c-5afe-a0e1-ba2ef513d205

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_logMahlerMeasure_comp_C_mul_X_le
 -- name    : ReciprocityTheory.MultiplicativeHeights.logMahlerMeasure_comp_C_mul_X_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:39.978823+00:00
 -- url     : https://prove2.me/theorems/76e9b377-a2b2-4dd2-9cd7-aa998ec1aa11

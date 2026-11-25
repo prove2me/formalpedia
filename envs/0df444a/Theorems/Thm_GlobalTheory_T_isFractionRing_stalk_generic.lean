@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isFractionRing_stalk_generic
 -- name    : GlobalTheory.T.isFractionRing_stalk_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:33:57.019557+00:00
 -- url     : https://prove2.me/theorems/053e39e3-1a3c-4f42-9890-e4d7ab5ec633

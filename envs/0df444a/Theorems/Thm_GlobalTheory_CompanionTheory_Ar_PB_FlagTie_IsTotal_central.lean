@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_FlagTie_IsTotal_central
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.FlagTie.IsTotal.central
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:03:22.217885+00:00
 -- url     : https://prove2.me/theorems/9f45cd9a-24d2-4fd0-a55a-1671a0eb6faf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_formal_logarithm_base_change
 -- name    : Formalism.L2.Th1.A.formal_logarithm_base_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:47:59.941975+00:00
 -- url     : https://prove2.me/theorems/1448c84e-3426-524b-91d4-6491053dffa6

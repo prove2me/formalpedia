@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ae_toSphere
 -- name    : ReciprocityTheory.MultiplicativeHeights.ae_toSphere
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:11:39.953606+00:00
 -- url     : https://prove2.me/theorems/8bc3d9e5-56c0-4860-ac1a-704804291b2f

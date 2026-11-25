@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalTraceSum_sum_trace_eq
 -- name    : GlobalTheory.LocalTraceSum.sum_trace_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:22.73157+00:00
 -- url     : https://prove2.me/theorems/5a24dd20-d338-4eeb-b2d0-b5d7d870d440

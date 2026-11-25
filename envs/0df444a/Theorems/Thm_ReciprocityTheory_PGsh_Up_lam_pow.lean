@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_lam_pow
 -- name    : ReciprocityTheory.PGsh.Up.lam_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:06:05.836438+00:00
 -- url     : https://prove2.me/theorems/d623fd4a-f031-593b-827e-7e946d0c2967

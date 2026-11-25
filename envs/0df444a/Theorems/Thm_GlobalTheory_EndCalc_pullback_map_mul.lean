@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndCalc_pullback_map_mul
 -- name    : GlobalTheory.EndCalc.pullback_map_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:09:33.175698+00:00
 -- url     : https://prove2.me/theorems/3fd18768-9a69-468c-bb73-8be6f4c1c007

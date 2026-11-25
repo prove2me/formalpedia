@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ThetaInnerMean_proof_8d66b4b4f874
 -- name    : P2M_GroundTheory_Heights__Heights_ThetaInnerMean_proof_8d66b4b4f874
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:22:15.435877+00:00
 -- url     : https://prove2.me/theorems/89951a5e-c6aa-448f-832a-30e1a367c377

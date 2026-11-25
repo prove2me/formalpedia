@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_NonZeroAt_typeFrame_bas_inv_val
 -- name    : GlobalTheory.SymChain.NonZeroAt.typeFrame_bas_inv_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:55.625358+00:00
 -- url     : https://prove2.me/theorems/496a46e4-e3cc-4bfd-b9d7-aefa0864e380

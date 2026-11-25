@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_mk_mem_admissibleAt_iff_cocycle
 -- name    : GlobalTheory.AdmLoc.mk_mem_admissibleAt_iff_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:56:32.650336+00:00
 -- url     : https://prove2.me/theorems/1718b945-aba5-53a5-8224-e01dd524ae1e

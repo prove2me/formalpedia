@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CovariantDbarLeibniz_homCovDel_leibniz
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CovariantDbarLeibniz.homCovDel_leibniz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:06.455427+00:00
 -- url     : https://prove2.me/theorems/eb96c070-4a15-5e54-993e-282c46690d04

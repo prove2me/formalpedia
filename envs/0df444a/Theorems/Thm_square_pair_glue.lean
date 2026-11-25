@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_square_pair_glue
 -- name    : square_pair_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:16:45.049204+00:00
 -- url     : https://prove2.me/theorems/9d8e8e42-5947-4348-a4eb-fb29d8c41dd9

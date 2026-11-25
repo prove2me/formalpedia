@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_CT_transport_apply
 -- name    : Formalism.L2.Host.CT.transport_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:24.060672+00:00
 -- url     : https://prove2.me/theorems/b42ee168-4082-4b30-81c4-a113d8aaedd9

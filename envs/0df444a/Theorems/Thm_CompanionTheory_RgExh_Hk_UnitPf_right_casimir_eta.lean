@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_right_casimir_eta
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.right_casimir_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:55:25.13616+00:00
 -- url     : https://prove2.me/theorems/15fdef9b-e7b1-4ee1-86c4-6abb2989517b

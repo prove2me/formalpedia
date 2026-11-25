@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_volNat_stabLat
 -- name    : GlobalTheory.StepData.volNat_stabLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:25:34.088844+00:00
 -- url     : https://prove2.me/theorems/69067651-050d-4945-8f78-2d93ac91a627

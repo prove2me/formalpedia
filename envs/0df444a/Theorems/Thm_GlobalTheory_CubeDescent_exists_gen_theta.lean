@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeDescent_exists_gen_theta
 -- name    : GlobalTheory.CubeDescent.exists_gen_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:29:48.485476+00:00
 -- url     : https://prove2.me/theorems/b5aad17b-fcf8-4c38-9640-c7c9bf158d81

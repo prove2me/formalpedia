@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_cechLB_pull_iso_of_isOpenImmersion
 -- name    : GlobalTheory.AbLaw.cechLB_pull_iso_of_isOpenImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:50:13.445868+00:00
 -- url     : https://prove2.me/theorems/3d54d3aa-e4b0-4ba7-b732-d0c25ac8897c

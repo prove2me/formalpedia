@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_symCollapse_of_allPositions
 -- name    : GlobalTheory.LocFlat.symCollapse_of_allPositions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:14:17.220822+00:00
 -- url     : https://prove2.me/theorems/3b2d3e12-217e-5816-ab71-b7712d1ac364

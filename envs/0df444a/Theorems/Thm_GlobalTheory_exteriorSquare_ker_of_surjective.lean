@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exteriorSquare_ker_of_surjective
 -- name    : GlobalTheory.exteriorSquare_ker_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:02:27.929262+00:00
 -- url     : https://prove2.me/theorems/232fbe85-2dd4-5b32-a814-ce778bc41a25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_flA_leviV_comp
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.flA_leviV_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:00:23.984977+00:00
 -- url     : https://prove2.me/theorems/3dd3b8db-e527-5dbe-812b-1020b0eb595b

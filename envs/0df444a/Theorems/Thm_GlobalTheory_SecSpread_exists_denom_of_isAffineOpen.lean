@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecSpread_exists_denom_of_isAffineOpen
 -- name    : GlobalTheory.SecSpread.exists_denom_of_isAffineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:09:30.423529+00:00
 -- url     : https://prove2.me/theorems/370b7bcb-c69a-463d-82c3-65157408f561

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilPullNoncomm_gm_eq_one_of_commIsOf
 -- name    : GlobalTheory.WeilPullNoncomm.gm_eq_one_of_commIsOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:13:53.650665+00:00
 -- url     : https://prove2.me/theorems/bdf7d8c6-bee6-513e-b269-1701f7ba8b37

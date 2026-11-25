@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_split_sphere_count
 -- name    : Formalism.HermitianLatticeCounting.P.split_sphere_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:40:59.790715+00:00
 -- url     : https://prove2.me/theorems/bb505fd4-7280-5fd3-ba94-1cc4bf7358dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_OAdj_e_nsmul1
 -- name    : ReciprocityTheory.PGsh.OAdj.e_nsmul1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:05:57.1189+00:00
 -- url     : https://prove2.me/theorems/68c6320e-022b-4416-afed-07edcc901e49

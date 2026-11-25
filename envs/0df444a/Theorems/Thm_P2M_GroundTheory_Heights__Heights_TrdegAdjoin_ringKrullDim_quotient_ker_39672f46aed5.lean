@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TrdegAdjoin_ringKrullDim_quotient_ker_39672f46aed5
 -- name    : P2M_GroundTheory_Heights__Heights_TrdegAdjoin_ringKrullDim_quotient_ker_39672f46aed5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:49:21.774399+00:00
 -- url     : https://prove2.me/theorems/85dbb4a4-f594-42c3-bfa5-168bc1471f04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscreteSeriesTest_isDS_chi_iff
 -- name    : GlobalTheory.DiscreteSeriesTest.isDS_chi_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:03:52.902625+00:00
 -- url     : https://prove2.me/theorems/65baca26-6a77-570e-9eeb-e354424a19ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isBaseChange_of_eq_res
 -- name    : GlobalTheory.QCoh.isBaseChange_of_eq_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:18:34.095091+00:00
 -- url     : https://prove2.me/theorems/fc2b4335-ed47-4a18-8738-d7b18840830a

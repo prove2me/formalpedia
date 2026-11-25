@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieLoc_exists_univChart_away
 -- name    : GlobalTheory.LieLoc.exists_univChart_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:47:10.350539+00:00
 -- url     : https://prove2.me/theorems/8922f273-0b01-5ec6-af7b-042136ed644d

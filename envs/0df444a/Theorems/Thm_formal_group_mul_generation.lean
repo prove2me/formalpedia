@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_formal_group_mul_generation
 -- name    : formal_group_mul_generation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:14:41.590608+00:00
 -- url     : https://prove2.me/theorems/d8fdf2ed-3d64-4f4c-978e-e2d732bb808c

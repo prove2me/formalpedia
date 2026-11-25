@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_dualLat_spanCols
 -- name    : ReciprocityTheory.PGsh.L2.dualLat_spanCols
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:25:27.606251+00:00
 -- url     : https://prove2.me/theorems/2cb8d310-1fe6-4f7e-9961-49ca2a0b6656

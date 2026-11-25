@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorOpen_exists_open_part
 -- name    : GlobalTheory.SS.TorOpen.exists_open_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:36:19.111159+00:00
 -- url     : https://prove2.me/theorems/2851dd13-2a0e-43ee-8bef-70da3b56f010

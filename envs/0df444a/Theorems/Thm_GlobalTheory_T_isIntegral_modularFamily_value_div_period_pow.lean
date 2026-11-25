@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIntegral_modularFamily_value_div_period_pow
 -- name    : GlobalTheory.T.isIntegral_modularFamily_value_div_period_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:12:35.011557+00:00
 -- url     : https://prove2.me/theorems/4aa13c7d-91e1-4d4b-bc30-00cf8edece03

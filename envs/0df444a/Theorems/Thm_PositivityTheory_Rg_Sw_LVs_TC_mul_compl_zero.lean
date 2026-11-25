@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_mul_compl_zero
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.mul_compl_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:49:11.171012+00:00
 -- url     : https://prove2.me/theorems/524a4d9c-2674-4c4c-a077-d41107bf070a

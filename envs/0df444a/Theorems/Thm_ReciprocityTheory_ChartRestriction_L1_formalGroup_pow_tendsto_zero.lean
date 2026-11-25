@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_formalGroup_pow_tendsto_zero
 -- name    : ReciprocityTheory.ChartRestriction.L1.formalGroup_pow_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:44:51.732057+00:00
 -- url     : https://prove2.me/theorems/ec787e2b-da83-4e1d-84fd-31b26a001655

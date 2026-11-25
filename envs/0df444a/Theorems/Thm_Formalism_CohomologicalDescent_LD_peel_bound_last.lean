@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_peel_bound_last
 -- name    : Formalism.CohomologicalDescent.LD.peel_bound_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:35.574775+00:00
 -- url     : https://prove2.me/theorems/df8dbaf4-6a41-4926-8c74-0fe26d2fa6a3

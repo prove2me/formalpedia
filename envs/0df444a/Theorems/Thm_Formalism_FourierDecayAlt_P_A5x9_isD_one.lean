@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A5x9_isD_one
 -- name    : Formalism.FourierDecayAlt.P.A5x9.isD_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:25:30.05257+00:00
 -- url     : https://prove2.me/theorems/db4d29ca-5ba4-4348-85a8-f00549ca08ce

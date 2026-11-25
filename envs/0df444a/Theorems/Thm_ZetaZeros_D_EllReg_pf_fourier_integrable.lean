@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_pf_fourier_integrable
 -- name    : ZetaZeros.D.EllReg.pf_fourier_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:41.011132+00:00
 -- url     : https://prove2.me/theorems/dd2593d1-e0f9-5bc4-8ec5-315e3f071739

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_bijective_of_lTensor_bijective_of_flat_family
 -- name    : GlobalTheory.T.bijective_of_lTensor_bijective_of_flat_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:26:48.743816+00:00
 -- url     : https://prove2.me/theorems/291f9e1d-c3ab-4c96-9fbf-2f8c00bb8bf8

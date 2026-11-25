@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VerticalGauss_finite_places
 -- name    : GlobalTheory.VerticalGauss.finite_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:54:08.799987+00:00
 -- url     : https://prove2.me/theorems/1f05b19f-24ff-478e-a602-7f1c2d611650

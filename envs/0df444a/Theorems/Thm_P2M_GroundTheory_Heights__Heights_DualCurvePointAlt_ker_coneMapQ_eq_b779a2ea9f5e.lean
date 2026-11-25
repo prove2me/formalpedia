@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_ker_coneMapQ_eq_b779a2ea9f5e
 -- name    : P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_ker_coneMapQ_eq_b779a2ea9f5e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:39:26.835591+00:00
 -- url     : https://prove2.me/theorems/eeb920f7-74c9-4e0b-b998-fb1dadb74631

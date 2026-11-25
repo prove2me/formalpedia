@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_letter_duality
 -- name    : Formalism.FourierDecayAlt.P.letter_duality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:28.009912+00:00
 -- url     : https://prove2.me/theorems/852c0408-ce54-4b0b-af2e-d68e9b6d6900

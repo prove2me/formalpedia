@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_frobOrbitSum
 -- name    : Formalism.IncomingBounds.frobOrbitSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:00.5998+00:00
 -- url     : https://prove2.me/theorems/2b20f999-94d2-5ce3-9414-eb91e0e2860d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_Dec_psi_props
 -- name    : ZetaZeros.D.EllReg.Dec.psi_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:14:08.33187+00:00
 -- url     : https://prove2.me/theorems/c7ad1937-2c17-40b5-8d52-96c7a120a64b

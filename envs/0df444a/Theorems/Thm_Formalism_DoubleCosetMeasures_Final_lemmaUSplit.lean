@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_Final_lemmaUSplit
 -- name    : Formalism.DoubleCosetMeasures.Final.lemmaUSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:24:17.066259+00:00
 -- url     : https://prove2.me/theorems/ad202422-9e8a-4e49-810c-55eb719cdd92

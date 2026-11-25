@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_isCompact_vball
 -- name    : GlobalTheory.BorelUMod.isCompact_vball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:25.370842+00:00
 -- url     : https://prove2.me/theorems/0cb72f74-899a-40b6-ada5-39233590594c

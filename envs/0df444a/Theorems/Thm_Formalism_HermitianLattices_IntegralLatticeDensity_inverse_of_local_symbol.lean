@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_inverse_of_local_symbol
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.inverse_of_local_symbol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:26.081658+00:00
 -- url     : https://prove2.me/theorems/ad214559-4e63-4d0e-89ea-167406f8b368

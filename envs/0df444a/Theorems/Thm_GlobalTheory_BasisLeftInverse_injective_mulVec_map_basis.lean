@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BasisLeftInverse_injective_mulVec_map_basis
 -- name    : GlobalTheory.BasisLeftInverse.injective_mulVec_map_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:56:49.51969+00:00
 -- url     : https://prove2.me/theorems/debaa564-b1f6-4242-9018-fcc6f92e129f

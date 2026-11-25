@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schrodinger_rep_unitary
 -- name    : GlobalTheory.T.schrodinger_rep_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:12.336504+00:00
 -- url     : https://prove2.me/theorems/b925913f-d45a-55d6-ab91-70a0d1b15a42

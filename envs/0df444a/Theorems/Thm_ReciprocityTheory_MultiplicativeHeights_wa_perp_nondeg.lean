@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_wa_perp_nondeg
 -- name    : ReciprocityTheory.MultiplicativeHeights.wa_perp_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:16.267794+00:00
 -- url     : https://prove2.me/theorems/59fa0ab1-0e6c-4636-b426-b8276f38c399

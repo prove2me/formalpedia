@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fromSpecStalk_comp_eq_of_agree_on_closedThickenings
 -- name    : GlobalTheory.T.fromSpecStalk_comp_eq_of_agree_on_closedThickenings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:31:38.532054+00:00
 -- url     : https://prove2.me/theorems/7e631fbd-9aa0-4a95-a39a-bb662c274e4a

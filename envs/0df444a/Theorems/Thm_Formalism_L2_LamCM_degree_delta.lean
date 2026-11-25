@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_degree_delta
 -- name    : Formalism.L2.LamCM.degree_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:48.181343+00:00
 -- url     : https://prove2.me/theorems/6ebfc54a-791e-4fe5-832b-76732c204a20

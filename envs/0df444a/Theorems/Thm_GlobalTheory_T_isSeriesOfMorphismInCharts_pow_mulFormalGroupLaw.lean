@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSeriesOfMorphismInCharts_pow_mulFormalGroupLaw
 -- name    : GlobalTheory.T.isSeriesOfMorphismInCharts_pow_mulFormalGroupLaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:40.120449+00:00
 -- url     : https://prove2.me/theorems/887fd578-5cb8-4c16-9d72-df10374f6c99

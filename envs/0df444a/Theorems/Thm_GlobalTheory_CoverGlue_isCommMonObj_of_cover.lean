@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_isCommMonObj_of_cover
 -- name    : GlobalTheory.CoverGlue.isCommMonObj_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:27:30.172919+00:00
 -- url     : https://prove2.me/theorems/b9873a8d-0803-4c48-ab36-84ab70df82d4

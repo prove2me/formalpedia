@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffGlue_Cech_span_small_eq_top
 -- name    : GlobalTheory.AffGlue.Cech.span_small_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:48:23.668844+00:00
 -- url     : https://prove2.me/theorems/1d45b5c1-8ff7-43ce-9233-6536a504cc6e

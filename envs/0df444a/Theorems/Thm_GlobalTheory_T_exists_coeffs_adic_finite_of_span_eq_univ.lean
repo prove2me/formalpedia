@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_coeffs_adic_finite_of_span_eq_univ
 -- name    : GlobalTheory.T.exists_coeffs_adic_finite_of_span_eq_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:33.874016+00:00
 -- url     : https://prove2.me/theorems/72af2059-1c32-54fd-b54a-f67f9b9e7c0d

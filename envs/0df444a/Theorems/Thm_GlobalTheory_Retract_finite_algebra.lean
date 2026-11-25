@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_finite_algebra
 -- name    : GlobalTheory.Retract.finite_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:19:49.120626+00:00
 -- url     : https://prove2.me/theorems/bb0affb8-f787-5aa6-a66c-30ff374fea7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GSR_rel_exists_w
 -- name    : Formalism.L2.Pj.GSR.rel_exists_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:44:19.462241+00:00
 -- url     : https://prove2.me/theorems/34a0ceb0-4973-4aae-9329-6017d1be0c5d

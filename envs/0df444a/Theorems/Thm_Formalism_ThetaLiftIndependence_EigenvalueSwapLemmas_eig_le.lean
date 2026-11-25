@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ThetaLiftIndependence_EigenvalueSwapLemmas_eig_le
 -- name    : Formalism.ThetaLiftIndependence.EigenvalueSwapLemmas.eig_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:57:29.134242+00:00
 -- url     : https://prove2.me/theorems/c475419a-3592-5266-94dc-73717babc863

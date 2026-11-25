@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bl_CofiniteContinuousBounds_goal1
 -- name    : Bl.CofiniteContinuousBounds.goal1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:16:14.063333+00:00
 -- url     : https://prove2.me/theorems/c0e919b0-0ed1-49d0-ab66-bb40e59ff063

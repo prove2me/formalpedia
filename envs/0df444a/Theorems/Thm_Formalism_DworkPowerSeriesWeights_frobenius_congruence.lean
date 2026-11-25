@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_frobenius_congruence
 -- name    : Formalism.DworkPowerSeriesWeights.frobenius_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:25:32.11933+00:00
 -- url     : https://prove2.me/theorems/51179664-4a8d-40c2-9e2a-77ea26e897a2

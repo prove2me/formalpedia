@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_baseChangeIso_coord
 -- name    : GlobalTheory.ProjSpace.baseChangeIso_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:53.398638+00:00
 -- url     : https://prove2.me/theorems/d75193fd-e59b-5dc0-9d6d-70f2fd47991e

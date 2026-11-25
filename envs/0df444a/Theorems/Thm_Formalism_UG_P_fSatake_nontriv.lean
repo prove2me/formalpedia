@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_nontriv
 -- name    : Formalism.UG.P.fSatake_nontriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:22.036643+00:00
 -- url     : https://prove2.me/theorems/a166d23a-97ac-4942-82d8-17370cbfd1ee

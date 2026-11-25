@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fin_reps_projective_finrank_le_numberField
 -- name    : GlobalTheory.T.exists_fin_reps_projective_finrank_le_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:28:54.455438+00:00
 -- url     : https://prove2.me/theorems/c7ba1d0c-ddef-5ca6-ac4d-0e0633b81bdb

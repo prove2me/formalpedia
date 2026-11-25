@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_valued_v_map_irreducible_eq_ofAdd_neg_one
 -- name    : GlobalTheory.T.valued_v_map_irreducible_eq_ofAdd_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:17.197154+00:00
 -- url     : https://prove2.me/theorems/7c7053d3-d09f-57ed-8858-dc479cb67358

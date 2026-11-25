@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagSecProbe_one_isSec
 -- name    : GlobalTheory.FlagSecProbe.one_isSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:37.690927+00:00
 -- url     : https://prove2.me/theorems/7b75c9a6-76a0-4207-9433-af640e40fbd6

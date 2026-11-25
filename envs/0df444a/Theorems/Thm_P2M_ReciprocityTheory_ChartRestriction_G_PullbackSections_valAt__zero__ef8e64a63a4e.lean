@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_PullbackSections_valAt__zero__ef8e64a63a4e
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_PullbackSections_valAt__zero__ef8e64a63a4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:08:22.279526+00:00
 -- url     : https://prove2.me/theorems/cbea4fcd-3a82-4f17-9bbd-b9bdfe76a3c9

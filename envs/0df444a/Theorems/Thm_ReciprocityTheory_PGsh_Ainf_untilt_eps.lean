@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Ainf_untilt_eps
 -- name    : ReciprocityTheory.PGsh.Ainf.untilt_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:25.796409+00:00
 -- url     : https://prove2.me/theorems/da5a8d23-7418-48dc-b955-127c1c8b605b

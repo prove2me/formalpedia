@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relation_of_finite_levels
 -- name    : GlobalTheory.relation_of_finite_levels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:08:41.460587+00:00
 -- url     : https://prove2.me/theorems/ec3ae4f3-b4e4-4624-ac02-b645915d3361

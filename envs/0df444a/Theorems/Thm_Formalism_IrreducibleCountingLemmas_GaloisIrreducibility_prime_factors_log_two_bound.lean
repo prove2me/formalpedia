@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_prime_factors_log_two_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.prime_factors_log_two_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:43:27.59683+00:00
 -- url     : https://prove2.me/theorems/64e7b65f-a353-5297-9523-102d54443ab3

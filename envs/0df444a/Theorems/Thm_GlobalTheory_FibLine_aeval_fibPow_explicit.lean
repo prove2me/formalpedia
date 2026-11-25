@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibLine_aeval_fibPow_explicit
 -- name    : GlobalTheory.FibLine.aeval_fibPow_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:20.424805+00:00
 -- url     : https://prove2.me/theorems/958d840e-a27f-47c8-a0b7-e2a4593cee74

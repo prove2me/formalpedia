@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamIntAt_exists_inv
 -- name    : GlobalTheory.FamIntAt.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:20:08.89839+00:00
 -- url     : https://prove2.me/theorems/8e5722c8-4015-4f7f-bf56-d83a3e88dcdc

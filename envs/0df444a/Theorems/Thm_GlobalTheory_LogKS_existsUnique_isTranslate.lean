@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogKS_existsUnique_isTranslate
 -- name    : GlobalTheory.LogKS.existsUnique_isTranslate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:16.234155+00:00
 -- url     : https://prove2.me/theorems/43c2149b-9ba1-5a61-b569-111b86fbc688

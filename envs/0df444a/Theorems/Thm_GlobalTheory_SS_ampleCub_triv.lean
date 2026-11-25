@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_ampleCub_triv
 -- name    : GlobalTheory.SS.ampleCub_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:53.343037+00:00
 -- url     : https://prove2.me/theorems/663602b5-1852-4396-97cd-815f77223c6b

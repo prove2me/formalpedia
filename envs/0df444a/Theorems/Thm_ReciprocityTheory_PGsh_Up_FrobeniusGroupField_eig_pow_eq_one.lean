@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_eig_pow_eq_one
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.eig_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:06:35.380731+00:00
 -- url     : https://prove2.me/theorems/7f879361-afd2-53f3-94af-3cde0b83c1e9

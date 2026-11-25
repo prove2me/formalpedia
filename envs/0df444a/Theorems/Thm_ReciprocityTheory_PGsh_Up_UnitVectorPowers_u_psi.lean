@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_UnitVectorPowers_u_psi
 -- name    : ReciprocityTheory.PGsh.Up.UnitVectorPowers.u_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:45.341101+00:00
 -- url     : https://prove2.me/theorems/462a0dc8-5f7a-4829-852c-27662aca17ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_coeff_continuous_rapid_decay
 -- name    : GlobalTheory.T.matrix_coeff_continuous_rapid_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:29.962927+00:00
 -- url     : https://prove2.me/theorems/25c994b8-9a27-4bd4-b0d7-56b5cfbb648e

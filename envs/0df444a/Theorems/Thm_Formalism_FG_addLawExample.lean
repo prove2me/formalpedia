@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_addLawExample
 -- name    : Formalism.FG.addLawExample
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:24:48.075488+00:00
 -- url     : https://prove2.me/theorems/0e10edb4-eafa-510e-a298-be9716dd2c29

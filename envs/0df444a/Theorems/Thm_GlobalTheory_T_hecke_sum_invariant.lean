@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hecke_sum_invariant
 -- name    : GlobalTheory.T.hecke_sum_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:33:02.525632+00:00
 -- url     : https://prove2.me/theorems/0b62989c-0ec3-4ec4-9bd7-b3bf5aff7834

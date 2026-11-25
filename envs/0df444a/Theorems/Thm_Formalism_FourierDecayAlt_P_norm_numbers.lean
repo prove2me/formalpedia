@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_numbers
 -- name    : Formalism.FourierDecayAlt.P.norm_numbers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:34:01.029874+00:00
 -- url     : https://prove2.me/theorems/65deeb01-722e-46e0-a734-249b9c86ca0f

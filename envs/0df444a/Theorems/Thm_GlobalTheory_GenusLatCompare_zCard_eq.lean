@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenusLatCompare_zCard_eq
 -- name    : GlobalTheory.GenusLatCompare.zCard_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:07:12.940356+00:00
 -- url     : https://prove2.me/theorems/ed69f0c9-6bf4-5b8f-9fdb-98c9536e917b

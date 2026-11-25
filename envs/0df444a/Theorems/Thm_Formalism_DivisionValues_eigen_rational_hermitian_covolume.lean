@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_eigen_rational_hermitian_covolume
 -- name    : Formalism.DivisionValues.eigen_rational_hermitian_covolume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:53.108836+00:00
 -- url     : https://prove2.me/theorems/3c882744-0c5f-4f17-9b39-cb2718be844c

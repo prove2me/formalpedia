@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_abs_weilCharacter_det_eq_abs_det_pow
 -- name    : GlobalTheory.T.abs_weilCharacter_det_eq_abs_det_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:17.947857+00:00
 -- url     : https://prove2.me/theorems/cced38e8-0b6f-408d-a43e-38113956e777

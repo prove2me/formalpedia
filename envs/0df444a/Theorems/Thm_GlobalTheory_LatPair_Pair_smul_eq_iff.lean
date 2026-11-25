@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Pair_smul_eq_iff
 -- name    : GlobalTheory.LatPair.Pair.smul_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:13:00.149437+00:00
 -- url     : https://prove2.me/theorems/caa7094f-7c0a-4821-96b9-b7b382581e1a

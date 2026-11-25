@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_vanishingIdeal_eq_one_of_not_isField
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_vanishingIdeal_eq_one_of_not_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:56.985731+00:00
 -- url     : https://prove2.me/theorems/252ee862-2f6d-4f5e-895a-1bb29b89bc3f

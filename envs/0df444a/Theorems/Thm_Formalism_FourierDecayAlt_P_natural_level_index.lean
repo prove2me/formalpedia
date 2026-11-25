@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_natural_level_index
 -- name    : Formalism.FourierDecayAlt.P.natural_level_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:12.23361+00:00
 -- url     : https://prove2.me/theorems/02d2e550-15f6-4af1-bcf2-781c98081f59

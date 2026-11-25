@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gamma_exponent_formula
 -- name    : Formalism.FourierDecayAlt.P.gamma_exponent_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:30:31.532481+00:00
 -- url     : https://prove2.me/theorems/3c431d57-4e8a-4abe-9335-0335dd5a46ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_sign_change_count
 -- name    : Formalism.FourierDecayAlt.P.sign_change_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:20.039801+00:00
 -- url     : https://prove2.me/theorems/ec7d56c5-61aa-488e-bf33-950e497815ec

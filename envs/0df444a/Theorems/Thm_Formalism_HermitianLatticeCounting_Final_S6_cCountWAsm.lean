@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_cCountWAsm
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.cCountWAsm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:37:57.032614+00:00
 -- url     : https://prove2.me/theorems/9d8d7790-72c1-5dcb-a64a-f931032b264d

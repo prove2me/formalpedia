@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_contDiff_compactAverage_of_closed_partials
 -- name    : GlobalTheory.T.contDiff_compactAverage_of_closed_partials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:54.707308+00:00
 -- url     : https://prove2.me/theorems/74f21be6-e85a-4e6f-ace2-d129aaed8afa

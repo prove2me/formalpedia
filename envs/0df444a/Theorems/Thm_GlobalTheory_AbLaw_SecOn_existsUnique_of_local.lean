@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_existsUnique_of_local
 -- name    : GlobalTheory.AbLaw.SecOn.existsUnique_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:35:24.31285+00:00
 -- url     : https://prove2.me/theorems/187c51aa-eb8b-4c4d-9af4-2768a5ed26f0

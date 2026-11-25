@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordToExt_bundle_primitive
 -- name    : GlobalTheory.CoordToExt.bundle_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:24:54.279229+00:00
 -- url     : https://prove2.me/theorems/b7ef0532-70b2-49f6-a1f9-d5d88534f635

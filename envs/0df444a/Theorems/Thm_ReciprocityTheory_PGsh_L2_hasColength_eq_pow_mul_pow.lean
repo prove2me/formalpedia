@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_hasColength_eq_pow_mul_pow
 -- name    : ReciprocityTheory.PGsh.L2.hasColength_eq_pow_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:17.360777+00:00
 -- url     : https://prove2.me/theorems/46aec229-b587-4b6f-98b6-07721bf42d7f

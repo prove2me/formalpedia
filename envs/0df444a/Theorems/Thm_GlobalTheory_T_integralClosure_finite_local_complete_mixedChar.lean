@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integralClosure_finite_local_complete_mixedChar
 -- name    : GlobalTheory.T.integralClosure_finite_local_complete_mixedChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:23:31.43515+00:00
 -- url     : https://prove2.me/theorems/6b28f5e6-7067-45c4-8efa-e1222a571dc7

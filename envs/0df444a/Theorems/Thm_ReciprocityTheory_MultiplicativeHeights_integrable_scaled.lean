@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_integrable_scaled
 -- name    : ReciprocityTheory.MultiplicativeHeights.integrable_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:19.967334+00:00
 -- url     : https://prove2.me/theorems/18e96a12-7ce2-459e-b3b3-91903c6e18fc

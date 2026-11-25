@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_rhF_le_near_zero
 -- name    : GlobalTheory.SharpGradient.rhF_le_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:57:21.526815+00:00
 -- url     : https://prove2.me/theorems/89a2ea63-f98e-40f7-bab0-a8603db825e3

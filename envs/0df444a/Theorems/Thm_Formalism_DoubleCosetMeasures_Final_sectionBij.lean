@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_Final_sectionBij
 -- name    : Formalism.DoubleCosetMeasures.Final.sectionBij
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:24:15.586324+00:00
 -- url     : https://prove2.me/theorems/e8e1ae13-e232-4475-acff-fb598121506c

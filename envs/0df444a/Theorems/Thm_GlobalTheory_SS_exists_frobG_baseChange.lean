@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_frobG_baseChange
 -- name    : GlobalTheory.SS.exists_frobG_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:28:46.334831+00:00
 -- url     : https://prove2.me/theorems/cacbb9c3-2c97-41a3-bed4-1dae620bedd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_v_gamma
 -- name    : ReciprocityTheory.PGsh.Up.U3.v_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:09.303065+00:00
 -- url     : https://prove2.me/theorems/8f0eb9bb-8a85-58de-bc19-ca1f005d23af

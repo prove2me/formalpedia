@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PropDiscCompare_compact_of_local
 -- name    : GlobalTheory.PropDiscCompare.compact_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:46.425718+00:00
 -- url     : https://prove2.me/theorems/059206af-9aa2-4978-b772-a2b8b65607d8

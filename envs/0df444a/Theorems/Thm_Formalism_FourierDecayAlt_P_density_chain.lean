@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_density_chain
 -- name    : Formalism.FourierDecayAlt.P.density_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:42.299279+00:00
 -- url     : https://prove2.me/theorems/dc877003-7866-413d-b616-88fe9e5e7cae

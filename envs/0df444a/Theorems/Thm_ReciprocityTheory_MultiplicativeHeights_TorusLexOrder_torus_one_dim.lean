@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_TorusLexOrder_torus_one_dim
 -- name    : ReciprocityTheory.MultiplicativeHeights.TorusLexOrder.torus_one_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:02:56.923946+00:00
 -- url     : https://prove2.me/theorems/7ed0c1b9-7e55-4155-aba2-b49e681691c9

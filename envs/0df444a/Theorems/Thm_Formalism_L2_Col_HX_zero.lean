@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_HX_zero
 -- name    : Formalism.L2.Col.HX_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:44:15.888278+00:00
 -- url     : https://prove2.me/theorems/3f1b96dd-bc92-5f12-a5cc-5b848325e6f9

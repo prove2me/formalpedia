@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Final_identity_twenty
 -- name    : Formalism.BaseCaseIdentities.Final.identity_twenty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:23:35.544447+00:00
 -- url     : https://prove2.me/theorems/b2060adc-cbd1-45da-8801-8719af21b63c

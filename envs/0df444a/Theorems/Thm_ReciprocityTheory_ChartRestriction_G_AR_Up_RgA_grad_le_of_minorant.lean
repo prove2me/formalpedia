@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_RgA_grad_le_of_minorant
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.RgA.grad_le_of_minorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:03:08.292113+00:00
 -- url     : https://prove2.me/theorems/25ef15a2-03e4-5c17-891b-98834e52b55d

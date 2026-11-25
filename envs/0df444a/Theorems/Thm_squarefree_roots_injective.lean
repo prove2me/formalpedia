@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_squarefree_roots_injective
 -- name    : squarefree_roots_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:16.026365+00:00
 -- url     : https://prove2.me/theorems/2ece3c92-0ccb-4b48-bcd3-00817f30bdae

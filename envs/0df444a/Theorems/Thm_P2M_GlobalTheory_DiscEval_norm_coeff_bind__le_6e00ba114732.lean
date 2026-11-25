@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DiscEval_norm_coeff_bind__le_6e00ba114732
 -- name    : P2M_GlobalTheory_DiscEval_norm_coeff_bind__le_6e00ba114732
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:58:44.483168+00:00
 -- url     : https://prove2.me/theorems/a1282c97-410a-4a84-a2fb-f4aca605a698

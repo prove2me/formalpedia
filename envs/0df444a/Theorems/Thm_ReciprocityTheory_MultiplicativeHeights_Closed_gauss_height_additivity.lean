@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_gauss_height_additivity
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.gauss_height_additivity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:50:33.621855+00:00
 -- url     : https://prove2.me/theorems/402cda23-5ad9-4e82-ac5f-ea7e36944190

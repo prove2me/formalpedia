@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_BoxBounds_exists_box_le
 -- name    : UpperTheory.Reformulated.B.BoxBounds.exists_box_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:12:23.238219+00:00
 -- url     : https://prove2.me/theorems/d95491cc-5f97-43d5-a9bd-3fcf7252eb12

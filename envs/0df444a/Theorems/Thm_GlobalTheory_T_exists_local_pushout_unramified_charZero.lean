@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_local_pushout_unramified_charZero
 -- name    : GlobalTheory.T.exists_local_pushout_unramified_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:19.826573+00:00
 -- url     : https://prove2.me/theorems/3ce10cd4-e233-5c53-89f9-9853effa6aae

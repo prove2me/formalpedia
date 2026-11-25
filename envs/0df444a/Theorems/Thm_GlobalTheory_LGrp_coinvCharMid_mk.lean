@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_coinvCharMid_mk
 -- name    : GlobalTheory.LGrp.coinvCharMid_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:13.850343+00:00
 -- url     : https://prove2.me/theorems/24f2c19d-324e-4a13-a390-b5642637d7ed

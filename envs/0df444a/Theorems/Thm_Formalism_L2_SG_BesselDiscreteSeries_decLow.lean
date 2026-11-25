@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_BesselDiscreteSeries_decLow
 -- name    : Formalism.L2.SG.BesselDiscreteSeries.decLow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:48:23.374455+00:00
 -- url     : https://prove2.me/theorems/dab602dd-c4c1-44a4-8c88-7d8080cc32be

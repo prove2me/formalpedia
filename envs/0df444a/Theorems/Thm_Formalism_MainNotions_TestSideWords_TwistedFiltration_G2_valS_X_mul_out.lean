@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G2_valS_X_mul_out
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.valS_X_mul_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:51:44.552694+00:00
 -- url     : https://prove2.me/theorems/c52c916f-2ab9-5c57-b5b7-9c5d46bdd21c

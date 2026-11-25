@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WindowSums_killerVal_of
 -- name    : Formalism.WindowSums.killerVal_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:12.311468+00:00
 -- url     : https://prove2.me/theorems/ff986e8f-219e-5f0b-bc3d-6e4747f73795

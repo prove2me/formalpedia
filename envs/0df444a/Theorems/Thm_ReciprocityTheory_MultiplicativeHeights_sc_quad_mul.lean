@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sc_quad_mul
 -- name    : ReciprocityTheory.MultiplicativeHeights.sc_quad_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:04:48.747792+00:00
 -- url     : https://prove2.me/theorems/d7dec83a-e9a4-4768-a241-4d0d76494e72

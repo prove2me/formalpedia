@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hilbertSplitLattice_twist_diagonal_coprime
 -- name    : GlobalTheory.T.hilbertSplitLattice_twist_diagonal_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:51.588059+00:00
 -- url     : https://prove2.me/theorems/5423d1d1-b6b9-5536-8d44-88588d13535e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteGenIntegerScalar_exists_int_smul_mem_of_fg
 -- name    : GlobalTheory.FiniteGenIntegerScalar.exists_int_smul_mem_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:07.220576+00:00
 -- url     : https://prove2.me/theorems/c1c2724b-5b90-4b75-afc5-c9b6bdadf593

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_onSum
 -- name    : Formalism.EigenvalueLevelCeiling.onSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:26:57.377884+00:00
 -- url     : https://prove2.me/theorems/172457fe-a316-5f5e-b5f4-e20d053a243b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimSec_isPushout_app
 -- name    : GlobalTheory.PrimSec.isPushout_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:57:35.380003+00:00
 -- url     : https://prove2.me/theorems/1d40f2ae-abcb-4328-93f5-8d680deb0ec3

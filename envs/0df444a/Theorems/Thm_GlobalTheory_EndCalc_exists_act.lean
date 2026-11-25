@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndCalc_exists_act
 -- name    : GlobalTheory.EndCalc.exists_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:56:17.943587+00:00
 -- url     : https://prove2.me/theorems/08147f34-c7d1-486e-80ff-279f262e3d26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_stabilizer_level_profinite
 -- name    : Formalism.HermitianLattices.StabilizerLevels.stabilizer_level_profinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:00:35.736883+00:00
 -- url     : https://prove2.me/theorems/f477243a-607f-5413-aff0-054b120eee47

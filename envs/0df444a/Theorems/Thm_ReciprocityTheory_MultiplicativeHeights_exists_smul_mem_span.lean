@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_exists_smul_mem_span
 -- name    : ReciprocityTheory.MultiplicativeHeights.exists_smul_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:15.47644+00:00
 -- url     : https://prove2.me/theorems/bae5fa2f-4d37-5748-b9ed-239a939f17ce

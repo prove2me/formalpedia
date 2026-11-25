@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LJC_exists_unif
 -- name    : Formalism.LFunctionChainParameters.LJC.exists_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:04:18.682016+00:00
 -- url     : https://prove2.me/theorems/0ed5a081-d95a-441c-8e8c-4f4f8187a9b3

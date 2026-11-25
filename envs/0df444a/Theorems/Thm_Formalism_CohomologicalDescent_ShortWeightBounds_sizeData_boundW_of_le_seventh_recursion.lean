@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_sizeData_boundW_of_le_seventh_recursion
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.sizeData_boundW_of_le_seventh_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:32:20.944912+00:00
 -- url     : https://prove2.me/theorems/68ddd270-3dbd-56d5-b74d-2afbf4337c1f

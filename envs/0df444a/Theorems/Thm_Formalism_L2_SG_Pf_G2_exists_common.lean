@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G2_exists_common
 -- name    : Formalism.L2.SG.Pf.G2.exists_common
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:25.295253+00:00
 -- url     : https://prove2.me/theorems/64c641c0-2868-477b-98d4-2007c5dde895

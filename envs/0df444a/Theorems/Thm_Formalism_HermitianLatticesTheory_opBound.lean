@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_opBound
 -- name    : Formalism.HermitianLatticesTheory.opBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:21.557841+00:00
 -- url     : https://prove2.me/theorems/694f0b8e-76e0-40fe-aeaf-4b33d05f4680

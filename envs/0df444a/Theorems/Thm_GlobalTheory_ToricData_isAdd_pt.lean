@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_isAdd_pt
 -- name    : GlobalTheory.ToricData.isAdd_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:47:35.730649+00:00
 -- url     : https://prove2.me/theorems/9ba82c6c-18fb-5162-a5d9-40b5c6abb912

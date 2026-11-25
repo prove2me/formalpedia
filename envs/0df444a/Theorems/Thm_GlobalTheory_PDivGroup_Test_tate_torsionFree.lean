@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_Test_tate_torsionFree
 -- name    : GlobalTheory.PDivGroup.Test.tate_torsionFree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:47.376298+00:00
 -- url     : https://prove2.me/theorems/ebe92ab0-1f3a-500f-9837-4e547f328c10

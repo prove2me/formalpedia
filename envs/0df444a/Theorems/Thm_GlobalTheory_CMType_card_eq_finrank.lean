@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMType_card_eq_finrank
 -- name    : GlobalTheory.CMType.card_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:40.128485+00:00
 -- url     : https://prove2.me/theorems/f00c23cf-9947-53bb-8613-a35ed086a73b

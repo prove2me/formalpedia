@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_exponent_mul_log_le_choose_mul_log
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.exponent_mul_log_le_choose_mul_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:25:45.654189+00:00
 -- url     : https://prove2.me/theorems/fe22a434-0453-4db3-807d-03b1244d9347

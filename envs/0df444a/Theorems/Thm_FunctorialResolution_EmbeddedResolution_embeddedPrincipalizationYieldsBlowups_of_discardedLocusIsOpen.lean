@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_embeddedPrincipalizationYieldsBlowups_of_discardedLocusIsOpen
 -- name    : FunctorialResolution.EmbeddedResolution.embeddedPrincipalizationYieldsBlowups_of_discardedLocusIsOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:44.256614+00:00
 -- url     : https://prove2.me/theorems/7e76a9d0-b784-4592-aae7-1727ae76851f

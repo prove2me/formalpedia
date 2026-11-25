@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_exists_intChart
 -- name    : GlobalTheory.JetSer.exists_intChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:29.557014+00:00
 -- url     : https://prove2.me/theorems/3983ce88-3326-4b02-ba6d-338aad577cf7

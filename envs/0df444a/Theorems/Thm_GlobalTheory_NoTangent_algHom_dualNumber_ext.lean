@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoTangent_algHom_dualNumber_ext
 -- name    : GlobalTheory.NoTangent.algHom_dualNumber_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:15.695197+00:00
 -- url     : https://prove2.me/theorems/544b4060-34bb-40c0-b201-831ef3c3c5a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_eg_case_ii
 -- name    : DegreeSequences.eg_case_ii
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:06:01.13223+00:00
 -- url     : https://prove2.me/theorems/0293d319-cffc-4c37-b5c5-709920b8f683

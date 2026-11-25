@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_fixedHorizonSignedDrawdownInfimumLaw
 -- name    : Kyprianou.Ch04.fixedHorizonSignedDrawdownInfimumLaw
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T12:32:08.113134+00:00
 -- url     : https://prove2.me/theorems/8725e4d0-8223-4a5b-bd20-cadd42e84579

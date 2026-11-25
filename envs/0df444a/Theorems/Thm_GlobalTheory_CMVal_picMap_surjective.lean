@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_picMap_surjective
 -- name    : GlobalTheory.CMVal.picMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:35.906636+00:00
 -- url     : https://prove2.me/theorems/4a29a038-6770-4788-8f2c-cbf45b8fdd94

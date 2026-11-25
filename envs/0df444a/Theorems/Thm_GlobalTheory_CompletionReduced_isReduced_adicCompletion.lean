@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletionReduced_isReduced_adicCompletion
 -- name    : GlobalTheory.CompletionReduced.isReduced_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:52:33.687731+00:00
 -- url     : https://prove2.me/theorems/510de8ee-a161-5598-b1a1-2bf8cd44f8a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_Misses_mono
 -- name    : ShannonColouring.Misses.mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:02:15.272545+00:00
 -- url     : https://prove2.me/theorems/3c900954-ddc2-4f25-9053-965d30360404

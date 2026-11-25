@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixBall_posDef_iff_norm_lt_one
 -- name    : GlobalTheory.MatrixBall.posDef_iff_norm_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:05.917045+00:00
 -- url     : https://prove2.me/theorems/a8d95fd6-2198-4c5c-91ff-8142ad540634

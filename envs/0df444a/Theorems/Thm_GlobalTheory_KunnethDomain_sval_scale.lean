@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KunnethDomain_sval_scale
 -- name    : GlobalTheory.KunnethDomain.sval_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:07:34.89105+00:00
 -- url     : https://prove2.me/theorems/a72b556e-8c4c-50ea-83e1-4169de19cfe5

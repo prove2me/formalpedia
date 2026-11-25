@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaInversion_chi
 -- name    : GlobalTheory.ThetaInversion.chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:42:24.134348+00:00
 -- url     : https://prove2.me/theorems/94614be3-ed89-4dc4-8eb9-203cc06311cd

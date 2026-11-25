@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_BKDat_Mon_add_phi_sub
 -- name    : GlobalTheory.BK.BKDat.Mon_add_phi_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:56.39474+00:00
 -- url     : https://prove2.me/theorems/bc744362-385b-4dc7-bd59-81a0c2fac5d5

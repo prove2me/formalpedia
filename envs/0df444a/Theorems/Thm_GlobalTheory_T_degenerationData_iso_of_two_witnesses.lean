@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_degenerationData_iso_of_two_witnesses
 -- name    : GlobalTheory.T.degenerationData_iso_of_two_witnesses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:00.093028+00:00
 -- url     : https://prove2.me/theorems/c0bcc1b2-c763-561d-bb52-a96d3432008b

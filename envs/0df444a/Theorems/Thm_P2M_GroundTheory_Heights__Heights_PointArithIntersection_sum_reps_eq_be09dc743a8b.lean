@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointArithIntersection_sum_reps_eq_be09dc743a8b
 -- name    : P2M_GroundTheory_Heights__Heights_PointArithIntersection_sum_reps_eq_be09dc743a8b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:15:34.189587+00:00
 -- url     : https://prove2.me/theorems/521398ff-2b6f-413e-9f6f-b94c22c87af9

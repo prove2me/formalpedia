@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_commutator_mem_kJ_of_pJ
 -- name    : CompanionTheory.D.Upq.commutator_mem_kJ_of_pJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:15:42.031473+00:00
 -- url     : https://prove2.me/theorems/12d350ab-9113-583e-bd1a-3c54f1cfe664

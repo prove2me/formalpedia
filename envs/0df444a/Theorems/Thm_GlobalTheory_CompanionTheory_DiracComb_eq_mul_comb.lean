@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DiracComb_eq_mul_comb
 -- name    : GlobalTheory.CompanionTheory.DiracComb.eq_mul_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:44.472964+00:00
 -- url     : https://prove2.me/theorems/8169b4da-c1cb-47ac-b892-21ab15a26ef8

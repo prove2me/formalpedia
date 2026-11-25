@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_ordCeil
 -- name    : Formalism.LatticeBaseChangeAlt.ordCeil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:50:53.533333+00:00
 -- url     : https://prove2.me/theorems/72022892-fc47-4438-9ceb-8d9547789561

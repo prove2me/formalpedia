@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_isSemiAbelian_of_proper_generic_of_torusExtension
 -- name    : GlobalTheory.SS.isSemiAbelian_of_proper_generic_of_torusExtension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:10:04.577821+00:00
 -- url     : https://prove2.me/theorems/af125093-6e31-459f-8662-474cbb21a7dd

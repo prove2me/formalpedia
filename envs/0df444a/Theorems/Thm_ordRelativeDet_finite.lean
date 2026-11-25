@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ordRelativeDet_finite
 -- name    : ordRelativeDet_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:55.566278+00:00
 -- url     : https://prove2.me/theorems/f62394da-c4e3-4766-94db-11976eab4b8f

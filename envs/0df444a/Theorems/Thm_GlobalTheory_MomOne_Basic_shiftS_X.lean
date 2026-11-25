@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Basic_shiftS_X
 -- name    : GlobalTheory.MomOne.Basic.shiftS_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:07.437556+00:00
 -- url     : https://prove2.me/theorems/21d7b612-e72a-5467-b2e4-699c0f6a2be3

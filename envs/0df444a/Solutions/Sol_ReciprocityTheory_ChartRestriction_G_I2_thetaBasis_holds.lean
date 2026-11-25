@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.I2.thetaBasis_holds
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T16:46:42.693834+00:00
+-- url     : https://prove2.me/submissions/ea646d18-3405-40bb-ae0f-a5448e1c5c14
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_TiledBoundaries_NstatementOf
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_TiledBoundaries_MemSpanBn
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_TiledBoundaries_ETSymmApply
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_TiledBoundaries_MemSpanMap
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_TBNFinal
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_nstatement_of
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_stepD
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_stepDual
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_stepF
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_stepI
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_stepK
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_stepP
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_stepPos
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_stepT
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+namespace ReciprocityTheory.ChartRestriction.G.I2
+theorem _root_.solution : ReciprocityTheory.ChartRestriction.G.I2.NStatement :=
+  ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.nstatement_of ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.stepT ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.stepI ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.stepF ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.stepP ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.stepPos ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.stepDual ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.stepK
+    ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.stepD
+end ReciprocityTheory.ChartRestriction.G.I2

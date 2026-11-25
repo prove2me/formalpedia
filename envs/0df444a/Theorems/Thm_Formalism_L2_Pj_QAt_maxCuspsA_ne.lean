@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_maxCuspsA_ne
 -- name    : Formalism.L2.Pj.QAt.maxCuspsA_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:07.440841+00:00
 -- url     : https://prove2.me/theorems/f76a6a92-1ed3-4fd2-b4ad-888cf0cc8d18

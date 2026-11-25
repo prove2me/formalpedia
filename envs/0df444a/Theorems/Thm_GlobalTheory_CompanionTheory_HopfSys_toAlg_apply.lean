@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HopfSys_toAlg_apply
 -- name    : GlobalTheory.CompanionTheory.HopfSys.toAlg_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:03:20.539986+00:00
 -- url     : https://prove2.me/theorems/03fed26b-14b1-4cc3-a150-4123c7367730

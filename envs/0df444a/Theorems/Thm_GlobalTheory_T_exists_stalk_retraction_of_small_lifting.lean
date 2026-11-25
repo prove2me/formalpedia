@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_stalk_retraction_of_small_lifting
 -- name    : GlobalTheory.T.exists_stalk_retraction_of_small_lifting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:17.047003+00:00
 -- url     : https://prove2.me/theorems/f4d79b66-5dd6-4534-96c0-5d45872e69ff

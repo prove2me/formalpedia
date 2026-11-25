@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Rd_two_mul_rdE_le_cond
 -- name    : UpperTheory.Ram.Rd.two_mul_rdE_le_cond
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:58.090579+00:00
 -- url     : https://prove2.me/theorems/c7dcf6c2-0a19-5708-a8a2-96ccc4deba99

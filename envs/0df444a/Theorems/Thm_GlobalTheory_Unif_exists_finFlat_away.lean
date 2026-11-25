@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unif_exists_finFlat_away
 -- name    : GlobalTheory.Unif.exists_finFlat_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:04:11.225524+00:00
 -- url     : https://prove2.me/theorems/8e89d834-5669-4849-a991-0b06bcbd0c2b

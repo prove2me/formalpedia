@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_wittResidueToRing_finite
 -- name    : Reformulated.AutPerF.wittResidueToRing_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:18.184068+00:00
 -- url     : https://prove2.me/theorems/07f2fa1f-9cf5-517b-8ec0-1e9032685b25

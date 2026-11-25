@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_inStrictNormalCrossingPosition_moveToFront
 -- name    : FunctorialResolution.EmbeddedResolution.inStrictNormalCrossingPosition_moveToFront
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:53:44.599795+00:00
 -- url     : https://prove2.me/theorems/ac977a5d-a3fe-4bc1-9b9b-09bee08969b8

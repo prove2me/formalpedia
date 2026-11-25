@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoLift_exists_equiv
 -- name    : GlobalTheory.IsoLift.exists_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:17:30.331974+00:00
 -- url     : https://prove2.me/theorems/c1e07373-6f54-5db8-bb64-dd93ac8c76a8

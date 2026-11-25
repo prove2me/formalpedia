@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLogBounded_comp_of_logWeight
 -- name    : GlobalTheory.IsLogBounded.comp_of_logWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:31.469005+00:00
 -- url     : https://prove2.me/theorems/98b70f7f-f4fe-48d7-9a84-00cce1a4421b

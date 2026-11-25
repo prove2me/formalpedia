@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_topologicalKrullDim_le_of_forall_ringKrullDim_stalk_le
 -- name    : FunctorialResolution.EmbeddedResolution.topologicalKrullDim_le_of_forall_ringKrullDim_stalk_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:55:29.594936+00:00
 -- url     : https://prove2.me/theorems/cc056cc7-b626-4825-98a8-434f7889c7a9

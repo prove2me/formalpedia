@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_holo_contDiffOn_complex
 -- name    : ReciprocityTheory.L2DbarEstimates.C.holo_contDiffOn_complex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:28:30.22634+00:00
 -- url     : https://prove2.me/theorems/cc1f2ee8-d1cb-4eb5-a229-8cf1eba41e29

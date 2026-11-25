@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapPolyProof_gapPoly
 -- name    : GlobalTheory.CompanionTheory.GapPolyProof.gapPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:01:24.502815+00:00
 -- url     : https://prove2.me/theorems/387d50c2-101e-48a2-b285-1053c41fdd00

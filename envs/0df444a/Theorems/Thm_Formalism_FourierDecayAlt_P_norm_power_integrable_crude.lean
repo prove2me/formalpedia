@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_power_integrable_crude
 -- name    : Formalism.FourierDecayAlt.P.norm_power_integrable_crude
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:35:06.601237+00:00
 -- url     : https://prove2.me/theorems/79c74e7d-debc-49f0-a629-d8b0c55e58ff

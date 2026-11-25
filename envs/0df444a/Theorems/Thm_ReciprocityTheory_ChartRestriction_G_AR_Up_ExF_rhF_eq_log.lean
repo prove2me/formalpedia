@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExF_rhF_eq_log
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExF.rhF_eq_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:18:56.663825+00:00
 -- url     : https://prove2.me/theorems/62a350cc-22c6-4f82-ab42-c0bf2c092a22

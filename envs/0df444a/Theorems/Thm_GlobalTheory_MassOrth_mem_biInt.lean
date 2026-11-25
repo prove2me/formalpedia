@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassOrth_mem_biInt
 -- name    : GlobalTheory.MassOrth.mem_biInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:22.835587+00:00
 -- url     : https://prove2.me/theorems/9bae54d3-a688-4405-8a11-e2065e6f3ac8

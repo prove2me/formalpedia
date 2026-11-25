@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelIndexOfMap_main
 -- name    : GlobalTheory.RelIndexOfMap.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:20:15.535222+00:00
 -- url     : https://prove2.me/theorems/01d661c1-2edb-416c-986b-ad2ebe63f642

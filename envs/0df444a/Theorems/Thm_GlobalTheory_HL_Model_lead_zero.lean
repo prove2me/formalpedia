@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_lead_zero
 -- name    : GlobalTheory.HL.Model.lead_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:25.201941+00:00
 -- url     : https://prove2.me/theorems/d3c2428a-ef59-48bb-818f-1ed4f14352ce

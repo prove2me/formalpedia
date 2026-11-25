@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCover_levelMap_over_field
 -- name    : GlobalTheory.LevelCover.levelMap_over_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:03:25.257674+00:00
 -- url     : https://prove2.me/theorems/7fe5074b-bedb-4e78-87f9-3def085589bb

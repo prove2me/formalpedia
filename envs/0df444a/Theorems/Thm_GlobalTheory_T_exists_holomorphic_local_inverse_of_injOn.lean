@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_holomorphic_local_inverse_of_injOn
 -- name    : GlobalTheory.T.exists_holomorphic_local_inverse_of_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:22.654223+00:00
 -- url     : https://prove2.me/theorems/6da8c6cc-7a7f-490f-bdaa-5ad3837206e5

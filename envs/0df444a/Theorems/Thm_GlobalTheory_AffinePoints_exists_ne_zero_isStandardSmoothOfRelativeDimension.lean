@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_exists_ne_zero_isStandardSmoothOfRelativeDimension
 -- name    : GlobalTheory.AffinePoints.exists_ne_zero_isStandardSmoothOfRelativeDimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:56:26.188592+00:00
 -- url     : https://prove2.me/theorems/98b6ee8f-d5fc-4556-92d9-10df8d99cb0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_grLat_mono
 -- name    : GlobalTheory.HTLat.grLat_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:42.065798+00:00
 -- url     : https://prove2.me/theorems/a91433b1-56d0-4515-ac79-907b9f1d5f60

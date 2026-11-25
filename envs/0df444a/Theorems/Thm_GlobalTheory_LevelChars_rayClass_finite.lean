@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelChars_rayClass_finite
 -- name    : GlobalTheory.LevelChars.rayClass_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:42:42.206259+00:00
 -- url     : https://prove2.me/theorems/70aae695-648f-49c4-a3dc-358dc9581829

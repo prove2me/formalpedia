@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymAlg_mapOver_injective
 -- name    : GlobalTheory.SymAlg.mapOver_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:24:47.26416+00:00
 -- url     : https://prove2.me/theorems/5849cd9c-c5a1-5f6d-8c99-915239c606aa

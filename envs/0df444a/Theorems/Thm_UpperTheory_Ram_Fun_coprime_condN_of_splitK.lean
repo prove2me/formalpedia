@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Fun_coprime_condN_of_splitK
 -- name    : UpperTheory.Ram.Fun.coprime_condN_of_splitK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:22.993354+00:00
 -- url     : https://prove2.me/theorems/af481d85-6c0a-54d4-99f2-9a5801279b7c

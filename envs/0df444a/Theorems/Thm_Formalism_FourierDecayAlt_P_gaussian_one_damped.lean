@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gaussian_one_damped
 -- name    : Formalism.FourierDecayAlt.P.gaussian_one_damped
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:30:53.307055+00:00
 -- url     : https://prove2.me/theorems/f46f9430-30bd-4e17-830d-3f1baa47c426

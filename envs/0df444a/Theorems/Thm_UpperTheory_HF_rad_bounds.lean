@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_rad_bounds
 -- name    : UpperTheory.HF.rad_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:11.649749+00:00
 -- url     : https://prove2.me/theorems/f49bacda-fea9-44e5-b726-00bb85ea437f

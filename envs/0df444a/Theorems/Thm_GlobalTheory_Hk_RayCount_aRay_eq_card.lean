@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCount_aRay_eq_card
 -- name    : GlobalTheory.Hk.RayCount.aRay_eq_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:32.451879+00:00
 -- url     : https://prove2.me/theorems/18ba65c9-69d0-47b7-bc82-fcfac97442e3

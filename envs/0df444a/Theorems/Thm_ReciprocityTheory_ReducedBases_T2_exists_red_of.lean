@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_exists_red_of
 -- name    : ReciprocityTheory.ReducedBases.T2.exists_red_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:33:32.223798+00:00
 -- url     : https://prove2.me/theorems/ecc9e2ac-f999-4b30-a4c7-e32d9ecd8e09

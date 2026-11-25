@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_HodgeTateCharacterSystems_IsPadicCompleteSetting_exists_isPrimitiveRoot
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.HodgeTateCharacterSystems.IsPadicCompleteSetting.exists_isPrimitiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:58.973959+00:00
 -- url     : https://prove2.me/theorems/603e9fe3-ec46-5664-8bcd-d2fa874ba2ff

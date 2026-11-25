@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_frChartF_of
 -- name    : Formalism.L2.Pj.frChartF_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:47:37.538134+00:00
 -- url     : https://prove2.me/theorems/d92648a2-daeb-4a1f-87c5-3d058d0a49ca

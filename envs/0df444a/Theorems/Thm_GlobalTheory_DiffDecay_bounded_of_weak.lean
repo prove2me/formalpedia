@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffDecay_bounded_of_weak
 -- name    : GlobalTheory.DiffDecay.bounded_of_weak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:22.249448+00:00
 -- url     : https://prove2.me/theorems/5c8b63c8-75cc-47ba-893d-6d7e211f397b

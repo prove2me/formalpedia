@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_fockCas_of
 -- name    : Formalism.REAL.fockCas_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:00.11967+00:00
 -- url     : https://prove2.me/theorems/a36c5a35-976f-4208-8346-ccde26b5ec0b

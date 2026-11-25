@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NodalCubic_unitOf_injective
 -- name    : GlobalTheory.NodalCubic.unitOf_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:05:59.83433+00:00
 -- url     : https://prove2.me/theorems/dbced6e9-44cb-4a78-83e6-fc3ac9968c91

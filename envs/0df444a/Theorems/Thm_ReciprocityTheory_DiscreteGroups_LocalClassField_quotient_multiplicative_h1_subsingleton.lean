@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_quotient_multiplicative_h1_subsingleton
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.quotient_multiplicative_h1_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:36.998925+00:00
 -- url     : https://prove2.me/theorems/8ac64adf-a1c9-4423-b6ff-13cea62d5eea

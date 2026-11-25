@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TargetLemmaCollection_target
 -- name    : GlobalTheory.TargetLemmaCollection.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:40:23.871528+00:00
 -- url     : https://prove2.me/theorems/22e00ead-3d38-598e-9118-a3850b5cb668

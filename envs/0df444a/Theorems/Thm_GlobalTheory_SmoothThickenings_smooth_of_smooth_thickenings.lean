@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothThickenings_smooth_of_smooth_thickenings
 -- name    : GlobalTheory.SmoothThickenings.smooth_of_smooth_thickenings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:04:29.276487+00:00
 -- url     : https://prove2.me/theorems/9b770ce1-7bd0-4aad-9c4d-dfb5140960d4

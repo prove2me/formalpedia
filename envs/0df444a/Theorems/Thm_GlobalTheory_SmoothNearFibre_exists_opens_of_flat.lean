@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothNearFibre_exists_opens_of_flat
 -- name    : GlobalTheory.SmoothNearFibre.exists_opens_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:40:46.036257+00:00
 -- url     : https://prove2.me/theorems/ab928770-efca-4336-87ac-3c15ca0c1e6d

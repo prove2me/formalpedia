@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagSecProbe_weight_eq_zero_of_one_isSec
 -- name    : GlobalTheory.FlagSecProbe.weight_eq_zero_of_one_isSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:23.786794+00:00
 -- url     : https://prove2.me/theorems/771efa0f-8741-4229-9284-f069d5f735ee

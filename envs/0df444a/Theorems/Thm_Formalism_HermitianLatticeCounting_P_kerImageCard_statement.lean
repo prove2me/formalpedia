@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_kerImageCard_statement
 -- name    : Formalism.HermitianLatticeCounting.P.kerImageCard_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:40:19.054409+00:00
 -- url     : https://prove2.me/theorems/f4593b24-9cd9-4060-8b1e-09553845b922

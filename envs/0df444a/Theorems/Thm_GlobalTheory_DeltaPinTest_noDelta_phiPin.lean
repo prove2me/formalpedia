@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeltaPinTest_noDelta_phiPin
 -- name    : GlobalTheory.DeltaPinTest.noDelta_phiPin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:28.711853+00:00
 -- url     : https://prove2.me/theorems/498ba315-41aa-4ab1-8b7a-bc30ba5f474e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_isClopen_setOf_rankAtStalk_eq
 -- name    : GlobalTheory.EigenSplit.isClopen_setOf_rankAtStalk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:12.663841+00:00
 -- url     : https://prove2.me/theorems/4efc5ba1-346d-526b-9c3a-dde9d5c9419d

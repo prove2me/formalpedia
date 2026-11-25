@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_MajH_key_ineq
 -- name    : UnipMove.MajH.key_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:11:45.857493+00:00
 -- url     : https://prove2.me/theorems/3f6a068f-d160-41b5-a22d-4cd26f505ea8

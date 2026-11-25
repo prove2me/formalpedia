@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_Inhab_trivial_gl2_not_generic
 -- name    : Formalism.L2.SG.GGMirabolic.Inhab.trivial_gl2_not_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:50:42.244687+00:00
 -- url     : https://prove2.me/theorems/3356afc1-a312-464e-9549-2074005fdce5

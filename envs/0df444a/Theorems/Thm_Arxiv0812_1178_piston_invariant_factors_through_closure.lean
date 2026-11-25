@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0812_1178_piston_invariant_factors_through_closure
 -- name    : Arxiv0812_1178.piston_invariant_factors_through_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:49:02.407437+00:00
 -- url     : https://prove2.me/theorems/6fe14141-13d4-4d0c-89ce-c7e62661069d

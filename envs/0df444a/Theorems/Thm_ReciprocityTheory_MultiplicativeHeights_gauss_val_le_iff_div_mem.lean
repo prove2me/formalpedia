@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gauss_val_le_iff_div_mem
 -- name    : ReciprocityTheory.MultiplicativeHeights.gauss_val_le_iff_div_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:06.631944+00:00
 -- url     : https://prove2.me/theorems/800d35e1-e8e3-5679-9a07-9c905ea443c3

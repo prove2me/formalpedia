@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_norm_natCast_p_Kloc
 -- name    : ReciprocityTheory.Neutral.Cmp.norm_natCast_p_Kloc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:44.139298+00:00
 -- url     : https://prove2.me/theorems/b85a7cd7-99f7-4c5b-8bfd-f43357d97de2

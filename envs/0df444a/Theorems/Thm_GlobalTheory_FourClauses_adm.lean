@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourClauses_adm
 -- name    : GlobalTheory.FourClauses.adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:57.567501+00:00
 -- url     : https://prove2.me/theorems/3a8be8ae-8806-4477-a9cb-115925af161f

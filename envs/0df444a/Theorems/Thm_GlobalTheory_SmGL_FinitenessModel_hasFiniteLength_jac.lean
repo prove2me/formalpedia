@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_FinitenessModel_hasFiniteLength_jac
 -- name    : GlobalTheory.SmGL.FinitenessModel.hasFiniteLength_jac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:23:44.829798+00:00
 -- url     : https://prove2.me/theorems/612f4145-87a4-5093-97dd-86bfa791ac79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_ip_conj
 -- name    : GlobalTheory.CompanionTheory.FinHeis.ip_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:00:38.136123+00:00
 -- url     : https://prove2.me/theorems/5363d9b2-5244-5dfd-ae00-47b83a91465b

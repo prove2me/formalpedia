@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_map_equiv_baseChange
 -- name    : GlobalTheory.GaloisDescent.map_equiv_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:06.765095+00:00
 -- url     : https://prove2.me/theorems/ec093d05-797f-5e16-8778-25afa3490241

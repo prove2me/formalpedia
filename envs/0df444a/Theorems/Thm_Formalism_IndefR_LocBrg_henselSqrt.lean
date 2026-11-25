@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LocBrg_henselSqrt
 -- name    : Formalism.IndefR.LocBrg.henselSqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:41:55.060639+00:00
 -- url     : https://prove2.me/theorems/ef3f2921-bb7f-4707-9350-9f392946d4f0

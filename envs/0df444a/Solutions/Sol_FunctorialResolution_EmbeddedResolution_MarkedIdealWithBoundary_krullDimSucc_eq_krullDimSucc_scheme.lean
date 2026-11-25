@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.MarkedIdealWithBoundary.krullDimSucc_eq_krullDimSucc_scheme
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T17:30:18.7893+00:00
+-- url     : https://prove2.me/submissions/5000652e-07a6-48c0-827d-310cbb1ac003
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_BlowupSequenceBasic
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_StrictTransform
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealSheafOrder
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MarkedBlowupSequence_IdealBlowupSequence
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MarkedBlowupSequence_MarkedSequenceOfBlowups
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open CategoryTheory CategoryTheory.Limits Opposite AlgebraicGeometry TopologicalSpace
+noncomputable section
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+attribute [instance] MarkedIdealWithBoundary.instField
+namespace FunctorialResolution.EmbeddedResolution
+namespace MarkedIdealWithBoundary
+theorem _root_.solution (T : MarkedIdealWithBoundary.{u}) : T.krullDimSucc = EmbeddedResolution.krullDimSucc T.scheme := rfl
+end MarkedIdealWithBoundary
+end FunctorialResolution.EmbeddedResolution

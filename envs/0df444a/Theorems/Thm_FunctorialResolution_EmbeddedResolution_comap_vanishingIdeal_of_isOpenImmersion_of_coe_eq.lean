@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_comap_vanishingIdeal_of_isOpenImmersion_of_coe_eq
 -- name    : FunctorialResolution.EmbeddedResolution.comap_vanishingIdeal_of_isOpenImmersion_of_coe_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:07.675612+00:00
 -- url     : https://prove2.me/theorems/8a84826c-052f-4e42-a202-d6c5975ff6c9

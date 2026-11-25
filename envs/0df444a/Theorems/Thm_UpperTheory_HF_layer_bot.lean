@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_layer_bot
 -- name    : UpperTheory.HF.layer_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:28:13.249325+00:00
 -- url     : https://prove2.me/theorems/168eaf0d-ddf6-43fd-9433-f9aa8140c320

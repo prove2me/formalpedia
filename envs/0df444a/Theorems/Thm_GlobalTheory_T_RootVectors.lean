@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_RootVectors
 -- name    : GlobalTheory.T.RootVectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:34:35.20193+00:00
 -- url     : https://prove2.me/theorems/98a2046a-9a25-4ac9-a88d-bb0427091a89

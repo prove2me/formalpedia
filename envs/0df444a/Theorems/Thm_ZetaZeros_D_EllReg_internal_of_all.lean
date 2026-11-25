@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_internal_of_all
 -- name    : ZetaZeros.D.EllReg.internal_of_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:39.113853+00:00
 -- url     : https://prove2.me/theorems/816f2b33-2cd3-401e-9a4f-479c6706aa2c

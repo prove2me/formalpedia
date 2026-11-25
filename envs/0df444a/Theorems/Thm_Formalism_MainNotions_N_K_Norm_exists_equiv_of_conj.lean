@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_exists_equiv_of_conj
 -- name    : Formalism.MainNotions.N.K.Norm.exists_equiv_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:07.261506+00:00
 -- url     : https://prove2.me/theorems/620a02ec-510a-45cd-a2eb-190183409028

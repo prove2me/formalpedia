@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_GL_card_mul_delta_le_err
 -- name    : UpperTheory.GL.card_mul_delta_le_err
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:09.143459+00:00
 -- url     : https://prove2.me/theorems/910909f8-6f18-5a20-abb8-bf3ab0445a59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_lintegral_weight_fourier_le
 -- name    : ZetaZeros.D.EllReg.lintegral_weight_fourier_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:14:06.649977+00:00
 -- url     : https://prove2.me/theorems/542d0db4-165c-40d6-a074-8f02a65d9a38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartJet_pj_X
 -- name    : GlobalTheory.ChartJet.pj_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:36:22.488778+00:00
 -- url     : https://prove2.me/theorems/7f28598f-6d0b-4928-b383-1be5073e765d

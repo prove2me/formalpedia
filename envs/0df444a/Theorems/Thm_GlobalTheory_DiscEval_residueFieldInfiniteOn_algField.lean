@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_residueFieldInfiniteOn_algField
 -- name    : GlobalTheory.DiscEval.residueFieldInfiniteOn_algField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:56:02.139261+00:00
 -- url     : https://prove2.me/theorems/5a268379-9047-5bf9-963c-5c4db2432930

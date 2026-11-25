@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Sig_exists_minimal_below
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Sig.exists_minimal_below
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:46:59.543045+00:00
 -- url     : https://prove2.me/theorems/9de25017-d525-569b-8270-52a3afddef38

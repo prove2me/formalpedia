@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_exists_net_card_le
 -- name    : GlobalTheory.FrameNet.exists_net_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:38:23.708168+00:00
 -- url     : https://prove2.me/theorems/31a3b837-c457-49b3-8b7a-ccf28cbb620d

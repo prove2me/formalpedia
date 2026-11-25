@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_unrChar_uniformiser
 -- name    : GlobalTheory.LGrp.unrChar_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:09.819723+00:00
 -- url     : https://prove2.me/theorems/701f5bc3-d66c-474c-a11d-e0b35473f60a

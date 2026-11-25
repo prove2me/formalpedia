@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_chTwo_eq
 -- name    : GlobalTheory.HermFrame.chTwo_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:07:05.885133+00:00
 -- url     : https://prove2.me/theorems/eb1e6a8c-81f9-4457-bf77-8f6eb1c69a59

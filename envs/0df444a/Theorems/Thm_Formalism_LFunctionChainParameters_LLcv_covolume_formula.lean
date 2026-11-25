@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_covolume_formula
 -- name    : Formalism.LFunctionChainParameters.LLcv.covolume_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:50:59.625954+00:00
 -- url     : https://prove2.me/theorems/14790526-b8cc-496d-9f34-1f46210274d6

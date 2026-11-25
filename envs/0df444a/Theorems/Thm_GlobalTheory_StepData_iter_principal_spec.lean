@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_iter_principal_spec
 -- name    : GlobalTheory.StepData.iter_principal_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:24:49.01992+00:00
 -- url     : https://prove2.me/theorems/faf86a76-ee0f-5a59-aea6-d41db6e74274

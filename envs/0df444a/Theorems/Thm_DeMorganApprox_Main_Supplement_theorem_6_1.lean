@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeMorganApprox_Main_Supplement_theorem_6_1
 -- name    : DeMorganApprox.Main.Supplement.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-15T20:45:33.006581+00:00
 -- url     : https://prove2.me/theorems/8994f532-5218-49f6-a8c4-3c8a5ab09648

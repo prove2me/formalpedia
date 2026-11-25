@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_integral_trivial
 -- name    : GlobalTheory.Reg.Transfer.integral_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:40.649873+00:00
 -- url     : https://prove2.me/theorems/0fafd7b9-8c94-4df6-b79e-ed433b5123d2

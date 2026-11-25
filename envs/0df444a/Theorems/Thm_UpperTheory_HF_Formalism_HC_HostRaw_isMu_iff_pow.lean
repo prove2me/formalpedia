@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostRaw_isMu_iff_pow
 -- name    : UpperTheory.HF.Formalism.HC.HostRaw.isMu_iff_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:13:50.937054+00:00
 -- url     : https://prove2.me/theorems/ce0cb2d7-87c6-4588-b70f-c87294407ce1

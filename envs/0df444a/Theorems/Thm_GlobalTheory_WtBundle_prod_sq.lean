@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WtBundle_prod_sq
 -- name    : GlobalTheory.WtBundle.prod_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:00:27.322965+00:00
 -- url     : https://prove2.me/theorems/ba1949be-7044-44e2-bd1f-0dc1892efe58

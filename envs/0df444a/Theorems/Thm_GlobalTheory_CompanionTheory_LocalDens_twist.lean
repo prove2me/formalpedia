@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_twist
 -- name    : GlobalTheory.CompanionTheory.LocalDens.twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:53.920877+00:00
 -- url     : https://prove2.me/theorems/6d32aabb-60bc-4972-b5b0-9cab4f29f922

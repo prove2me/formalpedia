@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_eq_sum_mul_of_isDomain
 -- name    : GlobalTheory.exists_smul_eq_sum_mul_of_isDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:00:42.199621+00:00
 -- url     : https://prove2.me/theorems/17cffc2c-be28-4c49-aebe-4c7cced5c623

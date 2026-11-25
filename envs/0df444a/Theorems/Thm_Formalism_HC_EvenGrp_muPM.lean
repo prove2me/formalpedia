@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_muPM
 -- name    : Formalism.HC.EvenGrp.muPM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:38:05.160298+00:00
 -- url     : https://prove2.me/theorems/8e2c291f-0a55-470b-b037-01d57e210fb4

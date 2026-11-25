@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_snc_resolution_local_chart_polynomial
 -- name    : GlobalTheory.T.snc_resolution_local_chart_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:34:11.134941+00:00
 -- url     : https://prove2.me/theorems/55a7cb6c-7895-4e11-b3b4-073c8ec8ee70

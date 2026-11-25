@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PandoraKnapsack_Skipping_lemma_5_3
 -- name    : PandoraKnapsack.Skipping.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T00:25:29.871084+00:00
 -- url     : https://prove2.me/theorems/ed19abf6-11ba-49b3-804c-0819f700735f

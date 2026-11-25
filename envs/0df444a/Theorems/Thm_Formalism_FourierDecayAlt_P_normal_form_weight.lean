@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_normal_form_weight
 -- name    : Formalism.FourierDecayAlt.P.normal_form_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:34:44.759423+00:00
 -- url     : https://prove2.me/theorems/84b92b35-070d-4031-a07b-38d15bdd860f

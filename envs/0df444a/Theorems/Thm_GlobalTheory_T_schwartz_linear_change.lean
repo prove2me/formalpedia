@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_linear_change
 -- name    : GlobalTheory.T.schwartz_linear_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:02.373341+00:00
 -- url     : https://prove2.me/theorems/0d9c306c-a596-5804-9a2e-2ec71ff3f596

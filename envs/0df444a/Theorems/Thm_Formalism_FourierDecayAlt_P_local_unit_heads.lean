@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_local_unit_heads
 -- name    : Formalism.FourierDecayAlt.P.local_unit_heads
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:33:27.15681+00:00
 -- url     : https://prove2.me/theorems/41e6959a-be2b-58a8-945d-4d7a1a073c64

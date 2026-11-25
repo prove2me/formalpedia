@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_galois_action_preserves_sha
 -- name    : UpperTheory.V.galois_action_preserves_sha
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:58.984393+00:00
 -- url     : https://prove2.me/theorems/cc3be06c-b6a3-4add-a369-801e24097122

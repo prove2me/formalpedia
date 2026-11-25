@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_border_from_expansions
 -- name    : Formalism.FourierDecayAlt.P.border_from_expansions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:31:05.021399+00:00
 -- url     : https://prove2.me/theorems/92e4c989-41fc-4922-a502-7803728b3613

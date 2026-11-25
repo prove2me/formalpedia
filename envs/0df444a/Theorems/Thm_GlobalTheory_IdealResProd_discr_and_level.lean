@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealResProd_discr_and_level
 -- name    : GlobalTheory.IdealResProd.discr_and_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:48.375703+00:00
 -- url     : https://prove2.me/theorems/c0a936a4-f579-430f-a627-fb2ca50e9e49

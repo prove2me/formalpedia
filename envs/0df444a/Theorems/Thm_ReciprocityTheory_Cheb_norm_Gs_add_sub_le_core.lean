@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_norm_Gs_add_sub_le_core
 -- name    : ReciprocityTheory.Cheb.norm_Gs_add_sub_le_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:48:05.03162+00:00
 -- url     : https://prove2.me/theorems/3f0d0c4d-8db8-5747-a7f1-5d4ea71cbc6e

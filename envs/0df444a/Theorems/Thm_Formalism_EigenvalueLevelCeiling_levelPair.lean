@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_levelPair
 -- name    : Formalism.EigenvalueLevelCeiling.levelPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:05.943952+00:00
 -- url     : https://prove2.me/theorems/74ef9c26-99d4-5b81-a871-b85ff9da159f

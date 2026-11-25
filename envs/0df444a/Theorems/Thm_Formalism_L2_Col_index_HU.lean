@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_index_HU
 -- name    : Formalism.L2.Col.index_HU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:51:51.518796+00:00
 -- url     : https://prove2.me/theorems/7e07b6bb-7e40-5cf6-933f-d04ed56e95fd

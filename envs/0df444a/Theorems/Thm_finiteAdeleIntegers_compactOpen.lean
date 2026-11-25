@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finiteAdeleIntegers_compactOpen
 -- name    : finiteAdeleIntegers_compactOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:14:34.764489+00:00
 -- url     : https://prove2.me/theorems/f147ece7-8487-4e22-9982-94411f703991

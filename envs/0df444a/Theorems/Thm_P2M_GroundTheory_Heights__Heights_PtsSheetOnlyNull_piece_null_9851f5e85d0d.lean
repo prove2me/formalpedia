@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsSheetOnlyNull_piece_null_9851f5e85d0d
 -- name    : P2M_GroundTheory_Heights__Heights_PtsSheetOnlyNull_piece_null_9851f5e85d0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:57:26.554428+00:00
 -- url     : https://prove2.me/theorems/b63ccffc-646f-4410-8cc7-2c81c18ec059

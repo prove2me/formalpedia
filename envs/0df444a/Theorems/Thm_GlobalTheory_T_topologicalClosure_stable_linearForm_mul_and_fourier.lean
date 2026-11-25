@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_topologicalClosure_stable_linearForm_mul_and_fourier
 -- name    : GlobalTheory.T.topologicalClosure_stable_linearForm_mul_and_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:39:43.783076+00:00
 -- url     : https://prove2.me/theorems/ff3f7b25-a19a-56d2-8c7e-a161d76055ea

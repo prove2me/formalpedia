@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_isCond_condN
 -- name    : UpperTheory.Ram.isCond_condN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:25:05.57392+00:00
 -- url     : https://prove2.me/theorems/b65e1058-d3ad-574b-883d-d3169f6c9e47

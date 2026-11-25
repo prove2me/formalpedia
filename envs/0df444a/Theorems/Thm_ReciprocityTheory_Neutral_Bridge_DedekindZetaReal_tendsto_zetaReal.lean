@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_DedekindZetaReal_tendsto_zetaReal
 -- name    : ReciprocityTheory.Neutral.Bridge.DedekindZetaReal.tendsto_zetaReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:18.705203+00:00
 -- url     : https://prove2.me/theorems/43453bed-7f15-5664-a365-2d76f7b7199c

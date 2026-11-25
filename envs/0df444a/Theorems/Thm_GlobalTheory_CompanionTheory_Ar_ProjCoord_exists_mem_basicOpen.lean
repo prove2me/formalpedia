@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_ProjCoord_exists_mem_basicOpen
 -- name    : GlobalTheory.CompanionTheory.Ar.ProjCoord.exists_mem_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:15.204464+00:00
 -- url     : https://prove2.me/theorems/813f680c-b504-5bac-bee0-51dd622d9c9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_germ_expansion_top_count
 -- name    : Formalism.FourierDecayAlt.P.germ_expansion_top_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:44:38.466109+00:00
 -- url     : https://prove2.me/theorems/37f8fc5d-07bf-4b7a-ae00-f3a7485af599

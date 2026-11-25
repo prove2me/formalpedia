@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_closedImmersion_represents_of_affineOpens_alt
 -- name    : GlobalTheory.T.exists_closedImmersion_represents_of_affineOpens_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:48.793861+00:00
 -- url     : https://prove2.me/theorems/7db59b77-4ceb-5933-b9b9-9242526be16e

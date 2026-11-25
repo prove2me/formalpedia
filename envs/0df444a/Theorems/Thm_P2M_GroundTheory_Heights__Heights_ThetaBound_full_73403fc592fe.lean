@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ThetaBound_full_73403fc592fe
 -- name    : P2M_GroundTheory_Heights__Heights_ThetaBound_full_73403fc592fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:45:09.269115+00:00
 -- url     : https://prove2.me/theorems/9b2176e6-6adb-48ff-8a5c-25b272393af5

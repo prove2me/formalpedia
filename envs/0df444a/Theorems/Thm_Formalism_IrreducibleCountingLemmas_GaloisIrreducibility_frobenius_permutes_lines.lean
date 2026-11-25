@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_frobenius_permutes_lines
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.frobenius_permutes_lines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:43:26.746834+00:00
 -- url     : https://prove2.me/theorems/b4167e9e-b588-44be-b803-9a23f8ca954d

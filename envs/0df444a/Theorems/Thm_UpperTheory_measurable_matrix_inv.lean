@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_measurable_matrix_inv
 -- name    : UpperTheory.measurable_matrix_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:45.842839+00:00
 -- url     : https://prove2.me/theorems/dd98b87a-1f45-44fb-90ab-790680f30851

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_detachedClosure_coe
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.detachedClosure_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:54:38.885929+00:00
 -- url     : https://prove2.me/theorems/17c57db0-49a2-5b63-8fd8-e5bd2af1fcf6

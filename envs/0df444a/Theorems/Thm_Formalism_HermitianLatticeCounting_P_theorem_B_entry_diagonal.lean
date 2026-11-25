@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_theorem_B_entry_diagonal
 -- name    : Formalism.HermitianLatticeCounting.P.theorem_B_entry_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:46.609985+00:00
 -- url     : https://prove2.me/theorems/5d73229e-a45b-449b-bdd2-d2dae0502153

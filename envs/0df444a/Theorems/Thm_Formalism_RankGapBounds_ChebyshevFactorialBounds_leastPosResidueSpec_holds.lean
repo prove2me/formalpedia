@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_ChebyshevFactorialBounds_leastPosResidueSpec_holds
 -- name    : Formalism.RankGapBounds.ChebyshevFactorialBounds.leastPosResidueSpec_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:02.635569+00:00
 -- url     : https://prove2.me/theorems/b01b5e79-6133-483f-b545-3a8a4008eada

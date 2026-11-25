@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_etale_coordinates_differentials
 -- name    : GlobalTheory.T.etale_coordinates_differentials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:28:44.282781+00:00
 -- url     : https://prove2.me/theorems/0c250ed3-3ffc-4a7c-994c-f64fe01f7a5c

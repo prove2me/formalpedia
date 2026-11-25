@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_quasicoherent_local
 -- name    : GlobalTheory.QCoh.quasicoherent_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:18:39.937797+00:00
 -- url     : https://prove2.me/theorems/74e7a923-ccb9-51b4-a0de-8073c854bd64

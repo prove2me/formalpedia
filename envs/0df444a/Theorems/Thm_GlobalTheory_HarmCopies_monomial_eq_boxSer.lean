@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HarmCopies_monomial_eq_boxSer
 -- name    : GlobalTheory.HarmCopies.monomial_eq_boxSer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:00:30.813677+00:00
 -- url     : https://prove2.me/theorems/6d4cd41e-6c20-451c-a13a-c05329d21a53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialIntegral_locallyConstant_partial
 -- name    : GlobalTheory.PartialIntegral.locallyConstant_partial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:56.786271+00:00
 -- url     : https://prove2.me/theorems/99755ba5-e9bc-5ef1-9467-cd94c7e359b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjSize_Un_inv
 -- name    : GlobalTheory.ConjSize.Un.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:02:45.292242+00:00
 -- url     : https://prove2.me/theorems/ef70eea1-1bb7-486c-aaaf-4b1faa98b7dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyOfDeriv_eq_eval_of_dirDeriv_vanish
 -- name    : GlobalTheory.PolyOfDeriv.eq_eval_of_dirDeriv_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:17.965225+00:00
 -- url     : https://prove2.me/theorems/e60bcbe0-00e2-516f-b28d-2985a78e3399

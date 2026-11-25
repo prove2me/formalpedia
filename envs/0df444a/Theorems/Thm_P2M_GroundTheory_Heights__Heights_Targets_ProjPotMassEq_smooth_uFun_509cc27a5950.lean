@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjPotMassEq_smooth_uFun_509cc27a5950
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjPotMassEq_smooth_uFun_509cc27a5950
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:47:18.685436+00:00
 -- url     : https://prove2.me/theorems/bda3bf98-1d5c-551e-b049-73728a289ca2

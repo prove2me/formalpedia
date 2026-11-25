@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_pnorm_add_le
 -- name    : Formalism.L2.PjFree.pnorm_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:32.092369+00:00
 -- url     : https://prove2.me/theorems/511ec24a-28cf-4640-b12c-c241608775e5

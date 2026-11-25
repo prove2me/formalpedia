@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_mem_zpowers_frobLK_Kn
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.mem_zpowers_frobLK_Kn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:03.212781+00:00
 -- url     : https://prove2.me/theorems/e7c371bd-f21a-4234-a26e-daea9efa7e72

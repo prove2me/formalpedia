@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsHilbertPoly_idealHilbertPoly_eq
 -- name    : GlobalTheory.IsHilbertPoly.idealHilbertPoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:33.477171+00:00
 -- url     : https://prove2.me/theorems/64076886-5308-45b1-817b-7ad996979a0e

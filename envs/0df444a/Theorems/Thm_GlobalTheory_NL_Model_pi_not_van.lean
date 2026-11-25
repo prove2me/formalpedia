@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_pi_not_van
 -- name    : GlobalTheory.NL.Model.pi_not_van
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:07.640911+00:00
 -- url     : https://prove2.me/theorems/22cd7759-430e-5abb-8c0a-d22a966eaac6

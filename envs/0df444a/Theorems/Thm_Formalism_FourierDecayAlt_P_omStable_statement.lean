@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_omStable_statement
 -- name    : Formalism.FourierDecayAlt.P.omStable_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:33.490848+00:00
 -- url     : https://prove2.me/theorems/809b0586-ebc2-4cc5-9949-2425609e102e

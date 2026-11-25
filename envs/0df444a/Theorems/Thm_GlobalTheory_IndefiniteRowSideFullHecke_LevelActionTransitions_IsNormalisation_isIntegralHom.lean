@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LevelActionTransitions_IsNormalisation_isIntegralHom
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LevelActionTransitions.IsNormalisation.isIntegralHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:11:04.355969+00:00
 -- url     : https://prove2.me/theorems/d5a48385-6598-5d07-8ac8-18d6fb4a8cd3

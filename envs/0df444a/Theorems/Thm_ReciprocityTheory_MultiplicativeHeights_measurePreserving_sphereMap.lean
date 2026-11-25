@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_measurePreserving_sphereMap
 -- name    : ReciprocityTheory.MultiplicativeHeights.measurePreserving_sphereMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:35.31004+00:00
 -- url     : https://prove2.me/theorems/f9a0e05b-13bd-45d6-96c0-1155009c37c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_PlacePermOperatorBicommutantSpan_Tgt_c_schur
 -- name    : CompanionTheory.PlacePermOperatorBicommutantSpan.Tgt.c_schur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:18:40.172808+00:00
 -- url     : https://prove2.me/theorems/306095ed-957a-4728-933c-22451d6fe25e

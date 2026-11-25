@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquetRallisHankelDet_ne_zero_of_lift
 -- name    : GlobalTheory.T.jacquetRallisHankelDet_ne_zero_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:26.685795+00:00
 -- url     : https://prove2.me/theorems/57b97df2-0760-505a-9785-8446e3913fbe

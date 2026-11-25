@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupConGeometry_ce_l2_profile_minimizer
 -- name    : SupConGeometry.ce_l2_profile_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T01:14:39.737929+00:00
 -- url     : https://prove2.me/theorems/344f06e3-1fc8-4d9d-9074-3131919275b2

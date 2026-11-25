@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_opE_one_eq_volFree
 -- name    : GlobalTheory.RootEx.UnfoldShape.opE_one_eq_volFree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:42.643241+00:00
 -- url     : https://prove2.me/theorems/48c6b02a-d0b9-587f-84d5-3521c0c89269

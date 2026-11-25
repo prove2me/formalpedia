@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_psiOnExists
 -- name    : GlobalTheory.psiOnExists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:26:05.288975+00:00
 -- url     : https://prove2.me/theorems/3d51b879-23da-46f2-b999-f1f8a62e99c3

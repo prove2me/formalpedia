@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_of_leftMulReal_apply
 -- name    : Formalism.REAL.of_leftMulReal_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:03.341017+00:00
 -- url     : https://prove2.me/theorems/99f11ed2-8f68-4859-9e8b-009bb5f65e32

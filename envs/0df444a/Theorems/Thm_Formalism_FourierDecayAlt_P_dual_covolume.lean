@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dual_covolume
 -- name    : Formalism.FourierDecayAlt.P.dual_covolume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:31:54.163388+00:00
 -- url     : https://prove2.me/theorems/64298233-685a-490b-920b-7528208a5243

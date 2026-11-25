@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_convex_body_condition
 -- name    : Formalism.HermitianLatticeCounting.P.convex_body_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:22.812837+00:00
 -- url     : https://prove2.me/theorems/25657a94-2ab4-49f6-b72c-b47b5e103afb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_real_part
 -- name    : Formalism.FourierDecayAlt.P.norm_real_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:35:58.514242+00:00
 -- url     : https://prove2.me/theorems/4cca52cc-b9ce-586b-a20e-cc24d99328ce

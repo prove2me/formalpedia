@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsStrictPullbackBlowupSeq_of_isomorphic_base
 -- name    : FunctorialResolution.EmbeddedResolution.IsStrictPullbackBlowupSeq.of_isomorphic_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:40.550219+00:00
 -- url     : https://prove2.me/theorems/07bea3b9-c30e-5778-9aa9-93269d37f98b

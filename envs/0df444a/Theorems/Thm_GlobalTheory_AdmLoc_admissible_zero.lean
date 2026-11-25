@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_admissible_zero
 -- name    : GlobalTheory.AdmLoc.admissible_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:03.871985+00:00
 -- url     : https://prove2.me/theorems/1125b17c-cdcf-40a6-b30e-e4c52e93a055

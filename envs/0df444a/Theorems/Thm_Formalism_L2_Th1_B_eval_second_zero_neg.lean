@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_eval_second_zero_neg
 -- name    : Formalism.L2.Th1.B.eval_second_zero_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:47:38.94898+00:00
 -- url     : https://prove2.me/theorems/d725dc95-dbc8-5e75-8e2c-c3e9a75c7883

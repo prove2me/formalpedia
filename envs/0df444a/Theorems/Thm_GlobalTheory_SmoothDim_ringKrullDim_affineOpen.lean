@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDim_ringKrullDim_affineOpen
 -- name    : GlobalTheory.SmoothDim.ringKrullDim_affineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:59:20.111658+00:00
 -- url     : https://prove2.me/theorems/9e198dde-fc11-4eeb-b97f-01790b1e7c51

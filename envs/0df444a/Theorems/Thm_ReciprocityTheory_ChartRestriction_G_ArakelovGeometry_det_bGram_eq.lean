@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_det_bGram_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.det_bGram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:10:18.254135+00:00
 -- url     : https://prove2.me/theorems/21514e23-35e9-5a87-be46-441cf60c01b3

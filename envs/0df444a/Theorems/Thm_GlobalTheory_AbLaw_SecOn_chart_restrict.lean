@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_chart_restrict
 -- name    : GlobalTheory.AbLaw.SecOn.chart_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:41:01.990018+00:00
 -- url     : https://prove2.me/theorems/8188c071-eecc-52d9-8525-cc6d119712f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hecke_product_rule
 -- name    : hecke_product_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:14:51.976697+00:00
 -- url     : https://prove2.me/theorems/3f6096ba-ac35-417c-9842-e83f285a3e1e

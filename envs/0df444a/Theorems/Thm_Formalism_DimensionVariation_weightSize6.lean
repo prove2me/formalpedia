@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_weightSize6
 -- name    : Formalism.DimensionVariation.weightSize6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:24.921332+00:00
 -- url     : https://prove2.me/theorems/0d135e08-df43-5d53-ae4c-e1282dd796eb

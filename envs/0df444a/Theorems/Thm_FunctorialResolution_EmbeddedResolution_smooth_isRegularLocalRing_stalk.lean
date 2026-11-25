@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smooth_isRegularLocalRing_stalk
 -- name    : FunctorialResolution.EmbeddedResolution.smooth_isRegularLocalRing_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:29.907513+00:00
 -- url     : https://prove2.me/theorems/25753160-e54e-477f-9f9f-22e06e1283e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatChecks_exists_s_ne_of_empty
 -- name    : GlobalTheory.FlatChecks.exists_s_ne_of_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:44.348293+00:00
 -- url     : https://prove2.me/theorems/8b7c005e-7373-45e8-9384-ad7120718cfe

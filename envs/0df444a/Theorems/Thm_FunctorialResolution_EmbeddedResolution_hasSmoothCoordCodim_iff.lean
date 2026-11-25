@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_hasSmoothCoordCodim_iff
 -- name    : FunctorialResolution.EmbeddedResolution.hasSmoothCoordCodim_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:53:45.361336+00:00
 -- url     : https://prove2.me/theorems/46af934f-c329-4cb4-8d6e-8dec81503332

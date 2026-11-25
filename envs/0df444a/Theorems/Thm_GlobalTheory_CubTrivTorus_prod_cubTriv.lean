@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubTrivTorus_prod_cubTriv
 -- name    : GlobalTheory.CubTrivTorus.prod_cubTriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:10:00.543795+00:00
 -- url     : https://prove2.me/theorems/db22319d-f70b-41e4-b6ee-23dd6ccb0dbd

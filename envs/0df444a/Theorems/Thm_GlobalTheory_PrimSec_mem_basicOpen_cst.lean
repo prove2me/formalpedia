@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimSec_mem_basicOpen_cst
 -- name    : GlobalTheory.PrimSec.mem_basicOpen_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:58:23.620583+00:00
 -- url     : https://prove2.me/theorems/95539b69-73ce-4cf1-a4df-65ea965efc68

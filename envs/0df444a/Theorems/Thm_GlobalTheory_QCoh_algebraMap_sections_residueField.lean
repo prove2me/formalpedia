@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_algebraMap_sections_residueField
 -- name    : GlobalTheory.QCoh.algebraMap_sections_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:17:45.065811+00:00
 -- url     : https://prove2.me/theorems/5606fe85-23f7-58f8-a202-729f2d10f9fd

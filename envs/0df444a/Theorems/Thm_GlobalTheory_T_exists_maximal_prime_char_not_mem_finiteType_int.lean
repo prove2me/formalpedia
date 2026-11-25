@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_maximal_prime_char_not_mem_finiteType_int
 -- name    : GlobalTheory.T.exists_maximal_prime_char_not_mem_finiteType_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:49.135086+00:00
 -- url     : https://prove2.me/theorems/e83a5965-70c0-5afe-8add-4601125df7ae

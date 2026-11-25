@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_isEquivariant_id
 -- name    : GlobalTheory.EigenSplit.isEquivariant_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:22.818033+00:00
 -- url     : https://prove2.me/theorems/beb4f524-d912-58eb-a6be-036427864873

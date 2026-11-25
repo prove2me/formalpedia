@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_right_casimir_mem_submodule
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.right_casimir_mem_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:04:32.278592+00:00
 -- url     : https://prove2.me/theorems/16c10dfd-4a1d-4bed-b48c-0c0d6c94158a

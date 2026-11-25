@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_IsFiniteQC_of_shortExact
 -- name    : GlobalTheory.QCoh.IsFiniteQC.of_shortExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:17:28.202009+00:00
 -- url     : https://prove2.me/theorems/881af4ef-c6cf-506d-991c-d20297d859f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarAlg_isAlgebraic_integral
 -- name    : GlobalTheory.HaarAlg.isAlgebraic_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:36.323026+00:00
 -- url     : https://prove2.me/theorems/76721596-00c9-4714-b8b2-069f9ca234f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_chT_S
 -- name    : ReciprocityTheory.L2DbarEstimates.F.chT_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:56:34.217906+00:00
 -- url     : https://prove2.me/theorems/1dda15d9-26fa-4620-982f-7e6d7adc9f16

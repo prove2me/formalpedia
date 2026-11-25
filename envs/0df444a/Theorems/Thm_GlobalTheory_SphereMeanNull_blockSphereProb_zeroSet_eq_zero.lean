@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SphereMeanNull_blockSphereProb_zeroSet_eq_zero
 -- name    : GlobalTheory.SphereMeanNull.blockSphereProb_zeroSet_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:20:31.2498+00:00
 -- url     : https://prove2.me/theorems/b549ddcd-55a7-4fe3-a69f-c2c35c812561

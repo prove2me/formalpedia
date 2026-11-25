@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LagSplit_secL_isLagSection
 -- name    : GlobalTheory.LagSplit.secL_isLagSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:14:29.839801+00:00
 -- url     : https://prove2.me/theorems/af9b32e7-2d91-59a8-84b5-0874a263e6b7

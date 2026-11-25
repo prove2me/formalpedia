@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_conn_int_rat_bijective
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.conn_int_rat_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:59:15.424981+00:00
 -- url     : https://prove2.me/theorems/e9259ae9-cc24-4975-8c45-bc873ebc578e

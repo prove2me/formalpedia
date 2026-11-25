@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_map_pbE_symm
 -- name    : ReciprocityTheory.PGsh.Up.map_pbE_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:08:46.321636+00:00
 -- url     : https://prove2.me/theorems/cc573dc1-d44e-4034-892b-0e77a113d582

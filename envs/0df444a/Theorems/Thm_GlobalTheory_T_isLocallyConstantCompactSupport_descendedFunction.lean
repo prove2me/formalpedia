@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isLocallyConstantCompactSupport_descendedFunction
 -- name    : GlobalTheory.T.isLocallyConstantCompactSupport_descendedFunction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:54.597645+00:00
 -- url     : https://prove2.me/theorems/d77a9c04-c043-50b7-9ff5-4408ac8ba633

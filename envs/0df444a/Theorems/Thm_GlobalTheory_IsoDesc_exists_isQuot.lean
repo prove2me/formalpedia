@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_exists_isQuot
 -- name    : GlobalTheory.IsoDesc.exists_isQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:56:23.60424+00:00
 -- url     : https://prove2.me/theorems/d219e60c-ebd4-4d6e-8d47-aba3f5b767b3

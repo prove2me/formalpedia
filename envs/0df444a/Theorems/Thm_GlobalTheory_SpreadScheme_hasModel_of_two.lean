@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpreadScheme_hasModel_of_two
 -- name    : GlobalTheory.SpreadScheme.hasModel_of_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:04:54.2676+00:00
 -- url     : https://prove2.me/theorems/f2dbc795-7ddf-4fb6-af67-d28c739e21b4

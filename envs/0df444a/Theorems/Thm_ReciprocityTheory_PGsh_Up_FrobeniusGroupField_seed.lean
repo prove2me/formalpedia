@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_seed
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.seed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:40.052269+00:00
 -- url     : https://prove2.me/theorems/dcd10a95-a219-496b-a479-5578463e7c11

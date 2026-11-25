@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_CT_finMap_apply
 -- name    : Formalism.L2.Host.CT.finMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:39.97939+00:00
 -- url     : https://prove2.me/theorems/1b5bf34b-1c5f-4dc3-8344-4fb01247a274

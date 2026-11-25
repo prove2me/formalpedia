@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for GlobalTheory.KS.Cocycle.rsT_add
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T17:11:30.296793+00:00
+-- url     : https://prove2.me/submissions/5601eadb-ae57-4a63-b4f1-f7388cdc6a70
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_ModuliSpaces_IsInvDer
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ModuliProofs_InvariantVectorFieldsBasisVerticalDerivationsStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ModuliProofs_ExistsLocalDerivationLiftSmoothOverFieldStatement
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_UniformisationConclusion
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsHolPeriods
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ModuliProofs_ConstFnZero
+import Theorems.Thm_GlobalTheory_KS_Cocycle_rsT_of_le
+import Theorems.Thm_GlobalTheory_KS_rsT_of_le
+import Theorems.Thm_GlobalTheory_SqZero_ptsMap_apply
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] GlobalTheory.SqZero.ptsMap_apply
+
+
+
+set_option autoImplicit false
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
+open scoped CategoryTheory.Obj TensorProduct ContDiff
+open GlobalTheory.KS
+noncomputable section
+open GlobalTheory GlobalTheory.KS GlobalTheory.KS.Cocycle
+namespace GlobalTheory.KS.Cocycle
+theorem _root_.solution {Y : Scheme.{0}} {O₀ O : Y.Opens} (h : O ≤ O₀) (s t : Γ(Y, O₀)) :
+    rsT (s + t) O = rsT s O + rsT t O := by
+  simp only [rsT_of_le h, map_add]
+end GlobalTheory.KS.Cocycle

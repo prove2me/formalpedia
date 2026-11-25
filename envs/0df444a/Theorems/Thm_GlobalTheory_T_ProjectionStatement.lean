@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ProjectionStatement
 -- name    : GlobalTheory.T.ProjectionStatement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:26:02.181789+00:00
 -- url     : https://prove2.me/theorems/5809fc75-7cc1-4066-b8d3-cab7436a2723

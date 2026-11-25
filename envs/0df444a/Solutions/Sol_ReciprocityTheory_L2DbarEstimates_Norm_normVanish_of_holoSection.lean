@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for ReciprocityTheory.L2DbarEstimates.Norm.normVanish_of_holoSection
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T15:42:50.126025+00:00
+-- url     : https://prove2.me/submissions/d40cdb09-28e4-4521-9781-6b66395d9170
+
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_SymmetricSections_NormVanishOfParts
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_SymmetricSections_RemovableFinset
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_SymmetricSections_EsymmZero
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_SymmetricSections_LineFinite
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_SymmetricSections_SymmGrowth
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_SymmetricSections_SymmVanish
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_SymmetricSections_SymmDiff
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_SymmetricSections_Section
+import Definitions.Def_ReciprocityTheory_L2DbarEstimates_SymmetricSections_NormVanishOfHoloSection
+import Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_esymmZero
+import Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_lineFinite
+import Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_lineVanish
+import Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_normVanish_of_parts
+import Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_symmDiff_of_holoSection
+import Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_symmGrowth
+import Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Norm_symmVanish
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.L2DbarEstimates ReciprocityTheory.L2DbarEstimates.Norm
+universe u
+namespace ReciprocityTheory.L2DbarEstimates.Norm
+theorem _root_.solution (hsec : holoSectionStatement.{u}) : normVanishStatement.{u} :=
+  normVanish_of_parts lineVanish esymmZero (symmDiff_of_holoSection hsec) symmVanish symmGrowth
+    lineFinite
+end ReciprocityTheory.L2DbarEstimates.Norm

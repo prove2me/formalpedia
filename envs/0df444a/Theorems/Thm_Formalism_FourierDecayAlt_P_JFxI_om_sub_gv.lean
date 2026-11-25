@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxI_om_sub_gv
 -- name    : Formalism.FourierDecayAlt.P.JFxI.om_sub_gv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:28.668956+00:00
 -- url     : https://prove2.me/theorems/715f7ba5-7322-43df-95e4-a83155642091

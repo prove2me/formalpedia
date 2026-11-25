@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Basic_mulS_eq
 -- name    : GlobalTheory.MomOne.Basic.mulS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:24.31192+00:00
 -- url     : https://prove2.me/theorems/6338bcdf-77e5-4541-bad8-c351c391a82d

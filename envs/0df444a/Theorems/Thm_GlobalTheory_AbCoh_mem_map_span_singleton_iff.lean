@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_mem_map_span_singleton_iff
 -- name    : GlobalTheory.AbCoh.mem_map_span_singleton_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:49:48.806805+00:00
 -- url     : https://prove2.me/theorems/35798f9d-7de6-46d6-8d12-7e63cd90acc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenRegular_exists_finite_over_regular
 -- name    : GlobalTheory.CohenRegular.exists_finite_over_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:59.488215+00:00
 -- url     : https://prove2.me/theorems/befa29de-905d-4c80-ba83-e875a8d330cc

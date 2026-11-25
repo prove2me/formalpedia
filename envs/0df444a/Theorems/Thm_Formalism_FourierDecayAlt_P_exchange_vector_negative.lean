@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_exchange_vector_negative
 -- name    : Formalism.FourierDecayAlt.P.exchange_vector_negative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:31:01.462966+00:00
 -- url     : https://prove2.me/theorems/f5669110-fdd8-4fea-8b8f-3a76537b17f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_flag_base
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.flag_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:42.532839+00:00
 -- url     : https://prove2.me/theorems/74477c79-8c88-4600-8bf1-3ee774e9031a

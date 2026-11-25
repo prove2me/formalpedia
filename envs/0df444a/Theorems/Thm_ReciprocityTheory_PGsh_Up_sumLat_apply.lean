@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_sumLat_apply
 -- name    : ReciprocityTheory.PGsh.Up.sumLat_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:07.846458+00:00
 -- url     : https://prove2.me/theorems/d44e774d-818c-4d15-b051-74819795cff6

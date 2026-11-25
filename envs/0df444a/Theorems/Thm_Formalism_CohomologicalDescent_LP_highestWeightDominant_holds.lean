@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LP_highestWeightDominant_holds
 -- name    : Formalism.CohomologicalDescent.LP.highestWeightDominant_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:22:50.064841+00:00
 -- url     : https://prove2.me/theorems/d646fb5d-d66a-48c4-9b4b-0e8608d0d34a

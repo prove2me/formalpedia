@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_qf_baseVec
 -- name    : GlobalTheory.CompactDualQuot.qf_baseVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:00.75311+00:00
 -- url     : https://prove2.me/theorems/386467f7-053f-5a52-b5ab-804f40de8c88

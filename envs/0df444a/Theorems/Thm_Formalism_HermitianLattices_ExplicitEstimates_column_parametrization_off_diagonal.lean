@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExplicitEstimates_column_parametrization_off_diagonal
 -- name    : Formalism.HermitianLattices.ExplicitEstimates.column_parametrization_off_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:30.97348+00:00
 -- url     : https://prove2.me/theorems/c35a641e-e931-5518-989c-3f3a7511fd39

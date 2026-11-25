@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntPair_IsScalar_congr
 -- name    : GlobalTheory.IntPair.IsScalar.congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:33.30042+00:00
 -- url     : https://prove2.me/theorems/4700f182-8ad7-5ad7-8e80-43f98e0809ee

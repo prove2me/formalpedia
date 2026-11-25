@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DvrModel_prime_element_and_extension
 -- name    : GlobalTheory.DvrModel.prime_element_and_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:39.947981+00:00
 -- url     : https://prove2.me/theorems/7d3e7218-5fed-4373-9a51-23a61b65eabc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_defAt_of_weakNeron
 -- name    : GlobalTheory.SS.exists_defAt_of_weakNeron
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:55:29.628852+00:00
 -- url     : https://prove2.me/theorems/b140093e-f849-5d3a-b996-22ebfd6097a3

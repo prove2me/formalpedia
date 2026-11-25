@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1003_4724_true_dielectric_dipole_limit
 -- name    : Arxiv1003_4724.true_dielectric_dipole_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T23:58:23.455116+00:00
 -- url     : https://prove2.me/theorems/9fa36f23-22f6-4add-a697-542a384f9e6f

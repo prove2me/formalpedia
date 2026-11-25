@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_twist_indFam_zero
 -- name    : GlobalTheory.SW.Model.twist_indFam_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:44.448914+00:00
 -- url     : https://prove2.me/theorems/1c1a4098-525e-43a2-b1bb-c732a6eeb702

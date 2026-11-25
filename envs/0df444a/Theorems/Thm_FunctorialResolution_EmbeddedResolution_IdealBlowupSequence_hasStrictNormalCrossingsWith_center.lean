@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IdealBlowupSequence_hasStrictNormalCrossingsWith_center
 -- name    : FunctorialResolution.EmbeddedResolution.IdealBlowupSequence.hasStrictNormalCrossingsWith_center
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:54:35.479355+00:00
 -- url     : https://prove2.me/theorems/1502c32a-f48b-4b9a-9419-17ef4a93b99e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeftRightDerivations_derivRight_apply
 -- name    : GlobalTheory.LeftRightDerivations.derivRight_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:47.982505+00:00
 -- url     : https://prove2.me/theorems/adf5e68f-ec57-45c4-831a-495ed25fbf62

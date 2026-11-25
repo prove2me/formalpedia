@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Final_trace_integrality_results
 -- name    : Formalism.HermitianLattices.Final.trace_integrality_results
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:20.396011+00:00
 -- url     : https://prove2.me/theorems/61e4a7dc-5852-49b3-ac9c-031532c25c5d

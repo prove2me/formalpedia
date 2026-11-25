@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_fix_all_good
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.fix_all_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:18.591592+00:00
 -- url     : https://prove2.me/theorems/0b9c32bb-936b-5aaa-a929-e3339a84bf47

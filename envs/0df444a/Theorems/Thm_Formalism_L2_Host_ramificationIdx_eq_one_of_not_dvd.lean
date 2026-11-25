@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_ramificationIdx_eq_one_of_not_dvd
 -- name    : Formalism.L2.Host.ramificationIdx_eq_one_of_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:41.136296+00:00
 -- url     : https://prove2.me/theorems/c211e969-d946-5f56-9fa3-69317ca281c6

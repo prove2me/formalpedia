@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DefiniteFrames_exists_compact_of_definite
 -- name    : GlobalTheory.DefiniteFrames.exists_compact_of_definite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:11.704418+00:00
 -- url     : https://prove2.me/theorems/89248f88-3a98-5609-85ce-db2316c14817

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimePairMeetImage_projHom_not_injective_7535f594d16c
 -- name    : P2M_GroundTheory_Heights__Heights_PrimePairMeetImage_projHom_not_injective_7535f594d16c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:15:02.743337+00:00
 -- url     : https://prove2.me/theorems/4eddf8c4-0528-5fc4-b2fb-6f21bb213423

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_rotLIE_apply
 -- name    : ReciprocityTheory.MultiplicativeHeights.rotLIE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:54.882908+00:00
 -- url     : https://prove2.me/theorems/58d399d3-9b2c-5515-8d4f-fa87ebeada93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermFibreKernels_PKer_fm_inner_add
 -- name    : Formalism.FourierDecayAlt.P.GermFibreKernels.PKer.fm_inner_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:25:45.159512+00:00
 -- url     : https://prove2.me/theorems/bdfb7ebf-79f3-4871-944b-c4344a6ddd87

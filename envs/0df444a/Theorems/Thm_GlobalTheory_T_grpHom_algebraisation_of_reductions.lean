@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_grpHom_algebraisation_of_reductions
 -- name    : GlobalTheory.T.grpHom_algebraisation_of_reductions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:37:54.415591+00:00
 -- url     : https://prove2.me/theorems/fc3d5882-9307-556e-9af6-fb5e02440155

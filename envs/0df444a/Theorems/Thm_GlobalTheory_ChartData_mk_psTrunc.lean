@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartData_mk_psTrunc
 -- name    : GlobalTheory.ChartData.mk_psTrunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:59:46.921701+00:00
 -- url     : https://prove2.me/theorems/1110acc8-0617-4fc7-8752-0ef1dcf101d8

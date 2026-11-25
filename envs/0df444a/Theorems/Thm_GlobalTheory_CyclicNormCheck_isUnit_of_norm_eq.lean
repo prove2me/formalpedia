@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclicNormCheck_isUnit_of_norm_eq
 -- name    : GlobalTheory.CyclicNormCheck.isUnit_of_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:44.959439+00:00
 -- url     : https://prove2.me/theorems/982eb502-918f-4f5e-88fe-4b57262d311f

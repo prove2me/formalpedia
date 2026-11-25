@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_ipOf_free
 -- name    : Formalism.L2.Col.GSD.ipOf_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:43:15.470463+00:00
 -- url     : https://prove2.me/theorems/978db2ac-2b8f-44fd-8dc4-1a9082349705

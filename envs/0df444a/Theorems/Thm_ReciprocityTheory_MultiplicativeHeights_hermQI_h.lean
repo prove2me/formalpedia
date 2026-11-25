@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_hermQI_h
 -- name    : ReciprocityTheory.MultiplicativeHeights.hermQI_h
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:03:59.159628+00:00
 -- url     : https://prove2.me/theorems/1231255e-c7cf-5838-9f81-b121e4bacca5

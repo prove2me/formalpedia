@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_of_maximalIdeal_le_radical_complete_nakayama
 -- name    : GlobalTheory.T.finite_of_maximalIdeal_le_radical_complete_nakayama
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:51.692117+00:00
 -- url     : https://prove2.me/theorems/e671ea73-038a-40b9-b191-54988756761b

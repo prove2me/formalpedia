@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_levi_normSq
 -- name    : ReciprocityTheory.L2DbarEstimates.levi_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:39.753681+00:00
 -- url     : https://prove2.me/theorems/dfc8f131-8bb3-4957-9040-7289665d895f

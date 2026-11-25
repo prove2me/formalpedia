@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_VW_rh_of_right
 -- name    : Formalism.VW.rh_of_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:25.975326+00:00
 -- url     : https://prove2.me/theorems/2a3d9b48-49a8-4914-a725-556266848071

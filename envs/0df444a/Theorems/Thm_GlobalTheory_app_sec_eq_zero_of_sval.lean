@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_app_sec_eq_zero_of_sval
 -- name    : GlobalTheory.app_sec_eq_zero_of_sval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:56:06.182268+00:00
 -- url     : https://prove2.me/theorems/ae04be74-dc59-5ed9-9281-cefd8f195816

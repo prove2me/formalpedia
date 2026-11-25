@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_shifted_cutoff_summable
 -- name    : GlobalTheory.T.lattice_shifted_cutoff_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:51.165668+00:00
 -- url     : https://prove2.me/theorems/df917454-9f9a-43d4-a60e-4f63f72c3652

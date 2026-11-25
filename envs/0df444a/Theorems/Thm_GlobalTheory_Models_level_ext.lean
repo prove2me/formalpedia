@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_level_ext
 -- name    : GlobalTheory.Models.level_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:19:55.278203+00:00
 -- url     : https://prove2.me/theorems/eec0c3ab-3843-59a5-a855-b90b9ee9e580

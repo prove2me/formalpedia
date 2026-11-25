@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_vd_tame_wild
 -- name    : UpperTheory.HF.vd_tame_wild
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:03:26.95681+00:00
 -- url     : https://prove2.me/theorems/e49cecbb-f5ef-48c0-b2f2-747542ea86eb

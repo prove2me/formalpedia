@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_apply_extend_eq_canonical
 -- name    : GlobalTheory.FlatDescent.apply_extend_eq_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:25.764638+00:00
 -- url     : https://prove2.me/theorems/2120a3b8-23dc-4665-81ca-674a83c27e86

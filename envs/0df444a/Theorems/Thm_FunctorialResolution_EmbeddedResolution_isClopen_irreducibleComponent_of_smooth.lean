@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isClopen_irreducibleComponent_of_smooth
 -- name    : FunctorialResolution.EmbeddedResolution.isClopen_irreducibleComponent_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:53:38.466623+00:00
 -- url     : https://prove2.me/theorems/bef1da75-719b-45a8-bac4-a9c317b7aca1

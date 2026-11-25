@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_admissible_in_truncation_holds
 -- name    : Formalism.FourierDecayAlt.P.CutMP.admissible_in_truncation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:27:53.18563+00:00
 -- url     : https://prove2.me/theorems/64288f02-5001-4430-bc0a-0975a547fce4

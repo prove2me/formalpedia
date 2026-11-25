@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_integral_mono_sphProb_of_ne
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.integral_mono_sphProb_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:54:02.247873+00:00
 -- url     : https://prove2.me/theorems/d47ffd65-5bc7-4756-81f0-f34f1c05f8b0

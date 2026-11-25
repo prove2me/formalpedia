@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_Kn_of_isOpen
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_Kn_of_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:53:10.117448+00:00
 -- url     : https://prove2.me/theorems/d5f93a54-afa9-52fc-8db2-14511e298d2c

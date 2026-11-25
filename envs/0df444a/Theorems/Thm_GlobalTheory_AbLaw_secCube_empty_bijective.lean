@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_secCube_empty_bijective
 -- name    : GlobalTheory.AbLaw.secCube_empty_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:37:48.879484+00:00
 -- url     : https://prove2.me/theorems/d0d7b1fe-bdf0-42b7-8731-ce24e6990a72

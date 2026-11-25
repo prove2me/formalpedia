@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adic_completion_reduced_of_jacobson
 -- name    : GlobalTheory.T.adic_completion_reduced_of_jacobson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:14:30.503016+00:00
 -- url     : https://prove2.me/theorems/eee7c603-7bad-58da-b03c-a31356e7113a

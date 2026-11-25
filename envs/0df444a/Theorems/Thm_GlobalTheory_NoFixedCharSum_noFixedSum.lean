@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NoFixedCharSum_noFixedSum
 -- name    : GlobalTheory.NoFixedCharSum.noFixedSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:10.528336+00:00
 -- url     : https://prove2.me/theorems/22dfd61c-89f8-4b73-970d-03a0f0f1dd3f

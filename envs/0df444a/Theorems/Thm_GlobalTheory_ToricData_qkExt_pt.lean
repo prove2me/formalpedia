@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_qkExt_pt
 -- name    : GlobalTheory.ToricData.qkExt_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:43.685738+00:00
 -- url     : https://prove2.me/theorems/ea6e4772-321b-5ea6-9cf3-80936fb232e4

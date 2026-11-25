@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_null_of_logBound
 -- name    : ReciprocityTheory.MultiplicativeHeights.null_of_logBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:54:07.136155+00:00
 -- url     : https://prove2.me/theorems/e6605963-1fa1-40cc-bb04-53534ddf1b19

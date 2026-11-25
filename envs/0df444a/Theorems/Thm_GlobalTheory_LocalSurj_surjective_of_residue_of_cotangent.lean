@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalSurj_surjective_of_residue_of_cotangent
 -- name    : GlobalTheory.LocalSurj.surjective_of_residue_of_cotangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:59.394867+00:00
 -- url     : https://prove2.me/theorems/eac802c1-7172-4ee1-9365-12d092f644fd

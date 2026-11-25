@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameGeo_frame_pullback_geo
 -- name    : GlobalTheory.FrameGeo.frame_pullback_geo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:47:39.242641+00:00
 -- url     : https://prove2.me/theorems/80178dae-f89c-460c-940e-a5778ba02d0b

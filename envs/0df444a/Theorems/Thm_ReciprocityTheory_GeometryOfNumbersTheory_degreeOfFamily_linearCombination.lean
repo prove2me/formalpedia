@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_degreeOfFamily_linearCombination
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.degreeOfFamily_linearCombination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:53:40.898317+00:00
 -- url     : https://prove2.me/theorems/b958e1df-4ede-43ae-a57e-4d3084df7b63

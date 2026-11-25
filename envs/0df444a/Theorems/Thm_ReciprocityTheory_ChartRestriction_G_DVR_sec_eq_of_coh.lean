@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_sec_eq_of_coh
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.sec_eq_of_coh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:50:58.504799+00:00
 -- url     : https://prove2.me/theorems/dd651cb0-9f51-4787-9415-6c5e27480ed9

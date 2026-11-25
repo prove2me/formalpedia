@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_det_trace_pow_add_mul_unit_ne_zero
 -- name    : GlobalTheory.T.det_trace_pow_add_mul_unit_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:12.802496+00:00
 -- url     : https://prove2.me/theorems/40158ca9-0624-5e4c-87ae-779e81690b1e

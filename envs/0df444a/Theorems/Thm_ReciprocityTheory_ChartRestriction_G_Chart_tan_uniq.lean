@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_tan_uniq
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.tan_uniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:52:50.262395+00:00
 -- url     : https://prove2.me/theorems/aea777c0-5f4a-447b-a7f8-855a4580963e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hasDerivAt_zero_of_continuousAt_of_map_add
 -- name    : GlobalTheory.T.exists_hasDerivAt_zero_of_continuousAt_of_map_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:08.821462+00:00
 -- url     : https://prove2.me/theorems/b4ea4596-051d-57a6-bfd6-2f8a48d1a33c

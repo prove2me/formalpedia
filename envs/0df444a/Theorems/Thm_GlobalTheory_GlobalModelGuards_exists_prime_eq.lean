@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalModelGuards_exists_prime_eq
 -- name    : GlobalTheory.GlobalModelGuards.exists_prime_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:53.455803+00:00
 -- url     : https://prove2.me/theorems/f87f2b59-5769-58f0-a49d-40529bd33f01

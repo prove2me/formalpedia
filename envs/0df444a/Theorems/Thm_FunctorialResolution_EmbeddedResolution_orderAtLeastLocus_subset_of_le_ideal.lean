@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAtLeastLocus_subset_of_le_ideal
 -- name    : FunctorialResolution.EmbeddedResolution.orderAtLeastLocus_subset_of_le_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:54:04.385623+00:00
 -- url     : https://prove2.me/theorems/9280740f-0522-5cfc-a4bc-59f1e369ae2b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_Pairs_minFac_prime_of_pp
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.Pairs.minFac_prime_of_pp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:40:21.938931+00:00
 -- url     : https://prove2.me/theorems/b4353a29-d55a-5d70-9e31-36dbc8570856

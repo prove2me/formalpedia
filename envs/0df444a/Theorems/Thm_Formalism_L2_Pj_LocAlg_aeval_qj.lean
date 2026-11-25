@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LocAlg_aeval_qj
 -- name    : Formalism.L2.Pj.LocAlg.aeval_qj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:59.04281+00:00
 -- url     : https://prove2.me/theorems/a307ac23-c258-565a-aa88-f4a40cdc5f32

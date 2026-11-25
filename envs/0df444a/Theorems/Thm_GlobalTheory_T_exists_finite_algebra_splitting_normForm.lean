@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finite_algebra_splitting_normForm
 -- name    : GlobalTheory.T.exists_finite_algebra_splitting_normForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:26.570795+00:00
 -- url     : https://prove2.me/theorems/db9c3ec5-1f0d-4847-9bdf-fde8bdb7b80c

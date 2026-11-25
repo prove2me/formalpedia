@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_splitNotDvd
 -- name    : UpperTheory.Mu.splitNotDvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:13:19.856325+00:00
 -- url     : https://prove2.me/theorems/b9aa681a-8a6b-4be7-bac5-092712b9732a

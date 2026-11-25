@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_finrank_pos_of_countAt
 -- name    : GlobalTheory.BadShare.Basic.finrank_pos_of_countAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:29.439985+00:00
 -- url     : https://prove2.me/theorems/ae444f36-7b0e-44f1-b5ca-ec2ca209b940

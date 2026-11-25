@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_split_of_hilbertLatticeHasLevel
 -- name    : GlobalTheory.T.exists_split_of_hilbertLatticeHasLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:36.405801+00:00
 -- url     : https://prove2.me/theorems/8d84f126-069e-526e-af6d-f87b6e8360ee

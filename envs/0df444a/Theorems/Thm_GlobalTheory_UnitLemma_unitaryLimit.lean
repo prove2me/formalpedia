@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_unitaryLimit
 -- name    : GlobalTheory.UnitLemma.unitaryLimit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:59:28.203015+00:00
 -- url     : https://prove2.me/theorems/b246d5aa-b294-495e-bd61-c0bdfd34903f

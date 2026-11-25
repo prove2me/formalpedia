@@ -93258,8 +93258,8 @@
 {"parent": "ShapleyNV_inDual", "child": "ShapleyNV_nvCost", "via": ["statement"]}
 {"parent": "ShapleyNV_inDual", "child": "ShapleyNV_PhatIn", "via": ["statement"]}
 {"parent": "ShapleyNV_inDual", "child": "ShapleyNV_dualVal", "via": ["statement"]}
-{"parent": "FuchsThesis.Broadcast.fidelity_range", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "FuchsThesis.Broadcast.fidelity_range", "child": "QAlgorithms_Defs_QuantumInformation", "via": ["statement"]}
+{"parent": "FuchsThesis.Broadcast.fidelity_range", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Broadcast.fidelity_range", "child": "QAlgorithms_Defs_QuantumInformation", "via": ["solution", "statement"]}
 {"parent": "OAIQ107D080", "child": "OAIQ107D000", "via": ["statement"]}
 {"parent": "QAlgorithms.Papers.Independent.Intake100.P11.fourStep_explicitParameters", "child": "QAlgorithms_Papers_Independent_Intake100_P11", "via": ["statement"]}
 {"parent": "AccelSGDGrowth_IsDAMPlusRun", "child": "AccelSGDGrowth_cumWeight", "via": ["statement"]}
@@ -96445,7 +96445,7 @@
 {"parent": "TransitoryQueue_IsRSVersion", "child": "TransitoryQueue_IsBrownianBridge", "via": ["statement"]}
 {"parent": "FuchsThesis.Broadcast.eq_4_81", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
 {"parent": "FuchsThesis.Broadcast.eq_4_81", "child": "QAlgorithms_Defs_QuantumInformation", "via": ["statement"]}
-{"parent": "FuchsThesis.Broadcast.eq_4_81", "child": "FuchsThesis_Broadcast_IsClone", "via": ["statement"]}
+{"parent": "FuchsThesis.Broadcast.eq_4_81", "child": "FuchsThesis_Broadcast_IsClone", "via": ["solution", "statement"]}
 {"parent": "OAI.SKRatio.Certificate.Data.J4K8.check_18", "child": "OAIQ024S016", "via": ["solution", "statement"]}
 {"parent": "OAI.SKRatio.Certificate.Data.J4K8.check_18", "child": "OAIQ024S013", "via": ["solution", "statement"]}
 {"parent": "OAI.SKRatio.Certificate.Data.J4K8.check_18", "child": "OAIQ024S014", "via": ["solution", "statement"]}
@@ -97890,8 +97890,8 @@
 {"parent": "OAI.NuclearUltrapower.SOS.row_partition_29", "child": "OAIQ019N043", "via": ["solution", "statement"]}
 {"parent": "HellmanLevy_Graphical_IsSmoothGraph", "child": "HellmanLevy_Graphical_IsGraph", "via": ["statement"]}
 {"parent": "HellmanLevy_Graphical_IsSmoothGraph", "child": "HellmanLevy_CBER_IsSmooth", "via": ["statement"]}
-{"parent": "FuchsThesis.Broadcast.eq_4_97", "child": "WildeQIT_IsDensityOperator", "via": ["statement"]}
-{"parent": "FuchsThesis.Broadcast.eq_4_97", "child": "FuchsThesis_Broadcast_operatorM", "via": ["statement"]}
+{"parent": "FuchsThesis.Broadcast.eq_4_97", "child": "WildeQIT_IsDensityOperator", "via": ["solution", "statement"]}
+{"parent": "FuchsThesis.Broadcast.eq_4_97", "child": "FuchsThesis_Broadcast_operatorM", "via": ["solution", "statement"]}
 {"parent": "FuchsThesis.Types.card_types_le", "child": "ModernOnlineLearning_Portfolio_Types", "via": ["solution", "statement"]}
 {"parent": "TetrisHard_Rows_Approximation", "child": "TetrisHard_Rows_Game", "via": ["statement"]}
 {"parent": "TetrisHard_Rows_Approximation", "child": "TetrisHard_Rows_Search", "via": ["statement"]}

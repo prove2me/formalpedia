@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_RGF_rh_Zmap
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.RGF.rh_Zmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:08:00.593399+00:00
 -- url     : https://prove2.me/theorems/173c6528-36af-49b0-918a-575828df1489

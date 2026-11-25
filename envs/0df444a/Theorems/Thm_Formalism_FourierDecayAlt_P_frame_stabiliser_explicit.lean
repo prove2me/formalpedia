@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_stabiliser_explicit
 -- name    : Formalism.FourierDecayAlt.P.frame_stabiliser_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:30:24.533128+00:00
 -- url     : https://prove2.me/theorems/27ae28df-d5cc-42db-bacd-e1ee90da117a

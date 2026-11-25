@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_mem_unitaryGroup
 -- name    : GlobalTheory.HermForm.mem_unitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:23.484037+00:00
 -- url     : https://prove2.me/theorems/0ca0f90c-06a7-4e82-83c1-7e4857c2dcbe

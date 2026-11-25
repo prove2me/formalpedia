@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_Model_not_isSelfDual_one
 -- name    : GlobalTheory.SplitWeil.Model.not_isSelfDual_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:17.774801+00:00
 -- url     : https://prove2.me/theorems/1a57977b-c7ea-4a63-aae4-b66933e85438

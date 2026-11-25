@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_sphereLeTorus
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.sphereLeTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:07:43.219086+00:00
 -- url     : https://prove2.me/theorems/501821cc-a5f4-4873-a092-2c5fe105e59a

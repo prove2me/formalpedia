@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_cl_prod_finiteAlgebraWithInvolution
 -- name    : GlobalTheory.T.card_cl_prod_finiteAlgebraWithInvolution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:27:01.641556+00:00
 -- url     : https://prove2.me/theorems/0b1dc4bd-300b-47ec-9bd4-a2d60aa8ee4f

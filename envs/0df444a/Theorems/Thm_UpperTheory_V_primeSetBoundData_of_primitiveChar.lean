@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_primeSetBoundData_of_primitiveChar
 -- name    : UpperTheory.V.primeSetBoundData_of_primitiveChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:54.666911+00:00
 -- url     : https://prove2.me/theorems/51483ded-13df-4b52-a063-24f9c7223b42

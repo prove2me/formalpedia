@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_gapSubset_of_setBound_integral
 -- name    : GlobalTheory.CompareIterDegree.gapSubset_of_setBound_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:02:06.138315+00:00
 -- url     : https://prove2.me/theorems/c8510d91-8ca4-4bcf-81d5-a28144900d53

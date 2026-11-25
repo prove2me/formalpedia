@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_powerSemilinear_rank_nullity_mod_maxIdeal
 -- name    : GlobalTheory.T.powerSemilinear_rank_nullity_mod_maxIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:50.037966+00:00
 -- url     : https://prove2.me/theorems/25f86ec4-9bab-47ac-843c-3ce05d543505

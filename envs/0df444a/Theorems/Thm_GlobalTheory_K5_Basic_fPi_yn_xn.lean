@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_fPi_yn_xn
 -- name    : GlobalTheory.K5.Basic.fPi_yn_xn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:11:41.273448+00:00
 -- url     : https://prove2.me/theorems/baad06b3-b302-4a28-a00a-8dee78c1a15f

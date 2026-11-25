@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Rd_two_le_rdE
 -- name    : UpperTheory.Ram.Rd.two_le_rdE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:57.362928+00:00
 -- url     : https://prove2.me/theorems/f77c23c9-25a3-58e2-a933-e3e1ae9337ff

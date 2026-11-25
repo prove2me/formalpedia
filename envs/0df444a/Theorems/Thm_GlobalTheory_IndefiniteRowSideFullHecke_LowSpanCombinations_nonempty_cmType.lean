@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LowSpanCombinations_nonempty_cmType
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LowSpanCombinations.nonempty_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:09:11.108397+00:00
 -- url     : https://prove2.me/theorems/ab48c293-af8d-5c51-be5f-6feb154d79cd

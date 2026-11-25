@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealTangentSpace_span_Lat
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealTangentSpace.span_Lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:31:41.140335+00:00
 -- url     : https://prove2.me/theorems/9584d215-79b6-4aca-94d7-c9fbe5397c88

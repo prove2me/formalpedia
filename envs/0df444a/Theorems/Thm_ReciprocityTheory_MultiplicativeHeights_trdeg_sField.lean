@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_trdeg_sField
 -- name    : ReciprocityTheory.MultiplicativeHeights.trdeg_sField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:16.150647+00:00
 -- url     : https://prove2.me/theorems/f0a3e128-2b1c-4642-acc3-5557bcd8f8b0

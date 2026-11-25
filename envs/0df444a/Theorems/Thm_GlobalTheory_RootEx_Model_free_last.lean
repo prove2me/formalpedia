@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_free_last
 -- name    : GlobalTheory.RootEx.Model.free_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:22.367016+00:00
 -- url     : https://prove2.me/theorems/e16b1aa6-28bd-5827-8387-b427bed0f24b

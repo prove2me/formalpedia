@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_binomRatio
 -- name    : Formalism.CountingSumsFrames.Top.binomRatio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:22:45.692801+00:00
 -- url     : https://prove2.me/theorems/825b3e56-ecf9-5d5e-b07d-2bf4661367be

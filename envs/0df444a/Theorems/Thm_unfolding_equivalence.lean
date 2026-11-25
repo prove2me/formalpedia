@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_unfolding_equivalence
 -- name    : unfolding_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:16:33.244156+00:00
 -- url     : https://prove2.me/theorems/3e63c9bd-3f84-5cff-bfa4-8d91acd038b9

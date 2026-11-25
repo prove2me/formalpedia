@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_finite_place_sum_lt
 -- name    : ReciprocityTheory.MultiplicativeHeights.finite_place_sum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:22.369796+00:00
 -- url     : https://prove2.me/theorems/a9d12463-2e04-556e-8495-9699eddf6a07

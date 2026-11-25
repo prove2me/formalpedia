@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_d_zero_finTwo
 -- name    : GlobalTheory.Cube.d_zero_finTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:49.187224+00:00
 -- url     : https://prove2.me/theorems/95a9fc8e-2a7e-43ad-8816-65bd3999247d

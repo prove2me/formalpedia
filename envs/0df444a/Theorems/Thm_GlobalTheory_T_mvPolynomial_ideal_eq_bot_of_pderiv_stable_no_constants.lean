@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mvPolynomial_ideal_eq_bot_of_pderiv_stable_no_constants
 -- name    : GlobalTheory.T.mvPolynomial_ideal_eq_bot_of_pderiv_stable_no_constants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:09.605164+00:00
 -- url     : https://prove2.me/theorems/e1fa0d42-8703-52fd-9352-10069eb11813

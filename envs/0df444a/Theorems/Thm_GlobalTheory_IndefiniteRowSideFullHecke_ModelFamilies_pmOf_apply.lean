@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ModelFamilies_pmOf_apply
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ModelFamilies.pmOf_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:09:22.152596+00:00
 -- url     : https://prove2.me/theorems/b9cb948a-a8cc-44f9-a816-5bc96627d6d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_teichSum
 -- name    : ReciprocityTheory.PGsh.teichSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:09:48.617386+00:00
 -- url     : https://prove2.me/theorems/09b14ddd-8b3a-4b12-9879-b6ab0afdb532

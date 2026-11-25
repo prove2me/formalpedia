@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_nilpotent_form
 -- name    : GlobalTheory.ProjSpace.Model.nilpotent_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:34.225928+00:00
 -- url     : https://prove2.me/theorems/18ef386f-6c2b-5861-a66a-e066b2388aff

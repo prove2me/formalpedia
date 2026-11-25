@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inv_entry_norm_le_of_sub_smul_one_posSemidef
 -- name    : GlobalTheory.T.inv_entry_norm_le_of_sub_smul_one_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:33:46.478268+00:00
 -- url     : https://prove2.me/theorems/83aee576-87ac-54ac-a543-f0a63d7deae3

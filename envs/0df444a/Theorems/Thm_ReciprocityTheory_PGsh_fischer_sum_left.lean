@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_fischer_sum_left
 -- name    : ReciprocityTheory.PGsh.fischer_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:09:08.931964+00:00
 -- url     : https://prove2.me/theorems/3d63d607-8c31-50bd-b7aa-4f9d48d15ce9

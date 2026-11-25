@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hom_specProdSelf_preimage_eq_clopen
 -- name    : GlobalTheory.T.exists_hom_specProdSelf_preimage_eq_clopen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:11.659553+00:00
 -- url     : https://prove2.me/theorems/f0549f76-ce46-5c29-ad5e-feafb1467cbc

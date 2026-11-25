@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_StandardFourierShortSpan_exists_spanRange
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.StandardFourierShortSpan.exists_spanRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:19:22.661859+00:00
 -- url     : https://prove2.me/theorems/a3731229-d6dd-4144-a640-f16d7fcce195

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_infRes2_exact
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.infRes2_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:53:24.88833+00:00
 -- url     : https://prove2.me/theorems/90e7d719-f263-46e5-a519-76ed516fcb79

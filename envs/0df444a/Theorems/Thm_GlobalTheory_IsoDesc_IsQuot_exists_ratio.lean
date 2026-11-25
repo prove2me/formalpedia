@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_IsQuot_exists_ratio
 -- name    : GlobalTheory.IsoDesc.IsQuot.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:07:56.998981+00:00
 -- url     : https://prove2.me/theorems/82b0181e-c899-4f9e-bfda-d5d682c025ee

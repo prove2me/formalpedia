@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cech_complex_direct_limit
 -- name    : GlobalTheory.T.cech_complex_direct_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:39.999906+00:00
 -- url     : https://prove2.me/theorems/806d9679-78e3-4949-a6bd-ed636166be73

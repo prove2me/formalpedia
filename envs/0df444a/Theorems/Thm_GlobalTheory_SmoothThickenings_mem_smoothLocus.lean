@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothThickenings_mem_smoothLocus
 -- name    : GlobalTheory.SmoothThickenings.mem_smoothLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:04:29.91765+00:00
 -- url     : https://prove2.me/theorems/d61ecf3a-8e99-4ee9-a220-5b89ce14d706

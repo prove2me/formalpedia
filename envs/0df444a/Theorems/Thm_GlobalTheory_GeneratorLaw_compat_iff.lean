@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorLaw_compat_iff
 -- name    : GlobalTheory.GeneratorLaw.compat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:42:12.889444+00:00
 -- url     : https://prove2.me/theorems/6c9001d2-acef-4602-903f-3d9d2d03c62e

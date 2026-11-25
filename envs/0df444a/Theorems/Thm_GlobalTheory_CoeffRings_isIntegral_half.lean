@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffRings_isIntegral_half
 -- name    : GlobalTheory.CoeffRings.isIntegral_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:15.947788+00:00
 -- url     : https://prove2.me/theorems/34c933a3-6112-550f-b8cc-b3f585f498c6

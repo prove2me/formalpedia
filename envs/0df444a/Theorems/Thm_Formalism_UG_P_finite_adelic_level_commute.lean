@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_finite_adelic_level_commute
 -- name    : Formalism.UG.P.finite_adelic_level_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:53:55.346203+00:00
 -- url     : https://prove2.me/theorems/454adbe6-dd56-5591-928c-aa9ebb648e85

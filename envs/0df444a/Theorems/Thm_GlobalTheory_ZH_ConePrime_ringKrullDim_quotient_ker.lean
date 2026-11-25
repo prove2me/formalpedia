@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_ConePrime_ringKrullDim_quotient_ker
 -- name    : GlobalTheory.ZH.ConePrime.ringKrullDim_quotient_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:02:18.920213+00:00
 -- url     : https://prove2.me/theorems/1c9e6ec5-94ca-461d-bd18-a575069215e6

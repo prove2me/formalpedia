@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiSpec_sval_rel
 -- name    : GlobalTheory.PhiSpec.sval_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:04:10.619533+00:00
 -- url     : https://prove2.me/theorems/877ae63d-bb90-4d5b-9a95-acddf1a04579

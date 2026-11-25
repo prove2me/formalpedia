@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_IsEquivariant_eigenMap_surjective
 -- name    : GlobalTheory.EigenSplit.IsEquivariant.eigenMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:19.419802+00:00
 -- url     : https://prove2.me/theorems/bf655582-65c2-4441-aa75-a5e7633d2e25

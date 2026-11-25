@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_triangular_factor_middle_row
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.triangular_factor_middle_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:55:47.169878+00:00
 -- url     : https://prove2.me/theorems/16887c73-e0b3-4ad3-a622-07372bd3fd26

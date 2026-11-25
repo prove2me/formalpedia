@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_local_section_of_isIntegralElem_normal_scheme
 -- name    : GlobalTheory.T.exists_local_section_of_isIntegralElem_normal_scheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:13.369122+00:00
 -- url     : https://prove2.me/theorems/ce136f34-aa15-572b-a5bd-9180ddcd2134

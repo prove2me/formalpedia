@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourierJacobi_coeff_linear_bounded_sections
 -- name    : GlobalTheory.T.fourierJacobi_coeff_linear_bounded_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:30.417206+00:00
 -- url     : https://prove2.me/theorems/4ac5af93-1688-4190-8fe8-aa82f61c8a6a

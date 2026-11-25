@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xiNorm
 -- name    : Formalism.BranchingDeterminantCap.xiNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:24:48.689533+00:00
 -- url     : https://prove2.me/theorems/bef6c4e5-a33d-4485-9d53-55759688c818

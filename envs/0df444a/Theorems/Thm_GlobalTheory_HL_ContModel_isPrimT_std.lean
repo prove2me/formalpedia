@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_isPrimT_std
 -- name    : GlobalTheory.HL.ContModel.isPrimT_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:12.222588+00:00
 -- url     : https://prove2.me/theorems/ccd3e721-d1e6-4fa0-81d5-bfe0dd2e771f

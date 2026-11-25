@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isUniversalChart_of_formalGroupChart
 -- name    : GlobalTheory.T.isUniversalChart_of_formalGroupChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:06.318817+00:00
 -- url     : https://prove2.me/theorems/eadf1229-4e0d-4303-91df-020e41f940e3

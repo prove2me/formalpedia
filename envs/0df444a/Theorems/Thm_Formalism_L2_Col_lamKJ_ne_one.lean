@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lamKJ_ne_one
 -- name    : Formalism.L2.Col.lamKJ_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:44:49.506079+00:00
 -- url     : https://prove2.me/theorems/a9eb571b-2990-4959-ba2e-0b90f62a2c08

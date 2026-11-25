@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_epCoefInt
 -- name    : Formalism.FourierDecayAlt.P.LEx1.epCoefInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:29:36.625801+00:00
 -- url     : https://prove2.me/theorems/42c77e06-a311-427a-8413-ce0355352688

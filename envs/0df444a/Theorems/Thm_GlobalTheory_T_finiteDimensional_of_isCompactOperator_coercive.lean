@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteDimensional_of_isCompactOperator_coercive
 -- name    : GlobalTheory.T.finiteDimensional_of_isCompactOperator_coercive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:31:09.2285+00:00
 -- url     : https://prove2.me/theorems/84bc9c1e-f9ab-553a-9115-172c10fd702b

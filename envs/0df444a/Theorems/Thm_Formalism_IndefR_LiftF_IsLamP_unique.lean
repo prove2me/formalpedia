@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LiftF_IsLamP_unique
 -- name    : Formalism.IndefR.LiftF.IsLamP.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:44:51.206367+00:00
 -- url     : https://prove2.me/theorems/2bd5aa3b-9fc3-5b30-b786-3443e079a818

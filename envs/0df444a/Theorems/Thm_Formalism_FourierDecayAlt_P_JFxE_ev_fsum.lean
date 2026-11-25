@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxE_ev_fsum
 -- name    : Formalism.FourierDecayAlt.P.JFxE.ev_fsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:30:09.492407+00:00
 -- url     : https://prove2.me/theorems/53724935-f0f4-405b-8465-282e6779a97f

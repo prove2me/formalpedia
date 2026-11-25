@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_adj_eq_inv
 -- name    : GlobalTheory.RegSS.adj_eq_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:33:11.997628+00:00
 -- url     : https://prove2.me/theorems/2c11f658-b755-48b4-839b-45b215eeb618

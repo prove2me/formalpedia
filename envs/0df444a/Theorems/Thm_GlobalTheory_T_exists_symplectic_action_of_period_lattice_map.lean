@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_symplectic_action_of_period_lattice_map
 -- name    : GlobalTheory.T.exists_symplectic_action_of_period_lattice_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:30:57.007517+00:00
 -- url     : https://prove2.me/theorems/8603155d-e0ef-52c5-8870-1b841b050119

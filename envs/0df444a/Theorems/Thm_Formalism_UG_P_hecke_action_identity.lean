@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_hecke_action_identity
 -- name    : Formalism.UG.P.hecke_action_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:24.8002+00:00
 -- url     : https://prove2.me/theorems/0fbdc61d-76fe-47c8-8916-b9fa4ef43790

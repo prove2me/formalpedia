@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_exists_affine
 -- name    : GlobalTheory.Retract.exists_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:19:46.758867+00:00
 -- url     : https://prove2.me/theorems/db656e06-0575-4f4d-9c31-e856acfb8f0f

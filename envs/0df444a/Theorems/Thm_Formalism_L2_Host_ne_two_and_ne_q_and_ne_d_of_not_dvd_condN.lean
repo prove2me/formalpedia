@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_ne_two_and_ne_q_and_ne_d_of_not_dvd_condN
 -- name    : Formalism.L2.Host.ne_two_and_ne_q_and_ne_d_of_not_dvd_condN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:49.852795+00:00
 -- url     : https://prove2.me/theorems/3739a7b6-03a6-4e18-a2c9-ebda5b234a3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_tensorIrr
 -- name    : PositivityTheory.KReal.tensorIrr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:14:11.337797+00:00
 -- url     : https://prove2.me/theorems/da90d680-0629-5df3-8af2-060a00a1aa6c

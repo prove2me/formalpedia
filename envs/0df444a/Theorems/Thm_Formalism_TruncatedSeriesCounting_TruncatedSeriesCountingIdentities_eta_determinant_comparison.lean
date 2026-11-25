@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TruncatedSeriesCounting_TruncatedSeriesCountingIdentities_eta_determinant_comparison
 -- name    : Formalism.TruncatedSeriesCounting.TruncatedSeriesCountingIdentities.eta_determinant_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:53:18.092609+00:00
 -- url     : https://prove2.me/theorems/34c980ec-6012-4ebc-82f5-37d18a329011

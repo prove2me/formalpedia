@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_push_hom
 -- name    : GlobalTheory.HeckeFrCompare.push_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:58:36.278805+00:00
 -- url     : https://prove2.me/theorems/988a3eb5-2b05-4a1c-8ea0-bd7af32170fe

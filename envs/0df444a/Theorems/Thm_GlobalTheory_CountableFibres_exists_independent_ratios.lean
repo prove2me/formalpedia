@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountableFibres_exists_independent_ratios
 -- name    : GlobalTheory.CountableFibres.exists_independent_ratios
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:47.868601+00:00
 -- url     : https://prove2.me/theorems/5b48fcde-5306-569e-9af8-9a50668615d2

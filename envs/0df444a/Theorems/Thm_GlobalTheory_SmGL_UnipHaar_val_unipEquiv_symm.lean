@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_UnipHaar_val_unipEquiv_symm
 -- name    : GlobalTheory.SmGL.UnipHaar.val_unipEquiv_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:24:15.125356+00:00
 -- url     : https://prove2.me/theorems/1db1c9af-6bae-4e32-8eb7-38a5c76b9c14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignChar_pairing_sum_left
 -- name    : GlobalTheory.SignChar.pairing_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:13:45.724123+00:00
 -- url     : https://prove2.me/theorems/13f890b5-6c73-447f-8cef-26bbf2dfd54e

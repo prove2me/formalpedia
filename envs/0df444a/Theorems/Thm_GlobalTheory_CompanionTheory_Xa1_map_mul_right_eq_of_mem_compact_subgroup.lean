@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Xa1_map_mul_right_eq_of_mem_compact_subgroup
 -- name    : GlobalTheory.CompanionTheory.Xa1.map_mul_right_eq_of_mem_compact_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:01:55.518605+00:00
 -- url     : https://prove2.me/theorems/bf64e617-2e06-5589-b1b5-9e98cae1ca41

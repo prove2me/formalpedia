@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_irreducible_linForm
 -- name    : GlobalTheory.ChowHt.irreducible_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:00:40.990857+00:00
 -- url     : https://prove2.me/theorems/8491c5d1-d4da-40dc-ae07-3d155d7faa23

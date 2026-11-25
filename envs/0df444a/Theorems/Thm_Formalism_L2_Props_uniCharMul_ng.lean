@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Props_uniCharMul_ng
 -- name    : Formalism.L2.Props.uniCharMul_ng
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:40.611572+00:00
 -- url     : https://prove2.me/theorems/9676be65-bd58-4fb2-be38-516a258809e4

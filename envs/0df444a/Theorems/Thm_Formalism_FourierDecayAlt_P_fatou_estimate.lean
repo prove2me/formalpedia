@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fatou_estimate
 -- name    : Formalism.FourierDecayAlt.P.fatou_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:32:14.198457+00:00
 -- url     : https://prove2.me/theorems/ebc077a4-5df2-4559-a1be-6f6763227436

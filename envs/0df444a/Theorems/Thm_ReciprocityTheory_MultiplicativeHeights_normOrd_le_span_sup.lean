@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_normOrd_le_span_sup
 -- name    : ReciprocityTheory.MultiplicativeHeights.normOrd_le_span_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:32.120836+00:00
 -- url     : https://prove2.me/theorems/676b7d37-046c-4d34-83b7-d7287fb02b16

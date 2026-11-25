@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_mem_span_pow_of_coeff
 -- name    : ReciprocityTheory.PGsh.mem_span_pow_of_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:24.24913+00:00
 -- url     : https://prove2.me/theorems/1ea1bb5b-7a1c-4e3d-b2f4-c902248dd391

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_mulEquiv_mem_iff
 -- name    : GlobalTheory.Idele.mulEquiv_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:21.762803+00:00
 -- url     : https://prove2.me/theorems/f2dc23be-8c20-48f7-a130-98d875b62a21

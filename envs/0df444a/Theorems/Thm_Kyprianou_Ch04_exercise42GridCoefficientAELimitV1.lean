@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42GridCoefficientAELimitV1
 -- name    : Kyprianou.Ch04.exercise42GridCoefficientAELimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T10:12:03.224852+00:00
 -- url     : https://prove2.me/theorems/45884d48-a065-4764-b064-906720dafdf1

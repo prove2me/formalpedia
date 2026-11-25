@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_BaseMetric_frames_of_tie
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.BaseMetric.frames_of_tie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:30.762795+00:00
 -- url     : https://prove2.me/theorems/61c77901-489a-41f1-b0a9-a205d9c848ae

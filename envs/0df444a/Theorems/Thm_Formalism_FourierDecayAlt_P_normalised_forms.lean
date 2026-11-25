@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_normalised_forms
 -- name    : Formalism.FourierDecayAlt.P.normalised_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:33:24.243186+00:00
 -- url     : https://prove2.me/theorems/01996ffa-8842-4372-a955-9a51806b8130

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_DYha2_main
 -- name    : UpperTheory.Reformulated.B.DYha2.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:12:06.613932+00:00
 -- url     : https://prove2.me/theorems/262055f1-0a0d-5052-9916-70881bf03c3c

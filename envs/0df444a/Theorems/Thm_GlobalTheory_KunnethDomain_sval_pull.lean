@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KunnethDomain_sval_pull
 -- name    : GlobalTheory.KunnethDomain.sval_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:58:16.00523+00:00
 -- url     : https://prove2.me/theorems/e245fea5-b58d-41c1-ace6-3ca412a11fd7

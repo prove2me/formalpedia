@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogKS_mem_balanced_diagonal
 -- name    : GlobalTheory.LogKS.mem_balanced_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:26:01.311289+00:00
 -- url     : https://prove2.me/theorems/0c4bfc11-999c-5608-84ce-e6560fd72c30

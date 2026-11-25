@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_weber_function_root
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.weber_function_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:26.834529+00:00
 -- url     : https://prove2.me/theorems/9760c10b-f1bc-4641-ab85-4679c8abd9bb

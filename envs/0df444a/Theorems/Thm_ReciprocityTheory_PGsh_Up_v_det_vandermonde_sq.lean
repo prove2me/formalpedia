@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_v_det_vandermonde_sq
 -- name    : ReciprocityTheory.PGsh.Up.v_det_vandermonde_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:12.842731+00:00
 -- url     : https://prove2.me/theorems/86d6c48d-87c9-5e77-962b-305dec06416e

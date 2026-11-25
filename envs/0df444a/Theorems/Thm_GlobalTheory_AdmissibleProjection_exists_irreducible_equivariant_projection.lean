@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmissibleProjection_exists_irreducible_equivariant_projection
 -- name    : GlobalTheory.AdmissibleProjection.exists_irreducible_equivariant_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:55:27.080243+00:00
 -- url     : https://prove2.me/theorems/f2e066a4-b4a3-4f6b-99d7-a5ddecc72489

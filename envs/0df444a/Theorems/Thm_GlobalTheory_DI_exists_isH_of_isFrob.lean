@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_exists_isH_of_isFrob
 -- name    : GlobalTheory.DI.exists_isH_of_isFrob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:28.980312+00:00
 -- url     : https://prove2.me/theorems/02e9fb49-f3ad-574d-9677-0ce259a968b6

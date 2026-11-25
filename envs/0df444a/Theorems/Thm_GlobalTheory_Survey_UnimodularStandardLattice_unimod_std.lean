@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_UnimodularStandardLattice_unimod_std
 -- name    : GlobalTheory.Survey.UnimodularStandardLattice.unimod_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:25:51.956011+00:00
 -- url     : https://prove2.me/theorems/a0ef3064-f579-4aed-8106-fa3a0385e5d7

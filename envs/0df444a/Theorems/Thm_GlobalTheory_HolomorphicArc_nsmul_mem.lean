@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolomorphicArc_nsmul_mem
 -- name    : GlobalTheory.HolomorphicArc.nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:07:54.136302+00:00
 -- url     : https://prove2.me/theorems/9de92844-beed-5fb3-8135-6d076db83c5e

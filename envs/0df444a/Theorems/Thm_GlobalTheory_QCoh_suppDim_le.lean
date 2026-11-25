@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_suppDim_le
 -- name    : GlobalTheory.QCoh.suppDim_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:19:49.626946+00:00
 -- url     : https://prove2.me/theorems/4bfd68f1-7d9a-426c-8cce-ab52a11585ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StarTensor_rid_star
 -- name    : GlobalTheory.StarTensor.rid_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:36.002573+00:00
 -- url     : https://prove2.me/theorems/427b50c1-8141-4cec-9c6c-5a71b7d1d97e

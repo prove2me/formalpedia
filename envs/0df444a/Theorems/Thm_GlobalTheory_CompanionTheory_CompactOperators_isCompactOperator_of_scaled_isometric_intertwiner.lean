@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CompactOperators_isCompactOperator_of_scaled_isometric_intertwiner
 -- name    : GlobalTheory.CompanionTheory.CompactOperators.isCompactOperator_of_scaled_isometric_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:29.501211+00:00
 -- url     : https://prove2.me/theorems/d9efeaea-00d2-492d-b898-2828657d7290

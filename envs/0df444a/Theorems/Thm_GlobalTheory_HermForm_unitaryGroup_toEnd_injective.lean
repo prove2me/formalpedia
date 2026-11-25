@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_unitaryGroup_toEnd_injective
 -- name    : GlobalTheory.HermForm.unitaryGroup.toEnd_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:07:21.584667+00:00
 -- url     : https://prove2.me/theorems/08c406e7-6111-4943-87fe-780327e0fe49

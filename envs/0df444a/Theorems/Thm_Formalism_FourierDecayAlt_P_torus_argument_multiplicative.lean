@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_torus_argument_multiplicative
 -- name    : Formalism.FourierDecayAlt.P.torus_argument_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:40:54.263406+00:00
 -- url     : https://prove2.me/theorems/fe42f800-ea96-5b20-9364-c71ba7c5e047

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarScaleMatrix_integral_comp_addEquiv_matrix
 -- name    : GlobalTheory.HaarScaleMatrix.integral_comp_addEquiv_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:32.743061+00:00
 -- url     : https://prove2.me/theorems/44225b00-c3e5-4575-b002-d67be4cee1dd

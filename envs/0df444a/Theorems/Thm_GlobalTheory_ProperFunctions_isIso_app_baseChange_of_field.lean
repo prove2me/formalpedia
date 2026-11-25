@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperFunctions_isIso_app_baseChange_of_field
 -- name    : GlobalTheory.ProperFunctions.isIso_app_baseChange_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:15:42.626923+00:00
 -- url     : https://prove2.me/theorems/3d423838-8a0a-5910-a8b5-5b97ca9d7b36

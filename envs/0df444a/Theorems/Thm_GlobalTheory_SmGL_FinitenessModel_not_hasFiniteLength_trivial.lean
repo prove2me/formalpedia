@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_FinitenessModel_not_hasFiniteLength_trivial
 -- name    : GlobalTheory.SmGL.FinitenessModel.not_hasFiniteLength_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:24:30.799223+00:00
 -- url     : https://prove2.me/theorems/81bc6527-0284-4d6b-8d0c-c0c30b1fadf2

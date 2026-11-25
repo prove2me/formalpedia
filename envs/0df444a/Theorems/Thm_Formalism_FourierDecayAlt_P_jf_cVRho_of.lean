@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_jf_cVRho_of
 -- name    : Formalism.FourierDecayAlt.P.jf_cVRho_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:25:21.906127+00:00
 -- url     : https://prove2.me/theorems/5f7d1a60-4a93-4c7c-8eaf-60710770970f

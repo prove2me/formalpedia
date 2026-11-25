@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_degree
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:11.73714+00:00
 -- url     : https://prove2.me/theorems/c80110a0-adc2-5181-9ea6-8c11cbead0db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_fnum_eq_rho_mul_sum_of_demand_ratio_le
 -- name    : UpperTheory.fnum_eq_rho_mul_sum_of_demand_ratio_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:13:28.715443+00:00
 -- url     : https://prove2.me/theorems/93d0b80e-642a-4921-a51d-928fc127f2c1

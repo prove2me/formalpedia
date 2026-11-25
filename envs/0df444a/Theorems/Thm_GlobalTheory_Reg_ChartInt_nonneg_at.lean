@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_nonneg_at
 -- name    : GlobalTheory.Reg.ChartInt.nonneg_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:29:56.616321+00:00
 -- url     : https://prove2.me/theorems/a18591fe-8f1e-48bf-be80-41f6b9c5b94d

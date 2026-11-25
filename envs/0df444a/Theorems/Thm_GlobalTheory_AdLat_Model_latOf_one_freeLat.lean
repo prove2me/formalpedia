@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Model_latOf_one_freeLat
 -- name    : GlobalTheory.AdLat.Model.latOf_one_freeLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:54:49.902363+00:00
 -- url     : https://prove2.me/theorems/421f3cfc-948f-45f9-9169-746e617cbd44

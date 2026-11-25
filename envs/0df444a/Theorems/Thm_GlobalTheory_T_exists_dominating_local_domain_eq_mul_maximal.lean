@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_dominating_local_domain_eq_mul_maximal
 -- name    : GlobalTheory.T.exists_dominating_local_domain_eq_mul_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:29:05.561872+00:00
 -- url     : https://prove2.me/theorems/145912d3-b703-4511-8623-8925d9131c93

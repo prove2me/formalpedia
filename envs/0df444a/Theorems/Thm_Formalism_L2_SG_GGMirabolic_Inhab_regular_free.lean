@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_Inhab_regular_free
 -- name    : Formalism.L2.SG.GGMirabolic.Inhab.regular_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:47:55.957964+00:00
 -- url     : https://prove2.me/theorems/3543e159-eda2-41d9-b381-bf66fa8d4dc2

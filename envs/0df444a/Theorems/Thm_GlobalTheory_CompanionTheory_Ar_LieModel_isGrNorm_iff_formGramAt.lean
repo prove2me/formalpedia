@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_LieModel_isGrNorm_iff_formGramAt
 -- name    : GlobalTheory.CompanionTheory.Ar.LieModel.isGrNorm_iff_formGramAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:00:57.201411+00:00
 -- url     : https://prove2.me/theorems/83c7ea7c-359f-4809-8417-c8de3cc4267a

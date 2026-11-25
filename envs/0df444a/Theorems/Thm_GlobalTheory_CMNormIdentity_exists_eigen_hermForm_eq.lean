@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMNormIdentity_exists_eigen_hermForm_eq
 -- name    : GlobalTheory.CMNormIdentity.exists_eigen_hermForm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:30.027707+00:00
 -- url     : https://prove2.me/theorems/f88f8073-f642-5423-b95e-31b50308a773

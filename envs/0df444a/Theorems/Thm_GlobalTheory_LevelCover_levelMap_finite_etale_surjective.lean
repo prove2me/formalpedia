@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCover_levelMap_finite_etale_surjective
 -- name    : GlobalTheory.LevelCover.levelMap_finite_etale_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:19:56.09847+00:00
 -- url     : https://prove2.me/theorems/d0449439-7eba-436a-90e3-046d0e5b8398

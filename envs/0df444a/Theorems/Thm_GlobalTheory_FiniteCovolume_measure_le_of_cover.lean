@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCovolume_measure_le_of_cover
 -- name    : GlobalTheory.FiniteCovolume.measure_le_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:30:48.893871+00:00
 -- url     : https://prove2.me/theorems/a230bf2a-142c-4353-b844-dee0df930fd9

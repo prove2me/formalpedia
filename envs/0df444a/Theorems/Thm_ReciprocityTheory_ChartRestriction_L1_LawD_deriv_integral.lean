@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_LawD_deriv_integral
 -- name    : ReciprocityTheory.ChartRestriction.L1.LawD.deriv_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:56:28.362496+00:00
 -- url     : https://prove2.me/theorems/785f7db1-1650-4e97-9f93-b71eb836d116

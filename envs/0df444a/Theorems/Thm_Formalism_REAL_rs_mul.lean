@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rs_mul
 -- name    : Formalism.REAL.rs_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:10.037103+00:00
 -- url     : https://prove2.me/theorems/1544e988-81fd-45c0-8a08-d59c05a03206

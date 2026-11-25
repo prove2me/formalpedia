@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_algebra_localization_eq_zero_of_avoid_fibre_minimal
 -- name    : GlobalTheory.T.smooth_algebra_localization_eq_zero_of_avoid_fibre_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:04:39.549407+00:00
 -- url     : https://prove2.me/theorems/2d0a39c1-b1ff-4c43-8ee6-2cc66d81314e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripleMap_pmaps_cubical
 -- name    : GlobalTheory.TripleMap.pmaps_cubical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:58:05.127523+00:00
 -- url     : https://prove2.me/theorems/2732f6b1-326a-4b26-8ed5-9dc7111332e6

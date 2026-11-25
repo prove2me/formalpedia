@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_IntThetaZ_of
 -- name    : Formalism.L2.Th1.E.IntThetaZ_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:12:52.852539+00:00
 -- url     : https://prove2.me/theorems/588aeb42-de1f-4744-b7ed-6446b9b58e74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_RegCharts_scaled_W_subset_cd3accf47d3b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_RegCharts_scaled_W_subset_cd3accf47d3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:31:34.242117+00:00
 -- url     : https://prove2.me/theorems/5192df3f-343c-47a2-81a7-9fb8bccefaf8

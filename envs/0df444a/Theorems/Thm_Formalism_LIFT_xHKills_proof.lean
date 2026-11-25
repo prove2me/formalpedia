@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_xHKills_proof
 -- name    : Formalism.LIFT.xHKills_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:49:21.701591+00:00
 -- url     : https://prove2.me/theorems/daec68ee-f92f-54ca-988f-f1eb4dd47c13

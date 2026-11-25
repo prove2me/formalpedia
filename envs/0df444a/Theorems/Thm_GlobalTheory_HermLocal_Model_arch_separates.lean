@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_Model_arch_separates
 -- name    : GlobalTheory.HermLocal.Model.arch_separates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:19:18.531216+00:00
 -- url     : https://prove2.me/theorems/b420d3cf-7d66-53d9-a4a1-0757b4ab4562

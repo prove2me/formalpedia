@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_NbAvg_sum_nb
 -- name    : GlobalTheory.SW.NbAvg.sum_nb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:43:56.684128+00:00
 -- url     : https://prove2.me/theorems/b11ffe5f-8967-4c4d-94a3-e62f167a2541

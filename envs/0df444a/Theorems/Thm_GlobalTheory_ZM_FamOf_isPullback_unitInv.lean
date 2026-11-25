@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_FamOf_isPullback_unitInv
 -- name    : GlobalTheory.ZM.FamOf.isPullback_unitInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:00:53.028897+00:00
 -- url     : https://prove2.me/theorems/174136ea-c493-4645-b9b2-e709d47a8a0d

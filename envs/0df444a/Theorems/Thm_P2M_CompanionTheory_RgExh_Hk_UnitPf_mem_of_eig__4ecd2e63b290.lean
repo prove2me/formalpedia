@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_RgExh_Hk_UnitPf_mem_of_eig__4ecd2e63b290
 -- name    : P2M_CompanionTheory_RgExh_Hk_UnitPf_mem_of_eig__4ecd2e63b290
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:04:30.871077+00:00
 -- url     : https://prove2.me/theorems/0bd4521e-9df6-4d79-97f0-dbf28314cc16

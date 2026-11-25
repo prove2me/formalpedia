@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Avoid_exists_orderEmbedding_minor_ne_zero
 -- name    : GlobalTheory.Avoid.exists_orderEmbedding_minor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:56:49.640527+00:00
 -- url     : https://prove2.me/theorems/1df10146-10d2-4e6e-bb22-a941633ec6d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrthNear_orthNear
 -- name    : GlobalTheory.OrthNear.orthNear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:16:35.764241+00:00
 -- url     : https://prove2.me/theorems/50a165fc-3804-556e-942c-3e7c881526b2

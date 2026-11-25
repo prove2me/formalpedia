@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46GeometricCardMassV2
 -- name    : Kyprianou.Ch04.exercise46GeometricCardMassV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T14:53:34.952962+00:00
 -- url     : https://prove2.me/theorems/1be988bc-027e-4b04-904d-1ffd392f6d71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeRhamCompare_FilV_induction
 -- name    : GlobalTheory.DeRhamCompare.FilV_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:05:15.070797+00:00
 -- url     : https://prove2.me/theorems/f0505739-1059-4ac7-b240-de890d7a4395

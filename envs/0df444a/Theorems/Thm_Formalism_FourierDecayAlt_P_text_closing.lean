@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_text_closing
 -- name    : Formalism.FourierDecayAlt.P.text_closing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:35:52.525219+00:00
 -- url     : https://prove2.me/theorems/8129ae70-60b7-4d4a-8d82-589b7085ec60

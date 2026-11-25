@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubTrivTorus_connectedSpace_torus
 -- name    : GlobalTheory.CubTrivTorus.connectedSpace_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:06:18.283168+00:00
 -- url     : https://prove2.me/theorems/c49c72bf-3e3e-58b1-ae13-899fefa30b15

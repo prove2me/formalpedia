@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lattice_placement
 -- name    : Formalism.FourierDecayAlt.P.lattice_placement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:26.836261+00:00
 -- url     : https://prove2.me/theorems/4fdf4b34-8f03-4074-8b45-0d7dfc3fea05

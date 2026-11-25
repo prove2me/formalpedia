@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_shannon
 -- name    : ShannonColouring.shannon
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:02:56.410971+00:00
 -- url     : https://prove2.me/theorems/a2a8816f-87f6-424e-88bd-9e0b3e72480f

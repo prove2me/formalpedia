@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lift_forms_to_lattice_of_finite_invertible_stabilisers
 -- name    : GlobalTheory.T.lift_forms_to_lattice_of_finite_invertible_stabilisers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:36:11.806451+00:00
 -- url     : https://prove2.me/theorems/1c6129c2-6787-5c81-8e65-16bae8a03280

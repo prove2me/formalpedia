@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for P2M_Formalism_HermitianLatticeCounting_P_covering_radius_bound__3b5882ae4a38
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T16:30:24.81378+00:00
+-- url     : https://prove2.me/submissions/48527764-6bb7-48d8-b979-e05fab8e383f
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_CardSubmodulesAndLinearEquivBounds
+import Definitions.Def_Formalism_FlagUnipotentLattices_SubmoduleGeneratorsBound
+import Definitions.Def_Formalism_FlagUnipotentLattices_CoveringRadius2
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SumComplexEmbeddingsEqSumInfinitePlace
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LatticeSumTupleOfLatticeSumTuple
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransferenceCover
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_TransferenceCoveringDivisor
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_Residue
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_CoveringOfTransferenceVariant
+import Theorems.Thm_transference_covering_divisor
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.P
+namespace Formalism.HermitianLatticeCounting.P
+theorem _root_.solution : Formalism.HermitianLatticeCounting.S7.CoveringRadius2 := transference_covering_divisor
+end Formalism.HermitianLatticeCounting.P

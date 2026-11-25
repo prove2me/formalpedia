@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussSum_nondegenerate_finite_hermitian_module
 -- name    : GlobalTheory.T.gaussSum_nondegenerate_finite_hermitian_module
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:33:17.110576+00:00
 -- url     : https://prove2.me/theorems/3765603c-2781-53a8-9bb1-9f000321ae11

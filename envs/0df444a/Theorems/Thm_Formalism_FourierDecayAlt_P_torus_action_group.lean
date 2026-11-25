@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_torus_action_group
 -- name    : Formalism.FourierDecayAlt.P.torus_action_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:48.777491+00:00
 -- url     : https://prove2.me/theorems/24f9eefe-bbf0-41ac-9f17-1f8f1a3d03df

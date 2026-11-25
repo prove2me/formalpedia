@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_stabiliser_characterisation
 -- name    : Formalism.FourierDecayAlt.P.frame_stabiliser_characterisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:30:14.63614+00:00
 -- url     : https://prove2.me/theorems/832dc4bd-bee4-4764-901d-b0106207c86c

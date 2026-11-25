@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Avoid_exists_minor_ne_zero
 -- name    : GlobalTheory.Avoid.exists_minor_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:56:27.716043+00:00
 -- url     : https://prove2.me/theorems/8b05f0e3-cee8-506b-8ba9-be2f077c2b66

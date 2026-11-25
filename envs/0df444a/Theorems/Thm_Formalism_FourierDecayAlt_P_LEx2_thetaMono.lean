@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_thetaMono
 -- name    : Formalism.FourierDecayAlt.P.LEx2.thetaMono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:36.830077+00:00
 -- url     : https://prove2.me/theorems/84e13860-8ae2-5b07-a329-384d751e6e5c

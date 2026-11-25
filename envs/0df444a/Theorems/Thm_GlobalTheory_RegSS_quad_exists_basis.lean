@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_quad_exists_basis
 -- name    : GlobalTheory.RegSS.quad_exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:08.801841+00:00
 -- url     : https://prove2.me/theorems/cf5d0485-ec5b-4301-a0da-553189c3c214

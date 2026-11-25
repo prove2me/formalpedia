@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_leviCol_eq
 -- name    : GlobalTheory.TwoLines.leviCol_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:55:30.516066+00:00
 -- url     : https://prove2.me/theorems/5047aff4-89d0-55a4-b0d9-06c2c8db7849

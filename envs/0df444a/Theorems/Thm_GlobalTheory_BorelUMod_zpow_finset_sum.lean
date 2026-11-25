@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_zpow_finset_sum
 -- name    : GlobalTheory.BorelUMod.zpow_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:07:30.772872+00:00
 -- url     : https://prove2.me/theorems/88c19f71-7e9d-5d3f-97f6-f8f1a9ec4ea6

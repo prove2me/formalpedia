@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_UnipotentHaarMeasurability_smooth_admissible_form_one_side
 -- name    : Formalism.FourierDecayAlt.P.UnipotentHaarMeasurability.smooth_admissible_form_one_side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:33:47.46443+00:00
 -- url     : https://prove2.me/theorems/de9d8190-f997-4323-a07d-5fbc39517a66

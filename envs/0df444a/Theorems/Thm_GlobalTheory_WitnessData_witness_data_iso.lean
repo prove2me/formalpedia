@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WitnessData_witness_data_iso
 -- name    : GlobalTheory.WitnessData.witness_data_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:01:13.238802+00:00
 -- url     : https://prove2.me/theorems/2acff42f-6e4e-4105-953f-87cc54dcef3c

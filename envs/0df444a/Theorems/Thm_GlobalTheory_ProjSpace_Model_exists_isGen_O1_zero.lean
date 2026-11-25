@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_exists_isGen_O1_zero
 -- name    : GlobalTheory.ProjSpace.Model.exists_isGen_O1_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:29:13.277323+00:00
 -- url     : https://prove2.me/theorems/9ef595a1-254c-5e32-bbe8-b23ef2b2bf3a

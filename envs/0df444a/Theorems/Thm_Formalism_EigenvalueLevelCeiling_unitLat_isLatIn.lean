@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_unitLat_isLatIn
 -- name    : Formalism.EigenvalueLevelCeiling.unitLat_isLatIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:28:30.243933+00:00
 -- url     : https://prove2.me/theorems/68ccd1da-1ffb-47ad-98ef-c93737e60001

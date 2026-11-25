@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finiteDimensional_orbit_of_boundedRank_generated
 -- name    : GlobalTheory.T.exists_finiteDimensional_orbit_of_boundedRank_generated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:28:56.69571+00:00
 -- url     : https://prove2.me/theorems/e492a290-cfe0-5d2f-afbe-0950df86365b

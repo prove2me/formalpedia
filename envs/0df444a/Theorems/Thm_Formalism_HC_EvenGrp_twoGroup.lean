@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_twoGroup
 -- name    : Formalism.HC.EvenGrp.twoGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:45:25.076989+00:00
 -- url     : https://prove2.me/theorems/e6c2427c-f279-5f9e-8953-4618531958b3

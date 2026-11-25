@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_ev_torusMap
 -- name    : GlobalTheory.CubeLift.ev_torusMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:58:44.100884+00:00
 -- url     : https://prove2.me/theorems/2a0034d0-1459-4e90-afa1-fa95bca6e756

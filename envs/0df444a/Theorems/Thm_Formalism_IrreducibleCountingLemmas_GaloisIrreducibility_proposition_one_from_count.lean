@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_proposition_one_from_count
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.proposition_one_from_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:43.297825+00:00
 -- url     : https://prove2.me/theorems/6b1b49ef-b624-524f-9f94-69802d837ec0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_Std_full
 -- name    : GlobalTheory.NL.Model.Std.full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:14:54.331808+00:00
 -- url     : https://prove2.me/theorems/920076b4-db1f-4cc1-89f0-c74aa59063d1

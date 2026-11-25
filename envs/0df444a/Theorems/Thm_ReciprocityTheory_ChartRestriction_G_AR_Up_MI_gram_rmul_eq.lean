@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_gram_rmul_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.gram_rmul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:26.389805+00:00
 -- url     : https://prove2.me/theorems/6dea5260-2169-4f38-903e-9b1f2253e426

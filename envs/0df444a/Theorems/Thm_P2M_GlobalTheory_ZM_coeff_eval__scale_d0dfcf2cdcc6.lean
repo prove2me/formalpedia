@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZM_coeff_eval__scale_d0dfcf2cdcc6
 -- name    : P2M_GlobalTheory_ZM_coeff_eval__scale_d0dfcf2cdcc6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:50:14.14439+00:00
 -- url     : https://prove2.me/theorems/b2c63137-193c-470c-84f2-c0d346059545

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_compactSup_measurable
 -- name    : Kyprianou.Ch04.kw47_compactSup_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:24:32.291108+00:00
 -- url     : https://prove2.me/theorems/be42babe-065a-4aa9-b064-21480b862a45

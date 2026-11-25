@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_exists_nonneg_dual_fnum_sub_le_of_demand_near_mul
 -- name    : UpperTheory.exists_nonneg_dual_fnum_sub_le_of_demand_near_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:13:08.369675+00:00
 -- url     : https://prove2.me/theorems/b5745ce6-62ba-4c3c-9070-fc015778892b

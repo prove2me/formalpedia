@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_of_leading_term
 -- name    : Formalism.FourierDecayAlt.P.norm_of_leading_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:34:37.960861+00:00
 -- url     : https://prove2.me/theorems/8f139e3c-850d-4337-9ea4-c9a3dd0886e3

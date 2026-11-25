@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_pairRes_pullHO2
 -- name    : GlobalTheory.CechDR.pairRes_pullHO2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:50:32.021724+00:00
 -- url     : https://prove2.me/theorems/190df1ea-b60c-469c-b86c-04f8e38aad9c

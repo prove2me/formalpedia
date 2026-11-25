@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_NFCpt_tower_integral
 -- name    : CompanionTheory.NFCpt.tower_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:18:37.03383+00:00
 -- url     : https://prove2.me/theorems/a3eeeac6-29ba-4ba2-b05e-778444bfc3df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Model_isActC_unique
 -- name    : GlobalTheory.Cyc.Model.isActC_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:03:22.381288+00:00
 -- url     : https://prove2.me/theorems/2f7b1ceb-fc86-4134-808b-eafde3937073

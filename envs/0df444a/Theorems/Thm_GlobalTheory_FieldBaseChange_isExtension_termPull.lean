@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_isExtension_termPull
 -- name    : GlobalTheory.FieldBaseChange.isExtension_termPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:36:11.669275+00:00
 -- url     : https://prove2.me/theorems/a56896f2-d67d-41f3-97f1-87e07b4e305c

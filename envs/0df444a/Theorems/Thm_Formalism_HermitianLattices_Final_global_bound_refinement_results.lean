@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Final_global_bound_refinement_results
 -- name    : Formalism.HermitianLattices.Final.global_bound_refinement_results
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:54.140269+00:00
 -- url     : https://prove2.me/theorems/f51832c7-2ffc-4e97-8361-00b9facc1ce1

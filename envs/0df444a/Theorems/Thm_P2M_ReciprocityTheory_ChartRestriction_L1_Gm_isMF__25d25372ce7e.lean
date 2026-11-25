@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_L1_Gm_isMF__25d25372ce7e
 -- name    : P2M_ReciprocityTheory_ChartRestriction_L1_Gm_isMF__25d25372ce7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:06:32.279347+00:00
 -- url     : https://prove2.me/theorems/3c4ce660-d91a-4f9a-9d08-7e69da1c26fd

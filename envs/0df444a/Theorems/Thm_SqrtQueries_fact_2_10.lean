@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SqrtQueries_fact_2_10
 -- name    : SqrtQueries.fact_2_10
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-08T13:28:58.86018+00:00
 -- url     : https://prove2.me/theorems/bcbc84ef-ecc1-4c95-b9f2-ecdb1b1c3806

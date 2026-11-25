@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_sExt
 -- name    : UnipMove.sExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:12:15.176955+00:00
 -- url     : https://prove2.me/theorems/4a8e63a3-f5b1-4236-9cd7-6ebe679561af

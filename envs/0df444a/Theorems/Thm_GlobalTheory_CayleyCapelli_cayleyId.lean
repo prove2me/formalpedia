@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CayleyCapelli_cayleyId
 -- name    : GlobalTheory.CayleyCapelli.cayleyId
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:37:54.621214+00:00
 -- url     : https://prove2.me/theorems/9d89855d-7b47-4266-8aff-b2109f5b3d08

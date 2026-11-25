@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_compact_conjugation_of_uniqueness
 -- name    : Formalism.FourierDecayAlt.P.compact_conjugation_of_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:30:20.166529+00:00
 -- url     : https://prove2.me/theorems/2b9887f9-8e36-5145-bd1a-c987d16b31f2

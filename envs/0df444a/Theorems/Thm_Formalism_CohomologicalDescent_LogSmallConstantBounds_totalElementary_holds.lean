@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_totalElementary_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.totalElementary_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:22:06.929617+00:00
 -- url     : https://prove2.me/theorems/837a3e32-925e-43f2-b3ae-6c6d84daaa3a

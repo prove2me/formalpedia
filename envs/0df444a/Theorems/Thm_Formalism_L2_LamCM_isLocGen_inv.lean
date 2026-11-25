@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_isLocGen_inv
 -- name    : Formalism.L2.LamCM.isLocGen_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:37.508499+00:00
 -- url     : https://prove2.me/theorems/e3d778df-aa7a-49dd-833f-00a36dc9706f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_canonGauge_independence_all
 -- name    : GlobalTheory.canonGauge_independence_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:14:35.331873+00:00
 -- url     : https://prove2.me/theorems/21039c90-6acd-4576-9107-f4ecd817b93f

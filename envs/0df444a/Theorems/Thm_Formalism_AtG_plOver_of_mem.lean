@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_plOver_of_mem
 -- name    : Formalism.AtG.plOver_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:24:29.232199+00:00
 -- url     : https://prove2.me/theorems/cd018476-a360-477e-931e-e3cab1e0ccce

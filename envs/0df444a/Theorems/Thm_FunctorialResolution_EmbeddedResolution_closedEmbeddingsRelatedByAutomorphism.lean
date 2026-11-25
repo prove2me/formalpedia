@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_closedEmbeddingsRelatedByAutomorphism
 -- name    : FunctorialResolution.EmbeddedResolution.closedEmbeddingsRelatedByAutomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:52:59.943282+00:00
 -- url     : https://prove2.me/theorems/de34b273-ddb1-4e19-8aca-365d2f8fa41b

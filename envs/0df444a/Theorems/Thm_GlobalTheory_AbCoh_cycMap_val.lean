@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_cycMap_val
 -- name    : GlobalTheory.AbCoh.cycMap_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:58:56.687521+00:00
 -- url     : https://prove2.me/theorems/595b7f94-7d28-41d0-8233-c058b7ca6087

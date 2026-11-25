@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompRat_exists_complex_linear_of_pure_types
 -- name    : GlobalTheory.CompRat.exists_complex_linear_of_pure_types
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:20:45.352085+00:00
 -- url     : https://prove2.me/theorems/5ab3960d-524e-5167-9554-4cdfc729fb34

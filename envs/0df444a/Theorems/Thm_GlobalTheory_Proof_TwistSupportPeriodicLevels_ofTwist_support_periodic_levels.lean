@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_TwistSupportPeriodicLevels_ofTwist_support_periodic_levels
 -- name    : GlobalTheory.Proof.TwistSupportPeriodicLevels.ofTwist_support_periodic_levels
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:53.998474+00:00
 -- url     : https://prove2.me/theorems/11f90509-7692-4726-abc3-456df964a292

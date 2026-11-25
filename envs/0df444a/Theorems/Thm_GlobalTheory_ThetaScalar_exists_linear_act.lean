@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaScalar_exists_linear_act
 -- name    : GlobalTheory.ThetaScalar.exists_linear_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:07:48.169801+00:00
 -- url     : https://prove2.me/theorems/60a6e48c-7d23-4223-aa78-16e53556e4d9

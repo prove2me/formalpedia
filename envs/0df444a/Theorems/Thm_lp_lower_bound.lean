@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_lp_lower_bound
 -- name    : lp_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:14:42.399402+00:00
 -- url     : https://prove2.me/theorems/ad61c08c-7a9e-4126-994e-c7b1aa0cc27a

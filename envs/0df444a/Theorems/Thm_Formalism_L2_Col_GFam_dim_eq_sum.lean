@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GFam_dim_eq_sum
 -- name    : Formalism.L2.Col.GFam.dim_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:43:58.413817+00:00
 -- url     : https://prove2.me/theorems/4e2a7665-5777-46c0-96c4-8b7f4009d230

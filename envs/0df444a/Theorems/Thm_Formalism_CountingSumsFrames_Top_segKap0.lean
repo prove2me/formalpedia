@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segKap0
 -- name    : Formalism.CountingSumsFrames.Top.segKap0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:23:12.667241+00:00
 -- url     : https://prove2.me/theorems/fae2bc83-b3ab-4627-b06f-5194cfaae640

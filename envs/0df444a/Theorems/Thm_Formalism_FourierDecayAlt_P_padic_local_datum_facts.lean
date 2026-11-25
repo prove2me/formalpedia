@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_padic_local_datum_facts
 -- name    : Formalism.FourierDecayAlt.P.padic_local_datum_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:33:18.707114+00:00
 -- url     : https://prove2.me/theorems/5f8570dc-8034-5381-92b3-fcaa1d7d6341

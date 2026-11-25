@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisTrans_exists_sub_posSemidef
 -- name    : GlobalTheory.SW.EisTrans.exists_sub_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:55.466545+00:00
 -- url     : https://prove2.me/theorems/bae3fd9f-400b-5af9-a912-3bd9987e6e2c

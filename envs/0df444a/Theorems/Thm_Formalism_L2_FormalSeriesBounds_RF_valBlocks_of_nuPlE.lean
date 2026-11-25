@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_valBlocks_of_nuPlE
 -- name    : Formalism.L2.FormalSeriesBounds.RF.valBlocks_of_nuPlE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:44:59.30697+00:00
 -- url     : https://prove2.me/theorems/e8ef8a5a-7eb1-4397-8bfd-2ad1551fd164

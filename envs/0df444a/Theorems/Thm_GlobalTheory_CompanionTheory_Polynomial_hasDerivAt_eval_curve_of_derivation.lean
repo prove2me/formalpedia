@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Polynomial_hasDerivAt_eval_curve_of_derivation
 -- name    : GlobalTheory.CompanionTheory.Polynomial.hasDerivAt_eval_curve_of_derivation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:43.480854+00:00
 -- url     : https://prove2.me/theorems/146802b2-c072-4e39-83ce-1022a7a8a30c

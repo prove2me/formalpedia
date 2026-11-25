@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GapOpMain_gapOp
 -- name    : GlobalTheory.CompanionTheory.GapOpMain.gapOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:01:15.408857+00:00
 -- url     : https://prove2.me/theorems/98f8930a-dcce-4066-ac4c-12253c683062

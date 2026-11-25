@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QReversal_PGMBound_eq_40
 -- name    : QReversal.PGMBound.eq_40
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T08:59:22.062865+00:00
 -- url     : https://prove2.me/theorems/e67bba1b-431a-40b1-aaa0-ccf756268bd9

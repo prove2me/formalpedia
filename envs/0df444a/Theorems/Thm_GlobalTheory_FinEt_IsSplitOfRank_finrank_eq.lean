@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_IsSplitOfRank_finrank_eq
 -- name    : GlobalTheory.FinEt.IsSplitOfRank.finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:42.832224+00:00
 -- url     : https://prove2.me/theorems/c6821e27-8b2b-5b23-9675-59c10f932d2c

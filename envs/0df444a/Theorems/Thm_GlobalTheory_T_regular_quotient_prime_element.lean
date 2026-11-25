@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_regular_quotient_prime_element
 -- name    : GlobalTheory.T.regular_quotient_prime_element
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:26.979942+00:00
 -- url     : https://prove2.me/theorems/2e847e7e-0a95-5978-859f-6b6a80fcde02

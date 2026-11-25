@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_compact_unitaries_integral_orbit_of_hankelDet_ne_zero
 -- name    : GlobalTheory.T.exists_compact_unitaries_integral_orbit_of_hankelDet_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:29:02.769271+00:00
 -- url     : https://prove2.me/theorems/702e835f-349b-492c-9ae9-91de85bfede5

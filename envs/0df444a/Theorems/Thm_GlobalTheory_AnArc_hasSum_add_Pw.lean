@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_hasSum_add_Pw
 -- name    : GlobalTheory.AnArc.hasSum_add_Pw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:55:33.65866+00:00
 -- url     : https://prove2.me/theorems/153af0af-0bba-5933-b64b-5bf39fe9c4cc

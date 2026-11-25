@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCurve_ringKrullDim_orbitIdeal_cc019d8891ab
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCurve_ringKrullDim_orbitIdeal_cc019d8891ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:39.814238+00:00
 -- url     : https://prove2.me/theorems/46351d8f-c9dd-40af-8ba2-56b756ce3dfb

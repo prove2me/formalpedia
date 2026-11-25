@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtensionRigidity_isMonHom_of_pointed
 -- name    : GlobalTheory.ExtensionRigidity.isMonHom_of_pointed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:36:41.079282+00:00
 -- url     : https://prove2.me/theorems/e5892c47-9737-4c01-89c5-9721ff444415

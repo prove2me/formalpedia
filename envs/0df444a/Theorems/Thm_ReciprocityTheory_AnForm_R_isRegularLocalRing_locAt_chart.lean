@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isRegularLocalRing_locAt_chart
 -- name    : ReciprocityTheory.AnForm.R.isRegularLocalRing_locAt_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:20:42.58562+00:00
 -- url     : https://prove2.me/theorems/32d15ff5-1090-48a5-9b4a-60049138c7bb

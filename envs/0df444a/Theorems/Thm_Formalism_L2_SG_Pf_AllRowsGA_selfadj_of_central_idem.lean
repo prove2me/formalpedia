@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_AllRowsGA_selfadj_of_central_idem
 -- name    : Formalism.L2.SG.Pf.AllRowsGA.selfadj_of_central_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:46:20.490109+00:00
 -- url     : https://prove2.me/theorems/b1bb37d5-5b0b-5030-8847-75c2233d109d

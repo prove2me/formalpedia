@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isField_stalk_imageOfGenericPoint
 -- name    : GlobalTheory.T.isField_stalk_imageOfGenericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:34:06.726324+00:00
 -- url     : https://prove2.me/theorems/e9c61251-161a-5236-ad60-19b6298ab72b

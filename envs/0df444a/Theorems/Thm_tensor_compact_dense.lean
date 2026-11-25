@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_tensor_compact_dense
 -- name    : tensor_compact_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:16:43.031826+00:00
 -- url     : https://prove2.me/theorems/474daebc-cc0b-4283-a115-c805413590cf

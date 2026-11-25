@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_cutoffContinuous
 -- name    : ZetaZeros.D.EllReg.cutoffContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:30.634192+00:00
 -- url     : https://prove2.me/theorems/97608a08-3351-550b-993e-cb894b849895

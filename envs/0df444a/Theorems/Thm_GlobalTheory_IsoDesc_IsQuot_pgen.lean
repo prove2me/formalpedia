@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_IsQuot_pgen
 -- name    : GlobalTheory.IsoDesc.IsQuot.pgen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:55:53.467669+00:00
 -- url     : https://prove2.me/theorems/5a1d8735-a710-432f-bfb1-fbf204d54de4

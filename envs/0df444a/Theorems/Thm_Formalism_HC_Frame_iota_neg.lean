@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_iota_neg
 -- name    : Formalism.HC.Frame.iota_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:15.029258+00:00
 -- url     : https://prove2.me/theorems/5884dac5-f4a7-44c0-a437-6ad7d5839aab

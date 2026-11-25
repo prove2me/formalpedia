@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RingGlue_appLE_of_loc
 -- name    : GlobalTheory.RingGlue.appLE_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:01:06.153975+00:00
 -- url     : https://prove2.me/theorems/390c8c05-bd78-46e6-a27d-09a151a5e8bb

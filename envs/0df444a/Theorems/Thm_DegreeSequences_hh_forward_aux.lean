@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_hh_forward_aux
 -- name    : DegreeSequences.hh_forward_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:56:18.810191+00:00
 -- url     : https://prove2.me/theorems/9a96653e-f394-4f46-be44-7b3a73f79628

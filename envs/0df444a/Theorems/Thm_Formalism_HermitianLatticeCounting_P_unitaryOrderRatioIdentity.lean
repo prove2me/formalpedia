@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_unitaryOrderRatioIdentity
 -- name    : Formalism.HermitianLatticeCounting.P.unitaryOrderRatioIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:43.963067+00:00
 -- url     : https://prove2.me/theorems/b748687d-d37a-50cc-a922-79d35b7b41e0

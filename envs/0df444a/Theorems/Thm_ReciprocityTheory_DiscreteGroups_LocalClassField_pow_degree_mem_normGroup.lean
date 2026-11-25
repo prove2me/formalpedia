@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_pow_degree_mem_normGroup
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.pow_degree_mem_normGroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:00:14.8998+00:00
 -- url     : https://prove2.me/theorems/103542e1-0067-4b57-a6ec-fb67f84455a6

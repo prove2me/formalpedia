@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_inert_euler_holomorphic
 -- name    : Formalism.IrreducibleCountingLemmas.Z.inert_euler_holomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:08.159803+00:00
 -- url     : https://prove2.me/theorems/768aac84-cb04-5e03-8b0c-b574c46343b8

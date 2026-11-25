@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalValueRealScalar_exists_rat_bilinForm
 -- name    : GlobalTheory.RationalValueRealScalar.exists_rat_bilinForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:19:44.243673+00:00
 -- url     : https://prove2.me/theorems/ea6c9e4b-20b5-5cd3-81f7-8643f992e9d6

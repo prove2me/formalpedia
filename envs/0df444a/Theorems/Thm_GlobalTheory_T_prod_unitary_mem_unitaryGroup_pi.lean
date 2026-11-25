@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prod_unitary_mem_unitaryGroup_pi
 -- name    : GlobalTheory.T.prod_unitary_mem_unitaryGroup_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:28.089752+00:00
 -- url     : https://prove2.me/theorems/ca52ee19-ea55-5bd3-a95c-b264cb205e38

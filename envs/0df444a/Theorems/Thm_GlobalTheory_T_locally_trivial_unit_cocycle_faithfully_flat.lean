@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_locally_trivial_unit_cocycle_faithfully_flat
 -- name    : GlobalTheory.T.locally_trivial_unit_cocycle_faithfully_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:36:10.908871+00:00
 -- url     : https://prove2.me/theorems/d7318db6-6afe-4814-a9fb-944c635b62e5

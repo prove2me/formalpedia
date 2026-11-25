@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_LocalCrofton_const_arith
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.LocalCrofton.const_arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:41:21.813065+00:00
 -- url     : https://prove2.me/theorems/b146c53f-c589-4fe2-ae32-3beb62f1e37c

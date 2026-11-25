@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_wittVector_existsUnique_sub_matrix_frobenius_eq
 -- name    : GlobalTheory.T.wittVector_existsUnique_sub_matrix_frobenius_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:40:57.004655+00:00
 -- url     : https://prove2.me/theorems/f7d8c93b-b1ab-41ed-b138-584144e4b31d

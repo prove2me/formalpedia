@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_vPol_mem_Z
 -- name    : GlobalTheory.BK.Descent.vPol_mem_Z
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:54.48681+00:00
 -- url     : https://prove2.me/theorems/8eede27f-28f2-4d4c-802b-bc814f9cadd7

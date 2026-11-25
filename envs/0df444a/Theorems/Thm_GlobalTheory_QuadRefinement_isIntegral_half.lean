@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadRefinement_isIntegral_half
 -- name    : GlobalTheory.QuadRefinement.isIntegral_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:19:52.87246+00:00
 -- url     : https://prove2.me/theorems/b5f33ea4-a77c-542d-8aac-dfd954316b42

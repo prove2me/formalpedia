@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDescent_act_restrict
 -- name    : GlobalTheory.TraceDescent.act_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:48:49.354949+00:00
 -- url     : https://prove2.me/theorems/b7f58ef7-4dbf-452d-9d6b-dc70952be5d1

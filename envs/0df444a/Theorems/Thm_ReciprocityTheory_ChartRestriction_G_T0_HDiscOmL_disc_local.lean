@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscOmL_disc_local
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscOmL.disc_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:01:08.76041+00:00
 -- url     : https://prove2.me/theorems/3967e4b2-1fbf-4735-ba97-bb996c109e89

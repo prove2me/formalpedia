@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_normV_ne_zero
 -- name    : GlobalTheory.LocalInv.normV_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:26:27.874227+00:00
 -- url     : https://prove2.me/theorems/d6471068-824f-5820-8dc1-b2985646cd90

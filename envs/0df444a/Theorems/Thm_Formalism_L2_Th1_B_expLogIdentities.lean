@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_expLogIdentities
 -- name    : Formalism.L2.Th1.B.expLogIdentities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:47:45.298984+00:00
 -- url     : https://prove2.me/theorems/1932a9ed-849d-4a4b-af77-a750f13ee0a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxE_glRel_iff
 -- name    : Formalism.FourierDecayAlt.P.JFxE.glRel_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:28:03.531372+00:00
 -- url     : https://prove2.me/theorems/13200882-1458-4d29-8b36-40adcfe56859

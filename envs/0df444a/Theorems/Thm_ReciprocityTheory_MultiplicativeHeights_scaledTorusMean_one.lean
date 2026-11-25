@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_scaledTorusMean_one
 -- name    : ReciprocityTheory.MultiplicativeHeights.scaledTorusMean_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:04:44.041567+00:00
 -- url     : https://prove2.me/theorems/88167e6e-60b9-4ef3-a988-1059cc5f37b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLatticeCounting_Final_S7_coverRadius__5e27272149d3
 -- name    : P2M_Formalism_HermitianLatticeCounting_Final_S7_coverRadius__5e27272149d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:56:39.857844+00:00
 -- url     : https://prove2.me/theorems/236f64ee-c12d-4191-96bc-044ece597c74

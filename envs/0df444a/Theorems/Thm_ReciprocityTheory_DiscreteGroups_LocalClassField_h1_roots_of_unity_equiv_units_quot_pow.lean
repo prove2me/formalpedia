@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_h1_roots_of_unity_equiv_units_quot_pow
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.h1_roots_of_unity_equiv_units_quot_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:04:56.275635+00:00
 -- url     : https://prove2.me/theorems/8171e1ea-3234-4e6c-aaa9-21bf107ddd50

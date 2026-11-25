@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GPs_gelfand_Fint
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GPs.gelfand_Fint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:06:18.244613+00:00
 -- url     : https://prove2.me/theorems/ba374706-f5d7-4a37-bcd1-61b0a425db2b

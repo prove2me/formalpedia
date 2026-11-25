@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormaliserCutBound_main
 -- name    : GlobalTheory.NormaliserCutBound.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:39.892205+00:00
 -- url     : https://prove2.me/theorems/9c5a9fdb-3ad8-47fe-bf31-788319f65c67

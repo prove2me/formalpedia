@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_seminorm_inequality
 -- name    : Formalism.FourierDecayAlt.P.seminorm_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:44.12265+00:00
 -- url     : https://prove2.me/theorems/570085c8-2fa9-5362-b97f-f9b4f5698d87

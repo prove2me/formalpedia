@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_cupZeroTwo_equiv
 -- name    : ReciprocityTheory.Neutral.Bridge.cupZeroTwo_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:05.620558+00:00
 -- url     : https://prove2.me/theorems/35613950-5426-5b8e-90a7-234d871ddddd

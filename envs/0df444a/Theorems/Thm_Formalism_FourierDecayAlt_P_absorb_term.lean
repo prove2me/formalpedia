@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_absorb_term
 -- name    : Formalism.FourierDecayAlt.P.absorb_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:27:26.055225+00:00
 -- url     : https://prove2.me/theorems/ba87310d-0096-5c24-87f5-35a910aa31eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_surj_localization_mvPolynomial_of_essFiniteType_local
 -- name    : GlobalTheory.T.exists_surj_localization_mvPolynomial_of_essFiniteType_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:30:57.010593+00:00
 -- url     : https://prove2.me/theorems/74e817fa-df38-530f-85e1-3bad86781c7a

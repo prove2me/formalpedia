@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_sphere_height_lower_bound
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.sphere_height_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:09:47.810204+00:00
 -- url     : https://prove2.me/theorems/16bf30db-d5c8-44e9-9d98-e53b05569df0

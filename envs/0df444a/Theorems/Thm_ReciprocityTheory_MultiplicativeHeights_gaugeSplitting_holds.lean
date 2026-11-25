@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gaugeSplitting_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.gaugeSplitting_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:06.116225+00:00
 -- url     : https://prove2.me/theorems/2c5d4163-03ba-4314-a71a-8a9fbbd9df71

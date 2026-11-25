@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivJets_surj_of_first_order
 -- name    : GlobalTheory.PowGerm.UnivJets.surj_of_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:12:18.355893+00:00
 -- url     : https://prove2.me/theorems/49b4b50c-9035-50f4-b44f-5bd13cd9d60c

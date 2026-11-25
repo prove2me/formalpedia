@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_towers_agree
 -- name    : Formalism.FourierDecayAlt.P.towers_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:23.175248+00:00
 -- url     : https://prove2.me/theorems/1296fe5a-d192-4018-8dd9-cde0bb0ee642

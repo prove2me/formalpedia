@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_regularity_inductive_step
 -- name    : ZetaZeros.D.EllReg.regularity_inductive_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:34.612749+00:00
 -- url     : https://prove2.me/theorems/2e622692-16cb-5958-a53c-310ee9ab756e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_span_cols_eq
 -- name    : UnipMove.GraphH.span_cols_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:12.66001+00:00
 -- url     : https://prove2.me/theorems/f56f0cfb-35ec-411e-bcf6-31580568f5f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ThetaSummability_Est_integrableOn_exp_logCone
 -- name    : ReciprocityTheory.ThetaSummability.Est.integrableOn_exp_logCone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:10:19.008579+00:00
 -- url     : https://prove2.me/theorems/93d1a06c-1475-4c65-a32a-772aa7e26abe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_muMin_of_finrank_eq_one
 -- name    : GlobalTheory.ArchMetric.muMin_of_finrank_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:55:26.840063+00:00
 -- url     : https://prove2.me/theorems/fc7f0e72-ac66-49af-9c24-d0fffa1378c9

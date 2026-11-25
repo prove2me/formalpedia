@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.nilIsStrictNormalCrossingsOfSmooth
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T17:41:26.832948+00:00
+-- url     : https://prove2.me/submissions/35742c72-28ab-4073-bd72-9830fd07ae62
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_RemoveIsoBlowups
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossingsNil
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_AffineResolutionRule
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_EmbeddedResolutionRule
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_FunctorialPrincipalization
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_EmbeddedBlowupSequence
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_EmbeddedStrictTransform
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_EmbeddedResolutionRuleOfPrincipalization
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_inStrictNormalCrossingPosition_nil
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open CategoryTheory AlgebraicGeometry
+noncomputable section
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+namespace FunctorialResolution.EmbeddedResolution
+theorem _root_.solution : NilIsStrictNormalCrossingsOfSmooth.{u} := by
+  intro k _ _ A q hq
+  have : AlgebraicGeometry.Smooth q := hq
+  exact inStrictNormalCrossingPosition_nil q
+end FunctorialResolution.EmbeddedResolution

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_Inh_nab_vv
 -- name    : GlobalTheory.PhiGam.Inh.nab_vv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:08.118333+00:00
 -- url     : https://prove2.me/theorems/c6f77310-78c3-43aa-a1ac-e15827d7557e

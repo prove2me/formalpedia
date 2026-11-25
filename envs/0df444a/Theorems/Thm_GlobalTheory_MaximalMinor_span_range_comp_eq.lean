@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaximalMinor_span_range_comp_eq
 -- name    : GlobalTheory.MaximalMinor.span_range_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:56.432566+00:00
 -- url     : https://prove2.me/theorems/4cd842be-a26f-4248-bcd3-41b628c82e47

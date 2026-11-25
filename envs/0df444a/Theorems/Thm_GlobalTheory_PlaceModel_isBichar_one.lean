@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceModel_isBichar_one
 -- name    : GlobalTheory.PlaceModel.isBichar_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:09.665314+00:00
 -- url     : https://prove2.me/theorems/ecaad68b-e2b3-500d-af5f-793569848ea4

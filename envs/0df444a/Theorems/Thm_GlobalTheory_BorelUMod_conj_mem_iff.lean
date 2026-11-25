@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_conj_mem_iff
 -- name    : GlobalTheory.BorelUMod.conj_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:59:18.909417+00:00
 -- url     : https://prove2.me/theorems/91d92d44-8295-41d4-87ad-bd15a72d2d89

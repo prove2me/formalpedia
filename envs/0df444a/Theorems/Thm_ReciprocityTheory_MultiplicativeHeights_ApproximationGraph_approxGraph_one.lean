@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_approxGraph_one
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.approxGraph_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:01:31.550809+00:00
 -- url     : https://prove2.me/theorems/d1d8b700-2e59-4156-b8d7-2db6b664c754

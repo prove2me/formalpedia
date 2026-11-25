@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JointModelGuards_exists_root_and_zeta
 -- name    : GlobalTheory.JointModelGuards.exists_root_and_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:17:08.074912+00:00
 -- url     : https://prove2.me/theorems/582fa51f-f539-4ccb-b748-2fb6cc569a7b

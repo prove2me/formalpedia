@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_ringKrullDim_locAt_chart
 -- name    : ReciprocityTheory.AnForm.R.ringKrullDim_locAt_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:15:40.201635+00:00
 -- url     : https://prove2.me/theorems/1271f388-1c81-5f2b-8d28-21e5276b8bf4

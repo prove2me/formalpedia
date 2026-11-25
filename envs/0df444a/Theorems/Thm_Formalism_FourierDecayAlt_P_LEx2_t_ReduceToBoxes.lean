@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_t_ReduceToBoxes
 -- name    : Formalism.FourierDecayAlt.P.LEx2.t_ReduceToBoxes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:32.863978+00:00
 -- url     : https://prove2.me/theorems/3c5d5446-0a7f-53d6-b248-dde47b6c857f

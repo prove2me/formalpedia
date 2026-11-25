@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_not_isSiegel_zero_nat
 -- name    : GlobalTheory.RiemannThetaModel.not_isSiegel_zero_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:26:50.938069+00:00
 -- url     : https://prove2.me/theorems/c9e8202a-82a8-422f-acda-73b5019fc798

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WittOrbit_map_map_eq
 -- name    : GlobalTheory.CompanionTheory.WittOrbit.map_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:47.446937+00:00
 -- url     : https://prove2.me/theorems/550c3a2b-b88c-5749-9d8e-5afaaed665c2

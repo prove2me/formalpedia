@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifEigenRank_finrank_eigenspace_of_lieMult
 -- name    : GlobalTheory.UnifEigenRank.finrank_eigenspace_of_lieMult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:40:17.998829+00:00
 -- url     : https://prove2.me/theorems/57df7f37-7d5e-416f-a8b0-bb1b6c81d992

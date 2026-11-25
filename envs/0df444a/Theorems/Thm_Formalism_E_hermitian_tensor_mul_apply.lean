@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_E_hermitian_tensor_mul_apply
 -- name    : Formalism.E.hermitian_tensor_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:23.0351+00:00
 -- url     : https://prove2.me/theorems/bf6bbac3-f1a6-45c8-9386-19de83a05058

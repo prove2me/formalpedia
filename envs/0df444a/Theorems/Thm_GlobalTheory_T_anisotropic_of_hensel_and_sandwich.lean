@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_anisotropic_of_hensel_and_sandwich
 -- name    : GlobalTheory.T.anisotropic_of_hensel_and_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:39.437973+00:00
 -- url     : https://prove2.me/theorems/faa4935c-8bf4-405e-afcb-c8070aaeb97e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedLatticeOperators_c_sharp_form
 -- name    : Formalism.HermitianLattices.RamifiedLatticeOperators.c_sharp_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:44.376388+00:00
 -- url     : https://prove2.me/theorems/0586bf48-c433-4852-9699-80b159ec5d25

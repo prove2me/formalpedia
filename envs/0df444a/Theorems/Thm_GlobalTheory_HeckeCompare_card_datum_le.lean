@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeCompare_card_datum_le
 -- name    : GlobalTheory.HeckeCompare.card_datum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:08:17.52023+00:00
 -- url     : https://prove2.me/theorems/ba992752-5522-5fda-b04b-8f038e89c143

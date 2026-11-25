@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_height_bound_of_function
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.height_bound_of_function
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:51:38.451017+00:00
 -- url     : https://prove2.me/theorems/f0d4faa1-65ae-52fb-bac8-fff43255b9f4

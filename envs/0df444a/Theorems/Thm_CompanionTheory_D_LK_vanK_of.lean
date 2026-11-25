@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_vanK_of
 -- name    : CompanionTheory.D.LK.vanK_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:56.168668+00:00
 -- url     : https://prove2.me/theorems/21f44007-26c3-4119-8ff8-4a4470369258

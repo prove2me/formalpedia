@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdelicMatLat_mem_lat
 -- name    : GlobalTheory.AdelicMatLat.mem_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:56:00.442985+00:00
 -- url     : https://prove2.me/theorems/af15a39f-0a22-4317-a3f7-e8f5fa0f9412

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_multA_integrable_of_sq
 -- name    : ReciprocityTheory.L2DbarEstimates.F.multA_integrable_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:31:20.999688+00:00
 -- url     : https://prove2.me/theorems/60885283-8aca-46d6-ab6d-b2506bf62350

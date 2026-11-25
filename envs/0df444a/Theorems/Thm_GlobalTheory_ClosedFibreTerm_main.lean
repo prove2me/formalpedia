@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedFibreTerm_main
 -- name    : GlobalTheory.ClosedFibreTerm.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:46:13.833643+00:00
 -- url     : https://prove2.me/theorems/3aeacc1c-dcbb-474d-9ffe-226f587e4197

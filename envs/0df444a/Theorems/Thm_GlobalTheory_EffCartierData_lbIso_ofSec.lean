@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_lbIso_ofSec
 -- name    : GlobalTheory.EffCartierData.lbIso_ofSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:10:45.312518+00:00
 -- url     : https://prove2.me/theorems/e995601e-96f0-4ff2-9748-ebceddaf01ef

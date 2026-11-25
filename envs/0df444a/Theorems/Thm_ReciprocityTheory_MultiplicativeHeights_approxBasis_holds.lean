@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_approxBasis_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.approxBasis_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:03:25.633429+00:00
 -- url     : https://prove2.me/theorems/b774db04-4e93-44b7-9c8b-8b8cc23bea58

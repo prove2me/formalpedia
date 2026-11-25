@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_traceDual_apply
 -- name    : GlobalTheory.HostModel.traceDual_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:44.189806+00:00
 -- url     : https://prove2.me/theorems/752760a4-edb3-46d4-8d04-db15aae710c6

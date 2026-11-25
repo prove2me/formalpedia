@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAnalyticGroupChart_eq_exp_of_log
 -- name    : GlobalTheory.IsAnalyticGroupChart.eq_exp_of_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:06.506808+00:00
 -- url     : https://prove2.me/theorems/7a62cc41-1ba6-4587-8e82-15e0ab75e3d3

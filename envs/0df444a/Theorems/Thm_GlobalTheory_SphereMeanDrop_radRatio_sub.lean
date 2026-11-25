@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SphereMeanDrop_radRatio_sub
 -- name    : GlobalTheory.SphereMeanDrop.radRatio_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:22:24.973999+00:00
 -- url     : https://prove2.me/theorems/c53e232b-732e-4ea2-a265-ddecaf0a97b4

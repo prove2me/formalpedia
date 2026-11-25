@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_sc_psi_exists
 -- name    : sc_psi_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:17:13.415455+00:00
 -- url     : https://prove2.me/theorems/111b72da-3d44-4da9-982f-7044666593bc

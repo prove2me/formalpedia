@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_hasColen_map
 -- name    : ReciprocityTheory.PGsh.Up.hasColen_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:06:39.029064+00:00
 -- url     : https://prove2.me/theorems/094ae1f6-c9c1-4756-978b-16c763dbc0f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_combLine_eq_top
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.combLine_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:00:38.83462+00:00
 -- url     : https://prove2.me/theorems/df7a40fb-f5ae-46f0-98f4-2d4ba0c943ca

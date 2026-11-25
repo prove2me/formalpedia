@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_CoverExists_diag
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.CoverExists.diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:00:06.846815+00:00
 -- url     : https://prove2.me/theorems/afdbfabf-5ba2-5a63-ab81-7cc8663cff50

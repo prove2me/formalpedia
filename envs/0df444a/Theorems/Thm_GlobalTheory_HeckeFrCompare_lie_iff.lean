@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_lie_iff
 -- name    : GlobalTheory.HeckeFrCompare.lie_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:08:38.733235+00:00
 -- url     : https://prove2.me/theorems/1bcf0c30-cf8c-50b6-bc7f-e4fd07c832c5

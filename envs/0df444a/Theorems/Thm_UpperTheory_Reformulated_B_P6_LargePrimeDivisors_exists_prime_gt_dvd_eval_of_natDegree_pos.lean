@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_LargePrimeDivisors_exists_prime_gt_dvd_eval_of_natDegree_pos
 -- name    : UpperTheory.Reformulated.B.P6.LargePrimeDivisors.exists_prime_gt_dvd_eval_of_natDegree_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:39.139548+00:00
 -- url     : https://prove2.me/theorems/8742792c-173a-4e25-af5f-cc8380cf7ab4

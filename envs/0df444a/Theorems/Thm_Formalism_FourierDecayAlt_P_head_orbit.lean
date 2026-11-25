@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_head_orbit
 -- name    : Formalism.FourierDecayAlt.P.head_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:31:23.050794+00:00
 -- url     : https://prove2.me/theorems/32489e12-0c9b-4e80-a325-0c8e841a2752

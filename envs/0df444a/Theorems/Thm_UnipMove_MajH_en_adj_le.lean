@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_MajH_en_adj_le
 -- name    : UnipMove.MajH.en_adj_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:11:46.516084+00:00
 -- url     : https://prove2.me/theorems/1ab1d942-987b-4a83-b81d-f242884ce2bc

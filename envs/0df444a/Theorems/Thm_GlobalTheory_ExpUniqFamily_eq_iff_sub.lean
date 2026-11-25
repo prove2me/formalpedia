@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpUniqFamily_eq_iff_sub
 -- name    : GlobalTheory.ExpUniqFamily.eq_iff_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:02:14.493414+00:00
 -- url     : https://prove2.me/theorems/ad2cb19d-334c-4b30-8310-7e64ae5f7d61

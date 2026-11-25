@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_theorem_b_of_parts
 -- name    : Formalism.FourierDecayAlt.P.theorem_b_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:37:37.064883+00:00
 -- url     : https://prove2.me/theorems/a6d18e29-7cf8-4f12-b25a-14e13ee3cefb

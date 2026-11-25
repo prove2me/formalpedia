@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_isAdj_FF
 -- name    : GlobalTheory.LatPair.Model.isAdj_FF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:12:49.881977+00:00
 -- url     : https://prove2.me/theorems/a7c55b19-ccb9-5db4-923f-de8db1944e84

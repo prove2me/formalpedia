@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TQ_exists_desc
 -- name    : GlobalTheory.UU.TQ.exists_desc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:58:57.149845+00:00
 -- url     : https://prove2.me/theorems/e8d29c2c-26e9-489a-a917-94a66109d878

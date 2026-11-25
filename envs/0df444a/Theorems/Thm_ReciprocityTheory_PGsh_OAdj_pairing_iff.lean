@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_OAdj_pairing_iff
 -- name    : ReciprocityTheory.PGsh.OAdj.pairing_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:06:27.022666+00:00
 -- url     : https://prove2.me/theorems/387299d9-b017-59af-b24a-6168b394aec1

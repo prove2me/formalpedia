@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sdd_det_abs_le_one
 -- name    : ReciprocityTheory.MultiplicativeHeights.sdd_det_abs_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:39.916498+00:00
 -- url     : https://prove2.me/theorems/c391229b-a071-411f-b3a2-ea95422ef878

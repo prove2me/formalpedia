@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_axesSelf_holds
 -- name    : Formalism.L2.FormalSeriesBounds.axesSelf_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:53.21153+00:00
 -- url     : https://prove2.me/theorems/f7f4a39e-e040-4c10-9f26-eb7bc1bdd1f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_no_gain_requirements
 -- name    : Arxiv1510_02920.no_gain_requirements
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:10:19.025587+00:00
 -- url     : https://prove2.me/theorems/7a3be937-bfe4-4330-87db-fb9a6823ecde

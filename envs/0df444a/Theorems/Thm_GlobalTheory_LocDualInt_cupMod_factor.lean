@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocDualInt_cupMod_factor
 -- name    : GlobalTheory.LocDualInt.cupMod_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:13:35.099656+00:00
 -- url     : https://prove2.me/theorems/954a1dae-d974-5150-b487-8945cd32bfbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesValue_ValAt_nilpotent
 -- name    : GlobalTheory.SeriesValue.ValAt.nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:03:42.840649+00:00
 -- url     : https://prove2.me/theorems/01518700-81df-5689-a3f6-6fcbc10b2684

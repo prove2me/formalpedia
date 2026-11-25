@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.PrimeRead.boundary_on_primes
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T16:31:33.116965+00:00
+-- url     : https://prove2.me/submissions/8e73f05b-3745-4c2c-a93f-1852c4a0260a
+
+import Mathlib
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_MetricProofs_FiniteMinimalPrimes
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_MetricProofs_ChPrime
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_MetricProofs_ExistsAlgHomAdjoinInv
+import Definitions.Def_Development_AutomorphicSpectrum_Proofs_MetricProofs_BoundaryOnPrimes
+import Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_PrimeRead_read_in_field
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MvPolynomial ReciprocityTheory.AnForm.R GlobalTheory.CompanionTheory.Ar.Cmp
+open GlobalTheory GlobalTheory.CompanionTheory GlobalTheory.CompanionTheory.Ar GlobalTheory.CompanionTheory.Ar.Cmp GlobalTheory.CompanionTheory.Ar.Cmp.SncRes GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.PrimeRead
+namespace GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.PrimeRead
+theorem _root_.solution : ∀ (Ω : Type) [Field Ω] [Algebra ℚ Ω] (σ : Type) (τ : σ → Ω) (F : MvPolynomial σ ℚ) (S : Subalgebra ℚ Ω) (Js : Set (MvPolynomial σ ℤ)) (e n : ℕ) (z : Fin e → S) (Z : Fin e → MvPolynomial σ ℚ) (N : Fin e → ℕ), aeval τ F ≠ 0 → S = Algebra.adjoin ℚ (insert (aeval τ F)⁻¹ (Set.range τ)) → (∀ i, (z i : Ω) * aeval τ F ^ N i = aeval τ (Z i)) → (∀ q : Ideal S, q.IsPrime → ((∀ g ∈ Js, ∀ s : S, (s : Ω) = aeval τ g → s ∈ q) ↔ ∃ i : Fin e, (i : ℕ) < n ∧ z i ∈ q)) → ∀ 𝔮 : Ideal (MvPolynomial σ ℂ), 𝔮.IsPrime → (∀ G : MvPolynomial σ ℚ, aeval τ G = 0 → map (algebraMap ℚ ℂ) G ∈ 𝔮) → map (algebraMap ℚ ℂ) F ∉ 𝔮 → ((∀ g ∈ Js, map (Int.castRingHom ℂ) g ∈ 𝔮) ↔ ∃ i : Fin e, (i : ℕ) < n ∧ map (algebraMap ℚ ℂ) (Z i) ∈ 𝔮) := by
+  intro Ω _ _ σ τ F S Js e n z Z N hF hS hz hprime 𝔮 h𝔮 hker hFq
+  have : IsDomain (MvPolynomial σ ℂ ⧸ 𝔮) := Ideal.Quotient.isDomain 𝔮
+  let π : MvPolynomial σ ℂ →+* FractionRing (MvPolynomial σ ℂ ⧸ 𝔮) :=
+    (algebraMap (MvPolynomial σ ℂ ⧸ 𝔮) (FractionRing (MvPolynomial σ ℂ ⧸ 𝔮))).comp
+      (Ideal.Quotient.mk 𝔮)
+  have hπ : ∀ p, π p = 0 ↔ p ∈ 𝔮 := by
+    intro p
+    simp only [π, RingHom.comp_apply]
+    rw [IsFractionRing.to_map_eq_zero_iff, Ideal.Quotient.eq_zero_iff_mem]
+  let _ : Algebra ℚ (FractionRing (MvPolynomial σ ℂ ⧸ 𝔮)) :=
+    (π.comp ((C : ℂ →+* MvPolynomial σ ℂ).comp (algebraMap ℚ ℂ))).toAlgebra
+  exact read_in_field τ F S Js e n z Z N hF hS hz hprime 𝔮 hker hFq _ π hπ
+end GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.PrimeRead

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LR_zl_unit
 -- name    : Formalism.CohomologicalDescent.LR.zl_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:24:09.758914+00:00
 -- url     : https://prove2.me/theorems/18b81ec0-bfb1-4908-8499-cbd1a3fb7de5

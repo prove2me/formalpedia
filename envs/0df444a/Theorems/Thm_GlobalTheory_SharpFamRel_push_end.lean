@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpFamRel_push_end
 -- name    : GlobalTheory.SharpFamRel.push_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:48:27.529784+00:00
 -- url     : https://prove2.me/theorems/d0045b77-a2b6-4469-b870-3fc5ca9a286b

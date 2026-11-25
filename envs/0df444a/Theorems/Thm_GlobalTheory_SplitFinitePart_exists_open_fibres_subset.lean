@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFinitePart_exists_open_fibres_subset
 -- name    : GlobalTheory.SplitFinitePart.exists_open_fibres_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:25:48.766008+00:00
 -- url     : https://prove2.me/theorems/89e381da-8c23-4c34-b80b-5222aaa00bce

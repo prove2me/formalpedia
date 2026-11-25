@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Basic_riemannForm_im_eq_neg_one
 -- name    : GlobalTheory.MomOne.Basic.riemannForm_im_eq_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:24.226338+00:00
 -- url     : https://prove2.me/theorems/548a7a68-bd40-4095-9dc7-e8e559c274ef

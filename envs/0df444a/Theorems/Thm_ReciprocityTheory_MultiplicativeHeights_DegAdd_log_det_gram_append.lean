@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_DegAdd_log_det_gram_append
 -- name    : ReciprocityTheory.MultiplicativeHeights.DegAdd.log_det_gram_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:01:28.517268+00:00
 -- url     : https://prove2.me/theorems/dc4fb3f9-72df-47d1-a212-97793f8bfea4

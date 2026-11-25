@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qk3_unopS_mul
 -- name    : UpperTheory.Reformulated.B.Qk3.unopS_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:54.469958+00:00
 -- url     : https://prove2.me/theorems/b37dad3d-7183-4652-b220-aa2383095fe6

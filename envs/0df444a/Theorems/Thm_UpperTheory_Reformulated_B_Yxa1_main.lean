@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Yxa1_main
 -- name    : UpperTheory.Reformulated.B.Yxa1.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:37.887869+00:00
 -- url     : https://prove2.me/theorems/6cc3c517-7824-42fe-85d1-d73268b5c811

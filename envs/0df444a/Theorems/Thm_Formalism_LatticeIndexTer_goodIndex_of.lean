@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeIndexTer_goodIndex_of
 -- name    : Formalism.LatticeIndexTer.goodIndex_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:20.813856+00:00
 -- url     : https://prove2.me/theorems/45a5aebb-d978-56bb-af36-38d9d62a986a

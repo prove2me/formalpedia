@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_int_span_generators_of_isLattice_pi
 -- name    : GlobalTheory.T.exists_int_span_generators_of_isLattice_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:44.580852+00:00
 -- url     : https://prove2.me/theorems/229d376b-80a2-4f39-944d-487ea3ce9ec6

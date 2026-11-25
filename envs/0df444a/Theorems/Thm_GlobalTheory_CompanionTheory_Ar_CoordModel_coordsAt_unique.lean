@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CoordModel_coordsAt_unique
 -- name    : GlobalTheory.CompanionTheory.Ar.CoordModel.coordsAt_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:51.705443+00:00
 -- url     : https://prove2.me/theorems/e7c03cfe-5d85-4bf9-b476-c8ff44e35aa5

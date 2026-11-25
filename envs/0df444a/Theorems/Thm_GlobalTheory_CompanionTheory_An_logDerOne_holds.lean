@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_An_logDerOne_holds
 -- name    : GlobalTheory.CompanionTheory.An.logDerOne_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:00.039258+00:00
 -- url     : https://prove2.me/theorems/e88ae773-6384-4746-88fc-3ae5a15e5a54

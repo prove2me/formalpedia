@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_axioms_agree
 -- name    : Formalism.FourierDecayAlt.P.axioms_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:28:56.867987+00:00
 -- url     : https://prove2.me/theorems/004f294c-42cf-4770-9ab8-3562be1f8d7e

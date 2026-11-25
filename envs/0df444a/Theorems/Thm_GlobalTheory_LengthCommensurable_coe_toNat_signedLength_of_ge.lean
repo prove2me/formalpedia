@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_coe_toNat_signedLength_of_ge
 -- name    : GlobalTheory.LengthCommensurable.coe_toNat_signedLength_of_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:13:26.0138+00:00
 -- url     : https://prove2.me/theorems/794707b4-305b-4ff8-ae1b-45258bed9a52

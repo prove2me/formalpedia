@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_ideal_comap_map
 -- name    : GlobalTheory.GaloisDescent.ideal_comap_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:36.073775+00:00
 -- url     : https://prove2.me/theorems/88e756af-b844-5f93-920f-b9207990eac2

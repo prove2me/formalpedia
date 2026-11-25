@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenSplit_isSplitting_conjugateHom
 -- name    : GlobalTheory.EigenSplit.isSplitting_conjugateHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:24.847989+00:00
 -- url     : https://prove2.me/theorems/e1af2c8a-05d2-4bc1-8c00-695a346b7fef

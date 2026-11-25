@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsHilbertPoly_coker
 -- name    : GlobalTheory.IsHilbertPoly.coker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:09.959007+00:00
 -- url     : https://prove2.me/theorems/62b1f8c6-1e09-5482-b4ce-075527adf3df

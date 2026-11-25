@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_lemma_d_symmetric
 -- name    : Formalism.CohomologicalDescent.LD.lemma_d_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:22:09.368801+00:00
 -- url     : https://prove2.me/theorems/0af4d1d4-3f13-527e-85ab-9523a99e1bc4

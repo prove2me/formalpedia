@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_wedge_comm
 -- name    : GlobalTheory.HermFrame.wedge_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:21.896377+00:00
 -- url     : https://prove2.me/theorems/12c5f91e-e801-5dc8-960d-15634c93ad0c

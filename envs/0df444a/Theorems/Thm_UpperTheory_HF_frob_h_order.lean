@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_frob_h_order
 -- name    : UpperTheory.HF.frob_h_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:53.68762+00:00
 -- url     : https://prove2.me/theorems/e3226d66-01e1-4ac8-b23a-640a57ff2385

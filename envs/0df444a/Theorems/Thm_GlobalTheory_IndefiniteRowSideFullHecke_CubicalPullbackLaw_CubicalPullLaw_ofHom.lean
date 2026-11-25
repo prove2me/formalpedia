@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CubicalPullbackLaw_CubicalPullLaw_ofHom
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CubicalPullbackLaw.CubicalPullLaw.ofHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:49.881684+00:00
 -- url     : https://prove2.me/theorems/e6081058-75ac-5b0d-a778-7f0f0624e7b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_kap_val
 -- name    : GlobalTheory.IsoDesc.kap_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:56:17.783681+00:00
 -- url     : https://prove2.me/theorems/a496717a-99dd-4012-b99b-9ab35c00f66d

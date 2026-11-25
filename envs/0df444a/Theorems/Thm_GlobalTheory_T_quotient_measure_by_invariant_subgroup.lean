@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quotient_measure_by_invariant_subgroup
 -- name    : GlobalTheory.T.quotient_measure_by_invariant_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:54.447875+00:00
 -- url     : https://prove2.me/theorems/222a6c8a-b943-4dab-b8cf-57ad6d831620

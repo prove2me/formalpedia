@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_comap_single_span_algebraMap_numberField
 -- name    : GlobalTheory.T.comap_single_span_algebraMap_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:27:52.515807+00:00
 -- url     : https://prove2.me/theorems/6e578602-18a2-4a49-912d-8f76afe961c7

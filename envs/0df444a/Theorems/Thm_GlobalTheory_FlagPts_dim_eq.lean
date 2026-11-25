@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_dim_eq
 -- name    : GlobalTheory.FlagPts.dim_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:01.800481+00:00
 -- url     : https://prove2.me/theorems/5f74078c-cd41-5830-a732-171d4877cf91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomExt_field_point_comp_eq_iff
 -- name    : GlobalTheory.HomExt.field_point_comp_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:08:37.847566+00:00
 -- url     : https://prove2.me/theorems/6d8af2bc-5804-4c61-9f0e-63742126557c

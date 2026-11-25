@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_exists_sub_hatTot_mem_Mhat
 -- name    : GlobalTheory.BK.PhiMod.exists_sub_hatTot_mem_Mhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:56:34.741584+00:00
 -- url     : https://prove2.me/theorems/eae1fa92-dc34-5205-b78a-0957a3741ac6

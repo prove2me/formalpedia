@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_infinite_norm_one_elements
 -- name    : UpperTheory.infinite_norm_one_elements
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:12:58.357799+00:00
 -- url     : https://prove2.me/theorems/58a3795c-9cd5-4489-8726-c9b99663bf11

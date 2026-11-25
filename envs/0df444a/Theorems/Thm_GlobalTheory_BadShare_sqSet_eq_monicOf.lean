@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_sqSet_eq_monicOf
 -- name    : GlobalTheory.BadShare.sqSet_eq_monicOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:56:52.124816+00:00
 -- url     : https://prove2.me/theorems/bf2b9b65-4157-4fe4-8de3-f048021ed20c

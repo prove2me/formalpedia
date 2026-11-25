@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameCheck_intAll_ramified
 -- name    : GlobalTheory.IntegralFrameCheck.intAll_ramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:10:56.433294+00:00
 -- url     : https://prove2.me/theorems/84e69c60-06ba-4226-b124-88c243a3a9b6

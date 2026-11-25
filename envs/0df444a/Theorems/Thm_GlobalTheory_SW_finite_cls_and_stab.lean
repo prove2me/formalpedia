@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_finite_cls_and_stab
 -- name    : GlobalTheory.SW.finite_cls_and_stab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:53:00.239215+00:00
 -- url     : https://prove2.me/theorems/3f124ae2-96d0-46ef-9c27-59e2b4d72a84

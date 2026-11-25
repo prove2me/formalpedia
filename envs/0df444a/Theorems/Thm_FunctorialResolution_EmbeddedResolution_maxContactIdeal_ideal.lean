@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_maxContactIdeal_ideal
 -- name    : FunctorialResolution.EmbeddedResolution.maxContactIdeal_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:53:53.078265+00:00
 -- url     : https://prove2.me/theorems/1a92842a-0b8b-593f-94e2-74249ac263e4

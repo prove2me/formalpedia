@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenStructure_isAdicComplete_mvPowerSeries
 -- name    : GlobalTheory.CohenStructure.isAdicComplete_mvPowerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:06:45.670805+00:00
 -- url     : https://prove2.me/theorems/62435837-113a-4b79-91ca-aea0a833f36a

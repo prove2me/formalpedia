@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_FamInh_res_mem_inertia
 -- name    : CompanionTheory.FamInh.res_mem_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:17:37.12566+00:00
 -- url     : https://prove2.me/theorems/43a0d6fa-afdd-4159-a2a0-d29ebf86f27d

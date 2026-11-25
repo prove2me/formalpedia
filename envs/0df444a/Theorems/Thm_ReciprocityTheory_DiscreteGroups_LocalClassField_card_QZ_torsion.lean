@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_card_QZ_torsion
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.card_QZ_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:05:45.276925+00:00
 -- url     : https://prove2.me/theorems/262f334d-15cf-42d7-92dc-122aa5f28cc8

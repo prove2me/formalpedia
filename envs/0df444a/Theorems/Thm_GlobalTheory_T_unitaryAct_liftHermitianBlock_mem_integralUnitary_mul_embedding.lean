@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryAct_liftHermitianBlock_mem_integralUnitary_mul_embedding
 -- name    : GlobalTheory.T.unitaryAct_liftHermitianBlock_mem_integralUnitary_mul_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:41:15.007564+00:00
 -- url     : https://prove2.me/theorems/f57e0e9b-c226-4b40-9f06-f0808fc2daa8

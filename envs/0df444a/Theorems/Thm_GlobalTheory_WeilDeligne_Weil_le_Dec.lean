@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_Weil_le_Dec
 -- name    : GlobalTheory.WeilDeligne.Weil_le_Dec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:07:53.212225+00:00
 -- url     : https://prove2.me/theorems/f8f209aa-abc6-463e-8ea9-47da2fdfc0f0

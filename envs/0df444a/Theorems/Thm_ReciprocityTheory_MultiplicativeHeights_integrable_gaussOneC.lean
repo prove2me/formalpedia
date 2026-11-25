@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_integrable_gaussOneC
 -- name    : ReciprocityTheory.MultiplicativeHeights.integrable_gaussOneC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:10.224698+00:00
 -- url     : https://prove2.me/theorems/7271adc0-a0d9-4ef6-8fc5-959ff5e82599

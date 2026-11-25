@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_embedding_permutation
 -- name    : embedding_permutation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:58.300868+00:00
 -- url     : https://prove2.me/theorems/a78b293f-7158-4a07-b86b-0b7de0736cdf

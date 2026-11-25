@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PolyGaussSchwartz_main
 -- name    : GlobalTheory.CompanionTheory.PolyGaussSchwartz.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:34.440838+00:00
 -- url     : https://prove2.me/theorems/bedaea8a-3e8e-5d1c-921a-48a0528d8c46

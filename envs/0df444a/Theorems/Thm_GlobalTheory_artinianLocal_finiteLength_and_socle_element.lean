@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_artinianLocal_finiteLength_and_socle_element
 -- name    : GlobalTheory.artinianLocal_finiteLength_and_socle_element
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:04:20.755044+00:00
 -- url     : https://prove2.me/theorems/dddeb88d-51bd-4dd8-ab65-e23a163a9786

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_chart_pullLE
 -- name    : GlobalTheory.AbLaw.SecOn.chart_pullLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:45:29.703977+00:00
 -- url     : https://prove2.me/theorems/03c6d80f-24f5-568f-8493-3e13afcad5ce

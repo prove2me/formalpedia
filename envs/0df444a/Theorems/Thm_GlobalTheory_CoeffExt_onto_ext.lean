@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffExt_onto_ext
 -- name    : GlobalTheory.CoeffExt.onto_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:04.157533+00:00
 -- url     : https://prove2.me/theorems/265cfc08-91fe-4fd2-9cf1-7767a5d8485c

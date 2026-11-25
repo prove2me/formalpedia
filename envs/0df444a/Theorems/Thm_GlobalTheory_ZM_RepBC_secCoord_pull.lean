@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_RepBC_secCoord_pull
 -- name    : GlobalTheory.ZM.RepBC.secCoord_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:16:13.864922+00:00
 -- url     : https://prove2.me/theorems/18b2834d-0ba9-4556-83c8-45838efe1796

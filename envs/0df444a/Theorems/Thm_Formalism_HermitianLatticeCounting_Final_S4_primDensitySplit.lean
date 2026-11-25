@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_primDensitySplit
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.primDensitySplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:57.962951+00:00
 -- url     : https://prove2.me/theorems/e3674ab8-4b7c-4992-88d6-d1a4117aab10

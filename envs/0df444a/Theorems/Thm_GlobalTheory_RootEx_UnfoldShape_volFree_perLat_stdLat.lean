@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_volFree_perLat_stdLat
 -- name    : GlobalTheory.RootEx.UnfoldShape.volFree_perLat_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:45.317697+00:00
 -- url     : https://prove2.me/theorems/2efaba20-9af2-5762-8e5b-5b378aec5fe6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_tendsto_div_of_squeeze
 -- name    : GlobalTheory.CompactDualQuot.tendsto_div_of_squeeze
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:53.371953+00:00
 -- url     : https://prove2.me/theorems/ae2af0b2-cb62-55f9-ae7a-efdd4f7b7994

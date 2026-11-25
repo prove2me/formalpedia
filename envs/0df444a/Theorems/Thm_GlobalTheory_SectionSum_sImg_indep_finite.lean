@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionSum_sImg_indep_finite
 -- name    : GlobalTheory.SectionSum.sImg_indep_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:54:07.540003+00:00
 -- url     : https://prove2.me/theorems/82c33346-a95c-4985-a613-1c049b23ead0

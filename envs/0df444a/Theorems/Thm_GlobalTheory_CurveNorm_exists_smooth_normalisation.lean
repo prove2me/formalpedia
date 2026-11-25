@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CurveNorm_exists_smooth_normalisation
 -- name    : GlobalTheory.CurveNorm.exists_smooth_normalisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:23:20.545651+00:00
 -- url     : https://prove2.me/theorems/6f60c377-fc1a-5f7d-825b-a69d4ca52412

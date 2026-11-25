@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifZero_scal_mul
 -- name    : GlobalTheory.UnifZero.scal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:01:47.2128+00:00
 -- url     : https://prove2.me/theorems/fc03e46d-8d94-42b7-a2c7-375bdbcf25a2

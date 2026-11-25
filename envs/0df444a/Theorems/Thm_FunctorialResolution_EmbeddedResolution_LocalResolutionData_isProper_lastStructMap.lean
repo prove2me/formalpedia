@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_isProper_lastStructMap
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.isProper_lastStructMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:53:01.030121+00:00
 -- url     : https://prove2.me/theorems/184c43b0-3108-48c0-94f4-97f90ea6d6f0

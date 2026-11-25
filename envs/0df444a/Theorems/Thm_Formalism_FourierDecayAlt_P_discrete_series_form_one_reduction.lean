@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_discrete_series_form_one_reduction
 -- name    : Formalism.FourierDecayAlt.P.discrete_series_form_one_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:44:30.419941+00:00
 -- url     : https://prove2.me/theorems/335ec672-0994-435d-9bea-8d567e4a1885

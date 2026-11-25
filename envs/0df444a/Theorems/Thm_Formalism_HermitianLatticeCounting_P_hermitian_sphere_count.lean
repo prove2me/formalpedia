@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hermitian_sphere_count
 -- name    : Formalism.HermitianLatticeCounting.P.hermitian_sphere_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:37.12344+00:00
 -- url     : https://prove2.me/theorems/e66c0c34-b596-4a6e-8cb5-080847cf6782

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_eulerEta
 -- name    : Formalism.HermitianLattices.Ext.L3.eulerEta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:40:46.973003+00:00
 -- url     : https://prove2.me/theorems/11d1e131-5b09-41fa-a521-f6e133e44111

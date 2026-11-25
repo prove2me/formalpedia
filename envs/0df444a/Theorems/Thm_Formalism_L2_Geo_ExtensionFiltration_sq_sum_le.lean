@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_ExtensionFiltration_sq_sum_le
 -- name    : Formalism.L2.Geo.ExtensionFiltration.sq_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:49:13.904929+00:00
 -- url     : https://prove2.me/theorems/68d39b3a-c7c1-4b1d-bd43-dee98e441a3c

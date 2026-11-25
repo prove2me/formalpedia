@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_stdPar_isOpposite
 -- name    : GlobalTheory.LGrp.stdPar_isOpposite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:05.031456+00:00
 -- url     : https://prove2.me/theorems/44e6ee8a-9aad-4bfa-9f1d-9aa6e4e7a244

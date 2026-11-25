@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_PBDe_of_connected
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.PBDe_of_connected
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:59:33.676504+00:00
 -- url     : https://prove2.me/theorems/923f0ec8-9fe4-4b44-a3c4-7f90f9749e71

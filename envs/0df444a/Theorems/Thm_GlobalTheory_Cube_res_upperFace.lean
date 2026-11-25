@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_res_upperFace
 -- name    : GlobalTheory.Cube.res_upperFace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:01.085551+00:00
 -- url     : https://prove2.me/theorems/78d5c797-1dd7-5981-92dc-3c88e8ae60bc

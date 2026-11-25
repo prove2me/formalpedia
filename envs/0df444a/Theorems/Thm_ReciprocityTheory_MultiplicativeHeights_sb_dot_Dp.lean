@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_dot_Dp
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_dot_Dp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:53:33.622513+00:00
 -- url     : https://prove2.me/theorems/105a6b91-896b-59c3-a5c1-b3da4983590a

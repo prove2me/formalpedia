@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_isUnit_of_jetAug
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.isUnit_of_jetAug
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:06:23.947602+00:00
 -- url     : https://prove2.me/theorems/22898309-7fff-4ba3-98ba-7b11bbbae776

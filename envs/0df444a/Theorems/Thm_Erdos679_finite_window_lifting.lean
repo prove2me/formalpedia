@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos679_finite_window_lifting
 -- name    : Erdos679.finite_window_lifting
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:01:20.79575+00:00
 -- url     : https://prove2.me/theorems/75b1a8d4-7a85-4337-ac83-e9392e1ac73f

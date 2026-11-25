@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_conjInvariant_ofGram
 -- name    : GlobalTheory.ArchMetric.conjInvariant_ofGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:02.214044+00:00
 -- url     : https://prove2.me/theorems/4e2e03eb-bbdb-53bb-8351-f60a99bba4ad

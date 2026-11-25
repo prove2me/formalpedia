@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0812_1178_pseudo_phase_data_model
 -- name    : Arxiv0812_1178.pseudo_phase_data_model
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:51:17.722621+00:00
 -- url     : https://prove2.me/theorems/d6f6d622-e26f-454e-a8d6-4729852194bd

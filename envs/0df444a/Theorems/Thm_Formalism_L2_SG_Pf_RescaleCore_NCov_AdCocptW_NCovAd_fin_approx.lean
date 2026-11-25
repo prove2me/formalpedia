@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RescaleCore_NCov_AdCocptW_NCovAd_fin_approx
 -- name    : Formalism.L2.SG.Pf.RescaleCore.NCov.AdCocptW.NCovAd_fin_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:47:46.312745+00:00
 -- url     : https://prove2.me/theorems/9754102e-786b-4741-a07e-6f9d408857df

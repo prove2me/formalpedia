@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpCover_values_mem_of_local
 -- name    : GlobalTheory.ExpCover.values_mem_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:19.953487+00:00
 -- url     : https://prove2.me/theorems/41184e77-c433-4cb8-8c18-31ec8a7c1cb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_integral_Ioc_log_eval_eq_logMahlerMeasure
 -- name    : ReciprocityTheory.MultiplicativeHeights.integral_Ioc_log_eval_eq_logMahlerMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:32.576336+00:00
 -- url     : https://prove2.me/theorems/20a1c0e0-0a54-5e04-bc0d-a2e97c377cdd

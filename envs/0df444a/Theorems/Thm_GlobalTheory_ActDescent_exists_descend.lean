@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActDescent_exists_descend
 -- name    : GlobalTheory.ActDescent.exists_descend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:55.090491+00:00
 -- url     : https://prove2.me/theorems/8371076d-bb7c-58d4-97c9-9026dd2d54f2

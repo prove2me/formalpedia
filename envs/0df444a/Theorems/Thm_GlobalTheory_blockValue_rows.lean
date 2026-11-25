@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_blockValue_rows
 -- name    : GlobalTheory.blockValue_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:55:22.162062+00:00
 -- url     : https://prove2.me/theorems/761e02a0-005b-48fe-bddc-1cf149e1a34b

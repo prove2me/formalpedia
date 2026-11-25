@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_multAdj
 -- name    : ReciprocityTheory.L2DbarEstimates.F.multAdj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:55:39.165447+00:00
 -- url     : https://prove2.me/theorems/8c85dd7a-3c87-5fc3-8567-e60831f18936

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_all_first_level_bounds
 -- name    : Formalism.FourierDecayAlt.P.all_first_level_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:31:31.860061+00:00
 -- url     : https://prove2.me/theorems/2e2874d2-7dab-569f-9153-081316990ce7

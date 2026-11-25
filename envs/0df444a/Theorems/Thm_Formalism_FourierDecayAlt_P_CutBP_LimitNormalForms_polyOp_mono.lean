@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_polyOp_mono
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.polyOp_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:28.373911+00:00
 -- url     : https://prove2.me/theorems/1462ff31-2e3d-4b3f-9cfc-7edbac60d24a

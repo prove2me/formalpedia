@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_spMap_comp_ringHom_comp
 -- name    : GlobalTheory.ZM.spMap_comp_ringHom_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:48:12.976425+00:00
 -- url     : https://prove2.me/theorems/4104981d-83ad-4ee7-b351-91089fd2888e

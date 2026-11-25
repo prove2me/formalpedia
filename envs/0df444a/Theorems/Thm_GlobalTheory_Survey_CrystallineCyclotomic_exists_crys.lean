@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_CrystallineCyclotomic_exists_crys
 -- name    : GlobalTheory.Survey.CrystallineCyclotomic.exists_crys
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:24:49.116575+00:00
 -- url     : https://prove2.me/theorems/e08a9f20-94a6-4ed8-96cd-2b004315f64e

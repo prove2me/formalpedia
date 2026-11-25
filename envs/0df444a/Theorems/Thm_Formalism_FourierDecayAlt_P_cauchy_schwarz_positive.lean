@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cauchy_schwarz_positive
 -- name    : Formalism.FourierDecayAlt.P.cauchy_schwarz_positive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:32:00.223656+00:00
 -- url     : https://prove2.me/theorems/d41dfb88-b787-5f2a-a868-ae1d2feeaa5f

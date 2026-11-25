@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_AnSys_degPoly_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.AnSys.degPoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:21.055005+00:00
 -- url     : https://prove2.me/theorems/c05109ba-e130-4468-afa4-a385ab56933b

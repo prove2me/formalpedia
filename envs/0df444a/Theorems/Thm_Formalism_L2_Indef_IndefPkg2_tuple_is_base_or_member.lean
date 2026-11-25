@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefPkg2_tuple_is_base_or_member
 -- name    : Formalism.L2.Indef.IndefPkg2.tuple_is_base_or_member
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:47:02.162904+00:00
 -- url     : https://prove2.me/theorems/c9282817-f760-54ed-9496-1c7b504bb15c

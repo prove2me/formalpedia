@@ -1,0 +1,122 @@
+-- Prove2me | solution 1 for Formalism.HermitianLattices.Final.trace_integrality_results
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T17:03:37.614747+00:00
+-- url     : https://prove2.me/submissions/de249010-e9b4-4c7c-8c96-c77ebc520512
+
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_SquareMomentFromBound
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_MinkowskiDivisorBound
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_SeparatedSetPackingBound
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_BlockOperatorNormBound
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_HookRowProductEqFactorial
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_OrthogonalMinorBound
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_SumLogFactorialRowsBounds
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_SquareMomentArithmeticBound
+import Definitions.Def_Formalism_GL3MeanSquares_TraceIntegralityResults
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_am_gm_sum_lower_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_block_operator_norm_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_column_top_entry
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_concavity_equidistribution
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_fifth_zeta_transference
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_first_zeta_arithmetic_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_first_zeta_count
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_fock_monomial_orthogonality
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_hook_length_formula
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_layer_cake_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_minkowski_divisor_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_minkowski_log_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_moduli_arithmetic_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_moduli_index_formula
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_orthogonal_minor_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_product_of_jets
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_second_zeta_mean_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_second_zeta_top_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_separated_set_packing_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_square_moment_from_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_thin_partition_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_third_zeta_application
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_third_zeta_degree_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_third_zeta_dimension_bound
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_third_zeta_injective
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_third_zeta_position_count
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_weight_change_formula
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_zeta_proposition_first
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_zeta_proposition_second
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_zeta_proposition_tail
+import Theorems.Thm_Formalism_HermitianLattices_TraceIntegrality_zeta_proposition_third
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLattices Formalism.HermitianLattices.Final
+namespace Formalism.HermitianLattices.Final
+theorem _root_.solution :
+    Formalism.HermitianLattices.TraceIntegrality.Ms_arith ∧
+    Formalism.HermitianLattices.TraceIntegrality.Ms_index ∧
+    Formalism.HermitianLattices.TraceIntegrality.Minkowski_div ∧
+    Formalism.HermitianLattices.TraceIntegrality.Minkowski_log ∧
+    Formalism.HermitianLattices.TraceIntegrality.Weight_change ∧
+    Formalism.HermitianLattices.TraceIntegrality.SeparatedSetPackingBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.PackingCountBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.LayerCakeSumBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.FockMonomialOrthogonality ∧
+    Formalism.HermitianLattices.TraceIntegrality.JetsProductBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.BlockOperatorNormBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.ZetaValueArithmetic ∧
+    Formalism.HermitianLattices.TraceIntegrality.HookLengthFormula ∧
+    Formalism.HermitianLattices.TraceIntegrality.LargestPlaceHookBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.ThinPlaceHookBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.Sqm_from ∧
+    Formalism.HermitianLattices.TraceIntegrality.MeanLogNormBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.DegreeEqHeadMinusBalance ∧
+    Formalism.HermitianLattices.TraceIntegrality.WeylDimensionBounds ∧
+    Formalism.HermitianLattices.TraceIntegrality.CoordinatesBoundedByBalance ∧
+    Formalism.HermitianLattices.TraceIntegrality.InjectiveReindexNormLe ∧
+    Formalism.HermitianLattices.TraceIntegrality.ZetaBoundApplication ∧
+    Formalism.HermitianLattices.TraceIntegrality.OrthogonalMinorBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.AmGmSumLowerBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.LastMinimumSqBoundOfProductBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.ConcavityEquidistribution ∧
+    Formalism.HermitianLattices.TraceIntegrality.LastColumnBound ∧
+    Formalism.HermitianLattices.TraceIntegrality.PropZ_i ∧
+    Formalism.HermitianLattices.TraceIntegrality.PropZ_ii ∧
+    Formalism.HermitianLattices.TraceIntegrality.PropZ_iii ∧
+    Formalism.HermitianLattices.TraceIntegrality.PropZ_tail :=
+  ⟨Formalism.HermitianLattices.TraceIntegrality.moduli_arithmetic_bound,
+   Formalism.HermitianLattices.TraceIntegrality.moduli_index_formula,
+   Formalism.HermitianLattices.TraceIntegrality.minkowski_divisor_bound,
+   Formalism.HermitianLattices.TraceIntegrality.minkowski_log_bound,
+   Formalism.HermitianLattices.TraceIntegrality.weight_change_formula,
+   Formalism.HermitianLattices.TraceIntegrality.separated_set_packing_bound,
+   Formalism.HermitianLattices.TraceIntegrality.first_zeta_count,
+   Formalism.HermitianLattices.TraceIntegrality.layer_cake_bound,
+   Formalism.HermitianLattices.TraceIntegrality.fock_monomial_orthogonality,
+   Formalism.HermitianLattices.TraceIntegrality.product_of_jets,
+   Formalism.HermitianLattices.TraceIntegrality.block_operator_norm_bound,
+   Formalism.HermitianLattices.TraceIntegrality.first_zeta_arithmetic_bound,
+   Formalism.HermitianLattices.TraceIntegrality.hook_length_formula,
+   Formalism.HermitianLattices.TraceIntegrality.second_zeta_top_bound,
+   Formalism.HermitianLattices.TraceIntegrality.thin_partition_bound,
+   Formalism.HermitianLattices.TraceIntegrality.square_moment_from_bound,
+   Formalism.HermitianLattices.TraceIntegrality.second_zeta_mean_bound,
+   Formalism.HermitianLattices.TraceIntegrality.third_zeta_degree_bound,
+   Formalism.HermitianLattices.TraceIntegrality.third_zeta_dimension_bound,
+   Formalism.HermitianLattices.TraceIntegrality.third_zeta_position_count,
+   Formalism.HermitianLattices.TraceIntegrality.third_zeta_injective,
+   Formalism.HermitianLattices.TraceIntegrality.third_zeta_application,
+   Formalism.HermitianLattices.TraceIntegrality.orthogonal_minor_bound,
+   Formalism.HermitianLattices.TraceIntegrality.am_gm_sum_lower_bound,
+   Formalism.HermitianLattices.TraceIntegrality.fifth_zeta_transference,
+   Formalism.HermitianLattices.TraceIntegrality.concavity_equidistribution,
+   Formalism.HermitianLattices.TraceIntegrality.column_top_entry,
+   Formalism.HermitianLattices.TraceIntegrality.zeta_proposition_first,
+   Formalism.HermitianLattices.TraceIntegrality.zeta_proposition_second,
+   Formalism.HermitianLattices.TraceIntegrality.zeta_proposition_third,
+   Formalism.HermitianLattices.TraceIntegrality.zeta_proposition_tail⟩
+end Formalism.HermitianLattices.Final

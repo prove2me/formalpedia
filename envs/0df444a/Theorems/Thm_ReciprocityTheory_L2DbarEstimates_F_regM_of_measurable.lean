@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_regM_of_measurable
 -- name    : ReciprocityTheory.L2DbarEstimates.F.regM_of_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:59:13.970998+00:00
 -- url     : https://prove2.me/theorems/fb10b4c3-739b-5a7a-8fcc-16e5eff5330a

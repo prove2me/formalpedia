@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_PerIndex_relIndex_perLat
 -- name    : GlobalTheory.RootEx.PerIndex.relIndex_perLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:10.358954+00:00
 -- url     : https://prove2.me/theorems/8cd00a66-3c97-48aa-8569-6593ec2e0b5e

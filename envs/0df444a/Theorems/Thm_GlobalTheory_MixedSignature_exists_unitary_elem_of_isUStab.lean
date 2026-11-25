@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_exists_unitary_elem_of_isUStab
 -- name    : GlobalTheory.MixedSignature.exists_unitary_elem_of_isUStab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:55:48.043599+00:00
 -- url     : https://prove2.me/theorems/cd9a6634-5b5f-410a-b81f-d8d36784e9f8

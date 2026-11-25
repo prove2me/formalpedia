@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_regular_system_of_parameters_local_ring_alt
 -- name    : GlobalTheory.T.regular_system_of_parameters_local_ring_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:44:35.826265+00:00
 -- url     : https://prove2.me/theorems/422835c7-8f59-5973-83e1-fc90275436a9

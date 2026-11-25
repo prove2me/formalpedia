@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_HE_contDiffAt_of_punct
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.HE.contDiffAt_of_punct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:19:17.375814+00:00
 -- url     : https://prove2.me/theorems/a3053158-affa-40b3-94cc-722c5463b162

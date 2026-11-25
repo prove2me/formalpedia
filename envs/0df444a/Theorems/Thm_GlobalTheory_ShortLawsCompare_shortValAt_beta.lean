@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortLawsCompare_shortValAt_beta
 -- name    : GlobalTheory.ShortLawsCompare.shortValAt_beta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:23:46.279638+00:00
 -- url     : https://prove2.me/theorems/1bf0e2bc-5fe6-5d8d-8021-1675cb411653

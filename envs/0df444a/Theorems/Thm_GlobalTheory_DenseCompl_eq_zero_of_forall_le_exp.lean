@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseCompl_eq_zero_of_forall_le_exp
 -- name    : GlobalTheory.DenseCompl.eq_zero_of_forall_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:15.393145+00:00
 -- url     : https://prove2.me/theorems/7732655f-c2c2-572b-bc7d-f82185c21c67

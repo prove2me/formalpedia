@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coords_eq_pairings_rational_symplectic_basis
 -- name    : GlobalTheory.T.coords_eq_pairings_rational_symplectic_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:53.349301+00:00
 -- url     : https://prove2.me/theorems/ac96a8d7-9765-4155-aca1-abdf1507fa59

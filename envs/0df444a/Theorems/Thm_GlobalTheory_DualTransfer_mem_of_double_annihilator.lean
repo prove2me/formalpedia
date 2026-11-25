@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualTransfer_mem_of_double_annihilator
 -- name    : GlobalTheory.DualTransfer.mem_of_double_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:04:12.624382+00:00
 -- url     : https://prove2.me/theorems/c34943a8-8fcb-5831-ad2a-1f00f1bed19e

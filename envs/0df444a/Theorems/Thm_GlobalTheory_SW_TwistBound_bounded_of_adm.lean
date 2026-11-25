@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistBound_bounded_of_adm
 -- name    : GlobalTheory.SW.TwistBound.bounded_of_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:25:27.460006+00:00
 -- url     : https://prove2.me/theorems/19ea766f-2e92-4bce-a87c-a7784f059a12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NodalCubic_over_hom_ext_field
 -- name    : GlobalTheory.NodalCubic.over_hom_ext_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:04:18.54284+00:00
 -- url     : https://prove2.me/theorems/8e8aa310-cf67-487e-9781-78ca68793dc1

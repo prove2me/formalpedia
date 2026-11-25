@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_gsv_tan
 -- name    : Formalism.L2.Pj.gsv_tan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:36:02.874971+00:00
 -- url     : https://prove2.me/theorems/e59f772b-095b-4124-a36c-ae889fa66446

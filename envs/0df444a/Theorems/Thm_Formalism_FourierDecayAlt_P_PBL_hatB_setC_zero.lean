@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBL_hatB_setC_zero
 -- name    : Formalism.FourierDecayAlt.P.PBL.hatB_setC_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:25.454049+00:00
 -- url     : https://prove2.me/theorems/415690c4-1a58-587b-a002-045bc6a960f7

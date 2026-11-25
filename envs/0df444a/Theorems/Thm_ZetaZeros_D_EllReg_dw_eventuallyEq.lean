@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_dw_eventuallyEq
 -- name    : ZetaZeros.D.EllReg.dw_eventuallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:13:11.266633+00:00
 -- url     : https://prove2.me/theorems/26d31acf-5862-46f3-b521-431f9ff11e99

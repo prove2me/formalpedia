@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segWindowRatio
 -- name    : Formalism.CountingSumsFrames.Top.segWindowRatio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:23:58.323997+00:00
 -- url     : https://prove2.me/theorems/13c4c093-f116-4225-81af-8a33aa5590c9

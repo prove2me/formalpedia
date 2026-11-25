@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_hermFrameCount_statement
 -- name    : Formalism.FourierDecayAlt.P.hermFrameCount_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:30:46.416558+00:00
 -- url     : https://prove2.me/theorems/90925691-2c27-5104-adab-970bd3692573

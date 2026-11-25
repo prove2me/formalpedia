@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fundamental_domain_fibration_volume
 -- name    : GlobalTheory.T.fundamental_domain_fibration_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:36.194297+00:00
 -- url     : https://prove2.me/theorems/75f7ac73-4a7f-4849-879d-1aa93191947b

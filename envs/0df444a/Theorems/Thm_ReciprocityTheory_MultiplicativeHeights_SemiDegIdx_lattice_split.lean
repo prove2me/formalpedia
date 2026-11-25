@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_lattice_split
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.lattice_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:48:30.61637+00:00
 -- url     : https://prove2.me/theorems/ec13117e-27b9-4d17-a316-8bfdc5cd345b

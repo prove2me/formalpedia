@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_PrimeRead_boundary_on_primes
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.PrimeRead.boundary_on_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:35:47.999055+00:00
 -- url     : https://prove2.me/theorems/dbf87db2-8626-4e71-8f0f-a5fc050e26de

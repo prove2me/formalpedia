@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Idele_smul_le_smul
 -- name    : GlobalTheory.Idele.smul_le_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:08.698809+00:00
 -- url     : https://prove2.me/theorems/ae2b14ba-44a2-5e3c-9b75-54c6549959f7

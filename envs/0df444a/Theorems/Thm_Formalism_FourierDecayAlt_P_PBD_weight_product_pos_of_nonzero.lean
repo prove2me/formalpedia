@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_weight_product_pos_of_nonzero
 -- name    : Formalism.FourierDecayAlt.P.PBD.weight_product_pos_of_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:24.530935+00:00
 -- url     : https://prove2.me/theorems/bb9cf452-5bd6-5872-a925-5ddaad2dc07d

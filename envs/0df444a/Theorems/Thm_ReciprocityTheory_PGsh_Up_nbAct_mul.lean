@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_nbAct_mul
 -- name    : ReciprocityTheory.PGsh.Up.nbAct_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:09:25.966807+00:00
 -- url     : https://prove2.me/theorems/85d4d3fe-4678-5156-8714-2e66984ab821

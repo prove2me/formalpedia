@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cyc_psum_bdd
 -- name    : ReciprocityTheory.Cheb.cyc_psum_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:48.490127+00:00
 -- url     : https://prove2.me/theorems/39450348-4e34-4118-b17e-c09314b670aa

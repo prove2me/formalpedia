@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_topNet6
 -- name    : Formalism.DimensionVariation.topNet6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:25:49.189008+00:00
 -- url     : https://prove2.me/theorems/9528d70e-8c66-4466-ad3e-ac155e619216

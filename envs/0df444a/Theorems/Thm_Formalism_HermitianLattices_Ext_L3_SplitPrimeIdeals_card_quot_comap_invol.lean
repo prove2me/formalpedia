@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_card_quot_comap_invol
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitPrimeIdeals.card_quot_comap_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:22.167817+00:00
 -- url     : https://prove2.me/theorems/cdc2344f-2f36-43c5-86df-02e7d6883313

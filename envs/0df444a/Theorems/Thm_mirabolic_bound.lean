@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mirabolic_bound
 -- name    : mirabolic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:43.11109+00:00
 -- url     : https://prove2.me/theorems/29edf57f-96d4-53cc-83f2-d7b0f1a07a53

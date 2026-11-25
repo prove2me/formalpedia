@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_DeltaDatumCombinedCoefficient_phiDelta_triv
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.DeltaDatumCombinedCoefficient.phiDelta_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:56.799963+00:00
 -- url     : https://prove2.me/theorems/6b6985a7-138a-4f6f-b0dc-38b6aeb3f8f3

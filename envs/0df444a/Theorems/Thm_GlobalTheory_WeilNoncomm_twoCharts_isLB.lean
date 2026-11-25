@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilNoncomm_twoCharts_isLB
 -- name    : GlobalTheory.WeilNoncomm.twoCharts_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:17:53.626939+00:00
 -- url     : https://prove2.me/theorems/783e6e96-f58e-4bc2-a3cd-685f7a079c4d

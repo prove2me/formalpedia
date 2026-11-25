@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_shift_commutator_relation_holds
 -- name    : Formalism.YangianSpanCharacter.P.shift_commutator_relation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:13.100367+00:00
 -- url     : https://prove2.me/theorems/3c414b26-5445-5a4c-bc22-e0358fbc3fac

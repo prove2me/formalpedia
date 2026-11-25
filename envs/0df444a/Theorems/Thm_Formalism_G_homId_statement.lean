@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G_homId_statement
 -- name    : Formalism.G.homId_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:38:10.945872+00:00
 -- url     : https://prove2.me/theorems/3ed15e3e-7bde-52cd-b37a-65aa2c29e702

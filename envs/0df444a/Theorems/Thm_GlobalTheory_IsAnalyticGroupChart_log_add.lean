@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAnalyticGroupChart_log_add
 -- name    : GlobalTheory.IsAnalyticGroupChart.log_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:24.29621+00:00
 -- url     : https://prove2.me/theorems/833d64c9-dec8-5d9e-b1c8-2dd6125ae128

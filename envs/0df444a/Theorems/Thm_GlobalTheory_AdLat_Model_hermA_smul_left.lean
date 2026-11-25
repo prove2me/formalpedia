@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Model_hermA_smul_left
 -- name    : GlobalTheory.AdLat.Model.hermA_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:54:48.214822+00:00
 -- url     : https://prove2.me/theorems/c8a9546e-ef89-4a6e-b639-ac7f7e8abbe9

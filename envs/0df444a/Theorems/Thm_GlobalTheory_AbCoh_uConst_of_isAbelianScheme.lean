@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_uConst_of_isAbelianScheme
 -- name    : GlobalTheory.AbCoh.uConst_of_isAbelianScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:09:42.793376+00:00
 -- url     : https://prove2.me/theorems/2531bd24-0e5e-44a2-aecd-4cfe5bbe22bf

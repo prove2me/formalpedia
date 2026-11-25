@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_AinfInv_algebraMap_mem_kerTheta_pow_iff
 -- name    : Reformulated.AutPerF.AinfInv.algebraMap_mem_kerTheta_pow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:20:37.975221+00:00
 -- url     : https://prove2.me/theorems/bee650a8-59fc-4413-a736-4889a16316a4

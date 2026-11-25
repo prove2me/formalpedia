@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_Model_blockSphereMean_linForm
 -- name    : GlobalTheory.ChowHt.Model.blockSphereMean_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:09:31.738895+00:00
 -- url     : https://prove2.me/theorems/f3b2f187-fbab-4ba4-b55b-c0d3be3388ee

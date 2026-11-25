@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_coeff_bound
 -- name    : ReciprocityTheory.ReducedBases.T2.coeff_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:33:25.824956+00:00
 -- url     : https://prove2.me/theorems/0844dbfe-0a29-4a8f-b650-592c200260ad

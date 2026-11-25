@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_OmScalP_evAt_tmPoly
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.OmScalP.evAt_tmPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:30:21.306393+00:00
 -- url     : https://prove2.me/theorems/c3fe6c6a-573b-4c17-b48d-026f27aa6ce3

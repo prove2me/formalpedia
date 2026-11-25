@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_unitAt_natCast
 -- name    : GlobalTheory.CMVal.Model.unitAt_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:33.054671+00:00
 -- url     : https://prove2.me/theorems/25adf28b-9279-5022-a51a-45f48b48b33b

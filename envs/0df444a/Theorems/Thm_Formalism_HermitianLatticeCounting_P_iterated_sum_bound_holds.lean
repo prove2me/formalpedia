@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_iterated_sum_bound_holds
 -- name    : Formalism.HermitianLatticeCounting.P.iterated_sum_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:05.707868+00:00
 -- url     : https://prove2.me/theorems/a4d5d71d-30a1-5879-beec-0aeecd772f29

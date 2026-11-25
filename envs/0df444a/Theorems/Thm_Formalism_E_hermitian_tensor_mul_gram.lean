@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_E_hermitian_tensor_mul_gram
 -- name    : Formalism.E.hermitian_tensor_mul_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:24.191891+00:00
 -- url     : https://prove2.me/theorems/f9a7db70-f546-41c9-92a2-394a90cc89e5

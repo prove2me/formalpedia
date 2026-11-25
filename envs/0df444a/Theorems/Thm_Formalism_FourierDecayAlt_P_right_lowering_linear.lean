@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_right_lowering_linear
 -- name    : Formalism.FourierDecayAlt.P.right_lowering_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:48:27.184161+00:00
 -- url     : https://prove2.me/theorems/e9d42ef9-ac30-4c97-89fa-a5a8a9c9c4cb

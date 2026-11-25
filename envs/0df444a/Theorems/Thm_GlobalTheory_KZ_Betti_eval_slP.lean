@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KZ_Betti_eval_slP
 -- name    : GlobalTheory.KZ.Betti.eval_slP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:12:18.962057+00:00
 -- url     : https://prove2.me/theorems/39ec8b44-85b2-4f39-bf7e-c3f82522fc4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_encard_sublattices_of_index_le
 -- name    : GlobalTheory.T.encard_sublattices_of_index_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:50.51536+00:00
 -- url     : https://prove2.me/theorems/66202073-7b4e-4ca1-a6ee-cb9c1e2cbaf1

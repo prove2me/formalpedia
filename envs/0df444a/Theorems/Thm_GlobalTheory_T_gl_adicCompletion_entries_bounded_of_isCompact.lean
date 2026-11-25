@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gl_adicCompletion_entries_bounded_of_isCompact
 -- name    : GlobalTheory.T.gl_adicCompletion_entries_bounded_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:37.655947+00:00
 -- url     : https://prove2.me/theorems/fa811509-95a1-4541-9c64-e790bc3a2f50

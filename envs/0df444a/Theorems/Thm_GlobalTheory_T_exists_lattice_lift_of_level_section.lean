@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lattice_lift_of_level_section
 -- name    : GlobalTheory.T.exists_lattice_lift_of_level_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:26:20.024452+00:00
 -- url     : https://prove2.me/theorems/f5a6caf8-419e-5eea-8a97-4a45a0b43539

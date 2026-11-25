@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaCounterexample_betaIs_bot
 -- name    : GlobalTheory.BetaCounterexample.betaIs_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:53.632347+00:00
 -- url     : https://prove2.me/theorems/1db27003-3e33-5be3-af5d-77717f30f2a5

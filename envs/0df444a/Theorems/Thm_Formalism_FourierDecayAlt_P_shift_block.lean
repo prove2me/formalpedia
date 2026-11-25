@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_shift_block
 -- name    : Formalism.FourierDecayAlt.P.shift_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:35:41.936833+00:00
 -- url     : https://prove2.me/theorems/f12ca03a-9379-4a9e-b01e-fdcc6c79c605

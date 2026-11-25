@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sdd_index
 -- name    : ReciprocityTheory.MultiplicativeHeights.sdd_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:07.296479+00:00
 -- url     : https://prove2.me/theorems/c75b800c-1af8-50f4-8b7f-994cd187d8a6

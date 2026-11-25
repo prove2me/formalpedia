@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_DerMorK_deformHom_base
 -- name    : GlobalTheory.KS.DerMorK.deformHom_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:13:42.460593+00:00
 -- url     : https://prove2.me/theorems/e2cc1d03-744d-46f2-bfde-3003ccd633e0

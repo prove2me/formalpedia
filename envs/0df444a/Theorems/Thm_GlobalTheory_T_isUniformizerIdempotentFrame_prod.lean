@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isUniformizerIdempotentFrame_prod
 -- name    : GlobalTheory.T.isUniformizerIdempotentFrame_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:37.670211+00:00
 -- url     : https://prove2.me/theorems/71d5c97a-30f0-472a-ae85-d75411577130

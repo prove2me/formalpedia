@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_binary_op_glued_along_cover
 -- name    : GlobalTheory.T.exists_binary_op_glued_along_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:34:11.513028+00:00
 -- url     : https://prove2.me/theorems/bbc33e01-3640-441a-b81d-097aca4b3b2a

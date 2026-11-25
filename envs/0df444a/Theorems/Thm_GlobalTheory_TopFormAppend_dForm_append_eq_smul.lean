@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TopFormAppend_dForm_append_eq_smul
 -- name    : GlobalTheory.TopFormAppend.dForm_append_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:41:41.308832+00:00
 -- url     : https://prove2.me/theorems/54ff0642-836f-4a68-8119-95f09c484a7f

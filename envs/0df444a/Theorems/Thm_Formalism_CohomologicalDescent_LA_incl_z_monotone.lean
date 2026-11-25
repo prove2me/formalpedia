@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_incl_z_monotone
 -- name    : Formalism.CohomologicalDescent.LA.incl_z_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:13.846578+00:00
 -- url     : https://prove2.me/theorems/f326d68a-10e9-5ba7-be40-60db70c8c896

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K4_TopW_pow_val_mul
 -- name    : GlobalTheory.K4.TopW.pow_val_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:56.416435+00:00
 -- url     : https://prove2.me/theorems/de32010d-ab71-450d-ae18-0417de5b3ac7

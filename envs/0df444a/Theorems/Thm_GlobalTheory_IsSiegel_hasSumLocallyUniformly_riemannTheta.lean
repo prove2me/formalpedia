@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_hasSumLocallyUniformly_riemannTheta
 -- name    : GlobalTheory.IsSiegel.hasSumLocallyUniformly_riemannTheta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:11:36.726018+00:00
 -- url     : https://prove2.me/theorems/a563ed0b-6c1c-45b6-94fb-2e6a1faf1011

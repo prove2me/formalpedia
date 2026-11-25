@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_KerPair_prod_tr_one
 -- name    : GlobalTheory.UU.KerPair.prod_tr_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:09:22.474034+00:00
 -- url     : https://prove2.me/theorems/b5acab0a-7cad-4093-b9e6-f3bd0d5e6525

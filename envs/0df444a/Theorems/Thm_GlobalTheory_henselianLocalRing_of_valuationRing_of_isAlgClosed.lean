@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_henselianLocalRing_of_valuationRing_of_isAlgClosed
 -- name    : GlobalTheory.henselianLocalRing_of_valuationRing_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:05:17.965386+00:00
 -- url     : https://prove2.me/theorems/54d1635e-baf2-4f43-9259-fad8558666f6

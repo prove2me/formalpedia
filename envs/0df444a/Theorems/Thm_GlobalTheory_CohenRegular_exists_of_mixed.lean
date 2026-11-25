@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenRegular_exists_of_mixed
 -- name    : GlobalTheory.CohenRegular.exists_of_mixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:13:11.153347+00:00
 -- url     : https://prove2.me/theorems/966f8330-862d-4657-9336-7e86f1ed54d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_sameTraceHyp
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.sameTraceHyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:38:32.157367+00:00
 -- url     : https://prove2.me/theorems/80b349bc-57b1-4604-b554-07491923cee6

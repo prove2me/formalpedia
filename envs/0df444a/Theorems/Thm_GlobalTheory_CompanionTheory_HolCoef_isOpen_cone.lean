@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolCoef_isOpen_cone
 -- name    : GlobalTheory.CompanionTheory.HolCoef.isOpen_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:12.618819+00:00
 -- url     : https://prove2.me/theorems/5fa16e1b-3c06-5c9f-888e-3585b2b61299

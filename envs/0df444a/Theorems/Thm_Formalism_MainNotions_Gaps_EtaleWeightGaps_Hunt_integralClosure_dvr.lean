@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_Hunt_integralClosure_dvr
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.Hunt.integralClosure_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:14.260974+00:00
 -- url     : https://prove2.me/theorems/6682369a-e633-4ab7-9060-23245f47b570

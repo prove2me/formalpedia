@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_scaleTies_some_comp
 -- name    : Formalism.L2.Indef.Tree.scaleTies_some_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:47:08.299167+00:00
 -- url     : https://prove2.me/theorems/d875b3fa-9842-584f-9b48-a81c121256df

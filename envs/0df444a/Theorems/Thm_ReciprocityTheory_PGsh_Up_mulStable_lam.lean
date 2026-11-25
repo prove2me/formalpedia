@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_mulStable_lam
 -- name    : ReciprocityTheory.PGsh.Up.mulStable_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:47.923841+00:00
 -- url     : https://prove2.me/theorems/2ebc79e3-d5a0-5dd4-901e-f456d95c1442

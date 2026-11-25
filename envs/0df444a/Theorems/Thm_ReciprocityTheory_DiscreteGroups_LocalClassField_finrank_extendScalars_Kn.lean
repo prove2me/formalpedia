@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_finrank_extendScalars_Kn
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.finrank_extendScalars_Kn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:55:38.376794+00:00
 -- url     : https://prove2.me/theorems/3cec9021-8c10-42a9-a8a3-e67f18d485a1

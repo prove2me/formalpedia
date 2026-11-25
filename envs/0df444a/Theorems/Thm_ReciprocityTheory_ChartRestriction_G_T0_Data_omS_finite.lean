@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_omS_finite
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.omS_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:35:38.371596+00:00
 -- url     : https://prove2.me/theorems/0f8f9f8f-041e-4e05-982e-b683c403d6de

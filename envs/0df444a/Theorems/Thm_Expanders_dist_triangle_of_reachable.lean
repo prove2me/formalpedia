@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Expanders_dist_triangle_of_reachable
 -- name    : Expanders.dist_triangle_of_reachable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:08:46.164461+00:00
 -- url     : https://prove2.me/theorems/42137f68-8fca-4f97-a887-fd0c31eda8a6

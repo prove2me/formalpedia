@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_inter_orderAtLeastLocus_subset_orderAtLeastLocus_mul
 -- name    : FunctorialResolution.EmbeddedResolution.inter_orderAtLeastLocus_subset_orderAtLeastLocus_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:38.872452+00:00
 -- url     : https://prove2.me/theorems/b5833e33-ff9c-5fe5-b641-ea1b69f36caf

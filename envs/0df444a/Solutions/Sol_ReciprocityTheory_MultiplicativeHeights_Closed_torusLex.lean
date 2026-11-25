@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for ReciprocityTheory.MultiplicativeHeights.Closed.torusLex
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T17:01:44.308142+00:00
+-- url     : https://prove2.me/submissions/c70ccb86-c1d7-44a4-b1b9-5c799dae7177
+
+import Definitions.Def_ReciprocityTheory_SemistableReduction_SJCore
+import Definitions.Def_ReciprocityTheory_SemistableReduction_SjHolds
+import Definitions.Def_ReciprocityTheory_SemistableReduction_LagrangeIdealLiftsFact
+import Definitions.Def_ReciprocityTheory_SemistableReduction_HeightLowerBound
+import Definitions.Def_ReciprocityTheory_SemistableReduction_IntCores
+import Definitions.Def_ReciprocityTheory_SemistableReduction_TorusMean
+import Definitions.Def_ReciprocityTheory_SemistableReduction_TorusLex
+import Definitions.Def_ReciprocityTheory_SemistableReduction_GramOfLinearOrder
+import Definitions.Def_ReciprocityTheory_SemistableReduction_SphereTorus
+import Definitions.Def_ReciprocityTheory_SemistableReduction_TorusL2CauchyInequality
+import Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_torusMeanBasic
+import Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_torusCoeff
+import Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_torusLex_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.MultiplicativeHeights ReciprocityTheory.MultiplicativeHeights.Closed
+open ReciprocityTheory.MultiplicativeHeights
+namespace ReciprocityTheory.MultiplicativeHeights.Closed
+theorem _root_.solution : TorusLexStatement := (torusLex_holds torusMeanBasic torusCoeff).1
+end ReciprocityTheory.MultiplicativeHeights.Closed

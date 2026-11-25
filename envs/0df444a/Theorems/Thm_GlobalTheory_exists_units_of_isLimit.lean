@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_units_of_isLimit
 -- name    : GlobalTheory.exists_units_of_isLimit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:09:44.130853+00:00
 -- url     : https://prove2.me/theorems/bfe196dc-31c1-45aa-bc96-18536d7717c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_NodalCubic_toSpec__constHom_50b6664562d9
 -- name    : P2M_GlobalTheory_NodalCubic_toSpec__constHom_50b6664562d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:52:35.783535+00:00
 -- url     : https://prove2.me/theorems/d0e5148f-c621-4332-8763-b9d99490f75a

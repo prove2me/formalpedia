@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldDescentGen_exists_gen
 -- name    : GlobalTheory.FieldDescentGen.exists_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:19:52.530852+00:00
 -- url     : https://prove2.me/theorems/4a16649a-723c-4723-aa21-33bd4604ea3d

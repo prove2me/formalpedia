@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_families_span_pullDegeneration
 -- name    : GlobalTheory.T.exists_integral_families_span_pullDegeneration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:58:31.790493+00:00
 -- url     : https://prove2.me/theorems/87e904c5-802e-5bbc-81e4-7e4134539a6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_cohom_split_baseChange
 -- name    : GlobalTheory.AbCoh.cohom_split_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:01:58.595776+00:00
 -- url     : https://prove2.me/theorems/50406222-0dc3-5955-a6e4-ac57061f9f16

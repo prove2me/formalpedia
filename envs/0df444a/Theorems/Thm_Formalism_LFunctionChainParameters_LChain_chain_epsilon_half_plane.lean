@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_chain_epsilon_half_plane
 -- name    : Formalism.LFunctionChainParameters.LChain.chain_epsilon_half_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:49:18.806941+00:00
 -- url     : https://prove2.me/theorems/eafd5b26-4c45-5696-99b3-a50d8961706b

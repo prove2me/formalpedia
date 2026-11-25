@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_maximal_height_succ_dim
 -- name    : GlobalTheory.T.exists_maximal_height_succ_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:16.819743+00:00
 -- url     : https://prove2.me/theorems/885732f8-65ba-40c3-b9a6-8ffe676ad80f

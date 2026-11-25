@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_funMat_id
 -- name    : ReciprocityTheory.PGsh.funMat_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:09:19.087522+00:00
 -- url     : https://prove2.me/theorems/f236fd2b-cad7-5d3e-94e8-a312e3609ff9

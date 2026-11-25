@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LocBrg_two_unit_VA
 -- name    : Formalism.IndefR.LocBrg.two_unit_VA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:42:04.964132+00:00
 -- url     : https://prove2.me/theorems/3e279207-e5be-44dc-8385-3addc089e9fb

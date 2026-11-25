@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Jets_TautMarking_exists_tautological_marking
 -- name    : GlobalTheory.Jets.TautMarking.exists_tautological_marking
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:12:49.890094+00:00
 -- url     : https://prove2.me/theorems/5c70955b-7793-514e-861f-5311092a037e

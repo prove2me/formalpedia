@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_lieGram_eq
 -- name    : Formalism.L2.LamCM.lieGram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:28.65014+00:00
 -- url     : https://prove2.me/theorems/c69cd839-de4d-5262-b8c7-eacecb2d7978

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelPairing_finite_LevQ
 -- name    : GlobalTheory.LevelPairing.finite_LevQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:18:52.102811+00:00
 -- url     : https://prove2.me/theorems/2840fa42-1f57-5b84-8814-1f245232822e

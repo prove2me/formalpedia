@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cocycle_unramified_outside_vanish_on_kernel
 -- name    : GlobalTheory.T.cocycle_unramified_outside_vanish_on_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:30:46.052889+00:00
 -- url     : https://prove2.me/theorems/456e4d39-67d4-4b32-b1b9-4109299e467f

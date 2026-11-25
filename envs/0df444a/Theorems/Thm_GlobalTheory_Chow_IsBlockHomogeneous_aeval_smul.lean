@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_IsBlockHomogeneous_aeval_smul
 -- name    : GlobalTheory.Chow.IsBlockHomogeneous.aeval_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:15.001582+00:00
 -- url     : https://prove2.me/theorems/9c654794-00e2-57ec-ba36-455ce0ed92eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_zhat_section_exists
 -- name    : Formalism.FourierDecayAlt.P.zhat_section_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:43.216655+00:00
 -- url     : https://prove2.me/theorems/8f9bdcf7-5f05-5079-8529-404892989ce1

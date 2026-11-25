@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubfieldChart_exists_holomorphic_chart
 -- name    : GlobalTheory.SubfieldChart.exists_holomorphic_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:25:08.594885+00:00
 -- url     : https://prove2.me/theorems/9b39f812-bc7c-5658-8626-76f12e96be15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_BKDat_conn_mem_MM
 -- name    : GlobalTheory.BK.BKDat.conn_mem_MM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:59:17.375028+00:00
 -- url     : https://prove2.me/theorems/fcaa16b2-9730-4ba6-bf57-6040f6f565a6

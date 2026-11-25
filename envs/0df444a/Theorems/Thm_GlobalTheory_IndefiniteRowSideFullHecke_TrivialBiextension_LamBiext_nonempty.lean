@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TrivialBiextension_LamBiext_nonempty
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TrivialBiextension.LamBiext.nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:33.065882+00:00
 -- url     : https://prove2.me/theorems/d8bb3807-e6f4-4030-baa5-43b2450f7034

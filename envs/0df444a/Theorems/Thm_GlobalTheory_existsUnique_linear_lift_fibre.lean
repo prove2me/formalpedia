@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_linear_lift_fibre
 -- name    : GlobalTheory.existsUnique_linear_lift_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:15:15.468012+00:00
 -- url     : https://prove2.me/theorems/f82b5b46-3443-4a0e-8ba7-297342de6d61

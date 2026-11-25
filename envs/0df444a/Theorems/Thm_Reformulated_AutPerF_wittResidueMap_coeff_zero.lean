@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_wittResidueMap_coeff_zero
 -- name    : Reformulated.AutPerF.wittResidueMap_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:37.429987+00:00
 -- url     : https://prove2.me/theorems/5dc3da75-12ca-4213-a314-4935d4d17c03

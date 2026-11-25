@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_minor_of_integral_matrix
 -- name    : GlobalTheory.T.exists_unit_minor_of_integral_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:23.578994+00:00
 -- url     : https://prove2.me/theorems/16b07127-ba06-4e5d-947d-0bc780c2d5b0

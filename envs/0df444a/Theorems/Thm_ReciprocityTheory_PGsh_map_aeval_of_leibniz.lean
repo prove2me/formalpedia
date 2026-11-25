@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_map_aeval_of_leibniz
 -- name    : ReciprocityTheory.PGsh.map_aeval_of_leibniz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:28.654662+00:00
 -- url     : https://prove2.me/theorems/c5986c68-4e70-4146-a38a-c597e94840cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_local_generator_base_change
 -- name    : Formalism.L2.LamCM.local_generator_base_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:53.983698+00:00
 -- url     : https://prove2.me/theorems/ade21a97-ef70-43eb-b237-d3a4237850f1

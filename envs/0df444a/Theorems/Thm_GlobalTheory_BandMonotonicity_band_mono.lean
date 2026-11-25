@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BandMonotonicity_band_mono
 -- name    : GlobalTheory.BandMonotonicity.band_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:56:31.707564+00:00
 -- url     : https://prove2.me/theorems/9000f996-3a5d-520f-8ee6-e605324c3307

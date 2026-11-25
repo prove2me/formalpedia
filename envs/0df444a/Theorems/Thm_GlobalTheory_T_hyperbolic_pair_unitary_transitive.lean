@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hyperbolic_pair_unitary_transitive
 -- name    : GlobalTheory.T.hyperbolic_pair_unitary_transitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:37:31.159605+00:00
 -- url     : https://prove2.me/theorems/f87ff1a4-36d6-58ea-aa48-f31ab3305be4

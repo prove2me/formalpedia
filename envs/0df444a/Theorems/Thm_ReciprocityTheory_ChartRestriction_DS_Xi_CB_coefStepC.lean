@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_CB_coefStepC
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.CB.coefStepC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:45:30.357901+00:00
 -- url     : https://prove2.me/theorems/b85773dc-888f-4365-a196-12f9c58abac5

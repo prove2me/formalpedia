@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_sFlagMap
 -- name    : UnipMove.sFlagMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:36.198202+00:00
 -- url     : https://prove2.me/theorems/c85e7a85-fddb-4781-b9d2-4bd8810910d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_lieGroup_GL_complex_real
 -- name    : CompanionTheory.D.Upq.lieGroup_GL_complex_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:15:41.468907+00:00
 -- url     : https://prove2.me/theorems/ab4de2b7-6067-43fa-b3e2-38d6befc9025

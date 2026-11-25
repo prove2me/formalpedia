@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WF_smooth_cut
 -- name    : ZetaZeros.D.EllReg.WF.smooth_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:40.287265+00:00
 -- url     : https://prove2.me/theorems/73b4acae-4222-47e3-9729-368235c17647

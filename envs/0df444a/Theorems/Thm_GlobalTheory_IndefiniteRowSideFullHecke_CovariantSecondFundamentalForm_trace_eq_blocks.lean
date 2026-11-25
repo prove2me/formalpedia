@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CovariantSecondFundamentalForm_trace_eq_blocks
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CovariantSecondFundamentalForm.trace_eq_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:22.014003+00:00
 -- url     : https://prove2.me/theorems/0c2e8b1b-c24b-57a1-aebe-6ba367030611

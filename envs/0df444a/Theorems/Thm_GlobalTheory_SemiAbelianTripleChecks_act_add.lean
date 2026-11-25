@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemiAbelianTripleChecks_act_add
 -- name    : GlobalTheory.SemiAbelianTripleChecks.act_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:22:50.266449+00:00
 -- url     : https://prove2.me/theorems/d7054ac0-1d8a-5ea6-b1b5-97537773b9e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LocJacOrd_W_boxScale_holds
 -- name    : PI.LocJacOrd.W.boxScale_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:27:21.979523+00:00
 -- url     : https://prove2.me/theorems/c3c78d43-7248-5941-9a79-66fca80e3551

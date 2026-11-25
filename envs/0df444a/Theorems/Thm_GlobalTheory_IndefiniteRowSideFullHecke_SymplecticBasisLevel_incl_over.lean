@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SymplecticBasisLevel_incl_over
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SymplecticBasisLevel.incl_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:12:25.7248+00:00
 -- url     : https://prove2.me/theorems/154cdd0d-9fe0-5415-82bc-c24d3a11d528

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_frobeniusDetVanishing_holds
 -- name    : Formalism.CountingSumsFrames.frobeniusDetVanishing_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:23:28.716994+00:00
 -- url     : https://prove2.me/theorems/ff90408d-eb75-4019-a646-4d70da505c78

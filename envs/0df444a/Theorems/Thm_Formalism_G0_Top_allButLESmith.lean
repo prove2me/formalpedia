@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_allButLESmith
 -- name    : Formalism.G0.Top.allButLESmith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:39:57.762721+00:00
 -- url     : https://prove2.me/theorems/303d37ba-1612-4841-a7dc-ea6f4ed2f3f5

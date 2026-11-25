@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_diffExists
 -- name    : diffExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:18:07.115622+00:00
 -- url     : https://prove2.me/theorems/ad36805c-9d6d-4a01-b055-a3adc82de6eb

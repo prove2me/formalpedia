@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajPosCpx_exists_unip_conj_unitary
 -- name    : GlobalTheory.MajPosCpx.exists_unip_conj_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:11.40237+00:00
 -- url     : https://prove2.me/theorems/46621a23-2377-4b78-ac01-795e9187c7d1

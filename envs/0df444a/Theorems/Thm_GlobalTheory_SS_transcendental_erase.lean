@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_transcendental_erase
 -- name    : GlobalTheory.SS.transcendental_erase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:42:52.21454+00:00
 -- url     : https://prove2.me/theorems/eff42ae7-b8e0-4b8e-8b4d-07e6611ed8ee

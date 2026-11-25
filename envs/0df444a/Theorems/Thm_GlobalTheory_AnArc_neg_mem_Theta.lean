@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_neg_mem_Theta
 -- name    : GlobalTheory.AnArc.neg_mem_Theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:55:49.619662+00:00
 -- url     : https://prove2.me/theorems/61ff2ccc-b7b3-5def-9b46-7cf20d4a4465

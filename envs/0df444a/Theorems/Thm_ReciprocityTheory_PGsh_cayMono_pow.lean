@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_cayMono_pow
 -- name    : ReciprocityTheory.PGsh.cayMono_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:22.681027+00:00
 -- url     : https://prove2.me/theorems/a420cb21-3cc7-4cad-aff8-7ac679030789

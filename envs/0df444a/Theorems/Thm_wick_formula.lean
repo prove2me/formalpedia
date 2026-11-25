@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_wick_formula
 -- name    : wick_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:19:23.669113+00:00
 -- url     : https://prove2.me/theorems/c0707c77-aa71-4d47-bc91-307003c9d902

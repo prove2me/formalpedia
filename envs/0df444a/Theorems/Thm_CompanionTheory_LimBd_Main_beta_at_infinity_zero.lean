@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_beta_at_infinity_zero
 -- name    : CompanionTheory.LimBd.Main.beta_at_infinity_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:19:17.760787+00:00
 -- url     : https://prove2.me/theorems/b786f7c0-be3d-4947-bc99-813f975b719b

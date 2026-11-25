@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_common_unramified_extension
 -- name    : GlobalTheory.T.exists_common_unramified_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:36.238569+00:00
 -- url     : https://prove2.me/theorems/f2724d6f-1faa-5b4d-abb9-a7580bc1216c

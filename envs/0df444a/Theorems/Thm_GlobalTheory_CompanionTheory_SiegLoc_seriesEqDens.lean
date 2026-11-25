@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_seriesEqDens
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.seriesEqDens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:20.323818+00:00
 -- url     : https://prove2.me/theorems/4691d107-28b6-48d5-9239-c41d3389cc7a

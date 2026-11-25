@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ClosedCoord_away_of_vanishing
 -- name    : GlobalTheory.ZM.ClosedCoord.away_of_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:17.973892+00:00
 -- url     : https://prove2.me/theorems/beef7ba9-2d77-4640-a713-27a5dce2003c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_exists_intEmb_eq_discEval
 -- name    : GlobalTheory.DiscEval.exists_intEmb_eq_discEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:58:37.223144+00:00
 -- url     : https://prove2.me/theorems/b05483b2-a851-4904-b4e1-9ddf39f861b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weight_lower_bound
 -- name    : Formalism.FourierDecayAlt.P.weight_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:33.542898+00:00
 -- url     : https://prove2.me/theorems/798de2b9-5d32-44d1-94d5-9f715f35794f

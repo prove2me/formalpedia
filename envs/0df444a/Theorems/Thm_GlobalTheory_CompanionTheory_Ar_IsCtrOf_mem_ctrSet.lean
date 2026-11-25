@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_IsCtrOf_mem_ctrSet
 -- name    : GlobalTheory.CompanionTheory.Ar.IsCtrOf.mem_ctrSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:59:21.136371+00:00
 -- url     : https://prove2.me/theorems/b4d668a7-1063-4aa9-a6bc-faf5b12df98f

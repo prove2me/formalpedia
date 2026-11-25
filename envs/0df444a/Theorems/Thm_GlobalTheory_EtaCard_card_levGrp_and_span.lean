@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaCard_card_levGrp_and_span
 -- name    : GlobalTheory.EtaCard.card_levGrp_and_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:41.865264+00:00
 -- url     : https://prove2.me/theorems/d6b479ac-fa5d-450d-91c6-9a79aba1b1da

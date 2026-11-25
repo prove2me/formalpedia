@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistCheck_additive_eq
 -- name    : GlobalTheory.TwistCheck.additive_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:00:44.123236+00:00
 -- url     : https://prove2.me/theorems/e439383a-bf1a-46b0-b7ee-5ca289d2d566

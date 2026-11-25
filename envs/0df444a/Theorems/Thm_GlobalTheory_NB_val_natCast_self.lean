@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_val_natCast_self
 -- name    : GlobalTheory.NB.val_natCast_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:19.243654+00:00
 -- url     : https://prove2.me/theorems/765dd032-41bf-56cf-b1fe-5db4091c6b17

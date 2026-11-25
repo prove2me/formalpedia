@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationCertificate_of_two_le
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationCertificate.of_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:28.307346+00:00
 -- url     : https://prove2.me/theorems/d34f7932-677e-544f-b06a-0f694e043455

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_circle_character_extends_open
 -- name    : Formalism.IrreducibleCountingLemmas.Z.circle_character_extends_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:48.702185+00:00
 -- url     : https://prove2.me/theorems/ef1eae78-a12f-41bf-b3eb-5f79f9654aa2

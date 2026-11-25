@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtUp_isTwistPull_up
 -- name    : GlobalTheory.ThetaPtUp.isTwistPull_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:49:59.544974+00:00
 -- url     : https://prove2.me/theorems/8d3b67b1-8727-57da-b2df-e025e6366eb2

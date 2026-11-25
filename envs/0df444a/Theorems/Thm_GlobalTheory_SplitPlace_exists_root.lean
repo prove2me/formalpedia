@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitPlace_exists_root
 -- name    : GlobalTheory.SplitPlace.exists_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:24:50.362563+00:00
 -- url     : https://prove2.me/theorems/ab513774-bd6d-5202-82b3-77e827ca9d96

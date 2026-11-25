@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_HermFam_ds_gram_comb_det_re
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.HermFam.ds_gram_comb_det_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:52:49.214636+00:00
 -- url     : https://prove2.me/theorems/b965d942-26fe-4f73-8895-8fb5ed4e3c27

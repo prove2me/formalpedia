@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_axioms_from_families
 -- name    : Formalism.FourierDecayAlt.P.axioms_from_families
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:28:36.650656+00:00
 -- url     : https://prove2.me/theorems/d64e98bb-103c-4e49-aa57-7203f3f8a13e

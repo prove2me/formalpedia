@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_datum_conjugation_invariant
 -- name    : datum_conjugation_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:17:53.059983+00:00
 -- url     : https://prove2.me/theorems/3cbe4be3-fc0c-42fd-90ae-6a0d6b43ac01

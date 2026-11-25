@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_splitAlg
 -- name    : Formalism.NG.splitAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:48.694703+00:00
 -- url     : https://prove2.me/theorems/017f8416-4285-56a5-b627-d0a8a1d0ac39

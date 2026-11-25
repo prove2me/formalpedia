@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOnR_isScalarTower_of_algebraMap_eq
 -- name    : GlobalTheory.AbLaw.SecOnR.isScalarTower_of_algebraMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:47:35.221179+00:00
 -- url     : https://prove2.me/theorems/1c6fe485-2647-5de6-b7a3-a3944219a76f

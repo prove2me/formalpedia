@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AllClasses_exists_isTypeFn
 -- name    : GlobalTheory.AllClasses.exists_isTypeFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:56:05.782046+00:00
 -- url     : https://prove2.me/theorems/9387acce-216e-5df5-a4dd-10b638dec94e

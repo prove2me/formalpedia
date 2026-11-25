@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_zuckDualT_of_zuckDual
 -- name    : CompanionTheory.LimBd.Main.zuckDualT_of_zuckDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:18:58.673797+00:00
 -- url     : https://prove2.me/theorems/107bacd7-43ab-4999-8ea9-612d4b493d38

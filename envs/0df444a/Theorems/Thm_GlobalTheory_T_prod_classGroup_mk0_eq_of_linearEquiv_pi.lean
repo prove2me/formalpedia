@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prod_classGroup_mk0_eq_of_linearEquiv_pi
 -- name    : GlobalTheory.T.prod_classGroup_mk0_eq_of_linearEquiv_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:23.170841+00:00
 -- url     : https://prove2.me/theorems/e69084e6-6cda-4fb2-b618-c4dee6165be3

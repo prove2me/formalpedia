@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fibre_stabilizer
 -- name    : Formalism.FourierDecayAlt.P.fibre_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:34:46.905368+00:00
 -- url     : https://prove2.me/theorems/6f798867-1bb7-5a34-b993-555f2b3ba4a8

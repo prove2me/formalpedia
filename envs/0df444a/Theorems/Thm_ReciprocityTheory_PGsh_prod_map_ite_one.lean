@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_prod_map_ite_one
 -- name    : ReciprocityTheory.PGsh.prod_map_ite_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:09:24.766913+00:00
 -- url     : https://prove2.me/theorems/5f8cd705-6cb9-42f2-8fb6-a48866d03b74

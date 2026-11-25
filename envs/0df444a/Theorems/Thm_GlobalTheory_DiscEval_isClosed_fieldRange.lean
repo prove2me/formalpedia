@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_isClosed_fieldRange
 -- name    : GlobalTheory.DiscEval.isClosed_fieldRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:59:50.888228+00:00
 -- url     : https://prove2.me/theorems/893889ab-0972-44d5-b488-9c4dc386995c

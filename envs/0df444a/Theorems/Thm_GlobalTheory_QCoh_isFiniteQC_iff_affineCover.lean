@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isFiniteQC_iff_affineCover
 -- name    : GlobalTheory.QCoh.isFiniteQC_iff_affineCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:18:27.130118+00:00
 -- url     : https://prove2.me/theorems/6dfd6e79-390f-51a4-9b12-78636a78c198

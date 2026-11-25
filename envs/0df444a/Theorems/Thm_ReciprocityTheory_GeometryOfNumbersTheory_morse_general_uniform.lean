@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_morse_general_uniform
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.morse_general_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:06.107144+00:00
 -- url     : https://prove2.me/theorems/fc514860-5cba-4b0e-8db4-420a8f9b6e6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_deg_ineIncl
 -- name    : GlobalTheory.WeilDeligne.deg_ineIncl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:08:12.006499+00:00
 -- url     : https://prove2.me/theorems/3523a386-fd38-49ea-b51e-ecfcf8fc1f68

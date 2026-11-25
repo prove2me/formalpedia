@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_fockS_conj
 -- name    : GlobalTheory.MinorFrame.fockS_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:22:39.881441+00:00
 -- url     : https://prove2.me/theorems/f4e8cc53-1cbb-56fa-986b-b47e1f2ae307

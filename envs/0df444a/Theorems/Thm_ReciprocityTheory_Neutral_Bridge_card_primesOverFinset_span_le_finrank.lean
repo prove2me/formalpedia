@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_card_primesOverFinset_span_le_finrank
 -- name    : ReciprocityTheory.Neutral.Bridge.card_primesOverFinset_span_le_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:05:05.787798+00:00
 -- url     : https://prove2.me/theorems/cefda3cb-da20-5a84-ac6f-585223d18629

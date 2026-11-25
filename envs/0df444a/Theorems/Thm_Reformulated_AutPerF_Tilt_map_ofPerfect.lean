@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Tilt_map_ofPerfect
 -- name    : Reformulated.AutPerF.Tilt.map_ofPerfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:54.480122+00:00
 -- url     : https://prove2.me/theorems/9c7a4a3e-77fa-4238-ba89-556035630a2e

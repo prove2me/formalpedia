@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxFull
 -- name    : Formalism.EigenvalueLevelCeiling.idxFull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:45:11.2767+00:00
 -- url     : https://prove2.me/theorems/174fc9c0-32eb-4de7-8044-3ab45ee2da0c

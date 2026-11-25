@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothPart_exists_isOpenImmersion_of_comap_eq
 -- name    : GlobalTheory.CompanionTheory.SmoothPart.exists_isOpenImmersion_of_comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:52:42.442125+00:00
 -- url     : https://prove2.me/theorems/29cfd604-47a9-43c7-ba90-e3362a91b5bf

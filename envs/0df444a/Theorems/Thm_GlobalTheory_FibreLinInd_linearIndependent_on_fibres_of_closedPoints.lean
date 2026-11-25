@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreLinInd_linearIndependent_on_fibres_of_closedPoints
 -- name    : GlobalTheory.FibreLinInd.linearIndependent_on_fibres_of_closedPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:13.324864+00:00
 -- url     : https://prove2.me/theorems/e7a7a744-3809-5a29-a59a-c1eb24a14b32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_conj_coef
 -- name    : GlobalTheory.Doubling.conj_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:03:59.836228+00:00
 -- url     : https://prove2.me/theorems/82df07f0-ec94-4e80-aa6d-d409f437d111

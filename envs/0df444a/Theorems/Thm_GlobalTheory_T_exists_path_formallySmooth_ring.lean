@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_path_formallySmooth_ring
 -- name    : GlobalTheory.T.exists_path_formallySmooth_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:30:17.791063+00:00
 -- url     : https://prove2.me/theorems/b72a8e7f-8cca-51b7-be2e-ec5069943938

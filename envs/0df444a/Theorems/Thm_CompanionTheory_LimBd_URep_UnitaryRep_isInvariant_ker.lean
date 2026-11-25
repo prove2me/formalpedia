@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_isInvariant_ker
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.isInvariant_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:16:11.200312+00:00
 -- url     : https://prove2.me/theorems/adde4fb1-660d-48fe-9c73-433729fe7d78

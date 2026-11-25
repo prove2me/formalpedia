@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MonoDeg_card_eq_card_finsuppAntidiag
 -- name    : GlobalTheory.MonoDeg.card_eq_card_finsuppAntidiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:12.919809+00:00
 -- url     : https://prove2.me/theorems/eb1fd6a5-9fb6-4569-b811-510ebe21fcba

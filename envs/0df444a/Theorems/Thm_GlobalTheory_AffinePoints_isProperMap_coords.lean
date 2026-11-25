@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_isProperMap_coords
 -- name    : GlobalTheory.AffinePoints.isProperMap_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:56:13.190645+00:00
 -- url     : https://prove2.me/theorems/acb276ad-c033-47a5-b084-d3c4aa80fcb4

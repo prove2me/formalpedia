@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_ratPrimeBelow_sq_le
 -- name    : ReciprocityTheory.Neutral.Bridge.ratPrimeBelow_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:04:56.899724+00:00
 -- url     : https://prove2.me/theorems/e725dec0-da82-5495-9246-cd91b6cfd26f

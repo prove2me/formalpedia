@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_avgF_mem
 -- name    : ReciprocityTheory.PGsh.Up.avgF_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:09:42.195746+00:00
 -- url     : https://prove2.me/theorems/1978900c-9e28-4fd2-8727-8f74a425173f

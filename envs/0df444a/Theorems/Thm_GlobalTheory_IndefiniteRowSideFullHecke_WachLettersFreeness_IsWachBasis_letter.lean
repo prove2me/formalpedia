@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_WachLettersFreeness_IsWachBasis_letter
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.WachLettersFreeness.IsWachBasis.letter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:22.159614+00:00
 -- url     : https://prove2.me/theorems/efd9da29-fe1e-4a84-a0e0-ee3b5ff876d8

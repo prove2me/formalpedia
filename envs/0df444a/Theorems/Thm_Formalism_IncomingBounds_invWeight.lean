@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_invWeight
 -- name    : Formalism.IncomingBounds.invWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:05.521421+00:00
 -- url     : https://prove2.me/theorems/2e82f807-9c99-5f8e-ae65-1d5f24cef91e

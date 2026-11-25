@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LogVandermondeBounds_TaylorLogMetric_key_ineq
 -- name    : Formalism.LogVandermondeBounds.TaylorLogMetric.key_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:49:32.505835+00:00
 -- url     : https://prove2.me/theorems/df0f7fec-d1be-4fb5-9f46-76fa970efd9a

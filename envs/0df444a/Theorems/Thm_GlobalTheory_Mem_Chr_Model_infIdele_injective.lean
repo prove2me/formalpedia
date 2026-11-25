@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_Model_infIdele_injective
 -- name    : GlobalTheory.Mem.Chr.Model.infIdele_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:02.734302+00:00
 -- url     : https://prove2.me/theorems/e8037210-77eb-54c4-b380-67f22d5cc63a

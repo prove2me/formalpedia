@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Harm_casimir_value_mixedWeight
 -- name    : GlobalTheory.Harm.casimir_value_mixedWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:26.852507+00:00
 -- url     : https://prove2.me/theorems/9127efe8-de65-4113-8986-b287e89a0818

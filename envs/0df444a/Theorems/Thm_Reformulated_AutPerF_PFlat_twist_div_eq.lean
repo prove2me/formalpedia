@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_PFlat_twist_div_eq
 -- name    : Reformulated.AutPerF.PFlat.twist_div_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:10:08.496393+00:00
 -- url     : https://prove2.me/theorems/4f014a0d-4761-5f3f-b4bb-8dbda19df319

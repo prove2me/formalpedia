@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rootPushforwardDensity
 -- name    : Formalism.FourierDecayAlt.P.rootPushforwardDensity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:54.774194+00:00
 -- url     : https://prove2.me/theorems/cf94d072-375c-4379-bba7-95528dcc664b

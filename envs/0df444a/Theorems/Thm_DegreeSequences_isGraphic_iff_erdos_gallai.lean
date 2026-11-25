@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_isGraphic_iff_erdos_gallai
 -- name    : DegreeSequences.isGraphic_iff_erdos_gallai
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:37:23.240408+00:00
 -- url     : https://prove2.me/theorems/6e618c87-c7b5-43b7-ae95-e2acaf758c9e

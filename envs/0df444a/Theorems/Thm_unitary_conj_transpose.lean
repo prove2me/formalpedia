@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_unitary_conj_transpose
 -- name    : unitary_conj_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:16:28.215845+00:00
 -- url     : https://prove2.me/theorems/da5784e8-5fa1-5806-8a0b-327ef6205945

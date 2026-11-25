@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_root_set_group
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.root_set_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:49:49.297528+00:00
 -- url     : https://prove2.me/theorems/54c352e7-8ac3-5437-a869-3b722bf99deb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rule_A2_derivatives
 -- name    : Formalism.FourierDecayAlt.P.rule_A2_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:36:28.686156+00:00
 -- url     : https://prove2.me/theorems/68b01e70-549a-4433-bdd9-7580fffc69cb

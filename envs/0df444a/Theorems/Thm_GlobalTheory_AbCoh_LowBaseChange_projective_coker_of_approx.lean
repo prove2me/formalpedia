@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_LowBaseChange_projective_coker_of_approx
 -- name    : GlobalTheory.AbCoh.LowBaseChange.projective_coker_of_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:50:40.332693+00:00
 -- url     : https://prove2.me/theorems/90a1c2cc-3726-45da-aa1b-ee3b4fe3a4bc

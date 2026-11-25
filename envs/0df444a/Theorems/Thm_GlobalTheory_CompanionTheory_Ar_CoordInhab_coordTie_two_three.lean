@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CoordInhab_coordTie_two_three
 -- name    : GlobalTheory.CompanionTheory.Ar.CoordInhab.coordTie_two_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:31.956747+00:00
 -- url     : https://prove2.me/theorems/e474bb50-308f-5097-bc8d-8f4013558b3b

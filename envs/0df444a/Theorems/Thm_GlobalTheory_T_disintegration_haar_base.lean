@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_disintegration_haar_base
 -- name    : GlobalTheory.T.disintegration_haar_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:37.117541+00:00
 -- url     : https://prove2.me/theorems/60208aef-e8e9-4ac3-ade2-b4bca9781adc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_length_sum_height_one_disjoint_divisors
 -- name    : GlobalTheory.T.length_sum_height_one_disjoint_divisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:35:26.48165+00:00
 -- url     : https://prove2.me/theorems/31246a6a-a890-4b4e-b4a8-18f7a4830916

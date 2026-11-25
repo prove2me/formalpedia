@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_span_image_ker
 -- name    : GlobalTheory.GaloisDescent.span_image_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:43.376287+00:00
 -- url     : https://prove2.me/theorems/8cf33291-5892-4593-b66d-40b17063ea37

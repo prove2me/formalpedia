@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_fibreG_unique
 -- name    : ReciprocityTheory.PGsh.BX.fibreG_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:05:37.855828+00:00
 -- url     : https://prove2.me/theorems/603128d4-0d03-5a92-be09-31f29a522d18

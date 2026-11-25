@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_truncMat_map
 -- name    : GlobalTheory.FlagPts.truncMat_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:06.892818+00:00
 -- url     : https://prove2.me/theorems/011d76db-f461-46a3-a764-083f638ee665

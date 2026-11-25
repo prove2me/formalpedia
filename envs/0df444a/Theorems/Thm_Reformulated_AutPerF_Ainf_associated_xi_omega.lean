@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_associated_xi_omega
 -- name    : Reformulated.AutPerF.Ainf.associated_xi_omega
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:22:22.175796+00:00
 -- url     : https://prove2.me/theorems/183f70aa-ad01-4c67-84da-b9b1ad8ffe96

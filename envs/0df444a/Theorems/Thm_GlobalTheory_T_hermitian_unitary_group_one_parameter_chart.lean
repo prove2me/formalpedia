@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_unitary_group_one_parameter_chart
 -- name    : GlobalTheory.T.hermitian_unitary_group_one_parameter_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:15.96626+00:00
 -- url     : https://prove2.me/theorems/460e269e-a954-5a1f-9177-bddf51117a7f

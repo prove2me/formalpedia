@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_latDeg_L_nonneg
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.latDeg_L_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:12.874737+00:00
 -- url     : https://prove2.me/theorems/12d83616-73c0-432c-ad2e-9e93552eac78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_dig_add
 -- name    : Formalism.HC.Frame.dig_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:08.222421+00:00
 -- url     : https://prove2.me/theorems/6feed890-4d75-4845-a152-f16493f8f695

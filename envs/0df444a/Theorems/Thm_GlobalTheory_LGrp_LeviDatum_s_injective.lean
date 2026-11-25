@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_LeviDatum_s_injective
 -- name    : GlobalTheory.LGrp.LeviDatum.s_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:13:39.521141+00:00
 -- url     : https://prove2.me/theorems/ebaf3429-ad44-4d82-be98-a3dbcc9b8306

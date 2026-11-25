@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_wpRegInv_of
 -- name    : Formalism.L2.Th1.A.wpRegInv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:48:18.620977+00:00
 -- url     : https://prove2.me/theorems/3efa0e13-dd51-4bc7-9134-9928904fe632

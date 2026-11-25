@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_lemmaMNumerics
 -- name    : Formalism.IncomingBounds.lemmaMNumerics
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:42:23.776155+00:00
 -- url     : https://prove2.me/theorems/f40414b0-c5de-4aa5-a6ed-57c90b6fcc04

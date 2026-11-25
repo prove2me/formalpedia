@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_heightBound6
 -- name    : Formalism.DimensionVariation.heightBound6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:25:58.75291+00:00
 -- url     : https://prove2.me/theorems/3ed059e3-734e-47a4-af79-eddf2e75d660

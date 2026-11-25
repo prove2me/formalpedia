@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_chain_eventually_weak_l
 -- name    : Formalism.LFunctionChainParameters.LChain.chain_eventually_weak_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:21.24041+00:00
 -- url     : https://prove2.me/theorems/c32e789e-fa54-4beb-aced-5d76264a9551

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_defAt_transport
 -- name    : GlobalTheory.SS.StrictGrp.defAt_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:17:24.51012+00:00
 -- url     : https://prove2.me/theorems/110345a0-073c-4a7e-994a-7760974dda8c

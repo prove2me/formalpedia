@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelDimFibCrit_trdeg_residueFieldMap_openImmersion_square
 -- name    : GlobalTheory.RelDimFibCrit.trdeg_residueFieldMap_openImmersion_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:19:51.361198+00:00
 -- url     : https://prove2.me/theorems/f9425795-cfbb-5ee5-849c-a471e8b4a490

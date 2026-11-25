@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_expSumLe
 -- name    : Formalism.HermitianLatticeCounting.P.expSumLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:38:52.287905+00:00
 -- url     : https://prove2.me/theorems/e2c0df06-1c30-4751-9efa-a3f4289f0c0b

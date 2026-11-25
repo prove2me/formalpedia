@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_primDensityInert
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.primDensityInert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:52.855244+00:00
 -- url     : https://prove2.me/theorems/236a58bf-57f1-41bf-916f-db0faea3ef91

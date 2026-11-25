@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_mem_map_of_smul_eq_zero_of_flat
 -- name    : GlobalTheory.AbCoh.mem_map_of_smul_eq_zero_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:52:29.194664+00:00
 -- url     : https://prove2.me/theorems/0b3c023a-554d-47df-b695-d6cdbaa7954d

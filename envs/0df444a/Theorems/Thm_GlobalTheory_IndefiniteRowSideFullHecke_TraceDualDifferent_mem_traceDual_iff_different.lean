@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TraceDualDifferent_mem_traceDual_iff_different
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TraceDualDifferent.mem_traceDual_iff_different
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:10:29.885176+00:00
 -- url     : https://prove2.me/theorems/41a8d73a-9351-427e-9b7f-71058730c399

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G2_maxTwistDegree_X_mul_of_not_mem
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G2.maxTwistDegree_X_mul_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:20.096326+00:00
 -- url     : https://prove2.me/theorems/da7968f7-1490-4bcd-b8ce-e9ed9b324499

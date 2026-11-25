@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integers_bounded_archimedean_count
 -- name    : GlobalTheory.T.integers_bounded_archimedean_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:33:55.641333+00:00
 -- url     : https://prove2.me/theorems/f4204220-6574-427c-b8fd-336533af2146

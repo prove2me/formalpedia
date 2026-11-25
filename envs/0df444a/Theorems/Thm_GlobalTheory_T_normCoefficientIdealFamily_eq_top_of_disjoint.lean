@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_normCoefficientIdealFamily_eq_top_of_disjoint
 -- name    : GlobalTheory.T.normCoefficientIdealFamily_eq_top_of_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:36:23.845411+00:00
 -- url     : https://prove2.me/theorems/b92cdbc5-93e0-4a4e-96dd-8308850f2430

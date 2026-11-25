@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_unitVac_iff_ip
 -- name    : GlobalTheory.CompanionTheory.FinHeis.unitVac_iff_ip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:15.405803+00:00
 -- url     : https://prove2.me/theorems/5c2ca2cb-4692-490a-b79e-6fa98fa9646c

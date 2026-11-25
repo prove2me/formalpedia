@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ListSumSplittings_polyClass_of_isPolyDeg
 -- name    : Formalism.FourierDecayAlt.P.ListSumSplittings.polyClass_of_isPolyDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:27:04.585953+00:00
 -- url     : https://prove2.me/theorems/49971265-23f9-5655-9d65-a6adc39d546b

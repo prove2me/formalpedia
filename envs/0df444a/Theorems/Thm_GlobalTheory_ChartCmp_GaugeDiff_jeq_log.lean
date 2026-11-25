@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_GaugeDiff_jeq_log
 -- name    : GlobalTheory.ChartCmp.GaugeDiff.jeq_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:37:44.585946+00:00
 -- url     : https://prove2.me/theorems/bfc36ac2-8ae7-4af6-a5a0-2997091fb6ea

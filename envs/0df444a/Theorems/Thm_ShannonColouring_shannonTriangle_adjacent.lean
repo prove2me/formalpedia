@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_shannonTriangle_adjacent
 -- name    : ShannonColouring.shannonTriangle_adjacent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:51:37.423542+00:00
 -- url     : https://prove2.me/theorems/16457483-b899-4d47-9810-d3ce89baada9

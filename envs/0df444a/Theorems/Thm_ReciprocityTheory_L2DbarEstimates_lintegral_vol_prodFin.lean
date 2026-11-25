@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_lintegral_vol_prodFin
 -- name    : ReciprocityTheory.L2DbarEstimates.lintegral_vol_prodFin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:32:53.029671+00:00
 -- url     : https://prove2.me/theorems/5ce0872e-e445-47d9-8706-ed1c3965b31e

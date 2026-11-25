@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_flatLineDegree6
 -- name    : Formalism.DimensionVariation.flatLineDegree6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:25:43.088115+00:00
 -- url     : https://prove2.me/theorems/e5eab838-fcc5-4014-b9a8-b89d2366710b

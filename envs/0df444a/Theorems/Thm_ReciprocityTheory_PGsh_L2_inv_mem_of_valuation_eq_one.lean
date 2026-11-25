@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_inv_mem_of_valuation_eq_one
 -- name    : ReciprocityTheory.PGsh.L2.inv_mem_of_valuation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:05:24.565318+00:00
 -- url     : https://prove2.me/theorems/405cdf68-239e-5e88-a41d-daa4287c84ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_PC_levelafC_nat
 -- name    : Formalism.L2.Geo.Def.PC.levelafC_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:48:48.232965+00:00
 -- url     : https://prove2.me/theorems/4a08cc70-15b2-5449-909e-5c2c9c99f730

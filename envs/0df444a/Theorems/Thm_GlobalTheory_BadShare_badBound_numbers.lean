@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_badBound_numbers
 -- name    : GlobalTheory.BadShare.badBound_numbers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:57:00.606324+00:00
 -- url     : https://prove2.me/theorems/237721f3-fdcb-4cf6-915a-04dbd79331e1

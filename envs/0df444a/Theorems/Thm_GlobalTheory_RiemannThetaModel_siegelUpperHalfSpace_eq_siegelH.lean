@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_siegelUpperHalfSpace_eq_siegelH
 -- name    : GlobalTheory.RiemannThetaModel.siegelUpperHalfSpace_eq_siegelH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:10.963588+00:00
 -- url     : https://prove2.me/theorems/910a88b1-5b4c-5a7b-a37d-6da61623d6b7

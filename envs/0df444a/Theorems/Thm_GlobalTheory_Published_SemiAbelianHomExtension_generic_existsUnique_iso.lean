@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_generic_existsUnique_iso
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.generic_existsUnique_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:17:19.372192+00:00
 -- url     : https://prove2.me/theorems/649ff90f-3fe9-4399-8ece-3fd19fd4e43a

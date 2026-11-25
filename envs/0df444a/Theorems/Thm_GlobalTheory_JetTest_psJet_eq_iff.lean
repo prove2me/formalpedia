@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetTest_psJet_eq_iff
 -- name    : GlobalTheory.JetTest.psJet_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:11:55.810164+00:00
 -- url     : https://prove2.me/theorems/c457f5fd-9ae9-40f2-8610-3faf61f9d967

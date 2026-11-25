@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_meet_over_hypersurface_of_germ
 -- name    : GlobalTheory.T.meet_over_hypersurface_of_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:35:25.615472+00:00
 -- url     : https://prove2.me/theorems/8d067dda-5147-432c-9b2e-86ee5c5bdff9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_generator_minpoly_eigenvalue_compat
 -- name    : GlobalTheory.T.generator_minpoly_eigenvalue_compat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:33:43.368536+00:00
 -- url     : https://prove2.me/theorems/7b5b502d-ce27-47fd-a3b0-d873256eda07

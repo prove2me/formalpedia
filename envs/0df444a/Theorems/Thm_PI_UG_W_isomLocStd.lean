@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UG_W_isomLocStd
 -- name    : PI.UG.W.isomLocStd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:58.29683+00:00
 -- url     : https://prove2.me/theorems/4e7bc0cb-ca37-46aa-9536-da91cf0c833c

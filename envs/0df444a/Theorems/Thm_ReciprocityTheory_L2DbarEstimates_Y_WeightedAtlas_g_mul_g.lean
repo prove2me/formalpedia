@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_g_mul_g
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.g_mul_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:00:34.929901+00:00
 -- url     : https://prove2.me/theorems/272735bf-e330-4b26-aa74-fa8b2e74995d

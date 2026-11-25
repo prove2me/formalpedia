@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_mean_height_sum_bound
 -- name    : Formalism.ExtensionFiltration.mean_height_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:26:07.134801+00:00
 -- url     : https://prove2.me/theorems/2d58726c-f3d5-5941-a0e5-6dc45b5f111a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FrTanAlg_global_basis
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FrTanAlg.global_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:51:01.984143+00:00
 -- url     : https://prove2.me/theorems/9c57e6c0-ef14-4a0e-9c54-996537d388c7

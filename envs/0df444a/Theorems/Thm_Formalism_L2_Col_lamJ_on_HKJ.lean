@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lamJ_on_HKJ
 -- name    : Formalism.L2.Col.lamJ_on_HKJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:13.648553+00:00
 -- url     : https://prove2.me/theorems/119886f0-1bd3-592e-b242-ff7cb2d2e774

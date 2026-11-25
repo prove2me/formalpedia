@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Shintani_denseRange_realEmbeddings
 -- name    : GlobalTheory.Shintani.denseRange_realEmbeddings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:23:03.687412+00:00
 -- url     : https://prove2.me/theorems/721c5e18-7f78-4f71-9a76-1b6a79373cb3

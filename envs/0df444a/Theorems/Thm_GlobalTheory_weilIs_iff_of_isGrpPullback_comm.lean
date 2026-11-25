@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weilIs_iff_of_isGrpPullback_comm
 -- name    : GlobalTheory.weilIs_iff_of_isGrpPullback_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:17:40.907499+00:00
 -- url     : https://prove2.me/theorems/ebded7a3-d4de-4b72-aca1-fd74e4d6d8bd

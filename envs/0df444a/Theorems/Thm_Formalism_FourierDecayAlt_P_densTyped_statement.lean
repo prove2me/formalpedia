@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_densTyped_statement
 -- name    : Formalism.FourierDecayAlt.P.densTyped_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:15.822353+00:00
 -- url     : https://prove2.me/theorems/db6acc4b-79da-4b45-ac69-f002dc1eaad1

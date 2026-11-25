@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_Final_HeckeBasis
 -- name    : Formalism.UG.Final.HeckeBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:31.48641+00:00
 -- url     : https://prove2.me/theorems/2512f7fd-ddc4-503c-b855-db1c5b1d046a

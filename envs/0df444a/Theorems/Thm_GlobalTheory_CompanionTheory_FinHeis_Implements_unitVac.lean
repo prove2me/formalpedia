@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Implements_unitVac
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Implements.unitVac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:00:30.385093+00:00
 -- url     : https://prove2.me/theorems/bc7c9f0f-857f-5793-b066-dfc27775b677

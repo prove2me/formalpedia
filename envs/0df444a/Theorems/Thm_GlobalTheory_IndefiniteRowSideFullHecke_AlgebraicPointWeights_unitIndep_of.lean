@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AlgebraicPointWeights_unitIndep_of
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AlgebraicPointWeights.unitIndep_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:29.968885+00:00
 -- url     : https://prove2.me/theorems/ce6fe7b8-23ce-5b6b-be8e-130a8684aab4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostAx_not_dvd_muW_of_unramified
 -- name    : UpperTheory.HF.Formalism.HC.HostAx.not_dvd_muW_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:20:39.505117+00:00
 -- url     : https://prove2.me/theorems/eb985cd5-f153-54cb-9321-a0ff79f0524c

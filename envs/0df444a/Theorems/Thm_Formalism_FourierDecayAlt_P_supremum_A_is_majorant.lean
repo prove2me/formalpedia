@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_supremum_A_is_majorant
 -- name    : Formalism.FourierDecayAlt.P.supremum_A_is_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:35:08.165168+00:00
 -- url     : https://prove2.me/theorems/fc99792b-3136-4d87-8866-3f824766f760

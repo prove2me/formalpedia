@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Reg_ker_le_chart
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Reg.ker_le_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:31:30.94838+00:00
 -- url     : https://prove2.me/theorems/7aea9eab-bc81-5793-a3ec-941b5cb12fa3

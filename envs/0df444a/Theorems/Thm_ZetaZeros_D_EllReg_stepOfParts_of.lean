@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_stepOfParts_of
 -- name    : ZetaZeros.D.EllReg.stepOfParts_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:16:39.915802+00:00
 -- url     : https://prove2.me/theorems/d7df74d2-a1b6-45ee-b9dc-5400376fde7a

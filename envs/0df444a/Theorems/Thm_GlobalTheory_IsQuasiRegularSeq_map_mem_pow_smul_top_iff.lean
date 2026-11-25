@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_map_mem_pow_smul_top_iff
 -- name    : GlobalTheory.IsQuasiRegularSeq.map_mem_pow_smul_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:39.190541+00:00
 -- url     : https://prove2.me/theorems/032e0a22-e25c-4ec7-86ca-954890ffa412

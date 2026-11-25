@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_integrable_of_summable_quotient_periodic
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.integrable_of_summable_quotient_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:53.70915+00:00
 -- url     : https://prove2.me/theorems/74f30229-825b-4f9d-b882-2abb4b192d1b

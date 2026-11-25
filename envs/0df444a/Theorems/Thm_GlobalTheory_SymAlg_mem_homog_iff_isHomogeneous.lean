@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymAlg_mem_homog_iff_isHomogeneous
 -- name    : GlobalTheory.SymAlg.mem_homog_iff_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:24:54.063475+00:00
 -- url     : https://prove2.me/theorems/5f37e6f3-e544-5153-8d49-dcb4682ed36f

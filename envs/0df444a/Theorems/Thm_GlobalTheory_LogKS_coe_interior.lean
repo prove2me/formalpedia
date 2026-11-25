@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogKS_coe_interior
 -- name    : GlobalTheory.LogKS.coe_interior
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:20:00.214816+00:00
 -- url     : https://prove2.me/theorems/92851d3d-ab03-5b27-819a-e5f522ce2901

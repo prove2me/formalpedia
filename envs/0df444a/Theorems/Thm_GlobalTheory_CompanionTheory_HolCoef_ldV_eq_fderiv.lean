@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HolCoef_ldV_eq_fderiv
 -- name    : GlobalTheory.CompanionTheory.HolCoef.ldV_eq_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:19.21243+00:00
 -- url     : https://prove2.me/theorems/84300b96-5a90-5a90-857d-8a466eac7675

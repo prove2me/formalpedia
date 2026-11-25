@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_wittBasis_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.wittBasis_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:37.544694+00:00
 -- url     : https://prove2.me/theorems/602550b2-efa8-5e6f-a1ea-5962544780b3

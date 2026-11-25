@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_om_sq_le
 -- name    : ZetaZeros.D.EllReg.om_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:14:21.417019+00:00
 -- url     : https://prove2.me/theorems/716c6df5-b01b-4c89-8f28-71c0aab7fe6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_joint_sat
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.joint_sat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:59:28.30809+00:00
 -- url     : https://prove2.me/theorems/a7309c02-7bdd-4c38-9319-dae591669967

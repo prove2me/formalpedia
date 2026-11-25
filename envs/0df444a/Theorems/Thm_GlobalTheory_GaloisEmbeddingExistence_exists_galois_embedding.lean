@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisEmbeddingExistence_exists_galois_embedding
 -- name    : GlobalTheory.GaloisEmbeddingExistence.exists_galois_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:44.598849+00:00
 -- url     : https://prove2.me/theorems/9969c58c-11ea-5cb2-9dbe-f6ed3300a6a7

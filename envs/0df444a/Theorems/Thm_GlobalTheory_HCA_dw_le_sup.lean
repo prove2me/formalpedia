@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_dw_le_sup
 -- name    : GlobalTheory.HCA.dw_le_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:59:48.917597+00:00
 -- url     : https://prove2.me/theorems/34b91d3c-fc01-45e4-81fc-0c426a766bc1

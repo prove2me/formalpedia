@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchrodingerSchwartzBruhat_GlobalTheory_CompanionTheory_SchrSB_schr_mem_SB
 -- name    : SchrodingerSchwartzBruhat.GlobalTheory.CompanionTheory.SchrSB.schr_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:11:11.706699+00:00
 -- url     : https://prove2.me/theorems/fcf26231-2c6c-4c87-8e8a-cce15ce4dea2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_LHom_nilSurj_of_sqZero
 -- name    : ReciprocityTheory.PGsh.LHom.nilSurj_of_sqZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:05:44.126355+00:00
 -- url     : https://prove2.me/theorems/a7b04e7b-7d3c-4c35-90cf-f8f90c8bd3eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_isoComplement
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.isoComplement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:37:04.121528+00:00
 -- url     : https://prove2.me/theorems/8c4af6f5-b932-4da1-b82c-a574d2403f5d

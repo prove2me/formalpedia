@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_prod_emb_inv
 -- name    : UpperTheory.Mu.prod_emb_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:02:31.991341+00:00
 -- url     : https://prove2.me/theorems/d3e29c51-e3ab-535c-8aea-f27ca906a1f9

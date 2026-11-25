@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_adjoin_lattice_image_eq
 -- name    : GlobalTheory.T.exists_unitary_adjoin_lattice_image_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:39:24.225848+00:00
 -- url     : https://prove2.me/theorems/611c0ad8-c6c1-4d7a-9ba2-0d2ec8f6d84e

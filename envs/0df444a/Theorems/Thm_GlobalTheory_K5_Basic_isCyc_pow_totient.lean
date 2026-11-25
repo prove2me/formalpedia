@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_isCyc_pow_totient
 -- name    : GlobalTheory.K5.Basic.isCyc_pow_totient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:12:01.389502+00:00
 -- url     : https://prove2.me/theorems/52ab567c-f36a-4860-b22d-37b5d7682f8f

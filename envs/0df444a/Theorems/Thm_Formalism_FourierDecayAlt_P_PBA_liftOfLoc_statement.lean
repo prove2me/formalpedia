@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBA_liftOfLoc_statement
 -- name    : Formalism.FourierDecayAlt.P.PBA.liftOfLoc_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:30:25.72301+00:00
 -- url     : https://prove2.me/theorems/8139c998-9416-4a56-a1da-866b625e5b19

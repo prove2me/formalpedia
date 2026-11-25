@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeChartRow_hodgeChartBounds_of_schur_lemW
 -- name    : GlobalTheory.HodgeChartRow.hodgeChartBounds_of_schur_lemW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:07:51.361729+00:00
 -- url     : https://prove2.me/theorems/407c11f7-1958-5ccc-bc02-02b36475e995

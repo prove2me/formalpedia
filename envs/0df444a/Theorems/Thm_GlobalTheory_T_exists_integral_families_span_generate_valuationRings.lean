@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_families_span_generate_valuationRings
 -- name    : GlobalTheory.T.exists_integral_families_span_generate_valuationRings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:02:09.603548+00:00
 -- url     : https://prove2.me/theorems/880663e9-36d6-50cf-9957-49bbb0a845e7

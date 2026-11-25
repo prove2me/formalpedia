@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_hostSplitK
 -- name    : Formalism.HC.HostAx.hostSplitK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:44:32.316321+00:00
 -- url     : https://prove2.me/theorems/d12d86c8-b3a6-5263-a501-3c42ebd32fbb

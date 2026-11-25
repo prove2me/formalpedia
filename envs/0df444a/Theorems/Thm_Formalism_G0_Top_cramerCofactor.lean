@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_cramerCofactor
 -- name    : Formalism.G0.Top.cramerCofactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:40:10.886015+00:00
 -- url     : https://prove2.me/theorems/8f45e32c-63d9-4bfd-a243-49f37346b7e9

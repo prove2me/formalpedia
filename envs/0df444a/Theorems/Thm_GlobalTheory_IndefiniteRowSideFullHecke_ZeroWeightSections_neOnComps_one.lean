@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ZeroWeightSections_neOnComps_one
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ZeroWeightSections.neOnComps_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:40.304306+00:00
 -- url     : https://prove2.me/theorems/87b8f193-72a1-483b-8c46-e32c8d8898b7

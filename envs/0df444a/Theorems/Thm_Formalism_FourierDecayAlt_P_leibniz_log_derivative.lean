@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_leibniz_log_derivative
 -- name    : Formalism.FourierDecayAlt.P.leibniz_log_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:17.966818+00:00
 -- url     : https://prove2.me/theorems/94d7cd2e-024f-58fa-a5f9-be235078cc3f

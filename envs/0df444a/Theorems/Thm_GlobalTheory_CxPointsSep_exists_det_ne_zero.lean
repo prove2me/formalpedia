@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CxPointsSep_exists_det_ne_zero
 -- name    : GlobalTheory.CxPointsSep.exists_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:03:15.036504+00:00
 -- url     : https://prove2.me/theorems/6a3de0a9-80fc-5650-942d-784928a2022e

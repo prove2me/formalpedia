@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_proof_of_framePlaneGraph_9186241062c3
 -- name    : P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_proof_of_framePlaneGraph_9186241062c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:44:28.920205+00:00
 -- url     : https://prove2.me/theorems/e285990d-1324-4a88-aa45-f87d57e76c0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isHolTo_fibPt_and_comp_fibre
 -- name    : GlobalTheory.T.isHolTo_fibPt_and_comp_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:01:52.409951+00:00
 -- url     : https://prove2.me/theorems/c6038b70-a765-541f-904a-f379f8ceecd2

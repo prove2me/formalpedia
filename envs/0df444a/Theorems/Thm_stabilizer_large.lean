@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_stabilizer_large
 -- name    : stabilizer_large
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:10.456452+00:00
 -- url     : https://prove2.me/theorems/504ae8c6-ecd0-5385-969b-c4fa048bbca2

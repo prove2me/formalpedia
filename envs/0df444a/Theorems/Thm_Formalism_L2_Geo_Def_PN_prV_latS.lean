@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_PN_prV_latS
 -- name    : Formalism.L2.Geo.Def.PN.prV_latS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:45:16.519983+00:00
 -- url     : https://prove2.me/theorems/9f03fcf2-077d-439c-a263-ed152d29afeb

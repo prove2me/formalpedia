@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_quadratic_phase_multiplication
 -- name    : GlobalTheory.T.schwartz_quadratic_phase_multiplication
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:43:09.910642+00:00
 -- url     : https://prove2.me/theorems/ef903ad8-0575-51da-8d8c-3ae6606eba60

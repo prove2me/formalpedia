@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_approxB_det_le_of_posSemidef
 -- name    : ReciprocityTheory.MultiplicativeHeights.approxB_det_le_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:03:22.625935+00:00
 -- url     : https://prove2.me/theorems/9d198efc-956b-52d2-a70c-f90254fbb711

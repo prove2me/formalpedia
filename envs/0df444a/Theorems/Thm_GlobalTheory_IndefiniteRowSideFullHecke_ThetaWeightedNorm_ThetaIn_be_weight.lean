@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ThetaWeightedNorm_ThetaIn_be_weight
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ThetaWeightedNorm.ThetaIn.be_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:09:46.408445+00:00
 -- url     : https://prove2.me/theorems/e6400e42-1d10-54d3-909f-011cdebae4bb

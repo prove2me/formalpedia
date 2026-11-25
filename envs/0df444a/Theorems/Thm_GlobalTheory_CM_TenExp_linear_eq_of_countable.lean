@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CM_TenExp_linear_eq_of_countable
 -- name    : GlobalTheory.CM.TenExp.linear_eq_of_countable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:49.392441+00:00
 -- url     : https://prove2.me/theorems/817b8d08-ea79-545b-96b6-e97324bf7c5d

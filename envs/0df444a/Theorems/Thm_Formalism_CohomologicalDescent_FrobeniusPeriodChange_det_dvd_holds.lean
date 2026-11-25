@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_det_dvd_holds
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.det_dvd_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:21:17.755559+00:00
 -- url     : https://prove2.me/theorems/c360e920-1531-5595-a1e8-91765b17f3db

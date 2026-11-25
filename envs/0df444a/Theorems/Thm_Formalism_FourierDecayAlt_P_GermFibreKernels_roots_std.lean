@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GermFibreKernels_roots_std
 -- name    : Formalism.FourierDecayAlt.P.GermFibreKernels.roots_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:26:49.666919+00:00
 -- url     : https://prove2.me/theorems/25e04ea5-19f6-5db6-bafe-ab6285defb47

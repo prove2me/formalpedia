@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_isExtension_famPull
 -- name    : GlobalTheory.FieldBaseChange.isExtension_famPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:35:16.520573+00:00
 -- url     : https://prove2.me/theorems/9e6e4fde-becb-41c2-ba23-a61ed75137d0

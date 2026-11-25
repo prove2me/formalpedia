@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_multiset_words_mul_factorial
 -- name    : GlobalTheory.T.card_multiset_words_mul_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:21.838693+00:00
 -- url     : https://prove2.me/theorems/6935dee1-4a4a-5372-b8e1-2deea972e3ca

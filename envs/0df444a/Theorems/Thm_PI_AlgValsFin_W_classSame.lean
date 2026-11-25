@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_classSame
 -- name    : PI.AlgValsFin.W.classSame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:23:04.521621+00:00
 -- url     : https://prove2.me/theorems/48b79ec4-164f-4013-a2cc-043300dcb9ec

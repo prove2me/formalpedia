@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaEigenvalues_exists_isActC
 -- name    : GlobalTheory.InertiaEigenvalues.exists_isActC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:10:31.87787+00:00
 -- url     : https://prove2.me/theorems/bd18152e-1a53-4f79-96c1-41b23333512e

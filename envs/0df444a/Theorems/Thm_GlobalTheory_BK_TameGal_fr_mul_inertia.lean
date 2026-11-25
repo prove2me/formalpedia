@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_TameGal_fr_mul_inertia
 -- name    : GlobalTheory.BK.TameGal.fr_mul_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:56:26.263185+00:00
 -- url     : https://prove2.me/theorems/97960d14-d242-4ac1-8e76-a5909fcdc0e0

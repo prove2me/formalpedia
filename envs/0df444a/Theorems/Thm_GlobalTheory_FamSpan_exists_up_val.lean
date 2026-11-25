@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamSpan_exists_up_val
 -- name    : GlobalTheory.FamSpan.exists_up_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:30:03.607889+00:00
 -- url     : https://prove2.me/theorems/ef01d594-d74e-41f5-a1b6-e07ccb76a0a2

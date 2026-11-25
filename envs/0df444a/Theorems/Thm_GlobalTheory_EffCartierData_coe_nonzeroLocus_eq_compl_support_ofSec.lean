@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_coe_nonzeroLocus_eq_compl_support_ofSec
 -- name    : GlobalTheory.EffCartierData.coe_nonzeroLocus_eq_compl_support_ofSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:20:56.816705+00:00
 -- url     : https://prove2.me/theorems/b8ae0480-c52b-492b-8339-55f9e96c8b12

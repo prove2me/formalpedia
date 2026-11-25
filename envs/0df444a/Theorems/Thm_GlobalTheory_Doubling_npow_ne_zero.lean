@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_npow_ne_zero
 -- name    : GlobalTheory.Doubling.npow_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:21.095347+00:00
 -- url     : https://prove2.me/theorems/d52b9f07-cc92-45ff-86be-215329f5ee48

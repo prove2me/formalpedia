@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_detPoly_mul_cayleyOmega_pow
 -- name    : ReciprocityTheory.PGsh.detPoly_mul_cayleyOmega_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:10:20.803043+00:00
 -- url     : https://prove2.me/theorems/39c95247-5c37-4076-941c-f8751b38879d

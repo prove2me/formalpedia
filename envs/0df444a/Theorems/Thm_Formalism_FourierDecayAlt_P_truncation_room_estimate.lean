@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_truncation_room_estimate
 -- name    : Formalism.FourierDecayAlt.P.truncation_room_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:34:51.793798+00:00
 -- url     : https://prove2.me/theorems/d689b38e-5586-4f2f-816d-64a4e3af84af

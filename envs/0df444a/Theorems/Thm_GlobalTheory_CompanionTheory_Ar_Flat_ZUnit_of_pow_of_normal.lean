@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_ZUnit_of_pow_of_normal
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.ZUnit.of_pow_of_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:59:48.224496+00:00
 -- url     : https://prove2.me/theorems/e4232039-3075-4ea6-9d99-2a5e2f7d9ac0

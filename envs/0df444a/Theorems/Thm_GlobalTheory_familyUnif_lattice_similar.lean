@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_familyUnif_lattice_similar
 -- name    : GlobalTheory.familyUnif_lattice_similar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:14:23.986854+00:00
 -- url     : https://prove2.me/theorems/40b45568-692a-49ea-9a4e-a31250e48574

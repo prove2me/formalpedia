@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartQF_quasiFinite_of_pointRigid
 -- name    : GlobalTheory.ChartQF.quasiFinite_of_pointRigid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:11.914784+00:00
 -- url     : https://prove2.me/theorems/0187bf5b-ec4b-4f06-a2da-c9c4cce2e56c

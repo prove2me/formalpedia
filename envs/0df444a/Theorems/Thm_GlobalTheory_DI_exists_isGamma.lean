@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_exists_isGamma
 -- name    : GlobalTheory.DI.exists_isGamma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:32.995982+00:00
 -- url     : https://prove2.me/theorems/83950e93-8958-56d9-98a4-26d33b597785

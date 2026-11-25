@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_nzSome_one_iff
 -- name    : GlobalTheory.SupLawProbe.nzSome_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:25:04.926827+00:00
 -- url     : https://prove2.me/theorems/03217ed3-f46a-52be-a491-e6943f3a0ba5

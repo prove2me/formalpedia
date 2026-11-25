@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Level3_exists_D
 -- name    : Formalism.BehrendSets.Level3.exists_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:20:04.943984+00:00
 -- url     : https://prove2.me/theorems/9aff0ae3-d86e-4712-b392-b2ab9f76f426

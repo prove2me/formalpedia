@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jetEq_formalExp_iff_and_exists_log
 -- name    : GlobalTheory.T.jetEq_formalExp_iff_and_exists_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:17:04.306534+00:00
 -- url     : https://prove2.me/theorems/0b62c1e1-4ace-5973-a9ea-214dc431d624

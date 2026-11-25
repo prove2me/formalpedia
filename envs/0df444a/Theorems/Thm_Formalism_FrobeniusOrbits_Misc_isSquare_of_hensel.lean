@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Misc_isSquare_of_hensel
 -- name    : Formalism.FrobeniusOrbits.Misc.isSquare_of_hensel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:35:28.200743+00:00
 -- url     : https://prove2.me/theorems/a52c70e1-bc7f-501c-94af-e1f6f4a8e774

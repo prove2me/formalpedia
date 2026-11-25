@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_pos_small_of_orth
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.pos_small_of_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:28.230264+00:00
 -- url     : https://prove2.me/theorems/630fcdd5-717f-4476-949d-b2d4effde960

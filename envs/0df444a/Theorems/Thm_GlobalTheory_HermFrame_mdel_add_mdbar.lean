@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_mdel_add_mdbar
 -- name    : GlobalTheory.HermFrame.mdel_add_mdbar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:07:13.441977+00:00
 -- url     : https://prove2.me/theorems/a22cbe24-4847-448d-a5c0-87bf66af3b2f

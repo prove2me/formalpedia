@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_factValBounds
 -- name    : Formalism.IncomingBounds.factValBounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:31.8428+00:00
 -- url     : https://prove2.me/theorems/8720f780-b7bd-464e-a84e-cf39dfa7e35c

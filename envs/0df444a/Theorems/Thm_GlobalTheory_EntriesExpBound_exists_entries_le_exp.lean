@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EntriesExpBound_exists_entries_le_exp
 -- name    : GlobalTheory.EntriesExpBound.exists_entries_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:04:46.850896+00:00
 -- url     : https://prove2.me/theorems/426814eb-1d8d-42c8-9c6c-d029fea6388c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagVolume_lintegral_pi_inv_pow
 -- name    : GlobalTheory.FlagVolume.lintegral_pi_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:21.437812+00:00
 -- url     : https://prove2.me/theorems/d25a3955-8936-412a-a406-187eae090369

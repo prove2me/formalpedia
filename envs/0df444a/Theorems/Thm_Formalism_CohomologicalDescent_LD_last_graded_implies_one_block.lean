@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_last_graded_implies_one_block
 -- name    : Formalism.CohomologicalDescent.LD.last_graded_implies_one_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:21:41.465978+00:00
 -- url     : https://prove2.me/theorems/8a181f01-7395-57f8-a005-6dd037542f1e

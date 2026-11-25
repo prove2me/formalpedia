@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_appLE_eq_of_gm
 -- name    : GlobalTheory.IsoDesc.appLE_eq_of_gm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:01:13.916088+00:00
 -- url     : https://prove2.me/theorems/0fa7445c-37fe-5872-9091-c8c6d2e012b5

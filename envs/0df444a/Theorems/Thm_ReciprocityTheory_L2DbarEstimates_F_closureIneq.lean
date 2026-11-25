@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_closureIneq
 -- name    : ReciprocityTheory.L2DbarEstimates.F.closureIneq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:56:56.351152+00:00
 -- url     : https://prove2.me/theorems/922b0856-b2a8-42f0-b275-43e06f7a7652

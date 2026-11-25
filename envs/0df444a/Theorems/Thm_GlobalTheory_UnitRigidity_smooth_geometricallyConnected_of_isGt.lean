@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitRigidity_smooth_geometricallyConnected_of_isGt
 -- name    : GlobalTheory.UnitRigidity.smooth_geometricallyConnected_of_isGt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:17:43.015238+00:00
 -- url     : https://prove2.me/theorems/fd8f3544-9fc8-44be-8c6e-8d0c728823b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_card_unitary_levi
 -- name    : Formalism.FourierDecayAlt.P.card_unitary_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:24.509882+00:00
 -- url     : https://prove2.me/theorems/fecc7858-8e71-514c-b368-5c306ed5c03a

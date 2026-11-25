@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvFieldRing_res_constFn
 -- name    : GlobalTheory.InvFieldRing.res_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:11:47.860258+00:00
 -- url     : https://prove2.me/theorems/78f7324f-f02e-4f52-8074-f099f79a92ad

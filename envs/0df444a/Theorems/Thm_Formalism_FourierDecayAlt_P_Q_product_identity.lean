@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Q_product_identity
 -- name    : Formalism.FourierDecayAlt.P.Q_product_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:26:28.628799+00:00
 -- url     : https://prove2.me/theorems/7607271e-706c-41b7-a459-f38786730e72

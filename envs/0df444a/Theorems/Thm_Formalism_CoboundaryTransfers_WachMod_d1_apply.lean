@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_WachMod_d1_apply
 -- name    : Formalism.CoboundaryTransfers.WachMod.d1_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:20:37.891668+00:00
 -- url     : https://prove2.me/theorems/93c508e1-7bd4-5aa8-966b-877c4146aca2

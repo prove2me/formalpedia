@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_gfp_chart_iso
 -- name    : Formalism.L2.Pj.gfp_chart_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:02:51.314826+00:00
 -- url     : https://prove2.me/theorems/57f96e30-59ad-47d4-9ef7-4ed4f1752bf4

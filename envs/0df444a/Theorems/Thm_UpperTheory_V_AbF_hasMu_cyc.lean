@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_AbF_hasMu_cyc
 -- name    : UpperTheory.V.AbF.hasMu_cyc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:13:35.342299+00:00
 -- url     : https://prove2.me/theorems/a04e3a35-2252-4bd1-b8f5-08c72d95d0e9

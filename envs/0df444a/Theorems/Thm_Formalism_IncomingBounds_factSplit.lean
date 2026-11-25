@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_factSplit
 -- name    : Formalism.IncomingBounds.factSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:40:58.737078+00:00
 -- url     : https://prove2.me/theorems/d8c99be1-4d55-551c-b5c2-2e936a2c1007

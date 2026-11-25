@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_chebyshev_to_threshold
 -- name    : Formalism.FourierDecayAlt.P.chebyshev_to_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:29:48.372683+00:00
 -- url     : https://prove2.me/theorems/a3b7af68-e1b8-47e6-b81c-0daa17f794bf

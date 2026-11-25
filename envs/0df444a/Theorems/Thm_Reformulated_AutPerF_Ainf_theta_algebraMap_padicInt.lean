@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_theta_algebraMap_padicInt
 -- name    : Reformulated.AutPerF.Ainf.theta_algebraMap_padicInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:11:24.954802+00:00
 -- url     : https://prove2.me/theorems/bae26d5c-787b-4125-95ee-62d8d7cc2a38

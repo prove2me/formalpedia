@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_Et_CharpolySep_main
 -- name    : GlobalTheory.JR.Et.CharpolySep.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:11:21.415478+00:00
 -- url     : https://prove2.me/theorems/36803633-b666-532d-9cfd-9bfd09beaa37

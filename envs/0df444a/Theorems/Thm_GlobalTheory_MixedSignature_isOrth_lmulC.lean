@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_isOrth_lmulC
 -- name    : GlobalTheory.MixedSignature.isOrth_lmulC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:54:31.224865+00:00
 -- url     : https://prove2.me/theorems/373268cf-6d30-5eea-bea8-5561fcb9b8a8

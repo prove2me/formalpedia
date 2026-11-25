@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_zsmul_generator_eq_zero_of_image
 -- name    : Formalism.HC.Frame.zsmul_generator_eq_zero_of_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:36:56.224907+00:00
 -- url     : https://prove2.me/theorems/73e8cf1b-2c18-5b46-a86d-59bb00ded4eb

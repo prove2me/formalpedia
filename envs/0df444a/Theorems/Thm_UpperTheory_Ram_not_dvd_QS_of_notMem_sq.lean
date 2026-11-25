@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_not_dvd_QS_of_notMem_sq
 -- name    : UpperTheory.Ram.not_dvd_QS_of_notMem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:12:16.960808+00:00
 -- url     : https://prove2.me/theorems/32f74625-7612-5cdf-99d9-234b2517f12b

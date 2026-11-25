@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_rmRho_lip
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.rmRho_lip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:00:59.942657+00:00
 -- url     : https://prove2.me/theorems/21b0a5d4-829c-5ba7-a989-e2c69fc9340b

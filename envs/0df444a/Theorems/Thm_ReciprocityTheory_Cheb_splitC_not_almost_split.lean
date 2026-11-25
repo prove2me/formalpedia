@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitC_not_almost_split
 -- name    : ReciprocityTheory.Cheb.splitC_not_almost_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:48:10.257698+00:00
 -- url     : https://prove2.me/theorems/a80354d1-55f1-5b05-aab9-a1d4d538ddc0

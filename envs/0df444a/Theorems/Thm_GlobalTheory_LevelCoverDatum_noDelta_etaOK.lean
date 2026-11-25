@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCoverDatum_noDelta_etaOK
 -- name    : GlobalTheory.LevelCoverDatum.noDelta_etaOK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:13:41.225559+00:00
 -- url     : https://prove2.me/theorems/60c95d51-f902-502b-8eaf-23500cb2aeeb

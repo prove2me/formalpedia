@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_tr_mem
 -- name    : GlobalTheory.LevDesc.tr_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:15.576929+00:00
 -- url     : https://prove2.me/theorems/032e6df5-960e-556a-b273-301429d93c67

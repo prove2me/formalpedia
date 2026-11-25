@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_passage_quotient
 -- name    : Formalism.DivisionValues.passage_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:49.253564+00:00
 -- url     : https://prove2.me/theorems/53a98d29-0d3c-458c-be08-159faf70b7dc

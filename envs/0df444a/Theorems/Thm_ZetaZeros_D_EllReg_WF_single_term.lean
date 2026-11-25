@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WF_single_term
 -- name    : ZetaZeros.D.EllReg.WF.single_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:19.612694+00:00
 -- url     : https://prove2.me/theorems/4f6b94b3-f857-5216-b76f-62e377c6d7cb

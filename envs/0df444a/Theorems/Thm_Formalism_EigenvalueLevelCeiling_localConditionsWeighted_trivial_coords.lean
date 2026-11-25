@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_localConditionsWeighted_trivial_coords
 -- name    : Formalism.EigenvalueLevelCeiling.localConditionsWeighted_trivial_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:56.304497+00:00
 -- url     : https://prove2.me/theorems/5a44769e-305d-539e-bc58-2c42914b4fdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_nefOnFibres_iff_nefAt
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.nefOnFibres_iff_nefAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:46.313106+00:00
 -- url     : https://prove2.me/theorems/e3134ed7-2a81-56ab-9b0a-87f46800fc7e

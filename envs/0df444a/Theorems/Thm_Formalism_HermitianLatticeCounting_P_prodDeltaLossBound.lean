@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_prodDeltaLossBound
 -- name    : Formalism.HermitianLatticeCounting.P.prodDeltaLossBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:39:36.136979+00:00
 -- url     : https://prove2.me/theorems/dde807a4-89dd-401c-b7e9-a23092922cd5

@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for Formalism.WeaklyAdmissibleFiltrations.pht_galois
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T17:45:29.730704+00:00
+-- url     : https://prove2.me/submissions/c08ea293-10f7-476d-a976-29231d72bcce
+
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_Window
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_JumpsPFilAntitoneOfLe
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_RankOne
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_ExwaFiltrationNegOneEqSpanSingle
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_Galois
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_TrivCrys
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_ExLattice
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_ExistsPeriodRingDataHolds
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_WachCol
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_LiftGal
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_NegJumps
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_DPotCrisStableAndExistsPotentiallyCrystallineDat
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_WindowCountIcoTelescope
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_PhtGalois
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_cokernelLengthEqWach_holds
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_existsPeriodRingData_holds
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_existsStableLattice_holds
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_finiteCocycles_properties
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_trivialIsCrystalline_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.WeaklyAdmissibleFiltrations
+namespace Formalism.WeaklyAdmissibleFiltrations
+theorem _root_.solution : CobF ∧ TorsFreeT ∧ CocyclesFunctorial ∧ ImFLe ∧ TrivCrys ∧ ExLattice ∧ ExPD ∧ WachCol :=
+  ⟨finiteCocycles_properties.1, finiteCocycles_properties.2.1, finiteCocycles_properties.2.2.1, finiteCocycles_properties.2.2.2, trivialIsCrystalline_holds,
+    existsStableLattice_holds, existsPeriodRingData_holds, cokernelLengthEqWach_holds⟩
+end Formalism.WeaklyAdmissibleFiltrations

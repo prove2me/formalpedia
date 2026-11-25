@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_holFdeg
 -- name    : Formalism.QuantumDeterminants.holFdeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:52:18.007188+00:00
 -- url     : https://prove2.me/theorems/944ca52e-fb50-5375-9dad-a8395ba0e584

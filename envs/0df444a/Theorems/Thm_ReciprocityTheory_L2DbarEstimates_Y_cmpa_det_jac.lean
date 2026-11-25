@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_cmpa_det_jac
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.cmpa_det_jac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:00:57.660952+00:00
 -- url     : https://prove2.me/theorems/82e8c075-72d0-4976-ba48-336294f603e4

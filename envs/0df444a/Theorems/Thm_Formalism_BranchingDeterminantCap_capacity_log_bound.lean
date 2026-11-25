@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_capacity_log_bound
 -- name    : Formalism.BranchingDeterminantCap.capacity_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:20:18.4448+00:00
 -- url     : https://prove2.me/theorems/513ccf6d-2a58-4040-87c8-0484718f6986

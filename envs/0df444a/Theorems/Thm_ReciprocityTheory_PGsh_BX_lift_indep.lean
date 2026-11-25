@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_lift_indep
 -- name    : ReciprocityTheory.PGsh.BX.lift_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:05:58.512994+00:00
 -- url     : https://prove2.me/theorems/3e770684-7a5a-5310-8dc0-7d9685ab9ca4

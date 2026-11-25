@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalModelGuards_not_goodAt_pow
 -- name    : GlobalTheory.GlobalModelGuards.not_goodAt_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:06.868376+00:00
 -- url     : https://prove2.me/theorems/a86f0322-c63c-57fe-b162-4b9a0d032314

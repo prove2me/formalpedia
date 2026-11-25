@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_aeval_surjective_of_cotangent_span_top
 -- name    : GlobalTheory.T.aeval_surjective_of_cotangent_span_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:45.605775+00:00
 -- url     : https://prove2.me/theorems/312a395a-95f5-4efa-a7a4-ea213a1e56fd

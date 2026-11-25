@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_sphereQuadraticPositivity_im_ofReal_dot
 -- name    : ReciprocityTheory.PTheta.sphereQuadraticPositivity.im_ofReal_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:18.556374+00:00
 -- url     : https://prove2.me/theorems/b77d27be-f2d3-5358-b600-6cdae26d669d

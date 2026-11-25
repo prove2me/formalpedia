@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatFun_pull_comp
 -- name    : GlobalTheory.NatFun.pull_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:40.457128+00:00
 -- url     : https://prove2.me/theorems/7e46711d-3fb0-4ab1-ab74-061b1397268c

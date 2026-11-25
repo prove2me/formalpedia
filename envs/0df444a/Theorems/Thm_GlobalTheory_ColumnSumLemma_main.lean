@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColumnSumLemma_main
 -- name    : GlobalTheory.ColumnSumLemma.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:43.964705+00:00
 -- url     : https://prove2.me/theorems/1dcde3d3-019b-585c-aff9-eabf3e9fd3be

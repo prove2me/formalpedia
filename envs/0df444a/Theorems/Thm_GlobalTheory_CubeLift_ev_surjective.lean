@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_ev_surjective
 -- name    : GlobalTheory.CubeLift.ev_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:09:45.323877+00:00
 -- url     : https://prove2.me/theorems/d5f3fe79-ee6f-529a-9ff5-9e9b34cd2c3b

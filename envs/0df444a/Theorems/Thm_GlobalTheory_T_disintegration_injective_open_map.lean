@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_disintegration_injective_open_map
 -- name    : GlobalTheory.T.disintegration_injective_open_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:27.411694+00:00
 -- url     : https://prove2.me/theorems/37d29e68-b8ef-4dd8-974a-b61ea62c8fc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_section_eq_zero_of_germ_assPoints
 -- name    : GlobalTheory.QCoh.section_eq_zero_of_germ_assPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:19:46.321797+00:00
 -- url     : https://prove2.me/theorems/107a7462-4ff0-4788-be16-c87de99cc877

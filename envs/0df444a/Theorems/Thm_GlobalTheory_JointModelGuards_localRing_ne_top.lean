@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JointModelGuards_localRing_ne_top
 -- name    : GlobalTheory.JointModelGuards.localRing_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:12:25.972564+00:00
 -- url     : https://prove2.me/theorems/abfd1c08-28b9-539c-83b0-9094a910742f

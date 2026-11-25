@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoEq_gFun_eq_eisSum
 -- name    : GlobalTheory.HeckeTwoEq.gFun_eq_eisSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:16:27.695589+00:00
 -- url     : https://prove2.me/theorems/8faac8d1-3012-4c6e-be36-dcfdc204d1fd

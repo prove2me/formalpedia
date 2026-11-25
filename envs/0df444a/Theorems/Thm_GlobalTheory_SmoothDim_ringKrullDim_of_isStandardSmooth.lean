@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothDim_ringKrullDim_of_isStandardSmooth
 -- name    : GlobalTheory.SmoothDim.ringKrullDim_of_isStandardSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:16:05.914487+00:00
 -- url     : https://prove2.me/theorems/9937f5c2-a086-46bb-80d7-7a2518eff861

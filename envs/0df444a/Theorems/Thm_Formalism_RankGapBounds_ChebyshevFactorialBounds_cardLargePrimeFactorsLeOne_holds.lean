@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RankGapBounds_ChebyshevFactorialBounds_cardLargePrimeFactorsLeOne_holds
 -- name    : Formalism.RankGapBounds.ChebyshevFactorialBounds.cardLargePrimeFactorsLeOne_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:13.648887+00:00
 -- url     : https://prove2.me/theorems/4cf8d24f-c3c3-468c-8bc9-38f13e5f85b2

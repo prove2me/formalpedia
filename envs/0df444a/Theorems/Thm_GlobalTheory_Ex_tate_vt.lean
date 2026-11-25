@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_tate_vt
 -- name    : GlobalTheory.Ex.tate_vt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:05:27.35426+00:00
 -- url     : https://prove2.me/theorems/2a041688-ce39-5aa7-bb17-54d21a0f8fe0

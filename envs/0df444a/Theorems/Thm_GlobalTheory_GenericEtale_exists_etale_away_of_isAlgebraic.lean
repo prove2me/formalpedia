@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericEtale_exists_etale_away_of_isAlgebraic
 -- name    : GlobalTheory.GenericEtale.exists_etale_away_of_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:03.657464+00:00
 -- url     : https://prove2.me/theorems/f543e15d-d939-4e5f-8206-40ff7ccf7188

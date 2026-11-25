@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_isUnitaryC_of_isUStab
 -- name    : GlobalTheory.MixedSignature.isUnitaryC_of_isUStab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:53:52.502704+00:00
 -- url     : https://prove2.me/theorems/7d716f59-ebb3-5d69-814b-a2bf7a553cef

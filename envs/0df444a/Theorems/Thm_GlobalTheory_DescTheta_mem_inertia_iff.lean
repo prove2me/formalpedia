@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescTheta_mem_inertia_iff
 -- name    : GlobalTheory.DescTheta.mem_inertia_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:32:19.655174+00:00
 -- url     : https://prove2.me/theorems/ecb42642-ddb4-52a1-9b8d-0b12f9974aff

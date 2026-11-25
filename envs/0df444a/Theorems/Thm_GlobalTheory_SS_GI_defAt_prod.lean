@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_defAt_prod
 -- name    : GlobalTheory.SS.GI.defAt_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:09.777796+00:00
 -- url     : https://prove2.me/theorems/69d20ac8-4392-5e47-9d7d-ae56e34167fc

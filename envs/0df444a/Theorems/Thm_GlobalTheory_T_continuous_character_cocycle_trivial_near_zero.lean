@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_character_cocycle_trivial_near_zero
 -- name    : GlobalTheory.T.continuous_character_cocycle_trivial_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:28:00.747857+00:00
 -- url     : https://prove2.me/theorems/c9f604d9-2ea2-4ef1-9587-e9093d6c083d

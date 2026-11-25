@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_PowVanish_first_cohomology_vanishes_powers
 -- name    : GlobalTheory.AbLaw.PowVanish.first_cohomology_vanishes_powers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:46.774101+00:00
 -- url     : https://prove2.me/theorems/e4225a77-ddbb-47ee-914d-9a0681c5a619

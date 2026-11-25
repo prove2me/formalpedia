@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_lineParUOp_p
 -- name    : GlobalTheory.LGrp.lineParUOp_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:16:17.136159+00:00
 -- url     : https://prove2.me/theorems/48c95574-3400-54e8-94fb-97970f9fe311

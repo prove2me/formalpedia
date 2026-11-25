@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_C2_scal
 -- name    : Formalism.InvariantFactorPaths.G7.C2.scal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:13.767699+00:00
 -- url     : https://prove2.me/theorems/5088c6db-c549-4593-aead-8e509506e0cc

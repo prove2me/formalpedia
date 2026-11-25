@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_act_xi
 -- name    : GlobalTheory.BK.Descent.act_xi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:56:39.574269+00:00
 -- url     : https://prove2.me/theorems/4a682a40-2d83-57a5-a783-950a1941e0ab

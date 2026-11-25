@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hypothesis_additivity
 -- name    : Formalism.HermitianLatticeCounting.P.hypothesis_additivity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:39:34.593044+00:00
 -- url     : https://prove2.me/theorems/83f05c66-818f-4132-9d0d-fd9bd6d4109a

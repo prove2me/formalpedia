@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dual_kernel_duality
 -- name    : Formalism.FourierDecayAlt.P.dual_kernel_duality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:29:16.08275+00:00
 -- url     : https://prove2.me/theorems/a0297291-9b37-5588-8918-6caf33adcd4a

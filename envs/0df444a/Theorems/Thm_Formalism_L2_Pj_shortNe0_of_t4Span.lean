@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_shortNe0_of_t4Span
 -- name    : Formalism.L2.Pj.shortNe0_of_t4Span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:46:26.081616+00:00
 -- url     : https://prove2.me/theorems/d9c9bd64-e3fb-4d00-8ef4-b5d5d1670a43

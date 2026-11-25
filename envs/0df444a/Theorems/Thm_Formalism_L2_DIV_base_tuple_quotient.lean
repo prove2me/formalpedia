@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_base_tuple_quotient
 -- name    : Formalism.L2.DIV.base_tuple_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:15.051871+00:00
 -- url     : https://prove2.me/theorems/79f39702-941d-4215-838a-a8a8d4744ecc

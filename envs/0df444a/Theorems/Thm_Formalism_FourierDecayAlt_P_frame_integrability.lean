@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_integrability
 -- name    : Formalism.FourierDecayAlt.P.frame_integrability
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:44:37.553044+00:00
 -- url     : https://prove2.me/theorems/6e224c3b-d14e-57ea-a0db-afb5dd51f789

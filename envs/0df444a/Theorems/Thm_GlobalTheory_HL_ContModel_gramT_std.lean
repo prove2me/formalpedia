@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_gramT_std
 -- name    : GlobalTheory.HL.ContModel.gramT_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:54.801792+00:00
 -- url     : https://prove2.me/theorems/48e6d550-e4f4-5cde-95b1-9393f4d18f11

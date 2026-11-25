@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_mem_indSpace
 -- name    : GlobalTheory.Doubling.mem_indSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:03:59.593203+00:00
 -- url     : https://prove2.me/theorems/5911e341-798f-41e7-8436-213541ec4d7f

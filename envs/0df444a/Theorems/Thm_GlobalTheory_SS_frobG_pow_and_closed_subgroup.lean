@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_frobG_pow_and_closed_subgroup
 -- name    : GlobalTheory.SS.frobG_pow_and_closed_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:36.993795+00:00
 -- url     : https://prove2.me/theorems/40f0a701-3917-4a49-8d11-c3d55c38c14e

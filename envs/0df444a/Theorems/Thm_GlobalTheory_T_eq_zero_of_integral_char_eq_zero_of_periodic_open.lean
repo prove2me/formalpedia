@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_zero_of_integral_char_eq_zero_of_periodic_open
 -- name    : GlobalTheory.T.eq_zero_of_integral_char_eq_zero_of_periodic_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:28:17.345786+00:00
 -- url     : https://prove2.me/theorems/17c28193-6a5a-49c8-9e7a-ad681a41b734

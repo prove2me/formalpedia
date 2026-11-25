@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_pbT_neg
 -- name    : GlobalTheory.KS.pbT_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:14:11.906074+00:00
 -- url     : https://prove2.me/theorems/35cd7d9b-5903-5d51-ba0d-810b82368dd2

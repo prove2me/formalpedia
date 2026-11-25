@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frame_eq_of_baseChange_injective
 -- name    : GlobalTheory.T.frame_eq_of_baseChange_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:41.976079+00:00
 -- url     : https://prove2.me/theorems/ae4fd05e-8a71-5e59-87fa-1d90a09ce087

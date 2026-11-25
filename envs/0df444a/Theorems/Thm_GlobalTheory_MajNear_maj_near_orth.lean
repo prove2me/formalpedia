@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajNear_maj_near_orth
 -- name    : GlobalTheory.MajNear.maj_near_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:42.546855+00:00
 -- url     : https://prove2.me/theorems/8fdef402-fd21-41a6-b72f-783c9edbceb5

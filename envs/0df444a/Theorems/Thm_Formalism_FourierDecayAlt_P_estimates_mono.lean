@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_estimates_mono
 -- name    : Formalism.FourierDecayAlt.P.estimates_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:29:52.666663+00:00
 -- url     : https://prove2.me/theorems/bcc1c817-34e1-4322-97ac-1ba1f22d7d52

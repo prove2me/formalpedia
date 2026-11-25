@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SortedCartan_cartan_antitone
 -- name    : GlobalTheory.SortedCartan.cartan_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:28:43.359696+00:00
 -- url     : https://prove2.me/theorems/909f4cc8-9f27-5025-9a5e-d2d3a4168d3f

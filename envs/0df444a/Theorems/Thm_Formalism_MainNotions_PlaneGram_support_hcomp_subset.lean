@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_support_hcomp_subset
 -- name    : Formalism.MainNotions.PlaneGram.support_hcomp_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:50:53.939555+00:00
 -- url     : https://prove2.me/theorems/7478c73b-81f7-512b-bde6-d34012fc917f

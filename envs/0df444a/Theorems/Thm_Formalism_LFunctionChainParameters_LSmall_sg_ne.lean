@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LSmall_sg_ne
 -- name    : Formalism.LFunctionChainParameters.LSmall.sg_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:51:36.531131+00:00
 -- url     : https://prove2.me/theorems/a7182074-4b70-4838-b7ea-7c10e5307704

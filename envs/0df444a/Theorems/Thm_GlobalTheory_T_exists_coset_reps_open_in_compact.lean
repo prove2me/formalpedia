@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_coset_reps_open_in_compact
 -- name    : GlobalTheory.T.exists_coset_reps_open_in_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:28:49.271139+00:00
 -- url     : https://prove2.me/theorems/c3cf3d11-8649-4df2-9312-0e354fe57695

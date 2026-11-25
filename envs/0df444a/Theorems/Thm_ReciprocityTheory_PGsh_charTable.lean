@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_charTable
 -- name    : ReciprocityTheory.PGsh.charTable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:21.959794+00:00
 -- url     : https://prove2.me/theorems/fe1329af-1a83-5a13-b029-1159551bd608

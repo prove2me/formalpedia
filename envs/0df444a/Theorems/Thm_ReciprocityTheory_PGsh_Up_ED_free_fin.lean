@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_ED_free_fin
 -- name    : ReciprocityTheory.PGsh.Up.ED.free_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:07:54.077736+00:00
 -- url     : https://prove2.me/theorems/c7b30e84-7500-4556-a7f7-f10ac6cfba04

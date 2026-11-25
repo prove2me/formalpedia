@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_isDatum_of_frobenius_lifts
 -- name    : GlobalTheory.DI.isDatum_of_frobenius_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:43.329168+00:00
 -- url     : https://prove2.me/theorems/d36a28fb-4347-4f7c-b56d-89fd5d509f8f

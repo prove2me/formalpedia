@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_addVal_prod
 -- name    : Formalism.NG.addVal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:17.260951+00:00
 -- url     : https://prove2.me/theorems/887b71b1-8cd9-5f12-9014-35755a63bfa6

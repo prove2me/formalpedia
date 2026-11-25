@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_LocalInClosure_full_05dd9bb2cdba
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_LocalInClosure_full_05dd9bb2cdba
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:12.079296+00:00
 -- url     : https://prove2.me/theorems/1715505b-7c7e-43d3-b297-991f406c90fa

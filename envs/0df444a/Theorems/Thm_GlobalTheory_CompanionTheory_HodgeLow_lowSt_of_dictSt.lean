@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HodgeLow_lowSt_of_dictSt
 -- name    : GlobalTheory.CompanionTheory.HodgeLow.lowSt_of_dictSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:48.162867+00:00
 -- url     : https://prove2.me/theorems/cbd7e9e0-9828-47f8-98c0-d7182d2ca729

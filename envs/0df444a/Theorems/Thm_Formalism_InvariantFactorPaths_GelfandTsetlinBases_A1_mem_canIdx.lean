@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A1_mem_canIdx
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A1.mem_canIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:43:05.428677+00:00
 -- url     : https://prove2.me/theorems/ad868de0-c6cf-4b85-8bb4-c0572eb7b652

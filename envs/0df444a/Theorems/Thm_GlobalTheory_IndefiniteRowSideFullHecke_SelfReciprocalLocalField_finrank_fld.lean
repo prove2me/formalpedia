@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SelfReciprocalLocalField_finrank_fld
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SelfReciprocalLocalField.finrank_fld
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:18:00.226244+00:00
 -- url     : https://prove2.me/theorems/d5ad0706-1820-5dfd-ad34-5fc386c4fee5

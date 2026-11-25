@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_ofForm_injective_of_H0Const
 -- name    : GlobalTheory.AbCoh.ofForm_injective_of_H0Const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:06:16.3987+00:00
 -- url     : https://prove2.me/theorems/39b7e8f5-7f43-4e89-b0dc-962d0f6c9d0f

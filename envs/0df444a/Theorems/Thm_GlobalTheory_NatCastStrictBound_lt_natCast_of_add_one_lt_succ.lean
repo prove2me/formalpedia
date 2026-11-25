@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatCastStrictBound_lt_natCast_of_add_one_lt_succ
 -- name    : GlobalTheory.NatCastStrictBound.lt_natCast_of_add_one_lt_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:52.069327+00:00
 -- url     : https://prove2.me/theorems/8fb4ac67-6ca5-4fc1-bb32-ae3a20ab02fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_drop_lattice_inclusion
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.drop_lattice_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:44:03.803589+00:00
 -- url     : https://prove2.me/theorems/9306b54a-0ad6-40a2-99a6-32b3d2a9e98f

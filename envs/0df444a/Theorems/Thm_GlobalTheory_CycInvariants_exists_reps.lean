@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycInvariants_exists_reps
 -- name    : GlobalTheory.CycInvariants.exists_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:06:09.06199+00:00
 -- url     : https://prove2.me/theorems/9e11e3ce-c6b4-5ad7-8880-279874d7d641

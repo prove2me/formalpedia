@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_Model_not_isChowForm_top
 -- name    : GlobalTheory.ChowHt.Model.not_isChowForm_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:00:54.093446+00:00
 -- url     : https://prove2.me/theorems/8d21ccfd-d0d9-434a-80db-d777fb3f3478

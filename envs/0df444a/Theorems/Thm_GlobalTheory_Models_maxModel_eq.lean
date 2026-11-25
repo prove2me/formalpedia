@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_maxModel_eq
 -- name    : GlobalTheory.Models.maxModel_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:59.854055+00:00
 -- url     : https://prove2.me/theorems/5cb55fff-56d0-58a7-a76d-e26e3e5bf6a4

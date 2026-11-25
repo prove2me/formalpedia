@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_OnePlus_main
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.OnePlus.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:28.332042+00:00
 -- url     : https://prove2.me/theorems/f7f1ed74-1782-47ff-89ce-30b1917078c3

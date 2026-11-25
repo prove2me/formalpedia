@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_b_lemmaBClosed_of
 -- name    : Formalism.FourierDecayAlt.P.b_lemmaBClosed_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:29:35.988597+00:00
 -- url     : https://prove2.me/theorems/96589c8c-a1fc-5b36-b1e8-0518442187e9

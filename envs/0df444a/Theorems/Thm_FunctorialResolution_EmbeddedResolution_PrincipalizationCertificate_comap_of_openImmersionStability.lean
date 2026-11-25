@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationCertificate_comap_of_openImmersionStability
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationCertificate.comap_of_openImmersionStability
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:56:08.044111+00:00
 -- url     : https://prove2.me/theorems/d0e87319-2a9f-4488-8f8d-981a369b2fa3

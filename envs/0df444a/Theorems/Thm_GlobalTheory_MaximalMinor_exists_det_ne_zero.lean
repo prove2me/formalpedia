@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaximalMinor_exists_det_ne_zero
 -- name    : GlobalTheory.MaximalMinor.exists_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:09.891835+00:00
 -- url     : https://prove2.me/theorems/d29b5921-452b-484c-85d5-c57331c7da58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_FamInh_inertia_eq_bot_iff
 -- name    : CompanionTheory.FamInh.inertia_eq_bot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:17:38.213871+00:00
 -- url     : https://prove2.me/theorems/43dca28a-acbd-49fa-8af2-4115c47bd2ae

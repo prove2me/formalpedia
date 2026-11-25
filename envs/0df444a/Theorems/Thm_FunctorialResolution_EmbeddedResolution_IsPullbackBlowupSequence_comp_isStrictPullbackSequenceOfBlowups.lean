@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsPullbackBlowupSequence_comp_isStrictPullbackSequenceOfBlowups
 -- name    : FunctorialResolution.EmbeddedResolution.IsPullbackBlowupSequence.comp_isStrictPullbackSequenceOfBlowups
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:54:44.567897+00:00
 -- url     : https://prove2.me/theorems/e808f4de-fc2d-4ec0-954e-92bafeb184eb

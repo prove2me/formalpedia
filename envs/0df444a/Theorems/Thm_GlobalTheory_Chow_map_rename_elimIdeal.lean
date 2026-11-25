@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_map_rename_elimIdeal
 -- name    : GlobalTheory.Chow.map_rename_elimIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:26.197411+00:00
 -- url     : https://prove2.me/theorems/f29f8323-eb39-4a69-aabb-bdc3e50e43bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_automorphic_functional_holomorphic_derivative
 -- name    : GlobalTheory.T.automorphic_functional_holomorphic_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:26:38.163713+00:00
 -- url     : https://prove2.me/theorems/0748e971-4ffc-4146-abdc-9042a17ff597

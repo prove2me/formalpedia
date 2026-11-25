@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_coe_qPow_one
 -- name    : GlobalTheory.WeilDeligne.coe_qPow_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:09:06.957384+00:00
 -- url     : https://prove2.me/theorems/819f335f-abdb-487f-a30d-f1b771c5c5af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_local_factors_positive
 -- name    : Formalism.FourierDecayAlt.P.local_factors_positive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:33:09.337802+00:00
 -- url     : https://prove2.me/theorems/dba2c58a-ba6a-4b8e-a48c-2ef5358d99b7

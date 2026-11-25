@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_closure_weyl_and_integral_unipotents_eq_univ
 -- name    : GlobalTheory.T.closure_weyl_and_integral_unipotents_eq_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:27:10.530809+00:00
 -- url     : https://prove2.me/theorems/820f6a30-325b-5e6d-9ee7-2113789ba55d

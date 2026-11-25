@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_kerSubschemeIso_inv_comp
 -- name    : FunctorialResolution.EmbeddedResolution.kerSubschemeIso_inv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:21.100189+00:00
 -- url     : https://prove2.me/theorems/3b4f2ac1-a961-47cc-b50f-e3c73461434e

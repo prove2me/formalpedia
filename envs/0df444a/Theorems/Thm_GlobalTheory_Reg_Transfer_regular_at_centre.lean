@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_regular_at_centre
 -- name    : GlobalTheory.Reg.Transfer.regular_at_centre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:18:19.167817+00:00
 -- url     : https://prove2.me/theorems/f7001ace-5cf1-4dd6-a430-74ed5f0a8709

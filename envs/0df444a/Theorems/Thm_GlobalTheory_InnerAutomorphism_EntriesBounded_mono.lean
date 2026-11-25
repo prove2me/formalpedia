@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerAutomorphism_EntriesBounded_mono
 -- name    : GlobalTheory.InnerAutomorphism.EntriesBounded.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:30.401805+00:00
 -- url     : https://prove2.me/theorems/05fab72d-ca2d-4809-b876-32e57dd52dee

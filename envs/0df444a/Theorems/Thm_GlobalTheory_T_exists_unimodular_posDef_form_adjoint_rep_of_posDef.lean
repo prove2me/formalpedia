@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unimodular_posDef_form_adjoint_rep_of_posDef
 -- name    : GlobalTheory.T.exists_unimodular_posDef_form_adjoint_rep_of_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:28.856361+00:00
 -- url     : https://prove2.me/theorems/5fb951b0-cccf-4064-a125-d93792d2b66f

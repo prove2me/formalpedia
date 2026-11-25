@@ -26111,8 +26111,8 @@
 {"parent": "D1Bound5.finiteA5CutoffWeights_20_valid", "child": "D1Bound5_OneSmallCutoffArithmetic_Definitions_001", "via": ["solution", "statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff4.collision_c10057_s1", "child": "HlawkaSchatten_DiagonalCutoff4_Localization", "via": ["solution", "statement"]}
 {"parent": "KLSModular_LevyStochCalc_Poisson_CompensatedProcess", "child": "KLSModular_LevyStochCalc_Poisson_CompensatedApprox", "via": ["statement"]}
-{"parent": "QReversal.PGMBound.eq_42", "child": "QReversal_PGMBound_Setting", "via": ["statement"]}
-{"parent": "QReversal.PGMBound.eq_42", "child": "WildeQIT_traceNorm", "via": ["statement"]}
+{"parent": "QReversal.PGMBound.eq_42", "child": "QReversal_PGMBound_Setting", "via": ["solution", "statement"]}
+{"parent": "QReversal.PGMBound.eq_42", "child": "WildeQIT_traceNorm", "via": ["solution", "statement"]}
 {"parent": "D1Bound5.complex_small_anchor_descent", "child": "D1Bound5_DescentAlgebra_Definitions", "via": ["solution", "statement"]}
 {"parent": "OAI.Laughlin.Certificate.yRow_5_5_1_5", "child": "OAIQ047L000", "via": ["solution", "statement"]}
 {"parent": "CountingMatroid.Analysis.ShortestSourceWalkIndependence.walk_suffix_length", "child": "CountingMatroidSupport_Computation_Cost_Extension1", "via": ["solution", "statement"]}

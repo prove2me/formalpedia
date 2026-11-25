@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segSize
 -- name    : Formalism.CountingSumsFrames.Top.segSize
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:23:57.069561+00:00
 -- url     : https://prove2.me/theorems/e991de94-ceb1-48f4-a2d7-4148f1334314

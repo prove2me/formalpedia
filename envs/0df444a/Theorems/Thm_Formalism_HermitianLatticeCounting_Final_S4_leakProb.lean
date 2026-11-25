@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_leakProb
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.leakProb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:13.277061+00:00
 -- url     : https://prove2.me/theorems/e3b8c86f-06eb-4d34-b2de-b8374ca45c4a

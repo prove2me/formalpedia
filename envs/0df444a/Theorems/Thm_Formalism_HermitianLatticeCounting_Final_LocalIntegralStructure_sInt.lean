@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_sInt
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.sInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:00.934209+00:00
 -- url     : https://prove2.me/theorems/286e3eca-0b83-5e12-ab97-334153d4d1f3

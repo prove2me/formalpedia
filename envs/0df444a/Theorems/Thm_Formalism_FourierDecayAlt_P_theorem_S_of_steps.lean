@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_theorem_S_of_steps
 -- name    : Formalism.FourierDecayAlt.P.theorem_S_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:37:49.670919+00:00
 -- url     : https://prove2.me/theorems/cfde543f-1754-58c0-9f89-1ddf60e8f41c

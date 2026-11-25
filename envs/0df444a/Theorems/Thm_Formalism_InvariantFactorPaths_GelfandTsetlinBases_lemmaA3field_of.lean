@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_lemmaA3field_of
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.lemmaA3field_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:41:50.362169+00:00
 -- url     : https://prove2.me/theorems/d23f7816-7484-5cf1-9a16-40f836736197

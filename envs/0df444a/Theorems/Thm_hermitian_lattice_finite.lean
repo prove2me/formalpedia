@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_hermitian_lattice_finite
 -- name    : hermitian_lattice_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:16:06.871809+00:00
 -- url     : https://prove2.me/theorems/c942406d-9e1b-56fd-9607-721ad9f490c9

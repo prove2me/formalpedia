@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_GL_ringOfIntegers_quotient_prod_factors
 -- name    : GlobalTheory.T.card_GL_ringOfIntegers_quotient_prod_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:55.822341+00:00
 -- url     : https://prove2.me/theorems/672a6737-3342-4a39-8403-4b8b102252c8

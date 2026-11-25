@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_exists_charEquiv
 -- name    : ReciprocityTheory.PGsh.Up.U3.exists_charEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:07:09.690851+00:00
 -- url     : https://prove2.me/theorems/20fe5783-8b38-4062-afae-7b9b9a6c7cac

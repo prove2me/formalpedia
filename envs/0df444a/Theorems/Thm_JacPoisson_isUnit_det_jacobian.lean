@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JacPoisson_isUnit_det_jacobian
 -- name    : JacPoisson.isUnit_det_jacobian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:50:49.546834+00:00
 -- url     : https://prove2.me/theorems/c801c57d-9fd9-42fb-96eb-080a75c64809

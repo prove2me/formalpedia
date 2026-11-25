@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycFr_dvd_sub_C_of_shift
 -- name    : GlobalTheory.CycFr.dvd_sub_C_of_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:36.701088+00:00
 -- url     : https://prove2.me/theorems/3081a19b-55ca-4618-955d-9f501412d6e0

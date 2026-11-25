@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_isScalarTower_of_field
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.isScalarTower_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:09.247356+00:00
 -- url     : https://prove2.me/theorems/2760000a-0118-47a0-a502-05f8687487ae

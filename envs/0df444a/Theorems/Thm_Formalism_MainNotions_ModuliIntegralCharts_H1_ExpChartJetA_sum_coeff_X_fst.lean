@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJetA_sum_coeff_X_fst
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJetA.sum_coeff_X_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:05.615352+00:00
 -- url     : https://prove2.me/theorems/d29513b0-60d5-4cae-9d9e-3142d47cf94a

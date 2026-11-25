@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFinitePart_exists_free_chart
 -- name    : GlobalTheory.SplitFinitePart.exists_free_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:25:48.232801+00:00
 -- url     : https://prove2.me/theorems/eb4369a3-570a-5b29-919b-e841188913e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Metaplectic_Model_empty_case
 -- name    : GlobalTheory.Published.Metaplectic.Model.empty_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:40.66312+00:00
 -- url     : https://prove2.me/theorems/365778d8-cae1-4731-bfb6-bf9dc3bcfe3a

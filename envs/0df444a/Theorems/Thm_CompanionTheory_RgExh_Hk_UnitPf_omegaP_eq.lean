@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_omegaP_eq
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.omegaP_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:52:39.640598+00:00
 -- url     : https://prove2.me/theorems/99ccac8f-c15b-4148-85dd-1587d697cd56

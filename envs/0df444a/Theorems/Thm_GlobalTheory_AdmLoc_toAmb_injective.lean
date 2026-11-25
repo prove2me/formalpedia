@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_toAmb_injective
 -- name    : GlobalTheory.AdmLoc.toAmb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:03:11.716651+00:00
 -- url     : https://prove2.me/theorems/e06853ce-e811-402c-8268-ab2870a56113

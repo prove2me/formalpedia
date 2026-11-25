@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_discriminant_of_product_lower
 -- name    : discriminant_of_product_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:15:04.762587+00:00
 -- url     : https://prove2.me/theorems/6b9b1652-8509-5c1c-bb0f-fe1f97a43dcf

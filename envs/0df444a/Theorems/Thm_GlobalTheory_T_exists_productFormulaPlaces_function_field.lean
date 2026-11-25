@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_productFormulaPlaces_function_field
 -- name    : GlobalTheory.T.exists_productFormulaPlaces_function_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:29:00.621176+00:00
 -- url     : https://prove2.me/theorems/7ce100bd-71a9-4087-bacb-3ab5c8b9ab20

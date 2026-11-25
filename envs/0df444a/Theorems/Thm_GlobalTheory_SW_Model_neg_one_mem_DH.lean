@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_neg_one_mem_DH
 -- name    : GlobalTheory.SW.Model.neg_one_mem_DH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:18.755213+00:00
 -- url     : https://prove2.me/theorems/3433c469-78d8-53b2-b920-8f020b4bb916

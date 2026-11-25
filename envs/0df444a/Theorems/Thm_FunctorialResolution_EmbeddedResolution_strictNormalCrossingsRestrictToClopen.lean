@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_strictNormalCrossingsRestrictToClopen
 -- name    : FunctorialResolution.EmbeddedResolution.strictNormalCrossingsRestrictToClopen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:56:00.847244+00:00
 -- url     : https://prove2.me/theorems/f2bbe411-dc2a-42ca-94eb-75105d5668d6

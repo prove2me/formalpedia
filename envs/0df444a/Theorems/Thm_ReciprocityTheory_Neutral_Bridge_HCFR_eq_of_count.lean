@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCFR_eq_of_count
 -- name    : ReciprocityTheory.Neutral.Bridge.HCFR.eq_of_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:05:12.814906+00:00
 -- url     : https://prove2.me/theorems/9001cf3a-e1c6-4b5d-8095-72bc5060c33b

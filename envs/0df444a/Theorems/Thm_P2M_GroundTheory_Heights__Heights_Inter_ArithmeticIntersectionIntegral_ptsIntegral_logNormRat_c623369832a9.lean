@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionIntegral_ptsIntegral_logNormRat_c623369832a9
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionIntegral_ptsIntegral_logNormRat_c623369832a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:41:10.586648+00:00
 -- url     : https://prove2.me/theorems/ee5448cc-948d-4b1a-a746-e563dd46eab6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_SameFactors_length_eq
 -- name    : GlobalTheory.AdmLoc.SameFactors.length_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:00:54.698951+00:00
 -- url     : https://prove2.me/theorems/8e1b3540-8936-53a2-acce-b918435121d0

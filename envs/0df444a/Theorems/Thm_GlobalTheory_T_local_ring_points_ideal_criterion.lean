@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_ring_points_ideal_criterion
 -- name    : GlobalTheory.T.local_ring_points_ideal_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:16.84909+00:00
 -- url     : https://prove2.me/theorems/2059105e-2b5f-46d6-8eaf-ac3c638014a0

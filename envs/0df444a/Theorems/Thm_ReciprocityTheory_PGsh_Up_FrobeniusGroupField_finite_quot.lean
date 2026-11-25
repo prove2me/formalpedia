@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_finite_quot
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.finite_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:06:31.137144+00:00
 -- url     : https://prove2.me/theorems/df30fff7-f480-5bac-baa4-754f3a23e369

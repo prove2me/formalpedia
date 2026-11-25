@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_trace_conj_eq_const_mul_kernel_image
 -- name    : GlobalTheory.T.haar_trace_conj_eq_const_mul_kernel_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:32:12.050964+00:00
 -- url     : https://prove2.me/theorems/fec1671a-40e1-4a72-aed7-94c96769e88b

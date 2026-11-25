@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gtBaseChange
 -- name    : GlobalTheory.gtBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:19:38.180681+00:00
 -- url     : https://prove2.me/theorems/55bc5012-b3c1-4016-8e5d-df98a9b14079

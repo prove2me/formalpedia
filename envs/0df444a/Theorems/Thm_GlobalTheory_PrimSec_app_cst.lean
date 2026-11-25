@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimSec_app_cst
 -- name    : GlobalTheory.PrimSec.app_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:58:13.054426+00:00
 -- url     : https://prove2.me/theorems/25bfa03e-e248-41e6-b226-f436c4d3a7d7

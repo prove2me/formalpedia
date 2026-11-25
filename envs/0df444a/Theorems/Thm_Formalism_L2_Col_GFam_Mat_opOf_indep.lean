@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GFam_Mat_opOf_indep
 -- name    : Formalism.L2.Col.GFam.Mat.opOf_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:05.983117+00:00
 -- url     : https://prove2.me/theorems/988a2761-5cec-47d8-8584-abc261597d31

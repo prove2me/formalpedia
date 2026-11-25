@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_Smith_smith_sq
 -- name    : ReciprocityTheory.PGsh.Up.Smith.smith_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:34.735623+00:00
 -- url     : https://prove2.me/theorems/a6dc0fe5-e0e5-4e5e-9488-6d48a7dc6af7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_HenselStatement
 -- name    : GlobalTheory.T.HenselStatement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:25:42.300206+00:00
 -- url     : https://prove2.me/theorems/c6c17206-4763-5f30-988f-def43d515a77

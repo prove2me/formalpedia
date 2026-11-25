@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lieMult_iff_of_isGrpPullback
 -- name    : GlobalTheory.lieMult_iff_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:43:51.488266+00:00
 -- url     : https://prove2.me/theorems/bbea9ed2-8d27-4385-a228-bd3502846eed

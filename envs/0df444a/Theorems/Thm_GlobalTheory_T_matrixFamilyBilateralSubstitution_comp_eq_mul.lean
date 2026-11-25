@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrixFamilyBilateralSubstitution_comp_eq_mul
 -- name    : GlobalTheory.T.matrixFamilyBilateralSubstitution_comp_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:09.506799+00:00
 -- url     : https://prove2.me/theorems/ada797ef-beb3-532a-b886-5bb31ef550fa

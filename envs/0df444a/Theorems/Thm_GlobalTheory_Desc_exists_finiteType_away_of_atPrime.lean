@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Desc_exists_finiteType_away_of_atPrime
 -- name    : GlobalTheory.Desc.exists_finiteType_away_of_atPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:22.038382+00:00
 -- url     : https://prove2.me/theorems/6de3b7a7-a345-4e0c-8935-fa5b2b41c51d

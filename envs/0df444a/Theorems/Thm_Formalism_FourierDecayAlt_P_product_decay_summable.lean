@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_product_decay_summable
 -- name    : Formalism.FourierDecayAlt.P.product_decay_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:09.341316+00:00
 -- url     : https://prove2.me/theorems/40eec37b-5ef4-4f7c-97fb-0562a0aaf2e5

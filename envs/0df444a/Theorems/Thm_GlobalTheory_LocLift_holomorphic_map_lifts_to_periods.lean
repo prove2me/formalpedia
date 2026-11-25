@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_holomorphic_map_lifts_to_periods
 -- name    : GlobalTheory.LocLift.holomorphic_map_lifts_to_periods
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:42:22.58397+00:00
 -- url     : https://prove2.me/theorems/cf524282-5d99-40a3-8dba-4df1aa023c0e

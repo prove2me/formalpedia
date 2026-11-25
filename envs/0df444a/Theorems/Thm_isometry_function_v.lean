@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isometry_function_v
 -- name    : isometry_function_v
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:17.062665+00:00
 -- url     : https://prove2.me/theorems/29cd82e0-942c-5b48-8c41-f7d409b5420b

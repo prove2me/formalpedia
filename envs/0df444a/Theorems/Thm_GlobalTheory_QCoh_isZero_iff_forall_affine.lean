@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isZero_iff_forall_affine
 -- name    : GlobalTheory.QCoh.isZero_iff_forall_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:18:45.162145+00:00
 -- url     : https://prove2.me/theorems/0618d0e5-d34b-5a98-b90c-d114717a6377

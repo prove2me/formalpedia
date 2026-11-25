@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_etale_sigmaDesc
 -- name    : FunctorialResolution.EmbeddedResolution.etale_sigmaDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:19.878607+00:00
 -- url     : https://prove2.me/theorems/0bed23e7-c571-496b-908a-4cf667659b5a

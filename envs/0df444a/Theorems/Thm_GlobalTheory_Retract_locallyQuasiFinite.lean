@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_locallyQuasiFinite
 -- name    : GlobalTheory.Retract.locallyQuasiFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:20:04.66968+00:00
 -- url     : https://prove2.me/theorems/0273193e-0fb5-4814-9409-168901267b2a

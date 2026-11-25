@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamFree_existsUnique_fam
 -- name    : GlobalTheory.FamFree.existsUnique_fam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:17:55.434799+00:00
 -- url     : https://prove2.me/theorems/65fdc63e-5194-4b94-b5a7-2d541e0eff98

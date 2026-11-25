@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_isPrecomplete_of_basis
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.isPrecomplete_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:37.49219+00:00
 -- url     : https://prove2.me/theorems/3a7357c5-c611-495e-8ec5-b41cdb90f67b

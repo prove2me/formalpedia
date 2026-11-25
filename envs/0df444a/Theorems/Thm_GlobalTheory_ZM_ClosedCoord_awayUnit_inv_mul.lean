@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ClosedCoord_awayUnit_inv_mul
 -- name    : GlobalTheory.ZM.ClosedCoord.awayUnit_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:50.348901+00:00
 -- url     : https://prove2.me/theorems/1e196ecc-0d06-441a-a7ae-f01544153076

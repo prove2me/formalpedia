@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBiextId_ac_val
 -- name    : GlobalTheory.FrameBiextId.ac_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:09.462676+00:00
 -- url     : https://prove2.me/theorems/8675bd21-0da0-40dc-887f-3c6fae7c81cc

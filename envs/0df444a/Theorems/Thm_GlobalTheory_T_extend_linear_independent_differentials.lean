@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_extend_linear_independent_differentials
 -- name    : GlobalTheory.T.extend_linear_independent_differentials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:31:53.262352+00:00
 -- url     : https://prove2.me/theorems/f7b1fa48-764d-48c8-a405-f5ff7885f2b4

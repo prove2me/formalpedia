@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_span_eq_of_vdet_eq
 -- name    : ReciprocityTheory.PGsh.Up.U3.span_eq_of_vdet_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:24.23671+00:00
 -- url     : https://prove2.me/theorems/b8072aa5-80df-4d61-af1e-a690c905e11c

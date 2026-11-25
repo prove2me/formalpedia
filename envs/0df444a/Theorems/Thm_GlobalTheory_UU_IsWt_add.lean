@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_IsWt_add
 -- name    : GlobalTheory.UU.IsWt.add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:55:15.215305+00:00
 -- url     : https://prove2.me/theorems/845b298a-1155-5712-b227-ff5e7e22beae

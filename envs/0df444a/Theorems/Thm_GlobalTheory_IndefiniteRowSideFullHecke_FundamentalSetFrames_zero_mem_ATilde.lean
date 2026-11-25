@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FundamentalSetFrames_zero_mem_ATilde
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FundamentalSetFrames.zero_mem_ATilde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:56.687856+00:00
 -- url     : https://prove2.me/theorems/489c4bde-6099-4773-9838-8d974497a567

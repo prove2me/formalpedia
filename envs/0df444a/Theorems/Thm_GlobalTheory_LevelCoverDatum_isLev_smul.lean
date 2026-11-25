@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCoverDatum_isLev_smul
 -- name    : GlobalTheory.LevelCoverDatum.isLev_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:13:59.983464+00:00
 -- url     : https://prove2.me/theorems/7a199c88-d5f8-4698-b6a0-2cae323dcda7

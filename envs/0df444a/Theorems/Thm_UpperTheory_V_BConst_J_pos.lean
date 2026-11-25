@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_BConst_J_pos
 -- name    : UpperTheory.V.BConst.J_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:12.29626+00:00
 -- url     : https://prove2.me/theorems/dd154712-40a8-4336-8e42-d14696dd36ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_degree_editGraph
 -- name    : DegreeSequences.degree_editGraph
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:36:47.250624+00:00
 -- url     : https://prove2.me/theorems/4be773e6-3731-51cf-a095-2d009b25ce8c

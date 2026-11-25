@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_chart_aff
 -- name    : ReciprocityTheory.AnForm.R.chart_aff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:43:19.957083+00:00
 -- url     : https://prove2.me/theorems/01c0acf6-7499-414a-9064-1deea41c72a3

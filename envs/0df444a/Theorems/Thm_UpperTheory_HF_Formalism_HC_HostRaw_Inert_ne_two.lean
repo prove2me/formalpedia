@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostRaw_Inert_ne_two
 -- name    : UpperTheory.HF.Formalism.HC.HostRaw.Inert.ne_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:05.427248+00:00
 -- url     : https://prove2.me/theorems/f41343aa-e5ec-5411-9a46-7f927ec1b5b1

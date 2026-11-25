@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenScheme_eq_extend
 -- name    : GlobalTheory.GenScheme.eq_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:25:26.4159+00:00
 -- url     : https://prove2.me/theorems/0e666bbf-5627-400a-8299-1a143329ea1f

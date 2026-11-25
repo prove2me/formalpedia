@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_cayOp_map
 -- name    : ReciprocityTheory.PGsh.cayOp_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:49.295871+00:00
 -- url     : https://prove2.me/theorems/118fd74d-4b30-412c-b7d9-1c5870978525

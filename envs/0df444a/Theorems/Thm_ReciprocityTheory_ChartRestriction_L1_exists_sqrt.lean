@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_exists_sqrt
 -- name    : ReciprocityTheory.ChartRestriction.L1.exists_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:56:54.726793+00:00
 -- url     : https://prove2.me/theorems/b8de9e75-0f73-5500-b99d-234ace26471e

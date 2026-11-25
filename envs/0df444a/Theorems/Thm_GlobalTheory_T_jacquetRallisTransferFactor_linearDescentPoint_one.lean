@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquetRallisTransferFactor_linearDescentPoint_one
 -- name    : GlobalTheory.T.jacquetRallisTransferFactor_linearDescentPoint_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:40.31853+00:00
 -- url     : https://prove2.me/theorems/a2b8b5d8-feca-57f7-8e61-1d8b7c413de1

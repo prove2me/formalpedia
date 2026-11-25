@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_UnitaryFiniteCovolume_of_definite
 -- name    : GlobalTheory.Published.UnitaryFiniteCovolume.of_definite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:17:25.55526+00:00
 -- url     : https://prove2.me/theorems/80420bad-cc12-5ef8-857f-f562f8176abf

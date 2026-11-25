@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_BiPair_sumOf_mem
 -- name    : Formalism.L2.Col.BiPair.sumOf_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:43:55.188588+00:00
 -- url     : https://prove2.me/theorems/2ceccc31-0fd3-46df-8908-c0f56ce0139f

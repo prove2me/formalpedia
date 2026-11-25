@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegPull_exists_sym_pull
 -- name    : GlobalTheory.DegPull.exists_sym_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:37:41.93361+00:00
 -- url     : https://prove2.me/theorems/5bd6f254-ac75-4c00-ac50-7a99005039fd

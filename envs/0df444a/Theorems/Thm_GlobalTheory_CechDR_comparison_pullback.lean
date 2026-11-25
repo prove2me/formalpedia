@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_comparison_pullback
 -- name    : GlobalTheory.CechDR.comparison_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:03.435357+00:00
 -- url     : https://prove2.me/theorems/091d475f-f202-5bb8-96ed-c6058425e493

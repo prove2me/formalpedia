@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Ainf_sepO
 -- name    : ReciprocityTheory.PGsh.Ainf.sepO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:06:45.168714+00:00
 -- url     : https://prove2.me/theorems/219ea1f9-a066-4565-886c-a0e397d22880

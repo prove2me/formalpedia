@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ker_aeval_orthogonal_range_unitary_selfReciprocal
 -- name    : GlobalTheory.T.ker_aeval_orthogonal_range_unitary_selfReciprocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:23.772889+00:00
 -- url     : https://prove2.me/theorems/46917f0e-3959-584e-9d83-7fde7e09c3f5

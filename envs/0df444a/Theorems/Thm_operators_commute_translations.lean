@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_operators_commute_translations
 -- name    : operators_commute_translations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:16:39.876882+00:00
 -- url     : https://prove2.me/theorems/b2426486-6a1e-4293-83d6-6b61f3732446

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_reductionOnto_statement
 -- name    : Formalism.FourierDecayAlt.P.reductionOnto_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:33:41.871964+00:00
 -- url     : https://prove2.me/theorems/8b544f86-f606-5e77-a8e4-a1bee1b3252f

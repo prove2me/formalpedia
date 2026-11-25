@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_tan_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.tan_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:54:26.605404+00:00
 -- url     : https://prove2.me/theorems/e12c95bb-567b-5cb2-83e2-e9c9985b2041

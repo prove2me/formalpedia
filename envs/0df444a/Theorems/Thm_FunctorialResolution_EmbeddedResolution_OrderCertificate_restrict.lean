@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OrderCertificate_restrict
 -- name    : FunctorialResolution.EmbeddedResolution.OrderCertificate.restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:58.707724+00:00
 -- url     : https://prove2.me/theorems/366f6a1b-feb0-4caa-9941-9bf6bf4aa0d1

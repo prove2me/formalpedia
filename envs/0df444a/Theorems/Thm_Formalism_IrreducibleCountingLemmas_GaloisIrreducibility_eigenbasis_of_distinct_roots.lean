@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_eigenbasis_of_distinct_roots
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.eigenbasis_of_distinct_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:43:35.669582+00:00
 -- url     : https://prove2.me/theorems/3640aafc-e5b2-46a5-9d28-9ff308a6bba2

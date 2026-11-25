@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_PrincipalizationRules_outputLevelData_orderReduction_eq_orderFamily
 -- name    : FunctorialResolution.EmbeddedResolution.PrincipalizationRules.outputLevelData_orderReduction_eq_orderFamily
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:36.462061+00:00
 -- url     : https://prove2.me/theorems/eed612d8-8ff1-49ee-9b71-fcf4577098fc

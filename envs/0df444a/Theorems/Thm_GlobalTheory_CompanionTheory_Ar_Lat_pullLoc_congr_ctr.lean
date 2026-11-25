@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_pullLoc_congr_ctr
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.pullLoc_congr_ctr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:03.878884+00:00
 -- url     : https://prove2.me/theorems/9d2e930e-30fe-4a87-b4d5-0658912ac458

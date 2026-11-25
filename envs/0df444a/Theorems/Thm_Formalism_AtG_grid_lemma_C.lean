@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_grid_lemma_C
 -- name    : Formalism.AtG.grid_lemma_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:22:15.507441+00:00
 -- url     : https://prove2.me/theorems/5580685e-878b-4fc4-89a9-4a714d53be9a

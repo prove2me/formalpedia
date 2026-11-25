@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_galois_action_cohomology_eq_conj
 -- name    : UpperTheory.V.galois_action_cohomology_eq_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:33.428074+00:00
 -- url     : https://prove2.me/theorems/01973856-53de-4102-acf1-747ddcdac98a

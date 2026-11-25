@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymCompare_prX_inf_eq_iff
 -- name    : GlobalTheory.SymCompare.prX_inf_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:25:20.905809+00:00
 -- url     : https://prove2.me/theorems/37a9360e-7a35-466e-a94c-2759907c4c82

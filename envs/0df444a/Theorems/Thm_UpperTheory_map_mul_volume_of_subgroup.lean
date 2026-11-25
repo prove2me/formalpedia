@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_map_mul_volume_of_subgroup
 -- name    : UpperTheory.map_mul_volume_of_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:46.344461+00:00
 -- url     : https://prove2.me/theorems/66b18f6e-c9ed-4657-84cc-6244c15d9b3c

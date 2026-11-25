@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_val_sym_triv
 -- name    : GlobalTheory.UU.val_sym_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:42:59.62507+00:00
 -- url     : https://prove2.me/theorems/77960bc6-0262-4b58-af26-debb9bf7b322

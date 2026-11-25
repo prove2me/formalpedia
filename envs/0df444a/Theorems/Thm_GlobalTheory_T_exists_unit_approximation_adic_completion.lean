@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_approximation_adic_completion
 -- name    : GlobalTheory.T.exists_unit_approximation_adic_completion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:11.02005+00:00
 -- url     : https://prove2.me/theorems/55a98f01-b5c7-438e-b54c-1dfd9fa828cd

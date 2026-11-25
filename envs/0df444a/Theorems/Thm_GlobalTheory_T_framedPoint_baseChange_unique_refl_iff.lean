@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_framedPoint_baseChange_unique_refl_iff
 -- name    : GlobalTheory.T.framedPoint_baseChange_unique_refl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:31:54.043178+00:00
 -- url     : https://prove2.me/theorems/c9211753-8975-49b5-aa1a-2e061235d391

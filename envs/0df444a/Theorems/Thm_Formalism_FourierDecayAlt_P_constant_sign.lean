@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_constant_sign
 -- name    : Formalism.FourierDecayAlt.P.constant_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:30:31.191901+00:00
 -- url     : https://prove2.me/theorems/fca48c75-af64-4bb7-baa4-ec3dcf21dc15

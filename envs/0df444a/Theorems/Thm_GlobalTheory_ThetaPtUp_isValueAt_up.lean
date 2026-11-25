@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtUp_isValueAt_up
 -- name    : GlobalTheory.ThetaPtUp.isValueAt_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:40:57.363243+00:00
 -- url     : https://prove2.me/theorems/d9a72683-096e-44a1-a736-2d8e1d72c7ea

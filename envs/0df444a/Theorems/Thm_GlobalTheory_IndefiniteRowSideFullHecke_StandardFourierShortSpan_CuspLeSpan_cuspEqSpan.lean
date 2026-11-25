@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_StandardFourierShortSpan_CuspLeSpan_cuspEqSpan
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.StandardFourierShortSpan.CuspLeSpan.cuspEqSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:29.45441+00:00
 -- url     : https://prove2.me/theorems/32fc7d92-1ab0-54be-b91c-cec30f9e60c0

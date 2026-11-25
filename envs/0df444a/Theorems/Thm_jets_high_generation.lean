@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_jets_high_generation
 -- name    : jets_high_generation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:17:10.999867+00:00
 -- url     : https://prove2.me/theorems/227e7652-b8f8-4fea-8d0b-350d6bfc8d67

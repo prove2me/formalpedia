@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_bilinear_form_at_zero
 -- name    : Formalism.FourierDecayAlt.P.bilinear_form_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:40:01.448158+00:00
 -- url     : https://prove2.me/theorems/56d1b9e3-df64-42b8-b2d8-cf879f358a52

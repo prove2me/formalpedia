@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalRingGeneralisation_exists_stalk_equiv_localization
 -- name    : GlobalTheory.LocalRingGeneralisation.exists_stalk_equiv_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:59.270821+00:00
 -- url     : https://prove2.me/theorems/e639553d-d61f-4282-b345-399ac432e529

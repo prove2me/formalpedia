@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_jetMap_zR
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.jetMap_zR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:04:55.225259+00:00
 -- url     : https://prove2.me/theorems/cad59748-3dee-48d6-aeb8-75ba44029167

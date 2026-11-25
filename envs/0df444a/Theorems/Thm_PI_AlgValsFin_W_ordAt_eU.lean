@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_ordAt_eU
 -- name    : PI.AlgValsFin.W.ordAt_eU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:13:22.316309+00:00
 -- url     : https://prove2.me/theorems/fcdb28fb-9b00-4e69-867e-cd63535e5a56

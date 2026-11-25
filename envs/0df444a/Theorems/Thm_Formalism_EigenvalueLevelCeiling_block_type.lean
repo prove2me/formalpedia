@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_block_type
 -- name    : Formalism.EigenvalueLevelCeiling.block_type
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:25:51.029373+00:00
 -- url     : https://prove2.me/theorems/f5a92911-5d0c-50f2-afcb-a089bb13c437

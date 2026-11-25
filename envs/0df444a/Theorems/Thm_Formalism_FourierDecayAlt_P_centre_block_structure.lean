@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_centre_block_structure
 -- name    : Formalism.FourierDecayAlt.P.centre_block_structure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:29:32.12352+00:00
 -- url     : https://prove2.me/theorems/69aa32f7-af74-411e-ac8e-250ec6284aa6

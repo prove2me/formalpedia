@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_dim_eq
 -- name    : GlobalTheory.LocLift.dim_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:40:35.276645+00:00
 -- url     : https://prove2.me/theorems/e10385fe-f0b9-412a-a5e4-d2db9a47daed

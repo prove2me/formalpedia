@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CuspidalCharacters_isIrreducible_iff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CuspidalCharacters.isIrreducible_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:10:50.273853+00:00
 -- url     : https://prove2.me/theorems/6c2f24a4-efd0-4ad7-9aa7-61343c9f859f

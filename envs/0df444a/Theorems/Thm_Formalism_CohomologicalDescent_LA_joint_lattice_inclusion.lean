@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_joint_lattice_inclusion
 -- name    : Formalism.CohomologicalDescent.LA.joint_lattice_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:28:04.393233+00:00
 -- url     : https://prove2.me/theorems/9ae0511e-2ad1-5a73-baaf-8a692da7779a

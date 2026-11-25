@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_OpenChart_eq_lift
 -- name    : GlobalTheory.Frames.Model.OpenChart.eq_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:43.218363+00:00
 -- url     : https://prove2.me/theorems/9236d867-c6cb-5607-8601-79cd7aa7d414

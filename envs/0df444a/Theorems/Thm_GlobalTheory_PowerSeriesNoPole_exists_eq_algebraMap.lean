@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerSeriesNoPole_exists_eq_algebraMap
 -- name    : GlobalTheory.PowerSeriesNoPole.exists_eq_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:16:07.578618+00:00
 -- url     : https://prove2.me/theorems/da6d959a-2f23-4fee-aee3-cdaa97bc6006

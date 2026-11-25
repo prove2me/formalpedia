@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_diagonal_conjugation
 -- name    : Formalism.HermitianLatticeCounting.P.diagonal_conjugation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:39:36.172063+00:00
 -- url     : https://prove2.me/theorems/bab3e62d-4f97-4bf0-b46e-74171111a1c3

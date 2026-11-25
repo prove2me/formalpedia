@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_BaseClassMove_latAdm_unit
 -- name    : GlobalTheory.Survey.BaseClassMove.latAdm_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:24:59.486794+00:00
 -- url     : https://prove2.me/theorems/e70ce5d3-8af1-4afa-9dcd-646d5c9ba1ce

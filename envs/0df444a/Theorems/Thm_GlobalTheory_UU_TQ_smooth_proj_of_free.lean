@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TQ_smooth_proj_of_free
 -- name    : GlobalTheory.UU.TQ.smooth_proj_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:00:02.64717+00:00
 -- url     : https://prove2.me/theorems/f7b85563-98a5-4ff2-bd57-b78719769d14

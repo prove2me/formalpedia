@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_torsionBasis_geometric_fibres_of_open_cover
 -- name    : GlobalTheory.T.torsionBasis_geometric_fibres_of_open_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:00:07.395806+00:00
 -- url     : https://prove2.me/theorems/99f3fdf8-01d9-4159-9d4e-12d69f8b9f99

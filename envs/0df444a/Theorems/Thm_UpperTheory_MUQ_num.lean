@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_MUQ_num
 -- name    : UpperTheory.MUQ.num
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:23.140309+00:00
 -- url     : https://prove2.me/theorems/d14d233f-65a1-4c91-8d58-6c41b48b2bd5

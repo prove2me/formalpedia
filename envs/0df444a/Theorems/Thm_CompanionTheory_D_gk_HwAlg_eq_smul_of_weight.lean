@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_HwAlg_eq_smul_of_weight
 -- name    : CompanionTheory.D.gk.HwAlg.eq_smul_of_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:17:40.293772+00:00
 -- url     : https://prove2.me/theorems/abbd6340-ed58-5c3c-b4b1-58ce6b4dfe4d

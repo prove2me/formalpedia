@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinkowskiOrder_val_prod
 -- name    : GlobalTheory.MinkowskiOrder.val_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:14:49.586944+00:00
 -- url     : https://prove2.me/theorems/93f8b539-f223-5950-a384-e25b80bd0e78

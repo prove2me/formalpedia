@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_SecNotIn_chartIdeal_isPrime
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.SecNotIn.chartIdeal_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:43:50.877352+00:00
 -- url     : https://prove2.me/theorems/42d6c855-2bde-4db7-b0af-50dfff66f2f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Model_htBasis_twist
 -- name    : GlobalTheory.Cyc.Model.htBasis_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:03:55.091746+00:00
 -- url     : https://prove2.me/theorems/1c89b5b6-a5a3-4869-9050-8ef4c0c317a8

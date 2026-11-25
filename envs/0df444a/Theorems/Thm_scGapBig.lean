@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_scGapBig
 -- name    : scGapBig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:17:01.437789+00:00
 -- url     : https://prove2.me/theorems/e67e3d18-7d58-4f54-8516-a3115a6901b9

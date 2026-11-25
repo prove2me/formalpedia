@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sum_log_normSq
 -- name    : ReciprocityTheory.MultiplicativeHeights.sum_log_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:17.278837+00:00
 -- url     : https://prove2.me/theorems/eb8e8934-997f-485a-a819-320739eecf2f

@@ -1,0 +1,55 @@
+-- Prove2me | solution 1 for Formalism.CoboundaryTransfers.wach_api
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T16:18:18.940617+00:00
+-- url     : https://prove2.me/submissions/b1c9a23c-e3d8-4c0a-ae21-51d210a1720b
+
+import Definitions.Def_Formalism_CoboundaryTransfers_GammaStableTransfers_MemCoboundariesOfIsOneCoboundary
+import Definitions.Def_Formalism_CoboundaryTransfers_GammaStableTransfers_GammaStableOfGammaQUnitHolds
+import Definitions.Def_Formalism_CoboundaryTransfers_GammaStableTransfers_DiffOneSmulOfTower
+import Definitions.Def_Formalism_CoboundaryTransfers_GammaStableTransfers_TorsionKilledCriterionHolds
+import Definitions.Def_Formalism_CoboundaryTransfers_GammaStableTransfers_BridgeCL
+import Definitions.Def_Formalism_CoboundaryTransfers_GammaStableTransfers_BridgeLIFT
+import Definitions.Def_Formalism_CoboundaryTransfers_GammaStableTransfers_DepthPageFirstZetaFactorEqPrimePower
+import Definitions.Def_Formalism_CoboundaryTransfers_GammaStableTransfers_Transfer
+import Definitions.Def_Formalism_CoboundaryTransfers_GammaStableTransfers_WachLatticeNonemptyGamma
+import Definitions.Def_Formalism_CoboundaryTransfers_GammaStableTransfers_IntegralWachDefinitions
+import Definitions.Def_Formalism_CoboundaryTransfers_WachBridges
+import Theorems.Thm_Formalism_CL_W_gammaImageProduct_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_cochainsSubmodules_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_cocycleLiftOfExact_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_cocyclesFinite_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_cokernelLengthBound_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_differentialsComplex_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_finiteClassesLift_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_gammaGradedStep_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_gammaImageProduct_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_gammaStableOfGammaQUnit_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_homPreservesCochains_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_integral_wach_definitions
+import Theorems.Thm_Formalism_CoboundaryTransfers_liftsAt_mono
+import Theorems.Thm_Formalism_CoboundaryTransfers_torsionKilledCriterion_holds
+import Theorems.Thm_Formalism_CoboundaryTransfers_wach_lattice_nonempty_Q
+import Theorems.Thm_Formalism_CoboundaryTransfers_wach_lattice_nonempty_gamma
+import Theorems.Thm_Formalism_CoboundaryTransfers_wach_lattice_nonempty_unramified
+import Theorems.Thm_Formalism_LIFT_gammaGradedStep_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Formalism Formalism.CoboundaryTransfers
+namespace Formalism.CoboundaryTransfers
+theorem _root_.solution : Complex ∧ Submods ∧ CocZf ∧ HomMaps ∧ GammaQNOf ∧ DiagramChase₂ ∧ CoboundaryTransfer ∧
+    GradedStep ∧ GammaOnto ∧ ColBound ∧ LiftHf ∧ Mono ∧ IntDefs ∧ NonemptyQ ∧ NonemptyU ∧
+    NonemptyG :=
+  ⟨differentialsComplex_holds, cochainsSubmodules_holds, cocyclesFinite_holds, homPreservesCochains_holds, gammaStableOfGammaQUnit_holds, cocycleLiftOfExact_holds,
+    torsionKilledCriterion_holds, gammaGradedStep_holds, gammaImageProduct_holds, cokernelLengthBound_holds, finiteClassesLift_holds, liftsAt_mono,
+    integral_wach_definitions, wach_lattice_nonempty_Q, wach_lattice_nonempty_unramified, wach_lattice_nonempty_gamma⟩
+end Formalism.CoboundaryTransfers

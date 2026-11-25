@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_frobG_splitTorus_pow
 -- name    : GlobalTheory.SS.frobG_splitTorus_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:21:54.217696+00:00
 -- url     : https://prove2.me/theorems/c2cd00cd-a2b8-5c79-b3a7-8142f1ced8af

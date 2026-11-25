@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HLsc_continuous_tp
 -- name    : Formalism.FourierDecayAlt.P.HLsc.continuous_tp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:26:18.477946+00:00
 -- url     : https://prove2.me/theorems/8e885391-0779-4bd7-bab0-95d0df86d2a7

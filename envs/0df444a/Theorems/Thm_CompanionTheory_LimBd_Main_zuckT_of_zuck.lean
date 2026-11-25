@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_zuckT_of_zuck
 -- name    : CompanionTheory.LimBd.Main.zuckT_of_zuck
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:18:29.102922+00:00
 -- url     : https://prove2.me/theorems/68930ff0-20d2-40d8-9161-819786cda156

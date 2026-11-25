@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLawCompare_locally_trivial_of_iso_pull
 -- name    : GlobalTheory.CubeLawCompare.locally_trivial_of_iso_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:03:40.479864+00:00
 -- url     : https://prove2.me/theorems/ea1fc184-2158-503a-a6dc-794015ba852a

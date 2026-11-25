@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lattice_x_eq_lambda_one
 -- name    : Formalism.FourierDecayAlt.P.lattice_x_eq_lambda_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:33:01.144796+00:00
 -- url     : https://prove2.me/theorems/45a00d2a-8089-4614-b629-0b191e15f3e9

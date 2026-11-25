@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_plane_gram_theorem_of_lemmas
 -- name    : Formalism.MainNotions.PlaneGram.plane_gram_theorem_of_lemmas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:33.265289+00:00
 -- url     : https://prove2.me/theorems/c2e473c5-ee41-40b7-ae01-945096423b34

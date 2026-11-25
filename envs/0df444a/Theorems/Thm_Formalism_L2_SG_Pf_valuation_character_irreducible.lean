@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_valuation_character_irreducible
 -- name    : Formalism.L2.SG.Pf.valuation_character_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:55:07.260328+00:00
 -- url     : https://prove2.me/theorems/c046cec2-d095-5753-9d2c-d5b75bc7b2f9

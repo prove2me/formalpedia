@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_middle_third_estimate
 -- name    : Formalism.FourierDecayAlt.P.middle_third_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:33:20.707453+00:00
 -- url     : https://prove2.me/theorems/8fd9791a-fca8-47d3-8b3c-7aa4d84da013

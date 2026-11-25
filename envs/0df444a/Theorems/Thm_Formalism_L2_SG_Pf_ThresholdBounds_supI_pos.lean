@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ThresholdBounds_supI_pos
 -- name    : Formalism.L2.SG.Pf.ThresholdBounds.supI_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:47:29.562102+00:00
 -- url     : https://prove2.me/theorems/7a1bd6ff-407f-5bf5-97db-67a8375be657

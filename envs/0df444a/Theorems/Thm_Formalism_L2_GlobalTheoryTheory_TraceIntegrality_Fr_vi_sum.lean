@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_TraceIntegrality_Fr_vi_sum
 -- name    : Formalism.L2.GlobalTheoryTheory.TraceIntegrality.Fr.vi_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:46:30.15809+00:00
 -- url     : https://prove2.me/theorems/4d21e016-a493-4692-b4b8-32f25820e209

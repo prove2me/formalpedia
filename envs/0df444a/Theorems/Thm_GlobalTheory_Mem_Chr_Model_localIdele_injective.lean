@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_Model_localIdele_injective
 -- name    : GlobalTheory.Mem.Chr.Model.localIdele_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:28.7348+00:00
 -- url     : https://prove2.me/theorems/457f3015-75c0-452f-ad53-0c4fb8fe59c4

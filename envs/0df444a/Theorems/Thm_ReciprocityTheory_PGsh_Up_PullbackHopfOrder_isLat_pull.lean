@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_PullbackHopfOrder_isLat_pull
 -- name    : ReciprocityTheory.PGsh.Up.PullbackHopfOrder.isLat_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:06:21.980013+00:00
 -- url     : https://prove2.me/theorems/155ad529-8e43-432b-ab93-febfd5203f6d

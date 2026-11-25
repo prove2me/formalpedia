@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjSize_sz_apow_of_le_one
 -- name    : GlobalTheory.ConjSize.sz_apow_of_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:02:38.71767+00:00
 -- url     : https://prove2.me/theorems/3998820a-4dfe-5104-bd7a-0a0547f64271

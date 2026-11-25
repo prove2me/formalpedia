@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_homLoc_bijective_of
 -- name    : GlobalTheory.exists_homLoc_bijective_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:58:20.424249+00:00
 -- url     : https://prove2.me/theorems/68a01b30-0d25-5eeb-a5ca-34061ff86068

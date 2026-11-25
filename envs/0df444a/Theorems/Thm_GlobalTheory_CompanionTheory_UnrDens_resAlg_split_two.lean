@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnrDens_resAlg_split_two
 -- name    : GlobalTheory.CompanionTheory.UnrDens.resAlg_split_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:01:42.696255+00:00
 -- url     : https://prove2.me/theorems/1052d817-cc5d-468b-8c6b-e7e3118260e6

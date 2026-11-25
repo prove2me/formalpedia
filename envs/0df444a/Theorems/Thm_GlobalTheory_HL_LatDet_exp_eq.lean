@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LatDet_exp_eq
 -- name    : GlobalTheory.HL.LatDet.exp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:22.305004+00:00
 -- url     : https://prove2.me/theorems/6ecc517e-780e-41a5-8ba5-92d6636c7955

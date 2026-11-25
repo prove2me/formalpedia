@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_sign_of_local_symbol
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.sign_of_local_symbol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:34.774809+00:00
 -- url     : https://prove2.me/theorems/e12bf305-bada-47d1-a288-f889f4169a38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_not_isSquare_skew
 -- name    : Formalism.HermitianLattices.Ext.L3.not_isSquare_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:45:40.711454+00:00
 -- url     : https://prove2.me/theorems/90982c8e-38d5-5014-a1a4-942da28aa643

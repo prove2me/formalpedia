@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_Funct_inner
 -- name    : GlobalTheory.HCXi.Funct.inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:21.946342+00:00
 -- url     : https://prove2.me/theorems/e77e75f5-9b6b-5e49-9629-9bacb3a13d54

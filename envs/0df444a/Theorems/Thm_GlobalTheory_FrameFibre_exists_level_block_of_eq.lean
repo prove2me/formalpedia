@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameFibre_exists_level_block_of_eq
 -- name    : GlobalTheory.FrameFibre.exists_level_block_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:29.053232+00:00
 -- url     : https://prove2.me/theorems/88ca8cd0-1aaf-4263-b1ab-e4f73e9b36dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GaugeR_jetTrunc_psJet
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GaugeR.jetTrunc_psJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:50:51.986094+00:00
 -- url     : https://prove2.me/theorems/1bd00ac8-1df5-5a22-a225-4235c411fc49

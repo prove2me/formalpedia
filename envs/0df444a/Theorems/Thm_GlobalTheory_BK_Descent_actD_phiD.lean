@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_actD_phiD
 -- name    : GlobalTheory.BK.Descent.actD_phiD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:05:00.72413+00:00
 -- url     : https://prove2.me/theorems/61e267bf-9b5a-4e34-8716-4d832318e1c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_E_existsSesqForm
 -- name    : Formalism.E.existsSesqForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:23.5553+00:00
 -- url     : https://prove2.me/theorems/5e6d15d4-6f99-4a15-bd63-d49a9a659b1f

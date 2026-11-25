@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_NCov_val_prime_pow_eq_zero
 -- name    : Formalism.L2.NCov.val_prime_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:45:34.426664+00:00
 -- url     : https://prove2.me/theorems/6e2ed846-aa3d-4312-ad0e-3292d57b8a24

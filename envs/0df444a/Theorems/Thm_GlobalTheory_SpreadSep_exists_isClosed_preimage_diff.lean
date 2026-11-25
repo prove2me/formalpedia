@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpreadSep_exists_isClosed_preimage_diff
 -- name    : GlobalTheory.SpreadSep.exists_isClosed_preimage_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:44:24.24654+00:00
 -- url     : https://prove2.me/theorems/10d5c722-28f3-49b5-96cd-2bcb2bb3b260

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_CohBaseChange_of_parts
 -- name    : GlobalTheory.AbCoh.CohBaseChange.of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:05:04.238943+00:00
 -- url     : https://prove2.me/theorems/81eccba0-4c25-41e3-aec9-d60c353185f0

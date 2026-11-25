@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_group_structure_descends_along_pullback
 -- name    : GlobalTheory.T.group_structure_descends_along_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:45:39.914235+00:00
 -- url     : https://prove2.me/theorems/59d263d1-fc14-439f-99d6-f15003fa64d6

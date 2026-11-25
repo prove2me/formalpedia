@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_second_kernel_property_kernel
 -- name    : Formalism.FourierDecayAlt.P.second_kernel_property_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:58.929461+00:00
 -- url     : https://prove2.me/theorems/5b033fde-e3ef-4df7-8403-c746ba0dc747

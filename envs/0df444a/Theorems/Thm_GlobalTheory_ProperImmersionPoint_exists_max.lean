@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_exists_max
 -- name    : GlobalTheory.ProperImmersionPoint.exists_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:50:58.863046+00:00
 -- url     : https://prove2.me/theorems/55122c2d-efa6-5cfa-93a7-d117e6aad6a9

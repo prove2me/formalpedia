@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_unipVal
 -- name    : unipVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:16:45.47859+00:00
 -- url     : https://prove2.me/theorems/ad9884c3-87ef-4eed-979e-c601e6eff071

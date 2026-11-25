@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffinePoints_complexPoints_manifold_and_dimension
 -- name    : GlobalTheory.AffinePoints.complexPoints_manifold_and_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:55:15.688768+00:00
 -- url     : https://prove2.me/theorems/c3898d7e-313b-4d4a-9741-dedb907ed41b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_ceiling_shift
 -- name    : Formalism.EigenvalueLevelCeiling.ceiling_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:36:25.828349+00:00
 -- url     : https://prove2.me/theorems/cd73ffcd-c958-4ca8-8698-5d96c350300b

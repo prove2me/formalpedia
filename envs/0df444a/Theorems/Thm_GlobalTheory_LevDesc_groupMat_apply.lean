@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_groupMat_apply
 -- name    : GlobalTheory.LevDesc.groupMat_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:06.032157+00:00
 -- url     : https://prove2.me/theorems/b09ddadd-47da-4791-ad7e-bbea3181039b

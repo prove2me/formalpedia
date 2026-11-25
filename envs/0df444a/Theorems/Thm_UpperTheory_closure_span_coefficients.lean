@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_closure_span_coefficients
 -- name    : UpperTheory.closure_span_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:12:52.214798+00:00
 -- url     : https://prove2.me/theorems/acf4d3c4-bc46-47b3-8b56-2bece56849bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_baseHom_apply
 -- name    : GlobalTheory.QCoh.baseHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:18:25.122403+00:00
 -- url     : https://prove2.me/theorems/46286be6-0d0e-5ca2-9a66-dc54e3af759b

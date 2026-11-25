@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_linSub_cayDet
 -- name    : ReciprocityTheory.PGsh.linSub_cayDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:08:56.786213+00:00
 -- url     : https://prove2.me/theorems/5de1a958-9641-54d6-9bd4-f7f0b02a3e57

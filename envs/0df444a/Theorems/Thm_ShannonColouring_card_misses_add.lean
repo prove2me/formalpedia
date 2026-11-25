@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_card_misses_add
 -- name    : ShannonColouring.card_misses_add
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:02:44.920575+00:00
 -- url     : https://prove2.me/theorems/5e140e7f-47b7-5c6b-ba97-baa9b377c6ef

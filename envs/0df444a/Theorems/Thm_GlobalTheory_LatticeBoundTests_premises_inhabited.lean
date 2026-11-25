@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeBoundTests_premises_inhabited
 -- name    : GlobalTheory.LatticeBoundTests.premises_inhabited
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:12:58.061498+00:00
 -- url     : https://prove2.me/theorems/7b3126b9-11e7-5573-8eee-05adb8b9a744

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_mem_invOf
 -- name    : GlobalTheory.BK.Descent.mem_invOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:29.436833+00:00
 -- url     : https://prove2.me/theorems/c18163d2-70c2-46b5-a7ce-d5df091e02ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_FlagModel_isUnit_det_g
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.FlagModel.isUnit_det_g
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:49.704951+00:00
 -- url     : https://prove2.me/theorems/98e796a1-02f9-49b7-b6eb-2dae2134c5de

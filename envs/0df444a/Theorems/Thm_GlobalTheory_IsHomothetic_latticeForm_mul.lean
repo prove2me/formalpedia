@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsHomothetic_latticeForm_mul
 -- name    : GlobalTheory.IsHomothetic.latticeForm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:16.992526+00:00
 -- url     : https://prove2.me/theorems/d0774226-21fe-47e9-8118-2cb9cf706663

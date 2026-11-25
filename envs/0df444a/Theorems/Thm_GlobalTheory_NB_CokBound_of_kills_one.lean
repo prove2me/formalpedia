@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_CokBound_of_kills_one
 -- name    : GlobalTheory.NB.CokBound.of_kills_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:22.51517+00:00
 -- url     : https://prove2.me/theorems/911287b8-358a-5318-99f7-bcff8d1e9e26

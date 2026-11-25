@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularQuotient_quotient_span_range
 -- name    : GlobalTheory.RegularQuotient.quotient_span_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:19:40.101967+00:00
 -- url     : https://prove2.me/theorems/e9829bf9-10ea-542f-b4eb-2cb6ceb99008

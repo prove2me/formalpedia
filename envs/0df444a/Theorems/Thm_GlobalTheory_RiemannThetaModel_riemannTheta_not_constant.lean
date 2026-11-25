@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_riemannTheta_not_constant
 -- name    : GlobalTheory.RiemannThetaModel.riemannTheta_not_constant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:33.316794+00:00
 -- url     : https://prove2.me/theorems/a246058b-a210-4b82-80c1-7daf36abf148

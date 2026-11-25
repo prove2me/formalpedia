@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_residue_partial_fractions
 -- name    : Formalism.FourierDecayAlt.P.residue_partial_fractions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:43:25.449244+00:00
 -- url     : https://prove2.me/theorems/1667b589-b3b7-42ef-a8e0-ab88229f22a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_ED_eq_of_dot
 -- name    : ReciprocityTheory.PGsh.Up.ED.eq_of_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:07:10.883279+00:00
 -- url     : https://prove2.me/theorems/d4080462-fc9c-54e1-9d4a-feaab27f8f56

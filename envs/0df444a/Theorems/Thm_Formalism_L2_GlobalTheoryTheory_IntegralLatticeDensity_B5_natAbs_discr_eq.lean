@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_B5_natAbs_discr_eq
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.B5.natAbs_discr_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:45:01.145087+00:00
 -- url     : https://prove2.me/theorems/6647be92-5c60-4fc4-a334-ca90a79a9fd1

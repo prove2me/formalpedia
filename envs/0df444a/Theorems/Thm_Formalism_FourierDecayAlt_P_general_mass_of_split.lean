@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_general_mass_of_split
 -- name    : Formalism.FourierDecayAlt.P.general_mass_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:38:40.38079+00:00
 -- url     : https://prove2.me/theorems/6d101685-625b-4934-909f-d6b6f887ec15

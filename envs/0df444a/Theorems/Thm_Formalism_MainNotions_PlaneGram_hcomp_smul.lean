@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_hcomp_smul
 -- name    : Formalism.MainNotions.PlaneGram.hcomp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:36.276797+00:00
 -- url     : https://prove2.me/theorems/a49870b0-e2b1-452f-a516-db1fd0efbfd6

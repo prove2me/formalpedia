@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_iota_nsmul
 -- name    : Formalism.HC.Frame.iota_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:38.047056+00:00
 -- url     : https://prove2.me/theorems/8a049908-cab4-44e9-a48c-9787621150d1

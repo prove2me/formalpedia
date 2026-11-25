@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_brauerDegreeZero
 -- name    : GlobalTheory.BrauerZero.brauerDegreeZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:39.770077+00:00
 -- url     : https://prove2.me/theorems/cc7d4d9a-327a-5505-8882-ab1248fced21

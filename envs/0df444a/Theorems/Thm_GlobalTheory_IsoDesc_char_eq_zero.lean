@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_char_eq_zero
 -- name    : GlobalTheory.IsoDesc.char_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:07:34.103325+00:00
 -- url     : https://prove2.me/theorems/0e6e4d9e-0098-5121-bc54-81e794b22fd9

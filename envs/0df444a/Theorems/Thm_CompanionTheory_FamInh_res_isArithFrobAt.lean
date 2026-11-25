@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_FamInh_res_isArithFrobAt
 -- name    : CompanionTheory.FamInh.res_isArithFrobAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:17:24.660685+00:00
 -- url     : https://prove2.me/theorems/b6b0554c-1501-59f3-a1ea-c06a5d74609b

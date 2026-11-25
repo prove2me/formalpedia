@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_TopData_card_Ut
 -- name    : GlobalTheory.AdmLoc.TopData.card_Ut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:55:43.726782+00:00
 -- url     : https://prove2.me/theorems/671b17fc-c8ee-5855-9f8d-24c6b3a44650

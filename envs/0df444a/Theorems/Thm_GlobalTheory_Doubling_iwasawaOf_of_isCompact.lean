@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_iwasawaOf_of_isCompact
 -- name    : GlobalTheory.Doubling.iwasawaOf_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:10:36.543251+00:00
 -- url     : https://prove2.me/theorems/e3d79a63-5d6f-5c90-bc55-f8df3ca172ee

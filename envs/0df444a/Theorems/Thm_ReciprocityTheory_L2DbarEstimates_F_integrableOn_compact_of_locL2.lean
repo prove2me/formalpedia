@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_integrableOn_compact_of_locL2
 -- name    : ReciprocityTheory.L2DbarEstimates.F.integrableOn_compact_of_locL2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:30:49.145+00:00
 -- url     : https://prove2.me/theorems/03459639-ec48-4055-8b0e-3257f972548a

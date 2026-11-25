@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_qExpansion_monoW
 -- name    : ReciprocityTheory.PGsh.qExpansion_monoW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:09:22.710607+00:00
 -- url     : https://prove2.me/theorems/399b9ede-9382-5d5c-b923-53fba2747968

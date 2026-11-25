@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_hostApprox
 -- name    : UpperTheory.Mu.hostApprox
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:55:50.296205+00:00
 -- url     : https://prove2.me/theorems/9f57f31a-eae2-4d6e-afd6-b29cf34017f8

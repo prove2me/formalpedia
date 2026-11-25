@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_dualWeylModuleDominanceOfSpan
 -- name    : Formalism.GradedWeylDivisibility.dualWeylModuleDominanceOfSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:46.681738+00:00
 -- url     : https://prove2.me/theorems/a08b7d8b-6d12-4d0b-84a4-91b7ab85c4ab

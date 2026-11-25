@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fIwasawa_K_int
 -- name    : Formalism.UG.P.fIwasawa_K_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:16.693147+00:00
 -- url     : https://prove2.me/theorems/29fbaefa-14d8-5eb9-bb5f-8ef5496432c0

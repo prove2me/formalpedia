@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_family_place
 -- name    : GlobalTheory.Reg.Transfer.family_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:18:33.622129+00:00
 -- url     : https://prove2.me/theorems/3e56ee07-bd06-49f4-b5a1-9736c533358c

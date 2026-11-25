@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_inclE_conj
 -- name    : GlobalTheory.RegSS.inclE_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:44.551133+00:00
 -- url     : https://prove2.me/theorems/420cd3da-a1d7-58e8-850d-5b2208e14743

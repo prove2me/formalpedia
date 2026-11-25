@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclicNormCheck_local_conditions_of_global
 -- name    : GlobalTheory.CyclicNormCheck.local_conditions_of_global
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:12.160811+00:00
 -- url     : https://prove2.me/theorems/60910320-7506-579d-94f2-df493656adc9

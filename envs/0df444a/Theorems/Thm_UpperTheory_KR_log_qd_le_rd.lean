@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_KR_log_qd_le_rd
 -- name    : UpperTheory.KR.log_qd_le_rd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:33:12.32447+00:00
 -- url     : https://prove2.me/theorems/4bb6c869-98b1-458d-95f7-6deb60179b4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_hermitianFormColumns_mulVec_eq_star
 -- name    : Formalism.HermitianLattices.Ext.L3.hermitianFormColumns.mulVec_eq_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:51:29.964864+00:00
 -- url     : https://prove2.me/theorems/868f36af-b12b-5001-a823-e37771f89a05

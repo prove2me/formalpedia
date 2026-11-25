@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LevelActionTransitions_exists_sends
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LevelActionTransitions.exists_sends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:36.362061+00:00
 -- url     : https://prove2.me/theorems/4891477d-edbc-5e34-8c15-dc5ec6c6bd7e

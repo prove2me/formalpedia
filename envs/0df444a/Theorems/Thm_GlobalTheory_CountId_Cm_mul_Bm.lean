@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_Cm_mul_Bm
 -- name    : GlobalTheory.CountId.Cm_mul_Bm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:47.73223+00:00
 -- url     : https://prove2.me/theorems/e1cdeb94-6f22-4a06-8954-cc81e3970fbd

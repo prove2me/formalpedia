@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_SphericalEisensteinCover_exists_basis
 -- name    : GlobalTheory.FlagPts.SphericalEisensteinCover.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:04:55.829551+00:00
 -- url     : https://prove2.me/theorems/08696301-e18b-5249-b750-03d2ae92d2a1

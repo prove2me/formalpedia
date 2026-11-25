@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussWidths_all_widths_of_conv
 -- name    : GlobalTheory.GaussWidths.all_widths_of_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:48.885624+00:00
 -- url     : https://prove2.me/theorems/4340a6f1-d67a-4b91-b4f7-4f3f8a80b422

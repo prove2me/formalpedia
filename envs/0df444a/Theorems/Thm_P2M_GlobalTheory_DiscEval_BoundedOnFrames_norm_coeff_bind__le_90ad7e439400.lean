@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DiscEval_BoundedOnFrames_norm_coeff_bind__le_90ad7e439400
 -- name    : P2M_GlobalTheory_DiscEval_BoundedOnFrames_norm_coeff_bind__le_90ad7e439400
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:03:52.851006+00:00
 -- url     : https://prove2.me/theorems/8c57a125-2277-4475-9958-9fd6fe81f268

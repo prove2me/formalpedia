@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_weighted_mean_lemma_of_slopes
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.weighted_mean_lemma_of_slopes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:49:38.426262+00:00
 -- url     : https://prove2.me/theorems/e1ef53f2-0395-512e-82b8-58d401654cca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_posSemidef_quadratic_adjoint_pair_bound
 -- name    : GlobalTheory.T.posSemidef_quadratic_adjoint_pair_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:23.036556+00:00
 -- url     : https://prove2.me/theorems/48938b98-756f-49aa-a5f0-55ee4cad6365

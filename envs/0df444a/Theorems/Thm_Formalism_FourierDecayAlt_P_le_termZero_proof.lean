@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_termZero_proof
 -- name    : Formalism.FourierDecayAlt.P.le_termZero_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:46.753502+00:00
 -- url     : https://prove2.me/theorems/687a6b5b-a17d-4de7-9f92-7d04ea2c7f86

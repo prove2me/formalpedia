@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FirstKernelProperties_th1All
 -- name    : Formalism.FourierDecayAlt.P.FirstKernelProperties.th1All
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:35:29.183413+00:00
 -- url     : https://prove2.me/theorems/cc051df2-6900-461b-903e-58052cf3c385

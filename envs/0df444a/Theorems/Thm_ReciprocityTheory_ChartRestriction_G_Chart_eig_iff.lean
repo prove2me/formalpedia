@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_eig_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.eig_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:08:16.030787+00:00
 -- url     : https://prove2.me/theorems/771d2d18-c9a4-4fdc-a28c-9e18633d09e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_local_sum_exact
 -- name    : Formalism.EigenvalueLevelCeiling.local_sum_exact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:01.091267+00:00
 -- url     : https://prove2.me/theorems/66f33a89-166a-4536-95a8-62dff603bc20

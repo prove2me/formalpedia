@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_zero_of_pow_eq_zero_of_mem_adjoin_of_charpoly_separable
 -- name    : GlobalTheory.T.eq_zero_of_pow_eq_zero_of_mem_adjoin_of_charpoly_separable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:28:20.564188+00:00
 -- url     : https://prove2.me/theorems/155ca5bd-b185-4ab3-9e83-077189ed4df2

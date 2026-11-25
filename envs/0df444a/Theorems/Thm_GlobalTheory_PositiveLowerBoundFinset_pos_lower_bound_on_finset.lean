@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PositiveLowerBoundFinset_pos_lower_bound_on_finset
 -- name    : GlobalTheory.PositiveLowerBoundFinset.pos_lower_bound_on_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:16:52.418823+00:00
 -- url     : https://prove2.me/theorems/3bd7bad8-423f-450c-bb9c-3230837fb26a

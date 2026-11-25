@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_SectionsFourToSixTransfer_Model_hak
 -- name    : Formalism.LFunctionChainParameters.SectionsFourToSixTransfer.Model.hak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:51:49.497499+00:00
 -- url     : https://prove2.me/theorems/aace663f-4894-4418-b421-f5a409345da5

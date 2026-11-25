@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CentralizerTensorForms_isRegular_exElt
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CentralizerTensorForms.isRegular_exElt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:35.159804+00:00
 -- url     : https://prove2.me/theorems/fc1e93a8-cd43-46d1-93fa-9d3eda22d132

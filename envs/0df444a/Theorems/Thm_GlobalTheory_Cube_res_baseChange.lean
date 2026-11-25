@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_res_baseChange
 -- name    : GlobalTheory.Cube.res_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:56.509157+00:00
 -- url     : https://prove2.me/theorems/d84926ad-46b1-4e07-942e-e70f735881b0

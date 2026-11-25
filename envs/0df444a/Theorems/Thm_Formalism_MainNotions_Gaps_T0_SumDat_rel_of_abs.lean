@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_SumDat_rel_of_abs
 -- name    : Formalism.MainNotions.Gaps.T0.SumDat.rel_of_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:50:10.375735+00:00
 -- url     : https://prove2.me/theorems/105f7034-ad3e-4f3b-9f6b-0f30bc70ae39

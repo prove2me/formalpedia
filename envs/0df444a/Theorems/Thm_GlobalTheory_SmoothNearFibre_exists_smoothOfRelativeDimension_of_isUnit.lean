@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothNearFibre_exists_smoothOfRelativeDimension_of_isUnit
 -- name    : GlobalTheory.SmoothNearFibre.exists_smoothOfRelativeDimension_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:49:41.731909+00:00
 -- url     : https://prove2.me/theorems/81901555-cd7c-51d0-8c8c-e9361d9abb47

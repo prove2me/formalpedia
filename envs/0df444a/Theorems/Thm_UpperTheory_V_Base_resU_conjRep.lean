@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_resU_conjRep
 -- name    : UpperTheory.V.Base.resU_conjRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:13:10.454963+00:00
 -- url     : https://prove2.me/theorems/c5993388-77ee-4224-b8c3-59075bb30c98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateImage_existsUnique_isAl
 -- name    : GlobalTheory.HodgeTateImage.existsUnique_isAl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:23.470791+00:00
 -- url     : https://prove2.me/theorems/3b1a9dc1-81b6-4983-927d-151803688d7a

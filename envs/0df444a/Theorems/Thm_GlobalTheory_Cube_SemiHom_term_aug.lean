@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_SemiHom_term_aug
 -- name    : GlobalTheory.Cube.SemiHom.term_aug
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:03:17.176177+00:00
 -- url     : https://prove2.me/theorems/364e5b93-a1d5-5d6d-9db9-ae7bbdfd665b

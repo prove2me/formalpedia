@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rigidified_sym_boxLB
 -- name    : GlobalTheory.rigidified_sym_boxLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:17:41.825951+00:00
 -- url     : https://prove2.me/theorems/70bd5805-643b-4f43-b3b1-d2e466e5b9b9

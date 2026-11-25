@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_radRatio_odd
 -- name    : ReciprocityTheory.MultiplicativeHeights.radRatio_odd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:13:43.374965+00:00
 -- url     : https://prove2.me/theorems/25903342-5a7b-4bb8-99cd-b8fffa67bbbc

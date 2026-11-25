@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CorankShareLayerCake_FR_frame_linear_algebra_bound
 -- name    : Formalism.CorankShareLayerCake.FR.frame_linear_algebra_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:36.018051+00:00
 -- url     : https://prove2.me/theorems/ccd026ff-547e-40b2-89a5-c7b35703764c

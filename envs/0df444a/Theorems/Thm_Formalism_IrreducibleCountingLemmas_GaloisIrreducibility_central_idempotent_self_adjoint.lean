@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_central_idempotent_self_adjoint
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.central_idempotent_self_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:42:23.684641+00:00
 -- url     : https://prove2.me/theorems/333e028b-bbc5-58d9-bd4a-2c36b5ce949d

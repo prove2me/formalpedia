@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_step_of_right_mul
 -- name    : GlobalTheory.MixedSignature.step_of_right_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:07:11.070642+00:00
 -- url     : https://prove2.me/theorems/76b41497-8888-582b-8fd5-318e01532523

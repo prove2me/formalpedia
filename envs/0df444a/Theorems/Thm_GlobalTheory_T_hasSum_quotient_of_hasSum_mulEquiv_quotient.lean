@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_quotient_of_hasSum_mulEquiv_quotient
 -- name    : GlobalTheory.T.hasSum_quotient_of_hasSum_mulEquiv_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:28.467381+00:00
 -- url     : https://prove2.me/theorems/3a2b42cd-d0e4-589b-a938-116399641b83

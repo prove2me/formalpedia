@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_grCube_hom_bijective
 -- name    : GlobalTheory.exists_grCube_hom_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:07:02.052785+00:00
 -- url     : https://prove2.me/theorems/102dfd74-bf95-5472-9fb8-30adccd671a4

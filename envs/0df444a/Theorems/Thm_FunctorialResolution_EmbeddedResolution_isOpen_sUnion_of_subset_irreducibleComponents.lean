@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isOpen_sUnion_of_subset_irreducibleComponents
 -- name    : FunctorialResolution.EmbeddedResolution.isOpen_sUnion_of_subset_irreducibleComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:57:36.657106+00:00
 -- url     : https://prove2.me/theorems/8531fbf8-beb7-5edc-8dd7-1b19433b43d6

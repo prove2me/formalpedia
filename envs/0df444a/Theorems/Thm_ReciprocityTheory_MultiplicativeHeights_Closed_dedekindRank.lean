@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_dedekindRank
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.dedekindRank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:32:10.481321+00:00
 -- url     : https://prove2.me/theorems/7dce537a-92e6-477b-ab67-4e0e43e852b7

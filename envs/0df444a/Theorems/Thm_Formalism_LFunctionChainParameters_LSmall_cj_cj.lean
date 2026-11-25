@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LSmall_cj_cj
 -- name    : Formalism.LFunctionChainParameters.LSmall.cj_cj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:15.689602+00:00
 -- url     : https://prove2.me/theorems/ae422e18-3c4c-4632-adca-5b1af6b931a9

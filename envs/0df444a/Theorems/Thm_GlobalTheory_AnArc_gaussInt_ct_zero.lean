@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_gaussInt_ct_zero
 -- name    : GlobalTheory.AnArc.gaussInt_ct_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:55:44.928179+00:00
 -- url     : https://prove2.me/theorems/31e54e53-3af0-4aac-8047-5df468ae65f3

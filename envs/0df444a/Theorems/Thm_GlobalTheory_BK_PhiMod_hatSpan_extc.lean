@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_hatSpan_extc
 -- name    : GlobalTheory.BK.PhiMod.hatSpan_extc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:56:37.391555+00:00
 -- url     : https://prove2.me/theorems/eafa3c72-4ac6-4e89-ba06-65e0b2510046

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_localConditionsFamily_of_weighted
 -- name    : Formalism.EigenvalueLevelCeiling.localConditionsFamily_of_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:43:25.169108+00:00
 -- url     : https://prove2.me/theorems/75fac20c-870b-5af5-bba6-9230f5609e8f

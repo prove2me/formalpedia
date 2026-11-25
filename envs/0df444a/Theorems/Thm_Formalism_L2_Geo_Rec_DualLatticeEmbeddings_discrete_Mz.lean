@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Rec_DualLatticeEmbeddings_discrete_Mz
 -- name    : Formalism.L2.Geo.Rec.DualLatticeEmbeddings.discrete_Mz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:45:27.844796+00:00
 -- url     : https://prove2.me/theorems/9f6d0aca-e84e-4691-b0ad-a723c92cb2fb

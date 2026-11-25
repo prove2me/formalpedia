@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_exists_fg_points
 -- name    : GlobalTheory.Spread.exists_fg_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:28:47.151051+00:00
 -- url     : https://prove2.me/theorems/51817337-b924-4361-99b8-6a1385644a00

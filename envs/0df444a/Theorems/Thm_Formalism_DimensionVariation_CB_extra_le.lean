@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_CB_extra_le
 -- name    : Formalism.DimensionVariation.CB.extra_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:26:36.685004+00:00
 -- url     : https://prove2.me/theorems/bfdcc2c3-86b6-4e4a-a6fa-4c79ce2d6a32

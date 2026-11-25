@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_matrix_translation_modulation_irreducible
 -- name    : GlobalTheory.T.schwartzBruhat_matrix_translation_modulation_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:11.04586+00:00
 -- url     : https://prove2.me/theorems/1c9cf7fe-0138-4648-a9b2-045967ee66db

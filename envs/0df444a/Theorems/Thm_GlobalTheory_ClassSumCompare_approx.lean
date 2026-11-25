@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassSumCompare_approx
 -- name    : GlobalTheory.ClassSumCompare.approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:59:45.224952+00:00
 -- url     : https://prove2.me/theorems/fb9e520d-12bb-4fb5-8967-a0935d53411d

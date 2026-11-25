@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_RamifiedPlacesSplitEigen_IsDetSection_smul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.RamifiedPlacesSplitEigen.IsDetSection.smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:36:07.529253+00:00
 -- url     : https://prove2.me/theorems/80fd2ab0-87a1-45cd-a4a7-8d04603a64a8

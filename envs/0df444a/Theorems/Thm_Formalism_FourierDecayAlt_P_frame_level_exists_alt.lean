@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_level_exists_alt
 -- name    : Formalism.FourierDecayAlt.P.frame_level_exists_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:30:19.703843+00:00
 -- url     : https://prove2.me/theorems/b07c85e6-2182-5267-9853-42bdb06a602d

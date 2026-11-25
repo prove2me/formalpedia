@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteDimensional_functionField_stalk_imageGenericPoint
 -- name    : GlobalTheory.T.finiteDimensional_functionField_stalk_imageGenericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:31:12.050125+00:00
 -- url     : https://prove2.me/theorems/b6144f40-df51-48b6-83b1-df3f19421d08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_DeterminantValuationBounds_pow_stable
 -- name    : ReciprocityTheory.PGsh.Up.DeterminantValuationBounds.pow_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:50.859804+00:00
 -- url     : https://prove2.me/theorems/0209cbd9-ac3b-49e3-811f-75c2c46ed66e

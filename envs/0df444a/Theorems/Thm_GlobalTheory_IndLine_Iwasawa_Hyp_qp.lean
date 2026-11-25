@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndLine_Iwasawa_Hyp_qp
 -- name    : GlobalTheory.IndLine.Iwasawa.Hyp.qp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:07:48.724284+00:00
 -- url     : https://prove2.me/theorems/4e6ce21a-4d0c-41ec-bd6f-4c3c047df9ea

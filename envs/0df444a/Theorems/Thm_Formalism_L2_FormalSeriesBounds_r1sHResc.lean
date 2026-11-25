@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_r1sHResc
 -- name    : Formalism.L2.FormalSeriesBounds.r1sHResc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:42.603992+00:00
 -- url     : https://prove2.me/theorems/e8ac2383-4341-519a-8afd-b8e8546ae0bc

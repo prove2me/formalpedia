@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_primeLogSum
 -- name    : Formalism.DivisionValues.primeLogSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:34:25.481731+00:00
 -- url     : https://prove2.me/theorems/e8574265-aeaf-5bc6-979e-25523600db2c

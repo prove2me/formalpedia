@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InvariantEKF_car_log_error_linear
 -- name    : InvariantEKF.car_log_error_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T01:16:13.320784+00:00
 -- url     : https://prove2.me/theorems/fcf88d63-8e5e-471d-81f2-ab66c63aa47d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RigidLinearisation_exists_linearisation
 -- name    : GlobalTheory.RigidLinearisation.exists_linearisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:24:59.204232+00:00
 -- url     : https://prove2.me/theorems/4ba4c0c9-fedb-4227-a6cf-2c95aed61297

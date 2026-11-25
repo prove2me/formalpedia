@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCocycle_PullsBack_cancel
 -- name    : GlobalTheory.ThetaCocycle.PullsBack.cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:05:08.084286+00:00
 -- url     : https://prove2.me/theorems/e08c6396-05bb-44d4-896b-914d6b563402

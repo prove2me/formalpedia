@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_numerical_exponent
 -- name    : Formalism.FourierDecayAlt.P.numerical_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:36.613345+00:00
 -- url     : https://prove2.me/theorems/7c230c1f-bcad-4a9e-8bd7-ce0514498e35

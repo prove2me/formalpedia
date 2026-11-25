@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DiscEval_coeffPoly_bind__ea251764de75
 -- name    : P2M_GlobalTheory_DiscEval_coeffPoly_bind__ea251764de75
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:56:34.139918+00:00
 -- url     : https://prove2.me/theorems/2e0e3ad4-e422-5d01-b235-588da4d121b5

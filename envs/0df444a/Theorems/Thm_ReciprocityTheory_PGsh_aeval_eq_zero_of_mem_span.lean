@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_aeval_eq_zero_of_mem_span
 -- name    : ReciprocityTheory.PGsh.aeval_eq_zero_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:18.024415+00:00
 -- url     : https://prove2.me/theorems/0ae1ea82-276e-47be-8603-f1b3b3503ad1

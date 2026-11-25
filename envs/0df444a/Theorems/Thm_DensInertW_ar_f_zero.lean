@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_ar_f_zero
 -- name    : DensInertW.ar_f_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:58.297336+00:00
 -- url     : https://prove2.me/theorems/ac9a0a0e-3c99-50b6-ba4f-b7b42929d393

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCount_lamIdeal_unit
 -- name    : GlobalTheory.Hk.RayCount.lamIdeal_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:07:37.878278+00:00
 -- url     : https://prove2.me/theorems/77348bbb-3dcb-4708-8827-14fe08c59f06

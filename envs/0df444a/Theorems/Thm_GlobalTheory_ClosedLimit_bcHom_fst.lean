@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedLimit_bcHom_fst
 -- name    : GlobalTheory.ClosedLimit.bcHom_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:51:25.14397+00:00
 -- url     : https://prove2.me/theorems/ab29c873-9130-43eb-b943-be75bfbf3559

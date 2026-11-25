@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_idempotentNormalForms_fact
 -- name    : Formalism.NG.idempotentNormalForms_fact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:51:24.64546+00:00
 -- url     : https://prove2.me/theorems/e36db829-207d-5704-b03d-5f096194b171

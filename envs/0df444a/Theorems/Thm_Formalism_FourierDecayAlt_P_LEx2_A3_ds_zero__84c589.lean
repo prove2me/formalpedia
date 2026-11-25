@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_A3_ds_zero__84c589
 -- name    : Formalism.FourierDecayAlt.P.LEx2.A3.ds_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:43.129951+00:00
 -- url     : https://prove2.me/theorems/84c589c1-983b-4f56-ad96-a4d041281a8f

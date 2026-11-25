@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_nonempty_cyclic_odd
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.nonempty_cyclic_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:50:38.254843+00:00
 -- url     : https://prove2.me/theorems/3b362a02-84d6-4140-89ac-f1a681e735aa

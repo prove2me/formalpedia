@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_card_incident_lt
 -- name    : ShannonColouring.card_incident_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:02:41.129142+00:00
 -- url     : https://prove2.me/theorems/0aeb10ab-7c69-5222-9029-77fb86b46e9f

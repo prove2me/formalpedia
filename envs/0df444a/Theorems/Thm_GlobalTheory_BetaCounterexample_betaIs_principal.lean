@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaCounterexample_betaIs_principal
 -- name    : GlobalTheory.BetaCounterexample.betaIs_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:03:00.687797+00:00
 -- url     : https://prove2.me/theorems/45f10000-37fb-5063-abca-7b71a09bf455

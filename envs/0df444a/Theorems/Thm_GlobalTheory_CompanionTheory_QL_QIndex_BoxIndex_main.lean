@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_QIndex_BoxIndex_main
 -- name    : GlobalTheory.CompanionTheory.QL.QIndex.BoxIndex.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:44.893845+00:00
 -- url     : https://prove2.me/theorems/21c05a68-b888-4a72-b5bf-56a269c23e65

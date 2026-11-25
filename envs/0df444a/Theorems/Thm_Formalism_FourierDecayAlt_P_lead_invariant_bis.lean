@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lead_invariant_bis
 -- name    : Formalism.FourierDecayAlt.P.lead_invariant_bis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:33:17.417678+00:00
 -- url     : https://prove2.me/theorems/1cb9cf43-872f-41a3-bca1-5712f465a050

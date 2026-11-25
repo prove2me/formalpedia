@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_pow_eq_one_of_cover
 -- name    : GlobalTheory.CoverGlue.pow_eq_one_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:28:01.091359+00:00
 -- url     : https://prove2.me/theorems/01b9e614-d661-45b4-a31e-e208f78c495d

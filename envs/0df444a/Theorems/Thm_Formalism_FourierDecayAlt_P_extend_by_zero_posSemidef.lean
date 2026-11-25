@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_extend_by_zero_posSemidef
 -- name    : Formalism.FourierDecayAlt.P.extend_by_zero_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:36:41.651414+00:00
 -- url     : https://prove2.me/theorems/d2ef2848-d1a9-5169-b8ff-545ec13e9494

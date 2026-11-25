@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flatMaps_preserve_schwartzBruhat_and_surjective
 -- name    : GlobalTheory.T.flatMaps_preserve_schwartzBruhat_and_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:46.416697+00:00
 -- url     : https://prove2.me/theorems/d022be2e-4514-463c-92fb-539fa45e1c65

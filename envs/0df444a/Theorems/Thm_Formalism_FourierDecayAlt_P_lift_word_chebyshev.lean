@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lift_word_chebyshev
 -- name    : Formalism.FourierDecayAlt.P.lift_word_chebyshev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:33:33.555692+00:00
 -- url     : https://prove2.me/theorems/80450dd0-e6fa-4073-87e1-f996d9013c77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecSpread_exists_spread
 -- name    : GlobalTheory.SecSpread.exists_spread
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:55:38.141685+00:00
 -- url     : https://prove2.me/theorems/0c14a990-e73b-409a-a582-29d41d6e385d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_l1Norm_rename_of_injective
 -- name    : GlobalTheory.MvPoly.l1Norm_rename_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:18.598809+00:00
 -- url     : https://prove2.me/theorems/3181725d-2be1-5742-b9dd-6554d37938fb

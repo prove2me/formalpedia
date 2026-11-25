@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_IwasawaDecomposition
 -- name    : GlobalTheory.T.IwasawaDecomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:20.020803+00:00
 -- url     : https://prove2.me/theorems/3d7c0d46-09b3-4537-a5d6-7610bc0083a5

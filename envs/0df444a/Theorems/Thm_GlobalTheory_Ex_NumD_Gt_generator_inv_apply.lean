@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Gt_generator_inv_apply
 -- name    : GlobalTheory.Ex.NumD.Gt.generator_inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:09.413129+00:00
 -- url     : https://prove2.me/theorems/4b2d96cd-cb98-576c-975b-321533a22adc

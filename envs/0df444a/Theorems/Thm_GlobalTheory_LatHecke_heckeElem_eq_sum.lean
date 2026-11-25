@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatHecke_heckeElem_eq_sum
 -- name    : GlobalTheory.LatHecke.heckeElem_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:12:59.967248+00:00
 -- url     : https://prove2.me/theorems/2ea9d314-220a-49f0-9a8b-24e566de185a

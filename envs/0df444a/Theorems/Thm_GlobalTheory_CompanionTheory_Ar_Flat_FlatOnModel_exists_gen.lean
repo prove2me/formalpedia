@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_FlatOnModel_exists_gen
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.FlatOnModel.exists_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:14.960806+00:00
 -- url     : https://prove2.me/theorems/f01152a8-1d15-4d88-a96d-1486e59a1dea

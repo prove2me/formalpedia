@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_selfReciprocalInvAlg_with_poly
 -- name    : GlobalTheory.T.exists_selfReciprocalInvAlg_with_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:15.379202+00:00
 -- url     : https://prove2.me/theorems/6660bcb9-9dcd-4120-a6a5-05f16881d872

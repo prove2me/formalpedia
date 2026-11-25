@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_zero_of_orthogonal_schrodinger_gaussian
 -- name    : GlobalTheory.T.eq_zero_of_orthogonal_schrodinger_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:28:22.820274+00:00
 -- url     : https://prove2.me/theorems/c153b7f9-39d8-4c18-bd9c-abeeac54c61d

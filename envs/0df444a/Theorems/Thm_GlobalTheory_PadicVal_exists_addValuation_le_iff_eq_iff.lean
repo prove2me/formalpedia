@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicVal_exists_addValuation_le_iff_eq_iff
 -- name    : GlobalTheory.PadicVal.exists_addValuation_le_iff_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:56.776102+00:00
 -- url     : https://prove2.me/theorems/9cb5981d-05ae-57df-9ca3-401551327c30

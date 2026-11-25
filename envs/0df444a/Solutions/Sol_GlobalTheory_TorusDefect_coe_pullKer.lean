@@ -1,0 +1,54 @@
+-- Prove2me | solution 1 for GlobalTheory.TorusDefect.coe_pullKer
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T15:48:54.551592+00:00
+-- url     : https://prove2.me/submissions/ebe682ad-f420-4537-9d89-06a5f389b35b
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_CubeVal
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsMonHomOfMul
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_IsNsmul
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_QkToAkU
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ReductionSurjectiveOfIsNilpotent
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_LeftEqIffLieVecSmul
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_HomBaseChangeBijectiveOfLeNilradical
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FoundationProofs_IsUnitAddMonoidAlgebraIffOfTwoUniqueSums
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UniformizationProofs_ExistsIsMonHomSplitTorusOfSqEqBot
+import Theorems.Thm_GlobalTheory_SqZero_UnitInChart_map
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_spMap_comp
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_spMap_id
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_spMap_left
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_isMonHom_of_mul
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_spMap_comp
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open CategoryTheory CategoryTheory.Limits MonoidalCategory CartesianMonoidalCategory MonObj
+  AlgebraicGeometry
+open ReciprocityTheory.ChartRestriction.G.Semi
+open ReciprocityTheory.ChartRestriction.G.Chart (sp spMap spMap_left spMap_comp spMap_id)
+open ReciprocityTheory.ChartRestriction.G.Geo.Tor (epsR IsLieBasis isMonHom_of_mul)
+open scoped CategoryTheory.Obj
+open AddMonoidAlgebra (single mapDomainAlgHom)
+open GlobalTheory GlobalTheory.TorusDefect
+attribute [local instance] Over.cartesianMonoidalCategory
+open GlobalTheory.SqZero GlobalTheory.Diag
+variable {A : Type} [CommRing A] {X Y : Type} [AddCommGroup X] [AddCommGroup Y]
+  {C C' : Type} [CommRing C] [Algebra A C] [CommRing C'] [Algebra A C']
+variable {G : Over (Spec (CommRingCat.of A))} [GrpObj G] {J : Ideal A}
+  {Z : Type} [AddCommGroup Z]
+namespace GlobalTheory.TorusDefect
+theorem _root_.solution (u : X →+ Y)
+    (y : redKer (R := A) G (J.map (algebraMap A (AddMonoidAlgebra A X)))) :
+    (pullKer G J u y).1 = pull G u y.1 := rfl
+end GlobalTheory.TorusDefect

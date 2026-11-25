@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_PreambleDegrees_Loc_natDegree_minpoly_eq
 -- name    : Formalism.MainNotions.N.PreambleDegrees.Loc.natDegree_minpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:54:20.229391+00:00
 -- url     : https://prove2.me/theorems/57719740-c4b4-48a3-9a6b-b7043f3deec7

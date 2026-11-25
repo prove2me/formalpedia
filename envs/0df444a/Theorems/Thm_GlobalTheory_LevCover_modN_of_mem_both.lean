@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevCover_modN_of_mem_both
 -- name    : GlobalTheory.LevCover.modN_of_mem_both
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:30:23.021552+00:00
 -- url     : https://prove2.me/theorems/9d2dc3a7-708d-4010-bab1-588af609ec52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_Model_diagUnits_eq_localIdele
 -- name    : GlobalTheory.Mem.Chr.Model.diagUnits_eq_localIdele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:16.677184+00:00
 -- url     : https://prove2.me/theorems/e8868a77-9300-4a95-a1db-2e1ee856d587

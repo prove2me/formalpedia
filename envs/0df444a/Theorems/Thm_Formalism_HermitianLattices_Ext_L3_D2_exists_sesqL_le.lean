@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_exists_sesqL_le
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.exists_sesqL_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:46:57.788628+00:00
 -- url     : https://prove2.me/theorems/4e2de563-c9bd-5133-ba82-f8be5d6bff17

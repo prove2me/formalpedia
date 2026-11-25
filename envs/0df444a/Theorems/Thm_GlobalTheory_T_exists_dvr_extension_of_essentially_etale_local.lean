@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_dvr_extension_of_essentially_etale_local
 -- name    : GlobalTheory.T.exists_dvr_extension_of_essentially_etale_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:29:09.820896+00:00
 -- url     : https://prove2.me/theorems/e865c171-e3b3-4eb2-8e9a-ca9d74370092

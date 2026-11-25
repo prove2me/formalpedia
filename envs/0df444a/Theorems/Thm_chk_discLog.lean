@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_chk_discLog
 -- name    : chk_discLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:14:09.696794+00:00
 -- url     : https://prove2.me/theorems/a1157755-915c-4c87-b874-47ddd6e5b548

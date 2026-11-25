@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_prodSer_ev
 -- name    : ReciprocityTheory.ChartRestriction.L1.prodSer_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:47:06.6905+00:00
 -- url     : https://prove2.me/theorems/a624a673-5ecb-5ef6-9937-24125f51dbe3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_exists_chiP_succ_sub_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.exists_chiP_succ_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:08.226149+00:00
 -- url     : https://prove2.me/theorems/130b864a-e15d-4c0e-b203-f65e4b005aae

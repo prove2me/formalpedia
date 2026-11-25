@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_termBaseChangeEquiv_apply
 -- name    : GlobalTheory.Cube.termBaseChangeEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:06.283196+00:00
 -- url     : https://prove2.me/theorems/b5b4c6ec-2074-445e-b95d-9a3bf358ca79

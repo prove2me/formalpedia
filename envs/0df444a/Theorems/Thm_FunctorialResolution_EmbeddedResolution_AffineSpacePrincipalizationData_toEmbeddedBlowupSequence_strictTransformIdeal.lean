@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_toEmbeddedBlowupSequence_strictTransformIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.toEmbeddedBlowupSequence_strictTransformIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:55:36.000126+00:00
 -- url     : https://prove2.me/theorems/b8bb9fab-cd73-5225-8cff-71472220ce53

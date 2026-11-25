@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rule_B_derivatives
 -- name    : Formalism.FourierDecayAlt.P.rule_B_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:06.924346+00:00
 -- url     : https://prove2.me/theorems/4bfcc04a-cb8a-5fb2-bbec-4284e33ddcae

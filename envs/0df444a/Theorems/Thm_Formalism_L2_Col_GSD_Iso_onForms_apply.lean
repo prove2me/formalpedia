@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_Iso_onForms_apply
 -- name    : Formalism.L2.Col.GSD.Iso.onForms_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:43:18.487614+00:00
 -- url     : https://prove2.me/theorems/fb2f5f61-d6b3-5ec6-867f-43359d6b5481

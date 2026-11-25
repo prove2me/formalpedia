@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifZero_scal_zero
 -- name    : GlobalTheory.UnifZero.scal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:02:57.889584+00:00
 -- url     : https://prove2.me/theorems/cbb41448-8dd7-4f37-bfb6-746a00575947

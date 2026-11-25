@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_tup_finOrder
 -- name    : Formalism.L2.DIV.tup_finOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:48:24.790787+00:00
 -- url     : https://prove2.me/theorems/be37dc20-1ffd-59f9-b930-b7ac616a9c3b

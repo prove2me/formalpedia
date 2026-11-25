@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ApproxOnto_eventually_onto
 -- name    : GlobalTheory.ApproxOnto.eventually_onto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:50.493273+00:00
 -- url     : https://prove2.me/theorems/73631f4f-a178-5cf6-b0d8-c17fc26f902d

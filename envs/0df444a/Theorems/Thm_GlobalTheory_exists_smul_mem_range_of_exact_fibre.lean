@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_smul_mem_range_of_exact_fibre
 -- name    : GlobalTheory.exists_smul_mem_range_of_exact_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:00:06.131011+00:00
 -- url     : https://prove2.me/theorems/eebd0f46-5f67-4c75-b231-18ebe0d655f3

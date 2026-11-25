@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LErr_size_windows_of_bracket
 -- name    : Formalism.LFunctionChainParameters.LErr.size_windows_of_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:49:51.487089+00:00
 -- url     : https://prove2.me/theorems/2b7b2df2-0550-44d6-8686-d1242507513e

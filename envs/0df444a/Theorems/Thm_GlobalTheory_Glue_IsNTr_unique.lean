@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_IsNTr_unique
 -- name    : GlobalTheory.Glue.IsNTr.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:13:05.846255+00:00
 -- url     : https://prove2.me/theorems/467fd3ff-9ce2-41d8-925e-7508720c2bfd

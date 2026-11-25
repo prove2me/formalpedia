@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_TateInh_txT_twist
 -- name    : GlobalTheory.Ex.TateInh.txT_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:05:07.178795+00:00
 -- url     : https://prove2.me/theorems/79ba5842-ff9f-5406-90ae-ed2b345ff7f8

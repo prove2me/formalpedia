@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_BiLift_exists_pull_lam
 -- name    : GlobalTheory.UU.BiLift.exists_pull_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:03:34.882769+00:00
 -- url     : https://prove2.me/theorems/bf814479-2967-4752-98cd-744f25b1e16a

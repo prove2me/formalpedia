@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_bwPoly_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.bwPoly_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:03:58.0708+00:00
 -- url     : https://prove2.me/theorems/dfd5a737-6dff-4ef0-b163-50a3389a28ad

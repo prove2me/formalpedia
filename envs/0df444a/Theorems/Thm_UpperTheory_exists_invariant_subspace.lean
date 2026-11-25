@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_exists_invariant_subspace
 -- name    : UpperTheory.exists_invariant_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:12:33.20804+00:00
 -- url     : https://prove2.me/theorems/6dae3adc-fcc8-5ffc-89cd-cf938d97d404

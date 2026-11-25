@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_exists_unitary_mul_upper
 -- name    : ReciprocityTheory.MultiplicativeHeights.exists_unitary_mul_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:10.334033+00:00
 -- url     : https://prove2.me/theorems/44e73d12-fed5-53f4-a430-eec1bfd6b9de

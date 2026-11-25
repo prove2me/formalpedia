@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ThetaFirstCoordSplit_proof_7656e0b3166b
 -- name    : P2M_GroundTheory_Heights__Heights_ThetaFirstCoordSplit_proof_7656e0b3166b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:22:23.6438+00:00
 -- url     : https://prove2.me/theorems/8f4ce6bc-14e9-4cda-bc5c-bb193b56681e

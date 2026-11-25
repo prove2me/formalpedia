@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_strictTransform_top
 -- name    : FunctorialResolution.EmbeddedResolution.strictTransform_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:16.47202+00:00
 -- url     : https://prove2.me/theorems/29ed06fd-abef-5c80-9f1b-72d20ba6679a

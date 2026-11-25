@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedIdealWithBoundary_withSchemeIdealBoundary_structureMorphism
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedIdealWithBoundary.withSchemeIdealBoundary_structureMorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:53:48.626882+00:00
 -- url     : https://prove2.me/theorems/fb46b1a0-a656-4baf-b762-224dedde4b1d

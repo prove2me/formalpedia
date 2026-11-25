@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_coefOut_sum
 -- name    : Formalism.MainNotions.PlaneGram.coefOut_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:04.934304+00:00
 -- url     : https://prove2.me/theorems/d2ed6839-5594-4c29-8a98-2a6c0a5d7e24

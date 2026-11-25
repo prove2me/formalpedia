@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenTorsor_isRepresentable_of_cover
 -- name    : GlobalTheory.GenTorsor.isRepresentable_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:22.568459+00:00
 -- url     : https://prove2.me/theorems/49230803-40ce-5aeb-84be-7491ded76c3e

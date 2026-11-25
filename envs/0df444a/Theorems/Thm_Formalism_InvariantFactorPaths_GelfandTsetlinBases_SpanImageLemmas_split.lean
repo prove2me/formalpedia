@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_SpanImageLemmas_split
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.SpanImageLemmas.split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:42.695592+00:00
 -- url     : https://prove2.me/theorems/c9d060d2-b20d-5fa8-9e7e-572734ec2824

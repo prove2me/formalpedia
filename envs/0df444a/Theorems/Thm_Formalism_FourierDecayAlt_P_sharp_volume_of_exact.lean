@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_sharp_volume_of_exact
 -- name    : Formalism.FourierDecayAlt.P.sharp_volume_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:35:03.034128+00:00
 -- url     : https://prove2.me/theorems/4b91ed2a-ac22-5a97-a646-d861013efe9a

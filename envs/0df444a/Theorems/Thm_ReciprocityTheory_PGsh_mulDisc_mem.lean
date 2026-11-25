@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_mulDisc_mem
 -- name    : ReciprocityTheory.PGsh.mulDisc_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:14.757039+00:00
 -- url     : https://prove2.me/theorems/63b2ef15-f0aa-5388-866c-d077a3c49a7c

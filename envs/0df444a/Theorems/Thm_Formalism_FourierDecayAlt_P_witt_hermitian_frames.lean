@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_witt_hermitian_frames
 -- name    : Formalism.FourierDecayAlt.P.witt_hermitian_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:30.797629+00:00
 -- url     : https://prove2.me/theorems/ac245a2c-33e3-48a5-b433-94e28c181d78

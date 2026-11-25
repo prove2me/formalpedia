@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_sends_conj_iff
 -- name    : GlobalTheory.HeckeFrCompare.sends_conj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:46:18.099502+00:00
 -- url     : https://prove2.me/theorems/6b1b42f0-12eb-4781-91fb-9370e003f492

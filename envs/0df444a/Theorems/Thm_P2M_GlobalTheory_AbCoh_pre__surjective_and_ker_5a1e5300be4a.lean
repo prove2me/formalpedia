@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_AbCoh_pre__surjective_and_ker_5a1e5300be4a
 -- name    : P2M_GlobalTheory_AbCoh_pre__surjective_and_ker_5a1e5300be4a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:49:35.231931+00:00
 -- url     : https://prove2.me/theorems/e7d3a25f-eb3c-40fc-ad49-cfc5a71d550e

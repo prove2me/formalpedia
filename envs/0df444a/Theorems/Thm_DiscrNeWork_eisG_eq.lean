@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscrNeWork_eisG_eq
 -- name    : DiscrNeWork.eisG_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:50.455578+00:00
 -- url     : https://prove2.me/theorems/bcc6f6b9-8bf9-5d87-bb70-daf45cb18d3e

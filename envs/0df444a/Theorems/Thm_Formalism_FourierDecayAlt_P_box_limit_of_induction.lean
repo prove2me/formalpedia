@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_box_limit_of_induction
 -- name    : Formalism.FourierDecayAlt.P.box_limit_of_induction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:30:37.460354+00:00
 -- url     : https://prove2.me/theorems/743ea6ae-58a5-50ef-9df1-8bb1fc323f48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_la_eq_sqrt_smul_Lam
 -- name    : GlobalTheory.CompanionTheory.FinHeis.la_eq_sqrt_smul_Lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:00:54.973799+00:00
 -- url     : https://prove2.me/theorems/a40c187c-9977-4911-9d90-1706650f5c6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_division_form_eq
 -- name    : division_form_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:15:30.21664+00:00
 -- url     : https://prove2.me/theorems/3349c4e9-20e6-44d1-aa7d-9b3c9fd27142

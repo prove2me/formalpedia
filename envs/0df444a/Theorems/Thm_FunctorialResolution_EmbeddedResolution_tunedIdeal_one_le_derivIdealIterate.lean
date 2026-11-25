@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_tunedIdeal_one_le_derivIdealIterate
 -- name    : FunctorialResolution.EmbeddedResolution.tunedIdeal_one_le_derivIdealIterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:55:10.673913+00:00
 -- url     : https://prove2.me/theorems/6d553b52-ff02-452e-b48b-56cb1b153f10

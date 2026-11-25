@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_normOrd
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.normOrd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:02:22.951599+00:00
 -- url     : https://prove2.me/theorems/29921f80-5da7-45b7-a4a0-fc2c09ccd200

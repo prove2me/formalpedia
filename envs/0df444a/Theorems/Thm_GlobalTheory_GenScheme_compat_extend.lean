@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenScheme_compat_extend
 -- name    : GlobalTheory.GenScheme.compat_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:28:56.202512+00:00
 -- url     : https://prove2.me/theorems/504af4f7-f541-5a1f-8e91-45ecd8f8f8f5

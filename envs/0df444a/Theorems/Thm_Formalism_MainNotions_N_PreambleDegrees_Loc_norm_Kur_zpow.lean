@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_PreambleDegrees_Loc_norm_Kur_zpow
 -- name    : Formalism.MainNotions.N.PreambleDegrees.Loc.norm_Kur_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:51.304393+00:00
 -- url     : https://prove2.me/theorems/af832231-1bf7-4158-bb9d-12f4bfc23394

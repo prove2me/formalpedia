@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_flowAttained
 -- name    : Formalism.IncomingBounds.flowAttained
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:31.679958+00:00
 -- url     : https://prove2.me/theorems/89b6cd3d-6642-44c5-aaeb-0081f8b211ab

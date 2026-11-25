@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowAlongIso_exists_mapsAt
 -- name    : GlobalTheory.PowAlongIso.exists_mapsAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:27:45.87116+00:00
 -- url     : https://prove2.me/theorems/d932358f-0464-5a7d-bc44-22936bf8d46b

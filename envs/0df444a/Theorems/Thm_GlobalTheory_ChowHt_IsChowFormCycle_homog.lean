@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_IsChowFormCycle_homog
 -- name    : GlobalTheory.ChowHt.IsChowFormCycle.homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:18.908184+00:00
 -- url     : https://prove2.me/theorems/75db2925-4100-4959-af18-73180fe1024c

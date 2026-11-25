@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_degreeOfFamily_eq_of_isFullRankFamily
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.degreeOfFamily_eq_of_isFullRankFamily
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:53:45.488045+00:00
 -- url     : https://prove2.me/theorems/03a582ca-7ae2-57c2-809d-bee9e26e4e04

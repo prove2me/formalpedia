@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieLoc_univChart_baseChange
 -- name    : GlobalTheory.LieLoc.univChart_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:44:48.212137+00:00
 -- url     : https://prove2.me/theorems/902462e1-8bb2-5431-9ed7-0c8a36cabea5

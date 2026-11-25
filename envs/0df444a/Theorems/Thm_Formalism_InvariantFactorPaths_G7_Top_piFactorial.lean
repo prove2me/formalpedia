@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_piFactorial
 -- name    : Formalism.InvariantFactorPaths.G7.Top.piFactorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:43:22.502584+00:00
 -- url     : https://prove2.me/theorems/815f7323-3018-4160-893d-da1ee665220f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_unramifiedCokernelLowerBound_of
 -- name    : ReciprocityTheory.PGsh.Up.unramifiedCokernelLowerBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:52.579808+00:00
 -- url     : https://prove2.me/theorems/e40f796b-0ab5-40fe-aaca-e8c79a45399e

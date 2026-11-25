@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_mem_gn
 -- name    : GlobalTheory.K5.Basic.mem_gn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:12:46.61875+00:00
 -- url     : https://prove2.me/theorems/433aa601-68bb-4eef-8236-79b94adc924a

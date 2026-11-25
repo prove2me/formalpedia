@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_integrality_at_trivial_valuations_of_charts
 -- name    : GlobalTheory.integrality_at_trivial_valuations_of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:01:21.359862+00:00
 -- url     : https://prove2.me/theorems/b63435e7-4965-4b4c-852e-de270ae96f01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_mem_of_dv
 -- name    : Formalism.L2.SG.Pf.G1.mem_of_dv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:50:19.600976+00:00
 -- url     : https://prove2.me/theorems/1268dd5a-159a-4b54-bedb-78df6ee7d2f8

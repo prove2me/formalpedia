@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlueckerUnitBound_full_219efb4e39c1
 -- name    : P2M_GroundTheory_Heights__Heights_PlueckerUnitBound_full_219efb4e39c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:46:49.519256+00:00
 -- url     : https://prove2.me/theorems/321b11c1-4e2a-4166-b200-7324435193ed

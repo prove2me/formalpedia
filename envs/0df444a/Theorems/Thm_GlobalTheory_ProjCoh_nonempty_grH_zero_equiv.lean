@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCoh_nonempty_grH_zero_equiv
 -- name    : GlobalTheory.ProjCoh.nonempty_grH_zero_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:16:10.227949+00:00
 -- url     : https://prove2.me/theorems/b983642d-d27c-56a1-ab04-26621b94159d

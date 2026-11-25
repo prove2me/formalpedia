@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_norm_by_places
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.norm_by_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:58:35.284918+00:00
 -- url     : https://prove2.me/theorems/b86538d5-9d2e-44e6-8581-1017530cc0c2

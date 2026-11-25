@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_orientation_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.orientation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:18.335811+00:00
 -- url     : https://prove2.me/theorems/e511dc99-ebb1-404c-be67-c03687690788

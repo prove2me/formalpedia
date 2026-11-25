@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerAutomorphism_sigmaSplit_self
 -- name    : GlobalTheory.InnerAutomorphism.sigmaSplit_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:27.001963+00:00
 -- url     : https://prove2.me/theorems/12aa4da4-ba4d-44ce-9912-523ab964781d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_polynomial_approx_pow_maximal
 -- name    : GlobalTheory.T.polynomial_approx_pow_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:11.819849+00:00
 -- url     : https://prove2.me/theorems/1fe2d4f1-af50-43d7-9895-79568fae7a62

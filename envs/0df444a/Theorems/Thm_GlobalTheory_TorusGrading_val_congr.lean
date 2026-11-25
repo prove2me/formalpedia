@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusGrading_val_congr
 -- name    : GlobalTheory.TorusGrading.val_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:58:15.490231+00:00
 -- url     : https://prove2.me/theorems/354d4766-cd2d-4650-bda9-50c9833f339b

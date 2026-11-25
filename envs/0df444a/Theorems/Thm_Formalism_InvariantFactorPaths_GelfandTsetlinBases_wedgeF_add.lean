@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_wedgeF_add
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.wedgeF_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:09.391602+00:00
 -- url     : https://prove2.me/theorems/1c40322f-2e62-4f9a-8ef4-326cd5ac279a

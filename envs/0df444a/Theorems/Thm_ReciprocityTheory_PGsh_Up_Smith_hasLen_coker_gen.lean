@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_Smith_hasLen_coker_gen
 -- name    : ReciprocityTheory.PGsh.Up.Smith.hasLen_coker_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:45.767171+00:00
 -- url     : https://prove2.me/theorems/69de7c97-95a2-5668-9ee9-5750fa32ae48

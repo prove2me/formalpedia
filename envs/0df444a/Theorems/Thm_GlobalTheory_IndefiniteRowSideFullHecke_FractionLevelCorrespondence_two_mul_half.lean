@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FractionLevelCorrespondence_two_mul_half
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FractionLevelCorrespondence.two_mul_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:10:01.298713+00:00
 -- url     : https://prove2.me/theorems/e81e7d2e-498e-5f40-9cfd-e86ba3d06740

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorLaw_exists_grpObj
 -- name    : GlobalTheory.GeneratorLaw.exists_grpObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:43:55.149103+00:00
 -- url     : https://prove2.me/theorems/3850bcdc-e2e6-583e-bb85-76f766da5c9c

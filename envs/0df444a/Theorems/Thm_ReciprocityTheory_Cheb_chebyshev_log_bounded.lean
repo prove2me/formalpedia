@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_chebyshev_log_bounded
 -- name    : ReciprocityTheory.Cheb.chebyshev_log_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:16.560595+00:00
 -- url     : https://prove2.me/theorems/ea36f0e0-f48b-4b95-ba23-5c3a9f7553b6

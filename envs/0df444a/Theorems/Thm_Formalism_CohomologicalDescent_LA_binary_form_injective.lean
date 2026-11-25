@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_binary_form_injective
 -- name    : Formalism.CohomologicalDescent.LA.binary_form_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:32:30.31441+00:00
 -- url     : https://prove2.me/theorems/19a4e2da-575d-5704-bc80-c7fa47f7ed85

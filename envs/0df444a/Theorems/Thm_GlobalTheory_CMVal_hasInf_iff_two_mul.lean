@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_hasInf_iff_two_mul
 -- name    : GlobalTheory.CMVal.hasInf_iff_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:35.418593+00:00
 -- url     : https://prove2.me/theorems/32ffeab3-6f9b-4abe-8ba1-077c52bab9e4

@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.kerSubschemeIso_inv_comp
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T17:24:18.450798+00:00
+-- url     : https://prove2.me/submissions/0bf67fff-9287-4dfe-8fb5-6d11c7203191
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_BlowupSequenceRelations
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Blowup_StrictTransform
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealSheafOrder
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_MaximalContactHypersurfaces_MaxContactIdeal
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_PrincipalizationCertificateMonotone
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_PrincipalizationCertificate
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_FunctorialPrincipalization
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MarkedBlowupSequence_IdealBlowupSequence
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MarkedBlowupSequence_MarkedSequenceOfBlowups
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_OrderReductionProperties
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_kerSubschemeIso_hom_comp
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open CategoryTheory CategoryTheory.Limits AlgebraicGeometry
+noncomputable section
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+namespace FunctorialResolution.EmbeddedResolution
+theorem _root_.solution {X Y : Scheme.{u}} (f : X ⟶ Y)
+    [AlgebraicGeometry.IsClosedImmersion f] :
+    (kerSubschemeIso f).inv ≫ (Scheme.Hom.ker f).subschemeι = f := by
+  rw [← kerSubschemeIso_hom_comp f, Iso.inv_hom_id_assoc]
+end FunctorialResolution.EmbeddedResolution

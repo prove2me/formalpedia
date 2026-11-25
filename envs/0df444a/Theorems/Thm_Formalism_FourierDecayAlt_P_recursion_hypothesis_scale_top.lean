@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_recursion_hypothesis_scale_top
 -- name    : Formalism.FourierDecayAlt.P.recursion_hypothesis_scale_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:35:12.264681+00:00
 -- url     : https://prove2.me/theorems/fe370df6-b439-451c-bbea-c32f0913f340

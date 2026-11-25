@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_corFromThmA
 -- name    : Formalism.IncomingBounds.corFromThmA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:26.656334+00:00
 -- url     : https://prove2.me/theorems/e5180add-f30d-48d0-be66-8bc8b8ec470a

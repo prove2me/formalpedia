@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_cubN_mul_left
 -- name    : GlobalTheory.UU.cubN_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:58:35.4938+00:00
 -- url     : https://prove2.me/theorems/9329e018-0f6b-492a-9a88-d03c644363b1

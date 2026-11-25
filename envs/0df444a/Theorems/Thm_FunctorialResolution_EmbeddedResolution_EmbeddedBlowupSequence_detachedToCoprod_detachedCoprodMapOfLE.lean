@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_detachedToCoprod_detachedCoprodMapOfLE
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.detachedToCoprod_detachedCoprodMapOfLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:52:59.5205+00:00
 -- url     : https://prove2.me/theorems/a2e015be-198e-5ea0-be61-ab5cec8882a1

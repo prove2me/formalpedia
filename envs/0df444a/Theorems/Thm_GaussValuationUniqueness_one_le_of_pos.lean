@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussValuationUniqueness_one_le_of_pos
 -- name    : GaussValuationUniqueness.one_le_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:29.92782+00:00
 -- url     : https://prove2.me/theorems/250050f8-d2b6-4dfc-918d-8610772e305f

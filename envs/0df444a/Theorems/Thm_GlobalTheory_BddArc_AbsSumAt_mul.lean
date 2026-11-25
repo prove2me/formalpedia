@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BddArc_AbsSumAt_mul
 -- name    : GlobalTheory.BddArc.AbsSumAt.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:59.521462+00:00
 -- url     : https://prove2.me/theorems/42d15d72-1533-4c63-a501-6ee05bbd54c9

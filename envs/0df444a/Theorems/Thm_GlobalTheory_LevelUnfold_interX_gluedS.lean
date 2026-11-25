@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnfold_interX_gluedS
 -- name    : GlobalTheory.LevelUnfold.interX_gluedS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:13:35.736062+00:00
 -- url     : https://prove2.me/theorems/e0a69826-8e80-5f46-a9c5-0bf06f404c44

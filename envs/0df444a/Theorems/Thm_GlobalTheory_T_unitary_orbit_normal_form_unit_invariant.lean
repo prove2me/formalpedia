@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_orbit_normal_form_unit_invariant
 -- name    : GlobalTheory.T.unitary_orbit_normal_form_unit_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:40:46.325925+00:00
 -- url     : https://prove2.me/theorems/fc56e7b3-375a-4169-b678-e68cd7b90bd8

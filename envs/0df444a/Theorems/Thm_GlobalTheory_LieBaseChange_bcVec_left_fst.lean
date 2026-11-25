@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieBaseChange_bcVec_left_fst
 -- name    : GlobalTheory.LieBaseChange.bcVec_left_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:02:21.793752+00:00
 -- url     : https://prove2.me/theorems/771b5c31-e904-5384-99c7-696e489bb545

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integral_scalar_eq_one
 -- name    : Formalism.HermitianLatticeCounting.P.integral_scalar_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:39:37.568886+00:00
 -- url     : https://prove2.me/theorems/9d8ec076-4562-48a5-8458-e1014aeabb83

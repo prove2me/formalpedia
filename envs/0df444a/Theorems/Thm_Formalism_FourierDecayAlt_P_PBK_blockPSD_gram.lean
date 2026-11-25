@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_blockPSD_gram
 -- name    : Formalism.FourierDecayAlt.P.PBK.blockPSD_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:28:28.57226+00:00
 -- url     : https://prove2.me/theorems/fb595ae2-ac77-4299-8cf9-10db0dc0017c

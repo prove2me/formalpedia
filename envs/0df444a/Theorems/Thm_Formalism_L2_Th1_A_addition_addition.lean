@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_addition_addition
 -- name    : Formalism.L2.Th1.A.addition_addition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:50:10.166151+00:00
 -- url     : https://prove2.me/theorems/733d5561-cbef-4a96-8d13-025e60743544

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaPtMove_exists_genThrough__63f4702df31d
 -- name    : P2M_GlobalTheory_ThetaPtMove_exists_genThrough__63f4702df31d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:36:18.635815+00:00
 -- url     : https://prove2.me/theorems/665b0eb7-7c49-5846-bdd1-5f44c477f014

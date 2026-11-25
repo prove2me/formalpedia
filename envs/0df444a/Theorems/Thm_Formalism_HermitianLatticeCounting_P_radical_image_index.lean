@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_radical_image_index
 -- name    : Formalism.HermitianLatticeCounting.P.radical_image_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:40:26.450862+00:00
 -- url     : https://prove2.me/theorems/3e7cc8c6-7d4b-49ad-9a41-4c2b088878ac

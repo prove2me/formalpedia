@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagonalTimesLowerTriangular_main
 -- name    : GlobalTheory.DiagonalTimesLowerTriangular.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:39.189368+00:00
 -- url     : https://prove2.me/theorems/49086698-1a60-53bf-9d60-43942f478a7d

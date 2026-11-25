@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Homog_map_ideal_le
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Homog.map_ideal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:35:11.350456+00:00
 -- url     : https://prove2.me/theorems/5f4b976c-cfec-4209-b698-bee05ac18b20

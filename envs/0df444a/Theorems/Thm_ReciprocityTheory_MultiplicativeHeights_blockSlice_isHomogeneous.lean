@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_blockSlice_isHomogeneous
 -- name    : ReciprocityTheory.MultiplicativeHeights.blockSlice_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:08:50.908082+00:00
 -- url     : https://prove2.me/theorems/32ce334e-3400-54f6-a3b2-81df59b792a8

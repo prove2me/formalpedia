@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_LOC_Lat2_zero_mem_fibreDual_iff
 -- name    : Formalism.RepresentationBoundsCohomology.LOC.Lat2.zero_mem_fibreDual_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:52:38.552254+00:00
 -- url     : https://prove2.me/theorems/0103b2c5-5986-435d-bffc-f24789ec84ad

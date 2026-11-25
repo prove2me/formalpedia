@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedSubgroupCriterion_main
 -- name    : GlobalTheory.ClosedSubgroupCriterion.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:40.574827+00:00
 -- url     : https://prove2.me/theorems/455db643-864f-538d-a284-b8f2abcde106

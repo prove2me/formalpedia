@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_same_place_constant
 -- name    : Formalism.HermitianLatticeCounting.P.same_place_constant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:51.032487+00:00
 -- url     : https://prove2.me/theorems/58dbd64a-766d-43db-a47e-ba227d3def05

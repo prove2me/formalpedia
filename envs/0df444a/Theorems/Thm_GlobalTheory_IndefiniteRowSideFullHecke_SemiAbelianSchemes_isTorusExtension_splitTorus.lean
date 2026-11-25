@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SemiAbelianSchemes_isTorusExtension_splitTorus
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SemiAbelianSchemes.isTorusExtension_splitTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:12:50.612179+00:00
 -- url     : https://prove2.me/theorems/36d5abd0-2512-4f5d-bc74-909814013dd3

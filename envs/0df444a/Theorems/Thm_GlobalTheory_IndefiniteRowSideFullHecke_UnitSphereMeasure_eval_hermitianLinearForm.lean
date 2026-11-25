@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitSphereMeasure_eval_hermitianLinearForm
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitSphereMeasure.eval_hermitianLinearForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:37.531939+00:00
 -- url     : https://prove2.me/theorems/7e6eb7d7-1116-4436-a2eb-eab5c0315e2d

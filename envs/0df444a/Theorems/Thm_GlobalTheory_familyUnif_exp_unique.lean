@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_familyUnif_exp_unique
 -- name    : GlobalTheory.familyUnif_exp_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:02:02.89905+00:00
 -- url     : https://prove2.me/theorems/15e1893f-d3aa-4988-a526-f1da54210919

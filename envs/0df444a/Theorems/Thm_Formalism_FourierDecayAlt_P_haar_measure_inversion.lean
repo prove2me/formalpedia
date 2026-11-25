@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_haar_measure_inversion
 -- name    : Formalism.FourierDecayAlt.P.haar_measure_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:06:36.930824+00:00
 -- url     : https://prove2.me/theorems/bfece329-dc2d-4c90-bc78-17fce6146716

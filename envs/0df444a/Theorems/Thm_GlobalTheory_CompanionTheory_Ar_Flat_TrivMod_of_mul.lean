@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_TrivMod_of_mul
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.TrivMod.of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:59:01.476482+00:00
 -- url     : https://prove2.me/theorems/cb731eab-c1f7-56ab-bc96-d03db7d9a1af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvexCutOff_polyDeriv_rename_of_convex
 -- name    : GlobalTheory.ConvexCutOff.polyDeriv_rename_of_convex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:48.032973+00:00
 -- url     : https://prove2.me/theorems/6ee53923-0ef3-436a-b07f-ca154b0475e0

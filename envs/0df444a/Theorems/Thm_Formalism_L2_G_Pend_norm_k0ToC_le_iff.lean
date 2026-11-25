@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Pend_norm_k0ToC_le_iff
 -- name    : Formalism.L2.G.Pend.norm_k0ToC_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:45:40.790881+00:00
 -- url     : https://prove2.me/theorems/f84810be-0e94-411d-b763-bd01d53f5285

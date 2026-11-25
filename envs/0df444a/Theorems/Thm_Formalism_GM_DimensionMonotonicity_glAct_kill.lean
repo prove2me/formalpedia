@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DimensionMonotonicity_glAct_kill
 -- name    : Formalism.GM.DimensionMonotonicity.glAct_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:45:41.346943+00:00
 -- url     : https://prove2.me/theorems/7bae2719-f904-4fe3-9a5b-fce495b2d386

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_gram_fiber_measures
 -- name    : GlobalTheory.T.exists_gram_fiber_measures
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:30:21.345798+00:00
 -- url     : https://prove2.me/theorems/93d86391-bb11-4f23-a4df-bb711595609a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_degree_count_identity
 -- name    : Formalism.FourierDecayAlt.P.degree_count_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:30:48.49614+00:00
 -- url     : https://prove2.me/theorems/8f95715b-730c-40f0-8c3c-57bab2ae7369

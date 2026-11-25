@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_sz_nonneg
 -- name    : Formalism.NuclearRankWeightBounds.P.sz_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:49.29581+00:00
 -- url     : https://prove2.me/theorems/da5dbb30-5216-522f-8d4d-1bba7c69e4fe

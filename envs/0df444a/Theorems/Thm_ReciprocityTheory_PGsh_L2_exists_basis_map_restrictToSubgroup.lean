@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_exists_basis_map_restrictToSubgroup
 -- name    : ReciprocityTheory.PGsh.L2.exists_basis_map_restrictToSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:33:08.431797+00:00
 -- url     : https://prove2.me/theorems/0ef44253-b868-4110-a50d-4644a57ed59c

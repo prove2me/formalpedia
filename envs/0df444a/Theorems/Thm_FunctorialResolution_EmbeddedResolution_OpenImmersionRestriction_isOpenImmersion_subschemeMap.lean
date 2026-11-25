@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_isOpenImmersion_subschemeMap
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.isOpenImmersion_subschemeMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:53:03.376235+00:00
 -- url     : https://prove2.me/theorems/1386fc36-4cdd-487d-bf9d-4a6a26cb0456

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_LZ_two
 -- name    : GlobalTheory.MaxCusp.LZ_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:35:59.290434+00:00
 -- url     : https://prove2.me/theorems/97b8a277-daf7-45f3-8063-b1d3b06418ea

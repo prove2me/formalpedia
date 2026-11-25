@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_b_ramified_grouped_holds
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.b_ramified_grouped_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:53:07.201805+00:00
 -- url     : https://prove2.me/theorems/ecaf2788-a090-5a5f-bc59-aa03291fb456

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndCalc_Rep_mul
 -- name    : GlobalTheory.EndCalc.Rep.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:58:41.845241+00:00
 -- url     : https://prove2.me/theorems/aa61dc90-59a2-416f-b369-74c3ff0e8e8c

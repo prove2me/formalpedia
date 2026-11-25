@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_L_comm
 -- name    : GlobalTheory.AnArc.L_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:01:50.831953+00:00
 -- url     : https://prove2.me/theorems/e82ad0c7-e3ad-4100-9f7f-ebe72655735a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Expanders_dotProduct_adjMatrix_mulVec
 -- name    : Expanders.dotProduct_adjMatrix_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:08:42.8548+00:00
 -- url     : https://prove2.me/theorems/1d0360f4-b149-4faf-a44c-857780e64891

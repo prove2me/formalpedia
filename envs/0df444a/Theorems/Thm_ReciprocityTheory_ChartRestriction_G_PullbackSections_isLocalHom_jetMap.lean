@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_isLocalHom_jetMap
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.isLocalHom_jetMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:55:20.981749+00:00
 -- url     : https://prove2.me/theorems/056b76fa-279f-459c-bf7d-090aec4c5d8e

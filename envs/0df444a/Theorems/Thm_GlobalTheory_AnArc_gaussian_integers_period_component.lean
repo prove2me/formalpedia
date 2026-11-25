@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_gaussian_integers_period_component
 -- name    : GlobalTheory.AnArc.gaussian_integers_period_component
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:01:04.741087+00:00
 -- url     : https://prove2.me/theorems/eea63709-0ed0-5a3c-8789-b28d95cba082

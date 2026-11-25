@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_toEmbeddedBlowupSequence_schemeAt
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.toEmbeddedBlowupSequence_schemeAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:54:33.711886+00:00
 -- url     : https://prove2.me/theorems/51d33a98-a24a-56e2-a3ae-0fb68d60064d

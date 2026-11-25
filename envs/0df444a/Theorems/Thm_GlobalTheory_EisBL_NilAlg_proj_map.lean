@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisBL_NilAlg_proj_map
 -- name    : GlobalTheory.EisBL.NilAlg.proj_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:34.812313+00:00
 -- url     : https://prove2.me/theorems/29dd288a-62af-5c44-a837-a6d55b2b84cd

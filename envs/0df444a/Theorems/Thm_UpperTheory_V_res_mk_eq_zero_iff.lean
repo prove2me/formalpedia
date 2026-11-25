@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_res_mk_eq_zero_iff
 -- name    : UpperTheory.V.res_mk_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:13:07.701748+00:00
 -- url     : https://prove2.me/theorems/74cc3fb5-f2b4-4b70-bb1c-3768368b0f89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_prod_fder
 -- name    : ReciprocityTheory.PGsh.Up.prod_fder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:12.54291+00:00
 -- url     : https://prove2.me/theorems/aefc3bf8-7245-521e-9be0-3aa7abeb737a

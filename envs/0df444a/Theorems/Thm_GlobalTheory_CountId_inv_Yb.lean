@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_inv_Yb
 -- name    : GlobalTheory.CountId.inv_Yb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:46.27127+00:00
 -- url     : https://prove2.me/theorems/c4a957df-20b4-5e8f-a1de-d723a49c8b97

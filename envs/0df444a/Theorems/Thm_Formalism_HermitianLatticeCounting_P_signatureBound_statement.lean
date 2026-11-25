@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_signatureBound_statement
 -- name    : Formalism.HermitianLatticeCounting.P.signatureBound_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:21.63681+00:00
 -- url     : https://prove2.me/theorems/8a639574-a8fa-4898-aa67-bcb56816d333

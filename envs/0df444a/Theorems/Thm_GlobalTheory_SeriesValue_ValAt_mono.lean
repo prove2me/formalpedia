@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesValue_ValAt_mono
 -- name    : GlobalTheory.SeriesValue.ValAt.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:52:19.506809+00:00
 -- url     : https://prove2.me/theorems/26df2ea7-7acf-480a-af71-f1f0e6ef621d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isGenericPoint_image_of_isClosedEmbedding
 -- name    : FunctorialResolution.EmbeddedResolution.isGenericPoint_image_of_isClosedEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:53:42.412967+00:00
 -- url     : https://prove2.me/theorems/f96aae2e-091e-4589-8ad6-d80d7fea0ac3

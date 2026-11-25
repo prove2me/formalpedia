@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagFlowCheck_flowMat_eq_transv
 -- name    : GlobalTheory.FlagFlowCheck.flowMat_eq_transv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:04.113701+00:00
 -- url     : https://prove2.me/theorems/f790010c-c9ef-5426-b504-862dd06077f6

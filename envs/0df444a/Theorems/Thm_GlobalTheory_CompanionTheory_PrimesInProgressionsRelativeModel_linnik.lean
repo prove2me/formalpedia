@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrimesInProgressionsRelativeModel_linnik
 -- name    : GlobalTheory.CompanionTheory.PrimesInProgressionsRelativeModel.linnik
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:03.048938+00:00
 -- url     : https://prove2.me/theorems/818c38e5-7457-4295-94c6-a61bc5720bb5

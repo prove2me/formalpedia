@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelComm_kernelsCommute
 -- name    : GlobalTheory.KernelComm.kernelsCommute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:19:21.704902+00:00
 -- url     : https://prove2.me/theorems/540a34b0-a31d-4493-bbee-dc852fc68f41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_patch_empty
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.patch_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:59:29.560867+00:00
 -- url     : https://prove2.me/theorems/906a15d6-1917-4814-9673-79c5b17ed0bb

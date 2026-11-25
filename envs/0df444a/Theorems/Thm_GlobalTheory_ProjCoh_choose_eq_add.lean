@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCoh_choose_eq_add
 -- name    : GlobalTheory.ProjCoh.choose_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:57.696258+00:00
 -- url     : https://prove2.me/theorems/cdd87e81-74b4-58e5-97d1-72664f96f4f1

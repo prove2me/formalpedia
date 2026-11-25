@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_Model_principalRayGroup_le_coprimeIdealGroup
 -- name    : GlobalTheory.Mem.An.Model.principalRayGroup_le_coprimeIdealGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:06.441229+00:00
 -- url     : https://prove2.me/theorems/9ace399f-d305-4d19-86da-8547b2443af3

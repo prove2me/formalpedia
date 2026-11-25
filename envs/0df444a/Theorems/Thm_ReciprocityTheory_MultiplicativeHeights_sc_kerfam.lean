@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sc_kerfam
 -- name    : ReciprocityTheory.MultiplicativeHeights.sc_kerfam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:05:06.268063+00:00
 -- url     : https://prove2.me/theorems/34ae0bea-ea7a-4018-a66f-1db077f89769

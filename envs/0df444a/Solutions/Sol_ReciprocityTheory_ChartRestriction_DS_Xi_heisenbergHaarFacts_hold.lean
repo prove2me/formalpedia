@@ -1,0 +1,78 @@
+-- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.DS.Xi.heisenbergHaarFacts_hold
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T17:53:21.177847+00:00
+-- url     : https://prove2.me/submissions/48c46c84-92c0-4faa-b111-7f74022bebad
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_InductiveHeisenbergInputs
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_SettingExistence
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HaarScaling
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_DiscreteSeries_TailIntegrals_HeisenbergHaarFactsHold
+import Theorems.Thm_Formalism_FourierDecayAlt_P_compact_group_haar_exists
+import Theorems.Thm_Formalism_FourierDecayAlt_P_conjugation_invariance_every_setting
+import Theorems.Thm_Formalism_FourierDecayAlt_P_haar_measure_inversion
+import Theorems.Thm_Formalism_FourierDecayAlt_P_haar_measure_unique_up_to_scalar
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisMul_statement
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_action_formula
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_conjugation_by_levi
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_haar_measure
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_inverse
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_levi_conjugation_measure
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_mem_unipotent
+import Theorems.Thm_Formalism_FourierDecayAlt_P_heisenberg_subgroup_closed
+import Theorems.Thm_Formalism_FourierDecayAlt_P_levi_haar_measure_exists
+import Theorems.Thm_Formalism_FourierDecayAlt_P_matrix_norm_ge_one
+import Theorems.Thm_Formalism_FourierDecayAlt_P_norm_power_integrable_sharp
+import Theorems.Thm_Formalism_FourierDecayAlt_P_rank_one_coordinates_formula
+import Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_integration_formula
+import Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_one_parameter_mem
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_haar_base_case
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_haar_exists
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_haar_recursion
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_radical_closed
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unitary_group_closed
+import Theorems.Thm_Formalism_FourierDecayAlt_P_unitary_group_haar_exists
+import Theorems.Thm_Formalism_FourierDecayAlt_P_weyl_haar_exists
+import Theorems.Thm_Formalism_FourierDecayAlt_P_weyl_subgroup_closed
+import Theorems.Thm_Formalism_FourierDecayAlt_P_weyl_subgroup_compact
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.DS ReciprocityTheory.ChartRestriction.DS.Xi
+namespace ReciprocityTheory.ChartRestriction.DS.Xi
+theorem _root_.solution : InductiveHeisenbergInputs :=
+  ⟨Formalism.FourierDecayAlt.P.stabilizer_integration_formula,
+    Formalism.FourierDecayAlt.P.rank_one_coordinates_formula,
+    Formalism.FourierDecayAlt.P.stabilizer_one_parameter_mem,
+    Formalism.FourierDecayAlt.P.unipotent_haar_recursion,
+    Formalism.FourierDecayAlt.P.unipotent_haar_base_case,
+    Formalism.FourierDecayAlt.P.heisenberg_conjugation_by_levi,
+    Formalism.FourierDecayAlt.P.heisenberg_levi_conjugation_measure,
+    Formalism.FourierDecayAlt.P.heisenberg_inverse,
+    Formalism.FourierDecayAlt.P.heisMul_statement,
+    Formalism.FourierDecayAlt.P.heisenberg_mem_unipotent,
+    Formalism.FourierDecayAlt.P.heisenberg_subgroup_closed,
+    Formalism.FourierDecayAlt.P.heisenberg_haar_measure,
+    Formalism.FourierDecayAlt.P.conjugation_invariance_every_setting,
+    Formalism.FourierDecayAlt.P.weyl_subgroup_compact,
+    Formalism.FourierDecayAlt.P.norm_power_integrable_sharp,
+    Formalism.FourierDecayAlt.P.matrix_norm_ge_one,
+    Formalism.FourierDecayAlt.P.haar_measure_unique_up_to_scalar,
+    Formalism.FourierDecayAlt.P.haar_measure_inversion,
+    Formalism.FourierDecayAlt.P.compact_group_haar_exists,
+    Formalism.FourierDecayAlt.P.unitary_group_closed,
+    Formalism.FourierDecayAlt.P.unipotent_radical_closed,
+    Formalism.FourierDecayAlt.P.weyl_subgroup_closed,
+    Formalism.FourierDecayAlt.P.levi_haar_measure_exists,
+    Formalism.FourierDecayAlt.P.weyl_haar_exists,
+    Formalism.FourierDecayAlt.P.unipotent_haar_exists,
+    Formalism.FourierDecayAlt.P.unitary_group_haar_exists,
+    Formalism.FourierDecayAlt.P.heisenberg_action_formula⟩
+end ReciprocityTheory.ChartRestriction.DS.Xi

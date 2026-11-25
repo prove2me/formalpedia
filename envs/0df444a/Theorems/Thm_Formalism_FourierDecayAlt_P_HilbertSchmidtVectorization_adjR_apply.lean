@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HilbertSchmidtVectorization_adjR_apply
 -- name    : Formalism.FourierDecayAlt.P.HilbertSchmidtVectorization.adjR_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:27:39.284906+00:00
 -- url     : https://prove2.me/theorems/c9cf49ff-2e22-4399-8eb6-670c0cfb055d

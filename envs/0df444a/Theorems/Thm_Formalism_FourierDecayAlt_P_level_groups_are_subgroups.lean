@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_level_groups_are_subgroups
 -- name    : Formalism.FourierDecayAlt.P.level_groups_are_subgroups
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:33:18.680243+00:00
 -- url     : https://prove2.me/theorems/ff41efc2-d601-4d76-836f-fd8a2fcc75e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_isSplitting_int
 -- name    : GlobalTheory.HTLat.isSplitting_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:41.570688+00:00
 -- url     : https://prove2.me/theorems/b6d1e2d4-f84a-4bf2-8f0f-03b1dde5aa7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxE_rep_zero
 -- name    : Formalism.FourierDecayAlt.P.JFxE.rep_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:28:11.496796+00:00
 -- url     : https://prove2.me/theorems/3df2ca4b-d1af-5bcf-b8b3-79c3b694c6b2

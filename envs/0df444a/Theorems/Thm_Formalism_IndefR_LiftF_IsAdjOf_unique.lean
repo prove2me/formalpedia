@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LiftF_IsAdjOf_unique
 -- name    : Formalism.IndefR.LiftF.IsAdjOf.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:45:01.997268+00:00
 -- url     : https://prove2.me/theorems/7184144f-4db4-55f2-aa1b-44e6572d5eb5

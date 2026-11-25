@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HopfQuot_affine_quotient
 -- name    : GlobalTheory.HopfQuot.affine_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:08:48.873687+00:00
 -- url     : https://prove2.me/theorems/8b5c1d57-76db-53a2-ad59-10e79f4009ef

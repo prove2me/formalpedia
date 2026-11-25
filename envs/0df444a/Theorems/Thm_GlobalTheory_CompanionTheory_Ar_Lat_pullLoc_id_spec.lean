@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_pullLoc_id_spec
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.pullLoc_id_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:01.230013+00:00
 -- url     : https://prove2.me/theorems/cfa8b5b0-6c69-4584-aac6-af7842426a6b

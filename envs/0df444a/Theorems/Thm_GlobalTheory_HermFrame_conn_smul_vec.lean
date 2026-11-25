@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_conn_smul_vec
 -- name    : GlobalTheory.HermFrame.conn_smul_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:07:12.138513+00:00
 -- url     : https://prove2.me/theorems/e3b67c8a-aa97-4448-9ced-9807e98cdaf0

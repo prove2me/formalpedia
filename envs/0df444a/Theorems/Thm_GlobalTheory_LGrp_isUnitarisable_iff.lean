@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_isUnitarisable_iff
 -- name    : GlobalTheory.LGrp.isUnitarisable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:18:50.468324+00:00
 -- url     : https://prove2.me/theorems/b56c8c5d-641d-40a4-86e2-21ae7283beaa

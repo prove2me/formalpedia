@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_log_norm_eval_zero_le_circleAverage
 -- name    : ReciprocityTheory.MultiplicativeHeights.log_norm_eval_zero_le_circleAverage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:32.049046+00:00
 -- url     : https://prove2.me/theorems/20b0f72c-d842-4114-a813-3074b0fbd9ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_eventually_iff_exp
 -- name    : GlobalTheory.Conv.eventually_iff_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:02:23.986188+00:00
 -- url     : https://prove2.me/theorems/9bfd6b2f-2e33-4641-af19-572d34f485e5

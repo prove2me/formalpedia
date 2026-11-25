@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_xi_Y_zhat_identity
 -- name    : Formalism.FourierDecayAlt.P.xi_Y_zhat_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:40:28.665919+00:00
 -- url     : https://prove2.me/theorems/2619d622-3e6f-5e32-969b-48daa705f0a8

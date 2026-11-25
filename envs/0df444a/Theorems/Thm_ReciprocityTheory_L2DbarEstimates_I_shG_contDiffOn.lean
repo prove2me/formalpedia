@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_shG_contDiffOn
 -- name    : ReciprocityTheory.L2DbarEstimates.I.shG_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:33:05.057432+00:00
 -- url     : https://prove2.me/theorems/29dce8c9-1301-4c7a-a420-d08b870f476d

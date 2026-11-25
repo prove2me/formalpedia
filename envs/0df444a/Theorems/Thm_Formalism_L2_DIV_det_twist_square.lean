@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_det_twist_square
 -- name    : Formalism.L2.DIV.det_twist_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:44:56.549028+00:00
 -- url     : https://prove2.me/theorems/180ee12d-d74d-417d-8c70-f9de739bfa1d

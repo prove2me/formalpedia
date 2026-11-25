@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_rot_S
 -- name    : GlobalTheory.BK.rot_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:03:03.705914+00:00
 -- url     : https://prove2.me/theorems/3f1a7c28-4cc0-4912-8ae0-a6b15bb129e1

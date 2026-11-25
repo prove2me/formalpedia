@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoSum_summable_qClass
 -- name    : GlobalTheory.HeckeTwoSum.summable_qClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:15:28.019801+00:00
 -- url     : https://prove2.me/theorems/78e7afdd-8c07-4d20-a74c-9d18e56ba401

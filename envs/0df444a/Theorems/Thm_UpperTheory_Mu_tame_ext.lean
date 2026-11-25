@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_tame_ext
 -- name    : UpperTheory.Mu.tame_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:20.681162+00:00
 -- url     : https://prove2.me/theorems/982c7a94-5854-4fd7-8c1c-027ef434a8fc

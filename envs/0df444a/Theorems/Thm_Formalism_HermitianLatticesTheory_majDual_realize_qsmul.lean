@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_majDual_realize_qsmul
 -- name    : Formalism.HermitianLatticesTheory.majDual_realize_qsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:51.682471+00:00
 -- url     : https://prove2.me/theorems/ec6d3b37-9b5e-56b5-bfb6-372c213d0e09

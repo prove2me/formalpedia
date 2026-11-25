@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bl_FirstLemmaF_goal1
 -- name    : Bl.FirstLemmaF.goal1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:16:05.84882+00:00
 -- url     : https://prove2.me/theorems/d7dd423f-f1a2-42a9-9a42-9ac07d239d74

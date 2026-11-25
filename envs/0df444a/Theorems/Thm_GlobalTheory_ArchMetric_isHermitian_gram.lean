@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_isHermitian_gram
 -- name    : GlobalTheory.ArchMetric.isHermitian_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:59.282287+00:00
 -- url     : https://prove2.me/theorems/c4192368-22cc-4546-814e-b918ee36d3fa

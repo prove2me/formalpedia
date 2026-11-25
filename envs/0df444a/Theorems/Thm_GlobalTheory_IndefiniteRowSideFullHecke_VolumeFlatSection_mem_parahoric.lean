@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_VolumeFlatSection_mem_parahoric
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.VolumeFlatSection.mem_parahoric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:34.026315+00:00
 -- url     : https://prove2.me/theorems/80222654-0409-51c8-932c-f88c2d5b234e

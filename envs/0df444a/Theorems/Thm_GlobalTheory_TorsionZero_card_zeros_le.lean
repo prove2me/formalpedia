@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionZero_card_zeros_le
 -- name    : GlobalTheory.TorsionZero.card_zeros_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:09:10.354504+00:00
 -- url     : https://prove2.me/theorems/a8271979-3a73-4f86-b720-51f12a8d4189

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gauss_nonunits
 -- name    : ReciprocityTheory.MultiplicativeHeights.gauss_nonunits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:02.175851+00:00
 -- url     : https://prove2.me/theorems/8b46ee14-eccb-567f-9caf-7ca756ab6fca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_InflationTransgression_exists_lift
 -- name    : ReciprocityTheory.Coh.InflationTransgression.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:50:31.290236+00:00
 -- url     : https://prove2.me/theorems/840f3038-bdf4-4ad3-92f1-7338b5aed994

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_principal_series_subquotient_of_characters
 -- name    : GlobalTheory.T.principal_series_subquotient_of_characters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:29.362282+00:00
 -- url     : https://prove2.me/theorems/4e85ace3-9d10-5557-aa73-49e4b9226afa

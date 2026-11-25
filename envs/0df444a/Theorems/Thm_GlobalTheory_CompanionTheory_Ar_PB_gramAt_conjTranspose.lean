@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_gramAt_conjTranspose
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.gramAt_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:00:37.323608+00:00
 -- url     : https://prove2.me/theorems/73844c00-35d6-5dc5-ac5f-92c163e4ae16

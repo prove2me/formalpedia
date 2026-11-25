@@ -47194,7 +47194,7 @@
 {"parent": "QPSpinProfile.lemma_2_1", "child": "QPSpinProfile_SatisfiesDistortion", "via": ["statement"]}
 {"parent": "QPSpinProfile.lemma_2_1", "child": "QPSpinProfile_pauliPOVM", "via": ["statement"]}
 {"parent": "SmoothedPlanted_FFK_Incompatibility", "child": "SmoothedPlanted_FFK_CSP", "via": ["statement"]}
-{"parent": "PandoraKnapsack.Skipping.lemma_B_1", "child": "PandoraKnapsack_Skipping_CompactLP", "via": ["statement"]}
+{"parent": "PandoraKnapsack.Skipping.lemma_B_1", "child": "PandoraKnapsack_Skipping_CompactLP", "via": ["solution", "statement"]}
 {"parent": "MomentSearch.lemma_13", "child": "MomentSearch_grid", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r2_12_eq_g", "child": "OAIQ098G400", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density1_r2_12_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
@@ -52858,8 +52858,8 @@
 {"parent": "AgnosticImitate.Reduction.theorem_1_3", "child": "AgnosticImitate_Reduction_Setting", "via": ["statement"]}
 {"parent": "AgnosticImitate.Reduction.theorem_1_3", "child": "AgnosticImitate_Reduction_Oracle", "via": ["statement"]}
 {"parent": "AgnosticImitate.Reduction.theorem_1_3", "child": "AgnosticImitate_Reduction_Algorithms", "via": ["statement"]}
-{"parent": "PandoraKnapsack.Skipping.lemma_5_2", "child": "PandoraKnapsack_Skipping_Policies", "via": ["statement"]}
-{"parent": "PandoraKnapsack.Skipping.lemma_5_2", "child": "PandoraKnapsack_Skipping_TimeIndexedLP", "via": ["statement"]}
+{"parent": "PandoraKnapsack.Skipping.lemma_5_2", "child": "PandoraKnapsack_Skipping_Policies", "via": ["solution", "statement"]}
+{"parent": "PandoraKnapsack.Skipping.lemma_5_2", "child": "PandoraKnapsack_Skipping_TimeIndexedLP", "via": ["solution", "statement"]}
 {"parent": "AdaptiveRLDC_LowerBound_AdaptiveDecoder", "child": "QAlgorithms_Defs_Classical", "via": ["statement"]}
 {"parent": "AdaptiveRLDC_LowerBound_AdaptiveDecoder", "child": "AdaptiveRLDC_LowerBound_FiniteWeights", "via": ["statement"]}
 {"parent": "AdaptiveRefresh.Main.refresh_count", "child": "AdaptiveRefresh_Main_RefreshProcess", "via": ["statement"]}
@@ -55041,7 +55041,7 @@
 {"parent": "AvramDividend.Classical.avram_gtop20_original_upper_envelope_splice_of_cofinal_floor", "child": "AvramDividend_Classical_DividendStrategy", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density0_r2_12_eq_g", "child": "OAIQ098G388", "via": ["solution", "statement"]}
 {"parent": "OAI.SharpPlanar.CachedData.density0_r2_12_eq_g", "child": "OAIQ098G397", "via": ["solution", "statement"]}
-{"parent": "PandoraKnapsack.Skipping.lemma_5_3", "child": "PandoraKnapsack_Skipping_Algorithm1", "via": ["statement"]}
+{"parent": "PandoraKnapsack.Skipping.lemma_5_3", "child": "PandoraKnapsack_Skipping_Algorithm1", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementCochainMaps.rxMap2BasisImage_support_eq_parentRegion", "child": "QEC_Coding_FiniteAlternatingConstruction_RXLocalReplacement", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementCochainMaps.rxMap2BasisImage_support_eq_parentRegion", "child": "QEC_Coding_FiniteAlternatingConstruction_ReplacementCochainMaps", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26ReplacementCochainMaps.rxMap2BasisImage_support_eq_parentRegion", "child": "QEC_Coding_FiniteAlternatingConstruction_RZCoordinateBridge", "via": ["solution", "statement"]}

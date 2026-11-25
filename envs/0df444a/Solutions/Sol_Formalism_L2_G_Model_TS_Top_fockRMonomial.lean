@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for Formalism.L2.G.Model.TS.Top.fockRMonomial
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T17:16:25.447721+00:00
+-- url     : https://prove2.me/submissions/92b4477f-393a-4246-8cde-72bb36ea9e85
+
+import Definitions.Def_Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_ProdBlockEmbMonomial
+import Definitions.Def_Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_FockPairingDividedAdjoint
+import Definitions.Def_Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_FockPairingRowAction
+import Definitions.Def_Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_FockPairingHighestWeightProof
+import Definitions.Def_Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_CwlApplyWordAppendSingle
+import Definitions.Def_Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_LowerTriangularOverField
+import Definitions.Def_Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_WeylFormNondegenerateGlobal
+import Definitions.Def_Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_TransposeWordsProofs_FormSK
+import Definitions.Def_Formalism_LocalToGlobal_GroupLattices_FockModels_TransposeWords_FormCoreSK
+import Theorems.Thm_Formalism_L2_G_Model_TS_fock_pairing_monomial
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.L2 Formalism.L2.G Formalism.L2.G.Model Formalism.L2.G.Model.TS Formalism.L2.G.Model.TS.Top
+open Formalism.L2.G.Model.TS Formalism.GradedWeylDivisibility
+namespace Formalism.L2.G.Model.TS.Top
+theorem _root_.solution : FockRMonomial := Formalism.L2.G.Model.TS.fock_pairing_monomial
+end Formalism.L2.G.Model.TS.Top

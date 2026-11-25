@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_recursion_gives_explicit_after
 -- name    : Formalism.FourierDecayAlt.P.recursion_gives_explicit_after
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:35:43.610398+00:00
 -- url     : https://prove2.me/theorems/de75bccc-2f56-40b7-85a9-1ba8951337a6

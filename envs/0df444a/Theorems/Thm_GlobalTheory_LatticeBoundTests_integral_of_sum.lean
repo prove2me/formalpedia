@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeBoundTests_integral_of_sum
 -- name    : GlobalTheory.LatticeBoundTests.integral_of_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:12:50.788036+00:00
 -- url     : https://prove2.me/theorems/38a23e08-d496-50d8-a6da-db58e6166816

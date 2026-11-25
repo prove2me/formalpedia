@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Expanders_exists_adj_dist_lt
 -- name    : Expanders.exists_adj_dist_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:08:50.3148+00:00
 -- url     : https://prove2.me/theorems/e79accec-dafb-487c-ba76-40aa350943fb

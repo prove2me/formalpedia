@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_trForm_adj_star
 -- name    : GlobalTheory.HostModel.trForm_adj_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:07.469424+00:00
 -- url     : https://prove2.me/theorems/e1d860b0-a304-4c94-961c-6ce8c9820f7e

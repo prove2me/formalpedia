@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_order_index_alt
 -- name    : Formalism.FourierDecayAlt.P.order_index_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:33:34.646812+00:00
 -- url     : https://prove2.me/theorems/f4c8f5ea-61b6-4ce5-bc25-7e45bc1f263f

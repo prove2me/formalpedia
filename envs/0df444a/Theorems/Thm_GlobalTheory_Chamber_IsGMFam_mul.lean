@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chamber_IsGMFam_mul
 -- name    : GlobalTheory.Chamber.IsGMFam.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:18.134861+00:00
 -- url     : https://prove2.me/theorems/db0e1975-1ce6-411e-acf3-542ae7cae5ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_ofSec_canonical
 -- name    : GlobalTheory.EffCartierData.ofSec_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:11:36.289177+00:00
 -- url     : https://prove2.me/theorems/8867fa0a-761e-44b6-a201-21d6e479fbb7

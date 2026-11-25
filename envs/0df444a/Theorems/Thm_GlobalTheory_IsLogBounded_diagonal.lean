@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLogBounded_diagonal
 -- name    : GlobalTheory.IsLogBounded.diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:16.626526+00:00
 -- url     : https://prove2.me/theorems/d4745179-3546-5de9-887b-9ef2178de233

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_one_le_f
 -- name    : UpperTheory.Mu.one_le_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:56.393948+00:00
 -- url     : https://prove2.me/theorems/dfffd70b-9a7d-48fe-8237-32a5b40ad7fa

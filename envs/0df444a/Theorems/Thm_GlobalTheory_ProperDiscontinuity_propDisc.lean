@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperDiscontinuity_propDisc
 -- name    : GlobalTheory.ProperDiscontinuity.propDisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:21:38.554409+00:00
 -- url     : https://prove2.me/theorems/c456b17a-42ad-47e2-8737-cff9460f0d40

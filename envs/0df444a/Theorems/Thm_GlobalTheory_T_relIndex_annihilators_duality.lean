@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_annihilators_duality
 -- name    : GlobalTheory.T.relIndex_annihilators_duality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:51.238802+00:00
 -- url     : https://prove2.me/theorems/8411a2b8-4a52-5108-b899-09f2b8023c52

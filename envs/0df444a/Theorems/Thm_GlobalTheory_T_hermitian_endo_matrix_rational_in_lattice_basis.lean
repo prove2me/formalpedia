@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_endo_matrix_rational_in_lattice_basis
 -- name    : GlobalTheory.T.hermitian_endo_matrix_rational_in_lattice_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:08.404925+00:00
 -- url     : https://prove2.me/theorems/5c7d3a0f-6902-5079-a7c7-3eec82a34237

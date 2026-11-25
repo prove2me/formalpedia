@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for Formalism.L2.SG.Pf.valuation_character_irreducible
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T17:26:53.036348+00:00
+-- url     : https://prove2.me/submissions/6af32543-a19c-4c37-b413-f0c6447799c3
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_SiegelLatticeTheory_FlagStabilizerTensors_RootLatticeThresholds_ColDictValC
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CayleyIrreducibility_DivClosedOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CayleyIrreducibility_IsUnitDetOfUnitary
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CayleyIrreducibility_DivisorClosedHolds
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CayleyIrreducibility_CayleyIsometry
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CayleyIrreducibility_HighExistenceHolds
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_CayleyIrreducibility_HighestWeightVectorUnique
+import Definitions.Def_Formalism_LocalToGlobal_SiegelLatticeTheory_FlagStabilizerTensors_RootLatticeThresholds_ColDictValCPf
+import Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_density_holds
+import Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_divisor_closed_holds
+import Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_generation_holds
+import Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_high_existence_holds
+import Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_highest_weight_vector_unique
+import Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_transfer_holds
+import Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_valCIrr_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.L2 Formalism.L2.SG Formalism.L2.SG.Pf
+namespace Formalism.L2.SG.Pf
+theorem _root_.solution : ColDictPf.ValCIrr :=
+  ColDictValCPf.valCIrr_of ColDictValCPf.transfer_holds
+    (ColDictValCPf.divisor_closed_holds ColDictValCPf.density_holds)
+    ColDictValCPf.high_existence_holds ColDictValCPf.highest_weight_vector_unique ColDictValCPf.generation_holds
+end Formalism.L2.SG.Pf

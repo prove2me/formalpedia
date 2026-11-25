@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieBaseChange_pushR_bcVec
 -- name    : GlobalTheory.LieBaseChange.pushR_bcVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:58:48.22957+00:00
 -- url     : https://prove2.me/theorems/41bdc829-2960-53e3-96f5-d9613fdb5947

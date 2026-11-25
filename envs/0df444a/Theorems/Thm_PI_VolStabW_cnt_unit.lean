@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_cnt_unit
 -- name    : PI.VolStabW.cnt_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:03:13.116129+00:00
 -- url     : https://prove2.me/theorems/a4bbf639-f352-4581-9bec-a92bb937c68c

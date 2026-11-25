@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoLimitIdeal_isIso_of_isClosedImmersion
 -- name    : GlobalTheory.IsoLimitIdeal.isIso_of_isClosedImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:00:52.956704+00:00
 -- url     : https://prove2.me/theorems/72f69194-d518-45b8-8488-7709246228b9

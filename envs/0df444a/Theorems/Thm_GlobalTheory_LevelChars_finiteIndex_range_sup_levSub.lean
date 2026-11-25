@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelChars_finiteIndex_range_sup_levSub
 -- name    : GlobalTheory.LevelChars.finiteIndex_range_sup_levSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:42:47.326741+00:00
 -- url     : https://prove2.me/theorems/aa73148f-9299-4581-b583-2c6038548a65

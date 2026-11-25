@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_level_product_index
 -- name    : level_product_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:19:46.018519+00:00
 -- url     : https://prove2.me/theorems/11723b90-c9c0-55e3-b324-744f4c1b1305

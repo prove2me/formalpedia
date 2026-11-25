@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_R_LevelData_inv_Dri_Dr
 -- name    : Formalism.FourierDecayAlt.R.LevelData.inv_Dri_Dr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:35:24.456886+00:00
 -- url     : https://prove2.me/theorems/8373557a-cec6-4646-8473-14b27bceff65

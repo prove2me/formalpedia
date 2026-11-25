@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamGen_comb_term
 -- name    : GlobalTheory.FamGen.comb_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:50:39.688934+00:00
 -- url     : https://prove2.me/theorems/9dfa4237-1b9e-53fc-a5e6-c92ecd4aa53d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_measurable_tmLog
 -- name    : ReciprocityTheory.MultiplicativeHeights.measurable_tmLog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:26.585848+00:00
 -- url     : https://prove2.me/theorems/b103a6ea-8e0a-4cac-902e-e1e692944cfa

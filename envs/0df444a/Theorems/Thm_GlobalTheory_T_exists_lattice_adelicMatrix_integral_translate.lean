@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lattice_adelicMatrix_integral_translate
 -- name    : GlobalTheory.T.exists_lattice_adelicMatrix_integral_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:06.658346+00:00
 -- url     : https://prove2.me/theorems/5e79d522-ff1a-5939-baf5-4b1bfbe7586a

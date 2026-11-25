@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_detOneSubOffDiagonalBlockGram_le_one_ball
 -- name    : GlobalTheory.T.detOneSubOffDiagonalBlockGram_le_one_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:28:01.787887+00:00
 -- url     : https://prove2.me/theorems/a1f52d12-18c0-516e-964e-3dc3001ad5ff

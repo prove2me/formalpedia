@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_isKum_cocycle
 -- name    : GlobalTheory.K5.Basic.isKum_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:12:39.135701+00:00
 -- url     : https://prove2.me/theorems/aeea1f04-155d-53b5-9c5e-ee327cd47a2b

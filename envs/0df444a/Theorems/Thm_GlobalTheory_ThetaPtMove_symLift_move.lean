@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_symLift_move
 -- name    : GlobalTheory.ThetaPtMove.symLift_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:36:11.069456+00:00
 -- url     : https://prove2.me/theorems/d9b7eacc-43a2-5ed5-9a1d-c37c1a1f1865

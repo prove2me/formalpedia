@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_framePeriods_alt
 -- name    : GlobalTheory.T.exists_framePeriods_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:24:00.428453+00:00
 -- url     : https://prove2.me/theorems/ac02970e-8de2-4771-bb3d-863ccaafbca8

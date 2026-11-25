@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelExp_HolAt_const
 -- name    : GlobalTheory.RelExp.HolAt.const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:20:08.292938+00:00
 -- url     : https://prove2.me/theorems/05ad3da8-122e-4d33-a14f-c141f0fa5438

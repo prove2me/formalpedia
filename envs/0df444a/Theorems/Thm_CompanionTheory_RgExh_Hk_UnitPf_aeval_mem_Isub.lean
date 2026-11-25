@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_aeval_mem_Isub
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.aeval_mem_Isub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:04:10.446426+00:00
 -- url     : https://prove2.me/theorems/a8dbe895-c235-4248-ba4b-c420b4f4ad8f

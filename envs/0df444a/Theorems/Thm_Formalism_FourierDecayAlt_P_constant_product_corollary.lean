@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_constant_product_corollary
 -- name    : Formalism.FourierDecayAlt.P.constant_product_corollary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:30:16.956361+00:00
 -- url     : https://prove2.me/theorems/ff93c895-53c5-4bb6-9ff7-8d7f7daef98e

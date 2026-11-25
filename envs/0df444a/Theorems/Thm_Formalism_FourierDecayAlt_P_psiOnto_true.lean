@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_psiOnto_true
 -- name    : Formalism.FourierDecayAlt.P.psiOnto_true
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:30.813664+00:00
 -- url     : https://prove2.me/theorems/542ebe23-949a-430e-bb0a-b8daf972f98c

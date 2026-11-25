@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_idealCountLeWAsm
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.idealCountLeWAsm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:38:33.72606+00:00
 -- url     : https://prove2.me/theorems/a6044af9-50ce-58b1-a1a1-8f890f351658

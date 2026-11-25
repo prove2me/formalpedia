@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1003_4724_long_wave_permittivity_kubo_form
 -- name    : Arxiv1003_4724.long_wave_permittivity_kubo_form
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T23:56:12.309886+00:00
 -- url     : https://prove2.me/theorems/539798b8-48f9-487e-b4e3-b22e6a723489

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffRings_isIntegral_int_zeta
 -- name    : GlobalTheory.CoeffRings.isIntegral_int_zeta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:00:37.305829+00:00
 -- url     : https://prove2.me/theorems/3ce8f712-5401-40a5-a4ff-1f9cd7472c6f

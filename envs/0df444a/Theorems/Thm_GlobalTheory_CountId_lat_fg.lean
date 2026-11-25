@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_lat_fg
 -- name    : GlobalTheory.CountId.lat_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:50.88153+00:00
 -- url     : https://prove2.me/theorems/14363fff-49ba-5ff1-87c6-705e1e359365

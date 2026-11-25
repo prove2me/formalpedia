@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralCusp_exists_root_bound
 -- name    : GlobalTheory.IntegralCusp.exists_root_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:12:52.582734+00:00
 -- url     : https://prove2.me/theorems/0d7fb410-4d3e-550f-9ff1-f2262cdbe7ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_CarryCalc_carries_of_val
 -- name    : GlobalTheory.ChartCmp.CarryCalc.carries_of_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:04:12.567163+00:00
 -- url     : https://prove2.me/theorems/a9cfbf98-e85d-54a6-a843-165b16ed5072

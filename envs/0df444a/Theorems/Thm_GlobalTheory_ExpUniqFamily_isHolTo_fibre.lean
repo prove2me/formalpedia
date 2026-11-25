@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpUniqFamily_isHolTo_fibre
 -- name    : GlobalTheory.ExpUniqFamily.isHolTo_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:00:28.540566+00:00
 -- url     : https://prove2.me/theorems/c677edde-e2b1-4ab4-bfdb-9c6b630d45ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitPlaceExt_algHom_eq_or_conj
 -- name    : GlobalTheory.SplitPlaceExt.algHom_eq_or_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:24:45.598055+00:00
 -- url     : https://prove2.me/theorems/eb63a0bf-294a-4e8d-8ac3-3a8cb1c16390

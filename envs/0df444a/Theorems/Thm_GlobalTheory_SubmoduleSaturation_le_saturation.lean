@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubmoduleSaturation_le_saturation
 -- name    : GlobalTheory.SubmoduleSaturation.le_saturation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:24:39.197802+00:00
 -- url     : https://prove2.me/theorems/06f9311b-c4fd-4ae6-996f-5ed7a6779dfc

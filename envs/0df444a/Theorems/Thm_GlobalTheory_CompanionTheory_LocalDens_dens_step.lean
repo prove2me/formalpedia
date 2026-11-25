@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_dens_step
 -- name    : GlobalTheory.CompanionTheory.LocalDens.dens_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:42.404787+00:00
 -- url     : https://prove2.me/theorems/296812d5-2560-4bc5-a42a-3a6cf3b19913

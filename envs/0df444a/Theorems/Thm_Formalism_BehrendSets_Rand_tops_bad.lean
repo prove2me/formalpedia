@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Rand_tops_bad
 -- name    : Formalism.BehrendSets.Rand.tops_bad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:19:55.644213+00:00
 -- url     : https://prove2.me/theorems/0f4cf6c4-0559-56be-b82f-d3cbd552d276

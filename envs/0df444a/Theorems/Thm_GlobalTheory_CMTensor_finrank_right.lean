@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTensor_finrank_right
 -- name    : GlobalTheory.CMTensor.finrank_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:18.578082+00:00
 -- url     : https://prove2.me/theorems/bfdbb2da-6a57-4b2b-bbd6-30e8167f20d7

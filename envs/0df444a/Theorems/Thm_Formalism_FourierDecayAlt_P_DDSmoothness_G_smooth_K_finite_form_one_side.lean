@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_DDSmoothness_G_smooth_K_finite_form_one_side
 -- name    : Formalism.FourierDecayAlt.P.DDSmoothness.G.smooth_K_finite_form_one_side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:27:05.421189+00:00
 -- url     : https://prove2.me/theorems/a0fd8e5b-cda3-4916-943e-2f9d81e074c1

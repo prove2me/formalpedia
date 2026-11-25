@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusGrading_eq_zero_of_sum_chV
 -- name    : GlobalTheory.TorusGrading.eq_zero_of_sum_chV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:58:10.925156+00:00
 -- url     : https://prove2.me/theorems/0c2ca7ba-f5a3-4acf-866a-6c6acc5ddd52

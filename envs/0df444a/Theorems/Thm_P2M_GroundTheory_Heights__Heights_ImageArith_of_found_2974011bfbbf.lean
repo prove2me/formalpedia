@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ImageArith_of_found_2974011bfbbf
 -- name    : P2M_GroundTheory_Heights__Heights_ImageArith_of_found_2974011bfbbf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:26.557838+00:00
 -- url     : https://prove2.me/theorems/d3206ffb-196a-47fd-9a0d-c1b5d02caf3b

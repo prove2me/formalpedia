@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_card_H1_comp_equiv
 -- name    : ReciprocityTheory.Neutral.Bridge.card_H1_comp_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:06:06.747802+00:00
 -- url     : https://prove2.me/theorems/6ed7b85e-c02f-416a-ac36-7158c443f661

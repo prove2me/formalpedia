@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_actL_apply
 -- name    : Formalism.L2.Pj.actL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:46:20.944749+00:00
 -- url     : https://prove2.me/theorems/2644c1d1-9545-41a0-a8e7-b3dd5642c392

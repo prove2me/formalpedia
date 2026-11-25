@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_Test_swap_ne_scalar
 -- name    : GlobalTheory.PDivGroup.Test.swap_ne_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:21:26.538927+00:00
 -- url     : https://prove2.me/theorems/e4b2b74e-a927-5f57-983c-fa3efde8b81e

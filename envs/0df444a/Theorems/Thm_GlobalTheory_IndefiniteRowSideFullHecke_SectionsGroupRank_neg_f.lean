@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SectionsGroupRank_neg_f
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SectionsGroupRank.neg_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:37.837265+00:00
 -- url     : https://prove2.me/theorems/a861b769-8f1d-47f1-865c-96e0a3920c4f

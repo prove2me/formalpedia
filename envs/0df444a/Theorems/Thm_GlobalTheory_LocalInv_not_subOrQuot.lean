@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_not_subOrQuot
 -- name    : GlobalTheory.LocalInv.not_subOrQuot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:26:07.069811+00:00
 -- url     : https://prove2.me/theorems/17fee9f6-cb4b-54e1-b39f-5029cdd28695

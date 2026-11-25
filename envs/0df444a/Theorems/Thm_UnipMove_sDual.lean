@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_sDual
 -- name    : UnipMove.sDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:11.698397+00:00
 -- url     : https://prove2.me/theorems/c82f0ddd-29e6-5261-8a90-6c53635f20f8

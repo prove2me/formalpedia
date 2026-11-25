@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_summable_absNorm_rpow
 -- name    : ReciprocityTheory.Neutral.Bridge.summable_absNorm_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:06:50.132645+00:00
 -- url     : https://prove2.me/theorems/0dd55fa9-102a-4e0b-8a08-cf7d86104b07

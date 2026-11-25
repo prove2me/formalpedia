@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagMahler_gram_stab
 -- name    : GlobalTheory.FlagMahler.gram_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:59:21.949049+00:00
 -- url     : https://prove2.me/theorems/817fe9f0-1cd3-562d-9abb-ad8303b0bb2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PositiveSemidefiniteClosure_nat_tri
 -- name    : Formalism.FourierDecayAlt.P.PositiveSemidefiniteClosure.nat_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:26:35.436156+00:00
 -- url     : https://prove2.me/theorems/5be7de19-8b50-480b-999a-727a78e3c43c

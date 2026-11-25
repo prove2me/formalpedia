@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_AdmissibleSchurLemma_schur_adm
 -- name    : UpperTheory.Reformulated.B.AdmissibleSchurLemma.schur_adm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:12:16.1087+00:00
 -- url     : https://prove2.me/theorems/9d7ca1ad-c5c5-4e7e-9c37-83d1b9fff8db

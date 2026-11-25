@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_gainSqrt
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.gainSqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:18.018846+00:00
 -- url     : https://prove2.me/theorems/bf81f108-95c5-4619-bf23-d76286efcfff

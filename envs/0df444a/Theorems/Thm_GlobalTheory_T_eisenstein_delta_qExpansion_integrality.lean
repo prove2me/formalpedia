@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eisenstein_delta_qExpansion_integrality
 -- name    : GlobalTheory.T.eisenstein_delta_qExpansion_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:27:58.658801+00:00
 -- url     : https://prove2.me/theorems/c33a1c56-28d5-5c29-a3bb-e105efb031a2

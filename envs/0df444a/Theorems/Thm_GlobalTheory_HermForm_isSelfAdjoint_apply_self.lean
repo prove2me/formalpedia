@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_isSelfAdjoint_apply_self
 -- name    : GlobalTheory.HermForm.isSelfAdjoint_apply_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:10.419887+00:00
 -- url     : https://prove2.me/theorems/459a9b7b-2908-44e8-9d16-270962f876db

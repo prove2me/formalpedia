@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_Final_volJ
 -- name    : Formalism.DoubleCosetMeasures.Final.volJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:25:50.325349+00:00
 -- url     : https://prove2.me/theorems/083d73a7-ed93-4aa7-91a0-6a54cd5d2cbe

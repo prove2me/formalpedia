@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_residue_reflection_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.residue_reflection_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:15.817063+00:00
 -- url     : https://prove2.me/theorems/8ecdbe5f-226a-5c26-adb7-c5b7d2fb6b85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OmegaColumnSlices_hat_mem_SB_and_hat_omCol
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OmegaColumnSlices.hat_mem_SB_and_hat_omCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:09:41.384808+00:00
 -- url     : https://prove2.me/theorems/d3c5bbdb-6657-4799-80b9-eba9e33ff358

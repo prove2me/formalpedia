@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_frobenius_bound_of_mul_near_one
 -- name    : Formalism.REAL.frobenius_bound_of_mul_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:17.638858+00:00
 -- url     : https://prove2.me/theorems/a870cff3-440a-45bc-b236-d8192f4140e1

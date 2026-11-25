@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_normGroup_self_eq_top
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.normGroup_self_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:51.167372+00:00
 -- url     : https://prove2.me/theorems/68a3bb6e-68c7-5874-aed0-2de134f50a20

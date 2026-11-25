@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_Det2_v_det_scaled
 -- name    : ReciprocityTheory.PGsh.Up.Det2.v_det_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:36.497096+00:00
 -- url     : https://prove2.me/theorems/2a94d192-c477-5eef-bed0-0e0dda3f9f53

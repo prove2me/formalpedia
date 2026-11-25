@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_axesFB
 -- name    : Formalism.L2.FormalSeriesBounds.axesFB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:45:52.392956+00:00
 -- url     : https://prove2.me/theorems/e3c071a3-9015-527a-8d8d-dd9e26bf1a39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Branch_normalRiemannExtensionLocal
 -- name    : GlobalTheory.CompanionTheory.Ar.Branch.normalRiemannExtensionLocal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:59:17.976106+00:00
 -- url     : https://prove2.me/theorems/88463d4c-27fe-4f33-9b75-fc5801bd2282

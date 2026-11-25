@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_vanishing_of_projection_support
 -- name    : GlobalTheory.T.vanishing_of_projection_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:21.172684+00:00
 -- url     : https://prove2.me/theorems/c552f92e-8703-59da-89b2-90d200244868

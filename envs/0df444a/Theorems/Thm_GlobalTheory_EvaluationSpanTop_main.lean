@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvaluationSpanTop_main
 -- name    : GlobalTheory.EvaluationSpanTop.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:47.625938+00:00
 -- url     : https://prove2.me/theorems/eeea9486-e6a9-502c-b1d3-635fd24d0566

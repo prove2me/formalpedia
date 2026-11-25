@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_card_eq_sq_fixed
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitPrimeIdeals.card_eq_sq_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:23.000945+00:00
 -- url     : https://prove2.me/theorems/802c1145-2e24-4c1b-a195-6f9d497943ad

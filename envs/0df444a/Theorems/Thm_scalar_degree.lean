@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_scalar_degree
 -- name    : scalar_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:16:35.626486+00:00
 -- url     : https://prove2.me/theorems/003d9800-580e-40ef-b09a-0eaf91837eaf

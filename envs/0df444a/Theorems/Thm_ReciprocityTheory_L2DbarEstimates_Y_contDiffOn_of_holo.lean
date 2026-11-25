@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_contDiffOn_of_holo
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.contDiffOn_of_holo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:32:56.417827+00:00
 -- url     : https://prove2.me/theorems/c4da2922-0fdc-4737-9278-c9ede7bac29f

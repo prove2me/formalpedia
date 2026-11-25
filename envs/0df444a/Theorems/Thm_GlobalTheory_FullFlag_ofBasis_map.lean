@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_ofBasis_map
 -- name    : GlobalTheory.FullFlag.ofBasis_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:35.954819+00:00
 -- url     : https://prove2.me/theorems/34a06d11-cacd-5277-b358-cbc5193ec7a9

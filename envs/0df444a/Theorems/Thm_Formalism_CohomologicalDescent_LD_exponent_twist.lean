@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_exponent_twist
 -- name    : Formalism.CohomologicalDescent.LD.exponent_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:22:50.121106+00:00
 -- url     : https://prove2.me/theorems/bde9e6ba-8005-4b65-9d1f-aa62db0ea9cc

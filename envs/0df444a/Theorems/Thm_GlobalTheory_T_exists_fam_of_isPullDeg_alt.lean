@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fam_of_isPullDeg_alt
 -- name    : GlobalTheory.T.exists_fam_of_isPullDeg_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:36:18.57813+00:00
 -- url     : https://prove2.me/theorems/433c5323-0ea0-4758-9441-d2058a04d05d

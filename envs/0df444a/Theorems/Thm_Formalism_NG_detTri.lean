@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_detTri
 -- name    : Formalism.NG.detTri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:51:29.42446+00:00
 -- url     : https://prove2.me/theorems/6535e6fb-9c0c-4b57-a6fb-0140e9321894

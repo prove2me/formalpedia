@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_AffineProjectionSplitting_ucomp_smul
 -- name    : UnipMove.AffineProjectionSplitting.ucomp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:11:00.108652+00:00
 -- url     : https://prove2.me/theorems/07edf12f-9d39-405b-bebe-c3152b24330d

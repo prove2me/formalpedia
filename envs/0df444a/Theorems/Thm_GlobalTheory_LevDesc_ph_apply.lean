@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_ph_apply
 -- name    : GlobalTheory.LevDesc.ph_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:13.455273+00:00
 -- url     : https://prove2.me/theorems/f37b8bcf-2af8-4fc6-948f-1066ae15452f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_biTriv_unique
 -- name    : GlobalTheory.UU.biTriv_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:04:41.572856+00:00
 -- url     : https://prove2.me/theorems/2e7eb9d1-5217-4e33-90e2-5a3c67c41afe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Gub2_fg_Z1T
 -- name    : UpperTheory.Reformulated.B.Gub2.fg_Z1T
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:06:34.124295+00:00
 -- url     : https://prove2.me/theorems/c7dd2f21-e100-4a7a-be50-2f6201981b50

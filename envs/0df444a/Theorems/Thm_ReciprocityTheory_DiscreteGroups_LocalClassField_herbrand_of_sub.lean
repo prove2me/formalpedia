@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_herbrand_of_sub
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.herbrand_of_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:55:29.729984+00:00
 -- url     : https://prove2.me/theorems/f396a097-3303-50fb-aab4-050fa490a359

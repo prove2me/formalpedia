@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_product_lowerBound
 -- name    : product_lowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:15:13.993463+00:00
 -- url     : https://prove2.me/theorems/4c67b565-70f6-4ad1-941e-28dea67514b2

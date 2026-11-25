@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_density_le_two
 -- name    : Formalism.FourierDecayAlt.P.density_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:27.014336+00:00
 -- url     : https://prove2.me/theorems/0b3611d6-6e10-46a5-9caf-73c36206af1b

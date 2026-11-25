@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_five_le_of_inert
 -- name    : Formalism.BasicNotions.Host.five_le_of_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:20:55.595651+00:00
 -- url     : https://prove2.me/theorems/56a91b84-846b-4734-aeaa-d0b17a9783b1

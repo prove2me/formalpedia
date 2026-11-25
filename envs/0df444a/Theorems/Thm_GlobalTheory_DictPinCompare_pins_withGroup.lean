@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_pins_withGroup
 -- name    : GlobalTheory.DictPinCompare.pins_withGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:31.848824+00:00
 -- url     : https://prove2.me/theorems/991f6edf-ab8e-5e94-9173-372fa552c27c

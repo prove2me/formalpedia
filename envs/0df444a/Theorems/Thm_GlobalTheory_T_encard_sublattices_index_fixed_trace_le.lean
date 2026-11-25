@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_encard_sublattices_index_fixed_trace_le
 -- name    : GlobalTheory.T.encard_sublattices_index_fixed_trace_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:33:38.627286+00:00
 -- url     : https://prove2.me/theorems/71eb592a-cb75-5adc-be9d-662e1eda3dd8

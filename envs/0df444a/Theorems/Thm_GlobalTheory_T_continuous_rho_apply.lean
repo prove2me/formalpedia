@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_rho_apply
 -- name    : GlobalTheory.T.continuous_rho_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:41.403018+00:00
 -- url     : https://prove2.me/theorems/7152f3af-39c6-50e7-88ba-937a56427578

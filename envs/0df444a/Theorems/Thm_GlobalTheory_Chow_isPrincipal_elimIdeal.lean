@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_isPrincipal_elimIdeal
 -- name    : GlobalTheory.Chow.isPrincipal_elimIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:38.632921+00:00
 -- url     : https://prove2.me/theorems/fe067f5a-d68e-57d7-a850-c89d215c03fe

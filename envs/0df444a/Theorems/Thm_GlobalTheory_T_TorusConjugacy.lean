@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_TorusConjugacy
 -- name    : GlobalTheory.T.TorusConjugacy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:33:22.472256+00:00
 -- url     : https://prove2.me/theorems/5d9c4d1a-d5c7-5d9a-b12d-510694b2b77d

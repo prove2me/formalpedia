@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTransference_cmApproximation_transference
 -- name    : GlobalTheory.CMTransference.cmApproximation_transference
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:03:42.990869+00:00
 -- url     : https://prove2.me/theorems/6d05e1d5-b697-53df-a309-6b4d59da87f0

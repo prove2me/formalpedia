@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_constant_wave_corollary
 -- name    : Formalism.FourierDecayAlt.P.constant_wave_corollary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:29:58.730869+00:00
 -- url     : https://prove2.me/theorems/7ecf682e-99a1-4338-931f-460ea7a137cb

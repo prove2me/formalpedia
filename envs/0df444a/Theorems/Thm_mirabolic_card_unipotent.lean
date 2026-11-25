@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mirabolic_card_unipotent
 -- name    : mirabolic_card_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:40.233391+00:00
 -- url     : https://prove2.me/theorems/d65fb555-9901-46eb-92a2-bc826067944e

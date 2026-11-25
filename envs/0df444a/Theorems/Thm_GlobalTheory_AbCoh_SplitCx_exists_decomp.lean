@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_SplitCx_exists_decomp
 -- name    : GlobalTheory.AbCoh.SplitCx.exists_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:51:44.491687+00:00
 -- url     : https://prove2.me/theorems/34a195c1-8501-4bcd-a5a3-473d1ac190c1

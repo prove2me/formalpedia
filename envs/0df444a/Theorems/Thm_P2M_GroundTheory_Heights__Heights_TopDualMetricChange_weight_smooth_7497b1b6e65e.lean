@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TopDualMetricChange_weight_smooth_7497b1b6e65e
 -- name    : P2M_GroundTheory_Heights__Heights_TopDualMetricChange_weight_smooth_7497b1b6e65e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:16:02.589157+00:00
 -- url     : https://prove2.me/theorems/1b4292ce-e848-4575-bb52-c00e2fdae42d

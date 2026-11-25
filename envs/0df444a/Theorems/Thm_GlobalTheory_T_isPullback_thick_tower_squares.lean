@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isPullback_thick_tower_squares
 -- name    : GlobalTheory.T.isPullback_thick_tower_squares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:36:01.665784+00:00
 -- url     : https://prove2.me/theorems/c99cee4f-8524-5f02-998b-58d05bbd8503

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_unitaryGroup_smul_app_left
 -- name    : GlobalTheory.HermForm.unitaryGroup.smul_app_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:51.605425+00:00
 -- url     : https://prove2.me/theorems/ecff6eda-436f-4c13-8d2d-509b7d8a9039

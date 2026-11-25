@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_mem_admissible_setting
 -- name    : Formalism.REAL.mem_admissible_setting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:06.576567+00:00
 -- url     : https://prove2.me/theorems/afba1b00-aa5b-495f-a05d-3461312fbeb3

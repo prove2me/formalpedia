@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_L_eq_span
 -- name    : GlobalTheory.BK.PhiMod.L_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:56:04.625449+00:00
 -- url     : https://prove2.me/theorems/5ecbc84e-7167-58d6-8b80-c3860c87514d

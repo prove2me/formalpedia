@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_linSub_sqSum
 -- name    : Formalism.L2.Th1.G.linSub_sqSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:01.241604+00:00
 -- url     : https://prove2.me/theorems/649977ed-c1f5-5d9f-86c4-04b5860220ab

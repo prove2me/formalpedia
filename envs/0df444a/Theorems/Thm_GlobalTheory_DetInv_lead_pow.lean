@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetInv_lead_pow
 -- name    : GlobalTheory.DetInv.lead_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:14.674657+00:00
 -- url     : https://prove2.me/theorems/1e6575e0-e27f-4ca3-8f89-baedc9d0d62f

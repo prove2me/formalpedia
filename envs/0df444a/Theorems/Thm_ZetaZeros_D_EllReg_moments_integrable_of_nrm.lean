@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_moments_integrable_of_nrm
 -- name    : ZetaZeros.D.EllReg.moments_integrable_of_nrm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:49.389804+00:00
 -- url     : https://prove2.me/theorems/a729c786-44d4-425d-a861-0c88e4b9b73e

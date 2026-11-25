@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelConstThickening_existsUnique_decomp
 -- name    : GlobalTheory.RelConstThickening.existsUnique_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:21:19.928803+00:00
 -- url     : https://prove2.me/theorems/eb5d806d-aa7a-4965-b361-8d063d4bc62d

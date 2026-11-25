@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_columnGramDeterminant_diagonalBlockUnitLower_pos
 -- name    : GlobalTheory.T.columnGramDeterminant_diagonalBlockUnitLower_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:27:40.669812+00:00
 -- url     : https://prove2.me/theorems/845c5629-5fbb-5416-89ca-d2fc3f99d18c

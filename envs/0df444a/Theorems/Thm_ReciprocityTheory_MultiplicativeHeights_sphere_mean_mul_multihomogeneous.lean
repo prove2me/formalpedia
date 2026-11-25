@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sphere_mean_mul_multihomogeneous
 -- name    : ReciprocityTheory.MultiplicativeHeights.sphere_mean_mul_multihomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:04:55.356981+00:00
 -- url     : https://prove2.me/theorems/606915c5-f428-4087-8d29-969c9fab4e70

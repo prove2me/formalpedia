@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0812_1178_cartesian_moments_polar_gaussian
 -- name    : Arxiv0812_1178.cartesian_moments_polar_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:54:48.115825+00:00
 -- url     : https://prove2.me/theorems/2f26f823-0250-4e30-845a-e4578024a172

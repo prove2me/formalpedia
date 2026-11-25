@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_restrictedHopfOrderApproximation
 -- name    : ReciprocityTheory.PGsh.Up.restrictedHopfOrderApproximation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:08:53.014894+00:00
 -- url     : https://prove2.me/theorems/a0b2b897-3b3c-537a-b7af-36a1c86d62fb

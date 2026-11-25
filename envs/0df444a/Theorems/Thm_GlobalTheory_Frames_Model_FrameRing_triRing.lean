@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_FrameRing_triRing
 -- name    : GlobalTheory.Frames.Model.FrameRing.triRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:37.021405+00:00
 -- url     : https://prove2.me/theorems/b542eb8c-23f4-5143-b0fd-6f5a23d50450

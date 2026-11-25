@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_PhiOrder_exists_kap
 -- name    : GlobalTheory.UT.PhiOrder.exists_kap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:20:10.951279+00:00
 -- url     : https://prove2.me/theorems/591825e6-2c82-4c62-ac87-4de2114970e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpSpread_exists_grpObj
 -- name    : GlobalTheory.GrpSpread.exists_grpObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:51:10.935019+00:00
 -- url     : https://prove2.me/theorems/03609f25-bf2d-4c06-812f-8ca26ecb2927

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContrastiveInverts_sphere_dot_product_map_is_scaled_orthogonal
 -- name    : ContrastiveInverts.sphere_dot_product_map_is_scaled_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T18:43:22.446927+00:00
 -- url     : https://prove2.me/theorems/eb3d6d2c-99d5-4949-9b65-b80744780848

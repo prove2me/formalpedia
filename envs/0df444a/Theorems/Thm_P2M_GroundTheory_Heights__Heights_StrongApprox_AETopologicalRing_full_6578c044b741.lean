@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_AETopologicalRing_full_6578c044b741
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_AETopologicalRing_full_6578c044b741
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:05.818298+00:00
 -- url     : https://prove2.me/theorems/c12317f7-1700-4317-8098-c6d0d88953a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_first_congruence_index
 -- name    : Formalism.FourierDecayAlt.P.first_congruence_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:32:25.104353+00:00
 -- url     : https://prove2.me/theorems/c0a3e69e-7c2b-4eb5-be00-ad81600a21a5

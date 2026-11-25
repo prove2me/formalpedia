@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_left_inverse_of_fibrewise_injective
 -- name    : GlobalTheory.T.exists_left_inverse_of_fibrewise_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:12.973084+00:00
 -- url     : https://prove2.me/theorems/15ce3191-1c4c-4ba4-be3e-108d377755ad

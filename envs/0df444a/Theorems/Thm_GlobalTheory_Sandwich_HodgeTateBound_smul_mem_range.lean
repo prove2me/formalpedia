@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Sandwich_HodgeTateBound_smul_mem_range
 -- name    : GlobalTheory.Sandwich.HodgeTateBound.smul_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:22:22.365971+00:00
 -- url     : https://prove2.me/theorems/e847c59f-8551-4b33-a8ff-db3da238d030

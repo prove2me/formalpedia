@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_weil_representation_of_lattice_vacua
 -- name    : GlobalTheory.T.exists_weil_representation_of_lattice_vacua
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:39:35.503661+00:00
 -- url     : https://prove2.me/theorems/89632ca6-0714-4857-bfbc-7db6e271a26f

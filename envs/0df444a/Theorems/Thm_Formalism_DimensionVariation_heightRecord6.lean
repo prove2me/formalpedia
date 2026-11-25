@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_heightRecord6
 -- name    : Formalism.DimensionVariation.heightRecord6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:25:04.833199+00:00
 -- url     : https://prove2.me/theorems/0f8d3706-c8ba-52f3-92fa-6e774cf0dc06

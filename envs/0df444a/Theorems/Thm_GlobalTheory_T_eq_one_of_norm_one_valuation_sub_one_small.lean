@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_one_of_norm_one_valuation_sub_one_small
 -- name    : GlobalTheory.T.eq_one_of_norm_one_valuation_sub_one_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:04.409092+00:00
 -- url     : https://prove2.me/theorems/8aa6b696-0e65-5ccf-9364-4846e38fabd3

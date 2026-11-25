@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_gsv_tvec_sum
 -- name    : Formalism.L2.Pj.gsv_tvec_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:42:35.258796+00:00
 -- url     : https://prove2.me/theorems/f7c322c0-e998-5f77-b215-f1e2b01269b9

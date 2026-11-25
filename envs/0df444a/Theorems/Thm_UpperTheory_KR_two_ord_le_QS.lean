@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_KR_two_ord_le_QS
 -- name    : UpperTheory.KR.two_ord_le_QS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:15:29.906477+00:00
 -- url     : https://prove2.me/theorems/0880ad39-1490-4610-8d68-452cdeafec68

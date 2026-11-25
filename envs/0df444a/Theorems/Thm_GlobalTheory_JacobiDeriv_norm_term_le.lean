@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacobiDeriv_norm_term_le
 -- name    : GlobalTheory.JacobiDeriv.norm_term_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:12:28.780097+00:00
 -- url     : https://prove2.me/theorems/fbfb7c40-9348-5268-9211-370f9159eff9

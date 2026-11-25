@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Model_exists_etaProd_neg_one
 -- name    : GlobalTheory.QuadSymbol.Model.exists_etaProd_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:21.815828+00:00
 -- url     : https://prove2.me/theorems/c15204d2-a613-490d-a261-7fd1c154d420

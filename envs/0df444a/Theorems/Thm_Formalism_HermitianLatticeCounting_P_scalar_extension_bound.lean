@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_scalar_extension_bound
 -- name    : Formalism.HermitianLatticeCounting.P.scalar_extension_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:27.745836+00:00
 -- url     : https://prove2.me/theorems/d41482d9-b778-50c0-9e71-77cc8048b7f1

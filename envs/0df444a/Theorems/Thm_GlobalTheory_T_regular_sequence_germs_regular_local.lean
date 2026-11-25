@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_regular_sequence_germs_regular_local
 -- name    : GlobalTheory.T.regular_sequence_germs_regular_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:56.941493+00:00
 -- url     : https://prove2.me/theorems/c2d7ad2a-3a4c-415f-80c1-6a0df3b90102

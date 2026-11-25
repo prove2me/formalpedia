@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_grp_bridge
 -- name    : UpperTheory.HF.grp_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:23:01.147039+00:00
 -- url     : https://prove2.me/theorems/f73e41ec-bd01-5975-b818-743616ec9334

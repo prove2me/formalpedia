@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_WpBridge_of
 -- name    : Formalism.L2.Th1.E.WpBridge_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:49:47.576543+00:00
 -- url     : https://prove2.me/theorems/4d695f70-f153-5ecd-9d6e-e8c92a2ac8e7

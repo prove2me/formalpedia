@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorFrame_prodMinors_mem_inv
 -- name    : GlobalTheory.MinorFrame.prodMinors_mem_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:21:41.109831+00:00
 -- url     : https://prove2.me/theorems/a01513fd-5826-5c51-85d6-a4c475491e68

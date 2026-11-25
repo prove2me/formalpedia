@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_kapTrdeg_pf
 -- name    : Formalism.L2.Pj.kapTrdeg_pf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:47:39.770257+00:00
 -- url     : https://prove2.me/theorems/551c5703-b6ac-5d67-b270-6755b8e6ef5d

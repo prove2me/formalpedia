@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpDescent_grpObj_descends_faithfullyFlat
 -- name    : GlobalTheory.GrpDescent.grpObj_descends_faithfullyFlat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:06:24.17627+00:00
 -- url     : https://prove2.me/theorems/d3e7fb54-a731-5361-99da-9ab1d8b52dde

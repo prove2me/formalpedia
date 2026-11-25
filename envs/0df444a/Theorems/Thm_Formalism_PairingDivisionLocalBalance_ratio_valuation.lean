@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_PairingDivisionLocalBalance_ratio_valuation
 -- name    : Formalism.PairingDivisionLocalBalance.ratio_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:53:25.032704+00:00
 -- url     : https://prove2.me/theorems/4a1da756-e005-5a58-a775-fbc90e9a8ef7

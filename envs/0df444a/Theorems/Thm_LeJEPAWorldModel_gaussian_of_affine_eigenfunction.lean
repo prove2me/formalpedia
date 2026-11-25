@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeJEPAWorldModel_gaussian_of_affine_eigenfunction
 -- name    : LeJEPAWorldModel.gaussian_of_affine_eigenfunction
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:17:44.303263+00:00
 -- url     : https://prove2.me/theorems/330d78a3-2c5a-4462-93e9-924e2130eafe

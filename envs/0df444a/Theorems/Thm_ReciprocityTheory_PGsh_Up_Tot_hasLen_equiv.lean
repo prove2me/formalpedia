@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_Tot_hasLen_equiv
 -- name    : ReciprocityTheory.PGsh.Up.Tot.hasLen_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:18.081071+00:00
 -- url     : https://prove2.me/theorems/b6362651-b173-4d4e-a813-38de0726da27

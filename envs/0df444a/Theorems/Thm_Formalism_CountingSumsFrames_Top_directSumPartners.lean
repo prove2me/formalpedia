@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_directSumPartners
 -- name    : Formalism.CountingSumsFrames.Top.directSumPartners
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:23:47.231163+00:00
 -- url     : https://prove2.me/theorems/376bc9f4-c742-4f95-8ea4-fb4d4034a9a8

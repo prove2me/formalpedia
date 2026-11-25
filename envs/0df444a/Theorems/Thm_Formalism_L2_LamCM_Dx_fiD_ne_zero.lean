@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_Dx_fiD_ne_zero
 -- name    : Formalism.L2.LamCM.Dx.fiD_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:12.450733+00:00
 -- url     : https://prove2.me/theorems/600cf4b6-ce01-4514-9d1e-c2754690b9b6

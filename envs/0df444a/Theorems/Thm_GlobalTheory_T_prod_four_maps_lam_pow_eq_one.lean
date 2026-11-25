@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prod_four_maps_lam_pow_eq_one
 -- name    : GlobalTheory.T.prod_four_maps_lam_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:31.758336+00:00
 -- url     : https://prove2.me/theorems/cb3d1ab8-fe0f-5323-b6bc-8e48f7c784c9

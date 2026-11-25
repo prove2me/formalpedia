@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedIdealWithBoundary_pullbackAlong_structureMorphism
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedIdealWithBoundary.pullbackAlong_structureMorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:53:09.094871+00:00
 -- url     : https://prove2.me/theorems/6d1de503-6b6f-4b0a-b653-77dfdf3282b1

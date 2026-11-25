@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_isUnit_algInt_iff
 -- name    : GlobalTheory.DiscEval.isUnit_algInt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:59:37.495377+00:00
 -- url     : https://prove2.me/theorems/95fd61ae-790f-4c67-bd75-051ff861a729

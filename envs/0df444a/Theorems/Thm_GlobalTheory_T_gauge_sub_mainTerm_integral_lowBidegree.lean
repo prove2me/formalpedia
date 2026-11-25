@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gauge_sub_mainTerm_integral_lowBidegree
 -- name    : GlobalTheory.T.gauge_sub_mainTerm_integral_lowBidegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:33:40.337424+00:00
 -- url     : https://prove2.me/theorems/85a8292b-2326-4544-8c4e-2d2c81f87021

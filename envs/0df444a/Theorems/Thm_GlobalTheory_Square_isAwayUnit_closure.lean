@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_isAwayUnit_closure
 -- name    : GlobalTheory.Square.isAwayUnit_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:26:07.123107+00:00
 -- url     : https://prove2.me/theorems/9f81c74b-6557-5712-bcdd-d11853e9d797

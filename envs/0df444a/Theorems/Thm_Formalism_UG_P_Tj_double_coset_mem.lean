@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_Tj_double_coset_mem
 -- name    : Formalism.UG.P.Tj_double_coset_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:04.716039+00:00
 -- url     : https://prove2.me/theorems/30f75b49-b6f2-51be-9c4c-69621fd72984

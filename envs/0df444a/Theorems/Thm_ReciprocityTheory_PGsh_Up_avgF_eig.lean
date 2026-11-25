@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_avgF_eig
 -- name    : ReciprocityTheory.PGsh.Up.avgF_eig
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:18:17.847995+00:00
 -- url     : https://prove2.me/theorems/9e4cea09-7c69-457e-b4cb-52ca4adb5a3c

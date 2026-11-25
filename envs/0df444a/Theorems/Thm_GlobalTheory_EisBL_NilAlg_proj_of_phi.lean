@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EisBL_NilAlg_proj_of_phi
 -- name    : GlobalTheory.EisBL.NilAlg.proj_of_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:04:42.97581+00:00
 -- url     : https://prove2.me/theorems/15c5cda0-617c-4c4a-9f76-e2cf86a1a6a4

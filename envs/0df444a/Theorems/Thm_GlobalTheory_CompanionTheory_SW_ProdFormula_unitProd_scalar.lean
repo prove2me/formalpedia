@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_ProdFormula_unitProd_scalar
 -- name    : GlobalTheory.CompanionTheory.SW.ProdFormula.unitProd_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:37:47.471715+00:00
 -- url     : https://prove2.me/theorems/1b2fbd0f-b14d-5107-8559-878869986c4a

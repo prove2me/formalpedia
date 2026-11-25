@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_fibreSnd_nsmul_smul
 -- name    : ReciprocityTheory.PGsh.BX.fibreSnd_nsmul_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:05:36.782156+00:00
 -- url     : https://prove2.me/theorems/61c7c628-72b6-4b3d-b18c-d9742db7f09c

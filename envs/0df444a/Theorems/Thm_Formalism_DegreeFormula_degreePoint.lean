@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_degreePoint
 -- name    : Formalism.DegreeFormula.degreePoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:35.837236+00:00
 -- url     : https://prove2.me/theorems/80da24cb-f8e0-5cc7-aa0e-dd253122c760

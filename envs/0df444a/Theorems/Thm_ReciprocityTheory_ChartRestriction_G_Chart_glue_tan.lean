@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_glue_tan
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.glue_tan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:02:14.795851+00:00
 -- url     : https://prove2.me/theorems/54c2cab7-738a-4d33-8e4d-47537b4d3ccd

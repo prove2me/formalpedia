@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightZeroCompare_gaussAbs_eq
 -- name    : GlobalTheory.HeightZeroCompare.gaussAbs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:14.734041+00:00
 -- url     : https://prove2.me/theorems/9dd75084-69c6-4a2f-81aa-7488cc723796

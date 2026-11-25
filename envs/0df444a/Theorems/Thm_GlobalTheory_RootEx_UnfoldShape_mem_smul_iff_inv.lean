@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_mem_smul_iff_inv
 -- name    : GlobalTheory.RootEx.UnfoldShape.mem_smul_iff_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:56.555598+00:00
 -- url     : https://prove2.me/theorems/3b5212ed-22d0-4d9f-a7fc-b14e22e84953

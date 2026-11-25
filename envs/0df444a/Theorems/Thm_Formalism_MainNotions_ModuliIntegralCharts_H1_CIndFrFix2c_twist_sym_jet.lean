@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2c_twist_sym_jet
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2c.twist_sym_jet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:49:06.839468+00:00
 -- url     : https://prove2.me/theorems/afd09d3b-9854-470f-9862-946a2c203b58

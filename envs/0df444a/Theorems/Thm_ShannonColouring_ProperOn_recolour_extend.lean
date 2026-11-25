@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_ProperOn_recolour_extend
 -- name    : ShannonColouring.ProperOn.recolour_extend
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:02:25.334713+00:00
 -- url     : https://prove2.me/theorems/d4872f18-f15f-5d5f-bdc1-c8c9e2080c0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_NrmCompl_continuous_nrmAbs
 -- name    : GlobalTheory.Mem.NrmCompl.continuous_nrmAbs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:13.718075+00:00
 -- url     : https://prove2.me/theorems/d025b43c-b70b-49f0-8f73-a2c9ce334aef

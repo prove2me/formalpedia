@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_scaledTorusMean_le_torusMean
 -- name    : ReciprocityTheory.MultiplicativeHeights.scaledTorusMean_le_torusMean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:04:48.358887+00:00
 -- url     : https://prove2.me/theorems/80dcb624-7a83-5dc5-81a6-aecd00147ea3

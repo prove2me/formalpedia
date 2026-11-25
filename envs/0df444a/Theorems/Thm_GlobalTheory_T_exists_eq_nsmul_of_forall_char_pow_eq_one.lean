@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_eq_nsmul_of_forall_char_pow_eq_one
 -- name    : GlobalTheory.T.exists_eq_nsmul_of_forall_char_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:28:48.065027+00:00
 -- url     : https://prove2.me/theorems/a6907447-6aec-5b9b-b89e-8eb09b2506d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_Top_fock_pairing_highest_weight
 -- name    : Formalism.L2.G.Model.TS.Top.fock_pairing_highest_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:46:43.247698+00:00
 -- url     : https://prove2.me/theorems/7443243e-d898-490e-8795-855a6dfcab78

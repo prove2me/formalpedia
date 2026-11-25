@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_degSum
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.degSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:14.597679+00:00
 -- url     : https://prove2.me/theorems/dd978774-1ae1-4715-acc1-199c6d212868

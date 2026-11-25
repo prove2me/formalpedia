@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxPower_boxPower_basic
 -- name    : GlobalTheory.BoxPower.boxPower_basic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:59:15.248775+00:00
 -- url     : https://prove2.me/theorems/45cb3acd-1133-4e7d-aadd-90e305be8cc5

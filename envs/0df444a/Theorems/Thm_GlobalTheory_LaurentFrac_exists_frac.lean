@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFrac_exists_frac
 -- name    : GlobalTheory.LaurentFrac.exists_frac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:12:53.346686+00:00
 -- url     : https://prove2.me/theorems/7c21fdb2-a1ad-5d9f-8164-c48c3d025fcb

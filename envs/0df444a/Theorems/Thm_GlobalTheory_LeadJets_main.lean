@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadJets_main
 -- name    : GlobalTheory.LeadJets.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:14:19.586406+00:00
 -- url     : https://prove2.me/theorems/04d3a2c5-2d34-4de0-85df-af324d738481

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchrodingerSchwartzBruhat_GlobalTheory_CompanionTheory_SchrSB_eq_one_of_pow_two_pow_near
 -- name    : SchrodingerSchwartzBruhat.GlobalTheory.CompanionTheory.SchrSB.eq_one_of_pow_two_pow_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:10:36.107011+00:00
 -- url     : https://prove2.me/theorems/ac68debb-40d8-5a8c-b952-e9671753f5ae

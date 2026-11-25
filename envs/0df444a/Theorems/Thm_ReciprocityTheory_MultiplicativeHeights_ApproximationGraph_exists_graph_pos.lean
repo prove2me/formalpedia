@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_exists_graph_pos
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.exists_graph_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:01:30.535013+00:00
 -- url     : https://prove2.me/theorems/14277dbb-6f81-43f2-8185-93b224f501b4

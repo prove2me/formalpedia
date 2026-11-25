@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isAbelianScheme_and_relDim_of_open_cover
 -- name    : GlobalTheory.T.isAbelianScheme_and_relDim_of_open_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:48:55.490989+00:00
 -- url     : https://prove2.me/theorems/20f89375-512c-47e6-aaff-853904c93091

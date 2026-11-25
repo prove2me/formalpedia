@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_multA_intOn_w
 -- name    : ReciprocityTheory.L2DbarEstimates.F.multA_intOn_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:01:49.679601+00:00
 -- url     : https://prove2.me/theorems/de27914f-b003-4bd1-8b23-2d6ad54fb8ad

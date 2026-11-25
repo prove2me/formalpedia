@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuasiAffineTorus_exists_point_of_weights
 -- name    : GlobalTheory.QuasiAffineTorus.exists_point_of_weights
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:43:50.908579+00:00
 -- url     : https://prove2.me/theorems/0f1aef62-9ca0-4b62-93f8-b5b8bfed4a65

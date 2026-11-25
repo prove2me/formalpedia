@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsCommRing_Sections_equiv_apply
 -- name    : GlobalTheory.SectionsCommRing.Sections.equiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:58.432274+00:00
 -- url     : https://prove2.me/theorems/7bc39254-4dd2-4473-a2f7-a247284db913

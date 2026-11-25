@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qi13_linIndep
 -- name    : UpperTheory.Reformulated.B.Qi13.linIndep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:17.386079+00:00
 -- url     : https://prove2.me/theorems/31c666ae-1d7d-4d97-b787-e5f5effd2e66

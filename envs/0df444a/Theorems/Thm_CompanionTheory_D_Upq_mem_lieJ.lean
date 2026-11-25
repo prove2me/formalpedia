@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_mem_lieJ
 -- name    : CompanionTheory.D.Upq.mem_lieJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:17:48.830946+00:00
 -- url     : https://prove2.me/theorems/fa9598ed-dab7-4f4f-8d53-00ed244fb557

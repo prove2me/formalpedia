@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_typings_iff
 -- name    : GlobalTheory.CompareIterDegree.typings_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:02:30.810135+00:00
 -- url     : https://prove2.me/theorems/341d9fad-9a58-5024-a512-32ada327a071

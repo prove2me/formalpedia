@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_WedgeField_exists_finite_sys
 -- name    : GlobalTheory.CompanionTheory.Hodge.WedgeField.exists_finite_sys
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:01:40.027902+00:00
 -- url     : https://prove2.me/theorems/b5ed83c8-b7eb-5f1d-a6af-c2e4e9d5ff40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PenVol_cosStab_le
 -- name    : GlobalTheory.PenVol.cosStab_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:36.818816+00:00
 -- url     : https://prove2.me/theorems/c5e0154c-8729-40ea-9e3a-854f7aa97432

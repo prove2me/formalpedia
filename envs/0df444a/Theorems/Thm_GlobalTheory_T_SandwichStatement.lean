@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_SandwichStatement
 -- name    : GlobalTheory.T.SandwichStatement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:25:51.653202+00:00
 -- url     : https://prove2.me/theorems/cb88a0cd-6094-5e3a-bc31-1f188da9452a

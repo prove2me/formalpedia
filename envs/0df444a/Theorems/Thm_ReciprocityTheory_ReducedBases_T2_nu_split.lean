@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_nu_split
 -- name    : ReciprocityTheory.ReducedBases.T2.nu_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:58.912372+00:00
 -- url     : https://prove2.me/theorems/79a5f3d6-c084-4355-b71f-b2db4293b89f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_grLat_eq_inf
 -- name    : GlobalTheory.HTLat.grLat_eq_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:22.792246+00:00
 -- url     : https://prove2.me/theorems/e34d0af5-aac1-4b35-9854-254251944dcc

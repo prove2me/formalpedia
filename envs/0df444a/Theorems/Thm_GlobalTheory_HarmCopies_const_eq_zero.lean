@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HarmCopies_const_eq_zero
 -- name    : GlobalTheory.HarmCopies.const_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:03:48.380983+00:00
 -- url     : https://prove2.me/theorems/484cb4c4-045f-4c65-9db2-4916e1026f5a

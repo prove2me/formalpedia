@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_d_grouped_form_holds
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.d_grouped_form_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:50:50.553725+00:00
 -- url     : https://prove2.me/theorems/32a80459-502d-5fae-9189-4423d8ab8a52

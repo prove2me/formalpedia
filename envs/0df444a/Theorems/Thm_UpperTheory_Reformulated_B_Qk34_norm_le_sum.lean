@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qk34_norm_le_sum
 -- name    : UpperTheory.Reformulated.B.Qk34.norm_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:45.254798+00:00
 -- url     : https://prove2.me/theorems/4adfa018-43da-4409-9c81-1416b1145ddf

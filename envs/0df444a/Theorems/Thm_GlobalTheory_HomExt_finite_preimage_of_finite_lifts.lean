@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomExt_finite_preimage_of_finite_lifts
 -- name    : GlobalTheory.HomExt.finite_preimage_of_finite_lifts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:00.022972+00:00
 -- url     : https://prove2.me/theorems/8d94479f-6fea-4c85-8997-e9792a3ee349

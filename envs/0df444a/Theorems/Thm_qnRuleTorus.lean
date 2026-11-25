@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_qnRuleTorus
 -- name    : qnRuleTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:14:34.783807+00:00
 -- url     : https://prove2.me/theorems/e2c5fbc4-618f-5724-afdc-f6db7043f8c2

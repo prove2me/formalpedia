@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SwdAut_classSum_add
 -- name    : GlobalTheory.SW.SwdAut.classSum_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:56:40.258097+00:00
 -- url     : https://prove2.me/theorems/e1d6d823-926f-4f42-a846-48a7533f38fd

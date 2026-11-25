@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_IsTeich_v_eq_one
 -- name    : ReciprocityTheory.PGsh.Up.U3.IsTeich.v_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:28.619403+00:00
 -- url     : https://prove2.me/theorems/c52c6ac3-4386-5ba9-8541-753cfe81c1e6

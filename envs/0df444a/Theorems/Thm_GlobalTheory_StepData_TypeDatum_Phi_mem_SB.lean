@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_TypeDatum_Phi_mem_SB
 -- name    : GlobalTheory.StepData.TypeDatum.Phi_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:25:21.51783+00:00
 -- url     : https://prove2.me/theorems/2e1932bf-866e-4780-9f70-ba677ae881d9

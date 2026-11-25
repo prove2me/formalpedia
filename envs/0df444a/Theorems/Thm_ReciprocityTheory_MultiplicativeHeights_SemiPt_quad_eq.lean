@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_quad_eq
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.quad_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:03:50.453671+00:00
 -- url     : https://prove2.me/theorems/f4ea4fbf-50da-43ec-8f73-dd3d3c81d911

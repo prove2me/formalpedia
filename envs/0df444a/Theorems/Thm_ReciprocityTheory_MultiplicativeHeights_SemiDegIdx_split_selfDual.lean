@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_split_selfDual
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.split_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:02:31.991275+00:00
 -- url     : https://prove2.me/theorems/8cc0433d-7dcd-4030-a09f-cb198bbacdaf

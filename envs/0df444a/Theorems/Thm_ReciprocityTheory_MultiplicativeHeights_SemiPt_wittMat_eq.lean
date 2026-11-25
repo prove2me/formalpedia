@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_wittMat_eq
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.wittMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:03:33.120237+00:00
 -- url     : https://prove2.me/theorems/b52dae56-2e40-4cb9-ae3a-88f49f7def8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_classSum_nb
 -- name    : GlobalTheory.SW.classSum_nb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:35.746829+00:00
 -- url     : https://prove2.me/theorems/57ff62ca-3d41-4968-b520-004e4ea3c847

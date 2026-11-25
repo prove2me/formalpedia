@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_RgExh_Hk_UnitPf_Om__pow_mem_Isub_6d1970537928
 -- name    : P2M_CompanionTheory_RgExh_Hk_UnitPf_Om__pow_mem_Isub_6d1970537928
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:04:06.639056+00:00
 -- url     : https://prove2.me/theorems/79275b03-45cc-4e8a-a913-489b07e2c97c

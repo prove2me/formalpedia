@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CartierDual_pointsEquiv_comp
 -- name    : GlobalTheory.CartierDual.pointsEquiv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:14.929804+00:00
 -- url     : https://prove2.me/theorems/72df2d5b-f787-5c1a-acd8-573ab49bb705

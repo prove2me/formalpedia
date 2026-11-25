@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KaUnique_degree_compare
 -- name    : GlobalTheory.KaUnique.degree_compare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:48:10.038303+00:00
 -- url     : https://prove2.me/theorems/82aafb52-f1de-4613-afa1-de7cd716ff68

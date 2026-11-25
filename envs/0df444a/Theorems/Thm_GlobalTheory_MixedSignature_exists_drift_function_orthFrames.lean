@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_exists_drift_function_orthFrames
 -- name    : GlobalTheory.MixedSignature.exists_drift_function_orthFrames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:08:12.944068+00:00
 -- url     : https://prove2.me/theorems/59ee2d72-c71b-4815-857d-a02d904d7bea

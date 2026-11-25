@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_exists_surjective_of_isCplAt
 -- name    : GlobalTheory.Pat.exists_surjective_of_isCplAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:28.779694+00:00
 -- url     : https://prove2.me/theorems/d8a68350-ebdf-4703-9e40-6bca0d10fc05

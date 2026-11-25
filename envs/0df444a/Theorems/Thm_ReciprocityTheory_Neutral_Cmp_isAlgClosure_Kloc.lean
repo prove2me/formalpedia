@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_isAlgClosure_Kloc
 -- name    : ReciprocityTheory.Neutral.Cmp.isAlgClosure_Kloc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:08:01.922867+00:00
 -- url     : https://prove2.me/theorems/6bd337ba-8dd6-41e4-97b5-9f3b75fcd390

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_autApprox
 -- name    : UpperTheory.Mu.autApprox
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:19.093008+00:00
 -- url     : https://prove2.me/theorems/14c6315e-37cd-4a31-b61f-594bdce81de9

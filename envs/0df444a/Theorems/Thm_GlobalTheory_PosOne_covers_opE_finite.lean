@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOne_covers_opE_finite
 -- name    : GlobalTheory.PosOne.covers_opE_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:35:16.502561+00:00
 -- url     : https://prove2.me/theorems/310df872-89c2-50e2-8c08-2d3f9bea42dc

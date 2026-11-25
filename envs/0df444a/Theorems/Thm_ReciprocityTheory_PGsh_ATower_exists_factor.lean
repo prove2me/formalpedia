@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_ATower_exists_factor
 -- name    : ReciprocityTheory.PGsh.ATower.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:06:15.986015+00:00
 -- url     : https://prove2.me/theorems/1c2ea4d3-7762-4727-a574-050bb9524423

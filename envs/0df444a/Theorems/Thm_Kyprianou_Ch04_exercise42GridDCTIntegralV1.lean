@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42GridDCTIntegralV1
 -- name    : Kyprianou.Ch04.exercise42GridDCTIntegralV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T09:55:16.714685+00:00
 -- url     : https://prove2.me/theorems/14c0383e-9372-4345-9e88-8f088aa80ad9

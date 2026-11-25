@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgGlob_IsoRig_inv
 -- name    : GlobalTheory.SgGlob.IsoRig.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:53.62686+00:00
 -- url     : https://prove2.me/theorems/f8dbff06-225a-5868-9b12-d835f62aa2a7

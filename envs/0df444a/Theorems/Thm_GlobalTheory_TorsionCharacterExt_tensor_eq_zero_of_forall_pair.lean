@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCharacterExt_tensor_eq_zero_of_forall_pair
 -- name    : GlobalTheory.TorsionCharacterExt.tensor_eq_zero_of_forall_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:11.457684+00:00
 -- url     : https://prove2.me/theorems/86b30317-af7b-4e69-96ba-d916856b66de

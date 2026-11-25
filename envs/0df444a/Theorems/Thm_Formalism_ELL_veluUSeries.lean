@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_veluUSeries
 -- name    : Formalism.ELL.veluUSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:24:37.335713+00:00
 -- url     : https://prove2.me/theorems/96585715-dbce-53f2-af98-1f38bc0da660

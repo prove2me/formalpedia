@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_gramC_single
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.gramC_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:02:42.823954+00:00
 -- url     : https://prove2.me/theorems/96bbffeb-fe14-4a7a-a429-80d17970dd14

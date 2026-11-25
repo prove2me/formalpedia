@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_orthProj_mul_incl
 -- name    : GlobalTheory.HermFrame.orthProj_mul_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:26.780973+00:00
 -- url     : https://prove2.me/theorems/3b8db6ae-23a5-5412-aefb-06cd199b56e3

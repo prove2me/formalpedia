@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_Final_haarExists
 -- name    : Formalism.DoubleCosetMeasures.Final.haarExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:24:42.963802+00:00
 -- url     : https://prove2.me/theorems/bfcb7417-25dd-4596-ab7d-96331c311f56

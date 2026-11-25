@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_matrix_positive
 -- name    : Formalism.FourierDecayAlt.P.gram_matrix_positive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:22.383207+00:00
 -- url     : https://prove2.me/theorems/b5e861b3-eed0-5ffe-a34c-ce244a35e170

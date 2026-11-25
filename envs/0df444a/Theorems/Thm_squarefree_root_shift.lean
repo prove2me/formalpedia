@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_squarefree_root_shift
 -- name    : squarefree_root_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:24.65403+00:00
 -- url     : https://prove2.me/theorems/a8c67841-0118-46d3-abb4-b455474ca2d1

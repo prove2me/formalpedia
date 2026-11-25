@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_lie_brackets_holds
 -- name    : Formalism.REAL.lie_brackets_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:06.624222+00:00
 -- url     : https://prove2.me/theorems/6922c336-d8d2-5136-95ac-a62c58f4289d

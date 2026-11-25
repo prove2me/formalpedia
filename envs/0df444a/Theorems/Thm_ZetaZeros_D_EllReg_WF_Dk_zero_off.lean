@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WF_Dk_zero_off
 -- name    : ZetaZeros.D.EllReg.WF.Dk_zero_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:14:12.9878+00:00
 -- url     : https://prove2.me/theorems/f89ecfae-3918-4e82-a8cb-89ed5de1a785

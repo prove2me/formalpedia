@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_unitaryLatIn_eq
 -- name    : GlobalTheory.SelfDualLatticeCompare.unitaryLatIn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:22:43.465148+00:00
 -- url     : https://prove2.me/theorems/250cbfd5-82e6-4b1c-a64e-8a334d2086b9

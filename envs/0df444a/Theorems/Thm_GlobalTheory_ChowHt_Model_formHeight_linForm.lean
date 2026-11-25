@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_Model_formHeight_linForm
 -- name    : GlobalTheory.ChowHt.Model.formHeight_linForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:24.195939+00:00
 -- url     : https://prove2.me/theorems/d8152ddf-decd-4858-b441-5f91cfc50bb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_isHolTo_of_affine
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.isHolTo_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:49:27.852188+00:00
 -- url     : https://prove2.me/theorems/312b6e92-c401-4cf8-9939-d2be6215f562

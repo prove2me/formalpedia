@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_fourth_condition
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_fourth_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:36:21.102158+00:00
 -- url     : https://prove2.me/theorems/2b61b804-4045-4fcb-9100-a51a7896b2b1

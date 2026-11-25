@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_level_subgroup_commute
 -- name    : Formalism.UG.P.level_subgroup_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:38.995635+00:00
 -- url     : https://prove2.me/theorems/f7bc9c52-9a68-4b61-bf20-9fcd30676d51

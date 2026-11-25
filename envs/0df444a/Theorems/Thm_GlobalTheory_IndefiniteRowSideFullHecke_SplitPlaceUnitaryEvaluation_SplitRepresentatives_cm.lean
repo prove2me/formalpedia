@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SplitPlaceUnitaryEvaluation_SplitRepresentatives_cm
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SplitPlaceUnitaryEvaluation.SplitRepresentatives.cm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:09:31.638122+00:00
 -- url     : https://prove2.me/theorems/6c7dbc1b-72d2-4c01-b9f6-943bf20f871b

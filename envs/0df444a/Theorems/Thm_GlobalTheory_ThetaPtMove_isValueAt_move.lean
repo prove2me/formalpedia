@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_isValueAt_move
 -- name    : GlobalTheory.ThetaPtMove.isValueAt_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:37:20.697992+00:00
 -- url     : https://prove2.me/theorems/2885f053-dad3-5be5-854f-b10be7078083

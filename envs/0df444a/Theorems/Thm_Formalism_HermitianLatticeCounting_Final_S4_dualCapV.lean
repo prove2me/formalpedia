@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_dualCapV
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.dualCapV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:36:53.157085+00:00
 -- url     : https://prove2.me/theorems/770b91d4-b853-4ffa-a2a6-abfabe6aeac1

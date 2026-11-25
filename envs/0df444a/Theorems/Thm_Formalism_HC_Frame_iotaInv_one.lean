@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_iotaInv_one
 -- name    : Formalism.HC.Frame.iotaInv_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:11.542907+00:00
 -- url     : https://prove2.me/theorems/5652eea7-bcf8-4aa2-bd35-41000b78b8c8

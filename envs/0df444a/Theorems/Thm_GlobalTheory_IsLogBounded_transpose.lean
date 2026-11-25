@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLogBounded_transpose
 -- name    : GlobalTheory.IsLogBounded.transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:16.341855+00:00
 -- url     : https://prove2.me/theorems/f4340f8d-86cf-57d9-8788-1f46e97e1bdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JHMult_jhMult_sub_add_quot
 -- name    : GlobalTheory.JHMult.jhMult_sub_add_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:11:36.535268+00:00
 -- url     : https://prove2.me/theorems/82b88626-2551-4269-bc50-6e42cddcb431

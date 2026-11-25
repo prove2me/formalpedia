@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_Closed_degAdd
 -- name    : ReciprocityTheory.MultiplicativeHeights.Closed.degAdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:08:30.780333+00:00
 -- url     : https://prove2.me/theorems/b65c7bb3-6396-4dcb-ac6a-acb63aa4f1ab

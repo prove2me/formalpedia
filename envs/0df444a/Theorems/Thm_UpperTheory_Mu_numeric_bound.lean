@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_numeric_bound
 -- name    : UpperTheory.Mu.numeric_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:01.760173+00:00
 -- url     : https://prove2.me/theorems/f6b5d1e6-0c43-47fe-8b79-2dcae0de1c18

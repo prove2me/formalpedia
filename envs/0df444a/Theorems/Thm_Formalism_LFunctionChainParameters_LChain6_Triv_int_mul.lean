@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_Triv_int_mul
 -- name    : Formalism.LFunctionChainParameters.LChain6.Triv.int_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:29.991416+00:00
 -- url     : https://prove2.me/theorems/f2aa1c49-2e9f-592c-b2db-a91c48f0547e

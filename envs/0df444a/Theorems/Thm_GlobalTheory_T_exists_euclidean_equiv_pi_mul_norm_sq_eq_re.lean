@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_euclidean_equiv_pi_mul_norm_sq_eq_re
 -- name    : GlobalTheory.T.exists_euclidean_equiv_pi_mul_norm_sq_eq_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:29:02.322054+00:00
 -- url     : https://prove2.me/theorems/9ecb74c5-872e-4350-8025-76bfc06da129

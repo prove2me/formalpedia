@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AutQuotCheck_map_dirac_one_univ_eq_one
 -- name    : GlobalTheory.AutQuotCheck.map_dirac_one_univ_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:57:06.405478+00:00
 -- url     : https://prove2.me/theorems/bed72c71-cc6a-40f4-87d9-5fda62b3b8c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_condQ_empty
 -- name    : GlobalTheory.CMVal.Model.condQ_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:36.121607+00:00
 -- url     : https://prove2.me/theorems/31b0662a-5a44-4ec6-92fb-b794e295f392

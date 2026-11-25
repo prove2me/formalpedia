@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_product_identities
 -- name    : Formalism.FourierDecayAlt.P.frame_product_identities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:30:17.862303+00:00
 -- url     : https://prove2.me/theorems/62b74af0-d9e7-5f5c-b85e-a77b3dc85d35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeRhamCompare_isJumpV_of_multV_ne
 -- name    : GlobalTheory.DeRhamCompare.isJumpV_of_multV_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:24.474548+00:00
 -- url     : https://prove2.me/theorems/ed917a21-1aa6-41a3-bcd0-46bca5ffd31b

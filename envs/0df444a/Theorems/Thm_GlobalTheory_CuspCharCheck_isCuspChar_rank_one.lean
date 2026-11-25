@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspCharCheck_isCuspChar_rank_one
 -- name    : GlobalTheory.CuspCharCheck.isCuspChar_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:15.69781+00:00
 -- url     : https://prove2.me/theorems/65acd405-3d23-400c-a7ac-d9a130e86d7a

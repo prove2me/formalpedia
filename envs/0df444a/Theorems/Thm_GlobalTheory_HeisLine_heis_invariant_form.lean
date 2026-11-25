@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeisLine_heis_invariant_form
 -- name    : GlobalTheory.HeisLine.heis_invariant_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:18.972741+00:00
 -- url     : https://prove2.me/theorems/3e10ad90-c96c-4395-a08b-bc5424f90e17

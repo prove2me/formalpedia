@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sc_gram_lt
 -- name    : ReciprocityTheory.MultiplicativeHeights.sc_gram_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:11:48.882454+00:00
 -- url     : https://prove2.me/theorems/cbbd43a6-81a6-4322-9c75-f6d61e3f0fa7

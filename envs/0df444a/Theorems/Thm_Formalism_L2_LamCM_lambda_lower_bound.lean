@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_lambda_lower_bound
 -- name    : Formalism.L2.LamCM.lambda_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:46:12.193242+00:00
 -- url     : https://prove2.me/theorems/2c8d0943-20d1-5540-a99a-f03ec692f51d

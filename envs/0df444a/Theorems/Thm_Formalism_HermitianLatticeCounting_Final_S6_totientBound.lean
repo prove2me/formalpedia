@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_totientBound
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.totientBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:40:29.004193+00:00
 -- url     : https://prove2.me/theorems/6174bacc-ad38-446f-9ee1-52d63adb3d04

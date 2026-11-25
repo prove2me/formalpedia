@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_tower_height_bound
 -- name    : Formalism.AtG.tower_height_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:36:17.052958+00:00
 -- url     : https://prove2.me/theorems/c2074f96-473f-40c8-9937-9720bd577aa3

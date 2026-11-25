@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_LimSh_polyDeg_mem
 -- name    : CompanionTheory.WaveGrid.LimSh.polyDeg_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:18:39.676955+00:00
 -- url     : https://prove2.me/theorems/7e692d46-8dbf-5acf-a924-79275c7acc94

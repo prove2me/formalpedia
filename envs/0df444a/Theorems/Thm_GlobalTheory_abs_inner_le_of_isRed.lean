@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_abs_inner_le_of_isRed
 -- name    : GlobalTheory.abs_inner_le_of_isRed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:04:50.947431+00:00
 -- url     : https://prove2.me/theorems/feed5637-0dd1-4e83-8e11-ef6424fdeee2

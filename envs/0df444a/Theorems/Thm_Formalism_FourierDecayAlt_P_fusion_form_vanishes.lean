@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fusion_form_vanishes
 -- name    : Formalism.FourierDecayAlt.P.fusion_form_vanishes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:36:17.971557+00:00
 -- url     : https://prove2.me/theorems/4c248fe2-ac37-537a-9b52-7fbc9aa61814

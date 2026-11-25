@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussian_quadForm_rationalCoords_hermitian
 -- name    : GlobalTheory.T.gaussian_quadForm_rationalCoords_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:39:58.988054+00:00
 -- url     : https://prove2.me/theorems/194d4dba-b6bd-403f-b3c5-311966cb96f5

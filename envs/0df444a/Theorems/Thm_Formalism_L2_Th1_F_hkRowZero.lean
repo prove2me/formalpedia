@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hkRowZero
 -- name    : Formalism.L2.Th1.F.hkRowZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:51:45.52841+00:00
 -- url     : https://prove2.me/theorems/ed2e6679-3fcb-406e-8cdc-f0573ab1d3cd

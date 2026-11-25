@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_dualGen
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.dualGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:46:11.288589+00:00
 -- url     : https://prove2.me/theorems/3c9e7950-b5c1-4e8a-8103-b8fc0578c8b0

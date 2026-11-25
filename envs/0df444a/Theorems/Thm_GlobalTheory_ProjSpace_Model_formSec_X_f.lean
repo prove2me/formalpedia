@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_formSec_X_f
 -- name    : GlobalTheory.ProjSpace.Model.formSec_X_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:24:40.564824+00:00
 -- url     : https://prove2.me/theorems/17c98866-1476-45ac-a9f4-e754f0c74487

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_H_volOpenPos
 -- name    : ReciprocityTheory.L2DbarEstimates.H.volOpenPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:57:31.866374+00:00
 -- url     : https://prove2.me/theorems/fe8f074b-e8cb-4b0b-a58a-32c453ceedf9

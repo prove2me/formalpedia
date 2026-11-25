@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBB_K8_dw_nonneg
 -- name    : Formalism.FourierDecayAlt.P.PBB.K8.dw_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:08.083525+00:00
 -- url     : https://prove2.me/theorems/c76202f0-75a3-4102-8a2f-228a82113de4

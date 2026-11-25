@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_keepsRegular_congr
 -- name    : GlobalTheory.EffCartierData.keepsRegular_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:11:28.294471+00:00
 -- url     : https://prove2.me/theorems/26873167-3170-4b86-b2ed-9ed84ac89afd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_tw_dim
 -- name    : Formalism.L2.Col.GSD.tw_dim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:27.881737+00:00
 -- url     : https://prove2.me/theorems/64c59f80-1fc7-4c3c-a393-34cc3fa0705c

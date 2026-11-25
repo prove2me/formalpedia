@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_IsBlockHomogeneous_mul
 -- name    : GlobalTheory.Chow.IsBlockHomogeneous.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:20.601547+00:00
 -- url     : https://prove2.me/theorems/70f0f8e2-c0ae-5b92-a4b5-1b49165335eb

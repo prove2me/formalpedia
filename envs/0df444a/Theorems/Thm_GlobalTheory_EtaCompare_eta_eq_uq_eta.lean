@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EtaCompare_eta_eq_uq_eta
 -- name    : GlobalTheory.EtaCompare.eta_eq_uq_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:04:42.648012+00:00
 -- url     : https://prove2.me/theorems/7238cf8e-c351-4c78-9129-19db3506987c

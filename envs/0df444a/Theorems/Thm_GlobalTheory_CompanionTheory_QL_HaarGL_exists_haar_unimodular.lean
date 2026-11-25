@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_HaarGL_exists_haar_unimodular
 -- name    : GlobalTheory.CompanionTheory.QL.HaarGL.exists_haar_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:32.624812+00:00
 -- url     : https://prove2.me/theorems/c2ea89c3-301a-4381-add4-571ec6e41495

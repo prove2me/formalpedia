@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_FormalGroupSystem_Pf_Gen_memLocalization_mul
 -- name    : Formalism.MainNotions.FormalGroupSystem.Pf.Gen.memLocalization_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:49:44.823401+00:00
 -- url     : https://prove2.me/theorems/f41b5688-9e69-42de-80a8-5da2f44ee72a

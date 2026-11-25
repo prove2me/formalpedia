@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_Vanish_commAlgFunctorCohomologyTwo_eq_zero_of_isInitial
 -- name    : GlobalTheory.AbCoh.Vanish.commAlgFunctorCohomologyTwo_eq_zero_of_isInitial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:54:37.486527+00:00
 -- url     : https://prove2.me/theorems/afc000fe-1f9e-451b-a989-967725b3b777

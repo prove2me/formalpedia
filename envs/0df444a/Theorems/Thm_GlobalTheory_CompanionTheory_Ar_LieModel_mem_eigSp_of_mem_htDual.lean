@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_LieModel_mem_eigSp_of_mem_htDual
 -- name    : GlobalTheory.CompanionTheory.Ar.LieModel.mem_eigSp_of_mem_htDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:04.596993+00:00
 -- url     : https://prove2.me/theorems/c445915e-c80d-45bb-8e4d-5f46d7eb4f9a

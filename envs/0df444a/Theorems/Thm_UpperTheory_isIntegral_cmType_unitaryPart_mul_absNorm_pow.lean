@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_isIntegral_cmType_unitaryPart_mul_absNorm_pow
 -- name    : UpperTheory.isIntegral_cmType_unitaryPart_mul_absNorm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:13:27.259593+00:00
 -- url     : https://prove2.me/theorems/86a02d47-2142-4ba6-b78e-a00f60f47297

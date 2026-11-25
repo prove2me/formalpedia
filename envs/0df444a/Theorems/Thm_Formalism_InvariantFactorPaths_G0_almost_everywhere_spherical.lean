@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G0_almost_everywhere_spherical
 -- name    : Formalism.InvariantFactorPaths.G0.almost_everywhere_spherical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:11.318099+00:00
 -- url     : https://prove2.me/theorems/a35689da-2a05-5710-acac-2580a19ca45d

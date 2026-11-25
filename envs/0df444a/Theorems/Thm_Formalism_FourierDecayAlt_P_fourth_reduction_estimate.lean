@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fourth_reduction_estimate
 -- name    : Formalism.FourierDecayAlt.P.fourth_reduction_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:53.722277+00:00
 -- url     : https://prove2.me/theorems/823e89d7-5944-5b3b-9f4b-1b0c92a26441

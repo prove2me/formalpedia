@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_QS_le
 -- name    : Formalism.HC.EvenGrp.QS_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:38:14.455577+00:00
 -- url     : https://prove2.me/theorems/e655fb12-a54c-4507-8e4f-91a16c92102d

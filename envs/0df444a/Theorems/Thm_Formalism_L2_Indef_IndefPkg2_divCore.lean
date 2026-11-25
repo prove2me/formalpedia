@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefPkg2_divCore
 -- name    : Formalism.L2.Indef.IndefPkg2.divCore
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:23.000496+00:00
 -- url     : https://prove2.me/theorems/dd19cf76-9192-4c6b-998b-cbb70cce19f8

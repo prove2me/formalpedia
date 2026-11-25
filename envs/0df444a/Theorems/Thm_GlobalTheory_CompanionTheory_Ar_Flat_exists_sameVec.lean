@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_exists_sameVec
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.exists_sameVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:25.564161+00:00
 -- url     : https://prove2.me/theorems/67253e15-2fc8-4c2a-ad34-fc3d38077046

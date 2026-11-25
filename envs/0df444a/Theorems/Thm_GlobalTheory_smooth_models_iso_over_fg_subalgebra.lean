@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smooth_models_iso_over_fg_subalgebra
 -- name    : GlobalTheory.smooth_models_iso_over_fg_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:39:35.637795+00:00
 -- url     : https://prove2.me/theorems/edf18e42-af59-47c8-b29b-dbd01e199f7c

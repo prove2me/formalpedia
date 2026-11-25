@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycAway_exists_base
 -- name    : GlobalTheory.CycAway.exists_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:03:26.37442+00:00
 -- url     : https://prove2.me/theorems/c3ff3f06-0191-54cb-ac4a-c5d64aa8a480

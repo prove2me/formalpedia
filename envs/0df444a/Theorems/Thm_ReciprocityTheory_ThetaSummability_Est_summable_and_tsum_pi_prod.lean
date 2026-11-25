@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ThetaSummability_Est_summable_and_tsum_pi_prod
 -- name    : ReciprocityTheory.ThetaSummability.Est.summable_and_tsum_pi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:10:06.975125+00:00
 -- url     : https://prove2.me/theorems/80ec94d0-f951-4ed3-a7dd-5e0f7c561d41

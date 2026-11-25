@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_PairingDivisionLocalBalance_upper_part_stays
 -- name    : Formalism.PairingDivisionLocalBalance.upper_part_stays
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:53:12.580398+00:00
 -- url     : https://prove2.me/theorems/ea99d4c3-8e12-54a6-b433-7804bb1d6bd9

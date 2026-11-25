@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for GlobalTheory.UnifJac.ex_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T17:38:07.877325+00:00
+-- url     : https://prove2.me/submissions/3299124b-aa30-43b0-b03f-83f96b5fda4c
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CubicalLineBundles_SurjectiveOfComplexPointsLiftOfUniversallyClosed
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_KeyFormula_LevBasis
+import Definitions.Def_Development_AbelianVarietyTheory_Statements_ThetaLevelCharacters_MemThetaLevelCharDimZero
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_KeyFormula_IsSquareDeterminantComparison
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_KeyFormula_KaRuleK
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_AbelianSchemeLaws_FirstCohomologyVanishesSpecOfIsLocalRing
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_IsPluriharmonicSiegel
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_MapsAtLeA
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_OneEqSpTranslZero
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_ThetaLawProofs_UnifValueJacZeros
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj MeasureTheory
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor
+attribute [local instance] Over.cartesianMonoidalCategory
+open GlobalTheory.AbLaw
+open GlobalTheory.KeyPow GlobalTheory.KeyKa
+noncomputable section
+open GlobalTheory GlobalTheory.UnifJac
+variable {A : Over (Sp ℂ)} [GrpObj A]
+variable {L : LB A.left} {g : ℕ} (u : HolUnif A L g)
+namespace GlobalTheory.UnifJac
+theorem _root_.solution : u.ex 0 = 1 := (u.ker 0).2 u.Λ.zero_mem
+end GlobalTheory.UnifJac

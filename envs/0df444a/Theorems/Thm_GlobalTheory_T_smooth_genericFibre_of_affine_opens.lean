@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_genericFibre_of_affine_opens
 -- name    : GlobalTheory.T.smooth_genericFibre_of_affine_opens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:51:04.044884+00:00
 -- url     : https://prove2.me/theorems/1458d6a7-a6b1-5e15-935a-212287dba415

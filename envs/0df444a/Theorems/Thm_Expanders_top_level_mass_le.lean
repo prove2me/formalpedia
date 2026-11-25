@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Expanders_top_level_mass_le
 -- name    : Expanders.top_level_mass_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:09:01.434667+00:00
 -- url     : https://prove2.me/theorems/f099df8b-b770-4a0c-bde4-1c5c63e8b315

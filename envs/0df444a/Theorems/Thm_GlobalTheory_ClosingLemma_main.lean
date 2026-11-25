@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosingLemma_main
 -- name    : GlobalTheory.ClosingLemma.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:55.946096+00:00
 -- url     : https://prove2.me/theorems/8a2cadf2-30f9-460a-bea1-2dcae643ae0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_isFreeRingAction_of_field
 -- name    : GlobalTheory.FreeQuotient.isFreeRingAction_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:05:34.808708+00:00
 -- url     : https://prove2.me/theorems/c359e516-6022-4f0b-9eb6-e2fce89c34f6

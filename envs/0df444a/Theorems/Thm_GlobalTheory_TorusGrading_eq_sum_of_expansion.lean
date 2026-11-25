@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusGrading_eq_sum_of_expansion
 -- name    : GlobalTheory.TorusGrading.eq_sum_of_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:59:16.657697+00:00
 -- url     : https://prove2.me/theorems/d68ce7e1-65b5-40b5-a153-cffda0c45ced

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isIrrChar_add_isChar_of_ne_zero
 -- name    : GlobalTheory.T.exists_isIrrChar_add_isChar_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:30:09.632295+00:00
 -- url     : https://prove2.me/theorems/75a26a4c-fc76-49e6-ac14-f4989716b7e2

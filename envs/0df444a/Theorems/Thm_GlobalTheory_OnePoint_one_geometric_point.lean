@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_one_geometric_point
 -- name    : GlobalTheory.OnePoint.one_geometric_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:59.236363+00:00
 -- url     : https://prove2.me/theorems/69a5671b-dee0-4489-b2c6-69494d605514

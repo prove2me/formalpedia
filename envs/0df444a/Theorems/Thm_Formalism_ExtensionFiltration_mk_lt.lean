@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_mk_lt
 -- name    : Formalism.ExtensionFiltration.mk_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:27:42.372782+00:00
 -- url     : https://prove2.me/theorems/3b02f4b9-25c7-4067-866d-72ed21798782

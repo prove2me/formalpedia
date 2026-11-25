@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeRep_IsLatRep_exists_stab
 -- name    : GlobalTheory.LatticeRep.IsLatRep.exists_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:12:54.990232+00:00
 -- url     : https://prove2.me/theorems/14d3fbb8-5233-5be2-b5a9-c54d01011c61

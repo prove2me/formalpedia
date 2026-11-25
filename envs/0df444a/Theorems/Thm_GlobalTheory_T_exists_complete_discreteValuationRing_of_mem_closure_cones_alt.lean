@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_complete_discreteValuationRing_of_mem_closure_cones_alt
 -- name    : GlobalTheory.T.exists_complete_discreteValuationRing_of_mem_closure_cones_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:44.358953+00:00
 -- url     : https://prove2.me/theorems/03631b19-bf2c-50a0-b4cf-84757362aaf1

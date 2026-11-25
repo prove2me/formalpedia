@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_matrix_basis_lattice_up_to_denominator_notMem
 -- name    : GlobalTheory.T.exists_matrix_basis_lattice_up_to_denominator_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:48.808038+00:00
 -- url     : https://prove2.me/theorems/fd80fa4c-26a2-5212-a2ae-cbc53d25a997

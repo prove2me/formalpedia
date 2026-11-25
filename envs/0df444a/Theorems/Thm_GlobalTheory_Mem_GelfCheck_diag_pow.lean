@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_GelfCheck_diag_pow
 -- name    : GlobalTheory.Mem.GelfCheck.diag_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:22:07.124265+00:00
 -- url     : https://prove2.me/theorems/10f25bd4-76e3-4730-b7d5-0876a801e414

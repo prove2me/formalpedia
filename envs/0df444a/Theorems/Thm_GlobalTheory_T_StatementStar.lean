@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_StatementStar
 -- name    : GlobalTheory.T.StatementStar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:25:47.478811+00:00
 -- url     : https://prove2.me/theorems/891f6129-685b-5828-8e63-9c5e11e00ada

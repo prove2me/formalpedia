@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BoxApp_isApp_box
 -- name    : GlobalTheory.BoxApp.isApp_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:07:12.455973+00:00
 -- url     : https://prove2.me/theorems/c0d63ad5-0a02-4fa7-9d09-261a7077f0d1

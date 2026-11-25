@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitUnitary_heisFun_heisFun
 -- name    : GlobalTheory.SplitUnitary.heisFun_heisFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:06.362106+00:00
 -- url     : https://prove2.me/theorems/2355a0ed-1809-5878-8515-3fe11be2d644

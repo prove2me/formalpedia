@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_continuous_rotS
 -- name    : ReciprocityTheory.MultiplicativeHeights.continuous_rotS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:03:57.644572+00:00
 -- url     : https://prove2.me/theorems/4de873fd-75c9-465e-80d4-ed7262a3be74

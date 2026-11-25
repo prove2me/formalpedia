@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_mem_shortFrames
 -- name    : GlobalTheory.FrameNet.mem_shortFrames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:24.511992+00:00
 -- url     : https://prove2.me/theorems/264e4805-667f-4cc1-b11d-56537dd498fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_krull_intersection_ideal_local_form
 -- name    : GlobalTheory.T.krull_intersection_ideal_local_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:48.862086+00:00
 -- url     : https://prove2.me/theorems/b890d8bc-aedc-47be-95c1-5a0e9596d27b

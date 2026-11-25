@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_theorem_w_central_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.theorem_w_central_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:22:46.445335+00:00
 -- url     : https://prove2.me/theorems/46622d28-6bab-46b7-b461-6332f5b965e3

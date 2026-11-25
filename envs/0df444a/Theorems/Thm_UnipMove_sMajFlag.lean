@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_sMajFlag
 -- name    : UnipMove.sMajFlag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:31.123433+00:00
 -- url     : https://prove2.me/theorems/d0bc1462-c238-4d44-945e-6a3cc5500247

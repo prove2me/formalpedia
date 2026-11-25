@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HtPlacesSum
 -- name    : HtPlacesSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:45:40.078298+00:00
 -- url     : https://prove2.me/theorems/26892e21-7f8f-4db1-b6ed-968ff8b0e9e6

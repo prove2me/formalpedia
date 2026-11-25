@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_GI_extends_mono
 -- name    : GlobalTheory.SS.GI.extends_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:58.276466+00:00
 -- url     : https://prove2.me/theorems/4f439173-c222-5d3e-b4c7-89fa82bd4066

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_lineCurv_smul
 -- name    : GlobalTheory.HermFrame.lineCurv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:07:11.774677+00:00
 -- url     : https://prove2.me/theorems/1bddf186-4980-5503-9abc-4708ff602e53

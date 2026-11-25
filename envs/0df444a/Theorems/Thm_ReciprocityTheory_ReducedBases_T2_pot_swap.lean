@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_pot_swap
 -- name    : ReciprocityTheory.ReducedBases.T2.pot_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:10.756676+00:00
 -- url     : https://prove2.me/theorems/4b600645-d7d1-471a-8ec1-746430880bfd

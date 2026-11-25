@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_tor_inv
 -- name    : GlobalTheory.Ex.NumD.tor_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:04:48.68615+00:00
 -- url     : https://prove2.me/theorems/8d18f566-a0c5-5ddf-89e7-6693ab4733a9

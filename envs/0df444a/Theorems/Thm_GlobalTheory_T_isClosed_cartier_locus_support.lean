@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isClosed_cartier_locus_support
 -- name    : GlobalTheory.T.isClosed_cartier_locus_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:41:47.196042+00:00
 -- url     : https://prove2.me/theorems/5c78ccd0-5361-4034-9a8e-14e5c5013fc6

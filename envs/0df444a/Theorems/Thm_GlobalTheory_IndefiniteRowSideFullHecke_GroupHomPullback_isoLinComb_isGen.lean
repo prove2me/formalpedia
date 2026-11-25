@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GroupHomPullback_isoLinComb_isGen
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GroupHomPullback.isoLinComb_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:54.222871+00:00
 -- url     : https://prove2.me/theorems/34332e0e-8129-4d4b-96f6-7adc04eb8dba

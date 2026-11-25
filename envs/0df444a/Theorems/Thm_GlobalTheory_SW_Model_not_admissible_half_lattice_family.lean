@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_not_admissible_half_lattice_family
 -- name    : GlobalTheory.SW.Model.not_admissible_half_lattice_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:49.177271+00:00
 -- url     : https://prove2.me/theorems/72898695-602a-48d3-8490-0eb7e58ffb3b

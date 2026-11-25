@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_JointEigenvalueBoundsFromAnyDatum_length_chain
 -- name    : UpperTheory.Reformulated.B.JointEigenvalueBoundsFromAnyDatum.length_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:12:02.964902+00:00
 -- url     : https://prove2.me/theorems/bfb04735-90a4-4796-bec0-b0bfbc9f0ccc

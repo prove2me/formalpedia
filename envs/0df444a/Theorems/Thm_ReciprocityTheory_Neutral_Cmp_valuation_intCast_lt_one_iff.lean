@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_valuation_intCast_lt_one_iff
 -- name    : ReciprocityTheory.Neutral.Cmp.valuation_intCast_lt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:08.417065+00:00
 -- url     : https://prove2.me/theorems/72362701-dae4-575f-ae1b-e5b3a20ef552

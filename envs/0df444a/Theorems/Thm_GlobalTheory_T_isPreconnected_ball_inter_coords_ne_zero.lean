@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isPreconnected_ball_inter_coords_ne_zero
 -- name    : GlobalTheory.T.isPreconnected_ball_inter_coords_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:36:18.148335+00:00
 -- url     : https://prove2.me/theorems/f772bed8-116c-4ca5-b0b7-e03dc32ec6ab

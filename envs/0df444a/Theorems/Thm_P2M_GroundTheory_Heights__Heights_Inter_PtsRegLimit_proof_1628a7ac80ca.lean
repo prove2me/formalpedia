@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PtsRegLimit_proof_1628a7ac80ca
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PtsRegLimit_proof_1628a7ac80ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:16:31.588938+00:00
 -- url     : https://prove2.me/theorems/91b91497-b51e-5005-a6e0-2dc0288eaa20

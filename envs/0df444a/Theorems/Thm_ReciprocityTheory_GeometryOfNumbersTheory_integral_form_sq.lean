@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_integral_form_sq
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.integral_form_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:59.736801+00:00
 -- url     : https://prove2.me/theorems/abee2858-7390-4adb-89ef-1cb01e145d0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_of_isClosed_of_finite_inter_closedPoints
 -- name    : GlobalTheory.finite_of_isClosed_of_finite_inter_closedPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:58:09.993627+00:00
 -- url     : https://prove2.me/theorems/f3a85694-6bff-4cdd-98fa-c9846ee6c8b6

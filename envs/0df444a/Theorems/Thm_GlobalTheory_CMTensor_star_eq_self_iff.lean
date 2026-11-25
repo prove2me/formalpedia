@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTensor_star_eq_self_iff
 -- name    : GlobalTheory.CMTensor.star_eq_self_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:20.989527+00:00
 -- url     : https://prove2.me/theorems/c8910c2a-a11b-4800-a87a-4b5ff6efa423

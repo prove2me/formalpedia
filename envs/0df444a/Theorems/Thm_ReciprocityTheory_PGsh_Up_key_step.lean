@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_key_step
 -- name    : ReciprocityTheory.PGsh.Up.key_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:06:41.39669+00:00
 -- url     : https://prove2.me/theorems/022d5562-91a2-4150-8b86-41e7140badb3

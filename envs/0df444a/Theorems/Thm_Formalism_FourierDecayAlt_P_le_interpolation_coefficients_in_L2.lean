@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_interpolation_coefficients_in_L2
 -- name    : Formalism.FourierDecayAlt.P.le_interpolation_coefficients_in_L2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:10.426371+00:00
 -- url     : https://prove2.me/theorems/7e20429a-afbe-512f-8dc6-fce248a51163

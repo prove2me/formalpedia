@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecPow_exists_lift_pow
 -- name    : GlobalTheory.SecPow.exists_lift_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:57:22.90742+00:00
 -- url     : https://prove2.me/theorems/5cd2030f-91eb-5b63-99a3-fd87a5c3dc00

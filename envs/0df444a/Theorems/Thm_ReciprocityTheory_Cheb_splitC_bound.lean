@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_splitC_bound
 -- name    : ReciprocityTheory.Cheb.splitC_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:49:15.633129+00:00
 -- url     : https://prove2.me/theorems/a7fe6b64-703d-4f19-91c6-a01d4173e04e

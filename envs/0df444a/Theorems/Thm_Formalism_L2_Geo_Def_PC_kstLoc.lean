@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_PC_kstLoc
 -- name    : Formalism.L2.Geo.Def.PC.kstLoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:45:53.397796+00:00
 -- url     : https://prove2.me/theorems/b8b06c50-e856-4e06-9831-474d854feee9

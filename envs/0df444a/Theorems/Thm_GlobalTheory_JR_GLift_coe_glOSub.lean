@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_GLift_coe_glOSub
 -- name    : GlobalTheory.JR.GLift.coe_glOSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:11:37.087618+00:00
 -- url     : https://prove2.me/theorems/cc038606-b0ba-44f4-a890-eec387d3b59a

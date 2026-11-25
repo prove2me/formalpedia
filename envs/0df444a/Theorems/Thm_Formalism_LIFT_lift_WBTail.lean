@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_lift_WBTail
 -- name    : Formalism.LIFT.lift_WBTail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:50:16.18344+00:00
 -- url     : https://prove2.me/theorems/92acc824-ad82-4c53-a724-e8abc2f8721f

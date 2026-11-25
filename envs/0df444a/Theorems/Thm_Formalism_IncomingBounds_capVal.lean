@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_capVal
 -- name    : Formalism.IncomingBounds.capVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:24.352803+00:00
 -- url     : https://prove2.me/theorems/e3305258-09f5-50a7-91c1-a7eba9903b8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isometry_dual_pair
 -- name    : isometry_dual_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:46.822243+00:00
 -- url     : https://prove2.me/theorems/17b01553-705b-41a0-b35d-b5f6a706ea58

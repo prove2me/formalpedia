@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EisTube_isOpen_tube
 -- name    : EisTube.isOpen_tube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:18:07.398797+00:00
 -- url     : https://prove2.me/theorems/3ee8ab2a-b78d-4550-9135-a2dae41e5bf7

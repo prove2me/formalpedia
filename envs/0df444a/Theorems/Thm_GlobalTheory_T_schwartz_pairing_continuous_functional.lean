@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartz_pairing_continuous_functional
 -- name    : GlobalTheory.T.schwartz_pairing_continuous_functional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:02.257087+00:00
 -- url     : https://prove2.me/theorems/9023e084-d83e-5549-b81a-b9e3d7837f4b

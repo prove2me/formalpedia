@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_halfVec_eq
 -- name    : GlobalTheory.DictPinCompare.halfVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:52.63681+00:00
 -- url     : https://prove2.me/theorems/86a3e2b3-9b76-5765-9e27-4449b5a834af

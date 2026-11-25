@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuasiAffineTorus_exists_weight_decomposition
 -- name    : GlobalTheory.QuasiAffineTorus.exists_weight_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:42:58.572993+00:00
 -- url     : https://prove2.me/theorems/044744cd-03cd-45e0-8cbc-a9e37d56cb74

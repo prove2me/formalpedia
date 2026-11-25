@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_mackeyProd
 -- name    : Formalism.EigenvalueLevelCeiling.mackeyProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:26:01.155019+00:00
 -- url     : https://prove2.me/theorems/38b8fe7e-08a9-5ec9-9b8f-19d23dcf3654

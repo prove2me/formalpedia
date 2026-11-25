@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_phaseOk_statement
 -- name    : Formalism.FourierDecayAlt.P.phaseOk_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:34:04.60498+00:00
 -- url     : https://prove2.me/theorems/7bed6237-514d-41ef-bd05-2d6fe13ffa23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasFDerivAt_of_continuous_coordinate_partials
 -- name    : GlobalTheory.T.hasFDerivAt_of_continuous_coordinate_partials
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:54.854634+00:00
 -- url     : https://prove2.me/theorems/09c20426-7266-4f41-b97b-8acc59a29316

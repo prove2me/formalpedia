@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_inertKur
 -- name    : ReciprocityTheory.ChartRestriction.L1.inertKur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:47:57.884683+00:00
 -- url     : https://prove2.me/theorems/a2aa9e75-92d0-5da5-bef6-abe4dbd7d735

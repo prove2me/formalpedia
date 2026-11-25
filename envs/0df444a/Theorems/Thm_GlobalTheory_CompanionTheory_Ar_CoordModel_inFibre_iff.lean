@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CoordModel_inFibre_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.CoordModel.inFibre_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:37.196574+00:00
 -- url     : https://prove2.me/theorems/e6a018e2-b8c8-53b7-a71a-1fae3340919c

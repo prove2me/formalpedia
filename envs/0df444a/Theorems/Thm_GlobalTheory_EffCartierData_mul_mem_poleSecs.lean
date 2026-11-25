@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_mul_mem_poleSecs
 -- name    : GlobalTheory.EffCartierData.mul_mem_poleSecs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:11:53.574253+00:00
 -- url     : https://prove2.me/theorems/e4185194-ffdb-40e8-bbf2-1cd22716ab87

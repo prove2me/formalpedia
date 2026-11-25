@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOnR_topEquiv_f
 -- name    : GlobalTheory.AbLaw.SecOnR.topEquiv_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:39:57.008798+00:00
 -- url     : https://prove2.me/theorems/6a537aed-392b-5750-876e-3e5e8504d9c5

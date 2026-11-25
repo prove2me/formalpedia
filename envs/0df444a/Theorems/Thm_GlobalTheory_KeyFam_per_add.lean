@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyFam_per_add
 -- name    : GlobalTheory.KeyFam.per_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:21:17.770819+00:00
 -- url     : https://prove2.me/theorems/0c31cea5-36b5-4d5c-915d-5e6cc7a22eca

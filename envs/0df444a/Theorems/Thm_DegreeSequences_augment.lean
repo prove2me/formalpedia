@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_augment
 -- name    : DegreeSequences.augment
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:56:43.044606+00:00
 -- url     : https://prove2.me/theorems/8724d52c-1546-5b20-a9d4-0ed114d49a8a

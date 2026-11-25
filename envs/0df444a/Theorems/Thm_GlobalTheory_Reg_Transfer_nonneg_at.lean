@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_nonneg_at
 -- name    : GlobalTheory.Reg.Transfer.nonneg_at
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:11:08.277036+00:00
 -- url     : https://prove2.me/theorems/9a8bbf2f-3a1c-43e8-9505-6fccc290b063

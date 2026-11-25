@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EtaleCoordinates_exists_away_ideal_eq_span_and_formallyEtale
 -- name    : FunctorialResolution.EmbeddedResolution.EtaleCoordinates.exists_away_ideal_eq_span_and_formallyEtale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:51.932282+00:00
 -- url     : https://prove2.me/theorems/5f5ea3d1-820d-464e-8a27-712bb5c58c8b

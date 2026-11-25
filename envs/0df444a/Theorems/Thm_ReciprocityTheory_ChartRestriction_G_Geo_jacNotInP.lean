@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_jacNotInP
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.jacNotInP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:25:54.376673+00:00
 -- url     : https://prove2.me/theorems/1dc20ac3-1540-40cf-8391-f0b40810619d

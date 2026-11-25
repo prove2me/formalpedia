@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_RegAlgFam_exists_iff
 -- name    : UpperTheory.RegAlgFam.exists_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:00:08.293552+00:00
 -- url     : https://prove2.me/theorems/15409f76-ae08-4324-a5d4-56b9c29a21ea

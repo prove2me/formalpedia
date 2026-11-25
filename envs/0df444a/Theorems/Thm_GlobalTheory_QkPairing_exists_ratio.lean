@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QkPairing_exists_ratio
 -- name    : GlobalTheory.QkPairing.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:23:43.998837+00:00
 -- url     : https://prove2.me/theorems/762436d6-af98-481f-b6a8-557c637237d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_DeterminantValuationBounds_infinite_residueField
 -- name    : ReciprocityTheory.PGsh.Up.DeterminantValuationBounds.infinite_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:06:35.20266+00:00
 -- url     : https://prove2.me/theorems/ed46d031-9a52-4ff6-aed5-a0b16a2b85c3

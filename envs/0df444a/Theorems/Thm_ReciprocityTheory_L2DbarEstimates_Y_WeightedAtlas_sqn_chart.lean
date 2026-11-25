@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_sqn_chart
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.sqn_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:32:24.835547+00:00
 -- url     : https://prove2.me/theorems/dc465fbe-dfc2-41be-8c32-9d4b66c22d9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_stalkModuleSections_smul
 -- name    : GlobalTheory.QCoh.stalkModuleSections_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:19:50.975737+00:00
 -- url     : https://prove2.me/theorems/0b6100f6-3158-49cc-a83d-5d40ac5f582a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_extProd_eq
 -- name    : GlobalTheory.LGrp.extProd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:25:06.083742+00:00
 -- url     : https://prove2.me/theorems/f4dc237a-33be-5991-a52b-8957206187b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_IsChowFormInt_span_eq_elimIdeal
 -- name    : GlobalTheory.ChowHt.IsChowFormInt.span_eq_elimIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:41.50309+00:00
 -- url     : https://prove2.me/theorems/e07e92d8-adda-4293-ac9a-d504e1961411

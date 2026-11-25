@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieExt_lieMult_of_finrank
 -- name    : GlobalTheory.LieExt.lieMult_of_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:16:36.773005+00:00
 -- url     : https://prove2.me/theorems/197efc07-cc0c-4c2a-8e8c-284f6d5b3da8

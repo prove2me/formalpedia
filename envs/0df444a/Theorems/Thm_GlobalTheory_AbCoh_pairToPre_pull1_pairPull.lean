@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_pairToPre_pull1_pairPull
 -- name    : GlobalTheory.AbCoh.pairToPre_pull1_pairPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:59:32.427819+00:00
 -- url     : https://prove2.me/theorems/5761dfc2-9905-47a9-a9ce-6487e79c976d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_partnerConverse
 -- name    : Formalism.CountingSumsFrames.Top.partnerConverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:23:26.538715+00:00
 -- url     : https://prove2.me/theorems/8ec025a7-c0b5-58f6-a5e2-62ec926a0eab

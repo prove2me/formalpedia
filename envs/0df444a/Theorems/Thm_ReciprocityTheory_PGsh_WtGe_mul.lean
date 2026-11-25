@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_WtGe_mul
 -- name    : ReciprocityTheory.PGsh.WtGe.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:39.080449+00:00
 -- url     : https://prove2.me/theorems/94784456-aee0-40a9-83ce-5d1ec1728e7a

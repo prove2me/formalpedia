@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_keyRule_one_of_keyFormula
 -- name    : GlobalTheory.KeyPow.keyRule_one_of_keyFormula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:12:48.512103+00:00
 -- url     : https://prove2.me/theorems/8350930c-bbdb-4e3c-90ee-8c79d94a610e

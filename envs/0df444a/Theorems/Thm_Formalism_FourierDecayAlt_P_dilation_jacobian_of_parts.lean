@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dilation_jacobian_of_parts
 -- name    : Formalism.FourierDecayAlt.P.dilation_jacobian_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:30:05.713424+00:00
 -- url     : https://prove2.me/theorems/996dff98-b7a7-450a-983c-2104c99fe965

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schrodinger_rep_schwartz_polynomial_bound
 -- name    : GlobalTheory.T.schrodinger_rep_schwartz_polynomial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:43.62671+00:00
 -- url     : https://prove2.me/theorems/1770467e-4108-481b-ba36-c98be2f4d8fb

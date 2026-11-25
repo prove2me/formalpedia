@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Model_isColChar_full
 -- name    : GlobalTheory.StepData.Model.isColChar_full
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:55.703047+00:00
 -- url     : https://prove2.me/theorems/884363ad-c675-4f75-8631-fd7de3200491

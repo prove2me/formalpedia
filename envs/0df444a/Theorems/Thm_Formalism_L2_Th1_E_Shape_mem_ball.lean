@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_Shape_mem_ball
 -- name    : Formalism.L2.Th1.E.Shape.mem_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:48:54.207803+00:00
 -- url     : https://prove2.me/theorems/3c9c1057-86b6-5611-bd94-f701a5021dd8

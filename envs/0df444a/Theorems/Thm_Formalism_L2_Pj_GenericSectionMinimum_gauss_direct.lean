@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenericSectionMinimum_gauss_direct
 -- name    : Formalism.L2.Pj.GenericSectionMinimum.gauss_direct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:36:03.019134+00:00
 -- url     : https://prove2.me/theorems/3bf297e7-9884-4ab4-a397-fae8b0cc4dcc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_volRatio
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.volRatio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:38:14.18558+00:00
 -- url     : https://prove2.me/theorems/bff8a4ea-f678-41bc-867f-5925306153ec

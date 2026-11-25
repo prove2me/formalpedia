@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_idealSheafData_ext_coprod
 -- name    : FunctorialResolution.Blowup.idealSheafData_ext_coprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:22.775415+00:00
 -- url     : https://prove2.me/theorems/0926166d-acf5-54e5-bd0e-76aa3f8a3b2d

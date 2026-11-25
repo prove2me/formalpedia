@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_hostOrbitCountSg
 -- name    : Formalism.HC.Frame.hostOrbitCountSg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:44.422615+00:00
 -- url     : https://prove2.me/theorems/12068f47-c2d8-446d-ab0f-7ca40926d07b

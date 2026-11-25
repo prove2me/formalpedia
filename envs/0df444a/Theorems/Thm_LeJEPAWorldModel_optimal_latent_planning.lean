@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeJEPAWorldModel_optimal_latent_planning
 -- name    : LeJEPAWorldModel.optimal_latent_planning
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T17:23:52.054749+00:00
 -- url     : https://prove2.me/theorems/aac65d37-9c58-4230-9984-69f881af0870

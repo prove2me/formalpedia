@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_parahoricChain_last_two_steps_root_of_unity
 -- name    : GlobalTheory.T.parahoricChain_last_two_steps_root_of_unity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:36:18.489665+00:00
 -- url     : https://prove2.me/theorems/1a3e7e09-6d57-4e0a-9ee7-6201da6a85c2

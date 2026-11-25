@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Bl_PowMulVecEigen_goal1
 -- name    : Bl.PowMulVecEigen.goal1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:16:11.648681+00:00
 -- url     : https://prove2.me/theorems/3b1cb1bb-531c-47ca-aa99-197172f1b772

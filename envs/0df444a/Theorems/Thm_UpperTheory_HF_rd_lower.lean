@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_rd_lower
 -- name    : UpperTheory.HF.rd_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:23:09.621266+00:00
 -- url     : https://prove2.me/theorems/c9664e68-1d85-5dda-b9c8-3488b944f98e

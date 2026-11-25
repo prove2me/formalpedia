@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimSec_nonempty_of_ne_zero
 -- name    : GlobalTheory.PrimSec.nonempty_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:57:54.602826+00:00
 -- url     : https://prove2.me/theorems/95d68d14-d3ef-4fd9-b207-e706af4233fe

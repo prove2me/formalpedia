@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_quad_diag_int
 -- name    : ReciprocityTheory.PTheta.quad_diag_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:09:14.668288+00:00
 -- url     : https://prove2.me/theorems/e662c0e7-0cb6-538d-b09a-22cef735a01c

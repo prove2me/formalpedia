@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_norm_blockPoint_le
 -- name    : ReciprocityTheory.MultiplicativeHeights.norm_blockPoint_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:43.766257+00:00
 -- url     : https://prove2.me/theorems/b9903c7c-8495-581b-9c71-cdce21d1721b

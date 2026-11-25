@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_IsRightAct_equiv_apply
 -- name    : GlobalTheory.LevDesc.IsRightAct.equiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:06.429186+00:00
 -- url     : https://prove2.me/theorems/f65d6ae9-51ac-4af1-80ca-713855cf7508

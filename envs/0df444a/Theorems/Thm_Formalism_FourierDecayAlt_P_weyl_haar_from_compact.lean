@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weyl_haar_from_compact
 -- name    : Formalism.FourierDecayAlt.P.weyl_haar_from_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:36:56.687164+00:00
 -- url     : https://prove2.me/theorems/ef6297ad-9023-5d4f-af21-bc34a4c35112

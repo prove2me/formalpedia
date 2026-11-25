@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartQF_eq_spMap_of_injective
 -- name    : GlobalTheory.ChartQF.eq_spMap_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:18.341075+00:00
 -- url     : https://prove2.me/theorems/12720a17-45ec-45ac-833a-9937cdd2c8fe

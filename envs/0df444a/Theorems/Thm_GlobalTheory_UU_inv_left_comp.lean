@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_inv_left_comp
 -- name    : GlobalTheory.UU.inv_left_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:43:18.680448+00:00
 -- url     : https://prove2.me/theorems/15a8b027-a9a3-4936-9f0c-a72f1e48208b

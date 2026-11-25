@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_topEquiv_symm_apply
 -- name    : GlobalTheory.AbLaw.SecOn.topEquiv_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:39:21.913381+00:00
 -- url     : https://prove2.me/theorems/42028fb3-8c44-43c3-bb3b-0bbbdbe1ea18

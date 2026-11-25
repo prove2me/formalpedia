@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionZero_ringKrullDim_cone
 -- name    : GlobalTheory.TorsionZero.ringKrullDim_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:08:45.912178+00:00
 -- url     : https://prove2.me/theorems/199f79d1-a900-437a-a859-2642b3258127

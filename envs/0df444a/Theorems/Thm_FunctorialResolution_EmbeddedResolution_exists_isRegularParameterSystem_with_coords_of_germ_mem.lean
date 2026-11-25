@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_isRegularParameterSystem_with_coords_of_germ_mem
 -- name    : FunctorialResolution.EmbeddedResolution.exists_isRegularParameterSystem_with_coords_of_germ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:54:32.713985+00:00
 -- url     : https://prove2.me/theorems/386075e1-db7b-432e-8fe6-ef5d1e0dbfb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_Dec_dw_const_mul
 -- name    : ZetaZeros.D.EllReg.Dec.dw_const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:16.288264+00:00
 -- url     : https://prove2.me/theorems/a6c7b70d-66ca-5e8b-a111-f3eb3f75c003

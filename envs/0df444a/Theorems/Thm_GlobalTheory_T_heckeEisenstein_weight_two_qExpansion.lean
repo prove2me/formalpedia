@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeEisenstein_weight_two_qExpansion
 -- name    : GlobalTheory.T.heckeEisenstein_weight_two_qExpansion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:44:19.888802+00:00
 -- url     : https://prove2.me/theorems/af5ba84b-1c11-4ff3-a3f6-d9974d9a739e

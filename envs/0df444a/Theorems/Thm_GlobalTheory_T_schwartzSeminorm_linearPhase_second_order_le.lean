@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzSeminorm_linearPhase_second_order_le
 -- name    : GlobalTheory.T.schwartzSeminorm_linearPhase_second_order_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:02.294245+00:00
 -- url     : https://prove2.me/theorems/43745fd4-b2c1-53a1-abaa-ab1567eb19f4

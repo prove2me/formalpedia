@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_inner_gs_comb
 -- name    : ReciprocityTheory.ReducedBases.T2.inner_gs_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:11.352804+00:00
 -- url     : https://prove2.me/theorems/e2b9a314-baab-4dda-b443-f37c4f70125f

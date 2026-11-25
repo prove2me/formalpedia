@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_numerical_loops
 -- name    : Formalism.FourierDecayAlt.P.numerical_loops
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:53.430813+00:00
 -- url     : https://prove2.me/theorems/95e53b6b-d5a3-4f78-b31f-90b6383d6c51

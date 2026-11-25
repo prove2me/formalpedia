@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinEt_isSplitOfRank_sigmaDesc
 -- name    : GlobalTheory.FinEt.isSplitOfRank_sigmaDesc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:00.293916+00:00
 -- url     : https://prove2.me/theorems/b21af0ec-eed8-4574-a3f2-33a5b3e700a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_centreForcing_true
 -- name    : Formalism.FourierDecayAlt.P.centreForcing_true
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:43.736187+00:00
 -- url     : https://prove2.me/theorems/b1f2e90f-87d9-416c-983f-c5c2390e1ab7

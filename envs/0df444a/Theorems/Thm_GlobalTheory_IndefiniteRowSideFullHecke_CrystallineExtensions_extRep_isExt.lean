@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CrystallineExtensions_extRep_isExt
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CrystallineExtensions.extRep_isExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:10:06.583249+00:00
 -- url     : https://prove2.me/theorems/1d2fbf1e-e931-4e0a-8fa0-efb5b79d8488

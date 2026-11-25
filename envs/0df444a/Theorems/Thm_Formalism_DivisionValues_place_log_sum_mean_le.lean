@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_place_log_sum_mean_le
 -- name    : Formalism.DivisionValues.place_log_sum.mean_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:23:55.054825+00:00
 -- url     : https://prove2.me/theorems/61fa73f3-b5a1-5e1d-bba2-445c6cb5f4e0

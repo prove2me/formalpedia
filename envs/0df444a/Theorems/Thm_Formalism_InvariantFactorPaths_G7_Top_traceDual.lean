@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_traceDual
 -- name    : Formalism.InvariantFactorPaths.G7.Top.traceDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:43:48.975588+00:00
 -- url     : https://prove2.me/theorems/29e96185-bac4-4147-ae3d-8b02ed6b074c

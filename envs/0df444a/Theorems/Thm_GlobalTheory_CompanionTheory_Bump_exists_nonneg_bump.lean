@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bump_exists_nonneg_bump
 -- name    : GlobalTheory.CompanionTheory.Bump.exists_nonneg_bump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:15.003578+00:00
 -- url     : https://prove2.me/theorems/827e4225-0b08-539e-a372-55c7e45093e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ellipticSystem_derivative_continuous_functional
 -- name    : GlobalTheory.T.ellipticSystem_derivative_continuous_functional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:32:35.716013+00:00
 -- url     : https://prove2.me/theorems/da5ea311-43fc-4ef7-9cfb-dc775c1fe5ba

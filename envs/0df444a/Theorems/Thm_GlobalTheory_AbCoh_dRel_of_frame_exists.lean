@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_dRel_of_frame_exists
 -- name    : GlobalTheory.AbCoh.dRel_of_frame_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:56:38.051355+00:00
 -- url     : https://prove2.me/theorems/dcdd50ca-2f3e-4b9c-97c8-55d2babfbc1d

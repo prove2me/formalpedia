@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_FlagModel_lam_ne_zero
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.FlagModel.lam_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:24.373198+00:00
 -- url     : https://prove2.me/theorems/a9beb141-4379-54c5-a1f0-806db6aa0a17

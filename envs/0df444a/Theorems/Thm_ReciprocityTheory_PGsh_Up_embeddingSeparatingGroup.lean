@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_embeddingSeparatingGroup
 -- name    : ReciprocityTheory.PGsh.Up.embeddingSeparatingGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:07:23.871885+00:00
 -- url     : https://prove2.me/theorems/9c01a841-27e6-4597-8a9f-10cfbcfeb660

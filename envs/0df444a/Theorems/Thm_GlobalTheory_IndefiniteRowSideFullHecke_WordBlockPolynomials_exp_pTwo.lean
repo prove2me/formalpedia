@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_WordBlockPolynomials_exp_pTwo
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.WordBlockPolynomials.exp_pTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:34.35204+00:00
 -- url     : https://prove2.me/theorems/44afdb39-8d4c-4a18-88d4-3c7957f98266

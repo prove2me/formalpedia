@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Inh_CapelliCasimir_cas_of_capelli_vec
 -- name    : GlobalTheory.CompanionTheory.Inh.CapelliCasimir.cas_of_capelli_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:57.675864+00:00
 -- url     : https://prove2.me/theorems/97c8bf1d-893c-5b4b-bd84-fd169364d94d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_coefficient_integrable
 -- name    : Formalism.FourierDecayAlt.P.coefficient_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:29:30.754513+00:00
 -- url     : https://prove2.me/theorems/0b3960e5-e25b-5363-bd95-a27316ec7af9

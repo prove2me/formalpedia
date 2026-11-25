@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UniformTorsionIsomorphism_OUnif_ptA_injective
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UniformTorsionIsomorphism.OUnif.ptA_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:48.802551+00:00
 -- url     : https://prove2.me/theorems/20199485-b921-5241-b477-46ba753d915d

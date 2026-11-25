@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Final_prime_order_ramification_results
 -- name    : Formalism.HermitianLattices.Final.prime_order_ramification_results
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:31.138306+00:00
 -- url     : https://prove2.me/theorems/e790fe91-e9c4-425d-a3af-8a96b09c6bbc

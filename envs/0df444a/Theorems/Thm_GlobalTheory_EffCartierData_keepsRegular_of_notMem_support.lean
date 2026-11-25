@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_keepsRegular_of_notMem_support
 -- name    : GlobalTheory.EffCartierData.keepsRegular_of_notMem_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:18:14.781902+00:00
 -- url     : https://prove2.me/theorems/63ec1e00-1db4-5056-8473-ef9bb9d12fba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_measure_measurable
 -- name    : Formalism.FourierDecayAlt.P.measure_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:33:08.654959+00:00
 -- url     : https://prove2.me/theorems/9f237c20-eea2-5bfd-b000-a0a3fdf0275c

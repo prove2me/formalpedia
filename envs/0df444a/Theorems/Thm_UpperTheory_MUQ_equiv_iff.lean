@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_MUQ_equiv_iff
 -- name    : UpperTheory.MUQ.equiv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:12.383785+00:00
 -- url     : https://prove2.me/theorems/fed7de74-ca1e-432a-b838-8e5907f6fb9f

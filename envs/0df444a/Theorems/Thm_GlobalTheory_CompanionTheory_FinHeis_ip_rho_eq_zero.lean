@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_ip_rho_eq_zero
 -- name    : GlobalTheory.CompanionTheory.FinHeis.ip_rho_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:00:42.847797+00:00
 -- url     : https://prove2.me/theorems/a65449c4-7a44-5a8f-8289-e32e69252332

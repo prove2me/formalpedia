@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_split_sum_alt
 -- name    : Formalism.FourierDecayAlt.P.split_sum_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:35:33.256882+00:00
 -- url     : https://prove2.me/theorems/556720c0-73b5-4cf1-8dff-ffbaedea30c4

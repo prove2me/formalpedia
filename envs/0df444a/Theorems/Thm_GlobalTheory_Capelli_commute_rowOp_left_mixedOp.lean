@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Capelli_commute_rowOp_left_mixedOp
 -- name    : GlobalTheory.Capelli.commute_rowOp_left_mixedOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:08.227951+00:00
 -- url     : https://prove2.me/theorems/e5b3a10f-45e9-5442-af6b-c61fa0604cf8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusGrading_exists_point
 -- name    : GlobalTheory.TorusGrading.exists_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:58:26.871355+00:00
 -- url     : https://prove2.me/theorems/d0b538be-5902-480e-9bfe-242aa3204b0e

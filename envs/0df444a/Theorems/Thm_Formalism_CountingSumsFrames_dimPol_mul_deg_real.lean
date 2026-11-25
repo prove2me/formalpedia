@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_dimPol_mul_deg_real
 -- name    : Formalism.CountingSumsFrames.dimPol_mul_deg_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:23:06.497048+00:00
 -- url     : https://prove2.me/theorems/01eaf8ef-b83b-41a6-99c8-debb94899031

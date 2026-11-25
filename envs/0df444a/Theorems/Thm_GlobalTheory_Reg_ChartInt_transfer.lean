@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_ChartInt_transfer
 -- name    : GlobalTheory.Reg.ChartInt.transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:18:37.348889+00:00
 -- url     : https://prove2.me/theorems/43bd426b-b4b9-4232-9937-16b56f468d8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodCompare_isHolTo_iff_of_isOpen
 -- name    : GlobalTheory.PeriodCompare.isHolTo_iff_of_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:48.111742+00:00
 -- url     : https://prove2.me/theorems/f7db6182-7101-482b-9a55-f00bc29f3407

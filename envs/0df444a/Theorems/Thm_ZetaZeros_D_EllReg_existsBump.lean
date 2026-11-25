@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_existsBump
 -- name    : ZetaZeros.D.EllReg.existsBump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:13:08.630424+00:00
 -- url     : https://prove2.me/theorems/54d8d644-0a36-4156-ac9e-31357f3f7f24

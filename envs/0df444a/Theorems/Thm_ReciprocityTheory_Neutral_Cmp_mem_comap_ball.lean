@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_mem_comap_ball
 -- name    : ReciprocityTheory.Neutral.Cmp.mem_comap_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:07:31.315105+00:00
 -- url     : https://prove2.me/theorems/3d83779d-be86-5cc1-bcb5-856897684118

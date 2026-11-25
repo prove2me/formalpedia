@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_lamData_of_hyp
 -- name    : CompanionTheory.WaveGrid.lamData_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:20:48.220819+00:00
 -- url     : https://prove2.me/theorems/1e3dd68d-96f7-4a87-b9fb-baac2365868e

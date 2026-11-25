@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_logAbs_vp_of_normalised
 -- name    : GlobalTheory.HTLat.logAbs_vp_of_normalised
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:24.667415+00:00
 -- url     : https://prove2.me/theorems/9709885f-4d7a-45b4-b811-a41a86bbe9a2

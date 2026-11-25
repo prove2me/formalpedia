@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_card_stringParam
 -- name    : GlobalTheory.LGrp.card_stringParam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:00.713892+00:00
 -- url     : https://prove2.me/theorems/fde2c52d-332d-5750-8f2a-a6a97a912971

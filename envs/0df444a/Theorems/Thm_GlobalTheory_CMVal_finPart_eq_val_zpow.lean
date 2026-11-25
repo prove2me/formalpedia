@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_finPart_eq_val_zpow
 -- name    : GlobalTheory.CMVal.finPart_eq_val_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:39.801802+00:00
 -- url     : https://prove2.me/theorems/2880266a-5d61-5d9e-b4de-5b5fa1dab18d

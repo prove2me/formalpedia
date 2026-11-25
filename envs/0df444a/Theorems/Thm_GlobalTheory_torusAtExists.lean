@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torusAtExists
 -- name    : GlobalTheory.torusAtExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:57:20.566595+00:00
 -- url     : https://prove2.me/theorems/3c86789e-8d9d-4660-b044-0fa2acb500a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecSpread_exists_glue
 -- name    : GlobalTheory.SecSpread.exists_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:02:52.98369+00:00
 -- url     : https://prove2.me/theorems/61b051c6-d127-4fbb-b479-9e5fd0370da5

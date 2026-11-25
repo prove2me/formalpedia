@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_colMat_mulVec_injective
 -- name    : ReciprocityTheory.MultiplicativeHeights.colMat_mulVec_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:04:09.108369+00:00
 -- url     : https://prove2.me/theorems/a219524d-3d2a-48f3-9d97-2869a68f95a6

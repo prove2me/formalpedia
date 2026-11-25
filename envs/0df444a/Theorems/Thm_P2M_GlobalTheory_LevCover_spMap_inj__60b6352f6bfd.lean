@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LevCover_spMap_inj__60b6352f6bfd
 -- name    : P2M_GlobalTheory_LevCover_spMap_inj__60b6352f6bfd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:44:48.171826+00:00
 -- url     : https://prove2.me/theorems/5c6e7f2c-02b1-5f50-842a-35824074059a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SiegelReframe_theta_factor
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe.theta_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:10:38.812359+00:00
 -- url     : https://prove2.me/theorems/cbe6ead9-38c6-4164-a2fa-edf817e053df

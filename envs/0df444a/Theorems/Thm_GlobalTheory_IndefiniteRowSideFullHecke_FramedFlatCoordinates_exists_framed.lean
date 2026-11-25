@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FramedFlatCoordinates_exists_framed
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FramedFlatCoordinates.exists_framed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:03:08.526507+00:00
 -- url     : https://prove2.me/theorems/29a0d152-5175-57b5-b891-94d0b210a8ba

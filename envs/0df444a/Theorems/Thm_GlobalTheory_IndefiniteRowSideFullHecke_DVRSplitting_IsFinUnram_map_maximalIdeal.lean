@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_DVRSplitting_IsFinUnram_map_maximalIdeal
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.DVRSplitting.IsFinUnram.map_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:34.316527+00:00
 -- url     : https://prove2.me/theorems/efc492e5-d345-4e44-9cd0-30607a7b50e3

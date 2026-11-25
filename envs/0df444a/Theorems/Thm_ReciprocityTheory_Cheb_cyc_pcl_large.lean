@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cyc_pcl_large
 -- name    : ReciprocityTheory.Cheb.cyc_pcl_large
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:24.979834+00:00
 -- url     : https://prove2.me/theorems/ee05f957-e02a-4fdf-b426-289cde72aa48

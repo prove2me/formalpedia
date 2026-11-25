@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndDivisible_eq_one_of_forall_pow_dvd
 -- name    : GlobalTheory.EndDivisible.eq_one_of_forall_pow_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:04:42.736921+00:00
 -- url     : https://prove2.me/theorems/64bb6a76-786a-5d1f-b545-f4c1bba90ce9

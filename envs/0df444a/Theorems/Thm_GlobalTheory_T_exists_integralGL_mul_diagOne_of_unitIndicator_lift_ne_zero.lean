@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integralGL_mul_diagOne_of_unitIndicator_lift_ne_zero
 -- name    : GlobalTheory.T.exists_integralGL_mul_diagOne_of_unitIndicator_lift_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:30:56.593155+00:00
 -- url     : https://prove2.me/theorems/e0b74d40-62ba-5e07-8f13-16a94d79eee0

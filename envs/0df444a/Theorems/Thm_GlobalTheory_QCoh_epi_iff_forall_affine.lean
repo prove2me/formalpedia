@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_epi_iff_forall_affine
 -- name    : GlobalTheory.QCoh.epi_iff_forall_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:18:49.071939+00:00
 -- url     : https://prove2.me/theorems/1e36ed28-5f36-4a84-b153-f073b97e5b81

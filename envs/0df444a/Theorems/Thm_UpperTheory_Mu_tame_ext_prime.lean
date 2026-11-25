@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_tame_ext_prime
 -- name    : UpperTheory.Mu.tame_ext_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:27.183426+00:00
 -- url     : https://prove2.me/theorems/fcf8eb2c-aa19-410d-848e-225754d7b906

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Bmu_CWLin_eq_zero
 -- name    : CompanionTheory.Bmu.CWLin.eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:17:16.272133+00:00
 -- url     : https://prove2.me/theorems/8ed3f596-adb9-4a5e-b83f-55c6d356190e

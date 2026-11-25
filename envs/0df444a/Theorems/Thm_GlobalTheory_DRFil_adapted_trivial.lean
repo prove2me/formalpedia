@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_adapted_trivial
 -- name    : GlobalTheory.DRFil.adapted_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:14.928844+00:00
 -- url     : https://prove2.me/theorems/44c3ce7c-3415-464d-a19c-e3cdd77c07f0

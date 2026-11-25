@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_DualPair_nilSurj
 -- name    : ReciprocityTheory.PGsh.DualPair.nilSurj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:06:14.607248+00:00
 -- url     : https://prove2.me/theorems/73840d52-f3e0-45e0-931f-e7b51e8dea12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weighted_quadratic_of_real
 -- name    : Formalism.FourierDecayAlt.P.weighted_quadratic_of_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:54.691908+00:00
 -- url     : https://prove2.me/theorems/a1471caa-7f97-4275-89ed-fd5c225ed282

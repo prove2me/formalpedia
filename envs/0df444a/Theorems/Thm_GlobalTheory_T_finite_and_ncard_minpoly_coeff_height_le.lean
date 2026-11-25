@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_and_ncard_minpoly_coeff_height_le
 -- name    : GlobalTheory.T.finite_and_ncard_minpoly_coeff_height_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:36.906682+00:00
 -- url     : https://prove2.me/theorems/4dc70dfa-477e-4231-be22-3ce3cffcb13d

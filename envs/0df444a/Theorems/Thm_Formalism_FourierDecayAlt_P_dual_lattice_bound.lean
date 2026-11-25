@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dual_lattice_bound
 -- name    : Formalism.FourierDecayAlt.P.dual_lattice_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:29:07.996939+00:00
 -- url     : https://prove2.me/theorems/79019134-a3a1-5471-8429-37eadb065cb2

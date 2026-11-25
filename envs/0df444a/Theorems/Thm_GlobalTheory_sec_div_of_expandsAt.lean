@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sec_div_of_expandsAt
 -- name    : GlobalTheory.sec_div_of_expandsAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:08:38.464848+00:00
 -- url     : https://prove2.me/theorems/168e2d61-eb07-4982-8810-58f86990c438

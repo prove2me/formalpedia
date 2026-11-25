@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_continuous_toGL
 -- name    : GlobalTheory.MixedSignature.continuous_toGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:50:54.357228+00:00
 -- url     : https://prove2.me/theorems/ae4ccb7a-4dc0-5a2f-b5a4-42598e963d55

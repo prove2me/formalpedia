@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTateDuality_odd
 -- name    : GlobalTheory.Published.PoitouTateDuality.odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:16:18.861541+00:00
 -- url     : https://prove2.me/theorems/be862ca4-6b5a-53b7-805e-ed3d12f74971

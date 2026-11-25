@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OpenModelSections_nonzeroOnFibre_iff
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OpenModelSections.nonzeroOnFibre_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:02.335874+00:00
 -- url     : https://prove2.me/theorems/53cae65b-3d4e-408d-a255-362d2074783c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagVolume_lintegral_comp_vecMul
 -- name    : GlobalTheory.FlagVolume.lintegral_comp_vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:13.323954+00:00
 -- url     : https://prove2.me/theorems/47853f9c-9915-47e0-ad91-519f0ac86f1d

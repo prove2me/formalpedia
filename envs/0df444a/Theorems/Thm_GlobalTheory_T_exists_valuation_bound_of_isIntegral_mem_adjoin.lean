@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_valuation_bound_of_isIntegral_mem_adjoin
 -- name    : GlobalTheory.T.exists_valuation_bound_of_isIntegral_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:01.632147+00:00
 -- url     : https://prove2.me/theorems/04b47ebe-d5ee-54ff-93f9-13fa1b8daf43

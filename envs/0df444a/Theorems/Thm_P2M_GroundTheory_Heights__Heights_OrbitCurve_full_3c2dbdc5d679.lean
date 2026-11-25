@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCurve_full_3c2dbdc5d679
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCurve_full_3c2dbdc5d679
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:15.582863+00:00
 -- url     : https://prove2.me/theorems/90a60e6d-e882-4c03-976e-31db323e06f3

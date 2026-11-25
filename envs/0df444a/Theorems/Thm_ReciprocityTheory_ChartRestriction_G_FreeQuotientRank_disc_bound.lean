@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_disc_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.disc_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:22:08.727133+00:00
 -- url     : https://prove2.me/theorems/646b1073-bdc4-4b1c-98b8-c0dc46357837

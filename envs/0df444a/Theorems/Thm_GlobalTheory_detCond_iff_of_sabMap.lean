@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_detCond_iff_of_sabMap
 -- name    : GlobalTheory.detCond_iff_of_sabMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:53:00.604769+00:00
 -- url     : https://prove2.me/theorems/5c0d866d-bf74-54ba-ae36-dfdc998ec4f3

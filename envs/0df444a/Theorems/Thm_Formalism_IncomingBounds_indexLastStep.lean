@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_indexLastStep
 -- name    : Formalism.IncomingBounds.indexLastStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:41.604794+00:00
 -- url     : https://prove2.me/theorems/ef03c3fe-6a90-4ad9-9b04-9e2a18390c97

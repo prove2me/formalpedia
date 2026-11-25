@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_mk_eq_mk_iff
 -- name    : UpperTheory.V.mk_eq_mk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:38.709922+00:00
 -- url     : https://prove2.me/theorems/12657ce4-b228-4ed7-8ee2-d2489099827f

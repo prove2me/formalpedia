@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_sum_mul_repr_single
 -- name    : GlobalTheory.AdLat.sum_mul_repr_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:36.48767+00:00
 -- url     : https://prove2.me/theorems/42a19cfa-2480-4b3f-9cf9-55e45c3af3d2

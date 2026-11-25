@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.FirstKernelProperties.th1All
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T16:31:06.423346+00:00
+-- url     : https://prove2.me/submissions/ce27c8a8-8a56-4856-9a5f-39e558b86795
+
+import Definitions.Def_Formalism_HermitianCurvature_BlockKernelPropertiesOfSteps
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CharacterOrthogonalityDual
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_KernelQuotientFinite
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_KernelNonzeroModulusDeterminantEq
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstKernelPropertiesOfHypotheses
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AddedBlockKernelSupport
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstKernelExplicitFormula
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FirstKernelProperties
+import Theorems.Thm_Formalism_FourierDecayAlt_P_first_kernel_periodic
+import Theorems.Thm_Formalism_FourierDecayAlt_P_first_kernel_gram_property
+import Theorems.Thm_Formalism_FourierDecayAlt_P_first_kernel_parseval
+import Theorems.Thm_Formalism_FourierDecayAlt_P_A5x6_first_theta_eq_of_equality
+import Theorems.Thm_Formalism_FourierDecayAlt_P_A5x6_first_theta_equality_of_kernel_facts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_added_block_kernel_block_diagonal
+import Theorems.Thm_Formalism_FourierDecayAlt_P_added_block_kernel_support
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Formalism.FourierDecayAlt.P.FirstKernelProperties
+namespace Formalism.FourierDecayAlt.P.FirstKernelProperties
+theorem _root_.solution : Formalism.FourierDecayAlt.A5.Th1Eq ∧ Formalism.FourierDecayAlt.A5.SingleBlockThetaProps := ⟨A5x6.first_theta_eq_of_equality (A5x6.first_theta_equality_of_kernel_facts first_kernel_periodic first_kernel_gram_property first_kernel_parseval
+    added_block_kernel_support added_block_kernel_block_diagonal),
+    A5x6.first_theta_equality_of_kernel_facts first_kernel_periodic first_kernel_gram_property first_kernel_parseval
+      added_block_kernel_support added_block_kernel_block_diagonal⟩
+end Formalism.FourierDecayAlt.P.FirstKernelProperties

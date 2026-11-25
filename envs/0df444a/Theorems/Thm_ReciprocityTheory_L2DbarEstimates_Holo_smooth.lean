@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Holo_smooth
 -- name    : ReciprocityTheory.L2DbarEstimates.Holo.smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:19:59.481803+00:00
 -- url     : https://prove2.me/theorems/0bba106c-c6f1-4347-a107-e78d6f239b4b

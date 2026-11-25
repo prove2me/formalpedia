@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_finrank_of_lieMult
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.finrank_of_lieMult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:09:40.458543+00:00
 -- url     : https://prove2.me/theorems/a6c017ea-bc92-460a-9c64-e6f3b9f49013

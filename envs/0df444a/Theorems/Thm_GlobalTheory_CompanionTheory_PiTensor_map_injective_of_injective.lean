@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PiTensor_map_injective_of_injective
 -- name    : GlobalTheory.CompanionTheory.PiTensor.map_injective_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:35.549797+00:00
 -- url     : https://prove2.me/theorems/ee3f17ac-a65c-5fb5-a4ee-2253a5160c55

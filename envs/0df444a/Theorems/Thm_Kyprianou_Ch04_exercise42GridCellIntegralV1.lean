@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42GridCellIntegralV1
 -- name    : Kyprianou.Ch04.exercise42GridCellIntegralV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T09:54:20.78925+00:00
 -- url     : https://prove2.me/theorems/6abc9ec1-aa14-52c9-8e32-b58aa8062146

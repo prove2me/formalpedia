@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalModelGuards_exists_good_level
 -- name    : GlobalTheory.GlobalModelGuards.exists_good_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:55.49556+00:00
 -- url     : https://prove2.me/theorems/532d89fe-4b6e-5893-80d5-0d53d45f0884

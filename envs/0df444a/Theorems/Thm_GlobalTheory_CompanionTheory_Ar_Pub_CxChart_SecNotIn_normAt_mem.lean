@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxChart_SecNotIn_normAt_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxChart.SecNotIn.normAt_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:44:04.68524+00:00
 -- url     : https://prove2.me/theorems/0436350d-ee3f-5ab5-8047-a10f8e2bf458

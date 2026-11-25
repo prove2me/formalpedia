@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_isSmooth_iff
 -- name    : GlobalTheory.LGrp.isSmooth_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:19:29.554627+00:00
 -- url     : https://prove2.me/theorems/31ae0994-c211-5d8f-bb05-b0df9fd74174

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsFreeAction_of_isAlgClosed
 -- name    : GlobalTheory.IsFreeAction.of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:12:23.001793+00:00
 -- url     : https://prove2.me/theorems/8bc6e27c-5f08-53fe-9d02-ab7c1f80ec56

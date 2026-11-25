@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_SumDat_rr_nonneg
 -- name    : Formalism.MainNotions.Gaps.T0.SumDat.rr_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:49:58.421869+00:00
 -- url     : https://prove2.me/theorems/af85d8c2-ce96-5f6f-9e33-58c417630707

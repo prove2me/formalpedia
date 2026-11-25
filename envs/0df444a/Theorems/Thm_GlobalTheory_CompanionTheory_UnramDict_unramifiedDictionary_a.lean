@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_UnramDict_unramifiedDictionary_a
 -- name    : GlobalTheory.CompanionTheory.UnramDict.unramifiedDictionary_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:04.885896+00:00
 -- url     : https://prove2.me/theorems/8037167b-82ca-4780-a0da-00bae7a9b0aa

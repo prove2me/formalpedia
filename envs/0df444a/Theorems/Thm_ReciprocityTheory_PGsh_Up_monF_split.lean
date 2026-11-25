@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_monF_split
 -- name    : ReciprocityTheory.PGsh.Up.monF_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:47.738926+00:00
 -- url     : https://prove2.me/theorems/ed87ad5d-73b0-4e63-acb5-55d5b5811381

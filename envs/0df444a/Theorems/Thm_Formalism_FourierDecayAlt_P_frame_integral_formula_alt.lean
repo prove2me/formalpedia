@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_integral_formula_alt
 -- name    : Formalism.FourierDecayAlt.P.frame_integral_formula_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:32.317262+00:00
 -- url     : https://prove2.me/theorems/564d8fab-e3fa-4ed1-9d25-fc9728a32c0a

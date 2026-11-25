@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eigenvector_lift_of_surjection
 -- name    : GlobalTheory.T.eigenvector_lift_of_surjection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:17.251413+00:00
 -- url     : https://prove2.me/theorems/a8dc5e78-1e02-4068-ac12-5323b1ce823f

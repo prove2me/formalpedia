@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OTY_etale_empty
 -- name    : GlobalTheory.OTY.etale_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:26.754816+00:00
 -- url     : https://prove2.me/theorems/3b63b3cb-4052-49a8-82eb-b809f9d27595

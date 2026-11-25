@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_parallelogram_law_zero
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.parallelogram_law_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:10.827179+00:00
 -- url     : https://prove2.me/theorems/36e9554b-cff7-4fc8-b8f3-167cd3966f17

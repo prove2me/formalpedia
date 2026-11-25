@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_levelPlace_tower
 -- name    : Formalism.EigenvalueLevelCeiling.levelPlace_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:45.978893+00:00
 -- url     : https://prove2.me/theorems/07ebebe3-6efd-5da0-9fc7-e4754f54bedd

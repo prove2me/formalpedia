@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_exists_secRel
 -- name    : GlobalTheory.ThetaPtMove.exists_secRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:37:32.579829+00:00
 -- url     : https://prove2.me/theorems/f4290f93-3596-5de4-999b-8edd4c23a0d8

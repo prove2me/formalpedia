@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_exists_normalised_mulPull
 -- name    : GlobalTheory.KeyKa.exists_normalised_mulPull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:15.353071+00:00
 -- url     : https://prove2.me/theorems/6d514a02-76a2-4321-ac35-999d29d2b473

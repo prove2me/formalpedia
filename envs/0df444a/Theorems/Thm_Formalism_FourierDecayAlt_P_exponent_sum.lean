@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_exponent_sum
 -- name    : Formalism.FourierDecayAlt.P.exponent_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:36:15.549557+00:00
 -- url     : https://prove2.me/theorems/2c5631d4-b258-53f6-a4f6-1df0b3cc31c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiSpec_secMaps_of_sval
 -- name    : GlobalTheory.PhiSpec.secMaps_of_sval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:46:19.951896+00:00
 -- url     : https://prove2.me/theorems/fcc5eb71-af31-4db6-864e-f8213e3e23aa

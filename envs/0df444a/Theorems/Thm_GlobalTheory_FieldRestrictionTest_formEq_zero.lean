@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldRestrictionTest_formEq_zero
 -- name    : GlobalTheory.FieldRestrictionTest.formEq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:39:46.624946+00:00
 -- url     : https://prove2.me/theorems/7348ffd6-4655-53fc-8288-2396330f6a04

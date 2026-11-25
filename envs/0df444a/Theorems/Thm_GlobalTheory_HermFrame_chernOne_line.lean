@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_chernOne_line
 -- name    : GlobalTheory.HermFrame.chernOne_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:07:02.521474+00:00
 -- url     : https://prove2.me/theorems/a0a8993b-7345-4527-9572-8fab846c31f3

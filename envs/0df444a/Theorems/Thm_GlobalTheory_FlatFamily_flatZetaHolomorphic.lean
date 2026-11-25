@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFamily_flatZetaHolomorphic
 -- name    : GlobalTheory.FlatFamily.flatZetaHolomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:16.431905+00:00
 -- url     : https://prove2.me/theorems/6c0cf2c0-08a6-550f-a84b-502f02be938a

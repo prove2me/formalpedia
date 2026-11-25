@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GeneratorLaw_Rep_unit
 -- name    : GlobalTheory.GeneratorLaw.Rep.unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:33:06.332426+00:00
 -- url     : https://prove2.me/theorems/1eb84f7a-367d-4150-8837-142775f75ef1

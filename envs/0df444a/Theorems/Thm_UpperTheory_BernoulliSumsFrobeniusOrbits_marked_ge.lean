@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_BernoulliSumsFrobeniusOrbits_marked_ge
 -- name    : UpperTheory.BernoulliSumsFrobeniusOrbits.marked_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:38.856867+00:00
 -- url     : https://prove2.me/theorems/ae343a15-058c-5ec6-ad76-65c3c398d1b3

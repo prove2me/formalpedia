@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_ValuationFitting_fitt_ge
 -- name    : Formalism.MainNotions.G.ValuationFitting.fitt_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:11.194733+00:00
 -- url     : https://prove2.me/theorems/eb16f400-aec0-4f1a-822e-2aef50d15bf8

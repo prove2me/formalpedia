@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_weight_in_width_range
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.weight_in_width_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:32:38.093999+00:00
 -- url     : https://prove2.me/theorems/2d66d651-9fb8-5917-985f-994cc8ab6b69

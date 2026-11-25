@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieChart_exists_isStandardSmooth_section
 -- name    : GlobalTheory.LieChart.exists_isStandardSmooth_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:48:53.51907+00:00
 -- url     : https://prove2.me/theorems/fbc595df-9811-4378-b835-98736c9e4f3f

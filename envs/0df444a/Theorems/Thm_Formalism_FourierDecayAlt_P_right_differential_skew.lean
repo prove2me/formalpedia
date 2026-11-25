@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_right_differential_skew
 -- name    : Formalism.FourierDecayAlt.P.right_differential_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:16.541895+00:00
 -- url     : https://prove2.me/theorems/fdd28974-6b06-593f-b3bb-316bed058785

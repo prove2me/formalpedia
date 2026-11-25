@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameBiextId_sq_op
 -- name    : GlobalTheory.FrameBiextId.sq_op
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:21.088309+00:00
 -- url     : https://prove2.me/theorems/fe70c526-e623-54c7-88fa-3cb8b31e8253

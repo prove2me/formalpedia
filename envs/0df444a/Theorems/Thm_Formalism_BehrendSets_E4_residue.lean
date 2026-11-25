@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_E4_residue
 -- name    : Formalism.BehrendSets.E4.residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:20:47.652725+00:00
 -- url     : https://prove2.me/theorems/2f47e483-5225-4533-bd27-dff055c0a94f

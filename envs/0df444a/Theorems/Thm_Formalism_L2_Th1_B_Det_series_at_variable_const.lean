@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Det_series_at_variable_const
 -- name    : Formalism.L2.Th1.B.Det.series_at_variable_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:48:13.083465+00:00
 -- url     : https://prove2.me/theorems/0af9c772-10da-4a7a-adf0-c88defef20bf

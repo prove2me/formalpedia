@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TauPull_tauBimult_pull
 -- name    : GlobalTheory.TauPull.tauBimult_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:36:43.486163+00:00
 -- url     : https://prove2.me/theorems/7c3792d7-f19c-4a48-8be4-d27a84ce6199

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_dig_zero
 -- name    : Formalism.HC.Frame.dig_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:17.019463+00:00
 -- url     : https://prove2.me/theorems/7e892fe6-da9a-4851-b8eb-22f4a3e05dda

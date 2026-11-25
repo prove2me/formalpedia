@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_valuation_pairwiseDifferenceProduct_pow_le_colength_sq
 -- name    : ReciprocityTheory.PGsh.Up.valuation_pairwiseDifferenceProduct_pow_le_colength_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:49.006715+00:00
 -- url     : https://prove2.me/theorems/20a660d0-bee3-45b9-ba45-cdbc78bca2e6

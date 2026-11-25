@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SwapSlice_barL_apply
 -- name    : GlobalTheory.SwapSlice.barL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:25:27.336012+00:00
 -- url     : https://prove2.me/theorems/a0b8f283-50ea-4935-904c-13ac1d7ba138

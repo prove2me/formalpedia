@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_herrB_eq_range
 -- name    : GlobalTheory.Models.herrB_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:15.861582+00:00
 -- url     : https://prove2.me/theorems/1c862093-83bc-546e-bfc4-6c1038e1d2a3

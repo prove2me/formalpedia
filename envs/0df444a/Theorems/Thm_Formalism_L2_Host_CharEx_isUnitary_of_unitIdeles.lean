@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_CharEx_isUnitary_of_unitIdeles
 -- name    : Formalism.L2.Host.CharEx.isUnitary_of_unitIdeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:59:58.093881+00:00
 -- url     : https://prove2.me/theorems/c4d956fc-2332-41bd-84a5-b2b0123b01ff

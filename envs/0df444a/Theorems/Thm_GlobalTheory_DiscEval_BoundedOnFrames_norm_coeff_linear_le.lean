@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_BoundedOnFrames_norm_coeff_linear_le
 -- name    : GlobalTheory.DiscEval.BoundedOnFrames.norm_coeff_linear_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:57:05.457328+00:00
 -- url     : https://prove2.me/theorems/688c66de-74fb-56f9-840c-34bff0e67bc1

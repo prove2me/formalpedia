@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_ExtendsUnitAt_eq_zero_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.ExtendsUnitAt.eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:58:51.707524+00:00
 -- url     : https://prove2.me/theorems/29428f67-73f8-5819-bbcb-e910ca8c1607

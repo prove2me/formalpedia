@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_Std_graded
 -- name    : GlobalTheory.NL.Model.Std.graded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:14:21.593478+00:00
 -- url     : https://prove2.me/theorems/70605dd1-0cb9-53fd-8e5b-073fcdf3008e

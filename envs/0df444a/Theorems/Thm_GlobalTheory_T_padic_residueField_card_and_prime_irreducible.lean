@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_padic_residueField_card_and_prime_irreducible
 -- name    : GlobalTheory.T.padic_residueField_card_and_prime_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:35:56.356333+00:00
 -- url     : https://prove2.me/theorems/7d0861b3-49da-4169-9a60-50f955ea9303

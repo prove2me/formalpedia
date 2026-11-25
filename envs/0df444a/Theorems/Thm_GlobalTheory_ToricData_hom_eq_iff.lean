@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_hom_eq_iff
 -- name    : GlobalTheory.ToricData.hom_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:49:17.521804+00:00
 -- url     : https://prove2.me/theorems/34ed88df-1b9d-5ca6-a56a-3f447f8a2c3f

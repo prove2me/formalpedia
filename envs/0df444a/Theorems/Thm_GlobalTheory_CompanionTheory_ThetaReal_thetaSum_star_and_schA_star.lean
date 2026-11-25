@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ThetaReal_thetaSum_star_and_schA_star
 -- name    : GlobalTheory.CompanionTheory.ThetaReal.thetaSum_star_and_schA_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:58.154802+00:00
 -- url     : https://prove2.me/theorems/bc6c7d55-bc9d-47f2-a8fc-663887c472da

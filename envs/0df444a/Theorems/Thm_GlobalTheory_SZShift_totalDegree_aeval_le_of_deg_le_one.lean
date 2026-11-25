@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SZShift_totalDegree_aeval_le_of_deg_le_one
 -- name    : GlobalTheory.SZShift.totalDegree_aeval_le_of_deg_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:22:06.078532+00:00
 -- url     : https://prove2.me/theorems/7fd3b18b-6138-4a93-a388-ae3613638b29

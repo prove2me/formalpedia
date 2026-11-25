@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndCalc_cmp_add_end
 -- name    : GlobalTheory.EndCalc.cmp_add_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:00:53.284858+00:00
 -- url     : https://prove2.me/theorems/8e1bf960-5758-4ecd-bd66-89e998cad026

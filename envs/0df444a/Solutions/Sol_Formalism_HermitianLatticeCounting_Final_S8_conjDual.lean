@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticeCounting.Final.S8.conjDual
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T16:58:05.225892+00:00
+-- url     : https://prove2.me/submissions/664ad424-02f7-4932-93d6-34a53a44913a
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_MemLpTwoOfOneTop
+import Definitions.Def_Formalism_FlagUnipotentLattices_InterlaceBlocksW
+import Definitions.Def_Formalism_FlagUnipotentLattices_QDetNegTranspose
+import Definitions.Def_Formalism_FlagUnipotentLattices_BlockDistFromLows
+import Definitions.Def_Formalism_FlagUnipotentLattices_HeightConditionFromCubic
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_InterlacingOfBlocksSecondCase
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LanglandsParameterEquivariant
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_AntisymmetrizedProductEqFactorialSmulQdet
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_IntegrableOnAndSetIntegralEqZeroOfIsCompact
+import Definitions.Def_Formalism_FlagUnipotentLattices_ThirdHeightFromSecond
+import Theorems.Thm_Formalism_HermitianLatticeCounting_P_conjugate_dual_representation
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.Final Formalism.HermitianLatticeCounting.Final.S8
+namespace Formalism.HermitianLatticeCounting.Final.S8
+theorem _root_.solution : Formalism.HermitianLatticeCounting.S8.ConjDual := Formalism.HermitianLatticeCounting.P.conjugate_dual_representation
+end Formalism.HermitianLatticeCounting.Final.S8

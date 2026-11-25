@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_FiniteLevelCohomology_torsion_finite
 -- name    : ReciprocityTheory.Coh.FiniteLevelCohomology.torsion_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:50:28.211055+00:00
 -- url     : https://prove2.me/theorems/5b2f514d-6e5f-513a-8bf3-707b1bae6f24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajorantOrthFrame_sum_castLE_eq
 -- name    : GlobalTheory.MajorantOrthFrame.sum_castLE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:19:54.485886+00:00
 -- url     : https://prove2.me/theorems/ba6beae7-adee-41db-8288-4213e03e19b3

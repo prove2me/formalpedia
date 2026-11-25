@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_Model_curv_sub_quot_tautPairGram
 -- name    : GlobalTheory.HermFrame.Model.curv_sub_quot_tautPairGram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:07:32.136854+00:00
 -- url     : https://prove2.me/theorems/71a60a69-9949-44fd-93ff-02ffa230d9e1

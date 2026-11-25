@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_covolume_assembly_of_slope_mu
 -- name    : Formalism.ExtensionFiltration.covolume_assembly_of_slope_mu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:25:56.923024+00:00
 -- url     : https://prove2.me/theorems/450966ca-75e4-4062-8d6b-8833d11b3f6e

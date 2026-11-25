@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QReflGen_unit_of_fix
 -- name    : GlobalTheory.HL.QReflGen.unit_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:39.554855+00:00
 -- url     : https://prove2.me/theorems/d3ac6ded-a49f-46c1-9c84-d7f6b9c69709

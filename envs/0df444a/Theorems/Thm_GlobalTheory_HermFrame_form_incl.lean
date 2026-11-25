@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_form_incl
 -- name    : GlobalTheory.HermFrame.form_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:57.437053+00:00
 -- url     : https://prove2.me/theorems/957d6ba7-1e2d-409d-ae9e-816d085736e1

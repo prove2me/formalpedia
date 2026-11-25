@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_invariant
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:35:16.03714+00:00
 -- url     : https://prove2.me/theorems/0517a583-78cf-427a-b160-ad91d8624200

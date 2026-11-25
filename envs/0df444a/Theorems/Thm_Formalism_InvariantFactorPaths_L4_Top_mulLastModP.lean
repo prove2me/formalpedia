@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_mulLastModP
 -- name    : Formalism.InvariantFactorPaths.L4.Top.mulLastModP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:19.948687+00:00
 -- url     : https://prove2.me/theorems/4b7cb063-9b2c-5686-adda-19a9c395ffe0

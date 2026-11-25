@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_diagonal_rank_bound
 -- name    : diagonal_rank_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:18:10.725838+00:00
 -- url     : https://prove2.me/theorems/79d7459f-7737-41e6-83eb-309756bb8169

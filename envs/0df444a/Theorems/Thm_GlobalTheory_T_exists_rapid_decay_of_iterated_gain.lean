@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_rapid_decay_of_iterated_gain
 -- name    : GlobalTheory.T.exists_rapid_decay_of_iterated_gain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:30:51.721069+00:00
 -- url     : https://prove2.me/theorems/2c52b8d9-453b-426e-a921-3aeeb9648cd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtSqKer_fin_two_vector_eq_matrixVecCons
 -- name    : GlobalTheory.ExtSqKer.fin_two_vector_eq_matrixVecCons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:08:31.189694+00:00
 -- url     : https://prove2.me/theorems/cc64a61e-e916-49b4-9f49-df66ad7cadc8

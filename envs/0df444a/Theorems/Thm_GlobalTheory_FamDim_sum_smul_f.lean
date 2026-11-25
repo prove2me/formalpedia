@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamDim_sum_smul_f
 -- name    : GlobalTheory.FamDim.sum_smul_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:39:52.036883+00:00
 -- url     : https://prove2.me/theorems/95b8f562-c94a-4885-ab45-2197860906a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_Final_rootUnityTriv
 -- name    : Formalism.SLP.GlobalBoundRefinements.Final.rootUnityTriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:26.149162+00:00
 -- url     : https://prove2.me/theorems/3b9fe942-9556-4887-b874-7cc6a0d063cf

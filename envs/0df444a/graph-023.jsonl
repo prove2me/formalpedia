@@ -2644,7 +2644,7 @@
 {"parent": "OnlineShadow.LogRate.lemma_4_5", "child": "OnlineShadow_LogRate_energy", "via": ["statement"]}
 {"parent": "OnlineShadow.LogRate.lemma_4_5", "child": "OnlineShadow_LogRate_logistic", "via": ["statement"]}
 {"parent": "OnlineShadow.LogRate.lemma_4_5", "child": "OnlineShadow_LogRate_marginal", "via": ["statement"]}
-{"parent": "CertRandQROM.lemma_3_1_trace_dist_le_euclid", "child": "CommitOpen_Benign_Model", "via": ["statement"]}
+{"parent": "CertRandQROM.lemma_3_1_trace_dist_le_euclid", "child": "CommitOpen_Benign_Model", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.DistanceBalancingSubsystem.balancedSubsystemData_dressedZDistanceAtLeast_mul", "child": "QEC_Coding_HypergraphProduct_Dimension_Formula", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.DistanceBalancingSubsystem.balancedSubsystemData_dressedZDistanceAtLeast_mul", "child": "QEC_Coding_CodeReduction_DistanceBalancing_Subsystem", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.DistanceBalancingSubsystem.balancedSubsystemData_dressedZDistanceAtLeast_mul", "child": "QEC_Coding_CodeReduction_DistanceBalancing_SubsystemDimension", "via": ["solution", "statement"]}
@@ -3119,7 +3119,7 @@
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsOriginalIntegerProjectiveJAffinePoint_injective", "child": "QEC_Coding_ExpanderCodes_LPSOriginalIntegerModelCharts", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.pscp_condition_49", "child": "ManyServerQED_Scheduling_Diffusion", "via": ["statement"]}
 {"parent": "ManyServerQED.Scheduling.pscp_condition_49", "child": "BellWilliams2001_ThresholdPolicy_Paths", "via": ["statement"]}
-{"parent": "ManyServerQED.Scheduling.pscp_condition_49", "child": "ManyServerQED_Scheduling_Policy", "via": ["statement"]}
+{"parent": "ManyServerQED.Scheduling.pscp_condition_49", "child": "ManyServerQED_Scheduling_Policy", "via": ["solution", "statement"]}
 {"parent": "ManyServerQED.Scheduling.pscp_condition_49", "child": "ManyServerQED_Scheduling_Model", "via": ["statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsE2ShiftAtPrimeCusp_tendsto", "child": "QEC_Coding_ExpanderCodes_LPSQuadraticEisensteinModularForm", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.TannerLiftedProduct.lpsE2ShiftAtPrimeCusp_tendsto", "child": "QEC_Coding_ExpanderCodes_LPSQuadraticEisensteinCusps", "via": ["solution", "statement"]}

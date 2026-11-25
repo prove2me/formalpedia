@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_jets_one
 -- name    : jets_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:16:37.159614+00:00
 -- url     : https://prove2.me/theorems/f8adadfa-24ec-4a02-9841-205c3bf0da6c

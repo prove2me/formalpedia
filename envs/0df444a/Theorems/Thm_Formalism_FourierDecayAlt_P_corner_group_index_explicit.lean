@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_corner_group_index_explicit
 -- name    : Formalism.FourierDecayAlt.P.corner_group_index_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:51.309873+00:00
 -- url     : https://prove2.me/theorems/e57f3e93-33cd-494a-a60f-b32ad1a60472

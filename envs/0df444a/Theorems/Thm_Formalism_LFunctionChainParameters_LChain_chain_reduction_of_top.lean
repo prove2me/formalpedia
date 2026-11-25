@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_chain_reduction_of_top
 -- name    : Formalism.LFunctionChainParameters.LChain.chain_reduction_of_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:24.556796+00:00
 -- url     : https://prove2.me/theorems/c380024f-834f-464e-8254-f39c19dbbf3c

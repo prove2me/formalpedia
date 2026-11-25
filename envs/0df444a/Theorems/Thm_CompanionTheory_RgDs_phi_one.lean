@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgDs_phi_one
 -- name    : CompanionTheory.RgDs.phi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:17:41.697648+00:00
 -- url     : https://prove2.me/theorems/1c0ff5f9-997d-5576-a22d-ee4b7985f1ce

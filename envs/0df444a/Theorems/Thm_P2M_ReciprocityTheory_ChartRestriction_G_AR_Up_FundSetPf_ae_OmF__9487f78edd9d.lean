@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_FundSetPf_ae_OmF__9487f78edd9d
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_FundSetPf_ae_OmF__9487f78edd9d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:28:40.504148+00:00
 -- url     : https://prove2.me/theorems/0ff7357c-f92d-4418-97f2-2016e62550f2

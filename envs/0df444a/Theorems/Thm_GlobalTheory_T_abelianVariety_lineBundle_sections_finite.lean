@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_abelianVariety_lineBundle_sections_finite
 -- name    : GlobalTheory.T.abelianVariety_lineBundle_sections_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:44.336912+00:00
 -- url     : https://prove2.me/theorems/89ade2c9-3b64-4926-a5a1-5613e7d66f30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finsum_restricted_product_count
 -- name    : GlobalTheory.T.finsum_restricted_product_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:13.260851+00:00
 -- url     : https://prove2.me/theorems/928d4b6b-2144-42fc-a389-e27479fce7ff

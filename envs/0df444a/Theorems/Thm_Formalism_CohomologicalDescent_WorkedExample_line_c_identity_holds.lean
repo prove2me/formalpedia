@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_line_c_identity_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.line_c_identity_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:10.956072+00:00
 -- url     : https://prove2.me/theorems/7bebcbef-5155-5cf7-96f3-097055483ceb

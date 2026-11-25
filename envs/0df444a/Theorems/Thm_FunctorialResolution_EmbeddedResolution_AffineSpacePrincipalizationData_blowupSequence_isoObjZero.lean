@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_blowupSequence_isoObjZero
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.blowupSequence_isoObjZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:19.553726+00:00
 -- url     : https://prove2.me/theorems/ab17607d-39e3-4d2d-adc3-a9113870da14

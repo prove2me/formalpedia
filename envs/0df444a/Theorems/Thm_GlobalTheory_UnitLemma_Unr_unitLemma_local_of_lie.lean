@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_unitLemma_local_of_lie
 -- name    : GlobalTheory.UnitLemma.Unr.unitLemma_local_of_lie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:18:54.858804+00:00
 -- url     : https://prove2.me/theorems/02d2feab-481e-46f8-9a0a-d0cf775cef86

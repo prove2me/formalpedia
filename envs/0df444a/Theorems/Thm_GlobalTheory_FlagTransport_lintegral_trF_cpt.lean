@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagTransport_lintegral_trF_cpt
 -- name    : GlobalTheory.FlagTransport.lintegral_trF_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:10.946969+00:00
 -- url     : https://prove2.me/theorems/795e9f78-8d73-47ab-8107-2923ff70465f

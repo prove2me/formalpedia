@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_preimage_diagOneGeneralLinearEmbedding_integralGLSet
 -- name    : GlobalTheory.T.preimage_diagOneGeneralLinearEmbedding_integralGLSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:20.957138+00:00
 -- url     : https://prove2.me/theorems/5edde175-d38b-56b0-88a5-3aac71e98202

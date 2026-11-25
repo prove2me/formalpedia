@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymCompare_om_submatrix
 -- name    : GlobalTheory.SymCompare.om_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:26:22.059405+00:00
 -- url     : https://prove2.me/theorems/fd8d48a5-dbcb-4b4e-8646-45cb6be5d86c

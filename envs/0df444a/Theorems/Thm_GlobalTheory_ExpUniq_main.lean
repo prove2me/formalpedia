@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpUniq_main
 -- name    : GlobalTheory.ExpUniq.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:46:27.029227+00:00
 -- url     : https://prove2.me/theorems/7b972ff9-32da-4fb1-8f26-95ec33fb67f4

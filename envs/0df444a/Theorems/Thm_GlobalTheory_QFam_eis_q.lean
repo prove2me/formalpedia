@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QFam_eis_q
 -- name    : GlobalTheory.QFam.eis_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:59:43.82617+00:00
 -- url     : https://prove2.me/theorems/459d7ca0-fa9e-4506-89f4-b75a2c1db18d

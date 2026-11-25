@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogResInt_isClosed_of_isAnalyticSubset
 -- name    : GlobalTheory.LogResInt.isClosed_of_isAnalyticSubset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:05.830802+00:00
 -- url     : https://prove2.me/theorems/e8850216-ce88-5e63-ab3c-e3974914cb42

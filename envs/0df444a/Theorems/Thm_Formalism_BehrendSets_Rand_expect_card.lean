@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Rand_expect_card
 -- name    : Formalism.BehrendSets.Rand.expect_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:19:59.787886+00:00
 -- url     : https://prove2.me/theorems/b0c99cc6-033e-4a14-a3a9-3b266a727e0e

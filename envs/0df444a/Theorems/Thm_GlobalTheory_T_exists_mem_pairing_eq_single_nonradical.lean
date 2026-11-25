@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_mem_pairing_eq_single_nonradical
 -- name    : GlobalTheory.T.exists_mem_pairing_eq_single_nonradical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:49.271091+00:00
 -- url     : https://prove2.me/theorems/442bbfe4-088e-5bbd-84b1-e4575013fb4d

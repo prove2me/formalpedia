@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompletePoint_exists_gen_of_thick
 -- name    : GlobalTheory.CompletePoint.exists_gen_of_thick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:31:59.085315+00:00
 -- url     : https://prove2.me/theorems/ed81bd04-c85d-5aaa-92e6-bec68e29cd46

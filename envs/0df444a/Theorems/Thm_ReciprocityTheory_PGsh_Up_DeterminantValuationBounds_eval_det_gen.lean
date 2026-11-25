@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_DeterminantValuationBounds_eval_det_gen
 -- name    : ReciprocityTheory.PGsh.Up.DeterminantValuationBounds.eval_det_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:21.402092+00:00
 -- url     : https://prove2.me/theorems/26f2b32d-d2cd-5437-847e-22d003efe4c2

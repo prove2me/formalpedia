@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompRat_permutes_refl
 -- name    : GlobalTheory.CompRat.permutes_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:05:02.073957+00:00
 -- url     : https://prove2.me/theorems/75dad000-4ee4-50b5-87c6-cc76c1188046

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_harmonic_pred_le_one_add_log
 -- name    : ReciprocityTheory.MultiplicativeHeights.harmonic_pred_le_one_add_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:04.546008+00:00
 -- url     : https://prove2.me/theorems/62c8f123-8a18-4331-98b7-88c16ddffefa

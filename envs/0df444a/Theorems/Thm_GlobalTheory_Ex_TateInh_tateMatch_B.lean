@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_TateInh_tateMatch_B
 -- name    : GlobalTheory.Ex.TateInh.tateMatch_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:17.393269+00:00
 -- url     : https://prove2.me/theorems/148e94e1-566f-4254-b425-92ad080a6890

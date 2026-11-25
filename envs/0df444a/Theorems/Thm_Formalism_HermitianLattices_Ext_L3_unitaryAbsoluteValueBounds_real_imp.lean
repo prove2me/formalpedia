@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_unitaryAbsoluteValueBounds_real_imp
 -- name    : Formalism.HermitianLattices.Ext.L3.unitaryAbsoluteValueBounds.real_imp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:41:41.776834+00:00
 -- url     : https://prove2.me/theorems/55ecd252-2309-4723-a9a1-a4c0f942de78

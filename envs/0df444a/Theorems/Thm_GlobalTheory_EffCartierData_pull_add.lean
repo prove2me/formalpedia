@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_pull_add
 -- name    : GlobalTheory.EffCartierData.pull_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:11:29.506508+00:00
 -- url     : https://prove2.me/theorems/7e79d52a-84a0-42ac-886a-ad48bc5a24a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SmoothPart_isIso_inclusion_of_eq
 -- name    : GlobalTheory.CompanionTheory.SmoothPart.isIso_inclusion_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:53:13.966266+00:00
 -- url     : https://prove2.me/theorems/9b5acd7b-1247-45cc-b64f-504a4d50177f

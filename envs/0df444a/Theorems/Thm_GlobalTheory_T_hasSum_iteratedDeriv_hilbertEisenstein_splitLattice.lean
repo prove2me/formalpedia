@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_iteratedDeriv_hilbertEisenstein_splitLattice
 -- name    : GlobalTheory.T.hasSum_iteratedDeriv_hilbertEisenstein_splitLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:34:14.403026+00:00
 -- url     : https://prove2.me/theorems/f4c05607-d27f-4c6e-bced-0bde5fa1d75e

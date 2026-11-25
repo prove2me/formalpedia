@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_eq_add_mul_skew
 -- name    : Formalism.HermitianLattices.Ext.L3.eq_add_mul_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:41:12.222402+00:00
 -- url     : https://prove2.me/theorems/eddb4b55-9878-5e43-8ca4-2aaf62ddbb75

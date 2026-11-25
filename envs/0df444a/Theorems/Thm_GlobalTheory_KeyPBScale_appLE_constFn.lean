@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPBScale_appLE_constFn
 -- name    : GlobalTheory.KeyPBScale.appLE_constFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:06:03.729573+00:00
 -- url     : https://prove2.me/theorems/4ce7bcaa-e2e8-4b66-8eb9-93eea32b5ae8

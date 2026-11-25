@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_mu_const
 -- name    : UpperTheory.Mu.mu_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:03:49.811802+00:00
 -- url     : https://prove2.me/theorems/7d8e85d9-83f3-4793-8178-0f3d4d95648f

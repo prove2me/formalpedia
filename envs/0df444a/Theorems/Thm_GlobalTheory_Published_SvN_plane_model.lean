@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SvN_plane_model
 -- name    : GlobalTheory.Published.SvN.plane_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:17:06.159553+00:00
 -- url     : https://prove2.me/theorems/2adcd150-7230-4277-9238-0411a1c8abb6

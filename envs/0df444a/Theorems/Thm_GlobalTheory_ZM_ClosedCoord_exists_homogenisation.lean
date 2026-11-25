@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_ClosedCoord_exists_homogenisation
 -- name    : GlobalTheory.ZM.ClosedCoord.exists_homogenisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:08.700842+00:00
 -- url     : https://prove2.me/theorems/0705c5e7-0694-4379-bdae-f35d7357d294

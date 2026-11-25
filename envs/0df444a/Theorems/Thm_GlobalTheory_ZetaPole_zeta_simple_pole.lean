@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaPole_zeta_simple_pole
 -- name    : GlobalTheory.ZetaPole.zeta_simple_pole
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:04:47.35348+00:00
 -- url     : https://prove2.me/theorems/4cc5987d-8d0a-4e7d-92f2-bac601238af5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TubeFourier_integrable_exp_neg_mul_abs_add
 -- name    : GlobalTheory.CompanionTheory.TubeFourier.integrable_exp_neg_mul_abs_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:16:56.236253+00:00
 -- url     : https://prove2.me/theorems/5543b1fc-4c92-4d2a-8ca2-8669582468c2

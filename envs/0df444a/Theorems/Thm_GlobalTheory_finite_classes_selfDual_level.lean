@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_classes_selfDual_level
 -- name    : GlobalTheory.finite_classes_selfDual_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:46:55.285241+00:00
 -- url     : https://prove2.me/theorems/ba635111-4df5-4dfd-be0f-e5cfdd32fa47

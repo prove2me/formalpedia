@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cayleyTransform_skew_mem_unitaryGroup
 -- name    : GlobalTheory.T.cayleyTransform_skew_mem_unitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:45.144312+00:00
 -- url     : https://prove2.me/theorems/c3ff7f12-403a-479e-94ca-4eb5823036f2

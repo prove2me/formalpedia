@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_derivIdealSheafIterate_one
 -- name    : FunctorialResolution.EmbeddedResolution.derivIdealSheafIterate_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:18.421804+00:00
 -- url     : https://prove2.me/theorems/89c4b849-d40b-55a7-b6b6-d91b9d5d129b

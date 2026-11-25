@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlueLineBundle_glue_isLB
 -- name    : GlobalTheory.GlueLineBundle.glue_isLB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:16:44.434164+00:00
 -- url     : https://prove2.me/theorems/06265553-8db0-5907-9f95-5db0bbb8f06d

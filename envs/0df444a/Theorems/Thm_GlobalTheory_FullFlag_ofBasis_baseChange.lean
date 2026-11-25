@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_ofBasis_baseChange
 -- name    : GlobalTheory.FullFlag.ofBasis_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:04.429606+00:00
 -- url     : https://prove2.me/theorems/93bd79d2-47e9-4398-b065-82a745dd55d6

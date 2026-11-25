@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isLocalizedModule_of_ringHom
 -- name    : GlobalTheory.QCoh.isLocalizedModule_of_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:18:50.543065+00:00
 -- url     : https://prove2.me/theorems/8f029835-fbde-51b5-a258-d6e99df160f5

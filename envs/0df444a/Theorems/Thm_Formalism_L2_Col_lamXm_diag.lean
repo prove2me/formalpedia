@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_lamXm_diag
 -- name    : Formalism.L2.Col.lamXm_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:53:09.181883+00:00
 -- url     : https://prove2.me/theorems/012b8330-9db3-5b04-b6c2-ecc5aeb5b512

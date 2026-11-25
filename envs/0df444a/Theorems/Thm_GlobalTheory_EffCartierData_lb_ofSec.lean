@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_lb_ofSec
 -- name    : GlobalTheory.EffCartierData.lb_ofSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:18:43.131855+00:00
 -- url     : https://prove2.me/theorems/fe1faa37-9b16-51d9-908f-5cef88a934f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_N_ExtNRows_internal_of_top_le
 -- name    : Formalism.L2.N.ExtNRows.internal_of_top_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:24.696912+00:00
 -- url     : https://prove2.me/theorems/a2895829-a9ac-5f70-8429-b3de79ccb8f7

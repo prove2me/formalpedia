@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_Ann_Hh_add_period
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.Ann.Hh_add_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:25:12.829325+00:00
 -- url     : https://prove2.me/theorems/af2b0e73-7e91-4b40-a92c-9f01288d68ae

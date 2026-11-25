@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointSup_mean_le
 -- name    : GlobalTheory.PointSup.mean_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:12:58.843655+00:00
 -- url     : https://prove2.me/theorems/ac6729a7-baf4-4922-9833-76746782df23

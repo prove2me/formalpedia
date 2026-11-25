@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_VacDbl_boxFun_mem_SB
 -- name    : GlobalTheory.CompanionTheory.VacDbl.boxFun_mem_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:06.174208+00:00
 -- url     : https://prove2.me/theorems/4fb89b12-cdc2-4132-8d38-1bc02b182b89

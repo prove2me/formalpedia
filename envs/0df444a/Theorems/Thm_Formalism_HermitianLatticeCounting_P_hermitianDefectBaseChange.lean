@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_hermitianDefectBaseChange
 -- name    : Formalism.HermitianLatticeCounting.P.hermitianDefectBaseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:38:58.275367+00:00
 -- url     : https://prove2.me/theorems/96bb36a4-e0a8-4794-b8b5-b758348ce1ee

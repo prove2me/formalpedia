@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_StatementCommutative
 -- name    : GlobalTheory.T.StatementCommutative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:15.469098+00:00
 -- url     : https://prove2.me/theorems/1bdfee8f-4ec5-4ecc-90c3-cffa807c50f0

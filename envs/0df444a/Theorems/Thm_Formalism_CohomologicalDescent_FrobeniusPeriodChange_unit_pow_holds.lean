@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_FrobeniusPeriodChange_unit_pow_holds
 -- name    : Formalism.CohomologicalDescent.FrobeniusPeriodChange.unit_pow_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:21:18.006872+00:00
 -- url     : https://prove2.me/theorems/8c761d66-24c3-5cf9-93e0-f065fd349d44

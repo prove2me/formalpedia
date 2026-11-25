@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocDualInt_factor_mem_cocycles_pow_quot
 -- name    : GlobalTheory.LocDualInt.factor_mem_cocycles_pow_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:13:40.891412+00:00
 -- url     : https://prove2.me/theorems/ceca16f6-f1d2-5e19-b4c9-a1905022bf36

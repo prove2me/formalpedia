@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowAlongIso_main
 -- name    : GlobalTheory.PowAlongIso.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:30:11.319959+00:00
 -- url     : https://prove2.me/theorems/9fdab9f6-3053-5c66-8705-1ad4902a5d19

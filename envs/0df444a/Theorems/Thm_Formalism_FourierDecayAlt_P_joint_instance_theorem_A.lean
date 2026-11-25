@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_joint_instance_theorem_A
 -- name    : Formalism.FourierDecayAlt.P.joint_instance_theorem_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:32:22.096828+00:00
 -- url     : https://prove2.me/theorems/30d202f4-d1f9-4390-82da-e8c80e37787e

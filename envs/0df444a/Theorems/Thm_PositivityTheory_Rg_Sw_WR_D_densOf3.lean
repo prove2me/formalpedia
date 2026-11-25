@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_densOf3
 -- name    : PositivityTheory.Rg.Sw.WR.D.densOf3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:07:59.919366+00:00
 -- url     : https://prove2.me/theorems/fd6df1cc-8e48-5c29-8675-cda75e704d40

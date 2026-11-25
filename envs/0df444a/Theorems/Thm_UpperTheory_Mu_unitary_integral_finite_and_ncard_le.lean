@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_unitary_integral_finite_and_ncard_le
 -- name    : UpperTheory.Mu.unitary_integral_finite_and_ncard_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:19.394887+00:00
 -- url     : https://prove2.me/theorems/9df09c58-c211-4998-9a41-1b63021c09cd

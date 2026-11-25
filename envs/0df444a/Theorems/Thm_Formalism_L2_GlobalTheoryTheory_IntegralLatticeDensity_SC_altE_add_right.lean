@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_GlobalTheoryTheory_IntegralLatticeDensity_SC_altE_add_right
 -- name    : Formalism.L2.GlobalTheoryTheory.IntegralLatticeDensity.SC.altE_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:17.086049+00:00
 -- url     : https://prove2.me/theorems/19e3a74e-e5d1-56b2-9601-04d451d42842

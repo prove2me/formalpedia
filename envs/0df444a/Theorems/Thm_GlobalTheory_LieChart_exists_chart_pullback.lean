@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieChart_exists_chart_pullback
 -- name    : GlobalTheory.LieChart.exists_chart_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:58:10.851134+00:00
 -- url     : https://prove2.me/theorems/4c4f824e-7113-5713-9719-25cf2b10194a

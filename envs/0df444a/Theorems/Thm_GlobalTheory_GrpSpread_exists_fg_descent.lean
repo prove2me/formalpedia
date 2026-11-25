@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpSpread_exists_fg_descent
 -- name    : GlobalTheory.GrpSpread.exists_fg_descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:00:20.733175+00:00
 -- url     : https://prove2.me/theorems/4fd61bbc-e024-567d-8a28-8189ca27f1b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_isHeight_zsmul
 -- name    : ReciprocityTheory.PGsh.BX.isHeight_zsmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:36.509+00:00
 -- url     : https://prove2.me/theorems/c11acc7d-b35a-4f97-b25c-7f34eebdbf3a

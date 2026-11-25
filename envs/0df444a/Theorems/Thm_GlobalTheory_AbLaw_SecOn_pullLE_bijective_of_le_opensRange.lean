@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_pullLE_bijective_of_le_opensRange
 -- name    : GlobalTheory.AbLaw.SecOn.pullLE_bijective_of_le_opensRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:50:33.615806+00:00
 -- url     : https://prove2.me/theorems/f5ac077b-34e4-4102-9086-ef173814c22b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_exists_pull
 -- name    : GlobalTheory.UU.exists_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:42:45.874798+00:00
 -- url     : https://prove2.me/theorems/c5c6b437-33e7-4712-955d-059d8ffa4901

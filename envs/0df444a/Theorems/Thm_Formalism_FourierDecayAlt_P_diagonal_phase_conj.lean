@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_diagonal_phase_conj
 -- name    : Formalism.FourierDecayAlt.P.diagonal_phase_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:29:26.866409+00:00
 -- url     : https://prove2.me/theorems/e64ac375-7070-58aa-8993-c246e998b019

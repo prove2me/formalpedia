@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_triangle_inequality_at_place
 -- name    : Formalism.FourierDecayAlt.P.triangle_inequality_at_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:36:49.43818+00:00
 -- url     : https://prove2.me/theorems/2115b091-56b4-493e-a0ba-d2e3d5bf3036

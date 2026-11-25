@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finprod_localDifferentIdealNorm_eq_discr
 -- name    : GlobalTheory.T.finprod_localDifferentIdealNorm_eq_discr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:32.017871+00:00
 -- url     : https://prove2.me/theorems/27790dad-a469-40f6-b583-1fb9e8c0b836

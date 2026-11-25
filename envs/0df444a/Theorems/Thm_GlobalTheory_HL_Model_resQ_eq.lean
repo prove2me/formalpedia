@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_resQ_eq
 -- name    : GlobalTheory.HL.Model.resQ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:21.43619+00:00
 -- url     : https://prove2.me/theorems/61c9e276-afca-4651-9ea2-9c8cc3fc050d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_deg_sq_eq
 -- name    : GlobalTheory.ArchMetric.deg_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:39.570228+00:00
 -- url     : https://prove2.me/theorems/168d1439-c6b5-46e7-8cd9-51cc3118fdcd

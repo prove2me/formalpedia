@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Gka4_diag_hermitian
 -- name    : UpperTheory.Reformulated.B.Gka4.diag_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:00:14.857339+00:00
 -- url     : https://prove2.me/theorems/bb373bc8-2e17-4905-b941-784ff5d76b48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eventually_rpow_log_inequalities
 -- name    : GlobalTheory.T.eventually_rpow_log_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:28:45.842284+00:00
 -- url     : https://prove2.me/theorems/f86d2a66-1c3e-460f-bdb6-bf80f029f339

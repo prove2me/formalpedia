@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_Herbrand_h_eq_of_finiteIndex
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.Herbrand.h_eq_of_finiteIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:50:41.982405+00:00
 -- url     : https://prove2.me/theorems/84001bda-a68f-52ed-8501-726e143dc8a6

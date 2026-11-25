@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isBaseChange_lattice_of_basis_after_extension
 -- name    : GlobalTheory.T.isBaseChange_lattice_of_basis_after_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:49.46774+00:00
 -- url     : https://prove2.me/theorems/77a29e8a-47c1-5e1d-a149-914137fcb54f

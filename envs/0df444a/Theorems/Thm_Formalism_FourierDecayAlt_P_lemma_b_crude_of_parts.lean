@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_b_crude_of_parts
 -- name    : Formalism.FourierDecayAlt.P.lemma_b_crude_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:38.578807+00:00
 -- url     : https://prove2.me/theorems/1e1e00e8-3275-486a-85b2-ca68a426e475

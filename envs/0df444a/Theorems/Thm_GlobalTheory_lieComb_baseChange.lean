@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lieComb_baseChange
 -- name    : GlobalTheory.lieComb_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:31:57.963633+00:00
 -- url     : https://prove2.me/theorems/a175db6f-f9dc-43a1-848e-23e5a4ecd38a

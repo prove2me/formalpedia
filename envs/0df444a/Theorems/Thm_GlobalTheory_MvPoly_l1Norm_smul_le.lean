@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_l1Norm_smul_le
 -- name    : GlobalTheory.MvPoly.l1Norm_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:19.841827+00:00
 -- url     : https://prove2.me/theorems/6bea544b-e6e5-5599-8e94-36e97d91864d

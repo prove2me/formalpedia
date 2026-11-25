@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_modOfY
 -- name    : Formalism.InvariantFactorPaths.L4.Top.modOfY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:43:35.365317+00:00
 -- url     : https://prove2.me/theorems/657fa39b-e9c2-4381-8bd8-fb3d5cf1b1df

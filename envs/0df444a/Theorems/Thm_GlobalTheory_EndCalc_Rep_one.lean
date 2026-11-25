@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndCalc_Rep_one
 -- name    : GlobalTheory.EndCalc.Rep.one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:05:57.518531+00:00
 -- url     : https://prove2.me/theorems/a1129491-0758-5a06-af92-cd686ac456d1

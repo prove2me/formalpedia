@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvHopf_val_add_smul
 -- name    : GlobalTheory.EvHopf.val_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:13.347406+00:00
 -- url     : https://prove2.me/theorems/549be2db-4e14-5894-a836-8ddfe2573984

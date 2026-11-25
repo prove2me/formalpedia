@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAffineQuotient_pullbackMap_of_isFreeAction
 -- name    : GlobalTheory.IsAffineQuotient.pullbackMap_of_isFreeAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:12:10.234843+00:00
 -- url     : https://prove2.me/theorems/5ba8a77e-47b5-5e7d-bc5a-74acbd06caf5

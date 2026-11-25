@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDescent_act_act
 -- name    : GlobalTheory.TraceDescent.act_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:48:40.275249+00:00
 -- url     : https://prove2.me/theorems/40a038df-c0d0-4c19-abcc-d29c9c7967be

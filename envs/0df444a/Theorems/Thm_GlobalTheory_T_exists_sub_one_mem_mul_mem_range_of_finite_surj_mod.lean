@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_sub_one_mem_mul_mem_range_of_finite_surj_mod
 -- name    : GlobalTheory.T.exists_sub_one_mem_mul_mem_range_of_finite_surj_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:38.06682+00:00
 -- url     : https://prove2.me/theorems/5c64105c-4abb-4a93-b309-33095e5725db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_blockPoint_blockRot
 -- name    : ReciprocityTheory.MultiplicativeHeights.blockPoint_blockRot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:03:03.965797+00:00
 -- url     : https://prove2.me/theorems/e3311d5c-a93c-510e-bf35-ac3802b26fd2

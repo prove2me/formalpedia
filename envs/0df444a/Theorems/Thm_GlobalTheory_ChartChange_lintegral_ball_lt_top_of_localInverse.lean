@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartChange_lintegral_ball_lt_top_of_localInverse
 -- name    : GlobalTheory.ChartChange.lintegral_ball_lt_top_of_localInverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:09:43.287493+00:00
 -- url     : https://prove2.me/theorems/f00c658c-6334-5eea-b73d-bb60dcc8d34f

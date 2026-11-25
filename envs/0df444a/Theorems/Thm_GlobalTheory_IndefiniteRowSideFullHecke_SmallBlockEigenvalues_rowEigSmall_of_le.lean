@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SmallBlockEigenvalues_rowEigSmall_of_le
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SmallBlockEigenvalues.rowEigSmall_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:10:18.014837+00:00
 -- url     : https://prove2.me/theorems/667df8af-aeb5-41a6-a7f1-3a47c49a3783

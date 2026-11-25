@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_SharperSizeNeedsMleK_false
 -- name    : Formalism.CohomologicalDescent.SharperSizeNeedsMleK_false
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:21:59.14707+00:00
 -- url     : https://prove2.me/theorems/6a660f86-0247-46fb-bac2-e558658df8e0

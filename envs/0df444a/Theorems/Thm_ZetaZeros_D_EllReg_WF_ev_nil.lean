@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WF_ev_nil
 -- name    : ZetaZeros.D.EllReg.WF.ev_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:18.013697+00:00
 -- url     : https://prove2.me/theorems/5b20f328-4926-48f6-bca4-daeb95d33d6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_hasStrictNormalCrossingsWith_of_filterNeTop_eq
 -- name    : FunctorialResolution.EmbeddedResolution.hasStrictNormalCrossingsWith_of_filterNeTop_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:48.681666+00:00
 -- url     : https://prove2.me/theorems/87a6070a-43ba-5f5c-b4e8-010da2ecb038

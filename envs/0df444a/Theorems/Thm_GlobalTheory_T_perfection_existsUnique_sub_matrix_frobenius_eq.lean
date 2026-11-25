@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_perfection_existsUnique_sub_matrix_frobenius_eq
 -- name    : GlobalTheory.T.perfection_existsUnique_sub_matrix_frobenius_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:51.274803+00:00
 -- url     : https://prove2.me/theorems/e5e44570-72c0-4460-94a9-7f531fac0e85

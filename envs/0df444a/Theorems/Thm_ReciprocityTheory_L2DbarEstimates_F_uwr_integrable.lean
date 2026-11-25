@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_uwr_integrable
 -- name    : ReciprocityTheory.L2DbarEstimates.F.uwr_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:57:12.360117+00:00
 -- url     : https://prove2.me/theorems/b1822cbb-4a63-471b-acb9-21fd41c1aad2

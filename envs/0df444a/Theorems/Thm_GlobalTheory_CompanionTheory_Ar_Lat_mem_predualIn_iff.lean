@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_mem_predualIn_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.mem_predualIn_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:59:42.795246+00:00
 -- url     : https://prove2.me/theorems/d95de2de-a49f-4929-878c-33d3c269df41

@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for GlobalTheory.AbCoh.LowBaseChange.one_tmul_eq_zero_iff
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T15:06:12.537484+00:00
+-- url     : https://prove2.me/submissions/61de1d46-18ee-4f6a-b4fa-84d3185b002c
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Divisors_AxesVanishingStructureSheafDegOne
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_AbelianSchemeLaws_IsScalarTowerOfAlgebraMapEq
+import Definitions.Def_P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_Divisors__AbelianHodgeDeRham_0e03413a4fcf6a02
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_CoherentCohomologyProofs_ExactAndKerBaseChangeOfForallResidueField
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_KrullDimLEIsLocalRingQuotPow
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open CategoryTheory CategoryTheory.Limits AlgebraicGeometry KaehlerDifferential MonoidalCategory CartesianMonoidalCategory MonObj TensorProduct
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.Semi GlobalTheory.CatCoh GlobalTheory.Cris GlobalTheory.CechDR GlobalTheory.AbCoh
+attribute [local instance] Over.cartesianMonoidalCategory
+open GlobalTheory GlobalTheory.AbCoh GlobalTheory.AbCoh.LowBaseChange
+variable {R : Type} [CommRing R]
+namespace GlobalTheory.AbCoh.LowBaseChange
+theorem _root_.solution {M : Type} [AddCommGroup M] [Module R M] (I : Ideal R) (x : M) :
+    (1 : R ⧸ I) ⊗ₜ[R] x = 0 ↔ x ∈ I • (⊤ : Submodule R M) := by
+  rw [← (TensorProduct.quotTensorEquivQuotSMul M I).map_eq_zero_iff,
+    TensorProduct.quotTensorEquivQuotSMul_mk_one_tmul, Submodule.Quotient.mk_eq_zero]
+end GlobalTheory.AbCoh.LowBaseChange

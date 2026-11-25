@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_omega_size_of_periodicity
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.omega_size_of_periodicity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:51:45.46178+00:00
 -- url     : https://prove2.me/theorems/800d8cce-a287-59c1-be20-86fea31fe3d6

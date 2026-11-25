@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_prod_dvd_of_iso
 -- name    : ReciprocityTheory.PGsh.Up.prod_dvd_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:52.6898+00:00
 -- url     : https://prove2.me/theorems/4a6953cd-4082-4984-8d65-e1108ec06d5e

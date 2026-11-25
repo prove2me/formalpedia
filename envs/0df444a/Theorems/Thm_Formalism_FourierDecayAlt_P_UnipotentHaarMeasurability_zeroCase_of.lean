@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_UnipotentHaarMeasurability_zeroCase_of
 -- name    : Formalism.FourierDecayAlt.P.UnipotentHaarMeasurability.zeroCase_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:14:33.394936+00:00
 -- url     : https://prove2.me/theorems/14c14af8-9551-4682-90f8-9dddbd44cc49

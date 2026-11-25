@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCompact_preimage_quadratic_map_no_null_vectors
 -- name    : GlobalTheory.T.isCompact_preimage_quadratic_map_no_null_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:34:21.296085+00:00
 -- url     : https://prove2.me/theorems/7b4e34bf-a64b-4714-b2df-6ea7de8ee23c

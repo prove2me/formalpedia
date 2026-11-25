@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_coe_mem_monoSpanF
 -- name    : ReciprocityTheory.PGsh.coe_mem_monoSpanF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:51.115188+00:00
 -- url     : https://prove2.me/theorems/7d6e8f1e-3d19-4f94-ad28-9485409eeb8f

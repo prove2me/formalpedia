@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_norm_gso_comp_swap_right_sq_mul
 -- name    : ReciprocityTheory.ReducedBases.T2.norm_gso_comp_swap_right_sq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:51.080806+00:00
 -- url     : https://prove2.me/theorems/de08ca54-f00a-599f-b105-c7961b63c506

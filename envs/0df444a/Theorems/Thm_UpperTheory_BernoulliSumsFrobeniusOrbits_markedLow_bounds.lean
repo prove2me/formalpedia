@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_BernoulliSumsFrobeniusOrbits_markedLow_bounds
 -- name    : UpperTheory.BernoulliSumsFrobeniusOrbits.markedLow_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:21:56.810167+00:00
 -- url     : https://prove2.me/theorems/8ed54bb1-938a-5eec-87de-f7550b235f3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_pairVec_vecMul
 -- name    : GlobalTheory.Doubling.pairVec_vecMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:03:57.64593+00:00
 -- url     : https://prove2.me/theorems/53674254-fe9e-40a4-968d-61908799810c

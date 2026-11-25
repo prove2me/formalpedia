@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LBLimit_exists_unit_eq
 -- name    : GlobalTheory.LBLimit.exists_unit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:50:00.407799+00:00
 -- url     : https://prove2.me/theorems/a3857e2a-e0fe-5748-8550-593ee0d8095b

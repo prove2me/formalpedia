@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finiteType_model_of_smooth_affine
 -- name    : GlobalTheory.exists_finiteType_model_of_smooth_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:01:20.78867+00:00
 -- url     : https://prove2.me/theorems/808f52a5-fe52-500c-ba37-e669fb2f821a

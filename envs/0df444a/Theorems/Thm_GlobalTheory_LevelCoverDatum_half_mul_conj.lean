@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCoverDatum_half_mul_conj
 -- name    : GlobalTheory.LevelCoverDatum.half_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:34.745608+00:00
 -- url     : https://prove2.me/theorems/75f224d3-a0c1-5724-adf7-f018d53deb5e

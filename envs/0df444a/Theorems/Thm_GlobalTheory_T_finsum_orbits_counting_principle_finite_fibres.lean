@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finsum_orbits_counting_principle_finite_fibres
 -- name    : GlobalTheory.T.finsum_orbits_counting_principle_finite_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:33.367774+00:00
 -- url     : https://prove2.me/theorems/ca314e56-99d1-4889-8ccc-ad0b77b5acaa

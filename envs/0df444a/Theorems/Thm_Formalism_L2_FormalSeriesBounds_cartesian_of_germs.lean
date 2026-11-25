@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_cartesian_of_germs
 -- name    : Formalism.L2.FormalSeriesBounds.cartesian_of_germs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:45:34.086684+00:00
 -- url     : https://prove2.me/theorems/d027cc98-4d63-478a-ad93-2b82698868c8

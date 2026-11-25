@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_nonempty_cyclic_even
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.nonempty_cyclic_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:49:22.425995+00:00
 -- url     : https://prove2.me/theorems/3e294088-7871-46a4-b85c-eea31d1d7c3e

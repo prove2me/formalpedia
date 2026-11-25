@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_measurable_componentwiseInv
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.measurable_componentwiseInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:28:35.065653+00:00
 -- url     : https://prove2.me/theorems/5c5953b8-5c42-46ed-a27d-9414cac99b58

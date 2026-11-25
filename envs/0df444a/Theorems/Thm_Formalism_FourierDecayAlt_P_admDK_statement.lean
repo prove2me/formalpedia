@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_admDK_statement
 -- name    : Formalism.FourierDecayAlt.P.admDK_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:31:40.117878+00:00
 -- url     : https://prove2.me/theorems/08f9fa4a-47e3-5e91-a654-e549d5baaf31

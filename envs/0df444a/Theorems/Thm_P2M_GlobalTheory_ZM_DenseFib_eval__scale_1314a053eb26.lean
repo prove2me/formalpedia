@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZM_DenseFib_eval__scale_1314a053eb26
 -- name    : P2M_GlobalTheory_ZM_DenseFib_eval__scale_1314a053eb26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:02:33.519663+00:00
 -- url     : https://prove2.me/theorems/c1dfcc9d-0008-45a0-9f7b-c4b5b6ac6f9a

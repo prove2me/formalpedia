@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SecNorm_specializes
 -- name    : GlobalTheory.CompanionTheory.Ar.SecNorm.specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:01:00.01114+00:00
 -- url     : https://prove2.me/theorems/9d33c4c9-1892-40c6-a3a9-8318ff126741

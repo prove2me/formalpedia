@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_isNsmul_pt
 -- name    : GlobalTheory.ToricData.isNsmul_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:44:29.489843+00:00
 -- url     : https://prove2.me/theorems/43bea39e-68c8-44c0-8275-5174e8b4e134

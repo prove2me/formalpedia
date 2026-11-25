@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_neg_left
 -- name    : GlobalTheory.HermForm.neg_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:00.66089+00:00
 -- url     : https://prove2.me/theorems/904dc5b3-f839-4b61-9777-d48a4fdb6cfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexVolume_relIndex_mul_volM
 -- name    : GlobalTheory.IndexVolume.relIndex_mul_volM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:53.832178+00:00
 -- url     : https://prove2.me/theorems/c064e5b0-8c5c-4e35-b571-955c54e44bb4

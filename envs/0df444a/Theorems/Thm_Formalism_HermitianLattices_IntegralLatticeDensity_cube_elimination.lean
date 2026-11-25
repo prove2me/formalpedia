@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_cube_elimination
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.cube_elimination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:11.323085+00:00
 -- url     : https://prove2.me/theorems/93e7cc0f-7dbb-4d70-8971-dad5f93f87c8

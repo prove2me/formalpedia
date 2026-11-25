@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_passage
 -- name    : Formalism.FourierDecayAlt.P.frame_passage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:30:53.676683+00:00
 -- url     : https://prove2.me/theorems/dc1f350e-9f16-4536-b67f-ca0e1dbd7a26

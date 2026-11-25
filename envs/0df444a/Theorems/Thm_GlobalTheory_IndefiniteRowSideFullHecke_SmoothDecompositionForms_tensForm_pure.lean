@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SmoothDecompositionForms_tensForm_pure
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SmoothDecompositionForms.tensForm_pure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:09:50.489031+00:00
 -- url     : https://prove2.me/theorems/e568b9f6-a3f5-4484-89fa-01367798f006

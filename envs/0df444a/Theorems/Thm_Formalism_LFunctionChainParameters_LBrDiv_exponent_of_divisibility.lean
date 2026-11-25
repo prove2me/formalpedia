@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_exponent_of_divisibility
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.exponent_of_divisibility
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:54:00.566635+00:00
 -- url     : https://prove2.me/theorems/51e11937-768a-57d3-aad5-4ef89d162216

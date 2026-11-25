@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Smoothening_mem_vanish
 -- name    : GlobalTheory.SS.Smoothening.mem_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:29:04.590814+00:00
 -- url     : https://prove2.me/theorems/c915e72e-ff57-488a-b172-d12c43509dff

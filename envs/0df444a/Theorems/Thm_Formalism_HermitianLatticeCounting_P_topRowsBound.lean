@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_topRowsBound
 -- name    : Formalism.HermitianLatticeCounting.P.topRowsBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:33.034991+00:00
 -- url     : https://prove2.me/theorems/99139d25-57ef-4dd9-ac10-ff286e2d6d2c

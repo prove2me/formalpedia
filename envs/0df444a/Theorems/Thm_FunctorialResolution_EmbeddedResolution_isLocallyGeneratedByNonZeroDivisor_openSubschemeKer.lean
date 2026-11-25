@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isLocallyGeneratedByNonZeroDivisor_openSubschemeKer
 -- name    : FunctorialResolution.EmbeddedResolution.isLocallyGeneratedByNonZeroDivisor_openSubschemeKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:53:59.172509+00:00
 -- url     : https://prove2.me/theorems/6fae868d-c6cb-4408-b2d4-2d195a3ebb2d

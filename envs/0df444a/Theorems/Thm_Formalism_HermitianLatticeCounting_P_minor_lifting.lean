@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_minor_lifting
 -- name    : Formalism.HermitianLatticeCounting.P.minor_lifting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:39:22.273105+00:00
 -- url     : https://prove2.me/theorems/b00c8c5e-54c8-4b74-ad5e-5de454f29621

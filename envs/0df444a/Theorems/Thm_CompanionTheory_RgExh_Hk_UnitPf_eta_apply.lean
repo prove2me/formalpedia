@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_eta_apply
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.eta_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:53:27.965148+00:00
 -- url     : https://prove2.me/theorems/a6c4d467-4f45-48ea-b6ca-e80b89749f17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_radK_add_two
 -- name    : ReciprocityTheory.MultiplicativeHeights.radK_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:28.384533+00:00
 -- url     : https://prove2.me/theorems/7d589c17-4460-537b-a20a-f2f66952bcaf

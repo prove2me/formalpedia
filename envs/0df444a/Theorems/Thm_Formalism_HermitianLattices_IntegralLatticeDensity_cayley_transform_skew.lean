@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_cayley_transform_skew
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.cayley_transform_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:14.361747+00:00
 -- url     : https://prove2.me/theorems/60ec44db-a61b-484c-85e1-3c559a61b652

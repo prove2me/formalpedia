@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitSphereMeasure_finitePlace_eq_absNorm_zpow
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitSphereMeasure.finitePlace_eq_absNorm_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:43.355457+00:00
 -- url     : https://prove2.me/theorems/b88582f4-4615-48b6-bc6f-a4f0602f62be

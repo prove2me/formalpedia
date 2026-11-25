@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_maximalIdeal_pow_natCast_dvd_finite_integers_algebra
 -- name    : GlobalTheory.T.maximalIdeal_pow_natCast_dvd_finite_integers_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:17.674072+00:00
 -- url     : https://prove2.me/theorems/be45e412-8576-4860-ad74-45c188dfd0ab

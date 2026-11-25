@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_evalOne_ratioMap_8be7c5deb8d9
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_evalOne_ratioMap_8be7c5deb8d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:03:03.974018+00:00
 -- url     : https://prove2.me/theorems/a0b40461-753b-4fa3-ba47-09f790e17d56

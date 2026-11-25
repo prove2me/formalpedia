@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_totalCenter_eq
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.totalCenter_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:54:22.564987+00:00
 -- url     : https://prove2.me/theorems/76c89a71-a757-55f4-adce-699034342c24

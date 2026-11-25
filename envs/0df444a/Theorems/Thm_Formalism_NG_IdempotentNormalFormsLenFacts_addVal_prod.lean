@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentNormalFormsLenFacts_addVal_prod
 -- name    : Formalism.NG.IdempotentNormalFormsLenFacts.addVal_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:23.784512+00:00
 -- url     : https://prove2.me/theorems/6125a2a7-3709-58ea-8a54-5d9f39d90dc4

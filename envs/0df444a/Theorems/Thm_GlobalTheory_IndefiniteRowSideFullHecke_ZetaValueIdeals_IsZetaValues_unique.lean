@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ZetaValueIdeals_IsZetaValues_unique
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ZetaValueIdeals.IsZetaValues.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:09.01347+00:00
 -- url     : https://prove2.me/theorems/40fabc4e-4e03-530c-96fe-3e0e54dc5d58

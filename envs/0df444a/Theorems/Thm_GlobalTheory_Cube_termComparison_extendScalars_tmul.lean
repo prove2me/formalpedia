@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_termComparison_extendScalars_tmul
 -- name    : GlobalTheory.Cube.termComparison_extendScalars_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:06.214089+00:00
 -- url     : https://prove2.me/theorems/064c584c-5874-5a9d-b058-c4cdeee499c8

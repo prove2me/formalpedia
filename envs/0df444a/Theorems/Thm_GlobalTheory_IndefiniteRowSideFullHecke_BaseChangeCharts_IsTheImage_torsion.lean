@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_BaseChangeCharts_IsTheImage_torsion
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.BaseChangeCharts.IsTheImage.torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:10:17.051522+00:00
 -- url     : https://prove2.me/theorems/5ee88824-f9be-5457-b58f-472dec56383c

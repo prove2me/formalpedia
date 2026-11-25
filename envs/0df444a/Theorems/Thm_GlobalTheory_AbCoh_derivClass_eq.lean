@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_derivClass_eq
 -- name    : GlobalTheory.AbCoh.derivClass_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:09:26.040685+00:00
 -- url     : https://prove2.me/theorems/21b2be18-650b-4c47-a041-6dd80d040f70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_OrderAt_ratio_unique
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.OrderAt.ratio_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:58:47.492926+00:00
 -- url     : https://prove2.me/theorems/eb47188e-38fd-47c2-bf08-9376a8f10a4e

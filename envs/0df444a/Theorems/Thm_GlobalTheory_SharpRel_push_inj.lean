@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpRel_push_inj
 -- name    : GlobalTheory.SharpRel.push_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:23:28.796586+00:00
 -- url     : https://prove2.me/theorems/9812cfab-54c8-5017-9234-ea37dac396d6

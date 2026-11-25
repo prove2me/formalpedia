@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HT_LatBasic_latNorm_le
 -- name    : GlobalTheory.CompanionTheory.Ar.HT.LatBasic.latNorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:59:43.842378+00:00
 -- url     : https://prove2.me/theorems/97b6d052-1c86-4633-a343-c1b44d604ae6

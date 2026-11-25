@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_hnCor
 -- name    : Formalism.HN.hnCor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:45.338087+00:00
 -- url     : https://prove2.me/theorems/e83d9077-cc53-5c48-bf00-e85f956dd875

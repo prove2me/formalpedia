@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_Dec_prod_neg_eq
 -- name    : ZetaZeros.D.EllReg.Dec.prod_neg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:23.239042+00:00
 -- url     : https://prove2.me/theorems/b1f65fa1-a045-5783-9991-581d79daa126

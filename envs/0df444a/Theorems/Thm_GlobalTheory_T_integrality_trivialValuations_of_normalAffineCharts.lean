@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integrality_trivialValuations_of_normalAffineCharts
 -- name    : GlobalTheory.T.integrality_trivialValuations_of_normalAffineCharts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:48:59.67842+00:00
 -- url     : https://prove2.me/theorems/bdc1b0f6-a312-47cf-b174-7bdf80f887ed

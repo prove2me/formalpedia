@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_frobLift_localization
 -- name    : GlobalTheory.DI.frobLift_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:37.993238+00:00
 -- url     : https://prove2.me/theorems/18d13167-2b58-407f-97a0-f81aa2b3bf16

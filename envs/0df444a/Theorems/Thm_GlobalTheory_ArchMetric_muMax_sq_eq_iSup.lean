@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_muMax_sq_eq_iSup
 -- name    : GlobalTheory.ArchMetric.muMax_sq_eq_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:31.41383+00:00
 -- url     : https://prove2.me/theorems/b7b5f838-535b-4e33-b4d6-55210b34b3c4

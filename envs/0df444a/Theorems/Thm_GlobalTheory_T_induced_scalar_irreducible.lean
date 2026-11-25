@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_induced_scalar_irreducible
 -- name    : GlobalTheory.T.induced_scalar_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:42.571799+00:00
 -- url     : https://prove2.me/theorems/33928364-2fe4-42a1-aea3-1d4649b81ca2

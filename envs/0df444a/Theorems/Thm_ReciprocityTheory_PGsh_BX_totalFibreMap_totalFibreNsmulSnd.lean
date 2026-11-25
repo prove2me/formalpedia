@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_totalFibreMap_totalFibreNsmulSnd
 -- name    : ReciprocityTheory.PGsh.BX.totalFibreMap_totalFibreNsmulSnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:06:08.070054+00:00
 -- url     : https://prove2.me/theorems/cd5111e9-f13e-50a0-aae7-8290016bfd58

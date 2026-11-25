@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_holLowK
 -- name    : Formalism.QuantumDeterminants.holLowK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:25.568086+00:00
 -- url     : https://prove2.me/theorems/cb000a89-0453-4091-a44d-90533e99f423

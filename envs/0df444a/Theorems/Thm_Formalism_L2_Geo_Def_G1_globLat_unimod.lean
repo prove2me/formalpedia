@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Geo_Def_G1_globLat_unimod
 -- name    : Formalism.L2.Geo.Def.G1.globLat_unimod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:49:18.66318+00:00
 -- url     : https://prove2.me/theorems/aa501851-849a-4946-a7ec-15c26f616428

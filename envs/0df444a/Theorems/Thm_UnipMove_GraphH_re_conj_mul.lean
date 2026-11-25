@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_re_conj_mul
 -- name    : UnipMove.GraphH.re_conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:19:41.977211+00:00
 -- url     : https://prove2.me/theorems/2fbc0480-70f2-5f79-b06e-0e887409ef99

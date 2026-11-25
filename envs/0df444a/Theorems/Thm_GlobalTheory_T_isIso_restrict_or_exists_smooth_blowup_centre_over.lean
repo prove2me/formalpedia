@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIso_restrict_or_exists_smooth_blowup_centre_over
 -- name    : GlobalTheory.T.isIso_restrict_or_exists_smooth_blowup_centre_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:36:06.339107+00:00
 -- url     : https://prove2.me/theorems/9638651a-a43c-5530-8cbb-b88a8d27a9ad

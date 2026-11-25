@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_algebraMap_mem_reesGrading_zero
 -- name    : FunctorialResolution.Blowup.algebraMap_mem_reesGrading_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:36.671204+00:00
 -- url     : https://prove2.me/theorems/ab7d2877-6a40-4f98-ae0b-439cd4dee8c3

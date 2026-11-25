@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowValueCheck_exists_value_top
 -- name    : GlobalTheory.RowValueCheck.exists_value_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:43.958908+00:00
 -- url     : https://prove2.me/theorems/5dcd8124-b234-5061-b6b5-fc327af71308

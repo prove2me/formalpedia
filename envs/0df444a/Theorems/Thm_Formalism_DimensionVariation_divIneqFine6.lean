@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_divIneqFine6
 -- name    : Formalism.DimensionVariation.divIneqFine6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:25:12.403084+00:00
 -- url     : https://prove2.me/theorems/aa2566c7-6ede-41fb-9931-66a9cdc72256

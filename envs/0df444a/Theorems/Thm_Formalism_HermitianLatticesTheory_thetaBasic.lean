@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_thetaBasic
 -- name    : Formalism.HermitianLatticesTheory.thetaBasic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:30.993801+00:00
 -- url     : https://prove2.me/theorems/1e96de4d-7f95-402a-87b8-9802a84bdf6d

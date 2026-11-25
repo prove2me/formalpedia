@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PenVol_mem_cosStab
 -- name    : GlobalTheory.PenVol.mem_cosStab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:37.231899+00:00
 -- url     : https://prove2.me/theorems/f6915dd1-2ef0-4b63-83ba-6d0142ae729b

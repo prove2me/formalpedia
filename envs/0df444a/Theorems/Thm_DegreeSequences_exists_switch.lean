@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_exists_switch
 -- name    : DegreeSequences.exists_switch
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:47:07.256843+00:00
 -- url     : https://prove2.me/theorems/e69c9834-cfb4-415a-8203-19193450ef64

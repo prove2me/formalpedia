@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_relation_C_mul_X_pow_of_valuationSubring
 -- name    : GlobalTheory.T.exists_integral_relation_C_mul_X_pow_of_valuationSubring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:30:22.419685+00:00
 -- url     : https://prove2.me/theorems/fd3c7f96-68be-4b15-bf9d-6c7d59c7c315

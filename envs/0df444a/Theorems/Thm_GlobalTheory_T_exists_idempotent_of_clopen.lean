@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_idempotent_of_clopen
 -- name    : GlobalTheory.T.exists_idempotent_of_clopen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:27.010802+00:00
 -- url     : https://prove2.me/theorems/aab72287-a47e-47e8-ae78-8c76693cf27a

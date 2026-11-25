@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_closure_image_mem_irreducibleComponents_of_flat
 -- name    : FunctorialResolution.EmbeddedResolution.closure_image_mem_irreducibleComponents_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:06.561837+00:00
 -- url     : https://prove2.me/theorems/f81f356c-0052-527d-b703-15d0ff13c2c5

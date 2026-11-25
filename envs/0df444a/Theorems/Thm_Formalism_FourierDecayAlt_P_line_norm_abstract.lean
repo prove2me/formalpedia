@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_line_norm_abstract
 -- name    : Formalism.FourierDecayAlt.P.line_norm_abstract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:13.859796+00:00
 -- url     : https://prove2.me/theorems/c8cc7a8c-30e4-5de7-a139-fd24a435ac2f

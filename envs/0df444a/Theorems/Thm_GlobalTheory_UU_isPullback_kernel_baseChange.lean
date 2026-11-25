@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_isPullback_kernel_baseChange
 -- name    : GlobalTheory.UU.isPullback_kernel_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:59:58.243931+00:00
 -- url     : https://prove2.me/theorems/5c1fd4af-5962-46ca-b641-4144bc4455c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_appLinear_comp
 -- name    : GlobalTheory.QCoh.appLinear_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:17:49.437223+00:00
 -- url     : https://prove2.me/theorems/dfa14d4e-b64f-59f2-91cd-59b2782b1ad1

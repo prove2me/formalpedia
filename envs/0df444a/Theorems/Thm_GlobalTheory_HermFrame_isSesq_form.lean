@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_isSesq_form
 -- name    : GlobalTheory.HermFrame.isSesq_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:07:07.905019+00:00
 -- url     : https://prove2.me/theorems/ae61a87d-337f-4dde-b812-16a6140fe6ae

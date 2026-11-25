@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isLocallyConstantCompactSupport_jacquetRallisDescent
 -- name    : GlobalTheory.T.isLocallyConstantCompactSupport_jacquetRallisDescent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:42:28.574131+00:00
 -- url     : https://prove2.me/theorems/b4ae5e9c-79b5-41a0-95e7-340eb75b34ec

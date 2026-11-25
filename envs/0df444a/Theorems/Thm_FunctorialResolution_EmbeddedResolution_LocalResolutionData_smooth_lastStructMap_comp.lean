@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_smooth_lastStructMap_comp
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.smooth_lastStructMap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:54.10303+00:00
 -- url     : https://prove2.me/theorems/4180abb8-a250-56e6-9797-6a1e5262c889

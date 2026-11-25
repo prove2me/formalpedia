@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjFrac_awayToSection_fromZero
 -- name    : GlobalTheory.ProjFrac.awayToSection_fromZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:58.758042+00:00
 -- url     : https://prove2.me/theorems/543682d6-cbea-42f3-a107-953358e83134

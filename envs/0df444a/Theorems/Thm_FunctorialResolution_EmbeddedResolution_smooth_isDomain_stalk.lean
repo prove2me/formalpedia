@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smooth_isDomain_stalk
 -- name    : FunctorialResolution.EmbeddedResolution.smooth_isDomain_stalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:09.403309+00:00
 -- url     : https://prove2.me/theorems/69acc816-42c0-5849-afff-cc45b08e8399

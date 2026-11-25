@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_F_E_pow_gen
 -- name    : Formalism.GM.leadingTermLemmas.F_E_pow_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:49.840831+00:00
 -- url     : https://prove2.me/theorems/44c4bdd6-25f5-4c79-9ace-6113ab68cb25

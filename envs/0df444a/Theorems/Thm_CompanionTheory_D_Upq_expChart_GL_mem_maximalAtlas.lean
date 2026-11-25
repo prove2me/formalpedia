@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_expChart_GL_mem_maximalAtlas
 -- name    : CompanionTheory.D.Upq.expChart_GL_mem_maximalAtlas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:15:48.518206+00:00
 -- url     : https://prove2.me/theorems/5b573495-b276-4049-b12a-12d6dbf3200a

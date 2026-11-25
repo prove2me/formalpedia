@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TUniq_Compat_unique
 -- name    : GlobalTheory.TUniq.Compat.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:43:23.969888+00:00
 -- url     : https://prove2.me/theorems/c3afcebc-9c17-4986-81e8-de6262a6ec2e

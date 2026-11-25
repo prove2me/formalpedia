@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_CanonKeySt_const_pow
 -- name    : GlobalTheory.Published.CanonKeySt.const_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:16:33.253802+00:00
 -- url     : https://prove2.me/theorems/65306914-6e92-4ddc-86bf-1caaed31855b

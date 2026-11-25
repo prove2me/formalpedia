@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_sublevel_of_int_quadratic_ge_one
 -- name    : GlobalTheory.T.finite_sublevel_of_int_quadratic_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:08.105824+00:00
 -- url     : https://prove2.me/theorems/4c45cdb2-58b7-5691-bfc5-56d62fa91e07

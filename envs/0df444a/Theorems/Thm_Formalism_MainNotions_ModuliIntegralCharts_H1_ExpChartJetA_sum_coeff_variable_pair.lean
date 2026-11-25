@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJetA_sum_coeff_variable_pair
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJetA.sum_coeff_variable_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:53.329564+00:00
 -- url     : https://prove2.me/theorems/8d03e737-54d9-4a55-8554-438992651f5c

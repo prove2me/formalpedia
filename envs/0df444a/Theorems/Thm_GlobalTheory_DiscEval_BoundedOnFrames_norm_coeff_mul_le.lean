@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_BoundedOnFrames_norm_coeff_mul_le
 -- name    : GlobalTheory.DiscEval.BoundedOnFrames.norm_coeff_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:05:16.109596+00:00
 -- url     : https://prove2.me/theorems/aecf66e9-c7b1-4650-8fdf-3c911fc42164

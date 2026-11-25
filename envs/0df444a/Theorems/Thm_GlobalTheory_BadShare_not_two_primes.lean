@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_not_two_primes
 -- name    : GlobalTheory.BadShare.not_two_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:56:48.145638+00:00
 -- url     : https://prove2.me/theorems/e2d33678-821c-4da8-9481-01239f55c3c4

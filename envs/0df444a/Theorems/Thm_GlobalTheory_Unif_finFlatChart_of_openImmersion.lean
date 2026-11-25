@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unif_finFlatChart_of_openImmersion
 -- name    : GlobalTheory.Unif.finFlatChart_of_openImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:00:47.805885+00:00
 -- url     : https://prove2.me/theorems/5a6a408f-5297-4d05-8816-a4c482750809

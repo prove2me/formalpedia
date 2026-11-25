@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_fderiv_eq_quad_comm
 -- name    : GlobalTheory.Mem.Lift.fderiv_eq_quad_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:23.028533+00:00
 -- url     : https://prove2.me/theorems/391485da-52fa-4e3d-ac34-0c10c80dea88

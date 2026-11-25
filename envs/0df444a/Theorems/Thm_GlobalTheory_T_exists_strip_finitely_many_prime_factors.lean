@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_strip_finitely_many_prime_factors
 -- name    : GlobalTheory.T.exists_strip_finitely_many_prime_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:31:11.678107+00:00
 -- url     : https://prove2.me/theorems/43125b3a-d64d-41da-86b0-f95822453a39

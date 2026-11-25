@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dict_ideal_isPrime_and_mem_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dict.ideal_isPrime_and_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:15:58.394226+00:00
 -- url     : https://prove2.me/theorems/13df97da-1882-51ce-ba8b-61479ff419e6

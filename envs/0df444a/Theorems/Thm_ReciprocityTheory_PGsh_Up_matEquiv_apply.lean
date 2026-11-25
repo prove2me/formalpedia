@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_matEquiv_apply
 -- name    : ReciprocityTheory.PGsh.Up.matEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:08:51.665812+00:00
 -- url     : https://prove2.me/theorems/0137c52d-5f98-4940-8ada-87d5037d68da

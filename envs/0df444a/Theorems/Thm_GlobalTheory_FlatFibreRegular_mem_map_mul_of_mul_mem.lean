@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatFibreRegular_mem_map_mul_of_mul_mem
 -- name    : GlobalTheory.FlatFibreRegular.mem_map_mul_of_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:42:05.875402+00:00
 -- url     : https://prove2.me/theorems/45d3978e-a044-4fe7-a2d3-f0a1b4ae8b15

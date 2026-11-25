@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_exists_gl_isometry_mulVec_eq_herm
 -- name    : GlobalTheory.HermWitt.exists_gl_isometry_mulVec_eq_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:17.039884+00:00
 -- url     : https://prove2.me/theorems/35990756-86ec-596c-8fcf-217f88f8b3ce

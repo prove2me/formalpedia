@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sb_normSq_split
 -- name    : ReciprocityTheory.MultiplicativeHeights.sb_normSq_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:06:14.27236+00:00
 -- url     : https://prove2.me/theorems/d24cf13a-113f-493d-a7de-145bfc96c876

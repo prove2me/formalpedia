@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsPushforwardBlowupSeq_of_isStrictPullback_of_isIso
 -- name    : FunctorialResolution.EmbeddedResolution.IsPushforwardBlowupSeq.of_isStrictPullback_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:54:49.906257+00:00
 -- url     : https://prove2.me/theorems/f1fd3ec1-1a88-5c2c-a2dd-6732524cd307

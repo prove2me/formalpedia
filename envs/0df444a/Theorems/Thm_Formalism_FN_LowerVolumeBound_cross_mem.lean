@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FN_LowerVolumeBound_cross_mem
 -- name    : Formalism.FN.LowerVolumeBound.cross_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:24:40.024062+00:00
 -- url     : https://prove2.me/theorems/076ae28b-a198-57d5-bce5-cb77775850e2

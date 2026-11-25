@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Inh_implements_ex
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Inh.implements_ex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:00:51.633951+00:00
 -- url     : https://prove2.me/theorems/410b7b0c-ef97-4617-a97a-cdfa13316cd9

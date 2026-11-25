@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_standard_five_nontrivial
 -- name    : GlobalTheory.BadShare.Basic.standard_five_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:27.319788+00:00
 -- url     : https://prove2.me/theorems/1aa28b1a-779b-5635-aa44-7385adf62b07

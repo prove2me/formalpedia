@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_Inhab_gam_one_ne_zero
 -- name    : Formalism.L2.SG.GGMirabolic.Inhab.gam_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:48:04.088655+00:00
 -- url     : https://prove2.me/theorems/69f44624-adc6-4242-87d4-759f296a9884

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_comap_vanishingIdeal_sUnion
 -- name    : FunctorialResolution.EmbeddedResolution.comap_vanishingIdeal_sUnion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:14.87109+00:00
 -- url     : https://prove2.me/theorems/c4a25055-3854-4de2-b81f-4159c3af22fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MatrixIndex_index_rmul
 -- name    : GlobalTheory.MatrixIndex.index_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:26.991773+00:00
 -- url     : https://prove2.me/theorems/c1761b12-7834-48e5-aa69-ba0253b1ca86

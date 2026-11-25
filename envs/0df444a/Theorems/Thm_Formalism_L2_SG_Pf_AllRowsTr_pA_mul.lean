@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_AllRowsTr_pA_mul
 -- name    : Formalism.L2.SG.Pf.AllRowsTr.pA_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:46:27.338203+00:00
 -- url     : https://prove2.me/theorems/c5f34e43-fc76-59ba-af74-7c32985ab5b6

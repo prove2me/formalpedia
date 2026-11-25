@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_sphereQuadraticPositivity_sum_sq_le
 -- name    : ReciprocityTheory.PTheta.sphereQuadraticPositivity.sum_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:32.013615+00:00
 -- url     : https://prove2.me/theorems/8feebf4f-6bf9-5e18-a768-407e9bcca22f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_ev_act_bor_one
 -- name    : GlobalTheory.PrinTwo.ev_act_bor_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:16:31.852624+00:00
 -- url     : https://prove2.me/theorems/ccd9ef8a-8bd2-4550-8ea8-5f1cb6cd2efb

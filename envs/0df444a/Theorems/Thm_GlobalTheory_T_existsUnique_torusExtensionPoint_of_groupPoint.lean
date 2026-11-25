@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_torusExtensionPoint_of_groupPoint
 -- name    : GlobalTheory.T.existsUnique_torusExtensionPoint_of_groupPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:54:47.088705+00:00
 -- url     : https://prove2.me/theorems/66efc9ad-b97e-5315-8cc2-a47187ef0dea

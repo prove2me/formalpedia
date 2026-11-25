@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_scaling_bound
 -- name    : Formalism.FourierDecayAlt.P.scaling_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:36:33.752009+00:00
 -- url     : https://prove2.me/theorems/2a2db78b-d581-48e3-b548-652789a6bcb5

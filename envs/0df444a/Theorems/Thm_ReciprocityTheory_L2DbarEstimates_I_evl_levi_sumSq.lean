@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_evl_levi_sumSq
 -- name    : ReciprocityTheory.L2DbarEstimates.I.evl_levi_sumSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:58:18.133918+00:00
 -- url     : https://prove2.me/theorems/7f906ba1-ba0d-4e83-8e64-60d8ec229e4b

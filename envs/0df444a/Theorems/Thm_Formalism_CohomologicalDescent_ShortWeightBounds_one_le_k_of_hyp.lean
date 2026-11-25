@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_one_le_k_of_hyp
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.one_le_k_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:47:41.692137+00:00
 -- url     : https://prove2.me/theorems/288a5bc1-671d-5edd-9c69-bca688a0b468

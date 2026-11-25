@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_weight_last_level
 -- name    : Formalism.FourierDecayAlt.P5.weight_last_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:38:00.075085+00:00
 -- url     : https://prove2.me/theorems/e988424f-d1c6-563b-91d6-e555a7f802a8

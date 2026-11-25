@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_Smith_det_colop
 -- name    : ReciprocityTheory.PGsh.Up.Smith.det_colop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:07:17.777011+00:00
 -- url     : https://prove2.me/theorems/0582a413-6619-43c3-b313-f02d1abea6f8

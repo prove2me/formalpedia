@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Pair_HasVal_ev_eq
 -- name    : GlobalTheory.LatPair.Pair.HasVal.ev_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:12:57.243998+00:00
 -- url     : https://prove2.me/theorems/0e66d7d8-2d25-44d8-bc06-a317a25fcd6e

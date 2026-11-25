@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_LieModel_mem_htDual
 -- name    : GlobalTheory.CompanionTheory.Ar.LieModel.mem_htDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:51.809827+00:00
 -- url     : https://prove2.me/theorems/9c3c2c52-4f67-4084-a78f-e92d3875e631

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowLev_Red_lift_one
 -- name    : GlobalTheory.RowLev.Red.lift_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:22:29.54841+00:00
 -- url     : https://prove2.me/theorems/0e156201-22b8-46f3-b957-69985e0d1b02

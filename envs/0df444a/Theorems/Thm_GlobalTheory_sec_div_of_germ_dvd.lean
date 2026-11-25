@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sec_div_of_germ_dvd
 -- name    : GlobalTheory.sec_div_of_germ_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:08:53.966352+00:00
 -- url     : https://prove2.me/theorems/7a34d2aa-97fd-427f-a142-c4d0cc024c5e

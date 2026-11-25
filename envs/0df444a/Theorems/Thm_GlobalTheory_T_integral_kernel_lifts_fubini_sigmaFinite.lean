@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integral_kernel_lifts_fubini_sigmaFinite
 -- name    : GlobalTheory.T.integral_kernel_lifts_fubini_sigmaFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:34:15.295574+00:00
 -- url     : https://prove2.me/theorems/a823d7de-7c12-40c5-ab94-085db21b5648

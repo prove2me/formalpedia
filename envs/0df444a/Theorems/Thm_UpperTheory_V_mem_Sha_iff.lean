@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_mem_Sha_iff
 -- name    : UpperTheory.V.mem_Sha_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:40.669064+00:00
 -- url     : https://prove2.me/theorems/94e16fbf-a4ac-4e23-b7b5-3497719c3e34

@@ -1,0 +1,47 @@
+-- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.toAffineResolutionRule_embeddedResolutionRuleOfPrincipalization
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T17:36:25.03481+00:00
+-- url     : https://prove2.me/submissions/acaafd4c-dfa2-4bdf-86fc-47bfc7468964
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IteratedBlowups_RemoveIsoBlowups
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossingsNil
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_AffineResolutionRule
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_EmbeddedResolutionRule
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_FunctorialPrincipalization
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_EmbeddedBlowupSequence
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_StrongResolution_EmbeddedStrictTransform
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_BlowupUniversalProperty
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionOfSingularities
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_ResolutionDescent_EmbeddedResolutionRuleOfPrincipalization
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedResolutionRule_toAffineResolutionRule_apply
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_affineSpaceEmbeddingChoice_eq_affineSpaceEmbeddingDatum
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_embeddedResolutionRuleOfPrincipalization_affineSpaceEmbeddingDatum
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] FunctorialResolution.EmbeddedResolution.EmbeddedResolutionRule.toAffineResolutionRule_apply
+
+
+
+set_option autoImplicit false
+universe u
+open CategoryTheory AlgebraicGeometry
+noncomputable section
+open FunctorialResolution FunctorialResolution.EmbeddedResolution
+namespace FunctorialResolution.EmbeddedResolution
+theorem _root_.solution (A : PrincipalizationAlgorithm.{u}) (h : TransitionsAreBlowupsForEmbeddings A)
+    (hemb : AffineEmbedsIntoAffineSpace.{u}) (hsnc : NilIsStrictNormalCrossingsOnAffineSpace.{u})
+    (hsm : AffineSpaceIsSmooth.{u}) (hw : EmbeddedPrincipalizationYieldsBlowups A hemb hsnc hsm) :
+    (embeddedResolutionRuleOfPrincipalization A h).toAffineResolutionRule (affineSpaceEmbeddingChoice hemb hsnc hsm) =
+      affineResolutionRuleOfPrincipalization A hemb hsnc hsm hw := by
+  funext k _ _ Y p _ _ _ _
+  rw [EmbeddedResolutionRule.toAffineResolutionRule_apply, affineSpaceEmbeddingChoice_eq_affineSpaceEmbeddingDatum]
+  exact embeddedResolutionRuleOfPrincipalization_affineSpaceEmbeddingDatum A h hemb hsnc hsm hw k Y p
+end FunctorialResolution.EmbeddedResolution

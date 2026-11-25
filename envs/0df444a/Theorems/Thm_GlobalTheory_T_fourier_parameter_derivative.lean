@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_parameter_derivative
 -- name    : GlobalTheory.T.fourier_parameter_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:32:04.109301+00:00
 -- url     : https://prove2.me/theorems/bab14cce-2e36-4a38-bbe8-dc14c7557a55

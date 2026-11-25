@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_IsValChar_unrAt
 -- name    : GlobalTheory.CMVal.Model.IsValChar.unrAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:29.695829+00:00
 -- url     : https://prove2.me/theorems/de801d44-ef35-451b-a9d2-9d159ae72a0c

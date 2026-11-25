@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_integrable_pairing
 -- name    : CompanionTheory.LimBd.URep.integrable_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:18:25.326591+00:00
 -- url     : https://prove2.me/theorems/3ba0e172-59ab-4151-917a-294a6b8472c4

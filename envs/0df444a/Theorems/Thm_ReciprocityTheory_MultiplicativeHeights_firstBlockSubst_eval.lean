@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_firstBlockSubst_eval
 -- name    : ReciprocityTheory.MultiplicativeHeights.firstBlockSubst_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:23.41296+00:00
 -- url     : https://prove2.me/theorems/e831c814-773a-5f43-9358-396c57328d51

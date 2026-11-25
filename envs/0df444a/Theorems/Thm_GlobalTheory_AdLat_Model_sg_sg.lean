@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Model_sg_sg
 -- name    : GlobalTheory.AdLat.Model.sg_sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:54:46.62701+00:00
 -- url     : https://prove2.me/theorems/8a04b7c7-9699-575d-a73b-77a4592f6058

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalCovariateShift_perm_weight_cov_shift
 -- name    : ConformalCovariateShift.perm_weight_cov_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:24:27.756199+00:00
 -- url     : https://prove2.me/theorems/ce3865e8-ec65-4dfb-a29b-ecf80bd1620d

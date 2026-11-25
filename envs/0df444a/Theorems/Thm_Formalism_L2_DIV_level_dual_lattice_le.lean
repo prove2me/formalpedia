@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_level_dual_lattice_le
 -- name    : Formalism.L2.DIV.level_dual_lattice_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:44:31.010682+00:00
 -- url     : https://prove2.me/theorems/c05b52c6-816d-52b9-87eb-5c1e407feb58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_duality_positive_subspace
 -- name    : Formalism.FourierDecayAlt.P.duality_positive_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:29:59.22201+00:00
 -- url     : https://prove2.me/theorems/32f7cb34-f05d-4911-92f6-dcdeb9550384

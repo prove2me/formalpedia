@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatHecke_heckeElem_zero
 -- name    : GlobalTheory.LatHecke.heckeElem_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:12:42.785921+00:00
 -- url     : https://prove2.me/theorems/7fd16dab-def3-5e9d-b877-06fefed1c2b8

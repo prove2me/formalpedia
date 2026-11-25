@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Dehom_part_mul_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Dehom.part_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:44:03.670697+00:00
 -- url     : https://prove2.me/theorems/68504e87-dbd7-45a2-af9b-d426951c9e07

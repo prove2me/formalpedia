@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_skodaMatrix
 -- name    : ReciprocityTheory.L2DbarEstimates.skodaMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:01:20.783243+00:00
 -- url     : https://prove2.me/theorems/d4b63e8c-ebbd-4bee-9dcd-d46673ba1e25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TwoPlaceCoordinateLemmas_shape
 -- name    : Formalism.L2.Th1.D.TwoPlaceCoordinateLemmas.shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:01.078555+00:00
 -- url     : https://prove2.me/theorems/c763d761-87e0-42ea-ab53-07fc4249cc26

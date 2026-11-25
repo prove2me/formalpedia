@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IwaFlag_exists_flag_dual_matrix
 -- name    : GlobalTheory.IwaFlag.exists_flag_dual_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:11:27.941251+00:00
 -- url     : https://prove2.me/theorems/790a13dc-254e-4682-97d4-f3d20cab566e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_J_exists_plift
 -- name    : Formalism.MainNotions.J.exists_plift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:27.931334+00:00
 -- url     : https://prove2.me/theorems/41b3a198-ffd3-5973-8b02-bd7b5539626c

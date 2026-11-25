@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Qi42_open_fix
 -- name    : UpperTheory.Reformulated.B.Qi42.open_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:59.010842+00:00
 -- url     : https://prove2.me/theorems/eb03b265-43e2-4d30-9228-9c48480f42af

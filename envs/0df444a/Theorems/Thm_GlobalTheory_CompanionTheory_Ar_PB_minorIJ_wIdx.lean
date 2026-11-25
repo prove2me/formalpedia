@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_minorIJ_wIdx
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.minorIJ_wIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:17.454789+00:00
 -- url     : https://prove2.me/theorems/7403a6e6-5f00-4475-97df-93a234d16c2e

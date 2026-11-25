@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_transposed_R_matrix_UU_relation
 -- name    : Formalism.FourierDecayAlt.P.transposed_R_matrix_UU_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:26.967582+00:00
 -- url     : https://prove2.me/theorems/79a9e300-f265-4d46-ae2e-5e3a5f814cac

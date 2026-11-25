@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_IsPlaceIn_mem_nonunits
 -- name    : GlobalTheory.Glue.IsPlaceIn.mem_nonunits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:49.46096+00:00
 -- url     : https://prove2.me/theorems/bc399bbc-cbcb-4f93-a54a-18195d4d2979

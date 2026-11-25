@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_logPrimeBound6
 -- name    : Formalism.DimensionVariation.logPrimeBound6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:27:53.554069+00:00
 -- url     : https://prove2.me/theorems/47283599-2585-4b74-b945-c22f9f787adf

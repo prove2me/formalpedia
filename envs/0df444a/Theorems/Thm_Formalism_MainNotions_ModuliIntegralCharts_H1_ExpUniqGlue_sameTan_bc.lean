@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpUniqGlue_sameTan_bc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpUniqGlue.sameTan_bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:38:47.65355+00:00
 -- url     : https://prove2.me/theorems/42b280b1-7967-40d4-a887-e9f9d1c77947

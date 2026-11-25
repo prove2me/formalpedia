@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSmulMemSubmodule_exists_int_smul_mem
 -- name    : GlobalTheory.IntSmulMemSubmodule.exists_int_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:10:56.765073+00:00
 -- url     : https://prove2.me/theorems/8629ec05-5e83-4fd9-875f-9ac3dae5e42c

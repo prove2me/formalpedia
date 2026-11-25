@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_unitOfNorm
 -- name    : Formalism.IndefR.LatticeTransfer.unitOfNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:42:53.696448+00:00
 -- url     : https://prove2.me/theorems/5246e2b2-8e89-4a05-b508-6c5e91b6f55b

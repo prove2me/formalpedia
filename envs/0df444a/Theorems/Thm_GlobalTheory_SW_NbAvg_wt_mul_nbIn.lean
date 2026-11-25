@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_NbAvg_wt_mul_nbIn
 -- name    : GlobalTheory.SW.NbAvg.wt_mul_nbIn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:43:56.758687+00:00
 -- url     : https://prove2.me/theorems/e7262fa5-da71-43da-aa9a-f59ac9504faa

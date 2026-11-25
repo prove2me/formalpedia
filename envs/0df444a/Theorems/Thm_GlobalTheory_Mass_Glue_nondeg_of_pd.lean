@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Glue_nondeg_of_pd
 -- name    : GlobalTheory.Mass.Glue.nondeg_of_pd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:56.700476+00:00
 -- url     : https://prove2.me/theorems/19b846cc-2de5-41c8-a268-ed0dde3dc40e

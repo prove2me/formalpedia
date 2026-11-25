@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_AbMulNSt_dim_eq_zero
 -- name    : GlobalTheory.Published.AbMulNSt.dim_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:17:08.99302+00:00
 -- url     : https://prove2.me/theorems/b6ba9dab-57d9-504d-8a40-afb277411e8d

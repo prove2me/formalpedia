@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_DeficitSplitLemmas_sigma_mean_variance
 -- name    : Formalism.LFunctionChainParameters.DeficitSplitLemmas.sigma_mean_variance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:49:00.609558+00:00
 -- url     : https://prove2.me/theorems/4c475b32-2522-5780-bf85-7225197111e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatChecks_cfwM_all_eta
 -- name    : GlobalTheory.FlatChecks.cfwM_all_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:20.341088+00:00
 -- url     : https://prove2.me/theorems/d42b2c16-b2bb-5bc7-a824-68232cb3ed22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_CoordInhab_charts_two_three
 -- name    : GlobalTheory.CompanionTheory.Ar.CoordInhab.charts_two_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:32.019018+00:00
 -- url     : https://prove2.me/theorems/b1a26a79-f0bb-5e96-84ba-d34d9abf3bc1

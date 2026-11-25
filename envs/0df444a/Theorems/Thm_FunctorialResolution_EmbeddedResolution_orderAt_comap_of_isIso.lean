@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_comap_of_isIso
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_comap_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:36.27556+00:00
 -- url     : https://prove2.me/theorems/313c6f06-9901-5617-8c11-67e629eba209

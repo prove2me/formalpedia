@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_tate_Sum
 -- name    : GlobalTheory.AnArc.tate_Sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:55:34.037302+00:00
 -- url     : https://prove2.me/theorems/fa675923-746e-46f9-a444-c2058e3de089

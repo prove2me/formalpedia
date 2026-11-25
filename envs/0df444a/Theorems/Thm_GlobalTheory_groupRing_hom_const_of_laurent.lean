@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_groupRing_hom_const_of_laurent
 -- name    : GlobalTheory.groupRing_hom_const_of_laurent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:28:59.8974+00:00
 -- url     : https://prove2.me/theorems/2fc8c4e9-245f-4c12-9e4e-bec4f80ca9fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Analysis_tendsto_factorial_mul_div_pow_of_eps_bounds
 -- name    : GlobalTheory.CompanionTheory.Analysis.tendsto_factorial_mul_div_pow_of_eps_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:39.204632+00:00
 -- url     : https://prove2.me/theorems/45d934d4-d553-5b05-bb1e-ca123487f4d7

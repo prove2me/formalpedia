@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_ex_bijective
 -- name    : GlobalTheory.CubeLift.ex_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:57:02.646936+00:00
 -- url     : https://prove2.me/theorems/9b444b71-f08a-4182-8a5f-802febb216b8

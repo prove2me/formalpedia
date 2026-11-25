@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZV_FormSec_isUnit_gs_iff
 -- name    : GlobalTheory.ZV.FormSec.isUnit_gs_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:47:04.759961+00:00
 -- url     : https://prove2.me/theorems/e095b188-f08c-47ba-b019-df9febe7ff21

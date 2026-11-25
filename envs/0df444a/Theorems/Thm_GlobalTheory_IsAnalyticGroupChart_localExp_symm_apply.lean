@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsAnalyticGroupChart_localExp_symm_apply
 -- name    : GlobalTheory.IsAnalyticGroupChart.localExp_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:12:12.60508+00:00
 -- url     : https://prove2.me/theorems/b0b93021-68f0-4fb0-a1d5-c28a18da72fa

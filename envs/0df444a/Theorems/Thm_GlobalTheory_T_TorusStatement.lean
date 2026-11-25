@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_TorusStatement
 -- name    : GlobalTheory.T.TorusStatement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:09.223697+00:00
 -- url     : https://prove2.me/theorems/775bd97b-8e3d-52a6-91a4-6e32cea6ea22

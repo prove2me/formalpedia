@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DescTheta_evalAt_ne_zero
 -- name    : GlobalTheory.DescTheta.evalAt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:29:12.801035+00:00
 -- url     : https://prove2.me/theorems/b7b5da50-5f13-4739-841e-f02511b1686c

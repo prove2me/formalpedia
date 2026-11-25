@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_HasValueAt_multiset_prod
 -- name    : GlobalTheory.LGrp.HasValueAt.multiset_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:12:02.540275+00:00
 -- url     : https://prove2.me/theorems/a9ac1232-7345-55da-8e52-ac13de0a6623

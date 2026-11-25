@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_Level3_exists_weil_ne_one
 -- name    : GlobalTheory.Ex.Level3.exists_weil_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:12.853797+00:00
 -- url     : https://prove2.me/theorems/49de77d3-cd8a-5c70-acc6-b4b32c81c2e9

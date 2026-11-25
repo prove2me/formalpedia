@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tprod_complement_split_finset
 -- name    : GlobalTheory.T.tprod_complement_split_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:39:55.587142+00:00
 -- url     : https://prove2.me/theorems/30101f09-16d1-552f-bf20-52c877cdae28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_newtonWindow
 -- name    : Formalism.IncomingBounds.newtonWindow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:34.25631+00:00
 -- url     : https://prove2.me/theorems/0bc9e1db-7927-538e-bb56-518a9d16621b

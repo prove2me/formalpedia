@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_AffineProjectionSplitting_aproj_eq_zero_of_Uz
 -- name    : UnipMove.AffineProjectionSplitting.aproj_eq_zero_of_Uz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:10:59.580508+00:00
 -- url     : https://prove2.me/theorems/558e2fd6-f522-4c0e-bb2b-282cf499fa9d

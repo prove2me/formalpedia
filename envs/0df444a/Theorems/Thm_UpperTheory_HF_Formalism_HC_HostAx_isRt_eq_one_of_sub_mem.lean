@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostAx_isRt_eq_one_of_sub_mem
 -- name    : UpperTheory.HF.Formalism.HC.HostAx.isRt_eq_one_of_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:13:08.209386+00:00
 -- url     : https://prove2.me/theorems/6b29813d-8a07-49e6-85a7-8f542d11cc65

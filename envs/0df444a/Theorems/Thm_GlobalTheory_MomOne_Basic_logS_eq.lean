@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Basic_logS_eq
 -- name    : GlobalTheory.MomOne.Basic.logS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:51.870328+00:00
 -- url     : https://prove2.me/theorems/7ceb39a8-fb48-53b6-a5cc-494723443ae1

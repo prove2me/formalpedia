@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColCmp_sigma_invol
 -- name    : GlobalTheory.ColCmp.sigma_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:39.996093+00:00
 -- url     : https://prove2.me/theorems/4ad72040-525b-5582-aec3-45f15c2cdba7

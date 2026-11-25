@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_poincareSeries_finite
 -- name    : poincareSeries_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:15:54.692889+00:00
 -- url     : https://prove2.me/theorems/4edb1272-10e6-4f08-93ac-75fcf06b53be

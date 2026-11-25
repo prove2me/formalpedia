@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_ordCompl_q
 -- name    : Formalism.HC.HostRaw.ordCompl_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:43.407004+00:00
 -- url     : https://prove2.me/theorems/c9e59fa8-6e1d-5a15-ae2c-b4c90d03ffd7

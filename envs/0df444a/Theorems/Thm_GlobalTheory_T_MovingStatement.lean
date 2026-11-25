@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_MovingStatement
 -- name    : GlobalTheory.T.MovingStatement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:26:23.709886+00:00
 -- url     : https://prove2.me/theorems/a322925f-b2d6-4fdf-b0f5-74cf93c7d35e

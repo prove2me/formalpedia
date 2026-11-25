@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_nuLe
 -- name    : UpperTheory.Mu.nuLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:01:18.683196+00:00
 -- url     : https://prove2.me/theorems/25fbf524-0814-4b1e-a6f5-1214f0bb7321

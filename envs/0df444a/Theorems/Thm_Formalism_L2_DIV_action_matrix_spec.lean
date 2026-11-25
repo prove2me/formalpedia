@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_action_matrix_spec
 -- name    : Formalism.L2.DIV.action_matrix_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:12.829021+00:00
 -- url     : https://prove2.me/theorems/7580de9f-e944-419f-b6e7-0954d06e5310

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isProper_eighth_fibre_power_over
 -- name    : GlobalTheory.T.isProper_eighth_fibre_power_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:55.191016+00:00
 -- url     : https://prove2.me/theorems/b10dfb40-866f-57e3-b28b-edf9339c1a2e

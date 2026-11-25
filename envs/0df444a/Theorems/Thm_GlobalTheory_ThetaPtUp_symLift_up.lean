@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtUp_symLift_up
 -- name    : GlobalTheory.ThetaPtUp.symLift_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:46:11.729817+00:00
 -- url     : https://prove2.me/theorems/14b1877b-4d36-4dcd-9544-930ffc1b263f

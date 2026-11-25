@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_sumLat_inv_mulVec
 -- name    : ReciprocityTheory.PGsh.Up.sumLat_inv_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:08:35.355799+00:00
 -- url     : https://prove2.me/theorems/419b434d-0a02-50cf-b673-9fa743c96739

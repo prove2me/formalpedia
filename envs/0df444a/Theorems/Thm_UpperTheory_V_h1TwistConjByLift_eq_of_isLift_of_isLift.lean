@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_h1TwistConjByLift_eq_of_isLift_of_isLift
 -- name    : UpperTheory.V.h1TwistConjByLift_eq_of_isLift_of_isLift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:10.26354+00:00
 -- url     : https://prove2.me/theorems/b85b2b70-f4dd-420c-a968-5e3780e8ad02

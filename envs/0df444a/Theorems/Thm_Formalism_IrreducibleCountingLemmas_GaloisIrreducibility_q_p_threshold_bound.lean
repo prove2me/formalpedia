@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_q_p_threshold_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.q_p_threshold_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:43:57.154112+00:00
 -- url     : https://prove2.me/theorems/44ecb954-0cd2-43b1-990e-30a02697f820

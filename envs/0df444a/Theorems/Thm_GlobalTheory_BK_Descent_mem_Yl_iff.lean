@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Descent_mem_Yl_iff
 -- name    : GlobalTheory.BK.Descent.mem_Yl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:57:11.745651+00:00
 -- url     : https://prove2.me/theorems/3c9aac9c-710c-593a-a589-d2f457d6a79a

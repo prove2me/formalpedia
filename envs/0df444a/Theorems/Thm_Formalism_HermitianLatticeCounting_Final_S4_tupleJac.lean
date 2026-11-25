@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_tupleJac
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.tupleJac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:40:02.885808+00:00
 -- url     : https://prove2.me/theorems/774c26ae-ef58-5a25-9170-7668eecac307

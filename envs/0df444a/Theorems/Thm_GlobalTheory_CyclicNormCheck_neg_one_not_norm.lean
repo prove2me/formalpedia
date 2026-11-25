@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclicNormCheck_neg_one_not_norm
 -- name    : GlobalTheory.CyclicNormCheck.neg_one_not_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:23.750802+00:00
 -- url     : https://prove2.me/theorems/dab1b73b-da03-5fee-9f99-3f73a6ef5ea9

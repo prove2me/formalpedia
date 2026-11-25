@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_ExtendsUnitAt_const_mul
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.ExtendsUnitAt.const_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:00:09.78986+00:00
 -- url     : https://prove2.me/theorems/a3822a01-6af7-4a26-9cf2-4fd70f9e8e2e

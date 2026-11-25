@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_card_shannonTriangleEdge
 -- name    : ShannonColouring.card_shannonTriangleEdge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:51:30.15225+00:00
 -- url     : https://prove2.me/theorems/38e0f7ec-ff56-40d6-9093-ed9d4b8232d3

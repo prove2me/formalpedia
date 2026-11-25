@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_GGMirabolic_Inhab_card_zmod3
 -- name    : Formalism.L2.SG.GGMirabolic.Inhab.card_zmod3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:47:25.549867+00:00
 -- url     : https://prove2.me/theorems/576a89b1-74b8-593a-aa36-2924530b6e4a

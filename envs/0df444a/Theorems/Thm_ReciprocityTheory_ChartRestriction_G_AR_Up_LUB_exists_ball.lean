@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUB_exists_ball
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUB.exists_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:06:51.932797+00:00
 -- url     : https://prove2.me/theorems/8a3047d5-f793-5201-8ef3-35295e08ca90

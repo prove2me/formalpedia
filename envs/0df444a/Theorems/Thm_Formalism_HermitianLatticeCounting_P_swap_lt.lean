@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_swap_lt
 -- name    : Formalism.HermitianLatticeCounting.P.swap_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:47.300209+00:00
 -- url     : https://prove2.me/theorems/2d50c4f1-575d-4d08-8652-8eb635175d98

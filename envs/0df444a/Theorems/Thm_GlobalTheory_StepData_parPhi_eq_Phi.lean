@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_parPhi_eq_Phi
 -- name    : GlobalTheory.StepData.parPhi_eq_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:25:32.080148+00:00
 -- url     : https://prove2.me/theorems/cb9b4be2-ddcf-4fad-96e2-1234a781e755

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isLieBasis_baseChange
 -- name    : GlobalTheory.exists_isLieBasis_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:52:03.701642+00:00
 -- url     : https://prove2.me/theorems/44dda8fa-7aad-49e2-a7c2-4e0b4257d70f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_mean_split_identity
 -- name    : Formalism.FourierDecayAlt.P.mean_split_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:33:29.066799+00:00
 -- url     : https://prove2.me/theorems/ea45c858-52d1-409a-9ac1-c244b2ab9a82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_volAdditive
 -- name    : ReciprocityTheory.L2DbarEstimates.volAdditive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:01:39.435688+00:00
 -- url     : https://prove2.me/theorems/6e7c2439-6e8f-4aa5-b205-61db1b431a99

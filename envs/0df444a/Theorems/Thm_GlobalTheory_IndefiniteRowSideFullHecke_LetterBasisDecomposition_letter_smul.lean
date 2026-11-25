@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LetterBasisDecomposition_letter_smul
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LetterBasisDecomposition.letter_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:53.731224+00:00
 -- url     : https://prove2.me/theorems/b9b10399-1d96-4fca-ae11-0315d57c3315

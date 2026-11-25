@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SupLawProbe_laws_of_no_comp
 -- name    : GlobalTheory.SupLawProbe.laws_of_no_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:24:56.966979+00:00
 -- url     : https://prove2.me/theorems/d2c99fe7-beab-5857-a485-80fe111f58dc

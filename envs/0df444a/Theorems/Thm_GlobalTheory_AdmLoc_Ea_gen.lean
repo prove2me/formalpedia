@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_Ea_gen
 -- name    : GlobalTheory.AdmLoc.Ea_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:26.993063+00:00
 -- url     : https://prove2.me/theorems/4f4a074a-cefb-51da-b7ee-338f126ad04b

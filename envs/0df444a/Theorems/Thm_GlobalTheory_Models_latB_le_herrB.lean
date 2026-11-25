@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_latB_le_herrB
 -- name    : GlobalTheory.Models.latB_le_herrB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:54.497647+00:00
 -- url     : https://prove2.me/theorems/fa5cd62f-8ff2-5f5b-83ab-5e2c2168af8e

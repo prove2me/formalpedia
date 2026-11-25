@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_isSplitting_embO
 -- name    : GlobalTheory.HTLat.isSplitting_embO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:33.511718+00:00
 -- url     : https://prove2.me/theorems/08ed4a90-3a84-45b4-aac8-e3055830d42c

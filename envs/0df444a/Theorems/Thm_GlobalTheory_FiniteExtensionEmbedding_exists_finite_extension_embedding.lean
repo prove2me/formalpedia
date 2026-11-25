@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteExtensionEmbedding_exists_finite_extension_embedding
 -- name    : GlobalTheory.FiniteExtensionEmbedding.exists_finite_extension_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:11.624689+00:00
 -- url     : https://prove2.me/theorems/3e6d4cc6-1eb6-4876-b3ea-f2a8a61f6dfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_top_unit_heads
 -- name    : Formalism.FourierDecayAlt.P.top_unit_heads
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:39.754104+00:00
 -- url     : https://prove2.me/theorems/a3d03064-f0c0-5bc7-9fa0-83c1c5cbdbb1

@@ -33202,8 +33202,8 @@
 {"parent": "AvramDividend.Classical.avram_a52_original_gaussian_conull_cadlag_no_positive_jumps_raw_adapted_20261114", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a52_original_gaussian_conull_cadlag_no_positive_jumps_raw_adapted_20261114", "child": "AvramDividend.Classical.avram_a39_original_gaussian_raw_adapted_zero_start_ae_continuous_representative_20261114", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLowSlabNinthCell05", "child": "row23_rh_supp_RHLowSlabNinthPilot", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.downwardFirstPassageUndershootLaw", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.downwardFirstPassageUndershootLaw", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.downwardFirstPassageUndershootLaw", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "Kyprianou.Ch04.downwardFirstPassageUndershootLaw", "child": "Kyprianou_Ch03_EntryAndHittingTimes", "via": ["solution", "statement"]}
 {"parent": "QuantumLTF.Membership.QueryTree_run_map", "child": "QuantumLTF_Membership_boundarySearchTree", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a28_original_finiteactivity_unconditional_void_negative_annulus_20261114", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "APFB05.relation_residue_ge_floor_sub_shared", "child": "APFPaper5_K1_SharedCost", "via": ["solution", "statement"]}
@@ -54043,7 +54043,7 @@
 {"parent": "RGMISFast.dsSum_measurable", "child": "RGMISFast_Y", "via": ["solution", "statement"]}
 {"parent": "LowDiameterNashWilliams.Main.Supplement.lemma_7_3", "child": "LowDiameterNashWilliams_Main_Supplement_Promises", "via": ["statement"]}
 {"parent": "UnaryParityLifting_Exact_Supplement_reversible", "child": "UnaryParityLifting_Exact_Supplement_encoding", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_5_iv_goalV2", "child": "Kyprianou_Ch04_Exercise4_5Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_5_iv_goalV2", "child": "Kyprianou_Ch04_Exercise4_5Certification", "via": ["solution", "statement"]}
 {"parent": "MulticalibrationGGM_Reduction_Supplement_Forecaster", "child": "MulticalibrationGGM_Reduction_Model", "via": ["statement"]}
 {"parent": "HamSimTradeoff_AncillaDepth_Supplement_Histories", "child": "HamSimTradeoff_AncillaDepth_Supplement_LCU", "via": ["statement"]}
 {"parent": "MatroidSensOracle.Supplement.theorem_5_9", "child": "MatroidSensOracle_Supplement_OracleModels", "via": ["statement"]}
@@ -54434,7 +54434,7 @@
 {"parent": "ContractionLemma.Supplement.theorem_12_simulating_time_classes", "child": "ContractionLemma_RunsWithin", "via": ["statement"]}
 {"parent": "ContractionLemma.Supplement.theorem_12_simulating_time_classes", "child": "ContractionLemma_Supplement_Classes", "via": ["statement"]}
 {"parent": "DynOracleConn.Supplement.theorem_3", "child": "DynOracleConn_Supplement_Incremental", "via": ["statement"]}
-{"parent": "DeMorganApprox.Main.Supplement.theorem_6_1", "child": "DeMorganApprox_Main_Supplement_Multilinearize", "via": ["statement"]}
+{"parent": "DeMorganApprox.Main.Supplement.theorem_6_1", "child": "DeMorganApprox_Main_Supplement_Multilinearize", "via": ["solution", "statement"]}
 {"parent": "DeMorganApprox.Main.Supplement.theorem_6_1", "child": "DeMorganApprox_Main_Basic", "via": ["statement"]}
 {"parent": "GL2QFT_Supplement_Wreath", "child": "GL2QFT_Supplement_RepTheory", "via": ["statement"]}
 {"parent": "GL2QFT_Supplement_Wreath", "child": "OddOrder_Isaacs_Ch03_SplitExtensions_WreathProduct", "via": ["statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_independence_bound_all_charts_of_coefficient_identity
 -- name    : Formalism.L2.FormalSeriesBounds.independence_bound_all_charts_of_coefficient_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:45.905984+00:00
 -- url     : https://prove2.me/theorems/4955aee0-6729-4783-8184-8b4327402428

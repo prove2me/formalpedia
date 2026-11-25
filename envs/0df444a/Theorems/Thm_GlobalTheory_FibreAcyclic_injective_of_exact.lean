@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreAcyclic_injective_of_exact
 -- name    : GlobalTheory.FibreAcyclic.injective_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:18.991673+00:00
 -- url     : https://prove2.me/theorems/d97689e2-d85c-4551-aac7-a52dec623a87

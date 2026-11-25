@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_nsmul_of_same_red
 -- name    : ReciprocityTheory.PGsh.BX.nsmul_of_same_red
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:05:44.856186+00:00
 -- url     : https://prove2.me/theorems/0bb9caa0-39b1-4d90-a865-3619e02237fa

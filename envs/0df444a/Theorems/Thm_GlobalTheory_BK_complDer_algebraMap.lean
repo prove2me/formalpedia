@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_complDer_algebraMap
 -- name    : GlobalTheory.BK.complDer_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:56:11.848532+00:00
 -- url     : https://prove2.me/theorems/6a69c31f-8ee4-5028-abfd-05fa0de0c77d

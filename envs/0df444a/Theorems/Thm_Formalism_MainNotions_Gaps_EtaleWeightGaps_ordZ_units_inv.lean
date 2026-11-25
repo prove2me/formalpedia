@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_ordZ_units_inv
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.ordZ_units_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:49:48.963716+00:00
 -- url     : https://prove2.me/theorems/baca973a-163c-5a96-a529-12e6bf464226

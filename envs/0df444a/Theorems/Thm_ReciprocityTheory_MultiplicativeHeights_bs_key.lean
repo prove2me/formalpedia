@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_bs_key
 -- name    : ReciprocityTheory.MultiplicativeHeights.bs_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:38.615834+00:00
 -- url     : https://prove2.me/theorems/42c26149-edee-4b7e-835c-755c7a9e497f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WeilCoinv_exists_eq_mul_apply_zero
 -- name    : GlobalTheory.CompanionTheory.WeilCoinv.exists_eq_mul_apply_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:01:45.301544+00:00
 -- url     : https://prove2.me/theorems/11adb4c1-8a3c-4a2d-8571-37b70439ed26

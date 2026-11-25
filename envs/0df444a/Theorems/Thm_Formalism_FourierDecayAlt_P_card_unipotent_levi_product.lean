@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_card_unipotent_levi_product
 -- name    : Formalism.FourierDecayAlt.P.card_unipotent_levi_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:38.247664+00:00
 -- url     : https://prove2.me/theorems/11abd860-a31c-402e-bfff-6cc62a05685c

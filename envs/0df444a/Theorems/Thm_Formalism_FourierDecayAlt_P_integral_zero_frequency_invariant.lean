@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_integral_zero_frequency_invariant
 -- name    : Formalism.FourierDecayAlt.P.integral_zero_frequency_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:34:45.784845+00:00
 -- url     : https://prove2.me/theorems/8291fa7b-1871-5d26-9f55-5609781bdc67

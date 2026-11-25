@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_scaleTies_unique_def
 -- name    : Formalism.L2.Indef.Tree.scaleTies_unique_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:49:16.894802+00:00
 -- url     : https://prove2.me/theorems/0937af7d-9731-5325-94d3-5858be69cefe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyCx_exists_dominant_component
 -- name    : GlobalTheory.KeyCx.exists_dominant_component
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:14:49.687861+00:00
 -- url     : https://prove2.me/theorems/6bbc36a7-778b-5b6c-89ac-4a5e28873332

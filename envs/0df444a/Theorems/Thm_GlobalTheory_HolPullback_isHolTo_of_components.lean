@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolPullback_isHolTo_of_components
 -- name    : GlobalTheory.HolPullback.isHolTo_of_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:53:50.450856+00:00
 -- url     : https://prove2.me/theorems/5fa7665b-e571-56cb-882e-8584d9fad173

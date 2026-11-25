@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifZero_scal_bijective
 -- name    : GlobalTheory.UnifZero.scal_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:09:55.306135+00:00
 -- url     : https://prove2.me/theorems/1de0da12-df29-569d-ae81-fa4885da245c

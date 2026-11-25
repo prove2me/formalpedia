@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_condN_mul_notMem
 -- name    : Formalism.HC.HostAx.condN_mul_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:14.786979+00:00
 -- url     : https://prove2.me/theorems/2def362a-719f-53f4-9c85-a8ede497d192

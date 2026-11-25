@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChernCalc_sum_trace_pow_mul_sub_mul_pow
 -- name    : GlobalTheory.ChernCalc.sum_trace_pow_mul_sub_mul_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:14.031849+00:00
 -- url     : https://prove2.me/theorems/6bd46ef4-78d8-4334-a145-c0db0d1b1916

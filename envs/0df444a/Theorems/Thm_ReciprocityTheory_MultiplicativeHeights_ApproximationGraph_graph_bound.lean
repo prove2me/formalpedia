@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_graph_bound
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.graph_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:12.643121+00:00
 -- url     : https://prove2.me/theorems/36980e32-707f-49fd-9ff2-1db444aa4a98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasFDerivAt_of_continuous_coordinate_derivs
 -- name    : GlobalTheory.T.hasFDerivAt_of_continuous_coordinate_derivs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:49.523751+00:00
 -- url     : https://prove2.me/theorems/25531e53-ae43-4499-88da-7ffa912b0ca4

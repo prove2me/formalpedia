@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_extendedWeightWeylDimension_sum_step
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.extendedWeightWeylDimension.sum_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:49.617734+00:00
 -- url     : https://prove2.me/theorems/c45793c1-5a6c-587b-98fb-447e86d57835

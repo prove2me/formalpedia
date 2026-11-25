@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupRingConst_pt_comp_algebraMap
 -- name    : GlobalTheory.GroupRingConst.pt_comp_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:34:21.877856+00:00
 -- url     : https://prove2.me/theorems/00ac22bd-a936-5321-81d9-45e4abacffe9

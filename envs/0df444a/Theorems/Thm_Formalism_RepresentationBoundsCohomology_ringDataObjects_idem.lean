@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_idem
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:53:28.788667+00:00
 -- url     : https://prove2.me/theorems/17939fd3-911d-470e-97d7-517ec1ff0361

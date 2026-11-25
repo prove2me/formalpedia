@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_hermitian_curvature_degree_count
 -- name    : Formalism.FourierDecayAlt.P.hermitian_curvature_degree_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:48:43.258854+00:00
 -- url     : https://prove2.me/theorems/b7015e15-da41-5d5d-8c9c-ad8ebb1f9b8c

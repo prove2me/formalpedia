@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_ht_block_zero
 -- name    : ReciprocityTheory.PGsh.Up.ht_block_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:06:42.678659+00:00
 -- url     : https://prove2.me/theorems/65642779-5bd6-4bce-b262-3a989c8cc71f

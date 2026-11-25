@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZM_eval__homogeneousComponent_eq_zero_54174413d35c
 -- name    : P2M_GlobalTheory_ZM_eval__homogeneousComponent_eq_zero_54174413d35c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:50:58.547877+00:00
 -- url     : https://prove2.me/theorems/356f1a83-5863-491e-ba7d-47e6dc7868c9

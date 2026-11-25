@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_simpleSum_row_col
 -- name    : GlobalTheory.RootEx.Model.simpleSum_row_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:23.253478+00:00
 -- url     : https://prove2.me/theorems/9051a288-175e-5e3e-a46c-9d6d6661f360

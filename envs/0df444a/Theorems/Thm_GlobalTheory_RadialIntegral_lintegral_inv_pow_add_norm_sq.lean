@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RadialIntegral_lintegral_inv_pow_add_norm_sq
 -- name    : GlobalTheory.RadialIntegral.lintegral_inv_pow_add_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:19:38.462628+00:00
 -- url     : https://prove2.me/theorems/4a145ec9-80e0-420e-a6ba-5d751e4abbf2

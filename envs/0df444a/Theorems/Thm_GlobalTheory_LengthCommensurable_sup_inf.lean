@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_sup_inf
 -- name    : GlobalTheory.LengthCommensurable.sup_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:31.322976+00:00
 -- url     : https://prove2.me/theorems/0d467323-d231-45e8-b34a-97a1ba868842

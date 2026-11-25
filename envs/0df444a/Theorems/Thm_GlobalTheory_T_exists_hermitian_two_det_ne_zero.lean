@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_hermitian_two_det_ne_zero
 -- name    : GlobalTheory.T.exists_hermitian_two_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:12.014811+00:00
 -- url     : https://prove2.me/theorems/ecca707e-9d39-563d-aa7b-f800e3489275

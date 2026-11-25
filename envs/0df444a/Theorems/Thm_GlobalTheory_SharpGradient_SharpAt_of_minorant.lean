@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_SharpAt_of_minorant
 -- name    : GlobalTheory.SharpGradient.SharpAt.of_minorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:12:35.878882+00:00
 -- url     : https://prove2.me/theorems/4e007f11-4acb-541f-8b53-26874de23823

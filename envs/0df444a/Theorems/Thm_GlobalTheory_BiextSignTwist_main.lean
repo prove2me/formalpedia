@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BiextSignTwist_main
 -- name    : GlobalTheory.BiextSignTwist.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:56:48.129007+00:00
 -- url     : https://prove2.me/theorems/c505b650-3cb8-562e-8f5b-1b5690d1e8e2

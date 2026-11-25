@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_det_character_reduction_invariant
 -- name    : GlobalTheory.T.det_character_reduction_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:27:58.408917+00:00
 -- url     : https://prove2.me/theorems/ce6f9f2a-b3e4-5b8c-a463-7d095df47806

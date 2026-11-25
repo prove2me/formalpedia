@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SphereMeanDrop_isProbabilityMeasure_gaussProb
 -- name    : GlobalTheory.SphereMeanDrop.isProbabilityMeasure_gaussProb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:07:13.150698+00:00
 -- url     : https://prove2.me/theorems/503bb111-6be3-4e2f-b148-4c330890eac5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamSpan_span_term
 -- name    : GlobalTheory.FamSpan.span_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:05.887318+00:00
 -- url     : https://prove2.me/theorems/b6b13550-1710-4067-9c8e-5615e92bd616

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_powVal_ext
 -- name    : GlobalTheory.FieldBaseChange.powVal_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:57:12.138705+00:00
 -- url     : https://prove2.me/theorems/42acc29f-7e97-5723-a6af-d4c92a02a85d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_NPB_ae_gen
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.NPB.ae_gen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:03:00.278178+00:00
 -- url     : https://prove2.me/theorems/c0d72a48-ca69-4bcd-99e6-f1384058eedb

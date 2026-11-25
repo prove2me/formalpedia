@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fSatake_ord_inv
 -- name    : Formalism.UG.P.fSatake_ord_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:29.643154+00:00
 -- url     : https://prove2.me/theorems/0ebfdcc4-c932-4cc5-8238-de9b731339e8

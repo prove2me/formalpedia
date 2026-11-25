@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_orthOfMackey
 -- name    : Formalism.EigenvalueLevelCeiling.orthOfMackey
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:28:58.452874+00:00
 -- url     : https://prove2.me/theorems/a88104c0-a21f-4d36-829b-2745c18fbe48

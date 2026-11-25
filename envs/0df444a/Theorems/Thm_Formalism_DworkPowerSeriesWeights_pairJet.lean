@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_pairJet
 -- name    : Formalism.DworkPowerSeriesWeights.pairJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:48:35.001223+00:00
 -- url     : https://prove2.me/theorems/96fe8e02-5bd6-57d9-864c-657f0b6cb02d

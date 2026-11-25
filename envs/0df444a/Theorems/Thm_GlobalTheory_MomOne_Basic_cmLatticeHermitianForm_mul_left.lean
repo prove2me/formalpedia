@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Basic_cmLatticeHermitianForm_mul_left
 -- name    : GlobalTheory.MomOne.Basic.cmLatticeHermitianForm_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:15.174326+00:00
 -- url     : https://prove2.me/theorems/73a2e95a-6b72-4d79-8482-05b5a036e2a9

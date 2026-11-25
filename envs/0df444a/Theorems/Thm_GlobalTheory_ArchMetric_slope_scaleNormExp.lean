@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_slope_scaleNormExp
 -- name    : GlobalTheory.ArchMetric.slope_scaleNormExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:57:12.14455+00:00
 -- url     : https://prove2.me/theorems/91f886b3-b1b8-49b8-a429-1a053dc6071c

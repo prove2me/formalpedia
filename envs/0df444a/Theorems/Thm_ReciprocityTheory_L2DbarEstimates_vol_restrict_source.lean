@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_vol_restrict_source
 -- name    : ReciprocityTheory.L2DbarEstimates.vol_restrict_source
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:21:17.228797+00:00
 -- url     : https://prove2.me/theorems/42794893-331f-401b-91a3-6b2403f73073

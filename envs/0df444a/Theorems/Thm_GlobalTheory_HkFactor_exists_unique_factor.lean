@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HkFactor_exists_unique_factor
 -- name    : GlobalTheory.HkFactor.exists_unique_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:04:57.56431+00:00
 -- url     : https://prove2.me/theorems/7c587883-2787-4e5e-b4ab-7528a8498e93

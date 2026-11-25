@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_harmLink_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.harmLink_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:57:44.565272+00:00
 -- url     : https://prove2.me/theorems/cf123132-7f46-5734-8f51-e787830844e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_kernel_bounds_of_uniform_exponent
 -- name    : Formalism.InvariantFactorPaths.G7.kernel_bounds_of_uniform_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:43:34.258952+00:00
 -- url     : https://prove2.me/theorems/3b4bce92-07be-5bb7-a172-f7a44f4a891e

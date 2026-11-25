@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_t_PRatioMiddle
 -- name    : Formalism.FourierDecayAlt.P.LEx2.t_PRatioMiddle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:45.957874+00:00
 -- url     : https://prove2.me/theorems/0e34c4a4-7b2d-400f-b996-4c5e6ac8cd97

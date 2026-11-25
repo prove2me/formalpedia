@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeSplit_mem_perp
 -- name    : GlobalTheory.SelfDualLatticeSplit.mem_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:22:47.432843+00:00
 -- url     : https://prove2.me/theorems/ac4ea715-b738-4eaa-ad4e-068d0361d32f

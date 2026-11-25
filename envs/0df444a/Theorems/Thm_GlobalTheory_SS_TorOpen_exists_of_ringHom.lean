@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorOpen_exists_of_ringHom
 -- name    : GlobalTheory.SS.TorOpen.exists_of_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:14.911491+00:00
 -- url     : https://prove2.me/theorems/c6fe02e3-a2cb-407c-abc9-e845797b5566

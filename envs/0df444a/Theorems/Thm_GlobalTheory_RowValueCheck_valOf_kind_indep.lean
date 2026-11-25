@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowValueCheck_valOf_kind_indep
 -- name    : GlobalTheory.RowValueCheck.valOf_kind_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:40.924229+00:00
 -- url     : https://prove2.me/theorems/ff50030a-ed4c-5f88-b1b3-11b512255df6

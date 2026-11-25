@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedLatticeOperators_IndexDeterminantCharacterSums_root_of_unity_congruence_one
 -- name    : Formalism.HermitianLattices.RamifiedLatticeOperators.IndexDeterminantCharacterSums.root_of_unity_congruence_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:22.698775+00:00
 -- url     : https://prove2.me/theorems/ef45b7d8-7fb6-53eb-ad30-d77dfbf125e0

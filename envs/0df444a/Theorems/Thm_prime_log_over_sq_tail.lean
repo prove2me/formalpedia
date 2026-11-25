@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_prime_log_over_sq_tail
 -- name    : prime_log_over_sq_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:15:52.47665+00:00
 -- url     : https://prove2.me/theorems/ca150f0d-dcdb-4318-ab02-002c07eb61c3

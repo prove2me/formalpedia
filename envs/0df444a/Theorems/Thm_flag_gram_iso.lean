@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_flag_gram_iso
 -- name    : flag_gram_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:14:29.62141+00:00
 -- url     : https://prove2.me/theorems/abde8b35-02e8-4b97-8845-5e2b37d1b03b

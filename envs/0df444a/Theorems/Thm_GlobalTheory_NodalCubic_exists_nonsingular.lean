@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NodalCubic_exists_nonsingular
 -- name    : GlobalTheory.NodalCubic.exists_nonsingular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:54:22.193813+00:00
 -- url     : https://prove2.me/theorems/b6e93fee-0b96-4894-8416-26e1a8ef6051

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSemiAbelian_of_isAbelianScheme
 -- name    : GlobalTheory.isSemiAbelian_of_isAbelianScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:45:32.120175+00:00
 -- url     : https://prove2.me/theorems/b027a18f-7da1-477b-a982-686385620d81

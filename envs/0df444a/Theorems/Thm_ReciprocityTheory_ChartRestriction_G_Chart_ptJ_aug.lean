@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_ptJ_aug
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.ptJ_aug
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:36:27.6348+00:00
 -- url     : https://prove2.me/theorems/3578a3f1-4b21-481c-affe-f1346ac9ef32

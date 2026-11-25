@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LBLimit_exists_refinement_of_isLimit
 -- name    : GlobalTheory.LBLimit.exists_refinement_of_isLimit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:41:26.827696+00:00
 -- url     : https://prove2.me/theorems/4c6782ae-c034-4ae1-bde7-9b221bf069ba

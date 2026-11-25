@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SpecialFibreUnits_hyp_spec
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SpecialFibreUnits.hyp_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:04.342811+00:00
 -- url     : https://prove2.me/theorems/effe7a3a-47bf-4f63-95ec-a1b4bc38af9f

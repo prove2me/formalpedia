@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalModelGuards_exists_lift
 -- name    : GlobalTheory.GlobalModelGuards.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:01.083485+00:00
 -- url     : https://prove2.me/theorems/9837b671-fa55-5252-ab55-14bcb95801d1

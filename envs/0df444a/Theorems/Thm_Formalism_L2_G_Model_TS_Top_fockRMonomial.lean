@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_Top_fockRMonomial
 -- name    : Formalism.L2.G.Model.TS.Top.fockRMonomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:46:53.541886+00:00
 -- url     : https://prove2.me/theorems/bc10ddc3-8b6b-5d11-8fd2-038e4828fe77

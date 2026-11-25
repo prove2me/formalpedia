@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConjIdeal_level_rigidity
 -- name    : GlobalTheory.ConjIdeal.level_rigidity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:02:29.018414+00:00
 -- url     : https://prove2.me/theorems/628cfbb5-132f-5121-ba8b-485194fdfcb8

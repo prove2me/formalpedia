@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_Bw_pos
 -- name    : GlobalTheory.AnArc.Bw_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:55:43.96766+00:00
 -- url     : https://prove2.me/theorems/7d265f96-3006-42ba-8496-ad0d854b2214

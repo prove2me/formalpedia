@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_NbAvg_ccT_mem_carry
 -- name    : GlobalTheory.SW.NbAvg.ccT_mem_carry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:43:48.294888+00:00
 -- url     : https://prove2.me/theorems/baec2aa1-21d5-4e03-9f9c-5f236c80fab1

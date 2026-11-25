@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_sum_upPairs
 -- name    : GlobalTheory.BorelUMod.sum_upPairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:00:12.140963+00:00
 -- url     : https://prove2.me/theorems/8222655c-3514-4bc2-a0be-c16063c79a43

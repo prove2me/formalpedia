@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeuralCollapseUFM_ce_loss_lower_bound
 -- name    : NeuralCollapseUFM.ce_loss_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:16:45.00486+00:00
 -- url     : https://prove2.me/theorems/022b5561-3a69-4c9b-b3ff-4d8d155e084b

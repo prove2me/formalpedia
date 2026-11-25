@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_multilinear_vanish_lattice
 -- name    : UpperTheory.multilinear_vanish_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:31:13.730421+00:00
 -- url     : https://prove2.me/theorems/43bdbb84-0471-468a-9565-01c0d3337b90

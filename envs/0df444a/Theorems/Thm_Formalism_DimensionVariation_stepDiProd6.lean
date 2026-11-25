@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_stepDiProd6
 -- name    : Formalism.DimensionVariation.stepDiProd6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:34.776017+00:00
 -- url     : https://prove2.me/theorems/c88ffc07-f326-5916-8d1f-471266abb300

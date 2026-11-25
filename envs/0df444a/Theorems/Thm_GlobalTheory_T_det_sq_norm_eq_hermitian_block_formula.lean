@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_det_sq_norm_eq_hermitian_block_formula
 -- name    : GlobalTheory.T.det_sq_norm_eq_hermitian_block_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:13.240566+00:00
 -- url     : https://prove2.me/theorems/4e502a33-d9f3-4f7c-a20b-96c9c26625b9

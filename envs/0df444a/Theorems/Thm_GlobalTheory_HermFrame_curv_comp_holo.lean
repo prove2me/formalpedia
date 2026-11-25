@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_curv_comp_holo
 -- name    : GlobalTheory.HermFrame.curv_comp_holo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:07:00.370634+00:00
 -- url     : https://prove2.me/theorems/57eb3c33-5a50-424c-8f00-6bfa73cf8d83

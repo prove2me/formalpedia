@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schroedingerOperatorHeisenberg_inner_preserving
 -- name    : GlobalTheory.T.schroedingerOperatorHeisenberg_inner_preserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:29.233853+00:00
 -- url     : https://prove2.me/theorems/4bfab146-b52f-4a05-8171-6a25be376aa0

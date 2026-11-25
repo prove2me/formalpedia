@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDescent_pullLE_injective
 -- name    : GlobalTheory.TraceDescent.pullLE_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:50:58.397736+00:00
 -- url     : https://prove2.me/theorems/8a1a5bdb-d2cd-4a7a-872d-e566da6f4529

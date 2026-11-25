@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WhitFree_AvgInf_Dens_pairC_nondeg
 -- name    : GlobalTheory.CompanionTheory.WhitFree.AvgInf.Dens.pairC_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:59.557926+00:00
 -- url     : https://prove2.me/theorems/a893b8c5-71c2-417b-b3f4-9f9114fb00c3

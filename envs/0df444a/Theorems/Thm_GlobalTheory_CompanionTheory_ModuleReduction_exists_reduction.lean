@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ModuleReduction_exists_reduction
 -- name    : GlobalTheory.CompanionTheory.ModuleReduction.exists_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:48.373084+00:00
 -- url     : https://prove2.me/theorems/d407c2e9-c531-44c0-9ef5-218b614b6570

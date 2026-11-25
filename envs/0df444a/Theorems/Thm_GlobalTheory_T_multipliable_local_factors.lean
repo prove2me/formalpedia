@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_multipliable_local_factors
 -- name    : GlobalTheory.T.multipliable_local_factors
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:36:33.774142+00:00
 -- url     : https://prove2.me/theorems/7e07ef04-1b6e-498e-a352-9a084ef23469

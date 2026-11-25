@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldRestrictionTest_isPullF_iff_isPull
 -- name    : GlobalTheory.FieldRestrictionTest.isPullF_iff_isPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:42:09.235687+00:00
 -- url     : https://prove2.me/theorems/571fcc4d-b460-563f-aa73-1a62f6d70a72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_pure_weight_formula
 -- name    : Formalism.DworkPowerSeriesWeights.pure_weight_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:43.845167+00:00
 -- url     : https://prove2.me/theorems/b53e9f4a-5215-4bd0-8b94-80c93f2813ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_form_ideal_pair_of_vectors
 -- name    : GlobalTheory.T.lattice_form_ideal_pair_of_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:42.731578+00:00
 -- url     : https://prove2.me/theorems/46be15ee-4bdb-49df-9f06-c925304c6c70

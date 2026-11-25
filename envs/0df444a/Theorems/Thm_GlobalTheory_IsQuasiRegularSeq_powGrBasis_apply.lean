@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_powGrBasis_apply
 -- name    : GlobalTheory.IsQuasiRegularSeq.powGrBasis_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:53.376839+00:00
 -- url     : https://prove2.me/theorems/8bee95c8-093a-5718-b2e2-9609af590cd3

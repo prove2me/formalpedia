@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_DiffUnit_norm_two
 -- name    : GlobalTheory.Klein.DiffUnit.norm_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:12:20.983936+00:00
 -- url     : https://prove2.me/theorems/e853e2b4-3bfb-5338-b65b-b0dffc664936

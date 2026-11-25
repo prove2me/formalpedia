@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_LowBaseChange_one_tmul_eq_zero_iff
 -- name    : GlobalTheory.AbCoh.LowBaseChange.one_tmul_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:04:38.155098+00:00
 -- url     : https://prove2.me/theorems/530123c7-2972-59fe-a356-4129ca764b41

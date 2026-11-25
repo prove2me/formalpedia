@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpFamRel_transfer_pt
 -- name    : GlobalTheory.SharpFamRel.transfer_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:03.38912+00:00
 -- url     : https://prove2.me/theorems/69dc5795-0127-4819-ac88-d60d6cdea45f

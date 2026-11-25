@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MixedSignature_isOrth_update_mul_inv
 -- name    : GlobalTheory.MixedSignature.isOrth_update_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:56:10.079593+00:00
 -- url     : https://prove2.me/theorems/1b2a62ed-ae7c-4f99-a52b-0fca1573256c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_StandardFourierShortSpan_SpanCanonical_neZero
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.StandardFourierShortSpan.SpanCanonical.neZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:20.007866+00:00
 -- url     : https://prove2.me/theorems/ef8d3772-e29d-4767-be3a-ce23f120775d

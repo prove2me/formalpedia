@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AdelicDegreeTameRamification_LFunction_one_ne_zero
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AdelicDegreeTameRamification.LFunction_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:36:08.667418+00:00
 -- url     : https://prove2.me/theorems/0a7a6624-184a-484c-b76e-52f512d87d08

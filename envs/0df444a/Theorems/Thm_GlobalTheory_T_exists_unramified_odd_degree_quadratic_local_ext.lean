@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unramified_odd_degree_quadratic_local_ext
 -- name    : GlobalTheory.T.exists_unramified_odd_degree_quadratic_local_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:47:40.373696+00:00
 -- url     : https://prove2.me/theorems/c3931289-103a-45ab-b292-35ef9414feb7

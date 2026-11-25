@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_conjRep_of_mem
 -- name    : UpperTheory.V.Base.conjRep_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:59.990214+00:00
 -- url     : https://prove2.me/theorems/9d4b6074-4a47-42a2-a23e-2ae12248dab4

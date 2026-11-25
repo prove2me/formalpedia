@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_aeval_eq_sum_adt
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.aeval_eq_sum_adt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:08:52.010745+00:00
 -- url     : https://prove2.me/theorems/b52c3b1e-2a77-49a9-b1c2-f8482fc120bd

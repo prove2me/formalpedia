@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_finite_assPoints
 -- name    : GlobalTheory.QCoh.finite_assPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:18:36.459908+00:00
 -- url     : https://prove2.me/theorems/4db3f2c4-1c4c-5c69-ab89-98d4df821db5

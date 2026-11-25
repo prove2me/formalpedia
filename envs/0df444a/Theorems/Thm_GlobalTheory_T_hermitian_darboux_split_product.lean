@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_darboux_split_product
 -- name    : GlobalTheory.T.hermitian_darboux_split_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:50.862812+00:00
 -- url     : https://prove2.me/theorems/97d38641-f386-4073-9c7a-ba0398835b9a

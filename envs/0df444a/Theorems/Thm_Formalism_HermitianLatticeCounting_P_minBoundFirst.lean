@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_minBoundFirst
 -- name    : Formalism.HermitianLatticeCounting.P.minBoundFirst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:38:57.365315+00:00
 -- url     : https://prove2.me/theorems/844c027c-7e17-5c86-8979-88cb499d1052

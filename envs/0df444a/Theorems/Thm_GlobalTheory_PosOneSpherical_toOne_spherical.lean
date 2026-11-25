@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PosOneSpherical_toOne_spherical
 -- name    : GlobalTheory.PosOneSpherical.toOne_spherical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:20.349626+00:00
 -- url     : https://prove2.me/theorems/1b26ffc3-89be-5533-a270-6f9e85174112

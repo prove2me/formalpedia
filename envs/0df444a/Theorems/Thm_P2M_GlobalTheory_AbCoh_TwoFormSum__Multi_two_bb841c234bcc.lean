@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_AbCoh_TwoFormSum__Multi_two_bb841c234bcc
 -- name    : P2M_GlobalTheory_AbCoh_TwoFormSum__Multi_two_bb841c234bcc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:01:47.301856+00:00
 -- url     : https://prove2.me/theorems/691273c6-4614-5dd2-bc38-2eff825045b5

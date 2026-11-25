@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_pairing_orthogonal_complement
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.pairing_orthogonal_complement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:38.22978+00:00
 -- url     : https://prove2.me/theorems/2983336b-1afa-5b81-9085-de9ad35e5acb

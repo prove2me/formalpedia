@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_tendsto_primeIdealZetaSum_univ
 -- name    : ReciprocityTheory.Neutral.Bridge.tendsto_primeIdealZetaSum_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:06:25.702597+00:00
 -- url     : https://prove2.me/theorems/688b5ebc-a487-544f-9b3f-620da1d32afe

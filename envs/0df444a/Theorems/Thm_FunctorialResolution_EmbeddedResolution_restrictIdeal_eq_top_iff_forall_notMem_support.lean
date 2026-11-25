@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_restrictIdeal_eq_top_iff_forall_notMem_support
 -- name    : FunctorialResolution.EmbeddedResolution.restrictIdeal_eq_top_iff_forall_notMem_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:44.951277+00:00
 -- url     : https://prove2.me/theorems/c3107d20-ac2e-45af-a564-3ed18fafacf1

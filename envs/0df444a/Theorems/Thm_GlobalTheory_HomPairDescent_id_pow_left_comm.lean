@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomPairDescent_id_pow_left_comm
 -- name    : GlobalTheory.HomPairDescent.id_pow_left_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:53:14.245914+00:00
 -- url     : https://prove2.me/theorems/9048db8b-150d-55ec-9e40-617fafb87301

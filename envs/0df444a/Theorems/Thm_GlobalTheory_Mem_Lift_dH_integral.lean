@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Lift_dH_integral
 -- name    : GlobalTheory.Mem.Lift.dH_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:42.553143+00:00
 -- url     : https://prove2.me/theorems/531de8c9-3b37-58a5-bd20-3f65270213ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExplicitEstimates_explicit_zeta_bound_rank_five
 -- name    : Formalism.HermitianLattices.ExplicitEstimates.explicit_zeta_bound_rank_five
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:40:14.676469+00:00
 -- url     : https://prove2.me/theorems/785c3728-cce3-4a55-976f-c9f2febb02c4

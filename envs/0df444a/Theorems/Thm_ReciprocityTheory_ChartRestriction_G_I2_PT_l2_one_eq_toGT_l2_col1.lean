@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_PT_l2_one_eq_toGT_l2_col1
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.PT.l2_one_eq_toGT_l2_col1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:01:23.677176+00:00
 -- url     : https://prove2.me/theorems/a538e6d5-263a-4a15-907e-624f68cad27d

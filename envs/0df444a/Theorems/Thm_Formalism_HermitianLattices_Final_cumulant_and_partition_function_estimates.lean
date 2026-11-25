@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Final_cumulant_and_partition_function_estimates
 -- name    : Formalism.HermitianLattices.Final.cumulant_and_partition_function_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:14.862793+00:00
 -- url     : https://prove2.me/theorems/6604e1c1-539a-457b-ab08-6562599b068b

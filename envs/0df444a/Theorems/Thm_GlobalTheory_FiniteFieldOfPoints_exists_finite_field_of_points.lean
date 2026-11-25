@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteFieldOfPoints_exists_finite_field_of_points
 -- name    : GlobalTheory.FiniteFieldOfPoints.exists_finite_field_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:04:52.234023+00:00
 -- url     : https://prove2.me/theorems/296783cb-8d1b-57fd-8f1a-bce52a0f5399

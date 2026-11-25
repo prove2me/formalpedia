@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Alg_coeff_wcomp
 -- name    : UpperTheory.V.Alg.coeff_wcomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:13:14.311775+00:00
 -- url     : https://prove2.me/theorems/a161b4c9-e307-453a-9eaf-d85b209b64c6

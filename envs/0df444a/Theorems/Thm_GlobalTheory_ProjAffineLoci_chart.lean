@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjAffineLoci_chart
 -- name    : GlobalTheory.ProjAffineLoci.chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:19:45.552994+00:00
 -- url     : https://prove2.me/theorems/34f91f17-d36a-40fc-b333-ad39a0e52790

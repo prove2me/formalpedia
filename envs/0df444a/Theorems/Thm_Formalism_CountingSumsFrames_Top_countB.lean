@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_countB
 -- name    : Formalism.CountingSumsFrames.Top.countB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:22:48.498971+00:00
 -- url     : https://prove2.me/theorems/e55a7f60-dc91-5843-8f18-fdabfa10ec9a

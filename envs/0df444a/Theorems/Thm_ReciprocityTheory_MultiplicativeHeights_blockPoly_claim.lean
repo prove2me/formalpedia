@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_blockPoly_claim
 -- name    : ReciprocityTheory.MultiplicativeHeights.blockPoly_claim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:03:32.612857+00:00
 -- url     : https://prove2.me/theorems/a3c74eb8-8d6a-426e-b5a0-db4e0c17ec92

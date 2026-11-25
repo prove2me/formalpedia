@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_prime_of_mem_Bchi
 -- name    : UpperTheory.V.prime_of_mem_Bchi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:13:17.774937+00:00
 -- url     : https://prove2.me/theorems/9fae54ad-94b0-4420-9236-6dbe3b66e851

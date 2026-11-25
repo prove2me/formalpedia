@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_JetIntegrality_subst_single_var
 -- name    : Formalism.L2.Th1.E.JetIntegrality.subst_single_var
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:52:44.968176+00:00
 -- url     : https://prove2.me/theorems/96310329-8a0b-5b56-ab0d-583179f0ca30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_congruence_subgroups_open_compact
 -- name    : GlobalTheory.T.lattice_congruence_subgroups_open_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:39.49231+00:00
 -- url     : https://prove2.me/theorems/aedd2c9c-1dc6-567d-8106-9e55e9885b85

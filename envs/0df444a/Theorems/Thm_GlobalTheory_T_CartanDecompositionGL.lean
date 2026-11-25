@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_CartanDecompositionGL
 -- name    : GlobalTheory.T.CartanDecompositionGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:26:06.916289+00:00
 -- url     : https://prove2.me/theorems/7f48c3d0-82bb-5795-87fa-d986a1114e0d

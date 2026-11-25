@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtMove_over_pow
 -- name    : GlobalTheory.ThetaPtMove.over_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:37:40.082013+00:00
 -- url     : https://prove2.me/theorems/8fc1961b-9284-5a78-8ef3-f34481a11a48

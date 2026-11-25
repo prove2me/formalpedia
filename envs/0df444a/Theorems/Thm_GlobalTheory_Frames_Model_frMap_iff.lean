@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_frMap_iff
 -- name    : GlobalTheory.Frames.Model.frMap_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:06:24.499548+00:00
 -- url     : https://prove2.me/theorems/153429ce-e772-5410-ab90-7798cd84ce80

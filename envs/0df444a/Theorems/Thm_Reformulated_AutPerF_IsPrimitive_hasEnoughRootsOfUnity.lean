@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_IsPrimitive_hasEnoughRootsOfUnity
 -- name    : Reformulated.AutPerF.IsPrimitive.hasEnoughRootsOfUnity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:10:30.643334+00:00
 -- url     : https://prove2.me/theorems/9b069ece-49d5-4457-a417-0c266a812838

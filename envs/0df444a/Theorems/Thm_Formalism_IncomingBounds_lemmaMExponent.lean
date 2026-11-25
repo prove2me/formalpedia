@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_lemmaMExponent
 -- name    : Formalism.IncomingBounds.lemmaMExponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:48:59.621799+00:00
 -- url     : https://prove2.me/theorems/3bb74fc4-a422-4030-999e-66e17f53e87f

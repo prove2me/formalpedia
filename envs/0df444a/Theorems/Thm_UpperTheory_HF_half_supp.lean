@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_half_supp
 -- name    : UpperTheory.HF.half_supp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:19:39.469799+00:00
 -- url     : https://prove2.me/theorems/b16c2874-094f-5e15-8010-47f1de152486

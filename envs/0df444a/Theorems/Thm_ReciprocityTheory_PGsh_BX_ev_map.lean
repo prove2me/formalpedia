@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_ev_map
 -- name    : ReciprocityTheory.PGsh.BX.ev_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:05:48.836672+00:00
 -- url     : https://prove2.me/theorems/599e7b03-11bd-52df-9be1-1832c0b7400b

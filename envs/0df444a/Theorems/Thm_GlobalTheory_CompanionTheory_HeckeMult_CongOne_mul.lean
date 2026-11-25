@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMult_CongOne_mul
 -- name    : GlobalTheory.CompanionTheory.HeckeMult.CongOne.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:00:59.801861+00:00
 -- url     : https://prove2.me/theorems/e8ca1a6e-0e13-52bc-bbf4-eca94c30e4db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_blockCoordEquiv_apply
 -- name    : ReciprocityTheory.MultiplicativeHeights.blockCoordEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:03:13.000172+00:00
 -- url     : https://prove2.me/theorems/0d09135b-bf59-4212-ba47-0135edddeea6

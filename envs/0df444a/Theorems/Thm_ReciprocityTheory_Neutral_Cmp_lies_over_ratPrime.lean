@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_lies_over_ratPrime
 -- name    : ReciprocityTheory.Neutral.Cmp.lies_over_ratPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:08:37.175787+00:00
 -- url     : https://prove2.me/theorems/c7004459-2dab-421b-999f-7320b7b594df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkSec_linkSec
 -- name    : GlobalTheory.LinkSec.linkSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:06.057946+00:00
 -- url     : https://prove2.me/theorems/2ee7ec47-330e-51c7-b146-fbda7b216adb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagonalKeyIdentity_main
 -- name    : GlobalTheory.DiagonalKeyIdentity.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:52.045842+00:00
 -- url     : https://prove2.me/theorems/2833b3e4-e75e-4d3c-b0aa-753255524a55

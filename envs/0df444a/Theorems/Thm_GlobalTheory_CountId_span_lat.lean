@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_span_lat
 -- name    : GlobalTheory.CountId.span_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:51.970809+00:00
 -- url     : https://prove2.me/theorems/17a58ec1-7d39-4096-b120-5701aea160b9

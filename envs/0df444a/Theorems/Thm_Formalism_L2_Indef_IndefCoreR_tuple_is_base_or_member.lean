@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefCoreR_tuple_is_base_or_member
 -- name    : Formalism.L2.Indef.IndefCoreR.tuple_is_base_or_member
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:48:47.1634+00:00
 -- url     : https://prove2.me/theorems/d41ae682-4f11-5925-8b1a-07d430c68f1d

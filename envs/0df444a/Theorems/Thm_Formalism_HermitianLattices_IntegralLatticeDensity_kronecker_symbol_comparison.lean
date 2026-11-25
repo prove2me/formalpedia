@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_kronecker_symbol_comparison
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.kronecker_symbol_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:04.16629+00:00
 -- url     : https://prove2.me/theorems/a9bf4fc1-6175-570f-9d3e-167050910678

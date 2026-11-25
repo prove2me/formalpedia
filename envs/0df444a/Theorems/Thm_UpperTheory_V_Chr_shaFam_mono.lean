@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Chr_shaFam_mono
 -- name    : UpperTheory.V.Chr.shaFam_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:14:21.566523+00:00
 -- url     : https://prove2.me/theorems/ecdecabd-78e3-4db6-bd42-060f37dc7dcb

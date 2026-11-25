@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z0_SGC_semi_genus_local
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z0.SGC.semi_genus_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:37:15.089488+00:00
 -- url     : https://prove2.me/theorems/5a0c0793-2b31-4b98-a33f-2a3f6184d77e

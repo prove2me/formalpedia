@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_castSnd_smul
 -- name    : ReciprocityTheory.PGsh.BX.castSnd_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:05:20.900515+00:00
 -- url     : https://prove2.me/theorems/e89cd412-b128-5597-b978-e65bf4c32a7a

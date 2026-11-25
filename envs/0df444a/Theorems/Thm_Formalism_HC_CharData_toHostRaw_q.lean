@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_CharData_toHostRaw_q
 -- name    : Formalism.HC.CharData.toHostRaw_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:30.899594+00:00
 -- url     : https://prove2.me/theorems/700c26be-612d-4b03-88e3-71900de14555

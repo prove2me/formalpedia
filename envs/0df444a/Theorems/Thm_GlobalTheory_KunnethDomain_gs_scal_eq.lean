@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KunnethDomain_gs_scal_eq
 -- name    : GlobalTheory.KunnethDomain.gs_scal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:58:26.873581+00:00
 -- url     : https://prove2.me/theorems/aa0ba830-2a91-4859-88a2-074f1dbf5be2

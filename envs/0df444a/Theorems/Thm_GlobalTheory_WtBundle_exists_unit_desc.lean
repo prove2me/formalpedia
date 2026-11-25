@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WtBundle_exists_unit_desc
 -- name    : GlobalTheory.WtBundle.exists_unit_desc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:58:13.961796+00:00
 -- url     : https://prove2.me/theorems/559aae34-3e8a-4bcd-a229-72c4b330afe0

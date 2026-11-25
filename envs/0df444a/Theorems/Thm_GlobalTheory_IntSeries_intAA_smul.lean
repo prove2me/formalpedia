@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSeries_intAA_smul
 -- name    : GlobalTheory.IntSeries.intAA_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:10:55.348693+00:00
 -- url     : https://prove2.me/theorems/cbcddd1a-63be-4bab-b748-801901ffa13d

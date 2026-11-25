@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_standard_frame_phase_alt
 -- name    : Formalism.FourierDecayAlt.P.standard_frame_phase_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:51.962895+00:00
 -- url     : https://prove2.me/theorems/2bc41871-40a7-59da-a0a4-05e2016d6b70

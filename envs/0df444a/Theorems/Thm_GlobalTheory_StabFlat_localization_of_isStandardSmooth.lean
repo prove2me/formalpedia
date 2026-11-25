@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StabFlat_localization_of_isStandardSmooth
 -- name    : GlobalTheory.StabFlat.localization_of_isStandardSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:23:57.226005+00:00
 -- url     : https://prove2.me/theorems/9eb53bf0-78c5-4676-b283-9363137d4534

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_powOAct_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.powOAct_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:50:53.944328+00:00
 -- url     : https://prove2.me/theorems/11aa9fd7-622f-51b5-80fe-3fc421cfbfa7

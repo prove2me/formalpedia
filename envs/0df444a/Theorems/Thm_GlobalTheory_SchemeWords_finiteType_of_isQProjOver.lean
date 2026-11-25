@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchemeWords_finiteType_of_isQProjOver
 -- name    : GlobalTheory.SchemeWords.finiteType_of_isQProjOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:22:17.882793+00:00
 -- url     : https://prove2.me/theorems/42d7cdbe-662b-45da-aaff-843737512dfc

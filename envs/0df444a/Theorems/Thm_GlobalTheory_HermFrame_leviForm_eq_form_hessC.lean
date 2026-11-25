@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_leviForm_eq_form_hessC
 -- name    : GlobalTheory.HermFrame.leviForm_eq_form_hessC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:07:03.247807+00:00
 -- url     : https://prove2.me/theorems/59df97fd-21be-41d9-bc33-44aad07f7c98

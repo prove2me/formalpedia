@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_IsRightAct_subRep_apply
 -- name    : GlobalTheory.LevDesc.IsRightAct.subRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:31.64261+00:00
 -- url     : https://prove2.me/theorems/7cfa4326-d103-4f29-a1fe-80bb8d4b4ea3

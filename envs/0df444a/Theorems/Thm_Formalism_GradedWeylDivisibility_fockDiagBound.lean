@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GradedWeylDivisibility_fockDiagBound
 -- name    : Formalism.GradedWeylDivisibility.fockDiagBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:36:32.439668+00:00
 -- url     : https://prove2.me/theorems/a6f2db17-a52c-4ab5-a1ac-2d11b3e7b8e2

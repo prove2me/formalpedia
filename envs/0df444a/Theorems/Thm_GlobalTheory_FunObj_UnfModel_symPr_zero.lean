@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_UnfModel_symPr_zero
 -- name    : GlobalTheory.FunObj.UnfModel.symPr_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:38.291751+00:00
 -- url     : https://prove2.me/theorems/b24f21ff-21c5-574e-9bb2-19a52c3f3b83

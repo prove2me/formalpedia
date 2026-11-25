@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_mul_nonneg_and_pos_of_posDef_of_posSemidef
 -- name    : GlobalTheory.T.sum_mul_nonneg_and_pos_of_posDef_of_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:38:56.048199+00:00
 -- url     : https://prove2.me/theorems/7556bfa0-392b-5b6a-82dd-0a90181021ea

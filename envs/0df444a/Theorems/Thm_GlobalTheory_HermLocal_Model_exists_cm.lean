@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLocal_Model_exists_cm
 -- name    : GlobalTheory.HermLocal.Model.exists_cm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:59.845234+00:00
 -- url     : https://prove2.me/theorems/4dea21b8-48f4-5128-8932-e9c00aef2e33

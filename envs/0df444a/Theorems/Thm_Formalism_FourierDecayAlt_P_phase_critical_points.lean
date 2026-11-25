@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_phase_critical_points
 -- name    : Formalism.FourierDecayAlt.P.phase_critical_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:33:31.167409+00:00
 -- url     : https://prove2.me/theorems/2fba43e2-675f-5fd7-8329-4b87d147683f

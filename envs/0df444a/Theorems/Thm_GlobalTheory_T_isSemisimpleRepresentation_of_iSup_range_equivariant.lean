@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSemisimpleRepresentation_of_iSup_range_equivariant
 -- name    : GlobalTheory.T.isSemisimpleRepresentation_of_iSup_range_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:51.193606+00:00
 -- url     : https://prove2.me/theorems/ee52824b-8b63-4f21-9a17-876a053a30ca

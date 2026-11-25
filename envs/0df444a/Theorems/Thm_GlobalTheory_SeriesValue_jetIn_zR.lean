@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesValue_jetIn_zR
 -- name    : GlobalTheory.SeriesValue.jetIn_zR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:57:59.604806+00:00
 -- url     : https://prove2.me/theorems/5dcf82f8-0bd4-5931-8b87-d691a68443b1

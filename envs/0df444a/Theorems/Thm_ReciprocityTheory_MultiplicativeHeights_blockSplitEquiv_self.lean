@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_blockSplitEquiv_self
 -- name    : ReciprocityTheory.MultiplicativeHeights.blockSplitEquiv_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:43.535069+00:00
 -- url     : https://prove2.me/theorems/04f8f375-3d33-4c32-bc74-0293219498e1

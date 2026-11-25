@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_size_bounds_conclusion
 -- name    : Formalism.FourierDecayAlt.P.size_bounds_conclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:55.800593+00:00
 -- url     : https://prove2.me/theorems/6377ce9c-bb64-5ab6-991a-0dd6abfe348c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_torusProj_periodZero_eq_real
 -- name    : GlobalTheory.AnArc.torusProj_periodZero_eq_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:56:01.697031+00:00
 -- url     : https://prove2.me/theorems/fe60121e-e2b5-4846-aa23-a5ea20269719

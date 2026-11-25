@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_real_character_identity
 -- name    : Formalism.FourierDecayAlt.P.real_character_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:34:55.412154+00:00
 -- url     : https://prove2.me/theorems/eed860ae-69a0-52e5-9f3b-272d9882bc3a

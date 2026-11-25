@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FirstMinimum_emb_mulVec
 -- name    : GlobalTheory.FirstMinimum.emb_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:01.579419+00:00
 -- url     : https://prove2.me/theorems/d657ad98-32d3-52bf-9a7e-b7f7ebb5d286

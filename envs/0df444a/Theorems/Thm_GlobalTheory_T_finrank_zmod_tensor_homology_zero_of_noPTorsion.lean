@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finrank_zmod_tensor_homology_zero_of_noPTorsion
 -- name    : GlobalTheory.T.finrank_zmod_tensor_homology_zero_of_noPTorsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:06.796187+00:00
 -- url     : https://prove2.me/theorems/8e237203-ec23-55e0-b0f8-a2578c37f1c4

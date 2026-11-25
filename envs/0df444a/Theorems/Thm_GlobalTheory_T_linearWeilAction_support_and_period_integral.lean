@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linearWeilAction_support_and_period_integral
 -- name    : GlobalTheory.T.linearWeilAction_support_and_period_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:36:30.67505+00:00
 -- url     : https://prove2.me/theorems/5dfff26a-8562-5f75-b773-76f58c94385d

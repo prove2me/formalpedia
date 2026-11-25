@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_wachExpansion_smul_compatible
 -- name    : GlobalTheory.NL.Model.wachExpansion_smul_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:31.098586+00:00
 -- url     : https://prove2.me/theorems/ca1062f0-6a38-53da-bae0-1e34e68a03cc

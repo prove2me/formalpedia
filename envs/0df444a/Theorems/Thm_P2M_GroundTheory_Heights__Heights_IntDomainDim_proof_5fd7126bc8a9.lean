@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IntDomainDim_proof_5fd7126bc8a9
 -- name    : P2M_GroundTheory_Heights__Heights_IntDomainDim_proof_5fd7126bc8a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:24:19.811731+00:00
 -- url     : https://prove2.me/theorems/6140d050-fba6-528c-80bb-d16425c6352c

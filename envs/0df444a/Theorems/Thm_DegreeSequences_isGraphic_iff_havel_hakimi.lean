@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_isGraphic_iff_havel_hakimi
 -- name    : DegreeSequences.isGraphic_iff_havel_hakimi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:37:31.667546+00:00
 -- url     : https://prove2.me/theorems/cb06f548-f97b-42f7-952b-db13e5f42022

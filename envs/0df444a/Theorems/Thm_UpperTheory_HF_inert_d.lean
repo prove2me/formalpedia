@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_inert_d
 -- name    : UpperTheory.HF.inert_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:16:28.911113+00:00
 -- url     : https://prove2.me/theorems/567c7492-d501-4557-a64b-e4efcc7fab9a

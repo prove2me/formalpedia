@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_detachedIdeal_eq
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.detachedIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:17.875312+00:00
 -- url     : https://prove2.me/theorems/4852f57c-ce55-467b-ac92-8e0ca0d0b8da

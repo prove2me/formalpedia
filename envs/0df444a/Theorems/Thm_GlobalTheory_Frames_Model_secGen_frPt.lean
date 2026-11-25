@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_secGen_frPt
 -- name    : GlobalTheory.Frames.Model.secGen_frPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:06:30.845648+00:00
 -- url     : https://prove2.me/theorems/17ac1583-ac0a-5d0e-9f73-ce3f7f335ac6

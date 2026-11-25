@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PrimitiveExponentPullback_Triple_cubeMap_tripleProduct_unique
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PrimitiveExponentPullback.Triple.cubeMap_tripleProduct_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:11:32.6932+00:00
 -- url     : https://prove2.me/theorems/f52d0cb7-6e12-5df4-991b-6e5cb299c724

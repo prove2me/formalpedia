@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_HilbertSchmidtUnitaryInvariance_Model_hyp0
 -- name    : Formalism.LFunctionChainParameters.HilbertSchmidtUnitaryInvariance.Model.hyp0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:04:39.578144+00:00
 -- url     : https://prove2.me/theorems/16dffbfe-847f-44d4-ad80-d36b29e3f5a7

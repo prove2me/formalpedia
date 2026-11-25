@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeChar_onId_mul_sqrt_absNorm_inv_mem_subring
 -- name    : GlobalTheory.T.heckeChar_onId_mul_sqrt_absNorm_inv_mem_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:32.900331+00:00
 -- url     : https://prove2.me/theorems/2324fe4f-fbac-5685-87de-194e3eb18bfb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_ComplexMultiplicationJSt_oneOrbit
 -- name    : GlobalTheory.Published.ComplexMultiplicationJSt.oneOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:15.944794+00:00
 -- url     : https://prove2.me/theorems/06af7965-b280-55a8-8b5f-2f250ce2f66d

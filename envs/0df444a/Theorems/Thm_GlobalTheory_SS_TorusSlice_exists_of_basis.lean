@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_exists_of_basis
 -- name    : GlobalTheory.SS.TorusSlice.exists_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:18:48.057795+00:00
 -- url     : https://prove2.me/theorems/f7e6ed65-d386-4fe7-bdfc-05552369a4ec

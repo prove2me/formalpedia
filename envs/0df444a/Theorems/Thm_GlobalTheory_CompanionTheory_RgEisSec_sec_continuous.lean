@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisSec_sec_continuous
 -- name    : GlobalTheory.CompanionTheory.RgEisSec.sec_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:00:10.359827+00:00
 -- url     : https://prove2.me/theorems/52bc8e68-e653-48cf-a795-da4a89b9d9c5

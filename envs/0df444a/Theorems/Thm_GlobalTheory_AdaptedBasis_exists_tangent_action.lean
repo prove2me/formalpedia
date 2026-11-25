@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdaptedBasis_exists_tangent_action
 -- name    : GlobalTheory.AdaptedBasis.exists_tangent_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:55:16.946246+00:00
 -- url     : https://prove2.me/theorems/8f91aa77-46bc-52a6-921b-f9a1bc2f6b0a

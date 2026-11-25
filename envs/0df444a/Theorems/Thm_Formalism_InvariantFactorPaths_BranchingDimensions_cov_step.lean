@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_cov_step
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.cov_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:43.139549+00:00
 -- url     : https://prove2.me/theorems/468d07b4-1292-4137-8f24-526f38c2aa1b

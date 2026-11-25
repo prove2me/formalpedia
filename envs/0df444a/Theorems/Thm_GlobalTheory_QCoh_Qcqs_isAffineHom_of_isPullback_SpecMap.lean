@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_Qcqs_isAffineHom_of_isPullback_SpecMap
 -- name    : GlobalTheory.QCoh.Qcqs.isAffineHom_of_isPullback_SpecMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:17:38.340838+00:00
 -- url     : https://prove2.me/theorems/ad0704c8-d903-4091-9578-eb6c8e51bc19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_sumLogZetaSeriesLe
 -- name    : Formalism.HermitianLatticeCounting.P.sumLogZetaSeriesLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:13.409426+00:00
 -- url     : https://prove2.me/theorems/ff7910f7-47d9-5fd1-9cc2-78c4cd7e0588

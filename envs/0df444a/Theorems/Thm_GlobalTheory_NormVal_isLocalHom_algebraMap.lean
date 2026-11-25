@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_isLocalHom_algebraMap
 -- name    : GlobalTheory.NormVal.isLocalHom_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:43.942561+00:00
 -- url     : https://prove2.me/theorems/7a54d9ad-034b-465e-b38e-73cc27f6aa2f

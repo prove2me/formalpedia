@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WtBundle_unit_ext_of_flat
 -- name    : GlobalTheory.WtBundle.unit_ext_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:02:03.605237+00:00
 -- url     : https://prove2.me/theorems/d49a0bae-42fa-42f5-b913-2a5e7844728b

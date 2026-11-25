@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_subst_formalLog
 -- name    : GlobalTheory.FormalCalc.subst_formalLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:10.546862+00:00
 -- url     : https://prove2.me/theorems/6b565c6c-9b83-5bb2-b363-7d507714a7bb

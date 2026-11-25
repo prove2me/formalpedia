@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_uniformizer_logarithm
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.uniformizer_logarithm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:25.315381+00:00
 -- url     : https://prove2.me/theorems/22213ebf-0908-4b3f-8ee2-4df273d55c41

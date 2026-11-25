@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_FamInh_exists_place_between
 -- name    : CompanionTheory.FamInh.exists_place_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:17:49.286001+00:00
 -- url     : https://prove2.me/theorems/b1fe0cee-fd9f-4038-a762-75687d076379

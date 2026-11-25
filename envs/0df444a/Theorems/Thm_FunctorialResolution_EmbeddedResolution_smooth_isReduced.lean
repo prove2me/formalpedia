@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smooth_isReduced
 -- name    : FunctorialResolution.EmbeddedResolution.smooth_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:23.031802+00:00
 -- url     : https://prove2.me/theorems/d82c8dc2-a433-4bee-bfb9-5bb5c555bab2

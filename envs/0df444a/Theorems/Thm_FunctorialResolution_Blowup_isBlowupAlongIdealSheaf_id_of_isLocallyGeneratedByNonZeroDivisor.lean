@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_isBlowupAlongIdealSheaf_id_of_isLocallyGeneratedByNonZeroDivisor
 -- name    : FunctorialResolution.Blowup.isBlowupAlongIdealSheaf_id_of_isLocallyGeneratedByNonZeroDivisor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:27.779152+00:00
 -- url     : https://prove2.me/theorems/2ff15709-c0a4-4fb9-a921-c9418b0908f7

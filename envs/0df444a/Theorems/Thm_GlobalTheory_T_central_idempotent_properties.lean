@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_central_idempotent_properties
 -- name    : GlobalTheory.T.central_idempotent_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:42.484632+00:00
 -- url     : https://prove2.me/theorems/aee28619-24dd-4d31-b536-d338a1c75f79

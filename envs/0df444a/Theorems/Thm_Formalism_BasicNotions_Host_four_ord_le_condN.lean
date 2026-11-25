@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BasicNotions_Host_four_ord_le_condN
 -- name    : Formalism.BasicNotions.Host.four_ord_le_condN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:53:43.514206+00:00
 -- url     : https://prove2.me/theorems/b134da38-ff91-40f3-9c07-9c5689184599

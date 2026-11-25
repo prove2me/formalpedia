@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_gauge_second_columns_of_exp
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.gauge_second_columns_of_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:06:06.824746+00:00
 -- url     : https://prove2.me/theorems/3aa07015-0ea0-5c2e-9f33-a085de2eee67

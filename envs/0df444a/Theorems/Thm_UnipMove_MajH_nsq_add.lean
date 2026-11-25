@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_MajH_nsq_add
 -- name    : UnipMove.MajH.nsq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:11:53.904419+00:00
 -- url     : https://prove2.me/theorems/1ab53da2-4af3-44d6-9f3b-d7607e4f6ed6

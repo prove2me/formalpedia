@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_measurePreserving_blockRot
 -- name    : ReciprocityTheory.MultiplicativeHeights.measurePreserving_blockRot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:26.866309+00:00
 -- url     : https://prove2.me/theorems/945da5a4-8629-4414-bc54-956a26d6324a

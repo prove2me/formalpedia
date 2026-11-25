@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaloisDescent_existsUnique_comap_eq_vanishingIdeal
 -- name    : GlobalTheory.GaloisDescent.existsUnique_comap_eq_vanishingIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:26.072135+00:00
 -- url     : https://prove2.me/theorems/d19762d0-c63f-4171-96d0-1d2a2535be2d

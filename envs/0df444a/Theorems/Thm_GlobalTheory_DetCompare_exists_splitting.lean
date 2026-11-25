@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetCompare_exists_splitting
 -- name    : GlobalTheory.DetCompare.exists_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:55.4376+00:00
 -- url     : https://prove2.me/theorems/470d1733-c18c-514c-8c9c-cbc2c013d19f

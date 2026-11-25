@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_pn_zpow_form
 -- name    : Formalism.FourierDecayAlt.P.pn_zpow_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:36:11.254805+00:00
 -- url     : https://prove2.me/theorems/2a0e58e1-04c5-5d77-b916-9b97e9809873

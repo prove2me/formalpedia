@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_third_count_lemma_variant
 -- name    : Formalism.FourierDecayAlt.P.third_count_lemma_variant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:43:57.979614+00:00
 -- url     : https://prove2.me/theorems/c0e00dc3-32b6-491f-9830-dc0e5337e692

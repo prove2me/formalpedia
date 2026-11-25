@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_modPToResidue_residueSection
 -- name    : Reformulated.AutPerF.modPToResidue_residueSection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:13.137001+00:00
 -- url     : https://prove2.me/theorems/79a2adfb-b299-5cc9-8a60-3500b79e760b

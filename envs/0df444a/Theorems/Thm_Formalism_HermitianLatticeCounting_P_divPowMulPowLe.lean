@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_divPowMulPowLe
 -- name    : Formalism.HermitianLatticeCounting.P.divPowMulPowLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:39:08.219641+00:00
 -- url     : https://prove2.me/theorems/4a486989-0644-5626-8108-b4d8b7cf4b46

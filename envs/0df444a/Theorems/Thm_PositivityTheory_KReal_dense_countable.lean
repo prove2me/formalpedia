@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_dense_countable
 -- name    : PositivityTheory.KReal.dense_countable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:14:55.170665+00:00
 -- url     : https://prove2.me/theorems/de5984c0-e2c3-48e0-879b-480a18a0f12a

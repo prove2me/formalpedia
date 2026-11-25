@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_isIso_lastStructMap_restrict_smoothLocus
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.isIso_lastStructMap_restrict_smoothLocus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:52:29.185173+00:00
 -- url     : https://prove2.me/theorems/a47a92ed-e4e1-5be4-a037-b69dbd646aa3

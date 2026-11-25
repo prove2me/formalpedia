@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_l1Norm_bind_le_mul_pow_of_isHomogeneous
 -- name    : GlobalTheory.MvPoly.l1Norm_bind_le_mul_pow_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:15.417807+00:00
 -- url     : https://prove2.me/theorems/31370803-1755-5829-a68c-ef26cf30da8e

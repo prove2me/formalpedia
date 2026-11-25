@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealAlgebraCharacters_main
 -- name    : GlobalTheory.RealAlgebraCharacters.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:19:47.297803+00:00
 -- url     : https://prove2.me/theorems/1f3231ea-abd9-574d-9c14-541adf81a4a7

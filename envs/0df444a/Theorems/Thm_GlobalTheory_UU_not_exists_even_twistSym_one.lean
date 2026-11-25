@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_not_exists_even_twistSym_one
 -- name    : GlobalTheory.UU.not_exists_even_twistSym_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:00:08.461515+00:00
 -- url     : https://prove2.me/theorems/bf93eb42-e1ac-4ffb-955a-7768abbab0a1

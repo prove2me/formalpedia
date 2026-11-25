@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isFrame_rawChart_baseChange
 -- name    : GlobalTheory.T.isFrame_rawChart_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:49:10.034891+00:00
 -- url     : https://prove2.me/theorems/5747a806-c59f-444c-9abe-07174d0ddb0c

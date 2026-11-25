@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsOrderingRule_length_eq
 -- name    : GlobalTheory.IsOrderingRule.length_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:55.87588+00:00
 -- url     : https://prove2.me/theorems/d4b076d0-aace-58b2-b47d-bd6224708e46

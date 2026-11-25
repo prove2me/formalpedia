@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OnePoint_exists_point_of_injective_of_charZero
 -- name    : GlobalTheory.OnePoint.exists_point_of_injective_of_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:46.253551+00:00
 -- url     : https://prove2.me/theorems/cb668b9e-8884-5893-982e-29597bc9b6a5

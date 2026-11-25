@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbFam_twist_one_of_hasLevel
 -- name    : GlobalTheory.HilbFam.twist_one_of_hasLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:09.854579+00:00
 -- url     : https://prove2.me/theorems/0bd159e2-38c6-43d0-9f5b-b4baef67d7ba

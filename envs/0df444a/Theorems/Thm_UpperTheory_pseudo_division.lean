@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_pseudo_division
 -- name    : UpperTheory.pseudo_division
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:56.894296+00:00
 -- url     : https://prove2.me/theorems/4a14c921-cc71-4d16-957a-a76f3bfdc3ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_sum_prod_of_expansion_in_each_coordinate
 -- name    : GlobalTheory.T.eq_sum_prod_of_expansion_in_each_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:27:54.568156+00:00
 -- url     : https://prove2.me/theorems/0194c12e-4f84-57cf-8adc-e4e68907ce1a

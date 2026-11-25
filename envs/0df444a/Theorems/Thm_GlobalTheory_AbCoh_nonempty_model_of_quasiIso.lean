@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_nonempty_model_of_quasiIso
 -- name    : GlobalTheory.AbCoh.nonempty_model_of_quasiIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:55:59.352976+00:00
 -- url     : https://prove2.me/theorems/6664cdc9-f5d0-4b87-ab17-136d4dd37c83

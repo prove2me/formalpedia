@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GLintCover_det_v
 -- name    : GlobalTheory.GLintCover.det_v
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:25:43.509331+00:00
 -- url     : https://prove2.me/theorems/e16f835b-2b0b-42bb-af13-cecb8cf31cf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_TateInh_not_inG
 -- name    : GlobalTheory.Ex.TateInh.not_inG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:05:01.042038+00:00
 -- url     : https://prove2.me/theorems/8e60eeca-8987-54b4-abde-f284589f5077

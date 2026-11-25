@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquetRallisUnitMatch_sizeOne
 -- name    : GlobalTheory.T.jacquetRallisUnitMatch_sizeOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:29.824054+00:00
 -- url     : https://prove2.me/theorems/15330ed5-90fd-5b9d-bec0-7b79345d1ced

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spread_hom_generic_of_isGrpPullback
 -- name    : GlobalTheory.spread_hom_generic_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:35.496376+00:00
 -- url     : https://prove2.me/theorems/01f75c57-9679-57b2-aea4-597abb4e4b1c

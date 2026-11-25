@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HeckeMul_hk_mul
 -- name    : GlobalTheory.CompanionTheory.HeckeMul.hk_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:01:22.876086+00:00
 -- url     : https://prove2.me/theorems/f5e1cc3f-8c93-4d31-bd3e-36cd5ee7711a

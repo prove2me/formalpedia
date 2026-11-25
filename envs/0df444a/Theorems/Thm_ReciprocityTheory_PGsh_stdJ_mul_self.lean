@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_stdJ_mul_self
 -- name    : ReciprocityTheory.PGsh.stdJ_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:05.399064+00:00
 -- url     : https://prove2.me/theorems/8561d022-f079-5312-964a-9379c38ec3f7

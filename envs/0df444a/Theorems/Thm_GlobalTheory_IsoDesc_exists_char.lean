@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_exists_char
 -- name    : GlobalTheory.IsoDesc.exists_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:01:18.538536+00:00
 -- url     : https://prove2.me/theorems/029ff660-8765-57c5-916c-4489e41d1bda

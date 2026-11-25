@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_tate_FSum_coeff_zero
 -- name    : GlobalTheory.AnArc.tate_FSum_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:59.74456+00:00
 -- url     : https://prove2.me/theorems/54750e2f-a1da-5972-a3d9-5fd8c569761b

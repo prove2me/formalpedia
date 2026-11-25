@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ker_CreOp_foldr_creation_zero
 -- name    : GlobalTheory.Ker.CreOp.foldr_creation_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:12:09.118806+00:00
 -- url     : https://prove2.me/theorems/9f4fcb98-4c12-4de3-8b7c-8a4ee76aaa24

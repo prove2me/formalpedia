@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_covolume_unimodular
 -- name    : GlobalTheory.T.finite_covolume_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:10.086814+00:00
 -- url     : https://prove2.me/theorems/cbc0de16-174a-59cc-8a68-70702c9cf988

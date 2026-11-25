@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Entire_local_factorisation
 -- name    : GlobalTheory.CompanionTheory.Entire.local_factorisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:42.285466+00:00
 -- url     : https://prove2.me/theorems/34e15a06-7349-4745-973b-c3174fcbe14b

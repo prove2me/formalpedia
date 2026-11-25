@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1003_4724_static_conductivity_dipole_correlation
 -- name    : Arxiv1003_4724.static_conductivity_dipole_correlation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T23:57:35.332131+00:00
 -- url     : https://prove2.me/theorems/8a23162b-4618-4907-860f-ef43bd4f0a04

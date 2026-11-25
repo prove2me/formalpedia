@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_corner_inverse
 -- name    : Formalism.FourierDecayAlt.P.corner_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:32:37.79982+00:00
 -- url     : https://prove2.me/theorems/31cf65f2-d3ac-4974-b42d-7ee3e382d9e3

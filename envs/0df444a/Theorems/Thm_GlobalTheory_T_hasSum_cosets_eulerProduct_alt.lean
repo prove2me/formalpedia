@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_cosets_eulerProduct_alt
 -- name    : GlobalTheory.T.hasSum_cosets_eulerProduct_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:32:56.509163+00:00
 -- url     : https://prove2.me/theorems/cf8cb339-a002-497a-9116-b02a76d4aad9

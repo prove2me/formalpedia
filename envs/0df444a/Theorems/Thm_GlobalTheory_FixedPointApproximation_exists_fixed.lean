@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPointApproximation_exists_fixed
 -- name    : GlobalTheory.FixedPointApproximation.exists_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:55.782735+00:00
 -- url     : https://prove2.me/theorems/25548baf-1118-58a2-a69b-f6641afe758f

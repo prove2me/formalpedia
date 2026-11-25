@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_integration_formula_constant
 -- name    : Formalism.FourierDecayAlt.P.integration_formula_constant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:29:19.21675+00:00
 -- url     : https://prove2.me/theorems/0944f926-d029-4003-a088-4fd54c60c363

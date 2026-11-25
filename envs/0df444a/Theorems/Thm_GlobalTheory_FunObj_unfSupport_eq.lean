@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_unfSupport_eq
 -- name    : GlobalTheory.FunObj.unfSupport_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:55.703791+00:00
 -- url     : https://prove2.me/theorems/4bdb179e-d42d-5fc6-a0e0-2df9cadbcea2

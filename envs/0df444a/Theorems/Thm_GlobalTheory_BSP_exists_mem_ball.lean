@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BSP_exists_mem_ball
 -- name    : GlobalTheory.BSP.exists_mem_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:26.999277+00:00
 -- url     : https://prove2.me/theorems/b1b9aabc-fd4c-40cb-ab7c-07e86b8e28b9

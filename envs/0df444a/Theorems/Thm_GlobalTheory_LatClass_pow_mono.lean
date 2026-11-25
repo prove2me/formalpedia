@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_pow_mono
 -- name    : GlobalTheory.LatClass.pow_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:12:48.230205+00:00
 -- url     : https://prove2.me/theorems/3006a141-0ffb-549a-a825-e9e66dbbe823

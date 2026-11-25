@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PullbackGroupAction_pullAct_fst
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PullbackGroupAction.pullAct_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:23.473901+00:00
 -- url     : https://prove2.me/theorems/3847c7ee-08f1-4683-bf40-ff5f543691ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_hessian_jet_formula
 -- name    : Formalism.FourierDecayAlt.P.hessian_jet_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:30:35.691177+00:00
 -- url     : https://prove2.me/theorems/fe5fbfdf-5fc1-4420-846a-d95b2d8dcb7a

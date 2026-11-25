@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_mul_eq_mul_sq_of_faithfullyFlat_height_one
 -- name    : GlobalTheory.T.exists_mul_eq_mul_sq_of_faithfullyFlat_height_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:49.427561+00:00
 -- url     : https://prove2.me/theorems/bbbc5ae2-bdb5-5fa0-8c24-cdc05a3c0b4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_identity_tube_holds
 -- name    : GlobalTheory.T.identity_tube_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:01.644797+00:00
 -- url     : https://prove2.me/theorems/d70e9eb1-24bb-5bc1-be08-ace346b1c103

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExF_eF_contDiffAt
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExF.eF_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:20.779174+00:00
 -- url     : https://prove2.me/theorems/8637ace0-f1c8-452e-8d73-a2408b27443f

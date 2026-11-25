@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxCusp_zmat_fix
 -- name    : GlobalTheory.MaxCusp.zmat_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:45:48.631139+00:00
 -- url     : https://prove2.me/theorems/b2028af6-c726-5861-89af-c10cf519dfcc

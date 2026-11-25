@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3x8_int_zero
 -- name    : Formalism.FourierDecayAlt.P.S3x8.int_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:27:21.482858+00:00
 -- url     : https://prove2.me/theorems/7b599391-160d-42cd-a81b-7b1cf65c9e9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_Inh_sen_stdLat_zero
 -- name    : GlobalTheory.PhiGam.Inh.sen_stdLat_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:21.727678+00:00
 -- url     : https://prove2.me/theorems/5bb9452f-9010-415e-a567-4775d1e13a6c

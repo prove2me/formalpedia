@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Model_cint_translate
 -- name    : GlobalTheory.IdxInt.Model.cint_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:19.206545+00:00
 -- url     : https://prove2.me/theorems/0e29e73d-96a3-4021-b2a1-c7ebb0def3b0

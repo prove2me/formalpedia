@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cm_type_trace_imaginary_part
 -- name    : GlobalTheory.T.cm_type_trace_imaginary_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:28:01.524585+00:00
 -- url     : https://prove2.me/theorems/b1e9c8e0-64d6-4b9a-9728-a8a08d642a84

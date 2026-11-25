@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_SameVec_unique
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.SameVec.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:42.870691+00:00
 -- url     : https://prove2.me/theorems/207401f1-c2be-4156-bc47-59131382b6f2

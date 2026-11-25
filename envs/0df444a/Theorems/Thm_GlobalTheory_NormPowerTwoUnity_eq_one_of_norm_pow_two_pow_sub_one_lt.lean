@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormPowerTwoUnity_eq_one_of_norm_pow_two_pow_sub_one_lt
 -- name    : GlobalTheory.NormPowerTwoUnity.eq_one_of_norm_pow_two_pow_sub_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:14:56.611325+00:00
 -- url     : https://prove2.me/theorems/38600ac3-fcde-4fd5-a41b-4d2a7e09a49e

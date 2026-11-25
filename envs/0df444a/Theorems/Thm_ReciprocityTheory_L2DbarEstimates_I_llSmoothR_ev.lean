@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_llSmoothR_ev
 -- name    : ReciprocityTheory.L2DbarEstimates.I.llSmoothR_ev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:21.559862+00:00
 -- url     : https://prove2.me/theorems/7a1b8de5-1b92-49c5-adb6-41db77098292

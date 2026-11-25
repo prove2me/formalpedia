@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_rootsInt
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.rootsInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:56:17.066987+00:00
 -- url     : https://prove2.me/theorems/4561fcfd-893f-42e5-af4e-42f0871b219f

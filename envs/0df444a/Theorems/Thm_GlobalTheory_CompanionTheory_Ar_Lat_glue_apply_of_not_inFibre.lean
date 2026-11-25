@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_glue_apply_of_not_inFibre
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.glue_apply_of_not_inFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:55.725318+00:00
 -- url     : https://prove2.me/theorems/a6852878-bd08-5102-864c-2513a0c90dd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_wachLatticeUnramified_statement
 -- name    : Formalism.CoboundaryTransfers.wachLatticeUnramified_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:21:37.218461+00:00
 -- url     : https://prove2.me/theorems/c221feb2-6d96-45eb-a6ac-b62af4dc3a3d

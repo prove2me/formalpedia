@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_shape_cross
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.shape_cross
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:50:19.070801+00:00
 -- url     : https://prove2.me/theorems/284bef3b-2e09-4911-ab7a-bf09f85313bf

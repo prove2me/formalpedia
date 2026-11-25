@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_weyl_measure_from_diagonal
 -- name    : Formalism.FourierDecayAlt.P.weyl_measure_from_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:22.970088+00:00
 -- url     : https://prove2.me/theorems/a33d2d80-2922-5150-9470-0d25fe0461cd

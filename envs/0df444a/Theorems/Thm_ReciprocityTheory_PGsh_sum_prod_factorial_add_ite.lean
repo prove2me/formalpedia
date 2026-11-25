@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_sum_prod_factorial_add_ite
 -- name    : ReciprocityTheory.PGsh.sum_prod_factorial_add_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:09:07.813678+00:00
 -- url     : https://prove2.me/theorems/c772277e-be3e-47b7-a36d-0590b8a04dc8

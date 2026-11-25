@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_lift_down
 -- name    : ReciprocityTheory.PGsh.BX.lift_down
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:05:12.537311+00:00
 -- url     : https://prove2.me/theorems/a9255a49-f8c3-5b21-ad65-3464b67933ff

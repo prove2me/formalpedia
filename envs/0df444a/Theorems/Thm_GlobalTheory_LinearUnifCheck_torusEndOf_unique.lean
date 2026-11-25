@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinearUnifCheck_torusEndOf_unique
 -- name    : GlobalTheory.LinearUnifCheck.torusEndOf_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:27.437487+00:00
 -- url     : https://prove2.me/theorems/ab8f051c-f92f-4cf8-bd27-57aa66845692

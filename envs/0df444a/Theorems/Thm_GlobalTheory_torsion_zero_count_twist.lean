@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_torsion_zero_count_twist
 -- name    : GlobalTheory.torsion_zero_count_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:24:26.231389+00:00
 -- url     : https://prove2.me/theorems/968e297d-e4eb-4d79-8abd-09b1bf419276

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormVal_finite_maximalSpectrum
 -- name    : GlobalTheory.NormVal.finite_maximalSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:45.078347+00:00
 -- url     : https://prove2.me/theorems/442c53d8-9ef7-40d4-8c0a-f1a7b0623f44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_borelU_two_nontrivial
 -- name    : GlobalTheory.LGrp.borelU_two_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:13.475172+00:00
 -- url     : https://prove2.me/theorems/49ba93e8-fc47-44f4-b7a7-cc62a14b71cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TauPull_tauW_mul
 -- name    : GlobalTheory.TauPull.tauW_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:03:18.138633+00:00
 -- url     : https://prove2.me/theorems/d373b39e-49c2-4d9b-8fda-c893336d74cd

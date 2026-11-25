@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_borelU_le_lineParU
 -- name    : GlobalTheory.LGrp.borelU_le_lineParU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:05.605456+00:00
 -- url     : https://prove2.me/theorems/cfb65195-160b-5737-b51e-64507a8d3862

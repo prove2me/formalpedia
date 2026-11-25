@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolomorphicArc_over_of_generic
 -- name    : GlobalTheory.HolomorphicArc.over_of_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:15:07.632482+00:00
 -- url     : https://prove2.me/theorems/1215b86c-ebf6-4e43-89cb-54a2ea8f3deb

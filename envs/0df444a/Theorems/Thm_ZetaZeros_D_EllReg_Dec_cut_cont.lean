@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_Dec_cut_cont
 -- name    : ZetaZeros.D.EllReg.Dec.cut_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:27.749476+00:00
 -- url     : https://prove2.me/theorems/54c33e0c-b557-415d-9c02-8453be81ab33

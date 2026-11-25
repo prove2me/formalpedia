@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulEqIntegerExists_exists_smul_mem
 -- name    : GlobalTheory.MulEqIntegerExists.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:23.302112+00:00
 -- url     : https://prove2.me/theorems/21d173c2-6666-4aa7-9463-b5be29aeffef

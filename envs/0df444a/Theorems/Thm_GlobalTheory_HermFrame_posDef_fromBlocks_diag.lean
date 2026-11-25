@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_posDef_fromBlocks_diag
 -- name    : GlobalTheory.HermFrame.posDef_fromBlocks_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:40.431953+00:00
 -- url     : https://prove2.me/theorems/f4a8879f-63ba-4a3d-ad02-1cc99a555987

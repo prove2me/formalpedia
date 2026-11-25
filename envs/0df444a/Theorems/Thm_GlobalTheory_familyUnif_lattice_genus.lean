@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_familyUnif_lattice_genus
 -- name    : GlobalTheory.familyUnif_lattice_genus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:20:37.205181+00:00
 -- url     : https://prove2.me/theorems/05408bd0-68d1-47bc-9765-dd6cb2f29eea

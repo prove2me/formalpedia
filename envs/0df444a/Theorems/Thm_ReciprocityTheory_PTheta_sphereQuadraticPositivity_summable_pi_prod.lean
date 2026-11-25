@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_sphereQuadraticPositivity_summable_pi_prod
 -- name    : ReciprocityTheory.PTheta.sphereQuadraticPositivity.summable_pi_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:37.572335+00:00
 -- url     : https://prove2.me/theorems/7d7bf422-0d0d-555c-aaf3-8b3a7fd40914

@@ -71608,7 +71608,7 @@
 {"parent": "OAI.TwoWayComplementation.chainStep_recognition", "child": "OAI_Combinatorics_TwoWayAutomata_Amplification", "via": ["solution", "statement"]}
 {"parent": "OAI.TwoWayComplementation.chainStep_recognition", "child": "OAI_Combinatorics_TwoWayAutomata_Diagram", "via": ["solution", "statement"]}
 {"parent": "PoWMining.CapacityStatics.partial_f_gamma_R", "child": "PoWMining_CapacityStatics_ClosedForms", "via": ["solution", "statement"]}
-{"parent": "QReversal.PGMBound.eq_41", "child": "QReversal_PGMBound_Setting", "via": ["statement"]}
+{"parent": "QReversal.PGMBound.eq_41", "child": "QReversal_PGMBound_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.separatedWeights_snoc", "child": "PiExponent_DeterminantSetup", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.ThreeSumColorDriverResources.full_poly_need", "child": "ThreeSum1960614_Machine_Bundle029", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.ThreeSumColorDriverResources.full_poly_need", "child": "ThreeSum1960614_Analysis", "via": ["solution", "statement"]}
@@ -72928,7 +72928,7 @@
 {"parent": "ThreeSum.SharedReportingBankResourceBounds.WantedSourceEnds.values", "child": "TrulySubcubicAPSP_SourceSpecification", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.SharedReportingBankResourceBounds.WantedSourceEnds.values", "child": "ThreeSum1962Source_Bundle11", "via": ["solution", "statement"]}
 {"parent": "NLogN.KFM.smulP_runs", "child": "IntMul_Kappa_K_Defs22", "via": ["solution", "statement"]}
-{"parent": "QReversal.PGMBound.eq_40", "child": "QReversal_PGMBound_Setting", "via": ["statement"]}
+{"parent": "QReversal.PGMBound.eq_40", "child": "QReversal_PGMBound_Setting", "via": ["solution", "statement"]}
 {"parent": "OfflinePolicyLearning.Regret.oracle_uniform_concentration_Op", "child": "OfflinePolicyLearning_Regret_Setting", "via": ["statement"]}
 {"parent": "OfflinePolicyLearning.Regret.oracle_uniform_concentration_Op", "child": "OfflinePolicyLearning_Regret_Hamming", "via": ["statement"]}
 {"parent": "OAI.IndependentProducts.integral_excess_independent_copy", "child": "IndependentProducts", "via": ["solution", "statement"]}

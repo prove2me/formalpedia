@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_hilbert_schmidt_block
 -- name    : Formalism.FourierDecayAlt.P.hilbert_schmidt_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:33.222715+00:00
 -- url     : https://prove2.me/theorems/becafb99-470c-471c-b63d-db97dd23f42a

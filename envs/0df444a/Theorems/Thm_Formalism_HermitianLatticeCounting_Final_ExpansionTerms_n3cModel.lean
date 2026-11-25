@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_n3cModel
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.n3cModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:30.809024+00:00
 -- url     : https://prove2.me/theorems/64b1c470-5fe9-4319-9f40-b8cf122a0e5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_adapted_semistable
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.adapted_semistable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:49.768642+00:00
 -- url     : https://prove2.me/theorems/fb37702f-d6d8-4033-b1d4-1fb04d904367

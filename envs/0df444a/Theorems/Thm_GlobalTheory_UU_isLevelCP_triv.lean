@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_isLevelCP_triv
 -- name    : GlobalTheory.UU.isLevelCP_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:43:27.154495+00:00
 -- url     : https://prove2.me/theorems/578f9dc5-962f-4e01-8c8c-6a330f3ccc4b

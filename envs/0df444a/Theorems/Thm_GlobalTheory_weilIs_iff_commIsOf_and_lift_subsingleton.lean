@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weilIs_iff_commIsOf_and_lift_subsingleton
 -- name    : GlobalTheory.weilIs_iff_commIsOf_and_lift_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:54:47.735903+00:00
 -- url     : https://prove2.me/theorems/210c9ea1-8628-48a0-a275-ed3b17072e95

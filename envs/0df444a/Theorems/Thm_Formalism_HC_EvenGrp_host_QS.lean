@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_host_QS
 -- name    : Formalism.HC.EvenGrp.host_QS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:36:12.509923+00:00
 -- url     : https://prove2.me/theorems/3fef859a-ce18-5764-8c85-79288877935f

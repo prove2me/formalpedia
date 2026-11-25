@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_block_poisson_frame
 -- name    : Formalism.FourierDecayAlt.P.block_poisson_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:30:32.9896+00:00
 -- url     : https://prove2.me/theorems/b5681f03-3f9b-494a-91ee-3f6597eeb9c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_isAbelianScheme_and_relDim_of_cover
 -- name    : GlobalTheory.CoverGlue.isAbelianScheme_and_relDim_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:27:24.026352+00:00
 -- url     : https://prove2.me/theorems/e714c716-5d78-424b-a523-12c8f4986ccf

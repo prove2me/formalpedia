@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_volumeExponentAssembly
 -- name    : Formalism.HermitianLatticeCounting.P.volumeExponentAssembly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:50.478433+00:00
 -- url     : https://prove2.me/theorems/ea92e40a-8d40-5d28-9bf6-f413b8d4f822

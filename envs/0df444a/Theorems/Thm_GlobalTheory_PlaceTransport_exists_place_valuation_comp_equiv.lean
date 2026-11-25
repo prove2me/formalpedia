@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceTransport_exists_place_valuation_comp_equiv
 -- name    : GlobalTheory.PlaceTransport.exists_place_valuation_comp_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:31.36525+00:00
 -- url     : https://prove2.me/theorems/ac46cc92-13a2-446b-9ebc-0e0e034b3fd2

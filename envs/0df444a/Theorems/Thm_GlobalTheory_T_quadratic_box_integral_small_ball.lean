@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadratic_box_integral_small_ball
 -- name    : GlobalTheory.T.quadratic_box_integral_small_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:59.022066+00:00
 -- url     : https://prove2.me/theorems/eba75d7e-d6d2-4fa4-b88b-786823205166

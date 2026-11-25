@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_sub_add_eq_zero_of_eq_add
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.sub_add_eq_zero_of_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:00:55.215804+00:00
 -- url     : https://prove2.me/theorems/d9826fb7-edda-4857-8718-8233a40421cf

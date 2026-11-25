@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_isLocalizedModule_redQ
 -- name    : GlobalTheory.BK.PhiMod.isLocalizedModule_redQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:56:01.971104+00:00
 -- url     : https://prove2.me/theorems/b249c864-b1c1-4cf4-8d42-2ace8fc972d4

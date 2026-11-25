@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GodementJacquet_val_inl
 -- name    : GlobalTheory.GodementJacquet.val_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:50.628912+00:00
 -- url     : https://prove2.me/theorems/2033564c-7005-4ce9-8abf-0277ef3452a9

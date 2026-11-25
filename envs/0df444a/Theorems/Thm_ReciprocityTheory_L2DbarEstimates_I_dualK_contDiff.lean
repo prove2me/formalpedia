@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_dualK_contDiff
 -- name    : ReciprocityTheory.L2DbarEstimates.I.dualK_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:57:30.692218+00:00
 -- url     : https://prove2.me/theorems/d23e6bbc-fc09-492f-8f8e-88c0b86dabef

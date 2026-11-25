@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eq_iff_locallyEq
 -- name    : eq_iff_locallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:14:41.310477+00:00
 -- url     : https://prove2.me/theorems/d242a328-a60c-4d34-a146-81868bad2ee0

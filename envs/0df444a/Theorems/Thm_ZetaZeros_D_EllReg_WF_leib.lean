@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WF_leib
 -- name    : ZetaZeros.D.EllReg.WF.leib
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:43:25.870803+00:00
 -- url     : https://prove2.me/theorems/3b6b970a-6653-4d64-b655-61a97f139367

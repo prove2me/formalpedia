@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyPow_ThetaLaw_congr_target
 -- name    : GlobalTheory.KeyPow.ThetaLaw.congr_target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:49:40.724733+00:00
 -- url     : https://prove2.me/theorems/c8cfed9b-3141-42e2-9a80-b90ebf5d0ef3

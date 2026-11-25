@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_coprimeFifteen_of_coprime
 -- name    : Formalism.HC.EvenGrp.coprimeFifteen_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:22.236506+00:00
 -- url     : https://prove2.me/theorems/190efdc1-c0eb-40fb-bc37-340c3bc35f5c

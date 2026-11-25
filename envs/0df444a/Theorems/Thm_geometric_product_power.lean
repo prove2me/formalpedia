@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_geometric_product_power
 -- name    : geometric_product_power
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:14:23.076165+00:00
 -- url     : https://prove2.me/theorems/b9af92e8-1951-4310-958b-ef6eb94ee952

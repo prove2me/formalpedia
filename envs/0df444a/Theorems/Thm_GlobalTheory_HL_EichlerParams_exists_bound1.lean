@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_EichlerParams_exists_bound1
 -- name    : GlobalTheory.HL.EichlerParams.exists_bound1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:03.516136+00:00
 -- url     : https://prove2.me/theorems/f5e96b18-4b50-4af9-9e11-be7249077c13

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoubledPoint_inl_ne_inr
 -- name    : GlobalTheory.DoubledPoint.inl_ne_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:04:39.959987+00:00
 -- url     : https://prove2.me/theorems/1ed4cb9e-1e97-42c5-8db9-d3a6a1f731fe

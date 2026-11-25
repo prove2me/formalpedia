@@ -1,0 +1,155 @@
+-- Prove2me | solution 1 for Formalism.L2.Col.index_HPsym
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T17:17:34.132083+00:00
+-- url     : https://prove2.me/submissions/8921c569-98c7-421f-b904-f37073d23d0d
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_Columns_GenericUnipotentCharacter
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_DimensionMassJointBound
+import Definitions.Def_Formalism_LocalToGlobal_Columns_LevGCount
+import Theorems.Thm_Formalism_L2_Col_card_HPsym
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+section
+noncomputable section
+open Matrix Finset IsDedekindDomain NumberField
+namespace Formalism.L2.Col
+section
+variable {n : ℕ} {κ : Type} [CommRing κ] {K : Type} [Field K]
+end
+section Uni
+variable {n : ℕ} {κ : Type} [CommRing κ] {K : Type} [Field K]
+end Uni
+private theorem prod_one_sub_lemma {ι : Type} (s : Finset ι) (f : ι → ℝ) (h0 : ∀ i ∈ s, 0 ≤ f i)
+    (h1 : ∀ i ∈ s, f i ≤ 1) :
+    1 - ∑ i ∈ s, f i ≤ ∏ i ∈ s, (1 - f i) ∧ ∏ i ∈ s, (1 - f i) ≤ 1 ∧ 0 ≤ ∏ i ∈ s, (1 - f i) := by
+  classical
+  induction s using Finset.induction_on with
+  | empty => simp
+  | @insert a s ha ih =>
+    rw [Finset.sum_insert ha, Finset.prod_insert ha]
+    obtain ⟨i1, i2, i3⟩ := ih (fun i hi => h0 i (Finset.mem_insert_of_mem hi))
+      (fun i hi => h1 i (Finset.mem_insert_of_mem hi))
+    have fa0 := h0 a (Finset.mem_insert_self a s)
+    have fa1 := h1 a (Finset.mem_insert_self a s)
+    refine ⟨?_, ?_, ?_⟩
+    · nlinarith [mul_nonneg fa0 (sub_nonneg.mpr i2)]
+    · nlinarith [mul_nonneg fa0 i3]
+    · exact mul_nonneg (by linarith) i3
+private theorem card_GL_eq_card_pow_mul_theta (F : Type) [Field F] [Fintype F] (n : ℕ) (h3 : 3 ≤ Fintype.card F) :
+    ∃ θ : ℝ, 1 / 2 ≤ θ ∧ θ ≤ 1 ∧
+      (Nat.card (GL (Fin n) F) : ℝ) = (Fintype.card F : ℝ) ^ (n * n) * θ := by
+  have hq3 : (3 : ℝ) ≤ (Fintype.card F : ℝ) := by exact_mod_cast h3
+  have hqpos : (0 : ℝ) < (Fintype.card F : ℝ) := by linarith
+  have hqn : (0 : ℝ) < (Fintype.card F : ℝ) ^ n := pow_pos hqpos n
+  have hx0 : ∀ i : Fin n, 0 ≤ (Fintype.card F : ℝ) ^ (i : ℕ) / (Fintype.card F : ℝ) ^ n := fun i => by positivity
+  have hx1 : ∀ i : Fin n, (Fintype.card F : ℝ) ^ (i : ℕ) / (Fintype.card F : ℝ) ^ n ≤ 1 := by
+    intro i
+    rw [div_le_one hqn]
+    have : Fintype.card F ^ (i : ℕ) ≤ Fintype.card F ^ n := Nat.pow_le_pow_right (by omega) i.2.le
+    exact_mod_cast this
+  have hsum : ∑ i : Fin n, (Fintype.card F : ℝ) ^ (i : ℕ) / (Fintype.card F : ℝ) ^ n ≤ 1 / 2 := by
+    have hgs : ∑ i : Fin n, (Fintype.card F : ℝ) ^ (i : ℕ) = ∑ i ∈ Finset.range n, (Fintype.card F : ℝ) ^ i :=
+      Fin.sum_univ_eq_sum_range (fun i => (Fintype.card F : ℝ) ^ i) n
+    rw [← Finset.sum_div, hgs, geom_sum_eq (by linarith), div_div, div_le_iff₀ (by nlinarith)]
+    nlinarith [mul_nonneg (sub_nonneg.mpr hq3) hqn.le]
+  have hb := prod_one_sub_lemma Finset.univ (fun i : Fin n => (Fintype.card F : ℝ) ^ (i : ℕ) / (Fintype.card F : ℝ) ^ n)
+    (fun i _ => hx0 i) (fun i _ => hx1 i)
+  have b1 : 1 - ∑ i : Fin n, (Fintype.card F : ℝ) ^ (i : ℕ) / (Fintype.card F : ℝ) ^ n ≤
+      ∏ i : Fin n, (1 - (Fintype.card F : ℝ) ^ (i : ℕ) / (Fintype.card F : ℝ) ^ n) := hb.1
+  have b2 : ∏ i : Fin n, (1 - (Fintype.card F : ℝ) ^ (i : ℕ) / (Fintype.card F : ℝ) ^ n) ≤ 1 := hb.2.1
+  refine ⟨∏ i : Fin n, (1 - (Fintype.card F : ℝ) ^ (i : ℕ) / (Fintype.card F : ℝ) ^ n), by linarith, b2, ?_⟩
+  have hrhs : (Fintype.card F : ℝ) ^ (n * n) = ∏ _i : Fin n, (Fintype.card F : ℝ) ^ n := by
+    rw [Finset.prod_const, Finset.card_univ, Fintype.card_fin, ← pow_mul]
+  rw [Matrix.card_GL_field, Nat.cast_prod, hrhs, ← Finset.prod_mul_distrib]
+  apply Finset.prod_congr rfl
+  intro i _
+  have hle : Fintype.card F ^ (i : ℕ) ≤ Fintype.card F ^ n := Nat.pow_le_pow_right (by omega) i.2.le
+  have hcan : (Fintype.card F : ℝ) ^ n * ((Fintype.card F : ℝ) ^ (i : ℕ) / (Fintype.card F : ℝ) ^ n) =
+      (Fintype.card F : ℝ) ^ (i : ℕ) := by
+    field_simp
+  rw [Nat.cast_sub hle, Nat.cast_pow, Nat.cast_pow, mul_sub, mul_one, hcan]
+section Diag
+variable {n : ℕ} {κ : Type} [CommRing κ] {K : Type} [Field K]
+end Diag
+example : Nat.card ↥(HU (ZMod 3) 2) = 3 := by rw [card_HU]; simp
+example : Nat.card ↥(HU (ZMod 5) 4) = 5 ^ 6 := by rw [card_HU]; simp
+example : lamX (ZMod.stdAddChar (N := 3)) (fun _ => 1) 8 3 2 4 1 ≠ 1 :=
+  lamX_ne_one stdAddChar_ne_one _ 2 4 1 (by norm_num) (by norm_num)
+section DiagChar
+variable {n : ℕ} {κ : Type} [CommRing κ] {K : Type} [Field K]
+end DiagChar
+section Sym
+variable {n : ℕ} {κ : Type} [CommRing κ]
+end Sym
+section More
+variable {κ : Type} [CommRing κ] {K : Type} [Field K]
+end More
+section Res
+variable {F E : Type} [Field F] [NumberField F] [Field E] [NumberField E] [Algebra F E] {L : Type} [Field L]
+end Res
+section ParId
+variable {n : ℕ} {κ : Type} [CommRing κ]
+end ParId
+end Formalism.L2.Col
+end
+end
+
+set_option autoImplicit false
+noncomputable section
+open Matrix Finset IsDedekindDomain NumberField
+open Formalism Formalism.L2 Formalism.L2.Col
+namespace Formalism.L2.Col
+theorem _root_.solution (F : Type) [Field F] [Fintype F] [DecidableEq F] (k m : ℕ) (hm : 2 ≤ m) (hev : Even m)
+    (h3 : 3 ≤ Fintype.card F) :
+    ∃ θ : ℝ, 1 / 2 ≤ θ ∧ θ ≤ 1 ∧ ((HPsym F (k + m - 1) k (m / 2 - 1)).index : ℝ) =
+      (Fintype.card F : ℝ) ^ (((k + m - 1) ^ 2 + 3 * k + 1 + 2 * (m / 2 - 1)) / 2) * θ := by
+  obtain ⟨p, hp⟩ := hev
+  obtain ⟨θ, h1, h2, hc⟩ := card_GL_eq_card_pow_mul_theta F (k + m - 1) h3
+  refine ⟨θ, h1, h2, ?_⟩
+  have hlt : m / 2 - 1 + k < k + m - 1 := by omega
+  have hH := card_HPsym F (k + m - 1) k (m / 2 - 1) hlt
+  rw [Nat.card_eq_fintype_card (α := F)] at hH
+  have hmul := Subgroup.card_mul_index (HPsym F (k + m - 1) k (m / 2 - 1))
+  rw [hH] at hmul
+  have hexp : (k + m - 1) * (k + m - 1) = ((k + m - 1) * (k + m - 1 - 1) / 2 - k) +
+      ((k + m - 1) ^ 2 + 3 * k + 1 + 2 * (m / 2 - 1)) / 2 := by
+    subst hp
+    obtain ⟨q', rfl⟩ : ∃ q', p = q' + 1 := ⟨p - 1, by omega⟩
+    have hr : k + (q' + 1 + (q' + 1)) - 1 = k + 2 * q' + 1 := by omega
+    have hd : (q' + 1 + (q' + 1)) / 2 - 1 = q' := by omega
+    rw [hr, hd]
+    have e1 : k + 2 * q' + 1 - 1 = k + 2 * q' := by omega
+    rw [e1]
+    have e2 : (k + 2 * q' + 1) ^ 2 + 3 * k + 1 + 2 * q' = (k + 2 * q' + 1) * (k + 2 * q') + 2 * (k + 2 * q' + 1) + 2 * k := by ring
+    have e3 : (k + 2 * q' + 1) * (k + 2 * q' + 1) = (k + 2 * q' + 1) * (k + 2 * q') + (k + 2 * q' + 1) := by ring
+    have hE : (k + 2 * q' + 1) * (k + 2 * q') % 2 = 0 := by
+      rcases Nat.even_mul_succ_self (k + 2 * q') with ⟨t, ht⟩
+      rw [Nat.mul_comm, ht]
+      omega
+    have hK : 2 * k ≤ (k + 2 * q' + 1) * (k + 2 * q') := by
+      rcases Nat.eq_zero_or_pos k with hk | hk
+      · subst hk; simp
+      · exact Nat.mul_le_mul (by omega) (by omega)
+    rw [e2, e3]
+    generalize (k + 2 * q' + 1) * (k + 2 * q') = A at hE hK ⊢
+    omega
+  have hpos : (0 : ℝ) < (Fintype.card F : ℝ) ^ ((k + m - 1) * (k + m - 1 - 1) / 2 - k) := by
+    have : (0 : ℝ) < (Fintype.card F : ℝ) := by
+      have : (3 : ℝ) ≤ (Fintype.card F : ℝ) := by exact_mod_cast h3
+      linarith
+    positivity
+  have hR : (Fintype.card F : ℝ) ^ ((k + m - 1) * (k + m - 1 - 1) / 2 - k) * ((HPsym F (k + m - 1) k (m / 2 - 1)).index : ℝ) =
+      (Fintype.card F : ℝ) ^ ((k + m - 1) * (k + m - 1 - 1) / 2 - k) *
+        ((Fintype.card F : ℝ) ^ (((k + m - 1) ^ 2 + 3 * k + 1 + 2 * (m / 2 - 1)) / 2) * θ) := by
+    have hm := congrArg (fun x : ℕ => (x : ℝ)) hmul
+    push_cast at hm
+    rw [hm, hc, hexp, pow_add, mul_assoc]
+  exact mul_left_cancel₀ hpos.ne' hR
+end Formalism.L2.Col

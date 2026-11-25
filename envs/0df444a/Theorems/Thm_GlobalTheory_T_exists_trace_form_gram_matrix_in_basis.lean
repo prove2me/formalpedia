@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_trace_form_gram_matrix_in_basis
 -- name    : GlobalTheory.T.exists_trace_form_gram_matrix_in_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:32.777618+00:00
 -- url     : https://prove2.me/theorems/4dfffd63-62fc-4bd2-bcfc-bff04c0a7c24

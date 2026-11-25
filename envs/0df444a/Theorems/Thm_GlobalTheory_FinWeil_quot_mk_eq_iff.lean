@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_quot_mk_eq_iff
 -- name    : GlobalTheory.FinWeil.quot_mk_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:04:52.274872+00:00
 -- url     : https://prove2.me/theorems/833883c2-a053-4289-b1f1-e0db1367775a

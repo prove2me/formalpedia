@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothPolynomialEvaluation_main
 -- name    : GlobalTheory.SmoothPolynomialEvaluation.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:23:52.477168+00:00
 -- url     : https://prove2.me/theorems/ff3475d8-0232-5cac-a28f-f861360046e4

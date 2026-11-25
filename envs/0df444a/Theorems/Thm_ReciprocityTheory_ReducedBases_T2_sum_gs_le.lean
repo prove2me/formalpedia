@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_sum_gs_le
 -- name    : ReciprocityTheory.ReducedBases.T2.sum_gs_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:35:37.670479+00:00
 -- url     : https://prove2.me/theorems/4440799e-53ec-4191-9ccd-c4fa811c7acd

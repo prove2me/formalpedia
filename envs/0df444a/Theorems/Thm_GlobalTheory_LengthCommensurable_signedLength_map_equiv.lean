@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_signedLength_map_equiv
 -- name    : GlobalTheory.LengthCommensurable.signedLength_map_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:17.755332+00:00
 -- url     : https://prove2.me/theorems/ad857375-fb07-44ef-a96d-61d6eb3f5406

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_kleimanNef
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.kleimanNef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:44.089738+00:00
 -- url     : https://prove2.me/theorems/f13990ac-961e-4ea6-b3c7-1f0e3ecb602f

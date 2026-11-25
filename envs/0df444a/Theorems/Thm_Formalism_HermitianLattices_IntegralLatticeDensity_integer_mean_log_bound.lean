@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_integer_mean_log_bound
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.integer_mean_log_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:40:58.156573+00:00
 -- url     : https://prove2.me/theorems/38e594d0-e1e6-5a42-a5b7-ed7a3718188b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smoothOfRelativeDimension_descends_etale_cover
 -- name    : GlobalTheory.T.smoothOfRelativeDimension_descends_etale_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:57:59.294433+00:00
 -- url     : https://prove2.me/theorems/5bd2b3a8-6e57-56af-b27e-79f61724dca7

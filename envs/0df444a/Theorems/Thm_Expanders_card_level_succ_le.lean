@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Expanders_card_level_succ_le
 -- name    : Expanders.card_level_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:08:55.926682+00:00
 -- url     : https://prove2.me/theorems/1fd3d32c-8cfb-4756-93ad-a1bf2bcc2164

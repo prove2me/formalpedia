@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimSec_loc_ne_zero
 -- name    : GlobalTheory.PrimSec.loc_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:01:23.623752+00:00
 -- url     : https://prove2.me/theorems/1da927a1-1762-4823-83af-5ecf50aa67ab

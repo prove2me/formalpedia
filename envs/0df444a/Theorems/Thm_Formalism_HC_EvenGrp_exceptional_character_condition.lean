@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_exceptional_character_condition
 -- name    : Formalism.HC.EvenGrp.exceptional_character_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:39:27.460862+00:00
 -- url     : https://prove2.me/theorems/7ae342ec-89ba-49f5-80c8-eb6a0bce02dc

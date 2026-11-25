@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDescent_exists_fun
 -- name    : GlobalTheory.TraceDescent.exists_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:50:35.311955+00:00
 -- url     : https://prove2.me/theorems/c43f866b-84e9-4768-8c5f-d17cb266a3da

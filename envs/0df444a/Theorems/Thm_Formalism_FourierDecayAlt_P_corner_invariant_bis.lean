@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_corner_invariant_bis
 -- name    : Formalism.FourierDecayAlt.P.corner_invariant_bis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:34.297899+00:00
 -- url     : https://prove2.me/theorems/ff09bb47-ec9c-53e0-a708-437e1cdb549d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_GalTr_coeff_sl_gal
 -- name    : GlobalTheory.Glue.GalTr.coeff_sl_gal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:43.286749+00:00
 -- url     : https://prove2.me/theorems/8a9b884a-c8d8-49c3-b6ee-f4cc484c5f22

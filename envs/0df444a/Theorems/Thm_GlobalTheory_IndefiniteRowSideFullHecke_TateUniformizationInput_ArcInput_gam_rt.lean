@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TateUniformizationInput_ArcInput_gam_rt
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TateUniformizationInput.ArcInput.gam_rt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:09:59.571805+00:00
 -- url     : https://prove2.me/theorems/f8773d28-4710-4f8e-9cb8-6a72d878c012

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_projection_property
 -- name    : Formalism.FourierDecayAlt.P.projection_property
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:57.481982+00:00
 -- url     : https://prove2.me/theorems/3e7eabba-3d04-4f7f-b342-21ef9bd43a51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_secNorm_form
 -- name    : GlobalTheory.CompanionTheory.Ar.secNorm_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:00:42.3768+00:00
 -- url     : https://prove2.me/theorems/1717ced9-a145-5c84-9712-1575432c8fe5

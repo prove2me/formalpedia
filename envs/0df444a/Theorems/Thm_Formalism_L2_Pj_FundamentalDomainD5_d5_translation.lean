@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_FundamentalDomainD5_d5_translation
 -- name    : Formalism.L2.Pj.FundamentalDomainD5.d5_translation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:46:50.536626+00:00
 -- url     : https://prove2.me/theorems/db8c381c-ce6c-5d35-816f-68f021eb8523

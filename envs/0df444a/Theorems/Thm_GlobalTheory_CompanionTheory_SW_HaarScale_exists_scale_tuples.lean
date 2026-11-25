@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_HaarScale_exists_scale_tuples
 -- name    : GlobalTheory.CompanionTheory.SW.HaarScale.exists_scale_tuples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:19.59514+00:00
 -- url     : https://prove2.me/theorems/2f18c799-a738-4cd3-aa19-400e953098b4

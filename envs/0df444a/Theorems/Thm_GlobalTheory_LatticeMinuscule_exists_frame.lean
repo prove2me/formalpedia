@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeMinuscule_exists_frame
 -- name    : GlobalTheory.LatticeMinuscule.exists_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:01.669446+00:00
 -- url     : https://prove2.me/theorems/e7b9ca3d-8df2-5630-82f2-083297a29f6c

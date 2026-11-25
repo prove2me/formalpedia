@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_not_mem_of_mod
 -- name    : UpperTheory.Small.not_mem_of_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:27.294619+00:00
 -- url     : https://prove2.me/theorems/bbc399a6-c63c-4335-b581-bbc2e90ddc9c

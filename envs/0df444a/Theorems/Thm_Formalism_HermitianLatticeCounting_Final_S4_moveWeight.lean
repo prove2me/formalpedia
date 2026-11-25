@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_moveWeight
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.moveWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:59.06889+00:00
 -- url     : https://prove2.me/theorems/1c689b55-3195-4365-adf6-0dcff4f35b5c

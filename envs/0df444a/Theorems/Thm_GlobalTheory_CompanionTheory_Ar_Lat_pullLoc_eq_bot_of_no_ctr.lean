@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_pullLoc_eq_bot_of_no_ctr
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.pullLoc_eq_bot_of_no_ctr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:29.972202+00:00
 -- url     : https://prove2.me/theorems/c2913878-ce9d-4111-822a-2f25b2af3ead

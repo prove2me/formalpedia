@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r25a_Tw_HeisLatVac_lc_pow_near_one
 -- name    : UpperTheory.Reformulated.B.P6.r25a.Tw.HeisLatVac.lc_pow_near_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:39:15.199554+00:00
 -- url     : https://prove2.me/theorems/8e58bc58-bcb7-44c7-8812-d4ee97dc28f6

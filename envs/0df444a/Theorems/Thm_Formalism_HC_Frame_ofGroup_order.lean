@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_ofGroup_order
 -- name    : Formalism.HC.Frame.ofGroup_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:28.457291+00:00
 -- url     : https://prove2.me/theorems/b719b5aa-7253-4b0d-9367-036b46b367a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_commutant_multiplicity_one
 -- name    : commutant_multiplicity_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:14:15.800232+00:00
 -- url     : https://prove2.me/theorems/280b92a0-1d42-419e-8a57-f8ffe3163db1

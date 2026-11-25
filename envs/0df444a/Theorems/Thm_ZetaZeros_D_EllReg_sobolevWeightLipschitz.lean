@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_sobolevWeightLipschitz
 -- name    : ZetaZeros.D.EllReg.sobolevWeightLipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:16:42.033129+00:00
 -- url     : https://prove2.me/theorems/5ad12cf4-42c8-4b77-92d0-1fcd4ef53590

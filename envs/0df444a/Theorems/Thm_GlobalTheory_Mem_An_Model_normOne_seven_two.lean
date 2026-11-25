@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_Model_normOne_seven_two
 -- name    : GlobalTheory.Mem.An.Model.normOne_seven_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:16.854241+00:00
 -- url     : https://prove2.me/theorems/dff8aedd-7e66-4c5f-8b88-7299f1999b35

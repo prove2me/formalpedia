@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_UnitaryIsometries_Modular_eq_one_of_iterate
 -- name    : Formalism.L2.SG.RealObj.InfCut.UnitaryIsometries.Modular.eq_one_of_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:48:42.602152+00:00
 -- url     : https://prove2.me/theorems/09e43ff1-dba6-48b3-923f-c2a1075ef7cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_norm_flatSec
 -- name    : GlobalTheory.Doubling.norm_flatSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:03:58.679806+00:00
 -- url     : https://prove2.me/theorems/c3dfc55d-b2ee-484b-80af-89317b9d7c8d

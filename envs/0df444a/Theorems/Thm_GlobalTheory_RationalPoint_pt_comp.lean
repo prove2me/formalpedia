@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RationalPoint_pt_comp
 -- name    : GlobalTheory.RationalPoint.pt_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:20:03.688858+00:00
 -- url     : https://prove2.me/theorems/8937cd20-5698-46a0-b605-8ea57fcd9a45

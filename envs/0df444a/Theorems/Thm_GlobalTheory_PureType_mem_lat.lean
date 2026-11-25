@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PureType_mem_lat
 -- name    : GlobalTheory.PureType.mem_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:55:04.070059+00:00
 -- url     : https://prove2.me/theorems/0bc0bf71-367c-56f4-89ac-2bb39e1503df

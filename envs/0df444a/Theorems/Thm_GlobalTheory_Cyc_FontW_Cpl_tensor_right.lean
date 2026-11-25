@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_FontW_Cpl_tensor_right
 -- name    : GlobalTheory.Cyc.FontW.Cpl.tensor_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:03:15.564178+00:00
 -- url     : https://prove2.me/theorems/5c1a9e1e-edcb-58da-9654-fbd88ccc1804

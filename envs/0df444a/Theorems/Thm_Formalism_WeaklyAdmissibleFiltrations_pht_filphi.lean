@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_pht_filphi
 -- name    : Formalism.WeaklyAdmissibleFiltrations.pht_filphi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:53:28.454521+00:00
 -- url     : https://prove2.me/theorems/5b8f8caf-f30a-456f-80f2-9189f38ab663

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_first_polynomial_bound
 -- name    : Formalism.FourierDecayAlt.P.first_polynomial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:33:29.0872+00:00
 -- url     : https://prove2.me/theorems/6363f1e3-dd84-48ec-b0af-33ccb048b689

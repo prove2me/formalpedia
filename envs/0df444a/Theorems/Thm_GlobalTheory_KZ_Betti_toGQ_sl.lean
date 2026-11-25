@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KZ_Betti_toGQ_sl
 -- name    : GlobalTheory.KZ.Betti.toGQ_sl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:12:11.0024+00:00
 -- url     : https://prove2.me/theorems/e3c8a2f8-6d7d-4954-966b-c89bbc5c87fb

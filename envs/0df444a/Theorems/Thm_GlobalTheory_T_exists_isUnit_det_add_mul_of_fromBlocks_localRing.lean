@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isUnit_det_add_mul_of_fromBlocks_localRing
 -- name    : GlobalTheory.T.exists_isUnit_det_add_mul_of_fromBlocks_localRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:59.357032+00:00
 -- url     : https://prove2.me/theorems/a8dcad5c-1809-4cec-899b-8ff9267a41b4

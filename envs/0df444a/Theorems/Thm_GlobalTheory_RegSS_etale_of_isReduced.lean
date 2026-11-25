@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_etale_of_isReduced
 -- name    : GlobalTheory.RegSS.etale_of_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:27:03.340669+00:00
 -- url     : https://prove2.me/theorems/74989f4c-632a-4aa9-b096-63ada6a3be09

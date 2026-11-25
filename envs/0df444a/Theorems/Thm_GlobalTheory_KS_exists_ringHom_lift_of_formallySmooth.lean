@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_exists_ringHom_lift_of_formallySmooth
 -- name    : GlobalTheory.KS.exists_ringHom_lift_of_formallySmooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:03.239971+00:00
 -- url     : https://prove2.me/theorems/215c736c-3c7c-50ac-ba69-1e9e6e1ca289

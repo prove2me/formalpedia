@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_one_of_appLE_section_eq_one
 -- name    : GlobalTheory.eq_one_of_appLE_section_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:53:16.13609+00:00
 -- url     : https://prove2.me/theorems/ce34be01-eec1-58a8-a1c6-c18e76d46552

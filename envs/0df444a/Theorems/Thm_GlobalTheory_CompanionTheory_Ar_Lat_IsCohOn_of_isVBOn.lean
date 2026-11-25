@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Lat_IsCohOn_of_isVBOn
 -- name    : GlobalTheory.CompanionTheory.Ar.Lat.IsCohOn.of_isVBOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:59:35.275801+00:00
 -- url     : https://prove2.me/theorems/a1e4a713-5b7f-480a-898c-1774d6c28b99

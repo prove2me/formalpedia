@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Rd_sqrt_qd_le
 -- name    : UpperTheory.Ram.Rd.sqrt_qd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:12:01.120836+00:00
 -- url     : https://prove2.me/theorems/bfd954d2-d57c-48de-8afc-63c1a81092d4

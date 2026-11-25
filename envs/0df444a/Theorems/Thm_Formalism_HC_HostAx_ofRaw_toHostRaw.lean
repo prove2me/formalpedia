@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostAx_ofRaw_toHostRaw
 -- name    : Formalism.HC.HostAx.ofRaw_toHostRaw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:48:02.859132+00:00
 -- url     : https://prove2.me/theorems/8ed56784-4522-5c5d-8d19-3cf361bca72f

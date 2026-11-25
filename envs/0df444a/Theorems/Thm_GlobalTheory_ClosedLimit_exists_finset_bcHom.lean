@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedLimit_exists_finset_bcHom
 -- name    : GlobalTheory.ClosedLimit.exists_finset_bcHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:01:26.652797+00:00
 -- url     : https://prove2.me/theorems/6579256f-f127-5d94-82e2-4cfb95a18173

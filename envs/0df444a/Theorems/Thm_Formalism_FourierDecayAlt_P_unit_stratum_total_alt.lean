@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unit_stratum_total_alt
 -- name    : Formalism.FourierDecayAlt.P.unit_stratum_total_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:36:39.239582+00:00
 -- url     : https://prove2.me/theorems/80372b20-237b-4e06-9ecf-46e0b1615766

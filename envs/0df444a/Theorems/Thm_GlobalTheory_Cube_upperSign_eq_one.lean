@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_upperSign_eq_one
 -- name    : GlobalTheory.Cube.upperSign_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:15.167505+00:00
 -- url     : https://prove2.me/theorems/b94f7f25-7075-46e2-a059-062525ef604f

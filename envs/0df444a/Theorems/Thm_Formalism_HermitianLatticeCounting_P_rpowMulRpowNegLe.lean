@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_rpowMulRpowNegLe
 -- name    : Formalism.HermitianLatticeCounting.P.rpowMulRpowNegLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:04.368217+00:00
 -- url     : https://prove2.me/theorems/2d287be5-8827-425b-9e19-1b586e0a1087

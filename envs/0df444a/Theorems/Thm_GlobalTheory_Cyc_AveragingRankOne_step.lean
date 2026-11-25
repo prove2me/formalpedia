@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AveragingRankOne_step
 -- name    : GlobalTheory.Cyc.AveragingRankOne.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:02:41.167953+00:00
 -- url     : https://prove2.me/theorems/27407283-be79-49e4-8411-1c104dd1b698

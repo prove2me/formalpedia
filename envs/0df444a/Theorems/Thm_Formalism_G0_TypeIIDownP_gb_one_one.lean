@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TypeIIDownP_gb_one_one
 -- name    : Formalism.G0.TypeIIDownP.gb_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:37:54.886036+00:00
 -- url     : https://prove2.me/theorems/8a6c5ec6-236f-5720-9153-9c7f749848d7

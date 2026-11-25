@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_localStepClosedQ
 -- name    : Formalism.MainNotions.Gaps.T0.localStepClosedQ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:17:06.512442+00:00
 -- url     : https://prove2.me/theorems/5277f8a4-67c2-4705-b71a-4650fbf0dd09

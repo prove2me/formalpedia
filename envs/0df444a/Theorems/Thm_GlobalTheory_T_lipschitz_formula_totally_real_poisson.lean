@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lipschitz_formula_totally_real_poisson
 -- name    : GlobalTheory.T.lipschitz_formula_totally_real_poisson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:37:31.136452+00:00
 -- url     : https://prove2.me/theorems/5cb9b4f9-b121-453b-8cb4-5d90ed9f422a

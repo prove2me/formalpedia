@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_bwp_sepPoly
 -- name    : ReciprocityTheory.MultiplicativeHeights.bwp_sepPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:03:59.881115+00:00
 -- url     : https://prove2.me/theorems/fcffc59b-f26a-40b8-a3e3-33134fb7a059

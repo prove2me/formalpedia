@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isPolynomialRepGLComplex_algebraicWeight_evalPoint
 -- name    : GlobalTheory.T.isPolynomialRepGLComplex_algebraicWeight_evalPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:37:29.95794+00:00
 -- url     : https://prove2.me/theorems/397ea2d4-0ca0-46ea-86e1-bdd439167c89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalAlg_baseIdeal_ideal
 -- name    : GlobalTheory.FormalAlg.baseIdeal_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:29.638305+00:00
 -- url     : https://prove2.me/theorems/a48a20a8-be92-4d46-8b5f-255ac3eda6f1

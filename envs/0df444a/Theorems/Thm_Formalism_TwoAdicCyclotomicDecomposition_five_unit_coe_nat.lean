@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_TwoAdicCyclotomicDecomposition_five_unit_coe_nat
 -- name    : Formalism.TwoAdicCyclotomicDecomposition.five_unit_coe_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:53:11.038397+00:00
 -- url     : https://prove2.me/theorems/52957910-ce69-4dec-90c6-f95da72fe0f3

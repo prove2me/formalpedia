@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCharMult_theta_sq_law_of_zero
 -- name    : GlobalTheory.ThetaCharMult.theta_sq_law_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:05:31.563446+00:00
 -- url     : https://prove2.me/theorems/9c1086d3-0e15-4c31-9ac2-18af852e81e5

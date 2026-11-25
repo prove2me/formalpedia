@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_sizes_product_identity
 -- name    : Formalism.FourierDecayAlt.P.sizes_product_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:34:59.610685+00:00
 -- url     : https://prove2.me/theorems/65e9a6d7-8825-4e9f-9aa3-4e3592fdbe24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tail_sum_over_places_small
 -- name    : GlobalTheory.T.tail_sum_over_places_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:59:49.836465+00:00
 -- url     : https://prove2.me/theorems/f8cbbc77-2c3c-4615-82bd-e2856a8654e4

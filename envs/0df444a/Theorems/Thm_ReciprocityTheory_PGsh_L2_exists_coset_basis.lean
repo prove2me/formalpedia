@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_exists_coset_basis
 -- name    : ReciprocityTheory.PGsh.L2.exists_coset_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:14.138854+00:00
 -- url     : https://prove2.me/theorems/60b762d3-802f-446d-b67a-7f34072140bd

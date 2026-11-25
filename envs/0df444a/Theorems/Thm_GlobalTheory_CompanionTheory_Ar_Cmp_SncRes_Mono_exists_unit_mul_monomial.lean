@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Mono_exists_unit_mul_monomial
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Mono.exists_unit_mul_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:28.744673+00:00
 -- url     : https://prove2.me/theorems/18fef215-92a9-4952-8480-160e2bc73064

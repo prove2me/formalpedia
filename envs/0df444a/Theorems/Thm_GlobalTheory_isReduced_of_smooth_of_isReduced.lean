@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isReduced_of_smooth_of_isReduced
 -- name    : GlobalTheory.isReduced_of_smooth_of_isReduced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:38:42.479866+00:00
 -- url     : https://prove2.me/theorems/ba029d0b-3ed1-5905-bbcf-bc9e68cb8432

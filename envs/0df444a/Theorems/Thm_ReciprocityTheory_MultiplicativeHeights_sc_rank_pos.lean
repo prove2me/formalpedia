@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sc_rank_pos
 -- name    : ReciprocityTheory.MultiplicativeHeights.sc_rank_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:04:54.701811+00:00
 -- url     : https://prove2.me/theorems/b1b0e461-8798-43a2-afb8-000918801d6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_t_EstEJoint
 -- name    : Formalism.FourierDecayAlt.P.LEx2.t_EstEJoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:27:15.110567+00:00
 -- url     : https://prove2.me/theorems/81eedc30-abdf-4440-82a1-3af63a6cb45d

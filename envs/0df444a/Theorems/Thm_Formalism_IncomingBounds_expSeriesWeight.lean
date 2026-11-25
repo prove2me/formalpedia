@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_expSeriesWeight
 -- name    : Formalism.IncomingBounds.expSeriesWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:06.819637+00:00
 -- url     : https://prove2.me/theorems/6dfcc684-ad2d-4ac8-a627-855c6117e447

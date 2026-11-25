@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_final_numerical_inequalities
 -- name    : UnipMove.final_numerical_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:29.208637+00:00
 -- url     : https://prove2.me/theorems/8583ee58-095e-40b0-b607-d3886086e8aa

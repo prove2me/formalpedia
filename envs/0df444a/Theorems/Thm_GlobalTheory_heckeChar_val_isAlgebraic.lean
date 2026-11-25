@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_heckeChar_val_isAlgebraic
 -- name    : GlobalTheory.heckeChar_val_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:55:55.153128+00:00
 -- url     : https://prove2.me/theorems/3fa42a50-3028-4c1f-9cdd-4450d99c420d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_TwExtend_pw_rel
 -- name    : GlobalTheory.AbLaw.TwExtend.pw_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:02:02.933875+00:00
 -- url     : https://prove2.me/theorems/45b6575a-c02d-4fa4-ba4d-f87d3265900d

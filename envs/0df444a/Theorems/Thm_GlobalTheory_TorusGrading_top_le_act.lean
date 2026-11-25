@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusGrading_top_le_act
 -- name    : GlobalTheory.TorusGrading.top_le_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:03:19.268021+00:00
 -- url     : https://prove2.me/theorems/81e72b44-b651-5a7b-84f8-4f240379d4da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lift_letters
 -- name    : Formalism.FourierDecayAlt.P.lift_letters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:33:03.42115+00:00
 -- url     : https://prove2.me/theorems/2eecebf2-86b8-5eee-b55d-9ecfab9aec08

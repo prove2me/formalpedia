@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_cmHalfLatticeIff
 -- name    : Formalism.L2.Th1.F.cmHalfLatticeIff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:48:24.145301+00:00
 -- url     : https://prove2.me/theorems/77282dee-4147-5909-992d-fbf64d72d179

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasTriangularWeightPoly_norm_eval_le
 -- name    : GlobalTheory.HasTriangularWeightPoly.norm_eval_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:07:21.847638+00:00
 -- url     : https://prove2.me/theorems/f22e155e-3a57-57dc-a8b5-d262874ab105

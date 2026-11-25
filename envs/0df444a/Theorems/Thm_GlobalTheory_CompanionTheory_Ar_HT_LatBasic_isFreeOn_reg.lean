@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HT_LatBasic_isFreeOn_reg
 -- name    : GlobalTheory.CompanionTheory.Ar.HT.LatBasic.isFreeOn_reg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:59:01.619532+00:00
 -- url     : https://prove2.me/theorems/b29f29f0-4214-52a8-b86b-00633a836a66

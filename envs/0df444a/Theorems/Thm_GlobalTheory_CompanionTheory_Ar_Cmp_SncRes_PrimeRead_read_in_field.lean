@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_PrimeRead_read_in_field
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.PrimeRead.read_in_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:34:34.946783+00:00
 -- url     : https://prove2.me/theorems/1089c29f-e6c4-5baf-84ae-ddf41017544b

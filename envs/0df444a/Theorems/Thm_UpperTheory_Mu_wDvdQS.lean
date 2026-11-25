@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_wDvdQS
 -- name    : UpperTheory.Mu.wDvdQS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:24:21.392704+00:00
 -- url     : https://prove2.me/theorems/e240f537-309b-4861-91fe-946da114b845

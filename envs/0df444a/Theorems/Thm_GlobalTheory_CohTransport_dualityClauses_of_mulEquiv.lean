@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohTransport_dualityClauses_of_mulEquiv
 -- name    : GlobalTheory.CohTransport.dualityClauses_of_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:57.352278+00:00
 -- url     : https://prove2.me/theorems/31a5a551-7b92-43f2-aca0-90a418f5aca9

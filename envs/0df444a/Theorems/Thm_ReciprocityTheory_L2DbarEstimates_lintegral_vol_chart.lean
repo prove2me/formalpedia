@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_lintegral_vol_chart
 -- name    : ReciprocityTheory.L2DbarEstimates.lintegral_vol_chart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:11.408988+00:00
 -- url     : https://prove2.me/theorems/9ed2e4cf-461f-4213-8326-8979912af616

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_vector_truncation_all_places
 -- name    : Formalism.FourierDecayAlt.P.vector_truncation_all_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:47:45.423916+00:00
 -- url     : https://prove2.me/theorems/9abd5e48-4124-5ba1-aba8-54ff4981bde4

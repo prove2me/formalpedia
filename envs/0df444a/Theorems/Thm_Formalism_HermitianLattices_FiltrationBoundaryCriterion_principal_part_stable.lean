@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_principal_part_stable
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.principal_part_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:39.934851+00:00
 -- url     : https://prove2.me/theorems/826c7005-560c-441a-a90c-3f321fdbd911

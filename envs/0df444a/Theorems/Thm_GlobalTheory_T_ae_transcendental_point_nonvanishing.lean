@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ae_transcendental_point_nonvanishing
 -- name    : GlobalTheory.T.ae_transcendental_point_nonvanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:12.27769+00:00
 -- url     : https://prove2.me/theorems/6ea74878-2a50-50c8-9f94-895e4116d729

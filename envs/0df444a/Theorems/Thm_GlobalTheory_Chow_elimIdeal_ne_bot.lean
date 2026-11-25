@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_elimIdeal_ne_bot
 -- name    : GlobalTheory.Chow.elimIdeal_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:50.026191+00:00
 -- url     : https://prove2.me/theorems/7bda251a-cfea-48b2-81ae-84f546c78fbc

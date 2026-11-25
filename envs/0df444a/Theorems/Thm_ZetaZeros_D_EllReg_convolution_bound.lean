@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_convolution_bound
 -- name    : ZetaZeros.D.EllReg.convolution_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:36.165706+00:00
 -- url     : https://prove2.me/theorems/4468ab35-ff97-4dbe-8cd3-e5b13b378840

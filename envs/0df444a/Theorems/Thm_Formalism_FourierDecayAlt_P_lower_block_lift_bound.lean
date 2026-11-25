@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lower_block_lift_bound
 -- name    : Formalism.FourierDecayAlt.P.lower_block_lift_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:18.748036+00:00
 -- url     : https://prove2.me/theorems/fe920d77-1815-445b-9c3a-f9d4d7510a61

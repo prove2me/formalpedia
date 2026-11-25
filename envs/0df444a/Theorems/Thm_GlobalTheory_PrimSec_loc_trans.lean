@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimSec_loc_trans
 -- name    : GlobalTheory.PrimSec.loc_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:58:16.857538+00:00
 -- url     : https://prove2.me/theorems/f320078c-b6ad-4e8c-aedf-a2aa890e3600

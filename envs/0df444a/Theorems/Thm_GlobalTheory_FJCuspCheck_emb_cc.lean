@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FJCuspCheck_emb_cc
 -- name    : GlobalTheory.FJCuspCheck.emb_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:53.759785+00:00
 -- url     : https://prove2.me/theorems/2012e569-3dfa-5fbb-86c2-9a3007bfe86b

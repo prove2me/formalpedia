@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_cyclicFrame_digit
 -- name    : Formalism.HC.cyclicFrame_digit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:38:29.708371+00:00
 -- url     : https://prove2.me/theorems/f42349f8-7335-47d9-a286-d5f3662197a3

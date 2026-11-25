@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_integrable_polar
 -- name    : ReciprocityTheory.MultiplicativeHeights.integrable_polar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:14.094939+00:00
 -- url     : https://prove2.me/theorems/9d7ae681-2557-46c0-aa38-cc21670e9f25

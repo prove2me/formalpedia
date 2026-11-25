@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Phase_Calc_ph_cancel
 -- name    : GlobalTheory.Phase.Calc.ph_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:15:04.536527+00:00
 -- url     : https://prove2.me/theorems/0a252860-3dbc-592e-847c-86ae3e0e4aaf

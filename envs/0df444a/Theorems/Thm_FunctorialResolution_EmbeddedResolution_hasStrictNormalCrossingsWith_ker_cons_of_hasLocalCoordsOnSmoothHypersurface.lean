@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_hasStrictNormalCrossingsWith_ker_cons_of_hasLocalCoordsOnSmoothHypersurface
 -- name    : FunctorialResolution.EmbeddedResolution.hasStrictNormalCrossingsWith_ker_cons_of_hasLocalCoordsOnSmoothHypersurface
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:00:47.305977+00:00
 -- url     : https://prove2.me/theorems/f731a17a-e319-4f82-83b8-cf897ad5eb6b

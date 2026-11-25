@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coefficientField_integers_dedekind_fractionField
 -- name    : GlobalTheory.T.coefficientField_integers_dedekind_fractionField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:02.869789+00:00
 -- url     : https://prove2.me/theorems/55c81ff5-da02-55eb-99bb-e3ad8309e29b

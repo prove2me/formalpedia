@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_minor_evaluation
 -- name    : minor_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:14:32.750921+00:00
 -- url     : https://prove2.me/theorems/b1bf3632-5f94-4820-a09a-2a8a390784bc

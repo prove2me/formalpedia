@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chamber_IsOrth_mono
 -- name    : GlobalTheory.Chamber.IsOrth.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:23.574794+00:00
 -- url     : https://prove2.me/theorems/4bcfd1f4-5757-44f2-9c72-9029f3b8fe99

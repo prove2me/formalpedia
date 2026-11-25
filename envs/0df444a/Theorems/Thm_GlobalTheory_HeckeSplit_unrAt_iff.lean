@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplit_unrAt_iff
 -- name    : GlobalTheory.HeckeSplit.unrAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:50.075738+00:00
 -- url     : https://prove2.me/theorems/f2f8b230-3f01-4f2b-b65f-0b423cc04628

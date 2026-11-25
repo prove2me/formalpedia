@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_size_reduce
 -- name    : ReciprocityTheory.ReducedBases.T2.size_reduce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:56.313842+00:00
 -- url     : https://prove2.me/theorems/07dbf133-c37a-5898-b18a-e14b4242a989

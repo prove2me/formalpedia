@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ratioPowLeProdMaxPow
 -- name    : Formalism.HermitianLatticeCounting.P.ratioPowLeProdMaxPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:39:37.7006+00:00
 -- url     : https://prove2.me/theorems/5b864c1e-adaa-495d-82cf-e6d06266dc56

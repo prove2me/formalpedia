@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasConstSecondDiff_polarBilin_quadraticMap
 -- name    : GlobalTheory.HasConstSecondDiff.polarBilin_quadraticMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:53.843489+00:00
 -- url     : https://prove2.me/theorems/0993fb9f-e233-4b6c-9e82-d88cadd33f23

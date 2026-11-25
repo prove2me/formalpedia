@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefPkg2_mi0
 -- name    : Formalism.L2.Indef.IndefPkg2.mi0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:09.909788+00:00
 -- url     : https://prove2.me/theorems/6d43e59f-2812-48e2-86d2-b656b6f7ffaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_continuous_of_continuousAt_one
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.continuous_of_continuousAt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:15:50.318646+00:00
 -- url     : https://prove2.me/theorems/0e8cd4ff-5355-5c34-af92-0104109f0aee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_PlaceDegreeSums_sum_count_log_norm
 -- name    : Formalism.L2.Pj.QAt.PlaceDegreeSums.sum_count_log_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:45:54.179802+00:00
 -- url     : https://prove2.me/theorems/783c321a-6325-4752-bb44-e4264a82260b

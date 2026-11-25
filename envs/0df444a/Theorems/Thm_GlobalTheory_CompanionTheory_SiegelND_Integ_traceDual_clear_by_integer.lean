@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_traceDual_clear_by_integer
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.traceDual_clear_by_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:48.568039+00:00
 -- url     : https://prove2.me/theorems/546a8e5e-60df-4463-ba62-d5f8441ecf00

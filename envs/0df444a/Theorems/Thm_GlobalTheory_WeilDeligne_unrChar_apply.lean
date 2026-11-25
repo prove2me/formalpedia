@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilDeligne_unrChar_apply
 -- name    : GlobalTheory.WeilDeligne.unrChar_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:07:28.987752+00:00
 -- url     : https://prove2.me/theorems/c7c32967-4a50-5fd7-bea9-8955d12762d6

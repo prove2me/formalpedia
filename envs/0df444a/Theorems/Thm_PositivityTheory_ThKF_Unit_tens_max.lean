@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_Unit_tens_max
 -- name    : PositivityTheory.ThKF.Unit.tens_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:18:29.371129+00:00
 -- url     : https://prove2.me/theorems/bb6d3602-06d5-598c-8ac6-cbe916f02c28

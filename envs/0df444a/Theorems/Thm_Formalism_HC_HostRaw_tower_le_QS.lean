@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_tower_le_QS
 -- name    : Formalism.HC.HostRaw.tower_le_QS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:38:27.753588+00:00
 -- url     : https://prove2.me/theorems/e6c97821-0fff-4710-aeeb-5868ae3dc71c

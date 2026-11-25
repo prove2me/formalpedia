@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_generator_extend_discreteValuationRing
 -- name    : GlobalTheory.T.existsUnique_generator_extend_discreteValuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:36:22.893895+00:00
 -- url     : https://prove2.me/theorems/34e35766-76b3-4cae-92e1-60628356e298

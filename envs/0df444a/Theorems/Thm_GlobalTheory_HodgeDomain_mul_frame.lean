@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeDomain_mul_frame
 -- name    : GlobalTheory.HodgeDomain.mul_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:07:52.552571+00:00
 -- url     : https://prove2.me/theorems/1197eb40-6a2e-42f9-bcd7-313595b73c2a

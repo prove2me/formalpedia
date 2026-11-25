@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_support_strictTransform_eq_closure_sdiff
 -- name    : FunctorialResolution.EmbeddedResolution.support_strictTransform_eq_closure_sdiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:29.525627+00:00
 -- url     : https://prove2.me/theorems/dbb649f7-51e0-425d-a234-dc23f841b162

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_lengthDegree_of_wdet_frobenius
 -- name    : ReciprocityTheory.PGsh.Up.lengthDegree_of_wdet_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:38.334604+00:00
 -- url     : https://prove2.me/theorems/5e239a46-380e-4d12-85f1-636214e354bf

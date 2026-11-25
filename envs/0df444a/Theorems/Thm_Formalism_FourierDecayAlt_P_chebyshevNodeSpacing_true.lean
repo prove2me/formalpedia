@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_chebyshevNodeSpacing_true
 -- name    : Formalism.FourierDecayAlt.P.chebyshevNodeSpacing_true
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:29:34.200358+00:00
 -- url     : https://prove2.me/theorems/2ae50fef-d192-5f06-b2d3-28766ad92cc6

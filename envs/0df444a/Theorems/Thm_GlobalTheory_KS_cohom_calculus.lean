@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_cohom_calculus
 -- name    : GlobalTheory.KS.cohom_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:12:25.403681+00:00
 -- url     : https://prove2.me/theorems/a3d82ab9-4a29-4563-9c1e-cb621bc28133

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_effCartier_comap_of_isIso_restrict
 -- name    : GlobalTheory.effCartier_comap_of_isIso_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:50:38.829619+00:00
 -- url     : https://prove2.me/theorems/dc98c8d9-037b-490a-b743-d3f85672e707

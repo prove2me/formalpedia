@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_stable_almost_everywhere
 -- name    : GlobalTheory.T.lattice_stable_almost_everywhere
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:35:58.608639+00:00
 -- url     : https://prove2.me/theorems/6d0f31d5-6078-542a-8eec-ea391b66a731

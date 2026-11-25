@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S8_residue
 -- name    : Formalism.HermitianLatticeCounting.Final.S8.residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:19.483851+00:00
 -- url     : https://prove2.me/theorems/d4bd7f8e-75f6-4fb5-bacd-81a288289a38

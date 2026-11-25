@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LB_chartIso_hom_app
 -- name    : GlobalTheory.LB.chartIso_hom_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:07:15.34228+00:00
 -- url     : https://prove2.me/theorems/7b8aff5a-5767-54a1-a779-857f43a13c8a

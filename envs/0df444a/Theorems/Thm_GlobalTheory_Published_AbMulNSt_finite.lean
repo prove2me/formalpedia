@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_AbMulNSt_finite
 -- name    : GlobalTheory.Published.AbMulNSt.finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:15:53.25973+00:00
 -- url     : https://prove2.me/theorems/4636de84-02f4-50bc-8546-d2e8f2b83435

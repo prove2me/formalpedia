@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_trace_almost_onto
 -- name    : GlobalTheory.Cyc.trace_almost_onto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:32:03.140663+00:00
 -- url     : https://prove2.me/theorems/449d3c65-d19b-5ed1-957d-d4eac27e4f2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Cx2_covolume_comap_cj
 -- name    : Formalism.FourierDecayAlt.P.Cx2.covolume_comap_cj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:27:40.674555+00:00
 -- url     : https://prove2.me/theorems/7b26f4a4-e0a6-5157-8674-4d973acc8778

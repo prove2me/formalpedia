@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_exists_isPos
 -- name    : GlobalTheory.RootEx.Model.exists_isPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:25.304928+00:00
 -- url     : https://prove2.me/theorems/a589d405-2b70-5bcc-b5a8-d466773cfba0

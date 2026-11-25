@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HT_LatBasic_exists_smul_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.HT.LatBasic.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:58:45.541671+00:00
 -- url     : https://prove2.me/theorems/d699234e-75d9-559b-b6d9-0ba7ed0c6b79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_selfDual_real_coord
 -- name    : GlobalTheory.CompanionTheory.SW.selfDual_real_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:24.161066+00:00
 -- url     : https://prove2.me/theorems/772400a8-caf6-4d7a-8b02-a2a76fa36c60

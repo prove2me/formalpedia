@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_outside_domination
 -- name    : Formalism.FourierDecayAlt.P.outside_domination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:33:48.354639+00:00
 -- url     : https://prove2.me/theorems/b5379309-ec0a-47f8-a415-e097c13ef6d9

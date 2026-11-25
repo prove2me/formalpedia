@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Sums_linB
 -- name    : Formalism.BehrendSets.Sums.linB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:20:15.652653+00:00
 -- url     : https://prove2.me/theorems/110349f0-ba17-4b9c-aca4-e07ff90aebb2

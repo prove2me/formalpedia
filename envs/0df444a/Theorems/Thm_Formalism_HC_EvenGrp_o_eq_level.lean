@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_EvenGrp_o_eq_level
 -- name    : Formalism.HC.EvenGrp.o_eq_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:36:32.999699+00:00
 -- url     : https://prove2.me/theorems/e33af5f4-b68c-5588-931e-77249d33a353

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_IsModel_of_base
 -- name    : GlobalTheory.Models.IsModel.of_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:19:55.322706+00:00
 -- url     : https://prove2.me/theorems/6c2645a9-45b3-53bc-b698-4f48242fb1c6

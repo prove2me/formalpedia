@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_ev_bcMap
 -- name    : GlobalTheory.CubeLift.ev_bcMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:59:49.53779+00:00
 -- url     : https://prove2.me/theorems/71a7ccf9-9836-4527-a43d-0c75ed5f9e01

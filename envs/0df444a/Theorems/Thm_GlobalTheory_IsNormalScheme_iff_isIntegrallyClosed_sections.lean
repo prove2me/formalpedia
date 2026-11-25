@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsNormalScheme_iff_isIntegrallyClosed_sections
 -- name    : GlobalTheory.IsNormalScheme.iff_isIntegrallyClosed_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:11.583679+00:00
 -- url     : https://prove2.me/theorems/b2c81bd0-8bf1-44c5-b577-ece44ec51616

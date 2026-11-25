@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_matchingIsoCount
 -- name    : Formalism.FourierDecayAlt.P.matchingIsoCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:33:07.764797+00:00
 -- url     : https://prove2.me/theorems/97655811-4605-4351-af1f-c7d13fa98cf8

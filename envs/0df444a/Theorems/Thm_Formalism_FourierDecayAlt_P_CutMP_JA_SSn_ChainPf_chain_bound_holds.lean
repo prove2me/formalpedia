@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_SSn_ChainPf_chain_bound_holds
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.SSn.ChainPf.chain_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:29:06.607737+00:00
 -- url     : https://prove2.me/theorems/13fce1d3-b7e0-5cd4-a77e-e515c4e739d5

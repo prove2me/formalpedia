@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_finite_order_adelic
 -- name    : finite_order_adelic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:15:03.200844+00:00
 -- url     : https://prove2.me/theorems/f803d8b8-4d42-4ae3-88ca-52fbeec69909

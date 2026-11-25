@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_word_weight_bounds
 -- name    : Formalism.FourierDecayAlt.P.word_weight_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:21.225817+00:00
 -- url     : https://prove2.me/theorems/e0a2e16b-f2d7-5f34-b188-036b7da9220a

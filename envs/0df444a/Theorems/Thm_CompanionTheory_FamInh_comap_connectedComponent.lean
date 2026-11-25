@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_FamInh_comap_connectedComponent
 -- name    : CompanionTheory.FamInh.comap_connectedComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:30:18.847454+00:00
 -- url     : https://prove2.me/theorems/2033122d-8c5c-4143-aa95-6a06348b4e2e

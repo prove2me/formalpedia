@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_GaloisLatticeModuleActions_GeneratorBound_le
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.GaloisLatticeModuleActions.GeneratorBound.le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:47.091277+00:00
 -- url     : https://prove2.me/theorems/f27d506c-9827-4cba-9ead-780df494d63f

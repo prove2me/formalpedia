@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_etaleChart_le
 -- name    : FunctorialResolution.EmbeddedResolution.exists_etaleChart_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:21.025799+00:00
 -- url     : https://prove2.me/theorems/0888f547-f22f-4269-9cc2-aae4917aa933

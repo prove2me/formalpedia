@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Prism_FCrys_unit_effective
 -- name    : GlobalTheory.Prism.FCrys.unit_effective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:15.260938+00:00
 -- url     : https://prove2.me/theorems/53dcd04a-8e22-4d4c-a991-286dd2a3705b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_rFac_zero_pf
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.rFac_zero_pf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:03:52.277328+00:00
 -- url     : https://prove2.me/theorems/78dbd1f5-a1e3-4b34-bb68-2d1ef4c011b9

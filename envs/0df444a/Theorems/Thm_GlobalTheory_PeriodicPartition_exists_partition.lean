@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PeriodicPartition_exists_partition
 -- name    : GlobalTheory.PeriodicPartition.exists_partition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:15:21.494099+00:00
 -- url     : https://prove2.me/theorems/23150320-ae07-48e8-938a-e56a5af76d78

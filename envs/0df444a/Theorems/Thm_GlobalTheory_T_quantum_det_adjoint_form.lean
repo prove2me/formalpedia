@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quantum_det_adjoint_form
 -- name    : GlobalTheory.T.quantum_det_adjoint_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:38:10.437896+00:00
 -- url     : https://prove2.me/theorems/131a0b96-f7d2-51d5-9139-da56ded6e9c1

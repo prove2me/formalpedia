@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodViewsNotEnough_iid_ep_expectation
 -- name    : GoodViewsNotEnough.iid_ep_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-23T18:49:24.504506+00:00
 -- url     : https://prove2.me/theorems/50e7d582-135e-427b-b41d-903b26bc5f63

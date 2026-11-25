@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_asAlgebraHom_eq_op
 -- name    : GlobalTheory.BadShare.Basic.asAlgebraHom_eq_op
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:36.553881+00:00
 -- url     : https://prove2.me/theorems/7207468a-e898-4fc4-bd7b-8fd0b2e7c390

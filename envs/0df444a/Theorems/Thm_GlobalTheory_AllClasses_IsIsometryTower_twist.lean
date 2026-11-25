@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AllClasses_IsIsometryTower_twist
 -- name    : GlobalTheory.AllClasses.IsIsometryTower.twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:56:45.063101+00:00
 -- url     : https://prove2.me/theorems/e74431dc-5946-44b6-9cf4-d1f7d947aaab

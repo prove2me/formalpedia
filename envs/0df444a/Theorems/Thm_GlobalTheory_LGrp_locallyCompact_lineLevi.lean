@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_locallyCompact_lineLevi
 -- name    : GlobalTheory.LGrp.locallyCompact_lineLevi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:04.340932+00:00
 -- url     : https://prove2.me/theorems/f918c9e9-7069-4cf4-9636-f7c1020ecf4e

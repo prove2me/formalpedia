@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_ball_volume_exact
 -- name    : Formalism.FourierDecayAlt.P.norm_ball_volume_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:35:09.4728+00:00
 -- url     : https://prove2.me/theorems/f3c8e0c5-d3ce-49e2-8f75-566a579d5931

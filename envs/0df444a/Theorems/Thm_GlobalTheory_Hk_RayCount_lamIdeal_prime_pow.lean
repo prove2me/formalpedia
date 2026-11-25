@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCount_lamIdeal_prime_pow
 -- name    : GlobalTheory.Hk.RayCount.lamIdeal_prime_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:07:20.976576+00:00
 -- url     : https://prove2.me/theorems/0d7e71f6-63e4-505a-829b-cb7ff58f0a25

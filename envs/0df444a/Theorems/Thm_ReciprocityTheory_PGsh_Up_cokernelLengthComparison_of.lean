@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_cokernelLengthComparison_of
 -- name    : ReciprocityTheory.PGsh.Up.cokernelLengthComparison_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:07:38.22222+00:00
 -- url     : https://prove2.me/theorems/a0fcce38-88bb-521a-a442-72f1a5dd9b54

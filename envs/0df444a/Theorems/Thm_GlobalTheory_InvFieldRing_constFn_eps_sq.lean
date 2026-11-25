@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvFieldRing_constFn_eps_sq
 -- name    : GlobalTheory.InvFieldRing.constFn_eps_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:17:14.887883+00:00
 -- url     : https://prove2.me/theorems/0c358777-8e87-5e88-afd0-315697c6ee0e

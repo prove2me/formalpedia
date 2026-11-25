@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_borderedConjugation_diagOne_liftBlockMatrix
 -- name    : GlobalTheory.T.borderedConjugation_diagOne_liftBlockMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:26:47.799027+00:00
 -- url     : https://prove2.me/theorems/21e56aff-a36d-4c25-abf1-b6919a931fe9

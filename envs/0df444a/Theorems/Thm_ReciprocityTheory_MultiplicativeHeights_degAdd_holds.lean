@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_degAdd_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.degAdd_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:12:57.236323+00:00
 -- url     : https://prove2.me/theorems/d80cce93-2991-4e72-83f4-1669f855abb5

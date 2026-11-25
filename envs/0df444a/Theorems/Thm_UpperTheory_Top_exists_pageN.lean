@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Top_exists_pageN
 -- name    : UpperTheory.Top.exists_pageN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:59.544284+00:00
 -- url     : https://prove2.me/theorems/ae4b0cf4-04b6-410e-99cd-3446e79ecaa8

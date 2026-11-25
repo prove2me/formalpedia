@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_homogeneity_natural_degree
 -- name    : Formalism.FourierDecayAlt.P.homogeneity_natural_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:33:41.022803+00:00
 -- url     : https://prove2.me/theorems/d00b3df2-5f45-41fd-b8b6-f6da9723de1c

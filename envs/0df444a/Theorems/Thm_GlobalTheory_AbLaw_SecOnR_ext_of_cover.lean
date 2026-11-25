@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOnR_ext_of_cover
 -- name    : GlobalTheory.AbLaw.SecOnR.ext_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:36:54.279111+00:00
 -- url     : https://prove2.me/theorems/1a53f9a5-24f4-4c12-ae23-a735e9179bde

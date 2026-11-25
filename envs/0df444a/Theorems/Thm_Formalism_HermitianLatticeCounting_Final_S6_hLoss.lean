@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_hLoss
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.hLoss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:37:58.673612+00:00
 -- url     : https://prove2.me/theorems/75b6bfcf-7377-555a-a22b-ec7cd4b0ff80

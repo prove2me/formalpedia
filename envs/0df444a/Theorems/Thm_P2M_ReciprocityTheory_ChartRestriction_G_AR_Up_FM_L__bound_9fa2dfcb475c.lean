@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_FM_L__bound_9fa2dfcb475c
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_FM_L__bound_9fa2dfcb475c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:16:20.594164+00:00
 -- url     : https://prove2.me/theorems/013c0b1a-8edb-4702-b7bb-935f5b076fda

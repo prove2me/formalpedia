@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Sandwich_HodgeTateBound_range_le_ker
 -- name    : GlobalTheory.Sandwich.HodgeTateBound.range_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:21:41.7898+00:00
 -- url     : https://prove2.me/theorems/48e162dd-9e58-5cee-afa4-830fa1064c9f

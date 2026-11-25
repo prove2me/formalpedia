@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_IdempotentImageSmul_bwd_fwd
 -- name    : Formalism.NG.IdempotentImageSmul.bwd_fwd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:38.223578+00:00
 -- url     : https://prove2.me/theorems/6184e43e-6c9b-4f80-84cc-2a19ee5564a5

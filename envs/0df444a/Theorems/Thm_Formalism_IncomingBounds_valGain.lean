@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_valGain
 -- name    : Formalism.IncomingBounds.valGain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:33.067895+00:00
 -- url     : https://prove2.me/theorems/3fd0ff84-a07d-5f3e-8783-d96aecba76e9

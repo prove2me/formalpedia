@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_cont_ip
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.cont_ip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:52:20.609732+00:00
 -- url     : https://prove2.me/theorems/e619d1d5-a3a7-4a7e-b75d-806d50a735dc

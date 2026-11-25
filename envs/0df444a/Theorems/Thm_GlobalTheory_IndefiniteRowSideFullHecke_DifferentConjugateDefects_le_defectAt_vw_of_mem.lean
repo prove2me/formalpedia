@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_DifferentConjugateDefects_le_defectAt_vw_of_mem
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.DifferentConjugateDefects.le_defectAt_vw_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:03.590117+00:00
 -- url     : https://prove2.me/theorems/4cb002d0-9368-5c51-aee8-c4b7f626c17a

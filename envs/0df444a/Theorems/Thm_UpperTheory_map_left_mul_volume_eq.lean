@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_map_left_mul_volume_eq
 -- name    : UpperTheory.map_left_mul_volume_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:52.611537+00:00
 -- url     : https://prove2.me/theorems/3e3edd73-6aa7-4711-8234-80029e0b90a5

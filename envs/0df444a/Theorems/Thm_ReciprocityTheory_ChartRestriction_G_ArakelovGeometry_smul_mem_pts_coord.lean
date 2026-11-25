@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_smul_mem_pts_coord
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.smul_mem_pts_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:03.404862+00:00
 -- url     : https://prove2.me/theorems/b4138ad1-a312-4124-9365-89114dc10e55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_s_induction_base
 -- name    : Formalism.FourierDecayAlt.P.lemma_s_induction_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:06.53657+00:00
 -- url     : https://prove2.me/theorems/c0365444-aca1-462d-83bb-9ff7b31ada01

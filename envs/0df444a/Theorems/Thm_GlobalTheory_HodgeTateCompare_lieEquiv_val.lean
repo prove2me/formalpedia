@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateCompare_lieEquiv_val
 -- name    : GlobalTheory.HodgeTateCompare.lieEquiv_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:28.351394+00:00
 -- url     : https://prove2.me/theorems/7c0659a0-cad6-58dc-a01b-97f97faf798f

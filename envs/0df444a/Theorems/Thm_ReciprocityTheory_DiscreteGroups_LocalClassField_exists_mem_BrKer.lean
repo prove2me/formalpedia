@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_exists_mem_BrKer
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.exists_mem_BrKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:55:25.335089+00:00
 -- url     : https://prove2.me/theorems/b069d33c-df3e-425f-813f-6bd4f1fb0fd9

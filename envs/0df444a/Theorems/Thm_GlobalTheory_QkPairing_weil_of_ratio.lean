@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QkPairing_weil_of_ratio
 -- name    : GlobalTheory.QkPairing.weil_of_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:24:02.734608+00:00
 -- url     : https://prove2.me/theorems/c880a4ff-68b2-41a1-94db-6977af93cbc4

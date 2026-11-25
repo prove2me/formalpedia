@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_hasUnitLeadingCoeff_rescaleExpand_discriminantSeries
 -- name    : ReciprocityTheory.ChartRestriction.L1.hasUnitLeadingCoeff_rescaleExpand_discriminantSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:43:56.971817+00:00
 -- url     : https://prove2.me/theorems/202087f0-e84f-49a3-b38f-deb3d7d66a6c

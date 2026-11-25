@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NB_BSet_lt_iff
 -- name    : GlobalTheory.NB.BSet.lt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:17:21.560014+00:00
 -- url     : https://prove2.me/theorems/76f94926-e4ea-4d93-b945-19e9ac9b9896

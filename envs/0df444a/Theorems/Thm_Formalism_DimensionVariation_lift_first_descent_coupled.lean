@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_lift_first_descent_coupled
 -- name    : Formalism.DimensionVariation.lift_first_descent_coupled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:59.288813+00:00
 -- url     : https://prove2.me/theorems/c4d3d08c-2c55-4eef-9b29-5f655a13c8e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FundamentalSetFrames_pairing_kapW
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FundamentalSetFrames.pairing_kapW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:35.454912+00:00
 -- url     : https://prove2.me/theorems/6f9b42b5-8ebc-5e3b-84ab-3c84ce3eb033

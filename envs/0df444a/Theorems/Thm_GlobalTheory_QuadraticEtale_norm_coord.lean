@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticEtale_norm_coord
 -- name    : GlobalTheory.QuadraticEtale.norm_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:19:44.722397+00:00
 -- url     : https://prove2.me/theorems/e1db9115-6590-43ce-82ad-8e7119a7c633

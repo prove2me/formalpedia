@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_isZHat_GalKur
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.isZHat_GalKur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:11:27.599849+00:00
 -- url     : https://prove2.me/theorems/bc59b0d2-6e2b-4c96-8baf-babb432f797b

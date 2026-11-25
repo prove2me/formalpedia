@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FreeQuotient_tame_descent_of_stabilizer
 -- name    : GlobalTheory.FreeQuotient.tame_descent_of_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:05:41.132418+00:00
 -- url     : https://prove2.me/theorems/d2dfa9fe-6751-4a3d-8289-c1ee4b091a5d

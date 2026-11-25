@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_blockRhoCount
 -- name    : Formalism.NG.blockRhoCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:26.551458+00:00
 -- url     : https://prove2.me/theorems/fcb8253b-a7d6-472c-bb38-937d1e6edc5f

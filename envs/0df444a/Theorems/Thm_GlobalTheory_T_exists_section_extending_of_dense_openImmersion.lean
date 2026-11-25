@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_section_extending_of_dense_openImmersion
 -- name    : GlobalTheory.T.exists_section_extending_of_dense_openImmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:14.686193+00:00
 -- url     : https://prove2.me/theorems/4e7a51ed-8984-4afb-acc9-165823272db3

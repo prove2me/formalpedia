@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartData_subst_zR
 -- name    : GlobalTheory.ChartData.subst_zR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:00:08.363021+00:00
 -- url     : https://prove2.me/theorems/7230e8f8-ba21-48f5-b4f1-55a971b0084e

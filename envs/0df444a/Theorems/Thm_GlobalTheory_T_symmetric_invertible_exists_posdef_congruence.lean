@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symmetric_invertible_exists_posdef_congruence
 -- name    : GlobalTheory.T.symmetric_invertible_exists_posdef_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:39:50.123841+00:00
 -- url     : https://prove2.me/theorems/6e12aa1c-57de-45c5-88dc-51b59d849c11

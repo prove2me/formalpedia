@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitTorus_pullback_map_torusMap
 -- name    : GlobalTheory.SplitTorus.pullback_map_torusMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:24:38.716729+00:00
 -- url     : https://prove2.me/theorems/96a7238c-65c6-589e-844c-7df535443bca

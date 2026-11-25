@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LowSpanCombinations_mem_lowIdx
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LowSpanCombinations.mem_lowIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:09:19.854031+00:00
 -- url     : https://prove2.me/theorems/f5cc97fa-62fc-4ff4-a1b0-31dda4a1a0f2

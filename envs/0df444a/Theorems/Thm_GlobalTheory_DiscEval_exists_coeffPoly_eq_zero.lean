@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_exists_coeffPoly_eq_zero
 -- name    : GlobalTheory.DiscEval.exists_coeffPoly_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:58:57.029797+00:00
 -- url     : https://prove2.me/theorems/6e0418cd-f0ef-4593-b398-47440c8ef2d3

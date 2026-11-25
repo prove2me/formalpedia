@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_AveragingRankOne_rank_one
 -- name    : GlobalTheory.Cyc.AveragingRankOne.rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:04:50.687854+00:00
 -- url     : https://prove2.me/theorems/6e4097a1-88d8-4d61-b4c8-1e655c9261b4

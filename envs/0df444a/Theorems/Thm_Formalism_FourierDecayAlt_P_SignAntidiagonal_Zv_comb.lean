@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_Zv_comb
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.Zv_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:30:32.286805+00:00
 -- url     : https://prove2.me/theorems/59ae73eb-b28a-4aef-8cf5-fbeae86e8a2a

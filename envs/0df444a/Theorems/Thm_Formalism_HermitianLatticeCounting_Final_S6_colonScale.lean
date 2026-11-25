@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_colonScale
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.colonScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:45:12.514932+00:00
 -- url     : https://prove2.me/theorems/efdb91a7-a3f3-5834-81d6-06b47120bad4

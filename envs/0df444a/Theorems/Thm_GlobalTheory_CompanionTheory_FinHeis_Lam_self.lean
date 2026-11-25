@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FinHeis_Lam_self
 -- name    : GlobalTheory.CompanionTheory.FinHeis.Lam_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:00:36.773813+00:00
 -- url     : https://prove2.me/theorems/0cb2c0e7-3504-5364-97e1-159bea6eb7f0

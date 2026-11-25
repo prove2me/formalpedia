@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Flat_isFlatAn_iff_isConstMul
 -- name    : GlobalTheory.CompanionTheory.Ar.Flat.isFlatAn_iff_isConstMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:32.270991+00:00
 -- url     : https://prove2.me/theorems/af2b161e-1338-4c79-816c-01563bb8d873

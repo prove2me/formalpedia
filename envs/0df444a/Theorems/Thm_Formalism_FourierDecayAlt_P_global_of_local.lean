@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_global_of_local
 -- name    : Formalism.FourierDecayAlt.P.global_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:30:21.491542+00:00
 -- url     : https://prove2.me/theorems/2fee86a2-44cb-46f8-9238-948030654226

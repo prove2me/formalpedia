@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedIdealWithBoundary_baseChange_scheme
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedIdealWithBoundary.baseChange_scheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:53:26.350965+00:00
 -- url     : https://prove2.me/theorems/78ca4638-7121-4843-9283-6e2a52744cb2

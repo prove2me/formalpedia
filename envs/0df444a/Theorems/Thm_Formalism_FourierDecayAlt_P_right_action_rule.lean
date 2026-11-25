@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_right_action_rule
 -- name    : Formalism.FourierDecayAlt.P.right_action_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:52:19.009351+00:00
 -- url     : https://prove2.me/theorems/cee16da2-edfe-45af-951c-db31cfc18f80

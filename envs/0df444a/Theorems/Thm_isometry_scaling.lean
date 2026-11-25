@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isometry_scaling
 -- name    : isometry_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:19.802252+00:00
 -- url     : https://prove2.me/theorems/bc517e9f-bf8c-5909-a8dd-01ba593146b4

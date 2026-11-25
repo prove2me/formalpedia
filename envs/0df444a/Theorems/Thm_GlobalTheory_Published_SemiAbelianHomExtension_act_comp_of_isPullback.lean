@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_act_comp_of_isPullback
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.act_comp_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:17:41.722579+00:00
 -- url     : https://prove2.me/theorems/7d6585ce-f35f-40af-9fdb-5c753e87d477

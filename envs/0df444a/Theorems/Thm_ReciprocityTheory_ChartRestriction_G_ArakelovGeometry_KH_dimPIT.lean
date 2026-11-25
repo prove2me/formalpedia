@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_KH_dimPIT
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.KH.dimPIT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:04.216139+00:00
 -- url     : https://prove2.me/theorems/13bb605c-67d4-4924-9d4a-de0ce635205d

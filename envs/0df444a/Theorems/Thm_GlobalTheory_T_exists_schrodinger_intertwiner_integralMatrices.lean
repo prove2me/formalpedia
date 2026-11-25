@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_schrodinger_intertwiner_integralMatrices
 -- name    : GlobalTheory.T.exists_schrodinger_intertwiner_integralMatrices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:25.835947+00:00
 -- url     : https://prove2.me/theorems/c3245e3f-bf10-5774-8467-2d04fd407f5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_NX_Core_thK_spec
 -- name    : Formalism.IndefR.NX.Core.thK_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:16.33437+00:00
 -- url     : https://prove2.me/theorems/cc806fb7-586e-4a01-92b1-7d37b8e0feb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_level_p_relations
 -- name    : Formalism.FourierDecayAlt.P.level_p_relations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:33:02.657796+00:00
 -- url     : https://prove2.me/theorems/2372f265-cc77-5547-a90a-d469694add2a

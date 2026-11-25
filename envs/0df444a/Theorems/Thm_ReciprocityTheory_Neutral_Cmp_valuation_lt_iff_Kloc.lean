@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_valuation_lt_iff_Kloc
 -- name    : ReciprocityTheory.Neutral.Cmp.valuation_lt_iff_Kloc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:11.593373+00:00
 -- url     : https://prove2.me/theorems/5c6fc20a-bddb-4ac1-bb8c-727bfad6256f

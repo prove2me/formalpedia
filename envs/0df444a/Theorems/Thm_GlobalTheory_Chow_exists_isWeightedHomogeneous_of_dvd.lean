@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_exists_isWeightedHomogeneous_of_dvd
 -- name    : GlobalTheory.Chow.exists_isWeightedHomogeneous_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:35.362114+00:00
 -- url     : https://prove2.me/theorems/fc21c62c-36cd-4497-9af9-2a66d706a914

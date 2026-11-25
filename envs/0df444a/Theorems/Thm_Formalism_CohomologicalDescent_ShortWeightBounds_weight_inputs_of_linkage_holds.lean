@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_weight_inputs_of_linkage_holds
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.weight_inputs_of_linkage_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:24:14.518864+00:00
 -- url     : https://prove2.me/theorems/b982e614-a7a8-4951-9336-3048d8cc622f

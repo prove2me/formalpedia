@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_absorbOn
 -- name    : Formalism.EigenvalueLevelCeiling.absorbOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:25:12.767629+00:00
 -- url     : https://prove2.me/theorems/9f9f0dd3-509e-52a0-a848-ed5d6274b597

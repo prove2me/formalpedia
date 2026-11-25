@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_lcv_nonvacuous
 -- name    : Formalism.LFunctionChainParameters.LLcv.lcv_nonvacuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:50:46.124836+00:00
 -- url     : https://prove2.me/theorems/56a099f5-8891-4f20-9767-5ca25e0867b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_centralScalar
 -- name    : Formalism.CyclotomicNorms.centralScalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:34:32.196794+00:00
 -- url     : https://prove2.me/theorems/665df4e6-c68d-5359-b377-a95b086ac9b4

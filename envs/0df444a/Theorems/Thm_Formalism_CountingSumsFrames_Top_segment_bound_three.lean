@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segment_bound_three
 -- name    : Formalism.CountingSumsFrames.Top.segment_bound_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:23:57.882745+00:00
 -- url     : https://prove2.me/theorems/429d47c6-6649-4719-b54a-dd3ffa26aa8c

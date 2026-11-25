@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_trans_contDiffOn
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.trans_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:44:12.376079+00:00
 -- url     : https://prove2.me/theorems/c865ad90-f706-4188-898b-9d7ddb4c0697

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_vtf_local
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.vtf_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:00:31.575547+00:00
 -- url     : https://prove2.me/theorems/7a437937-76d4-47d1-9776-0b94dd78e8fa

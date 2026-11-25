@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_smooth_extension_of_fourier_decay
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.smooth_extension_of_fourier_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:44:24.658729+00:00
 -- url     : https://prove2.me/theorems/a9ea60c9-94d5-407d-bc44-20f034200396

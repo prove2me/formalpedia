@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_weightedHomogeneous_homogenisation
 -- name    : GlobalTheory.T.exists_weightedHomogeneous_homogenisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:31:57.109149+00:00
 -- url     : https://prove2.me/theorems/e3a5148e-909a-456c-b429-c551b957bb4b

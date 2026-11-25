@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_plus_frame_identity
 -- name    : Formalism.YangianSpanCharacter.P.plus_frame_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:15.645543+00:00
 -- url     : https://prove2.me/theorems/36632c3c-f037-541b-a75f-0c27b54d2f29

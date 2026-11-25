@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_exists_pow_idem
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.exists_pow_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:06:31.083785+00:00
 -- url     : https://prove2.me/theorems/83ba0d10-de8a-5667-abc3-010d2d7d4672

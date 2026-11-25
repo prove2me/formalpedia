@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_uKeepsLast
 -- name    : Formalism.InvariantFactorPaths.L4.Top.uKeepsLast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:55:36.062513+00:00
 -- url     : https://prove2.me/theorems/90629349-f4f4-5aaa-8f28-80e4faeb0bcd

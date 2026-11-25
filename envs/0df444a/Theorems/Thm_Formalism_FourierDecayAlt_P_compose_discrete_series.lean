@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_compose_discrete_series
 -- name    : Formalism.FourierDecayAlt.P.compose_discrete_series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:36:10.258633+00:00
 -- url     : https://prove2.me/theorems/a3b9d35b-8a85-4033-a1a5-b2adf2427ae1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMTensor_algebraMap_right_injective
 -- name    : GlobalTheory.CMTensor.algebraMap_right_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:43.211781+00:00
 -- url     : https://prove2.me/theorems/4a3df9ca-ac3f-42dc-ad0c-52455c31b410

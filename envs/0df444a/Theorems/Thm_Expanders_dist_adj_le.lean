@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Expanders_dist_adj_le
 -- name    : Expanders.dist_adj_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T15:08:40.417681+00:00
 -- url     : https://prove2.me/theorems/84414979-76eb-4fd7-afed-a36644e9a11b

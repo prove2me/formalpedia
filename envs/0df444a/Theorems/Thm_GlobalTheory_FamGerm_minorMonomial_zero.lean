@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamGerm_minorMonomial_zero
 -- name    : GlobalTheory.FamGerm.minorMonomial_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:23.156837+00:00
 -- url     : https://prove2.me/theorems/c65a2970-3c1e-4969-9b01-a41733770b7b

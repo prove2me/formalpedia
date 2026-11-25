@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LevelActionTransitions_neg_mem_KMax
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LevelActionTransitions.neg_mem_KMax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:09:56.230872+00:00
 -- url     : https://prove2.me/theorems/eb79b6eb-ac05-53b0-8040-9c1ca168a1b6

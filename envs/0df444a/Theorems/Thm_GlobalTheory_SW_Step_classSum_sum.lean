@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Step_classSum_sum
 -- name    : GlobalTheory.SW.Step.classSum_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:58:34.909638+00:00
 -- url     : https://prove2.me/theorems/8a64d101-d63d-527f-9516-7f57e4dd8ec8

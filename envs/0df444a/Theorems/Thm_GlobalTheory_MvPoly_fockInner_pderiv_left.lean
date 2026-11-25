@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_fockInner_pderiv_left
 -- name    : GlobalTheory.MvPoly.fockInner_pderiv_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:36.918965+00:00
 -- url     : https://prove2.me/theorems/e5d971f7-eb29-4685-96a8-c45416fb6faf

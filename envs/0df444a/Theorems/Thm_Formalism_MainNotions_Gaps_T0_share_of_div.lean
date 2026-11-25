@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_share_of_div
 -- name    : Formalism.MainNotions.Gaps.T0.share_of_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:50:48.505654+00:00
 -- url     : https://prove2.me/theorems/a321f3c7-3af8-4ddb-9d3b-b90f089b99f5

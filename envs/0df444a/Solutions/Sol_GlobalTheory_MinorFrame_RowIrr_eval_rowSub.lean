@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for GlobalTheory.MinorFrame.RowIrr.eval_rowSub
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T18:19:19.005013+00:00
+-- url     : https://prove2.me/submissions/6148dfc6-1826-422b-905b-edce0efad19c
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_ProdMinorsMemInv
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_EvalBasePtTopMinors
+import Theorems.Thm_Formalism_GradedWeylDivisibility_rowDivL_apply
+import Theorems.Thm_Formalism_HC_Frame_iotaInv_iota
+import Theorems.Thm_Formalism_HC_Frame_iota_iotaInv
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] Formalism.GradedWeylDivisibility.rowDivL_apply
+attribute [local simp] Formalism.HC.Frame.iotaInv_iota
+attribute [local simp] Formalism.HC.Frame.iota_iotaInv
+
+
+
+set_option autoImplicit false
+noncomputable section
+open MvPolynomial
+open GlobalTheory GlobalTheory.MinorFrame GlobalTheory.MinorFrame.RowIrr
+open GlobalTheory.MinorFrame
+variable {ι : Type} [Fintype ι]
+namespace GlobalTheory.MinorFrame.RowIrr
+theorem _root_.solution {d a : ℕ} (κ : ι → Matrix (Fin d) (Fin d) ℂ) (z : Var ι d a → ℂ) (P : Pol ι d a) :
+    eval z (rowSub κ P) = eval (fun y => ∑ i' : Fin d, κ y.1 i' y.2.1 * z (y.1, i', y.2.2)) P := by
+  induction P using MvPolynomial.induction_on with
+  | C c => simp [rowSub]
+  | add p q hp hq => simp only [map_add, hp, hq]
+  | mul_X p y hp => simp [rowSub, hp] at *
+end GlobalTheory.MinorFrame.RowIrr

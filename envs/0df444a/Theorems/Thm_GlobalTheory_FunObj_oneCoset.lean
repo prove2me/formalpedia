@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_oneCoset
 -- name    : GlobalTheory.FunObj.oneCoset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:53.670206+00:00
 -- url     : https://prove2.me/theorems/3b596600-3b26-469c-8c80-645e7f676ed7

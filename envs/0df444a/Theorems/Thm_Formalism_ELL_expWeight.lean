@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_expWeight
 -- name    : Formalism.ELL.expWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:25:24.310972+00:00
 -- url     : https://prove2.me/theorems/75f016dc-0620-4485-9ac7-0bac08abb64d

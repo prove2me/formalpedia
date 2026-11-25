@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_NX_Core_IsThOf_unique
 -- name    : Formalism.IndefR.NX.Core.IsThOf.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:41:50.456314+00:00
 -- url     : https://prove2.me/theorems/e055f62e-4cc7-52c9-bb54-8d7341942a41

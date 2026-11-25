@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_mem_map_ann_iff
 -- name    : GlobalTheory.AbCoh.mem_map_ann_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:52:05.512929+00:00
 -- url     : https://prove2.me/theorems/a3826af4-d7b8-4ee1-8dff-2a9bcd8a77fa

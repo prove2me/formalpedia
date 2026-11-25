@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_log_norm_coeff_sub_le_blockSphereLogMean
 -- name    : ReciprocityTheory.MultiplicativeHeights.log_norm_coeff_sub_le_blockSphereLogMean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:57.195783+00:00
 -- url     : https://prove2.me/theorems/3d26e93f-5665-4bfa-9a59-59f1086c8d40

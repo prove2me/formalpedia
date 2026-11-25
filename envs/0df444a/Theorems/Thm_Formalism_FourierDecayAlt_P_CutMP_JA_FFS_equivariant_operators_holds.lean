@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_FFS_equivariant_operators_holds
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.FFS.equivariant_operators_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:29:30.207216+00:00
 -- url     : https://prove2.me/theorems/aeccaaf7-7ffd-42ca-82af-c295a47de1a9

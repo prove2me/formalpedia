@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_invVol_of_le
 -- name    : GlobalTheory.HL.Model.invVol_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:08.528556+00:00
 -- url     : https://prove2.me/theorems/0c9c63cd-2c7f-58ca-8f7d-69076984809b

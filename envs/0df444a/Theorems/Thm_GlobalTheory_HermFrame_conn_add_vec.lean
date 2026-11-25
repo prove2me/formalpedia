@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_conn_add_vec
 -- name    : GlobalTheory.HermFrame.conn_add_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:48.115942+00:00
 -- url     : https://prove2.me/theorems/5cf4ce22-f947-56a9-902c-4c95a6165805

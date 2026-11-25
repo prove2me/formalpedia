@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_conjInvariant_std
 -- name    : GlobalTheory.ArchMetric.conjInvariant_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:04.055021+00:00
 -- url     : https://prove2.me/theorems/c9824386-71ad-5728-9670-f26488368619

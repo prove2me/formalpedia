@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_D5_character_sum_balance
 -- name    : Formalism.D5.character_sum_balance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:51.720804+00:00
 -- url     : https://prove2.me/theorems/68c32fda-22eb-4b94-b0df-9f84bb125d7a

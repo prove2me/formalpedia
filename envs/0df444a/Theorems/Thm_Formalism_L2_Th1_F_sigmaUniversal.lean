@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaUniversal
 -- name    : Formalism.L2.Th1.F.sigmaUniversal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:04.805244+00:00
 -- url     : https://prove2.me/theorems/42efd8f6-1906-4697-a571-d9cfd635c204

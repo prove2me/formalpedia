@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_vala_prod
 -- name    : Formalism.MainNotions.PlaneGram.vala_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:51:10.599561+00:00
 -- url     : https://prove2.me/theorems/370ca184-847b-4feb-873c-2f27b7d58cf7

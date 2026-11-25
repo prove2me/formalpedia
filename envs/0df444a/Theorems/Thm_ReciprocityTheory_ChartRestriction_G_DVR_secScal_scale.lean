@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_secScal_scale
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.secScal_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:49:10.000034+00:00
 -- url     : https://prove2.me/theorems/f3f36580-d26f-4e0c-8092-01301511b996

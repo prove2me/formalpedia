@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_block_diagonal_psd
 -- name    : Formalism.FourierDecayAlt.P.block_diagonal_psd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:29:07.417883+00:00
 -- url     : https://prove2.me/theorems/c8be4e94-2e65-404a-bf8d-6f220b222c95

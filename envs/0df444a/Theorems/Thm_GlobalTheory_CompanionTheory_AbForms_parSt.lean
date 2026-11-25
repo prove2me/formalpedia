@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_AbForms_parSt
 -- name    : GlobalTheory.CompanionTheory.AbForms.parSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:38.770639+00:00
 -- url     : https://prove2.me/theorems/7b15dce8-1b55-4ce6-ae1c-443e1a6b1d21

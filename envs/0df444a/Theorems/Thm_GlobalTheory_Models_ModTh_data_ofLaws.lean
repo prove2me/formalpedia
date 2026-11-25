@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_ModTh_data_ofLaws
 -- name    : GlobalTheory.Models.ModTh.data_ofLaws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:09.624313+00:00
 -- url     : https://prove2.me/theorems/1cc2e6f0-9f41-52a4-972f-62ea2998eac8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FitSquare_exists_lift
 -- name    : GlobalTheory.FitSquare.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:49.211924+00:00
 -- url     : https://prove2.me/theorems/5fc391f4-4e78-51e6-bd5b-54e53afaf1a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_ProjCoord_mem_range_chartEval
 -- name    : GlobalTheory.CompanionTheory.Ar.ProjCoord.mem_range_chartEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:24.877102+00:00
 -- url     : https://prove2.me/theorems/de00429d-127d-445b-8fe8-9331ec991c8e

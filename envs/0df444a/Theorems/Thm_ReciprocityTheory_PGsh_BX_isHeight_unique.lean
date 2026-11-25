@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_isHeight_unique
 -- name    : ReciprocityTheory.PGsh.BX.isHeight_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:09.343849+00:00
 -- url     : https://prove2.me/theorems/1f5bec61-dfa7-413d-8bdb-e21e869ae4d1

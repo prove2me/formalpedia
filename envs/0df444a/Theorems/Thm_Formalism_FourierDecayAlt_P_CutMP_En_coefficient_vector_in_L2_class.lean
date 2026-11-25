@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_En_coefficient_vector_in_L2_class
 -- name    : Formalism.FourierDecayAlt.P.CutMP.En.coefficient_vector_in_L2_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:21.409221+00:00
 -- url     : https://prove2.me/theorems/afec3581-c205-4d90-ae99-c94d7cc7d309

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_WF_lb_good
 -- name    : ZetaZeros.D.EllReg.WF.lb_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:43:09.470567+00:00
 -- url     : https://prove2.me/theorems/f97a0b20-94cc-4b11-85fe-083114e5d45f

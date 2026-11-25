@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_ModuliIntegralCharts_single_mem
 -- name    : UpperTheory.Reformulated.B.ModuliIntegralCharts.single_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:19:31.17149+00:00
 -- url     : https://prove2.me/theorems/2c5b3244-ac13-5fa8-919b-b498fe5bd46f

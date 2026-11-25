@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GFam_ipOf_indep
 -- name    : Formalism.L2.Col.GFam.ipOf_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:43:28.587642+00:00
 -- url     : https://prove2.me/theorems/5c28698f-a2fa-4115-ba8f-d92d94b614f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_smul_dp_of_eq
 -- name    : Reformulated.AutPerF.smul_dp_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:08.421807+00:00
 -- url     : https://prove2.me/theorems/93240a9f-c516-4b96-8377-32c98af9433b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Lime_BM_uniqGap_of_uniq
 -- name    : CompanionTheory.Lime.BM.uniqGap_of_uniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:20:23.804121+00:00
 -- url     : https://prove2.me/theorems/99956d17-acbd-46f6-b802-86c6dd5d47da

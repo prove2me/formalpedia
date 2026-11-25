@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SmoothLocalChart_isAffineOpen_chartDomain
 -- name    : FunctorialResolution.EmbeddedResolution.SmoothLocalChart.isAffineOpen_chartDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:10.712636+00:00
 -- url     : https://prove2.me/theorems/3d0178ef-4a04-4e92-8b58-1b2052b4e245

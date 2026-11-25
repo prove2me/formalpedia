@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_Final_uniGroup
 -- name    : Formalism.DoubleCosetMeasures.Final.uniGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:25:51.409407+00:00
 -- url     : https://prove2.me/theorems/419df49b-6aae-4f64-8997-78a53c1e86c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_denseRange
 -- name    : ReciprocityTheory.Neutral.Cmp.denseRange
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:16:07.886055+00:00
 -- url     : https://prove2.me/theorems/17d6dcc3-6a20-4217-853d-e986306b3c58

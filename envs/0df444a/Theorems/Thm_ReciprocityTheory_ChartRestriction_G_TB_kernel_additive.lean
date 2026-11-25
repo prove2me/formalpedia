@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_kernel_additive
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.kernel_additive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:52:49.028569+00:00
 -- url     : https://prove2.me/theorems/1f6e0936-878c-425d-8c9f-a02f32d36eee

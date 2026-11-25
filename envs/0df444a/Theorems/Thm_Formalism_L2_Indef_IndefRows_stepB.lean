@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_IndefRows_stepB
 -- name    : Formalism.L2.Indef.IndefRows.stepB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:29.06009+00:00
 -- url     : https://prove2.me/theorems/e34043cf-4e86-4f29-81ea-3a7a5b18b408

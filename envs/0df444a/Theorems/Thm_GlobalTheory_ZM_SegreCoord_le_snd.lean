@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_SegreCoord_le_snd
 -- name    : GlobalTheory.ZM.SegreCoord.le_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:48:05.049426+00:00
 -- url     : https://prove2.me/theorems/d3433cc8-dd32-42d9-b19e-539a0a9ec3c9

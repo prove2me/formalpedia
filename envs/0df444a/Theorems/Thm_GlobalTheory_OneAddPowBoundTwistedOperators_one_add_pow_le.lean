@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OneAddPowBoundTwistedOperators_one_add_pow_le
 -- name    : GlobalTheory.OneAddPowBoundTwistedOperators.one_add_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:04.341309+00:00
 -- url     : https://prove2.me/theorems/ca9615c0-0339-48d9-8874-beaec13cfde4

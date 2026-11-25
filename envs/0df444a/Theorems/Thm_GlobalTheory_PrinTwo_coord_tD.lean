@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrinTwo_coord_tD
 -- name    : GlobalTheory.PrinTwo.coord_tD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:16:50.986266+00:00
 -- url     : https://prove2.me/theorems/f7526d0e-d47f-48b9-8782-a40039408ea1

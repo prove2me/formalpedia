@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_thetaObject_comparison_maps_cocycle
 -- name    : GlobalTheory.T.thetaObject_comparison_maps_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:00:15.539797+00:00
 -- url     : https://prove2.me/theorems/4fc66ac3-1719-45ed-a87d-ab2227a69eae

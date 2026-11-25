@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_secVal_of_phiRel
 -- name    : GlobalTheory.ToricData.secVal_of_phiRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:41:06.986627+00:00
 -- url     : https://prove2.me/theorems/1048feaf-fc91-59f9-82d9-4497bce72c89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isUnit_matrix_of_pow_smul_span_invert
 -- name    : GlobalTheory.T.exists_isUnit_matrix_of_pow_smul_span_invert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:14.571825+00:00
 -- url     : https://prove2.me/theorems/d63b0865-dd98-4aa2-80bf-f2aa7b955ffc

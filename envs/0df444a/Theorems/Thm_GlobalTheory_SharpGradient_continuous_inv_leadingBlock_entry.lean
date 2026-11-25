@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_continuous_inv_leadingBlock_entry
 -- name    : GlobalTheory.SharpGradient.continuous_inv_leadingBlock_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:56:49.048164+00:00
 -- url     : https://prove2.me/theorems/075cb5d0-7aab-4821-860e-a8e2a149ba6f

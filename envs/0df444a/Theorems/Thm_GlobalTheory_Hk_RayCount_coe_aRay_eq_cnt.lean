@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCount_coe_aRay_eq_cnt
 -- name    : GlobalTheory.Hk.RayCount.coe_aRay_eq_cnt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:26.209803+00:00
 -- url     : https://prove2.me/theorems/8c5bc93c-bf29-5633-8a6e-5c0a226ae4df

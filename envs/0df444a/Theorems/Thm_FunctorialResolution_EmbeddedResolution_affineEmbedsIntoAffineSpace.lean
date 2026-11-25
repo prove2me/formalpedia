@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_affineEmbedsIntoAffineSpace
 -- name    : FunctorialResolution.EmbeddedResolution.affineEmbedsIntoAffineSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:04.229957+00:00
 -- url     : https://prove2.me/theorems/4677daf5-dd4a-43bf-b918-eacd1ef1eb77

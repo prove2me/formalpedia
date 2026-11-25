@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LocalIntegralStructure_gramDet
 -- name    : Formalism.HermitianLatticeCounting.Final.LocalIntegralStructure.gramDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:23.356146+00:00
 -- url     : https://prove2.me/theorems/d6ca870a-6c51-5d3b-a60a-7f0c2df63410

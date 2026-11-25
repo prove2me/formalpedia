@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistAdm_val_smul
 -- name    : GlobalTheory.SW.TwistAdm.val_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:28:31.347477+00:00
 -- url     : https://prove2.me/theorems/ef710013-48d0-468f-946e-3adfce2d8f71

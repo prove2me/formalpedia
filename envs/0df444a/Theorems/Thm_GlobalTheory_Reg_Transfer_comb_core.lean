@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_comb_core
 -- name    : GlobalTheory.Reg.Transfer.comb_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:53:36.938956+00:00
 -- url     : https://prove2.me/theorems/a8c2876f-d8eb-44b7-9b76-0cc8440effdd

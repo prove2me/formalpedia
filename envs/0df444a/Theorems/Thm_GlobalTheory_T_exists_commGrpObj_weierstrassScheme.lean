@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_commGrpObj_weierstrassScheme
 -- name    : GlobalTheory.T.exists_commGrpObj_weierstrassScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:20:09.990444+00:00
 -- url     : https://prove2.me/theorems/ac9ffefa-ab90-5dd9-b43d-09fa528cd0a7

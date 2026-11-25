@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Base_classSum_eq
 -- name    : GlobalTheory.SW.Base.classSum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:21:07.087413+00:00
 -- url     : https://prove2.me/theorems/cc68ac3b-b3b1-4c5b-a486-867c365b78a5

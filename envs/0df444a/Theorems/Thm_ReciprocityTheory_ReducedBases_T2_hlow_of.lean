@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_hlow_of
 -- name    : ReciprocityTheory.ReducedBases.T2.hlow_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:33:32.088014+00:00
 -- url     : https://prove2.me/theorems/2c27bab4-a6ed-488d-867a-0de211132c46

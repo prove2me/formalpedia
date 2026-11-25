@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularAscent_isRegularLocalRing_of_quotient_prime
 -- name    : GlobalTheory.RegularAscent.isRegularLocalRing_of_quotient_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:30.487162+00:00
 -- url     : https://prove2.me/theorems/9390f095-7e80-458f-ba01-3a631961db74

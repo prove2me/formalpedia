@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_detVal
 -- name    : Formalism.G0.Top.detVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:37:45.529772+00:00
 -- url     : https://prove2.me/theorems/c9afb205-142e-491c-970e-3f6e3de9f10c

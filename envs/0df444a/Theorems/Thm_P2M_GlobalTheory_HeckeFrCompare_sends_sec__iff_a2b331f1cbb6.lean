@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HeckeFrCompare_sends_sec__iff_a2b331f1cbb6
 -- name    : P2M_GlobalTheory_HeckeFrCompare_sends_sec__iff_a2b331f1cbb6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:45:18.410798+00:00
 -- url     : https://prove2.me/theorems/6838fa85-630e-427b-b8a0-c76cd4756d4d

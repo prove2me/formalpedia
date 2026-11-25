@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullLevel_exists_unique_fullLevel
 -- name    : GlobalTheory.FullLevel.exists_unique_fullLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:22.96197+00:00
 -- url     : https://prove2.me/theorems/644993db-4c62-4f23-a2cc-3cb0e9f87c51

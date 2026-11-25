@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_ProjCoord_chart
 -- name    : GlobalTheory.CompanionTheory.Ar.ProjCoord.chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:59:59.052315+00:00
 -- url     : https://prove2.me/theorems/adfc245b-ff35-44bc-84d7-65a3b087eebc

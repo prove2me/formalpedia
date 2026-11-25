@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_isAlgebraic_of_forall_erase
 -- name    : GlobalTheory.SS.isAlgebraic_of_forall_erase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:55:59.069624+00:00
 -- url     : https://prove2.me/theorems/c3b720d1-254d-5986-92b2-804d88ffed7f

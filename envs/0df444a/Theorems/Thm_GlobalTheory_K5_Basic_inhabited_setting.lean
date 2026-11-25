@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_inhabited_setting
 -- name    : GlobalTheory.K5.Basic.inhabited_setting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:44.819307+00:00
 -- url     : https://prove2.me/theorems/62825129-3add-4489-a01e-b2db14693de0

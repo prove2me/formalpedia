@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_conv_X
 -- name    : GlobalTheory.NL.Model.conv_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:14:58.737521+00:00
 -- url     : https://prove2.me/theorems/63e51045-4ac3-4a68-8b8f-1cbbbf81a999

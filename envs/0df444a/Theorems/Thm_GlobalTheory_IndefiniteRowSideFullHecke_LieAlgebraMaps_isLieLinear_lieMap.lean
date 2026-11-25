@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LieAlgebraMaps_isLieLinear_lieMap
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LieAlgebraMaps.isLieLinear_lieMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:10:01.615086+00:00
 -- url     : https://prove2.me/theorems/aa113048-47ee-4ad3-9463-7aa017431c14

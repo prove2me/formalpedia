@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_p_lin
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.p_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:55.049397+00:00
 -- url     : https://prove2.me/theorems/308157ab-8917-4a01-8ded-de0b53e079e8

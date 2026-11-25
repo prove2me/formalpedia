@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_ThK_SplitLoc_Unr_p__mem_4c919705d020
 -- name    : P2M_PositivityTheory_ThK_SplitLoc_Unr_p__mem_4c919705d020
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:14:38.215992+00:00
 -- url     : https://prove2.me/theorems/f655b0c9-8bfe-49e8-b9b9-397295c48470

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K5_Basic_isDlog_xn
 -- name    : GlobalTheory.K5.Basic.isDlog_xn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:40.378252+00:00
 -- url     : https://prove2.me/theorems/34eb47be-6e90-5e05-ad61-d449d6161890

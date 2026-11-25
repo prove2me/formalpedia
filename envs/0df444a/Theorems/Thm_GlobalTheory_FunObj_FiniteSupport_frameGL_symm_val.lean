@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_FiniteSupport_frameGL_symm_val
 -- name    : GlobalTheory.FunObj.FiniteSupport.frameGL_symm_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:58.577304+00:00
 -- url     : https://prove2.me/theorems/154dd0c5-618c-5878-998f-dba13ca79235

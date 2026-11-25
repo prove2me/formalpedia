@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_TwoStep_exists_twisted_ne_base
 -- name    : GlobalTheory.Square.TwoStep.exists_twisted_ne_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:25:54.092403+00:00
 -- url     : https://prove2.me/theorems/618dc177-4bce-5348-9c50-209ce80dd4e1

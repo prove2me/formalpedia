@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_extension_data_field
 -- name    : Formalism.LFunctionChainParameters.LHost.extension_data_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:51:15.148747+00:00
 -- url     : https://prove2.me/theorems/8ebee424-c12f-5170-bf5b-4605a635a0ee

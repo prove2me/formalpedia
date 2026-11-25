@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommonSmulMembership_exists_common_smul_mem
 -- name    : GlobalTheory.CommonSmulMembership.exists_common_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:51.659813+00:00
 -- url     : https://prove2.me/theorems/7f66a6fd-f628-4532-a50f-fc8b592f0a10

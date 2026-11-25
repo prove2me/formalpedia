@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_qOm_wsum
 -- name    : GlobalTheory.AbCoh.qOm_wsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:01:46.322857+00:00
 -- url     : https://prove2.me/theorems/085793a2-b4c3-5466-b338-40d8fdcd7395

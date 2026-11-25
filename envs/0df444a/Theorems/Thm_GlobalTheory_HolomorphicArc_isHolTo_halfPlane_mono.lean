@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolomorphicArc_isHolTo_halfPlane_mono
 -- name    : GlobalTheory.HolomorphicArc.isHolTo_halfPlane_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:09:17.35685+00:00
 -- url     : https://prove2.me/theorems/12eebb38-ef0c-58ba-8fef-8ac12d81ff43

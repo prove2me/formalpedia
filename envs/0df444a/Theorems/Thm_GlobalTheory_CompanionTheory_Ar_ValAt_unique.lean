@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_ValAt_unique
 -- name    : GlobalTheory.CompanionTheory.Ar.ValAt.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:00:23.972347+00:00
 -- url     : https://prove2.me/theorems/c8336ff5-10dc-5e27-b39f-bbea90766150

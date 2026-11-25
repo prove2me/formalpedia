@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HostModel_hypDatum_smul
 -- name    : GlobalTheory.HostModel.hypDatum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:42.123933+00:00
 -- url     : https://prove2.me/theorems/5113827b-e84b-5a94-a5b4-015304d15c6b

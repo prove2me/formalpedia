@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignChar_pairing_zero_right
 -- name    : GlobalTheory.SignChar.pairing_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:36:41.639444+00:00
 -- url     : https://prove2.me/theorems/4cbc530b-01d5-49e7-b919-8b60d609f3cb

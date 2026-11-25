@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_stabLat_eq
 -- name    : GlobalTheory.SelfDualLatticeCompare.stabLat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:27:12.585333+00:00
 -- url     : https://prove2.me/theorems/33b2af93-e4b3-51e1-abcc-14091784d43a

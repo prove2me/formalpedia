@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenusLatCompare_mIdx_eq
 -- name    : GlobalTheory.GenusLatCompare.mIdx_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:28.544506+00:00
 -- url     : https://prove2.me/theorems/558605c0-2d06-4089-88b0-3c8d7fda52d7

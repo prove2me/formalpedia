@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_Ratio_exists_ratios
 -- name    : GlobalTheory.Square.Ratio.exists_ratios
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:26:00.603159+00:00
 -- url     : https://prove2.me/theorems/f77e2e3b-5250-58a9-9e7c-350451b1b3f1

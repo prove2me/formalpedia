@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_digitClassCount
 -- name    : Formalism.CountingSumsFrames.Top.digitClassCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:23:57.941285+00:00
 -- url     : https://prove2.me/theorems/0feb154a-69bb-4194-8b37-9d1ccc31207d

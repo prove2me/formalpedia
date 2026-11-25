@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TargetSimplification_main
 -- name    : GlobalTheory.TargetSimplification.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:40:41.363558+00:00
 -- url     : https://prove2.me/theorems/99ab751e-e41d-4511-84b2-7da5633c934a

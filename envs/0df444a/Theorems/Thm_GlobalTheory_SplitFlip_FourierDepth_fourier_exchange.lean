@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_FourierDepth_fourier_exchange
 -- name    : GlobalTheory.SplitFlip.FourierDepth.fourier_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:25:47.919097+00:00
 -- url     : https://prove2.me/theorems/f527c4a7-c8a6-4ca1-8c3b-f415a2e65289

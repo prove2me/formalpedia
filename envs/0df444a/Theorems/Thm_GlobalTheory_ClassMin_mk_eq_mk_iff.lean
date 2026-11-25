@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassMin_mk_eq_mk_iff
 -- name    : GlobalTheory.ClassMin.mk_eq_mk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:59:15.645975+00:00
 -- url     : https://prove2.me/theorems/eeffd07c-4499-4325-9e4a-47ab38c98675

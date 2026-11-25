@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_recursion_gives_form
 -- name    : Formalism.FourierDecayAlt.P.recursion_gives_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:35:31.938773+00:00
 -- url     : https://prove2.me/theorems/47e92f7b-8ca2-43b1-9656-081759a9427f

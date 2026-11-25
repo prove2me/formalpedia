@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_basis_block0
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.basis_block0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:28:50.35664+00:00
 -- url     : https://prove2.me/theorems/db9df0cb-76af-4b6e-8123-d352fbf07c0a

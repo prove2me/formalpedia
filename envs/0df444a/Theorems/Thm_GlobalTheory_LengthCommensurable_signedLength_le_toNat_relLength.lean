@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_signedLength_le_toNat_relLength
 -- name    : GlobalTheory.LengthCommensurable.signedLength_le_toNat_relLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:12:58.412333+00:00
 -- url     : https://prove2.me/theorems/e79b6703-c748-50fb-a1c1-d793df68a879

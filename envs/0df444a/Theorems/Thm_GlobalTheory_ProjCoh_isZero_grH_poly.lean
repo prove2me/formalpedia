@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCoh_isZero_grH_poly
 -- name    : GlobalTheory.ProjCoh.isZero_grH_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:16:04.065624+00:00
 -- url     : https://prove2.me/theorems/44fa6af7-0d9a-5f6b-8e09-2b788e3a636d

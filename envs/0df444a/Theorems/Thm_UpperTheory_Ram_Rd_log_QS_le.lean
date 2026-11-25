@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_Rd_log_QS_le
 -- name    : UpperTheory.Ram.Rd.log_QS_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:46:14.730085+00:00
 -- url     : https://prove2.me/theorems/06e67d34-17ed-4326-83c6-689813856f0f

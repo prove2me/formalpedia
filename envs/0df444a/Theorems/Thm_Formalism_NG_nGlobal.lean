@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_nGlobal
 -- name    : Formalism.NG.nGlobal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:53.838696+00:00
 -- url     : https://prove2.me/theorems/1c7f636e-b322-400f-b596-88154f612d44

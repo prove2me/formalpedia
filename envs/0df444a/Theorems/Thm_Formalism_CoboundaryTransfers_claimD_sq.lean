@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_claimD_sq
 -- name    : Formalism.CoboundaryTransfers.claimD_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:20:36.329797+00:00
 -- url     : https://prove2.me/theorems/fb660d6d-a3d8-51f4-9cea-55dfbb63087c

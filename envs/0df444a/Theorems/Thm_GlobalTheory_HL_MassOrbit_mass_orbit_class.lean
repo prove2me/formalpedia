@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MassOrbit_mass_orbit_class
 -- name    : GlobalTheory.HL.MassOrbit.mass_orbit_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:07:25.520448+00:00
 -- url     : https://prove2.me/theorems/a8634cf8-a85f-4724-8c7c-3040ea9b334d

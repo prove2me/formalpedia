@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_witt_frobenius_end
 -- name    : witt_frobenius_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:20:20.206359+00:00
 -- url     : https://prove2.me/theorems/bf887e37-4151-4ed0-8bf6-2e1a6e92f4a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ColumnSupport_colE_inv_mul_affPt
 -- name    : GlobalTheory.RootEx.ColumnSupport.colE_inv_mul_affPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:32.366665+00:00
 -- url     : https://prove2.me/theorems/67e13385-4fbc-4826-aad1-e0c7f54611fa

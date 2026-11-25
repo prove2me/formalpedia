@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_local_unit_of_dvr_unit
 -- name    : GlobalTheory.T.exists_local_unit_of_dvr_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:54.686805+00:00
 -- url     : https://prove2.me/theorems/162b3c23-299f-596c-8d7d-4fe5c5ccd620

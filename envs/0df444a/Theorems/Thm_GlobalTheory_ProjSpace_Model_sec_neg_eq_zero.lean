@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_sec_neg_eq_zero
 -- name    : GlobalTheory.ProjSpace.Model.sec_neg_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:45.22134+00:00
 -- url     : https://prove2.me/theorems/0f7b6e07-19e9-4eb7-8353-94da2d70d83c

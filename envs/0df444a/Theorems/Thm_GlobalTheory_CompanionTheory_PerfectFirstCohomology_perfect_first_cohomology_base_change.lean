@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PerfectFirstCohomology_perfect_first_cohomology_base_change
 -- name    : GlobalTheory.CompanionTheory.PerfectFirstCohomology.perfect_first_cohomology_base_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:58.1563+00:00
 -- url     : https://prove2.me/theorems/06b298e3-1582-4a90-aea6-01c27713d41a

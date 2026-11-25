@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_wave_letters_one
 -- name    : Formalism.FourierDecayAlt.P.wave_letters_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:35:49.374105+00:00
 -- url     : https://prove2.me/theorems/01cdc2b0-9a58-4b59-bd17-e6a3ca6ed21b

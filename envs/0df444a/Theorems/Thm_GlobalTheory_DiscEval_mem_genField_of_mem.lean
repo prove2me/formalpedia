@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_mem_genField_of_mem
 -- name    : GlobalTheory.DiscEval.mem_genField_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:58:04.319803+00:00
 -- url     : https://prove2.me/theorems/9b896532-33dc-5f8f-b013-a74e85ff13e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_sum_identity
 -- name    : Formalism.FourierDecayAlt.P.gram_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:30:51.232597+00:00
 -- url     : https://prove2.me/theorems/e400f835-35f3-4dde-92de-c6876065b300

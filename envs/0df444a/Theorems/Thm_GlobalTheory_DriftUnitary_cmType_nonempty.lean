@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DriftUnitary_cmType_nonempty
 -- name    : GlobalTheory.DriftUnitary.cmType_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:31.489531+00:00
 -- url     : https://prove2.me/theorems/86ac061c-efd5-4f00-8ad9-24dbe28a9770

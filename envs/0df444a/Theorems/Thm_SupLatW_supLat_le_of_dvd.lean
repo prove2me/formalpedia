@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupLatW_supLat_le_of_dvd
 -- name    : SupLatW.supLat_le_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:11:15.879082+00:00
 -- url     : https://prove2.me/theorems/3c414c0a-83cb-461a-ba93-68d7b38d6a46

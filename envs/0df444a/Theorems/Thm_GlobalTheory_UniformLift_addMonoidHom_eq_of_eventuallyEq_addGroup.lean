@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformLift_addMonoidHom_eq_of_eventuallyEq_addGroup
 -- name    : GlobalTheory.UniformLift.addMonoidHom_eq_of_eventuallyEq_addGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:16:26.979793+00:00
 -- url     : https://prove2.me/theorems/d77851ce-83fa-4e11-abf9-bed0f4251942

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_divisor_weight_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.divisor_weight_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:43:33.95202+00:00
 -- url     : https://prove2.me/theorems/6ed1250e-afbb-4e32-bf5d-e81462a5a40d

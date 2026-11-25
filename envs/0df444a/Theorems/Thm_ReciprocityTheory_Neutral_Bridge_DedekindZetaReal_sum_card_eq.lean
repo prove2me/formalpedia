@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_DedekindZetaReal_sum_card_eq
 -- name    : ReciprocityTheory.Neutral.Bridge.DedekindZetaReal.sum_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:07.732799+00:00
 -- url     : https://prove2.me/theorems/f2f741f2-3ea9-536c-a107-707db97002f9

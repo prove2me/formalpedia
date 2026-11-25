@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_PhiMod_hatTot_sub_mem_Mhat_iff
 -- name    : GlobalTheory.BK.PhiMod.hatTot_sub_mem_Mhat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:43.301092+00:00
 -- url     : https://prove2.me/theorems/cf4140df-5e70-52f7-88e3-50ab37572a07

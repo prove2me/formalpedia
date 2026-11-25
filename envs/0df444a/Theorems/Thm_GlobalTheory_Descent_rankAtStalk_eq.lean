@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Descent_rankAtStalk_eq
 -- name    : GlobalTheory.Descent.rankAtStalk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:12.558808+00:00
 -- url     : https://prove2.me/theorems/25302c6e-5ad3-4128-b589-4c41ab5d2299

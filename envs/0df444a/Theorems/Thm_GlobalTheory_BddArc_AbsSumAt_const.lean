@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BddArc_AbsSumAt_const
 -- name    : GlobalTheory.BddArc.AbsSumAt.const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:03:18.995524+00:00
 -- url     : https://prove2.me/theorems/1f69d45f-1221-4d07-b718-8dfa17cb9f1a

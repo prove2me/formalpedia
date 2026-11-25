@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GraphClosureExample_isProper_and_not_isIso
 -- name    : GlobalTheory.GraphClosureExample.isProper_and_not_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:05:58.683335+00:00
 -- url     : https://prove2.me/theorems/eb14be8f-465c-5890-9ebf-7937842adf2f

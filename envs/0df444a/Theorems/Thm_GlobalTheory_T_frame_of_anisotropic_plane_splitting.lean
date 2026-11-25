@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frame_of_anisotropic_plane_splitting
 -- name    : GlobalTheory.T.frame_of_anisotropic_plane_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:31:43.049682+00:00
 -- url     : https://prove2.me/theorems/6df86b09-0641-48a7-ab0e-6c445d85376d

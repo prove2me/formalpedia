@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_coinvTensor_mk
 -- name    : GlobalTheory.LGrp.coinvTensor_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:14:36.948847+00:00
 -- url     : https://prove2.me/theorems/f00453e9-167c-4888-965f-0898a4b8e508

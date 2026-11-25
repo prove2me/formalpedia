@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitSphereMeasure_le_gaussAbsValue
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitSphereMeasure.le_gaussAbsValue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:41.26552+00:00
 -- url     : https://prove2.me/theorems/501b6cd4-3f91-4546-9afa-b36ad3e2bf93

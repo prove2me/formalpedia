@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_epi_iff_fibreMap_surjective
 -- name    : GlobalTheory.QCoh.epi_iff_fibreMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:18:46.659868+00:00
 -- url     : https://prove2.me/theorems/2d891894-64dc-491e-9c87-25a377757213

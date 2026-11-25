@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GaloisCohomology_ldataExists
 -- name    : Formalism.GaloisCohomology.ldataExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:35:56.259113+00:00
 -- url     : https://prove2.me/theorems/694cb78b-ab58-4a50-a762-19dbc27c220f

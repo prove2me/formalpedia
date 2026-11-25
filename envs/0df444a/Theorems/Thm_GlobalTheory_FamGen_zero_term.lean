@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamGen_zero_term
 -- name    : GlobalTheory.FamGen.zero_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:50:46.710555+00:00
 -- url     : https://prove2.me/theorems/ce55ffee-3593-5b42-a99f-851fea8d572a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_isFrame_pderiv
 -- name    : GlobalTheory.SS.isFrame_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:00.53467+00:00
 -- url     : https://prove2.me/theorems/0f7a7a8a-1dbf-4591-9377-4127e0f015cd

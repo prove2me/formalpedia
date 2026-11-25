@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_iterated_integration_formula
 -- name    : Formalism.FourierDecayAlt.P.iterated_integration_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:03:19.255813+00:00
 -- url     : https://prove2.me/theorems/52b42245-1f89-4fcb-bca4-2d8e64fd31af

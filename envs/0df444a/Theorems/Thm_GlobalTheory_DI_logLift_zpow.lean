@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_logLift_zpow
 -- name    : GlobalTheory.DI.logLift_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:44.471985+00:00
 -- url     : https://prove2.me/theorems/3b787c1c-39ab-4b08-a5b5-a7152507a5b8

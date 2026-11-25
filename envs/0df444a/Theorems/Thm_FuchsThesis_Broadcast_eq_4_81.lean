@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FuchsThesis_Broadcast_eq_4_81
 -- name    : FuchsThesis.Broadcast.eq_4_81
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-10-30T15:57:33.512606+00:00
 -- url     : https://prove2.me/theorems/a478c284-8a61-43fe-88ef-4dd1ca136aa1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isSemiAbelian_of_isGt
 -- name    : GlobalTheory.isSemiAbelian_of_isGt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:48:48.787791+00:00
 -- url     : https://prove2.me/theorems/d090e8bd-192b-428a-81a0-eb43d7811f5b

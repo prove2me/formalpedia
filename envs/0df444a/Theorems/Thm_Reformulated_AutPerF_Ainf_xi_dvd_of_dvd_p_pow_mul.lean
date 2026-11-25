@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_xi_dvd_of_dvd_p_pow_mul
 -- name    : Reformulated.AutPerF.Ainf.xi_dvd_of_dvd_p_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:22:25.798803+00:00
 -- url     : https://prove2.me/theorems/e0a70d36-afb0-4336-b657-889dd5edaff3

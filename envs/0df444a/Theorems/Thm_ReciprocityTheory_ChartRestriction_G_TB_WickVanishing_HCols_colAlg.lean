@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_HCols_colAlg
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.HCols.colAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:03:13.434598+00:00
 -- url     : https://prove2.me/theorems/10443cc3-58a0-5fa8-865c-7a35ebf7b24d

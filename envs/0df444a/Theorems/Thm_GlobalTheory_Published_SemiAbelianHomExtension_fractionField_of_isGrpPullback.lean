@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_fractionField_of_isGrpPullback
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.fractionField_of_isGrpPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:16:31.580553+00:00
 -- url     : https://prove2.me/theorems/40da5168-ada5-4639-b49f-7386f9b455ab

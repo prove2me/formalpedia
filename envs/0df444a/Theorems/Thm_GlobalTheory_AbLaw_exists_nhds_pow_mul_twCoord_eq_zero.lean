@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_exists_nhds_pow_mul_twCoord_eq_zero
 -- name    : GlobalTheory.AbLaw.exists_nhds_pow_mul_twCoord_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:53:34.861806+00:00
 -- url     : https://prove2.me/theorems/aeff696a-a379-4e75-a6e2-88daa41da9c0

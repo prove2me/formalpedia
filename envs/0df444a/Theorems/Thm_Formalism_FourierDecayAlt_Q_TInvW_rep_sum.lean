@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_Q_TInvW_rep_sum
 -- name    : Formalism.FourierDecayAlt.Q.TInvW.rep_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:44:26.374574+00:00
 -- url     : https://prove2.me/theorems/e7863e0b-8664-43d3-9610-421ed68450d8

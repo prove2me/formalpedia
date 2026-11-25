@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_approxB_sum_pos
 -- name    : ReciprocityTheory.MultiplicativeHeights.approxB_sum_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:03:18.060824+00:00
 -- url     : https://prove2.me/theorems/1731bcd6-4228-4c4a-a2b2-c68ec59b10a1

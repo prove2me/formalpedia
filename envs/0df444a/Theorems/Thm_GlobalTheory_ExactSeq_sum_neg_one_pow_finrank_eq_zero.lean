@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExactSeq_sum_neg_one_pow_finrank_eq_zero
 -- name    : GlobalTheory.ExactSeq.sum_neg_one_pow_finrank_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:05:04.395439+00:00
 -- url     : https://prove2.me/theorems/1369e822-877d-4d11-bd62-bfa14ab30d44

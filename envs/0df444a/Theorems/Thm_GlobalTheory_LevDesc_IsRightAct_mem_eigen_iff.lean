@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevDesc_IsRightAct_mem_eigen_iff
 -- name    : GlobalTheory.LevDesc.IsRightAct.mem_eigen_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:43.113501+00:00
 -- url     : https://prove2.me/theorems/29d94a34-63ab-49ec-b63c-17469bdf40ef

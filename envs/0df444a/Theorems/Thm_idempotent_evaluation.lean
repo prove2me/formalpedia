@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_idempotent_evaluation
 -- name    : idempotent_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:14:19.209075+00:00
 -- url     : https://prove2.me/theorems/151605d5-5411-5f1f-b942-0e20ea9075c5

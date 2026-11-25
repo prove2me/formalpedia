@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_uniform_majorant_on
 -- name    : Formalism.FourierDecayAlt.P.uniform_majorant_on
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:36:50.133067+00:00
 -- url     : https://prove2.me/theorems/39c5c191-810f-4e15-a38d-ea6b222373aa

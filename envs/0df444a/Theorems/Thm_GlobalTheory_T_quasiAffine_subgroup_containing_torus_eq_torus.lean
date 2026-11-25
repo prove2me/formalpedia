@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quasiAffine_subgroup_containing_torus_eq_torus
 -- name    : GlobalTheory.T.quasiAffine_subgroup_containing_torus_eq_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:08:09.599086+00:00
 -- url     : https://prove2.me/theorems/fc0a623c-5c99-42c8-a9e0-74b7825f9582

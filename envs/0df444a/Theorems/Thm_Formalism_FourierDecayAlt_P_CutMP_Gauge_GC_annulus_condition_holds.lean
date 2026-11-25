@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_annulus_condition_holds
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.annulus_condition_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:44:26.66102+00:00
 -- url     : https://prove2.me/theorems/f0a407b7-9556-4c75-8240-cf58951e9fe3

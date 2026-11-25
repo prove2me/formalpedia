@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_chart_lifts_package
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.chart_lifts_package
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:30:15.045463+00:00
 -- url     : https://prove2.me/theorems/0cec9102-0fa0-469e-aaa2-645b1ed43667

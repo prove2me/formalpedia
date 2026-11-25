@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionsDescent_appLE_eq
 -- name    : GlobalTheory.SectionsDescent.appLE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:34.117208+00:00
 -- url     : https://prove2.me/theorems/09668218-f213-5359-9a91-2aa35dfd2c34

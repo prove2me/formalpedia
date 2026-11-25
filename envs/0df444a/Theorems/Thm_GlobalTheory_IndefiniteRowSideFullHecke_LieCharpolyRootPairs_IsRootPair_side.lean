@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LieCharpolyRootPairs_IsRootPair_side
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LieCharpolyRootPairs.IsRootPair.side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:46.717753+00:00
 -- url     : https://prove2.me/theorems/9ffadad3-1893-4b04-8f89-657c89098b68

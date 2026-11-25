@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealChain_monLat_congr
 -- name    : GlobalTheory.IdealChain.monLat_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:38.920545+00:00
 -- url     : https://prove2.me/theorems/92216a14-5383-44f3-90d4-5eba4834ab7f

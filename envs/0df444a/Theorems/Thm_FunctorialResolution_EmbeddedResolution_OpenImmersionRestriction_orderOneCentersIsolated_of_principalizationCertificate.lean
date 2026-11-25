@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_orderOneCentersIsolated_of_principalizationCertificate
 -- name    : FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.orderOneCentersIsolated_of_principalizationCertificate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:38.065165+00:00
 -- url     : https://prove2.me/theorems/06fc672a-50bb-4a3b-9255-d85efe1013ec

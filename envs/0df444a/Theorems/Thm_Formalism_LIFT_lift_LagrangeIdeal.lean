@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_lift_LagrangeIdeal
 -- name    : Formalism.LIFT.lift_LagrangeIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:50:12.194+00:00
 -- url     : https://prove2.me/theorems/ac194508-3bc7-4558-b5c3-a39a96a14c83

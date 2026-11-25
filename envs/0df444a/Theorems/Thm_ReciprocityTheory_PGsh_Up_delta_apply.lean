@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_delta_apply
 -- name    : ReciprocityTheory.PGsh.Up.delta_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:08:44.845343+00:00
 -- url     : https://prove2.me/theorems/e15532b5-68b4-459c-961a-f0fe9e6f658b

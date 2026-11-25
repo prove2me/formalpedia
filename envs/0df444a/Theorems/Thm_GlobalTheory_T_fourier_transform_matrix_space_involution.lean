@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_transform_matrix_space_involution
 -- name    : GlobalTheory.T.fourier_transform_matrix_space_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:32:00.506276+00:00
 -- url     : https://prove2.me/theorems/e524024c-c5b5-4012-9429-19802afef298

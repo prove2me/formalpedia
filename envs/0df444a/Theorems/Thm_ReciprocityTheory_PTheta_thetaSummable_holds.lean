@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_thetaSummable_holds
 -- name    : ReciprocityTheory.PTheta.thetaSummable_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:10:40.522141+00:00
 -- url     : https://prove2.me/theorems/70a195df-9d27-4804-8091-e1005c9189d7

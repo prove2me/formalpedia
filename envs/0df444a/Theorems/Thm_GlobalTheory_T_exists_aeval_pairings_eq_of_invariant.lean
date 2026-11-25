@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_aeval_pairings_eq_of_invariant
 -- name    : GlobalTheory.T.exists_aeval_pairings_eq_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:28:48.383163+00:00
 -- url     : https://prove2.me/theorems/ff51f3c5-6619-4615-b73d-c452b172f719

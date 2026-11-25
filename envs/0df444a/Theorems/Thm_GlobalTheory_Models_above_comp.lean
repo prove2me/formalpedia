@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_above_comp
 -- name    : GlobalTheory.Models.above_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:15:53.843495+00:00
 -- url     : https://prove2.me/theorems/de5e8b06-d1f6-59be-ae04-90b4f0f54bb2

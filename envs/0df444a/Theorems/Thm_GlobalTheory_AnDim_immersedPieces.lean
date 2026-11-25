@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnDim_immersedPieces
 -- name    : GlobalTheory.AnDim.immersedPieces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:36:35.255935+00:00
 -- url     : https://prove2.me/theorems/354f0175-f31d-4c3e-ab96-47c409d13fd6

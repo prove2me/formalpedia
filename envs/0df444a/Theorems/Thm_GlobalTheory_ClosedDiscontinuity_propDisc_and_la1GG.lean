@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedDiscontinuity_propDisc_and_la1GG
 -- name    : GlobalTheory.ClosedDiscontinuity.propDisc_and_la1GG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:13:36.302298+00:00
 -- url     : https://prove2.me/theorems/db82c18f-73cc-48e7-b432-d717ea4a6c0b

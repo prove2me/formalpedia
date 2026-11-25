@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_concrete_axioms
 -- name    : Formalism.FourierDecayAlt.P.concrete_axioms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:34:20.325141+00:00
 -- url     : https://prove2.me/theorems/d368439f-ce5b-5327-88c8-0aaa2a66a390

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_d_n_last_independent
 -- name    : Formalism.CohomologicalDescent.LD.d_n_last_independent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:22:03.716187+00:00
 -- url     : https://prove2.me/theorems/c1babf84-ce25-52ee-8793-2f2df120a173

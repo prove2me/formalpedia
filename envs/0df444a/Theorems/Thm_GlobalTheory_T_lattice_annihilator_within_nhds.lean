@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_annihilator_within_nhds
 -- name    : GlobalTheory.T.lattice_annihilator_within_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:21.36628+00:00
 -- url     : https://prove2.me/theorems/b6c0b7a1-2700-5df6-a98d-e630cf82f5a5

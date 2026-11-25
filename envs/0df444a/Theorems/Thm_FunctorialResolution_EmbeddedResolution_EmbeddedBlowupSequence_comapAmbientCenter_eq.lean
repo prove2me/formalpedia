@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_comapAmbientCenter_eq
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.comapAmbientCenter_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:55:26.019616+00:00
 -- url     : https://prove2.me/theorems/7b4ece9b-2dea-4456-b364-8ac1634fad5a

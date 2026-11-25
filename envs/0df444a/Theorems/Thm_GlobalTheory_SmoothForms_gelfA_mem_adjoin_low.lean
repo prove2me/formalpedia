@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothForms_gelfA_mem_adjoin_low
 -- name    : GlobalTheory.SmoothForms.gelfA_mem_adjoin_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:24:28.989706+00:00
 -- url     : https://prove2.me/theorems/d73e1110-44ca-4cd7-8b5d-eee955bd494b

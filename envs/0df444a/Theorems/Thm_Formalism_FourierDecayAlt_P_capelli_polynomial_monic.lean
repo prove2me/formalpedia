@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_polynomial_monic
 -- name    : Formalism.FourierDecayAlt.P.capelli_polynomial_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:42:36.688439+00:00
 -- url     : https://prove2.me/theorems/f4300e5e-51b9-45b1-9935-fc0a03b49db9

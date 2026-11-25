@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_isAdj_U
 -- name    : GlobalTheory.LatPair.Model.isAdj_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:12:44.33402+00:00
 -- url     : https://prove2.me/theorems/621c7489-3602-5fde-9af5-6bf1c621ed9f

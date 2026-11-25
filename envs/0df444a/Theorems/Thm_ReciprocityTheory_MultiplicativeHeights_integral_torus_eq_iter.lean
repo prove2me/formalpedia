@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_integral_torus_eq_iter
 -- name    : ReciprocityTheory.MultiplicativeHeights.integral_torus_eq_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:41.203191+00:00
 -- url     : https://prove2.me/theorems/0ad2421d-f70b-4a74-88e4-37d6a0cac7be

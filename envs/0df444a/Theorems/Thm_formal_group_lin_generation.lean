@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_formal_group_lin_generation
 -- name    : formal_group_lin_generation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:14:49.261987+00:00
 -- url     : https://prove2.me/theorems/4b552da1-013b-4aa7-b689-94fce6206be2

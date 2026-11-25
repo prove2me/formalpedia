@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StabFlat_height_of_etale_mvPolynomial
 -- name    : GlobalTheory.StabFlat.height_of_etale_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:10:53.984799+00:00
 -- url     : https://prove2.me/theorems/7d79b8e6-87cc-47fa-a9c4-f6e7d4ea02fd

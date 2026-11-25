@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_fibreEval_smul
 -- name    : GlobalTheory.QCoh.fibreEval_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:19:29.570931+00:00
 -- url     : https://prove2.me/theorems/869a4f6b-108c-455d-bf59-02d80fdba7c9

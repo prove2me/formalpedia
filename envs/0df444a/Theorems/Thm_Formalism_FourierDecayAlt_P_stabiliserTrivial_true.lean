@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabiliserTrivial_true
 -- name    : Formalism.FourierDecayAlt.P.stabiliserTrivial_true
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:48.549772+00:00
 -- url     : https://prove2.me/theorems/9c80cf68-b72f-5827-8c19-16721d8cdd0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_comp_tie
 -- name    : GlobalTheory.NL.Model.comp_tie
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:15:28.092376+00:00
 -- url     : https://prove2.me/theorems/750ecbe6-7484-4a96-86ca-452ab47074fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_hkSummable
 -- name    : Formalism.L2.Th1.F.hkSummable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:56:57.445116+00:00
 -- url     : https://prove2.me/theorems/4aaa2bfe-abe2-501d-b920-769b067debd9

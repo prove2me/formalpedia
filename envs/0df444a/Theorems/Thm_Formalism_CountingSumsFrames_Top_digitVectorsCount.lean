@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_digitVectorsCount
 -- name    : Formalism.CountingSumsFrames.Top.digitVectorsCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:23:50.586507+00:00
 -- url     : https://prove2.me/theorems/905e3cbb-21c3-4976-8939-c50fd6db69e5

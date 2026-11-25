@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Arith_FormsL_mem_Mcoord
 -- name    : Formalism.IndefR.Arith.FormsL.mem_Mcoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:32.872941+00:00
 -- url     : https://prove2.me/theorems/dd233efd-5a05-5a65-8f21-e7fcdd2ef3a9

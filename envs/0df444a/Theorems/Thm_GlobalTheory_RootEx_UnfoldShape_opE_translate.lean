@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_opE_translate
 -- name    : GlobalTheory.RootEx.UnfoldShape.opE_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:34.129383+00:00
 -- url     : https://prove2.me/theorems/9ddf6115-9e72-5c42-95dc-1dcee8ac9931

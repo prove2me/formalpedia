@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chow_weightedHomogeneousComponent_mem_elimIdeal
 -- name    : GlobalTheory.Chow.weightedHomogeneousComponent_mem_elimIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:21.188272+00:00
 -- url     : https://prove2.me/theorems/9bd4fa4c-f5df-49c7-bb23-64f6c6a65209

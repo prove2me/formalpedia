@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOpen_stabilizer_schwartzBruhat
 -- name    : GlobalTheory.T.isOpen_stabilizer_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:36:23.363425+00:00
 -- url     : https://prove2.me/theorems/90baa72f-e94f-480e-ad4e-5001636c4b52

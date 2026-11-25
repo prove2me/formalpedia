@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_poleSecs_congr
 -- name    : GlobalTheory.EffCartierData.poleSecs_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:11:53.655913+00:00
 -- url     : https://prove2.me/theorems/c2d250f1-7af7-4364-bc90-60ccc2818c85

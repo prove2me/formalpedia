@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isSLTwoPermutedModularFamily_iff_values
 -- name    : GlobalTheory.T.isSLTwoPermutedModularFamily_iff_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:40.420891+00:00
 -- url     : https://prove2.me/theorems/4ec3e0ca-5103-4e80-ad8c-a64c83961ffa

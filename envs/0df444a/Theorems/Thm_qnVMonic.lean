@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_qnVMonic
 -- name    : qnVMonic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:15:25.799843+00:00
 -- url     : https://prove2.me/theorems/56e02149-e013-432a-a456-2de8a3ae47cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_mem_away
 -- name    : GlobalTheory.BK.mem_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:56:08.003798+00:00
 -- url     : https://prove2.me/theorems/946086b7-04d9-4f8b-b1c4-12877d098d82

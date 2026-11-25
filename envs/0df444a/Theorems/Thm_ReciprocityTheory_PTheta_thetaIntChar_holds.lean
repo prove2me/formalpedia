@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_thetaIntChar_holds
 -- name    : ReciprocityTheory.PTheta.thetaIntChar_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:33:14.262814+00:00
 -- url     : https://prove2.me/theorems/024a6585-baca-42ce-9d32-569b3a72522e

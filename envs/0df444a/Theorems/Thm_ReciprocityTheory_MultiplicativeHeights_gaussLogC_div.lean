@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gaussLogC_div
 -- name    : ReciprocityTheory.MultiplicativeHeights.gaussLogC_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:03:54.861093+00:00
 -- url     : https://prove2.me/theorems/24b46311-c93f-5e0d-895c-da728510cba9

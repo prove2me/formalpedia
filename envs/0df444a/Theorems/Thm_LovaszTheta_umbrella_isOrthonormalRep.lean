@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszTheta_umbrella_isOrthonormalRep
 -- name    : LovaszTheta.umbrella_isOrthonormalRep
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:47:04.643694+00:00
 -- url     : https://prove2.me/theorems/0f5cb4a2-fb50-4bb7-9eaa-f00d50b0b5a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_extend_affineLine_morphism_to_proper_across_point
 -- name    : GlobalTheory.T.extend_affineLine_morphism_to_proper_across_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:31:50.281187+00:00
 -- url     : https://prove2.me/theorems/91296992-c7d6-5f7e-aa16-834a658788b0

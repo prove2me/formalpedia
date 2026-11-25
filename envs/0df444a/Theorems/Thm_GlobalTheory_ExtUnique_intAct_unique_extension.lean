@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtUnique_intAct_unique_extension
 -- name    : GlobalTheory.ExtUnique.intAct_unique_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:09.889734+00:00
 -- url     : https://prove2.me/theorems/6e4c8ffb-f7ac-4e2c-bfdb-e4d377a3cccf

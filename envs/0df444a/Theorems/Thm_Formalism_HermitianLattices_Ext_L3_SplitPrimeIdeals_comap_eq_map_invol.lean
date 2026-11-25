@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_comap_eq_map_invol
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitPrimeIdeals.comap_eq_map_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:24.431891+00:00
 -- url     : https://prove2.me/theorems/971ce029-dd5e-4f3a-9b68-ee677c57439e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_BaseMetric_isConj_of_isEmpty
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.BaseMetric.isConj_of_isEmpty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:52.564975+00:00
 -- url     : https://prove2.me/theorems/7c34361d-e146-58ac-b89e-e1160124a7f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Final_genus_mass_volume_results
 -- name    : Formalism.HermitianLattices.Final.genus_mass_volume_results
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:13.618956+00:00
 -- url     : https://prove2.me/theorems/cac2d194-b969-5835-8382-24e743ef25e2

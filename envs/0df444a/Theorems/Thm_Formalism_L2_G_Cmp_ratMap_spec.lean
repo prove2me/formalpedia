@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_ratMap_spec
 -- name    : Formalism.L2.G.Cmp.ratMap_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:53.6233+00:00
 -- url     : https://prove2.me/theorems/7ed973cc-5d6b-42db-bb2b-8bbee268f8f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GFam_Mat_resOf_opOf
 -- name    : Formalism.L2.Col.GFam.Mat.resOf_opOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:45:54.022364+00:00
 -- url     : https://prove2.me/theorems/80e56b07-2bff-5de4-b8e1-d0c93e6730d9

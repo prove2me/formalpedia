@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpreadScheme_exists_up_comp_up
 -- name    : GlobalTheory.SpreadScheme.exists_up_comp_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:04:00.504943+00:00
 -- url     : https://prove2.me/theorems/92b9796e-d0b7-448a-bb41-0215c27a3143

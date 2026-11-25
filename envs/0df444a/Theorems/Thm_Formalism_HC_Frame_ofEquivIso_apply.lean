@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_ofEquivIso_apply
 -- name    : Formalism.HC.Frame.ofEquivIso_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:18.442423+00:00
 -- url     : https://prove2.me/theorems/21458966-cb80-4c03-b455-e9b29ec924f7

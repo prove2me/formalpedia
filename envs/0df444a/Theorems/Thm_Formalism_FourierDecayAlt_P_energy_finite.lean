@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_energy_finite
 -- name    : Formalism.FourierDecayAlt.P.energy_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:29:40.149033+00:00
 -- url     : https://prove2.me/theorems/f620779f-1b1d-4418-9a8b-1dced249cba0

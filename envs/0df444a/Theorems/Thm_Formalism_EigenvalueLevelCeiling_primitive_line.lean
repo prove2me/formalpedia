@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_primitive_line
 -- name    : Formalism.EigenvalueLevelCeiling.primitive_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:26:47.211243+00:00
 -- url     : https://prove2.me/theorems/02d6e274-89dc-51d5-b0fd-4f87671c75dc

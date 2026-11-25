@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dedekind_residue_bound
 -- name    : dedekind_residue_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:18:33.320939+00:00
 -- url     : https://prove2.me/theorems/e7c977a3-c524-4a62-ad68-531b02a5b3ae

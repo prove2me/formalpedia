@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_lift_act
 -- name    : GlobalTheory.HeckeFrCompare.lift_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:46:03.293991+00:00
 -- url     : https://prove2.me/theorems/2c8d6b9b-93a2-4b31-ad8b-75346baa8c52

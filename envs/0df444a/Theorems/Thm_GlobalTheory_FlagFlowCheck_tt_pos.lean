@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagFlowCheck_tt_pos
 -- name    : GlobalTheory.FlagFlowCheck.tt_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:08.386256+00:00
 -- url     : https://prove2.me/theorems/b159fc52-97c4-4e27-839a-fe18776e3d03

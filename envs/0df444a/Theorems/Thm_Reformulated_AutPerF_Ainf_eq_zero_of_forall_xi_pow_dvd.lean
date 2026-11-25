@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_eq_zero_of_forall_xi_pow_dvd
 -- name    : Reformulated.AutPerF.Ainf.eq_zero_of_forall_xi_pow_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T17:12:33.202827+00:00
 -- url     : https://prove2.me/theorems/bb8c2f46-0c3d-4b32-93c2-c37ba5acaba1

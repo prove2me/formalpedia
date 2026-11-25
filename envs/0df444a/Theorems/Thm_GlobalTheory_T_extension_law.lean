@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_extension_law
 -- name    : GlobalTheory.T.extension_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:32:06.662141+00:00
 -- url     : https://prove2.me/theorems/b054f3d6-616c-4462-9f78-8c08b93b3142

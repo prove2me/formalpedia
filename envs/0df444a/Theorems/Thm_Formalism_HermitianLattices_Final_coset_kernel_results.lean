@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Final_coset_kernel_results
 -- name    : Formalism.HermitianLattices.Final.coset_kernel_results
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:32.264904+00:00
 -- url     : https://prove2.me/theorems/045123a9-2464-455b-af86-8c2301966d5f

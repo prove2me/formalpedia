@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Cmp_SncRes_Reg_card_le_finrank_jacSpanAt
 -- name    : GlobalTheory.CompanionTheory.Ar.Cmp.SncRes.Reg.card_le_finrank_jacSpanAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:41:16.377731+00:00
 -- url     : https://prove2.me/theorems/3e5f4abc-9139-4a16-ab2f-8fbf9c47667e

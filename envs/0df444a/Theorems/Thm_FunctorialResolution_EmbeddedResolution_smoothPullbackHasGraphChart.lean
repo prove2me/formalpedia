@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smoothPullbackHasGraphChart
 -- name    : FunctorialResolution.EmbeddedResolution.smoothPullbackHasGraphChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:56:37.39016+00:00
 -- url     : https://prove2.me/theorems/707ad704-1d75-48e5-8844-2229a1ff9159

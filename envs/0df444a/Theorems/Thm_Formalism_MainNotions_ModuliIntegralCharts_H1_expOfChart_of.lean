@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_expOfChart_of
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.expOfChart_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:58:17.513847+00:00
 -- url     : https://prove2.me/theorems/9ee221c3-6537-4101-bb3c-651d6e6a6159

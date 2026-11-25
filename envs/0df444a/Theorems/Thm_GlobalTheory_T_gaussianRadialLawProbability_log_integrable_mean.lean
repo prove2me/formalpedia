@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussianRadialLawProbability_log_integrable_mean
 -- name    : GlobalTheory.T.gaussianRadialLawProbability_log_integrable_mean
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:05:12.122284+00:00
 -- url     : https://prove2.me/theorems/db1a1ed6-091b-410c-9b85-b5bb72205ad0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusGrading_appLE_comp_top
 -- name    : GlobalTheory.TorusGrading.appLE_comp_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:08:31.563926+00:00
 -- url     : https://prove2.me/theorems/c1bb6d9e-c037-501d-998b-20b9230abf2e

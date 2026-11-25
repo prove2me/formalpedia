@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_padicMult
 -- name    : Formalism.ELL.padicMult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:25:06.360833+00:00
 -- url     : https://prove2.me/theorems/5325d506-4157-4e71-9d0a-c07dbd3f0131

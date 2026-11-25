@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EvenPull_sym_pmaps
 -- name    : GlobalTheory.EvenPull.sym_pmaps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:07:44.996042+00:00
 -- url     : https://prove2.me/theorems/eb8f1daa-f088-46b8-be4f-354985a9a194

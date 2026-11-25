@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_admissible_over_prime
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.admissible_over_prime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:44:37.784885+00:00
 -- url     : https://prove2.me/theorems/23b15966-e0af-4993-90c3-9eae295a47c8

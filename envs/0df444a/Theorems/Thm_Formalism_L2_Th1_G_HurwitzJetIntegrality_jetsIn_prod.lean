@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_HurwitzJetIntegrality_jetsIn_prod
 -- name    : Formalism.L2.Th1.G.HurwitzJetIntegrality.jetsIn_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:51:57.026465+00:00
 -- url     : https://prove2.me/theorems/30c297fc-aa75-49bf-91d8-b71daf56068f

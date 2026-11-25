@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_Model_affPt_block
 -- name    : GlobalTheory.RootEx.Model.affPt_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:20:39.983045+00:00
 -- url     : https://prove2.me/theorems/84db985d-888c-449b-ae71-ccb9ddb062d3

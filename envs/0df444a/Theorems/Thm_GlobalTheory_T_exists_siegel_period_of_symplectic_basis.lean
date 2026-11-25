@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_siegel_period_of_symplectic_basis
 -- name    : GlobalTheory.T.exists_siegel_period_of_symplectic_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:26.296416+00:00
 -- url     : https://prove2.me/theorems/c5d08a5a-7821-53e4-9d12-a25e3b856e4f

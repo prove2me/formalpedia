@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_PlacesExt_exists_local
 -- name    : GlobalTheory.SS.PlacesExt.exists_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:17:30.436257+00:00
 -- url     : https://prove2.me/theorems/f2f8e600-b833-40bc-97bc-6a3a5b0bc25b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_hit_of_isPlaneOpenBook
 -- name    : FiniteEnergyPlane.exists_hit_of_isPlaneOpenBook
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-04T15:52:55.684224+00:00
 -- url     : https://prove2.me/theorems/39371183-232f-425e-b832-afe7472b4c66

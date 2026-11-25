@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupConn_connectedSpace_group
 -- name    : GlobalTheory.GroupConn.connectedSpace_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:36:37.006525+00:00
 -- url     : https://prove2.me/theorems/1fc0340c-f910-54bb-89e5-950d2079f3a9

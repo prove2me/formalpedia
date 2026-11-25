@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_linearIndependent_rat_basis_adapted_subspace
 -- name    : GlobalTheory.T.exists_linearIndependent_rat_basis_adapted_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:20.863632+00:00
 -- url     : https://prove2.me/theorems/de6d455d-f035-4934-8d20-c81db3604cc3

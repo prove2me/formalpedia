@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_Final_T_WeylModel
 -- name    : Formalism.YangianSpanCharacter.Final.T_WeylModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:46.043514+00:00
 -- url     : https://prove2.me/theorems/5bbaa3b3-f56a-425e-ba19-c6c2ab8a7a41

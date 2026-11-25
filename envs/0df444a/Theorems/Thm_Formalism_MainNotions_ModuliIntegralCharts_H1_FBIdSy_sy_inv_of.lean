@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdSy_sy_inv_of
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdSy.sy_inv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:51:47.207155+00:00
 -- url     : https://prove2.me/theorems/42d32c01-d112-47dc-b114-178d7580bb81

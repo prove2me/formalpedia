@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_DedekindZetaReal_sum_le_prod_geom
 -- name    : ReciprocityTheory.Neutral.Bridge.DedekindZetaReal.sum_le_prod_geom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:48.599207+00:00
 -- url     : https://prove2.me/theorems/ab63a5f7-fecb-439e-992f-bebbabdd779b

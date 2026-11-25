@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CompleteLocalNormalRings_RawDeg_IsDeg_io_isPt
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CompleteLocalNormalRings.RawDeg.IsDeg.io_isPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:48.165337+00:00
 -- url     : https://prove2.me/theorems/22274abe-4f56-4e05-958b-083fdc5507e3

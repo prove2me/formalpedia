@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CardinalPower_target
 -- name    : GlobalTheory.CardinalPower.target
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:23.369466+00:00
 -- url     : https://prove2.me/theorems/04cff5c8-c185-4b81-854f-346df0ddda4c

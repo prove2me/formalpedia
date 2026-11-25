@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_mulR_one
 -- name    : GlobalTheory.DRFil.mulR_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:31.474033+00:00
 -- url     : https://prove2.me/theorems/79cfc5cb-dd06-56c6-b81a-483ef8096dda

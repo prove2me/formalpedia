@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_EichlerAtPlace_full_0e04afb80990
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_EichlerAtPlace_full_0e04afb80990
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:02.532979+00:00
 -- url     : https://prove2.me/theorems/bed26006-cbce-4d5c-a1a3-ef6478c7ed4a

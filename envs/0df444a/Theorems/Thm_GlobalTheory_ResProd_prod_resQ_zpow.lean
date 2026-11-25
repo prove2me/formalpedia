@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResProd_prod_resQ_zpow
 -- name    : GlobalTheory.ResProd.prod_resQ_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:20:15.643202+00:00
 -- url     : https://prove2.me/theorems/64c73b6a-1f87-4385-8c19-1e846dae1918

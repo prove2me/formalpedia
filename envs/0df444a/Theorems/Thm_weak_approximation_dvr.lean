@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_weak_approximation_dvr
 -- name    : weak_approximation_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:17:06.100895+00:00
 -- url     : https://prove2.me/theorems/b8db317b-52fc-48e6-9d64-52e4bd138a32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_UnimodularStandardLattice_trivAt_std
 -- name    : GlobalTheory.Survey.UnimodularStandardLattice.trivAt_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:25:28.401652+00:00
 -- url     : https://prove2.me/theorems/331a028b-aea0-5260-90de-09b7c21fbf2a

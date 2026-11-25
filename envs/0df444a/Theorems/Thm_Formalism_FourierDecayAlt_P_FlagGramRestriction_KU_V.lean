@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FlagGramRestriction_KU_V
 -- name    : Formalism.FourierDecayAlt.P.FlagGramRestriction.KU_V
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:28:51.656488+00:00
 -- url     : https://prove2.me/theorems/f94b7505-c58c-4f68-979a-6fac07f47d9c

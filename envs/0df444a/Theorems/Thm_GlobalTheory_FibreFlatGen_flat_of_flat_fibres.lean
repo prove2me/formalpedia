@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreFlatGen_flat_of_flat_fibres
 -- name    : GlobalTheory.FibreFlatGen.flat_of_flat_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:37.428876+00:00
 -- url     : https://prove2.me/theorems/9feace4e-be36-5d9a-9ddb-d342bb244277

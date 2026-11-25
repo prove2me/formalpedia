@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieExt_detCond_extend
 -- name    : GlobalTheory.LieExt.detCond_extend
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:29:15.474794+00:00
 -- url     : https://prove2.me/theorems/dd57b1d7-0936-4297-afa3-173945a47c01

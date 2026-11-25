@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelGroupTest_natCast_mem_half
 -- name    : GlobalTheory.LevelGroupTest.natCast_mem_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:31.395364+00:00
 -- url     : https://prove2.me/theorems/e95611fb-2b2b-5932-baaf-33d02922f474

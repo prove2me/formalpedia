@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_stabilizer_null_set
 -- name    : Formalism.FourierDecayAlt.P.stabilizer_null_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:37:19.069954+00:00
 -- url     : https://prove2.me/theorems/92065b43-9f7c-59e4-9b1e-9482606a3c95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CountId_Cm_mapGl
 -- name    : GlobalTheory.CountId.Cm_mapGl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:41.355934+00:00
 -- url     : https://prove2.me/theorems/000cb241-4b16-43b0-bbdc-7164606c7d03

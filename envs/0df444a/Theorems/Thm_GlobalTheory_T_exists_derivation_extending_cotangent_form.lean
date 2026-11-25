@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_derivation_extending_cotangent_form
 -- name    : GlobalTheory.T.exists_derivation_extending_cotangent_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:28:44.198894+00:00
 -- url     : https://prove2.me/theorems/48310c53-771f-5543-882d-ede8c7efabe3

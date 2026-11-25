@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Reg_TrivBound_transfer___c2638dae37f4
 -- name    : P2M_GlobalTheory_Reg_TrivBound_transfer___c2638dae37f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:31:23.948253+00:00
 -- url     : https://prove2.me/theorems/d8dc4953-e277-49ad-ac1b-696e0e5ff59d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_FormalGroupPointsHom_integral_of_mem
 -- name    : Formalism.ELL.FormalGroupPointsHom.integral_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:19.728174+00:00
 -- url     : https://prove2.me/theorems/4f799786-dc9b-5aac-86f7-aaebbbad9d12

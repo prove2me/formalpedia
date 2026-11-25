@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_termComparison_restrictScalars_apply
 -- name    : GlobalTheory.Cube.termComparison_restrictScalars_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:23.538134+00:00
 -- url     : https://prove2.me/theorems/d145d120-7728-4fb7-bc4a-708cb8d22b2b

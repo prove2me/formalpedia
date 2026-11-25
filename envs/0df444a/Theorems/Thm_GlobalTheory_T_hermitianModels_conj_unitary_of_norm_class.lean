@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianModels_conj_unitary_of_norm_class
 -- name    : GlobalTheory.T.hermitianModels_conj_unitary_of_norm_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:09.137834+00:00
 -- url     : https://prove2.me/theorems/fc537af6-4591-4dbf-bbf5-6c44a03a9aea

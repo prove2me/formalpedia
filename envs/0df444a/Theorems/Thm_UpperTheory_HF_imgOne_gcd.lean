@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_imgOne_gcd
 -- name    : UpperTheory.HF.imgOne_gcd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:15.063025+00:00
 -- url     : https://prove2.me/theorems/3fec7a1b-e7fb-4aaa-b6d5-4e1368048edd

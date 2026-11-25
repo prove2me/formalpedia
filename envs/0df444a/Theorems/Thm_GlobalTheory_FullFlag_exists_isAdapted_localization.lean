@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_exists_isAdapted_localization
 -- name    : GlobalTheory.FullFlag.exists_isAdapted_localization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:48.116716+00:00
 -- url     : https://prove2.me/theorems/4eee082a-185d-4d7e-a7dd-14e99c837a77

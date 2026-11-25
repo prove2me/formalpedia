@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_le_ringKrullDim_int_af7f3029f4b1
 -- name    : P2M_GroundTheory_Heights__Heights_le_ringKrullDim_int_af7f3029f4b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:25.853842+00:00
 -- url     : https://prove2.me/theorems/fef7aab3-19f2-4b19-a71a-c88223205021

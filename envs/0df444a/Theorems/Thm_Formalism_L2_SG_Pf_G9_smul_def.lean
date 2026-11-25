@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_smul_def
 -- name    : Formalism.L2.SG.Pf.G9.smul_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:59.598992+00:00
 -- url     : https://prove2.me/theorems/dbfad640-e151-56d6-84b2-e7e016e38fb0

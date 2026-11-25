@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_DedekindZetaReal_sum_le_exp
 -- name    : ReciprocityTheory.Neutral.Bridge.DedekindZetaReal.sum_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:37.70647+00:00
 -- url     : https://prove2.me/theorems/f57f73a4-e7a2-42d1-b960-761b52823cf7

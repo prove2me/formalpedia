@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FractionLevelCorrespondence_le_chart
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FractionLevelCorrespondence.le_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:10:09.251861+00:00
 -- url     : https://prove2.me/theorems/7f5d090e-85ae-4ee4-89df-48c4c68ce0db

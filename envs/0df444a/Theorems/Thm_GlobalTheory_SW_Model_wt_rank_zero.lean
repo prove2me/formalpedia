@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Model_wt_rank_zero
 -- name    : GlobalTheory.SW.Model.wt_rank_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:34.46209+00:00
 -- url     : https://prove2.me/theorems/ae9eb603-98b6-4ebd-b0b7-5397efac4244

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_zero_of_coefficients_separatingCharacters_eq_zero
 -- name    : GlobalTheory.T.eq_zero_of_coefficients_separatingCharacters_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:27:53.575924+00:00
 -- url     : https://prove2.me/theorems/60c38a10-769e-53d7-add9-955bf0860085

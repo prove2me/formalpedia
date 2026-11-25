@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fractional_ideal_coprime_element_exists
 -- name    : GlobalTheory.T.fractional_ideal_coprime_element_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:31:16.783505+00:00
 -- url     : https://prove2.me/theorems/d218d1e7-d78d-5311-9fc0-42ea7dd6163e

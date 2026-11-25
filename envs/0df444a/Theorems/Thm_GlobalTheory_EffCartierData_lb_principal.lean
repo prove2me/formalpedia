@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_lb_principal
 -- name    : GlobalTheory.EffCartierData.lb_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:11:32.816027+00:00
 -- url     : https://prove2.me/theorems/a79a45da-2e3c-4595-8945-80e7850d0443

@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.EigenvalueLevelCeiling.onExport
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T16:30:37.308146+00:00
+-- url     : https://prove2.me/submissions/ca2ca1fc-229d-4066-8f6c-9fcb19e05f1e
+
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_ErrSum
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxFull
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxPsiGood
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxRules
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_LemmaGG
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_Mirabolic
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_UnipotentNumeric
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OnExport
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OnLocal
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OrthogonalityOfMackey
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_RamBasic
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_AbsorbLocalConditions
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_ThreeForms
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicIsMackey
+import Theorems.Thm_Formalism_EigenvalueLevelCeiling_ramBasic
+import Theorems.Thm_Formalism_EigenvalueLevelCeiling_onExport_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.EigenvalueLevelCeiling
+namespace Formalism.EigenvalueLevelCeiling
+theorem _root_.solution : OnExport := by
+  first
+    | exact onExport_of_onExport2 (onExport2_of ramBasic)
+    | exact onExport_proof'
+    | exact onExport_of ramBasic
+end Formalism.EigenvalueLevelCeiling

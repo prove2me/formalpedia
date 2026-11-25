@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SmoothCenterBlowup_structureMorphism_eq
 -- name    : FunctorialResolution.EmbeddedResolution.SmoothCenterBlowup.structureMorphism_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:12.325855+00:00
 -- url     : https://prove2.me/theorems/c7e4d7a4-397c-4361-b1f5-018cc78d3bd2

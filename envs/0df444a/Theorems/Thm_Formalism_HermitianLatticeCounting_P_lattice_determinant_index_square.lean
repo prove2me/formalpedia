@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_lattice_determinant_index_square
 -- name    : Formalism.HermitianLatticeCounting.P.lattice_determinant_index_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:39:35.576715+00:00
 -- url     : https://prove2.me/theorems/7a9938f2-5da9-5a74-8749-4a8b834ecc36

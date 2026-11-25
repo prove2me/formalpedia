@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_DeltaValuation_maj_smul
 -- name    : UnipMove.DeltaValuation.maj_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:00:05.578928+00:00
 -- url     : https://prove2.me/theorems/6b58a572-b2df-4b12-b6e6-9601b805fa2e

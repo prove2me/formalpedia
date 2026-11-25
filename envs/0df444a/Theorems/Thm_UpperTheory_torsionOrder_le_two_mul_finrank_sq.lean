@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_torsionOrder_le_two_mul_finrank_sq
 -- name    : UpperTheory.torsionOrder_le_two_mul_finrank_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:19.809907+00:00
 -- url     : https://prove2.me/theorems/fa8248bb-b74d-4f50-9505-39ff31373e41

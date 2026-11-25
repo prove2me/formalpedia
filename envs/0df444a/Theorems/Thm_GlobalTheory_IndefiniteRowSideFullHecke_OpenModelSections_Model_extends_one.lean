@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OpenModelSections_Model_extends_one
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OpenModelSections.Model.extends_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:09:28.761547+00:00
 -- url     : https://prove2.me/theorems/0b70ceff-3c91-4c96-a0ae-ec0958bf2cad

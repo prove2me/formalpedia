@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_detLineMono
 -- name    : Formalism.L2.LamCM.detLineMono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:27.981194+00:00
 -- url     : https://prove2.me/theorems/21ca5d1e-d1e7-47c8-bc22-41ed19ae118f

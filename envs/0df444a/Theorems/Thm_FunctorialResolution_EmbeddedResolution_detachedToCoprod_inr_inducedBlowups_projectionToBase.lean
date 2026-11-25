@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_detachedToCoprod_inr_inducedBlowups_projectionToBase
 -- name    : FunctorialResolution.EmbeddedResolution.detachedToCoprod_inr_inducedBlowups_projectionToBase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:53:30.966066+00:00
 -- url     : https://prove2.me/theorems/c015ee15-1a03-52ef-be6c-56ae99f9777e

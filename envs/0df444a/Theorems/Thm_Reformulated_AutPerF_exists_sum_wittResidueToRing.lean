@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_exists_sum_wittResidueToRing
 -- name    : Reformulated.AutPerF.exists_sum_wittResidueToRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:05.040496+00:00
 -- url     : https://prove2.me/theorems/7131c9d0-0729-55af-ab08-e599719a01d0

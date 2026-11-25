@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exponential_polynomial_solution_space
 -- name    : GlobalTheory.T.exponential_polynomial_solution_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:31:57.321602+00:00
 -- url     : https://prove2.me/theorems/ac14fee8-f34a-4a87-a024-f9f0c4e03702

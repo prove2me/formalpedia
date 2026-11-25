@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_TwoGroup_orderOf_le_iff
 -- name    : Formalism.HC.Frame.TwoGroup.orderOf_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:15.549186+00:00
 -- url     : https://prove2.me/theorems/d1e32702-f923-430e-9e2e-48e522469667

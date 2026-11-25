@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_twist_eq
 -- name    : GlobalTheory.LGrp.twist_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:21:06.41012+00:00
 -- url     : https://prove2.me/theorems/41fba54e-e3a5-5b33-99fa-456a3ed311fa

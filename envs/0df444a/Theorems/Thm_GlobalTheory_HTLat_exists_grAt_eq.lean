@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_exists_grAt_eq
 -- name    : GlobalTheory.HTLat.exists_grAt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:22.332888+00:00
 -- url     : https://prove2.me/theorems/d12ebe06-e5e6-522e-ac00-35c06466e207

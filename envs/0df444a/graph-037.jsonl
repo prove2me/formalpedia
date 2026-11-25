@@ -34744,8 +34744,8 @@
 {"parent": "RH1E6S12.part_021_3", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S12.part_021_3", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S12.part_021_3", "child": "ArdaRH65K_DlvpTheta", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.AinfInv.kerTheta_eq", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_TruncLogEqOfPowEqZero", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.AinfInv.kerTheta_eq", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_Kernel", "via": ["statement"]}
+{"parent": "Reformulated.AutPerF.AinfInv.kerTheta_eq", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_TruncLogEqOfPowEqZero", "via": ["solution", "statement"]}
+{"parent": "Reformulated.AutPerF.AinfInv.kerTheta_eq", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_Kernel", "via": ["solution", "statement"]}
 {"parent": "Formalism_FlagUnipotentLattices_CardSubmodulesAndLinearEquivBounds", "child": "Formalism_HyperbolicPlaceProducts_Statement", "via": ["statement"]}
 {"parent": "Formalism_FlagUnipotentLattices_CardSubmodulesAndLinearEquivBounds", "child": "Formalism_HyperbolicPlaceProducts_DetIndexProductHyperbolicInequality", "via": ["statement"]}
 {"parent": "ReciprocityTheory.Gal.mem_riemannRochSpace_iff_regularAt_everywhere", "child": "ReciprocityTheory_GaloisValuations_SeparatedDvrSecondCohomologyMem", "via": ["solution", "statement"]}
@@ -37435,8 +37435,8 @@
 {"parent": "PFluxContinuity", "child": "PHigherOrder_PFlux", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x1.gpUni", "child": "Formalism_HermitianCurvature_MemParahoricTimesPrincipalCongruenceIff", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.S3x1.gpUni", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_PointwiseStabiliserParametrisationBijective", "via": ["solution", "statement"]}
-{"parent": "Reformulated.AutPerF.Ainf.theta_eq_zero_iff", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_TruncLogEqOfPowEqZero", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.Ainf.theta_eq_zero_iff", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_Kernel", "via": ["statement"]}
+{"parent": "Reformulated.AutPerF.Ainf.theta_eq_zero_iff", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_TruncLogEqOfPowEqZero", "via": ["solution", "statement"]}
+{"parent": "Reformulated.AutPerF.Ainf.theta_eq_zero_iff", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_Kernel", "via": ["solution", "statement"]}
 {"parent": "Reformulated.AutPerF.Ainf.theta_eq_zero_iff", "child": "Reformulated.AutPerF.BdRPlus.theta_eq_zero_iff", "via": ["statement"]}
 {"parent": "syracuse_descent_twentyseven_mod32_mod2097152_step17_mod134217728_chunk1", "child": "syrStep17Chunk1", "via": ["solution", "statement"]}
 {"parent": "syracuse_descent_twentyseven_mod32_mod2097152_step17_mod134217728_chunk1", "child": "syracuseStep", "via": ["solution", "statement"]}
@@ -40995,8 +40995,8 @@
 {"parent": "Paper.Hypergraph.adw_ge_one", "child": "Paper_Formalized", "via": ["solution", "statement"]}
 {"parent": "Paper.Hypergraph.adw_ge_one", "child": "Paper_TrustBoundary", "via": ["solution", "statement"]}
 {"parent": "Reformulated.AutPerF.padicComplex_smul_coe", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_UniformContinuousConstSMulOfIsIsometricSMul", "via": ["solution", "statement"]}
-{"parent": "Reformulated.AutPerF.Ainf.ker_theta", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_TruncLogEqOfPowEqZero", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.Ainf.ker_theta", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_Kernel", "via": ["statement"]}
+{"parent": "Reformulated.AutPerF.Ainf.ker_theta", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_TruncLogEqOfPowEqZero", "via": ["solution", "statement"]}
+{"parent": "Reformulated.AutPerF.Ainf.ker_theta", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_Kernel", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_NumericMain", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_DualTransport", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_NumericMain", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeTransference_GaussAbs", "via": ["statement"]}
 {"parent": "RH1E6S12_D025_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
@@ -43762,8 +43762,8 @@
 {"parent": "RH1E6S12_D045_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S11_D072_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "FiniteEnergyPlane.exists_pageFamily_injective_fderiv", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
-{"parent": "Reformulated.AutPerF.Ainf.eq_zero_of_forall_xi_pow_dvd", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_TruncLogEqOfPowEqZero", "via": ["statement"]}
-{"parent": "Reformulated.AutPerF.Ainf.eq_zero_of_forall_xi_pow_dvd", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_Kernel", "via": ["statement"]}
+{"parent": "Reformulated.AutPerF.Ainf.eq_zero_of_forall_xi_pow_dvd", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_TruncLogEqOfPowEqZero", "via": ["solution", "statement"]}
+{"parent": "Reformulated.AutPerF.Ainf.eq_zero_of_forall_xi_pow_dvd", "child": "Development_AutomorphicArithmetic_IntegralCasts_CrystallinePeriods_Kernel", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11_D088_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S12_D047_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.leadInterlaced", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_EvalDeg", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix3_psJet_coe_trunc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix3.psJet_coe_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:52:54.571041+00:00
 -- url     : https://prove2.me/theorems/a3e526f3-85e1-4142-b1fa-67a69c7d225a

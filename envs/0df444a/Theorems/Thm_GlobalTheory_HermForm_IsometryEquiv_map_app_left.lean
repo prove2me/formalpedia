@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_IsometryEquiv_map_app_left
 -- name    : GlobalTheory.HermForm.IsometryEquiv.map_app_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:51.12264+00:00
 -- url     : https://prove2.me/theorems/bc04fa22-3981-412d-9b5e-89a0db5437db

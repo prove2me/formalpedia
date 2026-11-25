@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_relIdx_smul_mem
 -- name    : Formalism.L2.Th1.H.relIdx_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:49:51.95789+00:00
 -- url     : https://prove2.me/theorems/2321d6b8-5494-5e8e-bc0c-cd20bfb49697

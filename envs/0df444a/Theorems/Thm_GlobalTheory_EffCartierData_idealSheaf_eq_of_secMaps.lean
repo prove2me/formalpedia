@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_idealSheaf_eq_of_secMaps
 -- name    : GlobalTheory.EffCartierData.idealSheaf_eq_of_secMaps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:17:37.792352+00:00
 -- url     : https://prove2.me/theorems/9534efc0-726f-5c98-bc3d-e0fc33f69a2d

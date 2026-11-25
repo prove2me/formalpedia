@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_logCoeffVal
 -- name    : Formalism.IncomingBounds.logCoeffVal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:42:21.721191+00:00
 -- url     : https://prove2.me/theorems/703f0222-cdf5-45b6-ab3d-6a11f46bceaa

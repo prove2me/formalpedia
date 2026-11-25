@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_thetaRealTransl_holds
 -- name    : ReciprocityTheory.PTheta.thetaRealTransl_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:12.144708+00:00
 -- url     : https://prove2.me/theorems/0d57b722-492d-4c9e-ada7-8370eb2e47c5

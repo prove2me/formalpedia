@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeMinuscule_exists_mul_eq
 -- name    : GlobalTheory.LatticeMinuscule.exists_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:06.511862+00:00
 -- url     : https://prove2.me/theorems/d9fe7e60-a8d7-48fe-958a-0f074c02b422

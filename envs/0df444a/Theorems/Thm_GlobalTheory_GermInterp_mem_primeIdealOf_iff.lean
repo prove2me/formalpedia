@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GermInterp_mem_primeIdealOf_iff
 -- name    : GlobalTheory.GermInterp.mem_primeIdealOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T15:08:49.409509+00:00
 -- url     : https://prove2.me/theorems/d4b32244-a57f-453e-afa8-59a6c5a4e084

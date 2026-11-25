@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TauBalPull_ros_pull
 -- name    : GlobalTheory.TauBalPull.ros_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:03:05.746366+00:00
 -- url     : https://prove2.me/theorems/396dab93-8468-4ce0-a317-c9e916e654e3

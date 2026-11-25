@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Conv_halfRing_spec
 -- name    : GlobalTheory.Conv.halfRing_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:16.371804+00:00
 -- url     : https://prove2.me/theorems/8779c20e-d312-4f1c-a654-12c3d89dc88e

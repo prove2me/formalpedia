@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_Metaplectic_Model_shear_coeff
 -- name    : GlobalTheory.Published.Metaplectic.Model.shear_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:05.612174+00:00
 -- url     : https://prove2.me/theorems/51febc0d-9eea-5de1-9e58-378b7304aeb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_filteredLength
 -- name    : Formalism.LatticeBaseChangeAlt.filteredLength
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:47.70604+00:00
 -- url     : https://prove2.me/theorems/a1e2d35e-c152-4741-9201-cb1b9d7caf93

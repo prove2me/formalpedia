@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LieBracketMultiplication_mulB_apply
 -- name    : Formalism.FourierDecayAlt.P.LieBracketMultiplication.mulB_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:20.384412+00:00
 -- url     : https://prove2.me/theorems/83577798-dd81-574f-8c92-1a7c4b9bbcac

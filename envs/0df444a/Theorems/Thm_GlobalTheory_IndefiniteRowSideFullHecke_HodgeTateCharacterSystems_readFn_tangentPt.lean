@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_HodgeTateCharacterSystems_readFn_tangentPt
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.HodgeTateCharacterSystems.readFn_tangentPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:08:51.322853+00:00
 -- url     : https://prove2.me/theorems/7037683e-e467-42ad-884d-64d75cc4a251

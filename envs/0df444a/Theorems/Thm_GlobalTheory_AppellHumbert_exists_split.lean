@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AppellHumbert_exists_split
 -- name    : GlobalTheory.AppellHumbert.exists_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:48.332228+00:00
 -- url     : https://prove2.me/theorems/5d455e20-ea80-5d9a-9296-fc7de6a31dc2

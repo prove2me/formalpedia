@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_IsBlockDiag_ext_blocks
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.IsBlockDiag.ext_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:31.494362+00:00
 -- url     : https://prove2.me/theorems/70fb6a82-d74f-42d4-9b7f-0ce916101716

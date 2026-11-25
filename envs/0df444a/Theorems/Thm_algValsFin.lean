@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_algValsFin
 -- name    : algValsFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:41:02.934027+00:00
 -- url     : https://prove2.me/theorems/cbaa7f4b-270f-4831-b6e4-fe7c0e7534fb

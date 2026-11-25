@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_fubiniSt
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.fubiniSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:45.772956+00:00
 -- url     : https://prove2.me/theorems/cd4edd61-a341-4952-8009-cbeadc2897fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_normAlg_mul
 -- name    : GlobalTheory.Square.normAlg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:25:03.510515+00:00
 -- url     : https://prove2.me/theorems/ddf224f2-2ab6-5e6c-966a-00b40a71034a

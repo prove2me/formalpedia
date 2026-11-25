@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_fdeg_pos
 -- name    : UnipMove.fdeg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:20:18.672472+00:00
 -- url     : https://prove2.me/theorems/864f3c0c-7b74-56e3-9033-129106a4951a

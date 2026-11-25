@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fibre_expansion_zero_fails
 -- name    : Formalism.FourierDecayAlt.P.fibre_expansion_zero_fails
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:44:22.222802+00:00
 -- url     : https://prove2.me/theorems/76f7606c-58d5-5e60-90ee-6ebbc3a4b572

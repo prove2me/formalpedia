@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_first_polynomial_size_of_clauses
 -- name    : Formalism.FourierDecayAlt.P.first_polynomial_size_of_clauses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:34:25.141917+00:00
 -- url     : https://prove2.me/theorems/dac12cc2-aa8a-41a5-9bc6-5ee1f028bfd2

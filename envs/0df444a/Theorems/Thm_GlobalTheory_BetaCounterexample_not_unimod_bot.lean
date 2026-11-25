@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaCounterexample_not_unimod_bot
 -- name    : GlobalTheory.BetaCounterexample.not_unimod_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:57:24.300263+00:00
 -- url     : https://prove2.me/theorems/be37770b-49e1-479d-94a2-3296b551449e

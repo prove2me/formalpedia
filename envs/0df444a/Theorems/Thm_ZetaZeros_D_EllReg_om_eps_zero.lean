@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_om_eps_zero
 -- name    : ZetaZeros.D.EllReg.om_eps_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:14:42.993251+00:00
 -- url     : https://prove2.me/theorems/0b28e2cc-e58a-4cb8-a127-bd197d13fff1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_LevelLe_mono
 -- name    : GlobalTheory.CMVal.Model.LevelLe.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:36.483855+00:00
 -- url     : https://prove2.me/theorems/bc1374a4-9917-4d68-9fb7-57d461b6db04

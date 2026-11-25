@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_reg_ball
 -- name    : ReciprocityTheory.L2DbarEstimates.C.reg_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:54:56.565419+00:00
 -- url     : https://prove2.me/theorems/47717129-21b6-5cb4-84d0-ccd12ea1d5c1

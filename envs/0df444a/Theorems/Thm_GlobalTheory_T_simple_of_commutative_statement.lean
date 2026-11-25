@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_simple_of_commutative_statement
 -- name    : GlobalTheory.T.simple_of_commutative_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:38:03.977732+00:00
 -- url     : https://prove2.me/theorems/bd831e6a-7a90-44d1-99e4-57673ebf4240

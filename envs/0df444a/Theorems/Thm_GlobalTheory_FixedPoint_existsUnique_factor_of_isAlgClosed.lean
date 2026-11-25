@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FixedPoint_existsUnique_factor_of_isAlgClosed
 -- name    : GlobalTheory.FixedPoint.existsUnique_factor_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:00.061117+00:00
 -- url     : https://prove2.me/theorems/2e0da724-d49f-505f-9345-9b4d8d10d870

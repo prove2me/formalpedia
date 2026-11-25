@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_majorant_positive_semidefinite
 -- name    : Formalism.FourierDecayAlt.P.majorant_positive_semidefinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:33.933788+00:00
 -- url     : https://prove2.me/theorems/7410da34-dde0-4ce0-b748-e093f2b59f5d

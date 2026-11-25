@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_qnRuleLeft
 -- name    : qnRuleLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:15:41.227677+00:00
 -- url     : https://prove2.me/theorems/ec37b4b0-5772-55a2-a937-01d3eee599ae

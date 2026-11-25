@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGJ_phTwoVal_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGJ.phTwoVal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:15.434461+00:00
 -- url     : https://prove2.me/theorems/3d4e1ca6-f92d-5bec-8a0c-4fbf19abb9a8

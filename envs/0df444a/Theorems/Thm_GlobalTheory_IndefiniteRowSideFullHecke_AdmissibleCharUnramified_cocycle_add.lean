@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AdmissibleCharUnramified_cocycle_add
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AdmissibleCharUnramified.cocycle_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:08:17.109816+00:00
 -- url     : https://prove2.me/theorems/a4601aa7-3aa8-4e5b-b8a0-381a3a9468ad

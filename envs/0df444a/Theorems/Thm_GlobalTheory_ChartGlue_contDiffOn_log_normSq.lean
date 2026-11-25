@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartGlue_contDiffOn_log_normSq
 -- name    : GlobalTheory.ChartGlue.contDiffOn_log_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:40.676411+00:00
 -- url     : https://prove2.me/theorems/236f6f7c-b954-4362-8fed-4d0bf7bf1cdc

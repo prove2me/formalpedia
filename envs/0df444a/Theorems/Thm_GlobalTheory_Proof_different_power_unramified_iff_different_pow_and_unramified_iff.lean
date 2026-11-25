@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_different_power_unramified_iff_different_pow_and_unramified_iff
 -- name    : GlobalTheory.Proof.different_power_unramified_iff.different_pow_and_unramified_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:16:51.019596+00:00
 -- url     : https://prove2.me/theorems/647111da-1c7b-49a9-9cc6-9826ce5f2eea

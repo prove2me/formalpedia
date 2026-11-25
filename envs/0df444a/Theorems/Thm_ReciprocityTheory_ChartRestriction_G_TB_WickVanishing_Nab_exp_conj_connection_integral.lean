@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_WickVanishing_Nab_exp_conj_connection_integral
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.Nab.exp_conj_connection_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:42:47.805288+00:00
 -- url     : https://prove2.me/theorems/e3dd2ce0-9418-5492-9972-b57723153ad8

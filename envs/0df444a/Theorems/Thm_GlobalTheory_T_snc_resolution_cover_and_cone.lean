@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_snc_resolution_cover_and_cone
 -- name    : GlobalTheory.T.snc_resolution_cover_and_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:19:00.715804+00:00
 -- url     : https://prove2.me/theorems/2525ea15-bd8a-5ebe-822e-6e6a0761dfcf

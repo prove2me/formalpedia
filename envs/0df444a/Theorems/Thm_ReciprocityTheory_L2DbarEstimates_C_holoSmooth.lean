@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_C_holoSmooth
 -- name    : ReciprocityTheory.L2DbarEstimates.C.holoSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:20:13.549461+00:00
 -- url     : https://prove2.me/theorems/2efb0e9c-63e3-47cc-9d6d-a6ca4fd5b62d

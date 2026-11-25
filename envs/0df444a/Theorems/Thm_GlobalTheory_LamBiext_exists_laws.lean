@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LamBiext_exists_laws
 -- name    : GlobalTheory.LamBiext.exists_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:18:20.023107+00:00
 -- url     : https://prove2.me/theorems/ab6ca940-71df-5373-9aca-377eab5c04c6

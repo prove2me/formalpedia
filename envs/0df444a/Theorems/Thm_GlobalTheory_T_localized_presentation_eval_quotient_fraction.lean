@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_localized_presentation_eval_quotient_fraction
 -- name    : GlobalTheory.T.localized_presentation_eval_quotient_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:09.998536+00:00
 -- url     : https://prove2.me/theorems/55e101b9-c49e-510a-bcba-52a57a01272c

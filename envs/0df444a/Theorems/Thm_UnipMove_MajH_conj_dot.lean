@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_MajH_conj_dot
 -- name    : UnipMove.MajH.conj_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:11:59.407879+00:00
 -- url     : https://prove2.me/theorems/c47c0d5b-b3fc-4a79-838c-5f060f5967c3

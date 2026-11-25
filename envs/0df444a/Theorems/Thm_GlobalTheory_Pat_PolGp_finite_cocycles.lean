@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_PolGp_finite_cocycles
 -- name    : GlobalTheory.Pat.PolGp.finite_cocycles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:19.700938+00:00
 -- url     : https://prove2.me/theorems/571a201f-9347-5679-9e8f-7b362481f668

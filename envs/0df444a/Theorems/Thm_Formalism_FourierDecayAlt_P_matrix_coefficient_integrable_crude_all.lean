@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_matrix_coefficient_integrable_crude_all
 -- name    : Formalism.FourierDecayAlt.P.matrix_coefficient_integrable_crude_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:18.84381+00:00
 -- url     : https://prove2.me/theorems/06b1c67f-1f0a-4cb9-9233-6f5c15b06cab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CompleteLocalNormalRings_isCompleteLocalNormal_padicInt
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CompleteLocalNormalRings.isCompleteLocalNormal_padicInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:08:40.212997+00:00
 -- url     : https://prove2.me/theorems/0e3bf315-ca48-4e4a-acb9-ceb1a68217c5

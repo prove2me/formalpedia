@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_outside_systems_bound
 -- name    : Formalism.FourierDecayAlt.P.outside_systems_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:33:44.153581+00:00
 -- url     : https://prove2.me/theorems/40fe2df7-5171-4f81-b143-58488a15e6a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLatticeEmb_existsUnique_GL
 -- name    : GlobalTheory.IsLatticeEmb.existsUnique_GL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:41.034659+00:00
 -- url     : https://prove2.me/theorems/877ccea3-ecde-4cc4-b628-be920e41a139

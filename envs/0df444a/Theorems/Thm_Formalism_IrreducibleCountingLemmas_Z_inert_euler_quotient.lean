@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_inert_euler_quotient
 -- name    : Formalism.IrreducibleCountingLemmas.Z.inert_euler_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:05.098662+00:00
 -- url     : https://prove2.me/theorems/15a3b5e8-4922-5f84-82c8-b0277f2cf0ac

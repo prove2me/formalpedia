@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_block_three_zero_size_eq
 -- name    : Formalism.FourierDecayAlt.P.Ux6.block_three_zero_size_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:37:04.997791+00:00
 -- url     : https://prove2.me/theorems/de0c19f6-4d2f-4692-a22d-c5f68a60b89c

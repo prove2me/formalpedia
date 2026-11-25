@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_heightOne_valuations_control_subgroup
 -- name    : GlobalTheory.T.exists_heightOne_valuations_control_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:33.972072+00:00
 -- url     : https://prove2.me/theorems/0dc1902e-52b6-4488-96ae-463e74f94100

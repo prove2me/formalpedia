@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_cubV_toBase_hom
 -- name    : GlobalTheory.IsoDesc.cubV_toBase_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:01:09.49626+00:00
 -- url     : https://prove2.me/theorems/7e68b4f7-75db-5ef3-86dd-2462e5145bbe

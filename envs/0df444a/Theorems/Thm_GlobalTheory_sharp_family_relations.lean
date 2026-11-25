@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sharp_family_relations
 -- name    : GlobalTheory.sharp_family_relations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:45:55.374873+00:00
 -- url     : https://prove2.me/theorems/e77bc19c-e97b-4d43-bdbc-b273e4a50eee

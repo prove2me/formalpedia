@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PartialIntegral_exists_integral_split
 -- name    : GlobalTheory.PartialIntegral.exists_integral_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:15:20.516791+00:00
 -- url     : https://prove2.me/theorems/e3bd37bc-6a47-407f-8b71-c67a9fa013b5

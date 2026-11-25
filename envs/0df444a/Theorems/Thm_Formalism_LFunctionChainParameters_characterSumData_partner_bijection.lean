@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_characterSumData_partner_bijection
 -- name    : Formalism.LFunctionChainParameters.characterSumData.partner_bijection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:50:49.334873+00:00
 -- url     : https://prove2.me/theorems/5d953f70-2ad9-43c8-8f4c-26528a1897c4

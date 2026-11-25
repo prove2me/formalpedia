@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeChar_uniformiser_value_isAlgebraic
 -- name    : GlobalTheory.T.heckeChar_uniformiser_value_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:33:20.051194+00:00
 -- url     : https://prove2.me/theorems/a56c7eae-6fbe-4107-b8a7-6610361066ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ideal_map_eq_span_pow_uniformizer_dvr
 -- name    : GlobalTheory.T.ideal_map_eq_span_pow_uniformizer_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:21.948805+00:00
 -- url     : https://prove2.me/theorems/35f4293b-ff7d-5a87-9fd5-a082bbc3e810

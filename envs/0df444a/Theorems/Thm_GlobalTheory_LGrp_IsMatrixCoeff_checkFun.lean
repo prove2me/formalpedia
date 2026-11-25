@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_IsMatrixCoeff_checkFun
 -- name    : GlobalTheory.LGrp.IsMatrixCoeff.checkFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:14:44.261334+00:00
 -- url     : https://prove2.me/theorems/8eeee97d-cb3d-59d7-a39c-ca226df27717

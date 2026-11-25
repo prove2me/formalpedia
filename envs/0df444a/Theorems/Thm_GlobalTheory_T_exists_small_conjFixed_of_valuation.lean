@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_small_conjFixed_of_valuation
 -- name    : GlobalTheory.T.exists_small_conjFixed_of_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:31:12.088805+00:00
 -- url     : https://prove2.me/theorems/0e6d8226-1ded-4107-92b6-0b9aa49fc1ea

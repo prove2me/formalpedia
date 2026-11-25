@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.kw47_compactSup_integrable
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T08:25:42.404306+00:00
 -- url     : https://prove2.me/submissions/b1ed2cd8-170e-4a65-88c8-fedccb23d05e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Kyprianou_Ch04_Exercise4_7Certification

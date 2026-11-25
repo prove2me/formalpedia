@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_exponents_sum_lt_sub
 -- name    : GlobalTheory.card_exponents_sum_lt_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:52:11.973409+00:00
 -- url     : https://prove2.me/theorems/ad4b76e2-1f01-5215-9f21-3aa2a7901d0b

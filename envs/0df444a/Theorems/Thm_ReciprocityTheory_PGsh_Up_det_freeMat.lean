@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_det_freeMat
 -- name    : ReciprocityTheory.PGsh.Up.det_freeMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:38:05.8738+00:00
 -- url     : https://prove2.me/theorems/6c7e7807-e488-4ac0-945a-36b9425d43d9

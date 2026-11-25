@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_constants
 -- name    : Formalism.IncomingBounds.constants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:54.744875+00:00
 -- url     : https://prove2.me/theorems/9a8a5aa8-1654-4e61-a07d-00f3b3485916

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Avoid_exists_basis_map_one_tmul_of_surjective
 -- name    : GlobalTheory.Avoid.exists_basis_map_one_tmul_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:12.925478+00:00
 -- url     : https://prove2.me/theorems/bc319f2b-0c27-4641-ae33-f4375a7d25ca

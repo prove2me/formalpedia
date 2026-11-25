@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Tilt_isUnit_iff_isUnit_coeff_zero
 -- name    : Reformulated.AutPerF.Tilt.isUnit_iff_isUnit_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:10:01.89481+00:00
 -- url     : https://prove2.me/theorems/8a18e633-9b2b-40f1-ba9f-399ab034f462

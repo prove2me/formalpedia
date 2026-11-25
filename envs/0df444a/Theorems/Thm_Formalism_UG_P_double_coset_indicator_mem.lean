@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_double_coset_indicator_mem
 -- name    : Formalism.UG.P.double_coset_indicator_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:53:22.391597+00:00
 -- url     : https://prove2.me/theorems/74b7e3a2-fab5-41b3-b329-651e96ee429f

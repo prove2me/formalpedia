@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_degNorm_le_of_muMax_le
 -- name    : GlobalTheory.ArchMetric.degNorm_le_of_muMax_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:07.674371+00:00
 -- url     : https://prove2.me/theorems/620546df-7937-5fec-959a-15180388b8f8

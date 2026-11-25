@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_RankA_sum_finrank
 -- name    : ReciprocityTheory.PGsh.Up.RankA.sum_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:07:14.164028+00:00
 -- url     : https://prove2.me/theorems/a19a7f3f-eba7-48d8-9da9-edc007e912d5

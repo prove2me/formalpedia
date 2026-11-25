@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_val_prim_root
 -- name    : ReciprocityTheory.PGsh.Up.U3.val_prim_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:06:28.980139+00:00
 -- url     : https://prove2.me/theorems/b8c3b2df-9ec6-4377-adaf-ea5214032edb

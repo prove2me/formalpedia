@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_w0rat_eq_base
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.w0rat_eq_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:14:16.604965+00:00
 -- url     : https://prove2.me/theorems/d3f7596c-dd5c-418e-9667-4f8dd65dad90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_SumFull_withLat
 -- name    : GlobalTheory.AdmLoc.SumFull.withLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:57:05.070353+00:00
 -- url     : https://prove2.me/theorems/b355f8a8-5f71-4ba4-b253-0d6595c5e86f

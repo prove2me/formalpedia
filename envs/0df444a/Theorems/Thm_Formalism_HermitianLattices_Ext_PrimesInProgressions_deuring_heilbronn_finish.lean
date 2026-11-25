@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_deuring_heilbronn_finish
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.deuring_heilbronn_finish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:42:17.654836+00:00
 -- url     : https://prove2.me/theorems/498c9599-a8d3-4f5c-a5a3-a12f4f6dae9a

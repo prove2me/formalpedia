@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segExtB
 -- name    : Formalism.CountingSumsFrames.Top.segExtB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:24:15.436226+00:00
 -- url     : https://prove2.me/theorems/93693702-8244-4d66-b53b-3aa159e2c1cd

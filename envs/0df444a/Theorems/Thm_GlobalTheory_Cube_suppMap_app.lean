@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_suppMap_app
 -- name    : GlobalTheory.Cube.suppMap_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:02:59.916622+00:00
 -- url     : https://prove2.me/theorems/b2c5d2c6-4da0-561c-b240-f56b4628adef

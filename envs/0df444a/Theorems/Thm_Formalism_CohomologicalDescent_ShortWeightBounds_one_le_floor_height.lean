@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_one_le_floor_height
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.one_le_floor_height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:31:57.164795+00:00
 -- url     : https://prove2.me/theorems/da43c49f-07f4-5c64-86d8-f995be64d9c8

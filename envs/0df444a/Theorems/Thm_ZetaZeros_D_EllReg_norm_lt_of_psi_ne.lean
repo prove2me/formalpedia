@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_norm_lt_of_psi_ne
 -- name    : ZetaZeros.D.EllReg.norm_lt_of_psi_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:47.71181+00:00
 -- url     : https://prove2.me/theorems/a58c05a3-a615-523b-af6f-57ca53438252

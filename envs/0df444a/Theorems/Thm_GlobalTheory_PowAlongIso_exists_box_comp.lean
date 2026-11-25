@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowAlongIso_exists_box_comp
 -- name    : GlobalTheory.PowAlongIso.exists_box_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:19:05.229206+00:00
 -- url     : https://prove2.me/theorems/c6be76cb-56e0-45c2-961c-abee2b5112ed

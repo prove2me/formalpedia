@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_perpLat_eq
 -- name    : GlobalTheory.SelfDualLatticeCompare.perpLat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:25:54.085408+00:00
 -- url     : https://prove2.me/theorems/0cb816a5-8592-5d42-b881-9677659fdff6

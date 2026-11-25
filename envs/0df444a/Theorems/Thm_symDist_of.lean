@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_symDist_of
 -- name    : symDist_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:16:33.267026+00:00
 -- url     : https://prove2.me/theorems/4da4ed5d-6889-466f-9d37-9d345c902ce2

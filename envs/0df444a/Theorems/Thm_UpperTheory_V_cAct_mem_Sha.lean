@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_cAct_mem_Sha
 -- name    : UpperTheory.V.cAct_mem_Sha
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:13:10.1352+00:00
 -- url     : https://prove2.me/theorems/45a72544-9645-510a-93e9-5efe0f6b6ff2

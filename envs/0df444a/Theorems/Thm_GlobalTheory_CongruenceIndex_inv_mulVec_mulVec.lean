@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongruenceIndex_inv_mulVec_mulVec
 -- name    : GlobalTheory.CongruenceIndex.inv_mulVec_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:02:42.00484+00:00
 -- url     : https://prove2.me/theorems/064c16b8-3535-4f38-9184-5aba171c76ed

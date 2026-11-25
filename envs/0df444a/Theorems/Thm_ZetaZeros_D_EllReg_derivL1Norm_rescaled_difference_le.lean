@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_derivL1Norm_rescaled_difference_le
 -- name    : ZetaZeros.D.EllReg.derivL1Norm_rescaled_difference_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:12:57.083641+00:00
 -- url     : https://prove2.me/theorems/e15621a6-0648-58e3-be99-fb9ac9f8b561

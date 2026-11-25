@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GtBaseChange_isGt_extBC
 -- name    : GlobalTheory.GtBaseChange.isGt_extBC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:08:37.304884+00:00
 -- url     : https://prove2.me/theorems/24c02556-cfbe-42b6-ba95-8cb861567069

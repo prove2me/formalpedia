@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_prod_le_re_det_gram
 -- name    : ReciprocityTheory.MultiplicativeHeights.prod_le_re_det_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:35.671554+00:00
 -- url     : https://prove2.me/theorems/50678fe1-97d5-4548-a4f6-26cf584faa51

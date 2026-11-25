@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_eigenvalue_shift
 -- name    : Formalism.FourierDecayAlt.P.eigenvalue_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:29:51.324531+00:00
 -- url     : https://prove2.me/theorems/9da2d5f2-0930-402a-b02a-679cac86987e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_unipOn_top_bot
 -- name    : GlobalTheory.HL.Model.unipOn_top_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:21.571663+00:00
 -- url     : https://prove2.me/theorems/9a1359f8-eecc-414f-ab1a-dfc64c6277a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticNormality_completion_isDomain_and_isIntegrallyClosed
 -- name    : GlobalTheory.AnalyticNormality.completion_isDomain_and_isIntegrallyClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:55:06.406721+00:00
 -- url     : https://prove2.me/theorems/e4b1cb13-9bfe-5699-b44a-ef6911b169bf

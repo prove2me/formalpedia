@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_exiting_wave_reflectionless
 -- name    : Arxiv1510_02920.exiting_wave_reflectionless
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:14:08.182595+00:00
 -- url     : https://prove2.me/theorems/22f6a01c-c6e1-4849-bdd4-bea70f05177a

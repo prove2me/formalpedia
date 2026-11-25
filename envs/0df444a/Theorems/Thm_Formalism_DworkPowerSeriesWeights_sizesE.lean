@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_sizesE
 -- name    : Formalism.DworkPowerSeriesWeights.sizesE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:27:23.775802+00:00
 -- url     : https://prove2.me/theorems/c6982f58-a313-4e5e-9d56-c99deff480c9

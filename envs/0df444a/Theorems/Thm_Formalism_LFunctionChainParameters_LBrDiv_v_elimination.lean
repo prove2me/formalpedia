@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBrDiv_v_elimination
 -- name    : Formalism.LFunctionChainParameters.LBrDiv.v_elimination
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:05:36.168686+00:00
 -- url     : https://prove2.me/theorems/ce932910-7c1e-587d-bd57-ad497f01cbf9

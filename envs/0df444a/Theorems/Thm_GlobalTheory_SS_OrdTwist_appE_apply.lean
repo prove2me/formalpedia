@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdTwist_appE_apply
 -- name    : GlobalTheory.SS.OrdTwist.appE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:29:24.04655+00:00
 -- url     : https://prove2.me/theorems/b1119eac-78e0-5190-a53a-47a09835d985

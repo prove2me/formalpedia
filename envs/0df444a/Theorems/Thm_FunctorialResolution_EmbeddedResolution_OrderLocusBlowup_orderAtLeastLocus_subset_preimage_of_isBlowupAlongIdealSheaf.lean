@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_OrderLocusBlowup_orderAtLeastLocus_subset_preimage_of_isBlowupAlongIdealSheaf
 -- name    : FunctorialResolution.EmbeddedResolution.OrderLocusBlowup.orderAtLeastLocus_subset_preimage_of_isBlowupAlongIdealSheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:55:11.882922+00:00
 -- url     : https://prove2.me/theorems/95fd77b9-c6f7-4baf-bfd5-3404051ddaed

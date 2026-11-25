@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_cyc_val
 -- name    : Formalism.HermitianLatticeCounting.P.cyc_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:40:34.278802+00:00
 -- url     : https://prove2.me/theorems/2048c684-c9be-5a47-907c-9e32111518b0

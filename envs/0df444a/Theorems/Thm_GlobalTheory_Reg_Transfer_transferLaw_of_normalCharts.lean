@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_Transfer_transferLaw_of_normalCharts
 -- name    : GlobalTheory.Reg.Transfer.transferLaw_of_normalCharts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:19:17.38827+00:00
 -- url     : https://prove2.me/theorems/e741ab2e-49c4-4577-9081-a460ba678d80

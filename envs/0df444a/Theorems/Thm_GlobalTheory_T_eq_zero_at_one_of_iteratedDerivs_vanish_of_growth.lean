@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_zero_at_one_of_iteratedDerivs_vanish_of_growth
 -- name    : GlobalTheory.T.eq_zero_at_one_of_iteratedDerivs_vanish_of_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:28:08.934971+00:00
 -- url     : https://prove2.me/theorems/676ef2eb-fd4a-41f6-9588-37ed989e0dd0

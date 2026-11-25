@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_hom_ext_of_sup_eq_top_2e3e6019c0a7
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_hom_ext_of_sup_eq_top_2e3e6019c0a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:51:23.572903+00:00
 -- url     : https://prove2.me/theorems/25a0b1dd-e259-54d8-a37b-63862881b5f7

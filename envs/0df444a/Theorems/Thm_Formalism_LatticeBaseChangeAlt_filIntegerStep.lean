@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_filIntegerStep
 -- name    : Formalism.LatticeBaseChangeAlt.filIntegerStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:49:31.534816+00:00
 -- url     : https://prove2.me/theorems/2e3b7bb7-da8d-4cfb-ae64-7ed6e10774c2

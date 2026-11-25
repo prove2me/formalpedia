@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_UG_AdeleIntA_exists_approx
 -- name    : ReciprocityTheory.UG.AdeleIntA.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:54:17.249364+00:00
 -- url     : https://prove2.me/theorems/eaa7421c-1fbb-4206-b3c9-314bc35aab15

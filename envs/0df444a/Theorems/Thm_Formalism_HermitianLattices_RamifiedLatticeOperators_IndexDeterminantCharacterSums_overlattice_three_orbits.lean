@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_RamifiedLatticeOperators_IndexDeterminantCharacterSums_overlattice_three_orbits
 -- name    : Formalism.HermitianLattices.RamifiedLatticeOperators.IndexDeterminantCharacterSums.overlattice_three_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:16.364672+00:00
 -- url     : https://prove2.me/theorems/7c48896a-b304-5112-ba02-daa255d42daa

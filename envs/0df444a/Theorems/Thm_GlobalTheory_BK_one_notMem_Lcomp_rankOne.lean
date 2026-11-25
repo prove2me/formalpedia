@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_one_notMem_Lcomp_rankOne
 -- name    : GlobalTheory.BK.one_notMem_Lcomp_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:02:34.730181+00:00
 -- url     : https://prove2.me/theorems/590d5af7-ad7a-416d-9ff6-d88826da720e

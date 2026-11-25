@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K4_TopW_topW_ne_zero
 -- name    : GlobalTheory.K4.TopW.topW_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:46.514936+00:00
 -- url     : https://prove2.me/theorems/92177985-a2a9-40da-a617-ef60a40f7797

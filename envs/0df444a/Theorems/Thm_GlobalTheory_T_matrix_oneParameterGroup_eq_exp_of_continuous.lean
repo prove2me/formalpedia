@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrix_oneParameterGroup_eq_exp_of_continuous
 -- name    : GlobalTheory.T.matrix_oneParameterGroup_eq_exp_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:28.241802+00:00
 -- url     : https://prove2.me/theorems/7e43f910-67e2-413e-9840-abd8f6333dba

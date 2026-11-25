@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_factorialWeightedPairing_detPow_proportional
 -- name    : GlobalTheory.T.factorialWeightedPairing_detPow_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:01:48.462285+00:00
 -- url     : https://prove2.me/theorems/7eaef9db-0b2f-43d4-b42f-71756e84be9a

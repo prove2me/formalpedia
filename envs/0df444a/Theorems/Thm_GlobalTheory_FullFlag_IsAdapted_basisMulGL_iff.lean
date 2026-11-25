@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_IsAdapted_basisMulGL_iff
 -- name    : GlobalTheory.FullFlag.IsAdapted.basisMulGL_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:56.004824+00:00
 -- url     : https://prove2.me/theorems/0735fa79-a0ac-4e02-9a40-329fa695ce30

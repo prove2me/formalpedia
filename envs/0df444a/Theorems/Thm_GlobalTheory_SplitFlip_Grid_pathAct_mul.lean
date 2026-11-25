@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_Grid_pathAct_mul
 -- name    : GlobalTheory.SplitFlip.Grid.pathAct_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:25:24.021828+00:00
 -- url     : https://prove2.me/theorems/21c3e886-f497-5abf-bb9a-790b51625515

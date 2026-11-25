@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lattice_link
 -- name    : Formalism.FourierDecayAlt.P.lattice_link
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:33:28.84705+00:00
 -- url     : https://prove2.me/theorems/488c5bbf-4332-4e35-ab8a-8db417c7690e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DomainDens_blockSym_apply
 -- name    : GlobalTheory.DomainDens.blockSym_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:04:08.10559+00:00
 -- url     : https://prove2.me/theorems/0c973876-e2f3-4c6e-ade5-bb30c3030ff4

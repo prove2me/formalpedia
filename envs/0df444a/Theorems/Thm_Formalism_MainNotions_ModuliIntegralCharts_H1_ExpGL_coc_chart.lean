@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpGL_coc_chart
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGL.coc_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:58:32.615603+00:00
 -- url     : https://prove2.me/theorems/08a019ea-e7f2-5cca-8883-e955eb9fc165

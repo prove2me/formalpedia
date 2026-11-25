@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adicCompletion_map_injective_and_invariants
 -- name    : GlobalTheory.T.adicCompletion_map_injective_and_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:49.683321+00:00
 -- url     : https://prove2.me/theorems/907c4640-16d6-4dbd-8c8f-68319ebde200

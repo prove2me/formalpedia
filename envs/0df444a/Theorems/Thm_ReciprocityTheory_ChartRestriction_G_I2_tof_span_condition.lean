@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_tof_span_condition
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.tof_span_condition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:07:48.121285+00:00
 -- url     : https://prove2.me/theorems/5dd0a536-a95f-4284-8d3b-618a87acd7d8

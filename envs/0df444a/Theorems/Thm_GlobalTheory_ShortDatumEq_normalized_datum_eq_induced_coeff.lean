@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortDatumEq_normalized_datum_eq_induced_coeff
 -- name    : GlobalTheory.ShortDatumEq.normalized_datum_eq_induced_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:26:09.875952+00:00
 -- url     : https://prove2.me/theorems/506a0f20-82ab-41c2-b90a-e405413dccdc

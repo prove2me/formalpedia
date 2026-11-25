@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_derivation_leibniz
 -- name    : Formalism.L2.Th1.A.derivation_leibniz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:47:37.154802+00:00
 -- url     : https://prove2.me/theorems/df229b01-dd14-403f-90aa-c4a2ce294cd8

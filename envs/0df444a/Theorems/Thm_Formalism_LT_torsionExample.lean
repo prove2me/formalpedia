@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_torsionExample
 -- name    : Formalism.LT.torsionExample
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:49:37.223021+00:00
 -- url     : https://prove2.me/theorems/af976298-4633-4c58-8d8e-59f410316236

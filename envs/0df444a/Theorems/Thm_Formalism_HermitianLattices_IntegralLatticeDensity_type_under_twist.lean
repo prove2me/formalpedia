@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_type_under_twist
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.type_under_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:41:13.826793+00:00
 -- url     : https://prove2.me/theorems/80323376-e53f-4326-81e9-dfddb51dc9ff

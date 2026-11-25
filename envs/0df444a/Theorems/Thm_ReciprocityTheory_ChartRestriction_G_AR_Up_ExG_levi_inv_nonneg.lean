@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExG_levi_inv_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExG.levi_inv_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:58:26.10296+00:00
 -- url     : https://prove2.me/theorems/e4c59dbf-57f7-5a40-870a-d65afbc97897

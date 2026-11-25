@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_morse_normal_bound
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.morse_normal_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:53:32.818513+00:00
 -- url     : https://prove2.me/theorems/1de07fb2-4ee3-4e2d-ac6f-e83f84d1e847

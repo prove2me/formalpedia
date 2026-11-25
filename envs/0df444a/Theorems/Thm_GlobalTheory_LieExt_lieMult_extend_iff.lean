@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LieExt_lieMult_extend_iff
 -- name    : GlobalTheory.LieExt.lieMult_extend_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:15:45.089228+00:00
 -- url     : https://prove2.me/theorems/dcdca649-b50b-4e93-a066-0abb0f65a8c5

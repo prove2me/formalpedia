@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_MassCount_countBd
 -- name    : GlobalTheory.CompanionTheory.MassCount.countBd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:53:09.916374+00:00
 -- url     : https://prove2.me/theorems/cf43ee85-b336-4af8-8216-8d00e2248c3a

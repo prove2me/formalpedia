@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_typed_unit_verification
 -- name    : Formalism.FourierDecayAlt.P.typed_unit_verification
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:36:03.764795+00:00
 -- url     : https://prove2.me/theorems/667eb6d5-e1f3-4ad5-ad4b-37b20be6ece1

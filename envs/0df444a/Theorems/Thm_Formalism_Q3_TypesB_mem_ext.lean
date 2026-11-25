@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_Q3_TypesB_mem_ext
 -- name    : Formalism.Q3.TypesB.mem_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:52:20.41325+00:00
 -- url     : https://prove2.me/theorems/87213783-b378-4cea-975f-a779b3d51968

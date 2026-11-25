@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BandLemmaSecond_main
 -- name    : GlobalTheory.BandLemmaSecond.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:56:55.014018+00:00
 -- url     : https://prove2.me/theorems/5a1fcbb4-a6d4-4c0b-990c-439f0004ce81

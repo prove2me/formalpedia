@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariant_mem_of_orbit_height_separation
 -- name    : GlobalTheory.T.invariant_mem_of_orbit_height_separation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:33:49.018207+00:00
 -- url     : https://prove2.me/theorems/f65602f5-1cd5-556e-8b60-e712bc978984

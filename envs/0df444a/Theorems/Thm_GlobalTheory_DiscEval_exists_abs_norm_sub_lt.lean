@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_exists_abs_norm_sub_lt
 -- name    : GlobalTheory.DiscEval.exists_abs_norm_sub_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:58:36.055323+00:00
 -- url     : https://prove2.me/theorems/897ede5a-9223-4973-99aa-a7694c082987

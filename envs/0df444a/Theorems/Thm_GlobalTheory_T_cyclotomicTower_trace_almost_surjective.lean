@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cyclotomicTower_trace_almost_surjective
 -- name    : GlobalTheory.T.cyclotomicTower_trace_almost_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:49:12.945832+00:00
 -- url     : https://prove2.me/theorems/874449d3-3863-4657-8e6e-f1c79cb23e0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mem_span_of_forall_germ_mem_span
 -- name    : GlobalTheory.mem_span_of_forall_germ_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:02:35.794797+00:00
 -- url     : https://prove2.me/theorems/cc7a0f79-cc05-4b5c-8b6c-8dd35835ff44

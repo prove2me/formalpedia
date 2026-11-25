@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_cpow_mem
 -- name    : ReciprocityTheory.PGsh.L2.cpow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:05:26.59808+00:00
 -- url     : https://prove2.me/theorems/adaf7c4e-ce96-45a7-8dc3-df25eda882b8

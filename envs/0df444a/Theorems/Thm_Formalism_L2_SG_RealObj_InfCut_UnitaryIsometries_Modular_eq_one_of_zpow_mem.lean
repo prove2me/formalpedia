@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_RealObj_InfCut_UnitaryIsometries_Modular_eq_one_of_zpow_mem
 -- name    : Formalism.L2.SG.RealObj.InfCut.UnitaryIsometries.Modular.eq_one_of_zpow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:48:40.541655+00:00
 -- url     : https://prove2.me/theorems/837b638c-9a6d-4514-8ba0-4d44591b4822

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KTheta_summable_exp_qf_4231a987a485
 -- name    : P2M_GroundTheory_Heights__Heights_KTheta_summable_exp_qf_4231a987a485
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:08:18.935907+00:00
 -- url     : https://prove2.me/theorems/e65a9310-1f40-424a-a965-aadb7e0b26a4

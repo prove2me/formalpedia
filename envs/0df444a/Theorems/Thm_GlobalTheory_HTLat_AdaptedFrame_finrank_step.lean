@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_AdaptedFrame_finrank_step
 -- name    : GlobalTheory.HTLat.AdaptedFrame.finrank_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:37.844818+00:00
 -- url     : https://prove2.me/theorems/391624a0-8663-513c-a692-76c8cbace97d

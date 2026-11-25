@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetPowPairing_pairing_pow_proportional
 -- name    : GlobalTheory.DetPowPairing.pairing_pow_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:42.109519+00:00
 -- url     : https://prove2.me/theorems/db751944-460a-400d-be5a-43bcc207e3f4

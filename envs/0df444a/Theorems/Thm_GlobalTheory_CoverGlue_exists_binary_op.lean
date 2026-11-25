@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_exists_binary_op
 -- name    : GlobalTheory.CoverGlue.exists_binary_op
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:26:46.399412+00:00
 -- url     : https://prove2.me/theorems/87312775-018a-4361-81e1-0e9da72e3606

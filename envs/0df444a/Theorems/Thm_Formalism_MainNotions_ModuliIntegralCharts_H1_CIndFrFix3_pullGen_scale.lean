@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix3_pullGen_scale
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix3.pullGen_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:58:33.949664+00:00
 -- url     : https://prove2.me/theorems/bb350a65-699c-445a-9801-6a367a6977cf

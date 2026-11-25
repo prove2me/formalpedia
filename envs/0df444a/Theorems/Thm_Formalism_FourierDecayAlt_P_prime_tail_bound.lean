@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_prime_tail_bound
 -- name    : Formalism.FourierDecayAlt.P.prime_tail_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:34:26.911582+00:00
 -- url     : https://prove2.me/theorems/baa7d850-9750-4e31-a42f-e3567768cdcc

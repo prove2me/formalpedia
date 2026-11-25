@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_goodOpen_of_weight_units
 -- name    : GlobalTheory.SS.exists_goodOpen_of_weight_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:19:54.126927+00:00
 -- url     : https://prove2.me/theorems/5e6998dc-2217-4aa6-bb31-ef2e6f4cda84

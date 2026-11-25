@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_ApproximationGraph_norm_err_le
 -- name    : ReciprocityTheory.MultiplicativeHeights.ApproximationGraph.norm_err_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:02:31.710151+00:00
 -- url     : https://prove2.me/theorems/87504773-5187-5120-8750-4fd8bff615c1

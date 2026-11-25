@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finiteGroupFunctionPairing_add_nat_pos_symm
 -- name    : GlobalTheory.T.finiteGroupFunctionPairing_add_nat_pos_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:24.285489+00:00
 -- url     : https://prove2.me/theorems/d514f18e-3a4f-41c3-a13e-91d7f3ed95a5

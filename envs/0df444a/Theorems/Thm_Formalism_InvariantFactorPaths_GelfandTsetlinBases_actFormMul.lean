@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_actFormMul
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.actFormMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:41:52.128847+00:00
 -- url     : https://prove2.me/theorems/6c6d0d9b-3c92-466c-8665-e3b8c07c235d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_DimChart_ringKrullDim_quotient_eq
 -- name    : GlobalTheory.CompanionTheory.DimChart.ringKrullDim_quotient_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:47.928318+00:00
 -- url     : https://prove2.me/theorems/d63e797d-adb3-53bb-9308-1d78c311f582

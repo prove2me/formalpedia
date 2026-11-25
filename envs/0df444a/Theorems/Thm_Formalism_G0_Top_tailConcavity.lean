@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_tailConcavity
 -- name    : Formalism.G0.Top.tailConcavity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:36:58.076358+00:00
 -- url     : https://prove2.me/theorems/bb66f4e1-1f2c-46c7-a2a9-775ef4cdbfaa

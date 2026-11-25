@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_block_basis_change_entries
 -- name    : GlobalTheory.T.block_basis_change_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:27:05.043897+00:00
 -- url     : https://prove2.me/theorems/de321220-5d75-45f3-adec-5ad558624dd1

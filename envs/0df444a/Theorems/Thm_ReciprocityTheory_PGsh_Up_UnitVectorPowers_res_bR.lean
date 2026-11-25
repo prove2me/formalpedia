@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_UnitVectorPowers_res_bR
 -- name    : ReciprocityTheory.PGsh.Up.UnitVectorPowers.res_bR
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:58.545447+00:00
 -- url     : https://prove2.me/theorems/3b5f30ac-5282-408c-b74f-bc56a4760561

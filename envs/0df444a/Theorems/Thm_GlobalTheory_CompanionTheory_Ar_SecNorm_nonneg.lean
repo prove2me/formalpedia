@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SecNorm_nonneg
 -- name    : GlobalTheory.CompanionTheory.Ar.SecNorm.nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:01:06.936236+00:00
 -- url     : https://prove2.me/theorems/aa7949d4-fba5-566d-8950-6174cf166cd5

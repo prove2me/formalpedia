@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UT_TorusWeight_phiRel_tor
 -- name    : GlobalTheory.UT.TorusWeight.phiRel_tor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:19:54.968024+00:00
 -- url     : https://prove2.me/theorems/162a4032-e14c-493e-8215-d6d4d46a5802

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_pf_sign
 -- name    : ZetaZeros.D.EllReg.pf_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:38.144223+00:00
 -- url     : https://prove2.me/theorems/fa5a80a8-cb22-5571-8e31-c0ec4ff04050

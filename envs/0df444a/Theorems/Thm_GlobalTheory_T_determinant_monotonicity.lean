@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_determinant_monotonicity
 -- name    : GlobalTheory.T.determinant_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:30.848164+00:00
 -- url     : https://prove2.me/theorems/dadbf602-cd4d-5daf-9cf6-de6c3411a53c

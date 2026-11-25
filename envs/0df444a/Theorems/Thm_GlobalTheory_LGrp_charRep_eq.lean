@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_charRep_eq
 -- name    : GlobalTheory.LGrp.charRep_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:12.728408+00:00
 -- url     : https://prove2.me/theorems/c3980c8c-3438-5a19-82f7-eb3547f9f2bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Branch_irreducibleGermCurve
 -- name    : GlobalTheory.CompanionTheory.Ar.Branch.irreducibleGermCurve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:04:37.18349+00:00
 -- url     : https://prove2.me/theorems/7c47c10b-073c-5655-8b35-36f7352c3679

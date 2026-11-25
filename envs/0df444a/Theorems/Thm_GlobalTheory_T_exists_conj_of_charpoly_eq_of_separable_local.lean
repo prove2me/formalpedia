@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_conj_of_charpoly_eq_of_separable_local
 -- name    : GlobalTheory.T.exists_conj_of_charpoly_eq_of_separable_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:29:00.557341+00:00
 -- url     : https://prove2.me/theorems/c69705b5-bcef-4ceb-a66a-bb01bcefd06c

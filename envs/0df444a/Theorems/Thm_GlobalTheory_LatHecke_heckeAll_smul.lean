@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatHecke_heckeAll_smul
 -- name    : GlobalTheory.LatHecke.heckeAll_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:12:49.445609+00:00
 -- url     : https://prove2.me/theorems/a779b04f-aed0-4f43-a378-2877e6102398

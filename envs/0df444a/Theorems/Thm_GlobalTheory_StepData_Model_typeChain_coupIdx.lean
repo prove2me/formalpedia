@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Model_typeChain_coupIdx
 -- name    : GlobalTheory.StepData.Model.typeChain_coupIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:37.957227+00:00
 -- url     : https://prove2.me/theorems/885c0162-0089-4473-9b02-93323ac4ae51

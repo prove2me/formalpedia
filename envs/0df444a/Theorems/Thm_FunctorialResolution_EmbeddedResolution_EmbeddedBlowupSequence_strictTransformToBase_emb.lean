@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_EmbeddedBlowupSequence_strictTransformToBase_emb
 -- name    : FunctorialResolution.EmbeddedResolution.EmbeddedBlowupSequence.strictTransformToBase_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:53:05.190065+00:00
 -- url     : https://prove2.me/theorems/c6aa5b28-65e7-51a9-8817-9f376b82f598

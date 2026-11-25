@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_exists_glue_6912ea86c35a
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_exists_glue_6912ea86c35a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:55:44.008863+00:00
 -- url     : https://prove2.me/theorems/e3931c4e-259a-5dbe-b868-2ad19856d61d

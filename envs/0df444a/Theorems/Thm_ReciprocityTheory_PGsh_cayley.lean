@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_cayley
 -- name    : ReciprocityTheory.PGsh.cayley
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:24:02.463473+00:00
 -- url     : https://prove2.me/theorems/5c5648c2-ddf2-4fc2-b0b6-d733ea7a922b

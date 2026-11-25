@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamFree_exists_fam_support
 -- name    : GlobalTheory.FamFree.exists_fam_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:25:36.887995+00:00
 -- url     : https://prove2.me/theorems/eac934ab-8dcf-41c9-a248-330d28ad5af1

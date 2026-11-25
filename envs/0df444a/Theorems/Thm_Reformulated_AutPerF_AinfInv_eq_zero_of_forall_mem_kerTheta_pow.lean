@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_AinfInv_eq_zero_of_forall_mem_kerTheta_pow
 -- name    : Reformulated.AutPerF.AinfInv.eq_zero_of_forall_mem_kerTheta_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:10:18.417922+00:00
 -- url     : https://prove2.me/theorems/6d79cac8-415f-5fd0-babd-9145f7898317

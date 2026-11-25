@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_HodgeIP_isTanAt_right
 -- name    : GlobalTheory.CompanionTheory.Ar.HodgeIP.isTanAt_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:00:07.560654+00:00
 -- url     : https://prove2.me/theorems/d6fb9fde-ab9b-46e9-9cbd-e7370dc3f5e1

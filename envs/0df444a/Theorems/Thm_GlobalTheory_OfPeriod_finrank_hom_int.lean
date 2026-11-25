@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OfPeriod_finrank_hom_int
 -- name    : GlobalTheory.OfPeriod.finrank_hom_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:04.172265+00:00
 -- url     : https://prove2.me/theorems/a12b8132-19cd-5f3d-8c61-75856dbb776f

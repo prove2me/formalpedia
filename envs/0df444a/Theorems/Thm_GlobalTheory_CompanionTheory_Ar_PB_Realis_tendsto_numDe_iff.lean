@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_tendsto_numDe_iff
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.tendsto_numDe_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:59:56.304817+00:00
 -- url     : https://prove2.me/theorems/0942b043-4f00-4ff3-92a5-3f9b1f8cad3a

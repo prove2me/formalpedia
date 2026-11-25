@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomCNFDeficiency_LowerBound_closure_monotonicity
 -- name    : RandomCNFDeficiency.LowerBound.closure_monotonicity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:32:36.732438+00:00
 -- url     : https://prove2.me/theorems/cf432ff0-1c2f-49ca-8b59-949c875f4837

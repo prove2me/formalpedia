@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_not_red_addSubgroup
 -- name    : GlobalTheory.Klein.not_red_addSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:08.979831+00:00
 -- url     : https://prove2.me/theorems/587d07e5-73cf-45b1-8799-535b7f4c896a

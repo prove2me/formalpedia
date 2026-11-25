@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segShareSum
 -- name    : Formalism.CountingSumsFrames.Top.segShareSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:23:58.578803+00:00
 -- url     : https://prove2.me/theorems/db63035d-d1f0-43cf-862c-ff44303961a3

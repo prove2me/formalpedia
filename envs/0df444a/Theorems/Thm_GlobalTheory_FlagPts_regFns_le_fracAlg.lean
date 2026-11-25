@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagPts_regFns_le_fracAlg
 -- name    : GlobalTheory.FlagPts.regFns_le_fracAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:21.764366+00:00
 -- url     : https://prove2.me/theorems/2cc630d6-8470-53e1-80d9-3f031ea57602

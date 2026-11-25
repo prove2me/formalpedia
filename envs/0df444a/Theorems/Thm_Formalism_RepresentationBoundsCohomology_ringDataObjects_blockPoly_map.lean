@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_blockPoly_map
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.blockPoly_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:28.567323+00:00
 -- url     : https://prove2.me/theorems/48200476-16d4-5687-bc6a-478f7caca6ae

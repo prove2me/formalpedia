@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndLine_Iwasawa_Hyp_mulVec_eq_self_of_mul_prX_eq_prX
 -- name    : GlobalTheory.IndLine.Iwasawa.Hyp.mulVec_eq_self_of_mul_prX_eq_prX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:07:40.023308+00:00
 -- url     : https://prove2.me/theorems/6357645c-b005-4a32-89ea-a0316bc3b247

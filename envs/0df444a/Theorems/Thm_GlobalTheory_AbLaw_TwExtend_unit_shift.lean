@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_TwExtend_unit_shift
 -- name    : GlobalTheory.AbLaw.TwExtend.unit_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:02:28.004246+00:00
 -- url     : https://prove2.me/theorems/725caaaf-ed62-495a-a794-49d45bfcab17

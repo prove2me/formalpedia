@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowLinSpan_span_pow_linRoot
 -- name    : GlobalTheory.PowLinSpan.span_pow_linRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:16:10.887863+00:00
 -- url     : https://prove2.me/theorems/3d54e26b-2304-458a-8d41-454504b6d66a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FractionLevelCorrespondence_levelA_mul_div
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FractionLevelCorrespondence.levelA_mul_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:10:49.835368+00:00
 -- url     : https://prove2.me/theorems/fd993281-bc07-4435-b144-8893b0ab74bd

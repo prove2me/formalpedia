@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_cloudDims
 -- name    : Formalism.CountingSumsFrames.Top.cloudDims
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:22:47.924963+00:00
 -- url     : https://prove2.me/theorems/69915c6d-85f2-4822-891c-7fdf05fd05d4

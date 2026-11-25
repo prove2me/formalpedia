@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Bmu_absBound_of
 -- name    : CompanionTheory.Bmu.absBound_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:16:21.196389+00:00
 -- url     : https://prove2.me/theorems/39aaba9a-5151-5783-8066-5e9287d12f93

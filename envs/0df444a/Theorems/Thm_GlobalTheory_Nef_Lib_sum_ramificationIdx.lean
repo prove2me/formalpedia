@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_Lib_sum_ramificationIdx
 -- name    : GlobalTheory.Nef.Lib.sum_ramificationIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:39.756271+00:00
 -- url     : https://prove2.me/theorems/84e12053-e158-553e-acb9-612debb792be

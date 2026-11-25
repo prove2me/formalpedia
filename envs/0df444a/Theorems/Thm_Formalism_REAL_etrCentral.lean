@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_etrCentral
 -- name    : Formalism.REAL.etrCentral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:52:39.865198+00:00
 -- url     : https://prove2.me/theorems/1a9f5ea7-2a27-49e0-81f6-1e3bc68a19b1

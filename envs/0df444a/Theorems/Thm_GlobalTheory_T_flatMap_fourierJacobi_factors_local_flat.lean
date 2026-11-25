@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flatMap_fourierJacobi_factors_local_flat
 -- name    : GlobalTheory.T.flatMap_fourierJacobi_factors_local_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:39:45.02313+00:00
 -- url     : https://prove2.me/theorems/3cddcad9-baae-5c42-8512-e7f37b69cc47

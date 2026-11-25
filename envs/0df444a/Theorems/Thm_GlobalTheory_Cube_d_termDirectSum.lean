@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_d_termDirectSum
 -- name    : GlobalTheory.Cube.d_termDirectSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:52.232809+00:00
 -- url     : https://prove2.me/theorems/da5f5e0d-7958-49b6-9f69-2a2b1763718e

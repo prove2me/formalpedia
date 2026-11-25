@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_lemmaR_of
 -- name    : Formalism.DworkPowerSeriesWeights.lemmaR_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:25:26.658426+00:00
 -- url     : https://prove2.me/theorems/f96e9a22-0d89-48c6-b4dc-a20a02b8fe3f

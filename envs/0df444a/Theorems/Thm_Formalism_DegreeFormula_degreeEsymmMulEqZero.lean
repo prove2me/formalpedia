@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DegreeFormula_degreeEsymmMulEqZero
 -- name    : Formalism.DegreeFormula.degreeEsymmMulEqZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:36.328178+00:00
 -- url     : https://prove2.me/theorems/0d01f243-a668-4e96-aca4-22b55381caa2

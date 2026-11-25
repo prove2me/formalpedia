@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_bound_of_iteratedFDeriv_eq_zero
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.bound_of_iteratedFDeriv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:00:03.695462+00:00
 -- url     : https://prove2.me/theorems/0123efbc-ca7d-4600-89e7-ce7eaf527f4d

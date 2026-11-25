@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_compactBounded
 -- name    : compactBounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:50.024047+00:00
 -- url     : https://prove2.me/theorems/480ff966-a1bc-5c71-841a-6ba6cd60467c

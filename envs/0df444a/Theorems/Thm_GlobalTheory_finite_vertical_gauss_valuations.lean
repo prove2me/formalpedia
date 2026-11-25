@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_vertical_gauss_valuations
 -- name    : GlobalTheory.finite_vertical_gauss_valuations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:55:32.363382+00:00
 -- url     : https://prove2.me/theorems/9da07995-b690-5a52-86aa-85034f7b9088

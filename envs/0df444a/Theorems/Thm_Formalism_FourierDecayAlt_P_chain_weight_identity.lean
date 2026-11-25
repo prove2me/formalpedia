@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_chain_weight_identity
 -- name    : Formalism.FourierDecayAlt.P.chain_weight_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:29:42.609812+00:00
 -- url     : https://prove2.me/theorems/2cb6f672-6e67-4989-ad18-bac51fff3446

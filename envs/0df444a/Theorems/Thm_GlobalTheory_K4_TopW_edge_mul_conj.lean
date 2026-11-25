@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_K4_TopW_edge_mul_conj
 -- name    : GlobalTheory.K4.TopW.edge_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:53.924273+00:00
 -- url     : https://prove2.me/theorems/43cdb331-9446-4443-8bde-da467fe97eb0

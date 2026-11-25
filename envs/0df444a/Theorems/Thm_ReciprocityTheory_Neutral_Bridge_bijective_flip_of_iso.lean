@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_bijective_flip_of_iso
 -- name    : ReciprocityTheory.Neutral.Bridge.bijective_flip_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:05:11.319147+00:00
 -- url     : https://prove2.me/theorems/1b4b9541-3ff3-4b9e-b5ba-cca6ab0cba32

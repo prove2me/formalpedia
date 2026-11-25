@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_chebyshev_coeff_value
 -- name    : Formalism.FourierDecayAlt.P.chebyshev_coeff_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:29:41.764422+00:00
 -- url     : https://prove2.me/theorems/52514d2b-d9ae-4262-ae18-18662ee46839

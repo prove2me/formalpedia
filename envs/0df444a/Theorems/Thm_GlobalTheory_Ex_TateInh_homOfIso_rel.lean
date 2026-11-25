@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_TateInh_homOfIso_rel
 -- name    : GlobalTheory.Ex.TateInh.homOfIso_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:05:43.374143+00:00
 -- url     : https://prove2.me/theorems/a58b2331-d812-57fa-b0ab-a8a672c4275a

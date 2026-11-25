@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FSCrofton_LocalCrofton_inner_integral
 -- name    : GlobalTheory.CompanionTheory.FSCrofton.LocalCrofton.inner_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:40:55.001027+00:00
 -- url     : https://prove2.me/theorems/0c6f71d9-5e22-4d6d-b6de-d9e4606214a3

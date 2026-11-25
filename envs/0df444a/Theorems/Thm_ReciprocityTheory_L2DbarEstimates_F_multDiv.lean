@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_multDiv
 -- name    : ReciprocityTheory.L2DbarEstimates.F.multDiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:57:09.060197+00:00
 -- url     : https://prove2.me/theorems/47f45c8c-d459-4ba5-b80e-2639f448f18d

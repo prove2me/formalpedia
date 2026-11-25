@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CMObjBundlePull_mem_psiBar_of_notMem_psi
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CMObjBundlePull.mem_psiBar_of_notMem_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:53.619988+00:00
 -- url     : https://prove2.me/theorems/83bbb343-2983-41ab-b5ad-e832376e47d7

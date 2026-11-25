@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_eq_pullHO2
 -- name    : GlobalTheory.CechDR.eq_pullHO2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:49:46.473062+00:00
 -- url     : https://prove2.me/theorems/d8f89006-a63d-45c4-adb8-ef0310e7a27b

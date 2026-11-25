@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_lowKDom
 -- name    : Formalism.QuantumDeterminants.lowKDom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:51:55.583822+00:00
 -- url     : https://prove2.me/theorems/f64c1967-0d1f-4e5e-9662-f52d8ae7d2c6

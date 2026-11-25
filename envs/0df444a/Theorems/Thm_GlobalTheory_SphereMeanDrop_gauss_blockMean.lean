@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SphereMeanDrop_gauss_blockMean
 -- name    : GlobalTheory.SphereMeanDrop.gauss_blockMean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:21:27.251909+00:00
 -- url     : https://prove2.me/theorems/53511c73-57fa-4b5e-883b-f182a76e7564

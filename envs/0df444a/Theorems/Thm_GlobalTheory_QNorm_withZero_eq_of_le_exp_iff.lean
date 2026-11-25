@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_withZero_eq_of_le_exp_iff
 -- name    : GlobalTheory.QNorm.withZero_eq_of_le_exp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:07.39041+00:00
 -- url     : https://prove2.me/theorems/8746f881-d162-48eb-be48-55b48d19b200

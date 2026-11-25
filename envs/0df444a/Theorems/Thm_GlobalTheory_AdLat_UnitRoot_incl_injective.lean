@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_UnitRoot_incl_injective
 -- name    : GlobalTheory.AdLat.UnitRoot.incl_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:57.186932+00:00
 -- url     : https://prove2.me/theorems/d09d0f54-4532-46a4-a375-bd899c9fb843

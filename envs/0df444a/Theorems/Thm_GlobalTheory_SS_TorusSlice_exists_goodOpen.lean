@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_TorusSlice_exists_goodOpen
 -- name    : GlobalTheory.SS.TorusSlice.exists_goodOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:17:57.024796+00:00
 -- url     : https://prove2.me/theorems/94a94495-36bf-4575-b1ef-4ba970b0bcc4

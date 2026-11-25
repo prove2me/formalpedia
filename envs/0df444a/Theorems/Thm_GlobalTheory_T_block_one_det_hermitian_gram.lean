@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_block_one_det_hermitian_gram
 -- name    : GlobalTheory.T.block_one_det_hermitian_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:27:22.603566+00:00
 -- url     : https://prove2.me/theorems/a602715c-835a-548f-9356-0f1087611397

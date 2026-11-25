@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_hodgeInnerProduct_iff_hodgeForm_conj
 -- name    : GlobalTheory.CompanionTheory.Ar.hodgeInnerProduct_iff_hodgeForm_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:01.025224+00:00
 -- url     : https://prove2.me/theorems/a7ea067c-69c3-55ae-b052-708c139d4fc2

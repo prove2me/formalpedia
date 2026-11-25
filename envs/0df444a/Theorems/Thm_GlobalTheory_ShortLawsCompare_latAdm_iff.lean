@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ShortLawsCompare_latAdm_iff
 -- name    : GlobalTheory.ShortLawsCompare.latAdm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:24:00.583855+00:00
 -- url     : https://prove2.me/theorems/deedc55d-06b5-4c32-afc2-e88de9bd9b8f

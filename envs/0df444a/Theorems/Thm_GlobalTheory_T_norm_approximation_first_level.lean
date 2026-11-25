@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_approximation_first_level
 -- name    : GlobalTheory.T.norm_approximation_first_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:36:44.827083+00:00
 -- url     : https://prove2.me/theorems/cf15a2db-164f-4cdd-aa95-ec58d0957091

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Lat_v_det_eq_of_pts_eq
 -- name    : ReciprocityTheory.PGsh.Lat.v_det_eq_of_pts_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:27:00.818036+00:00
 -- url     : https://prove2.me/theorems/c51aba00-7d7d-4144-8977-cbc11fb74b14

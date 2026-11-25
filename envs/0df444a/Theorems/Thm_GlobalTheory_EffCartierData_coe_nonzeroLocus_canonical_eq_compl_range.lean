@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_coe_nonzeroLocus_canonical_eq_compl_range
 -- name    : GlobalTheory.EffCartierData.coe_nonzeroLocus_canonical_eq_compl_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:18:19.499488+00:00
 -- url     : https://prove2.me/theorems/941cea2b-f77a-5b5d-b167-b8c1057d5a25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_of_bounded_embeddings_and_valuations
 -- name    : GlobalTheory.T.finite_of_bounded_embeddings_and_valuations
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:01.242713+00:00
 -- url     : https://prove2.me/theorems/2f7e0139-7487-5f1d-ad73-bd3e252cb679

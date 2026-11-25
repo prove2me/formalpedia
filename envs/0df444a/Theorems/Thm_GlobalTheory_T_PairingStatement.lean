@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_PairingStatement
 -- name    : GlobalTheory.T.PairingStatement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:26:15.59789+00:00
 -- url     : https://prove2.me/theorems/e5898a9d-62b9-4fbb-8474-70f730191276

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ReducedBases_T2_span_tri
 -- name    : ReciprocityTheory.ReducedBases.T2.span_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:58.648469+00:00
 -- url     : https://prove2.me/theorems/89b9e6d4-25ed-471f-88b2-ef5d334c53b6

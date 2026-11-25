@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LSC_determinant_monotone
 -- name    : PI.UnitaryGroupMassFormula.LSC.determinant_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:13:08.687047+00:00
 -- url     : https://prove2.me/theorems/0e018603-d0aa-4631-be78-13c9ba159bbb

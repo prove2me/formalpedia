@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_elliptic_regularity_of_parts
 -- name    : ZetaZeros.D.EllReg.elliptic_regularity_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:13:26.936907+00:00
 -- url     : https://prove2.me/theorems/3888e6f8-cce5-4914-91e5-5aec1059246d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_isHolFam_vtfLift
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.isHolFam_vtfLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:04:01.649067+00:00
 -- url     : https://prove2.me/theorems/1f5d0f88-2bad-4021-92c1-a1341c245c9a

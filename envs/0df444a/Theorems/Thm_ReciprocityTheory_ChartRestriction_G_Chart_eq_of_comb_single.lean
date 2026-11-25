@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_eq_of_comb_single
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.eq_of_comb_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:59:51.732084+00:00
 -- url     : https://prove2.me/theorems/53a373df-fbd3-558c-abe5-58f1cf475dac

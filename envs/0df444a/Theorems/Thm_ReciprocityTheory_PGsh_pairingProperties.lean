@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_pairingProperties
 -- name    : ReciprocityTheory.PGsh.pairingProperties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:33:44.001193+00:00
 -- url     : https://prove2.me/theorems/05d0cc42-cb19-42ad-aab8-b2c3c8c93af5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCocycle_cocycle
 -- name    : GlobalTheory.ThetaCocycle.cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:05:32.383247+00:00
 -- url     : https://prove2.me/theorems/692ac5f4-e6ac-47d3-9532-8a55a11f006d

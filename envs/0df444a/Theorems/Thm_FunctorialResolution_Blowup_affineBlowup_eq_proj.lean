@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_Blowup_affineBlowup_eq_proj
 -- name    : FunctorialResolution.Blowup.affineBlowup_eq_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:35.183301+00:00
 -- url     : https://prove2.me/theorems/c362d75e-2afa-4298-9b8c-949e7df3f712

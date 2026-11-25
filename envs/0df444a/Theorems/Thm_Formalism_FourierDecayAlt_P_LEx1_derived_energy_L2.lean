@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx1_derived_energy_L2
 -- name    : Formalism.FourierDecayAlt.P.LEx1.derived_energy_L2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:29:21.111208+00:00
 -- url     : https://prove2.me/theorems/fd6c071c-c235-4100-a308-92f4ae00b7d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_weilRepSL2_glBorderedBlock
 -- name    : GlobalTheory.T.exists_weilRepSL2_glBorderedBlock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:32:03.84481+00:00
 -- url     : https://prove2.me/theorems/58774481-5453-5f3c-865b-66501b75e140

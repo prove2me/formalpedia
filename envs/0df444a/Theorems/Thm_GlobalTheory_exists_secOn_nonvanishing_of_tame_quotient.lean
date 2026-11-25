@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_secOn_nonvanishing_of_tame_quotient
 -- name    : GlobalTheory.exists_secOn_nonvanishing_of_tame_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:45:25.527207+00:00
 -- url     : https://prove2.me/theorems/7cb03ba4-c7c6-533d-ab48-5d57427df1cb

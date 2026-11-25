@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relation_of_gen_of_order_eq
 -- name    : GlobalTheory.T.relation_of_gen_of_order_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:44:09.035017+00:00
 -- url     : https://prove2.me/theorems/48762274-7d97-4460-815f-f9414089f670

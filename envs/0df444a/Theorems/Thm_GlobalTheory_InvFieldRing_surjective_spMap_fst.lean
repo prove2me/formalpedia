@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InvFieldRing_surjective_spMap_fst
 -- name    : GlobalTheory.InvFieldRing.surjective_spMap_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:12:04.883689+00:00
 -- url     : https://prove2.me/theorems/c7687f1a-c5d8-538f-a54c-c64c9539702a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_ansatz_solves_helmholtz_iff
 -- name    : Arxiv1510_02920.ansatz_solves_helmholtz_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:08:19.466863+00:00
 -- url     : https://prove2.me/theorems/46fc7b29-c500-4b71-bcd7-2775bd0416ad

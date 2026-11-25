@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isDomain_and_isIntegrallyClosed_atPrime_tensor_field_alt
 -- name    : GlobalTheory.T.isDomain_and_isIntegrallyClosed_atPrime_tensor_field_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:34:20.753414+00:00
 -- url     : https://prove2.me/theorems/eeb964fb-5961-4ca3-bc13-b384ae7c17d7

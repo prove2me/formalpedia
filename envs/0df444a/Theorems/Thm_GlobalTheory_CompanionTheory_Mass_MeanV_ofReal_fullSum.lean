@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Mass_MeanV_ofReal_fullSum
 -- name    : GlobalTheory.CompanionTheory.Mass.MeanV.ofReal_fullSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:51:52.989445+00:00
 -- url     : https://prove2.me/theorems/cd9d70c1-7646-45a4-b4d0-7c3ba930b099

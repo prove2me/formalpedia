@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalAlg_IsSystem_baseIdeal_le
 -- name    : GlobalTheory.FormalAlg.IsSystem.baseIdeal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:31.223635+00:00
 -- url     : https://prove2.me/theorems/cc398597-a7f8-5ea0-a9c4-32b2570c9502

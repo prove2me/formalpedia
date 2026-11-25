@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_torusQuotient_points_lift
 -- name    : GlobalTheory.UU.torusQuotient_points_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:08:25.881802+00:00
 -- url     : https://prove2.me/theorems/8958f563-0986-4547-ac89-ecf0ba5467b1

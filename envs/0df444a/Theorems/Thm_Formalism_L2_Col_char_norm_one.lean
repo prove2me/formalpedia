@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_char_norm_one
 -- name    : Formalism.L2.Col.char_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:09.456612+00:00
 -- url     : https://prove2.me/theorems/2e7340c2-ea2a-5ed3-9e45-3b72a1047f4e

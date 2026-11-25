@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GaloisIrreducibility_cardGL
 -- name    : Formalism.GaloisIrreducibility.cardGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:36:16.087172+00:00
 -- url     : https://prove2.me/theorems/1ce3f0ad-26e9-4eb0-8ad5-01a9b9de3728

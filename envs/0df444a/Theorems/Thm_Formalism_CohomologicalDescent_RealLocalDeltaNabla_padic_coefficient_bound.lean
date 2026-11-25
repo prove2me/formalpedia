@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_padic_coefficient_bound
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.padic_coefficient_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:24:51.780741+00:00
 -- url     : https://prove2.me/theorems/d0acaade-1aa6-480c-8899-7fcccdbcd287

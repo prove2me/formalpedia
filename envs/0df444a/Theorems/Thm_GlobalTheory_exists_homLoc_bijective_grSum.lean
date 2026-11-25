@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_homLoc_bijective_grSum
 -- name    : GlobalTheory.exists_homLoc_bijective_grSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:57:00.586696+00:00
 -- url     : https://prove2.me/theorems/a5f7b11e-cd19-40e6-b282-730b4551c49b

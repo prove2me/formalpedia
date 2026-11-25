@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_OpEx_coeFn_sum_ae
 -- name    : GlobalTheory.CompanionTheory.OpEx.coeFn_sum_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:53:36.8178+00:00
 -- url     : https://prove2.me/theorems/1aec0001-5fb7-4296-af4a-ee066b46229f

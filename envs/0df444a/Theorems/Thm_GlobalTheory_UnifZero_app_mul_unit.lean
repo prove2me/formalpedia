@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifZero_app_mul_unit
 -- name    : GlobalTheory.UnifZero.app_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:00:53.310619+00:00
 -- url     : https://prove2.me/theorems/a3cd0e28-37c8-46c9-9987-6475e83f72f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpecialConn_thickFib_isPullback
 -- name    : GlobalTheory.SpecialConn.thickFib_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:23:54.557568+00:00
 -- url     : https://prove2.me/theorems/fcb7ab00-15b9-59f8-bce2-be85943d1437

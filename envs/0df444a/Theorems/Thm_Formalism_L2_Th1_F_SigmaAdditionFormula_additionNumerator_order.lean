@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_SigmaAdditionFormula_additionNumerator_order
 -- name    : Formalism.L2.Th1.F.SigmaAdditionFormula.additionNumerator_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:48:16.153984+00:00
 -- url     : https://prove2.me/theorems/fea93f88-5697-4164-b92c-0820d68ee8d5

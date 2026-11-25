@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linearDescent_partialFourier_eq_fourier_descent
 -- name    : GlobalTheory.T.linearDescent_partialFourier_eq_fourier_descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:35:06.770902+00:00
 -- url     : https://prove2.me/theorems/9a2301a3-0391-5ab1-9514-46557b9a90bf

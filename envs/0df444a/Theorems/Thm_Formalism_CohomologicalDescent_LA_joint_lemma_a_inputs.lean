@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_joint_lemma_a_inputs
 -- name    : Formalism.CohomologicalDescent.LA.joint_lemma_a_inputs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:39:36.863143+00:00
 -- url     : https://prove2.me/theorems/7db2a178-cc9c-438d-b775-df2873fe7e3b

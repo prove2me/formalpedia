@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_pf_parseval
 -- name    : ZetaZeros.D.EllReg.pf_parseval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:54.154246+00:00
 -- url     : https://prove2.me/theorems/44b83c89-25bc-4230-949f-d9fdc192791c

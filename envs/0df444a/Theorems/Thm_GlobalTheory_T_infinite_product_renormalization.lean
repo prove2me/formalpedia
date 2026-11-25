@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_infinite_product_renormalization
 -- name    : GlobalTheory.T.infinite_product_renormalization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:25.569267+00:00
 -- url     : https://prove2.me/theorems/5a7b9e1e-543e-548f-a887-0e61e5b6551f

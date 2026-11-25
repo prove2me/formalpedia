@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_smoothOfRelDim_of_isUnit_proper_flat
 -- name    : GlobalTheory.T.exists_smoothOfRelDim_of_isUnit_proper_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:08:44.612864+00:00
 -- url     : https://prove2.me/theorems/f8279420-d9da-4b6a-88d7-e3490d83ce1a

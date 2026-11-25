@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_Slope_exists_approx
 -- name    : Formalism.MainNotions.PlaneGram.Slope.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:50:54.411271+00:00
 -- url     : https://prove2.me/theorems/b77f80b0-a739-4dc2-83f5-bcf19e9881e9

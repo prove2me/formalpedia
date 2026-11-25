@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_eIn_zero
 -- name    : Formalism.MainNotions.PlaneGram.eIn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:51:16.21192+00:00
 -- url     : https://prove2.me/theorems/0924e802-2755-4304-bf12-4d0d0720920c

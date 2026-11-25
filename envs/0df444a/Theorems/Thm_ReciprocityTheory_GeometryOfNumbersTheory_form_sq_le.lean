@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_form_sq_le
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.form_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:54:31.922251+00:00
 -- url     : https://prove2.me/theorems/9eb04f55-b6b3-4875-8ad5-32c255bf0828

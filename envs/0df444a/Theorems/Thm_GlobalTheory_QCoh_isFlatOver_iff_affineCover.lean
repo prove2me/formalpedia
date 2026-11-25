@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isFlatOver_iff_affineCover
 -- name    : GlobalTheory.QCoh.isFlatOver_iff_affineCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:19:09.149826+00:00
 -- url     : https://prove2.me/theorems/5f230ba1-9017-4b3b-a499-aabfdb847c71

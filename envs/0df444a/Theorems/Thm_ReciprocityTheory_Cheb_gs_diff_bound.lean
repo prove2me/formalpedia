@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_gs_diff_bound
 -- name    : ReciprocityTheory.Cheb.gs_diff_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:48:53.728259+00:00
 -- url     : https://prove2.me/theorems/9f24319d-e2a0-44d9-b53b-df81371a1c52

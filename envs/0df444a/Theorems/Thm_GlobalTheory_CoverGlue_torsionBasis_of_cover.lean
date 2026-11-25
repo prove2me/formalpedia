@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoverGlue_torsionBasis_of_cover
 -- name    : GlobalTheory.CoverGlue.torsionBasis_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:29:20.836652+00:00
 -- url     : https://prove2.me/theorems/4d6622f5-cee3-49ce-a22f-97efcd7f1192

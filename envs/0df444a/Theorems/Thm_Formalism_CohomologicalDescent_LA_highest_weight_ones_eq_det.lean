@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LA_highest_weight_ones_eq_det
 -- name    : Formalism.CohomologicalDescent.LA.highest_weight_ones_eq_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:21:56.494455+00:00
 -- url     : https://prove2.me/theorems/c0441e3f-c99c-40cc-ac27-ecf2f39577cb

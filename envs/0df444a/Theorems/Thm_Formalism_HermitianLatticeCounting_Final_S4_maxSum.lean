@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_maxSum
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.maxSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:37:15.981521+00:00
 -- url     : https://prove2.me/theorems/c0cec42b-c755-5ccb-af27-8fe152f688c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_theorem_a_after_of_parts
 -- name    : Formalism.FourierDecayAlt.P.theorem_a_after_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:36:31.317646+00:00
 -- url     : https://prove2.me/theorems/7325f5bf-559a-4f48-b44c-9c8a56005a3d

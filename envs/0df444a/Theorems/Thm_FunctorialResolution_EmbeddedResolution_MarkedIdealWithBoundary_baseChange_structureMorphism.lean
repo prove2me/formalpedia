@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_MarkedIdealWithBoundary_baseChange_structureMorphism
 -- name    : FunctorialResolution.EmbeddedResolution.MarkedIdealWithBoundary.baseChange_structureMorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:58:57.276513+00:00
 -- url     : https://prove2.me/theorems/82bec0d6-f0bf-5fad-943e-931b44c7ef95

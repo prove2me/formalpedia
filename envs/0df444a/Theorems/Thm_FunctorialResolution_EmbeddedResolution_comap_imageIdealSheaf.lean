@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_comap_imageIdealSheaf
 -- name    : FunctorialResolution.EmbeddedResolution.comap_imageIdealSheaf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:01.706243+00:00
 -- url     : https://prove2.me/theorems/6b661696-2380-493e-89a2-fd06f01e39f2

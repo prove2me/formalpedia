@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_dw_solSet_continuous_functional
 -- name    : GlobalTheory.HCA.dw_solSet_continuous_functional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:59:47.11882+00:00
 -- url     : https://prove2.me/theorems/ad0eabd4-ff9a-4cac-8569-6ea500399ad5

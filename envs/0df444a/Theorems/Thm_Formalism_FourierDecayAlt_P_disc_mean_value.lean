@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_disc_mean_value
 -- name    : Formalism.FourierDecayAlt.P.disc_mean_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:29:42.631055+00:00
 -- url     : https://prove2.me/theorems/697fef16-01e3-407a-a92b-b3a0fd32da03

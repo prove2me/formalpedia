@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_condE_spec
 -- name    : UpperTheory.HF.condE_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:03:40.191888+00:00
 -- url     : https://prove2.me/theorems/a58a05bf-fe28-493f-a082-ddf1d3861c9e

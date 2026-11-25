@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_idemPairHom_apply
 -- name    : GlobalTheory.SgLoc.idemPairHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:22:46.189044+00:00
 -- url     : https://prove2.me/theorems/dc236300-1657-4b12-b799-b77c657704a7

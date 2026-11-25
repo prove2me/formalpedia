@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_trace_curv_eq_sub_add_quot
 -- name    : GlobalTheory.HermFrame.trace_curv_eq_sub_add_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:16.261278+00:00
 -- url     : https://prove2.me/theorems/254011fd-998b-5cc6-9ec8-ccbdd97ef3c6

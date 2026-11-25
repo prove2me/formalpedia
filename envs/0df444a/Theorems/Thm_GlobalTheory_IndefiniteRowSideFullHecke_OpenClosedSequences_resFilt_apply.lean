@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OpenClosedSequences_resFilt_apply
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OpenClosedSequences.resFilt_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:59.6408+00:00
 -- url     : https://prove2.me/theorems/cc49039f-626d-4010-9915-b87f2f51609f

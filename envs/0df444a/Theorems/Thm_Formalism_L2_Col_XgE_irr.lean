@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_XgE_irr
 -- name    : Formalism.L2.Col.XgE_irr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:01.082959+00:00
 -- url     : https://prove2.me/theorems/bf0b0002-6179-4240-a283-39a1001b04d9

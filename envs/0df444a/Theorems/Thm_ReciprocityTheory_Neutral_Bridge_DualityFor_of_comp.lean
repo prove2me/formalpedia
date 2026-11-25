@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_DualityFor_of_comp
 -- name    : ReciprocityTheory.Neutral.Bridge.DualityFor.of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:05:45.635516+00:00
 -- url     : https://prove2.me/theorems/51f8c268-ebe3-4d3e-b4be-6abcbd7eaa98

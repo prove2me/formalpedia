@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZH_ConePrime_isPrime_vanishingIdeal_cone
 -- name    : GlobalTheory.ZH.ConePrime.isPrime_vanishingIdeal_cone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:16.654807+00:00
 -- url     : https://prove2.me/theorems/0f31e5c0-5026-4c54-9a61-0382e5927ee7

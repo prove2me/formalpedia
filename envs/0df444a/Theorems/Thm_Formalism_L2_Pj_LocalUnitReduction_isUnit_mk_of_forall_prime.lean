@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_LocalUnitReduction_isUnit_mk_of_forall_prime
 -- name    : Formalism.L2.Pj.LocalUnitReduction.isUnit_mk_of_forall_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:06.67443+00:00
 -- url     : https://prove2.me/theorems/d07dd68c-729d-4efe-a3b3-732340ae2dea

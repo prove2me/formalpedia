@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_RepMap_exists_factor
 -- name    : GlobalTheory.ZM.RepMap.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:55:27.497985+00:00
 -- url     : https://prove2.me/theorems/d839db2f-0724-432c-a30b-a09356c52967

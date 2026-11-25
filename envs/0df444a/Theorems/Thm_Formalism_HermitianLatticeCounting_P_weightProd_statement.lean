@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_weightProd_statement
 -- name    : Formalism.HermitianLatticeCounting.P.weightProd_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:40:51.613956+00:00
 -- url     : https://prove2.me/theorems/db9767cb-6f95-43bf-b5d7-a278aa83db49

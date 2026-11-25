@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_archimedean_local_density_formula
 -- name    : GlobalTheory.T.archimedean_local_density_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:27:28.695556+00:00
 -- url     : https://prove2.me/theorems/8db0ac1b-9f94-45cd-b920-97f60101a9f1

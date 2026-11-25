@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpUniqFamily_algebraic
 -- name    : GlobalTheory.ExpUniqFamily.algebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:02:00.236159+00:00
 -- url     : https://prove2.me/theorems/93fdb9cf-8492-4093-a831-8a1368580b5b

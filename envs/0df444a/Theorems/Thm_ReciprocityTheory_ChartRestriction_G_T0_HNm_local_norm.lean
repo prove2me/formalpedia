@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HNm_local_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HNm.local_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:51:19.215036+00:00
 -- url     : https://prove2.me/theorems/efeefb72-7409-5da8-a64d-448f3df832cd

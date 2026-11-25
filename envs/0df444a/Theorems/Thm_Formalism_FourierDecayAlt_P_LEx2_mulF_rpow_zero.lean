@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_mulF_rpow_zero
 -- name    : Formalism.FourierDecayAlt.P.LEx2.mulF_rpow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:39.549622+00:00
 -- url     : https://prove2.me/theorems/a403746b-024e-4607-95f3-7b24d6e0b300

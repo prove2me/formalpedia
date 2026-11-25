@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_low_genLog_sub
 -- name    : Formalism.DworkPowerSeriesWeights.low_genLog_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:25:17.747907+00:00
 -- url     : https://prove2.me/theorems/ad287886-c502-5622-a3c2-383396764de1

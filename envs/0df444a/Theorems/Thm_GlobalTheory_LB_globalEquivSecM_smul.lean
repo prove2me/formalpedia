@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LB_globalEquivSecM_smul
 -- name    : GlobalTheory.LB.globalEquivSecM_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:07:35.701162+00:00
 -- url     : https://prove2.me/theorems/7dad5156-dcb9-51eb-8890-0426cae45a42

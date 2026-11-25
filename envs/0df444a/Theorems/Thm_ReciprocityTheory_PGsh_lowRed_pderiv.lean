@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_lowRed_pderiv
 -- name    : ReciprocityTheory.PGsh.lowRed_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:09:08.237368+00:00
 -- url     : https://prove2.me/theorems/0bd7df4b-32c1-4cd4-b135-792802f75fd8

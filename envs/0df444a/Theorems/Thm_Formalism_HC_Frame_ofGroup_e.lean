@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_ofGroup_e
 -- name    : Formalism.HC.Frame.ofGroup_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:07.004619+00:00
 -- url     : https://prove2.me/theorems/9ff869b3-ab87-418d-b005-4af4cf5b399c

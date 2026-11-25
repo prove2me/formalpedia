@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LabelsAgree_rel_iff
 -- name    : GlobalTheory.LabelsAgree.rel_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:57.661888+00:00
 -- url     : https://prove2.me/theorems/ae1177ae-1603-4ac7-bd89-dae98aa0a667

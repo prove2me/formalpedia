@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_maj_ortho
 -- name    : UnipMove.GraphH.maj_ortho
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:46:22.487507+00:00
 -- url     : https://prove2.me/theorems/b61c424c-6ebb-4616-b65e-6d1a42aae214

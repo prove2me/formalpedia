@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_mirrored_slab_reflectionless
 -- name    : Arxiv1510_02920.mirrored_slab_reflectionless
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:12:59.09155+00:00
 -- url     : https://prove2.me/theorems/92869b79-fb88-4554-a0f7-36e60b9d6a09

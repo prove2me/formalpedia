@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_depth_nonneg_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.depth_nonneg_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:36:03.912782+00:00
 -- url     : https://prove2.me/theorems/6c10951d-0e69-42d8-b8a5-7f5f6193bb1d

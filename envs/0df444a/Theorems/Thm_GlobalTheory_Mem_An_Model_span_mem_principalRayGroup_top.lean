@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_Model_span_mem_principalRayGroup_top
 -- name    : GlobalTheory.Mem.An.Model.span_mem_principalRayGroup_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:13.21185+00:00
 -- url     : https://prove2.me/theorems/d497256f-1dc6-4c50-9f62-3f0fd6674bec

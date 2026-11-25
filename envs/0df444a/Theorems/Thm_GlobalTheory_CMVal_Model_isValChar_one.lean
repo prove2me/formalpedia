@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_isValChar_one
 -- name    : GlobalTheory.CMVal.Model.isValChar_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:58:59.917805+00:00
 -- url     : https://prove2.me/theorems/f052e051-31e1-4e36-b8e6-37b91247eba4

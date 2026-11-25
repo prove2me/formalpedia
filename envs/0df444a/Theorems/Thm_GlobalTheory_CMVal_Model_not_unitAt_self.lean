@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_not_unitAt_self
 -- name    : GlobalTheory.CMVal.Model.not_unitAt_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:16.776876+00:00
 -- url     : https://prove2.me/theorems/c39b2c8d-e842-4327-92ca-5658ba1b610f

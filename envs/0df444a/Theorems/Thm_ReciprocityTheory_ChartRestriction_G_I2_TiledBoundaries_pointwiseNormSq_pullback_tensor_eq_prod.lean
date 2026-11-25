@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_pointwiseNormSq_pullback_tensor_eq_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.pointwiseNormSq_pullback_tensor_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:54:19.854771+00:00
 -- url     : https://prove2.me/theorems/20bb3c31-d0cf-4dae-a43a-c4fbdc6bd2a3

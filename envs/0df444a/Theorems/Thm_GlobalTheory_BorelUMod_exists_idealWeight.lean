@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_exists_idealWeight
 -- name    : GlobalTheory.BorelUMod.exists_idealWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:58:33.132969+00:00
 -- url     : https://prove2.me/theorems/99b0d994-a4ca-4596-ab69-8208ee60f5cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_ordF_eq_of_classOf
 -- name    : PI.AlgValsFin.W.ordF_eq_of_classOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:13:45.835409+00:00
 -- url     : https://prove2.me/theorems/884b9b5c-7b52-4722-9735-e93d22356224

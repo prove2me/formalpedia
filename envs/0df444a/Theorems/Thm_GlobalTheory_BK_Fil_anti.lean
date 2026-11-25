@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Fil_anti
 -- name    : GlobalTheory.BK.Fil_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:33.167618+00:00
 -- url     : https://prove2.me/theorems/e02fc88e-06d2-474a-8b86-88bd91b659d6

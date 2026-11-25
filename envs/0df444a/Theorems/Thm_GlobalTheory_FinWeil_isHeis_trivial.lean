@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FinWeil_isHeis_trivial
 -- name    : GlobalTheory.FinWeil.isHeis_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:39.55805+00:00
 -- url     : https://prove2.me/theorems/0c35df14-863d-5a54-9405-e48d11144cbc

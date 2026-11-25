@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_existsUnique_place_ord_eq_one_of_transcendental_generator
 -- name    : GlobalTheory.T.existsUnique_place_ord_eq_one_of_transcendental_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:28:24.811246+00:00
 -- url     : https://prove2.me/theorems/892466bf-853a-5db7-a3fb-ee7a6cd649b9

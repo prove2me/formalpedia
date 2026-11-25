@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_prod_rel_index_ne_zero
 -- name    : GlobalTheory.T.prod_rel_index_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:31.837943+00:00
 -- url     : https://prove2.me/theorems/7b572e1f-e8e2-5b38-ab96-9ddef129bc9a

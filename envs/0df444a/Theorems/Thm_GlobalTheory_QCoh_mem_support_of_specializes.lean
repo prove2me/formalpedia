@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_mem_support_of_specializes
 -- name    : GlobalTheory.QCoh.mem_support_of_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:20:08.577506+00:00
 -- url     : https://prove2.me/theorems/b3bdb2cc-49b1-4c9a-b91f-1088dcb9a787

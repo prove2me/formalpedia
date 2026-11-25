@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_posSemidef_fromBlocks_diag
 -- name    : GlobalTheory.HermFrame.posSemidef_fromBlocks_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:06.724364+00:00
 -- url     : https://prove2.me/theorems/3a7967ae-e020-53cc-aa22-39e836c2f763

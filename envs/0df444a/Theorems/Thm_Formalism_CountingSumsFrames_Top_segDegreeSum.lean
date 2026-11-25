@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segDegreeSum
 -- name    : Formalism.CountingSumsFrames.Top.segDegreeSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:23:31.615373+00:00
 -- url     : https://prove2.me/theorems/2da06841-5610-5f82-a0d6-7b1e6770293b

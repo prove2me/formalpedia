@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuasiAffineTorus_exists_const_of_invariant
 -- name    : GlobalTheory.QuasiAffineTorus.exists_const_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:44:28.656638+00:00
 -- url     : https://prove2.me/theorems/6e3d8455-0b10-4f03-b56f-5761abe86eb7

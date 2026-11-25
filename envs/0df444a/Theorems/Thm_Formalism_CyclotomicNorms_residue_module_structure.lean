@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CyclotomicNorms_residue_module_structure
 -- name    : Formalism.CyclotomicNorms.residue_module_structure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:23:31.624805+00:00
 -- url     : https://prove2.me/theorems/3fcdfe14-9831-48cf-a6dc-16057b88ee30

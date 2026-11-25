@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_fZ_factor_positive_places
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.fZ_factor_positive_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:27:32.397506+00:00
 -- url     : https://prove2.me/theorems/db9dcccf-b518-472d-a4fa-6a3570182e54

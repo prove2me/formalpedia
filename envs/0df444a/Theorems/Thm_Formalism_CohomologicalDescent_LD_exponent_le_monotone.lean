@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_exponent_le_monotone
 -- name    : Formalism.CohomologicalDescent.LD.exponent_le_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:22:30.83225+00:00
 -- url     : https://prove2.me/theorems/0be04e01-a7b1-44e4-b1df-02cdb02cd44a

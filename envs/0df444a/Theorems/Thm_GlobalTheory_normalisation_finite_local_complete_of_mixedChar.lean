@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normalisation_finite_local_complete_of_mixedChar
 -- name    : GlobalTheory.normalisation_finite_local_complete_of_mixedChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:13:13.65827+00:00
 -- url     : https://prove2.me/theorems/be1ad9ea-b5d4-451f-aa9a-a54d6c8655a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_TameGal_root_ne_zero
 -- name    : GlobalTheory.BK.TameGal.root_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:56:39.266124+00:00
 -- url     : https://prove2.me/theorems/595f4e45-41c6-5d6c-8153-9c0d522e7573

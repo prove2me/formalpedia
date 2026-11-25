@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_uKeepsEarly
 -- name    : Formalism.InvariantFactorPaths.L4.Top.uKeepsEarly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:49:00.581174+00:00
 -- url     : https://prove2.me/theorems/07590001-f8fe-51b1-8f75-8511ee63eb2c

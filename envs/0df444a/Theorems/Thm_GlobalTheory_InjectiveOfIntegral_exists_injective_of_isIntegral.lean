@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjectiveOfIntegral_exists_injective_of_isIntegral
 -- name    : GlobalTheory.InjectiveOfIntegral.exists_injective_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:10:21.487314+00:00
 -- url     : https://prove2.me/theorems/4cab0201-9dae-4f7b-807e-0138391ef443

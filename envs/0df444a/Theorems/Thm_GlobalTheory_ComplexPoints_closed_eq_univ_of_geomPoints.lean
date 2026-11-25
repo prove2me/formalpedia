@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPoints_closed_eq_univ_of_geomPoints
 -- name    : GlobalTheory.ComplexPoints.closed_eq_univ_of_geomPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:12.476591+00:00
 -- url     : https://prove2.me/theorems/d130fc43-0498-416a-884a-3bdd1da1facb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G0_gam_le
 -- name    : Formalism.InvariantFactorPaths.G0.gam_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:04.605642+00:00
 -- url     : https://prove2.me/theorems/67599e6b-2618-5db0-888d-18eeab276d1b

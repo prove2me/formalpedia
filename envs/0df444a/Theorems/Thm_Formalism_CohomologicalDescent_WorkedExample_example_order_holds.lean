@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_WorkedExample_example_order_holds
 -- name    : Formalism.CohomologicalDescent.WorkedExample.example_order_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:22:21.14883+00:00
 -- url     : https://prove2.me/theorems/67c97ff4-5024-4179-b32e-7a8a05aec81f

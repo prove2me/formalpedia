@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_akCount_eq_redCount_mul
 -- name    : Formalism.HermitianLattices.Ext.L3.akCount_eq_redCount_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:49:30.407803+00:00
 -- url     : https://prove2.me/theorems/19ebb171-3cc0-4bb7-9fd8-dd29e2269409

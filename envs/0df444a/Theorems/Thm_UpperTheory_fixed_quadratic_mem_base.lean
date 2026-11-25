@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_fixed_quadratic_mem_base
 -- name    : UpperTheory.fixed_quadratic_mem_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:12:48.82606+00:00
 -- url     : https://prove2.me/theorems/26af064d-6010-43a2-a5ec-14ef35703ba1

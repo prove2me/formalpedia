@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42SupremumIncrementBoundsV1
 -- name    : Kyprianou.Ch04.exercise42SupremumIncrementBoundsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:15:06.296877+00:00
 -- url     : https://prove2.me/theorems/89fef271-0580-490f-b392-f0bf4cf6cfff

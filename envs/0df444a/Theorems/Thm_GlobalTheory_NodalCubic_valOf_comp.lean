@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NodalCubic_valOf_comp
 -- name    : GlobalTheory.NodalCubic.valOf_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:53:57.250911+00:00
 -- url     : https://prove2.me/theorems/986c36bc-1f23-4e6c-97c3-727f8ee60e7d

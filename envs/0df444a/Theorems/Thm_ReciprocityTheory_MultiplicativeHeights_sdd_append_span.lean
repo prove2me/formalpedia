@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sdd_append_span
 -- name    : ReciprocityTheory.MultiplicativeHeights.sdd_append_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:05:07.059947+00:00
 -- url     : https://prove2.me/theorems/d81ef71c-7a1f-497c-9886-048109dfd622

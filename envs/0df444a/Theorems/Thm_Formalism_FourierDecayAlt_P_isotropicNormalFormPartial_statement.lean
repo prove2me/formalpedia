@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_isotropicNormalFormPartial_statement
 -- name    : Formalism.FourierDecayAlt.P.isotropicNormalFormPartial_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:34:41.152795+00:00
 -- url     : https://prove2.me/theorems/55998915-1fff-44ed-8dc8-5de99a1b419b

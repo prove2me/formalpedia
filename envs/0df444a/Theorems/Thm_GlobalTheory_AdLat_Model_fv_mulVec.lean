@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdLat_Model_fv_mulVec
 -- name    : GlobalTheory.AdLat.Model.fv_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:54:32.813635+00:00
 -- url     : https://prove2.me/theorems/e1d92e14-66e7-5e8c-98f9-22e095534cdb

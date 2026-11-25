@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_expandsF_lin
 -- name    : GlobalTheory.FieldBaseChange.expandsF_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:54:32.90049+00:00
 -- url     : https://prove2.me/theorems/b6dcc935-1f81-57fe-bf1a-342c231c3e96

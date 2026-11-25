@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_Top_typeIIUp
 -- name    : Formalism.G0.Top.typeIIUp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:39:27.853809+00:00
 -- url     : https://prove2.me/theorems/527066db-e7ef-4d02-8c49-0a82ec1eadb8

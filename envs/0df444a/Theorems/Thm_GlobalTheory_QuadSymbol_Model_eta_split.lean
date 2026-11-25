@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Model_eta_split
 -- name    : GlobalTheory.QuadSymbol.Model.eta_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:20:15.236698+00:00
 -- url     : https://prove2.me/theorems/7bbf6e72-25ab-4290-8293-885a63a1c501

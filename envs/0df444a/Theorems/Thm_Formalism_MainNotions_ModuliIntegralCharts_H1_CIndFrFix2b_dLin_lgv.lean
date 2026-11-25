@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix2b_dLin_lgv
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix2b.dLin_lgv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:36:53.047073+00:00
 -- url     : https://prove2.me/theorems/a1d29ded-ed1d-4032-b2ee-c373d6126838

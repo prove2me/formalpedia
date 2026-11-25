@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_Model_localIdele_eq_infIdele
 -- name    : GlobalTheory.Mem.Chr.Model.localIdele_eq_infIdele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:08.641026+00:00
 -- url     : https://prove2.me/theorems/f63f6c7b-21a9-4d8e-a5c1-db825bc64f1c

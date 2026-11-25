@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ampSq_le_of_hermitianTermTypes_cauchySchwarz
 -- name    : GlobalTheory.T.ampSq_le_of_hermitianTermTypes_cauchySchwarz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:42.699145+00:00
 -- url     : https://prove2.me/theorems/32dbf36f-f6f1-5ebc-adb0-662aa117279e

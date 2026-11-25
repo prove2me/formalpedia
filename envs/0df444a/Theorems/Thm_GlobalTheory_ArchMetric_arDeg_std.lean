@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_arDeg_std
 -- name    : GlobalTheory.ArchMetric.arDeg_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:37.501856+00:00
 -- url     : https://prove2.me/theorems/1bde4747-e9a1-5a92-b52c-ea06d32f5368

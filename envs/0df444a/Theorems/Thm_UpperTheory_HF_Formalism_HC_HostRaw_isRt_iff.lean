@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_Formalism_HC_HostRaw_isRt_iff
 -- name    : UpperTheory.HF.Formalism.HC.HostRaw.isRt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:13:40.097803+00:00
 -- url     : https://prove2.me/theorems/5d1364cb-c737-4448-a03e-34c10ca79e02

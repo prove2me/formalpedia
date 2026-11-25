@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GrpLoc_isGrpPullback_local_on_base
 -- name    : GlobalTheory.GrpLoc.isGrpPullback_local_on_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:06:35.028731+00:00
 -- url     : https://prove2.me/theorems/156ca876-fcd7-4645-b0de-9000b2fb5087

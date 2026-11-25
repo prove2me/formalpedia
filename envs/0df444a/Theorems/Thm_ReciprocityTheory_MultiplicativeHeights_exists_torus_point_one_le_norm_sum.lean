@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_exists_torus_point_one_le_norm_sum
 -- name    : ReciprocityTheory.MultiplicativeHeights.exists_torus_point_one_le_norm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:41.305171+00:00
 -- url     : https://prove2.me/theorems/e21edbdb-4b78-4c6c-8717-f32db9de35c3

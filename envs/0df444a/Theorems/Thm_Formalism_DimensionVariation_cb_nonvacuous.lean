@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DimensionVariation_cb_nonvacuous
 -- name    : Formalism.DimensionVariation.cb_nonvacuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:26:40.056707+00:00
 -- url     : https://prove2.me/theorems/02ee1525-ea7a-4e3c-8590-955788566da9

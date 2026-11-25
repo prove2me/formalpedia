@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_uDeg
 -- name    : Formalism.InvariantFactorPaths.L4.Top.uDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:43:02.763544+00:00
 -- url     : https://prove2.me/theorems/b4e488e2-31cb-4551-8d63-38ea625e96a5

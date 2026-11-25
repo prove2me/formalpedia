@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_LocalResolutionData_centersLieOver_smoothLocusComplement
 -- name    : FunctorialResolution.EmbeddedResolution.LocalResolutionData.centersLieOver_smoothLocusComplement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:53:54.889837+00:00
 -- url     : https://prove2.me/theorems/5ff8ba7c-0838-4fcd-b15c-e37896248d14

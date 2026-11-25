@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_integrable_log_norm_sub_log_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.integrable_log_norm_sub_log_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:36:48.941328+00:00
 -- url     : https://prove2.me/theorems/d5b0bafd-f9b7-44d5-8f7f-173bbb8db712

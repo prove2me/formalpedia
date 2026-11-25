@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KillDeg_killPoly_natDegree_le
 -- name    : GlobalTheory.CompanionTheory.KillDeg.killPoly_natDegree_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:29.774808+00:00
 -- url     : https://prove2.me/theorems/c894d6af-ac4e-55fd-b0e2-c8d84e3a3aa6

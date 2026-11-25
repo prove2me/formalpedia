@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_map_nsmul_comap_eq_abs_norm_pow_mul_det
 -- name    : GlobalTheory.T.relIndex_map_nsmul_comap_eq_abs_norm_pow_mul_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:42.934901+00:00
 -- url     : https://prove2.me/theorems/f75fae0d-3432-4d59-b3fd-3dc42513b39e

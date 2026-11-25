@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartData_copy_zR
 -- name    : GlobalTheory.ChartData.copy_zR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:02:52.967514+00:00
 -- url     : https://prove2.me/theorems/c68a990b-1240-48bd-8842-1a813e150061

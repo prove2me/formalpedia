@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GroupRingConst_family_comp_algebraMap
 -- name    : GlobalTheory.GroupRingConst.family_comp_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:28:31.822118+00:00
 -- url     : https://prove2.me/theorems/b6e558aa-ee3b-47f3-84e3-bd84761de754

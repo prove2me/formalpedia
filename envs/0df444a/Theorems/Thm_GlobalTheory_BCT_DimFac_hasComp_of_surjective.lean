@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_DimFac_hasComp_of_surjective
 -- name    : GlobalTheory.BCT.DimFac.hasComp_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:56:46.646956+00:00
 -- url     : https://prove2.me/theorems/2bd53797-16d0-559b-92ad-f8bb9e6e4f5a

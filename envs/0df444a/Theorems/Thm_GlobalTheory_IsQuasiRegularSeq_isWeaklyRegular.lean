@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_isWeaklyRegular
 -- name    : GlobalTheory.IsQuasiRegularSeq.isWeaklyRegular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:11:12.707805+00:00
 -- url     : https://prove2.me/theorems/c19928d2-51b6-4d2b-9117-865240edf13d

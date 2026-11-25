@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_AffineSpacePrincipalizationData_embeddedAmbientBlowups_eq
 -- name    : FunctorialResolution.EmbeddedResolution.AffineSpacePrincipalizationData.embeddedAmbientBlowups_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:54:12.924602+00:00
 -- url     : https://prove2.me/theorems/2631e9a9-a6a1-5b4a-b8e3-dfcc9d9eb2ec

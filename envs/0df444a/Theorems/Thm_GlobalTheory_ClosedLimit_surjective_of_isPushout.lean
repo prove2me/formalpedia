@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClosedLimit_surjective_of_isPushout
 -- name    : GlobalTheory.ClosedLimit.surjective_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:55:08.009448+00:00
 -- url     : https://prove2.me/theorems/01d50408-f1b9-56c8-aa3d-1639aadb6f54

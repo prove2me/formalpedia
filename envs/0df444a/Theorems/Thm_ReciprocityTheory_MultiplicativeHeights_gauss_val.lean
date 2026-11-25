@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_gauss_val
 -- name    : ReciprocityTheory.MultiplicativeHeights.gauss_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:04:21.025169+00:00
 -- url     : https://prove2.me/theorems/cc419e8c-5634-4806-9278-9cbec8dedefa

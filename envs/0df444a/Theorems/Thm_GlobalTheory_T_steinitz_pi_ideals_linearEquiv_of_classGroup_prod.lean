@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_steinitz_pi_ideals_linearEquiv_of_classGroup_prod
 -- name    : GlobalTheory.T.steinitz_pi_ideals_linearEquiv_of_classGroup_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:39:26.748543+00:00
 -- url     : https://prove2.me/theorems/f91e12ad-c776-4c72-9417-e36b1e2bb63f

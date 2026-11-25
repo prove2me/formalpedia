@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_affine_chart_ideal_prime_and_saturated
 -- name    : GlobalTheory.T.affine_chart_ideal_prime_and_saturated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:45:24.410455+00:00
 -- url     : https://prove2.me/theorems/a17d5f09-1cf4-419d-8b7c-4f43275a3dcb

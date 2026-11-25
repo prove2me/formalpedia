@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_twCoord_twZeroEquiv
 -- name    : GlobalTheory.AbLaw.SecOn.twCoord_twZeroEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:37:51.898803+00:00
 -- url     : https://prove2.me/theorems/fc4a6538-968d-4bac-9493-3ce616659ba1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_exists_lex_enum
 -- name    : ReciprocityTheory.MultiplicativeHeights.exists_lex_enum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:04:06.50707+00:00
 -- url     : https://prove2.me/theorems/bb1c5926-bdce-5685-9c9a-1f0c0d818118

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Host_CharEx_classExp
 -- name    : Formalism.L2.Host.CharEx.classExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:53:57.726164+00:00
 -- url     : https://prove2.me/theorems/fb3af7de-f0e1-4ab9-bd8f-6b4fa894bf6d

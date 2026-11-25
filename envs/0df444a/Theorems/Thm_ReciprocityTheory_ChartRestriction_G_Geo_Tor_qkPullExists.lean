@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_qkPullExists
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.qkPullExists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:50:24.075578+00:00
 -- url     : https://prove2.me/theorems/8440b92f-99db-4b8f-8026-14ec55cb52d7

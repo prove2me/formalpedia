@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HkFam_exists_subgroup_eq_range_of_lists
 -- name    : GlobalTheory.HkFam.exists_subgroup_eq_range_of_lists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:07:48.301966+00:00
 -- url     : https://prove2.me/theorems/40b9b4b4-7dd6-5fce-a81b-c35fe315e269

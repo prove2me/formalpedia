@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_vec_selfDual_bound
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.vec_selfDual_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:02:15.339802+00:00
 -- url     : https://prove2.me/theorems/6b36d74b-0aee-51e2-b4c0-9ebc8462bdbe

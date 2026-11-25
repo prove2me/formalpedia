@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_SmoothLocalChart_isPullback_morphismRestrict_basicOpen
 -- name    : FunctorialResolution.EmbeddedResolution.SmoothLocalChart.isPullback_morphismRestrict_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:52:42.888774+00:00
 -- url     : https://prove2.me/theorems/666b2691-503c-5799-b2fa-f68a57cd51b4

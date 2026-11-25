@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_stein_holds
 -- name    : GlobalTheory.CompanionTheory.Hodge.stein_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:51.296774+00:00
 -- url     : https://prove2.me/theorems/b1a8118d-41e9-48cb-ad0e-58ed2f61e7ec

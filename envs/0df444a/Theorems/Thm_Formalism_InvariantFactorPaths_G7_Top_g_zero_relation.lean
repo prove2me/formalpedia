@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_g_zero_relation
 -- name    : Formalism.InvariantFactorPaths.G7.Top.g_zero_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:29.545549+00:00
 -- url     : https://prove2.me/theorems/bd4fa3a3-9fb1-5d91-8ebe-205ca613be8d

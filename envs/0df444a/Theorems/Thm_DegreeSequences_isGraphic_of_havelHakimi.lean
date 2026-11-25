@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DegreeSequences_isGraphic_of_havelHakimi
 -- name    : DegreeSequences.isGraphic_of_havelHakimi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:47:06.871557+00:00
 -- url     : https://prove2.me/theorems/394828dc-2ce6-44d6-9639-83b72eae4996

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Lc_rankOneDat
 -- name    : GlobalTheory.BK.Lc_rankOneDat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:39.430645+00:00
 -- url     : https://prove2.me/theorems/cb9e7a3c-5037-5985-9b7d-dd0a9fef03c8

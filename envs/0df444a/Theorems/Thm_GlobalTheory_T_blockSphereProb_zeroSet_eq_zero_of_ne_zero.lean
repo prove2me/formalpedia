@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_blockSphereProb_zeroSet_eq_zero_of_ne_zero
 -- name    : GlobalTheory.T.blockSphereProb_zeroSet_eq_zero_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:27:54.057213+00:00
 -- url     : https://prove2.me/theorems/8eeec17d-6d91-4541-a95b-3f895d4324cd

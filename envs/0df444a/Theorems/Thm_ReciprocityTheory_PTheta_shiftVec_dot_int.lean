@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_shiftVec_dot_int
 -- name    : ReciprocityTheory.PTheta.shiftVec_dot_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:19.330793+00:00
 -- url     : https://prove2.me/theorems/4087f8f6-74e3-49d2-8f56-2d4ef67e7e0d

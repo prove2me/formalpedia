@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultilinearSpanImage_multilinear_apply_mem_span_image
 -- name    : GlobalTheory.MultilinearSpanImage.multilinear_apply_mem_span_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:34.943195+00:00
 -- url     : https://prove2.me/theorems/b1663e4f-e567-43b2-b962-129e2f7066cd

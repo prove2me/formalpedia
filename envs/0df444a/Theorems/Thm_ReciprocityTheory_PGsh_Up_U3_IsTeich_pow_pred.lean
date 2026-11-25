@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_U3_IsTeich_pow_pred
 -- name    : ReciprocityTheory.PGsh.Up.U3.IsTeich.pow_pred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:07:48.820616+00:00
 -- url     : https://prove2.me/theorems/71b7d850-0cf5-4a1e-b6d6-896c8f5a6333

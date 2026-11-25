@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_thetaForm_proof
 -- name    : Formalism.FourierDecayAlt.P.le_thetaForm_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:46.848168+00:00
 -- url     : https://prove2.me/theorems/b3481d6e-d233-4ab3-b0dd-26a828ed1cf5

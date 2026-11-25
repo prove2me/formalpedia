@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_continuous_of_chart
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.continuous_of_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:00:55.612267+00:00
 -- url     : https://prove2.me/theorems/0733afdd-688f-440d-a5b4-65b2a6263701

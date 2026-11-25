@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacobianIndependence_eq_zero_of_det_fderiv_ne_zero
 -- name    : GlobalTheory.JacobianIndependence.eq_zero_of_det_fderiv_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:23:49.809672+00:00
 -- url     : https://prove2.me/theorems/c3f5043f-5690-43e8-87de-72b21c51a0df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_smul_right_of_tower
 -- name    : GlobalTheory.HermForm.smul_right_of_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:54.800518+00:00
 -- url     : https://prove2.me/theorems/00b087c6-dffe-4183-aa6c-979ada4f03e1

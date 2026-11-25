@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_equiv_of_count
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_equiv_of_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:42:13.286902+00:00
 -- url     : https://prove2.me/theorems/fa067fae-1cbf-49bb-a4c7-e7d2450f448e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinkowskiOrder_exists_prime_gen
 -- name    : GlobalTheory.MinkowskiOrder.exists_prime_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:26:44.584346+00:00
 -- url     : https://prove2.me/theorems/36b7c0ab-0e3f-475b-a67b-8ad49b237d48

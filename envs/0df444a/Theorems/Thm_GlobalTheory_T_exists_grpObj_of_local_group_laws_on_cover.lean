@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_grpObj_of_local_group_laws_on_cover
 -- name    : GlobalTheory.T.exists_grpObj_of_local_group_laws_on_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:36:14.844153+00:00
 -- url     : https://prove2.me/theorems/42caca26-140b-4c69-8c99-16dd9781e401

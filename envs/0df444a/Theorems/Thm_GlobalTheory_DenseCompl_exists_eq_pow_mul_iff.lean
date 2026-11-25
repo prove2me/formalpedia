@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseCompl_exists_eq_pow_mul_iff
 -- name    : GlobalTheory.DenseCompl.exists_eq_pow_mul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:09.279509+00:00
 -- url     : https://prove2.me/theorems/1abd1f59-5587-5c65-9511-6a7c542546d8

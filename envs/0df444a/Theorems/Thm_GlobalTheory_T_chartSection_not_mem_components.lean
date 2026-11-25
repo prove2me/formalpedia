@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_chartSection_not_mem_components
 -- name    : GlobalTheory.T.chartSection_not_mem_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:48:49.159892+00:00
 -- url     : https://prove2.me/theorems/ad412d55-e04c-5586-8cf6-7d115420896b

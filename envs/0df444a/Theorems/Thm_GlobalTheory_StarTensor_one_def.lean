@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StarTensor_one_def
 -- name    : GlobalTheory.StarTensor.one_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:48.746534+00:00
 -- url     : https://prove2.me/theorems/f83f5ebf-dfee-4f9a-8f27-fd243caac648

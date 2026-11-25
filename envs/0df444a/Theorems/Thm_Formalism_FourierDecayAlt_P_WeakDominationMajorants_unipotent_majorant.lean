@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_unipotent_majorant
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.unipotent_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:30:15.562459+00:00
 -- url     : https://prove2.me/theorems/516447d0-2686-581a-8ff9-dc5e39c363ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_LieModel_mem_eigSp_of_mem_htW
 -- name    : GlobalTheory.CompanionTheory.Ar.LieModel.mem_eigSp_of_mem_htW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:57.775381+00:00
 -- url     : https://prove2.me/theorems/edcf10d8-3362-58e3-aca5-e78d9e48e00a

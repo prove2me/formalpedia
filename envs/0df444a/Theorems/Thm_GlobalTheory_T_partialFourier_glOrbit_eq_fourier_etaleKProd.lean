@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialFourier_glOrbit_eq_fourier_etaleKProd
 -- name    : GlobalTheory.T.partialFourier_glOrbit_eq_fourier_etaleKProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:36:06.419154+00:00
 -- url     : https://prove2.me/theorems/ba4b1fdf-2ef3-5f56-b0f9-39f523e9faad

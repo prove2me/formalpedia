@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrixFamilyBilateralSubstitution_scalar_monomial
 -- name    : GlobalTheory.T.matrixFamilyBilateralSubstitution_scalar_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:35:22.374273+00:00
 -- url     : https://prove2.me/theorems/538a6f1a-25ec-41d3-98b1-aa920a7197a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_numerical_density
 -- name    : Formalism.FourierDecayAlt.P.numerical_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:33:40.556276+00:00
 -- url     : https://prove2.me/theorems/20ca04a8-d92b-5865-a53c-0be4368c3e05

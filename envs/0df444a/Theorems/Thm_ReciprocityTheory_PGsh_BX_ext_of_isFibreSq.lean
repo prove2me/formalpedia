@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_ext_of_isFibreSq
 -- name    : ReciprocityTheory.PGsh.BX.ext_of_isFibreSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:06:06.890195+00:00
 -- url     : https://prove2.me/theorems/56469255-48c3-4ed4-a00d-a59c3630071c

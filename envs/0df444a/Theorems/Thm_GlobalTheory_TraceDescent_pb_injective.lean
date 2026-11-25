@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceDescent_pb_injective
 -- name    : GlobalTheory.TraceDescent.pb_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:04:12.91108+00:00
 -- url     : https://prove2.me/theorems/b70bf7c7-64f3-50f1-9e53-b5786758b98f

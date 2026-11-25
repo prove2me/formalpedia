@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitFlip_mem_glLat
 -- name    : GlobalTheory.SplitFlip.mem_glLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:24:35.019071+00:00
 -- url     : https://prove2.me/theorems/20f96a3a-bc5e-55c3-b33a-05eba7a69e9d

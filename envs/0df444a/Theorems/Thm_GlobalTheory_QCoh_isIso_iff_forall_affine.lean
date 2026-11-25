@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isIso_iff_forall_affine
 -- name    : GlobalTheory.QCoh.isIso_iff_forall_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:18:51.110367+00:00
 -- url     : https://prove2.me/theorems/ef80c19c-43c7-5b5c-8ab6-5417ec4e0e9a

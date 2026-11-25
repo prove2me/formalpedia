@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_det_one_reduction_of_det_one
 -- name    : GlobalTheory.T.det_one_reduction_of_det_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:16.790498+00:00
 -- url     : https://prove2.me/theorems/25948767-6c13-4c88-b450-673f59238f35

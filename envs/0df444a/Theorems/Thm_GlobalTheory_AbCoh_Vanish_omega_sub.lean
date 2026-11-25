@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_Vanish_omega_sub
 -- name    : GlobalTheory.AbCoh.Vanish.omega_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:08:57.033922+00:00
 -- url     : https://prove2.me/theorems/8384af0c-1969-45a3-8882-4340ad1c7616

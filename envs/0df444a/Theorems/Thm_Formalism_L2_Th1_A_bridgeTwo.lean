@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_bridgeTwo
 -- name    : Formalism.L2.Th1.A.bridgeTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:49:17.986322+00:00
 -- url     : https://prove2.me/theorems/84017226-2e6f-5ef5-a106-1686e76a01dd

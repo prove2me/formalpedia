@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_mem_integer_Kloc
 -- name    : ReciprocityTheory.Neutral.Cmp.mem_integer_Kloc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:15:42.749987+00:00
 -- url     : https://prove2.me/theorems/761c0c52-fa01-43df-864b-247ebf8aaf96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupConGeometry_supcon_repulsion_index_sum
 -- name    : SupConGeometry.supcon_repulsion_index_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T01:12:07.215578+00:00
 -- url     : https://prove2.me/theorems/d8135369-4bdc-43b1-93b0-4741a221c435

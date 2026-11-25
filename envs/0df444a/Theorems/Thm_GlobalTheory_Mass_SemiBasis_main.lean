@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SemiBasis_main
 -- name    : GlobalTheory.Mass.SemiBasis.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:58.666048+00:00
 -- url     : https://prove2.me/theorems/97e0fc73-4991-4564-a250-ae92bb1b8d95

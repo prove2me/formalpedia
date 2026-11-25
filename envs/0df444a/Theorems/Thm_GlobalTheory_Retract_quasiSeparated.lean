@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_quasiSeparated
 -- name    : GlobalTheory.Retract.quasiSeparated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:20:06.60265+00:00
 -- url     : https://prove2.me/theorems/0b3bfd5f-8be7-4ceb-891b-81392f9c63f0

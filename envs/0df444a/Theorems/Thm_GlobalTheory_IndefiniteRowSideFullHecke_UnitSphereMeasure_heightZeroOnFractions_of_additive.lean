@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_UnitSphereMeasure_heightZeroOnFractions_of_additive
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.UnitSphereMeasure.heightZeroOnFractions_of_additive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:10:25.024686+00:00
 -- url     : https://prove2.me/theorems/9920ac0a-dde5-5947-99ee-7cd3333102d2

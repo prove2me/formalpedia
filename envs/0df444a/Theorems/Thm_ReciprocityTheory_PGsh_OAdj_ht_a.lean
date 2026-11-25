@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_OAdj_ht_a
 -- name    : ReciprocityTheory.PGsh.OAdj.ht_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:06:19.090964+00:00
 -- url     : https://prove2.me/theorems/a0b46fb9-a99f-4aac-9390-f8e2a24fa0da

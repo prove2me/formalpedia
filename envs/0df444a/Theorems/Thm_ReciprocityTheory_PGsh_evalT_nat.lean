@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_evalT_nat
 -- name    : ReciprocityTheory.PGsh.evalT_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:09:25.567984+00:00
 -- url     : https://prove2.me/theorems/e5c68a24-869a-51a6-a6d6-7ed2e6cfc740

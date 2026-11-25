@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_SiegelReframe_riem_eq_J
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.SiegelReframe.riem_eq_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:11:24.86401+00:00
 -- url     : https://prove2.me/theorems/e9531e86-14c1-4495-8aa2-eb4e04b17800

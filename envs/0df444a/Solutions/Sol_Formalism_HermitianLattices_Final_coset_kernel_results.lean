@@ -1,0 +1,103 @@
+-- Prove2me | solution 1 for Formalism.HermitianLattices.Final.coset_kernel_results
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T17:03:03.675372+00:00
+-- url     : https://prove2.me/submissions/a0c1839e-161b-4d21-b685-004bb641a52c
+
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_ConditionIffDualEqFunctional
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_FourierCommutesHeckeScalar
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_LengthQuotientBoundGeneral
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_LemmaCTwistRamified
+import Definitions.Def_Formalism_GL3MeanSquares_PrimeOrderRamificationResults
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_commuting_operators
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_consecutive_ratio_power_bound
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_coset_decomposition
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_exponent_loss_per_embedding
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_exponent_total_bound
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_fourier_commutes_hecke_scalar
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_fourier_jacobi_count
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_fourier_transform_kernel_surjective
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_hecke_kernel_scalar_invariance
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_interlacing_degree_difference
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_joint_coefficient_formula
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_kernel_description
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_length_average_bound
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_length_bound_under_twist
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_length_quotient_power_injective
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_length_quotient_twist_formula
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_linear_form_integrality_on_support
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_odd_half_shift_sign_dichotomy_bound
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_point_count_formula
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_primitive_orbit_functional_unique
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_quotient_length_embedding_bound
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_slope_kronecker_formula
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_sum_zero_lattice_spanning
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_supportVolumeIndex_statement
+import Theorems.Thm_Formalism_HermitianLattices_LocalLatticeBases_weaker_displayed_bound
+import Theorems.Thm_P2M_Formalism_HermitianLattices_LocalLatticeBases_kronecker_root_of_unity__f23bb266025f
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLattices Formalism.HermitianLattices.Final
+namespace Formalism.HermitianLattices.Final
+theorem _root_.solution :
+    Formalism.HermitianLattices.LocalLatticeBases.SumZeroLatticeSpanning ∧
+    Formalism.HermitianLattices.LocalLatticeBases.SlopeTensorProductAdditive ∧
+    Formalism.HermitianLattices.LocalLatticeBases.LemmaB'_avg ∧
+    Formalism.HermitianLattices.LocalLatticeBases.LemmaB'_twist ∧
+    Formalism.HermitianLattices.LocalLatticeBases.SupportCosetStructure ∧
+    Formalism.HermitianLattices.LocalLatticeBases.LinearFormIntegralityOnSupport ∧
+    Formalism.HermitianLattices.LocalLatticeBases.ExponentLossPerEmbedding ∧
+    Formalism.HermitianLattices.LocalLatticeBases.IndicatorKernelSum ∧
+    Formalism.HermitianLattices.LocalLatticeBases.NonintegralMatrixPreservesThirdOverlattice ∧
+    Formalism.HermitianLattices.LocalLatticeBases.SupportVolumeIndex ∧
+    Formalism.HermitianLattices.LocalLatticeBases.OddHalfShiftSignDichotomyBound ∧
+    Formalism.HermitianLattices.LocalLatticeBases.HeckeKernelScalarInvariance ∧
+    Formalism.HermitianLattices.LocalLatticeBases.HeckeProductCommutation ∧
+    Formalism.HermitianLattices.LocalLatticeBases.LengthQuotientPowerInjective ∧
+    Formalism.HermitianLattices.LocalLatticeBases.LengthQuotientTwistFormula ∧
+    Formalism.HermitianLattices.LocalLatticeBases.ConsecutiveRatioPowerBound ∧
+    Formalism.HermitianLattices.LocalLatticeBases.ExponentTotalBound ∧
+    Formalism.HermitianLattices.LocalLatticeBases.KroneckerRootOfUnity ∧
+    Formalism.HermitianLattices.LocalLatticeBases.InterlacingDegreeDifference ∧
+    Formalism.HermitianLattices.LocalLatticeBases.KernelDimensionCount ∧
+    Formalism.HermitianLattices.LocalLatticeBases.CharacterSumCancellation ∧
+    Formalism.HermitianLattices.LocalLatticeBases.PrimitiveOrbitFunctionalUnique ∧
+    Formalism.HermitianLattices.LocalLatticeBases.FourierCommutesHeckeScalar ∧
+    Formalism.HermitianLattices.LocalLatticeBases.FourierTransformKernelSurjective ∧
+    Formalism.HermitianLattices.LocalLatticeBases.QuotientLengthEmbeddingBound ∧
+    Formalism.HermitianLattices.LocalLatticeBases.Joint_coef :=
+  ⟨Formalism.HermitianLattices.LocalLatticeBases.sum_zero_lattice_spanning,
+   Formalism.HermitianLattices.LocalLatticeBases.slope_kronecker_formula,
+   Formalism.HermitianLattices.LocalLatticeBases.length_average_bound,
+   Formalism.HermitianLattices.LocalLatticeBases.length_bound_under_twist,
+   Formalism.HermitianLattices.LocalLatticeBases.coset_decomposition,
+   Formalism.HermitianLattices.LocalLatticeBases.linear_form_integrality_on_support,
+   Formalism.HermitianLattices.LocalLatticeBases.exponent_loss_per_embedding,
+   Formalism.HermitianLattices.LocalLatticeBases.kernel_description,
+   Formalism.HermitianLattices.LocalLatticeBases.weaker_displayed_bound,
+   Formalism.HermitianLattices.LocalLatticeBases.supportVolumeIndex_statement,
+   Formalism.HermitianLattices.LocalLatticeBases.odd_half_shift_sign_dichotomy_bound,
+   Formalism.HermitianLattices.LocalLatticeBases.hecke_kernel_scalar_invariance,
+   Formalism.HermitianLattices.LocalLatticeBases.commuting_operators,
+   Formalism.HermitianLattices.LocalLatticeBases.length_quotient_power_injective,
+   Formalism.HermitianLattices.LocalLatticeBases.length_quotient_twist_formula,
+   Formalism.HermitianLattices.LocalLatticeBases.consecutive_ratio_power_bound,
+   Formalism.HermitianLattices.LocalLatticeBases.exponent_total_bound,
+   Formalism.HermitianLattices.LocalLatticeBases.kronecker_root_of_unity',
+   Formalism.HermitianLattices.LocalLatticeBases.interlacing_degree_difference,
+   Formalism.HermitianLattices.LocalLatticeBases.point_count_formula,
+   Formalism.HermitianLattices.LocalLatticeBases.fourier_jacobi_count,
+   Formalism.HermitianLattices.LocalLatticeBases.primitive_orbit_functional_unique,
+   Formalism.HermitianLattices.LocalLatticeBases.fourier_commutes_hecke_scalar,
+   Formalism.HermitianLattices.LocalLatticeBases.fourier_transform_kernel_surjective,
+   Formalism.HermitianLattices.LocalLatticeBases.quotient_length_embedding_bound,
+   Formalism.HermitianLattices.LocalLatticeBases.joint_coefficient_formula⟩
+end Formalism.HermitianLattices.Final

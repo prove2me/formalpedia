@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_exists_isValChar_K
 -- name    : GlobalTheory.CMVal.Model.exists_isValChar_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:01.943986+00:00
 -- url     : https://prove2.me/theorems/960443bd-fca6-41b0-8327-d48297f13e4c

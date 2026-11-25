@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MvPoly_exists_reduced_basis_integralPart
 -- name    : GlobalTheory.MvPoly.exists_reduced_basis_integralPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:36.227959+00:00
 -- url     : https://prove2.me/theorems/817ac87d-f0c9-5b08-ad91-de2c0297d58a

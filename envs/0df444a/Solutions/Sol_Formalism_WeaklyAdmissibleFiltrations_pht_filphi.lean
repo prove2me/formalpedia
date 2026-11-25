@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.WeaklyAdmissibleFiltrations.pht_filphi
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T17:36:29.345596+00:00
+-- url     : https://prove2.me/submissions/809bf294-16da-4fde-b90f-ae4fdffe92c4
+
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_Window
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_JumpsPFilAntitoneOfLe
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_RankOne
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_ExwaFiltrationNegOneEqSpanSingle
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_Galois
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_TrivCrys
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_ExLattice
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_ExistsPeriodRingDataHolds
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_WachCol
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_LiftGal
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_NegJumps
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_DPotCrisStableAndExistsPotentiallyCrystallineDat
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_CrystallineStableLifts_WindowCountIcoTelescope
+import Definitions.Def_Formalism_WeaklyAdmissibleFiltrations_PhtGalois
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_exWA
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_hodgeDegreeWindow_and_multiplicitySum
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_jumpsIcc_and_subTopBot
+import Theorems.Thm_Formalism_WeaklyAdmissibleFiltrations_rankOneWA
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.WeaklyAdmissibleFiltrations
+namespace Formalism.WeaklyAdmissibleFiltrations
+theorem _root_.solution : THWindow ∧ DimSum ∧ JumpsIcc ∧ SubTopBot ∧ RankOneWA ∧ ExWA :=
+  ⟨hodgeDegreeWindow_and_multiplicitySum.1, hodgeDegreeWindow_and_multiplicitySum.2, jumpsIcc_and_subTopBot.1, jumpsIcc_and_subTopBot.2, rankOneWA,
+    exWA⟩
+end Formalism.WeaklyAdmissibleFiltrations

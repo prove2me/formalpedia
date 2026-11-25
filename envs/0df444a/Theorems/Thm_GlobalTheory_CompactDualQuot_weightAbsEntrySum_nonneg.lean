@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompactDualQuot_weightAbsEntrySum_nonneg
 -- name    : GlobalTheory.CompactDualQuot.weightAbsEntrySum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:01:31.624803+00:00
 -- url     : https://prove2.me/theorems/e7b44434-fcba-5edd-9c68-9305e0f04dbf

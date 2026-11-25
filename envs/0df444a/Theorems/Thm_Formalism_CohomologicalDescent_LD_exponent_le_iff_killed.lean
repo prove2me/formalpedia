@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_exponent_le_iff_killed
 -- name    : Formalism.CohomologicalDescent.LD.exponent_le_iff_killed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:23:18.046828+00:00
 -- url     : https://prove2.me/theorems/2f72e23d-fc1c-4e50-86a2-9382b20842df

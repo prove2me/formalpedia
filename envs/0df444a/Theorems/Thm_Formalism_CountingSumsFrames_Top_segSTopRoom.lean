@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_Top_segSTopRoom
 -- name    : Formalism.CountingSumsFrames.Top.segSTopRoom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:24:18.322399+00:00
 -- url     : https://prove2.me/theorems/bc68b0a7-8209-416c-8596-8f3789271e9c

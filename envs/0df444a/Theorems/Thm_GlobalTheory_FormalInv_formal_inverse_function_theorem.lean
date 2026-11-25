@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalInv_formal_inverse_function_theorem
 -- name    : GlobalTheory.FormalInv.formal_inverse_function_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:28.644841+00:00
 -- url     : https://prove2.me/theorems/42325517-6046-4951-b910-aec51ea18685

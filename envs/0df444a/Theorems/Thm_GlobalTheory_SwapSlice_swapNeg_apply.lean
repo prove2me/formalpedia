@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SwapSlice_swapNeg_apply
 -- name    : GlobalTheory.SwapSlice.swapNeg_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:25:05.920813+00:00
 -- url     : https://prove2.me/theorems/f37a1b99-d58f-4200-8c81-66aa7327cad1

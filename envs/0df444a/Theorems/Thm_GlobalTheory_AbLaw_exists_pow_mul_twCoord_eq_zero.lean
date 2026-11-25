@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_exists_pow_mul_twCoord_eq_zero
 -- name    : GlobalTheory.AbLaw.exists_pow_mul_twCoord_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:53:54.824674+00:00
 -- url     : https://prove2.me/theorems/4889a4ba-064f-428e-80d3-552f5aa01323

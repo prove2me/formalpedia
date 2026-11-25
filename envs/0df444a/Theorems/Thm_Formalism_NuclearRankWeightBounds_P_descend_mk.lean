@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NuclearRankWeightBounds_P_descend_mk
 -- name    : Formalism.NuclearRankWeightBounds.P.descend_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:47.843519+00:00
 -- url     : https://prove2.me/theorems/9ed66301-8d43-57f8-8ae3-9e1bad154f31

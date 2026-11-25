@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_schur_orthogonality_idempotent
 -- name    : schur_orthogonality_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:16:56.620362+00:00
 -- url     : https://prove2.me/theorems/7a3b2a33-3b8e-4522-9afd-d7f0d0e02e4d

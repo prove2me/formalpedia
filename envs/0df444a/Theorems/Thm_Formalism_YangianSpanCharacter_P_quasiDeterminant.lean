@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_quasiDeterminant
 -- name    : Formalism.YangianSpanCharacter.P.quasiDeterminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:34.92907+00:00
 -- url     : https://prove2.me/theorems/037cfd40-4482-4463-a4cd-2a46fc013764

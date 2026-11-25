@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_exact_comp
 -- name    : GlobalTheory.AbCoh.exact_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:04:21.389502+00:00
 -- url     : https://prove2.me/theorems/1ec2f1e4-86f5-51e0-9640-e085e23c89ae

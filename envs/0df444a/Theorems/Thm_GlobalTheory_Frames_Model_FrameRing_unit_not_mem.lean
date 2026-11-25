@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_FrameRing_unit_not_mem
 -- name    : GlobalTheory.Frames.Model.FrameRing.unit_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:47.775207+00:00
 -- url     : https://prove2.me/theorems/84e3bef2-fafc-5653-9697-e3e59ef66726

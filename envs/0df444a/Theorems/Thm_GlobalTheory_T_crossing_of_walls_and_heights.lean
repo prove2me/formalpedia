@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_crossing_of_walls_and_heights
 -- name    : GlobalTheory.T.crossing_of_walls_and_heights
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:58.219074+00:00
 -- url     : https://prove2.me/theorems/d0959c91-2816-42a4-ac51-387c0d1375b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_isUnit_det_stdJ
 -- name    : ReciprocityTheory.PGsh.isUnit_det_stdJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:09:48.605414+00:00
 -- url     : https://prove2.me/theorems/95f13bee-cb44-4723-831c-71e746c7449a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_derivation_family_cotangent_basis
 -- name    : GlobalTheory.T.derivation_family_cotangent_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:27:52.533609+00:00
 -- url     : https://prove2.me/theorems/c0ce5f38-decc-5aa0-9b77-e4669c6d7686

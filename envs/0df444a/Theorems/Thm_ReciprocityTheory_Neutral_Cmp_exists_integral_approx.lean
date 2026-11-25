@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Cmp_exists_integral_approx
 -- name    : ReciprocityTheory.Neutral.Cmp.exists_integral_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:07:36.702256+00:00
 -- url     : https://prove2.me/theorems/6fd7a470-6244-4516-8855-967fd46aff60

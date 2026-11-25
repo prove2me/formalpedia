@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExistsPrimeMem_exists_prime_mem
 -- name    : GlobalTheory.ExistsPrimeMem.exists_prime_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:48.13386+00:00
 -- url     : https://prove2.me/theorems/f8aacbdb-801d-5672-9ca4-e35043fe94c4

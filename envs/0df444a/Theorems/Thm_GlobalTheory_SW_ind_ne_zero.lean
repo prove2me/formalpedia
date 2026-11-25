@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ind_ne_zero
 -- name    : GlobalTheory.SW.ind_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:21:45.292412+00:00
 -- url     : https://prove2.me/theorems/8fe10fee-5e06-509b-ad9f-720ad4b9caab

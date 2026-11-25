@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weilIs_local_on_base_of_openCover
 -- name    : GlobalTheory.T.weilIs_local_on_base_of_openCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:01:36.407375+00:00
 -- url     : https://prove2.me/theorems/63aba0f8-a8c7-4cbb-aedf-631614d041cb

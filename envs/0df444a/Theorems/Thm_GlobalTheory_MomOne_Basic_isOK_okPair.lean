@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Basic_isOK_okPair
 -- name    : GlobalTheory.MomOne.Basic.isOK_okPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:18.074257+00:00
 -- url     : https://prove2.me/theorems/b8ba670c-ef0f-496d-8ec9-5d0fbb479def

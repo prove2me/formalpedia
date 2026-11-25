@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_idealSheaf_eq_iff
 -- name    : GlobalTheory.EffCartierData.idealSheaf_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:17:46.365099+00:00
 -- url     : https://prove2.me/theorems/b62e078a-eb38-5459-87fe-51c6bec3e15f

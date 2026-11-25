@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_exists_matrix_span_eq
 -- name    : ReciprocityTheory.PGsh.L2.exists_matrix_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:05:40.398915+00:00
 -- url     : https://prove2.me/theorems/5879c9f8-66b8-4c67-92e6-8a5b151c2098

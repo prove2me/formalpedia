@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_RepresentationBoundsCohomology_ringDataObjects_commonNonzero
 -- name    : Formalism.RepresentationBoundsCohomology.ringDataObjects.commonNonzero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:54:57.113398+00:00
 -- url     : https://prove2.me/theorems/c064c5bd-d24d-5f67-8d2d-bd1483d45c15

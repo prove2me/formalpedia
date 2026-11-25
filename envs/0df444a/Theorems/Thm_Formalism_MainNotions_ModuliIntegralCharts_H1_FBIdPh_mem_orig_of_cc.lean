@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FBIdPh_mem_orig_of_cc
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FBIdPh.mem_orig_of_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:50:53.705418+00:00
 -- url     : https://prove2.me/theorems/5fc50b13-bcbc-542f-9fb3-45f90f38ff58

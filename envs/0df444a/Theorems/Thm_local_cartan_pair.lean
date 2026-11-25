@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_local_cartan_pair
 -- name    : local_cartan_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:14:46.272187+00:00
 -- url     : https://prove2.me/theorems/099aa60c-941f-5df7-b771-ef0f0819d3be

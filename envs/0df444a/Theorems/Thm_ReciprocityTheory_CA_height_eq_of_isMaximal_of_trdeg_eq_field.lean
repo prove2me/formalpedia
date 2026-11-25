@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_eq_of_isMaximal_of_trdeg_eq_field
 -- name    : ReciprocityTheory.CA.height_eq_of_isMaximal_of_trdeg_eq_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:16:38.729097+00:00
 -- url     : https://prove2.me/theorems/5daf2a65-8f24-4516-b053-7cf72f214169

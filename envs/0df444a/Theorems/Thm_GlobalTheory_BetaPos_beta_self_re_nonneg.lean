@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaPos_beta_self_re_nonneg
 -- name    : GlobalTheory.BetaPos.beta_self_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:28.596256+00:00
 -- url     : https://prove2.me/theorems/237c0430-4977-42aa-8f00-351d82f42a65

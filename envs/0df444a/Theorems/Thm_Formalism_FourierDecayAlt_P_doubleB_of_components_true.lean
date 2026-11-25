@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_doubleB_of_components_true
 -- name    : Formalism.FourierDecayAlt.P.doubleB_of_components_true
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:30.938355+00:00
 -- url     : https://prove2.me/theorems/074e9632-2fbe-5991-8493-610b93e67a10

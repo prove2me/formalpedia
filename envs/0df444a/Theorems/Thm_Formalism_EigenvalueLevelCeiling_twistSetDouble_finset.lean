@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_twistSetDouble_finset
 -- name    : Formalism.EigenvalueLevelCeiling.twistSetDouble_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:28:38.766155+00:00
 -- url     : https://prove2.me/theorems/3b3ce15f-3201-4f02-bc4e-4aab4e8c6c50

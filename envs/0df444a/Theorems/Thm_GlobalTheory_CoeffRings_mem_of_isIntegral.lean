@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoeffRings_mem_of_isIntegral
 -- name    : GlobalTheory.CoeffRings.mem_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:42.691527+00:00
 -- url     : https://prove2.me/theorems/3560eec8-178d-58aa-a7cf-11d218524070

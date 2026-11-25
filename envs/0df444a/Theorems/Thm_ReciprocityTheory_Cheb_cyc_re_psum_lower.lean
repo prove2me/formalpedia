@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_cyc_re_psum_lower
 -- name    : ReciprocityTheory.Cheb.cyc_re_psum_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:49:45.941719+00:00
 -- url     : https://prove2.me/theorems/e61f36ac-4c62-4fdb-bc75-e3303e6611f2

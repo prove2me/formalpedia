@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RiemannThetaModel_riemannTheta_half_add_tau
 -- name    : GlobalTheory.RiemannThetaModel.riemannTheta_half_add_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:26.56186+00:00
 -- url     : https://prove2.me/theorems/eae159e9-b5a9-577f-83c6-02ce3a9b0d34

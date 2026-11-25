@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_LowSpanCombinations_admissible_zero
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.LowSpanCombinations.admissible_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:09:23.943432+00:00
 -- url     : https://prove2.me/theorems/f86e710a-1001-56e9-b13f-93c3dcf20fde

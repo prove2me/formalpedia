@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_exists_tq_baseChange
 -- name    : GlobalTheory.UU.exists_tq_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:58:46.234796+00:00
 -- url     : https://prove2.me/theorems/51203ef7-9ca0-47a7-9d48-82fb0a9bffe6

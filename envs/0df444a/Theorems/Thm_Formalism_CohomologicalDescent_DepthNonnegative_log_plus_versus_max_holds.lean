@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_log_plus_versus_max_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.log_plus_versus_max_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:24:02.692541+00:00
 -- url     : https://prove2.me/theorems/1bb34e2b-b1d5-48a4-979a-5e7fb4c2941d

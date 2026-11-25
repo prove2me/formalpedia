@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_Lam_sub
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.Lam_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:04.064998+00:00
 -- url     : https://prove2.me/theorems/7407476e-015c-4053-9079-f8e653fa15a1

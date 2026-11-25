@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_CompleteLocalNormalRings_IsCompleteLocalNormal_pair
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.CompleteLocalNormalRings.IsCompleteLocalNormal.pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:49.85049+00:00
 -- url     : https://prove2.me/theorems/95912784-c31b-4daf-a58f-bc4d93ab40d8

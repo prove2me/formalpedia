@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_uSerLattice
 -- name    : Formalism.L2.Th1.F.uSerLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:00:33.574436+00:00
 -- url     : https://prove2.me/theorems/5ba17e3e-c3c2-441c-8d7a-561b7fac383b

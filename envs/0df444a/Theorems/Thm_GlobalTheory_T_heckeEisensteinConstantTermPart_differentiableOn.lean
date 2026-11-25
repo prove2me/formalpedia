@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeEisensteinConstantTermPart_differentiableOn
 -- name    : GlobalTheory.T.heckeEisensteinConstantTermPart_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:43:16.923808+00:00
 -- url     : https://prove2.me/theorems/91f9e632-9367-445b-a519-94bb72ca9ac4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_oEv_eq
 -- name    : GlobalTheory.SelfDualLatticeCompare.oEv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:23:35.297563+00:00
 -- url     : https://prove2.me/theorems/ac37f6ce-ade9-41f0-84da-0b04012c5f3b

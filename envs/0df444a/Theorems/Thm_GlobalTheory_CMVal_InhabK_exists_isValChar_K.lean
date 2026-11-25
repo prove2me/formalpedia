@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_InhabK_exists_isValChar_K
 -- name    : GlobalTheory.CMVal.InhabK.exists_isValChar_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:58:12.148764+00:00
 -- url     : https://prove2.me/theorems/ce315a25-f831-56f2-9116-54081c47b866

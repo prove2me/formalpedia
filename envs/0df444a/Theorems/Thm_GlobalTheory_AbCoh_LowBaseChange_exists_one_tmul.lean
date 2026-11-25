@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_LowBaseChange_exists_one_tmul
 -- name    : GlobalTheory.AbCoh.LowBaseChange.exists_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:51:33.64493+00:00
 -- url     : https://prove2.me/theorems/a95abbf7-a1e0-4cd4-a44a-2d12a699f527

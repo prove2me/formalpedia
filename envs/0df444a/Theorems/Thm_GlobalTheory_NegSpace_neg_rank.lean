@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NegSpace_neg_rank
 -- name    : GlobalTheory.NegSpace.neg_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:41.989088+00:00
 -- url     : https://prove2.me/theorems/b8327162-c195-4063-81ba-fb0a30d06a26

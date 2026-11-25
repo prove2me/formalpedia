@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_axioms_from_systems
 -- name    : Formalism.FourierDecayAlt.P.axioms_from_systems
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:28:39.359812+00:00
 -- url     : https://prove2.me/theorems/46546bb8-f857-40ff-8059-97654cbe75b3

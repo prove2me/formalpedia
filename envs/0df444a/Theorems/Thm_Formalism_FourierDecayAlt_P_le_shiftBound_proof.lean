@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_le_shiftBound_proof
 -- name    : Formalism.FourierDecayAlt.P.le_shiftBound_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:32:54.211218+00:00
 -- url     : https://prove2.me/theorems/3d3c9a5a-3bb4-4fcd-8741-7a1cfc19ebe8

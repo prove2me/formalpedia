@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspRep_Irr_ofChar_inj
 -- name    : GlobalTheory.CuspRep.Irr.ofChar_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:03:32.151798+00:00
 -- url     : https://prove2.me/theorems/cca45909-de9e-571e-876f-b7435eed322a

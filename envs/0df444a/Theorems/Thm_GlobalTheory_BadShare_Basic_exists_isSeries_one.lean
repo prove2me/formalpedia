@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_Basic_exists_isSeries_one
 -- name    : GlobalTheory.BadShare.Basic.exists_isSeries_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:31.093727+00:00
 -- url     : https://prove2.me/theorems/77dfdf85-7170-49ef-834f-d21280236c05

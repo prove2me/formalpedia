@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_EigenLatticeFrames_isEigenBasisAt_frPt
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.EigenLatticeFrames.isEigenBasisAt_frPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:56.640152+00:00
 -- url     : https://prove2.me/theorems/73649ac9-aa8b-4311-95a1-783aee735a23

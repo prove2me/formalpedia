@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_deformation_multiplication
 -- name    : GlobalTheory.T.lattice_deformation_multiplication
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:52.41041+00:00
 -- url     : https://prove2.me/theorems/9e5c2f4d-53f8-459b-97a9-d76a97285999

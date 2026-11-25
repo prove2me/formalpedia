@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_firstBlockSubst_isHomogeneous
 -- name    : ReciprocityTheory.MultiplicativeHeights.firstBlockSubst_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:03:50.006427+00:00
 -- url     : https://prove2.me/theorems/7e869aa6-4a63-5f85-8774-33a395c0174b

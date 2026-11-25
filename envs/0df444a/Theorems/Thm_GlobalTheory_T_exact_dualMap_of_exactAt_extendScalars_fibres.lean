@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exact_dualMap_of_exactAt_extendScalars_fibres
 -- name    : GlobalTheory.T.exact_dualMap_of_exactAt_extendScalars_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:29:14.643548+00:00
 -- url     : https://prove2.me/theorems/d58454ed-c192-59e0-aa96-c4639a182042

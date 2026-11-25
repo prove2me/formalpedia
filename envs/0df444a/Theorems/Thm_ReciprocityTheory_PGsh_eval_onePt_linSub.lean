@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_eval_onePt_linSub
 -- name    : ReciprocityTheory.PGsh.eval_onePt_linSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:09:04.340899+00:00
 -- url     : https://prove2.me/theorems/baf230f5-939b-5d31-b4b8-52bd6a1bb9ab

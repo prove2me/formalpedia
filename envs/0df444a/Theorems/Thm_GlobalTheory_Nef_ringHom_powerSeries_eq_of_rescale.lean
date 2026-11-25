@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_ringHom_powerSeries_eq_of_rescale
 -- name    : GlobalTheory.Nef.ringHom_powerSeries_eq_of_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:36.213819+00:00
 -- url     : https://prove2.me/theorems/b8674b80-8bfe-4bd2-8915-4564e082c9d4

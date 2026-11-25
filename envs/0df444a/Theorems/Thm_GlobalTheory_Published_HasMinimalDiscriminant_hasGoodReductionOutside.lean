@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_HasMinimalDiscriminant_hasGoodReductionOutside
 -- name    : GlobalTheory.Published.HasMinimalDiscriminant.hasGoodReductionOutside
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:18.508241+00:00
 -- url     : https://prove2.me/theorems/f81120f0-634e-4d5a-93cb-f2543cb88e7f

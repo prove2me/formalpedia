@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_dAway_ext
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.dAway_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:03:39.245882+00:00
 -- url     : https://prove2.me/theorems/da1be9cc-fa4a-4392-9e91-7bd6d5b2c22d

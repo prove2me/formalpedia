@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_untilt_symm_ofRoots
 -- name    : ReciprocityTheory.PGsh.untilt_symm_ofRoots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:09:16.912144+00:00
 -- url     : https://prove2.me/theorems/df1a5218-34bc-5304-99c6-641cc722af8d

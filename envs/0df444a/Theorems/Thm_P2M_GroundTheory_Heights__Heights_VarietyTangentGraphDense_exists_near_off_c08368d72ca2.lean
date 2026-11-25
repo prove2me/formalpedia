@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_exists_near_off_c08368d72ca2
 -- name    : P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_exists_near_off_c08368d72ca2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:43:21.945371+00:00
 -- url     : https://prove2.me/theorems/78a0f72e-85b3-4d6c-8344-65ca27736cb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_valuation_le_exp_neg_card_inertia_of_inertia_fixed
 -- name    : GlobalTheory.T.valuation_le_exp_neg_card_inertia_of_inertia_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:40:34.590897+00:00
 -- url     : https://prove2.me/theorems/2de9c523-9280-46dd-9ec1-eeff99d5dfb2

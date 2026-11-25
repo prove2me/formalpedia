@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_Rd_log_norm_cyc
 -- name    : Formalism.HC.Der.Rd.log_norm_cyc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:36:20.309803+00:00
 -- url     : https://prove2.me/theorems/7d1b88e0-5c71-4a13-a9a9-9bc21a5b429c

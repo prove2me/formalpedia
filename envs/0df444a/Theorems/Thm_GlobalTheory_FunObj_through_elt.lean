@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_through_elt
 -- name    : GlobalTheory.FunObj.through_elt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:08.79555+00:00
 -- url     : https://prove2.me/theorems/0df2f400-d533-4472-a958-5555a5a22d6c

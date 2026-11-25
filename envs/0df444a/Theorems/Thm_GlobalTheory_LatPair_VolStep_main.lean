@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_VolStep_main
 -- name    : GlobalTheory.LatPair.VolStep.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:13:22.216636+00:00
 -- url     : https://prove2.me/theorems/1d72ffb0-6252-463d-8d50-8bb8030b7b99

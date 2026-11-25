@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairOp_pairOperatorStatement
 -- name    : GlobalTheory.PairOp.pairOperatorStatement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:15:31.402737+00:00
 -- url     : https://prove2.me/theorems/aa5f5927-030a-4fca-8793-1e963e816c32

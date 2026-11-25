@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_isCompl_diagSub_antiSub
 -- name    : GlobalTheory.Doubling.isCompl_diagSub_antiSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:05.67553+00:00
 -- url     : https://prove2.me/theorems/3751ad28-3ecc-4a77-aae1-fc5792e0f601

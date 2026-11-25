@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoDesc_kap_injective
 -- name    : GlobalTheory.IsoDesc.kap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:55:51.351444+00:00
 -- url     : https://prove2.me/theorems/c87344cc-5096-4880-9f95-827018682328

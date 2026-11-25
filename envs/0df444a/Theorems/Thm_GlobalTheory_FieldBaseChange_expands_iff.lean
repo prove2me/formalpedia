@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FieldBaseChange_expands_iff
 -- name    : GlobalTheory.FieldBaseChange.expands_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:48:16.38783+00:00
 -- url     : https://prove2.me/theorems/9df57690-4886-402f-a992-7aa2c57522c3

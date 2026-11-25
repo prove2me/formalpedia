@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_NormFactorThetaValue_one_inZ
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.NormFactorThetaValue.one_inZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:09:30.065017+00:00
 -- url     : https://prove2.me/theorems/ca351fc3-0a15-5083-a62e-6b38b2acb065

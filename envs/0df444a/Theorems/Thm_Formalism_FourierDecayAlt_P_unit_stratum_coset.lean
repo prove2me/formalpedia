@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unit_stratum_coset
 -- name    : Formalism.FourierDecayAlt.P.unit_stratum_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:36:30.235693+00:00
 -- url     : https://prove2.me/theorems/c08215fb-eb88-4b6e-99f9-dc05438a75f8

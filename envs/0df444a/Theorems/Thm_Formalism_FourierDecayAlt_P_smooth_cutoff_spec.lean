@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_smooth_cutoff_spec
 -- name    : Formalism.FourierDecayAlt.P.smooth_cutoff_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:34:53.737979+00:00
 -- url     : https://prove2.me/theorems/bf07e5b2-4135-46c2-90ef-ca257144d40f

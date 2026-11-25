@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_log_card_quot_span_eq_finsum_log_norm_embeddings
 -- name    : GlobalTheory.T.log_card_quot_span_eq_finsum_log_norm_embeddings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:12.517824+00:00
 -- url     : https://prove2.me/theorems/5cf320d8-4501-57cf-bb3a-0d6cb4515a0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_HtC_congr
 -- name    : ReciprocityTheory.PGsh.BX.HtC_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:06.977123+00:00
 -- url     : https://prove2.me/theorems/f34dfe8f-2ea0-58d9-83e8-393e99649c92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_quotCard
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.quotCard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:57.077342+00:00
 -- url     : https://prove2.me/theorems/fe460389-3a01-5d4c-b352-ba93ae455a21

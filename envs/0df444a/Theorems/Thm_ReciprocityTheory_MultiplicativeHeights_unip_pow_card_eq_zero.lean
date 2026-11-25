@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_unip_pow_card_eq_zero
 -- name    : ReciprocityTheory.MultiplicativeHeights.unip_pow_card_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:01.243794+00:00
 -- url     : https://prove2.me/theorems/24d3a881-95af-50a1-b56e-be3363505e93

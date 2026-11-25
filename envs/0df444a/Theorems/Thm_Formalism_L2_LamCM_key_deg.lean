@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_key_deg
 -- name    : Formalism.L2.LamCM.key_deg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:35.624088+00:00
 -- url     : https://prove2.me/theorems/47611649-b956-4f13-b3a7-5aa08961f3bc

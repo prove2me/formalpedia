@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_ChartLeviThGe_compat_chart_63c19b4cc322
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_ChartLeviThGe_compat_chart_63c19b4cc322
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:51:34.11636+00:00
 -- url     : https://prove2.me/theorems/cfcc05cc-7b9a-462f-bd65-061f6f4e8ba2

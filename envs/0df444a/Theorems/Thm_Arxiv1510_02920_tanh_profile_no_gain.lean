@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1510_02920_tanh_profile_no_gain
 -- name    : Arxiv1510_02920.tanh_profile_no_gain
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T02:10:56.078517+00:00
 -- url     : https://prove2.me/theorems/02d8c094-2cee-4509-9b61-9098f8a0cd30

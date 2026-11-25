@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_absDet_holds
 -- name    : ReciprocityTheory.MultiplicativeHeights.absDet_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:04:25.428799+00:00
 -- url     : https://prove2.me/theorems/4c9f72e3-3791-43d5-8506-7242edf4a810

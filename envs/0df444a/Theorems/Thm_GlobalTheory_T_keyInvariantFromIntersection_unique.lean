@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_keyInvariantFromIntersection_unique
 -- name    : GlobalTheory.T.keyInvariantFromIntersection_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:48:11.740247+00:00
 -- url     : https://prove2.me/theorems/1f759845-64fc-43c4-b3bd-47e2838c5152

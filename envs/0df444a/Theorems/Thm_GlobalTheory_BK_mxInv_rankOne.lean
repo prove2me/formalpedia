@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_mxInv_rankOne
 -- name    : GlobalTheory.BK.mxInv_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:56:17.642419+00:00
 -- url     : https://prove2.me/theorems/4bc5b154-dae2-4569-b004-e56613c787c0

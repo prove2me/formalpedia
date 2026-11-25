@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SeriesValue_exists_common
 -- name    : GlobalTheory.SeriesValue.exists_common
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:48:38.212127+00:00
 -- url     : https://prove2.me/theorems/464350a1-1be6-45cb-8408-7db41336401e

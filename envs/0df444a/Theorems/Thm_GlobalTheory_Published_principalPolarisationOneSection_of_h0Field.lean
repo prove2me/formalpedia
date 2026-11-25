@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_principalPolarisationOneSection_of_h0Field
 -- name    : GlobalTheory.Published.principalPolarisationOneSection.of_h0Field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:23:10.175858+00:00
 -- url     : https://prove2.me/theorems/e1af1114-c764-43ec-9c59-7b01a1570ba5

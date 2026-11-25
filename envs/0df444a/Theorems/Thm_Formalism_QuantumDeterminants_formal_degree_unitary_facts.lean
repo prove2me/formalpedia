@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_formal_degree_unitary_facts
 -- name    : Formalism.QuantumDeterminants.formal_degree_unitary_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:52:12.610973+00:00
 -- url     : https://prove2.me/theorems/262edec4-103f-5c9c-be37-a0cd84779c28

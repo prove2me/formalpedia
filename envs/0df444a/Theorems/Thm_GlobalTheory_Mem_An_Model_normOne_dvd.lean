@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_Model_normOne_dvd
 -- name    : GlobalTheory.Mem.An.Model.normOne_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:58.595771+00:00
 -- url     : https://prove2.me/theorems/3bba717b-16a5-41c8-9a27-cdb89062ede6

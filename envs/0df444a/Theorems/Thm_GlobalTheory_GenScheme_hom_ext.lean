@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenScheme_hom_ext
 -- name    : GlobalTheory.GenScheme.hom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:28:15.166304+00:00
 -- url     : https://prove2.me/theorems/380fe881-c448-5e40-9011-4dc2369afaa3

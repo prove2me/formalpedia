@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_of_agree_on_affineOpen_generators
 -- name    : GlobalTheory.T.eq_of_agree_on_affineOpen_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:28:14.495531+00:00
 -- url     : https://prove2.me/theorems/88d1146d-6e64-5db8-bc0f-e63c239023c5

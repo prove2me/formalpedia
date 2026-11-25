@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_product_of_exponent_max
 -- name    : Formalism.FourierDecayAlt.P.product_of_exponent_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:13.295833+00:00
 -- url     : https://prove2.me/theorems/68212cee-18d6-547c-8e2f-e28a63b078b7

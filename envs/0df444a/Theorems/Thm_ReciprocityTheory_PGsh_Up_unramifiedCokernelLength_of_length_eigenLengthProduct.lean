@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_unramifiedCokernelLength_of_length_eigenLengthProduct
 -- name    : ReciprocityTheory.PGsh.Up.unramifiedCokernelLength_of_length_eigenLengthProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:09:18.89245+00:00
 -- url     : https://prove2.me/theorems/4d5e2634-39cd-5d92-838c-5083e1e68583

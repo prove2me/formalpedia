@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_card_withLat_eq_card_withKer
 -- name    : GlobalTheory.LatPair.card_withLat_eq_card_withKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:13:23.847425+00:00
 -- url     : https://prove2.me/theorems/13aba698-fc2c-40aa-a009-4fea0daf9bfe

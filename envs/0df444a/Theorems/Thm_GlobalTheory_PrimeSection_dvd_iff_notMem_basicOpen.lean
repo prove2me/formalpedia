@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeSection_dvd_iff_notMem_basicOpen
 -- name    : GlobalTheory.PrimeSection.dvd_iff_notMem_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:16:27.577355+00:00
 -- url     : https://prove2.me/theorems/171a9661-659c-5218-98fd-c2d93eb14303

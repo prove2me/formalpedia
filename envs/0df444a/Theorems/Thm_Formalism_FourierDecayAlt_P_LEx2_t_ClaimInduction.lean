@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_t_ClaimInduction
 -- name    : Formalism.FourierDecayAlt.P.LEx2.t_ClaimInduction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:27:09.874375+00:00
 -- url     : https://prove2.me/theorems/f1279462-2fd0-457e-ad8c-f887803e3e17

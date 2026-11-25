@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_G_WittPI_wittIdentity_holds
 -- name    : Formalism.MainNotions.G.WittPI.wittIdentity_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:52:06.831796+00:00
 -- url     : https://prove2.me/theorems/aa9e5cd4-0a59-59a2-a338-e431a49a20a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_norm_eq_one_of_star_mul
 -- name    : UpperTheory.Mu.norm_eq_one_of_star_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:12:14.16667+00:00
 -- url     : https://prove2.me/theorems/9bd8dd11-5594-4b40-b924-27277a02a8aa

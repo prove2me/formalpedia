@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iInf_sup_pow_eq_of_adic_compatible_ideals
 -- name    : GlobalTheory.T.iInf_sup_pow_eq_of_adic_compatible_ideals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:25.898352+00:00
 -- url     : https://prove2.me/theorems/8884ff32-8bdb-4367-bdb4-b21560b4e9fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_bwp_finite_det_line
 -- name    : ReciprocityTheory.MultiplicativeHeights.bwp_finite_det_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:03:54.255442+00:00
 -- url     : https://prove2.me/theorems/dbbf0c8d-8d75-4145-8238-f265c074164e

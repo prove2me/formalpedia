@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_gelfand_tsetlin_top_coeff
 -- name    : gelfand_tsetlin_top_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:24:33.154854+00:00
 -- url     : https://prove2.me/theorems/ac7315af-b407-56bc-813e-ec641f1a0b54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_TateInh_not_allMatch_rank_zero
 -- name    : GlobalTheory.Ex.TateInh.not_allMatch_rank_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:04:54.598093+00:00
 -- url     : https://prove2.me/theorems/87f15c78-eb37-5474-9e39-c681df1d4e9d

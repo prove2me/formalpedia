@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_fockR_smul_right
 -- name    : Formalism.L2.G.Model.TS.fockR_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:46:05.380537+00:00
 -- url     : https://prove2.me/theorems/c8ee429a-67b4-45e1-97b6-15be7f0de2f4

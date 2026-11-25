@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_coeff_zero_rowSubst
 -- name    : ReciprocityTheory.PGsh.coeff_zero_rowSubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:08:58.394955+00:00
 -- url     : https://prove2.me/theorems/db1f2e4b-2e27-5309-b260-6275f34501b9

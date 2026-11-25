@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_GL_inv_mul_congr_one_mod_uniformizer
 -- name    : GlobalTheory.T.GL_inv_mul_congr_one_mod_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:25:36.324326+00:00
 -- url     : https://prove2.me/theorems/fcb6cb90-98de-5cfb-82e0-ad8ff702268e

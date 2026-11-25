@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecSpread_res_mem_secOn
 -- name    : GlobalTheory.SecSpread.res_mem_secOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:57:20.468015+00:00
 -- url     : https://prove2.me/theorems/2043b32f-6244-4010-a832-e0cc82182f40

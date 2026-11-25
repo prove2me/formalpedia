@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermWitt_congr_of_fromBlocks_congr_cc
 -- name    : GlobalTheory.HermWitt.congr_of_fromBlocks_congr_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:30.020058+00:00
 -- url     : https://prove2.me/theorems/e435c61c-44a5-4440-b168-c884fc69c6d5

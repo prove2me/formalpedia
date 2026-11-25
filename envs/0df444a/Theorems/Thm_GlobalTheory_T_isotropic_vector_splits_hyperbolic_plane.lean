@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isotropic_vector_splits_hyperbolic_plane
 -- name    : GlobalTheory.T.isotropic_vector_splits_hyperbolic_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:29.052747+00:00
 -- url     : https://prove2.me/theorems/528b7f7b-90c5-46f9-becf-fd2138860385

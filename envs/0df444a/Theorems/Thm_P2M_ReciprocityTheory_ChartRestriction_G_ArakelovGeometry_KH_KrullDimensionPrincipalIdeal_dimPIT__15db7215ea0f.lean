@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_KH_KrullDimensionPrincipalIdeal_dimPIT__15db7215ea0f
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_KH_KrullDimensionPrincipalIdeal_dimPIT__15db7215ea0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:14:52.818564+00:00
 -- url     : https://prove2.me/theorems/66b3c80d-f365-5054-8462-e8ac4c8cad8f

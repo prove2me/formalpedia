@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_LawD_constantCoeff_partialYAtZero
 -- name    : ReciprocityTheory.ChartRestriction.L1.LawD.constantCoeff_partialYAtZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:44:18.98837+00:00
 -- url     : https://prove2.me/theorems/73693bd5-ca0e-5b32-b924-416d0005f000

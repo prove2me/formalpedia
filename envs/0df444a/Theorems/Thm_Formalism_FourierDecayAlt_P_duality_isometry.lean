@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_duality_isometry
 -- name    : Formalism.FourierDecayAlt.P.duality_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:29:21.51531+00:00
 -- url     : https://prove2.me/theorems/d993d9f8-ff0f-46e5-a7ee-95256a2cc3fd

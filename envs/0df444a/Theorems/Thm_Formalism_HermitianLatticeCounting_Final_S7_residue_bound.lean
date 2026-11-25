@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S7_residue_bound
 -- name    : Formalism.HermitianLatticeCounting.Final.S7.residue_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:21:14.78388+00:00
 -- url     : https://prove2.me/theorems/30101d3c-54eb-4ec9-b7a0-a2687bc6f210

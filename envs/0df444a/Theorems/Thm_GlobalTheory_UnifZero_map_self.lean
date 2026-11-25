@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifZero_map_self
 -- name    : GlobalTheory.UnifZero.map_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:03:12.84874+00:00
 -- url     : https://prove2.me/theorems/42d87157-98bd-4e2e-8b9e-02503bd9fd22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Ediv_mem_Fil
 -- name    : GlobalTheory.BK.Ediv_mem_Fil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:55:30.603783+00:00
 -- url     : https://prove2.me/theorems/35f2068b-e679-50eb-9199-8084cbf2d6d9

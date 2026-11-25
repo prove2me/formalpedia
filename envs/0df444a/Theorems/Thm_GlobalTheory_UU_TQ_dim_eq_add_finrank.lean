@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_TQ_dim_eq_add_finrank
 -- name    : GlobalTheory.UU.TQ.dim_eq_add_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:00:19.272307+00:00
 -- url     : https://prove2.me/theorems/d34c3b40-9c67-4dcf-92fb-1384b56fbd93

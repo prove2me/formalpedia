@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_form_ideal_generates_dual_vector
 -- name    : GlobalTheory.T.lattice_form_ideal_generates_dual_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:29.890185+00:00
 -- url     : https://prove2.me/theorems/a5bd8dae-c0d5-5aba-b5b7-8734672f111a

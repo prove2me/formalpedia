@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Coh_low_degree_long_exact_sequence
 -- name    : ReciprocityTheory.Coh.low_degree_long_exact_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:52:24.825926+00:00
 -- url     : https://prove2.me/theorems/264e4fdb-d162-57e5-8038-fa0129c367f8

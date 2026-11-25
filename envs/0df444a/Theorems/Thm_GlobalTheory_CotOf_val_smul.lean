@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CotOf_val_smul
 -- name    : GlobalTheory.CotOf.val_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:03:25.150309+00:00
 -- url     : https://prove2.me/theorems/1d6d27e8-46fa-41c5-b546-90109a9ac812

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_exists_cover
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.exists_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:24:48.857539+00:00
 -- url     : https://prove2.me/theorems/36ac4d97-c801-4dc7-bdbc-b96503df7d9a

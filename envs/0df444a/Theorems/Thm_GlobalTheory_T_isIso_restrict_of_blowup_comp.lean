@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isIso_restrict_of_blowup_comp
 -- name    : GlobalTheory.T.isIso_restrict_of_blowup_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:35:01.196887+00:00
 -- url     : https://prove2.me/theorems/4cc43b6b-67fb-544a-a8f9-dc7250b4faa1

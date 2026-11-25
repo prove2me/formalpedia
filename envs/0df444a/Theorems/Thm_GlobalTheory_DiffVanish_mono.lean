@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffVanish_mono
 -- name    : GlobalTheory.DiffVanish.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:04:12.772805+00:00
 -- url     : https://prove2.me/theorems/7ef26bf7-4618-4638-958f-4e65697fec7d

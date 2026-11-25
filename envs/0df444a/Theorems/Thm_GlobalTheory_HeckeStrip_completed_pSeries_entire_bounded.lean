@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeStrip_completed_pSeries_entire_bounded
 -- name    : GlobalTheory.HeckeStrip.completed_pSeries_entire_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:06:05.61615+00:00
 -- url     : https://prove2.me/theorems/ba3c392e-1b6f-4d4f-9987-502267fb87e5

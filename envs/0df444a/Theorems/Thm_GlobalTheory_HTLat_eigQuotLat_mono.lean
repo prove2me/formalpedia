@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HTLat_eigQuotLat_mono
 -- name    : GlobalTheory.HTLat.eigQuotLat_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:07:10.507808+00:00
 -- url     : https://prove2.me/theorems/87c3621f-1b17-40ab-aa71-19fb79483443

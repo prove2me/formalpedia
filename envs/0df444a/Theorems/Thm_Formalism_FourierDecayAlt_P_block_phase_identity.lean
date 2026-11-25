@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_block_phase_identity
 -- name    : Formalism.FourierDecayAlt.P.block_phase_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:29:09.245622+00:00
 -- url     : https://prove2.me/theorems/5e9446b2-aa1c-484c-9aec-a1f74857fc26

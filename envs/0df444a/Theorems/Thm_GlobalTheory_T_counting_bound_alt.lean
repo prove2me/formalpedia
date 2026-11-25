@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_counting_bound_alt
 -- name    : GlobalTheory.T.counting_bound_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:28:12.778485+00:00
 -- url     : https://prove2.me/theorems/b697f818-c004-465d-af66-4d50225ef4b9

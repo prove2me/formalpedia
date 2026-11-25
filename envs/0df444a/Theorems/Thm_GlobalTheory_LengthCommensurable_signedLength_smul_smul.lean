@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_signedLength_smul_smul
 -- name    : GlobalTheory.LengthCommensurable.signedLength_smul_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:13:02.976396+00:00
 -- url     : https://prove2.me/theorems/4a6c1fd1-50f8-574d-9032-a1451e8cf891

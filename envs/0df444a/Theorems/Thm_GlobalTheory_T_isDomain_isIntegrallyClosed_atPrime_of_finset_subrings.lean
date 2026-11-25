@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isDomain_isIntegrallyClosed_atPrime_of_finset_subrings
 -- name    : GlobalTheory.T.isDomain_isIntegrallyClosed_atPrime_of_finset_subrings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:34:21.6768+00:00
 -- url     : https://prove2.me/theorems/4051eded-7e63-4f16-a4f4-9d6453de00a2

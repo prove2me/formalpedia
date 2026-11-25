@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_p_mem_nonZeroDivisors
 -- name    : ReciprocityTheory.PGsh.p_mem_nonZeroDivisors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:32.443927+00:00
 -- url     : https://prove2.me/theorems/594f0cbd-3b96-44ed-b68e-71e1cf5a2a03

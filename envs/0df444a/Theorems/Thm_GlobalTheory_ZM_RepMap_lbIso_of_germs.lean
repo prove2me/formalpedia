@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_RepMap_lbIso_of_germs
 -- name    : GlobalTheory.ZM.RepMap.lbIso_of_germs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:58:11.603328+00:00
 -- url     : https://prove2.me/theorems/c9ce494e-307d-5d5a-a883-b94928d8fc66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SelfDualLatticeCompare_xb_eq
 -- name    : GlobalTheory.SelfDualLatticeCompare.xb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:26:29.270265+00:00
 -- url     : https://prove2.me/theorems/84a61c2a-55a4-5674-995b-0b0d0561644f

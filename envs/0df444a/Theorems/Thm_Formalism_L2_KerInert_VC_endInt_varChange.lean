@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_KerInert_VC_endInt_varChange
 -- name    : Formalism.L2.KerInert.VC.endInt_varChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:46:17.741082+00:00
 -- url     : https://prove2.me/theorems/7435dd37-0420-41f5-a63a-cc8cba77e45e

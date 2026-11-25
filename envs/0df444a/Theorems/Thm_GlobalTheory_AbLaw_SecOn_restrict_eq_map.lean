@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOn_restrict_eq_map
 -- name    : GlobalTheory.AbLaw.SecOn.restrict_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:00:57.844379+00:00
 -- url     : https://prove2.me/theorems/b7139f85-3af7-52fb-a172-7383daddbc7b

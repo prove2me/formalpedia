@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiffVanish_exists_polynomial_int
 -- name    : GlobalTheory.DiffVanish.exists_polynomial_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:11.476927+00:00
 -- url     : https://prove2.me/theorems/810d9505-f732-4cfe-bef2-68a3fd248c2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_isVal_valSet
 -- name    : Formalism.L2.PjFree.isVal_valSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:49.104856+00:00
 -- url     : https://prove2.me/theorems/be3fe5c2-3ade-4cbf-893f-8ad52e56d211

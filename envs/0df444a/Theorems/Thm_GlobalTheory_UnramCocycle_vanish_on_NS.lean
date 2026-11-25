@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramCocycle_vanish_on_NS
 -- name    : GlobalTheory.UnramCocycle.vanish_on_NS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:47:03.650802+00:00
 -- url     : https://prove2.me/theorems/f350e5d5-f31f-4adc-8b48-aa5c5fafbf34

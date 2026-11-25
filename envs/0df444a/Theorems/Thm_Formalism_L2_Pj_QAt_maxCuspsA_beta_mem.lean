@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_maxCuspsA_beta_mem
 -- name    : Formalism.L2.Pj.QAt.maxCuspsA_beta_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:52.656407+00:00
 -- url     : https://prove2.me/theorems/87ce0efc-7264-44e3-b41e-562952b99e12

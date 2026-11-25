@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_binary_form_eq_mul_prod_linear
 -- name    : GlobalTheory.T.exists_binary_form_eq_mul_prod_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:28:59.002983+00:00
 -- url     : https://prove2.me/theorems/b4d4e591-a478-4665-9c87-7dc0692d6a83

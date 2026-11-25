@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relativeJacquet_piExteriorTensor_equiv_normalized
 -- name    : GlobalTheory.T.relativeJacquet_piExteriorTensor_equiv_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:13.510463+00:00
 -- url     : https://prove2.me/theorems/b616f2a4-708d-4203-ae01-a5e4a0333560

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowAlongIso_isGen_box
 -- name    : GlobalTheory.PowAlongIso.isGen_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:19:36.534849+00:00
 -- url     : https://prove2.me/theorems/ed1f7b30-cf0d-4723-ab0c-4a85196b202f

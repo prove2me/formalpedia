@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r24a_inv_norm_smul_mem_sphere
 -- name    : UpperTheory.Reformulated.B.P6.r24a.inv_norm_smul_mem_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:24.44869+00:00
 -- url     : https://prove2.me/theorems/f8f575d0-4318-5262-9468-5e3c96669d25

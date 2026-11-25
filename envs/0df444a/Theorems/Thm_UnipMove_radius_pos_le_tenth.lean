@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_radius_pos_le_tenth
 -- name    : UnipMove.radius_pos_le_tenth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:11:44.858802+00:00
 -- url     : https://prove2.me/theorems/b01dc674-e105-5b7f-be39-b193ae3762a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_unifInt
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.unifInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:59:17.406802+00:00
 -- url     : https://prove2.me/theorems/76644bcc-d5ca-50c1-80b7-10e31a671da0

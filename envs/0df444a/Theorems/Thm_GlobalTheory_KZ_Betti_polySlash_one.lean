@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KZ_Betti_polySlash_one
 -- name    : GlobalTheory.KZ.Betti.polySlash_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:11:54.901854+00:00
 -- url     : https://prove2.me/theorems/093251ec-32f7-577c-b2b6-4791edc84842

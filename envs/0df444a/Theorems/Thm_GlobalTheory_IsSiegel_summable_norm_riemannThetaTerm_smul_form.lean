@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_summable_norm_riemannThetaTerm_smul_form
 -- name    : GlobalTheory.IsSiegel.summable_norm_riemannThetaTerm_smul_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:11:23.013907+00:00
 -- url     : https://prove2.me/theorems/43a2707a-b128-439d-8fe5-0fff84cda38c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_sc_col_inj
 -- name    : ReciprocityTheory.MultiplicativeHeights.sc_col_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:05:03.925692+00:00
 -- url     : https://prove2.me/theorems/f9f921dd-63e3-54ca-97c9-08beeac2479e

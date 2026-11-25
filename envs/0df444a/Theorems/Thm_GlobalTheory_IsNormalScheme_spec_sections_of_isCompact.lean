@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsNormalScheme_spec_sections_of_isCompact
 -- name    : GlobalTheory.IsNormalScheme.spec_sections_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:11:06.155521+00:00
 -- url     : https://prove2.me/theorems/0229f47e-adc0-4743-9ed3-5c69e24cbe03

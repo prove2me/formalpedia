@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatDescent_isCompatible_baseChange
 -- name    : GlobalTheory.FlatDescent.isCompatible_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:21.562413+00:00
 -- url     : https://prove2.me/theorems/8b2df805-c7b1-4cf6-bb5a-d6e9e4197a54

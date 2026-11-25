@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rigidified_partialLineBundle_iso_cocycle
 -- name    : GlobalTheory.T.rigidified_partialLineBundle_iso_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:57:01.570813+00:00
 -- url     : https://prove2.me/theorems/b7ab60c2-04cf-4d4c-bc0d-e45760ba34a1

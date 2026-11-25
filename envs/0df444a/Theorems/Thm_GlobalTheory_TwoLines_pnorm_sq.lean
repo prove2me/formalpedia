@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_pnorm_sq
 -- name    : GlobalTheory.TwoLines.pnorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:13:01.264495+00:00
 -- url     : https://prove2.me/theorems/ab890050-f859-56ed-bbae-79d0304fc6a9

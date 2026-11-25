@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_eval_algebraMap_eq
 -- name    : Formalism.IrreducibleCountingLemmas.Z.eval_algebraMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:37.552344+00:00
 -- url     : https://prove2.me/theorems/7db0f642-4086-43d4-94af-62245b0d3622

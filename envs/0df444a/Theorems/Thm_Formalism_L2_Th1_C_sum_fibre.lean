@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_sum_fibre
 -- name    : Formalism.L2.Th1.C.sum_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:47:40.022932+00:00
 -- url     : https://prove2.me/theorems/3ef18a1d-d1a7-4c42-b340-8843b14fcc58

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_form_eq_combination_of_selfAdjoint_identity
 -- name    : GlobalTheory.T.hermitian_form_eq_combination_of_selfAdjoint_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:31.430815+00:00
 -- url     : https://prove2.me/theorems/754c0669-0748-4ac0-a3a9-3e4d6c79ab77

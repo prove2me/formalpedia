@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_EtaleWeightGaps_Hunt_redAs_coe
 -- name    : Formalism.MainNotions.Gaps.EtaleWeightGaps.Hunt.redAs_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:18.637344+00:00
 -- url     : https://prove2.me/theorems/5d3545d3-3da7-4c90-b489-ae440632db98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicVal_tendsto_of_null
 -- name    : GlobalTheory.PadicVal.tendsto_of_null
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:07.754909+00:00
 -- url     : https://prove2.me/theorems/361a1e73-325d-4a44-ab7e-64b5f527be36

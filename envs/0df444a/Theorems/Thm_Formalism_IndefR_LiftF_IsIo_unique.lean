@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LiftF_IsIo_unique
 -- name    : Formalism.IndefR.LiftF.IsIo.unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:43:18.429867+00:00
 -- url     : https://prove2.me/theorems/1a794df7-c109-49b6-9f4d-835339d92c47

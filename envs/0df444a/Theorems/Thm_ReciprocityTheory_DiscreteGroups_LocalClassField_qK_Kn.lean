@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_qK_Kn
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.qK_Kn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:54:42.718013+00:00
 -- url     : https://prove2.me/theorems/c8391b07-85bc-47d6-952d-1b43b38fe10d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_hilbertEisensteinWeightTwoQSeries
 -- name    : GlobalTheory.T.summable_hilbertEisensteinWeightTwoQSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:59:50.640142+00:00
 -- url     : https://prove2.me/theorems/b2c48d55-a800-4d09-a523-05960e8e0c29

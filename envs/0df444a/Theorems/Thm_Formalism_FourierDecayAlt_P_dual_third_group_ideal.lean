@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dual_third_group_ideal
 -- name    : Formalism.FourierDecayAlt.P.dual_third_group_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:29:16.714212+00:00
 -- url     : https://prove2.me/theorems/dfadefe5-28d3-4180-aa55-8424ab1d707f

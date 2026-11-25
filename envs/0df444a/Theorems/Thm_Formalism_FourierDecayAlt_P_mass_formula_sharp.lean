@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_mass_formula_sharp
 -- name    : Formalism.FourierDecayAlt.P.mass_formula_sharp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:33:51.36072+00:00
 -- url     : https://prove2.me/theorems/5cbae655-b4f2-42b5-af8b-c06886f59aad

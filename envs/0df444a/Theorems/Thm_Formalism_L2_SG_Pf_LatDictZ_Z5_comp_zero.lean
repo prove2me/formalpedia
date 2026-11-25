@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_comp_zero
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.comp_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:48:27.961645+00:00
 -- url     : https://prove2.me/theorems/6b0e1af7-afb9-43e7-aab0-cd7c1f10932a

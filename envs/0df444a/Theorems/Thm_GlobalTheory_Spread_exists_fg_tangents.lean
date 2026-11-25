@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_exists_fg_tangents
 -- name    : GlobalTheory.Spread.exists_fg_tangents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:29:08.611391+00:00
 -- url     : https://prove2.me/theorems/255fd490-aa15-4126-8fbf-e68abfa8fe6b

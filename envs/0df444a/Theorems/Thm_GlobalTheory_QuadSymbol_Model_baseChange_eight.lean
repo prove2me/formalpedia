@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_Model_baseChange_eight
 -- name    : GlobalTheory.QuadSymbol.Model.baseChange_eight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:19:55.499858+00:00
 -- url     : https://prove2.me/theorems/1945590e-d933-5f64-b867-99e7f3b92aea

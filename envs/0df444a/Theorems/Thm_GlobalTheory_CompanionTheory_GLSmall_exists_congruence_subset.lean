@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GLSmall_exists_congruence_subset
 -- name    : GlobalTheory.CompanionTheory.GLSmall.exists_congruence_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:00:57.165468+00:00
 -- url     : https://prove2.me/theorems/345f8723-27dd-5a8f-81e4-660079bc16fa

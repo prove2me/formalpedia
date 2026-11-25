@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexPoints_opens_eq_top_of_complexPoints
 -- name    : GlobalTheory.ComplexPoints.opens_eq_top_of_complexPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:39.232863+00:00
 -- url     : https://prove2.me/theorems/cc1398c0-d696-5eb1-aa8b-fab1dc02e34c

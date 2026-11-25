@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_isEmpty_pair
 -- name    : GlobalTheory.LatPair.Model.isEmpty_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:13:03.546998+00:00
 -- url     : https://prove2.me/theorems/ae99ecd4-a6fe-4765-9769-c56f158c6060

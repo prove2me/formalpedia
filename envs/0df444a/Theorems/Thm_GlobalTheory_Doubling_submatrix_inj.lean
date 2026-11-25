@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Doubling_submatrix_inj
 -- name    : GlobalTheory.Doubling.submatrix_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:07:26.208804+00:00
 -- url     : https://prove2.me/theorems/ca6db402-3633-5689-82dd-74612ca1fa9a

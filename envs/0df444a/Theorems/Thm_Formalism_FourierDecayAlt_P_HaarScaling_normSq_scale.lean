@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarScaling_normSq_scale
 -- name    : Formalism.FourierDecayAlt.P.HaarScaling.normSq_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:37:12.845466+00:00
 -- url     : https://prove2.me/theorems/a946b1f2-9a1b-5c14-a71f-b8a269aa9eae

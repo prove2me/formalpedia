@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_CanonKeySt_base_iff
 -- name    : GlobalTheory.Published.CanonKeySt.base_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:23:20.617147+00:00
 -- url     : https://prove2.me/theorems/d1734f77-6026-434a-988b-c77a7d06a17e

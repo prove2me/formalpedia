@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_list_prod_funMat
 -- name    : ReciprocityTheory.PGsh.list_prod_funMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:09:10.206936+00:00
 -- url     : https://prove2.me/theorems/aa32d36d-7b17-4e55-8085-638cb8d0a6d6

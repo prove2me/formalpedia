@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_cubWeil_map
 -- name    : GlobalTheory.UU.cubWeil_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:59:46.169348+00:00
 -- url     : https://prove2.me/theorems/73a585b9-356b-483f-90a3-5bf9d7ef1f92

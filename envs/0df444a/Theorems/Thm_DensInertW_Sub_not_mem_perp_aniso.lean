@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DensInertW_Sub_not_mem_perp_aniso
 -- name    : DensInertW.Sub.not_mem_perp_aniso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:17:50.458102+00:00
 -- url     : https://prove2.me/theorems/0679359f-1661-4fde-ae61-cfefeec56828

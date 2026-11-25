@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_V_Base_cycU_le_levU
 -- name    : UpperTheory.V.Base.cycU_le_levU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:14:18.797089+00:00
 -- url     : https://prove2.me/theorems/5c0aff19-93ce-54f1-8d49-5cc3051d4f16

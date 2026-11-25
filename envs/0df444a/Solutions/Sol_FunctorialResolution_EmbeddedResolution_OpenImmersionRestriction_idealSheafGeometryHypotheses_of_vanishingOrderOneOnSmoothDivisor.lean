@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction.idealSheafGeometryHypotheses_of_vanishingOrderOneOnSmoothDivisor
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T17:21:46.246966+00:00
+-- url     : https://prove2.me/submissions/edca8301-576e-4df9-8a47-328a504d9886
+
+import Mathlib
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_StrictNormalCrossings
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealOrder
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_IdealSheafOrder
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_OrderPullback
+import Definitions.Def_Development_ResolutionOfSingularities_Foundations_Schemes_IdealSheafData
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_StrictTransformIsolation_RestrictionToOpens
+import Definitions.Def_Development_ResolutionOfSingularities_EmbeddedResolution_StrictTransformIsolation_VanishingIdealAssignment
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_orderAtEqOfAgreeNear
+import Theorems.Thm_FunctorialResolution_EmbeddedResolution_OpenImmersionRestriction_idealSheafGeometryHypotheses_of_orderAtEqOfAgreeNear
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u
+open CategoryTheory AlgebraicGeometry TopologicalSpace
+open FunctorialResolution FunctorialResolution.EmbeddedResolution FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction
+namespace FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction
+theorem _root_.solution
+    (h1 : VanishingOrderOneOnSmoothDivisor.{u}) (h2 : AgreeNearVanishingComapSubscheme.{u})
+    (h3 : VanishingComapOpens.{u}) :
+    IdealSheafGeometryHypotheses vanishingIdealAssignment.{u} :=
+  idealSheafGeometryHypotheses_of_orderAtEqOfAgreeNear h1 h2 h3 orderAtEqOfAgreeNear
+end FunctorialResolution.EmbeddedResolution.OpenImmersionRestriction

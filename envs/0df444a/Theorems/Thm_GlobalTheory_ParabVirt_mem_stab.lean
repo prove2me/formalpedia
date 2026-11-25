@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ParabVirt_mem_stab
 -- name    : GlobalTheory.ParabVirt.mem_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:15:53.819317+00:00
 -- url     : https://prove2.me/theorems/5ec7f42a-53f6-4f35-bf59-1ee41e7c4418

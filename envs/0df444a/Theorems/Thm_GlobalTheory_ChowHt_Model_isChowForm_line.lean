@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChowHt_Model_isChowForm_line
 -- name    : GlobalTheory.ChowHt.Model.isChowForm_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:59:22.045994+00:00
 -- url     : https://prove2.me/theorems/b885372e-7916-5aca-b496-739782d594fa

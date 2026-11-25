@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_pf_fourier_dw
 -- name    : ZetaZeros.D.EllReg.pf_fourier_dw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:13:54.966279+00:00
 -- url     : https://prove2.me/theorems/ff8815fe-ec29-4303-ace0-7fcf4287e1e1

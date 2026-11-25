@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RankFibre_fibre_omA
 -- name    : GlobalTheory.RankFibre.fibre_omA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:19:43.469511+00:00
 -- url     : https://prove2.me/theorems/6828782c-adb5-509c-9c96-da0208ec8560

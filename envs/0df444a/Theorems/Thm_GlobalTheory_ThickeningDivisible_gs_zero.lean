@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickeningDivisible_gs_zero
 -- name    : GlobalTheory.ThickeningDivisible.gs_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:45:47.171327+00:00
 -- url     : https://prove2.me/theorems/f51688ef-c52f-44e6-bbfe-c52cf93ad5e0

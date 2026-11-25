@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_GraphH_graph_tau
 -- name    : UnipMove.GraphH.graph_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:09.817977+00:00
 -- url     : https://prove2.me/theorems/549f1667-dafc-49f4-a369-5a5f9008051d

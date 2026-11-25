@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_level_zero
 -- name    : Formalism.FourierDecayAlt.P.capelli_level_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:46.016262+00:00
 -- url     : https://prove2.me/theorems/22c3774c-8c2b-54e7-a505-3935712c8aa2

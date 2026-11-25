@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RingGlue_exists_hom_of_ring_maps
 -- name    : GlobalTheory.RingGlue.exists_hom_of_ring_maps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:00:39.127716+00:00
 -- url     : https://prove2.me/theorems/bde2b4e3-0f88-4f88-8163-c257852d016e

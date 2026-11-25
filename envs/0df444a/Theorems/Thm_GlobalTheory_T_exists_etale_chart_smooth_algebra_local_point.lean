@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_etale_chart_smooth_algebra_local_point
 -- name    : GlobalTheory.T.exists_etale_chart_smooth_algebra_local_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:29:01.154783+00:00
 -- url     : https://prove2.me/theorems/54fb1884-e443-492b-beaa-600a05301bff

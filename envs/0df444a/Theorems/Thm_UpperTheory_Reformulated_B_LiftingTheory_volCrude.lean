@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_LiftingTheory_volCrude
 -- name    : UpperTheory.Reformulated.B.LiftingTheory.volCrude
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:00:40.790798+00:00
 -- url     : https://prove2.me/theorems/825b9d12-352a-421e-a783-fc9d76678089

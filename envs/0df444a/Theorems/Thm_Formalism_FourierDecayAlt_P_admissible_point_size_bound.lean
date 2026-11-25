@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_admissible_point_size_bound
 -- name    : Formalism.FourierDecayAlt.P.admissible_point_size_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:31:39.772321+00:00
 -- url     : https://prove2.me/theorems/b5dc3456-649a-4301-8c5f-92fc90902a14

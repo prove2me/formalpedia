@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.sharp_recursion_theorem_a
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T16:54:02.661327+00:00
+-- url     : https://prove2.me/submissions/63666b38-bbed-400e-a5f4-a352d6ff7f15
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementTB
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PositiveSemidefinitePullback
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BlockStartPoints
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FormDomination
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FinitePointSets
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OneLevelCoefficients
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AntidiagMulDiagonal
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OneLevelInequalitySplitBySize
+import Theorems.Thm_Formalism_FourierDecayAlt_P_one_level_inequality_split_by_size
+import Theorems.Thm_Formalism_FourierDecayAlt_P_limitStep
+import Theorems.Thm_Formalism_FourierDecayAlt_P_towerBoundOfSteps
+import Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_joint_theorem_A__e6b3bc7ee1c6
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.TB.TheoremA :=
+  towerBoundOfSteps one_level_inequality_split_by_size limitStep joint_theorem_A'
+end Formalism.FourierDecayAlt.P

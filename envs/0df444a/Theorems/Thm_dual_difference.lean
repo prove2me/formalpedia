@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_dual_difference
 -- name    : dual_difference
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:15:46.391203+00:00
 -- url     : https://prove2.me/theorems/a69bb488-f9ca-4d2f-afb9-22392fdadc68

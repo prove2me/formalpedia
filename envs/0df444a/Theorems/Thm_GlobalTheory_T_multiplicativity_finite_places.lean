@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_multiplicativity_finite_places
 -- name    : GlobalTheory.T.multiplicativity_finite_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:35:16.219005+00:00
 -- url     : https://prove2.me/theorems/98b30c0f-222d-5dd3-83dd-82ea181f1438

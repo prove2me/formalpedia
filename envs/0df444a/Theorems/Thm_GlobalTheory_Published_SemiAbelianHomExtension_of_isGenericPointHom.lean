@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_SemiAbelianHomExtension_of_isGenericPointHom
 -- name    : GlobalTheory.Published.SemiAbelianHomExtension.of_isGenericPointHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:17:26.405011+00:00
 -- url     : https://prove2.me/theorems/4b24fc16-cdd9-4743-b71f-014b64c2a7f1

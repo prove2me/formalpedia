@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Pat_TopFG_phiFin
 -- name    : GlobalTheory.Pat.TopFG.phiFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:15:29.716866+00:00
 -- url     : https://prove2.me/theorems/12fdb264-6900-4855-bd79-fade307e748b

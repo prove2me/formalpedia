@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Ainf_teich_eps
 -- name    : ReciprocityTheory.PGsh.Ainf.teich_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:05:29.885929+00:00
 -- url     : https://prove2.me/theorems/6f1d1b32-8bcb-4f61-8855-845cdb3b1f57

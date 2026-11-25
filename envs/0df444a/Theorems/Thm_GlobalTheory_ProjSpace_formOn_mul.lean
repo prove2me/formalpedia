@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_formOn_mul
 -- name    : GlobalTheory.ProjSpace.formOn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:29:20.699325+00:00
 -- url     : https://prove2.me/theorems/235f31f0-faa7-51db-bbad-0ee7dd735629

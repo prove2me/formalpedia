@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_bwp_ext_poly
 -- name    : ReciprocityTheory.MultiplicativeHeights.bwp_ext_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:04:22.727019+00:00
 -- url     : https://prove2.me/theorems/dda52499-f66e-4701-bc62-be1609a5b587

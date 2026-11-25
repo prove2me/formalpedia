@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_cofactor_vector_dual
 -- name    : Formalism.HermitianLatticeCounting.P.cofactor_vector_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:02.320709+00:00
 -- url     : https://prove2.me/theorems/a5d975b1-17b9-480d-9a82-7b81f659545b

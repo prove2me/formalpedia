@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Chamber_IsOrth_sub_mem_span
 -- name    : GlobalTheory.Chamber.IsOrth.sub_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:58:30.854804+00:00
 -- url     : https://prove2.me/theorems/5954b523-ddad-4a1e-8a52-8a47bda5427f

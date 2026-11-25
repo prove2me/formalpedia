@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kaehler_basis_spreads_to_neighbourhood
 -- name    : GlobalTheory.T.kaehler_basis_spreads_to_neighbourhood
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:38.911024+00:00
 -- url     : https://prove2.me/theorems/ea4ca0e2-cfcc-5a8e-903b-19639de79790

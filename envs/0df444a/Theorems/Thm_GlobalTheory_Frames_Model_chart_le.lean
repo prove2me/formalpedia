@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_Model_chart_le
 -- name    : GlobalTheory.Frames.Model.chart_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:15.051993+00:00
 -- url     : https://prove2.me/theorems/c0257b4a-d559-4eb8-bc65-6cad43034177

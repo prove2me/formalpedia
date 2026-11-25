@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxInt_mcPts_eq_conePts
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxInt.mcPts_eq_conePts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:24.890728+00:00
 -- url     : https://prove2.me/theorems/75f5ba99-b6a0-518c-adf8-a80550d6c83a

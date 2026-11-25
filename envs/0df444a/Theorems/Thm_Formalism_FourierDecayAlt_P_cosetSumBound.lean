@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cosetSumBound
 -- name    : Formalism.FourierDecayAlt.P.cosetSumBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:29:10.326899+00:00
 -- url     : https://prove2.me/theorems/6472dbc7-333a-4b4d-8cdd-ae8d9a7adb69

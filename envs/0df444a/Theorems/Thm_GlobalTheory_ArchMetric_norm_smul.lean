@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_norm_smul
 -- name    : GlobalTheory.ArchMetric.norm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:56:30.436484+00:00
 -- url     : https://prove2.me/theorems/08771fba-fb8b-4adc-a636-447b51590dec

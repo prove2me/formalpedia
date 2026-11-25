@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomCNFDeficiency_LowerBound_closure_largest_maximizer
 -- name    : RandomCNFDeficiency.LowerBound.closure_largest_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:32:21.623597+00:00
 -- url     : https://prove2.me/theorems/0bd1b252-2a5a-48c7-8911-ff3cb5f010f4

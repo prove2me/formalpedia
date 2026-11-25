@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplit_TrivAt_unrAt
 -- name    : GlobalTheory.HeckeSplit.TrivAt.unrAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:56.028196+00:00
 -- url     : https://prove2.me/theorems/e38ebd6a-5d3d-4926-9737-45c29f5b6092

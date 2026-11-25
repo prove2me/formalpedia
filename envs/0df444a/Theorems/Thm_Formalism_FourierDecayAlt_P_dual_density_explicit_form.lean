@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dual_density_explicit_form
 -- name    : Formalism.FourierDecayAlt.P.dual_density_explicit_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:29:26.108181+00:00
 -- url     : https://prove2.me/theorems/311f792d-6fac-4ea9-aaad-a64a0f23b399

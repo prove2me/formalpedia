@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_globalGenerator_div_baseUnit_eq_generic
 -- name    : GlobalTheory.T.exists_globalGenerator_div_baseUnit_eq_generic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:39.59838+00:00
 -- url     : https://prove2.me/theorems/a8b4a211-d110-47cc-b044-3ca5dfae1f95

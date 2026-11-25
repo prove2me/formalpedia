@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformLift_fibPt_snd
 -- name    : GlobalTheory.UniformLift.fibPt_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:36:35.515298+00:00
 -- url     : https://prove2.me/theorems/18cb4852-0852-599f-9408-1e8f83e2c1dc

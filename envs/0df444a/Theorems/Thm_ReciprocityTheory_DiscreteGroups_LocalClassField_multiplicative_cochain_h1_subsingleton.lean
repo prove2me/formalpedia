@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_multiplicative_cochain_h1_subsingleton
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.multiplicative_cochain_h1_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:00:46.957351+00:00
 -- url     : https://prove2.me/theorems/db212e58-2ad9-4b17-a3cc-52cfc6c3affd

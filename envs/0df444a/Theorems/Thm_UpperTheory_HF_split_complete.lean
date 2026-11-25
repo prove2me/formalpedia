@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_split_complete
 -- name    : UpperTheory.HF.split_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:13:23.782489+00:00
 -- url     : https://prove2.me/theorems/9ec9b497-41b3-4bac-b7fc-cff6062c4eb1

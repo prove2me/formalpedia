@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_carries_calculus
 -- name    : GlobalTheory.ChartCmp.carries_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:36:06.062303+00:00
 -- url     : https://prove2.me/theorems/2edf0e3e-6f40-58de-9b73-6d955e5e96cf

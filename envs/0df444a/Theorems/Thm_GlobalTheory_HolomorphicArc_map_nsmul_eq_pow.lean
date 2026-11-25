@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HolomorphicArc_map_nsmul_eq_pow
 -- name    : GlobalTheory.HolomorphicArc.map_nsmul_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:28.178026+00:00
 -- url     : https://prove2.me/theorems/c7c18f7f-1849-40ae-bc8b-0f3d09f55136

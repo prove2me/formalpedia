@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_ConvG_triple_lintegral_eq
 -- name    : Formalism.L2.S.Pv.ConvG.triple_lintegral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:28.329418+00:00
 -- url     : https://prove2.me/theorems/01c74f13-1ad4-5975-9093-c9767df87053

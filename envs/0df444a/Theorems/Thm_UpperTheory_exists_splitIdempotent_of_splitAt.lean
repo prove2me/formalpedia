@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_exists_splitIdempotent_of_splitAt
 -- name    : UpperTheory.exists_splitIdempotent_of_splitAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:12:57.782311+00:00
 -- url     : https://prove2.me/theorems/5c21e31d-5f06-57be-8dea-96a6bf355611

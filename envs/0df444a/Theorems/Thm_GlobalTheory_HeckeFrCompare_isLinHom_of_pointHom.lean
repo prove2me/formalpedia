@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_isLinHom_of_pointHom
 -- name    : GlobalTheory.HeckeFrCompare.isLinHom_of_pointHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:45:43.801274+00:00
 -- url     : https://prove2.me/theorems/cbdc823d-8380-4807-9006-395938a9f747

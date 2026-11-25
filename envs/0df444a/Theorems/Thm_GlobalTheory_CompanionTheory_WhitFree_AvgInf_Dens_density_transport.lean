@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WhitFree_AvgInf_Dens_density_transport
 -- name    : GlobalTheory.CompanionTheory.WhitFree.AvgInf.Dens.density_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:01:56.849999+00:00
 -- url     : https://prove2.me/theorems/1e7b390f-b693-4f3e-b6ee-d1d8457decdc

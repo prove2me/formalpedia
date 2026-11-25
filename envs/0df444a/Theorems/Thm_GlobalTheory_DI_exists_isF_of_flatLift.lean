@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_exists_isF_of_flatLift
 -- name    : GlobalTheory.DI.exists_isF_of_flatLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:03:59.936068+00:00
 -- url     : https://prove2.me/theorems/656eb0de-c598-44fb-9cc1-e656d0b030ba

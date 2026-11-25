@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeMorganApprox_Main_lemma_5_9
 -- name    : DeMorganApprox.Main.lemma_5_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T12:02:35.182204+00:00
 -- url     : https://prove2.me/theorems/455c2027-c0fa-4b5e-9f4f-75f26f770cbc

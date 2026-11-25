@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_assemble_least_norm_and_sizes
 -- name    : Formalism.FourierDecayAlt.P.assemble_least_norm_and_sizes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:28:09.586286+00:00
 -- url     : https://prove2.me/theorems/e91f6781-4944-5c92-a40d-cc2ccabdaae1

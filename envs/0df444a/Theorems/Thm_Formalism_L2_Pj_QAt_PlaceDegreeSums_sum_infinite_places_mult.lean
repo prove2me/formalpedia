@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_PlaceDegreeSums_sum_infinite_places_mult
 -- name    : Formalism.L2.Pj.QAt.PlaceDegreeSums.sum_infinite_places_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:45:43.353332+00:00
 -- url     : https://prove2.me/theorems/129fa5bc-a3f5-5809-8780-4d0c36d8a183

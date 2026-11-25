@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RayCount_lamRay_eq_sum
 -- name    : GlobalTheory.Hk.RayCount.lamRay_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:07:33.373018+00:00
 -- url     : https://prove2.me/theorems/f0e034ab-a756-4013-bd9a-150fb5b76e0c

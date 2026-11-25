@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_cauchy_inequality_on_torus
 -- name    : ReciprocityTheory.MultiplicativeHeights.cauchy_inequality_on_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:03:46.101884+00:00
 -- url     : https://prove2.me/theorems/19e1f904-1a4d-595b-9a6e-e28012261f11

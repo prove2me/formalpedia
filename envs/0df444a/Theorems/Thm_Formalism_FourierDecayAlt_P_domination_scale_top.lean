@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_domination_scale_top
 -- name    : Formalism.FourierDecayAlt.P.domination_scale_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:32:35.598527+00:00
 -- url     : https://prove2.me/theorems/7b07ac18-e512-44ef-bc02-a1657c860513

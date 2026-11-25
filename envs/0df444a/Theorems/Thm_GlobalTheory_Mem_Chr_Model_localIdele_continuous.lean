@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Chr_Model_localIdele_continuous
 -- name    : GlobalTheory.Mem.Chr.Model.localIdele_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:14:18.745488+00:00
 -- url     : https://prove2.me/theorems/b43f1af5-0104-4365-899e-74446043cc2d

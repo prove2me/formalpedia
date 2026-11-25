@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogKS_isKS_zero
 -- name    : GlobalTheory.LogKS.isKS_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:02.830819+00:00
 -- url     : https://prove2.me/theorems/eaa77295-cfbc-5659-b622-d8540d29ea33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PTIso_InvTransport_exists_invFam
 -- name    : GlobalTheory.CompanionTheory.PTIso.InvTransport.exists_invFam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:54:25.126674+00:00
 -- url     : https://prove2.me/theorems/8d9a9d22-c90b-4efb-b7a6-06520dfdcacb

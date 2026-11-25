@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_SecOnR_restrict_bijective
 -- name    : GlobalTheory.AbLaw.SecOnR.restrict_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:34:58.201472+00:00
 -- url     : https://prove2.me/theorems/95903a86-26c3-4649-9a5f-da1c65fa58f1

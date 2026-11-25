@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_trace_form_regular
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.trace_form_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:44:00.172537+00:00
 -- url     : https://prove2.me/theorems/d7db029d-c30f-41c4-a0f2-29a3ff1089ce

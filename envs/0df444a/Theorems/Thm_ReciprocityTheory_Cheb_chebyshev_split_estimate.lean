@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Cheb_chebyshev_split_estimate
 -- name    : ReciprocityTheory.Cheb.chebyshev_split_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:54:46.705848+00:00
 -- url     : https://prove2.me/theorems/81d73181-99de-5fc3-9000-68de46d38989

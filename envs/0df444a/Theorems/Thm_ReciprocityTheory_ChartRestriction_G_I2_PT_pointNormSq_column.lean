@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_PT_pointNormSq_column
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.PT.pointNormSq_column
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:49:51.70893+00:00
 -- url     : https://prove2.me/theorems/2748eb78-3ba9-5c4c-8e2e-55d508f2ccf2

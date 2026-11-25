@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_DeterminantValuationBounds_v_eq_one_of_residue_ne_zero
 -- name    : ReciprocityTheory.PGsh.Up.DeterminantValuationBounds.v_eq_one_of_residue_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:07:05.3498+00:00
 -- url     : https://prove2.me/theorems/39a75055-e708-47bc-9582-6da90e128794

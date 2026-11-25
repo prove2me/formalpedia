@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AffGlue_secEquiv_resM
 -- name    : GlobalTheory.AffGlue.secEquiv_resM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:55:19.990476+00:00
 -- url     : https://prove2.me/theorems/a556d8cf-b109-5b40-9af4-6555b827d0a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowTiePSplit_split_holds
 -- name    : Formalism.L2.FormalSeriesBounds.RowTiePSplit.split_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:44:26.153057+00:00
 -- url     : https://prove2.me/theorems/aba63cd7-2f28-4f29-a1f3-c8fbb62f81a8

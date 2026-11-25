@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Final_lattice_and_zeta_arithmetic_estimates
 -- name    : Formalism.HermitianLattices.Final.lattice_and_zeta_arithmetic_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:23.973106+00:00
 -- url     : https://prove2.me/theorems/a3b95cb6-0469-5092-9257-cc472490bf1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_Model_isEmpty_of_subsingleton
 -- name    : GlobalTheory.ProjSpace.Model.isEmpty_of_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:17:37.482932+00:00
 -- url     : https://prove2.me/theorems/6aadcb08-f2e8-5f98-a8ad-07fcbbb9bdd5

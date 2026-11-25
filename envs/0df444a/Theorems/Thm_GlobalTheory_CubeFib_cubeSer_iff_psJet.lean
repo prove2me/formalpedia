@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeFib_cubeSer_iff_psJet
 -- name    : GlobalTheory.CubeFib.cubeSer_iff_psJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:04:43.1994+00:00
 -- url     : https://prove2.me/theorems/789065d8-ad37-46dd-9c5d-acf3be496bc4

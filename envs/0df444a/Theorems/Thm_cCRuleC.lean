@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_cCRuleC
 -- name    : cCRuleC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:15:00.326806+00:00
 -- url     : https://prove2.me/theorems/a320f306-7ab9-474d-966b-b030ba5576d8

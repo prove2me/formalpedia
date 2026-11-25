@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_s_of_parts
 -- name    : Formalism.FourierDecayAlt.P.lemma_s_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:35:22.994813+00:00
 -- url     : https://prove2.me/theorems/ce179f9f-6d0c-41ea-8f9a-529455d55acf

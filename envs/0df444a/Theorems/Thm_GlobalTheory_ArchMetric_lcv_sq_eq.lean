@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_lcv_sq_eq
 -- name    : GlobalTheory.ArchMetric.lcv_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:55:07.262302+00:00
 -- url     : https://prove2.me/theorems/554bb6cb-8e90-4bd4-b423-98df34f702c1

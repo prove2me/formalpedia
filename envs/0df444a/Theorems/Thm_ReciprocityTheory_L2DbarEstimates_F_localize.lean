@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_F_localize
 -- name    : ReciprocityTheory.L2DbarEstimates.F.localize
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:08:41.225375+00:00
 -- url     : https://prove2.me/theorems/43bc31cb-8265-41b4-9697-a6c3d6b49672

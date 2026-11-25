@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_IsometryEquiv_isIsometry
 -- name    : GlobalTheory.HermForm.IsometryEquiv.isIsometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:58.651727+00:00
 -- url     : https://prove2.me/theorems/49407bdd-bf77-550f-bdb0-22818e29f5f1

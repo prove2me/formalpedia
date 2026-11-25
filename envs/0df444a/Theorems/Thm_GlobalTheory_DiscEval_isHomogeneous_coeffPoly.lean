@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_isHomogeneous_coeffPoly
 -- name    : GlobalTheory.DiscEval.isHomogeneous_coeffPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:59:39.110338+00:00
 -- url     : https://prove2.me/theorems/a57207f0-c213-4b7b-967e-ae6c2bdd177a

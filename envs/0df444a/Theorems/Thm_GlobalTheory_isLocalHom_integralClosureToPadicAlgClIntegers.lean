@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLocalHom_integralClosureToPadicAlgClIntegers
 -- name    : GlobalTheory.isLocalHom_integralClosureToPadicAlgClIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T14:44:14.441198+00:00
 -- url     : https://prove2.me/theorems/7143ac32-9abe-464a-8388-869505c13d1f

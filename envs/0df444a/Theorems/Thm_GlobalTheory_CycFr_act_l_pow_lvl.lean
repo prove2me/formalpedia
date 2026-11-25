@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycFr_act_l_pow_lvl
 -- name    : GlobalTheory.CycFr.act_l_pow_lvl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:03:25.469804+00:00
 -- url     : https://prove2.me/theorems/a4366433-410f-4ded-a6a4-c560893eb725

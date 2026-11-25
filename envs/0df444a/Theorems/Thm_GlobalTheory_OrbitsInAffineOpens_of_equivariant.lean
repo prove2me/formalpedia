@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitsInAffineOpens_of_equivariant
 -- name    : GlobalTheory.OrbitsInAffineOpens.of_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:16:47.606559+00:00
 -- url     : https://prove2.me/theorems/4213da86-0f8f-5a15-a901-1718803b2a1b

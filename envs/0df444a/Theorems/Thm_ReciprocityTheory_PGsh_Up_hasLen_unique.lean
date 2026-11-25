@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_hasLen_unique
 -- name    : ReciprocityTheory.PGsh.Up.hasLen_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:33:13.728205+00:00
 -- url     : https://prove2.me/theorems/ce241e0b-e665-4630-91d3-1dc68d6f15f0

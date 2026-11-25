@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_etaleHermitianPair_isGen_companion
 -- name    : GlobalTheory.T.exists_etaleHermitianPair_isGen_companion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:29:36.883097+00:00
 -- url     : https://prove2.me/theorems/f96a0e21-6537-5f3c-8d52-50c1da956dd1

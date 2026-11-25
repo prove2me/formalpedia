@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeSplitAll_Approx_exists_nat_small
 -- name    : GlobalTheory.HeckeSplitAll.Approx.exists_nat_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:34.949354+00:00
 -- url     : https://prove2.me/theorems/6944ce70-3d04-576c-8c32-de4fdf397a11

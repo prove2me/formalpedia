@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Published_PoitouTateDuality_totallyComplex
 -- name    : GlobalTheory.Published.PoitouTateDuality.totallyComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:16:24.089918+00:00
 -- url     : https://prove2.me/theorems/05cc2fd4-4cca-543b-b2d8-9b436b521274

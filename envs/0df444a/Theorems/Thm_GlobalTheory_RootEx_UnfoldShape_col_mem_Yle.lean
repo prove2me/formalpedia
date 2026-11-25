@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_col_mem_Yle
 -- name    : GlobalTheory.RootEx.UnfoldShape.col_mem_Yle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:26:49.80532+00:00
 -- url     : https://prove2.me/theorems/be3266d7-348d-5e72-8b18-e6f278374042

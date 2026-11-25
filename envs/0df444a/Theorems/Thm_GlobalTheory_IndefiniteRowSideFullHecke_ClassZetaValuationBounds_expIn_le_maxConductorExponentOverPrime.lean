@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ClassZetaValuationBounds_expIn_le_maxConductorExponentOverPrime
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ClassZetaValuationBounds.expIn_le_maxConductorExponentOverPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:57.09099+00:00
 -- url     : https://prove2.me/theorems/19ae40ee-9e09-4745-894c-72c4ef31248c

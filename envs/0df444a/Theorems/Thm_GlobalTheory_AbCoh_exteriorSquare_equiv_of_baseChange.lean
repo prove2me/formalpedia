@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_exteriorSquare_equiv_of_baseChange
 -- name    : GlobalTheory.AbCoh.exteriorSquare_equiv_of_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:03:46.796813+00:00
 -- url     : https://prove2.me/theorems/4346f131-9825-58ed-8009-429fff3b3d3b

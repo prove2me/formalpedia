@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for divided_power_integrality
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T16:01:06.882252+00:00
+-- url     : https://prove2.me/submissions/5400de10-6aaa-47fb-b985-e6e483862af0
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DivPowInteg
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_DividedPowerIntegrals_GenPow
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_DividedPowerIntegrals_GenVan
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_DividedPowerIntegrals_NatMulFactorialBound
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantTheorems_DivPowInteg
+import Theorems.Thm_PI_DivPowInteg_Gen_powXL_holds
+import Theorems.Thm_PI_DivPowInteg_Gen_powXR_holds
+import Theorems.Thm_PI_DivPowInteg_Gen_vanL_holds
+import Theorems.Thm_PI_DivPowInteg_Gen_vanR_holds
+import Theorems.Thm_PI_DivPowInteg_Top_divPowInteg_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+theorem _root_.solution : PI.DivPowInteg :=
+  PI.DivPowInteg.Top.divPowInteg_of PI.DivPowInteg.Gen.powXL_holds PI.DivPowInteg.Gen.powXR_holds
+    PI.DivPowInteg.Gen.vanL_holds PI.DivPowInteg.Gen.vanR_holds

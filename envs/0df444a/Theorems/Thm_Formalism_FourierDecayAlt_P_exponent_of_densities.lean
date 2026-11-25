@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_exponent_of_densities
 -- name    : Formalism.FourierDecayAlt.P.exponent_of_densities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:31:38.683769+00:00
 -- url     : https://prove2.me/theorems/aaf8a81f-f2fb-56e8-bc34-737002c0f19f

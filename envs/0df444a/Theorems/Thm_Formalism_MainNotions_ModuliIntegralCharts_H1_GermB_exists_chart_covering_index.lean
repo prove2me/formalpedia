@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_exists_chart_covering_index
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.exists_chart_covering_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:51:06.412597+00:00
 -- url     : https://prove2.me/theorems/259fcf2e-a595-593f-82d2-c7dd0cefa781

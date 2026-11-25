@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_GeometryOfNumbersTheory_det_re_le_mul_prod_diag
 -- name    : ReciprocityTheory.GeometryOfNumbersTheory.det_re_le_mul_prod_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:52:49.688351+00:00
 -- url     : https://prove2.me/theorems/fa6b0a7c-94db-58a4-919b-d9f7594bccc6

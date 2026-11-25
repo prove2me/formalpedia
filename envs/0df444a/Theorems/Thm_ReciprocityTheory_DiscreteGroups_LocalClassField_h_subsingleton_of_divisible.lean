@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_h_subsingleton_of_divisible
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.h_subsingleton_of_divisible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:56:25.39479+00:00
 -- url     : https://prove2.me/theorems/d8b700d5-831f-57b0-b795-3c512080b941

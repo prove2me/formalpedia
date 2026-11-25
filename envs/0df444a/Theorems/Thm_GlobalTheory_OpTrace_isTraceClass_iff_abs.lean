@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OpTrace_isTraceClass_iff_abs
 -- name    : GlobalTheory.OpTrace.isTraceClass_iff_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:52.884651+00:00
 -- url     : https://prove2.me/theorems/ac2e9f13-0372-48ca-8bca-87ab85546f92

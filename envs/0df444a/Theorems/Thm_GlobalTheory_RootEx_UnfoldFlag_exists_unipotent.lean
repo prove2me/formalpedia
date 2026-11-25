@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldFlag_exists_unipotent
 -- name    : GlobalTheory.RootEx.UnfoldFlag.exists_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:21:47.662854+00:00
 -- url     : https://prove2.me/theorems/495f2577-8929-404a-92e0-b521b6f4be08

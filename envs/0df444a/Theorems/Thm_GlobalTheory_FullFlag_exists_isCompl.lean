@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FullFlag_exists_isCompl
 -- name    : GlobalTheory.FullFlag.exists_isCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:06:45.727495+00:00
 -- url     : https://prove2.me/theorems/70ec956c-1d11-4887-8aa1-55729e6cd434

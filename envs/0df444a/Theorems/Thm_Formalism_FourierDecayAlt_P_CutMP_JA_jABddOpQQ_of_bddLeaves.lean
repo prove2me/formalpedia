@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_jABddOpQQ_of_bddLeaves
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.jABddOpQQ_of_bddLeaves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:40:32.673341+00:00
 -- url     : https://prove2.me/theorems/2c3a672a-66a9-5770-8a3f-cd9271f1ee34

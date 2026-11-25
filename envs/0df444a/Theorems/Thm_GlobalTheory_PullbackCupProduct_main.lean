@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullbackCupProduct_main
 -- name    : GlobalTheory.PullbackCupProduct.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:08:48.876244+00:00
 -- url     : https://prove2.me/theorems/72609c9a-21ed-40b4-9f9a-b95335f0deaa

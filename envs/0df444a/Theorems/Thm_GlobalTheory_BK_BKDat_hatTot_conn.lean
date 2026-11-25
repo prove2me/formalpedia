@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_BKDat_hatTot_conn
 -- name    : GlobalTheory.BK.BKDat.hatTot_conn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:57:36.053794+00:00
 -- url     : https://prove2.me/theorems/d3a07ec5-8291-5bbf-a8e3-224055e0459d

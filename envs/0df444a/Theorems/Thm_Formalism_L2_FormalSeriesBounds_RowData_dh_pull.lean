@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowData_dh_pull
 -- name    : Formalism.L2.FormalSeriesBounds.RowData.dh_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:44:45.357436+00:00
 -- url     : https://prove2.me/theorems/8187314a-8715-41d2-9245-6898c1d6d99a

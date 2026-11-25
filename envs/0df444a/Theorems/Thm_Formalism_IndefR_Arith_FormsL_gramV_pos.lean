@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Arith_FormsL_gramV_pos
 -- name    : Formalism.IndefR.Arith.FormsL.gramV_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:41:56.130392+00:00
 -- url     : https://prove2.me/theorems/da4cf1d1-9db5-42b4-a1e4-05b99dbe285a

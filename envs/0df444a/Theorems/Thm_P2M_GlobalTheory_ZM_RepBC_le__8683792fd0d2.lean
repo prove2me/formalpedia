@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZM_RepBC_le__8683792fd0d2
 -- name    : P2M_GlobalTheory_ZM_RepBC_le__8683792fd0d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:26:01.53595+00:00
 -- url     : https://prove2.me/theorems/36eefae1-2193-58d2-a63b-f8e31e690b7e

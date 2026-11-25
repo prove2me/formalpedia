@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_QuotientRingDecomposition_decomp
 -- name    : Formalism.GM.QuotientRingDecomposition.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:37:49.743958+00:00
 -- url     : https://prove2.me/theorems/d488bd8a-9845-54b2-aab8-f6a313367ca8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_exists_eps
 -- name    : ReciprocityTheory.PGsh.exists_eps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:08:26.211478+00:00
 -- url     : https://prove2.me/theorems/ebc4f5c8-b201-4a4d-b71b-d78078e22360

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HDiscLat_lattice_main
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HDiscLat.lattice_main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:00:11.844816+00:00
 -- url     : https://prove2.me/theorems/7395fd41-1026-4d68-b177-8e6907ff5157

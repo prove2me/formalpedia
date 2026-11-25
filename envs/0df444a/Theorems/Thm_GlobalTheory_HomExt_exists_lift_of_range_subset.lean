@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomExt_exists_lift_of_range_subset
 -- name    : GlobalTheory.HomExt.exists_lift_of_range_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:08:04.234062+00:00
 -- url     : https://prove2.me/theorems/f60d6f7f-b826-5718-b6f7-b06b479107eb

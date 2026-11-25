@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_image_compact_right_invariant
 -- name    : GlobalTheory.T.finite_image_compact_right_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:31:27.464809+00:00
 -- url     : https://prove2.me/theorems/19b748fc-956a-42d2-b4b9-59157ba7168e

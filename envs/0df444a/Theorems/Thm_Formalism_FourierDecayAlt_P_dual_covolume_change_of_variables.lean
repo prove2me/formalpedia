@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_dual_covolume_change_of_variables
 -- name    : Formalism.FourierDecayAlt.P.dual_covolume_change_of_variables
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:29:51.554947+00:00
 -- url     : https://prove2.me/theorems/fc8d0fe2-5cc4-5cff-8071-a9fd577356a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_admissible_count_bound
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.admissible_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:42:55.473272+00:00
 -- url     : https://prove2.me/theorems/0bef0805-647f-5090-bdea-d6c7dce9022f

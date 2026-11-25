@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_extension_local
 -- name    : Formalism.LFunctionChainParameters.LHost.extension_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:50:52.530816+00:00
 -- url     : https://prove2.me/theorems/baba1cca-cf5a-4130-a423-c02cf8f4e919

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_exists_adapted_majorant
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.exists_adapted_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:08:18.904515+00:00
 -- url     : https://prove2.me/theorems/b659d39b-ae13-5bda-81e8-58b5ed787654

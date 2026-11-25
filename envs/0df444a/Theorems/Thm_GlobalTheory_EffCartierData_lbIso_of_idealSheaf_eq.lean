@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EffCartierData_lbIso_of_idealSheaf_eq
 -- name    : GlobalTheory.EffCartierData.lbIso_of_idealSheaf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:11:27.65985+00:00
 -- url     : https://prove2.me/theorems/eb6dfc3a-b4f4-4faa-8cab-bc8d1f31d0f1

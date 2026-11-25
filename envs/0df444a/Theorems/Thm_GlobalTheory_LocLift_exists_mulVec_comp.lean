@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocLift_exists_mulVec_comp
 -- name    : GlobalTheory.LocLift.exists_mulVec_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:48:01.790903+00:00
 -- url     : https://prove2.me/theorems/50299801-ef13-5aa6-9428-36a507ebf6ba

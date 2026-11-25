@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_URep_UnitaryRep_coe_apply
 -- name    : CompanionTheory.LimBd.URep.UnitaryRep.coe_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:15:50.849249+00:00
 -- url     : https://prove2.me/theorems/4bfb3fbe-9370-4104-b9de-5a1a10657c48

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamGerm_Pt1_colVal_sum
 -- name    : GlobalTheory.FamGerm.Pt1.colVal_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:21.657606+00:00
 -- url     : https://prove2.me/theorems/43b96e85-18ea-4f3d-a9ed-97a99bb4d141

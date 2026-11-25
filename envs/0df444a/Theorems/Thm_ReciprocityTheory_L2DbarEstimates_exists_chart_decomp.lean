@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_exists_chart_decomp
 -- name    : ReciprocityTheory.L2DbarEstimates.exists_chart_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:08:13.489008+00:00
 -- url     : https://prove2.me/theorems/c649c102-59c3-5c6e-bd5e-ae7077ee88a5

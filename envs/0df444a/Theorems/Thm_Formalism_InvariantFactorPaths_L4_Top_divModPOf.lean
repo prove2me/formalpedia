@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_Top_divModPOf
 -- name    : Formalism.InvariantFactorPaths.L4.Top.divModPOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:14.410054+00:00
 -- url     : https://prove2.me/theorems/5cc051c7-60d0-5d2e-bd26-c8c86d08c354

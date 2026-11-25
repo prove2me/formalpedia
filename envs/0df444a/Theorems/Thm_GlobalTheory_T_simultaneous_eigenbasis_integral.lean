@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_simultaneous_eigenbasis_integral
 -- name    : GlobalTheory.T.simultaneous_eigenbasis_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:37:58.419802+00:00
 -- url     : https://prove2.me/theorems/6f8a12dd-4487-4ddc-9869-ab3279f0c856

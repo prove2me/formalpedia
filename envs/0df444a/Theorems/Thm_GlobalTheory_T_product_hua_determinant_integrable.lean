@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_product_hua_determinant_integrable
 -- name    : GlobalTheory.T.product_hua_determinant_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:36:44.492165+00:00
 -- url     : https://prove2.me/theorems/d8f27eaa-dd2b-56c6-8b42-4e909f7ed02e

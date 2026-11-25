@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_posDefCongruentOne
 -- name    : posDefCongruentOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:15:18.610601+00:00
 -- url     : https://prove2.me/theorems/12d783c5-5399-50b1-b79e-f3e25fb8ab14

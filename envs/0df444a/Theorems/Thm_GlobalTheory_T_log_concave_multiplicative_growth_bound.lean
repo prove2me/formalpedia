@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_log_concave_multiplicative_growth_bound
 -- name    : GlobalTheory.T.log_concave_multiplicative_growth_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:12.834938+00:00
 -- url     : https://prove2.me/theorems/a348b1fd-a2e7-512d-993c-20bf3fc1c7a7

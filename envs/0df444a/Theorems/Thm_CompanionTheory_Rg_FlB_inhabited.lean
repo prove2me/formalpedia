@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Rg_FlB_inhabited
 -- name    : CompanionTheory.Rg.FlB.inhabited
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:18:13.119028+00:00
 -- url     : https://prove2.me/theorems/6a9e164f-72a4-4d70-9c0a-6168c0f0f92e

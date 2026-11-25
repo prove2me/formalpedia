@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_HeightMultiplicativity_h0_pow_of_isMultiHomogeneous
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.HeightMultiplicativity.h0_pow_of_isMultiHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:36:11.08627+00:00
 -- url     : https://prove2.me/theorems/81019129-d5cf-555f-93dc-b0472e6aaa46

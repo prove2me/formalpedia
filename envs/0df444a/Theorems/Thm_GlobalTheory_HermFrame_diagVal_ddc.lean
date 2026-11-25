@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_diagVal_ddc
 -- name    : GlobalTheory.HermFrame.diagVal_ddc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:07:47.870062+00:00
 -- url     : https://prove2.me/theorems/69177c90-35b6-444a-8457-9e54b5fb620a

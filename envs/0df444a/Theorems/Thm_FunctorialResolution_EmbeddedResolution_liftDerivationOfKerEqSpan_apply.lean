@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_liftDerivationOfKerEqSpan_apply
 -- name    : FunctorialResolution.EmbeddedResolution.liftDerivationOfKerEqSpan_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:56:25.816462+00:00
 -- url     : https://prove2.me/theorems/232985e8-31c8-42ca-8fbf-1ce2b194af2a

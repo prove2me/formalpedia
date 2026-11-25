@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Mu_host_torsionOrder_le
 -- name    : UpperTheory.Mu.host_torsionOrder_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:37:40.859897+00:00
 -- url     : https://prove2.me/theorems/cd58dcb5-711a-43a4-b1bb-a95593caf86f

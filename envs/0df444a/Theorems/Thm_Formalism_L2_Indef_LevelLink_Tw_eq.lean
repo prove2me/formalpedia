@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_LevelLink_Tw_eq
 -- name    : Formalism.L2.Indef.LevelLink.Tw_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:46:53.474968+00:00
 -- url     : https://prove2.me/theorems/9299f328-d105-49fc-b0bc-8a4d7077baf6

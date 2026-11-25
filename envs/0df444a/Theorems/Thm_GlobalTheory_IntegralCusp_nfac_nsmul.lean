@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralCusp_nfac_nsmul
 -- name    : GlobalTheory.IntegralCusp.nfac_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:12:45.713021+00:00
 -- url     : https://prove2.me/theorems/ba499af4-9671-5db1-a302-da314d9dff96

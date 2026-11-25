@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_dL_inv_of_mul_eq_one
 -- name    : Formalism.L2.Th1.A.dL_inv_of_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:48:48.252704+00:00
 -- url     : https://prove2.me/theorems/f873331d-0d13-5525-b23c-9aa8a648aec2

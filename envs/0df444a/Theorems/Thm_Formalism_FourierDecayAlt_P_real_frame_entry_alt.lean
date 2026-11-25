@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_real_frame_entry_alt
 -- name    : Formalism.FourierDecayAlt.P.real_frame_entry_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:34:54.122509+00:00
 -- url     : https://prove2.me/theorems/96994d69-5207-583f-8afb-f783c9131739

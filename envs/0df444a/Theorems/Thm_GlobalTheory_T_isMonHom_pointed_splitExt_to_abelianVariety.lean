@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isMonHom_pointed_splitExt_to_abelianVariety
 -- name    : GlobalTheory.T.isMonHom_pointed_splitExt_to_abelianVariety
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T14:48:31.498737+00:00
 -- url     : https://prove2.me/theorems/e54c126d-20e4-4634-9fb7-6238640f256d

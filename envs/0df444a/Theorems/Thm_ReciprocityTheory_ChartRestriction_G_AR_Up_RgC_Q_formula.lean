@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_RgC_Q_formula
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.RgC.Q_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:02:21.313297+00:00
 -- url     : https://prove2.me/theorems/d6fb82aa-bdbe-548b-83e9-b4bb787ac612

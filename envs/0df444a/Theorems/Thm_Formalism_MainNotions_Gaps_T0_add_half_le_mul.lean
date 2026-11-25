@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_add_half_le_mul
 -- name    : Formalism.MainNotions.Gaps.T0.add_half_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:50:13.249683+00:00
 -- url     : https://prove2.me/theorems/068bac6e-668b-4b0b-bbb6-18e6eb97c6f2

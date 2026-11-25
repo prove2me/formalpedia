@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_lbIso_pw_pull_of_hasGen
 -- name    : GlobalTheory.UU.lbIso_pw_pull_of_hasGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:08:58.089823+00:00
 -- url     : https://prove2.me/theorems/71e824d6-a5d4-4314-964b-19286ee6d565

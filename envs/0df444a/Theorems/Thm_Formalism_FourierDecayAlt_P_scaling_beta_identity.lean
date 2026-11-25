@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_scaling_beta_identity
 -- name    : Formalism.FourierDecayAlt.P.scaling_beta_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:20.515023+00:00
 -- url     : https://prove2.me/theorems/615ef568-a746-5e0d-ac4f-2fbc7a1f22e4

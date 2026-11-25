@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_FrobeniusGroupField_sg_algebraMap
 -- name    : ReciprocityTheory.PGsh.Up.FrobeniusGroupField.sg_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:07:56.432675+00:00
 -- url     : https://prove2.me/theorems/1c9235e0-87ff-48bc-bc2a-7007d5a0e91e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_gelfand_tsetlin_scaling
 -- name    : gelfand_tsetlin_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:14:58.151017+00:00
 -- url     : https://prove2.me/theorems/c7e79bb2-d337-4273-9731-a911fda8643a

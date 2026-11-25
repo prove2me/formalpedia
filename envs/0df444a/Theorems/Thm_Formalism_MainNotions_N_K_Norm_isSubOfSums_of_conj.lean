@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_isSubOfSums_of_conj
 -- name    : Formalism.MainNotions.N.K.Norm.isSubOfSums_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:53:47.112789+00:00
 -- url     : https://prove2.me/theorems/cd6001a5-58c2-468a-9881-1289188cd32e

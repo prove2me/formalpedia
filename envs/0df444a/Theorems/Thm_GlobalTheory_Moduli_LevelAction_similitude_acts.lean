@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Moduli_LevelAction_similitude_acts
 -- name    : GlobalTheory.Moduli.LevelAction.similitude_acts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:26:39.933788+00:00
 -- url     : https://prove2.me/theorems/e32aedcd-f933-4575-95c9-4349ac2f9d55

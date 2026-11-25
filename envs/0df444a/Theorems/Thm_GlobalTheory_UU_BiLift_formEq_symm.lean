@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_BiLift_formEq_symm
 -- name    : GlobalTheory.UU.BiLift.formEq_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:05:44.711889+00:00
 -- url     : https://prove2.me/theorems/0dd810ab-a4fb-437b-a60d-62f1be335f2f

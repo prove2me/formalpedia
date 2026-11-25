@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BorelUMod_isOpen_vball
 -- name    : GlobalTheory.BorelUMod.isOpen_vball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:00:17.227478+00:00
 -- url     : https://prove2.me/theorems/afc47dfc-a911-472e-8396-b9a220a5794f

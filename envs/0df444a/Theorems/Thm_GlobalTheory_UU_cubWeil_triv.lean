@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_cubWeil_triv
 -- name    : GlobalTheory.UU.cubWeil_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:45:31.6858+00:00
 -- url     : https://prove2.me/theorems/b4631879-6442-4cd7-ba2d-783555725454

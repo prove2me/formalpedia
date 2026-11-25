@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_teichmuller_frobenius_fixed
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.teichmuller_frobenius_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:41:05.366369+00:00
 -- url     : https://prove2.me/theorems/fe535b36-bcca-512b-887b-4804216483cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_mean_amplitude_joint
 -- name    : Formalism.FourierDecayAlt.P.mean_amplitude_joint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:35:21.696396+00:00
 -- url     : https://prove2.me/theorems/64d9deb3-9288-515e-8cb1-cf92f1914bc8

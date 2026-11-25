@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmGL_isSmooth_iff_isSmoothRep
 -- name    : GlobalTheory.SmGL.isSmooth_iff_isSmoothRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:23:52.312982+00:00
 -- url     : https://prove2.me/theorems/917bdbc2-0e8e-4a47-99a8-9a7375c4ed27

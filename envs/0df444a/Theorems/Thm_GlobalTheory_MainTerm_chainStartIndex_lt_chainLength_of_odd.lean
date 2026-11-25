@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_chainStartIndex_lt_chainLength_of_odd
 -- name    : GlobalTheory.MainTerm.chainStartIndex_lt_chainLength_of_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:14:14.751407+00:00
 -- url     : https://prove2.me/theorems/dd3023f0-e1b9-4508-9031-3060a8613971

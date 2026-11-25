@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_pullPow_triv
 -- name    : GlobalTheory.SS.pullPow_triv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:21:43.687783+00:00
 -- url     : https://prove2.me/theorems/7787256f-1879-5ab2-a567-eea0e7856c46

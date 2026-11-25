@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Sandwich_HodgeTateBound_mul_swap
 -- name    : GlobalTheory.Sandwich.HodgeTateBound.mul_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:30:00.547859+00:00
 -- url     : https://prove2.me/theorems/1004e216-6b13-4078-9dfe-5acf3c3a7260

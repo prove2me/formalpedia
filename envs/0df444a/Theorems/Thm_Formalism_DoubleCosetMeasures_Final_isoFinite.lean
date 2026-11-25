@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DoubleCosetMeasures_Final_isoFinite
 -- name    : Formalism.DoubleCosetMeasures.Final.isoFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:24:31.641353+00:00
 -- url     : https://prove2.me/theorems/d908907e-3db3-49f3-a5ba-8948bd5f6a11

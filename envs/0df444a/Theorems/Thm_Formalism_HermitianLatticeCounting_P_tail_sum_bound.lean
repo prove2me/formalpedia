@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_tail_sum_bound
 -- name    : Formalism.HermitianLatticeCounting.P.tail_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:41:20.19751+00:00
 -- url     : https://prove2.me/theorems/8bd6a59a-4d9e-4e5b-97a1-28f4ed6914f7

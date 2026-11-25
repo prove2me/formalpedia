@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCount_fdeg_and_nd
 -- name    : GlobalTheory.ChartCount.fdeg_and_nd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:59:28.364638+00:00
 -- url     : https://prove2.me/theorems/d175cd0a-f639-47e4-a6c5-8747e3a9b96d

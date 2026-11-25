@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_normOrd_length_succ
 -- name    : ReciprocityTheory.MultiplicativeHeights.normOrd_length_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:04:28.070217+00:00
 -- url     : https://prove2.me/theorems/708bf274-5e9f-47ee-87cd-ffc7901dba7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_hermitian_diagonalisation
 -- name    : UpperTheory.hermitian_diagonalisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:12:37.755973+00:00
 -- url     : https://prove2.me/theorems/cf4fc9ca-18a4-5627-9b73-daeccaa4313c

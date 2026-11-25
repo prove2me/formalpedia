@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryActHermitianBlock_diagOne_liftLastBasis
 -- name    : GlobalTheory.T.unitaryActHermitianBlock_diagOne_liftLastBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:40:31.913286+00:00
 -- url     : https://prove2.me/theorems/1c71945e-387f-5273-91bd-52721f176f57

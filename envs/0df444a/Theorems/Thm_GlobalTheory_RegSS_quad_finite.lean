@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_quad_finite
 -- name    : GlobalTheory.RegSS.quad_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:33:05.114137+00:00
 -- url     : https://prove2.me/theorems/b7f66354-348b-4fab-824b-8b43a943829c

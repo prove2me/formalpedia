@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_NG_deltaValLe
 -- name    : Formalism.NG.deltaValLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:51:45.105173+00:00
 -- url     : https://prove2.me/theorems/538d8f8a-47ac-491d-9f28-73273ce6f5c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_flag_gram_nonneg
 -- name    : flag_gram_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:14:37.837348+00:00
 -- url     : https://prove2.me/theorems/988a53e9-d48c-44ae-a0e9-908d219a8ba0

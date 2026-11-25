@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S4_overlatticeCount
 -- name    : Formalism.HermitianLatticeCounting.Final.S4.overlatticeCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:37:19.351621+00:00
 -- url     : https://prove2.me/theorems/ea5ea89a-cb97-523a-bd97-c2b2f64c02c1

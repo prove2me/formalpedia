@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_aeval_trv_set
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.aeval_trv_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:09:17.419896+00:00
 -- url     : https://prove2.me/theorems/4dac0751-0f67-5d22-bb2a-6bee89646011

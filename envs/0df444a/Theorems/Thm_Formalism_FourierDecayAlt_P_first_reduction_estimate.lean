@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_first_reduction_estimate
 -- name    : Formalism.FourierDecayAlt.P.first_reduction_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:32:54.017133+00:00
 -- url     : https://prove2.me/theorems/1a79d7d1-37ee-50cd-85c8-dcabf9d4a81a

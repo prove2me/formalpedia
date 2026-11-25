@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_GSD_triv_point_ip
 -- name    : Formalism.L2.Col.GSD.triv_point_ip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:43:54.28945+00:00
 -- url     : https://prove2.me/theorems/9f687699-b6e7-45c1-811b-98dbf861127d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaBaseChange_exists_gen_up
 -- name    : GlobalTheory.ThetaBaseChange.exists_gen_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:05:13.126412+00:00
 -- url     : https://prove2.me/theorems/bef765f3-5cb7-4e81-a0ac-e8c12d599f4a

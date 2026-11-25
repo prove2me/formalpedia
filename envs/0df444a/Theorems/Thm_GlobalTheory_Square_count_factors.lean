@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Square_count_factors
 -- name    : GlobalTheory.Square.count_factors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:26:03.122797+00:00
 -- url     : https://prove2.me/theorems/12f26a96-eb67-4cb1-86ac-fc4e3be67364

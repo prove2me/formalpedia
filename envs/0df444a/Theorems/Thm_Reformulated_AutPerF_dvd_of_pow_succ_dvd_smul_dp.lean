@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_dvd_of_pow_succ_dvd_smul_dp
 -- name    : Reformulated.AutPerF.dvd_of_pow_succ_dvd_smul_dp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:02.589834+00:00
 -- url     : https://prove2.me/theorems/18df70fb-f8d9-4a09-b890-87cf0d7eb901

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_harmonicFinrank_holds
 -- name    : Formalism.CountingSumsFrames.harmonicFinrank_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:24:44.533964+00:00
 -- url     : https://prove2.me/theorems/cbabe283-8281-46c3-8b51-fc039526aaa4

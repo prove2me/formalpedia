@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_nu_index
 -- name    : Formalism.FourierDecayAlt.P.nu_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:33:49.412114+00:00
 -- url     : https://prove2.me/theorems/09a2fa9f-45cc-516b-a4d3-9060ce9ede20

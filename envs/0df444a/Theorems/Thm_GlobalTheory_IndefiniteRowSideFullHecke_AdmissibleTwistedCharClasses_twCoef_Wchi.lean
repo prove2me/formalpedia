@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AdmissibleTwistedCharClasses_twCoef_Wchi
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AdmissibleTwistedCharClasses.twCoef_Wchi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:08:05.785939+00:00
 -- url     : https://prove2.me/theorems/c6034977-aff9-5189-8209-87975c436ed2

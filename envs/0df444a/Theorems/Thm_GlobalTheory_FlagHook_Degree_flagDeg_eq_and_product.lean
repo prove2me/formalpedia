@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagHook_Degree_flagDeg_eq_and_product
 -- name    : GlobalTheory.FlagHook.Degree.flagDeg_eq_and_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:05:27.261387+00:00
 -- url     : https://prove2.me/theorems/26a3a411-e4d0-47e3-ba45-c77b0fe103ac

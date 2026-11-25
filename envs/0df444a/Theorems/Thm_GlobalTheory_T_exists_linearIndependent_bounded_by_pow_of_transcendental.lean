@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_linearIndependent_bounded_by_pow_of_transcendental
 -- name    : GlobalTheory.T.exists_linearIndependent_bounded_by_pow_of_transcendental
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:30:33.318803+00:00
 -- url     : https://prove2.me/theorems/3c5d46e8-4e17-4a34-b1a4-9cd6b821c9b1

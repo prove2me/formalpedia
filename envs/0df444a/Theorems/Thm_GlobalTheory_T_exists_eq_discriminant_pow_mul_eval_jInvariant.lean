@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_eq_discriminant_pow_mul_eval_jInvariant
 -- name    : GlobalTheory.T.exists_eq_discriminant_pow_mul_eval_jInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:34:21.046887+00:00
 -- url     : https://prove2.me/theorems/a1990b62-ea2b-431a-ad84-506bc9a29e31

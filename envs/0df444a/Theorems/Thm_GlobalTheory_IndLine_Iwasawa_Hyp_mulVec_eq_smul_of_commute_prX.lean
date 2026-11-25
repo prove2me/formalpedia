@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndLine_Iwasawa_Hyp_mulVec_eq_smul_of_commute_prX
 -- name    : GlobalTheory.IndLine.Iwasawa.Hyp.mulVec_eq_smul_of_commute_prX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:07:31.855559+00:00
 -- url     : https://prove2.me/theorems/9b5e8e4b-5f84-5c2f-b8e7-0b8cc23643a6

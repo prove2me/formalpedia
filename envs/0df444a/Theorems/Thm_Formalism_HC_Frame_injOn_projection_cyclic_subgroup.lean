@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Frame_injOn_projection_cyclic_subgroup
 -- name    : Formalism.HC.Frame.injOn_projection_cyclic_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:37:36.765721+00:00
 -- url     : https://prove2.me/theorems/70063f16-6aa5-5b2e-8ba6-6344c6e0f367

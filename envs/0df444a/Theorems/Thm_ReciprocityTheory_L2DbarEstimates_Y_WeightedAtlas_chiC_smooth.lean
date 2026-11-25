@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_Y_WeightedAtlas_chiC_smooth
 -- name    : ReciprocityTheory.L2DbarEstimates.Y.WeightedAtlas.chiC_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:00:35.508748+00:00
 -- url     : https://prove2.me/theorems/0f95c551-3aa0-4167-a0ea-8495bd8a87f7

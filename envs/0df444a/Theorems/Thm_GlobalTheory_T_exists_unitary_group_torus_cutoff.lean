@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_group_torus_cutoff
 -- name    : GlobalTheory.T.exists_unitary_group_torus_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:18.439485+00:00
 -- url     : https://prove2.me/theorems/945c044b-c4e7-4e98-a084-0a4c67e57331

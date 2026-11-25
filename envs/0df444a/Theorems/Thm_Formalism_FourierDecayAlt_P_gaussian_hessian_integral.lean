@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gaussian_hessian_integral
 -- name    : Formalism.FourierDecayAlt.P.gaussian_hessian_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:30:28.546978+00:00
 -- url     : https://prove2.me/theorems/d51b3151-ed44-5746-9871-c46969b4c5f2

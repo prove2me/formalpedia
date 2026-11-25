@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelTupleSum_exists_reps
 -- name    : GlobalTheory.LevelTupleSum.exists_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:18:50.498273+00:00
 -- url     : https://prove2.me/theorems/a5160934-257d-5952-b0b3-2d011b458735

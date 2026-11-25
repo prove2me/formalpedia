@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_smooth_prodMapOnPreimage
 -- name    : FunctorialResolution.EmbeddedResolution.smooth_prodMapOnPreimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:54.250557+00:00
 -- url     : https://prove2.me/theorems/f6be9b96-bd01-4395-a7bb-15ae44b76512

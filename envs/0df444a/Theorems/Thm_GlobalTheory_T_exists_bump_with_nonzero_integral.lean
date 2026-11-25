@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_bump_with_nonzero_integral
 -- name    : GlobalTheory.T.exists_bump_with_nonzero_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:28:45.617209+00:00
 -- url     : https://prove2.me/theorems/68867258-9f26-4cad-99c6-880370aef06c

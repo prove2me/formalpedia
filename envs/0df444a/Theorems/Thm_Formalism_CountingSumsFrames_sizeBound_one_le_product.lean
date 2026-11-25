@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_sizeBound_one_le_product
 -- name    : Formalism.CountingSumsFrames.sizeBound_one_le_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:24:46.049318+00:00
 -- url     : https://prove2.me/theorems/f8100c35-a1d3-40eb-bde0-ef677ca59647

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquetRallis_matching_add
 -- name    : GlobalTheory.T.jacquetRallis_matching_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:34:30.322366+00:00
 -- url     : https://prove2.me/theorems/90d93d6e-5ae5-5906-ad1b-941d94c1ad27

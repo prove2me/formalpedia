@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Col_add_add_sum_replicate_eq_add_mul_succ
 -- name    : Formalism.L2.Col.add_add_sum_replicate_eq_add_mul_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:44:07.528653+00:00
 -- url     : https://prove2.me/theorems/dc55db03-4ef6-4c7a-9f32-3bc55cb98a74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cris_cl_tdt_ne_zero
 -- name    : GlobalTheory.Cris.cl_tdt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:02:58.8326+00:00
 -- url     : https://prove2.me/theorems/4f839639-d580-5bbe-98e8-7c7f350ca00e

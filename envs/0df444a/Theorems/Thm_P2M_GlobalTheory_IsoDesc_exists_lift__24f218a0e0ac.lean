@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IsoDesc_exists_lift__24f218a0e0ac
 -- name    : P2M_GlobalTheory_IsoDesc_exists_lift__24f218a0e0ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:07:11.062644+00:00
 -- url     : https://prove2.me/theorems/f5efbe87-4b91-550a-b6a8-30316a85ce3a

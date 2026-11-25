@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_borderedInvariants_and_hankelDet_map_ringHom
 -- name    : GlobalTheory.T.borderedInvariants_and_hankelDet_map_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:26:43.443774+00:00
 -- url     : https://prove2.me/theorems/19c2c988-f589-44e6-a93b-8ef86ffce841

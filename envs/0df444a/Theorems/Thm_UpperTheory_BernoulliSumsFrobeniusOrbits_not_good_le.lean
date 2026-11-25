@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_BernoulliSumsFrobeniusOrbits_not_good_le
 -- name    : UpperTheory.BernoulliSumsFrobeniusOrbits.not_good_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:11:55.256911+00:00
 -- url     : https://prove2.me/theorems/2f924ad1-634d-58ae-93b1-f7392a415e9c

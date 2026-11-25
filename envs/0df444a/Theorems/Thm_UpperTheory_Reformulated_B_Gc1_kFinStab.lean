@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_Gc1_kFinStab
 -- name    : UpperTheory.Reformulated.B.Gc1.kFinStab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:50:10.467808+00:00
 -- url     : https://prove2.me/theorems/29d7cfde-a029-4093-a44c-b00790159711

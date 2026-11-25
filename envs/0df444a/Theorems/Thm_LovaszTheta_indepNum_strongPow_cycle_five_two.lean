@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszTheta_indepNum_strongPow_cycle_five_two
 -- name    : LovaszTheta.indepNum_strongPow_cycle_five_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:37:10.680217+00:00
 -- url     : https://prove2.me/theorems/978608b0-c514-5416-8319-5fe8009802f0

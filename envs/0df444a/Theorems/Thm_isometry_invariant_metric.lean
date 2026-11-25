@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_isometry_invariant_metric
 -- name    : isometry_invariant_metric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:15:29.485591+00:00
 -- url     : https://prove2.me/theorems/08a17c3a-2f6a-4f39-b64d-458e1c491d92

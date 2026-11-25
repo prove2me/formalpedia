@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_induced_generated_by_K_finite
 -- name    : GlobalTheory.T.induced_generated_by_K_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:33:23.06121+00:00
 -- url     : https://prove2.me/theorems/df6bbff8-87c4-4386-8762-b412e72ee26f

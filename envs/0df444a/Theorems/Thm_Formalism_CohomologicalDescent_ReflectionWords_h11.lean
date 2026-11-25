@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ReflectionWords_h11
 -- name    : Formalism.CohomologicalDescent.ReflectionWords.h11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:21:55.546065+00:00
 -- url     : https://prove2.me/theorems/96e41270-a553-49fa-b58d-228fc82ed3ce

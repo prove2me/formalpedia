@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelCoverDatum_half_unique
 -- name    : GlobalTheory.LevelCoverDatum.half_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:18:06.028695+00:00
 -- url     : https://prove2.me/theorems/46a90bac-5250-5821-83b5-5300a4177ade

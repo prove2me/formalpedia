@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FrameWeightGapBounds_epsBound
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FrameWeightGapBounds.epsBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:08:48.958635+00:00
 -- url     : https://prove2.me/theorems/c85ffa72-b9d0-49c0-8825-f531090a64ec

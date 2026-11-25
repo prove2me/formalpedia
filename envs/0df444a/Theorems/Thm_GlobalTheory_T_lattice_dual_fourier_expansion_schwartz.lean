@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_dual_fourier_expansion_schwartz
 -- name    : GlobalTheory.T.lattice_dual_fourier_expansion_schwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:34:45.01663+00:00
 -- url     : https://prove2.me/theorems/010143bb-93ed-469b-87f8-458f7041af41

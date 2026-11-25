@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_integral_ring_second_level
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.integral_ring_second_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:25:11.092936+00:00
 -- url     : https://prove2.me/theorems/8e9eca01-5205-4de6-ab56-e56e90d37b50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_restBlockSubst_isMultiHomogeneous
 -- name    : ReciprocityTheory.MultiplicativeHeights.restBlockSubst_isMultiHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:04:44.247422+00:00
 -- url     : https://prove2.me/theorems/ebf2282c-27cf-4f8e-9b93-42bb41b23a72

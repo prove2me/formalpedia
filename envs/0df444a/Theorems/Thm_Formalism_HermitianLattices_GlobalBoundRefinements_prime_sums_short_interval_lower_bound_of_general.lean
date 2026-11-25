@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GlobalBoundRefinements_prime_sums_short_interval_lower_bound_of_general
 -- name    : Formalism.HermitianLattices.GlobalBoundRefinements.prime_sums_short_interval_lower_bound_of_general
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:42:16.33255+00:00
 -- url     : https://prove2.me/theorems/b5077b22-39b7-4a6a-9db3-f027d793745f

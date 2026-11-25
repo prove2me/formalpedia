@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_PositiveTwistAverage_omTw_one
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.PositiveTwistAverage.omTw_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:09:36.048949+00:00
 -- url     : https://prove2.me/theorems/1a746561-e6f5-50ee-8291-0ef03cc8e73d

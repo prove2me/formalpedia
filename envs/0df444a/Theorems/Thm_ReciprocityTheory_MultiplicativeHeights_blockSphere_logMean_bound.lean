@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_blockSphere_logMean_bound
 -- name    : ReciprocityTheory.MultiplicativeHeights.blockSphere_logMean_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:54:31.072729+00:00
 -- url     : https://prove2.me/theorems/062da989-14ce-4670-8a3d-799fdbfcbeac

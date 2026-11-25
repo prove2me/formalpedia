@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_baseChange_id
 -- name    : GlobalTheory.ProjSpace.baseChange_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:17:26.494207+00:00
 -- url     : https://prove2.me/theorems/c4059f7a-6b1e-5386-a0e9-668d064fa907

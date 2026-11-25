@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_limit_B
 -- name    : Formalism.FourierDecayAlt.P.limit_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:32:51.601738+00:00
 -- url     : https://prove2.me/theorems/5b807fb8-b75e-5e52-9617-09db0869c0e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TorusGrading_toSpec__appLE_fromSpec_57347db5ee06
 -- name    : P2M_GlobalTheory_TorusGrading_toSpec__appLE_fromSpec_57347db5ee06
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:03:40.148012+00:00
 -- url     : https://prove2.me/theorems/836d42ca-fa53-483a-bc1c-66d549bdc343

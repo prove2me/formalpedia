@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_DiscreteGroups_LocalClassField_card_h2_trivial_int_cyclic
 -- name    : ReciprocityTheory.DiscreteGroups.LocalClassField.card_h2_trivial_int_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:06:02.566432+00:00
 -- url     : https://prove2.me/theorems/31b16340-23ef-4ac7-9fad-738da9d3bf65

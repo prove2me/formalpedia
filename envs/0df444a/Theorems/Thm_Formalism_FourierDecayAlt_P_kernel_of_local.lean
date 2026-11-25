@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_kernel_of_local
 -- name    : Formalism.FourierDecayAlt.P.kernel_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:32:52.036738+00:00
 -- url     : https://prove2.me/theorems/dc4b5238-bcc4-4602-8acd-913e582d67d8

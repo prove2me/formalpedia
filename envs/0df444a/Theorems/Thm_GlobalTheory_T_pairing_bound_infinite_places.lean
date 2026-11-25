@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pairing_bound_infinite_places
 -- name    : GlobalTheory.T.pairing_bound_infinite_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:36:04.052662+00:00
 -- url     : https://prove2.me/theorems/959dbc30-511c-41ab-9409-8a69575461da

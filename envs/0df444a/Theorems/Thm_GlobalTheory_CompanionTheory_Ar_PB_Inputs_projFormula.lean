@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_projFormula
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.projFormula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:05:18.71679+00:00
 -- url     : https://prove2.me/theorems/70c1b64f-e14d-51f7-a19f-9f33baedfcd9

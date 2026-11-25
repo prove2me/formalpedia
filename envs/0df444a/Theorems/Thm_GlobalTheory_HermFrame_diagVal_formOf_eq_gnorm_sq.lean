@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_diagVal_formOf_eq_gnorm_sq
 -- name    : GlobalTheory.HermFrame.diagVal_formOf_eq_gnorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:07:06.983288+00:00
 -- url     : https://prove2.me/theorems/9e80268f-6c8d-4e6a-92ed-4f8c1fc09007

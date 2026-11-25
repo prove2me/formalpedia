@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_DYhc8_main
 -- name    : UpperTheory.Reformulated.B.DYhc8.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:11:58.770433+00:00
 -- url     : https://prove2.me/theorems/b1a1a046-9517-468f-8e2e-801b96eba95e

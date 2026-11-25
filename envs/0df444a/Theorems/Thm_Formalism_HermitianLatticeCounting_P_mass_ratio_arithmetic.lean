@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_mass_ratio_arithmetic
 -- name    : Formalism.HermitianLatticeCounting.P.mass_ratio_arithmetic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:39:29.819209+00:00
 -- url     : https://prove2.me/theorems/32e1448a-8f49-533f-9a24-f3f3042b4d1c

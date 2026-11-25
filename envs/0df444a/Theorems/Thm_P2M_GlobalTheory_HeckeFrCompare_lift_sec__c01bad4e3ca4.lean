@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HeckeFrCompare_lift_sec__c01bad4e3ca4
 -- name    : P2M_GlobalTheory_HeckeFrCompare_lift_sec__c01bad4e3ca4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:46:19.434897+00:00
 -- url     : https://prove2.me/theorems/d8b60aa6-e43f-404c-ae57-43f313982791

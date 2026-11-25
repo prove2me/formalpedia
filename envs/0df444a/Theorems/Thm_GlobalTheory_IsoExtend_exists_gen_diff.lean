@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoExtend_exists_gen_diff
 -- name    : GlobalTheory.IsoExtend.exists_gen_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:16:35.186738+00:00
 -- url     : https://prove2.me/theorems/27491b9a-3f34-495d-9477-052750f0af19

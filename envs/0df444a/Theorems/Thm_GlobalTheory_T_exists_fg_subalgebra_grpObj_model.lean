@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_fg_subalgebra_grpObj_model
 -- name    : GlobalTheory.T.exists_fg_subalgebra_grpObj_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T15:07:39.082082+00:00
 -- url     : https://prove2.me/theorems/a45cd9c0-4f14-434b-98cc-35939d4f00f4

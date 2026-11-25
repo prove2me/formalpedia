@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifZero_expandsAt_iff
 -- name    : GlobalTheory.UnifZero.expandsAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T15:00:45.265986+00:00
 -- url     : https://prove2.me/theorems/2eafed64-6d81-4dcf-bfb1-bde4b6b92aa0

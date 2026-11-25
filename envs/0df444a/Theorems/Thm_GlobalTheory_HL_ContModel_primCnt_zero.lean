@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_primCnt_zero
 -- name    : GlobalTheory.HL.ContModel.primCnt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:14.406176+00:00
 -- url     : https://prove2.me/theorems/dcf4fefd-dc18-5cf6-840e-774e4e92b41a

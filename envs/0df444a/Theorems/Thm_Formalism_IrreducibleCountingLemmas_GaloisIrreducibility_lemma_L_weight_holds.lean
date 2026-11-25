@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_lemma_L_weight_holds
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.lemma_L_weight_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:42:37.937921+00:00
 -- url     : https://prove2.me/theorems/39430690-64c0-43a8-8535-c493c42b9527

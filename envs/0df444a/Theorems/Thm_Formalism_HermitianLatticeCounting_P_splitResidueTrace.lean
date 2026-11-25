@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_splitResidueTrace
 -- name    : Formalism.HermitianLatticeCounting.P.splitResidueTrace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:33.482498+00:00
 -- url     : https://prove2.me/theorems/464f5485-411e-491e-9915-01f0ca6ff0c3

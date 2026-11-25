@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_witt_pairing
 -- name    : witt_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:20:17.850468+00:00
 -- url     : https://prove2.me/theorems/8a0703b0-fd71-462c-b2e5-f176a96fd464

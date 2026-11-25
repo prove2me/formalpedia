@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_siegel_fock_form_of_complex_structure
 -- name    : GlobalTheory.T.exists_siegel_fock_form_of_complex_structure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:30:53.686715+00:00
 -- url     : https://prove2.me/theorems/61623c06-2760-591f-8339-ef9a680ef42d

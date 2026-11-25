@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_block_determinant_law
 -- name    : GlobalTheory.T.block_determinant_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:27:13.12827+00:00
 -- url     : https://prove2.me/theorems/1c95cdfa-1ad2-4909-8064-c19fd7de084b

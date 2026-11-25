@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_gaussLatticeProjectionExponent_holds
 -- name    : Formalism.CountingSumsFrames.gaussLatticeProjectionExponent_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:23:37.954773+00:00
 -- url     : https://prove2.me/theorems/775d8b5e-68af-453c-94f0-0f77fa64d822

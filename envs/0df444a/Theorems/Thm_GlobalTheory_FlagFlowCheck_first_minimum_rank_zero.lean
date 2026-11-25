@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagFlowCheck_first_minimum_rank_zero
 -- name    : GlobalTheory.FlagFlowCheck.first_minimum_rank_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:05:18.130638+00:00
 -- url     : https://prove2.me/theorems/39543c56-b9e8-41d0-a55c-be7a4e16fabc

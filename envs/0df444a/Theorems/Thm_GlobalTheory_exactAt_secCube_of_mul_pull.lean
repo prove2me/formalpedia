@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exactAt_secCube_of_mul_pull
 -- name    : GlobalTheory.exactAt_secCube_of_mul_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:01:36.191102+00:00
 -- url     : https://prove2.me/theorems/5cec91f3-b849-5aca-8779-b952490d6113

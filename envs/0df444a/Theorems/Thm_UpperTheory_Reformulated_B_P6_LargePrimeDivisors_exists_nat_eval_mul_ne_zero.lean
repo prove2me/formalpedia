@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_LargePrimeDivisors_exists_nat_eval_mul_ne_zero
 -- name    : UpperTheory.Reformulated.B.P6.LargePrimeDivisors.exists_nat_eval_mul_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:23.039626+00:00
 -- url     : https://prove2.me/theorems/aa3e4b5f-f386-53b7-a333-0321ce2e9aba

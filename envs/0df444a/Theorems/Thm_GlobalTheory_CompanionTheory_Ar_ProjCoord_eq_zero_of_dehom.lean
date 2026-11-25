@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_ProjCoord_eq_zero_of_dehom
 -- name    : GlobalTheory.CompanionTheory.Ar.ProjCoord.eq_zero_of_dehom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:10.30989+00:00
 -- url     : https://prove2.me/theorems/fe495d4f-46b3-59dc-b1b6-22fd8f8b9364

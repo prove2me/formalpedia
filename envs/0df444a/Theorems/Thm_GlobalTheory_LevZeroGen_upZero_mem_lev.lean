@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevZeroGen_upZero_mem_lev
 -- name    : GlobalTheory.LevZeroGen.upZero_mem_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:13:39.990038+00:00
 -- url     : https://prove2.me/theorems/b04160ee-9e06-4a34-ae24-7a0d1090ab86

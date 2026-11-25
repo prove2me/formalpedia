@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_form_diagonalizes_over_field
 -- name    : GlobalTheory.T.hermitian_form_diagonalizes_over_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:45:43.71861+00:00
 -- url     : https://prove2.me/theorems/56256a8d-b70a-4d55-8e64-f79eb10833e4

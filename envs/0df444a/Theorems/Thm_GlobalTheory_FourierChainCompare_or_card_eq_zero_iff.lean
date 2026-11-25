@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FourierChainCompare_or_card_eq_zero_iff
 -- name    : GlobalTheory.FourierChainCompare.or_card_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:50.508854+00:00
 -- url     : https://prove2.me/theorems/e3f1aa40-f01d-5ef3-98b1-f03559f10391

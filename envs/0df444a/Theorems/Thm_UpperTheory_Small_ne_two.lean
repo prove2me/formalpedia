@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_ne_two
 -- name    : UpperTheory.Small.ne_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:12:45.978062+00:00
 -- url     : https://prove2.me/theorems/203e85d5-9c8f-5102-9d69-ecf2fdab1db0

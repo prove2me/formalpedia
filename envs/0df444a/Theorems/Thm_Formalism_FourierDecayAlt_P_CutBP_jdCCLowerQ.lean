@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_jdCCLowerQ
 -- name    : Formalism.FourierDecayAlt.P.CutBP.jdCCLowerQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:29:23.462184+00:00
 -- url     : https://prove2.me/theorems/2aedf7a2-4abf-455a-b48c-d1cf0dacd5c9

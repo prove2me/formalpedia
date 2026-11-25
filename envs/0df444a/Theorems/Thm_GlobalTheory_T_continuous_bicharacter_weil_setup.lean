@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_bicharacter_weil_setup
 -- name    : GlobalTheory.T.continuous_bicharacter_weil_setup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:47.792561+00:00
 -- url     : https://prove2.me/theorems/d9b2d513-516b-4508-a8c3-098c698644d6

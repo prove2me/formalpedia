@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_PullbackSections_jet__loc_e980629664a9
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_PullbackSections_jet__loc_e980629664a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:20:24.770987+00:00
 -- url     : https://prove2.me/theorems/c42c4993-0cb5-4805-8657-3a58c88b6ea2

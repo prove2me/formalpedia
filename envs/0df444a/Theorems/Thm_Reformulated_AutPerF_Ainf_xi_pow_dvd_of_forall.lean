@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Ainf_xi_pow_dvd_of_forall
 -- name    : Reformulated.AutPerF.Ainf.xi_pow_dvd_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:22:26.461238+00:00
 -- url     : https://prove2.me/theorems/17c241a7-57a4-4a09-aba7-47e0291dcec7

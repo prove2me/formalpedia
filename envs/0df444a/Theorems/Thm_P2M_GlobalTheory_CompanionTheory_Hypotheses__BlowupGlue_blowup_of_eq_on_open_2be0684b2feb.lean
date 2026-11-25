@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_blowup_of_eq_on_open_2be0684b2feb
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__BlowupGlue_blowup_of_eq_on_open_2be0684b2feb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:42:31.303058+00:00
 -- url     : https://prove2.me/theorems/1ce3b2bf-83f6-46f1-959b-b1c175783da0

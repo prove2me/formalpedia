@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_exists_smul_of_twCoord
 -- name    : GlobalTheory.AbLaw.exists_smul_of_twCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T15:09:05.28071+00:00
 -- url     : https://prove2.me/theorems/9ea69927-8aef-56d6-bf45-01263351ab9f

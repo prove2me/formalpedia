@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_normSq__0_diag_d4b194bb0a12
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_normSq__0_diag_d4b194bb0a12
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:56:46.646935+00:00
 -- url     : https://prove2.me/theorems/98d19eb6-8a85-49d7-b952-03a62470a2c7

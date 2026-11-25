@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_finite_galois_fractionRing_fixing
 -- name    : GlobalTheory.T.exists_finite_galois_fractionRing_fixing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:29:14.604658+00:00
 -- url     : https://prove2.me/theorems/e0db98ee-c046-4821-b8b5-f044363a81fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_symbolic_power_from_affine_chart
 -- name    : GlobalTheory.T.symbolic_power_from_affine_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:03:56.616328+00:00
 -- url     : https://prove2.me/theorems/f9f677df-8fbe-44d3-8229-6c4767dfc457

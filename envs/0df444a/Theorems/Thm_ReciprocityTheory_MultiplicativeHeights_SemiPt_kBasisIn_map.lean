@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiPt_kBasisIn_map
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiPt.kBasisIn_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:03:17.401808+00:00
 -- url     : https://prove2.me/theorems/db6fc31c-1493-58ae-aa8d-e5ed823cba09

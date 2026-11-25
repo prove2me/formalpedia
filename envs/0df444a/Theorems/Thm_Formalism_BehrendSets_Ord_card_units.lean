@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BehrendSets_Ord_card_units
 -- name    : Formalism.BehrendSets.Ord.card_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:20:13.586401+00:00
 -- url     : https://prove2.me/theorems/2cc16d9a-d492-47b7-9a1f-8cfc88e6abd6

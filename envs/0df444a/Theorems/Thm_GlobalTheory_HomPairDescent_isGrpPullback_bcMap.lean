@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomPairDescent_isGrpPullback_bcMap
 -- name    : GlobalTheory.HomPairDescent.isGrpPullback_bcMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:54:14.143988+00:00
 -- url     : https://prove2.me/theorems/5adc9822-2a84-5cb5-baa3-e1f6c5a27799

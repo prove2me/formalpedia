@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalDens_solCount_congr
 -- name    : GlobalTheory.CompanionTheory.LocalDens.solCount_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:41.753503+00:00
 -- url     : https://prove2.me/theorems/cc52f8a7-d51b-5229-aad3-7ab24c2e2512

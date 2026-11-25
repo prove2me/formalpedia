@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ToricData_gtAct_pt
 -- name    : GlobalTheory.ToricData.gtAct_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:47:40.308861+00:00
 -- url     : https://prove2.me/theorems/851b9972-b895-55dd-9aa3-799d0e7df116

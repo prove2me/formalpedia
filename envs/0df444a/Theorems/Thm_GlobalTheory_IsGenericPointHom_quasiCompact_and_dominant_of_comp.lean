@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsGenericPointHom_quasiCompact_and_dominant_of_comp
 -- name    : GlobalTheory.IsGenericPointHom.quasiCompact_and_dominant_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:24:48.062159+00:00
 -- url     : https://prove2.me/theorems/bc39161f-4eb7-5f51-9808-68b11434906a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qh_N_normal
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qh_N_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:41:40.284799+00:00
 -- url     : https://prove2.me/theorems/a409996f-787d-5740-832c-f08d58261e7c

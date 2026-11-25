@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameUnits_exists_period_norm_le
 -- name    : GlobalTheory.FrameUnits.exists_period_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:06:54.411805+00:00
 -- url     : https://prove2.me/theorems/9e2fab5f-e639-4c69-9b5a-fdedbd2823ed

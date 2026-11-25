@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_unitary_multiplicative_eq_arg_pow
 -- name    : GlobalTheory.T.continuous_unitary_multiplicative_eq_arg_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:27:56.456136+00:00
 -- url     : https://prove2.me/theorems/43f75b7d-658e-4613-a837-341829b08923

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PTheta_sphereQuadraticPositivity_term_bound
 -- name    : ReciprocityTheory.PTheta.sphereQuadraticPositivity.term_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:49.019673+00:00
 -- url     : https://prove2.me/theorems/879baed4-0852-52f0-82c5-8e69346c21b5

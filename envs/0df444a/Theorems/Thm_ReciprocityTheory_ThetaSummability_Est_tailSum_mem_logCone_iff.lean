@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ThetaSummability_Est_tailSum_mem_logCone_iff
 -- name    : ReciprocityTheory.ThetaSummability.Est.tailSum_mem_logCone_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:10:16.578412+00:00
 -- url     : https://prove2.me/theorems/98f61651-046a-4e40-9c34-0b3b9f4a3201

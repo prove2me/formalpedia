@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMVal_Model_lInf_eq
 -- name    : GlobalTheory.CMVal.Model.lInf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:59:06.701424+00:00
 -- url     : https://prove2.me/theorems/af2ce920-2d31-43fc-b7e3-df03fe5b01f7

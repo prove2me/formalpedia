@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flat_of_local_retractions_mod_maximalIdeal_pow
 -- name    : GlobalTheory.T.flat_of_local_retractions_mod_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:32:33.368897+00:00
 -- url     : https://prove2.me/theorems/20f3955c-5521-4f33-b4ff-74eacb5b1912

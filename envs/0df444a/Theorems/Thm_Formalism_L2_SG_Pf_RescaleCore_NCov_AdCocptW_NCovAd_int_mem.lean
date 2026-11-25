@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RescaleCore_NCov_AdCocptW_NCovAd_int_mem
 -- name    : Formalism.L2.SG.Pf.RescaleCore.NCov.AdCocptW.NCovAd_int_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:48:47.746956+00:00
 -- url     : https://prove2.me/theorems/55d49274-fcda-4338-94ec-029603c556c3

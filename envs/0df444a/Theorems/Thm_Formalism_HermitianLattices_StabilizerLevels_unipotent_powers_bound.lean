@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_unipotent_powers_bound
 -- name    : Formalism.HermitianLattices.StabilizerLevels.unipotent_powers_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:44:57.885073+00:00
 -- url     : https://prove2.me/theorems/0a10f193-972a-46c7-a333-afa3412d3b15

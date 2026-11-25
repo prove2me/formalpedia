@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Principalise_effCartier_top
 -- name    : GlobalTheory.Principalise.effCartier_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:09.569196+00:00
 -- url     : https://prove2.me/theorems/99d49fc5-6f17-5d65-8314-5b8bf0dc1b3c

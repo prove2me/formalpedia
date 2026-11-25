@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Retract_formallyUnramified
 -- name    : GlobalTheory.Retract.formallyUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:19:44.704415+00:00
 -- url     : https://prove2.me/theorems/0af29764-0b41-5aac-803e-d701ba59344e

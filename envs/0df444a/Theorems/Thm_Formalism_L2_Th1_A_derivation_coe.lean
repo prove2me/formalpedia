@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_derivation_coe
 -- name    : Formalism.L2.Th1.A.derivation_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:47:20.023543+00:00
 -- url     : https://prove2.me/theorems/4dfdad9c-9f78-5b21-8030-e919a96658a5

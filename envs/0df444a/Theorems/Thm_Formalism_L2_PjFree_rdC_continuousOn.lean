@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_PjFree_rdC_continuousOn
 -- name    : Formalism.L2.PjFree.rdC_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:46:39.356703+00:00
 -- url     : https://prove2.me/theorems/53f3e2f7-857a-5b88-a750-1cae83517ef9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primeToPart_level_exists_unique_mono
 -- name    : GlobalTheory.T.primeToPart_level_exists_unique_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:35.250415+00:00
 -- url     : https://prove2.me/theorems/8c1fe79a-a117-533f-9b78-99c72cd322e8

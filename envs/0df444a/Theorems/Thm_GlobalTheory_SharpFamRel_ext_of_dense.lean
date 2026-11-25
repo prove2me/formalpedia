@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpFamRel_ext_of_dense
 -- name    : GlobalTheory.SharpFamRel.ext_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:57:18.279992+00:00
 -- url     : https://prove2.me/theorems/acd643ac-2f53-5b9b-80e5-7f1ca305d626

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_flatIntegrable
 -- name    : GlobalTheory.FunObj.flatIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:19.342016+00:00
 -- url     : https://prove2.me/theorems/9b69debf-03df-4cc1-a454-d8d7d7dee562

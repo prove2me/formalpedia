@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Ram_exists_place_over
 -- name    : UpperTheory.Ram.exists_place_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:12:25.803038+00:00
 -- url     : https://prove2.me/theorems/9ecb4fe2-c91e-59ae-adff-8d81a24b1c5b

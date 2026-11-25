@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_descend_element_of_field_equalizer_faithfully_flat
 -- name    : GlobalTheory.T.descend_element_of_field_equalizer_faithfully_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:28:20.056841+00:00
 -- url     : https://prove2.me/theorems/a7206de1-cd66-4f7e-ba9e-7d2c5cedfd8c

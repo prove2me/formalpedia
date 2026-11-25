@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_gaussian_fourier_and_decay
 -- name    : Formalism.H.gaussian_fourier_and_decay
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:37:51.474192+00:00
 -- url     : https://prove2.me/theorems/53de94f4-8028-5e97-8399-c05207700662

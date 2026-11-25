@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_pderiv_yP
 -- name    : ReciprocityTheory.PGsh.pderiv_yP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:09:33.085882+00:00
 -- url     : https://prove2.me/theorems/a4c5df48-a073-4ebc-b648-512c11406af6

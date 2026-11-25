@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_NerveCoh_pb_apply
 -- name    : GlobalTheory.CompanionTheory.NerveCoh.pb_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:02:17.340865+00:00
 -- url     : https://prove2.me/theorems/337eb5ed-6f16-4b4f-8289-85903450052b

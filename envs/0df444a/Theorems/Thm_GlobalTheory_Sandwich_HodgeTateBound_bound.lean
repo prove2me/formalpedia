@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Sandwich_HodgeTateBound_bound
 -- name    : GlobalTheory.Sandwich.HodgeTateBound.bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:45:28.75862+00:00
 -- url     : https://prove2.me/theorems/7b4f95ae-cefd-4978-b5a1-7236fdea05f2

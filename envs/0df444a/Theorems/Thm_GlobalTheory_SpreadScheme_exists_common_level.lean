@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpreadScheme_exists_common_level
 -- name    : GlobalTheory.SpreadScheme.exists_common_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:08:36.475533+00:00
 -- url     : https://prove2.me/theorems/6d89ebea-c968-42b1-978b-9c7d3abd977e

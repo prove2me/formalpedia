@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_mem_ram
 -- name    : UpperTheory.HF.mem_ram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:45:38.738974+00:00
 -- url     : https://prove2.me/theorems/02347a77-aae9-4d7c-a0d9-a5d0f618434c

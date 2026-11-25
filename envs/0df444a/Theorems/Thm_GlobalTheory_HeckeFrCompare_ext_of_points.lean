@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeFrCompare_ext_of_points
 -- name    : GlobalTheory.HeckeFrCompare.ext_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T14:45:58.778813+00:00
 -- url     : https://prove2.me/theorems/5dbef67b-c398-44c4-ab5c-2ab957ffdba7

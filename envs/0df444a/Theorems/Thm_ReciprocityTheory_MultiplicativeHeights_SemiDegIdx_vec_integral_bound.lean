@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_SemiDegIdx_vec_integral_bound
 -- name    : ReciprocityTheory.MultiplicativeHeights.SemiDegIdx.vec_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:01:56.717587+00:00
 -- url     : https://prove2.me/theorems/8fe275a8-b149-4596-8a5a-58b6683e2b71

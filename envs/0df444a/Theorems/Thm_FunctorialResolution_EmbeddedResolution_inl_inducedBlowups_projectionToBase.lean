@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_inl_inducedBlowups_projectionToBase
 -- name    : FunctorialResolution.EmbeddedResolution.inl_inducedBlowups_projectionToBase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:01:04.418318+00:00
 -- url     : https://prove2.me/theorems/9eff95c1-2471-5c1b-b2fa-b70cb8fc574b

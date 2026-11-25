@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_frame_height_bound
 -- name    : Formalism.AtG.frame_height_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:21:06.388394+00:00
 -- url     : https://prove2.me/theorems/28900caa-ce72-496f-a043-5d662b4e1bc2

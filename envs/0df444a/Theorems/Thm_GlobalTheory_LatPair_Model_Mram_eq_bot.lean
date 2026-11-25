@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatPair_Model_Mram_eq_bot
 -- name    : GlobalTheory.LatPair.Model.Mram_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:12:57.712964+00:00
 -- url     : https://prove2.me/theorems/4faf38fb-d4ca-439f-9062-0b7dda57badb

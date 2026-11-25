@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateTest_htChar_of_isUnit
 -- name    : GlobalTheory.HodgeTateTest.htChar_of_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:08:49.4487+00:00
 -- url     : https://prove2.me/theorems/7538646e-ff1b-42b2-b0c6-7b8b85bec058

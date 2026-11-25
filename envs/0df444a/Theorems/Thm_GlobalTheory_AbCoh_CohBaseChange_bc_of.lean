@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_CohBaseChange_bc_of
 -- name    : GlobalTheory.AbCoh.CohBaseChange.bc_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T15:03:37.637912+00:00
 -- url     : https://prove2.me/theorems/210860a7-2294-438b-bc92-1519b50183de

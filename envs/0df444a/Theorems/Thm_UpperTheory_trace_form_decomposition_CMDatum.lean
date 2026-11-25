@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_trace_form_decomposition_CMDatum
 -- name    : UpperTheory.trace_form_decomposition_CMDatum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:23:45.657041+00:00
 -- url     : https://prove2.me/theorems/b2cb4dad-ebc6-442c-a67a-1c0605491b27

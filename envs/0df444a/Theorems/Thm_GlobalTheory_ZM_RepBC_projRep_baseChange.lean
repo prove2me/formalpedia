@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_RepBC_projRep_baseChange
 -- name    : GlobalTheory.ZM.RepBC.projRep_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:17:34.126162+00:00
 -- url     : https://prove2.me/theorems/d8244c5c-2b05-408e-a40f-bc0721e61a4d

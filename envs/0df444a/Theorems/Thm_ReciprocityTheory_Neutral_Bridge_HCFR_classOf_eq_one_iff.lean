@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Neutral_Bridge_HCFR_classOf_eq_one_iff
 -- name    : ReciprocityTheory.Neutral.Bridge.HCFR.classOf_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:43:44.029112+00:00
 -- url     : https://prove2.me/theorems/75d17cb5-8ed7-4eee-866c-53dad4602fb6

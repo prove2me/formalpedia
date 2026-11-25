@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_ker_eval_eq_of_place
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.ker_eval_eq_of_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T14:12:37.211782+00:00
 -- url     : https://prove2.me/theorems/4152ee61-8a20-5bae-bcbf-f08528e1ae27

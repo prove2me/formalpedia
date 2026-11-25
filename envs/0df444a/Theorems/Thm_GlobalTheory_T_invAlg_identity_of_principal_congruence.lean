@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invAlg_identity_of_principal_congruence
 -- name    : GlobalTheory.T.invAlg_identity_of_principal_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:34:09.223909+00:00
 -- url     : https://prove2.me/theorems/c7a10f3f-1d05-53c4-a9ed-d8f61ad3d5fd

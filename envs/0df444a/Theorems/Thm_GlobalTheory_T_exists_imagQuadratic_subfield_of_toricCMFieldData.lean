@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_imagQuadratic_subfield_of_toricCMFieldData
 -- name    : GlobalTheory.T.exists_imagQuadratic_subfield_of_toricCMFieldData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:30:10.759138+00:00
 -- url     : https://prove2.me/theorems/f518a865-77f6-4fc4-a4c9-62fc15409008

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_OnePlusPowerCharacters_LemmaPsi_modPG
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.OnePlusPowerCharacters.LemmaPsi.modPG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:08:56.148716+00:00
 -- url     : https://prove2.me/theorems/c52bc837-e968-5eb8-bb9f-7d41c90228bc

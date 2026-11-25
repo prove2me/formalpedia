@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameMeas_frameMeas_of_local
 -- name    : GlobalTheory.FrameMeas.frameMeas_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:39.128674+00:00
 -- url     : https://prove2.me/theorems/ce66db96-7901-51a5-9f00-30bce1430e06

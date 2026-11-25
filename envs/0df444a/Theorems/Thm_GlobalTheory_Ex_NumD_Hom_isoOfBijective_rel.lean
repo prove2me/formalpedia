@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumD_Hom_isoOfBijective_rel
 -- name    : GlobalTheory.Ex.NumD.Hom.isoOfBijective_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:05:12.690661+00:00
 -- url     : https://prove2.me/theorems/97b61d96-3a0b-497c-8d2d-dbd33dff6e12

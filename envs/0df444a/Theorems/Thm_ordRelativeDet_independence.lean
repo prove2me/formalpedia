@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ordRelativeDet_independence
 -- name    : ordRelativeDet_independence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:15:40.724086+00:00
 -- url     : https://prove2.me/theorems/2cec9736-9899-44c4-9d6c-a4100f0d57b7

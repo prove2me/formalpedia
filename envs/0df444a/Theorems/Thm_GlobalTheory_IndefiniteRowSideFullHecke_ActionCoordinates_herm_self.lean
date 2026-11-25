@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_ActionCoordinates_herm_self
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.ActionCoordinates.herm_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:07:44.027965+00:00
 -- url     : https://prove2.me/theorems/967760eb-8c81-4f34-9498-437c53488f36

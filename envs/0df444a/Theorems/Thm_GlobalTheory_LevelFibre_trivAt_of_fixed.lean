@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelFibre_trivAt_of_fixed
 -- name    : GlobalTheory.LevelFibre.trivAt_of_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:03:38.281728+00:00
 -- url     : https://prove2.me/theorems/8d776544-5bb4-4382-ad69-7666d2d4dcea

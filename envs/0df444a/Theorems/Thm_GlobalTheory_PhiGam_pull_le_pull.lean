@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PhiGam_pull_le_pull
 -- name    : GlobalTheory.PhiGam.pull_le_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:15:13.202457+00:00
 -- url     : https://prove2.me/theorems/3bfdf771-acbc-59ef-a0eb-f61572598d17

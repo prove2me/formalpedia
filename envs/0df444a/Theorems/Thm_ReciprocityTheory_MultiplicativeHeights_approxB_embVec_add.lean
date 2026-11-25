@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_approxB_embVec_add
 -- name    : ReciprocityTheory.MultiplicativeHeights.approxB_embVec_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:03:51.367098+00:00
 -- url     : https://prove2.me/theorems/a2fc8e5e-9c1f-54ad-9b7f-fe7863307e43

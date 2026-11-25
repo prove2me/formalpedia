@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SLP_GlobalBoundRefinements_Final_formCoeff
 -- name    : Formalism.SLP.GlobalBoundRefinements.Final.formCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:08.920005+00:00
 -- url     : https://prove2.me/theorems/d0ea2474-4082-533d-b2ea-6de3c0887815

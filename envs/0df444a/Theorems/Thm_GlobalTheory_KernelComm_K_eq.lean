@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelComm_K_eq
 -- name    : GlobalTheory.KernelComm.K_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:13:16.037235+00:00
 -- url     : https://prove2.me/theorems/385dccdf-17e1-486f-b6c6-77d3dbe8ecee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_bs_mem_of_gauge_lt_one
 -- name    : ReciprocityTheory.MultiplicativeHeights.bs_mem_of_gauge_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:03:46.32485+00:00
 -- url     : https://prove2.me/theorems/bc234550-335d-4e12-99e5-f4287f6a5713

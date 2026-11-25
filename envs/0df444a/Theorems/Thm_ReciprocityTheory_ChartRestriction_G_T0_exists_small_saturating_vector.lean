@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_exists_small_saturating_vector
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.exists_small_saturating_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:39:12.258959+00:00
 -- url     : https://prove2.me/theorems/26c07719-a8a3-4f8b-909f-4689e2b1d232

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_site_joint
 -- name    : Formalism.FourierDecayAlt.P.site_joint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:35:31.064028+00:00
 -- url     : https://prove2.me/theorems/9cc027b5-0a1a-4821-8307-9ca84bf6991b

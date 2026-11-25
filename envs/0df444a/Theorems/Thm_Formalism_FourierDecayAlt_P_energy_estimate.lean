@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_energy_estimate
 -- name    : Formalism.FourierDecayAlt.P.energy_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:29:14.063814+00:00
 -- url     : https://prove2.me/theorems/4fa0783b-483e-4319-9f5a-d2c858986c26

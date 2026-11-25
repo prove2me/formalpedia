@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_L2DbarEstimates_I_ap_dbar_cutExt
 -- name    : ReciprocityTheory.L2DbarEstimates.I.ap_dbar_cutExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:57:48.218797+00:00
 -- url     : https://prove2.me/theorems/5ddb1e5f-3d62-4514-9ef6-6844a4b851c0

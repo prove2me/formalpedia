@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSpecialise_fn_indep
 -- name    : GlobalTheory.ThetaSpecialise.fn_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T15:04:58.811651+00:00
 -- url     : https://prove2.me/theorems/fe1a88b9-58b0-4de1-bff9-f7103a31b8d9

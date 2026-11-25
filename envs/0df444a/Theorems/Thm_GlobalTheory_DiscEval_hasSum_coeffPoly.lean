@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscEval_hasSum_coeffPoly
 -- name    : GlobalTheory.DiscEval.hasSum_coeffPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:57:55.59887+00:00
 -- url     : https://prove2.me/theorems/46c672e7-a702-5cc1-b039-12d9bd993155

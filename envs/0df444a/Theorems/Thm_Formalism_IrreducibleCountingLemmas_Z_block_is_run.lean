@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_Z_block_is_run
 -- name    : Formalism.IrreducibleCountingLemmas.Z.block_is_run
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:44:20.461562+00:00
 -- url     : https://prove2.me/theorems/daa13e8f-037c-48e8-9fcd-1ab1400a8386

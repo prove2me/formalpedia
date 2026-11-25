@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_partialZeta_totallyReal_at_most_simple_pole
 -- name    : GlobalTheory.T.partialZeta_totallyReal_at_most_simple_pole
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:54:53.252361+00:00
 -- url     : https://prove2.me/theorems/1816ed6e-98dd-4685-9e0e-274f800f61c0

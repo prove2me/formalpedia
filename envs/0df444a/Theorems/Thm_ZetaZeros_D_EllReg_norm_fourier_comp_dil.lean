@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaZeros_D_EllReg_norm_fourier_comp_dil
 -- name    : ZetaZeros.D.EllReg.norm_fourier_comp_dil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:13:52.192424+00:00
 -- url     : https://prove2.me/theorems/1c178522-8c53-5b62-bd60-cc07e9f0a430

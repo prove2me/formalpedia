@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_multilinear_positionwise_extension_of_equivariant
 -- name    : GlobalTheory.T.exists_multilinear_positionwise_extension_of_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:30:32.27668+00:00
 -- url     : https://prove2.me/theorems/a2ce67ce-348a-5bdf-a018-d2d66ab491ca

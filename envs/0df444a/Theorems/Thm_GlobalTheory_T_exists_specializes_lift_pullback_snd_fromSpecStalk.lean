@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_specializes_lift_pullback_snd_fromSpecStalk
 -- name    : GlobalTheory.T.exists_specializes_lift_pullback_snd_fromSpecStalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:30:53.486594+00:00
 -- url     : https://prove2.me/theorems/1d832606-0bb9-531d-91c3-91bdc2e6804a

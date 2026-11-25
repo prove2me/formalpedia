@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_P6_r20a_PositivityTheory_Rg_BcN_F2_LocOpPf_finsum_quot_le
 -- name    : UpperTheory.Reformulated.B.P6.r20a.PositivityTheory.Rg.BcN.F2.LocOpPf.finsum_quot_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:46:50.404133+00:00
 -- url     : https://prove2.me/theorems/ad77d6d1-2124-4762-990d-979e181b2dec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Inputs_regGlobal
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Inputs.regGlobal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:59:32.47654+00:00
 -- url     : https://prove2.me/theorems/ca57f275-31d8-4158-87d5-d6eaca25387f

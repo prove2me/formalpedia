@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_combined_bound_at_trivial_valuations_of_charts
 -- name    : GlobalTheory.Reg.combined_bound_at_trivial_valuations_of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:22:13.364596+00:00
 -- url     : https://prove2.me/theorems/85f3f6fd-f002-4385-b864-619e46249f6d

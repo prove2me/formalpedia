@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_desc_of_flat_of_schemeTheoreticallyDominant_base
 -- name    : GlobalTheory.T.exists_desc_of_flat_of_schemeTheoreticallyDominant_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:29:34.367165+00:00
 -- url     : https://prove2.me/theorems/d2e7e357-9a68-413a-b92a-7c7279931c2a

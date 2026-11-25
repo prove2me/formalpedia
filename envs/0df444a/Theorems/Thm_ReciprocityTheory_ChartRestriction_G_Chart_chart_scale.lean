@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_chart_scale
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.chart_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:50:17.241896+00:00
 -- url     : https://prove2.me/theorems/91485565-2f0a-5fe1-8eee-f87b7f7ffc47

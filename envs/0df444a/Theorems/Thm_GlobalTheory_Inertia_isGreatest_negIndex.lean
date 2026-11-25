@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_isGreatest_negIndex
 -- name    : GlobalTheory.Inertia.isGreatest_negIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:21.820938+00:00
 -- url     : https://prove2.me/theorems/f9f06b3e-8452-4667-a5d5-4d45c2dd3abd

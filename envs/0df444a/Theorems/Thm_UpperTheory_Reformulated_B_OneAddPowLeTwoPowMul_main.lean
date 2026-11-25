@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_OneAddPowLeTwoPowMul_main
 -- name    : UpperTheory.Reformulated.B.OneAddPowLeTwoPowMul.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:12:46.654801+00:00
 -- url     : https://prove2.me/theorems/a9db42b0-76fe-4f8c-b027-1a166019d27c

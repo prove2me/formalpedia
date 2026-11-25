@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_second_shift_slice_derivative
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.second_shift_slice_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:35:32.596324+00:00
 -- url     : https://prove2.me/theorems/39c5db53-2ab8-5002-bffb-f11773c20fc3

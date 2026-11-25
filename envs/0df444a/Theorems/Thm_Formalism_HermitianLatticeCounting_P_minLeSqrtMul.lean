@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_minLeSqrtMul
 -- name    : Formalism.HermitianLatticeCounting.P.minLeSqrtMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:39:09.606332+00:00
 -- url     : https://prove2.me/theorems/a6083a1f-22c4-4572-9347-ada5a94bc19c

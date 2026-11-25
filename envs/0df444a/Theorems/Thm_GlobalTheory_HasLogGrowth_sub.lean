@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasLogGrowth_sub
 -- name    : GlobalTheory.HasLogGrowth.sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:49.750804+00:00
 -- url     : https://prove2.me/theorems/ee7b3c73-69ae-5c59-b680-d43ef0f4fd82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShannonColouring_shannonTriangle_not_colourable
 -- name    : ShannonColouring.shannonTriangle_not_colourable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T14:51:26.874236+00:00
 -- url     : https://prove2.me/theorems/2648c742-0888-4512-a20b-3910820e9d94

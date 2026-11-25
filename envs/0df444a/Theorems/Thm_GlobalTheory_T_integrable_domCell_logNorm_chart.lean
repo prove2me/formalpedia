@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_integrable_domCell_logNorm_chart
 -- name    : GlobalTheory.T.integrable_domCell_logNorm_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:38:14.039264+00:00
 -- url     : https://prove2.me/theorems/f3c6c704-4b7a-4657-a3d9-3a764a97ad6e

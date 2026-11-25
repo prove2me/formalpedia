@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_analytic_germ_finite_projection
 -- name    : GlobalTheory.T.analytic_germ_finite_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:26:20.190642+00:00
 -- url     : https://prove2.me/theorems/8f81bec5-76e6-5bf5-b612-613b4bd99435

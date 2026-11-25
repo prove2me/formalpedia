@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_key_formula_link
 -- name    : Formalism.L2.LamCM.key_formula_link
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:45:41.201459+00:00
 -- url     : https://prove2.me/theorems/4c933d1a-e8c5-5d6a-ad51-75e068eab762

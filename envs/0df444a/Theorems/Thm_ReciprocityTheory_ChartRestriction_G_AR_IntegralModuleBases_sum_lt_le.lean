@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_IntegralModuleBases_sum_lt_le
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.IntegralModuleBases.sum_lt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:56:27.151192+00:00
 -- url     : https://prove2.me/theorems/4ef76235-2481-5d1c-a6c8-b47eee65e645

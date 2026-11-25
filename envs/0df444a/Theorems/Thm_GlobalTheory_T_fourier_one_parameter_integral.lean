@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fourier_one_parameter_integral
 -- name    : GlobalTheory.T.fourier_one_parameter_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:31:57.85128+00:00
 -- url     : https://prove2.me/theorems/bcee152a-0b07-44e5-b4f1-52536fdde954

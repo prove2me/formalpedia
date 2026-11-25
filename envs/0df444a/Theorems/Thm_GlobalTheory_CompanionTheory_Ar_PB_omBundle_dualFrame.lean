@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_omBundle_dualFrame
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.omBundle_dualFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:02:21.235424+00:00
 -- url     : https://prove2.me/theorems/0e9de471-31ba-46ec-bc3d-c7bf26fb7d68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_local_pullback
 -- name    : Formalism.FourierDecayAlt.P.local_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:39:45.766069+00:00
 -- url     : https://prove2.me/theorems/0d78805a-e11a-4467-91a8-0e69f0ded3e9

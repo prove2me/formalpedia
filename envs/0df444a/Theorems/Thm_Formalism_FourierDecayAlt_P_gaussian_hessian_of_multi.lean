@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gaussian_hessian_of_multi
 -- name    : Formalism.FourierDecayAlt.P.gaussian_hessian_of_multi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:30:44.817869+00:00
 -- url     : https://prove2.me/theorems/901e5a77-59c1-4edb-aa5b-5bac359f8a89

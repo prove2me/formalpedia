@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_TateUniformizationInput_coeffRt_val
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.TateUniformizationInput.coeffRt_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:10:14.112188+00:00
 -- url     : https://prove2.me/theorems/9fc6a29e-2128-40e5-9ac6-75f09da02a52

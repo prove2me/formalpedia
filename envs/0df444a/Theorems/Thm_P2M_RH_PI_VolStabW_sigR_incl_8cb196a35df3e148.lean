@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_PI_VolStabW_sigR_incl_8cb196a35df3e148
 -- name    : P2M_RH_PI_VolStabW_sigR_incl_8cb196a35df3e148
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T15:02:43.741052+00:00
 -- url     : https://prove2.me/theorems/5b882f59-5f8d-4a06-8c63-900f68e39200

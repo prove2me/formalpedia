@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndLine_Iwasawa_exp_up
 -- name    : GlobalTheory.IndLine.Iwasawa.exp_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:07:53.003793+00:00
 -- url     : https://prove2.me/theorems/f62490d0-ee51-42fe-9e23-631245262fd3

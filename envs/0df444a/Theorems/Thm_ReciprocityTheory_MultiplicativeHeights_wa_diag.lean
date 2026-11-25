@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_wa_diag
 -- name    : ReciprocityTheory.MultiplicativeHeights.wa_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:05:38.941271+00:00
 -- url     : https://prove2.me/theorems/7ba30ede-b49b-4ae0-bebb-d2703b1395af

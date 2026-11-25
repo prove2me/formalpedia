@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_HasProdFiniteSupport_hasProd_of_compl
 -- name    : Formalism.L2.SG.Pf.HasProdFiniteSupport.hasProd_of_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:47:06.348949+00:00
 -- url     : https://prove2.me/theorems/078d023a-e49f-59ab-bcee-0391dbdc60a7

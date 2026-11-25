@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_AdmissibleHarmonicLattice_std_admissible
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.AdmissibleHarmonicLattice.std_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:08:11.824243+00:00
 -- url     : https://prove2.me/theorems/c47a93df-07b5-40e9-bd91-40d45c9e6b12

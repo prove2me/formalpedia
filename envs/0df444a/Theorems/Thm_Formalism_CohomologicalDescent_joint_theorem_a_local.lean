@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_joint_theorem_a_local
 -- name    : Formalism.CohomologicalDescent.joint_theorem_a_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:30:31.476358+00:00
 -- url     : https://prove2.me/theorems/b692f823-bd31-5c2c-9fff-78dd008b67ec

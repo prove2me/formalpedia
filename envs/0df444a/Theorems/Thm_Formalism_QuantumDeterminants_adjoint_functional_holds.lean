@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_adjoint_functional_holds
 -- name    : Formalism.QuantumDeterminants.adjoint_functional_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:51:44.806715+00:00
 -- url     : https://prove2.me/theorems/052b9e12-641d-46f3-9391-7e07de35b3d7

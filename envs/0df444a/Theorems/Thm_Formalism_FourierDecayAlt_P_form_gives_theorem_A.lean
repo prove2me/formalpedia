@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_form_gives_theorem_A
 -- name    : Formalism.FourierDecayAlt.P.form_gives_theorem_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:31:48.831009+00:00
 -- url     : https://prove2.me/theorems/6960b453-ccf3-56f5-bd46-ae39904d16a6

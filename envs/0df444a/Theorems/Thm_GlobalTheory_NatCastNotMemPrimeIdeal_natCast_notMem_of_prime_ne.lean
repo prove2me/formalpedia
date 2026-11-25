@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatCastNotMemPrimeIdeal_natCast_notMem_of_prime_ne
 -- name    : GlobalTheory.NatCastNotMemPrimeIdeal.natCast_notMem_of_prime_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:14:48.302409+00:00
 -- url     : https://prove2.me/theorems/67680739-677c-4cbb-8324-72ca18a3a64f

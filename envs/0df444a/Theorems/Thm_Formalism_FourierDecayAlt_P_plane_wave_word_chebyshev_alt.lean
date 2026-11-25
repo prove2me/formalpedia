@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_plane_wave_word_chebyshev_alt
 -- name    : Formalism.FourierDecayAlt.P.plane_wave_word_chebyshev_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:34:12.360079+00:00
 -- url     : https://prove2.me/theorems/2e8ed639-b0fd-5625-9935-cfcc35217fe2

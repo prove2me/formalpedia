@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartGlue_contDiffOn_real
 -- name    : GlobalTheory.ChartGlue.contDiffOn_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:10:22.238724+00:00
 -- url     : https://prove2.me/theorems/4ec6d90d-c524-4bee-aa13-859a979fdd77

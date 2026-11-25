@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_S6_iotaDetermined
 -- name    : Formalism.HermitianLatticeCounting.Final.S6.iotaDetermined
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:37:52.754856+00:00
 -- url     : https://prove2.me/theorems/4f87a58b-de92-545d-a9a1-7fd77dccf56f

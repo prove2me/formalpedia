@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermForm_isIsometry_subtype
 -- name    : GlobalTheory.HermForm.isIsometry_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:06:58.852113+00:00
 -- url     : https://prove2.me/theorems/070465fd-c3de-4c70-b713-966ec2420d6b

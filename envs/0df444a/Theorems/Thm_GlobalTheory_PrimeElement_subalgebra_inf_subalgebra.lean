@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeElement_subalgebra_inf_subalgebra
 -- name    : GlobalTheory.PrimeElement.subalgebra_inf_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:17:20.886619+00:00
 -- url     : https://prove2.me/theorems/da303c27-acd0-5b8a-b284-c52b5aeabb10

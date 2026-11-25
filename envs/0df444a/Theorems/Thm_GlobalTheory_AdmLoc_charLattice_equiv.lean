@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_charLattice_equiv
 -- name    : GlobalTheory.AdmLoc.charLattice_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:01:37.317259+00:00
 -- url     : https://prove2.me/theorems/8b9df33d-15d7-5bf2-a7d3-f7bcd658b21e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_L2_exists_family_valuation_det_eq_one
 -- name    : ReciprocityTheory.PGsh.L2.exists_family_valuation_det_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:26:51.858795+00:00
 -- url     : https://prove2.me/theorems/a83c6027-24b5-4137-b7fc-cf4c8161b744

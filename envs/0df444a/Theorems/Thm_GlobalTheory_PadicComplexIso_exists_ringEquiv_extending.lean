@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PadicComplexIso_exists_ringEquiv_extending
 -- name    : GlobalTheory.PadicComplexIso.exists_ringEquiv_extending
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:15:39.361382+00:00
 -- url     : https://prove2.me/theorems/facbd671-871f-4170-a634-a52cf637ac32

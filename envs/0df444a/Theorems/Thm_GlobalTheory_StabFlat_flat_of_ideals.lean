@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StabFlat_flat_of_ideals
 -- name    : GlobalTheory.StabFlat.flat_of_ideals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:32:16.086601+00:00
 -- url     : https://prove2.me/theorems/c21d8904-5fe6-55c9-bc20-8e06b203921b

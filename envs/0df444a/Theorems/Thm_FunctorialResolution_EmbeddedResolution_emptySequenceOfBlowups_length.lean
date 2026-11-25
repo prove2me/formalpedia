@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_emptySequenceOfBlowups_length
 -- name    : FunctorialResolution.EmbeddedResolution.emptySequenceOfBlowups_length
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:54:24.215934+00:00
 -- url     : https://prove2.me/theorems/42e6265b-a182-5f4d-b74e-79a0a0c28bcf

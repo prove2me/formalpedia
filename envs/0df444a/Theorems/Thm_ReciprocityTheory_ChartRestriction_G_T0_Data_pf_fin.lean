@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_Data_pf_fin
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.Data.pf_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:36:46.712145+00:00
 -- url     : https://prove2.me/theorems/dfc9731d-cf3b-4c86-b2a5-dd0132ff7f06

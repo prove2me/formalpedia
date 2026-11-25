@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Glue_IsExpIn_par
 -- name    : GlobalTheory.Glue.IsExpIn.par
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:06:23.358001+00:00
 -- url     : https://prove2.me/theorems/9258999d-e15b-5bd5-84e4-3ed926344ba6

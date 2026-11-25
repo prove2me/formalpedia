@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_psd_transpose
 -- name    : Formalism.FourierDecayAlt.P.psd_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:34:05.117554+00:00
 -- url     : https://prove2.me/theorems/888e1ce9-6120-4688-bbfd-f1f93f90a856

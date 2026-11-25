@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_complex_embedding_fractionField_finite_over_cdvr
 -- name    : GlobalTheory.T.exists_complex_embedding_fractionField_finite_over_cdvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:28:44.671862+00:00
 -- url     : https://prove2.me/theorems/03865365-298f-4847-959c-d3f0fb9bade5

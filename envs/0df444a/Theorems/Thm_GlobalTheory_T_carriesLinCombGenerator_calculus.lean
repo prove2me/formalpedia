@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_carriesLinCombGenerator_calculus
 -- name    : GlobalTheory.T.carriesLinCombGenerator_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:59.043793+00:00
 -- url     : https://prove2.me/theorems/8545649a-79e5-5630-acb9-96d40438db46

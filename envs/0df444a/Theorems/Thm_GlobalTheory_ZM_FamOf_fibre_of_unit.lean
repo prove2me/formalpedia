@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZM_FamOf_fibre_of_unit
 -- name    : GlobalTheory.ZM.FamOf.fibre_of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T15:00:06.972871+00:00
 -- url     : https://prove2.me/theorems/484b6f46-815d-46bd-b6ad-1f2881436391

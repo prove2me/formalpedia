@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_support_convolution_triple
 -- name    : GlobalTheory.T.finite_support_convolution_triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:31:17.984904+00:00
 -- url     : https://prove2.me/theorems/29537e32-631b-4b8f-ab10-4de56df26739

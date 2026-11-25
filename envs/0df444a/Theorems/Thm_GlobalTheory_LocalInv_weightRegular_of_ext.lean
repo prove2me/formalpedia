@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_weightRegular_of_ext
 -- name    : GlobalTheory.LocalInv.weightRegular_of_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:19:44.708846+00:00
 -- url     : https://prove2.me/theorems/cbff2b00-2f22-5cd7-8a36-3eae79e67376

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_agreement_iff_guarded
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.agreement_iff_guarded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:00:05.162367+00:00
 -- url     : https://prove2.me/theorems/d8b84f77-8be6-577b-b4f2-123cf1b3bdda

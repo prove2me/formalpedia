@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_log_prime_indep
 -- name    : UpperTheory.HF.log_prime_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:23:46.541087+00:00
 -- url     : https://prove2.me/theorems/214c775e-e856-45f2-9501-c5b4fbbbe3eb

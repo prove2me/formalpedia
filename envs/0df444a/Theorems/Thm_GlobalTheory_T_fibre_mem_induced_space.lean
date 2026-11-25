@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fibre_mem_induced_space
 -- name    : GlobalTheory.T.fibre_mem_induced_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:31:46.156325+00:00
 -- url     : https://prove2.me/theorems/91a0d6e3-84ed-4832-a5af-b30bd82c04e4

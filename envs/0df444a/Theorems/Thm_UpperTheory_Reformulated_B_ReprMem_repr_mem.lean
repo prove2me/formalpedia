@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_ReprMem_repr_mem
 -- name    : UpperTheory.Reformulated.B.ReprMem.repr_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:12:56.015269+00:00
 -- url     : https://prove2.me/theorems/a27757ed-f2b5-4ffc-a77f-8b65b6c4e9be

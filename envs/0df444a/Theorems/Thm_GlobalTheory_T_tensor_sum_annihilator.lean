@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_tensor_sum_annihilator
 -- name    : GlobalTheory.T.tensor_sum_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:40:24.278785+00:00
 -- url     : https://prove2.me/theorems/77501885-e07b-4497-b218-5e28069a2872

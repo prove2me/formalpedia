@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_coe_appLinear
 -- name    : GlobalTheory.QCoh.coe_appLinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:23:34.797675+00:00
 -- url     : https://prove2.me/theorems/9368d127-547d-5ec2-bef1-94fd3040bfae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_closure_gaussian_convolutions
 -- name    : GlobalTheory.T.mem_closure_gaussian_convolutions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:35:24.041344+00:00
 -- url     : https://prove2.me/theorems/44c92dda-ac1b-5efa-a7ff-d230b2ec1ce3

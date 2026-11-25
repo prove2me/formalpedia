@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_ex_mem_Lat
 -- name    : GlobalTheory.NL.Model.ex_mem_Lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:14:46.815907+00:00
 -- url     : https://prove2.me/theorems/dc8f3f93-e77a-48a8-a74f-4cff5dc848c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_LeviDatum_U_le_Q
 -- name    : GlobalTheory.LGrp.LeviDatum.U_le_Q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:17:48.260208+00:00
 -- url     : https://prove2.me/theorems/057cb944-9075-437d-ac6e-88a4b51dda72

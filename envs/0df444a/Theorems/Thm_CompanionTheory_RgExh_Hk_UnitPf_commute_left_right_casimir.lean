@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_UnitPf_commute_left_right_casimir
 -- name    : CompanionTheory.RgExh.Hk.UnitPf.commute_left_right_casimir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T14:50:38.6557+00:00
 -- url     : https://prove2.me/theorems/b964714c-85c3-504c-8d61-e53a982a8351

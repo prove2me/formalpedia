@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_SemiHom_homology_ofHom
 -- name    : GlobalTheory.Cube.SemiHom.homology_ofHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:03:11.864604+00:00
 -- url     : https://prove2.me/theorems/e9439427-d3fe-55b5-90de-f78eca1ac7e5

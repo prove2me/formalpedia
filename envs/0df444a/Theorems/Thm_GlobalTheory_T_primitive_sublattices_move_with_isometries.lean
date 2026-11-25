@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primitive_sublattices_move_with_isometries
 -- name    : GlobalTheory.T.primitive_sublattices_move_with_isometries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:36:40.455941+00:00
 -- url     : https://prove2.me/theorems/4134bc24-7410-4b93-ab8d-324413c320e4

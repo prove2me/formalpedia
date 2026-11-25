@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxInt_isGoodProj_eq_isSetGoodProj
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxInt.isGoodProj_eq_isSetGoodProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:00:39.665137+00:00
 -- url     : https://prove2.me/theorems/5920f0cc-1ffb-44f3-bb63-8cca89bdd054

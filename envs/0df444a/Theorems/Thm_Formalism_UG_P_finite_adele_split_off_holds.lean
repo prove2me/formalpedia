@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_finite_adele_split_off_holds
 -- name    : Formalism.UG.P.finite_adele_split_off_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:52:47.063352+00:00
 -- url     : https://prove2.me/theorems/f66e546d-0e0e-4d92-8176-1d6daee7b124

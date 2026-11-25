@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_posSemidef_of_symm_nonneg_int_bilinForm
 -- name    : GlobalTheory.T.gram_posSemidef_of_symm_nonneg_int_bilinForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:31:52.107823+00:00
 -- url     : https://prove2.me/theorems/3c2aed20-a446-54c5-b4ba-67af66f48422

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ProjectiveLineModels_flatness_iff_holds
 -- name    : Formalism.LFunctionChainParameters.ProjectiveLineModels.flatness_iff_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:50:39.953814+00:00
 -- url     : https://prove2.me/theorems/826d8a30-5f4d-50e0-9f89-9daf4b2a3958

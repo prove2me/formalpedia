@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitLevel_exists_root
 -- name    : GlobalTheory.SplitLevel.exists_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:24:44.962056+00:00
 -- url     : https://prove2.me/theorems/828b6442-8cfe-423b-983a-9734790e1a92

@@ -1,0 +1,44 @@
+-- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.L1.kronFun_isMF
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T15:45:34.927747+00:00
+-- url     : https://prove2.me/submissions/1d3a06d7-89a4-4ae2-8725-a3dc282c061e
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModDefs
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModBasic
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModEisInt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModDeltaInt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_CoeffRescaleExpandOfNotDvd
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModEvalSer
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModEvalMF
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModQExpEq
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModQPrin
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModGmForm
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModGmQ
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_IsIntegralOfRoot
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModFrobSer
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModKronSer
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModKronPt
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_kronSq_isMF
+import Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_L1_Gm_isMF__25d25372ce7e
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_CoeffIn_add
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_Conv_add
+import Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_IsMF_add
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators Classical UpperHalfPlane MatrixGroups CongruenceSubgroup Manifold
+open ModularForm EisensteinSeries ModularFormClass UpperHalfPlane Formalism.L2.Th1.CM
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.L1
+namespace ReciprocityTheory.ChartRestriction.L1
+theorem _root_.solution {p : ℕ} (hp : p.Prime) : IsMF (12 * ((2 * (p + 1) : ℕ) : ℤ)) (kronFun p) := (Gm_isMF' hp).add (kronSq_isMF p)
+end ReciprocityTheory.ChartRestriction.L1

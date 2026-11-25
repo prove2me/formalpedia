@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_norm_ratio_bound_alt
 -- name    : Formalism.AtG.norm_ratio_bound_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:33:49.407198+00:00
 -- url     : https://prove2.me/theorems/b0f5df47-e6ea-5d2f-842d-f9406a98d238

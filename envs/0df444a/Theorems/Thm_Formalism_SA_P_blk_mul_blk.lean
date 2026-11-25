@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_SA_P_blk_mul_blk
 -- name    : Formalism.SA.P.blk_mul_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:52:31.638796+00:00
 -- url     : https://prove2.me/theorems/75e50b75-9f28-4a7a-8bf9-eacbafd0ba18

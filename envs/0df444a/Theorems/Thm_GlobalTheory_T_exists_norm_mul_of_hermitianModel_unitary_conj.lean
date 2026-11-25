@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_norm_mul_of_hermitianModel_unitary_conj
 -- name    : GlobalTheory.T.exists_norm_mul_of_hermitianModel_unitary_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:30:38.148215+00:00
 -- url     : https://prove2.me/theorems/1870f8ed-410b-5fc6-956b-8ad733ed6126

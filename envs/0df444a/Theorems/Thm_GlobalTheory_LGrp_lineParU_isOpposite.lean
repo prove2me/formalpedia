@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LGrp_lineParU_isOpposite
 -- name    : GlobalTheory.LGrp.lineParU_isOpposite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:16:04.711061+00:00
 -- url     : https://prove2.me/theorems/343b94cf-86ed-5a66-b841-37284c0a6788

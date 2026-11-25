@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EndCalc_end_base_ext
 -- name    : GlobalTheory.EndCalc.end_base_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T14:59:49.0589+00:00
 -- url     : https://prove2.me/theorems/340814df-0349-473b-a129-38e8f71008a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_frame_jacobian_formula
 -- name    : Formalism.FourierDecayAlt.P.frame_jacobian_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:38.568066+00:00
 -- url     : https://prove2.me/theorems/97cf8eea-2e3e-4980-8f96-d9f33ca8ebd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_mem_pairSpace
 -- name    : GlobalTheory.Models.mem_pairSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:20:18.515718+00:00
 -- url     : https://prove2.me/theorems/80aa06ea-c385-5728-bbbe-bc6dae26843f

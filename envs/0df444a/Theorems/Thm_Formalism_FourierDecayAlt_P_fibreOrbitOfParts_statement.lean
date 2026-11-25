@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_fibreOrbitOfParts_statement
 -- name    : Formalism.FourierDecayAlt.P.fibreOrbitOfParts_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:39:45.963491+00:00
 -- url     : https://prove2.me/theorems/10805067-fd02-444b-a3f1-7036c61b26db

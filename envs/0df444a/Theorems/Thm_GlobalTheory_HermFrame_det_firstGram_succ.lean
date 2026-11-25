@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_det_firstGram_succ
 -- name    : GlobalTheory.HermFrame.det_firstGram_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:06:45.016562+00:00
 -- url     : https://prove2.me/theorems/a9c959e6-66bf-5c4f-aa7a-1ada64b4aa5c

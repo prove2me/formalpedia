@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbCoh_coneExact_baseChange_of_quasiIso
 -- name    : GlobalTheory.AbCoh.coneExact_baseChange_of_quasiIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:59:12.315427+00:00
 -- url     : https://prove2.me/theorems/0d9b02cb-4581-5208-8372-2b6ca25d26af

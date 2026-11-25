@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UU_cubWeil_iff_isRatio
 -- name    : GlobalTheory.UU.cubWeil_iff_isRatio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T14:43:08.664035+00:00
 -- url     : https://prove2.me/theorems/373cb932-3097-4dce-b9b5-a06701cb08c8

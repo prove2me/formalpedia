@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_extractBound_statement
 -- name    : Formalism.FourierDecayAlt.P.extractBound_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:30:55.52682+00:00
 -- url     : https://prove2.me/theorems/f1c6fcfc-6c14-4d6b-946c-ab1be04f9be3

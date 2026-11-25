@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DictPinCompare_xi_hyp
 -- name    : GlobalTheory.DictPinCompare.xi_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:04:42.558938+00:00
 -- url     : https://prove2.me/theorems/799c8ec3-ef30-4200-b016-fa8450360c44

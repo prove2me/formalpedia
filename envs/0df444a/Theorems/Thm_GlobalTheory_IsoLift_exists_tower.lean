@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsoLift_exists_tower
 -- name    : GlobalTheory.IsoLift.exists_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:12:42.141796+00:00
 -- url     : https://prove2.me/theorems/82371d61-5f36-4f17-93dd-f591e660a358

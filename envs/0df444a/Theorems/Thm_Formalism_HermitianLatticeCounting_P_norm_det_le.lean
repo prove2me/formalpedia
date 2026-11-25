@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_norm_det_le
 -- name    : Formalism.HermitianLatticeCounting.P.norm_det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:41:35.088016+00:00
 -- url     : https://prove2.me/theorems/880daab7-92a1-4581-8be2-265dc5344de3

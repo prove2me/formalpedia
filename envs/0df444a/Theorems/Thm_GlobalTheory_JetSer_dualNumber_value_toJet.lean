@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_dualNumber_value_toJet
 -- name    : GlobalTheory.JetSer.dualNumber_value_toJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:12:48.111994+00:00
 -- url     : https://prove2.me/theorems/987a3c48-6109-44e0-9cbb-123d393c18b3

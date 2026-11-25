@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_BX_exists_lim_tensor
 -- name    : ReciprocityTheory.PGsh.BX.exists_lim_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:05:33.831122+00:00
 -- url     : https://prove2.me/theorems/74b882dd-29be-5373-bc7e-47e71bbc8e75

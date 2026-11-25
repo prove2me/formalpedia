@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_Row_qv_smul
 -- name    : GlobalTheory.SW.FourierJ.Row.qv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:20:50.434979+00:00
 -- url     : https://prove2.me/theorems/b8afda40-6ed1-5dfb-8ed5-72cb1b6860aa

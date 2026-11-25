@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameNet_shortFrames_subset_dom
 -- name    : GlobalTheory.FrameNet.shortFrames_subset_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:50.93019+00:00
 -- url     : https://prove2.me/theorems/596a3d3c-d9f2-4cc2-b1b7-a0479bdda069

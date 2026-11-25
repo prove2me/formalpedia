@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_Gaps_T0_Hdel_le
 -- name    : Formalism.MainNotions.Gaps.T0.Hdel_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:50:12.896815+00:00
 -- url     : https://prove2.me/theorems/aa90ee3c-2a23-4fc1-ad19-91c8105d8ef0

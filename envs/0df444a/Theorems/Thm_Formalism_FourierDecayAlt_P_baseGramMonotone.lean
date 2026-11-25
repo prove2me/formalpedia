@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_baseGramMonotone
 -- name    : Formalism.FourierDecayAlt.P.baseGramMonotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:46.70666+00:00
 -- url     : https://prove2.me/theorems/2d5fcebf-3f16-41c8-85d8-783ae0d48b80

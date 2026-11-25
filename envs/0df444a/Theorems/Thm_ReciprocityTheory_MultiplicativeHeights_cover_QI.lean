@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_MultiplicativeHeights_cover_QI
 -- name    : ReciprocityTheory.MultiplicativeHeights.cover_QI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:04:26.432971+00:00
 -- url     : https://prove2.me/theorems/3ff208ea-7d65-4b5f-8e8d-548d7d65ba4d

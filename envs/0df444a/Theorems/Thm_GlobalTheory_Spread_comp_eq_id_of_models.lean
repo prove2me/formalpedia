@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Spread_comp_eq_id_of_models
 -- name    : GlobalTheory.Spread.comp_eq_id_of_models
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T14:43:05.198781+00:00
 -- url     : https://prove2.me/theorems/89571d3b-e7fd-4d48-a2b3-f93bcfa1baec

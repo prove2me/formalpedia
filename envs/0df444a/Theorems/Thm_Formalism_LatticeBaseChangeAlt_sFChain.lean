@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LatticeBaseChangeAlt_sFChain
 -- name    : Formalism.LatticeBaseChangeAlt.sFChain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:50:33.666015+00:00
 -- url     : https://prove2.me/theorems/dc18947b-e99a-5979-8482-da82bda1a814

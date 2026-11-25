@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_BoxTail_tail_kernel_line
 -- name    : Formalism.HermitianLattices.Ext.BoxTail.tail_kernel_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:40:30.651856+00:00
 -- url     : https://prove2.me/theorems/6e67026f-e37b-4a41-a86f-04f678ab73f0

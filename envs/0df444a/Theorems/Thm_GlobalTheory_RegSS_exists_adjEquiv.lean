@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegSS_exists_adjEquiv
 -- name    : GlobalTheory.RegSS.exists_adjEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:20:48.350038+00:00
 -- url     : https://prove2.me/theorems/d4b41757-5784-47ec-9e75-1d9eaaabc601

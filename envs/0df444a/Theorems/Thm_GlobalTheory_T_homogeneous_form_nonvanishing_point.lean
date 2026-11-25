@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_homogeneous_form_nonvanishing_point
 -- name    : GlobalTheory.T.homogeneous_form_nonvanishing_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:33:53.189537+00:00
 -- url     : https://prove2.me/theorems/73f8d3ba-564f-49f6-9ecc-967b869424a0
