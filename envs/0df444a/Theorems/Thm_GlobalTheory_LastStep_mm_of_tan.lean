@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastStep_mm_of_tan
 -- name    : GlobalTheory.LastStep.mm_of_tan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:39:30.719095+00:00
 -- url     : https://prove2.me/theorems/476fe04e-9d80-44d8-b0b8-a5d1d713a80b

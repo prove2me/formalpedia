@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_coeff_exp_mainTerm
 -- name    : GlobalTheory.UnitCase.coeff_exp_mainTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:37:08.355285+00:00
 -- url     : https://prove2.me/theorems/b4b2510b-b696-4efc-968b-dcebe3dd00f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_exists_linearIndependent_prod_norm_le
 -- name    : GlobalTheory.SW.exists_linearIndependent_prod_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:06:11.728657+00:00
 -- url     : https://prove2.me/theorems/ea8a7e98-ff01-4617-be7f-4fe3ba76ded1

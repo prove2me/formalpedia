@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_mul_length_le_addVal_discr
 -- name    : GlobalTheory.two_mul_length_le_addVal_discr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:18:16.763578+00:00
 -- url     : https://prove2.me/theorems/28618199-4768-4f41-9137-c904a790afb3

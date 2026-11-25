@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_highest_vector_projection_holds
 -- name    : Formalism.InvariantFactorPaths.L4.highest_vector_projection_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:49.700951+00:00
 -- url     : https://prove2.me/theorems/ec6dc321-0c76-416d-98a9-88ac8907380c

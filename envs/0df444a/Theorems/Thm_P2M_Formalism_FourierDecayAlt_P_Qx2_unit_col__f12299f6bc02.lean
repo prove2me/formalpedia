@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_Qx2_unit_col__f12299f6bc02
 -- name    : P2M_Formalism_FourierDecayAlt_P_Qx2_unit_col__f12299f6bc02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:59:29.726228+00:00
 -- url     : https://prove2.me/theorems/a177b861-3db1-49e1-9167-9ac10d7ee254

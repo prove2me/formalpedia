@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sum_card_nbr_weight
 -- name    : ChromaticReconstruction.sum_card_nbr_weight
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:42:27.357504+00:00
 -- url     : https://prove2.me/theorems/cbe08bae-cef3-4f1b-ae71-181f100c93fd

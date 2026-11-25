@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_range_inflation_two_eq_ker_restriction
 -- name    : GroundTheory.GroupCoh.range_inflation_two_eq_ker_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:04:01.119948+00:00
 -- url     : https://prove2.me/theorems/b03610e4-1a34-4cd2-8633-500ea4c1e9b7

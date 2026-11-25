@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_young_diagram_step_shift
 -- name    : Formalism.DivisionValues.young_diagram_step_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:30.594733+00:00
 -- url     : https://prove2.me/theorems/5322e0fc-2fad-4907-a691-9f08aeac4e1b

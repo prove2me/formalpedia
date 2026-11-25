@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_prod_X_rename
 -- name    : Formalism.L2.FormalSeriesBounds.prod_X_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:37:36.334253+00:00
 -- url     : https://prove2.me/theorems/04f631f2-bf4d-4054-baf1-e46c309e4d1e

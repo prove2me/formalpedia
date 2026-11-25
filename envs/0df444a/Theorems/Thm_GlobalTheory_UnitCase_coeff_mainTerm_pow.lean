@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_coeff_mainTerm_pow
 -- name    : GlobalTheory.UnitCase.coeff_mainTerm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:38:52.693585+00:00
 -- url     : https://prove2.me/theorems/91a4e1ed-483b-4afd-9959-1584b19edfa6

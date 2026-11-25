@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DimensionMonotonicity_ycond_cprod
 -- name    : Formalism.GM.DimensionMonotonicity.ycond_cprod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:49:00.790094+00:00
 -- url     : https://prove2.me/theorems/73d119e1-e62a-40c2-92c4-0ab7ab7caf4c

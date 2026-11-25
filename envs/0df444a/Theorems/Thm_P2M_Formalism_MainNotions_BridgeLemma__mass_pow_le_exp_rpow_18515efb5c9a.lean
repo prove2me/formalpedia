@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__mass_pow_le_exp_rpow_18515efb5c9a
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__mass_pow_le_exp_rpow_18515efb5c9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:59:23.895339+00:00
 -- url     : https://prove2.me/theorems/2aa35c03-e57a-4d24-956d-038947c898e5

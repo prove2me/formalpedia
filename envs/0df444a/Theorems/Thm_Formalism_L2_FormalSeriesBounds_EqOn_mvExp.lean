@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_EqOn_mvExp
 -- name    : Formalism.L2.FormalSeriesBounds.EqOn.mvExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:38:52.072262+00:00
 -- url     : https://prove2.me/theorems/bb3aa916-2e23-42e2-91bc-e1322eaae61d

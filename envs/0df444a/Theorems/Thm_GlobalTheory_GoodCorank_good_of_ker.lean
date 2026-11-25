@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GoodCorank_good_of_ker
 -- name    : GlobalTheory.GoodCorank.good_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:33:51.720102+00:00
 -- url     : https://prove2.me/theorems/1abe51ae-db64-465b-ad8b-fb1be753b8cf

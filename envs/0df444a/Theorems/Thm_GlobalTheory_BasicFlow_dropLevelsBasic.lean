@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BasicFlow_dropLevelsBasic
 -- name    : GlobalTheory.BasicFlow.dropLevelsBasic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:25:04.008566+00:00
 -- url     : https://prove2.me/theorems/091b14fa-65ed-4c07-a4de-46459dbab096

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_scaledMollifier_nonneg
 -- name    : Newton.scaledMollifier_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:47:28.820255+00:00
 -- url     : https://prove2.me/theorems/24a4165a-fce2-44d9-84d3-45a0714ec0ad

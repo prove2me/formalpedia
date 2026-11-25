@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_neg_pow_mul_inv
 -- name    : GlobalTheory.UnitCase.neg_pow_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:37:13.159104+00:00
 -- url     : https://prove2.me/theorems/fec0a71d-f336-4dff-a5fd-543baae4caa3

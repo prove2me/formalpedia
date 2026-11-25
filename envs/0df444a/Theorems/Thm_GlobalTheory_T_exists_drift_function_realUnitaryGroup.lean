@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_drift_function_realUnitaryGroup
 -- name    : GlobalTheory.T.exists_drift_function_realUnitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:35:49.165167+00:00
 -- url     : https://prove2.me/theorems/8fa94795-517b-48ab-9dc0-246ce1125f7f

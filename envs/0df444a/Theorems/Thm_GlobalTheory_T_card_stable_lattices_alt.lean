@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_stable_lattices_alt
 -- name    : GlobalTheory.T.card_stable_lattices_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:42:13.256947+00:00
 -- url     : https://prove2.me/theorems/fd887fd0-80fc-4587-93ca-b3f8839dbdf5

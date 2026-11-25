@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_eq_exp_of_ode
 -- name    : GlobalTheory.ThetaGauss.eq_exp_of_ode
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:47:45.805565+00:00
 -- url     : https://prove2.me/theorems/a833b5e1-4c7a-49a6-8663-0e4338e50e34

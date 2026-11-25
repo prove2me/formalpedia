@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_LatDictZ_Z2_plane_star__10f2f234469a
 -- name    : P2M_Formalism_L2_SG_Pf_LatDictZ_Z2_plane_star__10f2f234469a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:57:45.562801+00:00
 -- url     : https://prove2.me/theorems/a9ad2dd7-9b97-4553-ae20-4483d1e24d9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_isotropic_cone_invariance
 -- name    : Formalism.FourierDecayAlt.P.isotropic_cone_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:37:48.540099+00:00
 -- url     : https://prove2.me/theorems/c666a6d0-bbf7-4d81-a762-294d1c711c2f

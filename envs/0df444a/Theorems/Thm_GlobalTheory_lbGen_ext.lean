@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lbGen_ext
 -- name    : GlobalTheory.lbGen_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:44:09.600176+00:00
 -- url     : https://prove2.me/theorems/5a576821-892f-4889-8f16-6527e0af2509

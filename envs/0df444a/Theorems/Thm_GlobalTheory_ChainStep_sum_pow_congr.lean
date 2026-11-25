@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainStep_sum_pow_congr
 -- name    : GlobalTheory.ChainStep.sum_pow_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:33:10.408406+00:00
 -- url     : https://prove2.me/theorems/2c1c5d7c-3e1f-4ab5-a192-71b65abee042

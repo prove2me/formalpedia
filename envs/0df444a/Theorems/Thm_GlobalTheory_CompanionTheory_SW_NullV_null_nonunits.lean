@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_NullV_null_nonunits
 -- name    : GlobalTheory.CompanionTheory.SW.NullV.null_nonunits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:17.883067+00:00
 -- url     : https://prove2.me/theorems/48cca371-8021-490a-b90f-0560bd78af1d

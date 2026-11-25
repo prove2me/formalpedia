@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_coeff_pderiv_sub
 -- name    : ChromaticReconstruction.coeff_pderiv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:30:51.735998+00:00
 -- url     : https://prove2.me/theorems/30986872-8a61-462b-b55a-15ea9b951bb6

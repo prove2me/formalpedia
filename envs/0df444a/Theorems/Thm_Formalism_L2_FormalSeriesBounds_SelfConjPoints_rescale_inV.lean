@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_SelfConjPoints_rescale_inV
 -- name    : Formalism.L2.FormalSeriesBounds.SelfConjPoints.rescale_inV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:49:00.998393+00:00
 -- url     : https://prove2.me/theorems/4496258f-1173-4677-9a10-4f0417bae310

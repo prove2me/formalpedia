@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_det_mem
 -- name    : Formalism.L2.FormalSeriesBounds.RF.det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:08.532503+00:00
 -- url     : https://prove2.me/theorems/e91748c5-ecda-4524-b98e-74af9a1b1045

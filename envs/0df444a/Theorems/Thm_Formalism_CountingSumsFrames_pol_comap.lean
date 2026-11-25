@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_pol_comap
 -- name    : Formalism.CountingSumsFrames.pol_comap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:45:26.745535+00:00
 -- url     : https://prove2.me/theorems/d641e4e6-390d-4224-b544-1f4f975696b1

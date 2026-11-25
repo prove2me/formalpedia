@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_joint_weighted_integrable
 -- name    : Formalism.FourierDecayAlt.P.B6.joint_weighted_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:03:10.110687+00:00
 -- url     : https://prove2.me/theorems/31c3eb9d-f2d0-4caf-ab9c-ac3f3c9b37ca

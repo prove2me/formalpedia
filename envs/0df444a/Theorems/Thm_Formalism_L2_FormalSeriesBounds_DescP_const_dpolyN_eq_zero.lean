@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_DescP_const_dpolyN_eq_zero
 -- name    : Formalism.L2.FormalSeriesBounds.DescP.const_dpolyN_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:32:49.170669+00:00
 -- url     : https://prove2.me/theorems/67987dc8-71f3-45ce-8430-25acace7ca5a

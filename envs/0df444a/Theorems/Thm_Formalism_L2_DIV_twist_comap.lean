@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_twist_comap
 -- name    : Formalism.L2.DIV.twist_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:22:14.646031+00:00
 -- url     : https://prove2.me/theorems/3e7f4cfd-0487-4873-b57e-c45ec67036a6

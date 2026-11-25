@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_adjoin_gen_eq_top
 -- name    : GroundTheory.LocalField.adjoin_gen_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:48:42.930073+00:00
 -- url     : https://prove2.me/theorems/073d3147-8b51-4fb0-b22f-3da3765162f6

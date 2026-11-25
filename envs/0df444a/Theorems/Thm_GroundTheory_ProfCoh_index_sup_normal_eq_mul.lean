@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_index_sup_normal_eq_mul
 -- name    : GroundTheory.ProfCoh.index_sup_normal_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:51:20.848191+00:00
 -- url     : https://prove2.me/theorems/ceaf879f-0494-4a3e-8538-3226a15de8bb

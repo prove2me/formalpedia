@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_integralPointClosure__8e8aa1bcee0e
 -- name    : P2M_Formalism_L2_Th1_C_integralPointClosure__8e8aa1bcee0e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:34.218259+00:00
 -- url     : https://prove2.me/theorems/e1ec4be9-55d3-4cac-a6ab-a5f9c89a34d6

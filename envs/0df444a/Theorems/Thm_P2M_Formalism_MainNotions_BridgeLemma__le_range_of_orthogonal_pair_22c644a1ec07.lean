@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__le_range_of_orthogonal_pair_22c644a1ec07
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__le_range_of_orthogonal_pair_22c644a1ec07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:59:50.783892+00:00
 -- url     : https://prove2.me/theorems/776882b5-21f2-4579-a96a-87b4cd997fbc

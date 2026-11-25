@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_ConjugatePairPlaceSetting_rowsOK
 -- name    : Formalism.L2.FormalSeriesBounds.RF.ConjugatePairPlaceSetting.rowsOK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:47:45.380196+00:00
 -- url     : https://prove2.me/theorems/d43beaac-3c68-400e-9479-bff907bcad13

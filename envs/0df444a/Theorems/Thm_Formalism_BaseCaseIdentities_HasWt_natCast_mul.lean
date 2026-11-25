@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_HasWt_natCast_mul
 -- name    : Formalism.BaseCaseIdentities.HasWt.natCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:31:30.907412+00:00
 -- url     : https://prove2.me/theorems/fc43fe8d-8e82-4c99-972c-af1d15b6a191

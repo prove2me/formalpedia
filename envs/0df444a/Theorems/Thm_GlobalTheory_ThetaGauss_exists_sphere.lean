@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_exists_sphere
 -- name    : GlobalTheory.ThetaGauss.exists_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:45:06.81588+00:00
 -- url     : https://prove2.me/theorems/384a5029-e460-4164-a80d-ff510caa877a

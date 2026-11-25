@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_eq_zero_of_tendsto
 -- name    : GlobalTheory.ThetaGauss.eq_zero_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:47:56.911798+00:00
 -- url     : https://prove2.me/theorems/2f573773-a337-4bc2-ae2f-3df063d40e47

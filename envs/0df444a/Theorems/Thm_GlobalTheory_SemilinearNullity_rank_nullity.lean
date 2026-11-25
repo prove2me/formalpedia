@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilinearNullity_rank_nullity
 -- name    : GlobalTheory.SemilinearNullity.rank_nullity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:35:08.604804+00:00
 -- url     : https://prove2.me/theorems/9b044160-3e34-4986-95fe-9874ab469c5c

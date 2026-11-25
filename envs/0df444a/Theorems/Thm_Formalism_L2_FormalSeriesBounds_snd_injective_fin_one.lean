@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_snd_injective_fin_one
 -- name    : Formalism.L2.FormalSeriesBounds.snd_injective_fin_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:37:28.029482+00:00
 -- url     : https://prove2.me/theorems/e2f7861b-688c-41a5-b543-2effd9137347

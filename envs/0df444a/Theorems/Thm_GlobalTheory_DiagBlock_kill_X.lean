@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_kill_X
 -- name    : GlobalTheory.DiagBlock.kill_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:30.961864+00:00
 -- url     : https://prove2.me/theorems/76b8cf44-f297-45ad-acbf-7e0f5db2e7e9

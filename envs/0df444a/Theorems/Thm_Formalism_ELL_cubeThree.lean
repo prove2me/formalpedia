@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_cubeThree
 -- name    : Formalism.ELL.cubeThree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:23:45.994398+00:00
 -- url     : https://prove2.me/theorems/95383bdb-4760-499e-b793-c8fe5604d37b

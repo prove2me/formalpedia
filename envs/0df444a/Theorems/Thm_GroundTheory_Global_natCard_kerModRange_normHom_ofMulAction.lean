@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_natCard_kerModRange_normHom_ofMulAction
 -- name    : GroundTheory.Global.natCard_kerModRange_normHom_ofMulAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:42:34.190646+00:00
 -- url     : https://prove2.me/theorems/907edfac-0548-4452-95cc-9ceebb11f923

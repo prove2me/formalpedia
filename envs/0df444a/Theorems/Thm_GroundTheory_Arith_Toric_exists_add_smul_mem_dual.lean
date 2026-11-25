@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_exists_add_smul_mem_dual
 -- name    : GroundTheory.Arith.Toric.exists_add_smul_mem_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:49:24.294808+00:00
 -- url     : https://prove2.me/theorems/f726f6eb-897f-4d06-8690-664e09b7a0fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_exists_mem_stabilizer_of_comap_eq
 -- name    : GroundTheory.Global.Cyclotomic.exists_mem_stabilizer_of_comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:44:10.176742+00:00
 -- url     : https://prove2.me/theorems/2ed72ba8-f4d3-40d2-9e6e-702ca3201634

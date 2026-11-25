@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_sum_range_ite
 -- name    : GlobalTheory.MinorGerm.sum_range_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:44:41.011806+00:00
 -- url     : https://prove2.me/theorems/996aa946-c8bd-47dc-966f-6dbb648e68b7

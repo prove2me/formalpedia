@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_frob_pi
 -- name    : Formalism.LT.LTL.frob_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:02.414609+00:00
 -- url     : https://prove2.me/theorems/f35a1abe-ba2d-472d-916f-4f0dc0d6a396

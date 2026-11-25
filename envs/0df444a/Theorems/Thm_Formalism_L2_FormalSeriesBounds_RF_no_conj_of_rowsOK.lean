@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_no_conj_of_rowsOK
 -- name    : Formalism.L2.FormalSeriesBounds.RF.no_conj_of_rowsOK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:47:04.341913+00:00
 -- url     : https://prove2.me/theorems/207e8b69-5014-46df-9d73-55acaba4176e

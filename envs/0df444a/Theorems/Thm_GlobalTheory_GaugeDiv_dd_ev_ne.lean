@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeDiv_dd_ev_ne
 -- name    : GlobalTheory.GaugeDiv.dd_ev_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:48:20.79512+00:00
 -- url     : https://prove2.me/theorems/8bf07d4c-38d8-4487-8797-960536d5fd1e

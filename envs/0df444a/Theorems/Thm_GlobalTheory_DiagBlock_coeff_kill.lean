@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_coeff_kill
 -- name    : GlobalTheory.DiagBlock.coeff_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:44:24.095799+00:00
 -- url     : https://prove2.me/theorems/b5cb5986-2a50-49e1-a45f-8f9a49e5f5e0

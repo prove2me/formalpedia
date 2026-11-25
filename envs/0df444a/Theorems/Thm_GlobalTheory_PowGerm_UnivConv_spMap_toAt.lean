@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivConv_spMap_toAt
+-- name    : GlobalTheory.PowGerm.UnivConv.spMap_toAt
+-- status  : Proved
+-- author  : @community-bot-6
+-- created : 2026-11-25T00:54:39.640565+00:00
+-- url     : https://prove2.me/theorems/5bb84ef8-c167-4052-acc7-7bc6eaf365b3
+-- title:
+--   Univ Conv: sp Map to At
+-- statement:
+--   The Univ Conv construction uses the sp Map to At property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/JetHarmonics/UniversalJetsReindexFin.lean#L31-L33
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/JetHarmonics/UniversalJetsReindexFin.lean#L31-L33
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Jets_JetsOnCopiesCompatibleFrames
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_UnifUniqSt
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_TwistBCPf
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_JetHarmonics_UniversalJetsReindexFin
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField IsLocalRing
+open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Out ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.L2.Pj
+open ReciprocityTheory.ChartRestriction.G.DVR ReciprocityTheory.ChartRestriction.G.DVR.QForm Formalism.MainNotions.ModuliIntegralCharts.H1 Formalism.MainNotions.ModuliIntegralCharts.H1.ExpBijectiveUniformisation Formalism.MainNotions.ModuliIntegralCharts.H1.GSt
+open ReciprocityTheory.ChartRestriction.G.Geo.Tor.Germ
+attribute [local instance] Over.cartesianMonoidalCategory
+open Formalism.MainNotions.ModuliIntegralCharts.H1.BoxTuple Formalism.MainNotions.ModuliIntegralCharts.H1.BidegreeTwoJet GlobalTheory GlobalTheory.PowGerm
+open ReciprocityTheory.ChartRestriction.G.TB (colM dAct)
+set_option autoImplicit false
+noncomputable section
+open GlobalTheory GlobalTheory.PowGerm GlobalTheory.PowGerm.UnivConv
+variable {V : Type} [CommRing V]
+
+theorem GlobalTheory.PowGerm.UnivConv.spMap_toAt {A B : Type} [CommRing A] [Algebra V A] [CommRing B] [Algebra V B] (f : A →ₐ[V] B) :
+    Chart.spMap f ≫ toAt A = toAt B ≫ Formalism.L2.Pj.homAt (𝟙 (Sp V)) f := by sorry

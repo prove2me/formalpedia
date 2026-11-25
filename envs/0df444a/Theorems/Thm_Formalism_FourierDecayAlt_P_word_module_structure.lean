@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_word_module_structure
 -- name    : Formalism.FourierDecayAlt.P.word_module_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:39:13.140513+00:00
 -- url     : https://prove2.me/theorems/71fd85b3-62ce-47cc-a4be-60dde924800b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_HermitianFormFactor_gN_sq__f8e7b367e001
 -- name    : P2M_Formalism_FourierDecayAlt_P_HermitianFormFactor_gN_sq__f8e7b367e001
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:55:58.899657+00:00
 -- url     : https://prove2.me/theorems/1503c9ac-88c9-4ee7-8a32-5aabb557d1f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LevelValuationRings_hidaSettingOfEven_6fc5b055357a
 -- name    : P2M_Formalism_BasicNotions_Examples__LevelValuationRings_hidaSettingOfEven_6fc5b055357a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:14:03.119806+00:00
 -- url     : https://prove2.me/theorems/079a4484-bfc6-4c9b-993e-c9e4f58ebfdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_exchangeTwo_self_eq_one
 -- name    : Formalism.L2.FormalSeriesBounds.exchangeTwo_self_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:45:16.66958+00:00
 -- url     : https://prove2.me/theorems/4732f7d9-57b0-4b68-abd5-16f775505943

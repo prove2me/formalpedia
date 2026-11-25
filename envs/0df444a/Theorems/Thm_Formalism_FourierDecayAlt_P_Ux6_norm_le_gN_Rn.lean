@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_norm_le_gN_Rn
 -- name    : Formalism.FourierDecayAlt.P.Ux6.norm_le_gN_Rn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:34:51.120349+00:00
 -- url     : https://prove2.me/theorems/24c17540-d1b4-4dca-bd64-aa6e4daba958

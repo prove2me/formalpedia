@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_conjP_int
 -- name    : MassDataIdxCore.conjP_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:52:00.209219+00:00
 -- url     : https://prove2.me/theorems/f6e2981d-013a-4a5a-a04d-bbbc2fe27401

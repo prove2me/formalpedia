@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_cutoff_theta
 -- name    : Formalism.FourierDecayAlt.P.cutoff_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:58.548185+00:00
 -- url     : https://prove2.me/theorems/105e8158-066c-4ce4-9f2d-01dbb9bcbe0d

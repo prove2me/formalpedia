@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WordKeyIdentity_int_list_smul
 -- name    : Formalism.FourierDecayAlt.P.WordKeyIdentity.int_list_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:37:30.125653+00:00
 -- url     : https://prove2.me/theorems/67af6798-da4b-4a35-8155-7df28581b713

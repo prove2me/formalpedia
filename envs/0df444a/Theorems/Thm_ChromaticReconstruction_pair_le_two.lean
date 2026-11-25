@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pair_le_two
 -- name    : ChromaticReconstruction.pair_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:39:08.135431+00:00
 -- url     : https://prove2.me/theorems/16482fae-b70f-4d2b-a9d1-ace0597ac3ea

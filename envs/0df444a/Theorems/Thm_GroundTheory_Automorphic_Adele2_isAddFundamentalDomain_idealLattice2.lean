@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_isAddFundamentalDomain_idealLattice2
 -- name    : GroundTheory.Automorphic.Adele2.isAddFundamentalDomain_idealLattice2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:48:19.096505+00:00
 -- url     : https://prove2.me/theorems/f3089812-5b30-4776-b4c8-f62c3cb2f6ac

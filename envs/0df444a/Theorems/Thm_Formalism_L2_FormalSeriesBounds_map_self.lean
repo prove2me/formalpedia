@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_map_self
 -- name    : Formalism.L2.FormalSeriesBounds.map_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:46:34.044251+00:00
 -- url     : https://prove2.me/theorems/7c5d0998-338a-4e3a-9728-8c53f373629e

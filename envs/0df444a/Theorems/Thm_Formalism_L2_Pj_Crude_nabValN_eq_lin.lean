@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_Crude_nabValN_eq_lin
 -- name    : Formalism.L2.Pj.Crude.nabValN_eq_lin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:13.443411+00:00
 -- url     : https://prove2.me/theorems/9f3b5247-8c87-4073-80ec-be05d2f2dd5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_K_pos
 -- name    : Formalism.BaseCaseIdentities.Data.K_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:37:23.71877+00:00
 -- url     : https://prove2.me/theorems/2810d30d-46a0-42e1-a29c-82acb3f33688

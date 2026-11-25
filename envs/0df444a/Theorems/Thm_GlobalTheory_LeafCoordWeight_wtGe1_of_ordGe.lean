@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeafCoordWeight_wtGe1_of_ordGe
 -- name    : GlobalTheory.LeafCoordWeight.wtGe1_of_ordGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:48:37.940581+00:00
 -- url     : https://prove2.me/theorems/0cc49627-0c81-49f1-ba56-f06fef2f63e5

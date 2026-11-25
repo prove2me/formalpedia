@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenAll_exists_defect
 -- name    : GlobalTheory.EigenAll.exists_defect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:48:27.384798+00:00
 -- url     : https://prove2.me/theorems/181f3711-ba34-48cc-a880-97b3923ecf3e

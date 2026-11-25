@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeDeriv_pderiv_hPullW
 -- name    : GlobalTheory.GaugeDeriv.pderiv_hPullW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:33:39.646236+00:00
 -- url     : https://prove2.me/theorems/ff5af381-254f-41a5-a9c5-db6f382df583

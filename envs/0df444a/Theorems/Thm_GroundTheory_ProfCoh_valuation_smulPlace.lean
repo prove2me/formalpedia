@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_valuation_smulPlace
 -- name    : GroundTheory.ProfCoh.valuation_smulPlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:51:03.644863+00:00
 -- url     : https://prove2.me/theorems/c1d93499-e0e7-487b-8a61-920e095f3835

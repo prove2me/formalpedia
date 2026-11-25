@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_cartanBasis
 -- name    : GroundTheory.Automorphic.exists_cartanBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:24:52.746864+00:00
 -- url     : https://prove2.me/theorems/1de948d9-5ee6-4aa9-a40d-b2468b062818

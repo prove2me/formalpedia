@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_res_frob_pow
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.res_frob_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:36:22.199452+00:00
 -- url     : https://prove2.me/theorems/95b5c5f9-3f16-44ee-8bab-692bbf60615d

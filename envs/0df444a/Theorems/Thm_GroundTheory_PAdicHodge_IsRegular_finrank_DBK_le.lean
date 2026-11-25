@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsRegular_finrank_DBK_le
 -- name    : GroundTheory.PAdicHodge.IsRegular.finrank_DBK_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:41.306646+00:00
 -- url     : https://prove2.me/theorems/bf731e86-9d7a-45cb-8486-d9978fa87e3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_g_eq_zero_of_finite
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.g_eq_zero_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:44:46.853491+00:00
 -- url     : https://prove2.me/theorems/e62e24f0-b4fe-48a8-96aa-0ec92f64f5fe

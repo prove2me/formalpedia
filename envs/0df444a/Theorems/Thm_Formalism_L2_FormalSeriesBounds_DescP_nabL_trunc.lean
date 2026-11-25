@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_DescP_nabL_trunc
 -- name    : Formalism.L2.FormalSeriesBounds.DescP.nabL_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:32:16.521121+00:00
 -- url     : https://prove2.me/theorems/4229ab2a-3211-4537-b408-e1b556f08c1c

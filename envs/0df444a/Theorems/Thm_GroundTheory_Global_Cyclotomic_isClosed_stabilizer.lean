@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_isClosed_stabilizer
 -- name    : GroundTheory.Global.Cyclotomic.isClosed_stabilizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:43:08.377356+00:00
 -- url     : https://prove2.me/theorems/021a5364-bad0-4c09-b26a-60dd7f3cc27e

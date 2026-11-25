@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpCoordFrame_contDiffAt_psi
 -- name    : GlobalTheory.ExpCoordFrame.contDiffAt_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:46:43.652665+00:00
 -- url     : https://prove2.me/theorems/0e7c1a90-4493-400a-8967-cafe65b52606

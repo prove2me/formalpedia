@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FBChart_self_chart_log_constantCoeff
 -- name    : Formalism.L2.FormalSeriesBounds.FBChart.self_chart_log_constantCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:46:49.373247+00:00
 -- url     : https://prove2.me/theorems/586f03c6-588f-45a7-a5dc-d51c4f213e36

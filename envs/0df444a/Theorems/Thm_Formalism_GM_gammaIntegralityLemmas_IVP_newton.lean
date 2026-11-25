@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_IVP_newton
 -- name    : Formalism.GM.gammaIntegralityLemmas.IVP.newton
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:23:10.611899+00:00
 -- url     : https://prove2.me/theorems/64233c15-72dd-467a-b860-0dfb2d0e7431

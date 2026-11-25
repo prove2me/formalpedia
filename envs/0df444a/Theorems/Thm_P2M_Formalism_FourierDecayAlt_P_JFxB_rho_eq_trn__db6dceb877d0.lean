@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_JFxB_rho_eq_trn__db6dceb877d0
 -- name    : P2M_Formalism_FourierDecayAlt_P_JFxB_rho_eq_trn__db6dceb877d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:00:42.360971+00:00
 -- url     : https://prove2.me/theorems/d56f7fe7-70e6-44b8-8976-cbbd9a696452

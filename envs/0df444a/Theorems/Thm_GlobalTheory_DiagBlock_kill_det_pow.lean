@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_kill_det_pow
 -- name    : GlobalTheory.DiagBlock.kill_det_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:44:19.64286+00:00
 -- url     : https://prove2.me/theorems/b03fba87-5c17-411c-94e7-a14ec8cb1358

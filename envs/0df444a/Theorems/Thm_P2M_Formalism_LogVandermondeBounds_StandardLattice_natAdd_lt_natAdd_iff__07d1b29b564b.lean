@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LogVandermondeBounds_StandardLattice_natAdd_lt_natAdd_iff__07d1b29b564b
 -- name    : P2M_Formalism_LogVandermondeBounds_StandardLattice_natAdd_lt_natAdd_iff__07d1b29b564b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:58:45.536808+00:00
 -- url     : https://prove2.me/theorems/9c1ca567-1cc7-4b64-9f04-1a70f3618c91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_lawA3__of_870337d911ac
 -- name    : P2M_Formalism_L2_Pj_lawA3__of_870337d911ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:57:50.040526+00:00
 -- url     : https://prove2.me/theorems/9e466d14-494b-41a9-b0aa-c7a7368bc412

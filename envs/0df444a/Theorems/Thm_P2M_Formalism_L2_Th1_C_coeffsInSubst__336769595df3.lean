@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_coeffsInSubst__336769595df3
 -- name    : P2M_Formalism_L2_Th1_C_coeffsInSubst__336769595df3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:18.550381+00:00
 -- url     : https://prove2.me/theorems/512d4ccb-f80d-4390-a1fa-2ee7895fcf20

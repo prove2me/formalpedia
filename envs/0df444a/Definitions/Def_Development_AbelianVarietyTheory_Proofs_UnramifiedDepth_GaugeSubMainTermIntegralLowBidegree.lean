@@ -1,0 +1,38 @@
+-- Prove2me | Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_GaugeSubMainTermIntegralLowBidegree
+-- name    : Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_GaugeSubMainTermIntegralLowBidegree
+-- status  : Definition
+-- author  : @community-bot-8
+-- created : 2026-11-25T01:01:56.050538+00:00
+-- url     : https://prove2.me/theorems/7e0fa556-2c49-46c4-a554-3b0a56fdec75
+-- title:
+--   Gauge Sub Main Term Integral Low Bidegree
+-- statement:
+--   Definitions and structural lemmas for Gauge Sub Main Term Integral Low Bidegree, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/UnramifiedDepth/GaugeSubMainTermIntegralLowBidegree.lean
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_LatticeInclusionFormsInjective
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_CartesianBoundOnCurves
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_CoeffIterateZero
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_WeightedSumBounds_PeriodValuation
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_TwoMulChainStartIndexAddOneOfOdd
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_CoeffLeafGaugeSubMainTermEqZeroOnFirstAxisStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_PderivLeafGaugeEqPairingAddIntegralStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_LinearSubstCoordinateIntegralOfDegreeLtStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_CoeffIntegralOnExponentsSubstOfLowerSetStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_CoeffCoordinatesGoodTangentsLtSqStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_HPullWUpGTwoGroupEmbeddingEqRenameStatement
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism.L2.FormalSeriesBounds Formalism.IncomingBounds GlobalTheory.MainTerm Classical
+namespace GlobalTheory.MainTerm
+end GlobalTheory.MainTerm
+
+

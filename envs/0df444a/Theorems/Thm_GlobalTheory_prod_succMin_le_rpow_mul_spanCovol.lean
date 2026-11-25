@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_succMin_le_rpow_mul_spanCovol
 -- name    : GlobalTheory.prod_succMin_le_rpow_mul_spanCovol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:15:00.857745+00:00
 -- url     : https://prove2.me/theorems/98e6f93c-aafd-44eb-82ad-66696bf17d86

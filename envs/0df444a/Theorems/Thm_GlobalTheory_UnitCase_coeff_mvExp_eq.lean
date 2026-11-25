@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_coeff_mvExp_eq
 -- name    : GlobalTheory.UnitCase.coeff_mvExp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:36:58.67756+00:00
 -- url     : https://prove2.me/theorems/923f1577-f728-44aa-bd5c-9a21e084eb13

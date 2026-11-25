@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_det_homog
 -- name    : GlobalTheory.DiagBlock.det_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:11.614071+00:00
 -- url     : https://prove2.me/theorems/34b9b83c-8f5c-4423-94a1-43936eaac40d

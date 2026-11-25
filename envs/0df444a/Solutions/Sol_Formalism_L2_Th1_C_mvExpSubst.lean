@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.C.mvExpSubst
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T00:59:53.630901+00:00
+-- url     : https://prove2.me/submissions/1a9d7c0e-54a8-4761-b73a-3e5acfa87dfb
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_CoeffPowEqZeroOfCc
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_DegreeLeOfMemAntidiagonal
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_ConstantCoeffSubstBinomSeries
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_HasSecondLogDerivPowerSeriesExp
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_SecondCoeffConsistency
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_USideA
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_USideB
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_SecondCoeffConsistency
+import Theorems.Thm_P2M_Formalism_L2_Th1_C_formalExpSubst__a7ec454a1ed7
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.C
+namespace Formalism.L2.Th1.C
+theorem _root_.solution : MvExpSubst := formalExpSubst'
+end Formalism.L2.Th1.C

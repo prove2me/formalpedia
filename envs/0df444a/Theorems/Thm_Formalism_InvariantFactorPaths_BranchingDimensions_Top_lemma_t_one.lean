@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_Top_lemma_t_one
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.Top.lemma_t_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:18:57.778363+00:00
 -- url     : https://prove2.me/theorems/bb5b2863-8646-4bc2-a41b-b35ef1a3c5db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_comap___comap_ebbf3c779431
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_comap___comap_ebbf3c779431
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:01:50.627724+00:00
 -- url     : https://prove2.me/theorems/eeb1e15d-caae-428b-b14f-ae9afc7a258e

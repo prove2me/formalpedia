@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_exists_approx
 -- name    : CompanionTheory.D.Upq.Sm.exists_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:41:39.961193+00:00
 -- url     : https://prove2.me/theorems/b02d492a-1ef5-4751-bda0-3b6bd15c7755

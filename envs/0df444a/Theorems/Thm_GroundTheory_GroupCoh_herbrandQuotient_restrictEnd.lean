@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_herbrandQuotient_restrictEnd
 -- name    : GroundTheory.GroupCoh.herbrandQuotient_restrictEnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:43:09.122355+00:00
 -- url     : https://prove2.me/theorems/0c3cdbff-7ad2-4428-91f2-08d9969b5acd

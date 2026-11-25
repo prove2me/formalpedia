@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigma_eq_of_not_irrelevant
 -- name    : GroundTheory.Automorphic.Whittaker.sigma_eq_of_not_irrelevant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:36:52.972654+00:00
 -- url     : https://prove2.me/theorems/e06f5140-6ad0-4124-a8b7-f853a1940942

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_convolution_support_ball_subset
 -- name    : Newton.convolution_support_ball_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:48:36.872815+00:00
 -- url     : https://prove2.me/theorems/c9ed36d8-b0bd-4fba-bd92-517350afe610

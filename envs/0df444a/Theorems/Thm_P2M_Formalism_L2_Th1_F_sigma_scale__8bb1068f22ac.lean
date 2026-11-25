@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_F_sigma_scale__8bb1068f22ac
 -- name    : P2M_Formalism_L2_Th1_F_sigma_scale__8bb1068f22ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:59:06.754697+00:00
 -- url     : https://prove2.me/theorems/ef51ce10-c1eb-4ac8-96bb-fc67888fe8fd

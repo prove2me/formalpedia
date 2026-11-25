@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_norm_natCast_ne_zero
 -- name    : GroundTheory.PAdicHodge.AInf.norm_natCast_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:38:32.482803+00:00
 -- url     : https://prove2.me/theorems/ce415256-7ce5-4191-ba94-225ffa482f63

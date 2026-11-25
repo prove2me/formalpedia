@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_monAl_eq_zero
 -- name    : GlobalTheory.MinorGerm.monAl_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:45:03.46779+00:00
 -- url     : https://prove2.me/theorems/164649aa-a163-465e-91ef-271df5e94c05

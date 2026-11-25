@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DimensionMonotonicity_Cas_wh
 -- name    : Formalism.GM.DimensionMonotonicity.Cas_wh
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:45:52.880401+00:00
 -- url     : https://prove2.me/theorems/f0c40cdf-77f3-49da-87d1-2e6081284b3d

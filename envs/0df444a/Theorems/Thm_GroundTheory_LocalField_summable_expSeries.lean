@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_summable_expSeries
 -- name    : GroundTheory.LocalField.summable_expSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:10:09.57912+00:00
 -- url     : https://prove2.me/theorems/26c48c53-adca-488a-b833-6893d45793f3

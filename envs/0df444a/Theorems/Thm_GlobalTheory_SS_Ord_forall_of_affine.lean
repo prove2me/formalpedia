@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_forall_of_affine
 -- name    : GlobalTheory.SS.Ord.forall_of_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:17:14.863087+00:00
 -- url     : https://prove2.me/theorems/e195d688-3f61-46f9-b980-80b74b7c493d

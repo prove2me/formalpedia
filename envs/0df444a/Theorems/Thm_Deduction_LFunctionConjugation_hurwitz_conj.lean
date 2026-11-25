@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_LFunctionConjugation_hurwitz_conj
 -- name    : Deduction.LFunctionConjugation.hurwitz_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:18.730796+00:00
 -- url     : https://prove2.me/theorems/66578b76-935c-4fac-8067-fe1a16e2242c

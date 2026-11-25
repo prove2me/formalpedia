@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_SchurHpk_threeDimData_schurH
 -- name    : CompanionTheory.LimBd.SchurHpk.threeDimData_schurH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:57:07.021891+00:00
 -- url     : https://prove2.me/theorems/9ef32963-995c-4b46-8ceb-263e69ce7ecd

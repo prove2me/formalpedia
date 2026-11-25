@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_inv_mem_intRing
 -- name    : GlobalTheory.UnitCase.inv_mem_intRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:37:09.012824+00:00
 -- url     : https://prove2.me/theorems/fc9b5f36-5605-4caa-aa8f-270639ddb272

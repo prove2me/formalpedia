@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isOpen_setOf_le_llRank
 -- name    : GroundTheory.Automorphic.Whittaker.isOpen_setOf_le_llRank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:29:12.115251+00:00
 -- url     : https://prove2.me/theorems/acb5e310-b696-4f36-bca2-1c11ff400c54

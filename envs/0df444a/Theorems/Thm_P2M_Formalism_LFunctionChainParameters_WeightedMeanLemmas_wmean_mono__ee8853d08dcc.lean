@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LFunctionChainParameters_WeightedMeanLemmas_wmean_mono__ee8853d08dcc
 -- name    : P2M_Formalism_LFunctionChainParameters_WeightedMeanLemmas_wmean_mono__ee8853d08dcc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:58:25.180524+00:00
 -- url     : https://prove2.me/theorems/0f3be657-2ff8-4605-b2c9-f9cd98af8d78

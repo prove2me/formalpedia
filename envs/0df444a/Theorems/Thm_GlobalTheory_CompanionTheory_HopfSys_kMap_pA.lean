@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HopfSys_kMap_pA
 -- name    : GlobalTheory.CompanionTheory.HopfSys.kMap_pA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:36:02.912163+00:00
 -- url     : https://prove2.me/theorems/4597b9fa-2ce1-4d7b-bfc3-68e4d8a61e8f

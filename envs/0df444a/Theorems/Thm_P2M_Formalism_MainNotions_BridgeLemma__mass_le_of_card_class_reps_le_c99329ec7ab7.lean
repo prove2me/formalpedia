@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__mass_le_of_card_class_reps_le_c99329ec7ab7
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__mass_le_of_card_class_reps_le_c99329ec7ab7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:00:45.187701+00:00
 -- url     : https://prove2.me/theorems/27032c34-a694-4308-a213-554aacabe09d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_CongrVAux_coeff_subst_perturb
 -- name    : Formalism.FG.CongrVAux.coeff_subst_perturb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:58.169799+00:00
 -- url     : https://prove2.me/theorems/e8d8dee9-8da0-4242-b103-4397fe6bc522

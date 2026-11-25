@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_product_test_integrable
 -- name    : Formalism.FourierDecayAlt.P.B6.product_test_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:17:46.502806+00:00
 -- url     : https://prove2.me/theorems/e751facb-a8db-4334-aef2-3652d53cd60c

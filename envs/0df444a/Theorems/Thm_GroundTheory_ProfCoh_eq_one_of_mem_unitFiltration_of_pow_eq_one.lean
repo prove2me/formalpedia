@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_eq_one_of_mem_unitFiltration_of_pow_eq_one
 -- name    : GroundTheory.ProfCoh.eq_one_of_mem_unitFiltration_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:36.817601+00:00
 -- url     : https://prove2.me/theorems/68547deb-105e-4101-98a5-cbdc48fd7fea

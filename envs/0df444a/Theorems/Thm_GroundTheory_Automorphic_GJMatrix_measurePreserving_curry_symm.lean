@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_measurePreserving_curry_symm
 -- name    : GroundTheory.Automorphic.GJMatrix.measurePreserving_curry_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:42:45.13913+00:00
 -- url     : https://prove2.me/theorems/7e56c232-c575-47e3-8375-da0e7c3e4c5c

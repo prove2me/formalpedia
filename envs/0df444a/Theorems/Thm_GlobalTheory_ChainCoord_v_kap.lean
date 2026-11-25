@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainCoord_v_kap
 -- name    : GlobalTheory.ChainCoord.v_kap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:39:00.801317+00:00
 -- url     : https://prove2.me/theorems/8295d43e-5fc0-4176-a687-6321fca17959

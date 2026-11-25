@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_coeff_mul_split
 -- name    : GlobalTheory.DiagBlock.coeff_mul_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:46:58.239791+00:00
 -- url     : https://prove2.me/theorems/20966c15-74a0-4878-8865-7cf46eecdabc

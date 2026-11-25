@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_PrimV_exists_compact_unimodular_vectors_mod_units
 -- name    : GlobalTheory.CompanionTheory.SW.PrimV.exists_compact_unimodular_vectors_mod_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:10:51.183847+00:00
 -- url     : https://prove2.me/theorems/e7da0d23-189f-40e3-aa7e-195f479c81fd

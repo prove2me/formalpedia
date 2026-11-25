@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_not_dvd_mfact
 -- name    : GlobalTheory.UnitCase.not_dvd_mfact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:39:55.681964+00:00
 -- url     : https://prove2.me/theorems/0eb489eb-1efa-4ee4-bb16-76e3c8f0de45

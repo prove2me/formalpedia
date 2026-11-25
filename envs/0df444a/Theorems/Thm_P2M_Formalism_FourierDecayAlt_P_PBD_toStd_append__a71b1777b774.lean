@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_PBD_toStd_append__a71b1777b774
 -- name    : P2M_Formalism_FourierDecayAlt_P_PBD_toStd_append__a71b1777b774
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:56:18.722815+00:00
 -- url     : https://prove2.me/theorems/f63bcc3f-6144-4845-a45d-2912d20f5df0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_D_MeanSimeq_of__1ab23f239698
 -- name    : P2M_Formalism_L2_Th1_D_MeanSimeq_of__1ab23f239698
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:53.892291+00:00
 -- url     : https://prove2.me/theorems/dbe99340-72d2-4768-a98f-c86504e753a3

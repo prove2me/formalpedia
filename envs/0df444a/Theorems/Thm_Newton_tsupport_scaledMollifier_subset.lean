@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_tsupport_scaledMollifier_subset
 -- name    : Newton.tsupport_scaledMollifier_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:48:30.24747+00:00
 -- url     : https://prove2.me/theorems/9b419787-eceb-443f-9781-687f428ad3c1

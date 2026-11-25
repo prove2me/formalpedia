@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LT_LTL_decomp__fc31821dd2a9
 -- name    : P2M_Formalism_LT_LTL_decomp__fc31821dd2a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:58:35.259414+00:00
 -- url     : https://prove2.me/theorems/7480b75a-e719-40c4-beb3-23bb882558e7

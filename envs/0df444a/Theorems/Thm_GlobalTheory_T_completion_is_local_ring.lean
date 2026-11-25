@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_completion_is_local_ring
 -- name    : GlobalTheory.T.completion_is_local_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:32:23.375806+00:00
 -- url     : https://prove2.me/theorems/64f09ffe-e1b8-45b0-a66e-063288b81734

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_exists_mean
 -- name    : GlobalTheory.ThetaGauss.exists_mean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:48:11.557633+00:00
 -- url     : https://prove2.me/theorems/9f7bbc68-2f54-47e7-b55d-507d04c9e656

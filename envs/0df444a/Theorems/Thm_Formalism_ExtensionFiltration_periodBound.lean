@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_periodBound
 -- name    : Formalism.ExtensionFiltration.periodBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:41.967314+00:00
 -- url     : https://prove2.me/theorems/08f42fc6-b2c2-49e0-93b2-4ff252a926bc

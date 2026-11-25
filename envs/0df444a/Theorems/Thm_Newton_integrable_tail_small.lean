@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_integrable_tail_small
 -- name    : Newton.integrable_tail_small
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:42:33.030805+00:00
 -- url     : https://prove2.me/theorems/6c31f699-92d1-4e90-99c5-5892c7526e03

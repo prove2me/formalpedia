@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_degree_le_rank_mul_maxSlope
 -- name    : Formalism.F.degree_le_rank_mul_maxSlope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:40.022299+00:00
 -- url     : https://prove2.me/theorems/78e2bb1b-2c35-4e8d-86e2-86a0b2e69230

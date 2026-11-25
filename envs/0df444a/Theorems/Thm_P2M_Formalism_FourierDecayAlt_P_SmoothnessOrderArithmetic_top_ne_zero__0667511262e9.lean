@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_top_ne_zero__0667511262e9
 -- name    : P2M_Formalism_FourierDecayAlt_P_SmoothnessOrderArithmetic_top_ne_zero__0667511262e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:55:52.645084+00:00
 -- url     : https://prove2.me/theorems/2ce7f72b-e866-429b-80a7-14b045b3ed64

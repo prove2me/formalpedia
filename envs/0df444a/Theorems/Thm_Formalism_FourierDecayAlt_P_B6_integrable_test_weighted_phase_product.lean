@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_integrable_test_weighted_phase_product
 -- name    : Formalism.FourierDecayAlt.P.B6.integrable_test_weighted_phase_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:02:38.315797+00:00
 -- url     : https://prove2.me/theorems/e08f85f0-b473-4e49-847e-7c82f63c4a02

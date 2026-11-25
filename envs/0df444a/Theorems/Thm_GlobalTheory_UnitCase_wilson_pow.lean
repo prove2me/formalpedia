@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_wilson_pow
 -- name    : GlobalTheory.UnitCase.wilson_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:36:47.239947+00:00
 -- url     : https://prove2.me/theorems/ea75ab7d-2bc0-4fbf-ad7c-441c70412b95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TopsChoiceProbabilityLemmas_tiles_bound
 -- name    : Formalism.G0.TopsChoiceProbabilityLemmas.tiles_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:11:08.091993+00:00
 -- url     : https://prove2.me/theorems/d1f9c672-722f-4b6c-8530-d2fc3d21acb0

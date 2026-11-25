@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_setEdge_col_of_ne_left
 -- name    : LeanPool.Vizing.PEC.setEdge_col_of_ne_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:46:44.672226+00:00
 -- url     : https://prove2.me/theorems/faad94b9-5671-49ef-b717-f1e95578833b

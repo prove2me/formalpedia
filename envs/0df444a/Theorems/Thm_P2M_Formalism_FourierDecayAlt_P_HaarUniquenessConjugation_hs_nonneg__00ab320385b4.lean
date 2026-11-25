@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_hs_nonneg__00ab320385b4
 -- name    : P2M_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_hs_nonneg__00ab320385b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:56:11.841559+00:00
 -- url     : https://prove2.me/theorems/9877075b-b982-4cbf-b74e-a6f231da7bb4

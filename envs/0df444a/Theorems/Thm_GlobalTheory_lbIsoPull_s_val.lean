@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lbIsoPull_s_val
 -- name    : GlobalTheory.lbIsoPull_s_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:49:12.031796+00:00
 -- url     : https://prove2.me/theorems/eed908ea-fa96-4712-ab8b-26e6e09620e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_RecursionWithDensities_A1_oneLevelAfterOfOldA
 -- name    : Formalism.FourierDecayAlt.P.RecursionWithDensities.A1.oneLevelAfterOfOldA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:20:55.103313+00:00
 -- url     : https://prove2.me/theorems/f2d1b6eb-3782-4982-80b2-068bd2214a6f

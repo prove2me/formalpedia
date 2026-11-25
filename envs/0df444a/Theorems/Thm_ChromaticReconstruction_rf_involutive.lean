@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_rf_involutive
 -- name    : ChromaticReconstruction.rf_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:56:40.544336+00:00
 -- url     : https://prove2.me/theorems/bc34bdb3-acc6-46e7-81d5-93d460652c18

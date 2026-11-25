@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_formalGroupCoordinates_pullback_linear_tangentBasis
 -- name    : GlobalTheory.T.formalGroupCoordinates_pullback_linear_tangentBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:45:24.704644+00:00
 -- url     : https://prove2.me/theorems/019d323d-5b12-4902-b694-68a6b95d97c2

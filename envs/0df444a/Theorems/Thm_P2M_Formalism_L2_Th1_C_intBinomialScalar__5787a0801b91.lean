@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_intBinomialScalar__5787a0801b91
 -- name    : P2M_Formalism_L2_Th1_C_intBinomialScalar__5787a0801b91
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:58:09.119622+00:00
 -- url     : https://prove2.me/theorems/db5a0b1e-a418-4168-999f-1438d0a50774

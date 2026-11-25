@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_elementary_pair_support
 -- name    : Formalism.L2.FormalSeriesBounds.elementary_pair_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:45:35.358747+00:00
 -- url     : https://prove2.me/theorems/c5685549-ee7f-4acd-9b77-e4aba8099c58

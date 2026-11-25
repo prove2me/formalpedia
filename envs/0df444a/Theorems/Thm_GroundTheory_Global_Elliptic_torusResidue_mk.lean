@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_torusResidue_mk
 -- name    : GroundTheory.Global.Elliptic.torusResidue_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:39:16.194844+00:00
 -- url     : https://prove2.me/theorems/8bf65ca5-a18c-4056-bfd3-a3b2bdf1dc56

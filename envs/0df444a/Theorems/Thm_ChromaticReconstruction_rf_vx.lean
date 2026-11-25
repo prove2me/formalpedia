@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_rf_vx
 -- name    : ChromaticReconstruction.rf_vx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:56:31.341176+00:00
 -- url     : https://prove2.me/theorems/caf315e9-df8f-4a3f-aa84-b6d3e951f2e0

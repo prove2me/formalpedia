@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_TO_int_main
 -- name    : Formalism.CountingSumsFrames.TO.int_main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:38:59.842232+00:00
 -- url     : https://prove2.me/theorems/7e252212-17c5-4857-a8f3-6cc4eabc86d1

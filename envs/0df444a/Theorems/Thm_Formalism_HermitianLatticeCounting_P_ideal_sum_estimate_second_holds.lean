@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ideal_sum_estimate_second_holds
 -- name    : Formalism.HermitianLatticeCounting.P.ideal_sum_estimate_second_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:49.653342+00:00
 -- url     : https://prove2.me/theorems/466194ab-c066-4816-bcf4-8e957906afda

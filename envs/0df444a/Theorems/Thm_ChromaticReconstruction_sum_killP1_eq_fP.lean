@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sum_killP1_eq_fP
 -- name    : ChromaticReconstruction.sum_killP1_eq_fP
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:41:09.192804+00:00
 -- url     : https://prove2.me/theorems/bdf97b3f-3284-4f76-af52-25872f54c3bd

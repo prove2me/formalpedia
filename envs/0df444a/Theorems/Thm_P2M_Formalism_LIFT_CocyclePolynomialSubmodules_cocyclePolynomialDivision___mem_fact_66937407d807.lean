@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LIFT_CocyclePolynomialSubmodules_cocyclePolynomialDivision___mem_fact_66937407d807
 -- name    : P2M_Formalism_LIFT_CocyclePolynomialSubmodules_cocyclePolynomialDivision___mem_fact_66937407d807
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:58:44.050802+00:00
 -- url     : https://prove2.me/theorems/41cb40e1-f994-4546-8c17-5468be66d20a

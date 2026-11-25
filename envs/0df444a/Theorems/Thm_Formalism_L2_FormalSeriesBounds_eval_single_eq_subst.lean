@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_eval_single_eq_subst
 -- name    : Formalism.L2.FormalSeriesBounds.eval_single_eq_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:36:55.71278+00:00
 -- url     : https://prove2.me/theorems/8a681aea-5028-497e-a9ef-658f6f9d529f

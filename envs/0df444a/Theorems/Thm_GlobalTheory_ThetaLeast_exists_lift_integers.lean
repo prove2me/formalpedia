@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLeast_exists_lift_integers
 -- name    : GlobalTheory.ThetaLeast.exists_lift_integers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:48:51.903023+00:00
 -- url     : https://prove2.me/theorems/2eede215-c4b5-440e-bd77-2ba82568bdaa

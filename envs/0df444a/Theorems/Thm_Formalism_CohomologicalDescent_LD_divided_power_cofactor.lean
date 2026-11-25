@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_divided_power_cofactor
 -- name    : Formalism.CohomologicalDescent.LD.divided_power_cofactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:06:01.69642+00:00
 -- url     : https://prove2.me/theorems/22d15469-8104-473f-b145-21d68d63878a

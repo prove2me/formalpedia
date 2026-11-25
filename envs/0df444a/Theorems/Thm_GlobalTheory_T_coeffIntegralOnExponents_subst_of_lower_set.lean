@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coeffIntegralOnExponents_subst_of_lower_set
 -- name    : GlobalTheory.T.coeffIntegralOnExponents_subst_of_lower_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:39:17.46815+00:00
 -- url     : https://prove2.me/theorems/91df3ad0-8666-493a-9420-ea329ff34a7e

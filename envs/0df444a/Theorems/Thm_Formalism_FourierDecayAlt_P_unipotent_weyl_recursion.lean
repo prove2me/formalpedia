@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unipotent_weyl_recursion
 -- name    : Formalism.FourierDecayAlt.P.unipotent_weyl_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:39:16.711533+00:00
 -- url     : https://prove2.me/theorems/61064dfa-c23a-4e8e-bfac-b07658f00558

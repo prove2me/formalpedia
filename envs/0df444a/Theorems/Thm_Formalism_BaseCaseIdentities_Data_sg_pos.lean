@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_sg_pos
 -- name    : Formalism.BaseCaseIdentities.Data.sg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:38:19.503194+00:00
 -- url     : https://prove2.me/theorems/ccce8ae3-de22-4c1d-8f9c-6379a611e9cc

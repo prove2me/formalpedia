@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_G4_exists_primitive_norm__3b43edf65924
 -- name    : P2M_Formalism_L2_SG_Pf_G4_exists_primitive_norm__3b43edf65924
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:57:08.628004+00:00
 -- url     : https://prove2.me/theorems/15436482-58c1-4ede-85c9-92bf7ee50b73

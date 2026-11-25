@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LegendreFacts_legendre_facts
 -- name    : GlobalTheory.LegendreFacts.legendre_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:39:56.126681+00:00
 -- url     : https://prove2.me/theorems/79e2a3c0-c0d9-40ce-8697-8e671801639b

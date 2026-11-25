@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_injective_appLE_of_eq
 -- name    : GlobalTheory.injective_appLE_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:48:08.573799+00:00
 -- url     : https://prove2.me/theorems/49fd910a-4bb7-4be3-8bad-5b40070816f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Jets_hasSubst_pt_zero
 -- name    : GlobalTheory.Jets.hasSubst_pt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:49:48.857145+00:00
 -- url     : https://prove2.me/theorems/dc4328ff-d581-42f8-999c-c8ade3e5dc64

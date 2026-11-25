@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsTraceClass_summable_norm_inner
 -- name    : GroundTheory.Automorphic.IsTraceClass.summable_norm_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:41:03.954849+00:00
 -- url     : https://prove2.me/theorems/20af2e2a-a6d8-44bd-8e0a-edf7fbceb690

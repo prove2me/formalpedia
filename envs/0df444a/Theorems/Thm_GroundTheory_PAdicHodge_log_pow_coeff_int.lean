@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_log_pow_coeff_int
 -- name    : GroundTheory.PAdicHodge.log_pow_coeff_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:45.635725+00:00
 -- url     : https://prove2.me/theorems/ea91e9cc-c5f8-44c0-9618-0d764c2c3d67

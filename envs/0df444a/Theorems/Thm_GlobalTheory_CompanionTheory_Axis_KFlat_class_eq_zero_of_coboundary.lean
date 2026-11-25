@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_KFlat_class_eq_zero_of_coboundary
 -- name    : GlobalTheory.CompanionTheory.Axis.KFlat.class_eq_zero_of_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:17:01.870102+00:00
 -- url     : https://prove2.me/theorems/2afcbd17-fce0-4f08-b7a7-0ec91c0bef2d

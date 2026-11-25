@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G4_exists_isom_map_of_eq_norm
 -- name    : Formalism.L2.SG.Pf.G4.exists_isom_map_of_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:37:39.501056+00:00
 -- url     : https://prove2.me/theorems/e6a813e1-46bb-4db3-85ff-98a6eb306729

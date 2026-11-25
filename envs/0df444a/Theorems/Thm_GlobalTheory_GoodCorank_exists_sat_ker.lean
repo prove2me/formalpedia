@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GoodCorank_exists_sat_ker
 -- name    : GlobalTheory.GoodCorank.exists_sat_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:33:43.081929+00:00
 -- url     : https://prove2.me/theorems/6486ba1f-8450-4a38-b7d7-f9502e3a03c4

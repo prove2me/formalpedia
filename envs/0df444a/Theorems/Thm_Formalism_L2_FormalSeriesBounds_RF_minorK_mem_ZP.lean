@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_minorK_mem_ZP
 -- name    : Formalism.L2.FormalSeriesBounds.RF.minorK_mem_ZP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:05.011293+00:00
 -- url     : https://prove2.me/theorems/148f1152-cef3-4cf1-848f-aa5d2c527902

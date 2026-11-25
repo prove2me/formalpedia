@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_of_bijective_nsmul
 -- name    : GroundTheory.GroupCoh.tateAcyclic_of_bijective_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:44:35.364564+00:00
 -- url     : https://prove2.me/theorems/1128fbf3-72ce-4f96-9ff2-3e6c75d90779

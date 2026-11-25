@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__isIntegral_det_of_stab_256182f483d4
 -- name    : P2M_Formalism_BasicNotions_Examples__isIntegral_det_of_stab_256182f483d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:53:14.598995+00:00
 -- url     : https://prove2.me/theorems/fb2df7c8-958c-47ea-ab56-76fc54725598

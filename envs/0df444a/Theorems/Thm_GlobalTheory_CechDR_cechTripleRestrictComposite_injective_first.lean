@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_cechTripleRestrictComposite_injective_first
 -- name    : GlobalTheory.CechDR.cechTripleRestrictComposite_injective_first
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:28:02.446152+00:00
 -- url     : https://prove2.me/theorems/b6bc3cef-1e10-4074-8f8b-22bc7c4491b9

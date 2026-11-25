@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_FT_commute
 -- name    : Formalism.GM.gammaIntegralityLemmas.FT_commute
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:19.078696+00:00
 -- url     : https://prove2.me/theorems/094826b7-1edc-4732-86c7-ff7a11f38dba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_zpow_mul_pow_sub_one_pow
 -- name    : GroundTheory.PAdicHodge.norm_zpow_mul_pow_sub_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:54:22.072752+00:00
 -- url     : https://prove2.me/theorems/2b469302-8683-48ad-9a96-695ff148d237

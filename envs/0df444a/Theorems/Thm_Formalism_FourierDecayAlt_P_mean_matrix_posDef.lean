@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_mean_matrix_posDef
 -- name    : Formalism.FourierDecayAlt.P.mean_matrix_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:00:04.950808+00:00
 -- url     : https://prove2.me/theorems/2787a349-0338-4270-a70b-ebb3a96d27de

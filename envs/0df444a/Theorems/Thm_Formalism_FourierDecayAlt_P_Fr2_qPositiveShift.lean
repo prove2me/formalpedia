@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr2_qPositiveShift
 -- name    : Formalism.FourierDecayAlt.P.Fr2.qPositiveShift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:57:41.059794+00:00
 -- url     : https://prove2.me/theorems/234ce523-3191-41d6-b9d7-ab2ceee71fa5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_fin_two_eq_zero_or_eq_one
 -- name    : Formalism.L2.FormalSeriesBounds.fin_two_eq_zero_or_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:44:42.02677+00:00
 -- url     : https://prove2.me/theorems/89b2020a-3d25-4919-9455-352b61508ea2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_period_of_leaves
 -- name    : Formalism.L2.Indef.Tree.period_of_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:36:43.125188+00:00
 -- url     : https://prove2.me/theorems/454940a7-11de-4a4b-9676-18b5700fcd49

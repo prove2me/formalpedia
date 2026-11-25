@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isRegularLocalRing_of_hasProjectiveDimensionLE_residueField
 -- name    : GlobalTheory.isRegularLocalRing_of_hasProjectiveDimensionLE_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:09:02.357954+00:00
 -- url     : https://prove2.me/theorems/d79b451b-4f1f-4f08-84fa-872fd58f0f90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_X_mem_ZP
 -- name    : Formalism.L2.FormalSeriesBounds.RF.X_mem_ZP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:46:58.035801+00:00
 -- url     : https://prove2.me/theorems/0725a5e5-a4fb-4dc5-8cee-60390d65cab9

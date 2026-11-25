@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_admissible_gauss_sum_small
 -- name    : Formalism.FourierDecayAlt.P.admissible_gauss_sum_small
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:07:05.993242+00:00
 -- url     : https://prove2.me/theorems/0120966e-1f74-4a4b-8d9e-5e9b527b3c54

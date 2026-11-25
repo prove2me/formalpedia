@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.amplitude_limit
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T01:02:53.864509+00:00
+-- url     : https://prove2.me/submissions/62b1ab63-2157-48cc-9762-4413fa1db6f6
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementG
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PhaseFunctionCriticalPoints
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AdditiveCharacterPsi
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_AffineChangeOfVariables
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RemainderNormLeStrictUpper
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OrbitalIntegralConvergesAbs
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_StandardCharacterExists
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FourierUniquenessMirabolic
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WeakApproximationGL
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WhittakerVanishingImpliesZero
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CuspidalIrreducibleSubrep
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_PhaseFunctionDerivatives
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_EtaleIntegralityFacts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Lim_ampLimit
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.G.AmpLimit := Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Lim.ampLimit
+end Formalism.FourierDecayAlt.P

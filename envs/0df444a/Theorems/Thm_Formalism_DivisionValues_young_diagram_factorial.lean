@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_young_diagram_factorial
 -- name    : Formalism.DivisionValues.young_diagram_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:13.627981+00:00
 -- url     : https://prove2.me/theorems/63a2b1d8-55e2-4bb6-9bb5-e904acd0917a

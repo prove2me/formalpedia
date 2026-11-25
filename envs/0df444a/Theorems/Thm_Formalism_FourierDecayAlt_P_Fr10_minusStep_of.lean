@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr10_minusStep_of
 -- name    : Formalism.FourierDecayAlt.P.Fr10.minusStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:56:59.251146+00:00
 -- url     : https://prove2.me/theorems/7e55ae30-a73e-492b-b0fa-f3b2cb941dea

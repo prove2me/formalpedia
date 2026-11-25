@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeDiv_thirdPointDerivativeAtZeroSeries_addOf_left
 -- name    : GlobalTheory.GaugeDiv.thirdPointDerivativeAtZeroSeries_addOf_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:46:26.890347+00:00
 -- url     : https://prove2.me/theorems/6eeda0e3-7794-4cd9-a6d9-185afd80a87d

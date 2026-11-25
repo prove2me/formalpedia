@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_hilbertNumber_nonneg
 -- name    : SNumbers.hilbertNumber_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:47:21.482476+00:00
 -- url     : https://prove2.me/theorems/ff0dee25-5044-4b58-8369-670a65a3051a

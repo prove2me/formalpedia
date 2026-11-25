@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__eq_zero_of_inner_self_eq_zero_e038a7e1209d
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__eq_zero_of_inner_self_eq_zero_e038a7e1209d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:59:29.043605+00:00
 -- url     : https://prove2.me/theorems/eb85a55f-2020-4258-808c-c8e2b1cca76d

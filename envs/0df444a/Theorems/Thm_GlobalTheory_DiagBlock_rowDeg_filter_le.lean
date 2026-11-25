@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_rowDeg_filter_le
 -- name    : GlobalTheory.DiagBlock.rowDeg_filter_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:46:59.303323+00:00
 -- url     : https://prove2.me/theorems/0c0ff59b-adaa-4203-8344-28147bcc4aea

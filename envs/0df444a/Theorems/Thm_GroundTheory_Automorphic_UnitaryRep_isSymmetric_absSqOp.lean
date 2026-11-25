@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_isSymmetric_absSqOp
 -- name    : GroundTheory.Automorphic.UnitaryRep.isSymmetric_absSqOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:31:56.108284+00:00
 -- url     : https://prove2.me/theorems/25856127-62e1-42a4-b11e-5f89b3f72e5f

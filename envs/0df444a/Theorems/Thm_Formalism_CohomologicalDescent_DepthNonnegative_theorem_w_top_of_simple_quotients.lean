@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_theorem_w_top_of_simple_quotients
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.theorem_w_top_of_simple_quotients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:10:51.404372+00:00
 -- url     : https://prove2.me/theorems/f2a0a122-d3d3-4ca9-921b-92e907a0644d

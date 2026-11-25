@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_phi_range
 -- name    : Formalism.FourierDecayAlt.P.HaarUniquenessConjugation.phi_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:19:03.762976+00:00
 -- url     : https://prove2.me/theorems/8441e1ae-8933-41a2-9a12-bcefc7ee03f0

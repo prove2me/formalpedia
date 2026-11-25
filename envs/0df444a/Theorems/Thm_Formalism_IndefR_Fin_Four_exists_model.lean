@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_exists_model
 -- name    : Formalism.IndefR.Fin.Four.exists_model
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:10:39.719719+00:00
 -- url     : https://prove2.me/theorems/f923d706-f1a4-4de3-9b25-4ce8155853f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_HU_sigmaCount_succ_basis
 -- name    : Formalism.HermitianLattices.Ext.L3.HU.sigmaCount_succ_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:07.127972+00:00
 -- url     : https://prove2.me/theorems/3af67f1c-aad2-4e28-b94c-2c24926bf250

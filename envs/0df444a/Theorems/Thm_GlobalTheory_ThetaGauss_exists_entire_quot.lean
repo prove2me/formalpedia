@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_exists_entire_quot
 -- name    : GlobalTheory.ThetaGauss.exists_entire_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:45:27.415719+00:00
 -- url     : https://prove2.me/theorems/1ef489ed-20db-48ee-982b-a5eb7562669b

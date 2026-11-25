@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_aeval_good
 -- name    : Formalism.GM.gammaIntegralityLemmas.aeval_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:58.345746+00:00
 -- url     : https://prove2.me/theorems/b66fca54-2645-4b4c-8a4a-788768e2ef1b

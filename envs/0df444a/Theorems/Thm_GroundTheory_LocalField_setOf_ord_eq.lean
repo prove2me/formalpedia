@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_setOf_ord_eq
 -- name    : GroundTheory.LocalField.setOf_ord_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:45:20.932183+00:00
 -- url     : https://prove2.me/theorems/0ec149ab-fc89-4af4-9631-6fc53f05935a

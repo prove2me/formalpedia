@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__abs_det_trace_form_eq_discr_c436f7ffc8ab
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__abs_det_trace_form_eq_discr_c436f7ffc8ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:01:18.223933+00:00
 -- url     : https://prove2.me/theorems/7d86958a-318d-45b9-b2f0-78b265dda4ed

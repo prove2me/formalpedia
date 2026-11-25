@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeDiv_dd_axis
 -- name    : GlobalTheory.GaugeDiv.dd_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:46:51.207795+00:00
 -- url     : https://prove2.me/theorems/697fb0b0-0b87-49ff-95e6-ee826fcf05eb

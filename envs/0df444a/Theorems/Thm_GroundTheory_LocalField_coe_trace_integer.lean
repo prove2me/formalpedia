@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_coe_trace_integer
 -- name    : GroundTheory.LocalField.coe_trace_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:45:06.87485+00:00
 -- url     : https://prove2.me/theorems/dd97c16d-7435-484f-9a19-4bb63f797889

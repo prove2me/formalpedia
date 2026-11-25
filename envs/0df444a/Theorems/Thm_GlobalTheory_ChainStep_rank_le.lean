@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainStep_rank_le
 -- name    : GlobalTheory.ChainStep.rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:32:39.386154+00:00
 -- url     : https://prove2.me/theorems/18ed9e02-7e26-4c3a-8969-f5210105f94f

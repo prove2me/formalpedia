@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_exists_hasOrd
 -- name    : GlobalTheory.SS.Ord.exists_hasOrd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:17:52.937109+00:00
 -- url     : https://prove2.me/theorems/f121c30a-cc04-440c-be7d-b233b8927b57

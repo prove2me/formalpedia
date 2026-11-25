@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_cyclRadius_pow_totient
 -- name    : GroundTheory.PAdicHodge.cyclRadius_pow_totient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:01.283581+00:00
 -- url     : https://prove2.me/theorems/fd1f9746-c7e5-4d1a-82aa-e6afdcf2737c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_symplectic_basis_adapted_mod_eight
 -- name    : GlobalTheory.exists_symplectic_basis_adapted_mod_eight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:42:44.425796+00:00
 -- url     : https://prove2.me/theorems/cd03272e-693b-4aa2-b20b-16e7d9db152b

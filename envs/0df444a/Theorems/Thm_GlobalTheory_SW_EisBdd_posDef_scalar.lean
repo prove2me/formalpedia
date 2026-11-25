@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisBdd_posDef_scalar
 -- name    : GlobalTheory.SW.EisBdd.posDef_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:45:21.737226+00:00
 -- url     : https://prove2.me/theorems/14b2b34d-4829-4222-a194-b6b524f870f0

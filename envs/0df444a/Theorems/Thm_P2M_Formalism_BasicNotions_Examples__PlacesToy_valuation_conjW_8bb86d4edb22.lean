@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__PlacesToy_valuation_conjW_8bb86d4edb22
 -- name    : P2M_Formalism_BasicNotions_Examples__PlacesToy_valuation_conjW_8bb86d4edb22
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:38:36.25339+00:00
 -- url     : https://prove2.me/theorems/ddeb55f7-459d-4e55-8c9c-bc04413c781e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableLatCount_card_stable_lattices
 -- name    : GlobalTheory.StableLatCount.card_stable_lattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:34:43.358802+00:00
 -- url     : https://prove2.me/theorems/470f24ab-7bf3-43aa-bb0d-2d426d79cd2e

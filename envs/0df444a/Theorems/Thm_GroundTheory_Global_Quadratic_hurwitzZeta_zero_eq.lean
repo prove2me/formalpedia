@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_hurwitzZeta_zero_eq
 -- name    : GroundTheory.Global.Quadratic.hurwitzZeta_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:39:24.030327+00:00
 -- url     : https://prove2.me/theorems/e4bbb2ed-af4f-49b0-935e-0cd6d3f16eb0

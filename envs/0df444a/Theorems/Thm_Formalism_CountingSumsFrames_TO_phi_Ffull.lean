@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_TO_phi_Ffull
 -- name    : Formalism.CountingSumsFrames.TO.phi_Ffull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:39:50.442384+00:00
 -- url     : https://prove2.me/theorems/8124cfa8-88df-4323-a040-70f79677df95

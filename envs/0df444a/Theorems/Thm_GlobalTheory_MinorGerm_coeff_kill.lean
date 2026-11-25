@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_coeff_kill
 -- name    : GlobalTheory.MinorGerm.coeff_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:48:41.966795+00:00
 -- url     : https://prove2.me/theorems/9abe53a1-8bd6-4d72-b4ec-b8cd1da262bc

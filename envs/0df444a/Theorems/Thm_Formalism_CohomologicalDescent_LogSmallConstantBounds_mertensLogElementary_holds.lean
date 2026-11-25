@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_mertensLogElementary_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.mertensLogElementary_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:44:51.604691+00:00
 -- url     : https://prove2.me/theorems/039993d0-a301-4e62-a3fe-2557f8b9d735

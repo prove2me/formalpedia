@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_OrdUnimod_mem_inv_smul
 -- name    : Formalism.FrobeniusOrbits.OrdUnimod.mem_inv_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:42:53.152173+00:00
 -- url     : https://prove2.me/theorems/24472fba-0ce9-4747-8cbe-b21c77471bef

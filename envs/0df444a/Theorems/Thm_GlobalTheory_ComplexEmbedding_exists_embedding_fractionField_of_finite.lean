@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ComplexEmbedding_exists_embedding_fractionField_of_finite
 -- name    : GlobalTheory.ComplexEmbedding.exists_embedding_fractionField_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:13:52.561262+00:00
 -- url     : https://prove2.me/theorems/e3b7fc8a-3945-49a1-9c4f-04ea32455204

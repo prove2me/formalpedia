@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_arc_pt_X
 -- name    : Formalism.L2.Pj.arc_pt_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:44:43.433306+00:00
 -- url     : https://prove2.me/theorems/a9e4bd1b-bb39-45d0-8da1-7d954eb7964e

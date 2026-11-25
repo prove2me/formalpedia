@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_plane_exponential_bound_of_places
 -- name    : Formalism.FourierDecayAlt.P.plane_exponential_bound_of_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:46:40.377343+00:00
 -- url     : https://prove2.me/theorems/d13d0f77-ef1d-45b4-8896-295902bc5a77

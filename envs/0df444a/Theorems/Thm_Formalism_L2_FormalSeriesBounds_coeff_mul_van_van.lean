@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_mul_van_van
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_mul_van_van
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:45:31.300782+00:00
 -- url     : https://prove2.me/theorems/16530473-4cbe-47a1-806c-daa020c674f8

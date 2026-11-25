@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_intBinomScalar
 -- name    : Formalism.L2.Th1.C.intBinomScalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:48:53.788023+00:00
 -- url     : https://prove2.me/theorems/26f07ae3-3740-45f8-9506-53e23cd2894c

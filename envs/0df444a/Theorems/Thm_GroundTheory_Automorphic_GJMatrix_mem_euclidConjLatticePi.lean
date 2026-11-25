@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_mem_euclidConjLatticePi
 -- name    : GroundTheory.Automorphic.GJMatrix.mem_euclidConjLatticePi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:43:36.72378+00:00
 -- url     : https://prove2.me/theorems/0003f257-3dcf-4b6b-a2a7-2750dac77f81

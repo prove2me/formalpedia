@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_SolveVAux_low_pow_sub_succ
 -- name    : Formalism.FG.SolveVAux.low_pow_sub_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:01.17557+00:00
 -- url     : https://prove2.me/theorems/84376fac-2967-4b04-b8bc-fdf51fa64476

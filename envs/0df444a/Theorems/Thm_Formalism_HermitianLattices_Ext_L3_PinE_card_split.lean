@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinE_card_split
 -- name    : Formalism.HermitianLattices.Ext.L3.PinE.card_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:56:13.324569+00:00
 -- url     : https://prove2.me/theorems/d81fe17e-5cef-4c91-9702-257b0e72f4b2

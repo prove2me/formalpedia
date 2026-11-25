@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_meanK_mono__4cdf7a0dca76
 -- name    : P2M_Formalism_L2_Pj_meanK_mono__4cdf7a0dca76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:59:25.745874+00:00
 -- url     : https://prove2.me/theorems/316b19a9-068d-4513-b117-0ffdeb34afc2

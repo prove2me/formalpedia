@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_KummerIndex_index_localUnits_sup_unitsPow
 -- name    : GroundTheory.Global.KummerIndex.index_localUnits_sup_unitsPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:39:43.525977+00:00
 -- url     : https://prove2.me/theorems/13780c02-f047-41a6-a036-02d6f4c8534d

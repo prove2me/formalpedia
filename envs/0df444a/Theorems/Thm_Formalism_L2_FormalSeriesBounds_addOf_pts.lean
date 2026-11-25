@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_addOf_pts
 -- name    : Formalism.L2.FormalSeriesBounds.addOf_pts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:47:26.273241+00:00
 -- url     : https://prove2.me/theorems/5f912df7-7a19-46d9-af1e-b060421ecc77

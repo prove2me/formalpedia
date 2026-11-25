@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_formalExpSubst__a7ec454a1ed7
 -- name    : P2M_Formalism_L2_Th1_C_formalExpSubst__a7ec454a1ed7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:33.262888+00:00
 -- url     : https://prove2.me/theorems/c40bcfe2-226d-4883-9032-c6ce8c790437

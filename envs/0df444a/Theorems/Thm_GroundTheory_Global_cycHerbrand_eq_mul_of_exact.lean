@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_eq_mul_of_exact
 -- name    : GroundTheory.Global.cycHerbrand_eq_mul_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:28:15.206697+00:00
 -- url     : https://prove2.me/theorems/c26dc02f-a1d6-4123-8936-b972591a70ca

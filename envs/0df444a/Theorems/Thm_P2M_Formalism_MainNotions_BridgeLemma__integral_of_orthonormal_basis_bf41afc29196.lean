@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__integral_of_orthonormal_basis_bf41afc29196
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__integral_of_orthonormal_basis_bf41afc29196
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:06:51.795448+00:00
 -- url     : https://prove2.me/theorems/5aea8bf2-e811-410b-9398-4640c338f480

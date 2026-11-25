@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_isPrimitiveRoot_card_pow_sub_one
 -- name    : GroundTheory.LocalField.exists_isPrimitiveRoot_card_pow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:48:22.00779+00:00
 -- url     : https://prove2.me/theorems/c6da9a35-0f59-4ab9-9b14-4875fb8aa846

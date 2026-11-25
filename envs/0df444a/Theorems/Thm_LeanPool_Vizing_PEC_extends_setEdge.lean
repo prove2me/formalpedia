@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_extends_setEdge
 -- name    : LeanPool.Vizing.PEC.extends_setEdge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:46:52.88828+00:00
 -- url     : https://prove2.me/theorems/71207b91-4d05-4ab1-915f-8dd1aaf59d70

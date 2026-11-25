@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_cutTheta
 -- name    : Formalism.FourierDecayAlt.P.LEx2.cutTheta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:23:07.06669+00:00
 -- url     : https://prove2.me/theorems/5516da1d-e015-4d95-bba3-defdabead8a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_lead_one
 -- name    : GlobalTheory.MinorGerm.lead_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:44:31.58508+00:00
 -- url     : https://prove2.me/theorems/7e284eae-8aa9-4e2f-9acd-9424eebf7f37

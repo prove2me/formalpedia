@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticesTheory_neighbourBasic_unimod
 -- name    : Formalism.HermitianLatticesTheory.neighbourBasic_unimod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:12.246392+00:00
 -- url     : https://prove2.me/theorems/9ae4b109-bf74-4333-94fd-cec519ed8c3e

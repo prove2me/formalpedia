@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_tprod_ne_zero
 -- name    : GroundTheory.Automorphic.RestrictedTensor.tprod_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:42:35.082797+00:00
 -- url     : https://prove2.me/theorems/c8714c73-d12e-4885-b013-c1ac6bac2e4a

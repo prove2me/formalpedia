@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_cross_factor_count
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.cross_factor_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:37.144963+00:00
 -- url     : https://prove2.me/theorems/a00dcbcb-f387-40d4-b231-afe1d5353fe9

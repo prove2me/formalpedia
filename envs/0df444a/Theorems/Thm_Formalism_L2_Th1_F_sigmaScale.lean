@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaScale
 -- name    : Formalism.L2.Th1.F.sigmaScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:50:25.160145+00:00
 -- url     : https://prove2.me/theorems/d8fc0d96-34b0-4176-9ea1-96bc503fd576

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Formalism.F.det_gram_basis_pos
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:46:23.141803+00:00
 -- url     : https://prove2.me/submissions/862fb6c1-856f-40f9-8332-6e7cbbb44af2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Formalism_LatticeSlopes_Statement
 import Definitions.Def_Formalism_LatticeSlopes_LatticeSlopesProofs_DiscreteTopologyOfLe

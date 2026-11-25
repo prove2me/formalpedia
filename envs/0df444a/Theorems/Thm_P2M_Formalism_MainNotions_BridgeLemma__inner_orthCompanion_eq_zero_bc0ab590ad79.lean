@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__inner_orthCompanion_eq_zero_bc0ab590ad79
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__inner_orthCompanion_eq_zero_bc0ab590ad79
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:59:34.460279+00:00
 -- url     : https://prove2.me/theorems/e42d2c2f-7524-46bc-b47b-e5e7923ae429

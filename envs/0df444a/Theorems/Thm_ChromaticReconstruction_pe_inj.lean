@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pe_inj
 -- name    : ChromaticReconstruction.pe_inj
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:47:47.525714+00:00
 -- url     : https://prove2.me/theorems/5dc5fd2d-d770-42fc-a14c-364dc4f10e39

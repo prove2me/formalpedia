@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_A0_psi_bound
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.psi_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:50.035485+00:00
 -- url     : https://prove2.me/theorems/d337b804-1487-43ca-a4e2-656852e090cf

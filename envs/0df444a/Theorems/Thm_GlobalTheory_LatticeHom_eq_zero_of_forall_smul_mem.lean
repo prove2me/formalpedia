@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeHom_eq_zero_of_forall_smul_mem
 -- name    : GlobalTheory.LatticeHom.eq_zero_of_forall_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:48:23.504935+00:00
 -- url     : https://prove2.me/theorems/e03541ae-df3b-4bcb-9ebd-63de0709693e

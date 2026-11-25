@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_pderiv_typeMonomial
 -- name    : ChromaticReconstruction.pderiv_typeMonomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:33:43.489675+00:00
 -- url     : https://prove2.me/theorems/5f1986e2-a656-47c3-b278-ce3d76ca35e5

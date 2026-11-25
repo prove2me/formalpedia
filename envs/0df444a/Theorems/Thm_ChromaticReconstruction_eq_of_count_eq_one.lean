@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_eq_of_count_eq_one
 -- name    : ChromaticReconstruction.eq_of_count_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:45:19.299848+00:00
 -- url     : https://prove2.me/theorems/fcd57e47-5a84-4bbb-8757-00c2b448eb61

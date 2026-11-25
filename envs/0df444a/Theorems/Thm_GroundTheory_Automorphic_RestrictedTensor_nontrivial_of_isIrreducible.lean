@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_nontrivial_of_isIrreducible
 -- name    : GroundTheory.Automorphic.RestrictedTensor.nontrivial_of_isIrreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:43:02.950546+00:00
 -- url     : https://prove2.me/theorems/ee798d3d-9d94-4bae-a593-c5bfbe513a83

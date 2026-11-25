@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_duality_list_holds
 -- name    : Formalism.FourierDecayAlt.P.duality_list_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:49:29.350318+00:00
 -- url     : https://prove2.me/theorems/3f6828cb-9258-4bb0-92c8-d68e1d49f2eb

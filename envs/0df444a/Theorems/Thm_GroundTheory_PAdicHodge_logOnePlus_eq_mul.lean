@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_logOnePlus_eq_mul
 -- name    : GroundTheory.PAdicHodge.logOnePlus_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:47.53626+00:00
 -- url     : https://prove2.me/theorems/d7238376-b0cb-413e-bc4b-7c4461b4c7a0

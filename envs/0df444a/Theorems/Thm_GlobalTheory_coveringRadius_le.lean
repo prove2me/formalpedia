@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coveringRadius_le
 -- name    : GlobalTheory.coveringRadius_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:49:48.946405+00:00
 -- url     : https://prove2.me/theorems/64496c13-66f6-4229-bad2-8acf626a541d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_kFin_mem_smoothVecs
 -- name    : CompanionTheory.D.gk.admitted.kFin_mem_smoothVecs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:32:22.179821+00:00
 -- url     : https://prove2.me/theorems/f1242dd9-82e6-4e9d-9b54-132641c07f95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_logBinomialDeficit
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.logBinomialDeficit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:34.395883+00:00
 -- url     : https://prove2.me/theorems/cd894f75-0619-4c79-ac37-3c2c3a22d61f

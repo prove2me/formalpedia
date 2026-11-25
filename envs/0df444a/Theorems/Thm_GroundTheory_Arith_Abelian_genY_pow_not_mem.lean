@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_genY_pow_not_mem
 -- name    : GroundTheory.Arith.Abelian.genY_pow_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:40:36.499827+00:00
 -- url     : https://prove2.me/theorems/6d3b61da-d244-4cc4-9f39-cf2bb4d3d25e

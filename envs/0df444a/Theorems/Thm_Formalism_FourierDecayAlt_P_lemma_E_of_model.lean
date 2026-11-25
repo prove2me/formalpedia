@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_E_of_model
 -- name    : Formalism.FourierDecayAlt.P.lemma_E_of_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:50:02.443287+00:00
 -- url     : https://prove2.me/theorems/c66eafbe-caef-4a5c-9685-418e58828165

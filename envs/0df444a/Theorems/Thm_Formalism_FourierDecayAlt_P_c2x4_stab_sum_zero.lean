@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_c2x4_stab_sum_zero
 -- name    : Formalism.FourierDecayAlt.P.c2x4_stab_sum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:38:12.754868+00:00
 -- url     : https://prove2.me/theorems/ba177f3d-befc-47bf-b613-259902f0f449

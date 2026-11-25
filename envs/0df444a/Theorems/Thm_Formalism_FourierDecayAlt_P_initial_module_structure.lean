@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_initial_module_structure
 -- name    : Formalism.FourierDecayAlt.P.initial_module_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:50:27.220806+00:00
 -- url     : https://prove2.me/theorems/ce26a203-1f7c-43e4-a828-71edebd755dd

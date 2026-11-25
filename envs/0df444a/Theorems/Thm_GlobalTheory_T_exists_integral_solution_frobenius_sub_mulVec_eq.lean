@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_integral_solution_frobenius_sub_mulVec_eq
 -- name    : GlobalTheory.T.exists_integral_solution_frobenius_sub_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:36:47.91007+00:00
 -- url     : https://prove2.me/theorems/59f71c68-7569-427e-90de-4c1756c2bc1e

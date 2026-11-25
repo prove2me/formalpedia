@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeDiv_dd_natCast_mul
 -- name    : GlobalTheory.GaugeDiv.dd_natCast_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:46:29.451386+00:00
 -- url     : https://prove2.me/theorems/df4d61eb-4314-447b-a953-bf221c6bd79b

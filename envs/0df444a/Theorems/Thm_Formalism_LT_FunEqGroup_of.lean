@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_FunEqGroup_of
 -- name    : Formalism.LT.FunEqGroup_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T09:50:56.317101+00:00
 -- url     : https://prove2.me/theorems/bae1bf76-e081-4131-a4ce-bf2791cebd0e

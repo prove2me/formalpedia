@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_idealLattice2_summable_norm
 -- name    : GroundTheory.Automorphic.Adele2.idealLattice2_summable_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:48:43.917214+00:00
 -- url     : https://prove2.me/theorems/351f9467-ecf7-4b65-a4c6-22ff42802124

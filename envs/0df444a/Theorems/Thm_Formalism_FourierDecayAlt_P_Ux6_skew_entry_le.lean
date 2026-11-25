@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux6_skew_entry_le
 -- name    : Formalism.FourierDecayAlt.P.Ux6.skew_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:35:29.338448+00:00
 -- url     : https://prove2.me/theorems/7a259136-5eb3-4588-88fc-1d5185b78e58

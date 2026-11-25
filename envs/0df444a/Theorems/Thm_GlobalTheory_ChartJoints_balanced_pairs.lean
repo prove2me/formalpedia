@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartJoints_balanced_pairs
 -- name    : GlobalTheory.ChartJoints.balanced_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:03.977126+00:00
 -- url     : https://prove2.me/theorems/fd58d9dd-48d6-45a4-befd-4e91b37f6134

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_H_dualDual
 -- name    : Formalism.H.dualDual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:58:29.625151+00:00
 -- url     : https://prove2.me/theorems/efecb18a-42a8-485f-a6a2-e00fb707bab4

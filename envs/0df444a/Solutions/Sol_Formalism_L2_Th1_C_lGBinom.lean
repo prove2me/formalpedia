@@ -1,0 +1,29 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.C.lGBinom
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T00:59:48.192217+00:00
+-- url     : https://prove2.me/submissions/042edcc3-97fa-443e-a595-0bc6c66fba25
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_CoeffPowEqZeroOfCc
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_DegreeLeOfMemAntidiagonal
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_ConstantCoeffSubstBinomSeries
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_HasSecondLogDerivPowerSeriesExp
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_SecondCoeffConsistency
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_USideA
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_BinomialSeriesCoefficients_USideB
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_SecondCoefficientNorms_SecondCoeffConsistency
+import Theorems.Thm_P2M_Formalism_L2_Th1_C_expIntegralBinomial__c14a18ad148f
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.C
+namespace Formalism.L2.Th1.C
+theorem _root_.solution : LGBinom := expIntegralBinomial'
+end Formalism.L2.Th1.C

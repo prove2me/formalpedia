@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GaloisIrreducibility_BorderedIndexCases_rank_bord_le
 -- name    : Formalism.GaloisIrreducibility.BorderedIndexCases.rank_bord_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:52:35.833494+00:00
 -- url     : https://prove2.me/theorems/835a59bc-d2bc-4314-adf3-872aceb2ed7a

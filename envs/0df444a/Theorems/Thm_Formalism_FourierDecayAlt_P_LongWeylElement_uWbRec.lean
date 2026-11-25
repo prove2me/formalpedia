@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_uWbRec
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.uWbRec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:03:10.576206+00:00
 -- url     : https://prove2.me/theorems/d25885d7-d945-4b87-abd2-67b7b696093b

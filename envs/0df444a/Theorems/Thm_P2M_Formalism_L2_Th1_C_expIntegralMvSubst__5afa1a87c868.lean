@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_expIntegralMvSubst__5afa1a87c868
 -- name    : P2M_Formalism_L2_Th1_C_expIntegralMvSubst__5afa1a87c868
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:34.167669+00:00
 -- url     : https://prove2.me/theorems/e973c455-85e7-4771-9e01-45d770b715e2

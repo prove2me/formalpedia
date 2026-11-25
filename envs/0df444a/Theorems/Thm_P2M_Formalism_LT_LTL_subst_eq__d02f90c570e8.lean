@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LT_LTL_subst_eq__d02f90c570e8
 -- name    : P2M_Formalism_LT_LTL_subst_eq__d02f90c570e8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:06:04.422501+00:00
 -- url     : https://prove2.me/theorems/07d1eb20-61d9-4355-b8d1-59ad2a5bd1fa

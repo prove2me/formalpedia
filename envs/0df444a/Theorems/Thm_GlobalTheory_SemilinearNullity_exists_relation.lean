@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SemilinearNullity_exists_relation
 -- name    : GlobalTheory.SemilinearNullity.exists_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:34:43.318141+00:00
 -- url     : https://prove2.me/theorems/e0a3e214-67e7-45af-814a-062afd9e59d2

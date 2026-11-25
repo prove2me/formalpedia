@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WordExp_isSmoothFun_foldr
 -- name    : GlobalTheory.WordExp.isSmoothFun_foldr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:48:40.830217+00:00
 -- url     : https://prove2.me/theorems/32270373-22e7-4f5b-9f84-f1a63f8997f1

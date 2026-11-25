@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IsotropicCounts_isoCount_succ
 -- name    : Formalism.HermitianLattices.Ext.L3.IsotropicCounts.isoCount_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:35.593804+00:00
 -- url     : https://prove2.me/theorems/e79efd7f-9a38-4977-86c5-7a68cd9d9343

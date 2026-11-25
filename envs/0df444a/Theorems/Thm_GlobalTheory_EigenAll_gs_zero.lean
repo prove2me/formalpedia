@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenAll_gs_zero
 -- name    : GlobalTheory.EigenAll.gs_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:47:31.476843+00:00
 -- url     : https://prove2.me/theorems/a2bd6280-4d77-41d7-bdef-2974122f59ea

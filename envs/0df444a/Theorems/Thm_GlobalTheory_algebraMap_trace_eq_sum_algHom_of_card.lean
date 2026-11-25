@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_trace_eq_sum_algHom_of_card
 -- name    : GlobalTheory.algebraMap_trace_eq_sum_algHom_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:17:12.609809+00:00
 -- url     : https://prove2.me/theorems/f1da90fb-59c3-4ffc-8bb3-3378dfc57c82

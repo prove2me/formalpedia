@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_chi_one_tmul
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.chi_one_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:36:17.948684+00:00
 -- url     : https://prove2.me/theorems/e7a56e6e-7e3b-4a58-ac22-a4fb74f64a6e

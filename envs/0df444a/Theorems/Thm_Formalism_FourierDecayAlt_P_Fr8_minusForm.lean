@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Fr8_minusForm
 -- name    : Formalism.FourierDecayAlt.P.Fr8.minusForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:04:16.322994+00:00
 -- url     : https://prove2.me/theorems/65230d92-925e-4a9a-84cd-4d6d7bda2e46

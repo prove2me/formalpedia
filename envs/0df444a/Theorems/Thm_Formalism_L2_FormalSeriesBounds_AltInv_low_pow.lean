@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_AltInv_low_pow
 -- name    : Formalism.L2.FormalSeriesBounds.AltInv.low_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:19:34.126227+00:00
 -- url     : https://prove2.me/theorems/7ec24cc9-2f46-4838-9d62-e486b4d4de08

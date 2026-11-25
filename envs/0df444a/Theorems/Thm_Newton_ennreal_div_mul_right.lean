@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_ennreal_div_mul_right
 -- name    : Newton.ennreal_div_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:38:10.163852+00:00
 -- url     : https://prove2.me/theorems/94894cd0-df8d-498c-8ac2-20fa9dcf14e3

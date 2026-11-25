@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_cofactorVectorKernel
 -- name    : Formalism.HermitianLatticeCounting.P.cofactorVectorKernel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:45.590889+00:00
 -- url     : https://prove2.me/theorems/c8a9faf1-67bd-40cf-a7a0-7d5b68d1868c

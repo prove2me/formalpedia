@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IncomingBounds_expSeriesAdd
 -- name    : Formalism.IncomingBounds.expSeriesAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:31:36.010066+00:00
 -- url     : https://prove2.me/theorems/bb9fb672-7347-458b-8f9c-25661bbddd7f

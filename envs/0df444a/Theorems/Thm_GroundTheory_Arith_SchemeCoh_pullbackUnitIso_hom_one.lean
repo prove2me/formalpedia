@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_pullbackUnitIso_hom_one
 -- name    : GroundTheory.Arith.SchemeCoh.pullbackUnitIso_hom_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:42:58.056354+00:00
 -- url     : https://prove2.me/theorems/d1dc8e26-6074-4c71-a8df-8ec1eaee0ea2

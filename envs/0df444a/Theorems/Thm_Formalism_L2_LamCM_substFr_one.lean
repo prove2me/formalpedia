@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_substFr_one
 -- name    : Formalism.L2.LamCM.substFr_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:48:58.484785+00:00
 -- url     : https://prove2.me/theorems/535e883d-26d3-4fdc-aa13-f56ccf44eb95

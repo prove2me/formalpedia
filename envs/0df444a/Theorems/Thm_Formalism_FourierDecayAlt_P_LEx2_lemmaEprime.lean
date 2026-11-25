@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_lemmaEprime
 -- name    : Formalism.FourierDecayAlt.P.LEx2.lemmaEprime
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:53:46.046525+00:00
 -- url     : https://prove2.me/theorems/5913c491-e578-419b-b455-250bb8abc65f

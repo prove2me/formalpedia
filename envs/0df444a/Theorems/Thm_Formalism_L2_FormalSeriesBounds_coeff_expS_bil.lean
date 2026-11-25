@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_expS_bil
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_expS_bil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:46:40.259673+00:00
 -- url     : https://prove2.me/theorems/9287aae4-d5ae-4e56-b90d-c51454770b4c

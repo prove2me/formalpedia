@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LFunctionChainParameters_WeightedMeanLemmas_wmean_add__e2817b45bf86
 -- name    : P2M_Formalism_LFunctionChainParameters_WeightedMeanLemmas_wmean_add__e2817b45bf86
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:58:22.498131+00:00
 -- url     : https://prove2.me/theorems/ba958e4f-151e-4f9b-9282-08d732191db8

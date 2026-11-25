@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__inner_sum_orthonormal_bc617198dc85
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__inner_sum_orthonormal_bc617198dc85
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:01:04.874713+00:00
 -- url     : https://prove2.me/theorems/1b0e2386-3903-4ceb-b81b-b47166e7cff7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_ss_sat
 -- name    : Formalism.GM.M.ss_sat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:20:28.793804+00:00
 -- url     : https://prove2.me/theorems/1d24d862-3933-4de9-97bf-2a3c203ab833

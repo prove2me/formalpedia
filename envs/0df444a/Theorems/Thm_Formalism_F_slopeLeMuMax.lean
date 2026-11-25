@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_slopeLeMuMax
 -- name    : Formalism.F.slopeLeMuMax
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:54.781098+00:00
 -- url     : https://prove2.me/theorems/a1d6a8ef-e11d-478a-8790-e3f16b6542cd

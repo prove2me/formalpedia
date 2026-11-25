@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_jet_eq
 -- name    : GlobalTheory.MinorGerm.jet_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:43:40.809811+00:00
 -- url     : https://prove2.me/theorems/0e7d5c40-d320-47a0-b5b3-4dfdcb3f4e1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_exists_e
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.exists_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:46:17.945043+00:00
 -- url     : https://prove2.me/theorems/963898f9-9c0d-462e-9c10-5fb4d2d8de44

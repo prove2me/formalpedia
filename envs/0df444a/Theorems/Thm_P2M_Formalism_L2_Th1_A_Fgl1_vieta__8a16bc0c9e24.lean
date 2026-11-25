@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_A_Fgl1_vieta__8a16bc0c9e24
 -- name    : P2M_Formalism_L2_Th1_A_Fgl1_vieta__8a16bc0c9e24
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:57:15.077993+00:00
 -- url     : https://prove2.me/theorems/ba35d0b5-729c-44c1-bdba-b2dfe581d5a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_le_two_of_adj_leaves
 -- name    : ChromaticReconstruction.card_le_two_of_adj_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:48:18.521414+00:00
 -- url     : https://prove2.me/theorems/0d0da5d4-3935-4613-866b-4dcc9dfc38ff

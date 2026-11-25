@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeDiv_thirdPointDerivativeAtZeroSeries_twoPointLift
 -- name    : GlobalTheory.GaugeDiv.thirdPointDerivativeAtZeroSeries_twoPointLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:44:51.916801+00:00
 -- url     : https://prove2.me/theorems/a1939a43-804e-4fe2-a01b-e654fda23803

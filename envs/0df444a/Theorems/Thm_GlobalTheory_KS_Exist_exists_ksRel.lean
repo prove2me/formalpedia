@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Exist_exists_ksRel
 -- name    : GlobalTheory.KS.Exist.exists_ksRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:44:44.634071+00:00
 -- url     : https://prove2.me/theorems/35874838-7d4f-4092-b214-e48ee9cd89bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_map_traceMatrix_eq_mul_transpose_of_basis
 -- name    : GlobalTheory.map_traceMatrix_eq_mul_transpose_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:18:08.716137+00:00
 -- url     : https://prove2.me/theorems/db603484-99ea-4b6a-bf58-32df04e82ccc

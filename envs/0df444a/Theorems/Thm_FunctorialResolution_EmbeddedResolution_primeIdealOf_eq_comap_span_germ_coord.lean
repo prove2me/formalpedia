@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_primeIdealOf_eq_comap_span_germ_coord
 -- name    : FunctorialResolution.EmbeddedResolution.primeIdealOf_eq_comap_span_germ_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:02:39.627747+00:00
 -- url     : https://prove2.me/theorems/8bd8f056-937e-438f-ac61-2155e0a80c2a

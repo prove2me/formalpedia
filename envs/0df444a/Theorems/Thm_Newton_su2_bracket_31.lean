@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_su2_bracket_31
 -- name    : Newton.su2_bracket_31
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:47:10.926048+00:00
 -- url     : https://prove2.me/theorems/befb19c1-1467-4a77-bd26-21ff8dead25f

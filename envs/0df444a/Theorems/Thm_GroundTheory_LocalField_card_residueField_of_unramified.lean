@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_card_residueField_of_unramified
 -- name    : GroundTheory.LocalField.card_residueField_of_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:48:40.297694+00:00
 -- url     : https://prove2.me/theorems/1c644bfa-0338-480c-b210-47633e7d888b

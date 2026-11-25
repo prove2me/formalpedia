@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_minpoly_eq_cyclotomic_of_isPrimitiveRoot
 -- name    : GroundTheory.PAdicHodge.minpoly_eq_cyclotomic_of_isPrimitiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:26.847399+00:00
 -- url     : https://prove2.me/theorems/377823d7-f43b-4470-ae64-b64f515e2c85

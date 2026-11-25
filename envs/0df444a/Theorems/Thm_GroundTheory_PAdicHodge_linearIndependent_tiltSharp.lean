@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_linearIndependent_tiltSharp
 -- name    : GroundTheory.PAdicHodge.linearIndependent_tiltSharp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:06:38.876857+00:00
 -- url     : https://prove2.me/theorems/777fc4f0-add8-4926-9138-24ebe5b3821b

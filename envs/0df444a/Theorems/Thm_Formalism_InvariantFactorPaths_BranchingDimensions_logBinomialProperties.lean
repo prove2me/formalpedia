@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_BranchingDimensions_logBinomialProperties
 -- name    : Formalism.InvariantFactorPaths.BranchingDimensions.logBinomialProperties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:20.893881+00:00
 -- url     : https://prove2.me/theorems/68eee214-479f-4f60-a2c6-12357b95e93c

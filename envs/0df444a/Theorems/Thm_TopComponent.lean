@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopComponent
 -- name    : TopComponent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:48:29.667422+00:00
 -- url     : https://prove2.me/theorems/ba6b023a-61bf-42fd-9873-cc2caae75221

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_leftRegular_tensor
 -- name    : GroundTheory.GroupCoh.tateAcyclic_leftRegular_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:06.741251+00:00
 -- url     : https://prove2.me/theorems/4ed769bb-5469-4acf-a5ba-dbfc2e719e4c

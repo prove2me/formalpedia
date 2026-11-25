@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_gram_bound_of_restriction_of_proj
 -- name    : Formalism.InvariantFactorPaths.L4.gram_bound_of_restriction_of_proj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:49.225784+00:00
 -- url     : https://prove2.me/theorems/4bc6bc2c-c9e0-4d48-b354-a8230012d6c4

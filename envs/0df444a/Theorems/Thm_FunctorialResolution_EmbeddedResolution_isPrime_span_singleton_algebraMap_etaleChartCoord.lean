@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isPrime_span_singleton_algebraMap_etaleChartCoord
 -- name    : FunctorialResolution.EmbeddedResolution.isPrime_span_singleton_algebraMap_etaleChartCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:59:18.908285+00:00
 -- url     : https://prove2.me/theorems/92868718-e10c-461a-b6aa-cc457715b985

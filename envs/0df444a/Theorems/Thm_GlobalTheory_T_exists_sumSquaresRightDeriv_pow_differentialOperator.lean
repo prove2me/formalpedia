@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_sumSquaresRightDeriv_pow_differentialOperator
 -- name    : GlobalTheory.T.exists_sumSquaresRightDeriv_pow_differentialOperator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:48:21.843649+00:00
 -- url     : https://prove2.me/theorems/d65363aa-3f6c-47b6-8167-e59d65fe2b2a

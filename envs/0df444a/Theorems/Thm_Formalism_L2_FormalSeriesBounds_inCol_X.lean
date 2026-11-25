@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_inCol_X
 -- name    : Formalism.L2.FormalSeriesBounds.inCol_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:47:02.292258+00:00
 -- url     : https://prove2.me/theorems/d0525c36-f204-4622-877d-fec234c3d8d3

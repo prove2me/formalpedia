@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_AltInv_low_prod
 -- name    : Formalism.L2.FormalSeriesBounds.AltInv.low_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:19:16.156361+00:00
 -- url     : https://prove2.me/theorems/c6b8cbcd-319e-4f24-88c1-37631c02f835

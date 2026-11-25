@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisBdd_imH_sub
 -- name    : GlobalTheory.SW.EisBdd.imH_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:46:47.461836+00:00
 -- url     : https://prove2.me/theorems/2f8d5c71-b245-4827-9d97-7745d5bc3a0b

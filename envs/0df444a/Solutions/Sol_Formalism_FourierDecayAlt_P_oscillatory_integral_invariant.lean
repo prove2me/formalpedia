@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.oscillatory_integral_invariant
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T01:04:12.69423+00:00
+-- url     : https://prove2.me/submissions/48c03378-b0b2-43a8-808c-1f9e53414f3f
+
+import Definitions.Def_Formalism_HermitianCurvature_ThetaExistenceInductiveFromPieces
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_KernelQuotientFinite
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_KernelNonzeroModulusDeterminantEq
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_IntegralLatticeRefinementIdentity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_GaussIndexIndependentOfChoice
+import Theorems.Thm_Formalism_FourierDecayAlt_P_A6x7_Hess_main
+import Theorems.Thm_Formalism_FourierDecayAlt_P_A6x7_Osc_main
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Matrix Formalism.DoubleCosetMeasures Formalism.FourierDecayAlt.A5 Formalism.FourierDecayAlt.A6 Filter Topology
+open Matrix Formalism.DoubleCosetMeasures Formalism.FourierDecayAlt.A5 Formalism.FourierDecayAlt.A6
+open scoped ComplexConjugate
+open Matrix Formalism.DoubleCosetMeasures Formalism.FourierDecayAlt.A5 Formalism.FourierDecayAlt.A6 Filter Topology
+open scoped ComplexConjugate
+open Matrix Formalism.DoubleCosetMeasures Formalism.FourierDecayAlt.A5 Formalism.FourierDecayAlt.A6 Filter Topology
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+namespace Formalism.FourierDecayAlt.P
+theorem _root_.solution : Formalism.FourierDecayAlt.A6.OscInvariant := A6x7.Osc.main
+end Formalism.FourierDecayAlt.P

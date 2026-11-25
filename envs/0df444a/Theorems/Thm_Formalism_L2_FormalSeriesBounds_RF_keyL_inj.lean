@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_keyL_inj
 -- name    : Formalism.L2.FormalSeriesBounds.RF.keyL_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:47:01.607806+00:00
 -- url     : https://prove2.me/theorems/173c344a-07a8-4c8d-a444-bae4ed5107d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_HaP_wsub_sat
 -- name    : Formalism.L2.FormalSeriesBounds.HaP.wsub_sat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:46:32.174349+00:00
 -- url     : https://prove2.me/theorems/1a67dfdb-07e2-4f56-8660-6ffb96e4bfcc

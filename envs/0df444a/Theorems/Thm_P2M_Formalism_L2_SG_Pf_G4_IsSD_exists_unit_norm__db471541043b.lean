@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_G4_IsSD_exists_unit_norm__db471541043b
 -- name    : P2M_Formalism_L2_SG_Pf_G4_IsSD_exists_unit_norm__db471541043b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:58:37.350976+00:00
 -- url     : https://prove2.me/theorems/2ae06515-95c9-48c3-9014-2bf8d167e3f3

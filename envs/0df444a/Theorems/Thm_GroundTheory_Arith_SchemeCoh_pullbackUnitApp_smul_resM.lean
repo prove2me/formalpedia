@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_pullbackUnitApp_smul_resM
 -- name    : GroundTheory.Arith.SchemeCoh.pullbackUnitApp_smul_resM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:41:37.222083+00:00
 -- url     : https://prove2.me/theorems/a6796389-c0cb-4f64-ba80-31706e7df820

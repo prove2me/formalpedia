@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_lGBinom
 -- name    : Formalism.L2.Th1.C.lGBinom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:49:02.667797+00:00
 -- url     : https://prove2.me/theorems/547f5f7e-c0fb-4f02-af6f-9984ad1ba1d4

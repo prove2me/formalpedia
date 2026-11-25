@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_setting
 -- name    : Formalism.L2.G.setting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:22:04.555143+00:00
 -- url     : https://prove2.me/theorems/bf639ccd-4fdb-48cd-9fcb-9f783e0a1a15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_minorsMatrix_mem_unitaryGroup
 -- name    : GlobalTheory.minorsMatrix_mem_unitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:48:42.507049+00:00
 -- url     : https://prove2.me/theorems/cc8430ee-401d-45dd-974c-3f79ff1bd77e

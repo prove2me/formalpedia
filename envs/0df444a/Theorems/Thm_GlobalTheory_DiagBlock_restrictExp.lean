@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_restrictExp
 -- name    : GlobalTheory.DiagBlock.restrictExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:13.340507+00:00
 -- url     : https://prove2.me/theorems/1643d91f-7c0d-4dc4-aeb9-150b0be76a1d

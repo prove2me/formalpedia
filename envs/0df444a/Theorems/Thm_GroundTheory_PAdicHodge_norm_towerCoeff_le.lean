@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_towerCoeff_le
 -- name    : GroundTheory.PAdicHodge.norm_towerCoeff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:47:50.601846+00:00
 -- url     : https://prove2.me/theorems/427fbd7f-6a7d-4d22-91c3-f3e0beb4aa58

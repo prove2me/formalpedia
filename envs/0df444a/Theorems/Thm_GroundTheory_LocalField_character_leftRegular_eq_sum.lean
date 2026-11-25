@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_character_leftRegular_eq_sum
 -- name    : GroundTheory.LocalField.character_leftRegular_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:41.622615+00:00
 -- url     : https://prove2.me/theorems/eaf9e1f1-7516-4f7d-befe-3bbebaddf7d8

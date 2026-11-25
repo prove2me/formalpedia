@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_dual_vector_norm_on_group
 -- name    : Formalism.HermitianLatticeCounting.P.dual_vector_norm_on_group
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:04:52.659794+00:00
 -- url     : https://prove2.me/theorems/d8ebfd6b-6ca4-477f-9e38-d52c37d94841

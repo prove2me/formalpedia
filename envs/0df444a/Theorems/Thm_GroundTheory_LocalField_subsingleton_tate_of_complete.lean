@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_subsingleton_tate_of_complete
 -- name    : GroundTheory.LocalField.subsingleton_tate_of_complete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:38.939714+00:00
 -- url     : https://prove2.me/theorems/34f383c0-472f-4537-828a-af2763cb9e51

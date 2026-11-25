@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_GoodQ_zero
 -- name    : Formalism.GM.gammaIntegralityLemmas.GoodQ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:23:21.286478+00:00
 -- url     : https://prove2.me/theorems/5f4a6f02-8eae-4007-8bba-df695ee4b6f5

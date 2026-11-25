@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_map_powMonoidHom_unitFiltration
 -- name    : GroundTheory.Global.map_powMonoidHom_unitFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:57:29.103018+00:00
 -- url     : https://prove2.me/theorems/a1657d1a-fed3-4e7b-bcad-4873d14a4cbe

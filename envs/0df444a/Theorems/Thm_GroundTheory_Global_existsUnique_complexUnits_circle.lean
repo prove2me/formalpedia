@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_complexUnits_circle
 -- name    : GroundTheory.Global.existsUnique_complexUnits_circle
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:23.417164+00:00
 -- url     : https://prove2.me/theorems/17b03529-6dfb-4e16-b1b3-0b6bd0f236be

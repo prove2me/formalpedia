@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpCoordFrame_psi_origin_eventually
 -- name    : GlobalTheory.ExpCoordFrame.psi_origin_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:47:26.045454+00:00
 -- url     : https://prove2.me/theorems/35a4004e-8669-458a-9467-dc7f77af0726

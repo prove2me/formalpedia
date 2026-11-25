@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_discreteTopology_sup_and_covol_sup
 -- name    : Formalism.F.discreteTopology_sup_and_covol_sup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:31.241291+00:00
 -- url     : https://prove2.me/theorems/9eb522bf-7569-4460-aae5-cd2b5e3cb867

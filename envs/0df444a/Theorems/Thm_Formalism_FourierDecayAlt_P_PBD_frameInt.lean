@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_frameInt
 -- name    : Formalism.FourierDecayAlt.P.PBD.frameInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:33:33.952802+00:00
 -- url     : https://prove2.me/theorems/ee1802e3-a76b-48ae-8f58-432e834c3e8d

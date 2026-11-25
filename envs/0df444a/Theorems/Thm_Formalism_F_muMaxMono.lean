@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_muMaxMono
 -- name    : Formalism.F.muMaxMono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:52.151054+00:00
 -- url     : https://prove2.me/theorems/b25283e0-d88a-4182-865b-8d4d919f1fdb

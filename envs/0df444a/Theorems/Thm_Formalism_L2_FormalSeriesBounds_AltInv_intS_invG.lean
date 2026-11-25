@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_AltInv_intS_invG
 -- name    : Formalism.L2.FormalSeriesBounds.AltInv.intS_invG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:29:38.119+00:00
 -- url     : https://prove2.me/theorems/ee0359e3-d741-4e20-a55c-d27a8d5fcd13

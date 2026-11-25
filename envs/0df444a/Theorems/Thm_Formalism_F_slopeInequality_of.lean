@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_slopeInequality_of
 -- name    : Formalism.F.slopeInequality_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:37:03.442878+00:00
 -- url     : https://prove2.me/theorems/0842f170-3a47-4b61-b916-90275d4e8ac3

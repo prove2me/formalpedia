@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FrozenVariableComponents_ycond_snoc_bwd
 -- name    : Formalism.GM.FrozenVariableComponents.ycond_snoc_bwd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:14:44.2817+00:00
 -- url     : https://prove2.me/theorems/5915bc45-ad6d-44b1-acc5-1f4272eb3436

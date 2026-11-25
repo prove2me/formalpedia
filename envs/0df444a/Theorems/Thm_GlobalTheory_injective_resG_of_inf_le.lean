@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_injective_resG_of_inf_le
 -- name    : GlobalTheory.injective_resG_of_inf_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:43:47.122377+00:00
 -- url     : https://prove2.me/theorems/520d086c-3162-4d63-aa0b-25c68abb9b88

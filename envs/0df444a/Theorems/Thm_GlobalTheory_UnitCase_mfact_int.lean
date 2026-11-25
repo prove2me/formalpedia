@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_mfact_int
 -- name    : GlobalTheory.UnitCase.mfact_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:39:43.958608+00:00
 -- url     : https://prove2.me/theorems/05f434d2-fe5b-47d7-8aac-a6299782c2a6

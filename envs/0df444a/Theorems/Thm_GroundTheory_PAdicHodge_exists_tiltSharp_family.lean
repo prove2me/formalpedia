@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_tiltSharp_family
 -- name    : GroundTheory.PAdicHodge.exists_tiltSharp_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:06:53.386974+00:00
 -- url     : https://prove2.me/theorems/ee901011-55ff-4242-af11-37bbccbdee47

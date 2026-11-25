@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_span_D_eq_top_of_ne_zero
 -- name    : GroundTheory.Arith.SchemeCoh.span_D_eq_top_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:44:27.786778+00:00
 -- url     : https://prove2.me/theorems/446fafb4-5971-45f3-a9df-f1c6d2801d33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sum_card_nbr_filter
 -- name    : ChromaticReconstruction.sum_card_nbr_filter
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:40:45.532316+00:00
 -- url     : https://prove2.me/theorems/47004ed0-2d52-456b-8ed3-111a6fa77453

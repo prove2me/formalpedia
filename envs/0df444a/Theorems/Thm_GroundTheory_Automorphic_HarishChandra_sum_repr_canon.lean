@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_sum_repr_canon
 -- name    : GroundTheory.Automorphic.HarishChandra.sum_repr_canon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:46:36.790806+00:00
 -- url     : https://prove2.me/theorems/df032d0b-bb98-4ea5-a30b-e045466ada76

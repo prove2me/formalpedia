@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_slopesBdd
 -- name    : Formalism.F.slopesBdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:10:14.603889+00:00
 -- url     : https://prove2.me/theorems/682791e9-6cf3-4ffa-88f9-c70ce2af920b

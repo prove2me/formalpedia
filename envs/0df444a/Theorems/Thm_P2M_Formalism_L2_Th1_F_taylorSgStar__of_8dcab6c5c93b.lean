@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_F_taylorSgStar__of_8dcab6c5c93b
 -- name    : P2M_Formalism_L2_Th1_F_taylorSgStar__of_8dcab6c5c93b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:59:21.791902+00:00
 -- url     : https://prove2.me/theorems/7f1430d2-c5a4-4b88-aa7a-8329501df3ed

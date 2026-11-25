@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataLevelSSteps_toReal_eq_relIndex_mul_of_haar
 -- name    : MassDataLevelSSteps.toReal_eq_relIndex_mul_of_haar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:01:24.091354+00:00
 -- url     : https://prove2.me/theorems/0109ec90-bc98-4863-bf0c-6cca996b9b9f

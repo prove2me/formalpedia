@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_LangOnto_lang_onto
 -- name    : GlobalTheory.PMonE.LangOnto.lang_onto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:38:49.243898+00:00
 -- url     : https://prove2.me/theorems/3129b999-47c7-46d4-b367-dba12d2e19b4

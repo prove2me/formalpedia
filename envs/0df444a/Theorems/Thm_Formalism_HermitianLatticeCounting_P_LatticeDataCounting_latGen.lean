@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_latGen
 -- name    : Formalism.HermitianLatticeCounting.P.LatticeDataCounting.latGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:55.997801+00:00
 -- url     : https://prove2.me/theorems/bd1f4f10-9bb2-463f-bc22-02c44bcf7764

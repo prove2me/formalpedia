@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_bil_smul_left
 -- name    : Formalism.L2.FormalSeriesBounds.bil_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:45:36.181084+00:00
 -- url     : https://prove2.me/theorems/35b09af1-3320-466a-ab96-cd211589362b

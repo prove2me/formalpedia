@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_A6x7_Hess_intK_scale
 -- name    : Formalism.FourierDecayAlt.P.A6x7.Hess.intK_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:52:31.523551+00:00
 -- url     : https://prove2.me/theorems/f1f626d2-b0dd-45f7-af3c-1d90f057af57

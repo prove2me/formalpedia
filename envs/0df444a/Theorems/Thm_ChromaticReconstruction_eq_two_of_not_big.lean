@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_eq_two_of_not_big
 -- name    : ChromaticReconstruction.eq_two_of_not_big
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:37:50.266615+00:00
 -- url     : https://prove2.me/theorems/e4a879a0-a73b-4e4e-8315-df7737a3073a

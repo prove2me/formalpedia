@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CayleyCapelli_prod_Icc_mul_factorial
 -- name    : GlobalTheory.CayleyCapelli.prod_Icc_mul_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:38:00.048799+00:00
 -- url     : https://prove2.me/theorems/892fc1fc-9765-4a3b-b404-52c60fdfa409

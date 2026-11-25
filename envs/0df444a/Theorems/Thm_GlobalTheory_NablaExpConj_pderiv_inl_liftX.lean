@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NablaExpConj_pderiv_inl_liftX
 -- name    : GlobalTheory.NablaExpConj.pderiv_inl_liftX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:38:54.008967+00:00
 -- url     : https://prove2.me/theorems/170241b9-8da0-4abe-a57a-c4ee4e2a115e

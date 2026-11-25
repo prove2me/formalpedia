@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoBlockPoint_PhiH_inv
 -- name    : Formalism.FourierDecayAlt.P.TwoBlockPoint.PhiH_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:40:40.879478+00:00
 -- url     : https://prove2.me/theorems/b8390d90-ea83-4b9c-b8dc-084c1f996a0d

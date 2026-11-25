@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_inertiaFactor_eq
 -- name    : GroundTheory.Global.inertiaFactor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:33.598815+00:00
 -- url     : https://prove2.me/theorems/872adf64-285b-4fe6-a678-b35fe37b95e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_mem_vars_blkProd
 -- name    : Formalism.L2.FormalSeriesBounds.RF.mem_vars_blkProd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:08.945744+00:00
 -- url     : https://prove2.me/theorems/b1db242a-3aa6-47c2-bbdd-4a2fcaab6f51

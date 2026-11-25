@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_A_ZSer_iSerSpec__ff57dfa23ee4
 -- name    : P2M_Formalism_L2_Th1_A_ZSer_iSerSpec__ff57dfa23ee4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:48.852889+00:00
 -- url     : https://prove2.me/theorems/069c1eef-1d3c-4164-98fb-612130748d93

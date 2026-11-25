@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsPrekernel_mono
 -- name    : PretorsionImageClosed.Statement.IsPrekernel.mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:48:27.043341+00:00
 -- url     : https://prove2.me/theorems/456c7058-6fc8-464f-a289-038ac0517ffd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_WeightHomogeneousMinors_isWH_rename
 -- name    : Formalism.L2.FormalSeriesBounds.RF.WeightHomogeneousMinors.isWH_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:50:01.765495+00:00
 -- url     : https://prove2.me/theorems/e4236c52-1452-4073-abce-0babdea5153c

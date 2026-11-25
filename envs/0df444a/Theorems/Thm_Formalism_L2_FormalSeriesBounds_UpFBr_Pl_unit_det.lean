@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_unit_det
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.unit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:46:40.398202+00:00
 -- url     : https://prove2.me/theorems/10fddf8a-081c-426c-9410-cd8f2abbfa49

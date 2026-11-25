@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_unimodular_mul_eq_neg_of_indepMod
 -- name    : GlobalTheory.exists_unimodular_mul_eq_neg_of_indepMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:34:32.411679+00:00
 -- url     : https://prove2.me/theorems/6588aad1-6337-4abd-bb73-92e8a2207d05

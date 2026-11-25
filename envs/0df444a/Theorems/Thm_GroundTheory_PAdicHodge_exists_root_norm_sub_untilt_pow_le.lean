@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_root_norm_sub_untilt_pow_le
 -- name    : GroundTheory.PAdicHodge.exists_root_norm_sub_untilt_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:47:06.144434+00:00
 -- url     : https://prove2.me/theorems/e5e343ef-ade3-45f8-aec6-4a314bcf2feb

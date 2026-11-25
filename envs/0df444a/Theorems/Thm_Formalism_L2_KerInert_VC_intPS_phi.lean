@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_KerInert_VC_intPS_phi
 -- name    : Formalism.L2.KerInert.VC.intPS_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:37:36.076062+00:00
 -- url     : https://prove2.me/theorems/043b9344-db57-40a3-8df3-8c2601617a6a

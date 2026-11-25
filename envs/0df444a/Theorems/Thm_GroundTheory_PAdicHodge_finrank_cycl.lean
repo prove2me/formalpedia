@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_finrank_cycl
 -- name    : GroundTheory.PAdicHodge.finrank_cycl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:42.004815+00:00
 -- url     : https://prove2.me/theorems/5e8ccd11-ebe3-41b9-9ab7-4835b865f451

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisBdd_approx_herm
 -- name    : GlobalTheory.SW.EisBdd.approx_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:47:35.557867+00:00
 -- url     : https://prove2.me/theorems/8ca292d2-b387-4e3a-ace3-c631569b6aa8

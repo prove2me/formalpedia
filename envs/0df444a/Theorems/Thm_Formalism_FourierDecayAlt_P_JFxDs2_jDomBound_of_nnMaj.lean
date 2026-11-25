@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs2_jDomBound_of_nnMaj
 -- name    : Formalism.FourierDecayAlt.P.JFxDs2.jDomBound_of_nnMaj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:15:00.998445+00:00
 -- url     : https://prove2.me/theorems/030a5d49-55a3-4614-812e-4959c30da993

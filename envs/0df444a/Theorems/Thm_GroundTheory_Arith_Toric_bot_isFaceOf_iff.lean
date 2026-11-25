@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_bot_isFaceOf_iff
 -- name    : GroundTheory.Arith.Toric.bot_isFaceOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:49:28.455112+00:00
 -- url     : https://prove2.me/theorems/a5c6be60-5846-4f9f-a9a8-5e1c27de64da

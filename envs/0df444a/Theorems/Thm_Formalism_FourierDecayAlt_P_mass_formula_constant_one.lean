@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_mass_formula_constant_one
 -- name    : Formalism.FourierDecayAlt.P.mass_formula_constant_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:59:35.941052+00:00
 -- url     : https://prove2.me/theorems/0e5232cf-2047-4de5-8056-0d687bb42e31

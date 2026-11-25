@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_coheight_genericPoint
 -- name    : GlobalTheory.coheight_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:48:08.511069+00:00
 -- url     : https://prove2.me/theorems/5116729c-a3e7-4ef2-9b6e-33125cfb3674

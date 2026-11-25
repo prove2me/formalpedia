@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_one_add_X_mul_geom
 -- name    : GroundTheory.PAdicHodge.one_add_X_mul_geom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:47:13.156834+00:00
 -- url     : https://prove2.me/theorems/dc0649f9-a798-4bc9-94e9-814f966ccfc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_SelfConjPoints_inV_cc
 -- name    : Formalism.L2.FormalSeriesBounds.SelfConjPoints.inV_cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:49:16.137798+00:00
 -- url     : https://prove2.me/theorems/b09fb434-f863-4a05-b9c8-f2d3e44d1c27

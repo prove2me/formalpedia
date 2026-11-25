@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_weight_theorem_top
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.weight_theorem_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:09:39.215491+00:00
 -- url     : https://prove2.me/theorems/9ef1d1b0-fa85-4d40-b40c-948ec56e35ac

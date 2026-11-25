@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unitsOfIntProd_eq
 -- name    : GroundTheory.LocalField.unitsOfIntProd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:43:20.553332+00:00
 -- url     : https://prove2.me/theorems/80e35891-2a2f-40d7-bdfd-040acee9e217

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_zero_density_box
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.zero_density_box
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:05:04.054825+00:00
 -- url     : https://prove2.me/theorems/8a4b5e12-588d-4ec7-bc39-ef85f04bb036

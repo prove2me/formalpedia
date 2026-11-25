@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_minimal_degree_comparison
 -- name    : Formalism.HermitianLatticeCounting.P.minimal_degree_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:38:03.620867+00:00
 -- url     : https://prove2.me/theorems/f4519f3d-ae7f-422c-ab80-083950774f9f

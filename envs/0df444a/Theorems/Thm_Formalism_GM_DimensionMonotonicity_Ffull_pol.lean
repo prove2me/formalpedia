@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DimensionMonotonicity_Ffull_pol
 -- name    : Formalism.GM.DimensionMonotonicity.Ffull_pol
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:27:42.134077+00:00
 -- url     : https://prove2.me/theorems/48cfcbc1-af77-4fad-adcc-1cb4b808d833

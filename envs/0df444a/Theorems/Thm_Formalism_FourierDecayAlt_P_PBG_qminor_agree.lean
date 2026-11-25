@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_qminor_agree
 -- name    : Formalism.FourierDecayAlt.P.PBG.qminor_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:20:00.547637+00:00
 -- url     : https://prove2.me/theorems/fb25bbdc-44ba-4e90-a7b3-3b41e03292c3

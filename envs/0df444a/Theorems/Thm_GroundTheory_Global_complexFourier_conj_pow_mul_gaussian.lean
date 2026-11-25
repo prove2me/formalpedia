@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_complexFourier_conj_pow_mul_gaussian
 -- name    : GroundTheory.Global.complexFourier_conj_pow_mul_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:07:06.696602+00:00
 -- url     : https://prove2.me/theorems/9fa51c7c-2578-46df-8f2d-8e97ded8fd05

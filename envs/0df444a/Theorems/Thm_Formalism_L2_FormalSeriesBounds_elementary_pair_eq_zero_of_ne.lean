@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_elementary_pair_eq_zero_of_ne
 -- name    : Formalism.L2.FormalSeriesBounds.elementary_pair_eq_zero_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:44:54.608218+00:00
 -- url     : https://prove2.me/theorems/92f0e063-2a67-4e23-9e21-291a3fe416e9

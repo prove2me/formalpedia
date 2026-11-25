@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_integral_dsW
 -- name    : CompanionTheory.D.Upq.Sm.integral_dsW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:41:48.398766+00:00
 -- url     : https://prove2.me/theorems/5c179a24-6529-4060-a0c6-3cdb4dda8776

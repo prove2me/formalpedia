@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_xnInv_pow
 -- name    : Formalism.BranchingDeterminantCap.xnInv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:30:00.881989+00:00
 -- url     : https://prove2.me/theorems/d98726d5-708b-4bb1-97fa-14566cc82e79

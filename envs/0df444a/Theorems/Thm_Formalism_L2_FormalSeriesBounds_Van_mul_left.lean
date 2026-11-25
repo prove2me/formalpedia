@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Van_mul_left
 -- name    : Formalism.L2.FormalSeriesBounds.Van.mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:46:58.527894+00:00
 -- url     : https://prove2.me/theorems/aa42755c-86e2-41a2-955f-1fdfefbe60c2

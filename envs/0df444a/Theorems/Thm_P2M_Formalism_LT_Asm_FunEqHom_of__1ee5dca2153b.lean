@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LT_Asm_FunEqHom_of__1ee5dca2153b
 -- name    : P2M_Formalism_LT_Asm_FunEqHom_of__1ee5dca2153b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:58:41.565805+00:00
 -- url     : https://prove2.me/theorems/97874e2a-9834-4613-8c7f-3e93b2ab202f

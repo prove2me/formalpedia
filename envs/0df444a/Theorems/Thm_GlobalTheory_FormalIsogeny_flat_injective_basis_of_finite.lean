@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_flat_injective_basis_of_finite
 -- name    : GlobalTheory.FormalIsogeny.flat_injective_basis_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:01:02.255878+00:00
 -- url     : https://prove2.me/theorems/8c3ae230-7cae-4167-bd7a-f7d2fecb3072

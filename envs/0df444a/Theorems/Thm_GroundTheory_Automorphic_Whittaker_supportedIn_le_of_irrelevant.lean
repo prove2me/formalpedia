@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_supportedIn_le_of_irrelevant
 -- name    : GroundTheory.Automorphic.Whittaker.supportedIn_le_of_irrelevant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:36:26.838442+00:00
 -- url     : https://prove2.me/theorems/b3031059-102f-4e08-8803-e8208e7dd298

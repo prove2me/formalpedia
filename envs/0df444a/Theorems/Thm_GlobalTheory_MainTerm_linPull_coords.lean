@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_linPull_coords
 -- name    : GlobalTheory.MainTerm.linPull_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:38:02.105615+00:00
 -- url     : https://prove2.me/theorems/01e35597-0365-4eb6-b88a-c91a904b1978

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isZero_cohomology_discreteCoind
 -- name    : GroundTheory.ProfCoh.isZero_cohomology_discreteCoind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:17:20.461803+00:00
 -- url     : https://prove2.me/theorems/a11d3add-25f7-4c84-8c1a-a7d54da659a7

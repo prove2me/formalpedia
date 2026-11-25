@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__inner_self_ne_zero_of_orthonormal_5dc73cdd2eeb
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__inner_self_ne_zero_of_orthonormal_5dc73cdd2eeb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:59:39.656234+00:00
 -- url     : https://prove2.me/theorems/e3dfeaa1-aa4f-47c8-b1ab-099a260f3ce8

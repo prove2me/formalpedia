@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_z_fix
 -- name    : NFOne.z_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:47:34.764086+00:00
 -- url     : https://prove2.me/theorems/7b0ccb5b-343d-4f58-87a2-90a5dd6e3795

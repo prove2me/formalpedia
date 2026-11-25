@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_DIV_residue_character_ramified
 -- name    : Formalism.L2.DIV.residue_character_ramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:26:01.624964+00:00
 -- url     : https://prove2.me/theorems/dfb6bc2e-4424-4b44-bde0-e14790dbc4d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpCong_along_mul_mem
 -- name    : GlobalTheory.ExpCong.along_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:43:59.121244+00:00
 -- url     : https://prove2.me/theorems/9af4a293-7456-44d3-a13c-5633f90740fb

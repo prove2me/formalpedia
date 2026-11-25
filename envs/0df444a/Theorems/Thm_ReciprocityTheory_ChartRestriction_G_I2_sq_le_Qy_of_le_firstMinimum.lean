@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_sq_le_Qy_of_le_firstMinimum
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.sq_le_Qy_of_le_firstMinimum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:50:01.679827+00:00
 -- url     : https://prove2.me/theorems/e1e377e5-49f6-4287-bf44-99c1a000ae5a

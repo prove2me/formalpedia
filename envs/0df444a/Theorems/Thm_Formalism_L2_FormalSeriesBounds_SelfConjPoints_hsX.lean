@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_SelfConjPoints_hsX
 -- name    : Formalism.L2.FormalSeriesBounds.SelfConjPoints.hsX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:48:02.273367+00:00
 -- url     : https://prove2.me/theorems/04512ec2-4e66-4f32-a0cf-623f479ebb1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LT_CongrP_norm_sub_le_max__70c360a457a8
 -- name    : P2M_Formalism_LT_CongrP_norm_sub_le_max__70c360a457a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:58:33.598812+00:00
 -- url     : https://prove2.me/theorems/413cd9e1-1fdb-45b7-af74-0e1964c1fa31

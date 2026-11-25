@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_compactly_supported_banach_model
 -- name    : Formalism.FourierDecayAlt.P.compactly_supported_banach_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:10:57.968807+00:00
 -- url     : https://prove2.me/theorems/bd250009-c99b-4386-984e-204f677cb330

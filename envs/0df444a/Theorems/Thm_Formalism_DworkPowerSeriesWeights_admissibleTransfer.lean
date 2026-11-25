@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_admissibleTransfer
 -- name    : Formalism.DworkPowerSeriesWeights.admissibleTransfer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:41:10.455161+00:00
 -- url     : https://prove2.me/theorems/711e0e67-037f-46ec-878f-b3c1cd1b48a1

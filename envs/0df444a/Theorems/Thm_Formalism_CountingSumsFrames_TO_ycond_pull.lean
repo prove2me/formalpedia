@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_TO_ycond_pull
 -- name    : Formalism.CountingSumsFrames.TO.ycond_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:40:31.091807+00:00
 -- url     : https://prove2.me/theorems/dc29720b-fab2-487b-9a97-4f801632ea0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisBdd_im_nonneg
 -- name    : GlobalTheory.SW.EisBdd.im_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:48:41.574332+00:00
 -- url     : https://prove2.me/theorems/0dc03449-7546-46cb-b768-ad3f57f30206

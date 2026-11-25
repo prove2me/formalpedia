@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_lap_one_apply
 -- name    : Formalism.L2.FormalSeriesBounds.RF.lap_one_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:47:16.595283+00:00
 -- url     : https://prove2.me/theorems/f2af4a84-11ee-4d1c-8d85-a90816727576

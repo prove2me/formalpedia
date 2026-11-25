@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxRules_lidx_map
 -- name    : Formalism.EigenvalueLevelCeiling.idxRules_lidx_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:17:35.744581+00:00
 -- url     : https://prove2.me/theorems/c9b20711-4589-4b34-8f6b-e07955813589

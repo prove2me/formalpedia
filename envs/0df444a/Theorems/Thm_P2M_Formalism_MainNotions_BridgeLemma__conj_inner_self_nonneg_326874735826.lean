@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__conj_inner_self_nonneg_326874735826
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__conj_inner_self_nonneg_326874735826
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:00:10.893021+00:00
 -- url     : https://prove2.me/theorems/1a00e37b-ad38-4cc5-85a4-daf968c0dda2

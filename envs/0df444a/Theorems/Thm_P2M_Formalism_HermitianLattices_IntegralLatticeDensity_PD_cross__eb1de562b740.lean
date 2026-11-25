@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_IntegralLatticeDensity_PD_cross__eb1de562b740
 -- name    : P2M_Formalism_HermitianLattices_IntegralLatticeDensity_PD_cross__eb1de562b740
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:05:18.345139+00:00
 -- url     : https://prove2.me/theorems/411725f6-3dea-4320-8e7b-76a3095ed3e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__norm_embedding_le_trace_44957880a079
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__norm_embedding_le_trace_44957880a079
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:59:53.230803+00:00
 -- url     : https://prove2.me/theorems/d6390c9b-91e8-40ad-97ae-644dadcc86d1

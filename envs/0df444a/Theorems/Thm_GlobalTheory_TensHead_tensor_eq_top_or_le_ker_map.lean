@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensHead_tensor_eq_top_or_le_ker_map
 -- name    : GlobalTheory.TensHead.tensor_eq_top_or_le_ker_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:03:38.446806+00:00
 -- url     : https://prove2.me/theorems/1620ca8a-6e0f-4ee4-a232-21acf2ae3b44

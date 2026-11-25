@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_big_cell_vanishing_differential
 -- name    : Formalism.FourierDecayAlt.P.big_cell_vanishing_differential
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:36:56.045479+00:00
 -- url     : https://prove2.me/theorems/75808949-12f8-47da-ae20-b2ff6fc11fc3

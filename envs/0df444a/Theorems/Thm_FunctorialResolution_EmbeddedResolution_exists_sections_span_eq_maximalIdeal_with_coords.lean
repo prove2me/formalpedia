@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_sections_span_eq_maximalIdeal_with_coords
 -- name    : FunctorialResolution.EmbeddedResolution.exists_sections_span_eq_maximalIdeal_with_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:35:57.925349+00:00
 -- url     : https://prove2.me/theorems/b5078fe7-7212-45ba-85f0-fe86b209965c

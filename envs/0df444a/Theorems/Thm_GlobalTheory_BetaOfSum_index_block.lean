@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaOfSum_index_block
 -- name    : GlobalTheory.BetaOfSum.index_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:30:55.352866+00:00
 -- url     : https://prove2.me/theorems/33680af4-16ee-4192-ad30-007445f5f708

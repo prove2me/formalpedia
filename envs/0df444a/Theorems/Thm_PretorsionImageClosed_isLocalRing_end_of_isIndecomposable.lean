@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_PretorsionImageClosed_isLocalRing_end_of_isIndecomposable
+-- name    : PretorsionImageClosed.isLocalRing_end_of_isIndecomposable
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-11-25T01:08:35.067578+00:00
+-- url     : https://prove2.me/theorems/ccdd009d-f691-4cd6-8081-2d4865f844fa
+-- title:
+--   Pretorsion Image Closed: is Local Ring end of is Indecomposable
+-- statement:
+--   The endomorphism ring of an indecomposable finite-length module is local.
+--
+--   Source: https://github.com/haruhisa-enomoto/pretorsion-image-closed/blob/e803b5d1325bc1ce2b779efbff157b6cd3234bc8/PretorsionImageClosed/Modules/IndecomposableModule.lean#L178-L184
+-- source:
+--   https://github.com/haruhisa-enomoto/pretorsion-image-closed/blob/e803b5d1325bc1ce2b779efbff157b6cd3234bc8/PretorsionImageClosed/Modules/IndecomposableModule.lean#L178-L184
+
+module
+public import Mathlib.RingTheory.FiniteLength
+public import Mathlib.RingTheory.Nilpotent.Basic
+public import Mathlib.RingTheory.SimpleModule.Basic
+public import Definitions.Def_PretorsionImageClosed_Modules_LocalRingIdempotents
+public import Definitions.Def_PretorsionImageClosed_Modules_IndecomposableModule
+set_option autoImplicit true
+@[expose] public section
+public section
+open PretorsionImageClosed
+universe u v w
+variable {A : Type u} {M : Type v} [Ring A] [AddCommGroup M] [Module A M]
+
+theorem PretorsionImageClosed.isLocalRing_end_of_isIndecomposable
+    (hM : IsFiniteLength A M) (h : IsIndecomposableModule A M) :
+    IsLocalRing (Module.End A M) := by sorry

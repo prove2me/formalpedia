@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_irr_of_norm_one
 -- name    : GlobalTheory.BI.irr_of_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:10:19.445977+00:00
 -- url     : https://prove2.me/theorems/678c68cd-c625-4fb8-8afd-8fdec8364794

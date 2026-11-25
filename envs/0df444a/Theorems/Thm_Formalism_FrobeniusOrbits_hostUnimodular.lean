@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_hostUnimodular
 -- name    : Formalism.FrobeniusOrbits.hostUnimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:44:46.370807+00:00
 -- url     : https://prove2.me/theorems/05e39119-525a-432d-ab6c-d469dc3fe40f

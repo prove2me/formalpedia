@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isRadical_map_span_singleton_prod_etaleChartCoord
 -- name    : FunctorialResolution.EmbeddedResolution.isRadical_map_span_singleton_prod_etaleChartCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:30.716279+00:00
 -- url     : https://prove2.me/theorems/0496f6e8-ac85-4aeb-9a31-e1d11d1e9bf8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_jetAt0_sum
 -- name    : GlobalTheory.UnitCase.jetAt0_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:39:51.772142+00:00
 -- url     : https://prove2.me/theorems/dd37545e-8851-4e00-bfb3-5e781f60907d

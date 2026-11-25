@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_diagMon_inr
 -- name    : GlobalTheory.DiagBlock.diagMon_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:44:11.088977+00:00
 -- url     : https://prove2.me/theorems/d55b6a8f-07a0-4075-8f25-050b22c00957

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LT_LTL_integralMv_X__f8764449aa3b
 -- name    : P2M_Formalism_LT_LTL_integralMv_X__f8764449aa3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:58:34.288702+00:00
 -- url     : https://prove2.me/theorems/d867d7bb-0c16-4429-acf2-0cdc75714a85

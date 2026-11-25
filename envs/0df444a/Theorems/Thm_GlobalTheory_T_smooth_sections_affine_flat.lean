@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_smooth_sections_affine_flat
 -- name    : GlobalTheory.T.smooth_sections_affine_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:30:18.850591+00:00
 -- url     : https://prove2.me/theorems/2cac466e-edc1-43b2-b565-b703396ef823

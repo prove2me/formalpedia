@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BetaSesquilinearity_betaTau_self
 -- name    : Formalism.FourierDecayAlt.P.BetaSesquilinearity.betaTau_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:29:21.837312+00:00
 -- url     : https://prove2.me/theorems/f5ba891b-b710-4cf7-a281-5435fdccaf10

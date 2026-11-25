@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_prod_factorial_diag
 -- name    : GlobalTheory.MinorGerm.prod_factorial_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:44:33.902812+00:00
 -- url     : https://prove2.me/theorems/f3e94f06-f2a7-4f17-a814-97b856890813

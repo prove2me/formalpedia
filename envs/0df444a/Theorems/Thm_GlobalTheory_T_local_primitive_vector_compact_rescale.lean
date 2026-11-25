@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_primitive_vector_compact_rescale
 -- name    : GlobalTheory.T.local_primitive_vector_compact_rescale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:53:18.560319+00:00
 -- url     : https://prove2.me/theorems/efa8b132-0129-4f67-b89c-876729cc178e

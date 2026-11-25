@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_TopsChoiceProbabilityLemmas_prob_forall_eq_prod
 -- name    : Formalism.G0.TopsChoiceProbabilityLemmas.prob_forall_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:41:24.324256+00:00
 -- url     : https://prove2.me/theorems/12c08dcb-93da-4295-929b-7ad39354524c

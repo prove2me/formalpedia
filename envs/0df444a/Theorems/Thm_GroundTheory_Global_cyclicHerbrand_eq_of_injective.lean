@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cyclicHerbrand_eq_of_injective
 -- name    : GroundTheory.Global.cyclicHerbrand_eq_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:40:50.755827+00:00
 -- url     : https://prove2.me/theorems/47b12684-c5d3-418b-b4ff-5b18a50578a9

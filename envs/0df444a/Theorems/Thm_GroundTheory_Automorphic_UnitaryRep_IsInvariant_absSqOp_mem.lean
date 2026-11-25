@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_IsInvariant_absSqOp_mem
 -- name    : GroundTheory.Automorphic.UnitaryRep.IsInvariant.absSqOp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:41:35.362801+00:00
 -- url     : https://prove2.me/theorems/74674526-3ec1-4a03-9861-f4b5e4c6499f

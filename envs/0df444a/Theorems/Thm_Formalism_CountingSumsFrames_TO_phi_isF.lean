@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_TO_phi_isF
 -- name    : Formalism.CountingSumsFrames.TO.phi_isF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:40:00.64904+00:00
 -- url     : https://prove2.me/theorems/837833d7-2be8-40dc-a42c-af998be0b5d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_killP1_mono
 -- name    : ChromaticReconstruction.killP1_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:39:24.895803+00:00
 -- url     : https://prove2.me/theorems/09f4959b-ce48-4516-86be-7368d093cfa6

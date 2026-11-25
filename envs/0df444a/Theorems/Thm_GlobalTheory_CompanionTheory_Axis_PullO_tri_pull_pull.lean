@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_PullO_tri_pull_pull
 -- name    : GlobalTheory.CompanionTheory.Axis.PullO.tri_pull_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:43:32.650476+00:00
 -- url     : https://prove2.me/theorems/1d97de62-36d4-4f3a-89b2-5e016207c420

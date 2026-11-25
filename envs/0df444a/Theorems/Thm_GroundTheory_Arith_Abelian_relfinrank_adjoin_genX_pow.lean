@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_relfinrank_adjoin_genX_pow
 -- name    : GroundTheory.Arith.Abelian.relfinrank_adjoin_genX_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:39:43.228467+00:00
 -- url     : https://prove2.me/theorems/c87174fd-419d-4d5b-8592-f1cef867c5cd

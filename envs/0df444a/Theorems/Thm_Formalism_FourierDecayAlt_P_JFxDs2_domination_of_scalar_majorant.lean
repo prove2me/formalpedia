@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs2_domination_of_scalar_majorant
 -- name    : Formalism.FourierDecayAlt.P.JFxDs2.domination_of_scalar_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:09.034995+00:00
 -- url     : https://prove2.me/theorems/f08abd55-221a-4f6a-a749-4eb6e2e62bfb

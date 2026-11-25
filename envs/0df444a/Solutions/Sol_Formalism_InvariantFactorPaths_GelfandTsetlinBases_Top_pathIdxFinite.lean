@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.pathIdxFinite
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T01:02:49.618069+00:00
+-- url     : https://prove2.me/submissions/464ee116-2190-4fa7-a115-9c911a512d25
+
+import Mathlib
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_FinalP
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_IndexWeightsDominance
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_LemmaA2indepOf
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_JacobiMinorProof
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_PathBasisOfCount
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_GoodWOfWeight
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_FactSplit
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_PathBasisTheorem
+import Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_path_index_finite
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.GelfandTsetlinBases Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top
+open Formalism.InvariantFactorPaths.GelfandTsetlinBases
+namespace Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top
+theorem _root_.solution : PathIdxFinite := path_index_finite
+end Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top

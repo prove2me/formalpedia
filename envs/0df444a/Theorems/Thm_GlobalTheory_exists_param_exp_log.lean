@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_param_exp_log
 -- name    : GlobalTheory.exists_param_exp_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:35:17.292529+00:00
 -- url     : https://prove2.me/theorems/24f46d62-8bd5-4e5a-bd39-247a27523085

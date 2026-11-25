@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_padic_change_of_variables
 -- name    : Formalism.FourierDecayAlt.P.padic_change_of_variables
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:34.566693+00:00
 -- url     : https://prove2.me/theorems/1ea77f51-831d-4b77-84aa-6aecec8cfcf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_semilocal_basis_exists
 -- name    : Formalism.DivisionValues.semilocal_basis_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:40:13.08585+00:00
 -- url     : https://prove2.me/theorems/f2e57acb-7b8a-4998-a572-bfe46bd9025d

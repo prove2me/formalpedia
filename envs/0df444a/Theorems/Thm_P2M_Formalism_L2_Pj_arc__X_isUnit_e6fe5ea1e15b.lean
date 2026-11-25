@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Pj_arc__X_isUnit_e6fe5ea1e15b
 -- name    : P2M_Formalism_L2_Pj_arc__X_isUnit_e6fe5ea1e15b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:57:33.576269+00:00
 -- url     : https://prove2.me/theorems/6c84d853-1d94-440f-88e8-b01385d9ca13

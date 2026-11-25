@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_F_Homog_wEta_basis__9ee8d3c65504
 -- name    : P2M_Formalism_L2_Th1_F_Homog_wEta_basis__9ee8d3c65504
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:30.72694+00:00
 -- url     : https://prove2.me/theorems/3d552846-67da-4807-a3da-a58f095f552c

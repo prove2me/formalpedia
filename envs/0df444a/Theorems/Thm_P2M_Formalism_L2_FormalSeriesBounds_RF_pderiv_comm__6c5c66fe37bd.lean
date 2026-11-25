@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_FormalSeriesBounds_RF_pderiv_comm__6c5c66fe37bd
 -- name    : P2M_Formalism_L2_FormalSeriesBounds_RF_pderiv_comm__6c5c66fe37bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:46:43.246449+00:00
 -- url     : https://prove2.me/theorems/23847c6e-4695-44a7-9b1d-1b6258fcfc60

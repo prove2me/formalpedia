@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_logOnePlus_sub_sum_mem
 -- name    : GroundTheory.PAdicHodge.logOnePlus_sub_sum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:47:12.043347+00:00
 -- url     : https://prove2.me/theorems/1711ead4-e38e-4d16-abcd-670fcf2b6b2c

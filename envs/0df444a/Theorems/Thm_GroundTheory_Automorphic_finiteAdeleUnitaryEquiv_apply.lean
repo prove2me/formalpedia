@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_finiteAdeleUnitaryEquiv_apply
 -- name    : GroundTheory.Automorphic.finiteAdeleUnitaryEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:48:52.973025+00:00
 -- url     : https://prove2.me/theorems/a042c013-043a-4aa2-bdef-aaf799be2df0

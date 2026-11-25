@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_Ext_L3_VecSplit_isIntegralLat_adjoin_iff__c3220d48d8b8
 -- name    : P2M_Formalism_HermitianLattices_Ext_L3_VecSplit_isIntegralLat_adjoin_iff__c3220d48d8b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:57:31.769962+00:00
 -- url     : https://prove2.me/theorems/2ec07ab8-4795-4423-b506-ba7facac84e0

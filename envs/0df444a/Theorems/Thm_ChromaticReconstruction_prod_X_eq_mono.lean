@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_prod_X_eq_mono
 -- name    : ChromaticReconstruction.prod_X_eq_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:40:26.550925+00:00
 -- url     : https://prove2.me/theorems/5a13269b-2f84-4b9e-bd7e-1b503610b746

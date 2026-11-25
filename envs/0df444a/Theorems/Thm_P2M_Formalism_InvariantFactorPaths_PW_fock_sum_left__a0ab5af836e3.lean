@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_PW_fock_sum_left__a0ab5af836e3
 -- name    : P2M_Formalism_InvariantFactorPaths_PW_fock_sum_left__a0ab5af836e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:59:05.061121+00:00
 -- url     : https://prove2.me/theorems/b45cdd53-9afb-42ca-af43-136d9fd6452c

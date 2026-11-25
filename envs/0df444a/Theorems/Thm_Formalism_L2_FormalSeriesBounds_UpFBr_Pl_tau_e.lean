@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_tau_e
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.tau_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:46:48.511821+00:00
 -- url     : https://prove2.me/theorems/76f70fe2-bdb2-4fcb-aacf-ce87b46c0887

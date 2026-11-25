@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_isOpen_stabilizer_ringOfIntegers
 -- name    : GroundTheory.Global.Cyclotomic.isOpen_stabilizer_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:44:08.725798+00:00
 -- url     : https://prove2.me/theorems/b1fb49ba-f4f9-4e5a-ae56-841d496599ec

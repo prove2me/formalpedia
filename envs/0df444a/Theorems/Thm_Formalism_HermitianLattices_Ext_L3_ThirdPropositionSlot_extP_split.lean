@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_ThirdPropositionSlot_extP_split
 -- name    : Formalism.HermitianLattices.Ext.L3.ThirdPropositionSlot.extP_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:21.32463+00:00
 -- url     : https://prove2.me/theorems/986adfd8-51d6-4e7f-aff2-9f2a97e41782

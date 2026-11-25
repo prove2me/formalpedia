@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_admitted_kFin_smooth
 -- name    : CompanionTheory.D.gk.admitted.kFin_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:21:32.703134+00:00
 -- url     : https://prove2.me/theorems/dfb5e4b9-9286-4268-b6a7-b324c2851b3b

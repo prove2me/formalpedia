@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitBAux_h_decomp
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitBAux.h_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:42:49.216628+00:00
 -- url     : https://prove2.me/theorems/aec00d5f-4082-4e72-8cff-ce91b1e83434

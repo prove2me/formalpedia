@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_exists_union_translates
 -- name    : GlobalTheory.SS.exists_union_translates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:51:31.873445+00:00
 -- url     : https://prove2.me/theorems/10360a6e-5715-40ce-8ba7-b7d63c9e54c4

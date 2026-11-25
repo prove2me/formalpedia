@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CayleyCapelli_prod_eq_capNat
 -- name    : GlobalTheory.CayleyCapelli.prod_eq_capNat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:38:09.254841+00:00
 -- url     : https://prove2.me/theorems/d15263ff-27b6-4cff-8cc9-b477da5854a9

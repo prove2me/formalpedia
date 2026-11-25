@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_Dop_commute_sum
 -- name    : Formalism.GM.gammaIntegralityLemmas.Dop_commute_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:23:13.775004+00:00
 -- url     : https://prove2.me/theorems/53699f37-2893-4ade-8445-bb4db5536140

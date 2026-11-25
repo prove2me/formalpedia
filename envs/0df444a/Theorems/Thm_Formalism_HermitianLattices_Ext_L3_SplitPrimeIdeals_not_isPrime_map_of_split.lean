@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_SplitPrimeIdeals_not_isPrime_map_of_split
 -- name    : Formalism.HermitianLattices.Ext.L3.SplitPrimeIdeals.not_isPrime_map_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:01.037326+00:00
 -- url     : https://prove2.me/theorems/d8c4cc8f-a7af-4dfa-9ecc-5cb9d8d0dd66

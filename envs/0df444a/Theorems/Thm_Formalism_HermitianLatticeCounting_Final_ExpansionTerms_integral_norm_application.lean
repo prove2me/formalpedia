@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_integral_norm_application
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.integral_norm_application
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:47.668272+00:00
 -- url     : https://prove2.me/theorems/482557a8-c18c-4ed8-b8d8-06cf30302bd6

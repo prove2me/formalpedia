@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_index_transport
 -- name    : Formalism.EigenvalueLevelCeiling.index_transport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:32:42.273436+00:00
 -- url     : https://prove2.me/theorems/e3185dc4-b784-44c7-aed1-49f540947c8c

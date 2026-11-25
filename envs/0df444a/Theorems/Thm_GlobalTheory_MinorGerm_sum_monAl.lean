@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_sum_monAl
 -- name    : GlobalTheory.MinorGerm.sum_monAl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:44:17.756281+00:00
 -- url     : https://prove2.me/theorems/e89afb89-4156-4786-92c9-4504eac8c3ca

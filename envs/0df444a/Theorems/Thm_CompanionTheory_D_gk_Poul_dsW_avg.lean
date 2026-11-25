@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_dsW_avg
 -- name    : CompanionTheory.D.gk.Poul.dsW_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:56.928563+00:00
 -- url     : https://prove2.me/theorems/10c74844-23d4-4d11-8037-842e87458b1d

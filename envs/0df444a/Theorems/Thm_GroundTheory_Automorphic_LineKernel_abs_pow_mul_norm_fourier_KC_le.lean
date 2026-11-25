@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_abs_pow_mul_norm_fourier_KC_le
 -- name    : GroundTheory.Automorphic.LineKernel.abs_pow_mul_norm_fourier_KC_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:32:32.536397+00:00
 -- url     : https://prove2.me/theorems/30c792be-a8ac-4945-a8d4-612b9dca9d5e

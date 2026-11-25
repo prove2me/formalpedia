@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActLimit_TendsS_const_zero
 -- name    : GlobalTheory.ActLimit.TendsS.const_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:16:16.330233+00:00
 -- url     : https://prove2.me/theorems/87cbedf3-7c53-4d62-a15a-f5b08fc2d4d6

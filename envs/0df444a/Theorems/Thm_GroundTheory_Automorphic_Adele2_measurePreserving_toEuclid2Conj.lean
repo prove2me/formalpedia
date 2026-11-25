@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_measurePreserving_toEuclid2Conj
 -- name    : GroundTheory.Automorphic.Adele2.measurePreserving_toEuclid2Conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:48:54.963867+00:00
 -- url     : https://prove2.me/theorems/3c870e93-2cb5-4ec7-adc5-5807c88c446e

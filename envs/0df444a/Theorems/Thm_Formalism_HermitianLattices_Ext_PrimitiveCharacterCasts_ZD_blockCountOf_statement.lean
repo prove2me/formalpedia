@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_ZD_blockCountOf_statement
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.ZD.blockCountOf_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:54.659532+00:00
 -- url     : https://prove2.me/theorems/d684fb2a-64c1-4337-9325-e94fed1598f9

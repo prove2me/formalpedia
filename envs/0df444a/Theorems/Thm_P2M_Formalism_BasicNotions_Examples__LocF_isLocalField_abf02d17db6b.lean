@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LocF_isLocalField_abf02d17db6b
 -- name    : P2M_Formalism_BasicNotions_Examples__LocF_isLocalField_abf02d17db6b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:40:53.8161+00:00
 -- url     : https://prove2.me/theorems/fa0f41b8-2081-47fa-b97d-4b8feca571c5

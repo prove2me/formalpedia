@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_extendToClosure_smul
 -- name    : GroundTheory.PAdicHodge.extendToClosure_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:29:25.246211+00:00
 -- url     : https://prove2.me/theorems/645fe9dc-4332-4fba-b58d-5de9b44a8c4e

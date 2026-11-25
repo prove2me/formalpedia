@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_semisimple_direct_sum
 -- name    : Formalism.GM.semisimple_direct_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:55:34.904567+00:00
 -- url     : https://prove2.me/theorems/48d3d952-1421-4a7a-98df-c731f8f17fde

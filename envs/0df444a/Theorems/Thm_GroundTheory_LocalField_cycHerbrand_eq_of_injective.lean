@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_cycHerbrand_eq_of_injective
 -- name    : GroundTheory.LocalField.cycHerbrand_eq_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:56.639634+00:00
 -- url     : https://prove2.me/theorems/ac6f63ba-8fbc-4e4a-a929-297abc053cc5

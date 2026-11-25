@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__div_rpow_le_inv_pow_11dc30a365ee
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__div_rpow_le_inv_pow_11dc30a365ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:59:15.148642+00:00
 -- url     : https://prove2.me/theorems/f1d1cc20-1ea6-4f53-8cf0-6ade2ddbdd6f

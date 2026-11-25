@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gauss_index_independent_of_choice
 -- name    : Formalism.FourierDecayAlt.P.gauss_index_independent_of_choice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:47.497022+00:00
 -- url     : https://prove2.me/theorems/500cf89d-61bb-4672-a42d-613e1264e31c

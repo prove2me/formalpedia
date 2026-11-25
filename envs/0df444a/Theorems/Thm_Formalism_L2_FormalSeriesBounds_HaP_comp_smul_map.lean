@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_HaP_comp_smul_map
 -- name    : Formalism.L2.FormalSeriesBounds.HaP.comp_smul_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:48:09.742125+00:00
 -- url     : https://prove2.me/theorems/59a263a2-437b-4b16-880a-3f4fd7ab2b8b

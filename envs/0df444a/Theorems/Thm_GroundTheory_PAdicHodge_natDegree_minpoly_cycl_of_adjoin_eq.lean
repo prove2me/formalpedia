@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_natDegree_minpoly_cycl_of_adjoin_eq
 -- name    : GroundTheory.PAdicHodge.natDegree_minpoly_cycl_of_adjoin_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:26.52006+00:00
 -- url     : https://prove2.me/theorems/2d964877-407f-424e-ac7e-e127afbe8df9

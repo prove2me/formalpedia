@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_TO_gam_eq
 -- name    : Formalism.CountingSumsFrames.TO.gam_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:35:22.401184+00:00
 -- url     : https://prove2.me/theorems/8c69d796-eeed-41ba-9a72-a3d1f5e10e95

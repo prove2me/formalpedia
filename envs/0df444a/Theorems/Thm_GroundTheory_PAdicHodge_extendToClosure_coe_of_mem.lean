@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_extendToClosure_coe_of_mem
 -- name    : GroundTheory.PAdicHodge.extendToClosure_coe_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:46:34.721124+00:00
 -- url     : https://prove2.me/theorems/4f48f502-3309-4292-9737-32abe6753b9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LegendreBounds_legendre_bounds
 -- name    : GlobalTheory.LegendreBounds.legendre_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:30:31.219711+00:00
 -- url     : https://prove2.me/theorems/de72e777-2a93-4482-b720-0b020a24041b

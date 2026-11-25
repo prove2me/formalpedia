@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_covolume_euclideanIdealLattice
 -- name    : GroundTheory.Global.covolume_euclideanIdealLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:23.486822+00:00
 -- url     : https://prove2.me/theorems/3bfc0314-53ad-4a1c-be86-f7d504117f65

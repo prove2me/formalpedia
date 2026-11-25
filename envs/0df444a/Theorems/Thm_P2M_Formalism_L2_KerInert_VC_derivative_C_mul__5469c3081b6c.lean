@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_KerInert_VC_derivative_C_mul__5469c3081b6c
 -- name    : P2M_Formalism_L2_KerInert_VC_derivative_C_mul__5469c3081b6c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:58:05.003807+00:00
 -- url     : https://prove2.me/theorems/78a802f1-799a-4262-aa93-0fc8b204a9a8

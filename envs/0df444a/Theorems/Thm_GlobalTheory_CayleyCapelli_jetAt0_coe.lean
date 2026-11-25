@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CayleyCapelli_jetAt0_coe
 -- name    : GlobalTheory.CayleyCapelli.jetAt0_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:37:55.644288+00:00
 -- url     : https://prove2.me/theorems/0e6e169d-7852-45a5-adbf-0beed911838e

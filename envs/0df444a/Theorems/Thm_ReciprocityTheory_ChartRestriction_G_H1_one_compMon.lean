@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_one_compMon
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.one_compMon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:45:59.071897+00:00
 -- url     : https://prove2.me/theorems/eeb0886f-6c39-409d-8ddf-b8141895f6a0

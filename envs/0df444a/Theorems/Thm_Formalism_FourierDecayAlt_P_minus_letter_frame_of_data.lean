@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_minus_letter_frame_of_data
 -- name    : Formalism.FourierDecayAlt.P.minus_letter_frame_of_data
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:59:51.735112+00:00
 -- url     : https://prove2.me/theorems/57446be4-5dd2-4442-9740-28ed0f1f2704

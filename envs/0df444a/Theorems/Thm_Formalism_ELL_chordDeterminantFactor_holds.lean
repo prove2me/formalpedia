@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ELL_chordDeterminantFactor_holds
 -- name    : Formalism.ELL.chordDeterminantFactor_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:23:10.645624+00:00
 -- url     : https://prove2.me/theorems/3b85b8f7-67e0-4b10-a528-149c971ebe3c

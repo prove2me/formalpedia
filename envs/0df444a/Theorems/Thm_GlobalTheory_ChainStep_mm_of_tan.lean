@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainStep_mm_of_tan
 -- name    : GlobalTheory.ChainStep.mm_of_tan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:39:21.031346+00:00
 -- url     : https://prove2.me/theorems/1d8fd6d2-2037-478a-8a62-49e881179cb0

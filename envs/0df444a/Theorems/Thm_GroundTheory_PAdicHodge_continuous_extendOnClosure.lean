@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_continuous_extendOnClosure
 -- name    : GroundTheory.PAdicHodge.continuous_extendOnClosure
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:25:21.606718+00:00
 -- url     : https://prove2.me/theorems/48d5357f-e4bd-4ef4-a8f4-65ffb71a7f58

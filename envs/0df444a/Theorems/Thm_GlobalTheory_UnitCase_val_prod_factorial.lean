@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_val_prod_factorial
 -- name    : GlobalTheory.UnitCase.val_prod_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:41:12.815848+00:00
 -- url     : https://prove2.me/theorems/8e249568-58ee-4826-8c51-4c21e5acb818

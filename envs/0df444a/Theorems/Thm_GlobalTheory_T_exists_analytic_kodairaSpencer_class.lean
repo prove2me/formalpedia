@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_analytic_kodairaSpencer_class
 -- name    : GlobalTheory.T.exists_analytic_kodairaSpencer_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:59:54.895795+00:00
 -- url     : https://prove2.me/theorems/5cec91af-429e-4f66-8dd1-73ad80d1091b

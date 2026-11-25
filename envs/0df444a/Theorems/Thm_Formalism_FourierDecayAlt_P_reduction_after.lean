@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_reduction_after
 -- name    : Formalism.FourierDecayAlt.P.reduction_after
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:22:37.691831+00:00
 -- url     : https://prove2.me/theorems/caf09c30-3f55-4b7b-a3e7-fee2cf24701c

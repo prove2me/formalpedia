@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_WeightedMeanLemmas_weighted_mean_lemma_ge
 -- name    : Formalism.LFunctionChainParameters.WeightedMeanLemmas.weighted_mean_lemma_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:49:11.126074+00:00
 -- url     : https://prove2.me/theorems/2d0efe54-dfd1-4b8e-87eb-3898ab5af29b

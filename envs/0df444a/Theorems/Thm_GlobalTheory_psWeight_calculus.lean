@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_psWeight_calculus
 -- name    : GlobalTheory.psWeight_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:34:21.283844+00:00
 -- url     : https://prove2.me/theorems/1bbc7d81-e749-40b7-a52a-91a0ccba943c

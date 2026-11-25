@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowProgramme_main
 -- name    : GlobalTheory.FlowProgramme.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:15:03.944722+00:00
 -- url     : https://prove2.me/theorems/1c9c42b7-099f-4843-8e05-6df1fe6fe161

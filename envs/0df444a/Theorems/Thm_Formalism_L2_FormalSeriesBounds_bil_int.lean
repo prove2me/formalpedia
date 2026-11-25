@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_bil_int
 -- name    : Formalism.L2.FormalSeriesBounds.bil_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:45:09.517324+00:00
 -- url     : https://prove2.me/theorems/daced944-013f-4b4d-bd05-81c5a3cc57a0

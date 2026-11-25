@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_eq_of_surjective_of_finite_ker
 -- name    : GroundTheory.Global.cycHerbrand_eq_of_surjective_of_finite_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:41:01.005706+00:00
 -- url     : https://prove2.me/theorems/007ddc77-e53e-4955-af63-6f7935998a1b

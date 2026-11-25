@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_mem_euclidLattice2
 -- name    : GroundTheory.Automorphic.Adele2.mem_euclidLattice2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:42:51.537801+00:00
 -- url     : https://prove2.me/theorems/169221ca-b38d-47ec-81a2-dafcb00b0c5f

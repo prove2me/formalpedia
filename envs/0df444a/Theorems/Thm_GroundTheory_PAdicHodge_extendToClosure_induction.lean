@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_extendToClosure_induction
 -- name    : GroundTheory.PAdicHodge.extendToClosure_induction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:32.973034+00:00
 -- url     : https://prove2.me/theorems/bd249d92-dcfe-4e11-bec7-b1882903b2e7

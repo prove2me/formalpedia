@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ax_lemma_of_natDegree
 -- name    : GroundTheory.PAdicHodge.ax_lemma_of_natDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:46:34.925555+00:00
 -- url     : https://prove2.me/theorems/743b8e58-021e-49b1-93f4-416dac8876ef

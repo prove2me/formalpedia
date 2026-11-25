@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_MapFB_constantCoeff_eval_single
 -- name    : Formalism.L2.FormalSeriesBounds.MapFB.constantCoeff_eval_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:49:09.804961+00:00
 -- url     : https://prove2.me/theorems/d60225a1-96ef-4cf4-8131-c646d6fd5669

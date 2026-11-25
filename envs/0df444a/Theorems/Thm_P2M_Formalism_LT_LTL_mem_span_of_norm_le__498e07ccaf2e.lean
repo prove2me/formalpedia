@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LT_LTL_mem_span_of_norm_le__498e07ccaf2e
 -- name    : P2M_Formalism_LT_LTL_mem_span_of_norm_le__498e07ccaf2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:58:37.894507+00:00
 -- url     : https://prove2.me/theorems/875b5e72-3a93-46af-a93f-884350559e8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_wThird_eq
 -- name    : Formalism.L2.Th1.A.Fgl1.wThird_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:37.181331+00:00
 -- url     : https://prove2.me/theorems/a496d0cb-516d-4439-b1f8-476411c2ed37

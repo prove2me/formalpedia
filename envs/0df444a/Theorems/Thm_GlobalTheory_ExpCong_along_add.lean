@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpCong_along_add
 -- name    : GlobalTheory.ExpCong.along_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:43:10.201818+00:00
 -- url     : https://prove2.me/theorems/7dfa1ca6-a21b-45c9-9151-9eabe0985a24

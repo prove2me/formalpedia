@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_LFunction_conj
 -- name    : Deduction.LFunction_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:19:53.387954+00:00
 -- url     : https://prove2.me/theorems/60709082-4a85-4b46-a507-527e376a5a3e

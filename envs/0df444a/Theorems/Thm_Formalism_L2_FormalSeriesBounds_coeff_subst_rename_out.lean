@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_subst_rename_out
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_subst_rename_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:46:01.088097+00:00
 -- url     : https://prove2.me/theorems/3535555d-6142-4c55-89de-9e3d24e9a293

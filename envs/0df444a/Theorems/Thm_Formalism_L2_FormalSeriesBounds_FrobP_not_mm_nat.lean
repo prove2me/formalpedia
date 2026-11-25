@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FrobP_not_mm_nat
 -- name    : Formalism.L2.FormalSeriesBounds.FrobP.not_mm_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:35:39.803804+00:00
 -- url     : https://prove2.me/theorems/9f68b48f-4ddc-418f-a87e-b52021eb9b07

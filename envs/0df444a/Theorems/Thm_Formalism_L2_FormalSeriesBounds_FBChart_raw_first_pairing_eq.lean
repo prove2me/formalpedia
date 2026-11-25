@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FBChart_raw_first_pairing_eq
 -- name    : Formalism.L2.FormalSeriesBounds.FBChart.raw_first_pairing_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:47:30.417196+00:00
 -- url     : https://prove2.me/theorems/ebf60966-e683-4597-ad9a-9f8b3b58a3bf

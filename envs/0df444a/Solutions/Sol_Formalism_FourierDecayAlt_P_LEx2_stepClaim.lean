@@ -1,0 +1,53 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.LEx2.stepClaim
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T01:05:25.162876+00:00
+-- url     : https://prove2.me/submissions/1894fad8-59af-432a-b0ad-d7d99e41ac18
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementLE
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ShiftBound
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DegreeOfProdLinearLe
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_WeightedL2BoundedMul
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Cauchy
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_Markov
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_DerivedCoefficientIntegrable
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_A_absorb
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_A_eFinite
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_A_energyStep
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_A_geomSum
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_A_shiftBound
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_A_stepClaimFromSteps_full
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_A_termBound
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_A_termZero
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_A_uniformBound
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_adj
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_coefIntegrable
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_csTerm
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_cutTheta
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_domConv
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_fatouStep
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_leibniz
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_markovTerm
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_thetaBound
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_thetaForm
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_thetaLimit
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_thetaRange
+import Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_thetaSmooth
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.LEx2
+open Formalism.FourierDecayAlt.LE
+namespace Formalism.FourierDecayAlt.P.LEx2
+theorem _root_.solution (hC : E.CauchyTheta) (hMV : E.MarkovVector) : StepClaim :=
+  A.stepClaimFromSteps_full hC hMV thetaForm thetaRange thetaSmooth thetaBound thetaLimit cutTheta
+    leibniz A.termZero coefIntegrable adj A.eFinite csTerm A.shiftBound markovTerm A.termBound
+    A.geomSum A.energyStep A.absorb A.uniformBound fatouStep domConv
+end Formalism.FourierDecayAlt.P.LEx2

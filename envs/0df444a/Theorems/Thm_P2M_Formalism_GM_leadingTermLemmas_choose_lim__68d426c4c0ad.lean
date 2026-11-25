@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_GM_leadingTermLemmas_choose_lim__68d426c4c0ad
 -- name    : P2M_Formalism_GM_leadingTermLemmas_choose_lim__68d426c4c0ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:21.057397+00:00
 -- url     : https://prove2.me/theorems/f4d279ea-af8e-4d81-bc04-1fa84b154f88

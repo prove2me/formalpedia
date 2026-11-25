@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_EtaleIntegralityFacts_Lim_ampLimit
 -- name    : Formalism.FourierDecayAlt.P.EtaleIntegralityFacts.Lim.ampLimit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:55:34.565971+00:00
 -- url     : https://prove2.me/theorems/9581e1b6-233b-46ba-8b1f-033e272fb852

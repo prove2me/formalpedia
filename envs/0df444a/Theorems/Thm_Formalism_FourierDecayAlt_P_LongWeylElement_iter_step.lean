@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_iter_step
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.iter_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:16:56.086299+00:00
 -- url     : https://prove2.me/theorems/fac972a4-c61e-4799-be7d-5a6b24a32c61

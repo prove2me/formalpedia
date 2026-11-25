@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LogVandermondeBounds_StandardLattice_castAdd_lt_castAdd_iff__4f24d2149f8c
 -- name    : P2M_Formalism_LogVandermondeBounds_StandardLattice_castAdd_lt_castAdd_iff__4f24d2149f8c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:58:38.914614+00:00
 -- url     : https://prove2.me/theorems/f7859b75-c955-4738-913e-96b3d58b7129

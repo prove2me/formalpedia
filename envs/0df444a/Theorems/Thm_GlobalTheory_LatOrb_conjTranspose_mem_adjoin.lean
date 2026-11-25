@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatOrb_conjTranspose_mem_adjoin
 -- name    : GlobalTheory.LatOrb.conjTranspose_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:33:50.023088+00:00
 -- url     : https://prove2.me/theorems/65ebb59d-11c3-44b3-b258-f2e3c3ca7638

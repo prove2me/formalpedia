@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LogVandermondeBounds_StandardLattice_castAdd_lt_natAdd__3ab05cecd610
 -- name    : P2M_Formalism_LogVandermondeBounds_StandardLattice_castAdd_lt_natAdd__3ab05cecd610
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:58:50.375545+00:00
 -- url     : https://prove2.me/theorems/6c2bb615-a875-43e1-97c2-f29756f36473

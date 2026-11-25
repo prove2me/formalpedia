@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_HaP_exists_clear
 -- name    : Formalism.L2.FormalSeriesBounds.HaP.exists_clear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:46:44.781856+00:00
 -- url     : https://prove2.me/theorems/460052ee-1deb-4f05-bf04-41da96a7dcde

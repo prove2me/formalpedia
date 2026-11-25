@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isRegularLocalRing_of_flat_of_map_eq_maximalIdeal
 -- name    : GlobalTheory.isRegularLocalRing_of_flat_of_map_eq_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:08:57.141251+00:00
 -- url     : https://prove2.me/theorems/50f2e23a-bddd-48f0-8fe1-d7301944694c

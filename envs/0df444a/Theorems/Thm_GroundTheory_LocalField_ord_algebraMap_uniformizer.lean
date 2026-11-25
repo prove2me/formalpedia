@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ord_algebraMap_uniformizer
 -- name    : GroundTheory.LocalField.ord_algebraMap_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:45:37.642925+00:00
 -- url     : https://prove2.me/theorems/99d61d95-5ffc-4d47-8f9c-c040b1920fab

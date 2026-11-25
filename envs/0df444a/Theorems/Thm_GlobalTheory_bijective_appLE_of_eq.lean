@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_appLE_of_eq
 -- name    : GlobalTheory.bijective_appLE_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:44:34.30222+00:00
 -- url     : https://prove2.me/theorems/18e2911c-8954-4c7f-aee9-045b276932d5

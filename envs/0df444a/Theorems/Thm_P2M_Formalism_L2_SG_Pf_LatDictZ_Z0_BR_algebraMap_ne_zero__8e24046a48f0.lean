@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_LatDictZ_Z0_BR_algebraMap_ne_zero__8e24046a48f0
 -- name    : P2M_Formalism_L2_SG_Pf_LatDictZ_Z0_BR_algebraMap_ne_zero__8e24046a48f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:57:58.976577+00:00
 -- url     : https://prove2.me/theorems/ddb50289-1b98-4f51-b93d-31f908b51132

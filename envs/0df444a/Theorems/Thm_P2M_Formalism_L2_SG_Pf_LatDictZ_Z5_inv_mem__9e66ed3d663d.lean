@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_LatDictZ_Z5_inv_mem__9e66ed3d663d
 -- name    : P2M_Formalism_L2_SG_Pf_LatDictZ_Z5_inv_mem__9e66ed3d663d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:57:23.574125+00:00
 -- url     : https://prove2.me/theorems/7fc4a09a-d5c2-475a-9599-5a48484c41c2

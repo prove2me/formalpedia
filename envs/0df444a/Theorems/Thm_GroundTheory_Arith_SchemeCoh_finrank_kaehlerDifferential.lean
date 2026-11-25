@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_finrank_kaehlerDifferential
 -- name    : GroundTheory.Arith.SchemeCoh.finrank_kaehlerDifferential
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:49:46.250695+00:00
 -- url     : https://prove2.me/theorems/50cba5fa-2ef8-4ba0-8edf-672991dd7f6c

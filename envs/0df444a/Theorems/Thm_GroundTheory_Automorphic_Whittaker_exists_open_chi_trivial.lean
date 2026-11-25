@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_open_chi_trivial
 -- name    : GroundTheory.Automorphic.Whittaker.exists_open_chi_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:41:31.165791+00:00
 -- url     : https://prove2.me/theorems/f87206f1-97fa-43ec-9ae3-f6995d42565b

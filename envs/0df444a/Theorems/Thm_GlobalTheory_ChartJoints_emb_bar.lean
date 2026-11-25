@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartJoints_emb_bar
 -- name    : GlobalTheory.ChartJoints.emb_bar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:44:45.778489+00:00
 -- url     : https://prove2.me/theorems/c4f0dde2-74f8-4241-b08b-480527527fb4

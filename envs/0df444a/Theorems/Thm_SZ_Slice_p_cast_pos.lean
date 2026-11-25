@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_p_cast_pos
 -- name    : SZ.Slice.p_cast_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:43:40.865502+00:00
 -- url     : https://prove2.me/theorems/56197da9-cbd9-42e6-8eb3-f27c4fb1d1c3

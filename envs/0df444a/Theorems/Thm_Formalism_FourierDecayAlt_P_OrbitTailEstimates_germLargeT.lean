@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrbitTailEstimates_germLargeT
 -- name    : Formalism.FourierDecayAlt.P.OrbitTailEstimates.germLargeT
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:26:48.691452+00:00
 -- url     : https://prove2.me/theorems/02a7a853-6021-4a3b-8ae3-d669ff54a032

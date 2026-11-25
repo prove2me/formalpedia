@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FBChart_chart_exp_constantCoeff
 -- name    : Formalism.L2.FormalSeriesBounds.FBChart.chart_exp_constantCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:38:27.647092+00:00
 -- url     : https://prove2.me/theorems/1595c1b2-9217-4ce0-9cef-c1696f6daae6

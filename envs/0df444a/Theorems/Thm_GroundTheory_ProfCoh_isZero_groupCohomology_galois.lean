@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isZero_groupCohomology_galois
 -- name    : GroundTheory.ProfCoh.isZero_groupCohomology_galois
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:52:50.980807+00:00
 -- url     : https://prove2.me/theorems/3232e8a3-c171-4baf-a387-904fa08b6974

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_seriesEval_subst
 -- name    : GroundTheory.PAdicHodge.seriesEval_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:47:37.419511+00:00
 -- url     : https://prove2.me/theorems/00c29385-965c-460a-8a31-032aef01d98a

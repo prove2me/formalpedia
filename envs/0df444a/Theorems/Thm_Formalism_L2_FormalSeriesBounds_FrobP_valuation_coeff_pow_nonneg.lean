@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FrobP_valuation_coeff_pow_nonneg
 -- name    : Formalism.L2.FormalSeriesBounds.FrobP.valuation_coeff_pow_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:35:56.247697+00:00
 -- url     : https://prove2.me/theorems/9ffdd22a-a7dc-4cd5-a099-8769207e1fb5

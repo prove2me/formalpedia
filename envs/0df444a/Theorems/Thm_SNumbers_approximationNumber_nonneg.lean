@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_nonneg
 -- name    : SNumbers.approximationNumber_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:42:42.950252+00:00
 -- url     : https://prove2.me/theorems/5a2d025d-e926-4fa2-8a01-4a8d0bba9ed2

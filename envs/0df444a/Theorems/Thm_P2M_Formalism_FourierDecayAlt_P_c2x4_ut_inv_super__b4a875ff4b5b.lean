@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_c2x4_ut_inv_super__b4a875ff4b5b
 -- name    : P2M_Formalism_FourierDecayAlt_P_c2x4_ut_inv_super__b4a875ff4b5b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:56:21.306214+00:00
 -- url     : https://prove2.me/theorems/f96e26de-fbbd-48b8-ba8d-18a64719f83d

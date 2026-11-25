@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_PullO_triple_restriction_injective
 -- name    : GlobalTheory.CompanionTheory.Axis.PullO.triple_restriction_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:39:23.978027+00:00
 -- url     : https://prove2.me/theorems/055d5c5e-2172-49e4-a209-c51eaad26766

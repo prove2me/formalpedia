@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacobian_order_monotone_semistableModel
 -- name    : GlobalTheory.T.jacobian_order_monotone_semistableModel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:05:10.424459+00:00
 -- url     : https://prove2.me/theorems/6656825d-0b79-49ed-b892-e07c4b4a5a78

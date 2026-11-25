@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_expIntegralBinomial__c14a18ad148f
 -- name    : P2M_Formalism_L2_Th1_C_expIntegralBinomial__c14a18ad148f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:24.179515+00:00
 -- url     : https://prove2.me/theorems/ac64d339-243a-4fac-b3bf-dc9d2c40ee3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_zetaQuasi_of
 -- name    : Formalism.L2.Th1.F.zetaQuasi_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:05:10.728114+00:00
 -- url     : https://prove2.me/theorems/56acca03-394b-48cb-b07a-ba47b9e81fdb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_big_cell_vanishing_of_commute__266cd2982839
 -- name    : P2M_Formalism_FourierDecayAlt_P_big_cell_vanishing_of_commute__266cd2982839
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:55:41.167978+00:00
 -- url     : https://prove2.me/theorems/8aad078a-0140-4bed-b861-59e157ed9b1d

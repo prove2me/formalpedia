@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockValue_OnlyIn_one
 -- name    : GlobalTheory.BlockValue.OnlyIn.one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:49:55.51964+00:00
 -- url     : https://prove2.me/theorems/14029a67-be7c-4b22-8945-707649811e1c

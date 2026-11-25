@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sum_compOf
 -- name    : ChromaticReconstruction.sum_compOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:30:21.315963+00:00
 -- url     : https://prove2.me/theorems/4b05e753-c42a-4816-9508-a01ff048b797

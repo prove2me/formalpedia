@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_isRegularLocalRing_of_quasiFinite
 -- name    : GlobalTheory.flat_of_isRegularLocalRing_of_quasiFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:22.852826+00:00
 -- url     : https://prove2.me/theorems/4321968c-a07b-4c44-82cf-4002afe9d5bd

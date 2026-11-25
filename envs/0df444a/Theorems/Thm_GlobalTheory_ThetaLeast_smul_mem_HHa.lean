@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaLeast_smul_mem_HHa
 -- name    : GlobalTheory.ThetaLeast.smul_mem_HHa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:49:01.916345+00:00
 -- url     : https://prove2.me/theorems/9329c008-2df7-45c2-82c7-f06f6b4a1735

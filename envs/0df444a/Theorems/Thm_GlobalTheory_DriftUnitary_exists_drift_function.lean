@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DriftUnitary_exists_drift_function
 -- name    : GlobalTheory.DriftUnitary.exists_drift_function
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:41:00.028212+00:00
 -- url     : https://prove2.me/theorems/65a12da3-6f31-4d4b-9645-73258d5ef8de

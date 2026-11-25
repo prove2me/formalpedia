@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_integral_rpow_div_log
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.integral_rpow_div_log
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:56.330656+00:00
 -- url     : https://prove2.me/theorems/1c608405-f9b2-44a9-bc08-0d78f640a28f

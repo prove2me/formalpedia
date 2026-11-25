@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_coboundary_lt
 -- name    : GlobalTheory.exists_coboundary_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:34:05.180905+00:00
 -- url     : https://prove2.me/theorems/55969fc0-3b71-4ff1-b868-a68f497ccc7b

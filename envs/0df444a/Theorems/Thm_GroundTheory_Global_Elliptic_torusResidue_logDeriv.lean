@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_torusResidue_logDeriv
 -- name    : GroundTheory.Global.Elliptic.torusResidue_logDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:28.128422+00:00
 -- url     : https://prove2.me/theorems/e21d6cd4-849b-4c44-9b91-d5f7e5bd7145

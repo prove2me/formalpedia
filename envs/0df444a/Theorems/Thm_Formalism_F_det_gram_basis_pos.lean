@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_det_gram_basis_pos
 -- name    : Formalism.F.det_gram_basis_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:10:55.183573+00:00
 -- url     : https://prove2.me/theorems/4f03c04c-d02a-44fe-80ff-5f86097412a5

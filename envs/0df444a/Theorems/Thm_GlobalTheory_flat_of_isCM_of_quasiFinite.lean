@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_isCM_of_quasiFinite
 -- name    : GlobalTheory.flat_of_isCM_of_quasiFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:56:10.896205+00:00
 -- url     : https://prove2.me/theorems/c7c2491a-fc87-49ba-b9ae-9a12cfcd1286

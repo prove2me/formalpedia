@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_EtaPartialSums_norm_G_sub_partial_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.norm_G_sub_partial_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:52:52.83471+00:00
 -- url     : https://prove2.me/theorems/bac9a58a-3532-4289-beaa-5200eb1ec73a

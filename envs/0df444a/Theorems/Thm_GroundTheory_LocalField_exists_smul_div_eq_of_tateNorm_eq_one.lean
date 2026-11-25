@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_smul_div_eq_of_tateNorm_eq_one
 -- name    : GroundTheory.LocalField.exists_smul_div_eq_of_tateNorm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:42.267009+00:00
 -- url     : https://prove2.me/theorems/7303ffd0-b742-43f7-ae4d-48ef73640f00

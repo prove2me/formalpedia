@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HopfSys_cechTripleRestrictComposite_injective_cohomology_forms
 -- name    : GlobalTheory.CompanionTheory.HopfSys.cechTripleRestrictComposite_injective_cohomology_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:36:13.388851+00:00
 -- url     : https://prove2.me/theorems/f5961386-2810-4b07-90d0-8e8ee3491686

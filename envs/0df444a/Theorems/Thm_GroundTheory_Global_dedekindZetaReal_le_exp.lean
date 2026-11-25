@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_dedekindZetaReal_le_exp
 -- name    : GroundTheory.Global.dedekindZetaReal_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:40:34.697742+00:00
 -- url     : https://prove2.me/theorems/fe8777a6-3c39-48bc-97a0-d0945850902d

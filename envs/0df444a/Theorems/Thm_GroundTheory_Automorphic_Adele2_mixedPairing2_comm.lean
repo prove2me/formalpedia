@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_mixedPairing2_comm
 -- name    : GroundTheory.Automorphic.Adele2.mixedPairing2_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:43:21.607918+00:00
 -- url     : https://prove2.me/theorems/1ea5b962-bae8-4a3b-8914-4e23b8a7c737

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_hermite_032dc7ca396f
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_hermite_032dc7ca396f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:54:07.525467+00:00
 -- url     : https://prove2.me/theorems/77fbd4a6-139d-4086-9f43-949e89286a97

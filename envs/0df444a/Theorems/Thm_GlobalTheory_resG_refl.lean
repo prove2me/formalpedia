@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_resG_refl
 -- name    : GlobalTheory.resG_refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:44:31.553614+00:00
 -- url     : https://prove2.me/theorems/a452e6fe-0a7d-4ec7-ae5f-6ca3a032865a

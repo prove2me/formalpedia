@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_IsSmForm_map_avg
 -- name    : CompanionTheory.D.gk.Poul.IsSmForm.map_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:31.733798+00:00
 -- url     : https://prove2.me/theorems/988b9c7d-6879-4ec2-9469-671111e6880d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_torsionKilledCriterion_holds
 -- name    : Formalism.CoboundaryTransfers.torsionKilledCriterion_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:32:51.11286+00:00
 -- url     : https://prove2.me/theorems/14fe9772-7971-4c3c-89a8-e50e149686ad

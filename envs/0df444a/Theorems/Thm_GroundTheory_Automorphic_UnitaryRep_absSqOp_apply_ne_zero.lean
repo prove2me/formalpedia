@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_absSqOp_apply_ne_zero
 -- name    : GroundTheory.Automorphic.UnitaryRep.absSqOp_apply_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:30:33.837803+00:00
 -- url     : https://prove2.me/theorems/4c0242e8-5215-43ff-a080-8cfd2ba627b0

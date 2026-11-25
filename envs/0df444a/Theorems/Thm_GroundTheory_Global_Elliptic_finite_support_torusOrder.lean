@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_finite_support_torusOrder
 -- name    : GroundTheory.Global.Elliptic.finite_support_torusOrder
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:25:43.61747+00:00
 -- url     : https://prove2.me/theorems/3b300c4a-1bd2-4480-b263-ade128f9af8d

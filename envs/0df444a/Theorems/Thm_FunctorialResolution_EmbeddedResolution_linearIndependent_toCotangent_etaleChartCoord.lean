@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_linearIndependent_toCotangent_etaleChartCoord
 -- name    : FunctorialResolution.EmbeddedResolution.linearIndependent_toCotangent_etaleChartCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:29:04.546272+00:00
 -- url     : https://prove2.me/theorems/14c1de62-a1ca-4f08-8d2f-f28817978d44

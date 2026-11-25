@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowParameters_sizeDataSmall
 -- name    : GlobalTheory.FlowParameters.sizeDataSmall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:33:02.416311+00:00
 -- url     : https://prove2.me/theorems/b94f37f4-30b8-4e14-9a9c-a23f357c2984

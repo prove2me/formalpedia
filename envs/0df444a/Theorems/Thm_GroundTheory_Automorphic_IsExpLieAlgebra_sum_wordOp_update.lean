@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_sum_wordOp_update
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.sum_wordOp_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:41:52.542779+00:00
 -- url     : https://prove2.me/theorems/fdeb8f3d-58c4-4bdf-b002-10db910718c9

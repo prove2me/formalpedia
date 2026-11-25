@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_tail_bound_mono
 -- name    : Newton.tail_bound_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:42:40.277485+00:00
 -- url     : https://prove2.me/theorems/ba1a7db0-6c10-4aac-8b7b-a7e0d97d56ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_rank_range_eq_and_degree_le
 -- name    : Formalism.HN.rank_range_eq_and_degree_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:32.308452+00:00
 -- url     : https://prove2.me/theorems/129b9a91-3dd4-4f5b-8f9a-d88dda24bc8e

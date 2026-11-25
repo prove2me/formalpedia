@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_intertwinerConjugation
 -- name    : Formalism.FourierDecayAlt.P.intertwinerConjugation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:56:22.924703+00:00
 -- url     : https://prove2.me/theorems/71f2fe69-68f3-40ba-af54-f2c6f90914b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowerSubst_subst_int_on_lower
 -- name    : GlobalTheory.LowerSubst.subst_int_on_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:34:31.032159+00:00
 -- url     : https://prove2.me/theorems/82f32e79-84ed-4401-ada7-5fbd95a766dd

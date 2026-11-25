@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_germToFunctionField_mem_range_stalk_of_secOn
 -- name    : GlobalTheory.germToFunctionField_mem_range_stalk_of_secOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:48:18.535802+00:00
 -- url     : https://prove2.me/theorems/622af867-2857-4fd9-85a4-dc01a2d67a3a

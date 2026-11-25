@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_hasDerivAt_line
 -- name    : GlobalTheory.ThetaGauss.hasDerivAt_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:43:52.616828+00:00
 -- url     : https://prove2.me/theorems/ace3636a-20ec-47a4-a069-f72fb8ee8a43

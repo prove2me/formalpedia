@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellDecomposition_bigCell_one_fixes_vector
 -- name    : Formalism.FourierDecayAlt.P.BigCellDecomposition.bigCell_one_fixes_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:37:37.438743+00:00
 -- url     : https://prove2.me/theorems/c1860e0f-6298-4eb9-a260-3b68fa6ded63

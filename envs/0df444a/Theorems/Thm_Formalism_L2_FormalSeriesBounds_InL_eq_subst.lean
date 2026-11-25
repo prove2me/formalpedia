@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_InL_eq_subst
 -- name    : Formalism.L2.FormalSeriesBounds.InL.eq_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:24:21.05742+00:00
 -- url     : https://prove2.me/theorems/0848f936-ba07-4e12-bddd-17bed1019257

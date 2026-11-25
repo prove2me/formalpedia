@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_polynomial_of_even_of_analyticAt_off_lattice
 -- name    : GroundTheory.Global.Elliptic.exists_polynomial_of_even_of_analyticAt_off_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:39:01.740545+00:00
 -- url     : https://prove2.me/theorems/e94a22dd-1430-4203-8c10-4672f51bf2a2

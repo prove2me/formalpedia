@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_ind_bot
 -- name    : GroundTheory.GroupCoh.tateAcyclic_ind_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:43:05.348803+00:00
 -- url     : https://prove2.me/theorems/a8aa0c88-963b-42a6-8b12-77d36e36b28c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TwoBlockPoint_Tsum_conj
 -- name    : Formalism.FourierDecayAlt.P.TwoBlockPoint.Tsum_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:40:13.267008+00:00
 -- url     : https://prove2.me/theorems/4e45c1a5-cea5-4cfd-b7bf-b13f0ef4015a

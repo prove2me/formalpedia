@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpCong_dmonOf_eq_along
 -- name    : GlobalTheory.ExpCong.dmonOf_eq_along
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:42:56.396131+00:00
 -- url     : https://prove2.me/theorems/f835f840-db58-4ea3-a6b3-5e47740fdc7a

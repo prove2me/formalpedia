@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_expTerm_mem
 -- name    : GroundTheory.LocalField.expTerm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:11:08.076418+00:00
 -- url     : https://prove2.me/theorems/47e4febf-c771-41bb-b846-c189c1c1241b

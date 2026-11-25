@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_rowDeg_of_mem
 -- name    : GlobalTheory.DiagBlock.rowDeg_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:46:46.858073+00:00
 -- url     : https://prove2.me/theorems/068647e7-726a-4948-bd16-afb00b6d4d4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_coeff_mem_of_local
 -- name    : Formalism.L2.LamCM.coeff_mem_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:39:30.226357+00:00
 -- url     : https://prove2.me/theorems/c8f803c1-7be8-4b4e-b357-ae0e8dd009c2

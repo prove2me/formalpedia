@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_emb2_zero
 -- name    : GroundTheory.Automorphic.Adele2.emb2_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:47:31.013095+00:00
 -- url     : https://prove2.me/theorems/6f5cf3af-f9d5-4ae9-afed-a80b510df8e7

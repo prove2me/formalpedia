@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_exists_apOp_sumSq_pow
 -- name    : GlobalTheory.HCA.exists_apOp_sumSq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:40:06.81564+00:00
 -- url     : https://prove2.me/theorems/d80cde04-f5a5-41b9-b7f8-6c301f357882

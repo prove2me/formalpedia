@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_wE_step2
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.wE_step2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:04.205022+00:00
 -- url     : https://prove2.me/theorems/99f20ec1-eb70-4ee9-ac20-5dd02d42366b

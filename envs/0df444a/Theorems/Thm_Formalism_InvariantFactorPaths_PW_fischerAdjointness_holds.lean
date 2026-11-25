@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_fischerAdjointness_holds
 -- name    : Formalism.InvariantFactorPaths.PW.fischerAdjointness_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:20:01.169135+00:00
 -- url     : https://prove2.me/theorems/5c704df2-9881-4b2a-b284-53c455a17251

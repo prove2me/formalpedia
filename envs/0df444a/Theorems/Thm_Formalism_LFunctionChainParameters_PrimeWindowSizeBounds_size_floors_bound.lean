@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_size_floors_bound
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.size_floors_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:35:52.701284+00:00
 -- url     : https://prove2.me/theorems/97c0244d-e296-4974-9eba-ddfc5d451a2b

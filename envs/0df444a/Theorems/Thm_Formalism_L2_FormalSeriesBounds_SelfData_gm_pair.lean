@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_SelfData_gm_pair
 -- name    : Formalism.L2.FormalSeriesBounds.SelfData.gm_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:46:30.445284+00:00
 -- url     : https://prove2.me/theorems/2832834e-08ce-4e09-ae13-615e7b21cceb

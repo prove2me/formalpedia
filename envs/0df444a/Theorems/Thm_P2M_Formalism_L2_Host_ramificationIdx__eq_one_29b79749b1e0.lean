@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Host_ramificationIdx__eq_one_29b79749b1e0
 -- name    : P2M_Formalism_L2_Host_ramificationIdx__eq_one_29b79749b1e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:58:09.437987+00:00
 -- url     : https://prove2.me/theorems/9393b5d3-f07e-4291-ad43-b109b42ae390

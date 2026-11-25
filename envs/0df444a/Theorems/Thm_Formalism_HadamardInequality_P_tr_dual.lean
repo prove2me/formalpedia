@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HadamardInequality_P_tr_dual
 -- name    : Formalism.HadamardInequality.P.tr_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:10:44.683681+00:00
 -- url     : https://prove2.me/theorems/c298e3d0-1b44-4b79-b43b-73012f414513

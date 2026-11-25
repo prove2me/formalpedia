@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MultiplicativeSeries_main
 -- name    : GlobalTheory.MultiplicativeSeries.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:48:56.761079+00:00
 -- url     : https://prove2.me/theorems/057e9e37-d418-4eca-94f3-2f4be5a44a27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_ordHom_smul
 -- name    : GroundTheory.ProfCoh.ordHom_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:14.52081+00:00
 -- url     : https://prove2.me/theorems/248b7bac-92b5-4d9b-acbb-7eb9e830fa31

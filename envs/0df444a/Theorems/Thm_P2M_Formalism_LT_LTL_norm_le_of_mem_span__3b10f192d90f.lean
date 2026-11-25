@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LT_LTL_norm_le_of_mem_span__3b10f192d90f
 -- name    : P2M_Formalism_LT_LTL_norm_le_of_mem_span__3b10f192d90f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:58:34.31691+00:00
 -- url     : https://prove2.me/theorems/9a54e1b8-b663-4253-9afc-5e64948a2a11

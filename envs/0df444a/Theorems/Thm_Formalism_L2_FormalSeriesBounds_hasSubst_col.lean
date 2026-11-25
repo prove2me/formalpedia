@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_hasSubst_col
 -- name    : Formalism.L2.FormalSeriesBounds.hasSubst_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:45:43.826914+00:00
 -- url     : https://prove2.me/theorems/1fb9c275-620e-4c7c-b8cc-1d13123cbfac

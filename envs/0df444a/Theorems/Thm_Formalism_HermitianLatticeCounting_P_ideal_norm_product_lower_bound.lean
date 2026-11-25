@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ideal_norm_product_lower_bound
 -- name    : Formalism.HermitianLatticeCounting.P.ideal_norm_product_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:36:55.810461+00:00
 -- url     : https://prove2.me/theorems/b6b84a73-7155-4ee5-a75c-fe76beb05b08

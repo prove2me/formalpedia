@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_detPowDiag
 -- name    : GlobalTheory.DiagBlock.detPowDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:48:06.073118+00:00
 -- url     : https://prove2.me/theorems/f8ae314a-a76b-4bad-b2af-bb57bdb64ab1

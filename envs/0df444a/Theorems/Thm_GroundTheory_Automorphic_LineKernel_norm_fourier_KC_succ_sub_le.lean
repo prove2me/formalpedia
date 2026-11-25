@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_norm_fourier_KC_succ_sub_le
 -- name    : GroundTheory.Automorphic.LineKernel.norm_fourier_KC_succ_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:12.131001+00:00
 -- url     : https://prove2.me/theorems/6c8dae01-c30a-4bae-839e-23be8293dc79

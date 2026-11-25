@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_jetAt0_monomial
 -- name    : GlobalTheory.UnitCase.jetAt0_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:40:08.214566+00:00
 -- url     : https://prove2.me/theorems/5873c26a-55cc-4fa5-88b5-e0d366f83745

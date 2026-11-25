@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_SemilocalBasisHermitianTwistDivisors_mem_loc_iff_span
 -- name    : Formalism.DivisionValues.SemilocalBasisHermitianTwistDivisors.mem_loc_iff_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:19:17.579927+00:00
 -- url     : https://prove2.me/theorems/aaecd97c-b643-40c6-bfa0-e3422fd374f4

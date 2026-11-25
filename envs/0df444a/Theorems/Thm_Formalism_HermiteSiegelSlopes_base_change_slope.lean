@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_base_change_slope
 -- name    : Formalism.HermiteSiegelSlopes.base_change_slope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:51.065953+00:00
 -- url     : https://prove2.me/theorems/06babf1a-1db6-4ff8-802f-87a81f67aaf5

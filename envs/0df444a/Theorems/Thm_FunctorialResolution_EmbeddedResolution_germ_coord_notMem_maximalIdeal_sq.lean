@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_germ_coord_notMem_maximalIdeal_sq
 -- name    : FunctorialResolution.EmbeddedResolution.germ_coord_notMem_maximalIdeal_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:45:55.093888+00:00
 -- url     : https://prove2.me/theorems/8876d92f-278e-488c-873a-c35b167325f7

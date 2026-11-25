@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primeMeanValue_characters_twist_integral_le
 -- name    : GlobalTheory.T.primeMeanValue_characters_twist_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:56:23.981544+00:00
 -- url     : https://prove2.me/theorems/6763b09f-0994-4850-a0df-d7bec2cf3c39

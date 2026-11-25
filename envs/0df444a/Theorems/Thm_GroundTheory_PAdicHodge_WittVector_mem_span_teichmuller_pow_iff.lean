@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittVector_mem_span_teichmuller_pow_iff
 -- name    : GroundTheory.PAdicHodge.WittVector.mem_span_teichmuller_pow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:45:37.081398+00:00
 -- url     : https://prove2.me/theorems/fcc1ddd6-810d-49b9-856a-a82cee9e3551

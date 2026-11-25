@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_LocAinf_isUnit_inclW___dfbc296eb1fb
 -- name    : P2M_Formalism_BasicNotions_LocAinf_isUnit_inclW___dfbc296eb1fb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:41:10.660224+00:00
 -- url     : https://prove2.me/theorems/2fe66e38-a5f4-4d6e-af5a-04ee58313b54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_InvariantFactorPaths_ColumnFamilies_qn_mem_otherWts__b7efafda174b
 -- name    : P2M_Formalism_InvariantFactorPaths_ColumnFamilies_qn_mem_otherWts__b7efafda174b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:56:45.859821+00:00
 -- url     : https://prove2.me/theorems/4b97587f-3317-4027-bc70-deae86cf631a

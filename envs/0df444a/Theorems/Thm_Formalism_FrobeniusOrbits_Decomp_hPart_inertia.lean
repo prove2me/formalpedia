@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Decomp_hPart_inertia
 -- name    : Formalism.FrobeniusOrbits.Decomp.hPart_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T14:11:32.222801+00:00
 -- url     : https://prove2.me/theorems/a48c8a21-a495-4567-8a06-d29d299d9cb1

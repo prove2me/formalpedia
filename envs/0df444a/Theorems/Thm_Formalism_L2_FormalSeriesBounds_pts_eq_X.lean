@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_pts_eq_X
 -- name    : Formalism.L2.FormalSeriesBounds.pts_eq_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:47:16.741724+00:00
 -- url     : https://prove2.me/theorems/0018cafe-00d2-4959-a0cc-7a54571cce0a

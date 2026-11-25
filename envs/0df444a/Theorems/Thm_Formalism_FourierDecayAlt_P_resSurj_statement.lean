@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_resSurj_statement
 -- name    : Formalism.FourierDecayAlt.P.resSurj_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:41:04.355849+00:00
 -- url     : https://prove2.me/theorems/129c331a-f69c-4475-9ba8-9a39d655a27a

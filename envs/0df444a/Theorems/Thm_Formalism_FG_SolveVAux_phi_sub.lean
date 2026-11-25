@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_SolveVAux_phi_sub
 -- name    : Formalism.FG.SolveVAux.phi_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:01.679984+00:00
 -- url     : https://prove2.me/theorems/0588da53-59e7-491b-9127-e03ebc11befa

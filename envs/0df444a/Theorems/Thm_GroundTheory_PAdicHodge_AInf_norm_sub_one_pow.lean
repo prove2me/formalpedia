@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_norm_sub_one_pow
 -- name    : GroundTheory.PAdicHodge.AInf.norm_sub_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:19.384469+00:00
 -- url     : https://prove2.me/theorems/6835aba0-9a22-4631-9590-4a5352ddeddc

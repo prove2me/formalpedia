@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_M_SSZ_int
 -- name    : Formalism.GM.M.SSZ_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:19:41.002328+00:00
 -- url     : https://prove2.me/theorems/56af9dfd-b4a2-4d4a-b02b-e166f6e3d52a

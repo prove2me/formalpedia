@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_natCast_mul_tmul
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.natCast_mul_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:35:57.613359+00:00
 -- url     : https://prove2.me/theorems/2d15857e-c9d8-42d7-a21b-0edbcf7888ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_integrated_compHom_subtype
 -- name    : GroundTheory.Automorphic.UnitaryRep.integrated_compHom_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:41:49.468843+00:00
 -- url     : https://prove2.me/theorems/54b541a6-2c8e-4286-a6fe-099d3d6c0ca5

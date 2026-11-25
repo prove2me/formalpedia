@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__minkowski_discriminant_ineq_412dc0b620e6
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__minkowski_discriminant_ineq_412dc0b620e6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:00:21.096338+00:00
 -- url     : https://prove2.me/theorems/1108467d-f6d4-460d-b5af-d04a62dc3829

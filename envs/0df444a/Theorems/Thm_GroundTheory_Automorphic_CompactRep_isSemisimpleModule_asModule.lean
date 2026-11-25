@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactRep_isSemisimpleModule_asModule
 -- name    : GroundTheory.Automorphic.CompactRep.isSemisimpleModule_asModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:23:29.141542+00:00
 -- url     : https://prove2.me/theorems/a7b5a6db-3f76-4c42-b8c6-3a5abbccc514

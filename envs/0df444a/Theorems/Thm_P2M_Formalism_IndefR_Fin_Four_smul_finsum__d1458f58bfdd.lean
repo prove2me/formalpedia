@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_IndefR_Fin_Four_smul_finsum__d1458f58bfdd
 -- name    : P2M_Formalism_IndefR_Fin_Four_smul_finsum__d1458f58bfdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:56:37.704945+00:00
 -- url     : https://prove2.me/theorems/c1e32eb8-fd78-4d73-9080-be62e2af6aed

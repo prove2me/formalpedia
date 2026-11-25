@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LipschitzTR_lipschitz
 -- name    : GlobalTheory.LipschitzTR.lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:12:57.793703+00:00
 -- url     : https://prove2.me/theorems/cd05d6f4-0d4d-49ad-ae02-2a653471a668

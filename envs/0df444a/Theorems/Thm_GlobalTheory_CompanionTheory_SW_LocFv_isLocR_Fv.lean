@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LocFv_isLocR_Fv
 -- name    : GlobalTheory.CompanionTheory.SW.LocFv.isLocR_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:05:30.553439+00:00
 -- url     : https://prove2.me/theorems/f63a1520-7e8e-47a8-a9c9-1757fc955d10

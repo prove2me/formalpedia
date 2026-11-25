@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__PlacesToy_intValuation_conjW_50932005530f
 -- name    : P2M_Formalism_BasicNotions_Examples__PlacesToy_intValuation_conjW_50932005530f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:53:08.454471+00:00
 -- url     : https://prove2.me/theorems/47a8738d-559b-4f7b-8393-fbfc6499e66c

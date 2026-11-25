@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExtensionCharacter_exists_extension_character
 -- name    : GlobalTheory.ExtensionCharacter.exists_extension_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:46:23.185044+00:00
 -- url     : https://prove2.me/theorems/3632309d-43be-4733-a971-8740921c8b71

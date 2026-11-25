@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_rightDerivEnd_mul_leftTranslateEnd
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.rightDerivEnd_mul_leftTranslateEnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:39:49.530823+00:00
 -- url     : https://prove2.me/theorems/36ace509-a182-4d26-ad8d-36adf18510ab

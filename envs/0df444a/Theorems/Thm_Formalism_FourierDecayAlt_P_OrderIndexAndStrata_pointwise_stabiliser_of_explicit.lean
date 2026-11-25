@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_OrderIndexAndStrata_pointwise_stabiliser_of_explicit
 -- name    : Formalism.FourierDecayAlt.P.OrderIndexAndStrata.pointwise_stabiliser_of_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:29:49.941316+00:00
 -- url     : https://prove2.me/theorems/137c9e1a-75ce-4c5d-b5a5-874c763863ec

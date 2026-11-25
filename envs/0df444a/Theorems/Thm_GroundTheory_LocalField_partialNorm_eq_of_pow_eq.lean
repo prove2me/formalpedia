@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_partialNorm_eq_of_pow_eq
 -- name    : GroundTheory.LocalField.partialNorm_eq_of_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:01.144358+00:00
 -- url     : https://prove2.me/theorems/ffa52651-c200-4c19-a75a-bfbde357fdcb

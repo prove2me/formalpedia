@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_simpleOverStableSubmodule_piTensor
 -- name    : GlobalTheory.T.simpleOverStableSubmodule_piTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:58:14.041836+00:00
 -- url     : https://prove2.me/theorems/1a8bdf41-ca6f-4bc4-823c-d7ec6ab5b912

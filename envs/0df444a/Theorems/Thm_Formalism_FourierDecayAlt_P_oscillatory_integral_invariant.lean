@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_oscillatory_integral_invariant
 -- name    : Formalism.FourierDecayAlt.P.oscillatory_integral_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:05:47.792731+00:00
 -- url     : https://prove2.me/theorems/2011b3de-4bb4-454f-aa4c-a6741f12b5ca

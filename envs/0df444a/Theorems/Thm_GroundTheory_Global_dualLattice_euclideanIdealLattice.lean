@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_dualLattice_euclideanIdealLattice
 -- name    : GroundTheory.Global.dualLattice_euclideanIdealLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:40:48.87957+00:00
 -- url     : https://prove2.me/theorems/1489abb3-42a7-415c-8473-35b1a14fbdc4

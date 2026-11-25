@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isLocalization_integer
 -- name    : GroundTheory.LocalField.isLocalization_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:43:58.580901+00:00
 -- url     : https://prove2.me/theorems/f08f044a-20e7-4b03-b560-c862581f0718

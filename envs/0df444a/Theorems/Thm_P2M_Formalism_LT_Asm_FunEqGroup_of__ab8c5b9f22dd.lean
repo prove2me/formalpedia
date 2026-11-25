@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LT_Asm_FunEqGroup_of__ab8c5b9f22dd
 -- name    : P2M_Formalism_LT_Asm_FunEqGroup_of__ab8c5b9f22dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:58:34.469837+00:00
 -- url     : https://prove2.me/theorems/575e31f5-61c0-4c4a-94e0-80244d51b8ce

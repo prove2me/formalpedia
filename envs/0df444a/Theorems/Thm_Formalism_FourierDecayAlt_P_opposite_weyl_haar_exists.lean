@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_opposite_weyl_haar_exists
 -- name    : Formalism.FourierDecayAlt.P.opposite_weyl_haar_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:53:22.878726+00:00
 -- url     : https://prove2.me/theorems/eba1b8c4-48e6-4d56-a6b3-36967559aee0

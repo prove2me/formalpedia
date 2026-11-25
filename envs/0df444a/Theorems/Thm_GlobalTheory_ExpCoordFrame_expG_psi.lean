@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpCoordFrame_expG_psi
 -- name    : GlobalTheory.ExpCoordFrame.expG_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:47:16.052845+00:00
 -- url     : https://prove2.me/theorems/e477d05a-3eeb-44ab-a9c9-120062c9d29d

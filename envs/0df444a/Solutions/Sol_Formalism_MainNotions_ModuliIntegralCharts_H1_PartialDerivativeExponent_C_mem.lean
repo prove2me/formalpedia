@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.MainNotions.ModuliIntegralCharts.H1.PartialDerivativeExponent.C_mem
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T01:05:20.570466+00:00
+-- url     : https://prove2.me/submissions/1efaba8f-bd5e-4b92-81df-706b37a7a9dc
+
+import Mathlib
+import Definitions.Def_Formalism_SharpRestriction_Divisibility_GeneratorPowers_PartialDerivativeExponent
+import Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PartialDerivativeExponent_mem_subV
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option autoImplicit false
+noncomputable section
+open Formalism Formalism.MainNotions Formalism.MainNotions.ModuliIntegralCharts Formalism.MainNotions.ModuliIntegralCharts.H1 Formalism.MainNotions.ModuliIntegralCharts.H1.PartialDerivativeExponent
+open MvPowerSeries
+variable {σ : Type}
+variable {k : Type} [CommRing k]
+namespace Formalism.MainNotions.ModuliIntegralCharts.H1.PartialDerivativeExponent
+theorem _root_.solution (V : Set σ) (r : k) : (C r : MvPowerSeries σ k) ∈ subV k V := by
+  classical
+  rw [mem_subV]
+  intro e he j hj
+  have e0 : e = 0 := by
+    by_contra h
+    exact he (by simp [coeff_C, h])
+  subst e0
+  simp at hj
+end Formalism.MainNotions.ModuliIntegralCharts.H1.PartialDerivativeExponent

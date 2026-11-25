@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CayleyCapelli_pair_diffOp
 -- name    : GlobalTheory.CayleyCapelli.pair_diffOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:38:36.178811+00:00
 -- url     : https://prove2.me/theorems/953508d8-b9cf-47d1-9454-7a5e0ad18821

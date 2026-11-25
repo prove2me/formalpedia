@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Cmp_Fib_cls_surj
 -- name    : Formalism.L2.G.Cmp.Fib.cls_surj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:50:56.80452+00:00
 -- url     : https://prove2.me/theorems/53f2b26c-ff2c-4d9b-a789-c53a6badcbbf

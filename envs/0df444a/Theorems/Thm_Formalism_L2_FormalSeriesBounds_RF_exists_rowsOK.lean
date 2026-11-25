@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_exists_rowsOK
 -- name    : Formalism.L2.FormalSeriesBounds.RF.exists_rowsOK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:46:56.10857+00:00
 -- url     : https://prove2.me/theorems/d692b1fe-3250-4ac8-8ea0-2c76fce22c58

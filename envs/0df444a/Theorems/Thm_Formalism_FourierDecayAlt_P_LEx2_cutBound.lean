@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LEx2_cutBound
 -- name    : Formalism.FourierDecayAlt.P.LEx2.cutBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T22:02:55.833317+00:00
 -- url     : https://prove2.me/theorems/8e15fad7-bc79-4fd3-b7f7-a9b967286fb7

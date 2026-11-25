@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbelianExp_exists_holUnif
 -- name    : GlobalTheory.AbelianExp.exists_holUnif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:29:56.203445+00:00
 -- url     : https://prove2.me/theorems/e7b091a6-f7f9-45fc-a02e-ae244173e58d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MeanBoundsLimits_meanSplit_ok
 -- name    : Formalism.FourierDecayAlt.P.MeanBoundsLimits.meanSplit_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:26:04.352541+00:00
 -- url     : https://prove2.me/theorems/a29bfe7a-1641-4ac0-8083-6077fc068d90

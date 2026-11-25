@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_emb_eq
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.emb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:45:30.168527+00:00
 -- url     : https://prove2.me/theorems/617ca1ac-3cd3-429f-b258-9cbf99b5fa6b

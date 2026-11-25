@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainCoord_ord_C_mul
 -- name    : GlobalTheory.ChainCoord.ord_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:38:52.323034+00:00
 -- url     : https://prove2.me/theorems/cec5d948-89a5-4bdd-8c4d-6ad5aec217f0

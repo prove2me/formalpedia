@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainCoord_ord_sum
 -- name    : GlobalTheory.ChainCoord.ord_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:37:23.6151+00:00
 -- url     : https://prove2.me/theorems/1a33d7b1-0836-4c0b-96fa-cf5cd0c3fdff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_res_of_eq_bot
 -- name    : GlobalTheory.bijective_res_of_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:44:06.031654+00:00
 -- url     : https://prove2.me/theorems/be07cb36-9ffa-48eb-a32d-5b7ed34d595f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_powAdjoin_succ_eq_top
 -- name    : GroundTheory.Arith.Abelian.powAdjoin_succ_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:48:38.241849+00:00
 -- url     : https://prove2.me/theorems/79a9d108-b9db-4255-9dce-68c3f1d4b72c

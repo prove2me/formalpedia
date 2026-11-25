@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EpOpEvalPoly
 -- name    : EpOpEvalPoly
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:48:39.964036+00:00
 -- url     : https://prove2.me/theorems/4658812b-f0c8-4d3f-a97c-e13fea54b516

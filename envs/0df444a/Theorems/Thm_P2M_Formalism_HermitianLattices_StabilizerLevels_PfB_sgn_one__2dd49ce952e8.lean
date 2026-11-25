@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HermitianLattices_StabilizerLevels_PfB_sgn_one__2dd49ce952e8
 -- name    : P2M_Formalism_HermitianLattices_StabilizerLevels_PfB_sgn_one__2dd49ce952e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:58:58.661259+00:00
 -- url     : https://prove2.me/theorems/9dc31d98-cd2c-4d96-b19d-6b6aa9b58c3d

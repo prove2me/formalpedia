@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_norm_eq_prod_algHom_of_card
 -- name    : GlobalTheory.algebraMap_norm_eq_prod_algHom_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:17:29.455451+00:00
 -- url     : https://prove2.me/theorems/0ca85f96-829a-4906-bb77-768729dce463

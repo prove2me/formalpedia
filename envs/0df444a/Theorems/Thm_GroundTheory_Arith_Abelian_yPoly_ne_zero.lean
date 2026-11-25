@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_yPoly_ne_zero
 -- name    : GroundTheory.Arith.Abelian.yPoly_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:40:33.876938+00:00
 -- url     : https://prove2.me/theorems/f8068aab-e39e-40ea-8511-440cf689979f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__fg_of_orthonormal_basis_b96de8b44bc5
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__fg_of_orthonormal_basis_b96de8b44bc5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:59:50.320988+00:00
 -- url     : https://prove2.me/theorems/5bd96018-393a-4c0e-b03e-38304383a68a

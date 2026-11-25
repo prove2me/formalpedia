@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_exists_isRegularParameterSystem_with_coords_of_mem_prime
 -- name    : FunctorialResolution.EmbeddedResolution.exists_isRegularParameterSystem_with_coords_of_mem_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:30:16.008846+00:00
 -- url     : https://prove2.me/theorems/4cddf28c-60f7-45d8-9d8b-79221922bf6d

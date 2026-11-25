@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_fk_eta_lim
 -- name    : Formalism.GM.leadingTermLemmas.fk_eta_lim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:25:18.417018+00:00
 -- url     : https://prove2.me/theorems/1b05d770-a9da-4313-8347-f11d14156c2b

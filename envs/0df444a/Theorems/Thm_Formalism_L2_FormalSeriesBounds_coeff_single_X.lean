@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_single_X
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_single_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:46:12.674683+00:00
 -- url     : https://prove2.me/theorems/fff19688-f610-4e09-8c99-d2d2f369ebb0

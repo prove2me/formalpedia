@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_isPull_comp
 -- name    : GlobalTheory.CechDR.isPull_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:25:24.043099+00:00
 -- url     : https://prove2.me/theorems/f8fe382f-a3ff-4a75-86d0-4cc98c40b7bf

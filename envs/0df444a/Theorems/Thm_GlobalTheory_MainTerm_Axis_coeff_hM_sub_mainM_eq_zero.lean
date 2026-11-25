@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_Axis_coeff_hM_sub_mainM_eq_zero
 -- name    : GlobalTheory.MainTerm.Axis.coeff_hM_sub_mainM_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:33:35.344809+00:00
 -- url     : https://prove2.me/theorems/0a047d83-a5b4-46b5-825a-0bc2eb8ad714

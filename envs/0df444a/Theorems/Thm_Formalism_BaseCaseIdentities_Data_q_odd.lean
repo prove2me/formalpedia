@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_q_odd
 -- name    : Formalism.BaseCaseIdentities.Data.q_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:38:10.145902+00:00
 -- url     : https://prove2.me/theorems/f8b69e4b-599c-49ac-a74d-f5ad2b8a05fb

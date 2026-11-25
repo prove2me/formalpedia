@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__finrank_orthonormal_plane_eq_two_4d6f147f5377
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__finrank_orthonormal_plane_eq_two_4d6f147f5377
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:00:06.968697+00:00
 -- url     : https://prove2.me/theorems/76f32bb9-6d61-418d-84a6-1a9d557bb147

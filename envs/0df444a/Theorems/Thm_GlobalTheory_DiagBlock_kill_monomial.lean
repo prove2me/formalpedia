@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_kill_monomial
 -- name    : GlobalTheory.DiagBlock.kill_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:15.610092+00:00
 -- url     : https://prove2.me/theorems/3bdd8d75-0a9d-47d5-8fb8-ac02b7751480

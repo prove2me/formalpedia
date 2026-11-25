@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_TwoByOneBlock__b_push_ea8e063f042e
 -- name    : P2M_Formalism_FourierDecayAlt_P_TwoByOneBlock__b_push_ea8e063f042e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:56:48.425027+00:00
 -- url     : https://prove2.me/theorems/8f9985cd-2494-4c34-b976-e27e8e932c63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NablaExpConj_liftX_mul
 -- name    : GlobalTheory.NablaExpConj.liftX_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:36:45.438462+00:00
 -- url     : https://prove2.me/theorems/cd7d5ee2-09ab-4439-a9d2-a6144becb185

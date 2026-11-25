@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_logOf_inv_inertiaFactor
 -- name    : GroundTheory.Global.logOf_inv_inertiaFactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:42:35.102897+00:00
 -- url     : https://prove2.me/theorems/2cec728d-e834-4226-bfdb-2d217bf4e091

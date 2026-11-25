@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagBlock_restrictMul
 -- name    : GlobalTheory.DiagBlock.restrictMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:41.569905+00:00
 -- url     : https://prove2.me/theorems/05e101ca-3bc8-4e08-babc-66612bdcc4bc

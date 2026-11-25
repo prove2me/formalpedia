@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_isClosed_normOneSubgroup
 -- name    : GroundTheory.Global.IdeleGroup.isClosed_normOneSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:14:26.600898+00:00
 -- url     : https://prove2.me/theorems/905749e1-0c59-4eed-a6c7-ea9ea6b34e8b

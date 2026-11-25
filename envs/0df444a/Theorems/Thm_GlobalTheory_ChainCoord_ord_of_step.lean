@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainCoord_ord_of_step
 -- name    : GlobalTheory.ChainCoord.ord_of_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:38:43.768553+00:00
 -- url     : https://prove2.me/theorems/980fbe83-7f3a-4163-9b82-1802fec030b9

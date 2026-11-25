@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetPairingBound_sum_eq_of_mem_support
 -- name    : GlobalTheory.DetPairingBound.sum_eq_of_mem_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:38:54.153803+00:00
 -- url     : https://prove2.me/theorems/5509d03a-6d49-4bb1-a7c3-faac51c69b5f

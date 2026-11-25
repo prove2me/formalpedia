@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_exists_short_independent_rows
 -- name    : GlobalTheory.SW.exists_short_independent_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:06:14.373238+00:00
 -- url     : https://prove2.me/theorems/935bcad1-96fd-4c53-8642-61de36c25d8b

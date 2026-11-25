@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Fin_Four_tfun_add
 -- name    : Formalism.IndefR.Fin.Four.tfun_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:12:43.634568+00:00
 -- url     : https://prove2.me/theorems/0b1c8798-c945-4863-98d7-2e0fe3e8031a

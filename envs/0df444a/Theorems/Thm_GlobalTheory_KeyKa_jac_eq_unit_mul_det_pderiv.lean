@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyKa_jac_eq_unit_mul_det_pderiv
 -- name    : GlobalTheory.KeyKa.jac_eq_unit_mul_det_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:34.764853+00:00
 -- url     : https://prove2.me/theorems/79019a31-c680-4281-a856-b20f1a46eab5

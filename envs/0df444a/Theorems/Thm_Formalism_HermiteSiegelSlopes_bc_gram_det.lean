@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermiteSiegelSlopes_bc_gram_det
 -- name    : Formalism.HermiteSiegelSlopes.bc_gram_det
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:53.826406+00:00
 -- url     : https://prove2.me/theorems/64e27076-67d1-482a-97ac-b0d609bf4413

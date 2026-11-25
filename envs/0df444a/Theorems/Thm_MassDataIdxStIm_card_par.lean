@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxStIm_card_par
 -- name    : MassDataIdxStIm.card_par
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:59:13.228052+00:00
 -- url     : https://prove2.me/theorems/e402cc2b-ea03-4cbd-a16e-dc5bd5a71019

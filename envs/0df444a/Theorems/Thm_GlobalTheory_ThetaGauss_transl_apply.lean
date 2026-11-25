@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_transl_apply
 -- name    : GlobalTheory.ThetaGauss.transl_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:43:43.264034+00:00
 -- url     : https://prove2.me/theorems/3ef7c124-c1b5-4301-9574-eb99006ca417

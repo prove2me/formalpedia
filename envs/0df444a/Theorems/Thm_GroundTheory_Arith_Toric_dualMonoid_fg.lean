@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_dualMonoid_fg
 -- name    : GroundTheory.Arith.Toric.dualMonoid_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:54.375802+00:00
 -- url     : https://prove2.me/theorems/24348f5e-fb50-418a-bd2c-23a78fa07ec0

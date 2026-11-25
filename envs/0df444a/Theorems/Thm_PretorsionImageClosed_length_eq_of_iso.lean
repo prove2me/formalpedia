@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_length_eq_of_iso
 -- name    : PretorsionImageClosed.length_eq_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:30:35.333515+00:00
 -- url     : https://prove2.me/theorems/d8a8dc23-2487-4550-9d58-654dae2f0db8

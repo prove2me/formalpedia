@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_SolveVAux_low_subst_sub
 -- name    : Formalism.FG.SolveVAux.low_subst_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:14.953528+00:00
 -- url     : https://prove2.me/theorems/d1c1ce06-e59a-43d4-a93e-36639bd59d04

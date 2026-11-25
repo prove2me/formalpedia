@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_section_eq_zero_of_forall_geometric_point
 -- name    : GlobalTheory.section_eq_zero_of_forall_geometric_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:49:19.085865+00:00
 -- url     : https://prove2.me/theorems/594ebe83-ebb1-4427-beed-ee7b698f3be3

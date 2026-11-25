@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_F_WeierstrassZetaQuasiPeriod_wEta____42cf7b73a011
 -- name    : P2M_Formalism_L2_Th1_F_WeierstrassZetaQuasiPeriod_wEta____42cf7b73a011
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:24.837706+00:00
 -- url     : https://prove2.me/theorems/3b2c62be-ccbd-40ce-9842-2d60da369744

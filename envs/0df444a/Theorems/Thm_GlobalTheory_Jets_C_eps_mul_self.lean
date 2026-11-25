@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Jets_C_eps_mul_self
 -- name    : GlobalTheory.Jets.C_eps_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:49:50.636152+00:00
 -- url     : https://prove2.me/theorems/6f89b6b1-b60b-4624-97da-48557efe6f4d

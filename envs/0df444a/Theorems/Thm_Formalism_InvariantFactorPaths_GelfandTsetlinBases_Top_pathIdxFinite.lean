@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_pathIdxFinite
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.pathIdxFinite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:15:39.490445+00:00
 -- url     : https://prove2.me/theorems/c112c3bb-5dda-4110-8d1d-ea3d0abab227

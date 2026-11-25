@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_localization_atPrime_of_isCM
 -- name    : GlobalTheory.flat_localization_atPrime_of_isCM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:05.675609+00:00
 -- url     : https://prove2.me/theorems/5680679d-7928-47ef-bcb1-5daf54f549ed

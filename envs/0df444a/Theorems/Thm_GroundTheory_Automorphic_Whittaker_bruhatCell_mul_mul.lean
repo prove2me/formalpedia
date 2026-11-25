@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_bruhatCell_mul_mul
 -- name    : GroundTheory.Automorphic.Whittaker.bruhatCell_mul_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:40:54.574207+00:00
 -- url     : https://prove2.me/theorems/dcc2d46b-0b96-41b3-9825-6166bb009f07

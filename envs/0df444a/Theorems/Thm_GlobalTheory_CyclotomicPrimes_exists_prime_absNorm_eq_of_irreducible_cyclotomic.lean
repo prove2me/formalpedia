@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CyclotomicPrimes_exists_prime_absNorm_eq_of_irreducible_cyclotomic
 -- name    : GlobalTheory.CyclotomicPrimes.exists_prime_absNorm_eq_of_irreducible_cyclotomic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:36:57.605201+00:00
 -- url     : https://prove2.me/theorems/29e0b71b-b32b-43a5-805d-17f1b9ae6df1

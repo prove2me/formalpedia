@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_Hpk_mulVec
 -- name    : NFOne.Hpk_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:37:07.302797+00:00
 -- url     : https://prove2.me/theorems/18e34c78-f4fa-4448-ba1d-6dd2679f0e1c

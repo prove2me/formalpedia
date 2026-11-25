@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_subst_linO__ed8c3b4cc9e5
 -- name    : P2M_Formalism_L2_Th1_D_TranslateJetMomentLawAnyIdempotentLevel_subst_linO__ed8c3b4cc9e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:48.479612+00:00
 -- url     : https://prove2.me/theorems/70529992-8de8-49a1-a629-395796de8b58

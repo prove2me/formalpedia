@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_compSets_pair
 -- name    : ChromaticReconstruction.compSets_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:30:18.458208+00:00
 -- url     : https://prove2.me/theorems/ff95549d-ddbc-4368-83d3-f657671e5571

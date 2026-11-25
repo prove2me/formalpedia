@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_scale1__403e671ab8fd
 -- name    : P2M_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_scale1__403e671ab8fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:58:44.958278+00:00
 -- url     : https://prove2.me/theorems/169520bb-f591-4680-8942-a27fa4dab678

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_covol_pos_of_discrete
 -- name    : Formalism.F.covol_pos_of_discrete
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:21:55.941645+00:00
 -- url     : https://prove2.me/theorems/7b4476ba-c6f0-46c6-b275-53e3d3d71168

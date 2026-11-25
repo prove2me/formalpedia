@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_colour_endA
 -- name    : Galvin.colour_endA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:49:21.809467+00:00
 -- url     : https://prove2.me/theorems/d3918ac4-0678-47c9-b7bf-8efeed9d4836

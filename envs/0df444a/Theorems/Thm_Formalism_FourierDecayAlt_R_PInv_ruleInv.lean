@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_R_PInv_ruleInv
 -- name    : Formalism.FourierDecayAlt.R.PInv.ruleInv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:03:46.161909+00:00
 -- url     : https://prove2.me/theorems/56184c90-39e5-4d3c-85ed-c968a951ed73

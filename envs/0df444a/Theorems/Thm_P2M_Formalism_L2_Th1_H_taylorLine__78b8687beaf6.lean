@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_H_taylorLine__78b8687beaf6
 -- name    : P2M_Formalism_L2_Th1_H_taylorLine__78b8687beaf6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:59:03.303221+00:00
 -- url     : https://prove2.me/theorems/03ad8e07-2aed-4832-bb6f-28b95b6fc507

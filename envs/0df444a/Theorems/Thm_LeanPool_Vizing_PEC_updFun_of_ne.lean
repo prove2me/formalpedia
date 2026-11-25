@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeanPool_Vizing_PEC_updFun_of_ne
 -- name    : LeanPool.Vizing.PEC.updFun_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:46:15.135582+00:00
 -- url     : https://prove2.me/theorems/4277e740-40b6-433d-8a91-70ef87a78ba5

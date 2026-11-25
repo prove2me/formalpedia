@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_W_succ
 -- name    : SZ.Slice.W_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:43:57.714727+00:00
 -- url     : https://prove2.me/theorems/5d29d2d2-5178-4442-a7a2-5f79a428a2d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_integral_norm_application_holds
 -- name    : Formalism.HermitianLatticeCounting.P.integral_norm_application_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:37:02.793817+00:00
 -- url     : https://prove2.me/theorems/aeb5a34a-235c-4c35-a48d-a8c3671df95d

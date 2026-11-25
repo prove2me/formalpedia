@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_minus_letter_form
 -- name    : Formalism.FourierDecayAlt.P.minus_letter_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:04:06.66292+00:00
 -- url     : https://prove2.me/theorems/9b13c187-6e9a-403a-bc21-5a66c547040b

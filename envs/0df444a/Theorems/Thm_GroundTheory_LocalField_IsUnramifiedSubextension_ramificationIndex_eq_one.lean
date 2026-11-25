@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramifiedSubextension_ramificationIndex_eq_one
 -- name    : GroundTheory.LocalField.IsUnramifiedSubextension.ramificationIndex_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:49:14.553022+00:00
 -- url     : https://prove2.me/theorems/f84e9593-f2e7-49ba-aa09-f900ba4defbe

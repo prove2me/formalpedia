@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_A_subst_one__7b65fa7ad290
 -- name    : P2M_Formalism_L2_Th1_A_subst_one__7b65fa7ad290
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:42.87014+00:00
 -- url     : https://prove2.me/theorems/6868e067-f2e8-47a7-85e4-87cc4b0de933

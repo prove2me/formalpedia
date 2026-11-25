@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_subst_ev_kill
 -- name    : Formalism.L2.FormalSeriesBounds.subst_ev_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:46:50.594748+00:00
 -- url     : https://prove2.me/theorems/4d53719d-1644-438e-a329-1e7bae4f0615

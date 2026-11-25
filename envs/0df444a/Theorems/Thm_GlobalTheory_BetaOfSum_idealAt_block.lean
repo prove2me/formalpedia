@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaOfSum_idealAt_block
 -- name    : GlobalTheory.BetaOfSum.idealAt_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:30:32.185916+00:00
 -- url     : https://prove2.me/theorems/d5453b09-aa73-4dd2-bbda-6e920befc824

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_pick_cases
 -- name    : SZ.pick_cases
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:48:16.736117+00:00
 -- url     : https://prove2.me/theorems/c5c4dcc4-472c-49c6-a7d3-de3ca4f767eb

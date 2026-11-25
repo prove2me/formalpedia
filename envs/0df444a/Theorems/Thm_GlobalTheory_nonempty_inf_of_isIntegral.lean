@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_inf_of_isIntegral
 -- name    : GlobalTheory.nonempty_inf_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:43:29.817818+00:00
 -- url     : https://prove2.me/theorems/3762201d-7c88-46b3-a177-25c2acf58766

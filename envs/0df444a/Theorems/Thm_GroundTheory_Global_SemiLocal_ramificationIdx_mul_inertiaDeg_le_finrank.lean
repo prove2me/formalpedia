@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_ramificationIdx_mul_inertiaDeg_le_finrank
 -- name    : GroundTheory.Global.SemiLocal.ramificationIdx_mul_inertiaDeg_le_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:14.999854+00:00
 -- url     : https://prove2.me/theorems/0b48a6be-89d0-47b2-9a7e-5933a4e3437c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_coeff_thetaAB
 -- name    : ChromaticReconstruction.coeff_thetaAB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:39:24.385575+00:00
 -- url     : https://prove2.me/theorems/272fbf38-74d9-4af4-8dc3-69495a7ee68a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DimensionMonotonicity_inclusion_prodMap_injective
 -- name    : Formalism.GM.DimensionMonotonicity.inclusion_prodMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:26:42.478517+00:00
 -- url     : https://prove2.me/theorems/9ed78adb-1067-4647-8786-a1b41ec9e237

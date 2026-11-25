@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_logTerm_mem
 -- name    : GroundTheory.LocalField.logTerm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:10:49.887206+00:00
 -- url     : https://prove2.me/theorems/1dc3b630-c0a5-4f17-8c07-bc550ce20203

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_minorHarm_pderiv_eq_zero
 -- name    : GlobalTheory.minorHarm_pderiv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:44:23.833603+00:00
 -- url     : https://prove2.me/theorems/72cdb7ee-66e8-4692-8caf-848fcd12e51a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_hasStrictFDerivAt_translateLog_076c8ad24f60
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_hasStrictFDerivAt_translateLog_076c8ad24f60
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:52:45.453804+00:00
 -- url     : https://prove2.me/theorems/48f457ad-9f65-49fb-9875-4790e7536b31

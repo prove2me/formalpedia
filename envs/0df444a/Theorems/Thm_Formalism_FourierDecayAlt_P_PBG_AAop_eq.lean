@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_AAop_eq
 -- name    : Formalism.FourierDecayAlt.P.PBG.AAop_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:20:56.098053+00:00
 -- url     : https://prove2.me/theorems/d102e64a-5e54-45b2-bf89-eca53720dfc2

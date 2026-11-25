@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_fontaineTheta_map_preTiltMap
 -- name    : GroundTheory.PAdicHodge.fontaineTheta_map_preTiltMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:27:59.449024+00:00
 -- url     : https://prove2.me/theorems/c9a78cd0-1522-405f-b866-6519b004ec18

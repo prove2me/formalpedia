@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpCong_along_reverse_grouped
 -- name    : GlobalTheory.ExpCong.along_reverse_grouped
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:46:14.781561+00:00
 -- url     : https://prove2.me/theorems/87ee2fef-c7bb-468f-bba9-8eac9fc9e964

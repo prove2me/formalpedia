@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_isAdmissible_iff_finrank_DBK
 -- name    : GroundTheory.PAdicHodge.isAdmissible_iff_finrank_DBK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:46:59.037974+00:00
 -- url     : https://prove2.me/theorems/ff4f111d-f05e-4436-87f7-a2e7020ac87e

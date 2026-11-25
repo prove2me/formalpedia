@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockValue_Lead_of_coeff_zero
 -- name    : GlobalTheory.BlockValue.Lead.of_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:49:56.381797+00:00
 -- url     : https://prove2.me/theorems/d1d113ca-df27-4620-b2a7-594f4b59ee1f

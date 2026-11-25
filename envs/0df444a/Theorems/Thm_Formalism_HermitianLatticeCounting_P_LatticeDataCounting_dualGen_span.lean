@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_LatticeDataCounting_dualGen_span
 -- name    : Formalism.HermitianLatticeCounting.P.LatticeDataCounting.dualGen_span
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:31:40.542158+00:00
 -- url     : https://prove2.me/theorems/07301331-4c43-448c-9fe2-1dda6a690fad

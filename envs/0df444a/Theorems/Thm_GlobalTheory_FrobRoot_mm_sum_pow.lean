@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrobRoot_mm_sum_pow
 -- name    : GlobalTheory.FrobRoot.mm_sum_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:33:29.271806+00:00
 -- url     : https://prove2.me/theorems/a72f595f-7666-4b09-b726-8f4f4daf1d76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_HaP_lap_map
 -- name    : Formalism.L2.FormalSeriesBounds.HaP.lap_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:45:36.55133+00:00
 -- url     : https://prove2.me/theorems/871185e8-2cd1-4ba5-9cf1-17142b054fbc

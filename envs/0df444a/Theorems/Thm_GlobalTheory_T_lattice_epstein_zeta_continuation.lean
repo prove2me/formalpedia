@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_epstein_zeta_continuation
 -- name    : GlobalTheory.T.lattice_epstein_zeta_continuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:50:51.867992+00:00
 -- url     : https://prove2.me/theorems/fd5fc09b-4808-4590-8053-9a2459949296

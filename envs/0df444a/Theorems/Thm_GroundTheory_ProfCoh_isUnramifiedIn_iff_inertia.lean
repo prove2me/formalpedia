@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isUnramifiedIn_iff_inertia
 -- name    : GroundTheory.ProfCoh.isUnramifiedIn_iff_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:20:57.810131+00:00
 -- url     : https://prove2.me/theorems/cbe3bf69-f9cf-4ed1-bbf3-0243880996ee

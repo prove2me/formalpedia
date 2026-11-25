@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_Axis_vanishes_hM
 -- name    : GlobalTheory.MainTerm.Axis.vanishes_hM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:33:41.878998+00:00
 -- url     : https://prove2.me/theorems/42450816-fc51-49c6-9e91-a2c1a134a434

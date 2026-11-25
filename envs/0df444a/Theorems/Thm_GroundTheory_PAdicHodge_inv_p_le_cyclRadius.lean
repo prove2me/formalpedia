@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_inv_p_le_cyclRadius
 -- name    : GroundTheory.PAdicHodge.inv_p_le_cyclRadius
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:13.335305+00:00
 -- url     : https://prove2.me/theorems/06db3804-2c7b-49ae-b18e-37fcd67d9967

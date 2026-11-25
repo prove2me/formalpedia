@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_covolume_idealLattice2
 -- name    : GroundTheory.Automorphic.Adele2.covolume_idealLattice2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:48:05.96362+00:00
 -- url     : https://prove2.me/theorems/bf597efd-9c03-41d6-bfe2-ae2a44c1e4b8

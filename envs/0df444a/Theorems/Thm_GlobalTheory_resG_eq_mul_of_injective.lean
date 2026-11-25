@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_resG_eq_mul_of_injective
 -- name    : GlobalTheory.resG_eq_mul_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:44:01.405797+00:00
 -- url     : https://prove2.me/theorems/894ab655-98d9-4466-9020-5b20a8dc952d

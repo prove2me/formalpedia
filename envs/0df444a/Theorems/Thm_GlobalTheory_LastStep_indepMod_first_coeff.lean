@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LastStep_indepMod_first_coeff
 -- name    : GlobalTheory.LastStep.indepMod_first_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:39:21.75439+00:00
 -- url     : https://prove2.me/theorems/1cd4c833-ca77-4808-9124-59c5f1bc6620

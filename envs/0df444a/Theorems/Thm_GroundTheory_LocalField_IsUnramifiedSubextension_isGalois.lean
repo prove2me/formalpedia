@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramifiedSubextension_isGalois
 -- name    : GroundTheory.LocalField.IsUnramifiedSubextension.isGalois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:48:12.720523+00:00
 -- url     : https://prove2.me/theorems/a7efcbbd-7fef-403e-b317-5fc1fd2e7f53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_summable_logSeries
 -- name    : GroundTheory.LocalField.summable_logSeries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:10:14.677802+00:00
 -- url     : https://prove2.me/theorems/16dce1b4-b4cd-43f1-bad9-8174d7f37e1c

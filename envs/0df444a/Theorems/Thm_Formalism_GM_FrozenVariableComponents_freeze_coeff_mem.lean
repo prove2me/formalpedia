@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FrozenVariableComponents_freeze_coeff_mem
 -- name    : Formalism.GM.FrozenVariableComponents.freeze_coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:14:17.968893+00:00
 -- url     : https://prove2.me/theorems/241bb73f-7402-4e84-9e54-88dd7563ebdb

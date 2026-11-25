@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_eq_of_ends
 -- name    : Galvin.eq_of_ends
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:49:24.322806+00:00
 -- url     : https://prove2.me/theorems/83b86cb8-461f-45e1-a3e8-d4660647a45a

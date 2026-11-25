@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FrobP_mm_of_mul_nat
 -- name    : Formalism.L2.FormalSeriesBounds.FrobP.mm_of_mul_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:35:58.707015+00:00
 -- url     : https://prove2.me/theorems/454a22ca-0bab-4990-8561-7b7690a320d6

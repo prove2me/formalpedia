@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_exponent_le_over_ring_holds
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.exponent_le_over_ring_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:11:33.768583+00:00
 -- url     : https://prove2.me/theorems/00ebbbfc-b542-4bdc-9e64-113dce21c281

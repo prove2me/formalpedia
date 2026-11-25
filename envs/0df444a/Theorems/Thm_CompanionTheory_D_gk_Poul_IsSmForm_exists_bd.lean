@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_IsSmForm_exists_bd
 -- name    : CompanionTheory.D.gk.Poul.IsSmForm.exists_bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:09.398042+00:00
 -- url     : https://prove2.me/theorems/b5be8328-9fad-4378-9ade-9d4a03784097

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_irreducible_of_virtualCharacter_norm_one
 -- name    : GlobalTheory.T.irreducible_of_virtualCharacter_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:38:55.748303+00:00
 -- url     : https://prove2.me/theorems/ce4ebe7e-31c8-412c-90e3-517faf445a86

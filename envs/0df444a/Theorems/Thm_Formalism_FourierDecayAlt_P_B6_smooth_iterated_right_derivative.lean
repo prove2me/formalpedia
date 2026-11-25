@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_smooth_iterated_right_derivative
 -- name    : Formalism.FourierDecayAlt.P.B6.smooth_iterated_right_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:05:27.773359+00:00
 -- url     : https://prove2.me/theorems/663fea6a-4e3e-4517-b193-d45859453eeb

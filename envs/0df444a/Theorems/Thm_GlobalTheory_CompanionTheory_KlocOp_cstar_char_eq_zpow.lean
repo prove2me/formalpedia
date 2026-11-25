@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_KlocOp_cstar_char_eq_zpow
 -- name    : GlobalTheory.CompanionTheory.KlocOp.cstar_char_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:51:06.010959+00:00
 -- url     : https://prove2.me/theorems/f1155eeb-9b86-49b0-8e68-74241f871273

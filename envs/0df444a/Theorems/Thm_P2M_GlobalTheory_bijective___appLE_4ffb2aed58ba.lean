@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_bijective___appLE_4ffb2aed58ba
 -- name    : P2M_GlobalTheory_bijective___appLE_4ffb2aed58ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:45:02.852094+00:00
 -- url     : https://prove2.me/theorems/fdc4f56c-d873-4fd8-acc3-bf5cd7eef5a5

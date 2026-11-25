@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_C_USideA_subst_C__a942db7ebe55
 -- name    : P2M_Formalism_L2_Th1_C_USideA_subst_C__a942db7ebe55
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:57:43.742007+00:00
 -- url     : https://prove2.me/theorems/27f86d9f-5906-4d20-b26e-aa93c379d259

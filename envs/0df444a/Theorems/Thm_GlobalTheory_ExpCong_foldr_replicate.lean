@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpCong_foldr_replicate
 -- name    : GlobalTheory.ExpCong.foldr_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:46:19.864153+00:00
 -- url     : https://prove2.me/theorems/072035a3-a275-4f6b-b05a-6ebe954c1205

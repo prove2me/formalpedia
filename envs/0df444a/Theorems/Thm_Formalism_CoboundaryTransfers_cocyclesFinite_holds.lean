@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CoboundaryTransfers_cocyclesFinite_holds
 -- name    : Formalism.CoboundaryTransfers.cocyclesFinite_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:45:20.358384+00:00
 -- url     : https://prove2.me/theorems/1c6ab3fc-55e4-4608-a51e-fe19fdc12768

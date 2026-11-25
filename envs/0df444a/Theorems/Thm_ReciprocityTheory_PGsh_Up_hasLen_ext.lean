@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_Up_hasLen_ext
 -- name    : ReciprocityTheory.PGsh.Up.hasLen_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:08.15222+00:00
 -- url     : https://prove2.me/theorems/f26283c5-0370-4009-b70d-de91d6cfc90c

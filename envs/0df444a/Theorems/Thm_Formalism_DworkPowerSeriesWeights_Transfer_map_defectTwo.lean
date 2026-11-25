@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_Transfer_map_defectTwo
 -- name    : Formalism.DworkPowerSeriesWeights.Transfer.map_defectTwo
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:53:58.678013+00:00
 -- url     : https://prove2.me/theorems/4c8b4650-9e52-4a18-906b-81ec66cac405

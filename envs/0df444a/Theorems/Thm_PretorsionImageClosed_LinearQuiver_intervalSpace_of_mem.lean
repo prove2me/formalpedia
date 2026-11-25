@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_intervalSpace_of_mem
 -- name    : PretorsionImageClosed.LinearQuiver.intervalSpace_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:49:26.324713+00:00
 -- url     : https://prove2.me/theorems/3920651c-9e26-41e6-98e0-7589ca5c81cb

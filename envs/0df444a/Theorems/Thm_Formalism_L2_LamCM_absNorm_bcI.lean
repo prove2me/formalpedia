@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_LamCM_absNorm_bcI
 -- name    : Formalism.L2.LamCM.absNorm_bcI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:29:19.742845+00:00
 -- url     : https://prove2.me/theorems/9941002b-37e7-464e-b838-eeed486a88ab

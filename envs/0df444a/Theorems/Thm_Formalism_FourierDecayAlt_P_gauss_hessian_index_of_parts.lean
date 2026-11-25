@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gauss_hessian_index_of_parts
 -- name    : Formalism.FourierDecayAlt.P.gauss_hessian_index_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:56:14.211097+00:00
 -- url     : https://prove2.me/theorems/3f405a87-3baa-4056-aa1a-951ed270d4b4

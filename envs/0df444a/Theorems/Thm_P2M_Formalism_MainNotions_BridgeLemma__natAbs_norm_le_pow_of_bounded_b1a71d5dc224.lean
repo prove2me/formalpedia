@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__natAbs_norm_le_pow_of_bounded_b1a71d5dc224
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__natAbs_norm_le_pow_of_bounded_b1a71d5dc224
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:00:32.63082+00:00
 -- url     : https://prove2.me/theorems/061a53fd-f7ab-440b-b281-b62c4db5c918

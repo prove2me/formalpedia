@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_coeff_mem_of_ZP
 -- name    : Formalism.L2.FormalSeriesBounds.RF.coeff_mem_of_ZP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:05.372917+00:00
 -- url     : https://prove2.me/theorems/7b738e1d-3530-46a7-b748-158863de5c42

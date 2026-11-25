@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_eSum_mul_tens_1693cea8da2a
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_eSum_mul_tens_1693cea8da2a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:32.941935+00:00
 -- url     : https://prove2.me/theorems/0d9381dd-c370-4afe-8c1b-f94aa96dc6c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NablaExpConj_liftX_sum
 -- name    : GlobalTheory.NablaExpConj.liftX_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:38:47.065964+00:00
 -- url     : https://prove2.me/theorems/99569601-27dd-4753-bb14-4149cd9d40a0

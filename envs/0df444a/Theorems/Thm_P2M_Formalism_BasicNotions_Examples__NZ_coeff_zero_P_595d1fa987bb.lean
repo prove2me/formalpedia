@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_coeff_zero_P_595d1fa987bb
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_coeff_zero_P_595d1fa987bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:52:49.423669+00:00
 -- url     : https://prove2.me/theorems/2deae3ca-f8d2-4ffc-8f23-d62b52a44f8f

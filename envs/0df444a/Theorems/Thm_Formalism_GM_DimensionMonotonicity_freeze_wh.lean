@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_DimensionMonotonicity_freeze_wh
 -- name    : Formalism.GM.DimensionMonotonicity.freeze_wh
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:36:52.610967+00:00
 -- url     : https://prove2.me/theorems/0a6411c9-fdb7-490b-923a-aad9b6b50338

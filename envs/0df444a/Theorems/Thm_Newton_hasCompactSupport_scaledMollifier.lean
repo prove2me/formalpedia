@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_hasCompactSupport_scaledMollifier
 -- name    : Newton.hasCompactSupport_scaledMollifier
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:47:40.8178+00:00
 -- url     : https://prove2.me/theorems/3c3ad171-3706-48c8-baa5-90c21630f7c9

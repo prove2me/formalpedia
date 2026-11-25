@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_mfact_smul
 -- name    : GlobalTheory.UnitCase.mfact_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:40:18.58627+00:00
 -- url     : https://prove2.me/theorems/a3c2cf07-fb5a-404f-8375-6d2f1a7d83ae

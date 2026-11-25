@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_phiPin_of_character
 -- name    : GlobalTheory.exists_phiPin_of_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:41:19.739907+00:00
 -- url     : https://prove2.me/theorems/2b0bb572-7fc1-4803-ab88-153b2e95e098

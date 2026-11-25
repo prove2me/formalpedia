@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_ProjS_v_top
 -- name    : Formalism.GM.ProjS.v_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:21:25.307155+00:00
 -- url     : https://prove2.me/theorems/e5e446ed-f748-43e8-b34b-3c8c0e0728b3
