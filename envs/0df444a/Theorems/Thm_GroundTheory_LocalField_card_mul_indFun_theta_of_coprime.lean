@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_card_mul_indFun_theta_of_coprime
 -- name    : GroundTheory.LocalField.card_mul_indFun_theta_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:35:51.953688+00:00
 -- url     : https://prove2.me/theorems/d71e2707-7e00-44dd-b0d1-5ba656405b07

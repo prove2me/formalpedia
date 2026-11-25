@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_det_rows_eq_deepJacDet_32c0a8f69f5c
 -- name    : P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_det_rows_eq_deepJacDet_32c0a8f69f5c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:43:18.427331+00:00
 -- url     : https://prove2.me/theorems/b8b4a7c5-8904-42aa-aeb1-143c549613d7

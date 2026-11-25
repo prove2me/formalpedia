@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_le_sqrt_mul_min
 -- name    : SNumbers.approximationNumber_le_sqrt_mul_min
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:19:01.121245+00:00
 -- url     : https://prove2.me/theorems/6f46f9b7-4368-464e-bca3-6e578eb0e5fa

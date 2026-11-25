@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_cyclic_cohom_2409c2a8089e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_cyclic_cohom_2409c2a8089e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:32:28.188929+00:00
 -- url     : https://prove2.me/theorems/1b381400-f5ad-5950-9d7d-b7f85dfd5b18

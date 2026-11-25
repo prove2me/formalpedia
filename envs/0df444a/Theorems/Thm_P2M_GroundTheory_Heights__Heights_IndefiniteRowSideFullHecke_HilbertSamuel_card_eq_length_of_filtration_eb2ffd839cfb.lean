@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_card_eq_length_of_filtration_eb2ffd839cfb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_card_eq_length_of_filtration_eb2ffd839cfb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:33.270432+00:00
 -- url     : https://prove2.me/theorems/d5135053-cb09-48f0-a0e9-2fc4a26b234d

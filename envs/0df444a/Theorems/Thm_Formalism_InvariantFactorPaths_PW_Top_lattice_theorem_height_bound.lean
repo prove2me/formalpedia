@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_lattice_theorem_height_bound
 -- name    : Formalism.InvariantFactorPaths.PW.Top.lattice_theorem_height_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:58:10.012297+00:00
 -- url     : https://prove2.me/theorems/f0b786b4-0b10-4855-82a1-d3ed9fcab6a2

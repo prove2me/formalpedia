@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_eq_top_of_nilpotent_idealRange
 -- name    : PretorsionImageClosed.eq_top_of_nilpotent_idealRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:10:29.399647+00:00
 -- url     : https://prove2.me/theorems/eda7b13f-5c44-4e83-b925-735c05747ccf

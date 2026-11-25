@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ParamPieceInt_analyticAt_of_differentiableOn_516a147c42f5
 -- name    : P2M_GroundTheory_Heights__Heights_ParamPieceInt_analyticAt_of_differentiableOn_516a147c42f5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:58.380801+00:00
 -- url     : https://prove2.me/theorems/0c5338fa-d433-4e91-86fb-9d4d16a0668f

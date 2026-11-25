@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_lineBranch_branchesAt_31c740b2197d
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_lineBranch_branchesAt_31c740b2197d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:41:03.188397+00:00
 -- url     : https://prove2.me/theorems/e036b459-7d1d-4476-a048-f225ac222b57

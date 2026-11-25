@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isCompactOperator_iff_tendsto_entropyNumber
 -- name    : SNumbers.isCompactOperator_iff_tendsto_entropyNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:05:19.406681+00:00
 -- url     : https://prove2.me/theorems/8fef14a2-6f7d-4860-b682-99d3fa815bf3

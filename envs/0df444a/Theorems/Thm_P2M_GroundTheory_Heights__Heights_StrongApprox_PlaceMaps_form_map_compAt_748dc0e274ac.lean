@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_PlaceMaps_form_map_compAt_748dc0e274ac
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_PlaceMaps_form_map_compAt_748dc0e274ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:39:31.853801+00:00
 -- url     : https://prove2.me/theorems/0596bcfd-9e45-51ee-b1fb-51c452ca080b

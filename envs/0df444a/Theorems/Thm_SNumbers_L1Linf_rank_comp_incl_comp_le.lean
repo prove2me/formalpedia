@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_rank_comp_incl_comp_le
 -- name    : SNumbers.L1Linf.rank_comp_incl_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:15:50.72747+00:00
 -- url     : https://prove2.me/theorems/9251fe8d-7262-43a2-b69d-39c851b37637

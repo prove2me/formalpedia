@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_reps_Umax
 -- name    : CompanionTheory.Split.reps_Umax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:35:59.64563+00:00
 -- url     : https://prove2.me/theorems/30c9ebaf-2009-49e5-97b4-3f184a8c7091

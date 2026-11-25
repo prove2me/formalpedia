@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_idealRange_top
 -- name    : PretorsionImageClosed.idealRange_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:05:43.936525+00:00
 -- url     : https://prove2.me/theorems/be514f1f-cf07-5b25-b2a1-736794b4f803

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_rHom_injective_77ec01eca437
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_rHom_injective_77ec01eca437
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:36:45.553918+00:00
 -- url     : https://prove2.me/theorems/0cdc1a92-6f80-42c5-81ee-70e3af72cc3b

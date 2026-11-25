@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_hasCompactSupport_majorant_a1a537fd70d7
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_hasCompactSupport_majorant_a1a537fd70d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:16:37.648916+00:00
 -- url     : https://prove2.me/theorems/a4971677-3eaa-4768-b809-038cb142abcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_DiagCLMpq_le_of_exponent_ge
 -- name    : SNumbers.approximationNumber_DiagCLMpq_le_of_exponent_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:12:58.338855+00:00
 -- url     : https://prove2.me/theorems/b4765907-470c-4743-8155-199e597f7577

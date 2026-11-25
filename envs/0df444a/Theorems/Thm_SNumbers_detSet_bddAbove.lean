@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_detSet_bddAbove
 -- name    : SNumbers.detSet_bddAbove
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:57:36.703912+00:00
 -- url     : https://prove2.me/theorems/1837ccc5-972d-43ed-885b-7270e2a1617e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_kernelSubobject_eq_reject_of_isPrecokernel
 -- name    : PretorsionImageClosed.Statement.kernelSubobject_eq_reject_of_isPrecokernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:34:35.459596+00:00
 -- url     : https://prove2.me/theorems/118cbf23-4459-4a1e-8e44-60c735760976

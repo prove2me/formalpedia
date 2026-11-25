@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_contDiffAt_comp_symm_of_smoothOn_ea30a6a65011
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_contDiffAt_comp_symm_of_smoothOn_ea30a6a65011
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:45:43.693576+00:00
 -- url     : https://prove2.me/theorems/f45cdcb9-9669-46a4-bb97-1e3984a810c4

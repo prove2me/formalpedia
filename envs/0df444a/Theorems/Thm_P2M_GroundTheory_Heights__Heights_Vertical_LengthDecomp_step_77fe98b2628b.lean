@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_LengthDecomp_step_77fe98b2628b
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_LengthDecomp_step_77fe98b2628b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:16.538792+00:00
 -- url     : https://prove2.me/theorems/8fc43b1a-405d-491b-b38f-dac42860970a

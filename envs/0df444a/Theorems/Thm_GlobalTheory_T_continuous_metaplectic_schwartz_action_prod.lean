@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_metaplectic_schwartz_action_prod
 -- name    : GlobalTheory.T.continuous_metaplectic_schwartz_action_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:51.817257+00:00
 -- url     : https://prove2.me/theorems/8836cbbe-7a21-434b-a4df-ad02071aa391

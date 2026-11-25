@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_exists_idele_not_mul_norm
 -- name    : GlobalTheory.QNorm.exists_idele_not_mul_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:09:08.912309+00:00
 -- url     : https://prove2.me/theorems/3e5cda9b-0534-46f3-bc80-b0e519780ede

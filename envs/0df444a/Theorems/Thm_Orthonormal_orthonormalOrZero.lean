@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Orthonormal_orthonormalOrZero
 -- name    : Orthonormal.orthonormalOrZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:19:02.431836+00:00
 -- url     : https://prove2.me/theorems/c8f17de1-04ba-4902-8a8d-2f4209fee612

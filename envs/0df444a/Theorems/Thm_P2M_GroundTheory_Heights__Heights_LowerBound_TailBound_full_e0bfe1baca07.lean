@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_TailBound_full_e0bfe1baca07
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_TailBound_full_e0bfe1baca07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:55.811898+00:00
 -- url     : https://prove2.me/theorems/f5553862-3f39-410c-bf97-720da05bb709

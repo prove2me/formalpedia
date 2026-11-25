@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_ptDeg_map_97ccd73c0d80
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_ptDeg_map_97ccd73c0d80
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:29.012339+00:00
 -- url     : https://prove2.me/theorems/fa19677e-9db9-55ce-a633-6f966869b37f

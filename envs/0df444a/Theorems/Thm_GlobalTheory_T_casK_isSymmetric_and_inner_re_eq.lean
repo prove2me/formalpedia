@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_casK_isSymmetric_and_inner_re_eq
 -- name    : GlobalTheory.T.casK_isSymmetric_and_inner_re_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:29:14.075858+00:00
 -- url     : https://prove2.me/theorems/7faecabc-a0ac-550e-98c3-58859f4db356

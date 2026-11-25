@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreIdeal_genericIdeal_isHomogIdeal_b15b1d64bf07
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreIdeal_genericIdeal_isHomogIdeal_b15b1d64bf07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:13:41.980216+00:00
 -- url     : https://prove2.me/theorems/b97b64ba-9c08-4950-a5b7-d8ae1f0127df

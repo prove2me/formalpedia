@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCurve_comap_ker_coneMapQ_3c1fcc541d2a
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCurve_comap_ker_coneMapQ_3c1fcc541d2a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:13:50.153378+00:00
 -- url     : https://prove2.me/theorems/a1fb2f5b-1c25-4eb8-a927-055f72dc0243

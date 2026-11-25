@@ -60878,12 +60878,12 @@
 {"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.exists_generators_maximalIdeal_of_linearIndependent_D", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_FormallyEtaleCoordinates", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.exists_generators_maximalIdeal_of_linearIndependent_D", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_EtaleCoordinates", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.EtaleCoordinates.exists_generators_maximalIdeal_of_linearIndependent_D", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_EtaleCoordinates_JacobianCriterion", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_BiextensionPointsIntegral", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_SubstFirstCoboundaryThree", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FinalS", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_IpNormPowSubPowLe", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_BiextensionPointsOfExpSpec", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_EqZeroOfPowEqOne", "via": ["statement"]}
+{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_BiextensionPointsIntegral", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_SubstFirstCoboundaryThree", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FinalS", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_IpNormPowSubPowLe", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_BiextensionPointsOfExpSpec", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.D.biextension_points_of_exp_spec", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_EqZeroOfPowEqOne", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.levelaf_adele_res", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Stabstd", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.levelaf_adele_res", "child": "Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelaf", "via": ["solution", "statement"]}
 {"parent": "Formalism.UG.P.levelaf_adele_res", "child": "Formalism_SatakeDualWeyl_Statement", "via": ["solution", "statement"]}
@@ -66246,10 +66246,10 @@
 {"parent": "GlobalTheory.BoxDetUnique.gs_sec_pw", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BoxDetUnique.gs_sec_pw", "child": "Development_AbelianVarietyTheory_Proofs_ThetaLawProofs_CardHomVanishingOfDiagBasis", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BoxDetUnique.gs_sec_pw", "child": "Development_AbelianVarietyTheory_Definitions_KeyFormula_IsSquareDeterminantComparison", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.AlgWtHW.isPolyRep_evPt", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ConjugateNeSelf", "via": ["statement"]}
-{"parent": "GlobalTheory.AlgWtHW.isPolyRep_evPt", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_AlgebraicWeightPolyMatrixMultiplicativeStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.AlgWtHW.isPolyRep_evPt", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_IsPolynomialRepGLComplexAlgebraicWeightEvalPoint", "via": ["statement"]}
-{"parent": "GlobalTheory.AlgWtHW.isPolyRep_evPt", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_SpanRationalPointOrbitAlgebraicWeightStatement", "via": ["statement"]}
+{"parent": "GlobalTheory.AlgWtHW.isPolyRep_evPt", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ConjugateNeSelf", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.AlgWtHW.isPolyRep_evPt", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_AlgebraicWeightPolyMatrixMultiplicativeStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.AlgWtHW.isPolyRep_evPt", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_IsPolynomialRepGLComplexAlgebraicWeightEvalPoint", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.AlgWtHW.isPolyRep_evPt", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_SpanRationalPointOrbitAlgebraicWeightStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BertiniAlg.linearIndependent_D_of_algebraicIndependent", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_LinearIndependentKaehlerDOfAlgebraicIndependent", "via": ["solution", "statement"]}
 {"parent": "ChromaticReconstruction.mem_compSets_self", "child": "RequestProject_Defs", "via": ["solution", "statement"]}
 {"parent": "ChromaticReconstruction.mem_compSets_self", "child": "RequestProject_Components", "via": ["solution", "statement"]}

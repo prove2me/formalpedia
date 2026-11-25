@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthCutGlobal_lengths_eq_c804c0ba1527
 -- name    : P2M_GroundTheory_Heights__Heights_LengthCutGlobal_lengths_eq_c804c0ba1527
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:09.848903+00:00
 -- url     : https://prove2.me/theorems/20ec1489-faf5-41b4-8c40-81e7e933a4ab

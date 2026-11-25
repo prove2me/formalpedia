@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_exists_isMinimalGenerator
 -- name    : PretorsionImageClosed.SetClosure.exists_isMinimalGenerator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:29:36.916265+00:00
 -- url     : https://prove2.me/theorems/5bba9627-c57f-57a8-987f-9b4acde3a037

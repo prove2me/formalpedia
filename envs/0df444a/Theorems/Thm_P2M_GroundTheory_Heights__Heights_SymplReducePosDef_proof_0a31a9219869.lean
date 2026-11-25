@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplReducePosDef_proof_0a31a9219869
 -- name    : P2M_GroundTheory_Heights__Heights_SymplReducePosDef_proof_0a31a9219869
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:01.744749+00:00
 -- url     : https://prove2.me/theorems/fb1fa25f-e75e-41f4-b48b-fb5e2032f111

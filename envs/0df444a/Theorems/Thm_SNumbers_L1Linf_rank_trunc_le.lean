@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_rank_trunc_le
 -- name    : SNumbers.L1Linf.rank_trunc_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:15:50.514811+00:00
 -- url     : https://prove2.me/theorems/4d723b37-708d-4a8a-9ada-b7edf2c156cb

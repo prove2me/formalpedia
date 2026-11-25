@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalCardinality_holds_proof_f4dfbcbdf3d8
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalCardinality_holds_proof_f4dfbcbdf3d8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:42.265189+00:00
 -- url     : https://prove2.me/theorems/b46b6d32-aaf8-4765-accc-e04350f70c86

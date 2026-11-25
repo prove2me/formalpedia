@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_PI_PolynomialProperness_CA_mx_inv_conjT
+-- name    : PI.PolynomialProperness.CA.mx_inv_conjT
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-25T05:36:57.388737+00:00
+-- url     : https://prove2.me/theorems/a9424e94-31bb-513c-96bc-ddcee6e07404
+-- title:
+--   CA: mx inv conj T
+-- statement:
+--   The CA construction uses the mx inv conj T property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/PolynomialProperness/UnitriangularInverseBoundOf.lean#L27-L28
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/PolynomialProperness/UnitriangularInverseBoundOf.lean#L27-L28
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialProperness_NsqMulVecLe
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialProperness_UnitriangularInverseBoundOf
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.C2
+open scoped ComplexConjugate
+noncomputable section
+open PI PI.PolynomialProperness PI.PolynomialProperness.CA
+
+theorem PI.PolynomialProperness.CA.mx_inv_conjT {m : ℕ} (M : Matrix (Fin m) (Fin m) ℂ) : mx (Mᴴ)⁻¹ = mx M⁻¹ := by sorry

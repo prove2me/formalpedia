@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_exists_factor
 -- name    : GlobalTheory.RealWeil.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:30.303186+00:00
 -- url     : https://prove2.me/theorems/00c2259a-f61c-42ef-a1e3-3bf86360d230

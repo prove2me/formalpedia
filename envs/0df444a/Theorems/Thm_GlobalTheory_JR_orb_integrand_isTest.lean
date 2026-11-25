@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_orb_integrand_isTest
 -- name    : GlobalTheory.JR.orb_integrand_isTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:40:43.380929+00:00
 -- url     : https://prove2.me/theorems/a87dfaa8-475f-4f8b-85ae-81dc9a9085d3

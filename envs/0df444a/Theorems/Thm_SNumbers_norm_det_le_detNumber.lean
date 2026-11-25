@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_det_le_detNumber
 -- name    : SNumbers.norm_det_le_detNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:37:12.530449+00:00
 -- url     : https://prove2.me/theorems/73a51405-4b25-460d-b071-9ed908ce8d21

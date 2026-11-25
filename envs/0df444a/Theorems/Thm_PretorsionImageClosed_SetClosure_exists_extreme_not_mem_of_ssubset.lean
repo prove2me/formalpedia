@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_exists_extreme_not_mem_of_ssubset
 -- name    : PretorsionImageClosed.SetClosure.exists_extreme_not_mem_of_ssubset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:15:00.290054+00:00
 -- url     : https://prove2.me/theorems/4bd67cea-6ef0-4b1c-848b-9a3e842f75de

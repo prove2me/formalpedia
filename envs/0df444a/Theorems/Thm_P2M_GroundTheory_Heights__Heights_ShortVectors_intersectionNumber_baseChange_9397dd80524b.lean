@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ShortVectors_intersectionNumber_baseChange_9397dd80524b
 -- name    : P2M_GroundTheory_Heights__Heights_ShortVectors_intersectionNumber_baseChange_9397dd80524b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:37:50.252283+00:00
 -- url     : https://prove2.me/theorems/cfd0a0c4-b33a-421c-a0d5-9f1658f20285

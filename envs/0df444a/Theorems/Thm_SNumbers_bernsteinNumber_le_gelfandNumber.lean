@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_le_gelfandNumber
 -- name    : SNumbers.bernsteinNumber_le_gelfandNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:16:53.157042+00:00
 -- url     : https://prove2.me/theorems/9c97e6a8-26d5-5b07-a7bc-30c5695380a9

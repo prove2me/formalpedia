@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_MaximalCountUnbranched_analyticOnNhd_of_differentiableOn_pi_eff0fba7ce93
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_MaximalCountUnbranched_analyticOnNhd_of_differentiableOn_pi_eff0fba7ce93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:20:26.265552+00:00
 -- url     : https://prove2.me/theorems/1ad20534-e9dd-40f7-ad2e-879ca8f4a37e

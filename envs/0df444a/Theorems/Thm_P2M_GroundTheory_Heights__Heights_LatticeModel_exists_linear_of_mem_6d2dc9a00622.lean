@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_exists_linear_of_mem_6d2dc9a00622
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_exists_linear_of_mem_6d2dc9a00622
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:27:40.304146+00:00
 -- url     : https://prove2.me/theorems/6fb091a9-e58e-4fd4-8a84-f496f407753b

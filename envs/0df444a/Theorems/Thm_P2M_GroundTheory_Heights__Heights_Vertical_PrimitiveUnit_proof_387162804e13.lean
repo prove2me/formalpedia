@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_PrimitiveUnit_proof_387162804e13
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_PrimitiveUnit_proof_387162804e13
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:42:09.736628+00:00
 -- url     : https://prove2.me/theorems/4fdaaee3-5a65-4093-ac86-2cc596fd63ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_X_zero_not_mem_coneIdeal_a1ec09729f1b
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_X_zero_not_mem_coneIdeal_a1ec09729f1b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:14.635934+00:00
 -- url     : https://prove2.me/theorems/91425c6f-6a03-4c9e-8753-9e2107ca1d28

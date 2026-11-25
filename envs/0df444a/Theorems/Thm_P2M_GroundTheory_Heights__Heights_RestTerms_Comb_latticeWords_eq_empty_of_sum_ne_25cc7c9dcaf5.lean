@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_latticeWords_eq_empty_of_sum_ne_25cc7c9dcaf5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_latticeWords_eq_empty_of_sum_ne_25cc7c9dcaf5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:23:37.302453+00:00
 -- url     : https://prove2.me/theorems/0d760444-89d6-46ee-80b8-40983662b996

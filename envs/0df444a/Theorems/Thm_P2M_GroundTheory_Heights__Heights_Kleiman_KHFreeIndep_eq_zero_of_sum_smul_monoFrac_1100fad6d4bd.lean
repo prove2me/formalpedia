@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_eq_zero_of_sum_smul_monoFrac_1100fad6d4bd
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_eq_zero_of_sum_smul_monoFrac_1100fad6d4bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:39:59.9708+00:00
 -- url     : https://prove2.me/theorems/8259998d-a935-5971-a6b6-1a1808ee29b5

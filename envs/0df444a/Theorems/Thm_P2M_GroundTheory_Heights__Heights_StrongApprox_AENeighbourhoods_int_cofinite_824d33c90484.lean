@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_AENeighbourhoods_int_cofinite_824d33c90484
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_AENeighbourhoods_int_cofinite_824d33c90484
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:39:06.415779+00:00
 -- url     : https://prove2.me/theorems/283c4920-c316-4857-9eac-510615fccc0f

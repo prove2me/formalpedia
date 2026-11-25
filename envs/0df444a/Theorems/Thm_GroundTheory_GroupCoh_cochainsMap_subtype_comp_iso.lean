@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_cochainsMap_subtype_comp_iso
 -- name    : GroundTheory.GroupCoh.cochainsMap_subtype_comp_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:35:31.512602+00:00
 -- url     : https://prove2.me/theorems/7936f045-b1e5-47d0-9661-104930bf890d

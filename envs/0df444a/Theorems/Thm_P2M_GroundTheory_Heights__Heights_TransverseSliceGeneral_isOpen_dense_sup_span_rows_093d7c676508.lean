@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_isOpen_dense_sup_span_rows_093d7c676508
 -- name    : P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_isOpen_dense_sup_span_rows_093d7c676508
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:42:26.110381+00:00
 -- url     : https://prove2.me/theorems/c7c934f2-2d95-4da9-a2e5-cce37c0f97fd

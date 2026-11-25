@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2b2_PfN_noRealZeroSmall
 -- name    : Formalism.HermitianLattices.GL2b2.PfN.noRealZeroSmall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:48:55.813731+00:00
 -- url     : https://prove2.me/theorems/c3f4ee28-97e5-4094-8d00-58d741460620

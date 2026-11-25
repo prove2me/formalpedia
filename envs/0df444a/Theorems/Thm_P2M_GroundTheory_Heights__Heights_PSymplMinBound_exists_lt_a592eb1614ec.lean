@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplMinBound_exists_lt_a592eb1614ec
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplMinBound_exists_lt_a592eb1614ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:15.592997+00:00
 -- url     : https://prove2.me/theorems/34d9e671-a127-4338-8bd5-e0f36829e7be

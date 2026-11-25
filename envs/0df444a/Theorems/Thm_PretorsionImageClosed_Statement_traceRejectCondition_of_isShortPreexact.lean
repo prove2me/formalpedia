@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_traceRejectCondition_of_isShortPreexact
 -- name    : PretorsionImageClosed.Statement.traceRejectCondition_of_isShortPreexact
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:28:49.223747+00:00
 -- url     : https://prove2.me/theorems/0d019e98-ec4a-4a33-9a82-978722586f33

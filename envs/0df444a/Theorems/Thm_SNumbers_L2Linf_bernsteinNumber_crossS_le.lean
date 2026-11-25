@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L2Linf_bernsteinNumber_crossS_le
 -- name    : SNumbers.L2Linf.bernsteinNumber_crossS_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:00:43.602413+00:00
 -- url     : https://prove2.me/theorems/886812ba-21ac-4d64-836e-dfd8b2c6e161

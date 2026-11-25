@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_Model_wM_nonneg
 -- name    : GlobalTheory.WigSh.Model.wM_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:01:48.457442+00:00
 -- url     : https://prove2.me/theorems/11ea2baf-1a7d-5a1a-95d3-dd220913a5d5

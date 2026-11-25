@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMax_chartEval_surjective_b02e75dc96cf
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMax_chartEval_surjective_b02e75dc96cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:24:59.058475+00:00
 -- url     : https://prove2.me/theorems/263f0caa-17bc-4fc3-b27c-f9e4cd13866a

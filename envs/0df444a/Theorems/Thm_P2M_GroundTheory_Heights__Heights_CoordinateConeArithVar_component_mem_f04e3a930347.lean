@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_component_mem_f04e3a930347
 -- name    : P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_component_mem_f04e3a930347
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:39.376593+00:00
 -- url     : https://prove2.me/theorems/6561c49b-15dc-507d-973a-1fb19c1aa387

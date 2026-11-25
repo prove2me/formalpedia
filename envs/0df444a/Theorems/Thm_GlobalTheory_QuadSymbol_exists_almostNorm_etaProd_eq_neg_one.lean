@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_exists_almostNorm_etaProd_eq_neg_one
 -- name    : GlobalTheory.QuadSymbol.exists_almostNorm_etaProd_eq_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:13:40.528804+00:00
 -- url     : https://prove2.me/theorems/76661e12-1fd5-4b60-b4a7-c1c98d8603ae

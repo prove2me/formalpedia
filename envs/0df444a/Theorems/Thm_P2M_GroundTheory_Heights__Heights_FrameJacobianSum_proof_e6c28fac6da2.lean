@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameJacobianSum_proof_e6c28fac6da2
 -- name    : P2M_GroundTheory_Heights__Heights_FrameJacobianSum_proof_e6c28fac6da2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:46:24.81528+00:00
 -- url     : https://prove2.me/theorems/cc97565c-d253-4b40-abeb-223ccff31a74

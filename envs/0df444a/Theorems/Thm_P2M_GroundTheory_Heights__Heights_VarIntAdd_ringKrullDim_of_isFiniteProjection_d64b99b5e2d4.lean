@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarIntAdd_ringKrullDim_of_isFiniteProjection_d64b99b5e2d4
 -- name    : P2M_GroundTheory_Heights__Heights_VarIntAdd_ringKrullDim_of_isFiniteProjection_d64b99b5e2d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:41:39.798804+00:00
 -- url     : https://prove2.me/theorems/9c58b1de-ee3b-4d71-b5a6-0dc66b6d7d7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_continuous_primG_79811b8bbbae
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_continuous_primG_79811b8bbbae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:38:42.036516+00:00
 -- url     : https://prove2.me/theorems/2f6950c4-1cc9-4711-801f-e3d996b2f758

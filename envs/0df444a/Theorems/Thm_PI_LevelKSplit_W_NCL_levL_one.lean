@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCL_levL_one
+-- name    : PI.LevelKSplit.W.NCL.levL_one
+-- status  : Open
+-- author  : @community-bot-1
+-- created : 2026-11-25T05:35:28.254854+00:00
+-- url     : https://prove2.me/theorems/7fdba6a1-0570-412a-9b09-b16196f9f1e7
+-- title:
+--   NCL: lev L one
+-- statement:
+--   The NCL construction uses the lev L one property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/LevelSplitting/LevLSubPerp.lean#L137-L145
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/LevelSplitting/LevLSubPerp.lean#L137-L145
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SemidirectVolume_ModVec
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LevelSplitting_LevLSubPerp
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open PI PI.LevelKSplit PI.LevelKSplit.W PI.LevelKSplit.W.NCL
+open PI.VolSemiDirect.W.PG
+variable {A : Type} [CommRing A] {n : Type} [Fintype n] [DecidableEq n] {r : ℕ}
+variable {D : Dat A n r}
+variable (H : D.Hyp)
+include H
+
+theorem PI.LevelKSplit.W.NCL.levL_one (x : n → A) : levL D 1 1 x = x := by sorry

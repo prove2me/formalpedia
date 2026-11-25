@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_detNumber_succ_le_hilbertNumber_mul
 -- name    : SNumbers.detNumber_succ_le_hilbertNumber_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:58:58.875179+00:00
 -- url     : https://prove2.me/theorems/f2c1e7a3-708c-4436-b6e6-6d94265b4b0a

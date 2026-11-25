@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_extremePoints_nonempty
 -- name    : PretorsionImageClosed.SetClosure.extremePoints_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:50:19.343304+00:00
 -- url     : https://prove2.me/theorems/73cfdf14-2d7f-5f2c-8cf6-f579375a960e

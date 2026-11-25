@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardDualGraphModel_modelMap_injective_70433ddf4f8c
 -- name    : P2M_GroundTheory_Heights__Heights_StandardDualGraphModel_modelMap_injective_70433ddf4f8c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:38:57.063582+00:00
 -- url     : https://prove2.me/theorems/1056672b-2627-4fca-b005-69b4b6e9b5b4

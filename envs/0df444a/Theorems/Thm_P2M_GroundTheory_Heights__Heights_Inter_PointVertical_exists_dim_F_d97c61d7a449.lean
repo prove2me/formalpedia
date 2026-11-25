@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PointVertical_exists_dim_F_d97c61d7a449
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PointVertical_exists_dim_F_d97c61d7a449
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:23:07.762932+00:00
 -- url     : https://prove2.me/theorems/d297b832-05ae-41ca-af1d-b00ce233745a

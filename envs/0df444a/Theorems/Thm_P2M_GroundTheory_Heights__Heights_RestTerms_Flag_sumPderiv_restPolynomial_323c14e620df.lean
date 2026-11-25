@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_sumPderiv_restPolynomial_323c14e620df
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_sumPderiv_restPolynomial_323c14e620df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:59.398488+00:00
 -- url     : https://prove2.me/theorems/26702d60-e9e6-58cf-9fe3-8d9197dbfafd

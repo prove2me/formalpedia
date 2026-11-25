@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_generated_by_quasiReflections_and_witt
 -- name    : GlobalTheory.T.unitary_generated_by_quasiReflections_and_witt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:37:57.557797+00:00
 -- url     : https://prove2.me/theorems/90c14611-50e7-4015-aee5-8f7f41df8742

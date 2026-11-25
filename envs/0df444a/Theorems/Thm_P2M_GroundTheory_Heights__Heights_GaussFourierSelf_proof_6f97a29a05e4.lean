@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussFourierSelf_proof_6f97a29a05e4
 -- name    : P2M_GroundTheory_Heights__Heights_GaussFourierSelf_proof_6f97a29a05e4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:51.657802+00:00
 -- url     : https://prove2.me/theorems/1f1f69c3-cff6-404f-8374-8c690ce858d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_rename_antisym_a583d990c846
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_rename_antisym_a583d990c846
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:19:50.30988+00:00
 -- url     : https://prove2.me/theorems/4b093775-e0f2-4a5d-a39a-5d2fafabb91b

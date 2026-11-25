@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity_comap_C_map_22a1272d45e2
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity_comap_C_map_22a1272d45e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:12:23.69635+00:00
 -- url     : https://prove2.me/theorems/ffa44909-4933-49fb-9260-75c63605554d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_reject_le_ker_of_mem
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.reject_le_ker_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:10:38.322522+00:00
 -- url     : https://prove2.me/theorems/b638f344-b48d-580f-adad-e517a6c7cd5e

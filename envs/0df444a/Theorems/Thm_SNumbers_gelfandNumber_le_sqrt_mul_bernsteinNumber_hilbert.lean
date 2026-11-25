@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_le_sqrt_mul_bernsteinNumber_hilbert
 -- name    : SNumbers.gelfandNumber_le_sqrt_mul_bernsteinNumber_hilbert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:17:55.332612+00:00
 -- url     : https://prove2.me/theorems/ec8a2b85-ddc1-4df3-b6c8-160a45b2bca9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_trunc_coord_of_le
 -- name    : SNumbers.L1Linf.trunc_coord_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:54:14.5678+00:00
 -- url     : https://prove2.me/theorems/fa5d8954-dfa5-422b-817b-c42c26355e6f

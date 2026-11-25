@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_weierstrassPoly_dvd_of_polyToGerm_dvd_2fcad7a46d41
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_weierstrassPoly_dvd_of_polyToGerm_dvd_2fcad7a46d41
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:21:57.9345+00:00
 -- url     : https://prove2.me/theorems/98e97ea9-c126-416d-a94a-c611658c10ed

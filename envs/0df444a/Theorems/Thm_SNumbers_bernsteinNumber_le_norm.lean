@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_le_norm
 -- name    : SNumbers.bernsteinNumber_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:02:17.069805+00:00
 -- url     : https://prove2.me/theorems/4a649862-a353-59e6-9a33-e642e3108a07

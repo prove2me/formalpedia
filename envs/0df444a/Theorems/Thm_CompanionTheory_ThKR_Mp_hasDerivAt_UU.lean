@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_hasDerivAt_UU
 -- name    : CompanionTheory.ThKR.Mp.hasDerivAt_UU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:18:47.106675+00:00
 -- url     : https://prove2.me/theorems/3ceb625e-cabd-4438-b24f-3eaab944b77a

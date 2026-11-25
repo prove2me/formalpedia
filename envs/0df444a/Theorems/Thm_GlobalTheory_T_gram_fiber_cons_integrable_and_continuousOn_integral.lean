@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_cons_integrable_and_continuousOn_integral
 -- name    : GlobalTheory.T.gram_fiber_cons_integrable_and_continuousOn_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:42:50.31017+00:00
 -- url     : https://prove2.me/theorems/57d15583-64d4-487b-be6a-d6ec94aaca23

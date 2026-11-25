@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PeriodGramPosDef_qf_gram_22a36bb6f9bd
 -- name    : P2M_GroundTheory_Heights__Heights_PeriodGramPosDef_qf_gram_22a36bb6f9bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:43.302534+00:00
 -- url     : https://prove2.me/theorems/76c0b937-a81e-4483-8366-4a221ac776fe

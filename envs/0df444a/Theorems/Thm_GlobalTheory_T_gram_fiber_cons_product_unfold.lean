@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_cons_product_unfold
 -- name    : GlobalTheory.T.gram_fiber_cons_product_unfold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:42:38.454794+00:00
 -- url     : https://prove2.me/theorems/1b12479b-9127-4d44-8616-94bdf1b4ebe0

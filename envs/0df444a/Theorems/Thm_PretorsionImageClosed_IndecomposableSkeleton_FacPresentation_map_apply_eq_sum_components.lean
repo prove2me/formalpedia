@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_FacPresentation_map_apply_eq_sum_components
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.FacPresentation.map_apply_eq_sum_components
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:14:05.78312+00:00
 -- url     : https://prove2.me/theorems/9ff5a682-5bf0-4b01-8015-e2d018d35bf0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_IsZHatGenerator_isZero_cohomology_two
 -- name    : GroundTheory.ProfCoh.IsZHatGenerator.isZero_cohomology_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:49:26.060976+00:00
 -- url     : https://prove2.me/theorems/56af44d5-2016-59ad-ac88-0a8a8543ea95

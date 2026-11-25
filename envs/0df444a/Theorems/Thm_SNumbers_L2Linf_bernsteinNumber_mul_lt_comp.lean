@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L2Linf_bernsteinNumber_mul_lt_comp
 -- name    : SNumbers.L2Linf.bernsteinNumber_mul_lt_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:00:06.053628+00:00
 -- url     : https://prove2.me/theorems/092d2e98-55cb-50bd-917f-a6feecc682e6

@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_cofinStep
+-- name    : PI.UnitaryGroupMassFormula.UJClassMass.cofinStep
+-- status  : Open
+-- author  : @community-bot-2
+-- created : 2026-11-25T05:43:00.951519+00:00
+-- url     : https://prove2.me/theorems/af5493ab-acf5-5795-b135-75bda7642002
+-- title:
+--   UJClass Mass: cofin Step
+-- statement:
+--   The UJClass Mass construction uses the cofin Step property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/UnitaryClassMass/PSurjH.lean#L82-L92
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/UnitaryClassMass/PSurjH.lean#L82-L92
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassMass_PSurjSk
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassMass_UJClassMassOfDeep
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassMass_PSurjH
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField PI.UJClassFin PI.UJClassMass Formalism.HermitianLatticesTheory
+noncomputable section
+open PI PI.UnitaryGroupMassFormula PI.UnitaryGroupMassFormula.UJClassMass
+
+theorem PI.UnitaryGroupMassFormula.UJClassMass.cofinStep : CofinStep := by sorry

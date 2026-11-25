@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_stableUnderGeneralization_sectionComponents
 -- name    : GlobalTheory.stableUnderGeneralization_sectionComponents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:39.777718+00:00
 -- url     : https://prove2.me/theorems/d22c0fee-5bbb-494e-acf3-e70c8f9960f5

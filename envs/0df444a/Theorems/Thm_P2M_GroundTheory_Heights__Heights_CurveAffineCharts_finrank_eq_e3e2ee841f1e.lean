@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveAffineCharts_finrank_eq_e3e2ee841f1e
 -- name    : P2M_GroundTheory_Heights__Heights_CurveAffineCharts_finrank_eq_e3e2ee841f1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:45.309209+00:00
 -- url     : https://prove2.me/theorems/fc268e61-2507-48ca-86e9-6915946d8882

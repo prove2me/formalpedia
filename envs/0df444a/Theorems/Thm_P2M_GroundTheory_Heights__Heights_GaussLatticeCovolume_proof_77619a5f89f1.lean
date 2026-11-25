@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussLatticeCovolume_proof_77619a5f89f1
 -- name    : P2M_GroundTheory_Heights__Heights_GaussLatticeCovolume_proof_77619a5f89f1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:34.928805+00:00
 -- url     : https://prove2.me/theorems/750d4036-6074-42b4-9f36-23b4ac120b4f

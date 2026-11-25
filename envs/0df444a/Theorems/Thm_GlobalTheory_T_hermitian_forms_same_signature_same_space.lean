@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_forms_same_signature_same_space
 -- name    : GlobalTheory.T.hermitian_forms_same_signature_same_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:45:19.992153+00:00
 -- url     : https://prove2.me/theorems/4b4d0eab-d59d-46f7-be51-4a69facd8da1

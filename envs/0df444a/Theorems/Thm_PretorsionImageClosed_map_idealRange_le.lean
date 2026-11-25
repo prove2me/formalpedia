@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_map_idealRange_le
 -- name    : PretorsionImageClosed.map_idealRange_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:13:08.489492+00:00
 -- url     : https://prove2.me/theorems/646eb8d3-c5b3-4a32-bc65-73951bbc870d

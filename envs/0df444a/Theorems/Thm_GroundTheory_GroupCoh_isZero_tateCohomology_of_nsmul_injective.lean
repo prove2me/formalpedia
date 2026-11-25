@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_tateCohomology_of_nsmul_injective
 -- name    : GroundTheory.GroupCoh.isZero_tateCohomology_of_nsmul_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:17.383573+00:00
 -- url     : https://prove2.me/theorems/c91460e9-dd5a-4afc-9692-4138a4fa39c6

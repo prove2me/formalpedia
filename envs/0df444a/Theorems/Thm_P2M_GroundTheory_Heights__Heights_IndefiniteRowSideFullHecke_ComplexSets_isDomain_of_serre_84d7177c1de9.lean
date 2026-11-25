@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isDomain_of_serre_84d7177c1de9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isDomain_of_serre_84d7177c1de9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:37:11.224325+00:00
 -- url     : https://prove2.me/theorems/a30db635-634e-4039-9b2f-06c7def6062a

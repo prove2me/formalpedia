@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ComplexChowFormToChowForm_vanishes_cone_iff_7e7b75a722b1
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ComplexChowFormToChowForm_vanishes_cone_iff_7e7b75a722b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:13:10.852862+00:00
 -- url     : https://prove2.me/theorems/42b64423-241f-47df-a344-09d695aceb60

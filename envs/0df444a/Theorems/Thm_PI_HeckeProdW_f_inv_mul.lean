@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_PI_HeckeProdW_f_inv_mul
+-- name    : PI.HeckeProdW.f_inv_mul
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-25T05:31:00.476863+00:00
+-- url     : https://prove2.me/theorems/5617806c-fd9e-5145-8c0b-7a9c16707523
+-- title:
+--   Hecke Prod W: f inv mul
+-- statement:
+--   The Hecke Prod W construction uses the f inv mul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/HeckeLocalProduct/PvLocalSelf.lean#L23-L25
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/HeckeLocalProduct/PvLocalSelf.lean#L23-L25
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_UnitaryNorms_IsUnitaryNormOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HeckeLocalProduct_Kernel
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HeckeLocalProduct_PvLocalSelf
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open NumberField IsDedekindDomain Neutral.B1 ReciprocityTheory.Neutral.Bridge.HCFR Formalism.L2.Host RestrictedProduct
+open PI PI.HeckeProdW
+variable {L : Type} [Field L] [NumberField L]
+
+theorem PI.HeckeProdW.f_inv_mul {M : Type*} [Monoid M] (f : Ideles L →* M) (A D : Ideles L) (h : f A = f D) :
+    f (A⁻¹ * D) = 1 := by sorry

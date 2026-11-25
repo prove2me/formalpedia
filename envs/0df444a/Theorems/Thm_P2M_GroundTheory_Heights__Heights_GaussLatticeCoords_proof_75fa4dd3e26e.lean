@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussLatticeCoords_proof_75fa4dd3e26e
 -- name    : P2M_GroundTheory_Heights__Heights_GaussLatticeCoords_proof_75fa4dd3e26e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:22:05.504291+00:00
 -- url     : https://prove2.me/theorems/0d2cf9c6-e08c-49e1-acdf-433b96a612f2

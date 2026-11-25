@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_frame_away_41fe0ec9e5f5
 -- name    : P2M_GroundTheory_Heights__Heights_Model_frame_away_41fe0ec9e5f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:30:19.166954+00:00
 -- url     : https://prove2.me/theorems/41398233-4b34-48a0-b083-d3d1e1c57eba

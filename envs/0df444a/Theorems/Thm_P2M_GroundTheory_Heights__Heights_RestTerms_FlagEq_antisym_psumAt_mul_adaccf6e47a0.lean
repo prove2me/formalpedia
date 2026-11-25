@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_antisym_psumAt_mul_adaccf6e47a0
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_antisym_psumAt_mul_adaccf6e47a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:32.546801+00:00
 -- url     : https://prove2.me/theorems/ae6337fc-6340-4357-8234-7c8c9e2d05b9

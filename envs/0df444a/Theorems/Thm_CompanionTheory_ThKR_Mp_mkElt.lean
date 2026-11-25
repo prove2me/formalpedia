@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_mkElt
 -- name    : CompanionTheory.ThKR.Mp.mkElt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:21:07.826319+00:00
 -- url     : https://prove2.me/theorems/822bc3ee-0a25-42e9-96e6-254a25d8ffbf

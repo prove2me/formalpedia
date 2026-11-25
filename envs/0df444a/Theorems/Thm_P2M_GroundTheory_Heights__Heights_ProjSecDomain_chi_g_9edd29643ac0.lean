@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjSecDomain_chi_g_9edd29643ac0
 -- name    : P2M_GroundTheory_Heights__Heights_ProjSecDomain_chi_g_9edd29643ac0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:05.101792+00:00
 -- url     : https://prove2.me/theorems/c2cf6ec5-67a4-4112-8b3b-f080b82987be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_splitting_integral_forms_bound
 -- name    : GlobalTheory.T.splitting_integral_forms_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:59:17.10619+00:00
 -- url     : https://prove2.me/theorems/096e7458-3d49-437f-8c93-014a1ce0921c

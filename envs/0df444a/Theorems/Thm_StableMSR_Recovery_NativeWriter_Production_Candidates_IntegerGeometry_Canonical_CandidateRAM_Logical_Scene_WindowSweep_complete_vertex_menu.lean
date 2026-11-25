@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_Scene_WindowSweep_complete_vertex_menu
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.WindowSweep.complete_vertex_menu
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-25T05:23:56.891803+00:00
 -- url     : https://prove2.me/theorems/9145d5ca-3bc3-5945-81f5-60d3b1a33c42

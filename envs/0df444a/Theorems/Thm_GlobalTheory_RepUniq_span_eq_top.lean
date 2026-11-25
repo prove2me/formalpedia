@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_span_eq_top
 -- name    : GlobalTheory.RepUniq.span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:53:27.950856+00:00
 -- url     : https://prove2.me/theorems/1fe47d97-1d17-5593-b2a7-1120bc8d718c

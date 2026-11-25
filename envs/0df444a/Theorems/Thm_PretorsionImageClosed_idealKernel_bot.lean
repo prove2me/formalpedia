@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_idealKernel_bot
 -- name    : PretorsionImageClosed.idealKernel_bot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:05:46.80498+00:00
 -- url     : https://prove2.me/theorems/a54dd740-b7b4-52ef-98a8-529d9f6cab28

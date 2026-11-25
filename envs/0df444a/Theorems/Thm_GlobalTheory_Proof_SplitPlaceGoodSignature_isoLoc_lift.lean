@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_SplitPlaceGoodSignature_isoLoc_lift
 -- name    : GlobalTheory.Proof.SplitPlaceGoodSignature.isoLoc_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:39:20.780035+00:00
 -- url     : https://prove2.me/theorems/33407f6d-50b1-408c-b616-f52cdf391c59

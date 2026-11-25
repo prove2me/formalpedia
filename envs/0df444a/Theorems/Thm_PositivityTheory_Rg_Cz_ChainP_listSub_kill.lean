@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_ChainP_listSub_kill
+-- name    : PositivityTheory.Rg.Cz.ChainP.listSub_kill
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-25T05:49:08.708098+00:00
+-- url     : https://prove2.me/theorems/29913e97-afd8-4419-bbe2-72fdd7de55e5
+-- title:
+--   Chain P: list Sub kill
+-- statement:
+--   The Chain P construction uses the list Sub kill property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/WeilBound/RepresentationTheoryGL/CasimirAlgebra/TensorRelationsGL/PChainA.lean#L79-L89
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/WeilBound/RepresentationTheoryGL/CasimirAlgebra/TensorRelationsGL/PChainA.lean#L79-L89
+
+import Definitions.Def_Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_LiftCommEAt
+import Definitions.Def_Development_WeilBound_RepresentationTheoryGL_CasimirAlgebra_TensorRelationsGL_PChainA
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Formalism.REAL Matrix
+open PositivityTheory PositivityTheory.Rg PositivityTheory.Rg.Cz
+open PositivityTheory.Rg.Cz.ChainP
+variable {V W : Type} [AddCommGroup V] [Module ℂ V] [AddCommGroup W] [Module ℂ W]
+
+theorem PositivityTheory.Rg.Cz.ChainP.listSub_kill (A : Module.End ℂ V) {n : ℕ} (l : Fin n → ℂ) (c : Fin n)
+    (h0 : (List.ofFn fun k => A - algebraMap ℂ _ (l k)).prod = 0) :
+    (((List.ofFn l).erase (l c)).map fun r => A - algebraMap ℂ _ r).prod * (A - algebraMap ℂ _ (l c)) = 0 := by sorry

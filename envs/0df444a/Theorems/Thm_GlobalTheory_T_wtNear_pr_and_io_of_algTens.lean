@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_wtNear_pr_and_io_of_algTens
 -- name    : GlobalTheory.T.wtNear_pr_and_io_of_algTens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:37.4009+00:00
 -- url     : https://prove2.me/theorems/bd43382e-3060-47b1-9f79-d10bd2d45f58

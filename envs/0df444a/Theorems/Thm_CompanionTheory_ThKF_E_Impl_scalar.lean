@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKF_E_Impl_scalar
 -- name    : CompanionTheory.ThKF.E.Impl.scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:26:25.390825+00:00
 -- url     : https://prove2.me/theorems/6e92c4af-a18d-46a5-a5a9-9e225b973825

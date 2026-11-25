@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_CohTrivial_tateAcyclic
 -- name    : GroundTheory.GroupCoh.CohTrivial.tateAcyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:49.341978+00:00
 -- url     : https://prove2.me/theorems/ea2d6a92-93da-5f2b-974f-24d77cca28ea

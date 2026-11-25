@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Sym_diff_prod
 -- name    : GlobalTheory.KS.Sym.diff_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T17:45:27.302581+00:00
 -- url     : https://prove2.me/theorems/1cbe36d5-4615-40b8-a618-3f3126444b24

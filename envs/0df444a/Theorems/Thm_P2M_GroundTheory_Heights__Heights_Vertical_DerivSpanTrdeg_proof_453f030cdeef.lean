@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_DerivSpanTrdeg_proof_453f030cdeef
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_DerivSpanTrdeg_proof_453f030cdeef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:33.074947+00:00
 -- url     : https://prove2.me/theorems/82f1b7e5-61c5-4e2b-99e2-7e4ddebd5333

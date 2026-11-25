@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_mem_of_block_vars_mem_572dc42ada6f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_mem_of_block_vars_mem_572dc42ada6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:11:36.383339+00:00
 -- url     : https://prove2.me/theorems/37653841-8973-4047-bb43-f375d62adf25

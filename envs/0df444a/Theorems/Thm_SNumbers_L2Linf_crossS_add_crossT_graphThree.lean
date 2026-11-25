@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L2Linf_crossS_add_crossT_graphThree
 -- name    : SNumbers.L2Linf.crossS_add_crossT_graphThree
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:00:07.135663+00:00
 -- url     : https://prove2.me/theorems/7f652ddf-ffbe-5856-9c39-43368e6e5e3d

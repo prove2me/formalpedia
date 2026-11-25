@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_blockPermute_antisymmetrize_63f7c060ed6c
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_blockPermute_antisymmetrize_63f7c060ed6c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:43.757933+00:00
 -- url     : https://prove2.me/theorems/1891d38b-da23-5de8-b627-8fbd8ea5b728

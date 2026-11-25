@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_analyticAt_of_differentiableOn_76a8176a8caf
 -- name    : P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_analyticAt_of_differentiableOn_76a8176a8caf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:53:35.520825+00:00
 -- url     : https://prove2.me/theorems/46a8a896-0db6-583a-b20a-b5c5412b0d25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_flagIntegral_sum_smul_blockPermute_edec349b4023
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_flagIntegral_sum_smul_blockPermute_edec349b4023
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:36:23.252151+00:00
 -- url     : https://prove2.me/theorems/ea42c8be-305b-514b-8a8f-850714de1d22

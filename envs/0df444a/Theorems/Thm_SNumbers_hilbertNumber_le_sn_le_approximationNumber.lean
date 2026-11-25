@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_hilbertNumber_le_sn_le_approximationNumber
 -- name    : SNumbers.hilbertNumber_le_sn_le_approximationNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:16:47.359814+00:00
 -- url     : https://prove2.me/theorems/b0982726-e848-5e09-8e91-ce852208f6f8

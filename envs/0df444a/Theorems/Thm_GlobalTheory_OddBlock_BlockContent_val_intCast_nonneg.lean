@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BlockContent_val_intCast_nonneg
 -- name    : GlobalTheory.OddBlock.BlockContent.val_intCast_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:34:56.648658+00:00
 -- url     : https://prove2.me/theorems/8a107907-7a8f-450b-b795-814eb1616170

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussPoissonBound_proof_dfde059c4be9
 -- name    : P2M_GroundTheory_Heights__Heights_GaussPoissonBound_proof_dfde059c4be9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:35:26.933838+00:00
 -- url     : https://prove2.me/theorems/87521546-4985-4da7-aa7a-255c740cb381

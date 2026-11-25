@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_finrank_eq_degree_of_maximal
 -- name    : GroundTheory.Brauer.finrank_eq_degree_of_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:02.148933+00:00
 -- url     : https://prove2.me/theorems/d65120b1-4c34-47de-a536-831bc04696ef

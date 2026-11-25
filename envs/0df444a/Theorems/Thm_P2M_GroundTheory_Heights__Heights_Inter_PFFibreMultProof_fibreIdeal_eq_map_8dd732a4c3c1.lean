@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_fibreIdeal_eq_map_8dd732a4c3c1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_fibreIdeal_eq_map_8dd732a4c3c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:41:38.15594+00:00
 -- url     : https://prove2.me/theorems/2dc3c3bc-7a78-4e2f-8908-5452cb9f02a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inv_five_log_le_sum_inv_primes_half_interval
 -- name    : GlobalTheory.T.inv_five_log_le_sum_inv_primes_half_interval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:52:01.418249+00:00
 -- url     : https://prove2.me/theorems/571dac31-5b9b-4a72-9668-b4b0e06676ac

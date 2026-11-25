@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionCycle_proof_66fb8ab5357f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionCycle_proof_66fb8ab5357f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:47.371392+00:00
 -- url     : https://prove2.me/theorems/f140db17-ede1-40a0-951a-ff3acb57d9c4

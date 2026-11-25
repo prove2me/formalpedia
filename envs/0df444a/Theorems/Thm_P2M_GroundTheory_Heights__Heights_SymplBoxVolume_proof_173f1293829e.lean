@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplBoxVolume_proof_173f1293829e
 -- name    : P2M_GroundTheory_Heights__Heights_SymplBoxVolume_proof_173f1293829e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:56.78689+00:00
 -- url     : https://prove2.me/theorems/551c4cd6-1ac3-4d76-a107-d03d62b90382

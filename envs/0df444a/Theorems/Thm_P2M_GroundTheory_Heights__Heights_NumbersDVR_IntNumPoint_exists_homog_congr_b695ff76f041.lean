@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_exists_homog_congr_b695ff76f041
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_exists_homog_congr_b695ff76f041
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:35:11.3915+00:00
 -- url     : https://prove2.me/theorems/ef47e67e-c24f-439d-a029-9005e623146a

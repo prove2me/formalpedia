@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SheetComassAlt_sheetJac_eq_norm_det_bfc522397957
 -- name    : P2M_GroundTheory_Heights__Heights_SheetComassAlt_sheetJac_eq_norm_det_bfc522397957
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:38:34.341424+00:00
 -- url     : https://prove2.me/theorems/b2bcbfd0-4a9b-5f96-9140-6ba5dfe963bf

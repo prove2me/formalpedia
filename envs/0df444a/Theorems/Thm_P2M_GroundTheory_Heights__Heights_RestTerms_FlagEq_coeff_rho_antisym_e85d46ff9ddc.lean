@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_coeff_rho_antisym_e85d46ff9ddc
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_coeff_rho_antisym_e85d46ff9ddc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:20:38.98693+00:00
 -- url     : https://prove2.me/theorems/accfdf38-98d4-4e4b-a56d-2cdfd83cf22a

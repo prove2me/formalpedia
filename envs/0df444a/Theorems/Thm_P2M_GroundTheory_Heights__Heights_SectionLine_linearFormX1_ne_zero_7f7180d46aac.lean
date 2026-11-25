@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionLine_linearFormX1_ne_zero_7f7180d46aac
 -- name    : P2M_GroundTheory_Heights__Heights_SectionLine_linearFormX1_ne_zero_7f7180d46aac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:51.674932+00:00
 -- url     : https://prove2.me/theorems/2d611c21-34b4-4ed2-aab1-c3518c865c4e

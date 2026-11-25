@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TrdegAdjoin_transcendental_C_mul_X_none_2119f80dd465
 -- name    : P2M_GroundTheory_Heights__Heights_TrdegAdjoin_transcendental_C_mul_X_none_2119f80dd465
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:40:56.990928+00:00
 -- url     : https://prove2.me/theorems/2e3456eb-be12-5998-9a64-0190410864b8

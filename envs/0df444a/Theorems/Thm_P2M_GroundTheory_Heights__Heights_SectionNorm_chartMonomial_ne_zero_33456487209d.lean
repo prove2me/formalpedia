@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionNorm_chartMonomial_ne_zero_33456487209d
 -- name    : P2M_GroundTheory_Heights__Heights_SectionNorm_chartMonomial_ne_zero_33456487209d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:38:30.197653+00:00
 -- url     : https://prove2.me/theorems/652d9b5c-c278-5ba3-9e8b-fb2703092f3d

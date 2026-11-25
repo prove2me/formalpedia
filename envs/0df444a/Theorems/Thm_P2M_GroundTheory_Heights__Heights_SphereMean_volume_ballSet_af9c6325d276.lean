@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_volume_ballSet_af9c6325d276
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_volume_ballSet_af9c6325d276
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:33:09.782274+00:00
 -- url     : https://prove2.me/theorems/967ffc15-3545-4286-b43d-38f7f65ce221

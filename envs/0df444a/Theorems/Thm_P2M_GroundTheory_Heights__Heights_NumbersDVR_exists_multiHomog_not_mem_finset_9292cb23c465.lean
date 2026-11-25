@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_multiHomog_not_mem_finset_9292cb23c465
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_multiHomog_not_mem_finset_9292cb23c465
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:11:47.747809+00:00
 -- url     : https://prove2.me/theorems/b35ea648-a372-4a9d-bfb2-c0e9e09f37ef

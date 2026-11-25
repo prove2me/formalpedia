@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SideCompare_thresholds_of_gapOK
 -- name    : GlobalTheory.SideCompare.thresholds_of_gapOK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:36.448208+00:00
 -- url     : https://prove2.me/theorems/ead96289-7a14-4ba1-be8c-ab1925fe29eb

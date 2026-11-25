@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_Root_build_regional_menus
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Root.build_regional_menus
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-25T04:54:48.021946+00:00
 -- url     : https://prove2.me/theorems/13b87a5d-9afb-5976-8a83-9433fa05edbe

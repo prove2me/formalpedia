@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_biextension_points_of_exp_spec
 -- name    : Formalism.L2.Th1.D.biextension_points_of_exp_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:37:33.776802+00:00
 -- url     : https://prove2.me/theorems/2ac310e9-e7d5-4c57-be59-02c9c258e2fe

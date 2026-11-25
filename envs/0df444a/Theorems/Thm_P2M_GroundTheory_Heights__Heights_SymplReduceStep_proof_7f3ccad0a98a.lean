@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplReduceStep_proof_7f3ccad0a98a
 -- name    : P2M_GroundTheory_Heights__Heights_SymplReduceStep_proof_7f3ccad0a98a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:04.176243+00:00
 -- url     : https://prove2.me/theorems/86f4b866-3efb-4bfa-b76e-d7066544cdd7

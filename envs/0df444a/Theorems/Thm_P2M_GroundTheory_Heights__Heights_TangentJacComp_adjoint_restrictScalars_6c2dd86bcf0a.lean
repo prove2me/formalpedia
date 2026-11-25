@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TangentJacComp_adjoint_restrictScalars_6c2dd86bcf0a
 -- name    : P2M_GroundTheory_Heights__Heights_TangentJacComp_adjoint_restrictScalars_6c2dd86bcf0a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:41:07.378414+00:00
 -- url     : https://prove2.me/theorems/8d2a4d35-681d-4c7c-b2c9-1def4d72562a

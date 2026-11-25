@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimMove_main
 -- name    : GlobalTheory.Mass.PrimMove.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:33:35.394889+00:00
 -- url     : https://prove2.me/theorems/e6817fec-54b3-4a44-a288-8a201c9424f1

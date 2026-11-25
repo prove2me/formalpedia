@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConjIntNum_hilbFn_map_8078c1f8a395
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConjIntNum_hilbFn_map_8078c1f8a395
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:44.923305+00:00
 -- url     : https://prove2.me/theorems/1bc83f9d-2d83-4e93-a28c-78934b4e5a85

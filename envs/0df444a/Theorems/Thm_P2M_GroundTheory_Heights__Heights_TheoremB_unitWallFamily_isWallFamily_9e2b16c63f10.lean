@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_unitWallFamily_isWallFamily_9e2b16c63f10
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_unitWallFamily_isWallFamily_9e2b16c63f10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:40:58.199826+00:00
 -- url     : https://prove2.me/theorems/c20cabe7-933a-50f0-834d-f3afa2e2d4c6

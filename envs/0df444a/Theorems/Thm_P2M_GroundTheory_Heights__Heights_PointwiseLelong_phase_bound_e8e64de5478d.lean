@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_phase_bound_e8e64de5478d
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_phase_bound_e8e64de5478d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:14:51.780348+00:00
 -- url     : https://prove2.me/theorems/500e52e6-16f7-4615-a7f3-0d9e817efbef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_length_quot_le_of_subring_c2b1608f00fd
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_length_quot_le_of_subring_c2b1608f00fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:12:13.580429+00:00
 -- url     : https://prove2.me/theorems/103443ba-2465-4e95-a801-e27f5e69c142

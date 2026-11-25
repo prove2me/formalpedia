@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_dehom_div_mem_adjoin_bc6b541a5772
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_dehom_div_mem_adjoin_bc6b541a5772
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:46.251838+00:00
 -- url     : https://prove2.me/theorems/2d8a55e9-34dc-459a-ac52-ea54e93231b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_multiHomog_of_isHomogeneous_31dce23c2d34
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_multiHomog_of_isHomogeneous_31dce23c2d34
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:04.443838+00:00
 -- url     : https://prove2.me/theorems/a601c703-f44f-4bd8-8fda-81a8c67371ea

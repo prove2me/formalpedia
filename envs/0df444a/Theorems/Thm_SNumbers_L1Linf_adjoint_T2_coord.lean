@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_adjoint_T2_coord
 -- name    : SNumbers.L1Linf.adjoint_T2_coord
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:16:22.87798+00:00
 -- url     : https://prove2.me/theorems/076fd9dd-1ab2-4195-bd2f-027929c27a0b

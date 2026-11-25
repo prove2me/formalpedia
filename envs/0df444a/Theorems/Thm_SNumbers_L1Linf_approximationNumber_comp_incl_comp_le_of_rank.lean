@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_approximationNumber_comp_incl_comp_le_of_rank
 -- name    : SNumbers.L1Linf.approximationNumber_comp_incl_comp_le_of_rank
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:15:49.240181+00:00
 -- url     : https://prove2.me/theorems/4791e822-4aa8-4a00-9709-1cccfc21ee95

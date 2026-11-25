@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_detNumber_pos_of_approximationNumber_pos
 -- name    : SNumbers.detNumber_pos_of_approximationNumber_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:00:40.289272+00:00
 -- url     : https://prove2.me/theorems/ed750c3b-d8c4-4942-89a1-d1f7cae2e1ac

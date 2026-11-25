@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_evS_eT_ne_2dfcaa0d9d00
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_evS_eT_ne_2dfcaa0d9d00
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:04:41.91334+00:00
 -- url     : https://prove2.me/theorems/46b8f2c7-5f25-4c26-823e-5247421d65bc

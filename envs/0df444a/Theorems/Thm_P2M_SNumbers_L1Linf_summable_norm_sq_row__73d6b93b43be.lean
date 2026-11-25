@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_SNumbers_L1Linf_summable_norm_sq_row__73d6b93b43be
 -- name    : P2M_SNumbers_L1Linf_summable_norm_sq_row__73d6b93b43be
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:14:40.828824+00:00
 -- url     : https://prove2.me/theorems/80af9a95-c633-4548-84d7-c758d3f42b18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_SAHolds_proof_475b63c87b38
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_SAHolds_proof_475b63c87b38
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:59.256805+00:00
 -- url     : https://prove2.me/theorems/7d3972db-ab2e-48a1-a596-d88aa732eb1f

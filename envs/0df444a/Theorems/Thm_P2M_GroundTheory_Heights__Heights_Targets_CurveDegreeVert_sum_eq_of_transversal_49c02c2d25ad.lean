@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveDegreeVert_sum_eq_of_transversal_49c02c2d25ad
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveDegreeVert_sum_eq_of_transversal_49c02c2d25ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:44:00.774936+00:00
 -- url     : https://prove2.me/theorems/91c7aefe-3bc2-4d60-acee-21312ad5d18f

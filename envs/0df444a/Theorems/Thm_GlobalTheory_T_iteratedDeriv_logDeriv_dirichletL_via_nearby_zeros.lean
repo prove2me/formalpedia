@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_iteratedDeriv_logDeriv_dirichletL_via_nearby_zeros
 -- name    : GlobalTheory.T.iteratedDeriv_logDeriv_dirichletL_via_nearby_zeros
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:54.86596+00:00
 -- url     : https://prove2.me/theorems/93979b15-a1ae-4c77-bafd-f8a169af13fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_flagIntegralReal_transfer_of_syzygy_46d401452df6
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_flagIntegralReal_transfer_of_syzygy_46d401452df6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:27.900726+00:00
 -- url     : https://prove2.me/theorems/2f9ead2a-ca3f-5c66-827d-2e94e75ee5a8

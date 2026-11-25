@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallDiscZeros_few_zeros
 -- name    : GlobalTheory.SmallDiscZeros.few_zeros
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:18:15.295892+00:00
 -- url     : https://prove2.me/theorems/b6db930f-378d-41b5-a9ec-8e2825bc5f8c

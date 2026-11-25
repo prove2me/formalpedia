@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_trace_singleton_eq_pointTrace
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.trace_singleton_eq_pointTrace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:13:47.110189+00:00
 -- url     : https://prove2.me/theorems/12db812f-af6d-4585-b214-8cd0306a7f25

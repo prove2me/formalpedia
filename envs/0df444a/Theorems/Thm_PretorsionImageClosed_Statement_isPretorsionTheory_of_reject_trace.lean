@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isPretorsionTheory_of_reject_trace
 -- name    : PretorsionImageClosed.Statement.isPretorsionTheory_of_reject_trace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:59:14.681832+00:00
 -- url     : https://prove2.me/theorems/c8b31476-b01c-48df-9577-983082b0d6da

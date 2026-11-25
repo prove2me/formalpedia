@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_homog_dehom_1e6d54fd090f
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_homog_dehom_1e6d54fd090f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:05:47.351468+00:00
 -- url     : https://prove2.me/theorems/88f47760-0b4e-55ff-bf98-4b7ad70103a2

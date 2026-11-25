@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointsBilinear_integrable_fibreSum_ca6e862a0c18
 -- name    : P2M_GroundTheory_Heights__Heights_PointsBilinear_integrable_fibreSum_ca6e862a0c18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:16.934623+00:00
 -- url     : https://prove2.me/theorems/6c0661b7-2ef9-4171-99d2-0e7a4a7fb91d

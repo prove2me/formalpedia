@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PushforwardArithIntersection_genDegAt_succ_b0303846c0e1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PushforwardArithIntersection_genDegAt_succ_b0303846c0e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:42:33.11214+00:00
 -- url     : https://prove2.me/theorems/4d712d15-e67b-499f-afef-5a1406e0de12

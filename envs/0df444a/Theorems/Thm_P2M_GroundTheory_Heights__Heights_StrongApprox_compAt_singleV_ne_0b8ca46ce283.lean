@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_compAt_singleV_ne_0b8ca46ce283
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_compAt_singleV_ne_0b8ca46ce283
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:39:43.808394+00:00
 -- url     : https://prove2.me/theorems/ced3d5be-1ade-58e0-83ea-1551d289c75b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_tateTraceHat_coe_of_mem
 -- name    : GroundTheory.PAdicHodge.tateTraceHat_coe_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:44.751581+00:00
 -- url     : https://prove2.me/theorems/8300f04e-97e2-4655-9b2d-21401a0e2f60

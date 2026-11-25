@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Extension_proof_3fa22c8847fa
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Extension_proof_3fa22c8847fa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:30:53.943564+00:00
 -- url     : https://prove2.me/theorems/c6a0ca4a-4066-4785-a1ac-217fe229fe91

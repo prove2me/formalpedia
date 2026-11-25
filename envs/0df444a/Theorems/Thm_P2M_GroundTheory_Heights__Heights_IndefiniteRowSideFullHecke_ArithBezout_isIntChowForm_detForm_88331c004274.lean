@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_isIntChowForm_detForm_88331c004274
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_isIntChowForm_detForm_88331c004274
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:26.197022+00:00
 -- url     : https://prove2.me/theorems/5e392f81-1b73-41e2-b788-485fda1e1e99

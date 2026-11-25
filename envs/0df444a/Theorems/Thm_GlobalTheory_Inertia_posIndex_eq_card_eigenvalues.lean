@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_eq_card_eigenvalues
 -- name    : GlobalTheory.Inertia.posIndex_eq_card_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:08.813113+00:00
 -- url     : https://prove2.me/theorems/3e3dd70e-89fc-42b2-b96f-6de1d87070e4

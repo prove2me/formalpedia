@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IntegralIndep_proof_4b5bf5e5d261
 -- name    : P2M_GroundTheory_Heights__Heights_IntegralIndep_proof_4b5bf5e5d261
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:57:37.890712+00:00
 -- url     : https://prove2.me/theorems/ecab5df6-a0a0-44de-9dbd-efe6697421e5

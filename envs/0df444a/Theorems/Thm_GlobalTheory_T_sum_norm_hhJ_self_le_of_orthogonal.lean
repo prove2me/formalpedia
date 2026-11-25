@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_norm_hhJ_self_le_of_orthogonal
 -- name    : GlobalTheory.T.sum_norm_hhJ_self_le_of_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:37.08367+00:00
 -- url     : https://prove2.me/theorems/90bd1b5c-2f70-4305-a547-478dc647fbb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isLocalizedModule_genFibPiece_364fc6d1a2fe
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isLocalizedModule_genFibPiece_364fc6d1a2fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:10:44.023404+00:00
 -- url     : https://prove2.me/theorems/dc010707-ae42-4d66-9139-463f558df84b

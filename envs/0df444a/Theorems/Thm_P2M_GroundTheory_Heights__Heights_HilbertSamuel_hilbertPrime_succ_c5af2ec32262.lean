@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_hilbertPrime_succ_c5af2ec32262
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_hilbertPrime_succ_c5af2ec32262
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:54.305238+00:00
 -- url     : https://prove2.me/theorems/867cea5c-3e15-4df7-b081-e19b055fed51

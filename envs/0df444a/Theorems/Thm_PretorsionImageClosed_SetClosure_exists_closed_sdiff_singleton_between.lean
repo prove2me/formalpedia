@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_exists_closed_sdiff_singleton_between
 -- name    : PretorsionImageClosed.SetClosure.exists_closed_sdiff_singleton_between
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:15:16.13841+00:00
 -- url     : https://prove2.me/theorems/c7247fb5-f24c-4dab-b405-e6e225d972d5

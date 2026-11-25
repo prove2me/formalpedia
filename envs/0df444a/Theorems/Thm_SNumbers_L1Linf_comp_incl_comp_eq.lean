@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_comp_incl_comp_eq
 -- name    : SNumbers.L1Linf.comp_incl_comp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:15:16.712684+00:00
 -- url     : https://prove2.me/theorems/29e68b80-fd8a-5060-bece-083bb97c1b8a

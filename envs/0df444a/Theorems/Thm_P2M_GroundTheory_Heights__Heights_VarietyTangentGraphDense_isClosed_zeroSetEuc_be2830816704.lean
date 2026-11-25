@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_isClosed_zeroSetEuc_be2830816704
 -- name    : P2M_GroundTheory_Heights__Heights_VarietyTangentGraphDense_isClosed_zeroSetEuc_be2830816704
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:42:31.128639+00:00
 -- url     : https://prove2.me/theorems/33217078-edcc-406b-9814-65ec5f033818

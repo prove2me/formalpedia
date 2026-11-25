@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_degLT_zero_8822dfd84ef9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_degLT_zero_8822dfd84ef9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:28:41.849233+00:00
 -- url     : https://prove2.me/theorems/aaed405d-254b-4dfc-9505-57e185f3247e

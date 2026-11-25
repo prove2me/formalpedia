@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplDetBound_proof_75776b7928b6
 -- name    : P2M_GroundTheory_Heights__Heights_SymplDetBound_proof_75776b7928b6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:59.445969+00:00
 -- url     : https://prove2.me/theorems/3e730aee-afb4-43a0-a1da-a2cf6760cb72

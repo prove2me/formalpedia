@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frame_isotropic_orthonormal
 -- name    : GlobalTheory.T.frame_isotropic_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:56:43.57407+00:00
 -- url     : https://prove2.me/theorems/9e3fd205-857a-5ba0-ad34-31a71eb79ba3

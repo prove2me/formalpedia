@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_isUnit_coneVarMap_a467678d4c4b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_isUnit_coneVarMap_a467678d4c4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:03:04.965362+00:00
 -- url     : https://prove2.me/theorems/905cdbc6-1756-4632-be4b-9079f7c35621

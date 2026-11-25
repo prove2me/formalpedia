@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_Model_placeWeight_nonneg
 -- name    : GlobalTheory.WigSh.Model.placeWeight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:53:23.972471+00:00
 -- url     : https://prove2.me/theorems/f8df32e1-85e4-4729-adad-8285599ebb96

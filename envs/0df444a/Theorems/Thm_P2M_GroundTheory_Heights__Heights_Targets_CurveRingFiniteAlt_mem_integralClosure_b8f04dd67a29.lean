@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveRingFiniteAlt_mem_integralClosure_b8f04dd67a29
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveRingFiniteAlt_mem_integralClosure_b8f04dd67a29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:42:09.113813+00:00
 -- url     : https://prove2.me/theorems/3990a4d0-94d9-4a48-8a11-d02d4792c490

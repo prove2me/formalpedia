@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_phla_cpt
 -- name    : GlobalTheory.TwoLines.phla_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:29:30.205803+00:00
 -- url     : https://prove2.me/theorems/316e70bc-9ccd-467f-9267-ce17e2bc1929

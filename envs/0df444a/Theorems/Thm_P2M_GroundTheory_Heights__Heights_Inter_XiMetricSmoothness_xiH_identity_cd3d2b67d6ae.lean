@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_XiMetricSmoothness_xiH_identity_cd3d2b67d6ae
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_XiMetricSmoothness_xiH_identity_cd3d2b67d6ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:34:25.979822+00:00
 -- url     : https://prove2.me/theorems/f091d99a-ca44-5b67-add2-0a26bafc7395

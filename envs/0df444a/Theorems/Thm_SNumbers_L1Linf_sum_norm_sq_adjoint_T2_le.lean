@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_sum_norm_sq_adjoint_T2_le
 -- name    : SNumbers.L1Linf.sum_norm_sq_adjoint_T2_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:15:16.658657+00:00
 -- url     : https://prove2.me/theorems/2f733d07-91d0-4e06-94fc-62c31eb30217

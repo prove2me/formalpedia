@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_blockVandermonde_eq_prod_c4f2ba1d0b15
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_blockVandermonde_eq_prod_c4f2ba1d0b15
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:21:12.987873+00:00
 -- url     : https://prove2.me/theorems/f5dc0215-ad8a-49e1-b103-aea7013e6401

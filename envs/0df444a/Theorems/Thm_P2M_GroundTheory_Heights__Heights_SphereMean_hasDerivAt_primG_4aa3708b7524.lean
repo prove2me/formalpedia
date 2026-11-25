@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_hasDerivAt_primG_4aa3708b7524
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_hasDerivAt_primG_4aa3708b7524
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:39:34.968634+00:00
 -- url     : https://prove2.me/theorems/f9e5fbe0-5d95-547c-972b-ac032c80fe37

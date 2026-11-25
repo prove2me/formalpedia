@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_exists_congr_diagonal_of_card_eq
 -- name    : GlobalTheory.Inertia.exists_congr_diagonal_of_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:37:43.601212+00:00
 -- url     : https://prove2.me/theorems/59532ddd-e7b1-4f55-9e64-7149ba2edbe2

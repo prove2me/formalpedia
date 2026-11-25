@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_map_compAt_mem_SU_3b573f666034
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_map_compAt_mem_SU_3b573f666034
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:40:08.548294+00:00
 -- url     : https://prove2.me/theorems/d0022355-08f2-517e-85f4-63cc9854d850

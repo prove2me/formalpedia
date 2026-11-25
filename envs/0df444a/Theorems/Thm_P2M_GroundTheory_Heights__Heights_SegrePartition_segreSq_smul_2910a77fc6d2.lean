@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegrePartition_segreSq_smul_2910a77fc6d2
 -- name    : P2M_GroundTheory_Heights__Heights_SegrePartition_segreSq_smul_2910a77fc6d2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:33:11.749796+00:00
 -- url     : https://prove2.me/theorems/a20a0e7e-e390-4f36-8a74-045e3825eeae

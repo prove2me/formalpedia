@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Unimod_finite_between
 -- name    : GlobalTheory.DegCnt.Unimod.finite_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:45:21.276872+00:00
 -- url     : https://prove2.me/theorems/edb722e6-43c8-4beb-af9c-16189cf0c021

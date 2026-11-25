@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_gmfOut_zero_9add85c2d281
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_gmfOut_zero_9add85c2d281
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:28.976138+00:00
 -- url     : https://prove2.me/theorems/c2f4cf0f-69c4-55b2-bf1a-f0fb96541941

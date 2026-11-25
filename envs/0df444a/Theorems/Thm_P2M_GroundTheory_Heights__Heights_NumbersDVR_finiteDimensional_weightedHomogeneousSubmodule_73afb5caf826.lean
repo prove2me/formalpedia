@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_finiteDimensional_weightedHomogeneousSubmodule_73afb5caf826
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_finiteDimensional_weightedHomogeneousSubmodule_73afb5caf826
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:09:58.727705+00:00
 -- url     : https://prove2.me/theorems/59ba1d17-0c34-5b9f-a4ea-ff01061d72e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mass_degType_le_card_cycleType_div
 -- name    : GlobalTheory.T.mass_degType_le_card_cycleType_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:28:03.583563+00:00
 -- url     : https://prove2.me/theorems/6ebd854b-06aa-43e9-b6cf-96ab46742068

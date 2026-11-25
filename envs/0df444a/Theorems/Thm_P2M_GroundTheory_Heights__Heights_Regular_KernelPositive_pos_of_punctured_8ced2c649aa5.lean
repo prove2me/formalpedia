@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_KernelPositive_pos_of_punctured_8ced2c649aa5
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_KernelPositive_pos_of_punctured_8ced2c649aa5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:18:50.215315+00:00
 -- url     : https://prove2.me/theorems/b5260950-e5d2-4afb-868c-2c396f8835eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_norm_projinf_le
 -- name    : SNumbers.L1Linf.norm_projinf_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:13:24.928005+00:00
 -- url     : https://prove2.me/theorems/f2d03946-afd4-52ad-982a-9f27f800dae0

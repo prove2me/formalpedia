@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCurve_trdeg_range_coneMapQ_87f5e893117f
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCurve_trdeg_range_coneMapQ_87f5e893117f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:39.844186+00:00
 -- url     : https://prove2.me/theorems/c9fe4914-3148-4b4c-98a6-bf3002624f8e

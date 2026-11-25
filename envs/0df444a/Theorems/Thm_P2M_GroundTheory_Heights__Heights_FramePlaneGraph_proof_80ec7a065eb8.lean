@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FramePlaneGraph_proof_80ec7a065eb8
 -- name    : P2M_GroundTheory_Heights__Heights_FramePlaneGraph_proof_80ec7a065eb8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:52.254214+00:00
 -- url     : https://prove2.me/theorems/dea58735-9abb-4a77-abc9-f5f24078ec6f

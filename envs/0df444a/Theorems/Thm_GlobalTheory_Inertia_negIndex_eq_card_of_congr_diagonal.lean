@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_negIndex_eq_card_of_congr_diagonal
 -- name    : GlobalTheory.Inertia.negIndex_eq_card_of_congr_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:37:37.325576+00:00
 -- url     : https://prove2.me/theorems/31dbdee1-1e3f-4a70-93f4-de62b691dbb0

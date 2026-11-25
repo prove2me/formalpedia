@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_sum_norm_sq_col_le_norm_sq
 -- name    : SNumbers.L1Linf.sum_norm_sq_col_le_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:14:23.93411+00:00
 -- url     : https://prove2.me/theorems/18fef0fe-91ee-4e7a-9da6-14c12d79de20

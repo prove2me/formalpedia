@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussSqrt_proof_9e3f64986b0c
 -- name    : P2M_GroundTheory_Heights__Heights_GaussSqrt_proof_9e3f64986b0c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:36.445553+00:00
 -- url     : https://prove2.me/theorems/123e4d20-866e-436b-b783-488d7cb935c1

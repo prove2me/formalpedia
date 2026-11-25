@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_norm_T1_apply_sq
 -- name    : SNumbers.L1Linf.norm_T1_apply_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:14:59.966261+00:00
 -- url     : https://prove2.me/theorems/331a3970-4a32-417a-aee8-71c52f41a671

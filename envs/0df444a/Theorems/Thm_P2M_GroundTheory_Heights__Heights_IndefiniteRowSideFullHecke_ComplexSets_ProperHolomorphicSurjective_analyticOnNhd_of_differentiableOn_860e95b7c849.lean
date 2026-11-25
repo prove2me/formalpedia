@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProperHolomorphicSurjective_analyticOnNhd_of_differentiableOn_860e95b7c849
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ProperHolomorphicSurjective_analyticOnNhd_of_differentiableOn_860e95b7c849
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:31:49.448419+00:00
 -- url     : https://prove2.me/theorems/06c5f7d2-8beb-43b1-8e4d-d55fc36cfb45

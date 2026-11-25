@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_syzygy_term_zero_de0130de93cd
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_syzygy_term_zero_de0130de93cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:21:01.775856+00:00
 -- url     : https://prove2.me/theorems/bd6f0594-e5f9-4bc8-94ad-606555e8ed45

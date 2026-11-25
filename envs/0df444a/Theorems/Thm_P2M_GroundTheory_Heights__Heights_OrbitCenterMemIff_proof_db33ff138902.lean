@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCenterMemIff_proof_db33ff138902
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCenterMemIff_proof_db33ff138902
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:51.883509+00:00
 -- url     : https://prove2.me/theorems/00289438-512d-417f-8ae1-4f3ae672762e

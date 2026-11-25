@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_IsCompactOperator_truncation_residual_eq_approxNumber
 -- name    : SVD.IsCompactOperator.truncation_residual_eq_approxNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:19:14.247849+00:00
 -- url     : https://prove2.me/theorems/3c7aceb7-cea0-4881-8900-fe9d95bfe558

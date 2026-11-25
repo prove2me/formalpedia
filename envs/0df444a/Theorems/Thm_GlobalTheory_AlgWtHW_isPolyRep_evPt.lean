@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtHW_isPolyRep_evPt
 -- name    : GlobalTheory.AlgWtHW.isPolyRep_evPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:58:25.836799+00:00
 -- url     : https://prove2.me/theorems/178eb427-8053-4cd8-85fb-937b285ecd68

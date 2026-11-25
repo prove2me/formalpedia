@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_one_div_le_hilbertNumber
 -- name    : SNumbers.L1Linf.one_div_le_hilbertNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:13:37.095522+00:00
 -- url     : https://prove2.me/theorems/20d2b1db-1177-594c-bb72-5c68629fdc3e

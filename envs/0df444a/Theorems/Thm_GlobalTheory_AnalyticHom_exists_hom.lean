@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnalyticHom_exists_hom
 -- name    : GlobalTheory.AnalyticHom.exists_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:23:38.276092+00:00
 -- url     : https://prove2.me/theorems/0dccdaf3-0860-59f2-9f7b-562edb7a2248

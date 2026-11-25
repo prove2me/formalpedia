@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_antisymmetrize_prod_39abdaefbbe5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_antisymmetrize_prod_39abdaefbbe5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:50.088859+00:00
 -- url     : https://prove2.me/theorems/88f3d8f8-f0ec-40a9-874d-ee06429d1fea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_NodeGapNoncompact_typings_equiv
 -- name    : GlobalTheory.Proof.NodeGapNoncompact.typings_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:49:17.440014+00:00
 -- url     : https://prove2.me/theorems/ba833737-65e9-573b-b5f8-8745835e6b37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_homotopy_zero_79af76184472
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHCombContract_homotopy_zero_79af76184472
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:40:54.762076+00:00
 -- url     : https://prove2.me/theorems/1809ed83-6e87-59a3-b28e-af8df1315e5d

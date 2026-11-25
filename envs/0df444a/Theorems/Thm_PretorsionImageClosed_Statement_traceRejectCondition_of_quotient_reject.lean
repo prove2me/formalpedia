@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_traceRejectCondition_of_quotient_reject
 -- name    : PretorsionImageClosed.Statement.traceRejectCondition_of_quotient_reject
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:38:35.86179+00:00
 -- url     : https://prove2.me/theorems/a5ac6619-96be-4fcf-995c-7a488c9711d3

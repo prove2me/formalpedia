@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_plancherel
 -- name    : GlobalTheory.SW.FourierJ.plancherel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:38:50.37274+00:00
 -- url     : https://prove2.me/theorems/a18888fd-fb17-485e-8aa8-4934d65182a4

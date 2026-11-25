@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normal_local_is_localisation_of_finite_over_polynomial
 -- name    : GlobalTheory.normal_local_is_localisation_of_finite_over_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:13:14.432567+00:00
 -- url     : https://prove2.me/theorems/42c66bc8-631f-4eac-9193-e0f3110b2282

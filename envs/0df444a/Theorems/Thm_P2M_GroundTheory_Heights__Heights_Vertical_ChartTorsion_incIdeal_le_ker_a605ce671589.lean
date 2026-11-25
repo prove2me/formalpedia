@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_ChartTorsion_incIdeal_le_ker_a605ce671589
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_ChartTorsion_incIdeal_le_ker_a605ce671589
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:53.451656+00:00
 -- url     : https://prove2.me/theorems/576fb812-b37d-4a21-8c62-c9faad074603

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_multAt_eq_length_locC_ec2a4d76e286
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_multAt_eq_length_locC_ec2a4d76e286
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:13:40.590898+00:00
 -- url     : https://prove2.me/theorems/b8739f31-5a5a-4602-9932-52badaa40236

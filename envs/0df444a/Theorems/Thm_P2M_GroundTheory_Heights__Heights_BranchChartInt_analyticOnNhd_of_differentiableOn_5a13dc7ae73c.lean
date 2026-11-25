@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchChartInt_analyticOnNhd_of_differentiableOn_5a13dc7ae73c
 -- name    : P2M_GroundTheory_Heights__Heights_BranchChartInt_analyticOnNhd_of_differentiableOn_5a13dc7ae73c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:19:52.311791+00:00
 -- url     : https://prove2.me/theorems/b346823a-c185-4f99-ad47-e46c157ebe0a

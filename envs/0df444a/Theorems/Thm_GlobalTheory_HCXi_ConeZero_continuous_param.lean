@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeZero_continuous_param
 -- name    : GlobalTheory.HCXi.ConeZero.continuous_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:31:20.373288+00:00
 -- url     : https://prove2.me/theorems/b9651398-2c24-4dbc-94e9-23aff345057f

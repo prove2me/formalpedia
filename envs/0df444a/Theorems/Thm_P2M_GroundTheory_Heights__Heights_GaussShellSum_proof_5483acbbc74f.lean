@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussShellSum_proof_5483acbbc74f
 -- name    : P2M_GroundTheory_Heights__Heights_GaussShellSum_proof_5483acbbc74f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:35.409807+00:00
 -- url     : https://prove2.me/theorems/9e83837f-2693-4ea5-8459-4530d1f48a3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_branchLift_mem_f862ff20aa70
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_branchLift_mem_f862ff20aa70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:17:20.784478+00:00
 -- url     : https://prove2.me/theorems/5e7eaafc-0a6f-5b1c-8f10-244979725adb

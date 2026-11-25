@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_exists_analytic_log_14266ed031aa
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_exists_analytic_log_14266ed031aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:18:06.870997+00:00
 -- url     : https://prove2.me/theorems/65a70d1c-6b7d-4269-9fe2-7bf0ab63103b

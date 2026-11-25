@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormDimLe_ringKrullDim_eq_of_comap_8e644d83cbeb
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormDimLe_ringKrullDim_eq_of_comap_8e644d83cbeb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:23.246138+00:00
 -- url     : https://prove2.me/theorems/fd7a24c3-1873-4a57-bb93-c375160076f2

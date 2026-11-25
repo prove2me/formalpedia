@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCompletelyReducible_kronecker_of_span_eq_top
 -- name    : GlobalTheory.T.isCompletelyReducible_kronecker_of_span_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:49:14.765294+00:00
 -- url     : https://prove2.me/theorems/34d0131f-ef36-4527-870c-441ea843d4e1

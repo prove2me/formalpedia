@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_InvEntryDeriv_proof_53682d2e3ca1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:08.62501+00:00
 -- url     : https://prove2.me/submissions/e55ee2d8-f546-4bd7-9a07-b01b3b3c2009
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_MatrixCharts_Statements

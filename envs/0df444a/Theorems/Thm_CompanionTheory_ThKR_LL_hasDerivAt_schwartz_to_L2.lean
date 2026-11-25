@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_LL_hasDerivAt_schwartz_to_L2
 -- name    : CompanionTheory.ThKR.LL.hasDerivAt_schwartz_to_L2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:26:25.335259+00:00
 -- url     : https://prove2.me/theorems/24e28342-83f1-4ba2-b87e-724939f8dd3b

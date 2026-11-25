@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionHyperplaneAvoid_proof_cbda02c103b9
 -- name    : P2M_GroundTheory_Heights__Heights_SectionHyperplaneAvoid_proof_cbda02c103b9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:12.44714+00:00
 -- url     : https://prove2.me/theorems/9ccca22b-9ea8-4182-b49f-e207924a6492

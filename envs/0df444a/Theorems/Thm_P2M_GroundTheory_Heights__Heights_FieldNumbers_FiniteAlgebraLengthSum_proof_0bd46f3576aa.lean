@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_FiniteAlgebraLengthSum_proof_0bd46f3576aa
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_FiniteAlgebraLengthSum_proof_0bd46f3576aa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:39.132471+00:00
 -- url     : https://prove2.me/theorems/545dd730-fc7f-443f-a233-8f32dcd00f3f

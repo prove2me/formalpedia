@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_exists_of_mem_map_c82db5f1edd1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_exists_of_mem_map_c82db5f1edd1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:41:33.171856+00:00
 -- url     : https://prove2.me/theorems/95cdba05-7289-4a7d-88b1-b23a90bd96b0

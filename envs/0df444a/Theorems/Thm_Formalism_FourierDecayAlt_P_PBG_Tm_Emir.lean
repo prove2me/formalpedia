@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_Tm_Emir
 -- name    : Formalism.FourierDecayAlt.P.PBG.Tm_Emir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:03:26.465656+00:00
 -- url     : https://prove2.me/theorems/d5e9858e-04bd-45f6-ac89-963a799dffb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_projinf_comp_incl_comp_emb1
 -- name    : SNumbers.L1Linf.projinf_comp_incl_comp_emb1
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:14:42.418015+00:00
 -- url     : https://prove2.me/theorems/230d79b9-a6d3-4a74-a14c-6e0318abf587

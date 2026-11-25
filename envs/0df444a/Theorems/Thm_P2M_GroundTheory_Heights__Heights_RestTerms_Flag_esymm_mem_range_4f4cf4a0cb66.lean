@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_esymm_mem_range_4f4cf4a0cb66
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_esymm_mem_range_4f4cf4a0cb66
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:59.951705+00:00
 -- url     : https://prove2.me/theorems/85fe3072-d82a-4b0e-9a7d-1dbe104b1b85

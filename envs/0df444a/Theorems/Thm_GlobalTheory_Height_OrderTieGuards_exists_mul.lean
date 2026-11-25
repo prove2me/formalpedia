@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Height_OrderTieGuards_exists_mul
 -- name    : GlobalTheory.Height.OrderTieGuards.exists_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:43:09.005803+00:00
 -- url     : https://prove2.me/theorems/a2dd062f-32ae-47c0-9c1f-e52b72eb2bdc

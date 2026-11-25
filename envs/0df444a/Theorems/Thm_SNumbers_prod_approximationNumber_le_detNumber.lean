@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_prod_approximationNumber_le_detNumber
 -- name    : SNumbers.prod_approximationNumber_le_detNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:59:05.501995+00:00
 -- url     : https://prove2.me/theorems/314c1007-a3c7-4407-9c2d-b109573e2a8b

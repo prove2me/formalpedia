@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_segre_lift_eq_smul_efc1b61b0f6d
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_segre_lift_eq_smul_efc1b61b0f6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:41:18.061646+00:00
 -- url     : https://prove2.me/theorems/5b5a9d14-a9c1-460b-9ab8-e40ff17d0982

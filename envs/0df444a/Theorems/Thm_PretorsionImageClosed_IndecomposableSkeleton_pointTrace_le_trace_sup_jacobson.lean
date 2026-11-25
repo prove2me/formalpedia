@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_pointTrace_le_trace_sup_jacobson
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.pointTrace_le_trace_sup_jacobson
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:12:59.304362+00:00
 -- url     : https://prove2.me/theorems/3d87d14e-53a1-581c-840e-92d43d1c226e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsPretorsionTheory_prop_iff_prop_trace
 -- name    : PretorsionImageClosed.Statement.IsPretorsionTheory.prop_iff_prop_trace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:27:53.761373+00:00
 -- url     : https://prove2.me/theorems/d7450ea0-92b9-4edc-9ed6-7049ef85e20e

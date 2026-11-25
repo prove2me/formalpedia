@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_D_BMinus1_of__de0cf6579b8d
 -- name    : P2M_Formalism_L2_Th1_D_BMinus1_of__de0cf6579b8d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:47.252018+00:00
 -- url     : https://prove2.me/theorems/1a201453-7008-40a9-a9f5-5cab62adc736

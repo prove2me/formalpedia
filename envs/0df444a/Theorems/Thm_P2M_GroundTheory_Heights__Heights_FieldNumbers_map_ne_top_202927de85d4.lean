@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_map_ne_top_202927de85d4
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_map_ne_top_202927de85d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:56.474207+00:00
 -- url     : https://prove2.me/theorems/fdf143b3-f2bf-4e84-8ac4-1fd7f33a4b0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_divCycle_eq_of_cross_e8d8a257b3c8
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_divCycle_eq_of_cross_e8d8a257b3c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:36:59.749727+00:00
 -- url     : https://prove2.me/theorems/a5188f90-aed5-4803-9eed-657f3ea46418

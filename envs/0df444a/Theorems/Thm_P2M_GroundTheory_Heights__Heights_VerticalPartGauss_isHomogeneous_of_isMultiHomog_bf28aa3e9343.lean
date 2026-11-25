@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isHomogeneous_of_isMultiHomog_bf28aa3e9343
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isHomogeneous_of_isMultiHomog_bf28aa3e9343
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:43:28.395931+00:00
 -- url     : https://prove2.me/theorems/1fead6d0-6acd-470b-adfc-143a658ed101

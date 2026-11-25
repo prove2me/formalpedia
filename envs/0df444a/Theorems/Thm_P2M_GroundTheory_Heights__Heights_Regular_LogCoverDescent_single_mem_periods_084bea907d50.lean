@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_single_mem_periods_084bea907d50
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_single_mem_periods_084bea907d50
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:18:44.30059+00:00
 -- url     : https://prove2.me/theorems/c92c1768-dc9d-4fa0-a1c3-777887e9327f

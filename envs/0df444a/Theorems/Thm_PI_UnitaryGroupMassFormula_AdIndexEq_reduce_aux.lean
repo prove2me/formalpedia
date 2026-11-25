@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_reduce_aux
+-- name    : PI.UnitaryGroupMassFormula.AdIndexEq.reduce_aux
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-25T05:39:04.912889+00:00
+-- url     : https://prove2.me/theorems/d0998697-2c23-4965-8c3a-ab8da8052f09
+-- title:
+--   Ad Index Eq: reduce aux
+-- statement:
+--   The Ad Index Eq construction uses the reduce aux property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/AdelicIndexEquality/Reduce.lean#L96-L120
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/AdelicIndexEquality/Reduce.lean#L96-L120
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicIndexEquality_LiftMatMapSame
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicUnimodularity_ConstructionB
+import Definitions.Def_Formalism_SatakeDualWeyl_AdelicIwasawaHecke_Levelaf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicIndexEquality_Reduce
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open PI PI.UnitaryGroupMassFormula PI.UnitaryGroupMassFormula.AdIndexEq
+open NumberField IsDedekindDomain IsDedekindDomain.HeightOneSpectrum Matrix
+open scoped TensorProduct
+open Formalism.MainNotions.S
+
+theorem PI.UnitaryGroupMassFormula.AdIndexEq.reduce_aux (I : AutInst) (S : Finset (HeightOneSpectrum (𝓞 I.F))) :
+    ∀ x : I.Gf, (∀ v, v ∉ S → matV I v (x : GL (Fin I.n) (I.E ⊗[I.F] Af I.F)) ∈ Kv I v) →
+      x ∈ Subgroup.closure ({y | ∃ v, SuppAt I v y} ∪ (PI.AdIndexEq.Ksub I : Set I.Gf)) := by sorry

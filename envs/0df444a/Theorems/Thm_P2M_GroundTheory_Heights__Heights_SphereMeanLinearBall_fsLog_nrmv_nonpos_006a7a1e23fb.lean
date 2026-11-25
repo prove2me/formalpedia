@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMeanLinearBall_fsLog_nrmv_nonpos_006a7a1e23fb
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMeanLinearBall_fsLog_nrmv_nonpos_006a7a1e23fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:39:10.162942+00:00
 -- url     : https://prove2.me/theorems/377ef9d7-b8ae-5e96-9c3f-702c4055989a

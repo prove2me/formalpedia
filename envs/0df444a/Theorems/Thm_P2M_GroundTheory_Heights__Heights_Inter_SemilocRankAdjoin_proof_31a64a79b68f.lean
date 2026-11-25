@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocRankAdjoin_proof_31a64a79b68f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocRankAdjoin_proof_31a64a79b68f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:50:36.472306+00:00
 -- url     : https://prove2.me/theorems/5aa66898-d33e-5bf2-a0ac-d18ea6f4a182

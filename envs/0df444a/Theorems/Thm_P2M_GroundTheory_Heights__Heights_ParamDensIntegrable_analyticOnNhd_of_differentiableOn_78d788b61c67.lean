@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ParamDensIntegrable_analyticOnNhd_of_differentiableOn_78d788b61c67
 -- name    : P2M_GroundTheory_Heights__Heights_ParamDensIntegrable_analyticOnNhd_of_differentiableOn_78d788b61c67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:29.886249+00:00
 -- url     : https://prove2.me/theorems/67453e57-cf9f-4408-8b5a-289154e13cad

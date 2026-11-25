@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_prod_mem_latticeMap_image_bdcb5725007a
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_prod_mem_latticeMap_image_bdcb5725007a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:28:31.068808+00:00
 -- url     : https://prove2.me/theorems/c925d777-6c93-4ef2-a881-eb60eba6764b

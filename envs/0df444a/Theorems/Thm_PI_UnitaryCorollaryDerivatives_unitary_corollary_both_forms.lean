@@ -1,0 +1,43 @@
+-- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_unitary_corollary_both_forms
+-- name    : PI.UnitaryCorollaryDerivatives.unitary_corollary_both_forms
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-25T05:39:35.761925+00:00
+-- url     : https://prove2.me/theorems/fd097042-62e0-43d6-bd12-44b29dc668fc
+-- title:
+--   Unitary Corollary Derivatives: unitary corollary both forms
+-- statement:
+--   The Unitary Corollary Derivatives construction uses the unitary corollary both forms property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/UnipotentCorrectionU1/UnitaryCorollaryBothForms.lean#L24-L26
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/PeriodIntegrals/UnitaryGroupMassFormula/UnipotentCorrectionU1/UnitaryCorollaryBothForms.lean#L24-L26
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_UnitaryCorollaryOfEstimates
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_MxLeOne
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_GfWBOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_WeightBoundMultiplicative
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_StarEstimateUnitary
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_DjCurve
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_PolynomialBound
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_DjPoly
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_GfPoly
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_CompactCurveEstimate
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_CompactRegionEstimate
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnipotentCorrectionU1_UnitaryCorollaryBothForms
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix
+open scoped ComplexConjugate
+noncomputable section
+open PI PI.UnitaryCorollaryDerivatives
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.U
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+
+theorem PI.UnitaryCorollaryDerivatives.unitary_corollary_both_forms : Formalism.FourierDecayAlt.U.StarBoundOfCutoffOperator ∧ Formalism.FourierDecayAlt.U.StarBoundOfTwoCutoffOperator := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_map_conj
 -- name    : GlobalTheory.Inertia.posIndex_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:18.862027+00:00
 -- url     : https://prove2.me/theorems/498e1cd8-0efe-4a98-89a6-486c4fbcab7a

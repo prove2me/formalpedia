@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_Model_DominatingDVR_closed_974669d55d52
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T05:29:29.415049+00:00
+-- url     : https://prove2.me/submissions/49555162-1b93-4d33-8bbf-bec09943dc46
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_IntegralModels_Statements
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_IntegralModels_PDominatingDVR
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_IntegralModels_PKrullAkizuki
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_IntegralModels_PKrullAkizukiQuotientLength
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_IntegralModels_PTorsionFreeQuotientLength
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_IntegralModels_PBlowUpChart
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_IntegralModels_PDominatingDVRScheme
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_BlowUpChart_proof_c18810674e2c
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_DominatingDVR_proof_47756c4f6811
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_KrullAkizukiQuotientLength_proof_f94e993eb61d
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_KrullAkizuki_proof_d0f82b2c749a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_TorsionFreeQuotientLength_proof_a6f4aca3e046
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.Model
+open AlgebraicGeometry
+namespace GroundTheory.Heights₂.Heights.Model
+namespace DominatingDVR
+theorem _root_.solution : DominatingDVR.Statement :=
+  DominatingDVR.proof
+    (KrullAkizuki.proof (KrullAkizukiQuotientLength.proof TorsionFreeQuotientLength.proof))
+    BlowUpChart.proof
+end DominatingDVR
+end GroundTheory.Heights₂.Heights.Model

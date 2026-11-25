@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_fam_eq_famExt_551d8170ff5e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_fam_eq_famExt_551d8170ff5e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:25.561543+00:00
 -- url     : https://prove2.me/theorems/5d2f8fb2-1e33-4776-88e6-ae8f2a0ed8aa

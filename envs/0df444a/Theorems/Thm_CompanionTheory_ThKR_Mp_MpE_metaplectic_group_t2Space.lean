@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_MpE_metaplectic_group_t2Space
 -- name    : CompanionTheory.ThKR.Mp.MpE.metaplectic_group_t2Space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:19:41.576365+00:00
 -- url     : https://prove2.me/theorems/e4d91899-401b-4b6a-9c48-26a5d15ed972

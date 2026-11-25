@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_pointConeMap_joinCoords_joinForm_b2442480fdad
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_pointConeMap_joinCoords_joinForm_b2442480fdad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:12:24.108697+00:00
 -- url     : https://prove2.me/theorems/5f9e6f0f-8655-4401-b28f-7ed29c936341

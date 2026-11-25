@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_not_splitMono_of_labels_ne
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.not_splitMono_of_labels_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:12:34.401515+00:00
 -- url     : https://prove2.me/theorems/a187b234-5ffc-4bb0-bc0a-8ae95324139b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_prop_of_splitEpi
 -- name    : PretorsionImageClosed.Statement.Subcategory.prop_of_splitEpi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:29:41.068992+00:00
 -- url     : https://prove2.me/theorems/ad4795a8-dd1a-4a51-bcfa-7084c0a455d5

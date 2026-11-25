@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_mul_detNumber_le_detNumber_succ
 -- name    : SNumbers.approximationNumber_mul_detNumber_le_detNumber_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:37:02.296542+00:00
 -- url     : https://prove2.me/theorems/1156a35a-256a-4bad-8da9-368e75ec7bdc

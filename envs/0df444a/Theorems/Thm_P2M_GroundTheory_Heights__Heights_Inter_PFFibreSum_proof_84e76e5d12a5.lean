@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFFibreSum_proof_84e76e5d12a5
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFFibreSum_proof_84e76e5d12a5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:47:18.0433+00:00
 -- url     : https://prove2.me/theorems/1582083d-c179-49c4-a737-70449f8ed805

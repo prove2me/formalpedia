@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchCompleteAtRootsOfUnity_proof_ea526ef96028
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchCompleteAtRootsOfUnity_proof_ea526ef96028
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:01:44.026295+00:00
 -- url     : https://prove2.me/theorems/0091c1e4-401a-4de8-a78c-695f655ee663

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_smallBlockTwo_m1Prime_0200493cebd2
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_smallBlockTwo_m1Prime_0200493cebd2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:04:43.368276+00:00
 -- url     : https://prove2.me/theorems/0b7aae12-261f-5241-b78c-0570a18b9353

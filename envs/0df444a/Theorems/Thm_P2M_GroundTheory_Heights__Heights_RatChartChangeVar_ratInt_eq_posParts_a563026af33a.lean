@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RatChartChangeVar_ratInt_eq_posParts_a563026af33a
 -- name    : P2M_GroundTheory_Heights__Heights_RatChartChangeVar_ratInt_eq_posParts_a563026af33a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:16:39.51107+00:00
 -- url     : https://prove2.me/theorems/caf3838f-3b28-4ca1-8f8d-74900740b712

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_vecClose
 -- name    : PositivityTheory.Rg.BcB.E1.vecClose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:23:05.852817+00:00
 -- url     : https://prove2.me/theorems/343c47c7-e82c-437a-820f-ef2ce5a3bf79

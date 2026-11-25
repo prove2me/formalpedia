@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_basicOpen_fibres_preirreducible_smooth
 -- name    : GlobalTheory.T.exists_basicOpen_fibres_preirreducible_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:34:43.881827+00:00
 -- url     : https://prove2.me/theorems/5be1cd9c-c128-4026-a76f-d239666b841b

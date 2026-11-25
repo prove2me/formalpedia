@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootPointsFiniteAlt_rootCoord_isIntegral_4297a36abd8e
 -- name    : P2M_GroundTheory_Heights__Heights_RootPointsFiniteAlt_rootCoord_isIntegral_4297a36abd8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:37:11.38612+00:00
 -- url     : https://prove2.me/theorems/94956cb4-2f51-4f63-9d92-cb6c0b2934e0

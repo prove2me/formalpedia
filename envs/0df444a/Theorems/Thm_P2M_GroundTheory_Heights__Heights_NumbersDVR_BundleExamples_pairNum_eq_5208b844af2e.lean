@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_pairNum_eq_5208b844af2e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_pairNum_eq_5208b844af2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:53.169367+00:00
 -- url     : https://prove2.me/theorems/53cd346c-e85c-488b-a194-a2ce76e93cb8

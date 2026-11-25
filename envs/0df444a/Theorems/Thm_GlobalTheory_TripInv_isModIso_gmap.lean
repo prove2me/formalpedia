@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_isModIso_gmap
 -- name    : GlobalTheory.TripInv.isModIso_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:33:44.489109+00:00
 -- url     : https://prove2.me/theorems/a2581e80-7deb-413b-8e4e-cc426e5003a1

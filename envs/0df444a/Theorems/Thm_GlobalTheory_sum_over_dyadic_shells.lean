@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_over_dyadic_shells
 -- name    : GlobalTheory.sum_over_dyadic_shells
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:35:07.676667+00:00
 -- url     : https://prove2.me/theorems/aec40a25-565b-45a2-84b7-54011d6acde6

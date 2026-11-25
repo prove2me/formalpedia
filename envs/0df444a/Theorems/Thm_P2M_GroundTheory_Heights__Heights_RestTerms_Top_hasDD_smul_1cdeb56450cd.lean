@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_hasDD_smul_1cdeb56450cd
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_hasDD_smul_1cdeb56450cd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:32:44.273751+00:00
 -- url     : https://prove2.me/theorems/41800fc3-3b62-4520-ab0a-bddeedebbab8

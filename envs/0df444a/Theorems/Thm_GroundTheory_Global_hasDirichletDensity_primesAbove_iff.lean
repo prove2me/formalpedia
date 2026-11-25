@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasDirichletDensity_primesAbove_iff
 -- name    : GroundTheory.Global.hasDirichletDensity_primesAbove_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:14:16.011108+00:00
 -- url     : https://prove2.me/theorems/57f1ba5d-9ad8-53bd-bd50-675a48e022db

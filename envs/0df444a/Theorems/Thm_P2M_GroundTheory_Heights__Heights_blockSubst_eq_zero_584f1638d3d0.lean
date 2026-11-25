@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_blockSubst_eq_zero_584f1638d3d0
 -- name    : P2M_GroundTheory_Heights__Heights_blockSubst_eq_zero_584f1638d3d0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:55.425983+00:00
 -- url     : https://prove2.me/theorems/24768905-9232-4318-bdb8-a41ba9f5a728

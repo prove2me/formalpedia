@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RootLogNormBoundAlt_log_block_d4d21477d1a4
 -- name    : P2M_GroundTheory_Heights__Heights_RootLogNormBoundAlt_log_block_d4d21477d1a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:27.119632+00:00
 -- url     : https://prove2.me/theorems/35a507f2-6b1a-5b37-8a4b-2d990b0c3129

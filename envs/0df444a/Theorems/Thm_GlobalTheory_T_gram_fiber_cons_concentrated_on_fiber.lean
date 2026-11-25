@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_cons_concentrated_on_fiber
 -- name    : GlobalTheory.T.gram_fiber_cons_concentrated_on_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:43:18.674826+00:00
 -- url     : https://prove2.me/theorems/c77a6f15-2d0c-4b5a-a7c9-50cdbb1b34d1

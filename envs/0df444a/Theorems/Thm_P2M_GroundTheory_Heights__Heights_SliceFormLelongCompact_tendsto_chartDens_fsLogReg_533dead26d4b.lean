@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_tendsto_chartDens_fsLogReg_533dead26d4b
 -- name    : P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_tendsto_chartDens_fsLogReg_533dead26d4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:38:25.31389+00:00
 -- url     : https://prove2.me/theorems/72bdffb3-fa62-47fd-8cd0-a1160e628030

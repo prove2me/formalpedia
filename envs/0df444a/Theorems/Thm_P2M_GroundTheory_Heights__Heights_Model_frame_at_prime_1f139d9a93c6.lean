@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_frame_at_prime_1f139d9a93c6
 -- name    : P2M_GroundTheory_Heights__Heights_Model_frame_at_prime_1f139d9a93c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:30:56.737788+00:00
 -- url     : https://prove2.me/theorems/1fde7c69-7f07-4d6a-a1c9-d6a9cbfbb579

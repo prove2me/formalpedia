@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionLengthSum_proof_50fcfdf5037f
 -- name    : P2M_GroundTheory_Heights__Heights_SectionLengthSum_proof_50fcfdf5037f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:50.459579+00:00
 -- url     : https://prove2.me/theorems/73f8f649-e9e7-4afa-8502-e81d575d205e

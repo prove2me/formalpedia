@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_extMap_liftOld_monomial_3eda3bb7f3ac
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_extMap_liftOld_monomial_3eda3bb7f3ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:14.204978+00:00
 -- url     : https://prove2.me/theorems/93d4d757-cbec-56c8-ba67-5fc73f8ea3e7

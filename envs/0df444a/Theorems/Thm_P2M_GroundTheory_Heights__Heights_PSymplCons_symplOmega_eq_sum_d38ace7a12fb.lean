@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplCons_symplOmega_eq_sum_d38ace7a12fb
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplCons_symplOmega_eq_sum_d38ace7a12fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:13:40.447694+00:00
 -- url     : https://prove2.me/theorems/3ed25354-e008-494e-8c8e-c92ca0bc6390

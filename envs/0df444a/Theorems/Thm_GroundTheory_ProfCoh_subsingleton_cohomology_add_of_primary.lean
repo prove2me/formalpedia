@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_subsingleton_cohomology_add_of_primary
 -- name    : GroundTheory.ProfCoh.subsingleton_cohomology_add_of_primary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:47:40.415886+00:00
 -- url     : https://prove2.me/theorems/3bff4d4d-de2a-4815-aee6-d631e48e11dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_finrank_of_generators_fbbde75efc83
 -- name    : P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_finrank_of_generators_fbbde75efc83
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:51:42.327654+00:00
 -- url     : https://prove2.me/theorems/d5d257b9-4124-5256-ad9b-5063398b6f2e

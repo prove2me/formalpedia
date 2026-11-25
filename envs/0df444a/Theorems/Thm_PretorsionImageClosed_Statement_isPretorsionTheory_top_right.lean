@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isPretorsionTheory_top_right
 -- name    : PretorsionImageClosed.Statement.isPretorsionTheory_top_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:30:40.015464+00:00
 -- url     : https://prove2.me/theorems/b6478b83-02c9-4398-93ff-1a5d20bdb262

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussShell_proof_8e01496f6205
 -- name    : P2M_GroundTheory_Heights__Heights_GaussShell_proof_8e01496f6205
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:41.921447+00:00
 -- url     : https://prove2.me/theorems/0ae844c4-46f6-4bf1-a43b-bb484bda69a0

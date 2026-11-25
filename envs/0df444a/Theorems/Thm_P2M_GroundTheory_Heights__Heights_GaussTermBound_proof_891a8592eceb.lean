@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussTermBound_proof_891a8592eceb
 -- name    : P2M_GroundTheory_Heights__Heights_GaussTermBound_proof_891a8592eceb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:56.448367+00:00
 -- url     : https://prove2.me/theorems/43e214fb-2397-40ca-b0b6-ac19d3fc32ce

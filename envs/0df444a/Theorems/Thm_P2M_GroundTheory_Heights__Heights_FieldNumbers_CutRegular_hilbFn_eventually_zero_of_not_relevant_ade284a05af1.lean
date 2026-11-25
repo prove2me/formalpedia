@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_hilbFn_eventually_zero_of_not_relevant_ade284a05af1
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_hilbFn_eventually_zero_of_not_relevant_ade284a05af1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:38:49.21483+00:00
 -- url     : https://prove2.me/theorems/06de4abe-f36c-5cce-ae92-282c198da3b6

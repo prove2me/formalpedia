@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_logPoly_488db128c6da
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_logPoly_488db128c6da
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:24.843717+00:00
 -- url     : https://prove2.me/theorems/8d32d776-89fb-4e82-a7d4-40c56495e1ba

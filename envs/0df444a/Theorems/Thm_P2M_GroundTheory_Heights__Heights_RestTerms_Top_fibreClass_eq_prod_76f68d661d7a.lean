@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_fibreClass_eq_prod_76f68d661d7a
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_fibreClass_eq_prod_76f68d661d7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:29.4107+00:00
 -- url     : https://prove2.me/theorems/04057790-0ec5-4584-adfd-ec2b26382935

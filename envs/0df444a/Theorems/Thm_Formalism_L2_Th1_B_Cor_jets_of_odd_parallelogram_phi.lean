@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Cor_jets_of_odd_parallelogram_phi
 -- name    : Formalism.L2.Th1.B.Cor.jets_of_odd_parallelogram_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:29:28.712932+00:00
 -- url     : https://prove2.me/theorems/4c0569cf-31c3-4931-9d9f-cfad6d59d0ec

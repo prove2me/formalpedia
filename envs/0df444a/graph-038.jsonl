@@ -54297,9 +54297,9 @@
 {"parent": "GlobalTheory.SecAff.chart_ge", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SemiabelianSchemes_PrecompleteBases_PsbLb", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.SecAff.chart_ge", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}
 {"parent": "RH1E6S14_D089_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.negIndex_eq_card_of_congr_diagonal", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.negIndex_eq_card_of_congr_diagonal", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.negIndex_eq_card_of_congr_diagonal", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["statement"]}
+{"parent": "GlobalTheory.Inertia.negIndex_eq_card_of_congr_diagonal", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Inertia.negIndex_eq_card_of_congr_diagonal", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Inertia.negIndex_eq_card_of_congr_diagonal", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["solution", "statement"]}
 {"parent": "BilevelSOC.SecondOrder.Supplement.lemma_4_11", "child": "BilevelSOC_SecondOrder_Supplement_NormalGraph", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.exists_mu", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_IsClosedKset", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.DS.S7.exists_mu", "child": "ReciprocityTheory_ReductiveGroups_DiscreteSeries_CasimirCoefficients_ExistsMu", "via": ["solution", "statement"]}
@@ -54746,9 +54746,9 @@
 {"parent": "GlobalTheory.GlobalLift.exists_section", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GlobalLift.exists_section", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_WeilIsIffCommIsOfAndLiftSubsingleton", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.GlobalLift.exists_section", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_WeilIsAlternatingSkewNatural", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Inertia.posIndex_map_conj", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.posIndex_map_conj", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.posIndex_map_conj", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["statement"]}
+{"parent": "GlobalTheory.Inertia.posIndex_map_conj", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Inertia.posIndex_map_conj", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Inertia.posIndex_map_conj", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Lin.LargeMean.pw_nonneg", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_LargeMeanOfLargeDerivative", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Lin.LargeMean.pw_nonneg", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_IntervalIntegrableDivOfBounded", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Lin.LargeMean.pw_nonneg", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_SummableNonPrimeVonMangoldtDivRpow", "via": ["solution", "statement"]}
@@ -54964,9 +54964,9 @@
 {"parent": "GlobalTheory.QuadraticEtale.apply_apply", "child": "Development_AbelianVarietyTheory_Proofs_AdelicLatticeProofs_ExistsIsUnitFormSelfOfNotMem", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.IsASD.z_ne", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsOrthTransfer", "via": ["solution", "statement"]}
 {"parent": "Formalism.HermitianLattices.Ext.L3.U0.IsASD.z_ne", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_ExistsIsomScale", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.Inertia.exists_congr_diagonal_of_card_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.exists_congr_diagonal_of_card_eq", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["statement"]}
-{"parent": "GlobalTheory.Inertia.exists_congr_diagonal_of_card_eq", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["statement"]}
+{"parent": "GlobalTheory.Inertia.exists_congr_diagonal_of_card_eq", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_Signature", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Inertia.exists_congr_diagonal_of_card_eq", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_ExistsOrthogonalBasisDotProductApplyEq", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.Inertia.exists_congr_diagonal_of_card_eq", "child": "Development_AbelianVarietyTheory_Proofs_HermitianTraceForms_PosIndexMapEqCardOfCongrDiagonal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CuspGL.intertwine_aeval_apply", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_ExistsConjEqAddOfIsCoprime", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CuspGL.intertwine_aeval_apply", "child": "Development_AbelianVarietyTheory_Definitions_CommutativeAlgebra_InvariantSubspaceMobiusInverseRecEqOfFinrankLt", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.IndefiniteRowSideFullHecke.UnitaryHeckeCharacterIdele.UnitaryHeckeChar.normPow_valueAt", "child": "Development_AbelianVarietyTheory_BlockTheory_AdelicCMFields_UnitaryHeckeCharacterIdele", "via": ["solution", "statement"]}
@@ -55613,9 +55613,9 @@
 {"parent": "GroupTheoreticShannonCapacity.Construction.sR_sub_aI_isUnit", "child": "GroupTheoreticShannonCapacity_Construction", "via": ["solution", "statement"]}
 {"parent": "SampleDrivenOS_Structure_Supplement_Thresholds", "child": "SampleDrivenOS_Structure_Supplement_Experiments", "via": ["statement"]}
 {"parent": "SampleDrivenOS_Structure_Supplement_Thresholds", "child": "SampleDrivenOS_Limit_Setting", "via": ["statement"]}
-{"parent": "GlobalTheory.T.iteratedDeriv_logDeriv_dirichletL_via_nearby_zeros", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_IteratedDerivLogDerivDirichletLViaNearbyZeros", "via": ["statement"]}
-{"parent": "GlobalTheory.T.iteratedDeriv_logDeriv_dirichletL_via_nearby_zeros", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_IteratedDerivLogDerivDirichletLViaNearbyZerosStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.T.iteratedDeriv_logDeriv_dirichletL_via_nearby_zeros", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_ZerosDisc", "via": ["statement"]}
+{"parent": "GlobalTheory.T.iteratedDeriv_logDeriv_dirichletL_via_nearby_zeros", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_IteratedDerivLogDerivDirichletLViaNearbyZeros", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.iteratedDeriv_logDeriv_dirichletL_via_nearby_zeros", "child": "Development_AbelianVarietyTheory_Proofs_GlobalInterpolation_IteratedDerivLogDerivDirichletLViaNearbyZerosStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.T.iteratedDeriv_logDeriv_dirichletL_via_nearby_zeros", "child": "Development_AbelianVarietyTheory_Definitions_GlobalTwisting_ZerosDisc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CuspGL.mangoldt_pow", "child": "Development_AbelianVarietyTheory_Proofs_CharacterTheory_AdditiveEqPolynomialVonMangoldtConvolutionOne", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CuspGL.mangoldt_pow", "child": "Development_AbelianVarietyTheory_Definitions_CommutativeAlgebra_InvariantSubspaceMobiusInverseRecEqOfFinrankLt", "via": ["solution", "statement"]}
 {"parent": "GroupTheoreticShannonCapacity.Construction.matrixX_real_eq_map", "child": "GroupTheoreticShannonCapacity_P0Matrix", "via": ["solution", "statement"]}

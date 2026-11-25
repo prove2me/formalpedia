@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_eq_bot_of_inf_idealKernel
 -- name    : PretorsionImageClosed.eq_bot_of_inf_idealKernel
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:11:22.935031+00:00
 -- url     : https://prove2.me/theorems/36dde3bf-12e0-571e-a766-a5c28d3a4f51

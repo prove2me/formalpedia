@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagRestrictSymmetric_proof_ba89c9df29c1
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagRestrictSymmetric_proof_ba89c9df29c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:01:05.841415+00:00
 -- url     : https://prove2.me/theorems/5443aae3-636a-4d80-8bb4-ec676f926a84

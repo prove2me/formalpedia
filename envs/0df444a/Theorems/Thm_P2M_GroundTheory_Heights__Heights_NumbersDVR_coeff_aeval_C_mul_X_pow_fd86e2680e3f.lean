@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_coeff_aeval_C_mul_X_pow_fd86e2680e3f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_coeff_aeval_C_mul_X_pow_fd86e2680e3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:12:26.446869+00:00
 -- url     : https://prove2.me/theorems/eb216b00-4901-438b-a9ba-fc33dfc164f1

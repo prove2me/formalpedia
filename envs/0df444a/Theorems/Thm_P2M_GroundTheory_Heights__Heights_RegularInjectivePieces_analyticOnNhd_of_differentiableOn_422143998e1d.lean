@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegularInjectivePieces_analyticOnNhd_of_differentiableOn_422143998e1d
 -- name    : P2M_GroundTheory_Heights__Heights_RegularInjectivePieces_analyticOnNhd_of_differentiableOn_422143998e1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:18:24.723057+00:00
 -- url     : https://prove2.me/theorems/f3d86595-0f16-4991-ab97-5b7a7178a932

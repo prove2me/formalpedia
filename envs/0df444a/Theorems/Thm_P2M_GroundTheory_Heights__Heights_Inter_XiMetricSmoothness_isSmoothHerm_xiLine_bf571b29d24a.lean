@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_XiMetricSmoothness_isSmoothHerm_xiLine_bf571b29d24a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_XiMetricSmoothness_isSmoothHerm_xiLine_bf571b29d24a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:43.97345+00:00
 -- url     : https://prove2.me/theorems/c2e096d7-a7b8-4459-814b-a2a9093909c7

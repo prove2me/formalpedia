@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_isCompactOperator_comp_incl_comp
 -- name    : SNumbers.L1Linf.isCompactOperator_comp_incl_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:15:16.103941+00:00
 -- url     : https://prove2.me/theorems/b6ce6f00-da86-556e-b035-0ee3dff71d9c

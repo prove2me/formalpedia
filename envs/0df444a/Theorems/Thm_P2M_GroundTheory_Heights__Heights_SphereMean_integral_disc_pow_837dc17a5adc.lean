@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_integral_disc_pow_837dc17a5adc
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_integral_disc_pow_837dc17a5adc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:38:27.364855+00:00
 -- url     : https://prove2.me/theorems/dba5762a-7be1-4fa0-bbff-53156d32cae8
