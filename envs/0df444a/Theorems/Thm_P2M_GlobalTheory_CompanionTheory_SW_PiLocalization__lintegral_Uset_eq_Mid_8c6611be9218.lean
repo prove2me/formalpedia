@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__lintegral_Uset_eq_Mid_8c6611be9218
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__lintegral_Uset_eq_Mid_8c6611be9218
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:05:11.016633+00:00
 -- url     : https://prove2.me/theorems/533b9b85-fd2f-4a39-a503-30a0e8f80c70

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCasSplit_right_factor_action_kronecker
 -- name    : GlobalTheory.CompanionTheory.ZuckCasSplit.right_factor_action_kronecker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:30:38.784125+00:00
 -- url     : https://prove2.me/theorems/33023b7a-cdb9-48c8-a93f-d72d931fd7b9

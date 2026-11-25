@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PairStab_intUnits_prod_eq
 -- name    : GlobalTheory.UnitLemma.PairStab.intUnits_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:05:48.376767+00:00
 -- url     : https://prove2.me/theorems/debcc70f-6dcf-4024-b7b2-f68c24ea3813

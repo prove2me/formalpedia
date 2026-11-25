@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_awayCongr_mk
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.awayCongr_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:17:13.663849+00:00
 -- url     : https://prove2.me/theorems/e06c9daf-5beb-4b10-9b3a-3bdd83268fec

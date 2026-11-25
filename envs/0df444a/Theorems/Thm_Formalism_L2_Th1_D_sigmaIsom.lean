@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_sigmaIsom
 -- name    : Formalism.L2.Th1.D.sigmaIsom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:26:37.980583+00:00
 -- url     : https://prove2.me/theorems/cb734fcb-29ff-5c37-b2e4-6c21cb64d382

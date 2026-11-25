@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateRightIso_hom
 -- name    : GroundTheory.GroupCoh.tateRightIso_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:06:42.435966+00:00
 -- url     : https://prove2.me/theorems/fa42d500-c4c4-4f2c-99c9-79502ce83376

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_tendsto_trace_comp
 -- name    : GroundTheory.Automorphic.tendsto_trace_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:11:35.816793+00:00
 -- url     : https://prove2.me/theorems/9e8f0eba-4748-46aa-b542-fedf106e6008

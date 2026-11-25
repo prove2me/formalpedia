@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BesselCutLim_lieW_of
 -- name    : GlobalTheory.CompanionTheory.BesselCutLim.lieW_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:41:28.484575+00:00
 -- url     : https://prove2.me/theorems/e3934c3b-d5aa-41d7-9c2f-082e714da441

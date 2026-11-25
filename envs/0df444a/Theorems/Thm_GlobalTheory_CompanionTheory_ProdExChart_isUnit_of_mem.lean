@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdExChart_isUnit_of_mem
 -- name    : GlobalTheory.CompanionTheory.ProdExChart.isUnit_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:37:28.837077+00:00
 -- url     : https://prove2.me/theorems/2e89dadb-e747-55b4-a71c-d26ae0e815e3

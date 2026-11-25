@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_isLocalization_lau_f48fa42d9057
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_isLocalization_lau_f48fa42d9057
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:31:20.33342+00:00
 -- url     : https://prove2.me/theorems/9610cff5-4f88-4d5c-b16e-ce4059c7b150

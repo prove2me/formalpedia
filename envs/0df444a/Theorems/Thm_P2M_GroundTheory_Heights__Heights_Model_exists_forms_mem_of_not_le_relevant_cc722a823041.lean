@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_forms_mem_of_not_le_relevant_cc722a823041
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_forms_mem_of_not_le_relevant_cc722a823041
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:55.362482+00:00
 -- url     : https://prove2.me/theorems/bcd29b6a-cccd-417c-b0e3-bf2df54aee50

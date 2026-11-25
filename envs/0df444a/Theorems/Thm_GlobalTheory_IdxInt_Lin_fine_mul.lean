@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Lin_fine_mul
 -- name    : GlobalTheory.IdxInt.Lin.fine_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:04:03.039412+00:00
 -- url     : https://prove2.me/theorems/c2fc2da2-f463-51e3-9e18-618fa8f20c23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_Inhab_int_of_half
 -- name    : CompanionTheory.WaveGrid.Inhab.int_of_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:07:57.972376+00:00
 -- url     : https://prove2.me/theorems/7e9fc2ed-f42c-49e4-96e9-4d17c82e819e

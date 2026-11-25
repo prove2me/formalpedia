@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dirichletL_few_zeros_small_disc
 -- name    : GlobalTheory.T.dirichletL_few_zeros_small_disc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:31:45.020111+00:00
 -- url     : https://prove2.me/theorems/b92f1b5f-1b62-462d-bf43-830316d65976

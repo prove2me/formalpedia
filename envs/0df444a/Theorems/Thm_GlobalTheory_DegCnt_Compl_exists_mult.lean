@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Compl_exists_mult
 -- name    : GlobalTheory.DegCnt.Compl.exists_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:17:26.821565+00:00
 -- url     : https://prove2.me/theorems/638075ab-85df-5970-975b-29512bf71fab

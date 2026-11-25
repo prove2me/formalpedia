@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_IsEllipticAt_hasOrder_comm
 -- name    : GroundTheory.Automorphic.Sobolev.IsEllipticAt.hasOrder_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:00:28.262353+00:00
 -- url     : https://prove2.me/theorems/e1026f94-408e-4d65-8d7c-d62f9592b5b6

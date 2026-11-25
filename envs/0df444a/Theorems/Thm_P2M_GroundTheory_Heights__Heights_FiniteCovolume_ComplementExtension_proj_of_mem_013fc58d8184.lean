@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementExtension_proj_of_mem_013fc58d8184
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ComplementExtension_proj_of_mem_013fc58d8184
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:49:23.102525+00:00
 -- url     : https://prove2.me/theorems/d1b58287-9ef0-5b40-b07a-4a5186ac17b1

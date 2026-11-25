@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_modularJ_halfOneAddSqrtNeg
 -- name    : GlobalTheory.isIntegral_modularJ_halfOneAddSqrtNeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:56:50.429971+00:00
 -- url     : https://prove2.me/theorems/5f7f2948-27e9-4e66-b456-0265ad1edd0b

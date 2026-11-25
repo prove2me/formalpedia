@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_aeval_ne_zero_of_norm_eq
 -- name    : GlobalTheory.Cyc.aeval_ne_zero_of_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:34:44.230868+00:00
 -- url     : https://prove2.me/theorems/f833705d-c04a-467f-a3ff-f0d7690641f7

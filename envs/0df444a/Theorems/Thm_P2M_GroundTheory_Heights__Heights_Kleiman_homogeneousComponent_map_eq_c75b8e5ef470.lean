@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_homogeneousComponent_map_eq_c75b8e5ef470
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_homogeneousComponent_map_eq_c75b8e5ef470
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:02:02.486346+00:00
 -- url     : https://prove2.me/theorems/813598f2-56ca-55b7-aa00-2aaefa0daa44

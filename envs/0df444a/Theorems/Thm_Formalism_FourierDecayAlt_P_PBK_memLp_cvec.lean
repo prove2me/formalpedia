@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_memLp_cvec
 -- name    : Formalism.FourierDecayAlt.P.PBK.memLp_cvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:21:44.040703+00:00
 -- url     : https://prove2.me/theorems/9d08f3bf-f76d-4280-a3a4-4bd30a81e4c3

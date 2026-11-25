@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_moduleHom_smul
 -- name    : GroundTheory.GroupCoh.moduleHom_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:06:21.733625+00:00
 -- url     : https://prove2.me/theorems/7a2935ad-cc5a-4bbc-addd-bc9fd7b5a411

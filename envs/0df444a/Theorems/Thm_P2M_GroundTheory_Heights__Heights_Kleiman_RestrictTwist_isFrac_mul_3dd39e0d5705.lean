@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_isFrac_mul_3dd39e0d5705
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_isFrac_mul_3dd39e0d5705
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:09:18.597081+00:00
 -- url     : https://prove2.me/theorems/ff7ce308-ab60-51be-b2bf-f960f1f63110

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_op_ext_basis
 -- name    : Formalism.L2.S.Pv.EnergyAbs.op_ext_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:34.870507+00:00
 -- url     : https://prove2.me/theorems/a1345fba-f309-5953-bdbd-99788d9342f1

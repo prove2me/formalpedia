@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orbitStabilizerMass_eq_weightedSum_fibres
 -- name    : GlobalTheory.T.orbitStabilizerMass_eq_weightedSum_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:09:35.354377+00:00
 -- url     : https://prove2.me/theorems/9ef8ca83-1e7d-4068-a51f-a56a535579a9

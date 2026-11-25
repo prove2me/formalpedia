@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_log_regLine_tensor_2d6ade5e47c2
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_log_regLine_tensor_2d6ade5e47c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:59:30.545796+00:00
 -- url     : https://prove2.me/theorems/2c03a572-8758-4c07-b4e5-f887e95e2874

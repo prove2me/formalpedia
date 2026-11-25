@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_isKTypeOf_iff
 -- name    : GlobalTheory.KTypeCompare.isKTypeOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:31.875623+00:00
 -- url     : https://prove2.me/theorems/bc64dae2-d953-4777-b9e7-a2716fb02e46

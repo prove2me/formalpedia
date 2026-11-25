@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_cohTrivial_leftRegular
 -- name    : GroundTheory.GroupCoh.cohTrivial_leftRegular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:32.569799+00:00
 -- url     : https://prove2.me/theorems/06758a58-98c3-589c-83c6-3e7f8b344d94

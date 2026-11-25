@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_cauchy_torus_off_axes_2daaebd2de5c
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_cauchy_torus_off_axes_2daaebd2de5c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:17:25.235923+00:00
 -- url     : https://prove2.me/theorems/d63894d8-cfea-4d61-8f51-7bcb0acd7856

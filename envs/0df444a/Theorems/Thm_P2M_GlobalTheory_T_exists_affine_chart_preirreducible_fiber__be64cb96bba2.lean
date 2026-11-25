@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_affine_chart_preirreducible_fiber__be64cb96bba2
 -- name    : P2M_GlobalTheory_T_exists_affine_chart_preirreducible_fiber__be64cb96bba2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:10:09.052242+00:00
 -- url     : https://prove2.me/theorems/98804c5d-8891-4800-a397-ffc93a429965

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_isVerticalDivisor_const_b17ca793c6be
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_isVerticalDivisor_const_b17ca793c6be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:08:29.014485+00:00
 -- url     : https://prove2.me/theorems/7e473bbe-d69a-400f-9f34-f9875e92c73a

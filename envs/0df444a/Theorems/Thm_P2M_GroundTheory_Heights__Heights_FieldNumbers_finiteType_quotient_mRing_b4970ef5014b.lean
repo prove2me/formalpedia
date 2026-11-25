@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_finiteType_quotient_mRing_b4970ef5014b
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_finiteType_quotient_mRing_b4970ef5014b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:05:21.424481+00:00
 -- url     : https://prove2.me/theorems/2919871d-2538-5365-b0b3-51aff32a30db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_letter_of_ker
 -- name    : GlobalTheory.FontCmp.letter_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:32:52.557825+00:00
 -- url     : https://prove2.me/theorems/dbc4245b-3a6c-448a-87b9-85398822b593

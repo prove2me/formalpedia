@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_exists_irreducible_fixedVectors_equiv
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.exists_irreducible_fixedVectors_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:58:02.479853+00:00
 -- url     : https://prove2.me/theorems/80265075-4ed6-54e5-8ebf-1c3affed4d53

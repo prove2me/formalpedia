@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisHeat_heat_iff
 -- name    : GlobalTheory.SW.EisHeat.heat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:51:44.196799+00:00
 -- url     : https://prove2.me/theorems/8ed50a14-72ac-5f5f-911f-5821632582f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_homologyMap_cochainsMap_unit
 -- name    : GroundTheory.GroupCoh.homologyMap_cochainsMap_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:35:53.400473+00:00
 -- url     : https://prove2.me/theorems/a485e8a9-2201-4f4a-8a2f-f6333f0d648a

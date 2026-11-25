@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_covolume_le_sum_volume_of_cover
 -- name    : GlobalTheory.covolume_le_sum_volume_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:22:31.252593+00:00
 -- url     : https://prove2.me/theorems/7fa222a5-de38-4768-a991-fb5b990eacd2

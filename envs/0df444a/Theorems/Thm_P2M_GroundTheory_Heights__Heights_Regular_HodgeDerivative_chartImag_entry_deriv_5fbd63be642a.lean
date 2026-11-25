@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_chartImag_entry_deriv_5fbd63be642a
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_chartImag_entry_deriv_5fbd63be642a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:18:01.670681+00:00
 -- url     : https://prove2.me/theorems/aad5fb15-0a32-4eb4-a369-07bbb1eabf63

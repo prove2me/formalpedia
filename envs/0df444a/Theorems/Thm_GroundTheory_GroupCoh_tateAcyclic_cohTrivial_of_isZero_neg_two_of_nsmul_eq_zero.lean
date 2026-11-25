@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_cohTrivial_of_isZero_neg_two_of_nsmul_eq_zero
 -- name    : GroundTheory.GroupCoh.tateAcyclic_cohTrivial_of_isZero_neg_two_of_nsmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:16:26.40664+00:00
 -- url     : https://prove2.me/theorems/4ce89ea6-ab04-4934-84a3-b98827400d61

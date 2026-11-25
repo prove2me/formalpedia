@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_pointOfPrime_primeIdealOf
 -- name    : GlobalTheory.QCoh.pointOfPrime_primeIdealOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:38:58.517176+00:00
 -- url     : https://prove2.me/theorems/176c3654-ca5d-41aa-9232-70ffc105d437

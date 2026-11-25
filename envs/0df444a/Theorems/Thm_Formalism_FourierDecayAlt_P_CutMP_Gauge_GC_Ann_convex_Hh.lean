@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_Ann_convex_Hh
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.Ann.convex_Hh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:13:19.424489+00:00
 -- url     : https://prove2.me/theorems/4a6b4fb2-4a14-5f29-b3ff-48c4b807f9c5

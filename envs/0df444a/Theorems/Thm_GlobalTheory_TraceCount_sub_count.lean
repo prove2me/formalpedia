@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceCount_sub_count
 -- name    : GlobalTheory.TraceCount.sub_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:17:33.005992+00:00
 -- url     : https://prove2.me/theorems/863846a9-8363-545b-8687-7ab9785e32ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_IsHalfReps_injOn
 -- name    : ReciprocityTheory.ChartRestriction.L1.IsHalfReps.injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:55:41.044011+00:00
 -- url     : https://prove2.me/theorems/be4839b9-9bab-494c-98a1-71293ba0f5ab

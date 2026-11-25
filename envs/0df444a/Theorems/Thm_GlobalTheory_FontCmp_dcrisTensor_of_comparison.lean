@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_dcrisTensor_of_comparison
 -- name    : GlobalTheory.FontCmp.dcrisTensor_of_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:32:24.827259+00:00
 -- url     : https://prove2.me/theorems/432d34aa-692c-4cad-ad92-7a83b44a43ba

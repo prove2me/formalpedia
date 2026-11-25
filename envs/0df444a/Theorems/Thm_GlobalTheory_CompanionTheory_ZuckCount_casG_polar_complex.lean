@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCount_casG_polar_complex
 -- name    : GlobalTheory.CompanionTheory.ZuckCount.casG_polar_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:59:23.763406+00:00
 -- url     : https://prove2.me/theorems/277dc39b-24d8-5fc6-8d29-063e416cf40a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Transp_latsDisc_img
 -- name    : GlobalTheory.Mass.Transp.latsDisc_img
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:08:03.568023+00:00
 -- url     : https://prove2.me/theorems/ef2f8732-bcaf-4e44-85d2-3ebbe483fd4c

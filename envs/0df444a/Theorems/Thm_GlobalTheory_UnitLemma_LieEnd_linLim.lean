@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_linLim
 -- name    : GlobalTheory.UnitLemma.LieEnd.linLim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:04:29.743643+00:00
 -- url     : https://prove2.me/theorems/946c6557-4325-5686-b294-4ce3f58b6775

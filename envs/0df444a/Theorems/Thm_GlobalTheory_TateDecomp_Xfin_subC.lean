@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_Xfin_subC
 -- name    : GlobalTheory.TateDecomp.Xfin_subC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:01:38.765144+00:00
 -- url     : https://prove2.me/theorems/d282eb9e-425f-4beb-9b45-e760a06af62c

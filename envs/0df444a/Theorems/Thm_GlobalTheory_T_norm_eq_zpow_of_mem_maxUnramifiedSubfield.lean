@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_eq_zpow_of_mem_maxUnramifiedSubfield
 -- name    : GlobalTheory.T.norm_eq_zpow_of_mem_maxUnramifiedSubfield
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:53:27.720804+00:00
 -- url     : https://prove2.me/theorems/7d133d86-9bfd-4240-a6f7-6ce0d78a09fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_jets_shape
 -- name    : Formalism.L2.Th1.C.jets_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:38:38.456549+00:00
 -- url     : https://prove2.me/theorems/1d5eb629-2550-51c7-b3ec-b05be74c3ac5

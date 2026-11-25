@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_differentiableOn_modularJC
 -- name    : GroundTheory.Global.Elliptic.differentiableOn_modularJC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:05:13.153812+00:00
 -- url     : https://prove2.me/theorems/4bdbdcaa-68db-596d-9512-32f227027f13

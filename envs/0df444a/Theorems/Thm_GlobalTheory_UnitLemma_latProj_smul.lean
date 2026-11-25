@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_latProj_smul
 -- name    : GlobalTheory.UnitLemma.latProj_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:07:17.021207+00:00
 -- url     : https://prove2.me/theorems/05572a7a-cb1c-5e0d-9f72-793535eb3c08

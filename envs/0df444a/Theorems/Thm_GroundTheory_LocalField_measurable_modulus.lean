@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_measurable_modulus
 -- name    : GroundTheory.LocalField.measurable_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:46.753874+00:00
 -- url     : https://prove2.me/theorems/36aeac04-8fce-4cd3-9c6b-78e1c48a1210

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_equation_weierstrassP
 -- name    : GroundTheory.Global.Elliptic.equation_weierstrassP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:07:59.060038+00:00
 -- url     : https://prove2.me/theorems/11af04f5-6849-51d1-880a-8361f6cc8cf0

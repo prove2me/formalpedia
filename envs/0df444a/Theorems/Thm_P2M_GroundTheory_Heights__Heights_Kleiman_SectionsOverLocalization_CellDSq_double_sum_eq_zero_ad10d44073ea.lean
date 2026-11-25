@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellDSq_double_sum_eq_zero_ad10d44073ea
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellDSq_double_sum_eq_zero_ad10d44073ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:41:44.242583+00:00
 -- url     : https://prove2.me/theorems/97d4d1c0-c8a0-5c5e-964b-5e758e629514

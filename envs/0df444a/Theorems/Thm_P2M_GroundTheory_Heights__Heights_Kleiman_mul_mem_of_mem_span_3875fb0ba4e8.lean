@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mul_mem_of_mem_span_3875fb0ba4e8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mul_mem_of_mem_span_3875fb0ba4e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:09:46.524606+00:00
 -- url     : https://prove2.me/theorems/d25f7b56-5ed4-5c06-8646-4f5325d3eb3c

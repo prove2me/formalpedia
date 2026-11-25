@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_exists_decomp_direction
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.exists_decomp_direction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:09:12.444712+00:00
 -- url     : https://prove2.me/theorems/c86da81d-c798-41bb-bf5b-a2b7486ba591

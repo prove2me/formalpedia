@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_pointsMap_mulP_surjective
 -- name    : GlobalTheory.PDivGroup.pointsMap_mulP_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:54:58.10641+00:00
 -- url     : https://prove2.me/theorems/698fa5ee-9ff4-41d0-ae1f-992a9482186f

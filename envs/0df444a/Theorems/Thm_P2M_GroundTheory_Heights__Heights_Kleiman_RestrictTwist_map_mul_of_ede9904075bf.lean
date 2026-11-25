@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_map_mul_of_ede9904075bf
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_map_mul_of_ede9904075bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:09:24.550804+00:00
 -- url     : https://prove2.me/theorems/82868304-0597-59df-864c-fbc6c65b39d1

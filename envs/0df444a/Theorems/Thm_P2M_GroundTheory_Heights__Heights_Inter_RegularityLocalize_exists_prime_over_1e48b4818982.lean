@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityLocalize_exists_prime_over_1e48b4818982
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityLocalize_exists_prime_over_1e48b4818982
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:44:34.44615+00:00
 -- url     : https://prove2.me/theorems/13c70f43-aeae-4207-be23-b4fc9ff8a6f9

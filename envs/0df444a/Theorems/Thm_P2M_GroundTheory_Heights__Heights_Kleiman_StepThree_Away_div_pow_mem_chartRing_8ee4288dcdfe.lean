@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_div_pow_mem_chartRing_8ee4288dcdfe
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_div_pow_mem_chartRing_8ee4288dcdfe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:08:42.392609+00:00
 -- url     : https://prove2.me/theorems/869e9932-e61c-4f4b-ac6a-b98c6ba3d3ef

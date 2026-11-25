@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_exists_eq_of_isMaximal_8f112829d4e5
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_exists_eq_of_isMaximal_8f112829d4e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:24:41.592904+00:00
 -- url     : https://prove2.me/theorems/1f77e50d-50ee-48f2-9ab9-1a10d7010248

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsIntegrable_of_found_b82b619ee420
 -- name    : P2M_GroundTheory_Heights__Heights_PtsIntegrable_of_found_b82b619ee420
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:47.930623+00:00
 -- url     : https://prove2.me/theorems/7d184af4-2431-4551-a727-13e6374dd726

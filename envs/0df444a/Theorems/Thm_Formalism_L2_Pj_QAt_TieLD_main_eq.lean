@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_TieLD_main_eq
 -- name    : Formalism.L2.Pj.QAt.TieLD.main_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:35:20.643816+00:00
 -- url     : https://prove2.me/theorems/fe16a1ed-0da1-49c5-8e8f-53262463959d

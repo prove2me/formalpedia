@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointModel_ringKrullDim_join_ae569ee243f0
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointModel_ringKrullDim_join_ae569ee243f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:08:01.243804+00:00
 -- url     : https://prove2.me/theorems/0ae3fdd0-f498-4d98-86d4-23058ece15e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_L3H_key_M0
 -- name    : CompanionTheory.L3H.key_M0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:16:37.613386+00:00
 -- url     : https://prove2.me/theorems/ec339b90-7a9a-4675-b4f5-030245a0d85b

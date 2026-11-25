@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_orth_e
 -- name    : GlobalTheory.DegCnt.LiftS.orth_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:13:57.602145+00:00
 -- url     : https://prove2.me/theorems/e897699d-c7c6-4a00-a18b-1fa93ea89a88

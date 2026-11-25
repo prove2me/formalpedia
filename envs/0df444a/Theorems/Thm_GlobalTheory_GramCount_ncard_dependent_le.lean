@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_ncard_dependent_le
 -- name    : GlobalTheory.GramCount.ncard_dependent_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:25:00.932136+00:00
 -- url     : https://prove2.me/theorems/3394f5b7-1621-4e7b-920d-0296fc48b18b

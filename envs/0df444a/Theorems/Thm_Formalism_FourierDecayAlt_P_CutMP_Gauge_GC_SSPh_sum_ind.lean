@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_SSPh_sum_ind
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.SSPh.sum_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:34:22.360716+00:00
 -- url     : https://prove2.me/theorems/c891f231-0f08-5fb9-9a88-ddbaa6583322

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensOp_sumMap_apply
 -- name    : GlobalTheory.TensOp.sumMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:04:56.022238+00:00
 -- url     : https://prove2.me/theorems/c594793b-dae1-41e6-a25b-c389e78b677d

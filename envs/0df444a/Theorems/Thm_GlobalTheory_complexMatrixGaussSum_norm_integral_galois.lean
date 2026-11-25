@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_complexMatrixGaussSum_norm_integral_galois
 -- name    : GlobalTheory.complexMatrixGaussSum_norm_integral_galois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:00.349324+00:00
 -- url     : https://prove2.me/theorems/08315410-c5cc-5e30-9d46-ed7d997ed76d

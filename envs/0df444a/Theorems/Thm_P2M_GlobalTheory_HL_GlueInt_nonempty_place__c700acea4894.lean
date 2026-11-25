@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_GlueInt_nonempty_place__c700acea4894
 -- name    : P2M_GlobalTheory_HL_GlueInt_nonempty_place__c700acea4894
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:05:04.790532+00:00
 -- url     : https://prove2.me/theorems/7df086e9-859f-409b-94c3-9a3d4570a7bb

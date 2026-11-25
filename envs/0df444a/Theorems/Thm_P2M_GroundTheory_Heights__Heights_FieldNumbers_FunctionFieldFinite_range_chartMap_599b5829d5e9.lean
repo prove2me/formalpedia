@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_FunctionFieldFinite_range_chartMap_599b5829d5e9
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_FunctionFieldFinite_range_chartMap_599b5829d5e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:05:18.279878+00:00
 -- url     : https://prove2.me/theorems/0d2b1c18-b9bf-5096-9c63-f7ac92d40ac5

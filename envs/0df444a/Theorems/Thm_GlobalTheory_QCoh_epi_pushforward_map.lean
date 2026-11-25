@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_epi_pushforward_map
 -- name    : GlobalTheory.QCoh.epi_pushforward_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:02:04.238305+00:00
 -- url     : https://prove2.me/theorems/92387cd2-5384-532d-98d3-aa4e67c35bc2

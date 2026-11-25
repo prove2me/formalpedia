@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_pair_rename_inl
 -- name    : GlobalTheory.OddBlock.ExpShift.pair_rename_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:34:44.465875+00:00
 -- url     : https://prove2.me/theorems/d73d9ab8-d122-4198-b5bd-2c30dbb1267d

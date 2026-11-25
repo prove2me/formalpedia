@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_jac_norm_bz
 -- name    : Formalism.FourierDecayAlt.P.PBK.jac_norm_bz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:34:02.197911+00:00
 -- url     : https://prove2.me/theorems/2e49f0b5-f037-5d0f-97a1-273246dfb7a4

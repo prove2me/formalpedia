@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_exists_colon_isPrime_e41b03fc9ee7
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_exists_colon_isPrime_e41b03fc9ee7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:49.820892+00:00
 -- url     : https://prove2.me/theorems/52a1b856-f53c-5f14-9420-be5146174b46

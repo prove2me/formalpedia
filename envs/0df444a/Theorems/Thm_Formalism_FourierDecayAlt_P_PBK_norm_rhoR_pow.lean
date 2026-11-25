@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_norm_rhoR_pow
 -- name    : Formalism.FourierDecayAlt.P.PBK.norm_rhoR_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:22:17.256176+00:00
 -- url     : https://prove2.me/theorems/54b9174e-b0df-4ac0-999d-fdd8750c35f9

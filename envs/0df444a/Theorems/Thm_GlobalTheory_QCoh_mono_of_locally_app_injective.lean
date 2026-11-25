@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_mono_of_locally_app_injective
 -- name    : GlobalTheory.QCoh.mono_of_locally_app_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:03:16.822497+00:00
 -- url     : https://prove2.me/theorems/1dad4c30-33c1-4306-9378-65e81f8c4594

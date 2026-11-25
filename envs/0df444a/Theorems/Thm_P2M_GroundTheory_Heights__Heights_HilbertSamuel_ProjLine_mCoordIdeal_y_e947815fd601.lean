@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_mCoordIdeal_y_e947815fd601
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_mCoordIdeal_y_e947815fd601
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:14.022701+00:00
 -- url     : https://prove2.me/theorems/5b24f15f-f304-5313-a76e-691f90c1694f

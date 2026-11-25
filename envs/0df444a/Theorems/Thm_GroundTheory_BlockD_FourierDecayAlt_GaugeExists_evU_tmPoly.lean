@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_GaugeExists_evU_tmPoly
 -- name    : GroundTheory.BlockD.FourierDecayAlt.GaugeExists.evU_tmPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:11:44.470429+00:00
 -- url     : https://prove2.me/theorems/4b0bd39d-d860-516e-b2ec-f91ef3f8b586

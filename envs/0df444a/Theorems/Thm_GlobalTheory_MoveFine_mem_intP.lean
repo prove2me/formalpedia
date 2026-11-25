@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_mem_intP
 -- name    : GlobalTheory.MoveFine.mem_intP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:40:11.906226+00:00
 -- url     : https://prove2.me/theorems/9436dea7-3466-519b-af42-5a35b36c671a

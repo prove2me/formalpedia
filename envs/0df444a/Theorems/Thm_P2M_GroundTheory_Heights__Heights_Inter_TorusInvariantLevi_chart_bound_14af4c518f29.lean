@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_chart_bound_14af4c518f29
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_chart_bound_14af4c518f29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:22:49.612809+00:00
 -- url     : https://prove2.me/theorems/0737d24f-7582-4182-a1dc-1bb11cdb0e16

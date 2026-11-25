@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateLeftIso_hom
 -- name    : GroundTheory.GroupCoh.tateLeftIso_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:06:29.461802+00:00
 -- url     : https://prove2.me/theorems/4559143b-998c-418d-a755-68840ccdf5ab

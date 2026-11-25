@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_constOp_eq_symb0
 -- name    : GroundTheory.Automorphic.Sobolev.constOp_eq_symb0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:19:17.098087+00:00
 -- url     : https://prove2.me/theorems/3cd721f8-d5ed-5750-9422-d681d31a3e6e

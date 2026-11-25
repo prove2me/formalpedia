@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_qf_tau_3dfc944c5bc2
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_qf_tau_3dfc944c5bc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:17:14.492807+00:00
 -- url     : https://prove2.me/theorems/095dc1be-bfea-477b-a23d-23b76867f63c

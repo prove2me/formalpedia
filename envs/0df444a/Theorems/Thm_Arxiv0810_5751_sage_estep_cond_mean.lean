@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0810_5751_sage_estep_cond_mean
 -- name    : Arxiv0810_5751.sage_estep_cond_mean
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:42:08.51194+00:00
 -- url     : https://prove2.me/theorems/bf71f756-f969-4836-a8a6-0feff60c0b7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_app_surjective_of_epi_of_isAffineOpen
 -- name    : GlobalTheory.QCoh.app_surjective_of_epi_of_isAffineOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:02:38.164709+00:00
 -- url     : https://prove2.me/theorems/9829f81c-7e59-46d6-9841-87daeab2894f

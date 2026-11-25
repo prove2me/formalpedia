@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KernelProjMeasurable_tendsto_resolvent_de8987e0176b
 -- name    : P2M_GroundTheory_Heights__Heights_KernelProjMeasurable_tendsto_resolvent_de8987e0176b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:27:02.076842+00:00
 -- url     : https://prove2.me/theorems/1f24a1ed-ac32-4771-9b6e-7ba09ce9dfbe

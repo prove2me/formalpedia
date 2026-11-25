@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_HyperbolicPairTransitive_exists_unitary_sub_smul_a1fa7a01f2b5
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_HyperbolicPairTransitive_exists_unitary_sub_smul_a1fa7a01f2b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:30:48.354541+00:00
 -- url     : https://prove2.me/theorems/eac7a306-3450-4440-b03c-2a2ffa67c9fa

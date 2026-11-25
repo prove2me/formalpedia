@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_vNumL_eq_of_perm_19c0e0c00719
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_vNumL_eq_of_perm_19c0e0c00719
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:13:01.903858+00:00
 -- url     : https://prove2.me/theorems/de69cca5-1e1d-4ffa-aa6b-d3ba8c2fa704

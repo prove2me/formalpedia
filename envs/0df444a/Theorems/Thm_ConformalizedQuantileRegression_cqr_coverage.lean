@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalizedQuantileRegression_cqr_coverage
 -- name    : ConformalizedQuantileRegression.cqr_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:44:34.617288+00:00
 -- url     : https://prove2.me/theorems/3f173e6d-ad84-4350-a0e1-102ed481bc6c

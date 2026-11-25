@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_le_of_gram
 -- name    : GlobalTheory.HermOrthBasis.le_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:15:04.831042+00:00
 -- url     : https://prove2.me/theorems/e64ed692-6218-423e-85a1-130c6b143f7c

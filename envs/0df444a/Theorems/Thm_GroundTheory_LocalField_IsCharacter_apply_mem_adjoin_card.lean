@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsCharacter_apply_mem_adjoin_card
 -- name    : GroundTheory.LocalField.IsCharacter.apply_mem_adjoin_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:35:38.677831+00:00
 -- url     : https://prove2.me/theorems/56ce9076-349a-44c8-b186-aa8f05413452

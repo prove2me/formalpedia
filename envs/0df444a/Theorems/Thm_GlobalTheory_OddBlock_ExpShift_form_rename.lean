@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_form_rename
 -- name    : GlobalTheory.OddBlock.ExpShift.form_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:34:34.453654+00:00
 -- url     : https://prove2.me/theorems/90ba76c8-3612-4ffb-96b9-37a7835e07de

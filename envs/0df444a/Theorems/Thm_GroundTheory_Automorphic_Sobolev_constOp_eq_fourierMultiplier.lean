@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_constOp_eq_fourierMultiplier
 -- name    : GroundTheory.Automorphic.Sobolev.constOp_eq_fourierMultiplier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:13:59.313603+00:00
 -- url     : https://prove2.me/theorems/45b7d76a-d2f6-486f-a193-17adfd29326e

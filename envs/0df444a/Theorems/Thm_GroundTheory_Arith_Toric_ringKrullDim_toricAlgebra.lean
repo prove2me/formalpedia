@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_ringKrullDim_toricAlgebra
 -- name    : GroundTheory.Arith.Toric.ringKrullDim_toricAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:55:39.827693+00:00
 -- url     : https://prove2.me/theorems/02653d14-edcf-4b87-b320-245c791e989e

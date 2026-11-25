@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_supportedIn_le_relT_sup
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.supportedIn_le_relT_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:56:21.060416+00:00
 -- url     : https://prove2.me/theorems/4fc486cb-53ab-5e09-b9ee-e2e59c328356

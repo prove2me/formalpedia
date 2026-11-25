@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_LiftExp_norm_pow_nat
 -- name    : GlobalTheory.Cyc.LiftExp.norm_pow_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:58:27.34766+00:00
 -- url     : https://prove2.me/theorems/f92048f3-bc91-4264-b90a-2fadeecf0755

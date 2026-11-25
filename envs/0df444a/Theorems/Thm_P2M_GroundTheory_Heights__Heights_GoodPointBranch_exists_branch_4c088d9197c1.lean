@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GoodPointBranch_exists_branch_4c088d9197c1
 -- name    : P2M_GroundTheory_Heights__Heights_GoodPointBranch_exists_branch_4c088d9197c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:19:23.46735+00:00
 -- url     : https://prove2.me/theorems/36e91b50-23cb-45b5-a498-9369419f416f

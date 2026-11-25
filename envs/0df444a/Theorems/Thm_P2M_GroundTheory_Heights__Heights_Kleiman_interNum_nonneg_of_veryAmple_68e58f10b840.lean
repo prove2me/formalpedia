@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_interNum_nonneg_of_veryAmple_68e58f10b840
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_interNum_nonneg_of_veryAmple_68e58f10b840
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:08:56.099809+00:00
 -- url     : https://prove2.me/theorems/53bde907-a547-4fe7-8948-570bfcd61bba

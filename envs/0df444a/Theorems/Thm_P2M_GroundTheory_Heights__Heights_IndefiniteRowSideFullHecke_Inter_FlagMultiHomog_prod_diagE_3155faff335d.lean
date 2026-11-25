@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagMultiHomog_prod_diagE_3155faff335d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagMultiHomog_prod_diagE_3155faff335d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:34:15.590461+00:00
 -- url     : https://prove2.me/theorems/adfd768f-1d67-4ee0-bf59-6f7b6c3106c9

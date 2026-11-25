@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PairingClass_Tied_inv
 -- name    : GlobalTheory.HL.PairingClass.Tied.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:22:52.765663+00:00
 -- url     : https://prove2.me/theorems/2cae1910-0a94-5434-aea6-5bfc6f59e074

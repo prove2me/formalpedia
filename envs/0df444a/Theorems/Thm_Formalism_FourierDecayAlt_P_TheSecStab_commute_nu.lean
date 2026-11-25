@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TheSecStab_commute_nu
 -- name    : Formalism.FourierDecayAlt.P.TheSecStab.commute_nu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:21:46.237006+00:00
 -- url     : https://prove2.me/theorems/d8610992-a49f-4e06-bd76-7d13ee461ee3

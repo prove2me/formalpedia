@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateCoindIso_hom_tateZeroClass
 -- name    : GroundTheory.GroupCoh.tateCoindIso_hom_tateZeroClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:04:05.118205+00:00
 -- url     : https://prove2.me/theorems/dc18255b-3cdf-41ad-989b-22870e0295ac

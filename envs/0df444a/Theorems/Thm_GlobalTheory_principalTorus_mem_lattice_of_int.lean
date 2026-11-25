@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_principalTorus_mem_lattice_of_int
 -- name    : GlobalTheory.principalTorus_mem_lattice_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:03:06.986275+00:00
 -- url     : https://prove2.me/theorems/8850659d-fa44-4dfe-a515-a97bafd95623

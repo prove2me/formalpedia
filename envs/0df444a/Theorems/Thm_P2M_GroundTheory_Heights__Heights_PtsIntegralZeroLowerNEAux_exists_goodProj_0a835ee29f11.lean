@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsIntegralZeroLowerNEAux_exists_goodProj_0a835ee29f11
 -- name    : P2M_GroundTheory_Heights__Heights_PtsIntegralZeroLowerNEAux_exists_goodProj_0a835ee29f11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:34.924805+00:00
 -- url     : https://prove2.me/theorems/a05a8888-fcd4-490d-b6ea-e0a4db0101c4

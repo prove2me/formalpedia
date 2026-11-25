@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_integrable_fY
 -- name    : Formalism.L2.S.Pv.EnergyAbs.integrable_fY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:21:28.88404+00:00
 -- url     : https://prove2.me/theorems/8c832ec3-024c-4bf9-a6bd-5fc0bb5bacfa

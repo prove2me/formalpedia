@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_swap_zero
 -- name    : GlobalTheory.DegAsm.FrameMove.swap_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:40:54.797294+00:00
 -- url     : https://prove2.me/theorems/9ee9f6c8-2b83-5873-b098-a255d974b3ac

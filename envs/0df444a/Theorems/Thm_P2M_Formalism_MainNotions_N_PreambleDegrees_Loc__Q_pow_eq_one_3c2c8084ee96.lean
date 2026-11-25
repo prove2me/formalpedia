@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_N_PreambleDegrees_Loc__Q_pow_eq_one_3c2c8084ee96
 -- name    : P2M_Formalism_MainNotions_N_PreambleDegrees_Loc__Q_pow_eq_one_3c2c8084ee96
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:01:20.04613+00:00
 -- url     : https://prove2.me/theorems/3e638757-6d3f-4abe-8fc4-cacbdd9c4eea

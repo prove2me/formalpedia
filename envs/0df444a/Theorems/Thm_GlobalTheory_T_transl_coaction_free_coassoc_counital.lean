@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_transl_coaction_free_coassoc_counital
 -- name    : GlobalTheory.T.transl_coaction_free_coassoc_counital
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:13:10.11996+00:00
 -- url     : https://prove2.me/theorems/d2116a38-13b1-4b4f-aa65-ee3250543def

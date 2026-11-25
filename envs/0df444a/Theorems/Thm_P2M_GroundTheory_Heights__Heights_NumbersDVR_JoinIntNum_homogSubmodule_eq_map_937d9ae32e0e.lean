@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_homogSubmodule_eq_map_937d9ae32e0e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_homogSubmodule_eq_map_937d9ae32e0e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:06:49.932174+00:00
 -- url     : https://prove2.me/theorems/c8e97816-9e92-4f37-a3df-661388943d42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_smul_eq
 -- name    : GroundTheory.Automorphic.Whittaker.exists_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:08:38.758852+00:00
 -- url     : https://prove2.me/theorems/a0651b09-fdf8-499a-97e3-e5e86a8204ff

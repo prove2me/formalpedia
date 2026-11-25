@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuAdapt_inv_sqrt_two_mul_self_bis
 -- name    : GlobalTheory.CompanionTheory.BmuAdapt.inv_sqrt_two_mul_self_bis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:35:21.058165+00:00
 -- url     : https://prove2.me/theorems/63467285-d87f-5864-87f8-07160ed23f76

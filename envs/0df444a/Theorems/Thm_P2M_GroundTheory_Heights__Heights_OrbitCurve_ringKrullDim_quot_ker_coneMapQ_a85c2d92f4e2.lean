@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCurve_ringKrullDim_quot_ker_coneMapQ_a85c2d92f4e2
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCurve_ringKrullDim_quot_ker_coneMapQ_a85c2d92f4e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:20.131667+00:00
 -- url     : https://prove2.me/theorems/e90d7315-527f-4791-97c6-630601cd98d9

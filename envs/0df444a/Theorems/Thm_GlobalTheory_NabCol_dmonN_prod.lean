@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_dmonN_prod
 -- name    : GlobalTheory.NabCol.dmonN_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:35:17.543101+00:00
 -- url     : https://prove2.me/theorems/12f41ece-66e1-4fad-b9c6-57aeef2b43dd

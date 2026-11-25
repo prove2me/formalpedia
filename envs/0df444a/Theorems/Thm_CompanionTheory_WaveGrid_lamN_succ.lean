@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_lamN_succ
 -- name    : CompanionTheory.WaveGrid.lamN_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:08:03.927368+00:00
 -- url     : https://prove2.me/theorems/39a68d37-85d1-47d2-acff-99ca4debdbf0

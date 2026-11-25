@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_pt_surjective
 -- name    : GlobalTheory.PDivGroup.pt_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:55:58.119107+00:00
 -- url     : https://prove2.me/theorems/333749aa-f0f7-4428-b751-12787a021fe9

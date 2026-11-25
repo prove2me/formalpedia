@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_one_add_pow_ne_one
 -- name    : GroundTheory.PAdicHodge.one_add_pow_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:10:39.151947+00:00
 -- url     : https://prove2.me/theorems/d12222c9-0b48-4bd3-b6be-d16d9e173483

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SublatCount_encard_top
 -- name    : GlobalTheory.SublatCount.encard_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:00:49.077726+00:00
 -- url     : https://prove2.me/theorems/9caaa0cd-fe6d-5b31-8388-6175d0b1341a

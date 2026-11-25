@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_jets_unramified
 -- name    : Formalism.L2.Th1.C.jets_unramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:38:43.883957+00:00
 -- url     : https://prove2.me/theorems/e58add15-5c73-55d8-82c5-3d6f25b5dd4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_metaplectic_oneParam_schwartz
 -- name    : GlobalTheory.RealWeil.metaplectic_oneParam_schwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:16:28.395251+00:00
 -- url     : https://prove2.me/theorems/119cfbef-632d-4f0e-bea8-a0d9ee57285a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_measurable_bInt
 -- name    : Formalism.L2.S.Pv.EnergyAbs.measurable_bInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:25:32.049002+00:00
 -- url     : https://prove2.me/theorems/900f91c2-76ee-43b3-ae07-2f477de2aac2

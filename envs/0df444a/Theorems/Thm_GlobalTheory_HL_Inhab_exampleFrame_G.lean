@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_exampleFrame_G
 -- name    : GlobalTheory.HL.Inhab.exampleFrame_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:39:37.146812+00:00
 -- url     : https://prove2.me/theorems/60a221a3-7c0a-4a81-ab23-28aa8ba170c3

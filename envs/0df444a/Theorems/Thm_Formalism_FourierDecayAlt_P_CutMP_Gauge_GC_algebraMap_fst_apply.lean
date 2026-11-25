@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_algebraMap_fst_apply
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.algebraMap_fst_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:24:26.205098+00:00
 -- url     : https://prove2.me/theorems/3b2ab60b-658c-5099-a456-a23903187229

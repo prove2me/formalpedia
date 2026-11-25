@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_cohTrivial_of_isZero_of_shift
 -- name    : GroundTheory.GroupCoh.tateAcyclic_cohTrivial_of_isZero_of_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:14:39.366905+00:00
 -- url     : https://prove2.me/theorems/828c1e98-82ac-5d45-9130-d53957bb71b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_exists_add_eq_of_opBound
 -- name    : GroundTheory.Automorphic.Sobolev.exists_add_eq_of_opBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:20:50.643431+00:00
 -- url     : https://prove2.me/theorems/24f2b384-b5e8-4314-adde-ca34f4e7b98e

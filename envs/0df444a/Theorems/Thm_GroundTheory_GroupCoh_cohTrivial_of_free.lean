@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_cohTrivial_of_free
 -- name    : GroundTheory.GroupCoh.cohTrivial_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:34.732882+00:00
 -- url     : https://prove2.me/theorems/72263eba-5c52-5b3e-99e6-fe10ffe8a525

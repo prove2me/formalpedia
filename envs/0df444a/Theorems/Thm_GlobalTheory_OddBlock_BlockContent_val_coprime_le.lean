@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BlockContent_val_coprime_le
 -- name    : GlobalTheory.OddBlock.BlockContent.val_coprime_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:34:52.680872+00:00
 -- url     : https://prove2.me/theorems/f7c9d26e-0a6d-4135-aca4-a7f4f775a94c

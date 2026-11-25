@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbDegBound_degLT_listSum_94fc907d46a1
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbDegBound_degLT_listSum_94fc907d46a1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:59.884459+00:00
 -- url     : https://prove2.me/theorems/1429a9da-9ded-4106-8a2a-ad74cf9c9e3e

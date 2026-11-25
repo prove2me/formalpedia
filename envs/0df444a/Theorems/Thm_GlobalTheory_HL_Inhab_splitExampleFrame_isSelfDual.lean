@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_splitExampleFrame_isSelfDual
 -- name    : GlobalTheory.HL.Inhab.splitExampleFrame_isSelfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:40.523841+00:00
 -- url     : https://prove2.me/theorems/5082dd6f-f69c-4420-9791-a549cbe500f0

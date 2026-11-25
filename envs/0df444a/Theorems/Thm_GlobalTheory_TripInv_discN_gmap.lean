@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_discN_gmap
 -- name    : GlobalTheory.TripInv.discN_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:33:46.272821+00:00
 -- url     : https://prove2.me/theorems/c9b2fdb6-4424-454a-8da8-220fe8d0193d

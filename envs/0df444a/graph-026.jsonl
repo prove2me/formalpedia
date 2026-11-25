@@ -46638,7 +46638,7 @@
 {"parent": "OAI.CubicEisenstein.kernelL2Localize_core", "child": "OAI_NumberTheory_DirichletL_Eisenstein_LocalCutoffs", "via": ["solution", "statement"]}
 {"parent": "PrivateAgnosticHalfspace.Gaussian.lemma_B_9", "child": "PrivateAgnosticHalfspace_Gaussian_Regression", "via": ["solution", "statement"]}
 {"parent": "RemovingTrees.Main.improvement_step", "child": "RemovingTrees_Main_GraphModel", "via": ["statement"]}
-{"parent": "BorderDiffEq.lemma_4_23", "child": "BorderDiffEq_signedMinor", "via": ["statement"]}
+{"parent": "BorderDiffEq.lemma_4_23", "child": "BorderDiffEq_signedMinor", "via": ["solution", "statement"]}
 {"parent": "MerkleROM.VerifierLowerBound.binding_error", "child": "MerkleROM_VerifierLowerBound_product", "via": ["statement"]}
 {"parent": "MerkleROM.VerifierLowerBound.binding_error", "child": "MerkleROM_VerifierLowerBound_protocol", "via": ["statement"]}
 {"parent": "OtterAMM.TwoSided.fact_9", "child": "OtterAMM_TwoSided_Model", "via": ["statement"]}

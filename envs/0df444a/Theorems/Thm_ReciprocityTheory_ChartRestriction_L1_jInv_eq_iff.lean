@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_jInv_eq_iff
 -- name    : ReciprocityTheory.ChartRestriction.L1.jInv_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:10:29.491711+00:00
 -- url     : https://prove2.me/theorems/143ac0a7-51ec-4582-8323-12cbf59e7966

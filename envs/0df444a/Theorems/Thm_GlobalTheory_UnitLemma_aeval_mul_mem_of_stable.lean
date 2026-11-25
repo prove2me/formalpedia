@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_aeval_mul_mem_of_stable
 -- name    : GlobalTheory.UnitLemma.aeval_mul_mem_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:05:44.480229+00:00
 -- url     : https://prove2.me/theorems/baa8b303-ac6b-4b2c-8261-30a336465f85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FrameCramer_exists_tri
 -- name    : GlobalTheory.DegCnt.FrameCramer.exists_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:27:35.095541+00:00
 -- url     : https://prove2.me/theorems/910b9bba-cdab-4f68-a352-bbc1efc0ff36

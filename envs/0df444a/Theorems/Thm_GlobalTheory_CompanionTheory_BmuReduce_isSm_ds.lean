@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuReduce_isSm_ds
 -- name    : GlobalTheory.CompanionTheory.BmuReduce.isSm_ds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:43:00.526287+00:00
 -- url     : https://prove2.me/theorems/a0cc670e-87af-4cef-8baf-d54f6d9270a0

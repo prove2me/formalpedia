@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLocusBaseChange_lift_mul_hom_pullback_fst
 -- name    : GlobalTheory.SmoothLocusBaseChange.lift_mul_hom_pullback_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:49:37.429195+00:00
 -- url     : https://prove2.me/theorems/b60355bb-882f-58f5-84e6-9d97c174affb

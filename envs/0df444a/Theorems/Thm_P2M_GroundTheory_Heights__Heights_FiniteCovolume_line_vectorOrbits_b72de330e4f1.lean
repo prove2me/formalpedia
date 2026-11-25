@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_line_vectorOrbits_b72de330e4f1
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_line_vectorOrbits_b72de330e4f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:46.025284+00:00
 -- url     : https://prove2.me/theorems/350652e7-f217-41bf-b5ec-ce9ef312ae78

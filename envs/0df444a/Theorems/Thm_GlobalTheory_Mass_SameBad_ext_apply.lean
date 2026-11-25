@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SameBad_ext_apply
 -- name    : GlobalTheory.Mass.SameBad.ext_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:32:17.999285+00:00
 -- url     : https://prove2.me/theorems/fa7ae09f-9260-489d-907f-fd2c5920c782

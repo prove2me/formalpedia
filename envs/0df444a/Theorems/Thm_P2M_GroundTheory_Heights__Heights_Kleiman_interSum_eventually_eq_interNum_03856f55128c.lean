@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_interSum_eventually_eq_interNum_03856f55128c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_interSum_eventually_eq_interNum_03856f55128c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:09:26.866082+00:00
 -- url     : https://prove2.me/theorems/0705b667-22e8-4cc7-b740-9c26152d03e6

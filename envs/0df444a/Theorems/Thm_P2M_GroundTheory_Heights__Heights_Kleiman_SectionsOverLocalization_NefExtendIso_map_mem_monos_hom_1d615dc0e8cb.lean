@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_NefExtendIso_map_mem_monos_hom_1d615dc0e8cb
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_NefExtendIso_map_mem_monos_hom_1d615dc0e8cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:09:23.917216+00:00
 -- url     : https://prove2.me/theorems/2626c514-a02d-5fc1-8a80-0d195f39594b

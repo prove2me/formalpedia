@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_monos_map_78062567800a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_monos_map_78062567800a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:07:20.795422+00:00
 -- url     : https://prove2.me/theorems/978d0c97-f042-52fb-a19d-1d5f5b186529

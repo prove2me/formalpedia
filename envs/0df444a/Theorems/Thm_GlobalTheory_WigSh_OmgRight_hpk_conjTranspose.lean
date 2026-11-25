@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_OmgRight_hpk_conjTranspose
 -- name    : GlobalTheory.WigSh.OmgRight.hpk_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:57:52.984799+00:00
 -- url     : https://prove2.me/theorems/ba10a9cc-0594-555e-bd99-be64d972e0fd

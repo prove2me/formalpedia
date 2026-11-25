@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_e_upper_simple_mul_pow_sub_mem
 -- name    : GroundTheory.Automorphic.HarishChandra.e_upper_simple_mul_pow_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:04:08.171024+00:00
 -- url     : https://prove2.me/theorems/9dba62f6-fd4b-42cd-90d4-d184026b74fb

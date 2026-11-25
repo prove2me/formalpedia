@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_inner_translate
 -- name    : CompanionTheory.LimBd.Main.inner_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:18:15.539228+00:00
 -- url     : https://prove2.me/theorems/faa5cff4-1af6-5f57-a906-7e4b7c1b23d0

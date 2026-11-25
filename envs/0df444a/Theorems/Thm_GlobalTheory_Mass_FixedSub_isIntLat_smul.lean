@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_FixedSub_isIntLat_smul
 -- name    : GlobalTheory.Mass.FixedSub.isIntLat_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:18:34.005998+00:00
 -- url     : https://prove2.me/theorems/3a68c1b7-48df-59c9-9600-3a49b701578e

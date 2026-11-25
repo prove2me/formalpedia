@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_roL_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.roL_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:37:56.696647+00:00
 -- url     : https://prove2.me/theorems/7b4f6e4d-ab92-5f67-9224-1259a9c42451

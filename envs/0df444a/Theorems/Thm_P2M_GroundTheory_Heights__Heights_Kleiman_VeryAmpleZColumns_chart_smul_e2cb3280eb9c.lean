@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZColumns_chart_smul_e2cb3280eb9c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZColumns_chart_smul_e2cb3280eb9c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:08:52.353437+00:00
 -- url     : https://prove2.me/theorems/05111df0-15d2-44fa-81b2-c40da4648f95

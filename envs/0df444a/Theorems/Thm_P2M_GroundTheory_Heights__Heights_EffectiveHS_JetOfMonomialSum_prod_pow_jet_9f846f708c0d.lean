@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_JetOfMonomialSum_prod_pow_jet_9f846f708c0d
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_JetOfMonomialSum_prod_pow_jet_9f846f708c0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:02.938093+00:00
 -- url     : https://prove2.me/theorems/fa44b138-0c87-4af9-9533-33b16ddd6e6b

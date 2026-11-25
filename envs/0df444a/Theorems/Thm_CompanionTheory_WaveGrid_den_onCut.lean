@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_den_onCut
 -- name    : CompanionTheory.WaveGrid.den_onCut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:36:42.815181+00:00
 -- url     : https://prove2.me/theorems/187a68f3-fb83-4812-858d-6f3f28016f1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_QMinOp_pTerm_word
 -- name    : Formalism.FourierDecayAlt.P.CutMP.QMinOp.pTerm_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:06.20905+00:00
 -- url     : https://prove2.me/theorems/42c5f3c8-87d4-5651-827a-9cf896f407a1

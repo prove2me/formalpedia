@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_kerBack
 -- name    : MassDataIdxCore.kerBack
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:36:53.951463+00:00
 -- url     : https://prove2.me/theorems/f291f084-5399-4f1a-b80b-ccfe67af4c9e

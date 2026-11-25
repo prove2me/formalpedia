@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_qSymb_le
 -- name    : GroundTheory.Automorphic.Sobolev.norm_qSymb_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:21:00.964184+00:00
 -- url     : https://prove2.me/theorems/8e11e1d5-b962-4ca2-a0e2-cd0015badd0a

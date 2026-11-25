@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_alphaN_bound
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.alphaN_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:25:24.122621+00:00
 -- url     : https://prove2.me/theorems/2589fd62-09e2-48c6-aca9-b3fe8c6d12ad

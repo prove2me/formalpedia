@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GeoNumTarget_finsum_mul_eq_sum_fab02a791cdc
 -- name    : P2M_GroundTheory_Heights__Heights_GeoNumTarget_finsum_mul_eq_sum_fab02a791cdc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:00:39.554666+00:00
 -- url     : https://prove2.me/theorems/7a93bc4d-e167-5250-9493-dabbbb38990e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuDecomp_iso_exists_inv
 -- name    : GlobalTheory.CompanionTheory.BmuDecomp.iso_exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:02:59.359625+00:00
 -- url     : https://prove2.me/theorems/cc1679b3-e4d6-4930-a14b-c0c6da149284

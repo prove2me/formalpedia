@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_tildePullbackIso_hom_app_toOpen
 -- name    : GlobalTheory.QCoh.tildePullbackIso_hom_app_toOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:02:04.218803+00:00
 -- url     : https://prove2.me/theorems/1f25c5d2-fdfe-53b4-8b3d-0467c19dc599

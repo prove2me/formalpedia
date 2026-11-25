@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_multiHomog_sup_span_d4fd7e1016c4
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_multiHomog_sup_span_d4fd7e1016c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:11.082263+00:00
 -- url     : https://prove2.me/theorems/5ef11d5d-f624-44b7-9252-602cb967eb20

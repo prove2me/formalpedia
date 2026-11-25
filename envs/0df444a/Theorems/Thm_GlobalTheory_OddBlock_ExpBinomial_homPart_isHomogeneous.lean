@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpBinomial_homPart_isHomogeneous
 -- name    : GlobalTheory.OddBlock.ExpBinomial.homPart_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:34:46.646416+00:00
 -- url     : https://prove2.me/theorems/464e09a2-06bb-423f-ac48-14bfdc9bfa56

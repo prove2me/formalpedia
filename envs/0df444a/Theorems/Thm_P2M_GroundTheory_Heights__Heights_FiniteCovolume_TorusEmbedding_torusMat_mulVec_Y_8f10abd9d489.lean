@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_TorusEmbedding_torusMat_mulVec_Y_8f10abd9d489
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_TorusEmbedding_torusMat_mulVec_Y_8f10abd9d489
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:54:39.390621+00:00
 -- url     : https://prove2.me/theorems/4f88c2c8-9258-493c-96eb-aefc992bfc62

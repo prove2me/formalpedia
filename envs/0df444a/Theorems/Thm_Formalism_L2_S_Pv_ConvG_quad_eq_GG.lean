@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_ConvG_quad_eq_GG
 -- name    : Formalism.L2.S.Pv.ConvG.quad_eq_GG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:25:32.493375+00:00
 -- url     : https://prove2.me/theorems/df2bb32d-81ef-430f-b23f-1870a83adada

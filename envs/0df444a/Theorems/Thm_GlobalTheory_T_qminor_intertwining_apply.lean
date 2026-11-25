@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_qminor_intertwining_apply
 -- name    : GlobalTheory.T.qminor_intertwining_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:05:53.059904+00:00
 -- url     : https://prove2.me/theorems/bb6ff581-8e69-49c7-af58-d69992ea7389

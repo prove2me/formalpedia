@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_eq_zero_of_mem_center_of_hcProjLin_eq_zero
 -- name    : GroundTheory.Automorphic.HarishChandra.eq_zero_of_mem_center_of_hcProjLin_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:03:50.418343+00:00
 -- url     : https://prove2.me/theorems/cf047842-1d9f-4e73-b9c8-afb645843b86

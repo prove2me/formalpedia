@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_eq_zero_of_ipGL_rootSum_eq_zero
 -- name    : GlobalTheory.CuspGL.eq_zero_of_ipGL_rootSum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:31:57.678021+00:00
 -- url     : https://prove2.me/theorems/04bcc5ae-7226-42eb-8b50-293583cbc938

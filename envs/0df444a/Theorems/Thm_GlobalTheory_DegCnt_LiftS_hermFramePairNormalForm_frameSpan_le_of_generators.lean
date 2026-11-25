@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_hermFramePairNormalForm_frameSpan_le_of_generators
 -- name    : GlobalTheory.DegCnt.LiftS.hermFramePairNormalForm_frameSpan_le_of_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:12:45.551152+00:00
 -- url     : https://prove2.me/theorems/d281ed03-df1b-5a41-823d-cfdb12ccbf4b

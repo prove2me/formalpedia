@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RelExp_exists_local_exp
 -- name    : GlobalTheory.RelExp.exists_local_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:21:42.197664+00:00
 -- url     : https://prove2.me/theorems/afe38439-2fce-4f2b-a458-50fc8a92e552

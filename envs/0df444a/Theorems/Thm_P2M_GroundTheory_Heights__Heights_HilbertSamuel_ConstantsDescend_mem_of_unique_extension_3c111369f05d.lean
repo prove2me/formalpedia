@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_mem_of_unique_extension_3c111369f05d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_mem_of_unique_extension_3c111369f05d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:30.045819+00:00
 -- url     : https://prove2.me/theorems/b5d2c950-aafa-5059-bfee-bb4a7b2acfa5

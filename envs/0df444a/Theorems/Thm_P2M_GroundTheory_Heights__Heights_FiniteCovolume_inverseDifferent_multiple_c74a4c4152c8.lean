@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_inverseDifferent_multiple_c74a4c4152c8
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_inverseDifferent_multiple_c74a4c4152c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:31.113852+00:00
 -- url     : https://prove2.me/theorems/375acbc2-63e7-517a-bd03-57541483995f

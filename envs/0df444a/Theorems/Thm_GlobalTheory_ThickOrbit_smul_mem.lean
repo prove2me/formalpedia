@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickOrbit_smul_mem
 -- name    : GlobalTheory.ThickOrbit.smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:03:22.365137+00:00
 -- url     : https://prove2.me/theorems/84d223f3-591a-41b9-a828-acb9ad74b2f1

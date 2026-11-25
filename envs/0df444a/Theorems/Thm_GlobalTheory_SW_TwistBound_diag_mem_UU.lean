@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_TwistBound_diag_mem_UU
 -- name    : GlobalTheory.SW.TwistBound.diag_mem_UU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:49.963809+00:00
 -- url     : https://prove2.me/theorems/645838d7-0233-5f53-a6ae-2d42675f1f12

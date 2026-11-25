@@ -1,0 +1,44 @@
+-- Prove2me | solution 1 for GlobalTheory.Mass.Transp.mass_img
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T07:01:39.972829+00:00
+-- url     : https://prove2.me/submissions/a519952e-46b0-4e4b-90f0-89cad242a797
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ChartGen
+import Definitions.Def_P2M_Def_Development_AbelianVarietyTheory_PublishedTheorems_DiscreteSeriesUnitary__MaxMass_96db7412d6455637
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_OrbitWeightedStabilizerSumTransportEquivariant
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_LatsDiscStable
+import Theorems.Thm_GlobalTheory_Mass_Transp_img_symm_img
+import Theorems.Thm_GlobalTheory_Mass_Transp_img_img_symm
+import Theorems.Thm_GlobalTheory_Mass_Transp_img_smul
+import Theorems.Thm_GlobalTheory_Mass_OrbTransport_main
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField Matrix GlobalTheory.Mass Formalism.HermitianLatticesTheory
+open scoped ENNReal Classical
+open GlobalTheory GlobalTheory.Mass GlobalTheory.Mass.Transp
+variable {R K V V' V'' : Type} [CommRing R] [Field K] [StarRing K] [Algebra R K]
+  [AddCommGroup V] [Module K V] [Module R V] [IsScalarTower R K V]
+  [AddCommGroup V'] [Module K V'] [Module R V'] [IsScalarTower R K V']
+  [AddCommGroup V''] [Module K V''] [Module R V''] [IsScalarTower R K V'']
+variable {h : V →ₗ⋆[K] V →ₗ[K] K} {h' : V' →ₗ⋆[K] V' →ₗ[K] K}
+namespace GlobalTheory.Mass.Transp
+theorem _root_.solution (e : V ≃ₗ[K] V') (he : ∀ x y, h' (e x) (e y) = h x y)
+    (X : Set (Submodule R V)) (Y : Set (Submodule R V'))
+    (hX : Stable (isom h) X) (hY : Stable (isom h') Y)
+    (h1 : ∀ M ∈ X, img e M ∈ Y) (h2 : ∀ M ∈ Y, img e.symm M ∈ X) :
+    orbMass (isom h) X = orbMass (isom h') Y := by
+  refine GlobalTheory.Mass.OrbTransport.main _ _ _ _ (conj e he) (img e) X Y (fun _ => 1) hX hY ?_
+    (fun g x _ => img_smul e he g x) (fun _ _ => rfl)
+  refine ⟨h1, fun a _ b _ hab => ?_, fun M hM => ⟨_, h2 M hM, img_img_symm e M⟩⟩
+  rw [← img_symm_img e a, hab, img_symm_img]
+end GlobalTheory.Mass.Transp

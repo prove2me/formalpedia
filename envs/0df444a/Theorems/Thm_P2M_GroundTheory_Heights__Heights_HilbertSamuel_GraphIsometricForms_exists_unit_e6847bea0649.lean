@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_exists_unit_e6847bea0649
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_exists_unit_e6847bea0649
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:22:24.703471+00:00
 -- url     : https://prove2.me/theorems/01d5122c-86e7-46e7-9ed2-c5ae7b622afc

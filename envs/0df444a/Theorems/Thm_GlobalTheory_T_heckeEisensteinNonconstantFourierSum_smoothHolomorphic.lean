@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeEisensteinNonconstantFourierSum_smoothHolomorphic
 -- name    : GlobalTheory.T.heckeEisensteinNonconstantFourierSum_smoothHolomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:36.873389+00:00
 -- url     : https://prove2.me/theorems/052f8b54-7e69-4dc5-bada-256e8658e961

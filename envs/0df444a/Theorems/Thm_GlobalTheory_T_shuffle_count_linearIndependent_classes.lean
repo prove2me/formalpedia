@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_shuffle_count_linearIndependent_classes
 -- name    : GlobalTheory.T.shuffle_count_linearIndependent_classes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:57:40.557957+00:00
 -- url     : https://prove2.me/theorems/ee9b820f-c6b5-474b-b8a0-5828270c499b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealZeroNearOne_exists_bound
 -- name    : GlobalTheory.RealZeroNearOne.exists_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:17:13.67037+00:00
 -- url     : https://prove2.me/theorems/4a1e6e5f-50f4-4d0d-aec6-b0617e014e4f

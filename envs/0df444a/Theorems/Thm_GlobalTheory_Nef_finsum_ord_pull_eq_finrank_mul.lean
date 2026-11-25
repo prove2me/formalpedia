@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_finsum_ord_pull_eq_finrank_mul
 -- name    : GlobalTheory.Nef.finsum_ord_pull_eq_finrank_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:16:25.338176+00:00
 -- url     : https://prove2.me/theorems/7763ff65-ae3d-4147-879d-74040d1a3ce5

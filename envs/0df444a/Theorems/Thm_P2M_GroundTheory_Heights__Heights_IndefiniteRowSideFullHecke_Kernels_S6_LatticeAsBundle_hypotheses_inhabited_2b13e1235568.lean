@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_LatticeAsBundle_hypotheses_inhabited_2b13e1235568
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_LatticeAsBundle_hypotheses_inhabited_2b13e1235568
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:33:49.698693+00:00
 -- url     : https://prove2.me/theorems/a5554ceb-6a21-414d-aac5-2ceae41a8f11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_Supplement_harm_bucket_route_a_54
 -- name    : QuantumLTF.Membership.Supplement.harm_bucket_route_a_54
--- status  : Open
+-- status  : Proved
 -- author  : @Robin Kothari
 -- created : 2026-11-25T07:06:54.299852+00:00
 -- url     : https://prove2.me/theorems/b145cbf7-0df7-50b0-a711-62a3af588125

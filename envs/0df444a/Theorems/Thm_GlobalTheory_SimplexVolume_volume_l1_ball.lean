@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SimplexVolume_volume_l1_ball
 -- name    : GlobalTheory.SimplexVolume.volume_l1_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:22:18.845862+00:00
 -- url     : https://prove2.me/theorems/e7a685e0-a41e-4b6f-8bda-11dbb7576392

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_infiniteAdeleMeasure_smul
 -- name    : GroundTheory.Global.infiniteAdeleMeasure_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:13:56.178203+00:00
 -- url     : https://prove2.me/theorems/7fbcebef-d075-5a98-bb78-a1df295eb6b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_cupH_eq_neg_one_pow_smul_map_braiding
 -- name    : GroundTheory.GroupCoh.cupH_eq_neg_one_pow_smul_map_braiding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:40.753966+00:00
 -- url     : https://prove2.me/theorems/a4304d78-deb4-42c2-a25d-3a80a1aba944

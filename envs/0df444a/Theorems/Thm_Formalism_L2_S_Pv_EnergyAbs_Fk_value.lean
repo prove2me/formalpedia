@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_Fk_value
 -- name    : Formalism.L2.S.Pv.EnergyAbs.Fk_value
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:24:55.831715+00:00
 -- url     : https://prove2.me/theorems/7a15eff9-1670-5a38-a809-6aef8029aeb7

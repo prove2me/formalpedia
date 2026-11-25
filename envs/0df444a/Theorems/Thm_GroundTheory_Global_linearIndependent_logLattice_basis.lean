@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_linearIndependent_logLattice_basis
 -- name    : GroundTheory.Global.linearIndependent_logLattice_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:51:39.183123+00:00
 -- url     : https://prove2.me/theorems/38db4bcf-f57c-4ff7-81c9-6176a419d8b7

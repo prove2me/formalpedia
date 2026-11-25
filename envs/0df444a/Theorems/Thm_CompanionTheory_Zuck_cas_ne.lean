@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_cas_ne
 -- name    : CompanionTheory.Zuck.cas_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:38:01.456246+00:00
 -- url     : https://prove2.me/theorems/9aea6fea-52b7-52b0-be1a-4260af6b20dc

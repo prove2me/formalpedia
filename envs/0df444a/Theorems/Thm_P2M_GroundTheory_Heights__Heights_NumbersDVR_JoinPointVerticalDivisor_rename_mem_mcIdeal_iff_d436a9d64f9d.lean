@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointVerticalDivisor_rename_mem_mcIdeal_iff_d436a9d64f9d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointVerticalDivisor_rename_mem_mcIdeal_iff_d436a9d64f9d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:07:52.661341+00:00
 -- url     : https://prove2.me/theorems/1f6de82f-b217-4185-a5e2-3af2d8963e64

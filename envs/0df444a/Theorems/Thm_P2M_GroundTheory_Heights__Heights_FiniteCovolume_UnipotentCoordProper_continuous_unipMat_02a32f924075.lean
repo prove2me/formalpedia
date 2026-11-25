@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnipotentCoordProper_continuous_unipMat_02a32f924075
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnipotentCoordProper_continuous_unipMat_02a32f924075
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:55:39.986263+00:00
 -- url     : https://prove2.me/theorems/33799dd9-486f-4d05-91a0-88c28ecc750b

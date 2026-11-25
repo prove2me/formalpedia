@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_IA_end_scale
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.IA.end_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:57:11.556363+00:00
 -- url     : https://prove2.me/theorems/b89cc89a-10d1-59f7-b90a-bfbd00b7f5a3

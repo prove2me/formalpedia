@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for Formalism.HermitianLattices.PrimeNumberTheoremConsequences.mean_square_of_prime_number_theorem
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T07:03:05.916614+00:00
+-- url     : https://prove2.me/submissions/a83bf7bd-d5c2-4e64-9edd-fbe9ab932f49
+
+import Mathlib
+import Definitions.Def_Formalism_GL3MeanSquares_PrimePairOfPrimeNumberTheoremInProgressions
+import Definitions.Def_Formalism_GL3MeanSquares_GenusMeanAsymptotics_JacobiCharacterSums_MSqFinal
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_PrimePairOfBoxAndWeakMeanSquareHypotheses
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_BoxCountOfZeroDensity
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_BoxCountAllStatement
+import Definitions.Def_Formalism_GL3MeanSquares_HookFormulaTorsion_MeanSquareOfPrimeNumberTheorem
+import Theorems.Thm_Formalism_HermitianLattices_PrimeNumberTheoremConsequences_PNTAPRelW_iff_ext
+import Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_mean_square_of_pnt_progressions
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Formalism Formalism.HermitianLattices Formalism.HermitianLattices.PrimeNumberTheoremConsequences
+namespace Formalism.HermitianLattices.PrimeNumberTheoremConsequences
+theorem _root_.solution : MeanSquareFromPNT := fun hP =>
+  Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.mean_square_of_pnt_progressions (PNTAPRelW_iff_ext.1 hP)
+end Formalism.HermitianLattices.PrimeNumberTheoremConsequences

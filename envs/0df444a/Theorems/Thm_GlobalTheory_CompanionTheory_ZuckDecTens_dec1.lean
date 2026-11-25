@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckDecTens_dec1
 -- name    : GlobalTheory.CompanionTheory.ZuckDecTens.dec1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:01:17.239741+00:00
 -- url     : https://prove2.me/theorems/fe97eb1a-bbc1-5212-b97e-7a027a3c1ad4

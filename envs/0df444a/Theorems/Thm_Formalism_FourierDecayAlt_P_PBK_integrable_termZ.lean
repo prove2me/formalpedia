@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_integrable_termZ
 -- name    : Formalism.FourierDecayAlt.P.PBK.integrable_termZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:01:41.801292+00:00
 -- url     : https://prove2.me/theorems/f3833c33-6740-5a07-a34e-75b8f5b66375

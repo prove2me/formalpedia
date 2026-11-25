@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_basicOpen_ratioOn
 -- name    : GlobalTheory.WeierstrassCurve.basicOpen_ratioOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:27:29.953675+00:00
 -- url     : https://prove2.me/theorems/908c8984-396e-57ed-a282-da222695e4ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensOp_kunit_tensAct
 -- name    : GlobalTheory.TensOp.kunit_tensAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:04:32.571266+00:00
 -- url     : https://prove2.me/theorems/ad7df973-ba33-5740-b586-bebd96c9e66c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_abar_ae_eq
 -- name    : Formalism.FourierDecayAlt.P.PBK.abar_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:33:29.778823+00:00
 -- url     : https://prove2.me/theorems/743a3a03-a5eb-5132-babe-a1d61c7114d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_ae_SS
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.ae_SS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:02.822991+00:00
 -- url     : https://prove2.me/theorems/54795b27-2f15-450c-8e0e-4e530a8912a6

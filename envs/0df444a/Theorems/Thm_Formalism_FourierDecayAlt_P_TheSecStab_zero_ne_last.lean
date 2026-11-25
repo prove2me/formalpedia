@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TheSecStab_zero_ne_last
 -- name    : Formalism.FourierDecayAlt.P.TheSecStab.zero_ne_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:22:56.979806+00:00
 -- url     : https://prove2.me/theorems/6e35c5cd-e6db-493d-9f41-0b4bbfa84276

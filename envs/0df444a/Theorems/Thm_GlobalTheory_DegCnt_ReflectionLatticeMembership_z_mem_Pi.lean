@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_ReflectionLatticeMembership_z_mem_Pi
 -- name    : GlobalTheory.DegCnt.ReflectionLatticeMembership.z_mem_Pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:27:20.916797+00:00
 -- url     : https://prove2.me/theorems/31639de8-d24e-4a58-a152-6de63aa2816c

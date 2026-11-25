@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_tendsto_integral_chartDens_4b0362defe49
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_tendsto_integral_chartDens_4b0362defe49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:16:44.58263+00:00
 -- url     : https://prove2.me/theorems/9e514aaa-cbbc-5da2-9836-aec9ace3fa8c

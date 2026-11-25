@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_isSmoothHerm_tensor_4ba53c5a7da7
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_isSmoothHerm_tensor_4ba53c5a7da7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:07:51.752851+00:00
 -- url     : https://prove2.me/theorems/ca550e3a-90a9-4cd3-8ed3-2f95dd9f3ea2

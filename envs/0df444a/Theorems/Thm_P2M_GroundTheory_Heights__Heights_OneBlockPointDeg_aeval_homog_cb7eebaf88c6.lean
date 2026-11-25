@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OneBlockPointDeg_aeval_homog_cb7eebaf88c6
 -- name    : P2M_GroundTheory_Heights__Heights_OneBlockPointDeg_aeval_homog_cb7eebaf88c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:14:06.604206+00:00
 -- url     : https://prove2.me/theorems/4d0cb0b3-f830-4aa9-a8ff-7bb7dca14269

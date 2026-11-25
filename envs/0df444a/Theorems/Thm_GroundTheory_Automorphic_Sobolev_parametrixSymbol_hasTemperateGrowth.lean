@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_parametrixSymbol_hasTemperateGrowth
 -- name    : GroundTheory.Automorphic.Sobolev.parametrixSymbol_hasTemperateGrowth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:19:44.429202+00:00
 -- url     : https://prove2.me/theorems/d218ee37-91ea-468a-b53f-f51dd0142f3d

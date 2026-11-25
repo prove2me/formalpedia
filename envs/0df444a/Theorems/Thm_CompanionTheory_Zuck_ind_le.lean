@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_ind_le
 -- name    : CompanionTheory.Zuck.ind_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:34:15.526644+00:00
 -- url     : https://prove2.me/theorems/6981c04a-4efa-5224-84c8-96393eb78033

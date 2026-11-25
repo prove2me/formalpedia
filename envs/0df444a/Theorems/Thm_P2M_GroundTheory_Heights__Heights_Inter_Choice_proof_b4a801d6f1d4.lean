@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Choice_proof_b4a801d6f1d4
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Choice_proof_b4a801d6f1d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:31.965874+00:00
 -- url     : https://prove2.me/theorems/0d58f500-db68-5c4b-8bd6-c98c6ea1a92e

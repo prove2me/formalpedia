@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_of_shortExact_of_comp_eq_nsmul
 -- name    : GroundTheory.GroupCoh.tateAcyclic_of_shortExact_of_comp_eq_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:58.574039+00:00
 -- url     : https://prove2.me/theorems/39c1696e-acf1-42c3-81e9-f3af3cf05d80

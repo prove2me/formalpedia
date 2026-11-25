@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primitive_semilinearLift_baseChange_bijective
 -- name    : GlobalTheory.T.primitive_semilinearLift_baseChange_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:01:25.050773+00:00
 -- url     : https://prove2.me/theorems/bcf50f55-8553-40ab-bee4-73ba0936d635

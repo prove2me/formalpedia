@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_locAt_mul_614d2e1fada9
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_locAt_mul_614d2e1fada9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:31:44.951856+00:00
 -- url     : https://prove2.me/theorems/11ef82dc-7d09-45af-b850-2e5db1642c31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_SemidirectHaar_proof_026c949566ef
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_SemidirectHaar_proof_026c949566ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:55:50.476263+00:00
 -- url     : https://prove2.me/theorems/028baa21-dd5d-52e1-949e-41c5f20b63d4

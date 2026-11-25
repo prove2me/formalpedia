@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_IntS_prod
 -- name    : Formalism.L2.FormalSeriesBounds.VP.IntS_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:03:36.76117+00:00
 -- url     : https://prove2.me/theorems/2ceac6b7-8386-538e-b980-8b8754113df7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_Ann_ne_zero_of_An
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.Ann.ne_zero_of_An
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:02:12.899377+00:00
 -- url     : https://prove2.me/theorems/e19c7a4c-c444-4c36-88ac-876bc9390551

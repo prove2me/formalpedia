@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sum_pairs_weight_mul_class_le_mul_sum
 -- name    : GlobalTheory.sum_pairs_weight_mul_class_le_mul_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:40:41.665963+00:00
 -- url     : https://prove2.me/theorems/a87387f7-cb8b-43ac-8bcc-b57ed13e7c6d

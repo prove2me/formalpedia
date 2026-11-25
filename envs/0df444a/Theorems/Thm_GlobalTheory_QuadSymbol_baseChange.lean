@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_baseChange
 -- name    : GlobalTheory.QuadSymbol.baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:13:42.510034+00:00
 -- url     : https://prove2.me/theorems/69a192ee-7267-4d22-941d-c63f731fa38f

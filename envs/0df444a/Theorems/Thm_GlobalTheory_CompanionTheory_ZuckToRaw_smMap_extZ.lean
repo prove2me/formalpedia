@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckToRaw_smMap_extZ
 -- name    : GlobalTheory.CompanionTheory.ZuckToRaw.smMap_extZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:54:21.107518+00:00
 -- url     : https://prove2.me/theorems/56978d33-3d15-582e-9711-29823c1fc91b

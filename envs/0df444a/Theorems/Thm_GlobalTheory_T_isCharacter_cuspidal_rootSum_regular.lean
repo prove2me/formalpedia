@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCharacter_cuspidal_rootSum_regular
 -- name    : GlobalTheory.T.isCharacter_cuspidal_rootSum_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:51:43.802033+00:00
 -- url     : https://prove2.me/theorems/7c547879-f6e4-423b-93e4-c7bba938c922

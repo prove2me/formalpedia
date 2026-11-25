@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_HasProdFiniteSupport_hasProd_inv___2cdd04f14e39
 -- name    : P2M_Formalism_L2_SG_Pf_HasProdFiniteSupport_hasProd_inv___2cdd04f14e39
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:04:43.953753+00:00
 -- url     : https://prove2.me/theorems/5c230c8d-8882-58c8-9a39-83131d9df707

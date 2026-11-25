@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_perp_of_span
 -- name    : GlobalTheory.DegAsm.FrameMove.perp_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:28:57.004118+00:00
 -- url     : https://prove2.me/theorems/6102a599-0821-5302-b155-6c275c9f0fe5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_MpG_curve
 -- name    : CompanionTheory.ThKR.Mp.MpG.curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:27:22.480995+00:00
 -- url     : https://prove2.me/theorems/bef0cc12-230b-4742-9007-6f22ebe1fcd3

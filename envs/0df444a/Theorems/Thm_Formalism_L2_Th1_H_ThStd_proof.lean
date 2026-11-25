@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_ThStd_proof
 -- name    : Formalism.L2.Th1.H.ThStd_proof
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:28:45.879806+00:00
 -- url     : https://prove2.me/theorems/5fcad66b-96b1-4a55-9f8c-bf7ae7e0eef6

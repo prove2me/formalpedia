@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ParametricCircleIntegralAnalytic_analyticOnNhd_of_differentiableOn_fd_37006865feb4
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ParametricCircleIntegralAnalytic_analyticOnNhd_of_differentiableOn_fd_37006865feb4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:20:41.052429+00:00
 -- url     : https://prove2.me/theorems/a1de2039-e818-46fc-a2e5-6d3189c1f5be

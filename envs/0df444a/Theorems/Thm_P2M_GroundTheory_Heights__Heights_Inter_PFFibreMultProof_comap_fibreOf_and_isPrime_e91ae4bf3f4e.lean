@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_comap_fibreOf_and_isPrime_e91ae4bf3f4e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFFibreMultProof_comap_fibreOf_and_isPrime_e91ae4bf3f4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:42:07.989304+00:00
 -- url     : https://prove2.me/theorems/b7222728-85bc-482d-b91e-c6ce411c3bda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_toAllS_mul
 -- name    : Formalism.L2.FormalSeriesBounds.VP.toAllS_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:38:45.933631+00:00
 -- url     : https://prove2.me/theorems/c390d03a-7199-5297-b957-ca9df7a29a4f

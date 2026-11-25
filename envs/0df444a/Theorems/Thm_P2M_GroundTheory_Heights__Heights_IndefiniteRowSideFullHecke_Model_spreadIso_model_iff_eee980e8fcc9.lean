@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_spreadIso_model_iff_eee980e8fcc9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_spreadIso_model_iff_eee980e8fcc9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:00:10.269716+00:00
 -- url     : https://prove2.me/theorems/6531dc38-28b7-578d-a76d-d3fa95596410

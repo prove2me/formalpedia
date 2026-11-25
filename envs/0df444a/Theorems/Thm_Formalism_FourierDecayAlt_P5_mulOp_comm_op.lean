@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_mulOp_comm_op
 -- name    : Formalism.FourierDecayAlt.P5.mulOp_comm_op
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:57:28.995484+00:00
 -- url     : https://prove2.me/theorems/59f99e85-7536-46e0-89e1-b4f3b8b602bc

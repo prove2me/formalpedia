@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unit_matrix_adapted_to_flag
 -- name    : GlobalTheory.T.exists_unit_matrix_adapted_to_flag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:52:11.308034+00:00
 -- url     : https://prove2.me/theorems/2303605b-0647-51fa-a7ea-25a56504c925

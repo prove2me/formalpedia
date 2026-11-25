@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_exists_trans_J
 -- name    : GlobalTheory.SW.FourierJ.exists_trans_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:39:24.494879+00:00
 -- url     : https://prove2.me/theorems/2f61cb89-5d5a-4956-90f0-f67da406b0d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_tendsto_integral_inner_germ_moving
 -- name    : Formalism.FourierDecayAlt.P.PBK.tendsto_integral_inner_germ_moving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:21:45.071079+00:00
 -- url     : https://prove2.me/theorems/b20149e6-6572-4765-b4f7-091a081304f4

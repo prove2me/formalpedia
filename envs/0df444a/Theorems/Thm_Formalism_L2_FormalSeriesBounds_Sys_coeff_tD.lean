@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_coeff_tD
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.coeff_tD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:26:51.213867+00:00
 -- url     : https://prove2.me/theorems/786cecdd-6ef6-4812-99c5-ad40859180ab

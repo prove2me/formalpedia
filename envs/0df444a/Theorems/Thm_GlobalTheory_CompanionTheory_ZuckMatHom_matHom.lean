@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckMatHom_matHom
 -- name    : GlobalTheory.CompanionTheory.ZuckMatHom.matHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:28:43.410366+00:00
 -- url     : https://prove2.me/theorems/000da5fe-64f6-43dc-9fac-605ccafa7034

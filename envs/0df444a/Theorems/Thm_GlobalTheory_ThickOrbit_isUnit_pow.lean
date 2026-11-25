@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickOrbit_isUnit_pow
 -- name    : GlobalTheory.ThickOrbit.isUnit_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:04:15.39635+00:00
 -- url     : https://prove2.me/theorems/bf53d550-fa65-504d-be84-db5da01b95b1

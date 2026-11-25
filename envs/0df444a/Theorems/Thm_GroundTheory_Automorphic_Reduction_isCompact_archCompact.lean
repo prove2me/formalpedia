@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_isCompact_archCompact
 -- name    : GroundTheory.Automorphic.Reduction.isCompact_archCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:57:57.486831+00:00
 -- url     : https://prove2.me/theorems/91a356e2-15c5-508c-ace5-4301997b9257

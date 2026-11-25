@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_eta_le
 -- name    : GlobalTheory.GramCount.eta_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:04:30.107676+00:00
 -- url     : https://prove2.me/theorems/09a0c2c4-fc03-5ddc-8447-82b47e8c760d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BesselCartan_tor_pair
 -- name    : GlobalTheory.CompanionTheory.BesselCartan.tor_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:02:10.457083+00:00
 -- url     : https://prove2.me/theorems/0b0d6038-8302-4e8d-90f3-a6c9605c1f85

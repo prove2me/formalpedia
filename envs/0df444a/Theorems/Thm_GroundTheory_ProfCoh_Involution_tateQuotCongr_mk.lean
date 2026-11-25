@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Involution_tateQuotCongr_mk
 -- name    : GroundTheory.ProfCoh.Involution.tateQuotCongr_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:11:12.635435+00:00
 -- url     : https://prove2.me/theorems/fb05345b-42df-48e0-bf11-00a4ab019ab7

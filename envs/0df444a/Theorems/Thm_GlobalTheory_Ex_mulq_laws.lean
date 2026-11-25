@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_mulq_laws
 -- name    : GlobalTheory.Ex.mulq_laws
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:06:38.178773+00:00
 -- url     : https://prove2.me/theorems/8ffe0531-32f2-4ded-be2e-bda47b8b06c9

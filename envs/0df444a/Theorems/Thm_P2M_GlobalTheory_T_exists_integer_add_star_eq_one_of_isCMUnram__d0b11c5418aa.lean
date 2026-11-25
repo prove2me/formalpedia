@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_integer_add_star_eq_one_of_isCMUnram__d0b11c5418aa
 -- name    : P2M_GlobalTheory_T_exists_integer_add_star_eq_one_of_isCMUnram__d0b11c5418aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:47:57.881873+00:00
 -- url     : https://prove2.me/theorems/6b1f3434-7d42-57cd-bffb-d30b524694c6

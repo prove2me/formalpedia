@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_QMinOp_inLie_zero
 -- name    : Formalism.FourierDecayAlt.P.CutMP.QMinOp.inLie_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:23:05.204897+00:00
 -- url     : https://prove2.me/theorems/2cc24a8b-bf2d-473d-9c72-ad9dc5a21ccd

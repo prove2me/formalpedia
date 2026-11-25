@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_ofSchwartz_commRem_le
 -- name    : GroundTheory.Automorphic.Sobolev.norm_ofSchwartz_commRem_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:13:49.707142+00:00
 -- url     : https://prove2.me/theorems/e2035699-c47f-55e9-929c-6411d8773b62

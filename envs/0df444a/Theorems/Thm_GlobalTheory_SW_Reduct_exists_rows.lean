@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Reduct_exists_rows
 -- name    : GlobalTheory.SW.Reduct.exists_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:08:14.215413+00:00
 -- url     : https://prove2.me/theorems/383c0a62-a0d2-49d3-a7d6-59054bba0a77

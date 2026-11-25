@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_jdh_opOrder_le
 -- name    : Formalism.FourierDecayAlt.P.CutMP.jdh_opOrder_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:23:59.379957+00:00
 -- url     : https://prove2.me/theorems/c3cfe893-35f8-5be5-b2dd-480d25af089e

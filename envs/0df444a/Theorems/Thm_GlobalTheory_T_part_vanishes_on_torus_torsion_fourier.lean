@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_part_vanishes_on_torus_torsion_fourier
 -- name    : GlobalTheory.T.part_vanishes_on_torus_torsion_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:55:59.638794+00:00
 -- url     : https://prove2.me/theorems/37574835-7b68-4e7e-8faa-3af85512d11c

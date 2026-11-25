@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_maximalIdeal_pow_dvd_pow_iff
 -- name    : GroundTheory.LocalField.maximalIdeal_pow_dvd_pow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:12:44.354026+00:00
 -- url     : https://prove2.me/theorems/0c0079c6-8ef2-4f3a-8549-30a6d7a7d612

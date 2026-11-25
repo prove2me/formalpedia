@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_lw_cf
 -- name    : CompanionTheory.CapEig.lw_cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:37:04.344055+00:00
 -- url     : https://prove2.me/theorems/10945474-a276-5aba-b35d-99b56476250d

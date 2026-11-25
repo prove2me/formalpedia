@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_augShift__t__a3711d47d084
 -- name    : P2M_GroundTheory_GroupCoh_augShift__t__a3711d47d084
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:05:01.363374+00:00
 -- url     : https://prove2.me/theorems/99fbc604-dc00-5a60-adbb-bebd50f808f2

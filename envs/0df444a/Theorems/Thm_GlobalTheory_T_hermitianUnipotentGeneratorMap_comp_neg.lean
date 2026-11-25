@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianUnipotentGeneratorMap_comp_neg
 -- name    : GlobalTheory.T.hermitianUnipotentGeneratorMap_comp_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:19.123502+00:00
 -- url     : https://prove2.me/theorems/0c25362b-9f2b-4871-96a0-f2cab8842c5a

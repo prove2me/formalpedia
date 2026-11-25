@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_Funct_meas_v
 -- name    : GlobalTheory.HCXi.Funct.meas_v
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:03:41.917579+00:00
 -- url     : https://prove2.me/theorems/fe63e08e-3dcf-46e7-85e8-37bd6414c8d6

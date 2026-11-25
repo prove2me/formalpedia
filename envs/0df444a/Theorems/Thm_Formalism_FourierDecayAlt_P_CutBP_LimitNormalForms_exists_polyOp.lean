@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_exists_polyOp
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.exists_polyOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:21:16.460109+00:00
 -- url     : https://prove2.me/theorems/399ca6d7-0d8f-5e13-be16-090fb86cafdc

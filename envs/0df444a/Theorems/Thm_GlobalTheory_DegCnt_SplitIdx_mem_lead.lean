@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_mem_lead
 -- name    : GlobalTheory.DegCnt.SplitIdx.mem_lead
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:42:13.221107+00:00
 -- url     : https://prove2.me/theorems/b7ff3049-b385-4c4f-b214-c71720558ab4

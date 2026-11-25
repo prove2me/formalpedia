@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_match_add
 -- name    : GlobalTheory.JR.match_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:41:27.343161+00:00
 -- url     : https://prove2.me/theorems/99d8f367-5491-47b9-89d1-3899dbe17dd2

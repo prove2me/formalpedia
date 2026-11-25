@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_finite_sections_pushforward
 -- name    : GlobalTheory.QCoh.finite_sections_pushforward
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:01:46.920242+00:00
 -- url     : https://prove2.me/theorems/516d243d-6e6a-5056-a0a1-578489efc57f

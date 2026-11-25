@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_cfg_v_ge_vlast
 -- name    : Formalism.FourierDecayAlt.P.CutMP.cfg_v_ge_vlast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:14.94795+00:00
 -- url     : https://prove2.me/theorems/533c59d0-595f-5017-b114-ccf35896c7ea

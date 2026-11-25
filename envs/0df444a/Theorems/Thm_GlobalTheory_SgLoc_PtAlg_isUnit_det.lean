@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_PtAlg_isUnit_det
 -- name    : GlobalTheory.SgLoc.PtAlg.isUnit_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:08:12.577366+00:00
 -- url     : https://prove2.me/theorems/3c6fa2b1-bb7e-412f-a06e-69991098bc6f

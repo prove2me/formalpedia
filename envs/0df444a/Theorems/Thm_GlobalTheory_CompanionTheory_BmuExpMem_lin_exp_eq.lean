@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuExpMem_lin_exp_eq
 -- name    : GlobalTheory.CompanionTheory.BmuExpMem.lin_exp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:59:53.484314+00:00
 -- url     : https://prove2.me/theorems/9dcf2801-e4c2-56ec-9c4f-f24e79b85410

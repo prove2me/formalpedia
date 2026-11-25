@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Cube_trunc_Incl_bijective_7f26f77d74d4
 -- name    : P2M_GlobalTheory_Cube_trunc_Incl_bijective_7f26f77d74d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:07:20.527986+00:00
 -- url     : https://prove2.me/theorems/76d7293a-9276-458d-b39f-03ca90d6cb37

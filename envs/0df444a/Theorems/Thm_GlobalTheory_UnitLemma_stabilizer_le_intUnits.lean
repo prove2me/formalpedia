@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_stabilizer_le_intUnits
 -- name    : GlobalTheory.UnitLemma.stabilizer_le_intUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:05:58.939016+00:00
 -- url     : https://prove2.me/theorems/defc7c67-2208-4191-832e-81eabb1f59ee

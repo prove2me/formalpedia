@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_subst_row_upG_other
 -- name    : Formalism.L2.FormalSeriesBounds.subst_row_upG_other
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:26:34.033507+00:00
 -- url     : https://prove2.me/theorems/6876e114-463c-521f-a47e-ffc9b833a9bc

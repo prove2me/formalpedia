@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeZero_lintegral_cone
 -- name    : GlobalTheory.HCXi.ConeZero.lintegral_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:34:45.581801+00:00
 -- url     : https://prove2.me/theorems/1c75610a-156a-5580-a528-723f7e8bba41

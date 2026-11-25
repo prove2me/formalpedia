@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordGood_adjugate_int
 -- name    : GlobalTheory.HL.CoordGood.adjugate_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:00:47.021033+00:00
 -- url     : https://prove2.me/theorems/57431ca4-b2db-4d96-b1bb-fabc995789a7

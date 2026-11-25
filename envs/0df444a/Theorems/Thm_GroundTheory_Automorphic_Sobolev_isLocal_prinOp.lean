@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_isLocal_prinOp
 -- name    : GroundTheory.Automorphic.Sobolev.isLocal_prinOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:14:35.738888+00:00
 -- url     : https://prove2.me/theorems/2fb87c93-46ac-49cc-bb28-219c78743f0a

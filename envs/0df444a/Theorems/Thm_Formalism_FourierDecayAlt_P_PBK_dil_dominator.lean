@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_dil_dominator
 -- name    : Formalism.FourierDecayAlt.P.PBK.dil_dominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:22:32.590796+00:00
 -- url     : https://prove2.me/theorems/480f6f85-8c27-45f2-b6c9-a89106af4011

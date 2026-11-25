@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_monomial_diagExp_toFinsupp
 -- name    : GroundTheory.Automorphic.HarishChandra.monomial_diagExp_toFinsupp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:04:33.536955+00:00
 -- url     : https://prove2.me/theorems/8949221b-2dff-4d26-bbc6-7c655002c680

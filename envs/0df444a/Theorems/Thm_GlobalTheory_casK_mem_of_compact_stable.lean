@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_casK_mem_of_compact_stable
 -- name    : GlobalTheory.casK_mem_of_compact_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:05:20.673747+00:00
 -- url     : https://prove2.me/theorems/02256ae4-971c-409c-83eb-77c27ff420c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Cube_subsingleton_trunc__e70445e4868d
 -- name    : P2M_GlobalTheory_Cube_subsingleton_trunc__e70445e4868d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:06:35.888879+00:00
 -- url     : https://prove2.me/theorems/213111db-98cc-57e1-85f1-460eb785b524

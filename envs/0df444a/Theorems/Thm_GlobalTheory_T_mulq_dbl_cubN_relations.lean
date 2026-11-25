@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mulq_dbl_cubN_relations
 -- name    : GlobalTheory.T.mulq_dbl_cubN_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:40:37.500737+00:00
 -- url     : https://prove2.me/theorems/f5f3fb13-8acf-46c5-b3b0-c58b964e54c7

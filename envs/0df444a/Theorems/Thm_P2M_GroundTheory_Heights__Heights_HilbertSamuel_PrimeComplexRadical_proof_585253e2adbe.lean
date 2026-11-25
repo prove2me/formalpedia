@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeComplexRadical_proof_585253e2adbe
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeComplexRadical_proof_585253e2adbe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:10:01.018579+00:00
 -- url     : https://prove2.me/theorems/f840ab8c-9f5b-470d-8576-317153e021ca

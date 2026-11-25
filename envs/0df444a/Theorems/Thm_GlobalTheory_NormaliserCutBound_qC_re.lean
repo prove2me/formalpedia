@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormaliserCutBound_qC_re
 -- name    : GlobalTheory.NormaliserCutBound.qC_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:06:05.613209+00:00
 -- url     : https://prove2.me/theorems/a70010dd-7d52-5040-922e-ce5970546a14

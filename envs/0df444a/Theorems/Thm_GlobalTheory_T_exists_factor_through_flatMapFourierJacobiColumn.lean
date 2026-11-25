@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_factor_through_flatMapFourierJacobiColumn
 -- name    : GlobalTheory.T.exists_factor_through_flatMapFourierJacobiColumn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:46:09.345266+00:00
 -- url     : https://prove2.me/theorems/07495e05-6677-46b3-b3a3-fe5664b03b37

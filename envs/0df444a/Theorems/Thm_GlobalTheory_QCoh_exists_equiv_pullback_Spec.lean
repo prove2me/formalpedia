@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_exists_equiv_pullback_Spec
 -- name    : GlobalTheory.QCoh.exists_equiv_pullback_Spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:03:07.425362+00:00
 -- url     : https://prove2.me/theorems/15855357-d82d-4edc-b5e3-bb7c22be1497

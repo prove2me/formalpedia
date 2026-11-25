@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rayClassLFunction_unique_simple_exceptional_zero
 -- name    : GlobalTheory.T.rayClassLFunction_unique_simple_exceptional_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:56:22.107807+00:00
 -- url     : https://prove2.me/theorems/7bd0533d-0d1d-428a-90d9-c5ca2ca3e9cc

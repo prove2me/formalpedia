@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_map_maximalIdeal_incAC_0e098a0654dc
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_map_maximalIdeal_incAC_0e098a0654dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:31:34.30478+00:00
 -- url     : https://prove2.me/theorems/960c1a2e-e8b8-4335-bed0-560211269af5

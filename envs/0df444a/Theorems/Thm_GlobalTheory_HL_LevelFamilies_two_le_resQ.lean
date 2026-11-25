@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LevelFamilies_two_le_resQ
 -- name    : GlobalTheory.HL.LevelFamilies.two_le_resQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:40:12.448678+00:00
 -- url     : https://prove2.me/theorems/ad645d8a-246d-4b0b-a5ea-5667568e318f

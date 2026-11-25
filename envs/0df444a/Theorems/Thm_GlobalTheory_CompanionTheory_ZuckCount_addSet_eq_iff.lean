@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCount_addSet_eq_iff
 -- name    : GlobalTheory.CompanionTheory.ZuckCount.addSet_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:55:58.6061+00:00
 -- url     : https://prove2.me/theorems/c0c1f0de-10a3-40df-9800-a12f86bfc154

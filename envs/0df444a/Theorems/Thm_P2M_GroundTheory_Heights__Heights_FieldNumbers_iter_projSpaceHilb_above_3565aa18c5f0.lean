@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_iter_projSpaceHilb_above_3565aa18c5f0
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_iter_projSpaceHilb_above_3565aa18c5f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:40.923379+00:00
 -- url     : https://prove2.me/theorems/41480984-8bc6-4982-b850-e5f612dba564

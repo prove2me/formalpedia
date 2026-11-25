@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_latticeMap_image_homogeneous_5a8f9f7890e0
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_latticeMap_image_homogeneous_5a8f9f7890e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:30:50.609493+00:00
 -- url     : https://prove2.me/theorems/f66cac10-44ef-4b65-bde9-3bddd9836afb

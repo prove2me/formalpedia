@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_mixed_one
 -- name    : GlobalTheory.OddBlock.ExpShift.mixed_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:34:49.698748+00:00
 -- url     : https://prove2.me/theorems/8eb64f9c-bc3a-463a-bce7-f93a5b7a8985

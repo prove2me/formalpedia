@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_rowOf_prod
 -- name    : Formalism.L2.FormalSeriesBounds.VP.rowOf_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:34:19.439737+00:00
 -- url     : https://prove2.me/theorems/154beddf-14a9-5b0f-b59f-273931e65df6

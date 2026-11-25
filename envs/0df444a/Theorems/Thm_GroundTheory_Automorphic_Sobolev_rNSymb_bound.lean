@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_rNSymb_bound
 -- name    : GroundTheory.Automorphic.Sobolev.rNSymb_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:20:18.965964+00:00
 -- url     : https://prove2.me/theorems/57a8f221-1e5d-4797-a16e-f926f92e64e1

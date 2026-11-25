@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SublatCount_encard_mul
 -- name    : GlobalTheory.SublatCount.encard_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:05.150835+00:00
 -- url     : https://prove2.me/theorems/985511a9-cf3d-4ef7-870b-cb6299f716c1

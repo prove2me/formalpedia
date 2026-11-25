@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckToRaw_act_one
 -- name    : GlobalTheory.CompanionTheory.ZuckToRaw.act_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:19:50.832047+00:00
 -- url     : https://prove2.me/theorems/f8cf3b6d-487a-5f4f-b747-47da25d488b6

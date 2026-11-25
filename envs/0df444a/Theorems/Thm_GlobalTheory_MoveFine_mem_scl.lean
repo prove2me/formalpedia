@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_mem_scl
 -- name    : GlobalTheory.MoveFine.mem_scl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:21.766798+00:00
 -- url     : https://prove2.me/theorems/a279e30b-afd1-591e-b491-e2411347470b

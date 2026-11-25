@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Lin_main
 -- name    : GlobalTheory.IdxInt.Lin.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:04:05.368846+00:00
 -- url     : https://prove2.me/theorems/8e47b711-8f97-5183-a41f-d1d7bf5092d5

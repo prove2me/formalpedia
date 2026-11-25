@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_epi_iff_stalkLinear_surjective
 -- name    : GlobalTheory.QCoh.epi_iff_stalkLinear_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:40:26.584154+00:00
 -- url     : https://prove2.me/theorems/8ff725f8-82a6-496a-ad8d-db083b19bb12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_conjMat_mul_self
 -- name    : GroundTheory.Automorphic.Anisotropic.conjMat_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:48:18.31533+00:00
 -- url     : https://prove2.me/theorems/3494abca-9ac6-497e-a347-4f815b630188

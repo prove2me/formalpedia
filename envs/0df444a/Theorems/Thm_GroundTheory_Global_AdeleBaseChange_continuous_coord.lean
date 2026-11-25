@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_continuous_coord
 -- name    : GroundTheory.Global.AdeleBaseChange.continuous_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:06:17.504112+00:00
 -- url     : https://prove2.me/theorems/c0c2b13b-6f48-4bfc-8698-38a1d39eb825

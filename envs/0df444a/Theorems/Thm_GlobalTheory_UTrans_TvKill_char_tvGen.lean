@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_TvKill_char_tvGen
 -- name    : GlobalTheory.UTrans.TvKill.char_tvGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:58:15.053453+00:00
 -- url     : https://prove2.me/theorems/58856177-b2e3-57ea-97a6-4ffa32235737

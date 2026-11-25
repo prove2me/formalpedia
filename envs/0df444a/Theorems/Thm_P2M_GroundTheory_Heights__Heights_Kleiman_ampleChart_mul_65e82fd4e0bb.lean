@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ampleChart_mul_65e82fd4e0bb
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ampleChart_mul_65e82fd4e0bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:09:23.48875+00:00
 -- url     : https://prove2.me/theorems/fdfb2cc5-9222-44b3-a3e5-8ca5e4af6bd5

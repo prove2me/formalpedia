@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_integrable_laplacian_fsPotPlane_e519a5d24e07
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_integrable_laplacian_fsPotPlane_e519a5d24e07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:17.266341+00:00
 -- url     : https://prove2.me/theorems/e97ea7ee-25fe-4b81-8e5c-551874df345e

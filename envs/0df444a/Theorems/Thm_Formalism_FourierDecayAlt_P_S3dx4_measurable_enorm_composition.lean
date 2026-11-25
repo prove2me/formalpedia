@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_measurable_enorm_composition
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.measurable_enorm_composition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:41:06.722942+00:00
 -- url     : https://prove2.me/theorems/b10d760a-d2af-42b6-92c0-5b1855991dbe

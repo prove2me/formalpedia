@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedBlockCount_minor_self_ne
 -- name    : GlobalTheory.SignedBlockCount.minor_self_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:15.285142+00:00
 -- url     : https://prove2.me/theorems/884b28f6-a116-57e0-8958-1c00cffbc547

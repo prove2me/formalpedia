@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_norm_single_add_single
 -- name    : GroundTheory.Automorphic.Reduction.norm_single_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:08:20.459325+00:00
 -- url     : https://prove2.me/theorems/7d8311d2-211a-54b7-a299-a7240863fd6b

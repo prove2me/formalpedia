@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_exists_smooth_density_prodExp
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.exists_smooth_density_prodExp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:32:21.152522+00:00
 -- url     : https://prove2.me/theorems/54adc590-08e8-4ef6-8a86-a880b1ab34ea

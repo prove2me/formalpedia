@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primitiveEndClassFunction_zero_of_charpoly_mass_zero
 -- name    : GlobalTheory.T.primitiveEndClassFunction_zero_of_charpoly_mass_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:56:45.516118+00:00
 -- url     : https://prove2.me/theorems/fe62f07a-09de-4416-a12f-eef76e3888ca

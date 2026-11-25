@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_eta_norm
 -- name    : GlobalTheory.UnitLemma.LieEnd.eta_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:04:23.279469+00:00
 -- url     : https://prove2.me/theorems/87868366-29a6-5732-8e37-a6fe2b9aa73f

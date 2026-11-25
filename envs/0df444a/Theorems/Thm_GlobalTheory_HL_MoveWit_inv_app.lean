@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveWit_inv_app
 -- name    : GlobalTheory.HL.MoveWit.inv_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:06:39.175108+00:00
 -- url     : https://prove2.me/theorems/68710a2a-b202-4958-9466-c36665c71791

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SideCompare_sigmaFinite_of_isQuotMeas
 -- name    : GlobalTheory.SideCompare.sigmaFinite_of_isQuotMeas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:53:36.972927+00:00
 -- url     : https://prove2.me/theorems/fa430968-ab62-48b3-b693-7ea58e967dd6

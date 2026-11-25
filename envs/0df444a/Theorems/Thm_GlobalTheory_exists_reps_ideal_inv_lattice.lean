@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_reps_ideal_inv_lattice
 -- name    : GlobalTheory.exists_reps_ideal_inv_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:17:16.564445+00:00
 -- url     : https://prove2.me/theorems/0d1f30f1-56b3-5fa5-be98-740d0e23b1f5

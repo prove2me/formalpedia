@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ChangeOfVariablesDegree_integral_fderiv_comp_mul_det_eq_zero_5ebf8e8b99be
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_ChangeOfVariablesDegree_integral_fderiv_comp_mul_det_eq_zero_5ebf8e8b99be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:43.123716+00:00
 -- url     : https://prove2.me/theorems/be66e40f-8bc6-4eb7-b4e9-8c5a380f843f

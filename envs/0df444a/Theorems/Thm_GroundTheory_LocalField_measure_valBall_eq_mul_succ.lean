@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_measure_valBall_eq_mul_succ
 -- name    : GroundTheory.LocalField.measure_valBall_eq_mul_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:17.709951+00:00
 -- url     : https://prove2.me/theorems/e97d03d0-e7a0-4001-b2e2-87bd30f7c7d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjChowNonzero_value_eq_fcf9e3525991
 -- name    : P2M_GroundTheory_Heights__Heights_ProjChowNonzero_value_eq_fcf9e3525991
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:16:28.769511+00:00
 -- url     : https://prove2.me/theorems/ba94a3e0-bf77-4e49-9bc9-4dd1df624eb0

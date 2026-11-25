@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_hermForm_second_flag_X_z_eq_zero
 -- name    : GlobalTheory.DegCnt.PosIso.hermForm_second_flag_X_z_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:29:24.174206+00:00
 -- url     : https://prove2.me/theorems/543d24b8-9be9-56f1-94ef-30106332d9b7

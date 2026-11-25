@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_iotaGraph_le
 -- name    : GlobalTheory.DegCnt.StabInv.iotaGraph_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:59:25.478445+00:00
 -- url     : https://prove2.me/theorems/6bdbda21-57b9-4cb5-a7c1-2b3a1a435f07

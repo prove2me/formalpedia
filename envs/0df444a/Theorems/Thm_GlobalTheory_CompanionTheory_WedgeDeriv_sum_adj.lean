@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeDeriv_sum_adj
 -- name    : GlobalTheory.CompanionTheory.WedgeDeriv.sum_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:24:41.575476+00:00
 -- url     : https://prove2.me/theorems/fcb1bed3-55d3-5807-9abb-c7cbbb9b7957

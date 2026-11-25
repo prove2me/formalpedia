@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_lowering_operator_level_zero
 -- name    : Formalism.FourierDecayAlt.P.PBG.lowering_operator_level_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:59:24.086953+00:00
 -- url     : https://prove2.me/theorems/dda5c0af-1cde-454c-800a-3f8d974c60e5

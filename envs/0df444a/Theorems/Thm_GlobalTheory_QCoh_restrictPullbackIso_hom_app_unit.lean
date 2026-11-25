@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_restrictPullbackIso_hom_app_unit
 -- name    : GlobalTheory.QCoh.restrictPullbackIso_hom_app_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:02:09.137951+00:00
 -- url     : https://prove2.me/theorems/197c93c3-5a55-5c62-a125-c9f80a2d7069

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPositive_ringKrullDim_primeOfOne_7d3697857068
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPositive_ringKrullDim_primeOfOne_7d3697857068
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:39:57.410572+00:00
 -- url     : https://prove2.me/theorems/09e126ae-c0a9-51b7-8ae2-8639479ddc8a

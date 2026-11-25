@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_isogenyFormulaInstance
 -- name    : Formalism.L2.Th1.F.isogenyFormulaInstance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:10:26.825014+00:00
 -- url     : https://prove2.me/theorems/0e661c02-e883-4de4-a1d0-64288f50ef69

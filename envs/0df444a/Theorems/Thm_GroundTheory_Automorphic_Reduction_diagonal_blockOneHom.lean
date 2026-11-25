@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_diagonal_blockOneHom
 -- name    : GroundTheory.Automorphic.Reduction.diagonal_blockOneHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:07:55.222091+00:00
 -- url     : https://prove2.me/theorems/3860b522-be53-51b6-b910-c5f0e34cdbea

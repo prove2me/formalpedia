@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_laurentSeries_adapted_basis_coords_vanish_beyond_finrank
 -- name    : GlobalTheory.T.laurentSeries_adapted_basis_coords_vanish_beyond_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:52:02.801559+00:00
 -- url     : https://prove2.me/theorems/ad965c77-37bd-58a1-a7f0-b360b5712687

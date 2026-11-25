@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjDimSpread_spread_zero_fc4d91a620ee
 -- name    : P2M_GroundTheory_Heights__Heights_ProjDimSpread_spread_zero_fc4d91a620ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:31.908656+00:00
 -- url     : https://prove2.me/theorems/27b3f806-99bd-4d3b-bc60-81db69c55153

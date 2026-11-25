@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_X_chartMap_017b67038871
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_X_chartMap_017b67038871
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:28:12.332056+00:00
 -- url     : https://prove2.me/theorems/37e3ff49-bfb8-43b9-ae0e-634d7222e7b9

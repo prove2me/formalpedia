@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_DelScale_gidx_dual
 -- name    : GlobalTheory.DegCnt.DelScale.gidx_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:53:40.885312+00:00
 -- url     : https://prove2.me/theorems/ded1021a-76c8-4c7a-9b95-9ca79a747ab4

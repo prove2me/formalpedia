@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_adelicNorm_vecMul_le
 -- name    : GroundTheory.Automorphic.Reduction.exists_adelicNorm_vecMul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:06:11.949139+00:00
 -- url     : https://prove2.me/theorems/ddd90b88-c12c-483c-b2da-a0742bcca64f

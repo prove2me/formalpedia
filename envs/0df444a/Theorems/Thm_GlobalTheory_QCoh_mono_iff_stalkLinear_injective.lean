@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_mono_iff_stalkLinear_injective
 -- name    : GlobalTheory.QCoh.mono_iff_stalkLinear_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:59:22.838559+00:00
 -- url     : https://prove2.me/theorems/e0924c03-eba5-4afb-8ec3-30e0607234cb

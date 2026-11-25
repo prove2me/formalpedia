@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxI_adjOp_order
 -- name    : Formalism.FourierDecayAlt.P.JFxI.adjOp_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:37:04.796059+00:00
 -- url     : https://prove2.me/theorems/0f729378-3c2b-4c7f-8636-70aee7ac7eb0

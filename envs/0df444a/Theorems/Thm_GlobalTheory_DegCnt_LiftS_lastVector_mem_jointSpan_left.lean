@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_lastVector_mem_jointSpan_left
 -- name    : GlobalTheory.DegCnt.LiftS.lastVector_mem_jointSpan_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:26:42.510315+00:00
 -- url     : https://prove2.me/theorems/1c261190-e578-58d9-aa15-6f7907198d32

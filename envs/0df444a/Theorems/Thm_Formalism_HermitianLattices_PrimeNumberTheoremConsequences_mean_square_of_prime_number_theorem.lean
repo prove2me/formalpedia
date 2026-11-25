@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_PrimeNumberTheoremConsequences_mean_square_of_prime_number_theorem
 -- name    : Formalism.HermitianLattices.PrimeNumberTheoremConsequences.mean_square_of_prime_number_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:00:26.296875+00:00
 -- url     : https://prove2.me/theorems/11b361a9-3cf4-453e-92e3-871984d08c01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isReduced_curveLocalRing_913d64c72495
 -- name    : P2M_GroundTheory_Heights__Heights_isReduced_curveLocalRing_913d64c72495
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:08:12.609859+00:00
 -- url     : https://prove2.me/theorems/6fe2f735-eb5a-47e6-9a0b-32bd5f85ecb3

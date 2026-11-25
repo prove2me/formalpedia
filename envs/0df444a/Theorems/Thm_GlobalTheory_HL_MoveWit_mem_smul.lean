@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveWit_mem_smul
 -- name    : GlobalTheory.HL.MoveWit.mem_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:05:14.542147+00:00
 -- url     : https://prove2.me/theorems/69ffc5c8-6e29-5207-b062-799849a2a709

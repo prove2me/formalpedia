@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_isIntegral_of_mul_mem_lat
 -- name    : GlobalTheory.UnitLemma.isIntegral_of_mul_mem_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:54:34.249229+00:00
 -- url     : https://prove2.me/theorems/679291cd-9cd2-4b0d-8597-ca411962ef0e

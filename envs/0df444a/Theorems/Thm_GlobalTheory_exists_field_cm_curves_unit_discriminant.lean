@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_field_cm_curves_unit_discriminant
 -- name    : GlobalTheory.exists_field_cm_curves_unit_discriminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:31:25.098204+00:00
 -- url     : https://prove2.me/theorems/9b967d54-0d87-4583-8e19-3e8af430247e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCDet_norm_det_mul_sq_le_of_posDef_b8853d9e2e1b
 -- name    : P2M_GroundTheory_Heights__Heights_MCDet_norm_det_mul_sq_le_of_posDef_b8853d9e2e1b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:46:24.387221+00:00
 -- url     : https://prove2.me/theorems/3332aa4c-79a7-5b66-b42f-5167a61c95ac

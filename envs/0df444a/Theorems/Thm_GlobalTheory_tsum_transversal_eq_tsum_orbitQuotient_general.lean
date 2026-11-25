@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tsum_transversal_eq_tsum_orbitQuotient_general
 -- name    : GlobalTheory.tsum_transversal_eq_tsum_orbitQuotient_general
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:37.321181+00:00
 -- url     : https://prove2.me/theorems/9d30371f-a705-54ad-9a8b-f62841d06d60

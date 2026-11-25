@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveWit_eich_def
 -- name    : GlobalTheory.HL.MoveWit.eich_def
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:06:50.658183+00:00
 -- url     : https://prove2.me/theorems/2708f2aa-fbc2-5a7c-820c-38259fa6d236

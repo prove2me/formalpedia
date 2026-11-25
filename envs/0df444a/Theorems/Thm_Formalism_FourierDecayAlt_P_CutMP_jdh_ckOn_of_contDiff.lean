@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_jdh_ckOn_of_contDiff
 -- name    : Formalism.FourierDecayAlt.P.CutMP.jdh_ckOn_of_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:23:17.48286+00:00
 -- url     : https://prove2.me/theorems/114fbfab-2562-4b0e-9a93-80a607f37007

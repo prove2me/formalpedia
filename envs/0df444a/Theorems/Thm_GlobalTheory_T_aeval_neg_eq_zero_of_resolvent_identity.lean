@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_aeval_neg_eq_zero_of_resolvent_identity
 -- name    : GlobalTheory.T.aeval_neg_eq_zero_of_resolvent_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:26.045663+00:00
 -- url     : https://prove2.me/theorems/733c8711-11bb-5fdf-8ce2-24ed393a8082

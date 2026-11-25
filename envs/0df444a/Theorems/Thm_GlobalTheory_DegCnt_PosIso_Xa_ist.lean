@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_Xa_ist
 -- name    : GlobalTheory.DegCnt.PosIso.Xa_ist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:38:45.56811+00:00
 -- url     : https://prove2.me/theorems/7bc51e5d-5ff1-52ac-8d2c-342154f15e42

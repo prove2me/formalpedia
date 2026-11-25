@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finrank_eq_of_adjoin_eq_top
 -- name    : GroundTheory.LocalField.finrank_eq_of_adjoin_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:14:49.120617+00:00
 -- url     : https://prove2.me/theorems/80ebbf39-2eab-4960-9ea0-d26cce7c29ce

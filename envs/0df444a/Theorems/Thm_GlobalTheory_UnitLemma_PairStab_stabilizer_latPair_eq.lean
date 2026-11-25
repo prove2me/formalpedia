@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PairStab_stabilizer_latPair_eq
 -- name    : GlobalTheory.UnitLemma.PairStab.stabilizer_latPair_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:07:31.021794+00:00
 -- url     : https://prove2.me/theorems/af17ea1d-867b-4097-a849-e136269fcbec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quadForm_le_on_sup
 -- name    : GlobalTheory.quadForm_le_on_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:05:14.891121+00:00
 -- url     : https://prove2.me/theorems/2afaaa15-8224-437d-b8b8-884b6573a864

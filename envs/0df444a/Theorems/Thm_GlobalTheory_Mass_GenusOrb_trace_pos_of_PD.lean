@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_GenusOrb_trace_pos_of_PD
 -- name    : GlobalTheory.Mass.GenusOrb.trace_pos_of_PD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:00:47.112117+00:00
 -- url     : https://prove2.me/theorems/afbb5b6d-639c-5700-98ee-20c3c2ddcfe5

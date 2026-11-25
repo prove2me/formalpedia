@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanInfEq_span_inf_eq
 -- name    : GlobalTheory.SpanInfEq.span_inf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:16:16.174902+00:00
 -- url     : https://prove2.me/theorems/8ae146e2-bd31-58e5-8e89-0a454b57a895

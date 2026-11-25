@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_identityComponents_smooth_groupScheme_mul_mem
 -- name    : GlobalTheory.T.identityComponents_smooth_groupScheme_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:55:42.820806+00:00
 -- url     : https://prove2.me/theorems/0d35719d-b18b-45f9-a01b-08583084a761

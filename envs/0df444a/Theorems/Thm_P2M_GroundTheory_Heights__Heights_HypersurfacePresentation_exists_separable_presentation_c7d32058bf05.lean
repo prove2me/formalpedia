@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_exists_separable_presentation_c7d32058bf05
 -- name    : P2M_GroundTheory_Heights__Heights_HypersurfacePresentation_exists_separable_presentation_c7d32058bf05
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:44.572868+00:00
 -- url     : https://prove2.me/theorems/413834fc-ddb4-47d7-ad7c-d929c239e3cc

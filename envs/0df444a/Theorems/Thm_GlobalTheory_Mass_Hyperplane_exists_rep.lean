@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Hyperplane_exists_rep
 -- name    : GlobalTheory.Mass.Hyperplane.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:13:23.958936+00:00
 -- url     : https://prove2.me/theorems/92136bab-9cc8-42d4-b0e0-791504b9515d

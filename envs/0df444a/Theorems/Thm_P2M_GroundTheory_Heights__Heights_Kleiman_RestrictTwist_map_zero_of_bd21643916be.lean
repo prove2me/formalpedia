@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_map_zero_of_bd21643916be
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_map_zero_of_bd21643916be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:09:25.412896+00:00
 -- url     : https://prove2.me/theorems/43ebfe7c-ad55-45c5-8cab-42ac8ad7cda3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_sum_fullLog
 -- name    : GroundTheory.Global.sum_fullLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:52:00.796261+00:00
 -- url     : https://prove2.me/theorems/bb83c1c9-e5ea-4bd5-bbab-8bf8f41189eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_weak_neron_model
 -- name    : GlobalTheory.T.exists_weak_neron_model
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:40:36.25955+00:00
 -- url     : https://prove2.me/theorems/6a3a983e-ae81-48f5-b9d6-ac21e96683cb

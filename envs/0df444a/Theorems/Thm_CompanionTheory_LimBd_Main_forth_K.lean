@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_forth_K
 -- name    : CompanionTheory.LimBd.Main.forth_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:55:59.841801+00:00
 -- url     : https://prove2.me/theorems/3cf5fbb3-f983-4565-a1df-f84fc98e6de3

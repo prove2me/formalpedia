@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_hermFlag_isotropicPart_orthogonal_anisotropicVector
 -- name    : GlobalTheory.DegCnt.LiftS.hermFlag_isotropicPart_orthogonal_anisotropicVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:12:07.684796+00:00
 -- url     : https://prove2.me/theorems/2861a204-4506-453e-aab0-fa0702c857e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_isDelta_cpSum
 -- name    : PretorsionImageClosed.LinearQuiver.isDelta_cpSum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:47:03.83815+00:00
 -- url     : https://prove2.me/theorems/efecd0ae-e5bb-54df-9789-8d1d9d4dd10e

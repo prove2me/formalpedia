@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_finiteTensorEquiv_symm_apply
 -- name    : GroundTheory.Global.AdeleBaseChange.finiteTensorEquiv_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:05:00.736343+00:00
 -- url     : https://prove2.me/theorems/3455f585-0afe-5c27-b68e-63ad3a3170cb

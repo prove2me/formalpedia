@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FrameAct_spanTo_iff__721488b8eec6
 -- name    : P2M_GlobalTheory_FrameAct_spanTo_iff__721488b8eec6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:27:49.409752+00:00
 -- url     : https://prove2.me/theorems/3a09d2cc-fafe-5fb2-88aa-6a1bd716975c

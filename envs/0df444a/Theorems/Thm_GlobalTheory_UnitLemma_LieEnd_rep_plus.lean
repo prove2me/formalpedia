@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_rep_plus
 -- name    : GlobalTheory.UnitLemma.LieEnd.rep_plus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:05:48.888046+00:00
 -- url     : https://prove2.me/theorems/e8696dbd-6307-4423-8c20-b65d84d2e93d

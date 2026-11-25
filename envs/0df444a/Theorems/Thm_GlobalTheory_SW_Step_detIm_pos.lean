@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Step_detIm_pos
 -- name    : GlobalTheory.SW.Step.detIm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:36:39.54587+00:00
 -- url     : https://prove2.me/theorems/e46aaa89-a077-4ed8-a204-9d574cc26dd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartChange_ae_split_edbb5f1af625
 -- name    : P2M_GroundTheory_Heights__Heights_ChartChange_ae_split_edbb5f1af625
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:17:57.505333+00:00
 -- url     : https://prove2.me/theorems/956d7821-e554-47dc-940b-dc5d4bb9889b

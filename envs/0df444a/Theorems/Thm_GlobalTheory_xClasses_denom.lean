@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_xClasses_denom
 -- name    : GlobalTheory.xClasses_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:17:23.321014+00:00
 -- url     : https://prove2.me/theorems/c01e8686-bae1-4dba-91a5-10b0df15fcea

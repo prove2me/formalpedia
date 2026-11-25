@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_setIntegral_norm_prodExp_mul_le_haar
 -- name    : GlobalTheory.setIntegral_norm_prodExp_mul_le_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:51.259967+00:00
 -- url     : https://prove2.me/theorems/b57da1bc-b60f-51ca-9132-937d2e6d124d

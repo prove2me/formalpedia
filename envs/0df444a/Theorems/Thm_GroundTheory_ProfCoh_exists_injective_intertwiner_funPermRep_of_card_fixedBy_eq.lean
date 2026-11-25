@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_injective_intertwiner_funPermRep_of_card_fixedBy_eq
 -- name    : GroundTheory.ProfCoh.exists_injective_intertwiner_funPermRep_of_card_fixedBy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:35:51.362365+00:00
 -- url     : https://prove2.me/theorems/65b47099-150f-4260-98ca-3bb2ffe4fc61

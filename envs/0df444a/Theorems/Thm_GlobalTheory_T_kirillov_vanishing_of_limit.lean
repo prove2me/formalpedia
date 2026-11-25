@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_kirillov_vanishing_of_limit
 -- name    : GlobalTheory.T.kirillov_vanishing_of_limit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:51:01.060801+00:00
 -- url     : https://prove2.me/theorems/b6199b9d-fb54-4cee-b09e-eb4f88e9388e

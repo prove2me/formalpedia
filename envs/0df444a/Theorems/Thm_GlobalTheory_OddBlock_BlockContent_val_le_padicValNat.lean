@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BlockContent_val_le_padicValNat
 -- name    : GlobalTheory.OddBlock.BlockContent.val_le_padicValNat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:33:18.444937+00:00
 -- url     : https://prove2.me/theorems/2be8ff93-a82b-5ccd-985a-722dda6a9fa2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_exists_isGalois_splits
 -- name    : GroundTheory.Brauer.exists_isGalois_splits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:29:32.358125+00:00
 -- url     : https://prove2.me/theorems/cc11ed90-a9cd-557f-8e37-81c3d3cb4a9d

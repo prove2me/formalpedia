@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightCycleEq_meanShift_mul_of_ext_0ca9688a2a35
 -- name    : P2M_GroundTheory_Heights__Heights_ChowHeightCycleEq_meanShift_mul_of_ext_0ca9688a2a35
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:36.363799+00:00
 -- url     : https://prove2.me/theorems/ed77a55e-3d5a-4068-b0f6-b3050edc3ace

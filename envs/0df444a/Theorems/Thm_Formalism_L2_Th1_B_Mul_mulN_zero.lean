@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_mulN_zero
 -- name    : Formalism.L2.Th1.B.Mul.mulN_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:27:49.614941+00:00
 -- url     : https://prove2.me/theorems/9c6ab1a7-2f74-490b-b54a-8fec460037b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointsKey_key
 -- name    : GlobalTheory.PointsKey.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:26:57.677164+00:00
 -- url     : https://prove2.me/theorems/694cfa21-245a-44cb-85e2-d96c0d12d1ad

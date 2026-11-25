@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_smFn_dixmierMalliavin_step
 -- name    : GlobalTheory.HCA.smFn_dixmierMalliavin_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:44:24.727724+00:00
 -- url     : https://prove2.me/theorems/09595e3b-0751-480a-bb37-0f880bafa6a0

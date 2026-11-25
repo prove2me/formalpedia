@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_squarefreeLabelTorusMass_no_large_prime_factor_le
 -- name    : GlobalTheory.T.squarefreeLabelTorusMass_no_large_prime_factor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:27.247647+00:00
 -- url     : https://prove2.me/theorems/6b59567a-f692-40d9-80f5-d5ae5e583bba

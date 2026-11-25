@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_chartMonomial_add_e11f6d6b4fb2
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_chartMonomial_add_e11f6d6b4fb2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:05:11.509231+00:00
 -- url     : https://prove2.me/theorems/63ed5840-8922-5bd6-8b9a-f2d6a584b375

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_central_case
 -- name    : GlobalTheory.BrauerZero.central_case
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:59:58.655801+00:00
 -- url     : https://prove2.me/theorems/f2ae43bb-56cb-4a7a-9ddc-b15e83b93c0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_absNorm_le_of_mem_boxSet
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.absNorm_le_of_mem_boxSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:22:57.847199+00:00
 -- url     : https://prove2.me/theorems/27bdabd0-f345-4141-b9c4-06e20e5a30fa

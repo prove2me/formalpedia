@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Unimod_isLattice_smul
 -- name    : GlobalTheory.DegCnt.Unimod.isLattice_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:52.718581+00:00
 -- url     : https://prove2.me/theorems/209ac613-1864-405f-bff6-9c23b811fd48

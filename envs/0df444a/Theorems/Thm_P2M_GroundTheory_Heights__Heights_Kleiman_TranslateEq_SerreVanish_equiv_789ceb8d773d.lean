@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_SerreVanish_equiv_789ceb8d773d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_SerreVanish_equiv_789ceb8d773d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:08:05.261366+00:00
 -- url     : https://prove2.me/theorems/db637d17-1735-50e8-ad8d-3c28e1f953d4

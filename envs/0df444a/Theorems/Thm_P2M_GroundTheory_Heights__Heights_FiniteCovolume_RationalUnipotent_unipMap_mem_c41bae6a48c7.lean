@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_RationalUnipotent_unipMap_mem_c41bae6a48c7
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_RationalUnipotent_unipMap_mem_c41bae6a48c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:55:17.739627+00:00
 -- url     : https://prove2.me/theorems/91513d71-401d-4fda-a9e3-3aed25a1fb34

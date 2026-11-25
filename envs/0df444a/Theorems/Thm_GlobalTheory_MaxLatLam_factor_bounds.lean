@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatLam_factor_bounds
 -- name    : GlobalTheory.MaxLatLam.factor_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:10:03.932899+00:00
 -- url     : https://prove2.me/theorems/3434096d-1edd-46e9-8196-df30d8620858

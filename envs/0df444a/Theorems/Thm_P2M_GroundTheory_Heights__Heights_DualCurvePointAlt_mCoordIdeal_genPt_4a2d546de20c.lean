@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_mCoordIdeal_genPt_4a2d546de20c
 -- name    : P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_mCoordIdeal_genPt_4a2d546de20c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:39:37.978274+00:00
 -- url     : https://prove2.me/theorems/22413229-099c-40bd-92d0-a9fc000e7124

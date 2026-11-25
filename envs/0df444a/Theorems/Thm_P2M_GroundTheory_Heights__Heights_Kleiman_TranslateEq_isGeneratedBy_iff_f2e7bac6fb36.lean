@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_isGeneratedBy_iff_f2e7bac6fb36
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_isGeneratedBy_iff_f2e7bac6fb36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:29:41.365114+00:00
 -- url     : https://prove2.me/theorems/cfa86f73-7cdd-488f-92ce-a040a7fd1b95

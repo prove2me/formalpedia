@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integerUnitsAddEquiv_decomposition
 -- name    : GroundTheory.Global.integerUnitsAddEquiv_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:05:40.299807+00:00
 -- url     : https://prove2.me/theorems/c7107705-e9d5-5270-b479-0588abdc038f

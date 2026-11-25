@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_bundleNum_congr_99101b80b5d5
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_bundleNum_congr_99101b80b5d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:07:15.065595+00:00
 -- url     : https://prove2.me/theorems/57da6fbf-f108-5035-b7ce-641dbe42082a

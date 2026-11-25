@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiltrationHilbSum_step_2ad7e30af467
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiltrationHilbSum_step_2ad7e30af467
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:00.735404+00:00
 -- url     : https://prove2.me/theorems/0cd446b4-bc96-49c5-b636-c6367a81bbc7

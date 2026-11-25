@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_isLattice_field
 -- name    : GlobalTheory.DegCnt.SplitIdx.isLattice_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:02:06.53913+00:00
 -- url     : https://prove2.me/theorems/4e47b445-4a31-4bd5-bdd2-043105f063ca

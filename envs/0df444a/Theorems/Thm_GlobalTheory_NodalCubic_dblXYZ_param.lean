@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NodalCubic_dblXYZ_param
 -- name    : GlobalTheory.NodalCubic.dblXYZ_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:51:37.314014+00:00
 -- url     : https://prove2.me/theorems/5e5ed28c-034e-4128-9614-da8d0f3ef710

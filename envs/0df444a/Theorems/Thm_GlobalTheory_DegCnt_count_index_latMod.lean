@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_count_index_latMod
 -- name    : GlobalTheory.DegCnt.count_index_latMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:27:29.349473+00:00
 -- url     : https://prove2.me/theorems/9a37e584-f291-4bfd-ba71-bd6c4a6bfe74

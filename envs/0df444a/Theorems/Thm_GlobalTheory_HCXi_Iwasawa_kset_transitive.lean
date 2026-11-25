@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_Iwasawa_kset_transitive
 -- name    : GlobalTheory.HCXi.Iwasawa.kset_transitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:31:47.366902+00:00
 -- url     : https://prove2.me/theorems/5f793400-b299-56ca-92d9-23200c5644b2

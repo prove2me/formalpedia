@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jacquetRallis_orbitalIntegrand_isLocallyConstantCompactSupport
 -- name    : GlobalTheory.T.jacquetRallis_orbitalIntegrand_isLocallyConstantCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:51:19.256678+00:00
 -- url     : https://prove2.me/theorems/75fa86a1-5fe6-4a86-8b28-155dee681bc6

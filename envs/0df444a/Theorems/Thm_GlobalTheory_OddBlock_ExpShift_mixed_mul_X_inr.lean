@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_mixed_mul_X_inr
 -- name    : GlobalTheory.OddBlock.ExpShift.mixed_mul_X_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:34:44.946342+00:00
 -- url     : https://prove2.me/theorems/19c03897-9f0f-443c-82ac-427cd0c75df8

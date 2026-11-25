@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tateAcyclic_res_indSES_X__55c5a5530310
 -- name    : P2M_GroundTheory_GroupCoh_tateAcyclic_res_indSES_X__55c5a5530310
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:14.023706+00:00
 -- url     : https://prove2.me/theorems/6ed1224d-f372-44ff-ad14-e558a1dd8ab2

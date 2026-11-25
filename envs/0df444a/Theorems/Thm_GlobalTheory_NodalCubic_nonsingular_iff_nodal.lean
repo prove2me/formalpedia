@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NodalCubic_nonsingular_iff_nodal
 -- name    : GlobalTheory.NodalCubic.nonsingular_iff_nodal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:52:09.035908+00:00
 -- url     : https://prove2.me/theorems/f632bc34-0f28-45f9-a50d-59da6a222ab1

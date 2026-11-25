@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceCount_relIndex_eq_mul
 -- name    : GlobalTheory.TraceCount.relIndex_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:57:11.007325+00:00
 -- url     : https://prove2.me/theorems/b25198d3-c449-5b09-b9c3-83d9d64920c6

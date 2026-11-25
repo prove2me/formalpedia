@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_hilbFn_map_ba3c10076c2a
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_hilbFn_map_ba3c10076c2a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:19:00.635798+00:00
 -- url     : https://prove2.me/theorems/b62f052c-1c4e-5ef3-8870-cb9824f27824

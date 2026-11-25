@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_rhoSymb_mul_sqrt_pow_le
 -- name    : GroundTheory.Automorphic.Sobolev.rhoSymb_mul_sqrt_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:20:52.119462+00:00
 -- url     : https://prove2.me/theorems/a494f9ef-39b0-573a-9939-46809adceb19

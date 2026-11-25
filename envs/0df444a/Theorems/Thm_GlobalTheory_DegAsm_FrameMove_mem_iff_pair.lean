@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_mem_iff_pair
 -- name    : GlobalTheory.DegAsm.FrameMove.mem_iff_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:21:47.960549+00:00
 -- url     : https://prove2.me/theorems/ce330f7b-1aa0-52f4-9b08-9286f669878a

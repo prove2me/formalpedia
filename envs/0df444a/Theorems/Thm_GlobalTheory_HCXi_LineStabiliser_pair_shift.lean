@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_LineStabiliser_pair_shift
 -- name    : GlobalTheory.HCXi.LineStabiliser.pair_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:12.658055+00:00
 -- url     : https://prove2.me/theorems/10bf6af8-8e23-589c-8918-6650fe840f5b

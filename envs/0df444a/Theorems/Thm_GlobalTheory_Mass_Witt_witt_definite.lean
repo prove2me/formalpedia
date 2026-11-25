@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Witt_witt_definite
 -- name    : GlobalTheory.Mass.Witt.witt_definite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:33:51.639652+00:00
 -- url     : https://prove2.me/theorems/b706dfb4-95df-528a-bb40-786a57591efe

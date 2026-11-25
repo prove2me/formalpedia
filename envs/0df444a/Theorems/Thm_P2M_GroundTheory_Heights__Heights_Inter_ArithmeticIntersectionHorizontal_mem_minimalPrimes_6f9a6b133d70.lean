@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionHorizontal_mem_minimalPrimes_6f9a6b133d70
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionHorizontal_mem_minimalPrimes_6f9a6b133d70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:20:09.210389+00:00
 -- url     : https://prove2.me/theorems/b884b2c0-12c7-4265-ac22-25229d44e2eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_appLEModule_smul
 -- name    : GlobalTheory.QCoh.appLEModule_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:02:38.54094+00:00
 -- url     : https://prove2.me/theorems/1d6deb77-8b74-4b9d-b6c4-03c176990a42

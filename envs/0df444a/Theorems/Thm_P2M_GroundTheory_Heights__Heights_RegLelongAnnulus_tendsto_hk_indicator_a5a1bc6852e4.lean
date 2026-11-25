@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_tendsto_hk_indicator_a5a1bc6852e4
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_tendsto_hk_indicator_a5a1bc6852e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:16:32.212799+00:00
 -- url     : https://prove2.me/theorems/35e415cc-de67-4131-8fe9-6ec2f980ec33

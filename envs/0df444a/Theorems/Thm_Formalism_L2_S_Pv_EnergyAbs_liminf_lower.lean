@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_liminf_lower
 -- name    : Formalism.L2.S.Pv.EnergyAbs.liminf_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:24:40.700998+00:00
 -- url     : https://prove2.me/theorems/e8a419e1-8be0-5caf-a3f6-d4f561bf57f6

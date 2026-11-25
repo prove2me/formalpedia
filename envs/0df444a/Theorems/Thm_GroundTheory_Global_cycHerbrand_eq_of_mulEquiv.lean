@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_eq_of_mulEquiv
 -- name    : GroundTheory.Global.cycHerbrand_eq_of_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:01:36.016804+00:00
 -- url     : https://prove2.me/theorems/a17f92b1-86fa-452e-85ef-cbc3b1fbed16

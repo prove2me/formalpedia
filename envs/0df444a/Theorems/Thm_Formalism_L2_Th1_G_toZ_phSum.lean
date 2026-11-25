@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_toZ_phSum
 -- name    : Formalism.L2.Th1.G.toZ_phSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:03:42.699732+00:00
 -- url     : https://prove2.me/theorems/192c29f9-2be4-4f4e-ad5a-020616543815

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassmannianGeometricDegreeChart_exists_of_ne_zero_06f128ad0be1
 -- name    : P2M_GroundTheory_Heights__Heights_GrassmannianGeometricDegreeChart_exists_of_ne_zero_06f128ad0be1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:42.619244+00:00
 -- url     : https://prove2.me/theorems/f2fe684e-2921-4eea-b500-0b11b63ffdbd

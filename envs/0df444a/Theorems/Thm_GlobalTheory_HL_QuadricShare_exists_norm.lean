@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuadricShare_exists_norm
 -- name    : GlobalTheory.HL.QuadricShare.exists_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:06:02.050063+00:00
 -- url     : https://prove2.me/theorems/c10d23b1-9e0a-5250-98ac-f53d2761dac5

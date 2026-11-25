@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Hyperplane_smul_mem_loc
 -- name    : GlobalTheory.Mass.Hyperplane.smul_mem_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:11:17.984442+00:00
 -- url     : https://prove2.me/theorems/6b9bf5b1-9adf-4170-b1eb-894ca5575cf4

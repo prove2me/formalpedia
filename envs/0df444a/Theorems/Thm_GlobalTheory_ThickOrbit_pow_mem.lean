@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThickOrbit_pow_mem
 -- name    : GlobalTheory.ThickOrbit.pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:02:36.461925+00:00
 -- url     : https://prove2.me/theorems/f2b4838e-b311-43a9-94c5-8bbbfb744138

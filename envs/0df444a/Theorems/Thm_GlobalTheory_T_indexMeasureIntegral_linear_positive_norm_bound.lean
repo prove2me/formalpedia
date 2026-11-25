@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_indexMeasureIntegral_linear_positive_norm_bound
 -- name    : GlobalTheory.T.indexMeasureIntegral_linear_positive_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:04:58.763719+00:00
 -- url     : https://prove2.me/theorems/f3e79313-6325-4525-9037-1434a780f15a

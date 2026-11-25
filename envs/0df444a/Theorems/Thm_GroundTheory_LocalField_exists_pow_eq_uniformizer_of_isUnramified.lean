@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_pow_eq_uniformizer_of_isUnramified
 -- name    : GroundTheory.LocalField.exists_pow_eq_uniformizer_of_isUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:20:07.097514+00:00
 -- url     : https://prove2.me/theorems/a241054c-baac-4ec1-8d71-ba2bf36db3a7

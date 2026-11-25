@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_principalTorus_im_perfect
 -- name    : GlobalTheory.principalTorus_im_perfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:04:15.192398+00:00
 -- url     : https://prove2.me/theorems/876208ef-8803-4623-9adc-5edbb9582c96

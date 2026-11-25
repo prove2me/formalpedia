@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_finite_integralClosure_of_charP_65f7d60edb2f
 -- name    : P2M_GroundTheory_Heights__Heights_Model_finite_integralClosure_of_charP_65f7d60edb2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:15.854801+00:00
 -- url     : https://prove2.me/theorems/31a09192-f126-4339-8fcb-cf36768afa37

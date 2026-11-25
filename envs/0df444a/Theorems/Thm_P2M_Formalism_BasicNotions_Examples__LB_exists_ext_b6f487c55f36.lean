@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_exists_ext_b6f487c55f36
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_exists_ext_b6f487c55f36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:36:19.298055+00:00
 -- url     : https://prove2.me/theorems/89a7bddd-941d-44a6-8b7f-8858528d825d

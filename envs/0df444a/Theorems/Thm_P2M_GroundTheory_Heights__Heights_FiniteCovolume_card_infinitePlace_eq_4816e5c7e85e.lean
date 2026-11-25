@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_card_infinitePlace_eq_4816e5c7e85e
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_card_infinitePlace_eq_4816e5c7e85e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:01.300651+00:00
 -- url     : https://prove2.me/theorems/4d069a98-4ec3-4d8d-8757-8e06dc75cc62

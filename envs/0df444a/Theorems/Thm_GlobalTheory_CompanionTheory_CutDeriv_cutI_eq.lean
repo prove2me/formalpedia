@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CutDeriv_cutI_eq
 -- name    : GlobalTheory.CompanionTheory.CutDeriv.cutI_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:06:17.454183+00:00
 -- url     : https://prove2.me/theorems/d4471950-e332-4c57-a346-c12b7d8ca481

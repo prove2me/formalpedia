@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_abs_le_of_onCut
 -- name    : CompanionTheory.WaveGrid.abs_le_of_onCut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:22:40.567986+00:00
 -- url     : https://prove2.me/theorems/9df93ee5-fbd0-41ae-ba2d-22abc930c8f3

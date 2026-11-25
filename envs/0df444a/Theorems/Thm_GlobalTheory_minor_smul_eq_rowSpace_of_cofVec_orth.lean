@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_minor_smul_eq_rowSpace_of_cofVec_orth
 -- name    : GlobalTheory.minor_smul_eq_rowSpace_of_cofVec_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:18:03.952963+00:00
 -- url     : https://prove2.me/theorems/e5690e72-28f8-4566-aa36-95f82f57ba7e

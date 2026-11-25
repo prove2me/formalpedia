@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuDecomp_fix_inv
 -- name    : GlobalTheory.CompanionTheory.BmuDecomp.fix_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:01:16.258143+00:00
 -- url     : https://prove2.me/theorems/c078f6fd-b5fa-42be-b618-e09c68b3aedc

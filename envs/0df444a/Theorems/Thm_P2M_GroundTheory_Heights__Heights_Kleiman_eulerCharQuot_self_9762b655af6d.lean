@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_eulerCharQuot_self_9762b655af6d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_eulerCharQuot_self_9762b655af6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:07:28.221949+00:00
 -- url     : https://prove2.me/theorems/cdcb33ae-7eb2-503d-a1ce-dd269f7adaa3

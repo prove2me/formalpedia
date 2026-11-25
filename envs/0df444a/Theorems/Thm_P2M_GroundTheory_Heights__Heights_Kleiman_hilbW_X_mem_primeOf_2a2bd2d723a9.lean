@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_hilbW_X_mem_primeOf_2a2bd2d723a9
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_hilbW_X_mem_primeOf_2a2bd2d723a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:08:20.707801+00:00
 -- url     : https://prove2.me/theorems/fdaea1d1-7caa-42bc-b1f2-cb276d698b14

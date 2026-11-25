@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_isCompl_perp
 -- name    : GlobalTheory.HermOrthBasis.isCompl_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:08:54.149128+00:00
 -- url     : https://prove2.me/theorems/a80c45c9-259a-4aa5-96da-b2170dc4ecb2

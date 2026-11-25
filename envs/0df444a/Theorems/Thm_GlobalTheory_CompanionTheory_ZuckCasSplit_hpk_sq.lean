@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCasSplit_hpk_sq
 -- name    : GlobalTheory.CompanionTheory.ZuckCasSplit.hpk_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:24:34.761017+00:00
 -- url     : https://prove2.me/theorems/a3149514-4800-4ad4-93b9-5fa161c6db09

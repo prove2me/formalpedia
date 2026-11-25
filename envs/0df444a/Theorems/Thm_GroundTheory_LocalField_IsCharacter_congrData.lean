@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsCharacter_congrData
 -- name    : GroundTheory.LocalField.IsCharacter.congrData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:35:17.808402+00:00
 -- url     : https://prove2.me/theorems/1098fd12-7c9c-526e-9fdd-fed0f65eb2ff

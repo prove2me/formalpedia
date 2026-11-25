@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_exists_fin_generators_41e46a1db7ba
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_exists_fin_generators_41e46a1db7ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:40:10.506596+00:00
 -- url     : https://prove2.me/theorems/4b952a11-e7de-5e74-a60c-093629687cc8

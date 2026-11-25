@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_quad_lower_core_dd44993edd4d
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_quad_lower_core_dd44993edd4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:29.66213+00:00
 -- url     : https://prove2.me/theorems/60e9483c-36b3-4be9-8610-d87e38d33eb4

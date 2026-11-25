@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_translate_sub_mem_polyLE
 -- name    : GroundTheory.Automorphic.HarishChandra.translate_sub_mem_polyLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:29.784321+00:00
 -- url     : https://prove2.me/theorems/be26cbfe-7c22-4326-b64b-789d76d4e27f

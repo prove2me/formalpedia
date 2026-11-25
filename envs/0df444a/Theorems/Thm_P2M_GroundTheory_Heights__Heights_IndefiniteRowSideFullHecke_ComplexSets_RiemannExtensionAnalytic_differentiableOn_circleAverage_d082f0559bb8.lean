@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RiemannExtensionAnalytic_differentiableOn_circleAverage_d082f0559bb8
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RiemannExtensionAnalytic_differentiableOn_circleAverage_d082f0559bb8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:37.59085+00:00
 -- url     : https://prove2.me/theorems/87953a81-44d3-55ad-990d-7654ec9943cf

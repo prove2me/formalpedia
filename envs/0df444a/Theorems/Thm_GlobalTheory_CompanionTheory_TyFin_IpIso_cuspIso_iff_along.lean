@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_IpIso_cuspIso_iff_along
 -- name    : GlobalTheory.CompanionTheory.TyFin.IpIso.cuspIso_iff_along
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:11:19.295106+00:00
 -- url     : https://prove2.me/theorems/d256abcf-6495-46a9-8c3a-1354912acbd0

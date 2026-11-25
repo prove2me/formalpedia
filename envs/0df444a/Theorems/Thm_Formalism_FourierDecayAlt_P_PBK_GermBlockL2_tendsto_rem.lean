@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_GermBlockL2_tendsto_rem
 -- name    : Formalism.FourierDecayAlt.P.PBK.GermBlockL2.tendsto_rem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:55:31.924916+00:00
 -- url     : https://prove2.me/theorems/d27689f4-f9d9-5f13-9a07-55d076f1a1cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh___splittingCocycle_d807d82c9e0c
 -- name    : P2M_GroundTheory_GroupCoh___splittingCocycle_d807d82c9e0c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:20:04.563404+00:00
 -- url     : https://prove2.me/theorems/54e500dd-7474-4662-a8bd-5ef0f180bf66

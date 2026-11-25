@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pow_dvd_of_vanishing_at_perfect_valuation_points
 -- name    : GlobalTheory.T.pow_dvd_of_vanishing_at_perfect_valuation_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:36.506261+00:00
 -- url     : https://prove2.me/theorems/d4bc31d5-75c4-489e-89fa-6bc088fb824f

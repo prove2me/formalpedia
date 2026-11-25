@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_encard_lattices_near_reference_lattice_le
 -- name    : GlobalTheory.T.encard_lattices_near_reference_lattice_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:55:57.718228+00:00
 -- url     : https://prove2.me/theorems/1dc66c11-2199-52f0-b52c-70940fda4346

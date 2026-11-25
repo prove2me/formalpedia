@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_OmgEquiv_block
 -- name    : GlobalTheory.WigSh.OmgEquiv.block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:35:27.894116+00:00
 -- url     : https://prove2.me/theorems/80327b3c-bcd1-41dc-be25-285e10f09ab2

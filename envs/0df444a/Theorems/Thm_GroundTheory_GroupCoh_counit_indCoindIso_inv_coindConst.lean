@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_counit_indCoindIso_inv_coindConst
 -- name    : GroundTheory.GroupCoh.counit_indCoindIso_inv_coindConst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:55:24.634359+00:00
 -- url     : https://prove2.me/theorems/d2c16ecb-e341-44b8-85a3-7cb812ce31ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeFibreDegree_ae_eval_euclid_ne_zero_de4ee5fbccea
 -- name    : P2M_GroundTheory_Heights__Heights_ConeFibreDegree_ae_eval_euclid_ne_zero_de4ee5fbccea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:06.320601+00:00
 -- url     : https://prove2.me/theorems/e7a12c74-1b0c-5787-9928-22af5b655b51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_FFS_mat_inv_one
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.FFS.mat_inv_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:22:42.66318+00:00
 -- url     : https://prove2.me/theorems/0b924e83-08c1-41a7-8ec2-1379cb475066

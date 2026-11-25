@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_aLoc_eq_roL
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.aLoc_eq_roL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:59:58.959255+00:00
 -- url     : https://prove2.me/theorems/5a458763-1622-50e3-a0f9-9459e074a95a

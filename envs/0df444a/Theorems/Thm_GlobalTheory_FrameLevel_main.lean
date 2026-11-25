@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameLevel_main
 -- name    : GlobalTheory.FrameLevel.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:19:09.407586+00:00
 -- url     : https://prove2.me/theorems/b02dcbb2-ae60-55cc-a809-cb8f3a3c06d4

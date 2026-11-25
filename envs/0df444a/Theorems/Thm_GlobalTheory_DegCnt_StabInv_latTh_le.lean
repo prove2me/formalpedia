@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_latTh_le
 -- name    : GlobalTheory.DegCnt.StabInv.latTh_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:00:54.332854+00:00
 -- url     : https://prove2.me/theorems/27a04c45-9642-5fe1-b427-b78fe2f575c2

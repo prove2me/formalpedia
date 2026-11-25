@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_square_zero_neighbourhood_product_zero
 -- name    : GlobalTheory.T.square_zero_neighbourhood_product_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:32:32.669461+00:00
 -- url     : https://prove2.me/theorems/99cfb0ce-25b7-4552-924d-d471885620fe

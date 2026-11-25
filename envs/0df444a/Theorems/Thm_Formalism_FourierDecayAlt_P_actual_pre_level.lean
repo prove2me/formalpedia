@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_actual_pre_level
 -- name    : Formalism.FourierDecayAlt.P.actual_pre_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:22:18.048558+00:00
 -- url     : https://prove2.me/theorems/ee609fc2-9ed0-4a64-bc2a-52014ec1e931

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_eq_zero_of_isZero
 -- name    : GroundTheory.Arith.SchemeCoh.eq_zero_of_isZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:08:03.035546+00:00
 -- url     : https://prove2.me/theorems/cf6948b1-08a7-4f22-92dd-a302857937b1

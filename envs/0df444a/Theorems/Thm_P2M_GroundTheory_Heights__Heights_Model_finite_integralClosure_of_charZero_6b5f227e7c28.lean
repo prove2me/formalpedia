@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_finite_integralClosure_of_charZero_6b5f227e7c28
 -- name    : P2M_GroundTheory_Heights__Heights_Model_finite_integralClosure_of_charZero_6b5f227e7c28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:24.695981+00:00
 -- url     : https://prove2.me/theorems/1aa7818a-1c43-4d09-9816-a1ee703241e8

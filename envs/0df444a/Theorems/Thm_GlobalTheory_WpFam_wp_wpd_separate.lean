@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WpFam_wp_wpd_separate
 -- name    : GlobalTheory.WpFam.wp_wpd_separate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:57:39.551862+00:00
 -- url     : https://prove2.me/theorems/fb341c77-b2db-4e1f-b575-bd29c26d0a35

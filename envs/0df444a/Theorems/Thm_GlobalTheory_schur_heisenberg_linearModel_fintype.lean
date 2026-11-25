@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schur_heisenberg_linearModel_fintype
 -- name    : GlobalTheory.schur_heisenberg_linearModel_fintype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:20:38.876097+00:00
 -- url     : https://prove2.me/theorems/67d71e0c-9b70-4fd0-9565-606b026925c0

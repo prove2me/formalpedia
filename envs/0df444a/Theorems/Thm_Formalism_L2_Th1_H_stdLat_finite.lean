@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_stdLat_finite
 -- name    : Formalism.L2.Th1.H.stdLat_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:59:53.51701+00:00
 -- url     : https://prove2.me/theorems/dd2014f4-5e90-59cb-b34c-7c98fbf4a839

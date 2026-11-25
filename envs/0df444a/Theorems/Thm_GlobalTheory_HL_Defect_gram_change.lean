@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Defect_gram_change
 -- name    : GlobalTheory.HL.Defect.gram_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:15:25.190268+00:00
 -- url     : https://prove2.me/theorems/ab4759f2-1e89-44f1-9990-b7d6974f3882

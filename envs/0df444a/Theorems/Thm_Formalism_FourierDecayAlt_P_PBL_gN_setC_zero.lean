@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBL_gN_setC_zero
 -- name    : Formalism.FourierDecayAlt.P.PBL.gN_setC_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:22:58.9261+00:00
 -- url     : https://prove2.me/theorems/a6a55708-726e-57ad-8545-4de6ad39b55f

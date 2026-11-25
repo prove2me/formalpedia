@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_schur_sq
 -- name    : Formalism.L2.S.Pv.EnergyAbs.schur_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:37.085433+00:00
 -- url     : https://prove2.me/theorems/840d47bd-c5ff-48d7-85bc-0145f460341e

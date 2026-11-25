@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DegCnt_PosIso_Ia_le__b4a7964e0214
 -- name    : P2M_GlobalTheory_DegCnt_PosIso_Ia_le__b4a7964e0214
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:37:30.586039+00:00
 -- url     : https://prove2.me/theorems/b173bd34-05e2-48cc-9de5-89958f03a430

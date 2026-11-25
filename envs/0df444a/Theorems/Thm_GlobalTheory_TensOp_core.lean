@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TensOp_core
 -- name    : GlobalTheory.TensOp.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:04:56.82883+00:00
 -- url     : https://prove2.me/theorems/8b9d9566-2911-49e7-819a-7e5e3bf38a6d

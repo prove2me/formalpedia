@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_locCoeff_le
 -- name    : GroundTheory.Automorphic.Sobolev.norm_locCoeff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:13.879991+00:00
 -- url     : https://prove2.me/theorems/d8180d43-961b-49f2-8336-b80b1cec5dc2

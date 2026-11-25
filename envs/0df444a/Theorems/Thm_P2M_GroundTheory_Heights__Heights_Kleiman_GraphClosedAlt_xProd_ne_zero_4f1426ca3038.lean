@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_xProd_ne_zero_4f1426ca3038
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_xProd_ne_zero_4f1426ca3038
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:08:31.557838+00:00
 -- url     : https://prove2.me/theorems/11520279-0a4d-59cb-b57d-c22caee6746c

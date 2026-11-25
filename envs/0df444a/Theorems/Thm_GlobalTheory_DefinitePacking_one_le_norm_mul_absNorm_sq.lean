@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DefinitePacking_one_le_norm_mul_absNorm_sq
 -- name    : GlobalTheory.DefinitePacking.one_le_norm_mul_absNorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:16:18.717109+00:00
 -- url     : https://prove2.me/theorems/f34c3e74-4532-5358-883c-41dc48525ee1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BrB_finite_between
 -- name    : Formalism.HermitianLattices.Ext.L3.BrB.finite_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:42:59.327916+00:00
 -- url     : https://prove2.me/theorems/d4fb0075-9a9a-4c2d-b4dc-f5d305defbe9

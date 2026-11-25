@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q2_coeff_odd_eq_zero
 -- name    : Formalism.L2.Th1.A.Q2.coeff_odd_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:27:14.271856+00:00
 -- url     : https://prove2.me/theorems/8cd72166-828f-4b42-82de-083262532fbb

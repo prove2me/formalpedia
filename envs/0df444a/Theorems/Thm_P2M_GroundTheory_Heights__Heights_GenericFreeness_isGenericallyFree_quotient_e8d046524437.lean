@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFreeness_isGenericallyFree_quotient_e8d046524437
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFreeness_isGenericallyFree_quotient_e8d046524437
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:34.804369+00:00
 -- url     : https://prove2.me/theorems/e47fe064-cffd-483b-a9ef-a649ca060de5

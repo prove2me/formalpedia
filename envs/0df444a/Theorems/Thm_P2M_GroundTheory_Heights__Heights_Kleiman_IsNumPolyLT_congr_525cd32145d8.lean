@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_IsNumPolyLT_congr_525cd32145d8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_IsNumPolyLT_congr_525cd32145d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:01:59.445701+00:00
 -- url     : https://prove2.me/theorems/0b22367c-eac3-4ed5-9ce5-1a6392f467b8

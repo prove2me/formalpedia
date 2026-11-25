@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isSymmetricPositionLevel
 -- name    : GlobalTheory.T.exists_isSymmetricPositionLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:20:32.810142+00:00
 -- url     : https://prove2.me/theorems/ecc57892-11d6-4e5e-9181-510e8e355282

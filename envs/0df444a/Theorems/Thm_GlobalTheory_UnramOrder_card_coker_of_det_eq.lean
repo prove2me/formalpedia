@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramOrder_card_coker_of_det_eq
 -- name    : GlobalTheory.UnramOrder.card_coker_of_det_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:13:34.059141+00:00
 -- url     : https://prove2.me/theorems/71c047a4-d90a-4a50-b254-966e81321ce8

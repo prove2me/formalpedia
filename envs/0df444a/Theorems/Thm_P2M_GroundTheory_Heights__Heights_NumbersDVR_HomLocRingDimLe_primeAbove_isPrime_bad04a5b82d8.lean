@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingDimLe_primeAbove_isPrime_bad04a5b82d8
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingDimLe_primeAbove_isPrime_bad04a5b82d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:32:10.417492+00:00
 -- url     : https://prove2.me/theorems/01123b9c-f50e-43b6-8f51-f435daad8420

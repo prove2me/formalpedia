@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_jetT_smul
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.jetT_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:43:49.616198+00:00
 -- url     : https://prove2.me/theorems/97be6be9-df59-52fd-83f5-11b7fc67a39f

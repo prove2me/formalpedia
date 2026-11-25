@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuRootVec_col_of_mulVec
 -- name    : GlobalTheory.CompanionTheory.BmuRootVec.col_of_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:59:48.409303+00:00
 -- url     : https://prove2.me/theorems/8fb6791e-f9ca-5546-a3e9-1fd5046eadc9

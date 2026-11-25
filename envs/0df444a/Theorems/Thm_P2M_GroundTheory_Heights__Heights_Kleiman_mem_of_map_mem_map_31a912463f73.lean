@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mem_of_map_mem_map_31a912463f73
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mem_of_map_mem_map_31a912463f73
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:02:57.391475+00:00
 -- url     : https://prove2.me/theorems/f9540d55-be01-4cd2-83f0-f37887dba0b7

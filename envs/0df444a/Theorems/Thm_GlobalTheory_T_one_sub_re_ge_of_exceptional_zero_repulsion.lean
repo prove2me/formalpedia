@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_one_sub_re_ge_of_exceptional_zero_repulsion
 -- name    : GlobalTheory.T.one_sub_re_ge_of_exceptional_zero_repulsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:54:19.622621+00:00
 -- url     : https://prove2.me/theorems/619ba4fd-c2d1-4095-91e6-19321b44c59d

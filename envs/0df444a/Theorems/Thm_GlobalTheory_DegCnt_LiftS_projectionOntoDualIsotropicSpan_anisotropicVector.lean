@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_projectionOntoDualIsotropicSpan_anisotropicVector
 -- name    : GlobalTheory.DegCnt.LiftS.projectionOntoDualIsotropicSpan_anisotropicVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:11:57.809792+00:00
 -- url     : https://prove2.me/theorems/26463ee6-0752-582c-bc01-6c395343a513

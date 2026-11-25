@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_OnW_Gen_sub_le_twist_idealSys_of_mem_3c789ee31b60
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_OnW_Gen_sub_le_twist_idealSys_of_mem_3c789ee31b60
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:04:11.064931+00:00
 -- url     : https://prove2.me/theorems/1475531f-585a-5b0d-8348-560e37beac6e

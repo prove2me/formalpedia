@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_chartMass_conj_47d12006171a
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_chartMass_conj_47d12006171a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:15:41.329484+00:00
 -- url     : https://prove2.me/theorems/08d528af-0507-4fdb-8ffb-dc4bb086db2c

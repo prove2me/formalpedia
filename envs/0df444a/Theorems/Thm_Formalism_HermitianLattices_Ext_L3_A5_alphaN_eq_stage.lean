@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_alphaN_eq_stage
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.alphaN_eq_stage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:26:46.52856+00:00
 -- url     : https://prove2.me/theorems/7139aeab-0e3c-5696-9556-a0faff43262a

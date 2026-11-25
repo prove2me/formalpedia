@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_adjoin_integral_of_nonempty
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.adjoin_integral_of_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:21:35.674287+00:00
 -- url     : https://prove2.me/theorems/00054ccc-9711-5288-b717-eb1f77acf526

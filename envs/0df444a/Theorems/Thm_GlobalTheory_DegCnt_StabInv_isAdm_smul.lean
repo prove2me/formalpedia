@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_isAdm_smul
 -- name    : GlobalTheory.DegCnt.StabInv.isAdm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:58:48.510831+00:00
 -- url     : https://prove2.me/theorems/139be29a-b99e-521c-810f-dbc837883b36

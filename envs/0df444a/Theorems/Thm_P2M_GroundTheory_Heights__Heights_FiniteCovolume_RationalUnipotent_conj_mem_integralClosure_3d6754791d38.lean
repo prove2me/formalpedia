@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_RationalUnipotent_conj_mem_integralClosure_3d6754791d38
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_RationalUnipotent_conj_mem_integralClosure_3d6754791d38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:23.833268+00:00
 -- url     : https://prove2.me/theorems/4ac408c1-b4ab-486a-a80f-a645c9d55e1f

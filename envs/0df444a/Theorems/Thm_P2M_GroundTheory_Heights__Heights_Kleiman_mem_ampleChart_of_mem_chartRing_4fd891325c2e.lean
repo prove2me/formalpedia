@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mem_ampleChart_of_mem_chartRing_4fd891325c2e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mem_ampleChart_of_mem_chartRing_4fd891325c2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:08:59.631802+00:00
 -- url     : https://prove2.me/theorems/9918792a-76e2-5c6d-ad78-dc202dc85340

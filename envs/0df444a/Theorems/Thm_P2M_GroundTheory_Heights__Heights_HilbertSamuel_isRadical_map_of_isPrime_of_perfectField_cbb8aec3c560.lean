@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_isRadical_map_of_isPrime_of_perfectField_cbb8aec3c560
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_isRadical_map_of_isPrime_of_perfectField_cbb8aec3c560
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:57.815+00:00
 -- url     : https://prove2.me/theorems/727321fb-7a33-5074-986c-2d483c2e5c61

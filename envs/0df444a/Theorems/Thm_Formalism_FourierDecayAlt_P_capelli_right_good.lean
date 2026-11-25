@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_right_good
 -- name    : Formalism.FourierDecayAlt.P.capelli_right_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:17:49.985637+00:00
 -- url     : https://prove2.me/theorems/d9c54b7e-306e-5c68-b1af-b753caad6f11

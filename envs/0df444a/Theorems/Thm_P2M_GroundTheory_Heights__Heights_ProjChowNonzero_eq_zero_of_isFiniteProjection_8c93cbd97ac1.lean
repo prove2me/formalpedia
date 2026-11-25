@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjChowNonzero_eq_zero_of_isFiniteProjection_8c93cbd97ac1
 -- name    : P2M_GroundTheory_Heights__Heights_ProjChowNonzero_eq_zero_of_isFiniteProjection_8c93cbd97ac1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:36.308592+00:00
 -- url     : https://prove2.me/theorems/1571d985-b1dc-4e94-b957-271530471981

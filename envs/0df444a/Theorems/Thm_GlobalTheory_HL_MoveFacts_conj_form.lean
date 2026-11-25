@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveFacts_conj_form
 -- name    : GlobalTheory.HL.MoveFacts.conj_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:40:04.486056+00:00
 -- url     : https://prove2.me/theorems/6e526061-8b18-4e3b-84ee-fadeb9fbaccd

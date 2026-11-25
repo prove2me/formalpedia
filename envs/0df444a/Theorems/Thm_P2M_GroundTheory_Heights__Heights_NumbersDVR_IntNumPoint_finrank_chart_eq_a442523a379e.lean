@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_finrank_chart_eq_a442523a379e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_finrank_chart_eq_a442523a379e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:14:00.256578+00:00
 -- url     : https://prove2.me/theorems/2a5333c2-1c4b-522e-b084-ec39b2bac6cb

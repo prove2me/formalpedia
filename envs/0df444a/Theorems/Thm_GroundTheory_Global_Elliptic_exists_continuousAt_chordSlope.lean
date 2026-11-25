@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_continuousAt_chordSlope
 -- name    : GroundTheory.Global.Elliptic.exists_continuousAt_chordSlope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:14:47.983798+00:00
 -- url     : https://prove2.me/theorems/ac9462b1-2ee6-4000-bd2d-21b7155f80bf

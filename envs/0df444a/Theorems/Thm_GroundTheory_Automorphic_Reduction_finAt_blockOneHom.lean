@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_finAt_blockOneHom
 -- name    : GroundTheory.Automorphic.Reduction.finAt_blockOneHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:11:45.427312+00:00
 -- url     : https://prove2.me/theorems/b14b8985-2f9c-4f96-9614-e631402b24bf

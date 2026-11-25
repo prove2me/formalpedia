@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_an_two_shift
 -- name    : ReciprocityTheory.ChartRestriction.L1.an_two_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:18:48.945116+00:00
 -- url     : https://prove2.me/theorems/ba4b7866-ea80-4c87-8b08-d897e3bcbdfb

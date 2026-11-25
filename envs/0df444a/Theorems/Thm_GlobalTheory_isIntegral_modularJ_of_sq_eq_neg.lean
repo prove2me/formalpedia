@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_modularJ_of_sq_eq_neg
 -- name    : GlobalTheory.isIntegral_modularJ_of_sq_eq_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:56:56.430866+00:00
 -- url     : https://prove2.me/theorems/64f82fae-5489-4ec7-8eed-e3ae2e390bc9

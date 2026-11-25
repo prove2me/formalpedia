@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_unit_comp_indCoindIso_inv_comp_counit
 -- name    : GroundTheory.GroupCoh.unit_comp_indCoindIso_inv_comp_counit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:08.442975+00:00
 -- url     : https://prove2.me/theorems/4ed25195-db69-5cd8-b99f-0e7502888f6d

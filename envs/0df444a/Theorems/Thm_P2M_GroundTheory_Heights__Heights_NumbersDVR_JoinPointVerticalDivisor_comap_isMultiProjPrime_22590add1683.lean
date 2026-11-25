@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointVerticalDivisor_comap_isMultiProjPrime_22590add1683
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointVerticalDivisor_comap_isMultiProjPrime_22590add1683
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:08:07.223055+00:00
 -- url     : https://prove2.me/theorems/a03fc589-3f34-40d8-baba-37ee3c7b52ba

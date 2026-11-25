@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_curve_formal_frame
 -- name    : Formalism.L2.Th1.C.curve_formal_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:49:00.224888+00:00
 -- url     : https://prove2.me/theorems/b0ba262c-b304-5766-8b15-75424074c2f1

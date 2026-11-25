@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_nonempty_algEquiv_matrix_of_maximal
 -- name    : GroundTheory.Brauer.nonempty_algEquiv_matrix_of_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:14:18.7369+00:00
 -- url     : https://prove2.me/theorems/92255dbb-6ca9-5d6d-a35a-1bb034759365

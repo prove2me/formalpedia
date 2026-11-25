@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThreeFam_span_21c22d7a9007
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThreeFam_span_21c22d7a9007
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:27.626078+00:00
 -- url     : https://prove2.me/theorems/fc5735ac-8ae8-4baa-b20a-d872b05a9730

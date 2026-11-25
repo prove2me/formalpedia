@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_glueLat_frame_f0b793a7400f
 -- name    : P2M_GroundTheory_Heights__Heights_Model_glueLat_frame_f0b793a7400f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:30:03.325591+00:00
 -- url     : https://prove2.me/theorems/2f9d5902-73a7-4b6b-a5d8-f2b8f890303d

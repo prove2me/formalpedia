@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreIncompressibility_trdeg_add_card_le_8e491c0ffaac
 -- name    : P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreIncompressibility_trdeg_add_card_le_8e491c0ffaac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:49.97292+00:00
 -- url     : https://prove2.me/theorems/62e0d3e8-246d-43d4-aa40-b47aa6125ab8

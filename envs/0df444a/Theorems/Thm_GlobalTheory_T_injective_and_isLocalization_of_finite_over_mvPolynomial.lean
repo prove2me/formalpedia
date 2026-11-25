@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_injective_and_isLocalization_of_finite_over_mvPolynomial
 -- name    : GlobalTheory.T.injective_and_isLocalization_of_finite_over_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:47:30.556899+00:00
 -- url     : https://prove2.me/theorems/8a973f7f-e020-40ed-9f8d-75bb2ad19523

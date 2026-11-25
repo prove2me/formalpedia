@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_isDom_omB
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.isDom_omB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:32:22.985329+00:00
 -- url     : https://prove2.me/theorems/b4cce9d9-b520-54e2-82b2-199b73becb57

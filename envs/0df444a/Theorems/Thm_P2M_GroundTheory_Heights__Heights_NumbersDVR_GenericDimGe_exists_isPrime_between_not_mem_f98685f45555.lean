@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericDimGe_exists_isPrime_between_not_mem_f98685f45555
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericDimGe_exists_isPrime_between_not_mem_f98685f45555
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:07:02.301007+00:00
 -- url     : https://prove2.me/theorems/f45190f5-697b-4b77-995f-f73a38f5a3e7

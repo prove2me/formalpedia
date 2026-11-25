@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_progSupplyOf
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.progSupplyOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:00:45.393088+00:00
 -- url     : https://prove2.me/theorems/914ad3bd-650c-48a3-a8a9-0beb09139757

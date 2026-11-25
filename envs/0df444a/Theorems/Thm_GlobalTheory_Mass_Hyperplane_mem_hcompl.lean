@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Hyperplane_mem_hcompl
 -- name    : GlobalTheory.Mass.Hyperplane.mem_hcompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:12:05.982593+00:00
 -- url     : https://prove2.me/theorems/a00cfb21-2cb3-48cd-9f33-062f061311c7

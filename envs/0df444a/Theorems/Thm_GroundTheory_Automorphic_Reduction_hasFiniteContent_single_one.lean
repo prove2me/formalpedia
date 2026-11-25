@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_hasFiniteContent_single_one
 -- name    : GroundTheory.Automorphic.Reduction.hasFiniteContent_single_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:08:08.169059+00:00
 -- url     : https://prove2.me/theorems/048246c1-08c0-57f2-b4c7-b906494227b6

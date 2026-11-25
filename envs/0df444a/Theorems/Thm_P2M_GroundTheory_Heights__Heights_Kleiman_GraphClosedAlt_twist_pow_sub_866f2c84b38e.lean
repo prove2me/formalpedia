@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_twist_pow_sub_866f2c84b38e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_twist_pow_sub_866f2c84b38e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:06:00.484318+00:00
 -- url     : https://prove2.me/theorems/177ec2ab-dbdd-5fa2-9864-af85c3dc9095

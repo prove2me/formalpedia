@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_capelli_entry_smul
 -- name    : Formalism.FourierDecayAlt.P5.capelli_entry_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:56:40.817545+00:00
 -- url     : https://prove2.me/theorems/b1c7ab2e-d118-4ab0-a643-9c9874797fd0

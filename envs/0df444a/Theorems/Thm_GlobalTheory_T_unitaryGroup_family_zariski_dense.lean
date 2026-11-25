@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryGroup_family_zariski_dense
 -- name    : GlobalTheory.T.unitaryGroup_family_zariski_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:05:21.355583+00:00
 -- url     : https://prove2.me/theorems/00f84ca6-30fd-4263-b482-1c537feb4059

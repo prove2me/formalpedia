@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wtNear_diag_bounds
 -- name    : GlobalTheory.wtNear_diag_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:19:03.578483+00:00
 -- url     : https://prove2.me/theorems/a5af165d-a222-4b4b-9417-645a431b4342

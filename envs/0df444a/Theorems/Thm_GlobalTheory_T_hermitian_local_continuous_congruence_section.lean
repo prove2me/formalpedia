@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_local_continuous_congruence_section
 -- name    : GlobalTheory.T.hermitian_local_continuous_congruence_section
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:57.31664+00:00
 -- url     : https://prove2.me/theorems/056e8052-d796-4c46-8e5c-1e3905b4b6d1

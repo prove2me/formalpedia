@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdCompMul_mul_mem
 -- name    : GlobalTheory.IdCompMul.mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:14:02.420936+00:00
 -- url     : https://prove2.me/theorems/76a26ce6-1656-430e-a3bb-0eb73e95afe0

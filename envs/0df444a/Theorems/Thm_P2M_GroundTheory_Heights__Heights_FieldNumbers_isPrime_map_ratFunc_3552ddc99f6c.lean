@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_isPrime_map_ratFunc_3552ddc99f6c
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_isPrime_map_ratFunc_3552ddc99f6c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:36.600579+00:00
 -- url     : https://prove2.me/theorems/021c88cf-2396-485a-9e35-cb9a65645177

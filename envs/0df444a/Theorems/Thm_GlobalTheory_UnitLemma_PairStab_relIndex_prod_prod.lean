@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_PairStab_relIndex_prod_prod
 -- name    : GlobalTheory.UnitLemma.PairStab.relIndex_prod_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:06:08.097299+00:00
 -- url     : https://prove2.me/theorems/5216e57f-7f82-465f-918e-1b34ad899cf3

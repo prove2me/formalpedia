@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_cm_th0Char
 -- name    : Formalism.L2.Th1.H.cm_th0Char
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:07:55.551797+00:00
 -- url     : https://prove2.me/theorems/0f3374ba-5cf8-4075-8114-57559861f176

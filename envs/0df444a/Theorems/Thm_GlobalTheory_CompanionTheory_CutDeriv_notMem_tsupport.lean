@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CutDeriv_notMem_tsupport
 -- name    : GlobalTheory.CompanionTheory.CutDeriv.notMem_tsupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:04:24.899546+00:00
 -- url     : https://prove2.me/theorems/7b0a6ea4-22b5-5743-a4e7-cfcf752b13e0

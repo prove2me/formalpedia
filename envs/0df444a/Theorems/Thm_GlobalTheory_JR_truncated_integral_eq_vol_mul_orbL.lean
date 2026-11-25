@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_truncated_integral_eq_vol_mul_orbL
 -- name    : GlobalTheory.JR.truncated_integral_eq_vol_mul_orbL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:40:31.113483+00:00
 -- url     : https://prove2.me/theorems/16e011d2-734b-4fd3-8712-452c5cdde8de

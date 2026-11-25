@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosJ_exists_isom
 -- name    : GlobalTheory.DegCnt.PosJ.exists_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:54:14.242892+00:00
 -- url     : https://prove2.me/theorems/a9e29f61-e0b2-4f1a-8845-5d39f1e030e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometric_mem_divSupp_and_multAt_eq_afb478e7eb95
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometric_mem_divSupp_and_multAt_eq_afb478e7eb95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:12.716433+00:00
 -- url     : https://prove2.me/theorems/7dc0af18-1439-4f1f-b541-f95dbf3e1e39

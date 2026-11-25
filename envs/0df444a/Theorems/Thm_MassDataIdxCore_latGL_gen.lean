@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_latGL_gen
 -- name    : MassDataIdxCore.latGL_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:36:34.825048+00:00
 -- url     : https://prove2.me/theorems/ac84b2e2-05f4-4af7-8d8e-d0915cebb150

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_isPrime_colon_7f6c5895fe4c
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_isPrime_colon_7f6c5895fe4c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:10.880011+00:00
 -- url     : https://prove2.me/theorems/a6fcf84e-a0ac-4291-86d2-dba0665ce28e

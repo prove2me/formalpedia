@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_SchrFamily_continuous_rhoSch
 -- name    : GlobalTheory.RealWeil.SchrFamily.continuous_rhoSch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:16:54.02413+00:00
 -- url     : https://prove2.me/theorems/db51a3c2-3558-48f8-95f3-f20f75bb3ae5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckUIso_dsW_map
 -- name    : GlobalTheory.CompanionTheory.ZuckUIso.dsW_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:02:50.908944+00:00
 -- url     : https://prove2.me/theorems/7bc11321-dea8-4526-a12e-f67de610511a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZExtend_prod_mem_pow_64615a997730
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZExtend_prod_mem_pow_64615a997730
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:08:26.555859+00:00
 -- url     : https://prove2.me/theorems/96dfcb33-f59f-493a-862d-82ae5f26c44d

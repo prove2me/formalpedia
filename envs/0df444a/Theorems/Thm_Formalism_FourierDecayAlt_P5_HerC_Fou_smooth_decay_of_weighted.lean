@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_smooth_decay_of_weighted
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.smooth_decay_of_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:18:40.357554+00:00
 -- url     : https://prove2.me/theorems/cf1f2859-8747-42aa-b349-2d3a4727445c

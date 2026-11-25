@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_unitsRep_eq_logLattice
 -- name    : GroundTheory.Global.cycHerbrand_unitsRep_eq_logLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:51:23.637721+00:00
 -- url     : https://prove2.me/theorems/2f7b4ea9-5067-4100-83b2-f1dac3deeec0

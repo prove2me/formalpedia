@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AddThm_P_sub_ne
 -- name    : Formalism.L2.Th1.E.AddThm.P_sub_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:06:09.226265+00:00
 -- url     : https://prove2.me/theorems/f7fb8ecd-11b3-55f9-8451-5be5e02a0b45

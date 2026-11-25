@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_addCharConductor_mulShift
 -- name    : GroundTheory.LocalField.addCharConductor_mulShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:33:11.119948+00:00
 -- url     : https://prove2.me/theorems/c851997d-caef-4a1e-a413-72921fb8990f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exponent_term
 -- name    : GlobalTheory.exponent_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:22:01.085892+00:00
 -- url     : https://prove2.me/theorems/53bf4937-692d-52aa-ba51-8c1db235b7e9

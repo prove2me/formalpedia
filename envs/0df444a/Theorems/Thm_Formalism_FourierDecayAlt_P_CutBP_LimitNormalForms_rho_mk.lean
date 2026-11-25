@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_rho_mk
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.rho_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:21:33.47468+00:00
 -- url     : https://prove2.me/theorems/d4a11824-0b31-46f0-9755-ce71211e8aff

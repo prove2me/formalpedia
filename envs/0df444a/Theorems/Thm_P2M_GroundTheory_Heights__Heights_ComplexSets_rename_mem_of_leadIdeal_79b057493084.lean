@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_rename_mem_of_leadIdeal_79b057493084
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_rename_mem_of_leadIdeal_79b057493084
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:14.479007+00:00
 -- url     : https://prove2.me/theorems/6baa3909-b7f4-47b2-a891-8cad55f0495c

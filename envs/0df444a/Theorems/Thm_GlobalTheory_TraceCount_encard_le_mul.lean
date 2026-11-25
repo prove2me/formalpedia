@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceCount_encard_le_mul
 -- name    : GlobalTheory.TraceCount.encard_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:22:22.476169+00:00
 -- url     : https://prove2.me/theorems/c49ce424-68c7-4528-9f7a-be10e916e67e

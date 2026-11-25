@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BorderDiffEq_lemma_4_23
 -- name    : BorderDiffEq.lemma_4_23
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-09T22:26:24.676385+00:00
 -- url     : https://prove2.me/theorems/b3c659e9-a680-4f99-b1c1-39eb9cf0b3b4

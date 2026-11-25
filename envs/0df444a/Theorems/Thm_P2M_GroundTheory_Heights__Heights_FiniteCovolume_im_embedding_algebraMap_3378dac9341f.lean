@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_im_embedding_algebraMap_3378dac9341f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_im_embedding_algebraMap_3378dac9341f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:40.749707+00:00
 -- url     : https://prove2.me/theorems/e5f12038-f456-568c-89a3-7838faaabf89

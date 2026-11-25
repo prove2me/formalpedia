@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exponent_sum_le
 -- name    : GlobalTheory.exponent_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:22:22.954375+00:00
 -- url     : https://prove2.me/theorems/d1a635ec-266e-440d-aace-b682cd2ddb94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_sob_mulPrin_le
 -- name    : GroundTheory.Automorphic.Sobolev.sob_mulPrin_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:14.283505+00:00
 -- url     : https://prove2.me/theorems/629a834f-997e-4973-bffa-acf0deca3b97

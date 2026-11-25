@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_cast_finsum
 -- name    : GlobalTheory.UnitLemma.LieEnd.cast_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:05:25.309228+00:00
 -- url     : https://prove2.me/theorems/e0edf99e-0062-4ae9-8d12-cb7732ae9977

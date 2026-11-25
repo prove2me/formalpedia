@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_ProjSpace_subsingleton_cechH_of_lt
 -- name    : GroundTheory.Arith.SchemeCoh.ProjSpace.subsingleton_cechH_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:59:34.380176+00:00
 -- url     : https://prove2.me/theorems/1ef6174f-c0f2-4cc4-a5c1-f39ce0be69d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_NormBaseChange_indexTwo_finite
 -- name    : GlobalTheory.QuadSymbol.NormBaseChange.indexTwo_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:12:20.871479+00:00
 -- url     : https://prove2.me/theorems/12215a29-60f3-4de6-ae17-c4529fabf337

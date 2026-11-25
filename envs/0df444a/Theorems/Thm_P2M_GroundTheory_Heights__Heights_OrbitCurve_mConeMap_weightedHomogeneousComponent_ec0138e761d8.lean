@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCurve_mConeMap_weightedHomogeneousComponent_ec0138e761d8
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCurve_mConeMap_weightedHomogeneousComponent_ec0138e761d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:05.418126+00:00
 -- url     : https://prove2.me/theorems/3cac575d-a8ac-4dfa-8a31-9052461ce999
