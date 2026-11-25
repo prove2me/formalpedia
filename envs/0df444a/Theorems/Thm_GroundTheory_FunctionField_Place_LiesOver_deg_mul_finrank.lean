@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_LiesOver_deg_mul_finrank
 -- name    : GroundTheory.FunctionField.Place.LiesOver.deg_mul_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:16.711894+00:00
 -- url     : https://prove2.me/theorems/3bf0a827-3779-47c0-acb5-3a36cf6e0d8e

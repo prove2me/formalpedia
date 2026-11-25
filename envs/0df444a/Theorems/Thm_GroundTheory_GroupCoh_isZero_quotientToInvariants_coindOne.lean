@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_quotientToInvariants_coindOne
 -- name    : GroundTheory.GroupCoh.isZero_quotientToInvariants_coindOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:43:18.769465+00:00
 -- url     : https://prove2.me/theorems/b1d1dc10-d572-4d83-b501-74bd64bff437

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integrable_realGaussianOdd
 -- name    : GroundTheory.Global.integrable_realGaussianOdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:41:02.218774+00:00
 -- url     : https://prove2.me/theorems/98c375a8-38d0-4b3e-ac42-82396c7330f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_complexGaussian_neg_natCast
 -- name    : GroundTheory.Global.complexGaussian_neg_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:27.894724+00:00
 -- url     : https://prove2.me/theorems/8b542c59-2429-4894-85a9-d2dd1de3ee6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasCyclicHerbrand_of_finite
 -- name    : GroundTheory.Global.hasCyclicHerbrand_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:58.368387+00:00
 -- url     : https://prove2.me/theorems/faeac313-0d97-49c0-a11b-1d7597c7ee81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_of_isLocalization
 -- name    : GlobalTheory.IsQuasiRegularSeq.of_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:33.613939+00:00
 -- url     : https://prove2.me/theorems/6dd5eb5e-5f48-494b-a595-a51dc1391e56

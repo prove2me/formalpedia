@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_range_repNorm
 -- name    : GroundTheory.GroupCoh.range_repNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:43:14.639846+00:00
 -- url     : https://prove2.me/theorems/41ca61f9-452b-4b56-8934-a246e9b36c89

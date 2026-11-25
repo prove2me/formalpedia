@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hasFiniteLength_of_surjective
 -- name    : GroundTheory.Automorphic.hasFiniteLength_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:24:50.557948+00:00
 -- url     : https://prove2.me/theorems/59857a75-78be-4af2-baaa-eb210575aea6

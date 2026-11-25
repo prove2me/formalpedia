@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_exists_linearIndependent_of_rat_independent
 -- name    : GlobalTheory.SW.exists_linearIndependent_of_rat_independent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:06:16.015995+00:00
 -- url     : https://prove2.me/theorems/5d833c95-b903-4d71-b23e-dff4124036ba

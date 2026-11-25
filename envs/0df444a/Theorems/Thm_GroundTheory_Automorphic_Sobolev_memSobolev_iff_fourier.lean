@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_memSobolev_iff_fourier
 -- name    : GroundTheory.Automorphic.Sobolev.memSobolev_iff_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:15:16.060951+00:00
 -- url     : https://prove2.me/theorems/c4cd5c15-11e1-41f1-b111-81e4c70ee5e3

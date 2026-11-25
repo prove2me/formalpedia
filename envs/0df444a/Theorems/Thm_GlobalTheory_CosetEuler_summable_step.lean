@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_summable_step
 -- name    : GlobalTheory.CosetEuler.summable_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:49:09.870635+00:00
 -- url     : https://prove2.me/theorems/f243c708-9952-4c34-a621-c79b1b840c77

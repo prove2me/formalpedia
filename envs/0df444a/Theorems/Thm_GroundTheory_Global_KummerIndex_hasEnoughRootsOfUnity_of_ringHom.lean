@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_KummerIndex_hasEnoughRootsOfUnity_of_ringHom
 -- name    : GroundTheory.Global.KummerIndex.hasEnoughRootsOfUnity_of_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:40:43.472421+00:00
 -- url     : https://prove2.me/theorems/38758f1e-8439-4a44-994d-6adac7871249

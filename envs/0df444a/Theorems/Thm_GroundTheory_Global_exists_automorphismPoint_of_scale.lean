@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_automorphismPoint_of_scale
 -- name    : GroundTheory.Global.exists_automorphismPoint_of_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:41:14.944624+00:00
 -- url     : https://prove2.me/theorems/4c8ef070-8608-4f3e-9514-7f13da6f4f0b

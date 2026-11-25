@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_norm_hurwitzCombTerm_le
 -- name    : GroundTheory.Global.Quadratic.norm_hurwitzCombTerm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:39:15.494223+00:00
 -- url     : https://prove2.me/theorems/b17f9510-8c5d-4246-8f39-b4145e54d619

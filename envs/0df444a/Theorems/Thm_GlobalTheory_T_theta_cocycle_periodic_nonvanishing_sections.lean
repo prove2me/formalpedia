@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_theta_cocycle_periodic_nonvanishing_sections
 -- name    : GlobalTheory.T.theta_cocycle_periodic_nonvanishing_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:59:42.297952+00:00
 -- url     : https://prove2.me/theorems/d622cc13-fa38-421a-8efa-2a90c01f46e8

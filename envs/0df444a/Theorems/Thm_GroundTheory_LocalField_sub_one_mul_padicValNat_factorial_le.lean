@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_sub_one_mul_padicValNat_factorial_le
 -- name    : GroundTheory.LocalField.sub_one_mul_padicValNat_factorial_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:44:45.364654+00:00
 -- url     : https://prove2.me/theorems/f1bd98db-d388-4cf3-bd4c-3d90dfffb532

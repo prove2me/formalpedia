@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_compl_degreeOnePrimes
 -- name    : GroundTheory.Global.compl_degreeOnePrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:40:18.048093+00:00
 -- url     : https://prove2.me/theorems/3f52c0a3-4c0b-4027-9c5a-b072c111838a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_det_algHom
 -- name    : KStar.Tree.det_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:50.803061+00:00
 -- url     : https://prove2.me/theorems/3baef392-e552-4f36-9f3c-6c0b16bd23de

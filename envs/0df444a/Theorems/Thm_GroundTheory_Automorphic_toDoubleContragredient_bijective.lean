@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_toDoubleContragredient_bijective
 -- name    : GroundTheory.Automorphic.toDoubleContragredient_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:25:24.600639+00:00
 -- url     : https://prove2.me/theorems/712b26ad-916a-4238-b489-373b996977b4

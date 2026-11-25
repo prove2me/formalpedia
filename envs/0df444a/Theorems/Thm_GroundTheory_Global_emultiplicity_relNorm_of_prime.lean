@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_emultiplicity_relNorm_of_prime
 -- name    : GroundTheory.Global.emultiplicity_relNorm_of_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:40:27.106001+00:00
 -- url     : https://prove2.me/theorems/517cbbd3-702a-4dc9-a428-71b1b1bef123

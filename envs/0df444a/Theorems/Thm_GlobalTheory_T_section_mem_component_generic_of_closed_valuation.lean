@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_section_mem_component_generic_of_closed_valuation
 -- name    : GlobalTheory.T.section_mem_component_generic_of_closed_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:58:08.306127+00:00
 -- url     : https://prove2.me/theorems/df560f0a-f5a3-4e24-a27d-38bd03fd6502

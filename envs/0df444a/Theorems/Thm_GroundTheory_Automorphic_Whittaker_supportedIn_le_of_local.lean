@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_supportedIn_le_of_local
 -- name    : GroundTheory.Automorphic.Whittaker.supportedIn_le_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:34:41.81579+00:00
 -- url     : https://prove2.me/theorems/196a71c5-64b4-4a06-af4c-c5add2d7386e

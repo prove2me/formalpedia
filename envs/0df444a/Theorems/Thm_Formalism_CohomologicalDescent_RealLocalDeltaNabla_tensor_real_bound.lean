@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_tensor_real_bound
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.tensor_real_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:08:44.333807+00:00
 -- url     : https://prove2.me/theorems/dacaf08f-fb86-48ec-a459-3849f330601d

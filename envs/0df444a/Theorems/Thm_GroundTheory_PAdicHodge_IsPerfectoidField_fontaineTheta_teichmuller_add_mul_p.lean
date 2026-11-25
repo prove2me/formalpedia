@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_fontaineTheta_teichmuller_add_mul_p
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.fontaineTheta_teichmuller_add_mul_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:03.550679+00:00
 -- url     : https://prove2.me/theorems/428d7382-450d-456b-b011-0cd976352128

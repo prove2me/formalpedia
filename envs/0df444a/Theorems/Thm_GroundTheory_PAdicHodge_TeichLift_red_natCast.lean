@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_red_natCast
 -- name    : GroundTheory.PAdicHodge.TeichLift.red_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:45:52.985512+00:00
 -- url     : https://prove2.me/theorems/f3529aef-dc69-4745-8767-b2bdc0d8e5c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_inv_pow_mul_pow_mem_inertia
 -- name    : GroundTheory.Global.inv_pow_mul_pow_mem_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:41:34.619964+00:00
 -- url     : https://prove2.me/theorems/de7f7286-0856-4774-ac9a-dc3537abb246

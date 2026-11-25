@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_omega_equiv_induced_fibre
 -- name    : GlobalTheory.T.omega_equiv_induced_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:48:36.091936+00:00
 -- url     : https://prove2.me/theorems/c532966e-6aba-4b32-90dd-4385b175edb4

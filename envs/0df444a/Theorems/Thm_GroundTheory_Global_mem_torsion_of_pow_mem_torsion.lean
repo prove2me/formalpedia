@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_torsion_of_pow_mem_torsion
 -- name    : GroundTheory.Global.mem_torsion_of_pow_mem_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:42:56.533808+00:00
 -- url     : https://prove2.me/theorems/c3654be1-fdbf-4296-adfb-ba10300d7c1d

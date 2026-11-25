@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_forall_pos_mul_realEmb
 -- name    : GroundTheory.Automorphic.exists_forall_pos_mul_realEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:36:30.588341+00:00
 -- url     : https://prove2.me/theorems/d3e48325-eb1f-43b8-b739-5b81bdbde9e6

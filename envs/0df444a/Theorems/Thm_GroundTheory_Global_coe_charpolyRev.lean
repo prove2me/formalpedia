@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coe_charpolyRev
 -- name    : GroundTheory.Global.coe_charpolyRev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:39:59.066032+00:00
 -- url     : https://prove2.me/theorems/d33919e3-e47f-401f-ab20-7804b8dd0f84

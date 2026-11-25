@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_normalBasis_integer
 -- name    : GroundTheory.LocalField.exists_normalBasis_integer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:20.458556+00:00
 -- url     : https://prove2.me/theorems/1b2a709c-3800-465f-b55e-a71377d3765d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_smooth_geometricallyIntegral_abLocus_tensorObj
 -- name    : GlobalTheory.smooth_geometricallyIntegral_abLocus_tensorObj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:41:41.578319+00:00
 -- url     : https://prove2.me/theorems/7d76737c-a4ee-445d-8a0a-a683286ba7aa

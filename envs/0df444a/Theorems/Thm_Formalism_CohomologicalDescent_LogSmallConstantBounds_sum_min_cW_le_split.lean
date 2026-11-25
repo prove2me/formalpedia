@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_sum_min_cW_le_split
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.sum_min_cW_le_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:45:06.81216+00:00
 -- url     : https://prove2.me/theorems/00ace33b-f2bb-4f67-b60f-a801607cf22f

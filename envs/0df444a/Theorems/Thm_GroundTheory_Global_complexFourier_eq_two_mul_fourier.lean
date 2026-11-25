@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_complexFourier_eq_two_mul_fourier
 -- name    : GroundTheory.Global.complexFourier_eq_two_mul_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:40:03.996406+00:00
 -- url     : https://prove2.me/theorems/82969c52-3d31-4894-bfe3-619eb49e73d9

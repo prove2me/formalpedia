@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_coindEmbeddingRange
 -- name    : GroundTheory.ProfCoh.mem_coindEmbeddingRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:51:11.964339+00:00
 -- url     : https://prove2.me/theorems/0479f233-3b04-475d-baf6-d6a8284bc33a

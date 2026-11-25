@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_invPrimitive_rect_sum
 -- name    : GroundTheory.Global.Elliptic.invPrimitive_rect_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:17.437618+00:00
 -- url     : https://prove2.me/theorems/cbeee108-9ba3-4ff1-954f-5863720c0ef2

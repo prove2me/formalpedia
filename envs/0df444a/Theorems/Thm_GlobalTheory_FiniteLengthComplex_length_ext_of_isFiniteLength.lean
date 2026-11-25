@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteLengthComplex_length_ext_of_isFiniteLength
 -- name    : GlobalTheory.FiniteLengthComplex.length_ext_of_isFiniteLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:01:36.385817+00:00
 -- url     : https://prove2.me/theorems/d27b6272-f659-4c61-9b4e-441a4f295e9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_normedField_properSpace
 -- name    : GroundTheory.LocalField.normedField_properSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:20.331021+00:00
 -- url     : https://prove2.me/theorems/30b4dcca-1904-423f-a4e0-cd29bbda93b3

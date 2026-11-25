@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finiteExtensionStructure_valuativeExtension
 -- name    : GroundTheory.LocalField.finiteExtensionStructure_valuativeExtension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:16:33.820414+00:00
 -- url     : https://prove2.me/theorems/bb58849b-636b-4452-9908-d54050a70b0d

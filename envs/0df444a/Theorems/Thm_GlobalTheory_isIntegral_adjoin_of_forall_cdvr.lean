@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_adjoin_of_forall_cdvr
 -- name    : GlobalTheory.isIntegral_adjoin_of_forall_cdvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:07:58.128637+00:00
 -- url     : https://prove2.me/theorems/4d0de679-937e-4222-b3e5-1c3763e407c8

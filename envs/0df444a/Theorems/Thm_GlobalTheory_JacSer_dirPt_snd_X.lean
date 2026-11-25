@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacSer_dirPt_snd_X
 -- name    : GlobalTheory.JacSer.dirPt_snd_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:07:22.265204+00:00
 -- url     : https://prove2.me/theorems/8bdb8c48-f6eb-43f0-8068-1565c9994469

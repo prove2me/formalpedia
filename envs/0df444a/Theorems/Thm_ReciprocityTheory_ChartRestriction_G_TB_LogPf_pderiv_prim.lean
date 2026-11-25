@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_pderiv_prim
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.pderiv_prim
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:52:20.615281+00:00
 -- url     : https://prove2.me/theorems/6fb8885b-f9d4-4c95-b48e-f6181c457b14

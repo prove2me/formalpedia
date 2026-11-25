@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_natCast_residueField_ne_zero
 -- name    : GroundTheory.ProfCoh.natCast_residueField_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:51:23.052847+00:00
 -- url     : https://prove2.me/theorems/55d07ce0-004c-4349-959d-e9690dbb742e

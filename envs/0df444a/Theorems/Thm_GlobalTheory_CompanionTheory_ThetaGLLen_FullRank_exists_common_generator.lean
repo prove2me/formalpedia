@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ThetaGLLen_FullRank_exists_common_generator
 -- name    : GlobalTheory.CompanionTheory.ThetaGLLen.FullRank.exists_common_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:40:56.141461+00:00
 -- url     : https://prove2.me/theorems/33971827-054e-4687-92eb-21c3bd969e55

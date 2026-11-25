@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_norm_khat_le_one
 -- name    : GroundTheory.Automorphic.LineKernel.norm_khat_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:38:22.308827+00:00
 -- url     : https://prove2.me/theorems/94467754-b132-43d8-89b8-63a5d5417e02

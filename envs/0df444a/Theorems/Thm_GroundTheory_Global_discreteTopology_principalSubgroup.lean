@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_discreteTopology_principalSubgroup
 -- name    : GroundTheory.Global.discreteTopology_principalSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:45:54.037451+00:00
 -- url     : https://prove2.me/theorems/e499ee28-6a22-45e8-96c2-da35521eee4a

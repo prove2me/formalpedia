@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_eq_of_differentiable_of_isPeriodic
 -- name    : GroundTheory.Global.Elliptic.eq_of_differentiable_of_isPeriodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:38:37.369967+00:00
 -- url     : https://prove2.me/theorems/0537054e-4791-4720-8a19-c28109a864a9

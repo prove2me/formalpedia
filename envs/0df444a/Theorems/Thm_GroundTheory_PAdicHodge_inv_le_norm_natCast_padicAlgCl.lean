@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_inv_le_norm_natCast_padicAlgCl
 -- name    : GroundTheory.PAdicHodge.inv_le_norm_natCast_padicAlgCl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:46:46.670683+00:00
 -- url     : https://prove2.me/theorems/5d226047-30af-4926-aff9-edcbdaba4d90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_StableFiltration_subsingleton_tateNegOne_gr_iff
 -- name    : GroundTheory.LocalField.StableFiltration.subsingleton_tateNegOne_gr_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:35.537926+00:00
 -- url     : https://prove2.me/theorems/22b0005b-5ed6-4904-88da-4f7bdcd84022

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_eq_one_of_forall_mem_unitsOneAdd
 -- name    : GroundTheory.PAdicHodge.SenTateChar.eq_one_of_forall_mem_unitsOneAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:45:54.869298+00:00
 -- url     : https://prove2.me/theorems/c0e67781-dc60-4105-bb74-6f20fa53b45a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isSimpleUnder_heckeOps
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isSimpleUnder_heckeOps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:27:33.247403+00:00
 -- url     : https://prove2.me/theorems/c38d4392-843d-4b6d-9268-9b129a449cbe

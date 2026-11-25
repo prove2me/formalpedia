@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ShortStep_lift_le
 -- name    : GlobalTheory.SW.ShortStep.lift_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:43.868241+00:00
 -- url     : https://prove2.me/theorems/9c8c1997-f9cf-489f-bde7-14dc07834229

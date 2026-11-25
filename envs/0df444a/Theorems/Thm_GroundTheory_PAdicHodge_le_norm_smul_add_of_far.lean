@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_le_norm_smul_add_of_far
 -- name    : GroundTheory.PAdicHodge.le_norm_smul_add_of_far
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:28.436827+00:00
 -- url     : https://prove2.me/theorems/445a9151-09e2-4abc-84b9-6738464cff0b

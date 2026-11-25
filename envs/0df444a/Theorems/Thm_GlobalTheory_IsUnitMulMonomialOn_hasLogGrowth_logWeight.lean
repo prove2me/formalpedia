@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsUnitMulMonomialOn_hasLogGrowth_logWeight
 -- name    : GlobalTheory.IsUnitMulMonomialOn.hasLogGrowth_logWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:55:47.055511+00:00
 -- url     : https://prove2.me/theorems/b1dc3070-1bce-4d31-9a42-b2b61dd0739d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_linearIndependent_col_iff_mulVec_eq_zero
 -- name    : GroundTheory.PAdicHodge.linearIndependent_col_iff_mulVec_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:35.839246+00:00
 -- url     : https://prove2.me/theorems/4240d383-4bd6-4422-8681-e2c82088273f

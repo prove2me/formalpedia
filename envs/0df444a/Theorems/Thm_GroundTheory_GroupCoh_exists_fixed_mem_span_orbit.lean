@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_exists_fixed_mem_span_orbit
 -- name    : GroundTheory.GroupCoh.exists_fixed_mem_span_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:43:07.768791+00:00
 -- url     : https://prove2.me/theorems/ae1cf49c-de94-4351-847d-c1ca89120e3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_eq_of_affineWeylGL_mem_doubleCoset
 -- name    : GroundTheory.Automorphic.GLnLocal.eq_of_affineWeylGL_mem_doubleCoset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:35:02.177316+00:00
 -- url     : https://prove2.me/theorems/605e5f7e-b53f-474e-b10b-1cda58aaeb94

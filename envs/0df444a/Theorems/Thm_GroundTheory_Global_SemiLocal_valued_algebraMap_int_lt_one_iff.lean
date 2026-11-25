@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_valued_algebraMap_int_lt_one_iff
 -- name    : GroundTheory.Global.SemiLocal.valued_algebraMap_int_lt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:18.847041+00:00
 -- url     : https://prove2.me/theorems/467e47a1-31a1-4455-bef0-148951f1b4e2

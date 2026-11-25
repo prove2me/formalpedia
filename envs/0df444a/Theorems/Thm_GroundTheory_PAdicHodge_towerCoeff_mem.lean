@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_towerCoeff_mem
 -- name    : GroundTheory.PAdicHodge.towerCoeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:47:36.977721+00:00
 -- url     : https://prove2.me/theorems/2ca17ad5-8779-46e6-8953-83bd3d1fbe6f

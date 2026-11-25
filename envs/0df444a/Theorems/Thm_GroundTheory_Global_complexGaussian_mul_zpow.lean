@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_complexGaussian_mul_zpow
 -- name    : GroundTheory.Global.complexGaussian_mul_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:17.820695+00:00
 -- url     : https://prove2.me/theorems/a8d81d56-8338-48be-ab6f-0bfd27db48a8

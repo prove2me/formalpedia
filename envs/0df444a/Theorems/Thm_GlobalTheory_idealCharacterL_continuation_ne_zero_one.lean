@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_idealCharacterL_continuation_ne_zero_one
 -- name    : GlobalTheory.idealCharacterL_continuation_ne_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:55:07.850916+00:00
 -- url     : https://prove2.me/theorems/7702c0d6-edbe-4dc5-9164-d72f66c78896

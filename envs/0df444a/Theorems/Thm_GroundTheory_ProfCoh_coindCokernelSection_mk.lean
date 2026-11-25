@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coindCokernelSection_mk
 -- name    : GroundTheory.ProfCoh.coindCokernelSection_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:48:31.830558+00:00
 -- url     : https://prove2.me/theorems/d303ba32-d8cc-4142-b83c-12cd4dd5c214

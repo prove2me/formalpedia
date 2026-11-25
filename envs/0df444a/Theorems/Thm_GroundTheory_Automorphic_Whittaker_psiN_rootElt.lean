@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_psiN_rootElt
 -- name    : GroundTheory.Automorphic.Whittaker.psiN_rootElt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:17:26.106503+00:00
 -- url     : https://prove2.me/theorems/a2af0065-00e9-471f-b922-5d4077dc01ea

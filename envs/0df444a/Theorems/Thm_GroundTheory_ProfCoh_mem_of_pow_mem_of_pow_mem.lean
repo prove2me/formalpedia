@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_of_pow_mem_of_pow_mem
 -- name    : GroundTheory.ProfCoh.mem_of_pow_mem_of_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:51:38.814935+00:00
 -- url     : https://prove2.me/theorems/ae1c7501-54ed-4095-b567-1cb496555fa4

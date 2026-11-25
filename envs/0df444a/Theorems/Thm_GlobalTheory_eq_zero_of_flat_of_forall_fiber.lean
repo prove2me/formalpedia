@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_flat_of_forall_fiber
 -- name    : GlobalTheory.eq_zero_of_flat_of_forall_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:18.185048+00:00
 -- url     : https://prove2.me/theorems/91bd8fc8-9e72-4cf2-8eff-8a17036d7e8e

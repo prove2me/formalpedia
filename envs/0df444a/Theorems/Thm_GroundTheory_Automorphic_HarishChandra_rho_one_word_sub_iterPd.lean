@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rho_one_word_sub_iterPd
 -- name    : GroundTheory.Automorphic.HarishChandra.rho_one_word_sub_iterPd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:14:53.58959+00:00
 -- url     : https://prove2.me/theorems/82c905b8-0078-4529-94f8-323ed55ebe52

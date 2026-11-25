@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_chowla_selberg_discriminant
 -- name    : GlobalTheory.chowla_selberg_discriminant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:03:31.507305+00:00
 -- url     : https://prove2.me/theorems/5e7f7add-cba6-457b-983b-05ca354cf67f

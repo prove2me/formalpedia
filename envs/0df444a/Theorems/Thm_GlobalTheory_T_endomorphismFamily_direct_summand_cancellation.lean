@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_endomorphismFamily_direct_summand_cancellation
 -- name    : GlobalTheory.T.endomorphismFamily_direct_summand_cancellation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:33:11.025788+00:00
 -- url     : https://prove2.me/theorems/7c89cbc5-fad5-4512-812d-31de8363f069

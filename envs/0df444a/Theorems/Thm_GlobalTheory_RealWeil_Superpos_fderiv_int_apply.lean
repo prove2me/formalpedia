@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Superpos_fderiv_int_apply
 -- name    : GlobalTheory.RealWeil.Superpos.fderiv_int_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:48:53.364334+00:00
 -- url     : https://prove2.me/theorems/514f151c-9c59-41ba-82b4-e1ff3f29e74d

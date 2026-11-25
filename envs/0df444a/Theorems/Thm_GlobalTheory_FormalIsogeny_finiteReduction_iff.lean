@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_finiteReduction_iff
 -- name    : GlobalTheory.FormalIsogeny.finiteReduction_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:01:55.248687+00:00
 -- url     : https://prove2.me/theorems/140a31c2-8247-484a-ad78-2ae6228fcc54

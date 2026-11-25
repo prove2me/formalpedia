@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coeffToRegular_eq_zero_iff
 -- name    : GroundTheory.ProfCoh.coeffToRegular_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:49:28.617468+00:00
 -- url     : https://prove2.me/theorems/de4a8d29-d0ad-4384-8aa8-431cee1d148d

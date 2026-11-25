@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_inner_mixedToEuclideanConj_mixedToEuclidean
 -- name    : GroundTheory.Global.inner_mixedToEuclideanConj_mixedToEuclidean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:42:22.594803+00:00
 -- url     : https://prove2.me/theorems/8fb69a1f-c998-4a2c-94ab-c332f3cc006b

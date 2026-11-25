@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_coe_targetLevel
 -- name    : GlobalTheory.SingleBlock.coe_targetLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:54:53.8677+00:00
 -- url     : https://prove2.me/theorems/db98d784-471a-4435-989f-2ba7718de787

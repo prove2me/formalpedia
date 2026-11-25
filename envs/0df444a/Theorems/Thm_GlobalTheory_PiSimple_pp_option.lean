@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PiSimple_pp_option
 -- name    : GlobalTheory.PiSimple.pp_option
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:45:42.368693+00:00
 -- url     : https://prove2.me/theorems/926def6b-a441-4c6e-8852-d73b0c241d1d

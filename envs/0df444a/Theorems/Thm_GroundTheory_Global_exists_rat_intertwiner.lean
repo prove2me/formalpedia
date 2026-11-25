@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_rat_intertwiner
 -- name    : GroundTheory.Global.exists_rat_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:41:47.521659+00:00
 -- url     : https://prove2.me/theorems/15c88241-4273-4270-9218-adcea014f933

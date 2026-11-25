@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_norm_untilt_eq_norm_natCast
 -- name    : GroundTheory.PAdicHodge.exists_norm_untilt_eq_norm_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:46:31.461929+00:00
 -- url     : https://prove2.me/theorems/1f6d86e9-3d76-4871-9a95-aad2b38c0b64

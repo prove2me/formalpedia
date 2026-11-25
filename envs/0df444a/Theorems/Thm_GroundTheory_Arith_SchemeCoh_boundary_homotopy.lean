@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_boundary_homotopy
 -- name    : GroundTheory.Arith.SchemeCoh.boundary_homotopy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:28:02.189725+00:00
 -- url     : https://prove2.me/theorems/f0d7d9a3-4573-4b28-9103-566277c5bb69

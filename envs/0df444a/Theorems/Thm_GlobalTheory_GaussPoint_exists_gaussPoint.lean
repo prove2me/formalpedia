@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaussPoint_exists_gaussPoint
 -- name    : GlobalTheory.GaussPoint.exists_gaussPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:00:18.2178+00:00
 -- url     : https://prove2.me/theorems/273530e4-1b01-44ca-9fce-f67301b9214a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_not_isEquiv_adicAbv
 -- name    : GroundTheory.Global.not_isEquiv_adicAbv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:42:08.680736+00:00
 -- url     : https://prove2.me/theorems/8d4f2e24-a232-4f13-9669-e134d7b437d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_isLocalHom_of_constantCoeff_mem
 -- name    : GlobalTheory.FormalIsogeny.isLocalHom_of_constantCoeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:01:08.085607+00:00
 -- url     : https://prove2.me/theorems/01d1f1cb-a630-4407-aae0-9fd0c6c86550

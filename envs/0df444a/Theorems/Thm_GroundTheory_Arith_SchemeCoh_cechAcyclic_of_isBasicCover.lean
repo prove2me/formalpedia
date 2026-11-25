@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_cechAcyclic_of_isBasicCover
 -- name    : GroundTheory.Arith.SchemeCoh.cechAcyclic_of_isBasicCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:22:35.44063+00:00
 -- url     : https://prove2.me/theorems/d351e656-fdcf-4078-a5e8-eb86398c21f7

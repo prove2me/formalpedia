@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_natCard_hexagon
 -- name    : GroundTheory.GroupCoh.natCard_hexagon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:43:05.683255+00:00
 -- url     : https://prove2.me/theorems/84924471-6858-4368-a427-e097535a37d2

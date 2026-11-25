@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_towerVec_mul
 -- name    : GroundTheory.PAdicHodge.normTrace_towerVec_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:48:15.263151+00:00
 -- url     : https://prove2.me/theorems/bc3b8c07-746f-4baf-b6a3-b57647efbc40

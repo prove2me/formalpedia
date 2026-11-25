@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_small_terms_le_of_log_four
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.small_terms_le_of_log_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:44:47.308375+00:00
 -- url     : https://prove2.me/theorems/233f1657-54d7-47fb-9289-77cff3564cd7

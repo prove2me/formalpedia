@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mvPowerSeries_eval_of_pow_mem
 -- name    : GlobalTheory.mvPowerSeries_eval_of_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:15:14.451842+00:00
 -- url     : https://prove2.me/theorems/ab775ece-85f5-46e5-8713-4a87684963e6

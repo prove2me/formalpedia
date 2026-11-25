@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_nonempty_of_mem_codiscrete
 -- name    : GroundTheory.Global.Elliptic.nonempty_of_mem_codiscrete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:41.170703+00:00
 -- url     : https://prove2.me/theorems/56ba8e20-2047-4071-a90d-5b3ae0c58798

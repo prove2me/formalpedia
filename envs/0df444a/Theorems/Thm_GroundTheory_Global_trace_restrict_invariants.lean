@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_trace_restrict_invariants
 -- name    : GroundTheory.Global.trace_restrict_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:19.404803+00:00
 -- url     : https://prove2.me/theorems/47246563-6cb6-494c-92b3-62c6a32a9e1e

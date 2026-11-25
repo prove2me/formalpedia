@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OfPeriod_sub_swap
 -- name    : GlobalTheory.OfPeriod.sub_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:09:18.688452+00:00
 -- url     : https://prove2.me/theorems/5ab82a29-35c1-4f86-9412-3a946aae5dac

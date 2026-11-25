@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_extensionEmbeddingOfIsReal_algebraMap
 -- name    : GroundTheory.ProfCoh.extensionEmbeddingOfIsReal_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:50:12.822132+00:00
 -- url     : https://prove2.me/theorems/a361be27-9787-4e90-b13f-86636048c555

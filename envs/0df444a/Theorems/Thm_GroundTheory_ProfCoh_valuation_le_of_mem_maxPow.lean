@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_valuation_le_of_mem_maxPow
 -- name    : GroundTheory.ProfCoh.valuation_le_of_mem_maxPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:51:50.343097+00:00
 -- url     : https://prove2.me/theorems/a892d56c-e8c7-4dcc-bc6d-d86fc27f987f

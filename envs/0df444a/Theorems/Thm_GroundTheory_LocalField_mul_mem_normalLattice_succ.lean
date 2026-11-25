@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mul_mem_normalLattice_succ
 -- name    : GroundTheory.LocalField.mul_mem_normalLattice_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:59.101783+00:00
 -- url     : https://prove2.me/theorems/7b7e11bf-96f3-4bcc-b173-13f3421a9b8e

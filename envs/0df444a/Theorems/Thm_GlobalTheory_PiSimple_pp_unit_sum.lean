@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PiSimple_pp_unit_sum
 -- name    : GlobalTheory.PiSimple.pp_unit_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:49:17.382171+00:00
 -- url     : https://prove2.me/theorems/2b092dd5-2cf8-4cd9-9ea2-281345d1a73f

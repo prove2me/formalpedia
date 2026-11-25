@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_continuous_modCharacter
 -- name    : GroundTheory.Global.Cyclotomic.continuous_modCharacter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:36:20.26357+00:00
 -- url     : https://prove2.me/theorems/92c5583d-3109-4415-8ce2-8a1083dac41a

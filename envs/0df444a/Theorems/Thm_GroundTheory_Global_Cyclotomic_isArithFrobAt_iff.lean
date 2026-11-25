@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_isArithFrobAt_iff
 -- name    : GroundTheory.Global.Cyclotomic.isArithFrobAt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:36:46.295468+00:00
 -- url     : https://prove2.me/theorems/d7328a01-9e5d-4fa1-8006-17c0fca0305f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreRegular_pd_quot
 -- name    : GlobalTheory.SerreRegular.pd_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:09:26.478466+00:00
 -- url     : https://prove2.me/theorems/f1d7928a-68c3-4117-b53f-cc413597a5cc

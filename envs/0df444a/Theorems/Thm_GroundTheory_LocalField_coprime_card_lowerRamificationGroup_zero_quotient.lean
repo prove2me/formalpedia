@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_coprime_card_lowerRamificationGroup_zero_quotient
 -- name    : GroundTheory.LocalField.coprime_card_lowerRamificationGroup_zero_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:30:26.359932+00:00
 -- url     : https://prove2.me/theorems/3e71898e-b99a-4b18-8476-12d4d8155794

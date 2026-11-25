@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_EqualChar_residue_teichmullerHom
 -- name    : GroundTheory.LocalField.EqualChar.residue_teichmullerHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:08.92427+00:00
 -- url     : https://prove2.me/theorems/3eb4f2f7-3f73-4c36-aeab-d23b2fea5965

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OfPeriod_apply_imPart
 -- name    : GlobalTheory.OfPeriod.apply_imPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:09:29.801703+00:00
 -- url     : https://prove2.me/theorems/4d5c19ee-006f-4cdb-9338-0b1187f125f2

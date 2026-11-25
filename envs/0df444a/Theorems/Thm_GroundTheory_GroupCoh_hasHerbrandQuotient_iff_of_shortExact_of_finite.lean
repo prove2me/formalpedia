@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_hasHerbrandQuotient_iff_of_shortExact_of_finite
 -- name    : GroundTheory.GroupCoh.hasHerbrandQuotient_iff_of_shortExact_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:43:21.240187+00:00
 -- url     : https://prove2.me/theorems/83dafdea-1063-4208-882c-9fde27c76cd2

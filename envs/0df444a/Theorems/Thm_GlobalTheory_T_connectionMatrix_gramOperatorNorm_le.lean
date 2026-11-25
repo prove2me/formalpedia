@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_connectionMatrix_gramOperatorNorm_le
 -- name    : GlobalTheory.T.connectionMatrix_gramOperatorNorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:54:55.126842+00:00
 -- url     : https://prove2.me/theorems/59710cdc-cb04-41b3-b024-156d2abe0507

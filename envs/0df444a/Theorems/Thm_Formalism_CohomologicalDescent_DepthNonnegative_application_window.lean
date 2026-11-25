@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_application_window
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.application_window
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:11:47.575835+00:00
 -- url     : https://prove2.me/theorems/5f44d5d2-0cb9-4ea9-95cc-ee416bb879be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_isWeaklyRegular_of_le_jacobson
 -- name    : GlobalTheory.flat_of_isWeaklyRegular_of_le_jacobson
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:33.861218+00:00
 -- url     : https://prove2.me/theorems/6b02116e-4cce-4f4a-befc-9b75f263bfde

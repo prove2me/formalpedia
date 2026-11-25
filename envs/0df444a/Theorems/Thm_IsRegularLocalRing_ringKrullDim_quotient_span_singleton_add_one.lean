@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsRegularLocalRing_ringKrullDim_quotient_span_singleton_add_one
 -- name    : IsRegularLocalRing.ringKrullDim_quotient_span_singleton_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:29.352798+00:00
 -- url     : https://prove2.me/theorems/9a10b445-1dca-4a4e-a90d-5dd3f298e6bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_weierstrassP_mul_eq_div
 -- name    : GlobalTheory.exists_weierstrassP_mul_eq_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:03:20.588569+00:00
 -- url     : https://prove2.me/theorems/ab14d7ab-0051-43aa-aad1-e8eb23e9db34

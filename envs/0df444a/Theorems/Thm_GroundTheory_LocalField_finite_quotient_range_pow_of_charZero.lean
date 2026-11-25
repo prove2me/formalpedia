@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finite_quotient_range_pow_of_charZero
 -- name    : GroundTheory.LocalField.finite_quotient_range_pow_of_charZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:31:23.434368+00:00
 -- url     : https://prove2.me/theorems/f53c2b90-fab4-49df-ae9f-942467492df5

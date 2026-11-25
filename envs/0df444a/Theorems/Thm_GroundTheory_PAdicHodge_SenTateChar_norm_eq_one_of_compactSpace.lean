@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_norm_eq_one_of_compactSpace
 -- name    : GroundTheory.PAdicHodge.SenTateChar.norm_eq_one_of_compactSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:45:39.488826+00:00
 -- url     : https://prove2.me/theorems/fd4e55c0-dcfe-4784-8796-fa403ae7a086

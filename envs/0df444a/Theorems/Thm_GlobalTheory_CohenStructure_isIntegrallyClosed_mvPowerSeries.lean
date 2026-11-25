@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenStructure_isIntegrallyClosed_mvPowerSeries
 -- name    : GlobalTheory.CohenStructure.isIntegrallyClosed_mvPowerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:06:17.396711+00:00
 -- url     : https://prove2.me/theorems/250b23ed-6076-4418-9d47-c71b27f77efb

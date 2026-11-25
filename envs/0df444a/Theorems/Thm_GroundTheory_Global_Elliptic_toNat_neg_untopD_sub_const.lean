@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_toNat_neg_untopD_sub_const
 -- name    : GroundTheory.Global.Elliptic.toNat_neg_untopD_sub_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:47.921843+00:00
 -- url     : https://prove2.me/theorems/104ac001-af4d-44a5-bca5-8d18da907d00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_range_restrictScalarsHom_iff
 -- name    : GroundTheory.ProfCoh.mem_range_restrictScalarsHom_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:50:56.495442+00:00
 -- url     : https://prove2.me/theorems/9b5064b4-a72e-47b5-a748-77e061c35968

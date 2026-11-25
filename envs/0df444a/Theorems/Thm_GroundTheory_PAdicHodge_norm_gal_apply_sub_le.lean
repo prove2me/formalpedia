@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_gal_apply_sub_le
 -- name    : GroundTheory.PAdicHodge.norm_gal_apply_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:47:29.591702+00:00
 -- url     : https://prove2.me/theorems/932c4158-3bf8-4431-ad98-4a8574ab0c9d

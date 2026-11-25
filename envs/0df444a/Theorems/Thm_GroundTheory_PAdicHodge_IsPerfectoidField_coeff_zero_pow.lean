@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_coeff_zero_pow
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.coeff_zero_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:37.379037+00:00
 -- url     : https://prove2.me/theorems/2b4fb6b5-f97e-41ae-aa8a-20cf236f9fed

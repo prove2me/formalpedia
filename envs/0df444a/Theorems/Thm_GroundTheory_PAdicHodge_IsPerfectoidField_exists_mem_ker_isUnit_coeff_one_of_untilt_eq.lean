@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_exists_mem_ker_isUnit_coeff_one_of_untilt_eq
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.exists_mem_ker_isUnit_coeff_one_of_untilt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:46:04.329959+00:00
 -- url     : https://prove2.me/theorems/9bbdff76-820f-45a0-babc-ce3b2e1da4e5

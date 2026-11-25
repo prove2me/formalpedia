@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_hasSum_offSet_summable
 -- name    : GlobalTheory.CosetEuler.hasSum_offSet_summable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:49:08.138543+00:00
 -- url     : https://prove2.me/theorems/dc2d9967-136e-4b11-8d6e-ea7aa086208e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_SobolevSpace_norm_lineDerivCLM_apply_le
 -- name    : GroundTheory.Automorphic.Sobolev.SobolevSpace.norm_lineDerivCLM_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:33:41.477662+00:00
 -- url     : https://prove2.me/theorems/cc81d372-6f3e-4cc6-b33b-f26189929d91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdMono_chart
 -- name    : GlobalTheory.SS.OrdMono.chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:50:40.997158+00:00
 -- url     : https://prove2.me/theorems/b46b101c-8ca0-4e09-ada3-408664c9ce68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_polar_cocycle_conj_eq
 -- name    : KStar.Tree.polar_cocycle_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:23.5836+00:00
 -- url     : https://prove2.me/theorems/44b19a0d-a9e3-43bb-9f40-92ef4b569911

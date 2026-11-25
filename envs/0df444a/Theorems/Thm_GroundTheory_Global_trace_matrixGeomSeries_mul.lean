@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_trace_matrixGeomSeries_mul
 -- name    : GroundTheory.Global.trace_matrixGeomSeries_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:06.896248+00:00
 -- url     : https://prove2.me/theorems/e5bdf9f7-d0b2-43b7-9b0c-e5c555494f39

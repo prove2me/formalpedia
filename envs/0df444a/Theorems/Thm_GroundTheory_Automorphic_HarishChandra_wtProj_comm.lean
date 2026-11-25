@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_wtProj_comm
 -- name    : GroundTheory.Automorphic.HarishChandra.wtProj_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:31:13.596789+00:00
 -- url     : https://prove2.me/theorems/39ef67b9-f37a-40e6-ae70-3dc70d028c37

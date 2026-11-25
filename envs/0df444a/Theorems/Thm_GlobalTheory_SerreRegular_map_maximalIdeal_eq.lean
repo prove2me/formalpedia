@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreRegular_map_maximalIdeal_eq
 -- name    : GlobalTheory.SerreRegular.map_maximalIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:08:30.00721+00:00
 -- url     : https://prove2.me/theorems/14facfae-46bf-4f58-94dd-f132dc34d001

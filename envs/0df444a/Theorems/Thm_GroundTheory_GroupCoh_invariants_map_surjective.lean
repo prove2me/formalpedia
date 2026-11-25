@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_invariants_map_surjective
 -- name    : GroundTheory.GroupCoh.invariants_map_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:43:53.106111+00:00
 -- url     : https://prove2.me/theorems/ccc55eb0-8e3f-4242-90d4-8d5d29cee892

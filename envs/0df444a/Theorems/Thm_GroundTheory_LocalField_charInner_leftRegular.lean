@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_charInner_leftRegular
 -- name    : GroundTheory.LocalField.charInner_leftRegular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:44:03.288531+00:00
 -- url     : https://prove2.me/theorems/8cc35a1c-5c5b-4224-a60a-61d9ccc64ff8

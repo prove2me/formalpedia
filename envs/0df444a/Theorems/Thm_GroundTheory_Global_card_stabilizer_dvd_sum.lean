@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_card_stabilizer_dvd_sum
 -- name    : GroundTheory.Global.card_stabilizer_dvd_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:41:49.103176+00:00
 -- url     : https://prove2.me/theorems/72781778-b729-4d4a-a7a2-950329333cbf

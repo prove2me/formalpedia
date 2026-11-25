@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsElementaryAt_isNilpotent
 -- name    : GroundTheory.LocalField.IsElementaryAt.isNilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:43:50.760361+00:00
 -- url     : https://prove2.me/theorems/67250ad2-42d0-47af-a6d1-426761eac569

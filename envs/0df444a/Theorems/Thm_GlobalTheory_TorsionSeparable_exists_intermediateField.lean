@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionSeparable_exists_intermediateField
 -- name    : GlobalTheory.TorsionSeparable.exists_intermediateField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:08:38.073925+00:00
 -- url     : https://prove2.me/theorems/ef6e9a15-ac37-456d-81cf-133d91dd5403

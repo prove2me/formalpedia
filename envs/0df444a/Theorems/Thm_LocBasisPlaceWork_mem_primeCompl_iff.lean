@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocBasisPlaceWork_mem_primeCompl_iff
 -- name    : LocBasisPlaceWork.mem_primeCompl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:51:55.852048+00:00
 -- url     : https://prove2.me/theorems/37555a90-b218-403b-8c57-c5b9c11a67b6

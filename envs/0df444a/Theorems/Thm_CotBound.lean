@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CotBound
 -- name    : CotBound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:26:46.2588+00:00
 -- url     : https://prove2.me/theorems/a80915f7-e18d-4ddf-9b15-3ae3f0e81e50

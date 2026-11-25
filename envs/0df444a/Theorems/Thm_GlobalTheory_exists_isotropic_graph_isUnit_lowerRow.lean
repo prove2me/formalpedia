@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isotropic_graph_isUnit_lowerRow
 -- name    : GlobalTheory.exists_isotropic_graph_isUnit_lowerRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:34:15.393872+00:00
 -- url     : https://prove2.me/theorems/bc6e01f8-c79c-43b4-b788-327bfcfe9c12

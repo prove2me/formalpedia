@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_fixedField_ker_character
 -- name    : GroundTheory.Global.Cyclotomic.fixedField_ker_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:36:46.349967+00:00
 -- url     : https://prove2.me/theorems/410f1647-cef4-4ead-9875-8f43246f0a4f

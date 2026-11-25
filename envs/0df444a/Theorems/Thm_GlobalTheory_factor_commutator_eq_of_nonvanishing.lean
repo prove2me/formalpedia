@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_factor_commutator_eq_of_nonvanishing
 -- name    : GlobalTheory.factor_commutator_eq_of_nonvanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:04:51.584052+00:00
 -- url     : https://prove2.me/theorems/2a174bbe-5517-4ef9-b588-025c9edd124f

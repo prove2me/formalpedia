@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isAdicComplete_integer
 -- name    : GroundTheory.Global.isAdicComplete_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:42:20.066364+00:00
 -- url     : https://prove2.me/theorems/353bf9dd-1a73-4f57-9139-a90065e396bf

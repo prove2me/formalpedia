@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_multiset_prod_le_pow_card
 -- name    : GroundTheory.PAdicHodge.norm_multiset_prod_le_pow_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:47:41.709219+00:00
 -- url     : https://prove2.me/theorems/b5e6cfe4-4a3a-499c-be6c-c0b3aa29a6e1

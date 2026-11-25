@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteCovolume_weighted_sup_drift_on_orthonormal_frames
 -- name    : GlobalTheory.FiniteCovolume.weighted_sup_drift_on_orthonormal_frames
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:30:45.046891+00:00
 -- url     : https://prove2.me/theorems/c4d00124-43bb-4ac0-a33d-f0b65391fc0a

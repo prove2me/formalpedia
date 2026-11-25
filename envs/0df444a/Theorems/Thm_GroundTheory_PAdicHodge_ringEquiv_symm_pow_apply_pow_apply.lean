@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ringEquiv_symm_pow_apply_pow_apply
 -- name    : GroundTheory.PAdicHodge.ringEquiv_symm_pow_apply_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:48:04.096024+00:00
 -- url     : https://prove2.me/theorems/909431f1-e892-4371-962a-c47ee34f832d

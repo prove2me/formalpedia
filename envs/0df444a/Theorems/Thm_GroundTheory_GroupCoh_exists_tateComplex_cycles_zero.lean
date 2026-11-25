@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_exists_tateComplex_cycles_zero
 -- name    : GroundTheory.GroupCoh.exists_tateComplex_cycles_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:36.539797+00:00
 -- url     : https://prove2.me/theorems/5672cb87-9db2-4867-bc1a-2782a90c4a89

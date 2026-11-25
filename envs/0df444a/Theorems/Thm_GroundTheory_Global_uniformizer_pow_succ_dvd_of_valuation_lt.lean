@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_uniformizer_pow_succ_dvd_of_valuation_lt
 -- name    : GroundTheory.Global.uniformizer_pow_succ_dvd_of_valuation_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:04.910041+00:00
 -- url     : https://prove2.me/theorems/476255ec-eecd-4216-a34b-01ab2bd55b4f

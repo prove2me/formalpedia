@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isUnit_of_mem_of_inv_mem
 -- name    : GroundTheory.Global.isUnit_of_mem_of_inv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:42:28.715034+00:00
 -- url     : https://prove2.me/theorems/48f20ee7-4fb8-4e1c-b126-838b14645a0b

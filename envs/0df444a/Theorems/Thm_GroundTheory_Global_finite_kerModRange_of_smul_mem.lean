@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_kerModRange_of_smul_mem
 -- name    : GroundTheory.Global.finite_kerModRange_of_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:41:12.807803+00:00
 -- url     : https://prove2.me/theorems/c23b4cb6-a2c5-4cbf-a758-cd0f9574e7f9

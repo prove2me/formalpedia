@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cosetAverage_mul_of_mem
 -- name    : GroundTheory.Global.cosetAverage_mul_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:42.532955+00:00
 -- url     : https://prove2.me/theorems/dc63a375-0445-4db9-986b-f66182ccd7f8

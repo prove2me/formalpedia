@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_natDegree_minpoly_eq_of_finrank_sup
 -- name    : GroundTheory.PAdicHodge.natDegree_minpoly_eq_of_finrank_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:46:31.509647+00:00
 -- url     : https://prove2.me/theorems/5ea8264b-089d-4c29-907b-5791542e5465

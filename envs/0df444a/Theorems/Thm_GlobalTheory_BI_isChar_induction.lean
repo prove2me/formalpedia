@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_induction
 -- name    : GlobalTheory.BI.isChar_induction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:15:42.961235+00:00
 -- url     : https://prove2.me/theorems/13562381-48ac-44b7-95d3-50e114833357

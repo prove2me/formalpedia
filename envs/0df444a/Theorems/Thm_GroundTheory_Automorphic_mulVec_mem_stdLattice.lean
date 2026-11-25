@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mulVec_mem_stdLattice
 -- name    : GroundTheory.Automorphic.mulVec_mem_stdLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:36:46.252112+00:00
 -- url     : https://prove2.me/theorems/fc8e6a49-ad2b-4ff8-9068-ec02c39efc5a

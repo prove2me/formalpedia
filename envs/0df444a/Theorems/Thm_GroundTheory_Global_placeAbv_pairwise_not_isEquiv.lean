@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_placeAbv_pairwise_not_isEquiv
 -- name    : GroundTheory.Global.placeAbv_pairwise_not_isEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:42:11.513581+00:00
 -- url     : https://prove2.me/theorems/d97e9afb-de40-4295-b5d4-f09f6b988ef1

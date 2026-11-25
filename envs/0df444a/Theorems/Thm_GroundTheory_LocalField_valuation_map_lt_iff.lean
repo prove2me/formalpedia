@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_valuation_map_lt_iff
 -- name    : GroundTheory.LocalField.valuation_map_lt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:44:35.322563+00:00
 -- url     : https://prove2.me/theorems/cbc50518-2aa3-4393-9c7d-95fa4558cbdc

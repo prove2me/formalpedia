@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_eq_integralGL_of_isCompact_of_le
 -- name    : GroundTheory.Automorphic.GLnLocal.eq_integralGL_of_isCompact_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:55:08.358345+00:00
 -- url     : https://prove2.me/theorems/82178c9c-b6c2-45fc-9e13-b35607c659fd

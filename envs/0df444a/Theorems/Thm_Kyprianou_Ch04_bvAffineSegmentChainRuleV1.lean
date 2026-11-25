@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvAffineSegmentChainRuleV1
 -- name    : Kyprianou.Ch04.bvAffineSegmentChainRuleV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:04:28.315645+00:00
 -- url     : https://prove2.me/theorems/7fe2fc91-4f96-4166-a5a3-408aad0e133a

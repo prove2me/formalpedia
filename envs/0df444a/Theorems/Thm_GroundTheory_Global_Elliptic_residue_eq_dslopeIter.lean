@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_residue_eq_dslopeIter
 -- name    : GroundTheory.Global.Elliptic.residue_eq_dslopeIter
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:17:15.977931+00:00
 -- url     : https://prove2.me/theorems/930aaa53-83e6-447d-b5b7-1804fca47798

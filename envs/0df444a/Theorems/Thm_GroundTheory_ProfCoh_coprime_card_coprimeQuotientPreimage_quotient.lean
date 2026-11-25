@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coprime_card_coprimeQuotientPreimage_quotient
 -- name    : GroundTheory.ProfCoh.coprime_card_coprimeQuotientPreimage_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:00.650905+00:00
 -- url     : https://prove2.me/theorems/d7bb4a12-73fb-4665-ba26-f73542d123de

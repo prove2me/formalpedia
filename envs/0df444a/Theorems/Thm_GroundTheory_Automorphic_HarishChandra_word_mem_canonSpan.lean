@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_word_mem_canonSpan
 -- name    : GroundTheory.Automorphic.HarishChandra.word_mem_canonSpan
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:06:56.438321+00:00
 -- url     : https://prove2.me/theorems/70d81b6a-0fd9-4952-8e37-e0dab66242ea

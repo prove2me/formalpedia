@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_theta_pair_det_twist
 -- name    : GlobalTheory.T.theta_pair_det_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:38:48.448127+00:00
 -- url     : https://prove2.me/theorems/feb7989d-226b-46e5-9bcf-977e7cb45579

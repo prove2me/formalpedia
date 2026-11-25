@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_rpow_le_of_exponent_mem
 -- name    : GroundTheory.Global.Quadratic.rpow_le_of_exponent_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:39:30.475301+00:00
 -- url     : https://prove2.me/theorems/80466e3b-02ea-4ab2-ad2c-718786a86d0e

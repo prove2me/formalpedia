@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_haarGLReal_eq_smul_map_kbHomeomorph
 -- name    : GroundTheory.Automorphic.haarGLReal_eq_smul_map_kbHomeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:36:50.48587+00:00
 -- url     : https://prove2.me/theorems/7bd1d37a-5575-4d2c-801e-63391faf0913

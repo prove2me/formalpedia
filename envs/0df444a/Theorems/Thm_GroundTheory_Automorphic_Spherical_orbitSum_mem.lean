@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_orbitSum_mem
 -- name    : GroundTheory.Automorphic.Spherical.orbitSum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:53:50.040155+00:00
 -- url     : https://prove2.me/theorems/ca0cbf1c-b2f4-4fa0-9987-58410b12118a

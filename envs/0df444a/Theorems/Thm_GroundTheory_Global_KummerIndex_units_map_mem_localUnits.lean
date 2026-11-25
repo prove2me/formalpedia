@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_KummerIndex_units_map_mem_localUnits
 -- name    : GroundTheory.Global.KummerIndex.units_map_mem_localUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:40:19.543434+00:00
 -- url     : https://prove2.me/theorems/48acab5f-fcd8-4923-994f-5f61dbe13cb8

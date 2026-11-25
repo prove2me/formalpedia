@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isSimpleUnder_winOps
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isSimpleUnder_winOps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:19.407942+00:00
 -- url     : https://prove2.me/theorems/6bed075a-0928-4db1-ac6a-b6e946a55da3

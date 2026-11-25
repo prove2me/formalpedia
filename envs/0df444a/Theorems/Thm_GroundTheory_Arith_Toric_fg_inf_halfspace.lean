@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_fg_inf_halfspace
 -- name    : GroundTheory.Arith.Toric.fg_inf_halfspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:29:17.290994+00:00
 -- url     : https://prove2.me/theorems/05b8e8ba-7752-48a6-ba8a-529cbf3b4988

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_index_range_powMonoidHom_real_of_even
 -- name    : GroundTheory.Global.index_range_powMonoidHom_real_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:31.896466+00:00
 -- url     : https://prove2.me/theorems/8b8daa25-aec0-49b1-9931-dff61eed6697

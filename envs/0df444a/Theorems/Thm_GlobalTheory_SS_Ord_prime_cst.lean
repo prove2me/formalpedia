@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_prime_cst
 -- name    : GlobalTheory.SS.Ord.prime_cst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:17:05.681731+00:00
 -- url     : https://prove2.me/theorems/9254d7f9-167d-4a7e-9f7b-7449c7e98ab6

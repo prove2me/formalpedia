@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PointFunction_exists_common_factor
 -- name    : GlobalTheory.PointFunction.exists_common_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:04:32.325256+00:00
 -- url     : https://prove2.me/theorems/33e69607-21ca-4059-b8be-769ec77f40ff

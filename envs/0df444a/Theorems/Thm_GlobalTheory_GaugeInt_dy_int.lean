@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeInt_dy_int
 -- name    : GlobalTheory.GaugeInt.dy_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:00:12.034771+00:00
 -- url     : https://prove2.me/theorems/97d734f5-f636-4f56-b861-ae15122db716

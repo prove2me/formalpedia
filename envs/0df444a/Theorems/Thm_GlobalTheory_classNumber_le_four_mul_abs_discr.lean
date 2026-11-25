@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_classNumber_le_four_mul_abs_discr
 -- name    : GlobalTheory.classNumber_le_four_mul_abs_discr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:12.311909+00:00
 -- url     : https://prove2.me/theorems/831c229c-bcc3-4a7e-87c6-92f9b755f55f

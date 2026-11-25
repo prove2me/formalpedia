@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_tateNorm_smul
 -- name    : GroundTheory.LocalField.tateNorm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:54.267127+00:00
 -- url     : https://prove2.me/theorems/5fa35e3c-d8a2-419f-a261-0d40b9300823

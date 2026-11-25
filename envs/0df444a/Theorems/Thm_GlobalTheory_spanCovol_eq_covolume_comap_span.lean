@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_spanCovol_eq_covolume_comap_span
 -- name    : GlobalTheory.spanCovol_eq_covolume_comap_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:21:29.945347+00:00
 -- url     : https://prove2.me/theorems/41a54be0-79f1-4ddc-a41e-da0b7289e905

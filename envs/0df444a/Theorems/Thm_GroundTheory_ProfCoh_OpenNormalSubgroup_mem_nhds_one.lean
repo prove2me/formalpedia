@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_OpenNormalSubgroup_mem_nhds_one
 -- name    : GroundTheory.ProfCoh.OpenNormalSubgroup.mem_nhds_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:18.367723+00:00
 -- url     : https://prove2.me/theorems/c81d9274-2e9a-4313-8c5b-8552a8fa0d02

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_g_of_not_finite
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.g_of_not_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:47:32.699692+00:00
 -- url     : https://prove2.me/theorems/ebcb89a4-239c-4ee3-b4b0-82c63f3d3d3e

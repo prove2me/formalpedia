@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isAdmissible_contragredient
 -- name    : GroundTheory.Automorphic.isAdmissible_contragredient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:32.324795+00:00
 -- url     : https://prove2.me/theorems/6e3a3153-1ee9-459c-a9b1-0a61882fb0c1

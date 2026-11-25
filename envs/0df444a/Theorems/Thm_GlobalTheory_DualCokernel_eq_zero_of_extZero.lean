@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualCokernel_eq_zero_of_extZero
 -- name    : GlobalTheory.DualCokernel.eq_zero_of_extZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:07:01.626101+00:00
 -- url     : https://prove2.me/theorems/59b84583-0e07-4399-b573-474941db1a47

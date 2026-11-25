@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadraticWeilFourier_preserves_test_additive
 -- name    : GlobalTheory.T.quadraticWeilFourier_preserves_test_additive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:55:27.961069+00:00
 -- url     : https://prove2.me/theorems/ba95e4f7-c684-46fe-b886-7c7d47d258f4

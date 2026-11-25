@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isIntertwiningMap_connecting
 -- name    : GroundTheory.ProfCoh.isIntertwiningMap_connecting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:51:00.056419+00:00
 -- url     : https://prove2.me/theorems/8fedecd4-10f8-4dd9-bc21-9306e3276100

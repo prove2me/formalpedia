@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_infinite_range_apply_of_transcendental
 -- name    : GroundTheory.Global.infinite_range_apply_of_transcendental
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:29.708921+00:00
 -- url     : https://prove2.me/theorems/5230052d-4e7e-4a0b-a48c-dc4c7031d593

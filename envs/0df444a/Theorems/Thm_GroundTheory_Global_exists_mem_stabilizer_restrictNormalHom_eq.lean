@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_mem_stabilizer_restrictNormalHom_eq
 -- name    : GroundTheory.Global.exists_mem_stabilizer_restrictNormalHom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:58.608819+00:00
 -- url     : https://prove2.me/theorems/be0c975f-83b3-4dda-af6b-b1a0d1adb085

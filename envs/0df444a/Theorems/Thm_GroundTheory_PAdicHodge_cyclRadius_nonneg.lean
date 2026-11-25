@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_cyclRadius_nonneg
 -- name    : GroundTheory.PAdicHodge.cyclRadius_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:12.467995+00:00
 -- url     : https://prove2.me/theorems/8fc1ff59-2e66-4363-9c6f-b6ef6218a9ce

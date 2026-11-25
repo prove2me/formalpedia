@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_ball_addChar_eq_one
 -- name    : GroundTheory.Automorphic.Whittaker.exists_ball_addChar_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:35:59.016599+00:00
 -- url     : https://prove2.me/theorems/7d55e0e9-dab5-4e11-864d-de604aef0d72

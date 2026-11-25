@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_sq_eq_integral_of_fourier
 -- name    : GroundTheory.Automorphic.Sobolev.norm_sq_eq_integral_of_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:32.017123+00:00
 -- url     : https://prove2.me/theorems/fa22faab-42ee-4be1-a177-05153765be03

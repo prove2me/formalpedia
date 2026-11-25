@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ProfiniteInteger_proj_surjective
 -- name    : GroundTheory.LocalField.Abstract.ProfiniteInteger.proj_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:57.116901+00:00
 -- url     : https://prove2.me/theorems/9a222763-49ff-4840-ba82-c041956583c4

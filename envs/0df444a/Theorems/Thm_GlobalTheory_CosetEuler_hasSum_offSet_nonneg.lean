@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_hasSum_offSet_nonneg
 -- name    : GlobalTheory.CosetEuler.hasSum_offSet_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:52.139697+00:00
 -- url     : https://prove2.me/theorems/70637b21-ad7b-4c56-985b-f8bfe782b644

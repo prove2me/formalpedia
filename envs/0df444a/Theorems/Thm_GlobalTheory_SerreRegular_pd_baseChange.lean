@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreRegular_pd_baseChange
 -- name    : GlobalTheory.SerreRegular.pd_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:09:12.444637+00:00
 -- url     : https://prove2.me/theorems/664730fe-d5fa-4c9d-8798-79bea82557f5

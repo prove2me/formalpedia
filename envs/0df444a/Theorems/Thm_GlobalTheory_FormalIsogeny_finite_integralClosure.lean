@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_finite_integralClosure
 -- name    : GlobalTheory.FormalIsogeny.finite_integralClosure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:01:14.343512+00:00
 -- url     : https://prove2.me/theorems/5c057f06-a8af-4ca1-8018-836603c3ee46

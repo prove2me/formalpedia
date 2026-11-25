@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualCokernel_exact_fibre
 -- name    : GlobalTheory.DualCokernel.exact_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:06:41.279484+00:00
 -- url     : https://prove2.me/theorems/bda2ab4b-6db9-43df-a352-6a460cf7dc56

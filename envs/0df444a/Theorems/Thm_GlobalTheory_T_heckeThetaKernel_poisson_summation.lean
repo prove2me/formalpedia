@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeThetaKernel_poisson_summation
 -- name    : GlobalTheory.T.heckeThetaKernel_poisson_summation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:06.379114+00:00
 -- url     : https://prove2.me/theorems/a6696a2e-93a0-4a25-ae22-1dd7a9b19d29

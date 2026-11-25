@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_differentIdeal_ringOfIntegers_rat
 -- name    : GroundTheory.Global.differentIdeal_ringOfIntegers_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:40:53.714751+00:00
 -- url     : https://prove2.me/theorems/4b1b7a93-45c7-4ad8-b5d6-27078598e75c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_not_dvd_choose_pow_of_lt
 -- name    : GroundTheory.PAdicHodge.not_dvd_choose_pow_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:47:17.364284+00:00
 -- url     : https://prove2.me/theorems/8fa256a3-643e-4852-bc13-2bb67b82ca74

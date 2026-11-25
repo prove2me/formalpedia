@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_poisson_summation_gaussian
 -- name    : GlobalTheory.T.poisson_summation_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:33.208295+00:00
 -- url     : https://prove2.me/theorems/6d004c76-e98a-4019-ab36-5de7151635e9

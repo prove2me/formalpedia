@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeChartRow_quad_decomp
 -- name    : GlobalTheory.HodgeChartRow.quad_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:02:17.470023+00:00
 -- url     : https://prove2.me/theorems/bdf8f1e1-7b0d-4add-bb2a-1f30ecefdbcd

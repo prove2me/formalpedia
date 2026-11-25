@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_trace_tensor_eq_sum
 -- name    : GroundTheory.Global.InfinitePlace.trace_tensor_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:39:22.287388+00:00
 -- url     : https://prove2.me/theorems/b0af9bd1-436c-4e4c-b20b-f0435e2c0924

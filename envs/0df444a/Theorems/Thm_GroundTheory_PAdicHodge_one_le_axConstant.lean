@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_one_le_axConstant
 -- name    : GroundTheory.PAdicHodge.one_le_axConstant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:47:27.100529+00:00
 -- url     : https://prove2.me/theorems/aae8abde-e0ab-45e0-a0f4-8e164a69c3d7

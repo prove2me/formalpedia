@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_TB_LogPf_degree_eq_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.TB.LogPf.degree_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:08:11.043367+00:00
 -- url     : https://prove2.me/theorems/b70ff17c-b767-48f0-bc96-002949979060

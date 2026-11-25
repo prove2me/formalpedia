@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isIntertwiningMap_torsNMap
 -- name    : GroundTheory.ProfCoh.isIntertwiningMap_torsNMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:51:06.228488+00:00
 -- url     : https://prove2.me/theorems/27906376-123e-4fd0-927f-720a2272d24d

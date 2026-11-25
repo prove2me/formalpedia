@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_dvd_choose_two
 -- name    : KStar.Tree.dvd_choose_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:45.578125+00:00
 -- url     : https://prove2.me/theorems/9572b61d-c4df-4f2a-a748-a5397d98dced

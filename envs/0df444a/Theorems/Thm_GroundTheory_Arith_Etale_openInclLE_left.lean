@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Etale_openInclLE_left
 -- name    : GroundTheory.Arith.Etale.openInclLE_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:05:40.799871+00:00
 -- url     : https://prove2.me/theorems/ce7dacf0-db3e-4728-93c2-fcf5c159665a

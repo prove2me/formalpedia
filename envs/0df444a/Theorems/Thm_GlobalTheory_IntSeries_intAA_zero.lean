@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSeries_intAA_zero
 -- name    : GlobalTheory.IntSeries.intAA_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:08:12.608722+00:00
 -- url     : https://prove2.me/theorems/a956e207-359b-44bb-aadc-2eff67802c73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_MinkowskiProductBounds_basis_one
 -- name    : GlobalTheory.SW.MinkowskiProductBounds.basis_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:55:44.495044+00:00
 -- url     : https://prove2.me/theorems/9dfca50a-5b51-4928-9c52-02dcf6811fd0

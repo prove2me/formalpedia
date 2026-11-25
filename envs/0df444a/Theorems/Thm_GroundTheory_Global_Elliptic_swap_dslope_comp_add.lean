@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_swap_dslope_comp_add
 -- name    : GroundTheory.Global.Elliptic.swap_dslope_comp_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:07.386594+00:00
 -- url     : https://prove2.me/theorems/10eb666a-de17-4d9d-ad1b-77b856485d32

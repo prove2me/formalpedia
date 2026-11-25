@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetCompare_lieEquiv_act
 -- name    : GlobalTheory.DetCompare.lieEquiv_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:06:23.079034+00:00
 -- url     : https://prove2.me/theorems/f8493272-4927-4284-8d03-8edd221735ac

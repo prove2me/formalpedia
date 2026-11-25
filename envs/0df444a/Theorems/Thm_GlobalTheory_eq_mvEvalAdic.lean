@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_mvEvalAdic
 -- name    : GlobalTheory.eq_mvEvalAdic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:17:28.982815+00:00
 -- url     : https://prove2.me/theorems/adf28d42-97b7-43ad-bb8a-55352d0bc06a

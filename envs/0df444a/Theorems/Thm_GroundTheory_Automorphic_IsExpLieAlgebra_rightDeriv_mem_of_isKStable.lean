@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_rightDeriv_mem_of_isKStable
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.rightDeriv_mem_of_isKStable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:31.336259+00:00
 -- url     : https://prove2.me/theorems/3d13d06f-df64-4dd2-9ab9-5fa69cb5dbfc

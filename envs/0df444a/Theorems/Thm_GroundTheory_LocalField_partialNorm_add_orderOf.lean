@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_partialNorm_add_orderOf
 -- name    : GroundTheory.LocalField.partialNorm_add_orderOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:07.680139+00:00
 -- url     : https://prove2.me/theorems/77416dec-327a-4ab1-8ea5-b5b7c1f0bd74

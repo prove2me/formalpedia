@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_TateModel_natCard_tateNegOne
 -- name    : GroundTheory.LocalField.Abstract.TateModel.natCard_tateNegOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:30.29844+00:00
 -- url     : https://prove2.me/theorems/8bfe6298-358e-4ddc-9d25-a9a7ec89c316

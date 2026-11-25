@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_one_add_uniformizer_pow_mul_pow_eq
 -- name    : GroundTheory.Global.exists_one_add_uniformizer_pow_mul_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:41:07.985808+00:00
 -- url     : https://prove2.me/theorems/e7fd7cf7-c6bc-4d3f-a027-dbc6ce97e671

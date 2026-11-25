@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_rectIntegral_zpow_sub
 -- name    : GroundTheory.Global.Elliptic.rectIntegral_zpow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:38:38.536354+00:00
 -- url     : https://prove2.me/theorems/d161e814-fdfa-4c0a-b8a7-5b8f553820ad

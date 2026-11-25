@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isRegularLocalRing_localization_of_smooth
 -- name    : GroundTheory.Arith.SchemeCoh.isRegularLocalRing_localization_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:37:44.02178+00:00
 -- url     : https://prove2.me/theorems/0cad3a2c-3646-45b9-a457-ebc99fe4b46c

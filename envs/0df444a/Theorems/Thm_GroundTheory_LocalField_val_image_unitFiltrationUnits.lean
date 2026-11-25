@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_val_image_unitFiltrationUnits
 -- name    : GroundTheory.LocalField.val_image_unitFiltrationUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:44:52.828814+00:00
 -- url     : https://prove2.me/theorems/11ffd8d1-f291-47fd-9794-9ce5a7024da5

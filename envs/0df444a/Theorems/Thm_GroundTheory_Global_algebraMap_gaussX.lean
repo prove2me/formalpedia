@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_algebraMap_gaussX
 -- name    : GroundTheory.Global.algebraMap_gaussX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:41:06.29264+00:00
 -- url     : https://prove2.me/theorems/9acfaf87-feee-4af2-8896-dd0d801de428

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_partialProd_mk_zero
 -- name    : GroundTheory.GroupCoh.partialProd_mk_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:43:26.559307+00:00
 -- url     : https://prove2.me/theorems/70f64e99-8d32-4ed5-8f6b-e1ec6875bf99

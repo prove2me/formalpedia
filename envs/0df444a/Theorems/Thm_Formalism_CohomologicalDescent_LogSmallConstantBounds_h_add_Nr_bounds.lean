@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_h_add_Nr_bounds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.h_add_Nr_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:44:35.388635+00:00
 -- url     : https://prove2.me/theorems/f0d846f0-cc9f-4a33-bcb1-9b8f6756a0e5

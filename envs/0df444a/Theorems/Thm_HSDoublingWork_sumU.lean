@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HSDoublingWork_sumU
 -- name    : HSDoublingWork.sumU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:14.11713+00:00
 -- url     : https://prove2.me/theorems/f737e117-428b-454c-a240-0e3f4a6812f3

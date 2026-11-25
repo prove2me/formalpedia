@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_ofNat_index_sup_antitone
 -- name    : GroundTheory.ProfCoh.ofNat_index_sup_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:50:54.674037+00:00
 -- url     : https://prove2.me/theorems/fd575487-ac51-42a3-8a22-a51d5c9e217e

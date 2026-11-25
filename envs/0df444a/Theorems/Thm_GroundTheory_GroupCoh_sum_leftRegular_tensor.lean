@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_sum_leftRegular_tensor
 -- name    : GroundTheory.GroupCoh.sum_leftRegular_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:43:20.156537+00:00
 -- url     : https://prove2.me/theorems/d8794dcf-2f4f-42c0-bd5b-c122056c8b5b

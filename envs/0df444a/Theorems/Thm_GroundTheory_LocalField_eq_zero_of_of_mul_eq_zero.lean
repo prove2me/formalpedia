@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_zero_of_of_mul_eq_zero
 -- name    : GroundTheory.LocalField.eq_zero_of_of_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:58.3568+00:00
 -- url     : https://prove2.me/theorems/e2f96831-276d-4fb7-b1fa-1fd4651ff855

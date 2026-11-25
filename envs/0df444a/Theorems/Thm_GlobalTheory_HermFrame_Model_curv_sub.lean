@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_Model_curv_sub
 -- name    : GlobalTheory.HermFrame.Model.curv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:44:11.438682+00:00
 -- url     : https://prove2.me/theorems/23474011-5589-41d3-8d9e-71a7704e2bb0

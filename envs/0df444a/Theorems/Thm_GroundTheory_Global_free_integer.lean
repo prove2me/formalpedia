@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_free_integer
 -- name    : GroundTheory.Global.free_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:41:35.038092+00:00
 -- url     : https://prove2.me/theorems/0a5a0760-1648-453e-aad0-a343b6602244

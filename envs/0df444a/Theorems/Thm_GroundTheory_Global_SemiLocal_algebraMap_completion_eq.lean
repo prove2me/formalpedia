@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_algebraMap_completion_eq
 -- name    : GroundTheory.Global.SemiLocal.algebraMap_completion_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:39:34.552242+00:00
 -- url     : https://prove2.me/theorems/d2ca7ede-b9d0-4437-a7cf-7c3af5503eec

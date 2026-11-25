@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_character_prod
 -- name    : GroundTheory.ProfCoh.character_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:48:04.444345+00:00
 -- url     : https://prove2.me/theorems/c797f56c-5f29-432f-8caf-3975c8c74994

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eq_zero_of_forall_mem_maximalIdeal_pow
 -- name    : GroundTheory.Global.eq_zero_of_forall_mem_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:40:27.752468+00:00
 -- url     : https://prove2.me/theorems/3d58bf4c-9b87-4a12-8b3a-7e56e2c4a674

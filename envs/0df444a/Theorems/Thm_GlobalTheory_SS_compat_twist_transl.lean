@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_compat_twist_transl
 -- name    : GlobalTheory.SS.compat_twist_transl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:18:45.678506+00:00
 -- url     : https://prove2.me/theorems/e3a38c00-7fb6-4c65-8091-c07907168cf2

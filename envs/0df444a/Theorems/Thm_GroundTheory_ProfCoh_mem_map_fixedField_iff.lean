@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_map_fixedField_iff
 -- name    : GroundTheory.ProfCoh.mem_map_fixedField_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:51:16.669408+00:00
 -- url     : https://prove2.me/theorems/1b904e46-cb89-4a8d-99da-22d8a37ceac6

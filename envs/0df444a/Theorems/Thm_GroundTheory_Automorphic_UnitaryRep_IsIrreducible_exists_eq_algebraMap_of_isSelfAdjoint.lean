@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_IsIrreducible_exists_eq_algebraMap_of_isSelfAdjoint
 -- name    : GroundTheory.Automorphic.UnitaryRep.IsIrreducible.exists_eq_algebraMap_of_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:33:42.018797+00:00
 -- url     : https://prove2.me/theorems/272ad22f-2c79-4a7e-ae41-1aa4cc869e78

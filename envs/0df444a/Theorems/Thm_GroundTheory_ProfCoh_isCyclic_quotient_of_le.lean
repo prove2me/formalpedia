@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isCyclic_quotient_of_le
 -- name    : GroundTheory.ProfCoh.isCyclic_quotient_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:52:13.832839+00:00
 -- url     : https://prove2.me/theorems/68748399-a64e-4250-a32e-e3915b067019

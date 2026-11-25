@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteLevel_antitone
 -- name    : GroundTheory.Global.IdeleGroup.finiteLevel_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:28.888905+00:00
 -- url     : https://prove2.me/theorems/005688c5-e42a-4a04-b8d4-ba45e351873e

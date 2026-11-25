@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_four_mul_padicValNat_le
 -- name    : GroundTheory.LocalField.four_mul_padicValNat_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:10:13.723577+00:00
 -- url     : https://prove2.me/theorems/e2237435-0f0f-4564-9c06-a8718af14dcc

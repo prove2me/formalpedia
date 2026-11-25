@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFJ_hasSum_fiber_of_hasSum_line
 -- name    : GlobalTheory.LaurentFJ.hasSum_fiber_of_hasSum_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:04:23.445341+00:00
 -- url     : https://prove2.me/theorems/04ed95b3-5fce-4c8b-b8a8-37983408f122

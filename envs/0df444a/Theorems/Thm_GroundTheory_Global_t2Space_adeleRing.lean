@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_t2Space_adeleRing
 -- name    : GroundTheory.Global.t2Space_adeleRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:24.246854+00:00
 -- url     : https://prove2.me/theorems/b06acf12-ff28-483e-9e74-f5c38ad80e95

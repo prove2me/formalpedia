@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_classNumber_le_of_finrank_eq_two_mul
 -- name    : GlobalTheory.classNumber_le_of_finrank_eq_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:07:35.343982+00:00
 -- url     : https://prove2.me/theorems/2f7a22fe-4250-4ab3-878e-75a90fec587e

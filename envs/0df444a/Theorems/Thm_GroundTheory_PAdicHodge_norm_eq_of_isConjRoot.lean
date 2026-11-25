@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_eq_of_isConjRoot
 -- name    : GroundTheory.PAdicHodge.norm_eq_of_isConjRoot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:38.848998+00:00
 -- url     : https://prove2.me/theorems/a6df9331-b3f0-47c6-8558-5422909b5830

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_Supernatural_iSup_mul_iSup
 -- name    : GroundTheory.ProfCoh.Supernatural.iSup_mul_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:09.963195+00:00
 -- url     : https://prove2.me/theorems/0ed252cf-d068-4834-b69d-5b858bcd8e92

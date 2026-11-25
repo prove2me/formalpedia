@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_taylor_eq_iff
 -- name    : GlobalTheory.taylor_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:42.621673+00:00
 -- url     : https://prove2.me/theorems/cbbaabf9-790e-4e4d-b6b5-6e8e5c49d2b5

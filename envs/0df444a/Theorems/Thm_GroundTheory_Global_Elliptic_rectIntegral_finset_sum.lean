@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_rectIntegral_finset_sum
 -- name    : GroundTheory.Global.Elliptic.rectIntegral_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:15.578602+00:00
 -- url     : https://prove2.me/theorems/d4e528a9-807e-4cf4-ba01-d532e74bc36c

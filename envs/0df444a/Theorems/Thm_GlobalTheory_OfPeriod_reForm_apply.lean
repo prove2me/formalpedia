@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OfPeriod_reForm_apply
 -- name    : GlobalTheory.OfPeriod.reForm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:09:36.60669+00:00
 -- url     : https://prove2.me/theorems/ed44e009-85fb-4c67-ba06-0d53a93d5b8c

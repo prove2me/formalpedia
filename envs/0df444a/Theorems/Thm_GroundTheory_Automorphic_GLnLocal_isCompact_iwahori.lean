@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_isCompact_iwahori
 -- name    : GroundTheory.Automorphic.GLnLocal.isCompact_iwahori
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:31:02.399227+00:00
 -- url     : https://prove2.me/theorems/5d4b9c24-4b7c-4e0e-9f87-64a583f8692e

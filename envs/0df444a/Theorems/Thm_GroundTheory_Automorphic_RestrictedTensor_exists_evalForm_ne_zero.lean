@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_exists_evalForm_ne_zero
 -- name    : GroundTheory.Automorphic.RestrictedTensor.exists_evalForm_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:32:56.275114+00:00
 -- url     : https://prove2.me/theorems/04fcbc6a-f46c-4e9d-8734-1a4194327693

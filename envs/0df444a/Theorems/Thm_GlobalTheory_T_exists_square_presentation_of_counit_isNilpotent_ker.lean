@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_square_presentation_of_counit_isNilpotent_ker
 -- name    : GlobalTheory.T.exists_square_presentation_of_counit_isNilpotent_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:38:49.368884+00:00
 -- url     : https://prove2.me/theorems/314623d3-9b5f-44d7-8d49-da1e4a0a0202

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_complexFourier_complexGaussian_zero
 -- name    : GroundTheory.Global.complexFourier_complexGaussian_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:40:15.12646+00:00
 -- url     : https://prove2.me/theorems/2a9d3920-7f12-4903-aa99-189059242a6f

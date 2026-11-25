@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_torsN_of_exact
 -- name    : GroundTheory.ProfCoh.finite_torsN_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:43.939365+00:00
 -- url     : https://prove2.me/theorems/c5ff3d78-ac29-4ea1-b1fe-b7ed2a4e9416

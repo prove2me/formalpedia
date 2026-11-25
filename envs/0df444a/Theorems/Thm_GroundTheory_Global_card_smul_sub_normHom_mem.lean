@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_card_smul_sub_normHom_mem
 -- name    : GroundTheory.Global.card_smul_sub_normHom_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:40:42.998517+00:00
 -- url     : https://prove2.me/theorems/3f96120d-64f6-4a81-b34d-94b62d51d013

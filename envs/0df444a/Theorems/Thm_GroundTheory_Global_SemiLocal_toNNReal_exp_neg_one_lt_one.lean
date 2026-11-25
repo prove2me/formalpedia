@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_toNNReal_exp_neg_one_lt_one
 -- name    : GroundTheory.Global.SemiLocal.toNNReal_exp_neg_one_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:17.958388+00:00
 -- url     : https://prove2.me/theorems/a1f7f4f9-683e-4463-af95-258df5e4f2eb

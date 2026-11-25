@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_ramified_dvd_differentIdeal
 -- name    : GroundTheory.ProfCoh.ramified_dvd_differentIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:50:57.786312+00:00
 -- url     : https://prove2.me/theorems/7fece830-04a5-4015-8938-ebd8747991a6

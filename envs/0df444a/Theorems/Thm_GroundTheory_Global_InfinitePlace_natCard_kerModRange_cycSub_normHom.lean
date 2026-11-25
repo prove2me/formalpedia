@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_natCard_kerModRange_cycSub_normHom
 -- name    : GroundTheory.Global.InfinitePlace.natCard_kerModRange_cycSub_normHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:37.010616+00:00
 -- url     : https://prove2.me/theorems/9183a190-7159-4067-80d3-8d0b6ffbee2f

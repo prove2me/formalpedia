@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_CharZero_isEquiv_comap_padicHom
 -- name    : GroundTheory.LocalField.CharZero.isEquiv_comap_padicHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:56.665026+00:00
 -- url     : https://prove2.me/theorems/ccd5e2c1-d711-4094-b0a2-e59d43699528

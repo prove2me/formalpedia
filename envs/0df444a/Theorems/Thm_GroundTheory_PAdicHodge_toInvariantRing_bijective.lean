@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_toInvariantRing_bijective
 -- name    : GroundTheory.PAdicHodge.toInvariantRing_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:47:22.414199+00:00
 -- url     : https://prove2.me/theorems/9905c9a0-a238-452f-beab-e789450102fc

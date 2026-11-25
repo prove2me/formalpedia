@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_integer_smul_cancel
 -- name    : GroundTheory.LocalField.integer_smul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:44:54.147851+00:00
 -- url     : https://prove2.me/theorems/192e7e2c-df6b-4725-8218-2879c3c7e3aa

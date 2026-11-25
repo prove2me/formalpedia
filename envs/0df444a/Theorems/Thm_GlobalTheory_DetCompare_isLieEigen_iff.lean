@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetCompare_isLieEigen_iff
 -- name    : GlobalTheory.DetCompare.isLieEigen_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:05:55.660809+00:00
 -- url     : https://prove2.me/theorems/4900a98d-780f-43ac-9e26-188db5667af8

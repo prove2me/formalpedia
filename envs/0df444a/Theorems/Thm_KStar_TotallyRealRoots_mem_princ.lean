@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_TotallyRealRoots_mem_princ
 -- name    : KStar.TotallyRealRoots.mem_princ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:37.467571+00:00
 -- url     : https://prove2.me/theorems/6b83d311-aa7a-4963-9185-3341b4362cdb

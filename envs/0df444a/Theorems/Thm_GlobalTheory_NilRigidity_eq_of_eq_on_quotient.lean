@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilRigidity_eq_of_eq_on_quotient
 -- name    : GlobalTheory.NilRigidity.eq_of_eq_on_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:17:04.752871+00:00
 -- url     : https://prove2.me/theorems/e38ec24b-3625-4c46-8cc5-998d5ceceeb8

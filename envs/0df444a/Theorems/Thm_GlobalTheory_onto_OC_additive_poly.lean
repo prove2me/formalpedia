@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_onto_OC_additive_poly
 -- name    : GlobalTheory.onto_OC_additive_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:13:18.38695+00:00
 -- url     : https://prove2.me/theorems/56d22ea4-82b0-4792-8e23-454b885b5f1a

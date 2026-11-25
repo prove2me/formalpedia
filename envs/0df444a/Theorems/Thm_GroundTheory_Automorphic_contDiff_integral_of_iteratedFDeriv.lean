@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_contDiff_integral_of_iteratedFDeriv
 -- name    : GroundTheory.Automorphic.contDiff_integral_of_iteratedFDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:38:24.289175+00:00
 -- url     : https://prove2.me/theorems/8c17435d-583c-4fac-a8d8-59677daf2884

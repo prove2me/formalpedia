@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_trdeg_residueField_of_trdeg
 -- name    : GlobalTheory.trdeg_residueField_of_trdeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:23:54.196052+00:00
 -- url     : https://prove2.me/theorems/890ad78b-83ac-4df2-a8f8-84bf16a308fa

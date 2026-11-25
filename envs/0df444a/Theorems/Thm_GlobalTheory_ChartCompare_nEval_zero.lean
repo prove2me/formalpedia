@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCompare_nEval_zero
 -- name    : GlobalTheory.ChartCompare.nEval_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:08:40.262812+00:00
 -- url     : https://prove2.me/theorems/bf857b8d-7538-4265-8877-0d573b6960dd

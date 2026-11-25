@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_natCard_subtype_eq_sum_natCard_fiber
 -- name    : GroundTheory.ProfCoh.natCard_subtype_eq_sum_natCard_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:50:57.796507+00:00
 -- url     : https://prove2.me/theorems/994182e1-0693-4696-861e-5cd31ee71e0f

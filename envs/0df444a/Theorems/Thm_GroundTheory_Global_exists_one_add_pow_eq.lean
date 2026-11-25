@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_one_add_pow_eq
 -- name    : GroundTheory.Global.exists_one_add_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:41:22.334237+00:00
 -- url     : https://prove2.me/theorems/993b7d06-6d20-48cd-8f3b-5a7384d336e8

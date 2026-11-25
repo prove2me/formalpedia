@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rowOp_shift
 -- name    : GroundTheory.Automorphic.HarishChandra.rowOp_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:31:20.056863+00:00
 -- url     : https://prove2.me/theorems/d5a5b0a2-d94d-4286-b35a-41269cfe6493

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_filtrationComplete_unitFiltration
 -- name    : GroundTheory.Global.filtrationComplete_unitFiltration
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:19:18.010813+00:00
 -- url     : https://prove2.me/theorems/914fae1e-22af-4a59-aac1-66bb13b63f5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_const_of_meromorphicOrderAt_nonneg
 -- name    : GroundTheory.Global.Elliptic.exists_const_of_meromorphicOrderAt_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:27.378733+00:00
 -- url     : https://prove2.me/theorems/f7053672-33fb-4bec-adc1-6b3b3ef82e90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_nonempty_basicOpen_inter
 -- name    : GlobalTheory.SS.Ord.nonempty_basicOpen_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:16:38.903472+00:00
 -- url     : https://prove2.me/theorems/2deade74-7c77-494f-8177-36d4c21fdd75

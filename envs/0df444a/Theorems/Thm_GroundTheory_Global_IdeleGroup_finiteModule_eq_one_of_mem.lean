@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteModule_eq_one_of_mem
 -- name    : GroundTheory.Global.IdeleGroup.finiteModule_eq_one_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:14:34.754504+00:00
 -- url     : https://prove2.me/theorems/83953557-b0cc-4b5e-83b4-85e32bcfbc41

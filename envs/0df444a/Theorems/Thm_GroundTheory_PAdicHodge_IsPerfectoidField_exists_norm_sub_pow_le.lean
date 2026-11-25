@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_exists_norm_sub_pow_le
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.exists_norm_sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:45:45.488863+00:00
 -- url     : https://prove2.me/theorems/38148cb8-5a02-4a03-bf75-ec551696c6b9

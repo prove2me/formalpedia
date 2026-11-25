@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_continuous_toZModPow
 -- name    : GroundTheory.Global.Cyclotomic.continuous_toZModPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:37:04.5648+00:00
 -- url     : https://prove2.me/theorems/c3636cc0-77aa-48f9-98d4-87d9e9be2ea2

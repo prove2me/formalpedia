@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_derivWeierstrassP_mul_eq
 -- name    : GlobalTheory.derivWeierstrassP_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:08:27.24899+00:00
 -- url     : https://prove2.me/theorems/f147e8b9-44ee-4d46-bcbc-d2bf12fab37d

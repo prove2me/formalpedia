@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_continuous_finiteComponent
 -- name    : GroundTheory.Global.IdeleGroup.continuous_finiteComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:39:48.396181+00:00
 -- url     : https://prove2.me/theorems/b382a975-20db-4343-bd6a-2d0232279fe2

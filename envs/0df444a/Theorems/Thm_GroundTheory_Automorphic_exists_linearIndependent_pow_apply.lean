@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_linearIndependent_pow_apply
 -- name    : GroundTheory.Automorphic.exists_linearIndependent_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:34:53.539386+00:00
 -- url     : https://prove2.me/theorems/fc4562fc-0eda-4672-94b5-7608c973f17c

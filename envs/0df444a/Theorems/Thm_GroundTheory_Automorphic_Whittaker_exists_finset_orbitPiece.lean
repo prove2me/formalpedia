@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_finset_orbitPiece
 -- name    : GroundTheory.Automorphic.Whittaker.exists_finset_orbitPiece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:24:51.576829+00:00
 -- url     : https://prove2.me/theorems/9206a672-1f30-4ea6-99ff-c038cf2ec664

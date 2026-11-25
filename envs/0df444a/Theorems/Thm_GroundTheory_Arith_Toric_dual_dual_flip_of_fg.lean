@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_dual_dual_flip_of_fg
 -- name    : GroundTheory.Arith.Toric.dual_dual_flip_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:37:34.822668+00:00
 -- url     : https://prove2.me/theorems/a9825f35-5c2e-4f35-86c0-c7ebd8f64d2a

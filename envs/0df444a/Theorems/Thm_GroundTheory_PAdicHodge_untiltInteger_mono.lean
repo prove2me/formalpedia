@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_untiltInteger_mono
 -- name    : GroundTheory.PAdicHodge.untiltInteger_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:47:40.901855+00:00
 -- url     : https://prove2.me/theorems/f52d8144-7d70-4029-ad8d-9f2decc5dde5

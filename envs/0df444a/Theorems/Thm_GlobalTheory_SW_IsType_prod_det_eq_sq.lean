@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_IsType_prod_det_eq_sq
 -- name    : GlobalTheory.SW.IsType.prod_det_eq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:06:15.660311+00:00
 -- url     : https://prove2.me/theorems/84c29056-1a67-4826-890b-0a74679b9e69

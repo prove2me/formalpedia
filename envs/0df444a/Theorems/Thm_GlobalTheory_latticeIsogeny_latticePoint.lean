@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeIsogeny_latticePoint
 -- name    : GlobalTheory.latticeIsogeny_latticePoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:06:41.352406+00:00
 -- url     : https://prove2.me/theorems/5b30c08c-a23d-47c5-a16d-66c7530879fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_sub_mem_fundamentalSet
 -- name    : GroundTheory.Global.existsUnique_sub_mem_fundamentalSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:34.965043+00:00
 -- url     : https://prove2.me/theorems/c6cb3dd7-b6af-4dac-917c-b11ea2670a8a

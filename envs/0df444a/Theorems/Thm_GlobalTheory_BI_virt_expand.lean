@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_virt_expand
 -- name    : GlobalTheory.BI.virt_expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:59:31.735579+00:00
 -- url     : https://prove2.me/theorems/863d008e-df6a-4c7a-9b99-603abd285146

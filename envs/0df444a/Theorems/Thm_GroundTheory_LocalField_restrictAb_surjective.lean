@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_restrictAb_surjective
 -- name    : GroundTheory.LocalField.restrictAb_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:44:54.702089+00:00
 -- url     : https://prove2.me/theorems/4362f57c-21eb-45ab-9787-589a256f59cb

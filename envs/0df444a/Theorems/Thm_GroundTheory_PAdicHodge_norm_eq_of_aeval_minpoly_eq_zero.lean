@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_eq_of_aeval_minpoly_eq_zero
 -- name    : GroundTheory.PAdicHodge.norm_eq_of_aeval_minpoly_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:47:13.457841+00:00
 -- url     : https://prove2.me/theorems/4869f9cb-2857-4712-b87f-5aba446e6a8f

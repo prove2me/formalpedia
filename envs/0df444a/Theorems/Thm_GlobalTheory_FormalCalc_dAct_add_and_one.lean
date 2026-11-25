@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalCalc_dAct_add_and_one
 -- name    : GlobalTheory.FormalCalc.dAct_add_and_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:08:06.372773+00:00
 -- url     : https://prove2.me/theorems/d631c417-0fbc-49b2-a2d5-e94d8fb27173

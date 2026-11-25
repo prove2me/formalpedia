@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MvPolyHessian
 -- name    : MvPolyHessian
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:55:53.7165+00:00
 -- url     : https://prove2.me/theorems/32903ea0-ff66-49c1-98d0-47bc3ea8e475

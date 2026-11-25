@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isIrreducible_outerTensor
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isIrreducible_outerTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:32:43.711415+00:00
 -- url     : https://prove2.me/theorems/1e2553da-effb-4207-8748-2b62d9faf454

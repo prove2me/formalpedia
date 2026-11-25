@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_eq_untilt_add_p_mul
 -- name    : GroundTheory.PAdicHodge.exists_eq_untilt_add_p_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:33.939243+00:00
 -- url     : https://prove2.me/theorems/ab9d80ef-d4bd-4bd8-8a8f-ab2fa5d09802

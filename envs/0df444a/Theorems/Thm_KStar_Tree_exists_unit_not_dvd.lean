@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_exists_unit_not_dvd
 -- name    : KStar.Tree.exists_unit_not_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:54.240327+00:00
 -- url     : https://prove2.me/theorems/0601f60f-4918-4393-9568-8a4f12c6c09b

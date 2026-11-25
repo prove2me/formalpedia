@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_ordAt_inv
 -- name    : GroundTheory.ProfCoh.ordAt_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:51:02.505147+00:00
 -- url     : https://prove2.me/theorems/63ebe609-b902-46ed-98ea-18c887766542

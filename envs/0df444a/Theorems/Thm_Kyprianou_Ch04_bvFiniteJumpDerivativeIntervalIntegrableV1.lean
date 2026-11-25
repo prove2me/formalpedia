@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvFiniteJumpDerivativeIntervalIntegrableV1
 -- name    : Kyprianou.Ch04.bvFiniteJumpDerivativeIntervalIntegrableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:04:32.493817+00:00
 -- url     : https://prove2.me/theorems/0aedac48-a3c1-4821-b537-f0ce03a4f48d

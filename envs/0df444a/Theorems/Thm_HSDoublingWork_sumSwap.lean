@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HSDoublingWork_sumSwap
 -- name    : HSDoublingWork.sumSwap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:02.392617+00:00
 -- url     : https://prove2.me/theorems/ed29a3a5-a993-4e33-808b-74961f74be81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_norm_self
 -- name    : GroundTheory.LocalField.Abstract.norm_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:57.885624+00:00
 -- url     : https://prove2.me/theorems/828b6ea6-063c-4549-a58f-5599dec2a361

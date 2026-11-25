@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eq_zero_of_forall_infinitePlace_lt_one
 -- name    : GroundTheory.Global.eq_zero_of_forall_infinitePlace_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:40:03.983299+00:00
 -- url     : https://prove2.me/theorems/8a44adc6-a304-470d-818e-51313d244fb8

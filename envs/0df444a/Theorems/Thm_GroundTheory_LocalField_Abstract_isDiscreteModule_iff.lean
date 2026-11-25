@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_isDiscreteModule_iff
 -- name    : GroundTheory.LocalField.Abstract.isDiscreteModule_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:55.486798+00:00
 -- url     : https://prove2.me/theorems/314f96cc-8127-431b-a419-a84a768f1eb1

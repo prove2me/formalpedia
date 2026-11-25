@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_algebraMap_adicCompletion_eq
 -- name    : GroundTheory.Global.algebraMap_adicCompletion_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:41:08.711133+00:00
 -- url     : https://prove2.me/theorems/4f81aaa2-c49a-4b2c-993a-39d0bcb23265

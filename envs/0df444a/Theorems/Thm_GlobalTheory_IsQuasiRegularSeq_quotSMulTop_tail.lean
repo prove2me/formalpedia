@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_quotSMulTop_tail
 -- name    : GlobalTheory.IsQuasiRegularSeq.quotSMulTop_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:50:42.89329+00:00
 -- url     : https://prove2.me/theorems/20fbaf52-2c8e-4399-b107-fa461ced4b30

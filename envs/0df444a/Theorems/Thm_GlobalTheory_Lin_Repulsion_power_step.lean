@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_Repulsion_power_step
 -- name    : GlobalTheory.Lin.Repulsion.power_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:07:33.21812+00:00
 -- url     : https://prove2.me/theorems/82aeb0ad-1ebf-4468-8909-4c6c998beb09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_weil_hyperbolic
 -- name    : GlobalTheory.JR.weil_hyperbolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:41:10.418531+00:00
 -- url     : https://prove2.me/theorems/5d5d5ec6-85ef-49ec-b897-39c87843eabe

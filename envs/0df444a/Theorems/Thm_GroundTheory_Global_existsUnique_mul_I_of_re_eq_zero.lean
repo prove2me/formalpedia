@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_mul_I_of_re_eq_zero
 -- name    : GroundTheory.Global.existsUnique_mul_I_of_re_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:40:42.784301+00:00
 -- url     : https://prove2.me/theorems/159f9309-ddcb-4126-82df-f8f321c97727

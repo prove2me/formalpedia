@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_restrictNormalHom_mem_inertia
 -- name    : GroundTheory.Global.restrictNormalHom_mem_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:42:40.789547+00:00
 -- url     : https://prove2.me/theorems/90cb1030-fc11-49ed-b978-e2f736a99fdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isCharacterOverSubfield_induction_irreducible
 -- name    : GlobalTheory.T.isCharacterOverSubfield_induction_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:48:31.294375+00:00
 -- url     : https://prove2.me/theorems/213b4813-f1d2-4a89-b7c2-97c39eb2dd87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_natCard_rootsOfUnity_eq
 -- name    : GroundTheory.Global.natCard_rootsOfUnity_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:42:09.153047+00:00
 -- url     : https://prove2.me/theorems/07cb6612-5769-4e56-95a8-cde0e8910ead

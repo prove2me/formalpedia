@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_eventually_fderiv_I_smul_cb450053cee6
+-- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_eventually_fderiv_I_smul_cb450053cee6
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-25T00:18:17.467248+00:00
+-- url     : https://prove2.me/theorems/4b7d262d-084e-45cf-99cd-c60aff8969b8
+-- title:
+--   P2 M Ground Theory Heights  Heights Chart Energy Swap Hessian eventually fderiv I smul cb450053cee6: P2 M Ground Theory Heights  Heights Chart Energy Swap Hessian eventually fderiv I smul cb450053cee6
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Chart Energy Swap Hessian eventually fderiv I smul cb450053cee6 construction uses the P2 M Ground Theory Heights  Heights Chart Energy Swap Hessian eventually fderiv I smul cb450053cee6 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/HeightKernels/ChartHessHolo.lean#L18-L22
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/HeightKernels/ChartHessHolo.lean#L18-L22
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_ChartMassAffine
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_ChartHessHolo
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open ReciprocityTheory.ChartRestriction.G.Geo Matrix Filter Topology
+noncomputable section
+open GroundTheory.Heights₂.Heights.ChartEnergySwapHessian
+open ChartMongeAmpereAffineInvariance
+variable {D : ℕ} {E' : Type*} [NormedAddCommGroup E'] [NormedSpace ℂ E'] [NormedSpace ℝ E']
+  [IsScalarTower ℝ ℂ E']
+
+theorem P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_eventually_fderiv_I_smul_cb450053cee6 {F : (Fin D → ℂ) → E'} {y : Fin D → ℂ} (hF : ContDiffAt ℂ 2 F y) :
+    ∀ᶠ y' in 𝓝 y, ∀ v, fderiv ℝ F y' (Complex.I • v) = Complex.I • fderiv ℝ F y' v := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«ChartEnergySwapHessian».«eventually_fderiv_I_smul» := P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_eventually_fderiv_I_smul_cb450053cee6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_eq_of_norm_sub_lt
 -- name    : GroundTheory.PAdicHodge.norm_eq_of_norm_sub_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:47:51.267722+00:00
 -- url     : https://prove2.me/theorems/e2c5b3ad-95e8-4761-96a1-6087367563f2

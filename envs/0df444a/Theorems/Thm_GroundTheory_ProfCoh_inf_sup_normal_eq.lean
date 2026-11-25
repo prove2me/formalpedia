@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_inf_sup_normal_eq
 -- name    : GroundTheory.ProfCoh.inf_sup_normal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:51:36.355171+00:00
 -- url     : https://prove2.me/theorems/1ed261fd-1248-4dba-9bdf-7d49d17dcc8b

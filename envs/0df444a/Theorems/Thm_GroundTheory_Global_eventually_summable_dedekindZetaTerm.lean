@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eventually_summable_dedekindZetaTerm
 -- name    : GroundTheory.Global.eventually_summable_dedekindZetaTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:40:30.480386+00:00
 -- url     : https://prove2.me/theorems/961fd6af-13b1-4cf8-b2ab-32c5d51a831b

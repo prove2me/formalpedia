@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_Sym_GoodPair_iter
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.Sym.GoodPair.iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:08:39.516879+00:00
 -- url     : https://prove2.me/theorems/93e7679e-c4b6-4a4d-aed8-c17304dcc163

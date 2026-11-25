@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dbar_solve_complexTorus
 -- name    : GlobalTheory.dbar_solve_complexTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:14:35.581949+00:00
 -- url     : https://prove2.me/theorems/849332ef-bb2b-4b5c-a6dc-cf78cd59ea7d

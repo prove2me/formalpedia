@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_IsIrreducible_exists_eq_smul_one
 -- name    : GroundTheory.Automorphic.UnitaryRep.IsIrreducible.exists_eq_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:05:22.524734+00:00
 -- url     : https://prove2.me/theorems/4257a386-f1d8-4b72-84c0-3215b0244b7d

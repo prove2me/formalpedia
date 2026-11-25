@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyIntegral_cube_hom
 -- name    : GlobalTheory.geometricallyIntegral_cube_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:28:05.359935+00:00
 -- url     : https://prove2.me/theorems/0b6739f6-7d90-47bb-92a8-5d7747e0e535

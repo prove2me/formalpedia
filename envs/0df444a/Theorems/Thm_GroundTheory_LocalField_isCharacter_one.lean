@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isCharacter_one
 -- name    : GroundTheory.LocalField.isCharacter_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:44:47.452898+00:00
 -- url     : https://prove2.me/theorems/36343977-8eab-4fe4-abcd-0239a5501026

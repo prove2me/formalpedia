@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ProfiniteInteger_exists_eq_nsmul_of_proj_eq_zero
 -- name    : GroundTheory.LocalField.Abstract.ProfiniteInteger.exists_eq_nsmul_of_proj_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:44:18.469804+00:00
 -- url     : https://prove2.me/theorems/94b7a1af-f73c-48d1-946f-54adbbd0295f

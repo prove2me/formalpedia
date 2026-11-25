@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsIrrCharacter_one_ne_zero
 -- name    : GroundTheory.LocalField.IsIrrCharacter.one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:33:01.397369+00:00
 -- url     : https://prove2.me/theorems/df70a1df-fbe6-4b6f-8daa-8b0bbff29994

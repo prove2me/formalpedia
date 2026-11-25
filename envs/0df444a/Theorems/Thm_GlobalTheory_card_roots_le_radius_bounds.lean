@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_roots_le_radius_bounds
 -- name    : GlobalTheory.card_roots_le_radius_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:07:34.566706+00:00
 -- url     : https://prove2.me/theorems/c2b43ff9-baaa-4e39-af3b-0fd0f886a1a4

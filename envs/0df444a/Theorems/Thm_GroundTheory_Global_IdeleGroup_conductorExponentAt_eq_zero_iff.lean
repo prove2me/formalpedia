@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_conductorExponentAt_eq_zero_iff
 -- name    : GroundTheory.Global.IdeleGroup.conductorExponentAt_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:27:01.240962+00:00
 -- url     : https://prove2.me/theorems/775ab7fc-e0e6-4432-8645-f1b3acc36d1f

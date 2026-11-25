@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KerPerp_exists_isotropic_section
 -- name    : GlobalTheory.KerPerp.exists_isotropic_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:08:00.183945+00:00
 -- url     : https://prove2.me/theorems/2e1bf1e1-6887-4aef-aa8a-4947993b2b5a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_finite_image_singularSet
 -- name    : GroundTheory.Global.Elliptic.finite_image_singularSet
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:07.285833+00:00
 -- url     : https://prove2.me/theorems/b14ffc44-d514-4ca4-8f5c-14cd1f5a7490

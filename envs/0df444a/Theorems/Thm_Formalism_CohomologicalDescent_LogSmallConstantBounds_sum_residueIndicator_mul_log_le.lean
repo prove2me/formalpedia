@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_sum_residueIndicator_mul_log_le
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.sum_residueIndicator_mul_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:45:20.603702+00:00
 -- url     : https://prove2.me/theorems/0673990c-9290-4a4f-b2e8-341b121cc131

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_integral_opT_mul
 -- name    : GroundTheory.Automorphic.LineKernel.integral_opT_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:34.908206+00:00
 -- url     : https://prove2.me/theorems/4fac0842-8b53-40ca-a2c9-15386b568c19

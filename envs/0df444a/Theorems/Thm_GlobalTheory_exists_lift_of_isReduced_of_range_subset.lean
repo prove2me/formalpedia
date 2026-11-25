@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_lift_of_isReduced_of_range_subset
 -- name    : GlobalTheory.exists_lift_of_isReduced_of_range_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:09:29.602963+00:00
 -- url     : https://prove2.me/theorems/03668438-6527-4870-b3cc-70e5ec72c3f2

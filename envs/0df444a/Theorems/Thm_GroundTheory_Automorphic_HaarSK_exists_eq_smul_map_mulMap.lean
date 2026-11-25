@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HaarSK_exists_eq_smul_map_mulMap
 -- name    : GroundTheory.Automorphic.HaarSK.exists_eq_smul_map_mulMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:30:00.69113+00:00
 -- url     : https://prove2.me/theorems/a274a3fe-a96b-439e-850f-a845c0699c4a

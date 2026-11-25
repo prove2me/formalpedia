@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_eq_sum_indicator_coset
 -- name    : GroundTheory.Automorphic.eq_sum_indicator_coset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:51:53.704973+00:00
 -- url     : https://prove2.me/theorems/8c60bf9e-29df-4360-9a2f-dc05f5e3a69d

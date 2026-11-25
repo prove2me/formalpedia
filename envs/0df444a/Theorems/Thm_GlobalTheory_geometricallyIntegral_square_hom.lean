@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyIntegral_square_hom
 -- name    : GlobalTheory.geometricallyIntegral_square_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:54:19.202855+00:00
 -- url     : https://prove2.me/theorems/c9cea90a-e8b6-4bb5-bf3f-5f8fc39cfb9c

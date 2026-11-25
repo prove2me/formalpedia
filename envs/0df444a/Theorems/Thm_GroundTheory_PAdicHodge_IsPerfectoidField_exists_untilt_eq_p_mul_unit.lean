@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_exists_untilt_eq_p_mul_unit
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.exists_untilt_eq_p_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:45:53.084706+00:00
 -- url     : https://prove2.me/theorems/33563f0a-236f-4c31-a9eb-221422c7c84e

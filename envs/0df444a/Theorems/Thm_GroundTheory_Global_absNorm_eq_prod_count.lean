@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_absNorm_eq_prod_count
 -- name    : GroundTheory.Global.absNorm_eq_prod_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:05.855728+00:00
 -- url     : https://prove2.me/theorems/f9dd9664-5749-4329-9e4e-fc2f8bdbc23c

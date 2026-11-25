@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hodgeCurvature_dual_metric_pointwise_bound
 -- name    : GlobalTheory.T.hodgeCurvature_dual_metric_pointwise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:54:06.095275+00:00
 -- url     : https://prove2.me/theorems/b6caa779-2a5a-48e5-9f89-dce089503fcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Survey_BaseClassMove_isBeta_unit
 -- name    : GlobalTheory.Survey.BaseClassMove.isBeta_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:07:46.6273+00:00
 -- url     : https://prove2.me/theorems/78dbc40b-274a-4066-8a94-8ca4908f9384

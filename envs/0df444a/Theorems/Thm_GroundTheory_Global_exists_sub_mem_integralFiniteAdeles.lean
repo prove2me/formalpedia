@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_sub_mem_integralFiniteAdeles
 -- name    : GroundTheory.Global.exists_sub_mem_integralFiniteAdeles
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:45:35.610057+00:00
 -- url     : https://prove2.me/theorems/da35ccb3-9b70-44fc-beb3-ed2e1ec7a6d1

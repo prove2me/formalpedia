@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_formallyUnramified_grpEnd
 -- name    : GlobalTheory.flat_of_formallyUnramified_grpEnd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:52:07.533008+00:00
 -- url     : https://prove2.me/theorems/6046b767-85cd-44a1-bcc4-57e38ea215d2

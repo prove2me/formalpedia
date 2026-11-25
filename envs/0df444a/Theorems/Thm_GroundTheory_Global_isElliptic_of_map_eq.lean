@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isElliptic_of_map_eq
 -- name    : GroundTheory.Global.isElliptic_of_map_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:42:20.349203+00:00
 -- url     : https://prove2.me/theorems/47c5a59d-9390-4138-b464-2f88ed637288

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_algebraMap_intertwiningMap_bijective_of_rank_le_aleph0
 -- name    : GroundTheory.Automorphic.algebraMap_intertwiningMap_bijective_of_rank_le_aleph0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:35:18.494731+00:00
 -- url     : https://prove2.me/theorems/76710db3-347b-4c80-a7d6-46f7167736ff

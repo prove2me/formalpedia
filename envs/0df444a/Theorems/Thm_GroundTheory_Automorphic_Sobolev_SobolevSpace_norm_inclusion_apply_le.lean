@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_SobolevSpace_norm_inclusion_apply_le
 -- name    : GroundTheory.Automorphic.Sobolev.SobolevSpace.norm_inclusion_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:33:36.836185+00:00
 -- url     : https://prove2.me/theorems/724201ce-5180-4cff-b658-4eb4e78ab045

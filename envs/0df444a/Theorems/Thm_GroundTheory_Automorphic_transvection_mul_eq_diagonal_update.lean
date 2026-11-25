@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_transvection_mul_eq_diagonal_update
 -- name    : GroundTheory.Automorphic.transvection_mul_eq_diagonal_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:35:21.524603+00:00
 -- url     : https://prove2.me/theorems/242c7fbe-44e0-4fa1-9093-7f2a5056e4a9

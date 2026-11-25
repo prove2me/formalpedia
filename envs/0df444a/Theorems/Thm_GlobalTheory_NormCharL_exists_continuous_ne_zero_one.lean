@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormCharL_exists_continuous_ne_zero_one
 -- name    : GlobalTheory.NormCharL.exists_continuous_ne_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:37:00.92231+00:00
 -- url     : https://prove2.me/theorems/a70e0562-8c90-469a-a637-9afa368b52e9

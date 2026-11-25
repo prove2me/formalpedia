@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_weberFunction_variableChangePoint
 -- name    : GroundTheory.Global.weberFunction_variableChangePoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:26.464774+00:00
 -- url     : https://prove2.me/theorems/e895cb24-4204-4124-b87a-ac5f60d7d831

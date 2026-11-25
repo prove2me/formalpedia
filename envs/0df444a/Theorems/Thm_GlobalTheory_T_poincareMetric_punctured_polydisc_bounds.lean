@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_poincareMetric_punctured_polydisc_bounds
 -- name    : GlobalTheory.T.poincareMetric_punctured_polydisc_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:55:04.771462+00:00
 -- url     : https://prove2.me/theorems/17e6d711-f422-4a4e-a3bb-c213e8840b28

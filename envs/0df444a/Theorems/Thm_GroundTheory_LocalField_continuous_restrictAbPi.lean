@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_continuous_restrictAbPi
 -- name    : GroundTheory.LocalField.continuous_restrictAbPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:59.271647+00:00
 -- url     : https://prove2.me/theorems/8f4c236d-f934-4a61-af07-9fc42c947510

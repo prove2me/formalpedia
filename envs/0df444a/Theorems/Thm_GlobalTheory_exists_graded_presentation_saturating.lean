@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_graded_presentation_saturating
 -- name    : GlobalTheory.exists_graded_presentation_saturating
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:04:52.434288+00:00
 -- url     : https://prove2.me/theorems/00faeaa4-65ea-48a1-8212-5a29ad7fa152

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_isAdicComplete_maximalIdeal_of_finite
 -- name    : GlobalTheory.FormalIsogeny.isAdicComplete_maximalIdeal_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:00:51.234358+00:00
 -- url     : https://prove2.me/theorems/3d56656f-0807-4f94-bfa4-0b9505e8cd71

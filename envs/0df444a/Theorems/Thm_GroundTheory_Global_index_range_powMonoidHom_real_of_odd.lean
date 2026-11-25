@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_index_range_powMonoidHom_real_of_odd
 -- name    : GroundTheory.Global.index_range_powMonoidHom_real_of_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:42:05.761702+00:00
 -- url     : https://prove2.me/theorems/e4b63fd9-5f14-4924-af3f-9f572e5b1f77

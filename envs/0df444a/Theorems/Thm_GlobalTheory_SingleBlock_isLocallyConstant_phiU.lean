@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_isLocallyConstant_phiU
 -- name    : GlobalTheory.SingleBlock.isLocallyConstant_phiU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:51:17.55434+00:00
 -- url     : https://prove2.me/theorems/a93f5c21-88f8-4d4b-bfad-6e4b281e8af4

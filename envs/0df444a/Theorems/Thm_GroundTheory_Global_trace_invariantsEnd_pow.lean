@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_trace_invariantsEnd_pow
 -- name    : GroundTheory.Global.trace_invariantsEnd_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:48.107375+00:00
 -- url     : https://prove2.me/theorems/926b6f01-ea89-449a-a782-4e3ffc5f5a61

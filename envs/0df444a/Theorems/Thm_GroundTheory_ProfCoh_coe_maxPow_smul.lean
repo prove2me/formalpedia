@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coe_maxPow_smul
 -- name    : GroundTheory.ProfCoh.coe_maxPow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:48:05.098902+00:00
 -- url     : https://prove2.me/theorems/ff30de12-fcaf-4a62-a66f-c2ee35318c3a

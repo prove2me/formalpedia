@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_psiN_theta
 -- name    : GroundTheory.Automorphic.Whittaker.psiN_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:44:04.387381+00:00
 -- url     : https://prove2.me/theorems/7e4d3c21-3625-43fb-8a94-e1bb599da018

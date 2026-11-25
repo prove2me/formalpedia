@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_minpoly_map_ringEquiv
 -- name    : GroundTheory.PAdicHodge.minpoly_map_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:46:46.013154+00:00
 -- url     : https://prove2.me/theorems/8f85bc4a-4453-4ab3-a922-6b0468c13ef3

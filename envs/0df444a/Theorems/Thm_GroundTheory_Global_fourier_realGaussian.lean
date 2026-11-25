@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_fourier_realGaussian
 -- name    : GroundTheory.Global.fourier_realGaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:41:00.391228+00:00
 -- url     : https://prove2.me/theorems/d0bb5da6-6c31-4f67-a2f9-044e668817d0

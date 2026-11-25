@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_ker_repNorm
 -- name    : GroundTheory.GroupCoh.ker_repNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:43:34.509146+00:00
 -- url     : https://prove2.me/theorems/05c4ad08-2f2f-4f1f-8e1c-0ef9abf9ada2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_mem_of_forall_fiber
 -- name    : GroundTheory.Automorphic.Whittaker.mem_of_forall_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:34:17.787122+00:00
 -- url     : https://prove2.me/theorems/5bb2284b-8bd6-43d4-bac5-c495395c1844

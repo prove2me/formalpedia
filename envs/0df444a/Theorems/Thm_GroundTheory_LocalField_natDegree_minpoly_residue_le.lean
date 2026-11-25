@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_natDegree_minpoly_residue_le
 -- name    : GroundTheory.LocalField.natDegree_minpoly_residue_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:18.7968+00:00
 -- url     : https://prove2.me/theorems/427e7737-80be-4a24-bceb-df91deab3b3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_invariantsGalAddEquiv_quotientToInvariants
 -- name    : GroundTheory.ProfCoh.invariantsGalAddEquiv_quotientToInvariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:51:25.134797+00:00
 -- url     : https://prove2.me/theorems/68fea0ab-8454-4509-99d8-e62da89bac21

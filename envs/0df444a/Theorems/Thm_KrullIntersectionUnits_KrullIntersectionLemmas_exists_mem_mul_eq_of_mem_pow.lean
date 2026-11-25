@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KrullIntersectionUnits_KrullIntersectionLemmas_exists_mem_mul_eq_of_mem_pow
 -- name    : KrullIntersectionUnits.KrullIntersectionLemmas.exists_mem_mul_eq_of_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:51:42.902818+00:00
 -- url     : https://prove2.me/theorems/a12af0a3-c9cb-4ff2-ad94-2152427b8cf6

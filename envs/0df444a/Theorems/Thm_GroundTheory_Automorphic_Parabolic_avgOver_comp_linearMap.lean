@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_avgOver_comp_linearMap
 -- name    : GroundTheory.Automorphic.Parabolic.avgOver_comp_linearMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:18:03.497285+00:00
 -- url     : https://prove2.me/theorems/24239c3e-372b-4311-a26e-8ed4e6f02fe7

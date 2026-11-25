@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_mem_unramifiedClosure_of_pow_eq_one
 -- name    : GroundTheory.PAdicHodge.mem_unramifiedClosure_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:46:28.389647+00:00
 -- url     : https://prove2.me/theorems/33c62980-d00a-478d-9c04-4ab028cc0e8b

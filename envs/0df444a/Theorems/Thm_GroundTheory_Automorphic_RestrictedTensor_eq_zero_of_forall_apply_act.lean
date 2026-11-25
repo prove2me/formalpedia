@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_eq_zero_of_forall_apply_act
 -- name    : GroundTheory.Automorphic.RestrictedTensor.eq_zero_of_forall_apply_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:33:02.228055+00:00
 -- url     : https://prove2.me/theorems/df07f883-3543-4f65-8ca9-4d708d660d1b

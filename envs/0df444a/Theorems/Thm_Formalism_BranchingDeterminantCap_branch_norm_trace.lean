@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_branch_norm_trace
 -- name    : Formalism.BranchingDeterminantCap.branch_norm_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:25:49.379173+00:00
 -- url     : https://prove2.me/theorems/800f0c79-60cc-4772-bc28-32fd930ec847

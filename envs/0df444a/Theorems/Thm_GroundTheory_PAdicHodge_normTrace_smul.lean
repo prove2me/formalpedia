@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_smul
 -- name    : GroundTheory.PAdicHodge.normTrace_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:48:25.302489+00:00
 -- url     : https://prove2.me/theorems/2aff1210-4c3b-4190-8fd8-4f2bcd129735

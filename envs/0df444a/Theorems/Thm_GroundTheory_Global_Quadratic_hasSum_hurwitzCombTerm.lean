@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_hasSum_hurwitzCombTerm
 -- name    : GroundTheory.Global.Quadratic.hasSum_hurwitzCombTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:39:20.102064+00:00
 -- url     : https://prove2.me/theorems/f7a543ab-0761-4916-b861-e3588f264a59

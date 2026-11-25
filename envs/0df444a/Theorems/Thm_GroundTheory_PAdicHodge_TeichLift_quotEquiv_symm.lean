@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_quotEquiv_symm
 -- name    : GroundTheory.PAdicHodge.TeichLift.quotEquiv_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:45:55.120471+00:00
 -- url     : https://prove2.me/theorems/8b34d2d6-5af4-475c-bc0c-8ef2ed08cd55

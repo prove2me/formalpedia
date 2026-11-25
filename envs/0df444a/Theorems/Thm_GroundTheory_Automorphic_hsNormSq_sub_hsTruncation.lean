@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hsNormSq_sub_hsTruncation
 -- name    : GroundTheory.Automorphic.hsNormSq_sub_hsTruncation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:35:42.016734+00:00
 -- url     : https://prove2.me/theorems/2f7fee7a-06ea-476c-9d0a-ce12be4aa2f5

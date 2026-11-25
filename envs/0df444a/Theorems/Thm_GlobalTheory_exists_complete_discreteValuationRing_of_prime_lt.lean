@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_complete_discreteValuationRing_of_prime_lt
 -- name    : GlobalTheory.exists_complete_discreteValuationRing_of_prime_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:28:32.956387+00:00
 -- url     : https://prove2.me/theorems/2b19ce37-aecd-40a5-9ca7-256698f01e72

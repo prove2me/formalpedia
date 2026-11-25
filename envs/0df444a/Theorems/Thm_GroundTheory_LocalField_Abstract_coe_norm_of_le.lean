@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_coe_norm_of_le
 -- name    : GroundTheory.LocalField.Abstract.coe_norm_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:41.973694+00:00
 -- url     : https://prove2.me/theorems/58f8a708-51b5-47f0-9478-1747653c8b72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsHilbertSchmidt_isCompactOperator
 -- name    : GroundTheory.Automorphic.IsHilbertSchmidt.isCompactOperator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:31:28.205367+00:00
 -- url     : https://prove2.me/theorems/a6a22801-9c5d-4a9e-96ef-d868429186ba

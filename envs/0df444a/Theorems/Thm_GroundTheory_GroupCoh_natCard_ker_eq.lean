@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_natCard_ker_eq
 -- name    : GroundTheory.GroupCoh.natCard_ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:42:58.75082+00:00
 -- url     : https://prove2.me/theorems/ad5710f6-7f32-47bc-b129-7d363136896a

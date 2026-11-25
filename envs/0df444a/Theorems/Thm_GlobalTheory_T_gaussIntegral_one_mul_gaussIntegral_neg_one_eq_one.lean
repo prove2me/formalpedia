@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gaussIntegral_one_mul_gaussIntegral_neg_one_eq_one
 -- name    : GlobalTheory.T.gaussIntegral_one_mul_gaussIntegral_neg_one_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:40:25.688831+00:00
 -- url     : https://prove2.me/theorems/d88593c1-4b64-4023-93fe-a34ae5c279c2

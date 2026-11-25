@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NilChart_coord_unique
 -- name    : GlobalTheory.NilChart.coord_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:26:54.611993+00:00
 -- url     : https://prove2.me/theorems/cabd4ebb-6185-4300-9ea5-af6ff8f197f7

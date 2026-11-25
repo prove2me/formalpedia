@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_conj_rootElt
 -- name    : GroundTheory.Automorphic.Whittaker.conj_rootElt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:35:00.079317+00:00
 -- url     : https://prove2.me/theorems/98255ae0-5862-4d69-9d97-2987fb31aa86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_connection_linear_in_section
 -- name    : GlobalTheory.T.connection_linear_in_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:32:21.947153+00:00
 -- url     : https://prove2.me/theorems/36b4f9ba-2f05-4f0d-adc5-2166f05d7a10

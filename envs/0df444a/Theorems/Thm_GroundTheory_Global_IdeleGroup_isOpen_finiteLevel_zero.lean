@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_isOpen_finiteLevel_zero
 -- name    : GroundTheory.Global.IdeleGroup.isOpen_finiteLevel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:01.7995+00:00
 -- url     : https://prove2.me/theorems/e70d0a24-94d8-476d-bf42-d3d24464ac41

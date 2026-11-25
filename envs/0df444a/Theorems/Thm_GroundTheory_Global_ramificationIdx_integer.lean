@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ramificationIdx_integer
 -- name    : GroundTheory.Global.ramificationIdx_integer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:10.032674+00:00
 -- url     : https://prove2.me/theorems/53aff909-fecd-441d-8cf4-a775c40d5bd2

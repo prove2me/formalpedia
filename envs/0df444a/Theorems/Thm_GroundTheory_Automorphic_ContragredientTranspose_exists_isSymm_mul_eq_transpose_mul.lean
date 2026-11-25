@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_exists_isSymm_mul_eq_transpose_mul
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.exists_isSymm_mul_eq_transpose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:04.573688+00:00
 -- url     : https://prove2.me/theorems/77ebf534-d624-4c20-a71b-8ceb47158f26

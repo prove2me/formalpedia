@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLogBounded_conj_of_injective
 -- name    : GlobalTheory.IsLogBounded.conj_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:55:45.875585+00:00
 -- url     : https://prove2.me/theorems/af7ccda3-ce24-4c99-bf23-63bb4ec16c2e

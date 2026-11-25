@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_inf_right
 -- name    : GlobalTheory.LengthCommensurable.inf_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:59:06.218327+00:00
 -- url     : https://prove2.me/theorems/abc73724-fa12-416f-959e-8fcbc568c2b2

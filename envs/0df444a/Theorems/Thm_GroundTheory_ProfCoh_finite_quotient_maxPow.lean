@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_quotient_maxPow
 -- name    : GroundTheory.ProfCoh.finite_quotient_maxPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:51:44.415855+00:00
 -- url     : https://prove2.me/theorems/02654e76-f54f-4d81-b591-30fdbac83e6d

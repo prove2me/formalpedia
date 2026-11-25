@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_quotSMulTop_ker_of_graded
 -- name    : GlobalTheory.finite_quotSMulTop_ker_of_graded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:54:23.548685+00:00
 -- url     : https://prove2.me/theorems/f5a2ebc9-bba2-4776-ab3e-a6af3e9143d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeInt_dof_int
 -- name    : GlobalTheory.GaugeInt.dof_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:58:38.841744+00:00
 -- url     : https://prove2.me/theorems/53bee97d-61b0-4d96-9b01-f2e310dfe2ec

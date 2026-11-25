@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeChartRow_isOpen_punctured
 -- name    : GlobalTheory.HodgeChartRow.isOpen_punctured
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:02:13.437871+00:00
 -- url     : https://prove2.me/theorems/c9daa07f-fda6-4fbc-805f-b6dacf07e00e

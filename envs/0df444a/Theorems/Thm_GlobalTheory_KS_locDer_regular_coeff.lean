@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_locDer_regular_coeff
 -- name    : GlobalTheory.KS.locDer_regular_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:32:59.841323+00:00
 -- url     : https://prove2.me/theorems/9856e169-6b4a-450a-b9d4-5011dbe4d8f3

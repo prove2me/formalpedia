@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenStructure_isDomain_mvPowerSeries
 -- name    : GlobalTheory.CohenStructure.isDomain_mvPowerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:06:56.608446+00:00
 -- url     : https://prove2.me/theorems/8b652983-234f-457b-900a-93e202239e7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_germ_inv
 -- name    : GroundTheory.Global.Elliptic.germ_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:42.56386+00:00
 -- url     : https://prove2.me/theorems/e3e310bd-feca-4cbc-86ec-9c7aa5881e9f

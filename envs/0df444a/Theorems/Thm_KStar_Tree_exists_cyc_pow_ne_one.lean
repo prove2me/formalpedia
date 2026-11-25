@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_exists_cyc_pow_ne_one
 -- name    : KStar.Tree.exists_cyc_pow_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:59.747484+00:00
 -- url     : https://prove2.me/theorems/b63866ee-53fe-481a-a5e8-7e39e088d89d

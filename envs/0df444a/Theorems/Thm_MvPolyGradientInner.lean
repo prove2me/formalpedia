@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MvPolyGradientInner
 -- name    : MvPolyGradientInner
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:55:46.218887+00:00
 -- url     : https://prove2.me/theorems/a29ef041-87f1-48d1-b255-6b37b1723265

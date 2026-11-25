@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_differentiable_hurwitzComb
 -- name    : GroundTheory.Global.Quadratic.differentiable_hurwitzComb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:39:39.032845+00:00
 -- url     : https://prove2.me/theorems/13b9f55e-9201-4e96-a238-71c326994f5d

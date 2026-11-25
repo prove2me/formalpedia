@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isIrreducible_of_equiv
 -- name    : GroundTheory.LocalField.isIrreducible_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:44:42.590665+00:00
 -- url     : https://prove2.me/theorems/81d8a6b3-c807-4450-954c-985ae5a16a24

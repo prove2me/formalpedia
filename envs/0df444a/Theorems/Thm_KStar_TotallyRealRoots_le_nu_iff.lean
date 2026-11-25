@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_TotallyRealRoots_le_nu_iff
 -- name    : KStar.TotallyRealRoots.le_nu_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:58.874502+00:00
 -- url     : https://prove2.me/theorems/519e8cee-89b6-43fa-af21-805290d3c6c6

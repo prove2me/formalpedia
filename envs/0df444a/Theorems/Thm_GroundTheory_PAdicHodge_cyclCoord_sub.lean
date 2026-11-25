@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_cyclCoord_sub
 -- name    : GroundTheory.PAdicHodge.cyclCoord_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:47:13.530389+00:00
 -- url     : https://prove2.me/theorems/2f303779-c85f-4974-a85b-2fc5210b8fc1

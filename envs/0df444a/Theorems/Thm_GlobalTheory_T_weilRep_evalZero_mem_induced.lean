@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weilRep_evalZero_mem_induced
 -- name    : GlobalTheory.T.weilRep_evalZero_mem_induced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:00:47.935168+00:00
 -- url     : https://prove2.me/theorems/320d9abc-e81e-444c-9505-3e3a03ce1df8

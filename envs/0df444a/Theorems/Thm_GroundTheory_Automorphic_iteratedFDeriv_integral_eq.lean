@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_iteratedFDeriv_integral_eq
 -- name    : GroundTheory.Automorphic.iteratedFDeriv_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:24:58.656254+00:00
 -- url     : https://prove2.me/theorems/6a04760c-a94c-4234-bdbf-46541a456dce

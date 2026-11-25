@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_tateCohomology_neg_one_of_sum_eq
 -- name    : GroundTheory.GroupCoh.isZero_tateCohomology_neg_one_of_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:43:08.827816+00:00
 -- url     : https://prove2.me/theorems/14acf89b-aa9e-43d3-8581-cdd24739d597

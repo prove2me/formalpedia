@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_exists_mem_doubleCoset_affineWeylGL
 -- name    : GroundTheory.Automorphic.GLnLocal.exists_mem_doubleCoset_affineWeylGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:34:39.81583+00:00
 -- url     : https://prove2.me/theorems/693dd61f-330a-40d7-bd26-132c2ddf94e1

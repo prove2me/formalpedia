@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteLengthComplex_length_ext_opcycles
 -- name    : GlobalTheory.FiniteLengthComplex.length_ext_opcycles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:01:59.477513+00:00
 -- url     : https://prove2.me/theorems/c870f740-9899-4b25-adbd-2ff58d78f17c

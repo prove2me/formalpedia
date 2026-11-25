@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsRegularLocalRing_notMem_span_singleton
 -- name    : IsRegularLocalRing.notMem_span_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:34.474492+00:00
 -- url     : https://prove2.me/theorems/63633cba-ca89-444b-87f6-701786d1324f

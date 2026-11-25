@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_univ_mem_cosetSelectors
 -- name    : GroundTheory.ProfCoh.univ_mem_cosetSelectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:51:16.683452+00:00
 -- url     : https://prove2.me/theorems/3311cc7b-954d-43ed-9dc9-2149eada47c7

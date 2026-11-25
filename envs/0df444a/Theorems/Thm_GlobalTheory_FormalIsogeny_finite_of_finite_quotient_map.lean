@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_finite_of_finite_quotient_map
 -- name    : GlobalTheory.FormalIsogeny.finite_of_finite_quotient_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:00:04.080175+00:00
 -- url     : https://prove2.me/theorems/75bb88fe-e3bb-4d3e-a9bf-e93799001df8

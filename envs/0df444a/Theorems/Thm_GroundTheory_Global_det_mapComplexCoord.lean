@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_det_mapComplexCoord
 -- name    : GroundTheory.Global.det_mapComplexCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:40:40.820648+00:00
 -- url     : https://prove2.me/theorems/8c736c25-b1c9-40f0-bf9d-51abeb0789c6

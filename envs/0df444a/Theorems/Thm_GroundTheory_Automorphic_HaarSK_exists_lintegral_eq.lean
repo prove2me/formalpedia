@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HaarSK_exists_lintegral_eq
 -- name    : GroundTheory.Automorphic.HaarSK.exists_lintegral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:29:48.463289+00:00
 -- url     : https://prove2.me/theorems/299f74b5-6ff5-4ea9-b084-ca0791b43719

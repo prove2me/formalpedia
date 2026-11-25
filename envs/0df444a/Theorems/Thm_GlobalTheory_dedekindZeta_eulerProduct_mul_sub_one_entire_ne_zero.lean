@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_dedekindZeta_eulerProduct_mul_sub_one_entire_ne_zero
 -- name    : GlobalTheory.dedekindZeta_eulerProduct_mul_sub_one_entire_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:32.845668+00:00
 -- url     : https://prove2.me/theorems/992e4b88-7e54-4234-a1e7-f89e196b33a4

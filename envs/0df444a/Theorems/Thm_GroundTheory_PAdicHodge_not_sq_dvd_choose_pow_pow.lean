@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_not_sq_dvd_choose_pow_pow
 -- name    : GroundTheory.PAdicHodge.not_sq_dvd_choose_pow_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:47:23.055903+00:00
 -- url     : https://prove2.me/theorems/755f9b6f-3cf4-4b4b-b32b-87730804254e

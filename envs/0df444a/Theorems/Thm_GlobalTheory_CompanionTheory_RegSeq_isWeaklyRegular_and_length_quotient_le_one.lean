@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RegSeq_isWeaklyRegular_and_length_quotient_le_one
 -- name    : GlobalTheory.CompanionTheory.RegSeq.isWeaklyRegular_and_length_quotient_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:00:13.210911+00:00
 -- url     : https://prove2.me/theorems/aa4bd861-b754-436e-bef0-49b3580f344a

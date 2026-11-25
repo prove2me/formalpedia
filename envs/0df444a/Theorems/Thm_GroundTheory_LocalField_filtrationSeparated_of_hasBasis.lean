@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_filtrationSeparated_of_hasBasis
 -- name    : GroundTheory.LocalField.filtrationSeparated_of_hasBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:45:11.177848+00:00
 -- url     : https://prove2.me/theorems/f1d114a7-9a0b-4d41-b49d-c3176b1b5554

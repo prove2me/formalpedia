@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_hasSum_step
 -- name    : GlobalTheory.CosetEuler.hasSum_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:49:14.456508+00:00
 -- url     : https://prove2.me/theorems/b76c82b5-1876-4772-bc67-fd6a9ffac89c

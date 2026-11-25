@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_injective_intertwiner_of_basis
 -- name    : GroundTheory.Global.exists_injective_intertwiner_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:41:44.912638+00:00
 -- url     : https://prove2.me/theorems/1dd8b77c-edfd-4636-8b04-6c12dc1b2758

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_coprime_card_residueField_sub_one
 -- name    : GroundTheory.LocalField.coprime_card_residueField_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:15.239724+00:00
 -- url     : https://prove2.me/theorems/3c1d8adb-b850-453c-af26-57aea4a2152d

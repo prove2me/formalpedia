@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_pow_smul_mem_normalLattice
 -- name    : GroundTheory.LocalField.exists_pow_smul_mem_normalLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:32.134285+00:00
 -- url     : https://prove2.me/theorems/9026f472-f88e-4299-aea2-e84c30cfb3d9

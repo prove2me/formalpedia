@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_toFun_range_of_surjective
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.toFun_range_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:48:32.299433+00:00
 -- url     : https://prove2.me/theorems/d308a0a9-f466-4787-95e5-d654ab75082d

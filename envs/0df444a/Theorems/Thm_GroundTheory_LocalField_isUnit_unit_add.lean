@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isUnit_unit_add
 -- name    : GroundTheory.LocalField.isUnit_unit_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:45:20.326448+00:00
 -- url     : https://prove2.me/theorems/6b846280-1660-4cd3-8270-adb5b8ce1156

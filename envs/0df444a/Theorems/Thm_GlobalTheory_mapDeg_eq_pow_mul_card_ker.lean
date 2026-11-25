@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mapDeg_eq_pow_mul_card_ker
 -- name    : GlobalTheory.mapDeg_eq_pow_mul_card_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:10:28.654007+00:00
 -- url     : https://prove2.me/theorems/8ce04f56-495e-4c7e-bd3a-61a5df6e2475

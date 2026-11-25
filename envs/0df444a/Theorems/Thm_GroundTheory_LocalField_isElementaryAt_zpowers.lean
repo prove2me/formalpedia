@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isElementaryAt_zpowers
 -- name    : GroundTheory.LocalField.isElementaryAt_zpowers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:44:42.172527+00:00
 -- url     : https://prove2.me/theorems/7364557c-921a-45eb-bb39-dda851d221f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_det_sqrtTwoSMulConj
 -- name    : GroundTheory.Global.det_sqrtTwoSMulConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:40:25.124959+00:00
 -- url     : https://prove2.me/theorems/4715b5d7-c63e-4946-bb29-295bb4a25d36

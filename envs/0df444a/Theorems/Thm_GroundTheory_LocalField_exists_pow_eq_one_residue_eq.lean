@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_pow_eq_one_residue_eq
 -- name    : GroundTheory.LocalField.exists_pow_eq_one_residue_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:44:29.584103+00:00
 -- url     : https://prove2.me/theorems/a54d4efb-c854-48f9-86a9-f84858d74843

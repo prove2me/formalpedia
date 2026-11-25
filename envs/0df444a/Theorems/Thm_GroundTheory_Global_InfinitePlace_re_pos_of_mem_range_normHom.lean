@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_re_pos_of_mem_range_normHom
 -- name    : GroundTheory.Global.InfinitePlace.re_pos_of_mem_range_normHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:39:25.466813+00:00
 -- url     : https://prove2.me/theorems/f9384934-8b52-4844-8020-2758a01937de

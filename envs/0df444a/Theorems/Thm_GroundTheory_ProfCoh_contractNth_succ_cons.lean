@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_contractNth_succ_cons
 -- name    : GroundTheory.ProfCoh.contractNth_succ_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:48:54.91821+00:00
 -- url     : https://prove2.me/theorems/3f3a544e-0e2b-4fab-a31f-86bbbb824307

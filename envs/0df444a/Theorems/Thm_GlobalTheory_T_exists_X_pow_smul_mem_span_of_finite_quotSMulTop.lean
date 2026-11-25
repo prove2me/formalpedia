@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_X_pow_smul_mem_span_of_finite_quotSMulTop
 -- name    : GlobalTheory.T.exists_X_pow_smul_mem_span_of_finite_quotSMulTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:58:50.564485+00:00
 -- url     : https://prove2.me/theorems/2076e62d-bcad-4712-9f30-ec74e907933f

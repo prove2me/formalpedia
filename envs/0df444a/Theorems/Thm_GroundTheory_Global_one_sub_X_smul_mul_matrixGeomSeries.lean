@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_one_sub_X_smul_mul_matrixGeomSeries
 -- name    : GroundTheory.Global.one_sub_X_smul_mul_matrixGeomSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:42:15.393952+00:00
 -- url     : https://prove2.me/theorems/7d557f3c-2f96-4ef1-94f5-4697bc45f9f3

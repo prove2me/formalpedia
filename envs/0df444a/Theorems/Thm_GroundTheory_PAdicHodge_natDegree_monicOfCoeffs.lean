@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_natDegree_monicOfCoeffs
 -- name    : GroundTheory.PAdicHodge.natDegree_monicOfCoeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:46:46.121607+00:00
 -- url     : https://prove2.me/theorems/12c5ed33-2457-46c0-9d4c-301f22bb7bcb

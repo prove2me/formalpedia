@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isOpen_and_isIrreducible_sectionComponent_of_smooth_field
 -- name    : GlobalTheory.isOpen_and_isIrreducible_sectionComponent_of_smooth_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:58:15.906799+00:00
 -- url     : https://prove2.me/theorems/a807bd8d-e375-4459-b3b9-1453fbce0657

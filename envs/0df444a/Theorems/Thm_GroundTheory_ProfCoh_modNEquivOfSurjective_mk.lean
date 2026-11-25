@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_modNEquivOfSurjective_mk
 -- name    : GroundTheory.ProfCoh.modNEquivOfSurjective_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:50:35.884476+00:00
 -- url     : https://prove2.me/theorems/ccc44b46-fad0-4838-acbd-50e1478bb8bd

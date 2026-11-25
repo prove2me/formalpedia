@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_eq_top_of_sup_coinvariantsKer_eq_top
 -- name    : GroundTheory.GroupCoh.eq_top_of_sup_coinvariantsKer_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:51.398856+00:00
 -- url     : https://prove2.me/theorems/03c57a26-b731-4c8d-a9d2-9c7b1973d653

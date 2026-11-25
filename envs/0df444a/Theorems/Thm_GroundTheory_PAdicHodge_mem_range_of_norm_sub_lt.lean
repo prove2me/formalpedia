@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_mem_range_of_norm_sub_lt
 -- name    : GroundTheory.PAdicHodge.mem_range_of_norm_sub_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:46:53.944617+00:00
 -- url     : https://prove2.me/theorems/e90d4459-ec26-4d91-9bf2-5d95e2750576

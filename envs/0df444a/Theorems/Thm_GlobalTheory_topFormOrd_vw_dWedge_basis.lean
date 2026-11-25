@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_topFormOrd_vw_dWedge_basis
 -- name    : GlobalTheory.topFormOrd_vw_dWedge_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:24:04.293164+00:00
 -- url     : https://prove2.me/theorems/c4115cac-bca8-4f8b-9dbd-9dd028d6316d

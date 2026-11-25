@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_rho_of_strictMono
 -- name    : GroundTheory.Arith.SchemeCoh.rho_of_strictMono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:28:51.99172+00:00
 -- url     : https://prove2.me/theorems/7f4b1d3a-c611-403f-89d8-3870382f5022

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_central_character
 -- name    : GroundTheory.Automorphic.exists_central_character
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:33:42.787266+00:00
 -- url     : https://prove2.me/theorems/5c26d2d3-6555-4f69-9689-09961f136a9d

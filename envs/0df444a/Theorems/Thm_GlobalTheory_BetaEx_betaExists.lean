@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaEx_betaExists
 -- name    : GlobalTheory.BetaEx.betaExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:08:24.957821+00:00
 -- url     : https://prove2.me/theorems/9d30c9d3-fefa-47ae-a0b4-6bd7c03951ee

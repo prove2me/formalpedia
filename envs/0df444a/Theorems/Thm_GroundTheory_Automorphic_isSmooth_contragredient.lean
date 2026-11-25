@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isSmooth_contragredient
 -- name    : GroundTheory.Automorphic.isSmooth_contragredient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:16.065317+00:00
 -- url     : https://prove2.me/theorems/4515e932-25c5-4f13-9d6f-f3128c336092

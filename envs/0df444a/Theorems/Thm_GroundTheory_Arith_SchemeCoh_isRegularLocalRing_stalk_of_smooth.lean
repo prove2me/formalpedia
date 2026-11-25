@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isRegularLocalRing_stalk_of_smooth
 -- name    : GroundTheory.Arith.SchemeCoh.isRegularLocalRing_stalk_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:27:55.21192+00:00
 -- url     : https://prove2.me/theorems/b6cf1afe-9735-48dc-8ba8-44bcb9b6b039

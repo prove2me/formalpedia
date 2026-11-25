@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteLengthComplex_acyclicityLemma_depth_differentialCokernels_finiteLength
 -- name    : GlobalTheory.FiniteLengthComplex.acyclicityLemma_depth_differentialCokernels_finiteLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:02:16.477817+00:00
 -- url     : https://prove2.me/theorems/967e5dea-eb11-4f01-959f-c5d7206540d6

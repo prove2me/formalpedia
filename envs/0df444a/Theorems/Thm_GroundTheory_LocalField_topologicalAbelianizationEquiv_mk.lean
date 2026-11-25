@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_topologicalAbelianizationEquiv_mk
 -- name    : GroundTheory.LocalField.topologicalAbelianizationEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:49.969303+00:00
 -- url     : https://prove2.me/theorems/68d85340-dd58-48d2-ae2e-55f227a67ff6

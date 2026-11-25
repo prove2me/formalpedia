@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_rectIntegral_eq_zero_of_periodic
 -- name    : GroundTheory.Global.Elliptic.rectIntegral_eq_zero_of_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:38:49.008178+00:00
 -- url     : https://prove2.me/theorems/aa4d31dc-d195-4dd8-8751-e4f3d2bebcaf

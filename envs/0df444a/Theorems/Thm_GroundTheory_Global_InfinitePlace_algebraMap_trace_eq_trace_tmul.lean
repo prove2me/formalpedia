@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_algebraMap_trace_eq_trace_tmul
 -- name    : GroundTheory.Global.InfinitePlace.algebraMap_trace_eq_trace_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:39:31.621982+00:00
 -- url     : https://prove2.me/theorems/d93ff9e0-9f0e-495d-9033-3705221b1ca3

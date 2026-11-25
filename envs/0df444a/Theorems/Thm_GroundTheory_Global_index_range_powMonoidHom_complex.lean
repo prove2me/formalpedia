@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_index_range_powMonoidHom_complex
 -- name    : GroundTheory.Global.index_range_powMonoidHom_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:41:19.178236+00:00
 -- url     : https://prove2.me/theorems/cf99e095-d412-4071-9f1d-c221422ff867

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ShortStep_iso_of_short
 -- name    : GlobalTheory.SW.ShortStep.iso_of_short
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:35.466079+00:00
 -- url     : https://prove2.me/theorems/879fafaf-1ddf-4a54-9495-8649c2e88dba

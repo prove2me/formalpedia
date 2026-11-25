@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsCyclicVector_commute_of_commute
 -- name    : GroundTheory.Automorphic.IsCyclicVector.commute_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:30:40.032687+00:00
 -- url     : https://prove2.me/theorems/dd8ad11e-1160-4dad-823b-97287f87f708

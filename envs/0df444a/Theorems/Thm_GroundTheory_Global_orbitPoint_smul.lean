@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_orbitPoint_smul
 -- name    : GroundTheory.Global.orbitPoint_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:42:35.132282+00:00
 -- url     : https://prove2.me/theorems/7f13411f-7178-4dd3-9e2b-408109aca589

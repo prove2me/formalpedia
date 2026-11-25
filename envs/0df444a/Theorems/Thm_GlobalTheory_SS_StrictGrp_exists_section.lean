@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_StrictGrp_exists_section
 -- name    : GlobalTheory.SS.StrictGrp.exists_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:04:22.813306+00:00
 -- url     : https://prove2.me/theorems/b19f7127-03a3-48d4-9bbe-d1d0ed0aa362

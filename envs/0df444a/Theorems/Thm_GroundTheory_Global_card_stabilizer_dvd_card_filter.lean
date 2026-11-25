@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_card_stabilizer_dvd_card_filter
 -- name    : GroundTheory.Global.card_stabilizer_dvd_card_filter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:41:06.192222+00:00
 -- url     : https://prove2.me/theorems/edd3cede-300b-45f0-94a5-450b35cd31b1

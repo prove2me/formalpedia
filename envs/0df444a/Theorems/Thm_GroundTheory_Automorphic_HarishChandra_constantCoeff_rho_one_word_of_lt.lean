@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_constantCoeff_rho_one_word_of_lt
 -- name    : GroundTheory.Automorphic.HarishChandra.constantCoeff_rho_one_word_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:30:35.514811+00:00
 -- url     : https://prove2.me/theorems/b55b665d-a2ea-49cc-a106-60cbc67e2384

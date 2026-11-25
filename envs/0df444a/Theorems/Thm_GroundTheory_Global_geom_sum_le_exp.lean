@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_geom_sum_le_exp
 -- name    : GroundTheory.Global.geom_sum_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:41:35.343945+00:00
 -- url     : https://prove2.me/theorems/7d8e4c58-6c4f-418f-9b4e-ddd0ede2e0a0

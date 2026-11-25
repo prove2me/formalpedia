@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_fischer_rowOp
 -- name    : GroundTheory.Automorphic.HarishChandra.fischer_rowOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:56:56.885555+00:00
 -- url     : https://prove2.me/theorems/6ba9cdc7-3958-427c-bada-0897ad8391e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_avgOver_map_mulEquiv
 -- name    : GroundTheory.Automorphic.Parabolic.avgOver_map_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:41:44.217304+00:00
 -- url     : https://prove2.me/theorems/24aec93a-a359-40c8-8d71-aa71f8ae01db

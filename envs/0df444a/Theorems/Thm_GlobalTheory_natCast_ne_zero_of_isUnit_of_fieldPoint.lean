@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_natCast_ne_zero_of_isUnit_of_fieldPoint
 -- name    : GlobalTheory.natCast_ne_zero_of_isUnit_of_fieldPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:08:29.809305+00:00
 -- url     : https://prove2.me/theorems/73aff4cc-e972-4b13-abd2-35b45fdd3668

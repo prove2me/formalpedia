@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_sigma_mem_doubleCoset_permGL
 -- name    : GroundTheory.Automorphic.Whittaker.sigma_mem_doubleCoset_permGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:47.656805+00:00
 -- url     : https://prove2.me/theorems/bec16d5e-83be-47ee-ae0b-533544cd9a0f

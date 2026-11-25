@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hermPair_swap
 -- name    : GroundTheory.Automorphic.hermPair_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:36:21.425942+00:00
 -- url     : https://prove2.me/theorems/00ab13bd-fe36-4990-b6dd-959c390df141

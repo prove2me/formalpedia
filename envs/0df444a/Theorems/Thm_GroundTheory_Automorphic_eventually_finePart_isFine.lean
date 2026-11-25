@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_eventually_finePart_isFine
 -- name    : GroundTheory.Automorphic.eventually_finePart_isFine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:38:30.356433+00:00
 -- url     : https://prove2.me/theorems/dfa00508-b43d-465a-8012-46c540de88a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_root_pow_mem_map
 -- name    : GroundTheory.LocalField.root_pow_mem_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:44:50.87273+00:00
 -- url     : https://prove2.me/theorems/09a10db1-1fbd-4fe7-906c-cbf1ec673fb6

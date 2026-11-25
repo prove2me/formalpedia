@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.conditionalPredictableCompensationCommonNullV2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T23:08:43.171013+00:00
 -- url     : https://prove2.me/submissions/7edc7df6-d871-44cc-99a7-9607541231bf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_nonnegativePredictableJumpCompensationCommonNullV2

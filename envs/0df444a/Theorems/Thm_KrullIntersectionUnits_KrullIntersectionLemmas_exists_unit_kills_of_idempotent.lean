@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KrullIntersectionUnits_KrullIntersectionLemmas_exists_unit_kills_of_idempotent
 -- name    : KrullIntersectionUnits.KrullIntersectionLemmas.exists_unit_kills_of_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:51:34.611506+00:00
 -- url     : https://prove2.me/theorems/9d5ed873-6590-4a70-a020-fbcf421f500e

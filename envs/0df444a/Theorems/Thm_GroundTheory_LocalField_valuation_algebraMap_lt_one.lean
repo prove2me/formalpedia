@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_valuation_algebraMap_lt_one
 -- name    : GroundTheory.LocalField.valuation_algebraMap_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:46:49.360001+00:00
 -- url     : https://prove2.me/theorems/7ad7a385-1b17-4ede-a0ca-0c5b50d723b0

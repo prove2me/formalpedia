@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_sup_right
 -- name    : GlobalTheory.LengthCommensurable.sup_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:58:38.202066+00:00
 -- url     : https://prove2.me/theorems/0e72f515-e7d8-4271-b8ef-242d9b9c1fe0

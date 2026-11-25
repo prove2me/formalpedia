@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_DualSec_isBasisOn_dualBasis
 -- name    : GroundTheory.Arith.SchemeCoh.DualSec.isBasisOn_dualBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:01:52.690251+00:00
 -- url     : https://prove2.me/theorems/a9a8182b-5a08-4641-b782-b932c32b064c

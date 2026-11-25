@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isOpen_unitFiltrationUnits
 -- name    : GroundTheory.LocalField.isOpen_unitFiltrationUnits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:31:46.46425+00:00
 -- url     : https://prove2.me/theorems/daeae3d0-f002-42e9-9c75-e31331a319b1

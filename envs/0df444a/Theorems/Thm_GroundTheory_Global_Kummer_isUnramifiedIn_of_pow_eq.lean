@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Kummer_isUnramifiedIn_of_pow_eq
 -- name    : GroundTheory.Global.Kummer.isUnramifiedIn_of_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:47:26.141878+00:00
 -- url     : https://prove2.me/theorems/f78e2ea0-16c7-43ff-ae1b-6737ef66e9aa

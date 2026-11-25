@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetCompare_mem_eigenspace_iff
 -- name    : GlobalTheory.DetCompare.mem_eigenspace_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:05:29.189868+00:00
 -- url     : https://prove2.me/theorems/1d577cf8-e929-4794-9b34-2dd367ae0ad9

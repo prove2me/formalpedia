@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_card_zsmul_eq_zero
 -- name    : GroundTheory.Arith.Abelian.card_zsmul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:34:42.57988+00:00
 -- url     : https://prove2.me/theorems/750fb051-037b-47a7-b1ec-6e33857f0922

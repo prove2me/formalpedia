@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_twoFormBound_curv_two_mul
 -- name    : GlobalTheory.HermFrame.twoFormBound_curv_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:39:27.134259+00:00
 -- url     : https://prove2.me/theorems/dd5ac82b-8cf2-47b6-bc37-11e90d3e3ff0

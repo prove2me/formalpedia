@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_untilt_sum_eq
 -- name    : GroundTheory.PAdicHodge.exists_untilt_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:48:08.586988+00:00
 -- url     : https://prove2.me/theorems/60d0bac6-a99f-443d-9346-b723fe5f741b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_emultiplicity_asIdeal_of_isMaximal
 -- name    : GroundTheory.Global.emultiplicity_asIdeal_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:59.875902+00:00
 -- url     : https://prove2.me/theorems/7eafb1be-28be-441e-bf53-d98baa4f78a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hsNormSq_comp_left_le
 -- name    : GroundTheory.Automorphic.hsNormSq_comp_left_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:38:48.69863+00:00
 -- url     : https://prove2.me/theorems/dd898fb6-67e0-4ed1-94d8-34cf850623a4

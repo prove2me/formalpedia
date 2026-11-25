@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unitary_adelic_decomposition_split_support
 -- name    : GlobalTheory.T.exists_unitary_adelic_decomposition_split_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:39:50.3095+00:00
 -- url     : https://prove2.me/theorems/244ae6ee-4ad6-4b13-8e9e-a1174d298c8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ProfiniteInteger_proj_eq_zero_iff
 -- name    : GroundTheory.LocalField.Abstract.ProfiniteInteger.proj_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:33:16.533182+00:00
 -- url     : https://prove2.me/theorems/0f8d298f-0116-4a0a-a405-6c82420f7342

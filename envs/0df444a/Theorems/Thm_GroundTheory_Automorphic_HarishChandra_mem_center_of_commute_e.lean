@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_mem_center_of_commute_e
 -- name    : GroundTheory.Automorphic.HarishChandra.mem_center_of_commute_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:30:01.54155+00:00
 -- url     : https://prove2.me/theorems/249c8459-e903-4476-a9be-9291b383b211

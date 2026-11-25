@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_neg_sum_eq
 -- name    : GlobalTheory.finite_neg_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:05:06.651047+00:00
 -- url     : https://prove2.me/theorems/a5fff12f-9254-4728-9b7e-52277e642cbb

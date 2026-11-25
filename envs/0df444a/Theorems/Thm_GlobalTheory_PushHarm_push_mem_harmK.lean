@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushHarm_push_mem_harmK
 -- name    : GlobalTheory.PushHarm.push_mem_harmK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:08:05.831579+00:00
 -- url     : https://prove2.me/theorems/a68ca444-52cd-4ca8-9cc6-b3d04a5c6369

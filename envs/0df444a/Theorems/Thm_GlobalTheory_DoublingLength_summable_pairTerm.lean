@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DoublingLength_summable_pairTerm
 -- name    : GlobalTheory.DoublingLength.summable_pairTerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:53:53.443978+00:00
 -- url     : https://prove2.me/theorems/57be3e87-c64f-4a1f-b974-5de3a04b3b90

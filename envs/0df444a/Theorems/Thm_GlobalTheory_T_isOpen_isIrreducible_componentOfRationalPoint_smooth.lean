@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOpen_isIrreducible_componentOfRationalPoint_smooth
 -- name    : GlobalTheory.T.isOpen_isIrreducible_componentOfRationalPoint_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:41:42.105535+00:00
 -- url     : https://prove2.me/theorems/2964b3d4-b3cc-48c7-bbb4-9efdafeba02c

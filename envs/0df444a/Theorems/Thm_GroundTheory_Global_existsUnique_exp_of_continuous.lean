@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_exp_of_continuous
 -- name    : GroundTheory.Global.existsUnique_exp_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:18:22.974033+00:00
 -- url     : https://prove2.me/theorems/f58d13f9-325b-4ee1-b537-64b5107fd2f5

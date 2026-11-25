@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isPullback_flat_of_tame_alt
 -- name    : GlobalTheory.T.isPullback_flat_of_tame_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:50:23.499981+00:00
 -- url     : https://prove2.me/theorems/60204b89-214c-43b0-969b-6dab3204644a

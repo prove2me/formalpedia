@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomExt_exists_iso_pullback_pullback
 -- name    : GlobalTheory.HomExt.exists_iso_pullback_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:09:49.91881+00:00
 -- url     : https://prove2.me/theorems/c5e6c44f-a4a0-442b-97ab-08cdb0a649a3

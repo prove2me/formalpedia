@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualCokernel_extZero_retract
 -- name    : GlobalTheory.DualCokernel.extZero_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:06:24.361228+00:00
 -- url     : https://prove2.me/theorems/85b8789a-808d-450a-990c-e45726bde016

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_isFiniteTypeOverZ_specInt_2ea15994c44a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Model_isFiniteTypeOverZ_specInt_2ea15994c44a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:01:24.837827+00:00
 -- url     : https://prove2.me/theorems/634d701e-c1d4-4e0c-9970-e24ec8647435

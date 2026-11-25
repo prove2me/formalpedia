@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_X_dvd_one_add_X_pow_sub_one
 -- name    : GroundTheory.PAdicHodge.X_dvd_one_add_X_pow_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:45:43.287809+00:00
 -- url     : https://prove2.me/theorems/f7a1efb5-9780-440b-bd27-b85bb9b26b31

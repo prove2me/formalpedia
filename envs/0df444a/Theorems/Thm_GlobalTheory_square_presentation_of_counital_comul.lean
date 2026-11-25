@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_square_presentation_of_counital_comul
 -- name    : GlobalTheory.square_presentation_of_counital_comul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:22:13.165715+00:00
 -- url     : https://prove2.me/theorems/29e7b34e-65b4-480b-a8ee-633e05a2ff9b

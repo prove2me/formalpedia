@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eventually_mem_localizationAt
 -- name    : GroundTheory.Global.eventually_mem_localizationAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:02:36.751427+00:00
 -- url     : https://prove2.me/theorems/d5f8c9eb-837c-4a22-a3eb-8de7e84679e9

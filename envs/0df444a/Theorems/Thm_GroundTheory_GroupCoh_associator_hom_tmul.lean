@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_associator_hom_tmul
 -- name    : GroundTheory.GroupCoh.associator_hom_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:36.986801+00:00
 -- url     : https://prove2.me/theorems/be3c7f33-d750-48b6-9bc2-2f3ed0d3ef89

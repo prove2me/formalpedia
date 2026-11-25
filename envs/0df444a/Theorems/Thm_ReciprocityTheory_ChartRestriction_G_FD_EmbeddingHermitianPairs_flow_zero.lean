@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_EmbeddingHermitianPairs_flow_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.EmbeddingHermitianPairs.flow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:15:56.15625+00:00
 -- url     : https://prove2.me/theorems/f2e0c001-0dd6-4a3c-b534-1aaed3914eaf

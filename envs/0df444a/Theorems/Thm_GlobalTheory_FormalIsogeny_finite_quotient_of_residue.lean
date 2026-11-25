@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_finite_quotient_of_residue
 -- name    : GlobalTheory.FormalIsogeny.finite_quotient_of_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:00:43.733939+00:00
 -- url     : https://prove2.me/theorems/47ef1e0d-bba9-4802-9b05-c07fa832fd47

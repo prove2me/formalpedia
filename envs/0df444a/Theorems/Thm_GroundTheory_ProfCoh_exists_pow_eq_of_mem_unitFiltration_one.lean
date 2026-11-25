@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_pow_eq_of_mem_unitFiltration_one
 -- name    : GroundTheory.ProfCoh.exists_pow_eq_of_mem_unitFiltration_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:50:00.39982+00:00
 -- url     : https://prove2.me/theorems/1dba5f81-2ebc-4e3f-b420-66c59f253d35

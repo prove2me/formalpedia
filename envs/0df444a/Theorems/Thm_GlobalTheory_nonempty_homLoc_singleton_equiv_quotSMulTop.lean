@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_homLoc_singleton_equiv_quotSMulTop
 -- name    : GlobalTheory.nonempty_homLoc_singleton_equiv_quotSMulTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:54:42.093797+00:00
 -- url     : https://prove2.me/theorems/673b4925-3ceb-483a-b468-8f671fff7c3a

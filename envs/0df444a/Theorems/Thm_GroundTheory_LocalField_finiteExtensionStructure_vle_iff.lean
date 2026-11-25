@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finiteExtensionStructure_vle_iff
 -- name    : GroundTheory.LocalField.finiteExtensionStructure_vle_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:45:00.722723+00:00
 -- url     : https://prove2.me/theorems/20aa273d-c7a7-4e3c-a1bc-08d7706b9ac2

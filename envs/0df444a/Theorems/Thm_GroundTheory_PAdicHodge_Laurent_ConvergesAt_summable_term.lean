@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_ConvergesAt_summable_term
 -- name    : GroundTheory.PAdicHodge.Laurent.ConvergesAt.summable_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:13.154821+00:00
 -- url     : https://prove2.me/theorems/e3333d59-61a2-4c4c-b7eb-56968303e971

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_sUnitsOf
 -- name    : GroundTheory.ProfCoh.mem_sUnitsOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:51:04.07517+00:00
 -- url     : https://prove2.me/theorems/3fbca578-9fd5-4128-a21a-69c660d2dc21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_e_diag_mul_canon_sub
 -- name    : GroundTheory.Automorphic.HarishChandra.e_diag_mul_canon_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:29:48.453629+00:00
 -- url     : https://prove2.me/theorems/64e4244d-586d-49a9-8ac5-7f3fb0ed2978

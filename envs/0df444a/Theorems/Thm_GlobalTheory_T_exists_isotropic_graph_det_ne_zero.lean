@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isotropic_graph_det_ne_zero
 -- name    : GlobalTheory.T.exists_isotropic_graph_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:36:57.377468+00:00
 -- url     : https://prove2.me/theorems/5f19dded-ee29-4a0c-9fcc-9ce0ca3ec338

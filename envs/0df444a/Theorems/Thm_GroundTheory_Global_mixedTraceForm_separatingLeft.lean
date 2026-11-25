@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mixedTraceForm_separatingLeft
 -- name    : GroundTheory.Global.mixedTraceForm_separatingLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:42:25.650949+00:00
 -- url     : https://prove2.me/theorems/fcc7cc9f-73cf-4fd9-96f4-f0cd6bb8283f

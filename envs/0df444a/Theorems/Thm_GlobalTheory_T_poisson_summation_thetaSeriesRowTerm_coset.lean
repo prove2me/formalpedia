@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_poisson_summation_thetaSeriesRowTerm_coset
 -- name    : GlobalTheory.T.poisson_summation_thetaSeriesRowTerm_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:55:36.004959+00:00
 -- url     : https://prove2.me/theorems/981fa518-9123-4955-9dd4-adab380f394a

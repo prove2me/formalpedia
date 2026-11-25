@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_eq_of_forall_evalAt
 -- name    : GroundTheory.Automorphic.Spherical.eq_of_forall_evalAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:21:27.419249+00:00
 -- url     : https://prove2.me/theorems/77d02eaa-d650-48a2-b373-89117559301a

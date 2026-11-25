@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_measurePreserving_mapComplexCoord
 -- name    : GroundTheory.Global.measurePreserving_mapComplexCoord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:57:22.69178+00:00
 -- url     : https://prove2.me/theorems/9139620d-c4b0-4435-abcb-24548b7b22b1

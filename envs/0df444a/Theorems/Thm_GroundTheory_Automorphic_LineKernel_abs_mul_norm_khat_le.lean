@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_abs_mul_norm_khat_le
 -- name    : GroundTheory.Automorphic.LineKernel.abs_mul_norm_khat_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:32:25.90826+00:00
 -- url     : https://prove2.me/theorems/ba2ba347-776d-4746-87c1-4010cb4162cc

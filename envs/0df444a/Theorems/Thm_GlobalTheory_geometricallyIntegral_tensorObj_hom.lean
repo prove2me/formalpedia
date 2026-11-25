@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyIntegral_tensorObj_hom
 -- name    : GlobalTheory.geometricallyIntegral_tensorObj_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:54:13.359882+00:00
 -- url     : https://prove2.me/theorems/1049515f-fde3-4bb2-92b8-6ed1358ea899

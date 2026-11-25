@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_hasDerivAt_add_cpow
 -- name    : GroundTheory.Global.Quadratic.hasDerivAt_add_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:39:16.781851+00:00
 -- url     : https://prove2.me/theorems/1f2c9693-3ade-4dc4-945c-f3219cf414b9

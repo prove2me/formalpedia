@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_asIdeal_pow_eq_one_iff
 -- name    : GroundTheory.Global.asIdeal_pow_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:42:28.18151+00:00
 -- url     : https://prove2.me/theorems/2f4c5345-19f1-4678-8e19-86a7a86318a5

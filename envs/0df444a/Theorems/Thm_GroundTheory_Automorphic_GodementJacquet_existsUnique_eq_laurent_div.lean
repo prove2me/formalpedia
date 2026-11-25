@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_existsUnique_eq_laurent_div
 -- name    : GroundTheory.Automorphic.GodementJacquet.existsUnique_eq_laurent_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:29:51.199218+00:00
 -- url     : https://prove2.me/theorems/100a8bc0-2428-4d0b-8df2-6d455a91c41c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SpectralAlgClosure_norm_eq_spectralNorm
 -- name    : GroundTheory.PAdicHodge.SpectralAlgClosure.norm_eq_spectralNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:45:51.015885+00:00
 -- url     : https://prove2.me/theorems/a904b81e-731b-4530-95e1-f77f7d770293

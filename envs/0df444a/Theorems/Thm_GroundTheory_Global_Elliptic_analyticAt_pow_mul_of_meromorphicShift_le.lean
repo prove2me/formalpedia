@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_analyticAt_pow_mul_of_meromorphicShift_le
 -- name    : GroundTheory.Global.Elliptic.analyticAt_pow_mul_of_meromorphicShift_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:17:01.705035+00:00
 -- url     : https://prove2.me/theorems/72e114d2-3001-418c-b520-067b69f62ccf

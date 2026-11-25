@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_totalIdleTrafficPsiSignV1
 -- name    : Kyprianou.Ch04.totalIdleTrafficPsiSignV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:03:56.293948+00:00
 -- url     : https://prove2.me/theorems/7c822b6a-59cd-4a8c-8489-4e95ce9756fa

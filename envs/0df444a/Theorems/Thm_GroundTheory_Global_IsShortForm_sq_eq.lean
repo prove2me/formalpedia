@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IsShortForm_sq_eq
 -- name    : GroundTheory.Global.IsShortForm.sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:39:30.792032+00:00
 -- url     : https://prove2.me/theorems/c960fd3d-f1e2-434d-9daa-a9ec50f78176

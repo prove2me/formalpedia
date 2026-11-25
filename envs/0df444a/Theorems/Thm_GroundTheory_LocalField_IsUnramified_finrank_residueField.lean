@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsUnramified_finrank_residueField
 -- name    : GroundTheory.LocalField.IsUnramified.finrank_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:43:58.533327+00:00
 -- url     : https://prove2.me/theorems/75c75484-7ce3-4878-a601-1abbfa2a1c83

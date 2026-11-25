@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_le_nuOf_iff
 -- name    : KStar.Tree.le_nuOf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:54.415132+00:00
 -- url     : https://prove2.me/theorems/c81de8f5-81f9-486f-a4e2-ad0a77497d9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeCurvPoint_dual_bound
 -- name    : GlobalTheory.HodgeCurvPoint.dual_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:49:12.291787+00:00
 -- url     : https://prove2.me/theorems/5c80b0f3-29af-4b07-9fde-8ce6dea20be0

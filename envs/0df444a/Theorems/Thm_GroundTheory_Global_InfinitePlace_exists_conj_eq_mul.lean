@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_exists_conj_eq_mul
 -- name    : GroundTheory.Global.InfinitePlace.exists_conj_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:39:16.488933+00:00
 -- url     : https://prove2.me/theorems/ba9493d9-39cd-4d56-90e4-47a80a4850bc

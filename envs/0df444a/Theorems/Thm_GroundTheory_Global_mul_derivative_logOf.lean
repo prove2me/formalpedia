@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mul_derivative_logOf
 -- name    : GroundTheory.Global.mul_derivative_logOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:42:12.399349+00:00
 -- url     : https://prove2.me/theorems/bb85f6d8-fff2-45b6-81e6-9198149d4e31

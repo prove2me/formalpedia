@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_isOpen_of_isClosed_of_ne_zero
 -- name    : GroundTheory.Global.Cyclotomic.isOpen_of_isClosed_of_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:37:54.387976+00:00
 -- url     : https://prove2.me/theorems/d03bf3ff-b890-4b77-896c-1dac6f62291c

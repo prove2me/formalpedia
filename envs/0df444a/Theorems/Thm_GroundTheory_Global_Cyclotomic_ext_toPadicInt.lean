@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_ext_toPadicInt
 -- name    : GroundTheory.Global.Cyclotomic.ext_toPadicInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:06:46.223047+00:00
 -- url     : https://prove2.me/theorems/b8abae8f-8d79-4b00-bafc-66416ab8fcfe

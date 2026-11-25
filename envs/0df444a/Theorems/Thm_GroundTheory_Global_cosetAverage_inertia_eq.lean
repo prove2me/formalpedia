@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cosetAverage_inertia_eq
 -- name    : GroundTheory.Global.cosetAverage_inertia_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:24.413579+00:00
 -- url     : https://prove2.me/theorems/7c11de26-1407-4436-b05d-d5b9f83fe78b

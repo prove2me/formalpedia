@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_one_add_X_mul_mk_neg_one_pow
 -- name    : GroundTheory.PAdicHodge.one_add_X_mul_mk_neg_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:47:16.233103+00:00
 -- url     : https://prove2.me/theorems/c4b95dd6-b957-4880-a164-4635f5b9936f

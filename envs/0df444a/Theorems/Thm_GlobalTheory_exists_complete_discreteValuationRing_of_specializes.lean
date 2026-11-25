@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_complete_discreteValuationRing_of_specializes
 -- name    : GlobalTheory.exists_complete_discreteValuationRing_of_specializes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:30:32.682217+00:00
 -- url     : https://prove2.me/theorems/0db44dc5-e22a-4bda-9f38-e465965c2584

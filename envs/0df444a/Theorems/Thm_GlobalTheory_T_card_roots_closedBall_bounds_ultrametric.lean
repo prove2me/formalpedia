@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_roots_closedBall_bounds_ultrametric
 -- name    : GlobalTheory.T.card_roots_closedBall_bounds_ultrametric
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:43:44.186307+00:00
 -- url     : https://prove2.me/theorems/83f5d723-314e-4de5-a04d-f585cf71731c

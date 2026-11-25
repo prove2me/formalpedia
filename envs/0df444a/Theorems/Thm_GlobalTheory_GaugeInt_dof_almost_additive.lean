@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeInt_dof_almost_additive
 -- name    : GlobalTheory.GaugeInt.dof_almost_additive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:58:54.359796+00:00
 -- url     : https://prove2.me/theorems/7d7fca13-58fe-4f95-bb74-a75df1fc4ada

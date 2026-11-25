@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coeToSubmodule_traceDualIdeal
 -- name    : GroundTheory.Global.coeToSubmodule_traceDualIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:40:20.24899+00:00
 -- url     : https://prove2.me/theorems/adad7e22-76b7-48b5-a356-ac7006eee964

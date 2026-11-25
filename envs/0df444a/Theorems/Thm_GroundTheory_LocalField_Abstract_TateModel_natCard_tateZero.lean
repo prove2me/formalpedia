@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_TateModel_natCard_tateZero
 -- name    : GroundTheory.LocalField.Abstract.TateModel.natCard_tateZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:20.823874+00:00
 -- url     : https://prove2.me/theorems/a22c7e9b-b974-47f5-a3da-92b5038ec22d

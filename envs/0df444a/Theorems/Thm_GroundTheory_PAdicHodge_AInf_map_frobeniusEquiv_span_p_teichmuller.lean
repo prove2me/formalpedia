@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_map_frobeniusEquiv_span_p_teichmuller
 -- name    : GroundTheory.PAdicHodge.AInf.map_frobeniusEquiv_span_p_teichmuller
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:45:52.035978+00:00
 -- url     : https://prove2.me/theorems/e56e569c-a808-4f89-84a0-ec767f75aeb6

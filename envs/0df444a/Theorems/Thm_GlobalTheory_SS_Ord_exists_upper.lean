@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_Ord_exists_upper
 -- name    : GlobalTheory.SS.Ord.exists_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:18:03.822149+00:00
 -- url     : https://prove2.me/theorems/d3f29828-9112-4f85-b533-c2684329bb21

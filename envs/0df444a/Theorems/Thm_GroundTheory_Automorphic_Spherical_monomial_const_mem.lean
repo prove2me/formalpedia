@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_monomial_const_mem
 -- name    : GroundTheory.Automorphic.Spherical.monomial_const_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:34:01.599347+00:00
 -- url     : https://prove2.me/theorems/753a6dfb-8cd6-4cd2-a9e3-bc7c12d20d09

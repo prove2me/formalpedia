@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exp_sub_sq_le_one_add
 -- name    : GroundTheory.Global.exp_sub_sq_le_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:41:18.800817+00:00
 -- url     : https://prove2.me/theorems/8e083bd1-6764-41c0-a1f8-3f35dc71fb98

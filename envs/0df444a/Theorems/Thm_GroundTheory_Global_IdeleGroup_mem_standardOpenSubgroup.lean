@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_mem_standardOpenSubgroup
 -- name    : GroundTheory.Global.IdeleGroup.mem_standardOpenSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:18:57.862828+00:00
 -- url     : https://prove2.me/theorems/7644a2ff-40f9-451d-b4b7-9c8d58578a35

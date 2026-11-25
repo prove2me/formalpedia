@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_toDistribution_apply_eq_integral
 -- name    : GroundTheory.Automorphic.Sobolev.toDistribution_apply_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:51.154123+00:00
 -- url     : https://prove2.me/theorems/cdd1aee3-ad97-4122-a402-55f0aeb0366d

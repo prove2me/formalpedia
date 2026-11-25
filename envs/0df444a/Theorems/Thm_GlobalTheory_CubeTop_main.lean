@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeTop_main
 -- name    : GlobalTheory.CubeTop.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:50:05.015583+00:00
 -- url     : https://prove2.me/theorems/e458d2fb-ecf2-4af9-a7f8-a4b32963d9c7

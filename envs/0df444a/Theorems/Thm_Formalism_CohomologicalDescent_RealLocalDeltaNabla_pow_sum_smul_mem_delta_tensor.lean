@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_pow_sum_smul_mem_delta_tensor
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.pow_sum_smul_mem_delta_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:08:39.232388+00:00
 -- url     : https://prove2.me/theorems/0df90631-cbe2-4dab-a148-436714f60d32

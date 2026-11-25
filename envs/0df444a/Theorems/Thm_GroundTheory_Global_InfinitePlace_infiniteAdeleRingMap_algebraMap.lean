@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_infiniteAdeleRingMap_algebraMap
 -- name    : GroundTheory.Global.InfinitePlace.infiniteAdeleRingMap_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:39:53.914584+00:00
 -- url     : https://prove2.me/theorems/db935ba4-ec52-423d-bd5b-e5348b830058

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_mem_doubleCoset_permGL
 -- name    : GroundTheory.Automorphic.exists_mem_doubleCoset_permGL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:17:20.005028+00:00
 -- url     : https://prove2.me/theorems/053db390-b274-4987-8a84-755ba676e72f

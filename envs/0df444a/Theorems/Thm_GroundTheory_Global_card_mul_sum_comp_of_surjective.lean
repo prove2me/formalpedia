@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_card_mul_sum_comp_of_surjective
 -- name    : GroundTheory.Global.card_mul_sum_comp_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:41:17.540773+00:00
 -- url     : https://prove2.me/theorems/f90222ef-fe77-4f62-a182-5c9ae45f388a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_h2IntRepAddEquiv_H2_class
 -- name    : GroundTheory.ProfCoh.h2IntRepAddEquiv_H2_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:50:58.267876+00:00
 -- url     : https://prove2.me/theorems/5be472aa-159f-431d-a759-e72d4e00e4f3

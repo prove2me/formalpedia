@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_monomial_basis_cechCube_polynomialGrading
 -- name    : GlobalTheory.T.exists_monomial_basis_cechCube_polynomialGrading
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:01:06.963626+00:00
 -- url     : https://prove2.me/theorems/b2570b42-8f64-4a61-948e-f02df8caabf6

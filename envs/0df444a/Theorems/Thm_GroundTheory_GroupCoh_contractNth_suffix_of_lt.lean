@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_contractNth_suffix_of_lt
 -- name    : GroundTheory.GroupCoh.contractNth_suffix_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:35.589912+00:00
 -- url     : https://prove2.me/theorems/1096d6ba-f1b8-479a-823c-376fff3729ad

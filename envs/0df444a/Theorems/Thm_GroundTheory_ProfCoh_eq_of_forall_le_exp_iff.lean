@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_eq_of_forall_le_exp_iff
 -- name    : GroundTheory.ProfCoh.eq_of_forall_le_exp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:52.508862+00:00
 -- url     : https://prove2.me/theorems/898c94d1-5424-44e6-b7db-f68153ac3fc5

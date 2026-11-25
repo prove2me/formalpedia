@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_commonNullPredictableENNRepresentative
 -- name    : Kyprianou.Ch04.commonNullPredictableENNRepresentative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:04:28.06043+00:00
 -- url     : https://prove2.me/theorems/5d161ee2-626c-4ccb-a821-662c6c461ab8

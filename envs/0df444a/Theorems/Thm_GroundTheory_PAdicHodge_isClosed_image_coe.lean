@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_isClosed_image_coe
 -- name    : GroundTheory.PAdicHodge.isClosed_image_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:47:03.543801+00:00
 -- url     : https://prove2.me/theorems/42dec312-12d6-4bc8-b728-a40c257f6cd4

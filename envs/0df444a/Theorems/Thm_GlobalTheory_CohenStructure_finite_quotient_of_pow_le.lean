@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenStructure_finite_quotient_of_pow_le
 -- name    : GlobalTheory.CohenStructure.finite_quotient_of_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:09:09.362815+00:00
 -- url     : https://prove2.me/theorems/ea9a2069-d5e8-46a4-851c-01f0d94dfe29

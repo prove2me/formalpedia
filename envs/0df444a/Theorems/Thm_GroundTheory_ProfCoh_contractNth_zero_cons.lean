@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_contractNth_zero_cons
 -- name    : GroundTheory.ProfCoh.contractNth_zero_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:48:29.724877+00:00
 -- url     : https://prove2.me/theorems/848f7f82-b91a-4be2-9ea2-50d70a19221f

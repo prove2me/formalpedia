@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_isSymm_of_lift
 -- name    : GlobalTheory.KS.isSymm_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:47:17.754956+00:00
 -- url     : https://prove2.me/theorems/2ed91315-3670-44e6-bfe9-bf4e82e28d75

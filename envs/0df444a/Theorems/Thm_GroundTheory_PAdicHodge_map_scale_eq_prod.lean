@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_map_scale_eq_prod
 -- name    : GroundTheory.PAdicHodge.map_scale_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:54.878784+00:00
 -- url     : https://prove2.me/theorems/f795c981-aa6f-462e-bc8e-ddeae0734a7b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_limit_of_pow_dvd
 -- name    : GroundTheory.LocalField.exists_limit_of_pow_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:44:03.061148+00:00
 -- url     : https://prove2.me/theorems/0d150803-7024-4dc4-8e37-168b0aaa4710

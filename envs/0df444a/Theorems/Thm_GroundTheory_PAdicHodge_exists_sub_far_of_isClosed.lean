@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_sub_far_of_isClosed
 -- name    : GroundTheory.PAdicHodge.exists_sub_far_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:46:22.76151+00:00
 -- url     : https://prove2.me/theorems/b9098ccc-5ba1-46a5-b93a-f62ec4a8f4a7

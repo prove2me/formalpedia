@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_FiniteReduction_map
 -- name    : GlobalTheory.FormalIsogeny.FiniteReduction.map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:01:09.961114+00:00
 -- url     : https://prove2.me/theorems/5cce415a-b2ab-4bda-9363-fe5371f29e4e

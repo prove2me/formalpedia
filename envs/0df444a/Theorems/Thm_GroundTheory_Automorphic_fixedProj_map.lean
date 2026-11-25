@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_fixedProj_map
 -- name    : GroundTheory.Automorphic.fixedProj_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:08.59558+00:00
 -- url     : https://prove2.me/theorems/f45b49e9-8836-493e-967a-55e5015f0db9

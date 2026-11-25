@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_integer
 -- name    : GroundTheory.Global.finite_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:41:33.562823+00:00
 -- url     : https://prove2.me/theorems/346a690a-ad6f-447f-b214-cc7e2febf3a6

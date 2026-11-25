@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_floor_h_bounds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.floor_h_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:44:25.245299+00:00
 -- url     : https://prove2.me/theorems/0b6003cf-e972-4fd7-afb3-d2d5f6a67cde

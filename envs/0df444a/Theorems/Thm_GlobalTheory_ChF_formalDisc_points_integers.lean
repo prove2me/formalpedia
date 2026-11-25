@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_formalDisc_points_integers
 -- name    : GlobalTheory.ChF.formalDisc_points_integers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:17:55.998812+00:00
 -- url     : https://prove2.me/theorems/79988f91-2429-4fc3-b33e-4923f44b56d7

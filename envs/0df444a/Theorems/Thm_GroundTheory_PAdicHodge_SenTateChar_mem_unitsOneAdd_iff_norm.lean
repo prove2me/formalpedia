@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_mem_unitsOneAdd_iff_norm
 -- name    : GroundTheory.PAdicHodge.SenTateChar.mem_unitsOneAdd_iff_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:45:48.211939+00:00
 -- url     : https://prove2.me/theorems/319f3460-1454-4c3d-95c5-c3ea7acb9242

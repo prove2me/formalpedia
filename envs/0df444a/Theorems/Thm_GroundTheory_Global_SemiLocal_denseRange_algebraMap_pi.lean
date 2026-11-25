@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_denseRange_algebraMap_pi
 -- name    : GroundTheory.Global.SemiLocal.denseRange_algebraMap_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:39:28.529284+00:00
 -- url     : https://prove2.me/theorems/150ffecc-fd10-42d0-a004-75aaedfc8834

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mul_inv_mem_of_iterate_eq
 -- name    : GroundTheory.ProfCoh.mul_inv_mem_of_iterate_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:51:20.410807+00:00
 -- url     : https://prove2.me/theorems/2c6b0af0-f19c-48f5-a6ba-d023ff227559

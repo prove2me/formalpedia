@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_apply_eq_of_mem_lowerRamificationGroup_zero
 -- name    : GroundTheory.ProfCoh.apply_eq_of_mem_lowerRamificationGroup_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:48:29.488245+00:00
 -- url     : https://prove2.me/theorems/a095df05-e7f7-4786-b1fb-c8fd68d0a028

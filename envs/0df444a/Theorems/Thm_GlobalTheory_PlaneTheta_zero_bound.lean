@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaneTheta_zero_bound
 -- name    : GlobalTheory.PlaneTheta.zero_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:48:54.053704+00:00
 -- url     : https://prove2.me/theorems/cd601386-0681-49ea-b551-d438c1e00955

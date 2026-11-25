@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_continuous_tsum_comp_add
 -- name    : GroundTheory.Global.continuous_tsum_comp_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:36.932272+00:00
 -- url     : https://prove2.me/theorems/d2e2339f-160d-4b70-abb4-dd6e699f7586

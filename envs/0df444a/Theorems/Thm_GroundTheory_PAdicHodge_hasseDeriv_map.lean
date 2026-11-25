@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_hasseDeriv_map
 -- name    : GroundTheory.PAdicHodge.hasseDeriv_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:46:59.081242+00:00
 -- url     : https://prove2.me/theorems/99eef3d2-f7d1-47fe-9c78-c79c807eaf2b

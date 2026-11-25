@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_contractNth_prefix
 -- name    : GroundTheory.GroupCoh.contractNth_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:28.48358+00:00
 -- url     : https://prove2.me/theorems/24c9b60c-bd12-4af8-b505-3012cafff638

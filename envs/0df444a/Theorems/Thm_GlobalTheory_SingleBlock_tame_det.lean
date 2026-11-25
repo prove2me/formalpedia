@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_tame_det
 -- name    : GlobalTheory.SingleBlock.tame_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:55:01.241574+00:00
 -- url     : https://prove2.me/theorems/2e696822-c6f5-4670-9bd3-acd13fdd9172

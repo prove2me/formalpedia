@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_ideleModule_surjective
 -- name    : GroundTheory.Global.IdeleGroup.ideleModule_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:00.077582+00:00
 -- url     : https://prove2.me/theorems/271bd81e-fbc6-413c-9305-6b3e0c59cfee

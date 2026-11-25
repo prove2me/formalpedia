@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_reverse_charpoly_eq_charpolyRev
 -- name    : GroundTheory.Global.reverse_charpoly_eq_charpolyRev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:00.307006+00:00
 -- url     : https://prove2.me/theorems/018a8d54-841f-4934-81fe-1583b10eeb94

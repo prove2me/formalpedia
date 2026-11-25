@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HomLinear_exists_linear_of_isMonHom
 -- name    : GlobalTheory.HomLinear.exists_linear_of_isMonHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:56:15.322496+00:00
 -- url     : https://prove2.me/theorems/a8b5b672-8511-451f-b681-4d674ec0bee0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_pow_prime_fix_cycl_succ
 -- name    : GroundTheory.PAdicHodge.pow_prime_fix_cycl_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:47:11.875499+00:00
 -- url     : https://prove2.me/theorems/9e03bfd7-21b6-4250-8209-3a5b08d359b2

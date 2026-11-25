@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_permOfFun_mem_ker
 -- name    : GroundTheory.Global.permOfFun_mem_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:42:50.019804+00:00
 -- url     : https://prove2.me/theorems/d46008a0-04f5-4e16-bc86-5e6eb8bbad20

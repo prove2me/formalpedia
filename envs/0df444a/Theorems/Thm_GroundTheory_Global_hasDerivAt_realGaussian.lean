@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasDerivAt_realGaussian
 -- name    : GroundTheory.Global.hasDerivAt_realGaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:41:09.554556+00:00
 -- url     : https://prove2.me/theorems/033d5e25-a5f7-41ee-92c4-ed627b8f7055

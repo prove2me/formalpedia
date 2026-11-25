@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hermTrace_self_of_hermValue
 -- name    : GroundTheory.Automorphic.hermTrace_self_of_hermValue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:37:05.299435+00:00
 -- url     : https://prove2.me/theorems/53e9afb7-d57d-45f0-934e-31c9241acf4a

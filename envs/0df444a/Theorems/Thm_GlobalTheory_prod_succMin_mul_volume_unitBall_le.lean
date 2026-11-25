@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_prod_succMin_mul_volume_unitBall_le
 -- name    : GlobalTheory.prod_succMin_mul_volume_unitBall_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:15:20.76333+00:00
 -- url     : https://prove2.me/theorems/2aa14d20-c09f-4919-b1ff-f4e9316c4457

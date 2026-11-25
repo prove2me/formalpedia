@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_isIso_dualEval
 -- name    : GroundTheory.Arith.SchemeCoh.isIso_dualEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:10.30583+00:00
 -- url     : https://prove2.me/theorems/1cf656c8-f825-4132-9d08-c9d61801f869

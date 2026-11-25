@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_kummerField_kummerGroup
 -- name    : GroundTheory.ProfCoh.kummerField_kummerGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:51:16.688457+00:00
 -- url     : https://prove2.me/theorems/0f69c321-549f-4999-9345-2e92e9b5dd3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvNormalizedExponentGapV1
 -- name    : Kyprianou.Ch04.bvNormalizedExponentGapV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:06:40.854673+00:00
 -- url     : https://prove2.me/theorems/763611f4-13b0-48c8-9365-76db7a5e9858

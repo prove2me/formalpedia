@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_ringKrullDim_mvPowerSeries
 -- name    : GlobalTheory.FormalIsogeny.ringKrullDim_mvPowerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:00:54.65865+00:00
 -- url     : https://prove2.me/theorems/1b321e8c-677e-4a9a-9eec-b401505f7ff7

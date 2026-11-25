@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hermTrace_eq_sum
 -- name    : GroundTheory.Automorphic.hermTrace_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:37:29.142158+00:00
 -- url     : https://prove2.me/theorems/5f33f7ce-af35-4cb7-9b7e-7e0687bb3a37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_gaussLift_algebraMap_base
 -- name    : GroundTheory.Global.gaussLift_algebraMap_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:42:01.81285+00:00
 -- url     : https://prove2.me/theorems/94b53b3b-d710-450f-81ff-4fec05be51ae

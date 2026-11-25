@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_shiftSCQ_shortExact
 -- name    : GroundTheory.GroupCoh.shiftSCQ_shortExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:42:56.552719+00:00
 -- url     : https://prove2.me/theorems/cd953b71-6bb6-498c-9571-5a7b971e8c0a

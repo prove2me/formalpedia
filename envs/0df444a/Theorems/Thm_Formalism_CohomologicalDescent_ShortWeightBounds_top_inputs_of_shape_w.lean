@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_top_inputs_of_shape_w
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.top_inputs_of_shape_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:28:57.642806+00:00
 -- url     : https://prove2.me/theorems/b371a996-3fe6-44e0-abb6-6d0a8b47396f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_exists_eq_mul_of_isClosed
 -- name    : GroundTheory.Global.Cyclotomic.exists_eq_mul_of_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:37:12.81996+00:00
 -- url     : https://prove2.me/theorems/8e703e0c-adaa-4b4e-8e58-692b1d03fc14

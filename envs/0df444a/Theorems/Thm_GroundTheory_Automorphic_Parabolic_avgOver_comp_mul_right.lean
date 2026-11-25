@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_avgOver_comp_mul_right
 -- name    : GroundTheory.Automorphic.Parabolic.avgOver_comp_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:32:45.152993+00:00
 -- url     : https://prove2.me/theorems/f732b0c5-6f29-4389-b8aa-e4494d050b32

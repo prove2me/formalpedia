@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_nrm_det
 -- name    : GlobalTheory.SingleBlock.nrm_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:54:51.065151+00:00
 -- url     : https://prove2.me/theorems/93cf261e-836b-4311-b31f-7a41ddd03e31

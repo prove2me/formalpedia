@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nonempty_baseChange_grCube_iso
 -- name    : GlobalTheory.nonempty_baseChange_grCube_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:56:15.92153+00:00
 -- url     : https://prove2.me/theorems/1d7e2656-4d55-4d91-8285-1886708001fb

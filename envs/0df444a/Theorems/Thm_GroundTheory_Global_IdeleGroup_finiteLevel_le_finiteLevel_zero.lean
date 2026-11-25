@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteLevel_le_finiteLevel_zero
 -- name    : GroundTheory.Global.IdeleGroup.finiteLevel_le_finiteLevel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:17:26.632242+00:00
 -- url     : https://prove2.me/theorems/1931eb12-519d-42de-9c6c-e9a075bb56f9

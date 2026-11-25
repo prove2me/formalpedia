@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_addMonoidHom_eq_zero_of_eventually
 -- name    : GlobalTheory.addMonoidHom_eq_zero_of_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:07:21.273484+00:00
 -- url     : https://prove2.me/theorems/60b4118f-d708-4daa-ae6c-06cb0a0b7331

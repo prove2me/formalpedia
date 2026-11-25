@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_trace_curv
 -- name    : GlobalTheory.HermFrame.trace_curv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:45:27.090996+00:00
 -- url     : https://prove2.me/theorems/62f04440-b3b2-4f7e-88f2-69dadd4efc65

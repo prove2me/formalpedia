@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_inversionStatement_holds
 -- name    : GlobalTheory.inversionStatement_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:39.766799+00:00
 -- url     : https://prove2.me/theorems/96c18ea0-77f2-4a8c-9895-ac05adc8f6c6

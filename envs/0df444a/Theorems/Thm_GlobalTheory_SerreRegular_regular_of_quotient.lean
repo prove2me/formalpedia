@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreRegular_regular_of_quotient
 -- name    : GlobalTheory.SerreRegular.regular_of_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:45.099798+00:00
 -- url     : https://prove2.me/theorems/038b760c-8e2d-4787-90fc-a06958acdf7c

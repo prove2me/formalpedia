@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_IsArithFrobAt_apply_of_pow_eq_one
 -- name    : GroundTheory.Global.Cyclotomic.IsArithFrobAt.apply_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:55:32.475581+00:00
 -- url     : https://prove2.me/theorems/f2be538b-78db-4cc0-bc6a-03c00b41470b

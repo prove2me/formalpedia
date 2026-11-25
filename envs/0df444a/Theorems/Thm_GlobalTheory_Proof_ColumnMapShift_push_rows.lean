@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_ColumnMapShift_push_rows
 -- name    : GlobalTheory.Proof.ColumnMapShift.push_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:07:44.756971+00:00
 -- url     : https://prove2.me/theorems/473c8769-be34-4d3b-aae2-406439655e99

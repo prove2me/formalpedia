@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_galois_isProfinite
 -- name    : GroundTheory.ProfCoh.galois_isProfinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:51:30.940065+00:00
 -- url     : https://prove2.me/theorems/5312f603-4d82-4c7d-bcd5-4dddfc1438a0

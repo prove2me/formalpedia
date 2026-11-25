@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_torsN_integerUnits
 -- name    : GroundTheory.ProfCoh.finite_torsN_integerUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:51:45.302326+00:00
 -- url     : https://prove2.me/theorems/74d0eb97-c7b5-4ba8-9e7c-a5d74cd71733

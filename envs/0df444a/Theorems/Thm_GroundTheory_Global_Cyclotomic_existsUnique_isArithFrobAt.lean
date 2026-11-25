@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_existsUnique_isArithFrobAt
 -- name    : GroundTheory.Global.Cyclotomic.existsUnique_isArithFrobAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:36:35.45887+00:00
 -- url     : https://prove2.me/theorems/7952cc89-5c1e-425c-947e-f956c6539909

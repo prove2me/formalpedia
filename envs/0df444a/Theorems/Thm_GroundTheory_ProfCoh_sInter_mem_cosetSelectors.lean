@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_sInter_mem_cosetSelectors
 -- name    : GroundTheory.ProfCoh.sInter_mem_cosetSelectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:50:48.562031+00:00
 -- url     : https://prove2.me/theorems/691b48a2-9e5d-4249-9ca3-ef410d5e756f

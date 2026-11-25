@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_powerSum_repulsion
 -- name    : GlobalTheory.powerSum_repulsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:14:51.488375+00:00
 -- url     : https://prove2.me/theorems/e0467eec-2539-4412-8830-a735d06bc576

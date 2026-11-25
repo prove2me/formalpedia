@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_ker_latticeIsogeny
 -- name    : GlobalTheory.card_ker_latticeIsogeny
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:07:23.554681+00:00
 -- url     : https://prove2.me/theorems/23d88c4f-a9eb-48b2-87a3-aa29deb81064

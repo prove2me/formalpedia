@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_invariantRing_eq_range
 -- name    : GroundTheory.PAdicHodge.invariantRing_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:47:19.660501+00:00
 -- url     : https://prove2.me/theorems/152b6b2c-1a28-46f0-89d4-0d9b86b5c6b2

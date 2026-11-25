@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_finiteUnitsSingle_mem_finiteLevel
 -- name    : GroundTheory.Global.IdeleGroup.finiteUnitsSingle_mem_finiteLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:32.098815+00:00
 -- url     : https://prove2.me/theorems/a24344f2-4c12-4227-9ad2-dd21f515edd2

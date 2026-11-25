@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_hasFDerivAt_conj_pow_mul_gaussian
 -- name    : GroundTheory.Global.exists_hasFDerivAt_conj_pow_mul_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:40:59.516376+00:00
 -- url     : https://prove2.me/theorems/ad63d417-bdc2-4425-8a46-5bd4671e05ac

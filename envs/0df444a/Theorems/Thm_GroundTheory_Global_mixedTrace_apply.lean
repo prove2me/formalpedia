@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mixedTrace_apply
 -- name    : GroundTheory.Global.mixedTrace_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:42:21.811848+00:00
 -- url     : https://prove2.me/theorems/351c7b6f-814c-41f5-a244-2ec31cd2a9a1

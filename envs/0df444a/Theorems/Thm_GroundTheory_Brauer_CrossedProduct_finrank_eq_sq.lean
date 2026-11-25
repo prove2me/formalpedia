@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_finrank_eq_sq
 -- name    : GroundTheory.Brauer.CrossedProduct.finrank_eq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:41:13.619827+00:00
 -- url     : https://prove2.me/theorems/1f90868d-e226-4d31-8fb4-bee5f8c7615e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_hasSum_base
 -- name    : GlobalTheory.CosetEuler.hasSum_base
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:49:13.101176+00:00
 -- url     : https://prove2.me/theorems/4cc6f025-06ad-45c1-9867-3257745192c9

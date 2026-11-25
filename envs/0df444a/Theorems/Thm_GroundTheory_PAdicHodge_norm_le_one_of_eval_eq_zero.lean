@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_le_one_of_eval_eq_zero
 -- name    : GroundTheory.PAdicHodge.norm_le_one_of_eval_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:20.40421+00:00
 -- url     : https://prove2.me/theorems/feff8e6c-9ee9-4046-a922-67b91a496685

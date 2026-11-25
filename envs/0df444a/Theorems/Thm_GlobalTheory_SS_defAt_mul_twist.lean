@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_defAt_mul_twist
 -- name    : GlobalTheory.SS.defAt_mul_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:10:20.357822+00:00
 -- url     : https://prove2.me/theorems/743535a5-1cda-4f81-b51a-0e13fc03e6ee

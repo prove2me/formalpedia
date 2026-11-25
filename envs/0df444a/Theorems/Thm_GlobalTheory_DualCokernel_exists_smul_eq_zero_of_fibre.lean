@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualCokernel_exists_smul_eq_zero_of_fibre
 -- name    : GlobalTheory.DualCokernel.exists_smul_eq_zero_of_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:06:39.949289+00:00
 -- url     : https://prove2.me/theorems/f42f38e8-bf95-4fdb-9e15-7ffb7c595cb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_adjoin_eq_symmetricSubalgebra
 -- name    : GroundTheory.Automorphic.HarishChandra.adjoin_eq_symmetricSubalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:46.32242+00:00
 -- url     : https://prove2.me/theorems/ba46418f-00b6-44c5-9d66-8ade63e74e86

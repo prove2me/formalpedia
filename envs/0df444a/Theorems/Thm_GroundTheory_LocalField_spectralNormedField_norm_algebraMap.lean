@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_spectralNormedField_norm_algebraMap
 -- name    : GroundTheory.LocalField.spectralNormedField_norm_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:45:14.3781+00:00
 -- url     : https://prove2.me/theorems/d3eec362-2a27-4868-8174-23c66d6e7509

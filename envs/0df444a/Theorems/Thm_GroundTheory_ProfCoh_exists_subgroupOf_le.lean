@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_subgroupOf_le
 -- name    : GroundTheory.ProfCoh.exists_subgroupOf_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:50:05.089348+00:00
 -- url     : https://prove2.me/theorems/75c1f94b-37f9-40ed-b706-84ccd1c78a25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_sum_J_mul_log_le_totalBound
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.sum_J_mul_log_le_totalBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:44:43.656542+00:00
 -- url     : https://prove2.me/theorems/b028ef47-56a1-4e3f-b29b-bd588be483cd

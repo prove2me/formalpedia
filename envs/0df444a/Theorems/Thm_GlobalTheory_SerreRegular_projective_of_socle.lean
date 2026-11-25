@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerreRegular_projective_of_socle
 -- name    : GlobalTheory.SerreRegular.projective_of_socle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:07:09.475461+00:00
 -- url     : https://prove2.me/theorems/a0b31af6-c07b-46a9-8375-105e9b9a57a7

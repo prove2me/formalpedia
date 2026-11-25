@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_constantCoeff_frobeniusEquiv_symm_pow_mu
 -- name    : GroundTheory.PAdicHodge.AInf.constantCoeff_frobeniusEquiv_symm_pow_mu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:45:03.380128+00:00
 -- url     : https://prove2.me/theorems/2b7aab40-476d-46a4-9bda-e6c6b4db0040

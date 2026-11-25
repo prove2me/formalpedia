@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_map_unitsIncl_ker_powMonoidHom
 -- name    : GroundTheory.Global.map_unitsIncl_ker_powMonoidHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:42:34.171768+00:00
 -- url     : https://prove2.me/theorems/a8917642-52b2-4d5a-b372-1f234ee05aef

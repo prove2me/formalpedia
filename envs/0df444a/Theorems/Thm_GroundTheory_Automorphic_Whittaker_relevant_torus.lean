@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_relevant_torus
 -- name    : GroundTheory.Automorphic.Whittaker.relevant_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:45.727035+00:00
 -- url     : https://prove2.me/theorems/33f323a5-f2ce-4888-8067-b33966aa3f65

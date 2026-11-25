@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isCompact_closure_fundamentalSetInfinite
 -- name    : GroundTheory.Global.isCompact_closure_fundamentalSetInfinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:42:34.174752+00:00
 -- url     : https://prove2.me/theorems/24a416e1-e266-4111-ab64-a8c190ea35d0

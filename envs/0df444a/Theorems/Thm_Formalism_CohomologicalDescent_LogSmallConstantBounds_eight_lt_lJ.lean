@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_eight_lt_lJ
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.eight_lt_lJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:44:39.965834+00:00
 -- url     : https://prove2.me/theorems/8ac79c8b-a512-428f-89e6-5a247cb9f673

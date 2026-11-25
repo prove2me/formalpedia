@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_relevant_involution
 -- name    : GroundTheory.Automorphic.Whittaker.relevant_involution
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:43:46.792798+00:00
 -- url     : https://prove2.me/theorems/bdcef9a2-4320-4a01-9301-37779b7adcce

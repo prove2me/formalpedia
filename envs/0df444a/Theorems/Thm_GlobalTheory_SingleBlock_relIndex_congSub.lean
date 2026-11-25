@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_relIndex_congSub
 -- name    : GlobalTheory.SingleBlock.relIndex_congSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:54:26.815856+00:00
 -- url     : https://prove2.me/theorems/76a3fc4b-965c-46c3-a2b6-a43b9d8219d0

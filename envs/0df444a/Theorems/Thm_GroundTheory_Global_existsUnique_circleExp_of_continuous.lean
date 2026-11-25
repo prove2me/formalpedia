@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_existsUnique_circleExp_of_continuous
 -- name    : GroundTheory.Global.existsUnique_circleExp_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:56:23.384902+00:00
 -- url     : https://prove2.me/theorems/a3d573b2-e2ed-43a5-a10a-7c6b85e17a20

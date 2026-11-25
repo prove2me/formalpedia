@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isClosedEmbedding_unitaryCoords
 -- name    : GroundTheory.Automorphic.isClosedEmbedding_unitaryCoords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:35:33.507406+00:00
 -- url     : https://prove2.me/theorems/cf507aec-e96e-4b40-9a19-36252e5250c0

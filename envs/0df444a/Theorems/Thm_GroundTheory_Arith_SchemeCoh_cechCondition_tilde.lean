@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_cechCondition_tilde
 -- name    : GroundTheory.Arith.SchemeCoh.cechCondition_tilde
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:29:05.231829+00:00
 -- url     : https://prove2.me/theorems/b5f53da7-f083-436e-8551-7b0420aa215e

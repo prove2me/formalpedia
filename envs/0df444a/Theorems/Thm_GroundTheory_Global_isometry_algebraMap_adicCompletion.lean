@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isometry_algebraMap_adicCompletion
 -- name    : GroundTheory.Global.isometry_algebraMap_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:42:33.791637+00:00
 -- url     : https://prove2.me/theorems/206d79f4-344c-441a-928c-f9bf20da716d

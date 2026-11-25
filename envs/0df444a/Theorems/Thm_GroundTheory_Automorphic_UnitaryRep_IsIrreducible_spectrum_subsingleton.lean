@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_IsIrreducible_spectrum_subsingleton
 -- name    : GroundTheory.Automorphic.UnitaryRep.IsIrreducible.spectrum_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:33:52.07794+00:00
 -- url     : https://prove2.me/theorems/1004ee22-e4d2-4a1f-b5f9-a4ce82d8f884

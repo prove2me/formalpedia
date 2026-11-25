@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyIntegral_fourthPower_hom
 -- name    : GlobalTheory.geometricallyIntegral_fourthPower_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:54:10.022339+00:00
 -- url     : https://prove2.me/theorems/e824c95d-13b1-49e5-8af2-8a97ac925ce7

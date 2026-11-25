@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_of_isChar_of_mem_virt
 -- name    : GlobalTheory.BI.isChar_of_isChar_of_mem_virt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:01:01.918743+00:00
 -- url     : https://prove2.me/theorems/357a9f49-dcd5-48e4-a07f-d006003a1600

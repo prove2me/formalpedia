@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_coprime_pow_mem_primaryPart
 -- name    : GroundTheory.ProfCoh.exists_coprime_pow_mem_primaryPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:59.736398+00:00
 -- url     : https://prove2.me/theorems/5b40a4b3-2f4e-4bd1-b11f-5f3cba4659de

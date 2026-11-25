@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SemilinearResidue_recPoly_coeff_zero
 -- name    : GroundTheory.PAdicHodge.SemilinearResidue.recPoly_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:45:27.149634+00:00
 -- url     : https://prove2.me/theorems/4603fb59-f8c1-4f7d-bda8-f50de1751fad

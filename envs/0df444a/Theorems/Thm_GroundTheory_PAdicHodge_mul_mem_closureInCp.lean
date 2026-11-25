@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_mul_mem_closureInCp
 -- name    : GroundTheory.PAdicHodge.mul_mem_closureInCp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:46:53.440224+00:00
 -- url     : https://prove2.me/theorems/24970046-57e1-4e8b-80ed-0f0067a446f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_card_mul_card_fixedBy_quotient
 -- name    : GroundTheory.ProfCoh.card_mul_card_fixedBy_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:48:09.093553+00:00
 -- url     : https://prove2.me/theorems/034eaa7c-f239-453c-b468-fca9d3c09ccd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsCyclicVector_exists_eq_aeval
 -- name    : GroundTheory.Automorphic.IsCyclicVector.exists_eq_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:30:49.573228+00:00
 -- url     : https://prove2.me/theorems/5e3885f9-16d4-42f4-be78-9725854d6833

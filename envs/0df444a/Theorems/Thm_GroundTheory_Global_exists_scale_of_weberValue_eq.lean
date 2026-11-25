@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_scale_of_weberValue_eq
 -- name    : GroundTheory.Global.exists_scale_of_weberValue_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:41:28.103854+00:00
 -- url     : https://prove2.me/theorems/ed3b4c6c-aa6f-4e37-afb2-657ef91b1bae

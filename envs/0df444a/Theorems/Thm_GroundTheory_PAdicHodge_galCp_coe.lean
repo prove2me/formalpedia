@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_galCp_coe
 -- name    : GroundTheory.PAdicHodge.galCp_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:46:20.573806+00:00
 -- url     : https://prove2.me/theorems/e39c1e4c-a487-44dd-aaaf-41e4dc0fb952

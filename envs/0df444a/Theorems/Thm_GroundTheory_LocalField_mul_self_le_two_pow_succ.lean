@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mul_self_le_two_pow_succ
 -- name    : GroundTheory.LocalField.mul_self_le_two_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:24.120879+00:00
 -- url     : https://prove2.me/theorems/e75d3e1c-3ca3-45ff-b8fa-7ef8488a2f17

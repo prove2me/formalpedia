@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_openCompletion_apply_eq
 -- name    : GroundTheory.LocalField.openCompletion.apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:45:02.820032+00:00
 -- url     : https://prove2.me/theorems/820a9e58-42fe-40f8-b536-20ae5414bfc2

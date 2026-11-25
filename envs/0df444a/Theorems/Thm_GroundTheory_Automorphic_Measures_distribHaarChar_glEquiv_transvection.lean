@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_distribHaarChar_glEquiv_transvection
 -- name    : GroundTheory.Automorphic.Measures.distribHaarChar_glEquiv_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:33:23.184962+00:00
 -- url     : https://prove2.me/theorems/101bdb2e-c5dc-463e-aa2f-d3f509f8fb25

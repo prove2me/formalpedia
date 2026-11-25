@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_prod_norm_natCast_adicCompletion_mul
 -- name    : GroundTheory.Global.prod_norm_natCast_adicCompletion_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:42:09.734347+00:00
 -- url     : https://prove2.me/theorems/aff23082-527c-43f1-9a04-15b42afb6e9b

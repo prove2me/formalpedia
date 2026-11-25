@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coe_galRestrictOfLE_apply
 -- name    : GroundTheory.ProfCoh.coe_galRestrictOfLE_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:49:01.15706+00:00
 -- url     : https://prove2.me/theorems/ae3de683-54ef-4f41-8530-338e7f87341a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_openSubgroup_subset_of_profinite
 -- name    : GroundTheory.Global.exists_openSubgroup_subset_of_profinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:41:16.447544+00:00
 -- url     : https://prove2.me/theorems/8baa487f-339f-47ee-a8d6-240d542e5dff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_restrictScalars_mem_inertia_iff
 -- name    : GroundTheory.ProfCoh.restrictScalars_mem_inertia_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:00.502872+00:00
 -- url     : https://prove2.me/theorems/5468379f-7d94-468d-b1b2-6faf9caf2076

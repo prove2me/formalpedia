@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_isometric_of_prod_ofUnit
 -- name    : GroundTheory.Automorphic.HermitianForm.isometric_of_prod_ofUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:32:20.374359+00:00
 -- url     : https://prove2.me/theorems/4a69bc10-edf7-4c75-8ff3-ca8f91d2a12a

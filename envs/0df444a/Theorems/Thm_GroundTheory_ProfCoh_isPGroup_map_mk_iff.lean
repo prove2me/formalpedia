@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isPGroup_map_mk_iff
 -- name    : GroundTheory.ProfCoh.isPGroup_map_mk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:51:10.224793+00:00
 -- url     : https://prove2.me/theorems/06edde40-9456-427c-8919-c0f20dc74249

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_range_pow_le
 -- name    : GroundTheory.LocalField.exists_range_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:44:08.780803+00:00
 -- url     : https://prove2.me/theorems/93d9b1ae-168c-4285-bb96-641a0c81c61a

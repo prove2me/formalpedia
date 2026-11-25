@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LengthCommensurable_toNat_relLength_eq_add_of_le
 -- name    : GlobalTheory.LengthCommensurable.toNat_relLength_eq_add_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:58:47.229264+00:00
 -- url     : https://prove2.me/theorems/74f54b4d-1c90-4e97-87e2-7cc31007668d

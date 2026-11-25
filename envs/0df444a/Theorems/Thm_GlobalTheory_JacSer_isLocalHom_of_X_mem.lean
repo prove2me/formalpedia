@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacSer_isLocalHom_of_X_mem
 -- name    : GlobalTheory.JacSer.isLocalHom_of_X_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:07:29.508406+00:00
 -- url     : https://prove2.me/theorems/f62862f6-9e80-490a-bef0-fdde2e0b548e

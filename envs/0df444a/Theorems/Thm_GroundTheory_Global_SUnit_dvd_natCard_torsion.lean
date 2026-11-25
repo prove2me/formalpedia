@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SUnit_dvd_natCard_torsion
 -- name    : GroundTheory.Global.SUnit.dvd_natCard_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:39:34.870592+00:00
 -- url     : https://prove2.me/theorems/f71e8d9d-dc33-4b29-a57d-486af9bb01a3

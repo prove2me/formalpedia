@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SUnit_valuationVector_placeUnit
 -- name    : GroundTheory.Global.SUnit.valuationVector_placeUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:39:57.363031+00:00
 -- url     : https://prove2.me/theorems/e3176708-68b0-4a56-8762-38b0ec116918

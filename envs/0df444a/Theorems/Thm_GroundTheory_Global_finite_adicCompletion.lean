@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_adicCompletion
 -- name    : GroundTheory.Global.finite_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:41:30.835634+00:00
 -- url     : https://prove2.me/theorems/ec32d79c-1673-42e0-9bac-dbd6ed5b9fe5

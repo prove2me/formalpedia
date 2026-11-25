@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_relDeg_pos
 -- name    : GroundTheory.PAdicHodge.relDeg_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:47:12.654806+00:00
 -- url     : https://prove2.me/theorems/87f9a01a-4460-4796-890f-ce82010af7d5

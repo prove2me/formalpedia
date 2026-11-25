@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isCompactOperator_hsTruncation
 -- name    : GroundTheory.Automorphic.isCompactOperator_hsTruncation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:35:24.637013+00:00
 -- url     : https://prove2.me/theorems/b084057b-2ce9-40ef-aedf-5e746d1543a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_pi
 -- name    : GroundTheory.Global.cycHerbrand_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:40:20.261161+00:00
 -- url     : https://prove2.me/theorems/8a55b795-59c5-4813-9f0d-e56b4c71a90e

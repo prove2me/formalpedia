@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_conductor_ne_bot
 -- name    : GroundTheory.Global.IdeleGroup.conductor_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:26.2962+00:00
 -- url     : https://prove2.me/theorems/b342df95-0e6a-4d0a-8375-78f9484194a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_strictModel_translates_twist_compatible
 -- name    : GlobalTheory.T.strictModel_translates_twist_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:59:15.377541+00:00
 -- url     : https://prove2.me/theorems/be975546-3a48-4b15-b29e-ce9c51f12c71

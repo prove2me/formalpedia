@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_pow_eq_mul_of_quadratic_bound
 -- name    : GlobalTheory.exists_pow_eq_mul_of_quadratic_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:36:12.207231+00:00
 -- url     : https://prove2.me/theorems/12e4db74-538b-4b80-838a-9d07367e62d0

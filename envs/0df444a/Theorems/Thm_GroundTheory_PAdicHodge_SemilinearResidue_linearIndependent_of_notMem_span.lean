@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SemilinearResidue_linearIndependent_of_notMem_span
 -- name    : GroundTheory.PAdicHodge.SemilinearResidue.linearIndependent_of_notMem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:45:21.181411+00:00
 -- url     : https://prove2.me/theorems/18a2ab32-8285-44cc-b2fb-2afe4be27e61

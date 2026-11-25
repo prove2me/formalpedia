@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_of_isLocalizedModule
 -- name    : GlobalTheory.IsQuasiRegularSeq.of_isLocalizedModule
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:34:03.780333+00:00
 -- url     : https://prove2.me/theorems/4a1ab9cb-2af7-4e71-885b-9ba416c9a7e5

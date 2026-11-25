@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CuspidalSpectrum_exists_natCast_mul_mem_integralFiniteAdeles
 -- name    : GroundTheory.Automorphic.CuspidalSpectrum.exists_natCast_mul_mem_integralFiniteAdeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:29:38.780216+00:00
 -- url     : https://prove2.me/theorems/c096bdc7-23a7-46bb-995d-f6d1016e4f7a

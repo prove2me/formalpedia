@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_lipschitzWith_coe_comp
 -- name    : GroundTheory.PAdicHodge.lipschitzWith_coe_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:24.123336+00:00
 -- url     : https://prove2.me/theorems/8d93bed2-9d63-4cf0-bd51-cb5e311601b2

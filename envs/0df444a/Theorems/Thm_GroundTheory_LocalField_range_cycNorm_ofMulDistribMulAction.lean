@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_range_cycNorm_ofMulDistribMulAction
 -- name    : GroundTheory.LocalField.range_cycNorm_ofMulDistribMulAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:45:03.688814+00:00
 -- url     : https://prove2.me/theorems/b9b06bc3-ee1c-41bc-9b29-f168fd76e239

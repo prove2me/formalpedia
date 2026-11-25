@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_and_card_fiber_rationalPrimeUnder_le
 -- name    : GroundTheory.Global.finite_and_card_fiber_rationalPrimeUnder_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:41:07.912931+00:00
 -- url     : https://prove2.me/theorems/ea392dfd-dedd-4e3d-88ed-5d350292c738

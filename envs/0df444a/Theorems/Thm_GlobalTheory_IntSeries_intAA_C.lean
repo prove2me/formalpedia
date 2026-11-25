@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntSeries_intAA_C
 -- name    : GlobalTheory.IntSeries.intAA_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:08:09.916285+00:00
 -- url     : https://prove2.me/theorems/fc31412d-629c-40fb-8110-f6372e85168a

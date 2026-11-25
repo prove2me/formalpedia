@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeInt_dz_defL
 -- name    : GlobalTheory.GaugeInt.dz_defL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:58:32.502471+00:00
 -- url     : https://prove2.me/theorems/d4214858-6365-4b4a-b09a-5b7da36ad24c

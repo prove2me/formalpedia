@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ramificationIdx_mul_inertiaDeg_integer
 -- name    : GroundTheory.Global.ramificationIdx_mul_inertiaDeg_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:42:57.278991+00:00
 -- url     : https://prove2.me/theorems/919cc8c6-0757-48fb-b49c-a7dd1227df35

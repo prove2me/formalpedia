@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_coeffToRegular_surjective
 -- name    : GroundTheory.ProfCoh.coeffToRegular_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:49:10.11629+00:00
 -- url     : https://prove2.me/theorems/8d7b6aae-e9f9-4ab2-a2ea-2a92248ae2b8

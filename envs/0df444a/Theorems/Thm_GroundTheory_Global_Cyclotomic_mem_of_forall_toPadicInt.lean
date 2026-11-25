@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_mem_of_forall_toPadicInt
 -- name    : GroundTheory.Global.Cyclotomic.mem_of_forall_toPadicInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:34.605822+00:00
 -- url     : https://prove2.me/theorems/d458353b-e631-4fe9-ac00-abafc875df75

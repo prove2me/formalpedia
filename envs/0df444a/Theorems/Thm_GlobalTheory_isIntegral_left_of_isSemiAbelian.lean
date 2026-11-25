@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_left_of_isSemiAbelian
 -- name    : GlobalTheory.isIntegral_left_of_isSemiAbelian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:27:52.422221+00:00
 -- url     : https://prove2.me/theorems/5c75df35-7c57-4be9-bb72-adc621310c7a

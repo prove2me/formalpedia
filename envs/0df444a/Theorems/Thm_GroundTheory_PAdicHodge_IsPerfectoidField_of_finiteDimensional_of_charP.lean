@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_of_finiteDimensional_of_charP
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.of_finiteDimensional_of_charP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:26.73213+00:00
 -- url     : https://prove2.me/theorems/d7b3c040-4746-4d5c-b6ab-ddfe8d5c7a6a

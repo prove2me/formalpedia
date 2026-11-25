@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_StableFiltration_augMap_grMk
 -- name    : GroundTheory.LocalField.StableFiltration.augMap_grMk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:43:47.321203+00:00
 -- url     : https://prove2.me/theorems/66d784d8-86ed-4216-a42a-32a13eb490b3

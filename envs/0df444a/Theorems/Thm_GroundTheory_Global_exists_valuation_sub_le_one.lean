@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_valuation_sub_le_one
 -- name    : GroundTheory.Global.exists_valuation_sub_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:41:05.479886+00:00
 -- url     : https://prove2.me/theorems/e5bd3ff1-5f94-46e8-9b58-51b3a90f01d0

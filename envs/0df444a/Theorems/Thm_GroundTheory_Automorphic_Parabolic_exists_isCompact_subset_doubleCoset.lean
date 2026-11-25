@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_isCompact_subset_doubleCoset
 -- name    : GroundTheory.Automorphic.Parabolic.exists_isCompact_subset_doubleCoset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:32:52.573713+00:00
 -- url     : https://prove2.me/theorems/ede91206-54cb-4fc1-b00b-7562b5e9f9ff

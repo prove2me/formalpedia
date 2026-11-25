@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_symplecticGroupMap_zmod_surjective
 -- name    : GlobalTheory.symplecticGroupMap_zmod_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:22:52.097815+00:00
 -- url     : https://prove2.me/theorems/117c5d5f-fa5a-4e22-8635-5d960ff0c780

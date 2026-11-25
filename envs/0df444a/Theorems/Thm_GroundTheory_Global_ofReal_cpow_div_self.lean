@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ofReal_cpow_div_self
 -- name    : GroundTheory.Global.ofReal_cpow_div_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:56.683087+00:00
 -- url     : https://prove2.me/theorems/0c848b26-ca8e-4068-bf0a-205d33350544

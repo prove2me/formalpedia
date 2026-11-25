@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_iwasawaExponent_torusPow
 -- name    : GroundTheory.Automorphic.Iwasawa.iwasawaExponent_torusPow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:36:14.398655+00:00
 -- url     : https://prove2.me/theorems/3893a786-dac9-429d-87bb-3afc908a3d8c

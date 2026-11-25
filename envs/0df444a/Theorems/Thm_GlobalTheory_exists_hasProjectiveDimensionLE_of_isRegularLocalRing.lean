@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_hasProjectiveDimensionLE_of_isRegularLocalRing
 -- name    : GlobalTheory.exists_hasProjectiveDimensionLE_of_isRegularLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:01:16.671271+00:00
 -- url     : https://prove2.me/theorems/28f30aed-8da8-4d1d-9158-ff63bfbce605

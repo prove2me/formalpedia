@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_apply_eq_abs_embedding_of_isReal
 -- name    : GroundTheory.ProfCoh.apply_eq_abs_embedding_of_isReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:48:02.999807+00:00
 -- url     : https://prove2.me/theorems/36f1c290-dfbb-4832-b22a-1ed7f2bdd056

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_finite_latticeDual_norm_le
 -- name    : GroundTheory.Automorphic.finite_latticeDual_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:35:20.647868+00:00
 -- url     : https://prove2.me/theorems/f1ff6724-3933-44a5-a392-a13c22cfac3e

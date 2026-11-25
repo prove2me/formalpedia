@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_le_of_mem_domSet
 -- name    : GroundTheory.PAdicHodge.Laurent.le_of_mem_domSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:45:29.220646+00:00
 -- url     : https://prove2.me/theorems/a2e12adb-4a82-41d8-8c5c-a95f7bbc6680

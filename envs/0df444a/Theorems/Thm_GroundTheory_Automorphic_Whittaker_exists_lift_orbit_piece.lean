@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_lift_orbit_piece
 -- name    : GroundTheory.Automorphic.Whittaker.exists_lift_orbit_piece
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:10:08.635003+00:00
 -- url     : https://prove2.me/theorems/fad62b3f-02c4-485f-bdd4-a567d81b9bfd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_liesOver_of_le
 -- name    : GroundTheory.FunctionField.Place.liesOver_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:37:20.318899+00:00
 -- url     : https://prove2.me/theorems/91652ce8-69cd-4430-bd9f-42f02ac48640

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_nonnegativePredictableJumpCompensationCommonNullV2
 -- name    : Kyprianou.Ch04.nonnegativePredictableJumpCompensationCommonNullV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:03:17.532848+00:00
 -- url     : https://prove2.me/theorems/f2db7765-bfc7-473d-afbb-6927e0eb67a4

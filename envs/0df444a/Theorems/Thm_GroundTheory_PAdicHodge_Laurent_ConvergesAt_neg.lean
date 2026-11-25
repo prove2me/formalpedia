@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_Laurent_ConvergesAt_neg
 -- name    : GroundTheory.PAdicHodge.Laurent.ConvergesAt.neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:09.370128+00:00
 -- url     : https://prove2.me/theorems/259d55f4-3843-4cde-b644-4849d9281022

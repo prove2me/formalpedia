@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacSer_isLocalRing_trivSqZeroExt
 -- name    : GlobalTheory.JacSer.isLocalRing_trivSqZeroExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:07:44.979296+00:00
 -- url     : https://prove2.me/theorems/628ac88b-4e9a-44c7-9f92-a5bc3b7e30cb

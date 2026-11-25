@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_Col2_ThetaVec_thetaVector
 -- name    : GlobalTheory.Mem.Col2.ThetaVec.thetaVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:31:56.809161+00:00
 -- url     : https://prove2.me/theorems/a05968c0-3479-4e52-914d-7f070e05edb7

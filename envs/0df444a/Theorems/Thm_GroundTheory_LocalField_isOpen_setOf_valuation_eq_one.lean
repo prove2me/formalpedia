@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isOpen_setOf_valuation_eq_one
 -- name    : GroundTheory.LocalField.isOpen_setOf_valuation_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:44:42.355187+00:00
 -- url     : https://prove2.me/theorems/7b9debb1-1707-4e9d-8267-022dae50094c

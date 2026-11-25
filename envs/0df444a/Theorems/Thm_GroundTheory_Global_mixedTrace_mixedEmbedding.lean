@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mixedTrace_mixedEmbedding
 -- name    : GroundTheory.Global.mixedTrace_mixedEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:42:06.233123+00:00
 -- url     : https://prove2.me/theorems/7f96367f-19e7-47bc-8025-8f673672b29a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_totalIdleTrafficMaximalRootV1
 -- name    : Kyprianou.Ch04.totalIdleTrafficMaximalRootV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T23:56:26.160563+00:00
 -- url     : https://prove2.me/theorems/d3060c86-b471-4ab8-822c-83abfe8c8ea3

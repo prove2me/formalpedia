@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_isClosed_image_coe_of_finiteDimensional
 -- name    : GroundTheory.PAdicHodge.isClosed_image_coe_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:46:50.124326+00:00
 -- url     : https://prove2.me/theorems/9948ed13-1015-49a1-a513-d75dc7082890

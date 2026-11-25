@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_prod_norm_natCast_infinitePlaceCompletion_pow_mult
 -- name    : GroundTheory.Global.prod_norm_natCast_infinitePlaceCompletion_pow_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:42:26.67098+00:00
 -- url     : https://prove2.me/theorems/05b481ca-5126-4cd1-a81a-917516eb61c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_toMul_cycSubOne
 -- name    : GroundTheory.LocalField.toMul_cycSubOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:59.543804+00:00
 -- url     : https://prove2.me/theorems/76e196f9-7954-4b35-9026-82777d4489c7

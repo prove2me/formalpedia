@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChF_eq_zero_of_forall_pair_points
 -- name    : GlobalTheory.ChF.eq_zero_of_forall_pair_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:08:02.262828+00:00
 -- url     : https://prove2.me/theorems/27cd5567-c940-4f7e-9684-f802a9716854

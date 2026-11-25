@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isZero_groupCohomology_succ
 -- name    : GroundTheory.ProfCoh.isZero_groupCohomology_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:50:48.883149+00:00
 -- url     : https://prove2.me/theorems/aff28f21-1c65-496e-a286-9d6b0b735e3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsHilbertSchmidt_comp_right
 -- name    : GroundTheory.Automorphic.IsHilbertSchmidt.comp_right
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:14:05.584899+00:00
 -- url     : https://prove2.me/theorems/d32aec0c-abe2-492b-ac67-7fd64c4f4e97

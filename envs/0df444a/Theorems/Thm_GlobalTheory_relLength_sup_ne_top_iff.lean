@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_relLength_sup_ne_top_iff
 -- name    : GlobalTheory.relLength_sup_ne_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:58:30.043808+00:00
 -- url     : https://prove2.me/theorems/52c491d4-6836-4801-b978-78fa8e9419d1

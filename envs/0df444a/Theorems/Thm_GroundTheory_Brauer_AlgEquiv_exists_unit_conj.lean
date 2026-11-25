@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_AlgEquiv_exists_unit_conj
 -- name    : GroundTheory.Brauer.AlgEquiv.exists_unit_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:55:35.520695+00:00
 -- url     : https://prove2.me/theorems/87e1957d-a26d-408b-8cc7-ca4c1d04b52b

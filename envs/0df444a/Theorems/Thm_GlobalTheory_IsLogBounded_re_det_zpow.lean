@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLogBounded_re_det_zpow
 -- name    : GlobalTheory.IsLogBounded.re_det_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:55:09.654837+00:00
 -- url     : https://prove2.me/theorems/653830ed-97a4-4699-a334-2c92cfb8d186

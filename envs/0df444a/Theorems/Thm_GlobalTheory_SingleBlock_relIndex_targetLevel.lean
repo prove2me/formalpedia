@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_relIndex_targetLevel
 -- name    : GlobalTheory.SingleBlock.relIndex_targetLevel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:54:36.509226+00:00
 -- url     : https://prove2.me/theorems/f12a7f54-fa2c-4e64-94dc-660c3d2ad841

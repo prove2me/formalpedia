@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_finite_quotient
 -- name    : GroundTheory.Global.Cyclotomic.finite_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:55:42.856254+00:00
 -- url     : https://prove2.me/theorems/08785a60-5bef-431d-9808-1141c3adf5da

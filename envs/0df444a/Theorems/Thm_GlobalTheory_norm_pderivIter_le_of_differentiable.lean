@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_pderivIter_le_of_differentiable
 -- name    : GlobalTheory.norm_pderivIter_le_of_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:31:45.0759+00:00
 -- url     : https://prove2.me/theorems/e37c5a92-6285-4cc7-9546-ef0418d9b842

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_repSubOne_apply
 -- name    : GroundTheory.GroupCoh.repSubOne_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:42:56.43201+00:00
 -- url     : https://prove2.me/theorems/f012d349-f331-4858-b8c9-fa24a19729bf

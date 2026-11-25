@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_residueDegree_tower
 -- name    : GroundTheory.LocalField.residueDegree_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:44:58.993743+00:00
 -- url     : https://prove2.me/theorems/b30e87db-7b95-4cbc-9668-686f2bacb91b

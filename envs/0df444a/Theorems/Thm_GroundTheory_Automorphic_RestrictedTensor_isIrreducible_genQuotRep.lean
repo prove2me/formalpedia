@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isIrreducible_genQuotRep
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isIrreducible_genQuotRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:33:11.241597+00:00
 -- url     : https://prove2.me/theorems/3617c469-7815-4e7a-909e-6b4d4749c9b1

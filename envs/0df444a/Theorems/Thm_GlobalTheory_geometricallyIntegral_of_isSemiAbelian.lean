@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyIntegral_of_isSemiAbelian
 -- name    : GlobalTheory.geometricallyIntegral_of_isSemiAbelian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:27:55.372516+00:00
 -- url     : https://prove2.me/theorems/3bd1e4d3-7613-4cfb-88f6-7b1afcc143a6

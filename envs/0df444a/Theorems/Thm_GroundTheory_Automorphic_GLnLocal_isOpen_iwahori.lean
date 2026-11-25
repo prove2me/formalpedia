@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_isOpen_iwahori
 -- name    : GroundTheory.Automorphic.GLnLocal.isOpen_iwahori
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:10:34.399309+00:00
 -- url     : https://prove2.me/theorems/10ad84a5-bd95-4eed-8eba-5a4fff2ad722

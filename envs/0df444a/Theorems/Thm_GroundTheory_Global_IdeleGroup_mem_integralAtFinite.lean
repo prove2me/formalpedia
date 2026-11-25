@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_mem_integralAtFinite
 -- name    : GroundTheory.Global.IdeleGroup.mem_integralAtFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:39:45.074601+00:00
 -- url     : https://prove2.me/theorems/80a0dcae-424c-4837-94a0-dbbf318a86b6

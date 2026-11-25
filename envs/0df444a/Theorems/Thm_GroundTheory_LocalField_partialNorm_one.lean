@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_partialNorm_one
 -- name    : GroundTheory.LocalField.partialNorm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:44:57.101845+00:00
 -- url     : https://prove2.me/theorems/88cde325-ca5f-4aca-a70c-6fc14f74247c

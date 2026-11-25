@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_range_powMonoidHom_subgroupOf_torsion
 -- name    : GroundTheory.Global.range_powMonoidHom_subgroupOf_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:42:47.447897+00:00
 -- url     : https://prove2.me/theorems/3eed18ba-8009-4185-a68c-4693694a5d5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsHilbertSchmidt_adjoint
 -- name    : GroundTheory.Automorphic.IsHilbertSchmidt.adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:04:21.856208+00:00
 -- url     : https://prove2.me/theorems/10a4fad2-bbbd-4f03-9d5a-9af4f8edff11

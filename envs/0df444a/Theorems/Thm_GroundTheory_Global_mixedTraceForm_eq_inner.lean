@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mixedTraceForm_eq_inner
 -- name    : GroundTheory.Global.mixedTraceForm_eq_inner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:22:56.652029+00:00
 -- url     : https://prove2.me/theorems/4d388636-a57b-4b77-b9a3-eb3c0f1b25d0

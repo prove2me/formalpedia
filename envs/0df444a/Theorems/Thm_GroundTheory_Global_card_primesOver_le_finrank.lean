@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_card_primesOver_le_finrank
 -- name    : GroundTheory.Global.card_primesOver_le_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:40:42.385782+00:00
 -- url     : https://prove2.me/theorems/baf0c291-bffa-4f0a-ac8f-5d11432ba3ec

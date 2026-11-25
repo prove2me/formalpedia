@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_TateModel_relIndex_eq_natCard
 -- name    : GroundTheory.LocalField.Abstract.TateModel.relIndex_eq_natCard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:13.320307+00:00
 -- url     : https://prove2.me/theorems/e7ed2e53-e012-4b67-a59d-62531f815c85

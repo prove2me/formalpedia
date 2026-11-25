@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isOpen_ker_of_continuous
 -- name    : GroundTheory.Global.isOpen_ker_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:42:34.188906+00:00
 -- url     : https://prove2.me/theorems/48b4d46d-6ee0-477c-8894-9e06a79aae73

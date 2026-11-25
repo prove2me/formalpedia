@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_homLoc_of_flat_homLoc_singleton
 -- name    : GlobalTheory.flat_homLoc_of_flat_homLoc_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:50:14.80195+00:00
 -- url     : https://prove2.me/theorems/a48ed957-4fe0-4807-ac3f-6802f998f8ba

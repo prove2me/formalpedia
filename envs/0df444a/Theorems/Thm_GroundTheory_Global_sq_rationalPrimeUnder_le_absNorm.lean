@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_sq_rationalPrimeUnder_le_absNorm
 -- name    : GroundTheory.Global.sq_rationalPrimeUnder_le_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:01.8333+00:00
 -- url     : https://prove2.me/theorems/849979b4-0209-4ffb-94e7-961e98f8a4ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteLengthComplex_length_ext_zero_quot
 -- name    : GlobalTheory.FiniteLengthComplex.length_ext_zero_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:03:25.841719+00:00
 -- url     : https://prove2.me/theorems/f71ea45f-fae2-4b4d-acf9-d9dd3bfeb0df

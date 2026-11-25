@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_res_coindOne
 -- name    : GroundTheory.GroupCoh.isZero_res_coindOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:43:06.953685+00:00
 -- url     : https://prove2.me/theorems/1ce441e1-1e6f-4f92-ab4b-e3304b4c155b

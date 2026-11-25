@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_compactOpen_psiN_trivial
 -- name    : GroundTheory.Automorphic.Whittaker.exists_compactOpen_psiN_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:34:41.171131+00:00
 -- url     : https://prove2.me/theorems/0aa6555e-ecad-4d07-86e5-bed065678f91

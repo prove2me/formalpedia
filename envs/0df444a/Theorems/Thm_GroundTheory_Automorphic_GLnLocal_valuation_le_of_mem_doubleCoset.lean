@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_valuation_le_of_mem_doubleCoset
 -- name    : GroundTheory.Automorphic.GLnLocal.valuation_le_of_mem_doubleCoset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:29:56.618366+00:00
 -- url     : https://prove2.me/theorems/8bf42c6c-98d2-4e5a-a0ff-ef5c75465d0e

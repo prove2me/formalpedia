@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_rectIntegral_eq_zero_of_differentiable_on_off_countable
 -- name    : GroundTheory.Global.Elliptic.rectIntegral_eq_zero_of_differentiable_on_off_countable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:38:41.789801+00:00
 -- url     : https://prove2.me/theorems/b9237780-2d20-472e-8f45-c10da61a3b0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_range_le_ker
 -- name    : GroundTheory.GroupCoh.range_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:43:14.932805+00:00
 -- url     : https://prove2.me/theorems/58c4c0a9-1cc4-4943-bdd1-4231457d692a

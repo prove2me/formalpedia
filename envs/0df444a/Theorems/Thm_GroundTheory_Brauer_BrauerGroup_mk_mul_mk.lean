@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_BrauerGroup_mk_mul_mk
 -- name    : GroundTheory.Brauer.BrauerGroup.mk_mul_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:37:57.066914+00:00
 -- url     : https://prove2.me/theorems/086c28d3-d3f1-47f4-94ef-0c4a4a443c44

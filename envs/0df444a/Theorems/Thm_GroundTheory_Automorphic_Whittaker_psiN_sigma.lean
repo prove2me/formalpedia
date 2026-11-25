@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_psiN_sigma
 -- name    : GroundTheory.Automorphic.Whittaker.psiN_sigma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:22.6139+00:00
 -- url     : https://prove2.me/theorems/ce3981d9-703c-4c66-91ae-39599fe8b77d

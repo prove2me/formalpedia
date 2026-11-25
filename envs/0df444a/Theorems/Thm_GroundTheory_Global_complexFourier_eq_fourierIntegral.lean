@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_complexFourier_eq_fourierIntegral
 -- name    : GroundTheory.Global.complexFourier_eq_fourierIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:40:17.299446+00:00
 -- url     : https://prove2.me/theorems/d1a739e1-4a87-4fcb-97ee-3ec74204d94f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_smul_sum_mem_normalLattice_add_iff
 -- name    : GroundTheory.LocalField.smul_sum_mem_normalLattice_add_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:18:02.063115+00:00
 -- url     : https://prove2.me/theorems/98e65065-e952-407a-8f36-d84f8951f9a1

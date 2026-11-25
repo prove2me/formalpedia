@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_rho_one_eq_zero_of_rho_zero_eq_zero
 -- name    : GroundTheory.Automorphic.HarishChandra.rho_one_eq_zero_of_rho_zero_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:30:37.232798+00:00
 -- url     : https://prove2.me/theorems/12374ff3-a1af-4f66-bb0b-6d3d535be20d

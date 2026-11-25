@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_fixedVectors_mk_eq
 -- name    : GroundTheory.Automorphic.exists_fixedVectors_mk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:34:44.857823+00:00
 -- url     : https://prove2.me/theorems/88403baa-fe65-4dbe-bf5d-e906993779a0

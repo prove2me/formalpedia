@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_polyEmb_rename
 -- name    : GroundTheory.Automorphic.Spherical.polyEmb_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:04:18.451799+00:00
 -- url     : https://prove2.me/theorems/bc814ce5-cdd8-42f5-a47e-bf861da57d90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnRep_exists_rep_suppSplit
 -- name    : GlobalTheory.UnRep.exists_rep_suppSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:38:24.595103+00:00
 -- url     : https://prove2.me/theorems/d080ae0f-8bdf-4309-aba4-7edd16d22eaf

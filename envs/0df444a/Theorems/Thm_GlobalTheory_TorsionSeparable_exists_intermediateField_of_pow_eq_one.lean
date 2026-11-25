@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionSeparable_exists_intermediateField_of_pow_eq_one
 -- name    : GlobalTheory.TorsionSeparable.exists_intermediateField_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:08:48.148435+00:00
 -- url     : https://prove2.me/theorems/488f49d8-6073-4053-92f6-2b0cc13af9f8

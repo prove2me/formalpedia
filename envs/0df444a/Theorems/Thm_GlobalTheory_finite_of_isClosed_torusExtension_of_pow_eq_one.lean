@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_of_isClosed_torusExtension_of_pow_eq_one
 -- name    : GlobalTheory.finite_of_isClosed_torusExtension_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:04:05.87092+00:00
 -- url     : https://prove2.me/theorems/74bc8ca8-24f6-44ea-8f84-a662dd913043

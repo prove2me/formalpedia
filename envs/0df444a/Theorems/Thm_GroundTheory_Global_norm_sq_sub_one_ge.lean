@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_norm_sq_sub_one_ge
 -- name    : GroundTheory.Global.norm_sq_sub_one_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:42:01.119366+00:00
 -- url     : https://prove2.me/theorems/2f5cdc3b-9139-4c62-858f-1d48ef1a791f

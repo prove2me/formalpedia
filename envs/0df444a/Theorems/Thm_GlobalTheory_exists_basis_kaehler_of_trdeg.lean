@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_basis_kaehler_of_trdeg
 -- name    : GlobalTheory.exists_basis_kaehler_of_trdeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:12:38.768798+00:00
 -- url     : https://prove2.me/theorems/d7f11e20-869c-4843-a579-71559b957969

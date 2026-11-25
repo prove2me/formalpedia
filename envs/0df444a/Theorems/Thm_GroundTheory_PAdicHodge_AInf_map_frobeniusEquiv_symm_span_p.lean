@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_map_frobeniusEquiv_symm_span_p
 -- name    : GroundTheory.PAdicHodge.AInf.map_frobeniusEquiv_symm_span_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:46:06.036857+00:00
 -- url     : https://prove2.me/theorems/9773f6e0-65a4-4306-9afa-66712bb288eb

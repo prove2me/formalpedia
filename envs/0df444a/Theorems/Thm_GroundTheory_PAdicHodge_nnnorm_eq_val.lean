@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nnnorm_eq_val
 -- name    : GroundTheory.PAdicHodge.nnnorm_eq_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:47:47.044151+00:00
 -- url     : https://prove2.me/theorems/1f9d752b-3c11-4fbf-9055-6c0993969d71

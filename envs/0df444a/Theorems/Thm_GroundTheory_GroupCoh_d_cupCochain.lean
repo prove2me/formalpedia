@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_d_cupCochain
 -- name    : GroundTheory.GroupCoh.d_cupCochain
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:12.621707+00:00
 -- url     : https://prove2.me/theorems/fc1d9cfe-090f-4308-aeb1-19ec30183b46

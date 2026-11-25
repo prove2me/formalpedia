@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_StableFiltration_tateNorm_mem
 -- name    : GroundTheory.LocalField.StableFiltration.tateNorm_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:44:08.496637+00:00
 -- url     : https://prove2.me/theorems/77204afb-e4e8-4083-9faa-619c09090290

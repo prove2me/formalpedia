@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_convolution_eq_fourierMultiplierCLM
 -- name    : GroundTheory.Automorphic.Sobolev.convolution_eq_fourierMultiplierCLM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:34:07.915937+00:00
 -- url     : https://prove2.me/theorems/eca5a6eb-0323-48d1-8383-65b13bf33ac8

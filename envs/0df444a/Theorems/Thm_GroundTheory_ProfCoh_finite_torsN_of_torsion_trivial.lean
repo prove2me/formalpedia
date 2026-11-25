@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_torsN_of_torsion_trivial
 -- name    : GroundTheory.ProfCoh.finite_torsN_of_torsion_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:51:02.254275+00:00
 -- url     : https://prove2.me/theorems/1f8cd457-bced-4967-8ea9-3e514fb0faea

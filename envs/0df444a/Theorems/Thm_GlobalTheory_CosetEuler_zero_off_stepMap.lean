@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CosetEuler_zero_off_stepMap
 -- name    : GlobalTheory.CosetEuler.zero_off_stepMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:49:14.984365+00:00
 -- url     : https://prove2.me/theorems/3f1c9b29-b4cf-48f4-9a1d-ea96e5ede630

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_Superpos_contDiff_int
 -- name    : GlobalTheory.RealWeil.Superpos.contDiff_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:48:51.50838+00:00
 -- url     : https://prove2.me/theorems/989d041f-e7cf-49a1-8f72-a1b589848d3b

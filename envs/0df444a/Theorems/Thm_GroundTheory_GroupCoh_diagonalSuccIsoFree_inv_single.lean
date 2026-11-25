@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_diagonalSuccIsoFree_inv_single
 -- name    : GroundTheory.GroupCoh.diagonalSuccIsoFree_inv_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:26.851805+00:00
 -- url     : https://prove2.me/theorems/44d7b53c-57c4-409d-9f86-33d19a15b6ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SingleBlock_targetLevel_eq
 -- name    : GlobalTheory.SingleBlock.targetLevel_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:54:23.254413+00:00
 -- url     : https://prove2.me/theorems/89291946-01a1-443b-809d-53f6cd1c5d8c

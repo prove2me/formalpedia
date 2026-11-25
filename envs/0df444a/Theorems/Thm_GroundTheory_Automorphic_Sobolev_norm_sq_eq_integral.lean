@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_sq_eq_integral
 -- name    : GroundTheory.Automorphic.Sobolev.norm_sq_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:42.310898+00:00
 -- url     : https://prove2.me/theorems/9e62fe3a-8694-4568-968e-85e7de83d1ef

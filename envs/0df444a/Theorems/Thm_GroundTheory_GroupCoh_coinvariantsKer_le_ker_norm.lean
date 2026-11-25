@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_coinvariantsKer_le_ker_norm
 -- name    : GroundTheory.GroupCoh.coinvariantsKer_le_ker_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:31.692345+00:00
 -- url     : https://prove2.me/theorems/e5892aef-148c-44e3-bfdc-02148e49d434

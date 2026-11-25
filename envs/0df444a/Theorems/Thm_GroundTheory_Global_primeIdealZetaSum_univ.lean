@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_primeIdealZetaSum_univ
 -- name    : GroundTheory.Global.primeIdealZetaSum_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:42:21.955165+00:00
 -- url     : https://prove2.me/theorems/60c153b5-a744-4f05-b908-09d7c05b049e

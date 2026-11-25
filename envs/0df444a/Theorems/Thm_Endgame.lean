@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Endgame
 -- name    : Endgame
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T15:55:50.889725+00:00
 -- url     : https://prove2.me/theorems/14df854b-c4b2-4499-b611-01be51ab3ef6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_brunTitchmarsh_exists_const
 -- name    : GlobalTheory.T.brunTitchmarsh_exists_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:28:20.463514+00:00
 -- url     : https://prove2.me/theorems/d8945bd0-84f7-408a-86d4-6ed041704d1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_isOpen_integralAtFinite
 -- name    : GroundTheory.Global.IdeleGroup.isOpen_integralAtFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:39:50.321453+00:00
 -- url     : https://prove2.me/theorems/4ec126b5-65f7-4827-9447-a30d519e2dbf

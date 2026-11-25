@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coordinateRing_ringHom_ext
 -- name    : GroundTheory.Global.coordinateRing_ringHom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:31.737156+00:00
 -- url     : https://prove2.me/theorems/3b9fcfd0-3180-4fcc-9018-1bf6bfbcd228

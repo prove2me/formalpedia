@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_partialProd_contractNth_of_le
 -- name    : GroundTheory.GroupCoh.partialProd_contractNth_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:43:21.433907+00:00
 -- url     : https://prove2.me/theorems/2b837488-ae1d-409a-8982-5a5b03a1cc47

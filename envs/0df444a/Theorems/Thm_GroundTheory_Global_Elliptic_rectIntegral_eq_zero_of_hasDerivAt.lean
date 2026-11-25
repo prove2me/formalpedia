@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_rectIntegral_eq_zero_of_hasDerivAt
 -- name    : GroundTheory.Global.Elliptic.rectIntegral_eq_zero_of_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:39:15.186977+00:00
 -- url     : https://prove2.me/theorems/46e29bb7-0e3f-4d19-9a3c-8bdf9518b4f5

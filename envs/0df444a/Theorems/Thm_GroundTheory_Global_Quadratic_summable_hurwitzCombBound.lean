@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_summable_hurwitzCombBound
 -- name    : GroundTheory.Global.Quadratic.summable_hurwitzCombBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:39:30.784464+00:00
 -- url     : https://prove2.me/theorems/97cdec32-7904-4ef5-8e8a-7eea83842fa8

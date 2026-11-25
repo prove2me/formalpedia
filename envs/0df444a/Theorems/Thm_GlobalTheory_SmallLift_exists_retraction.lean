@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallLift_exists_retraction
 -- name    : GlobalTheory.SmallLift.exists_retraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:14:51.323975+00:00
 -- url     : https://prove2.me/theorems/310e2fbe-dc6c-4f63-ba48-23321ded6a86

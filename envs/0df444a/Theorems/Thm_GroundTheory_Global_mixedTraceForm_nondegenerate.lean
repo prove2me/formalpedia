@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mixedTraceForm_nondegenerate
 -- name    : GroundTheory.Global.mixedTraceForm_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:42:11.356533+00:00
 -- url     : https://prove2.me/theorems/a3b07ed8-f1e4-4c05-b070-2d423d1aee08

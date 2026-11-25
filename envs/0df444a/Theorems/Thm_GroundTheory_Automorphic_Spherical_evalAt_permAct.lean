@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_evalAt_permAct
 -- name    : GroundTheory.Automorphic.Spherical.evalAt_permAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:16:57.14285+00:00
 -- url     : https://prove2.me/theorems/288bb003-f19e-4ad3-85f3-86e672de5d35

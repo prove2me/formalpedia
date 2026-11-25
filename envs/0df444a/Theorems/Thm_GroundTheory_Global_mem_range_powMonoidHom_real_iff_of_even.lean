@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_range_powMonoidHom_real_iff_of_even
 -- name    : GroundTheory.Global.mem_range_powMonoidHom_real_iff_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:42:29.372941+00:00
 -- url     : https://prove2.me/theorems/4d9029a1-b3c8-4541-9fbf-508d3f166f52

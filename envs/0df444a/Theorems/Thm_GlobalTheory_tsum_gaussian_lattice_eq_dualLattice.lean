@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tsum_gaussian_lattice_eq_dualLattice
 -- name    : GlobalTheory.tsum_gaussian_lattice_eq_dualLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:54:54.833874+00:00
 -- url     : https://prove2.me/theorems/b62df0f1-58b5-45e6-ac8b-7ce41feb84b3

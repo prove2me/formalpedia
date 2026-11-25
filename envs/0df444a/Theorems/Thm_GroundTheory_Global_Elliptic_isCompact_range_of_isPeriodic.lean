@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_isCompact_range_of_isPeriodic
 -- name    : GroundTheory.Global.Elliptic.isCompact_range_of_isPeriodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:38:26.687897+00:00
 -- url     : https://prove2.me/theorems/9ad9a3de-9faf-4041-9a34-0a60584f2b10

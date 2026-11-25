@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_lt_one_le_pow
 -- name    : GroundTheory.PAdicHodge.exists_lt_one_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:48:02.405779+00:00
 -- url     : https://prove2.me/theorems/040141ab-62ea-4a18-9611-ff09a19f815e

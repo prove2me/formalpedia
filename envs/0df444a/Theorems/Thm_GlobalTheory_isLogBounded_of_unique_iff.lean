@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLogBounded_of_unique_iff
 -- name    : GlobalTheory.isLogBounded_of_unique_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:55:05.34282+00:00
 -- url     : https://prove2.me/theorems/403b8d01-de5e-454a-b046-e24c57048ab9

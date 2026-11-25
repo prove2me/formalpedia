@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_maximalIdeal_pow_iff
 -- name    : GroundTheory.Global.mem_maximalIdeal_pow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:42:27.376813+00:00
 -- url     : https://prove2.me/theorems/ba2f56b1-8047-4ccd-8a56-ac0e443efeab

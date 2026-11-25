@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OfPeriod_exists_imPart
 -- name    : GlobalTheory.OfPeriod.exists_imPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:08:21.122069+00:00
 -- url     : https://prove2.me/theorems/a36b8a19-08ea-4926-a9e2-b870c7c7c372

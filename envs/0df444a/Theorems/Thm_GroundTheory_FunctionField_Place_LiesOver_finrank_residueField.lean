@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_FunctionField_Place_LiesOver_finrank_residueField
 -- name    : GroundTheory.FunctionField.Place.LiesOver.finrank_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:37.393955+00:00
 -- url     : https://prove2.me/theorems/82ada536-b57c-423a-88b9-ecff71e9e35f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_mem_standardOpenSubgroup_iff_toFinite_mem
 -- name    : GroundTheory.Global.IdeleGroup.mem_standardOpenSubgroup_iff_toFinite_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:19:30.237375+00:00
 -- url     : https://prove2.me/theorems/279ee77d-6389-4f17-93c8-8cdd5262b960

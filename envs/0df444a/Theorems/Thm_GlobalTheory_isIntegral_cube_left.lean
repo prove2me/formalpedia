@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_cube_left
 -- name    : GlobalTheory.isIntegral_cube_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:56:56.289275+00:00
 -- url     : https://prove2.me/theorems/ee23ca7b-6201-4282-a50a-a84899bd06d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_nonempty_algEquiv_of_algEquiv_matrix
 -- name    : GroundTheory.Brauer.nonempty_algEquiv_of_algEquiv_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:36:27.126965+00:00
 -- url     : https://prove2.me/theorems/824b8ea3-5397-46ac-bac1-f9f7eaf9f9b2

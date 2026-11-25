@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_SenTateChar_dvd_one_add_pow_sub
 -- name    : GroundTheory.PAdicHodge.SenTateChar.dvd_one_add_pow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:45:48.624552+00:00
 -- url     : https://prove2.me/theorems/c6e91aca-0306-420f-b91a-5cb8a99130db

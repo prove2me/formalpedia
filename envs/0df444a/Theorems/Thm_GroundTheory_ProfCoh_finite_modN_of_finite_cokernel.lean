@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_modN_of_finite_cokernel
 -- name    : GroundTheory.ProfCoh.finite_modN_of_finite_cokernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:49.006455+00:00
 -- url     : https://prove2.me/theorems/ca1a6376-6740-47be-b6a3-f1688a2cbc7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GLnLocal_doubleCoset_affineWeylGL_injective
 -- name    : GroundTheory.Automorphic.GLnLocal.doubleCoset_affineWeylGL_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:40:43.899922+00:00
 -- url     : https://prove2.me/theorems/d7d05bbc-f263-4926-8d7b-81573a437097

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_leviProj_inv_mul_mem
 -- name    : GroundTheory.Automorphic.Parabolic.leviProj_inv_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:41:26.4438+00:00
 -- url     : https://prove2.me/theorems/beb89969-fbd6-46ee-8cbb-031c2ace56c8

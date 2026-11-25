@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_torsN_of_injective
 -- name    : GroundTheory.ProfCoh.finite_torsN_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:42.204353+00:00
 -- url     : https://prove2.me/theorems/488da522-ff59-4584-9b9c-f59bd85f1e9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_barResolution___f_zero_single_ee18ab47ac91
 -- name    : P2M_GroundTheory_GroupCoh_barResolution___f_zero_single_ee18ab47ac91
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:14:50.887289+00:00
 -- url     : https://prove2.me/theorems/9bd0c6c0-cbb6-4441-a1e7-1ca8c9b9714c

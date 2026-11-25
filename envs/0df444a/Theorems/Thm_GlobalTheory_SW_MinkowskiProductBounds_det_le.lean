@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_MinkowskiProductBounds_det_le
 -- name    : GlobalTheory.SW.MinkowskiProductBounds.det_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:42:54.267835+00:00
 -- url     : https://prove2.me/theorems/f16a02c0-7470-4962-a365-c0024ca98c51

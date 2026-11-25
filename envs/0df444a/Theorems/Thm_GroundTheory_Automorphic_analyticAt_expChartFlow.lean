@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_analyticAt_expChartFlow
 -- name    : GroundTheory.Automorphic.analyticAt_expChartFlow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:15.696455+00:00
 -- url     : https://prove2.me/theorems/c17465b7-f9c9-4369-af7c-3716041cde45

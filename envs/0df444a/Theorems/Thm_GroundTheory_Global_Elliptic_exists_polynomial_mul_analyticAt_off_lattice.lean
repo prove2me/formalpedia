@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_polynomial_mul_analyticAt_off_lattice
 -- name    : GroundTheory.Global.Elliptic.exists_polynomial_mul_analyticAt_off_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:38:46.550857+00:00
 -- url     : https://prove2.me/theorems/f7d91a34-e610-4746-abbb-d49ddbefb1f7

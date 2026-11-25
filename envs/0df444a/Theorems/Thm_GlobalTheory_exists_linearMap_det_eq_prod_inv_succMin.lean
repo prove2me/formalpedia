@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_linearMap_det_eq_prod_inv_succMin
 -- name    : GlobalTheory.exists_linearMap_det_eq_prod_inv_succMin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:34:00.907299+00:00
 -- url     : https://prove2.me/theorems/9a2dfbbf-abc0-4eae-97f5-61a1c44ef964

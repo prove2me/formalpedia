@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsIrrCharacter_exists_one
 -- name    : GroundTheory.LocalField.IsIrrCharacter.exists_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:43:40.490665+00:00
 -- url     : https://prove2.me/theorems/62384fcf-7ab4-4ce1-8526-1a400f9778c5

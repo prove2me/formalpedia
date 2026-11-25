@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_range_powMonoidHom_prod
 -- name    : GroundTheory.Global.range_powMonoidHom_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:42:16.633557+00:00
 -- url     : https://prove2.me/theorems/db429af4-d933-48df-a48c-c9a6120df415

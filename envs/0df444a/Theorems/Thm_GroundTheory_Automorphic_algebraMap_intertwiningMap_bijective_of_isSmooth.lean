@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_algebraMap_intertwiningMap_bijective_of_isSmooth
 -- name    : GroundTheory.Automorphic.algebraMap_intertwiningMap_bijective_of_isSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:44.191392+00:00
 -- url     : https://prove2.me/theorems/070a4cc7-0c77-4962-9ae1-7372b85bf5cf

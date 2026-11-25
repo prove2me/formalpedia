@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_weberFunction_automorphismPoint
 -- name    : GroundTheory.Global.weberFunction_automorphismPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:43:58.585854+00:00
 -- url     : https://prove2.me/theorems/62c08390-92f0-4497-8a26-aa2d6c11bd07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_normal_domain_height_one__5612c3bf64ed
 -- name    : P2M_GlobalTheory_normal_domain_height_one__5612c3bf64ed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:55:04.131829+00:00
 -- url     : https://prove2.me/theorems/e4fe7e33-94b9-4104-bc8f-56dc17a665a4

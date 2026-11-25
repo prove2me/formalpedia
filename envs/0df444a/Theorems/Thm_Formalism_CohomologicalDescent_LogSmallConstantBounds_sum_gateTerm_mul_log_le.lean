@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_sum_gateTerm_mul_log_le
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.sum_gateTerm_mul_log_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:44:44.05763+00:00
 -- url     : https://prove2.me/theorems/07afd500-dd1c-4ec5-81ca-b934b131f372

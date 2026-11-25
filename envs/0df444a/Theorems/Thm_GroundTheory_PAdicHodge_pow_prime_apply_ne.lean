@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_pow_prime_apply_ne
 -- name    : GroundTheory.PAdicHodge.pow_prime_apply_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:47:56.256407+00:00
 -- url     : https://prove2.me/theorems/bc7e9785-728d-4773-acd6-2a666162e566

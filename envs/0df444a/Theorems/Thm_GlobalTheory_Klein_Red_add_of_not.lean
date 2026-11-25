@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Klein_Red_add_of_not
 -- name    : GlobalTheory.Klein.Red.add_of_not
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:02:37.259586+00:00
 -- url     : https://prove2.me/theorems/3fc94e65-ac45-4fbe-aa1c-68db272bdbbb

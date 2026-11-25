@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_unitToModN_surjective
 -- name    : GroundTheory.ProfCoh.unitToModN_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:38.559054+00:00
 -- url     : https://prove2.me/theorems/77ac0aae-054d-47a6-b514-7de45f9196df

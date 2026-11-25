@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenStructure_isAdicComplete_of_ringEquiv
 -- name    : GlobalTheory.CohenStructure.isAdicComplete_of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:06:43.751442+00:00
 -- url     : https://prove2.me/theorems/c762d027-5ab6-4eb2-9f6d-5657c3a67d6d

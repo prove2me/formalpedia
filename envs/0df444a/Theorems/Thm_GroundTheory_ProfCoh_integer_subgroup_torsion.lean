@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_integer_subgroup_torsion
 -- name    : GroundTheory.ProfCoh.integer_subgroup_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:56:26.544518+00:00
 -- url     : https://prove2.me/theorems/16f053bb-7c00-4d73-ad89-8e2c66180d7f

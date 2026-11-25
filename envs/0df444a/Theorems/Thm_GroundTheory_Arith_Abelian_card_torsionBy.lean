@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_card_torsionBy
 -- name    : GroundTheory.Arith.Abelian.card_torsionBy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T20:14:57.425848+00:00
 -- url     : https://prove2.me/theorems/6237175d-6c86-4d04-bf68-a2cd654c9807

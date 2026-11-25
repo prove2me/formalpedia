@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isOpen_setOf_le_cellRank
 -- name    : GroundTheory.Automorphic.Parabolic.isOpen_setOf_le_cellRank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:33:30.060134+00:00
 -- url     : https://prove2.me/theorems/759d0b13-2a2e-4413-ad96-6577f5ac43e7

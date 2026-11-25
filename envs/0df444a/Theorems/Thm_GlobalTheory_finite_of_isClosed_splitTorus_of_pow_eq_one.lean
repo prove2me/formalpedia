@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_of_isClosed_splitTorus_of_pow_eq_one
 -- name    : GlobalTheory.finite_of_isClosed_splitTorus_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:58:16.426807+00:00
 -- url     : https://prove2.me/theorems/5401cfb0-9b70-4827-859b-defa577115ef

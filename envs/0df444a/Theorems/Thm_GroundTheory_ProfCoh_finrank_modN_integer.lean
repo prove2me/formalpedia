@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finrank_modN_integer
 -- name    : GroundTheory.ProfCoh.finrank_modN_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:50:14.921054+00:00
 -- url     : https://prove2.me/theorems/7af4dc58-fb34-480f-823c-76c2c97f1622

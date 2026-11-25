@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_algebraMap_norm_eq_norm_tmul
 -- name    : GroundTheory.Global.InfinitePlace.algebraMap_norm_eq_norm_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:03.304808+00:00
 -- url     : https://prove2.me/theorems/1236ab1c-f22c-4dcf-a834-0c3676f6a615

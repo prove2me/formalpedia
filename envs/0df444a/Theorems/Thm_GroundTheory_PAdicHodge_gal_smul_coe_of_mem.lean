@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_gal_smul_coe_of_mem
 -- name    : GroundTheory.PAdicHodge.gal_smul_coe_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:46:41.149861+00:00
 -- url     : https://prove2.me/theorems/891baf23-83f6-4f42-bb77-a42d62b4dee4

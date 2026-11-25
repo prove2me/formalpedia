@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteLengthComplex_subsingleton_ext_of_isFiniteLength
 -- name    : GlobalTheory.FiniteLengthComplex.subsingleton_ext_of_isFiniteLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:01:26.233697+00:00
 -- url     : https://prove2.me/theorems/e39e11e2-4e84-419b-8962-013d05805003

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_tateCohomology_zero_iff
 -- name    : GroundTheory.GroupCoh.isZero_tateCohomology_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:43:42.21415+00:00
 -- url     : https://prove2.me/theorems/46548f00-5c7f-4e5a-89c1-ec2b05b48255

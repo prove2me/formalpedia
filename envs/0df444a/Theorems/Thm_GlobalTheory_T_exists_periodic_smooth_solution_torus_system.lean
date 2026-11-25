@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_periodic_smooth_solution_torus_system
 -- name    : GlobalTheory.T.exists_periodic_smooth_solution_torus_system
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:36:51.330807+00:00
 -- url     : https://prove2.me/theorems/f3b59ac6-7cb6-4c6e-ae1d-b55f13821052

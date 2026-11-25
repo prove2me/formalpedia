@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_exists_algEquiv_apply_eq_of_minpoly_eq
 -- name    : GroundTheory.Global.exists_algEquiv_apply_eq_of_minpoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:41:28.27756+00:00
 -- url     : https://prove2.me/theorems/c4807a4c-98e8-4524-a379-350bec71a42a

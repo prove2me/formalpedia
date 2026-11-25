@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_natCard_residueField_adicCompletion
 -- name    : GroundTheory.Global.natCard_residueField_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:54.00018+00:00
 -- url     : https://prove2.me/theorems/bd1f6043-5aad-4e75-82ff-69d605b367e7

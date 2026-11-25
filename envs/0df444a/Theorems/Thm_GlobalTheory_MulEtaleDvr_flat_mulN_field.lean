@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulEtaleDvr_flat_mulN_field
 -- name    : GlobalTheory.MulEtaleDvr.flat_mulN_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:28:24.510805+00:00
 -- url     : https://prove2.me/theorems/7553f006-3b8f-4fa1-9dba-d5877ce19a07

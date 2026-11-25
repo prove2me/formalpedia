@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_exists_int_valued_sub_lt_one
 -- name    : GroundTheory.Global.SemiLocal.exists_int_valued_sub_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:39:31.716015+00:00
 -- url     : https://prove2.me/theorems/0302f59f-633e-4f1e-904f-31d5cd89e662

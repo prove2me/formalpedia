@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_normalSubEquiv_apply
 -- name    : GroundTheory.ProfCoh.normalSubEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:50:42.496031+00:00
 -- url     : https://prove2.me/theorems/a651d4b3-f4f3-4dbb-aff2-201530d98934

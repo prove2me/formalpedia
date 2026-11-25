@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_hasDerivAt_expChartFlow
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.hasDerivAt_expChartFlow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:32:15.456022+00:00
 -- url     : https://prove2.me/theorems/fb2fd535-118d-43a8-a1c9-201092b4d358

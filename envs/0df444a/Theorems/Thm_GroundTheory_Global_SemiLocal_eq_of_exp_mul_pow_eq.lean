@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_eq_of_exp_mul_pow_eq
 -- name    : GroundTheory.Global.SemiLocal.eq_of_exp_mul_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:39:50.691421+00:00
 -- url     : https://prove2.me/theorems/375672d0-5a8a-44df-bb53-7b1949c18414

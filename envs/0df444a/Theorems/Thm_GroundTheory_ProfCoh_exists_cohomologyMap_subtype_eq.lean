@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_cohomologyMap_subtype_eq
 -- name    : GroundTheory.ProfCoh.exists_cohomologyMap_subtype_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:54.859557+00:00
 -- url     : https://prove2.me/theorems/341c840a-ff42-4e09-85bb-4d2271773e75

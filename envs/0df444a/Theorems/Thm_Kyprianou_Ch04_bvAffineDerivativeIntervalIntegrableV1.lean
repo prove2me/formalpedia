@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvAffineDerivativeIntervalIntegrableV1
 -- name    : Kyprianou.Ch04.bvAffineDerivativeIntervalIntegrableV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:04:33.829561+00:00
 -- url     : https://prove2.me/theorems/bfdc3feb-eafc-4f41-a0f3-e740b54d1cc9

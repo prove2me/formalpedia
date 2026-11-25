@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_map_partialSum
 -- name    : GroundTheory.PAdicHodge.map_partialSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:46:55.855801+00:00
 -- url     : https://prove2.me/theorems/538113aa-2a97-498b-ab4a-84adf7f5345c

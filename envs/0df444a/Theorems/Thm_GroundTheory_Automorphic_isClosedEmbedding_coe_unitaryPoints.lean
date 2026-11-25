@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isClosedEmbedding_coe_unitaryPoints
 -- name    : GroundTheory.Automorphic.isClosedEmbedding_coe_unitaryPoints
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:36:47.154865+00:00
 -- url     : https://prove2.me/theorems/0ae4a886-bfc1-497c-b6a1-e6283e994e50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_circle_coe_zpow
 -- name    : GroundTheory.Global.circle_coe_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:40:11.376174+00:00
 -- url     : https://prove2.me/theorems/5be31f58-49b0-40d6-a352-643c54835ea5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_isPrimitiveRoot_card_residueField_sub_one
 -- name    : GroundTheory.LocalField.exists_isPrimitiveRoot_card_residueField_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:10:54.470261+00:00
 -- url     : https://prove2.me/theorems/9e50e514-e96b-4514-aa54-9bc8fc24eb1e

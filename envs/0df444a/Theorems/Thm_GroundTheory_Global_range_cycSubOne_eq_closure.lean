@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_range_cycSubOne_eq_closure
 -- name    : GroundTheory.Global.range_cycSubOne_eq_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:42:41.893091+00:00
 -- url     : https://prove2.me/theorems/b33de99e-ec94-485c-baa5-fd45a65aa2f4

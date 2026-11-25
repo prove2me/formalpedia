@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isCharacter_sum
 -- name    : GroundTheory.LocalField.isCharacter_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:45:00.19951+00:00
 -- url     : https://prove2.me/theorems/ddf4ae13-70f6-4ed4-b89e-c95c7100306f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_coe_norm_eq_of_mul_eq
 -- name    : GroundTheory.LocalField.Abstract.coe_norm_eq_of_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:39.050845+00:00
 -- url     : https://prove2.me/theorems/ca6e684f-bcab-48a8-abc1-9f49cae93063

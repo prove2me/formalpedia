@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_geometricallyIntegral_of_isAbelianScheme
 -- name    : GlobalTheory.geometricallyIntegral_of_isAbelianScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:54:14.890718+00:00
 -- url     : https://prove2.me/theorems/a1259595-02a6-4e4f-8b3b-6d58da4351d0

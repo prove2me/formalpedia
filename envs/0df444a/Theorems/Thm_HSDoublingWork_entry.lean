@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HSDoublingWork_entry
 -- name    : HSDoublingWork.entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:51:52.977792+00:00
 -- url     : https://prove2.me/theorems/9d180dfa-eef0-4c9d-86a8-774dacf22ffa

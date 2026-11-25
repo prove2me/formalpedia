@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_toFun_range_of_injective
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.toFun_range_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:48:43.563404+00:00
 -- url     : https://prove2.me/theorems/41c1dcc8-13d8-4aad-8161-6fdee58da6fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_FormalGroup_add_le_order_subst_sub_subst
 -- name    : GroundTheory.LocalField.FormalGroup.add_le_order_subst_sub_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:13.84507+00:00
 -- url     : https://prove2.me/theorems/70032c80-c039-48ac-bf88-4b4e0625a1a4

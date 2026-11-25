@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_QZ_mk_eq_zero_iff
 -- name    : GroundTheory.ProfCoh.QZ.mk_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:24.345229+00:00
 -- url     : https://prove2.me/theorems/02bb6350-de19-45bd-b59e-b4c7c7c3168d

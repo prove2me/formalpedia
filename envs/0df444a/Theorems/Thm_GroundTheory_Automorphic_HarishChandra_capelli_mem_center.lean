@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_capelli_mem_center
 -- name    : GroundTheory.Automorphic.HarishChandra.capelli_mem_center
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:47:40.885087+00:00
 -- url     : https://prove2.me/theorems/ded88fee-3f71-48b0-b90e-9b731a44c8b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_integrable_fourierFun
 -- name    : GroundTheory.Automorphic.Sobolev.integrable_fourierFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:34.148619+00:00
 -- url     : https://prove2.me/theorems/34a76ab2-c8de-4e32-83a8-842f62f1fd97

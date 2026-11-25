@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLogBoundedScalar_zpow
 -- name    : GlobalTheory.IsLogBoundedScalar.zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:55:16.425425+00:00
 -- url     : https://prove2.me/theorems/2a8d6467-c2ec-40b7-b6af-a9721da7982c

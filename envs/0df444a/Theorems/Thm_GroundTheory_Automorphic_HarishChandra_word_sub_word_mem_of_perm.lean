@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_word_sub_word_mem_of_perm
 -- name    : GroundTheory.Automorphic.HarishChandra.word_sub_word_mem_of_perm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:07:00.997471+00:00
 -- url     : https://prove2.me/theorems/75788fc2-4893-45b7-8848-e206f982fe80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integral_realGaussianOdd_mul_sign_mul_abs_cpow
 -- name    : GroundTheory.Global.integral_realGaussianOdd_mul_sign_mul_abs_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:41:08.288535+00:00
 -- url     : https://prove2.me/theorems/ccf2ca11-3c8e-4176-88c2-8277017f544d

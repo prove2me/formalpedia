@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_square_left
 -- name    : GlobalTheory.isIntegral_square_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:57:05.50395+00:00
 -- url     : https://prove2.me/theorems/1062a9f7-5827-4a6f-9bb0-7b26ad8a491a

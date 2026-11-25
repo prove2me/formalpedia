@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coeff_smul_of_mem_ker
 -- name    : GroundTheory.Global.coeff_smul_of_mem_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:40:44.459825+00:00
 -- url     : https://prove2.me/theorems/51497105-5730-4042-a6e7-fbaeaccce362

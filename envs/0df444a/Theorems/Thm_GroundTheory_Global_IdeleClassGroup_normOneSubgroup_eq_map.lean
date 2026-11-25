@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleClassGroup_normOneSubgroup_eq_map
 -- name    : GroundTheory.Global.IdeleClassGroup.normOneSubgroup_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:20.037992+00:00
 -- url     : https://prove2.me/theorems/c19a7adb-7a50-4121-80ff-9c044042858e

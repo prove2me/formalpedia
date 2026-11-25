@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_posDef_map_mul_conjTranspose
 -- name    : GlobalTheory.SW.posDef_map_mul_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:06:26.675175+00:00
 -- url     : https://prove2.me/theorems/e450649a-cdd7-479d-89bd-e438f0c87648

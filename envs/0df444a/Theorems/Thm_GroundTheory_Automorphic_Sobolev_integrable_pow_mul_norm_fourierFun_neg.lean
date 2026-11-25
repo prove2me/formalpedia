@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_integrable_pow_mul_norm_fourierFun_neg
 -- name    : GroundTheory.Automorphic.Sobolev.integrable_pow_mul_norm_fourierFun_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:34:26.665549+00:00
 -- url     : https://prove2.me/theorems/e914584a-e8cc-4a99-9b27-e92870d91b5c

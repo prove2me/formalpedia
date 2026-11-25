@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_conductorExponent_eq_zero_iff
 -- name    : GroundTheory.Global.conductorExponent_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:31.500909+00:00
 -- url     : https://prove2.me/theorems/71434870-70f5-4386-af95-f3f1ef02b4d1

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.commonNullPredictableENNRepresentative
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-24T23:55:03.256119+00:00
 -- url     : https://prove2.me/submissions/d41c6d67-0b91-414b-8b19-c9d94898a5fc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_KLSModular_LevyStochCalc_Poisson_RandomMeasure

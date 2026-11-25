@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_IsDiscreteRep_of_forall_exists_mem_invariants
 -- name    : GroundTheory.ProfCoh.IsDiscreteRep.of_forall_exists_mem_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:02.347478+00:00
 -- url     : https://prove2.me/theorems/dbc1f78b-8347-495b-8a6e-51749f8fad38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycSub_normHom
 -- name    : GroundTheory.Global.cycSub_normHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:40:59.334828+00:00
 -- url     : https://prove2.me/theorems/634cc5f9-a34f-41f3-87ec-945ea59c04c0

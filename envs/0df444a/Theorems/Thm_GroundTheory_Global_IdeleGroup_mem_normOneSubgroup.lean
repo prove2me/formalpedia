@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_mem_normOneSubgroup
 -- name    : GroundTheory.Global.IdeleGroup.mem_normOneSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:36.980555+00:00
 -- url     : https://prove2.me/theorems/ae2a5172-c5c6-46f0-bd63-586ad6074e27

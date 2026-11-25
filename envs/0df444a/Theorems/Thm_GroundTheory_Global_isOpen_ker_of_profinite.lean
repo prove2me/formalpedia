@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isOpen_ker_of_profinite
 -- name    : GroundTheory.Global.isOpen_ker_of_profinite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:18:58.741019+00:00
 -- url     : https://prove2.me/theorems/31d028c3-67fb-4b82-ae3c-069f1cb79fb6

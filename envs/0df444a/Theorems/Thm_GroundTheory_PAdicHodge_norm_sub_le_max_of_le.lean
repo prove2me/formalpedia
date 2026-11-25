@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_sub_le_max_of_le
 -- name    : GroundTheory.PAdicHodge.norm_sub_le_max_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:47:18.968229+00:00
 -- url     : https://prove2.me/theorems/03028913-2149-4cb8-8a2a-0fd115601827

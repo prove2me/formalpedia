@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_natCast_p_pos
 -- name    : GroundTheory.PAdicHodge.norm_natCast_p_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:47:19.811461+00:00
 -- url     : https://prove2.me/theorems/57d604c8-2a25-4fe4-8f73-388cba6a41c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_pow_mul_mem_integer
 -- name    : GroundTheory.LocalField.exists_pow_mul_mem_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:44:19.871851+00:00
 -- url     : https://prove2.me/theorems/103c2dd3-67b7-4587-8314-b2529e0aa095

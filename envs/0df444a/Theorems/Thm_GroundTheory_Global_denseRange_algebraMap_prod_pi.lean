@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_denseRange_algebraMap_prod_pi
 -- name    : GroundTheory.Global.denseRange_algebraMap_prod_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:33.66389+00:00
 -- url     : https://prove2.me/theorems/94902f33-7346-453a-b9c2-0ffb1cda2e4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coordEval_mk
 -- name    : GroundTheory.Global.coordEval_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:39.901297+00:00
 -- url     : https://prove2.me/theorems/483d1541-81f1-4db1-b5cd-2010a877f59e

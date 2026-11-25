@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ker_cycNorm_ofMulDistribMulAction
 -- name    : GroundTheory.LocalField.ker_cycNorm_ofMulDistribMulAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:45:14.78146+00:00
 -- url     : https://prove2.me/theorems/71ddd056-e13c-421f-bbe9-2d1a20f48cf1

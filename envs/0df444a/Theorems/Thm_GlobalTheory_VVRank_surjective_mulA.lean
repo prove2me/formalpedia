@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_VVRank_surjective_mulA
 -- name    : GlobalTheory.VVRank.surjective_mulA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:51:02.23908+00:00
 -- url     : https://prove2.me/theorems/16eb4f3a-c647-4f98-9fe6-edcec57117f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_isRegular_of_field
 -- name    : GroundTheory.PAdicHodge.isRegular_of_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:47:21.013563+00:00
 -- url     : https://prove2.me/theorems/f397342c-648b-4c7a-958c-d14739a97dd2

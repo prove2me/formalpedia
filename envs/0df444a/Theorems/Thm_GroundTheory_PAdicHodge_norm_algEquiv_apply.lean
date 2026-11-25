@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_algEquiv_apply
 -- name    : GroundTheory.PAdicHodge.norm_algEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:47:17.343059+00:00
 -- url     : https://prove2.me/theorems/0c118091-585e-48ef-8ab7-3a1772f3602b

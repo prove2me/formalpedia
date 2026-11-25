@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_conditionalPredictableCompensationCommonNullV2
 -- name    : Kyprianou.Ch04.conditionalPredictableCompensationCommonNullV2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-24T22:12:47.513329+00:00
 -- url     : https://prove2.me/theorems/bf5da7d2-0e15-44ab-8e4a-28f5a74879e6

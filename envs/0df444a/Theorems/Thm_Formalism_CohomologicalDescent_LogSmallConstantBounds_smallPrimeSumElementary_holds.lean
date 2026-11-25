@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_smallPrimeSumElementary_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.smallPrimeSumElementary_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:44:24.911398+00:00
 -- url     : https://prove2.me/theorems/942b485a-7cb3-4447-8c69-ec7bb1888a7c

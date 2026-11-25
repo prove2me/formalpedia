@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finiteExtensionStructure_isNonarchimedeanLocalField
 -- name    : GroundTheory.LocalField.finiteExtensionStructure_isNonarchimedeanLocalField
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:19:01.33168+00:00
 -- url     : https://prove2.me/theorems/20b6375d-65f1-4fb9-8cd4-16479aa739eb

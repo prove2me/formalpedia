@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_isTopologicalBasis
 -- name    : GroundTheory.Global.IdeleGroup.isTopologicalBasis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:27:13.208912+00:00
 -- url     : https://prove2.me/theorems/5f3dc87c-815b-4061-bbac-022ffd31e14f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HostParam_Seam_exists_cmType
 -- name    : HostParam.Seam.exists_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:52:24.848317+00:00
 -- url     : https://prove2.me/theorems/c7f67476-3bcb-4b68-a701-0cffda27d198

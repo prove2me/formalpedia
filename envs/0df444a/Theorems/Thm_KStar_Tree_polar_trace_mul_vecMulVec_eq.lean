@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_polar_trace_mul_vecMulVec_eq
 -- name    : KStar.Tree.polar_trace_mul_vecMulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:10.131698+00:00
 -- url     : https://prove2.me/theorems/582230b6-86dd-495c-9256-e15a2346ac2e

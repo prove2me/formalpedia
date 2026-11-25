@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_fixedMap_surjective
 -- name    : GroundTheory.Automorphic.fixedMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:17.351716+00:00
 -- url     : https://prove2.me/theorems/3b19f610-517e-41ba-a82e-31b3eb852e6a

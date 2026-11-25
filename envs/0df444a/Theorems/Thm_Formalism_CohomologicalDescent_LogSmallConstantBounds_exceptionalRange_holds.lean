@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LogSmallConstantBounds_exceptionalRange_holds
 -- name    : Formalism.CohomologicalDescent.LogSmallConstantBounds.exceptionalRange_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:45:18.212959+00:00
 -- url     : https://prove2.me/theorems/c3eb830b-8a2f-4029-b394-f943c1479724

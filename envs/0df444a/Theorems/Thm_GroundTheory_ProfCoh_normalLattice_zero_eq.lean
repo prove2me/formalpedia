@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_normalLattice_zero_eq
 -- name    : GroundTheory.ProfCoh.normalLattice_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:51:29.559794+00:00
 -- url     : https://prove2.me/theorems/e4cc1cf1-3021-42d7-aea5-b13674c4b387

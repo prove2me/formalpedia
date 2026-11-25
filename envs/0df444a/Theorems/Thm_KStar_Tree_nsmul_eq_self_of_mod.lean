@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_nsmul_eq_self_of_mod
 -- name    : KStar.Tree.nsmul_eq_self_of_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:51:41.854458+00:00
 -- url     : https://prove2.me/theorems/58dc2032-69a8-49bd-830a-0957248954f2

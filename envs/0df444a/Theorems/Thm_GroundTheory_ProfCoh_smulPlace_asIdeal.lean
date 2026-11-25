@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_smulPlace_asIdeal
 -- name    : GroundTheory.ProfCoh.smulPlace_asIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:50:42.457617+00:00
 -- url     : https://prove2.me/theorems/eacbd790-842d-472f-a9d2-bb01a51f7fe0

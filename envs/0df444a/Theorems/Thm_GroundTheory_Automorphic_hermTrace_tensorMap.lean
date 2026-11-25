@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hermTrace_tensorMap
 -- name    : GroundTheory.Automorphic.hermTrace_tensorMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:36:49.052125+00:00
 -- url     : https://prove2.me/theorems/e1d58a24-a88d-4edf-983c-4be267361a8a

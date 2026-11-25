@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_prime_norm_cyclotomicChar_ne_one
 -- name    : GlobalTheory.T.exists_prime_norm_cyclotomicChar_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:40:30.065568+00:00
 -- url     : https://prove2.me/theorems/66cf359a-5f5c-4a0b-95c6-9c2cff09501a

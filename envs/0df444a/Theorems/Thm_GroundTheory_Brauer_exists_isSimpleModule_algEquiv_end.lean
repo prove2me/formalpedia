@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_exists_isSimpleModule_algEquiv_end
 -- name    : GroundTheory.Brauer.exists_isSimpleModule_algEquiv_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:36:43.457499+00:00
 -- url     : https://prove2.me/theorems/2c329c7e-551b-409b-ac36-0b6974e1e775

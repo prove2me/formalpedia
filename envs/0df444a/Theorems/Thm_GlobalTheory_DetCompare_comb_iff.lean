@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetCompare_comb_iff
 -- name    : GlobalTheory.DetCompare.comb_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:06:33.605502+00:00
 -- url     : https://prove2.me/theorems/d8f925b1-cbd1-4a6f-b518-6e6ddfdb4fb2

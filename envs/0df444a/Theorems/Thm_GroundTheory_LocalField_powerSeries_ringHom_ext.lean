@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_powerSeries_ringHom_ext
 -- name    : GroundTheory.LocalField.powerSeries_ringHom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:44:51.362519+00:00
 -- url     : https://prove2.me/theorems/64ce77ab-0dd3-4247-bb74-7cc3e5dcdaa1

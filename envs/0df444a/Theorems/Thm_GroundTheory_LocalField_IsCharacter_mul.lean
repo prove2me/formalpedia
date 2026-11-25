@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsCharacter_mul
 -- name    : GroundTheory.LocalField.IsCharacter.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:43:58.315335+00:00
 -- url     : https://prove2.me/theorems/af3d11e9-8f23-4abe-8126-807b4f176bde

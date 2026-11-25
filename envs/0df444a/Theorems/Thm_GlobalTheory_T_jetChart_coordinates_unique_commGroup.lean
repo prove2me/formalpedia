@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_jetChart_coordinates_unique_commGroup
 -- name    : GlobalTheory.T.jetChart_coordinates_unique_commGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:34:30.333511+00:00
 -- url     : https://prove2.me/theorems/3adb98c6-cafc-424c-a168-3cd025b81eee

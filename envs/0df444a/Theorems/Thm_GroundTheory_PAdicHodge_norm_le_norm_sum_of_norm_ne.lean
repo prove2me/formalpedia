@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_norm_le_norm_sum_of_norm_ne
 -- name    : GroundTheory.PAdicHodge.norm_le_norm_sum_of_norm_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:47:48.290267+00:00
 -- url     : https://prove2.me/theorems/d7a3191e-14e4-479d-be7e-4ff58c45cedb

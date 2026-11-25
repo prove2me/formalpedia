@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sq_sum_exp_pair
 -- name    : GlobalTheory.sq_sum_exp_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:21:38.28188+00:00
 -- url     : https://prove2.me/theorems/40eae4cf-e96b-4b8d-a2ba-23b8933981a5

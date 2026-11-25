@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finrank_integer
 -- name    : GroundTheory.Global.finrank_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:41:47.640474+00:00
 -- url     : https://prove2.me/theorems/08a47e32-4ec4-4475-ad0b-ba0ca60885c2

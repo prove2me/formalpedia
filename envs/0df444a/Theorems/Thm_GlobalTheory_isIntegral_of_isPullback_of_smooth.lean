@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_of_isPullback_of_smooth
 -- name    : GlobalTheory.isIntegral_of_isPullback_of_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:28:07.828773+00:00
 -- url     : https://prove2.me/theorems/ff75050b-53fb-4adc-b745-cec5bc59004c

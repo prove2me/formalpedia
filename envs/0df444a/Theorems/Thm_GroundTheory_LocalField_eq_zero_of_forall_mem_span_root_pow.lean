@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_zero_of_forall_mem_span_root_pow
 -- name    : GroundTheory.LocalField.eq_zero_of_forall_mem_span_root_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:43:53.605639+00:00
 -- url     : https://prove2.me/theorems/66a9e892-d74a-4ded-8ac7-37f2a3e4965f

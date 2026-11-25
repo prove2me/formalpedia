@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_prod_one_add_rpow_neg_eq_sum
 -- name    : GroundTheory.Global.prod_one_add_rpow_neg_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:42:37.964209+00:00
 -- url     : https://prove2.me/theorems/64a270a9-2fb7-43da-a3af-b84d72d673c7

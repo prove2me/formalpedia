@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_weil_representation_preserves_L2
 -- name    : GlobalTheory.KSp.weil_representation_preserves_L2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:48:17.307194+00:00
 -- url     : https://prove2.me/theorems/f002a9ca-54c8-419c-a4a6-6b450a5cead2

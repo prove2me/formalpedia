@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_rowEmb_apply
 -- name    : GlobalTheory.SW.rowEmb_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:06:30.129046+00:00
 -- url     : https://prove2.me/theorems/c80ff574-b8dc-4738-a58d-860217d349ff

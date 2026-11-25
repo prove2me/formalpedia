@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finite_quotient_range_pow
 -- name    : GroundTheory.LocalField.finite_quotient_range_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:45:00.586261+00:00
 -- url     : https://prove2.me/theorems/69ea1d19-987c-481e-bdf2-5284409f8ab0

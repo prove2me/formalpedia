@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsSiegel_riemannTheta_char_eq_neg_inv
 -- name    : GlobalTheory.IsSiegel.riemannTheta_char_eq_neg_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:22:20.855978+00:00
 -- url     : https://prove2.me/theorems/03ed877f-be3c-4961-8c0a-40300f06d27f

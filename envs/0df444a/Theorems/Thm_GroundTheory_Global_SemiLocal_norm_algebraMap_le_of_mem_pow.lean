@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_norm_algebraMap_le_of_mem_pow
 -- name    : GroundTheory.Global.SemiLocal.norm_algebraMap_le_of_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:39:31.764767+00:00
 -- url     : https://prove2.me/theorems/c62c3753-7e72-4c1c-9b5b-f6e1ae6297cf

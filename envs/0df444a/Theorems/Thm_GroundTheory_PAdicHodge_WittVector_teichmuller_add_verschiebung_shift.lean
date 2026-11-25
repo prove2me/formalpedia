@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittVector_teichmuller_add_verschiebung_shift
 -- name    : GroundTheory.PAdicHodge.WittVector.teichmuller_add_verschiebung_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:46:18.563577+00:00
 -- url     : https://prove2.me/theorems/a17dfd41-09ba-45ae-ab5f-81c38d953078

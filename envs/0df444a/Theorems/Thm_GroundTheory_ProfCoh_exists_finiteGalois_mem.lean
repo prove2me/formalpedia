@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_finiteGalois_mem
 -- name    : GroundTheory.ProfCoh.exists_finiteGalois_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:50:04.449636+00:00
 -- url     : https://prove2.me/theorems/8e04e013-5ef7-4738-92c4-3dff678d2529

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_norm_altSum_le
 -- name    : GroundTheory.Automorphic.norm_altSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:35:34.531252+00:00
 -- url     : https://prove2.me/theorems/5a2ece06-bb09-48bd-a79c-cd66b21c1c2d

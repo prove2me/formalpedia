@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_det_gram_rowEmb
 -- name    : GlobalTheory.SW.det_gram_rowEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:06:26.023799+00:00
 -- url     : https://prove2.me/theorems/9b7c3754-5da1-458b-9837-53e7d1a932e6

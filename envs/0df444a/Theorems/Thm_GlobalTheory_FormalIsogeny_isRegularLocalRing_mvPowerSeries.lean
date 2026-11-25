@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalIsogeny_isRegularLocalRing_mvPowerSeries
 -- name    : GlobalTheory.FormalIsogeny.isRegularLocalRing_mvPowerSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:00:56.768635+00:00
 -- url     : https://prove2.me/theorems/b5762c51-7100-4e4e-ac27-2a10cd3b4c89

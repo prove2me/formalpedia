@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_gal_apply_eq_of_mem_roots
 -- name    : GroundTheory.PAdicHodge.exists_gal_apply_eq_of_mem_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:46:30.672986+00:00
 -- url     : https://prove2.me/theorems/b36180e0-7566-47a2-bc57-3d6e504448cf

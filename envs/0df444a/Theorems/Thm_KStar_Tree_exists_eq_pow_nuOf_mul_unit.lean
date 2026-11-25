@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KStar_Tree_exists_eq_pow_nuOf_mul_unit
 -- name    : KStar.Tree.exists_eq_pow_nuOf_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:51:48.391343+00:00
 -- url     : https://prove2.me/theorems/375289cf-e914-44ce-8538-273dd29f1beb

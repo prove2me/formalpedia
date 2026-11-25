@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Etale_pullbackUnitApp_comp_hom
 -- name    : GroundTheory.Arith.Etale.pullbackUnitApp_comp_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:05:04.046144+00:00
 -- url     : https://prove2.me/theorems/f9395119-760b-463e-b693-7e3783884d83

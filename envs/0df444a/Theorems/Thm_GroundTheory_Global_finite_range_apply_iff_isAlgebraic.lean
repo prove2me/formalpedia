@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_range_apply_iff_isAlgebraic
 -- name    : GroundTheory.Global.finite_range_apply_iff_isAlgebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:41:14.781615+00:00
 -- url     : https://prove2.me/theorems/9c1e4e44-7983-4b85-b56f-b4879c25b9e0

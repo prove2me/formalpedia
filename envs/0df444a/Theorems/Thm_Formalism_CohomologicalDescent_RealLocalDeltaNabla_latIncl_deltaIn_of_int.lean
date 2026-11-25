@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_RealLocalDeltaNabla_latIncl_deltaIn_of_int
 -- name    : Formalism.CohomologicalDescent.RealLocalDeltaNabla.latIncl_deltaIn_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:08:44.080954+00:00
 -- url     : https://prove2.me/theorems/53b08a52-7591-409f-bca4-28d82772e374

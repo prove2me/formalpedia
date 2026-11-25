@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exact_coinvariantsMap
 -- name    : GroundTheory.Automorphic.exact_coinvariantsMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:13:15.332532+00:00
 -- url     : https://prove2.me/theorems/e354e0b3-b866-4e04-9a5d-4c391fb6de79

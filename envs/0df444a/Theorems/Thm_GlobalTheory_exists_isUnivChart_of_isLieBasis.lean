@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isUnivChart_of_isLieBasis
 -- name    : GlobalTheory.exists_isUnivChart_of_isLieBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:41:43.579182+00:00
 -- url     : https://prove2.me/theorems/5da2b664-2a16-49a3-bb61-e7963bee5e9c

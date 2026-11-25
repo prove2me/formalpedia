@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_iwasawaExponent_mul_of_mem_unipotent
 -- name    : GroundTheory.Automorphic.Iwasawa.iwasawaExponent_mul_of_mem_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:31:02.384859+00:00
 -- url     : https://prove2.me/theorems/7aaf55eb-4227-4adc-a977-a6daa6574214

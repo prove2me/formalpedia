@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_natCard_kerModRange_hexagon
 -- name    : GroundTheory.GroupCoh.natCard_kerModRange_hexagon
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:58:49.993817+00:00
 -- url     : https://prove2.me/theorems/6a27ec93-52da-4c79-99f3-3c20cfc1a4a4

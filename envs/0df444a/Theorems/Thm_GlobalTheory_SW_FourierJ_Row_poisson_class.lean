@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_FourierJ_Row_poisson_class
 -- name    : GlobalTheory.SW.FourierJ.Row.poisson_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:39:11.789885+00:00
 -- url     : https://prove2.me/theorems/05cfcbac-c1bd-478b-82b0-e8b1ea73e6ae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_complexFourier_conj
 -- name    : GroundTheory.Global.complexFourier_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:40:40.192633+00:00
 -- url     : https://prove2.me/theorems/39d6dd11-90c8-4f9d-b417-e02cfcb7b66b

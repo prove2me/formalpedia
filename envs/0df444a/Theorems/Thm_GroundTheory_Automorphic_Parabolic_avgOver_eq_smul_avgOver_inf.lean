@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_avgOver_eq_smul_avgOver_inf
 -- name    : GroundTheory.Automorphic.Parabolic.avgOver_eq_smul_avgOver_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:38:34.660813+00:00
 -- url     : https://prove2.me/theorems/70252e70-7716-428f-ade5-3d89d77ab109

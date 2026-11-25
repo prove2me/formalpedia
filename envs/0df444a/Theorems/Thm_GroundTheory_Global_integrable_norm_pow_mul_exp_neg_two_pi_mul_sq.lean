@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integrable_norm_pow_mul_exp_neg_two_pi_mul_sq
 -- name    : GroundTheory.Global.integrable_norm_pow_mul_exp_neg_two_pi_mul_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:41:15.783834+00:00
 -- url     : https://prove2.me/theorems/1577edd2-1b15-4eb0-9818-db260a429640

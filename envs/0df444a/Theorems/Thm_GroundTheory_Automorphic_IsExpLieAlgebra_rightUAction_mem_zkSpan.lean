@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_rightUAction_mem_zkSpan
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.rightUAction_mem_zkSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:27.907273+00:00
 -- url     : https://prove2.me/theorems/161635d9-e296-4c8f-b58e-8819e87bf6c1

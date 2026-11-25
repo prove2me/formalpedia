@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_leviProj_leviIncl
 -- name    : GroundTheory.Automorphic.Parabolic.leviProj_leviIncl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:31:02.075833+00:00
 -- url     : https://prove2.me/theorems/19467028-d3dc-40d3-a5f1-0bb68b22072c

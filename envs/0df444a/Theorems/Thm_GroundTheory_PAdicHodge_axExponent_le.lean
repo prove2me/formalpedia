@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_axExponent_le
 -- name    : GroundTheory.PAdicHodge.axExponent_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:45:50.90357+00:00
 -- url     : https://prove2.me/theorems/df9e6eed-5a54-402c-b0f8-17a27d65869d

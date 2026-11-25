@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_norm_mem_Ioc_of_dense
 -- name    : GroundTheory.PAdicHodge.exists_norm_mem_Ioc_of_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:48:12.57491+00:00
 -- url     : https://prove2.me/theorems/64dedc58-ba1c-40f4-a41f-1282e2ea2c53

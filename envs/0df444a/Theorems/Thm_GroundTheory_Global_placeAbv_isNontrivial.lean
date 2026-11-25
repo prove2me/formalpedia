@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_placeAbv_isNontrivial
 -- name    : GroundTheory.Global.placeAbv_isNontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:41:59.783812+00:00
 -- url     : https://prove2.me/theorems/c65e8b71-9824-4b76-b3ac-f69306b4ba1d

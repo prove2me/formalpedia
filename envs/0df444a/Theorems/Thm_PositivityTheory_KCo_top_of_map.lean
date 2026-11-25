@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KCo_top_of_map
 -- name    : PositivityTheory.KCo.top_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:08:32.39198+00:00
 -- url     : https://prove2.me/theorems/41a97464-7e6a-47cd-9699-6e1b712a58c4

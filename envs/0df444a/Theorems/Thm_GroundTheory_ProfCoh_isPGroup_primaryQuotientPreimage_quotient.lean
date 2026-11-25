@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isPGroup_primaryQuotientPreimage_quotient
 -- name    : GroundTheory.ProfCoh.isPGroup_primaryQuotientPreimage_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:52:03.784618+00:00
 -- url     : https://prove2.me/theorems/e1037299-3d70-4b6f-a720-c2f6b5c36b8f

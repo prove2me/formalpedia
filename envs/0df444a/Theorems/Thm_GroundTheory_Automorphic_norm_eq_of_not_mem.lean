@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_norm_eq_of_not_mem
 -- name    : GroundTheory.Automorphic.norm_eq_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:36:42.81586+00:00
 -- url     : https://prove2.me/theorems/a0faefc9-2e5a-4d83-afb6-be71f9c5545e

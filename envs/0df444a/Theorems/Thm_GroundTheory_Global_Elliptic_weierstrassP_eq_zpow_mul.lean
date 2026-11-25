@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_weierstrassP_eq_zpow_mul
 -- name    : GroundTheory.Global.Elliptic.weierstrassP_eq_zpow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:38:22.51946+00:00
 -- url     : https://prove2.me/theorems/428df73f-9c9d-4c4f-b797-4d4663126de7

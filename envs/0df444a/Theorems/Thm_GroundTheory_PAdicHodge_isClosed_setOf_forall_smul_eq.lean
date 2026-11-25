@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_isClosed_setOf_forall_smul_eq
 -- name    : GroundTheory.PAdicHodge.isClosed_setOf_forall_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:47:11.076443+00:00
 -- url     : https://prove2.me/theorems/3ef8bca3-d718-4ff1-ba28-33e6eb573d95

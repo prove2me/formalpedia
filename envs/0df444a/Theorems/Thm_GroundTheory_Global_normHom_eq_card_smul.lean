@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_normHom_eq_card_smul
 -- name    : GroundTheory.Global.normHom_eq_card_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:42:00.753799+00:00
 -- url     : https://prove2.me/theorems/74aade52-c675-4c72-b306-0eef221e50e1

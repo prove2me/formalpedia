@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_quotient_range_toAdditive
 -- name    : GroundTheory.ProfCoh.finite_quotient_range_toAdditive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:49:56.111767+00:00
 -- url     : https://prove2.me/theorems/85c66c09-f73f-45f6-a066-084b32caee0d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Iwasawa_iwasawaExponent_mul_of_mem_integralGL
 -- name    : GroundTheory.Automorphic.Iwasawa.iwasawaExponent_mul_of_mem_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:18:52.091811+00:00
 -- url     : https://prove2.me/theorems/2ffd1134-0202-4a43-a956-e7fe40eca96a

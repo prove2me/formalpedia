@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_continuous_coeff
 -- name    : GroundTheory.PAdicHodge.AInf.continuous_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:45:25.938303+00:00
 -- url     : https://prove2.me/theorems/1823ad8d-8352-4ad5-9103-9bc1f05d254d

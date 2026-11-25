@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_ker_repSubOne
 -- name    : GroundTheory.GroupCoh.ker_repSubOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:43:52.781214+00:00
 -- url     : https://prove2.me/theorems/98e05e40-550a-4e57-9bc7-0fc5e3ac4a98

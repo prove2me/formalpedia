@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsQuasiRegularSeq_flat_of_isMaximal
 -- name    : GlobalTheory.IsQuasiRegularSeq.flat_of_isMaximal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:56:29.618917+00:00
 -- url     : https://prove2.me/theorems/dee45cbb-cec3-4839-b12e-4932bb4c6f2b

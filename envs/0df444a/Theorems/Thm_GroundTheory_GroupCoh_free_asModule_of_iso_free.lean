@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_free_asModule_of_iso_free
 -- name    : GroundTheory.GroupCoh.free_asModule_of_iso_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:43:38.364453+00:00
 -- url     : https://prove2.me/theorems/6e6c429d-4922-41a9-a620-b060ee62a807

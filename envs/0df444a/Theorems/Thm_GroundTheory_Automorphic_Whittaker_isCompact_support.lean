@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isCompact_support
 -- name    : GroundTheory.Automorphic.Whittaker.isCompact_support
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:42:33.715351+00:00
 -- url     : https://prove2.me/theorems/4368abca-7f5e-44c9-9a30-13856a736f3b

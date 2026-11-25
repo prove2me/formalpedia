@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_constantCoeff_rho_one_word_monomial
 -- name    : GroundTheory.Automorphic.HarishChandra.constantCoeff_rho_one_word_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:30:32.418097+00:00
 -- url     : https://prove2.me/theorems/1d0e0364-7fdd-4d38-baaf-49f57897efff

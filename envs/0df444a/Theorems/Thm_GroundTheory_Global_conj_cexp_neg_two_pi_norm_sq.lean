@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_conj_cexp_neg_two_pi_norm_sq
 -- name    : GroundTheory.Global.conj_cexp_neg_two_pi_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:40:24.07682+00:00
 -- url     : https://prove2.me/theorems/ca39be9c-763f-4127-a95b-497f79c0b723

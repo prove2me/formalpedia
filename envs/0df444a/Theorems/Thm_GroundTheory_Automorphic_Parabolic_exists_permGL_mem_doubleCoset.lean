@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_permGL_mem_doubleCoset
 -- name    : GroundTheory.Automorphic.Parabolic.exists_permGL_mem_doubleCoset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:27.494385+00:00
 -- url     : https://prove2.me/theorems/8b4fa2e3-3c7c-4cbe-88f0-a67f73edcff8
