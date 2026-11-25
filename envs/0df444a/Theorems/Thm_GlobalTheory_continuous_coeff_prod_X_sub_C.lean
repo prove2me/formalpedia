@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuous_coeff_prod_X_sub_C
 -- name    : GlobalTheory.continuous_coeff_prod_X_sub_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:24.582796+00:00
 -- url     : https://prove2.me/theorems/5d61f71a-8aa5-59ea-b850-a92c57c78a49

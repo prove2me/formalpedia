@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_sqrt_natCast_mem_S_iff
 -- name    : SZ.sqrt_natCast_mem_S_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:36:31.516048+00:00
 -- url     : https://prove2.me/theorems/b73d5a20-2a67-4cd3-90ef-e32790341f23

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsogenySum_translate_translate
 -- name    : GlobalTheory.IsogenySum.translate_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:08:50.277776+00:00
 -- url     : https://prove2.me/theorems/f8ead1e7-d00b-4a81-a8f6-112b6b00719a

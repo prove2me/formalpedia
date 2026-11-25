@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eventually_const_mul_rpow_le_rpow
 -- name    : GlobalTheory.eventually_const_mul_rpow_le_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:45.36768+00:00
 -- url     : https://prove2.me/theorems/00b71181-ec32-42bc-ba75-a877d711d99e

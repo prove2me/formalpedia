@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_qminorOp_rel
 -- name    : CompanionTheory.CapEig.qminorOp_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:36:35.828469+00:00
 -- url     : https://prove2.me/theorems/dc06839d-3d1a-5ee3-964d-c42f7a09f315

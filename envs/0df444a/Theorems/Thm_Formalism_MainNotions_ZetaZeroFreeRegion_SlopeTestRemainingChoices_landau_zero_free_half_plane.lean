@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ZetaZeroFreeRegion_SlopeTestRemainingChoices_landau_zero_free_half_plane
 -- name    : Formalism.MainNotions.ZetaZeroFreeRegion.SlopeTestRemainingChoices.landau_zero_free_half_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:12:01.194366+00:00
 -- url     : https://prove2.me/theorems/f1f496d2-22ac-43ef-bfc2-7a80d65eb9df

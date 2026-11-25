@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_quotientEquivLocalQuotients_mk
 -- name    : GroundTheory.Global.quotientEquivLocalQuotients_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:54:45.533301+00:00
 -- url     : https://prove2.me/theorems/09732f9b-5058-42d1-9d10-3439f190283b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sum_powerset_norm_signedSum_sq
 -- name    : SNumbers.sum_powerset_norm_signedSum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:25:27.105265+00:00
 -- url     : https://prove2.me/theorems/5c9e668e-98df-4666-8aad-1cc7e8343a1b

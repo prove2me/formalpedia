@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_sum_polyImg_zero
 -- name    : GlobalTheory.SectionBasis.sum_polyImg_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:52:06.408803+00:00
 -- url     : https://prove2.me/theorems/12b33e58-2b3a-4e68-9767-c2dc8d5aabb5

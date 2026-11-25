@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_integers_localisation_iff_sum_cmData
 -- name    : GlobalTheory.T.mem_integers_localisation_iff_sum_cmData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:52:46.914461+00:00
 -- url     : https://prove2.me/theorems/70992000-8cf2-4c5b-9f0f-3cb45878939b

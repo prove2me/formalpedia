@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GoodTrans_transit_ring
 -- name    : GlobalTheory.CompanionTheory.SW.GoodTrans.transit_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:19:27.690863+00:00
 -- url     : https://prove2.me/theorems/a780e62e-c599-4ddf-a3cc-9411a53da33f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajNear_continuous_cpt
 -- name    : GlobalTheory.MajNear.continuous_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:47:43.235805+00:00
 -- url     : https://prove2.me/theorems/f6bb52ca-464a-5f18-82a4-33401dc925b2

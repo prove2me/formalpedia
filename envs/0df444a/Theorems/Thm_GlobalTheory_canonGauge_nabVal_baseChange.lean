@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_canonGauge_nabVal_baseChange
 -- name    : GlobalTheory.canonGauge_nabVal_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:12:41.834716+00:00
 -- url     : https://prove2.me/theorems/92fc6756-7f4f-44f9-88aa-30fd038fcc2c

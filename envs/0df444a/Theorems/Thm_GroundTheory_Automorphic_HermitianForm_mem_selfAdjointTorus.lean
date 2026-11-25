@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_mem_selfAdjointTorus
 -- name    : GroundTheory.Automorphic.HermitianForm.mem_selfAdjointTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:58:11.939803+00:00
 -- url     : https://prove2.me/theorems/e8549eef-71ba-5452-9062-eafebc541504

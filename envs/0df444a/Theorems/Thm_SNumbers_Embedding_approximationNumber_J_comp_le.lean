@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Embedding_approximationNumber_J_comp_le
 -- name    : SNumbers.Embedding.approximationNumber_J_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:27:42.06405+00:00
 -- url     : https://prove2.me/theorems/b546ce91-ac7f-4951-ad48-0da9a3c0b6c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_sqrt_mem_UJ
 -- name    : CompanionTheory.D.Upq.sqrt_mem_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:06:10.643625+00:00
 -- url     : https://prove2.me/theorems/6ea46830-dc74-48a2-a2ee-55ef4430b1d8

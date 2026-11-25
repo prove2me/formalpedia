@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_proposition_at_point
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.proposition_at_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:08:55.63138+00:00
 -- url     : https://prove2.me/theorems/20cb6cb1-62a1-4bfb-8d22-410bb7a1b370

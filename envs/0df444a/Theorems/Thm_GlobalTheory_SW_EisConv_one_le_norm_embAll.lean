@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisConv_one_le_norm_embAll
 -- name    : GlobalTheory.SW.EisConv.one_le_norm_embAll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:27:04.822843+00:00
 -- url     : https://prove2.me/theorems/b69291e5-d51b-4629-b00a-bb655e44d543

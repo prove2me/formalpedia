@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_isApproximable_zero
 -- name    : SVD.isApproximable_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:27:05.31668+00:00
 -- url     : https://prove2.me/theorems/f7c93195-1327-5024-b8cd-9683a40cb381

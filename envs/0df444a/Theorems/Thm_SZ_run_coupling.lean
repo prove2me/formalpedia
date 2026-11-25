@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_run_coupling
 -- name    : SZ.run_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:33.144573+00:00
 -- url     : https://prove2.me/theorems/40eee980-3dd0-4b28-95c9-66d432e16f72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_run_translate
 -- name    : SZ.run_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:20:17.724425+00:00
 -- url     : https://prove2.me/theorems/fec45ab1-a1c1-4ca1-ad9d-e55e2069c9b4

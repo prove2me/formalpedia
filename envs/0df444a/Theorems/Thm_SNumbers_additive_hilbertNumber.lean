@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_additive_hilbertNumber
 -- name    : SNumbers.additive_hilbertNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:05:47.504128+00:00
 -- url     : https://prove2.me/theorems/0033c4c9-328c-50fd-af6e-9e3d2da1673d

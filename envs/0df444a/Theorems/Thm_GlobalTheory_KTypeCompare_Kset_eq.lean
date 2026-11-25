@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_Kset_eq
 -- name    : GlobalTheory.KTypeCompare.Kset_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:58:49.231292+00:00
 -- url     : https://prove2.me/theorems/bcd39865-781e-444d-a1d9-b05cdfebb6f8

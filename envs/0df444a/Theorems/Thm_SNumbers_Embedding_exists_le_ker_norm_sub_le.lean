@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Embedding_exists_le_ker_norm_sub_le
 -- name    : SNumbers.Embedding.exists_le_ker_norm_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:26:39.449322+00:00
 -- url     : https://prove2.me/theorems/978e4e1b-c147-4e37-a746-db32f3a1cdf1

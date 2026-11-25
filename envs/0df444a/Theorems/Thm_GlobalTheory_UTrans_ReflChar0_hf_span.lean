@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_ReflChar0_hf_span
 -- name    : GlobalTheory.UTrans.ReflChar0.hf_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:59:00.174278+00:00
 -- url     : https://prove2.me/theorems/b533d6c8-a453-4a7d-ac0c-1539de90f82a

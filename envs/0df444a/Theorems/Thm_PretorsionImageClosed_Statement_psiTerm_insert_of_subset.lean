@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_psiTerm_insert_of_subset
 -- name    : PretorsionImageClosed.Statement.psiTerm_insert_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:11:13.605439+00:00
 -- url     : https://prove2.me/theorems/d33fda2f-33f0-407d-8650-86a881dab517

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormSums_sum_mdim
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormSums.sum_mdim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:07:10.675804+00:00
 -- url     : https://prove2.me/theorems/d72b0699-6e01-57c2-9a3f-2c2b30ec8c38

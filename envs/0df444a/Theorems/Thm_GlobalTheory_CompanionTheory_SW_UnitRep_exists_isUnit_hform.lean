@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_UnitRep_exists_isUnit_hform
 -- name    : GlobalTheory.CompanionTheory.SW.UnitRep.exists_isUnit_hform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:10:42.622336+00:00
 -- url     : https://prove2.me/theorems/10032b49-e4f6-4670-bd19-85d2db31d07a

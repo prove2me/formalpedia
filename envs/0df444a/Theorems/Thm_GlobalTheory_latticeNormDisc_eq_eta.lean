@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_latticeNormDisc_eq_eta
 -- name    : GlobalTheory.latticeNormDisc_eq_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:02:41.078656+00:00
 -- url     : https://prove2.me/theorems/967b0b82-3ace-40df-9f51-992c4d64e3be

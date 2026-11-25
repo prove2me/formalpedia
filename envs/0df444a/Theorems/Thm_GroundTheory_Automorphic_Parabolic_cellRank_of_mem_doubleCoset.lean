@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellRank_of_mem_doubleCoset
 -- name    : GroundTheory.Automorphic.Parabolic.cellRank_of_mem_doubleCoset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:19:56.543902+00:00
 -- url     : https://prove2.me/theorems/9b25ad77-26e8-4e47-bf42-04f9a3026f6e

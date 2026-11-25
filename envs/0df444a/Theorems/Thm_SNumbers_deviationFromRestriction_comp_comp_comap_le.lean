@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_deviationFromRestriction_comp_comp_comap_le
 -- name    : SNumbers.deviationFromRestriction_comp_comp_comap_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:28:31.451283+00:00
 -- url     : https://prove2.me/theorems/5a27caa8-bb62-5c83-a7eb-1e8511e31b15

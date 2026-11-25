@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_fglLog
 -- name    : Formalism.L2.Th1.A.fglLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:52:20.584151+00:00
 -- url     : https://prove2.me/theorems/9cf0b878-7fc0-57b6-b70e-c2d942c1226d

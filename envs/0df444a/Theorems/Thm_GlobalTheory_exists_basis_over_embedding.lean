@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_basis_over_embedding
 -- name    : GlobalTheory.exists_basis_over_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:42.813416+00:00
 -- url     : https://prove2.me/theorems/68ffcdee-59bd-4ea8-86c8-0aa717a16259

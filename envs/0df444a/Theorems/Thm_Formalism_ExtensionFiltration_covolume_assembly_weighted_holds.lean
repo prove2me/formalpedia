@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_covolume_assembly_weighted_holds
 -- name    : Formalism.ExtensionFiltration.covolume_assembly_weighted_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:54.030372+00:00
 -- url     : https://prove2.me/theorems/9a61974f-48ba-4618-ba39-b2b306dbb4cd

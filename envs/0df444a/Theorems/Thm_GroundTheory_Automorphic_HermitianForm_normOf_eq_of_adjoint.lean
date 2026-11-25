@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_normOf_eq_of_adjoint
 -- name    : GroundTheory.Automorphic.HermitianForm.normOf_eq_of_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:57:23.191224+00:00
 -- url     : https://prove2.me/theorems/7373b01c-b934-5890-9131-91bfdbffbc6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_mp_box_left
 -- name    : GlobalTheory.CompanionTheory.Axis.mp_box_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:56:03.212933+00:00
 -- url     : https://prove2.me/theorems/1b682613-83a5-40d4-a6ad-14af72e74100

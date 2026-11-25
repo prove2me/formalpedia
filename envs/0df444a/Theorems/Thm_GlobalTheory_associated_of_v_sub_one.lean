@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_associated_of_v_sub_one
 -- name    : GlobalTheory.associated_of_v_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:53:05.52206+00:00
 -- url     : https://prove2.me/theorems/1c6a538f-3729-5878-8879-507820e0a607

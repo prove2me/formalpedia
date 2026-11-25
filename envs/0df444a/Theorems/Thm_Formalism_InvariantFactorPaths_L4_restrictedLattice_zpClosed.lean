@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_restrictedLattice_zpClosed
 -- name    : Formalism.InvariantFactorPaths.L4.restrictedLattice_zpClosed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:56:16.057871+00:00
 -- url     : https://prove2.me/theorems/82ead8e9-46d3-4c66-a3b0-95fbf0a4242a

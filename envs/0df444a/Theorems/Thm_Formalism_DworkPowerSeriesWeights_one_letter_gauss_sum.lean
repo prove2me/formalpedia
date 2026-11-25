@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_one_letter_gauss_sum
 -- name    : Formalism.DworkPowerSeriesWeights.one_letter_gauss_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:01:04.268012+00:00
 -- url     : https://prove2.me/theorems/178e241b-934d-4fd3-96be-487336727d95

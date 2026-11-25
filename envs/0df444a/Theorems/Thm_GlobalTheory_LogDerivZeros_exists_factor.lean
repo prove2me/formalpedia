@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerivZeros_exists_factor
 -- name    : GlobalTheory.LogDerivZeros.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:08:51.867019+00:00
 -- url     : https://prove2.me/theorems/0155f7c9-1b76-4ee3-ab3e-62e84ad8000d

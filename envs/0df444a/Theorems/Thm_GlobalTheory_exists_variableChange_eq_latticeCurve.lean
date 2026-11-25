@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_variableChange_eq_latticeCurve
 -- name    : GlobalTheory.exists_variableChange_eq_latticeCurve
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:54:31.305082+00:00
 -- url     : https://prove2.me/theorems/80ccec98-76d7-45e3-8242-792186fb6d68

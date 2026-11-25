@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_FinitelyNonzeroLinear_map_conjTranspose_twist
 -- name    : Formalism.DivisionValues.FinitelyNonzeroLinear.map_conjTranspose_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:00:40.23077+00:00
 -- url     : https://prove2.me/theorems/e789f7cb-7421-5ba5-b2e8-b472583ec727

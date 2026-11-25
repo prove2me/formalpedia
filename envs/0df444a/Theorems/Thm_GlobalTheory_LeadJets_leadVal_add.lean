@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadJets_leadVal_add
 -- name    : GlobalTheory.LeadJets.leadVal_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:50:43.785478+00:00
 -- url     : https://prove2.me/theorems/71c029b6-5ccc-43ea-9cd2-d573b762b207

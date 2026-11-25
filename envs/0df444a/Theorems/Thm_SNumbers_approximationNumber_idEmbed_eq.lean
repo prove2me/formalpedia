@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_idEmbed_eq
 -- name    : SNumbers.approximationNumber_idEmbed_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:58:52.993532+00:00
 -- url     : https://prove2.me/theorems/433b1798-8a33-52fc-8ee5-70958bac75ed

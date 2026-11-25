@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_PlaneRefl_hf_smul_right
 -- name    : GlobalTheory.UTrans.PlaneRefl.hf_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:57:59.436073+00:00
 -- url     : https://prove2.me/theorems/06c3191f-2fc6-4db9-bc6f-5ef6ac161b43

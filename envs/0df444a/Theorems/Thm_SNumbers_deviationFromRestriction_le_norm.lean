@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_deviationFromRestriction_le_norm
 -- name    : SNumbers.deviationFromRestriction_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:27:56.724516+00:00
 -- url     : https://prove2.me/theorems/78a25040-9a7b-4f16-bbd5-771b6020e9a8

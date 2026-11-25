@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LatFix_repr_mul
 -- name    : GlobalTheory.CompanionTheory.SW.LatFix.repr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:06:36.143506+00:00
 -- url     : https://prove2.me/theorems/299806b7-7474-40a3-ae05-5ec0592d1a92

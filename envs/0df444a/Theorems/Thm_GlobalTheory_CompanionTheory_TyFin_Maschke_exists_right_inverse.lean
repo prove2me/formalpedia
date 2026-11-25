@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Maschke_exists_right_inverse
 -- name    : GlobalTheory.CompanionTheory.TyFin.Maschke.exists_right_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:18:44.110805+00:00
 -- url     : https://prove2.me/theorems/dcbdb8b0-df3d-4792-9959-a8309039629a

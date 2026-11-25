@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_adele_ext
 -- name    : GroundTheory.Automorphic.Reduction.adele_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:57:20.151626+00:00
 -- url     : https://prove2.me/theorems/73fc6a41-8121-5ee6-ad85-7a97150e1a0a

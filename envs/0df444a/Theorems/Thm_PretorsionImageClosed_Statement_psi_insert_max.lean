@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_psi_insert_max
 -- name    : PretorsionImageClosed.Statement.psi_insert_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:11:34.892794+00:00
 -- url     : https://prove2.me/theorems/90e99b30-ffbe-420e-8c79-d24c5d14070d

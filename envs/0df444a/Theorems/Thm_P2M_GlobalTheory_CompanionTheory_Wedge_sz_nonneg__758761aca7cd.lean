@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Wedge_sz_nonneg__758761aca7cd
 -- name    : P2M_GlobalTheory_CompanionTheory_Wedge_sz_nonneg__758761aca7cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:05:08.320718+00:00
 -- url     : https://prove2.me/theorems/8bdb0a8d-7362-41c0-a3f5-c69614f968a4

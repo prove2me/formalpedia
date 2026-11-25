@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_norm_mul_sqrt
 -- name    : GlobalTheory.CompareIterDegree.norm_mul_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:58:53.197905+00:00
 -- url     : https://prove2.me/theorems/86269a3d-1765-455e-a16c-f37b239be7c1

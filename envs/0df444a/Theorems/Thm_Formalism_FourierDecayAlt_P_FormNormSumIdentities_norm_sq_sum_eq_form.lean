@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FormNormSumIdentities_norm_sq_sum_eq_form
 -- name    : Formalism.FourierDecayAlt.P.FormNormSumIdentities.norm_sq_sum_eq_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:15.033923+00:00
 -- url     : https://prove2.me/theorems/c63c9d26-0f47-4dbb-b3aa-ebaacf91676f

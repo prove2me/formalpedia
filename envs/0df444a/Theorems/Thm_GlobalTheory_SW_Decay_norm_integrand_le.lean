@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Decay_norm_integrand_le
 -- name    : GlobalTheory.SW.Decay.norm_integrand_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:23:18.420116+00:00
 -- url     : https://prove2.me/theorems/cfca28a1-922a-424f-ad4e-6ac8a5994826

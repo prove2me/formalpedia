@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weil_representation_preserves_L2_space
 -- name    : GlobalTheory.T.weil_representation_preserves_L2_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:54:26.415701+00:00
 -- url     : https://prove2.me/theorems/abcc7d06-ed3c-476b-b984-a9fa02f31ae4

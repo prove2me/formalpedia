@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_action_hermitian_invariants_transitive
 -- name    : GlobalTheory.T.unitary_action_hermitian_invariants_transitive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:05:25.490563+00:00
 -- url     : https://prove2.me/theorems/7d16222b-fa16-451d-8f1b-8c92689166fa

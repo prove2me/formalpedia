@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_weylInt
 -- name    : Formalism.InvariantFactorPaths.PW.Top.weylInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:42:45.852863+00:00
 -- url     : https://prove2.me/theorems/4fa9314d-f0a0-5343-8231-2a954a4debb9

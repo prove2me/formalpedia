@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_two_mul_card_cmType
 -- name    : GlobalTheory.TwoLines.two_mul_card_cmType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:53:37.82852+00:00
 -- url     : https://prove2.me/theorems/f654f5e1-d3ec-5a1c-8270-5f5b64c841e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_normalizedAbv_of_irreducible
 -- name    : GroundTheory.Global.normalizedAbv_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:45:35.256465+00:00
 -- url     : https://prove2.me/theorems/16d0925d-0502-4f3d-9e36-a1bd52c31679

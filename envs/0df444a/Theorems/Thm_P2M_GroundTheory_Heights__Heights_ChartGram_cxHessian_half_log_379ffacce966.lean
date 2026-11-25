@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartGram_cxHessian_half_log_379ffacce966
 -- name    : P2M_GroundTheory_Heights__Heights_ChartGram_cxHessian_half_log_379ffacce966
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:11:16.292934+00:00
 -- url     : https://prove2.me/theorems/69913cd0-4b72-439d-ba8e-8bfa659b4c0b

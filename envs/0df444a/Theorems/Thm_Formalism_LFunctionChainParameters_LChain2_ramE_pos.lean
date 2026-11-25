@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_ramE_pos
 -- name    : Formalism.LFunctionChainParameters.LChain2.ramE_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:44:31.731353+00:00
 -- url     : https://prove2.me/theorems/83e2bb86-8ecf-4ccd-82b6-792cb4b838bb

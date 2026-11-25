@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_psiTerm_insert_insert
 -- name    : PretorsionImageClosed.Statement.psiTerm_insert_insert
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:11:36.174145+00:00
 -- url     : https://prove2.me/theorems/0552142b-91e8-46a2-8058-34c33b2210fd

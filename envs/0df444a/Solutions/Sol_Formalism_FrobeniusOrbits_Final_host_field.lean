@@ -1,0 +1,74 @@
+-- Prove2me | solution 1 for Formalism.FrobeniusOrbits.Final.host_field
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T03:21:22.010246+00:00
+-- url     : https://prove2.me/submissions/4894499c-a6e9-4e33-b9f6-3b2aec372011
+
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_CoprimeTwoPow
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_Galois
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_ConjReal
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_RealCyclotomicSubfield
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_FrobMulInertia
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_SplitK
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_MuCardLeTwo
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_Inertia
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_Decomp
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_CardTrivialFirstComponent
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_OrderOfSignGroupDvdTwo
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_CardExtendedGaloisGroup
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_Orbits
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_DiscriminantRealSubfield
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_DiscrB
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_Principal
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_ThickOrbit
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_ThickFrames
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_ExistsOpenNormalOrderOf
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_OrdUnimod
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_NcardEqTwoIff
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_OrbitSg
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_ThickExists
+import Definitions.Def_Formalism_FrobeniusOrbits_FrobeniusOrbitsProofs_EqZeroOfNegEq
+import Definitions.Def_Formalism_FrobeniusOrbits_RealSubfieldLeCompositum
+import Definitions.Def_Formalism_FrobeniusOrbits_HostCorollaries
+import Theorems.Thm_Formalism_FrobeniusOrbits_Final_conj
+import Theorems.Thm_Formalism_FrobeniusOrbits_Final_real
+import Theorems.Thm_Formalism_FrobeniusOrbits_Final_f1
+import Theorems.Thm_Formalism_FrobeniusOrbits_Final_cmType
+import Theorems.Thm_Formalism_FrobeniusOrbits_Final_frob
+import Theorems.Thm_Formalism_FrobeniusOrbits_Final_splitK
+import Theorems.Thm_Formalism_FrobeniusOrbits_Final_efgTwo
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostDecomp
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostDecompConj
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostExample
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostFixed
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostGalSpec
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostGalois
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostGroup
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostInertia
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostMu
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostOrders
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostRecip
+import Theorems.Thm_Formalism_FrobeniusOrbits_hostUnramEF
+import Theorems.Thm_Formalism_Q3_hostGalois
+import Theorems.Thm_Formalism_Q3_hostInertia
+import Theorems.Thm_Formalism_Q3_hostMu
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.FrobeniusOrbits Formalism.FrobeniusOrbits.Final
+open Formalism.FrobeniusOrbits
+namespace Formalism.FrobeniusOrbits.Final
+theorem _root_.solution :
+    HostExample ∧ HostGroup ∧ HostOrders ∧ HostRecip ∧ HostFixed ∧ HostGalois ∧ HostGalSpec ∧
+    HostConj ∧ HostReal ∧ TwoPowerCyclotomicLayerRealSubfieldCharacterization ∧ HostMu ∧ HostFrob ∧ HostInertia ∧ HostUnramEF ∧
+    HostDecomp ∧ HostDecompConj ∧ HostEFGTwo ∧ HostSplitK ∧ HostCMType :=
+  ⟨hostExample, hostGroup, hostOrders, hostRecip, hostFixed, hostGalois, hostGalSpec, conj, real, f1, hostMu,
+    frob, hostInertia, hostUnramEF, hostDecomp, hostDecompConj, efgTwo, splitK, cmType⟩
+end Formalism.FrobeniusOrbits.Final

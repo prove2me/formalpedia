@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_isCompact_orth
 -- name    : GlobalTheory.TwoLines.isCompact_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:54:20.538736+00:00
 -- url     : https://prove2.me/theorems/810d2cc7-9f89-5bfe-b802-b0f1807b083c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_quadratic_le_log_sum_exp_of_bounded_centred
 -- name    : GlobalTheory.T.quadratic_le_log_sum_exp_of_bounded_centred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:55:56.819263+00:00
 -- url     : https://prove2.me/theorems/e1d74321-a02a-42a1-ace4-5006b4f19cbb

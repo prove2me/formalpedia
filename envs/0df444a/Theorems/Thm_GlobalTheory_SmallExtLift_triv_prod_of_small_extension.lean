@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallExtLift_triv_prod_of_small_extension
 -- name    : GlobalTheory.SmallExtLift.triv_prod_of_small_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:15:02.305567+00:00
 -- url     : https://prove2.me/theorems/359dafe1-8a0d-4f2f-ac04-b234c6ae9399

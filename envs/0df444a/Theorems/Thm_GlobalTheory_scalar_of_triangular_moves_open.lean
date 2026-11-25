@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_scalar_of_triangular_moves_open
 -- name    : GlobalTheory.scalar_of_triangular_moves_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:15.001406+00:00
 -- url     : https://prove2.me/theorems/a11671e5-d259-4252-a92f-4f90ca847ed0

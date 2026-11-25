@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_eq_of_continuous_off_zero
 -- name    : Formalism.FourierDecayAlt.P5.eq_of_continuous_off_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:53:39.804657+00:00
 -- url     : https://prove2.me/theorems/bcc22ac3-98b2-53c3-9494-e0c76bc4a424

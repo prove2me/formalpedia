@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_sub_single
 -- name    : GlobalTheory.CompareIterDegree.sub_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:20.522011+00:00
 -- url     : https://prove2.me/theorems/6975a7ba-96bb-5a9b-920a-7e31d8a6b706

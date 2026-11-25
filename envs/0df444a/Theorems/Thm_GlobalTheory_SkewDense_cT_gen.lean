@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SkewDense_cT_gen
 -- name    : GlobalTheory.SkewDense.cT_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:52:33.067837+00:00
 -- url     : https://prove2.me/theorems/7732b13f-e490-4c36-893b-2008ac17238e

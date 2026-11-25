@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_exists_dvd_of_algebraic
 -- name    : GlobalTheory.SectionBasis.exists_dvd_of_algebraic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:52:02.204878+00:00
 -- url     : https://prove2.me/theorems/3452e688-35af-40bf-ac5d-19c3ab8a8461

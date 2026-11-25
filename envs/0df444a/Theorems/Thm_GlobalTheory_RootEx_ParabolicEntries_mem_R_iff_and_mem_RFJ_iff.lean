@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ParabolicEntries_mem_R_iff_and_mem_RFJ_iff
 -- name    : GlobalTheory.RootEx.ParabolicEntries.mem_R_iff_and_mem_RFJ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:26:03.566043+00:00
 -- url     : https://prove2.me/theorems/5536b0aa-84f6-4146-abb8-3ff9e2c4f94d

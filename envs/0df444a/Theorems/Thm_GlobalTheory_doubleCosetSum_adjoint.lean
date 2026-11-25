@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_doubleCosetSum_adjoint
 -- name    : GlobalTheory.doubleCosetSum_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:33.777805+00:00
 -- url     : https://prove2.me/theorems/143dd12b-7fc5-4b61-baff-3341eb422c2d

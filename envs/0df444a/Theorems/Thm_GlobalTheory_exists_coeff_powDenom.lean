@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_coeff_powDenom
 -- name    : GlobalTheory.exists_coeff_powDenom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:34.271321+00:00
 -- url     : https://prove2.me/theorems/c00a4224-a214-4397-a72d-32d9f00e72e4

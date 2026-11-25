@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_FrobeniusLift_relInertiaDegree_field
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.FrobeniusLift.relInertiaDegree_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:57:40.610939+00:00
 -- url     : https://prove2.me/theorems/3f7b643e-c2a3-5465-ba89-7be87db32164

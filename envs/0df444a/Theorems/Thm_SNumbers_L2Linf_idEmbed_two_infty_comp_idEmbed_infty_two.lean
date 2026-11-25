@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L2Linf_idEmbed_two_infty_comp_idEmbed_infty_two
 -- name    : SNumbers.L2Linf.idEmbed_two_infty_comp_idEmbed_infty_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:59:12.806571+00:00
 -- url     : https://prove2.me/theorems/dfdd742e-dc15-5ef8-9f93-8a64ddbe5474

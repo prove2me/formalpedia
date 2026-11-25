@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coordK_map_mul_eq_smul_continuous_modulus
 -- name    : GlobalTheory.T.coordK_map_mul_eq_smul_continuous_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:33:59.993781+00:00
 -- url     : https://prove2.me/theorems/2e1a002c-b3b5-45bb-878c-058db1571948

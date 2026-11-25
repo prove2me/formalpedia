@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HkFam_ListedSubgroup_eq_comp_section
 -- name    : GlobalTheory.HkFam.ListedSubgroup.eq_comp_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:37:04.257169+00:00
 -- url     : https://prove2.me/theorems/be3efd79-bb0b-45de-ab20-5d4b33837553

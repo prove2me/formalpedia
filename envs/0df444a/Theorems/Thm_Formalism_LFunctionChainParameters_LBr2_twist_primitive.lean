@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_twist_primitive
 -- name    : Formalism.LFunctionChainParameters.LBr2.twist_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:39:15.252485+00:00
 -- url     : https://prove2.me/theorems/28ed6496-10b4-4424-b8f6-2540b1acca5b

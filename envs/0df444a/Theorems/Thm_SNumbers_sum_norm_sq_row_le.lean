@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sum_norm_sq_row_le
 -- name    : SNumbers.sum_norm_sq_row_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:51:09.696081+00:00
 -- url     : https://prove2.me/theorems/edd600a9-fe17-5d96-979e-9177c0359f15

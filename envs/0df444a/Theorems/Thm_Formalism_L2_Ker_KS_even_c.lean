@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_even_c
 -- name    : Formalism.L2.Ker.KS.even_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:25:58.084127+00:00
 -- url     : https://prove2.me/theorems/e8d3a401-e1c5-4358-b4b7-59bb87b08828

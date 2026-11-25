@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_theta_empty
 -- name    : PretorsionImageClosed.Statement.theta_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:11:55.013591+00:00
 -- url     : https://prove2.me/theorems/3f1a7538-d6a0-525a-80ad-d58fd49253a1

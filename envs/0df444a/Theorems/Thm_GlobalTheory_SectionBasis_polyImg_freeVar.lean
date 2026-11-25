@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_polyImg_freeVar
 -- name    : GlobalTheory.SectionBasis.polyImg_freeVar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:52:03.146002+00:00
 -- url     : https://prove2.me/theorems/3173461e-5d48-4239-a554-0051e0d90273

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_inertia_conductor
 -- name    : Formalism.LFunctionChainParameters.LHost.inertia_conductor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:24:03.439996+00:00
 -- url     : https://prove2.me/theorems/577d6cee-93be-4643-a976-ed65699048b9

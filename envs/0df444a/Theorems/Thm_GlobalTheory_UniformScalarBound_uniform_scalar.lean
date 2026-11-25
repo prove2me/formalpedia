@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformScalarBound_uniform_scalar
 -- name    : GlobalTheory.UniformScalarBound.uniform_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:57:55.460397+00:00
 -- url     : https://prove2.me/theorems/58be5a5e-de87-4e7e-a1ea-203b711e63bc

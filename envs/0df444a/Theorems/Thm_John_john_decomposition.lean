@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_john_decomposition
 -- name    : John.john_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:45:12.41978+00:00
 -- url     : https://prove2.me/theorems/f4145131-38be-48ea-9be0-093d5ccf13a0

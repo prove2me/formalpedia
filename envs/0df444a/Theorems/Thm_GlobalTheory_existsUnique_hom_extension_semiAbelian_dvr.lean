@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_hom_extension_semiAbelian_dvr
 -- name    : GlobalTheory.existsUnique_hom_extension_semiAbelian_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:15:38.501309+00:00
 -- url     : https://prove2.me/theorems/ee872823-e278-4ca2-9784-3cdd6480a3e0

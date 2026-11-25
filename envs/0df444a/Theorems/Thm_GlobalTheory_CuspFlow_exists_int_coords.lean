@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspFlow_exists_int_coords
 -- name    : GlobalTheory.CuspFlow.exists_int_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:40:45.215674+00:00
 -- url     : https://prove2.me/theorems/2bd5fe22-2208-42f7-8288-cd05fa2b9af0

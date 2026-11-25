@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QcSub_PowerMultiple_res_pow_mul_mem_gen
 -- name    : GlobalTheory.QcSub.PowerMultiple.res_pow_mul_mem_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:03:50.594908+00:00
 -- url     : https://prove2.me/theorems/1ba42c5e-895e-4b79-b840-77dad39dbd78

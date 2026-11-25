@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_inKernel_mk
 -- name    : GroundTheory.Automorphic.HermitianForm.inKernel_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:58:10.195302+00:00
 -- url     : https://prove2.me/theorems/9c630dae-5ec9-5ffd-837d-0445a8846764

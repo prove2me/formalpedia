@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_suffix_eq_bot_of_lt
 -- name    : PretorsionImageClosed.LinearQuiver.suffix_eq_bot_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:08:02.564299+00:00
 -- url     : https://prove2.me/theorems/45b4bc00-2ed7-5542-95c4-e1f6cb72749d

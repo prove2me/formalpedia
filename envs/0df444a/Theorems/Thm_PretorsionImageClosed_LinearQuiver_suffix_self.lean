@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_suffix_self
 -- name    : PretorsionImageClosed.LinearQuiver.suffix_self
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:07:38.458147+00:00
 -- url     : https://prove2.me/theorems/537cd245-bab3-5444-ab76-07a6b74c7edf

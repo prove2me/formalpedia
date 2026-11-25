@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TranslateSum_sum_translate_eq
 -- name    : GlobalTheory.TranslateSum.sum_translate_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:52:48.036441+00:00
 -- url     : https://prove2.me/theorems/9837c155-8b17-5f9f-b626-ac72023baa75

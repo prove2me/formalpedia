@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quasiIso_cubeComplexMap_of_faces
 -- name    : GlobalTheory.quasiIso_cubeComplexMap_of_faces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:14:50.347311+00:00
 -- url     : https://prove2.me/theorems/b8d3f444-843c-4caf-876b-e770efce485b

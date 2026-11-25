@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_chC_trivial_two
 -- name    : Formalism.LFunctionChainParameters.LHost.chC_trivial_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:23:20.347208+00:00
 -- url     : https://prove2.me/theorems/dac0f2cd-9984-4486-af57-b467c1c71e2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearMap_det_adjoint
 -- name    : LinearMap.det_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:05:52.648275+00:00
 -- url     : https://prove2.me/theorems/9e66b7a5-93c0-4cdd-9f3f-fe7565a28257

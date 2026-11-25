@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_intCast_mem_vQ_b647479a58db
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_intCast_mem_vQ_b647479a58db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:26.976199+00:00
 -- url     : https://prove2.me/theorems/2bf1b93f-f6de-4de9-8e35-4a84c432d544

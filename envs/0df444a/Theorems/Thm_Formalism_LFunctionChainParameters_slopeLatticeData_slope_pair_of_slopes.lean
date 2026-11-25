@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_slope_pair_of_slopes
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.slope_pair_of_slopes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:50:28.802351+00:00
 -- url     : https://prove2.me/theorems/687cc02e-7aec-49fa-950c-2a17cc6b72bc

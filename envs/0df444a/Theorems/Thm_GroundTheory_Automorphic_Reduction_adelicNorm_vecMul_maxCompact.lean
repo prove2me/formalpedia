@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_adelicNorm_vecMul_maxCompact
 -- name    : GroundTheory.Automorphic.Reduction.adelicNorm_vecMul_maxCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:57:35.499921+00:00
 -- url     : https://prove2.me/theorems/ce690913-c649-564d-9725-3c8eb5c1df22

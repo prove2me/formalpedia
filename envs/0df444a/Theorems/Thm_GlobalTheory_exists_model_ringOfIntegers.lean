@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_model_ringOfIntegers
 -- name    : GlobalTheory.exists_model_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:35:04.410226+00:00
 -- url     : https://prove2.me/theorems/1c3b5801-ce3c-4ace-8c00-6dfd645f11b7

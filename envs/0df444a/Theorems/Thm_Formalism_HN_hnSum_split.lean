@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_hnSum_split
 -- name    : Formalism.HN.hnSum_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:27.719312+00:00
 -- url     : https://prove2.me/theorems/7cca0238-abda-480a-808e-7ca3d995eebd

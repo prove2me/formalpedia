@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sn_comp_metricInjection_le
 -- name    : SNumbers.sn_comp_metricInjection_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:01:50.023985+00:00
 -- url     : https://prove2.me/theorems/601ae0c1-5694-5bca-a407-5fd7e076553a

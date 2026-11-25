@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_units_hom_lift
 -- name    : GlobalTheory.exists_units_hom_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:55:16.234507+00:00
 -- url     : https://prove2.me/theorems/2f9cb48d-2737-433d-9f8d-758b69d65172

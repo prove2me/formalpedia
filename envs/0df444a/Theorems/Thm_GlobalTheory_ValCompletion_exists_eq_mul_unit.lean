@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ValCompletion_exists_eq_mul_unit
 -- name    : GlobalTheory.ValCompletion.exists_eq_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:50:14.985836+00:00
 -- url     : https://prove2.me/theorems/aa30945a-8969-462d-8fc2-892d903489b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_maximal_isMulCommutative_iff_centralizer_eq
 -- name    : GroundTheory.Brauer.maximal_isMulCommutative_iff_centralizer_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:31:55.023803+00:00
 -- url     : https://prove2.me/theorems/687ad392-2e10-4877-894a-a425597e9f06

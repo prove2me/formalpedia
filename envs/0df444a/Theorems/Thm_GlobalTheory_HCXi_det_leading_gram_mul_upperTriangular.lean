@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_det_leading_gram_mul_upperTriangular
 -- name    : GlobalTheory.HCXi.det_leading_gram_mul_upperTriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:49:58.54273+00:00
 -- url     : https://prove2.me/theorems/e517b1f0-59a0-55bf-8e55-d47251db5046

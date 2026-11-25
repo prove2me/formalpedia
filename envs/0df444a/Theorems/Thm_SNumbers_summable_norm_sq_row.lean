@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_summable_norm_sq_row
 -- name    : SNumbers.summable_norm_sq_row
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:25:39.70451+00:00
 -- url     : https://prove2.me/theorems/e45565d0-56d4-482b-a3f6-6f57d734c28d

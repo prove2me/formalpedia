@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullBdd_castFrame_lact
 -- name    : GlobalTheory.PullBdd.castFrame_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:52:18.905887+00:00
 -- url     : https://prove2.me/theorems/10f8cf00-f0d5-57b3-9848-c9d26e325a35

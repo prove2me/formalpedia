@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_JCalc_mem_degLE_iff
 -- name    : GlobalTheory.ChartCmp.JCalc.mem_degLE_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:09:52.951921+00:00
 -- url     : https://prove2.me/theorems/e17bd3b1-29c7-5bc2-9f47-0a607c20d495

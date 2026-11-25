@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WrongSignGauss_norm_sq_twD
 -- name    : GlobalTheory.WrongSignGauss.norm_sq_twD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:57:31.173333+00:00
 -- url     : https://prove2.me/theorems/b720acbf-b168-46ca-bc48-c2a0c7111340

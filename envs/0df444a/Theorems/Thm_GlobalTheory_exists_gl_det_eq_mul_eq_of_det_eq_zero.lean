@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_gl_det_eq_mul_eq_of_det_eq_zero
 -- name    : GlobalTheory.exists_gl_det_eq_mul_eq_of_det_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:04.5572+00:00
 -- url     : https://prove2.me/theorems/a1e6b000-4902-4783-9ecd-364ea89eeced

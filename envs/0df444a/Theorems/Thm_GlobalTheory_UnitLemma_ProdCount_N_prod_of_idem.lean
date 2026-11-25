@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_N_prod_of_idem
 -- name    : GlobalTheory.UnitLemma.ProdCount.N_prod_of_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:29:10.23191+00:00
 -- url     : https://prove2.me/theorems/45dc365f-880d-4713-a921-6288a09e5151

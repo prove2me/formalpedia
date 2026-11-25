@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_zetaQ_mem
 -- name    : GlobalTheory.NL.Model.zetaQ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:09:56.5744+00:00
 -- url     : https://prove2.me/theorems/429034ad-4bcf-4627-b79a-d0c69c1783b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LagRep_lower_rows
 -- name    : GlobalTheory.SW.LagRep.lower_rows
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:41:19.015318+00:00
 -- url     : https://prove2.me/theorems/2970f92f-4beb-43ee-bbd8-2668159027a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_eventually_ne_zero_add
 -- name    : Formalism.FourierDecayAlt.P.PBK.eventually_ne_zero_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:53:42.46077+00:00
 -- url     : https://prove2.me/theorems/12220852-8f35-4cc7-867a-d97e62d3f20b

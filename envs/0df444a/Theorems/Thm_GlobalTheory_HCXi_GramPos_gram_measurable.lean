@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_GramPos_gram_measurable
 -- name    : GlobalTheory.HCXi.GramPos.gram_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:49:48.460495+00:00
 -- url     : https://prove2.me/theorems/a5f8078c-e0c9-5ae7-8f9b-ab52d325a35c

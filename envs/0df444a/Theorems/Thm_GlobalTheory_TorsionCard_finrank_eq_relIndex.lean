@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCard_finrank_eq_relIndex
 -- name    : GlobalTheory.TorsionCard.finrank_eq_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:54:24.887811+00:00
 -- url     : https://prove2.me/theorems/3e2b0073-b688-468c-b965-8186d2483ada

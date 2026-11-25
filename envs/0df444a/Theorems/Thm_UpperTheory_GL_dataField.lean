@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_GL_dataField
 -- name    : UpperTheory.GL.dataField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:00:47.011742+00:00
 -- url     : https://prove2.me/theorems/0742a1b0-8613-5198-a020-b2a7fc42dbb9

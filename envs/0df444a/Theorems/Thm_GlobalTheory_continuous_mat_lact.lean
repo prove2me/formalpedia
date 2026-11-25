@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_continuous_mat_lact
 -- name    : GlobalTheory.continuous_mat_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:14.168808+00:00
 -- url     : https://prove2.me/theorems/eb0c459d-991a-5a4c-b6b7-6dd5099413c2

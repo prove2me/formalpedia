@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TrivCrys_dcris_of_trivial
 -- name    : GlobalTheory.TrivCrys.dcris_of_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:54:05.546787+00:00
 -- url     : https://prove2.me/theorems/143cb539-0058-4c30-ac49-7e7c1728ec36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_ProductIntervalFrames_isInternal_comp
 -- name    : Formalism.FourierDecayAlt.P.ProductIntervalFrames.isInternal_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:06:05.642084+00:00
 -- url     : https://prove2.me/theorems/4dee1f17-9060-5bbc-91d5-9cef4ea80378

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_charRep_charpoly
 -- name    : GlobalTheory.LocalInv.charRep_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:06:17.235806+00:00
 -- url     : https://prove2.me/theorems/57611f03-bf96-5fc1-9fdf-5929f6ae48de

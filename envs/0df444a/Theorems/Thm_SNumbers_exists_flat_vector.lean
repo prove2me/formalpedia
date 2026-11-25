@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_flat_vector
 -- name    : SNumbers.exists_flat_vector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:51:31.978944+00:00
 -- url     : https://prove2.me/theorems/4bae0015-8e6e-539d-a449-a8ac48c7eb24

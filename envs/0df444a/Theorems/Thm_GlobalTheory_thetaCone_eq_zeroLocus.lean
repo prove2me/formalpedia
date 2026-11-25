@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thetaCone_eq_zeroLocus
 -- name    : GlobalTheory.thetaCone_eq_zeroLocus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:07.284034+00:00
 -- url     : https://prove2.me/theorems/f589865c-0d72-41a7-b413-e008345fa5a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeRecip_prime_of_check
 -- name    : GlobalTheory.PrimeRecip.prime_of_check
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:50:19.055796+00:00
 -- url     : https://prove2.me/theorems/a81a5b40-5a1d-5142-8693-686a25d3a8ca

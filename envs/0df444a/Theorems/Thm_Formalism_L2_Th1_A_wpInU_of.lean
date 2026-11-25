@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_wpInU_of
 -- name    : Formalism.L2.Th1.A.wpInU_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:58.432295+00:00
 -- url     : https://prove2.me/theorems/404d638b-b8ff-482f-9575-38bee4a71d01

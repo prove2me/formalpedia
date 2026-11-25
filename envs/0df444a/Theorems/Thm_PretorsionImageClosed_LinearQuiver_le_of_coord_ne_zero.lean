@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_le_of_coord_ne_zero
 -- name    : PretorsionImageClosed.LinearQuiver.le_of_coord_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:30:36.828488+00:00
 -- url     : https://prove2.me/theorems/93aaad0f-4e71-48d6-9b95-0db55e180249

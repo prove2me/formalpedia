@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_mul_inv_mem_unitaryGroup
 -- name    : GroundTheory.Automorphic.HermitianForm.mul_inv_mem_unitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:58:18.225941+00:00
 -- url     : https://prove2.me/theorems/dee5a212-0787-54e4-82a9-a0cb661285b3

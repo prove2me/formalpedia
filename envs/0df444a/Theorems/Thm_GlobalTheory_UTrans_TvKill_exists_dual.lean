@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_TvKill_exists_dual
 -- name    : GlobalTheory.UTrans.TvKill.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:58:22.387807+00:00
 -- url     : https://prove2.me/theorems/3ff0f025-4365-44a3-bbfd-669ec7b003d9

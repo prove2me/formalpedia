@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isImageClosed_iff_exists_pretorsionTheory
 -- name    : PretorsionImageClosed.Statement.isImageClosed_iff_exists_pretorsionTheory
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:06:53.326108+00:00
 -- url     : https://prove2.me/theorems/a767a0c2-c34f-4387-9075-18b4b60dc62b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_entry_le_two
 -- name    : CompanionTheory.D.Upq.QuotSetU.entry_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:54:06.675369+00:00
 -- url     : https://prove2.me/theorems/ecad534a-dc31-4f50-9530-30200f9df833

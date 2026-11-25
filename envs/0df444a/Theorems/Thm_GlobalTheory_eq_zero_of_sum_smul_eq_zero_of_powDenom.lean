@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_sum_smul_eq_zero_of_powDenom
 -- name    : GlobalTheory.eq_zero_of_sum_smul_eq_zero_of_powDenom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:26.939475+00:00
 -- url     : https://prove2.me/theorems/2f160b4b-1b65-4d9d-9fa5-64381d2c391d

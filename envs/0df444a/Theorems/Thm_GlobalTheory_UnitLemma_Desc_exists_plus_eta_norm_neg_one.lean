@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Desc_exists_plus_eta_norm_neg_one
 -- name    : GlobalTheory.UnitLemma.Desc.exists_plus_eta_norm_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:28:28.027845+00:00
 -- url     : https://prove2.me/theorems/dbfe9d60-0f1d-4f9e-854a-ba58c5c0dd40

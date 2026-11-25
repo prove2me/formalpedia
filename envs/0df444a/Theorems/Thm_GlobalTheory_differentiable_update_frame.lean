@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_differentiable_update_frame
 -- name    : GlobalTheory.differentiable_update_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:07.274803+00:00
 -- url     : https://prove2.me/theorems/c4c6b9b0-8986-4df7-9f65-7eb854ff14ee

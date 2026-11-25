@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_GaugeDiff_coordinateChange_comp1_intertwines_action
 -- name    : GlobalTheory.ChartCmp.GaugeDiff.coordinateChange_comp1_intertwines_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:35:34.180851+00:00
 -- url     : https://prove2.me/theorems/98e36d4d-fbc1-50bc-add8-707accf475b7

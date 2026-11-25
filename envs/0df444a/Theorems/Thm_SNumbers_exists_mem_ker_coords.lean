@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_mem_ker_coords
 -- name    : SNumbers.exists_mem_ker_coords
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:26:27.868085+00:00
 -- url     : https://prove2.me/theorems/2e5cb895-c0ac-4673-a52d-4a334deaaf85

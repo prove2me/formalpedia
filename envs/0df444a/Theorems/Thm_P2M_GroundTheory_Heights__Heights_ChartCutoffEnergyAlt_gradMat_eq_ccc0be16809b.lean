@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_gradMat_eq_ccc0be16809b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_gradMat_eq_ccc0be16809b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:51.938815+00:00
 -- url     : https://prove2.me/theorems/c5bc5141-915f-477b-b1fb-9df7caa62f27

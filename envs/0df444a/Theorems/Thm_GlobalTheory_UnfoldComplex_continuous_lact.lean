@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldComplex_continuous_lact
 -- name    : GlobalTheory.UnfoldComplex.continuous_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:58:24.361945+00:00
 -- url     : https://prove2.me/theorems/f5beb6f7-9d70-5daa-a952-58884f43e4a9

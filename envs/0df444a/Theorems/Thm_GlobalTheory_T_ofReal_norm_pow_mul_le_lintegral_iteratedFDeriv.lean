@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_ofReal_norm_pow_mul_le_lintegral_iteratedFDeriv
 -- name    : GlobalTheory.T.ofReal_norm_pow_mul_le_lintegral_iteratedFDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:53:52.247663+00:00
 -- url     : https://prove2.me/theorems/027f4831-c71f-498f-a898-41151b348f3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_ev_errW
 -- name    : Formalism.LFunctionChainParameters.LChain2.ev_errW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:44:04.462994+00:00
 -- url     : https://prove2.me/theorems/2278dad3-8ec4-4e4a-8d5a-b5dc52110bee

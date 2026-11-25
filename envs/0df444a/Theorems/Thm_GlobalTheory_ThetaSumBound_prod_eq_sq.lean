@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSumBound_prod_eq_sq
 -- name    : GlobalTheory.ThetaSumBound.prod_eq_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:54:39.198627+00:00
 -- url     : https://prove2.me/theorems/efcd8a5a-04d1-4067-a958-d225a6f437bc

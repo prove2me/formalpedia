@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_exists_isAuerbachBasis
 -- name    : exists_isAuerbachBasis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:10:05.136543+00:00
 -- url     : https://prove2.me/theorems/0eee8df6-068b-467f-9388-db980efbfc2c

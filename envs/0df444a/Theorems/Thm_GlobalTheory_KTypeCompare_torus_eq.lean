@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_torus_eq
 -- name    : GlobalTheory.KTypeCompare.torus_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:58:03.728361+00:00
 -- url     : https://prove2.me/theorems/fa55d4ef-66ac-4411-93b2-f516a7e70d87

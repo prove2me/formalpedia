@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_norm_integral_psi_sub_le
 -- name    : Formalism.FourierDecayAlt.P.PBK.norm_integral_psi_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:52:49.455643+00:00
 -- url     : https://prove2.me/theorems/34a7edfa-6cba-47eb-a162-89696f7094fb

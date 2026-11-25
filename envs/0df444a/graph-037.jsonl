@@ -76338,10 +76338,10 @@
 {"parent": "Comp.CsgQ.coe_lpre1F", "child": "Comp_QualitativeLimitReach", "via": ["solution", "statement"]}
 {"parent": "Csg_QualitativeLimitSure", "child": "OrderHom.gfp_mono_of_le", "via": ["statement"]}
 {"parent": "Csg_QualitativeLimitSure", "child": "Csg_QualitativeAlmostSure", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.branch_map_formula", "child": "Formalism_GradedWeylDivisibility_FinalC", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.branch_map_formula", "child": "Formalism_BranchSandwichDivisors_StatementW", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.branch_map_formula", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchMap", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.branch_map_formula", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq", "via": ["statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.branch_map_formula", "child": "Formalism_GradedWeylDivisibility_FinalC", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.branch_map_formula", "child": "Formalism_BranchSandwichDivisors_StatementW", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.branch_map_formula", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchMap", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.branch_map_formula", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.PlaneGram.TwistData.Good.smul", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_CollapseExponent", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.PlaneGram.TwistData.Good.smul", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_Monomial", "via": ["solution", "statement"]}
 {"parent": "Formalism.MainNotions.PlaneGram.vala_dg_choose", "child": "Formalism_SharpRestriction_GrowthBounds_MonomialOrderSegments_MemPolKIff", "via": ["solution", "statement"]}
@@ -93070,13 +93070,13 @@
 {"parent": "PI.VolStabW.locallyCompact_Fv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicLocalCompactness_AdeleLC", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.locallyCompact_Fv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_VolStabFromSWW", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.locallyCompact_Fv", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensFibV", "via": ["solution", "statement"]}
-{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_JwConj", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjugateWeightLatticeOfGeneral", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DualMu", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DivIntoDual", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_RatHermLcvTwist", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq", "via": ["statement"]}
-{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsChain", "via": ["statement"]}
+{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_JwConj", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjugateWeightLatticeOfGeneral", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DualMu", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DivIntoDual", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_RatHermLcvTwist", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisionValues.descent_cm_field", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsChain", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13_D075_2", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S13_D074_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "PI.DiffGenLoc.UnitaryGroupMassFormula.val_alg", "child": "Formalism_PeriodIntegrals_DiffGenLoc", "via": ["solution", "statement"]}

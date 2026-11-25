@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_chain_bound
 -- name    : GlobalTheory.CompareIterDegree.chain_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:32.413663+00:00
 -- url     : https://prove2.me/theorems/1f98bdc1-5246-5591-ae29-653fbe7724a5

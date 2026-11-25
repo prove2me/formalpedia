@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_eq_and_le_of_epi
 -- name    : PretorsionImageClosed.LinearQuiver.eq_and_le_of_epi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:30:30.003871+00:00
 -- url     : https://prove2.me/theorems/f8563743-a88a-43ba-848c-b0c1cead53be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_exists_equiv_outerTensor
 -- name    : GroundTheory.Automorphic.RestrictedTensor.exists_equiv_outerTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:11:45.040802+00:00
 -- url     : https://prove2.me/theorems/a31c9e1c-d604-45e4-bcd7-4c186e254c9a

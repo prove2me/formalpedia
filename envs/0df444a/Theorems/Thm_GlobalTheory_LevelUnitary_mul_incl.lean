@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelUnitary_mul_incl
 -- name    : GlobalTheory.LevelUnitary.mul_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:50:34.028422+00:00
 -- url     : https://prove2.me/theorems/81707bbe-f970-4376-a316-fd5daab6169a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjSpace_isClosedImmersion_iff_pullRatio
 -- name    : GlobalTheory.ProjSpace.isClosedImmersion_iff_pullRatio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:09:05.596025+00:00
 -- url     : https://prove2.me/theorems/8a0c7863-e024-5cff-b24a-d37fd6581d9f

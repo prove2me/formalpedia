@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_normSq_sum_le
 -- name    : GlobalTheory.SharpGradient.normSq_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:41:45.043352+00:00
 -- url     : https://prove2.me/theorems/697bfe5c-777f-4a2e-a633-8de76e228cfa

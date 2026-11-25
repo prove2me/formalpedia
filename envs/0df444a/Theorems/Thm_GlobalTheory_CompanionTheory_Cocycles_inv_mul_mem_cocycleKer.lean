@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Cocycles_inv_mul_mem_cocycleKer
 -- name    : GlobalTheory.CompanionTheory.Cocycles.inv_mul_mem_cocycleKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:53:21.795201+00:00
 -- url     : https://prove2.me/theorems/adc39cf5-e5a0-49a9-b3df-a3ac2e71ad07

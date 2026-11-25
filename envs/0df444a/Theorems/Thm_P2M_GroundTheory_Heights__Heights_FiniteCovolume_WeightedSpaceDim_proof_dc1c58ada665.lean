@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_WeightedSpaceDim_proof_dc1c58ada665
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_WeightedSpaceDim_proof_dc1c58ada665
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:43:20.064979+00:00
 -- url     : https://prove2.me/theorems/a387b237-a826-412d-877c-663219f0703a

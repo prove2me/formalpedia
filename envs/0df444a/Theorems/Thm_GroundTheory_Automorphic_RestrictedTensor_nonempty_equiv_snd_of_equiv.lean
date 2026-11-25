@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_nonempty_equiv_snd_of_equiv
 -- name    : GroundTheory.Automorphic.RestrictedTensor.nonempty_equiv_snd_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:15:14.123905+00:00
 -- url     : https://prove2.me/theorems/81492404-7354-4f86-a210-5984d0ba97ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_summable_higherDegreePrimes
 -- name    : GroundTheory.Global.summable_higherDegreePrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:42:55.090489+00:00
 -- url     : https://prove2.me/theorems/5505d56d-cbb8-4eb6-bf10-91cd7a78fb98

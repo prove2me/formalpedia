@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weilSL2_hermitian
 -- name    : GlobalTheory.weilSL2_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:24:49.737279+00:00
 -- url     : https://prove2.me/theorems/413b729d-f3fe-442d-8b65-8742009dbe0b

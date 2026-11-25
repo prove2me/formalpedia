@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_treeXi_mem
 -- name    : SZ.treeXi_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:59.782654+00:00
 -- url     : https://prove2.me/theorems/b5bbd245-7f80-41a0-bc2b-313cad352f1f

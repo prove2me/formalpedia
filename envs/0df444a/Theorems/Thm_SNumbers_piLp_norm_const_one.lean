@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_piLp_norm_const_one
 -- name    : SNumbers.piLp_norm_const_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:58:32.728543+00:00
 -- url     : https://prove2.me/theorems/1448f03c-ff63-52ef-b47c-73e39fbc5cad

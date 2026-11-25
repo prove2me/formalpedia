@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_IdemCusp_flow_const
 -- name    : GlobalTheory.Reg.IdemCusp.flow_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:20:40.986077+00:00
 -- url     : https://prove2.me/theorems/de30d8d6-e811-4b59-9ef9-aa7876188815

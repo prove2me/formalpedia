@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableSubset_four_le_wt
 -- name    : GlobalTheory.StableSubset.four_le_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:51:43.568469+00:00
 -- url     : https://prove2.me/theorems/22204ed4-418c-5908-8ec9-e2378cbf1f78

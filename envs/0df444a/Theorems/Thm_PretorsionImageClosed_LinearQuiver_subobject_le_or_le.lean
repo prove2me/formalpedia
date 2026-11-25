@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_subobject_le_or_le
 -- name    : PretorsionImageClosed.LinearQuiver.subobject_le_or_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:08:17.8379+00:00
 -- url     : https://prove2.me/theorems/d3448882-e7a0-58b4-9210-12c8f8bdac9e

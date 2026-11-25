@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_galois_map_first_eq_zero_iff
 -- name    : Formalism.LFunctionChainParameters.LHost.galois_map_first_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:17:28.605955+00:00
 -- url     : https://prove2.me/theorems/6dfd4b8f-cdeb-4bf0-8d6c-af2bcaba6b81

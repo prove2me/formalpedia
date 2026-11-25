@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_psi_empty
 -- name    : PretorsionImageClosed.Statement.psi_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:12:51.186354+00:00
 -- url     : https://prove2.me/theorems/092c2c13-09e1-4c0f-ae7c-0b8e6100145f

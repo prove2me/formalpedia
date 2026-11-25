@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PretorsionImageClosed_LinearQuiver_coord_eq_zero_of_lt__ddf324dfd620
 -- name    : P2M_PretorsionImageClosed_LinearQuiver_coord_eq_zero_of_lt__ddf324dfd620
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:04:09.818164+00:00
 -- url     : https://prove2.me/theorems/c1f6952d-dfc1-4c67-a579-674783df85db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_isZero_interval_of_lt
 -- name    : PretorsionImageClosed.LinearQuiver.isZero_interval_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:09:15.368807+00:00
 -- url     : https://prove2.me/theorems/85e2237f-bba5-4397-b598-b885376f7c0e

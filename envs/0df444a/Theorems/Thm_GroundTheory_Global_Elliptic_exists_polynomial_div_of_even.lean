@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_exists_polynomial_div_of_even
 -- name    : GroundTheory.Global.Elliptic.exists_polynomial_div_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:39:02.665003+00:00
 -- url     : https://prove2.me/theorems/bce57055-1b6c-433d-aac2-26776c4f685c

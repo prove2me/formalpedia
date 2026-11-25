@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCard_eq_one_of_red
 -- name    : GlobalTheory.TorsionCard.eq_one_of_red
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:14:11.654932+00:00
 -- url     : https://prove2.me/theorems/6a68ebae-0e64-42ba-94cf-9066bd382618

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sum_norm_sq_apply_single_le
 -- name    : SNumbers.sum_norm_sq_apply_single_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:25:37.588536+00:00
 -- url     : https://prove2.me/theorems/b88abf8b-2ba3-48d7-b7e5-30c91e3ac095

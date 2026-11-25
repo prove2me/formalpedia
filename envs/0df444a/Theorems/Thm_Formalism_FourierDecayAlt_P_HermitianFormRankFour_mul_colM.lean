@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormRankFour_mul_colM
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormRankFour.mul_colM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:06:44.69745+00:00
 -- url     : https://prove2.me/theorems/ebf6463f-263f-554f-89ae-c1b87a958fca

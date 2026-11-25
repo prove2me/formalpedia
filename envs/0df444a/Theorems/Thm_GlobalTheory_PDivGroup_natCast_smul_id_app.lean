@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_natCast_smul_id_app
 -- name    : GlobalTheory.PDivGroup.natCast_smul_id_app
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:05:43.589186+00:00
 -- url     : https://prove2.me/theorems/3034a315-8329-5bf5-a50a-fca210c33602

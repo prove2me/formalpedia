@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FrobeniusOrbits_Final_efgTwo
 -- name    : Formalism.FrobeniusOrbits.Final.efgTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:32:49.638828+00:00
 -- url     : https://prove2.me/theorems/91f3615e-637c-47b7-b9ee-cfb8962653cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_card_trace_algHom_of_isReduced_baseChange
 -- name    : GlobalTheory.finite_card_trace_algHom_of_isReduced_baseChange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:27:02.315227+00:00
 -- url     : https://prove2.me/theorems/2288da23-7c4d-4604-96d1-c3e7d402c8b6

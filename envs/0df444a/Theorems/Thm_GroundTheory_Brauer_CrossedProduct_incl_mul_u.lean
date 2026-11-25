@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_incl_mul_u
 -- name    : GroundTheory.Brauer.CrossedProduct.incl_mul_u
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:41:27.208967+00:00
 -- url     : https://prove2.me/theorems/e35cc441-b476-42f0-ba7f-80db312e24c2

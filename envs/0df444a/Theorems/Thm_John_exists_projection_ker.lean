@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_exists_projection_ker
 -- name    : John.exists_projection_ker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:24:16.848804+00:00
 -- url     : https://prove2.me/theorems/b7fab308-9b41-4c17-be00-c8d5c1e10e71

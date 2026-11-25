@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_fac_nonneg
 -- name    : GlobalTheory.CompareIterDegree.fac_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:16.182238+00:00
 -- url     : https://prove2.me/theorems/210de0a9-5acb-4b95-8d4e-fed5ed1b2f15

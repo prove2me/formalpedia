@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_surjective_of_graded_surjective
 -- name    : GroundTheory.LocalField.surjective_of_graded_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:44:42.143784+00:00
 -- url     : https://prove2.me/theorems/2df5bc74-c93a-4033-b21c-af8e1ab0c494

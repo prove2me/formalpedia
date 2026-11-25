@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_level_zero_derivative_rule
 -- name    : Formalism.FourierDecayAlt.P.PBG.level_zero_derivative_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:00:57.395914+00:00
 -- url     : https://prove2.me/theorems/155efce0-37b5-4c1b-a9ca-60853e193386

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_exists_energy_min
 -- name    : GlobalTheory.ClassFin.exists_energy_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:11:46.802205+00:00
 -- url     : https://prove2.me/theorems/4bbc65f6-c009-42e5-97aa-e7254f592566

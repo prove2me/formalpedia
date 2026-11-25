@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_IsSNumberSequence_abs_sub_le
 -- name    : SNumbers.IsSNumberSequence.abs_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:26:27.176912+00:00
 -- url     : https://prove2.me/theorems/e9e24428-d4a0-5adc-abc3-ec1457313807

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Lin_NonPrimeVonMangoldt_summable_F__53d90ba45446
 -- name    : P2M_GlobalTheory_Lin_NonPrimeVonMangoldt_summable_F__53d90ba45446
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:07:09.864152+00:00
 -- url     : https://prove2.me/theorems/40a59d27-5a28-4e92-bb8f-2746034c5545

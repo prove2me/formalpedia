@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_TvKill_rk_mulVec
 -- name    : GlobalTheory.UTrans.TvKill.rk_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:58:27.327328+00:00
 -- url     : https://prove2.me/theorems/19010c0c-19bf-4d72-b5f2-c5c1b67700c6

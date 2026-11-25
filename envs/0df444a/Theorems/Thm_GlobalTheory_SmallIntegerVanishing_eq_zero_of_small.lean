@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallIntegerVanishing_eq_zero_of_small
 -- name    : GlobalTheory.SmallIntegerVanishing.eq_zero_of_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:14:46.731696+00:00
 -- url     : https://prove2.me/theorems/31479080-6b9d-4b07-b378-9f4752a25813

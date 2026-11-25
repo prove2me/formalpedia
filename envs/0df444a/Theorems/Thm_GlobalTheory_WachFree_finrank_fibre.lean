@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachFree_finrank_fibre
 -- name    : GlobalTheory.WachFree.finrank_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:54:12.35081+00:00
 -- url     : https://prove2.me/theorems/bcf451df-804a-54db-96bb-c932532aa56f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceRealPartConjugateSum_trace_eq_sum_ringHom
 -- name    : GlobalTheory.TraceRealPartConjugateSum.trace_eq_sum_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:53:33.607831+00:00
 -- url     : https://prove2.me/theorems/ec6b2683-76da-541c-8899-4de227c0f93a

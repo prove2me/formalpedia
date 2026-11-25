@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_deviationFromSubspace_le_norm
 -- name    : SNumbers.deviationFromSubspace_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:31:18.152639+00:00
 -- url     : https://prove2.me/theorems/0c53c237-ab46-49c0-9a90-d2ccddd201fd

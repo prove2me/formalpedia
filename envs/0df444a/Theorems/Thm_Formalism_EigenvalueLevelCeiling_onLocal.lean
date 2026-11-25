@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_onLocal
 -- name    : Formalism.EigenvalueLevelCeiling.onLocal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:33:57.375133+00:00
 -- url     : https://prove2.me/theorems/8cb01418-1020-4159-a934-78fa54716d8a

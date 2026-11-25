@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_squarefreeLabelTorusMass_union_bounds
 -- name    : GlobalTheory.T.squarefreeLabelTorusMass_union_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:52:11.524811+00:00
 -- url     : https://prove2.me/theorems/77cf3d05-8e32-4c1c-ac8c-7ef80bec81fa

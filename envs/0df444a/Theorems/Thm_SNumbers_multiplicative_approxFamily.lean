@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_multiplicative_approxFamily
 -- name    : SNumbers.multiplicative_approxFamily
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:27:04.688304+00:00
 -- url     : https://prove2.me/theorems/fdb3b6ce-3c3f-502f-87cd-6a9ee3020d42

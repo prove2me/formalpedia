@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_card_perm_no_long_cycle
 -- name    : GlobalTheory.BadShare.card_perm_no_long_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:34:27.163425+00:00
 -- url     : https://prove2.me/theorems/074687c3-69af-5fb7-8263-0cc5b93a5c74

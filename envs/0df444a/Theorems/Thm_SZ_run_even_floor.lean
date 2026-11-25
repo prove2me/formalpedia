@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_run_even_floor
 -- name    : SZ.run_even_floor
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:21:04.102704+00:00
 -- url     : https://prove2.me/theorems/317d91bf-007d-54eb-b5d7-07f7db627ae7

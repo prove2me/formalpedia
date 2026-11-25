@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_torus_mem
 -- name    : GlobalTheory.KTypeCompare.torus_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:58:27.618044+00:00
 -- url     : https://prove2.me/theorems/d2b23652-f651-4dc4-9e94-05b821ec4ccc

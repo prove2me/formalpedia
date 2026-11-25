@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachFree_free_of_regular
 -- name    : GlobalTheory.WachFree.free_of_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:54:18.453024+00:00
 -- url     : https://prove2.me/theorems/7d18aa71-c8e9-554b-9223-acfbf64fb5b0

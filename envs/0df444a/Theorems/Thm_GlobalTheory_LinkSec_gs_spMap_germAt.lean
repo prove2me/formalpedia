@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkSec_gs_spMap_germAt
 -- name    : GlobalTheory.LinkSec.gs_spMap_germAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:03:14.702804+00:00
 -- url     : https://prove2.me/theorems/1c072f0c-237a-4e2b-92b9-3b9d1e12eada

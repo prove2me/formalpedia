@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_subgroupPowRelIndex_units_of_isAdicComplete
 -- name    : GlobalTheory.T.subgroupPowRelIndex_units_of_isAdicComplete
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:58:52.721983+00:00
 -- url     : https://prove2.me/theorems/7f8881ba-4193-4788-86dc-32c2484f673f

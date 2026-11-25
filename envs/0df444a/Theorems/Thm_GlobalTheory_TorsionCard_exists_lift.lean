@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCard_exists_lift
 -- name    : GlobalTheory.TorsionCard.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:17:33.951824+00:00
 -- url     : https://prove2.me/theorems/d3527e5c-5ffa-582d-9c28-a7876062f8a5

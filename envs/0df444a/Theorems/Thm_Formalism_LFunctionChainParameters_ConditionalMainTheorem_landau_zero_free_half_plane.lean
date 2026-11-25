@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ConditionalMainTheorem_landau_zero_free_half_plane
 -- name    : Formalism.LFunctionChainParameters.ConditionalMainTheorem.landau_zero_free_half_plane
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:10:53.059817+00:00
 -- url     : https://prove2.me/theorems/b4d7bf5b-1fa6-4850-ab3f-d23147c977dd

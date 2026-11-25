@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Pm_glEquiv_mem_parab
 -- name    : GlobalTheory.CompanionTheory.TyFin.Pm.glEquiv_mem_parab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:10:29.173694+00:00
 -- url     : https://prove2.me/theorems/29fa43f5-1e02-4970-9ecc-5d36d3a5a2a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_mu_max_of_submodule
 -- name    : Formalism.LFunctionChainParameters.LChain6.mu_max_of_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:51:16.966625+00:00
 -- url     : https://prove2.me/theorems/77ffcef4-90e1-49e6-b214-d4eaf5c4a2f5

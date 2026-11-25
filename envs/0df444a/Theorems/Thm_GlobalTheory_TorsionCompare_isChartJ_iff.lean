@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCompare_isChartJ_iff
 -- name    : GlobalTheory.TorsionCompare.isChartJ_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:32.99657+00:00
 -- url     : https://prove2.me/theorems/6416affe-8efc-439b-906a-2d498001be81

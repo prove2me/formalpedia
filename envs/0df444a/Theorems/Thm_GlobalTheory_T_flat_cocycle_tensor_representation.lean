@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flat_cocycle_tensor_representation
 -- name    : GlobalTheory.T.flat_cocycle_tensor_representation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:27:18.585699+00:00
 -- url     : https://prove2.me/theorems/18734de1-dfb4-4d8f-b35b-9691afc217d4

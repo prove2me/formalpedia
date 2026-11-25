@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_Final_B_TJTReal
 -- name    : Formalism.YangianSpanCharacter.Final.B_TJTReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:30:48.960816+00:00
 -- url     : https://prove2.me/theorems/579378f7-c748-47ba-be4f-d2122b6d3b54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_exists_lift_quot
 -- name    : GlobalTheory.SectionBasis.exists_lift_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:51:57.370048+00:00
 -- url     : https://prove2.me/theorems/8935f43a-5750-4782-9a21-19e6fb4f61d7

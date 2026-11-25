@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sum_norm_sq_le_sq_of_signedSum_le
 -- name    : SNumbers.sum_norm_sq_le_sq_of_signedSum_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:47:40.189345+00:00
 -- url     : https://prove2.me/theorems/91ccabeb-c910-5408-8f79-fc9d2050cd86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heisenberg_matrix_facts
 -- name    : GlobalTheory.T.heisenberg_matrix_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:57.215406+00:00
 -- url     : https://prove2.me/theorems/78dc9a1d-1fb3-4820-90af-762d129ae60c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualCokernelFlat_mem_sup_of_exact
 -- name    : GlobalTheory.DualCokernelFlat.mem_sup_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:04.087404+00:00
 -- url     : https://prove2.me/theorems/0f28d23e-9684-4be1-b984-8d20e8ba80de

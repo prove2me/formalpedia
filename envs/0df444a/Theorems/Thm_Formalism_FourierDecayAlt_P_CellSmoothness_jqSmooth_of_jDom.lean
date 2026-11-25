@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CellSmoothness_jqSmooth_of_jDom
 -- name    : Formalism.FourierDecayAlt.P.CellSmoothness.jqSmooth_of_jDom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:01:00.549193+00:00
 -- url     : https://prove2.me/theorems/a686d8d9-23c7-497d-92b8-e4b77ee03559

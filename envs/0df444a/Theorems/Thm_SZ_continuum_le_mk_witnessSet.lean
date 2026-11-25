@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_continuum_le_mk_witnessSet
 -- name    : SZ.continuum_le_mk_witnessSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:40:33.801897+00:00
 -- url     : https://prove2.me/theorems/413559bd-89fe-463a-869c-370c9aec44f6

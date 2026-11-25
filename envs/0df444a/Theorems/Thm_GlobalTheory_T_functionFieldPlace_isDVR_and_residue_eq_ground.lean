@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_functionFieldPlace_isDVR_and_residue_eq_ground
 -- name    : GlobalTheory.T.functionFieldPlace_isDVR_and_residue_eq_ground
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:53:31.633786+00:00
 -- url     : https://prove2.me/theorems/74922bea-5b7a-43cf-89ca-89e0a9a5523c

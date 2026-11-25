@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_kolmogorovNumber_eq_approx
 -- name    : SNumbers.kolmogorovNumber_eq_approx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:57:03.48563+00:00
 -- url     : https://prove2.me/theorems/a1b214eb-ec9e-4c58-b451-5c9cd74ebdbb

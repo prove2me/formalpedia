@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_John_no_neg_direction_of_maxVolume
 -- name    : John.no_neg_direction_of_maxVolume
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:53.430912+00:00
 -- url     : https://prove2.me/theorems/9ea54408-e206-4212-8361-423c8af9f6f8

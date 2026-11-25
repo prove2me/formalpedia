@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsogenySum_thetaSectionPointwiseNormSq_periodic
 -- name    : GlobalTheory.IsogenySum.thetaSectionPointwiseNormSq_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:09:28.491468+00:00
 -- url     : https://prove2.me/theorems/00c6b16e-fe71-4e21-a450-c85abcbfb792

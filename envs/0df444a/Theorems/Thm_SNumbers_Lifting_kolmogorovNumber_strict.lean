@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Lifting_kolmogorovNumber_strict
 -- name    : SNumbers.Lifting.kolmogorovNumber_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:54:03.493896+00:00
 -- url     : https://prove2.me/theorems/a513d1a8-2673-58d2-8957-9f6cf9545821

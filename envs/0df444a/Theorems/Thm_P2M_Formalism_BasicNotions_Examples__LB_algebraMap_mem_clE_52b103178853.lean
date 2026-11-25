@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_algebraMap_mem_clE_52b103178853
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_algebraMap_mem_clE_52b103178853
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:27.645973+00:00
 -- url     : https://prove2.me/theorems/5114929c-0ac1-405c-85ae-1b356df7ee65

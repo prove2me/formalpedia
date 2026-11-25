@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_DimFac_irred_right
 -- name    : GlobalTheory.BCT.DimFac.irred_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:58:32.14827+00:00
 -- url     : https://prove2.me/theorems/b5d47aee-86a7-4674-ad37-0b9787e42cdf

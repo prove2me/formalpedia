@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_tsc_zero_weight
 -- name    : Formalism.L2.G.Model.TS.tsc_zero_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:49:24.520386+00:00
 -- url     : https://prove2.me/theorems/b8d1685c-95e1-5b3e-98b5-0bd87be4b574

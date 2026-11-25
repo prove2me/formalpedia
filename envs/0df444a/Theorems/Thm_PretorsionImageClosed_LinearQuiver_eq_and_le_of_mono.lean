@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_eq_and_le_of_mono
 -- name    : PretorsionImageClosed.LinearQuiver.eq_and_le_of_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:29:39.701116+00:00
 -- url     : https://prove2.me/theorems/2185b5c9-aeeb-4907-961f-0c487957f8d9

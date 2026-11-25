@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_branch_map_formula
 -- name    : Formalism.BranchingDeterminantCap.branch_map_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:07:58.869299+00:00
 -- url     : https://prove2.me/theorems/c231c08e-a66f-48a1-a674-42d82805f645

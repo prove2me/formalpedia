@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LFunction_zero_of_re_nonpos
 -- name    : GlobalTheory.LFunction_zero_of_re_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:06:59.138473+00:00
 -- url     : https://prove2.me/theorems/9ecaef41-b0ec-417f-8a88-510b0517fa8d

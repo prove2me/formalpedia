@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_RZ_zero
 -- name    : Formalism.FourierDecayAlt.P.Qx5.RZ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:44:34.18924+00:00
 -- url     : https://prove2.me/theorems/3c32e810-62f5-5043-b445-cdc81d1ff0c8

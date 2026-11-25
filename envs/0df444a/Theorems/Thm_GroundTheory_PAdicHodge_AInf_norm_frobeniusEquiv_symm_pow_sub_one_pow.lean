@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_norm_frobeniusEquiv_symm_pow_sub_one_pow
 -- name    : GroundTheory.PAdicHodge.AInf.norm_frobeniusEquiv_symm_pow_sub_one_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T23:46:14.438595+00:00
 -- url     : https://prove2.me/theorems/63fc505a-04f0-4deb-8f15-e50ccd3a37f1

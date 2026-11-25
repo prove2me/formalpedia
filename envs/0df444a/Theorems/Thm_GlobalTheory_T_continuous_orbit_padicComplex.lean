@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuous_orbit_padicComplex
 -- name    : GlobalTheory.T.continuous_orbit_padicComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:53:17.008579+00:00
 -- url     : https://prove2.me/theorems/49753a3e-e4b0-448a-8005-183cde4782a4

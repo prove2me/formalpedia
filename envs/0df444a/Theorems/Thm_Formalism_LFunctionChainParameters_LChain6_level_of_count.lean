@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_level_of_count
 -- name    : Formalism.LFunctionChainParameters.LChain6.level_of_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:41:00.896414+00:00
 -- url     : https://prove2.me/theorems/df77afa3-ce10-5116-bafd-b4a5f2dfa5b6

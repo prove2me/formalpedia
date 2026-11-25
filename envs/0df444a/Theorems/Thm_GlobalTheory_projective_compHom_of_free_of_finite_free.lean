@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_projective_compHom_of_free_of_finite_free
 -- name    : GlobalTheory.projective_compHom_of_free_of_finite_free
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:11.745988+00:00
 -- url     : https://prove2.me/theorems/82f9968e-1374-4242-a0a9-594ae149bd02

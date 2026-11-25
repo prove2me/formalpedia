@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JacobianIndependence_eq_zero_of_eventually_eval
 -- name    : GlobalTheory.JacobianIndependence.eq_zero_of_eventually_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:47:05.827834+00:00
 -- url     : https://prove2.me/theorems/395e213d-c5a1-4c3e-bc2c-1201dce35981

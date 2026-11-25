@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_prod_neg_one_sq
 -- name    : Formalism.FourierDecayAlt.P.PBG.prod_neg_one_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:02:53.434718+00:00
 -- url     : https://prove2.me/theorems/82f52000-b270-5d54-a999-06a52082ba6e

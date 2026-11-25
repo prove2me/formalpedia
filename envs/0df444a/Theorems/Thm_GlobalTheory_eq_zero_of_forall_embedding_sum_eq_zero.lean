@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_zero_of_forall_embedding_sum_eq_zero
 -- name    : GlobalTheory.eq_zero_of_forall_embedding_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:21.206981+00:00
 -- url     : https://prove2.me/theorems/c23c516c-459b-4b91-9e85-7ddec71509a1

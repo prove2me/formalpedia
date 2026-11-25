@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_heckeAct_idem_apply
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.heckeAct_idem_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:58:23.32795+00:00
 -- url     : https://prove2.me/theorems/7200aae5-056e-4459-950c-d7d738fdb153

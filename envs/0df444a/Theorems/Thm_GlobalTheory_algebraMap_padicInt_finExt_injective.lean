@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_padicInt_finExt_injective
 -- name    : GlobalTheory.algebraMap_padicInt_finExt_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:53:23.955629+00:00
 -- url     : https://prove2.me/theorems/c1866689-925d-4fb7-b344-317f9a535fc2

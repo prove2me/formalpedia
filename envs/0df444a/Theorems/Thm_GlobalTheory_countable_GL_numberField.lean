@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_countable_GL_numberField
 -- name    : GlobalTheory.countable_GL_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:08.655802+00:00
 -- url     : https://prove2.me/theorems/60b7c34b-16b8-5842-903b-5d10e4fbde17

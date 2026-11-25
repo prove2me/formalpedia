@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_factorial_le_two_mul_card_perm_with_fixedPoint
 -- name    : GlobalTheory.T.factorial_le_two_mul_card_perm_with_fixedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:52:48.240195+00:00
 -- url     : https://prove2.me/theorems/bb305194-d17c-455f-b89d-69136359265b

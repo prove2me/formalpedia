@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SecGrowth_growth_of_veryAmpleBy
 -- name    : GlobalTheory.SecGrowth.growth_of_veryAmpleBy
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:03:30.072853+00:00
 -- url     : https://prove2.me/theorems/dcf7682c-ac50-4342-bbbc-6d3c461afdf6

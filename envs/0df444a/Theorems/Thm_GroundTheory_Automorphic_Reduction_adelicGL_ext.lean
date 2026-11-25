@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_adelicGL_ext
 -- name    : GroundTheory.Automorphic.Reduction.adelicGL_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:10.507119+00:00
 -- url     : https://prove2.me/theorems/5ba5000c-b195-433f-bc9a-4b1c4ebf6ae5

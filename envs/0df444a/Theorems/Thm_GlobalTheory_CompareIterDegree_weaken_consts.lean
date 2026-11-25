@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_weaken_consts
 -- name    : GlobalTheory.CompareIterDegree.weaken_consts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:00:50.565885+00:00
 -- url     : https://prove2.me/theorems/b50c0a19-9551-5774-b534-fb2922b546ce

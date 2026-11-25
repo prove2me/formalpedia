@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramValue_isClosed_rootRing
 -- name    : GlobalTheory.UnramValue.isClosed_rootRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:46:49.737331+00:00
 -- url     : https://prove2.me/theorems/e873d6af-6f91-4985-878f-7db555f68a16

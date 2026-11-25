@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_degree_ne_one
 -- name    : GroundTheory.Global.Elliptic.degree_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:39:00.43646+00:00
 -- url     : https://prove2.me/theorems/18af4769-37d5-4505-bcc7-08602a2487e2

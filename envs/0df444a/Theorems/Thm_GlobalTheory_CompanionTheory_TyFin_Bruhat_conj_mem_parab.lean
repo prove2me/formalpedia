@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Bruhat_conj_mem_parab
 -- name    : GlobalTheory.CompanionTheory.TyFin.Bruhat.conj_mem_parab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:09:58.556665+00:00
 -- url     : https://prove2.me/theorems/2bf2301a-0802-46a7-bd3f-f9c7bb813c01

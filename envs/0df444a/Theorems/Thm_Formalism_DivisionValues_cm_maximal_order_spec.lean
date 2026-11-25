@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_cm_maximal_order_spec
 -- name    : Formalism.DivisionValues.cm_maximal_order_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:28:15.764671+00:00
 -- url     : https://prove2.me/theorems/29ac3319-f4b9-45bb-a825-cdf1b065432b

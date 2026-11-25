@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_transferMuMax_of
 -- name    : Formalism.BranchingDeterminantCap.transferMuMax_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:35.157164+00:00
 -- url     : https://prove2.me/theorems/fd5fbe90-be3f-4aab-82ea-41936cf44152

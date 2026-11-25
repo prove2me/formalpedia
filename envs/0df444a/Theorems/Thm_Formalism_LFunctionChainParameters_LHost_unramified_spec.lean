@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_unramified_spec
 -- name    : Formalism.LFunctionChainParameters.LHost.unramified_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:24:13.609155+00:00
 -- url     : https://prove2.me/theorems/051d0548-b9a6-49bc-becc-a61c59907dfe

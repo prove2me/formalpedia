@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaRunParameters_exists_large_nat
 -- name    : GlobalTheory.ThetaRunParameters.exists_large_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:52:43.133949+00:00
 -- url     : https://prove2.me/theorems/51996a40-92fa-40df-aae3-aa6f915198b8

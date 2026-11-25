@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_Calc_cls_eq_zero
 -- name    : Formalism.L2.Th1.C.Calc.cls_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:35:41.417909+00:00
 -- url     : https://prove2.me/theorems/f2a0a3d6-7f0c-490a-9417-f9e44654df85

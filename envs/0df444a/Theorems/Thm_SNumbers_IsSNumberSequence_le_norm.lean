@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_IsSNumberSequence_le_norm
 -- name    : SNumbers.IsSNumberSequence.le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:26:29.466242+00:00
 -- url     : https://prove2.me/theorems/05c689d9-7b9a-467f-a781-d84c4d041b6e

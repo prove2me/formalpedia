@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushFirstLaw_val_theta
 -- name    : GlobalTheory.PushFirstLaw.val_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:51:21.759586+00:00
 -- url     : https://prove2.me/theorems/ef0c05df-bfe0-5e2e-b0a3-3d086130f3fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_SemiHom_rig_rig
 -- name    : GlobalTheory.PDivGroup.SemiHom.rig_rig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:29:11.068555+00:00
 -- url     : https://prove2.me/theorems/7e64a508-11b8-48d4-b076-a75b8728e07d

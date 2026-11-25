@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fIwasawa_iwasawa
 -- name    : Formalism.UG.P.fIwasawa_iwasawa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:51:33.670928+00:00
 -- url     : https://prove2.me/theorems/2c71e4ef-8011-4493-8382-48d42cff1d9f

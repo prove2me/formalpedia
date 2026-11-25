@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimeRecip_inv_five_log_le_sum_inv_primes_of_large
 -- name    : GlobalTheory.PrimeRecip.inv_five_log_le_sum_inv_primes_of_large
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:50:08.645942+00:00
 -- url     : https://prove2.me/theorems/d268cb4a-46d9-42ec-9ebc-c3a9eea443b9

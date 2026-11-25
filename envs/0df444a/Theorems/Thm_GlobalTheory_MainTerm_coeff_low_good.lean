@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_coeff_low_good
 -- name    : GlobalTheory.MainTerm.coeff_low_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:52:59.233372+00:00
 -- url     : https://prove2.me/theorems/3d4c603d-1b2d-4e56-9a98-7bb634b5bd6d

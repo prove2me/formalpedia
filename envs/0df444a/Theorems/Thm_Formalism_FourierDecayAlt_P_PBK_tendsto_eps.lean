@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_tendsto_eps
 -- name    : Formalism.FourierDecayAlt.P.PBK.tendsto_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:54:26.83685+00:00
 -- url     : https://prove2.me/theorems/6e8235d6-e550-4452-b9a6-0a58ca4dbbc5

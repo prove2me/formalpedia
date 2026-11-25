@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Embedding_isMetricInjection_J
 -- name    : SNumbers.Embedding.isMetricInjection_J
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:26:06.569068+00:00
 -- url     : https://prove2.me/theorems/41244678-5d4b-4497-99fb-e35805028fdd

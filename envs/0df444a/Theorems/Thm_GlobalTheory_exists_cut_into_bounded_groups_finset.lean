@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_cut_into_bounded_groups_finset
 -- name    : GlobalTheory.exists_cut_into_bounded_groups_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:26:56.12782+00:00
 -- url     : https://prove2.me/theorems/03efa172-fa63-4ab3-b940-9f95f74e4fc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_descent_cm_field
 -- name    : Formalism.DivisionValues.descent_cm_field
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:24:35.742458+00:00
 -- url     : https://prove2.me/theorems/9339ef68-eba7-42c6-af59-a0d6b2c32acf

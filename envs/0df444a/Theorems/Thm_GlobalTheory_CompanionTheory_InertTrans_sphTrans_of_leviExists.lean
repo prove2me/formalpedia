@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_InertTrans_sphTrans_of_leviExists
 -- name    : GlobalTheory.CompanionTheory.InertTrans.sphTrans_of_leviExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:04:05.652208+00:00
 -- url     : https://prove2.me/theorems/db292625-a571-4762-b4e8-57a1ad99038a

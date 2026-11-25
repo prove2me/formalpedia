@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_preimage_connectedComponent_rationalPoint_fieldExt
 -- name    : GlobalTheory.T.preimage_connectedComponent_rationalPoint_fieldExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:55:45.368079+00:00
 -- url     : https://prove2.me/theorems/287339c1-b73a-4e02-86ee-ee86cfa542c0

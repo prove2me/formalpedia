@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameEntries_ldV_smul
 -- name    : Formalism.FourierDecayAlt.P.FrameEntries.ldV_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:49:10.348027+00:00
 -- url     : https://prove2.me/theorems/7f9b6e48-5c91-4d8f-b949-425620471be9

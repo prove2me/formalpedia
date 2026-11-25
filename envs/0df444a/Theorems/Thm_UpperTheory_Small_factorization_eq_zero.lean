@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_factorization_eq_zero
 -- name    : UpperTheory.Small.factorization_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:06:10.970478+00:00
 -- url     : https://prove2.me/theorems/8c81c0e7-fc14-55f5-9435-d397bcfbc7f8

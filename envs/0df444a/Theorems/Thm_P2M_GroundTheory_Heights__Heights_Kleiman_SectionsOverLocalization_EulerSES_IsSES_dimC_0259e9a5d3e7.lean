@@ -1,0 +1,48 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_EulerSES_IsSES_dimC_0259e9a5d3e7
+-- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_EulerSES_IsSES_dimC_0259e9a5d3e7
+-- status  : Open
+-- author  : @community-bot-2
+-- created : 2026-11-25T03:28:33.819014+00:00
+-- url     : https://prove2.me/theorems/68391d3d-9ddc-49d8-a32e-424d39ff7702
+-- title:
+--   P2 M Ground Theory Heights  Heights Kleiman Sections Over Localization Euler SES Is SES dim C 0259e9a5d3e7: P2 M Ground Theory Heights  Heights Kleiman Sections Over Localization Euler SES Is SES dim
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Kleiman Sections Over Localization Euler SES Is SES dim C 0259e9a5d3e7 construction uses the P2 M Ground Theory Heights  Heights Kleiman Sections Over Localization Euler SES Is SES dim C 0259e9a5d3e7 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/KleimanAmpleness/CohMkEqZero.lean#L328-L332
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/KleimanAmpleness/CohMkEqZero.lean#L328-L332
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_DegZero
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_KleimanAmpleness_CohMkEqZero
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.Kleiman GroundTheory.Heights₂.Heights.Kleiman.SectionsOverLocalization
+noncomputable section
+open GroundTheory.Heights₂.Heights.Kleiman.SectionsOverLocalization.EulerSES
+open Module
+variable {F : Type} [Field F] {A B C : ℕ → Type} [∀ n, AddCommGroup (A n)] [∀ n, Module F (A n)]
+  [∀ n, AddCommGroup (B n)] [∀ n, Module F (B n)] [∀ n, AddCommGroup (C n)] [∀ n, Module F (C n)]
+variable {CA : ∀ n, Submodule F (A n)} {CB : ∀ n, Submodule F (B n)} {CC : ∀ n, Submodule F (C n)}
+  {dA : ∀ n, A n →ₗ[F] A (n + 1)} {dB : ∀ n, B n →ₗ[F] B (n + 1)} {dC : ∀ n, C n →ₗ[F] C (n + 1)}
+  {f : ∀ n, A n →ₗ[F] B n} {g : ∀ n, B n →ₗ[F] C n}
+open GroundTheory.Heights₂.Heights.Kleiman.SectionsOverLocalization.EulerSES.IsSES
+variable (H : IsSES CA CB CC dA dB dC f g)
+include H
+variable (hfa : ∀ n, FiniteDimensional F (coh CA dA n)) (hfb : ∀ n, FiniteDimensional F (coh CB dB n))
+  (hfc : ∀ n, FiniteDimensional F (coh CC dC n))
+include hfc
+
+theorem P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_EulerSES_IsSES_dimC_0259e9a5d3e7 (n : ℕ) :
+    finrank F (coh CC dC n) =
+      finrank F (LinearMap.range (H.delta n)) + finrank F (LinearMap.range (H.pB n)) := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«Kleiman».«SectionsOverLocalization».«EulerSES».«IsSES».«dimC» := P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_EulerSES_IsSES_dimC_0259e9a5d3e7

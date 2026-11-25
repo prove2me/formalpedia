@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_norm_ratio_ge_idEmbed
 -- name    : SNumbers.exists_norm_ratio_ge_idEmbed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:59:03.232701+00:00
 -- url     : https://prove2.me/theorems/e0b416aa-bec3-4cc8-a144-5fab1823991a

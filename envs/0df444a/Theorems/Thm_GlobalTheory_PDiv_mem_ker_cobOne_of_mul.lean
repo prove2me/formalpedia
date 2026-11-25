@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDiv_mem_ker_cobOne_of_mul
 -- name    : GlobalTheory.PDiv.mem_ker_cobOne_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:18.484397+00:00
 -- url     : https://prove2.me/theorems/ef31c9df-8478-4c36-bd09-94ea1f22092c

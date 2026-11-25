@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_not_mem_of_dvd_qd
 -- name    : UpperTheory.Small.not_mem_of_dvd_qd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:06:51.679137+00:00
 -- url     : https://prove2.me/theorems/4a33121d-d8a7-466b-aed9-085a0ba30f20

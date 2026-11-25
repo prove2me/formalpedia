@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mean_log_covolume_eq_mean_classGroup
 -- name    : GlobalTheory.mean_log_covolume_eq_mean_classGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:12:12.930341+00:00
 -- url     : https://prove2.me/theorems/72a551cc-ad73-4158-a83d-85d2dc1b20c5

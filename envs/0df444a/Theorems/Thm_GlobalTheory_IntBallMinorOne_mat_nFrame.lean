@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBallMinorOne_mat_nFrame
 -- name    : GlobalTheory.IntBallMinorOne.mat_nFrame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:58:50.400643+00:00
 -- url     : https://prove2.me/theorems/5725f22e-6536-4445-b30a-73170ab772bd

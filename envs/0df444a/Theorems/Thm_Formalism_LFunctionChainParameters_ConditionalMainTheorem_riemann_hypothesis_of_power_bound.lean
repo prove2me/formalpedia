@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ConditionalMainTheorem_riemann_hypothesis_of_power_bound
 -- name    : Formalism.LFunctionChainParameters.ConditionalMainTheorem.riemann_hypothesis_of_power_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:38.696827+00:00
 -- url     : https://prove2.me/theorems/0d916b9d-656b-4839-9060-8a4f22bed604

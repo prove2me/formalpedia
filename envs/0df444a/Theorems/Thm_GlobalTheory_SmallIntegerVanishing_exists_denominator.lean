@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmallIntegerVanishing_exists_denominator
 -- name    : GlobalTheory.SmallIntegerVanishing.exists_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:15:04.037399+00:00
 -- url     : https://prove2.me/theorems/2fda4f5c-752a-47b6-8dd7-d9c3390815f8

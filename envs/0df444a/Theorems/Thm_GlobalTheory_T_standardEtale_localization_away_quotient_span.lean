@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_standardEtale_localization_away_quotient_span
 -- name    : GlobalTheory.T.standardEtale_localization_away_quotient_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:58:57.782802+00:00
 -- url     : https://prove2.me/theorems/45e1b313-560e-499e-b5e5-0c2d2b641808

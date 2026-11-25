@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_fdeg_ratio_abs
 -- name    : GlobalTheory.CompareIterDegree.fdeg_ratio_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:59:30.178216+00:00
 -- url     : https://prove2.me/theorems/f3d2a668-42cc-5223-880b-926f71849f4f

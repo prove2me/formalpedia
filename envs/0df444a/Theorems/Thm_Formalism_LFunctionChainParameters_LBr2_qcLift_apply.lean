@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_qcLift_apply
 -- name    : Formalism.LFunctionChainParameters.LBr2.qcLift_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:01:22.145005+00:00
 -- url     : https://prove2.me/theorems/09976870-8813-5e68-8540-b134281651cf

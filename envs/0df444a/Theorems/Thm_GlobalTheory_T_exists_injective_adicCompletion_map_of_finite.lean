@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_injective_adicCompletion_map_of_finite
 -- name    : GlobalTheory.T.exists_injective_adicCompletion_map_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:35:58.107273+00:00
 -- url     : https://prove2.me/theorems/cbcef8da-9973-496d-884f-e993502669f8

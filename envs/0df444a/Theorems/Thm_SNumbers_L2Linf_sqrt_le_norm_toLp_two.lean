@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L2Linf_sqrt_le_norm_toLp_two
 -- name    : SNumbers.L2Linf.sqrt_le_norm_toLp_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:59:11.535841+00:00
 -- url     : https://prove2.me/theorems/905fde4b-1297-427c-8c1a-79f0e92c87c7

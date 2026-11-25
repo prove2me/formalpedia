@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Multiplicative_idealLike
 -- name    : SNumbers.Multiplicative.idealLike
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:26:45.405937+00:00
 -- url     : https://prove2.me/theorems/f6a8dfdc-a051-40d7-9ab2-3693e13ee2ba

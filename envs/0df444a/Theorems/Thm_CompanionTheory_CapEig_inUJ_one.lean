@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_inUJ_one
 -- name    : CompanionTheory.CapEig.inUJ_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:54:30.730868+00:00
 -- url     : https://prove2.me/theorems/a6cefd2b-c0e8-40f3-84a6-e956d6b4d744

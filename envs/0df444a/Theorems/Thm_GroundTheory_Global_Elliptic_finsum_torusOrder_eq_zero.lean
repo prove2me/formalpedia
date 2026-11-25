@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_finsum_torusOrder_eq_zero
 -- name    : GroundTheory.Global.Elliptic.finsum_torusOrder_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:39:56.659488+00:00
 -- url     : https://prove2.me/theorems/a49d85e0-26a1-465c-bdcf-cfe71fcf6ea6

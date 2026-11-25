@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WirtChain_ExpSum_smooth
 -- name    : GlobalTheory.WirtChain.ExpSum.smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:57:06.556574+00:00
 -- url     : https://prove2.me/theorems/0b8485e8-fc6d-4849-8da7-6a00a18c1c28

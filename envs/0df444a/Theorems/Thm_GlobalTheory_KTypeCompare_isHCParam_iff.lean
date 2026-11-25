@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_isHCParam_iff
 -- name    : GlobalTheory.KTypeCompare.isHCParam_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:32.006209+00:00
 -- url     : https://prove2.me/theorems/a77aed3e-5131-4ea6-b054-eef9d6c4c12d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_gammaOne_holds
 -- name    : GlobalTheory.JR.gammaOne_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:38:46.013471+00:00
 -- url     : https://prove2.me/theorems/266fd900-d3ef-4207-8f66-205ac2c73be5

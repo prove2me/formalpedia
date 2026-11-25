@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_addVal_norm_unramifiedInvolutionFieldExt_eq_mul
 -- name    : GlobalTheory.T.addVal_norm_unramifiedInvolutionFieldExt_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:26:00.553427+00:00
 -- url     : https://prove2.me/theorems/ff08f0b2-46be-4bd8-9897-17beaec40de2

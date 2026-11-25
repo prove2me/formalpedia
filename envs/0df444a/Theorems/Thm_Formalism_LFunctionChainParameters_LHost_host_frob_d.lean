@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_host_frob_d
 -- name    : Formalism.LFunctionChainParameters.LHost.host_frob_d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:24:19.383499+00:00
 -- url     : https://prove2.me/theorems/c6cf110c-a123-435f-b269-a9c95703f1f9

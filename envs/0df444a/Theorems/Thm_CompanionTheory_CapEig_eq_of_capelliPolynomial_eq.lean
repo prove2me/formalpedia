@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_eq_of_capelliPolynomial_eq
 -- name    : CompanionTheory.CapEig.eq_of_capelliPolynomial_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:44:14.810146+00:00
 -- url     : https://prove2.me/theorems/4a701592-4772-4af9-b279-14727abcf659

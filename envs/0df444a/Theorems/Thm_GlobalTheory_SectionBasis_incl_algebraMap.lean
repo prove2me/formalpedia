@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_incl_algebraMap
 -- name    : GlobalTheory.SectionBasis.incl_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:51:57.125084+00:00
 -- url     : https://prove2.me/theorems/a5d847e3-dcb8-58fd-8aea-97a6ea756f50

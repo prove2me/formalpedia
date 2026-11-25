@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_IsSNumberSequence_isPseudoSNumberSequence
 -- name    : SNumbers.IsSNumberSequence.isPseudoSNumberSequence
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:26:43.4207+00:00
 -- url     : https://prove2.me/theorems/6c8b3d55-c7e2-422b-8669-266f746e693b

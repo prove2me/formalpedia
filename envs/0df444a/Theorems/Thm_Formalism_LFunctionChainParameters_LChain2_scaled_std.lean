@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_scaled_std
 -- name    : Formalism.LFunctionChainParameters.LChain2.scaled_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:33:27.56284+00:00
 -- url     : https://prove2.me/theorems/c112565c-f018-4a6c-85e5-42daae03e2d7

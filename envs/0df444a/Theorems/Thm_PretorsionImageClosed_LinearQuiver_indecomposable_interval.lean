@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_indecomposable_interval
 -- name    : PretorsionImageClosed.LinearQuiver.indecomposable_interval
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:07:11.298664+00:00
 -- url     : https://prove2.me/theorems/5ec6718b-00a5-4df7-b44f-ffe6841cb255

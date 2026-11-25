@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finite_joint_eigensystems
 -- name    : GlobalTheory.finite_joint_eigensystems
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:55:24.500797+00:00
 -- url     : https://prove2.me/theorems/037fecfb-4cf9-4d83-84f3-4792958c6d60

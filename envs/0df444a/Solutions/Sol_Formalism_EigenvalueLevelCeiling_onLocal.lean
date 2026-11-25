@@ -1,0 +1,42 @@
+-- Prove2me | solution 1 for Formalism.EigenvalueLevelCeiling.onLocal
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T03:14:24.636822+00:00
+-- url     : https://prove2.me/submissions/9f6c8e64-9653-494d-a40b-092200b1b6a5
+
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_ErrSum
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxFull
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxPsiGood
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxRules
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_LemmaGG
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_Mirabolic
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_UnipotentNumeric
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OnExport
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OnLocal
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_OrthogonalityOfMackey
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_RamBasic
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_AbsorbLocalConditions
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_ThreeForms
+import Definitions.Def_Formalism_MirabolicMackeyTheory_MirabolicIsMackey
+import Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxMono
+import Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxCutLe
+import Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxTransport
+import Theorems.Thm_Formalism_EigenvalueLevelCeiling_latInter
+import Theorems.Thm_Formalism_EigenvalueLevelCeiling_threeForms
+import Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxPsiGood
+import Theorems.Thm_Formalism_EigenvalueLevelCeiling_lemmaGG
+import Theorems.Thm_Formalism_EigenvalueLevelCeiling_onLocal_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.EigenvalueLevelCeiling
+namespace Formalism.EigenvalueLevelCeiling
+theorem _root_.solution : OnLocal := onLocal_of idxMono idxCutLe idxTransport latInter threeForms idxPsiGood lemmaGG
+end Formalism.EigenvalueLevelCeiling

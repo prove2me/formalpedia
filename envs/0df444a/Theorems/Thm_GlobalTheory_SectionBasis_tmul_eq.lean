@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_tmul_eq
 -- name    : GlobalTheory.SectionBasis.tmul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:52:05.421041+00:00
 -- url     : https://prove2.me/theorems/c3ed9b35-ac1a-42d2-af65-3350233cab47

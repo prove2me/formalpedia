@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs5_castW_ct
 -- name    : Formalism.FourierDecayAlt.P.JFxDs5.castW_ct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:46:26.005413+00:00
 -- url     : https://prove2.me/theorems/53c2cb8c-ac0d-4762-9dde-d235935baafd

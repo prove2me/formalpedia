@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_levelCompare_statement
 -- name    : Formalism.BranchingDeterminantCap.levelCompare_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:26:52.207442+00:00
 -- url     : https://prove2.me/theorems/51711f63-be49-4b8b-b211-4c4355b692d7

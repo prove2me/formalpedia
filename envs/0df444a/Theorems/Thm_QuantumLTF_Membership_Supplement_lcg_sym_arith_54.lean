@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_Supplement_lcg_sym_arith_54
 -- name    : QuantumLTF.Membership.Supplement.lcg_sym_arith_54
--- status  : Open
+-- status  : Proved
 -- author  : @Robin Kothari
 -- created : 2026-11-25T03:08:29.223808+00:00
 -- url     : https://prove2.me/theorems/44213610-b786-4180-9c66-16e49b85362d

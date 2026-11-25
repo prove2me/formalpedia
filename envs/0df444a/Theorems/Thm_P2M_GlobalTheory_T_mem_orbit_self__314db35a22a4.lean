@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_mem_orbit_self__314db35a22a4
 -- name    : P2M_GlobalTheory_T_mem_orbit_self__314db35a22a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:10:52.169669+00:00
 -- url     : https://prove2.me/theorems/2f1488e5-39a3-47ab-beba-2aff1a722972

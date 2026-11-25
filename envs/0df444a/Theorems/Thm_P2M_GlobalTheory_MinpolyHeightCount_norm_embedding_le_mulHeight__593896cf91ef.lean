@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_MinpolyHeightCount_norm_embedding_le_mulHeight__593896cf91ef
 -- name    : P2M_GlobalTheory_MinpolyHeightCount_norm_embedding_le_mulHeight__593896cf91ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:07:01.240725+00:00
 -- url     : https://prove2.me/theorems/b559943a-2c82-4938-b70f-16e831dbd019

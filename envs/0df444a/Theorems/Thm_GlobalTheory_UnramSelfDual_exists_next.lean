@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_exists_next
 -- name    : GlobalTheory.UnramSelfDual.exists_next
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:47:06.556643+00:00
 -- url     : https://prove2.me/theorems/7c8e6a3b-c89c-4133-ba9d-a0586a395221

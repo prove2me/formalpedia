@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramifiedEmbedding_algHom_eq_of_residue_eq
 -- name    : GlobalTheory.UnramifiedEmbedding.algHom_eq_of_residue_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:58:07.613866+00:00
 -- url     : https://prove2.me/theorems/ae5b1db3-ec4b-5821-b83a-43b510143f44

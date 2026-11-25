@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_theorem_A_one_monomial_log_loss
 -- name    : Formalism.DworkPowerSeriesWeights.theorem_A_one_monomial_log_loss
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:08:23.654309+00:00
 -- url     : https://prove2.me/theorems/c69f9811-42af-4f56-a921-3bed108b75b0

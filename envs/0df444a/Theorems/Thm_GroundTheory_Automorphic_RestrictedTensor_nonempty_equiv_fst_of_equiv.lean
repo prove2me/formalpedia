@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_nonempty_equiv_fst_of_equiv
 -- name    : GroundTheory.Automorphic.RestrictedTensor.nonempty_equiv_fst_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:27:06.653206+00:00
 -- url     : https://prove2.me/theorems/0ec17747-22fd-434d-ac2e-72b5341692f5

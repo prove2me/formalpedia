@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_boxCoef_pull1_surjective
 -- name    : GlobalTheory.CompanionTheory.Axis.boxCoef_pull1_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:16:55.367803+00:00
 -- url     : https://prove2.me/theorems/849306f5-4f15-4303-b9e1-593f7286bf96

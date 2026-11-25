@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnfoldComplex_integral_eq_integral_tsum_of_lintegral
 -- name    : GlobalTheory.UnfoldComplex.integral_eq_integral_tsum_of_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:58:25.577167+00:00
 -- url     : https://prove2.me/theorems/498d3c0d-e7bc-5013-884e-68de88f0910f

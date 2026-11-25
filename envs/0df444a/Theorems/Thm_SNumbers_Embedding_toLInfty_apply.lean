@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Embedding_toLInfty_apply
 -- name    : SNumbers.Embedding.toLInfty_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:26:05.523703+00:00
 -- url     : https://prove2.me/theorems/24cc7ae2-a4c3-4737-86d4-249c05d0342f

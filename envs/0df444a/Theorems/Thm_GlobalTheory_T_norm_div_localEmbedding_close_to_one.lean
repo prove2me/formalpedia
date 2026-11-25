@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_div_localEmbedding_close_to_one
 -- name    : GlobalTheory.T.norm_div_localEmbedding_close_to_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:55:02.779024+00:00
 -- url     : https://prove2.me/theorems/70ac054a-4b3f-4a46-b95d-0d183dcd98f5

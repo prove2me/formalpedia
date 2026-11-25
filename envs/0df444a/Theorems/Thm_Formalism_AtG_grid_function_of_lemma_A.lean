@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_AtG_grid_function_of_lemma_A
 -- name    : Formalism.AtG.grid_function_of_lemma_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:48.28902+00:00
 -- url     : https://prove2.me/theorems/c852e0b1-b08f-4cc8-97c0-73dfde67b763

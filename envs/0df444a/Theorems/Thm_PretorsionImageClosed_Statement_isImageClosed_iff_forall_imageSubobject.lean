@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isImageClosed_iff_forall_imageSubobject
 -- name    : PretorsionImageClosed.Statement.isImageClosed_iff_forall_imageSubobject
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:06:49.394662+00:00
 -- url     : https://prove2.me/theorems/66f4429e-04e5-49ee-9d7e-7016631c2e2c

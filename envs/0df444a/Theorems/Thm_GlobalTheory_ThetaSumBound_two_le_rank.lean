@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaSumBound_two_le_rank
 -- name    : GlobalTheory.ThetaSumBound.two_le_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:54:21.482936+00:00
 -- url     : https://prove2.me/theorems/9a79d77b-cd2f-4c22-88a6-757290867b38

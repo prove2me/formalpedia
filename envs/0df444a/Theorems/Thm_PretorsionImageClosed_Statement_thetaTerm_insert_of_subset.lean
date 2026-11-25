@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_thetaTerm_insert_of_subset
 -- name    : PretorsionImageClosed.Statement.thetaTerm_insert_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:11:58.15239+00:00
 -- url     : https://prove2.me/theorems/99a4e7f4-19e0-5059-911a-3bc0e098216d

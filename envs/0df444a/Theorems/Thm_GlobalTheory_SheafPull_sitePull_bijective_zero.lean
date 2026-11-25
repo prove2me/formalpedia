@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafPull_sitePull_bijective_zero
 -- name    : GlobalTheory.SheafPull.sitePull_bijective_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:11:17.566316+00:00
 -- url     : https://prove2.me/theorems/c987dafc-65d1-41f3-9bdd-9642cec463a9

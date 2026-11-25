@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Lifting_kolmogorovNumber_le_approx
 -- name    : SNumbers.Lifting.kolmogorovNumber_le_approx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:54:25.583526+00:00
 -- url     : https://prove2.me/theorems/003478fe-1788-47cf-b44c-f690de9ea8a8

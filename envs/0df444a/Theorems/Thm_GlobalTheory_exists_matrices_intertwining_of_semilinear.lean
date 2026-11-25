@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_matrices_intertwining_of_semilinear
 -- name    : GlobalTheory.exists_matrices_intertwining_of_semilinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:02.276266+00:00
 -- url     : https://prove2.me/theorems/9dd708af-9bc3-58b6-81cd-0a6478a7756a

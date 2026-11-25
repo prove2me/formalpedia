@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCard_exists_chi
 -- name    : GlobalTheory.TorsionCard.exists_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:54:28.390835+00:00
 -- url     : https://prove2.me/theorems/fa21e1b2-ecba-4649-b2ac-d7e83ed9fe53

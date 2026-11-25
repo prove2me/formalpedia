@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_continuous_integral_psi
 -- name    : Formalism.FourierDecayAlt.P.PBK.continuous_integral_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:51:27.884023+00:00
 -- url     : https://prove2.me/theorems/cac89ad5-b79d-54b5-8407-b0c74c3a458d

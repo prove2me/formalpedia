@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isSmoothDivisor_top
 -- name    : FunctorialResolution.EmbeddedResolution.isSmoothDivisor_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:58:26.118796+00:00
 -- url     : https://prove2.me/theorems/dd849695-3a6e-41b3-a20d-9290c4252601

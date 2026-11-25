@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_dvec_of_inW
 -- name    : CompanionTheory.D.Upq.QuotSetU.dvec_of_inW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:42:09.640567+00:00
 -- url     : https://prove2.me/theorems/89058ab4-deab-54bf-b6d9-469c459f29b6

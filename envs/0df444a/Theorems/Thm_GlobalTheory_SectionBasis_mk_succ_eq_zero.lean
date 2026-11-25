@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_mk_succ_eq_zero
 -- name    : GlobalTheory.SectionBasis.mk_succ_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:51:23.889327+00:00
 -- url     : https://prove2.me/theorems/1a5b4890-cd86-5f55-a3f9-2fc9f6ee6f76

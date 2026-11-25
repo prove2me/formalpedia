@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_UJset_allPos
 -- name    : GlobalTheory.KTypeCompare.UJset_allPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:10.122871+00:00
 -- url     : https://prove2.me/theorems/b396230f-b58b-4001-9e4b-d4c2d1ea9625

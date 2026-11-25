@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_JetSer_IntTrans_constantCoeff_map_eq_zero__741a16259184
 -- name    : P2M_GlobalTheory_JetSer_IntTrans_constantCoeff_map_eq_zero__741a16259184
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:07:27.93384+00:00
 -- url     : https://prove2.me/theorems/3b9a547c-8638-456b-a1d4-67c8d0599caa

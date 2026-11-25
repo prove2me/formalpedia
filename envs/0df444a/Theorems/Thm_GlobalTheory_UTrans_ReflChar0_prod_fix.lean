@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_ReflChar0_prod_fix
 -- name    : GlobalTheory.UTrans.ReflChar0.prod_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:58:16.412686+00:00
 -- url     : https://prove2.me/theorems/5b8b7798-cb5a-42d7-999b-0b157b3a9805

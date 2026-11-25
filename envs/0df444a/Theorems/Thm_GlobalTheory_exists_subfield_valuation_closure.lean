@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_subfield_valuation_closure
 -- name    : GlobalTheory.exists_subfield_valuation_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:54:50.678098+00:00
 -- url     : https://prove2.me/theorems/1b597381-f3ec-5e52-aa1e-2636e0e58224

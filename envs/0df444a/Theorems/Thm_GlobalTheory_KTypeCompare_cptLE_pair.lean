@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_cptLE_pair
 -- name    : GlobalTheory.KTypeCompare.cptLE_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:24.750655+00:00
 -- url     : https://prove2.me/theorems/7a711799-9655-400d-88b4-b1f6b0c53699

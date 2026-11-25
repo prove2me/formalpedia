@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_PretorsionTheory_isImageClosed_middle
 -- name    : PretorsionImageClosed.Statement.PretorsionTheory.isImageClosed_middle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:06:59.999507+00:00
 -- url     : https://prove2.me/theorems/185f2c6d-392f-41e8-bce7-2fcf05a02ca2

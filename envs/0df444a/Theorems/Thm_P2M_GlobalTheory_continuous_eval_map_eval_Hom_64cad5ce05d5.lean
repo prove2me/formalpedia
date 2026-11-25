@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_continuous_eval_map_eval_Hom_64cad5ce05d5
 -- name    : P2M_GlobalTheory_continuous_eval_map_eval_Hom_64cad5ce05d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:12:53.528338+00:00
 -- url     : https://prove2.me/theorems/9fa5c5e0-89fe-4a2a-9b4b-0e24455e7a3c

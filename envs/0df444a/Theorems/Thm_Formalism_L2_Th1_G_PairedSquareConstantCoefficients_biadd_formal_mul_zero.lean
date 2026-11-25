@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_PairedSquareConstantCoefficients_biadd_formal_mul_zero
 -- name    : Formalism.L2.Th1.G.PairedSquareConstantCoefficients.biadd_formal_mul_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:59:01.894443+00:00
 -- url     : https://prove2.me/theorems/59ed1740-dc35-5805-9929-bb1fb454b051

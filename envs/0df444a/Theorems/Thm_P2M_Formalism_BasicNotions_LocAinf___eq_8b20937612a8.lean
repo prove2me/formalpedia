@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_LocAinf___eq_8b20937612a8
 -- name    : P2M_Formalism_BasicNotions_LocAinf___eq_8b20937612a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:05:29.530095+00:00
 -- url     : https://prove2.me/theorems/b8c1d490-49d2-4221-94aa-714a7a1976e2

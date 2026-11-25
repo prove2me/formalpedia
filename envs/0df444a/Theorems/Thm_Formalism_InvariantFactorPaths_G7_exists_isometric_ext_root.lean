@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_exists_isometric_ext_root
 -- name    : Formalism.InvariantFactorPaths.G7.exists_isometric_ext_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:24:54.574004+00:00
 -- url     : https://prove2.me/theorems/8af21813-5a35-5629-9622-75221ec0c7c0

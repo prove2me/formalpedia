@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HWL_exists_of_layers
 -- name    : GlobalTheory.HWL.exists_of_layers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:52:33.786853+00:00
 -- url     : https://prove2.me/theorems/67c2b311-e073-4ef5-9b32-67d9041e6668

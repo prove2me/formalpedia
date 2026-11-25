@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_Lat_coeff
 -- name    : GlobalTheory.NL.Model.Lat_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:46:45.461014+00:00
 -- url     : https://prove2.me/theorems/0322ca5a-06b6-4897-af43-f93b5338ff7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cocycle_tensor_coboundary_class_zero
 -- name    : GlobalTheory.T.cocycle_tensor_coboundary_class_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:27:45.713036+00:00
 -- url     : https://prove2.me/theorems/7dc7aaac-358f-4d4c-aa2c-1ecd9f2a7d8b

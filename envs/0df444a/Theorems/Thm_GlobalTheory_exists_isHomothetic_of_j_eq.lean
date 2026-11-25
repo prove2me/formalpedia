@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_isHomothetic_of_j_eq
 -- name    : GlobalTheory.exists_isHomothetic_of_j_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:33:20.635873+00:00
 -- url     : https://prove2.me/theorems/da9e9264-566a-4362-b75e-1ff71da7ac51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shiftMu
 -- name    : Formalism.DivisionValues.shiftMu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:46:32.723833+00:00
 -- url     : https://prove2.me/theorems/c9f7b998-f877-4d38-bd1e-4226d2967ae0

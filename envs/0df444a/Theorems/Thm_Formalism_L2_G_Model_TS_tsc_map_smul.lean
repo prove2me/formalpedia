@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_tsc_map_smul
 -- name    : Formalism.L2.G.Model.TS.tsc_map_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:40:21.339814+00:00
 -- url     : https://prove2.me/theorems/99dc68f6-d408-5c90-a5c2-ec87405cb192

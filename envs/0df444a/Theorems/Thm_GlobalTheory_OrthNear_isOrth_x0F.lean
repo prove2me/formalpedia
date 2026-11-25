@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrthNear_isOrth_x0F
 -- name    : GlobalTheory.OrthNear.isOrth_x0F
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:21.52909+00:00
 -- url     : https://prove2.me/theorems/1208a7c4-5948-407b-b9d5-1a2a9a713c17

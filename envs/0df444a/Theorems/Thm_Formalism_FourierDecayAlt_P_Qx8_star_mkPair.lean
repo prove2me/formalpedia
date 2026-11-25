@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_star_mkPair
 -- name    : Formalism.FourierDecayAlt.P.Qx8.star_mkPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:39:22.038443+00:00
 -- url     : https://prove2.me/theorems/30f3fcd6-74d1-5980-90f3-31eea22dd541

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCocycle_exists_local_tensor
 -- name    : GlobalTheory.UnitCocycle.exists_local_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:25:40.208975+00:00
 -- url     : https://prove2.me/theorems/520e94ea-1a15-4c92-97ce-2471f1367d22

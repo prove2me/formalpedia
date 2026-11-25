@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_covolume_free_module
 -- name    : Formalism.LFunctionChainParameters.LLcv.covolume_free_module
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:35.865019+00:00
 -- url     : https://prove2.me/theorems/56298179-82b0-4877-a68f-74b480868e00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_joined_iff
 -- name    : GlobalTheory.CompareIterDegree.joined_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:57:40.663022+00:00
 -- url     : https://prove2.me/theorems/cfe6f744-d934-4b02-b658-46574eea252c

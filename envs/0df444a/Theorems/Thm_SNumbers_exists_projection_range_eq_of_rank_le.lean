@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_projection_range_eq_of_rank_le
 -- name    : SNumbers.exists_projection_range_eq_of_rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:24:35.353231+00:00
 -- url     : https://prove2.me/theorems/85807509-3116-42a6-acd5-f710082ba827

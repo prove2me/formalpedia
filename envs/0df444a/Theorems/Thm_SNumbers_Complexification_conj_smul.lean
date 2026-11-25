@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Complexification_conj_smul
 -- name    : SNumbers.Complexification.conj_smul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:02:50.226899+00:00
 -- url     : https://prove2.me/theorems/314e507a-ee9a-4362-9e10-80504968795c

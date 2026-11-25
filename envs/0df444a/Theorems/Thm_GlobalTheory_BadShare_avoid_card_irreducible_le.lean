@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_avoid_card_irreducible_le
 -- name    : GlobalTheory.BadShare.avoid_card_irreducible_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:48:07.478781+00:00
 -- url     : https://prove2.me/theorems/0d3cc08d-6d0a-4e8c-b71c-3337b9df638b

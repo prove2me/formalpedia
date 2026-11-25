@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_VandermondePolynomialIntegral_coeff_of_values
 -- name    : Formalism.FourierDecayAlt.P.VandermondePolynomialIntegral.coeff_of_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:52:18.665398+00:00
 -- url     : https://prove2.me/theorems/a902bc24-6d92-5e53-b246-657d3e2baf2a

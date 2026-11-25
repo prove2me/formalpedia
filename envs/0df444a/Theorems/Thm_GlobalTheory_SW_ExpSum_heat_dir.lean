@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ExpSum_heat_dir
 -- name    : GlobalTheory.SW.ExpSum.heat_dir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:39:19.960108+00:00
 -- url     : https://prove2.me/theorems/b369162b-f068-4fc4-95ff-847a3e6540c8

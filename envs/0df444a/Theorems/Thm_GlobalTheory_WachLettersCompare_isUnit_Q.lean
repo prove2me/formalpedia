@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WachLettersCompare_isUnit_Q
 -- name    : GlobalTheory.WachLettersCompare.isUnit_Q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:53:33.444073+00:00
 -- url     : https://prove2.me/theorems/a67e0eeb-42f4-5d8e-88ab-1865ba9a995e

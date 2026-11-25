@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_update_mem_OmX
 -- name    : Formalism.FourierDecayAlt.P5.update_mem_OmX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:53:49.181197+00:00
 -- url     : https://prove2.me/theorems/b03c60e0-b613-5a61-bb58-a0ffad542dd9

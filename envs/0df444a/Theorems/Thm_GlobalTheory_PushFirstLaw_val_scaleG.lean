@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushFirstLaw_val_scaleG
 -- name    : GlobalTheory.PushFirstLaw.val_scaleG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:51:03.231262+00:00
 -- url     : https://prove2.me/theorems/688a2fa8-6add-59fe-943d-db4f8d284fe6

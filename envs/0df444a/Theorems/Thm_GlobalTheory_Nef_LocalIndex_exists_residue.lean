@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_LocalIndex_exists_residue
 -- name    : GlobalTheory.Nef.LocalIndex.exists_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:47:03.674172+00:00
 -- url     : https://prove2.me/theorems/c4fb8e1a-3f1d-570f-b4eb-a18f6ae5a4c6

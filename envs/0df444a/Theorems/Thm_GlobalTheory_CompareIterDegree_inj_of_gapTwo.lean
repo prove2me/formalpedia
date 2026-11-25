@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_inj_of_gapTwo
 -- name    : GlobalTheory.CompareIterDegree.inj_of_gapTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:00:44.892797+00:00
 -- url     : https://prove2.me/theorems/6168dcb6-0dfd-5235-b969-1add352154ad

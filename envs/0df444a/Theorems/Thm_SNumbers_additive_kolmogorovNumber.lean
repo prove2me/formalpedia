@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_additive_kolmogorovNumber
 -- name    : SNumbers.additive_kolmogorovNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:01:16.162984+00:00
 -- url     : https://prove2.me/theorems/99351bf0-4452-4d2d-a7e7-f185a3c2d40d

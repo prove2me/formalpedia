@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_monicSquarefreeUnitConstPolys_iff_monic_squarefree
 -- name    : GlobalTheory.T.mem_monicSquarefreeUnitConstPolys_iff_monic_squarefree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:52:04.268999+00:00
 -- url     : https://prove2.me/theorems/10fc0b0d-4a80-5618-8814-d0b45436b0ae

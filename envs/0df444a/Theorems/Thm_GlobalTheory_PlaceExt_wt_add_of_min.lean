@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceExt_wt_add_of_min
 -- name    : GlobalTheory.PlaceExt.wt_add_of_min
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:52:33.745535+00:00
 -- url     : https://prove2.me/theorems/151c98fd-5d18-4c21-9883-7da4202fe1e1

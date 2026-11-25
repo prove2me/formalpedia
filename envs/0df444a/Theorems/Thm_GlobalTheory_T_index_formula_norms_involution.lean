@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_index_formula_norms_involution
 -- name    : GlobalTheory.T.index_formula_norms_involution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:46:48.46035+00:00
 -- url     : https://prove2.me/theorems/8b81a9f1-4278-4ae1-b3ca-ff4d24ded98c

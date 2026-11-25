@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_acyclic_iff_quasiIso_faceMap
 -- name    : GlobalTheory.cubeComplex_acyclic_iff_quasiIso_faceMap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:51:19.925003+00:00
 -- url     : https://prove2.me/theorems/cb58e13d-14ab-4c66-a33e-814f760fbd40

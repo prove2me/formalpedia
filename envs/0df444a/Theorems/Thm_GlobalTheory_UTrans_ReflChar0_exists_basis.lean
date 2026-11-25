@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_ReflChar0_exists_basis
 -- name    : GlobalTheory.UTrans.ReflChar0.exists_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:57:42.713022+00:00
 -- url     : https://prove2.me/theorems/26d29671-85f6-57c2-8bc7-126e9dc569fd

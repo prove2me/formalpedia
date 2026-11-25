@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_collection_family_slope_gap
 -- name    : Formalism.LFunctionChainParameters.LChain2.collection_family_slope_gap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:42:06.148628+00:00
 -- url     : https://prove2.me/theorems/1e3404a3-8ae5-4d3d-93a8-5ec39a5370e0

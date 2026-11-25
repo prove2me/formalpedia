@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_levelPrime
 -- name    : Formalism.LFunctionChainParameters.LChain2.levelPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:09:00.797805+00:00
 -- url     : https://prove2.me/theorems/34e2cd65-df2a-5401-bc9b-0209f172844f

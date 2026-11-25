@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Parab_trans_parabolic
 -- name    : GlobalTheory.SW.Parab.trans_parabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:43:51.688218+00:00
 -- url     : https://prove2.me/theorems/0245a074-8968-4cde-884e-572fcf07e0ee

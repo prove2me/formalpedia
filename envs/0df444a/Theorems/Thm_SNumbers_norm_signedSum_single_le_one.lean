@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_signedSum_single_le_one
 -- name    : SNumbers.norm_signedSum_single_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:25:41.025556+00:00
 -- url     : https://prove2.me/theorems/a4d4c15a-9edf-4b97-a719-ffcb5a9ccaf9

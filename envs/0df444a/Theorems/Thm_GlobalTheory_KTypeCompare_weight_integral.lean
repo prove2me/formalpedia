@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_weight_integral
 -- name    : GlobalTheory.KTypeCompare.weight_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:58:07.308252+00:00
 -- url     : https://prove2.me/theorems/07421ed5-69b6-4f30-9f24-48f6c7659ee7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameEntries_chYY_eval
 -- name    : Formalism.FourierDecayAlt.P.FrameEntries.chYY_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:44:23.876396+00:00
 -- url     : https://prove2.me/theorems/a5857f01-a44c-41f1-b7cc-254191711633

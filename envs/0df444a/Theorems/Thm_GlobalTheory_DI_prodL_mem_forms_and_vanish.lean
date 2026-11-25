@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_prodL_mem_forms_and_vanish
 -- name    : GlobalTheory.DI.prodL_mem_forms_and_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:36:51.8238+00:00
 -- url     : https://prove2.me/theorems/c4b09ba5-fbe6-4264-b9d5-dd7d081cd94d

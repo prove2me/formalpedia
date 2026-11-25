@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaFn_IsFnAt_isValueAt_of_isIso
 -- name    : GlobalTheory.ThetaFn.IsFnAt.isValueAt_of_isIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:04:53.277489+00:00
 -- url     : https://prove2.me/theorems/8e884d0f-39ed-4127-b4d7-a0005206239c

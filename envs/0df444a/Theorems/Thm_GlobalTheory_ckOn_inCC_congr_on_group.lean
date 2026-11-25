@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ckOn_inCC_congr_on_group
 -- name    : GlobalTheory.ckOn_inCC_congr_on_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:26.073963+00:00
 -- url     : https://prove2.me/theorems/cdeb83ce-cc22-5a3b-ab18-4123e51dc2cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagDomain_gram_mul
 -- name    : GlobalTheory.FlagDomain.gram_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:42:35.123954+00:00
 -- url     : https://prove2.me/theorems/362af77c-a6a6-4592-a4ac-abd4bf1155d8

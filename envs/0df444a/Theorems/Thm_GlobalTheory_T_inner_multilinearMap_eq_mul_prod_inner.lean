@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_inner_multilinearMap_eq_mul_prod_inner
 -- name    : GlobalTheory.T.inner_multilinearMap_eq_mul_prod_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:26:57.424194+00:00
 -- url     : https://prove2.me/theorems/fed4b9a8-9189-45a5-8d81-9d8bf6927b82

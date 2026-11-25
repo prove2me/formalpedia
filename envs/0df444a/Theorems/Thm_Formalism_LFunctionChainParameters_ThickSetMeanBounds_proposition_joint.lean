@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_ThickSetMeanBounds_proposition_joint
 -- name    : Formalism.LFunctionChainParameters.ThickSetMeanBounds.proposition_joint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T09:49:48.761565+00:00
 -- url     : https://prove2.me/theorems/3384f699-3766-481a-894e-babf199db8b8

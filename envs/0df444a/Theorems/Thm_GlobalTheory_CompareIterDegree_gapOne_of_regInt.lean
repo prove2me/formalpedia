@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_gapOne_of_regInt
 -- name    : GlobalTheory.CompareIterDegree.gapOne_of_regInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:00:22.216014+00:00
 -- url     : https://prove2.me/theorems/9b2e101c-d465-5492-a62b-197029315807

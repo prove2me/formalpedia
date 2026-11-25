@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_cor_L_div
 -- name    : Formalism.InvariantFactorPaths.INST.cor_L_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:01:10.587168+00:00
 -- url     : https://prove2.me/theorems/8a0f0fcb-e177-4417-9ae6-43bf8afe2727

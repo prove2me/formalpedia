@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_comb_eq
 -- name    : GlobalTheory.CompareIterDegree.comb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:58:26.225417+00:00
 -- url     : https://prove2.me/theorems/5e353b5a-0dc4-4a61-8b6b-f03aab949d89

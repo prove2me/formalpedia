@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Inh_nuLocC_eq_nuAlg
 -- name    : GlobalTheory.ChartCmp.Inh.nuLocC_eq_nuAlg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:48:28.29888+00:00
 -- url     : https://prove2.me/theorems/69d2b24e-a11a-4627-a0f9-a0668eafc959

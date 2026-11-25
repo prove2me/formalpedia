@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_integral_model
 -- name    : GlobalTheory.exists_integral_model
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:54:40.629347+00:00
 -- url     : https://prove2.me/theorems/5d92671d-bfee-42a3-b2ae-d29112e24930

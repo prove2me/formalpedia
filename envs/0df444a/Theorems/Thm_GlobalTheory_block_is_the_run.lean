@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_block_is_the_run
 -- name    : GlobalTheory.block_is_the_run
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:02.653069+00:00
 -- url     : https://prove2.me/theorems/1c94f82f-37ef-56e5-bb63-c058ba4d2363

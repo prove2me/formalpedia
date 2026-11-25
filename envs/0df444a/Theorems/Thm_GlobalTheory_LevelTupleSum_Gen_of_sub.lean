@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevelTupleSum_Gen_of_sub
 -- name    : GlobalTheory.LevelTupleSum.Gen.of_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:24:31.476294+00:00
 -- url     : https://prove2.me/theorems/3d0d7942-94d5-442c-b906-72cfe99271a9

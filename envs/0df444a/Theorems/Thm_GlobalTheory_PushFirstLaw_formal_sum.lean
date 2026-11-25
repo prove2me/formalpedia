@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushFirstLaw_formal_sum
 -- name    : GlobalTheory.PushFirstLaw.formal_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:51:37.431833+00:00
 -- url     : https://prove2.me/theorems/af124c33-4d51-5deb-adea-16e3d1806c24

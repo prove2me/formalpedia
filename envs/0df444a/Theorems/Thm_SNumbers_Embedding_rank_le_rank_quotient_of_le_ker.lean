@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_Embedding_rank_le_rank_quotient_of_le_ker
 -- name    : SNumbers.Embedding.rank_le_rank_quotient_of_le_ker
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:26:10.51393+00:00
 -- url     : https://prove2.me/theorems/c9ccd11b-1c91-4876-a7ae-1c3e95edf10a

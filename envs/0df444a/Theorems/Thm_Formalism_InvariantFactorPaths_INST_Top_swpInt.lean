@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_Top_swpInt
 -- name    : Formalism.InvariantFactorPaths.INST.Top.swpInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:43:29.535807+00:00
 -- url     : https://prove2.me/theorems/b31ec384-42e4-5d47-a3ab-b5a04c7d6140

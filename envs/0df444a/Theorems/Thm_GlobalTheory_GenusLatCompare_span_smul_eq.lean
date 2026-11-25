@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenusLatCompare_span_smul_eq
 -- name    : GlobalTheory.GenusLatCompare.span_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:02:41.61996+00:00
 -- url     : https://prove2.me/theorems/5d4aa0a7-9605-4a3a-8791-06b3fa2cf923

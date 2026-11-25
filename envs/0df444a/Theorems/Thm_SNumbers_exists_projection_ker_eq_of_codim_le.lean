@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_projection_ker_eq_of_codim_le
 -- name    : SNumbers.exists_projection_ker_eq_of_codim_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:24:38.153396+00:00
 -- url     : https://prove2.me/theorems/da421969-cc93-471d-aa5a-5b0de3d78597

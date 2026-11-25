@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_piLp_norm_le_card_rpow_mul
 -- name    : SNumbers.piLp_norm_le_card_rpow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:58:41.848044+00:00
 -- url     : https://prove2.me/theorems/68745681-b9d5-4863-8e43-cbf0a2f570cc

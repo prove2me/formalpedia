@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__four_wf0_f09ec81eba5b
 -- name    : P2M_Formalism_L2_Indef_Examples__four_wf0_f09ec81eba5b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:07:13.221905+00:00
 -- url     : https://prove2.me/theorems/6aa5cf41-15b6-47c1-b84f-9aa7dfb4f9c1

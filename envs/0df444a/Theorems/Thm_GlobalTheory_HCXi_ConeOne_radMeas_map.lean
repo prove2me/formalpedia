@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeOne_radMeas_map
 -- name    : GlobalTheory.HCXi.ConeOne.radMeas_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:54:52.399668+00:00
 -- url     : https://prove2.me/theorems/270d5485-799b-5757-873f-05b0930e8bc4

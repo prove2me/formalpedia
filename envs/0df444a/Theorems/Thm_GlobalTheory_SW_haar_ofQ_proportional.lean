@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_haar_ofQ_proportional
 -- name    : GlobalTheory.SW.haar_ofQ_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:17.697748+00:00
 -- url     : https://prove2.me/theorems/95913c8d-802d-4b31-b2c5-bc0db6ce619c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_multiplicative_kolmogorovNumber
 -- name    : SNumbers.multiplicative_kolmogorovNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:01:11.107922+00:00
 -- url     : https://prove2.me/theorems/bd2ecf95-56ee-48f2-930b-49083dd96baa

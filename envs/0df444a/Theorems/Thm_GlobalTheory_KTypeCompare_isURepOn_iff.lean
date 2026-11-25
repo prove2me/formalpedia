@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_isURepOn_iff
 -- name    : GlobalTheory.KTypeCompare.isURepOn_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:30.570561+00:00
 -- url     : https://prove2.me/theorems/8145a8b5-491f-4235-83cf-2d671b3e43d5

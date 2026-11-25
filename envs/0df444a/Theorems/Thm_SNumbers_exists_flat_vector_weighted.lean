@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_flat_vector_weighted
 -- name    : SNumbers.exists_flat_vector_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:51:26.642623+00:00
 -- url     : https://prove2.me/theorems/42689e95-9272-5ad2-bec2-665bf4f038e1

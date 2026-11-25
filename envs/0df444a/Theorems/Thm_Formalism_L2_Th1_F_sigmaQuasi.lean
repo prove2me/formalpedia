@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaQuasi
 -- name    : Formalism.L2.Th1.F.sigmaQuasi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:28.001787+00:00
 -- url     : https://prove2.me/theorems/d6a3e086-2c1c-40a7-8162-abae7771ed9e
