@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_hf_symm
 -- name    : GlobalTheory.HL.Model.hf_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:08:13.142451+00:00
 -- url     : https://prove2.me/theorems/e8da56ae-7f72-4d5e-af82-bf4cf0489dfb

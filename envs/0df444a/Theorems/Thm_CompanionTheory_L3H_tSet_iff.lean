@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_L3H_tSet_iff
 -- name    : CompanionTheory.L3H.tSet_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:55:41.888389+00:00
 -- url     : https://prove2.me/theorems/46c980a9-893e-5825-9977-bc29f2be643e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HypWedge_surj_step
 -- name    : GlobalTheory.CompanionTheory.HypWedge.surj_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:11.6803+00:00
 -- url     : https://prove2.me/theorems/050ba4ce-f6de-44f4-a1e3-312fbd0dc870

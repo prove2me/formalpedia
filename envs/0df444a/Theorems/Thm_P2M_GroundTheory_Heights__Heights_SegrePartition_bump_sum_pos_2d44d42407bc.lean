@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegrePartition_bump_sum_pos_2d44d42407bc
 -- name    : P2M_GroundTheory_Heights__Heights_SegrePartition_bump_sum_pos_2d44d42407bc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:55.11254+00:00
 -- url     : https://prove2.me/theorems/0924b56b-6ef8-4b3e-a163-04ba4e2dcb04

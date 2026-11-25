@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosJ_ist_ej
 -- name    : GlobalTheory.DegCnt.PosJ.ist_ej
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:54:18.722964+00:00
 -- url     : https://prove2.me/theorems/ce40c53e-78dc-443c-b555-0d1727021642

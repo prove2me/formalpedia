@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchWeightedPreimage_proof_7f6b9f8de5aa
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchWeightedPreimage_proof_7f6b9f8de5aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:01:05.725681+00:00
 -- url     : https://prove2.me/theorems/b8e8956f-c473-495c-be78-c5931ebdb9cf

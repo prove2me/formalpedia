@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_AdaptInv_x_eq
 -- name    : GlobalTheory.DegAsm.AdaptInv.x_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:02.175709+00:00
 -- url     : https://prove2.me/theorems/430579f8-53a6-5c92-9a7c-9dabb4f67c37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_kerMul
 -- name    : PositivityTheory.Rg.BcB.E1.kerMul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:24:29.891356+00:00
 -- url     : https://prove2.me/theorems/23103860-fc32-43e1-ab6f-e8a31d8ac00d

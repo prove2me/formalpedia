@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_unif_bound
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.unif_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:55:52.672434+00:00
 -- url     : https://prove2.me/theorems/0d8c68ce-5d8c-419c-ba9f-f0e133732252

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_trotter_product_formula
 -- name    : Formalism.FourierDecayAlt.P.trotter_product_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:37:51.039001+00:00
 -- url     : https://prove2.me/theorems/7094ba60-662e-5b1c-bfc4-8189efd9d301

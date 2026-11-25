@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_enorm_sq_eq
 -- name    : Formalism.L2.S.Pv.SchurTens.enorm_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:07:22.823949+00:00
 -- url     : https://prove2.me/theorems/b68c7f51-c113-409f-8960-8ce9b33096f9

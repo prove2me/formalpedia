@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesInt_isIntegral_of_quad
 -- name    : GlobalTheory.HL.PlacesInt.isIntegral_of_quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:09:14.109007+00:00
 -- url     : https://prove2.me/theorems/5e85a4fa-b453-4a36-b5d6-a2c1bfec0e6a

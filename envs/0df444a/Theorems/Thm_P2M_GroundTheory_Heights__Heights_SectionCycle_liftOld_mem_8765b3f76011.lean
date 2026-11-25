@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionCycle_liftOld_mem_8765b3f76011
 -- name    : P2M_GroundTheory_Heights__Heights_SectionCycle_liftOld_mem_8765b3f76011
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:15.711834+00:00
 -- url     : https://prove2.me/theorems/66cba2b1-d4b3-4a5d-853c-248edd649358

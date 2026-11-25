@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOff_proof_fa25535eea0a
 -- name    : P2M_GroundTheory_Heights__Heights_CutOff_proof_fa25535eea0a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:58:44.547967+00:00
 -- url     : https://prove2.me/theorems/56df145f-7b18-451f-b0a7-fe5f04ffea2f

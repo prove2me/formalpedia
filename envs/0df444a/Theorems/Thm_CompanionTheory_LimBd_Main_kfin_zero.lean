@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_kfin_zero
 -- name    : CompanionTheory.LimBd.Main.kfin_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:13:17.595255+00:00
 -- url     : https://prove2.me/theorems/1ab4f179-1fc1-5d10-baf2-80ebfa5311a4

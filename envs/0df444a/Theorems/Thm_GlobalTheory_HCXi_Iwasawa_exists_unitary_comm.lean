@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_Iwasawa_exists_unitary_comm
 -- name    : GlobalTheory.HCXi.Iwasawa.exists_unitary_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:32:42.061798+00:00
 -- url     : https://prove2.me/theorems/7a0f3e3b-874c-457a-845e-299c02f3b4eb

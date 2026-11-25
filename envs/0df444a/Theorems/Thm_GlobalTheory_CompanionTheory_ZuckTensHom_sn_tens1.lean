@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckTensHom_sn_tens1
 -- name    : GlobalTheory.CompanionTheory.ZuckTensHom.sn_tens1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:02:12.166578+00:00
 -- url     : https://prove2.me/theorems/15ae6925-ac22-48b3-b6d2-7747bf1849f6

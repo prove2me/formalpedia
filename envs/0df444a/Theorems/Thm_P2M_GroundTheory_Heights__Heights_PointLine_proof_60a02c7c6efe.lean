@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointLine_proof_60a02c7c6efe
 -- name    : P2M_GroundTheory_Heights__Heights_PointLine_proof_60a02c7c6efe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:56.997799+00:00
 -- url     : https://prove2.me/theorems/a85cbb1d-ff3e-4ef1-9c88-74bc870a8bbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DatumStab_complementGroup_fixes_frameSpan
 -- name    : GlobalTheory.HL.DatumStab.complementGroup_fixes_frameSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:09:15.34636+00:00
 -- url     : https://prove2.me/theorems/dd8cdf74-782d-4e43-a62f-22ad641728c3

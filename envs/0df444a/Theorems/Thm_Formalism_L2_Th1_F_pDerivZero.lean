@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_pDerivZero
 -- name    : Formalism.L2.Th1.F.pDerivZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:14.963793+00:00
 -- url     : https://prove2.me/theorems/f34c9653-6ec9-492d-9a77-3770b6f05e8c

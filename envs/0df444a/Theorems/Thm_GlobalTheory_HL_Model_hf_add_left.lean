@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_hf_add_left
 -- name    : GlobalTheory.HL.Model.hf_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:10:05.424181+00:00
 -- url     : https://prove2.me/theorems/4242698f-c0b2-5754-bd4b-0188d83ad167

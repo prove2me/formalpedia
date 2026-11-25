@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_invApply_of_mem_vecFixGroup_0d425fc8bfb2
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_invApply_of_mem_vecFixGroup_0d425fc8bfb2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:37:24.37288+00:00
 -- url     : https://prove2.me/theorems/e11d0255-f3ec-458f-8259-79de011ff043

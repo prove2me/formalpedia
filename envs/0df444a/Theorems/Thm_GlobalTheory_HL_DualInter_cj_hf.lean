@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DualInter_cj_hf
 -- name    : GlobalTheory.HL.DualInter.cj_hf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:06:27.518684+00:00
 -- url     : https://prove2.me/theorems/759b3427-3360-508a-b86d-183fa40a17f1

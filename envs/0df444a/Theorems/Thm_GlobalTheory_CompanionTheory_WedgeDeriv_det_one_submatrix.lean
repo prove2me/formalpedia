@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeDeriv_det_one_submatrix
 -- name    : GlobalTheory.CompanionTheory.WedgeDeriv.det_one_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:26:02.315053+00:00
 -- url     : https://prove2.me/theorems/ab0fcaba-b2de-4973-9d3c-d6b062725088

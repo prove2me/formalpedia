@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_mass_not_hasPrimeFactor_le
 -- name    : GlobalTheory.BadShare.mass_not_hasPrimeFactor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:46:16.684468+00:00
 -- url     : https://prove2.me/theorems/8e5264ee-5509-5233-84cd-22a6500153c9

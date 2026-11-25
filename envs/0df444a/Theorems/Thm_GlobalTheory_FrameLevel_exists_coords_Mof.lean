@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameLevel_exists_coords_Mof
 -- name    : GlobalTheory.FrameLevel.exists_coords_Mof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:14:26.4276+00:00
 -- url     : https://prove2.me/theorems/34d483c1-9bb8-4dd0-b2ac-76bcae841439

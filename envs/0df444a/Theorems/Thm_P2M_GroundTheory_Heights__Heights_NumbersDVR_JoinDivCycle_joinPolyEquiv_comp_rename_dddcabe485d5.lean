@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinDivCycle_joinPolyEquiv_comp_rename_dddcabe485d5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinDivCycle_joinPolyEquiv_comp_rename_dddcabe485d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:55:21.936597+00:00
 -- url     : https://prove2.me/theorems/4f778894-6283-48d7-ab0b-9b1a4a200e65

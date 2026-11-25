@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_JFxI_ckOn_RdV__1ba0d0d897b8
 -- name    : P2M_Formalism_FourierDecayAlt_P_JFxI_ckOn_RdV__1ba0d0d897b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:09:32.230957+00:00
 -- url     : https://prove2.me/theorems/543b05aa-a5d2-59de-9327-ee21f48d2753

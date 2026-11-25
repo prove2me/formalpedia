@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_one_lt_absNorm
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.one_lt_absNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:02:08.969608+00:00
 -- url     : https://prove2.me/theorems/09d148fa-7d59-5eb9-bb98-b8fbb3ce4ff9

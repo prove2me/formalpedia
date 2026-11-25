@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CongFin_exists_pow_smul_mem
 -- name    : GlobalTheory.HL.CongFin.exists_pow_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:08:24.2608+00:00
 -- url     : https://prove2.me/theorems/62465520-f92a-4ccd-b4fa-a76924a9f0f4

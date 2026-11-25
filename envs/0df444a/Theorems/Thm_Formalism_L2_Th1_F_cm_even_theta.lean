@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_cm_even_theta
 -- name    : Formalism.L2.Th1.F.cm_even_theta
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:58:33.100597+00:00
 -- url     : https://prove2.me/theorems/d2123ff4-2896-488f-95c0-9b3fe4fdab69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_inner_sand
 -- name    : Formalism.L2.S.Pv.EnergyAbs.inner_sand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:07:56.610909+00:00
 -- url     : https://prove2.me/theorems/55acdc85-e2fb-4ad5-8357-26d2fe818ef5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_map_mem_minimalPrimes_iff_08aaf3425488
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_map_mem_minimalPrimes_iff_08aaf3425488
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:27:11.104627+00:00
 -- url     : https://prove2.me/theorems/d6cbd588-8d8b-52a8-95c5-96505efac248

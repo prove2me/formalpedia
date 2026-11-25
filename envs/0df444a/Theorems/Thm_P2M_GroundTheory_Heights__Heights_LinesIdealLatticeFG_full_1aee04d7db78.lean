@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesIdealLatticeFG_full_1aee04d7db78
 -- name    : P2M_GroundTheory_Heights__Heights_LinesIdealLatticeFG_full_1aee04d7db78
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:39.521092+00:00
 -- url     : https://prove2.me/theorems/df1a170e-11e9-49a9-afea-b82484fa48d8

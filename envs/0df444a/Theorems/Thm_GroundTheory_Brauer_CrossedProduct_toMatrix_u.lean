@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_toMatrix_u
 -- name    : GroundTheory.Brauer.CrossedProduct.toMatrix_u
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:08:38.161686+00:00
 -- url     : https://prove2.me/theorems/1bd4a3f6-9732-5e9b-9c00-2472880361df

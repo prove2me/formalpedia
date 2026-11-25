@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_fibReps
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_fibReps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:40.213565+00:00
 -- url     : https://prove2.me/theorems/2ef447bd-8742-5f63-bf36-947080f9d8d3

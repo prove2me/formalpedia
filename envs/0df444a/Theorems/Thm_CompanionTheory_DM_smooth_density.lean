@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_DM_smooth_density
 -- name    : CompanionTheory.DM.smooth_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:13:13.224706+00:00
 -- url     : https://prove2.me/theorems/655ce45d-dab2-49da-a7ea-881272d1bbad

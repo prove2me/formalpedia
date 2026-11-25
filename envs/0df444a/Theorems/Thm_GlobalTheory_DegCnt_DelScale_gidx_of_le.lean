@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_DelScale_gidx_of_le
 -- name    : GlobalTheory.DegCnt.DelScale.gidx_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:53:21.745815+00:00
 -- url     : https://prove2.me/theorems/f6542d59-cc1d-4850-9e42-c9dcded92875

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_MackeyCuspidal_pm_mem_parab
 -- name    : GlobalTheory.CompanionTheory.TyFin.MackeyCuspidal.pm_mem_parab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:33:03.152866+00:00
 -- url     : https://prove2.me/theorems/f5a898db-a16d-4e47-81e3-7ba831857039

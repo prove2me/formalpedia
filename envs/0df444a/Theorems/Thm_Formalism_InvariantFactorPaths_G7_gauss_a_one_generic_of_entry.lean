@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_gauss_a_one_generic_of_entry
 -- name    : Formalism.InvariantFactorPaths.G7.gauss_a_one_generic_of_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:25:06.884722+00:00
 -- url     : https://prove2.me/theorems/37d8ac88-044c-54e2-a071-a8e5c614f389

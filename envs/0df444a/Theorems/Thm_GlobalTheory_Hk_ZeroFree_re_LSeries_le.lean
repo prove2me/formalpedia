@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_ZeroFree_re_LSeries_le
 -- name    : GlobalTheory.Hk.ZeroFree.re_LSeries_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:36:36.655804+00:00
 -- url     : https://prove2.me/theorems/36d6823a-7bc9-4575-9834-e0671b77e349

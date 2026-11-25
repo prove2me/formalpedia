@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_FibreCut_proof_03cffe778f86
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_FibreCut_proof_03cffe778f86
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:02:05.867107+00:00
 -- url     : https://prove2.me/theorems/32cf182c-bf3f-4034-bb32-4bffb398e900

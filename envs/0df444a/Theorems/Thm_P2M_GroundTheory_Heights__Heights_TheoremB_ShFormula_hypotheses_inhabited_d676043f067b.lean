@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_ShFormula_hypotheses_inhabited_d676043f067b
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_ShFormula_hypotheses_inhabited_d676043f067b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:17.40835+00:00
 -- url     : https://prove2.me/theorems/8a4215de-7aa4-4a3f-8683-ec55939103ae

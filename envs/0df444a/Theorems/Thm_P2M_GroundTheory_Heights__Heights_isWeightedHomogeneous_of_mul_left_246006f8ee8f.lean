@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isWeightedHomogeneous_of_mul_left_246006f8ee8f
 -- name    : P2M_GroundTheory_Heights__Heights_isWeightedHomogeneous_of_mul_left_246006f8ee8f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:54.094908+00:00
 -- url     : https://prove2.me/theorems/556a0267-593c-46bb-a143-69363e0c6d7f

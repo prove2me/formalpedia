@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_ze_partial
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.ze_partial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:27:28.73644+00:00
 -- url     : https://prove2.me/theorems/d077a2e0-198a-49a1-82c4-1fe6adc63dfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_fol_rep_norm
 -- name    : Formalism.L2.S.Pv.EnergyAbs.fol_rep_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:09:31.26717+00:00
 -- url     : https://prove2.me/theorems/144bcbf6-826c-4711-9527-137fc31dd140

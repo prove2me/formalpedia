@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_DatCount_GenBy_trans
 -- name    : GlobalTheory.DegCnt.DatCount.GenBy.trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:00:05.725076+00:00
 -- url     : https://prove2.me/theorems/d1ac494b-cb1f-43b4-8a50-ac75b27c1aa8

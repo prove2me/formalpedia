@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FixDisc_exists_rat_basis
 -- name    : GlobalTheory.DegCnt.FixDisc.exists_rat_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:15:25.081501+00:00
 -- url     : https://prove2.me/theorems/3fc87438-dcab-5e33-98f3-afbee8e4e64a

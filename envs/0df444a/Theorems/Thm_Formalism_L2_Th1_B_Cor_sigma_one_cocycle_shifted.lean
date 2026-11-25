@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Cor_sigma_one_cocycle_shifted
 -- name    : Formalism.L2.Th1.B.Cor.sigma_one_cocycle_shifted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:27:49.406295+00:00
 -- url     : https://prove2.me/theorems/8981cc28-ca4d-4388-85ce-5aa70aa2280d

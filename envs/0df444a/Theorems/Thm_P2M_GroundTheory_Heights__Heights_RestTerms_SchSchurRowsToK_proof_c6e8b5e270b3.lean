@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchSchurRowsToK_proof_c6e8b5e270b3
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchSchurRowsToK_proof_c6e8b5e270b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:01:15.192427+00:00
 -- url     : https://prove2.me/theorems/0f713d90-77fe-4c9e-85ea-490afb709b4d

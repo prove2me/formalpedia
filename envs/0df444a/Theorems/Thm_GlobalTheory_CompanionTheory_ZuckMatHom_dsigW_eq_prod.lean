@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckMatHom_dsigW_eq_prod
 -- name    : GlobalTheory.CompanionTheory.ZuckMatHom.dsigW_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:31:20.183552+00:00
 -- url     : https://prove2.me/theorems/c08ca805-7bbc-5ed6-a421-a3c9bbc5ba7b

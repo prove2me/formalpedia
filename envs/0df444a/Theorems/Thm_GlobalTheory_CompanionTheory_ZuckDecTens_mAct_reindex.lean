@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckDecTens_mAct_reindex
 -- name    : GlobalTheory.CompanionTheory.ZuckDecTens.mAct_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:07:44.395523+00:00
 -- url     : https://prove2.me/theorems/114099eb-493b-4b98-8b47-70080aab4515

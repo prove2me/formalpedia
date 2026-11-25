@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealResProd_val_unit
 -- name    : GlobalTheory.IdealResProd.val_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:09:10.542248+00:00
 -- url     : https://prove2.me/theorems/9bf9a36f-7427-4cc9-8050-dcea08751b0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_cofVecAdjugate
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.cofVecAdjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:48:23.648274+00:00
 -- url     : https://prove2.me/theorems/c554d486-2f46-4e79-99a5-017d2bf17bf9

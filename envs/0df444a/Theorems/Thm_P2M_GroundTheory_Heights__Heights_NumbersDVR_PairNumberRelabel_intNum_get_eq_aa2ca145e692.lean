@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_intNum_get_eq_aa2ca145e692
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_intNum_get_eq_aa2ca145e692
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:02:25.766424+00:00
 -- url     : https://prove2.me/theorems/0bce5bb6-4da8-416a-a3e6-0698cedb7239

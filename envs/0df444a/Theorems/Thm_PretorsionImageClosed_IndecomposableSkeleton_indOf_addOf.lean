@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_indOf_addOf
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.indOf_addOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:07:00.061631+00:00
 -- url     : https://prove2.me/theorems/01bcf0b4-6e3b-52b4-b778-d5edb7439f15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q2_ntwo
 -- name    : Formalism.L2.Th1.A.Q2.ntwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:58:08.500316+00:00
 -- url     : https://prove2.me/theorems/37ded1f6-69c7-59fc-9133-a95f8cd528ad

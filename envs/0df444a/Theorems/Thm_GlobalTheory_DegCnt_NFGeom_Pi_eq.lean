@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NFGeom_Pi_eq
 -- name    : GlobalTheory.DegCnt.NFGeom.Pi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:44:55.613571+00:00
 -- url     : https://prove2.me/theorems/6a2e89a4-82b4-477f-9244-464563081565

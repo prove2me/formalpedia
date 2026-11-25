@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_eventually_rate_cocompact
 -- name    : Formalism.FourierDecayAlt.P.PBK.eventually_rate_cocompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:01:35.228896+00:00
 -- url     : https://prove2.me/theorems/662ce0a9-5cce-40fb-925f-6a08743b2f39

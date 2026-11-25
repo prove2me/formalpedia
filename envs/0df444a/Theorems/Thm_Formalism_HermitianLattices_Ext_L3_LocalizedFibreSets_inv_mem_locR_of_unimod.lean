@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_inv_mem_locR_of_unimod
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.inv_mem_locR_of_unimod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:47:26.366132+00:00
 -- url     : https://prove2.me/theorems/91eaa681-ce94-4012-aa04-a1865b680b65

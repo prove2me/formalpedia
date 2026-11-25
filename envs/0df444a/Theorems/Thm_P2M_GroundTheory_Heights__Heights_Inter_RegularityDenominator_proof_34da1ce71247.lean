@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityDenominator_proof_34da1ce71247
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityDenominator_proof_34da1ce71247
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:07:40.418656+00:00
 -- url     : https://prove2.me/theorems/d440aca3-ca98-4be7-b0ac-1e310eb5447d

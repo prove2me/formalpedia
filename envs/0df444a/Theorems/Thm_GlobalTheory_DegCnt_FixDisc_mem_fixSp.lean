@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FixDisc_mem_fixSp
 -- name    : GlobalTheory.DegCnt.FixDisc.mem_fixSp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:08:11.486623+00:00
 -- url     : https://prove2.me/theorems/a514fda0-042f-5fe1-b0ee-5cce7c48e4fb

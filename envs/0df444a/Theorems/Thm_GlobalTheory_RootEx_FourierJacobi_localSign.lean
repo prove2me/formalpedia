@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_FourierJacobi_localSign
 -- name    : GlobalTheory.RootEx.FourierJacobi.localSign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:41:30.146799+00:00
 -- url     : https://prove2.me/theorems/879e8c19-1847-4c58-a59c-5df770baada3

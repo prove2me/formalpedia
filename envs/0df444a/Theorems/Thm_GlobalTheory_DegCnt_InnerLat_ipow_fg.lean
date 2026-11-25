@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_InnerLat_ipow_fg
 -- name    : GlobalTheory.DegCnt.InnerLat.ipow_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:09:53.976825+00:00
 -- url     : https://prove2.me/theorems/3288c9cd-940a-562a-9e96-30e479dd82d9

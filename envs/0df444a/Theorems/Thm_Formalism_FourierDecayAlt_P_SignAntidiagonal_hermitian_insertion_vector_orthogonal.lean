@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_hermitian_insertion_vector_orthogonal
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.hermitian_insertion_vector_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:04:45.905919+00:00
 -- url     : https://prove2.me/theorems/d604234e-57a2-45fd-a7d2-45eef5c48d26

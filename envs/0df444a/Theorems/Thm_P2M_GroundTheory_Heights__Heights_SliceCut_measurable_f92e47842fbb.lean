@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceCut_measurable_f92e47842fbb
 -- name    : P2M_GroundTheory_Heights__Heights_SliceCut_measurable_f92e47842fbb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:46:04.426416+00:00
 -- url     : https://prove2.me/theorems/62650b2c-3f42-4ac1-948c-cefeeb769984

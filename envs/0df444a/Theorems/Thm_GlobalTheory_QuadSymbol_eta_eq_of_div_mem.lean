@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadSymbol_eta_eq_of_div_mem
 -- name    : GlobalTheory.QuadSymbol.eta_eq_of_div_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:35:05.206953+00:00
 -- url     : https://prove2.me/theorems/98648954-e965-5a65-9d1f-74e25615b94c

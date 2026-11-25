@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesGramChange_full_dcb0a61411bd
 -- name    : P2M_GroundTheory_Heights__Heights_LinesGramChange_full_dcb0a61411bd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:25:16.405869+00:00
 -- url     : https://prove2.me/theorems/aa15dc56-6140-4210-b804-a879409f0464

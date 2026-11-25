@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BoxSum_abs_prod_sub_le
 -- name    : Formalism.HermitianLattices.Ext.L3.BoxSum.abs_prod_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:04:33.016012+00:00
 -- url     : https://prove2.me/theorems/d69c55fa-e3ca-56c2-8946-292a30e8bbba

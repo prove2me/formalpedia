@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_AdaptInv_lead_eq
 -- name    : GlobalTheory.DegAsm.AdaptInv.lead_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:26:06.7966+00:00
 -- url     : https://prove2.me/theorems/8ec90cd0-33a6-5c1c-9e5a-e7018c0e238b

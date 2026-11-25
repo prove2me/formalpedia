@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_dep_unit_or_idem
 -- name    : GlobalTheory.GramCount.dep_unit_or_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:21:00.172891+00:00
 -- url     : https://prove2.me/theorems/5b280ebc-8240-5240-b064-cf9fbc2d2875

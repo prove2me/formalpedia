@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_coef_eq
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.coef_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:32:54.912292+00:00
 -- url     : https://prove2.me/theorems/a1608968-0825-413b-87e2-92651c9cb913

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCasSplit_mAct_apply
 -- name    : GlobalTheory.CompanionTheory.ZuckCasSplit.mAct_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:03:32.004911+00:00
 -- url     : https://prove2.me/theorems/ca28a370-7412-45a9-9fb1-ad0b97899db9

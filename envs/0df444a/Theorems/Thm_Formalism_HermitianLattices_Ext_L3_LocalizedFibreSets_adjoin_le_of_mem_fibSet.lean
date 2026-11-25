@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_adjoin_le_of_mem_fibSet
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.adjoin_le_of_mem_fibSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:22:50.458992+00:00
 -- url     : https://prove2.me/theorems/37402571-6903-4398-bc4b-765aa24e0387

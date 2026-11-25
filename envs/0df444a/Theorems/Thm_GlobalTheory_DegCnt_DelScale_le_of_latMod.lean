@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_DelScale_le_of_latMod
 -- name    : GlobalTheory.DegCnt.DelScale.le_of_latMod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:09.505436+00:00
 -- url     : https://prove2.me/theorems/1e1527bf-c865-451d-84a2-824559e8d33d

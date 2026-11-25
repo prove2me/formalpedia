@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FormalDegreeHaarQuotient_Hpk_row
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FormalDegreeHaarQuotient.Hpk_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:01:19.207802+00:00
 -- url     : https://prove2.me/theorems/8704be92-fd83-42ba-bde9-2688285a170f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_eq_zero_of_mass_charpoly_eq_zero
 -- name    : GlobalTheory.CuspGL.eq_zero_of_mass_charpoly_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:34:11.158082+00:00
 -- url     : https://prove2.me/theorems/432e4e91-3c36-4d69-86c0-a244d314e53e

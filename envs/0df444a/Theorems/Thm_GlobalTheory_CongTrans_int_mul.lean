@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongTrans_int_mul
 -- name    : GlobalTheory.CongTrans.int_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:08:38.794097+00:00
 -- url     : https://prove2.me/theorems/1762dcf2-447e-4dba-867c-41ec7a6df559

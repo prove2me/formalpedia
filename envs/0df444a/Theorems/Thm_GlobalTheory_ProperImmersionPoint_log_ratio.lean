@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_log_ratio
 -- name    : GlobalTheory.ProperImmersionPoint.log_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:51:04.724215+00:00
 -- url     : https://prove2.me/theorems/1c8a728a-0ba6-55c8-b1a8-7981bddeb50d

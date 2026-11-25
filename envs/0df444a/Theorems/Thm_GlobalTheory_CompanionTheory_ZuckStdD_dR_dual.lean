@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckStdD_dR_dual
 -- name    : GlobalTheory.CompanionTheory.ZuckStdD.dR_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:17.631229+00:00
 -- url     : https://prove2.me/theorems/6fe2c25f-31b1-4ccd-ae3f-7d9f82c1924f

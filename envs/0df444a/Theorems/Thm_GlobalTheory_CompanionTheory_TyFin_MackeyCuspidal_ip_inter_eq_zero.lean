@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_MackeyCuspidal_ip_inter_eq_zero
 -- name    : GlobalTheory.CompanionTheory.TyFin.MackeyCuspidal.ip_inter_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:32:05.353993+00:00
 -- url     : https://prove2.me/theorems/4b9b39d0-2129-4937-9a23-48b6a09d93fb

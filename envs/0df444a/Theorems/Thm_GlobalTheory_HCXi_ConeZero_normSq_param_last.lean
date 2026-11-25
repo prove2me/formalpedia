@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeZero_normSq_param_last
 -- name    : GlobalTheory.HCXi.ConeZero.normSq_param_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:29:33.375203+00:00
 -- url     : https://prove2.me/theorems/071c0915-7853-5612-9e53-d9815bb37ad0

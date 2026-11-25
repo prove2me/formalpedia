@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_WeierstrassCurveSeries_logPair
 -- name    : Formalism.L2.Th1.C.WeierstrassCurveSeries.logPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:26:54.674801+00:00
 -- url     : https://prove2.me/theorems/35ed2eb2-0055-5071-9425-31cf88644d32

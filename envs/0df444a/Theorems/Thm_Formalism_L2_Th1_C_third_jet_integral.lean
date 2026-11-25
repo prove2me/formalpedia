@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_third_jet_integral
 -- name    : Formalism.L2.Th1.C.third_jet_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:31:22.576421+00:00
 -- url     : https://prove2.me/theorems/239cd08e-c749-4516-92fe-c0b0a0ad2abb

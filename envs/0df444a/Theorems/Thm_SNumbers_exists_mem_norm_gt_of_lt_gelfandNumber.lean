@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_mem_norm_gt_of_lt_gelfandNumber
 -- name    : SNumbers.exists_mem_norm_gt_of_lt_gelfandNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:19:34.231275+00:00
 -- url     : https://prove2.me/theorems/07ba79b2-f52c-49ed-a34f-92dbf0804e9d

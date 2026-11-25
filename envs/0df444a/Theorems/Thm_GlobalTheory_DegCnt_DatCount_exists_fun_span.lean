@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_DatCount_exists_fun_span
 -- name    : GlobalTheory.DegCnt.DatCount.exists_fun_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:16:46.970846+00:00
 -- url     : https://prove2.me/theorems/80deb5df-95e5-5a00-9ab6-a7d70fff04c3

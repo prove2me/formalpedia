@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_TieLDB_isLocalizedModule
 -- name    : Formalism.L2.Pj.QAt.TieLDB.isLocalizedModule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:36:30.698948+00:00
 -- url     : https://prove2.me/theorems/d280ddd9-a7df-4a27-913a-5c50875f85f1

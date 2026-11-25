@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardModelDualRank_psi_injective_f732774ce2a5
 -- name    : P2M_GroundTheory_Heights__Heights_StandardModelDualRank_psi_injective_f732774ce2a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:40:36.454572+00:00
 -- url     : https://prove2.me/theorems/6a6d58db-17ca-4a6c-a00c-f26db851bf43

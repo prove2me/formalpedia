@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_linS_rowM_self
 -- name    : Formalism.L2.FormalSeriesBounds.linS_rowM_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:26:57.13952+00:00
 -- url     : https://prove2.me/theorems/94c017c2-c7ed-42d8-90fa-642a635d4a0f

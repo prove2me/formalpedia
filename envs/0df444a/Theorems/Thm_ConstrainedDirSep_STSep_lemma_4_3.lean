@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrainedDirSep_STSep_lemma_4_3
 -- name    : ConstrainedDirSep.STSep.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-10T14:05:58.198253+00:00
 -- url     : https://prove2.me/theorems/7a66264e-ba23-451a-9a16-b5b1d081007a

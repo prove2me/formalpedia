@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_exists_of_mem_smul
 -- name    : GlobalTheory.DegCnt.StabInv.exists_of_mem_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:30:13.943604+00:00
 -- url     : https://prove2.me/theorems/55096cb5-c7e9-528c-9230-9da1a12569a2

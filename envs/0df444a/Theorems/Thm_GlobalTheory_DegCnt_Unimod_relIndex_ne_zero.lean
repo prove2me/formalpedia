@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Unimod_relIndex_ne_zero
 -- name    : GlobalTheory.DegCnt.Unimod.relIndex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:26.360456+00:00
 -- url     : https://prove2.me/theorems/628a728b-46c0-40ab-88ec-7f8909b5f331

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_coeff_slice
 -- name    : GlobalTheory.OddBlock.ExpShift.coeff_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:06:22.787638+00:00
 -- url     : https://prove2.me/theorems/866db19b-7c40-5d36-9bf4-7d2aba61c8d9

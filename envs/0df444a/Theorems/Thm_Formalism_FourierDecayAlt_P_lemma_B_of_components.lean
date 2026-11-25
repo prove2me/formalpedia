@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_lemma_B_of_components
 -- name    : Formalism.FourierDecayAlt.P.lemma_B_of_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:34:01.268995+00:00
 -- url     : https://prove2.me/theorems/5de0b6d2-e2ae-4622-976e-4a4437463d60

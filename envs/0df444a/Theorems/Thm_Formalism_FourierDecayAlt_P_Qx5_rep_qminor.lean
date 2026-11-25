@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_rep_qminor
 -- name    : Formalism.FourierDecayAlt.P.Qx5.rep_qminor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:43:12.779876+00:00
 -- url     : https://prove2.me/theorems/b3b7233a-3f36-5341-aae7-3d11f6abbcde

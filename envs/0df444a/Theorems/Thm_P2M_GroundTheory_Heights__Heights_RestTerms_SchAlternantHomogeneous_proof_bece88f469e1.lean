@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchAlternantHomogeneous_proof_bece88f469e1
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchAlternantHomogeneous_proof_bece88f469e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:01:34.109819+00:00
 -- url     : https://prove2.me/theorems/ef44c105-5b31-462b-987e-26856a1c2bf6

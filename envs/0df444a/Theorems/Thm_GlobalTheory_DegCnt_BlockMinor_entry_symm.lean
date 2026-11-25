@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_BlockMinor_entry_symm
 -- name    : GlobalTheory.DegCnt.BlockMinor.entry_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:26:58.76049+00:00
 -- url     : https://prove2.me/theorems/20334f5e-2be6-40dc-a5ba-0c6573d53016

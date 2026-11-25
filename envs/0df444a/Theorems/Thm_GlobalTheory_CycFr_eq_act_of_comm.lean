@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycFr_eq_act_of_comm
 -- name    : GlobalTheory.CycFr.eq_act_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:40:36.670292+00:00
 -- url     : https://prove2.me/theorems/d6bfe891-bc84-4d30-bec5-0331ef09cc1b

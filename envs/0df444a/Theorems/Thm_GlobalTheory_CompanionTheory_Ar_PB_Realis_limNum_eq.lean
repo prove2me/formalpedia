@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_limNum_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.limNum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:30:59.790193+00:00
 -- url     : https://prove2.me/theorems/3c60381e-0aa1-4dfd-8d2d-114eb2b2cc9b

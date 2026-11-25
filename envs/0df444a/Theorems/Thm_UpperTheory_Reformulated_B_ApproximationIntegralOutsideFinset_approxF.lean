@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_ApproximationIntegralOutsideFinset_approxF
 -- name    : UpperTheory.Reformulated.B.ApproximationIntegralOutsideFinset.approxF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:08:39.913096+00:00
 -- url     : https://prove2.me/theorems/29381240-a0b4-545a-9bab-e16dfdd4fae2

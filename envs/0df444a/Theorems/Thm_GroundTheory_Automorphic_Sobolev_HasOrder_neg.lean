@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_HasOrder_neg
 -- name    : GroundTheory.Automorphic.Sobolev.HasOrder.neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:59:11.685556+00:00
 -- url     : https://prove2.me/theorems/4b02e67d-bfbf-568a-b40f-13465c4e08e1

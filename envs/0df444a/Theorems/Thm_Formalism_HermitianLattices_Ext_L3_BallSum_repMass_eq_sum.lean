@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallSum_repMass_eq_sum
 -- name    : Formalism.HermitianLattices.Ext.L3.BallSum.repMass_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:58:35.9619+00:00
 -- url     : https://prove2.me/theorems/e76c46dd-8ca3-594e-a2ef-e92db753576a

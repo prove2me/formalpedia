@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_dot_transport
 -- name    : CompanionTheory.LimBd.Main.dot_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:57:15.022957+00:00
 -- url     : https://prove2.me/theorems/73cdac27-8929-42df-969d-00bcf37a808d

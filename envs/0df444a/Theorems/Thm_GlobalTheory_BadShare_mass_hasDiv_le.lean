@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_mass_hasDiv_le
 -- name    : GlobalTheory.BadShare.mass_hasDiv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:46:57.646529+00:00
 -- url     : https://prove2.me/theorems/a890a801-219b-53bb-8694-d7294955360d

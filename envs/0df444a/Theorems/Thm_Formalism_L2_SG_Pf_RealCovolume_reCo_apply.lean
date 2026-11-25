@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RealCovolume_reCo_apply
 -- name    : Formalism.L2.SG.Pf.RealCovolume.reCo_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:09:26.526831+00:00
 -- url     : https://prove2.me/theorems/43ec4144-0c84-5649-b315-789be34a9a8f

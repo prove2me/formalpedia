@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_hsA_smul
 -- name    : Formalism.L2.S.Pv.EnergyAbs.hsA_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:09:10.943525+00:00
 -- url     : https://prove2.me/theorems/0bfa447b-e313-401e-9607-32a6d6a386fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_Staircase_proof_f837b8440724
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_Staircase_proof_f837b8440724
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:15.266607+00:00
 -- url     : https://prove2.me/theorems/5447adf8-d7ce-4444-9ca6-5a358125b021

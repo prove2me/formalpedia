@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_prod_actKK_left
 -- name    : GlobalTheory.FontCmp.prod_actKK_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:33:00.931969+00:00
 -- url     : https://prove2.me/theorems/b3121e39-b9e0-4cc4-b153-6196d93c31b0

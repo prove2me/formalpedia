@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_logLatticeProdMap_apply
 -- name    : GroundTheory.Global.logLatticeProdMap_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:09:28.531469+00:00
 -- url     : https://prove2.me/theorems/4cff6850-a18b-5d31-8963-ded19925bdb2

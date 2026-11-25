@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_hf_smul_left
 -- name    : GlobalTheory.HermOrthBasis.hf_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:06:50.55581+00:00
 -- url     : https://prove2.me/theorems/009c1946-ad66-4c82-9c13-fb98634d15c2

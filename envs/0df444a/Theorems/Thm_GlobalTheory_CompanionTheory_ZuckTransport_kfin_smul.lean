@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckTransport_kfin_smul
 -- name    : GlobalTheory.CompanionTheory.ZuckTransport.kfin_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:57:30.777067+00:00
 -- url     : https://prove2.me/theorems/8ab046d9-7450-43dc-b2b0-df75e97b0949

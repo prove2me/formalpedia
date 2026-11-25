@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_onePar_of
 -- name    : CompanionTheory.ThKR.Mp.onePar_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:19:13.877173+00:00
 -- url     : https://prove2.me/theorems/9af30510-7b6e-4f2a-a309-4d20029fa1c9

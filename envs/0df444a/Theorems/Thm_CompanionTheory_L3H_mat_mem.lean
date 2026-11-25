@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_L3H_mat_mem
 -- name    : CompanionTheory.L3H.mat_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:05:47.690676+00:00
 -- url     : https://prove2.me/theorems/1a2c167d-a622-5fd5-be27-e46a7d6e5d95

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeZero_lintegral_scale
 -- name    : GlobalTheory.HCXi.ConeZero.lintegral_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:54:57.098886+00:00
 -- url     : https://prove2.me/theorems/360e521a-25c2-49e2-af82-dce0fd4ced2c

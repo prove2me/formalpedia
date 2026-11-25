@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_mAct_mul
 -- name    : CompanionTheory.Zuck.mAct_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:22:46.478967+00:00
 -- url     : https://prove2.me/theorems/f1ebe713-afb7-5343-bb97-fe45e5dd0524

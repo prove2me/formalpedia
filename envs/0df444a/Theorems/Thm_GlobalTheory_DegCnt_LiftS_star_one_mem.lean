@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_star_one_mem
 -- name    : GlobalTheory.DegCnt.LiftS.star_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:09:47.716086+00:00
 -- url     : https://prove2.me/theorems/e0976672-51c8-5f71-b534-be3d31f00481

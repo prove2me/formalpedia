@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_exists_dot_eq_of_indep
 -- name    : GlobalTheory.GramCount.exists_dot_eq_of_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:20:09.097892+00:00
 -- url     : https://prove2.me/theorems/fbdaed62-bc25-58bc-aad0-21c6bcf12049

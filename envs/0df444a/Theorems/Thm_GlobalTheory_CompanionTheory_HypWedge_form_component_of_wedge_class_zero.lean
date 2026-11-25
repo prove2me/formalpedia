@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HypWedge_form_component_of_wedge_class_zero
 -- name    : GlobalTheory.CompanionTheory.HypWedge.form_component_of_wedge_class_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:02:38.029523+00:00
 -- url     : https://prove2.me/theorems/9ff740df-f7c4-5599-9e1b-b0e0f521c0e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_one_notMem_f81969489234
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_one_notMem_f81969489234
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:24:15.356863+00:00
 -- url     : https://prove2.me/theorems/327b894d-1235-417b-bd89-a43f9e6c30be

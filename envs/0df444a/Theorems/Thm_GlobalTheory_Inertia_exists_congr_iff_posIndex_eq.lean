@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_exists_congr_iff_posIndex_eq
 -- name    : GlobalTheory.Inertia.exists_congr_iff_posIndex_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:15.635127+00:00
 -- url     : https://prove2.me/theorems/33168c6f-ea29-4b06-b21b-b21b20141d64

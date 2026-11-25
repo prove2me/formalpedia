@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_zero_of_eq_mul_of_ne_one
 -- name    : GroundTheory.LocalField.eq_zero_of_eq_mul_of_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:08:24.576519+00:00
 -- url     : https://prove2.me/theorems/3f468e88-a6cb-59e7-b22d-8ad5d51aba71

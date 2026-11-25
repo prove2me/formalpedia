@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_LineStabiliser_gram_mulVec_e0
 -- name    : GlobalTheory.HCXi.LineStabiliser.gram_mulVec_e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:06.421766+00:00
 -- url     : https://prove2.me/theorems/b864302d-5b73-5a77-8bad-656cf981a613

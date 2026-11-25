@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_letters_pow_succ
 -- name    : CompanionTheory.LimBd.Main.letters_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:57:04.306067+00:00
 -- url     : https://prove2.me/theorems/d8f9d061-1a63-4473-8835-0c694ef28881

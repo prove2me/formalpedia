@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DualInter_sub_r
 -- name    : GlobalTheory.HL.DualInter.sub_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:07:22.427962+00:00
 -- url     : https://prove2.me/theorems/e0a63a7c-7c53-41f7-b64d-ce51d5b23e2a

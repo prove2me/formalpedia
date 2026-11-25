@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RowStab_smul_mem_of_mem_ipow_smul
 -- name    : GlobalTheory.RowStab.smul_mem_of_mem_ipow_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:29:27.681106+00:00
 -- url     : https://prove2.me/theorems/ba205bb0-1306-58a7-abff-c014d9150c24

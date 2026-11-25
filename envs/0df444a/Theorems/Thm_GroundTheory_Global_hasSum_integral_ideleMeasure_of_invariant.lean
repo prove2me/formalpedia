@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasSum_integral_ideleMeasure_of_invariant
 -- name    : GroundTheory.Global.hasSum_integral_ideleMeasure_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:11.94011+00:00
 -- url     : https://prove2.me/theorems/10386a96-56a5-4263-9daf-c720a3ebf64a

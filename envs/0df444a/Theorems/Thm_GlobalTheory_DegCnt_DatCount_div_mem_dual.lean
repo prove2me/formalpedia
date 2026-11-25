@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_DatCount_div_mem_dual
 -- name    : GlobalTheory.DegCnt.DatCount.div_mem_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:56:06.391312+00:00
 -- url     : https://prove2.me/theorems/ea9f5cb3-817e-4912-9fbf-a43fdb151472

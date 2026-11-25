@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchurPowerSumCoefficient_proof_8cd17ba177ad
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchurPowerSumCoefficient_proof_8cd17ba177ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:01:09.603826+00:00
 -- url     : https://prove2.me/theorems/86149177-1cd9-435c-870f-d21452eef3d5

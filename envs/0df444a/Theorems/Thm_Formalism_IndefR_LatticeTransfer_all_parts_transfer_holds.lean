@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_LatticeTransfer_all_parts_transfer_holds
 -- name    : Formalism.IndefR.LatticeTransfer.all_parts_transfer_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:13:40.473801+00:00
 -- url     : https://prove2.me/theorems/6424aa9c-ab1b-4e47-a718-32944f316c57

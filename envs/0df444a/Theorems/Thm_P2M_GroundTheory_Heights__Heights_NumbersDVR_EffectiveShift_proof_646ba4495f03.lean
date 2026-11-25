@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_EffectiveShift_proof_646ba4495f03
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_EffectiveShift_proof_646ba4495f03
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:56:05.398796+00:00
 -- url     : https://prove2.me/theorems/5311e3ab-8098-40b7-8c32-e59aa9e4d6d6

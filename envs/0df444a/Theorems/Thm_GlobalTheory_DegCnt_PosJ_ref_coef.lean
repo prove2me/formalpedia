@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosJ_ref_coef
 -- name    : GlobalTheory.DegCnt.PosJ.ref_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:53:48.327554+00:00
 -- url     : https://prove2.me/theorems/ef4bb684-6919-44af-8e54-33977e7b1d73

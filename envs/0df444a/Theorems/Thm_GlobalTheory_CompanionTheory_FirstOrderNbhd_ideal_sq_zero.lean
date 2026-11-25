@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FirstOrderNbhd_ideal_sq_zero
 -- name    : GlobalTheory.CompanionTheory.FirstOrderNbhd.ideal_sq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:24:00.211537+00:00
 -- url     : https://prove2.me/theorems/7481082f-d648-4726-a39a-ce44827dd1e4

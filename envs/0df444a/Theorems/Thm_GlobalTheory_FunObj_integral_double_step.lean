@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_integral_double_step
 -- name    : GlobalTheory.FunObj.integral_double_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:36:21.225277+00:00
 -- url     : https://prove2.me/theorems/3aca29a1-81ae-4741-b3ac-900e159d0a51

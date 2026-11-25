@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_excOne
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.excOne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:00.495555+00:00
 -- url     : https://prove2.me/theorems/b32eddd7-4f52-477d-9af5-f570ecce2295

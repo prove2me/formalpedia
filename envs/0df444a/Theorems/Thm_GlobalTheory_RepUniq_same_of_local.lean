@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_same_of_local
 -- name    : GlobalTheory.RepUniq.same_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:00:32.662911+00:00
 -- url     : https://prove2.me/theorems/e27fbf75-9141-5e46-a32d-e2e9970510a1

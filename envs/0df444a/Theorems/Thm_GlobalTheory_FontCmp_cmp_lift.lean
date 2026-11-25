@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_cmp_lift
 -- name    : GlobalTheory.FontCmp.cmp_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:28:18.112028+00:00
 -- url     : https://prove2.me/theorems/422e9f04-dc9a-5a08-a8fd-9788e3793641

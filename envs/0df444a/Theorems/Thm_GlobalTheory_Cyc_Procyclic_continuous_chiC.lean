@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_continuous_chiC
 -- name    : GlobalTheory.Cyc.Procyclic.continuous_chiC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:07:35.064382+00:00
 -- url     : https://prove2.me/theorems/2e58463e-3c0f-5ba1-a676-4265166b9b2f

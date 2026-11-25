@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LocalizedFibreSets_locF_mem_fibSet
 -- name    : Formalism.HermitianLattices.Ext.L3.LocalizedFibreSets.locF_mem_fibSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:24:00.335391+00:00
 -- url     : https://prove2.me/theorems/4ee857de-8c9f-4604-8d8a-2710f170dfac

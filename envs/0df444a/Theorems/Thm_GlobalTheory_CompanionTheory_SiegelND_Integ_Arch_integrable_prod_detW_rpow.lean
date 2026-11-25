@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_integrable_prod_detW_rpow
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.integrable_prod_detW_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:14:33.495047+00:00
 -- url     : https://prove2.me/theorems/4634976d-fd99-40d4-a206-6f235c225cb0

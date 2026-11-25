@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_th0Char_mul_opU_th0_half_period_eq
 -- name    : Formalism.L2.Th1.H.th0Char_mul_opU_th0_half_period_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:14:10.726421+00:00
 -- url     : https://prove2.me/theorems/d4e6c970-bc23-4d05-8ae5-e7b37d3bf6a8

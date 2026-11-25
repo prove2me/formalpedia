@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_exists_inv
 -- name    : GlobalTheory.HL.FrameClass.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:10:02.759253+00:00
 -- url     : https://prove2.me/theorems/63f49dae-00dd-445d-8750-c78a63b8aae9

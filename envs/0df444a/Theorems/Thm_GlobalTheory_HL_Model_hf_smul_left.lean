@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_hf_smul_left
 -- name    : GlobalTheory.HL.Model.hf_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:08:07.429137+00:00
 -- url     : https://prove2.me/theorems/787ad86d-4231-4bc7-a275-764fc198f57f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaThree
 -- name    : Formalism.L2.Th1.F.sigmaThree
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:49.107376+00:00
 -- url     : https://prove2.me/theorems/30ace41e-4587-4aea-a913-87ff274d1066

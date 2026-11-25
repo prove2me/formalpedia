@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_CharAgree_psi_eq_psi__aa1165124f5f
 -- name    : P2M_GlobalTheory_HL_CharAgree_psi_eq_psi__aa1165124f5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:13:12.728427+00:00
 -- url     : https://prove2.me/theorems/3a4ef0d4-53c3-5744-a2ab-4d6389465951

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_WitIndep_th_ne
 -- name    : GlobalTheory.HL.WitIndep.th_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:07:56.565228+00:00
 -- url     : https://prove2.me/theorems/2e1919d9-f09f-4299-aa27-9d6e2d9f042f

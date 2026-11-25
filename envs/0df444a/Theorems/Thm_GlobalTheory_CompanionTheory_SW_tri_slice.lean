@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_tri_slice
 -- name    : GlobalTheory.CompanionTheory.SW.tri_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:13:17.306327+00:00
 -- url     : https://prove2.me/theorems/1a285172-6815-46bb-9a8a-d606b9c7a62e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_tendsto_dil
 -- name    : Formalism.FourierDecayAlt.P.PBK.tendsto_dil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:06:37.188368+00:00
 -- url     : https://prove2.me/theorems/5399864d-436c-5bfa-b558-e9085ce3a854

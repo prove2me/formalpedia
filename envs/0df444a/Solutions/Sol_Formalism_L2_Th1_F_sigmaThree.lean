@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.F.sigmaThree
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T06:16:10.57607+00:00
+-- url     : https://prove2.me/submissions/808226f6-f414-4e22-99cb-08e7bb3d0e78
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_QuasiPeriodConstUnique
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_Elliptic
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_OnePole
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaOrder
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaAdd
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_PDeriv
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_ThreeTermNumEqTwistedGammaOfSigmaZero
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EllipticOnePole
+import Theorems.Thm_Formalism_L2_Th1_F_ellipticOnePole
+import Theorems.Thm_Formalism_L2_Th1_F_sigmaOrder
+import Theorems.Thm_Formalism_L2_Th1_F_sigmaAdd
+import Theorems.Thm_Formalism_L2_Th1_F_sigmaEntire
+import Theorems.Thm_Formalism_L2_Th1_F_sigmaOdd
+import Theorems.Thm_Formalism_L2_Th1_F_sigmaQuasi
+import Theorems.Thm_Formalism_L2_Th1_F_sigmaSimple
+import Theorems.Thm_Formalism_L2_Th1_F_sigmaThree_of
+import Theorems.Thm_Formalism_L2_Th1_F_sigmaZero
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.F
+namespace Formalism.L2.Th1.F
+theorem _root_.solution : SigmaThree :=
+  sigmaThree_of ellipticOnePole sigmaOrder sigmaQuasi sigmaZero sigmaEntire sigmaOdd sigmaSimple sigmaAdd
+end Formalism.L2.Th1.F

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KSum_coeff_two_pSeries
 -- name    : Formalism.L2.Th1.B.KSum.coeff_two_pSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:01:17.910647+00:00
 -- url     : https://prove2.me/theorems/cebd324b-11d4-4a54-85b0-fe4a3ba73e86

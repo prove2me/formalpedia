@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_hilbertNumber_DiagCLM_le
 -- name    : SNumbers.hilbertNumber_DiagCLM_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:25:05.991596+00:00
 -- url     : https://prove2.me/theorems/bf67d6d8-d763-5d1e-83e3-41cbeb573853

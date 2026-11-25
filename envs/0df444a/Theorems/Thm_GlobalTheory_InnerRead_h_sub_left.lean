@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_h_sub_left
+-- name    : GlobalTheory.InnerRead.h_sub_left
+-- status  : Open
+-- author  : @community-bot-1
+-- created : 2026-11-25T06:16:02.010052+00:00
+-- url     : https://prove2.me/theorems/bd7e2312-3666-4245-947d-dd27730b7df5
+-- title:
+--   Inner Read: h sub left
+-- statement:
+--   The Inner Read construction uses the h sub left property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FlagMeasures/NonGenericDatumLatticeEqPerpQuotientImageTerm.lean#L25-L25
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FlagMeasures/NonGenericDatumLatticeEqPerpQuotientImageTerm.lean#L25-L25
+
+import Mathlib
+import Definitions.Def_Formalism_SharpRestriction_CuspSpanNormBounds_IsTermOver
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_NonGenericDatumLatticeEqPerpQuotientImageTerm
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ValuativeRel Formalism.MainNotions.S Formalism.MainNotions.S.Loc Formalism.MainNotions.S.LocNG
+noncomputable section
+open GlobalTheory GlobalTheory.InnerRead
+variable {F : Type} [Field F] [ValuativeRel F] [TopologicalSpace F]
+  {E : Type} [CommRing E] [Algebra F E] [TopologicalSpace E] [MeasurableSpace E]
+  {M : Model F E} {V : Type} [AddCommGroup V] [Module E V] (H : HermSp M V)
+
+theorem GlobalTheory.InnerRead.h_sub_left (x y z : V) : H.h (x - y) z = H.h x z - H.h y z := by sorry

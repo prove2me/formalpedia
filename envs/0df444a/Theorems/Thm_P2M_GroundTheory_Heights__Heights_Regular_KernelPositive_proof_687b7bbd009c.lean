@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_KernelPositive_proof_687b7bbd009c
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_KernelPositive_proof_687b7bbd009c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:46:40.116851+00:00
 -- url     : https://prove2.me/theorems/6adadbaf-bcb7-4d93-861f-094d9d45fef0

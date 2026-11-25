@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_cj_mem
 -- name    : GlobalTheory.HL.ContModel.cj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:08:29.983548+00:00
 -- url     : https://prove2.me/theorems/bc3d9d9b-f4ef-48b8-bc30-839abfb48c2f

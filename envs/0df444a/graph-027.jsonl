@@ -68920,7 +68920,7 @@
 {"parent": "QEC.Coding.BDL26CountableEmbeddingExperiment.allFiniteSuccess_source_even", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperiment", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CountableEmbeddingExperiment.allFiniteSuccess_source_even", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperimentGeometry", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26CountableEmbeddingExperiment.allFiniteSuccess_source_even", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperimentGeometry", "via": ["solution", "statement"]}
-{"parent": "ConstrainedDirSep.STSep.lemma_4_3", "child": "ConstrainedDirSep_STSep_Quadrant", "via": ["statement"]}
+{"parent": "ConstrainedDirSep.STSep.lemma_4_3", "child": "ConstrainedDirSep_STSep_Quadrant", "via": ["solution", "statement"]}
 {"parent": "RQCMoments.lemma_4_1", "child": "RQCMoments_IsGaussRule", "via": ["statement"]}
 {"parent": "RQCMoments.lemma_4_1", "child": "RQCMoments_christoffel", "via": ["statement"]}
 {"parent": "RandomOracleUnitarySynthesis.synthesis_haar_trace_tail", "child": "RandomOracleUnitarySynthesis_synthesis_circuit", "via": ["solution", "statement"]}

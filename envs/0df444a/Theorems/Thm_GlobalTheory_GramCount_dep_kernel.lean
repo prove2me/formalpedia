@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_dep_kernel
 -- name    : GlobalTheory.GramCount.dep_kernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:20:55.128699+00:00
 -- url     : https://prove2.me/theorems/dda03621-8de2-5f42-9cea-ca1633939f99

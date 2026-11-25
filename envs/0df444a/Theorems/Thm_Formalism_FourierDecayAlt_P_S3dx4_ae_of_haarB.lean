@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_ae_of_haarB
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.ae_of_haarB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:31:19.564281+00:00
 -- url     : https://prove2.me/theorems/802ef913-4260-50b3-950e-307697ca30a2

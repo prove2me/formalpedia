@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SameFactorBound_proof_1b71a95808a5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SameFactorBound_proof_1b71a95808a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:00:53.089736+00:00
 -- url     : https://prove2.me/theorems/08a100bd-8647-4682-88f7-26c63a276100

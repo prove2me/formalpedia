@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipStab_mem_fixing
 -- name    : GlobalTheory.UnipStab.mem_fixing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:56:31.227909+00:00
 -- url     : https://prove2.me/theorems/d39b2e10-c87b-52ed-ac14-0d7c70472d30

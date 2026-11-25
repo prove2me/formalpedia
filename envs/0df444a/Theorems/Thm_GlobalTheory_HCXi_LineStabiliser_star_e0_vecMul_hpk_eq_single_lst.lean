@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_LineStabiliser_star_e0_vecMul_hpk_eq_single_lst
 -- name    : GlobalTheory.HCXi.LineStabiliser.star_e0_vecMul_hpk_eq_single_lst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:17.840773+00:00
 -- url     : https://prove2.me/theorems/b5484eb0-f7eb-57a3-a500-3cbb447a04ba

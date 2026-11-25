@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassOrth_mem_locR_iff
 -- name    : GlobalTheory.MassOrth.mem_locR_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:32:39.805184+00:00
 -- url     : https://prove2.me/theorems/00de2d6c-845a-4e8e-9917-7f25b7c7c8d5

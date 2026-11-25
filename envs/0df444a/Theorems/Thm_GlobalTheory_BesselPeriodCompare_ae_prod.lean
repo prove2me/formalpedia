@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_ae_prod
 -- name    : GlobalTheory.BesselPeriodCompare.ae_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:09:41.600046+00:00
 -- url     : https://prove2.me/theorems/cc070b72-4197-4278-a44a-b2cdb91b45b0

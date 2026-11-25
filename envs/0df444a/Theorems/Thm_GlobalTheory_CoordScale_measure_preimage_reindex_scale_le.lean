@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordScale_measure_preimage_reindex_scale_le
 -- name    : GlobalTheory.CoordScale.measure_preimage_reindex_scale_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:37:34.188343+00:00
 -- url     : https://prove2.me/theorems/fcfd512a-e563-4f5f-ba6f-42632ad9b8cb

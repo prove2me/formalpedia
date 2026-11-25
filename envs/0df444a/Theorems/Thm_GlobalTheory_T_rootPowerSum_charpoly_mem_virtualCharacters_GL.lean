@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rootPowerSum_charpoly_mem_virtualCharacters_GL
 -- name    : GlobalTheory.T.rootPowerSum_charpoly_mem_virtualCharacters_GL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:30:35.069612+00:00
 -- url     : https://prove2.me/theorems/9025c75b-1a63-4a64-9de0-2da01fccc9f9

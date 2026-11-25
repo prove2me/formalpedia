@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_fromBlocks_updateRow_eq
 -- name    : GlobalTheory.HL.fromBlocks_updateRow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:16:04.268131+00:00
 -- url     : https://prove2.me/theorems/6fd3b406-aa13-558e-93f0-ae088b0e68ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CapelliLocality_foldr_congr
 -- name    : GlobalTheory.CapelliLocality.foldr_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:28:45.960884+00:00
 -- url     : https://prove2.me/theorems/54f14253-fbd5-4d05-8f5e-d8e0747d57e3

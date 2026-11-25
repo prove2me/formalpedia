@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CurveCharts_proof_f79ca0f4cf98
 -- name    : P2M_GroundTheory_Heights__Heights_CurveCharts_proof_f79ca0f4cf98
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:18.139445+00:00
 -- url     : https://prove2.me/theorems/5bb0bbda-2692-490d-85fa-899a71770d28

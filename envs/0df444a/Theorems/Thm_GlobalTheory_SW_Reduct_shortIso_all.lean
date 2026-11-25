@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Reduct_shortIso_all
 -- name    : GlobalTheory.SW.Reduct.shortIso_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:16.553875+00:00
 -- url     : https://prove2.me/theorems/157db8f6-f432-4dea-adee-f23b9abe52a1

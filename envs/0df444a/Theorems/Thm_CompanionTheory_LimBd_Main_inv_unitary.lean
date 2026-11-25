@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_inv_unitary
 -- name    : CompanionTheory.LimBd.Main.inv_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:54:58.897048+00:00
 -- url     : https://prove2.me/theorems/3521fb2b-f251-5445-b57a-8ba4652baf9d

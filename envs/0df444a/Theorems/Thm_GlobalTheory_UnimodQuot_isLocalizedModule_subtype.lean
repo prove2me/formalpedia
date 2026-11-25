@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodQuot_isLocalizedModule_subtype
 -- name    : GlobalTheory.UnimodQuot.isLocalizedModule_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:02:05.084731+00:00
 -- url     : https://prove2.me/theorems/39ef8443-a02c-584b-b92a-e2cba8a75e01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_AdaptInv_isAdm_iff
 -- name    : GlobalTheory.DegAsm.AdaptInv.isAdm_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:26:12.726552+00:00
 -- url     : https://prove2.me/theorems/f89821b9-8102-5fcc-a7ea-ee7856a91c54

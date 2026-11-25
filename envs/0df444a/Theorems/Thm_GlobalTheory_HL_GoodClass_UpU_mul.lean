@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodClass_UpU_mul
 -- name    : GlobalTheory.HL.GoodClass.UpU.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:09:34.222682+00:00
 -- url     : https://prove2.me/theorems/e8c75c72-54c4-405b-a697-0f1319eff364

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpBinomial_le_v_of_dvd
 -- name    : GlobalTheory.OddBlock.ExpBinomial.le_v_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:34:48.098163+00:00
 -- url     : https://prove2.me/theorems/1cb4a8bc-23d2-46a0-b80e-b3a5fd42a556

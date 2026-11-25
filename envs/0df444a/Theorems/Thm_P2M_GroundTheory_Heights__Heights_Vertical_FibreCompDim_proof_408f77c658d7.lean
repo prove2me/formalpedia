@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_FibreCompDim_proof_408f77c658d7
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_FibreCompDim_proof_408f77c658d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:00:34.25468+00:00
 -- url     : https://prove2.me/theorems/ba60558d-c196-5529-bfc5-9139e19ac5f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitDenom_col_lemma
 -- name    : GlobalTheory.OrbitDenom.col_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:22:55.446818+00:00
 -- url     : https://prove2.me/theorems/0bece100-741b-4abe-a998-a13780412afd

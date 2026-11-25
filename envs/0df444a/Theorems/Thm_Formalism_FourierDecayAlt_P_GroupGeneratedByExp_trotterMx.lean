@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GroupGeneratedByExp_trotterMx
 -- name    : Formalism.FourierDecayAlt.P.GroupGeneratedByExp.trotterMx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:34:26.18081+00:00
 -- url     : https://prove2.me/theorems/5fe8a6c5-9065-4192-8bc2-a8b74fce0754

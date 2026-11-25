@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_hasSubst_of_ordGE
 -- name    : Formalism.L2.FormalSeriesBounds.hasSubst_of_ordGE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:25:25.2196+00:00
 -- url     : https://prove2.me/theorems/f01ab499-90bf-46d6-95c4-a246a065bfb7

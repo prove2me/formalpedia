@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QReflGen_hf_cj
 -- name    : GlobalTheory.HL.QReflGen.hf_cj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:08:47.23883+00:00
 -- url     : https://prove2.me/theorems/b70d3285-4f39-4a59-a71a-d18ef5fe2f3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_GramPos_gram_pos
 -- name    : GlobalTheory.HCXi.GramPos.gram_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:51:03.536751+00:00
 -- url     : https://prove2.me/theorems/2a7872c3-b346-42e9-a843-7e2d8d44d35e

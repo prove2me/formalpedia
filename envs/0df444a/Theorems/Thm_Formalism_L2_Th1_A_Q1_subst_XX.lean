@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q1_subst_XX
 -- name    : Formalism.L2.Th1.A.Q1.subst_XX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:59:49.78189+00:00
 -- url     : https://prove2.me/theorems/54bdd64a-01a7-5238-8709-cdd4f30f8908

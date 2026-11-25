@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_reindex_fromBlocks
 -- name    : GlobalTheory.Inertia.posIndex_reindex_fromBlocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:27.906538+00:00
 -- url     : https://prove2.me/theorems/9b24d693-aed8-4abe-a2ab-31066456832b

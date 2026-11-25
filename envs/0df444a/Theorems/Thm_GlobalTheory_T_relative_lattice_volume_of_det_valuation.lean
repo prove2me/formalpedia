@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relative_lattice_volume_of_det_valuation
 -- name    : GlobalTheory.T.relative_lattice_volume_of_det_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:09:26.954186+00:00
 -- url     : https://prove2.me/theorems/45935fa4-dddf-4b43-8bf9-ca7ef7fe33de

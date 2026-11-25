@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isPretorsionTheory_iInf_left
 -- name    : PretorsionImageClosed.Statement.isPretorsionTheory_iInf_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:44:18.482972+00:00
 -- url     : https://prove2.me/theorems/d4482943-b7f1-4208-a06b-11b7b1479f6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_DiagCLM_eq
 -- name    : SNumbers.bernsteinNumber_DiagCLM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:25:30.935902+00:00
 -- url     : https://prove2.me/theorems/41824aad-cca6-478b-8a3f-dcd350f3b667

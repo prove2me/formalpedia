@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_MpG_hasDerivAt_det_one
 -- name    : CompanionTheory.ThKR.Mp.MpG.hasDerivAt_det_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:27:32.536603+00:00
 -- url     : https://prove2.me/theorems/c41099ea-c706-4eea-b026-5507159e38e7

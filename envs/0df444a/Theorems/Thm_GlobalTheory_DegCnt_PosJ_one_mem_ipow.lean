@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosJ_one_mem_ipow
 -- name    : GlobalTheory.DegCnt.PosJ.one_mem_ipow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:53:47.519605+00:00
 -- url     : https://prove2.me/theorems/b1c5fe4f-8636-4e40-a89a-21e7635d8b07

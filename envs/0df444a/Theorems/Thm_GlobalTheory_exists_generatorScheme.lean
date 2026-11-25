@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_generatorScheme
 -- name    : GlobalTheory.exists_generatorScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:32:49.692588+00:00
 -- url     : https://prove2.me/theorems/345b4f03-8603-4991-b870-16265687a869

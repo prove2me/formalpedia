@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_even_theta_line
 -- name    : Formalism.L2.Th1.F.even_theta_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:09.198826+00:00
 -- url     : https://prove2.me/theorems/720a5831-8566-4e96-ab75-9ccc3a63b421

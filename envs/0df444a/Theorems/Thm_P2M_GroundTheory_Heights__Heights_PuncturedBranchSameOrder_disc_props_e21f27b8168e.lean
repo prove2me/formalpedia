@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PuncturedBranchSameOrder_disc_props_e21f27b8168e
 -- name    : P2M_GroundTheory_Heights__Heights_PuncturedBranchSameOrder_disc_props_e21f27b8168e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:04.216806+00:00
 -- url     : https://prove2.me/theorems/bdbca4ba-e43d-4380-b288-bfe04f08b4a5

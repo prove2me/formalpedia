@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2b2_no_real_zero_small_modulus
 -- name    : Formalism.HermitianLattices.GL2b2.no_real_zero_small_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:48:24.782366+00:00
 -- url     : https://prove2.me/theorems/ee69c448-a94c-491e-ba53-f31eb75d3a19

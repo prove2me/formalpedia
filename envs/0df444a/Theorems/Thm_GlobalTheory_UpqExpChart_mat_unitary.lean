@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UpqExpChart_mat_unitary
 -- name    : GlobalTheory.UpqExpChart.mat_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:25:39.525016+00:00
 -- url     : https://prove2.me/theorems/1d54e504-e178-4db1-a316-a7d9a7a02b55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_range_restrictScalarsHom
 -- name    : GroundTheory.LocalField.range_restrictScalarsHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:09:26.246746+00:00
 -- url     : https://prove2.me/theorems/b91486d4-eecc-45f7-838f-ec2a45762902

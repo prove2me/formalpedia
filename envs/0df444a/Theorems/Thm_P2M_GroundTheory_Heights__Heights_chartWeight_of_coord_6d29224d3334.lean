@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_chartWeight_of_coord_6d29224d3334
 -- name    : P2M_GroundTheory_Heights__Heights_chartWeight_of_coord_6d29224d3334
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:09:38.303139+00:00
 -- url     : https://prove2.me/theorems/e4bb233a-df09-41e9-ba8b-cef25d3b6a0d

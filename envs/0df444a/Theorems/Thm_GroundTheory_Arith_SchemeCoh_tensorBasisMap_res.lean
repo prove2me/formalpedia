@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_tensorBasisMap_res
 -- name    : GroundTheory.Arith.SchemeCoh.tensorBasisMap_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:04:03.667801+00:00
 -- url     : https://prove2.me/theorems/513b9c01-7d65-55a7-aa72-d0f72d59a875

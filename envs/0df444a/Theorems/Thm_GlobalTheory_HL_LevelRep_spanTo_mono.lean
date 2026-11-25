@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LevelRep_spanTo_mono
 -- name    : GlobalTheory.HL.LevelRep.spanTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:07:33.965265+00:00
 -- url     : https://prove2.me/theorems/6cf54ed8-124e-41e4-bf9b-50181b4d37da

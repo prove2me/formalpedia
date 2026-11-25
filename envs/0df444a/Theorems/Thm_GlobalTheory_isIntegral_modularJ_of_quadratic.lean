@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_modularJ_of_quadratic
 -- name    : GlobalTheory.isIntegral_modularJ_of_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:24:06.309398+00:00
 -- url     : https://prove2.me/theorems/9eda41e4-8aee-4862-a2f7-f560ee52d3bc

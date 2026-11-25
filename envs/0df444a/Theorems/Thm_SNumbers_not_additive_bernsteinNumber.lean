@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_not_additive_bernsteinNumber
 -- name    : SNumbers.not_additive_bernsteinNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:18:03.162829+00:00
 -- url     : https://prove2.me/theorems/8c1dd40a-3630-5ada-8857-3946aa084cd5

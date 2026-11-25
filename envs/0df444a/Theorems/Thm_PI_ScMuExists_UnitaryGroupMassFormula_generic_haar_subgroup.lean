@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_generic_haar_subgroup
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.generic_haar_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:56:05.103033+00:00
 -- url     : https://prove2.me/theorems/4f4e41e9-253b-466b-86c6-db973e0f84a6

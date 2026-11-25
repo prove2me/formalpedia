@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_rankOne_eq_smulRightL
 -- name    : Formalism.L2.S.Pv.EnergyAbs.rankOne_eq_smulRightL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:09:49.940798+00:00
 -- url     : https://prove2.me/theorems/a7909e04-9b98-5459-8472-10f12c724848

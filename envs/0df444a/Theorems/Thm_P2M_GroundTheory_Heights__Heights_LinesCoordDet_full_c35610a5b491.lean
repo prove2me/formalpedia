@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesCoordDet_full_c35610a5b491
 -- name    : P2M_GroundTheory_Heights__Heights_LinesCoordDet_full_c35610a5b491
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:44.876392+00:00
 -- url     : https://prove2.me/theorems/066d14dc-84a6-4779-8788-9be647cc3e44

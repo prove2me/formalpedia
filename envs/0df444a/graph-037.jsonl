@@ -52037,7 +52037,7 @@
 {"parent": "RH1E6S11.part_090_0", "child": "ArdaRH65K_RS_Kernel", "via": ["statement"]}
 {"parent": "RH1E6S11.part_090_0", "child": "ArdaRH65K_RS_B3Sharp", "via": ["statement"]}
 {"parent": "RH1E6S11.part_090_0", "child": "ArdaRH65K_DlvpTheta", "via": ["statement"]}
-{"parent": "PI.QnHermHaar.Gen.repOn_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianHaarMeasure_RepOnAlgebraMap", "via": ["statement"]}
+{"parent": "PI.QnHermHaar.Gen.repOn_sum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HermitianHaarMeasure_RepOnAlgebraMap", "via": ["solution", "statement"]}
 {"parent": "RH1E6S11_D066_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "RH1E6S11_D077_0", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Paper.Hypergraph.edge_in_child", "child": "Paper_Formalized", "via": ["solution", "statement"]}
@@ -78310,8 +78310,8 @@
 {"parent": "lintegralTransversalSum", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnfoldingIdentity_FoldUnfoldMain", "via": ["statement"]}
 {"parent": "PI.QuotSetU.UnitaryGroupMassFormula.uh_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_SsetGroup", "via": ["solution", "statement"]}
 {"parent": "PI.QuotSetU.UnitaryGroupMassFormula.uh_mul", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_MaximalCompactIsCompact", "via": ["solution", "statement"]}
-{"parent": "PI.QuotSetU.UnitaryGroupMassFormula.SW.mul_inv_UH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_SBasic", "via": ["statement"]}
-{"parent": "PI.QuotSetU.UnitaryGroupMassFormula.SW.mul_inv_UH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_SsetGroup", "via": ["statement"]}
+{"parent": "PI.QuotSetU.UnitaryGroupMassFormula.SW.mul_inv_UH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_SBasic", "via": ["solution", "statement"]}
+{"parent": "PI.QuotSetU.UnitaryGroupMassFormula.SW.mul_inv_UH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryQuotientCompactness_SsetGroup", "via": ["solution", "statement"]}
 {"parent": "Deduction.ch_balance", "child": "Formalism_SizeWindowBrackets_ChainSlopeWindows_StronglyIrreducible", "via": ["solution", "statement"]}
 {"parent": "Deduction.ch_balance", "child": "Development_AutomorphicArithmetic_DedekindLFunctions_LandauTheorems_ChBalance", "via": ["solution", "statement"]}
 {"parent": "Deduction.ch_balance", "child": "Development_AutomorphicArithmetic_DedekindLFunctions_SplitInertia", "via": ["solution", "statement"]}
@@ -87633,8 +87633,8 @@
 {"parent": "Formalism.REAL.compact_span_stable", "child": "Formalism_RealPlaceAnalysis_RealPlaceTaylor_CompactCasimirHighestWeight", "via": ["solution", "statement"]}
 {"parent": "Formalism.REAL.compact_span_stable", "child": "Formalism_RealPlaceAnalysis_StatementKT", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13_D066_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
-{"parent": "PI.HwUniqW.mul_inv_UH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightUniqueness_HpkMulMulHpkApply", "via": ["statement"]}
-{"parent": "PI.HwUniqW.mul_inv_UH", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["statement"]}
+{"parent": "PI.HwUniqW.mul_inv_UH", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_HighestWeightUniqueness_HpkMulMulHpkApply", "via": ["solution", "statement"]}
+{"parent": "PI.HwUniqW.mul_inv_UH", "child": "Formalism_PeriodIntegrals_IsLowUnitH", "via": ["solution", "statement"]}
 {"parent": "PI.VolSemiDirect.W.PG.Dat.pX_mem_span", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SemidirectVolume_ProjGen", "via": ["solution", "statement"]}
 {"parent": "PI.VolSemiDirect.W.PG.Dat.pX_mem_span", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_SemidirectVolume_HermitianIsotropicProjComplement", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13.part_066_1", "child": "ArdaRH65K_RS4_Sound", "via": ["statement"]}

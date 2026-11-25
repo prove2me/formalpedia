@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_KerInert_VC_exp_eq
 -- name    : Formalism.L2.KerInert.VC.exp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:38:45.566272+00:00
 -- url     : https://prove2.me/theorems/ee731338-ff23-4ed7-be45-17fded6bf279

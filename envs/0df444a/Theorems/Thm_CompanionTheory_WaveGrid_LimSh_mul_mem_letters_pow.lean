@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_LimSh_mul_mem_letters_pow
 -- name    : CompanionTheory.WaveGrid.LimSh.mul_mem_letters_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:57:14.595993+00:00
 -- url     : https://prove2.me/theorems/678dde91-832c-4234-9c5c-b579c18c09d8

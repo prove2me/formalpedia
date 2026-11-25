@@ -21873,8 +21873,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.TB.WickVanishing.eval_second_point_rename", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_HStable", "via": ["solution", "statement"]}
 {"parent": "Formalism.DimensionVariation.size_at_embedding", "child": "Formalism_ThetaSupremumBounds_StatementC", "via": ["solution", "statement"]}
 {"parent": "Formalism.DimensionVariation.size_at_embedding", "child": "Formalism_ThetaSupremumBounds_GaussianShiftBounds_Assembly", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.DRFil.Adapted.multV_eq", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_EqZeroOfForallMemFilV", "via": ["statement"]}
-{"parent": "GlobalTheory.DRFil.Adapted.multV_eq", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IdemNotMemFilVOne", "via": ["statement"]}
+{"parent": "GlobalTheory.DRFil.Adapted.multV_eq", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_EqZeroOfForallMemFilV", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.DRFil.Adapted.multV_eq", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IdemNotMemFilVOne", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.PGsh.L2.SecondCohomologyLattice.algebraMap_ne_zero", "child": "Lemmata_MiscLemmasL_Imports", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.PGsh.L2.SecondCohomologyLattice.algebraMap_ne_zero", "child": "ReciprocityTheory_DualLattices_TensorSpan", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.PGsh.L2.SecondCohomologyLattice.algebraMap_ne_zero", "child": "ReciprocityTheory_DualLattices_ExistsSmulMemOfMemSpan", "via": ["solution", "statement"]}
@@ -32587,14 +32587,14 @@
 {"parent": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ModelBaseTrivModels", "child": "Development_AbelianVarietyTheory_BlockTheory_ExistenceTori_ModelFamilies", "via": ["statement"]}
 {"parent": "ReciprocityTheory.PGsh.evalT_add", "child": "ReciprocityTheory_DualLattices_ModuliPointsState", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.PGsh.evalT_add", "child": "ReciprocityTheory_DualLattices_NilSurjOfSqZero", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "Development_AbelianVarietyTheory_Proofs_ThetaLawProofs_ExistsHolomorphicUniformisationPowerThetaKeyDatu", "via": ["statement"]}
-{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_TopLePreimageOfValAtNeZero", "via": ["statement"]}
-{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_HolFamilyOfIsPullback", "via": ["statement"]}
-{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_MapsAtLeA", "via": ["statement"]}
-{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["statement"]}
-{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_OneEqSpTranslZero", "via": ["statement"]}
-{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "Development_AbelianVarietyTheory_Definitions_KeyFormula_KeyRuleOneOfKeyFormula", "via": ["statement"]}
-{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["statement"]}
+{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "Development_AbelianVarietyTheory_Proofs_ThetaLawProofs_ExistsHolomorphicUniformisationPowerThetaKeyDatu", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_TopLePreimageOfValAtNeZero", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_HolFamilyOfIsPullback", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_MapsAtLeA", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_OneEqSpTranslZero", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "Development_AbelianVarietyTheory_Definitions_KeyFormula_KeyRuleOneOfKeyFormula", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.PowUnif.isHolFamily_pow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeightTwoSum.contDiff_homFac", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DTermOrigin", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeightTwoSum.contDiff_homFac", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_OmegaFactorization", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.WeightTwoSum.contDiff_homFac", "child": "Development_AbelianVarietyTheory_Proofs_DivisorProofs_DifferentiableRisingS", "via": ["solution", "statement"]}
@@ -48527,8 +48527,8 @@
 {"parent": "ReciprocityTheory.PGsh.Up.FrobeniusValuationMatrix.det_valM_ne", "child": "ReciprocityTheory_DualLattices_ProdEraseUpdate", "via": ["statement"]}
 {"parent": "ReciprocityTheory.PGsh.Up.FrobeniusValuationMatrix.det_valM_ne", "child": "ReciprocityTheory_DualLattices_IsLocalOfIntegers", "via": ["statement"]}
 {"parent": "ReciprocityTheory.PGsh.Up.FrobeniusValuationMatrix.det_valM_ne", "child": "ReciprocityTheory_DualLattices_LiftMonomialDeterminantStatementHolds", "via": ["statement"]}
-{"parent": "CompanionTheory.ThKR.LL.ld_ph", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_NormExpSubLe", "via": ["statement"]}
-{"parent": "CompanionTheory.ThKR.LL.ld_ph", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_IsoOfIntegral", "via": ["statement"]}
+{"parent": "CompanionTheory.ThKR.LL.ld_ph", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_NormExpSubLe", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.ThKR.LL.ld_ph", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_IsoOfIntegral", "via": ["solution", "statement"]}
 {"parent": "Bl.general_b_fact_third.goal1", "child": "Lemmata_GeneralBFactThird_Imports", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.DiscreteGroups.LocalClassField.mem_Obar_iff", "child": "ReciprocityTheory_NeutralLocalFields_Duality", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.DiscreteGroups.LocalClassField.mem_Obar_iff", "child": "ReciprocityTheory_ClassFieldTheory_LocalClassField_UnrDefs", "via": ["solution", "statement"]}
@@ -49754,9 +49754,9 @@
 {"parent": "GlobalTheory.NormCompat.NormCont.le_exp_neg_one_of_lt_one", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_NormCloseToOneOfCloseAbovePlace", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.NormCompat.NormCont.le_exp_neg_one_of_lt_one", "child": "Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_LocUnitApply", "via": ["solution", "statement"]}
 {"parent": "SinglePointPricing_Det_Supplement_Interval", "child": "SinglePointPricing_Det_WorstCase", "via": ["statement"]}
-{"parent": "CompanionTheory.ThKF.E.exists_lift", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IteratedLineDerivMemWeylAlg", "via": ["statement"]}
-{"parent": "CompanionTheory.ThKF.E.exists_lift", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_MetaplecticRepresentation", "via": ["statement"]}
-{"parent": "CompanionTheory.ThKF.E.exists_lift", "child": "CompanionTheory_ThickeningEstimates_InnerProductFactorization_EqOfInner", "via": ["statement"]}
+{"parent": "CompanionTheory.ThKF.E.exists_lift", "child": "Development_AbelianVarietyTheory_Proofs_TwistedOperators_IteratedLineDerivMemWeylAlg", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.ThKF.E.exists_lift", "child": "Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_MetaplecticRepresentation", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.ThKF.E.exists_lift", "child": "CompanionTheory_ThickeningEstimates_InnerProductFactorization_EqOfInner", "via": ["solution", "statement"]}
 {"parent": "RH1E6S16.part_055_1", "child": "ArdaRH65K_RS_B3", "via": ["statement"]}
 {"parent": "RH1E6S16.part_055_1", "child": "ArdaRS_Band", "via": ["statement"]}
 {"parent": "RH1E6S16.part_055_1", "child": "ArdaRH65K_RS_Strip", "via": ["statement"]}
@@ -49793,8 +49793,8 @@
 {"parent": "GlobalTheory.DRFil.eq_sum_basis", "child": "Formalism_SharpRestriction_LevelLetterCocycles_DataNLoc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DRFil.eq_sum_basis", "child": "Formalism_SharpRestriction_LevelLetterCocycles_LocCoh", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DRFil.eq_sum_basis", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_EqZeroOfForallMemFilV", "via": ["solution", "statement"]}
-{"parent": "CompanionTheory.ThKR.LL.ld_dil_one", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_NormExpSubLe", "via": ["statement"]}
-{"parent": "CompanionTheory.ThKR.LL.ld_dil_one", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_IsoOfIntegral", "via": ["statement"]}
+{"parent": "CompanionTheory.ThKR.LL.ld_dil_one", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_NormExpSubLe", "via": ["solution", "statement"]}
+{"parent": "CompanionTheory.ThKR.LL.ld_dil_one", "child": "CompanionTheory_ThickeningEstimates_LieGroupReduction_IsoOfIntegral", "via": ["solution", "statement"]}
 {"parent": "GrothendieckConstant.krivine_scheme_rounding_inequality", "child": "KrivineSchemeDefs", "via": ["solution", "statement"]}
 {"parent": "GrothendieckConstant.krivine_scheme_rounding_inequality", "child": "GrothendieckConstantDefs", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_FinrankAddFinrankLeFinrankInfComapSubIdStatement", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_FinrankAddFinrankLeFinrankInfComapSubId", "via": ["statement"]}
@@ -66117,11 +66117,11 @@
 {"parent": "Formalism.FourierDecayAlt.P.A5x9.isUnit_orbZ_det", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_KernelQuotientFinite", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.A5x9.isUnit_orbZ_det", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ColumnOperationTripleForm", "via": ["solution", "statement"]}
 {"parent": "CalibeatBandit.expected_swapRegret_ge_proxy", "child": "CalibeatBandit_hard_tree_analysis", "via": ["solution", "statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.local_conditions_weighted_at_place", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_LocBasic", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.local_conditions_weighted_at_place", "child": "Formalism_MirabolicMackeyTheory_StatementLoc", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.local_conditions_weighted_at_place", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_LocalConditionsWeightedConditional", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.local_conditions_weighted_at_place", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_GlobalBoundRefinements", "via": ["statement"]}
-{"parent": "Formalism.EigenvalueLevelCeiling.local_conditions_weighted_at_place", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxRules", "via": ["statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.local_conditions_weighted_at_place", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_LocBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.local_conditions_weighted_at_place", "child": "Formalism_MirabolicMackeyTheory_StatementLoc", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.local_conditions_weighted_at_place", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_LocalConditionsWeightedConditional", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.local_conditions_weighted_at_place", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_GlobalBoundRefinements", "via": ["solution", "statement"]}
+{"parent": "Formalism.EigenvalueLevelCeiling.local_conditions_weighted_at_place", "child": "Formalism_MirabolicMackeyTheory_MirabolicMackeyProofs_IdxRules", "via": ["solution", "statement"]}
 {"parent": "Formalism.FG.LowCoefficients.coeff_expand_eq_zero", "child": "Formalism_FormalGroupWitt_SubstInjectiveV", "via": ["solution", "statement"]}
 {"parent": "Formalism.FG.LowCoefficients.coeff_expand_eq_zero", "child": "Formalism_FormalGroupWitt_FormalGroupWittProofs_CoeffExpandEqZero", "via": ["solution", "statement"]}
 {"parent": "Formalism.FG.CongrVAux.divBy_mul_sub", "child": "Formalism_FormalGroupWitt_FormalGroupWittProofs_IntegralSubstVector", "via": ["solution", "statement"]}
@@ -98924,33 +98924,33 @@
 {"parent": "Formalism.FourierDecayAlt.P.S6x2.typedModel", "child": "Formalism_HermitianCurvature_PrimeToDifferent", "via": ["solution", "statement"]}
 {"parent": "GrothendieckLB.Supplement.cq_packed_center_products_64_to_127", "child": "GrothendieckLB_Supplement_cqHeadSumProducts", "via": ["solution", "statement"]}
 {"parent": "PositivityTheory.RgBcC.LfSt.ChainPf.Cact.pd_eq_zero", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_ArchimedeanGelfandKernels_LeftEquivariantFunctions_GLMatrixDerivatives_ChainOfCactA", "via": ["solution", "statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_IntegrableReflect", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_InnerEqIntegralConjMul", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_EqZeroOfLeSmall", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_FiniteOfCompact", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CoeFnSumAe", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CellSumOfCntBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SchurOpOfSchurL", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_KernelRowsColumnsSquareIntegrable", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ColOp", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_VecInnerOfKerBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CntBasicOfKerBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LintegralWeightedSqLe", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CvAdjEqAvg", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ContinuousAtOfSqBound", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_BumpEx", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ColSqOfKerBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_KerClose", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_VecLimOf", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_ThetaCellCovers_KernelRowsColumnsSquareIntegrable", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_KerMulOfKerBasicOfCvTest", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TwoUnif", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CompKey", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_VecNormOfVecClose", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_VecCloseOfKerBasicColSq", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_RowIntOfKerBasic", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LintegralEnormRpowTwoNeTop", "via": ["statement"]}
-{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_KerLinOfKerBasic", "via": ["statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_IntegrableReflect", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_InnerEqIntegralConjMul", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_EqZeroOfLeSmall", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_FiniteOfCompact", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CoeFnSumAe", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CellSumOfCntBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_SchurOpOfSchurL", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_KernelRowsColumnsSquareIntegrable", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ColOp", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_VecInnerOfKerBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CntBasicOfKerBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LintegralWeightedSqLe", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CvAdjEqAvg", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ContinuousAtOfSqBound", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_BumpEx", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ColSqOfKerBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_KerClose", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_VecLimOf", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_WeilBound_RepresentationTheoryGL_ArchimedeanBaseChange_ArchimedeanBaseChangeProof_ThetaCellCovers_KernelRowsColumnsSquareIntegrable", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_KerMulOfKerBasicOfCvTest", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_TwoUnif", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_CompKey", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_VecNormOfVecClose", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_VecCloseOfKerBasicColSq", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_RowIntOfKerBasic", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_LintegralEnormRpowTwoNeTop", "via": ["solution", "statement"]}
+{"parent": "PositivityTheory.Rg.BcB.E1.kerMul", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_KerLinOfKerBasic", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_AdjoinPrimitiveRootEqIntegersUnramifiedQuadraticStatement", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_OverExtAlgebraMap", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_AdjoinPrimitiveRootEqIntegersUnramifiedQuadraticStatement", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_AdjoinPrimitiveRootEqIntegersUnramifiedQuadratic", "via": ["statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_TorusSubmoduleMulLeftImageMemSelfDualStableLattiStatement", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_TorusSubmoduleMulLeftImageMemSelfDualStableLatti", "via": ["statement"]}

@@ -1,0 +1,42 @@
+-- Prove2me | solution 1 for GlobalTheory.OddBlock.ExpShift.coeff_slice
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T06:05:08.736542+00:00
+-- url     : https://prove2.me/submissions/07d11d97-bda4-4b37-9ffe-792b68d0be6a
+
+import Mathlib
+import Definitions.Def_Formalism_FormalGroupLog_FormalGroupLogProofs_ChainRule
+import Definitions.Def_ReciprocityTheory_DualLattices_DetPolyMulCayleyOmegaPow
+import Definitions.Def_ReciprocityTheory_DualLattices_VEqZeroOfPowEqOne
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_WeightedSumBounds_PeriodValuation
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_CalcExp
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_LegendreBoundsFactorialMultiIndexCapelliStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_DetFrobeniusSubPowSupportStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_WeightNonnegExpOfWeightGeInvPrimeSubOneStatement
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_BiadditiveInSingleVariables
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_FactorialWeightedPairingDetPowProportionalStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_DeterminantPairingQuotientValuationLowerBoundStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_ProdIccMulFactorial
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_LegendreAndCapelli
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_RadiiValuationDifferences
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_NewtonBoundPosAndNewtonStep
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_BlockValueOnRowsEqStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_SumEqOfIsHomogeneous
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory.PGsh
+noncomputable section
+open GlobalTheory GlobalTheory.OddBlock GlobalTheory.OddBlock.ExpShift
+variable {C : Type} [Field C] {κ κ' : Type}
+namespace GlobalTheory.OddBlock.ExpShift
+theorem _root_.solution (b : κ' →₀ ℕ) (g : MvPowerSeries (κ ⊕ κ') C) (A : κ →₀ ℕ) :
+    MvPowerSeries.coeff A (slice b g) =
+      MvPowerSeries.coeff (Finsupp.sumFinsuppEquivProdFinsupp.symm (A, b)) g := rfl
+end GlobalTheory.OddBlock.ExpShift

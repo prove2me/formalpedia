@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_smallPowerSum_mul_restPolynomial_d2f1e6c17816
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_smallPowerSum_mul_restPolynomial_d2f1e6c17816
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:32:59.3197+00:00
 -- url     : https://prove2.me/theorems/8e54f9ab-9766-418e-80d9-00e60000e4b5

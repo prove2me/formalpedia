@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_divisor_bound
 -- name    : GlobalTheory.BadShare.divisor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:32:48.045043+00:00
 -- url     : https://prove2.me/theorems/f77c8f16-8e19-5bdf-8178-edd5c3761134

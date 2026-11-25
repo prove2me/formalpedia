@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_exists_proj
 -- name    : GlobalTheory.FontCmp.exists_proj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:28:47.343665+00:00
 -- url     : https://prove2.me/theorems/9d7d8e3f-09c4-421a-b37c-a889c45ee8f5

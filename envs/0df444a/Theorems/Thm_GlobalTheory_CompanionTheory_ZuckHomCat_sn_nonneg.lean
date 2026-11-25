@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckHomCat_sn_nonneg
 -- name    : GlobalTheory.CompanionTheory.ZuckHomCat.sn_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:56:13.875873+00:00
 -- url     : https://prove2.me/theorems/48b2688e-80e4-5122-a7f2-2447314c1ed0

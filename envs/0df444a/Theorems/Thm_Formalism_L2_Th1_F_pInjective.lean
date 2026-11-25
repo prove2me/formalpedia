@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_pInjective
 -- name    : Formalism.L2.Th1.F.pInjective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:30:19.591945+00:00
 -- url     : https://prove2.me/theorems/49f519c1-10ef-4124-a034-5113cef67a07

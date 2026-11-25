@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_eventually_ne_cocompact
 -- name    : Formalism.FourierDecayAlt.P.PBK.eventually_ne_cocompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:00:36.882728+00:00
 -- url     : https://prove2.me/theorems/1cc77075-5af5-4e1c-bd2a-c4f3e49e2c56

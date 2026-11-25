@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_sq_comp
 -- name    : GroundTheory.GroupCoh.sq_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:08:17.687071+00:00
 -- url     : https://prove2.me/theorems/efa255f5-8281-5f63-bdda-68f21291dc7a

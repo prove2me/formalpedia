@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GoodHeight_local_formula
 -- name    : GlobalTheory.GoodHeight.local_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:56:43.597443+00:00
 -- url     : https://prove2.me/theorems/30d4a5c0-f87e-4acc-abda-85072a7990bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxDs5_slice1_of_nnSlice
 -- name    : Formalism.FourierDecayAlt.P.JFxDs5.slice1_of_nnSlice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:47:01.074834+00:00
 -- url     : https://prove2.me/theorems/bf7e249b-18da-41ee-846e-47115702781c

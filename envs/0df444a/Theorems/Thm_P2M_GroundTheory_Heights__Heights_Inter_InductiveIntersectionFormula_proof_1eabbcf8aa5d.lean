@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_InductiveIntersectionFormula_proof_1eabbcf8aa5d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_InductiveIntersectionFormula_proof_1eabbcf8aa5d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:35:27.509285+00:00
 -- url     : https://prove2.me/theorems/49f3b52f-df6b-492d-95da-246e655d4fc7

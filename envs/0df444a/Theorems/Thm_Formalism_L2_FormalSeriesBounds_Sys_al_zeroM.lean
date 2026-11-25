@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_al_zeroM
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.al_zeroM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:29:31.474434+00:00
 -- url     : https://prove2.me/theorems/ccdeebd7-1c2a-4284-b624-645ff2b87db7

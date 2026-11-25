@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_HwUniqW_inv_mul_UH__9fc24965c5a2
 -- name    : P2M_PI_HwUniqW_inv_mul_UH__9fc24965c5a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:41:52.216019+00:00
 -- url     : https://prove2.me/theorems/622cc32e-2438-41c0-8bc3-81d5627119bc

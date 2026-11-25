@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagDividedDifferencePoly_proof_3abd6819389b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagDividedDifferencePoly_proof_3abd6819389b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:01:59.778394+00:00
 -- url     : https://prove2.me/theorems/3c1f4493-9664-481a-9860-90a467d13350

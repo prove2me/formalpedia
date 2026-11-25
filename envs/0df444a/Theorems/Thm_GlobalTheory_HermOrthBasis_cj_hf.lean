@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_cj_hf
 -- name    : GlobalTheory.HermOrthBasis.cj_hf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:06:20.503783+00:00
 -- url     : https://prove2.me/theorems/5b3e9eb5-4e5f-4c78-bf7c-c2f65b7868a3

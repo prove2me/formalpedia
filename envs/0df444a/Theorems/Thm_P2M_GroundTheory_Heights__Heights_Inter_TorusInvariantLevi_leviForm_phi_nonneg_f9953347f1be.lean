@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_leviForm_phi_nonneg_f9953347f1be
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_leviForm_phi_nonneg_f9953347f1be
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:50.938309+00:00
 -- url     : https://prove2.me/theorems/1a894ace-87ee-44cb-bafd-8f2e45ab71c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_PairedSquareConstantCoefficients_tensor_four_exp_quadratic
 -- name    : Formalism.L2.Th1.G.PairedSquareConstantCoefficients.tensor_four_exp_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:59:31.533046+00:00
 -- url     : https://prove2.me/theorems/55e726ff-9d26-5546-8a59-69d95dfb2a9a

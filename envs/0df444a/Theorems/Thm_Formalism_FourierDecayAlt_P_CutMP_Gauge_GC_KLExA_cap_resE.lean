@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_KLExA_cap_resE
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.KLExA.cap_resE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:14:38.702843+00:00
 -- url     : https://prove2.me/theorems/71cb0500-3f35-4399-8395-568661503dd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_En_hsVec_contDiff
 -- name    : Formalism.FourierDecayAlt.P.CutMP.En.hsVec_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:11:45.269854+00:00
 -- url     : https://prove2.me/theorems/40983884-6da1-5786-a608-7e283432dfe7

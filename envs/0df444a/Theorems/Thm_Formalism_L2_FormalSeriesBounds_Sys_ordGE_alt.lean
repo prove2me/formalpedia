@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_ordGE_alt
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.ordGE_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:24:17.287577+00:00
 -- url     : https://prove2.me/theorems/4061a19a-3d5b-5a3d-b408-51ae294a521b

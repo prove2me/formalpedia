@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_prod_eq_zero_of_mem
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_prod_eq_zero_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:03:32.525321+00:00
 -- url     : https://prove2.me/theorems/3238632c-8284-4e66-bc0f-ed376b3fffbc

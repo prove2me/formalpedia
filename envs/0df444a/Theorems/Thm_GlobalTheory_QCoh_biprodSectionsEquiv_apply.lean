@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_biprodSectionsEquiv_apply
 -- name    : GlobalTheory.QCoh.biprodSectionsEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:09:04.314238+00:00
 -- url     : https://prove2.me/theorems/f65b9b52-374b-4602-9e14-1aeb6de0f58e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateCohomologyFunctor_map_tateZeroClass
 -- name    : GroundTheory.GroupCoh.tateCohomologyFunctor_map_tateZeroClass
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:26:39.105803+00:00
 -- url     : https://prove2.me/theorems/e3e6e1f6-38f1-44be-a981-05442eda6351

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePsi_hf_span_right
 -- name    : GlobalTheory.FramePsi.hf_span_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:09:15.269996+00:00
 -- url     : https://prove2.me/theorems/d7d19b29-6367-5443-a6d7-262009a3630e

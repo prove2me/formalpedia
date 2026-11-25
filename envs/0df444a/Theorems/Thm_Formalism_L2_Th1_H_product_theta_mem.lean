@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_product_theta_mem
 -- name    : Formalism.L2.Th1.H.product_theta_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:15.249386+00:00
 -- url     : https://prove2.me/theorems/fc43da3d-e4fa-4100-ba87-baf3871a5c30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesProductFormula_full_ff39a65d05f0
 -- name    : P2M_GroundTheory_Heights__Heights_LinesProductFormula_full_ff39a65d05f0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:58.166249+00:00
 -- url     : https://prove2.me/theorems/e3d308c4-bfd1-4a86-8d23-0b65c52e9f2c

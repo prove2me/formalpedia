@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_adeleAbs_units
 -- name    : GroundTheory.Automorphic.Reduction.adeleAbs_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:02:18.660898+00:00
 -- url     : https://prove2.me/theorems/752bde19-b7ef-42ba-99e0-3f53a2fc2063

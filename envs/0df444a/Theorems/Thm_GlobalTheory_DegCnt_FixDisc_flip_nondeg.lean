@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FixDisc_flip_nondeg
 -- name    : GlobalTheory.DegCnt.FixDisc.flip_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:18:34.759047+00:00
 -- url     : https://prove2.me/theorems/b9ab242f-f5fd-4816-bc4e-3a417560a7f7

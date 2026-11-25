@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateAcyclic_res_res_iff
 -- name    : GroundTheory.GroupCoh.tateAcyclic_res_res_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:02:27.530236+00:00
 -- url     : https://prove2.me/theorems/49fc668c-28ab-518e-800a-4dd1c4c84b27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Ex_NumB_mulq_mul
 -- name    : GlobalTheory.Ex.NumB.mulq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:06:24.039348+00:00
 -- url     : https://prove2.me/theorems/e5d64c33-b1f8-40ad-9e81-19ba5d399c70

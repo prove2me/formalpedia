@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_psi_conj_mul
 -- name    : Formalism.FourierDecayAlt.P.PBK.psi_conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:55:49.408963+00:00
 -- url     : https://prove2.me/theorems/46e129af-067d-4082-8327-d8ef357da9f0

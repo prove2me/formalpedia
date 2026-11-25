@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_KSum_coeff_two_shift
 -- name    : Formalism.L2.Th1.B.KSum.coeff_two_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:01:37.58395+00:00
 -- url     : https://prove2.me/theorems/5484ca3b-198c-50e8-afe3-42ad61a48f66

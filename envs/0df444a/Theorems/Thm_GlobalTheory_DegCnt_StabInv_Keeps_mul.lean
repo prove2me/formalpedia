@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_Keeps_mul
 -- name    : GlobalTheory.DegCnt.StabInv.Keeps.mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:59:32.212221+00:00
 -- url     : https://prove2.me/theorems/f204eb1e-be08-4cab-8227-b6024fa8820d

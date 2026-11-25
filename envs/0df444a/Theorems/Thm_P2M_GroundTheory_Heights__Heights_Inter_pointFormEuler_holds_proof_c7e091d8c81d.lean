@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_proof_c7e091d8c81d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_proof_c7e091d8c81d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:05.38589+00:00
 -- url     : https://prove2.me/theorems/b515c3f5-9ddf-4668-b3d0-9e328ef282f7

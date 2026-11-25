@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_DiscriminantCover_proof_5ee235c71037
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_DiscriminantCover_proof_5ee235c71037
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:05:56.130751+00:00
 -- url     : https://prove2.me/theorems/b2612b1a-d905-4285-8ee4-4240a28db442

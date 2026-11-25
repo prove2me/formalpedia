@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_isPrime_map_4e84efccef29
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_isPrime_map_4e84efccef29
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:26:56.30079+00:00
 -- url     : https://prove2.me/theorems/f5131e1f-56b0-45ce-a9cb-42dd8ccd3e21

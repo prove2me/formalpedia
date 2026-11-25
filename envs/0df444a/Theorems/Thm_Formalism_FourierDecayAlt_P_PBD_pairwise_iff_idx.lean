@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_pairwise_iff_idx
 -- name    : Formalism.FourierDecayAlt.P.PBD.pairwise_iff_idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:49:52.051177+00:00
 -- url     : https://prove2.me/theorems/82225163-20fe-5e83-9b80-f90b6c95aea9

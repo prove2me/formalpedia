@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrdPolynomialLocalization_proof_d5922d801c8e
 -- name    : P2M_GroundTheory_Heights__Heights_OrdPolynomialLocalization_proof_d5922d801c8e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:44:34.828581+00:00
 -- url     : https://prove2.me/theorems/a564edd6-8386-4244-b07d-b5126ab3c2e1

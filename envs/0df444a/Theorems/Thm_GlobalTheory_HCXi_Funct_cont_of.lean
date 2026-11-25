@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_Funct_cont_of
 -- name    : GlobalTheory.HCXi.Funct.cont_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:09:46.643391+00:00
 -- url     : https://prove2.me/theorems/df084332-d1eb-5da7-9387-d8ec253b9cf9

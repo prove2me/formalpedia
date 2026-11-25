@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_FormalDegreeHaarQuotient_col_of_fix
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.FormalDegreeHaarQuotient.col_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:01:05.313866+00:00
 -- url     : https://prove2.me/theorems/60152b4a-277f-4069-9dc2-feb7a008e068

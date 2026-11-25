@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_norm_form_le
 -- name    : GlobalTheory.ArchMetric.norm_form_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:56:39.181658+00:00
 -- url     : https://prove2.me/theorems/c6459668-60f9-5ba7-9f30-c95a209419eb

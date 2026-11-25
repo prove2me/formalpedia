@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_eigen_bessel_from_commuting_operators
 -- name    : Formalism.FourierDecayAlt.P.eigen_bessel_from_commuting_operators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:33:41.93783+00:00
 -- url     : https://prove2.me/theorems/e4b556bc-ed98-4542-97b5-186b7caa9c85

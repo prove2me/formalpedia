@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_isModelOver_iff_72f2abf14dfc
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_isModelOver_iff_72f2abf14dfc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:36:08.017214+00:00
 -- url     : https://prove2.me/theorems/302567a1-b0bf-4851-9694-f9bdc2b902c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetPowPairing_pair_det
 -- name    : GlobalTheory.DetPowPairing.pair_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:32:57.566751+00:00
 -- url     : https://prove2.me/theorems/e88d7dec-f5f3-4f4b-8c8c-34f5325cf680

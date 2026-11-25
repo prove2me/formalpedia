@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BinomialValue_detR_eq
 -- name    : GlobalTheory.OddBlock.BinomialValue.detR_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:33:30.704261+00:00
 -- url     : https://prove2.me/theorems/2a4f895c-85d7-5f44-8fce-721e15c6d1bd

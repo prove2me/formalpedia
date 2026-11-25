@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_chowHt_eq_chowHt_places_1244538cd039
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_chowHt_eq_chowHt_places_1244538cd039
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:12.76532+00:00
 -- url     : https://prove2.me/theorems/6c3d8b77-57d0-424d-b723-cfd811c57a40

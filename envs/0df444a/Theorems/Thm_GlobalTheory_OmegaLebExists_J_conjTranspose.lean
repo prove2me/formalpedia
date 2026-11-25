@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OmegaLebExists_J_conjTranspose
 -- name    : GlobalTheory.OmegaLebExists.J_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:26:16.556978+00:00
 -- url     : https://prove2.me/theorems/fb00f514-2226-41d0-8513-b7050f24ce6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesIsLattice_full_bf47e659fe20
 -- name    : P2M_GroundTheory_Heights__Heights_LinesIsLattice_full_bf47e659fe20
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:25.854484+00:00
 -- url     : https://prove2.me/theorems/45d7deea-7890-4353-851a-9310184264d2

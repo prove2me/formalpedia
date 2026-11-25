@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_Representative_proof_61b56da860aa
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_Representative_proof_61b56da860aa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:54:42.377118+00:00
 -- url     : https://prove2.me/theorems/31bab3dc-9c5d-40fb-bd7f-38f55c755ad5

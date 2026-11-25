@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RectangleTablePos_proof_62ddc2e81a6b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RectangleTablePos_proof_62ddc2e81a6b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:02:19.725824+00:00
 -- url     : https://prove2.me/theorems/9ccd9f20-ac65-49b6-bb23-b06529c7ca61

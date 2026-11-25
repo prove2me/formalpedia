@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sn_id_piLp
 -- name    : SNumbers.sn_id_piLp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:25:09.276871+00:00
 -- url     : https://prove2.me/theorems/ed0638a4-4c0b-5bfa-bbfa-c898549b49df

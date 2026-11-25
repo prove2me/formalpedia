@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Unimod_exists_den
 -- name    : GlobalTheory.DegCnt.Unimod.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:26.570534+00:00
 -- url     : https://prove2.me/theorems/202cbd7b-bbed-47fa-8d58-674714edafdf

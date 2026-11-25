@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_modularJ_of_mul_mem
 -- name    : GlobalTheory.isIntegral_modularJ_of_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:24:37.61679+00:00
 -- url     : https://prove2.me/theorems/c32a59dd-773a-4a9b-b2a4-aa7b77599d2b

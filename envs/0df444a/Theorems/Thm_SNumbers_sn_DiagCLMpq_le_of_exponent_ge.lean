@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sn_DiagCLMpq_le_of_exponent_ge
 -- name    : SNumbers.sn_DiagCLMpq_le_of_exponent_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:25:36.338075+00:00
 -- url     : https://prove2.me/theorems/611713fc-1ddf-5a46-9eb6-473ef28f1fa3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_W_inner_trans
 -- name    : Formalism.L2.S.Pv.EnergyAbs.W_inner_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:08:55.394974+00:00
 -- url     : https://prove2.me/theorems/5eb6ca7f-2cdb-5268-9e6d-cef596b7793d

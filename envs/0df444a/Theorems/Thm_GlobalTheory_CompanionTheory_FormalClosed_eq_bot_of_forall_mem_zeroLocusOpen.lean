@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FormalClosed_eq_bot_of_forall_mem_zeroLocusOpen
 -- name    : GlobalTheory.CompanionTheory.FormalClosed.eq_bot_of_forall_mem_zeroLocusOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:10:01.626582+00:00
 -- url     : https://prove2.me/theorems/eb686194-1584-4899-a503-2a2c4973eb09

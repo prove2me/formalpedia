@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_kolmogorovNumber_DiagCLM_eq
 -- name    : SNumbers.kolmogorovNumber_DiagCLM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:24:50.895785+00:00
 -- url     : https://prove2.me/theorems/f0b20fb3-f012-5820-873e-3701836a7c31

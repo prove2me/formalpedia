@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FixDisc_norm_le
 -- name    : GlobalTheory.DegCnt.FixDisc.norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:16:37.988785+00:00
 -- url     : https://prove2.me/theorems/2d29b2d0-e651-545d-81f6-35212be161f5

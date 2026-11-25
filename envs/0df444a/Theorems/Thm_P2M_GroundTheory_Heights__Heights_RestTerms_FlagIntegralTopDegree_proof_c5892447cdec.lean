@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralTopDegree_proof_c5892447cdec
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagIntegralTopDegree_proof_c5892447cdec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:01:10.870828+00:00
 -- url     : https://prove2.me/theorems/a7d724ec-dac7-4463-9728-d7fed73ed2e0

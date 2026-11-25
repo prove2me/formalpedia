@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_exists_finite_generator_of_isCompactElement
 -- name    : PretorsionImageClosed.SetClosure.exists_finite_generator_of_isCompactElement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:04:17.243072+00:00
 -- url     : https://prove2.me/theorems/80e1f04a-2cd9-4b62-92c5-fcda64029872

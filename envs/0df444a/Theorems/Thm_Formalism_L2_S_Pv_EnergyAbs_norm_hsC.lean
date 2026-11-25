@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_norm_hsC
 -- name    : Formalism.L2.S.Pv.EnergyAbs.norm_hsC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:07:45.726804+00:00
 -- url     : https://prove2.me/theorems/2b965448-248c-4870-951d-3bf676ac2069

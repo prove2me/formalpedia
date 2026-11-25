@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_map_lastTwoEmb
 -- name    : GlobalTheory.Cube.map_lastTwoEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:06:04.743368+00:00
 -- url     : https://prove2.me/theorems/f0ad4447-70ac-5f8b-99c8-1338c3217620

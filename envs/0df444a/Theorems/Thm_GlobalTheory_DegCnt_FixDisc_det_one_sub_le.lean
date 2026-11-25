@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FixDisc_det_one_sub_le
 -- name    : GlobalTheory.DegCnt.FixDisc.det_one_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:16:30.472578+00:00
 -- url     : https://prove2.me/theorems/04ea9dd5-e1ae-5492-b047-3bcf46518999

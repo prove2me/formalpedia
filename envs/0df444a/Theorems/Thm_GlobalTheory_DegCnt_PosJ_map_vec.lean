@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosJ_map_vec
 -- name    : GlobalTheory.DegCnt.PosJ.map_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:53:28.662631+00:00
 -- url     : https://prove2.me/theorems/5c01593b-da36-4fa9-8d68-3840b87005a7

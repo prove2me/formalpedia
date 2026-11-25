@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_gelfand_le_one
 -- name    : SNumbers.L1Linf.gelfand_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:26:41.298141+00:00
 -- url     : https://prove2.me/theorems/3a233159-bccd-421f-aecb-bea5b7e42e31

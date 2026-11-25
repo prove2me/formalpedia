@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_DiagCLM_eq
 -- name    : SNumbers.gelfandNumber_DiagCLM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:21:04.325614+00:00
 -- url     : https://prove2.me/theorems/f362c8e3-b3e4-4438-95a4-991a4b10e2da

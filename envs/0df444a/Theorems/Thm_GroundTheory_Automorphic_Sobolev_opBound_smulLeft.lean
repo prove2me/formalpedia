@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_opBound_smulLeft
 -- name    : GroundTheory.Automorphic.Sobolev.opBound_smulLeft
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:20:23.974406+00:00
 -- url     : https://prove2.me/theorems/438e83ab-5c8d-4fc5-b0cd-9dcd4f302603

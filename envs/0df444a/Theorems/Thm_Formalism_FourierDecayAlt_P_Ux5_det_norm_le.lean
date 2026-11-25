@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux5_det_norm_le
 -- name    : Formalism.FourierDecayAlt.P.Ux5.det_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:10:06.847885+00:00
 -- url     : https://prove2.me/theorems/489c14c6-b75e-48cb-b88a-fd45c570533c

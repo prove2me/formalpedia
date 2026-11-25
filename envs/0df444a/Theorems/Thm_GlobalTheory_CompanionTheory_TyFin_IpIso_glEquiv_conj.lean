@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_IpIso_glEquiv_conj
 -- name    : GlobalTheory.CompanionTheory.TyFin.IpIso.glEquiv_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:18:45.172635+00:00
 -- url     : https://prove2.me/theorems/9f2657f5-0852-45cb-bf12-34e9145b47c5

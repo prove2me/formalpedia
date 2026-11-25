@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeOne_cone_homog
 -- name    : GlobalTheory.HCXi.ConeOne.cone_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:50:37.029179+00:00
 -- url     : https://prove2.me/theorems/bf62cc09-e84b-46ce-8f55-fac208cb304f

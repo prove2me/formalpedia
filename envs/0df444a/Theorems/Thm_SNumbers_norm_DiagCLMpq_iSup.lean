@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_DiagCLMpq_iSup
 -- name    : SNumbers.norm_DiagCLMpq_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:25:33.867172+00:00
 -- url     : https://prove2.me/theorems/4c92d739-40a1-51a7-849c-c285cbc8243e

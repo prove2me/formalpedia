@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_PinF_exists_norm_int
 -- name    : Formalism.HermitianLattices.Ext.L3.PinF.exists_norm_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:04:48.03636+00:00
 -- url     : https://prove2.me/theorems/e6aaa02c-83e9-49f1-a48d-c70de005c1fe

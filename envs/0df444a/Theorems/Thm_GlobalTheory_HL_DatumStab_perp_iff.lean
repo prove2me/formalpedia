@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DatumStab_perp_iff
 -- name    : GlobalTheory.HL.DatumStab.perp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:09:44.329752+00:00
 -- url     : https://prove2.me/theorems/6ddf23e3-1280-5398-9d92-9602deb8668f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_WeierstrassCurveSeries_inv_mem_unitBall
 -- name    : Formalism.L2.Th1.G.WeierstrassCurveSeries.inv_mem_unitBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:04:58.297665+00:00
 -- url     : https://prove2.me/theorems/a4bb04aa-ddd1-5770-8347-0195f9125446

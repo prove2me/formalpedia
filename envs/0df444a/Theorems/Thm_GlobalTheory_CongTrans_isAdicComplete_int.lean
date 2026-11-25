@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongTrans_isAdicComplete_int
 -- name    : GlobalTheory.CongTrans.isAdicComplete_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:09:58.324995+00:00
 -- url     : https://prove2.me/theorems/4d957799-fe85-4f6c-8db4-322cb781559c

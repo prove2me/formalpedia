@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_analyticAt_weierstrassP_comp_add
 -- name    : GroundTheory.Global.Elliptic.analyticAt_weierstrassP_comp_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:08:11.235047+00:00
 -- url     : https://prove2.me/theorems/1a4ea412-ccb7-4ae6-8fd1-ebd313965ef0

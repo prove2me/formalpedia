@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCount_addSet_insert
 -- name    : GlobalTheory.CompanionTheory.ZuckCount.addSet_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:58:27.078834+00:00
 -- url     : https://prove2.me/theorems/8af3d991-0286-5a5e-a874-2265db93227b

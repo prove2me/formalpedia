@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_isT_partial
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.isT_partial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:26:17.744841+00:00
 -- url     : https://prove2.me/theorems/c11fc2d7-9679-5055-b8b2-85c49d1b6a01

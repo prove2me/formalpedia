@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchAevalSignedRename_proof_cc7c8ad6eb65
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchAevalSignedRename_proof_cc7c8ad6eb65
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:01:34.415852+00:00
 -- url     : https://prove2.me/theorems/0eed17c9-9c8e-4273-aa91-07e9a58e6fc5

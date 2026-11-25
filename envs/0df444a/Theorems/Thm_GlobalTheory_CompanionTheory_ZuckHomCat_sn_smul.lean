@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckHomCat_sn_smul
 -- name    : GlobalTheory.CompanionTheory.ZuckHomCat.sn_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:56:16.951409+00:00
 -- url     : https://prove2.me/theorems/26bfff83-da20-44ad-94a3-6fef8df0d235

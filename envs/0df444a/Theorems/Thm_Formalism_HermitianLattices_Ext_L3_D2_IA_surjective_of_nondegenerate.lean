@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_IA_surjective_of_nondegenerate
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.IA.surjective_of_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:01:14.12968+00:00
 -- url     : https://prove2.me/theorems/5bd94df3-e4d6-4a7e-a927-351aef75ce92

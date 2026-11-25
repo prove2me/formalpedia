@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_trip_fixLat_inf_eq_and_pairing
 -- name    : GlobalTheory.DegCnt.trip_fixLat_inf_eq_and_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:56:21.059228+00:00
 -- url     : https://prove2.me/theorems/28122ad3-0a72-4ba4-a005-2f1b5443bf38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CongFin_relIndex_ne_zero
 -- name    : GlobalTheory.HL.CongFin.relIndex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:08:51.517205+00:00
 -- url     : https://prove2.me/theorems/45393892-5a7c-4e1d-b57d-a262f6a23f52

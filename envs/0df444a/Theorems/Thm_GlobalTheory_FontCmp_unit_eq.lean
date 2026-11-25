@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_unit_eq
 -- name    : GlobalTheory.FontCmp.unit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:09:04.383095+00:00
 -- url     : https://prove2.me/theorems/9071fc86-31dc-41da-8d6a-4f8fc53c2246

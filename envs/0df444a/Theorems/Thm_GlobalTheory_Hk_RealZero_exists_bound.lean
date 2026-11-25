@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_RealZero_exists_bound
 -- name    : GlobalTheory.Hk.RealZero.exists_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:36:25.050888+00:00
 -- url     : https://prove2.me/theorems/673f7072-95d4-4558-85cb-4ebc6a07484d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_traceLower
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.traceLower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:48:43.858961+00:00
 -- url     : https://prove2.me/theorems/b3e3472f-3028-4dbe-a659-56a85cce8338

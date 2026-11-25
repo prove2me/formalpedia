@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_add_negIndex_eq_rank
 -- name    : GlobalTheory.Inertia.posIndex_add_negIndex_eq_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:30.299796+00:00
 -- url     : https://prove2.me/theorems/d1db7605-42fe-496a-b0c1-b19a15ad54b7

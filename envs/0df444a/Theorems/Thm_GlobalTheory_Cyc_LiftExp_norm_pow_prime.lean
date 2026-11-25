@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_LiftExp_norm_pow_prime
 -- name    : GlobalTheory.Cyc.LiftExp.norm_pow_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:58:26.390069+00:00
 -- url     : https://prove2.me/theorems/e8c7e7f5-5e3e-4ef9-b6f9-997e4a3bb839

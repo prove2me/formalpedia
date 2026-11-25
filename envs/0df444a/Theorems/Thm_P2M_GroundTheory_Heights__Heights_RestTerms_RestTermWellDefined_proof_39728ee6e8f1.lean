@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestTermWellDefined_proof_39728ee6e8f1
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestTermWellDefined_proof_39728ee6e8f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:01:11.101462+00:00
 -- url     : https://prove2.me/theorems/53960fe7-2139-4f06-9a72-be5ecb2fd92f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_unfolding_identity_of_integration_formula
 -- name    : Formalism.FourierDecayAlt.P.unfolding_identity_of_integration_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:23:34.296263+00:00
 -- url     : https://prove2.me/theorems/20543083-aa8b-42e7-89fe-d0802dd7351e

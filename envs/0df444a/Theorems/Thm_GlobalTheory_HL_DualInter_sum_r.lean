@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DualInter_sum_r
 -- name    : GlobalTheory.HL.DualInter.sum_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:07:40.23081+00:00
 -- url     : https://prove2.me/theorems/e35c62dd-227e-57eb-9e47-3a386f481094

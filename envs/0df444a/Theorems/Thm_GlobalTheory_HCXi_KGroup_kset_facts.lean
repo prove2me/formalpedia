@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_KGroup_kset_facts
 -- name    : GlobalTheory.HCXi.KGroup.kset_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:47:23.463473+00:00
 -- url     : https://prove2.me/theorems/2a6b5544-9af2-4954-8f8b-d41c648bd36e

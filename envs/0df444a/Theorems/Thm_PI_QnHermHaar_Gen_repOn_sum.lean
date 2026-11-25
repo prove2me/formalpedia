@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_Gen_repOn_sum
 -- name    : PI.QnHermHaar.Gen.repOn_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T19:58:52.16425+00:00
 -- url     : https://prove2.me/theorems/fdc8b303-c405-4909-a25b-2825dd6e73b9

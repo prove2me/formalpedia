@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_SplitOver_mem_conj
 -- name    : GlobalTheory.Mass.SplitOver.mem_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:01:59.815581+00:00
 -- url     : https://prove2.me/theorems/1ec17ab8-caea-4e85-b14a-5906eb4fa892

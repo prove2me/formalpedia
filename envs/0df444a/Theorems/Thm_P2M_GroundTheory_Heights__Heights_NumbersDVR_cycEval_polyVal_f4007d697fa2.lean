@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_cycEval_polyVal_f4007d697fa2
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_cycEval_polyVal_f4007d697fa2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:10:16.387425+00:00
 -- url     : https://prove2.me/theorems/8d18b733-e7de-42c9-b38d-4a537bb8a8fa

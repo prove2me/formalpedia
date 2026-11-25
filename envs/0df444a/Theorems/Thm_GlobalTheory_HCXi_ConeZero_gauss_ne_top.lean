@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeZero_gauss_ne_top
 -- name    : GlobalTheory.HCXi.ConeZero.gauss_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:11:52.354515+00:00
 -- url     : https://prove2.me/theorems/10233f49-f546-4c91-b13f-091b427a7466

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_mvExp_partial
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_mvExp_partial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:01:22.076648+00:00
 -- url     : https://prove2.me/theorems/a47088f8-496b-480b-9a2c-fd929958db6d

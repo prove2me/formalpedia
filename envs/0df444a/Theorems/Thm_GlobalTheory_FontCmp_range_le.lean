@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_range_le
 -- name    : GlobalTheory.FontCmp.range_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:36:55.955806+00:00
 -- url     : https://prove2.me/theorems/73e39847-fef4-449b-be22-7edc4a7a0738

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_ReflectionLatticeMembership_normalForm_baseLattice_le_dualSpan_sup_line
 -- name    : GlobalTheory.DegCnt.ReflectionLatticeMembership.normalForm_baseLattice_le_dualSpan_sup_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:26:46.64244+00:00
 -- url     : https://prove2.me/theorems/51586896-98e1-4820-9e8d-fce19a7a26c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_NFUnique_Cmp_symm
 -- name    : GlobalTheory.DegAsm.NFUnique.Cmp.symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:09:31.991537+00:00
 -- url     : https://prove2.me/theorems/06cf5d56-3432-43a7-8742-09a5a80066b0

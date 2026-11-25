@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QReflGen_hf_smul_r
 -- name    : GlobalTheory.HL.QReflGen.hf_smul_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:08:52.301096+00:00
 -- url     : https://prove2.me/theorems/a45d93c4-0552-4a7d-ace7-74cf7fd85fb2

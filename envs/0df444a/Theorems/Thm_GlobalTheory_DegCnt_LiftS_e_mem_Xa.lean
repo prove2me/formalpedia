@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_e_mem_Xa
 -- name    : GlobalTheory.DegCnt.LiftS.e_mem_Xa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:07:47.491256+00:00
 -- url     : https://prove2.me/theorems/1f3ca8f7-14c8-5c0f-b328-b9b18bd52c7f

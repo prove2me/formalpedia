@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_word_rep
 -- name    : CompanionTheory.CapEig.word_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:03:03.577675+00:00
 -- url     : https://prove2.me/theorems/35eb2b73-4554-4626-b445-3cffdba51156

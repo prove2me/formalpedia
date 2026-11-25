@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_DiscOrder_main
 -- name    : GlobalTheory.Mass.DiscOrder.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:57:14.091824+00:00
 -- url     : https://prove2.me/theorems/dc61d1fa-de28-4aae-ae0d-dac9efebc94a

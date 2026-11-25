@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_maDensity_comp_affine_974c4adc07ab
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMongeAmpereAffineInvariance_maDensity_comp_affine_974c4adc07ab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:20.441175+00:00
 -- url     : https://prove2.me/theorems/993f7b33-3ce9-4061-abbb-a0dc41a5ddb1

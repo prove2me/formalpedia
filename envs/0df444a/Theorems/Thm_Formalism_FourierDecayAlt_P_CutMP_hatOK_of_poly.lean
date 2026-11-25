@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_hatOK_of_poly
 -- name    : Formalism.FourierDecayAlt.P.CutMP.hatOK_of_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:04:08.562809+00:00
 -- url     : https://prove2.me/theorems/e4cbc4cf-6ede-580e-9dc1-afdf3cb47e14

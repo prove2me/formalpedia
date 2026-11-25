@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_not_multiplicative_bernsteinNumber
 -- name    : SNumbers.not_multiplicative_bernsteinNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:18:11.778856+00:00
 -- url     : https://prove2.me/theorems/526ba035-765d-4195-a0f0-428bb30180cb

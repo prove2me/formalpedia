@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coe_finprod_nnnorm_idealIdele
 -- name    : GroundTheory.Global.coe_finprod_nnnorm_idealIdele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:14:09.818369+00:00
 -- url     : https://prove2.me/theorems/35a56e94-8be3-5575-aac5-309c45334f43

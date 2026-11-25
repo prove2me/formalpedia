@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_dixmierMalliavin_line
 -- name    : GroundTheory.Automorphic.exists_dixmierMalliavin_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:58:10.927435+00:00
 -- url     : https://prove2.me/theorems/1f1a6643-8ffe-4c02-a18f-edd400c35cb8

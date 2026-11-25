@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_iteratedLineDeriv_eq_fourierMultiplier
 -- name    : GroundTheory.Automorphic.Sobolev.iteratedLineDeriv_eq_fourierMultiplier
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:02:27.562658+00:00
 -- url     : https://prove2.me/theorems/c9a731b5-13df-4713-b632-b7c3badcbc1e

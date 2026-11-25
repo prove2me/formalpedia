@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_Adapted_finrank_fil
 -- name    : GlobalTheory.DRFil.Adapted.finrank_fil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:35:59.234045+00:00
 -- url     : https://prove2.me/theorems/18897d0f-696e-4d2b-bd82-562bdfc491fb

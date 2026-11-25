@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticValuationIndexTwo_norm_index_two
 -- name    : GlobalTheory.QuadraticValuationIndexTwo.norm_index_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:14:03.859685+00:00
 -- url     : https://prove2.me/theorems/dbb87b52-7cd9-4df1-a5a5-f39048336617

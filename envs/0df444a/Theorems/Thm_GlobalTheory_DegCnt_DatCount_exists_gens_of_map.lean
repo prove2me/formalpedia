@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_DatCount_exists_gens_of_map
 -- name    : GlobalTheory.DegCnt.DatCount.exists_gens_of_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:18:57.395156+00:00
 -- url     : https://prove2.me/theorems/e47c3bca-fefd-445d-9773-7e35190cb85c

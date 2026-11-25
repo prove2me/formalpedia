@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_weierstrassCoeff_zero
 -- name    : GroundTheory.Global.Elliptic.weierstrassCoeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:06:39.510799+00:00
 -- url     : https://prove2.me/theorems/39aaece3-316f-454d-93e7-6009273d852c

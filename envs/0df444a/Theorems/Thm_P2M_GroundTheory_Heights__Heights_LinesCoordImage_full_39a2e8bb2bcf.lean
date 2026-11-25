@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesCoordImage_full_39a2e8bb2bcf
 -- name    : P2M_GroundTheory_Heights__Heights_LinesCoordImage_full_39a2e8bb2bcf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:56.140262+00:00
 -- url     : https://prove2.me/theorems/e0067709-1865-45dd-b59b-2f7521b045da

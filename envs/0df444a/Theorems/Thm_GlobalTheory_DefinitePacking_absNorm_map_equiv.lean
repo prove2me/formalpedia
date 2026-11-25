@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DefinitePacking_absNorm_map_equiv
 -- name    : GlobalTheory.DefinitePacking.absNorm_map_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:16:55.468161+00:00
 -- url     : https://prove2.me/theorems/d9d2e80c-3c88-4226-8a2c-37136964a6ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_HermClass_congr_diagonal
 -- name    : GlobalTheory.LocalQuad.HermClass.congr_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:13:59.012071+00:00
 -- url     : https://prove2.me/theorems/2487bd27-2ad6-4d48-8ac9-fcf8100170b3

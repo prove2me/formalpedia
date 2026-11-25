@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_one_le_sqrt_one_add_norm_sq
 -- name    : GroundTheory.Automorphic.Sobolev.one_le_sqrt_one_add_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:20:30.161864+00:00
 -- url     : https://prove2.me/theorems/f26ee18d-1708-46a0-be61-d889af39ab3e

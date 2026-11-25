@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesInt_exists_trace_norm
 -- name    : GlobalTheory.HL.PlacesInt.exists_trace_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:09:51.06141+00:00
 -- url     : https://prove2.me/theorems/762f8f61-f1e9-5762-b83b-747aeaec5c82

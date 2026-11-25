@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_norm_DiagCLMpq_eq
 -- name    : SNumbers.norm_DiagCLMpq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:25:42.48642+00:00
 -- url     : https://prove2.me/theorems/92835b26-36e8-481c-8b9b-b1ee31eea030

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_finiteClosure_isCompactElement
 -- name    : PretorsionImageClosed.SetClosure.finiteClosure_isCompactElement
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:55:53.873876+00:00
 -- url     : https://prove2.me/theorems/cb540b96-44e4-4f18-9d36-53ecc7f49d8f

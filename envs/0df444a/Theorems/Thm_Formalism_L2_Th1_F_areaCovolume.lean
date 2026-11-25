@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_areaCovolume
 -- name    : Formalism.L2.Th1.F.areaCovolume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:58:48.805813+00:00
 -- url     : https://prove2.me/theorems/1d0fa522-6916-4a15-9bd5-1c7566606760

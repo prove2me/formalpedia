@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_CoordDir_comb_eq
 -- name    : GlobalTheory.ChartCmp.CoordDir.comb_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:39:18.193735+00:00
 -- url     : https://prove2.me/theorems/a1b25fc2-088f-40be-90e0-a8fe160a8d4d

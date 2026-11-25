@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_omegaNorm
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.omegaNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:47:55.816059+00:00
 -- url     : https://prove2.me/theorems/92cfad6e-7620-4160-b2ed-12798b319677

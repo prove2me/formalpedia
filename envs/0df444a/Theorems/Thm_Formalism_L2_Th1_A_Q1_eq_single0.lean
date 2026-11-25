@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q1_eq_single0
 -- name    : Formalism.L2.Th1.A.Q1.eq_single0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:57:43.433561+00:00
 -- url     : https://prove2.me/theorems/231d2330-e991-5316-bd13-061b4e9875d2

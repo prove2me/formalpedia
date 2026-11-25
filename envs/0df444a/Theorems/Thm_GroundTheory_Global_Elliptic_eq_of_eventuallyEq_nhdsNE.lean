@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_eq_of_eventuallyEq_nhdsNE
 -- name    : GroundTheory.Global.Elliptic.eq_of_eventuallyEq_nhdsNE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:10:01.944046+00:00
 -- url     : https://prove2.me/theorems/d0adc8cf-ce25-4813-8ebc-4bf7bb5523e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LogDerivHalf_logDeriv_sub_exceptional_le
 -- name    : GlobalTheory.Hk.LogDerivHalf.logDeriv_sub_exceptional_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:35:31.630896+00:00
 -- url     : https://prove2.me/theorems/ab6b9c05-9c62-4504-a087-d204dd83674a

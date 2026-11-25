@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_hpk_herm
 -- name    : CompanionTheory.LimBd.Main.hpk_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:07:42.386207+00:00
 -- url     : https://prove2.me/theorems/4d616957-c492-5c05-bafd-40dce6eccae2

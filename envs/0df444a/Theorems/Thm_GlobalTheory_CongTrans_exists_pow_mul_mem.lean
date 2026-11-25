@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongTrans_exists_pow_mul_mem
 -- name    : GlobalTheory.CongTrans.exists_pow_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:08:22.936302+00:00
 -- url     : https://prove2.me/theorems/41413fb7-c550-5a67-bcb6-ab2a18707744

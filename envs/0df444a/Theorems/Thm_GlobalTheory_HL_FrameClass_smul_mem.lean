@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_smul_mem
 -- name    : GlobalTheory.HL.FrameClass.smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:05:46.2848+00:00
 -- url     : https://prove2.me/theorems/f60cdf9f-4d18-4a25-88f9-72733ab68917

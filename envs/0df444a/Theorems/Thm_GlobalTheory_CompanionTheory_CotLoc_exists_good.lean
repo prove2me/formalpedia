@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_exists_good
 -- name    : GlobalTheory.CompanionTheory.CotLoc.exists_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:58:20.585739+00:00
 -- url     : https://prove2.me/theorems/04bcd4d8-7dd8-47af-848f-99a722dd42ee

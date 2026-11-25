@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_integrable_mul_conj
 -- name    : Formalism.L2.S.Pv.SchurTens.integrable_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:09:50.375412+00:00
 -- url     : https://prove2.me/theorems/011cf639-b63c-54cc-b67c-5b2cedb16c9c

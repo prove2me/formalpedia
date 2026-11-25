@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_inverse_endo_integral_holds
 -- name    : Formalism.L2.Th1.G.inverse_endo_integral_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:41:32.415385+00:00
 -- url     : https://prove2.me/theorems/d57eb4b4-30a4-49ce-996b-2e598ac46352

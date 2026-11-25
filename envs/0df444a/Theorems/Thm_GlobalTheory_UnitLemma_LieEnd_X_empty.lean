@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_LieEnd_X_empty
 -- name    : GlobalTheory.UnitLemma.LieEnd.X_empty
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:03:17.689222+00:00
 -- url     : https://prove2.me/theorems/f4f71984-dccc-5cfc-89db-9cf591b781a8

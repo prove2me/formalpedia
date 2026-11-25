@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesStdPi_full_9d1e83483f6d
 -- name    : P2M_GroundTheory_Heights__Heights_LinesStdPi_full_9d1e83483f6d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:34.653315+00:00
 -- url     : https://prove2.me/theorems/4e385279-002a-4541-ade6-264eed0e8fbc

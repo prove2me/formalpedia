@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GaussSummand_hf_smul_right
 -- name    : GlobalTheory.HL.GaussSummand.hf_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:08:07.496362+00:00
 -- url     : https://prove2.me/theorems/74880ff7-f5b7-42d5-8307-ea8fc94d70dd

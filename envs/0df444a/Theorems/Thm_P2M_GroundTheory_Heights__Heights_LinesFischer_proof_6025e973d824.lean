@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesFischer_proof_6025e973d824
 -- name    : P2M_GroundTheory_Heights__Heights_LinesFischer_proof_6025e973d824
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:31.387408+00:00
 -- url     : https://prove2.me/theorems/40ebc16b-131a-4454-b3d3-d19eee120547

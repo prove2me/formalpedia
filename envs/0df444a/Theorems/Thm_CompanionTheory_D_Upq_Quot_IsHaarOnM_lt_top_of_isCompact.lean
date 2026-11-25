@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Quot_IsHaarOnM_lt_top_of_isCompact
 -- name    : CompanionTheory.D.Upq.Quot.IsHaarOnM.lt_top_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:30:24.015569+00:00
 -- url     : https://prove2.me/theorems/9bcfaca1-6119-47c9-b800-fd8010b1ff42

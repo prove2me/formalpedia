@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_quotSlope_comap
 -- name    : GlobalTheory.ArchMetric.quotSlope_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:57:40.15003+00:00
 -- url     : https://prove2.me/theorems/b77488d0-7b62-4bb8-8ab4-70a2f6e0b4bf

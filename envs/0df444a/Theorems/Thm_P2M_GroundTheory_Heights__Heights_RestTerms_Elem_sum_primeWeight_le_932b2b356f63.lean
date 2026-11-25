@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_sum_primeWeight_le_932b2b356f63
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_sum_primeWeight_le_932b2b356f63
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:09:13.587589+00:00
 -- url     : https://prove2.me/theorems/30e54e1d-de62-478b-b87b-1c8c6eab46f1

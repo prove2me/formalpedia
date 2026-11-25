@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_quotient_gens_and_intermediate_count
 -- name    : GlobalTheory.T.lattice_quotient_gens_and_intermediate_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:09:50.426324+00:00
 -- url     : https://prove2.me/theorems/cfc0ff35-99ef-47f7-aaf5-0337ed9df4f2

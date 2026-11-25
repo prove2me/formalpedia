@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_lowerSecond_le_F
 -- name    : PretorsionImageClosed.Statement.lowerSecond_le_F
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:07:25.328909+00:00
 -- url     : https://prove2.me/theorems/7d4a9b26-d8f4-4bdb-b808-443fccb14d1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rowIdx_injective
 -- name    : Formalism.L2.FormalSeriesBounds.rowIdx_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:28:05.090893+00:00
 -- url     : https://prove2.me/theorems/574838b3-b6dc-44aa-8a15-5c08a3b3232f

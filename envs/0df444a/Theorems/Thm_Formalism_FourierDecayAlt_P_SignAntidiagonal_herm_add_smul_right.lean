@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_herm_add_smul_right
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.herm_add_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:09:25.61725+00:00
 -- url     : https://prove2.me/theorems/a911251a-943d-58d7-a1e0-734e58b786b3

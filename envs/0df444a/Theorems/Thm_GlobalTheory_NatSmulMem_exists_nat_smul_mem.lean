@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NatSmulMem_exists_nat_smul_mem
 -- name    : GlobalTheory.NatSmulMem.exists_nat_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:08:40.34232+00:00
 -- url     : https://prove2.me/theorems/5fc4e765-9531-4a16-9e11-fa3c36440ced

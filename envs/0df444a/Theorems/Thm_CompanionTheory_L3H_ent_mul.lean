@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_L3H_ent_mul
 -- name    : CompanionTheory.L3H.ent_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:10:37.335019+00:00
 -- url     : https://prove2.me/theorems/deea37a0-ca7d-57eb-bb5a-e7125dfa451c

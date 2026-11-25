@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_dep_idem_eq
 -- name    : GlobalTheory.GramCount.dep_idem_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:21:16.598199+00:00
 -- url     : https://prove2.me/theorems/b0cf5af6-f21b-4c99-8878-37b51137bf38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_jumps_rankOne
 -- name    : GlobalTheory.BK.jumps_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:41:49.214478+00:00
 -- url     : https://prove2.me/theorems/224d7e9f-718c-4524-b114-4ec23996410f

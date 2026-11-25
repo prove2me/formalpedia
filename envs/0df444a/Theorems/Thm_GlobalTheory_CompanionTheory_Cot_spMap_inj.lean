@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Cot_spMap_inj
 -- name    : GlobalTheory.CompanionTheory.Cot.spMap_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:04:35.316926+00:00
 -- url     : https://prove2.me/theorems/cd62fec8-c62e-45c5-8419-a7107476943e

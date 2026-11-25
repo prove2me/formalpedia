@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_kaehler_ext
 -- name    : GlobalTheory.CompanionTheory.CotLoc.kaehler_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:57:32.093809+00:00
 -- url     : https://prove2.me/theorems/d3d14fe3-d4c8-5792-a111-abcfa47dd3df

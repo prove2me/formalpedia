@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_Adapted_multV_eq
 -- name    : GlobalTheory.DRFil.Adapted.multV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:14:46.265197+00:00
 -- url     : https://prove2.me/theorems/75c822d8-fe4c-4e6b-930a-db36cfabddbc

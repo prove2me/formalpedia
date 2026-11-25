@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_mul_inv_UH
 -- name    : PI.HwUniqW.mul_inv_UH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:44:44.660807+00:00
 -- url     : https://prove2.me/theorems/4fe547dd-ce0d-433c-9d88-a46ac4d1a284

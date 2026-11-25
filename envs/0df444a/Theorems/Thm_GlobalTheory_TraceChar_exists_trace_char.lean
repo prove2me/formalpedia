@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TraceChar_exists_trace_char
 -- name    : GlobalTheory.TraceChar.exists_trace_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:09:30.604652+00:00
 -- url     : https://prove2.me/theorems/d1c044ae-525e-4292-a029-f07e85d1619f

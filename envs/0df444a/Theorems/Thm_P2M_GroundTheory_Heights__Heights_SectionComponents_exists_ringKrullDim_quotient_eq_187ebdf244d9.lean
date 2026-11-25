@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionComponents_exists_ringKrullDim_quotient_eq_187ebdf244d9
 -- name    : P2M_GroundTheory_Heights__Heights_SectionComponents_exists_ringKrullDim_quotient_eq_187ebdf244d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:17:38.969309+00:00
 -- url     : https://prove2.me/theorems/dee3a219-6aef-555d-a67b-3ebf6a262a6d

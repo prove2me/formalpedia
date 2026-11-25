@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_LiftExp_norm_pow_coprime
 -- name    : GlobalTheory.Cyc.LiftExp.norm_pow_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:58:05.117115+00:00
 -- url     : https://prove2.me/theorems/282cde60-5544-5307-b0a2-c32e4bb2df6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecAlgFieldChange_proof_8385afe2af7e
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecAlgFieldChange_proof_8385afe2af7e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:10.348697+00:00
 -- url     : https://prove2.me/theorems/341f7135-c9f7-49fa-9e5e-d22e8238cf28

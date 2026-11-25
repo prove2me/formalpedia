@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_gram_mul_flag
 -- name    : GlobalTheory.HCXi.gram_mul_flag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:49:55.413389+00:00
 -- url     : https://prove2.me/theorems/c9597e5f-0754-442a-8a02-f22e5e71a1ee

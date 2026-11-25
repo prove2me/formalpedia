@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx1_APL_preOf_actual
 -- name    : Formalism.FourierDecayAlt.P.NFx1.APL.preOf_actual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:21:43.898182+00:00
 -- url     : https://prove2.me/theorems/2e9fb861-1a39-4a9e-bd5c-c05870dd1539

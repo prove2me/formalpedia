@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongIndex_relIndex_le
 -- name    : GlobalTheory.CongIndex.relIndex_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:33:55.007612+00:00
 -- url     : https://prove2.me/theorems/2182ac8e-fbdf-4293-b86c-ea11254edac3

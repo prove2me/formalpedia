@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_norm_pow_sub_lin_le
 -- name    : GlobalTheory.Cyc.norm_pow_sub_lin_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:04:36.312798+00:00
 -- url     : https://prove2.me/theorems/06ab3b23-bdbd-4ac1-a40b-ef1383674951

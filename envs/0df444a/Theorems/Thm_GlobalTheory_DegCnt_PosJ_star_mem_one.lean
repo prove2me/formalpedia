@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosJ_star_mem_one
 -- name    : GlobalTheory.DegCnt.PosJ.star_mem_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:09.909111+00:00
 -- url     : https://prove2.me/theorems/85410187-3496-4c62-9905-13d185e1aed8

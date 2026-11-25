@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_double_coset_term_basic_facts
 -- name    : GlobalTheory.T.hermitian_double_coset_term_basic_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:07:11.581902+00:00
 -- url     : https://prove2.me/theorems/45802c0f-b813-5788-923a-2f87a19f73de

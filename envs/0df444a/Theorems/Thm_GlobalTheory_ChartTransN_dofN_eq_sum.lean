@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartTransN_dofN_eq_sum
 -- name    : GlobalTheory.ChartTransN.dofN_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:50:44.211943+00:00
 -- url     : https://prove2.me/theorems/183c6467-9ab1-4412-b809-2fe2b7019cbc

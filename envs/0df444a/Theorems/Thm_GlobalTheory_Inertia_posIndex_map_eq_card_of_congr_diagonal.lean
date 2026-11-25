@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_map_eq_card_of_congr_diagonal
 -- name    : GlobalTheory.Inertia.posIndex_map_eq_card_of_congr_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:08.3118+00:00
 -- url     : https://prove2.me/theorems/a0d639c1-c2ef-4ab4-8855-97137f098e32

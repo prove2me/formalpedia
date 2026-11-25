@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeDeriv_reH_add_imH
 -- name    : GlobalTheory.CompanionTheory.WedgeDeriv.reH_add_imH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:56:40.68394+00:00
 -- url     : https://prove2.me/theorems/c45621ae-9a03-4d2b-87ff-0df3927a6aad

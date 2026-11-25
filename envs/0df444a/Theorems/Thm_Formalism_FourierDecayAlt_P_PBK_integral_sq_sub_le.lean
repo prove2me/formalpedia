@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_integral_sq_sub_le
 -- name    : Formalism.FourierDecayAlt.P.PBK.integral_sq_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:01:27.823577+00:00
 -- url     : https://prove2.me/theorems/2ab9daf0-bf51-4db3-8b6a-cf873d1531b0

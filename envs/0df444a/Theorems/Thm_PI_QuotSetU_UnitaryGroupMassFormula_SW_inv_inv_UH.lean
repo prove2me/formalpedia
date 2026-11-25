@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_inv_inv_UH
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.inv_inv_UH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:42:36.180116+00:00
 -- url     : https://prove2.me/theorems/0a4efae4-f0f0-4527-810a-82b964862515

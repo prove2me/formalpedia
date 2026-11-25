@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_upper_mul_of_ringEquiv
 -- name    : GroundTheory.Automorphic.Reduction.exists_upper_mul_of_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:12:24.717819+00:00
 -- url     : https://prove2.me/theorems/86e1d4d0-870b-543d-9351-5f8cba6bdd33

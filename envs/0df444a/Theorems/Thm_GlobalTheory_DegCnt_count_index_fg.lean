@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_count_index_fg
 -- name    : GlobalTheory.DegCnt.count_index_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:28:56.844909+00:00
 -- url     : https://prove2.me/theorems/fe15febe-0f4a-441e-af01-f3ffb526f534

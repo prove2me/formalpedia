@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QRefl_hf_zero_right
 -- name    : GlobalTheory.QRefl.hf_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:09:01.437919+00:00
 -- url     : https://prove2.me/theorems/fcee98d2-27b3-40ff-a992-46970e7dd352

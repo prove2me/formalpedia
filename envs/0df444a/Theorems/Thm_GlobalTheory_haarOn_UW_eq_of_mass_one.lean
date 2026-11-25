@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_haarOn_UW_eq_of_mass_one
 -- name    : GlobalTheory.haarOn_UW_eq_of_mass_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:38:44.230925+00:00
 -- url     : https://prove2.me/theorems/7ed99d59-b1ab-54ba-9510-e20f30d7d3f8

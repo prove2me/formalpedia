@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_curveBridge
 -- name    : Formalism.L2.Th1.F.curveBridge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:51:26.371715+00:00
 -- url     : https://prove2.me/theorems/42a42dac-b084-4d8f-9b64-205f7eab54a9

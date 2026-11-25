@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCasSplit_dOp_mul
 -- name    : GlobalTheory.CompanionTheory.ZuckCasSplit.dOp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:27:34.478807+00:00
 -- url     : https://prove2.me/theorems/b21c2a31-6fe4-41af-b1ee-adaa3d2ab3ee

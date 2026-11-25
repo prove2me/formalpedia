@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_frPt_eq_of_frMap_injective
 -- name    : GlobalTheory.Frames.frPt_eq_of_frMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T13:41:03.691078+00:00
 -- url     : https://prove2.me/theorems/34b6c74c-9aa8-464f-84b9-410522de8413

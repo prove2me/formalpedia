@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_AdaptInv_sameGr_symm
 -- name    : GlobalTheory.DegAsm.AdaptInv.sameGr_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:04.682562+00:00
 -- url     : https://prove2.me/theorems/79d9fb60-7b76-42cb-9faf-cb69ead4a19e

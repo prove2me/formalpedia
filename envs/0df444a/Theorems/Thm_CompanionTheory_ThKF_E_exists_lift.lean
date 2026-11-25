@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKF_E_exists_lift
 -- name    : CompanionTheory.ThKF.E.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:57.581704+00:00
 -- url     : https://prove2.me/theorems/d2e921d2-9209-49fe-916e-c72e04e15245

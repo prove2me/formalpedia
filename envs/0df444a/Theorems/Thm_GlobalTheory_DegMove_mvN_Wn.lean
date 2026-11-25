@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_mvN_Wn
 -- name    : GlobalTheory.DegMove.mvN_Wn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:01:00.3105+00:00
 -- url     : https://prove2.me/theorems/1c34182e-7c44-5d12-b3bf-b9481a186b9d

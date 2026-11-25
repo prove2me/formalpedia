@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartRankAdjoin_chartIdeal_eq_ker_7be0f566e7f4
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartRankAdjoin_chartIdeal_eq_ker_7be0f566e7f4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:33.218487+00:00
 -- url     : https://prove2.me/theorems/99663ada-b615-4fd1-99ed-7b484e4d1f9d

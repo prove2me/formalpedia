@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_wedgeT_surjective
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.wedgeT_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:03:23.721501+00:00
 -- url     : https://prove2.me/theorems/89cc503b-af17-5f72-9662-272e3208fcfa

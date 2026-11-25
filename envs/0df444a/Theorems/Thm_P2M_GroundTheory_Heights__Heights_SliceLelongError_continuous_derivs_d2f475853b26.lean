@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceLelongError_continuous_derivs_d2f475853b26
 -- name    : P2M_GroundTheory_Heights__Heights_SliceLelongError_continuous_derivs_d2f475853b26
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:15:44.670802+00:00
 -- url     : https://prove2.me/theorems/2ac045b2-f4f8-4e9c-bf79-3d1ba39ec4ca
