@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_prod_diff
 -- name    : PI.UnitaryGroupMassFormula.QmMove.prod_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:16.564854+00:00
 -- url     : https://prove2.me/theorems/4c75e768-511f-5771-be85-daf225c18b88

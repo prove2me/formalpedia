@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_sublattice_of_lattice
 -- name    : PI.UnitaryGroupMassFormula.LCG.sublattice_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:41:32.199908+00:00
 -- url     : https://prove2.me/theorems/08a2a4d5-f608-4371-a0f9-fac8dd9d6c34

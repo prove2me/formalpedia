@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_IdCellInSW_exists_smul_mem
 -- name    : PI.UnitaryGroupMassFormula.IdCellInSW.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:48.304295+00:00
 -- url     : https://prove2.me/theorems/d6ccfafa-9481-4d55-9e9b-0a24a8f616a6

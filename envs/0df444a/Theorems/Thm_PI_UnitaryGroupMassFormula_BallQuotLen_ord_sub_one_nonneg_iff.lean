@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BallQuotLen_ord_sub_one_nonneg_iff
 -- name    : PI.UnitaryGroupMassFormula.BallQuotLen.ord_sub_one_nonneg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:31.033289+00:00
 -- url     : https://prove2.me/theorems/2e31dac8-1fd8-421e-8ae0-1e6393cd43bc

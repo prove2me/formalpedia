@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_coe_rankOneGL_inv
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.coe_rankOneGL_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:26.652796+00:00
 -- url     : https://prove2.me/theorems/6fb49f67-d94f-4f8f-87c3-f46eea4fb07a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotMeasUniqW_qLift_isMulLeftInvariant
 -- name    : PI.QuotMeasUniqW.qLift_isMulLeftInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:18:41.215456+00:00
 -- url     : https://prove2.me/theorems/2815db94-53da-4b87-9df3-d2ac54e41845

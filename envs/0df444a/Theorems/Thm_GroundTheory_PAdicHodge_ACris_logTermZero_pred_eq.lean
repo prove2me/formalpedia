@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_logTermZero_pred_eq
 -- name    : GroundTheory.PAdicHodge.ACris.logTermZero_pred_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:08:35.365927+00:00
 -- url     : https://prove2.me/theorems/2e491de4-ff9f-5de3-b8b3-a203c3c760a2

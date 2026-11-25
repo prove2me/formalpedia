@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabBigW_vec_zero
 -- name    : PI.StabBigW.vec_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:13.835887+00:00
 -- url     : https://prove2.me/theorems/8a7dd63b-857d-540f-a6f5-13a4fbaba0fd

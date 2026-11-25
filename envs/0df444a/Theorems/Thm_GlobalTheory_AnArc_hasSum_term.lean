@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_hasSum_term
 -- name    : GlobalTheory.AnArc.hasSum_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:56:58.130581+00:00
 -- url     : https://prove2.me/theorems/1cf55bea-ac18-42a9-a83c-74a43d4384c2

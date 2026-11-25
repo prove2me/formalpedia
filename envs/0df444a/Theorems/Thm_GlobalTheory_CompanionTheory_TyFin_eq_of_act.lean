@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_eq_of_act
 -- name    : GlobalTheory.CompanionTheory.TyFin.eq_of_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:19:14.762103+00:00
 -- url     : https://prove2.me/theorems/56748829-7571-4a38-ab2a-13472190fd97

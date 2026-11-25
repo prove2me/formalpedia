@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_singleton_mem_chainsEndingAt
 -- name    : DilworthTheorem.singleton_mem_chainsEndingAt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:30:42.890674+00:00
 -- url     : https://prove2.me/theorems/3314d86f-8a17-5ec6-81ff-c4384a5e4c0f

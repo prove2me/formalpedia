@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_JetsPhW_W_log_derivative_integral_jet_integrality
 -- name    : PI.JetsPhW.W.log_derivative_integral_jet_integrality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:33:51.7608+00:00
 -- url     : https://prove2.me/theorems/a5184edc-36e5-4cc7-bf23-a0151422a3fa

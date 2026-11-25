@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_NTA_res_surj
 -- name    : PI.TwistedEisensteinNonvanishing.W.NTA.res_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:42.399258+00:00
 -- url     : https://prove2.me/theorems/e9f9c939-33ee-4ea2-b372-70c3c77de610

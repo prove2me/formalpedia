@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Asm_inner_of_norm
 -- name    : PI.ScPiBuildW.Asm.inner_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:38:22.873968+00:00
 -- url     : https://prove2.me/theorems/ad8db9ab-da50-4b66-81a8-832f9ee86a71

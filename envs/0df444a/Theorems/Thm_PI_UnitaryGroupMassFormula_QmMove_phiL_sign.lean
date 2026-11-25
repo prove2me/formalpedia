@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_phiL_sign
 -- name    : PI.UnitaryGroupMassFormula.QmMove.phiL_sign
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:59.306293+00:00
 -- url     : https://prove2.me/theorems/e329b715-9665-407c-8421-7e4dfe859c62

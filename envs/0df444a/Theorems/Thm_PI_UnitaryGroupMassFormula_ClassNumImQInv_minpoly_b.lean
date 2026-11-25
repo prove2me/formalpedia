@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ClassNumImQInv_minpoly_b
 -- name    : PI.UnitaryGroupMassFormula.ClassNumImQInv.minpoly_b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:03.829629+00:00
 -- url     : https://prove2.me/theorems/fa218712-83e2-4b85-acac-10c1b35016b5

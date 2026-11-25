@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_MkQ_minkowskiBoundQ
 -- name    : PI.MkQ.minkowskiBoundQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:35:02.05404+00:00
 -- url     : https://prove2.me/theorems/c8fbaa5a-81ad-4763-a6c5-b9cf28b045d6

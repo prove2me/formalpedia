@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_localEpsilon_of_not_isUnramified
 -- name    : GroundTheory.LocalField.localEpsilon_of_not_isUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:25:35.869735+00:00
 -- url     : https://prove2.me/theorems/d498b1d8-1c3e-5dd2-86c3-51ede60ab887

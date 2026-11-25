@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwoDivisibility_int_coords_zero
 -- name    : PI.TwoDivisibility.int_coords_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:30:14.966453+00:00
 -- url     : https://prove2.me/theorems/32434a42-89cc-4c1a-ac9e-02885e37ba48

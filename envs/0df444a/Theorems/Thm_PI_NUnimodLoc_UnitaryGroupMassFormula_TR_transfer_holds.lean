@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_TR_transfer_holds
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.TR.transfer_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:24.658153+00:00
 -- url     : https://prove2.me/theorems/432e026c-3917-4761-a21d-384673222706

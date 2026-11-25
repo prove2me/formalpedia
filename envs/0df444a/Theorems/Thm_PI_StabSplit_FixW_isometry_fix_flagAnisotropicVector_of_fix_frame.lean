@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_FixW_isometry_fix_flagAnisotropicVector_of_fix_frame
 -- name    : PI.StabSplit.FixW.isometry_fix_flagAnisotropicVector_of_fix_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:32.859839+00:00
 -- url     : https://prove2.me/theorems/9b1fb42c-a6d5-43a9-8789-d6c05674d6ca

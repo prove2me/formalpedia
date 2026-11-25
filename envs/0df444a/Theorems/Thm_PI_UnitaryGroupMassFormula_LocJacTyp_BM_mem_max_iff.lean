@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_BM_mem_max_iff
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.BM.mem_max_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:00.623174+00:00
 -- url     : https://prove2.me/theorems/4e8afa48-d4d3-4ae5-9b7d-26a828ca505d

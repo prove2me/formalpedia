@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FlagGramNonneg_cT_star_eq
 -- name    : PI.UnitaryGroupMassFormula.FlagGramNonneg.cT_star_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:45.554625+00:00
 -- url     : https://prove2.me/theorems/82fd542c-ab98-4c82-8e36-b3961f834deb

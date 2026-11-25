@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitKronW_posDef_form_ne_zero
 -- name    : PI.UnitKronW.posDef_form_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:30:20.984002+00:00
 -- url     : https://prove2.me/theorems/e1e0c206-d3ca-4b04-8c5c-b778266ca5a8

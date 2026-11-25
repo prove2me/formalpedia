@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_mem_U_iff
 -- name    : PI.StabSplit.mem_U_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:21.811553+00:00
 -- url     : https://prove2.me/theorems/a6238d54-bddb-510d-9f8e-ca076eead245

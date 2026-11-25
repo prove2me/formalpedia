@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_factorial_mul_det_gram_cauchy_binet
 -- name    : PI.SlopeSteps.factorial_mul_det_gram_cauchy_binet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:01:35.890513+00:00
 -- url     : https://prove2.me/theorems/c24cb064-34ad-41d9-8b85-3e44e976dc0d

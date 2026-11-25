@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Pair_pair_of_eps
 -- name    : PI.KLW.Pair.pair_of_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:32:46.064334+00:00
 -- url     : https://prove2.me/theorems/0529addd-098e-4ea8-bb30-5a12259d8fcd

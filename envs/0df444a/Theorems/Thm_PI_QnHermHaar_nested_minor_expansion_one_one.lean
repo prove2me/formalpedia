@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_nested_minor_expansion_one_one
 -- name    : PI.QnHermHaar.nested_minor_expansion_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:33.57419+00:00
 -- url     : https://prove2.me/theorems/e9a21aeb-65a5-5475-8a8b-0029b95b54f4

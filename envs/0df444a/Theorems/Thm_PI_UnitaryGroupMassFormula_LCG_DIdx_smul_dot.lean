@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DIdx_smul_dot
 -- name    : PI.UnitaryGroupMassFormula.LCG.DIdx.smul_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:45:40.103173+00:00
 -- url     : https://prove2.me/theorems/7a8b70ad-10c2-5990-a9f3-53df85d4b2db

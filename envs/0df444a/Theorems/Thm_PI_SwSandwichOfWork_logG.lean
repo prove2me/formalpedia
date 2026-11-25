@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwSandwichOfWork_logG
 -- name    : PI.SwSandwichOfWork.logG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:12.569549+00:00
 -- url     : https://prove2.me/theorems/a445d83e-e470-5661-99b3-a33d73a2dca6

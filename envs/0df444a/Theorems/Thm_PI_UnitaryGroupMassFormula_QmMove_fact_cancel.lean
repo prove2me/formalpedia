@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_fact_cancel
 -- name    : PI.UnitaryGroupMassFormula.QmMove.fact_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:36.713649+00:00
 -- url     : https://prove2.me/theorems/c35e678d-0be7-4733-b383-a1a0768e908a

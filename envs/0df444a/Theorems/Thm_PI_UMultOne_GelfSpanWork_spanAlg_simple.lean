@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UMultOne_GelfSpanWork_spanAlg_simple
 -- name    : PI.UMultOne.GelfSpanWork.spanAlg_simple
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:42:39.465983+00:00
 -- url     : https://prove2.me/theorems/6510a41f-b2b6-4844-b57b-8f94ea9ddf92

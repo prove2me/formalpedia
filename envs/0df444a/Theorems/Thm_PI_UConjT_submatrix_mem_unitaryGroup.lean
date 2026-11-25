@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UConjT_submatrix_mem_unitaryGroup
 -- name    : PI.UConjT.submatrix_mem_unitaryGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:14.636798+00:00
 -- url     : https://prove2.me/theorems/8470d08b-b050-558b-923c-095d3d56787e

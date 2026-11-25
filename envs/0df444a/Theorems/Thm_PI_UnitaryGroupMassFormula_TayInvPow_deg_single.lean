@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TayInvPow_deg_single
 -- name    : PI.UnitaryGroupMassFormula.TayInvPow.deg_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:27.528269+00:00
 -- url     : https://prove2.me/theorems/68927d8d-a749-49ee-978c-51debf9eb974

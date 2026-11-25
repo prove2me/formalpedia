@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_thetaRecognition_lattice_iso_and_terms_agree
 -- name    : GlobalTheory.T.thetaRecognition_lattice_iso_and_terms_agree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:00:36.406772+00:00
 -- url     : https://prove2.me/theorems/ee33ff8e-037e-4322-b4c2-29e2521d9317

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_HermitianAdjointLemmas_glev_mul_exp
 -- name    : PI.QnHermHaar.HermitianAdjointLemmas.glev_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:16.442914+00:00
 -- url     : https://prove2.me/theorems/25d7db4d-851a-4e30-bf77-bdf4ce464ddb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_three_small
 -- name    : PI.SqPairLocal.three_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:25:15.725891+00:00
 -- url     : https://prove2.me/theorems/d99cd035-1190-592c-a821-a8878d88e0ca

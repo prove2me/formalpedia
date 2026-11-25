@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FlagGramNonneg_leadMinorE_self
 -- name    : PI.UnitaryGroupMassFormula.FlagGramNonneg.leadMinorE_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:07.558413+00:00
 -- url     : https://prove2.me/theorems/c628156f-e6b1-4053-b0d1-121c23576f5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_MC_cancel
 -- name    : PI.UnitaryApproxFinWork.MC_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:30:04.791382+00:00
 -- url     : https://prove2.me/theorems/4d6895ce-7850-5016-9e2c-68230d5ae5e3

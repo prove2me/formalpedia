@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_isInt_mul
 -- name    : PI.ScRefExists.PPA.isInt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:25:43.505211+00:00
 -- url     : https://prove2.me/theorems/4fffb501-54e9-5608-aeb1-e0b1f9a36281

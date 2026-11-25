@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DLm_Gram_gf_N
 -- name    : PI.UnitaryGroupMassFormula.DLm.Gram.gf_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:46:23.008219+00:00
 -- url     : https://prove2.me/theorems/6c8f04f6-a305-5d4a-923f-a161ae2fd24e

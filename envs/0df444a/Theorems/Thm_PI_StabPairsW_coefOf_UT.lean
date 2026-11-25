@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_coefOf_UT
 -- name    : PI.StabPairsW.coefOf_UT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:27:59.815707+00:00
 -- url     : https://prove2.me/theorems/b90cd031-69b1-4be9-ad10-cfac605995ba

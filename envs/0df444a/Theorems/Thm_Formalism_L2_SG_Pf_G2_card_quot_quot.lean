@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G2_card_quot_quot
 -- name    : Formalism.L2.SG.Pf.G2.card_quot_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:39.114036+00:00
 -- url     : https://prove2.me/theorems/2c34a30b-ffb4-5f72-972e-bda367abcfae

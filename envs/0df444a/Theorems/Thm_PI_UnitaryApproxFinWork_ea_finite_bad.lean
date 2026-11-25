@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_ea_finite_bad
 -- name    : PI.UnitaryApproxFinWork.ea_finite_bad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:59.518869+00:00
 -- url     : https://prove2.me/theorems/4b6fd466-415f-4f3a-b3d6-b4237faacb13

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearLinearRSP_TwoResources_inner_completeness
 -- name    : NearLinearRSP.TwoResources.inner_completeness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:26:08.47159+00:00
 -- url     : https://prove2.me/theorems/74151dd7-8061-4a82-b2fe-7d2a57bbefe8

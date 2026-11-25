@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Tens_clm_ext
 -- name    : PI.ScPiBuildW.Tens.clm_ext
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:00:37.333849+00:00
 -- url     : https://prove2.me/theorems/8562abe4-80f2-42fd-a9b1-7799e1e8cfa8

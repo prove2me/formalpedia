@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_card_stab
 -- name    : Formalism.L2.SG.Pf.G9.card_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:29:18.718386+00:00
 -- url     : https://prove2.me/theorems/fa735901-e3c7-5cd8-a361-6be6fd9974f4

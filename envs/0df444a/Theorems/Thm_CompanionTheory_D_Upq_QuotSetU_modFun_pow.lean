@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_modFun_pow
 -- name    : CompanionTheory.D.Upq.QuotSetU.modFun_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:01.133444+00:00
 -- url     : https://prove2.me/theorems/e5367a39-4577-5136-9ce9-c672953eb889

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Tens_eq_of_inner_tensU
 -- name    : PI.ScPiBuildW.Tens.eq_of_inner_tensU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:21:47.76572+00:00
 -- url     : https://prove2.me/theorems/92209aba-ff17-4e14-9a72-57c8f70eda27

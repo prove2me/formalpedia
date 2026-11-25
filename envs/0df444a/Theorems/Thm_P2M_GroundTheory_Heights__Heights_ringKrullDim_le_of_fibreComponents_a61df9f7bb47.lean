@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ringKrullDim_le_of_fibreComponents_a61df9f7bb47
 -- name    : P2M_GroundTheory_Heights__Heights_ringKrullDim_le_of_fibreComponents_a61df9f7bb47
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:14:51.586529+00:00
 -- url     : https://prove2.me/theorems/dc44f018-8114-5e4f-9fad-1aae702b4dbb

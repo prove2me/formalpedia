@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TailWork_w_mul
 -- name    : PI.TailWork.w_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:10.452639+00:00
 -- url     : https://prove2.me/theorems/4615c9a0-fbe6-4319-b448-d662273d57be

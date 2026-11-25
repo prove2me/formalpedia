@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_card_uidx
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.card_uidx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:32:12.319613+00:00
 -- url     : https://prove2.me/theorems/d4f5f286-77ae-5d40-bed7-0af79a9e3e05

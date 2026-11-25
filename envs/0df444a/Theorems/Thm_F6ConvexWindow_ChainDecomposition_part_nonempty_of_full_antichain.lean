@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_ChainDecomposition_part_nonempty_of_full_antichain
 -- name    : F6ConvexWindow.ChainDecomposition.part_nonempty_of_full_antichain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:09:21.086007+00:00
 -- url     : https://prove2.me/theorems/9894b142-722a-4b37-9e4b-0124c511eeaa

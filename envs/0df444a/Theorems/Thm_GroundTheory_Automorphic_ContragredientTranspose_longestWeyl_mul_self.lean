@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_longestWeyl_mul_self
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.longestWeyl_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:24:12.604792+00:00
 -- url     : https://prove2.me/theorems/8093897c-3ed9-439a-8774-2ed8763ae8ed

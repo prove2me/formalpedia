@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_entries_integral_of_lattice
 -- name    : PI.InvTopW.entries_integral_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:07:31.721008+00:00
 -- url     : https://prove2.me/theorems/df4285a5-7b3e-5285-8df0-71a8f8e47954

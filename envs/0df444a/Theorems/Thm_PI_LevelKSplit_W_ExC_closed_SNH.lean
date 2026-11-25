@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_closed_SNH
 -- name    : PI.LevelKSplit.W.ExC.closed_SNH
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:28:39.912528+00:00
 -- url     : https://prove2.me/theorems/424f721e-d185-46d4-b208-cc08da49b04d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_measurableSet_coneSh
 -- name    : PI.RhsWLim.W.measurableSet_coneSh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:27.929324+00:00
 -- url     : https://prove2.me/theorems/00ce9328-1108-43c0-99f3-23a1c23b9d66

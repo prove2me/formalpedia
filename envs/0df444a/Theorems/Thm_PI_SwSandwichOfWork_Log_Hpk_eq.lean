@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwSandwichOfWork_Log_Hpk_eq
 -- name    : PI.SwSandwichOfWork.Log_Hpk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:28:29.768501+00:00
 -- url     : https://prove2.me/theorems/558ebfa2-c51e-4e90-8854-29e89bf4b83c

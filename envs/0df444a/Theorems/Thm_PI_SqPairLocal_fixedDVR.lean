@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_fixedDVR
 -- name    : PI.SqPairLocal.fixedDVR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:25:30.109345+00:00
 -- url     : https://prove2.me/theorems/cb00cc70-b3f8-42db-be89-3bde45a5f024

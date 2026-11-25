@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_cmin_not_mem_upperCone
 -- name    : DilworthTheorem.cmin_not_mem_upperCone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:54:46.537295+00:00
 -- url     : https://prove2.me/theorems/b05d1e01-7cfc-5ee2-9ce9-710a9676a8a9

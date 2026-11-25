@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_sum_perms_sign_squared
 -- name    : PI.UnitaryGroupMassFormula.QmMove.sum_perms_sign_squared
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:05.854291+00:00
 -- url     : https://prove2.me/theorems/140e4764-f6ee-4ac2-9bab-2fdb1a521638

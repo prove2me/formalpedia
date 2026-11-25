@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FormPartialDerivatives_perpVec_of_perp
 -- name    : PI.UnitaryGroupMassFormula.FormPartialDerivatives.perpVec_of_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:56.189816+00:00
 -- url     : https://prove2.me/theorems/de933dde-dbad-4bff-9202-16f03a113f05

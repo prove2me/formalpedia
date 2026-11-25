@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Robbins_exists_strong_orientation_of_isEdgeConnected_two
 -- name    : Robbins.exists_strong_orientation_of_isEdgeConnected_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:25:45.462637+00:00
 -- url     : https://prove2.me/theorems/c239370d-3acf-5901-9470-6757d6de843b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryDimensionFormula_FrameAlg_h_sub_right
 -- name    : PI.UnitaryDimensionFormula.FrameAlg.h_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:45.477091+00:00
 -- url     : https://prove2.me/theorems/ae9be871-e76d-5795-b7df-46ceda1c1f62

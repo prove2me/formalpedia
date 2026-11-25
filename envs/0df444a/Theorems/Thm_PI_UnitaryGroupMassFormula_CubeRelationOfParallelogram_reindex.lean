@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CubeRelationOfParallelogram_reindex
 -- name    : PI.UnitaryGroupMassFormula.CubeRelationOfParallelogram.reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:03.595597+00:00
 -- url     : https://prove2.me/theorems/161eb50f-23ad-4900-ad8e-bce67255f884

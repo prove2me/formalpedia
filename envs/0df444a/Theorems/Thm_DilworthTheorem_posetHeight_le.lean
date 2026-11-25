@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_posetHeight_le
 -- name    : DilworthTheorem.posetHeight_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:01:08.03101+00:00
 -- url     : https://prove2.me/theorems/0dfad2f5-0bd7-48c7-b170-310f99f9ef51

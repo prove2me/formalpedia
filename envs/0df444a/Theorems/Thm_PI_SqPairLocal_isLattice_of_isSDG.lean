@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_isLattice_of_isSDG
 -- name    : PI.SqPairLocal.isLattice_of_isSDG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:25:39.221807+00:00
 -- url     : https://prove2.me/theorems/cf36d807-1945-459d-a057-079a010de785

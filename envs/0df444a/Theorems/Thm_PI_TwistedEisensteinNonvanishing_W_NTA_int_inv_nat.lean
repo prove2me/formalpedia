@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_NTA_int_inv_nat
 -- name    : PI.TwistedEisensteinNonvanishing.W.NTA.int_inv_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:14.123731+00:00
 -- url     : https://prove2.me/theorems/2c08654b-5ae1-4f1c-a287-fd9b1e164479

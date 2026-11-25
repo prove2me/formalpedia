@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FglPtW_constantCoeff_log_eq_zero
 -- name    : PI.UnitaryGroupMassFormula.FglPtW.constantCoeff_log_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:33.293329+00:00
 -- url     : https://prove2.me/theorems/e3870b12-5593-4f13-ab06-d3e3198d0882

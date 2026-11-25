@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfCpt_gelfCpt_of_steps
 -- name    : PI.UnitaryGroupMassFormula.GelfCpt.gelfCpt_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:05.506075+00:00
 -- url     : https://prove2.me/theorems/a9cd5d59-dd94-445e-b107-cab36af2a8cf

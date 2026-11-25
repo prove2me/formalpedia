@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwBig_PhiFormProof_bigCell_eq_w0B_mul_tM
 -- name    : PI.SwBig.PhiFormProof.bigCell_eq_w0B_mul_tM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:27:56.215821+00:00
 -- url     : https://prove2.me/theorems/fb85edff-4036-50ed-a0bc-9acc9e3145f1

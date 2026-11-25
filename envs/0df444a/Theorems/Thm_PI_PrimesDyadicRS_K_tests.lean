@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_K_tests
 -- name    : PI.PrimesDyadicRS.K.tests
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:30.446792+00:00
 -- url     : https://prove2.me/theorems/cfe6afa7-0145-484f-b192-f9be80af07d7

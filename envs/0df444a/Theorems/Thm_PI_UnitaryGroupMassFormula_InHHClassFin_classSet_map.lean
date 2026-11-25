@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_InHHClassFin_classSet_map
 -- name    : PI.UnitaryGroupMassFormula.InHHClassFin.classSet_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:10.44502+00:00
 -- url     : https://prove2.me/theorems/ef159022-4b94-4fad-a866-105eedeb7fd2

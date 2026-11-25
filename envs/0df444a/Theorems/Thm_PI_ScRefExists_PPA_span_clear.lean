@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_span_clear
 -- name    : PI.ScRefExists.PPA.span_clear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:24:24.228271+00:00
 -- url     : https://prove2.me/theorems/566f7306-8c3c-4751-98ac-9e8a62d8c83b

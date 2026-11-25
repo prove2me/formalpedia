@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_GE_dg_mem
 -- name    : PI.RhsWLim.W.GE.dg_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:40:35.859046+00:00
 -- url     : https://prove2.me/theorems/1679a080-b349-4268-bc84-55f789cf7e04

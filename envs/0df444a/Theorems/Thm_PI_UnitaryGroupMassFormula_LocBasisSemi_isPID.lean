@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocBasisSemi_isPID
 -- name    : PI.UnitaryGroupMassFormula.LocBasisSemi.isPID
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:52.016432+00:00
 -- url     : https://prove2.me/theorems/1fab1a4e-b9ad-4824-9c14-8b4e6da74971

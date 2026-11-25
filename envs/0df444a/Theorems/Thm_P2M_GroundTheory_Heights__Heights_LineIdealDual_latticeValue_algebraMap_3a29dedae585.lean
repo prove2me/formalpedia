@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LineIdealDual_latticeValue_algebraMap_3a29dedae585
 -- name    : P2M_GroundTheory_Heights__Heights_LineIdealDual_latticeValue_algebraMap_3a29dedae585
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:27:16.001363+00:00
 -- url     : https://prove2.me/theorems/59d0a4fd-3e15-5bce-8a81-a708e44dddc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_galCris_of
 -- name    : GroundTheory.PAdicHodge.ACris.galCris_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:27:15.929752+00:00
 -- url     : https://prove2.me/theorems/96d6d280-c7d2-4432-919e-d36df0614760

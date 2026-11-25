@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_VolK_red_of_mem
 -- name    : GlobalTheory.CompanionTheory.QL.VolK.red_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:12.855055+00:00
 -- url     : https://prove2.me/theorems/d4cb4b6e-bdf0-4e59-81db-f865b7e362ea

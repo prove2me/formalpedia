@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBDisc_normFam_zero
 -- name    : PI.UnitaryGroupMassFormula.TBDisc.normFam_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:14.79956+00:00
 -- url     : https://prove2.me/theorems/fe9e8eba-b1a2-4ae1-b910-4ab6f9c460dd

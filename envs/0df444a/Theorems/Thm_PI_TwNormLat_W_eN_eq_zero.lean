@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_eN_eq_zero
 -- name    : PI.TwNormLat.W.eN_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:28:49.519914+00:00
 -- url     : https://prove2.me/theorems/627d02a0-cbd2-5621-b78a-4b987e371fe2

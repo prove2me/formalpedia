@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Mirrors_labO_transp
 -- name    : GlobalTheory.CompanionTheory.TyFin.Mirrors.labO_transp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:18:51.717939+00:00
 -- url     : https://prove2.me/theorems/70289773-177b-46a5-9405-d65856401c4a

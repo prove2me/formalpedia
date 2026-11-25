@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_bound_core
 -- name    : PI.PolynomialProperness.bound_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:38:20.451803+00:00
 -- url     : https://prove2.me/theorems/fce0073d-e6fe-41ae-ac97-2f1e66b9ae75

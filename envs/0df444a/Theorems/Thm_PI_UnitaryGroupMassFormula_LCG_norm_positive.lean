@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_norm_positive
 -- name    : PI.UnitaryGroupMassFormula.LCG.norm_positive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:29.965113+00:00
 -- url     : https://prove2.me/theorems/d9ddf280-fc92-4ebb-b1e4-ad4a1386cc76

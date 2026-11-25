@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_selfDualLoc_of_steps
 -- name    : PI.SelfDualLoc.W.selfDualLoc_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:23:59.897145+00:00
 -- url     : https://prove2.me/theorems/9deb5e33-e538-45d8-bab1-1c7d07b3ba7c

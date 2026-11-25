@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_DegW_multideg_add
 -- name    : PI.TOW.DegW.multideg_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:41.201897+00:00
 -- url     : https://prove2.me/theorems/2f884d32-867e-44d1-b79d-7ae6fce34ce2

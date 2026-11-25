@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevZeroUp_bas_val
 -- name    : GlobalTheory.LevZeroUp.bas_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:20:58.231952+00:00
 -- url     : https://prove2.me/theorems/3ab1e6e4-8382-490f-88e1-35b0925d3b89

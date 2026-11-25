@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_isIrrChar_of_simple
 -- name    : PI.SerBridgeGLW.isIrrChar_of_simple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:36:51.805801+00:00
 -- url     : https://prove2.me/theorems/2fb5c03a-c9ea-5c0e-b9da-411a6547ccea

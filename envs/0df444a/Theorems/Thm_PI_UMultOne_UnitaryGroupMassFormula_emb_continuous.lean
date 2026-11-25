@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UMultOne_UnitaryGroupMassFormula_emb_continuous
 -- name    : PI.UMultOne.UnitaryGroupMassFormula.emb_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:18.100391+00:00
 -- url     : https://prove2.me/theorems/2051b97d-84ee-4008-aa30-95bd1861f4cb

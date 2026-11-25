@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LevelProdIdx_neg_mem_latSet
 -- name    : PI.UnitaryGroupMassFormula.LevelProdIdx.neg_mem_latSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:35.973055+00:00
 -- url     : https://prove2.me/theorems/189ee552-f43d-4fab-a0ab-6286d47e8a3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_gh_chArg_add
 -- name    : PI.TwistedEisensteinNonvanishing.W.gh_chArg_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:22.748429+00:00
 -- url     : https://prove2.me/theorems/0b9a28be-158e-43c6-8713-7fa78cec1245

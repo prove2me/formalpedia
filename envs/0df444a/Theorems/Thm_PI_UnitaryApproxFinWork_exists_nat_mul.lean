@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_exists_nat_mul
 -- name    : PI.UnitaryApproxFinWork.exists_nat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:49.898518+00:00
 -- url     : https://prove2.me/theorems/f5a57b26-15bd-57de-9a80-2da1325c1826

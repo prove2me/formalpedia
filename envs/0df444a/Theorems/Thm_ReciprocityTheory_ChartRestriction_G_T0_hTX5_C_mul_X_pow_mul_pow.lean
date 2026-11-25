@@ -1,0 +1,41 @@
+-- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_hTX5_C_mul_X_pow_mul_pow
+-- name    : ReciprocityTheory.ChartRestriction.G.T0.hTX5_C_mul_X_pow_mul_pow
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T10:44:55.409134+00:00
+-- url     : https://prove2.me/theorems/bbaf451c-4a9c-4d0a-a160-388e0b3127d3
+-- title:
+--   T0: h TX5 C mul X pow mul pow
+-- statement:
+--   The T0 construction uses the h TX5 C mul X pow mul pow property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/HeightTheory/LogHeightLeTorusHeightSubst.lean#L253-L317
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/ArithmeticGeometry/HeightTheory/LogHeightLeTorusHeightSubst.lean#L253-L317
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_AevalElimEqRenameLinearSubstitution
+import Definitions.Def_ReciprocityTheory_SemistableReduction_TorusL2CauchyInequality
+import Definitions.Def_ReciprocityTheory_SemistableReduction_LagrangeIdealLiftsFact
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_ContinuousTorusPoint
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_NatDegreeLeAndCoeffProdPow
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_LogHeightLeTorusHeightSubst
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.T0
+open NumberField
+variable {K : Type} [Field K] [NumberField K] {ι : Type} [Fintype ι]
+  {Ω : ι → Type} [∀ c, Field (Ω c)] [∀ c, Algebra K (Ω c)]
+  {WT : Type} [AddCommGroup WT]
+  {A : ι → Type} [∀ c, CommRing (A c)] [∀ c, Algebra (Ω c) (A c)] [∀ c, Algebra K (A c)]
+  [∀ c, Algebra (𝓞 K) (A c)]
+  {𝒜 : (c : ι) → WT → Submodule (Ω c) (A c)}
+
+theorem ReciprocityTheory.ChartRestriction.G.T0.hTX5_C_mul_X_pow_mul_pow {σ : Type} [Fintype σ] (κ : K) (hκ : κ ≠ 0) (v : σ) (a m : ℕ)
+    (F1 : MvPolynomial σ K) (hF1 : F1 ≠ 0) :
+    hTX5 (MvPolynomial.C κ * MvPolynomial.X v ^ a * F1 ^ m) = m * hTX5 F1 := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnWCellW_prod_eq_Wm
 -- name    : PI.QnWCellW.prod_eq_Wm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:28:06.332657+00:00
 -- url     : https://prove2.me/theorems/6eb8c01b-3c0d-429c-bc3b-42db9f058ae5

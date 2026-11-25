@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_normLoc_of
 -- name    : PI.ProdFormulaE.normLoc_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:20.908362+00:00
 -- url     : https://prove2.me/theorems/9f2e7849-a829-5b50-9c79-a66a10fb9005

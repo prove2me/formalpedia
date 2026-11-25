@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_omg_mul_N
 -- name    : GlobalTheory.WigSh.omg_mul_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:55:53.575327+00:00
 -- url     : https://prove2.me/theorems/7bb36a55-42bc-56e0-8011-1e9431584b4c

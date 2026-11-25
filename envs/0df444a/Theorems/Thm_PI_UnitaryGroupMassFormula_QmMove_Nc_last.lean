@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_Nc_last
 -- name    : PI.UnitaryGroupMassFormula.QmMove.Nc_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:35.731801+00:00
 -- url     : https://prove2.me/theorems/df7f3500-2b97-4a91-90b3-ee83812b4977

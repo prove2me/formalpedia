@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_MeasAll_levelSAll_of_exist
 -- name    : PI.LevelKSplit.W.MeasAll.levelSAll_of_exist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:31.286514+00:00
 -- url     : https://prove2.me/theorems/13d47a4d-919d-4347-9553-e5ab33de8784

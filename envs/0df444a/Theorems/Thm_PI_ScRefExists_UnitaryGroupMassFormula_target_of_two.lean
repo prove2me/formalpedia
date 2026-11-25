@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_UnitaryGroupMassFormula_target_of_two
 -- name    : PI.ScRefExists.UnitaryGroupMassFormula.target_of_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:29.992873+00:00
 -- url     : https://prove2.me/theorems/7f4296d2-f52d-4180-a73f-8bf5f6354c1f

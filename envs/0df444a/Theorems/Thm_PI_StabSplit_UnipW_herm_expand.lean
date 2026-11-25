@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_UnipW_herm_expand
 -- name    : PI.StabSplit.UnipW.herm_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:39:08.401599+00:00
 -- url     : https://prove2.me/theorems/946f7e6c-c39c-56d9-a6dc-cb2aae9b5ce7

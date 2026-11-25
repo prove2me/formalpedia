@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Move_HH_mul_unit
 -- name    : GlobalTheory.UnitLemma.Move.HH_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:28:41.253394+00:00
 -- url     : https://prove2.me/theorems/892054eb-7e8d-45b8-b4d3-21b17a1a34f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_lattice_map_image
 -- name    : PI.UnitaryGroupMassFormula.LCG.lattice_map_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:27.159545+00:00
 -- url     : https://prove2.me/theorems/24c7b84f-f88e-4f5f-9b16-a615e1b830a7

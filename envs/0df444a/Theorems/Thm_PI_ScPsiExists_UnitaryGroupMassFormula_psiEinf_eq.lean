@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPsiExists_UnitaryGroupMassFormula_psiEinf_eq
 -- name    : PI.ScPsiExists.UnitaryGroupMassFormula.psiEinf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:00:40.348815+00:00
 -- url     : https://prove2.me/theorems/a64f6926-1679-409c-9b68-1e49b2069c9a

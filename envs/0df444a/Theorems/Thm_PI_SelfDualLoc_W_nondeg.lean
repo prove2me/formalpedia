@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_nondeg
 -- name    : PI.SelfDualLoc.W.nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:24:18.71026+00:00
 -- url     : https://prove2.me/theorems/677a5840-0400-4567-8786-422c7710245d

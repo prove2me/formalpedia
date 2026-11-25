@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ProjectionDiscriminantModule_locF_dualF
 -- name    : Formalism.L2.SG.Pf.ProjectionDiscriminantModule.locF_dualF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:17:59.38336+00:00
 -- url     : https://prove2.me/theorems/18c13bbe-83e3-5af9-897f-16a5a298394e

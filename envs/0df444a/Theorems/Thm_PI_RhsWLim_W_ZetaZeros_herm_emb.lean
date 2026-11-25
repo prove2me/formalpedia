@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_ZetaZeros_herm_emb
 -- name    : PI.RhsWLim.W.ZetaZeros.herm_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:34:05.526733+00:00
 -- url     : https://prove2.me/theorems/13678182-5bc4-5380-b87b-8a52483a2082

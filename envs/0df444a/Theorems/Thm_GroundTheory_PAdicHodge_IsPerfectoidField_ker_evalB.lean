@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_ker_evalB
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.ker_evalB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:04:32.424357+00:00
 -- url     : https://prove2.me/theorems/99e091a5-6fc6-4e01-8366-71e7da530092

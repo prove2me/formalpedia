@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_harmonicSplitting_holds
 -- name    : harmonicSplitting_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:09:29.327278+00:00
 -- url     : https://prove2.me/theorems/6042e8c6-0b5f-4efd-8789-f327f4a5dea0

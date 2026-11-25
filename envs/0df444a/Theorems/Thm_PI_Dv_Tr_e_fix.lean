@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_e_fix
 -- name    : PI.Dv.Tr.e_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:28:17.189839+00:00
 -- url     : https://prove2.me/theorems/93d363ff-cd82-460f-8732-9f7cf02675ae

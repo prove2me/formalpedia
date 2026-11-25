@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_lintegral_mul_prod_eq
 -- name    : GroundTheory.Automorphic.Measures.lintegral_mul_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:07:32.667404+00:00
 -- url     : https://prove2.me/theorems/8f5c6da6-b2e2-5b25-8041-911df68280c6

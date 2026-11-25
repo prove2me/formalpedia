@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ProdUnitInert_not_small_sq_add
 -- name    : PI.UnitaryGroupMassFormula.ProdUnitInert.not_small_sq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:32:43.879978+00:00
 -- url     : https://prove2.me/theorems/2e826e95-6c60-4b6b-8951-b20b75611b92

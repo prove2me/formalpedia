@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BetaLUniq_EigA_exists_common
 -- name    : PI.UnitaryGroupMassFormula.BetaLUniq.EigA.exists_common
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:30:57.934356+00:00
 -- url     : https://prove2.me/theorems/58bad596-2955-53f6-af00-cea236a26380

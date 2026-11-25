@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_measurableSet_unitsModCoset
 -- name    : GroundTheory.LocalField.measurableSet_unitsModCoset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:26:52.191993+00:00
 -- url     : https://prove2.me/theorems/cb55754d-ddf9-56b1-acf0-1676835cb266

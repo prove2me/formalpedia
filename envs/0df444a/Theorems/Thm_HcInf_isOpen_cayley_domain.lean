@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_isOpen_cayley_domain
 -- name    : HcInf.isOpen_cayley_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:10:51.405127+00:00
 -- url     : https://prove2.me/theorems/aa94c6ba-60de-501d-8465-dc8b9a721c54

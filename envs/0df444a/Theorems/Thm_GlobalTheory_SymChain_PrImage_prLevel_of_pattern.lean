@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_PrImage_prLevel_of_pattern
 -- name    : GlobalTheory.SymChain.PrImage.prLevel_of_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:28:48.920203+00:00
 -- url     : https://prove2.me/theorems/21b230bd-825a-4f28-b632-e572dd3d66e0

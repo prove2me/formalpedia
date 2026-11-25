@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_pairingDivisibility
 -- name    : PI.OpWords.pairingDivisibility
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:39.043437+00:00
 -- url     : https://prove2.me/theorems/2074f335-253c-49a9-a076-7699991806c9

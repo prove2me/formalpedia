@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ProdUnitInert_exists_rat_coords
 -- name    : PI.UnitaryGroupMassFormula.ProdUnitInert.exists_rat_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:32:34.199694+00:00
 -- url     : https://prove2.me/theorems/f1847532-6a85-4815-a268-a90aa67ae657

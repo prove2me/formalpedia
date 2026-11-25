@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_cC_cost
 -- name    : PI.UnitaryCorollaryDerivatives.cC_cost
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:14:12.664944+00:00
 -- url     : https://prove2.me/theorems/276238ea-206f-41ce-ae25-008ddacb7631

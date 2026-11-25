@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_antichain_subset_lowerCone
 -- name    : DilworthTheorem.antichain_subset_lowerCone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:54:15.832918+00:00
 -- url     : https://prove2.me/theorems/068cf847-c6a7-4fff-bc99-b171e43a3c4a

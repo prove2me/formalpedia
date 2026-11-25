@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderFull_rw_last
 -- name    : PI.UnitaryGroupMassFormula.QmBorderFull.rw_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:29.230839+00:00
 -- url     : https://prove2.me/theorems/b3984bcf-d43f-435e-9c7a-d201bdf60da3

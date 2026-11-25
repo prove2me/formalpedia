@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwBig_PhiFormProof_phiForm
 -- name    : PI.SwBig.PhiFormProof.phiForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:27:52.378568+00:00
 -- url     : https://prove2.me/theorems/fceee8da-7bfc-445f-bd92-06734956dfa8

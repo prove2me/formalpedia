@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_int_small
 -- name    : PI.PC.int_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:35:22.995157+00:00
 -- url     : https://prove2.me/theorems/7df88d84-6b12-48eb-96eb-3df7c713a44b

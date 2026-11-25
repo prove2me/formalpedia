@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBNum_eBasis
 -- name    : PI.UnitaryGroupMassFormula.TBNum.eBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:17.052282+00:00
 -- url     : https://prove2.me/theorems/7a6e6b3d-8db6-534c-9cd6-303e7e1a713f

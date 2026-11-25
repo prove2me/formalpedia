@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_stabPairs_of
 -- name    : PI.StabPairsW.stabPairs_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:05:23.278592+00:00
 -- url     : https://prove2.me/theorems/8c3a5cfc-8afc-51bc-8292-d12be0572717

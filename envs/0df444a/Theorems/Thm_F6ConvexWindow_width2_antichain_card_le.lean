@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_width2_antichain_card_le
 -- name    : F6ConvexWindow.width2_antichain_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:12:42.396082+00:00
 -- url     : https://prove2.me/theorems/aef5644e-73bd-44bc-8c8a-a6097132b997

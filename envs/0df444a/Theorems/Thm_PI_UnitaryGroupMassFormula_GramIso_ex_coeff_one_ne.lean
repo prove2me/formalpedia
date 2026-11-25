@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GramIso_ex_coeff_one_ne
 -- name    : PI.UnitaryGroupMassFormula.GramIso.ex_coeff_one_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:28.388259+00:00
 -- url     : https://prove2.me/theorems/5c41cd31-7f24-423f-a9b9-dd0a9eb197ea

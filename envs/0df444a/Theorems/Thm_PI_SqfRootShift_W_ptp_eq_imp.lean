@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootShift_W_ptp_eq_imp
 -- name    : PI.SqfRootShift.W.ptp_eq_imp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:27:18.215691+00:00
 -- url     : https://prove2.me/theorems/66edeeb3-7f76-43f7-900b-c81cde2cea66

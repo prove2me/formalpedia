@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_instDecomp_of
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.instDecomp_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:28.060628+00:00
 -- url     : https://prove2.me/theorems/a8877024-72cb-5bd8-a5f5-6a4474194ae5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwSandwichOfWork_Log_sgI_val
 -- name    : PI.SwSandwichOfWork.Log_sgI_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:05.787313+00:00
 -- url     : https://prove2.me/theorems/5353a755-8f68-5b6c-aaa0-55ab69d73f5e

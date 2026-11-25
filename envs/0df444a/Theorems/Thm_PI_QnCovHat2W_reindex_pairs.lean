@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHat2W_reindex_pairs
 -- name    : PI.QnCovHat2W.reindex_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:00:34.47346+00:00
 -- url     : https://prove2.me/theorems/5e1665e3-9a7a-4ff5-8b6e-4c0c071f4732

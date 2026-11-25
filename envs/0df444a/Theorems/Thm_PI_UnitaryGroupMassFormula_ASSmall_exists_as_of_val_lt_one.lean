@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ASSmall_exists_as_of_val_lt_one
 -- name    : PI.UnitaryGroupMassFormula.ASSmall.exists_as_of_val_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:03.141455+00:00
 -- url     : https://prove2.me/theorems/6205d316-b16e-4e42-96ee-db70466f79eb

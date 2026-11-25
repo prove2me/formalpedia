@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_exists_conj_box
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.exists_conj_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:20.380848+00:00
 -- url     : https://prove2.me/theorems/0c5f8538-7f21-4ba0-b910-be2a3b28c534

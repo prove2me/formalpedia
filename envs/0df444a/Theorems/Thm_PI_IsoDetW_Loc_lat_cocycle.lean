@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_lat_cocycle
 -- name    : PI.IsoDetW.Loc.lat_cocycle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:09:08.063402+00:00
 -- url     : https://prove2.me/theorems/3d585811-af11-4a52-932a-2815f69cb55a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UG_W_star_mem_range
 -- name    : PI.UG.W.star_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:44.336216+00:00
 -- url     : https://prove2.me/theorems/a4479a7d-c809-5e80-b3a9-09f7c9ead477

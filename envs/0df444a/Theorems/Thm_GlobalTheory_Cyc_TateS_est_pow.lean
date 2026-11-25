@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_est_pow
 -- name    : GlobalTheory.Cyc.TateS.est_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:21:40.329634+00:00
 -- url     : https://prove2.me/theorems/3ceab793-9916-4b2a-949b-91021db721a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_weighted_sum_stable
 -- name    : PI.TwistedEisensteinNonvanishing.W.weighted_sum_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:48.265149+00:00
 -- url     : https://prove2.me/theorems/e8fbc054-3c81-44ec-8c0c-02a91aaa6a3d

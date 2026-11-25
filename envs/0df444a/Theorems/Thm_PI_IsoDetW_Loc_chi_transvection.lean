@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_chi_transvection
 -- name    : PI.IsoDetW.Loc.chi_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:08:26.244069+00:00
 -- url     : https://prove2.me/theorems/bc5adaab-6d7b-42be-8bbc-6431164e1b10

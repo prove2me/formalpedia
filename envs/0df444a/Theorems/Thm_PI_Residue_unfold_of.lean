@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_unfold_of
 -- name    : PI.Residue.unfold_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:19:47.430878+00:00
 -- url     : https://prove2.me/theorems/d791ad04-99e7-5699-9c5b-d07ff8abed74

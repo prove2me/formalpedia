@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_splitPlace_of
 -- name    : PI.SqPairLocal.splitPlace_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:25:37.585929+00:00
 -- url     : https://prove2.me/theorems/f2b20675-7ad1-439f-b352-7536411f2a8c

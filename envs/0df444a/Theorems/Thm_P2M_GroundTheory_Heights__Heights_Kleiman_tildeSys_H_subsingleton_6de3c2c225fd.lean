@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_tildeSys_H_subsingleton_6de3c2c225fd
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_tildeSys_H_subsingleton_6de3c2c225fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:13:11.797689+00:00
 -- url     : https://prove2.me/theorems/916baf77-d1e2-5f5b-af0d-f3b47425ced7

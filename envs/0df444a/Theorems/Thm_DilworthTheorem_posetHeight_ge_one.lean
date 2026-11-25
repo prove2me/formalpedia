@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_posetHeight_ge_one
 -- name    : DilworthTheorem.posetHeight_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:59:53.053279+00:00
 -- url     : https://prove2.me/theorems/dcf2fc97-d2b1-4122-8733-a4c5ae1ba2c2

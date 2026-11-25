@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Tr_gauss_abstract
 -- name    : PI.Tr.gauss_abstract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:53.773815+00:00
 -- url     : https://prove2.me/theorems/66179f49-f49b-4993-a9e0-5e39f0c7d93b

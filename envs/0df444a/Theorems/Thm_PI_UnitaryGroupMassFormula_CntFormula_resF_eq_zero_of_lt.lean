@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_resF_eq_zero_of_lt
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.resF_eq_zero_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:31.931448+00:00
 -- url     : https://prove2.me/theorems/b55a73f9-671d-48a6-8b03-1fd62ff410ff

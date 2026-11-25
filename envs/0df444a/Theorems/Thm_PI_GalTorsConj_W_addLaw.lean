@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_addLaw
 -- name    : PI.GalTorsConj.W.addLaw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:59.548248+00:00
 -- url     : https://prove2.me/theorems/9a31a1c5-a96f-4251-ad8d-246e7a85a2f8

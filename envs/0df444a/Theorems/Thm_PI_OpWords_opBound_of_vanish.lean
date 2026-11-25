@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_opBound_of_vanish
 -- name    : PI.OpWords.opBound_of_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:36:20.015409+00:00
 -- url     : https://prove2.me/theorems/bf39687e-9601-4c0f-93ca-564ccd7b88bb

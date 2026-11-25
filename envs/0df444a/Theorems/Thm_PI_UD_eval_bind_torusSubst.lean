@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UD_eval_bind_torusSubst
 -- name    : PI.UD.eval_bind_torusSubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:41.300967+00:00
 -- url     : https://prove2.me/theorems/f1f072cf-5985-4292-9f49-ce71e3cfc22c

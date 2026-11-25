@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_cauchy_highest_weight_of_shape
 -- name    : PI.FJMB.cauchy_highest_weight_of_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:08.023829+00:00
 -- url     : https://prove2.me/theorems/e1ea6b96-ca11-4a1b-ada9-6949b5844fea

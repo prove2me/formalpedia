@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G6_gmap_eq_self_of_fix
 -- name    : Formalism.L2.SG.Pf.G6.gmap_eq_self_of_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:18:54.040166+00:00
 -- url     : https://prove2.me/theorems/55b9cec9-c6d4-585f-bf7c-56a81f304126

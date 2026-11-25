@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UG_W_hStd_eStd
 -- name    : PI.UG.W.hStd_eStd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:38.172803+00:00
 -- url     : https://prove2.me/theorems/76cdb393-e268-5f8e-b5df-3cc3be4c3261

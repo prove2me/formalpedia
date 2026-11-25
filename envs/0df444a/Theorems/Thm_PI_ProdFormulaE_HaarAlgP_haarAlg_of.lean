@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_HaarAlgP_haarAlg_of
 -- name    : PI.ProdFormulaE.HaarAlgP.haarAlg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:36:48.975027+00:00
 -- url     : https://prove2.me/theorems/a3970bf6-76f6-5608-826e-299e07cf3587

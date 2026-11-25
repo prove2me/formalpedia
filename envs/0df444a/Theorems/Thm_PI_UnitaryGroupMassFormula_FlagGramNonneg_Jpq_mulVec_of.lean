@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FlagGramNonneg_Jpq_mulVec_of
 -- name    : PI.UnitaryGroupMassFormula.FlagGramNonneg.Jpq_mulVec_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:41.739808+00:00
 -- url     : https://prove2.me/theorems/859f005c-45c0-480b-9304-a53990ce60d3

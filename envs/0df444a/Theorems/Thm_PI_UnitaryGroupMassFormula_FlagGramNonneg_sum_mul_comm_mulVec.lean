@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FlagGramNonneg_sum_mul_comm_mulVec
 -- name    : PI.UnitaryGroupMassFormula.FlagGramNonneg.sum_mul_comm_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:21.675679+00:00
 -- url     : https://prove2.me/theorems/0b426046-bfc4-4d86-b669-07c85fa6b927

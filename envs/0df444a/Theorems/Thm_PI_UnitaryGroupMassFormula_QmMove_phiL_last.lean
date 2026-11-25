@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_phiL_last
 -- name    : PI.UnitaryGroupMassFormula.QmMove.phiL_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:21.141647+00:00
 -- url     : https://prove2.me/theorems/2683e12d-5a60-59a2-aca7-cfdad34577ab

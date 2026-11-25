@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_KerSplit_isIntegral_sqrt
 -- name    : PI.UnitaryGroupMassFormula.KerSplit.isIntegral_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:39:10.3968+00:00
 -- url     : https://prove2.me/theorems/6b1877cb-0187-4e76-a0ab-ba25b5de7dfb

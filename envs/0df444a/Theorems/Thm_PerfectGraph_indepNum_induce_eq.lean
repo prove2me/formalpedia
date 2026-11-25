@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerfectGraph_indepNum_induce_eq
 -- name    : PerfectGraph.indepNum_induce_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:27:32.839494+00:00
 -- url     : https://prove2.me/theorems/55555c0a-a691-5397-910e-85c7e5006a07

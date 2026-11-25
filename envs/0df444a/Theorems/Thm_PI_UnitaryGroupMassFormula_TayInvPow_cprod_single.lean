@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TayInvPow_cprod_single
 -- name    : PI.UnitaryGroupMassFormula.TayInvPow.cprod_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:39:57.223203+00:00
 -- url     : https://prove2.me/theorems/0c4902be-7641-5387-ac39-632d25391985

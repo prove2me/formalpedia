@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_local_haar_unique
 -- name    : HcInf.local_haar_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:13:24.806908+00:00
 -- url     : https://prove2.me/theorems/e0365390-ed95-4e18-8e3f-811bbcf9f4af

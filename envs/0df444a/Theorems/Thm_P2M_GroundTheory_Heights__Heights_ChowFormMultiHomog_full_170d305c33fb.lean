@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormMultiHomog_full_170d305c33fb
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormMultiHomog_full_170d305c33fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:36:57.78719+00:00
 -- url     : https://prove2.me/theorems/b44246c1-a249-43f0-a7e0-dc9cb51ab73e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnZeroLevelWork_second_minor_zero_level_formula
 -- name    : PI.QnZeroLevelWork.second_minor_zero_level_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:21:22.569802+00:00
 -- url     : https://prove2.me/theorems/c4a64086-2f1c-48ea-bae4-14ac22baf50b

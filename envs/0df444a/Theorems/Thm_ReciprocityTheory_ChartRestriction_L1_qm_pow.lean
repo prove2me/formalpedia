@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_qm_pow
+-- name    : ReciprocityTheory.ChartRestriction.L1.qm_pow
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-25T10:46:19.391533+00:00
+-- url     : https://prove2.me/theorems/c4327425-40d9-467e-9903-2aa8c8724d9d
+-- title:
+--   L1: qm pow
+-- statement:
+--   The L1 construction uses the qm pow property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/UnramifiedIntegrals/ModEvalMF.lean#L30-L35
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/ReductiveGroups/UnramifiedIntegrals/ModEvalMF.lean#L30-L35
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModDefs
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModBasic
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModEvalSer
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_ModEvalMF
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators Classical UpperHalfPlane MatrixGroups CongruenceSubgroup Manifold
+open ModularForm EisensteinSeries ModularFormClass UpperHalfPlane Formalism.L2.Th1.CM
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.L1
+
+theorem ReciprocityTheory.ChartRestriction.L1.qm_pow {m : ℕ} (hm : 0 < m) (τ : ℍ) : qm m τ ^ m = qm 1 τ := by sorry

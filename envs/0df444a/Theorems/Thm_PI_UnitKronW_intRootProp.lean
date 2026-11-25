@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitKronW_intRootProp
 -- name    : PI.UnitKronW.intRootProp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:30:18.729831+00:00
 -- url     : https://prove2.me/theorems/e49b979b-ce9c-4bcf-8ead-9d2cb9394717

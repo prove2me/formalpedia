@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BesselLevi_low_zero
 -- name    : PI.UnitaryGroupMassFormula.BesselLevi.low_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:43:06.241129+00:00
 -- url     : https://prove2.me/theorems/42d686a7-e9d4-45cd-afea-f7ef0d673c56

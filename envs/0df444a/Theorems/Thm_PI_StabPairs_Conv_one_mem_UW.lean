@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_one_mem_UW
 -- name    : PI.StabPairs.Conv.one_mem_UW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:18.228256+00:00
 -- url     : https://prove2.me/theorems/7e286031-1bc8-4fdf-b705-a312cd739f46

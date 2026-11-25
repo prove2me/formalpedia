@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_integral_parabolic_integralGL
 -- name    : GroundTheory.Automorphic.Measures.integral_parabolic_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:08:51.232321+00:00
 -- url     : https://prove2.me/theorems/d9932db1-d657-459c-9582-483e02130188

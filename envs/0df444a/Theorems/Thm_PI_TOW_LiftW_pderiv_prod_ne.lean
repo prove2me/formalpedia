@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_LiftW_pderiv_prod_ne
 -- name    : PI.TOW.LiftW.pderiv_prod_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:30.721102+00:00
 -- url     : https://prove2.me/theorems/636576e1-2235-45c1-a22d-0ef0ae4f5d83

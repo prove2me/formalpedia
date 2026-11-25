@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BallQuotLen_isUnit_of_ord_ne_top
 -- name    : PI.UnitaryGroupMassFormula.BallQuotLen.isUnit_of_ord_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:11.644165+00:00
 -- url     : https://prove2.me/theorems/e9baebb7-8b20-44fd-a474-8183bd59b488

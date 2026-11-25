@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleNorm_mem_range_ideleNorm
 -- name    : GroundTheory.Global.IdeleNorm.mem_range_ideleNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:50:31.298267+00:00
 -- url     : https://prove2.me/theorems/fbcb372d-ab14-578d-91b4-d5efd7fb5cd7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_MS_adjugate
 -- name    : PI.UnitaryApproxFinWork.MS_adjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:30:21.816663+00:00
 -- url     : https://prove2.me/theorems/8cc0edce-8050-4d2f-9dd3-9c2ff80ec29e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSection_finUnitAt_finUnitsSingle_of_notMem
 -- name    : GroundTheory.Automorphic.GodementSection.finUnitAt_finUnitsSingle_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:47:54.362148+00:00
 -- url     : https://prove2.me/theorems/09362219-9042-5187-ae5f-a648bbcbd480

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfPrimeFactor_W_card_monicDeg
 -- name    : PI.SqfPrimeFactor.W.card_monicDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:41:11.579172+00:00
 -- url     : https://prove2.me/theorems/c4346fee-3827-4580-892a-8e2dc6889343

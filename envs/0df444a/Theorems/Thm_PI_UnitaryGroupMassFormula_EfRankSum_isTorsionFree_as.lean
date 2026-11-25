@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_EfRankSum_isTorsionFree_as
 -- name    : PI.UnitaryGroupMassFormula.EfRankSum.isTorsionFree_as
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:21.620818+00:00
 -- url     : https://prove2.me/theorems/e3381ac7-ad85-4c17-b0ba-f746d045c7ad

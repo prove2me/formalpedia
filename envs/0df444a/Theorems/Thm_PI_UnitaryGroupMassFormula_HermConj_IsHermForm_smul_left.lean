@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_HermConj_IsHermForm_smul_left
 -- name    : PI.UnitaryGroupMassFormula.HermConj.IsHermForm.smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:21.791458+00:00
 -- url     : https://prove2.me/theorems/0ef94701-381c-4174-a09e-4b64ba9917c6

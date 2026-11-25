@@ -71784,7 +71784,7 @@
 {"parent": "ClauseBound.Gen.Pick.lt_K_succ", "child": "PaddedDescent_F_FuelCert", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_g_isometry_original_physical_grid_L2_cauchy_energy", "child": "AvramDividend.Classical.avram_p4_g_isometry_original_finite_grid_predictable_L2_distance", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_p4_g_isometry_original_physical_grid_L2_cauchy_energy", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
-{"parent": "FiniteEnergyPlane.exists_trajectory_return", "child": "FiniteEnergyPlane_OpenBook", "via": ["statement"]}
+{"parent": "FiniteEnergyPlane.exists_trajectory_return", "child": "FiniteEnergyPlane_OpenBook", "via": ["solution", "statement"]}
 {"parent": "SparsificationLemma.Cal.sparsABC", "child": "SparsificationLemma_Cal_Main", "via": ["solution", "statement"]}
 {"parent": "SparsificationLemma.Cal.sparsABC", "child": "SparsificationLemma_Cal_Facts", "via": ["solution", "statement"]}
 {"parent": "SparsificationLemma.Cal.sparsABC", "child": "SparsificationLemma_One", "via": ["solution", "statement"]}

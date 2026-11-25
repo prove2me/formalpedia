@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_card_S_le
 -- name    : PI.Dv.Tr.card_S_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:31:47.602796+00:00
 -- url     : https://prove2.me/theorems/c6f48257-5551-5c79-86d8-6e37593fd827

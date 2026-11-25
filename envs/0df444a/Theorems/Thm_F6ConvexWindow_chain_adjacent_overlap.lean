@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_chain_adjacent_overlap
 -- name    : F6ConvexWindow.chain_adjacent_overlap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:05:36.286824+00:00
 -- url     : https://prove2.me/theorems/ce17cb2f-d3fc-4b03-8c0c-e75b8b1aa7e7

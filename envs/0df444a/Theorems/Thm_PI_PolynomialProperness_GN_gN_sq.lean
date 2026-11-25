@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_GN_gN_sq
 -- name    : PI.PolynomialProperness.GN.gN_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:39:20.489945+00:00
 -- url     : https://prove2.me/theorems/8d1576a9-daca-4f69-8d31-27e0571ad52f

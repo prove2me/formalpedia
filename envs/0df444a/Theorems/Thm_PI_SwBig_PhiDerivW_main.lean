@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwBig_PhiDerivW_main
 -- name    : PI.SwBig.PhiDerivW.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:31:28.793866+00:00
 -- url     : https://prove2.me/theorems/bf333709-c989-5e5d-a866-d0ae563ed7ab

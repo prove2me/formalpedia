@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GramUnit_inv_of_left
 -- name    : PI.UnitaryGroupMassFormula.GramUnit.inv_of_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:48.464651+00:00
 -- url     : https://prove2.me/theorems/72c1c273-1858-4219-8405-55486c40a19a

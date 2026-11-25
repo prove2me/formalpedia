@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotMeasUniqW_lintegral_qLift
 -- name    : PI.QuotMeasUniqW.lintegral_qLift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:58:14.331594+00:00
 -- url     : https://prove2.me/theorems/584587db-cbd7-4600-b485-86bd14419b4d

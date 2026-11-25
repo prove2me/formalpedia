@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_intAt_scale
 -- name    : PI.TwNormLat.W.intAt_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:29:05.213457+00:00
 -- url     : https://prove2.me/theorems/40bd06e6-fcb6-4c95-9de1-00abb4767411

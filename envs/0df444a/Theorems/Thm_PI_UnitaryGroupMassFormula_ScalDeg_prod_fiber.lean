@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScalDeg_prod_fiber
 -- name    : PI.UnitaryGroupMassFormula.ScalDeg.prod_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:14.269951+00:00
 -- url     : https://prove2.me/theorems/c02435d2-5c69-58ca-afe4-143f95206bdc

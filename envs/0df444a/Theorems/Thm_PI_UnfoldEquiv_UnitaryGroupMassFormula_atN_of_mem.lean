@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnfoldEquiv_UnitaryGroupMassFormula_atN_of_mem
 -- name    : PI.UnfoldEquiv.UnitaryGroupMassFormula.atN_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:31:14.198553+00:00
 -- url     : https://prove2.me/theorems/baa0a724-4c29-4417-84b4-aca9a562c3e3

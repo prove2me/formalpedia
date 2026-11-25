@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_UnfoldShape_act_mul
 -- name    : GlobalTheory.RootEx.UnfoldShape.act_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:27:42.771457+00:00
 -- url     : https://prove2.me/theorems/caf19911-9fb0-5d9c-8aae-fc810adc55e6

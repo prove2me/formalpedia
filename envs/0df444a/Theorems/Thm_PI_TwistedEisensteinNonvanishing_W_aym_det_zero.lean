@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_aym_det_zero
 -- name    : PI.TwistedEisensteinNonvanishing.W.aym_det_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:45.658852+00:00
 -- url     : https://prove2.me/theorems/bdf0f31c-ce8b-498e-8138-40b42bf0ddc5

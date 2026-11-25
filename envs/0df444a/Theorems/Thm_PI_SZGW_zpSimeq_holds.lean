@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SZGW_zpSimeq_holds
 -- name    : PI.SZGW.zpSimeq_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:37:11.693877+00:00
 -- url     : https://prove2.me/theorems/423eaa6c-fd57-45fc-abd2-fb07aa34d899

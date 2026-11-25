@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_indicator_valBall_mem_schwartzBruhat
 -- name    : GroundTheory.LocalField.indicator_valBall_mem_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:17:05.669233+00:00
 -- url     : https://prove2.me/theorems/6b3796c9-77c2-55dd-8f4f-bfb0b665fd57

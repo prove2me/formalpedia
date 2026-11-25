@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_ZetaZeros_cont_gC
 -- name    : PI.RhsWLim.W.ZetaZeros.cont_gC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:34:48.571797+00:00
 -- url     : https://prove2.me/theorems/f5c9e98b-d452-45aa-8056-28314aae4aaa

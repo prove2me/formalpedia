@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DLm_gN_cont
 -- name    : PI.UnitaryGroupMassFormula.DLm.gN_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:15.080307+00:00
 -- url     : https://prove2.me/theorems/f02670e6-dc54-57a6-948f-526acdeb686c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_ok_zero_left
 -- name    : PI.TOW.ok_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:30.365703+00:00
 -- url     : https://prove2.me/theorems/c1cfae7b-1496-5ef2-b8f9-d4ab1c5258eb

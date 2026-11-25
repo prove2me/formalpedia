@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_sum_log_p_over_p
 -- name    : sum_log_p_over_p
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:24:27.650108+00:00
 -- url     : https://prove2.me/theorems/9f16ce9b-787e-4263-9647-01fd9e020435

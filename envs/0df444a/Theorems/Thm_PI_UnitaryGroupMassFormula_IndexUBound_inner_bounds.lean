@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_IndexUBound_inner_bounds
 -- name    : PI.UnitaryGroupMassFormula.IndexUBound.inner_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:39:12.683833+00:00
 -- url     : https://prove2.me/theorems/f66b7140-5d9e-52da-8589-bb7e373a9106

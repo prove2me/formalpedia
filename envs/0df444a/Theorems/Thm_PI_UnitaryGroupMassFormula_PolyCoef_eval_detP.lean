@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PolyCoef_eval_detP
 -- name    : PI.UnitaryGroupMassFormula.PolyCoef.eval_detP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:32:24.987811+00:00
 -- url     : https://prove2.me/theorems/1be423e1-47d2-5641-b795-83f027da8802

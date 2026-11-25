@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_MeasWCore_Memb_exists_split
 -- name    : PI.UnitaryGroupMassFormula.MeasWCore.Memb.exists_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:33:09.417701+00:00
 -- url     : https://prove2.me/theorems/d10c53ba-bbe0-4b18-a511-b1f7cc5191f4

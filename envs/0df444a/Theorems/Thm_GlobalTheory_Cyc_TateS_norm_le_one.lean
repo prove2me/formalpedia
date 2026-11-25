@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_norm_le_one
 -- name    : GlobalTheory.Cyc.TateS.norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:13:12.362463+00:00
 -- url     : https://prove2.me/theorems/14bc1e57-7fcb-42cc-a727-5e4b5e5d8bf1

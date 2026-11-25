@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_sandwich
 -- name    : PI.PC.sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:36:10.406123+00:00
 -- url     : https://prove2.me/theorems/4bd16dbf-ff35-44be-8a6d-83502b312584

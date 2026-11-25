@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_nonstandard_unimodular_lattice
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.nonstandard_unimodular_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:28.055921+00:00
 -- url     : https://prove2.me/theorems/5cdb03f0-6580-4ead-88ee-cc4a9275be05

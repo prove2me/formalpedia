@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwoDivisibility_zmod_sq_self
 -- name    : PI.TwoDivisibility.zmod_sq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:29:39.367415+00:00
 -- url     : https://prove2.me/theorems/39905260-50f1-55ea-b0af-bea5ab041dcb

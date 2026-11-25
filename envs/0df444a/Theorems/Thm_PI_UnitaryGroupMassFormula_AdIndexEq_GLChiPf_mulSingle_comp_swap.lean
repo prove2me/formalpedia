@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_GLChiPf_mulSingle_comp_swap
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.GLChiPf.mulSingle_comp_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:15.811062+00:00
 -- url     : https://prove2.me/theorems/bda70ec3-3791-4db7-be58-934f7721d877

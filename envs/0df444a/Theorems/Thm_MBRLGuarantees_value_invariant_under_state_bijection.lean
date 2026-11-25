@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MBRLGuarantees_value_invariant_under_state_bijection
 -- name    : MBRLGuarantees.value_invariant_under_state_bijection
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:27:41.928227+00:00
 -- url     : https://prove2.me/theorems/e4a5efd2-1603-45d4-97e5-f7643cdfc7cb

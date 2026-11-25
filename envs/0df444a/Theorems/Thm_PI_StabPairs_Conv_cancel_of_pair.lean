@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_cancel_of_pair
 -- name    : PI.StabPairs.Conv.cancel_of_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:01.467381+00:00
 -- url     : https://prove2.me/theorems/770fce22-40a5-448e-ada7-01903ffae1d7

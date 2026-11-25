@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_pairSum
 -- name    : PI.QnHermHaar.pairSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:45.726809+00:00
 -- url     : https://prove2.me/theorems/7b0c2124-7a8f-59ac-96a9-fb6461ec81b6

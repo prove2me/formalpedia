@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_firstColumnSplit_bijective
 -- name    : PI.UnitaryGroupMassFormula.QmMove.firstColumnSplit_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:49.630845+00:00
 -- url     : https://prove2.me/theorems/34e8fb52-3853-40c5-8243-47aba1d82cfe

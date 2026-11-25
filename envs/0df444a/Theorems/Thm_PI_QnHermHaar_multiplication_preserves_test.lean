@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_multiplication_preserves_test
 -- name    : PI.QnHermHaar.multiplication_preserves_test
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:40:10.984801+00:00
 -- url     : https://prove2.me/theorems/e4abb73c-d32a-4059-9405-a2628f2b29b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_rank_whittaker_le_one_of_contragredient
 -- name    : GroundTheory.Automorphic.Whittaker.rank_whittaker_le_one_of_contragredient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:09:07.975573+00:00
 -- url     : https://prove2.me/theorems/513b21cb-2a6d-548a-b41e-b094419b4b0d

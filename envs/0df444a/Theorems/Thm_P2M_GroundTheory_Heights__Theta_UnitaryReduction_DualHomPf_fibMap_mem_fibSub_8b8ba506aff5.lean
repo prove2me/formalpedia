@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_UnitaryReduction_DualHomPf_fibMap_mem_fibSub_8b8ba506aff5
 -- name    : P2M_GroundTheory_Heights__Theta_UnitaryReduction_DualHomPf_fibMap_mem_fibSub_8b8ba506aff5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:08:12.729068+00:00
 -- url     : https://prove2.me/theorems/f45cc7ae-1c2f-450a-a0a4-82c99baecb3b

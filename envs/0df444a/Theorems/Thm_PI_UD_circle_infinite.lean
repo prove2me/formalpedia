@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UD_circle_infinite
 -- name    : PI.UD.circle_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:36.034088+00:00
 -- url     : https://prove2.me/theorems/03f45a5b-f940-433a-8125-33057d2b1a93

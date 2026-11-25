@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_jq_DA
 -- name    : PI.TwistedEisensteinNonvanishing.W.jq_DA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:30:14.942555+00:00
 -- url     : https://prove2.me/theorems/383a5ccb-2e25-4291-a8c7-0a7b7b8e2a55

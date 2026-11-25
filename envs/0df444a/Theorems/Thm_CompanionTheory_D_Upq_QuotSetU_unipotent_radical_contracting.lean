@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_unipotent_radical_contracting
 -- name    : CompanionTheory.D.Upq.QuotSetU.unipotent_radical_contracting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:42:26.35226+00:00
 -- url     : https://prove2.me/theorems/4610b6ab-8086-4885-9c45-99ef8eac17e2

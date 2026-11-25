@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMult_chartEval_chartMonomial_10c9ec8f4f92
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMult_chartEval_chartMonomial_10c9ec8f4f92
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:33:50.841419+00:00
 -- url     : https://prove2.me/theorems/1c0fa562-18b9-5d5c-9af9-624c0e821e5d

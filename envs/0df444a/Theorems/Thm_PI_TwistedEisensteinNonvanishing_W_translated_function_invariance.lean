@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_translated_function_invariance
 -- name    : PI.TwistedEisensteinNonvanishing.W.translated_function_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:29:47.985742+00:00
 -- url     : https://prove2.me/theorems/fdc6a413-18e8-4abf-b759-f7547d31da54

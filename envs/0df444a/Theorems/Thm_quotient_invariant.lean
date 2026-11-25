@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_quotient_invariant
 -- name    : quotient_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:36.941044+00:00
 -- url     : https://prove2.me/theorems/aafa7b94-08a6-4ad6-a2c8-95fa5ca46a26

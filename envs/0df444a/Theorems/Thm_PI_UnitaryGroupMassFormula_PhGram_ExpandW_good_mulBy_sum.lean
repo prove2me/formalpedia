@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhGram_ExpandW_good_mulBy_sum
 -- name    : PI.UnitaryGroupMassFormula.PhGram.ExpandW.good_mulBy_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:34:38.035804+00:00
 -- url     : https://prove2.me/theorems/fad1dfdc-a5c5-5291-8c42-ad7aa559d675

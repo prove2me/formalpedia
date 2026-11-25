@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_untiltPreTiltMap_symm
 -- name    : GroundTheory.PAdicHodge.untiltPreTiltMap_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:17:27.892144+00:00
 -- url     : https://prove2.me/theorems/fca246b3-1a70-5acf-be0a-77a1841a38e9

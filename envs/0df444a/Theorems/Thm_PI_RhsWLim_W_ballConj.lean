@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_ballConj
 -- name    : PI.RhsWLim.W.ballConj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:39:15.184925+00:00
 -- url     : https://prove2.me/theorems/c015e1b5-5f4a-49ac-9f17-4ca977e45e51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_resF_one
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.resF_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:37.411675+00:00
 -- url     : https://prove2.me/theorems/629de726-4452-5533-96a1-f5574a11685e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_peel_col
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.peel_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:15:20.385808+00:00
 -- url     : https://prove2.me/theorems/79f98882-c2e8-48c0-82b9-2f528f286fbf

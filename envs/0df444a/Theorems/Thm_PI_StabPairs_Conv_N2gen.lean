@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_N2gen
 -- name    : PI.StabPairs.Conv.N2gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:33.314689+00:00
 -- url     : https://prove2.me/theorems/d0f05e3e-eee0-5940-8284-c8b5416547e6

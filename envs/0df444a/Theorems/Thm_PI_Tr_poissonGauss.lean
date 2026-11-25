@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Tr_poissonGauss
 -- name    : PI.Tr.poissonGauss
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:57:56.787778+00:00
 -- url     : https://prove2.me/theorems/4b189c27-9db2-4c4a-86fb-1004a32c10f3

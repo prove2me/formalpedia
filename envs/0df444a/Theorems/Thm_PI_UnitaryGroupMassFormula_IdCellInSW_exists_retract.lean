@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_IdCellInSW_exists_retract
 -- name    : PI.UnitaryGroupMassFormula.IdCellInSW.exists_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:36.456609+00:00
 -- url     : https://prove2.me/theorems/8b60eb16-747c-4a1e-a1e0-98d2855e5a22

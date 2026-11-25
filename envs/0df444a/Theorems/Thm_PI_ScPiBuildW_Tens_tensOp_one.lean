@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Tens_tensOp_one
 -- name    : PI.ScPiBuildW.Tens.tensOp_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:22:00.885026+00:00
 -- url     : https://prove2.me/theorems/9ff07014-f0a6-4091-ac2a-5af008ab7312

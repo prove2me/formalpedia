@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TailWork_sum_log_block
 -- name    : PI.TailWork.sum_log_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:44.843817+00:00
 -- url     : https://prove2.me/theorems/8a0acceb-b11e-569f-a5ed-712ad59ea4e2

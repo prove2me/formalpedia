@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_isConstituent_hc_iff
 -- name    : PI.SerBridgeGLW.isConstituent_hc_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:37:14.154233+00:00
 -- url     : https://prove2.me/theorems/ada06e53-b19e-5c12-97be-daeaf6f79d53

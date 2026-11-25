@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_fibTrans
 -- name    : PI.RhsWLim.W.RI.fibTrans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:02:33.310355+00:00
 -- url     : https://prove2.me/theorems/b577b585-f0e8-4a20-994f-222eaad26f94

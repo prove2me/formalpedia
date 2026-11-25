@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_approxEStep
 -- name    : PI.UnitaryApproxFinWork.approxEStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:48.631657+00:00
 -- url     : https://prove2.me/theorems/97f34422-896d-57e2-a879-a027e622df7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_meas_Ghat
 -- name    : PI.RhsWLim.W.RI.meas_Ghat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:36:14.221835+00:00
 -- url     : https://prove2.me/theorems/b5e15931-788c-4d4d-b1cb-1d2cf9653c01

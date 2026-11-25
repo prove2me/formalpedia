@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ProdUnitInert_conj_eq_neg_of_sq
 -- name    : PI.UnitaryGroupMassFormula.ProdUnitInert.conj_eq_neg_of_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:32:43.360474+00:00
 -- url     : https://prove2.me/theorems/2ed0d73c-5002-45bd-9cbc-0f1ba6547fcf

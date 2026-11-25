@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_countIntegral_of
 -- name    : PI.Residue.countIntegral_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:33.241795+00:00
 -- url     : https://prove2.me/theorems/8139f236-5355-49d2-9658-1cbfccc4fe9b

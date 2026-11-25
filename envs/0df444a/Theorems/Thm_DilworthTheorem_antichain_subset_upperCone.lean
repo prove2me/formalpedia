@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_antichain_subset_upperCone
 -- name    : DilworthTheorem.antichain_subset_upperCone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:54:35.451298+00:00
 -- url     : https://prove2.me/theorems/ca089d92-f20b-4e08-8345-7e092fdd8233

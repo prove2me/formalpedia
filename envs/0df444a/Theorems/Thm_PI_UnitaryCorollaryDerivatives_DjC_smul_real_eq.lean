@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_DjC_smul_real_eq
 -- name    : PI.UnitaryCorollaryDerivatives.DjC.smul_real_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:39:45.247075+00:00
 -- url     : https://prove2.me/theorems/8f03c822-3967-5f20-b5af-7a8a22da1085

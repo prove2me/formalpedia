@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_unitary_corollary_of_estimates
 -- name    : PI.UnitaryCorollaryDerivatives.unitary_corollary_of_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:54.82197+00:00
 -- url     : https://prove2.me/theorems/269903ae-df3b-479d-857b-f736dfc96fda

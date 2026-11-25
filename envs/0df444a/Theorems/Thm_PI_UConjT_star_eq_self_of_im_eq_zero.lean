@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UConjT_star_eq_self_of_im_eq_zero
 -- name    : PI.UConjT.star_eq_self_of_im_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:19.061127+00:00
 -- url     : https://prove2.me/theorems/50ea4fa1-ba18-537c-839b-b8a044c69642

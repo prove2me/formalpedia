@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_reduceRep
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.reduceRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:28.86209+00:00
 -- url     : https://prove2.me/theorems/85608fff-ce83-4652-bea2-194406f822d6

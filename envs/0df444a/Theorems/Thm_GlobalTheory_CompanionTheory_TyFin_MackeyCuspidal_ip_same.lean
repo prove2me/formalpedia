@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_MackeyCuspidal_ip_same
 -- name    : GlobalTheory.CompanionTheory.TyFin.MackeyCuspidal.ip_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:34:48.653869+00:00
 -- url     : https://prove2.me/theorems/88b08192-38c8-4d6e-a90e-2d5226e9c51f

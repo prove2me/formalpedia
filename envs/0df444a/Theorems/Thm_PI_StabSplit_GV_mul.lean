@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_GV_mul
 -- name    : PI.StabSplit.GV_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:34.084446+00:00
 -- url     : https://prove2.me/theorems/e989f8fb-5971-4357-bd6b-05fbb4f92842

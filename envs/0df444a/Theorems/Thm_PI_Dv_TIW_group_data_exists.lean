@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_group_data_exists
 -- name    : PI.Dv.TIW.group_data_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:56.130379+00:00
 -- url     : https://prove2.me/theorems/8921a6aa-f7c4-5447-a5e9-aa00e608b728

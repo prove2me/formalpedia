@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_good_gen
 -- name    : PI.SqPairLocal.good_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:24:24.453145+00:00
 -- url     : https://prove2.me/theorems/bf545707-cae7-52b1-a285-d791e019b51e

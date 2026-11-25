@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_SimeqPdInt_pd_eq
 -- name    : PI.UnitaryGroupMassFormula.SimeqPdInt.pd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:39:57.25606+00:00
 -- url     : https://prove2.me/theorems/205748eb-f5ed-5d6d-94e7-93f0934b4f1b

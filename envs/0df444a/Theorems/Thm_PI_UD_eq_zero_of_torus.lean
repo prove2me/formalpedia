@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UD_eq_zero_of_torus
 -- name    : PI.UD.eq_zero_of_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:37.456604+00:00
 -- url     : https://prove2.me/theorems/472c1257-e645-4fb3-85af-39e1332f5088

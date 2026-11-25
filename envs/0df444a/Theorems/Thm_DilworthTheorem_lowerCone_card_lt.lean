@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_lowerCone_card_lt
 -- name    : DilworthTheorem.lowerCone_card_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:55:24.673894+00:00
 -- url     : https://prove2.me/theorems/20e936ab-13b0-40f1-b967-81dfcb9946bd

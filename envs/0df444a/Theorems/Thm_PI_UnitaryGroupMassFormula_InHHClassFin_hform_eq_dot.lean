@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_InHHClassFin_hform_eq_dot
 -- name    : PI.UnitaryGroupMassFormula.InHHClassFin.hform_eq_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:03:26.659363+00:00
 -- url     : https://prove2.me/theorems/0050778f-df18-4afc-9005-360ebdc39edd

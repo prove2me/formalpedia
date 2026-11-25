@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_sum_slice
 -- name    : PI.TwistedEisensteinNonvanishing.W.sum_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:29:56.950831+00:00
 -- url     : https://prove2.me/theorems/f5e9b530-380d-4b34-9f90-4f8a6cdb05aa

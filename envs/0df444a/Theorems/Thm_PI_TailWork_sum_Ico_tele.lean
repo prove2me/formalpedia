@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TailWork_sum_Ico_tele
 -- name    : PI.TailWork.sum_Ico_tele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:40.735518+00:00
 -- url     : https://prove2.me/theorems/4f48b78c-d483-4738-a75d-dfa5bc632a1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CommMult_schurStep
 -- name    : PI.UnitaryGroupMassFormula.CommMult.schurStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:31.982804+00:00
 -- url     : https://prove2.me/theorems/a1f78255-4a2c-4b33-9570-bdb687b73999

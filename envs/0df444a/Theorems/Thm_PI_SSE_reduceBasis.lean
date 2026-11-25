@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_reduceBasis
 -- name    : PI.SSE.reduceBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:21:25.697381+00:00
 -- url     : https://prove2.me/theorems/679bad56-85cd-436d-a67a-0290b794a130

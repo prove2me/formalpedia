@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SymDistWork_symDist_of
 -- name    : PI.SymDistWork.symDist_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:41:20.796146+00:00
 -- url     : https://prove2.me/theorems/fcef4f47-4af5-441a-a8d6-c488191921a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_ckOn_of_contDiff
 -- name    : PI.UnitaryCorollaryDerivatives.ckOn_of_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:09.897845+00:00
 -- url     : https://prove2.me/theorems/0c0c2462-0686-4cc4-8e47-1248348c93a9

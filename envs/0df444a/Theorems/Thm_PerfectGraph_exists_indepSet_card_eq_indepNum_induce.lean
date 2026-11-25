@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerfectGraph_exists_indepSet_card_eq_indepNum_induce
 -- name    : PerfectGraph.exists_indepSet_card_eq_indepNum_induce
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:27:50.274207+00:00
 -- url     : https://prove2.me/theorems/50347ca7-f437-4c59-bd6a-928df38f5697

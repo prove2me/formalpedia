@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_isAntichain_empty
 -- name    : DilworthTheorem.isAntichain_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:45:50.160829+00:00
 -- url     : https://prove2.me/theorems/8e80f9a7-9d54-486c-b3bc-eec7b2261503

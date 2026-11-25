@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_parahoric_index_int
 -- name    : parahoric_index_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:55.394678+00:00
 -- url     : https://prove2.me/theorems/212b93d2-8662-46b7-b5c6-8d131c2df187

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfPrimeFactor_W_mem_bad
 -- name    : PI.SqfPrimeFactor.W.mem_bad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:02:28.382411+00:00
 -- url     : https://prove2.me/theorems/dda75434-c1ab-47a7-9893-91c48d9c35a9

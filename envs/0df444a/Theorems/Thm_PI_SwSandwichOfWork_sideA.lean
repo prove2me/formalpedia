@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwSandwichOfWork_sideA
 -- name    : PI.SwSandwichOfWork.sideA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:29:43.134227+00:00
 -- url     : https://prove2.me/theorems/2be1e7cd-8002-4371-a6e5-4416369f6079

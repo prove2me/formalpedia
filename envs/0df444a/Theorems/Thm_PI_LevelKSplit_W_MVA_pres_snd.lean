@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_MVA_pres_snd
 -- name    : PI.LevelKSplit.W.MVA.pres_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:40.006564+00:00
 -- url     : https://prove2.me/theorems/afed9e4a-1e0e-4bb3-afbb-26321816c69c

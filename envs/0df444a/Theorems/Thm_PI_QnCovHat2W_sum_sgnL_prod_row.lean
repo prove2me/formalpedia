@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHat2W_sum_sgnL_prod_row
 -- name    : PI.QnCovHat2W.sum_sgnL_prod_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:46.55779+00:00
 -- url     : https://prove2.me/theorems/f07caa9a-ae39-4a85-b383-723572d6617a

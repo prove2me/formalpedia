@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfConv_integral_comp_homeo
 -- name    : PI.UnitaryGroupMassFormula.GelfConv.integral_comp_homeo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:51.317697+00:00
 -- url     : https://prove2.me/theorems/64dbb647-1222-4035-9f9d-4a5622647b46

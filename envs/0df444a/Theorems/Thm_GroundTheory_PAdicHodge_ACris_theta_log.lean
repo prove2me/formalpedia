@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_theta_log
 -- name    : GroundTheory.PAdicHodge.ACris.theta_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:12:59.890906+00:00
 -- url     : https://prove2.me/theorems/b548609d-9a1f-599e-a3ee-e84c52210ca3

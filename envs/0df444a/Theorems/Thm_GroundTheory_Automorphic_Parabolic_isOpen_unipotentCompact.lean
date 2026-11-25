@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isOpen_unipotentCompact
 -- name    : GroundTheory.Automorphic.Parabolic.isOpen_unipotentCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:08:16.317828+00:00
 -- url     : https://prove2.me/theorems/a5b67b87-f73b-587c-9b95-2e0a6e52f4de

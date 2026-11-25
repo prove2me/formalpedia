@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_polarHyp
 -- name    : PI.RhsWLim.W.polarHyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:27:14.105919+00:00
 -- url     : https://prove2.me/theorems/2499fb55-531e-46ce-8032-47858029ea75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FglChordFactor_Wk_F__eq_d897049dae08
 -- name    : P2M_PI_FglChordFactor_Wk_F__eq_d897049dae08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:44:21.549225+00:00
 -- url     : https://prove2.me/theorems/fd07d90e-e150-4288-baba-a44c951a8002

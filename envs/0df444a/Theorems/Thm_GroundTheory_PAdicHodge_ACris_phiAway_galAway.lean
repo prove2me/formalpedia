@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_phiAway_galAway
 -- name    : GroundTheory.PAdicHodge.ACris.phiAway_galAway
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:25:14.156708+00:00
 -- url     : https://prove2.me/theorems/06986eb7-c03d-51bd-b201-93a97751224d

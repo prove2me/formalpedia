@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_local_pairing_perfect
 -- name    : PI.DvRows.local_pairing_perfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:29:28.736415+00:00
 -- url     : https://prove2.me/theorems/718f3fc6-0dc3-4db8-ac07-77f3a6a29a49

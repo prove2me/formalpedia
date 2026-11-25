@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnimodularOrthogonalQuadratic_Loc_elim_mul_col
 -- name    : PI.UnimodularOrthogonalQuadratic.Loc.elim_mul_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:29.790627+00:00
 -- url     : https://prove2.me/theorems/2ad638b8-d1ee-471c-af3f-1c0c6c6b30ea

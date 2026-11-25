@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevZeroUp_back_eps
 -- name    : GlobalTheory.LevZeroUp.back_eps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:20:17.794184+00:00
 -- url     : https://prove2.me/theorems/4856e14a-7975-4ab6-a054-66209f68ec21

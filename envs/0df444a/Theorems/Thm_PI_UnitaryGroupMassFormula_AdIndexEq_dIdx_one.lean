@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_dIdx_one
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.dIdx_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:38:52.424132+00:00
 -- url     : https://prove2.me/theorems/76f4f181-c790-490c-b7e0-aa0d248f6b8e

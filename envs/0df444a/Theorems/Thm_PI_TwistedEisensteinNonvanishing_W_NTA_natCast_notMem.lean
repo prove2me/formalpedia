@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_NTA_natCast_notMem
 -- name    : PI.TwistedEisensteinNonvanishing.W.NTA.natCast_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:42:04.293796+00:00
 -- url     : https://prove2.me/theorems/d4e2203c-45aa-4eba-b483-6515f01d614c

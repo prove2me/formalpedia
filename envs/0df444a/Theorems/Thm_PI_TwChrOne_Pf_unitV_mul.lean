@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwChrOne_Pf_unitV_mul
 -- name    : PI.TwChrOne.Pf.unitV_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:39.917492+00:00
 -- url     : https://prove2.me/theorems/1b24ebf0-85a9-4502-82e4-0aabc3065fdb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_measurable_cayF
 -- name    : HcInf.measurable_cayF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:13:38.233507+00:00
 -- url     : https://prove2.me/theorems/a716b19c-f58a-421b-9c55-586f8ae6ba3c

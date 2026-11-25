@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnimodIdxWork_mem_conj_map
 -- name    : PI.UnimodIdxWork.mem_conj_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:30:58.556549+00:00
 -- url     : https://prove2.me/theorems/95aa6671-4378-4a46-b30d-2f8c05b82503

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_L1_norm_1728_eq_one_of_five_le__2df1bf27fa32
 -- name    : P2M_ReciprocityTheory_ChartRestriction_L1_norm_1728_eq_one_of_five_le__2df1bf27fa32
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:07:56.239668+00:00
 -- url     : https://prove2.me/theorems/b597c245-1bdc-5598-ab75-03a86d590d3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwChrOne_Pf_ent_int
 -- name    : PI.TwChrOne.Pf.ent_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:04.918168+00:00
 -- url     : https://prove2.me/theorems/40b50bb4-0e60-5b1e-92ae-357d78fd5212

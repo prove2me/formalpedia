@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualBridge_W_localTracePairing_smul_left
 -- name    : PI.SelfDualBridge.W.localTracePairing_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:07.049811+00:00
 -- url     : https://prove2.me/theorems/05ae09ff-3101-452a-945f-096d034c0ec8

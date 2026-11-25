@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_rank_identity
 -- name    : PI.Dv.Tr.rank_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:28:16.244932+00:00
 -- url     : https://prove2.me/theorems/35f6c615-f9e3-47ec-91c4-f7f6a90baf1d

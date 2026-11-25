@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_polyProper_of_steps
 -- name    : PI.PolynomialProperness.polyProper_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:02:43.926176+00:00
 -- url     : https://prove2.me/theorems/ea5425a8-e4bb-5a23-a093-daae662c53c7

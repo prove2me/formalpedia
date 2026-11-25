@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_good_function_mono
 -- name    : PI.TwistedEisensteinNonvanishing.W.good_function_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:34.712044+00:00
 -- url     : https://prove2.me/theorems/e23998e8-b0a3-486d-8651-ac2e3f7567da

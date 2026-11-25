@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_exp_product_square_inv
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.exp_product_square_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:32:25.202869+00:00
 -- url     : https://prove2.me/theorems/2fef9cee-9e61-411a-a94f-aaefbdb89d7a

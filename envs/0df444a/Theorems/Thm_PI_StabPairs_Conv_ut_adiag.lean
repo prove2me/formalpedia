@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_ut_adiag
 -- name    : PI.StabPairs.Conv.ut_adiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:37.225478+00:00
 -- url     : https://prove2.me/theorems/bc250941-29e9-566a-a605-7f9ed3a3fe99

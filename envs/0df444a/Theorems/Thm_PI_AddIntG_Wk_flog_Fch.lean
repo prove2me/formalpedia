@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_flog_Fch
 -- name    : PI.AddIntG.Wk.flog_Fch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:21:57.126005+00:00
 -- url     : https://prove2.me/theorems/2e10e14e-5235-4d80-a8f0-d15a00934bdb

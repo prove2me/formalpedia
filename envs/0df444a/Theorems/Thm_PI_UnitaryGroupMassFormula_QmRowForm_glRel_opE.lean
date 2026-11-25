@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmRowForm_glRel_opE
 -- name    : PI.UnitaryGroupMassFormula.QmRowForm.glRel_opE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:46.920977+00:00
 -- url     : https://prove2.me/theorems/ef2202bc-8f2e-4018-9937-2f5cfe4dc0c7

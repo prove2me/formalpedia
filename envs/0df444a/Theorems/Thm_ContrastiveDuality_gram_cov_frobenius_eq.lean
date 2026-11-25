@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContrastiveDuality_gram_cov_frobenius_eq
 -- name    : ContrastiveDuality.gram_cov_frobenius_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:31:25.300409+00:00
 -- url     : https://prove2.me/theorems/2eee9bdc-be0d-4ae1-ba06-b24a90793928

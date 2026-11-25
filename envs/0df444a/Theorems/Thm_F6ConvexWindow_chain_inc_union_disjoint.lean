@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_chain_inc_union_disjoint
 -- name    : F6ConvexWindow.chain_inc_union_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:05:52.833161+00:00
 -- url     : https://prove2.me/theorems/7bda7f1b-0141-4e09-80be-a8f83f5b8000

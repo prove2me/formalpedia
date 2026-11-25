@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmStar_ofFn_prod_intCast
 -- name    : PI.UnitaryGroupMassFormula.QmStar.ofFn_prod_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:34:06.29221+00:00
 -- url     : https://prove2.me/theorems/68871dfc-b396-556b-944b-f01a42d96ac6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_bihom_le_Sc
 -- name    : PI.OpWords.bihom_le_Sc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:16:50.549038+00:00
 -- url     : https://prove2.me/theorems/b954b9b1-171c-58bd-b53a-5082b56c151c

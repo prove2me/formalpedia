@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BesselL2FixAtZero_conjP_isClosedEmbedding
 -- name    : PI.UnitaryGroupMassFormula.BesselL2FixAtZero.conjP_isClosedEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:40:11.127318+00:00
 -- url     : https://prove2.me/theorems/c1e0351c-35c7-42ae-9c1a-79b58f6b0a7a

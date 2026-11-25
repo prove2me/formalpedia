@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_intQ_injective
 -- name    : PI.SlopeSteps.intQ_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:20.159191+00:00
 -- url     : https://prove2.me/theorems/219f4586-905e-4f2f-87d4-81cbce3a2c55

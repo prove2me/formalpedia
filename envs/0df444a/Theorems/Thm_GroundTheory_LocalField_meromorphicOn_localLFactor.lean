@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_meromorphicOn_localLFactor
 -- name    : GroundTheory.LocalField.meromorphicOn_localLFactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:16:23.658394+00:00
 -- url     : https://prove2.me/theorems/13afc503-191c-4281-be65-bedabc0308ba

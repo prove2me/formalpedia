@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevZeroUp_bas_inv_val
 -- name    : GlobalTheory.LevZeroUp.bas_inv_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:20:10.578705+00:00
 -- url     : https://prove2.me/theorems/dbe0b8a2-4bbf-5438-8074-ee264c29d7ea

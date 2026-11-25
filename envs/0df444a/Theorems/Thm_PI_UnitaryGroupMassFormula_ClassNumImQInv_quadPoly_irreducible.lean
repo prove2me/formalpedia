@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ClassNumImQInv_quadPoly_irreducible
 -- name    : PI.UnitaryGroupMassFormula.ClassNumImQInv.quadPoly_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:21.155509+00:00
 -- url     : https://prove2.me/theorems/a71d74e8-7d5f-4be9-b920-7c5bbbbe16f5

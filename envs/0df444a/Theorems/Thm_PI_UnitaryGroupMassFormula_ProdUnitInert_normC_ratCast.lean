@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ProdUnitInert_normC_ratCast
 -- name    : PI.UnitaryGroupMassFormula.ProdUnitInert.normC_ratCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:32:28.12663+00:00
 -- url     : https://prove2.me/theorems/c159e5ac-67df-541e-9fda-fd8cfade5181

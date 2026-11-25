@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_Split_level_split_all
 -- name    : PI.LevelKSplit.W.Split.level_split_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:35:03.035847+00:00
 -- url     : https://prove2.me/theorems/45b2df9d-fdad-47a0-9c4e-8e2134d6553e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleNorm_finiteLocalNorm_mulSingle_algebraMap
 -- name    : GroundTheory.Global.IdeleNorm.finiteLocalNorm_mulSingle_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:05:36.998909+00:00
 -- url     : https://prove2.me/theorems/6a33f16c-6681-51f9-916e-3e71e0bae714

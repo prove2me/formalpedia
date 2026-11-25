@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_expand_of_tail
 -- name    : PI.StabPairsW.expand_of_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:37.243128+00:00
 -- url     : https://prove2.me/theorems/28276cdf-ab25-40a8-8c65-0a89c44fb941

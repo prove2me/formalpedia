@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Id_mkA_mem
 -- name    : PI.ScRefExists.Id.mkA_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:42:03.306835+00:00
 -- url     : https://prove2.me/theorems/6e376cfc-61a2-5187-935d-db36faf2a21b

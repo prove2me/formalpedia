@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_abel
 -- name    : PI.AddIntG.Wk.abel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:15:00.405803+00:00
 -- url     : https://prove2.me/theorems/99b53634-b110-4b6c-b4aa-d3121069f0f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_rlen_lat_ne_top
 -- name    : PI.IsoDetW.Loc.rlen_lat_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:09:01.377743+00:00
 -- url     : https://prove2.me/theorems/49eb75f0-8614-4f77-97e4-bd62ec091123

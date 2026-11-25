@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_finite_extension_capitulation
 -- name    : GlobalTheory.exists_finite_extension_capitulation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:24:00.006573+00:00
 -- url     : https://prove2.me/theorems/6a799c36-b265-53a5-a434-5dd4df1f23a6

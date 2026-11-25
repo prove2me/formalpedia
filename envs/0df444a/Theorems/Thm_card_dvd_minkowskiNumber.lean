@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_card_dvd_minkowskiNumber
 -- name    : card_dvd_minkowskiNumber
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:50:40.447345+00:00
 -- url     : https://prove2.me/theorems/2099cbf1-b287-4efc-a63d-9b7aa26b3f62

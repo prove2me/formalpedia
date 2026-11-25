@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0812_1178_alpha_minimization_separates
 -- name    : Arxiv0812_1178.alpha_minimization_separates
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:53:25.628141+00:00
 -- url     : https://prove2.me/theorems/79aec7ae-449f-48c8-a608-09103c8963aa

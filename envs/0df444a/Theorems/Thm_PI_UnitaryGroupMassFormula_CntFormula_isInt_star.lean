@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_isInt_star
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.isInt_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:23.83991+00:00
 -- url     : https://prove2.me/theorems/97d28db5-db96-428d-88c9-1b6a4a3df1ea

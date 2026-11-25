@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Id_eq_of_evA
 -- name    : PI.ScRefExists.Id.eq_of_evA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:27.195181+00:00
 -- url     : https://prove2.me/theorems/ff64beba-127b-5e5c-984b-0a4091a8343d

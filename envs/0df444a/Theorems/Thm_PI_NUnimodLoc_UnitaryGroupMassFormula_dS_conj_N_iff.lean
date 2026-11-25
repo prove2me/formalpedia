@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_dS_conj_N_iff
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.dS_conj_N_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:09.472021+00:00
 -- url     : https://prove2.me/theorems/00690db2-e60a-4805-874e-7ea014f32b77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairW_conjTranspose_pres
 -- name    : PI.SqPairW.conjTranspose_pres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:25:15.469612+00:00
 -- url     : https://prove2.me/theorems/313b81b0-163b-4917-9723-ef694072c11b

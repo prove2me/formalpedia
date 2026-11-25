@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_hasSum_coeff_FSum
 -- name    : GlobalTheory.AnArc.hasSum_coeff_FSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:25:53.261208+00:00
 -- url     : https://prove2.me/theorems/64029d46-4f01-427a-9797-309406828011

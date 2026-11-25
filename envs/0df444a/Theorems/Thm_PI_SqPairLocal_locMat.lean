@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_locMat
 -- name    : PI.SqPairLocal.locMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:25:08.923491+00:00
 -- url     : https://prove2.me/theorems/597dec17-7a14-56c2-ae01-c2ef4bb59c51

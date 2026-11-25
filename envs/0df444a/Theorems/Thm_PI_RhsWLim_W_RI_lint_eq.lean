@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_lint_eq
 -- name    : PI.RhsWLim.W.RI.lint_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:54.809653+00:00
 -- url     : https://prove2.me/theorems/1ab5e67a-87f1-449c-af68-d40ccc7dd2d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CommMult_commMult_of
 -- name    : PI.UnitaryGroupMassFormula.CommMult.commMult_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:12.937242+00:00
 -- url     : https://prove2.me/theorems/1b15f225-8aa5-43f9-ae24-4c910727357b

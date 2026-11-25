@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_fqB_self_eq_zero
 -- name    : PI.SlopeSteps.fqB_self_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:25.692204+00:00
 -- url     : https://prove2.me/theorems/041399f6-8c02-4d91-a57b-671fa4b71e6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_plane_w
 -- name    : PI.SqPair.LCP.plane_w
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:23:32.96391+00:00
 -- url     : https://prove2.me/theorems/a51f9319-8474-4ea4-ad6c-95c092e4fac4

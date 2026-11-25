@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Vol_coe_scalarInvGL
 -- name    : GlobalTheory.CompanionTheory.QL.Vol.coe_scalarInvGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:19:01.004751+00:00
 -- url     : https://prove2.me/theorems/f3384ec5-5720-48a2-b397-063d9601d7de

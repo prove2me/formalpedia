@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GlueA_star_int
 -- name    : PI.ScRefExists.GlueA.star_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:23:03.528613+00:00
 -- url     : https://prove2.me/theorems/e6fb0ea0-aa90-42b6-9774-32ec88d33de6

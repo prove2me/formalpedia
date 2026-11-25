@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ProdUnitInert_prod_emb_eq_norm
 -- name    : PI.UnitaryGroupMassFormula.ProdUnitInert.prod_emb_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:30.211902+00:00
 -- url     : https://prove2.me/theorems/62b5f4e3-fa84-4e45-9422-fb07a9d0aeb2

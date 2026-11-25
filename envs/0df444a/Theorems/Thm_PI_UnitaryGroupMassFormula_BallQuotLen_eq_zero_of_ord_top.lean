@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BallQuotLen_eq_zero_of_ord_top
 -- name    : PI.UnitaryGroupMassFormula.BallQuotLen.eq_zero_of_ord_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:43.050252+00:00
 -- url     : https://prove2.me/theorems/b59ec2e0-0056-4df5-82d6-375a0259e995

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_conj_pow
 -- name    : PI.StabSplit.conj_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:28:08.052524+00:00
 -- url     : https://prove2.me/theorems/ec8e8753-b563-4f2f-86a5-0ffe7b2e5327

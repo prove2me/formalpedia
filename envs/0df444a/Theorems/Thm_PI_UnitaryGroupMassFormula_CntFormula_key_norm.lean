@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_key_norm
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.key_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:42:57.203808+00:00
 -- url     : https://prove2.me/theorems/164e5bbe-e7c3-455d-8245-2d326ba5e113

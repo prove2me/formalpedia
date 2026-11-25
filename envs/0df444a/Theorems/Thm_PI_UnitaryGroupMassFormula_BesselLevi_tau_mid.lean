@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BesselLevi_tau_mid
 -- name    : PI.UnitaryGroupMassFormula.BesselLevi.tau_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:05.554838+00:00
 -- url     : https://prove2.me/theorems/deb33595-4f04-465f-81fd-db8a4f41baa8

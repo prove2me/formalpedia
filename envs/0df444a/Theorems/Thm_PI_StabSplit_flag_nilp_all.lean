@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_flag_nilp_all
 -- name    : PI.StabSplit.flag_nilp_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:36:36.555634+00:00
 -- url     : https://prove2.me/theorems/c71887ac-7f4a-5742-82ea-6ec9173ac2cd

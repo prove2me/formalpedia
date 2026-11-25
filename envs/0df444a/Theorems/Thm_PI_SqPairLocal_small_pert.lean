@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_small_pert
 -- name    : PI.SqPairLocal.small_pert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:25:13.721811+00:00
 -- url     : https://prove2.me/theorems/d8150363-9d3e-588b-87ca-70cc792dcedf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabBigW_ut_of_mem
 -- name    : PI.StabBigW.ut_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:26.218486+00:00
 -- url     : https://prove2.me/theorems/96cc02ff-2ecf-57dc-8feb-2b239a05b9fb

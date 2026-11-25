@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_fixed_alg_eq_zero
 -- name    : GlobalTheory.Cyc.TateS.fixed_alg_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:19:59.288242+00:00
 -- url     : https://prove2.me/theorems/8f0b2ee4-148e-53cb-bc81-7bfcfd699171

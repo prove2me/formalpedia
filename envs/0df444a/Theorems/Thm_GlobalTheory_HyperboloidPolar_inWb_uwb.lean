@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyperboloidPolar_inWb_uwb
 -- name    : GlobalTheory.HyperboloidPolar.inWb_uwb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:37:21.30313+00:00
 -- url     : https://prove2.me/theorems/d7e848c1-2c93-517f-86df-adb91c21f49b

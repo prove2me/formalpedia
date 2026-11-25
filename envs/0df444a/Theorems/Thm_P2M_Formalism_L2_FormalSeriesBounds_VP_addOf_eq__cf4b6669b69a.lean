@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_FormalSeriesBounds_VP_addOf_eq__cf4b6669b69a
 -- name    : P2M_Formalism_L2_FormalSeriesBounds_VP_addOf_eq__cf4b6669b69a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:17:08.547441+00:00
 -- url     : https://prove2.me/theorems/b8318b01-40c3-5a4b-af7b-9bea0ca7e245

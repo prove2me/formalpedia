@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_ia_div_down
 -- name    : PI.TwistedEisensteinNonvanishing.W.ia_div_down
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:52.6508+00:00
 -- url     : https://prove2.me/theorems/afa8970f-d75f-424c-a5e8-8817b761904b

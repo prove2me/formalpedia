@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UG_W_unimodGenus_of
 -- name    : PI.UG.W.unimodGenus_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:15.707918+00:00
 -- url     : https://prove2.me/theorems/5989cf1f-a447-40c7-a1e8-95edbb8e33aa

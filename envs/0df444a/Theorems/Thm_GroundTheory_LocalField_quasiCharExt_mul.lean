@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_quasiCharExt_mul
 -- name    : GroundTheory.LocalField.quasiCharExt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:28:46.24838+00:00
 -- url     : https://prove2.me/theorems/bfed3035-e057-4d0c-8997-c1ccde0e5132

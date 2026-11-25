@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_sum_cost_le
 -- name    : PI.UnitaryCorollaryDerivatives.sum_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:02:02.616124+00:00
 -- url     : https://prove2.me/theorems/4c4af852-91b8-47ee-b3d4-7cf3a8c14b4e

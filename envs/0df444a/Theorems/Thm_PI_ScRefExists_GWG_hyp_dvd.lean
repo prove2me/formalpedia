@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GWG_hyp_dvd
 -- name    : PI.ScRefExists.GWG.hyp_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:05.314436+00:00
 -- url     : https://prove2.me/theorems/dd074969-0817-5073-a6fd-4587bc991ef5

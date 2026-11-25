@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovDetW_qminor_perm_perm
 -- name    : PI.QnCovDetW.qminor_perm_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:17:51.058571+00:00
 -- url     : https://prove2.me/theorems/a8ffa32d-22ac-4f25-8424-aed3b1bb7615

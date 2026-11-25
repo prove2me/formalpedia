@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_DjC_eL_val
 -- name    : PI.UnitaryCorollaryDerivatives.DjC.eL_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:39:14.084639+00:00
 -- url     : https://prove2.me/theorems/54ff5c26-4975-4c13-89dc-9cc28bd94eb5

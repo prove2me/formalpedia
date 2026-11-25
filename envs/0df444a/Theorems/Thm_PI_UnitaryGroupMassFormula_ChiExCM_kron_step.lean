@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ChiExCM_kron_step
 -- name    : PI.UnitaryGroupMassFormula.ChiExCM.kron_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:59.010607+00:00
 -- url     : https://prove2.me/theorems/811106e2-6db8-41f9-a1f2-bd0669d38c4c

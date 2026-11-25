@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_spanTop_of
 -- name    : PI.SelfDualLoc.W.spanTop_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:23:51.88997+00:00
 -- url     : https://prove2.me/theorems/89f1288f-1646-46a5-af24-77feb329f30c

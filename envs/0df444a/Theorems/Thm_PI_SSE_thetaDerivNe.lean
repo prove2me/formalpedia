@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_thetaDerivNe
 -- name    : PI.SSE.thetaDerivNe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:38.287524+00:00
 -- url     : https://prove2.me/theorems/3b3ad522-b8ec-4c7d-b409-f10c3603ca07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_cayley_domain_eq
 -- name    : HcInf.cayley_domain_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:14:57.081494+00:00
 -- url     : https://prove2.me/theorems/964a4527-282d-4bba-be96-509d7dfd3150

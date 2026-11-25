@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitKronW_stepC
 -- name    : PI.UnitKronW.stepC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:30:19.115555+00:00
 -- url     : https://prove2.me/theorems/808f11af-d568-5df2-99ef-3bf59a9e7180

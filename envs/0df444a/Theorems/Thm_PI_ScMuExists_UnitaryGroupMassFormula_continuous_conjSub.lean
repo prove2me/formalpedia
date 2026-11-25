@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_continuous_conjSub
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.continuous_conjSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:58.454282+00:00
 -- url     : https://prove2.me/theorems/6529ec3a-2f22-5f14-8fde-0ca16fdc1c85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_test_function_support
 -- name    : PI.TwistedEisensteinNonvanishing.W.test_function_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:02.23789+00:00
 -- url     : https://prove2.me/theorems/d543f862-63d3-4d5b-a42b-d2a8a1bdf871

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfConv_measurePreserving_anti
 -- name    : PI.UnitaryGroupMassFormula.GelfConv.measurePreserving_anti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:52.449589+00:00
 -- url     : https://prove2.me/theorems/52fb7c76-786b-47df-b6d7-f6433b17c21e

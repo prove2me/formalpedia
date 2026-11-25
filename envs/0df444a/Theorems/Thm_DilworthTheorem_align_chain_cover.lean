@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_align_chain_cover
 -- name    : DilworthTheorem.align_chain_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:57:59.597727+00:00
 -- url     : https://prove2.me/theorems/bd64a02e-1c07-429f-abc4-8a981dc7afeb

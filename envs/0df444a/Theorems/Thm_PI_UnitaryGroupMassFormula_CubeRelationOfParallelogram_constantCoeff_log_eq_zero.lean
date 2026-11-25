@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CubeRelationOfParallelogram_constantCoeff_log_eq_zero
 -- name    : PI.UnitaryGroupMassFormula.CubeRelationOfParallelogram.constantCoeff_log_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:37.569151+00:00
 -- url     : https://prove2.me/theorems/f5981fc0-3b47-46b1-889c-f8b7635ce846

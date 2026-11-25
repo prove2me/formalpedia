@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_bounded_matrix_entries
 -- name    : PI.TwistedEisensteinNonvanishing.W.bounded_matrix_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:46.050701+00:00
 -- url     : https://prove2.me/theorems/10126a85-b7a6-40dd-a878-981743a7ae12

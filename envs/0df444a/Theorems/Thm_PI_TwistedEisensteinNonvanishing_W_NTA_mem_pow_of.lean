@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_NTA_mem_pow_of
 -- name    : PI.TwistedEisensteinNonvanishing.W.NTA.mem_pow_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:12.862801+00:00
 -- url     : https://prove2.me/theorems/aa944eeb-ef9a-430d-85bb-ab0c4bcd65c9

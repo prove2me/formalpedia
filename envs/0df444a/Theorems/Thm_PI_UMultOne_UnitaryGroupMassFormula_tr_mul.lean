@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UMultOne_UnitaryGroupMassFormula_tr_mul
 -- name    : PI.UMultOne.UnitaryGroupMassFormula.tr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:03.114232+00:00
 -- url     : https://prove2.me/theorems/223a9f05-ba9c-5a7d-8869-d904aa55c959

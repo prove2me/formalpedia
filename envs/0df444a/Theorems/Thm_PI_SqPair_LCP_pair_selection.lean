@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_pair_selection
 -- name    : PI.SqPair.LCP.pair_selection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:31:10.210678+00:00
 -- url     : https://prove2.me/theorems/aaa1396c-06bf-5bf2-a53b-a92ebbaf248a

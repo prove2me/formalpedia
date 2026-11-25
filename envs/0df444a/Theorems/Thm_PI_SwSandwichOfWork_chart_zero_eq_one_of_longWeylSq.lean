@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwSandwichOfWork_chart_zero_eq_one_of_longWeylSq
 -- name    : PI.SwSandwichOfWork.chart_zero_eq_one_of_longWeylSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:35:02.456165+00:00
 -- url     : https://prove2.me/theorems/34192009-b134-5066-8ee1-eb317cdc9986

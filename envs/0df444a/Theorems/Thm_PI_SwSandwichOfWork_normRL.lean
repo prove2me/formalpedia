@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwSandwichOfWork_normRL
 -- name    : PI.SwSandwichOfWork.normRL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:29:29.521608+00:00
 -- url     : https://prove2.me/theorems/5ab75f88-2bc6-4383-b646-1fd7b61aba58

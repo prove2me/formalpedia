@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_lowerCone_chain_le
 -- name    : DilworthTheorem.lowerCone_chain_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:58:00.411081+00:00
 -- url     : https://prove2.me/theorems/dee52c4f-21b4-50ff-a882-9b012d79b172

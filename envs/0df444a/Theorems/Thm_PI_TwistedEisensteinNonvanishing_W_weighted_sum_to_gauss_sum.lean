@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_weighted_sum_to_gauss_sum
 -- name    : PI.TwistedEisensteinNonvanishing.W.weighted_sum_to_gauss_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:31.071633+00:00
 -- url     : https://prove2.me/theorems/9669e95b-116f-51bc-9683-171b0492309f

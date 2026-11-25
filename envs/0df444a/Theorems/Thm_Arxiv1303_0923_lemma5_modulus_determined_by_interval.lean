@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1303_0923_lemma5_modulus_determined_by_interval
 -- name    : Arxiv1303_0923.lemma5_modulus_determined_by_interval
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:29:08.702477+00:00
 -- url     : https://prove2.me/theorems/e714be7d-2aa4-43ef-aebc-f7d178f6a4fb

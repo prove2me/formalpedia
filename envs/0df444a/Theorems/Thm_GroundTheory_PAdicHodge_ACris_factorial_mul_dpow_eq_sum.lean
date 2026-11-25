@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_factorial_mul_dpow_eq_sum
 -- name    : GroundTheory.PAdicHodge.ACris.factorial_mul_dpow_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:18:48.322623+00:00
 -- url     : https://prove2.me/theorems/bb07f0fa-3800-5ac0-9c26-0403ce80e30f

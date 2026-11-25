@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_neg_one_pow_sub
 -- name    : PI.UnitaryGroupMassFormula.QmMove.neg_one_pow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:08.657873+00:00
 -- url     : https://prove2.me/theorems/c5fd3bb9-0239-4a1f-8af3-ceada534e7b6

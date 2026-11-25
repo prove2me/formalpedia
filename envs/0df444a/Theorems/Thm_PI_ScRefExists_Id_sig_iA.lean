@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Id_sig_iA
 -- name    : PI.ScRefExists.Id.sig_iA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:42:33.521028+00:00
 -- url     : https://prove2.me/theorems/beca0f65-4347-5f58-955c-8927584167e3

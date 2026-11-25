@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_ZetaZeros_zF_chart
 -- name    : PI.RhsWLim.W.ZetaZeros.zF_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:35:16.328323+00:00
 -- url     : https://prove2.me/theorems/5d1ea9f8-121f-4ebd-b70f-f2727350e922

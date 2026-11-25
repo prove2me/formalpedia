@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_unitary_of_isom
 -- name    : PI.SqPairLocal.unitary_of_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:34:46.136941+00:00
 -- url     : https://prove2.me/theorems/b0d86c72-9bdc-537a-a871-55e55f986571

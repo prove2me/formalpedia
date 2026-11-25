@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TrDualLocW_main
 -- name    : PI.TrDualLocW.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:36.455615+00:00
 -- url     : https://prove2.me/theorems/e7abc8fe-b409-441d-8b8b-e255ebd81b8e

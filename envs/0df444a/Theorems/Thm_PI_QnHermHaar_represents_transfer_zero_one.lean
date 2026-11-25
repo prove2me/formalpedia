@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_represents_transfer_zero_one
 -- name    : PI.QnHermHaar.represents_transfer_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:31.974546+00:00
 -- url     : https://prove2.me/theorems/67040afe-0159-437b-bee2-33efb85f0380

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfDivDeg_W_card_monic_two_roots_le
 -- name    : PI.SqfDivDeg.W.card_monic_two_roots_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:24:52.866562+00:00
 -- url     : https://prove2.me/theorems/15a0272d-24ed-4db5-987b-c076b13ba716

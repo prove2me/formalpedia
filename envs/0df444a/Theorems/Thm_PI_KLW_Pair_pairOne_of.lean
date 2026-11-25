@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_KLW_Pair_pairOne_of
 -- name    : PI.KLW.Pair.pairOne_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:32:30.230303+00:00
 -- url     : https://prove2.me/theorems/bb817e9f-8f8a-487d-9e4f-682a79d3e7f3

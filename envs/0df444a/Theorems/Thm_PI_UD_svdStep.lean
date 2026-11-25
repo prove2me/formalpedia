@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UD_svdStep
 -- name    : PI.UD.svdStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:19.999808+00:00
 -- url     : https://prove2.me/theorems/4a4f0757-01bd-45b8-b083-bca9d37b1ae0

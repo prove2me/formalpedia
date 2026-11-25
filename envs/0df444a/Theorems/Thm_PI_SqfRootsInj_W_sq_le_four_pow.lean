@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_sq_le_four_pow
 -- name    : PI.SqfRootsInj.W.sq_le_four_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:29:05.561975+00:00
 -- url     : https://prove2.me/theorems/2c7df2f7-f8a4-4ed2-8308-97359014477d

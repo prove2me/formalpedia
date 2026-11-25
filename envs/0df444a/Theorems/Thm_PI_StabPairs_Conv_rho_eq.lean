@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_rho_eq
 -- name    : PI.StabPairs.Conv.rho_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:15.867213+00:00
 -- url     : https://prove2.me/theorems/09165769-7d43-54bd-8792-ff88d2fb3fa6

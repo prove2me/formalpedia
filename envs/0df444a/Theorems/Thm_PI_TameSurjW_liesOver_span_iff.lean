@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TameSurjW_liesOver_span_iff
 -- name    : PI.TameSurjW.liesOver_span_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:23.111268+00:00
 -- url     : https://prove2.me/theorems/48675eac-8594-5b64-81bb-07ea637002b0

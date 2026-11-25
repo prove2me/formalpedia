@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_exists_maximal_chain
 -- name    : DilworthTheorem.exists_maximal_chain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:50:25.616106+00:00
 -- url     : https://prove2.me/theorems/437f02d2-b09c-418e-8f54-111a2ea4848f

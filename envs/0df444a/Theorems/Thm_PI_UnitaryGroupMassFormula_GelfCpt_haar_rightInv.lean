@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfCpt_haar_rightInv
 -- name    : PI.UnitaryGroupMassFormula.GelfCpt.haar_rightInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:22.261471+00:00
 -- url     : https://prove2.me/theorems/23938f52-b52d-45bf-b433-78bb0df87597

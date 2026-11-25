@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_KerSplit_isIntegral_half
 -- name    : PI.UnitaryGroupMassFormula.KerSplit.isIntegral_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:39:15.981088+00:00
 -- url     : https://prove2.me/theorems/40bb5f7e-1c53-4583-bed2-e30fdad9aafd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBIdemDen_idemEval
 -- name    : PI.UnitaryGroupMassFormula.TBIdemDen.idemEval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:19.882545+00:00
 -- url     : https://prove2.me/theorems/6d6b3425-3ba6-5c07-ac27-e68643ade06c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_phi_eq
 -- name    : PI.TwistedEisensteinNonvanishing.W.phi_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:30:59.540773+00:00
 -- url     : https://prove2.me/theorems/de05d1ae-813d-44de-8575-2e296b41c504

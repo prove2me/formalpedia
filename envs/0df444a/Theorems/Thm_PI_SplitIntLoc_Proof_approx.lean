@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_approx
 -- name    : PI.SplitIntLoc.Proof.approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:24:40.409814+00:00
 -- url     : https://prove2.me/theorems/662724e1-0ed2-5b20-82b1-1b7fbe3d6c5a

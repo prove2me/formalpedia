@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CubeRelationOfParallelogram_coeff_pow_mul_pow_eq_zero
 -- name    : PI.UnitaryGroupMassFormula.CubeRelationOfParallelogram.coeff_pow_mul_pow_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:16.862137+00:00
 -- url     : https://prove2.me/theorems/4a6a5960-b829-463f-96d4-63f80091e8d1

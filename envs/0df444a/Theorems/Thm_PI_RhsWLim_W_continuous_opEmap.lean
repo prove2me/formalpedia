@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_continuous_opEmap
 -- name    : PI.RhsWLim.W.continuous_opEmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:34:02.58323+00:00
 -- url     : https://prove2.me/theorems/230b7225-6fac-4b1a-806e-c9895867465c

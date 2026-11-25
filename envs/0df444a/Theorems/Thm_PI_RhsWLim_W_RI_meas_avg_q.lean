@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_meas_avg_q
 -- name    : PI.RhsWLim.W.RI.meas_avg_q
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:59:28.700022+00:00
 -- url     : https://prove2.me/theorems/512a6f11-66b0-5886-b89e-91a0f5a326d5

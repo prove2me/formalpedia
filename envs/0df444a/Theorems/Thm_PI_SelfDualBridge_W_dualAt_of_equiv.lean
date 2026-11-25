@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualBridge_W_dualAt_of_equiv
 -- name    : PI.SelfDualBridge.W.dualAt_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:25:54.681579+00:00
 -- url     : https://prove2.me/theorems/3d4f6edb-259b-4dd7-a06e-678a0ecbc2bc

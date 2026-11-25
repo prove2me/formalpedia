@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_p_mul_logTermZero
 -- name    : GroundTheory.PAdicHodge.ACris.p_mul_logTermZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:16:23.907702+00:00
 -- url     : https://prove2.me/theorems/9667b438-d5dc-4225-8329-ec0dc7846c2d

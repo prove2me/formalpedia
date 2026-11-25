@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_herm_unit
 -- name    : PI.StabSplit.herm_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:31:34.825295+00:00
 -- url     : https://prove2.me/theorems/b3a3acc0-0afe-4171-8c62-2773e6c2f487

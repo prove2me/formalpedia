@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_separable_irreducible
 -- name    : GlobalTheory.T.separable_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:57:08.82978+00:00
 -- url     : https://prove2.me/theorems/d962c0d4-733f-4b82-a2d0-08e271305df0

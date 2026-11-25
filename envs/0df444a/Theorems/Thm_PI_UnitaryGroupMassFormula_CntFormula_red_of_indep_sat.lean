@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_red_of_indep_sat
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.red_of_indep_sat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:31.594204+00:00
 -- url     : https://prove2.me/theorems/1f7c0bb1-9a49-4bf0-b8a2-5f38611194f7

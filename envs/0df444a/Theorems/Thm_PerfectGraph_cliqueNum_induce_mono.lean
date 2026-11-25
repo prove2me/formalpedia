@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerfectGraph_cliqueNum_induce_mono
 -- name    : PerfectGraph.cliqueNum_induce_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:28:01.37483+00:00
 -- url     : https://prove2.me/theorems/1c4f058b-fea4-4ea2-a897-b90d22d78688

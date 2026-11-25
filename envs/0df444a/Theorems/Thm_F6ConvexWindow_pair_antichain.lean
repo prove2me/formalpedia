@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_pair_antichain
 -- name    : F6ConvexWindow.pair_antichain
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:08:04.687815+00:00
 -- url     : https://prove2.me/theorems/831bf7b8-fa14-4a37-affb-cf11c729d276

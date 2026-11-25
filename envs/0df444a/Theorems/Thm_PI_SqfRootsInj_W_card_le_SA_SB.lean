@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_card_le_SA_SB
 -- name    : PI.SqfRootsInj.W.card_le_SA_SB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:27:23.20846+00:00
 -- url     : https://prove2.me/theorems/feb1f3cb-9b24-412e-9007-c445942cb9f4

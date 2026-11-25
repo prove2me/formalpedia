@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_chD_le_psi
 -- name    : PI.PC.chD_le_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:50.590118+00:00
 -- url     : https://prove2.me/theorems/b427b841-890d-4d99-8d7a-06024360ce71

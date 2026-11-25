@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfDivDeg_W_mainCount
 -- name    : PI.SqfDivDeg.W.mainCount
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:24:42.612687+00:00
 -- url     : https://prove2.me/theorems/30a5696e-92b4-5b10-a375-41a7d8abc7f5

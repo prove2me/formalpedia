@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_combinationEquiv_inv_mem_unipotentFlagGroup
 -- name    : PI.TwNormLat.W.combinationEquiv_inv_mem_unipotentFlagGroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:31:15.531641+00:00
 -- url     : https://prove2.me/theorems/091766d0-0ee5-4bd8-9c31-c7f85a7529c7

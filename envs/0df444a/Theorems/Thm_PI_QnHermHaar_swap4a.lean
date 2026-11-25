@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_swap4a
 -- name    : PI.QnHermHaar.swap4a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:54.013982+00:00
 -- url     : https://prove2.me/theorems/e06d6451-dc67-413d-a6b0-bedd403cd9c7

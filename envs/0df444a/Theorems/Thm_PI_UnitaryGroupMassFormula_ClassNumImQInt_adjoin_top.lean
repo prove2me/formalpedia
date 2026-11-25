@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ClassNumImQInt_adjoin_top
 -- name    : PI.UnitaryGroupMassFormula.ClassNumImQInt.adjoin_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:03.259526+00:00
 -- url     : https://prove2.me/theorems/1552f0b4-818c-49fe-9007-d77e895400dd

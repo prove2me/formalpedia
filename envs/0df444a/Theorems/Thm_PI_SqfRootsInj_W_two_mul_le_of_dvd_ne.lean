@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_two_mul_le_of_dvd_ne
 -- name    : PI.SqfRootsInj.W.two_mul_le_of_dvd_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:29:08.935162+00:00
 -- url     : https://prove2.me/theorems/afd4a644-671f-4ade-a1dc-d6b35363bb0a

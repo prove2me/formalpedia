@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_incL_smul_mem
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.incL_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:38:59.360031+00:00
 -- url     : https://prove2.me/theorems/4ca091d1-13cd-4a55-935c-a5c8525fe78e

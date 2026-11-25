@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PolyCoef_adjugate_eq
 -- name    : PI.UnitaryGroupMassFormula.PolyCoef.adjugate_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:34:12.160008+00:00
 -- url     : https://prove2.me/theorems/ee40ac78-a5d1-5cff-86e2-9302c305da94

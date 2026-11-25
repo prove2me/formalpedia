@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_inf_eq_inter_span
 -- name    : inf_eq_inter_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:42:11.300076+00:00
 -- url     : https://prove2.me/theorems/6e91bab9-5992-415d-9ea6-307ee9bc606d

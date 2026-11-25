@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_UnitaryGroupMassFormula_refData_one
 -- name    : PI.ScRefExists.UnitaryGroupMassFormula.refData_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:26:56.48026+00:00
 -- url     : https://prove2.me/theorems/589e2563-2f04-5d01-a09e-ba7a71320150

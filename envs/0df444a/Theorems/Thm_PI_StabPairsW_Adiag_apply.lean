@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_Adiag_apply
 -- name    : PI.StabPairsW.Adiag_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:27:36.828301+00:00
 -- url     : https://prove2.me/theorems/046ba83d-9cc7-4404-b375-eec578193083

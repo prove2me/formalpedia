@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_RS_mul
 -- name    : PI.TwistedEisensteinNonvanishing.W.RS_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:40.353576+00:00
 -- url     : https://prove2.me/theorems/3e0e662c-4d3a-46c6-af5f-b634fa822cef

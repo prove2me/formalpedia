@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_tst_exp_hasSum
 -- name    : PI.QnHermHaar.tst_exp_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:19:36.432724+00:00
 -- url     : https://prove2.me/theorems/b61f81df-d65a-554b-8d92-35794b4200eb

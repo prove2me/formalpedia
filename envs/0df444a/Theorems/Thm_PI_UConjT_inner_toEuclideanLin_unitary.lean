@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UConjT_inner_toEuclideanLin_unitary
 -- name    : PI.UConjT.inner_toEuclideanLin_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:31:45.068868+00:00
 -- url     : https://prove2.me/theorems/84f7ffe9-691b-47e0-8bba-f4b2abdac13e

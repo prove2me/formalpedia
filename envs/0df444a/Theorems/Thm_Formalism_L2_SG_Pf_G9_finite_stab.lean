@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_finite_stab
 -- name    : Formalism.L2.SG.Pf.G9.finite_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:29:24.23023+00:00
 -- url     : https://prove2.me/theorems/7bae2d95-8417-5238-9fb1-6b231600066a

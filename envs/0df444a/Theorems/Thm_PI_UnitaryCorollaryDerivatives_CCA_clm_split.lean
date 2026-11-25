@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_CCA_clm_split
 -- name    : PI.UnitaryCorollaryDerivatives.CCA.clm_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:34:01.612169+00:00
 -- url     : https://prove2.me/theorems/75a209e9-601a-47c1-a43e-3a7d86dcecb6

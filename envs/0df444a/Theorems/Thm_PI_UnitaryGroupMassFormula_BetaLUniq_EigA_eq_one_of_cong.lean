@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BetaLUniq_EigA_eq_one_of_cong
 -- name    : PI.UnitaryGroupMassFormula.BetaLUniq.EigA.eq_one_of_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:30:55.048148+00:00
 -- url     : https://prove2.me/theorems/c40fa459-c348-534d-aec2-33ebed856441

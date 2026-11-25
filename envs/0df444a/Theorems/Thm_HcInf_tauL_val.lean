@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_tauL_val
 -- name    : HcInf.tauL_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:17:10.630306+00:00
 -- url     : https://prove2.me/theorems/5242164c-abf7-5370-9009-d4e1e29d08dd

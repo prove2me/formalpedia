@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotInvW_avgS_mm
 -- name    : PI.QuotInvW.avgS_mm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:39:24.213022+00:00
 -- url     : https://prove2.me/theorems/82f24553-6beb-4f88-b818-1e4608f0a63e

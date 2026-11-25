@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_small_of
 -- name    : PI.SqPairLocal.small_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:25:09.966978+00:00
 -- url     : https://prove2.me/theorems/2b44e7c2-e506-571d-ae28-6b8f15388601

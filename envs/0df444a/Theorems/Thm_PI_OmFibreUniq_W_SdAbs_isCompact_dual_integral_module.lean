@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_SdAbs_isCompact_dual_integral_module
 -- name    : PI.OmFibreUniq.W.SdAbs.isCompact_dual_integral_module
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:44.06938+00:00
 -- url     : https://prove2.me/theorems/209ca1dc-99b5-5d82-a2c8-90d92678f5fc

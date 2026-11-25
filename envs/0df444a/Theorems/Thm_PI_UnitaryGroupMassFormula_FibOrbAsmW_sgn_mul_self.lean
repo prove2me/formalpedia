@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FibOrbAsmW_sgn_mul_self
 -- name    : PI.UnitaryGroupMassFormula.FibOrbAsmW.sgn_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:34:11.045423+00:00
 -- url     : https://prove2.me/theorems/3d8f0cd0-8670-54c3-909e-95c4699510da

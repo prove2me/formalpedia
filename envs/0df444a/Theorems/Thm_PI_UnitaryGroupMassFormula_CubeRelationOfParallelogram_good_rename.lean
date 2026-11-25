@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CubeRelationOfParallelogram_good_rename
 -- name    : PI.UnitaryGroupMassFormula.CubeRelationOfParallelogram.good_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:40.689813+00:00
 -- url     : https://prove2.me/theorems/04b01bc9-d729-41fa-8d65-984c7f483767

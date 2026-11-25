@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnimodularOrthogonalQuadratic_Loc_q_fixed
 -- name    : PI.UnimodularOrthogonalQuadratic.Loc.q_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:14.753945+00:00
 -- url     : https://prove2.me/theorems/ff914716-7518-508b-b15a-fbf990dbc8fe

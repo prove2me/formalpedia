@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ProdUnitInert_mem_Qbar
 -- name    : PI.UnitaryGroupMassFormula.ProdUnitInert.mem_Qbar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:32:49.404598+00:00
 -- url     : https://prove2.me/theorems/c18201e7-d3bb-4a5a-a8af-022aba890730

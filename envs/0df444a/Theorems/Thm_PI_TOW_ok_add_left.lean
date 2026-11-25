@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_ok_add_left
 -- name    : PI.TOW.ok_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:41.315282+00:00
 -- url     : https://prove2.me/theorems/10580fcf-3e65-433f-b786-63c1b7cbc7df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBNum_arithmetic_four_inequality_num
 -- name    : PI.UnitaryGroupMassFormula.TBNum.arithmetic_four_inequality_num
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:12.573167+00:00
 -- url     : https://prove2.me/theorems/a93f6a8d-9f11-40d7-833e-7006bbad291f

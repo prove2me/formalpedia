@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Tr_factor_le
 -- name    : PI.Tr.factor_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:41.437804+00:00
 -- url     : https://prove2.me/theorems/47a3a463-5c77-5ef1-9f04-be98fde4ad81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_bd_int_mult
 -- name    : PI.UnitaryApproxFinWork.bd_int_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:30:35.425815+00:00
 -- url     : https://prove2.me/theorems/e32cad12-f246-42fa-9bef-1e33603c7721

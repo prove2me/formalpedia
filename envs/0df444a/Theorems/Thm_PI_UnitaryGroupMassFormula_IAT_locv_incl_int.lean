@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_IAT_locv_incl_int
 -- name    : PI.UnitaryGroupMassFormula.IAT.locv_incl_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:39:56.82532+00:00
 -- url     : https://prove2.me/theorems/ae423ea2-8460-438e-be41-d5b2bd4c050c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SymDistWork_kset_ct
 -- name    : PI.SymDistWork.kset_ct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:34.732991+00:00
 -- url     : https://prove2.me/theorems/0971b359-6d8b-4f66-be25-12d4b6a909e2

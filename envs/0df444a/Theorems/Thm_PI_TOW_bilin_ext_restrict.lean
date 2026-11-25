@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_bilin_ext_restrict
 -- name    : PI.TOW.bilin_ext_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:30.859508+00:00
 -- url     : https://prove2.me/theorems/24602cb5-e178-49ea-9b10-cbfe8496c568

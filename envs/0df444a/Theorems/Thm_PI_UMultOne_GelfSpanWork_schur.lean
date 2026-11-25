@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UMultOne_GelfSpanWork_schur
 -- name    : PI.UMultOne.GelfSpanWork.schur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:31.750575+00:00
 -- url     : https://prove2.me/theorems/52184ef1-e4f8-4652-aab3-21c8bd075071

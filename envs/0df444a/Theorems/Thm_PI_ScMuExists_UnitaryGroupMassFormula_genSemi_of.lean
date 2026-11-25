@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_genSemi_of
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.genSemi_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:37:28.411851+00:00
 -- url     : https://prove2.me/theorems/0d95d7a9-09de-4785-b036-531d36b54c31

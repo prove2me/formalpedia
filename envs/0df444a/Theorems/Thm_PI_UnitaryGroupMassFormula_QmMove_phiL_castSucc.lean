@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_phiL_castSucc
 -- name    : PI.UnitaryGroupMassFormula.QmMove.phiL_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:41:17.913333+00:00
 -- url     : https://prove2.me/theorems/c3b5b232-7a60-5b1c-8758-a4f4ccda0447

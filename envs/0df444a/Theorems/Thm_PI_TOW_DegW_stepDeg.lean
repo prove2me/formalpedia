@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_DegW_stepDeg
 -- name    : PI.TOW.DegW.stepDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:43.470666+00:00
 -- url     : https://prove2.me/theorems/397cb635-e776-43cc-9db4-b7c140a05a08

@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for PI.OpWords.opBound_of_vanish
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T10:40:53.767504+00:00
+-- url     : https://prove2.me/submissions/beb485a6-f649-473c-9986-1092344d7f20
+
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialDifferentialWords_DivideAll
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialDifferentialWords_PolarizationBihomogeneous
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialDifferentialWords_PairingPowMemSymbolRange
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialDifferentialWords_KappaMain
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialDifferentialWords_IsWeightedHomogeneousPairingLeft
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PolynomialDifferentialWords_Assemble
+import Theorems.Thm_PI_OpWords_opWords_of
+import Theorems.Thm_PI_OpWords_pairingDivisibility
+import Theorems.Thm_PI_OpWords_pairingPowMemSymbolRange
+import Theorems.Thm_PI_OpWords_pairingWeightCancel
+import Theorems.Thm_PI_OpWords_polarizationBihomogeneous
+import Theorems.Thm_PI_OpWords_rttRelation
+import Theorems.Thm_PI_OpWords_symbolMapBihomogeneous
+import Theorems.Thm_PI_OpWords_symbolMapInjective
+import Theorems.Thm_PI_OpWords_symbolMapMulLeft
+import Theorems.Thm_PI_OpWords_symbolMapMulRight
+import Theorems.Thm_PI_OpWords_weightOfEigenvector
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PI PI.OpWords
+namespace PI.OpWords
+theorem _root_.solution (hV : Vanish) : Formalism.MainNotions.TestSideCounting.OpBound :=
+  opWords_of symbolMapInjective symbolMapMulLeft symbolMapMulRight symbolMapBihomogeneous weightOfEigenvector
+    polarizationBihomogeneous rttRelation pairingWeightCancel pairingDivisibility hV pairingPowMemSymbolRange
+end PI.OpWords

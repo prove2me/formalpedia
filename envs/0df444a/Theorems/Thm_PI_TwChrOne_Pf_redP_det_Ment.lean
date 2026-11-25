@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwChrOne_Pf_redP_det_Ment
 -- name    : PI.TwChrOne.Pf.redP_det_Ment
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:22.217884+00:00
 -- url     : https://prove2.me/theorems/10661db7-9c1a-495f-b329-b1ab3271cee9

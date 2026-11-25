@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhenToTrustYourModel_tvd_joint_bound
 -- name    : WhenToTrustYourModel.tvd_joint_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T11:08:46.970801+00:00
 -- url     : https://prove2.me/theorems/b5d3d157-3953-4ccd-8657-0f65d543e0d4

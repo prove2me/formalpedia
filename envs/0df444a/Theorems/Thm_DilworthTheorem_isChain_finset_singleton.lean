@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_isChain_finset_singleton
 -- name    : DilworthTheorem.isChain_finset_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:30:36.810439+00:00
 -- url     : https://prove2.me/theorems/7f83344c-21eb-5457-bd2a-aa9ad5b38734

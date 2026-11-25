@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_normLoc_of_card
 -- name    : PI.ProdFormulaE.normLoc_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:21:38.41923+00:00
 -- url     : https://prove2.me/theorems/48e8fcbe-59c7-5097-adec-81cdd66ca9b4

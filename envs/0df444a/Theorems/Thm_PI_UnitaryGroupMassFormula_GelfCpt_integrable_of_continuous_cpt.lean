@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfCpt_integrable_of_continuous_cpt
 -- name    : PI.UnitaryGroupMassFormula.GelfCpt.integrable_of_continuous_cpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:12.200249+00:00
 -- url     : https://prove2.me/theorems/ddceea9f-fd86-5998-96e9-8c219bb1fda3

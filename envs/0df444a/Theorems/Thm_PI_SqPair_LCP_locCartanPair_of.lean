@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_locCartanPair_of
 -- name    : PI.SqPair.LCP.locCartanPair_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:58.710605+00:00
 -- url     : https://prove2.me/theorems/16797e30-e8d0-57c8-bc2a-12b1606c309a

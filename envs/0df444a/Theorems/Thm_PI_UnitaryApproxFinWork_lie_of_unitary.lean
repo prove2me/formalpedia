@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_lie_of_unitary
 -- name    : PI.UnitaryApproxFinWork.lie_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:16.246925+00:00
 -- url     : https://prove2.me/theorems/c9b1e531-8bc9-54cf-a456-94b8cc1229ef

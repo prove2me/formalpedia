@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_PolynomialProperness_frameSg__of_34c40b5599d2
 -- name    : P2M_PI_PolynomialProperness_frameSg__of_34c40b5599d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:39:08.982299+00:00
 -- url     : https://prove2.me/theorems/2b726f6f-355e-4e32-b87e-f6109995d19d

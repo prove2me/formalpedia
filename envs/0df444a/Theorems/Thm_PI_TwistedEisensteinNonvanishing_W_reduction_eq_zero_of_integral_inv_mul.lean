@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_reduction_eq_zero_of_integral_inv_mul
 -- name    : PI.TwistedEisensteinNonvanishing.W.reduction_eq_zero_of_integral_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:30:08.264026+00:00
 -- url     : https://prove2.me/theorems/c7576f4e-fd36-4d11-abb2-d9ed1695e77c

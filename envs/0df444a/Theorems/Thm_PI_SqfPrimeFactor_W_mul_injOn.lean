@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfPrimeFactor_W_mul_injOn
 -- name    : PI.SqfPrimeFactor.W.mul_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:26:13.322722+00:00
 -- url     : https://prove2.me/theorems/caf8bf33-e5a9-5dfb-acf7-5891bf5b3eb0

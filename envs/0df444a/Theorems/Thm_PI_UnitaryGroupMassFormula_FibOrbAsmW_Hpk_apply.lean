@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FibOrbAsmW_Hpk_apply
 -- name    : PI.UnitaryGroupMassFormula.FibOrbAsmW.Hpk_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:34:12.354659+00:00
 -- url     : https://prove2.me/theorems/7cfa41b7-22af-4fc9-9b4f-e294917c5254

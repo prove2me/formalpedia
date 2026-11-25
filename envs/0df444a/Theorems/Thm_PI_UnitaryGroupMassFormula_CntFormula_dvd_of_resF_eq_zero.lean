@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_dvd_of_resF_eq_zero
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.dvd_of_resF_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:14.200984+00:00
 -- url     : https://prove2.me/theorems/b9ecf4f7-c0ca-4fa4-81e3-a66ab84609e9

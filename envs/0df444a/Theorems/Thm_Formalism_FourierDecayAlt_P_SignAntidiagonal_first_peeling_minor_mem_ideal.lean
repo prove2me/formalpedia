@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_first_peeling_minor_mem_ideal
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.first_peeling_minor_mem_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:15:36.950067+00:00
 -- url     : https://prove2.me/theorems/bb9ad563-2f56-415f-baf8-d285fb486c24

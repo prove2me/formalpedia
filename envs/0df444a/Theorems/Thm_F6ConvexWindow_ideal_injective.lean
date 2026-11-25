@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_ideal_injective
 -- name    : F6ConvexWindow.ideal_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:02:15.483814+00:00
 -- url     : https://prove2.me/theorems/0dd9b9e2-9e4b-4df2-8335-d54d77a009fc

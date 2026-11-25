@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_tau_pow_le_ht
 -- name    : PI.UnitaryGroupMassFormula.LCG.tau_pow_le_ht
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:55.805349+00:00
 -- url     : https://prove2.me/theorems/e144783c-2a33-48f7-b6fd-2ad43d3551b7

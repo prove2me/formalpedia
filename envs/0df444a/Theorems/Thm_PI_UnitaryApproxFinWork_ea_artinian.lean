@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_ea_artinian
 -- name    : PI.UnitaryApproxFinWork.ea_artinian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:31:20.976051+00:00
 -- url     : https://prove2.me/theorems/248864c5-0bf0-43a1-be69-be623e656da2

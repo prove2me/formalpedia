@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_pres_conj
 -- name    : PI.SqPairLocal.pres_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:25:37.300814+00:00
 -- url     : https://prove2.me/theorems/51e08f9d-00df-4ced-8767-23acaffc7c1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_GV_eq
 -- name    : PI.StabSplit.GV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:44.775398+00:00
 -- url     : https://prove2.me/theorems/b5f3457f-b879-5170-8e87-2b19da513300

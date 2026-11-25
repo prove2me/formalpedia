@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_consequence_of_mackey
 -- name    : GlobalTheory.T.consequence_of_mackey
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:37:02.971203+00:00
 -- url     : https://prove2.me/theorems/446cec66-5ddf-4cda-9918-bc09dab2108a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmRowForm_dblAlt_eq
 -- name    : PI.UnitaryGroupMassFormula.QmRowForm.dblAlt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:44.611805+00:00
 -- url     : https://prove2.me/theorems/c13fc290-af25-4c2e-9e98-b7c671b21ddd

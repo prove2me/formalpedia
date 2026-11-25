@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_pow_mem_Sset
 -- name    : CompanionTheory.D.Upq.QuotSetU.pow_mem_Sset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:53:07.829325+00:00
 -- url     : https://prove2.me/theorems/91b50e05-bcd1-4452-a62e-c40112d06643

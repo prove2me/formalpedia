@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_MC_entries
 -- name    : PI.UnitaryApproxFinWork.MC_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:30:13.057395+00:00
 -- url     : https://prove2.me/theorems/98a4779e-015e-4a9b-9049-ea4c183cad27

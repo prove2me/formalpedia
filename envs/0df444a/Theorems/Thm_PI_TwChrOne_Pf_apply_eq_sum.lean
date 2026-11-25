@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwChrOne_Pf_apply_eq_sum
 -- name    : PI.TwChrOne.Pf.apply_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:01.140458+00:00
 -- url     : https://prove2.me/theorems/9e91dffd-a2c9-5bc5-9264-f88974287aa0

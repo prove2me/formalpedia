@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FlagGramNonneg_conjT_mul_mul_apply
 -- name    : PI.UnitaryGroupMassFormula.FlagGramNonneg.conjT_mul_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:36.068567+00:00
 -- url     : https://prove2.me/theorems/38664579-c132-5451-b1e3-4f62b2ca2e8d

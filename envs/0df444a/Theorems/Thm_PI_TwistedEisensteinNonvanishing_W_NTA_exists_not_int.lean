@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_NTA_exists_not_int
 -- name    : PI.TwistedEisensteinNonvanishing.W.NTA.exists_not_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:09.863936+00:00
 -- url     : https://prove2.me/theorems/983e9364-6442-48a1-aa0d-d2da1523976f

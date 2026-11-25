@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ProdUnitInert_x_norm_le_one
 -- name    : PI.UnitaryGroupMassFormula.ProdUnitInert.x_norm_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:20.465823+00:00
 -- url     : https://prove2.me/theorems/0e08f836-2641-51fc-8335-25c711d965e6

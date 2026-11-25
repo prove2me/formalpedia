@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SymDistWork_inUJ_coe
 -- name    : PI.SymDistWork.inUJ_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:29:01.616608+00:00
 -- url     : https://prove2.me/theorems/d63e1a21-ea45-47a8-b372-1a07bec12b53

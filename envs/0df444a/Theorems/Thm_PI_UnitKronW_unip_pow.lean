@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitKronW_unip_pow
 -- name    : PI.UnitKronW.unip_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:30:37.232961+00:00
 -- url     : https://prove2.me/theorems/b3a880c9-1abd-40d6-b77b-e880b73de7be

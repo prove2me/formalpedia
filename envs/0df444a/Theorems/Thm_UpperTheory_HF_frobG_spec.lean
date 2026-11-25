@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_HF_frobG_spec
 -- name    : UpperTheory.HF.frobG_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:55:29.739439+00:00
 -- url     : https://prove2.me/theorems/7a1e601b-0c52-4931-b149-ec33c64a0ff0

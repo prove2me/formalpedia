@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FlagGramNonneg_det_succ_schur
 -- name    : PI.UnitaryGroupMassFormula.FlagGramNonneg.det_succ_schur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:04.142085+00:00
 -- url     : https://prove2.me/theorems/ec890477-439e-4035-9c38-0c7b197e1540

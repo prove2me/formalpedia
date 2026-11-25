@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_ChainDecomposition_full_antichain_fiber_card
 -- name    : F6ConvexWindow.ChainDecomposition.full_antichain_fiber_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:10:19.40335+00:00
 -- url     : https://prove2.me/theorems/f187ee50-426b-4500-b1c7-015d98ec053b

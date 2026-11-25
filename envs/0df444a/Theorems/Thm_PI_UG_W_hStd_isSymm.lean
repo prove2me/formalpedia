@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UG_W_hStd_isSymm
 -- name    : PI.UG.W.hStd_isSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:31:35.975918+00:00
 -- url     : https://prove2.me/theorems/cd046c99-fb19-5901-b1c0-305df36aa36e

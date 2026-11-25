@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_EfRankSum_ptsEquiv_apply
 -- name    : PI.UnitaryGroupMassFormula.EfRankSum.ptsEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:09.269156+00:00
 -- url     : https://prove2.me/theorems/c85a974f-36ea-4d3e-b8ca-98cd98813e0c

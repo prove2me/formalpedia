@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_unitary_scalars
 -- name    : PI.UnitaryApproxFinWork.unitary_scalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:10.945368+00:00
 -- url     : https://prove2.me/theorems/9a33d45f-e67d-41d4-a119-f913485e217a

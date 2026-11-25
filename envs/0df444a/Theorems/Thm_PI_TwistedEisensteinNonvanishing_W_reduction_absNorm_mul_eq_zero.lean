@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_reduction_absNorm_mul_eq_zero
 -- name    : PI.TwistedEisensteinNonvanishing.W.reduction_absNorm_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:38.690811+00:00
 -- url     : https://prove2.me/theorems/07ca4a5a-a60e-51fe-a5b4-c8681a226019

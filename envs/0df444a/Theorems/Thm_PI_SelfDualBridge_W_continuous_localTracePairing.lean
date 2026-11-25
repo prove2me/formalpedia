@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualBridge_W_continuous_localTracePairing
 -- name    : PI.SelfDualBridge.W.continuous_localTracePairing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:24:03.726147+00:00
 -- url     : https://prove2.me/theorems/7a1cb6b8-f1e2-426e-8559-fcc52e6c7e92

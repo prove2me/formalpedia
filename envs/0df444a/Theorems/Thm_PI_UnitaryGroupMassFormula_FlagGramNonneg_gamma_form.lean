@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FlagGramNonneg_gamma_form
 -- name    : PI.UnitaryGroupMassFormula.FlagGramNonneg.gamma_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:42.670025+00:00
 -- url     : https://prove2.me/theorems/ac55f4c8-688a-5371-a0e7-ea654701b3db

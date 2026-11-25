@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CubeRelationOfParallelogram_cc_lg_add
 -- name    : PI.UnitaryGroupMassFormula.CubeRelationOfParallelogram.cc_lg_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:29.653474+00:00
 -- url     : https://prove2.me/theorems/a7f0ca73-1a22-4109-b29d-15c8b1f3091b

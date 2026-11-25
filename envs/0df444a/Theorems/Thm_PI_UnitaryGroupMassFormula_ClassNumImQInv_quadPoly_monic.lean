@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ClassNumImQInv_quadPoly_monic
 -- name    : PI.UnitaryGroupMassFormula.ClassNumImQInv.quadPoly_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:20.499936+00:00
 -- url     : https://prove2.me/theorems/f3092aa1-d788-4a7a-957a-758d82b1c2ab

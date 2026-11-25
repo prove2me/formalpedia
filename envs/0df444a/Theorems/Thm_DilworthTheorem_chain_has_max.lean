@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_chain_has_max
 -- name    : DilworthTheorem.chain_has_max
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:49:45.40465+00:00
 -- url     : https://prove2.me/theorems/4b9d3837-6696-5cfb-99cb-0c5a15f9c4ec

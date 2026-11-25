@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Id_locIdem
 -- name    : PI.ScRefExists.Id.locIdem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:47.626846+00:00
 -- url     : https://prove2.me/theorems/784a7aef-644a-494e-bcf4-e8885c7ba511

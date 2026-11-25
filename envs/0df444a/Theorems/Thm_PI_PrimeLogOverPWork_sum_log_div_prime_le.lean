@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimeLogOverPWork_sum_log_div_prime_le
 -- name    : PI.PrimeLogOverPWork.sum_log_div_prime_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:05.393621+00:00
 -- url     : https://prove2.me/theorems/ba883016-8561-502f-a8e6-676adc15b3d8

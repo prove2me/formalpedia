@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LocCartanPairW_cmp_gram_pull
 -- name    : PI.SqPair.LocCartanPairW.cmp_gram_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:31:51.487256+00:00
 -- url     : https://prove2.me/theorems/6fb6b4bf-6bfb-4874-9454-bc3307c4014d

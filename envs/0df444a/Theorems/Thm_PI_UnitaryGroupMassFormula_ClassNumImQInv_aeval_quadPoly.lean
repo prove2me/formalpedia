@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ClassNumImQInv_aeval_quadPoly
 -- name    : PI.UnitaryGroupMassFormula.ClassNumImQInv.aeval_quadPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:02.497005+00:00
 -- url     : https://prove2.me/theorems/e8a875a7-3cce-4f83-a79a-402fffb29dd9

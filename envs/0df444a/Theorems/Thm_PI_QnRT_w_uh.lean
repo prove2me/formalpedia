@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_w_uh
 -- name    : PI.QnRT.w_uh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:20:04.903034+00:00
 -- url     : https://prove2.me/theorems/4cb28ad9-5c4b-5fb6-847d-55c38ad0efe7

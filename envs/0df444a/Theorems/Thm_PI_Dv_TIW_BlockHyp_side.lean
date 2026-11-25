@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_TIW_BlockHyp_side
 -- name    : PI.Dv.TIW.BlockHyp.side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:32:37.927625+00:00
 -- url     : https://prove2.me/theorems/7c9e5048-5b07-5291-9806-07f1467209b3

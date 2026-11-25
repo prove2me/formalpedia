@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_adjacent_common_bound
 -- name    : F6ConvexWindow.adjacent_common_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:02:34.127102+00:00
 -- url     : https://prove2.me/theorems/16d270b5-dfed-51d4-b985-3fed35f78402

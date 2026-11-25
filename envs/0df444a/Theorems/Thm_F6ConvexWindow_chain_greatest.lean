@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_chain_greatest
 -- name    : F6ConvexWindow.chain_greatest
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:05:15.28532+00:00
 -- url     : https://prove2.me/theorems/122d48e0-8bc0-4332-8315-f086d45aa478

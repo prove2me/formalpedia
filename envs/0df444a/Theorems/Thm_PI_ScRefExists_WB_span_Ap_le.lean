@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_WB_span_Ap_le
 -- name    : PI.ScRefExists.WB.span_Ap_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:33.582907+00:00
 -- url     : https://prove2.me/theorems/340db71a-39b2-40fb-b65c-9548147594e6

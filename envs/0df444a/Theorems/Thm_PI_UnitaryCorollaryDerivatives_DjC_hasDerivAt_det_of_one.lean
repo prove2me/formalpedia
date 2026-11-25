@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_DjC_hasDerivAt_det_of_one
 -- name    : PI.UnitaryCorollaryDerivatives.DjC.hasDerivAt_det_of_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:43:22.762159+00:00
 -- url     : https://prove2.me/theorems/f63ec33f-bf6b-5900-8b05-0fc3b5dd4a50

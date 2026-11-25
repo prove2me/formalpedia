@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CdHaarScale_Main_rho_finite_order
 -- name    : PI.UnitaryGroupMassFormula.CdHaarScale.Main.rho_finite_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:16.902517+00:00
 -- url     : https://prove2.me/theorems/021d638b-c555-4fd8-9ec8-99d8f08b450f

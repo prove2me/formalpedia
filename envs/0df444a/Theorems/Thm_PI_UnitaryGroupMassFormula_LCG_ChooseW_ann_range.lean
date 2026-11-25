@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_ChooseW_ann_range
 -- name    : PI.UnitaryGroupMassFormula.LCG.ChooseW.ann_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:12.914779+00:00
 -- url     : https://prove2.me/theorems/e55e3508-ed43-46ba-84a1-e7c71464dc25

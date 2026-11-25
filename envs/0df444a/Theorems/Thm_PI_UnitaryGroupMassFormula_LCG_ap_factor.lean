@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_ap_factor
 -- name    : PI.UnitaryGroupMassFormula.LCG.ap_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:02:48.401878+00:00
 -- url     : https://prove2.me/theorems/df32a8d5-13d7-40f6-8812-8ca979f4f1b8

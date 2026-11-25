@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_isChain_empty
 -- name    : DilworthTheorem.isChain_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:45:11.757833+00:00
 -- url     : https://prove2.me/theorems/28d19550-b08a-42b2-bc14-cbb10d4b202b

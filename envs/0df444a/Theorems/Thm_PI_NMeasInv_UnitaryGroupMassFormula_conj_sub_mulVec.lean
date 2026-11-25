@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_conj_sub_mulVec
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.conj_sub_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:13:05.113226+00:00
 -- url     : https://prove2.me/theorems/98e0a077-c473-48f4-822a-81826679d397

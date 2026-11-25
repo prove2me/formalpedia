@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwBig_BigCellGProof_bigCellG
 -- name    : PI.SwBig.BigCellGProof.bigCellG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:12.617272+00:00
 -- url     : https://prove2.me/theorems/835da8d4-2998-49eb-9300-f198df5dc9a9

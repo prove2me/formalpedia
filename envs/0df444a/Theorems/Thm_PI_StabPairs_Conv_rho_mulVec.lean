@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_rho_mulVec
 -- name    : PI.StabPairs.Conv.rho_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:00:54.456915+00:00
 -- url     : https://prove2.me/theorems/e3d8b32b-eccf-4738-89e0-f2f09b9074cc

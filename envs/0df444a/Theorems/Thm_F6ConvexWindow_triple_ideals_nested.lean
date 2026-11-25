@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_triple_ideals_nested
 -- name    : F6ConvexWindow.triple_ideals_nested
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:03:31.501302+00:00
 -- url     : https://prove2.me/theorems/dc4e297a-0b66-5c31-9259-ec416a3f194a

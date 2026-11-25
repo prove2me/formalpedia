@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_rel_comb
 -- name    : PI.SSE.rel_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:22:08.084393+00:00
 -- url     : https://prove2.me/theorems/17c0a960-8307-41f2-971e-b8b2a90343b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_exists_common
 -- name    : PI.UnitaryApproxFinWork.exists_common
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:51.729862+00:00
 -- url     : https://prove2.me/theorems/f02244bd-e504-5321-b87e-2aceb9e71b5f

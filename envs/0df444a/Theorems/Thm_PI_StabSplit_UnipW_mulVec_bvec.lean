@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_UnipW_mulVec_bvec
 -- name    : PI.StabSplit.UnipW.mulVec_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:49.470043+00:00
 -- url     : https://prove2.me/theorems/3d5254ba-3edb-45f4-a191-8660b59930bb

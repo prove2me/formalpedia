@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymDec_conj_entry
 -- name    : GlobalTheory.SymDec.conj_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:17:21.537287+00:00
 -- url     : https://prove2.me/theorems/074996f8-011a-5154-82b0-edf61c48b9e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_prime_ne_bot
 -- name    : PI.SplitIntLoc.Proof.prime_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:41:10.708743+00:00
 -- url     : https://prove2.me/theorems/e39e6b10-c8b6-4c86-8029-0d66bc677c20

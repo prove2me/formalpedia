@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabBigW_sum_mid
 -- name    : PI.StabBigW.sum_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:35.986519+00:00
 -- url     : https://prove2.me/theorems/9ff4a077-e9f6-4828-8c0c-2c992c203ab2

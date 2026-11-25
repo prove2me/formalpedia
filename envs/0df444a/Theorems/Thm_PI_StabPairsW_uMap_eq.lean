@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_uMap_eq
 -- name    : PI.StabPairsW.uMap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:29:53.427801+00:00
 -- url     : https://prove2.me/theorems/6e6191f6-5dde-41cd-91af-302bd09b3063

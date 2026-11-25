@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_inst_sign_real
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.inst_sign_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:37:40.361662+00:00
 -- url     : https://prove2.me/theorems/1b5925de-2546-429e-a2aa-469bd303f085

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_mul_eq_of_cols
 -- name    : PI.StabSplit.mul_eq_of_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:33:09.411935+00:00
 -- url     : https://prove2.me/theorems/2dcd5d38-25fb-4186-83ce-1435de35f951

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_exists_span_int
 -- name    : PI.UnitaryApproxFinWork.exists_span_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:33.106675+00:00
 -- url     : https://prove2.me/theorems/c1e61309-c7df-499f-aed9-4d05610d0fd9

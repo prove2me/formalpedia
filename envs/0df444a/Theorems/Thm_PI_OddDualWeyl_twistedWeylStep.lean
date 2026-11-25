@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_twistedWeylStep
 -- name    : PI.OddDualWeyl.twistedWeylStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:14:35.79311+00:00
 -- url     : https://prove2.me/theorems/387000b6-8f96-4b6f-9587-11656a515e3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_comap_single_span_algebraMap
 -- name    : GlobalTheory.comap_single_span_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:22:38.294467+00:00
 -- url     : https://prove2.me/theorems/1b4d2894-e027-4da5-8a20-848a0b27afb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_row_tr
 -- name    : PI.TwistedEisensteinNonvanishing.W.row_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:49.247831+00:00
 -- url     : https://prove2.me/theorems/32bfeb75-d122-4ae9-b064-7564f96add11

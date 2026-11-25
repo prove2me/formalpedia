@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_slice_mem
 -- name    : PI.RhsWLim.W.slice_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:46.818578+00:00
 -- url     : https://prove2.me/theorems/46655ab0-27f1-44c6-9a93-c9f88f3b4185

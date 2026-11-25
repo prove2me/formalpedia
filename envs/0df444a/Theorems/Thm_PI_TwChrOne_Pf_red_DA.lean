@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwChrOne_Pf_red_DA
 -- name    : PI.TwChrOne.Pf.red_DA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:32.432923+00:00
 -- url     : https://prove2.me/theorems/69b28e1c-a276-4d77-8726-e4d033be095e

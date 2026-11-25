@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_valuation_exponent_unique
 -- name    : PI.TwistedEisensteinNonvanishing.W.valuation_exponent_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:21.6585+00:00
 -- url     : https://prove2.me/theorems/ed63f864-9cc1-5c66-bb67-d8c642ef1a73

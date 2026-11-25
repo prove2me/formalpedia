@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookLower_diagonal_monomial_factorial
 -- name    : PI.HookLower.diagonal_monomial_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:22.569157+00:00
 -- url     : https://prove2.me/theorems/10a112b4-2744-4677-b305-c14b3969951d

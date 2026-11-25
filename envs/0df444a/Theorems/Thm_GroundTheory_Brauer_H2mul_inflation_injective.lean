@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_H2mul_inflation_injective
 -- name    : GroundTheory.Brauer.H2mul.inflation_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:44:25.145528+00:00
 -- url     : https://prove2.me/theorems/9557fc27-2d01-4488-8854-eac16644ff48

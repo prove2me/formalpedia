@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_bvec_apply
 -- name    : PI.StabPairsW.bvec_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:27:45.583701+00:00
 -- url     : https://prove2.me/theorems/222570ad-5376-4505-acbb-c6c9c8002b0c

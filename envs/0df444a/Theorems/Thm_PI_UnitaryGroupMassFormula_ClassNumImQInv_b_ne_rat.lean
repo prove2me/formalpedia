@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ClassNumImQInv_b_ne_rat
 -- name    : PI.UnitaryGroupMassFormula.ClassNumImQInv.b_ne_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:11.961086+00:00
 -- url     : https://prove2.me/theorems/d7fec254-b241-45cd-9a87-a57cf76c1fb6

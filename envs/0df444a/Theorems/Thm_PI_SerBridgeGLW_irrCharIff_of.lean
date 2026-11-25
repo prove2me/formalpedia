@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_irrCharIff_of
 -- name    : PI.SerBridgeGLW.irrCharIff_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:43:00.105114+00:00
 -- url     : https://prove2.me/theorems/85d1bc1f-008c-4e54-801b-86cd824adada

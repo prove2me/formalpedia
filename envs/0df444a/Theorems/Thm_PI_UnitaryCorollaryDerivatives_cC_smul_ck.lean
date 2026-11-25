@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_cC_smul_ck
 -- name    : PI.UnitaryCorollaryDerivatives.cC_smul_ck
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:47.115315+00:00
 -- url     : https://prove2.me/theorems/b5318ae9-8db2-4a41-8947-c6862e498082

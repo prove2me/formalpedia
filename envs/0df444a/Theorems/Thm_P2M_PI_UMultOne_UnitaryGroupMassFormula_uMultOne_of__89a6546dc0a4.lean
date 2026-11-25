@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UMultOne_UnitaryGroupMassFormula_uMultOne_of__89a6546dc0a4
 -- name    : P2M_PI_UMultOne_UnitaryGroupMassFormula_uMultOne_of__89a6546dc0a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:58:38.076405+00:00
 -- url     : https://prove2.me/theorems/82faabe1-962b-4070-be3d-7c470fb1ec06

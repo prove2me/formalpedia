@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_SplitIso_exists_alpha
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.SplitIso.exists_alpha
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:46:26.888538+00:00
 -- url     : https://prove2.me/theorems/7c2c005d-dcbe-53e7-90e8-08955a804d10

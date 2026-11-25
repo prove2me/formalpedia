@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_mem_concatW
 -- name    : PI.TOW.mem_concatW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:36.369815+00:00
 -- url     : https://prove2.me/theorems/9a4cea16-ffc3-492e-89f4-00194d983d81

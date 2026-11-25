@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UD_vanish_invertible
 -- name    : PI.UD.vanish_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:45.800347+00:00
 -- url     : https://prove2.me/theorems/389e11c2-6b05-46d7-a67e-bbef39684f84

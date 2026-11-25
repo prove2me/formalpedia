@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelPlace_hypotheses_inhabited_b48b8d7be2c8
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelPlace_hypotheses_inhabited_b48b8d7be2c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:25:10.302202+00:00
 -- url     : https://prove2.me/theorems/00c0b083-4c99-4753-a9cc-8cd26d819947

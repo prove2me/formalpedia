@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_PPA_hG_add_right
 -- name    : PI.ScRefExists.PPA.hG_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:22:55.660015+00:00
 -- url     : https://prove2.me/theorems/34db819b-5421-491a-b350-b4959e70398b

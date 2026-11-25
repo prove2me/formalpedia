@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_EfRankSum_isLocalizedModule_as
 -- name    : PI.UnitaryGroupMassFormula.EfRankSum.isLocalizedModule_as
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:24.930583+00:00
 -- url     : https://prove2.me/theorems/03326217-cce4-4f05-9df2-b972e541265f

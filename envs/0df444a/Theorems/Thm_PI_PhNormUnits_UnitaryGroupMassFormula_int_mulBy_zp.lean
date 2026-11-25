@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_int_mulBy_zp
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.int_mulBy_zp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:35:50.311438+00:00
 -- url     : https://prove2.me/theorems/8b6281ab-84f1-479a-a669-37cb0d9735c3

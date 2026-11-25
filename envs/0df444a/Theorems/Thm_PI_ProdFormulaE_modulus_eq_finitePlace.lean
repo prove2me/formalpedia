@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_modulus_eq_finitePlace
 -- name    : PI.ProdFormulaE.modulus_eq_finitePlace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:18:03.304311+00:00
 -- url     : https://prove2.me/theorems/e88a43cd-70a2-4028-99a3-7916d804aef7

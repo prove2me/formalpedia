@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_sum_sq_pow_le_two
 -- name    : PI.SqfRootsInj.W.sum_sq_pow_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:22.379792+00:00
 -- url     : https://prove2.me/theorems/b4a8500a-8d06-58a3-9da8-0ad6c2b5d100

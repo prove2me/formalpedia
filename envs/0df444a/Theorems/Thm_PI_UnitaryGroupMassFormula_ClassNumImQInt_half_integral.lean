@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ClassNumImQInt_half_integral
 -- name    : PI.UnitaryGroupMassFormula.ClassNumImQInt.half_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:16.764072+00:00
 -- url     : https://prove2.me/theorems/26f33e8b-3c7d-4405-8131-e5316b5e345b

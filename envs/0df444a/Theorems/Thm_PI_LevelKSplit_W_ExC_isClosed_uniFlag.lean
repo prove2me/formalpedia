@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_isClosed_uniFlag
 -- name    : PI.LevelKSplit.W.ExC.isClosed_uniFlag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:32:38.001423+00:00
 -- url     : https://prove2.me/theorems/49f24abe-82e2-484e-a3bf-e4c1a66532ba

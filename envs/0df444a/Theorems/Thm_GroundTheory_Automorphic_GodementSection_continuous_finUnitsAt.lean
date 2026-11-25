@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSection_continuous_finUnitsAt
 -- name    : GroundTheory.Automorphic.GodementSection.continuous_finUnitsAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:55:40.102884+00:00
 -- url     : https://prove2.me/theorems/e87ddfae-904c-5f2d-8f6d-4f9c86dc8b86

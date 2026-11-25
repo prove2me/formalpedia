@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UConjT_conjTranspose_of
 -- name    : PI.UConjT.conjTranspose_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:29:40.548802+00:00
 -- url     : https://prove2.me/theorems/b0a26270-107e-4f33-a599-6024f281d2e7

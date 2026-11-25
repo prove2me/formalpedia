@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_Z_cL
 -- name    : PI.StabPairs.Conv.Z_cL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:54.112358+00:00
 -- url     : https://prove2.me/theorems/1ee14f9b-aaab-5dba-8d04-4bbc19a2d3f3

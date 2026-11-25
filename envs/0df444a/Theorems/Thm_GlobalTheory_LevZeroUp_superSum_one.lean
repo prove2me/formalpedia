@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevZeroUp_superSum_one
 -- name    : GlobalTheory.LevZeroUp.superSum_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:21:18.016232+00:00
 -- url     : https://prove2.me/theorems/a65056bf-b027-4f89-8136-52302664380e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookLower_diagonal_monomial_apply
 -- name    : PI.HookLower.diagonal_monomial_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:06:46.770287+00:00
 -- url     : https://prove2.me/theorems/8b2161fc-12ad-416a-b5b1-55c90a9e7a38

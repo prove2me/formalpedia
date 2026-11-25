@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TauN_nEich_mulVec
 -- name    : PI.PolynomialProperness.TauN.nEich_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:51:52.193169+00:00
 -- url     : https://prove2.me/theorems/78aa56cb-4a21-4e7f-9057-abf53d1cd1a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearLinearRSP_TwoResources_deterministic_retrieval
 -- name    : NearLinearRSP.TwoResources.deterministic_retrieval
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:26:49.423263+00:00
 -- url     : https://prove2.me/theorems/1abef4e0-8a2f-4e87-a1c3-4447a4c886ad

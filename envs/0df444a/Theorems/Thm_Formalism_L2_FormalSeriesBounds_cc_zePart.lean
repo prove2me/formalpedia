@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_cc_zePart
 -- name    : Formalism.L2.FormalSeriesBounds.cc_zePart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:26:08.273097+00:00
 -- url     : https://prove2.me/theorems/4776f1d5-2ae3-492a-bc83-5cf6b45ee59c

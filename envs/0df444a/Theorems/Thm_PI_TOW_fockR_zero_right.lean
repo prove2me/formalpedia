@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_fockR_zero_right
 -- name    : PI.TOW.fockR_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:20.817142+00:00
 -- url     : https://prove2.me/theorems/682fc1c2-adc1-576c-9f71-efe851f5c9a3

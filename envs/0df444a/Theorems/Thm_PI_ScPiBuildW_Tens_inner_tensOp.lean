@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Tens_inner_tensOp
 -- name    : PI.ScPiBuildW.Tens.inner_tensOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:21:57.67403+00:00
 -- url     : https://prove2.me/theorems/5a5b1651-4214-4c46-bdf0-c7017694b660

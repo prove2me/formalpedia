@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_fvec_esI
 -- name    : PI.StabPairsW.fvec_esI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:23.90106+00:00
 -- url     : https://prove2.me/theorems/4fb4dd7f-852a-4ca8-97fb-3b00199c0006

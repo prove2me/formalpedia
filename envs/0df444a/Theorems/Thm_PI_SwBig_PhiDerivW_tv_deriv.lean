@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwBig_PhiDerivW_tv_deriv
 -- name    : PI.SwBig.PhiDerivW.tv_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:27:51.214502+00:00
 -- url     : https://prove2.me/theorems/1d4a2712-0b84-4112-b76a-66330999de31

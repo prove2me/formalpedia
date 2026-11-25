@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_MeasWCore_Memb_hR_mapV
 -- name    : PI.UnitaryGroupMassFormula.MeasWCore.Memb.hR_mapV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:32:51.396819+00:00
 -- url     : https://prove2.me/theorems/cf91eac3-0a48-4b3c-a679-9fd30cc472c2

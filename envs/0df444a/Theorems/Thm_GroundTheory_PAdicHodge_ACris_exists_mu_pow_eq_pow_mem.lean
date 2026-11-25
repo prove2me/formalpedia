@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_exists_mu_pow_eq_pow_mem
 -- name    : GroundTheory.PAdicHodge.ACris.exists_mu_pow_eq_pow_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:12:22.17716+00:00
 -- url     : https://prove2.me/theorems/28517e58-f426-4c1b-8189-69bdbc7d11fa

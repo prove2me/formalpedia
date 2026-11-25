@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TrDualLocW_isIntegral_of_pow_bdd
 -- name    : PI.TrDualLocW.isIntegral_of_pow_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:11.625741+00:00
 -- url     : https://prove2.me/theorems/4c778182-5349-41e2-b6dd-9136d5bd338b

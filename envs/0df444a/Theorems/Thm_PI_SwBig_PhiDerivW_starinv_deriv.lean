@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwBig_PhiDerivW_starinv_deriv
 -- name    : PI.SwBig.PhiDerivW.starinv_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:27:41.241013+00:00
 -- url     : https://prove2.me/theorems/542d0af5-aa81-5069-9e09-cd41be588d65

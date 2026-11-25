@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_combE_symm_zab
 -- name    : PI.TwNormLat.W.combE_symm_zab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:14.959884+00:00
 -- url     : https://prove2.me/theorems/9efc0290-e425-5c9c-9f2d-2b7e283d987b

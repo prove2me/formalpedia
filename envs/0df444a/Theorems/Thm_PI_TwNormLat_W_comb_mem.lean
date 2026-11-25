@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_comb_mem
 -- name    : PI.TwNormLat.W.comb_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:48.554792+00:00
 -- url     : https://prove2.me/theorems/3760b429-d189-42df-9a63-0692f6973357

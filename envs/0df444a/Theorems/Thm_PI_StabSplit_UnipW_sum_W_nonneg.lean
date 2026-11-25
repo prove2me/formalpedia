@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_UnipW_sum_W_nonneg
 -- name    : PI.StabSplit.UnipW.sum_W_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:31:07.596301+00:00
 -- url     : https://prove2.me/theorems/214ee512-1a30-543a-89ef-4fb29a2c4250

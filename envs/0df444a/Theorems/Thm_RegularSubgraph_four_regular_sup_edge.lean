@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegularSubgraph_four_regular_sup_edge
 -- name    : RegularSubgraph.four_regular_sup_edge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:21:34.518979+00:00
 -- url     : https://prove2.me/theorems/c89cd277-7960-54fa-ac1a-37cb8f0107c1

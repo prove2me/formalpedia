@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_sg_qinv
 -- name    : PI.TwistedEisensteinNonvanishing.W.sg_qinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:01.70334+00:00
 -- url     : https://prove2.me/theorems/2febd4ba-7d66-44bb-a8a2-53024cfb285b

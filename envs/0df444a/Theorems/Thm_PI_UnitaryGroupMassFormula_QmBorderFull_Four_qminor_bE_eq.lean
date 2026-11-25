@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderFull_Four_qminor_bE_eq
 -- name    : PI.UnitaryGroupMassFormula.QmBorderFull.Four.qminor_bE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:40:03.699983+00:00
 -- url     : https://prove2.me/theorems/44d43861-f49b-49a5-b6f8-f2c214c999b0

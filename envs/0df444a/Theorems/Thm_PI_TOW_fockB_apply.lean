@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_fockB_apply
 -- name    : PI.TOW.fockB_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:26.584821+00:00
 -- url     : https://prove2.me/theorems/487772e0-2ea5-48a7-b2db-915dd67dee73

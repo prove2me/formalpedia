@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_cayF_off
 -- name    : HcInf.cayF_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:18:17.600752+00:00
 -- url     : https://prove2.me/theorems/7163281d-612b-4cc1-96a0-2e683be253ba

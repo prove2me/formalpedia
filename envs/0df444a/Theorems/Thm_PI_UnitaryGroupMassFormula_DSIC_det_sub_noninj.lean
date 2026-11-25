@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DSIC_det_sub_noninj
 -- name    : PI.UnitaryGroupMassFormula.DSIC.det_sub_noninj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:40:04.628742+00:00
 -- url     : https://prove2.me/theorems/c286d291-5b35-4ffc-9ea6-3364f8a21eb6

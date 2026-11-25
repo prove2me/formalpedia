@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBNum_netSup
 -- name    : PI.UnitaryGroupMassFormula.TBNum.netSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:46.662949+00:00
 -- url     : https://prove2.me/theorems/b8419995-9b3e-4b14-ba17-e8408cf2fc74

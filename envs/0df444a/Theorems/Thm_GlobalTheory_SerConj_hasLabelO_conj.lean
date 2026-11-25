@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SerConj_hasLabelO_conj
 -- name    : GlobalTheory.SerConj.hasLabelO_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:11:03.168155+00:00
 -- url     : https://prove2.me/theorems/71e253be-9cfd-42e9-a04d-d19d95ab50b9

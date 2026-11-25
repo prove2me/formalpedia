@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_UG_linIndep_orth
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.UG.linIndep_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:49:40.570814+00:00
 -- url     : https://prove2.me/theorems/f60bbd9d-ed99-415a-9fa6-64c9b21bec7b

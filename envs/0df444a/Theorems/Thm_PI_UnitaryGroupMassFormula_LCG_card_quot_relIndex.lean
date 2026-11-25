@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_card_quot_relIndex
 -- name    : PI.UnitaryGroupMassFormula.LCG.card_quot_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:39:59.361885+00:00
 -- url     : https://prove2.me/theorems/df970e72-5378-4ef0-bfa1-744c0d9af9b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_MonoW_stepMonoFactor
 -- name    : PI.TOW.MonoW.stepMonoFactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:17.933539+00:00
 -- url     : https://prove2.me/theorems/d5a9d662-de51-404f-80d7-c0acb9605f6c

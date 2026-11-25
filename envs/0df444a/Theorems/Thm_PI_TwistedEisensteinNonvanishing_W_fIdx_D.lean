@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_fIdx_D
 -- name    : PI.TwistedEisensteinNonvanishing.W.fIdx_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:35.933522+00:00
 -- url     : https://prove2.me/theorems/5d2d35af-0a26-5d9c-8d64-261f3e8c6cd2

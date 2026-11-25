@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_pow_eq_part_pow_of_dvd
 -- name    : PI.SqfRootsInj.W.pow_eq_part_pow_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:41:21.302694+00:00
 -- url     : https://prove2.me/theorems/8f02476a-c135-4392-b840-a333d32d46c8

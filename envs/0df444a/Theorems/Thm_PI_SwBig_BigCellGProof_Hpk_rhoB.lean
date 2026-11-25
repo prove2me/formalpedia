@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwBig_BigCellGProof_Hpk_rhoB
 -- name    : PI.SwBig.BigCellGProof.Hpk_rhoB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:00.762731+00:00
 -- url     : https://prove2.me/theorems/200c5c44-05cc-4740-b03c-f7b1954b11b7

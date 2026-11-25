@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CdHaarScale_Main_card_true
 -- name    : PI.UnitaryGroupMassFormula.CdHaarScale.Main.card_true
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:33.736806+00:00
 -- url     : https://prove2.me/theorems/d94d723f-ad8c-4100-8100-af67e42e3c42

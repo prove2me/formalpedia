@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_relIdx_ne_zero_of_cover
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.relIdx_ne_zero_of_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:41:10.087351+00:00
 -- url     : https://prove2.me/theorems/bce36f09-db1f-43fc-8be8-939522b4f63e

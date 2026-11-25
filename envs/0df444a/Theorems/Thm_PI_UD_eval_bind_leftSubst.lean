@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UD_eval_bind_leftSubst
 -- name    : PI.UD.eval_bind_leftSubst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:27.415829+00:00
 -- url     : https://prove2.me/theorems/256f1faa-8668-4c76-b1d3-b35e7976327a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwSandwichOfWork_hpk_sq
 -- name    : PI.SwSandwichOfWork.hpk_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:42.493186+00:00
 -- url     : https://prove2.me/theorems/045356b2-9c70-515c-8916-a411184f80d1

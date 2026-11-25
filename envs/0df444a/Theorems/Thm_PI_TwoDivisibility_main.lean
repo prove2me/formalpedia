@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwoDivisibility_main
 -- name    : PI.TwoDivisibility.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:29:54.622802+00:00
 -- url     : https://prove2.me/theorems/ebf09797-21f8-4945-a668-8767aa904bea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_ideal_subset_of_card_le
 -- name    : F6ConvexWindow.ideal_subset_of_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:31:06.677767+00:00
 -- url     : https://prove2.me/theorems/003f3ee5-cc6d-5c7f-9c84-e909a646d6d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FglTriFactor_Wk_abel__b380fdd8500c
 -- name    : P2M_PI_FglTriFactor_Wk_abel__b380fdd8500c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:56:48.732358+00:00
 -- url     : https://prove2.me/theorems/5c213595-f335-4cc2-af34-ed1dbf664398

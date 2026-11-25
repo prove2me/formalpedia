@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_piW_unitary
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.piW_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:48:43.961636+00:00
 -- url     : https://prove2.me/theorems/3ced86a5-a14f-4b57-8c91-13a9782c89d9

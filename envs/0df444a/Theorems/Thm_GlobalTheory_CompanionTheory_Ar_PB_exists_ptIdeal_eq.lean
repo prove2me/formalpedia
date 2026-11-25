@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_exists_ptIdeal_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.exists_ptIdeal_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:37:52.765523+00:00
 -- url     : https://prove2.me/theorems/15a4069a-e8cd-55ea-9d3a-0289911b397b

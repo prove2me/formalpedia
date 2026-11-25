@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrahamPollakTheorem_graham_pollak
 -- name    : GrahamPollakTheorem.graham_pollak
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:30:01.864593+00:00
 -- url     : https://prove2.me/theorems/2d99626d-af4f-4a09-9ad9-9b5c67c4fba6

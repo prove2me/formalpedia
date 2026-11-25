@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TailWork_log_four_lt
 -- name    : PI.TailWork.log_four_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:39.01592+00:00
 -- url     : https://prove2.me/theorems/a6c3c981-c59e-427a-a416-f0f246e29adf

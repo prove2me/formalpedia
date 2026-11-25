@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_hpk_det_ne
 -- name    : PI.StabPairsW.hpk_det_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:28:34.296382+00:00
 -- url     : https://prove2.me/theorems/175eb96a-c636-4675-83d2-1ea37fe8ed4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_mem_Uperp_iff
 -- name    : PI.StabPairsW.mem_Uperp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:28.706106+00:00
 -- url     : https://prove2.me/theorems/744abafe-b27b-4d97-ab0c-0596a2a4ef97

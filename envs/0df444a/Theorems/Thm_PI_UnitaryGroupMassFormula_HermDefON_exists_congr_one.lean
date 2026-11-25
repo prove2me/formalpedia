@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_HermDefON_exists_congr_one
 -- name    : PI.UnitaryGroupMassFormula.HermDefON.exists_congr_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:56.119576+00:00
 -- url     : https://prove2.me/theorems/4ee874cc-2666-497f-bd23-b6ff68355de0

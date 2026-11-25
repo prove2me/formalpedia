@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BetaLUniq_EigA_mem_O_of_stable
 -- name    : PI.UnitaryGroupMassFormula.BetaLUniq.EigA.mem_O_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:16.068373+00:00
 -- url     : https://prove2.me/theorems/ef83cdab-98a5-47f8-bea2-c99861e95df0

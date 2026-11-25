@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_col_of_mul
 -- name    : PI.StabPairsW.col_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:27:57.882794+00:00
 -- url     : https://prove2.me/theorems/80fe0b35-45bf-47db-bbf8-564c8c706dd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UH_mul
 -- name    : PI.UH_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:44.202161+00:00
 -- url     : https://prove2.me/theorems/67e57bba-8fde-4d40-af33-6b5b35b007f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_Proj_prj_mul_of_L
 -- name    : PI.StabSplit.Proj.prj_mul_of_L
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:36:57.276816+00:00
 -- url     : https://prove2.me/theorems/10f07eeb-f764-503e-a7e7-107ca43daf15

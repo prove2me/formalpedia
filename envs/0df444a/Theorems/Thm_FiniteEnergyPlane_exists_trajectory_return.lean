@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteEnergyPlane_exists_trajectory_return
 -- name    : FiniteEnergyPlane.exists_trajectory_return
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-11-04T15:48:54.985114+00:00
 -- url     : https://prove2.me/theorems/fda6eff2-16bb-4eef-8d62-fcdfee8068ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_InvTopW_lat_data
 -- name    : PI.InvTopW.lat_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:08:10.861567+00:00
 -- url     : https://prove2.me/theorems/e384750c-7388-5317-b496-25c73595f9af

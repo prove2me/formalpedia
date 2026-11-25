@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_of_mem_unitsModCoset
 -- name    : GroundTheory.LocalField.eq_of_mem_unitsModCoset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:20:19.183067+00:00
 -- url     : https://prove2.me/theorems/9d99d39b-a010-5b0d-a025-827bb5b18a80

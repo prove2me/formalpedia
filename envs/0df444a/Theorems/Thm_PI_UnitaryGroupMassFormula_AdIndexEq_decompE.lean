@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_decompE
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.decompE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:05.267836+00:00
 -- url     : https://prove2.me/theorems/266bf73d-059a-448a-bae2-9538615c8405

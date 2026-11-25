@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_test_function_pairing_integral
 -- name    : PI.QnHermHaar.test_function_pairing_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:40:05.868132+00:00
 -- url     : https://prove2.me/theorems/8ff33620-d21e-479f-8002-046877b12128

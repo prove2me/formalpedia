@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwChrOne_Pf_Mb_one
 -- name    : PI.TwChrOne.Pf.Mb_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:08.19902+00:00
 -- url     : https://prove2.me/theorems/158ce565-014f-471f-8481-91ce88d980a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_MeasAll_maximal_compact_measurable
 -- name    : PI.LevelKSplit.W.MeasAll.maximal_compact_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:34:48.989204+00:00
 -- url     : https://prove2.me/theorems/9cf3ae62-1c67-45a7-9955-5309775bcf4b

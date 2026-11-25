@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_mem_Gf_iff
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.mem_Gf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:06.206385+00:00
 -- url     : https://prove2.me/theorems/27b3b1cf-2b22-5cbf-a150-91b4da126ded

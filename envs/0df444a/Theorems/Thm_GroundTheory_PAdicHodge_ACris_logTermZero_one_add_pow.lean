@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_logTermZero_one_add_pow
 -- name    : GroundTheory.PAdicHodge.ACris.logTermZero_one_add_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:20:29.264615+00:00
 -- url     : https://prove2.me/theorems/c8ee21df-5e10-43f1-957e-5f8ef5b4afde

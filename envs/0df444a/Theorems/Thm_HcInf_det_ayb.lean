@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_det_ayb
 -- name    : HcInf.det_ayb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:20:18.410819+00:00
 -- url     : https://prove2.me/theorems/bd59ef42-5695-51e5-a2d3-c8857f14c524

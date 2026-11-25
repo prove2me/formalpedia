@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_IndexUBound_prod_Ico_pow
 -- name    : PI.UnitaryGroupMassFormula.IndexUBound.prod_Ico_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:39:34.840433+00:00
 -- url     : https://prove2.me/theorems/8bd83b96-44c3-47b7-ac3d-e602dd691021

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_cB_lamnorm
 -- name    : PI.UnitaryCorollaryDerivatives.cB_lamnorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:49.653987+00:00
 -- url     : https://prove2.me/theorems/9bb39eac-82be-550d-9e40-d586f4977ff2

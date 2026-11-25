@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BetaLUniq_EigA_mem_O_of_local
 -- name    : PI.UnitaryGroupMassFormula.BetaLUniq.EigA.mem_O_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:07.183801+00:00
 -- url     : https://prove2.me/theorems/94309057-04be-4fdb-98d9-4b01ec23611a

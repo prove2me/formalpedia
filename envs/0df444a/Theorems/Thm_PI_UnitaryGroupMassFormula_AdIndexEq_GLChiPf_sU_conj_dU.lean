@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_GLChiPf_sU_conj_dU
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.GLChiPf.sU_conj_dU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:01.582777+00:00
 -- url     : https://prove2.me/theorems/62ea11b2-8db2-5d59-8712-f80a6428242d

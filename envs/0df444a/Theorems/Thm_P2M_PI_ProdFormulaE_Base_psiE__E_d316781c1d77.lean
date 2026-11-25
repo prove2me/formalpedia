@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ProdFormulaE_Base_psiE__E_d316781c1d77
 -- name    : P2M_PI_ProdFormulaE_Base_psiE__E_d316781c1d77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:57:11.050199+00:00
 -- url     : https://prove2.me/theorems/349e8f0c-0581-4710-bd3e-c52a23db9186

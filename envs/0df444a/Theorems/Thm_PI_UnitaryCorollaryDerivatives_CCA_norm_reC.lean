@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_CCA_norm_reC
 -- name    : PI.UnitaryCorollaryDerivatives.CCA.norm_reC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:53.846003+00:00
 -- url     : https://prove2.me/theorems/e2dc3166-5c64-525f-82ae-d7c6a8e21fa0

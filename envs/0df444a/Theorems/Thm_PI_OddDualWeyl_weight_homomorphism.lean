@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_weight_homomorphism
 -- name    : PI.OddDualWeyl.weight_homomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:04.796823+00:00
 -- url     : https://prove2.me/theorems/ff2e9666-91b9-4e85-9646-4ad7593b6de9

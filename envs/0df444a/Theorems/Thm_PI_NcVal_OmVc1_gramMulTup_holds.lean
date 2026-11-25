@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NcVal_OmVc1_gramMulTup_holds
 -- name    : PI.NcVal.OmVc1.gramMulTup_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:10:18.294645+00:00
 -- url     : https://prove2.me/theorems/461a0754-4470-58f2-8783-a110af44aa42

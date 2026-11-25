@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ASSmall_solPerf_spec
 -- name    : PI.UnitaryGroupMassFormula.ASSmall.solPerf_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:37:54.174621+00:00
 -- url     : https://prove2.me/theorems/f48f1c22-051d-4967-9e78-20ce4e6f0220

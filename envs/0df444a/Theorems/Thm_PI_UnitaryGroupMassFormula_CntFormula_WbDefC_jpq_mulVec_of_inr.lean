@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_WbDefC_jpq_mulVec_of_inr
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.WbDefC.jpq_mulVec_of_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:31:53.709936+00:00
 -- url     : https://prove2.me/theorems/e41e9c05-745f-4f57-8514-ff488dab5cc4

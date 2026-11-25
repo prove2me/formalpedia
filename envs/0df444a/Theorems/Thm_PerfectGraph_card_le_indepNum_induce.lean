@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerfectGraph_card_le_indepNum_induce
 -- name    : PerfectGraph.card_le_indepNum_induce
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:28:05.186271+00:00
 -- url     : https://prove2.me/theorems/0b6fc1a6-08df-4490-9182-a43740603183

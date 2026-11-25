@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassFin_herm_add_right
 -- name    : PI.UnitaryGroupMassFormula.UJClassFin.herm_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:40:28.017872+00:00
 -- url     : https://prove2.me/theorems/ddc3d81b-3d08-56d1-945a-52000eb350b6

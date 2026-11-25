@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitKronW_charpoly_dvd
 -- name    : PI.UnitKronW.charpoly_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:24.467486+00:00
 -- url     : https://prove2.me/theorems/f4220cec-859f-50b1-8ca6-5a7044161a3e

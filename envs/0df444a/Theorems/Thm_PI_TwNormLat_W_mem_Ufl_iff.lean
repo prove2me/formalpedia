@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_mem_Ufl_iff
 -- name    : PI.TwNormLat.W.mem_Ufl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:29:20.783965+00:00
 -- url     : https://prove2.me/theorems/fbab812a-b913-44f7-9cbf-8b6e92448b80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_psiUpperBound_holds
 -- name    : PI.PC.psiUpperBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:36:30.39735+00:00
 -- url     : https://prove2.me/theorems/9a3d355e-4b41-4a9a-966e-f18773224b1a

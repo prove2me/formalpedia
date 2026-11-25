@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnimodularOrthogonalQuadratic_Loc_det_blk
 -- name    : PI.UnimodularOrthogonalQuadratic.Loc.det_blk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:31:03.012804+00:00
 -- url     : https://prove2.me/theorems/fedc2ccf-2fd5-4b78-a7b8-b3afcba9a174

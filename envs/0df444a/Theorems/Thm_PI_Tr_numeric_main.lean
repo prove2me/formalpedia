@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Tr_numeric_main
 -- name    : PI.Tr.numeric_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:29.258724+00:00
 -- url     : https://prove2.me/theorems/2795638b-b543-4646-b9db-591de50b91d2

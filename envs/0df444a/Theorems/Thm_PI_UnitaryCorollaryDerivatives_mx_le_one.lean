@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_mx_le_one
 -- name    : PI.UnitaryCorollaryDerivatives.mx_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:39:37.459633+00:00
 -- url     : https://prove2.me/theorems/e84de577-a73e-5074-9db4-285027f8ef33

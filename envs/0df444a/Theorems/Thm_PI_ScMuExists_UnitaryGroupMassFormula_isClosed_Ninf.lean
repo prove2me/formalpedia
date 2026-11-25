@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_isClosed_Ninf
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.isClosed_Ninf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:13:37.762807+00:00
 -- url     : https://prove2.me/theorems/956c15e0-86fb-4491-a707-69e3fae1860f

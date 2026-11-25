@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderFull_bS_castSucc
 -- name    : PI.UnitaryGroupMassFormula.QmBorderFull.bS_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:41:13.358594+00:00
 -- url     : https://prove2.me/theorems/cb722d75-06ed-4294-a414-bd60e3fccec2

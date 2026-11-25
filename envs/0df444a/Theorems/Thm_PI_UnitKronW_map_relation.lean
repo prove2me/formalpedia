@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitKronW_map_relation
 -- name    : PI.UnitKronW.map_relation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:30:22.558748+00:00
 -- url     : https://prove2.me/theorems/90a4a47f-cb3b-42e8-a85d-985a7d535d9e

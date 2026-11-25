@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBNum_schwarzBall
 -- name    : PI.UnitaryGroupMassFormula.TBNum.schwarzBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:39:48.608661+00:00
 -- url     : https://prove2.me/theorems/b1122c23-a421-5be2-9a99-78423e49c2a5

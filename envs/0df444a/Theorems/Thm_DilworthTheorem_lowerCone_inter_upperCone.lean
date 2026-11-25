@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_lowerCone_inter_upperCone
 -- name    : DilworthTheorem.lowerCone_inter_upperCone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:54:46.244124+00:00
 -- url     : https://prove2.me/theorems/9b8c7017-b1bc-4478-b0b3-63bd35360fbb

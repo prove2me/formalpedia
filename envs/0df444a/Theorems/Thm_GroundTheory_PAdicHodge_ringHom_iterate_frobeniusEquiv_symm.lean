@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ringHom_iterate_frobeniusEquiv_symm
 -- name    : GroundTheory.PAdicHodge.ringHom_iterate_frobeniusEquiv_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:10:35.473411+00:00
 -- url     : https://prove2.me/theorems/a3aad273-0791-451b-9407-eb11de7dc971

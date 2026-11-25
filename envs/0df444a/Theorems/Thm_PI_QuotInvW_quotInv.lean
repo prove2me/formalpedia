@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotInvW_quotInv
 -- name    : PI.QuotInvW.quotInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:18:27.488063+00:00
 -- url     : https://prove2.me/theorems/0449291c-a985-4bfd-9bab-fd85997f0dee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhDualGram_be_mulBy_zero
 -- name    : PI.UnitaryGroupMassFormula.PhDualGram.be_mulBy_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:55:36.642035+00:00
 -- url     : https://prove2.me/theorems/9c23f91a-4092-546d-93d0-acd1b653565f

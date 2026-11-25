@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_rho_sum
 -- name    : PI.UnitaryGroupMassFormula.QmMove.rho_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:48.165059+00:00
 -- url     : https://prove2.me/theorems/9d7f7904-5332-4d97-b363-28e3ef74a87b

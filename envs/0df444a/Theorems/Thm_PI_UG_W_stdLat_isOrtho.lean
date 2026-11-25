@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UG_W_stdLat_isOrtho
 -- name    : PI.UG.W.stdLat_isOrtho
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:30:14.618204+00:00
 -- url     : https://prove2.me/theorems/308f2ace-80b6-4fdd-b6f1-bb076e3dd236

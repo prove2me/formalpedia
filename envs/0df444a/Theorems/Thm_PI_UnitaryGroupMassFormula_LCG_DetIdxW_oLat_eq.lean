@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DetIdxW_oLat_eq
 -- name    : PI.UnitaryGroupMassFormula.LCG.DetIdxW.oLat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:46:05.754032+00:00
 -- url     : https://prove2.me/theorems/ac2b1717-de76-53c5-b196-0ec5773bac84

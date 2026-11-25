@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_preimage_subset_image
 -- name    : HcInf.preimage_subset_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:16:36.386373+00:00
 -- url     : https://prove2.me/theorems/e413e674-f407-5765-ac05-65415ca82ab2

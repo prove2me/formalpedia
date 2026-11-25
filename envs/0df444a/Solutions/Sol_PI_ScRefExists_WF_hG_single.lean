@@ -1,0 +1,41 @@
+-- Prove2me | solution 1 for PI.ScRefExists.WF.hG_single
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-1
+-- created : 2026-11-25T10:37:55.005494+00:00
+-- url     : https://prove2.me/submissions/87b2bb79-91b5-486a-9c59-f5f16eaed2ce
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeReferenceFrame_PPAssemble
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeReferenceFrame_ThetaA
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_LatticeReferenceFrame_StarMemAp
+import Theorems.Thm_PI_ScRefExists_WF_hG_def
+import Theorems.Thm_Formalism_HC_Frame_iotaInv_iota
+import Theorems.Thm_Formalism_HC_Frame_iota_iotaInv
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] Formalism.HC.Frame.iotaInv_iota
+attribute [local simp] Formalism.HC.Frame.iota_iotaInv
+
+
+
+set_option autoImplicit false
+noncomputable section
+open NumberField Formalism.MainNotions.S
+open PI.ScRefExists.Sk
+open Matrix
+open PI PI.ScRefExists PI.ScRefExists.WF
+variable (I : Formalism.MainNotions.S.AutInst)
+namespace PI.ScRefExists.WF
+theorem _root_.solution (i : Fin I.n) (v : Fin I.n → I.E) :
+    hG I (Pi.single i 1) v = (I.J *ᵥ v) i := by
+  rw [hG_def, Finset.sum_eq_single i]
+  · simp [Matrix.mulVec, dotProduct]
+  · intro b _ hb
+    simp [Pi.single_apply, hb]
+  · simp
+end PI.ScRefExists.WF

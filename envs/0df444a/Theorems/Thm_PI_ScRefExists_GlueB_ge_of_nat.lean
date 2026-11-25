@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GlueB_ge_of_nat
 -- name    : PI.ScRefExists.GlueB.ge_of_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:22:30.834668+00:00
 -- url     : https://prove2.me/theorems/4e2649a2-3b45-4fe7-a8a6-51d020ee86dc

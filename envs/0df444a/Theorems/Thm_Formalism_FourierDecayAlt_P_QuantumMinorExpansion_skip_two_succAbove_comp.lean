@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_QuantumMinorExpansion_skip_two_succAbove_comp
 -- name    : Formalism.FourierDecayAlt.P.QuantumMinorExpansion.skip_two_succAbove_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:10:48.732412+00:00
 -- url     : https://prove2.me/theorems/cfb7e818-c74f-4459-aed1-2cea78fa16ce

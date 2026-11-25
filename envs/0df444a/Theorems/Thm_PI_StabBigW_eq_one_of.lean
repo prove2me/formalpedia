@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabBigW_eq_one_of
 -- name    : PI.StabBigW.eq_one_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:27:21.363852+00:00
 -- url     : https://prove2.me/theorems/8a052b7c-f2c1-4f82-bf76-e37242bef8fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwoDivisibility_two_dvd_iff
 -- name    : PI.TwoDivisibility.two_dvd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:29:33.801321+00:00
 -- url     : https://prove2.me/theorems/250d0a81-3d69-40ea-a767-547d9a02a3c1

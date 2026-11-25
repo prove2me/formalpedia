@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteerableE2CNN_pointwise_nonlinearity_quotient_equivariant
 -- name    : SteerableE2CNN.pointwise_nonlinearity_quotient_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:40:13.999565+00:00
 -- url     : https://prove2.me/theorems/cf38fb93-359a-4dee-b302-a5a427663f6c

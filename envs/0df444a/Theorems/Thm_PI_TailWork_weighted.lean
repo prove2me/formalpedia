@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TailWork_weighted
 -- name    : PI.TailWork.weighted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:57.083306+00:00
 -- url     : https://prove2.me/theorems/53380f70-3733-563d-9251-5ed93d189a15

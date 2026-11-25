@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_UG_isSymm_smul
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.UG.isSymm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:42:56.590935+00:00
 -- url     : https://prove2.me/theorems/efa2a9e1-d4ff-5355-b4cf-0de39d5d1cba

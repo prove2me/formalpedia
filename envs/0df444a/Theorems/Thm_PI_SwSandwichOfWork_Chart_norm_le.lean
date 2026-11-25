@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwSandwichOfWork_Chart_norm_le
 -- name    : PI.SwSandwichOfWork.Chart_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:34:31.561139+00:00
 -- url     : https://prove2.me/theorems/88de9f2a-dc5c-5d08-8f18-58d670771595

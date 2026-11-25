@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_untiltPreTiltAut_eq_id
 -- name    : GroundTheory.PAdicHodge.untiltPreTiltAut_eq_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:08:06.196663+00:00
 -- url     : https://prove2.me/theorems/a0cb08f2-cd0a-5acb-bebe-a577bd897836

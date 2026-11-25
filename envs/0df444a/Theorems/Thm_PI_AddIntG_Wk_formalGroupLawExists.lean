@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_formalGroupLawExists
 -- name    : PI.AddIntG.Wk.formalGroupLawExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:22:38.108899+00:00
 -- url     : https://prove2.me/theorems/4c3cca8f-f4c6-5ecb-af7d-83e5365560f3

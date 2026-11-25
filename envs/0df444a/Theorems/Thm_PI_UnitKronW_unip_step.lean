@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitKronW_unip_step
 -- name    : PI.UnitKronW.unip_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:30:37.589815+00:00
 -- url     : https://prove2.me/theorems/0703ed22-ca4a-42b2-bf2d-6933f586ef2b

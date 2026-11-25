@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_inst_Kset_star
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.inst_Kset_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:00:36.544954+00:00
 -- url     : https://prove2.me/theorems/48244ef4-16a8-4de4-85b0-8b1a66305024

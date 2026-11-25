@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhGram_ExpandW_rhsBy_succ
 -- name    : PI.UnitaryGroupMassFormula.PhGram.ExpandW.rhsBy_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:36.625435+00:00
 -- url     : https://prove2.me/theorems/c90e3805-e736-50e3-947e-6102ce37359a

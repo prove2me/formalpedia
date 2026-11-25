@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_inv_conj_single
 -- name    : PI.QnRT.inv_conj_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:09:16.36678+00:00
 -- url     : https://prove2.me/theorems/9f891626-4739-401e-92df-6a5d7e796007

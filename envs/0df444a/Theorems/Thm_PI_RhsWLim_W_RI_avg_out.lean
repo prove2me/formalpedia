@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_avg_out
 -- name    : PI.RhsWLim.W.RI.avg_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:59:18.349701+00:00
 -- url     : https://prove2.me/theorems/db65c4d3-7588-4182-9dc3-5c19c9530f8e

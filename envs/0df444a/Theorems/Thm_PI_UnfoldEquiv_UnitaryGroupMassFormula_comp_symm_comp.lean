@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnfoldEquiv_UnitaryGroupMassFormula_comp_symm_comp
 -- name    : PI.UnfoldEquiv.UnitaryGroupMassFormula.comp_symm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:31:19.737726+00:00
 -- url     : https://prove2.me/theorems/5c1acdfb-0cf5-5fe5-b0b3-064c6de008bf

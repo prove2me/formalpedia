@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TayInvPow_sum_multinomial_sub
 -- name    : PI.UnitaryGroupMassFormula.TayInvPow.sum_multinomial_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:17.426521+00:00
 -- url     : https://prove2.me/theorems/f2353f18-0c9e-4eb2-aefc-8439988ea0a0

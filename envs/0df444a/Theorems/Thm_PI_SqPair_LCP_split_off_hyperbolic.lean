@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LCP_split_off_hyperbolic
 -- name    : PI.SqPair.LCP.split_off_hyperbolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:31:28.33928+00:00
 -- url     : https://prove2.me/theorems/b27a4c0c-5cce-48c3-b6b7-5cfc97883d5c

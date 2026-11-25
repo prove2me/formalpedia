@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearLinearRSP_TwoResources_potential_detects_violation
 -- name    : NearLinearRSP.TwoResources.potential_detects_violation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:25:50.032973+00:00
 -- url     : https://prove2.me/theorems/5797a052-8474-467f-b721-60758447787a

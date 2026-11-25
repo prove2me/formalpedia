@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairs_Conv_ut_conj_fix
 -- name    : PI.StabPairs.Conv.ut_conj_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:10.359874+00:00
 -- url     : https://prove2.me/theorems/41d7c15c-46b9-44e1-9dc9-1990b30f008c

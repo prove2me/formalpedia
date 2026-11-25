@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPsiExists_UnitaryGroupMassFormula_int_of_inclE_mem
 -- name    : PI.ScPsiExists.UnitaryGroupMassFormula.int_of_inclE_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:22:04.116547+00:00
 -- url     : https://prove2.me/theorems/4672feab-c64d-5c14-8bbe-9b6353a6abfa

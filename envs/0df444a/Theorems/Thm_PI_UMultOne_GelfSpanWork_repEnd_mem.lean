@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UMultOne_GelfSpanWork_repEnd_mem
 -- name    : PI.UMultOne.GelfSpanWork.repEnd_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:28.873223+00:00
 -- url     : https://prove2.me/theorems/1a6906c7-0213-41fe-aadd-eeb0baef41b6

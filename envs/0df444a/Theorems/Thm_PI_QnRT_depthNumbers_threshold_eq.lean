@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_depthNumbers_threshold_eq
 -- name    : PI.QnRT.depthNumbers_threshold_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:40:19.442863+00:00
 -- url     : https://prove2.me/theorems/98937bb5-a0c1-410c-9524-ca4d50bc877a

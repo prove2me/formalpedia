@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Tr_mem_dualLat
 -- name    : PI.Tr.mem_dualLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:24.422555+00:00
 -- url     : https://prove2.me/theorems/e2fcb626-e1ed-403f-94e3-35be7497b81f

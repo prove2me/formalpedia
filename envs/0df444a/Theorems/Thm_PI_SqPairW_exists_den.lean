@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairW_exists_den
 -- name    : PI.SqPairW.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:25:26.741162+00:00
 -- url     : https://prove2.me/theorems/0be3d1b3-5c02-52d9-8c11-64f6351e1b5c

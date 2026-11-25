@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_symV_comm
 -- name    : PI.UnitaryGroupMassFormula.QmMove.symV_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:14.275995+00:00
 -- url     : https://prove2.me/theorems/bd2f5a3d-0581-4c6e-b772-1e4ff98cc456

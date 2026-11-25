@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_TH_comap_cj
 -- name    : PI.ScRefExists.TH.comap_cj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:11.380114+00:00
 -- url     : https://prove2.me/theorems/a3c13bdc-1618-40d2-a5cc-317ae6e7d9a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_WbDefC_cT_eq_conjTranspose
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.WbDefC.cT_eq_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:31:58.674953+00:00
 -- url     : https://prove2.me/theorems/79460d46-62ec-4750-b7a9-cd273f8928b9

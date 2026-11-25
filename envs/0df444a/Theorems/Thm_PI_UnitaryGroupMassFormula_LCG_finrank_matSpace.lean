@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_finrank_matSpace
 -- name    : PI.UnitaryGroupMassFormula.LCG.finrank_matSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:39:55.325796+00:00
 -- url     : https://prove2.me/theorems/4d92df85-ee04-4829-acf5-fc4f3321a69c

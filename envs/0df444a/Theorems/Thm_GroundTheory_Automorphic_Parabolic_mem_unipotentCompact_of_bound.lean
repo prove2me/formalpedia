@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_mem_unipotentCompact_of_bound
 -- name    : GroundTheory.Automorphic.Parabolic.mem_unipotentCompact_of_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:07:18.980822+00:00
 -- url     : https://prove2.me/theorems/6dcbc80f-c410-46f0-ab5d-57d2014ad791

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_RLRS_IsRegularLocalRing_isWeaklyRegular_cons_of_quotient
 -- name    : PI.UnitaryGroupMassFormula.RLRS.IsRegularLocalRing.isWeaklyRegular_cons_of_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:32:42.10995+00:00
 -- url     : https://prove2.me/theorems/05fc3e6a-b5ec-52df-86cd-18bd0cef12c3

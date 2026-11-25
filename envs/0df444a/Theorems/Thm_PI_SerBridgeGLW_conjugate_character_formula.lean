@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_conjugate_character_formula
 -- name    : PI.SerBridgeGLW.conjugate_character_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:43:12.29287+00:00
 -- url     : https://prove2.me/theorems/fec16d0d-5bae-4f22-b433-13b6daa87e50

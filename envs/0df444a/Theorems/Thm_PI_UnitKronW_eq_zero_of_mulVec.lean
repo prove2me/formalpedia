@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitKronW_eq_zero_of_mulVec
 -- name    : PI.UnitKronW.eq_zero_of_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:39.798511+00:00
 -- url     : https://prove2.me/theorems/2fe0b55c-4139-4569-833b-785c5f6bc2a0

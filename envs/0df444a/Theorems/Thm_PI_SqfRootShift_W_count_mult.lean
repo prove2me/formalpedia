@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootShift_W_count_mult
 -- name    : PI.SqfRootShift.W.count_mult
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:12.208489+00:00
 -- url     : https://prove2.me/theorems/ed9fbf22-3a48-4a5c-b652-2876ff7cb9df

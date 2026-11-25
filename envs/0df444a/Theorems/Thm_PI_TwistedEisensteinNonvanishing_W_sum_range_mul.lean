@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_sum_range_mul
 -- name    : PI.TwistedEisensteinNonvanishing.W.sum_range_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:29:04.738072+00:00
 -- url     : https://prove2.me/theorems/cd8a964b-5e20-533a-b0ab-e9c0ee5bd45a

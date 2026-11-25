@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_X1_eq
 -- name    : PI.QnRT.X1_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:40:30.86409+00:00
 -- url     : https://prove2.me/theorems/f762ea39-8c86-4d81-9678-d4aec259d2b6

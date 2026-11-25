@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_SplitIso_sigT_tmul_one
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.SplitIso.sigT_tmul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:46:34.220931+00:00
 -- url     : https://prove2.me/theorems/c18ec148-e1fa-5495-9861-4136c94af210

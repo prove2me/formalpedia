@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_xxw_inX_inj
 -- name    : PI.TwistedEisensteinNonvanishing.W.xxw_inX_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:48.046267+00:00
 -- url     : https://prove2.me/theorems/36656325-0c8c-4039-a48c-d2ba8788b278

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabBigW_g_mul_out
 -- name    : PI.StabBigW.g_mul_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:20.015147+00:00
 -- url     : https://prove2.me/theorems/da63bb37-7dc1-46b5-ba16-34550a90f144

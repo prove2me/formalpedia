@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwoDivisibility_zmod_pick
 -- name    : PI.TwoDivisibility.zmod_pick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:29:33.803399+00:00
 -- url     : https://prove2.me/theorems/4f9d6256-1419-5d1b-b2fa-4431f9cf93b7

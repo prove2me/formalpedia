@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G1_locF_map_subtype
 -- name    : Formalism.L2.SG.Pf.G1.locF_map_subtype
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:26:10.973514+00:00
 -- url     : https://prove2.me/theorems/3d2e129f-1262-5121-aa9d-f1dc0b72a599

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_divAt_sum
 -- name    : PI.SqPairLocal.divAt_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:31:47.990246+00:00
 -- url     : https://prove2.me/theorems/dd20e24b-97ef-4193-82e0-0798885b927d

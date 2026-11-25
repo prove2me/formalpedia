@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_SplitIso_sigT_algebraMap
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.SplitIso.sigT_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:38:18.160467+00:00
 -- url     : https://prove2.me/theorems/d72f58be-c17c-4c55-9ed8-41ced9cf7713

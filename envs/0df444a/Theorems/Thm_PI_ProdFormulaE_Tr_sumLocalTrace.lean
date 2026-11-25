@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Tr_sumLocalTrace
 -- name    : PI.ProdFormulaE.Tr.sumLocalTrace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:37:24.954127+00:00
 -- url     : https://prove2.me/theorems/228debe1-6c7a-4dc6-a79b-ba7933b773dd

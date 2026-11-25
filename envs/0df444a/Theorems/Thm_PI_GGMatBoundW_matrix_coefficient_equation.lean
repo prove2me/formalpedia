@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_matrix_coefficient_equation
 -- name    : PI.GGMatBoundW.matrix_coefficient_equation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:31:20.786547+00:00
 -- url     : https://prove2.me/theorems/ee73178f-cdb2-4f27-ba74-7660501f01d1

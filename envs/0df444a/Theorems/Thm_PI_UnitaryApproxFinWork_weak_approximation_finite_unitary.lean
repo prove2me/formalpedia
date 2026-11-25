@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_weak_approximation_finite_unitary
 -- name    : PI.UnitaryApproxFinWork.weak_approximation_finite_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:31:49.754163+00:00
 -- url     : https://prove2.me/theorems/e47e9182-1c30-4b43-b0fa-eb7f141aa1da

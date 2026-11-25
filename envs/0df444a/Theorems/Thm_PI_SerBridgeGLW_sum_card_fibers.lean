@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_sum_card_fibers
 -- name    : PI.SerBridgeGLW.sum_card_fibers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:01:10.769175+00:00
 -- url     : https://prove2.me/theorems/b6b3bc3a-4054-4ffd-a9a2-643e563c486f

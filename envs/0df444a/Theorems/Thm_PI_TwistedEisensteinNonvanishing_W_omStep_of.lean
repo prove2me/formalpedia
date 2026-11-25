@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_omStep_of
 -- name    : PI.TwistedEisensteinNonvanishing.W.omStep_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:30:24.818263+00:00
 -- url     : https://prove2.me/theorems/835e6ee5-a934-482b-870a-67ed3fec15a7

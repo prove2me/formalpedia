@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitarySwap_inv_mem_doubleCoset_and_comm
 -- name    : GlobalTheory.UnitarySwap.inv_mem_doubleCoset_and_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:19:21.278905+00:00
 -- url     : https://prove2.me/theorems/6eb9b6e4-e272-41a0-9bd0-ee7652077bf0

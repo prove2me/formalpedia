@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_continuousOn_cayF
 -- name    : HcInf.continuousOn_cayF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:10:39.698085+00:00
 -- url     : https://prove2.me/theorems/a1f24ab0-fe86-5060-a42d-74f48606ddee

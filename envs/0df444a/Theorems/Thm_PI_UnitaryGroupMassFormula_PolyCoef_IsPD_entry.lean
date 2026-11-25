@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PolyCoef_IsPD_entry
 -- name    : PI.UnitaryGroupMassFormula.PolyCoef.IsPD.entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:34:51.387813+00:00
 -- url     : https://prove2.me/theorems/78a3c4d4-7555-41a3-b942-0d2da98241ba

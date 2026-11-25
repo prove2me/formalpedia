@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMX_vecHW2_of
 -- name    : PI.FJMX.vecHW2_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:03.983991+00:00
 -- url     : https://prove2.me/theorems/1ba12f9a-c6bb-4d98-9907-2e98f0756bda

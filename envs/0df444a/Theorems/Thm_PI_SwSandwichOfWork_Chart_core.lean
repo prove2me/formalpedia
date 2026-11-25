@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwSandwichOfWork_Chart_core
 -- name    : PI.SwSandwichOfWork.Chart_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:35:39.591689+00:00
 -- url     : https://prove2.me/theorems/a6c0804a-ed65-482f-8e0f-78328b7bfd99

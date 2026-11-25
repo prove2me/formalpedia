@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_vq_prod
 -- name    : PI.TwistedEisensteinNonvanishing.W.vq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:31.554868+00:00
 -- url     : https://prove2.me/theorems/ca815f5c-942d-45bd-aaf4-3d1bbb542b0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BesselL2FixAtZero_uh_mul
 -- name    : PI.UnitaryGroupMassFormula.BesselL2FixAtZero.uh_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:43:52.350804+00:00
 -- url     : https://prove2.me/theorems/e3e8c4f0-1eac-5f39-9a43-54adcbfbfc15

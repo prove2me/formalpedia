@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_blockSubstitution_blockInclusion
 -- name    : PI.TOW.blockSubstitution_blockInclusion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:25.251932+00:00
 -- url     : https://prove2.me/theorems/79623ab9-4f8e-4e32-8a13-9f27f7ad0798

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderES_cons_comp_finRotate
 -- name    : PI.UnitaryGroupMassFormula.QmBorderES.cons_comp_finRotate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:34.341916+00:00
 -- url     : https://prove2.me/theorems/b66fb400-2aaa-47df-accc-9b982a88bbcd

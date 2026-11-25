@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_cayley_mem_UJ
 -- name    : PI.UnitaryApproxFinWork.cayley_mem_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:54.478592+00:00
 -- url     : https://prove2.me/theorems/abfcf0e5-b5d6-4f7b-b543-9c4217b5c212

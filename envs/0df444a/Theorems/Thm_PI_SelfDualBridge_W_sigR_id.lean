@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualBridge_W_sigR_id
 -- name    : PI.SelfDualBridge.W.sigR_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:25:30.176417+00:00
 -- url     : https://prove2.me/theorems/8927b92f-2889-4813-9cfc-b475fff89ce8

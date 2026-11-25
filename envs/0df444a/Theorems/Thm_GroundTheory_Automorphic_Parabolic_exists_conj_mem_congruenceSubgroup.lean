@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_conj_mem_congruenceSubgroup
 -- name    : GroundTheory.Automorphic.Parabolic.exists_conj_mem_congruenceSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:09:58.828265+00:00
 -- url     : https://prove2.me/theorems/a64342bc-cfcd-4150-a515-d39347033ad2

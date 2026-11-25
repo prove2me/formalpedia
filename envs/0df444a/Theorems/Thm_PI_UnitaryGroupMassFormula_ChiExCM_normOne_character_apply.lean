@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ChiExCM_normOne_character_apply
 -- name    : PI.UnitaryGroupMassFormula.ChiExCM.normOne_character_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:16.576584+00:00
 -- url     : https://prove2.me/theorems/3ad41644-77b6-4925-bed9-901d9c4670ae

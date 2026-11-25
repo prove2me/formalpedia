@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_differentiable_evalQpow
 -- name    : GroundTheory.LocalField.differentiable_evalQpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:16:04.401482+00:00
 -- url     : https://prove2.me/theorems/8b1129e9-b6a7-5b4f-9690-2cffbead32be

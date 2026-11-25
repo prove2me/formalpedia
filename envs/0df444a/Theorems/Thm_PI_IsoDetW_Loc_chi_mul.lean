@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_IsoDetW_Loc_chi_mul
 -- name    : PI.IsoDetW.Loc.chi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:41.992729+00:00
 -- url     : https://prove2.me/theorems/2f9e6692-ec4c-4c58-b7db-bb70545090d5

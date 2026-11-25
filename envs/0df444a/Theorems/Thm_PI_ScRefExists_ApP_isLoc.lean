@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_ApP_isLoc
 -- name    : PI.ScRefExists.ApP.isLoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:54:55.961568+00:00
 -- url     : https://prove2.me/theorems/5645bdc7-faab-4349-9189-9f43b3de4142

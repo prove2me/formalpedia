@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_BM_isOpen_Mv
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.BM.isOpen_Mv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:47.13399+00:00
 -- url     : https://prove2.me/theorems/4cfee300-7ed4-502c-bf07-52c31736171d

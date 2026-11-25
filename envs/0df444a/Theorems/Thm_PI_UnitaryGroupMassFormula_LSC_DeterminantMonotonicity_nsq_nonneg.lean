@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LSC_DeterminantMonotonicity_nsq_nonneg
 -- name    : PI.UnitaryGroupMassFormula.LSC.DeterminantMonotonicity.nsq_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:04.14496+00:00
 -- url     : https://prove2.me/theorems/1bb8727d-2c6d-4be8-91c3-4f3193b67978

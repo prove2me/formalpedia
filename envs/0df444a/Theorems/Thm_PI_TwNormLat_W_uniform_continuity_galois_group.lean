@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_uniform_continuity_galois_group
 -- name    : PI.TwNormLat.W.uniform_continuity_galois_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:28:43.873818+00:00
 -- url     : https://prove2.me/theorems/a97e6281-9928-54ed-8ebe-fe6aa724c95b

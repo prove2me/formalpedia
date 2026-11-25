@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Frames_nu_pos_and_smul
 -- name    : GlobalTheory.HL.Frames.nu_pos_and_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:33:42.463832+00:00
 -- url     : https://prove2.me/theorems/c310bbc5-ebae-55e9-9ccc-3ab02fe3bd71

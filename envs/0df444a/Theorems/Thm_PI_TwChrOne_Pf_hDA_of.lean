@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwChrOne_Pf_hDA_of
 -- name    : PI.TwChrOne.Pf.hDA_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:32.17277+00:00
 -- url     : https://prove2.me/theorems/009425cf-e338-40ad-9e57-867be0421a2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_Proj_exists_C
 -- name    : PI.StabSplit.Proj.exists_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:18.826361+00:00
 -- url     : https://prove2.me/theorems/2f101aea-8880-4a0f-a3e4-415ce57bb354

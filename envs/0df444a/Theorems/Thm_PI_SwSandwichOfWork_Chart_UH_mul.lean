@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwSandwichOfWork_Chart_UH_mul
 -- name    : PI.SwSandwichOfWork.Chart_UH_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:42:04.273874+00:00
 -- url     : https://prove2.me/theorems/a3311f49-6021-45ae-8cec-4422baf40b01

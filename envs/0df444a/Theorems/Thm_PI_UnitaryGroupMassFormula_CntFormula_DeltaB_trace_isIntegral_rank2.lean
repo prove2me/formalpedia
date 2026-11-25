@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_DeltaB_trace_isIntegral_rank2
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.DeltaB.trace_isIntegral_rank2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:12.246836+00:00
 -- url     : https://prove2.me/theorems/3ee4245a-2ab5-470e-a333-9079718a5b99

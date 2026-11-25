@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnfoldEquiv_UnitaryGroupMassFormula_atN_eN
 -- name    : PI.UnfoldEquiv.UnitaryGroupMassFormula.atN_eN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:09.250791+00:00
 -- url     : https://prove2.me/theorems/6a1bc13d-92e2-4c41-ac20-e2b5a0cbd5f7

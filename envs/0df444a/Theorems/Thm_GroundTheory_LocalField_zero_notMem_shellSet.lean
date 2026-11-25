@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_zero_notMem_shellSet
 -- name    : GroundTheory.LocalField.zero_notMem_shellSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:29:42.643897+00:00
 -- url     : https://prove2.me/theorems/c806ccb4-d3b8-5459-acb0-a46ffcb057cc

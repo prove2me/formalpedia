@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExC_isClosed_Nsub
 -- name    : PI.LevelKSplit.W.ExC.isClosed_Nsub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:32:16.947928+00:00
 -- url     : https://prove2.me/theorems/eefbcc37-306e-4f4d-bdab-5a1795333fd7

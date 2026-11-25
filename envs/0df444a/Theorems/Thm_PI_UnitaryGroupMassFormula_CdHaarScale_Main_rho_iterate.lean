@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CdHaarScale_Main_rho_iterate
 -- name    : PI.UnitaryGroupMassFormula.CdHaarScale.Main.rho_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:42.925309+00:00
 -- url     : https://prove2.me/theorems/5dd5a2f8-044b-4828-92e4-4ab183be43fc

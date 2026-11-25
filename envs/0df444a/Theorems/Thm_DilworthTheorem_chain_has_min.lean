@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_chain_has_min
 -- name    : DilworthTheorem.chain_has_min
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:50:10.728002+00:00
 -- url     : https://prove2.me/theorems/0dcacb17-c4c2-4ef4-b7b0-33b14ed529fd

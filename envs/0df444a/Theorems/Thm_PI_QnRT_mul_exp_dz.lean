@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_mul_exp_dz
 -- name    : PI.QnRT.mul_exp_dz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:22:00.037771+00:00
 -- url     : https://prove2.me/theorems/f434a710-42a2-400b-ac99-ea2af46eee8e

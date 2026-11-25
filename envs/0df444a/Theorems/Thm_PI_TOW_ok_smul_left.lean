@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_ok_smul_left
 -- name    : PI.TOW.ok_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:43.075199+00:00
 -- url     : https://prove2.me/theorems/ca6f6411-ba34-4209-82a6-fc8ff808f6b7

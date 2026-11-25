@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_extend_chain_cover
 -- name    : DilworthTheorem.extend_chain_cover
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:58:29.544398+00:00
 -- url     : https://prove2.me/theorems/d4f303da-47c9-53cf-af19-e5cdd7736f4a

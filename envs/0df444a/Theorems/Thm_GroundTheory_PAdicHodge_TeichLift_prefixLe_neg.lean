@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_prefixLe_neg
 -- name    : GroundTheory.PAdicHodge.TeichLift.prefixLe_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:34:35.902695+00:00
 -- url     : https://prove2.me/theorems/84bde64e-42f8-4ce0-9b27-e120a690c771

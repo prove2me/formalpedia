@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_sgn_mul_swap
 -- name    : PI.UnitaryGroupMassFormula.QmMove.sgn_mul_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:34.263698+00:00
 -- url     : https://prove2.me/theorems/aa1a88ee-7d11-42d7-bbe1-994fad7ed388

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_star_range
 -- name    : PI.UnitaryGroupMassFormula.LCG.star_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:01:53.769602+00:00
 -- url     : https://prove2.me/theorems/3c959039-5969-43eb-b026-e5f95e5ec475

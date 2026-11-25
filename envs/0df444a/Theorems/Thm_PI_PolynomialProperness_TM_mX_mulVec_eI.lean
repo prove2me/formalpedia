@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TM_mX_mulVec_eI
 -- name    : PI.PolynomialProperness.TM.mX_mulVec_eI
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:38:40.983927+00:00
 -- url     : https://prove2.me/theorems/e7b0eff5-256a-48e4-aeb9-d2b923005e33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_UnitaryReduction_DualHomPf_pt_mem_span_of_mem_espan_b2e16ae6daae
 -- name    : P2M_GroundTheory_Heights__Theta_UnitaryReduction_DualHomPf_pt_mem_span_of_mem_espan_b2e16ae6daae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:07:28.399989+00:00
 -- url     : https://prove2.me/theorems/fe0e4846-0a05-4390-80d9-90c971484652

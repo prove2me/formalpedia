@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DetIdxW_natAbs_norm_real
 -- name    : PI.UnitaryGroupMassFormula.LCG.DetIdxW.natAbs_norm_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:39:55.111087+00:00
 -- url     : https://prove2.me/theorems/de23a4ef-c0af-44b2-b6d7-4c00e86d462c

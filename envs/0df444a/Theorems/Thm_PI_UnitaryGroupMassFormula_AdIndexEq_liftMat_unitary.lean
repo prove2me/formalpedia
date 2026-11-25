@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_liftMat_unitary
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.liftMat_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:38:51.769564+00:00
 -- url     : https://prove2.me/theorems/134e7a05-de47-4d1e-9def-ab1c2e099a4f

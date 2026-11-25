@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_restriction_to_affine_surjective
 -- name    : PI.TwistedEisensteinNonvanishing.W.restriction_to_affine_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:11.812582+00:00
 -- url     : https://prove2.me/theorems/a5d2d2fc-2f6f-470f-a529-e4fc726115b3

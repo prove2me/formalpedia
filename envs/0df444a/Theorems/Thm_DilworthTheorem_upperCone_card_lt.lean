@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_upperCone_card_lt
 -- name    : DilworthTheorem.upperCone_card_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:57:29.33251+00:00
 -- url     : https://prove2.me/theorems/1e371da9-b68c-5593-bf9a-6fa81acaba79

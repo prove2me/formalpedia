@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_LevelKSplit_W_SemiA_toMatrix__lin_81c9c19a7389
 -- name    : P2M_PI_LevelKSplit_W_SemiA_toMatrix__lin_81c9c19a7389
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:29:12.442544+00:00
 -- url     : https://prove2.me/theorems/ec2db1f4-38b3-55bb-967b-0a9551e64493

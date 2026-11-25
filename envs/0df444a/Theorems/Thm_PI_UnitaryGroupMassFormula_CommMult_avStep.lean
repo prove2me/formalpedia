@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CommMult_avStep
 -- name    : PI.UnitaryGroupMassFormula.CommMult.avStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:12.158617+00:00
 -- url     : https://prove2.me/theorems/4c853399-0915-44ac-81ab-ebe8439b870c

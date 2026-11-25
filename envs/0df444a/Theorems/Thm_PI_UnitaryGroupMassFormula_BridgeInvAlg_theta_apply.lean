@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BridgeInvAlg_theta_apply
 -- name    : PI.UnitaryGroupMassFormula.BridgeInvAlg.theta_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:21.982262+00:00
 -- url     : https://prove2.me/theorems/02fbec6a-435c-47c1-961e-af808147e950

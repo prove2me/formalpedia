@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_bdd_of_nf
 -- name    : PI.TwNormLat.W.bdd_of_nf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:14.651415+00:00
 -- url     : https://prove2.me/theorems/5559ed12-84e6-50f9-96fa-249d9b11ceff

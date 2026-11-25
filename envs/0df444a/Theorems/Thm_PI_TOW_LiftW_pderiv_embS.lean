@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_LiftW_pderiv_embS
 -- name    : PI.TOW.LiftW.pderiv_embS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:24.713069+00:00
 -- url     : https://prove2.me/theorems/402e627c-e4b4-49b0-9407-25cb33357b75

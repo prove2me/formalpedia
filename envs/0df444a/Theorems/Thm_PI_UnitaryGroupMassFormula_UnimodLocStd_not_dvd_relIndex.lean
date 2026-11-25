@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_not_dvd_relIndex
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.not_dvd_relIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:40:39.160308+00:00
 -- url     : https://prove2.me/theorems/94d100bd-851e-464a-9607-5cd2a0083361

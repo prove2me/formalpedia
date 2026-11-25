@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_UG_exists_trace_notMem
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.UG.exists_trace_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:06.778744+00:00
 -- url     : https://prove2.me/theorems/9da2ad4d-562b-4c8e-b88b-811f80da8c1e

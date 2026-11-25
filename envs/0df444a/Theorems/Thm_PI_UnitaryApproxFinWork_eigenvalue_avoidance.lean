@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_eigenvalue_avoidance
 -- name    : PI.UnitaryApproxFinWork.eigenvalue_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:58.707929+00:00
 -- url     : https://prove2.me/theorems/9c5cca94-f221-4d7c-924e-deda404e91f6

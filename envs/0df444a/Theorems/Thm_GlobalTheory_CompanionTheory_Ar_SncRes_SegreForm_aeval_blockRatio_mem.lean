@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_SncRes_SegreForm_aeval_blockRatio_mem
 -- name    : GlobalTheory.CompanionTheory.Ar.SncRes.SegreForm.aeval_blockRatio_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:39:27.064467+00:00
 -- url     : https://prove2.me/theorems/fcd8e673-0b9b-5147-8b76-3e6928f2036e

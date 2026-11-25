@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UConjT_blk_castSucc_last
 -- name    : PI.UConjT.blk_castSucc_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:30:05.17702+00:00
 -- url     : https://prove2.me/theorems/5b32fd39-db7a-4bef-8044-ee5c7d2263eb

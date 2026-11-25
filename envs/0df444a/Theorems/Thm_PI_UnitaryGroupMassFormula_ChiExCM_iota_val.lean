@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ChiExCM_iota_val
 -- name    : PI.UnitaryGroupMassFormula.ChiExCM.iota_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:33.202681+00:00
 -- url     : https://prove2.me/theorems/257c1d03-24e9-568a-b332-7d6b84c434b5

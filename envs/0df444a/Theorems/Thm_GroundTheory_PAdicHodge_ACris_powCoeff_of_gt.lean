@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_powCoeff_of_gt
 -- name    : GroundTheory.PAdicHodge.ACris.powCoeff_of_gt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:15:49.744802+00:00
 -- url     : https://prove2.me/theorems/c3875747-4689-4477-a920-0dd6de62f627

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_bd_local
 -- name    : PI.UnitaryApproxFinWork.bd_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:49.123792+00:00
 -- url     : https://prove2.me/theorems/d8621ed9-953a-52a2-a07e-4eaa66758952

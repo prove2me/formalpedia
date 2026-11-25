@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_splitAt_of
 -- name    : Formalism.L2.SG.Pf.G3.splitAt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:25:47.304073+00:00
 -- url     : https://prove2.me/theorems/558d5b05-87c6-55a8-b9d8-51ff6ef74040

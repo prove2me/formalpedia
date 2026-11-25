@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_character_argument_constant_shift
 -- name    : PI.TwistedEisensteinNonvanishing.W.character_argument_constant_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:14.242845+00:00
 -- url     : https://prove2.me/theorems/cc0c4b9d-d52c-5ee1-a9da-a786f3e56007

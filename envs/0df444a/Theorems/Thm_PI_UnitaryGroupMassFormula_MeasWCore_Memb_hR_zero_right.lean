@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_MeasWCore_Memb_hR_zero_right
 -- name    : PI.UnitaryGroupMassFormula.MeasWCore.Memb.hR_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:33:01.055948+00:00
 -- url     : https://prove2.me/theorems/78081c64-e6c8-4174-8259-2565b45df624

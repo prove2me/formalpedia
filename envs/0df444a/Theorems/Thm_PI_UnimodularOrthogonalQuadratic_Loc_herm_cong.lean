@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnimodularOrthogonalQuadratic_Loc_herm_cong
 -- name    : PI.UnimodularOrthogonalQuadratic.Loc.herm_cong
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:47.521474+00:00
 -- url     : https://prove2.me/theorems/4e2443cc-2b1f-41ba-ba3b-b1fe7715901d

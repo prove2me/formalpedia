@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_dS_conj_S
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.dS_conj_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:18:26.628669+00:00
 -- url     : https://prove2.me/theorems/872d8720-0910-5a7b-882b-ca5e0b3458a7

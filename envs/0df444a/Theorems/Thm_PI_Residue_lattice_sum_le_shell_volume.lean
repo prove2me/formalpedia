@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_lattice_sum_le_shell_volume
 -- name    : PI.Residue.lattice_sum_le_shell_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:19:50.575886+00:00
 -- url     : https://prove2.me/theorems/240d3e17-e502-5fe4-aab7-ee514e9eb4f1

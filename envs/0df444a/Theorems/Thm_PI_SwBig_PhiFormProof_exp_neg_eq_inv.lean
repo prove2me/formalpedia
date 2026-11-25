@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwBig_PhiFormProof_exp_neg_eq_inv
 -- name    : PI.SwBig.PhiFormProof.exp_neg_eq_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:27:44.972419+00:00
 -- url     : https://prove2.me/theorems/3ee0ec91-ada1-5757-b9aa-31a546b1c4a2

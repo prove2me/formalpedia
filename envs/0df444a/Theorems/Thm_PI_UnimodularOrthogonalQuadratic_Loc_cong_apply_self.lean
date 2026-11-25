@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnimodularOrthogonalQuadratic_Loc_cong_apply_self
 -- name    : PI.UnimodularOrthogonalQuadratic.Loc.cong_apply_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:30:49.924895+00:00
 -- url     : https://prove2.me/theorems/a5fb36cf-86be-5b51-a68e-b1965734debb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_nH_eq
 -- name    : HcInf.nH_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:19:28.42629+00:00
 -- url     : https://prove2.me/theorems/68626793-9379-4f0c-b9a1-72e9fc691272

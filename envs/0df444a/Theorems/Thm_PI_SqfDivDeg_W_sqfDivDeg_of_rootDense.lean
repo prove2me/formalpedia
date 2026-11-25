@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfDivDeg_W_sqfDivDeg_of_rootDense
 -- name    : PI.SqfDivDeg.W.sqfDivDeg_of_rootDense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:26:56.548077+00:00
 -- url     : https://prove2.me/theorems/88a18e24-0c36-5afe-9b13-fb8410309843

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_modF_localization_eq_adicAbv
 -- name    : PI.ProdFormulaE.modF_localization_eq_adicAbv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:21:49.673028+00:00
 -- url     : https://prove2.me/theorems/574232c6-6dcc-53db-af49-6e7b66692dbc

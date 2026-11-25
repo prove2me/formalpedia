@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_ApP_pz_ne_bot
 -- name    : PI.ScRefExists.ApP.pz_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:24:43.675034+00:00
 -- url     : https://prove2.me/theorems/d0be70af-4f88-5c5d-a2a5-32113b465d9d

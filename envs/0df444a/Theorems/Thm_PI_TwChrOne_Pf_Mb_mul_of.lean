@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwChrOne_Pf_Mb_mul_of
 -- name    : PI.TwChrOne.Pf.Mb_mul_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:41:56.921874+00:00
 -- url     : https://prove2.me/theorems/54079d8e-2b62-468d-854e-8783bdac8c1d

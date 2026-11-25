@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HyperboloidPolar_herm_self_eq
 -- name    : GlobalTheory.HyperboloidPolar.herm_self_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:37:20.552574+00:00
 -- url     : https://prove2.me/theorems/d552018a-34e1-583d-8c02-f594c7f7061e

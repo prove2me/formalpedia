@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_hJ_smul_right
 -- name    : PI.ScPiFrameW.hJ_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:21:02.40121+00:00
 -- url     : https://prove2.me/theorems/05b49885-26aa-4491-8277-e98735cd02f3

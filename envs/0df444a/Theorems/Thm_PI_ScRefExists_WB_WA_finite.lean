@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_WB_WA_finite
 -- name    : PI.ScRefExists.WB.WA_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:47.172787+00:00
 -- url     : https://prove2.me/theorems/6071b98a-d543-405f-af0c-0b273859ac27

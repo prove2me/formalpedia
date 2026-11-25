@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_WbDefC_linIndep_map
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.WbDefC.linIndep_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:31:32.793813+00:00
 -- url     : https://prove2.me/theorems/567a12bf-5b6d-5b81-a4c8-6baf539fe91d

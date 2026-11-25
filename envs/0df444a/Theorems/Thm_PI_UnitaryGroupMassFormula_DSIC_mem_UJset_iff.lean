@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DSIC_mem_UJset_iff
 -- name    : PI.UnitaryGroupMassFormula.DSIC.mem_UJset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:53.064368+00:00
 -- url     : https://prove2.me/theorems/dd9274d2-eb04-4ce2-8089-d57410a8e58b

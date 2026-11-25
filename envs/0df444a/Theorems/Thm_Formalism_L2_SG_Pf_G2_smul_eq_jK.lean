@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G2_smul_eq_jK
 -- name    : Formalism.L2.SG.Pf.G2.smul_eq_jK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:30:05.327678+00:00
 -- url     : https://prove2.me/theorems/be5be10c-b097-5666-b115-bd8c2047c76e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_col_fact_le
 -- name    : PI.SlopeSteps.col_fact_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:01:06.255126+00:00
 -- url     : https://prove2.me/theorems/04022f5b-68f5-492d-989c-13b28c5a77c3

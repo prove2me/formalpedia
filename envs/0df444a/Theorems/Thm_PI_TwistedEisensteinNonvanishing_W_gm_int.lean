@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_gm_int
 -- name    : PI.TwistedEisensteinNonvanishing.W.gm_int
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:25:56.21625+00:00
 -- url     : https://prove2.me/theorems/7c2db79a-4d17-4090-a366-8bde7aab4f23

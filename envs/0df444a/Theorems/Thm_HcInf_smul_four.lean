@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_smul_four
 -- name    : HcInf.smul_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:22:48.811048+00:00
 -- url     : https://prove2.me/theorems/244da4a6-70b9-4be2-b4ed-f4f5ab66a2e9

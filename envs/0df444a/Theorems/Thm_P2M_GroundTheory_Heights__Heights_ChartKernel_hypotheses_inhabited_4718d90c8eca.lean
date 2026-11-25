@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartKernel_hypotheses_inhabited_4718d90c8eca
 -- name    : P2M_GroundTheory_Heights__Heights_ChartKernel_hypotheses_inhabited_4718d90c8eca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:26:07.206056+00:00
 -- url     : https://prove2.me/theorems/8e817eb9-55a5-5c21-991d-5e0b63172daa

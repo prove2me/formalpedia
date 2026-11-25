@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_HostPrimeFacts_finrank_OE
 -- name    : PI.UnitaryGroupMassFormula.HostPrimeFacts.finrank_OE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:58.083815+00:00
 -- url     : https://prove2.me/theorems/c306a7a8-d07b-425a-94fa-f3f9e4999d46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NcVal_OmVc2_cHerm_eq_one
 -- name    : PI.NcVal.OmVc2.cHerm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:18:08.860692+00:00
 -- url     : https://prove2.me/theorems/fd5a7ce9-ef95-5dd0-8e19-c8e4ae9edae6

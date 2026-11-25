@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_wa_exists_int_approx
 -- name    : PI.UnitaryApproxFinWork.wa_exists_int_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:09.423319+00:00
 -- url     : https://prove2.me/theorems/eded9d08-2d2c-4178-a427-4f7785ce0ed2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OpWords_pairingPowMemSymbolRange
 -- name    : PI.OpWords.pairingPowMemSymbolRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:58.66513+00:00
 -- url     : https://prove2.me/theorems/c95cfd31-efd6-41ea-a042-f865f5090b7c

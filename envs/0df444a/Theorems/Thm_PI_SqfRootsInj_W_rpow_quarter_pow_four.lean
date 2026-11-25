@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_rpow_quarter_pow_four
 -- name    : PI.SqfRootsInj.W.rpow_quarter_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:37.721777+00:00
 -- url     : https://prove2.me/theorems/573de4fe-1b7b-454e-8dc4-79974378495b

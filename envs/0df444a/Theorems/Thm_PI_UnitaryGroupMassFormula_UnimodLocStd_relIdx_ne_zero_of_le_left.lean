@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_relIdx_ne_zero_of_le_left
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.relIdx_ne_zero_of_le_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:41:04.534738+00:00
 -- url     : https://prove2.me/theorems/defc19f4-f989-48dd-ac2a-7ed7e6159f1f

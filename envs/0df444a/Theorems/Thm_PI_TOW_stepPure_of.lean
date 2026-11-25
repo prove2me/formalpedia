@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_stepPure_of
 -- name    : PI.TOW.stepPure_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:36.659099+00:00
 -- url     : https://prove2.me/theorems/0b93a9e5-1c88-56c1-a559-8d357edcaa79

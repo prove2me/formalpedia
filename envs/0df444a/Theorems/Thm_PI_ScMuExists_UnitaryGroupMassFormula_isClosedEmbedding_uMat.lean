@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_isClosedEmbedding_uMat
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.isClosedEmbedding_uMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:02:45.450308+00:00
 -- url     : https://prove2.me/theorems/2183e4a7-1cef-4e84-96b5-3f2e993952af

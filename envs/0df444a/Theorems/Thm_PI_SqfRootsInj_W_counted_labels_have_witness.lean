@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_counted_labels_have_witness
 -- name    : PI.SqfRootsInj.W.counted_labels_have_witness
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:55.113262+00:00
 -- url     : https://prove2.me/theorems/6aacca73-1fb2-4bfa-b3a3-657c7f03f57f

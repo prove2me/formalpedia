@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_midC
 -- name    : PI.UnitaryGroupMassFormula.QmMove.midC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:41:03.188928+00:00
 -- url     : https://prove2.me/theorems/da66cecb-6c3a-5e6c-bcf2-eb89f6d41bb3

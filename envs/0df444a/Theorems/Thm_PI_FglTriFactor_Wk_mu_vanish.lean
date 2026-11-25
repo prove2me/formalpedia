@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_mu_vanish
 -- name    : PI.FglTriFactor.Wk.mu_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:30:39.961364+00:00
 -- url     : https://prove2.me/theorems/19dbe9b3-4bf5-42a8-aeac-9544cbcd7f98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteerableE2CNN_norm_nonlinearity_equivariant
 -- name    : SteerableE2CNN.norm_nonlinearity_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:39:49.852743+00:00
 -- url     : https://prove2.me/theorems/fb66ce88-0fbf-4393-a448-70bcb10fabcf

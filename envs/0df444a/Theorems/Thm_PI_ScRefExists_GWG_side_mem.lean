@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GWG_side_mem
 -- name    : PI.ScRefExists.GWG.side_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:23:50.847807+00:00
 -- url     : https://prove2.me/theorems/66706b92-c5af-5b65-a901-74a6bcb98490

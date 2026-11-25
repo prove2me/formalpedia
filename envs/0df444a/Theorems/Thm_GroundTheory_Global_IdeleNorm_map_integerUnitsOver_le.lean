@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleNorm_map_integerUnitsOver_le
 -- name    : GroundTheory.Global.IdeleNorm.map_integerUnitsOver_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:16:13.249821+00:00
 -- url     : https://prove2.me/theorems/3f255ec1-0111-545b-8cc6-a7e048ee0043

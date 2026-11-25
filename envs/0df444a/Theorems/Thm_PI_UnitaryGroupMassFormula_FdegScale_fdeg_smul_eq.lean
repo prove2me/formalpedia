@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FdegScale_fdeg_smul_eq
 -- name    : PI.UnitaryGroupMassFormula.FdegScale.fdeg_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:32.719634+00:00
 -- url     : https://prove2.me/theorems/aa3c9460-2af5-496b-8d39-15a885cb7f79

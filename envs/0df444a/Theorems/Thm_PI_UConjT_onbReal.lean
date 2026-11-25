@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UConjT_onbReal
 -- name    : PI.UConjT.onbReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:07.360935+00:00
 -- url     : https://prove2.me/theorems/f035145a-a356-45db-8c88-5853876d5a47

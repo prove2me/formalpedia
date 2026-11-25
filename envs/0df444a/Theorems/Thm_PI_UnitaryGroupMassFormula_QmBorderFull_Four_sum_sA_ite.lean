@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderFull_Four_sum_sA_ite
 -- name    : PI.UnitaryGroupMassFormula.QmBorderFull.Four.sum_sA_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:40:03.815071+00:00
 -- url     : https://prove2.me/theorems/dae18fee-25cf-4231-a280-295e88c9d1e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowUniSplit_monomialMatrix_inv
 -- name    : PI.LowUniSplit.monomialMatrix_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:35:14.385798+00:00
 -- url     : https://prove2.me/theorems/4835f670-4579-4ca9-8aff-e9c4a202fdb7

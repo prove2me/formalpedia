@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SSE_thetaA
 -- name    : PI.SSE.thetaA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:22:07.718672+00:00
 -- url     : https://prove2.me/theorems/b023d4e4-5285-483a-8824-2f9b0747ec5b

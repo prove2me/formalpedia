@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_sqPairLocal_of_steps
 -- name    : PI.SqPairLocal.sqPairLocal_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:25:37.989651+00:00
 -- url     : https://prove2.me/theorems/6d28bd49-7da1-4b0b-b84b-cb18f4d3e130

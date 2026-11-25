@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_transfer_entry_one_one
 -- name    : PI.QnHermHaar.transfer_entry_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:00:51.122448+00:00
 -- url     : https://prove2.me/theorems/2eb6b056-fab9-44d8-b236-346dd45bafb4

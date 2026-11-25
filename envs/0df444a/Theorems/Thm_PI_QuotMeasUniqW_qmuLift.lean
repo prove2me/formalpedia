@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotMeasUniqW_qmuLift
 -- name    : PI.QuotMeasUniqW.qmuLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:18:44.929239+00:00
 -- url     : https://prove2.me/theorems/18fc39b3-5b3f-426d-91df-0bdfd76d07d7

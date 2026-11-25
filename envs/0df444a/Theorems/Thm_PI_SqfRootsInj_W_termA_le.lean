@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_termA_le
 -- name    : PI.SqfRootsInj.W.termA_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:55.480006+00:00
 -- url     : https://prove2.me/theorems/a1e060fa-f110-5bb4-bd01-943e10ad9f7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerfectGraph_colorable_induce_iff
 -- name    : PerfectGraph.colorable_induce_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:27:59.313481+00:00
 -- url     : https://prove2.me/theorems/44adab9b-d283-43f4-b574-0e5a4a0b789b

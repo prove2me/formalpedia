@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_ND_exists_den
 -- name    : PI.SelfDualLoc.W.ND.exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:37:23.210952+00:00
 -- url     : https://prove2.me/theorems/2c083094-b263-4d21-b385-c44be5c8ac36

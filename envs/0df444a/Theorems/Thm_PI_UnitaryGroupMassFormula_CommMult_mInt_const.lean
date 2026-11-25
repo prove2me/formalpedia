@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CommMult_mInt_const
 -- name    : PI.UnitaryGroupMassFormula.CommMult.mInt_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:13.311972+00:00
 -- url     : https://prove2.me/theorems/342043f2-7582-4495-89a2-8d88ee4f3927

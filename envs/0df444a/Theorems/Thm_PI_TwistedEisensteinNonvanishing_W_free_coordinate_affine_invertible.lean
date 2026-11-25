@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_free_coordinate_affine_invertible
 -- name    : PI.TwistedEisensteinNonvanishing.W.free_coordinate_affine_invertible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:29.711323+00:00
 -- url     : https://prove2.me/theorems/1831fd40-11a5-4367-a435-fa97c1da22ba

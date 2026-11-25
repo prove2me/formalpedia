@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_scU_mem_UJ
 -- name    : PI.UnitaryApproxFinWork.scU_mem_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:41.318216+00:00
 -- url     : https://prove2.me/theorems/151e75c0-e711-416b-b07a-ceed2a41a7aa

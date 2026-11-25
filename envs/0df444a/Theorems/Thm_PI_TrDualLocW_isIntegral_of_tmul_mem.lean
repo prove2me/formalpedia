@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TrDualLocW_isIntegral_of_tmul_mem
 -- name    : PI.TrDualLocW.isIntegral_of_tmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:10.115524+00:00
 -- url     : https://prove2.me/theorems/987e1e2e-c2cc-40de-beef-a30c66dd01f6

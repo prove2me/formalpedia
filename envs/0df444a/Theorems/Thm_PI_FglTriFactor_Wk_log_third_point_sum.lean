@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FglTriFactor_Wk_log_third_point_sum
 -- name    : PI.FglTriFactor.Wk.log_third_point_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:26:13.80156+00:00
 -- url     : https://prove2.me/theorems/92d2c879-9353-4e31-8b68-33ee186b5bff

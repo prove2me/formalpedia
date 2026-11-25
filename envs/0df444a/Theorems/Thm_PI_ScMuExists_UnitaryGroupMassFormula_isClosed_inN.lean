@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_isClosed_inN
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.isClosed_inN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:21.421146+00:00
 -- url     : https://prove2.me/theorems/258c8961-db10-52cd-ada3-ad00d01b5416

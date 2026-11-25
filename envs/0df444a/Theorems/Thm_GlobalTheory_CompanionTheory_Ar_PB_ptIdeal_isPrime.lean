@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_ptIdeal_isPrime
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.ptIdeal_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:39:01.196389+00:00
 -- url     : https://prove2.me/theorems/450b76a4-ee8d-4b42-938a-8f3664ff7a68

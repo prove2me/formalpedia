@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmRowForm_sign_sq_cast
 -- name    : PI.UnitaryGroupMassFormula.QmRowForm.sign_sq_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:34:02.452416+00:00
 -- url     : https://prove2.me/theorems/5532921e-72d7-5362-bd0a-74cff3979df3

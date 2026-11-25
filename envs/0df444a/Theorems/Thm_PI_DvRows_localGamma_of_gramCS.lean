@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_localGamma_of_gramCS
 -- name    : PI.DvRows.localGamma_of_gramCS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:32:13.29845+00:00
 -- url     : https://prove2.me/theorems/4b82e6e2-f5eb-579d-aff1-da7ef26e8972

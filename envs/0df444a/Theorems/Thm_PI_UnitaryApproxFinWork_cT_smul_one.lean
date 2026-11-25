@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_cT_smul_one
 -- name    : PI.UnitaryApproxFinWork.cT_smul_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:30:32.324574+00:00
 -- url     : https://prove2.me/theorems/9a136db0-41ea-43c7-aa9d-74be8fdc03d2

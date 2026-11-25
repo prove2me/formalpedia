@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_op_uwb_eq_emb
 -- name    : PI.RhsWLim.W.op_uwb_eq_emb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:51:42.275993+00:00
 -- url     : https://prove2.me/theorems/449e4447-7922-57af-a4eb-9ee5afa49792

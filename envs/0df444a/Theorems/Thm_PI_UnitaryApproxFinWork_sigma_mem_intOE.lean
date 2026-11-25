@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_sigma_mem_intOE
 -- name    : PI.UnitaryApproxFinWork.sigma_mem_intOE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:28.72971+00:00
 -- url     : https://prove2.me/theorems/fd558eab-f100-5981-9dc6-f99e3ad795a9

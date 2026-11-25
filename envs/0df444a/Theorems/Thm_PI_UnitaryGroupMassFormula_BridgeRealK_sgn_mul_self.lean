@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BridgeRealK_sgn_mul_self
 -- name    : PI.UnitaryGroupMassFormula.BridgeRealK.sgn_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:32.92357+00:00
 -- url     : https://prove2.me/theorems/ead8bfda-e322-4a91-b644-fbfbb4afde07

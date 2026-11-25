@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Residue_tsum_ideal_le
 -- name    : PI.Residue.tsum_ideal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:20:21.522768+00:00
 -- url     : https://prove2.me/theorems/d233ed36-0bea-47c1-b883-30713b0301ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairW_sqPairGlue_main
 -- name    : PI.SqPairW.sqPairGlue_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:25:48.316496+00:00
 -- url     : https://prove2.me/theorems/b8f8a555-449d-53f8-9cd9-20c0173294e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_thetaT_eq_longestWeyl
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.thetaT_eq_longestWeyl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:17:17.415825+00:00
 -- url     : https://prove2.me/theorems/97ede629-04e0-5a1b-8d5a-c312884c8e43

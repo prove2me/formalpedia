@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_TH_coe_alg
 -- name    : PI.ScRefExists.TH.coe_alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:25:55.244368+00:00
 -- url     : https://prove2.me/theorems/44ba277b-286f-519a-8121-2dc376fb5eab

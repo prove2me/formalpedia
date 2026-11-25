@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LowSmooth_finStable_directed
 -- name    : PI.UnitaryGroupMassFormula.LowSmooth.finStable_directed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:32:00.664898+00:00
 -- url     : https://prove2.me/theorems/d8836b9d-0ab6-58ce-ae71-bcb8aad6b244

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UConjT_transferStep
 -- name    : PI.UConjT.transferStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:29.363575+00:00
 -- url     : https://prove2.me/theorems/e9058af6-2f5e-5fba-901b-abb793c2f7a9

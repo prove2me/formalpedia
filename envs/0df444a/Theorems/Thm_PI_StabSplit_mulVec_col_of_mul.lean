@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_mulVec_col_of_mul
 -- name    : PI.StabSplit.mulVec_col_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:33:43.13788+00:00
 -- url     : https://prove2.me/theorems/e341fa41-1f07-4065-b768-eed5a16594ec

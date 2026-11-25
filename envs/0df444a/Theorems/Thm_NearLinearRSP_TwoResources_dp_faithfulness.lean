@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearLinearRSP_TwoResources_dp_faithfulness
 -- name    : NearLinearRSP.TwoResources.dp_faithfulness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:25:54.016926+00:00
 -- url     : https://prove2.me/theorems/a3e4f11f-c169-43c8-ae4b-d52809577a62

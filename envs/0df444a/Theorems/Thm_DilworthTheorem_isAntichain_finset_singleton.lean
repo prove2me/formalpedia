@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_isAntichain_finset_singleton
 -- name    : DilworthTheorem.isAntichain_finset_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:49:15.955999+00:00
 -- url     : https://prove2.me/theorems/001c7adc-85fe-54b0-923a-9f33691f8242

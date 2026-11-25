@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_LiftW_opWord_append
 -- name    : PI.TOW.LiftW.opWord_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:04.517344+00:00
 -- url     : https://prove2.me/theorems/81b545f3-10c9-5a69-9af9-d9d4c5f77568

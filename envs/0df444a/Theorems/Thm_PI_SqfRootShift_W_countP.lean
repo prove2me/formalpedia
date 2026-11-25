@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootShift_W_countP
 -- name    : PI.SqfRootShift.W.countP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:14.1689+00:00
 -- url     : https://prove2.me/theorems/70319e47-7032-5ba0-a1cc-3dd3f0b9c66e

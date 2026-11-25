@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LSC_GramLowOf_gramV_eq
 -- name    : PI.UnitaryGroupMassFormula.LSC.GramLowOf.gramV_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:05.725535+00:00
 -- url     : https://prove2.me/theorems/ee59eb28-a7a1-430c-b1eb-f919b1225fe1

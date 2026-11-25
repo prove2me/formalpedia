@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_wa_isOpen_lt_one
 -- name    : PI.UnitaryApproxFinWork.wa_isOpen_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:31:48.836961+00:00
 -- url     : https://prove2.me/theorems/deb61143-5cc4-49e0-8943-bc7e29b3d27b

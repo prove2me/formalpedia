@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhDualGram_cc_add
 -- name    : PI.UnitaryGroupMassFormula.PhDualGram.cc_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:33:12.951594+00:00
 -- url     : https://prove2.me/theorems/9ac7a823-2b51-4328-9808-52f229ea1f57

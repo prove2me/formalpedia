@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_gmap_inf_sub
 -- name    : Formalism.L2.SG.Pf.G9.gmap_inf_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:26:23.183348+00:00
 -- url     : https://prove2.me/theorems/486f26a1-7bf6-5973-91af-19e2bc811bcc

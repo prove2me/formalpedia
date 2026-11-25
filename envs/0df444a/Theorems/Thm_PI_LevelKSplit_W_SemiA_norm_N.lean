@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_SemiA_norm_N
 -- name    : PI.LevelKSplit.W.SemiA.norm_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:27:47.710046+00:00
 -- url     : https://prove2.me/theorems/6145637b-fe74-4865-812e-a8eeb3ec95d1

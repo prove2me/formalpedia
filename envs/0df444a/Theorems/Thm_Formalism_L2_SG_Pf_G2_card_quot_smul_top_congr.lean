@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G2_card_quot_smul_top_congr
 -- name    : Formalism.L2.SG.Pf.G2.card_quot_smul_top_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:13.148147+00:00
 -- url     : https://prove2.me/theorems/3d178ac0-e4d9-5037-bab7-137bca2537f0

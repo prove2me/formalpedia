@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_sigR_dv
 -- name    : PI.UnitaryApproxFinWork.sigR_dv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:30:27.777503+00:00
 -- url     : https://prove2.me/theorems/47471911-4446-5c51-af36-0a79129bdefc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SelfDualLoc_W_selfDualLoc_of
 -- name    : PI.SelfDualLoc.W.selfDualLoc_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:24:26.632283+00:00
 -- url     : https://prove2.me/theorems/d995730d-fae2-4bdc-b6e3-c501e2a59a2f

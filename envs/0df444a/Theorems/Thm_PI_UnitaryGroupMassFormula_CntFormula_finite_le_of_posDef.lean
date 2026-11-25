@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_finite_le_of_posDef
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.finite_le_of_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:18.069428+00:00
 -- url     : https://prove2.me/theorems/ecc725da-65fa-423e-aff3-e7f22dddf2c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PC_psiLowerBound_holds
 -- name    : PI.PC.psiLowerBound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:36:09.928105+00:00
 -- url     : https://prove2.me/theorems/61851eee-1955-43e2-942d-d5a4b3e330bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_relIndex_inf_three_ne_zero
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.relIndex_inf_three_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:36.594329+00:00
 -- url     : https://prove2.me/theorems/18e47a60-8801-5ab3-810a-6593cf33a977

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderES_skip_one_eq_succAbove
 -- name    : PI.UnitaryGroupMassFormula.QmBorderES.skip_one_eq_succAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:45.701876+00:00
 -- url     : https://prove2.me/theorems/1d278d7b-bd3f-4efa-94bf-0926ba8104f9

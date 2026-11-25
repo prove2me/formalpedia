@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LevZeroUp_upZero_entry
 -- name    : GlobalTheory.LevZeroUp.upZero_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:20:23.144608+00:00
 -- url     : https://prove2.me/theorems/ca070417-8c3b-5544-ae8a-f354735c11bb

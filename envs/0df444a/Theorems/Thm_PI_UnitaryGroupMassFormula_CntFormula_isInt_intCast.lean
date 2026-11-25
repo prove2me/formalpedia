@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_isInt_intCast
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.isInt_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:27.179069+00:00
 -- url     : https://prove2.me/theorems/6ffd663a-e215-4067-b717-55911a214724

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_commonDen
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.commonDen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:12.000959+00:00
 -- url     : https://prove2.me/theorems/3253ab82-4db5-4cf6-8178-c3e183f84158

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotMeasUniqW_qLift_finite
 -- name    : PI.QuotMeasUniqW.qLift_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:18:30.629566+00:00
 -- url     : https://prove2.me/theorems/c88fc9e9-e722-502b-88ab-984b4b86df6e

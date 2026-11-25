@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_nOp_smul
 -- name    : GlobalTheory.JR.WeilQuad.nOp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:27:26.000531+00:00
 -- url     : https://prove2.me/theorems/ad9ce2fa-468b-57ae-beb0-23a127075a17

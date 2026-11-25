@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_nH_unit
 -- name    : HcInf.nH_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:16:27.867914+00:00
 -- url     : https://prove2.me/theorems/bc8129dd-e3b2-50b9-8d63-378a3b1b69f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_Mdl_ball_sub
 -- name    : PI.SqPairLocal.Mdl.ball_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:33:31.321104+00:00
 -- url     : https://prove2.me/theorems/c8f83758-fc19-4e57-b6d4-eff11de58128

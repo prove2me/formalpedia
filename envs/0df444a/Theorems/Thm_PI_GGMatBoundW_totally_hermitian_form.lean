@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_totally_hermitian_form
 -- name    : PI.GGMatBoundW.totally_hermitian_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:31.579626+00:00
 -- url     : https://prove2.me/theorems/0001c788-73b8-4a66-b008-d8c2f891936d

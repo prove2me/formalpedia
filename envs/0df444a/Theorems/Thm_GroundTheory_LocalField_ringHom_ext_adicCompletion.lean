@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ringHom_ext_adicCompletion
 -- name    : GroundTheory.LocalField.ringHom_ext_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:18:59.152299+00:00
 -- url     : https://prove2.me/theorems/2ab455f3-668b-5f6e-9848-7d3213edbe13

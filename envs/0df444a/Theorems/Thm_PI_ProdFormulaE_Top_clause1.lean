@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Top_clause1
 -- name    : PI.ProdFormulaE.Top.clause1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:33.046276+00:00
 -- url     : https://prove2.me/theorems/85e6274c-2706-4a2b-b98d-416fa10968e3

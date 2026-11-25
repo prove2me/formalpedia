@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_unit_of_not_div
 -- name    : PI.TwNormLat.W.unit_of_not_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:28:51.105033+00:00
 -- url     : https://prove2.me/theorems/9502b998-5051-4d10-b3cb-7ff49ce9f6d2

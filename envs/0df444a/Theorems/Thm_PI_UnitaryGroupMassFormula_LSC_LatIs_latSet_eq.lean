@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LSC_LatIs_latSet_eq
 -- name    : PI.UnitaryGroupMassFormula.LSC.LatIs.latSet_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:07.381719+00:00
 -- url     : https://prove2.me/theorems/d1719ee4-420d-4648-b736-e9735b50c238

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_realUnif
 -- name    : PI.SqPairLocal.realUnif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:25:19.559417+00:00
 -- url     : https://prove2.me/theorems/960d1ee5-d217-540d-a631-8fc281f1fcb8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_Vol_preimage_intMat_eq
 -- name    : GlobalTheory.CompanionTheory.QL.Vol.preimage_intMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:14:26.183652+00:00
 -- url     : https://prove2.me/theorems/50e484df-87d8-5941-8d6b-86399404dcae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_GLatHermW_glatHerm
 -- name    : PI.Dv.GLatHermW.glatHerm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:28:08.702155+00:00
 -- url     : https://prove2.me/theorems/73aadff5-3cb1-467a-80af-0731f5fddfd2

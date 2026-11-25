@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBIdemDen_dualDiff
 -- name    : PI.UnitaryGroupMassFormula.TBIdemDen.dualDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:07.933423+00:00
 -- url     : https://prove2.me/theorems/0f086ea1-cf4e-5b1d-b520-ae5aeedaccb0

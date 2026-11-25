@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CommMult_injStep
 -- name    : PI.UnitaryGroupMassFormula.CommMult.injStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:59.025828+00:00
 -- url     : https://prove2.me/theorems/ada7b0ed-04a0-517d-8ace-77c077cd8e39

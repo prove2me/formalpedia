@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DSIC_jm_isUnit
 -- name    : PI.UnitaryGroupMassFormula.DSIC.jm_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:36.312899+00:00
 -- url     : https://prove2.me/theorems/6a483e58-bf0b-4af4-b136-86df4d8a2174

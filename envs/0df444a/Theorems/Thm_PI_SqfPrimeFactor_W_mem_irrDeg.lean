@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfPrimeFactor_W_mem_irrDeg
 -- name    : PI.SqfPrimeFactor.W.mem_irrDeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:41:19.379416+00:00
 -- url     : https://prove2.me/theorems/a7625b3c-debb-4381-8ec4-e3ae89de1ba3

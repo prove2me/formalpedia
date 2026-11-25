@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfPrimeFactor_W_analytic_of
 -- name    : PI.SqfPrimeFactor.W.analytic_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:27:09.456394+00:00
 -- url     : https://prove2.me/theorems/b1f18654-a2ac-4bd5-8858-715826b930d0

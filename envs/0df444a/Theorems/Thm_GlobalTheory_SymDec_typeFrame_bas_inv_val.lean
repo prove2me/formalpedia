@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymDec_typeFrame_bas_inv_val
 -- name    : GlobalTheory.SymDec.typeFrame_bas_inv_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:17:41.9008+00:00
 -- url     : https://prove2.me/theorems/b02529d5-565d-52d6-8c8c-8ed3be4b9cc9

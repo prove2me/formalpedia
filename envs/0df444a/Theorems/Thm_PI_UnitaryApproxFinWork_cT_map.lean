@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_cT_map
 -- name    : PI.UnitaryApproxFinWork.cT_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:59.861418+00:00
 -- url     : https://prove2.me/theorems/ff92a191-5977-4dc9-b0f2-7a563b6861d1

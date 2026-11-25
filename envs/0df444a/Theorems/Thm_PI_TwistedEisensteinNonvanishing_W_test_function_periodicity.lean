@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_test_function_periodicity
 -- name    : PI.TwistedEisensteinNonvanishing.W.test_function_periodicity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:31:11.439146+00:00
 -- url     : https://prove2.me/theorems/116444d5-65a3-4a53-be25-c0da3528f8a2

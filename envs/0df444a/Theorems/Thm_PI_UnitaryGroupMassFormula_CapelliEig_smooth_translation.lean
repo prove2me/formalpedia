@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CapelliEig_smooth_translation
 -- name    : PI.UnitaryGroupMassFormula.CapelliEig.smooth_translation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:26.943886+00:00
 -- url     : https://prove2.me/theorems/59b952f3-2023-46f5-9d57-bded904b57a0

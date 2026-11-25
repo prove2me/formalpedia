@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_LatticeLocalGlobalTheory_cw_perm
 -- name    : PI.UnitaryCorollaryDerivatives.LatticeLocalGlobalTheory.cw_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:32:54.592771+00:00
 -- url     : https://prove2.me/theorems/8264359b-6c92-53eb-acbf-c818dfd1d461

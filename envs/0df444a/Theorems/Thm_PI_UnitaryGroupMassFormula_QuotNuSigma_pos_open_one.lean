@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QuotNuSigma_pos_open_one
 -- name    : PI.UnitaryGroupMassFormula.QuotNuSigma.pos_open_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:33:02.622417+00:00
 -- url     : https://prove2.me/theorems/7f9b7601-3518-444e-b15b-c3fbaaafbcce

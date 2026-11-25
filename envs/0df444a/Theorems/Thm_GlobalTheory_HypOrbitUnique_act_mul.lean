@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HypOrbitUnique_act_mul
 -- name    : GlobalTheory.HypOrbitUnique.act_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:53:19.927794+00:00
 -- url     : https://prove2.me/theorems/affc6edd-01f3-447b-8ea4-f182282cc92b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_Amat_mul_inv
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.Amat_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:13:33.643547+00:00
 -- url     : https://prove2.me/theorems/1c81747d-75a1-5f24-b5cd-918f78e1ea31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderFull_rot_cons
 -- name    : PI.UnitaryGroupMassFormula.QmBorderFull.rot_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:54.346002+00:00
 -- url     : https://prove2.me/theorems/efe0517e-9001-44c1-8610-3b03caab9dea

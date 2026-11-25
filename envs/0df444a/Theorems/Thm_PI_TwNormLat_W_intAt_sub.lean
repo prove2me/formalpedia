@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_intAt_sub
 -- name    : PI.TwNormLat.W.intAt_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:29:13.187182+00:00
 -- url     : https://prove2.me/theorems/9b2e4545-00b9-4c06-9741-d241c93ccce0

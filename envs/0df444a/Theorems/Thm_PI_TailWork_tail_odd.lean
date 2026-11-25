@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TailWork_tail_odd
 -- name    : PI.TailWork.tail_odd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:41:55.445943+00:00
 -- url     : https://prove2.me/theorems/f7f82903-39f1-4acf-a3af-c00e48751606

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_unitInv_of
 -- name    : PI.RhsWLim.W.unitInv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:32:49.589691+00:00
 -- url     : https://prove2.me/theorems/02284cac-0099-51d3-a9fc-c6f2d8af2ec8

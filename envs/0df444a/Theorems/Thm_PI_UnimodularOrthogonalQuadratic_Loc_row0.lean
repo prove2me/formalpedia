@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnimodularOrthogonalQuadratic_Loc_row0
 -- name    : PI.UnimodularOrthogonalQuadratic.Loc.row0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:12.957791+00:00
 -- url     : https://prove2.me/theorems/e1164b8d-0a22-5d6b-97db-68f6a0252e6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DLm_mainTerm_inv
 -- name    : PI.UnitaryGroupMassFormula.DLm.mainTerm_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:55.028087+00:00
 -- url     : https://prove2.me/theorems/8d52476a-4c7e-4733-bdd5-2aee2ca3606f

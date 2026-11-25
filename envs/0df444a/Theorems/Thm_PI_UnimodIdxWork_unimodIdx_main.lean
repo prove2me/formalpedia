@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnimodIdxWork_unimodIdx_main
 -- name    : PI.UnimodIdxWork.unimodIdx_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:31:08.488745+00:00
 -- url     : https://prove2.me/theorems/6df53853-1871-4344-b9ac-07e4dd3cacce

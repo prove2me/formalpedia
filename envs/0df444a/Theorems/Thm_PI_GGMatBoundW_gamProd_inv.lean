@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GGMatBoundW_gamProd_inv
 -- name    : PI.GGMatBoundW.gamProd_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:28.816802+00:00
 -- url     : https://prove2.me/theorems/f0a91f2b-9232-42ae-97c5-3e457e5730fa

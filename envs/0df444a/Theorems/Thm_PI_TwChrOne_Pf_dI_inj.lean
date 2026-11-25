@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwChrOne_Pf_dI_inj
 -- name    : PI.TwChrOne.Pf.dI_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:25.840872+00:00
 -- url     : https://prove2.me/theorems/a5db99fe-533c-41f2-8ba5-5fea91cd06fb

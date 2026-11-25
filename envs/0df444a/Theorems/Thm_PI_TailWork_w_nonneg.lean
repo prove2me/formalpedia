@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TailWork_w_nonneg
 -- name    : PI.TailWork.w_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:50.439597+00:00
 -- url     : https://prove2.me/theorems/ba70782e-0d26-597a-8be9-8e3f786b9c75

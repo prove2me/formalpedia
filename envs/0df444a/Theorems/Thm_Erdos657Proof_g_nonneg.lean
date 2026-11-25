@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos657Proof_g_nonneg
 -- name    : Erdos657Proof.g_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:21:29.704806+00:00
 -- url     : https://prove2.me/theorems/66d5336a-5842-413c-ad3d-3aab1c58c214

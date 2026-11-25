@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_sigV_incL
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.sigV_incL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:40:24.913047+00:00
 -- url     : https://prove2.me/theorems/e643b79e-e92c-4b68-b5ff-4cd32b5ed1ba

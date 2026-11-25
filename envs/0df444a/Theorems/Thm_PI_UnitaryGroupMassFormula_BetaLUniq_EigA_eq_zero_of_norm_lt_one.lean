@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BetaLUniq_EigA_eq_zero_of_norm_lt_one
 -- name    : PI.UnitaryGroupMassFormula.BetaLUniq.EigA.eq_zero_of_norm_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:24.218043+00:00
 -- url     : https://prove2.me/theorems/0683f683-3ae5-42b4-9b2c-dd3ddcc2b742

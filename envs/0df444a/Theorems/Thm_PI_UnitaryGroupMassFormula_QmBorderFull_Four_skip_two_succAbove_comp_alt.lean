@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderFull_Four_skip_two_succAbove_comp_alt
 -- name    : PI.UnitaryGroupMassFormula.QmBorderFull.Four.skip_two_succAbove_comp_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:40:05.754439+00:00
 -- url     : https://prove2.me/theorems/42274707-80a9-4b3e-8669-3cf12cf4d01d

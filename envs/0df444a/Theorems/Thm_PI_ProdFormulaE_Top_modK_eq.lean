@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Top_modK_eq
 -- name    : PI.ProdFormulaE.Top.modK_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:32.610663+00:00
 -- url     : https://prove2.me/theorems/4d851aea-6bd9-4cf6-bf60-6a8f472d0873

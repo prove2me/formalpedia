@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_chainsEndingAt_nonempty
 -- name    : DilworthTheorem.chainsEndingAt_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:59:02.641419+00:00
 -- url     : https://prove2.me/theorems/670dd7e9-b70e-4d79-a5f8-a0db270fdd14

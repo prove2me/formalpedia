@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_ideal_mono
 -- name    : F6ConvexWindow.ideal_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:01:49.346861+00:00
 -- url     : https://prove2.me/theorems/efdb0d7e-6e78-5585-80b1-2c498d49879b

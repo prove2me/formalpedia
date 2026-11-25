@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnipApproxD_IntegersDenseFiniteAdeles_exists_small_finset
 -- name    : PI.UnipApproxD.IntegersDenseFiniteAdeles.exists_small_finset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:14.751838+00:00
 -- url     : https://prove2.me/theorems/3bf830ff-703b-5947-9085-ca1cee8154fe

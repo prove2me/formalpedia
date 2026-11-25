@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Tr_gaussStep
 -- name    : PI.Tr.gaussStep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:42:27.974865+00:00
 -- url     : https://prove2.me/theorems/ce51d532-e263-424e-aff6-06e307ff6c87

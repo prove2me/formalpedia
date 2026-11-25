@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_unfolding_matrix_sub
 -- name    : PI.TwistedEisensteinNonvanishing.W.unfolding_matrix_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:30:05.954146+00:00
 -- url     : https://prove2.me/theorems/21f99787-4ec8-4c3a-a296-96cc83f96565

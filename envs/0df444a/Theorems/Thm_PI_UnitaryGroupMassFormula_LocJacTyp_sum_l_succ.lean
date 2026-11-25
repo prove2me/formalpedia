@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_sum_l_succ
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.sum_l_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:32:38.502794+00:00
 -- url     : https://prove2.me/theorems/78505d00-2686-4331-9361-68d47b2c1848

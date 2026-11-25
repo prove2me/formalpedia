@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_LiftW_notMem_vars_embS
 -- name    : PI.TOW.LiftW.notMem_vars_embS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:49.54925+00:00
 -- url     : https://prove2.me/theorems/211c3905-ead7-4a8d-a44a-04bedc7704d3

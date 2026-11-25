@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_coe_unipotentCompact
 -- name    : GroundTheory.Automorphic.Parabolic.coe_unipotentCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:09:16.971992+00:00
 -- url     : https://prove2.me/theorems/2ccb42bf-d7d3-4fcd-91fb-9a005e41df41

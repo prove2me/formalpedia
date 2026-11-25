@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnfoldEquiv_UnitaryGroupMassFormula_extractFree_fillMatrix
 -- name    : PI.UnfoldEquiv.UnitaryGroupMassFormula.extractFree_fillMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:31:03.130294+00:00
 -- url     : https://prove2.me/theorems/948853f9-f825-5f90-94a4-86d9a534dd61

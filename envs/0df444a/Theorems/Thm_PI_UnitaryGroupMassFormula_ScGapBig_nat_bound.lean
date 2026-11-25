@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScGapBig_nat_bound
 -- name    : PI.UnitaryGroupMassFormula.ScGapBig.nat_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:33:01.205482+00:00
 -- url     : https://prove2.me/theorems/97c1a48e-23b9-4e5e-90f9-86612509d07c

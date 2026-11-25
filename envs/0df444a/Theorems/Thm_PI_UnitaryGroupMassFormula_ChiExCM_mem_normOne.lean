@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ChiExCM_mem_normOne
 -- name    : PI.UnitaryGroupMassFormula.ChiExCM.mem_normOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:17.388134+00:00
 -- url     : https://prove2.me/theorems/b7922daa-abeb-43dd-b89f-12c375d9a686

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_isMaximal_comap_cj
 -- name    : PI.SqPairLocal.isMaximal_comap_cj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:24:19.524184+00:00
 -- url     : https://prove2.me/theorems/50a13370-589e-4977-b163-f27622a8b14d

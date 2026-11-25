@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TrDualLocW_mem_S_of_pow
 -- name    : PI.TrDualLocW.mem_S_of_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:26.623015+00:00
 -- url     : https://prove2.me/theorems/aa53fc7f-485c-42b7-ad7f-74129b7fbb86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_LiftW_opWord_liftW
 -- name    : PI.TOW.LiftW.opWord_liftW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:30.469576+00:00
 -- url     : https://prove2.me/theorems/80bf5a26-1688-4e87-b363-e92cfef332c2

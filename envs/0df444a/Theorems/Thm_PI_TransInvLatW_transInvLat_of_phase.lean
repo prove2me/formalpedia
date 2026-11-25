@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TransInvLatW_transInvLat_of_phase
 -- name    : PI.TransInvLatW.transInvLat_of_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:33.528806+00:00
 -- url     : https://prove2.me/theorems/060a058b-181c-4a0f-90de-91a472e71889

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Measures_integral_mul_prod_eq
 -- name    : GroundTheory.Automorphic.Measures.integral_mul_prod_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:08:07.885288+00:00
 -- url     : https://prove2.me/theorems/f74e6350-cc9d-5019-9df1-2e3072fd10ca

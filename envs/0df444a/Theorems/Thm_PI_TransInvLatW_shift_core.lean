@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TransInvLatW_shift_core
 -- name    : PI.TransInvLatW.shift_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:04.139837+00:00
 -- url     : https://prove2.me/theorems/aa960b46-9c3c-5e7a-8c90-d57d14add942

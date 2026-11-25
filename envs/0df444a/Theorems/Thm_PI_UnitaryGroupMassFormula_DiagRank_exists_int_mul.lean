@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DiagRank_exists_int_mul
 -- name    : PI.UnitaryGroupMassFormula.DiagRank.exists_int_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:37:58.277256+00:00
 -- url     : https://prove2.me/theorems/7b09dc8e-d25e-59f7-ad23-cf37b0bd530c

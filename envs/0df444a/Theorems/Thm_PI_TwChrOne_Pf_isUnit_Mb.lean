@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwChrOne_Pf_isUnit_Mb
 -- name    : PI.TwChrOne.Pf.isUnit_Mb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:37:30.278225+00:00
 -- url     : https://prove2.me/theorems/e40ebf6a-6d0c-46cb-895c-9af4f6c08a83

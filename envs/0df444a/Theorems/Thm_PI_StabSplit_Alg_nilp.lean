@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_Alg_nilp
 -- name    : PI.StabSplit.Alg.nilp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:14.58798+00:00
 -- url     : https://prove2.me/theorems/81ede60a-88eb-4ee6-870d-ea1b19c7e150

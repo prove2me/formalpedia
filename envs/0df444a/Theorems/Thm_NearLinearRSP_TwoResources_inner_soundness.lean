@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NearLinearRSP_TwoResources_inner_soundness
 -- name    : NearLinearRSP.TwoResources.inner_soundness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-11-08T10:25:41.159635+00:00
 -- url     : https://prove2.me/theorems/dcba182e-2e2d-4b05-9ef2-425cfa73a89d

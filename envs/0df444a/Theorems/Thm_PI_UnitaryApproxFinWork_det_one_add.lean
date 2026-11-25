@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_det_one_add
 -- name    : PI.UnitaryApproxFinWork.det_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:31:07.704634+00:00
 -- url     : https://prove2.me/theorems/435563aa-18c2-4af9-87aa-6d80c474fb54

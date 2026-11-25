@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_good_scal
 -- name    : PI.SqPairLocal.good_scal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:25:13.522971+00:00
 -- url     : https://prove2.me/theorems/b3ab5d68-9e12-4c86-8c0d-148a60b7e4f3

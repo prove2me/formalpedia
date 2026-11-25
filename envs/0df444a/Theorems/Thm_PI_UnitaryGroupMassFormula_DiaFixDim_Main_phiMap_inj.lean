@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DiaFixDim_Main_phiMap_inj
 -- name    : PI.UnitaryGroupMassFormula.DiaFixDim.Main.phiMap_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:24.074137+00:00
 -- url     : https://prove2.me/theorems/6e7318e9-5972-44e2-a5c3-064ff67fb1d3

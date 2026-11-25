@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_prefixLe_iff_exists
 -- name    : GroundTheory.PAdicHodge.TeichLift.prefixLe_iff_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:06.436529+00:00
 -- url     : https://prove2.me/theorems/a0ec99e2-118b-4d7b-8aa8-59816040a4ab

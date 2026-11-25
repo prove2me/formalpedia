@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CubeRelationOfParallelogram_isIntegralAt_neg
 -- name    : PI.UnitaryGroupMassFormula.CubeRelationOfParallelogram.isIntegralAt_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:44.832562+00:00
 -- url     : https://prove2.me/theorems/e1c9275e-1551-42a1-82b3-bc354588c1a4

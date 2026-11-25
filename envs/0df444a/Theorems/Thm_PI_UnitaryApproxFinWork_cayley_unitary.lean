@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_cayley_unitary
 -- name    : PI.UnitaryApproxFinWork.cayley_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:31:28.459566+00:00
 -- url     : https://prove2.me/theorems/7c2a5320-b3f9-47ec-8fab-e5edecf59093

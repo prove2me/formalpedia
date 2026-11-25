@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_DjC_mem_range_eR
 -- name    : PI.UnitaryCorollaryDerivatives.DjC.mem_range_eR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:45.460171+00:00
 -- url     : https://prove2.me/theorems/9084a4d0-2b03-4666-a92a-6eb6cff62d88

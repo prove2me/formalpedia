@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_G2_jK___31df43c09a0f
 -- name    : P2M_Formalism_L2_SG_Pf_G2_jK___31df43c09a0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:28:35.444467+00:00
 -- url     : https://prove2.me/theorems/a16054f9-4553-51df-9ba2-5597fd94bae3

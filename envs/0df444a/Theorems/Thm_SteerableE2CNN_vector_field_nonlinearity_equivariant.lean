@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteerableE2CNN_vector_field_nonlinearity_equivariant
 -- name    : SteerableE2CNN.vector_field_nonlinearity_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:40:36.354363+00:00
 -- url     : https://prove2.me/theorems/fb6f45ff-f2d8-4a9a-a355-24e31dc06991

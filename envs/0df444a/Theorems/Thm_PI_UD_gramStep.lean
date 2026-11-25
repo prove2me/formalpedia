@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UD_gramStep
 -- name    : PI.UD.gramStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:38.383226+00:00
 -- url     : https://prove2.me/theorems/82cdf717-d24e-4655-ac9b-42c09a104d3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_combL_single
 -- name    : PI.TwNormLat.W.combL_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:28.547183+00:00
 -- url     : https://prove2.me/theorems/8dc7825f-2db0-4d7b-ba29-24aa1d3b1f7e

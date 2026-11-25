@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SwBig_BigCellGProof_conjTranspose_mul_mul_monomial
 -- name    : PI.SwBig.BigCellGProof.conjTranspose_mul_mul_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:32:18.821268+00:00
 -- url     : https://prove2.me/theorems/0e9e3233-0cad-4ad4-9051-42b3ddb7c361
