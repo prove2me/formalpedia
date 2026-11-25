@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongGrp_exists_pow_mul_mem
 -- name    : GlobalTheory.CongGrp.exists_pow_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:33:12.928186+00:00
 -- url     : https://prove2.me/theorems/c1a4e1c8-4734-49e0-80cf-72bf54f758dc

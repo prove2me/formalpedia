@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mulShift_ne_one
 -- name    : GroundTheory.LocalField.mulShift_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:31:53.113591+00:00
 -- url     : https://prove2.me/theorems/2617dc00-0414-451a-88b7-1adabe60c5d6

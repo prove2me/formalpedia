@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_lead_last
 -- name    : GlobalTheory.HL.Model.lead_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:52.10387+00:00
 -- url     : https://prove2.me/theorems/77c71b79-93dd-56de-b2b5-167793bc59f6

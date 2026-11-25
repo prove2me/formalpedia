@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_not_mem_sClosure_diff_of_relativeSplitInjective
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.not_mem_sClosure_diff_of_relativeSplitInjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:15:11.393888+00:00
 -- url     : https://prove2.me/theorems/103215a1-5384-4081-9fd0-5706296d7f66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_ncard_depSet_idem_le
 -- name    : GlobalTheory.GramCount.ncard_depSet_idem_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:21:10.268819+00:00
 -- url     : https://prove2.me/theorems/4d39d8b7-b3db-475f-986b-71a857cd6444

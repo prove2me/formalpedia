@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitIdx_exists_mul
 -- name    : GlobalTheory.DegCnt.SplitIdx.exists_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:42:54.69369+00:00
 -- url     : https://prove2.me/theorems/a7658c8b-e64d-4ee4-a29c-48d87fce295d

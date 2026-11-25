@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_prop_of_prop_cokernel_reject
 -- name    : PretorsionImageClosed.Statement.prop_of_prop_cokernel_reject
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:59:13.432357+00:00
 -- url     : https://prove2.me/theorems/57151a93-876c-40ed-a570-c50c880e0a1b

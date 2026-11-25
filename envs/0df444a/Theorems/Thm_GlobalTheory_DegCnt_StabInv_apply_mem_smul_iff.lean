@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_apply_mem_smul_iff
 -- name    : GlobalTheory.DegCnt.StabInv.apply_mem_smul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:33:10.538903+00:00
 -- url     : https://prove2.me/theorems/1ad8d7ee-17fe-54fd-b093-56a364374db6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenSect_quotient_generic_section_field
 -- name    : Formalism.L2.Pj.GenSect.quotient_generic_section_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:37:48.619939+00:00
 -- url     : https://prove2.me/theorems/575ac328-9bc9-5292-a6ea-187c7d86ec1e

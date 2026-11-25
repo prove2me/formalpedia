@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_block3_apply_embedding
 -- name    : Formalism.FourierDecayAlt.P.block3_apply_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:12:55.62797+00:00
 -- url     : https://prove2.me/theorems/ff3bd9e8-99da-47d6-8695-4ce3b7537c6c

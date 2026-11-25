@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_Ann_contDiffOn_bet
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.Ann.contDiffOn_bet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:22:46.86855+00:00
 -- url     : https://prove2.me/theorems/497f3e51-9f56-5f3f-93c4-1a3f7a0c9b1b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_scaleS_PBs
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.scaleS_PBs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:19:37.836613+00:00
 -- url     : https://prove2.me/theorems/a7479dd0-0fef-484d-8bea-c3656e0b184b

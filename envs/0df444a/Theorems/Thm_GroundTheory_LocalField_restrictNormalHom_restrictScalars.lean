@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_restrictNormalHom_restrictScalars
 -- name    : GroundTheory.LocalField.restrictNormalHom_restrictScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:34:54.953249+00:00
 -- url     : https://prove2.me/theorems/24782a78-0cfc-4083-9152-746897714810

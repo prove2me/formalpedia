@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_levi_apply
 -- name    : GlobalTheory.DegCnt.LiftS.levi_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:24:26.979658+00:00
 -- url     : https://prove2.me/theorems/94eb301b-c407-4378-8d87-628030956a9e

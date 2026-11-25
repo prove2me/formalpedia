@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GlueInt_nontrivial_Ep
 -- name    : GlobalTheory.HL.GlueInt.nontrivial_Ep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:39:29.820213+00:00
 -- url     : https://prove2.me/theorems/38cf2418-2d33-4263-adfb-c5b57ded29a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_DM_factor
 -- name    : CompanionTheory.DM.factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:14:56.408459+00:00
 -- url     : https://prove2.me/theorems/549437ee-f1c9-4958-a223-81c49d5e1764

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_spanTo_eq
 -- name    : GlobalTheory.HL.Inhab.spanTo_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:32.868783+00:00
 -- url     : https://prove2.me/theorems/f107099a-3948-42c9-8d26-fc1addfaadc2

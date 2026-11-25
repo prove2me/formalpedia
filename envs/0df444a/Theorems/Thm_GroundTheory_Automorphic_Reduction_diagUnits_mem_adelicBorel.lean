@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_diagUnits_mem_adelicBorel
 -- name    : GroundTheory.Automorphic.Reduction.diagUnits_mem_adelicBorel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:23:35.652967+00:00
 -- url     : https://prove2.me/theorems/24ff758c-b20b-5721-86a8-ca1a55a6ffae

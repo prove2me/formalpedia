@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_brauerFun_mem_spanA
 -- name    : GroundTheory.LocalField.brauerFun_mem_spanA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:27:00.624009+00:00
 -- url     : https://prove2.me/theorems/5e3c6a14-b866-5835-b05d-06d55c22caaa

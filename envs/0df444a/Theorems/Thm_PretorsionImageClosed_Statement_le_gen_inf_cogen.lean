@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_le_gen_inf_cogen
 -- name    : PretorsionImageClosed.Statement.le_gen_inf_cogen
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:49:09.579805+00:00
 -- url     : https://prove2.me/theorems/dad6f2cb-a116-4e23-a0e3-9115730c41e5

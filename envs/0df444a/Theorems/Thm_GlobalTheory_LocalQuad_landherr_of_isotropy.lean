@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalQuad_landherr_of_isotropy
 -- name    : GlobalTheory.LocalQuad.landherr_of_isotropy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:13:50.622661+00:00
 -- url     : https://prove2.me/theorems/8883eb9c-62a1-4fe5-84ab-3892c5557281

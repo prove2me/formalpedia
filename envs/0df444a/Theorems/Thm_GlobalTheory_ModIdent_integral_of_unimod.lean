@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_integral_of_unimod
 -- name    : GlobalTheory.ModIdent.integral_of_unimod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:20:16.384881+00:00
 -- url     : https://prove2.me/theorems/94ea321a-c0f6-5e0b-b3d7-05594ef55539

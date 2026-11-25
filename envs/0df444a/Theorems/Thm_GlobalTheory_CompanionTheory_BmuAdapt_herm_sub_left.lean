@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuAdapt_herm_sub_left
 -- name    : GlobalTheory.CompanionTheory.BmuAdapt.herm_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:40:14.223747+00:00
 -- url     : https://prove2.me/theorems/b0d61d53-7fa2-5113-bab1-7c86026d50de

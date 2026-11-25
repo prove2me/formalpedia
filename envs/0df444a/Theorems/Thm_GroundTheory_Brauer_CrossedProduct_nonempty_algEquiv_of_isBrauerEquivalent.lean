@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_nonempty_algEquiv_of_isBrauerEquivalent
 -- name    : GroundTheory.Brauer.CrossedProduct.nonempty_algEquiv_of_isBrauerEquivalent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:16:15.018802+00:00
 -- url     : https://prove2.me/theorems/47084d02-191f-432c-96a5-9ba1fc99a43a

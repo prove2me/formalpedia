@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_EndoZ_wp_logDeriv
 -- name    : Formalism.L2.Th1.F.EndoZ.wp_logDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:41:46.052799+00:00
 -- url     : https://prove2.me/theorems/6a086a90-7942-4a51-b218-977e0aa3679d

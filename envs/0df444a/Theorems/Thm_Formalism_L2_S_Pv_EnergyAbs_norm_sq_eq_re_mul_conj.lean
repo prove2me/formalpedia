@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_norm_sq_eq_re_mul_conj
 -- name    : Formalism.L2.S.Pv.EnergyAbs.norm_sq_eq_re_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:46.359271+00:00
 -- url     : https://prove2.me/theorems/fbdc9ece-3937-4d1e-8030-d2e82cc91898

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_padicLog_mem_valBall_of_mem
 -- name    : GroundTheory.LocalField.padicLog_mem_valBall_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:19:37.833298+00:00
 -- url     : https://prove2.me/theorems/ee39a31f-af64-4c5c-adc7-ded49a8d724e

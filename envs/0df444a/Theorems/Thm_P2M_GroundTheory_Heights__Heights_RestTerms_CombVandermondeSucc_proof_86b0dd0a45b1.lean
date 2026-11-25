@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombVandermondeSucc_proof_86b0dd0a45b1
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombVandermondeSucc_proof_86b0dd0a45b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:39:09.153545+00:00
 -- url     : https://prove2.me/theorems/e91ff54b-367d-57f2-a004-efcf0d1ecb31

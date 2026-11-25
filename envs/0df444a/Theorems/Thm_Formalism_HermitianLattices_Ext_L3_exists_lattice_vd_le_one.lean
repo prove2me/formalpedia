@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_lattice_vd_le_one
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_lattice_vd_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:58:34.935144+00:00
 -- url     : https://prove2.me/theorems/3e30a596-070d-43f4-8afc-69bfec1e22c3

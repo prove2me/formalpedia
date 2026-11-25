@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_stalkLinear_add
 -- name    : GlobalTheory.QCoh.stalkLinear_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:39:41.4491+00:00
 -- url     : https://prove2.me/theorems/ee205632-e4c3-42f9-871d-0b310d0aeb8c

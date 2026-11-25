@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SurjectiveClosed_twist_twist_comm_258ec9aa9489
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SurjectiveClosed_twist_twist_comm_258ec9aa9489
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:23:05.470854+00:00
 -- url     : https://prove2.me/theorems/ac4f4954-9f4c-5011-9a67-f8346d1b963e

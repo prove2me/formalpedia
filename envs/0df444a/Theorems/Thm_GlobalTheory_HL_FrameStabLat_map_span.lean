@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameStabLat_map_span
 -- name    : GlobalTheory.HL.FrameStabLat.map_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:39:23.500959+00:00
 -- url     : https://prove2.me/theorems/ea86c48e-1f45-4425-aa45-063171ab95ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_integral_inner_mul_inner_eq_norm_sq_div
 -- name    : Formalism.L2.S.Pv.EnergyAbs.integral_inner_mul_inner_eq_norm_sq_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:24:49.703492+00:00
 -- url     : https://prove2.me/theorems/8793b4ed-c56d-5cff-a2bf-b0743dc74554

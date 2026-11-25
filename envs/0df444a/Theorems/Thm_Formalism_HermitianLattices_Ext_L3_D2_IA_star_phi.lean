@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_IA_star_phi
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.IA.star_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:00:49.748808+00:00
 -- url     : https://prove2.me/theorems/02a14b2c-4cd2-4950-b6e3-9e62a3887314

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_act_fix
 -- name    : GlobalTheory.Cyc.TateS.act_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:21:22.998679+00:00
 -- url     : https://prove2.me/theorems/5eb6c651-af70-4220-9169-b562ca52c23a

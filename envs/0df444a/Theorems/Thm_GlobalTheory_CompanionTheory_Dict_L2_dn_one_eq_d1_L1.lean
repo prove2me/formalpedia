@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dict_L2_dn_one_eq_d1_L1
 -- name    : GlobalTheory.CompanionTheory.Dict.L2_dn_one_eq_d1_L1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:57:53.831238+00:00
 -- url     : https://prove2.me/theorems/15eeb768-6d2a-527a-b4f9-0b8982f9c3de

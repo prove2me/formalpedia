@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_vE_pow
 -- name    : GlobalTheory.HL.Model.vE_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:11.403255+00:00
 -- url     : https://prove2.me/theorems/079b7a05-1d1e-410d-a294-edf6250add31

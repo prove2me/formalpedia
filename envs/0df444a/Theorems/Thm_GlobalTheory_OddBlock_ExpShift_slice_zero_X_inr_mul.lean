@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_slice_zero_X_inr_mul
 -- name    : GlobalTheory.OddBlock.ExpShift.slice_zero_X_inr_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:34:34.806327+00:00
 -- url     : https://prove2.me/theorems/bcf89e08-14a2-45d7-9fc7-828b8dc51449

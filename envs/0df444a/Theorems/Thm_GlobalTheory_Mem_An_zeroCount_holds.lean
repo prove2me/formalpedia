@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_An_zeroCount_holds
 -- name    : GlobalTheory.Mem.An.zeroCount_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:21:59.488644+00:00
 -- url     : https://prove2.me/theorems/ba3874c9-1e22-48d1-9890-4d5d0673f3f4

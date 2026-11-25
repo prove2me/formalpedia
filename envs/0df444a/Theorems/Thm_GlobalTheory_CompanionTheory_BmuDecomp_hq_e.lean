@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuDecomp_hq_e
 -- name    : GlobalTheory.CompanionTheory.BmuDecomp.hq_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:39:52.513115+00:00
 -- url     : https://prove2.me/theorems/e73d3815-df27-58c6-8ee3-4111c24fccb3

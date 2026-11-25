@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_injective_of_isBaseChange_of_flat
 -- name    : GlobalTheory.QCoh.injective_of_isBaseChange_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:02:55.338719+00:00
 -- url     : https://prove2.me/theorems/1e50db2d-d82d-4305-aa6a-4ba38c9c5e57

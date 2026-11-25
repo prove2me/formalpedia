@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateTest_htSpan_gm
 -- name    : GlobalTheory.HodgeTateTest.htSpan_gm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:55:45.89406+00:00
 -- url     : https://prove2.me/theorems/570068de-59fe-4cf2-a295-28f0186b5d77

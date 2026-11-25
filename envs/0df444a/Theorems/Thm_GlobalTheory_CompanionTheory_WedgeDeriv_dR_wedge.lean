@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeDeriv_dR_wedge
 -- name    : GlobalTheory.CompanionTheory.WedgeDeriv.dR_wedge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:24:35.446597+00:00
 -- url     : https://prove2.me/theorems/5dc4293b-7e5b-5fe0-bfda-f1441eff6aa6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_den_core
 -- name    : CompanionTheory.WaveGrid.den_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:26:10.078971+00:00
 -- url     : https://prove2.me/theorems/c58373a5-9706-4603-9239-13b9c91f9c13

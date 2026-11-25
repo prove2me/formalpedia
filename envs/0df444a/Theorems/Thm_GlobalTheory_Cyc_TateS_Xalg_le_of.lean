@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_Xalg_le_of
 -- name    : GlobalTheory.Cyc.TateS.Xalg_le_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:13:30.277349+00:00
 -- url     : https://prove2.me/theorems/6816ba5c-b269-5aba-a772-32d8357caa25

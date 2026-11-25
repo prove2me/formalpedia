@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_integral_kG
 -- name    : Formalism.L2.S.Pv.EnergyAbs.integral_kG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:24:51.054127+00:00
 -- url     : https://prove2.me/theorems/2bab9363-6f93-48ad-991f-bd25fb1d4ac8

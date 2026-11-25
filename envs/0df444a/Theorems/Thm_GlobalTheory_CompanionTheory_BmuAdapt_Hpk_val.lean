@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuAdapt_Hpk_val
 -- name    : GlobalTheory.CompanionTheory.BmuAdapt.Hpk_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:37:17.60404+00:00
 -- url     : https://prove2.me/theorems/174bb945-4540-419d-9dfe-1d361306f253

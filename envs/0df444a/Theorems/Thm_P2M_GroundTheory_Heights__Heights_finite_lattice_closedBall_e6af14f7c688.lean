@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finite_lattice_closedBall_e6af14f7c688
 -- name    : P2M_GroundTheory_Heights__Heights_finite_lattice_closedBall_e6af14f7c688
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:23:48.339095+00:00
 -- url     : https://prove2.me/theorems/191fb41f-253a-4517-a5dc-07707befb59e

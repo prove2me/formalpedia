@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Compl_gen_glue
 -- name    : GlobalTheory.DegCnt.Compl.gen_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:17:20.923914+00:00
 -- url     : https://prove2.me/theorems/8dd11dfe-1ae5-5ecc-a8d9-3e05e5b310dd

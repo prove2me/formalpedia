@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_normalForm_baseLattice_le_dualSpan_sup_line
 -- name    : GlobalTheory.DegCnt.LiftS.normalForm_baseLattice_le_dualSpan_sup_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:23:52.320784+00:00
 -- url     : https://prove2.me/theorems/27789439-fe12-49f8-9d11-ac2e226df082

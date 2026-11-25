@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_Ph_re_conj_fderiv
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.Ph.re_conj_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:13:01.564904+00:00
 -- url     : https://prove2.me/theorems/175e195e-f58f-56fa-b214-50144f3eba70

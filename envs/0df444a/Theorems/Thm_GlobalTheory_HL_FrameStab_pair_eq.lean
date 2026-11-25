@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameStab_pair_eq
 -- name    : GlobalTheory.HL.FrameStab.pair_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:39:20.262942+00:00
 -- url     : https://prove2.me/theorems/ac29b0f7-cfd4-4834-8aa0-f1ec563b9fd7

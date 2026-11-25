@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_vonMangoldtAP_nonneg
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.vonMangoldtAP_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:41:58.748279+00:00
 -- url     : https://prove2.me/theorems/2b3ef18f-cd87-47d4-8ffb-aebe60de6eda

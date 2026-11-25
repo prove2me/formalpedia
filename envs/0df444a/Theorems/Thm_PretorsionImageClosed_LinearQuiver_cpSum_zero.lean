@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_cpSum_zero
 -- name    : PretorsionImageClosed.LinearQuiver.cpSum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:47:14.731832+00:00
 -- url     : https://prove2.me/theorems/276227f2-ab9e-5e6e-bdf2-ae308ee78e99

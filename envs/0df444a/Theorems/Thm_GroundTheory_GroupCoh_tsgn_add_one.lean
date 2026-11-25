@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tsgn_add_one
 -- name    : GroundTheory.GroupCoh.tsgn_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:33:34.971876+00:00
 -- url     : https://prove2.me/theorems/850a563d-b238-5f86-8e34-131f988a6339

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_twist_sub_46528efab20e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_twist_sub_46528efab20e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:33:12.710831+00:00
 -- url     : https://prove2.me/theorems/f31f6a3a-9a70-57df-9979-e88ddb485f2f

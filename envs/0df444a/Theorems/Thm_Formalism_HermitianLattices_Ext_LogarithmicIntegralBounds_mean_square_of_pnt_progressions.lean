@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_LogarithmicIntegralBounds_mean_square_of_pnt_progressions
 -- name    : Formalism.HermitianLattices.Ext.LogarithmicIntegralBounds.mean_square_of_pnt_progressions
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:56:39.57771+00:00
 -- url     : https://prove2.me/theorems/0c1abd5d-83ec-4b90-ac8f-f9e4b32179e6

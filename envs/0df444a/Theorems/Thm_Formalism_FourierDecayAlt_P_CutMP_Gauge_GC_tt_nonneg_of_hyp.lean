@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_tt_nonneg_of_hyp
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.tt_nonneg_of_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:08:27.191164+00:00
 -- url     : https://prove2.me/theorems/746f3690-dd4b-4ee7-b71d-c29df1341848

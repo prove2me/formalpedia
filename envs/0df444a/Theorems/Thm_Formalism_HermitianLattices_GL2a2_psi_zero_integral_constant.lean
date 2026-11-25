@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2a2_psi_zero_integral_constant
 -- name    : Formalism.HermitianLattices.GL2a2.psi_zero_integral_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:21.918316+00:00
 -- url     : https://prove2.me/theorems/d008f94e-05a1-4f73-b966-02c300a12bfe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_cnt_le
 -- name    : Formalism.L2.S.Pv.EnergyAbs.cnt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:24:47.776044+00:00
 -- url     : https://prove2.me/theorems/b462df20-a094-462c-ae9b-40431323e974

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_th_split
 -- name    : Formalism.L2.Th1.H.th_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:47.720485+00:00
 -- url     : https://prove2.me/theorems/3440c7e4-d231-4b21-81fc-d1c5d383d829

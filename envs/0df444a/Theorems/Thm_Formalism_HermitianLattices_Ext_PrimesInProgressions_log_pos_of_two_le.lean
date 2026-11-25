@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_log_pos_of_two_le
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.log_pos_of_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:36:40.661875+00:00
 -- url     : https://prove2.me/theorems/3aa5cb2a-07d6-48ad-ad96-8e5c8686d595

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Witt_perp_perp
 -- name    : GlobalTheory.Mass.Witt.perp_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:01:50.611802+00:00
 -- url     : https://prove2.me/theorems/6eb3b971-ce24-5055-bfd1-deb08a85d2a4

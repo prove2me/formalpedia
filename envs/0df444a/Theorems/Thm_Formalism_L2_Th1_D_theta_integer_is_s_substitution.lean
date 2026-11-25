@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_theta_integer_is_s_substitution
 -- name    : Formalism.L2.Th1.D.theta_integer_is_s_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:14:12.617213+00:00
 -- url     : https://prove2.me/theorems/05fafb28-0efe-55c4-815f-2a07f4c89d97

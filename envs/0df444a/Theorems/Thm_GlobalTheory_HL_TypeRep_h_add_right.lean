@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TypeRep_h_add_right
 -- name    : GlobalTheory.HL.TypeRep.h_add_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:15:48.147448+00:00
 -- url     : https://prove2.me/theorems/303c8692-aff8-5405-9004-f44f4bdd1eaf

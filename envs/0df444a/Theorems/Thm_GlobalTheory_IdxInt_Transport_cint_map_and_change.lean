@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Transport_cint_map_and_change
 -- name    : GlobalTheory.IdxInt.Transport.cint_map_and_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:39:51.264883+00:00
 -- url     : https://prove2.me/theorems/aa34ac87-ce1e-4bbe-8e11-62837a032db1

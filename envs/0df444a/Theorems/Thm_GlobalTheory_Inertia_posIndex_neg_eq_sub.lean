@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_neg_eq_sub
 -- name    : GlobalTheory.Inertia.posIndex_neg_eq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:28.73713+00:00
 -- url     : https://prove2.me/theorems/3de9ccc8-5dd1-4ca8-a548-f6bdd2732de7

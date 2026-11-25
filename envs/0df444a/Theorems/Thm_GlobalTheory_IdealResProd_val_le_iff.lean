@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdealResProd_val_le_iff
 -- name    : GlobalTheory.IdealResProd.val_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:40:19.046255+00:00
 -- url     : https://prove2.me/theorems/e9419e32-0792-55a2-b90c-eecc5df9561d

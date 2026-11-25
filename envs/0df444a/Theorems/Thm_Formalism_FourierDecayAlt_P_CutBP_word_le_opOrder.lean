@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_word_le_opOrder
 -- name    : Formalism.FourierDecayAlt.P.CutBP.word_le_opOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:21:41.376071+00:00
 -- url     : https://prove2.me/theorems/d364d6ee-7dca-563a-9964-d2a74daa676c

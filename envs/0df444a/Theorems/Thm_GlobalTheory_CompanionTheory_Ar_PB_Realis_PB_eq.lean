@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_PB_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.PB_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:31.474778+00:00
 -- url     : https://prove2.me/theorems/71c186cc-376a-4c67-ac32-2dbf524adfd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_isSD_stdLat
 -- name    : GlobalTheory.HL.Inhab.isSD_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:34:15.7077+00:00
 -- url     : https://prove2.me/theorems/b66bf389-a539-47d2-9e30-400044ec1392

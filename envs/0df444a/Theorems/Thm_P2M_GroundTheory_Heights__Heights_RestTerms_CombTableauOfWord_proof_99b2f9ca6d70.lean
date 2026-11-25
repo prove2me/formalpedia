@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombTableauOfWord_proof_99b2f9ca6d70
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombTableauOfWord_proof_99b2f9ca6d70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:33:24.702798+00:00
 -- url     : https://prove2.me/theorems/77c6ba92-1461-458f-87a5-83ee0b246062

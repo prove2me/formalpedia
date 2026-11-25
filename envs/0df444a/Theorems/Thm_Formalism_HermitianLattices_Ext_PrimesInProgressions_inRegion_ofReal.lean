@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_inRegion_ofReal
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.inRegion_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:27:14.500487+00:00
 -- url     : https://prove2.me/theorems/d6ab5baf-d83f-5526-8fad-fd93076a17b2

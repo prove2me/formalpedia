@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_splitMono_of_not_mem_sClosure_diff
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.splitMono_of_not_mem_sClosure_diff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:14:41.315987+00:00
 -- url     : https://prove2.me/theorems/e8ed18c1-ac61-4381-a815-bb676556b0d5

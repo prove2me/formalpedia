@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_SupplyAP_psiAPLowerOf
 -- name    : Formalism.HermitianLattices.Ext.SupplyAP.psiAPLowerOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:02:02.27445+00:00
 -- url     : https://prove2.me/theorems/9f089a96-21c8-4625-a29d-9c3e1c125b16

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_eq_nonMonomialFactorIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.eq_nonMonomialFactorIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:25:31.451862+00:00
 -- url     : https://prove2.me/theorems/c59e6bd1-2be1-4141-9a4c-d52270c61382

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_gram_mulVec
 -- name    : GlobalTheory.HermOrthBasis.gram_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:15:02.905864+00:00
 -- url     : https://prove2.me/theorems/efe78228-9643-4810-ad03-268686b61b18

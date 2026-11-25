@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalizedQuantileRegression_quantile_exchangeability
 -- name    : ConformalizedQuantileRegression.quantile_exchangeability
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:40:25.652279+00:00
 -- url     : https://prove2.me/theorems/2ad22fe7-ad0c-4944-bfe3-6b2930169b59

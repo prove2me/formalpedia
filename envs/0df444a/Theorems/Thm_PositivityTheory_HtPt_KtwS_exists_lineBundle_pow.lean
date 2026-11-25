@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_HtPt_KtwS_exists_lineBundle_pow
 -- name    : PositivityTheory.HtPt.KtwS.exists_lineBundle_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:34:38.69488+00:00
 -- url     : https://prove2.me/theorems/50d74fb2-2cc6-4177-868f-111fd3aa3bd0

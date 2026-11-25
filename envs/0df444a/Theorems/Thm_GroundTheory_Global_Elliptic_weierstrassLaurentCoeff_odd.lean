@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_weierstrassLaurentCoeff_odd
 -- name    : GroundTheory.Global.Elliptic.weierstrassLaurentCoeff_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:16:15.647595+00:00
 -- url     : https://prove2.me/theorems/e4650900-7ada-46c2-9bc8-9a3e9fa6c077

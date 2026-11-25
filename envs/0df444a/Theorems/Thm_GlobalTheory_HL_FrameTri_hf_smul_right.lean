@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTri_hf_smul_right
 -- name    : GlobalTheory.HL.FrameTri.hf_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:38:56.218272+00:00
 -- url     : https://prove2.me/theorems/385f06d7-8870-467b-949f-073ca3e47798

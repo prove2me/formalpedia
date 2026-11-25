@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_hf_sum_right
 -- name    : GlobalTheory.HL.Inhab.hf_sum_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:36.921103+00:00
 -- url     : https://prove2.me/theorems/4997ce3b-9b6d-4c1d-9ff2-a3cabdc0b4ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Hyperplane_cj_coe
 -- name    : GlobalTheory.Mass.Hyperplane.cj_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:04:07.327817+00:00
 -- url     : https://prove2.me/theorems/a2318bfb-511d-53c5-b403-0a9f1b28f191

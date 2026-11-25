@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_finiteTensorEquiv_tmul
 -- name    : GroundTheory.Global.AdeleBaseChange.finiteTensorEquiv_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:34:18.44298+00:00
 -- url     : https://prove2.me/theorems/863c6d7d-dd3b-4dd4-998d-8a7aeb5d3ed4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_AdditiveFunction_g_funPermRep
 -- name    : GroundTheory.ProfCoh.AdditiveFunction.g_funPermRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:24:00.995806+00:00
 -- url     : https://prove2.me/theorems/faa7c484-e31f-4f5e-adbd-64e08cde367b

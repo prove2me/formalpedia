@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_tendsto_ratio_ennreal
 -- name    : Formalism.L2.S.Pv.EnergyAbs.tendsto_ratio_ennreal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:35.297718+00:00
 -- url     : https://prove2.me/theorems/da202c49-6f37-5573-a816-06b52ffc7afa

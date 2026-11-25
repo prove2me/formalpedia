@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_AdaptInv_flagFramesSameGraded_definitePartLattice_eq
 -- name    : GlobalTheory.DegAsm.AdaptInv.flagFramesSameGraded_definitePartLattice_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:21.653272+00:00
 -- url     : https://prove2.me/theorems/3f69ab72-7c9c-4417-9787-180e5c37b7e8

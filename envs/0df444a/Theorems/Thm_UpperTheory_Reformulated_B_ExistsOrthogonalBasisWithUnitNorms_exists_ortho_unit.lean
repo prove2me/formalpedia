@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_ExistsOrthogonalBasisWithUnitNorms_exists_ortho_unit
 -- name    : UpperTheory.Reformulated.B.ExistsOrthogonalBasisWithUnitNorms.exists_ortho_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:33:54.943182+00:00
 -- url     : https://prove2.me/theorems/4f82a9ac-24e5-5cd8-9d7e-883c9b7f1524

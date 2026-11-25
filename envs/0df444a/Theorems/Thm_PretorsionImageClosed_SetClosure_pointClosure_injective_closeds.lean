@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_pointClosure_injective_closeds
 -- name    : PretorsionImageClosed.SetClosure.pointClosure_injective_closeds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:27:15.898606+00:00
 -- url     : https://prove2.me/theorems/2006f1c1-55ea-5b17-af08-e1ec1be550bf

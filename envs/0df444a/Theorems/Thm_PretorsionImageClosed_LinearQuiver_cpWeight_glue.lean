@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_cpWeight_glue
 -- name    : PretorsionImageClosed.LinearQuiver.cpWeight_glue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:46:12.674172+00:00
 -- url     : https://prove2.me/theorems/7a29df65-e4ad-5f1c-a122-b4357aca9254

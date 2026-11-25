@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuIwa_pq_val
 -- name    : GlobalTheory.CompanionTheory.BmuIwa.pq_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:42:43.642814+00:00
 -- url     : https://prove2.me/theorems/0a535777-1e1b-4d8c-a7af-46357dfc091d

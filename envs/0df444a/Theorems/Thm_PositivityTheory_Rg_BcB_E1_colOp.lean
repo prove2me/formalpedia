@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_colOp
 -- name    : PositivityTheory.Rg.BcB.E1.colOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:24:46.985859+00:00
 -- url     : https://prove2.me/theorems/81f8523b-976d-4e76-8e64-c72122c2553b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_adjoint_unit_norm_holds
 -- name    : Formalism.L2.Th1.G.adjoint_unit_norm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:37:16.235308+00:00
 -- url     : https://prove2.me/theorems/c17469bb-1d04-5e8c-92fa-59916211cc46

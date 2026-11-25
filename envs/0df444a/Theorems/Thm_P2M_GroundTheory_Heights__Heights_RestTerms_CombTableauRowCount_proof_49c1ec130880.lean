@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombTableauRowCount_proof_49c1ec130880
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombTableauRowCount_proof_49c1ec130880
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:40:22.648857+00:00
 -- url     : https://prove2.me/theorems/12eec7d5-ac76-4a13-9940-c962e0e09dc7

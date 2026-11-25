@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_SSPh_pred_exists
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.SSPh.pred_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:24:08.603302+00:00
 -- url     : https://prove2.me/theorems/395449e8-9ae2-4566-bed9-782aaa4a4d5f

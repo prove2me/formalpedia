@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodQuot_isUnimodMod_quot
 -- name    : GlobalTheory.UnimodQuot.isUnimodMod_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:52.862219+00:00
 -- url     : https://prove2.me/theorems/edb6418d-b7df-43d8-851f-969ca0f37fce

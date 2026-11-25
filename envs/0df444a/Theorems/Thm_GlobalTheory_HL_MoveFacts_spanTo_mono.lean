@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveFacts_spanTo_mono
 -- name    : GlobalTheory.HL.MoveFacts.spanTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:36:46.503406+00:00
 -- url     : https://prove2.me/theorems/d996a5db-9ba5-4679-b5a7-b6ea83e7d968

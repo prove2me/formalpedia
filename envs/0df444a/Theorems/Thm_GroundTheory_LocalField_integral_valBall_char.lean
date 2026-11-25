@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_integral_valBall_char
 -- name    : GroundTheory.LocalField.integral_valBall_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:13:23.815585+00:00
 -- url     : https://prove2.me/theorems/65a41872-8dd1-489a-8dee-5265ac19b30c

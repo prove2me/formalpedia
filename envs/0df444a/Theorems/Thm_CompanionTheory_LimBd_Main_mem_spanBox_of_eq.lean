@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_mem_spanBox_of_eq
 -- name    : CompanionTheory.LimBd.Main.mem_spanBox_of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:36:17.832663+00:00
 -- url     : https://prove2.me/theorems/47b56b33-6262-45bb-9783-51f2f470da04

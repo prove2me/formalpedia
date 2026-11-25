@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_ZeroFree_inv_le_ell
 -- name    : GlobalTheory.Hk.ZeroFree.inv_le_ell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:37:03.685843+00:00
 -- url     : https://prove2.me/theorems/b69883e9-61ce-436a-8d2b-14fc48400868

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatDet_det_gram
 -- name    : GlobalTheory.MaxLatDet.det_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:10:29.438989+00:00
 -- url     : https://prove2.me/theorems/2f2869f0-a8e5-4633-a5b5-48fce5294aa9

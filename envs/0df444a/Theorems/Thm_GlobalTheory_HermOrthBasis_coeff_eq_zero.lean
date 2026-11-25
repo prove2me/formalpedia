@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_coeff_eq_zero
 -- name    : GlobalTheory.HermOrthBasis.coeff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:15:22.563674+00:00
 -- url     : https://prove2.me/theorems/8f0c846e-c54a-4cb7-8fa3-f068d70b4059

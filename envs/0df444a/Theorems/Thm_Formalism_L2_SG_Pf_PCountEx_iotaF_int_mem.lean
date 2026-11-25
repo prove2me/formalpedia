@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_PCountEx_iotaF_int_mem
 -- name    : Formalism.L2.SG.Pf.PCountEx.iotaF_int_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:38:37.682116+00:00
 -- url     : https://prove2.me/theorems/c3cc58c9-df01-440a-b6ff-f73cb1783122

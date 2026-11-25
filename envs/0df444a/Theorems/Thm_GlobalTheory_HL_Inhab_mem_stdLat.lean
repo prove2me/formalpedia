@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_mem_stdLat
 -- name    : GlobalTheory.HL.Inhab.mem_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:34:41.238377+00:00
 -- url     : https://prove2.me/theorems/5f2c4b02-cb89-439d-9bc7-2acd40ee7f94

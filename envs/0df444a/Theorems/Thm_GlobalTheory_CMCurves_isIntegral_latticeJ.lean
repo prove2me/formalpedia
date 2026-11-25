@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMCurves_isIntegral_latticeJ
 -- name    : GlobalTheory.CMCurves.isIntegral_latticeJ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:09:52.924405+00:00
 -- url     : https://prove2.me/theorems/b542824f-f3b1-4bdf-bf52-2d239ddc1f68

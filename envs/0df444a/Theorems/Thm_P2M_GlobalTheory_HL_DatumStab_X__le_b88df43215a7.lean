@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_DatumStab_X__le_b88df43215a7
 -- name    : P2M_GlobalTheory_HL_DatumStab_X__le_b88df43215a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:30:22.037706+00:00
 -- url     : https://prove2.me/theorems/df8d3566-cbd6-5cb4-b4c9-c28c976d7b79

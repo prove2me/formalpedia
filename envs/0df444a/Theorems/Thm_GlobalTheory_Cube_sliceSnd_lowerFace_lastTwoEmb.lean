@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cube_sliceSnd_lowerFace_lastTwoEmb
 -- name    : GlobalTheory.Cube.sliceSnd_lowerFace_lastTwoEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:05:51.638187+00:00
 -- url     : https://prove2.me/theorems/920a2332-7cd8-597b-8c2a-6b2eccd9a199

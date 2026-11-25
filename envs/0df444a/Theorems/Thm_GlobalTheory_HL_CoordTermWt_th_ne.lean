@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordTermWt_th_ne
 -- name    : GlobalTheory.HL.CoordTermWt.th_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:40:35.517797+00:00
 -- url     : https://prove2.me/theorems/07a22524-95f4-4a50-8191-ecf39ab2e598

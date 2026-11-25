@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_word_le_opOrder
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.word_le_opOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:36:52.524741+00:00
 -- url     : https://prove2.me/theorems/6e564b63-d78e-5978-b956-e52b198e3202

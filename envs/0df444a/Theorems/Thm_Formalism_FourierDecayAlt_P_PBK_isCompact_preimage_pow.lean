@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_isCompact_preimage_pow
 -- name    : Formalism.FourierDecayAlt.P.PBK.isCompact_preimage_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:42:29.055309+00:00
 -- url     : https://prove2.me/theorems/ded3d2b0-2507-4b58-b188-687b54b99889

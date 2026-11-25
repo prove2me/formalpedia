@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_isom
 -- name    : GlobalTheory.FrameAct.isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:39:20.187314+00:00
 -- url     : https://prove2.me/theorems/f78411b0-2c75-4734-83d8-3449815ecc8d

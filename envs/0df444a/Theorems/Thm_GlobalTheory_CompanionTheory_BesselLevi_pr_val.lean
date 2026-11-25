@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BesselLevi_pr_val
 -- name    : GlobalTheory.CompanionTheory.BesselLevi.pr_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:42:02.246036+00:00
 -- url     : https://prove2.me/theorems/0e13863a-0c46-4590-a6a7-d0c77a715564

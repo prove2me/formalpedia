@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_mem_perp_span
 -- name    : GlobalTheory.HL.Inhab.mem_perp_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:38:52.966103+00:00
 -- url     : https://prove2.me/theorems/f2be70e7-d2da-4637-9c3d-e279b45a05a4

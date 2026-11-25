@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealDim_proof_c6937941cb1e
 -- name    : P2M_GroundTheory_Heights__Heights_IncIdealDim_proof_c6937941cb1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:21:47.647604+00:00
 -- url     : https://prove2.me/theorems/c28af3af-3ea8-4cf9-b22b-5366cc1b50c6

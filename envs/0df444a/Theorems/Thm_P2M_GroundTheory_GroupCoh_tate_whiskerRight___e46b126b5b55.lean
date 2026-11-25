@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tate_whiskerRight___e46b126b5b55
 -- name    : P2M_GroundTheory_GroupCoh_tate_whiskerRight___e46b126b5b55
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:17:08.484676+00:00
 -- url     : https://prove2.me/theorems/6a51426e-c850-5964-9100-eeb7f4d30b44

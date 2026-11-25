@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_slice_pderiv
 -- name    : GlobalTheory.OddBlock.ExpShift.slice_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:34:12.603224+00:00
 -- url     : https://prove2.me/theorems/ae20a2da-79f7-568d-a1b6-b89f72abf024

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_star_mem_one
 -- name    : GlobalTheory.DegCnt.PosIso.star_mem_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:15:39.585985+00:00
 -- url     : https://prove2.me/theorems/4a1bbd92-e31c-50f7-9207-6c7d208fcc98

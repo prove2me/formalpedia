@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_Realis_FT_eq
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.Realis.FT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:18:46.122365+00:00
 -- url     : https://prove2.me/theorems/beef5573-b510-4789-9880-d3d20e076f6c

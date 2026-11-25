@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_sClosure_isAntiExchange_of_finiteDimensional
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.sClosure_isAntiExchange_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:12:10.269103+00:00
 -- url     : https://prove2.me/theorems/e5bf449e-4d8b-4e63-a421-caf054118058

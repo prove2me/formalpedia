@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_lintegral_four
 -- name    : Formalism.L2.S.Pv.EnergyAbs.lintegral_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:25:24.546454+00:00
 -- url     : https://prove2.me/theorems/ee99c6f5-d379-4c5f-ac2f-54725ae4868a

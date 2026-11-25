@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_GaugeExists_sum_fin_cast
 -- name    : GroundTheory.BlockD.FourierDecayAlt.GaugeExists.sum_fin_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:07:02.145208+00:00
 -- url     : https://prove2.me/theorems/a95306b7-d68d-51f6-84d2-117f6d4ac3a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_ev_QM
 -- name    : Formalism.FourierDecayAlt.P.Qx5.ev_QM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:44:17.024002+00:00
 -- url     : https://prove2.me/theorems/2532e66f-4b3b-4c0f-84b9-73a35c289108

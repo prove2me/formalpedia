@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_addSet_inj
 -- name    : CompanionTheory.Zuck.addSet_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:43:12.368819+00:00
 -- url     : https://prove2.me/theorems/bb64121a-9e7d-4db1-b1ac-33a7a4be235d

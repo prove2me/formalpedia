@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegBallMass_proof_fdc7e2a04306
 -- name    : P2M_GroundTheory_Heights__Heights_RegBallMass_proof_fdc7e2a04306
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:16:31.488343+00:00
 -- url     : https://prove2.me/theorems/e8e719d9-704f-4335-9cc0-34ecc2892888

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_quotientSubmodule_finitary_antiExchange_of_finiteDimensional
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.quotientSubmodule_finitary_antiExchange_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:15:58.971065+00:00
 -- url     : https://prove2.me/theorems/32e0155b-4207-4614-ae3d-17ba9fece749

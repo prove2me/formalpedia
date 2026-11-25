@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_contDiff_poly
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.contDiff_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:21:29.795586+00:00
 -- url     : https://prove2.me/theorems/08a30185-7569-4927-9f37-090b30f00da7

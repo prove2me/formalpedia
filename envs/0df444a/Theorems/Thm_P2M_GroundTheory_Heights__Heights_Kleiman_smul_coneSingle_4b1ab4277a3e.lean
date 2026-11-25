@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_smul_coneSingle_4b1ab4277a3e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_smul_coneSingle_4b1ab4277a3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:34:33.67839+00:00
 -- url     : https://prove2.me/theorems/bc89c5d1-0e30-4a05-9a01-6f9c56b775f8

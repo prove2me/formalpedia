@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_Procyclic_psum_add
 -- name    : GlobalTheory.Cyc.Procyclic.psum_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:08:36.872963+00:00
 -- url     : https://prove2.me/theorems/730e2980-3297-4310-bfe9-e78af9d6f09d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_orth_symm
 -- name    : GlobalTheory.ModIdent.orth_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:35:43.204897+00:00
 -- url     : https://prove2.me/theorems/c3e88e2f-b328-597d-a9a2-9b10819f8589

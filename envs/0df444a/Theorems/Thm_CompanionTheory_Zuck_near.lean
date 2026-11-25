@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_near
 -- name    : CompanionTheory.Zuck.near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:38:15.660255+00:00
 -- url     : https://prove2.me/theorems/d5a012b6-711e-4954-b351-d72f147a2cfb

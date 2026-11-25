@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_e_mem_Xa
 -- name    : GlobalTheory.ModIdent.e_mem_Xa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:42:28.632012+00:00
 -- url     : https://prove2.me/theorems/54d37967-d569-56c9-ba0a-864154764668

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateCup_of_pos_of_nonpos
 -- name    : GroundTheory.GroupCoh.tateCup_of_pos_of_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:33:17.965148+00:00
 -- url     : https://prove2.me/theorems/59ae35d3-4495-5643-ad53-5833dabbb448

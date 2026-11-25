@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_hsA_eq
 -- name    : Formalism.L2.S.Pv.EnergyAbs.hsA_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:24:51.111693+00:00
 -- url     : https://prove2.me/theorems/10bec961-226d-4750-946c-c2927c9a57a3

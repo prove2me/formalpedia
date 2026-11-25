@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_norm_rk1A_le
 -- name    : Formalism.L2.S.Pv.EnergyAbs.norm_rk1A_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:28.11982+00:00
 -- url     : https://prove2.me/theorems/37640891-fb0a-59db-a5d6-971bf00b3ea4

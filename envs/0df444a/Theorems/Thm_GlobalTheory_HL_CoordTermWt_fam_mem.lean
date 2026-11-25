@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordTermWt_fam_mem
 -- name    : GlobalTheory.HL.CoordTermWt.fam_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:32:32.813788+00:00
 -- url     : https://prove2.me/theorems/80ea3792-3677-4497-9633-318b54e0e0bf

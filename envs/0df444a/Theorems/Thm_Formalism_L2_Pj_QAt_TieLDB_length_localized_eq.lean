@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_QAt_TieLDB_length_localized_eq
 -- name    : Formalism.L2.Pj.QAt.TieLDB.length_localized_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:36:34.140936+00:00
 -- url     : https://prove2.me/theorems/a41b853e-43a9-48f1-92c8-59ce8db5ffac

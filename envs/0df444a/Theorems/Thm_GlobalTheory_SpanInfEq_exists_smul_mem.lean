@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SpanInfEq_exists_smul_mem
 -- name    : GlobalTheory.SpanInfEq.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:16:29.032824+00:00
 -- url     : https://prove2.me/theorems/30e5caa0-6daa-4398-8f96-ec2c90a05db7

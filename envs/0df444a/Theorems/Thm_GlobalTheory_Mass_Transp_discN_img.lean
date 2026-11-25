@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Transp_discN_img
 -- name    : GlobalTheory.Mass.Transp.discN_img
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:09:21.855811+00:00
 -- url     : https://prove2.me/theorems/d15772ee-4c89-41a8-9560-a5156cce708e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_GramNear_exists_fibre_near
 -- name    : GlobalTheory.CompanionTheory.SW.GramNear.exists_fibre_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:07:12.8763+00:00
 -- url     : https://prove2.me/theorems/b12e6e55-df5d-4a1b-8e7f-502b1e6fcc2b

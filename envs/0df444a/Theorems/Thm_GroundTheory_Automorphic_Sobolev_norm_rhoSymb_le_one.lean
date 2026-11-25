@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_rhoSymb_le_one
 -- name    : GroundTheory.Automorphic.Sobolev.norm_rhoSymb_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:19:28.694868+00:00
 -- url     : https://prove2.me/theorems/4d9d94d4-33eb-4bb3-942f-0104de7da327

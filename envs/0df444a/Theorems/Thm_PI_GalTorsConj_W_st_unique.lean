@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_st_unique
 -- name    : PI.GalTorsConj.W.st_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:29:34.360807+00:00
 -- url     : https://prove2.me/theorems/5228fb10-6919-455c-a7bf-99ea0c052ecf

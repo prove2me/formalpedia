@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_ConvG_measurable_PhiGG
 -- name    : Formalism.L2.S.Pv.ConvG.measurable_PhiGG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:25:17.528819+00:00
 -- url     : https://prove2.me/theorems/ec073ef5-ec4c-5791-b628-376eba755fde

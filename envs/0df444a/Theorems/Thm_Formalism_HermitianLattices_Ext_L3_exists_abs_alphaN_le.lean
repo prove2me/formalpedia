@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_exists_abs_alphaN_le
 -- name    : Formalism.HermitianLattices.Ext.L3.exists_abs_alphaN_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:43:19.177737+00:00
 -- url     : https://prove2.me/theorems/b20472ea-2118-4b64-a943-938e36e882a5

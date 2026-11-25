@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sgStarThree
 -- name    : Formalism.L2.Th1.F.sgStarThree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:49:16.903475+00:00
 -- url     : https://prove2.me/theorems/77a689aa-debc-42e7-9cf9-082885925ca4

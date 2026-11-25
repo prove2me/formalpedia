@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_kummerExtension_pow_eq
 -- name    : GroundTheory.Global.kummerExtension_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:17:39.142511+00:00
 -- url     : https://prove2.me/theorems/9e5e6f14-d62c-4f2c-b3e8-8be218f24286

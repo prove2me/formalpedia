@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_FFS_deriv_const_smul_any
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.FFS.deriv_const_smul_any
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:22:12.661085+00:00
 -- url     : https://prove2.me/theorems/3acc84a0-1715-49a2-b7f1-cb46337eb0a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_torus_parameter
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.torus_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:25:16.516211+00:00
 -- url     : https://prove2.me/theorems/581204e7-9fa5-4833-a675-734e6e146c41

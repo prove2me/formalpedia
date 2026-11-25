@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_nsmul_eq
 -- name    : GlobalTheory.ModIdent.nsmul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:33:45.483392+00:00
 -- url     : https://prove2.me/theorems/a2a5d305-0987-54e9-949a-3aefad948c83

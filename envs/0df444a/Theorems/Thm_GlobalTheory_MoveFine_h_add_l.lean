@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MoveFine_h_add_l
 -- name    : GlobalTheory.MoveFine.h_add_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:40:03.777504+00:00
 -- url     : https://prove2.me/theorems/061b0cb1-23c4-4d35-ba08-dfbca6254bb9

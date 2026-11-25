@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_sqrt_hsA_le_add_sub
 -- name    : Formalism.L2.S.Pv.EnergyAbs.sqrt_hsA_le_add_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:38.988687+00:00
 -- url     : https://prove2.me/theorems/3270f421-43e3-5318-938b-0f96d7abe01a

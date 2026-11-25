@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_stalkLinearEquiv_apply
 -- name    : GlobalTheory.QCoh.stalkLinearEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:38:44.735271+00:00
 -- url     : https://prove2.me/theorems/1f5a198e-db03-4a95-833f-5c0635af9568

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_trDualExists
 -- name    : Formalism.L2.Th1.D.trDualExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:13:31.01672+00:00
 -- url     : https://prove2.me/theorems/122a4571-5777-56e6-a027-be75ad3ac8e0

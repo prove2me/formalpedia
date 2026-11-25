@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_Fk_continuous
 -- name    : Formalism.L2.S.Pv.EnergyAbs.Fk_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:25:29.933577+00:00
 -- url     : https://prove2.me/theorems/d707df17-83f7-5825-936b-081fdec40b34

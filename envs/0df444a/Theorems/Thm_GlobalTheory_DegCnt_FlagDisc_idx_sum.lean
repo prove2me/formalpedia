@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FlagDisc_idx_sum
 -- name    : GlobalTheory.DegCnt.FlagDisc.idx_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:28:50.523112+00:00
 -- url     : https://prove2.me/theorems/4291f94c-aa12-508c-8866-74319cb98574

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_GL2a2_log_deriv_series
 -- name    : Formalism.HermitianLattices.GL2a2.log_deriv_series
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:20:06.718592+00:00
 -- url     : https://prove2.me/theorems/db4c395a-1aec-4df0-bb04-6b7d79ad295f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_prim_of_indep_of_isPrimitive
 -- name    : GlobalTheory.GramCount.prim_of_indep_of_isPrimitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:25:10.824802+00:00
 -- url     : https://prove2.me/theorems/8220070b-4897-42ad-a44f-3b5ef8de2a89

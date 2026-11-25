@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_mass_orbits_eq_tsum_fiber
 -- name    : GlobalTheory.HL.mass_orbits_eq_tsum_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:36:11.570193+00:00
 -- url     : https://prove2.me/theorems/452dcdd5-f1cd-4d37-9b9e-df28a9e8b93d

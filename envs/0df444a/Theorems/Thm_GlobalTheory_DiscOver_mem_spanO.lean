@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_mem_spanO
 -- name    : GlobalTheory.DiscOver.mem_spanO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:39:56.229464+00:00
 -- url     : https://prove2.me/theorems/2ddb3ac4-8891-409e-aa13-290e2c30277d

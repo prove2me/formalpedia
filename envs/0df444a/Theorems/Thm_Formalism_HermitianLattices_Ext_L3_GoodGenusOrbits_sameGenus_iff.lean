@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_GoodGenusOrbits_sameGenus_iff
 -- name    : Formalism.HermitianLattices.Ext.L3.GoodGenusOrbits.sameGenus_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:34:09.483117+00:00
 -- url     : https://prove2.me/theorems/d8ab80ec-fc19-43ea-a700-63a183742d47

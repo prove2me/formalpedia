@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateRightIso_cupR
 -- name    : GroundTheory.GroupCoh.tateRightIso_cupR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:33:29.70301+00:00
 -- url     : https://prove2.me/theorems/bffc06e3-8739-5581-9839-ef6bc58d1290

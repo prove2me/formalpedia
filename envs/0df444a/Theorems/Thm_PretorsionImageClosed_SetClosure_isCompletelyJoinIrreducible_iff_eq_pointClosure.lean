@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_isCompletelyJoinIrreducible_iff_eq_pointClosure
 -- name    : PretorsionImageClosed.SetClosure.isCompletelyJoinIrreducible_iff_eq_pointClosure
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:28:08.085205+00:00
 -- url     : https://prove2.me/theorems/f0d274e4-daf8-4cc3-8ed1-19fbf445790c

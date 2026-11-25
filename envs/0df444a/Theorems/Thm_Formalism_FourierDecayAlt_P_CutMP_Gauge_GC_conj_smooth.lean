@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_conj_smooth
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.conj_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:14:30.892192+00:00
 -- url     : https://prove2.me/theorems/c9a807fb-3662-553d-b0ad-8f87609f281e

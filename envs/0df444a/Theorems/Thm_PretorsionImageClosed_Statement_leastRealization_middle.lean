@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_leastRealization_middle
 -- name    : PretorsionImageClosed.Statement.leastRealization_middle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:48:55.383974+00:00
 -- url     : https://prove2.me/theorems/be18dc19-c83a-45c0-b3a4-d1bcfd211295

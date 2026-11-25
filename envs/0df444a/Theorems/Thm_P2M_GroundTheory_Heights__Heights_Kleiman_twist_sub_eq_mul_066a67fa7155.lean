@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_twist_sub_eq_mul_066a67fa7155
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_twist_sub_eq_mul_066a67fa7155
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:34:05.266906+00:00
 -- url     : https://prove2.me/theorems/1e4da21a-40ec-5db9-b54d-b6f30d6e1f18

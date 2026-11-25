@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_eq_mul_restrictScalars_of_restrictNormalHom_eq
 -- name    : GroundTheory.LocalField.exists_eq_mul_restrictScalars_of_restrictNormalHom_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:35:01.771675+00:00
 -- url     : https://prove2.me/theorems/558f9134-e3ac-4cbc-82a9-9c09e918beb8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SurjectiveClosed_twist_idealSys_le_7910bd0d03c2
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SurjectiveClosed_twist_idealSys_le_7910bd0d03c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:21:51.549799+00:00
 -- url     : https://prove2.me/theorems/ae2cf71b-d427-4486-bd4c-b3e682ead46b

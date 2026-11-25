@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_finiteClosuresBelow_directed_sSup
 -- name    : PretorsionImageClosed.SetClosure.finiteClosuresBelow_directed_sSup
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:29:59.82335+00:00
 -- url     : https://prove2.me/theorems/767ed0bb-3769-4c18-b2ce-68027e860afc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_herm_zero
 -- name    : GlobalTheory.DegAsm.DatMove.herm_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:13:06.762806+00:00
 -- url     : https://prove2.me/theorems/30115001-fb49-4c12-95eb-d3e67966bd52

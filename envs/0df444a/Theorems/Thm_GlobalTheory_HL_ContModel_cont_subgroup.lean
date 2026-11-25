@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ContModel_cont_subgroup
 -- name    : GlobalTheory.HL.ContModel.cont_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:14:38.367322+00:00
 -- url     : https://prove2.me/theorems/a5f330d8-ffcf-4712-9572-b271630d81ba

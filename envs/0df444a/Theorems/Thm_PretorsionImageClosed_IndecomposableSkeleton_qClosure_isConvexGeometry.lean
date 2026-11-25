@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_qClosure_isConvexGeometry
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.qClosure_isConvexGeometry
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:15:06.652146+00:00
 -- url     : https://prove2.me/theorems/46283184-92bc-5b1b-8912-86c87a282743

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_actU_rep
 -- name    : CompanionTheory.CapEig.actU_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:50:25.279792+00:00
 -- url     : https://prove2.me/theorems/0e0bd70f-a65a-49c8-bedb-66fadedc0714

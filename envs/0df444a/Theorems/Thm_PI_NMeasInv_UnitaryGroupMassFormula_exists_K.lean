@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_exists_K
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.exists_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:16:18.981157+00:00
 -- url     : https://prove2.me/theorems/d269ba92-bd83-587d-8ac9-03c432bbfb9f

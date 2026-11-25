@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_Ph_winding
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.Ph.winding
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:40:58.23545+00:00
 -- url     : https://prove2.me/theorems/2843d239-c9f4-495c-abb1-fa98c6cad7ae

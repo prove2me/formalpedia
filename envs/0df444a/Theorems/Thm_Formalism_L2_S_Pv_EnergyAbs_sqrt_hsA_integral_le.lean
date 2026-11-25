@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_sqrt_hsA_integral_le
 -- name    : Formalism.L2.S.Pv.EnergyAbs.sqrt_hsA_integral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:58.13573+00:00
 -- url     : https://prove2.me/theorems/8d1a5931-41b5-47b1-b20e-ea1715eb4a1b

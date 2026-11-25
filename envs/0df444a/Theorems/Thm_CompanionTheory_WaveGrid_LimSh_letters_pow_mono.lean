@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_LimSh_letters_pow_mono
 -- name    : CompanionTheory.WaveGrid.LimSh.letters_pow_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:56:56.877741+00:00
 -- url     : https://prove2.me/theorems/251d2158-78f5-44a0-907e-58778413ee5d

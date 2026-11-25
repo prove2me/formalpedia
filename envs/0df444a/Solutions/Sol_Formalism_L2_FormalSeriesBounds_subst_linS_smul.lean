@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for Formalism.L2.FormalSeriesBounds.subst_linS_smul
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T06:58:00.100203+00:00
+-- url     : https://prove2.me/submissions/2a725a6e-4db1-4485-9481-737a7e36e05e
+
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_LatticeInclusionFormsInjective
+import Definitions.Def_Formalism_FrobeniusBaseCase_BaseCaseFalseGeneral
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_LemmaMLin
+import Theorems.Thm_Formalism_L2_FormalSeriesBounds_hasSubst_linS
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators
+open Classical
+open MvPowerSeries
+open Formalism Formalism.L2 Formalism.L2.FormalSeriesBounds
+open Formalism.BaseCaseIdentities (OrdGE NoConst)
+variable {C : Type*} [Field C] {σ τ : Type*} [Fintype τ]
+namespace Formalism.L2.FormalSeriesBounds
+theorem _root_.solution [Finite σ] (M : τ → σ → C) (r : C) (F : MvPowerSeries σ C) :
+    subst (linS M) (r • F) = r • subst (linS M) F := subst_smul (hasSubst_linS M) r F
+end Formalism.L2.FormalSeriesBounds

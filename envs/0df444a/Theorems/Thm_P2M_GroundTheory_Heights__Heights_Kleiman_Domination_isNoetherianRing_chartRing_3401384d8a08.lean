@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Domination_isNoetherianRing_chartRing_3401384d8a08
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Domination_isNoetherianRing_chartRing_3401384d8a08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:21:27.512061+00:00
 -- url     : https://prove2.me/theorems/c12baea1-686c-4d9c-8a74-c413e1e8a398

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_PretorsionTheory_IsTorsion_le_iff
 -- name    : PretorsionImageClosed.Statement.PretorsionTheory.IsTorsion.le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:48:42.703863+00:00
 -- url     : https://prove2.me/theorems/56df4cf3-1d98-4601-9cf0-b119139121eb

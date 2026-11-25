@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_section_eq_zero_of_germ
 -- name    : GlobalTheory.QCoh.section_eq_zero_of_germ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:41:27.902861+00:00
 -- url     : https://prove2.me/theorems/3654c94a-ee5f-41ab-ab2c-073f7bdbd826

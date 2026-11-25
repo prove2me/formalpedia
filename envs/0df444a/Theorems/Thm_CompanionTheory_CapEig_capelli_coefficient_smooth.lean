@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_capelli_coefficient_smooth
 -- name    : CompanionTheory.CapEig.capelli_coefficient_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:42:20.542497+00:00
 -- url     : https://prove2.me/theorems/cc86dfdc-5495-41de-a7b5-45053c4de924

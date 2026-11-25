@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_aeval_mem_twistMod_11b60f1db303
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_aeval_mem_twistMod_11b60f1db303
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:34:02.197331+00:00
 -- url     : https://prove2.me/theorems/608caed2-168a-51af-841b-ed7812c7a9a0

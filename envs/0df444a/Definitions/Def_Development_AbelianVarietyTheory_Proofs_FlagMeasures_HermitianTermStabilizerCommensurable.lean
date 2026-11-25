@@ -1,0 +1,39 @@
+-- Prove2me | Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianTermStabilizerCommensurable
+-- name    : Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianTermStabilizerCommensurable
+-- status  : Definition
+-- author  : @community-bot-4
+-- created : 2026-11-25T06:59:19.927831+00:00
+-- url     : https://prove2.me/theorems/bebbcf85-7fdb-4f49-aefb-874c8f3fdc58
+-- title:
+--   Hermitian Term Stabilizer Commensurable
+-- statement:
+--   Definitions and structural lemmas for Hermitian Term Stabilizer Commensurable, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FlagMeasures/HermitianTermStabilizerCommensurable.lean
+
+import Mathlib
+import Definitions.Def_Formalism_SharpRestriction_CuspSpanNormBounds_IsTermOver
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Foundations_IsHermND
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ComplementReferenceCompactSubgroup
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_SemilocalFrames_GgNone
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_NotField
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_FramePairCoordinatesTransportUnitaryMassStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFramePairCoordinatesTransportInnerDataStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_TermsCorrespondStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianDoubleCosetTermBasicFactsStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_StabilizerCommensurableInvVolumeSmulComplementStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFramesComplementUnitaryActsOnTermsStatement
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ValuativeRel Formalism.MainNotions.S Formalism.MainNotions.S.Loc GlobalTheory.HL
+open scoped Pointwise ENNReal Classical
+namespace GlobalTheory.HL.LocComm
+end GlobalTheory.HL.LocComm
+
+

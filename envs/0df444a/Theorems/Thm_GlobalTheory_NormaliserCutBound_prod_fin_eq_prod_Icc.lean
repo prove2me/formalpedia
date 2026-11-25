@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormaliserCutBound_prod_fin_eq_prod_Icc
 -- name    : GlobalTheory.NormaliserCutBound.prod_fin_eq_prod_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:05:59.006056+00:00
 -- url     : https://prove2.me/theorems/cb57d107-f527-5b2f-8892-28f58bdd6b86

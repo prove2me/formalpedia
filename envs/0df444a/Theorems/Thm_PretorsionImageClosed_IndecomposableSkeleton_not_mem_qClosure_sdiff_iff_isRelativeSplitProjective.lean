@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_not_mem_qClosure_sdiff_iff_isRelativeSplitProjective
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.not_mem_qClosure_sdiff_iff_isRelativeSplitProjective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:12:51.393176+00:00
 -- url     : https://prove2.me/theorems/3bfdd798-eb48-40dc-9f4a-db0c23534b69

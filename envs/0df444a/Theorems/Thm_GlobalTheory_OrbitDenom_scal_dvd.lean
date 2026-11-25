@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitDenom_scal_dvd
 -- name    : GlobalTheory.OrbitDenom.scal_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:34:20.048518+00:00
 -- url     : https://prove2.me/theorems/6874e6a5-3a2f-4999-afb0-c5c77f37bda0

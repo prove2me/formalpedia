@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_mem_line
 -- name    : GlobalTheory.DegCnt.LiftS.mem_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:23:48.497917+00:00
 -- url     : https://prove2.me/theorems/41b47c3a-0235-4ab1-a086-340cc91ff314

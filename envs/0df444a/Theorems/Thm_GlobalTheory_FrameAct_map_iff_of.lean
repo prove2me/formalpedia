@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_map_iff_of
 -- name    : GlobalTheory.FrameAct.map_iff_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:35:33.470047+00:00
 -- url     : https://prove2.me/theorems/9d9624ab-a32b-5a54-8b38-1d66647249d0

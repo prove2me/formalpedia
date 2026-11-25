@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_PretorsionTheory_isSubobjectClosed_fixedF
 -- name    : PretorsionImageClosed.Statement.PretorsionTheory.isSubobjectClosed_fixedF
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:47:51.428436+00:00
 -- url     : https://prove2.me/theorems/0c7a9958-664d-4f9b-816f-20a0dce7b234

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_qMat_vr
 -- name    : CompanionTheory.Zuck.qMat_vr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:29:10.385621+00:00
 -- url     : https://prove2.me/theorems/de5c279b-69f0-46a8-a021-9acccc7bf900

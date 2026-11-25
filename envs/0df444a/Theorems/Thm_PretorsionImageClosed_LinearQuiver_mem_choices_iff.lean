@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_mem_choices_iff
 -- name    : PretorsionImageClosed.LinearQuiver.mem_choices_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:47:26.366724+00:00
 -- url     : https://prove2.me/theorems/5b63c3d5-a6fd-4fcb-acbb-d0199b8ddeb2

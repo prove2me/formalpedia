@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DegCnt_LiftS_z__eq_3b4bb3d0338d
 -- name    : P2M_GlobalTheory_DegCnt_LiftS_z__eq_3b4bb3d0338d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:42:18.22996+00:00
 -- url     : https://prove2.me/theorems/87c344fd-0eb8-4b5c-b29c-f6ad91db4433

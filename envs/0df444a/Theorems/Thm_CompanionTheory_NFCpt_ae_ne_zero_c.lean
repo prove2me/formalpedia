@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_NFCpt_ae_ne_zero_c
 -- name    : CompanionTheory.NFCpt.ae_ne_zero_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:16:33.940846+00:00
 -- url     : https://prove2.me/theorems/0bb9b242-f3f0-4169-bba7-64e3cd07444b

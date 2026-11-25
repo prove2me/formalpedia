@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BesselScaling_lemmaBFromXi_of
 -- name    : Formalism.FourierDecayAlt.P.BesselScaling.lemmaBFromXi_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:09:47.900868+00:00
 -- url     : https://prove2.me/theorems/fccbbc0d-95bc-4816-8d92-e22e9e0edd82

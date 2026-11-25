@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_boxSet_finite
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.boxSet_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:30:42.345208+00:00
 -- url     : https://prove2.me/theorems/88b9b5b5-43dd-51d5-9f71-da7a4e59967d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_DM_decomp_iter
 -- name    : CompanionTheory.DM.decomp_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:12:51.708936+00:00
 -- url     : https://prove2.me/theorems/135c3d45-3a13-428e-a383-c6d285c6e2cd

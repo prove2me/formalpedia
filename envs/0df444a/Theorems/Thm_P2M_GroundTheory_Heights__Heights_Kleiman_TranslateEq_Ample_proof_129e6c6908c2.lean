@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_Ample_proof_129e6c6908c2
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_Ample_proof_129e6c6908c2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:33.315797+00:00
 -- url     : https://prove2.me/theorems/7a07dc05-3784-4b11-b0c1-c5bc1f50e985

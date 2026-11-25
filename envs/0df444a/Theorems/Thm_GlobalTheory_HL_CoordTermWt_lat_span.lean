@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordTermWt_lat_span
 -- name    : GlobalTheory.HL.CoordTermWt.lat_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:40:08.836042+00:00
 -- url     : https://prove2.me/theorems/f856e1cd-0803-5beb-9799-6fbd0ecb2e8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_FFS_rho_pOf
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.FFS.rho_pOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:23:22.891852+00:00
 -- url     : https://prove2.me/theorems/5e1af6bd-ca01-5197-904c-61b572ff5f11

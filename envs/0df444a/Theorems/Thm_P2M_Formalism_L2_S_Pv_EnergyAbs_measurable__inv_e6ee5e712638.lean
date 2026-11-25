@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_S_Pv_EnergyAbs_measurable__inv_e6ee5e712638
 -- name    : P2M_Formalism_L2_S_Pv_EnergyAbs_measurable__inv_e6ee5e712638
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:10:16.268441+00:00
 -- url     : https://prove2.me/theorems/89aa42c6-ca98-5270-af7f-67c9fe18f958

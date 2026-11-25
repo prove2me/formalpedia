@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermGlobal_posIndex_of_congr
 -- name    : GlobalTheory.HermGlobal.posIndex_of_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:16:20.260061+00:00
 -- url     : https://prove2.me/theorems/105f6f75-f340-523a-bacf-af5323430734

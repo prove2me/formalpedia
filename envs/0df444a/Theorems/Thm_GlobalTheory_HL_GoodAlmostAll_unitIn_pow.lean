@@ -1,0 +1,56 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_HL_GoodAlmostAll_unitIn_pow
+-- name    : GlobalTheory.HL.GoodAlmostAll.unitIn_pow
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-25T07:05:23.27906+00:00
+-- url     : https://prove2.me/theorems/b1d13774-079e-51ed-9781-c36783d1dbd3
+-- title:
+--   Good Almost All: unit In pow
+-- statement:
+--   The Good Almost All construction uses the unit In pow property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FlagMeasures/GlobalHermitianFramesGoodAlmostAllPlaces.lean#L40-L43
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FlagMeasures/GlobalHermitianFramesGoodAlmostAllPlaces.lean#L40-L43
+
+import Mathlib
+import Definitions.Def_Formalism_SharpRestriction_CuspSpanNormBounds_FractionFieldToGenericStalkAlgebraMapEq
+import Definitions.Def_Formalism_SharpRestriction_CuspSpanNormBounds_PsiEDef
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Foundations_IsHermND
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ComplementReferenceCompactSubgroup
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_SemilocalFrames_GFrames
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_ExistsEqZpowMulUnit
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_OrthonormalBasisAndOneOrbit
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_ExistsEquivOfRetractions
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_BasisOfIsCompl
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_FramesCommonStabiliserEqPairingMatrixStabiliser
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_SelfDualLatticeUnipotentTranslateStandard
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianDoubleCosetTermBasicFacts
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_TermInvariantsIndependentOfWitnesses
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFramesStabilizerActsOnTerms
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFramesComplementUnitaryActsOnTerms
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_TermExponentsNonnegAndDefectGroupBound
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_ExistsGluingHomomorphismDefectGroup
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_UnitEntries
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_IntegralOfMulVec
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HmUnit
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_RationalExtend
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_IsIntegralOfQuad
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_GlobalHermitianFramesGoodAlmostAllPlaces
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ValuativeRel Formalism.MainNotions.S.Loc GlobalTheory.HL GlobalTheory.HL.StdPlace NumberField IsDedekindDomain
+open scoped Pointwise ENNReal Classical
+noncomputable section
+open GlobalTheory GlobalTheory.HL GlobalTheory.HL.GoodAlmostAll
+open GlobalTheory.HL.GoodClass
+variable {K : Type} [Field K] [ValuativeRel K] [TopologicalSpace K]
+variable {R : Type} [CommRing R] [Algebra K R] [TopologicalSpace R]
+
+theorem GlobalTheory.HL.GoodAlmostAll.unitIn_pow {O : Subring R} {x : R} (hx : UnitIn O x) (n : ℕ) : UnitIn O (x ^ n) := by sorry

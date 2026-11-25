@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_compact_isMinimalGenerator_iff_eq_extremePoints
 -- name    : PretorsionImageClosed.SetClosure.compact_isMinimalGenerator_iff_eq_extremePoints
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:30:41.282262+00:00
 -- url     : https://prove2.me/theorems/28e8a0f1-32ba-4799-a653-bab0ef98a0df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Defect_hf_comb_r
 -- name    : GlobalTheory.HL.Defect.hf_comb_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:16:32.940528+00:00
 -- url     : https://prove2.me/theorems/a6168e5c-1a9d-520c-8ebd-1f6022c6bce7

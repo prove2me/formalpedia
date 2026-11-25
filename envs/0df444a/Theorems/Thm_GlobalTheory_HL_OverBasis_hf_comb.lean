@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OverBasis_hf_comb
 -- name    : GlobalTheory.HL.OverBasis.hf_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:13:02.532751+00:00
 -- url     : https://prove2.me/theorems/efdbc8ab-0414-4aca-9468-59b70c34f840

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_KerInert_VC_mulBy_eq
 -- name    : Formalism.L2.KerInert.VC.mulBy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:38:12.091004+00:00
 -- url     : https://prove2.me/theorems/5be505b1-eb5c-42bb-8208-7901442df575

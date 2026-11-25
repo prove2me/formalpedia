@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Slice_orbSum_restrict
 -- name    : GlobalTheory.Mass.Slice.orbSum_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:10:09.131654+00:00
 -- url     : https://prove2.me/theorems/9200f0d8-5b9b-55d5-a33c-8073dd464705

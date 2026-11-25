@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_FFS_rdV_local
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.FFS.rdV_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:24:42.745898+00:00
 -- url     : https://prove2.me/theorems/2f6086f1-8726-51ce-ae94-504e3e2b2a75

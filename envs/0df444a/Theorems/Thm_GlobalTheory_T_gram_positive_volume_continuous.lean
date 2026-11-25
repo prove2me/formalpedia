@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_positive_volume_continuous
 -- name    : GlobalTheory.T.gram_positive_volume_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:01:39.883454+00:00
 -- url     : https://prove2.me/theorems/fa29bc20-a013-48e2-8c5f-c0a72c4eff03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_jet_mul_X
 -- name    : Formalism.L2.FormalSeriesBounds.jet_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:59:24.263125+00:00
 -- url     : https://prove2.me/theorems/b8f343f5-657e-5f0c-a0d7-332467ccf1b9

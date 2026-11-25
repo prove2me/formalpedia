@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_map_comap_subgroup
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.map_comap_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:15:59.447971+00:00
 -- url     : https://prove2.me/theorems/88f791b7-69a8-55fc-a39c-144fcc34370f

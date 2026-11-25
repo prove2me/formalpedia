@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_ConvG_weil_inv
 -- name    : Formalism.L2.S.Pv.ConvG.weil_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:25:16.120016+00:00
 -- url     : https://prove2.me/theorems/8cd6605b-f8c8-4632-9900-4d1d4d7c333a

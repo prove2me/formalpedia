@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_bz_indicator
 -- name    : Formalism.FourierDecayAlt.P.PBK.bz_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:22:55.825616+00:00
 -- url     : https://prove2.me/theorems/e6f27f6c-bc4f-4000-a76d-d8b2feb0a4a8

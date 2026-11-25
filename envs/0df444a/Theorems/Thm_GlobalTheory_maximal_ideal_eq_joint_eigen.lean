@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_maximal_ideal_eq_joint_eigen
 -- name    : GlobalTheory.maximal_ideal_eq_joint_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:55:36.068942+00:00
 -- url     : https://prove2.me/theorems/7cc1f008-07df-4b28-bad0-19ed7fa20711

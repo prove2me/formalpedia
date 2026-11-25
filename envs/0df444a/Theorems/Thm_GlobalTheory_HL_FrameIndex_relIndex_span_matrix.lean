@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameIndex_relIndex_span_matrix
 -- name    : GlobalTheory.HL.FrameIndex.relIndex_span_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:24:21.226256+00:00
 -- url     : https://prove2.me/theorems/e067f20e-53c1-4cb9-bfdc-6047efcc1a8e

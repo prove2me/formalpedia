@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_rowsReaching_glueRow
 -- name    : PretorsionImageClosed.LinearQuiver.rowsReaching_glueRow
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:45:44.937307+00:00
 -- url     : https://prove2.me/theorems/c5c0c53e-85ca-5f60-bad0-c93c4eb4a829

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_rawR_phase
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.rawR_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:22:54.169867+00:00
 -- url     : https://prove2.me/theorems/6dc32c71-8007-468a-826c-fed6db016b4b

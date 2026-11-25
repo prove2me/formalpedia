@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_cmTheta0
 -- name    : Formalism.L2.Th1.F.cmTheta0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:55:39.321635+00:00
 -- url     : https://prove2.me/theorems/cb46b403-86c9-4443-ad82-b805d4e372ec

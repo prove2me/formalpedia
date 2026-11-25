@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullBdd_pull_isBddSec
 -- name    : GlobalTheory.PullBdd.pull_isBddSec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:50:41.644617+00:00
 -- url     : https://prove2.me/theorems/fa0cf74c-34d6-4641-86d1-c859f8330117

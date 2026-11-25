@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q1_X_one_dvd_of_subst_X_zero_eq_zero
 -- name    : Formalism.L2.Th1.A.Q1.X_one_dvd_of_subst_X_zero_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:01:48.828623+00:00
 -- url     : https://prove2.me/theorems/2eb3e337-f6f0-4946-b1ff-184fdaba87a2

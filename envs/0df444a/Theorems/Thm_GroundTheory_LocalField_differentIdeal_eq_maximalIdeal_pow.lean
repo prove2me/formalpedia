@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_differentIdeal_eq_maximalIdeal_pow
 -- name    : GroundTheory.LocalField.differentIdeal_eq_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:06:43.259206+00:00
 -- url     : https://prove2.me/theorems/2b323a23-eefe-5f9e-9d74-4a46b91cf998

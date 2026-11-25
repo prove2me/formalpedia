@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_PretorsionTheory_sInf_middle
 -- name    : PretorsionImageClosed.Statement.PretorsionTheory.sInf_middle
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:41:49.056843+00:00
 -- url     : https://prove2.me/theorems/ac751992-bc29-499a-9291-faa3036358e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_ker_eq
 -- name    : GlobalTheory.FontCmp.ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:33:06.6008+00:00
 -- url     : https://prove2.me/theorems/0eca75eb-49e6-42e4-bdd2-b827be077d73

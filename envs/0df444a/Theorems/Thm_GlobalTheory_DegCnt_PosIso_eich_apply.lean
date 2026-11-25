@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_eich_apply
 -- name    : GlobalTheory.DegCnt.PosIso.eich_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:26:55.531629+00:00
 -- url     : https://prove2.me/theorems/0b267aaa-874e-4a95-8b2e-563b583a1127

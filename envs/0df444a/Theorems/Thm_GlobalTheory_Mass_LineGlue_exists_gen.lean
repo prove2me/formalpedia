@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LineGlue_exists_gen
 -- name    : GlobalTheory.Mass.LineGlue.exists_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:16:50.897604+00:00
 -- url     : https://prove2.me/theorems/df865afb-0922-4f46-90e4-d3173e9818f0

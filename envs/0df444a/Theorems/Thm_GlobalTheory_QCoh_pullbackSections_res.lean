@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_pullbackSections_res
 -- name    : GlobalTheory.QCoh.pullbackSections_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:52:49.645806+00:00
 -- url     : https://prove2.me/theorems/0f63c3a7-a135-55ad-bffd-1311fe11ed2f

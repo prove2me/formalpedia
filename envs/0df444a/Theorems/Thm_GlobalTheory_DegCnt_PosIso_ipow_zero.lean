@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_ipow_zero
 -- name    : GlobalTheory.DegCnt.PosIso.ipow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:26:49.342167+00:00
 -- url     : https://prove2.me/theorems/d9996b34-1e8e-4668-b7c4-a9ad00a398a0

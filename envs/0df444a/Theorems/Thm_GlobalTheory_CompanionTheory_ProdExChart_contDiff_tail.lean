@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ProdExChart_contDiff_tail
 -- name    : GlobalTheory.CompanionTheory.ProdExChart.contDiff_tail
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:32:56.006023+00:00
 -- url     : https://prove2.me/theorems/99ea1542-fc5a-5bd7-908e-fe0b6bf04eb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_SSn_ChainPf_hasDerivAt_list_sum
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.SSn.ChainPf.hasDerivAt_list_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:20:52.982453+00:00
 -- url     : https://prove2.me/theorems/e0425fed-40c1-47bd-a8f8-c5eddff0f16e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_subst_prod
 -- name    : Formalism.L2.FormalSeriesBounds.VP.subst_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:24:17.333564+00:00
 -- url     : https://prove2.me/theorems/013e00ef-bc3f-5061-b299-35e8de0abdb0

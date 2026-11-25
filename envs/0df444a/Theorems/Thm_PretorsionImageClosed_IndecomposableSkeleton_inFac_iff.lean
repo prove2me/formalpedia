@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_inFac_iff
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.inFac_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:22:30.116258+00:00
 -- url     : https://prove2.me/theorems/bcfe7a1a-546d-4ca5-8d0a-d91db8d4a761

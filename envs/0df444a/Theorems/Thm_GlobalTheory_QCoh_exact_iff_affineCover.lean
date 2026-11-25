@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_exact_iff_affineCover
 -- name    : GlobalTheory.QCoh.exact_iff_affineCover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:15:52.567933+00:00
 -- url     : https://prove2.me/theorems/5197fd00-52cb-5b35-a527-9f15adba4d38

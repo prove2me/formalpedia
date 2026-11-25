@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_redAt_eq_fa1134abb51b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_redAt_eq_fa1134abb51b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:31:09.233832+00:00
 -- url     : https://prove2.me/theorems/b7c55d94-9161-5b86-9569-61501cd9b2ec

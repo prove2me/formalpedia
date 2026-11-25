@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_map_data
 -- name    : GlobalTheory.Inertia.posIndex_map_data
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:35.664895+00:00
 -- url     : https://prove2.me/theorems/161368d5-af86-4699-b546-434f208bff16

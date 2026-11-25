@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_existsUnique_congr_sgn
 -- name    : GlobalTheory.Inertia.existsUnique_congr_sgn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:19:13.553606+00:00
 -- url     : https://prove2.me/theorems/fbbb9879-415f-4a2c-bd48-2f3daf83f138

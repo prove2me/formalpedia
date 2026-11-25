@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_localFourier_eq_zero_of_notMem
 -- name    : GroundTheory.LocalField.localFourier_eq_zero_of_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:33:38.024072+00:00
 -- url     : https://prove2.me/theorems/59faa868-f80d-4422-ae79-6b730b8ff4f1

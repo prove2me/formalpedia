@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_continuous_coef5
 -- name    : Formalism.L2.S.Pv.EnergyAbs.continuous_coef5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:25:08.521624+00:00
 -- url     : https://prove2.me/theorems/9c8e5d7a-6a1f-5ac2-826b-2f6830fe81ed

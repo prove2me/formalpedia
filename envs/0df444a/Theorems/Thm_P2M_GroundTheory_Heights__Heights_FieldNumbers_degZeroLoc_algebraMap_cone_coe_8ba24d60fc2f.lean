@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_degZeroLoc_algebraMap_cone_coe_8ba24d60fc2f
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_degZeroLoc_algebraMap_cone_coe_8ba24d60fc2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:12:48.101217+00:00
 -- url     : https://prove2.me/theorems/36d61537-5cb2-4c97-8d26-0fb3d71288d3

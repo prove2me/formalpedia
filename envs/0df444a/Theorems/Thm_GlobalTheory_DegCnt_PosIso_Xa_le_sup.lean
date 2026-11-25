@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_PosIso_Xa_le_sup
 -- name    : GlobalTheory.DegCnt.PosIso.Xa_le_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:28:57.3738+00:00
 -- url     : https://prove2.me/theorems/96f2e1e2-b804-5592-b8b9-63ce9fce558f

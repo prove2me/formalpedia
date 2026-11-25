@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_TopAlg_natDegree_fac
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.TopAlg.natDegree_fac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:20:25.907798+00:00
 -- url     : https://prove2.me/theorems/da70c830-d990-5a1d-8058-c98f38c3d596

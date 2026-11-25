@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_spanTo_map
 -- name    : GlobalTheory.FrameAct.spanTo_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:39:25.134248+00:00
 -- url     : https://prove2.me/theorems/a941ab55-2477-42f5-a67e-a93b3a62d6ce

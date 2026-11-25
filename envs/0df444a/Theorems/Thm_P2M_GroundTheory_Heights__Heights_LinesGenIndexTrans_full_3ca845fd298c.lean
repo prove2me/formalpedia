@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesGenIndexTrans_full_3ca845fd298c
 -- name    : P2M_GroundTheory_Heights__Heights_LinesGenIndexTrans_full_3ca845fd298c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:24.845006+00:00
 -- url     : https://prove2.me/theorems/e63d3ad9-cc25-4639-9886-a77a432c8e3f

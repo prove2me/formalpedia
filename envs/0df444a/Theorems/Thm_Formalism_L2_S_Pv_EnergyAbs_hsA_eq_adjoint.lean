@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_hsA_eq_adjoint
 -- name    : Formalism.L2.S.Pv.EnergyAbs.hsA_eq_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:24:53.996309+00:00
 -- url     : https://prove2.me/theorems/d82060bb-61ff-47b5-b507-818e6139c39e

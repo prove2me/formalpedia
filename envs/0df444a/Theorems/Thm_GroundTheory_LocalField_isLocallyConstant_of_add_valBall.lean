@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isLocallyConstant_of_add_valBall
 -- name    : GroundTheory.LocalField.isLocallyConstant_of_add_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:19:11.974196+00:00
 -- url     : https://prove2.me/theorems/ca30c37a-e779-4a71-a0bf-da2c59f52a95

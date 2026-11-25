@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuAdapt_star_inv_sqrt_two_bis
 -- name    : GlobalTheory.CompanionTheory.BmuAdapt.star_inv_sqrt_two_bis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:42:25.773227+00:00
 -- url     : https://prove2.me/theorems/8aae60a0-c84e-4795-be11-edf1e3f7bc95

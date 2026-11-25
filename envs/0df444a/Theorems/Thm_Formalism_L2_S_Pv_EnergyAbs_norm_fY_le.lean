@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_norm_fY_le
 -- name    : Formalism.L2.S.Pv.EnergyAbs.norm_fY_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:25:24.386893+00:00
 -- url     : https://prove2.me/theorems/dec97572-8186-5f5b-9e78-e8c15bafb62c

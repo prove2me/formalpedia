@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_memLp_of_diag
 -- name    : Formalism.L2.S.Pv.SchurTens.memLp_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:09:16.138095+00:00
 -- url     : https://prove2.me/theorems/428b3857-c6e0-50c7-a63d-5f2882fe6067

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_integral_norm_sq_eq_one
 -- name    : Formalism.L2.S.Pv.EnergyAbs.integral_norm_sq_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:24:43.761656+00:00
 -- url     : https://prove2.me/theorems/d5cb9614-071b-5d5c-920c-ff71b4faeed5

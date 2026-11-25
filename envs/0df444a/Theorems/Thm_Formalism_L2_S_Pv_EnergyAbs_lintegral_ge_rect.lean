@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_lintegral_ge_rect
 -- name    : Formalism.L2.S.Pv.EnergyAbs.lintegral_ge_rect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:25:02.275708+00:00
 -- url     : https://prove2.me/theorems/4fdaab0b-cdf0-4d6f-b83a-a720a47cab65

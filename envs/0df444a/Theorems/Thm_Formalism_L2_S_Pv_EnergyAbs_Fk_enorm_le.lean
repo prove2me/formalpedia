@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_Fk_enorm_le
 -- name    : Formalism.L2.S.Pv.EnergyAbs.Fk_enorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:25:10.170905+00:00
 -- url     : https://prove2.me/theorems/a7d31bb6-52de-4df6-8390-6a945e09330f

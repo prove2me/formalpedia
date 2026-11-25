@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LAtZero_logDeriv_LFunction_near_zero
 -- name    : GlobalTheory.LAtZero.logDeriv_LFunction_near_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:56:39.996608+00:00
 -- url     : https://prove2.me/theorems/7fe78370-5af9-432e-be5a-7937cc87c0b7

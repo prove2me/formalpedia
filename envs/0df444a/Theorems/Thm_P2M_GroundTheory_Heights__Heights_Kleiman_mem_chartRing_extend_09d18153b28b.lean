@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mem_chartRing_extend_09d18153b28b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mem_chartRing_extend_09d18153b28b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:23:24.725895+00:00
 -- url     : https://prove2.me/theorems/5cd282c1-a366-430f-bd23-1e4ca81b2dce

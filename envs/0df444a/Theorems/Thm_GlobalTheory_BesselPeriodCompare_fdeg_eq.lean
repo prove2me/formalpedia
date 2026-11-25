@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_fdeg_eq
 -- name    : GlobalTheory.BesselPeriodCompare.fdeg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:41:12.608724+00:00
 -- url     : https://prove2.me/theorems/19e445eb-a417-4d1e-a3b3-bcad477df99f

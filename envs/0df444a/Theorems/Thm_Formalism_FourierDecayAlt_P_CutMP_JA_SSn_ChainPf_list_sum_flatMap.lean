@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_SSn_ChainPf_list_sum_flatMap
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.SSn.ChainPf.list_sum_flatMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:20:28.423276+00:00
 -- url     : https://prove2.me/theorems/91d5f0a1-6cd5-459a-afad-6777f498600a

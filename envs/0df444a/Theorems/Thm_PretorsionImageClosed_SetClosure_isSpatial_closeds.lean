@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_isSpatial_closeds
 -- name    : PretorsionImageClosed.SetClosure.isSpatial_closeds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:27:57.14348+00:00
 -- url     : https://prove2.me/theorems/9a47ceac-4604-5413-a524-52affad2910a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuReduce_lieW_of
 -- name    : GlobalTheory.CompanionTheory.BmuReduce.lieW_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:35:15.857954+00:00
 -- url     : https://prove2.me/theorems/1a72703d-2e14-5157-b627-4d3d131470f9

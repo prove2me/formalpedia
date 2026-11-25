@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_TopAlg_eval_prodP
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.TopAlg.eval_prodP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:18:45.426697+00:00
 -- url     : https://prove2.me/theorems/0feadb3b-8f35-497c-b9b9-f226a48169f6

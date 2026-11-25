@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_GapSizes_consts
 -- name    : CompanionTheory.WaveGrid.GapSizes.consts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:18:43.737947+00:00
 -- url     : https://prove2.me/theorems/3cf7c037-47e1-530e-842d-4dff13f29559

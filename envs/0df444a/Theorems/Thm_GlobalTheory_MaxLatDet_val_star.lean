@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatDet_val_star
 -- name    : GlobalTheory.MaxLatDet.val_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:10:38.46686+00:00
 -- url     : https://prove2.me/theorems/342f5006-a7f8-4d97-b35a-7e7df82c2d8d

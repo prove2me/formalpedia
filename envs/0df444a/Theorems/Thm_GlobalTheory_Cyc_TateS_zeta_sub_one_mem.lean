@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_zeta_sub_one_mem
 -- name    : GlobalTheory.Cyc.TateS.zeta_sub_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:21:21.020188+00:00
 -- url     : https://prove2.me/theorems/fd0197ad-5a88-49f3-91f8-45e7a35c7db4

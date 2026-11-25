@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_padicHom_padicInt_mem_valBall_zero
 -- name    : GroundTheory.LocalField.padicHom_padicInt_mem_valBall_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:36:27.816989+00:00
 -- url     : https://prove2.me/theorems/755c2952-bb67-40e4-827d-8f1719cbb439

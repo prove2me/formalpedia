@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NearZeroDeriv_exists_large_derSeries
 -- name    : GlobalTheory.NearZeroDeriv.exists_large_derSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:31:56.657989+00:00
 -- url     : https://prove2.me/theorems/fb3c17fe-bbdd-445d-bf0a-a94359a0c449

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_invariant_of_mem_schwartzBruhat
 -- name    : GroundTheory.LocalField.exists_invariant_of_mem_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:09:42.687444+00:00
 -- url     : https://prove2.me/theorems/8b667e72-c9ab-4a8a-9ceb-40329e0f4d64

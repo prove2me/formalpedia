@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameEqv_map_xa
 -- name    : GlobalTheory.DegAsm.FrameEqv.map_xa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:21:44.912841+00:00
 -- url     : https://prove2.me/theorems/9f07c96f-0155-463a-ab81-40fd3dcf88e2

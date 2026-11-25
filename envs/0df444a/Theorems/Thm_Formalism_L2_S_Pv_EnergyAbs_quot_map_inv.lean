@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_quot_map_inv
 -- name    : Formalism.L2.S.Pv.EnergyAbs.quot_map_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:52.184109+00:00
 -- url     : https://prove2.me/theorems/c3bfa3a3-8661-423a-9dbc-94817cd0c103

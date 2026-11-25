@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_mainD_ae_eq
 -- name    : Formalism.FourierDecayAlt.P.PBK.mainD_ae_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:22:35.781349+00:00
 -- url     : https://prove2.me/theorems/90293cb5-a57a-409d-9907-be32af0567d2

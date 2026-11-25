@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_VolPerp_expand
 -- name    : GlobalTheory.HL.VolPerp.expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:40:22.840839+00:00
 -- url     : https://prove2.me/theorems/c95fdf43-2c95-56d8-8393-19c873ec76df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_inf_ker_snd_eq
 -- name    : GlobalTheory.UnitLemma.inf_ker_snd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:07:19.48439+00:00
 -- url     : https://prove2.me/theorems/da00d545-37c0-4c8f-8107-e8a95d724d04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_isTorsionPair_iff
 -- name    : PretorsionImageClosed.Statement.isTorsionPair_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:48:54.705389+00:00
 -- url     : https://prove2.me/theorems/6e651152-1961-4da7-9178-52b42c6de9f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CoordConeArithVar_proof_c88814975c4f
 -- name    : P2M_GroundTheory_Heights__Heights_CoordConeArithVar_proof_c88814975c4f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:25.671685+00:00
 -- url     : https://prove2.me/theorems/82088562-273f-4259-9811-730f7ec0c930

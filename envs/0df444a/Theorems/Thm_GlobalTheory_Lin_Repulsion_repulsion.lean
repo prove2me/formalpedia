@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lin_Repulsion_repulsion
 -- name    : GlobalTheory.Lin.Repulsion.repulsion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:07:16.31683+00:00
 -- url     : https://prove2.me/theorems/bd74d3c0-8a43-4047-b79a-c776b820ce00

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitDenom_schur_mem
 -- name    : GlobalTheory.OrbitDenom.schur_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:34:15.374966+00:00
 -- url     : https://prove2.me/theorems/0e4fac64-92b0-4ad5-8722-8a1321d7ec6b

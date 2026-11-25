@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateLeftIso_cupL
 -- name    : GroundTheory.GroupCoh.tateLeftIso_cupL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:33:24.16464+00:00
 -- url     : https://prove2.me/theorems/ffc1800d-1e6a-5fdc-8905-d5c6fa8cc3a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_middleCount_glue
 -- name    : PretorsionImageClosed.LinearQuiver.middleCount_glue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:46:26.876262+00:00
 -- url     : https://prove2.me/theorems/b781d3e0-84a5-4c17-b979-11cf4f0eac1c

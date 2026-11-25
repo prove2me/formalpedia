@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_pow_sub_af11ca77aee4
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThree_Away_pow_sub_af11ca77aee4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:32:31.05501+00:00
 -- url     : https://prove2.me/theorems/4605ee01-4671-4eaf-9411-f968c8053652

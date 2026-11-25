@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_SP_add_a
 -- name    : Formalism.L2.S.Pv.SchurTens.SP_add_a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:25:17.00684+00:00
 -- url     : https://prove2.me/theorems/c52d90c9-c795-4da5-9dc2-979359853925

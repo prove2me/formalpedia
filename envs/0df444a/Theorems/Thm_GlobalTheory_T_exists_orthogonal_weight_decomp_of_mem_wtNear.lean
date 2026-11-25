@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_orthogonal_weight_decomp_of_mem_wtNear
 -- name    : GlobalTheory.T.exists_orthogonal_weight_decomp_of_mem_wtNear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:40:37.143333+00:00
 -- url     : https://prove2.me/theorems/73064ad1-f1e9-4118-88d7-f04fc5b58859

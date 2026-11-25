@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Glue_exists_nat_smul_mem
 -- name    : GlobalTheory.HL.Glue.exists_nat_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:33:27.62526+00:00
 -- url     : https://prove2.me/theorems/1e3aaa79-2fc7-405c-b75c-c85731d969ec

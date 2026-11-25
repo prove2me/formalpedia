@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_gvec_continuous
 -- name    : Formalism.L2.S.Pv.EnergyAbs.gvec_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:25:06.718884+00:00
 -- url     : https://prove2.me/theorems/d6cfd34c-9c90-4d21-a1a8-fde01030d7b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_exact_iff_stalkLinear
 -- name    : GlobalTheory.QCoh.exact_iff_stalkLinear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:40:08.898905+00:00
 -- url     : https://prove2.me/theorems/63f368a8-577b-4836-8d83-ee1dd950bd0a

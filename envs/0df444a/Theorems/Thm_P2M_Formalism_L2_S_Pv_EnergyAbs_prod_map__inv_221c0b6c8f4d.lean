@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_S_Pv_EnergyAbs_prod_map__inv_221c0b6c8f4d
 -- name    : P2M_Formalism_L2_S_Pv_EnergyAbs_prod_map__inv_221c0b6c8f4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:10:23.26181+00:00
 -- url     : https://prove2.me/theorems/c7bd7297-b603-5942-8d1b-2aa2a6b3c7be

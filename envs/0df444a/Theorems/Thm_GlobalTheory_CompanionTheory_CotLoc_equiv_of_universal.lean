@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_equiv_of_universal
 -- name    : GlobalTheory.CompanionTheory.CotLoc.equiv_of_universal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:57:58.095908+00:00
 -- url     : https://prove2.me/theorems/f000ac3e-6a18-45cd-b559-2bbe2cfbd965

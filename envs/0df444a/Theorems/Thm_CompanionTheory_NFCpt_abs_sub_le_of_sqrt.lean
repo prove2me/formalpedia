@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_NFCpt_abs_sub_le_of_sqrt
 -- name    : CompanionTheory.NFCpt.abs_sub_le_of_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:16:19.048662+00:00
 -- url     : https://prove2.me/theorems/7d75eeb9-4420-53f9-a6b9-9edd4a54a962

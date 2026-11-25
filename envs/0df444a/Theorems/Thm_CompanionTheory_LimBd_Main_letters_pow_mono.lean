@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_letters_pow_mono
 -- name    : CompanionTheory.LimBd.Main.letters_pow_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:57:35.423602+00:00
 -- url     : https://prove2.me/theorems/1afbc3de-7e11-52d3-aa48-c6662f743169

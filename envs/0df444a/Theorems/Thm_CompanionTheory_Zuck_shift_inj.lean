@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_shift_inj
 -- name    : CompanionTheory.Zuck.shift_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:19:58.01633+00:00
 -- url     : https://prove2.me/theorems/9666ac5e-3dc0-5812-bed4-3586378179aa

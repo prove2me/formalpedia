@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rename_subst_linS
 -- name    : Formalism.L2.FormalSeriesBounds.rename_subst_linS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:25:11.700124+00:00
 -- url     : https://prove2.me/theorems/69d637bd-3940-5354-ac54-b1cafa2e8493

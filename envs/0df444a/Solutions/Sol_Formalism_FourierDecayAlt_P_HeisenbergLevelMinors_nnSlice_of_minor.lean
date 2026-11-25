@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.FourierDecayAlt.P.HeisenbergLevelMinors.nnSlice_of_minor
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T06:58:57.045662+00:00
+-- url     : https://prove2.me/submissions/62f21eba-36b2-4b66-9ee6-0295fd88dbd3
+
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_JDomBoundOfNnMaj
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_JfJqSmoothOfNnMaj
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LastLevelSliceOfScalar
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_OppositeWeylSubgroupClosed
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RankOneEmbeddings
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_NormBallVolumes
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_BetaSesquilinearity
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ConjugationContinuousOnInvertible
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HeisenbergLeviConjugationMeasure
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_UnipotentHeisenbergDecomposition
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_CompactGroupHaarExists
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_ConjugationInvarianceEverySetting
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HeisenbergLevelMinors
+import Theorems.Thm_Formalism_FourierDecayAlt_P_HeisenbergLevelMinors_nnSlice_of_parts
+import Theorems.Thm_Formalism_FourierDecayAlt_P_HeisenbergLevelMinors_unipotent_volume_growth
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix MeasureTheory Filter Topology
+open scoped ENNReal NNReal
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P Formalism.FourierDecayAlt.P.HeisenbergLevelMinors
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.B Formalism.FourierDecayAlt.JF
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+variable {k r : ℕ}
+namespace Formalism.FourierDecayAlt.P.HeisenbergLevelMinors
+theorem _root_.solution : NNMinor → Formalism.FourierDecayAlt.P.JFxDs5.NNSlice := fun h => nnSlice_of_parts h unipotent_volume_growth
+end Formalism.FourierDecayAlt.P.HeisenbergLevelMinors

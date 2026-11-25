@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrelatedAuctionComplexity_Main_utilityQ_eq_tie_dp
 -- name    : CorrelatedAuctionComplexity.Main.utilityQ_eq_tie_dp
--- status  : Open
+-- status  : Disproved
 -- author  : @Mr Robbins
 -- created : 2026-11-23T07:04:37.621915+00:00
 -- url     : https://prove2.me/theorems/5538febc-a604-4d4f-abc9-2a252e906211

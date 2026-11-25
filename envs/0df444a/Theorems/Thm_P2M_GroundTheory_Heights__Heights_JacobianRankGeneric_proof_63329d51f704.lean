@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankGeneric_proof_63329d51f704
 -- name    : P2M_GroundTheory_Heights__Heights_JacobianRankGeneric_proof_63329d51f704
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:00:54.117594+00:00
 -- url     : https://prove2.me/theorems/1454b1a6-e19f-474f-b5aa-7ff26aa3477e

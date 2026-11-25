@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_cj_int
 -- name    : GlobalTheory.HL.Inhab.cj_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:34:34.413274+00:00
 -- url     : https://prove2.me/theorems/33efc593-99f9-468d-898d-d4fbb0e49ca8

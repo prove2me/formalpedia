@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_pair_smul_right
 -- name    : GlobalTheory.OddBlock.ExpShift.pair_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:32:47.146347+00:00
 -- url     : https://prove2.me/theorems/c0e7e18d-2aa6-5185-bc65-49f9abbeb79c

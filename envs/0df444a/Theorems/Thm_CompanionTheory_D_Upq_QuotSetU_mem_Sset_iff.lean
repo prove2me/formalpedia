@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_mem_Sset_iff
 -- name    : CompanionTheory.D.Upq.QuotSetU.mem_Sset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:33:18.266921+00:00
 -- url     : https://prove2.me/theorems/b9bc7a29-e213-4f88-8ff1-15c5f2c2db06

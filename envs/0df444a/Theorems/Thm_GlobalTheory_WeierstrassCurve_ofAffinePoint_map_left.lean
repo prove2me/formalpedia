@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_ofAffinePoint_map_left
 -- name    : GlobalTheory.WeierstrassCurve.ofAffinePoint_map_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:25:09.037377+00:00
 -- url     : https://prove2.me/theorems/94e71687-1d7e-44c5-a392-d39185671f50

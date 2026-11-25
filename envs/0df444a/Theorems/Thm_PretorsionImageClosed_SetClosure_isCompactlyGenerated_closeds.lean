@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_isCompactlyGenerated_closeds
 -- name    : PretorsionImageClosed.SetClosure.isCompactlyGenerated_closeds
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:29:40.384212+00:00
 -- url     : https://prove2.me/theorems/450f8bd2-ad52-5289-8d53-a89e1815e9e2

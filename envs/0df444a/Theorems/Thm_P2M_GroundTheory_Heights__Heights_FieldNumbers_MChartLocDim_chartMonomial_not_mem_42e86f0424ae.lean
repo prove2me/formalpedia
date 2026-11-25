@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartLocDim_chartMonomial_not_mem_42e86f0424ae
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartLocDim_chartMonomial_not_mem_42e86f0424ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:38:37.166279+00:00
 -- url     : https://prove2.me/theorems/ee936d31-7e73-44f1-aa54-1e179411b5c8

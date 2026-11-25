@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_glue_contOf_colOf
 -- name    : PretorsionImageClosed.LinearQuiver.glue_contOf_colOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:45:06.828798+00:00
 -- url     : https://prove2.me/theorems/69b3c285-1a30-4c90-8eef-1b4a0b19ea16

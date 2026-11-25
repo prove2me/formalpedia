@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_PretorsionTheory_IsTorsion_sSup
+-- name    : PretorsionImageClosed.Statement.PretorsionTheory.IsTorsion.sSup
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-25T06:52:27.86136+00:00
+-- url     : https://prove2.me/theorems/5af928d8-138b-4893-9d5e-47bbbf6ff1d5
+-- title:
+--   Is Torsion: s Sup
+-- statement:
+--   **Corollary 3.9**: nonempty joins of torsion pairs are torsion pairs.
+--
+--   Source: https://github.com/haruhisa-enomoto/pretorsion-image-closed/blob/e803b5d1325bc1ce2b779efbff157b6cd3234bc8/PretorsionImageClosed/Pretorsion/TorsionPairs.lean#L116-L120
+-- source:
+--   https://github.com/haruhisa-enomoto/pretorsion-image-closed/blob/e803b5d1325bc1ce2b779efbff157b6cd3234bc8/PretorsionImageClosed/Pretorsion/TorsionPairs.lean#L116-L120
+
+module
+public import Definitions.Def_PretorsionImageClosed_Pretorsion_FixedMiddle
+public import Mathlib.Algebra.Homology.ShortComplex.ShortExact
+public import Definitions.Def_PretorsionImageClosed_Pretorsion_TorsionPairs
+set_option autoImplicit true
+@[expose] public section
+public section
+set_option autoImplicit false
+noncomputable section
+open PretorsionImageClosed PretorsionImageClosed.Statement
+open CategoryTheory Limits Subcategory ZeroObject
+variable {C : Type*} [Category C] [Abelian C]
+variable [HasLength C]
+open PretorsionImageClosed.Statement.PretorsionTheory
+
+theorem PretorsionImageClosed.Statement.PretorsionTheory.IsTorsion.sSup {S : Set (PretorsionTheory C)} (hne : S.Nonempty)
+    (h : ∀ P ∈ S, P.IsTorsion) : (sSup S).IsTorsion := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_Sys_det_ne_zero
 -- name    : Formalism.L2.FormalSeriesBounds.Sys.det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:26:12.216495+00:00
 -- url     : https://prove2.me/theorems/af94161a-14df-5009-ba7c-b5bc057321bb

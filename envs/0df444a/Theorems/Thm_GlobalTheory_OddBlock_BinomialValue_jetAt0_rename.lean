@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BinomialValue_jetAt0_rename
 -- name    : GlobalTheory.OddBlock.BinomialValue.jetAt0_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:34:00.809295+00:00
 -- url     : https://prove2.me/theorems/98fc0478-e47d-4670-a15f-5cafd83e5a21

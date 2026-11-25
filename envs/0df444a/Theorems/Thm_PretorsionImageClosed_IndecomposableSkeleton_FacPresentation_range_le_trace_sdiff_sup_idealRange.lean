@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_FacPresentation_range_le_trace_sdiff_sup_idealRange
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.FacPresentation.range_le_trace_sdiff_sup_idealRange
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:14:29.517824+00:00
 -- url     : https://prove2.me/theorems/a61d1ce6-8aa8-4ca2-a7d0-c0dd71ac7ab9

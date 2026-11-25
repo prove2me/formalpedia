@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_inner_integral_left
 -- name    : Formalism.L2.S.Pv.EnergyAbs.inner_integral_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:25:10.005366+00:00
 -- url     : https://prove2.me/theorems/d7b9eba2-573d-460d-b637-ed7fe4dc72d9

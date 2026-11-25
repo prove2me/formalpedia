@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_VLev_star_e0_dotProduct_self
 -- name    : GlobalTheory.HCXi.VLev.star_e0_dotProduct_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:19:16.127391+00:00
 -- url     : https://prove2.me/theorems/4fecb3cc-d56a-5c9f-8800-861b352cdab4

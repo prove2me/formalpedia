@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_isIntegral_mul_of_dvd_56198ea8cf87
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_LineNormalForm_isIntegral_mul_of_dvd_56198ea8cf87
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:29:25.619153+00:00
 -- url     : https://prove2.me/theorems/d1a5e5d5-1530-5f3f-96be-c43e90e4a4c9

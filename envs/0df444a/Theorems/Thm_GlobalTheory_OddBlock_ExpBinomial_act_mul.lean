@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpBinomial_act_mul
 -- name    : GlobalTheory.OddBlock.ExpBinomial.act_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:33:36.070815+00:00
 -- url     : https://prove2.me/theorems/273aebcc-be98-5d6b-814e-d11361d1a56a

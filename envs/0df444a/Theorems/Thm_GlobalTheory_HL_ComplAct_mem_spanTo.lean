@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ComplAct_mem_spanTo
 -- name    : GlobalTheory.HL.ComplAct.mem_spanTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:23:28.756558+00:00
 -- url     : https://prove2.me/theorems/f43e5d80-ddda-5f36-a9e2-59a986651009

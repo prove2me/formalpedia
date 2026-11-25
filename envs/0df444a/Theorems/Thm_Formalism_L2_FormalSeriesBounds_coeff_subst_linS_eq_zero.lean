@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_subst_linS_eq_zero
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_subst_linS_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:26:00.277885+00:00
 -- url     : https://prove2.me/theorems/8dd5b15f-faa6-5067-a871-e0d7a85f2a39

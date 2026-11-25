@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_idealEquiv_apply_ed453f3bd221
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberRelabel_idealEquiv_apply_ed453f3bd221
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:38:19.983801+00:00
 -- url     : https://prove2.me/theorems/e412322e-6c71-45d8-8022-eab61cbb2835

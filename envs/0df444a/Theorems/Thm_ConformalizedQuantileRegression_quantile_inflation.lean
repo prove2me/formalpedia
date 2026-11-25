@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalizedQuantileRegression_quantile_inflation
 -- name    : ConformalizedQuantileRegression.quantile_inflation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:41:56.513503+00:00
 -- url     : https://prove2.me/theorems/a4553694-8bd5-4fe0-9e22-29da3172f8c3

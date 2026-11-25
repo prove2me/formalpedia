@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpBinomial_sum_eq_of_isHomogeneous
 -- name    : GlobalTheory.OddBlock.ExpBinomial.sum_eq_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:34:41.93471+00:00
 -- url     : https://prove2.me/theorems/3a34239d-29dc-48ea-a4e9-a59e53d0a4bd

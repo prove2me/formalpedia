@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_exact_app_of_exact
 -- name    : GlobalTheory.QCoh.exact_app_of_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:17:24.343577+00:00
 -- url     : https://prove2.me/theorems/0a1020a9-375b-4f33-96a2-7495a8ceb164

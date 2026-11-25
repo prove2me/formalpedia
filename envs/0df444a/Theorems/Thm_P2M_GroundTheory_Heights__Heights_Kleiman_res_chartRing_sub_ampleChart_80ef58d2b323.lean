@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_res_chartRing_sub_ampleChart_80ef58d2b323
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_res_chartRing_sub_ampleChart_80ef58d2b323
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:24:40.774096+00:00
 -- url     : https://prove2.me/theorems/94c3a1bf-4dc2-4d79-a090-4f21931a388e

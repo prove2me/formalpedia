@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FixDisc_idx_gmap
 -- name    : GlobalTheory.DegCnt.FixDisc.idx_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:18:43.819517+00:00
 -- url     : https://prove2.me/theorems/ddbbd5b3-7f78-4abf-b5aa-0ed99b09ce15

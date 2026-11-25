@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CongGrp_pow_mem__de67754d33b0
 -- name    : P2M_GlobalTheory_CongGrp_pow_mem__de67754d33b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:22:49.486347+00:00
 -- url     : https://prove2.me/theorems/7e1973dc-8f76-45fc-841a-9d36ca34d088

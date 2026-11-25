@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_functionFieldPlace_local_index_colength
 -- name    : GlobalTheory.T.functionFieldPlace_local_index_colength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:11:21.30865+00:00
 -- url     : https://prove2.me/theorems/c754d62c-d80c-4ac1-83d4-ce8ae559c0dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GoodHeight_exists_height
 -- name    : GlobalTheory.GoodHeight.exists_height
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T13:57:25.166608+00:00
 -- url     : https://prove2.me/theorems/56d9d70c-d977-4db4-aad0-7a1522654d2c

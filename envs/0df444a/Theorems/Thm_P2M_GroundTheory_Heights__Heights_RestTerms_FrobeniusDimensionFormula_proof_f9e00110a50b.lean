@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FrobeniusDimensionFormula_proof_f9e00110a50b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FrobeniusDimensionFormula_proof_f9e00110a50b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:32:46.265653+00:00
 -- url     : https://prove2.me/theorems/976de381-e861-5c3d-b7f7-86eb6ea6710b

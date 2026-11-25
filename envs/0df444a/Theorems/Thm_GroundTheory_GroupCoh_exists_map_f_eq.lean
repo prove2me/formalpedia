@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_exists_map_f_eq
 -- name    : GroundTheory.GroupCoh.exists_map_f_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:15:23.256806+00:00
 -- url     : https://prove2.me/theorems/c4a7c24d-82cd-5d35-b9ce-924d9f94128f

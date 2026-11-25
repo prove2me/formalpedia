@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_haar_of_compact
 -- name    : GlobalTheory.BesselPeriodCompare.haar_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:22:28.533465+00:00
 -- url     : https://prove2.me/theorems/3e994bb4-4f17-4b8a-bb67-2697e88acab4

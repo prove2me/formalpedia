@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Inhab_extZ_mem
 -- name    : GlobalTheory.HL.Inhab.extZ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:46.969882+00:00
 -- url     : https://prove2.me/theorems/bf3f6fc0-1b88-5afd-b983-168c67a447c7

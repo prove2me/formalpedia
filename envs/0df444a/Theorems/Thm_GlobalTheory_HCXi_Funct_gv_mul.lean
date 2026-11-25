@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_Funct_gv_mul
 -- name    : GlobalTheory.HCXi.Funct.gv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:53:59.588122+00:00
 -- url     : https://prove2.me/theorems/b356898d-03f6-5a9e-ad20-dcf1341f849e

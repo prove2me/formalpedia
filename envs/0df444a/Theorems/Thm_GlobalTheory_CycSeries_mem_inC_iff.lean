@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_mem_inC_iff
 -- name    : GlobalTheory.CycSeries.mem_inC_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:08.612692+00:00
 -- url     : https://prove2.me/theorems/b22f2293-08b5-544b-a13c-6ab418e7656b

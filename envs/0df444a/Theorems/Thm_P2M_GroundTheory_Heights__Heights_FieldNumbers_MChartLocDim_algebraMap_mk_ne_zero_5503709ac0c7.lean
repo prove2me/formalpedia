@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartLocDim_algebraMap_mk_ne_zero_5503709ac0c7
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartLocDim_algebraMap_mk_ne_zero_5503709ac0c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:38:19.976042+00:00
 -- url     : https://prove2.me/theorems/51158de3-9d09-5af6-b85e-cac1ab98c9b0

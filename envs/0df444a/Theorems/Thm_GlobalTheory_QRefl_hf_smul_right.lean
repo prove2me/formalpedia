@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QRefl_hf_smul_right
 -- name    : GlobalTheory.QRefl.hf_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:33:45.128822+00:00
 -- url     : https://prove2.me/theorems/b107b00e-be82-5a7e-81cb-e734f3e0b7db

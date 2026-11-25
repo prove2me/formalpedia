@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_proof_b9c6d1bb4b93
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_proof_b9c6d1bb4b93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:32:56.220355+00:00
 -- url     : https://prove2.me/theorems/dc01e862-0999-4ea1-9c4f-557f59b3015c

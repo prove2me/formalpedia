@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_affinePointEquiv_symm_zeroOver
 -- name    : GlobalTheory.WeierstrassCurve.affinePointEquiv_symm_zeroOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:24:48.492814+00:00
 -- url     : https://prove2.me/theorems/e274a5e9-6376-5b41-a606-89373dd7d6c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_gvec_norm
 -- name    : Formalism.L2.S.Pv.EnergyAbs.gvec_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:24:22.609663+00:00
 -- url     : https://prove2.me/theorems/0c2a1801-e592-5714-81fb-7b96d87f2281

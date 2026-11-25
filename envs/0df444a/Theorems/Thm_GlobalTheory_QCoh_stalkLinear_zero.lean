@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_stalkLinear_zero
 -- name    : GlobalTheory.QCoh.stalkLinear_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:38:52.739798+00:00
 -- url     : https://prove2.me/theorems/7a61d148-05b4-4b37-902a-c09d04d1b695

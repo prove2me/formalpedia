@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_PCountEx_alg_mem_O
 -- name    : Formalism.L2.SG.Pf.PCountEx.alg_mem_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:39:28.105591+00:00
 -- url     : https://prove2.me/theorems/e0c0dac6-f8d6-58da-a8d7-d404f40a73e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_QMinOp_opApply_append
 -- name    : Formalism.FourierDecayAlt.P.CutMP.QMinOp.opApply_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:36:49.586733+00:00
 -- url     : https://prove2.me/theorems/29f39c9d-f34e-5649-aa73-450463ab4c55

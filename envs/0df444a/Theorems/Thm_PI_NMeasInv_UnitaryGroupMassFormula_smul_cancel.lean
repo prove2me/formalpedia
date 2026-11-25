@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_smul_cancel
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.smul_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:16:07.96552+00:00
 -- url     : https://prove2.me/theorems/4356f54e-1c88-4086-ab2a-5cccf6333e6f
