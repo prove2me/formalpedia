@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_ZI_iter_words
 -- name    : PI.UnitaryGroupMassFormula.UsCost.ZI.iter_words
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:33:58.555435+00:00
 -- url     : https://prove2.me/theorems/64026015-4307-47c1-bef1-72d24c719a2a

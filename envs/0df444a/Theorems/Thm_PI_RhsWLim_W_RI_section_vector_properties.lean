@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_section_vector_properties
 -- name    : PI.RhsWLim.W.RI.section_vector_properties
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:36:07.914207+00:00
 -- url     : https://prove2.me/theorems/52a6fb69-9a6e-5259-9d83-5416b1e2a9fa

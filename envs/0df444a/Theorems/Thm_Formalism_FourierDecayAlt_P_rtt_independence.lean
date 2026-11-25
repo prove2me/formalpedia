@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rtt_independence
 -- name    : Formalism.FourierDecayAlt.P.rtt_independence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:52:02.929909+00:00
 -- url     : https://prove2.me/theorems/a37a9ea6-8791-4c19-96c7-d50f8fc60499

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdUniqW_testEx_of_lattice
 -- name    : PI.VolStabW.SdUniqW.testEx_of_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:38:52.794489+00:00
 -- url     : https://prove2.me/theorems/91802565-8559-4474-b951-05fd2b91e45c

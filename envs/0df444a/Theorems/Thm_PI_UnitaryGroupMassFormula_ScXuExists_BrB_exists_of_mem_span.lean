@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_BrB_exists_of_mem_span
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.BrB.exists_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:40:46.617528+00:00
 -- url     : https://prove2.me/theorems/f3a7cad3-dd91-450d-86ec-905143569d97

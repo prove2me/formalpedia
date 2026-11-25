@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_countable_field
 -- name    : PI.WAU.B.countable_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:43:36.041935+00:00
 -- url     : https://prove2.me/theorems/f368d1dd-cebc-422e-84ce-855ef03e68c3

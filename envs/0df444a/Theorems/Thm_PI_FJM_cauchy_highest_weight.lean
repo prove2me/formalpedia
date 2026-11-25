@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJM_cauchy_highest_weight
 -- name    : PI.FJM.cauchy_highest_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:05:05.052811+00:00
 -- url     : https://prove2.me/theorems/d6c3a1d7-c7d4-4599-8792-173dc119ca78

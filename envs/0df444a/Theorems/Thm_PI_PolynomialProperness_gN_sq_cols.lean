@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_gN_sq_cols
 -- name    : PI.PolynomialProperness.gN_sq_cols
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:38:39.075086+00:00
 -- url     : https://prove2.me/theorems/c5d4286c-73a4-4644-bf5a-3e4eacb9d961

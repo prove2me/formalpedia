@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_thetaBDeRhamPlus_eq_zero_of_evalB_one_eq_zero
 -- name    : GroundTheory.PAdicHodge.thetaBDeRhamPlus_eq_zero_of_evalB_one_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:02:39.107231+00:00
 -- url     : https://prove2.me/theorems/12e2911f-3446-52db-8331-f747206c34ed

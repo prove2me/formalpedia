@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_exists_unit_diff
 -- name    : PI.SplitIntLoc.Proof.exists_unit_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:24:59.070497+00:00
 -- url     : https://prove2.me/theorems/731cb621-0b22-5d71-94af-5655879819ef

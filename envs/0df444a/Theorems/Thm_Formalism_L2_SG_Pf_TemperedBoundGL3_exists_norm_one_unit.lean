@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_TemperedBoundGL3_exists_norm_one_unit
 -- name    : Formalism.L2.SG.Pf.TemperedBoundGL3.exists_norm_one_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:40:57.083032+00:00
 -- url     : https://prove2.me/theorems/23e6c630-1488-50c6-a005-7d4b6e21583a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_card_decomp
 -- name    : PI.VolStabS.FFHS.card_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:36:21.770653+00:00
 -- url     : https://prove2.me/theorems/a89631a3-cdb3-4501-9f8f-4f9f991e5aee

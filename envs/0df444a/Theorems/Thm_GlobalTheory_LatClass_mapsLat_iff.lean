@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_mapsLat_iff
 -- name    : GlobalTheory.LatClass.mapsLat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:46:26.647932+00:00
 -- url     : https://prove2.me/theorems/17ddebc7-3793-5428-915c-52c7598045f3

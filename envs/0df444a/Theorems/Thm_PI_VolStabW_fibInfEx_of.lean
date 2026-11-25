@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_fibInfEx_of
 -- name    : PI.VolStabW.fibInfEx_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:41:45.962087+00:00
 -- url     : https://prove2.me/theorems/17287080-baaa-5df3-b752-93a05153419f

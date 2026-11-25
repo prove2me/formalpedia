@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DualI_mem_latSet
 -- name    : PI.UnitaryGroupMassFormula.LCG.DualI.mem_latSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:24.860812+00:00
 -- url     : https://prove2.me/theorems/9d1d9c59-5a83-46d0-9e46-c187be51ccb9

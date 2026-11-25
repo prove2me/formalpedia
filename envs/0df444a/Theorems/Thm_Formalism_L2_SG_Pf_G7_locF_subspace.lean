@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G7_locF_subspace
 -- name    : Formalism.L2.SG.Pf.G7.locF_subspace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:40:34.068773+00:00
 -- url     : https://prove2.me/theorems/74e0ca57-e4e9-54dc-9299-8000e068fa5a

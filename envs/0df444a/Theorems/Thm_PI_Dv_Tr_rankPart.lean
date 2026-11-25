@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_rankPart
 -- name    : PI.Dv.Tr.rankPart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:12:40.853605+00:00
 -- url     : https://prove2.me/theorems/6986a792-a919-4190-976f-0bfec5cc94f7

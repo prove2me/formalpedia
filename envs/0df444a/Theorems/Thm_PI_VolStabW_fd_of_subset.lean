@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_fd_of_subset
 -- name    : PI.VolStabW.fd_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:41:31.223285+00:00
 -- url     : https://prove2.me/theorems/c6e9ce57-a2f4-5207-889a-eb1ed5fe02a7

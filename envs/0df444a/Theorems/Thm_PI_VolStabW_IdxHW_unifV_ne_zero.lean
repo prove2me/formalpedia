@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_IdxHW_unifV_ne_zero
 -- name    : PI.VolStabW.IdxHW.unifV_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:39:36.518055+00:00
 -- url     : https://prove2.me/theorems/83622b70-94a8-42af-a7ac-a448d8f7db50

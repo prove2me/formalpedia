@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_EfRankSum_efRankSum_main
 -- name    : PI.UnitaryGroupMassFormula.EfRankSum.efRankSum_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:24.697364+00:00
 -- url     : https://prove2.me/theorems/58d85d34-3344-4c48-bca5-5b1da6c6ce3d

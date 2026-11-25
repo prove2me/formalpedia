@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_exists_good_form
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.exists_good_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:34:33.922456+00:00
 -- url     : https://prove2.me/theorems/a0a05c93-3ad9-56ad-8968-32730843de73

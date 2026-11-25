@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TopoMuInv_BR_smul
 -- name    : PI.VolStabW.TopoMuInv.BR_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:40:05.287954+00:00
 -- url     : https://prove2.me/theorems/94739b60-c730-59ad-8496-9a9d04f336ad

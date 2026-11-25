@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_coneVol
 -- name    : PI.RhsWLim.W.coneVol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:36:18.092856+00:00
 -- url     : https://prove2.me/theorems/c01d6f4b-8090-4f33-8a66-3727c753b866

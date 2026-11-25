@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_filt_abstract
 -- name    : PI.VolStabSW.filt_abstract
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:39:55.602487+00:00
 -- url     : https://prove2.me/theorems/18119524-a4f1-4429-a21e-5c85d576fb35

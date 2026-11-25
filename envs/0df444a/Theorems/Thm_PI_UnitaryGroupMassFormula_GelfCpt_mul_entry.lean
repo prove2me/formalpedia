@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfCpt_mul_entry
 -- name    : PI.UnitaryGroupMassFormula.GelfCpt.mul_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:19.193192+00:00
 -- url     : https://prove2.me/theorems/166f9c42-1fd7-5a61-a0ab-6d6747974864

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantGroupCounts_mul_mk_eq_zero_iff
 -- name    : Formalism.L2.SG.Pf.discriminantGroupCounts.mul_mk_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:39:19.205684+00:00
 -- url     : https://prove2.me/theorems/c3c1c995-c4e4-5b7f-814e-1de59f4dae40

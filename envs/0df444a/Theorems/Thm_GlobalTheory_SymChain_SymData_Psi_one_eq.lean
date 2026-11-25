@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_SymData_Psi_one_eq
 -- name    : GlobalTheory.SymChain.SymData.Psi_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:38:39.3379+00:00
 -- url     : https://prove2.me/theorems/3ad896bd-b824-55a8-b2ef-c3abe0ef6136

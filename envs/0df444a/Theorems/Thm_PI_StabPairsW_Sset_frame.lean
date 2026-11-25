@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_Sset_frame
 -- name    : PI.StabPairsW.Sset_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:51:59.974881+00:00
 -- url     : https://prove2.me/theorems/26b3995f-d14a-490c-ad6a-0d24fbbe9869

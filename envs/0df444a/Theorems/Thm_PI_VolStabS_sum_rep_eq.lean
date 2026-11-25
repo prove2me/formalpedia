@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_sum_rep_eq
 -- name    : PI.VolStabS.sum_rep_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:36:36.158268+00:00
 -- url     : https://prove2.me/theorems/919d385f-8970-4a18-9021-be301b39fbb4

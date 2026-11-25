@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSLWithoutPairs_exact_integral
 -- name    : SSLWithoutPairs.exact_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:41:27.177858+00:00
 -- url     : https://prove2.me/theorems/355c2b4f-78fd-4170-92c4-618d2e89d795

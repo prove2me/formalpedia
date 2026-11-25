@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_det_rows_map
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.det_rows_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:33:58.095751+00:00
 -- url     : https://prove2.me/theorems/4b919081-66a3-48ae-9cc7-fbc447e86d30

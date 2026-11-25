@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_W_claim_of
 -- name    : PI.PrimesDyadicRS.W.claim_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:32.867562+00:00
 -- url     : https://prove2.me/theorems/0c9e345d-b510-4987-a6dc-111e72ebfbb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmRowForm_double_row_decreasing
 -- name    : PI.UnitaryGroupMassFormula.QmRowForm.double_row_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:43.132978+00:00
 -- url     : https://prove2.me/theorems/7db33e74-51a2-4ad2-8575-3dd340f1bf5c

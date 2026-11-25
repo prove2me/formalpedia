@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_DensGen_cut_props
 -- name    : PI.VolStabSW.DensGen.cut_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:37:07.959949+00:00
 -- url     : https://prove2.me/theorems/e3510176-a252-564e-9c81-356409671e1e

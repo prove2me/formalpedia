@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderFull_Four_triple
 -- name    : PI.UnitaryGroupMassFormula.QmBorderFull.Four.triple
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:40:08.326455+00:00
 -- url     : https://prove2.me/theorems/903713f8-59a7-4cd1-8929-ce3f812c455b

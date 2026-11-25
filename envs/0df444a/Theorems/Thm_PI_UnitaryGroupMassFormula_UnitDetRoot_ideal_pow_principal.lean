@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_ideal_pow_principal
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.ideal_pow_principal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:34:27.392172+00:00
 -- url     : https://prove2.me/theorems/ccc4daee-2bbb-510e-a545-cdd8de077058

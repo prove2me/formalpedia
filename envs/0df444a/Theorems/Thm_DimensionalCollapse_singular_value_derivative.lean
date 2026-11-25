@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimensionalCollapse_singular_value_derivative
 -- name    : DimensionalCollapse.singular_value_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:55:02.653692+00:00
 -- url     : https://prove2.me/theorems/9c899c09-89c5-4417-b3b1-e086ec1a4944

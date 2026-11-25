@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootShift_W_arithP
 -- name    : PI.SqfRootShift.W.arithP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:26:50.084893+00:00
 -- url     : https://prove2.me/theorems/9a675011-ba99-4e79-9757-ffe8e5504c15

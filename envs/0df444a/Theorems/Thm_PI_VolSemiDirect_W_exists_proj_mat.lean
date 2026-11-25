@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_exists_proj_mat
 -- name    : PI.VolSemiDirect.W.exists_proj_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:37:17.068467+00:00
 -- url     : https://prove2.me/theorems/4c676d2d-b821-4672-9f2c-07191d239268

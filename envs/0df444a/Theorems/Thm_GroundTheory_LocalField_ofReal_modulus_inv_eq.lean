@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ofReal_modulus_inv_eq
 -- name    : GroundTheory.LocalField.ofReal_modulus_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:34:41.172861+00:00
 -- url     : https://prove2.me/theorems/f3ef1303-b363-5a5b-a634-41ad3e127749

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TailWork_sum_log_div_sq_le_div
 -- name    : PI.TailWork.sum_log_div_sq_le_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:50.436822+00:00
 -- url     : https://prove2.me/theorems/b1953b40-7654-577e-9c26-8e6dae633a7c

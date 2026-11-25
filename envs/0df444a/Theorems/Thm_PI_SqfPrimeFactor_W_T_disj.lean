@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfPrimeFactor_W_T_disj
 -- name    : PI.SqfPrimeFactor.W.T_disj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:26:39.259643+00:00
 -- url     : https://prove2.me/theorems/b4f37871-9945-4923-b80f-d0a30697a407

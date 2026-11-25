@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_SR_sr1_prod
 -- name    : PI.VolSemiDirect.W.SR.sr1_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:37:01.825097+00:00
 -- url     : https://prove2.me/theorems/9aeff18b-600b-4f0f-a0f6-c9fbdeaa1efa

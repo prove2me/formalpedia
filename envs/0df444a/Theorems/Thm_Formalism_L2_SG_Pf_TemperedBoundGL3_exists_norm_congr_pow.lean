@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_TemperedBoundGL3_exists_norm_congr_pow
 -- name    : Formalism.L2.SG.Pf.TemperedBoundGL3.exists_norm_congr_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:44:11.347702+00:00
 -- url     : https://prove2.me/theorems/c8d8e6b5-e3e5-568e-98fb-b20fe19f28f8

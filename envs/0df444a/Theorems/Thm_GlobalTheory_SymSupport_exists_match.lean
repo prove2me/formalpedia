@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymSupport_exists_match
 -- name    : GlobalTheory.SymSupport.exists_match
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:39:29.666395+00:00
 -- url     : https://prove2.me/theorems/1378d77f-4a3e-4429-96dd-34b3cb62b09b

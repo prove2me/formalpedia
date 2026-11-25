@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_ratV_mem_spanR
 -- name    : PI.VolSemiDirect.W.ratV_mem_spanR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:36:49.509585+00:00
 -- url     : https://prove2.me/theorems/0655b2ef-2ba2-514c-9981-aec6d7b118f5

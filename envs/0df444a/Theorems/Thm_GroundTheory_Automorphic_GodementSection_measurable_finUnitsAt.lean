@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSection_measurable_finUnitsAt
 -- name    : GroundTheory.Automorphic.GodementSection.measurable_finUnitsAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:49:27.435262+00:00
 -- url     : https://prove2.me/theorems/b976c6d7-4f74-48d3-b80d-e59b63c313cb

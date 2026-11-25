@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabBigW_g_left_inv
 -- name    : PI.StabBigW.g_left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:27:35.246605+00:00
 -- url     : https://prove2.me/theorems/736b33ef-f31d-442e-83ac-bc325132f5c6

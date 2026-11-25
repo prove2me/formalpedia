@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_ExS_existS_of
 -- name    : PI.LevelKSplit.W.ExS.existS_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:34:25.375703+00:00
 -- url     : https://prove2.me/theorems/101ca10d-babd-4216-8e40-7ef903cce2a8

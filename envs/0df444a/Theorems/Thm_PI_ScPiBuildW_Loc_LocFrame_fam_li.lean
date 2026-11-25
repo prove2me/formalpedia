@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_LocFrame_fam_li
 -- name    : PI.ScPiBuildW.Loc.LocFrame.fam_li
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:41:04.519072+00:00
 -- url     : https://prove2.me/theorems/1965abd0-01ae-5d06-88bd-31eb82715048

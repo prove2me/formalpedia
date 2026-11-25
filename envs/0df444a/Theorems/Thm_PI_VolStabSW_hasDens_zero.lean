@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_hasDens_zero
 -- name    : PI.VolStabSW.hasDens_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:03:55.165214+00:00
 -- url     : https://prove2.me/theorems/c7559b1f-5892-473d-97fa-2c7fb9bd8c0d

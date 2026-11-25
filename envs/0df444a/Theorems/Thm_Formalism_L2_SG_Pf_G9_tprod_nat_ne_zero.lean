@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_tprod_nat_ne_zero
 -- name    : Formalism.L2.SG.Pf.G9.tprod_nat_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:36:55.573727+00:00
 -- url     : https://prove2.me/theorems/fc1cecb3-2813-5bdf-b7b8-9bcaa8846f3f

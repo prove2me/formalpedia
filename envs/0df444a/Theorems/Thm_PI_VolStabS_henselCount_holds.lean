@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_henselCount_holds
 -- name    : PI.VolStabS.henselCount_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:36:30.856914+00:00
 -- url     : https://prove2.me/theorems/2bc78049-1b04-5e07-8a84-844e1dd99029

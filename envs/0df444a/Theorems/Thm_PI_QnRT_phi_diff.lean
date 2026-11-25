@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_phi_diff
 -- name    : PI.QnRT.phi_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:20:25.781593+00:00
 -- url     : https://prove2.me/theorems/c36d96ae-ea2f-5d0b-9484-1a02e811c0ad

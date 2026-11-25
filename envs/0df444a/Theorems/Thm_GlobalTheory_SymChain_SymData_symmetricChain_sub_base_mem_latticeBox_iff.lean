@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_SymData_symmetricChain_sub_base_mem_latticeBox_iff
 -- name    : GlobalTheory.SymChain.SymData.symmetricChain_sub_base_mem_latticeBox_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:45:16.875823+00:00
 -- url     : https://prove2.me/theorems/28f1193f-7f50-462b-8bb2-71efa2366ba2

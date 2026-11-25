@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_det_ne_of_mem_GV
 -- name    : PI.StabPairsW.det_ne_of_mem_GV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:27:44.66838+00:00
 -- url     : https://prove2.me/theorems/86a9d156-699f-4492-8648-2dd1df91c757

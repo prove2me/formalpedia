@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_inv_memO_of_v
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.inv_memO_of_v
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:46:35.271614+00:00
 -- url     : https://prove2.me/theorems/7947158c-6682-4988-9e2c-c5ae4ff846fc

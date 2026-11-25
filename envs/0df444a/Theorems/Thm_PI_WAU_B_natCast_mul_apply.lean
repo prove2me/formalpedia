@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_natCast_mul_apply
 -- name    : PI.WAU.B.natCast_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:43:06.760897+00:00
 -- url     : https://prove2.me/theorems/bacead7d-6943-4031-883a-259b6f383eb1

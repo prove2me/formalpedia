@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_disjoint_triples_matching
 -- name    : F6ConvexWindow.disjoint_triples_matching
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:18:41.006041+00:00
 -- url     : https://prove2.me/theorems/914d7a8e-8198-569f-bda9-d1be5cd1fa9d

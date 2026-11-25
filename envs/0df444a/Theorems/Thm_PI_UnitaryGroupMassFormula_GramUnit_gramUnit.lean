@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GramUnit_gramUnit
 -- name    : PI.UnitaryGroupMassFormula.GramUnit.gramUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:28.607687+00:00
 -- url     : https://prove2.me/theorems/d2f0f70c-f105-4a96-bbcb-5129393a7c39

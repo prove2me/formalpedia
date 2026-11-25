@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QuotNuSigma_sigmaFinite_of_weil
 -- name    : PI.UnitaryGroupMassFormula.QuotNuSigma.sigmaFinite_of_weil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:32:46.97833+00:00
 -- url     : https://prove2.me/theorems/0d0ad813-c829-513f-8569-d2388a00506a

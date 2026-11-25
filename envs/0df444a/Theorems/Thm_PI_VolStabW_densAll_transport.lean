@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_densAll_transport
 -- name    : PI.VolStabW.densAll_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:47.122575+00:00
 -- url     : https://prove2.me/theorems/2f1bf1f4-89ce-4321-aa1a-ac6169a0aeb7

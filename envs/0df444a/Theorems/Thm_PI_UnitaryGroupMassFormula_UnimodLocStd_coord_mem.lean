@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_coord_mem
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.coord_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:35:22.662499+00:00
 -- url     : https://prove2.me/theorems/aeb1291c-b9df-43ec-8ad8-2c1bf4868d66

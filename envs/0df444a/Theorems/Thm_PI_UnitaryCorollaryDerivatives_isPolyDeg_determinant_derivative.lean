@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_isPolyDeg_determinant_derivative
 -- name    : PI.UnitaryCorollaryDerivatives.isPolyDeg_determinant_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:49:16.946536+00:00
 -- url     : https://prove2.me/theorems/075f42f3-4992-4276-a6cf-1682b83bfa49

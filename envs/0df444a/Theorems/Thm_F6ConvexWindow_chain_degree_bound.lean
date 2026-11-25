@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_chain_degree_bound
 -- name    : F6ConvexWindow.chain_degree_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:34:46.335628+00:00
 -- url     : https://prove2.me/theorems/cb4ec738-23a6-56dd-baba-8cde43411bf3

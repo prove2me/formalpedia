@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_move_operator_covariance
 -- name    : PI.UnitaryGroupMassFormula.QmMove.move_operator_covariance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:21.979898+00:00
 -- url     : https://prove2.me/theorems/53cf000e-c2db-4a6c-b79b-f55632eaf180

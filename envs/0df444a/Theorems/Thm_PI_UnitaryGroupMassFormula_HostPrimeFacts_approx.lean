@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_HostPrimeFacts_approx
 -- name    : PI.UnitaryGroupMassFormula.HostPrimeFacts.approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:27.456194+00:00
 -- url     : https://prove2.me/theorems/ed6ffc30-06e5-558a-a4fb-35193ff887c0

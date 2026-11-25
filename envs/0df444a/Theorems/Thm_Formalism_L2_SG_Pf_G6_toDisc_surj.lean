@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G6_toDisc_surj
 -- name    : Formalism.L2.SG.Pf.G6.toDisc_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:29:52.837188+00:00
 -- url     : https://prove2.me/theorems/595ecc88-3e4e-5282-9029-0f52b6d3ef32

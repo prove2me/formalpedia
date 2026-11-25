@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_degree_sum_eq_twice_A2
 -- name    : F6ConvexWindow.degree_sum_eq_twice_A2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:08:38.245109+00:00
 -- url     : https://prove2.me/theorems/32a55562-278f-45b6-b7f7-74124502ad1f

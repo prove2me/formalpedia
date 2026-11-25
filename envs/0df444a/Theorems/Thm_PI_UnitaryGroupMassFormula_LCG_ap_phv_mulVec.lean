@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_ap_phv_mulVec
 -- name    : PI.UnitaryGroupMassFormula.LCG.ap_phv_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:39:19.956479+00:00
 -- url     : https://prove2.me/theorems/cfafd560-228c-4c4f-a8ec-13b727ca33b9

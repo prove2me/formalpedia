@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_pair_im
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.pair_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:40:41.672833+00:00
 -- url     : https://prove2.me/theorems/eaefc25e-c378-4fcb-82b8-f864f32239cb

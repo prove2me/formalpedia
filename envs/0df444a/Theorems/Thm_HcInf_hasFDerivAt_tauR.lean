@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_hasFDerivAt_tauR
 -- name    : HcInf.hasFDerivAt_tauR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:24:25.192326+00:00
 -- url     : https://prove2.me/theorems/1e73184a-d43a-4621-a314-37b1f1958fe4

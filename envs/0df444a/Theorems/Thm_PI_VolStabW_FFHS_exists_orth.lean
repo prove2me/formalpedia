@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FFHS_exists_orth
 -- name    : PI.VolStabW.FFHS.exists_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:32.194801+00:00
 -- url     : https://prove2.me/theorems/a37869af-7c20-4638-aacf-108347ff28c1

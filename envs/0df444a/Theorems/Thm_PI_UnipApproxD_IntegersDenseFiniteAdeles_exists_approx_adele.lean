@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnipApproxD_IntegersDenseFiniteAdeles_exists_approx_adele
 -- name    : PI.UnipApproxD.IntegersDenseFiniteAdeles.exists_approx_adele
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:43:24.788898+00:00
 -- url     : https://prove2.me/theorems/71d52d37-a003-4865-8f72-77b90fb0dc78

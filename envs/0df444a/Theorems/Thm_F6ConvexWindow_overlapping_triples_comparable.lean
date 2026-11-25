@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_overlapping_triples_comparable
 -- name    : F6ConvexWindow.overlapping_triples_comparable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:15:43.215899+00:00
 -- url     : https://prove2.me/theorems/f8a631f3-11cb-57c3-af66-fc926ee96c29

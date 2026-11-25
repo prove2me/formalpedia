@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_KerSplit_splitsAt_two
 -- name    : PI.UnitaryGroupMassFormula.KerSplit.splitsAt_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:39:02.695872+00:00
 -- url     : https://prove2.me/theorems/317fdc23-fe3f-5a95-b46d-fcdde34c3870

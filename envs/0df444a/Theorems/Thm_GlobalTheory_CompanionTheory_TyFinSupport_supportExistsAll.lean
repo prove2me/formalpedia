@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFinSupport_supportExistsAll
 -- name    : GlobalTheory.CompanionTheory.TyFinSupport.supportExistsAll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:24:18.589971+00:00
 -- url     : https://prove2.me/theorems/d50f7730-cfa4-42c7-be3d-51874ff478b4

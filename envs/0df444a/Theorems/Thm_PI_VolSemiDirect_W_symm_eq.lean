@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_symm_eq
 -- name    : PI.VolSemiDirect.W.symm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:37:37.430685+00:00
 -- url     : https://prove2.me/theorems/0fa0107e-262a-5e74-9e43-85f4377c7cd8

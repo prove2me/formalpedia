@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_separation_of_points
 -- name    : PI.UnitaryGroupMassFormula.LCG.separation_of_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:28.214574+00:00
 -- url     : https://prove2.me/theorems/e58fd1c1-cd59-5521-a5b0-83c4cd9783ae

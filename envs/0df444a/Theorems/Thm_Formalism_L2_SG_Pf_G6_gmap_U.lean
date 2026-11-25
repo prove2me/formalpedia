@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G6_gmap_U
 -- name    : Formalism.L2.SG.Pf.G6.gmap_U
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:12:54.654309+00:00
 -- url     : https://prove2.me/theorems/a22ca5d3-8070-5685-8e69-106fddd5759e

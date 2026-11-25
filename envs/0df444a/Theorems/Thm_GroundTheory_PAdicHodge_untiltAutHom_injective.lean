@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_untiltAutHom_injective
 -- name    : GroundTheory.PAdicHodge.untiltAutHom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:09:34.294457+00:00
 -- url     : https://prove2.me/theorems/8d04dcef-0891-4719-a26d-227d7cc2d3bf

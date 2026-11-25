@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_skew_approx
 -- name    : PI.UnitaryApproxFinWork.skew_approx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:31:32.113064+00:00
 -- url     : https://prove2.me/theorems/7cacf86c-eb5e-4dfa-86d5-1d95e56f3213

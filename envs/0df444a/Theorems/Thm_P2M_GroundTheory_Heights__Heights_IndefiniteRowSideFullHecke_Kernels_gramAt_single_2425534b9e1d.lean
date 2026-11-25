@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_gramAt_single_2425534b9e1d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_gramAt_single_2425534b9e1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:44:01.30145+00:00
 -- url     : https://prove2.me/theorems/060bec3c-f609-488d-8e67-b0277c194a72

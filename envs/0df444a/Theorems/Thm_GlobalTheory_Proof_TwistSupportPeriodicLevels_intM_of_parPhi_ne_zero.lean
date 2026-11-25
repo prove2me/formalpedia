@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_TwistSupportPeriodicLevels_intM_of_parPhi_ne_zero
 -- name    : GlobalTheory.Proof.TwistSupportPeriodicLevels.intM_of_parPhi_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:46:25.091495+00:00
 -- url     : https://prove2.me/theorems/5cb32b81-0745-5370-ba32-16701e10068c

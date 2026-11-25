@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_GLChiPf_chi_transvection
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.GLChiPf.chi_transvection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:42:46.253797+00:00
 -- url     : https://prove2.me/theorems/a96aff01-5829-5590-a73f-6d012360191b

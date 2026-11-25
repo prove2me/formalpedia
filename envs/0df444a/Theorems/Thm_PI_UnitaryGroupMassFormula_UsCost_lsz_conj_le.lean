@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_lsz_conj_le
 -- name    : PI.UnitaryGroupMassFormula.UsCost.lsz_conj_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:50:54.642609+00:00
 -- url     : https://prove2.me/theorems/8c17c641-44d0-448f-8d79-9e9ad1d18e54

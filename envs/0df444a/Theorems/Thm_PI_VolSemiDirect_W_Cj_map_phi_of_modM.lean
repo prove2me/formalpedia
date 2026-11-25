@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_map_phi_of_modM
 -- name    : PI.VolSemiDirect.W.Cj.map_phi_of_modM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:36:36.956718+00:00
 -- url     : https://prove2.me/theorems/2541c24e-1e24-49e8-9bb6-7213d13892fb

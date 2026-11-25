@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_InterNumEventual_sum_sign_prod_ind_23f326540616
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_InterNumEventual_sum_sign_prod_ind_23f326540616
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:37:09.578017+00:00
 -- url     : https://prove2.me/theorems/6e2b8b3a-1e25-5cbb-901a-2269e8ca745e

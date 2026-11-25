@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_mass_eq_of_reps
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.mass_eq_of_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:33:58.567869+00:00
 -- url     : https://prove2.me/theorems/675fed49-0230-444e-84de-a53473378b0e

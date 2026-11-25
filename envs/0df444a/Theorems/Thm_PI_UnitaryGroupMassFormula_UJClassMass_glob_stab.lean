@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_glob_stab
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.glob_stab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:43:18.26329+00:00
 -- url     : https://prove2.me/theorems/c01b8ff5-201c-4bb5-81b9-eaf58bc9f38b

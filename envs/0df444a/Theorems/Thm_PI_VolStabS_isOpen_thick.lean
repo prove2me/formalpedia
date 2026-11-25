@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_isOpen_thick
 -- name    : PI.VolStabS.isOpen_thick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:36:29.813712+00:00
 -- url     : https://prove2.me/theorems/79da35e0-2b4d-5219-91e3-08bbe5d9e65e

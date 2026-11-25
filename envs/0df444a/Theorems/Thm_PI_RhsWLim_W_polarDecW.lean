@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_polarDecW
 -- name    : PI.RhsWLim.W.polarDecW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:42:32.399817+00:00
 -- url     : https://prove2.me/theorems/6da34e5f-6708-42ad-a8df-75f7e333a956

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_mapsStep
 -- name    : PI.StabPairsW.mapsStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:16.968187+00:00
 -- url     : https://prove2.me/theorems/12995285-5110-410d-b78a-81b2eb0f6992

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_ChooseW_hf_eq
 -- name    : PI.UnitaryGroupMassFormula.LCG.ChooseW.hf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:41:26.392049+00:00
 -- url     : https://prove2.me/theorems/ad75b72a-13eb-4253-aaa7-a648babeb2c5

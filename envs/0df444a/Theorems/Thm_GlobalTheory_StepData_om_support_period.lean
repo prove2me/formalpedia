@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_om_support_period
 -- name    : GlobalTheory.StepData.om_support_period
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:49:42.282093+00:00
 -- url     : https://prove2.me/theorems/26611228-51dd-4507-b3e1-72275c4b49c4

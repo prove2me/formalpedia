@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocBasisSemi_smul_mem_of_mem_span
 -- name    : PI.UnitaryGroupMassFormula.LocBasisSemi.smul_mem_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:52.673782+00:00
 -- url     : https://prove2.me/theorems/6381c487-5a54-4af4-9aaf-f59988376691

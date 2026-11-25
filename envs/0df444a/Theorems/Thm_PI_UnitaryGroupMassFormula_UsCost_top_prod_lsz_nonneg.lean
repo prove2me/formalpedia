@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_top_prod_lsz_nonneg
 -- name    : PI.UnitaryGroupMassFormula.UsCost.top_prod_lsz_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:49:51.387571+00:00
 -- url     : https://prove2.me/theorems/a1a2a4ae-782c-50c3-8573-2d2eab07c45c

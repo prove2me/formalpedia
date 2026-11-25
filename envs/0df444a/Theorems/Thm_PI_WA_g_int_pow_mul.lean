@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WA_g_int_pow_mul
 -- name    : PI.WA.g_int_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:44:08.790509+00:00
 -- url     : https://prove2.me/theorems/3ccab7b4-b955-43e4-8a4b-32dae61032bf

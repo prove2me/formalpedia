@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_algebraMap_thetaO
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.algebraMap_thetaO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:34:07.722452+00:00
 -- url     : https://prove2.me/theorems/2277fe35-00cc-420c-b1a1-22ba250c02b5

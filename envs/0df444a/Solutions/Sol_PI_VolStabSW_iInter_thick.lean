@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for PI.VolStabSW.iInter_thick
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T10:55:09.044828+00:00
+-- url     : https://prove2.me/submissions/e5713fe2-f75a-4d53-bfe6-1ff5c4a47d99
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_CosDens
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_StabilizerOrbitVolume_MeasureEqOfCos
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open PI PI.VolStabSW
+open MeasureTheory Topology Set Filter
+variable {X : Type} [AddCommGroup X] [TopologicalSpace X] [IsTopologicalAddGroup X]
+  [MeasurableSpace X] [OpensMeasurableSpace X]
+omit [MeasurableSpace X] [OpensMeasurableSpace X]
+namespace PI.VolStabSW
+theorem _root_.solution (S : Set X) (hSc : IsClosed S) (Λ : ℕ → AddSubgroup X)
+    (hb : ∀ N ∈ 𝓝 (0 : X), ∃ n, (Λ n : Set X) ⊆ N) : ⋂ n, thick S (Λ n) = S := by
+  ext x
+  simp only [Set.mem_iInter, thick, Set.mem_setOf_eq]
+  constructor
+  · intro hx
+    by_contra hxS
+    have hc : Continuous fun d : X => x - d := continuous_const.sub continuous_id
+    have hN : (fun d : X => x - d) ⁻¹' Sᶜ ∈ 𝓝 (0 : X) :=
+      hc.continuousAt.preimage_mem_nhds (hSc.isOpen_compl.mem_nhds (by simpa using hxS))
+    obtain ⟨n, hn⟩ := hb _ hN
+    obtain ⟨s, hs, hxs⟩ := hx n
+    have h1 := hn hxs
+    simp only [Set.mem_preimage, sub_sub_cancel, Set.mem_compl_iff] at h1
+    exact h1 hs
+  · intro hx n
+    exact ⟨x, hx, by simp [(Λ n).zero_mem]⟩
+end PI.VolStabSW

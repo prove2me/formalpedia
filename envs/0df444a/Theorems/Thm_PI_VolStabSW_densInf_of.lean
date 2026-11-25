@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_densInf_of
 -- name    : PI.VolStabSW.densInf_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:27.176296+00:00
 -- url     : https://prove2.me/theorems/f0e5b71c-3e8c-4fc1-94d6-a5c8d32ecde8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_boxInd_eq_add
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.boxInd_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:42:58.302842+00:00
 -- url     : https://prove2.me/theorems/61a7e115-7366-40fb-85d8-ebe1436ebaf8

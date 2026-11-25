@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Mirrors_labO_eq_of_cuspIso
 -- name    : GlobalTheory.CompanionTheory.TyFin.Mirrors.labO_eq_of_cuspIso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:32:23.320728+00:00
 -- url     : https://prove2.me/theorems/049fda61-9e7a-4c4f-ba52-310adddbdb28

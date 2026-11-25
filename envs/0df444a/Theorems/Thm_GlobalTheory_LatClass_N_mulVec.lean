@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_N_mulVec
 -- name    : GlobalTheory.LatClass.N_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:45:26.229013+00:00
 -- url     : https://prove2.me/theorems/4c4791b3-0ba5-5785-b0d5-760d0d7c1275

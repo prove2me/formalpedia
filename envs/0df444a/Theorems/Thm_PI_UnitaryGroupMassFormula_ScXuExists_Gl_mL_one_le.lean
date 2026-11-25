@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_Gl_mL_one_le
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.Gl.mL_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:41:40.984516+00:00
 -- url     : https://prove2.me/theorems/c0c6a8ef-a4b0-4f13-bb7c-bd1f4fba3a7c

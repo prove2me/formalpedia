@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FiniteFieldCounting_split_ratio
 -- name    : PI.VolStabS.FiniteFieldCounting.split_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:36:23.883369+00:00
 -- url     : https://prove2.me/theorems/ac29a657-473d-4e60-8a0f-b932f60d5435

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UMultOne_GelfSpanWork_spanAlg_eq_top
 -- name    : PI.UMultOne.GelfSpanWork.spanAlg_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:16.155799+00:00
 -- url     : https://prove2.me/theorems/3d4a3179-d2a8-45d1-9b5d-d080c56fe379

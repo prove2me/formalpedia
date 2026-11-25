@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnipVal_Main_part1
 -- name    : PI.UnitaryGroupMassFormula.UnipVal.Main.part1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:48:08.144089+00:00
 -- url     : https://prove2.me/theorems/4ea43257-847e-48c9-ba42-2cd608b39d71

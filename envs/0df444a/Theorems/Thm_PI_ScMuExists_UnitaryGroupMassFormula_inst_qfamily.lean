@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_inst_qfamily
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.inst_qfamily
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:38:42.473199+00:00
 -- url     : https://prove2.me/theorems/051a2806-0f14-4300-a79a-8ad22cd5ec43

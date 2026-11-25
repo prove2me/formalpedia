@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_PsiVolume_phi_mul_conj
 -- name    : GlobalTheory.CompanionTheory.QL.PsiVolume.phi_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:35:43.636087+00:00
 -- url     : https://prove2.me/theorems/c3df6fe8-7e68-5043-9968-65e14b1e8c3f

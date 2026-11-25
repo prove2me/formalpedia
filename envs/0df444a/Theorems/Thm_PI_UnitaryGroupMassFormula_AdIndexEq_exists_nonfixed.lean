@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_exists_nonfixed
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.exists_nonfixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:10.317035+00:00
 -- url     : https://prove2.me/theorems/ce491cfd-7331-4f23-85c8-a657ba2315a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_triplesDescending_strict
 -- name    : F6ConvexWindow.triplesDescending_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:19:25.85377+00:00
 -- url     : https://prove2.me/theorems/7f9fff69-ff68-400e-9a15-294d652ce7c5

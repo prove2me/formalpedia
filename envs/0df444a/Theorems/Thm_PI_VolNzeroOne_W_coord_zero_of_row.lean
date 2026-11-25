@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolNzeroOne_W_coord_zero_of_row
 -- name    : PI.VolNzeroOne.W.coord_zero_of_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:36:19.326277+00:00
 -- url     : https://prove2.me/theorems/fbd5acb5-7a5f-482a-9edc-59152162d848

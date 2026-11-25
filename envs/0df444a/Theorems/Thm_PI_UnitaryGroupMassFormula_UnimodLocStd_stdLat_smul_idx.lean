@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_stdLat_smul_idx
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.stdLat_smul_idx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:44:41.534413+00:00
 -- url     : https://prove2.me/theorems/3261e80d-28d7-4e82-987c-c31f2c050da9

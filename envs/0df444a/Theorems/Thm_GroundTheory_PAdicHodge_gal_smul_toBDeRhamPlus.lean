@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_gal_smul_toBDeRhamPlus
 -- name    : GroundTheory.PAdicHodge.gal_smul_toBDeRhamPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:03:01.175985+00:00
 -- url     : https://prove2.me/theorems/b866938a-adc9-455d-9e81-08a044a67be7

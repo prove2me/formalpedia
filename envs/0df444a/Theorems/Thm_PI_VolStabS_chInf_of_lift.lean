@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_chInf_of_lift
 -- name    : PI.VolStabS.chInf_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:36:34.798303+00:00
 -- url     : https://prove2.me/theorems/e208c73c-1441-4784-bacf-774e48f7f86e

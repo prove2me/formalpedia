@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FiniteFieldSplitting_card_left_inv
 -- name    : PI.VolStabS.FiniteFieldSplitting.card_left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:36:16.081143+00:00
 -- url     : https://prove2.me/theorems/a80a93d5-eb66-5ee2-93b5-7a44905bf97a

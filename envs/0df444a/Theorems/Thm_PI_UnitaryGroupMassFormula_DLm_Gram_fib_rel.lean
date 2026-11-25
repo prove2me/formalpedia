@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DLm_Gram_fib_rel
 -- name    : PI.UnitaryGroupMassFormula.DLm.Gram.fib_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:42:55.073058+00:00
 -- url     : https://prove2.me/theorems/6da785c6-9b8b-5112-a753-2b45455b38ed

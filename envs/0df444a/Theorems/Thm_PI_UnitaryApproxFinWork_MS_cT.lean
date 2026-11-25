@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_MS_cT
 -- name    : PI.UnitaryApproxFinWork.MS_cT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:30:06.72342+00:00
 -- url     : https://prove2.me/theorems/22a559c0-9124-5cfd-a8b1-4a78069a0e34

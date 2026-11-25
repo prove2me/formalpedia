@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_sigR_epsT
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.sigR_epsT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:45:32.972206+00:00
 -- url     : https://prove2.me/theorems/43187e48-3d1d-46ca-b7d2-fab7ac50d66b

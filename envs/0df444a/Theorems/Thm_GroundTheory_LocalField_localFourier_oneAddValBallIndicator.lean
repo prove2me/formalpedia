@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_localFourier_oneAddValBallIndicator
 -- name    : GroundTheory.LocalField.localFourier_oneAddValBallIndicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:17:59.090377+00:00
 -- url     : https://prove2.me/theorems/344eb716-93dc-50bd-8376-816c78e2834d

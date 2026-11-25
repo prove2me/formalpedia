@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_dec_coe
 -- name    : PI.VolSemiDirect.W.dec_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:36:06.928619+00:00
 -- url     : https://prove2.me/theorems/1182c66e-2bff-48e1-a2dc-49e5f95b4f73

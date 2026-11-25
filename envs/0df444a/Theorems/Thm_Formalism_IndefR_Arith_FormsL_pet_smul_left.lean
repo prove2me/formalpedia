@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IndefR_Arith_FormsL_pet_smul_left
 -- name    : Formalism.IndefR.Arith.FormsL.pet_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:48:36.159264+00:00
 -- url     : https://prove2.me/theorems/2be88718-9880-4d50-9278-09c53d54bb90

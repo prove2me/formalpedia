@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_SdUniqW_testEx_of_trivial
 -- name    : PI.VolStabSW.SdUniqW.testEx_of_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:42:17.550201+00:00
 -- url     : https://prove2.me/theorems/294e9329-554b-41cd-bff8-70c8dbce7598

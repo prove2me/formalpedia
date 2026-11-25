@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StepData_Model_hat_coset
 -- name    : GlobalTheory.StepData.Model.hat_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:49:32.103223+00:00
 -- url     : https://prove2.me/theorems/c89eae38-538a-43ba-be94-294ac3b2a5af

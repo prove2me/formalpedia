@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_TwistSupportPeriodicLevels_intM_of_coords
 -- name    : GlobalTheory.Proof.TwistSupportPeriodicLevels.intM_of_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:47:00.40013+00:00
 -- url     : https://prove2.me/theorems/e89b7bc2-d5b8-4159-99f5-75402932d05f

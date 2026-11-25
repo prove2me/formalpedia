@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_apply_mem_orthK
 -- name    : Formalism.L2.SG.Pf.G9.apply_mem_orthK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:38:20.657615+00:00
 -- url     : https://prove2.me/theorems/e37ef391-5e92-5f1c-953b-020e9ad86fc2

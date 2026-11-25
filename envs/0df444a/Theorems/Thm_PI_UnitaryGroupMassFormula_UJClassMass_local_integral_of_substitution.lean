@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_local_integral_of_substitution
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.local_integral_of_substitution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:38:14.447556+00:00
 -- url     : https://prove2.me/theorems/fb7fc523-d450-53e7-8f8d-5976fd207914

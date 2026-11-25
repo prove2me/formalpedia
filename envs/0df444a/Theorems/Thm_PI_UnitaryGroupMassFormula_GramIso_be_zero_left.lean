@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GramIso_be_zero_left
 -- name    : PI.UnitaryGroupMassFormula.GramIso.be_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:42.157955+00:00
 -- url     : https://prove2.me/theorems/a45d85dc-30b6-41bd-85af-3fed18f8b3fa

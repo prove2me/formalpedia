@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_product_haar_measure_holds
 -- name    : PI.VolSemiDirect.W.product_haar_measure_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:36:22.246151+00:00
 -- url     : https://prove2.me/theorems/1b28a15b-9a14-4721-ab47-20b48093ba00

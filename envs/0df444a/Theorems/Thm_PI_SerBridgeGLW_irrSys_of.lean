@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SerBridgeGLW_irrSys_of
 -- name    : PI.SerBridgeGLW.irrSys_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:24:16.877333+00:00
 -- url     : https://prove2.me/theorems/7d20946d-6eb7-40a1-aa83-4900b0cc23dd

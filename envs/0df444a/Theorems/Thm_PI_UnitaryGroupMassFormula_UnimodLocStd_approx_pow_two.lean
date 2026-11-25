@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_approx_pow_two
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.approx_pow_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:35:25.987888+00:00
 -- url     : https://prove2.me/theorems/54fb963e-34fd-4ed1-a137-b732a8af3abb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_inertAsm
 -- name    : PI.SqPairLocal.inertAsm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:24:30.589719+00:00
 -- url     : https://prove2.me/theorems/ed48e200-2f1b-5818-8557-dfdcea2321be

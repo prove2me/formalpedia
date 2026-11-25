@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_cntN_mul
 -- name    : PI.VolStabW.cntN_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:42:53.165907+00:00
 -- url     : https://prove2.me/theorems/d6e99339-a420-4a7b-9139-e3da7de2a323

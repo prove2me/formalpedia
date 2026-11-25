@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhConvProj_SelfAdj_inner_map_left
 -- name    : PI.UnitaryGroupMassFormula.PhConvProj.SelfAdj.inner_map_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:32:56.298041+00:00
 -- url     : https://prove2.me/theorems/5e7b4da7-cde7-4627-abd1-950445d7497a

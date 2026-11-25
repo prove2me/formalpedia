@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_arith_real
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.arith_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:32:57.153325+00:00
 -- url     : https://prove2.me/theorems/5ce095ae-b9e5-555c-a006-794068548f57

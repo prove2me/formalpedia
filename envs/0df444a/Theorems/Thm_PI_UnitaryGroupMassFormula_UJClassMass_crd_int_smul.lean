@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_crd_int_smul
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.crd_int_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:05:24.82707+00:00
 -- url     : https://prove2.me/theorems/88308771-d4fb-4f75-abe6-ba4953f632d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ProdUnitInert_norm_conic_eq_one
 -- name    : PI.UnitaryGroupMassFormula.ProdUnitInert.norm_conic_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:32:26.250772+00:00
 -- url     : https://prove2.me/theorems/b2bcd717-dc2b-5d27-ad33-68dc2cd14bb9

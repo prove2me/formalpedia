@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_crd_iff
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.crd_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:44:01.649136+00:00
 -- url     : https://prove2.me/theorems/093269c7-06cb-4342-b5b6-df2d2bb34052

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_card_isom
 -- name    : PI.VolStabS.FFHS.card_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:37:14.553948+00:00
 -- url     : https://prove2.me/theorems/d8be4627-42f6-4914-aa81-6ff5ed8bac38

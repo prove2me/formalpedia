@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_FiniteFieldSplitting_exists_left_inv
 -- name    : PI.VolStabSW.FiniteFieldSplitting.exists_left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:44.317235+00:00
 -- url     : https://prove2.me/theorems/e5a727a3-925e-4cb4-8544-61f18f951068

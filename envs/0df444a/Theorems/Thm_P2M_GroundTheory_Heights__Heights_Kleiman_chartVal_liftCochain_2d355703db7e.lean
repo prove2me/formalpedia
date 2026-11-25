@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_chartVal_liftCochain_2d355703db7e
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_chartVal_liftCochain_2d355703db7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:37:27.930906+00:00
 -- url     : https://prove2.me/theorems/866d4a0d-96a6-4ecd-9c79-ae94935c57c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_ChLiftW_addChar_sum
 -- name    : PI.VolStabS.ChLiftW.addChar_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:36:05.128135+00:00
 -- url     : https://prove2.me/theorems/d38cb523-9f52-419f-abfd-96ffe750a2a7

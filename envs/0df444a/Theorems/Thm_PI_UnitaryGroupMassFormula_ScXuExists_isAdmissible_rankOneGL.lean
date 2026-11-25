@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_isAdmissible_rankOneGL
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.isAdmissible_rankOneGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:34.664521+00:00
 -- url     : https://prove2.me/theorems/d227c9f9-039e-4123-8e38-d6e4df6339d6

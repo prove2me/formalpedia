@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_betaH_apply
 -- name    : HcInf.betaH_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:16:48.754812+00:00
 -- url     : https://prove2.me/theorems/2ff1a404-dc32-4448-b4fa-65a187b4981c

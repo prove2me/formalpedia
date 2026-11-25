@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_exp_pair
 -- name    : PI.UnitaryGroupMassFormula.UsCost.exp_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:36:02.182479+00:00
 -- url     : https://prove2.me/theorems/5111793f-f8af-5fea-87a3-45dea58542d3

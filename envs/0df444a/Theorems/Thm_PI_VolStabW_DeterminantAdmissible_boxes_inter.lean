@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_boxes_inter
 -- name    : PI.VolStabW.DeterminantAdmissible.boxes_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:43:40.570327+00:00
 -- url     : https://prove2.me/theorems/e47e82ad-3363-4a12-93ce-f8c79f0888bf

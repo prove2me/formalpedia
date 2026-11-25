@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_RI_descUniq
 -- name    : PI.RhsWLim.W.RI.descUniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:21:43.946128+00:00
 -- url     : https://prove2.me/theorems/0074d486-7126-4e90-91f8-1ec391e30507

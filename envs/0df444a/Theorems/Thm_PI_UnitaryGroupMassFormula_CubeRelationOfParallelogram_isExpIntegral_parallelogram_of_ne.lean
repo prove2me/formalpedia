@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CubeRelationOfParallelogram_isExpIntegral_parallelogram_of_ne
 -- name    : PI.UnitaryGroupMassFormula.CubeRelationOfParallelogram.isExpIntegral_parallelogram_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:11.356134+00:00
 -- url     : https://prove2.me/theorems/45cc3155-49b1-40a5-9f54-2a6dae23368a

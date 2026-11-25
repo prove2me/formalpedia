@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_sub_pow_le
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.sub_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:41:08.446065+00:00
 -- url     : https://prove2.me/theorems/60830ada-60fb-453f-ad77-e44b9e3b6ed5

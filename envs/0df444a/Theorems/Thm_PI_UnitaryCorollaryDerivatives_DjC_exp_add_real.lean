@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_DjC_exp_add_real
 -- name    : PI.UnitaryCorollaryDerivatives.DjC.exp_add_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:58.99604+00:00
 -- url     : https://prove2.me/theorems/90c5b524-2bea-4324-a1ee-b7f99beb8264

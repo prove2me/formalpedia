@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0812_1178_canonical_closures_generate
 -- name    : Arxiv0812_1178.canonical_closures_generate
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T08:46:38.696319+00:00
 -- url     : https://prove2.me/theorems/b2f5adbd-008d-453d-93bb-baae1483746b

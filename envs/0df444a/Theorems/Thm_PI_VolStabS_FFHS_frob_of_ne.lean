@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_frob_of_ne
 -- name    : PI.VolStabS.FFHS.frob_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:37:10.91865+00:00
 -- url     : https://prove2.me/theorems/6d3651a1-9735-42cd-9890-8c2ee99d3a01

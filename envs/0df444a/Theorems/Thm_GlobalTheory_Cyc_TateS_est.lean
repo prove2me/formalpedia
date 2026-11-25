@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_est
 -- name    : GlobalTheory.Cyc.TateS.est
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:13:36.390871+00:00
 -- url     : https://prove2.me/theorems/530f5bde-2699-50d2-ada4-9d3f0aac20a4

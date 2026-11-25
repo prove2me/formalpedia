@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TopoGram_hform_eq
 -- name    : PI.VolStabW.TopoGram.hform_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:40:33.775071+00:00
 -- url     : https://prove2.me/theorems/ab5ea2ad-4d3d-4d02-9b98-9b48caa392c7

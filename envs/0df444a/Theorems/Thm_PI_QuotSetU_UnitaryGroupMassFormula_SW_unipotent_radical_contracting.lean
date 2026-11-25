@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_unipotent_radical_contracting
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.unipotent_radical_contracting
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:19:26.066436+00:00
 -- url     : https://prove2.me/theorems/9647e896-44e5-49bd-87d5-5f2f34aadde4

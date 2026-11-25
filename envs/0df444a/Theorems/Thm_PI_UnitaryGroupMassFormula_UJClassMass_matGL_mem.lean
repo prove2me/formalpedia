@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_matGL_mem
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.matGL_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:00:22.990863+00:00
 -- url     : https://prove2.me/theorems/073441ae-5c91-4f1a-9e56-edf0b68d42a8

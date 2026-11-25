@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_wqUnique
 -- name    : PI.wqUnique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:00.355651+00:00
 -- url     : https://prove2.me/theorems/da8bebb0-4146-492a-b231-ded8179c3269

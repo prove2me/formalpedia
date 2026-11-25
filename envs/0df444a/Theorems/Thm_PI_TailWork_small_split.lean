@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TailWork_small_split
 -- name    : PI.TailWork.small_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:28:39.223283+00:00
 -- url     : https://prove2.me/theorems/110af4c3-4479-51ed-b620-efbf1d880c21

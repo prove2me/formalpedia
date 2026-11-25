@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_Bf_sum_left
 -- name    : PI.VolSemiDirect.W.Cj.Bf_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:36:46.558848+00:00
 -- url     : https://prove2.me/theorems/62ef7125-a2f1-450f-969e-7328db3d43c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContrastiveDuality_trace_mul_extractedDiag_eq_sum_pow_four
 -- name    : ContrastiveDuality.trace_mul_extractedDiag_eq_sum_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:30:41.430952+00:00
 -- url     : https://prove2.me/theorems/6eaa482e-92c0-4e7b-8151-8cf914be63c2

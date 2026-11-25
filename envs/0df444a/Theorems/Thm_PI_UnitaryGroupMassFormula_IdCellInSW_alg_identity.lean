@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_IdCellInSW_alg_identity
 -- name    : PI.UnitaryGroupMassFormula.IdCellInSW.alg_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:48.155252+00:00
 -- url     : https://prove2.me/theorems/73dfe5ae-58dc-4157-aa08-767828c87626

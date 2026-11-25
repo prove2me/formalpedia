@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_fix2
 -- name    : PI.VolStabW.fix2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:50:07.502802+00:00
 -- url     : https://prove2.me/theorems/d8beb6bc-ff3a-596c-8b3d-1f2bfe57395d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_map_conj_of_mem_normalizer
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.map_conj_of_mem_normalizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:51.050105+00:00
 -- url     : https://prove2.me/theorems/5b0ce037-4731-524c-99e5-3bf8a637ad0b

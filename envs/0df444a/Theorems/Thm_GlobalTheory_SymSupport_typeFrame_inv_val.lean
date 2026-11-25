@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymSupport_typeFrame_inv_val
 -- name    : GlobalTheory.SymSupport.typeFrame_inv_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:39:51.4819+00:00
 -- url     : https://prove2.me/theorems/026c9a14-5167-445e-9cdf-7dd9dc2474c0

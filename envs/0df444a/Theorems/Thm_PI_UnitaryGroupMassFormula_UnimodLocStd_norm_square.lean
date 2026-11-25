@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_norm_square
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.norm_square
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:40:40.211895+00:00
 -- url     : https://prove2.me/theorems/b6cca37b-10e7-41b0-b80e-a125e0eda792

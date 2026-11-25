@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_KerSplit_splitsAt_odd
 -- name    : PI.UnitaryGroupMassFormula.KerSplit.splitsAt_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:39:06.547853+00:00
 -- url     : https://prove2.me/theorems/050f5241-55be-42f1-a15b-6c234a794007

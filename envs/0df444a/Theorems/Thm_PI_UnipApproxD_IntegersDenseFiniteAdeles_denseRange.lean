@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnipApproxD_IntegersDenseFiniteAdeles_denseRange
 -- name    : PI.UnipApproxD.IntegersDenseFiniteAdeles.denseRange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:30:30.31654+00:00
 -- url     : https://prove2.me/theorems/34f43b3e-682d-4bdb-b343-7e6996b52cd6

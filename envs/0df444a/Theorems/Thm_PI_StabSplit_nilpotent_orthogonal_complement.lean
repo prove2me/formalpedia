@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_nilpotent_orthogonal_complement
 -- name    : PI.StabSplit.nilpotent_orthogonal_complement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:46:58.828799+00:00
 -- url     : https://prove2.me/theorems/d602725f-838c-4406-b469-aa2fedd3c225

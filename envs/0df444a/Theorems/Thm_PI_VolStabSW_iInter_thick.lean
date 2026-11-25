@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_iInter_thick
 -- name    : PI.VolStabSW.iInter_thick
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:42:05.081499+00:00
 -- url     : https://prove2.me/theorems/66b355b7-fd8a-43e9-8982-31bb92588c06

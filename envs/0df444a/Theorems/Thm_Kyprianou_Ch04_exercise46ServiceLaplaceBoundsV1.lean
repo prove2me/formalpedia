@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46ServiceLaplaceBoundsV1
 -- name    : Kyprianou.Ch04.exercise46ServiceLaplaceBoundsV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T10:24:06.410121+00:00
 -- url     : https://prove2.me/theorems/803adef5-1478-48da-ace0-ef7c20329481

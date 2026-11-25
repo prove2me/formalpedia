@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_radial
 -- name    : PI.RhsWLim.W.radial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:33:01.180907+00:00
 -- url     : https://prove2.me/theorems/7e3dd481-070d-567a-a6cf-d9e55b499ae6

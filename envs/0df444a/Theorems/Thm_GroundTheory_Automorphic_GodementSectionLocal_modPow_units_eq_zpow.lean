@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_modPow_units_eq_zpow
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.modPow_units_eq_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:37:38.967483+00:00
 -- url     : https://prove2.me/theorems/a64f446d-2b72-547f-879d-614118b586f9

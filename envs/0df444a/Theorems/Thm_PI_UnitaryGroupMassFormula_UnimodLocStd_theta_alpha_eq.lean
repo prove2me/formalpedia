@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_theta_alpha_eq
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.theta_alpha_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:41:36.777008+00:00
 -- url     : https://prove2.me/theorems/e90031db-2829-4411-aecd-4e1bc6f4804d

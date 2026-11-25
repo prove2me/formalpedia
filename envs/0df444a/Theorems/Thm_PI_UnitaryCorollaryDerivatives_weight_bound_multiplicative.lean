@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_weight_bound_multiplicative
 -- name    : PI.UnitaryCorollaryDerivatives.weight_bound_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:41.385157+00:00
 -- url     : https://prove2.me/theorems/1ca937d1-caa1-483b-9c75-ae337fdf6879

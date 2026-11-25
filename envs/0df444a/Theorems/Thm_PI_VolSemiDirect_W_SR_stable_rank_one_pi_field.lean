@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_SR_stable_rank_one_pi_field
 -- name    : PI.VolSemiDirect.W.SR.stable_rank_one_pi_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:37:06.100802+00:00
 -- url     : https://prove2.me/theorems/0faf88cb-d4d4-5bb4-a5a1-6dfbd77d16af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_FiniteThetaCoordinates_eq_sum_crd
 -- name    : PI.VolStabSW.FiniteThetaCoordinates.eq_sum_crd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:42:27.996604+00:00
 -- url     : https://prove2.me/theorems/c38be077-c66a-5753-9966-7b38d66a8a88

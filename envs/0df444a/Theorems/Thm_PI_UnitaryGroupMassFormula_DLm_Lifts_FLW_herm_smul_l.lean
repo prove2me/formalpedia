@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DLm_Lifts_FLW_herm_smul_l
 -- name    : PI.UnitaryGroupMassFormula.DLm.Lifts.FLW.herm_smul_l
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:59:05.834543+00:00
 -- url     : https://prove2.me/theorems/f285b046-3087-56f1-97e0-4bda470e4cd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolNzeroOne_W_linIndep_of_gram
 -- name    : PI.VolNzeroOne.W.linIndep_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:35:26.720211+00:00
 -- url     : https://prove2.me/theorems/49c51539-5fee-44f6-9e99-9d0659b4f150

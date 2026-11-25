@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitWeil_selfDual_measure
 -- name    : GlobalTheory.SplitWeil.selfDual_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:49:12.357367+00:00
 -- url     : https://prove2.me/theorems/ad347d38-a3c5-4be5-8bec-7e8b0220d08f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_nUnimodLoc_of
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.nUnimodLoc_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:35:30.133012+00:00
 -- url     : https://prove2.me/theorems/0432c936-3bfe-498a-907d-cf5de63bff9c

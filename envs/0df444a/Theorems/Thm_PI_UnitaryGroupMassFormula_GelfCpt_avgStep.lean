@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfCpt_avgStep
 -- name    : PI.UnitaryGroupMassFormula.GelfCpt.avgStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:59.322014+00:00
 -- url     : https://prove2.me/theorems/993801a3-d559-495f-bc71-9e1068019b83

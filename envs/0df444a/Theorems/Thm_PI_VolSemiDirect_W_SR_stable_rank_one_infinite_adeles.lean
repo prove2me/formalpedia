@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_SR_stable_rank_one_infinite_adeles
 -- name    : PI.VolSemiDirect.W.SR.stable_rank_one_infinite_adeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:36:47.439401+00:00
 -- url     : https://prove2.me/theorems/ce35a453-ef62-4ef7-b1c4-09ee8fb86e3b

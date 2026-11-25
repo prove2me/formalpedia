@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderES_comp_skip
 -- name    : PI.UnitaryGroupMassFormula.QmBorderES.comp_skip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:45:47.067438+00:00
 -- url     : https://prove2.me/theorems/500845c8-7177-4826-868f-af95a0d775dd

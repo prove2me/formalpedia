@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContrastiveDuality_criteria_trace_forms
 -- name    : ContrastiveDuality.criteria_trace_forms
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:29:41.648796+00:00
 -- url     : https://prove2.me/theorems/ab661f52-37ec-47a7-922f-1512f4164401

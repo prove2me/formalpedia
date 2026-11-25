@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_prefix_crossPairs_subset
 -- name    : F6ConvexWindow.prefix_crossPairs_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:20:45.246378+00:00
 -- url     : https://prove2.me/theorems/8e49b121-101f-41b3-bd76-c577526e6144

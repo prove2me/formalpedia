@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderFull_rows_succ
 -- name    : PI.UnitaryGroupMassFormula.QmBorderFull.rows_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:39.156199+00:00
 -- url     : https://prove2.me/theorems/2e3e833d-8079-487f-8096-a1e3ff7bb42b

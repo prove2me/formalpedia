@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_exists_box_mem
 -- name    : PI.VolStabW.DeterminantAdmissible.exists_box_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:34.110357+00:00
 -- url     : https://prove2.me/theorems/19f148ec-5411-50aa-b241-e3272f917783

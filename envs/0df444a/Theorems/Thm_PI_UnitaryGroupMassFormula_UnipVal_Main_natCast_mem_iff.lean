@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnipVal_Main_natCast_mem_iff
 -- name    : PI.UnitaryGroupMassFormula.UnipVal.Main.natCast_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:41:23.098225+00:00
 -- url     : https://prove2.me/theorems/d7d1c997-afff-430a-a3d0-be14df945d08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_VolAAW_cT_surj
 -- name    : PI.VolStabSW.VolAAW.cT_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:04:18.292168+00:00
 -- url     : https://prove2.me/theorems/a8576442-7187-40a4-8ec3-772ac686f780

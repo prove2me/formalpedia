@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_prefixLe_sum
 -- name    : GroundTheory.PAdicHodge.TeichLift.prefixLe_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:45:38.677994+00:00
 -- url     : https://prove2.me/theorems/d492a1e5-17b1-45b5-a158-50b3803a4b8a

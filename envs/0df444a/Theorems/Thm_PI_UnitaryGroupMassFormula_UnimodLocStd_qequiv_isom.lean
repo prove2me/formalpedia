@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_qequiv_isom
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.qequiv_isom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:40:57.382104+00:00
 -- url     : https://prove2.me/theorems/8d070753-819e-4760-93f9-88517c8066a8

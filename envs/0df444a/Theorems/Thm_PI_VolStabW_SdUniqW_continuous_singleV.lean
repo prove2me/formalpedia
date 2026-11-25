@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdUniqW_continuous_singleV
 -- name    : PI.VolStabW.SdUniqW.continuous_singleV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:38:31.138523+00:00
 -- url     : https://prove2.me/theorems/41bd7d30-045e-470f-819e-72722109743d

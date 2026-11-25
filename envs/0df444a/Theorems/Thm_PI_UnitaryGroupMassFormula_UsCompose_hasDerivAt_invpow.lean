@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_hasDerivAt_invpow
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.hasDerivAt_invpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:03:49.985905+00:00
 -- url     : https://prove2.me/theorems/cf9bd9ac-cc16-4df0-865b-32c0882e0f99

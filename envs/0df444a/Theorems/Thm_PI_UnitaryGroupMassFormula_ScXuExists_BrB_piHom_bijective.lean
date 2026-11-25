@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_BrB_piHom_bijective
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.BrB.piHom_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:12.119074+00:00
 -- url     : https://prove2.me/theorems/a58d6d79-1b3a-5192-be85-f89470f48d42

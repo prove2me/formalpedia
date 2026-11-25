@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_VolAAW_smul_hermO
 -- name    : PI.VolStabW.VolAAW.smul_hermO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:45:09.142962+00:00
 -- url     : https://prove2.me/theorems/95acd20b-a0a2-47e0-b3be-3dc401a97a5a

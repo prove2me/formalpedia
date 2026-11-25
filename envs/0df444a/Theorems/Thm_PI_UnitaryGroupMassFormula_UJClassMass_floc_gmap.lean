@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_floc_gmap
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.floc_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:43:33.086847+00:00
 -- url     : https://prove2.me/theorems/769665e5-d923-4ff8-a00c-98892fd30380

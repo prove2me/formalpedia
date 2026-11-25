@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPsiExists_UnitaryGroupMassFormula_sHom_int
 -- name    : PI.ScPsiExists.UnitaryGroupMassFormula.sHom_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:21:51.665005+00:00
 -- url     : https://prove2.me/theorems/9d704fe6-fa07-4e75-ab71-71b6385311da

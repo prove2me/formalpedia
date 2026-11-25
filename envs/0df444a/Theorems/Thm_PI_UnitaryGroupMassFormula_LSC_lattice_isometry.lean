@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LSC_lattice_isometry
 -- name    : PI.UnitaryGroupMassFormula.LSC.lattice_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:28:44.635959+00:00
 -- url     : https://prove2.me/theorems/544713df-13ed-4d87-9f3b-77429f494364

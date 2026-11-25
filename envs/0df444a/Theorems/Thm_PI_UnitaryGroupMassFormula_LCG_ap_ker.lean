@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_ap_ker
 -- name    : PI.UnitaryGroupMassFormula.LCG.ap_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:02:40.469978+00:00
 -- url     : https://prove2.me/theorems/4621bbe9-fbea-49c1-ad97-bccc7f87abe8

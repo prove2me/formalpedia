@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_hsN_zero
 -- name    : PI.UnitaryGroupMassFormula.LCG.hsN_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:18.381298+00:00
 -- url     : https://prove2.me/theorems/67191e9d-62fd-43c3-bbe3-4683ad7057b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_genModOne_of
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.genModOne_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:09.827078+00:00
 -- url     : https://prove2.me/theorems/83c4846c-e193-58fa-8e58-129d97ebc884

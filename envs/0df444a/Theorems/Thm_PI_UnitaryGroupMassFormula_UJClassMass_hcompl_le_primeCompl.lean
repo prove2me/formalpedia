@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_hcompl_le_primeCompl
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.hcompl_le_primeCompl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:42:33.345052+00:00
 -- url     : https://prove2.me/theorems/f3124e5f-c799-4b11-96bd-b5dfc7c25fa3

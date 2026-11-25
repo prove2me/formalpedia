@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryDimensionFormula_FrameAlg_dual_fix
 -- name    : PI.UnitaryDimensionFormula.FrameAlg.dual_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:37:47.954572+00:00
 -- url     : https://prove2.me/theorems/f2b88bf5-515d-4f54-8ec0-be66993c9851

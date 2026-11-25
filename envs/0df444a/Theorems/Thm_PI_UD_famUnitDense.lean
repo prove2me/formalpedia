@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UD_famUnitDense
 -- name    : PI.UD.famUnitDense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:49.750705+00:00
 -- url     : https://prove2.me/theorems/1eb077aa-ba0c-4ab0-90bc-d4b137b1690b

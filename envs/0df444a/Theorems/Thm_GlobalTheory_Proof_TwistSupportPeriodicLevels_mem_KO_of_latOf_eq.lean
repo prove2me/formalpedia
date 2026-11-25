@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_TwistSupportPeriodicLevels_mem_KO_of_latOf_eq
 -- name    : GlobalTheory.Proof.TwistSupportPeriodicLevels.mem_KO_of_latOf_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:47:07.907283+00:00
 -- url     : https://prove2.me/theorems/38c0c0f3-6c7d-492c-8fbf-8b415b9437b5

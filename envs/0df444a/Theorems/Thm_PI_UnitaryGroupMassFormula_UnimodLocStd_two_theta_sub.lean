@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_two_theta_sub
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.two_theta_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:41:10.484852+00:00
 -- url     : https://prove2.me/theorems/a32fd286-be76-43be-b71e-fefd039a3962

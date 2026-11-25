@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_ZI_contDiffOn_inv
 -- name    : PI.UnitaryGroupMassFormula.UsCost.ZI.contDiffOn_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:33:47.455618+00:00
 -- url     : https://prove2.me/theorems/b4653274-7b5d-467e-9a3c-d5081cebff1f

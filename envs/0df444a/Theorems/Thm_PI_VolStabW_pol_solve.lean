@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_pol_solve
 -- name    : PI.VolStabW.pol_solve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:44:06.750858+00:00
 -- url     : https://prove2.me/theorems/379c7e5c-ff0a-4db1-9026-772e0b17f669

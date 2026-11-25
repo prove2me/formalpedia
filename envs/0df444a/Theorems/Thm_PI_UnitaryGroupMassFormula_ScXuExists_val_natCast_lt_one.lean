@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_val_natCast_lt_one
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.val_natCast_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:41:10.479867+00:00
 -- url     : https://prove2.me/theorems/0640523c-97c1-4f6a-a42e-907385b3fc99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhSchurConv_Main_coef_conv
 -- name    : PI.UnitaryGroupMassFormula.PhSchurConv.Main.coef_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:55.790847+00:00
 -- url     : https://prove2.me/theorems/b48b7b0f-75ef-470a-84c8-e584847e3f64

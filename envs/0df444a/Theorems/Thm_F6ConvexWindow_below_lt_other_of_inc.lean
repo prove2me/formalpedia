@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_below_lt_other_of_inc
 -- name    : F6ConvexWindow.below_lt_other_of_inc
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:19:13.188291+00:00
 -- url     : https://prove2.me/theorems/1642fc88-dd5d-4326-862c-949b98c94f0a

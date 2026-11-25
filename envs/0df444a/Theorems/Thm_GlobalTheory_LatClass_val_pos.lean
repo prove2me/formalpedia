@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_val_pos
 -- name    : GlobalTheory.LatClass.val_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:46:04.510793+00:00
 -- url     : https://prove2.me/theorems/c207c5b1-4d32-43dd-b3c4-a8c57d9db240

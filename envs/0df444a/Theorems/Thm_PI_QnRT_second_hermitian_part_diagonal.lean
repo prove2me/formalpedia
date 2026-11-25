@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_second_hermitian_part_diagonal
 -- name    : PI.QnRT.second_hermitian_part_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:40:57.995255+00:00
 -- url     : https://prove2.me/theorems/d73184b9-8b5d-4e9e-a34f-905ccf2f8456

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_bounded_map
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.bounded_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:35:14.589025+00:00
 -- url     : https://prove2.me/theorems/2eb5aefb-ee0d-47d4-9afa-2a5e5c64f015

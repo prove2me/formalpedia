@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_latOf_eq_of_KO
 -- name    : GlobalTheory.LatClass.latOf_eq_of_KO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:49:09.227402+00:00
 -- url     : https://prove2.me/theorems/42b6957b-3ac1-4afb-8aec-8b8e62ae4e2f

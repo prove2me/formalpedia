@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_earlier_prefix_lt_new
 -- name    : F6ConvexWindow.earlier_prefix_lt_new
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:40:39.270247+00:00
 -- url     : https://prove2.me/theorems/c4afb733-0018-5de1-a325-00e6ae82f999

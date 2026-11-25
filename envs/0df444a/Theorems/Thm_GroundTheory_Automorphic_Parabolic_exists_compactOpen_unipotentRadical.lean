@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_compactOpen_unipotentRadical
 -- name    : GroundTheory.Automorphic.Parabolic.exists_compactOpen_unipotentRadical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:06:52.174835+00:00
 -- url     : https://prove2.me/theorems/d3a88f56-7c83-5886-a404-33f6fbed6566

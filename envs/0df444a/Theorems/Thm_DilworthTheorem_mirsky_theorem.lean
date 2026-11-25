@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DilworthTheorem_mirsky_theorem
 -- name    : DilworthTheorem.mirsky_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:01:57.840834+00:00
 -- url     : https://prove2.me/theorems/23319a42-0bc6-42de-98d1-bd1295ba99b8

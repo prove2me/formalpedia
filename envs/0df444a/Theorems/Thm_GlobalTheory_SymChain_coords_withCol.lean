@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_coords_withCol
 -- name    : GlobalTheory.SymChain.coords_withCol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:38:44.123304+00:00
 -- url     : https://prove2.me/theorems/17501a27-0509-50b7-842b-42fa4b65bf04

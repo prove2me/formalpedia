@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_linOf_one_symm_apply
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.linOf_one_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:38:56.196421+00:00
 -- url     : https://prove2.me/theorems/7c8fbab2-7235-53c6-8c83-48c5caa29a99

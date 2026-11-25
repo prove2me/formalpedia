@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolNzeroOne_W_frameInitialVectors_castSucc
 -- name    : PI.VolNzeroOne.W.frameInitialVectors_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:36:21.372309+00:00
 -- url     : https://prove2.me/theorems/94f32ce5-9f12-5f71-8cb4-238282cf2b45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_DA_contDiffAt_block_matrix_three
 -- name    : PI.UnitaryGroupMassFormula.UsCost.DA.contDiffAt_block_matrix_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:04:30.097426+00:00
 -- url     : https://prove2.me/theorems/521f90b9-f987-4a2c-9648-f03db901944d

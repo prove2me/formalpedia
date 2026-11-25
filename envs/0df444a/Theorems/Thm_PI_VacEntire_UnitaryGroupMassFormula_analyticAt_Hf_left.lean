@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VacEntire_UnitaryGroupMassFormula_analyticAt_Hf_left
 -- name    : PI.VacEntire.UnitaryGroupMassFormula.analyticAt_Hf_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:41:20.273435+00:00
 -- url     : https://prove2.me/theorems/3f087f63-7c63-4125-b6dc-5406cadf605f

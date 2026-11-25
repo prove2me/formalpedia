@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_pb_sup_le_gN
 -- name    : PI.UnitaryCorollaryDerivatives.pb_sup_le_gN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:50:43.724058+00:00
 -- url     : https://prove2.me/theorems/1de1d3cc-1edb-57d9-9ff7-264d551ae66e

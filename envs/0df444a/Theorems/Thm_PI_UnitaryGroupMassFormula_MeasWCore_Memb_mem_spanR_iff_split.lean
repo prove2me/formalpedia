@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_MeasWCore_Memb_mem_spanR_iff_split
 -- name    : PI.UnitaryGroupMassFormula.MeasWCore.Memb.mem_spanR_iff_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:32:54.928004+00:00
 -- url     : https://prove2.me/theorems/773c718f-b1b7-54d6-82c8-84852cd1c98c

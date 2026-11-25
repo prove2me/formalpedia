@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_smul_eq_algebraMap_mul
 -- name    : PI.WAU.smul_eq_algebraMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:26.597819+00:00
 -- url     : https://prove2.me/theorems/77090ee8-d6dd-4f1f-82ae-f40397ed4044

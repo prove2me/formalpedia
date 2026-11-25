@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NUnimodLoc_UnitaryGroupMassFormula_FC_mem_spanLt_iff
 -- name    : PI.NUnimodLoc.UnitaryGroupMassFormula.FC.mem_spanLt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:34:57.985813+00:00
 -- url     : https://prove2.me/theorems/14315601-8dfb-4a1a-9707-1bc41f16dd11

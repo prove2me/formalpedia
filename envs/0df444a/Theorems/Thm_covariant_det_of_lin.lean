@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_covariant_det_of_lin
 -- name    : covariant_det_of_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:45:40.582036+00:00
 -- url     : https://prove2.me/theorems/d53af01c-90cd-4ae5-a345-8fff845cb4ac

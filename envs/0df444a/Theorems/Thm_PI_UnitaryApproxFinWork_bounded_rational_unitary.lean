@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryApproxFinWork_bounded_rational_unitary
 -- name    : PI.UnitaryApproxFinWork.bounded_rational_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:55.34246+00:00
 -- url     : https://prove2.me/theorems/29a01a60-acfe-5017-8a5d-9cbd36eddc85

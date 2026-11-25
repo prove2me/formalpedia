@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_keyExact
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.keyExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:33:55.883251+00:00
 -- url     : https://prove2.me/theorems/0f602f35-9c81-5bd6-96b0-1d57f799bfb2

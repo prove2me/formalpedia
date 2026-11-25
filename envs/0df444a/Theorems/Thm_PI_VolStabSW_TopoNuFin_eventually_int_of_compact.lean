@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_TopoNuFin_eventually_int_of_compact
 -- name    : PI.VolStabSW.TopoNuFin.eventually_int_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:45:19.172082+00:00
 -- url     : https://prove2.me/theorems/0338d73b-4eb1-5bfb-951f-4590c8921eb1

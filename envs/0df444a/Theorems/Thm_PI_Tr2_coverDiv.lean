@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Tr2_coverDiv
 -- name    : PI.Tr2.coverDiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:50.715417+00:00
 -- url     : https://prove2.me/theorems/2269628e-01d7-46ad-b652-c0565c4e0792

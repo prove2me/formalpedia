@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_proper_action_orbit_measure
 -- name    : GlobalTheory.T.proper_action_orbit_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:54:57.036448+00:00
 -- url     : https://prove2.me/theorems/9ccbd674-faca-4b08-8bd8-fa0bec017b8d

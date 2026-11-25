@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_box_antitone
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.box_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:10.830787+00:00
 -- url     : https://prove2.me/theorems/1e52cf32-38f9-52e2-8643-ccb0271caa90

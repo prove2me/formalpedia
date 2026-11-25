@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_opAct_uwb
 -- name    : PI.RhsWLim.W.opAct_uwb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:56:37.660655+00:00
 -- url     : https://prove2.me/theorems/f848337b-e412-588d-9951-94a49d8a90e4

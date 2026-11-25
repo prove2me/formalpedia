@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_frameSg_of
 -- name    : PI.PolynomialProperness.frameSg_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:38:57.707423+00:00
 -- url     : https://prove2.me/theorems/5db8e67a-6dc3-4a5d-a6a7-ab41c91fd430

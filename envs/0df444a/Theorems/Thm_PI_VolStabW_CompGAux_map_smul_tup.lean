@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_CompGAux_map_smul_tup
 -- name    : PI.VolStabW.CompGAux.map_smul_tup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:44:17.501877+00:00
 -- url     : https://prove2.me/theorems/4a2f4de4-2353-4a0e-b027-fe92ffb1a813

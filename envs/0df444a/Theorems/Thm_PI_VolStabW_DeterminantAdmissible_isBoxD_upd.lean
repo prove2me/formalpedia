@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_isBoxD_upd
 -- name    : PI.VolStabW.DeterminantAdmissible.isBoxD_upd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:19.573993+00:00
 -- url     : https://prove2.me/theorems/5ef60752-2375-4691-a903-847c9b01537b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_SdUniqW_continuous_BR_right
 -- name    : PI.VolStabSW.SdUniqW.continuous_BR_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:03:51.721164+00:00
 -- url     : https://prove2.me/theorems/a2bd03aa-6b43-42d8-a1a0-c590a0dd575a

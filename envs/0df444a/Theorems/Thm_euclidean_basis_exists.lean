@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_euclidean_basis_exists
 -- name    : euclidean_basis_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:18:05.003878+00:00
 -- url     : https://prove2.me/theorems/02297574-1ebd-4b71-bf0f-2a231e0fee24

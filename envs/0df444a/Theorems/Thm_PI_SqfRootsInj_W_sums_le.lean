@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_sums_le
 -- name    : PI.SqfRootsInj.W.sums_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:44.646055+00:00
 -- url     : https://prove2.me/theorems/1af144c7-af7d-5e0c-8cf1-5027ab1dc5ac

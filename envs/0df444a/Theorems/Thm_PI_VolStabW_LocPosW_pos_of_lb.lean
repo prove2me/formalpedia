@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_LocPosW_pos_of_lb
 -- name    : PI.VolStabW.LocPosW.pos_of_lb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:39:13.018555+00:00
 -- url     : https://prove2.me/theorems/9bc46321-39e2-4d6f-82fc-f2ec1b7a1fe6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassFin_int_nat
 -- name    : PI.UnitaryGroupMassFormula.UJClassFin.int_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:44:53.919736+00:00
 -- url     : https://prove2.me/theorems/f5a0369b-3818-4b7a-bcfb-aa4dedfb848a

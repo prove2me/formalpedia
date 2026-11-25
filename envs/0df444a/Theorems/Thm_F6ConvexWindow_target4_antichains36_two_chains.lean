@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_target4_antichains36_two_chains
 -- name    : F6ConvexWindow.target4_antichains36_two_chains
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:11:01.388834+00:00
 -- url     : https://prove2.me/theorems/61c290ac-d9d1-472d-b98a-f96e18b8445c

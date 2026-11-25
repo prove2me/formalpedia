@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_stdH_single_zero
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.stdH_single_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:41:52.510801+00:00
 -- url     : https://prove2.me/theorems/89131586-55a5-43f3-8a24-feb95e73c86a

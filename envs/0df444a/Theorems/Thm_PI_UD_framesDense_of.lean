@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UD_framesDense_of
 -- name    : PI.UD.framesDense_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:35.223349+00:00
 -- url     : https://prove2.me/theorems/7de58839-889d-4553-9120-0ffe101fc1c5

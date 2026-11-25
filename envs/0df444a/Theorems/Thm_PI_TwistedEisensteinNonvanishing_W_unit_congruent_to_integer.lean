@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_unit_congruent_to_integer
 -- name    : PI.TwistedEisensteinNonvanishing.W.unit_congruent_to_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:27.431006+00:00
 -- url     : https://prove2.me/theorems/5bb8b2a6-eaf4-4ad7-8467-f3ef40786565

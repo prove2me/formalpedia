@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Mirrors_labelSurjO
 -- name    : GlobalTheory.CompanionTheory.TyFin.Mirrors.labelSurjO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:04.882737+00:00
 -- url     : https://prove2.me/theorems/9f000aca-159d-4f37-b257-3b50b2bc330e

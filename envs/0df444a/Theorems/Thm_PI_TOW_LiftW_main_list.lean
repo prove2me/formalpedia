@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_LiftW_main_list
 -- name    : PI.TOW.LiftW.main_list
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:28:55.167436+00:00
 -- url     : https://prove2.me/theorems/1dcc9176-e0f1-48b8-bacd-0a6ca7b4575d

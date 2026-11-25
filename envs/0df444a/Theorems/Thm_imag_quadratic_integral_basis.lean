@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_imag_quadratic_integral_basis
 -- name    : imag_quadratic_integral_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:54.395336+00:00
 -- url     : https://prove2.me/theorems/4f092769-05cf-4a8b-b896-9eafe5d56fb5

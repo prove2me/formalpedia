@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_pderiv_comm
 -- name    : PI.WFJM.pderiv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:07.686603+00:00
 -- url     : https://prove2.me/theorems/7027004b-2a83-461e-8de4-987b9c47c59d

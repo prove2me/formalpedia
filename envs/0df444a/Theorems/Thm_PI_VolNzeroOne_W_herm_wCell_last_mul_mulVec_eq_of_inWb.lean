@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolNzeroOne_W_herm_wCell_last_mul_mulVec_eq_of_inWb
 -- name    : PI.VolNzeroOne.W.herm_wCell_last_mul_mulVec_eq_of_inWb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:35:07.260466+00:00
 -- url     : https://prove2.me/theorems/a3a2453f-dea7-434a-8931-533883daf832

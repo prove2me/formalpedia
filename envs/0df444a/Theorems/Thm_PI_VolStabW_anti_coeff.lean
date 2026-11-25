@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_anti_coeff
 -- name    : PI.VolStabW.anti_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:43:40.8398+00:00
 -- url     : https://prove2.me/theorems/78b8d321-69ea-45fa-ac5d-81f598303ecf

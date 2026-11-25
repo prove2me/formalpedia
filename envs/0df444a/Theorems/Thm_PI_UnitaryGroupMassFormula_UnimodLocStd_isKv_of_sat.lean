@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_isKv_of_sat
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.isKv_of_sat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:35:35.042571+00:00
 -- url     : https://prove2.me/theorems/76a6752a-ac05-4d5b-ad83-70a3e6463d61

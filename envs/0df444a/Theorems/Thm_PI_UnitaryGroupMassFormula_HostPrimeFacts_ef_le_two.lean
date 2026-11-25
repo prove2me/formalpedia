@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_HostPrimeFacts_ef_le_two
 -- name    : PI.UnitaryGroupMassFormula.HostPrimeFacts.ef_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:39:24.537418+00:00
 -- url     : https://prove2.me/theorems/3b34280a-746a-4d03-8aad-49719c511f71

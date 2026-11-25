@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_eval_qDb
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.eval_qDb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:43:03.745154+00:00
 -- url     : https://prove2.me/theorems/d167b68c-2ddc-4130-9feb-1030adcf0794

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_um_eq_smul_of_sigmaCompact
 -- name    : PI.VolStabSW.um_eq_smul_of_sigmaCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:37:24.007792+00:00
 -- url     : https://prove2.me/theorems/18425ab1-8101-4c3e-9ee3-84b5777e1b64

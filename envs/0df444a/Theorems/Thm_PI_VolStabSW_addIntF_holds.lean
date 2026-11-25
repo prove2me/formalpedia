@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_addIntF_holds
 -- name    : PI.VolStabSW.addIntF_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:41:55.608138+00:00
 -- url     : https://prove2.me/theorems/7887f319-ebec-44bb-a95c-7517a6077a74

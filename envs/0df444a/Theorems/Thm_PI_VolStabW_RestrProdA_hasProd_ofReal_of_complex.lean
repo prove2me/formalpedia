@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrProdA_hasProd_ofReal_of_complex
 -- name    : PI.VolStabW.RestrProdA.hasProd_ofReal_of_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:38:47.096371+00:00
 -- url     : https://prove2.me/theorems/2dd12cda-6d16-48a5-9a1b-9668e7af9fe8

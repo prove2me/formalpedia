@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Dv_Tr_eG_mul_eS
 -- name    : PI.Dv.Tr.eG_mul_eS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:42.511917+00:00
 -- url     : https://prove2.me/theorems/320249f9-8190-427f-8f7c-216e61480312

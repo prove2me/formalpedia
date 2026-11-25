@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_hSes_herm
 -- name    : PI.VolStabSW.hSes_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:37:58.611858+00:00
 -- url     : https://prove2.me/theorems/c9a4ba1a-b2fa-4a19-9cf1-801ec8158fab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_Bf_smul_right
 -- name    : PI.VolSemiDirect.W.Cj.Bf_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:44:13.230284+00:00
 -- url     : https://prove2.me/theorems/1b7482d5-2349-5111-b83b-7dd7bc97fd3c

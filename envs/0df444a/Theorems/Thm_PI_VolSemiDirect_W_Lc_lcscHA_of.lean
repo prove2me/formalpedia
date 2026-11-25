@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Lc_lcscHA_of
 -- name    : PI.VolSemiDirect.W.Lc.lcscHA_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:36:01.149809+00:00
 -- url     : https://prove2.me/theorems/db65f209-2c65-4491-9712-ec40396dec69

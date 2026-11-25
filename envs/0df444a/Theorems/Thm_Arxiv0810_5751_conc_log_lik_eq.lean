@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0810_5751_conc_log_lik_eq
 -- name    : Arxiv0810_5751.conc_log_lik_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:44:13.16219+00:00
 -- url     : https://prove2.me/theorems/0df126b4-184f-4b9d-90a8-a169829c12d7

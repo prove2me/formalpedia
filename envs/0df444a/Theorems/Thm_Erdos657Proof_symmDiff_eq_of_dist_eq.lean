@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos657Proof_symmDiff_eq_of_dist_eq
 -- name    : Erdos657Proof.symmDiff_eq_of_dist_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:21:09.281225+00:00
 -- url     : https://prove2.me/theorems/29870220-6190-5c01-875b-46950e61f5b6

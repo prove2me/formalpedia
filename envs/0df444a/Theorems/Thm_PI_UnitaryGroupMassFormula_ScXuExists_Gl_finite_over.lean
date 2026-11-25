@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_Gl_finite_over
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.Gl.finite_over
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:40:52.657275+00:00
 -- url     : https://prove2.me/theorems/24dca4d7-3712-4196-ae34-10adc11a9049

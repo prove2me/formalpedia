@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_UnipW_inX_mem
 -- name    : PI.StabSplit.UnipW.inX_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:39:45.159954+00:00
 -- url     : https://prove2.me/theorems/ee611274-84a1-505a-95f9-07a00503e0bd

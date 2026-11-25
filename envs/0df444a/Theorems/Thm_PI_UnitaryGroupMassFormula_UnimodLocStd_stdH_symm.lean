@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_stdH_symm
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.stdH_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:41:20.08293+00:00
 -- url     : https://prove2.me/theorems/a0667060-5aa9-5ff3-b71f-c5f058bacfb8

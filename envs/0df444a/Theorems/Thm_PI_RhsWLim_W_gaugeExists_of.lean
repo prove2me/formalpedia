@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_gaugeExists_of
 -- name    : PI.RhsWLim.W.gaugeExists_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:40:30.523645+00:00
 -- url     : https://prove2.me/theorems/4e4f7be3-e0a0-4346-ba04-50202c5a3ca2

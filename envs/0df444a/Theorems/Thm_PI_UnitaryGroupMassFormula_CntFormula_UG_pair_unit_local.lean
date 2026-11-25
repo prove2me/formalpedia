@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_UG_pair_unit_local
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.UG.pair_unit_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:48:32.769097+00:00
 -- url     : https://prove2.me/theorems/02a27596-f818-40af-8675-c51045d0a182

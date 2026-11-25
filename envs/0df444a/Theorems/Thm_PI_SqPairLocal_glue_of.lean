@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_glue_of
 -- name    : PI.SqPairLocal.glue_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:25:06.83544+00:00
 -- url     : https://prove2.me/theorems/9451319f-1126-4221-8227-e19cb9629c66

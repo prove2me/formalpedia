@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_det_comp
 -- name    : PI.TwistedEisensteinNonvanishing.W.det_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:28.727963+00:00
 -- url     : https://prove2.me/theorems/de55912e-287a-5584-975f-d289b2d5075a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_WOnLatG_neg_one_zpow_odd_mul
 -- name    : PI.UnitaryGroupMassFormula.WOnLatG.neg_one_zpow_odd_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:35:52.955799+00:00
 -- url     : https://prove2.me/theorems/c72f2f6a-2b66-56e8-a3e7-7616870b9a02

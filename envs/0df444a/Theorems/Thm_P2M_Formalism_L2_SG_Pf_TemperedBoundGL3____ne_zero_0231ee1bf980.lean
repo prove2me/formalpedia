@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_TemperedBoundGL3____ne_zero_0231ee1bf980
 -- name    : P2M_Formalism_L2_SG_Pf_TemperedBoundGL3____ne_zero_0231ee1bf980
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:49:48.186633+00:00
 -- url     : https://prove2.me/theorems/1e69763b-7585-4c68-9e7f-e77761c6d2a2

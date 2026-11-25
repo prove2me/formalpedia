@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_transference_covering
 -- name    : transference_covering
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:09.25866+00:00
 -- url     : https://prove2.me/theorems/03a49a2c-b81e-4c5a-b7ee-4e7fa2a9cacf

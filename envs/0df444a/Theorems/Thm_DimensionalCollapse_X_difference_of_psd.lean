@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimensionalCollapse_X_difference_of_psd
 -- name    : DimensionalCollapse.X_difference_of_psd
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:53:02.711668+00:00
 -- url     : https://prove2.me/theorems/165b81fd-c60e-4da0-8517-c75e81545cda

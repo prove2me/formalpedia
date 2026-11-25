@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_element_eq_prime_power_mul_unit
 -- name    : PI.TwistedEisensteinNonvanishing.W.element_eq_prime_power_mul_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:56.666889+00:00
 -- url     : https://prove2.me/theorems/ce8ea6ac-a377-4441-a874-b55953da4229

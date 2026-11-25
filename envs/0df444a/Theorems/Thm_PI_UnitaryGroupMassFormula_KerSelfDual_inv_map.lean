@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_KerSelfDual_inv_map
 -- name    : PI.UnitaryGroupMassFormula.KerSelfDual.inv_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:39:39.95686+00:00
 -- url     : https://prove2.me/theorems/1fe6a9fa-78ae-465b-b72a-8f4f9e4f16fe

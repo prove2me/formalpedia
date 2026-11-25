@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_IdxLW_crdL_surj
 -- name    : PI.VolStabW.IdxLW.crdL_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:38:59.251802+00:00
 -- url     : https://prove2.me/theorems/316e830f-750b-4f7b-acc2-9ed9ee857b4f

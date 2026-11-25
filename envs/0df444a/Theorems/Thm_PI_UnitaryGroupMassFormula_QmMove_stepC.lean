@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_stepC
 -- name    : PI.UnitaryGroupMassFormula.QmMove.stepC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:24.896632+00:00
 -- url     : https://prove2.me/theorems/863c85d0-8be2-4aa2-a242-d35205349fda

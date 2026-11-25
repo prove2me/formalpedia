@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_InHHClassFin_lvA_princ_form
 -- name    : PI.UnitaryGroupMassFormula.InHHClassFin.lvA_princ_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:41:18.286201+00:00
 -- url     : https://prove2.me/theorems/b0f528c4-0303-4601-9d6c-a33f638bbcd2

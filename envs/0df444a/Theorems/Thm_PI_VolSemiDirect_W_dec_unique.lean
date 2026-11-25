@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_dec_unique
 -- name    : PI.VolSemiDirect.W.dec_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:36:34.216987+00:00
 -- url     : https://prove2.me/theorems/8d2ca7bc-a75b-5548-a850-d10c7c8e4d71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_sigR_algebraMap
 -- name    : PI.VolSemiDirect.W.Cj.sigR_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:37:27.145878+00:00
 -- url     : https://prove2.me/theorems/1a7add32-0db3-44df-a016-7d4de4a60166

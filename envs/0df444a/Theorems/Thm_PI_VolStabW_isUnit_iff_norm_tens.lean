@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_isUnit_iff_norm_tens
 -- name    : PI.VolStabW.isUnit_iff_norm_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:43:32.752488+00:00
 -- url     : https://prove2.me/theorems/b98d85b5-394c-4a1f-847e-4d75a38eb5fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_QuotExtension_gramAt_mulVec_apply_28178724728b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_QuotExtension_gramAt_mulVec_apply_28178724728b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:41:54.575609+00:00
 -- url     : https://prove2.me/theorems/8408282f-8afe-4d56-a9ac-93c8c9e74508

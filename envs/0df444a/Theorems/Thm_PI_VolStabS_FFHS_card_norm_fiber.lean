@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_card_norm_fiber
 -- name    : PI.VolStabS.FFHS.card_norm_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:37:16.149259+00:00
 -- url     : https://prove2.me/theorems/2203f497-938c-4883-8a60-8e9696b33796

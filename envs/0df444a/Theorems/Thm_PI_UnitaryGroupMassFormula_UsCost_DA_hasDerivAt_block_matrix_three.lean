@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_DA_hasDerivAt_block_matrix_three
 -- name    : PI.UnitaryGroupMassFormula.UsCost.DA.hasDerivAt_block_matrix_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:42:35.201105+00:00
 -- url     : https://prove2.me/theorems/12c3bc81-11fb-485a-b396-f3f1a2bb0d26

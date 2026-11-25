@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_BrB_isUnit_det_first_projection
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.BrB.isUnit_det_first_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:40:45.055888+00:00
 -- url     : https://prove2.me/theorems/847efccd-45e9-4bfa-8a6e-1c275c3c2fb7

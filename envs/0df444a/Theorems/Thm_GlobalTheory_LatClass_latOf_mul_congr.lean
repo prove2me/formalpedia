@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_latOf_mul_congr
 -- name    : GlobalTheory.LatClass.latOf_mul_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:46:15.08746+00:00
 -- url     : https://prove2.me/theorems/79b6f1aa-0189-4671-a3a2-ea2d6b4dd149

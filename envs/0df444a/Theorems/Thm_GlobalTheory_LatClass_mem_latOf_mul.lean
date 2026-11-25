@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_mem_latOf_mul
 -- name    : GlobalTheory.LatClass.mem_latOf_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:46:25.122688+00:00
 -- url     : https://prove2.me/theorems/41535adc-88be-4845-9423-bc0121c5def8

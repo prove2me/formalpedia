@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_evT_split
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.evT_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:20:47.142723+00:00
 -- url     : https://prove2.me/theorems/344854ae-dbca-5a00-aedf-3df3de47bef6

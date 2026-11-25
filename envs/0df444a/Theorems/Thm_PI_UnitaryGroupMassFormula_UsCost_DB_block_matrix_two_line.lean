@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_DB_block_matrix_two_line
 -- name    : PI.UnitaryGroupMassFormula.UsCost.DB.block_matrix_two_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:44:22.119+00:00
 -- url     : https://prove2.me/theorems/fc153bb9-22bf-51ab-ba11-5da22060ab4d

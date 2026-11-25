@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CdHaarScale_Main_map_phi_indep
 -- name    : PI.UnitaryGroupMassFormula.CdHaarScale.Main.map_phi_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:02.434547+00:00
 -- url     : https://prove2.me/theorems/9ca6dfa5-f6f6-4711-9e7f-2c4e44b99be4

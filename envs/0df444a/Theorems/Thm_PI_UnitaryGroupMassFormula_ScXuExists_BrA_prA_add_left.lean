@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_BrA_prA_add_left
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.BrA.prA_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:44.721716+00:00
 -- url     : https://prove2.me/theorems/2749a267-f1a2-52e5-bda7-edb7a4e50e28

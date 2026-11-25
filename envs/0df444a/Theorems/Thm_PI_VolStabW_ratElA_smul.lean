@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_ratElA_smul
 -- name    : PI.VolStabW.ratElA_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:29.381801+00:00
 -- url     : https://prove2.me/theorems/cdb689b6-572f-48ca-80c0-eab6903f183d

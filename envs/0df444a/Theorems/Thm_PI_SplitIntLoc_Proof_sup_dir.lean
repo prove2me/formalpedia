@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SplitIntLoc_Proof_sup_dir
 -- name    : PI.SplitIntLoc.Proof.sup_dir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:24:10.79329+00:00
 -- url     : https://prove2.me/theorems/e92b4b7b-c230-461c-bd28-c6804e69739b

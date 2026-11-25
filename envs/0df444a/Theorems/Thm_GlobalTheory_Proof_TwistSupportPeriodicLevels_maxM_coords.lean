@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_TwistSupportPeriodicLevels_maxM_coords
 -- name    : GlobalTheory.Proof.TwistSupportPeriodicLevels.maxM_coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:46:20.395409+00:00
 -- url     : https://prove2.me/theorems/80bff629-5405-5a74-a8ec-1100521aec81

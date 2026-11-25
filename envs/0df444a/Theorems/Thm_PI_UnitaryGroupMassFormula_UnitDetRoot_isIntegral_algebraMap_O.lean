@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_isIntegral_algebraMap_O
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.isIntegral_algebraMap_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:35:08.500323+00:00
 -- url     : https://prove2.me/theorems/9e10dc9e-61fa-5866-9af3-f9c6d56c6e7d

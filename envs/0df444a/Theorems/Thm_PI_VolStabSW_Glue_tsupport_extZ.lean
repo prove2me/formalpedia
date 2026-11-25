@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_Glue_tsupport_extZ
 -- name    : PI.VolStabSW.Glue.tsupport_extZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:38:43.838813+00:00
 -- url     : https://prove2.me/theorems/29f9a84d-8c03-5029-9256-bd72aaefce63

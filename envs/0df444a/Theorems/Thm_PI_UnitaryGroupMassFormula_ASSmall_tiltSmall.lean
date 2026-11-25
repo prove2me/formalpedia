@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ASSmall_tiltSmall
 -- name    : PI.UnitaryGroupMassFormula.ASSmall.tiltSmall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:37:30.865174+00:00
 -- url     : https://prove2.me/theorems/738b2be5-feb3-52e7-bb7e-5e64149b5736

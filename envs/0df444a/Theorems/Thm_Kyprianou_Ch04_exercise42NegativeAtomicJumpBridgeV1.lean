@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42NegativeAtomicJumpBridgeV1
 -- name    : Kyprianou.Ch04.exercise42NegativeAtomicJumpBridgeV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:33:06.39953+00:00
 -- url     : https://prove2.me/theorems/f195ce20-957d-520d-bc0d-137d689cae1d

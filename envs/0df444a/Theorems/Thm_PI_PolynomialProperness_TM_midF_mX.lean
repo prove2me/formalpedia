@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_TM_midF_mX
 -- name    : PI.PolynomialProperness.TM.midF_mX
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:17:27.739505+00:00
 -- url     : https://prove2.me/theorems/03c4499b-9031-4b65-be99-44fcf06f2bca

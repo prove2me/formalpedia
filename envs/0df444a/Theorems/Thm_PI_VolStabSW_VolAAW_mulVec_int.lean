@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_VolAAW_mulVec_int
 -- name    : PI.VolStabSW.VolAAW.mulVec_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:43:55.363786+00:00
 -- url     : https://prove2.me/theorems/69421d4a-f568-4cbd-bd9a-76e25fa483e7

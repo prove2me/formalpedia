@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_SchurClosable_Main_alg
 -- name    : PI.UnitaryGroupMassFormula.SchurClosable.Main.alg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:36.12673+00:00
 -- url     : https://prove2.me/theorems/134894f1-5833-4f33-b10b-8f9a1bd5f415

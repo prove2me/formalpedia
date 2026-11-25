@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_FlagGramNonneg_zt_e__5c081d0faef5
 -- name    : P2M_PI_UnitaryGroupMassFormula_FlagGramNonneg_zt_e__5c081d0faef5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:12:25.708571+00:00
 -- url     : https://prove2.me/theorems/8e27e49d-bc7c-4077-8494-bde340064883

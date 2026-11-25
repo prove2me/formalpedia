@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_PositiveNearLattice_isClopen_latV
 -- name    : PI.VolStabSW.PositiveNearLattice.isClopen_latV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:58:29.512728+00:00
 -- url     : https://prove2.me/theorems/64808cd9-fd91-4684-a2ef-afde046992fa

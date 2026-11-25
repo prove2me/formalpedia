@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cuspidal_support_exists
 -- name    : GlobalTheory.T.cuspidal_support_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:32:31.102561+00:00
 -- url     : https://prove2.me/theorems/1873e6fb-053a-4b71-8a8c-66f26d09b269

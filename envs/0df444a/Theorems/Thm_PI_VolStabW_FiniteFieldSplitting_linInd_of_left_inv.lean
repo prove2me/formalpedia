@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteFieldSplitting_linInd_of_left_inv
 -- name    : PI.VolStabW.FiniteFieldSplitting.linInd_of_left_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:37:20.30891+00:00
 -- url     : https://prove2.me/theorems/0a77510f-bbb5-426e-98c1-0a72d4fab6ed

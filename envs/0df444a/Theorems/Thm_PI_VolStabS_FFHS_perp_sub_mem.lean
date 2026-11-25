@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_perp_sub_mem
 -- name    : PI.VolStabS.FFHS.perp_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:36:20.519241+00:00
 -- url     : https://prove2.me/theorems/5f064d6c-b846-434d-afbd-bbe746ac323c

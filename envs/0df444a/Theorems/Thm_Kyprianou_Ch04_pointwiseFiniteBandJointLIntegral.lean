@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_pointwiseFiniteBandJointLIntegral
 -- name    : Kyprianou.Ch04.pointwiseFiniteBandJointLIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:27:15.694163+00:00
 -- url     : https://prove2.me/theorems/d4b2e35a-c3c5-4e0c-8e63-28c88450806a

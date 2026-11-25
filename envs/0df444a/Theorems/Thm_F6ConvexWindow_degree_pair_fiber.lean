@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_degree_pair_fiber
 -- name    : F6ConvexWindow.degree_pair_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:36:19.982844+00:00
 -- url     : https://prove2.me/theorems/1e6c9306-774a-4774-808f-206212b114f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_overlapping_prefix_crossPairs_empty
 -- name    : F6ConvexWindow.overlapping_prefix_crossPairs_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:21:20.48388+00:00
 -- url     : https://prove2.me/theorems/87a0b981-23f4-4d59-b657-e18a2c756fa5

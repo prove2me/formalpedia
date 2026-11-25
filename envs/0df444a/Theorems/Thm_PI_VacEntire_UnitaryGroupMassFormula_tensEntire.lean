@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VacEntire_UnitaryGroupMassFormula_tensEntire
 -- name    : PI.VacEntire.UnitaryGroupMassFormula.tensEntire
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:41:25.848392+00:00
 -- url     : https://prove2.me/theorems/08a05905-1e46-46fe-991b-0978987c018c

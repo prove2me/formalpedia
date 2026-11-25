@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BesselLevi_main
 -- name    : PI.UnitaryGroupMassFormula.BesselLevi.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:12.811264+00:00
 -- url     : https://prove2.me/theorems/a27f5c95-18d5-4715-afe1-6d1724a74edd

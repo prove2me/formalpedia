@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_altE_single
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.altE_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:35:12.806033+00:00
 -- url     : https://prove2.me/theorems/2c29ff47-fbfe-507f-9bfd-859bd9d1a9f7

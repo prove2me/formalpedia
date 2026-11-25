@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ProdFormulaE_Assemble_prodFormulaE_of_haar
 -- name    : PI.ProdFormulaE.Assemble.prodFormulaE_of_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:00:11.286949+00:00
 -- url     : https://prove2.me/theorems/bdab9367-4907-4533-906d-1c280b2c4491

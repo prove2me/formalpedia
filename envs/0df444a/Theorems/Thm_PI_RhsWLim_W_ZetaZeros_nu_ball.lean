@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_ZetaZeros_nu_ball
 -- name    : PI.RhsWLim.W.ZetaZeros.nu_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:34:44.092822+00:00
 -- url     : https://prove2.me/theorems/56b6a4d7-98a4-4568-9acc-e3b4624ba244

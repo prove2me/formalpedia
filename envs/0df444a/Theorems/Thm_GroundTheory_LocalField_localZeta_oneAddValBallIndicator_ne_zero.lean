@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_localZeta_oneAddValBallIndicator_ne_zero
 -- name    : GroundTheory.LocalField.localZeta_oneAddValBallIndicator_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:17:49.332111+00:00
 -- url     : https://prove2.me/theorems/fe79651b-ec41-5b12-af65-d08b9b941a7a

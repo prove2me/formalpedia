@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_cosApx_sub_mem
 -- name    : PI.VolStabSW.cosApx_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:16.305811+00:00
 -- url     : https://prove2.me/theorems/ec65034f-7667-4cb0-81ec-dbaf31d56b5d

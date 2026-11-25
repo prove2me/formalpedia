@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_HX_tensA_mul
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.HX.tensA_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:03.27584+00:00
 -- url     : https://prove2.me/theorems/756b9e5c-0d04-51b8-ae23-07640f1a309a

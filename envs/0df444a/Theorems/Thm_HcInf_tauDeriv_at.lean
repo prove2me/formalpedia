@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HcInf_tauDeriv_at
 -- name    : HcInf.tauDeriv_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:22:27.526534+00:00
 -- url     : https://prove2.me/theorems/48988cfd-49a8-412c-b539-326ca02f6daa

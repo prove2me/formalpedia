@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_om_per
 -- name    : GlobalTheory.LatClass.om_per
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:49:29.982751+00:00
 -- url     : https://prove2.me/theorems/cfbf1f4b-0447-43df-85ff-5dc1b1ddf4cb

@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for euclidean_basis_exists
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T10:52:15.127836+00:00
+-- url     : https://prove2.me/submissions/6a05f74c-1892-44aa-8e4d-c65eeb8926f0
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_ScaledBoundInequalityHypothesesOne
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_SchwarzBallNumerics_NetForm
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_SchwarzBallNumerics_NetSup
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_SchwarzBallNumerics_Schwarz
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_SchwarzBallNumerics_EBasis
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantLemmas_SchwarzBallNumerics_ArithmeticFourInequalityNum
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_DiscriminantEstimates_DiscriminantTheorems_ScaledBoundInequality
+import Theorems.Thm_PI_UnitaryGroupMassFormula_TBNum_eBasis
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+theorem _root_.solution : ReciprocityTheory.ChartRestriction.G.TB.EBasisSt := PI.UnitaryGroupMassFormula.TBNum.eBasis

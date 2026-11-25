@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_countable_numberField
 -- name    : PI.VolStabSW.countable_numberField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:03:56.830901+00:00
 -- url     : https://prove2.me/theorems/511ce396-ecfb-4f7d-95f2-c7553a91e4c7

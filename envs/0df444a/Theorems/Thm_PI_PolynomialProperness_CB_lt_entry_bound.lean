@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_CB_lt_entry_bound
 -- name    : PI.PolynomialProperness.CB.lt_entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:38:26.177808+00:00
 -- url     : https://prove2.me/theorems/e5d6f1b3-c1d1-420b-a2db-0635a015dc52

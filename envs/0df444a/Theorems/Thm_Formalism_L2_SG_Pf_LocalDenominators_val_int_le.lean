@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LocalDenominators_val_int_le
 -- name    : Formalism.L2.SG.Pf.LocalDenominators.val_int_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:38:19.218848+00:00
 -- url     : https://prove2.me/theorems/3e1b88e3-0760-5173-a104-56a3aebcc656

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_conj_eq_smul
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.conj_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:00:05.714839+00:00
 -- url     : https://prove2.me/theorems/1830b869-9b47-49f9-ae46-05f42aa0d963

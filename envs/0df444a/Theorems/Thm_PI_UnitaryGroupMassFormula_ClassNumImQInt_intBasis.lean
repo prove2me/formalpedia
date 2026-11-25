@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ClassNumImQInt_intBasis
 -- name    : PI.UnitaryGroupMassFormula.ClassNumImQInt.intBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:11.223347+00:00
 -- url     : https://prove2.me/theorems/9fcbcef7-a942-4b67-8fd2-8ff7386b1672

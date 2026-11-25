@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_isK_theta
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.isK_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:33:55.340404+00:00
 -- url     : https://prove2.me/theorems/e6c5298a-4391-4c19-9873-00dbfa1eeb89

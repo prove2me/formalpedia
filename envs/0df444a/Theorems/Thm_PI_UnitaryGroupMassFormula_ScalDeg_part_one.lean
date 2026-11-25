@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScalDeg_part_one
 -- name    : PI.UnitaryGroupMassFormula.ScalDeg.part_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:36.156348+00:00
 -- url     : https://prove2.me/theorems/45a8b01b-6900-4b2d-b043-4a135afbb640

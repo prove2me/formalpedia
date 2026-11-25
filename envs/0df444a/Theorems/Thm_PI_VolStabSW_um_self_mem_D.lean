@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_um_self_mem_D
 -- name    : PI.VolStabSW.um_self_mem_D
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:37:39.157193+00:00
 -- url     : https://prove2.me/theorems/62334adc-319b-469e-828c-4763f9e82be0

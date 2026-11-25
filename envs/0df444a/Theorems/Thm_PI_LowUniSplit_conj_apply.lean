@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LowUniSplit_conj_apply
 -- name    : PI.LowUniSplit.conj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:39:26.081976+00:00
 -- url     : https://prove2.me/theorems/217f0905-29e7-4c09-a39d-605c8ca6a60d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_inducedPairs_union_subset
 -- name    : F6ConvexWindow.inducedPairs_union_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:17:58.155839+00:00
 -- url     : https://prove2.me/theorems/3a30e84e-ee5f-4d59-a558-6db053ea076b

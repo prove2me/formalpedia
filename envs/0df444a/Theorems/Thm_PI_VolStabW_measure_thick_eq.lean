@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_measure_thick_eq
 -- name    : PI.VolStabW.measure_thick_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:43:30.563728+00:00
 -- url     : https://prove2.me/theorems/13b53472-d774-4df4-8d54-531411450672

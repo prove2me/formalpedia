@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_JCC_Ck_psum_succ
 -- name    : PI.UnitaryGroupMassFormula.JCC.Ck.psum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:17:39.849621+00:00
 -- url     : https://prove2.me/theorems/70efdc59-8f79-4d5a-a9b0-603ce1b6a07a

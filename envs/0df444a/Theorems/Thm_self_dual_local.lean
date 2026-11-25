@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_self_dual_local
 -- name    : self_dual_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:34:01.04104+00:00
 -- url     : https://prove2.me/theorems/50db5e2b-57f9-49f3-a6fe-bef549e7cb6c

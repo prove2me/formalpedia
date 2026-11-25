@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OddDualWeyl_lowestWeightMem
 -- name    : PI.OddDualWeyl.lowestWeightMem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:18.892246+00:00
 -- url     : https://prove2.me/theorems/8c35aa95-10fa-465b-9563-6a223b5fd4af

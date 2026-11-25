@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_kernel_split_of_jacobi
 -- name    : kernel_split_of_jacobi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:54:17.922802+00:00
 -- url     : https://prove2.me/theorems/94541cd2-7a9d-4c80-ae3c-b03167153531

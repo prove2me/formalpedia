@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GWG_globW_of
 -- name    : PI.ScRefExists.GWG.globW_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:22:31.7241+00:00
 -- url     : https://prove2.me/theorems/4026790f-35eb-4c8e-bb1e-25e1f0a81743

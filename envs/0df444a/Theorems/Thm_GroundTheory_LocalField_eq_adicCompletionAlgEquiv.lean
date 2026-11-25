@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_adicCompletionAlgEquiv
 -- name    : GroundTheory.LocalField.eq_adicCompletionAlgEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:14:49.872463+00:00
 -- url     : https://prove2.me/theorems/c5be43ce-1393-5702-ab5d-1566f640261b

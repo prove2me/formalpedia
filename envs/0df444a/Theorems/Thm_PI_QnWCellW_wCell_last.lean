@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnWCellW_wCell_last
 -- name    : PI.QnWCellW.wCell_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:45:12.995369+00:00
 -- url     : https://prove2.me/theorems/b11d2865-06d7-44bd-8099-5fc5a363f060

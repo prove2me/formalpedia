@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_linearIndependent_of_jordan
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.linearIndependent_of_jordan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:46:53.176448+00:00
 -- url     : https://prove2.me/theorems/cf6d7cfa-b9d1-5148-a416-57a18e915671

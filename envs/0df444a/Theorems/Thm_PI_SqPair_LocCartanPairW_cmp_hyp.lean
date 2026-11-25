@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPair_LocCartanPairW_cmp_hyp
 -- name    : PI.SqPair.LocCartanPairW.cmp_hyp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:31:25.153679+00:00
 -- url     : https://prove2.me/theorems/9eac8bad-8ec1-44f6-a1d6-6b55301d82e8

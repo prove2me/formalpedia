@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_MackeyCuspidal_term_same
 -- name    : GlobalTheory.CompanionTheory.TyFin.MackeyCuspidal.term_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:33:36.900393+00:00
 -- url     : https://prove2.me/theorems/4163fbcf-a627-4ff5-b8e2-fae564912224

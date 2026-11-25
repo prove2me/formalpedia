@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_card_places_bound
 -- name    : PI.UnitaryGroupMassFormula.LCG.card_places_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:21.023019+00:00
 -- url     : https://prove2.me/theorems/dcc1eb10-5c3c-4dac-992d-dd5d9fa3217a

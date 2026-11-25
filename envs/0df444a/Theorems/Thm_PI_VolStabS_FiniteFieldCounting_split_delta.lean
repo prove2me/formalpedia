@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FiniteFieldCounting_split_delta
 -- name    : PI.VolStabS.FiniteFieldCounting.split_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:36:37.319563+00:00
 -- url     : https://prove2.me/theorems/a077a6dc-a99c-44bb-a8b8-557a4aa0b057

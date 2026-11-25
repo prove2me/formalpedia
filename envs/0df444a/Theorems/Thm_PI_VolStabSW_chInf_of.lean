@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_chInf_of
 -- name    : PI.VolStabSW.chInf_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:41:50.820373+00:00
 -- url     : https://prove2.me/theorems/07e3f06a-d084-4c64-9149-82acb29aad98

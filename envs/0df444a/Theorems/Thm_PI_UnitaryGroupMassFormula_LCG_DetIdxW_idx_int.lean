@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DetIdxW_idx_int
 -- name    : PI.UnitaryGroupMassFormula.LCG.DetIdxW.idx_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:01:55.334208+00:00
 -- url     : https://prove2.me/theorems/e80fb792-312e-4189-8485-5c10b435b392

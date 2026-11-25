@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LowSmooth_lowSmooth_of_kFinSmooth
 -- name    : PI.UnitaryGroupMassFormula.LowSmooth.lowSmooth_of_kFinSmooth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:31.950356+00:00
 -- url     : https://prove2.me/theorems/d7a1830b-ad58-43e5-a682-e52ca9e284d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSLWithoutPairs_predictor_fixed_point_symmetric
 -- name    : SSLWithoutPairs.predictor_fixed_point_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:39:51.228165+00:00
 -- url     : https://prove2.me/theorems/9f8243ec-b463-412e-97d6-48b32175ff06

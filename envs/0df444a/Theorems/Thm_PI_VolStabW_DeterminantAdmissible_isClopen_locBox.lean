@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_isClopen_locBox
 -- name    : PI.VolStabW.DeterminantAdmissible.isClopen_locBox
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:47.646517+00:00
 -- url     : https://prove2.me/theorems/f69c557a-5fd8-41be-bac1-7bfbc68c8855

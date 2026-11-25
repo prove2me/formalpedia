@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_BrA_inv_mem_of_val
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.BrA.inv_mem_of_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:40:47.837149+00:00
 -- url     : https://prove2.me/theorems/552d8559-99ba-4e34-a1e6-d7142b965a28

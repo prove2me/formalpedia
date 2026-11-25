@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_LocFrame_hJ_X_right
 -- name    : PI.ScPiBuildW.Loc.LocFrame.hJ_X_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:56:35.430906+00:00
 -- url     : https://prove2.me/theorems/be118d75-5e71-4328-b041-cbdbf4722cdb

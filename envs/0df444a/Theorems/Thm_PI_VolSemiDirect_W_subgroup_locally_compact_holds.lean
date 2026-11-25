@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_subgroup_locally_compact_holds
 -- name    : PI.VolSemiDirect.W.subgroup_locally_compact_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:36:29.154129+00:00
 -- url     : https://prove2.me/theorems/184db36e-aa08-46a0-a64c-8b7384ae1a6b

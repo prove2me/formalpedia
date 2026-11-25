@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_QuantumMinorCommutation_skip_one_eq_succAbove
 -- name    : Formalism.FourierDecayAlt.P.QuantumMinorCommutation.skip_one_eq_succAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:10:02.454202+00:00
 -- url     : https://prove2.me/theorems/cb490898-c266-42c5-9d16-28021e5aa5ad

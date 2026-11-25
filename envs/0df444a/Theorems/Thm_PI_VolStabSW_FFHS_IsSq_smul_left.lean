@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_FFHS_IsSq_smul_left
 -- name    : PI.VolStabSW.FFHS.IsSq.smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:28.184995+00:00
 -- url     : https://prove2.me/theorems/57890d9d-9068-4bc4-8f8d-482f33e3483d

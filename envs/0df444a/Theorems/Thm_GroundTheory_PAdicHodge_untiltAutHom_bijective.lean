@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_untiltAutHom_bijective
 -- name    : GroundTheory.PAdicHodge.untiltAutHom_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:12:52.697911+00:00
 -- url     : https://prove2.me/theorems/d03a4562-0cdd-45bf-8ed2-2172f2e1ea27

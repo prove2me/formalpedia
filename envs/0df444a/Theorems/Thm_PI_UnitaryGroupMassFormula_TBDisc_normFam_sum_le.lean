@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_TBDisc_normFam_sum_le
 -- name    : PI.UnitaryGroupMassFormula.TBDisc.normFam_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:33.126663+00:00
 -- url     : https://prove2.me/theorems/6b749b7d-8a2b-488b-b060-3fe5cc5ede25

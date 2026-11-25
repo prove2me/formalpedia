@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_vol_std_le
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.vol_std_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:41:40.381991+00:00
 -- url     : https://prove2.me/theorems/2f586a9f-ada0-4be6-a09c-fdfe1196bb61

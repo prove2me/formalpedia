@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_GWG_chinese_remainder_gluing
 -- name    : PI.ScRefExists.GWG.chinese_remainder_gluing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:22:00.476281+00:00
 -- url     : https://prove2.me/theorems/190ae6fc-8581-4a17-a560-86e143cfa2d8

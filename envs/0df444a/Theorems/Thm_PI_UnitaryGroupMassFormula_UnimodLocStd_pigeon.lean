@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_pigeon
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.pigeon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:40:53.674145+00:00
 -- url     : https://prove2.me/theorems/78ddb55e-6fdf-499e-9d1b-34dbd7f6490a

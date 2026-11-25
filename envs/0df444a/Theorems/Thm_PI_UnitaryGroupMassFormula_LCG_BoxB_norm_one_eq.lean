@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_BoxB_norm_one_eq
 -- name    : PI.UnitaryGroupMassFormula.LCG.BoxB.norm_one_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:02:10.838637+00:00
 -- url     : https://prove2.me/theorems/5c56282b-6201-4ae6-9c58-e726812f0336

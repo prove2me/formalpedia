@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfCpt_integral_conj
 -- name    : PI.UnitaryGroupMassFormula.GelfCpt.integral_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:54.086932+00:00
 -- url     : https://prove2.me/theorems/4b8fbbf4-6649-4ff3-bb11-7582375e3381

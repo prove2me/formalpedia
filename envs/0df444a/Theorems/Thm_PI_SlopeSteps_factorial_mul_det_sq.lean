@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SlopeSteps_factorial_mul_det_sq
 -- name    : PI.SlopeSteps.factorial_mul_det_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:20.893802+00:00
 -- url     : https://prove2.me/theorems/a0e2b192-dfe0-4d3f-b5f4-97f43ebaaf71

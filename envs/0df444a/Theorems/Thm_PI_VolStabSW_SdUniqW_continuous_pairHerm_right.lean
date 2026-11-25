@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_SdUniqW_continuous_pairHerm_right
 -- name    : PI.VolStabSW.SdUniqW.continuous_pairHerm_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:44:08.910804+00:00
 -- url     : https://prove2.me/theorems/fb401d63-cad3-5e4f-8b3b-19c726d74910

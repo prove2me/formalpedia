@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_mem_acrisZero_of_forall_dvd
 -- name    : GroundTheory.PAdicHodge.ACris.mem_acrisZero_of_forall_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:41:59.806691+00:00
 -- url     : https://prove2.me/theorems/522a4f54-912f-4eac-8a38-2f754fac229a

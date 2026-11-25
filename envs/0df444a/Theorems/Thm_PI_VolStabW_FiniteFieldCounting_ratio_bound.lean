@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteFieldCounting_ratio_bound
 -- name    : PI.VolStabW.FiniteFieldCounting.ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:37:30.76036+00:00
 -- url     : https://prove2.me/theorems/63dfe278-3560-4aa9-a556-835f7bb0ae1f

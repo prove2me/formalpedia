@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_EB_eMat
 -- name    : PI.UnitaryGroupMassFormula.UsCost.EB_eMat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:42:32.462916+00:00
 -- url     : https://prove2.me/theorems/3804d40d-27e5-4252-bdf5-73d17f17ff8c

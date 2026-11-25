@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_InHHClassFin_restrict_of
 -- name    : PI.UnitaryGroupMassFormula.InHHClassFin.restrict_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:41:39.756349+00:00
 -- url     : https://prove2.me/theorems/0e69a15f-f075-4824-ab03-45d63f73a65e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdTestInfW_arg_exp_small
 -- name    : PI.VolStabW.SdTestInfW.arg_exp_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:40:37.196962+00:00
 -- url     : https://prove2.me/theorems/bcc325fc-efaa-5f40-ad9d-b3d6cf0bd94d

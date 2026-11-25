@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_exists_adapted_first_projection
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.exists_adapted_first_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:41:21.993342+00:00
 -- url     : https://prove2.me/theorems/094d876e-1b32-4a8b-b9ae-df72cf59a7bf

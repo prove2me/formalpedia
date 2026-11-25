@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_continuous_gramR_apply
 -- name    : PI.VolStabSW.continuous_gramR_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:41:51.7378+00:00
 -- url     : https://prove2.me/theorems/1c9d861b-5c66-4bba-9003-c6f2c43cc07b

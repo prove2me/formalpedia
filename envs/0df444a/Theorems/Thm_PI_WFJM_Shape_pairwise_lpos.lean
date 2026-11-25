@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_Shape_pairwise_lpos
 -- name    : PI.WFJM.Shape.pairwise_lpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:14.913093+00:00
 -- url     : https://prove2.me/theorems/4e97f25f-3d92-43cf-823d-4c52066f5ec2

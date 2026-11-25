@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_mapAt_act
 -- name    : Formalism.L2.FormalSeriesBounds.VP.mapAt_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:38:28.641087+00:00
 -- url     : https://prove2.me/theorems/c59ce8a7-a9e8-42f7-9ba4-e2059fc17c45

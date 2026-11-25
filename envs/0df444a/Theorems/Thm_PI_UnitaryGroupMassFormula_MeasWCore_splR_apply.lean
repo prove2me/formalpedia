@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_MeasWCore_splR_apply
 -- name    : PI.UnitaryGroupMassFormula.MeasWCore.splR_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:33:19.215803+00:00
 -- url     : https://prove2.me/theorems/25a4e529-948f-4dbb-ae5b-cce819bc3ae0

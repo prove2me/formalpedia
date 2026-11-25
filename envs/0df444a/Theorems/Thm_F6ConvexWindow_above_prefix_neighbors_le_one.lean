@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_above_prefix_neighbors_le_one
 -- name    : F6ConvexWindow.above_prefix_neighbors_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:19:18.674566+00:00
 -- url     : https://prove2.me/theorems/d0c1feeb-5217-58c3-8dd7-5bbbfe941047

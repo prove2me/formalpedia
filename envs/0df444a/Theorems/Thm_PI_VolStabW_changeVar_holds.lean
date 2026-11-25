@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_changeVar_holds
 -- name    : PI.VolStabW.changeVar_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:43:17.713742+00:00
 -- url     : https://prove2.me/theorems/0ab2c2de-3725-4d9a-829d-e468937ab861

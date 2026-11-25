@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_modularCharacter_eq_one_of_mem
 -- name    : GroundTheory.Automorphic.Parabolic.modularCharacter_eq_one_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:09:01.157083+00:00
 -- url     : https://prove2.me/theorems/68ebd80f-da0c-5d3a-811a-0eabb0f19b43

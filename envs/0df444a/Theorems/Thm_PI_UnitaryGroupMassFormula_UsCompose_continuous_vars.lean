@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_continuous_vars
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.continuous_vars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:58.722881+00:00
 -- url     : https://prove2.me/theorems/a6bebd00-8de5-539f-9e8a-b3e6a5afbe77

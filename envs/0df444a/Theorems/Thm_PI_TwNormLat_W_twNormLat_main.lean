@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwNormLat_W_twNormLat_main
 -- name    : PI.TwNormLat.W.twNormLat_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:29:35.163657+00:00
 -- url     : https://prove2.me/theorems/59c20dee-52b2-45eb-82a6-a8867c93202e

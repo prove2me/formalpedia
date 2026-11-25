@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FiniteFieldCounting_sum_exp
 -- name    : PI.VolStabS.FiniteFieldCounting.sum_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:36:37.513599+00:00
 -- url     : https://prove2.me/theorems/4b729966-97d7-42dc-9d92-3f436a9dfef0

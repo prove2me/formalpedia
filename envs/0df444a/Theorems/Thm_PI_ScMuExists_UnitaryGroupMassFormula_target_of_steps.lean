@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_target_of_steps
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.target_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:20.407987+00:00
 -- url     : https://prove2.me/theorems/2c275544-8a7c-58b1-9d38-021deb794d38

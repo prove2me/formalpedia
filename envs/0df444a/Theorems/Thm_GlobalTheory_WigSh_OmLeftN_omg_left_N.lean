@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_OmLeftN_omg_left_N
 -- name    : GlobalTheory.WigSh.OmLeftN.omg_left_N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:00:39.44566+00:00
 -- url     : https://prove2.me/theorems/c2592a9f-d92b-55fb-a420-58c8586532c0

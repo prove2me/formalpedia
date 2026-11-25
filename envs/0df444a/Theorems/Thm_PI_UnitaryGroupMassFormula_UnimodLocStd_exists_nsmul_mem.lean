@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_exists_nsmul_mem
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.exists_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:42:15.242547+00:00
 -- url     : https://prove2.me/theorems/10a3634b-6c3f-4736-b08c-0a3db008186f

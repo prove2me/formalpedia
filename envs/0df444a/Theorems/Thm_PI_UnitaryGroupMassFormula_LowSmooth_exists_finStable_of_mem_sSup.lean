@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LowSmooth_exists_finStable_of_mem_sSup
 -- name    : PI.UnitaryGroupMassFormula.LowSmooth.exists_finStable_of_mem_sSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:05:16.656255+00:00
 -- url     : https://prove2.me/theorems/56bc4418-0ac6-599c-96ca-69454cb52d70

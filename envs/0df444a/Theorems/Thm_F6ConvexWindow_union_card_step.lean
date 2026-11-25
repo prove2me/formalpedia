@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_union_card_step
 -- name    : F6ConvexWindow.union_card_step
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:22:16.981798+00:00
 -- url     : https://prove2.me/theorems/26807e8d-4f85-435e-8c16-f8ab514d4242

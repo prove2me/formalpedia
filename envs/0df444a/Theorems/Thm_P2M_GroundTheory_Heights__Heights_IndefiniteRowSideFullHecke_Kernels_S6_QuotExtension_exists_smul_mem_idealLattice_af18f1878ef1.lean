@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_QuotExtension_exists_smul_mem_idealLattice_af18f1878ef1
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Kernels_S6_QuotExtension_exists_smul_mem_idealLattice_af18f1878ef1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:47:31.120784+00:00
 -- url     : https://prove2.me/theorems/3b2b7e1d-1480-4747-829a-36c9d9f194c2

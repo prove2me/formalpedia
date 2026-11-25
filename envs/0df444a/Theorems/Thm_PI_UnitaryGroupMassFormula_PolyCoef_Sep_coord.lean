@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PolyCoef_Sep_coord
 -- name    : PI.UnitaryGroupMassFormula.PolyCoef.Sep.coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:52:49.810938+00:00
 -- url     : https://prove2.me/theorems/a8a74da0-3c3f-4c74-8130-851830bc532d

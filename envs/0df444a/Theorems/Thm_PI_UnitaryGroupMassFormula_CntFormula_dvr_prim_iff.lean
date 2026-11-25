@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_dvr_prim_iff
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.dvr_prim_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:09.462204+00:00
 -- url     : https://prove2.me/theorems/980b5dfb-b1ce-4679-be8a-5ac6011fa5f2

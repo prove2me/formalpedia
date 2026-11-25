@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfConv_convComm
 -- name    : PI.UnitaryGroupMassFormula.GelfConv.convComm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:38:44.316948+00:00
 -- url     : https://prove2.me/theorems/0c0016ee-f576-552e-823f-96f7dcd047ce

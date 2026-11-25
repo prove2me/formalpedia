@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatSourceStable_om_ne_zero
 -- name    : GlobalTheory.FlatSourceStable.om_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:48:22.413314+00:00
 -- url     : https://prove2.me/theorems/4d012cf7-1871-49dd-a468-65b66bff1909

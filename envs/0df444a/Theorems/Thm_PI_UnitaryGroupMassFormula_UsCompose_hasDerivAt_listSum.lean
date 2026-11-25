@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_hasDerivAt_listSum
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.hasDerivAt_listSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:44:37.273797+00:00
 -- url     : https://prove2.me/theorems/d1a91699-ea9f-5df7-91d8-309a488aa181

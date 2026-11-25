@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdTestInfW_continuous_BR_left
 -- name    : PI.VolStabW.SdTestInfW.continuous_BR_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:38:59.384201+00:00
 -- url     : https://prove2.me/theorems/3dbf80c7-fd6b-4e56-94ee-c0ac102e9d1b

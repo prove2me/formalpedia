@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise46OverloadedIdleCDFV1
 -- name    : Kyprianou.Ch04.exercise46OverloadedIdleCDFV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T09:54:45.221103+00:00
 -- url     : https://prove2.me/theorems/3e0017d1-888d-541b-b8c6-b54eebf3760b

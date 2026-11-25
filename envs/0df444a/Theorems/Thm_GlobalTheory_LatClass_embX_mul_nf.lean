@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_embX_mul_nf
 -- name    : GlobalTheory.LatClass.embX_mul_nf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:45:47.760809+00:00
 -- url     : https://prove2.me/theorems/8435c91f-8ef8-5631-8967-d9a0cc254b5e

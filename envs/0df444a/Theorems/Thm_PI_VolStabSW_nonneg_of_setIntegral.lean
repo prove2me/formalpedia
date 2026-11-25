@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_nonneg_of_setIntegral
 -- name    : PI.VolStabSW.nonneg_of_setIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:42:25.830177+00:00
 -- url     : https://prove2.me/theorems/8778528b-c003-47e5-ac40-3a0fc4ee5efa

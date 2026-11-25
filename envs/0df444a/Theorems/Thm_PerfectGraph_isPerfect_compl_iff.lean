@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PerfectGraph_isPerfect_compl_iff
 -- name    : PerfectGraph.isPerfect_compl_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:30:28.628402+00:00
 -- url     : https://prove2.me/theorems/16d414bb-9494-51fc-9e48-aa8732445795

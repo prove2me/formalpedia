@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_PB_ptIdeal_isRelevant
 -- name    : GlobalTheory.CompanionTheory.Ar.PB.ptIdeal_isRelevant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:43:05.596139+00:00
 -- url     : https://prove2.me/theorems/bbb516f3-fa6d-5f8d-8dfa-af1afc99f423

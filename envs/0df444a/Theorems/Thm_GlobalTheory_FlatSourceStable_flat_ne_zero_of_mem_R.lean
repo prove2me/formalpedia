@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlatSourceStable_flat_ne_zero_of_mem_R
 -- name    : GlobalTheory.FlatSourceStable.flat_ne_zero_of_mem_R
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:48:44.600521+00:00
 -- url     : https://prove2.me/theorems/fc6e84e2-59a4-51e1-a4e9-0556cddb5053

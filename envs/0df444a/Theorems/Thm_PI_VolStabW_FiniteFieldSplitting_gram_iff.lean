@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteFieldSplitting_gram_iff
 -- name    : PI.VolStabW.FiniteFieldSplitting.gram_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:37:10.685872+00:00
 -- url     : https://prove2.me/theorems/51b5bc3b-176d-5cda-b357-c97cd66705d3

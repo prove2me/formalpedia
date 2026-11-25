@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_JCC_uwset_inv
 -- name    : PI.UnitaryGroupMassFormula.JCC.uwset_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:35:32.144507+00:00
 -- url     : https://prove2.me/theorems/d7f873e9-6ad4-551e-9930-bc3d6a9f20b6

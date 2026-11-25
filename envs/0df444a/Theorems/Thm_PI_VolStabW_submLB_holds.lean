@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_submLB_holds
 -- name    : PI.VolStabW.submLB_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:43:13.993532+00:00
 -- url     : https://prove2.me/theorems/65cb473f-f6ae-47d6-bdb9-25d08c185b68

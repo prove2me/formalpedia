@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_avg_mul_mem
 -- name    : PI.VolStabW.avg_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:03.472544+00:00
 -- url     : https://prove2.me/theorems/0e6b9b91-19e8-48fb-8ed6-72786f7ebf7f

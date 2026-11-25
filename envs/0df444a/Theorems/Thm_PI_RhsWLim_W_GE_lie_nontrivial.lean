@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_GE_lie_nontrivial
 -- name    : PI.RhsWLim.W.GE.lie_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:39:51.84059+00:00
 -- url     : https://prove2.me/theorems/87cfcc57-43e4-4642-9e3c-312910b1428f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_Id_adOfLoc
 -- name    : PI.ScRefExists.Id.adOfLoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:23:44.34995+00:00
 -- url     : https://prove2.me/theorems/989d0960-a758-5be4-ad87-5e5dc6020569

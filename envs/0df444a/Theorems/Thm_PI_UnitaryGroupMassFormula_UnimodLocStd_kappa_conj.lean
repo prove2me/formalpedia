@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_kappa_conj
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.kappa_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:33:58.135831+00:00
 -- url     : https://prove2.me/theorems/d227ea61-7e00-4417-93df-fbeccf131e32

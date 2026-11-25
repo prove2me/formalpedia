@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PrimesDyadicRS_W_large_of
 -- name    : PI.PrimesDyadicRS.W.large_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:36:46.125284+00:00
 -- url     : https://prove2.me/theorems/a62fe02d-2149-40b1-8625-15268d40ebdc

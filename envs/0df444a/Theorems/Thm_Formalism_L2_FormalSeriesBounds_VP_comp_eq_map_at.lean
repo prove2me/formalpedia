@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_comp_eq_map_at
 -- name    : Formalism.L2.FormalSeriesBounds.VP.comp_eq_map_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:41:02.807964+00:00
 -- url     : https://prove2.me/theorems/93518e27-86ce-526e-9073-61424a051355

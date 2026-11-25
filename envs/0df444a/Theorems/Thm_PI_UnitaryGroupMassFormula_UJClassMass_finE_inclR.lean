@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_finE_inclR
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.finE_inclR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:57.108748+00:00
 -- url     : https://prove2.me/theorems/bad72758-153d-4097-b24b-e0a2e3ebd690

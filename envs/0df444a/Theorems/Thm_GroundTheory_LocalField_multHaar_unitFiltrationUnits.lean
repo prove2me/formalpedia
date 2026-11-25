@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_multHaar_unitFiltrationUnits
 -- name    : GroundTheory.LocalField.multHaar_unitFiltrationUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:21:15.195501+00:00
 -- url     : https://prove2.me/theorems/528f10d5-e17d-4bc8-b82b-926af57be50e

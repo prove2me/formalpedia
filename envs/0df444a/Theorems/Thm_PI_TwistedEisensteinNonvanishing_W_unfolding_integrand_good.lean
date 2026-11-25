@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_unfolding_integrand_good
 -- name    : PI.TwistedEisensteinNonvanishing.W.unfolding_integrand_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:32.484642+00:00
 -- url     : https://prove2.me/theorems/8b44e142-449d-5f44-b940-623031c9dc69

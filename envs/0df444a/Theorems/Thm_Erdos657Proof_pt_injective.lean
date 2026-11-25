@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos657Proof_pt_injective
 -- name    : Erdos657Proof.pt_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:21:52.376829+00:00
 -- url     : https://prove2.me/theorems/146e0080-43b7-4d2c-899c-21c1b8d0d8d6

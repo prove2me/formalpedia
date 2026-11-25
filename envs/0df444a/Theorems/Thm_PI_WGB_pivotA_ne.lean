@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_pivotA_ne
 -- name    : PI.WGB.pivotA_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:45:09.246553+00:00
 -- url     : https://prove2.me/theorems/f7d04afd-6bcc-4f57-a87b-3ec8eefdc299

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_continuous_norm_inf
 -- name    : PI.VolSemiDirect.W.continuous_norm_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:36:36.194386+00:00
 -- url     : https://prove2.me/theorems/eb4c1a57-3a46-4cdb-b4e7-4214f015c120

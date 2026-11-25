@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SecDegreeGe_eval_specRest_2d6681cf764e
 -- name    : P2M_GroundTheory_Heights__Heights_SecDegreeGe_eval_specRest_2d6681cf764e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:37:18.878222+00:00
 -- url     : https://prove2.me/theorems/0af72cfb-4227-5f5c-ab42-629a08da966c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdUniqW_eq_of_testEx
 -- name    : PI.VolStabW.SdUniqW.eq_of_testEx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:38:50.684014+00:00
 -- url     : https://prove2.me/theorems/421ff40c-a080-4fd7-bec4-7cdd1aac0e8f

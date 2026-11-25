@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassFin_posDefOfDefiniteSignature_holds
 -- name    : PI.UnitaryGroupMassFormula.UJClassFin.posDefOfDefiniteSignature_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:57:10.324837+00:00
 -- url     : https://prove2.me/theorems/b82e5da3-735d-4351-9f19-ca9958ad85df

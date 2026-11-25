@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSLSpectralEmbedding_invariance_eq_dirichlet_energy
 -- name    : SSLSpectralEmbedding.invariance_eq_dirichlet_energy
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:24:02.974799+00:00
 -- url     : https://prove2.me/theorems/1b9750f1-f3a4-43f4-8b08-703319d2b497

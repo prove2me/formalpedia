@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_HostPrimeFacts_cj_inv_fix
 -- name    : PI.UnitaryGroupMassFormula.HostPrimeFacts.cj_inv_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:34.948224+00:00
 -- url     : https://prove2.me/theorems/9d2346a8-17b2-5dc1-8560-cfbc570acdfc

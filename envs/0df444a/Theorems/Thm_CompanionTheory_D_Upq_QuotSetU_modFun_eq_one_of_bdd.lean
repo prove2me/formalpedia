@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_modFun_eq_one_of_bdd
 -- name    : CompanionTheory.D.Upq.QuotSetU.modFun_eq_one_of_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:54:20.689154+00:00
 -- url     : https://prove2.me/theorems/e9cb02ae-5c8b-49a6-9ce8-49955a8e75e4

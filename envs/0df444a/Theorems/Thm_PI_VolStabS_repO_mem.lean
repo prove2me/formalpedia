@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_repO_mem
 -- name    : PI.VolStabS.repO_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:36:12.659119+00:00
 -- url     : https://prove2.me/theorems/c3524d28-aeb3-5f16-9b9b-23061d8af31b

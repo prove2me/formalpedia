@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSection_apply_finUnitsSingle_mul
 -- name    : GroundTheory.Automorphic.GodementSection.apply_finUnitsSingle_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:49:31.772705+00:00
 -- url     : https://prove2.me/theorems/5c075f25-349e-4d15-b9f7-dcb300267737

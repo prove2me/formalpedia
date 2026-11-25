@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_OrbR_gram_mul
 -- name    : PI.VolStabW.OrbR.gram_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:37:41.196818+00:00
 -- url     : https://prove2.me/theorems/31321602-c78c-4eab-a04c-3d52f620f448

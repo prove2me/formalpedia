@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_JCC_Ck_abs_le_of_mem_uIcc
 -- name    : PI.UnitaryGroupMassFormula.JCC.Ck.abs_le_of_mem_uIcc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:11:31.534082+00:00
 -- url     : https://prove2.me/theorems/18920216-427d-54f4-b5aa-0006485c1333

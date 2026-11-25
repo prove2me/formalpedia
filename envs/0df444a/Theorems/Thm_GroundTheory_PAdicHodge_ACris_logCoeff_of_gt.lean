@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_ACris_logCoeff_of_gt
 -- name    : GroundTheory.PAdicHodge.ACris.logCoeff_of_gt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:14:34.325786+00:00
 -- url     : https://prove2.me/theorems/ae6d24b1-58e4-5614-8e59-b792d13cc1da

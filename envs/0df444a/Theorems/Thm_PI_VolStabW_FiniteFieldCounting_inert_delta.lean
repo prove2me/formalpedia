@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteFieldCounting_inert_delta
 -- name    : PI.VolStabW.FiniteFieldCounting.inert_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:37:39.970805+00:00
 -- url     : https://prove2.me/theorems/b1476a8b-9a23-4a8a-ab7b-a3476bfcd163

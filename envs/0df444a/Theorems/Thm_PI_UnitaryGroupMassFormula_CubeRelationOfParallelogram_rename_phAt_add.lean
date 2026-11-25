@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CubeRelationOfParallelogram_rename_phAt_add
 -- name    : PI.UnitaryGroupMassFormula.CubeRelationOfParallelogram.rename_phAt_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:16.723202+00:00
 -- url     : https://prove2.me/theorems/a3ebf8f0-6438-4934-9b64-0cb2bb81b6ee

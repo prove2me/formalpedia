@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_exists_box_subset
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.exists_box_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:39:54.891896+00:00
 -- url     : https://prove2.me/theorems/7adc601b-5004-5fdf-bbdc-513e2f5d2169

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_map_lsz_LR
 -- name    : PI.UnitaryGroupMassFormula.UsCost.map_lsz_LR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:36:01.129243+00:00
 -- url     : https://prove2.me/theorems/b6365ce7-35db-55de-89ed-97d1c304cb77

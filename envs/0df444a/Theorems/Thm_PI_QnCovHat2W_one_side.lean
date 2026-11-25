@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnCovHat2W_one_side
 -- name    : PI.QnCovHat2W.one_side
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:32.124806+00:00
 -- url     : https://prove2.me/theorems/4dcc406d-3723-427e-9813-71dd1bf53708

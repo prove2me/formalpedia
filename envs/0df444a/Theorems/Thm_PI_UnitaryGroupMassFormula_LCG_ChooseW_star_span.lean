@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_ChooseW_star_span
 -- name    : PI.UnitaryGroupMassFormula.LCG.ChooseW.star_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:17.801882+00:00
 -- url     : https://prove2.me/theorems/21bc5bde-c5cb-41e2-9918-10d97d2d98e5

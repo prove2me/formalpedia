@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_smulHom_inj
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.smulHom_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:01:45.323225+00:00
 -- url     : https://prove2.me/theorems/e09f1866-3c06-5a32-b861-49790c3fc376

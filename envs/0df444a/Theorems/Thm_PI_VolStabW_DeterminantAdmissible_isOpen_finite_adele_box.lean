@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_isOpen_finite_adele_box
 -- name    : PI.VolStabW.DeterminantAdmissible.isOpen_finite_adele_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:25.997599+00:00
 -- url     : https://prove2.me/theorems/7da98e5b-d321-4e2d-abc2-cfa2137436e6

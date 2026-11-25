@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_triple_union_lower_bound
 -- name    : F6ConvexWindow.triple_union_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:04:42.506713+00:00
 -- url     : https://prove2.me/theorems/1656a95d-26a4-478c-bd23-2eb17401953d

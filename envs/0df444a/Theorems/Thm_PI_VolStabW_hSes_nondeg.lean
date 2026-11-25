@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_hSes_nondeg
 -- name    : PI.VolStabW.hSes_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:32.113817+00:00
 -- url     : https://prove2.me/theorems/23c81e31-8466-40a2-9a34-e6bbe72bc2c3

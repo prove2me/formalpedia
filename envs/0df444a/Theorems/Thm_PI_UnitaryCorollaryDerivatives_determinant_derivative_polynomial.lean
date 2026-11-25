@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_determinant_derivative_polynomial
 -- name    : PI.UnitaryCorollaryDerivatives.determinant_derivative_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:48:17.207102+00:00
 -- url     : https://prove2.me/theorems/945d59ad-2e9c-4f6d-9355-7d6b16476605

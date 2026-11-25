@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_le_locS
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.le_locS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:35:30.302546+00:00
 -- url     : https://prove2.me/theorems/fd6e9929-72ee-4b47-b486-8a715fd11af3

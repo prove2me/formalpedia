@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_mOp_mul
 -- name    : GlobalTheory.JR.WeilQuad.mOp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:16:03.617476+00:00
 -- url     : https://prove2.me/theorems/d643bc48-bdd8-5f35-b3b2-110010465d39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryDimensionFormula_FrameAlg_Q_perp_idem
 -- name    : PI.UnitaryDimensionFormula.FrameAlg.Q_perp_idem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:37:45.52189+00:00
 -- url     : https://prove2.me/theorems/d2b0e92b-4a7b-4d0c-bee2-bd96813b909a

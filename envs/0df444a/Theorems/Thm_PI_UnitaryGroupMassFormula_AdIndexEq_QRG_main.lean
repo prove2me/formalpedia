@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_QRG_main
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.QRG.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:12:43.912658+00:00
 -- url     : https://prove2.me/theorems/8a6cb7f2-0f1f-47f0-a38f-2cd08542f626

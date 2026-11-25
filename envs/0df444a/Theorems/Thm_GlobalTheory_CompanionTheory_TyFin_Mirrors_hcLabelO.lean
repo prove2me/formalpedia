@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Mirrors_hcLabelO
 -- name    : GlobalTheory.CompanionTheory.TyFin.Mirrors.hcLabelO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:35.838026+00:00
 -- url     : https://prove2.me/theorems/63028502-7afe-4b12-a6b1-680469bd1b21

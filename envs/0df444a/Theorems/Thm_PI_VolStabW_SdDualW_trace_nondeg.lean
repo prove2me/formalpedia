@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdDualW_trace_nondeg
 -- name    : PI.VolStabW.SdDualW.trace_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:40:18.86559+00:00
 -- url     : https://prove2.me/theorems/00466a41-375a-5c7e-8b98-790d825a6ad8

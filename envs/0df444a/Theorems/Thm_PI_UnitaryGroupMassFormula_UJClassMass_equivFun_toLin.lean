@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_equivFun_toLin
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.equivFun_toLin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:43:14.536197+00:00
 -- url     : https://prove2.me/theorems/7bb9d44a-48ed-4521-b31c-ffc2802be75e

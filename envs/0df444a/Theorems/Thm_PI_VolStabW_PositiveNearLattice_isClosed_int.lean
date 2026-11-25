@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_PositiveNearLattice_isClosed_int
 -- name    : PI.VolStabW.PositiveNearLattice.isClosed_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:38:09.326043+00:00
 -- url     : https://prove2.me/theorems/2e245b6b-6935-4586-8b7f-51d13ff694b5

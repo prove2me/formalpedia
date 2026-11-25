@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_BrB_second_coordinate_vector_sub
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.BrB.second_coordinate_vector_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:13:53.420662+00:00
 -- url     : https://prove2.me/theorems/84b79e06-c617-50c7-be24-1e63efef547a

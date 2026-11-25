@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_SdDualW_isOpen_latS
 -- name    : PI.VolStabSW.SdDualW.isOpen_latS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:42:12.047625+00:00
 -- url     : https://prove2.me/theorems/9f19ff5a-3dbb-4c3f-9159-941e2fe60924

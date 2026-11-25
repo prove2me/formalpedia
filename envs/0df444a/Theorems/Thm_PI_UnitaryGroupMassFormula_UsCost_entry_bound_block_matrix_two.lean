@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_entry_bound_block_matrix_two
 -- name    : PI.UnitaryGroupMassFormula.UsCost.entry_bound_block_matrix_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:37:46.324862+00:00
 -- url     : https://prove2.me/theorems/26d63532-54fc-4edd-986c-8a45e5af4a96

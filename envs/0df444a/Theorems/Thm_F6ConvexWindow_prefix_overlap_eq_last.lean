@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_prefix_overlap_eq_last
 -- name    : F6ConvexWindow.prefix_overlap_eq_last
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:33:35.561978+00:00
 -- url     : https://prove2.me/theorems/9877e648-8eb6-5d3c-9409-0115a0363dcc

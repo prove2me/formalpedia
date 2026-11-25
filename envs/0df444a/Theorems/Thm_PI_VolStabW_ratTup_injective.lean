@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_ratTup_injective
 -- name    : PI.VolStabW.ratTup_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:45:29.387367+00:00
 -- url     : https://prove2.me/theorems/054dada3-601b-4667-b58b-c90a2a04efaa

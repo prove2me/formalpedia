@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_SG_Pf_G2_jK___ne_zero_6beb2ceebc99
 -- name    : P2M_Formalism_L2_SG_Pf_G2_jK___ne_zero_6beb2ceebc99
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:14:53.985375+00:00
 -- url     : https://prove2.me/theorems/8d623532-b65c-59d7-a316-1518b7453e7a

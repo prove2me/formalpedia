@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContrastiveDuality_norm_pow_four_bounds
 -- name    : ContrastiveDuality.norm_pow_four_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:33:13.596237+00:00
 -- url     : https://prove2.me/theorems/81d09a03-d407-4de5-bcb0-6a127f71397d

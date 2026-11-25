@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_latLoc_fg
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.latLoc_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:03:18.021486+00:00
 -- url     : https://prove2.me/theorems/df110d68-e326-4c85-8b89-0db609a4c65f

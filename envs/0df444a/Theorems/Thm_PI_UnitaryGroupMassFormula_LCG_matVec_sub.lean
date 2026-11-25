@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_matVec_sub
 -- name    : PI.UnitaryGroupMassFormula.LCG.matVec_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:40:56.391864+00:00
 -- url     : https://prove2.me/theorems/c076590f-3c2b-47df-8b9b-9e23e1943ea1

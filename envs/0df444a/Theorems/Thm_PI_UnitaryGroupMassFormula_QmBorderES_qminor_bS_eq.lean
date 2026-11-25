@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmBorderES_qminor_bS_eq
 -- name    : PI.UnitaryGroupMassFormula.QmBorderES.qminor_bS_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:28.958796+00:00
 -- url     : https://prove2.me/theorems/5216e4b2-c331-4496-b57b-281a584f1ff1

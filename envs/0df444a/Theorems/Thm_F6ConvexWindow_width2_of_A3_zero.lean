@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_width2_of_A3_zero
 -- name    : F6ConvexWindow.width2_of_A3_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:15:57.04824+00:00
 -- url     : https://prove2.me/theorems/1ae1e50d-233c-589f-b3ce-be31eb7a3196

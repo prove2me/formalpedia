@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G7_locF_dual_le
 -- name    : Formalism.L2.SG.Pf.G7.locF_dual_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:30:30.884885+00:00
 -- url     : https://prove2.me/theorems/e21c2d23-d229-5b3d-8c45-db888f92bb4b

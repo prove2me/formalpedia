@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_TopoMeas_measurable_finprod
 -- name    : PI.VolStabW.TopoMeas.measurable_finprod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:50:43.673152+00:00
 -- url     : https://prove2.me/theorems/691a79ff-314a-59c7-9631-3e014a9e41a4

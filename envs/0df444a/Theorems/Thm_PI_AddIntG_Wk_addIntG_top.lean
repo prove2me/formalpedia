@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_addIntG_top
 -- name    : PI.AddIntG.Wk.addIntG_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:21:48.434108+00:00
 -- url     : https://prove2.me/theorems/c80425b2-f4a3-43e3-9623-c0da29c67ed4

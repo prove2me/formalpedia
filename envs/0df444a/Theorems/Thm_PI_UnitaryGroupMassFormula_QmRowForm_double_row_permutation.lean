@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmRowForm_double_row_permutation
 -- name    : PI.UnitaryGroupMassFormula.QmRowForm.double_row_permutation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:41:10.484694+00:00
 -- url     : https://prove2.me/theorems/bce86b63-fe76-520c-9ad5-9b1cd77eea9e

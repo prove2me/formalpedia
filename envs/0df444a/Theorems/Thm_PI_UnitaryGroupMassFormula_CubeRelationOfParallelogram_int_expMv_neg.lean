@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CubeRelationOfParallelogram_int_expMv_neg
 -- name    : PI.UnitaryGroupMassFormula.CubeRelationOfParallelogram.int_expMv_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:43:20.539773+00:00
 -- url     : https://prove2.me/theorems/5d63a056-5fa6-47cb-ac14-162df46b7d9f

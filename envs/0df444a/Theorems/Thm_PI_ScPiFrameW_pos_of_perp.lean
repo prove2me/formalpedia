@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiFrameW_pos_of_perp
 -- name    : PI.ScPiFrameW.pos_of_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:21:22.05626+00:00
 -- url     : https://prove2.me/theorems/2bc4adf3-aa13-47e7-8c70-b6063e974066

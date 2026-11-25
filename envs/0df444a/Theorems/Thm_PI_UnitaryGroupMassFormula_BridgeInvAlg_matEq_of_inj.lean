@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_BridgeInvAlg_matEq_of_inj
 -- name    : PI.UnitaryGroupMassFormula.BridgeInvAlg.matEq_of_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:59.273495+00:00
 -- url     : https://prove2.me/theorems/2f7e388c-1213-47d1-bd16-57ad7f5e4cef

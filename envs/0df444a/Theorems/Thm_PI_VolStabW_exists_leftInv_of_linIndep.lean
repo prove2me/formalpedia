@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_exists_leftInv_of_linIndep
 -- name    : PI.VolStabW.exists_leftInv_of_linIndep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:46:41.018104+00:00
 -- url     : https://prove2.me/theorems/292e5b60-5e92-41d3-bf63-f2c62dc577cf

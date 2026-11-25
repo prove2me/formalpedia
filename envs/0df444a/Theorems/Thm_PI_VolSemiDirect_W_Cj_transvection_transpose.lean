@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_transvection_transpose
 -- name    : PI.VolSemiDirect.W.Cj.transvection_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:37:31.926886+00:00
 -- url     : https://prove2.me/theorems/cd6d9952-7581-5d81-aff5-aa520eb4d935

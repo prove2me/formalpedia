@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_PsiVolume_measurableSet_IIset
 -- name    : GlobalTheory.CompanionTheory.QL.PsiVolume.measurableSet_IIset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:37:08.630363+00:00
 -- url     : https://prove2.me/theorems/dba72aaa-d7cb-4cb9-83a2-afeee81eeca9

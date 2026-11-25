@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LSC_DeterminantMonotonicity_sandwich
 -- name    : PI.UnitaryGroupMassFormula.LSC.DeterminantMonotonicity.sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:34.224067+00:00
 -- url     : https://prove2.me/theorems/44f9ccae-c0c9-40c4-9cf3-b43d2b50ecae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WA_g_big_pow_mul
 -- name    : PI.WA.g_big_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:43:47.056022+00:00
 -- url     : https://prove2.me/theorems/6ea26b72-605b-4035-8403-d8bd54488933

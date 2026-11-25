@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_two_chain_degree_eq_A2
 -- name    : F6ConvexWindow.two_chain_degree_eq_A2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:10:48.849856+00:00
 -- url     : https://prove2.me/theorems/51370ace-dba0-44e6-a05d-c389f5a32bdf

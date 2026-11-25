@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnRT_w_mul_mem
 -- name    : PI.QnRT.w_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:19:04.503955+00:00
 -- url     : https://prove2.me/theorems/c19e3fdc-ac63-55fb-b98a-ca01a0015077

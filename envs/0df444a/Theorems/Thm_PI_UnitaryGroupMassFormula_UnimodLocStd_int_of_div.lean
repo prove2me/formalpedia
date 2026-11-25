@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_int_of_div
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.int_of_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:34:19.187886+00:00
 -- url     : https://prove2.me/theorems/cf2e56b3-8f58-5241-9624-ecb1e205fdff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhConvProj_Sand_urep_adj
 -- name    : PI.UnitaryGroupMassFormula.PhConvProj.Sand.urep_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:33:03.706015+00:00
 -- url     : https://prove2.me/theorems/7d2da5d8-429e-48e8-8551-6cd23b529e13

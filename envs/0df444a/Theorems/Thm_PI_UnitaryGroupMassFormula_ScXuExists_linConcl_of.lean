@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_linConcl_of
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.linConcl_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:13:00.881792+00:00
 -- url     : https://prove2.me/theorems/3764c5b3-38a3-4e37-a03e-d63d5e2a066d

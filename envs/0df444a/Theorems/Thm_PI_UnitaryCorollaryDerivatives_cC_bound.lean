@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_cC_bound
 -- name    : PI.UnitaryCorollaryDerivatives.cC_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:07.41784+00:00
 -- url     : https://prove2.me/theorems/b1e64460-bc1e-4101-9069-e14a00ba045c

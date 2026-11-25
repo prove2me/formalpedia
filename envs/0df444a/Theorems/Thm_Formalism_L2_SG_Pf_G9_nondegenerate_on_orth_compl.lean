@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_nondegenerate_on_orth_compl
 -- name    : Formalism.L2.SG.Pf.G9.nondegenerate_on_orth_compl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:29:58.964975+00:00
 -- url     : https://prove2.me/theorems/e144d491-fc30-5109-bd83-e3075612d78a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_continuous_norm_tens
 -- name    : PI.VolStabSW.continuous_norm_tens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:11.719886+00:00
 -- url     : https://prove2.me/theorems/93611ac3-e6c6-5c40-a231-9fb24b4ddb52

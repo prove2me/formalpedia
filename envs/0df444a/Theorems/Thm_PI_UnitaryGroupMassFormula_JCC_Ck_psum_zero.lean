@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_JCC_Ck_psum_zero
 -- name    : PI.UnitaryGroupMassFormula.JCC.Ck.psum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:19:48.820172+00:00
 -- url     : https://prove2.me/theorems/683ae1e0-96e7-5ea0-a29a-481a0a461682

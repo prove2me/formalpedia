@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_exChar_holds
 -- name    : PI.VolStabW.exChar_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:40:15.647253+00:00
 -- url     : https://prove2.me/theorems/b149ab29-1f36-4c13-8dac-7ee2d5873780

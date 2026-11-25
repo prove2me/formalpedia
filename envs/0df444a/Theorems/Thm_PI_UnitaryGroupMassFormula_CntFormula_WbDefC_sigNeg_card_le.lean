@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_WbDefC_sigNeg_card_le
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.WbDefC.sigNeg_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:31:27.565818+00:00
 -- url     : https://prove2.me/theorems/837ca4a3-6cb5-57eb-9939-739b700af317

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DiaFixDim_Main_mem_AMFChi
 -- name    : PI.UnitaryGroupMassFormula.DiaFixDim.Main.mem_AMFChi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:25.155808+00:00
 -- url     : https://prove2.me/theorems/1176932d-2297-4067-9034-57192a362df1

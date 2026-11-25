@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_herm_V
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.herm_V
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:52.138226+00:00
 -- url     : https://prove2.me/theorems/cff90eed-2472-51ce-8b61-ce5e83e3e520

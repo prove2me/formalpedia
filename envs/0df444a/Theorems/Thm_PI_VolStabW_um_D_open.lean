@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_um_D_open
 -- name    : PI.VolStabW.um_D_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:43:46.392192+00:00
 -- url     : https://prove2.me/theorems/bf66f0be-8eec-4725-80cb-f36998bd76c2

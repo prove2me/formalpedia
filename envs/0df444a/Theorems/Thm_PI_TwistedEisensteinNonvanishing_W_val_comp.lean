@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_val_comp
 -- name    : PI.TwistedEisensteinNonvanishing.W.val_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:29:24.88061+00:00
 -- url     : https://prove2.me/theorems/267b069d-a259-41b0-bc2f-8b4266a89e00

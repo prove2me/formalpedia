@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_FlagGramNonneg_hasSignature_exists_nonneg
 -- name    : PI.UnitaryGroupMassFormula.FlagGramNonneg.hasSignature_exists_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:37:54.599804+00:00
 -- url     : https://prove2.me/theorems/8c9936be-c4ff-4f88-a262-4fc6ac516533

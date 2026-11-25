@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_InHHClassFin_kgNhd
 -- name    : PI.UnitaryGroupMassFormula.InHHClassFin.kgNhd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:43:39.397801+00:00
 -- url     : https://prove2.me/theorems/78a398aa-9dd8-4911-bb81-9596d9199102

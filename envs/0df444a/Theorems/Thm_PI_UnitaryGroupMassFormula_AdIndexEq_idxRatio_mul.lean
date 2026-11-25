@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_idxRatio_mul
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.idxRatio_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:38:29.368985+00:00
 -- url     : https://prove2.me/theorems/bc87504d-c447-4ffa-9f88-00566eb2d6e3

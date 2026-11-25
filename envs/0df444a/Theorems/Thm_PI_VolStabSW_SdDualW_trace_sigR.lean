@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_SdDualW_trace_sigR
 -- name    : PI.VolStabSW.SdDualW.trace_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:43:26.0639+00:00
 -- url     : https://prove2.me/theorems/a090f20b-4130-538d-ab50-3498e059e9bb

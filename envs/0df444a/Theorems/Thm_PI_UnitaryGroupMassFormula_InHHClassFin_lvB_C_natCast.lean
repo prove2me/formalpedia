@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_InHHClassFin_lvB_C_natCast
 -- name    : PI.UnitaryGroupMassFormula.InHHClassFin.lvB_C_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:30:24.257743+00:00
 -- url     : https://prove2.me/theorems/8f803f9b-2b91-5ad1-bde5-312ac0b5006b

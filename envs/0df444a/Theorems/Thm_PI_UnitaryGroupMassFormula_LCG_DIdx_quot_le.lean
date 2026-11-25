@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DIdx_quot_le
 -- name    : PI.UnitaryGroupMassFormula.LCG.DIdx.quot_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:49.775645+00:00
 -- url     : https://prove2.me/theorems/af330605-22d2-4237-bab1-b4eabd1a0877

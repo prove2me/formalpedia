@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_sat_of_red
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.sat_of_red
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:39:03.66278+00:00
 -- url     : https://prove2.me/theorems/b104c788-e3eb-411a-ba0b-3513bd2786a2

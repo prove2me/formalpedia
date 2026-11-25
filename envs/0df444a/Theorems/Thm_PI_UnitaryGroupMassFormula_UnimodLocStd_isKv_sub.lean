@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_isKv_sub
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.isKv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:33:59.437714+00:00
 -- url     : https://prove2.me/theorems/f0e31a4d-25eb-4ea9-b684-b8e85f778220

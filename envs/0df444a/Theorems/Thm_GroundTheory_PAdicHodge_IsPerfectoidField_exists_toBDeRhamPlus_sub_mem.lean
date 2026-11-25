@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_IsPerfectoidField_exists_toBDeRhamPlus_sub_mem
 -- name    : GroundTheory.PAdicHodge.IsPerfectoidField.exists_toBDeRhamPlus_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:02:33.136897+00:00
 -- url     : https://prove2.me/theorems/8ed6b3ac-32e3-55d7-8a8c-cefc79e889ad

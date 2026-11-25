@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_cC_Psi_ck
 -- name    : PI.UnitaryCorollaryDerivatives.cC_Psi_ck
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:53:15.867354+00:00
 -- url     : https://prove2.me/theorems/d970f06d-5639-452e-840e-0b45e9196b3d

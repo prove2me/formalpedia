@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_VolK_mem_Jset_iff
 -- name    : GlobalTheory.CompanionTheory.QL.VolK.mem_Jset_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:27:36.296939+00:00
 -- url     : https://prove2.me/theorems/7ae48083-9180-45a6-89f6-2476a8f4abc9

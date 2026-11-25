@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_DensGen_fib_set_nonneg
 -- name    : PI.VolStabSW.DensGen.fib_set_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:38:09.916388+00:00
 -- url     : https://prove2.me/theorems/5d733457-011b-548b-bcb2-80a8c9257c97

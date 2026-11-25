@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolNzeroOne_W_if_inj
 -- name    : PI.VolNzeroOne.W.if_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:35:11.291945+00:00
 -- url     : https://prove2.me/theorems/e904860f-96ce-48a2-86c2-953f61a822a9

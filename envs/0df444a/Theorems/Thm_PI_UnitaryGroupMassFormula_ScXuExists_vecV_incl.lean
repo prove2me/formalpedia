@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_vecV_incl
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.vecV_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:42:31.448807+00:00
 -- url     : https://prove2.me/theorems/a7820c61-3c41-45bf-ab14-127eca7bb7a3

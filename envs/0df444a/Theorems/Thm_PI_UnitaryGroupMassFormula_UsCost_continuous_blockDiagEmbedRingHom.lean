@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_continuous_blockDiagEmbedRingHom
 -- name    : PI.UnitaryGroupMassFormula.UsCost.continuous_blockDiagEmbedRingHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:49:21.850123+00:00
 -- url     : https://prove2.me/theorems/4b8c10a2-7146-4742-8ae5-fad484216718

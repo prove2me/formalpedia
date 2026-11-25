@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_countable_subgroupOf
 -- name    : PI.VolStabW.countable_subgroupOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:42:58.813707+00:00
 -- url     : https://prove2.me/theorems/a2fd90b7-bc14-4e39-acbe-df791ec09c1b

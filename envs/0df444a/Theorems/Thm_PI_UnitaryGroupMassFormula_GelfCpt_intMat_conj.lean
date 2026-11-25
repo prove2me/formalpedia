@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfCpt_intMat_conj
 -- name    : PI.UnitaryGroupMassFormula.GelfCpt.intMat_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:35.106403+00:00
 -- url     : https://prove2.me/theorems/2ded9fff-1b1f-4acf-bd8e-667bb748c83a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_meas_avg
 -- name    : PI.VolStabW.meas_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:45:47.602839+00:00
 -- url     : https://prove2.me/theorems/687e6782-fc88-417c-b023-32231e60f9bb

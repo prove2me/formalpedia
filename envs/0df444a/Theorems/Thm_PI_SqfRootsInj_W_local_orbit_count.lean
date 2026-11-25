@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqfRootsInj_W_local_orbit_count
 -- name    : PI.SqfRootsInj.W.local_orbit_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:29:02.439661+00:00
 -- url     : https://prove2.me/theorems/8f71bf87-eace-403e-820b-270a2cf73714

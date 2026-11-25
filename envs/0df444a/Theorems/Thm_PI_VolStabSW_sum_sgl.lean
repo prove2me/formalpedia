@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_sum_sgl
 -- name    : PI.VolStabSW.sum_sgl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:37:37.261029+00:00
 -- url     : https://prove2.me/theorems/2ace164a-73a9-4c8f-b289-35fe6071b61f

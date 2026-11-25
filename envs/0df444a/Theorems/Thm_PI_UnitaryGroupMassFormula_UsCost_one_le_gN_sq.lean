@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_one_le_gN_sq
 -- name    : PI.UnitaryGroupMassFormula.UsCost.one_le_gN_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:36:15.724108+00:00
 -- url     : https://prove2.me/theorems/6e2f4bf4-1b13-566b-9a54-b80ca771eb54

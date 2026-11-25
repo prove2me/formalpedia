@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PhNormUnits_UnitaryGroupMassFormula_stepUnits_of
 -- name    : PI.PhNormUnits.UnitaryGroupMassFormula.stepUnits_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:36:34.674206+00:00
 -- url     : https://prove2.me/theorems/3f2ce435-f2b2-455b-8d73-bc23444909d6

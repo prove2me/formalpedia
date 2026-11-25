@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_OrbR_mem_UJ_of
 -- name    : PI.VolStabSW.OrbR.mem_UJ_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:38:06.244024+00:00
 -- url     : https://prove2.me/theorems/f12d22a9-ae7e-57bc-a54e-757b9c9660f3

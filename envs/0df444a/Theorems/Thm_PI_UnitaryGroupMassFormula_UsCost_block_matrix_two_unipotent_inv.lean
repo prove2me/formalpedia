@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_block_matrix_two_unipotent_inv
 -- name    : PI.UnitaryGroupMassFormula.UsCost.block_matrix_two_unipotent_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:43:47.092967+00:00
 -- url     : https://prove2.me/theorems/a27d224e-4ea9-576d-982d-a8d9b1fe6ca7

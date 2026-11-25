@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteFieldCounting_swapR_apply
 -- name    : PI.VolStabW.FiniteFieldCounting.swapR_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:37:38.54446+00:00
 -- url     : https://prove2.me/theorems/a3ce2337-ca10-47c1-a86f-36070f06049b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_IdCellInSW_core
 -- name    : PI.UnitaryGroupMassFormula.IdCellInSW.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:38:53.626481+00:00
 -- url     : https://prove2.me/theorems/98e83747-19d2-4ba0-908b-013371337807

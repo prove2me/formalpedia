@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_VolAAW_psi_fin_of_char
 -- name    : PI.VolStabSW.VolAAW.psi_fin_of_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:51:28.582428+00:00
 -- url     : https://prove2.me/theorems/0ef572e9-dd11-5a59-ad0a-15366459074b

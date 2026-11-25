@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_measure_subFacts
 -- name    : PI.ScMuExists.UnitaryGroupMassFormula.measure_subFacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:39.714934+00:00
 -- url     : https://prove2.me/theorems/5423b13e-5d8c-4d7f-990e-183719aae4fd

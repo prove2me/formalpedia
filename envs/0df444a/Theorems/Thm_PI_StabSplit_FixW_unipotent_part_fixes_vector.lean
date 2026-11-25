@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabSplit_FixW_unipotent_part_fixes_vector
 -- name    : PI.StabSplit.FixW.unipotent_part_fixes_vector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:06:00.523918+00:00
 -- url     : https://prove2.me/theorems/ae28d724-130b-5de0-acd1-333bf7f14ed1

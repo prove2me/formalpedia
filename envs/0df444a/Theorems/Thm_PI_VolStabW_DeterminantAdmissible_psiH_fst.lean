@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_psiH_fst
 -- name    : PI.VolStabW.DeterminantAdmissible.psiH_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:14.054136+00:00
 -- url     : https://prove2.me/theorems/a3b7530b-cbe3-5cad-a689-1ae8e8209b5f

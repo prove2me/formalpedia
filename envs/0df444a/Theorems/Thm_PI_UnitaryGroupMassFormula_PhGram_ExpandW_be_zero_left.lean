@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PhGram_ExpandW_be_zero_left
 -- name    : PI.UnitaryGroupMassFormula.PhGram.ExpandW.be_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:44:51.300707+00:00
 -- url     : https://prove2.me/theorems/a4336e68-713b-4fa0-9488-77742f3ab2a0

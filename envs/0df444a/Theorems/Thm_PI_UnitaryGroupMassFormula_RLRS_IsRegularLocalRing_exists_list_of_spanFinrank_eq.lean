@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_RLRS_IsRegularLocalRing_exists_list_of_spanFinrank_eq
 -- name    : PI.UnitaryGroupMassFormula.RLRS.IsRegularLocalRing.exists_list_of_spanFinrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:32:57.862336+00:00
 -- url     : https://prove2.me/theorems/bf1c4767-79db-4877-a2ea-4405274c048f

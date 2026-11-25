@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolNzeroOne_W_frameInitialVectors_last
 -- name    : PI.VolNzeroOne.W.frameInitialVectors_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:35:36.804511+00:00
 -- url     : https://prove2.me/theorems/f82a669c-9464-569b-a211-8eeb78811d80

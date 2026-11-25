@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_covariant_hat_of_lin
 -- name    : covariant_hat_of_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:27:19.16891+00:00
 -- url     : https://prove2.me/theorems/153d0120-d1b0-4904-8b36-734dfe99fdfd

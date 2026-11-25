@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteFieldCounting_prod_bound
 -- name    : PI.VolStabW.FiniteFieldCounting.prod_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:37:25.451971+00:00
 -- url     : https://prove2.me/theorems/ad9139b9-e68a-4d85-b443-1ca29bc8731f

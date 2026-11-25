@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GramIso_gramIso
 -- name    : PI.UnitaryGroupMassFormula.GramIso.gramIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:38.878321+00:00
 -- url     : https://prove2.me/theorems/3248b4ae-8600-4d26-a4a8-59ae67e11726

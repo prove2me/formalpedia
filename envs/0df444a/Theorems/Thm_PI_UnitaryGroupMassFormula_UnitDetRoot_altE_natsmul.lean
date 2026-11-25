@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_altE_natsmul
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.altE_natsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:34:05.472183+00:00
 -- url     : https://prove2.me/theorems/706efadd-068d-49ec-bd5b-4772c69f9f67

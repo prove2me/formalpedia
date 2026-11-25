@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_SdDualW_bound_alt
 -- name    : PI.VolStabSW.SdDualW.bound_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:06:07.373076+00:00
 -- url     : https://prove2.me/theorems/39653e7d-d229-57bd-b068-34cf9b26a70f

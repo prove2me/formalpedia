@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_AbsUniq_invariant_measure_unique
 -- name    : GlobalTheory.CompanionTheory.SW.AbsUniq.invariant_measure_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:00:54.555469+00:00
 -- url     : https://prove2.me/theorems/c474693c-66a9-49c4-9736-7827437ea964

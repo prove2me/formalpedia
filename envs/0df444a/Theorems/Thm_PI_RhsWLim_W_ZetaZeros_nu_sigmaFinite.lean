@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_ZetaZeros_nu_sigmaFinite
 -- name    : PI.RhsWLim.W.ZetaZeros.nu_sigmaFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:33:51.456478+00:00
 -- url     : https://prove2.me/theorems/1d94c413-5241-5fbc-8113-98cd348f270e

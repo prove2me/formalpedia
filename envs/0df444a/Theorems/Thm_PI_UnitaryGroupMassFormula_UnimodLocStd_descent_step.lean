@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_descent_step
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.descent_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:34:45.971069+00:00
 -- url     : https://prove2.me/theorems/4d059ed9-8875-4f51-9a45-e1da7a55f05c

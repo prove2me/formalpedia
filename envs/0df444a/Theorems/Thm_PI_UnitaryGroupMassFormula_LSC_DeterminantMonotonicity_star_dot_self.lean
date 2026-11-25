@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LSC_DeterminantMonotonicity_star_dot_self
 -- name    : PI.UnitaryGroupMassFormula.LSC.DeterminantMonotonicity.star_dot_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:10.344538+00:00
 -- url     : https://prove2.me/theorems/eaeb7a0b-4ccb-4830-8155-fc8eddaa59d8

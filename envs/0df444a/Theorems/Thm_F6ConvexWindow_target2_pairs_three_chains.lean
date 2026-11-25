@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_target2_pairs_three_chains
 -- name    : F6ConvexWindow.target2_pairs_three_chains
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:37:28.213732+00:00
 -- url     : https://prove2.me/theorems/dac8a892-9f5b-5ea6-889a-37d40515ff26

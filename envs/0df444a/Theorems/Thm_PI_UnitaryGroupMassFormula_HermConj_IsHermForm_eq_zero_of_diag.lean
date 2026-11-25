@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_HermConj_IsHermForm_eq_zero_of_diag
 -- name    : PI.UnitaryGroupMassFormula.HermConj.IsHermForm.eq_zero_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:39:01.162846+00:00
 -- url     : https://prove2.me/theorems/456001d7-fb65-4a0c-a7e8-737ab5e4cc63

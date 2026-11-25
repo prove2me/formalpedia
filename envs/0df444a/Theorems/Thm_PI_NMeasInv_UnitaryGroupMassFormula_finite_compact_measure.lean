@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_NMeasInv_UnitaryGroupMassFormula_finite_compact_measure
 -- name    : PI.NMeasInv.UnitaryGroupMassFormula.finite_compact_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:15:13.160631+00:00
 -- url     : https://prove2.me/theorems/592bcc54-26ec-4740-a70a-6b326484c448

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_rowT_mul_apply
 -- name    : PI.VolSemiDirect.W.Cj.rowT_mul_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:36:32.099025+00:00
 -- url     : https://prove2.me/theorems/73253d8a-be8c-57c5-9cf9-2e9c7571f5c7

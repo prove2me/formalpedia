@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymDec_conj_reGL_val
 -- name    : GlobalTheory.SymDec.conj_reGL_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:16:02.663164+00:00
 -- url     : https://prove2.me/theorems/63041a58-d607-5a94-83f0-fe96535e53d9

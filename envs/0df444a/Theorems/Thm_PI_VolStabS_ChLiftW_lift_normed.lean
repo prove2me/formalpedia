@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_ChLiftW_lift_normed
 -- name    : PI.VolStabS.ChLiftW.lift_normed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:35:59.017866+00:00
 -- url     : https://prove2.me/theorems/9d980905-616f-4235-8fe0-dafdeca7964a

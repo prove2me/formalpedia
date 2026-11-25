@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnHermHaar_tst_exp_mulVec
 -- name    : PI.QnHermHaar.tst_exp_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:18:51.156874+00:00
 -- url     : https://prove2.me/theorems/a53b1fb7-557d-4453-9a9e-7a1bab191791

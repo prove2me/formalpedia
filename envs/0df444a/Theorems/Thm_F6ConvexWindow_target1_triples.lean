@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_target1_triples
 -- name    : F6ConvexWindow.target1_triples
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:34:22.499617+00:00
 -- url     : https://prove2.me/theorems/1b183ae4-aad5-426d-8c66-222d453a8916

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WADVR_small_one_add_pow
 -- name    : PI.WADVR.small_one_add_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:43:21.513526+00:00
 -- url     : https://prove2.me/theorems/f5075a83-d571-4001-b4c7-715d40bc9f75

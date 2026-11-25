@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_DualI_pair_int
 -- name    : PI.UnitaryGroupMassFormula.LCG.DualI.pair_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:40:41.522798+00:00
 -- url     : https://prove2.me/theorems/4e58ca1a-7788-4ed7-a2a1-2ff45130ee65

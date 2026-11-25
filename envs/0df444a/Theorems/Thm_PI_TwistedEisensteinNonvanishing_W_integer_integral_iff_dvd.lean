@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_integer_integral_iff_dvd
 -- name    : PI.TwistedEisensteinNonvanishing.W.integer_integral_iff_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:29:40.5868+00:00
 -- url     : https://prove2.me/theorems/e49d0fd9-624a-5a60-a56d-35b9a6081c39

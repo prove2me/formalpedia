@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_ApP_isDedekind
 -- name    : PI.ScRefExists.ApP.isDedekind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:22:14.565028+00:00
 -- url     : https://prove2.me/theorems/b314e534-21b6-4228-93f3-966d17276443

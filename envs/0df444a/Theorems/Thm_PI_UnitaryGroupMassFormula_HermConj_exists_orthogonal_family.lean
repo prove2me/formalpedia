@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_HermConj_exists_orthogonal_family
 -- name    : PI.UnitaryGroupMassFormula.HermConj.exists_orthogonal_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:44:58.941909+00:00
 -- url     : https://prove2.me/theorems/500dab73-6d92-4e89-89b5-b4ffef91bb74

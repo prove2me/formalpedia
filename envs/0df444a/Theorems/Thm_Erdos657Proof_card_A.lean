@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos657Proof_card_A
 -- name    : Erdos657Proof.card_A
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:21:54.198802+00:00
 -- url     : https://prove2.me/theorems/e6fae869-3be6-44a0-8074-fe866541d351

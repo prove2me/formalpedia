@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_second_peeling_identity
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.second_peeling_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:36:18.041829+00:00
 -- url     : https://prove2.me/theorems/c4e116e4-991e-4963-98a5-79a4b9fd19b3

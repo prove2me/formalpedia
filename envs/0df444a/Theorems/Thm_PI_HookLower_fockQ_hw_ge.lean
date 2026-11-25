@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookLower_fockQ_hw_ge
 -- name    : PI.HookLower.fockQ_hw_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:00.089301+00:00
 -- url     : https://prove2.me/theorems/554d6d82-9524-4e92-bf57-aa60182989ae

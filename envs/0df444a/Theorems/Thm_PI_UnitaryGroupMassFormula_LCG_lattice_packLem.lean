@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_lattice_packLem
 -- name    : PI.UnitaryGroupMassFormula.LCG.lattice_packLem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:46:50.231441+00:00
 -- url     : https://prove2.me/theorems/cadaaf0d-66c0-52a5-bd35-e1bd74ae4283

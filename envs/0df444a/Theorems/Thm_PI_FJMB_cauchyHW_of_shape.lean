@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMB_cauchyHW_of_shape
 -- name    : PI.FJMB.cauchyHW_of_shape
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:30:18.964227+00:00
 -- url     : https://prove2.me/theorems/5df78c84-4973-5b02-b3c4-f7f1548e814e

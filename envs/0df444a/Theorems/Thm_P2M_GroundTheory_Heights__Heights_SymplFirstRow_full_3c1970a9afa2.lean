@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplFirstRow_full_3c1970a9afa2
 -- name    : P2M_GroundTheory_Heights__Heights_SymplFirstRow_full_3c1970a9afa2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:33:07.700944+00:00
 -- url     : https://prove2.me/theorems/5bd1b54f-b8c8-4e83-8272-8110f42cc9e7

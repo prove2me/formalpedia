@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteThetaCoordinates_norm_emb_le_one_iff
 -- name    : PI.VolStabW.FiniteThetaCoordinates.norm_emb_le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:42:42.34177+00:00
 -- url     : https://prove2.me/theorems/02aca2a0-be01-4f1c-8f74-c6a3a127286c

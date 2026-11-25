@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DiaFixDim_Main_stabTriv_of
 -- name    : PI.UnitaryGroupMassFormula.DiaFixDim.Main.stabTriv_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:39:20.038885+00:00
 -- url     : https://prove2.me/theorems/e733a873-944d-4892-b30e-48514816e4c5

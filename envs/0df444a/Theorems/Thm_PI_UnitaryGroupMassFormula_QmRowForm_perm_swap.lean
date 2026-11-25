@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmRowForm_perm_swap
 -- name    : PI.UnitaryGroupMassFormula.QmRowForm.perm_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:40:44.621793+00:00
 -- url     : https://prove2.me/theorems/1ebe0b7c-9e0e-4733-a0f3-383c4eb269fe

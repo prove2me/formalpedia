@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FiniteFieldCounting_inert_ratio
 -- name    : PI.VolStabS.FiniteFieldCounting.inert_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:36:08.706271+00:00
 -- url     : https://prove2.me/theorems/3d934c61-f0f4-5c2e-9504-1e5140957ec5

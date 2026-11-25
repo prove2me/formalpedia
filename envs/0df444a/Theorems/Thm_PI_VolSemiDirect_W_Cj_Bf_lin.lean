@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_Bf_lin
 -- name    : PI.VolSemiDirect.W.Cj.Bf_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:36:16.258941+00:00
 -- url     : https://prove2.me/theorems/539ac7ee-8a67-461d-b225-6e5b7208ed5e

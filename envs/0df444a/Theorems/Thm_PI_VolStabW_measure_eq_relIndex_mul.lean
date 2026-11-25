@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_measure_eq_relIndex_mul
 -- name    : PI.VolStabW.measure_eq_relIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:44:04.250643+00:00
 -- url     : https://prove2.me/theorems/7088fa26-d639-4bf7-820b-e0a2c2cda61a

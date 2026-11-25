@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_pairCount_le_choose
 -- name    : F6ConvexWindow.pairCount_le_choose
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:16:42.518217+00:00
 -- url     : https://prove2.me/theorems/1289a83e-24db-492a-87dd-b6d27802417b

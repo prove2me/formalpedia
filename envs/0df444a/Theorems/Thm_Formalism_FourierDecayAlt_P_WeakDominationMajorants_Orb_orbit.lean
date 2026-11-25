@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationMajorants_Orb_orbit
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationMajorants.Orb.orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:16:58.060791+00:00
 -- url     : https://prove2.me/theorems/3bda5435-1eab-484c-ad74-ea82e2a3d491

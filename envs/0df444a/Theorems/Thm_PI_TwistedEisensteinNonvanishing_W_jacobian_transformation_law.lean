@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_jacobian_transformation_law
 -- name    : PI.TwistedEisensteinNonvanishing.W.jacobian_transformation_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:30:12.653685+00:00
 -- url     : https://prove2.me/theorems/261f96a8-14f6-4aab-99f8-ff48aeef34d6

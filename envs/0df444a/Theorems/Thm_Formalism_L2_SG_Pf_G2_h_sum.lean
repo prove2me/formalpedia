@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G2_h_sum
 -- name    : Formalism.L2.SG.Pf.G2.h_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:29:48.04218+00:00
 -- url     : https://prove2.me/theorems/79e92f2c-85b9-51de-91fb-aaae370f672b

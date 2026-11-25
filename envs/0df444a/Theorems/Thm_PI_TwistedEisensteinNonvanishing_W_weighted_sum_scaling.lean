@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_weighted_sum_scaling
 -- name    : PI.TwistedEisensteinNonvanishing.W.weighted_sum_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:31:46.047472+00:00
 -- url     : https://prove2.me/theorems/3af198f5-5494-4874-8c4f-c73cc24d0d28

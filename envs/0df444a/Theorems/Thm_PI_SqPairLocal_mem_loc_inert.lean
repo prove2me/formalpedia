@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_SqPairLocal_mem_loc_inert
 -- name    : PI.SqPairLocal.mem_loc_inert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:36:08.727878+00:00
 -- url     : https://prove2.me/theorems/1806d57f-d392-45e6-8d4b-e3c984a5f757

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TwistedEisensteinNonvanishing_W_integral_approximation_by_integer
 -- name    : PI.TwistedEisensteinNonvanishing.W.integral_approximation_by_integer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:42:27.657326+00:00
 -- url     : https://prove2.me/theorems/1e52dc65-e431-4e34-b0b8-02240619f461

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_isKv_of_mem
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.isKv_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:34:07.359088+00:00
 -- url     : https://prove2.me/theorems/7367f0ec-4d7e-4648-a2d8-8a589b8ee50f

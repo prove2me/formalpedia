@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_unif_mul_lt_one_iff
 -- name    : GlobalTheory.SymChain.unif_mul_lt_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:44:22.461042+00:00
 -- url     : https://prove2.me/theorems/c83a1067-4d6f-5ab1-82f2-484efd4a46e2

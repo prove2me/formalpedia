@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSLWithoutPairs_weight_decay_balancing
 -- name    : SSLWithoutPairs.weight_decay_balancing
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:37:56.36116+00:00
 -- url     : https://prove2.me/theorems/3ece3dbe-885c-43e5-974c-eebd83dff12b

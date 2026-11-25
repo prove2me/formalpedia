@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0810_5751_ml_noise_variance
 -- name    : Arxiv0810_5751.ml_noise_variance
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:43:22.674018+00:00
 -- url     : https://prove2.me/theorems/302ea91e-2aab-4690-bead-8d7343779f6e

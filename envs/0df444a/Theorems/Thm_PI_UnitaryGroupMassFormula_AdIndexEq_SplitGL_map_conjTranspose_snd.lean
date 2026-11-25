@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_SplitGL_map_conjTranspose_snd
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.SplitGL.map_conjTranspose_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:39:39.426325+00:00
 -- url     : https://prove2.me/theorems/5eefed73-c351-4b51-b18b-946a9755d469

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QnFFZero_psi_one
 -- name    : PI.UnitaryGroupMassFormula.QnFFZero.psi_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:47.840473+00:00
 -- url     : https://prove2.me/theorems/8d032760-1fb0-4191-bb37-18fa22d86dd1

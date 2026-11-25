@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv0810_5751_stacked_data_length_le
 -- name    : Arxiv0810_5751.stacked_data_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:40:50.408948+00:00
 -- url     : https://prove2.me/theorems/df6b245b-13f4-4f3c-b207-808338766fe4

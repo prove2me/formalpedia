@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_UG_exists_quasi
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.UG.exists_quasi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:34:57.852543+00:00
 -- url     : https://prove2.me/theorems/2116512b-8a8b-5c03-8fcb-00076fb310be

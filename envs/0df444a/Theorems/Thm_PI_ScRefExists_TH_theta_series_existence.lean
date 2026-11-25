@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScRefExists_TH_theta_series_existence
 -- name    : PI.ScRefExists.TH.theta_series_existence
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:16.417699+00:00
 -- url     : https://prove2.me/theorems/f33193a6-49aa-43c5-a227-ec10052dbe2e

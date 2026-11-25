@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_T_neg
 -- name    : PI.WAU.B.T_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:44:57.769732+00:00
 -- url     : https://prove2.me/theorems/25e61fd2-7601-4b13-ace0-587d7b5afe3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LowSmooth_isKFinHpk_of_lowUnit
 -- name    : PI.UnitaryGroupMassFormula.LowSmooth.isKFinHpk_of_lowUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:44:36.725908+00:00
 -- url     : https://prove2.me/theorems/bf977624-8737-4542-967a-e86966b2c68c

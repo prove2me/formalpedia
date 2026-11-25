@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FiniteThetaCoordinates_norm_piV_algebraMap
 -- name    : PI.VolStabW.FiniteThetaCoordinates.norm_piV_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:43:27.785796+00:00
 -- url     : https://prove2.me/theorems/a7d8c00e-f26a-4716-94f8-7b76fe33d9eb

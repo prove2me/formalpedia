@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ContrastiveDuality_doubly_normalized_criteria
 -- name    : ContrastiveDuality.doubly_normalized_criteria
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T06:32:40.716991+00:00
 -- url     : https://prove2.me/theorems/fa0997d3-dc69-4525-b4d5-1563dd0a389b

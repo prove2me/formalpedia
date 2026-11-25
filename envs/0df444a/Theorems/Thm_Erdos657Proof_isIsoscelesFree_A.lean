@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos657Proof_isIsoscelesFree_A
 -- name    : Erdos657Proof.isIsoscelesFree_A
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:21:46.062946+00:00
 -- url     : https://prove2.me/theorems/6d4c4e20-3cff-53fd-b542-775b78db590b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_finprod_ite
 -- name    : PI.VolStabW.DeterminantAdmissible.finprod_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:43:12.405972+00:00
 -- url     : https://prove2.me/theorems/7d234df2-d9be-48d7-b0c4-d0c86ad03e60

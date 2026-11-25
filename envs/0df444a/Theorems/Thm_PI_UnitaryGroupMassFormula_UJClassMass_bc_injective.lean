@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_bc_injective
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.bc_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:41:29.984176+00:00
 -- url     : https://prove2.me/theorems/29250372-d0f1-410d-8f53-26059eb4c74c

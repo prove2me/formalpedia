@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_ZI_quad_bound
 -- name    : PI.UnitaryGroupMassFormula.UsCost.ZI.quad_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:34:32.334445+00:00
 -- url     : https://prove2.me/theorems/5b898993-db0a-47ba-8b33-15e856d4ffea

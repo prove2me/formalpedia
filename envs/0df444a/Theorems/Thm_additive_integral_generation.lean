@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_additive_integral_generation
 -- name    : additive_integral_generation
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:23:47.825945+00:00
 -- url     : https://prove2.me/theorems/995ab3eb-bed5-4471-b532-3dd980bd9d46

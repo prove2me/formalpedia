@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_mulVec_succAbove_step
 -- name    : PI.VolSemiDirect.W.Cj.mulVec_succAbove_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:36:00.729032+00:00
 -- url     : https://prove2.me/theorems/9c4b182c-2456-40ea-918b-5617804ceb44

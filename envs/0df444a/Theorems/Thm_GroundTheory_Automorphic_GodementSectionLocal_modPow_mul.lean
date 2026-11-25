@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_modPow_mul
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.modPow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:35:16.318929+00:00
 -- url     : https://prove2.me/theorems/cda8c606-8caf-52a4-9bc8-1ebd95476f6e

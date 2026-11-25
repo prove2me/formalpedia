@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnitDetRoot_single_mem_stdLat
 -- name    : PI.UnitaryGroupMassFormula.UnitDetRoot.single_mem_stdLat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:40:26.006961+00:00
 -- url     : https://prove2.me/theorems/671b4d9e-4693-5fbf-8dcf-b79eac5e64fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymSupport_InR_conj
 -- name    : GlobalTheory.SymSupport.InR.conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:38:32.382596+00:00
 -- url     : https://prove2.me/theorems/ef96a3c4-79ce-5b3c-9816-86eb8e4960ea

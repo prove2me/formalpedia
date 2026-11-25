@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GramUnit_be_mulBy_zero
 -- name    : PI.UnitaryGroupMassFormula.GramUnit.be_mulBy_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:50.55914+00:00
 -- url     : https://prove2.me/theorems/3ba7a084-8e9a-415a-a6db-1f707f5ef98c

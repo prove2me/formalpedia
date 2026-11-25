@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCompose_hasDerivAt_eval
 -- name    : PI.UnitaryGroupMassFormula.UsCompose.hasDerivAt_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:03:07.206805+00:00
 -- url     : https://prove2.me/theorems/0b54f6de-31c9-4bcc-9c9f-6c0faf059545

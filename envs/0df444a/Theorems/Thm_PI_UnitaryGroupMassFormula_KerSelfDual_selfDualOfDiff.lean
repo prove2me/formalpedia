@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_KerSelfDual_selfDualOfDiff
 -- name    : PI.UnitaryGroupMassFormula.KerSelfDual.selfDualOfDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:39:46.007566+00:00
 -- url     : https://prove2.me/theorems/7d78d89d-3e66-49da-a2c0-a02e7b082545

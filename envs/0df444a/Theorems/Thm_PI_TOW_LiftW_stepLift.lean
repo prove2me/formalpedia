@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_TOW_LiftW_stepLift
 -- name    : PI.TOW.LiftW.stepLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:37:10.800375+00:00
 -- url     : https://prove2.me/theorems/aa33f878-c3dd-58d6-9d98-11e1ef8bb157

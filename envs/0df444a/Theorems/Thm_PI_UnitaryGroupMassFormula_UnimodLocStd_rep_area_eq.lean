@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_rep_area_eq
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.rep_area_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:41:06.906513+00:00
 -- url     : https://prove2.me/theorems/6da2f51e-29b8-49db-bc24-575f235fc775

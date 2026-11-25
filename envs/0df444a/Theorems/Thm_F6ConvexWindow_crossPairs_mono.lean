@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_crossPairs_mono
 -- name    : F6ConvexWindow.crossPairs_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:16:52.664942+00:00
 -- url     : https://prove2.me/theorems/a55bcf35-5589-459b-8f8a-14ded47ee993

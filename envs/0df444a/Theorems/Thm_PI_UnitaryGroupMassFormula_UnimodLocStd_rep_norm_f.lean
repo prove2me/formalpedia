@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_rep_norm_f
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.rep_norm_f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:05:46.818363+00:00
 -- url     : https://prove2.me/theorems/fc24f884-3456-4a9a-b232-38753a9e1505

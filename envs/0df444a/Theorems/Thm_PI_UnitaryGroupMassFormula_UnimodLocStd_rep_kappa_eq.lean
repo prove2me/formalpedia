@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UnimodLocStd_rep_kappa_eq
 -- name    : PI.UnitaryGroupMassFormula.UnimodLocStd.rep_kappa_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:14:26.438931+00:00
 -- url     : https://prove2.me/theorems/9e6ae318-a88c-4f25-aaec-97f6c06edae9

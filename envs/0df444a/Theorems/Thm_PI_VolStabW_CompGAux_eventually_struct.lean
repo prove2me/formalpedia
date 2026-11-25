@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_CompGAux_eventually_struct
 -- name    : PI.VolStabW.CompGAux.eventually_struct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:45:51.701041+00:00
 -- url     : https://prove2.me/theorems/02c53f39-6d45-40b0-8be9-7287a56d398f

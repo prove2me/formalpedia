@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AlgWtDualUniq_dual_unique
 -- name    : PI.UnitaryGroupMassFormula.AlgWtDualUniq.dual_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:38:03.809928+00:00
 -- url     : https://prove2.me/theorems/3c2990c0-1fc0-4810-a04b-09c7aa00f8cd

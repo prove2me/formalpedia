@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_skip_succ_identity
 -- name    : Formalism.FourierDecayAlt.P.skip_succ_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:51:20.155798+00:00
 -- url     : https://prove2.me/theorems/6dd0e867-ad2f-463e-b049-e413ebbd451c

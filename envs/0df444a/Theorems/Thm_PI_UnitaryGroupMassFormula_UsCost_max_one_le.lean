@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_max_one_le
 -- name    : PI.UnitaryGroupMassFormula.UsCost.max_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:51:03.155415+00:00
 -- url     : https://prove2.me/theorems/1b46a6b6-10fb-5993-9cb8-76b72677ab37

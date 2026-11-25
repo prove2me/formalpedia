@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_OrbR_hform_mem
 -- name    : PI.VolStabSW.OrbR.hform_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:38:00.5456+00:00
 -- url     : https://prove2.me/theorems/678555f4-a2f0-5f97-924b-1f697028fb3d

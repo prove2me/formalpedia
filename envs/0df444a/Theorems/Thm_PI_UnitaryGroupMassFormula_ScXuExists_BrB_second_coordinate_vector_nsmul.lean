@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_BrB_second_coordinate_vector_nsmul
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.BrB.second_coordinate_vector_nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:07:34.773407+00:00
 -- url     : https://prove2.me/theorems/be621cbf-a98d-5fbb-9306-3f788c6428e2

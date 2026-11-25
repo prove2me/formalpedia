@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_DLm_av_shift
 -- name    : PI.UnitaryGroupMassFormula.DLm.av_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:40:25.966202+00:00
 -- url     : https://prove2.me/theorems/889e3faf-b677-4f45-9767-c216e2412a4d

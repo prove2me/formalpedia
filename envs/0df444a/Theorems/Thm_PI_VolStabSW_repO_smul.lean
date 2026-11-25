@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_repO_smul
 -- name    : PI.VolStabSW.repO_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:42:07.641015+00:00
 -- url     : https://prove2.me/theorems/a43b8f35-7ad9-5340-96e3-66337e4c11d7

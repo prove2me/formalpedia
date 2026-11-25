@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrProdA_repr_change
 -- name    : PI.VolStabW.RestrProdA.repr_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:40:03.233847+00:00
 -- url     : https://prove2.me/theorems/e83dc82d-6c59-55a5-9112-0e4186156a65

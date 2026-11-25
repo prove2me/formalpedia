@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdUniqW_mem_of_psi
 -- name    : PI.VolStabW.SdUniqW.mem_of_psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:41:57.265949+00:00
 -- url     : https://prove2.me/theorems/eeebd7e2-f65d-5d4e-be09-c1fd616fa046

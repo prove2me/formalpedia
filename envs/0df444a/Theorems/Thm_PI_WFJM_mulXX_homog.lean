@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WFJM_mulXX_homog
 -- name    : PI.WFJM.mulXX_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:15.261865+00:00
 -- url     : https://prove2.me/theorems/fed38626-2310-4915-8882-42a8ff4addce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_GelfCpt_mulStep
 -- name    : PI.UnitaryGroupMassFormula.GelfCpt.mulStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:38:31.639857+00:00
 -- url     : https://prove2.me/theorems/45a9911f-adbf-4203-8386-972517733443

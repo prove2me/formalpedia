@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_QmMove_sum_perm_eq_sum_firstColumnSplit
 -- name    : PI.UnitaryGroupMassFormula.QmMove.sum_perm_eq_sum_firstColumnSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:39:24.344872+00:00
 -- url     : https://prove2.me/theorems/bd2c1ade-a4a2-4174-9bcc-1e021c289d24

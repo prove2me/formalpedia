@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_absK_inv
 -- name    : GlobalTheory.JR.WeilQuad.absK_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:21:23.434122+00:00
 -- url     : https://prove2.me/theorems/212f152e-09b0-4a89-a78b-5d860d5054b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_disjoint_triples_cross_le_three
 -- name    : F6ConvexWindow.disjoint_triples_cross_le_three
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T10:19:02.99368+00:00
 -- url     : https://prove2.me/theorems/b869a6f7-8abb-4ed1-8248-42e35c5a00fc

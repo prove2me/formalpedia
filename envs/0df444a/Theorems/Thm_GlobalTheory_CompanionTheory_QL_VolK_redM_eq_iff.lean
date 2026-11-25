@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_QL_VolK_redM_eq_iff
 -- name    : GlobalTheory.CompanionTheory.QL.VolK.redM_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:25:18.179678+00:00
 -- url     : https://prove2.me/theorems/d088ed76-be4f-5b30-8265-62beb79430e8

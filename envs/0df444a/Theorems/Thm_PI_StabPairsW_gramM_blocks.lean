@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_StabPairsW_gramM_blocks
 -- name    : PI.StabPairsW.gramM_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:28:54.859748+00:00
 -- url     : https://prove2.me/theorems/4bd9d12a-2cb3-4d8e-adf1-93dfcaf4a938

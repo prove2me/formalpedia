@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HookLower_one_le_cNu
 -- name    : PI.HookLower.one_le_cNu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:39:07.701583+00:00
 -- url     : https://prove2.me/theorems/5d3de5fb-aa3c-40b8-ace9-cbc4f03b029b

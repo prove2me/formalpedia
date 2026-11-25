@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_isCompact_cos
 -- name    : PI.VolStabSW.isCompact_cos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:42:45.343576+00:00
 -- url     : https://prove2.me/theorems/c0681f9b-29a3-4599-b341-2747d7ad530a

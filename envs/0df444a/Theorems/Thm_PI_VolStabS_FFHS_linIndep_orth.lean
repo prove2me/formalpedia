@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabS_FFHS_linIndep_orth
 -- name    : PI.VolStabS.FFHS.linIndep_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:36:00.342435+00:00
 -- url     : https://prove2.me/theorems/2940ac9c-13a4-4a4f-9ccc-485071bf1f1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_embX_mulVec
 -- name    : GlobalTheory.LatClass.embX_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:45:24.955277+00:00
 -- url     : https://prove2.me/theorems/a8c6fe57-b11c-5679-af43-84fe3c51aecc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementSectionLocal_isCompact_box
 -- name    : GroundTheory.Automorphic.GodementSectionLocal.isCompact_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:35:37.208857+00:00
 -- url     : https://prove2.me/theorems/1b077232-3ec4-594b-a67f-47f39c89fe28

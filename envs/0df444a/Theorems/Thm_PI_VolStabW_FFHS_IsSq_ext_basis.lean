@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_FFHS_IsSq_ext_basis
 -- name    : PI.VolStabW.FFHS.IsSq.ext_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:05.608247+00:00
 -- url     : https://prove2.me/theorems/ad1b491d-0122-4245-81c2-974cd0991bc5

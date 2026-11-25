@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UsCost_continuous_block_matrix_three
 -- name    : PI.UnitaryGroupMassFormula.UsCost.continuous_block_matrix_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:32.651133+00:00
 -- url     : https://prove2.me/theorems/0494d4fc-798a-4667-88f9-82e791badddc

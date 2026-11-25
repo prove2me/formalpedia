@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_ReciprocityTheory_PGsh_isPtDer_of
+-- name    : ReciprocityTheory.PGsh.isPtDer_of
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-25T11:09:23.780872+00:00
+-- url     : https://prove2.me/theorems/ca509345-8f84-5808-bd72-4af801d396ec
+-- title:
+--   PGsh: is Pt Der of
+-- statement:
+--   The PGsh construction uses the is Pt Der of property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/DualLattices/RidConvolutionDerivation.lean#L159-L173
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/ReciprocityTheory/DualLattices/RidConvolutionDerivation.lean#L159-L173
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_DualLattices_RidConvolutionDerivation
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open MvPolynomial TensorProduct
+open ReciprocityTheory ReciprocityTheory.PGsh
+variable {R A : Type*} [CommRing R] [CommRing A] [Bialgebra R A]
+
+theorem ReciprocityTheory.PGsh.isPtDer_of {δ : A →ₗ[R] R} (h1 : δ 1 = 0)
+    (h2 : ∀ f ∈ RingHom.ker (Bialgebra.counitAlgHom R A) ^ 2, δ f = 0) : IsPtDer δ := by sorry
