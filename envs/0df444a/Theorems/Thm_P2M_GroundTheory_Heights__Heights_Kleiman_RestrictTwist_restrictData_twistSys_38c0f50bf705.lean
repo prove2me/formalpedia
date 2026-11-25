@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_restrictData_twistSys_38c0f50bf705
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrictTwist_restrictData_twistSys_38c0f50bf705
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:09:57.521819+00:00
 -- url     : https://prove2.me/theorems/050cbfaf-cb79-50d5-99c7-1f2a8d29bf2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_IntegralPolynomialFourth_intMv_neg__ae9784f0616c
 -- name    : P2M_UpperTheory_Reformulated_B_IntegralPolynomialFourth_intMv_neg__ae9784f0616c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:21:26.428529+00:00
 -- url     : https://prove2.me/theorems/cbb38699-aea0-4cd9-b2a9-449673f527b8

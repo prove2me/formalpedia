@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_WFJM_Shape_pos_of__N_cf6537b449c1
 -- name    : P2M_PI_WFJM_Shape_pos_of__N_cf6537b449c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:01:22.991745+00:00
 -- url     : https://prove2.me/theorems/bd504b23-09fa-56b8-a08f-2a5aa9fe61f0

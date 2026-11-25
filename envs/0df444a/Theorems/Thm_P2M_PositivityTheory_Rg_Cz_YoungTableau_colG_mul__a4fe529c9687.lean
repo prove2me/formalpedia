@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Cz_YoungTableau_colG_mul__a4fe529c9687
 -- name    : P2M_PositivityTheory_Rg_Cz_YoungTableau_colG_mul__a4fe529c9687
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:10:32.861619+00:00
 -- url     : https://prove2.me/theorems/2e535369-2613-438e-b57f-8752dcc68a79

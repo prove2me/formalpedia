@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LelongLimit_proof_0051504eefea
 -- name    : P2M_GroundTheory_Heights__Heights_LelongLimit_proof_0051504eefea
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:46:50.278011+00:00
 -- url     : https://prove2.me/theorems/da18ad3d-c59f-46c2-a6a5-c9500089fa03

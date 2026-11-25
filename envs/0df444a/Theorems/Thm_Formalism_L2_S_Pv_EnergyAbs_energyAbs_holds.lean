@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_energyAbs_holds
 -- name    : Formalism.L2.S.Pv.EnergyAbs.energyAbs_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:16:30.381824+00:00
 -- url     : https://prove2.me/theorems/6e12f891-7515-40dc-b54f-268a88cc596c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_exists_eq_add_mul_of_forall__18275b5ca448
 -- name    : P2M_GroundTheory_Variant__N1_exists_eq_add_mul_of_forall__18275b5ca448
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:53.406514+00:00
 -- url     : https://prove2.me/theorems/4ad87c2b-b927-412c-8738-9cea70cbcae3

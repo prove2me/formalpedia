@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qh21_upU_mul__b87a6771494e
 -- name    : P2M_UpperTheory_Reformulated_B_Qh21_upU_mul__b87a6771494e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:21:33.8693+00:00
 -- url     : https://prove2.me/theorems/674b0e89-0b3f-4308-8c76-4bae7d65aee4

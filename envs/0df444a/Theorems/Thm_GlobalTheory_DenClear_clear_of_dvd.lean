@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenClear_clear_of_dvd
 -- name    : GlobalTheory.DenClear.clear_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:46:07.993968+00:00
 -- url     : https://prove2.me/theorems/28031024-3dc0-579b-a653-488583ce9562

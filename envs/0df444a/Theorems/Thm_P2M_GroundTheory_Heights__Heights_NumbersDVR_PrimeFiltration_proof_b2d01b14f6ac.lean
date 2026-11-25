@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PrimeFiltration_proof_b2d01b14f6ac
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PrimeFiltration_proof_b2d01b14f6ac
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:30:17.250693+00:00
 -- url     : https://prove2.me/theorems/21bdbb57-e8f7-4430-90ba-c310acf747e2

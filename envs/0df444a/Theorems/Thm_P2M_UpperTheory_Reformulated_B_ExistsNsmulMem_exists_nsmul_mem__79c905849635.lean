@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_ExistsNsmulMem_exists_nsmul_mem__79c905849635
 -- name    : P2M_UpperTheory_Reformulated_B_ExistsNsmulMem_exists_nsmul_mem__79c905849635
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:21:52.628989+00:00
 -- url     : https://prove2.me/theorems/3daacf93-8655-4502-b9c1-96bbdb12450a

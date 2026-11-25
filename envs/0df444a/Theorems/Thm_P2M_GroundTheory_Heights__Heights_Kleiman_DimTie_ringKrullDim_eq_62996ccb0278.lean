@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_ringKrullDim_eq_62996ccb0278
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DimTie_ringKrullDim_eq_62996ccb0278
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:59:34.014203+00:00
 -- url     : https://prove2.me/theorems/d4a4be56-5422-4a4f-8162-7e6130b159b3

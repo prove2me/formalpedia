@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_AlgebraicGeometry_Scheme_IdealSheafData_ofIdealTop_mul_690258dfc4cf6c74
 -- name    : P2M_RH_AlgebraicGeometry_Scheme_IdealSheafData_ofIdealTop_mul_690258dfc4cf6c74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:10:25.413775+00:00
 -- url     : https://prove2.me/theorems/ea115464-a09e-505f-b7ab-b7246cf69179

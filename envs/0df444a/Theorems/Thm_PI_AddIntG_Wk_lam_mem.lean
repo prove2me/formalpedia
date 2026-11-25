@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_lam_mem
 -- name    : PI.AddIntG.Wk.lam_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:22:57.098642+00:00
 -- url     : https://prove2.me/theorems/53048589-3818-557c-98bb-b079b3d9a43d

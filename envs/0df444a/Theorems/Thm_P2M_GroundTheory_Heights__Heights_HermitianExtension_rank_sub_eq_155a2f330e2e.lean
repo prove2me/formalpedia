@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianExtension_rank_sub_eq_155a2f330e2e
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianExtension_rank_sub_eq_155a2f330e2e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:59.254245+00:00
 -- url     : https://prove2.me/theorems/8a34025a-490c-4703-9baf-857e963d8db7

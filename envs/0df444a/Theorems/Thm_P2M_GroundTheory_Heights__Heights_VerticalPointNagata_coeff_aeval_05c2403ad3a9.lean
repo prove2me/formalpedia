@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPointNagata_coeff_aeval_05c2403ad3a9
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPointNagata_coeff_aeval_05c2403ad3a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:06:45.700688+00:00
 -- url     : https://prove2.me/theorems/eb9293d2-8f6f-44cf-9a78-a618703afcbd

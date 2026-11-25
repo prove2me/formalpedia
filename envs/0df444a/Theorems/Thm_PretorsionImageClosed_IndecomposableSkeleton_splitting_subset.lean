@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_splitting_subset
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.splitting_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:34:33.1978+00:00
 -- url     : https://prove2.me/theorems/b975d155-f6ff-5a34-8be3-fe4a29afb3f2

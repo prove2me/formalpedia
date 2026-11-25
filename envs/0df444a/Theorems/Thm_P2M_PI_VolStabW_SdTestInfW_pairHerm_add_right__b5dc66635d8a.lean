@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_VolStabW_SdTestInfW_pairHerm_add_right__b5dc66635d8a
 -- name    : P2M_PI_VolStabW_SdTestInfW_pairHerm_add_right__b5dc66635d8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:03:40.856703+00:00
 -- url     : https://prove2.me/theorems/0e900b65-3645-403a-ae11-ebfe60441d93

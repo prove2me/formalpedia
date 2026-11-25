@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_TwistedEisensteinNonvanishing_W_reduction_add__59831082df14
 -- name    : P2M_PI_TwistedEisensteinNonvanishing_W_reduction_add__59831082df14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:58:19.087806+00:00
 -- url     : https://prove2.me/theorems/1e1d776a-ea32-576b-87e9-403397172db8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_entries_bound
 -- name    : Formalism.L2.Th1.H.entries_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:18:05.871798+00:00
 -- url     : https://prove2.me/theorems/3ba44d8e-92de-5c71-bb08-7d36d9e90230

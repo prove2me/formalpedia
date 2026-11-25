@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_hausdorffMeasure_coneSet_ball_le_b81ecaae35f7
 -- name    : P2M_GroundTheory_Heights__Heights_hausdorffMeasure_coneSet_ball_le_b81ecaae35f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:15.499018+00:00
 -- url     : https://prove2.me/theorems/1dbf1e34-1e16-4178-aee3-822141112770

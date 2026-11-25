@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isRadicalAway_iff_isRadical_rabinowitschIdeal_06c1b40e5723
 -- name    : P2M_GroundTheory_Heights__Heights_isRadicalAway_iff_isRadical_rabinowitschIdeal_06c1b40e5723
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:18.880258+00:00
 -- url     : https://prove2.me/theorems/18afa784-9024-468b-9242-319b76c499bb

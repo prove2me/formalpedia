@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_Data_maj_zero__8e14f778d7b3
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_Data_maj_zero__8e14f778d7b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:14:47.833242+00:00
 -- url     : https://prove2.me/theorems/2e51cf86-04de-5685-bd6b-c6bb274832f7

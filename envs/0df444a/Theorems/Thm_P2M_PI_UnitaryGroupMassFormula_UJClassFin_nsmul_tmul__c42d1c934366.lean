@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_UJClassFin_nsmul_tmul__c42d1c934366
 -- name    : P2M_PI_UnitaryGroupMassFormula_UJClassFin_nsmul_tmul__c42d1c934366
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:01:11.498652+00:00
 -- url     : https://prove2.me/theorems/ab44e7b5-8482-5cfb-8ad9-fae56143166a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_norm_Evec_le_81ad8f9d2021
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_norm_Evec_le_81ad8f9d2021
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:51:38.604238+00:00
 -- url     : https://prove2.me/theorems/96082657-44ec-5bf5-8d6f-16e359f418e2

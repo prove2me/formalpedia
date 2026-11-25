@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_mem_multidegree_piece_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.mem_multidegree_piece_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:57.873415+00:00
 -- url     : https://prove2.me/theorems/2202f3e8-a954-4393-86c3-bf26648fe42e

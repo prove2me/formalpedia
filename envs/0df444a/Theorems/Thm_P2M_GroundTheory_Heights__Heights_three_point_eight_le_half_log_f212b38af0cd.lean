@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_three_point_eight_le_half_log_f212b38af0cd
 -- name    : P2M_GroundTheory_Heights__Heights_three_point_eight_le_half_log_f212b38af0cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:50:22.319839+00:00
 -- url     : https://prove2.me/theorems/cbed1277-a60b-50d7-9be1-6e889c5be401

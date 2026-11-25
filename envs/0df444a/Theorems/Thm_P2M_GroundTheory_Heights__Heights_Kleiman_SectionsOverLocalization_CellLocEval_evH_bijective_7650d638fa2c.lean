@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellLocEval_evH_bijective_7650d638fa2c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellLocEval_evH_bijective_7650d638fa2c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:56:35.607049+00:00
 -- url     : https://prove2.me/theorems/6d6ea8d6-1c89-4a4f-b470-e57c98ce5a18

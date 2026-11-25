@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DimStrictDrop_full_79815419df15
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DimStrictDrop_full_79815419df15
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:43:59.463728+00:00
 -- url     : https://prove2.me/theorems/48468a22-6e61-4070-a4c1-1aaa63b46854

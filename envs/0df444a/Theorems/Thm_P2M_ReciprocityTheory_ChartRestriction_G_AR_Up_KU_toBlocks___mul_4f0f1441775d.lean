@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_KU_toBlocks___mul_4f0f1441775d
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_KU_toBlocks___mul_4f0f1441775d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:14:25.859338+00:00
 -- url     : https://prove2.me/theorems/f9c67613-165c-5b6f-a268-3ab0b95fe5c9

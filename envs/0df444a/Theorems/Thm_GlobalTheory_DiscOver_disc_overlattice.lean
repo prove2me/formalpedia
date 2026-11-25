@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscOver_disc_overlattice
 -- name    : GlobalTheory.DiscOver.disc_overlattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:24:49.5008+00:00
 -- url     : https://prove2.me/theorems/c200163a-b7b5-45f7-8db2-5fc7bc68164a

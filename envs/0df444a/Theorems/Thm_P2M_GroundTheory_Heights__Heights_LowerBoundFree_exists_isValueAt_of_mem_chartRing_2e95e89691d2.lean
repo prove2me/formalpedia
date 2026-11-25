@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_exists_isValueAt_of_mem_chartRing_2e95e89691d2
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_exists_isValueAt_of_mem_chartRing_2e95e89691d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:14:39.690724+00:00
 -- url     : https://prove2.me/theorems/a2d4c8b2-8ecb-4938-a204-cdaab2cd48ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_hasTemperateGrowth_infinitePoly
 -- name    : GroundTheory.Global.HeckeCharacter.hasTemperateGrowth_infinitePoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:49:13.995412+00:00
 -- url     : https://prove2.me/theorems/c2184e20-d0f9-4ff3-a492-91482fafa873

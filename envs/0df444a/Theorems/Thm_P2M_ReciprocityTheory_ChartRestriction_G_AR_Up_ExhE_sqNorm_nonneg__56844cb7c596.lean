@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_ExhE_sqNorm_nonneg__56844cb7c596
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_ExhE_sqNorm_nonneg__56844cb7c596
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:14:18.420996+00:00
 -- url     : https://prove2.me/theorems/cf026f77-022e-5ad2-a95f-6d899f481fbf

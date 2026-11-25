@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_NumbersBirationalInvariance_of_lengthFormulaDimOne_85e85bedf190
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_NumbersBirationalInvariance_of_lengthFormulaDimOne_85e85bedf190
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:08:48.437807+00:00
 -- url     : https://prove2.me/theorems/f56ca8c2-11b0-4457-b1d5-2e2277064f75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_span_eq_of_isRegularLocalRing_quotient_90ce8f3deba0
 -- name    : P2M_GroundTheory_Heights__Heights_exists_span_eq_of_isRegularLocalRing_quotient_90ce8f3deba0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:11.061128+00:00
 -- url     : https://prove2.me/theorems/b17e15c0-feeb-47dc-9143-7f48c259e595

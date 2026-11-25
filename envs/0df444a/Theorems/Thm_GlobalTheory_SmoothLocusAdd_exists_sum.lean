@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothLocusAdd_exists_sum
 -- name    : GlobalTheory.SmoothLocusAdd.exists_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:44:57.401134+00:00
 -- url     : https://prove2.me/theorems/1e14e863-f7ac-5dd3-9856-5d12cea23edd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StTri_loc_step
 -- name    : GlobalTheory.HL.StTri.loc_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:45:39.465226+00:00
 -- url     : https://prove2.me/theorems/c75c93b0-31f4-45d1-a281-1a83c515cdef

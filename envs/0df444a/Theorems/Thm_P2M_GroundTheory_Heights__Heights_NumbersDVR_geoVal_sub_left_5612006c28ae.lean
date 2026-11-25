@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_geoVal_sub_left_5612006c28ae
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_geoVal_sub_left_5612006c28ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:10:46.575903+00:00
 -- url     : https://prove2.me/theorems/ab0cf910-ff33-4c37-acef-a2d74b3b97c9

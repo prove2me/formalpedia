@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Comparison__prim_inj_152d5f227536
 -- name    : P2M_UpperTheory_Comparison__prim_inj_152d5f227536
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:23:19.484909+00:00
 -- url     : https://prove2.me/theorems/6c352b20-12c8-48ea-858c-308beee506c2

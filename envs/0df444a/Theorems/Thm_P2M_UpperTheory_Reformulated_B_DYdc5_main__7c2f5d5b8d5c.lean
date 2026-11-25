@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_DYdc5_main__7c2f5d5b8d5c
 -- name    : P2M_UpperTheory_Reformulated_B_DYdc5_main__7c2f5d5b8d5c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:21:03.618724+00:00
 -- url     : https://prove2.me/theorems/f5ec4e83-a2f4-4337-9150-68bf4144153d

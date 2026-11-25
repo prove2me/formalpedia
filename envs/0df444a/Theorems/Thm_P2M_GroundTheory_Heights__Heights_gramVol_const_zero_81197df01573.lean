@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_gramVol_const_zero_81197df01573
 -- name    : P2M_GroundTheory_Heights__Heights_gramVol_const_zero_81197df01573
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:48:06.45463+00:00
 -- url     : https://prove2.me/theorems/65c0d60d-bf29-4105-8ee9-6f308c250a7b

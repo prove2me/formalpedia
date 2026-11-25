@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_VolStabW_TopoMuInv_smul_neg__7eb46811fd83
 -- name    : P2M_PI_VolStabW_TopoMuInv_smul_neg__7eb46811fd83
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:04:16.690804+00:00
 -- url     : https://prove2.me/theorems/1f470bcf-e656-4461-a1fc-41ebc36f68c4

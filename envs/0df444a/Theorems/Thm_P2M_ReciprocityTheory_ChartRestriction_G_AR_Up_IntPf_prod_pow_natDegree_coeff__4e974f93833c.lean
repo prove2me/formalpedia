@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_IntPf_prod_pow_natDegree_coeff__4e974f93833c
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_IntPf_prod_pow_natDegree_coeff__4e974f93833c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:13:41.7198+00:00
 -- url     : https://prove2.me/theorems/5e18474a-1348-4fff-8124-7c1ca98bdc7a

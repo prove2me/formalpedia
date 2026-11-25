@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_exists_isOpen_small_b5c2f2fc479e
 -- name    : P2M_GroundTheory_Heights__Theta_exists_isOpen_small_b5c2f2fc479e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:53:43.737633+00:00
 -- url     : https://prove2.me/theorems/d9702ed0-196b-4ccc-9dd0-099233bfb616

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimScale_exists_conj_int
 -- name    : GlobalTheory.PrimScale.exists_conj_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:34:06.997491+00:00
 -- url     : https://prove2.me/theorems/a8507c6e-dffb-53bc-8d1c-8b84ce152ba8

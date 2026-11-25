@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_latticeDual_int_fg_d6bcc96c1a9d
 -- name    : P2M_GroundTheory_Heights__Heights_latticeDual_int_fg_d6bcc96c1a9d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:47:29.107283+00:00
 -- url     : https://prove2.me/theorems/095afdad-fb58-416b-a3c4-b6d0bb173b82

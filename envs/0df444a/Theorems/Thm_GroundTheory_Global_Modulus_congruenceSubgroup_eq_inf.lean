@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Modulus_congruenceSubgroup_eq_inf
 -- name    : GroundTheory.Global.Modulus.congruenceSubgroup_eq_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:14:49.537181+00:00
 -- url     : https://prove2.me/theorems/6d9dd9d2-da1c-4156-aa19-04d6e9328913

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cube_kuenneth
 -- name    : GlobalTheory.cube_kuenneth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:50:19.231869+00:00
 -- url     : https://prove2.me/theorems/c00792ea-c33e-43b7-a2b0-f5b6a0b16cbc

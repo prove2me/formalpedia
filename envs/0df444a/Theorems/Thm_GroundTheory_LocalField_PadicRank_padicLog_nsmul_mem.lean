@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_PadicRank_padicLog_nsmul_mem
 -- name    : GroundTheory.LocalField.PadicRank.padicLog_nsmul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:42:48.717093+00:00
 -- url     : https://prove2.me/theorems/6f0d800b-420b-5328-98ff-9fc19631928d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrontierMathLean_dedekindPsi_prime
 -- name    : FrontierMathLean.dedekindPsi_prime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:46:53.654884+00:00
 -- url     : https://prove2.me/theorems/44008ede-cbc7-5879-831e-3706aed08ea0

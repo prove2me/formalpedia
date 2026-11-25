@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_coneTangent_eq_ker_28afad4fe744
 -- name    : P2M_GroundTheory_Heights__Heights_coneTangent_eq_ker_28afad4fe744
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:22.715863+00:00
 -- url     : https://prove2.me/theorems/bc8c6a07-955d-45b0-8778-18fdab1f3b48

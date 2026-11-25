@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBJ_freeze_last_entry
 -- name    : Formalism.FourierDecayAlt.P.PBJ.freeze_last_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:53:42.510525+00:00
 -- url     : https://prove2.me/theorems/18330ab2-2d7a-431e-aca6-68a1846a4db2

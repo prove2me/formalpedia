@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_WR_D_hinv_herm__6df79ca13e18
 -- name    : P2M_PositivityTheory_Rg_Sw_WR_D_hinv_herm__6df79ca13e18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:10:33.945994+00:00
 -- url     : https://prove2.me/theorems/97a587d5-b2b3-44a0-8d2b-22e6fce0b4c1

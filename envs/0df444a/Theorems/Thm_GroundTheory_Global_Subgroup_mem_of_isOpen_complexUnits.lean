@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Subgroup_mem_of_isOpen_complexUnits
 -- name    : GroundTheory.Global.Subgroup.mem_of_isOpen_complexUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:24:19.043677+00:00
 -- url     : https://prove2.me/theorems/3e3ea918-4c1b-46ef-93ed-c8434eb9520a

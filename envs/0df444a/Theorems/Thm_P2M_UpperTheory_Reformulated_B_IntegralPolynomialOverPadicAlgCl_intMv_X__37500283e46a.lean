@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_IntegralPolynomialOverPadicAlgCl_intMv_X__37500283e46a
 -- name    : P2M_UpperTheory_Reformulated_B_IntegralPolynomialOverPadicAlgCl_intMv_X__37500283e46a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:21:28.81606+00:00
 -- url     : https://prove2.me/theorems/8475d8cb-6ff0-5c1d-9d72-2ee64f7edc0a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_eq_ptHom_evalPt
 -- name    : GlobalTheory.WeierstrassCurve.eq_ptHom_evalPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:53:32.50634+00:00
 -- url     : https://prove2.me/theorems/cff557b3-d707-48dc-b2c2-f131f603c3f0

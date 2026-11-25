@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_Bl_ProductIdentities_goal1_10f3307be02c86e1
 -- name    : P2M_RH_Bl_ProductIdentities_goal1_10f3307be02c86e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:11:20.246687+00:00
 -- url     : https://prove2.me/theorems/6b755fac-1404-422a-bb72-71b2620e00d3

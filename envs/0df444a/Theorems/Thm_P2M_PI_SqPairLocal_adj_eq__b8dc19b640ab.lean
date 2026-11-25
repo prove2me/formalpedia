@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_SqPairLocal_adj_eq__b8dc19b640ab
 -- name    : P2M_PI_SqPairLocal_adj_eq__b8dc19b640ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:57:32.491829+00:00
 -- url     : https://prove2.me/theorems/9ab45cae-f6cd-4f48-987a-a74974f6ee6f

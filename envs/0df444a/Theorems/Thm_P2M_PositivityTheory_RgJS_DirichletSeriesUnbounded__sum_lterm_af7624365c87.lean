@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_RgJS_DirichletSeriesUnbounded__sum_lterm_af7624365c87
 -- name    : P2M_PositivityTheory_RgJS_DirichletSeriesUnbounded__sum_lterm_af7624365c87
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:02:12.972594+00:00
 -- url     : https://prove2.me/theorems/63059441-4d37-46b9-8d41-1a9c8096d0af

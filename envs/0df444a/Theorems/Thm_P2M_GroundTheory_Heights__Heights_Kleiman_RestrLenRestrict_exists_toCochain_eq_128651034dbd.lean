@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrLenRestrict_exists_toCochain_eq_128651034dbd
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrLenRestrict_exists_toCochain_eq_128651034dbd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:12:06.445357+00:00
 -- url     : https://prove2.me/theorems/a59adce0-9fdd-47ae-b82d-a9053de31b1b

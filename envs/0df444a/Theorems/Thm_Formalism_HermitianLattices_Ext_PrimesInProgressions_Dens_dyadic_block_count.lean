@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_dyadic_block_count
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.dyadic_block_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:40:40.279545+00:00
 -- url     : https://prove2.me/theorems/3dcf0c40-4c73-5143-8c26-69c3dfebf431

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finsum_log_iSup_algebraMap_ec5718db4e82
 -- name    : P2M_GroundTheory_Heights__Heights_finsum_log_iSup_algebraMap_ec5718db4e82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:04:05.889798+00:00
 -- url     : https://prove2.me/theorems/08b53306-2bf8-4cc9-b259-6aaf687b9f25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_tateZeroIncl_mk
 -- name    : GroundTheory.LocalField.Abstract.tateZeroIncl_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:47:50.517616+00:00
 -- url     : https://prove2.me/theorems/a441ed7b-7369-59bf-b5f4-6184a376dde0

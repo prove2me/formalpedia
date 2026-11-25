@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirabolicIndex__card_GL_eq_7b3d39d97820
 -- name    : P2M_PI_MirabolicIndex__card_GL_eq_7b3d39d97820
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:37.416794+00:00
 -- url     : https://prove2.me/theorems/9bd320fc-0959-4c71-bb00-b6948f9b49cb

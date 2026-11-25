@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinear_add_e19dd014d806
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_CurveIndexLinear_add_e19dd014d806
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:13.758085+00:00
 -- url     : https://prove2.me/theorems/1e66643c-3844-419c-b58f-096ce126c273

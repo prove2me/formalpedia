@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_unitary_leadCoordPlane_64ab9545e835
 -- name    : P2M_GroundTheory_Heights__Heights_exists_unitary_leadCoordPlane_64ab9545e835
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:52.419377+00:00
 -- url     : https://prove2.me/theorems/b05f21c1-083a-4793-a7b1-6d35da6aae21

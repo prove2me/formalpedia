@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Cz_pm_apply__4f09274ebe81
 -- name    : P2M_PositivityTheory_Rg_Cz_pm_apply__4f09274ebe81
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:10:27.645925+00:00
 -- url     : https://prove2.me/theorems/60bf451e-be9b-49ef-9cfb-aec7c4021c68

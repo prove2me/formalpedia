@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_fockDetCharInvariants_le_span_prodMaximalMinors
 -- name    : GlobalTheory.T.fockDetCharInvariants_le_span_prodMaximalMinors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:43:15.908196+00:00
 -- url     : https://prove2.me/theorems/749388f6-0f7b-459a-9561-b517e330c613

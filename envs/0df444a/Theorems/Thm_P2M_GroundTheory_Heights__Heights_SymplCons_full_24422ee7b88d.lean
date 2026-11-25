@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplCons_full_24422ee7b88d
 -- name    : P2M_GroundTheory_Heights__Heights_SymplCons_full_24422ee7b88d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:30:24.386797+00:00
 -- url     : https://prove2.me/theorems/fca6594e-b4f9-4e1f-944d-609f77d0541a

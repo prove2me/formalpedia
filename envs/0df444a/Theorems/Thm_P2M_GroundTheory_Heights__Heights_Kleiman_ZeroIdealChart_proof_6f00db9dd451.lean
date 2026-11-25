@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ZeroIdealChart_proof_6f00db9dd451
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ZeroIdealChart_proof_6f00db9dd451
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:31:35.010107+00:00
 -- url     : https://prove2.me/theorems/fbcb3d50-096b-55e2-b78a-3eab0d9172a4

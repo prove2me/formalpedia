@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_primeTube_exact_28d603f75be1
 -- name    : P2M_GroundTheory_Heights__Heights_primeTube_exact_28d603f75be1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:50:41.488681+00:00
 -- url     : https://prove2.me/theorems/0ce7ae30-4b40-5d78-a265-5ecb95ea1358

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_re_det_gram_proj_le_fin_76aed636b2ac
 -- name    : P2M_GroundTheory_Heights__Heights_re_det_gram_proj_le_fin_76aed636b2ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:40.525893+00:00
 -- url     : https://prove2.me/theorems/911aeac0-6bd2-4d64-bde6-abe1260d4633

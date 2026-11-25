@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mahler_C_02c18ff6a9ea
 -- name    : P2M_GroundTheory_Heights__Heights_mahler_C_02c18ff6a9ea
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:15.887465+00:00
 -- url     : https://prove2.me/theorems/d608618a-7101-40b9-9b37-358941f9ba56

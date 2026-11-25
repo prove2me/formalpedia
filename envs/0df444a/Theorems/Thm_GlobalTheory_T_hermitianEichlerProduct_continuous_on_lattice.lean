@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianEichlerProduct_continuous_on_lattice
 -- name    : GlobalTheory.T.hermitianEichlerProduct_continuous_on_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:44:09.792813+00:00
 -- url     : https://prove2.me/theorems/f7ae408b-c8c7-4def-9805-19642973e790

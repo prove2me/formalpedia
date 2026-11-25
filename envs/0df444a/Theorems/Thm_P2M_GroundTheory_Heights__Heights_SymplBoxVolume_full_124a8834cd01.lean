@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplBoxVolume_full_124a8834cd01
 -- name    : P2M_GroundTheory_Heights__Heights_SymplBoxVolume_full_124a8834cd01
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:30:59.493651+00:00
 -- url     : https://prove2.me/theorems/7f0527a9-497f-41e3-ad7d-a61c2bbdc1be

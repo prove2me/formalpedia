@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_PAdicHodge_TeichLift___mul_cancel_eaec830aa15d
 -- name    : P2M_GroundTheory_PAdicHodge_TeichLift___mul_cancel_eaec830aa15d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:09.855124+00:00
 -- url     : https://prove2.me/theorems/88af43a1-d8da-4f09-a882-a6f6b366459c

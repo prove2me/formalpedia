@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regMaxAt_isMaximal_3a22c1eb4bc0
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regMaxAt_isMaximal_3a22c1eb4bc0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:21.952513+00:00
 -- url     : https://prove2.me/theorems/2e025bc9-165b-4655-b6b5-1f7b3f34ae89

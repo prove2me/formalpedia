@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FixFrames_mem_perp_span
 -- name    : GlobalTheory.HL.FixFrames.mem_perp_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:46:31.013803+00:00
 -- url     : https://prove2.me/theorems/487930ba-0441-4ac2-a47a-6aa6f32d82c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_zeroIdeal_div_eq_12efe53c899f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_zeroIdeal_div_eq_12efe53c899f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:00:24.175168+00:00
 -- url     : https://prove2.me/theorems/a445b7ba-69ba-4419-a61e-3dc0a669605b

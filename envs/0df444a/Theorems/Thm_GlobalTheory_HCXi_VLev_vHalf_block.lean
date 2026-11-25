@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_VLev_vHalf_block
 -- name    : GlobalTheory.HCXi.VLev.vHalf_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:32:00.206328+00:00
 -- url     : https://prove2.me/theorems/4623405b-72e5-4fde-80be-a347e1daa039

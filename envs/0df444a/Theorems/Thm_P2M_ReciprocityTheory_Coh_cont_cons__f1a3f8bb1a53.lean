@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_Coh_cont_cons__f1a3f8bb1a53
 -- name    : P2M_ReciprocityTheory_Coh_cont_cons__f1a3f8bb1a53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:17:03.898684+00:00
 -- url     : https://prove2.me/theorems/a9b1f51e-8179-5fda-b002-0307fcd31fbc

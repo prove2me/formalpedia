@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplQuadDiag_full_a047aaed7512
 -- name    : P2M_GroundTheory_Heights__Heights_SymplQuadDiag_full_a047aaed7512
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:31:13.366808+00:00
 -- url     : https://prove2.me/theorems/170af6c8-1ba9-43f1-a171-a96078dca44b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplTwoRow_full_8e580cd05bd7
 -- name    : P2M_GroundTheory_Heights__Heights_SymplTwoRow_full_8e580cd05bd7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:30:25.019668+00:00
 -- url     : https://prove2.me/theorems/bb5f2e51-fb93-4154-ae83-9c596c3ba039

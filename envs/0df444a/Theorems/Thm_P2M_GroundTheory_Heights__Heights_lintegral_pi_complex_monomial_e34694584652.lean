@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_lintegral_pi_complex_monomial_e34694584652
 -- name    : P2M_GroundTheory_Heights__Heights_lintegral_pi_complex_monomial_e34694584652
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:48:05.661094+00:00
 -- url     : https://prove2.me/theorems/117de3c7-b7d9-4cc5-b4ac-802029e0a6a3

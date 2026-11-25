@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_A_PshInh_ii_sup__a1047692b6a9
 -- name    : P2M_ReciprocityTheory_AnForm_A_PshInh_ii_sup__a1047692b6a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:11:55.920525+00:00
 -- url     : https://prove2.me/theorems/9d34b55a-2ccc-427e-9a1f-0163d27e83a5

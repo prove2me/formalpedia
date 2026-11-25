@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_IsFlatOver_of_iso
 -- name    : GlobalTheory.QCoh.IsFlatOver.of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:13:27.622873+00:00
 -- url     : https://prove2.me/theorems/fc8b3eed-e638-4519-a060-9058c0c52521

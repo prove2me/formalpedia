@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormBirational_proof_0e59d74b380d
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormBirational_proof_0e59d74b380d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:42:48.383816+00:00
 -- url     : https://prove2.me/theorems/a5041257-5a9f-49f0-9300-62a598e02032

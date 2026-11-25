@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocPattern_D_ne
 -- name    : GlobalTheory.HL.LocPattern.D_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:18:47.688016+00:00
 -- url     : https://prove2.me/theorems/5621d984-13d7-42d6-a1b8-1787b68eff67

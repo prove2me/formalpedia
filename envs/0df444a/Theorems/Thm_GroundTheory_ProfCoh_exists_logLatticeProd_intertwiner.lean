@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_logLatticeProd_intertwiner
 -- name    : GroundTheory.ProfCoh.exists_logLatticeProd_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:51:52.416626+00:00
 -- url     : https://prove2.me/theorems/3c99aca6-6133-5c52-98f6-afd5a4d521ad

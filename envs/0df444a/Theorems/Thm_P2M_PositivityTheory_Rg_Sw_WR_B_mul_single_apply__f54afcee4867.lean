@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_WR_B_mul_single_apply__f54afcee4867
 -- name    : P2M_PositivityTheory_Rg_Sw_WR_B_mul_single_apply__f54afcee4867
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:10:35.238113+00:00
 -- url     : https://prove2.me/theorems/8993fbf7-0e65-48cf-9d22-77b806c062f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_evI_infIdele_self
 -- name    : PI.AlgValsFin.W.evI_infIdele_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:22:51.300193+00:00
 -- url     : https://prove2.me/theorems/3e54acfe-f1fd-5e32-a246-60c05bd71dac

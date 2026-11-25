@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_weierstrassP_two_mul
 -- name    : GroundTheory.Global.Elliptic.weierstrassP_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:49:09.285799+00:00
 -- url     : https://prove2.me/theorems/b8573b84-0a00-52da-8075-7f77c65c3d9b

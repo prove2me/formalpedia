@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_VolSemiDirect_W_mem__b6017dbedb26
 -- name    : P2M_PI_VolSemiDirect_W_mem__b6017dbedb26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:01:42.906813+00:00
 -- url     : https://prove2.me/theorems/b84e72fc-6ede-5d90-baea-0005b22e7a5a

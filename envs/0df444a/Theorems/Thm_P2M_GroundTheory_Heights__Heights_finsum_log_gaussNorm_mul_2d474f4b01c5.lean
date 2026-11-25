@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finsum_log_gaussNorm_mul_2d474f4b01c5
 -- name    : P2M_GroundTheory_Heights__Heights_finsum_log_gaussNorm_mul_2d474f4b01c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:03:59.340801+00:00
 -- url     : https://prove2.me/theorems/6e722606-c619-4f5a-ae12-bdf48ae6667e

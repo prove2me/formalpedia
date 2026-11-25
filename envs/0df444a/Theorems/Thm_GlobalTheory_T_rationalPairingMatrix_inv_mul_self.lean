@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_rationalPairingMatrix_inv_mul_self
 -- name    : GlobalTheory.T.rationalPairingMatrix_inv_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:32:50.223855+00:00
 -- url     : https://prove2.me/theorems/225b8d2f-d7c8-42b4-92b5-b24e3f0770db

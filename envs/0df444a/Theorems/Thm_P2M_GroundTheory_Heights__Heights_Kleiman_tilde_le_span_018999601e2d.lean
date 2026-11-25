@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_tilde_le_span_018999601e2d
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_tilde_le_span_018999601e2d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:44:03.813808+00:00
 -- url     : https://prove2.me/theorems/d6a5faee-29cc-4770-9754-f613b71c7bcd

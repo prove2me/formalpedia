@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_WR_Z_continuous_of__313b88c5b8d3
 -- name    : P2M_PositivityTheory_Rg_Sw_WR_Z_continuous_of__313b88c5b8d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:10:55.767555+00:00
 -- url     : https://prove2.me/theorems/74f802e2-3658-4464-b472-e2623c8c9758

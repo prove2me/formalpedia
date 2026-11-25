@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_lamA_coeff_mul_X
 -- name    : PI.AddIntG.Wk.lamA_coeff_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:22:08.443077+00:00
 -- url     : https://prove2.me/theorems/ae4b99ed-ea36-4084-a0cd-297053b1ccf3

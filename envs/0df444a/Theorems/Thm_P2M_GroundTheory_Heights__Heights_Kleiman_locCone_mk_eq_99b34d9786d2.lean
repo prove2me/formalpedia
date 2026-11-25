@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_locCone_mk_eq_99b34d9786d2
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_locCone_mk_eq_99b34d9786d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:44:37.774463+00:00
 -- url     : https://prove2.me/theorems/68ccaf04-70d7-5200-9ef5-ae47d1091969

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_PairUnfoldPf_gram_eq__2bfd1fc27962
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_PairUnfoldPf_gram_eq__2bfd1fc27962
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:14:45.221265+00:00
 -- url     : https://prove2.me/theorems/06de5a20-b9fc-4bb0-b9c4-dfbb437d7e66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_sectionsBaseLinear_apply
 -- name    : GlobalTheory.QCoh.sectionsBaseLinear_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:28:35.062491+00:00
 -- url     : https://prove2.me/theorems/88867a5c-bedb-40f6-8232-4a7e8d64e110

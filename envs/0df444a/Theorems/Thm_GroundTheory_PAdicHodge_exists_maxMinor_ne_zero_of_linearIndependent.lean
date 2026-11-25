@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_maxMinor_ne_zero_of_linearIndependent
 -- name    : GroundTheory.PAdicHodge.exists_maxMinor_ne_zero_of_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:46:44.258621+00:00
 -- url     : https://prove2.me/theorems/cb645771-7d62-4c5f-ac72-52a30a551aa7

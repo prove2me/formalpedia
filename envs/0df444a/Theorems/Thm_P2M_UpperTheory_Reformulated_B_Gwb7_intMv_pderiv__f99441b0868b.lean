@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Gwb7_intMv_pderiv__f99441b0868b
 -- name    : P2M_UpperTheory_Reformulated_B_Gwb7_intMv_pderiv__f99441b0868b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:21:09.817117+00:00
 -- url     : https://prove2.me/theorems/c0dedfe4-7da0-4fff-8da2-e084e53e1c74

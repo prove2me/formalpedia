@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_monos_mul_mem_twistMod_all_a09b6e3395b8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_monos_mul_mem_twistMod_all_a09b6e3395b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:06:05.449653+00:00
 -- url     : https://prove2.me/theorems/07f15a35-60ed-5333-aa2d-83a75127586e

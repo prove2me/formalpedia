@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocPattern_zh_loc
 -- name    : GlobalTheory.HL.LocPattern.zh_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:18:17.437264+00:00
 -- url     : https://prove2.me/theorems/cff536ba-fe71-448a-97e9-d67217aa5c71

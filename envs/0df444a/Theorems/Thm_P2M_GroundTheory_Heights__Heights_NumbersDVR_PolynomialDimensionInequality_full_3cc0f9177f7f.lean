@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PolynomialDimensionInequality_full_3cc0f9177f7f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PolynomialDimensionInequality_full_3cc0f9177f7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:25:04.271995+00:00
 -- url     : https://prove2.me/theorems/bfae2e06-a6a4-45b5-817c-63ddf27c56a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMean_integral_ballSet_neg_log_fst_5931faaa90cf
 -- name    : P2M_GroundTheory_Heights__Heights_SphereMean_integral_ballSet_neg_log_fst_5931faaa90cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:38:25.962907+00:00
 -- url     : https://prove2.me/theorems/8ba35810-716a-4cdd-8a65-346eaa76a5ba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplExtVecMul_full_cff591dd7f94
 -- name    : P2M_GroundTheory_Heights__Heights_SymplExtVecMul_full_cff591dd7f94
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:30:27.817985+00:00
 -- url     : https://prove2.me/theorems/b10a7973-0e22-4023-9106-4b6ad3e15c32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardModelDualRank_linIndep_05cf3734c663
 -- name    : P2M_GroundTheory_Heights__Heights_StandardModelDualRank_linIndep_05cf3734c663
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:40:14.854668+00:00
 -- url     : https://prove2.me/theorems/6d403191-9f06-474b-919c-88cb97ed5a6c

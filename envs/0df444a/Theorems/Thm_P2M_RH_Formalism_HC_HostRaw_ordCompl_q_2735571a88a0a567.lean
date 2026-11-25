@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_Formalism_HC_HostRaw_ordCompl_q_2735571a88a0a567
 -- name    : P2M_RH_Formalism_HC_HostRaw_ordCompl_q_2735571a88a0a567
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:14:14.401093+00:00
 -- url     : https://prove2.me/theorems/324a42ae-3075-4e01-93fd-3e5f07b4da3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryCorollaryDerivatives_PolynomialDegreeClosure_pd_add
 -- name    : PI.UnitaryCorollaryDerivatives.PolynomialDegreeClosure.pd_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:46:22.662931+00:00
 -- url     : https://prove2.me/theorems/7e2cc30f-ec8e-50ad-85c3-c9708866c828

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_latticeStabilizer_commensurable_unramified_hermitian
 -- name    : GlobalTheory.T.latticeStabilizer_commensurable_unramified_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:14:56.814111+00:00
 -- url     : https://prove2.me/theorems/bcae48ed-e2e5-4b2a-9daf-758419a86d86

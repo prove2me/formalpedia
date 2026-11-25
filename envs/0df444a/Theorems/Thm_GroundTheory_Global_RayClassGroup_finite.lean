@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_RayClassGroup_finite
 -- name    : GroundTheory.Global.RayClassGroup.finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:03:58.137483+00:00
 -- url     : https://prove2.me/theorems/38136e5c-9174-4169-8fed-c93b2bc0132e

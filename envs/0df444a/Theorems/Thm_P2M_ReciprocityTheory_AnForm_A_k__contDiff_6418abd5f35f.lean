@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_A_k__contDiff_6418abd5f35f
 -- name    : P2M_ReciprocityTheory_AnForm_A_k__contDiff_6418abd5f35f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:11:23.321589+00:00
 -- url     : https://prove2.me/theorems/0477e74d-2fca-56c2-95a6-8e8264671163

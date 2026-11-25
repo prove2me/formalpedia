@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Schur_det_pow_add_staircase_fd8121b8213d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Schur_det_pow_add_staircase_fd8121b8213d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:20:38.152911+00:00
 -- url     : https://prove2.me/theorems/cd77083d-7034-4bbf-8635-7ac503c152c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AmpRootCommon_det_unitri
 -- name    : PI.AmpRootCommon.det_unitri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:23:02.890552+00:00
 -- url     : https://prove2.me/theorems/3125d1f1-1563-4f33-8cf4-1373f6568e51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_mass_orbit_eq
 -- name    : GlobalTheory.HL.mass_orbit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:34:32.726258+00:00
 -- url     : https://prove2.me/theorems/43a254a2-08b2-4420-8106-464934662e42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ColonMultiHomog_full_3c31a3970a42
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ColonMultiHomog_full_3c31a3970a42
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:43:41.285338+00:00
 -- url     : https://prove2.me/theorems/a5e86fe8-6c4b-4882-9661-8c612afd02aa

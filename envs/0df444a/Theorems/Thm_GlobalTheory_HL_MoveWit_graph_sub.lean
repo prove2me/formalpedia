@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveWit_graph_sub
 -- name    : GlobalTheory.HL.MoveWit.graph_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:37:49.965704+00:00
 -- url     : https://prove2.me/theorems/5003a3ae-d926-4016-a75d-fef0fa3eb3b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Out_CubePf_comp_pzero__45013db932d5
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_Out_CubePf_comp_pzero__45013db932d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:56:01.847686+00:00
 -- url     : https://prove2.me/theorems/0f5fa0d6-af0e-5409-9ff3-c1ef1310c9a3

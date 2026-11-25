@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegrePartition_isDegZeroSmooth_rho_f620d4c5f71e
 -- name    : P2M_GroundTheory_Heights__Heights_SegrePartition_isDegZeroSmooth_rho_f620d4c5f71e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:37:29.082798+00:00
 -- url     : https://prove2.me/theorems/b61f4f32-869d-4eff-b431-64ad134283c0

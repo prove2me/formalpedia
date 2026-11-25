@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_A_GreenFunction_hasDerivAt_rad__ec5f7a31e028
 -- name    : P2M_ReciprocityTheory_AnForm_A_GreenFunction_hasDerivAt_rad__ec5f7a31e028
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:11:12.690183+00:00
 -- url     : https://prove2.me/theorems/d52d354f-126a-5523-acdd-c2345e8c8152

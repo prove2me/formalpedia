@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ProdFormulaE_Tr_valuation_natCast_le_one__3f84b4acff5c
 -- name    : P2M_PI_ProdFormulaE_Tr_valuation_natCast_le_one__3f84b4acff5c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:57:11.402092+00:00
 -- url     : https://prove2.me/theorems/d77b9255-363a-5825-84a3-2e9f4fb30b22

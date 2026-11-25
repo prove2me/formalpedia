@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_latticePoint_mem_5d2a33e3dc3b
 -- name    : P2M_GroundTheory_Heights__Heights_latticePoint_mem_5d2a33e3dc3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:48:16.168328+00:00
 -- url     : https://prove2.me/theorems/736cbe0f-da8d-4841-ace1-dc8b129e3b82

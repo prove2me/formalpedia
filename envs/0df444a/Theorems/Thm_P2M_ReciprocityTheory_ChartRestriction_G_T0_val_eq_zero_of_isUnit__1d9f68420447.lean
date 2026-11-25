@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_T0_val_eq_zero_of_isUnit__1d9f68420447
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_T0_val_eq_zero_of_isUnit__1d9f68420447
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:17:02.826562+00:00
 -- url     : https://prove2.me/theorems/5489c9b3-e6d1-5a24-956a-f24bc287fa51

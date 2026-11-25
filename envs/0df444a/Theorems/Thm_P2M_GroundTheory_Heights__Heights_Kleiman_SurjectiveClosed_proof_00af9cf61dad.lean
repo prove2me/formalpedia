@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SurjectiveClosed_proof_00af9cf61dad
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SurjectiveClosed_proof_00af9cf61dad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:21:32.1068+00:00
 -- url     : https://prove2.me/theorems/083b5bbb-5887-4ca0-b032-72994dd6d1bc

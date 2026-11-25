@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_var_zero_sub_var_one_ne
 -- name    : PI.AddIntG.Wk.var_zero_sub_var_one_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:23:21.995419+00:00
 -- url     : https://prove2.me/theorems/4da505fb-6a03-48d7-b278-d1b29000cd50

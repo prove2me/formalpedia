@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_structureRingHom_id
 -- name    : GlobalTheory.QCoh.structureRingHom_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:12:25.811561+00:00
 -- url     : https://prove2.me/theorems/4efa948f-6b88-51eb-8424-4447275a0ab4

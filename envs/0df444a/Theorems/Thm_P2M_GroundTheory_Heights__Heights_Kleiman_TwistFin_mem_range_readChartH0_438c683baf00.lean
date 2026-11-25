@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_mem_range_readChartH0_438c683baf00
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistFin_mem_range_readChartH0_438c683baf00
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:59:23.545347+00:00
 -- url     : https://prove2.me/theorems/6599fa75-2268-44be-a045-03478409ab91

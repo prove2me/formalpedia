@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_Tr_normAt_add_le__63c19bcf108d
 -- name    : P2M_PI_Dv_Tr_normAt_add_le__63c19bcf108d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:57:30.383584+00:00
 -- url     : https://prove2.me/theorems/adff3add-d152-42e2-92bc-4d2fbe82c3cd

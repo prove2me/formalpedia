@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isometriesFixingSubspace_le_quasiReflection_closure
 -- name    : GlobalTheory.T.isometriesFixingSubspace_le_quasiReflection_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:57.160039+00:00
 -- url     : https://prove2.me/theorems/8e6d30b5-0adb-42a8-a543-e36288b6b98a

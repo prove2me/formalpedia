@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_cpTwistRep_invariants_eq_bot
 -- name    : GroundTheory.PAdicHodge.cpTwistRep_invariants_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:10:09.018975+00:00
 -- url     : https://prove2.me/theorems/f7c2ecc9-622f-5683-8c70-6f0e3b46b20b

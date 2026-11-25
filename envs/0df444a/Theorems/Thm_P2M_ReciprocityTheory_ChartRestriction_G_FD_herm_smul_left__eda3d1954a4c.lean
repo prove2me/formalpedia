@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_herm_smul_left__eda3d1954a4c
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_herm_smul_left__eda3d1954a4c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:15:29.849852+00:00
 -- url     : https://prove2.me/theorems/abf1ce8a-4fb2-5e96-a9da-dee208e93f07

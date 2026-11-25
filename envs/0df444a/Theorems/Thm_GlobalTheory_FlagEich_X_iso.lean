@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagEich_X_iso
 -- name    : GlobalTheory.FlagEich.X_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:40:48.584918+00:00
 -- url     : https://prove2.me/theorems/94d5eacd-cd61-4214-8bf6-bb7a32004199

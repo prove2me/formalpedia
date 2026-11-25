@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_rt_G_map
 -- name    : PI.AddIntG.Wk.rt_G_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:22:05.965288+00:00
 -- url     : https://prove2.me/theorems/a4f0f675-255c-49d0-960b-c07c3f35e30b

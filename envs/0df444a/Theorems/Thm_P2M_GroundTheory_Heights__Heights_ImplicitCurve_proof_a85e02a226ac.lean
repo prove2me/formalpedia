@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ImplicitCurve_proof_a85e02a226ac
 -- name    : P2M_GroundTheory_Heights__Heights_ImplicitCurve_proof_a85e02a226ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:20.790042+00:00
 -- url     : https://prove2.me/theorems/9ef4d329-2805-572a-8a69-a90b6dfc999f

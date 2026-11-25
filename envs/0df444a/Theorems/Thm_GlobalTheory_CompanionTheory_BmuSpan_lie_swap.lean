@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuSpan_lie_swap
 -- name    : GlobalTheory.CompanionTheory.BmuSpan.lie_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:37:25.883141+00:00
 -- url     : https://prove2.me/theorems/f30b74dd-fa58-5661-a041-6a01a0a52623

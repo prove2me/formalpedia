@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_sqrt_nsq_eq_norm__fa929b459380
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_sqrt_nsq_eq_norm__fa929b459380
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:13:51.872107+00:00
 -- url     : https://prove2.me/theorems/24af7b29-5a94-4226-85ef-68343e36b1d0

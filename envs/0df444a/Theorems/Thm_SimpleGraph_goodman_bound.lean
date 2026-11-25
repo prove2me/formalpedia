@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_goodman_bound
 -- name    : SimpleGraph.goodman_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:31:10.492657+00:00
 -- url     : https://prove2.me/theorems/a33ee8ef-926e-4b14-8703-0fd6af850c0e

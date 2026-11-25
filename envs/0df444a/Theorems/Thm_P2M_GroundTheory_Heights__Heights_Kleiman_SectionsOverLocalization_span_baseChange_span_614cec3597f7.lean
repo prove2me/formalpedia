@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_span_baseChange_span_614cec3597f7
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_span_baseChange_span_614cec3597f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:15:22.935083+00:00
 -- url     : https://prove2.me/theorems/53c3a42d-c3d9-59be-8c40-15c4a4933088

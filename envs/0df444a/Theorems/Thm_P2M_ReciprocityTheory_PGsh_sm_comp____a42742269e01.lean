@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_sm_comp____a42742269e01
 -- name    : P2M_ReciprocityTheory_PGsh_sm_comp____a42742269e01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:18:23.957808+00:00
 -- url     : https://prove2.me/theorems/331928da-f6fe-5ebe-876d-b80326db55b8

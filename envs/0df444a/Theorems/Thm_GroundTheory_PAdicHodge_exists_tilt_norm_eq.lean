@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_tilt_norm_eq
 -- name    : GroundTheory.PAdicHodge.exists_tilt_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:42.782814+00:00
 -- url     : https://prove2.me/theorems/08008034-3434-4bc9-8742-7b918a250446

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_exists_monochromatic_book
 -- name    : SimpleGraph.exists_monochromatic_book
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:41:57.807842+00:00
 -- url     : https://prove2.me/theorems/2cab5260-63fa-514c-9247-bc8d5fde8d33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SubSystem_subsingleton_H_one_of_quot_7d14d325f023
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SubSystem_subsingleton_H_one_of_quot_7d14d325f023
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:24:50.222826+00:00
 -- url     : https://prove2.me/theorems/9e8e3bab-4324-42f7-8131-350609385689

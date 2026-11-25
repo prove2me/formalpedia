@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_dv_exists_lt_order_pow
 -- name    : PI.AddIntG.Wk.dv_exists_lt_order_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:21:50.652265+00:00
 -- url     : https://prove2.me/theorems/39c00670-4356-4d58-a7bf-003c6cd0aea2

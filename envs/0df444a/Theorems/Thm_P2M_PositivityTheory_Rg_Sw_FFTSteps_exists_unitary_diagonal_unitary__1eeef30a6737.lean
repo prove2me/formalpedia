@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_FFTSteps_exists_unitary_diagonal_unitary__1eeef30a6737
 -- name    : P2M_PositivityTheory_Rg_Sw_FFTSteps_exists_unitary_diagonal_unitary__1eeef30a6737
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:11:37.802683+00:00
 -- url     : https://prove2.me/theorems/187fe42d-6995-5755-82eb-0ec82091ee40

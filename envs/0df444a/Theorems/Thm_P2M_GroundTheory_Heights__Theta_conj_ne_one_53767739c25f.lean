@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_conj_ne_one_53767739c25f
 -- name    : P2M_GroundTheory_Heights__Theta_conj_ne_one_53767739c25f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:07.43381+00:00
 -- url     : https://prove2.me/theorems/966f5052-cca2-528b-a408-aa4574bc2b08

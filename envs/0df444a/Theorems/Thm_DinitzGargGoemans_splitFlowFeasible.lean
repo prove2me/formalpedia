@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DinitzGargGoemans_splitFlowFeasible
 -- name    : DinitzGargGoemans.splitFlowFeasible
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:45:48.832139+00:00
 -- url     : https://prove2.me/theorems/36cde85e-922b-4fc3-b5d7-945bb61a47d5

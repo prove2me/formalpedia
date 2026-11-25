@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_latticeMap_intComb_ac9dfce53bdd
 -- name    : P2M_GroundTheory_Heights__Heights_latticeMap_intComb_ac9dfce53bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:47:51.098795+00:00
 -- url     : https://prove2.me/theorems/129fd6ba-af1d-481b-854b-f3bf4cb17931

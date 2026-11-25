@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_maDensity_eq_zero_of_eventually_4e0ac8d1e147
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_maDensity_eq_zero_of_eventually_4e0ac8d1e147
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:51.44487+00:00
 -- url     : https://prove2.me/theorems/d4e506da-79a0-409a-a9f8-a48564586e6f

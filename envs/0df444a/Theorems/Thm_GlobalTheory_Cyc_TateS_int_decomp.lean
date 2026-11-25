@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_int_decomp
 -- name    : GlobalTheory.Cyc.TateS.int_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:21:24.602863+00:00
 -- url     : https://prove2.me/theorems/02e76aa8-31f8-4f27-8ed1-2f8ccada8290

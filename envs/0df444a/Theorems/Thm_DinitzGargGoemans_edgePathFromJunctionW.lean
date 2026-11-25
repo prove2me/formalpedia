@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DinitzGargGoemans_edgePathFromJunctionW
 -- name    : DinitzGargGoemans.edgePathFromJunctionW
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:49:50.893627+00:00
 -- url     : https://prove2.me/theorems/a22772a4-f3bb-4140-82a3-302d967e56c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StTri_frame_tri
 -- name    : GlobalTheory.HL.StTri.frame_tri
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:45:56.394026+00:00
 -- url     : https://prove2.me/theorems/9d2f92b1-7c1c-4c2e-9640-e8e082539bfe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_ExF_neg_of_perp__512163f6e248
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_ExF_neg_of_perp__512163f6e248
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:13:47.857547+00:00
 -- url     : https://prove2.me/theorems/8418eae2-f171-5c69-bade-101bc280f712

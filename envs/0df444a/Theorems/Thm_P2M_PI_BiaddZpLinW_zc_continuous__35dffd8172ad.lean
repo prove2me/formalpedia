@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_BiaddZpLinW_zc_continuous__35dffd8172ad
 -- name    : P2M_PI_BiaddZpLinW_zc_continuous__35dffd8172ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:37.293345+00:00
 -- url     : https://prove2.me/theorems/23107d22-d114-4ef0-8197-1031e59ce2ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_MultiplicativeHeights_differentiableOn_finset_prod__599928e8b47e
 -- name    : P2M_ReciprocityTheory_MultiplicativeHeights_differentiableOn_finset_prod__599928e8b47e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:17:43.683905+00:00
 -- url     : https://prove2.me/theorems/ae3eddf0-591d-4afb-9c71-a06897db507a

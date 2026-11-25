@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frameLattice_gramDet_and_minors_orbit_invariant
 -- name    : GlobalTheory.T.frameLattice_gramDet_and_minors_orbit_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:15:39.275008+00:00
 -- url     : https://prove2.me/theorems/e34c78c2-b8c5-4227-baf4-f552f8525bc8

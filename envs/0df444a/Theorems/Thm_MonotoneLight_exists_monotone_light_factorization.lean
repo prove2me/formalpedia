@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneLight_exists_monotone_light_factorization
 -- name    : MonotoneLight.exists_monotone_light_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:41:42.746053+00:00
 -- url     : https://prove2.me/theorems/0aa0dcad-ff24-4097-8fb2-41a823cb44fa

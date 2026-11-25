@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_coeff_mul_memS
 -- name    : PI.AddIntG.Wk.coeff_mul_memS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:22:12.032988+00:00
 -- url     : https://prove2.me/theorems/97ad70e4-14e5-4ad3-94e1-733da2d00777

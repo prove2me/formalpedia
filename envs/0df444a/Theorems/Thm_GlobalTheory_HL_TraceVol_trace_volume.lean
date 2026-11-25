@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TraceVol_trace_volume
 -- name    : GlobalTheory.HL.TraceVol.trace_volume
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:39:43.195637+00:00
 -- url     : https://prove2.me/theorems/885fb884-fe01-58d6-be60-f64c413b5d58

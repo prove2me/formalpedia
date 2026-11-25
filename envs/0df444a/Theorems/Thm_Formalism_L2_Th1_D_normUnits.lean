@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_normUnits
 -- name    : Formalism.L2.Th1.D.normUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:50:48.391913+00:00
 -- url     : https://prove2.me/theorems/c7ac945d-52c6-45cf-ae5f-ccbe23e8caff

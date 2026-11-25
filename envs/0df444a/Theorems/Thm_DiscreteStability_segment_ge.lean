@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_segment_ge
 -- name    : DiscreteStability.segment_ge
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:38:08.366708+00:00
 -- url     : https://prove2.me/theorems/4a276756-5a81-4c68-95c6-8c1bffa49e3b

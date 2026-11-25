@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qj19_lin_bound__4cd42ebca5d2
 -- name    : P2M_UpperTheory_Reformulated_B_Qj19_lin_bound__4cd42ebca5d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:21:26.512647+00:00
 -- url     : https://prove2.me/theorems/894bc1af-6d18-5ac2-9e09-ca02a4f6cf95

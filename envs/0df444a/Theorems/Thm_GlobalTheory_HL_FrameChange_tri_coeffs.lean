@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameChange_tri_coeffs
 -- name    : GlobalTheory.HL.FrameChange.tri_coeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:33:16.770374+00:00
 -- url     : https://prove2.me/theorems/433c59a1-827c-4ac4-bdaf-3a45da420c0a

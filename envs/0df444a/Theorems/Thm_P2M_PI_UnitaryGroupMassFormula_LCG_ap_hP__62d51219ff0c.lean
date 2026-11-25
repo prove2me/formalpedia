@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_LCG_ap_hP__62d51219ff0c
 -- name    : P2M_PI_UnitaryGroupMassFormula_LCG_ap_hP__62d51219ff0c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:00:54.784199+00:00
 -- url     : https://prove2.me/theorems/8c76fbfa-6c02-5ce5-a567-a5c328be05bd

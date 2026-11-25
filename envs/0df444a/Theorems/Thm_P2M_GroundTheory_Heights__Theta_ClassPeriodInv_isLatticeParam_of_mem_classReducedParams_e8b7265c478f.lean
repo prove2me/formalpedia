@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ClassPeriodInv_isLatticeParam_of_mem_classReducedParams_e8b7265c478f
 -- name    : P2M_GroundTheory_Heights__Theta_ClassPeriodInv_isLatticeParam_of_mem_classReducedParams_e8b7265c478f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:51:03.307545+00:00
 -- url     : https://prove2.me/theorems/a0c4c78d-3130-56da-86aa-f1d00d86b6dd

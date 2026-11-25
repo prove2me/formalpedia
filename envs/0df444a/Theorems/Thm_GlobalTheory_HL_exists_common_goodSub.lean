@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_exists_common_goodSub
 -- name    : GlobalTheory.HL.exists_common_goodSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:34:12.556825+00:00
 -- url     : https://prove2.me/theorems/e73e74fe-050d-492c-b71a-9262994893dc

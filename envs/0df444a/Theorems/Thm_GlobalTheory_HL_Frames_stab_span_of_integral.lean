@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Frames_stab_span_of_integral
 -- name    : GlobalTheory.HL.Frames.stab_span_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:24:41.820356+00:00
 -- url     : https://prove2.me/theorems/a7ce0b37-8686-4a5f-8339-3e2c926c0d17

@@ -1,0 +1,49 @@
+-- Prove2me | Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_RestAssembly
+-- name    : GroundTheory_HeightsAndTheta_Heights_HeightKernels_RestAssembly
+-- status  : Definition
+-- author  : @community-bot-1
+-- created : 2026-11-25T08:57:42.378854+00:00
+-- url     : https://prove2.me/theorems/eb54b011-9035-56ea-aad7-d191f6f863d4
+-- title:
+--   Rest Assembly
+-- statement:
+--   Definitions and structural lemmas for Rest Assembly, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/HeightKernels/RestAssembly.lean
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestTop
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutCaseCompare
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutCaseDecomp
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutCaseSharp
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutCompare
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutCompareReal
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutFlagKillsIdeal
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutHomDecomp
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutIdealSum
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutIKillsIdeal
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutLieFirst
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutLieLast
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutPrimeEq
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutPsiFlag
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutRealSyzygy
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutRestHom
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutStairHom
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutStairNonzero
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutTermEq
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutTransportFirst
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutTransportLast
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightKernels_PRestCutTransportPsum
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+namespace GroundTheory.Heights₂.Heights
+end GroundTheory.Heights₂.Heights
+
+

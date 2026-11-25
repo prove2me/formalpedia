@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_step_weighted
 -- name    : DiscreteStability.step_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:38:11.567522+00:00
 -- url     : https://prove2.me/theorems/c47e1e15-af39-464f-8f57-4a5223e05120

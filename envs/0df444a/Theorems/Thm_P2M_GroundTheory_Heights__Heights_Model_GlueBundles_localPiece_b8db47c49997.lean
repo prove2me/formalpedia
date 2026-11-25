@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_GlueBundles_localPiece_b8db47c49997
 -- name    : P2M_GroundTheory_Heights__Heights_Model_GlueBundles_localPiece_b8db47c49997
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:45.157251+00:00
 -- url     : https://prove2.me/theorems/cfa04d97-2c8a-48e7-9cc8-8d7687341e70

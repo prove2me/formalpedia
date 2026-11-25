@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_dimH_le_of_step_48bf16722c9a
 -- name    : P2M_GroundTheory_Heights__Heights_ZeroLocusDimH_dimH_le_of_step_48bf16722c9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:44:05.079799+00:00
 -- url     : https://prove2.me/theorems/2290f46e-1380-4d4c-9318-fa0f5f517927

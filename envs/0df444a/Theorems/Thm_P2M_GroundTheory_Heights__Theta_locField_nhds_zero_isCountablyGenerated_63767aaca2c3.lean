@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_locField_nhds_zero_isCountablyGenerated_63767aaca2c3
 -- name    : P2M_GroundTheory_Heights__Theta_locField_nhds_zero_isCountablyGenerated_63767aaca2c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:52.49699+00:00
 -- url     : https://prove2.me/theorems/6582509e-3e13-4ee5-90dd-2d8581d15659

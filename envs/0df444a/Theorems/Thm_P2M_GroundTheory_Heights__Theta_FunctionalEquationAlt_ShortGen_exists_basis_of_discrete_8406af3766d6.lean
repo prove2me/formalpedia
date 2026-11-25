@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_exists_basis_of_discrete_8406af3766d6
 -- name    : P2M_GroundTheory_Heights__Theta_FunctionalEquationAlt_ShortGen_exists_basis_of_discrete_8406af3766d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:09:24.08617+00:00
 -- url     : https://prove2.me/theorems/24d154fd-3d9b-5c1f-9710-a12066cfd246

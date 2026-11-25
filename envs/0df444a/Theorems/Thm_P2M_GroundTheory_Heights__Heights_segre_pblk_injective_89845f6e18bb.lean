@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_segre_pblk_injective_89845f6e18bb
 -- name    : P2M_GroundTheory_Heights__Heights_segre_pblk_injective_89845f6e18bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:51:06.189297+00:00
 -- url     : https://prove2.me/theorems/bb26983a-e4d8-4747-a297-9d3f0e321388

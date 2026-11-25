@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_frameUnipotent_exchanging_dual_isotropic
 -- name    : GlobalTheory.T.exists_frameUnipotent_exchanging_dual_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:31:45.012477+00:00
 -- url     : https://prove2.me/theorems/ba406417-888f-419a-84b3-58f809d84077

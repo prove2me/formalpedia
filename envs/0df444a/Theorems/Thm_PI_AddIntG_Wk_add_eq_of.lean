@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_add_eq_of
 -- name    : PI.AddIntG.Wk.add_eq_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:21:42.261682+00:00
 -- url     : https://prove2.me/theorems/25396154-4914-4550-9436-b19328e68930

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_ElementDenominator_eltDen__8ca64acdbeb6
 -- name    : P2M_UpperTheory_Reformulated_B_ElementDenominator_eltDen__8ca64acdbeb6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:21:22.176799+00:00
 -- url     : https://prove2.me/theorems/5cabd0c9-cc2f-4919-b4e6-20f0f3d43f4b

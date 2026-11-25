@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pairing_second_type_test_on_representatives
 -- name    : GlobalTheory.T.pairing_second_type_test_on_representatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:56.555122+00:00
 -- url     : https://prove2.me/theorems/52f9d0e0-71be-4580-8d2f-9f52a92d6a96

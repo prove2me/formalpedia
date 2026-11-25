@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DinitzGargGoemans_noWeakDggRounding
 -- name    : DinitzGargGoemans.noWeakDggRounding
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:45:51.698169+00:00
 -- url     : https://prove2.me/theorems/55cd47c7-0aa2-4e82-9324-c3a24bda4e57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isCohenMacaulayLocalRing_quotient_iff_of_isRegularLocalRing_3eacb56911f2
 -- name    : P2M_GroundTheory_Heights__Heights_isCohenMacaulayLocalRing_quotient_iff_of_isRegularLocalRing_3eacb56911f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:47:46.633699+00:00
 -- url     : https://prove2.me/theorems/94c67e4f-d235-4e95-a72a-ae031abd4837

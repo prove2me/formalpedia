@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_qq
 -- name    : GlobalTheory.DegCnt.LiftS.qq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:28:35.570974+00:00
 -- url     : https://prove2.me/theorems/5a7ef9db-d841-5155-be29-b720ce3f9a94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FixFrames_conj_unipOn
 -- name    : GlobalTheory.HL.FixFrames.conj_unipOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:46:14.979433+00:00
 -- url     : https://prove2.me/theorems/35018df1-270b-542b-a61e-42a7e50ed757

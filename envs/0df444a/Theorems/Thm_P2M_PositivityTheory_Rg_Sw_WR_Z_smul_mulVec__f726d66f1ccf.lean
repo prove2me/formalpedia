@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_WR_Z_smul_mulVec__f726d66f1ccf
 -- name    : P2M_PositivityTheory_Rg_Sw_WR_Z_smul_mulVec__f726d66f1ccf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:10:48.002201+00:00
 -- url     : https://prove2.me/theorems/8eb3ad08-a3e7-4766-bc80-ec234610debd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_WR_Ib_herm_apply__3d4eedff4794
 -- name    : P2M_PositivityTheory_Rg_Sw_WR_Ib_herm_apply__3d4eedff4794
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:10:48.838268+00:00
 -- url     : https://prove2.me/theorems/a83ff379-1b80-47e7-a718-f9ed26e02a1a

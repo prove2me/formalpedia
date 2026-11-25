@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_L2DbarEstimates_F_FlatWeightedEstimates_dop_sb__0996b08225dc
 -- name    : P2M_ReciprocityTheory_L2DbarEstimates_F_FlatWeightedEstimates_dop_sb__0996b08225dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:17:52.942343+00:00
 -- url     : https://prove2.me/theorems/6a988c03-4c9f-4f98-84df-cdfcd441a770

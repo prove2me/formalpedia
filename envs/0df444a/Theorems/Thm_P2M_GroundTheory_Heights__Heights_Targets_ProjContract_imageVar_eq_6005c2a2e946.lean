@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ProjContract_imageVar_eq_6005c2a2e946
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ProjContract_imageVar_eq_6005c2a2e946
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:07:00.450881+00:00
 -- url     : https://prove2.me/theorems/c62fa4f9-afff-41d7-a8f4-74b9b088b7c2

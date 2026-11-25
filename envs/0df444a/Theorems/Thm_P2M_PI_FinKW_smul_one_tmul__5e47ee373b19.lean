@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_FinKW_smul_one_tmul__5e47ee373b19
 -- name    : P2M_PI_FinKW_smul_one_tmul__5e47ee373b19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:57:06.064939+00:00
 -- url     : https://prove2.me/theorems/5d2c79c0-81e9-4301-9616-7744327cf152

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ZW_finsum_mem_le_finsum_mem__57f47eb1a398
 -- name    : P2M_PI_ZW_finsum_mem_le_finsum_mem__57f47eb1a398
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:02:02.973742+00:00
 -- url     : https://prove2.me/theorems/b7d27595-e745-4761-9cdc-17df86255f3b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isMultiHomogIdeal_sup_span_844f7f9a9bdb87ce
 -- name    : P2M_RH_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isMultiHomogIdeal_sup_span_844f7f9a9bdb87ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:56:26.207106+00:00
 -- url     : https://prove2.me/theorems/49e84115-31ef-4402-b36f-42f6c999514b

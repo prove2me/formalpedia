@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_latticeStabilizer_inf_le_conj_normalisingSubgroup
 -- name    : GlobalTheory.T.latticeStabilizer_inf_le_conj_normalisingSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:57:13.472931+00:00
 -- url     : https://prove2.me/theorems/60eff020-d8ee-5271-bb19-b012cd70dfb7

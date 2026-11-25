@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_UnramInt_main
 -- name    : GlobalTheory.JR.UnramInt.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:43:26.693848+00:00
 -- url     : https://prove2.me/theorems/97fc35a9-acda-4413-b765-03429f038404

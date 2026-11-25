@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_factorAd_apply__c08584207034
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_factorAd_apply__c08584207034
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:12:39.766543+00:00
 -- url     : https://prove2.me/theorems/39dca504-13a3-4a33-afe2-66c80426756f

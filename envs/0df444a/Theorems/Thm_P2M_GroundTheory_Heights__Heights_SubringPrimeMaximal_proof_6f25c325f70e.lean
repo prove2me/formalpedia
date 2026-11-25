@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SubringPrimeMaximal_proof_6f25c325f70e
 -- name    : P2M_GroundTheory_Heights__Heights_SubringPrimeMaximal_proof_6f25c325f70e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:22:46.545277+00:00
 -- url     : https://prove2.me/theorems/9c1e3247-00a3-4646-89cb-dca132dc2947

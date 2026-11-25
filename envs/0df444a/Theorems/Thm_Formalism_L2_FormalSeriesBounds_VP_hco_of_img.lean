@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_hco_of_img
 -- name    : Formalism.L2.FormalSeriesBounds.VP.hco_of_img
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:47:19.552605+00:00
 -- url     : https://prove2.me/theorems/32c7f153-5347-519e-bf74-f4d7e5bd6560

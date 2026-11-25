@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_offdiag_term
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.offdiag_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:35:16.44781+00:00
 -- url     : https://prove2.me/theorems/2274065b-674e-4f4e-b85c-1b70b5e371f3

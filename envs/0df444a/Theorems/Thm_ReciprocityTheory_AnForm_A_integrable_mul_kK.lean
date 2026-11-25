@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_integrable_mul_kK
 -- name    : ReciprocityTheory.AnForm.A.integrable_mul_kK
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:33:17.730665+00:00
 -- url     : https://prove2.me/theorems/484b06a6-d9f4-4c84-b19e-2cec78a47bfe

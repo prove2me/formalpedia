@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tateCup___left_7b2ba62b5fc0
 -- name    : P2M_GroundTheory_GroupCoh_tateCup___left_7b2ba62b5fc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:52:17.154516+00:00
 -- url     : https://prove2.me/theorems/02490bd6-04e1-56cb-9045-0eec8d55879d

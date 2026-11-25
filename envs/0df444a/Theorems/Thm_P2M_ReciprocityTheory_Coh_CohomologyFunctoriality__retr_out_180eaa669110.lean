@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_Coh_CohomologyFunctoriality__retr_out_180eaa669110
 -- name    : P2M_ReciprocityTheory_Coh_CohomologyFunctoriality__retr_out_180eaa669110
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:17:26.936444+00:00
 -- url     : https://prove2.me/theorems/d6db7ff3-3394-50f5-ac13-a49ffbb168fc

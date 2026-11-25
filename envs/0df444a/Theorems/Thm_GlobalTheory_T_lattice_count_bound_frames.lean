@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lattice_count_bound_frames
 -- name    : GlobalTheory.T.lattice_count_bound_frames
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:47:13.436478+00:00
 -- url     : https://prove2.me/theorems/119d08d2-be77-401f-900d-131a574e305a

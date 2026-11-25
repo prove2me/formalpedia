@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_eq_maxCompact_of_isCompact_2b5a34383dd9
 -- name    : P2M_GroundTheory_Heights__Theta_eq_maxCompact_of_isCompact_2b5a34383dd9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:29.681776+00:00
 -- url     : https://prove2.me/theorems/d8decc55-8825-559d-a494-5a51dfd53826

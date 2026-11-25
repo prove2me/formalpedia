@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_TB_ValAt_valAt__sub_69b16cdcbcca
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_TB_ValAt_valAt__sub_69b16cdcbcca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:17:58.464157+00:00
 -- url     : https://prove2.me/theorems/d4ec826a-ac9c-42af-afdd-a9066d2ad148

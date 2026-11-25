@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsChowForm_degrees_eq_e2d80fd5d845
 -- name    : P2M_GroundTheory_Heights__Heights_IsChowForm_degrees_eq_e2d80fd5d845
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:32:55.499203+00:00
 -- url     : https://prove2.me/theorems/c3501a79-519a-4fbd-b372-031ebf098380

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplGcd_full_0e86f68fd859
 -- name    : P2M_GroundTheory_Heights__Heights_SymplGcd_full_0e86f68fd859
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:30:57.685802+00:00
 -- url     : https://prove2.me/theorems/844a1db7-1d6e-4a8e-8525-76cf9abb58e7

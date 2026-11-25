@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isWeightedHomogeneous_inGroup_of_dvd_78c37585d297
 -- name    : P2M_GroundTheory_Heights__Heights_isWeightedHomogeneous_inGroup_of_dvd_78c37585d297
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:47:16.255713+00:00
 -- url     : https://prove2.me/theorems/45d30d15-b696-4358-aaea-1cc966b800af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_integrable_ball_2bd9babf2f75
 -- name    : P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_integrable_ball_2bd9babf2f75
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:11.445424+00:00
 -- url     : https://prove2.me/theorems/cfde11dd-3995-4690-b95b-5b3e557844da

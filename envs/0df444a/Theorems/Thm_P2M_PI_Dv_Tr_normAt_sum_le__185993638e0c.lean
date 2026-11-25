@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_Tr_normAt_sum_le__185993638e0c
 -- name    : P2M_PI_Dv_Tr_normAt_sum_le__185993638e0c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:13:30.628267+00:00
 -- url     : https://prove2.me/theorems/f369bf4f-25ff-4edb-8f20-e67137a699cf

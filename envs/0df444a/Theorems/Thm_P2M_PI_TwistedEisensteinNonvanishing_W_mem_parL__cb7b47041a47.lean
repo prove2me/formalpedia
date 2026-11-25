@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_TwistedEisensteinNonvanishing_W_mem_parL__cb7b47041a47
 -- name    : P2M_PI_TwistedEisensteinNonvanishing_W_mem_parL__cb7b47041a47
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:58:40.621727+00:00
 -- url     : https://prove2.me/theorems/794814d7-7f14-4940-93fb-bee786f6ece1

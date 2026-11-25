@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_sphereIntegrable_log_6df905eb445b
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_sphereIntegrable_log_6df905eb445b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:42:43.209901+00:00
 -- url     : https://prove2.me/theorems/996546c0-5947-41d7-84a8-c6c18b0f46b0

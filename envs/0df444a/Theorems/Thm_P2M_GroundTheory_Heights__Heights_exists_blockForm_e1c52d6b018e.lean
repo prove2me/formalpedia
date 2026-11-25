@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_blockForm_e1c52d6b018e
 -- name    : P2M_GroundTheory_Heights__Heights_exists_blockForm_e1c52d6b018e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:46:04.730816+00:00
 -- url     : https://prove2.me/theorems/0bce5f8b-c8da-47f5-90cb-ad21ed421ea8

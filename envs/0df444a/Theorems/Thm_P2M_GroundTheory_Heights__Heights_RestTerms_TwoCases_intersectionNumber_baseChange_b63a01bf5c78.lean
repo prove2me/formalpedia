@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_TwoCases_intersectionNumber_baseChange_b63a01bf5c78
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_TwoCases_intersectionNumber_baseChange_b63a01bf5c78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:47:30.069907+00:00
 -- url     : https://prove2.me/theorems/77ababb9-c79a-4d93-b1c0-a24d7f05a9f3

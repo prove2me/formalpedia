@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocCongApprox_approx_int
 -- name    : GlobalTheory.HL.LocCongApprox.approx_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:32:17.238802+00:00
 -- url     : https://prove2.me/theorems/326f51e5-ab13-498f-b20f-c1898ab948a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_MultAtPrimeAtMinimal_full_a6913b264424
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_MultAtPrimeAtMinimal_full_a6913b264424
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:14.593862+00:00
 -- url     : https://prove2.me/theorems/615948ee-c14c-459f-80b6-545f1c3550d4

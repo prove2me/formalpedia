@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ParahoricIdxZ_W_reindex_apply__499c1ad8652f
 -- name    : P2M_PI_ParahoricIdxZ_W_reindex_apply__499c1ad8652f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:58.334833+00:00
 -- url     : https://prove2.me/theorems/a61b677e-2c86-56d3-ab6c-53104c70b081

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Comparison__tops_sum_c56a8a9dec6b
 -- name    : P2M_UpperTheory_Comparison__tops_sum_c56a8a9dec6b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:22:29.637911+00:00
 -- url     : https://prove2.me/theorems/1b86b56b-a23b-45bb-bc1d-eb52475f2277

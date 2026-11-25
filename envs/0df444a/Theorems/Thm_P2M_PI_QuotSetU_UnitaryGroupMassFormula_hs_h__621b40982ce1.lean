@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_QuotSetU_UnitaryGroupMassFormula_hs_h__621b40982ce1
 -- name    : P2M_PI_QuotSetU_UnitaryGroupMassFormula_hs_h__621b40982ce1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:57:17.84953+00:00
 -- url     : https://prove2.me/theorems/4eb157a7-7949-5a7a-8991-8ec75d179ed9

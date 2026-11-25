@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_T0_card_subtype_ne__b7d507f1ac51
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_T0_card_subtype_ne__b7d507f1ac51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:17:03.981471+00:00
 -- url     : https://prove2.me/theorems/2db9f235-aefb-5c50-b419-3efcecd36be1

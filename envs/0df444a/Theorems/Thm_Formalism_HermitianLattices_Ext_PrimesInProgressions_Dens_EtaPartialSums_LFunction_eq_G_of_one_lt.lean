@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_Dens_EtaPartialSums_LFunction_eq_G_of_one_lt
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.Dens.EtaPartialSums.LFunction_eq_G_of_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:15:04.387299+00:00
 -- url     : https://prove2.me/theorems/3e5f3943-b562-535a-88dc-3700fc3b6ea0

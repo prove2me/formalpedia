@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_isSumTriple_addXYZ
 -- name    : GlobalTheory.WeierstrassCurve.isSumTriple_addXYZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:49:59.520454+00:00
 -- url     : https://prove2.me/theorems/468dead4-5089-4a2d-9cee-faf0e223a21c

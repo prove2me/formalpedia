@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_rt_Acf_ne
 -- name    : PI.AddIntG.Wk.rt_Acf_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:22:44.575124+00:00
 -- url     : https://prove2.me/theorems/e4132273-671b-56bb-ae00-5e129418a533

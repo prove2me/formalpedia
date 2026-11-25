@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_embedding_unique_b9cdebcc18ce
 -- name    : P2M_GroundTheory_Heights__Heights_embedding_unique_b9cdebcc18ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:49:52.05599+00:00
 -- url     : https://prove2.me/theorems/382ed75c-5de4-5f24-bc7b-4c5cab2ff471

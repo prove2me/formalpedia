@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_isTransverseSliceAt_iff_4bf6e33116db
 -- name    : P2M_GroundTheory_Heights__Heights_TransverseSliceGeneral_isTransverseSliceAt_iff_4bf6e33116db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:13.003228+00:00
 -- url     : https://prove2.me/theorems/15a7349a-6325-5514-801a-2425da8af629

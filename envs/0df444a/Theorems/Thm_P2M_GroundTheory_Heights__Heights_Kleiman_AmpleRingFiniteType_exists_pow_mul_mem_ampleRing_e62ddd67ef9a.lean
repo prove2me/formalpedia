@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_AmpleRingFiniteType_exists_pow_mul_mem_ampleRing_e62ddd67ef9a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_AmpleRingFiniteType_exists_pow_mul_mem_ampleRing_e62ddd67ef9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:52:57.110601+00:00
 -- url     : https://prove2.me/theorems/c20188fa-04eb-54e4-b926-30dc05767c13

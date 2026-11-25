@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOpen_identityComponents_smooth_groupScheme
 -- name    : GlobalTheory.T.isOpen_identityComponents_smooth_groupScheme
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:06:25.172455+00:00
 -- url     : https://prove2.me/theorems/980f6b43-8b9f-4048-944f-eb26798fb24e

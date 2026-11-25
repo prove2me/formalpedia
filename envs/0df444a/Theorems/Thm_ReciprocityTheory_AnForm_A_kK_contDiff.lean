@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_kK_contDiff
 -- name    : ReciprocityTheory.AnForm.A.kK_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:33:20.027502+00:00
 -- url     : https://prove2.me/theorems/6d9f4e5b-7362-48d4-b995-9b3997f8ea19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_trace_gaussQ_11da65445202
 -- name    : P2M_GroundTheory_Heights__Theta_trace_gaussQ_11da65445202
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:54:21.446401+00:00
 -- url     : https://prove2.me/theorems/e35acec8-190c-413c-9f11-23d7def2d415

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_GlobalTheory_UnitLemma_Desc_isIntegral_sigma_9c63cf01f25c1776
 -- name    : P2M_RH_GlobalTheory_UnitLemma_Desc_isIntegral_sigma_9c63cf01f25c1776
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:11:28.056137+00:00
 -- url     : https://prove2.me/theorems/c04d99c5-8cbc-52eb-b7ac-a2cd867460c1

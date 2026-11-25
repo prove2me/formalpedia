@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_CA_isRegular_map_algebraMap_iff__349db2931422
 -- name    : P2M_ReciprocityTheory_CA_isRegular_map_algebraMap_iff__349db2931422
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:11:38.891217+00:00
 -- url     : https://prove2.me/theorems/113ca9f2-f9f0-4c11-ac77-af7e8af40469

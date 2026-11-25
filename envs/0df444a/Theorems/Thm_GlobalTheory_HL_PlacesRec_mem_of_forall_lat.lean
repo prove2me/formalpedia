@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesRec_mem_of_forall_lat
 -- name    : GlobalTheory.HL.PlacesRec.mem_of_forall_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:37:32.321505+00:00
 -- url     : https://prove2.me/theorems/74651418-9d77-5f18-bbcd-4ccdc605c3b6

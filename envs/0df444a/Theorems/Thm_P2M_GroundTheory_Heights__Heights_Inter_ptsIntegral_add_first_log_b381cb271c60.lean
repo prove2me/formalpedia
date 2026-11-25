@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ptsIntegral_add_first_log_b381cb271c60
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ptsIntegral_add_first_log_b381cb271c60
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:27:09.958847+00:00
 -- url     : https://prove2.me/theorems/9b7bf713-702b-4386-8ece-ef77c7db14ef

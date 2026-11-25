@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrontierMathLean_dimitrovConjecture1_real
 -- name    : FrontierMathLean.dimitrovConjecture1_real
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:47:22.76958+00:00
 -- url     : https://prove2.me/theorems/6a7029e7-6f43-4e0b-8745-4614edc6cdc2

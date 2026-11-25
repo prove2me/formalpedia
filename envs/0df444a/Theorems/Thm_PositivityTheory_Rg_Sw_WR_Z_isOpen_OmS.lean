@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_isOpen_OmS
 -- name    : PositivityTheory.Rg.Sw.WR.Z.isOpen_OmS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:32:32.225395+00:00
 -- url     : https://prove2.me/theorems/a611275f-d386-482f-85d0-1c87a690f42b

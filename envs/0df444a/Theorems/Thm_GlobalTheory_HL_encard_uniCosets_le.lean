@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_encard_uniCosets_le
 -- name    : GlobalTheory.HL.encard_uniCosets_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:34:41.184797+00:00
 -- url     : https://prove2.me/theorems/53c138e7-b818-4928-ac3d-287223fb815b

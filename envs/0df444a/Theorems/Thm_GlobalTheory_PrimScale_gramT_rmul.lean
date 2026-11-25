@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimScale_gramT_rmul
 -- name    : GlobalTheory.PrimScale.gramT_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:25:11.633806+00:00
 -- url     : https://prove2.me/theorems/63a5d9b4-b019-5735-891e-6bd43a964be2

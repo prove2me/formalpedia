@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_indexMeasureIntegral_prod_fubini
 -- name    : GlobalTheory.T.indexMeasureIntegral_prod_fubini
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:46:48.842315+00:00
 -- url     : https://prove2.me/theorems/7fce90b8-e845-443a-8507-1a30e1cc7406

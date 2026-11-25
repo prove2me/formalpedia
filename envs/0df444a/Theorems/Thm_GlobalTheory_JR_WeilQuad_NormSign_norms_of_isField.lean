@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_NormSign_norms_of_isField
 -- name    : GlobalTheory.JR.WeilQuad.NormSign.norms_of_isField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:43:07.140881+00:00
 -- url     : https://prove2.me/theorems/85226db6-01db-4748-9362-924e59fb2f37

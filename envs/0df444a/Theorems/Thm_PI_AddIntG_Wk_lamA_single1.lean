@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_lamA_single1
 -- name    : PI.AddIntG.Wk.lamA_single1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:23:00.682435+00:00
 -- url     : https://prove2.me/theorems/ef2bce93-5ede-4db9-9f8d-8984640fedf4

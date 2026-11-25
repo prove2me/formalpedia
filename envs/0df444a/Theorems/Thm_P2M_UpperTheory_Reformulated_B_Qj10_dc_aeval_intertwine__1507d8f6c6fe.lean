@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qj10_dc_aeval_intertwine__1507d8f6c6fe
 -- name    : P2M_UpperTheory_Reformulated_B_Qj10_dc_aeval_intertwine__1507d8f6c6fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:21:22.887121+00:00
 -- url     : https://prove2.me/theorems/ee6c7bd4-a3a0-5da8-a3c5-22cdde932d40

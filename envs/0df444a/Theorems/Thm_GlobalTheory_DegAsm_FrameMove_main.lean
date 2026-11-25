@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_main
 -- name    : GlobalTheory.DegAsm.FrameMove.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:31:04.97906+00:00
 -- url     : https://prove2.me/theorems/4b39a770-aa54-4bbd-82aa-13660a07eec3

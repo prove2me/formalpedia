@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Lit_Mix_ind__at_8cfc4edaf794
 -- name    : P2M_UpperTheory_Lit_Mix_ind__at_8cfc4edaf794
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:21:06.922113+00:00
 -- url     : https://prove2.me/theorems/2c832a3a-2148-55be-bd43-e21ff11f6374

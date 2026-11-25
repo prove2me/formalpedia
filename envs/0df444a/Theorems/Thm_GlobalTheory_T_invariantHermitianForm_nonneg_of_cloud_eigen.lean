@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariantHermitianForm_nonneg_of_cloud_eigen
 -- name    : GlobalTheory.T.invariantHermitianForm_nonneg_of_cloud_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:46:50.059037+00:00
 -- url     : https://prove2.me/theorems/bb15079f-bf08-4a91-9b8c-54f7a77d10dd

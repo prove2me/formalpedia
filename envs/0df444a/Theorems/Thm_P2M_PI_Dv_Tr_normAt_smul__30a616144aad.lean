@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_Tr_normAt_smul__30a616144aad
 -- name    : P2M_PI_Dv_Tr_normAt_smul__30a616144aad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:13:21.889003+00:00
 -- url     : https://prove2.me/theorems/d57203c6-ad90-40e4-9482-e7ea95e253b9

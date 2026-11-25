@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_DivLC_lact_one__7ef7b6afa9a4
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_DivLC_lact_one__7ef7b6afa9a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:16:04.34518+00:00
 -- url     : https://prove2.me/theorems/5bf57feb-e601-4c27-9adf-c4a4c4e01384

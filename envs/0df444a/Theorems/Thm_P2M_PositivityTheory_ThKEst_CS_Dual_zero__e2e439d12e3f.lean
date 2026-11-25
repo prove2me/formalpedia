@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_ThKEst_CS_Dual_zero__e2e439d12e3f
 -- name    : P2M_PositivityTheory_ThKEst_CS_Dual_zero__e2e439d12e3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:11:06.712524+00:00
 -- url     : https://prove2.me/theorems/8243a956-b182-43c7-9f50-6eb9fb6c5a6c

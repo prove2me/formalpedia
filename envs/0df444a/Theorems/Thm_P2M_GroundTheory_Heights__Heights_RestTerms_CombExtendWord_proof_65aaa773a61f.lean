@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_CombExtendWord_proof_65aaa773a61f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_CombExtendWord_proof_65aaa773a61f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:31:04.228058+00:00
 -- url     : https://prove2.me/theorems/494fb117-3f15-4125-b003-da40e248bacd

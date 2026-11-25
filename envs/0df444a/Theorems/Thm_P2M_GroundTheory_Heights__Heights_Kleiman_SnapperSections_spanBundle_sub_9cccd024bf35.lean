@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperSections_spanBundle_sub_9cccd024bf35
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperSections_spanBundle_sub_9cccd024bf35
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:17:30.199826+00:00
 -- url     : https://prove2.me/theorems/cf3ca6cb-eac5-4041-ae6c-e9beefe888a1

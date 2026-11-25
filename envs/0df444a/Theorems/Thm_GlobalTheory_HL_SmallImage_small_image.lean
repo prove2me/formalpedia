@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SmallImage_small_image
 -- name    : GlobalTheory.HL.SmallImage.small_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:34:48.063993+00:00
 -- url     : https://prove2.me/theorems/a1db1c31-7888-4474-a480-450e60421385

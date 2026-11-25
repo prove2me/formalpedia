@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_TwistedEisensteinNonvanishing_W_apply_sum__9640259db90f
 -- name    : P2M_PI_TwistedEisensteinNonvanishing_W_apply_sum__9640259db90f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:57:43.458663+00:00
 -- url     : https://prove2.me/theorems/32d8eaeb-79dc-4331-b4f4-17a0627477f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_asympStable_weighted
 -- name    : DiscreteStability.asympStable_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:44:21.99693+00:00
 -- url     : https://prove2.me/theorems/4d95bac7-03b6-4482-a38a-92af06586fce

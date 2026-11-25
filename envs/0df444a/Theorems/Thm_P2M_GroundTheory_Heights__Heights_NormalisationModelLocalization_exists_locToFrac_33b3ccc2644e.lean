@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalisationModelLocalization_exists_locToFrac_33b3ccc2644e
 -- name    : P2M_GroundTheory_Heights__Heights_NormalisationModelLocalization_exists_locToFrac_33b3ccc2644e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:06:46.081144+00:00
 -- url     : https://prove2.me/theorems/7cf388a1-c3e0-49b0-afb9-67b48d128c1c

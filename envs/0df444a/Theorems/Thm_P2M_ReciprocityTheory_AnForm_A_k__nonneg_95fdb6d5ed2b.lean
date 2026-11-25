@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_A_k__nonneg_95fdb6d5ed2b
 -- name    : P2M_ReciprocityTheory_AnForm_A_k__nonneg_95fdb6d5ed2b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:11:29.804568+00:00
 -- url     : https://prove2.me/theorems/dd6ea2fc-832f-5f52-b929-b6f0b3a2a000

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceMultGeneral_proof_5274b99dbf03
 -- name    : P2M_GroundTheory_Heights__Heights_SliceMultGeneral_proof_5274b99dbf03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:38:36.530195+00:00
 -- url     : https://prove2.me/theorems/c89d8e31-434c-475c-a550-8a914dd6fa2b

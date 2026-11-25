@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Step_tendsto_left
 -- name    : Formalism.HermitianLattices.Ext.L3.Step.tendsto_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:14:40.846793+00:00
 -- url     : https://prove2.me/theorems/6e7fa029-e907-5da8-a0e6-a394aef9a479

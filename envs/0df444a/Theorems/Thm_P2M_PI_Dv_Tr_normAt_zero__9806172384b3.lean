@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_Tr_normAt_zero__9806172384b3
 -- name    : P2M_PI_Dv_Tr_normAt_zero__9806172384b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:56:57.470969+00:00
 -- url     : https://prove2.me/theorems/858a50de-3185-4cde-9df1-a401251b69bf

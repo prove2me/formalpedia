@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_VolStabW_SdTestInfW_BR_add_right__4f8a28ccbc2c
 -- name    : P2M_PI_VolStabW_SdTestInfW_BR_add_right__4f8a28ccbc2c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:03:07.479979+00:00
 -- url     : https://prove2.me/theorems/2bcc54c1-9c02-4b6c-b291-411ea7fa45fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_rename_pairCollapse_idem_785cf95a1311
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_rename_pairCollapse_idem_785cf95a1311
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:15:22.359116+00:00
 -- url     : https://prove2.me/theorems/2ed3e9ee-81bf-5bfd-8c43-51953318413e

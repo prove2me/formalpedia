@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_ringKrullDim_le_of_isIntegral__578cfa688125
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_ringKrullDim_le_of_isIntegral__578cfa688125
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:15:06.068667+00:00
 -- url     : https://prove2.me/theorems/97b7a07c-da8f-442f-b959-79bc0c2eec89

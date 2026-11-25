@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SameFactorFormula_proof_1102b223bfeb
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SameFactorFormula_proof_1102b223bfeb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:45:21.847807+00:00
 -- url     : https://prove2.me/theorems/95a3a775-3351-4dd5-980c-084141e8355b

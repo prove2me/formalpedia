@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_coe_maximalUnramifiedExtension
 -- name    : GroundTheory.LocalField.coe_maximalUnramifiedExtension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:21:35.686122+00:00
 -- url     : https://prove2.me/theorems/8773642d-179b-49f7-b79a-9fe6fc3e86fb

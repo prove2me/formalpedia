@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirabolicIndex__card_uni_1d6088473d01
 -- name    : P2M_PI_MirabolicIndex__card_uni_1d6088473d01
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:12:24.160837+00:00
 -- url     : https://prove2.me/theorems/b5c12567-aedf-438f-bf79-ff5f23162dcb

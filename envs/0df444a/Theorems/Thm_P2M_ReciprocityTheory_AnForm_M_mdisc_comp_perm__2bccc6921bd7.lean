@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_M_mdisc_comp_perm__2bccc6921bd7
 -- name    : P2M_ReciprocityTheory_AnForm_M_mdisc_comp_perm__2bccc6921bd7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:11:26.106575+00:00
 -- url     : https://prove2.me/theorems/da1e43e2-6b98-5446-81d7-c8f4946dbadf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_TB_SCPf_expS_zero__1ec350a48525
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_TB_SCPf_expS_zero__1ec350a48525
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:17:43.503944+00:00
 -- url     : https://prove2.me/theorems/b6703897-cf0d-5b89-aa02-880d38848935

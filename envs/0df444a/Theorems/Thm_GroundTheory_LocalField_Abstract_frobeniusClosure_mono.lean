@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_frobeniusClosure_mono
 -- name    : GroundTheory.LocalField.Abstract.frobeniusClosure_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:41:15.738647+00:00
 -- url     : https://prove2.me/theorems/960c0658-7905-5d21-91ad-276354fb06ff

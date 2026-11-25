@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RadicalBaseChange_proof_fda9669ff964
 -- name    : P2M_GroundTheory_Heights__Heights_RadicalBaseChange_proof_fda9669ff964
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:45:56.511813+00:00
 -- url     : https://prove2.me/theorems/32b1772b-79f4-4b5d-a38c-321e2c507c8e

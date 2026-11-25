@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_coefE___act_9443caaf5a71
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_coefE___act_9443caaf5a71
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:13:19.926085+00:00
 -- url     : https://prove2.me/theorems/8138d71f-e111-58cb-a41e-06cb4fb69763

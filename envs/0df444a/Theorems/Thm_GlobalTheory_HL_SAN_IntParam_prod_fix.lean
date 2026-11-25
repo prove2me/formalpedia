@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SAN_IntParam_prod_fix
 -- name    : GlobalTheory.HL.SAN.IntParam.prod_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:30.639799+00:00
 -- url     : https://prove2.me/theorems/2b6998d9-19ad-506c-ba35-8f253604a568

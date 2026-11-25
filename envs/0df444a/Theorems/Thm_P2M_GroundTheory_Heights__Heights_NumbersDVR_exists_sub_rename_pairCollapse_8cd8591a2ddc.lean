@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_sub_rename_pairCollapse_8cd8591a2ddc
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_sub_rename_pairCollapse_8cd8591a2ddc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:20:38.53524+00:00
 -- url     : https://prove2.me/theorems/132de060-211e-4966-820d-11eb7883217a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_frame_matrix_det_ne_zero_9f3c627301b5
 -- name    : P2M_GroundTheory_Heights__Heights_frame_matrix_det_ne_zero_9f3c627301b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:47:15.424198+00:00
 -- url     : https://prove2.me/theorems/bbc5785d-d79f-461a-8948-da004a55827d

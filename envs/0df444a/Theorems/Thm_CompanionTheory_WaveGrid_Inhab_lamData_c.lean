@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_Inhab_lamData_c
 -- name    : CompanionTheory.WaveGrid.Inhab.lamData_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:15:10.976986+00:00
 -- url     : https://prove2.me/theorems/5a37abd6-ee3c-5a43-a95e-0056d7a3209a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_SerS_eq_map
 -- name    : PI.AddIntG.Wk.SerS_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:21:53.69098+00:00
 -- url     : https://prove2.me/theorems/cd351f94-6328-5a9d-89eb-f157fabaf68e

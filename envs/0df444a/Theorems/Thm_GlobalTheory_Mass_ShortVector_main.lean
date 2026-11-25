@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_ShortVector_main
 -- name    : GlobalTheory.Mass.ShortVector.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:41:02.598517+00:00
 -- url     : https://prove2.me/theorems/4942ecf0-f3e3-491c-9fe5-f6cfd8b19bc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Tf_Loc_pow_succ_apply__4aa5921c9ecc
 -- name    : P2M_PositivityTheory_Rg_Tf_Loc_pow_succ_apply__4aa5921c9ecc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:11:08.274731+00:00
 -- url     : https://prove2.me/theorems/e85d91fd-2504-42c4-ae46-7377f2b70a87

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplDetSchur_full_696d556fa325
 -- name    : P2M_GroundTheory_Heights__Heights_SymplDetSchur_full_696d556fa325
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:30:42.045856+00:00
 -- url     : https://prove2.me/theorems/b11b8ea2-c994-4bb5-a4fe-9cdb23fd82f6

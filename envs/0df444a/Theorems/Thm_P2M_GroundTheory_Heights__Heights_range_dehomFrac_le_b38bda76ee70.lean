@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_range_dehomFrac_le_b38bda76ee70
 -- name    : P2M_GroundTheory_Heights__Heights_range_dehomFrac_le_b38bda76ee70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:51:40.512859+00:00
 -- url     : https://prove2.me/theorems/4a0b4711-fdeb-4cf4-a1b4-620baf60b448

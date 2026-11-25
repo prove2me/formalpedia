@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_IsFlatOver_of_sum_eq_id
 -- name    : GlobalTheory.QCoh.IsFlatOver.of_sum_eq_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:03:54.899733+00:00
 -- url     : https://prove2.me/theorems/01de70f8-319a-4123-8345-e66ad7c78780

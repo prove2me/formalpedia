@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_constantCoeff_lift
 -- name    : PI.AddIntG.Wk.constantCoeff_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:21:59.322527+00:00
 -- url     : https://prove2.me/theorems/aac60a40-fa6a-5463-b4d6-cabde446b94e

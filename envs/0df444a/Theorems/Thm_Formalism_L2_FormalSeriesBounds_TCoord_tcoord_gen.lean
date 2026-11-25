@@ -1,0 +1,46 @@
+-- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_TCoord_tcoord_gen
+-- name    : Formalism.L2.FormalSeriesBounds.TCoord.tcoord_gen
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-25T09:03:29.378566+00:00
+-- url     : https://prove2.me/theorems/5f8b4d0c-9313-4aa5-99fc-828a24dbaad1
+-- title:
+--   TCoord: tcoord gen
+-- statement:
+--   The TCoord construction uses the tcoord gen property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/CharacterGerms/RowTieP_TCoord.lean#L115-L127
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/LocalToGlobal/CharacterGerms/RowTieP_TCoord.lean#L115-L127
+
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_RowTieValL
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_UncurryLogConstantCoeff
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_RowTieP_TCoord
+import Theorems.Thm_Formalism_BaseCaseIdentities_OrdGE_X
+import Theorems.Thm_Formalism_L2_FormalSeriesBounds_Van_subst
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators
+open Classical
+open Formalism Formalism.L2 Formalism.L2.FormalSeriesBounds
+open Formalism.L2.FormalSeriesBounds.TCoord
+open Formalism.IncomingBounds FormalGermZero GeneralGermZero
+variable {C : Type} [Field C] {κ : Type} [Fintype κ]
+
+theorem Formalism.L2.FormalSeriesBounds.TCoord.tcoord_gen {V : VF C} {d : ℕ} {I : Fin 2 → Type} [∀ g, Fintype (I g)] (X : RawChart C d I κ)
+    (F : κ → MvPowerSeries (Fin 2 × κ) C) (hF0 : ∀ k, MvPowerSeries.constantCoeff (F k) = 0)
+    (hFI : ∀ k, IntS V (F k)) (hadd : LgAdd F X.lg)
+    (hlin : ∀ k (μ : κ →₀ ℕ), μ.degree ≤ 1 →
+      MvPowerSeries.coeff μ (X.lg k) = MvPowerSeries.coeff μ (MvPowerSeries.X k))
+    (hexlg : ∀ k, MvPowerSeries.subst X.lg (X.ex k) = (MvPowerSeries.X k : MvPowerSeries κ C))
+    (hsat : ∀ g, ∃ w : κ → I g → C, (∀ x c, V.Ge 0 (w x c)) ∧
+      ∀ c c' : I g, ∑ x, X.u g c x * w x c' = if c = c' then 1 else 0)
+    (H : ∀ g, X.CartHyp V g) : RawChart.TCoordSt H := by sorry

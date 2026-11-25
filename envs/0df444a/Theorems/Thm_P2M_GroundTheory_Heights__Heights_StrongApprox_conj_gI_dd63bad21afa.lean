@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_conj_gI_dd63bad21afa
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_conj_gI_dd63bad21afa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:45:58.360545+00:00
 -- url     : https://prove2.me/theorems/1a068d3b-7e08-4680-a868-18955e35f0cf

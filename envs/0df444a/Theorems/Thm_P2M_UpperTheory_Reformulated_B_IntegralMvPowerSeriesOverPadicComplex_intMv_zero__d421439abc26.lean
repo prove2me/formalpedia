@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_IntegralMvPowerSeriesOverPadicComplex_intMv_zero__d421439abc26
 -- name    : P2M_UpperTheory_Reformulated_B_IntegralMvPowerSeriesOverPadicComplex_intMv_zero__d421439abc26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:21:07.7221+00:00
 -- url     : https://prove2.me/theorems/6d0feb0b-c2a6-415d-a80c-afd98993b6be

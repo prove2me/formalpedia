@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlockAdjoinPrime_full_27b78af63e63
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlockAdjoinPrime_full_27b78af63e63
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:43:49.288899+00:00
 -- url     : https://prove2.me/theorems/56657440-22fe-46c6-ad52-1529ac8a0815

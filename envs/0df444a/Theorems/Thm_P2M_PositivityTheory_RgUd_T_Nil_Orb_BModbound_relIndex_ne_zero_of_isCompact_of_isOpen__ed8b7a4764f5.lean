@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_RgUd_T_Nil_Orb_BModbound_relIndex_ne_zero_of_isCompact_of_isOpen__ed8b7a4764f5
 -- name    : P2M_PositivityTheory_RgUd_T_Nil_Orb_BModbound_relIndex_ne_zero_of_isCompact_of_isOpen__ed8b7a4764f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:06:29.772746+00:00
 -- url     : https://prove2.me/theorems/ce816c9f-1b6e-5d1c-8d59-70a6db02c26d

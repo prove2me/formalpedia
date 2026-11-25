@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperSections_idealMod_le_one_28f34d875536
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperSections_idealMod_le_one_28f34d875536
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:01:57.542835+00:00
 -- url     : https://prove2.me/theorems/f0e89a22-fc05-52ef-a9d1-2894744be88a

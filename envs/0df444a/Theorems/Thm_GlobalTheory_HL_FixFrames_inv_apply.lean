@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FixFrames_inv_apply
 -- name    : GlobalTheory.HL.FixFrames.inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:41:08.638489+00:00
 -- url     : https://prove2.me/theorems/1fd4e43e-579f-44f3-bc99-a2c9a764653d

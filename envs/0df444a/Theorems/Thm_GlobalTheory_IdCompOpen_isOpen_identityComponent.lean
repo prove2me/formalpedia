@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdCompOpen_isOpen_identityComponent
 -- name    : GlobalTheory.IdCompOpen.isOpen_identityComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:50:16.728907+00:00
 -- url     : https://prove2.me/theorems/4db01bf3-1565-4a5a-bec4-89ba355c8a80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_exists_tendsto_pow_zero_a94ec10e85d3
 -- name    : P2M_GroundTheory_Heights__Theta_exists_tendsto_pow_zero_a94ec10e85d3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:38:54.333899+00:00
 -- url     : https://prove2.me/theorems/1c62e9f7-8a5c-4f06-b96b-241fd44bb921

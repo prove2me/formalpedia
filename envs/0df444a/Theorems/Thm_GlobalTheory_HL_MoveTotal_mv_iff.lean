@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveTotal_mv_iff
 -- name    : GlobalTheory.HL.MoveTotal.mv_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:40:25.616286+00:00
 -- url     : https://prove2.me/theorems/bcfb9702-0ac6-5f6d-b6ff-db11d4cfc8d1

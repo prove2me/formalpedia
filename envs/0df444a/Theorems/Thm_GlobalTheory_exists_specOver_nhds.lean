@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_specOver_nhds
 -- name    : GlobalTheory.exists_specOver_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:47:45.481611+00:00
 -- url     : https://prove2.me/theorems/6300921d-35fc-5805-bae3-68b5fbcfc1b6

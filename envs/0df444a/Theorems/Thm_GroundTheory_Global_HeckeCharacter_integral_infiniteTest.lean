@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_HeckeCharacter_integral_infiniteTest
 -- name    : GroundTheory.Global.HeckeCharacter.integral_infiniteTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:15:01.322594+00:00
 -- url     : https://prove2.me/theorems/4d2ef4f5-0473-4f06-b94f-438b6d1a4160

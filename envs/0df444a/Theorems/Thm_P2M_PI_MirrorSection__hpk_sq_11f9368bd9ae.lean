@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__hpk_sq_11f9368bd9ae
 -- name    : P2M_PI_MirrorSection__hpk_sq_11f9368bd9ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:57:30.896693+00:00
 -- url     : https://prove2.me/theorems/77d448c6-0c1d-4a9f-8db6-7119524fcf73

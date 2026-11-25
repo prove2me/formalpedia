@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_orbit_mass_equivariant_constant_fibre
 -- name    : GlobalTheory.T.orbit_mass_equivariant_constant_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:50.505898+00:00
 -- url     : https://prove2.me/theorems/524e765d-c6ba-4995-a452-f556d397bd03

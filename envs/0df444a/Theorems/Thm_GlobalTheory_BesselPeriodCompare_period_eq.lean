@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_period_eq
 -- name    : GlobalTheory.BesselPeriodCompare.period_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:18:59.270047+00:00
 -- url     : https://prove2.me/theorems/a1b95ba9-6e55-5310-b8b3-4758989f3006

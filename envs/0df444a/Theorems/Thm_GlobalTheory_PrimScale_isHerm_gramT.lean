@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimScale_isHerm_gramT
 -- name    : GlobalTheory.PrimScale.isHerm_gramT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:26:37.929462+00:00
 -- url     : https://prove2.me/theorems/ca15d893-1c94-40b1-a613-12635ee148cb

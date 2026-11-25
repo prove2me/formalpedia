@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_iClosure_splitting_eq
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.iClosure_splitting_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:50:47.218262+00:00
 -- url     : https://prove2.me/theorems/4d872592-a0e3-5cfc-8b10-061ee0f0698d

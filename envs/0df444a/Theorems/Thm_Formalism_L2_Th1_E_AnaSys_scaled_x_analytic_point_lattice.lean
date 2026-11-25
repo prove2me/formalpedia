@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_scaled_x_analytic_point_lattice
 -- name    : Formalism.L2.Th1.E.AnaSys.scaled_x_analytic_point_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:28:52.791884+00:00
 -- url     : https://prove2.me/theorems/670643a9-9027-5ca7-9697-106a94f578fc

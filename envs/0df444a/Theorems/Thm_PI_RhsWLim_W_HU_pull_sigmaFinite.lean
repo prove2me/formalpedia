@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_HU_pull_sigmaFinite
 -- name    : PI.RhsWLim.W.HU.pull_sigmaFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:26:28.810815+00:00
 -- url     : https://prove2.me/theorems/80541d0f-c368-554a-a210-37a23840d322

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_USum_sE_diag__c40f84c7b864
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_USum_sE_diag__c40f84c7b864
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:11:52.688595+00:00
 -- url     : https://prove2.me/theorems/2795a455-6054-43b7-801d-efeff6414a83

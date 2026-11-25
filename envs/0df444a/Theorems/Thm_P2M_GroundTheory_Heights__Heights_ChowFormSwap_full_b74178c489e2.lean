@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormSwap_full_b74178c489e2
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormSwap_full_b74178c489e2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:37.500285+00:00
 -- url     : https://prove2.me/theorems/ab67f5a8-05f3-47bc-bf24-22af300e65ce

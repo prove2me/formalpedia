@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_OneCosetSharp_W_C2_ent__0_9e2df1bf3f49
 -- name    : P2M_PI_OneCosetSharp_W_C2_ent__0_9e2df1bf3f49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:57:02.371145+00:00
 -- url     : https://prove2.me/theorems/b03d6265-843f-4a54-9b37-08129838334f

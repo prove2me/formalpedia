@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_haar_prod
 -- name    : GlobalTheory.BesselPeriodCompare.haar_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:12:09.887205+00:00
 -- url     : https://prove2.me/theorems/d8f0bc08-f258-5818-9ba3-b3114cfd9633

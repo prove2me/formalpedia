@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_ThKG_Loc_Bump_norming__019b125911dd
 -- name    : P2M_PositivityTheory_ThKG_Loc_Bump_norming__019b125911dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:11:11.921043+00:00
 -- url     : https://prove2.me/theorems/70568d11-74d9-4f6c-a870-b08f66edea20

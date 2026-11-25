@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_unitsInflationCochains_comp_cochainsComplex__ce27b045f400
 -- name    : P2M_GroundTheory_ProfCoh_unitsInflationCochains_comp_cochainsComplex__ce27b045f400
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:54:36.123737+00:00
 -- url     : https://prove2.me/theorems/bedadfad-60ab-51c0-8238-98f8170c5d9a

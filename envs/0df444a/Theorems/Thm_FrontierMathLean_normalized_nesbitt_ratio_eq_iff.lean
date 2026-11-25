@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrontierMathLean_normalized_nesbitt_ratio_eq_iff
 -- name    : FrontierMathLean.normalized_nesbitt_ratio_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:36:36.178671+00:00
 -- url     : https://prove2.me/theorems/8d0e8e3e-c263-413d-a6fe-5778f15c30ed

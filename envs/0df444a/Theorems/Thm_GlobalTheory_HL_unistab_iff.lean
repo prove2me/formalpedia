@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_unistab_iff
 -- name    : GlobalTheory.HL.unistab_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:46:19.198008+00:00
 -- url     : https://prove2.me/theorems/839575dd-5389-560b-93d7-02b61e262a79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isProjPrime_genericIdeal_2708c8f68489
 -- name    : P2M_GroundTheory_Heights__Heights_VerticalPartGauss_isProjPrime_genericIdeal_2708c8f68489
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:29:04.655415+00:00
 -- url     : https://prove2.me/theorems/5b7c364b-4259-4109-9771-a35a6a37fe12

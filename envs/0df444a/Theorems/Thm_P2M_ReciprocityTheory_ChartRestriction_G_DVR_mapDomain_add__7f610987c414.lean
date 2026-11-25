@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_DVR_mapDomain_add__7f610987c414
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_DVR_mapDomain_add__7f610987c414
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:14:48.369802+00:00
 -- url     : https://prove2.me/theorems/5b6300dd-6df4-4a82-8e8d-c34bec674d65

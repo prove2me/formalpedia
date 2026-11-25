@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LowerBoundFree_LineFlag_isTwValueAt_intCast_8416e01d1382
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_LowerBoundFree_LineFlag_isTwValueAt_intCast_8416e01d1382
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:34:04.032056+00:00
 -- url     : https://prove2.me/theorems/b9c09fe9-e70e-4708-8fb2-b65b5327a02d

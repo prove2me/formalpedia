@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RatSheetNoChartNull_exists_det_ne_zero_bb9babd323db
 -- name    : P2M_GroundTheory_Heights__Heights_RatSheetNoChartNull_exists_det_ne_zero_bb9babd323db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:17:20.445013+00:00
 -- url     : https://prove2.me/theorems/48189a26-3e20-46dd-8b0a-d0f8f4195431

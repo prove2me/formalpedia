@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_ascent
 -- name    : DiscreteStability.ascent
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:37:58.620905+00:00
 -- url     : https://prove2.me/theorems/17e72960-42d4-457f-9259-9235c06183d8

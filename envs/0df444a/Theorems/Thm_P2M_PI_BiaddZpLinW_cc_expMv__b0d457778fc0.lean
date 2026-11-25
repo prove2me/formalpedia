@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_BiaddZpLinW_cc_expMv__b0d457778fc0
 -- name    : P2M_PI_BiaddZpLinW_cc_expMv__b0d457778fc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:42.941571+00:00
 -- url     : https://prove2.me/theorems/735c6fe9-96f5-43b7-8f6a-39f9c0763498

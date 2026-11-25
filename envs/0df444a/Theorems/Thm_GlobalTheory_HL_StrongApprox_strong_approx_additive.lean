@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StrongApprox_strong_approx_additive
 -- name    : GlobalTheory.HL.StrongApprox.strong_approx_additive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:14:29.062796+00:00
 -- url     : https://prove2.me/theorems/76577795-ac5a-46d6-8f39-1aac34edb802

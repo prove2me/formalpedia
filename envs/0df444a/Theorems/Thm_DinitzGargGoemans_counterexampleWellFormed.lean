@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DinitzGargGoemans_counterexampleWellFormed
 -- name    : DinitzGargGoemans.counterexampleWellFormed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:45:38.058469+00:00
 -- url     : https://prove2.me/theorems/bfc2a244-6a68-48c8-8a9a-a94a19e9b5d9

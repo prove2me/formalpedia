@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_volume_linProj_image_null_7ac35fee0eee
 -- name    : P2M_GroundTheory_Heights__Heights_volume_linProj_image_null_7ac35fee0eee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:51:53.393469+00:00
 -- url     : https://prove2.me/theorems/be0ff792-a9b5-4f46-af14-b55bf2c16e5b

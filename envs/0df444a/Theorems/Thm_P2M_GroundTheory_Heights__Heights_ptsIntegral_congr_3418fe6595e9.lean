@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ptsIntegral_congr_3418fe6595e9
 -- name    : P2M_GroundTheory_Heights__Heights_ptsIntegral_congr_3418fe6595e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:07:08.928122+00:00
 -- url     : https://prove2.me/theorems/15f632c8-8aa1-564b-8136-dcc588c0fe99

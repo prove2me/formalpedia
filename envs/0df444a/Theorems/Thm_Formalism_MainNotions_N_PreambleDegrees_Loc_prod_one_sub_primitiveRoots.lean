@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_PreambleDegrees_Loc_prod_one_sub_primitiveRoots
 -- name    : Formalism.MainNotions.N.PreambleDegrees.Loc.prod_one_sub_primitiveRoots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:05:16.406018+00:00
 -- url     : https://prove2.me/theorems/82e5444a-f79d-4e9c-a81c-06486104c8a1

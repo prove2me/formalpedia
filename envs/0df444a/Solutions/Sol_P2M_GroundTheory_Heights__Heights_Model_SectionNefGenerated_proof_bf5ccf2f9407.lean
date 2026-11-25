@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_Model_SectionNefGenerated_proof_bf5ccf2f9407
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T08:51:21.135212+00:00
+-- url     : https://prove2.me/submissions/0437e8e0-5d11-4de7-a00e-6380b05d875b
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_IntegralModels_Statements
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PMinimalPrimeMultiHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PColonMultiHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PSupSpanMultiHomog
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_PGradedFinite
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HeightComparison_IsMultiHomogIdealIff
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_IntegralModels_PSectionNef
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SectionNef_proof_7ba5c90ed895
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_GradedFinite_proof_4a0254b94345
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SectionNefGenerated_of_sectionNef_d5327fdbf2e3
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ColonMultiHomog_proof_89514dc80a8c
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_MinimalPrimeMultiHomog_proof_00f169244e2b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SupSpanMultiHomog_proof_861d53cbe2c3
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.Model
+open MvPolynomial NumbersDVR
+noncomputable section
+namespace GroundTheory.Heights₂.Heights.Model
+namespace SectionNefGenerated
+theorem _root_.solution : SectionNefGenerated.Statement :=
+  SectionNefGenerated.of_sectionNef SectionNef.proof
+end SectionNefGenerated
+end GroundTheory.Heights₂.Heights.Model

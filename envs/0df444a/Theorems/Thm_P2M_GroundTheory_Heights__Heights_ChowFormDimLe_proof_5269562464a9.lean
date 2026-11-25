@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormDimLe_proof_5269562464a9
 -- name    : P2M_GroundTheory_Heights__Heights_ChowFormDimLe_proof_5269562464a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:03:13.861327+00:00
 -- url     : https://prove2.me/theorems/f5ed1ac7-3d0b-4b1c-9b60-df3eaed8452b

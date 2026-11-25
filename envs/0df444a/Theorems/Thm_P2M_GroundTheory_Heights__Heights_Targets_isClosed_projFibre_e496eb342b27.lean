@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_isClosed_projFibre_e496eb342b27
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_isClosed_projFibre_e496eb342b27
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:44:52.397099+00:00
 -- url     : https://prove2.me/theorems/38e4afe1-028e-5932-99c2-1b40f7743425

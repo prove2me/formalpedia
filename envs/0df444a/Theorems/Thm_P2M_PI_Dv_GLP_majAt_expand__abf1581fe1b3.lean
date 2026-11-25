@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_GLP_majAt_expand__abf1581fe1b3
 -- name    : P2M_PI_Dv_GLP_majAt_expand__abf1581fe1b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:56:03.842866+00:00
 -- url     : https://prove2.me/theorems/f7a6974a-b931-446f-82e4-1eea9d7b04bf

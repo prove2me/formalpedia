@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primitiveTuplesWithGramMatrix_hensel_count
 -- name    : GlobalTheory.T.primitiveTuplesWithGramMatrix_hensel_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:45:20.166061+00:00
 -- url     : https://prove2.me/theorems/3a7f7b64-1cc4-56b8-aca6-d5a9c6d13842

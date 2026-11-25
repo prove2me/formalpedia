@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_ReciprocityTheory_AnForm_R_ptIdeal_isMaximal_a3d235ebb1deb6ff
 -- name    : P2M_RH_ReciprocityTheory_AnForm_R_ptIdeal_isMaximal_a3d235ebb1deb6ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:12:19.347547+00:00
 -- url     : https://prove2.me/theorems/f7d88142-e5ab-4a0f-9151-7a6276e375ce

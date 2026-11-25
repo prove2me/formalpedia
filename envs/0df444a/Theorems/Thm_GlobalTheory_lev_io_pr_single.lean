@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lev_io_pr_single
 -- name    : GlobalTheory.lev_io_pr_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:47:28.842774+00:00
 -- url     : https://prove2.me/theorems/058ed5ec-3a57-4c3c-b9ce-f0c103aee065

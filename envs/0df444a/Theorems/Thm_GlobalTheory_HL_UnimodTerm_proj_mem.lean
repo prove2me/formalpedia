@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UnimodTerm_proj_mem
 -- name    : GlobalTheory.HL.UnimodTerm.proj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:32:58.761622+00:00
 -- url     : https://prove2.me/theorems/ad1e1b23-dc46-53e5-8e57-7709f0c32ab0

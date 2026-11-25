@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AI_I1_mk__chartIdeal_X_self_6bdb4b0af909
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AI_I1_mk__chartIdeal_X_self_6bdb4b0af909
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:13:50.880583+00:00
 -- url     : https://prove2.me/theorems/6ff61113-eb2c-40a1-91f5-ff6235fd43b7

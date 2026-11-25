@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalisationModelLocalization_proof_3f97c41d1f77
 -- name    : P2M_GroundTheory_Heights__Heights_NormalisationModelLocalization_proof_3f97c41d1f77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:05:37.749397+00:00
 -- url     : https://prove2.me/theorems/7a4727df-53d8-4049-973b-623b82bd7ec6

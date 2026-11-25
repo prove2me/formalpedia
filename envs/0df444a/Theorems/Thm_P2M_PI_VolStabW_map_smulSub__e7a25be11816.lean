@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_VolStabW_map_smulSub__e7a25be11816
 -- name    : P2M_PI_VolStabW_map_smulSub__e7a25be11816
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:04:52.841993+00:00
 -- url     : https://prove2.me/theorems/16a22e4b-e392-433a-b703-205636082677

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qj11_aeval_mem_invariant_submodule__dd34f4fa0fb7
 -- name    : P2M_UpperTheory_Reformulated_B_Qj11_aeval_mem_invariant_submodule__dd34f4fa0fb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:21:22.866405+00:00
 -- url     : https://prove2.me/theorems/9b5aa2cc-cdd6-51b0-ac7a-d6c44fb88f98

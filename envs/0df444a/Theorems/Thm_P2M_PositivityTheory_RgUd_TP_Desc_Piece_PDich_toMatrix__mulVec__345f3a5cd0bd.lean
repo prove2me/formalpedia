@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_RgUd_TP_Desc_Piece_PDich_toMatrix__mulVec__345f3a5cd0bd
 -- name    : P2M_PositivityTheory_RgUd_TP_Desc_Piece_PDich_toMatrix__mulVec__345f3a5cd0bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:02:44.190727+00:00
 -- url     : https://prove2.me/theorems/bbee668b-7155-4464-abc0-204c40c6f05e

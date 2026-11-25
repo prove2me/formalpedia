@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_SerBridgeGLW_card_ne_zero__dc2cceebfad7
 -- name    : P2M_PI_SerBridgeGLW_card_ne_zero__dc2cceebfad7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:58:18.193129+00:00
 -- url     : https://prove2.me/theorems/b7408516-133d-4c7e-bfe1-31a071ab29bc

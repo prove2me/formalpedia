@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_short_vector_integralHermitianLattice_rank_one
 -- name    : GlobalTheory.T.exists_short_vector_integralHermitianLattice_rank_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:46:12.115605+00:00
 -- url     : https://prove2.me/theorems/3b7ce57a-9a12-42b1-b2f3-c14534408040

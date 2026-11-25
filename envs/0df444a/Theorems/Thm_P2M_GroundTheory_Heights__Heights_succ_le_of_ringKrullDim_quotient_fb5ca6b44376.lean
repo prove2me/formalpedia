@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_succ_le_of_ringKrullDim_quotient_fb5ca6b44376
 -- name    : P2M_GroundTheory_Heights__Heights_succ_le_of_ringKrullDim_quotient_fb5ca6b44376
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:51:28.490818+00:00
 -- url     : https://prove2.me/theorems/c81cb099-e8b7-4975-9bb6-257f4d393cb6

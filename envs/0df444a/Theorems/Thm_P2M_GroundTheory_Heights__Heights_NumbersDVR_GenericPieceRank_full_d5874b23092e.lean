@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericPieceRank_full_d5874b23092e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericPieceRank_full_d5874b23092e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:11.881512+00:00
 -- url     : https://prove2.me/theorems/23aeeb3e-e8f6-4b0e-9cda-ff7d9ddc189c

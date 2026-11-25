@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HW_totalDegree_bind__le_e8e4d4bd1303
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HW_totalDegree_bind__le_e8e4d4bd1303
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:01:17.506304+00:00
 -- url     : https://prove2.me/theorems/5dc2cd27-51a9-54a3-bcaa-2c511a7e3ee8

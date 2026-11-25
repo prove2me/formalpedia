@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_CompactRootVanishes_hypotheses_inhabited_8e5c3fc6f006
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_CompactRootVanishes_hypotheses_inhabited_8e5c3fc6f006
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:26.816513+00:00
 -- url     : https://prove2.me/theorems/22847305-c024-4547-a5e9-a8ee0d047256

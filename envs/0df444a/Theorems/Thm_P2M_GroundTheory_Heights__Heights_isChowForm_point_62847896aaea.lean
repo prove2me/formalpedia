@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isChowForm_point_62847896aaea
 -- name    : P2M_GroundTheory_Heights__Heights_isChowForm_point_62847896aaea
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:30:04.199172+00:00
 -- url     : https://prove2.me/theorems/26edf50f-f0f0-48ae-bcbb-b2461fac4aad

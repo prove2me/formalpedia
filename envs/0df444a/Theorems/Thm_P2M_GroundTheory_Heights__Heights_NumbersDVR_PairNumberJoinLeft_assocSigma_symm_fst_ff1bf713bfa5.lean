@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberJoinLeft_assocSigma_symm_fst_ff1bf713bfa5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberJoinLeft_assocSigma_symm_fst_ff1bf713bfa5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:40:40.951998+00:00
 -- url     : https://prove2.me/theorems/e4cb9574-15ef-5bf6-816f-d1e3588fb3a3

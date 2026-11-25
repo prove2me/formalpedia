@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagProportional_eval_top_e1c72c19af4e
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagProportional_eval_top_e1c72c19af4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:19:48.737589+00:00
 -- url     : https://prove2.me/theorems/45ff5dbb-b9d4-4d54-a849-9d581838f7ce

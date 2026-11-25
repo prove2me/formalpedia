@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_glue_compat_chase_03a68bf6b1b4
 -- name    : P2M_GroundTheory_Heights__Heights_Model_glue_compat_chase_03a68bf6b1b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:38:13.242991+00:00
 -- url     : https://prove2.me/theorems/2022b3f8-4f6f-55dd-aa6d-def99c8deaed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_BiaddZpLinW_zc_natCast__19adea702169
 -- name    : P2M_PI_BiaddZpLinW_zc_natCast__19adea702169
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:41.7115+00:00
 -- url     : https://prove2.me/theorems/4dea04ad-fb54-4ff7-95bb-e21bc464dbd6

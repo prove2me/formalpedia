@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ofReal_finsetProd_cpow
 -- name    : GroundTheory.Global.ofReal_finsetProd_cpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:42:44.676736+00:00
 -- url     : https://prove2.me/theorems/089fad66-c5c2-4140-b7d5-8b2d97ca7b4a

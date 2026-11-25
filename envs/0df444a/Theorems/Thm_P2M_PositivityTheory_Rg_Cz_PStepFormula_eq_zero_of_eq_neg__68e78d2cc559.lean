@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Cz_PStepFormula_eq_zero_of_eq_neg__68e78d2cc559
 -- name    : P2M_PositivityTheory_Rg_Cz_PStepFormula_eq_zero_of_eq_neg__68e78d2cc559
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:09:58.026316+00:00
 -- url     : https://prove2.me/theorems/21c8705c-7496-452b-8e8d-92125cdac55b

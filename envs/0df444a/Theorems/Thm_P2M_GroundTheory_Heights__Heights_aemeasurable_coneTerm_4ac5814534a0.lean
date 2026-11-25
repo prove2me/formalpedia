@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_aemeasurable_coneTerm_4ac5814534a0
 -- name    : P2M_GroundTheory_Heights__Heights_aemeasurable_coneTerm_4ac5814534a0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:52.580127+00:00
 -- url     : https://prove2.me/theorems/1139deea-3a61-4228-9d17-b9bddab8af4f

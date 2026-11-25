@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ClassNumImQ_ZetaNonvanishing__sup_mul_sup_eq_ed49e89e31f7
 -- name    : P2M_PI_ClassNumImQ_ZetaNonvanishing__sup_mul_sup_eq_ed49e89e31f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:55:52.094401+00:00
 -- url     : https://prove2.me/theorems/76b876eb-2c2b-4ae6-a59a-10ba401fa4da

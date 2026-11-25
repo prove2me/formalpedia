@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Residue_measurableSet_hit__413fd930b60e
 -- name    : P2M_PI_Residue_measurableSet_hit__413fd930b60e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:57:33.992591+00:00
 -- url     : https://prove2.me/theorems/373b38c0-80a7-43b2-a124-83e606302ea6

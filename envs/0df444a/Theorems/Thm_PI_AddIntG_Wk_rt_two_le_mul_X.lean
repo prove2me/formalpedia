@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_rt_two_le_mul_X
 -- name    : PI.AddIntG.Wk.rt_two_le_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:22:39.553656+00:00
 -- url     : https://prove2.me/theorems/67a100bf-aea2-4e31-a39d-de6c01d68aa3

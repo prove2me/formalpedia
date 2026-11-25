@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_fibreEquiv_fibreMk_f2523032aa5c
 -- name    : P2M_GroundTheory_Heights__Heights_fibreEquiv_fibreMk_f2523032aa5c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:24.351866+00:00
 -- url     : https://prove2.me/theorems/916d02b1-879b-404b-99f4-68e1ca494faa

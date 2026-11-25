@@ -1,0 +1,69 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_map_specFirst_2f447d9a2280
+-- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_map_specFirst_2f447d9a2280
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-25T09:07:53.925798+00:00
+-- url     : https://prove2.me/theorems/31ff3371-fc3d-49bf-9659-cd2da5cbbd39
+-- title:
+--   P2 M Ground Theory Heights  Heights Objects Chow Chow Form Section Perfect map spec First 2f447d9a2280: P2 M Ground Theory Heights  Heights Objects Chow Chow Form Section Perfect map spec First 2f447d
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Objects Chow Chow Form Section Perfect map spec First 2f447d9a2280 construction uses the P2 M Ground Theory Heights  Heights Objects Chow Chow Form Section Perfect map spec First 2f447d9a2280 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ArithmeticBezout/PChowFormSectionPerfect.lean#L124-L134
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ArithmeticBezout/PChowFormSectionPerfect.lean#L124-L134
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsChowFormSectionPerfect
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsChowFormSectionAlgClosed
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsSectionCycleReduced
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsMinimalPrimeComap
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsFundCycleBaseChange
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PRadicalBaseChange
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PChowFormExtend
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PChowFormReduced
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PChowFormBaseChange
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PChowFormAssoc
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PChowFormCycleAdd
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PChowFormCycleSmul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PIncIdealSeparate
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PIncidenceZeroLocus
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PFormsThroughPoint
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PThroughPointIncIdeal
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PChartZeroTrdeg
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PThroughTwoPointsTrdeg
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PTrdegAdjoinLe
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PTrdegBaseAlgebraic
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PIncIdealNeBotDim
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_LocalMultRadical
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PAffineChartTrdeg
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PFGNullstellensatz
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PIncidenceGeneric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PIncIdealPrime
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PGenericLinearTrdeg
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PIncIdealDim
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PConeDimOfChowForm
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PChowFormExists
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_PConeDimComponent
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_PChowFormSectionPerfect
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsMultiHomog_specFirst_e9679426b5b5
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open GroundTheory.Heights₂.Heights.ObjectsChow
+open MvPolynomial
+open GroundTheory.Heights₂.Heights.ObjectsChow.ChowFormSectionPerfect
+
+theorem P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_map_specFirst_2f447d9a2280 {R S : Type*} [CommRing R] [CommRing S] (σ : R →+* S) {k n : ℕ}
+    (f : MvPolynomial (Fin (k + 1) × Fin n) R) (u : Fin n → R) :
+    map σ (specFirst f u) = specFirst (map σ f) (fun j => σ (u j)) := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«ObjectsChow».«ChowFormSectionPerfect».«map_specFirst» := P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_map_specFirst_2f447d9a2280

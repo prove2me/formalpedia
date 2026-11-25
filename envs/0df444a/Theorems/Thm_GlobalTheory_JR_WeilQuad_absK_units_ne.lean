@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_absK_units_ne
 -- name    : GlobalTheory.JR.WeilQuad.absK_units_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:36.473713+00:00
 -- url     : https://prove2.me/theorems/e144f856-62ab-5286-8144-5153b6b14f4d

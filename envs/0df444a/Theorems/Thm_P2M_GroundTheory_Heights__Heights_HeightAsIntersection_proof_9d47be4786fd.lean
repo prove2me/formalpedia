@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HeightAsIntersection_proof_9d47be4786fd
 -- name    : P2M_GroundTheory_Heights__Heights_HeightAsIntersection_proof_9d47be4786fd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:46:27.678319+00:00
 -- url     : https://prove2.me/theorems/b0a20c63-ada7-45d3-b046-582eca2dbf23

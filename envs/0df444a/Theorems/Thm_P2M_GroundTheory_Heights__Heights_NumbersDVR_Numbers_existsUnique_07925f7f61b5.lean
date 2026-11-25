@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_Numbers_existsUnique_07925f7f61b5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_Numbers_existsUnique_07925f7f61b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:08:31.009703+00:00
 -- url     : https://prove2.me/theorems/593ccfa3-4d77-4bca-a2cf-3e72408de168

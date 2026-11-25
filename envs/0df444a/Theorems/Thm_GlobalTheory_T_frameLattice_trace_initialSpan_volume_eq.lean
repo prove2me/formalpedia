@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frameLattice_trace_initialSpan_volume_eq
 -- name    : GlobalTheory.T.frameLattice_trace_initialSpan_volume_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:46:16.18+00:00
 -- url     : https://prove2.me/theorems/011fb13e-576a-4583-b5c8-29a9ce61c2cf

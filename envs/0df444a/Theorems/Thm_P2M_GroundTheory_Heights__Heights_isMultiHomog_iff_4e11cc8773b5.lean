@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isMultiHomog_iff_4e11cc8773b5
 -- name    : P2M_GroundTheory_Heights__Heights_isMultiHomog_iff_4e11cc8773b5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:32:58.524093+00:00
 -- url     : https://prove2.me/theorems/1006f625-f47e-4348-a803-83415817d344

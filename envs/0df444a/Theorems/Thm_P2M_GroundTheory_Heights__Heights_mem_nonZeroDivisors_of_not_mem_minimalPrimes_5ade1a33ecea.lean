@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_nonZeroDivisors_of_not_mem_minimalPrimes_5ade1a33ecea
 -- name    : P2M_GroundTheory_Heights__Heights_mem_nonZeroDivisors_of_not_mem_minimalPrimes_5ade1a33ecea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:05.754906+00:00
 -- url     : https://prove2.me/theorems/ff15f334-b98b-49d3-9c50-16b946e3e6ad

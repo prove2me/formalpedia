@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_minimalPrime_tube_bound_327e295e6616
 -- name    : P2M_GroundTheory_Heights__Heights_minimalPrime_tube_bound_327e295e6616
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:49:06.844808+00:00
 -- url     : https://prove2.me/theorems/b74fff2d-e04d-455e-a9fc-062b92d7b2d1

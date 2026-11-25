@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Reformulated_AutPerF_eval__eq_zero_iff_dvd_74ed1f8e0248
 -- name    : P2M_Reformulated_AutPerF_eval__eq_zero_iff_dvd_74ed1f8e0248
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:05:23.783108+00:00
 -- url     : https://prove2.me/theorems/4573da57-a640-5ea3-ab47-4eacdebf9762

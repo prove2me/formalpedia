@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_EtaPeriodLatticeClass_of_EtaPeriodModularInvariant_a8ee5f1a7ccc
 -- name    : P2M_GroundTheory_Heights__Theta_EtaPeriodLatticeClass_of_EtaPeriodModularInvariant_a8ee5f1a7ccc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:51:07.990034+00:00
 -- url     : https://prove2.me/theorems/05a097f4-aa54-4d86-b205-f3e0c519d182

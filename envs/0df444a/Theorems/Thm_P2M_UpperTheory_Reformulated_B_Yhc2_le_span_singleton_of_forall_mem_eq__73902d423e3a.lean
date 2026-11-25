@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Yhc2_le_span_singleton_of_forall_mem_eq__73902d423e3a
 -- name    : P2M_UpperTheory_Reformulated_B_Yhc2_le_span_singleton_of_forall_mem_eq__73902d423e3a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:39.943921+00:00
 -- url     : https://prove2.me/theorems/e6c30231-6848-4ab8-852a-8ff4defe7e88

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_card_lowerRamificationGroup_zero
 -- name    : GroundTheory.LocalField.card_lowerRamificationGroup_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:17:17.366186+00:00
 -- url     : https://prove2.me/theorems/ab87e52f-18bf-443d-aa06-77c2ee9da94e

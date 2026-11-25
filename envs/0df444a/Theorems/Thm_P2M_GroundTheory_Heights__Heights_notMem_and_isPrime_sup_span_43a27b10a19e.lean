@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_notMem_and_isPrime_sup_span_43a27b10a19e
 -- name    : P2M_GroundTheory_Heights__Heights_notMem_and_isPrime_sup_span_43a27b10a19e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:46.208716+00:00
 -- url     : https://prove2.me/theorems/93006480-c8d6-49ff-8e8b-4f51bfe22a60

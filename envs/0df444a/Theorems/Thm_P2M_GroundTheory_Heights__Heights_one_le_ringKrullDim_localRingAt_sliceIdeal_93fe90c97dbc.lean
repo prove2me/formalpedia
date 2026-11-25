@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_one_le_ringKrullDim_localRingAt_sliceIdeal_93fe90c97dbc
 -- name    : P2M_GroundTheory_Heights__Heights_one_le_ringKrullDim_localRingAt_sliceIdeal_93fe90c97dbc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:50:32.126513+00:00
 -- url     : https://prove2.me/theorems/aa50be64-fb5e-4f37-b5d0-1b3bfc0acf69

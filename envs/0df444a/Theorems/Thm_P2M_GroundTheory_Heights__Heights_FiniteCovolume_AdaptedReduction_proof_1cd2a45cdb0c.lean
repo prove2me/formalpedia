@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_AdaptedReduction_proof_1cd2a45cdb0c
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_AdaptedReduction_proof_1cd2a45cdb0c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:52:30.34541+00:00
 -- url     : https://prove2.me/theorems/1f98dfa0-e8bf-44c8-bdc7-847252fc92a8

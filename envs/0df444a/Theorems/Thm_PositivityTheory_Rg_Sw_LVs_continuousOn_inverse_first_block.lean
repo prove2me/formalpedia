@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_continuousOn_inverse_first_block
 -- name    : PositivityTheory.Rg.Sw.LVs.continuousOn_inverse_first_block
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:48:58.018132+00:00
 -- url     : https://prove2.me/theorems/5345715c-2d4a-4662-934a-d133925881b6

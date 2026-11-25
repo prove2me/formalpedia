@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Comparison__chr_bij_14af8101f3b5
 -- name    : P2M_UpperTheory_Comparison__chr_bij_14af8101f3b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:21:04.828718+00:00
 -- url     : https://prove2.me/theorems/deaaa6cb-42e2-5818-b0ce-8852fae59abb

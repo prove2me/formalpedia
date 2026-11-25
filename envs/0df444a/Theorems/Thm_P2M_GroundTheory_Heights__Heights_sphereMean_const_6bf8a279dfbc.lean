@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_sphereMean_const_6bf8a279dfbc
 -- name    : P2M_GroundTheory_Heights__Heights_sphereMean_const_6bf8a279dfbc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:49:59.671524+00:00
 -- url     : https://prove2.me/theorems/590bb226-b058-4926-b24a-c6ab0f5e0c8f

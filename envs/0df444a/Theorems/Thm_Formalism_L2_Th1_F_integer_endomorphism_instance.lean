@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_integer_endomorphism_instance
 -- name    : Formalism.L2.Th1.F.integer_endomorphism_instance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:32:13.556831+00:00
 -- url     : https://prove2.me/theorems/2838ff1b-7629-46b9-b836-c15fe384f764

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_dv_coeff_mul_eq_zero_of_lt_order
 -- name    : PI.AddIntG.Wk.dv_coeff_mul_eq_zero_of_lt_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:22:50.873825+00:00
 -- url     : https://prove2.me/theorems/617f30c2-93e4-582b-9942-9df3a811993b

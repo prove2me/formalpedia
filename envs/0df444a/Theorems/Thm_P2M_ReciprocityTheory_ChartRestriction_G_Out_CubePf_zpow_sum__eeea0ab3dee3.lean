@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Out_CubePf_zpow_sum__eeea0ab3dee3
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_Out_CubePf_zpow_sum__eeea0ab3dee3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:58:21.088901+00:00
 -- url     : https://prove2.me/theorems/d95d049d-216e-41e8-9a50-0ed97fb82035

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_splitting_eq_extremePoints
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.splitting_eq_extremePoints
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T07:05:50.813137+00:00
 -- url     : https://prove2.me/theorems/22940147-32d1-49d3-898b-b2c573ebd9ab

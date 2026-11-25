@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_CoerciveOfPositiveDefinite_exists_coercive_of_posDef__05ec9a5f4d38
 -- name    : P2M_UpperTheory_Reformulated_B_CoerciveOfPositiveDefinite_exists_coercive_of_posDef__05ec9a5f4d38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:20:45.996516+00:00
 -- url     : https://prove2.me/theorems/3c09e76e-778c-5c41-b18b-ec6f4cce9930

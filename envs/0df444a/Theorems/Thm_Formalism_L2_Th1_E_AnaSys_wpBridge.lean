@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_AnaSys_wpBridge
 -- name    : Formalism.L2.Th1.E.AnaSys.wpBridge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:44:04.706263+00:00
 -- url     : https://prove2.me/theorems/da14bc57-378e-4cf7-a360-df3518964103

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_length_spanQuot_toNat_c531729d4c3b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_length_spanQuot_toNat_c531729d4c3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:12:18.679802+00:00
 -- url     : https://prove2.me/theorems/8eff333c-aaff-48d5-b8b3-cf42432f740e

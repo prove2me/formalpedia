@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_FFTSteps_differentiable_eval__68dfac1aeb37
 -- name    : P2M_PositivityTheory_Rg_Sw_FFTSteps_differentiable_eval__68dfac1aeb37
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:10:48.941929+00:00
 -- url     : https://prove2.me/theorems/a2696bfc-3439-5fe5-9512-5bf0a67974eb

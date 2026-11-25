@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_hasFDerivAt_eval_pointOf_5ff81200400e
 -- name    : P2M_GroundTheory_Heights__Heights_hasFDerivAt_eval_pointOf_5ff81200400e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:46:26.170803+00:00
 -- url     : https://prove2.me/theorems/5ee3186d-87c5-47fa-b946-a199fb4c571f

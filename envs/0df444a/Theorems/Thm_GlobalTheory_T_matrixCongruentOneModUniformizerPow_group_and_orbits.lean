@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_matrixCongruentOneModUniformizerPow_group_and_orbits
 -- name    : GlobalTheory.T.matrixCongruentOneModUniformizerPow_group_and_orbits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:33:10.843798+00:00
 -- url     : https://prove2.me/theorems/1f9bbd45-be94-4887-849e-fc57b29c0c26

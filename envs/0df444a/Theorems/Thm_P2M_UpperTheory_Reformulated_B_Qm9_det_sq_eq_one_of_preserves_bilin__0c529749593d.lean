@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qm9_det_sq_eq_one_of_preserves_bilin__0c529749593d
 -- name    : P2M_UpperTheory_Reformulated_B_Qm9_det_sq_eq_one_of_preserves_bilin__0c529749593d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:42.468103+00:00
 -- url     : https://prove2.me/theorems/3db1b08d-2d08-55ef-bb26-324ee0f368a9

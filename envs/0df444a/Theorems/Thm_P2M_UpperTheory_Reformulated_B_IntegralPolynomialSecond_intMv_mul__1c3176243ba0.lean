@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_IntegralPolynomialSecond_intMv_mul__1c3176243ba0
 -- name    : P2M_UpperTheory_Reformulated_B_IntegralPolynomialSecond_intMv_mul__1c3176243ba0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:21:41.369816+00:00
 -- url     : https://prove2.me/theorems/c8bf477a-d49e-422f-891c-8ee686b9434e

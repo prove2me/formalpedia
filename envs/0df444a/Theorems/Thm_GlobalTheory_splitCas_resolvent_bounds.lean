@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitCas_resolvent_bounds
 -- name    : GlobalTheory.splitCas_resolvent_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:55:53.391543+00:00
 -- url     : https://prove2.me/theorems/e4aedfb8-9939-41a5-acff-4525b2f353dc

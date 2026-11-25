@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for P2M_PI_PhNormUnits_UnitaryGroupMassFormula_sb_sub__5014b8493f84
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T08:48:17.16993+00:00
+-- url     : https://prove2.me/submissions/84596cd6-a969-493b-8ed6-bd055f5f5e4e
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_PhNormUnits
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_PowerSeriesNormUnits_ConstantCoeffFormalSMul
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Classical
+open PI PI.PhNormUnits PI.PhNormUnits.UnitaryGroupMassFormula
+open PI.PhNormUnits
+variable {p : ℕ} [Fact p.Prime]
+variable {σ τ : Type*} [Finite σ] {l ex : PowerSeries ℂ_[p]} (s : σ → MvPowerSeries τ ℂ_[p])
+  (hs : ∀ i, MvPowerSeries.constantCoeff (s i) = 0)
+include hs
+namespace PI.PhNormUnits.UnitaryGroupMassFormula
+theorem _root_.solution (F G : MvPowerSeries σ ℂ_[p]) :
+    MvPowerSeries.subst s (F - G) = MvPowerSeries.subst s F - MvPowerSeries.subst s G :=
+  MvPowerSeries.subst_sub (MvPowerSeries.hasSubst_of_constantCoeff_zero hs) F G
+end PI.PhNormUnits.UnitaryGroupMassFormula

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_two_le_card_cliqueFinset_add_card_cliqueFinset_compl
 -- name    : SimpleGraph.two_le_card_cliqueFinset_add_card_cliqueFinset_compl
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:41:43.73393+00:00
 -- url     : https://prove2.me/theorems/3b92fe50-ada1-575a-aa09-713ec98c2903

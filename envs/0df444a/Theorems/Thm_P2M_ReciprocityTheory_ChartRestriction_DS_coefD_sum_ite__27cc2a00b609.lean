@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_coefD_sum_ite__27cc2a00b609
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_coefD_sum_ite__27cc2a00b609
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:14:39.374804+00:00
 -- url     : https://prove2.me/theorems/a89daab2-a620-5f76-a7fb-dcbb7bfedd21

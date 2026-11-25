@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_P2M_PI_ClassNumImQ_ZetaNonvanishing__cnt_one_f98a1623b55b_697d2cc9c3d8fc66
 -- name    : P2M_RH_P2M_PI_ClassNumImQ_ZetaNonvanishing__cnt_one_f98a1623b55b_697d2cc9c3d8fc66
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:11:51.598623+00:00
 -- url     : https://prove2.me/theorems/03a6ab9b-2a7f-4328-aae7-2ac84862a1ce

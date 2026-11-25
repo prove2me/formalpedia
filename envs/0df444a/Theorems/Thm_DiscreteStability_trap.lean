@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_trap
 -- name    : DiscreteStability.trap
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:43:06.697858+00:00
 -- url     : https://prove2.me/theorems/5a99b374-4fe5-55c5-9257-ce91efea6475

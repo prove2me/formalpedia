@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_SqfRootShift_W_aeval_eq_zero_of_dvd__aabcf90c1878
 -- name    : P2M_PI_SqfRootShift_W_aeval_eq_zero_of_dvd__aabcf90c1878
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:58:15.706442+00:00
 -- url     : https://prove2.me/theorems/b951f17f-50bf-4560-be40-6c7f81d54052

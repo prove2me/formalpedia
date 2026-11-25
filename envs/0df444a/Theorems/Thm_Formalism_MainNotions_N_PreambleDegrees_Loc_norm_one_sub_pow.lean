@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_PreambleDegrees_Loc_norm_one_sub_pow
 -- name    : Formalism.MainNotions.N.PreambleDegrees.Loc.norm_one_sub_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T10:03:52.329781+00:00
 -- url     : https://prove2.me/theorems/abe043f6-7dab-40cb-8b25-a6dfb9a16299

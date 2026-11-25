@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_A_GreenFunction_hasDerivAt_ang__c26e57c11cae
 -- name    : P2M_ReciprocityTheory_AnForm_A_GreenFunction_hasDerivAt_ang__c26e57c11cae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:11:39.471993+00:00
 -- url     : https://prove2.me/theorems/3c304fa3-a3d9-4c68-9a0e-026e9d5e6182

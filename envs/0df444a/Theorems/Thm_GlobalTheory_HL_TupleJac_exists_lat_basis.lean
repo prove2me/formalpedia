@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TupleJac_exists_lat_basis
 -- name    : GlobalTheory.HL.TupleJac.exists_lat_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:53:50.851246+00:00
 -- url     : https://prove2.me/theorems/e18f5eb4-686e-5d19-b4c9-36429904ff29

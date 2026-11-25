@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuadricShare_leak_share
 -- name    : GlobalTheory.HL.QuadricShare.leak_share
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:38:09.98158+00:00
 -- url     : https://prove2.me/theorems/060d5032-7d5d-442c-9308-e959e7af8089

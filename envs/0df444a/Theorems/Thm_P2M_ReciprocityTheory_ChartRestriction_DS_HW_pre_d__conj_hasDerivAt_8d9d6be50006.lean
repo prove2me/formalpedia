@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HW_pre_d__conj_hasDerivAt_8d9d6be50006
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HW_pre_d__conj_hasDerivAt_8d9d6be50006
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:14:26.396851+00:00
 -- url     : https://prove2.me/theorems/42191efe-2b27-4251-8a34-474b87bddecd

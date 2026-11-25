@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartHomog_proof_29d23d70cc5a
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MChartHomog_proof_29d23d70cc5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:04:38.529403+00:00
 -- url     : https://prove2.me/theorems/9ebd4cf9-8fec-5cb3-97cf-92dcb8960630

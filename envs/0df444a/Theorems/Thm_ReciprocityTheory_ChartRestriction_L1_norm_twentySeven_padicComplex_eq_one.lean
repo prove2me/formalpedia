@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_norm_twentySeven_padicComplex_eq_one
 -- name    : ReciprocityTheory.ChartRestriction.L1.norm_twentySeven_padicComplex_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:09:05.74419+00:00
 -- url     : https://prove2.me/theorems/26ecc48a-84f4-5d06-a995-cd0886fe61af

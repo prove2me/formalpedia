@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_step
 -- name    : GlobalTheory.TateDecomp.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:03:42.988951+00:00
 -- url     : https://prove2.me/theorems/05e7b2b9-ad85-4f31-aa81-38a6f92a22d3

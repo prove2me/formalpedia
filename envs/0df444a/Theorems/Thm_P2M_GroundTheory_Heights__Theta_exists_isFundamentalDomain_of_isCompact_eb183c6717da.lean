@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_exists_isFundamentalDomain_of_isCompact_eb183c6717da
 -- name    : P2M_GroundTheory_Heights__Theta_exists_isFundamentalDomain_of_isCompact_eb183c6717da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:53:34.526518+00:00
 -- url     : https://prove2.me/theorems/9ae8f864-f9a7-4c48-a802-0437292b192b

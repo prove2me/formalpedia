@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesRec_lat_span
 -- name    : GlobalTheory.HL.PlacesRec.lat_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:37:41.612651+00:00
 -- url     : https://prove2.me/theorems/d8d4d4d7-d92a-4d97-a0be-f338a23c30a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_relIndex_pos_of_finite
 -- name    : GroundTheory.LocalField.relIndex_pos_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:48:42.424368+00:00
 -- url     : https://prove2.me/theorems/904c6e9f-f7a5-458e-b204-ab6d5cb408a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_specFirst_ne_zero_e3165fe98c76
 -- name    : P2M_GroundTheory_Heights__Heights_exists_specFirst_ne_zero_e3165fe98c76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:45:56.488801+00:00
 -- url     : https://prove2.me/theorems/757f74d7-b0fb-4e7b-823f-0ca724e51e18

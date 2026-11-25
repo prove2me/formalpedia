@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_Main_proof_672bfefe9f51
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_Main_proof_672bfefe9f51
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:42:17.265879+00:00
 -- url     : https://prove2.me/theorems/0db26f45-32da-42c9-b95b-6767d005d2a7

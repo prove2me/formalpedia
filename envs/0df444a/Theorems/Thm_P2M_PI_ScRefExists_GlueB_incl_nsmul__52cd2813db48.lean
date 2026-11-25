@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ScRefExists_GlueB_incl_nsmul__52cd2813db48
 -- name    : P2M_PI_ScRefExists_GlueB_incl_nsmul__52cd2813db48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:57:47.449227+00:00
 -- url     : https://prove2.me/theorems/8d777d92-b2ed-4612-a74a-8b3cc15e8e4a

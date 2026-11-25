@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MinimalPrimePlace_exists_separating_c1a2c10f0a84
 -- name    : P2M_GroundTheory_Heights__Heights_MinimalPrimePlace_exists_separating_c1a2c10f0a84
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:05:28.032804+00:00
 -- url     : https://prove2.me/theorems/1de728dd-79d3-5f7a-a435-b061e7322f8b

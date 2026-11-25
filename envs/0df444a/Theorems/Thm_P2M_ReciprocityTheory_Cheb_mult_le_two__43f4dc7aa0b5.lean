@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_Cheb_mult_le_two__43f4dc7aa0b5
 -- name    : P2M_ReciprocityTheory_Cheb_mult_le_two__43f4dc7aa0b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:17:48.812922+00:00
 -- url     : https://prove2.me/theorems/6f85cee6-3371-4023-b580-041647876a16

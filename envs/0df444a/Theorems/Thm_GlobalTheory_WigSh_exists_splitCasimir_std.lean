@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_exists_splitCasimir_std
 -- name    : GlobalTheory.WigSh.exists_splitCasimir_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:22:12.273889+00:00
 -- url     : https://prove2.me/theorems/627365cc-f353-5215-850f-268d2bd6dfaa

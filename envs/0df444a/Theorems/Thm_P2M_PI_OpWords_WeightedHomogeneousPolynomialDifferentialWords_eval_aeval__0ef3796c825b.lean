@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_OpWords_WeightedHomogeneousPolynomialDifferentialWords_eval_aeval__0ef3796c825b
 -- name    : P2M_PI_OpWords_WeightedHomogeneousPolynomialDifferentialWords_eval_aeval__0ef3796c825b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:56:57.488219+00:00
 -- url     : https://prove2.me/theorems/3a4d3a22-a70e-5ee7-8ab7-79d19b89f4d6

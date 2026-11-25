@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_VolStabW_SdTestInfW_continuous_psiInf__007137ef755b
 -- name    : P2M_PI_VolStabW_SdTestInfW_continuous_psiInf__007137ef755b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:03:10.22591+00:00
 -- url     : https://prove2.me/theorems/21cf3b4a-201b-5af8-b5cc-795f97d76d4b

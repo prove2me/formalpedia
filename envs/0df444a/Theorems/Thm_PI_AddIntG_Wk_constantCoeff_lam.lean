@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_constantCoeff_lam
 -- name    : PI.AddIntG.Wk.constantCoeff_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:22:54.867401+00:00
 -- url     : https://prove2.me/theorems/5cbb0652-3472-4715-9f57-683300d730ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ProdFormulaE_HaarBox_t__inv_0d2f4bd11c98
 -- name    : P2M_PI_ProdFormulaE_HaarBox_t__inv_0d2f4bd11c98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:54.842344+00:00
 -- url     : https://prove2.me/theorems/c55431c6-548f-577f-bc85-91e7b65957f7

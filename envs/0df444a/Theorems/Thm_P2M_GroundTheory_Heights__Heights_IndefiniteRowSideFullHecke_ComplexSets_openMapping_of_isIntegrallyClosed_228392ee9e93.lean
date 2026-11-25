@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_openMapping_of_isIntegrallyClosed_228392ee9e93
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_openMapping_of_isIntegrallyClosed_228392ee9e93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:40:30.878159+00:00
 -- url     : https://prove2.me/theorems/019dfc0e-c0bb-4891-afb0-fe9c06f231c6

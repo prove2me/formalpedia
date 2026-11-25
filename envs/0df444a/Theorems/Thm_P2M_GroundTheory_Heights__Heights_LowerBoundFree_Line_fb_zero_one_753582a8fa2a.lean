@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_fb_zero_one_753582a8fa2a
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_fb_zero_one_753582a8fa2a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:44:30.027694+00:00
 -- url     : https://prove2.me/theorems/7fcb2112-2256-5a88-8ddd-f53a4958f6b5

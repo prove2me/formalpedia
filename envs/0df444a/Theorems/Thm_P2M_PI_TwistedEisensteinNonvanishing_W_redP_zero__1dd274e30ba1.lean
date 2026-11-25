@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_TwistedEisensteinNonvanishing_W_redP_zero__1dd274e30ba1
 -- name    : P2M_PI_TwistedEisensteinNonvanishing_W_redP_zero__1dd274e30ba1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:58:54.213561+00:00
 -- url     : https://prove2.me/theorems/45c16af4-b2c4-49f6-807b-baec4f1e5bbf

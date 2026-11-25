@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_realEisenstein_eq_tsum_1d2f5bf29f0e
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_realEisenstein_eq_tsum_1d2f5bf29f0e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:55:21.612517+00:00
 -- url     : https://prove2.me/theorems/29914081-e723-4cfc-8468-ea839516ad28

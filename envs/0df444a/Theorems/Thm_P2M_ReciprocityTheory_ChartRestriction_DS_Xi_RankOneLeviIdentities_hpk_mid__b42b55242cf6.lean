@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_hpk_mid__b42b55242cf6
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_hpk_mid__b42b55242cf6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:14:02.491593+00:00
 -- url     : https://prove2.me/theorems/c48f6142-81ce-554d-9f01-a42b4e5b26a5

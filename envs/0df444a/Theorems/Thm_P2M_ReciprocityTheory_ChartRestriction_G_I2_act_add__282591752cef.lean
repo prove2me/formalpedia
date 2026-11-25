@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_I2_act_add__282591752cef
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_I2_act_add__282591752cef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:16:12.380826+00:00
 -- url     : https://prove2.me/theorems/2722a121-8fff-42c7-8dc8-210c48b5fcae

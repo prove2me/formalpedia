@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_card_discriminantModule_integralOverlattice_span
 -- name    : GlobalTheory.T.card_discriminantModule_integralOverlattice_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:45:47.052592+00:00
 -- url     : https://prove2.me/theorems/b4fc12cf-b748-4528-a41c-9fe363a4bb06

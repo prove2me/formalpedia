@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueCharacterDense_resChar_eq_iff
 -- name    : GlobalTheory.ResidueCharacterDense.resChar_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:30.556964+00:00
 -- url     : https://prove2.me/theorems/0df788ce-2683-46fe-b148-adcfcdf8a951

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardDualImageBottom_evalQ_graphMap_b8a03b5fa4fa
 -- name    : P2M_GroundTheory_Heights__Heights_StandardDualImageBottom_evalQ_graphMap_b8a03b5fa4fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:39:38.370456+00:00
 -- url     : https://prove2.me/theorems/bb4b0c64-2133-45b4-972c-86fe102202de

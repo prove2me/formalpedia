@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_latticePoint_eq_1f36b469e9bf
 -- name    : P2M_GroundTheory_Heights__Heights_exists_latticePoint_eq_1f36b469e9bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:46:47.624241+00:00
 -- url     : https://prove2.me/theorems/d3626b79-7f01-4ab6-8ad7-19bd2b07fb19

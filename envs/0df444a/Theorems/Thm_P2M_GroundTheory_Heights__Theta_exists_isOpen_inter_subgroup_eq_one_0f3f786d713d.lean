@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_exists_isOpen_inter_subgroup_eq_one_0f3f786d713d
 -- name    : P2M_GroundTheory_Heights__Theta_exists_isOpen_inter_subgroup_eq_one_0f3f786d713d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:53:47.433609+00:00
 -- url     : https://prove2.me/theorems/3c3b18db-a48b-4424-88dc-2b1a3712c091

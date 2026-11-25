@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_L1_wpDen_const__5e7138a2c865
 -- name    : P2M_ReciprocityTheory_ChartRestriction_L1_wpDen_const__5e7138a2c865
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:17:40.228904+00:00
 -- url     : https://prove2.me/theorems/4ee18188-7b0c-4c94-a935-1ceb7e849fc4

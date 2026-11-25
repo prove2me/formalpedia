@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_measurable_tubeDens_109588edc399
 -- name    : P2M_GroundTheory_Heights__Heights_measurable_tubeDens_109588edc399
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:48:01.916869+00:00
 -- url     : https://prove2.me/theorems/c250bf69-5623-4e5e-bfa2-ee028bb4eb9e

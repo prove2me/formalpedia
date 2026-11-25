@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeSheetParam_proof_f2fd37214912
 -- name    : P2M_GroundTheory_Heights__Heights_ConeSheetParam_proof_f2fd37214912
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:42:46.951392+00:00
 -- url     : https://prove2.me/theorems/56e11ce6-e19f-5ece-b38e-874031397a13

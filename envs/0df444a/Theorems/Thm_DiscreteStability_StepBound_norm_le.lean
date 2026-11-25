@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_StepBound_norm_le
 -- name    : DiscreteStability.StepBound.norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:32:47.760407+00:00
 -- url     : https://prove2.me/theorems/eb2a1aca-d789-53c1-aaff-582b8f1e37cc

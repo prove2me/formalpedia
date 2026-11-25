@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_mem_fullChain_of_mem_07319cad7b47
 -- name    : P2M_GroundTheory_Heights__Theta_mem_fullChain_of_mem_07319cad7b47
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:54:23.761239+00:00
 -- url     : https://prove2.me/theorems/e326ae8e-46b9-4f4c-b029-0f4d633f7af7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_localLattice_swapAt_fbff93b7be3f
 -- name    : P2M_GroundTheory_Heights__Heights_localLattice_swapAt_fbff93b7be3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:49:02.049818+00:00
 -- url     : https://prove2.me/theorems/14bfb4f8-3782-47d3-b53a-903245ef2f9f

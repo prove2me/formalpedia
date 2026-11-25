@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_TwistedEisensteinNonvanishing_W_unitV_congr__117095e1432c
 -- name    : P2M_PI_TwistedEisensteinNonvanishing_W_unitV_congr__117095e1432c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:59:20.807651+00:00
 -- url     : https://prove2.me/theorems/053b1cd0-1a08-4eea-8f18-a0d40e39c87a

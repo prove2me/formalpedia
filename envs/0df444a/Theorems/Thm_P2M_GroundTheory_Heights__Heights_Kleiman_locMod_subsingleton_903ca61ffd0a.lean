@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_locMod_subsingleton_903ca61ffd0a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_locMod_subsingleton_903ca61ffd0a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:43:54.825342+00:00
 -- url     : https://prove2.me/theorems/89e04302-897d-4d9b-8834-f7ceb3e6e57d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_TeichLift_tail_eq
 -- name    : GroundTheory.PAdicHodge.TeichLift.tail_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:35:57.152211+00:00
 -- url     : https://prove2.me/theorems/e9cd86ab-6c46-478e-8e6b-43ff83870bab

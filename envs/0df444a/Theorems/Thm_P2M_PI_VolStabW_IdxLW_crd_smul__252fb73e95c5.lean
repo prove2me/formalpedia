@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_VolStabW_IdxLW_crd_smul__252fb73e95c5
 -- name    : P2M_PI_VolStabW_IdxLW_crd_smul__252fb73e95c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:04:32.535683+00:00
 -- url     : https://prove2.me/theorems/70ff11d7-d062-46ac-a1ae-912906b721ef

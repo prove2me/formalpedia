@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularityRelativeClosedPoint_card_le_ringKrullDim_2778d88e3bbc
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularityRelativeClosedPoint_card_le_ringKrullDim_2778d88e3bbc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:42:41.570897+00:00
 -- url     : https://prove2.me/theorems/3fd5f452-b9b9-4cfc-b520-cdfd597945d3

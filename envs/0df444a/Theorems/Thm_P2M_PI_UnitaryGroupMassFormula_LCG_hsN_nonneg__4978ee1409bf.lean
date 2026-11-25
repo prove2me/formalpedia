@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_LCG_hsN_nonneg__4978ee1409bf
 -- name    : P2M_PI_UnitaryGroupMassFormula_LCG_hsN_nonneg__4978ee1409bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:03:07.497104+00:00
 -- url     : https://prove2.me/theorems/eb2d05f0-0698-4a06-bc92-126032d06269

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_lintegral__C_84e056a32217
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_lintegral__C_84e056a32217
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:14:41.861563+00:00
 -- url     : https://prove2.me/theorems/9709ca29-d484-423b-aa52-a7ea4e5e76c6

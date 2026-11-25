@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_GaussDVR_proof_7cec4fb464b7
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_GaussDVR_proof_7cec4fb464b7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:52:59.71058+00:00
 -- url     : https://prove2.me/theorems/5dd7c3d0-0ed4-4388-9b34-4f67084c4eaf

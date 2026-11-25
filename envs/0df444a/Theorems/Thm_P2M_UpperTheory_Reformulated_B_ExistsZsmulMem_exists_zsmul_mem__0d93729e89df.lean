@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_ExistsZsmulMem_exists_zsmul_mem__0d93729e89df
 -- name    : P2M_UpperTheory_Reformulated_B_ExistsZsmulMem_exists_zsmul_mem__0d93729e89df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:21:24.075725+00:00
 -- url     : https://prove2.me/theorems/3bf71fb3-eca5-58e0-9493-afa813775faf

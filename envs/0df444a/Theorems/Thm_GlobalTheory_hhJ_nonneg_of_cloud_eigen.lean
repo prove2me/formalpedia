@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hhJ_nonneg_of_cloud_eigen
 -- name    : GlobalTheory.hhJ_nonneg_of_cloud_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:48:07.243436+00:00
 -- url     : https://prove2.me/theorems/b323ca5a-b5ae-4066-ac9f-3a0412393e2f

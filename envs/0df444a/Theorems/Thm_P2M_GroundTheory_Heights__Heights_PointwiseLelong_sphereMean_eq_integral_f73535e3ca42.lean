@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_sphereMean_eq_integral_f73535e3ca42
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_sphereMean_eq_integral_f73535e3ca42
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:14:54.580805+00:00
 -- url     : https://prove2.me/theorems/165949c7-7e71-53e6-94f1-5b871bccb3d7

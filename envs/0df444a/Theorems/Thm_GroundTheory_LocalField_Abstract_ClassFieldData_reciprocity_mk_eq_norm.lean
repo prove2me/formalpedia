@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_reciprocity_mk_eq_norm
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.reciprocity_mk_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:37:12.687667+00:00
 -- url     : https://prove2.me/theorems/1745cf71-0fa8-41a2-9e22-dea39ae20d02

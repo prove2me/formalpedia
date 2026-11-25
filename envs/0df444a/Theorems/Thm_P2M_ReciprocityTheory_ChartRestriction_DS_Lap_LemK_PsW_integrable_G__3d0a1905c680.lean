@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_PsW_integrable_G__3d0a1905c680
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_PsW_integrable_G__3d0a1905c680
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:11:57.436826+00:00
 -- url     : https://prove2.me/theorems/84a24f9f-6212-4b26-9d23-9604f6efe309

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_ampleRing_twist_subset_4861de94ddb8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GraphClosedAlt_ampleRing_twist_subset_4861de94ddb8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:56:16.787809+00:00
 -- url     : https://prove2.me/theorems/934bf75d-6666-4fdf-8760-0ca1c6b3bc71

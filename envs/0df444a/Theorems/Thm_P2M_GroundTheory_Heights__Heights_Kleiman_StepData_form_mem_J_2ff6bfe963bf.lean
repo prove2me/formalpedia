@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepData_form_mem_J_2ff6bfe963bf
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepData_form_mem_J_2ff6bfe963bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:58:57.064613+00:00
 -- url     : https://prove2.me/theorems/7e25366d-5825-436e-aaa9-cb57c818caca

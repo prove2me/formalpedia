@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_q_Ist
 -- name    : GlobalTheory.DegCnt.LiftS.q_Ist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:26:20.461425+00:00
 -- url     : https://prove2.me/theorems/ce4f43fb-1b94-5931-88be-aad585d18cd0

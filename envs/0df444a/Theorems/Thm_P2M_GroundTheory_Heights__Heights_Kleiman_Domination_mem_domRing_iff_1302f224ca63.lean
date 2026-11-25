@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Domination_mem_domRing_iff_1302f224ca63
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Domination_mem_domRing_iff_1302f224ca63
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:21:36.827596+00:00
 -- url     : https://prove2.me/theorems/6ef5d94e-6854-44da-b8e6-33083a71b7c6

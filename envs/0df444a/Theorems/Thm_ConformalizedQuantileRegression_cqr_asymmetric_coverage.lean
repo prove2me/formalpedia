@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConformalizedQuantileRegression_cqr_asymmetric_coverage
 -- name    : ConformalizedQuantileRegression.cqr_asymmetric_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T07:45:07.380574+00:00
 -- url     : https://prove2.me/theorems/b42425ba-f892-426c-8b94-6161004a36c0

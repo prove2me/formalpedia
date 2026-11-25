@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZColumns_exists_pow_of_mem_7659ef21cbb7
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_VeryAmpleZColumns_exists_pow_of_mem_7659ef21cbb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:59:56.021221+00:00
 -- url     : https://prove2.me/theorems/8e685379-313f-4e2d-ad28-b211c4151386

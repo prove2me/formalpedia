@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_L2_fourier__surjective_1bda25901bf1
 -- name    : P2M_ReciprocityTheory_PGsh_L2_fourier__surjective_1bda25901bf1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:18:52.833865+00:00
 -- url     : https://prove2.me/theorems/4f2331f3-6b08-520f-828f-fd39714523c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_not_isLocFreeLattice_sqrtTwo_8b6afcb03e0e
 -- name    : P2M_GroundTheory_Heights__Heights_not_isLocFreeLattice_sqrtTwo_8b6afcb03e0e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:49:29.895027+00:00
 -- url     : https://prove2.me/theorems/5a5a9eb5-effd-4b2f-b16e-171a1b9651b3

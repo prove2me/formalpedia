@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_dense_zpowers_maximalUnramifiedExtensionFrobenius
 -- name    : GroundTheory.LocalField.dense_zpowers_maximalUnramifiedExtensionFrobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:22:29.811574+00:00
 -- url     : https://prove2.me/theorems/964930eb-9900-4c39-89c3-0ff716762689

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_fieldAdd_ptOver
 -- name    : GlobalTheory.WeierstrassCurve.fieldAdd_ptOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:47:24.525082+00:00
 -- url     : https://prove2.me/theorems/cbb37321-9e1f-5300-b5f1-5f5af590a65b

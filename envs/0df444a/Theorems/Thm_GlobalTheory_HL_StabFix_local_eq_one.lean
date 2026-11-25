@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StabFix_local_eq_one
 -- name    : GlobalTheory.HL.StabFix.local_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:46:25.191646+00:00
 -- url     : https://prove2.me/theorems/30e4d8b9-bd07-5615-a884-c4b6fd1c4249

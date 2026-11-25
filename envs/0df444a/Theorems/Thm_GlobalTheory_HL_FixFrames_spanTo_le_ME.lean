@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FixFrames_spanTo_le_ME
 -- name    : GlobalTheory.HL.FixFrames.spanTo_le_ME
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:39:50.630473+00:00
 -- url     : https://prove2.me/theorems/734d524d-bef4-52cb-b22c-b6426f36794a

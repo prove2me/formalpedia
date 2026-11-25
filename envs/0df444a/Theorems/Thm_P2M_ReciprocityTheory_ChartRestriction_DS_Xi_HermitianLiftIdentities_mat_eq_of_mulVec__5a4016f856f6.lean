@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_HermitianLiftIdentities_mat_eq_of_mulVec__5a4016f856f6
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_HermitianLiftIdentities_mat_eq_of_mulVec__5a4016f856f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:14:29.547928+00:00
 -- url     : https://prove2.me/theorems/a117a223-101d-48ea-8464-c9134bf2b517

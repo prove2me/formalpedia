@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_VolumePreservingUncurry_volume_preserving_uncurry__ff0a4f2b7d3b
 -- name    : P2M_UpperTheory_Reformulated_B_VolumePreservingUncurry_volume_preserving_uncurry__ff0a4f2b7d3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:37.941167+00:00
 -- url     : https://prove2.me/theorems/e4d9c32f-ea11-5ca0-84eb-9a45acfca22a

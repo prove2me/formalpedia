@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_inv_entry__eb51cf5bfe54
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_inv_entry__eb51cf5bfe54
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:13:55.43307+00:00
 -- url     : https://prove2.me/theorems/dfbde521-fc02-4d76-89e9-d99048b9e5b7

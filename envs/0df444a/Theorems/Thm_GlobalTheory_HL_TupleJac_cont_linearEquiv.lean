@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TupleJac_cont_linearEquiv
 -- name    : GlobalTheory.HL.TupleJac.cont_linearEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:36:36.006165+00:00
 -- url     : https://prove2.me/theorems/11524a79-8ec0-4904-afb6-999c2d560bba

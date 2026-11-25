@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepData_idealMod_mul_D_7cd8f9fb693a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepData_idealMod_mul_D_7cd8f9fb693a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:58:59.636279+00:00
 -- url     : https://prove2.me/theorems/d87a2a59-56d6-426d-9375-4ad99e55553d

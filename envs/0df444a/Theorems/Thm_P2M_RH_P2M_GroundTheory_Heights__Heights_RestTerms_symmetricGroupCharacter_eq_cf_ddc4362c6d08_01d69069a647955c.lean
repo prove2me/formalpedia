@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_P2M_GroundTheory_Heights__Heights_RestTerms_symmetricGroupCharacter_eq_cf_ddc4362c6d08_01d69069a647955c
 -- name    : P2M_RH_P2M_GroundTheory_Heights__Heights_RestTerms_symmetricGroupCharacter_eq_cf_ddc4362c6d08_01d69069a647955c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:05:23.971511+00:00
 -- url     : https://prove2.me/theorems/ad00fd6f-0f9e-57c4-afed-505e08434c74

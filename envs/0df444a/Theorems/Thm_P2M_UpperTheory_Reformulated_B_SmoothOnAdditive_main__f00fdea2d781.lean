@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_SmoothOnAdditive_main__f00fdea2d781
 -- name    : P2M_UpperTheory_Reformulated_B_SmoothOnAdditive_main__f00fdea2d781
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:37.813388+00:00
 -- url     : https://prove2.me/theorems/31337869-c243-50c1-82c7-161dfd95c8e7

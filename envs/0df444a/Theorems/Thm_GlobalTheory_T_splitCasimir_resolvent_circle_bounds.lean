@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_splitCasimir_resolvent_circle_bounds
 -- name    : GlobalTheory.T.splitCasimir_resolvent_circle_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:46:10.447842+00:00
 -- url     : https://prove2.me/theorems/a26d508a-fe9b-54f0-aece-064c9ceeed8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_measurable_poincareDeepWeight_0baadc7caca3
 -- name    : P2M_GroundTheory_Heights__Heights_measurable_poincareDeepWeight_0baadc7caca3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:50:09.43919+00:00
 -- url     : https://prove2.me/theorems/498fef2a-78f6-5bae-abf8-76fbce492ec9

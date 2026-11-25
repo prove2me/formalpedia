@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qh19_trace_pow_eq_zero_of_le_dim__a8f51753728b
 -- name    : P2M_UpperTheory_Reformulated_B_Qh19_trace_pow_eq_zero_of_le_dim__a8f51753728b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:21:22.50699+00:00
 -- url     : https://prove2.me/theorems/c6a07db2-9a50-5829-a3f5-2f3d2a92aeb3

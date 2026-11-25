@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unramifiedQuadratic_exists_integers_uniformiser
 -- name    : GlobalTheory.T.unramifiedQuadratic_exists_integers_uniformiser
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:49:51.380647+00:00
 -- url     : https://prove2.me/theorems/0b74db96-0756-4e04-a1bd-3e2598b93c54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_DvRows_le_locS_of_span_le__2805ff1ab53c
 -- name    : P2M_PI_DvRows_le_locS_of_span_le__2805ff1ab53c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:57:10.299704+00:00
 -- url     : https://prove2.me/theorems/4d969137-3c18-4404-8e16-227ea9f9b442

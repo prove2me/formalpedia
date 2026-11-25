@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberJoinLeft_pointIdeal_map_rename_2bc86219e2c1
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_PairNumberJoinLeft_pointIdeal_map_rename_2bc86219e2c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:47:04.283623+00:00
 -- url     : https://prove2.me/theorems/f62838bb-5a61-52a0-85ab-9c875369cb45

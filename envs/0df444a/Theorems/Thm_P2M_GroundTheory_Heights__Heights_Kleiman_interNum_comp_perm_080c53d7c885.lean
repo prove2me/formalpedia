@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_interNum_comp_perm_080c53d7c885
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_interNum_comp_perm_080c53d7c885
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:02:07.814746+00:00
 -- url     : https://prove2.me/theorems/95b1a9e6-1be3-5ff9-90e3-2fbe0c30e2b2

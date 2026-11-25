@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_norm_sgn__73523c24772d
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_norm_sgn__73523c24772d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:14:55.603417+00:00
 -- url     : https://prove2.me/theorems/e1107352-ca14-40c0-869e-b87c18815496

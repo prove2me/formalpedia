@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qm7_exists_common_multiple__e387a76b269a
 -- name    : P2M_UpperTheory_Reformulated_B_Qm7_exists_common_multiple__e387a76b269a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:46.775302+00:00
 -- url     : https://prove2.me/theorems/53e6a2bd-08ac-4051-a78f-f30bb5ec2275

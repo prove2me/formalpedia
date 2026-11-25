@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Yhd1_mem_minimalPrimes_iff__ab28280ba29f
 -- name    : P2M_UpperTheory_Reformulated_B_Yhd1_mem_minimalPrimes_iff__ab28280ba29f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:21:32.226919+00:00
 -- url     : https://prove2.me/theorems/8d374306-6fca-4f6a-b065-17108d0da482

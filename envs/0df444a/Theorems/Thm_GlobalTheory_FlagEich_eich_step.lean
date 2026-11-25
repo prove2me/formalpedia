@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagEich_eich_step
 -- name    : GlobalTheory.FlagEich.eich_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:41:12.841188+00:00
 -- url     : https://prove2.me/theorems/52b3bd48-b1c7-46aa-8359-2de558b1f7ca

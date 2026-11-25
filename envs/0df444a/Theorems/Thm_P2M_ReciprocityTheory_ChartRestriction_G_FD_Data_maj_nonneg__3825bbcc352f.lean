@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_Data_maj_nonneg__3825bbcc352f
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_Data_maj_nonneg__3825bbcc352f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:14:41.214811+00:00
 -- url     : https://prove2.me/theorems/f38a183f-0207-58ea-9a80-ffa10fba2c47

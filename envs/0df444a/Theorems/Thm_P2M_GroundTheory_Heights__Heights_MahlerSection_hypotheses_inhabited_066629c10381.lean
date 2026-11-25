@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerSection_hypotheses_inhabited_066629c10381
 -- name    : P2M_GroundTheory_Heights__Heights_MahlerSection_hypotheses_inhabited_066629c10381
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:29:23.781734+00:00
 -- url     : https://prove2.me/theorems/2a0606c4-ea74-4fe4-b902-06c48573b0ac

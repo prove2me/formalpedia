@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_specFirst_tLine_not_mem_ccadebe4d4f7
 -- name    : P2M_GroundTheory_Heights__Heights_specFirst_tLine_not_mem_ccadebe4d4f7
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:29.575009+00:00
 -- url     : https://prove2.me/theorems/d833331e-db34-4123-b8ea-1594cf6e778f

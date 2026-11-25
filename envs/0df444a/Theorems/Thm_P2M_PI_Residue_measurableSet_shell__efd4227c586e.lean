@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Residue_measurableSet_shell__efd4227c586e
 -- name    : P2M_PI_Residue_measurableSet_shell__efd4227c586e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:57:35.683454+00:00
 -- url     : https://prove2.me/theorems/842bd5b3-d6f1-5a6d-acc1-df414b223d75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__fix_low_6d40825a88fa
 -- name    : P2M_PI_MirrorSection__fix_low_6d40825a88fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:57:51.639484+00:00
 -- url     : https://prove2.me/theorems/3ba0cd59-8858-48a0-93d5-087ab647b3ea

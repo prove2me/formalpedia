@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GradedPieceFree_full_cc691bbcb599
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GradedPieceFree_full_cc691bbcb599
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:44:26.931923+00:00
 -- url     : https://prove2.me/theorems/88a3377b-9a28-4a5e-880d-655373b6e9be

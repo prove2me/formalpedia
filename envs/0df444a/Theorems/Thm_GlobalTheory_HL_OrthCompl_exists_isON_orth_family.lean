@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OrthCompl_exists_isON_orth_family
 -- name    : GlobalTheory.HL.OrthCompl.exists_isON_orth_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:33:07.668106+00:00
 -- url     : https://prove2.me/theorems/76593308-9f51-4c88-8af7-3e76f6150d9a

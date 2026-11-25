@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_ProfCoh_subsingleton_cohomology_X__77ff456b320e
 -- name    : P2M_GroundTheory_ProfCoh_subsingleton_cohomology_X__77ff456b320e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:56:50.841172+00:00
 -- url     : https://prove2.me/theorems/5db7f281-c17f-46b0-946d-fc5b94558ae7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StandardModelDualRank_exists_den_fin_194c4bd4e0e9
 -- name    : P2M_GroundTheory_Heights__Heights_StandardModelDualRank_exists_den_fin_194c4bd4e0e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:40:27.99762+00:00
 -- url     : https://prove2.me/theorems/ab4cfa07-1bb8-4080-9a99-1bcc1b2ef899

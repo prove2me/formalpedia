@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_MapThetaTInvariant_metrizableSpace_904107939c1c
 -- name    : P2M_GroundTheory_Variant__N1_MapThetaTInvariant_metrizableSpace_904107939c1c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:54:46.283505+00:00
 -- url     : https://prove2.me/theorems/6289b8c8-c2cb-547a-a088-5c0bd17fe7cc

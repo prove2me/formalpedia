@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_PowBddIntWork_eval__int_map_eq_zero_9ea7a06fc8b4
 -- name    : P2M_PI_PowBddIntWork_eval__int_map_eq_zero_9ea7a06fc8b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:57:06.640529+00:00
 -- url     : https://prove2.me/theorems/80b69dc3-eec4-442e-b903-6d82fe302de1

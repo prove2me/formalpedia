@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_eta_negConj_2fb1bbadea8b
 -- name    : P2M_GroundTheory_Heights__Theta_eta_negConj_2fb1bbadea8b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:53:19.065084+00:00
 -- url     : https://prove2.me/theorems/8f60f77d-ec9c-586e-869d-50981ddce56e

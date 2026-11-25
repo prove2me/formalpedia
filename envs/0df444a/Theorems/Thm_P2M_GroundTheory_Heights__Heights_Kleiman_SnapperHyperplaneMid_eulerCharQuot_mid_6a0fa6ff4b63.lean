@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperHyperplaneMid_eulerCharQuot_mid_6a0fa6ff4b63
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperHyperplaneMid_eulerCharQuot_mid_6a0fa6ff4b63
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:58:28.703532+00:00
 -- url     : https://prove2.me/theorems/66aa158e-9dca-48dd-a43f-b433fb11bd6f

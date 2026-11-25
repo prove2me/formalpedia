@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimScale_isIntM_mul
 -- name    : GlobalTheory.PrimScale.isIntM_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:34:02.094594+00:00
 -- url     : https://prove2.me/theorems/7584f477-7ce3-5b9f-b18b-73e20bbbca34

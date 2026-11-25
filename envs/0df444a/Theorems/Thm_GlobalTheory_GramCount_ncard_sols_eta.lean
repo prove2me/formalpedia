@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_ncard_sols_eta
 -- name    : GlobalTheory.GramCount.ncard_sols_eta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:27:46.217801+00:00
 -- url     : https://prove2.me/theorems/30c1e699-a446-5927-8f2e-dadd7acde49e

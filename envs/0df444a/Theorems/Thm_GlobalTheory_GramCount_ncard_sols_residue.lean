@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GramCount_ncard_sols_residue
 -- name    : GlobalTheory.GramCount.ncard_sols_residue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:40:01.210843+00:00
 -- url     : https://prove2.me/theorems/9499ba4d-c5ba-48fc-bb44-af46b9efbe6a

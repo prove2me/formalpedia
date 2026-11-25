@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_Gv_algHom
 -- name    : PI.AddIntG.Wk.Gv_algHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:22:09.004402+00:00
 -- url     : https://prove2.me/theorems/1046d2f5-a3ef-509d-a54f-92e706328d7f

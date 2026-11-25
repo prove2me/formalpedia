@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IdxInt_Fubini_cint_prod
 -- name    : GlobalTheory.IdxInt.Fubini.cint_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:22.429483+00:00
 -- url     : https://prove2.me/theorems/784e9ebe-04b5-43c8-92f3-cd8ed13ff42a

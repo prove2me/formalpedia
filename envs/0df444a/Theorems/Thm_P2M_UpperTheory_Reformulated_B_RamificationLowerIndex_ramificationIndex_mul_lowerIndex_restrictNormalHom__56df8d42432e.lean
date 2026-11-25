@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_RamificationLowerIndex_ramificationIndex_mul_lowerIndex_restrictNormalHom__56df8d42432e
 -- name    : P2M_UpperTheory_Reformulated_B_RamificationLowerIndex_ramificationIndex_mul_lowerIndex_restrictNormalHom__56df8d42432e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:05:37.877821+00:00
 -- url     : https://prove2.me/theorems/3796e52c-b83c-538e-897a-acbce4566ac6

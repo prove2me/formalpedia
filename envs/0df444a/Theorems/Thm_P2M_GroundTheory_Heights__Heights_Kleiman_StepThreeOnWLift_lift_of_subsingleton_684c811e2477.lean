@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_StepThreeOnWLift_lift_of_subsingleton_684c811e2477
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_StepThreeOnWLift_lift_of_subsingleton_684c811e2477
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:00:58.773894+00:00
 -- url     : https://prove2.me/theorems/96beb239-77b4-5265-976c-b35d63c28a5f

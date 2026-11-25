@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_discr_neg_and_absNorm_mul_efde573e849a
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_discr_neg_and_absNorm_mul_efde573e849a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:54:54.005835+00:00
 -- url     : https://prove2.me/theorems/aab11270-f46d-4e53-8044-05ac3e75b567

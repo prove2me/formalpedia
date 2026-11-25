@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finsum_integral_smul_mul_eq_toReal_sub_3372cbe3807f
 -- name    : P2M_GroundTheory_Heights__Heights_finsum_integral_smul_mul_eq_toReal_sub_3372cbe3807f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:00.09638+00:00
 -- url     : https://prove2.me/theorems/5dffcc49-694b-4721-9f9f-49a8f02254c1

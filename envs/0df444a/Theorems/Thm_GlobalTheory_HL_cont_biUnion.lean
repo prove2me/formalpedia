@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_cont_biUnion
 -- name    : GlobalTheory.HL.cont_biUnion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:37:11.590984+00:00
 -- url     : https://prove2.me/theorems/6cbeabd6-d410-508c-a11e-eca870dcf948

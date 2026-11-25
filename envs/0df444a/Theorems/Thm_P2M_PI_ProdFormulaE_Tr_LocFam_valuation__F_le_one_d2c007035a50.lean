@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ProdFormulaE_Tr_LocFam_valuation__F_le_one_d2c007035a50
 -- name    : P2M_PI_ProdFormulaE_Tr_LocFam_valuation__F_le_one_d2c007035a50
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:57:20.850865+00:00
 -- url     : https://prove2.me/theorems/5b39280b-60bf-44ad-ae1f-490be2f31961

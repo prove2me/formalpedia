@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linearIndependent_one_sqrtTwo_5dd4db1be431
 -- name    : P2M_GroundTheory_Heights__Heights_linearIndependent_one_sqrtTwo_5dd4db1be431
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:48:24.98967+00:00
 -- url     : https://prove2.me/theorems/d01f6633-bb5c-42cd-9851-759960c26f78

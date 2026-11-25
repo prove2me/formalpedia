@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_weil_action
 -- name    : GlobalTheory.SW.weil_action
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:35:26.744537+00:00
 -- url     : https://prove2.me/theorems/295e1cf2-b246-4377-a822-9a030cb17333

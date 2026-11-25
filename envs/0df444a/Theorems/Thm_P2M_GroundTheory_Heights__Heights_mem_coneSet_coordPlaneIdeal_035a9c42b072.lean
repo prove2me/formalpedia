@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_coneSet_coordPlaneIdeal_035a9c42b072
 -- name    : P2M_GroundTheory_Heights__Heights_mem_coneSet_coordPlaneIdeal_035a9c42b072
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:46:59.45886+00:00
 -- url     : https://prove2.me/theorems/bbe5cddb-895a-42cd-8db2-0aad299aa35a

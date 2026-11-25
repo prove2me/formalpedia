@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialMultAt_full_bee9ac9009be
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialMultAt_full_bee9ac9009be
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:07.028594+00:00
 -- url     : https://prove2.me/theorems/d394cb0a-dbe3-47e8-af65-90d6acf0b06c

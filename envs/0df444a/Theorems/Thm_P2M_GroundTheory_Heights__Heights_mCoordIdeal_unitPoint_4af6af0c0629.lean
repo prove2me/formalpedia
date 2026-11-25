@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mCoordIdeal_unitPoint_4af6af0c0629
 -- name    : P2M_GroundTheory_Heights__Heights_mCoordIdeal_unitPoint_4af6af0c0629
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:54:45.695552+00:00
 -- url     : https://prove2.me/theorems/08210e14-05c1-5801-9d4e-e469ef65313a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_PadicRank_valBallSubmodule_le_range
 -- name    : GroundTheory.LocalField.PadicRank.valBallSubmodule_le_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:50:04.689149+00:00
 -- url     : https://prove2.me/theorems/636a6fff-1f71-5d6d-8da6-11a6edead6b1

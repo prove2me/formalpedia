@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_Numbers_agree_of_80384e316f32
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_Numbers_agree_of_80384e316f32
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:32:42.205079+00:00
 -- url     : https://prove2.me/theorems/d590b7a8-1749-4c77-a8ac-fdc57ddde332

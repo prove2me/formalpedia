@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_qExpansion_E__eq_23abd34fd0e1
 -- name    : P2M_ReciprocityTheory_PGsh_qExpansion_E__eq_23abd34fd0e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:18:51.986628+00:00
 -- url     : https://prove2.me/theorems/8040bc0b-0f46-5567-819e-d01b93541829

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_RStab_exists_isometry_rmul
 -- name    : GlobalTheory.HL.RStab.exists_isometry_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:35:06.389827+00:00
 -- url     : https://prove2.me/theorems/87bcbab7-3a62-4d12-a49f-8857a8c74cae

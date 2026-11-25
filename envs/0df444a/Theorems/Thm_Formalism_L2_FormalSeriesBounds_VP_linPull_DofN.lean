@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_linPull_DofN
 -- name    : Formalism.L2.FormalSeriesBounds.VP.linPull_DofN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:23:01.798847+00:00
 -- url     : https://prove2.me/theorems/88aa5eda-cee1-4d63-80a1-e49c5405a6f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_exists_isValueAt_of_pow_mul_mem_aa197e5832ee
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_exists_isValueAt_of_pow_mul_mem_aa197e5832ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:14:36.760269+00:00
 -- url     : https://prove2.me/theorems/9000fbe3-c45b-5e93-8221-62ec591b6e88

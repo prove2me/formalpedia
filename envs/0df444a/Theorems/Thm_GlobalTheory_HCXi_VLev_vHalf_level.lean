@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_VLev_vHalf_level
 -- name    : GlobalTheory.HCXi.VLev.vHalf_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:58:02.763835+00:00
 -- url     : https://prove2.me/theorems/afa0d6ec-272d-403a-b83a-3332b7f1c9af

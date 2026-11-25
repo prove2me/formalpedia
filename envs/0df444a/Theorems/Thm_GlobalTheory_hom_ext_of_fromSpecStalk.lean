@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hom_ext_of_fromSpecStalk
 -- name    : GlobalTheory.hom_ext_of_fromSpecStalk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:42:30.206262+00:00
 -- url     : https://prove2.me/theorems/83ae4847-4abe-48f0-bb0e-4e09eecddcfe

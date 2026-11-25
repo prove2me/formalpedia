@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_GradedCech_proof_83700601882f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_GradedCech_proof_83700601882f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:03:46.269819+00:00
 -- url     : https://prove2.me/theorems/5ee04eb0-5012-4a88-97d3-1caabeebd338

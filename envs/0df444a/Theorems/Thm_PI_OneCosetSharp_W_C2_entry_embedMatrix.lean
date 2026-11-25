@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OneCosetSharp_W_C2_entry_embedMatrix
 -- name    : PI.OneCosetSharp.W.C2.entry_embedMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:35:01.746803+00:00
 -- url     : https://prove2.me/theorems/97e31e39-85fc-4fd8-be0f-ed1bd450cd84

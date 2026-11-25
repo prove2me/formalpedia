@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AlgValsFin_W_eq_one_of_forall_zpow
 -- name    : PI.AlgValsFin.W.eq_one_of_forall_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:22:31.692417+00:00
 -- url     : https://prove2.me/theorems/21cd179a-0e9b-550d-9df5-890d549a51b3

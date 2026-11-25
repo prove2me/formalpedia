@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_idealChart_pow_le_520c32532769
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_idealChart_pow_le_520c32532769
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:04:41.577906+00:00
 -- url     : https://prove2.me/theorems/d14308df-a16a-5d24-8dac-a070c602b90d

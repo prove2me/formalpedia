@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_graphChart_of_frameGraphGeneric_e48f490dadb8
 -- name    : P2M_GroundTheory_Heights__Heights_graphChart_of_frameGraphGeneric_e48f490dadb8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:46:58.102644+00:00
 -- url     : https://prove2.me/theorems/4dd80ef6-83d3-462d-86dc-a1d542aa00c2

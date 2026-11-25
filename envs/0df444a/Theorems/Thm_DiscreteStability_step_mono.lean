@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_step_mono
 -- name    : DiscreteStability.step_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:42:56.18482+00:00
 -- url     : https://prove2.me/theorems/1228a44d-5007-5cb9-9446-691c3e3cd8e3

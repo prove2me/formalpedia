@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_SplitEmbedding_swap_mp
 -- name    : Formalism.L2.SG.NGCut.SplitEmbedding.swap_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:47:14.319026+00:00
 -- url     : https://prove2.me/theorems/b31747f6-394c-4b44-8861-46d0218c4934

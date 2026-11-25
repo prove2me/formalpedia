@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_TIW__t_apply_0ce0de5f4d20
 -- name    : P2M_PI_Dv_TIW__t_apply_0ce0de5f4d20
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:57:10.474625+00:00
 -- url     : https://prove2.me/theorems/3eeb83ea-9870-4a64-a6c5-34e694821b20

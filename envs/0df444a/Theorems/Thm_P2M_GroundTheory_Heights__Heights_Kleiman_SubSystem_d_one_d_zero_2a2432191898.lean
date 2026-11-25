@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SubSystem_d_one_d_zero_2a2432191898
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SubSystem_d_one_d_zero_2a2432191898
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:21:31.51281+00:00
 -- url     : https://prove2.me/theorems/ff468c1c-211b-44c7-ad44-a4139d7cbdba

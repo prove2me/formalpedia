@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_log_h_eq_neg_logNorm_one_9e0c0bab11f2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_log_h_eq_neg_logNorm_one_9e0c0bab11f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:23:17.504859+00:00
 -- url     : https://prove2.me/theorems/d39e4c58-81fe-5278-b2a6-896e400a3552

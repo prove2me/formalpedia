@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_trdeg_adjoin_eq_cRk_b84e0c0b014c
 -- name    : P2M_GroundTheory_Heights__Heights_trdeg_adjoin_eq_cRk_b84e0c0b014c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:50:38.806613+00:00
 -- url     : https://prove2.me/theorems/74baaf57-6d68-477d-9a64-8d3a91bb5d3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_GluingKernels_sat_gens
 -- name    : GlobalTheory.HL.GluingKernels.sat_gens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:33:06.93115+00:00
 -- url     : https://prove2.me/theorems/613e2c4a-3ac9-4c06-b040-61eb25bd72db

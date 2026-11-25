@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_p__sqZero_400d97111e57
 -- name    : P2M_ReciprocityTheory_PGsh_p__sqZero_400d97111e57
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:18:49.588797+00:00
 -- url     : https://prove2.me/theorems/305068f3-974f-55d3-8974-b392b9f83ca8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_supersaturation_diag
 -- name    : SimpleGraph.supersaturation_diag
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:46:30.646528+00:00
 -- url     : https://prove2.me/theorems/517467c5-0de3-4ced-a245-275d7c0cc9c6

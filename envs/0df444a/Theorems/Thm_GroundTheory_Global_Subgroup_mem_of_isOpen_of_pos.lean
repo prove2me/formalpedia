@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Subgroup_mem_of_isOpen_of_pos
 -- name    : GroundTheory.Global.Subgroup.mem_of_isOpen_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:23:00.811852+00:00
 -- url     : https://prove2.me/theorems/e02b3f25-3907-5a07-a830-056157767d65

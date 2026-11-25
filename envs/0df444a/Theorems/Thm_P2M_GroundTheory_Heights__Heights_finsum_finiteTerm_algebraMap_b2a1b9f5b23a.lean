@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finsum_finiteTerm_algebraMap_b2a1b9f5b23a
 -- name    : P2M_GroundTheory_Heights__Heights_finsum_finiteTerm_algebraMap_b2a1b9f5b23a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:04:55.15415+00:00
 -- url     : https://prove2.me/theorems/a49ca78d-b3c6-429c-ad9b-f8ad2c4127fc

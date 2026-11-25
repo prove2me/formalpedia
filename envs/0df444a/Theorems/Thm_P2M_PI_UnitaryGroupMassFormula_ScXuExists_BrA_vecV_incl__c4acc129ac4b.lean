@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_ScXuExists_BrA_vecV_incl__c4acc129ac4b
 -- name    : P2M_PI_UnitaryGroupMassFormula_ScXuExists_BrA_vecV_incl__c4acc129ac4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:03:55.782823+00:00
 -- url     : https://prove2.me/theorems/b3f05f42-653c-5f17-9266-e55beb7ec9c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_OrthCompl_exists_orthonormal_perp
 -- name    : GlobalTheory.HL.OrthCompl.exists_orthonormal_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:34:30.126578+00:00
 -- url     : https://prove2.me/theorems/55ee2786-2367-464d-b419-77f2548538f0

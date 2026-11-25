@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_LVs_continuous_toBlocks____8e60cf6c58bb
 -- name    : P2M_PositivityTheory_Rg_Sw_LVs_continuous_toBlocks____8e60cf6c58bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:10:37.900589+00:00
 -- url     : https://prove2.me/theorems/b042ad6a-0493-4aea-96b0-a27ace1612ed

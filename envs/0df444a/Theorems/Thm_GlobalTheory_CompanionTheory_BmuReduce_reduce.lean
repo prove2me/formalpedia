@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_BmuReduce_reduce
 -- name    : GlobalTheory.CompanionTheory.BmuReduce.reduce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:33:46.385913+00:00
 -- url     : https://prove2.me/theorems/cbfb930e-df34-54ec-8117-6153b65a6d37

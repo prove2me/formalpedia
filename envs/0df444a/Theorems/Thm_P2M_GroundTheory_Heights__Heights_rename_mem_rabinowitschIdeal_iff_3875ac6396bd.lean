@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_rename_mem_rabinowitschIdeal_iff_3875ac6396bd
 -- name    : P2M_GroundTheory_Heights__Heights_rename_mem_rabinowitschIdeal_iff_3875ac6396bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:49:59.490257+00:00
 -- url     : https://prove2.me/theorems/ae5350f3-c5ea-4e4d-8bcf-f43f9df9d7c2

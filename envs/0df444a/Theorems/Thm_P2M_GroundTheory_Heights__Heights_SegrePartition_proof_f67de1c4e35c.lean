@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SegrePartition_proof_f67de1c4e35c
 -- name    : P2M_GroundTheory_Heights__Heights_SegrePartition_proof_f67de1c4e35c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:33:15.347977+00:00
 -- url     : https://prove2.me/theorems/da3524e4-764a-4418-9f4b-9217dac9ee7a

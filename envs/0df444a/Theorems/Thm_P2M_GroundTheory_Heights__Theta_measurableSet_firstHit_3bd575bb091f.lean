@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_measurableSet_firstHit_3bd575bb091f
 -- name    : P2M_GroundTheory_Heights__Theta_measurableSet_firstHit_3bd575bb091f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:44.966477+00:00
 -- url     : https://prove2.me/theorems/0a50faac-c518-5a68-99a9-c1bf11e57022

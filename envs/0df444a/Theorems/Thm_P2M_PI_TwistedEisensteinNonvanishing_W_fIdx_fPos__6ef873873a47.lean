@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_TwistedEisensteinNonvanishing_W_fIdx_fPos__6ef873873a47
 -- name    : P2M_PI_TwistedEisensteinNonvanishing_W_fIdx_fPos__6ef873873a47
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:57:43.995487+00:00
 -- url     : https://prove2.me/theorems/d112ef97-3a87-44d0-8403-4df53f86d3b3

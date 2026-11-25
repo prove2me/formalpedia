@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_TwistedEisensteinNonvanishing_W_eN_mem__2e08c6580a09
 -- name    : P2M_PI_TwistedEisensteinNonvanishing_W_eN_mem__2e08c6580a09
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:58:10.604971+00:00
 -- url     : https://prove2.me/theorems/6b74747d-cfc4-47f5-a385-57539d535878

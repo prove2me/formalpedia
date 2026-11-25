@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_quotNormSq_line_f2898b3301f1
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_quotNormSq_line_f2898b3301f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:45:50.785554+00:00
 -- url     : https://prove2.me/theorems/6e7025d6-5b4c-4183-97ff-f8e95d52be37

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_DVR_comp_pow__ea2edb35d3f7
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_DVR_comp_pow__ea2edb35d3f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:14:12.091283+00:00
 -- url     : https://prove2.me/theorems/de5fc3b9-725e-4c9f-a14d-8a3263f7cd08

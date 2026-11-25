@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_DatumConjInvWork_II_mul__0a00f185cfa1
 -- name    : P2M_PI_DatumConjInvWork_II_mul__0a00f185cfa1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:17.609468+00:00
 -- url     : https://prove2.me/theorems/9648ad72-d4a7-495a-8d6b-6088bc678063

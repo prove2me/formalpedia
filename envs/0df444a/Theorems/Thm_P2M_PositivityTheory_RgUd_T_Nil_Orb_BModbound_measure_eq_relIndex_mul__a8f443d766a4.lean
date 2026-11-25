@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_RgUd_T_Nil_Orb_BModbound_measure_eq_relIndex_mul__a8f443d766a4
 -- name    : P2M_PositivityTheory_RgUd_T_Nil_Orb_BModbound_measure_eq_relIndex_mul__a8f443d766a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:57:12.123156+00:00
 -- url     : https://prove2.me/theorems/2cc3acb6-eb94-4535-af5f-9a2c4f92e2fa

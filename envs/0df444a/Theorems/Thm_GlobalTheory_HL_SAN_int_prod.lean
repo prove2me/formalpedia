@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SAN_int_prod
 -- name    : GlobalTheory.HL.SAN.int_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:41:23.535565+00:00
 -- url     : https://prove2.me/theorems/8e6e36a5-bf20-4554-bc9b-99307b3f7134

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftDerivativeCurves_comm_lop_rop
 -- name    : Formalism.FourierDecayAlt.P.LeftDerivativeCurves.comm_lop_rop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:11:56.694296+00:00
 -- url     : https://prove2.me/theorems/8f54009c-aaea-5548-8ed0-b641d8b481aa

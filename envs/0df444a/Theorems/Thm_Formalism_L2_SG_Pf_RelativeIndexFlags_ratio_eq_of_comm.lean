@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RelativeIndexFlags_ratio_eq_of_comm
 -- name    : Formalism.L2.SG.Pf.RelativeIndexFlags.ratio_eq_of_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:44:56.218794+00:00
 -- url     : https://prove2.me/theorems/8af22fa0-6926-5f55-8777-99216c97a81a

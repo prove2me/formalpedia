@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_bundleNum_zero_27fd26020daf
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_bundleNum_zero_27fd26020daf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:07:34.550939+00:00
 -- url     : https://prove2.me/theorems/930eb826-53f1-4d63-881b-9e2e68cddd3c

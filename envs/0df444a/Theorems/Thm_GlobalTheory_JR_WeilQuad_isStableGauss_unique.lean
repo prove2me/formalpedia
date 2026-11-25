@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_WeilQuad_isStableGauss_unique
 -- name    : GlobalTheory.JR.WeilQuad.isStableGauss_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:48:31.926955+00:00
 -- url     : https://prove2.me/theorems/00546390-8b0d-536c-a861-74154704c33f

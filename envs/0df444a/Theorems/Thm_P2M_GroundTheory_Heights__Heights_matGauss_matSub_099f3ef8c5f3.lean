@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_matGauss_matSub_099f3ef8c5f3
 -- name    : P2M_GroundTheory_Heights__Heights_matGauss_matSub_099f3ef8c5f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:49:18.463813+00:00
 -- url     : https://prove2.me/theorems/5b4e7f00-0f6f-4f44-ab8d-8d98bab45abd

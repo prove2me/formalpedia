@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialDimBound_full_e8abe55b867c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialDimBound_full_e8abe55b867c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:45.115701+00:00
 -- url     : https://prove2.me/theorems/db3df08d-6491-4358-a379-1f68ef8a6872

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_eq_C_mul_of_map_eq_01c342f1674d
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ChowFormSectionPerfect_eq_C_mul_of_map_eq_01c342f1674d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:06:49.905195+00:00
 -- url     : https://prove2.me/theorems/f44f7788-9e9a-45a7-8e67-3411c89633ca

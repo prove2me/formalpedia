@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_RgUd_T_Nil_Orb_BReps_cb_isChain_apply__4e7af1fbc80f
 -- name    : P2M_PositivityTheory_RgUd_T_Nil_Orb_BReps_cb_isChain_apply__4e7af1fbc80f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:06:42.390123+00:00
 -- url     : https://prove2.me/theorems/2c3c75f3-8286-4f76-ba56-d776989daa40

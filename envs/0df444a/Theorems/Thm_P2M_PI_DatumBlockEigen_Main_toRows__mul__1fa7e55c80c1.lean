@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_DatumBlockEigen_Main_toRows__mul__1fa7e55c80c1
 -- name    : P2M_PI_DatumBlockEigen_Main_toRows__mul__1fa7e55c80c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:55:41.888408+00:00
 -- url     : https://prove2.me/theorems/649bd021-92ba-5167-897e-f60afc0b4a71

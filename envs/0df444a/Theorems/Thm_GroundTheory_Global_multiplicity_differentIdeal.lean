@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_multiplicity_differentIdeal
 -- name    : GroundTheory.Global.multiplicity_differentIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:56:02.638072+00:00
 -- url     : https://prove2.me/theorems/ca8b2162-4465-431a-8133-0748953967c4

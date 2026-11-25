@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_Truncation_proof_5b8f6403e517
 -- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_Truncation_proof_5b8f6403e517
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:10.792808+00:00
 -- url     : https://prove2.me/theorems/dcf6e7eb-a622-4193-ae3d-b8a162d91429

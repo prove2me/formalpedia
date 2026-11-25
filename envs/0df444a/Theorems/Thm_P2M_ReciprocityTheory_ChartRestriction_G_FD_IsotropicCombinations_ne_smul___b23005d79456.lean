@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_IsotropicCombinations_ne_smul___b23005d79456
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_IsotropicCombinations_ne_smul___b23005d79456
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:14:56.608712+00:00
 -- url     : https://prove2.me/theorems/2306a6f4-0c52-5075-b827-82bb99c6b325

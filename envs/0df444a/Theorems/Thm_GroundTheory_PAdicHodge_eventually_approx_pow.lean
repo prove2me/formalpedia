@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_eventually_approx_pow
 -- name    : GroundTheory.PAdicHodge.eventually_approx_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:46:31.564623+00:00
 -- url     : https://prove2.me/theorems/b70ea323-f98a-48b7-8d06-23159d139ec4

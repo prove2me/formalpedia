@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_maximalUnramifiedExtensionFrobenius_iff
 -- name    : GroundTheory.LocalField.eq_maximalUnramifiedExtensionFrobenius_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:21:11.869719+00:00
 -- url     : https://prove2.me/theorems/128d02b2-9fe7-52f0-aa1b-8e783eab3f07

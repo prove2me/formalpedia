@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_DvRows_length_ne_top_of_le_locS__f6d46dbe9ad4
 -- name    : P2M_PI_DvRows_length_ne_top_of_le_locS__f6d46dbe9ad4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:55:39.686803+00:00
 -- url     : https://prove2.me/theorems/3d7fc187-1684-58ec-af2d-9269929dae0a

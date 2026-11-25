@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__isMonomial_conjTranspose_2451b3732e32
 -- name    : P2M_PI_MirrorSection__isMonomial_conjTranspose_2451b3732e32
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:57:12.285851+00:00
 -- url     : https://prove2.me/theorems/954381f4-b360-4539-a835-5f91cfc4bd59

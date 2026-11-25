@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_comap_C_pointIdeal_a7cacdac11cc
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_comap_C_pointIdeal_a7cacdac11cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:14:04.424801+00:00
 -- url     : https://prove2.me/theorems/173b265e-b4cc-4f56-be7a-9db78af0ce57

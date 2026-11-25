@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplShortPrim_full_140321f45ec8
 -- name    : P2M_GroundTheory_Heights__Heights_SymplShortPrim_full_140321f45ec8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:30:06.761651+00:00
 -- url     : https://prove2.me/theorems/3500128d-4747-47db-88c5-f71db3682173

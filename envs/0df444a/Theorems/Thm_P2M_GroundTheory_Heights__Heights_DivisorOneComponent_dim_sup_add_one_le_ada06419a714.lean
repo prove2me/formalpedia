@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DivisorOneComponent_dim_sup_add_one_le_ada06419a714
 -- name    : P2M_GroundTheory_Heights__Heights_DivisorOneComponent_dim_sup_add_one_le_ada06419a714
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:38:41.737882+00:00
 -- url     : https://prove2.me/theorems/4192b6b2-efa8-5145-a822-7399ae8e408e

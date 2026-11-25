@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_length_slice_of_isCohenMacaulay_b86f712f19d6
 -- name    : P2M_GroundTheory_Heights__Heights_length_slice_of_isCohenMacaulay_b86f712f19d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:48:24.8105+00:00
 -- url     : https://prove2.me/theorems/1a617fc4-d65c-4419-82ea-d4f29d0ba9ce

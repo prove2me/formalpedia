@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_stable
 -- name    : DiscreteStability.stable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:43:44.483598+00:00
 -- url     : https://prove2.me/theorems/aea3bd5e-a4ea-509e-a4b1-ecc09f13ff3e

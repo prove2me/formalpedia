@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_weilEt_of_weilField
 -- name    : GlobalTheory.JR.weilEt_of_weilField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:44:21.480164+00:00
 -- url     : https://prove2.me/theorems/7f7878c2-1eeb-4714-ac19-10bb5ba27075

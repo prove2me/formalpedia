@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_PolynomialProperness_TauW_frame_sum__1ea5ca424290
 -- name    : P2M_PI_PolynomialProperness_TauW_frame_sum__1ea5ca424290
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:57:42.350488+00:00
 -- url     : https://prove2.me/theorems/5c14f876-8c97-4577-943f-9203b627cf37

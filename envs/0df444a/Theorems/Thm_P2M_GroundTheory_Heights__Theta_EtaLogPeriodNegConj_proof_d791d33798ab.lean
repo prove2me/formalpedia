@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_EtaLogPeriodNegConj_proof_d791d33798ab
 -- name    : P2M_GroundTheory_Heights__Theta_EtaLogPeriodNegConj_proof_d791d33798ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:51:34.922244+00:00
 -- url     : https://prove2.me/theorems/5fbb748a-9867-4960-bfc8-6353a341fe7b

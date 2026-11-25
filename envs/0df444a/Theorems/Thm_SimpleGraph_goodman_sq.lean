@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_goodman_sq
 -- name    : SimpleGraph.goodman_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:30:52.456164+00:00
 -- url     : https://prove2.me/theorems/9b8c11f3-1bb0-41e4-aec8-ef03f598e1d0

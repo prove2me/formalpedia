@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_RestrLenRestrict_length_secs_eq_72584acc7dfe
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_RestrLenRestrict_length_secs_eq_72584acc7dfe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:22:03.228923+00:00
 -- url     : https://prove2.me/theorems/e5ac83f4-d369-5691-95ef-b7c96e7ebde4

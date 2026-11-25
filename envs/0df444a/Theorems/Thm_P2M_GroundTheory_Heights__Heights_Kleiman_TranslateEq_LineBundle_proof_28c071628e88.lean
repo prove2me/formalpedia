@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_LineBundle_proof_28c071628e88
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_LineBundle_proof_28c071628e88
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:03:41.615591+00:00
 -- url     : https://prove2.me/theorems/96d6f19e-00f6-4a60-9ef6-19c30d36744d

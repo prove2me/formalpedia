@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_PerpLatticeTransfer_span_L__89e1a95f699d
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_PerpLatticeTransfer_span_L__89e1a95f699d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:17:03.168689+00:00
 -- url     : https://prove2.me/theorems/39c04974-34e3-483d-82f4-55c8d40cd178

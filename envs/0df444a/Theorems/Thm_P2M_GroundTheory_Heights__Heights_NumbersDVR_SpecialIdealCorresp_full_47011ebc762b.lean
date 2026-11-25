@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialIdealCorresp_full_47011ebc762b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SpecialIdealCorresp_full_47011ebc762b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:45:27.624142+00:00
 -- url     : https://prove2.me/theorems/d7f464f4-f20f-444e-8043-89be39f7a000

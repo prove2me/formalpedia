@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Frames_mem_K0_of_integral
 -- name    : GlobalTheory.HL.Frames.mem_K0_of_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:23:14.933893+00:00
 -- url     : https://prove2.me/theorems/b1e10699-bbcf-4000-b5f8-eb2471f6b3b4

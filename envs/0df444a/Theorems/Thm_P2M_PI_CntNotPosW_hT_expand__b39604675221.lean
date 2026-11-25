@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_CntNotPosW_hT_expand__b39604675221
 -- name    : P2M_PI_CntNotPosW_hT_expand__b39604675221
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:55:57.422419+00:00
 -- url     : https://prove2.me/theorems/179b6538-4cb3-4062-92b1-bb83768e11ca

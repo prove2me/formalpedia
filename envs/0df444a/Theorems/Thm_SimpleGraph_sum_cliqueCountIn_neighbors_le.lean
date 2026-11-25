@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_sum_cliqueCountIn_neighbors_le
 -- name    : SimpleGraph.sum_cliqueCountIn_neighbors_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:42:41.761183+00:00
 -- url     : https://prove2.me/theorems/0598615f-de22-4edf-9177-b240d8095f8f

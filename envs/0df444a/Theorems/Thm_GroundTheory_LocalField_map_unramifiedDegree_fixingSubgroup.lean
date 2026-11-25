@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_map_unramifiedDegree_fixingSubgroup
 -- name    : GroundTheory.LocalField.map_unramifiedDegree_fixingSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:22:24.186541+00:00
 -- url     : https://prove2.me/theorems/163bbee3-b43c-4268-84df-e73f940a75b6

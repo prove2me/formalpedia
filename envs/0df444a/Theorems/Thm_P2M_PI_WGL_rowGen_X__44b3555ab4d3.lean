@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_WGL_rowGen_X__44b3555ab4d3
 -- name    : P2M_PI_WGL_rowGen_X__44b3555ab4d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:02:46.592873+00:00
 -- url     : https://prove2.me/theorems/c3cbe964-dc07-5bd0-b960-0801dfcc61ca

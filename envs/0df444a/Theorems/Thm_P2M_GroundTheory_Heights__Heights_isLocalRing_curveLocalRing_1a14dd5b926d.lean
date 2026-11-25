@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isLocalRing_curveLocalRing_1a14dd5b926d
 -- name    : P2M_GroundTheory_Heights__Heights_isLocalRing_curveLocalRing_1a14dd5b926d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:06:56.453889+00:00
 -- url     : https://prove2.me/theorems/b93a971a-cb42-5d10-8b37-c3d3f564e09c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundOfPrimeBound_proof_39800829bdbc
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundOfPrimeBound_proof_39800829bdbc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:02:05.869444+00:00
 -- url     : https://prove2.me/theorems/f52a109d-cfee-45f7-bd6f-7e753add50cb

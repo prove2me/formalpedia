@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qm10_exists_rows_linearIndependent__b388476fc269
 -- name    : P2M_UpperTheory_Reformulated_B_Qm10_exists_rows_linearIndependent__b388476fc269
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:36.706803+00:00
 -- url     : https://prove2.me/theorems/63edfdc0-4bff-5bfd-bccd-d7448bf2d667

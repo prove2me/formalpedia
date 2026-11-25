@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DinitzGargGoemans_edgePathFromTerminal2
 -- name    : DinitzGargGoemans.edgePathFromTerminal2
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:46:06.855081+00:00
 -- url     : https://prove2.me/theorems/6b89f285-7d50-57e3-8ac1-8f1745aa6602

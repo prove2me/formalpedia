@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_pot_fin_cons_31ce65ad0242
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_pot_fin_cons_31ce65ad0242
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:09:46.314893+00:00
 -- url     : https://prove2.me/theorems/b26aac8c-eb9b-579a-9f83-a1d5a012223e

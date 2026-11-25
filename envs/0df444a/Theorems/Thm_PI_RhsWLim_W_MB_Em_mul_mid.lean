@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_RhsWLim_W_MB_Em_mul_mid
 -- name    : PI.RhsWLim.W.MB.Em_mul_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:27:02.152953+00:00
 -- url     : https://prove2.me/theorems/9e8f440a-8230-4d9d-90b7-4b01fe161560

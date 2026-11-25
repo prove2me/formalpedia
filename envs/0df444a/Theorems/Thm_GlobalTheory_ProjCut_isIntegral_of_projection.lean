@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProjCut_isIntegral_of_projection
 -- name    : GlobalTheory.ProjCut.isIntegral_of_projection
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:51:56.254807+00:00
 -- url     : https://prove2.me/theorems/b5fe7d34-33e0-4ee4-94c1-d4199b9ab95c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_groupCohomology_res_splittingModule_one
 -- name    : GroundTheory.GroupCoh.isZero_groupCohomology_res_splittingModule_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:52:09.230987+00:00
 -- url     : https://prove2.me/theorems/4b398940-0453-40de-ab6c-1b32ebfbd1b0

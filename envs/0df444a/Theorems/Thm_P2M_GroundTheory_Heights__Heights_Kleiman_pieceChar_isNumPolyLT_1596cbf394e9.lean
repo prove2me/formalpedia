@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_pieceChar_isNumPolyLT_1596cbf394e9
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_pieceChar_isNumPolyLT_1596cbf394e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:02:37.092269+00:00
 -- url     : https://prove2.me/theorems/6310261f-de79-5ec3-8d5c-2fedb41f536c

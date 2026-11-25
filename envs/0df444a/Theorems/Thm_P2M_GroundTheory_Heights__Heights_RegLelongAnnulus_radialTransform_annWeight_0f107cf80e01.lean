@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_radialTransform_annWeight_0f107cf80e01
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_radialTransform_annWeight_0f107cf80e01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:16:38.008599+00:00
 -- url     : https://prove2.me/theorems/7e545260-71c7-54a3-bd7a-73ce07dbcc2b

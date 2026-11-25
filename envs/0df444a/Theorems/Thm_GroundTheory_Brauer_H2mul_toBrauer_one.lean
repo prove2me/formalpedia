@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_H2mul_toBrauer_one
 -- name    : GroundTheory.Brauer.H2mul.toBrauer_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:49:41.1719+00:00
 -- url     : https://prove2.me/theorems/6c6ba337-15fe-4910-8491-f0994ca44e2c

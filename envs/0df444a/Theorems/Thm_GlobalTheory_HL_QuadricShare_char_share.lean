@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuadricShare_char_share
 -- name    : GlobalTheory.HL.QuadricShare.char_share
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T07:34:41.262622+00:00
 -- url     : https://prove2.me/theorems/38e9d8b1-78f2-41e0-87a5-c8623d609f65

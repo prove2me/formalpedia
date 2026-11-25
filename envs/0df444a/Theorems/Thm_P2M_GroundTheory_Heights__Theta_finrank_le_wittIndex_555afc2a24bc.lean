@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_finrank_le_wittIndex_555afc2a24bc
 -- name    : P2M_GroundTheory_Heights__Theta_finrank_le_wittIndex_555afc2a24bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:53:55.460986+00:00
 -- url     : https://prove2.me/theorems/208993f2-66cb-44a7-bb76-bf82a87b07bf

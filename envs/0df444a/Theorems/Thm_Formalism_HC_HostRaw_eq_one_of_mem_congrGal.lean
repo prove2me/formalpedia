@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_eq_one_of_mem_congrGal
 -- name    : Formalism.HC.HostRaw.eq_one_of_mem_congrGal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:59:16.056588+00:00
 -- url     : https://prove2.me/theorems/16517ed3-3585-4c22-9d49-730d36c42487

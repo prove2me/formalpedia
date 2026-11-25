@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_FormalSeriesBounds_VP_cc_mvExp__a585da84af78
 -- name    : P2M_Formalism_L2_FormalSeriesBounds_VP_cc_mvExp__a585da84af78
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:41:49.680898+00:00
 -- url     : https://prove2.me/theorems/042398de-6577-53d5-8b96-9dfa54ae72e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UnipMove_herm_smul_left__6f6c7a1bcd4e
 -- name    : P2M_UnipMove_herm_smul_left__6f6c7a1bcd4e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:20:32.272107+00:00
 -- url     : https://prove2.me/theorems/ca4c2f71-4f60-4ebf-a59b-e2eff827c8a4

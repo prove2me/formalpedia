@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_bundleNum_tensor_129391e5b284
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_bundleNum_tensor_129391e5b284
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:33:44.917539+00:00
 -- url     : https://prove2.me/theorems/fc81f2ef-228c-4dbd-ae4c-310ff17cc839

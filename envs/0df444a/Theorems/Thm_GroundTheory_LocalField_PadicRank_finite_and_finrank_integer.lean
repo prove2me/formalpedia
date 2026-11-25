@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_PadicRank_finite_and_finrank_integer
 -- name    : GroundTheory.LocalField.PadicRank.finite_and_finrank_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:49:20.254583+00:00
 -- url     : https://prove2.me/theorems/07e7709e-0720-4839-a966-94ffeb661c32

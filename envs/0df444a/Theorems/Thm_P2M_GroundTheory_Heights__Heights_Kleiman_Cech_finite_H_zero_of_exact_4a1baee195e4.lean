@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_finite_H_zero_of_exact_4a1baee195e4
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_finite_H_zero_of_exact_4a1baee195e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:53:21.715798+00:00
 -- url     : https://prove2.me/theorems/20d6a2f7-09a3-4f5b-892d-f5a19be90da4

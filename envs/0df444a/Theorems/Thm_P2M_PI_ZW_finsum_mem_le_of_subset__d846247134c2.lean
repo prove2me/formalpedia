@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ZW_finsum_mem_le_of_subset__d846247134c2
 -- name    : P2M_PI_ZW_finsum_mem_le_of_subset__d846247134c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:01:39.23782+00:00
 -- url     : https://prove2.me/theorems/fd147cf8-ce93-512f-987e-c40bc6f6ce6c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasProd_euler
 -- name    : GroundTheory.Global.hasProd_euler
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:00:11.260437+00:00
 -- url     : https://prove2.me/theorems/20d66451-8cbb-5307-9542-ee6943da0b63

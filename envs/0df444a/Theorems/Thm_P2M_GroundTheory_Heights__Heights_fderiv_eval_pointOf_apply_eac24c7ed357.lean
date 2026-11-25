@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_fderiv_eval_pointOf_apply_eac24c7ed357
 -- name    : P2M_GroundTheory_Heights__Heights_fderiv_eval_pointOf_apply_eac24c7ed357
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:26.940592+00:00
 -- url     : https://prove2.me/theorems/2b9c6896-3e87-4251-849a-5c8574cb8e7c

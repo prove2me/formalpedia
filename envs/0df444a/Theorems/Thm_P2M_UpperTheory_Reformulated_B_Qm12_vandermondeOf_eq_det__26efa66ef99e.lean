@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qm12_vandermondeOf_eq_det__26efa66ef99e
 -- name    : P2M_UpperTheory_Reformulated_B_Qm12_vandermondeOf_eq_det__26efa66ef99e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:40.866964+00:00
 -- url     : https://prove2.me/theorems/e221041d-4b61-4268-88de-35751fbbe973

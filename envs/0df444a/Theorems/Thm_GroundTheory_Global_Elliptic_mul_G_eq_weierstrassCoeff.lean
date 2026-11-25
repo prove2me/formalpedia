@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_mul_G_eq_weierstrassCoeff
 -- name    : GroundTheory.Global.Elliptic.mul_G_eq_weierstrassCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:49:11.635321+00:00
 -- url     : https://prove2.me/theorems/c5f13d3a-8593-4528-b1bb-778f9443c9e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_relIndex_pair_comap_of_dense_image
 -- name    : GlobalTheory.HL.relIndex_pair_comap_of_dense_image
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:27:54.416605+00:00
 -- url     : https://prove2.me/theorems/77ecfee1-273c-4c95-9411-fe87f7df6a78

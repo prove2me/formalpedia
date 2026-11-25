@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ne_of_mem_euclBall_diff_cbab76297a4b
 -- name    : P2M_GroundTheory_Heights__Heights_ne_of_mem_euclBall_diff_cbab76297a4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:49:32.150175+00:00
 -- url     : https://prove2.me/theorems/bcbc1e2e-d25b-4b1f-ad36-ae12b579fbea

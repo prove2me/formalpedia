@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_exists_finset_span_integral_of_div_cb55b2e17947
 -- name    : P2M_GroundTheory_Heights__Heights_exists_finset_span_integral_of_div_cb55b2e17947
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:06:52.72706+00:00
 -- url     : https://prove2.me/theorems/d9f704a5-bdab-46ca-8df1-c01ee1752911

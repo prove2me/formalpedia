@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalPerpBasis_hC_sum_right__1bac482c7394
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalPerpBasis_hC_sum_right__1bac482c7394
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:14:50.022072+00:00
 -- url     : https://prove2.me/theorems/9dae7b48-b14a-4e4c-9234-c341c1ccf351

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qk13_dc_aeval_intertwine__c1ac79a317c8
 -- name    : P2M_UpperTheory_Reformulated_B_Qk13_dc_aeval_intertwine__c1ac79a317c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:21:26.7448+00:00
 -- url     : https://prove2.me/theorems/ae270a97-3d9c-5340-b7d5-3e272802de12

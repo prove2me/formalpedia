@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DimensionInequalityOneGenerator_full_2e439ceebee9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DimensionInequalityOneGenerator_full_2e439ceebee9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:24:53.790061+00:00
 -- url     : https://prove2.me/theorems/bcb3d05a-4884-4fb8-b1ba-08925e399fca

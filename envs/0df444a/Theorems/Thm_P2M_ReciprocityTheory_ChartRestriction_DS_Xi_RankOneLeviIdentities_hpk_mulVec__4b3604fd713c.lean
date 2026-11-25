@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_hpk_mulVec__4b3604fd713c
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_hpk_mulVec__4b3604fd713c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:00:17.885797+00:00
 -- url     : https://prove2.me/theorems/f68e22e2-88b6-4c7f-95e2-caefdfdf15d4

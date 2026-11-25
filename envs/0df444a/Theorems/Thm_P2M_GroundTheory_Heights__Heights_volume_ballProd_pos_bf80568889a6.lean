@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_volume_ballProd_pos_bf80568889a6
 -- name    : P2M_GroundTheory_Heights__Heights_volume_ballProd_pos_bf80568889a6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:35:40.161922+00:00
 -- url     : https://prove2.me/theorems/68985c1b-ac86-47e3-8d4f-84139ff5a399

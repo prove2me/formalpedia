@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameEqv_symm_gr
 -- name    : GlobalTheory.DegAsm.FrameEqv.symm_gr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:35:07.568477+00:00
 -- url     : https://prove2.me/theorems/73bd800d-9bb7-429e-bc4e-a2ea4a32d6f7

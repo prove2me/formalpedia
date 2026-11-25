@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_J2_split_cons__05b34922c7ac
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_J2_split_cons__05b34922c7ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:12:29.0083+00:00
 -- url     : https://prove2.me/theorems/a38b95dc-e347-4de2-91e1-65bab1f4b153

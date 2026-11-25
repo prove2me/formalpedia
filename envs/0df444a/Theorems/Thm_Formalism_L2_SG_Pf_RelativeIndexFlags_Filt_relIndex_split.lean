@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RelativeIndexFlags_Filt_relIndex_split
 -- name    : Formalism.L2.SG.Pf.RelativeIndexFlags.Filt.relIndex_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:45:06.548908+00:00
 -- url     : https://prove2.me/theorems/660ecc63-83e6-4699-9263-2250a372dc00

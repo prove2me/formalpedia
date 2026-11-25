@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_norm_factor_le_ca1c8d676e83
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_norm_factor_le_ca1c8d676e83
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:02:46.362798+00:00
 -- url     : https://prove2.me/theorems/e9eff43e-831b-4535-8bc7-0d40508b5e88

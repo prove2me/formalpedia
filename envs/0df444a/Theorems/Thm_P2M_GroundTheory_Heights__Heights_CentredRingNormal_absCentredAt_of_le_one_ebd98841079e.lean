@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CentredRingNormal_absCentredAt_of_le_one_ebd98841079e
 -- name    : P2M_GroundTheory_Heights__Heights_CentredRingNormal_absCentredAt_of_le_one_ebd98841079e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:18:26.585224+00:00
 -- url     : https://prove2.me/theorems/7e96cb09-43e8-4e54-861e-ee3f4d529327

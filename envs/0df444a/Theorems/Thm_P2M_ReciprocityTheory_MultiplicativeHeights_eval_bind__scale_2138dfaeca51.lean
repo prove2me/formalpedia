@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_MultiplicativeHeights_eval_bind__scale_2138dfaeca51
 -- name    : P2M_ReciprocityTheory_MultiplicativeHeights_eval_bind__scale_2138dfaeca51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:17:42.370811+00:00
 -- url     : https://prove2.me/theorems/834624cb-c297-40a2-a9ef-63fe278323dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_Coh_CohomologyFunctoriality__normCx_spec_5a505131bda6
 -- name    : P2M_ReciprocityTheory_Coh_CohomologyFunctoriality__normCx_spec_5a505131bda6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:17:27.666987+00:00
 -- url     : https://prove2.me/theorems/1885a862-719a-58a7-b694-b7542568cb65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_locField_sigmaCompactSpace_3d78a5bf45ec
 -- name    : P2M_GroundTheory_Heights__Theta_locField_sigmaCompactSpace_3d78a5bf45ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:53:53.850151+00:00
 -- url     : https://prove2.me/theorems/0065ee08-6bb6-4704-8304-55c856fe2d4d

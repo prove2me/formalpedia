@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Comparison__gChi_eq_7c3956c33f79
 -- name    : P2M_UpperTheory_Comparison__gChi_eq_7c3956c33f79
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:23:01.159441+00:00
 -- url     : https://prove2.me/theorems/86de3b1c-6ffa-4a5a-93b4-0a8334e54f37

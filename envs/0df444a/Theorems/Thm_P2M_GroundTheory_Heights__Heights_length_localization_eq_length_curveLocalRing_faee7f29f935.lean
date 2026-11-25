@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_length_localization_eq_length_curveLocalRing_faee7f29f935
 -- name    : P2M_GroundTheory_Heights__Heights_length_localization_eq_length_curveLocalRing_faee7f29f935
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:49:18.657046+00:00
 -- url     : https://prove2.me/theorems/1c03ed2f-b47a-5bee-8f45-55e9c493cb48

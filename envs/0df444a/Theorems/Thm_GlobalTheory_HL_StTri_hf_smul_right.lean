@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StTri_hf_smul_right
 -- name    : GlobalTheory.HL.StTri.hf_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:45:43.160646+00:00
 -- url     : https://prove2.me/theorems/b94476b7-7e38-493a-b894-28e9a6fa265e

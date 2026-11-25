@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_coeff_termS
 -- name    : PI.AddIntG.Wk.coeff_termS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:22:13.783818+00:00
 -- url     : https://prove2.me/theorems/4ab0cc65-31ab-5d0e-8696-8855af93ae7a

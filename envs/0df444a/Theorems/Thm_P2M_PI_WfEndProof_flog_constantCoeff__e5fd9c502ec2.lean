@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_WfEndProof_flog_constantCoeff__e5fd9c502ec2
 -- name    : P2M_PI_WfEndProof_flog_constantCoeff__e5fd9c502ec2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:02:33.098973+00:00
 -- url     : https://prove2.me/theorems/653fde7b-bcfd-466e-b0ce-ba18f54b42d7

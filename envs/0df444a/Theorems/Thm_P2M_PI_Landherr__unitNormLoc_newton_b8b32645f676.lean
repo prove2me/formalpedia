@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Landherr__unitNormLoc_newton_b8b32645f676
 -- name    : P2M_PI_Landherr__unitNormLoc_newton_b8b32645f676
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:07:38.049805+00:00
 -- url     : https://prove2.me/theorems/f7ef01fe-e20d-5704-b102-bd5124102cba

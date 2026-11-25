@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_AdIndexEq_QRG_comp_neg__f00b25033542
 -- name    : P2M_PI_UnitaryGroupMassFormula_AdIndexEq_QRG_comp_neg__f00b25033542
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:58:34.550602+00:00
 -- url     : https://prove2.me/theorems/cc184269-d17a-4a49-a897-3afaf9e12c88

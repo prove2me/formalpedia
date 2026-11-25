@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagEich_zero_of
 -- name    : GlobalTheory.FlagEich.zero_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:38:37.274818+00:00
 -- url     : https://prove2.me/theorems/075f612b-eb3f-4ac6-9749-cdc797786435

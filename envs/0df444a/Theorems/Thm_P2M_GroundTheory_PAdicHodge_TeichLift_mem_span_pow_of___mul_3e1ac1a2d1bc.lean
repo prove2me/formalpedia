@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_PAdicHodge_TeichLift_mem_span_pow_of___mul_3e1ac1a2d1bc
 -- name    : P2M_GroundTheory_PAdicHodge_TeichLift_mem_span_pow_of___mul_3e1ac1a2d1bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:54:54.129801+00:00
 -- url     : https://prove2.me/theorems/4619474e-a621-496e-8a49-0eeb2bea2b0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_tangentGaussProfile_abs_bb11bcb29d10
 -- name    : P2M_GroundTheory_Heights__Heights_tangentGaussProfile_abs_bb11bcb29d10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:50:58.274396+00:00
 -- url     : https://prove2.me/theorems/9bb92695-6b1c-45e4-968a-800ad58d6eff

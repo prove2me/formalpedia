@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_endoZInstance
 -- name    : Formalism.L2.Th1.F.endoZInstance
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:38:48.276805+00:00
 -- url     : https://prove2.me/theorems/ccefb623-789e-4200-8df3-cc496b2939b0

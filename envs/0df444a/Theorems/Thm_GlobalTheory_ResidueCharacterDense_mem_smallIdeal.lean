@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ResidueCharacterDense_mem_smallIdeal
 -- name    : GlobalTheory.ResidueCharacterDense.mem_smallIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:26:59.806046+00:00
 -- url     : https://prove2.me/theorems/34010e28-cf25-4814-be86-2c49a5424eb5

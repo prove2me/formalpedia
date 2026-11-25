@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirrorSection__onto_low_16ac7e56a491
 -- name    : P2M_PI_MirrorSection__onto_low_16ac7e56a491
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:57:42.949603+00:00
 -- url     : https://prove2.me/theorems/cbb202c2-4f24-41dc-b12b-a9f7ade5f72c

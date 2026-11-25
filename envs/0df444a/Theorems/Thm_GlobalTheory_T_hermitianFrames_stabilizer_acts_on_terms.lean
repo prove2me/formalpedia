@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianFrames_stabilizer_acts_on_terms
 -- name    : GlobalTheory.T.hermitianFrames_stabilizer_acts_on_terms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:33:38.445846+00:00
 -- url     : https://prove2.me/theorems/0b9cbcd4-e7ba-467a-b4a4-c7fe0d1f05a3

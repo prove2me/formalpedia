@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_span_secs_eq_secs_extend_88515a1497d9
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_span_secs_eq_secs_extend_88515a1497d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:11:03.7565+00:00
 -- url     : https://prove2.me/theorems/3b1d2892-c946-5530-a9c2-d09eccd64346

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_galRestrict_mk
 -- name    : GroundTheory.LocalField.Abstract.galRestrict_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:42:36.703398+00:00
 -- url     : https://prove2.me/theorems/72746898-6f4c-5717-9e2a-ac0ece7dba5b

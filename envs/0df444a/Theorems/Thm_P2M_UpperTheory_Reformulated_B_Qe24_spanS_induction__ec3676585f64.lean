@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qe24_spanS_induction__ec3676585f64
 -- name    : P2M_UpperTheory_Reformulated_B_Qe24_spanS_induction__ec3676585f64
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:21:23.651652+00:00
 -- url     : https://prove2.me/theorems/5f8a90e0-83b9-5ab9-998d-7df8456f6399

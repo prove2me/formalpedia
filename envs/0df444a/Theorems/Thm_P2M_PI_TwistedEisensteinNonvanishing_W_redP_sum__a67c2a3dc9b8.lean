@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_TwistedEisensteinNonvanishing_W_redP_sum__a67c2a3dc9b8
 -- name    : P2M_PI_TwistedEisensteinNonvanishing_W_redP_sum__a67c2a3dc9b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:58:53.543615+00:00
 -- url     : https://prove2.me/theorems/c4b30a2a-3f24-40bb-9971-228fe8b3bf00

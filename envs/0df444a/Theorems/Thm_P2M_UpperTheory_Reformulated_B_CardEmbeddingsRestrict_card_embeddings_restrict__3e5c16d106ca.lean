@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_CardEmbeddingsRestrict_card_embeddings_restrict__3e5c16d106ca
 -- name    : P2M_UpperTheory_Reformulated_B_CardEmbeddingsRestrict_card_embeddings_restrict__3e5c16d106ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:20:52.269623+00:00
 -- url     : https://prove2.me/theorems/c6741d8a-62bf-405b-892c-7b8f2c9b4dfb

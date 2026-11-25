@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_eq_mk_5796c1fd3e82
 -- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_eq_mk_5796c1fd3e82
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:47:25.941301+00:00
 -- url     : https://prove2.me/theorems/511fec7b-26b6-4efb-bf80-093a073b3b72

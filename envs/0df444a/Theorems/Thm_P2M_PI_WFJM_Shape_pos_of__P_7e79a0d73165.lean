@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_WFJM_Shape_pos_of__P_7e79a0d73165
 -- name    : P2M_PI_WFJM_Shape_pos_of__P_7e79a0d73165
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:02:40.960959+00:00
 -- url     : https://prove2.me/theorems/07162a85-480e-452e-9fdb-24684a6d89c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_FactorialDivisibilityBounds_dmin_ne__f45090e2d31f
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_FactorialDivisibilityBounds_dmin_ne__f45090e2d31f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:13:58.9208+00:00
 -- url     : https://prove2.me/theorems/aeda5819-4619-5765-9c6e-d91e8fa8e5c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RelativeIndexFlags_ratio_cj_of
 -- name    : Formalism.L2.SG.Pf.RelativeIndexFlags.ratio_cj_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:49:43.247799+00:00
 -- url     : https://prove2.me/theorems/acf35308-6075-4d95-aa0e-cbd61fb64fd5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SecBTorsionFree_proof_5499ef21601c
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SecBTorsionFree_proof_5499ef21601c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:30.846066+00:00
 -- url     : https://prove2.me/theorems/ed1975f3-4c45-4199-b448-b91b1377044d

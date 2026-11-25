@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cocycle_vanishing_on_fixingSubgroup_determined_by_generator
 -- name    : GlobalTheory.T.cocycle_vanishing_on_fixingSubgroup_determined_by_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:47:16.486142+00:00
 -- url     : https://prove2.me/theorems/9399370e-0abf-5c19-8626-efe7f49c9664

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_Relabel_multAt_map_1cf6a0a0a11f
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_Relabel_multAt_map_1cf6a0a0a11f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:41:53.491002+00:00
 -- url     : https://prove2.me/theorems/ad932dc3-6c95-59ba-826f-facae88160c1

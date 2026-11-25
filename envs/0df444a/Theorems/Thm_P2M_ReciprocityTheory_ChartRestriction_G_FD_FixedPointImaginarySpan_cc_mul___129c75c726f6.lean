@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_FixedPointImaginarySpan_cc_mul___129c75c726f6
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_FixedPointImaginarySpan_cc_mul___129c75c726f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:14:51.043346+00:00
 -- url     : https://prove2.me/theorems/763aab62-1ea2-44ac-b024-a2e9b9bced3e

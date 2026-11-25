@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_Coh_CohomologyFunctoriality__partialProd_coe_64de18ea0922
 -- name    : P2M_ReciprocityTheory_Coh_CohomologyFunctoriality__partialProd_coe_64de18ea0922
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:17:50.454565+00:00
 -- url     : https://prove2.me/theorems/c9f28e1a-c71c-4d8c-bd69-039c4756c6d9

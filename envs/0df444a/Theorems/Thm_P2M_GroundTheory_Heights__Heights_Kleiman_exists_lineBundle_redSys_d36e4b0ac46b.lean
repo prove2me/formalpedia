@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_exists_lineBundle_redSys_d36e4b0ac46b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_exists_lineBundle_redSys_d36e4b0ac46b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:03:10.470168+00:00
 -- url     : https://prove2.me/theorems/b814b5d2-ae59-4c8d-8176-d368ec8685bd

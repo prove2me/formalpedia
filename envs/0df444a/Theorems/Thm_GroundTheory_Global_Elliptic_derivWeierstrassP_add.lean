@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_derivWeierstrassP_add
 -- name    : GroundTheory.Global.Elliptic.derivWeierstrassP_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:15:43.457073+00:00
 -- url     : https://prove2.me/theorems/335f005d-df35-4f21-b4d0-d2df8310cef6

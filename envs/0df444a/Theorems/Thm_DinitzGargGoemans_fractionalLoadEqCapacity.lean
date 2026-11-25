@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DinitzGargGoemans_fractionalLoadEqCapacity
 -- name    : DinitzGargGoemans.fractionalLoadEqCapacity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:45:45.18425+00:00
 -- url     : https://prove2.me/theorems/e1d967e1-8e72-4bab-95da-2827a46503d9

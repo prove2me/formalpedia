@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_fibreCount_coordPlaneIdeal_b9fcb6704b37
 -- name    : P2M_GroundTheory_Heights__Heights_fibreCount_coordPlaneIdeal_b9fcb6704b37
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:28.604529+00:00
 -- url     : https://prove2.me/theorems/d5113a4c-beb4-4822-9ab8-f548b29348db

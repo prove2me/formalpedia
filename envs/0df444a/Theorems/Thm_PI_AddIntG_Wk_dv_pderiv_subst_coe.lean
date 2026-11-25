@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_AddIntG_Wk_dv_pderiv_subst_coe
 -- name    : PI.AddIntG.Wk.dv_pderiv_subst_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:21:47.656029+00:00
 -- url     : https://prove2.me/theorems/906b98f4-8cf3-5fa6-9d01-ed040c54fef2

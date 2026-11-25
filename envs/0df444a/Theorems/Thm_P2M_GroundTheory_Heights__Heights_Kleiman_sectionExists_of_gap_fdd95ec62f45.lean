@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_sectionExists_of_gap_fdd95ec62f45
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_sectionExists_of_gap_fdd95ec62f45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:11:04.763819+00:00
 -- url     : https://prove2.me/theorems/fbd00e8c-7b57-5f03-9743-e566e2a57798

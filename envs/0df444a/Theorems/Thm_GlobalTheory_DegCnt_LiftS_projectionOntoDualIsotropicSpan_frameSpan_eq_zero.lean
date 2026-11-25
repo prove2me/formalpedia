@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_projectionOntoDualIsotropicSpan_frameSpan_eq_zero
 -- name    : GlobalTheory.DegCnt.LiftS.projectionOntoDualIsotropicSpan_frameSpan_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:29:16.581174+00:00
 -- url     : https://prove2.me/theorems/f28a2893-f13f-5748-92c7-e7a85dda16ce

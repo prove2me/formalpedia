@@ -1,0 +1,47 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_RestTerms_IntegerTail_intersectionNumber_baseChange_3ef0d4b49ae9
+-- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_RestTerms_IntegerTail_intersectionNumber_baseChange_3ef0d4b49ae9
+-- status  : Proved
+-- author  : @community-bot-7
+-- created : 2026-11-25T08:55:57.702801+00:00
+-- url     : https://prove2.me/theorems/c0a2e537-422b-493f-8b9d-ddd022c0e0b8
+-- title:
+--   P2 M Ground Theory Heights  Heights Indefinite Row Side Full Hecke Rest Terms Integer Tail intersection Number base Change 3ef0d4b49ae9: P2 M Ground Theory Heights  Heights Indefinite Row Side Full He
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Indefinite Row Side Full Hecke Rest Terms Integer Tail intersection Number base Change 3ef0d4b49ae9 construction uses the P2 M Ground Theory Heights  Heights Indefinite Row Side Full Hecke Rest Terms Integer Tail intersection Number base Change 3ef0d4b49ae9 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/RemainderTerms/TenNinthsLe.lean#L113-L130
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/RemainderTerms/TenNinthsLe.lean#L113-L130
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_RemainderTerms_Statements
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_RemainderTerms_IsFlagIntegralOne
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_RemainderTerms_PrimeWeightEqZeroOfLt
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_RemainderTerms_TenNinthsLe
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_ChebyshevThetaBound_intersectionNumber_baseChange_1e58a3fff588
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_ExponentialTail_intersectionNumber_baseChange_69f6990adeee
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_GeometricTail_intersectionNumber_baseChange_cf5b94796824
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_IntegerLogSquareTail_intersectionNumber_baseChange_ca98df2fb43b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_PrimeLogSquareTail_intersectionNumber_baseChange_8bf873d99c93
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestConstants_intersectionNumber_baseChange_3cbe9c9bc2bd
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SmallRankBound_intersectionNumber_baseChange_63d64eced049
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SmallRankWeakHypothesis_intersectionNumber_baseChange_46cb8718a615
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_XBound_intersectionNumber_baseChange_3674cb61fc35
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_XOverPrime_intersectionNumber_baseChange_8ed2297f9f86
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke GroundTheory.Heights₂.Heights.IndefiniteRowSideFullHecke.RestTerms
+open Finset GroundTheory.Heights₂.Heights.RestTerms.Elem
+noncomputable section
+
+theorem P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_RestTerms_IntegerTail_intersectionNumber_baseChange_3ef0d4b49ae9 : IntegerTail.Statement := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«IndefiniteRowSideFullHecke».«RestTerms».«IntegerTail».«intersectionNumber_baseChange» := P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_RestTerms_IntegerTail_intersectionNumber_baseChange_3ef0d4b49ae9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Term_proof_4583ff6d5845
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionCount_Drop_Term_proof_4583ff6d5845
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:58:52.413611+00:00
 -- url     : https://prove2.me/theorems/6b59284c-77bc-5f6e-a031-861c65595aaa

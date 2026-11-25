@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_topologicalKrullDim_union
 -- name    : GlobalTheory.QCoh.topologicalKrullDim_union
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:03:10.076606+00:00
 -- url     : https://prove2.me/theorems/be7a8cc3-a654-5c2d-bc36-8dd9f39353e3

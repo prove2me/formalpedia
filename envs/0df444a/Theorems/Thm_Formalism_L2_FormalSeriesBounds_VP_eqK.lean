@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_VP_eqK
 -- name    : Formalism.L2.FormalSeriesBounds.VP.eqK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:21:45.699269+00:00
 -- url     : https://prove2.me/theorems/8c8e6764-a155-5cb1-88c5-8225068d8e54

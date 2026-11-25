@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_ExistsSmulMemOfIsLattice__dual_lattice_denom_0a14bd9a2b01
 -- name    : P2M_UpperTheory_Reformulated_B_ExistsSmulMemOfIsLattice__dual_lattice_denom_0a14bd9a2b01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:21:19.472637+00:00
 -- url     : https://prove2.me/theorems/46d28043-32c6-4dad-9827-19505d98f585

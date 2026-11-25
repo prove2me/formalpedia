@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RelativeIndexFlags_Filt_FG_comm
 -- name    : Formalism.L2.SG.Pf.RelativeIndexFlags.Filt.FG_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:44:38.920848+00:00
 -- url     : https://prove2.me/theorems/052cdbb4-232d-5c60-8152-5455a62cde99

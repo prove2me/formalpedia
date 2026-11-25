@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mem_twist_idealSys_of_algebraMap_mul_mem_7c334198a913
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mem_twist_idealSys_of_algebraMap_mul_mem_7c334198a913
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:02:23.050432+00:00
 -- url     : https://prove2.me/theorems/1bfe3714-b3bf-494f-9a5a-69737554b6fe

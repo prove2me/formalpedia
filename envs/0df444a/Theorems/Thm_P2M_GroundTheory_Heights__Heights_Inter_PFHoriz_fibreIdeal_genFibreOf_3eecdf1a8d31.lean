@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFHoriz_fibreIdeal_genFibreOf_3eecdf1a8d31
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFHoriz_fibreIdeal_genFibreOf_3eecdf1a8d31
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:42:34.257418+00:00
 -- url     : https://prove2.me/theorems/20fda3c8-bcba-497b-9fc2-ea42353542d5

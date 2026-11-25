@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrontierMathLean_three_term_nesbitt_power_inequality
 -- name    : FrontierMathLean.three_term_nesbitt_power_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:36:30.01562+00:00
 -- url     : https://prove2.me/theorems/e6261eeb-a0b9-5ae4-80dd-6e2a5d85f0c5

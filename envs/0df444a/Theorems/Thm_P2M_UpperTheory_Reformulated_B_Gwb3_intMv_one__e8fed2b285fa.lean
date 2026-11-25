@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Gwb3_intMv_one__e8fed2b285fa
 -- name    : P2M_UpperTheory_Reformulated_B_Gwb3_intMv_one__e8fed2b285fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:21:10.234894+00:00
 -- url     : https://prove2.me/theorems/b04441eb-54c3-42ac-ad22-8a6b936e4104

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UnimodTerm_mem_iff_graph
 -- name    : GlobalTheory.HL.UnimodTerm.mem_iff_graph
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:39:53.382925+00:00
 -- url     : https://prove2.me/theorems/6eff8e33-45da-44a6-a2ae-7bd806d11155

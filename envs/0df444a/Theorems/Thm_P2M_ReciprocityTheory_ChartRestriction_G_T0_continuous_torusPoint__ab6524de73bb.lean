@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_T0_continuous_torusPoint__ab6524de73bb
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_T0_continuous_torusPoint__ab6524de73bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:17:22.130282+00:00
 -- url     : https://prove2.me/theorems/40b550e4-1ca9-5bfb-af89-4cdb52327c82

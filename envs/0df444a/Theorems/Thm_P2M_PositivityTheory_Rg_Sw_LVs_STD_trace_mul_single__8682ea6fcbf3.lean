@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_LVs_STD_trace_mul_single__8682ea6fcbf3
 -- name    : P2M_PositivityTheory_Rg_Sw_LVs_STD_trace_mul_single__8682ea6fcbf3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:11:28.113884+00:00
 -- url     : https://prove2.me/theorems/72dab369-e842-471d-aa9f-be98c9740b7a

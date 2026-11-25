@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_upperRamificationGroup_iff_of_lowerIndex_eq
 -- name    : GroundTheory.LocalField.mem_upperRamificationGroup_iff_of_lowerIndex_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:43:26.186839+00:00
 -- url     : https://prove2.me/theorems/f4d57d6a-80e4-48a0-a7b6-87ce9561dc8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperDiffPoly_unit_steps_49b53de83d48
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperDiffPoly_unit_steps_49b53de83d48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:58:19.243742+00:00
 -- url     : https://prove2.me/theorems/34333579-bdb6-450c-8fdf-e883d71e9905

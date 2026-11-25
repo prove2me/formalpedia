@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_prod_embForm_dvd_99f82f2e3334
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_NormFormIrreducible_prod_embForm_dvd_99f82f2e3334
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:42:53.761482+00:00
 -- url     : https://prove2.me/theorems/86270300-7685-4ef8-a8c7-ad9d2b1a74e5

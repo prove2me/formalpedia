@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaGraphBound_proof_3141fa364ca4
 -- name    : P2M_GroundTheory_Heights__Heights_AreaGraphBound_proof_3141fa364ca4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:31:55.058802+00:00
 -- url     : https://prove2.me/theorems/26c76d83-0ea1-48d5-9022-4f81c5fa21ce

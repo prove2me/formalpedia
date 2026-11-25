@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_tendsto_radialTransform_diff_5c78029be736
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_tendsto_radialTransform_diff_5c78029be736
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:18:01.934851+00:00
 -- url     : https://prove2.me/theorems/7b2feb7b-346f-48fc-83c5-cc4b99b36677

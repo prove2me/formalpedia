@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_subsingleton_cohomology_of_sub_quot
 -- name    : GroundTheory.ProfCoh.subsingleton_cohomology_of_sub_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:37:02.514132+00:00
 -- url     : https://prove2.me/theorems/62baa4c8-291b-40fa-86bc-b847c9669933

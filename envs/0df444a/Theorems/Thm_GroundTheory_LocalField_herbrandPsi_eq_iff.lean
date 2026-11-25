@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_herbrandPsi_eq_iff
 -- name    : GroundTheory.LocalField.herbrandPsi_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:38:34.614936+00:00
 -- url     : https://prove2.me/theorems/d567f96d-5db6-5e90-a6d1-ede5713cc9e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_frame_first_basis_vector_d14efe5c20b0
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_frame_first_basis_vector_d14efe5c20b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:44:36.922941+00:00
 -- url     : https://prove2.me/theorems/d200b948-0bd0-5c7d-9881-490bb965ef24

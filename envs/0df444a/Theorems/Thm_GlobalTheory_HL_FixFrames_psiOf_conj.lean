@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FixFrames_psiOf_conj
 -- name    : GlobalTheory.HL.FixFrames.psiOf_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:46:47.845326+00:00
 -- url     : https://prove2.me/theorems/3dacc038-6fff-48f7-b130-f3e5e966fb1f

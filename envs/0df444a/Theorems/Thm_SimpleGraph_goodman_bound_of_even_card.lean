@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_goodman_bound_of_even_card
 -- name    : SimpleGraph.goodman_bound_of_even_card
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:41:35.537227+00:00
 -- url     : https://prove2.me/theorems/b42862a8-a15b-5708-bbd7-1a108d2b5975

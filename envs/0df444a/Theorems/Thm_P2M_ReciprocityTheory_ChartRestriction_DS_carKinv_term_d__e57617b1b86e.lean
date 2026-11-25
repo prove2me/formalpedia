@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_carKinv_term_d__e57617b1b86e
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_carKinv_term_d__e57617b1b86e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:12:17.091068+00:00
 -- url     : https://prove2.me/theorems/fc5cc200-3e04-5cc8-83ad-17139c540ba9

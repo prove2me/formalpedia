@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Ydc1_eval_smul_of_isHomogeneous__67e8aa7016c3
 -- name    : P2M_UpperTheory_Reformulated_B_Ydc1_eval_smul_of_isHomogeneous__67e8aa7016c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:46.38153+00:00
 -- url     : https://prove2.me/theorems/5241e7dd-f469-46d3-8ad1-31fcfbb05484

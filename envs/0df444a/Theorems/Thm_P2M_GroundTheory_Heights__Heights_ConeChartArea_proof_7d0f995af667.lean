@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeChartArea_proof_7d0f995af667
 -- name    : P2M_GroundTheory_Heights__Heights_ConeChartArea_proof_7d0f995af667
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:03:58.911593+00:00
 -- url     : https://prove2.me/theorems/4fe87d6a-fe8c-41f5-932a-02eff886bd7d

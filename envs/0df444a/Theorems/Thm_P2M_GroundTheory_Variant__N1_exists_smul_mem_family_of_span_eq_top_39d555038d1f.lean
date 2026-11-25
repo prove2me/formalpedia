@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Variant__N1_exists_smul_mem_family_of_span_eq_top_39d555038d1f
 -- name    : P2M_GroundTheory_Variant__N1_exists_smul_mem_family_of_span_eq_top_39d555038d1f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:55:07.529238+00:00
 -- url     : https://prove2.me/theorems/17bbea68-db58-4461-b483-e7cf70493ab1

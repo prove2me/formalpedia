@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_isometry_near_identity_close_tuples
 -- name    : GlobalTheory.T.exists_isometry_near_identity_close_tuples
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:15:14.725945+00:00
 -- url     : https://prove2.me/theorems/ee388b21-626a-490e-ad6d-8143bd03a27d

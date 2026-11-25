@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesQuotIndexSplit_full_f051c7119c9e
 -- name    : P2M_GroundTheory_Heights__Heights_LinesQuotIndexSplit_full_f051c7119c9e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:25:21.154716+00:00
 -- url     : https://prove2.me/theorems/76ea9652-6d5c-4322-837f-8e8fda5cd3d1

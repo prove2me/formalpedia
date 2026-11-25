@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_PGsh_BX_evK__mul_4784bc5a7404
 -- name    : P2M_ReciprocityTheory_PGsh_BX_evK__mul_4784bc5a7404
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:17:39.702453+00:00
 -- url     : https://prove2.me/theorems/00b84a54-3442-43c6-a028-1cf176e7213d

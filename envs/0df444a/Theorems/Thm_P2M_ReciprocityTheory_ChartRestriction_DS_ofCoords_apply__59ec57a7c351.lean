@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_ofCoords_apply__59ec57a7c351
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_ofCoords_apply__59ec57a7c351
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:13:14.133003+00:00
 -- url     : https://prove2.me/theorems/4446d265-b227-4b20-ad11-7b2e4cd03a5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalQuotCentred_proof_5c3e45083b88
 -- name    : P2M_GroundTheory_Heights__Heights_LocalQuotCentred_proof_5c3e45083b88
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:51.958809+00:00
 -- url     : https://prove2.me/theorems/305645fe-a199-459a-999f-764061ddd5af

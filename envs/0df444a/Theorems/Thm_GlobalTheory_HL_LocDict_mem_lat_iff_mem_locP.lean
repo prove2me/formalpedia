@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocDict_mem_lat_iff_mem_locP
 -- name    : GlobalTheory.HL.LocDict.mem_lat_iff_mem_locP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T07:35:42.125126+00:00
 -- url     : https://prove2.me/theorems/c1c96587-e0a3-55f8-a0c0-0f9e2c3092ce

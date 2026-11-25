@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereLawFirstCoord_law_Ici_f045ceeff4d1
 -- name    : P2M_GroundTheory_Heights__Heights_SphereLawFirstCoord_law_Ici_f045ceeff4d1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:40:06.890602+00:00
 -- url     : https://prove2.me/theorems/149ee71d-b706-5fc3-9a3d-2784ccc3c241

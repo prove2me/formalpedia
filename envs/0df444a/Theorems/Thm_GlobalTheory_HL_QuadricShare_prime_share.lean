@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_QuadricShare_prime_share
 -- name    : GlobalTheory.HL.QuadricShare.prime_share
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:38:07.74723+00:00
 -- url     : https://prove2.me/theorems/c09bbd4a-5dc3-4291-8ba6-7779876a7432

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrontierMathLean_three_term_ratio_inequality
 -- name    : FrontierMathLean.three_term_ratio_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:41:21.154494+00:00
 -- url     : https://prove2.me/theorems/8f99b4dc-40d6-5977-ae1d-6d69488a51ce

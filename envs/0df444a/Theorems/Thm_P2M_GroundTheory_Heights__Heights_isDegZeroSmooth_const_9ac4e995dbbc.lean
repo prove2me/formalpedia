@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isDegZeroSmooth_const_9ac4e995dbbc
 -- name    : P2M_GroundTheory_Heights__Heights_isDegZeroSmooth_const_9ac4e995dbbc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:47:23.614484+00:00
 -- url     : https://prove2.me/theorems/953ed27d-82f3-4b6d-bea2-f6d741746f93

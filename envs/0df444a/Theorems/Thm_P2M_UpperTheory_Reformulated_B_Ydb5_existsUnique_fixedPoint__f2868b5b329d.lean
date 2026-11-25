@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Ydb5_existsUnique_fixedPoint__f2868b5b329d
 -- name    : P2M_UpperTheory_Reformulated_B_Ydb5_existsUnique_fixedPoint__f2868b5b329d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:21:52.577967+00:00
 -- url     : https://prove2.me/theorems/b22cf878-31a2-4a36-a26d-94eb5b3e2766

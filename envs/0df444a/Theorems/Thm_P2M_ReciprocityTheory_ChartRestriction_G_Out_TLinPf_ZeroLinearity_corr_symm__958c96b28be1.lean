@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_ZeroLinearity_corr_symm__958c96b28be1
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_Out_TLinPf_ZeroLinearity_corr_symm__958c96b28be1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:17:48.401034+00:00
 -- url     : https://prove2.me/theorems/d9b4faee-ebf5-45da-9d2e-f80f2904962e

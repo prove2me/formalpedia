@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecChart__loc_Gloc_d8a0f962d579
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecChart__loc_Gloc_d8a0f962d579
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:10:10.822704+00:00
 -- url     : https://prove2.me/theorems/aafcc8c9-e3ab-4f86-9138-92187d9c75ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_le_orth_of_mem_4c827d4221dd
 -- name    : P2M_GroundTheory_Heights__Theta_le_orth_of_mem_4c827d4221dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:54:33.345199+00:00
 -- url     : https://prove2.me/theorems/cbcdb324-9574-48ca-bc35-1a0d60b85d6f

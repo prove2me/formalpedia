@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ClassCount_matrix_of_mem
 -- name    : GlobalTheory.HL.ClassCount.matrix_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:41:36.314553+00:00
 -- url     : https://prove2.me/theorems/89104ab4-c5df-454d-a770-84eb57fd57d5

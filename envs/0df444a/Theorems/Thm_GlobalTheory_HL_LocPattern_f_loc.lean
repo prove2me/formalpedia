@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_LocPattern_f_loc
 -- name    : GlobalTheory.HL.LocPattern.f_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:18:49.611349+00:00
 -- url     : https://prove2.me/theorems/6579ae1c-f4f5-493b-82b6-441ec11ef515

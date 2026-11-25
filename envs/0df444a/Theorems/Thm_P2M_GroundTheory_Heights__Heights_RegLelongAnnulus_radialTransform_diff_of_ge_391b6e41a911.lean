@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_radialTransform_diff_of_ge_391b6e41a911
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_radialTransform_diff_of_ge_391b6e41a911
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:28:32.501793+00:00
 -- url     : https://prove2.me/theorems/c38f8cc4-191e-415f-b546-8ed9b491a273

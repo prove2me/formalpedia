@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_lattice_and_inverting_automorphism_of_quasi_reflection
 -- name    : GlobalTheory.T.exists_lattice_and_inverting_automorphism_of_quasi_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:45:22.921956+00:00
 -- url     : https://prove2.me/theorems/cd3d66e4-92dc-4cc1-8569-8b71f0396ca9

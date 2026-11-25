@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CMRegularElement_proof_2d0094ddbbf4
 -- name    : P2M_GroundTheory_Heights__Heights_CMRegularElement_proof_2d0094ddbbf4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:16:17.959787+00:00
 -- url     : https://prove2.me/theorems/84100a2e-6b12-4400-b6a2-08ecee0f32a7

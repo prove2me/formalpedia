@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirabolicIndex__prod_sub_pow_61c489d9da34
 -- name    : P2M_PI_MirabolicIndex__prod_sub_pow_61c489d9da34
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:56:58.148702+00:00
 -- url     : https://prove2.me/theorems/ebd3b615-8dae-4bbd-adc0-8624528225d4

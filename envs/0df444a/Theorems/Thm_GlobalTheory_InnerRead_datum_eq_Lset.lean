@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_datum_eq_Lset
 -- name    : GlobalTheory.InnerRead.datum_eq_Lset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T07:35:23.695666+00:00
 -- url     : https://prove2.me/theorems/c28cb36a-dee3-48fe-9133-d4cbe5ac857c

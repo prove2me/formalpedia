@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_tangentGaussProfile_antitoneOn_60715fa850a4
 -- name    : P2M_GroundTheory_Heights__Heights_tangentGaussProfile_antitoneOn_60715fa850a4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:34:40.880501+00:00
 -- url     : https://prove2.me/theorems/c01ba744-74ca-4e3f-ac36-5fb49f2fd4f0

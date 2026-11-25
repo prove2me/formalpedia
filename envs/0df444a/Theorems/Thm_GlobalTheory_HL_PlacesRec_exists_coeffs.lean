@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesRec_exists_coeffs
 -- name    : GlobalTheory.HL.PlacesRec.exists_coeffs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:38:01.94499+00:00
 -- url     : https://prove2.me/theorems/6dc84845-2f23-40e9-9370-dbd1156bc29d

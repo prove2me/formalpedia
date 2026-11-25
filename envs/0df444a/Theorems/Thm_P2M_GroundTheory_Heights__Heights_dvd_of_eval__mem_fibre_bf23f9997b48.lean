@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_dvd_of_eval__mem_fibre_bf23f9997b48
 -- name    : P2M_GroundTheory_Heights__Heights_dvd_of_eval__mem_fibre_bf23f9997b48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:45:50.370582+00:00
 -- url     : https://prove2.me/theorems/147af384-6891-4924-9ebe-0155dc498ace

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_mem_sq_of_polyDiff_eq_zero_3e662a2d8d5a
 -- name    : P2M_GroundTheory_Heights__Heights_mem_sq_of_polyDiff_eq_zero_3e662a2d8d5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:49:38.472359+00:00
 -- url     : https://prove2.me/theorems/cfba83ed-c799-4c59-977f-e77aceec3ffc

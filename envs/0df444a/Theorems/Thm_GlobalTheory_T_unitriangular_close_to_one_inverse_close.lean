@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitriangular_close_to_one_inverse_close
 -- name    : GlobalTheory.T.unitriangular_close_to_one_inverse_close
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:41:16.309226+00:00
 -- url     : https://prove2.me/theorems/f98c947c-9e0e-5aaa-8598-4546cedaab55

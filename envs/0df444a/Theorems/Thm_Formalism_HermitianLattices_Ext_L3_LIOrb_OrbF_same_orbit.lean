@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_LIOrb_OrbF_same_orbit
 -- name    : Formalism.HermitianLattices.Ext.L3.LIOrb.OrbF.same_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:08:02.968473+00:00
 -- url     : https://prove2.me/theorems/07662b1a-fc7a-47a9-8e76-67b497a5a0eb

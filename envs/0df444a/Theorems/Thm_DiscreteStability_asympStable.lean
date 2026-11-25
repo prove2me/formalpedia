@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_asympStable
 -- name    : DiscreteStability.asympStable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:48:02.943126+00:00
 -- url     : https://prove2.me/theorems/5759f0e0-728e-457f-82b8-27268de85d9a

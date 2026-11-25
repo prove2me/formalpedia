@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Dv_Tr_fcoord_smul__c8813a010909
 -- name    : P2M_PI_Dv_Tr_fcoord_smul__c8813a010909
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:56:20.994071+00:00
 -- url     : https://prove2.me/theorems/5e28f37e-dc1b-4ca7-a2bb-c25ba83be1d3

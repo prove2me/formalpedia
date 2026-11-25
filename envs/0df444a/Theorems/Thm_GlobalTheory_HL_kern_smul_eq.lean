@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_kern_smul_eq
 -- name    : GlobalTheory.HL.kern_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:35:07.197286+00:00
 -- url     : https://prove2.me/theorems/2541f5c0-0ad3-4853-b7dc-57b00ca1f97d

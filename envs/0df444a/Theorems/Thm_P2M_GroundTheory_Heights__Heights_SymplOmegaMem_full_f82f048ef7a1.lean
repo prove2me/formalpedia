@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SymplOmegaMem_full_f82f048ef7a1
 -- name    : P2M_GroundTheory_Heights__Heights_SymplOmegaMem_full_f82f048ef7a1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:30:26.135239+00:00
 -- url     : https://prove2.me/theorems/0f752f51-e328-4cac-83fe-2bea9cc2f6d1

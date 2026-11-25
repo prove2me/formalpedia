@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_step_strict
 -- name    : DiscreteStability.step_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:38:13.392803+00:00
 -- url     : https://prove2.me/theorems/8c6a495d-cef2-5a7d-885c-24f2fe370f78

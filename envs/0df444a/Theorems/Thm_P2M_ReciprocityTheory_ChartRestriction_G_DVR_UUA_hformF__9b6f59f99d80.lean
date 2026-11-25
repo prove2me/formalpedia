@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_DVR_UUA_hformF__9b6f59f99d80
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_DVR_UUA_hformF__9b6f59f99d80
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:14:27.568731+00:00
 -- url     : https://prove2.me/theorems/fdd12c98-6881-5cd0-878c-df0a5823e1ba

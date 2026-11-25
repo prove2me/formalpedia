@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_LocJacTyp_card_Ioi__ab9c340c690c
 -- name    : P2M_PI_UnitaryGroupMassFormula_LocJacTyp_card_Ioi__ab9c340c690c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:55:53.299398+00:00
 -- url     : https://prove2.me/theorems/97d9eec7-c7dd-4426-89c2-bd9a559967a8

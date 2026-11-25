@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_norm_mixedToEuclidean_sq
 -- name    : GroundTheory.Global.norm_mixedToEuclidean_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:33:50.136441+00:00
 -- url     : https://prove2.me/theorems/8e46df16-0590-521c-a622-feeffa988c56

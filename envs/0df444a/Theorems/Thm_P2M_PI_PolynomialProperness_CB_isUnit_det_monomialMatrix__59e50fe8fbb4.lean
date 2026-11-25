@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_PolynomialProperness_CB_isUnit_det_monomialMatrix__59e50fe8fbb4
 -- name    : P2M_PI_PolynomialProperness_CB_isUnit_det_monomialMatrix__59e50fe8fbb4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:57:44.246788+00:00
 -- url     : https://prove2.me/theorems/fdc84143-8f4f-439b-a0bd-7ad4a9d8d505

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_multiplicity_differentIdeal_eq_differentExponent
 -- name    : GroundTheory.Global.multiplicity_differentIdeal_eq_differentExponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T07:54:10.345622+00:00
 -- url     : https://prove2.me/theorems/03704db8-42a5-52cb-ae6f-4e698433dfeb

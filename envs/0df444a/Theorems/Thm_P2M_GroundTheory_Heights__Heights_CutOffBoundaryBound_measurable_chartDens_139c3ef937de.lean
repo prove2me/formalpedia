@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_measurable_chartDens_139c3ef937de
 -- name    : P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_measurable_chartDens_139c3ef937de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:57:57.961806+00:00
 -- url     : https://prove2.me/theorems/82e3eb65-224f-5dad-a3d4-61ec86e6d333

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isChowFormCycle_point_beac62e59d4d
 -- name    : P2M_GroundTheory_Heights__Heights_isChowFormCycle_point_beac62e59d4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:46:54.430807+00:00
 -- url     : https://prove2.me/theorems/c4748d20-12ca-4408-8729-37f587cf8b20

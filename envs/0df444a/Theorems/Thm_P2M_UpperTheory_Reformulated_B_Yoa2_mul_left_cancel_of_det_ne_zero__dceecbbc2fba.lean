@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Reformulated_B_Yoa2_mul_left_cancel_of_det_ne_zero__dceecbbc2fba
 -- name    : P2M_UpperTheory_Reformulated_B_Yoa2_mul_left_cancel_of_det_ne_zero__dceecbbc2fba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:22:07.909746+00:00
 -- url     : https://prove2.me/theorems/2bf530b4-6f04-4be6-9514-ef0a31470cc2

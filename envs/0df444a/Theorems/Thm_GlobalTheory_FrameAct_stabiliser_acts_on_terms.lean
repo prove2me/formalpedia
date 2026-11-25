@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_stabiliser_acts_on_terms
 -- name    : GlobalTheory.FrameAct.stabiliser_acts_on_terms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:28:34.754571+00:00
 -- url     : https://prove2.me/theorems/c5401ec0-b619-43f5-8561-5954e5e067e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCA_smFn_nil_eq_integral_smooth
 -- name    : GlobalTheory.HCA.smFn_nil_eq_integral_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:51:54.912902+00:00
 -- url     : https://prove2.me/theorems/a757150c-99a1-591b-897c-11eb66b93340

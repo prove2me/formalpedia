@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_Witt_anisotropic__ba4aff8f3cd5
 -- name    : P2M_PI_Witt_anisotropic__ba4aff8f3cd5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:01:39.449825+00:00
 -- url     : https://prove2.me/theorems/8bbe797e-714b-43a8-a849-f153b5b3f7d3

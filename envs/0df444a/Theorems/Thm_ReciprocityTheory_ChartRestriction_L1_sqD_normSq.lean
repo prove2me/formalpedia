@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_L1_sqD_normSq
 -- name    : ReciprocityTheory.ChartRestriction.L1.sqD_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:48:36.86349+00:00
 -- url     : https://prove2.me/theorems/e803d71e-65ec-519f-b1e7-0aacf9efa781

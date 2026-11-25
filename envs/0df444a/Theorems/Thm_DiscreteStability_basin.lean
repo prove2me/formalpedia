@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteStability_basin
 -- name    : DiscreteStability.basin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:48:55.515138+00:00
 -- url     : https://prove2.me/theorems/ec5dec97-66ca-42a4-9548-f0f9f95191fc

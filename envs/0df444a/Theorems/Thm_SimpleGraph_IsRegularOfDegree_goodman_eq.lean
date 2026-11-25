@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_IsRegularOfDegree_goodman_eq
 -- name    : SimpleGraph.IsRegularOfDegree.goodman_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:41:38.176865+00:00
 -- url     : https://prove2.me/theorems/3991ddec-5ba7-5bcb-bf19-72cc9992e961

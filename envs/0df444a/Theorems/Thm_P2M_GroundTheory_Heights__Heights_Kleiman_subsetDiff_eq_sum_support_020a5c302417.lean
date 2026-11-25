@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_subsetDiff_eq_sum_support_020a5c302417
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_subsetDiff_eq_sum_support_020a5c302417
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:02:23.556277+00:00
 -- url     : https://prove2.me/theorems/c92545da-fae8-496a-9662-a3b0d3cc19de

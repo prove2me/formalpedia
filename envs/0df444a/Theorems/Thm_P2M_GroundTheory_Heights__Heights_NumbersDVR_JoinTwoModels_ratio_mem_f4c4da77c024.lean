@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinTwoModels_ratio_mem_f4c4da77c024
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinTwoModels_ratio_mem_f4c4da77c024
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:07:10.142802+00:00
 -- url     : https://prove2.me/theorems/47b0dc07-0241-4b26-be72-8e46db63b9c9

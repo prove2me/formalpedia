@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_CutPieces_full_9be0f785df3c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_CutPieces_full_9be0f785df3c
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:43:47.894663+00:00
 -- url     : https://prove2.me/theorems/74ee0e72-f1df-47cf-9e84-205f486cd06e

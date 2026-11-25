@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_LC_fock_add___b68a5475b7b1
 -- name    : P2M_PositivityTheory_Rg_Sw_LC_fock_add___b68a5475b7b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:09:51.825232+00:00
 -- url     : https://prove2.me/theorems/3881041c-06e8-45d1-a4bf-ad4e4afe11c6

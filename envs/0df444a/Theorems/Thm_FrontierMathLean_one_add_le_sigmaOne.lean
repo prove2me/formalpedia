@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrontierMathLean_one_add_le_sigmaOne
 -- name    : FrontierMathLean.one_add_le_sigmaOne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:46:37.711716+00:00
 -- url     : https://prove2.me/theorems/a5f99c18-317d-4daf-b663-9b8e61e9e1da

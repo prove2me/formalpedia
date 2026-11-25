@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_leftUnitor_tateCup_tateOne_up
 -- name    : GroundTheory.GroupCoh.leftUnitor_tateCup_tateOne_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T07:51:25.23291+00:00
 -- url     : https://prove2.me/theorems/9b26c9c9-3743-4409-868e-d27f4a009f85

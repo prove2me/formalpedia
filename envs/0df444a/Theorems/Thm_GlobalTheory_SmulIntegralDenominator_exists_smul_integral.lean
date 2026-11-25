@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmulIntegralDenominator_exists_smul_integral
 -- name    : GlobalTheory.SmulIntegralDenominator.exists_smul_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:47:24.274799+00:00
 -- url     : https://prove2.me/theorems/96adfbb6-76e6-56e4-be15-0c7f0be1e3be

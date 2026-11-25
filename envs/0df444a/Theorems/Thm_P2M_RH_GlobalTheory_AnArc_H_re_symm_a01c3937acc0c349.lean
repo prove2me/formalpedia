@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_RH_GlobalTheory_AnArc_H_re_symm_a01c3937acc0c349
 -- name    : P2M_RH_GlobalTheory_AnArc_H_re_symm_a01c3937acc0c349
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:12:28.230273+00:00
 -- url     : https://prove2.me/theorems/bed2b33b-800e-4b55-8ec5-c0188e88504a

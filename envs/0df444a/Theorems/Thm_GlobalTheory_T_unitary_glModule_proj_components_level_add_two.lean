@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_glModule_proj_components_level_add_two
 -- name    : GlobalTheory.T.unitary_glModule_proj_components_level_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T07:04:37.769989+00:00
 -- url     : https://prove2.me/theorems/b1e50e78-b03e-5553-8dcb-85e0f0957246

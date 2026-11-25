@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_NefPlusAmple_proof_e40df428f473
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_NefPlusAmple_proof_e40df428f473
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:21:04.69502+00:00
 -- url     : https://prove2.me/theorems/effb3965-3998-418f-aa6f-faccbe906785

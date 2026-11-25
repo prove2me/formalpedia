@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongGrp_horb_isCO
 -- name    : GlobalTheory.CongGrp.horb_isCO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T07:19:44.180537+00:00
 -- url     : https://prove2.me/theorems/fe3b2c07-1e40-4b27-9a4f-da5720b1f2e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_sum_place_eq_e9555ed74f33
 -- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_sum_place_eq_e9555ed74f33
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:51:44.948146+00:00
 -- url     : https://prove2.me/theorems/2e745474-870f-4290-af8e-7ab5ea9c161a

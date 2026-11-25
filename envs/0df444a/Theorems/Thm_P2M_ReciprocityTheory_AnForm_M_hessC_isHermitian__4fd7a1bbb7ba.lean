@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_M_hessC_isHermitian__4fd7a1bbb7ba
 -- name    : P2M_ReciprocityTheory_AnForm_M_hessC_isHermitian__4fd7a1bbb7ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:11:42.143948+00:00
 -- url     : https://prove2.me/theorems/b8709603-2c73-5a33-ad4d-38d7f9d7b52a

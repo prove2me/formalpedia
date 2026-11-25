@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_slm_le_inf__d72d3bf390d4
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_slm_le_inf__d72d3bf390d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:12:40.719948+00:00
 -- url     : https://prove2.me/theorems/a902534e-3ca5-43b0-8a45-620e6b09028c

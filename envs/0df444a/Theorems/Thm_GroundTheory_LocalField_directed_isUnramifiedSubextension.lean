@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_directed_isUnramifiedSubextension
 -- name    : GroundTheory.LocalField.directed_isUnramifiedSubextension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:22:40.160621+00:00
 -- url     : https://prove2.me/theorems/dbb973c7-17a6-4e85-b34c-915be6215cf2

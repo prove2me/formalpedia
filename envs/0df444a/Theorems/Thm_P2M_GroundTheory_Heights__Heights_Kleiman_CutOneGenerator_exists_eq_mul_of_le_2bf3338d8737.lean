@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CutOneGenerator_exists_eq_mul_of_le_2bf3338d8737
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CutOneGenerator_exists_eq_mul_of_le_2bf3338d8737
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:53:35.566925+00:00
 -- url     : https://prove2.me/theorems/ab05e6bd-f270-4e90-947f-13010c49d68f

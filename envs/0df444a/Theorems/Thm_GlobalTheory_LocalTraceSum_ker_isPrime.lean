@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalTraceSum_ker_isPrime
 -- name    : GlobalTheory.LocalTraceSum.ker_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:30:16.574323+00:00
 -- url     : https://prove2.me/theorems/30d346ff-e7d6-5d93-8b51-cab925d1c9e9

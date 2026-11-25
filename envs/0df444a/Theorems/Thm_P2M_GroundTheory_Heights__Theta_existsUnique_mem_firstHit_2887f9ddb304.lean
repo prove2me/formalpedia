@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_existsUnique_mem_firstHit_2887f9ddb304
 -- name    : P2M_GroundTheory_Heights__Theta_existsUnique_mem_firstHit_2887f9ddb304
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:53:32.945815+00:00
 -- url     : https://prove2.me/theorems/18b2063f-caed-472c-8ed4-fafb56048623

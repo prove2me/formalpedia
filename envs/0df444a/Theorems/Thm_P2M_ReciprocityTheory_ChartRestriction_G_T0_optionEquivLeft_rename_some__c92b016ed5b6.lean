@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_T0_optionEquivLeft_rename_some__c92b016ed5b6
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_T0_optionEquivLeft_rename_some__c92b016ed5b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:17:42.525627+00:00
 -- url     : https://prove2.me/theorems/3a29f13c-cd8a-4a45-b5e1-75eab1eea89f

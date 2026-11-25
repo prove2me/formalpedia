@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_proof_36cd01184c2a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_proof_36cd01184c2a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:21:49.454334+00:00
 -- url     : https://prove2.me/theorems/175f74df-0085-46f0-b9a2-3c4e1e0f1bc0

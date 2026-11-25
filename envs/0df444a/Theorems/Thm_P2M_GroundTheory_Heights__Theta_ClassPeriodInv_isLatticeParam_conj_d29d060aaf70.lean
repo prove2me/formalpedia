@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_ClassPeriodInv_isLatticeParam_conj_d29d060aaf70
 -- name    : P2M_GroundTheory_Heights__Theta_ClassPeriodInv_isLatticeParam_conj_d29d060aaf70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:51:29.530406+00:00
 -- url     : https://prove2.me/theorems/f8263efb-3117-4d71-b4ea-d56b4fc4a508

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SegreFlagDegreeZero_aeval_eq_of_vdeg_ef7daf7b283e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SegreFlagDegreeZero_aeval_eq_of_vdeg_ef7daf7b283e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:09:10.364094+00:00
 -- url     : https://prove2.me/theorems/dd0e2af8-6acb-421b-aa05-432c69b2f38d

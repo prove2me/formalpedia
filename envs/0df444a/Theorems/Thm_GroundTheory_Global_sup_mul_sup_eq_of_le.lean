@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_sup_mul_sup_eq_of_le
 -- name    : GroundTheory.Global.sup_mul_sup_eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:43:47.184217+00:00
 -- url     : https://prove2.me/theorems/5d95ca1a-155c-40af-8257-bfd311da1dff

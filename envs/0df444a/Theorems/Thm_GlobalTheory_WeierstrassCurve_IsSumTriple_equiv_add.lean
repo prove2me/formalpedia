@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_IsSumTriple_equiv_add
 -- name    : GlobalTheory.WeierstrassCurve.IsSumTriple.equiv_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:47:16.669685+00:00
 -- url     : https://prove2.me/theorems/4bd0fe8c-9179-5600-a95a-c580227ea8b4

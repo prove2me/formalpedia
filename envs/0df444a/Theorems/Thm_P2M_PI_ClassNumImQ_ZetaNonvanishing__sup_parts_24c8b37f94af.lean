@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_ClassNumImQ_ZetaNonvanishing__sup_parts_24c8b37f94af
 -- name    : P2M_PI_ClassNumImQ_ZetaNonvanishing__sup_parts_24c8b37f94af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:56:00.92317+00:00
 -- url     : https://prove2.me/theorems/3e17a7b5-da7e-43a0-a2ba-926eb525dc35

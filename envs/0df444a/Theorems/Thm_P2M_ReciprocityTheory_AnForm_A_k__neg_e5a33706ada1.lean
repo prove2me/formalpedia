@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_A_k__neg_e5a33706ada1
 -- name    : P2M_ReciprocityTheory_AnForm_A_k__neg_e5a33706ada1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:11:38.554886+00:00
 -- url     : https://prove2.me/theorems/10add467-f644-4e5a-bcd4-636d31e1d783

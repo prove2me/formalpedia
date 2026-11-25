@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SnapperSections_idealSys_sub_7ca8d97fbc20
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SnapperSections_idealSys_sub_7ca8d97fbc20
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:13:44.721511+00:00
 -- url     : https://prove2.me/theorems/2025f9be-69ee-5e5a-86be-5e02f5fae46c

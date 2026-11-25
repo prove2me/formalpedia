@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneLight_totallyDisconnected_light_fiber
 -- name    : MonotoneLight.totallyDisconnected_light_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T08:41:21.169718+00:00
 -- url     : https://prove2.me/theorems/74ee4933-4a04-51fd-8647-6e2b04115db1

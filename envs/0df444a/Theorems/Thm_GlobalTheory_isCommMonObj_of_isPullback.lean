@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isCommMonObj_of_isPullback
 -- name    : GlobalTheory.isCommMonObj_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:47:59.850114+00:00
 -- url     : https://prove2.me/theorems/e56263a2-747c-50f1-8a7b-4fd36cd88c02

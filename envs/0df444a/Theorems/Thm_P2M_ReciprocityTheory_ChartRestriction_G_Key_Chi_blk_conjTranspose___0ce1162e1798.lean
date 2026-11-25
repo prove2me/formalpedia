@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_Key_Chi_blk_conjTranspose___0ce1162e1798
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_Key_Chi_blk_conjTranspose___0ce1162e1798
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:16:19.135725+00:00
 -- url     : https://prove2.me/theorems/7f6a268c-a05a-4377-9bc3-58a9cf6acfc6

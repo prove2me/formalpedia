@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_MirabolicIndex__card_pairs_b8f39c05cf6e
 -- name    : P2M_PI_MirabolicIndex__card_pairs_b8f39c05cf6e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:57:08.895027+00:00
 -- url     : https://prove2.me/theorems/ef33b95b-a970-493b-81b1-72d792107ddb

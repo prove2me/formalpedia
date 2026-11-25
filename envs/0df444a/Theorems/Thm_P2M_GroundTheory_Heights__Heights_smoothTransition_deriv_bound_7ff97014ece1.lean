@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_smoothTransition_deriv_bound_7ff97014ece1
 -- name    : P2M_GroundTheory_Heights__Heights_smoothTransition_deriv_bound_7ff97014ece1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:50:17.245358+00:00
 -- url     : https://prove2.me/theorems/611daa61-1292-46d6-aebf-37122e922f26

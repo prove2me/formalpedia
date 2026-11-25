@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_RgJS_DirichletSeriesUnbounded__cc_nonneg_31edcbb41409
 -- name    : P2M_PositivityTheory_RgJS_DirichletSeriesUnbounded__cc_nonneg_31edcbb41409
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:02:36.748257+00:00
 -- url     : https://prove2.me/theorems/c593c082-5c70-4e22-9449-77ab82c83d41

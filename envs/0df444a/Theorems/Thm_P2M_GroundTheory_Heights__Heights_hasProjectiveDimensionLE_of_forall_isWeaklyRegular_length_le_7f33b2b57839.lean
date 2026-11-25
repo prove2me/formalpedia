@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_hasProjectiveDimensionLE_of_forall_isWeaklyRegular_length_le_7f33b2b57839
 -- name    : P2M_GroundTheory_Heights__Heights_hasProjectiveDimensionLE_of_forall_isWeaklyRegular_length_le_7f33b2b57839
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:46:54.563203+00:00
 -- url     : https://prove2.me/theorems/312b5a65-da35-49f9-8ced-bfab0a4ea357

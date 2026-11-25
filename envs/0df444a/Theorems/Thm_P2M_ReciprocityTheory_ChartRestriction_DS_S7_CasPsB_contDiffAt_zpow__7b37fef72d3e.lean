@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_S7_CasPsB_contDiffAt_zpow__7b37fef72d3e
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_S7_CasPsB_contDiffAt_zpow__7b37fef72d3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:12:05.769862+00:00
 -- url     : https://prove2.me/theorems/b3def1f1-bbec-4e23-9826-4a65df13219f

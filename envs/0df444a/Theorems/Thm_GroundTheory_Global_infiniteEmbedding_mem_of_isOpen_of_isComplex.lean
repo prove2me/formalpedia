@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_infiniteEmbedding_mem_of_isOpen_of_isComplex
 -- name    : GroundTheory.Global.infiniteEmbedding_mem_of_isOpen_of_isComplex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:21:15.80323+00:00
 -- url     : https://prove2.me/theorems/01a84c04-6290-5409-8572-e0dcc48a4116

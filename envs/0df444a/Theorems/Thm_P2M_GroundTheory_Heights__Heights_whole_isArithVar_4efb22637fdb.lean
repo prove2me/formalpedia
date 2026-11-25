@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_whole_isArithVar_4efb22637fdb
 -- name    : P2M_GroundTheory_Heights__Heights_whole_isArithVar_4efb22637fdb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:02:25.877645+00:00
 -- url     : https://prove2.me/theorems/780b02ea-788b-4b1c-aea5-b3049a8fe12b

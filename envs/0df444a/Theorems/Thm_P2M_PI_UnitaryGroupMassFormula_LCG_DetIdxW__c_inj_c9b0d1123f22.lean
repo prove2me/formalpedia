@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_UnitaryGroupMassFormula_LCG_DetIdxW__c_inj_c9b0d1123f22
 -- name    : P2M_PI_UnitaryGroupMassFormula_LCG_DetIdxW__c_inj_c9b0d1123f22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:01:10.158801+00:00
 -- url     : https://prove2.me/theorems/a7727e79-6ce9-5427-9733-c7d64404ae11

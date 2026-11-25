@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AnArc_H_add_self_re
 -- name    : GlobalTheory.AnArc.H_add_self_re
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:59:55.727093+00:00
 -- url     : https://prove2.me/theorems/ca54720e-f147-43a0-b1e2-ce4cef504822

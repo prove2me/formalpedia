@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_linProj_matSub_fd6597c80c86
 -- name    : P2M_GroundTheory_Heights__Heights_linProj_matSub_fd6597c80c86
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:49:36.356103+00:00
 -- url     : https://prove2.me/theorems/64724662-ad3f-561c-b322-34fd0ea09e1c

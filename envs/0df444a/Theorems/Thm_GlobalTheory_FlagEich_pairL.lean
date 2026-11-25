@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlagEich_pairL
 -- name    : GlobalTheory.FlagEich.pairL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:38:31.253848+00:00
 -- url     : https://prove2.me/theorems/6ce2fe02-15f9-4651-846e-17d73169e699

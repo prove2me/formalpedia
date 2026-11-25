@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TheSecStab_theSection_csec
 -- name    : Formalism.FourierDecayAlt.P.TheSecStab.theSection_csec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:24:04.074122+00:00
 -- url     : https://prove2.me/theorems/f0ad4dcd-ac7c-564c-8efc-6e3ea4986385

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_strong_approximation_additive_quadratic_extension
 -- name    : GlobalTheory.T.strong_approximation_additive_quadratic_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:19:08.996486+00:00
 -- url     : https://prove2.me/theorems/642a5952-72d1-40d5-a49c-c96b806ba0a3

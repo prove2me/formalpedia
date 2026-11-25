@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_finrank_coneTangent_of_jacobian_0027e1f387a0
 -- name    : P2M_GroundTheory_Heights__Heights_finrank_coneTangent_of_jacobian_0027e1f387a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:47:05.764733+00:00
 -- url     : https://prove2.me/theorems/1fac6417-4c9d-4011-8604-d0dd7900afc0

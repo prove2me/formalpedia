@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_interSum_comp_perm_f2b5c16a64c2
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_interSum_comp_perm_f2b5c16a64c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T07:09:23.639156+00:00
 -- url     : https://prove2.me/theorems/a908bcc1-97ce-4582-8d69-20bdca4ce535

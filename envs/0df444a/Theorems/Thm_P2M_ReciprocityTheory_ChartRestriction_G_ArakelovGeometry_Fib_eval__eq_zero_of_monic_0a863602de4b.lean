@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_eval__eq_zero_of_monic_0a863602de4b
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_eval__eq_zero_of_monic_0a863602de4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:14:50.344637+00:00
 -- url     : https://prove2.me/theorems/2c035f48-9580-5b77-8f7b-914227cb53cb

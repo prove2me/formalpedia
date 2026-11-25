@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_isSmoothHerm_cons_expLine_97c9cbe268f7
 -- name    : P2M_GroundTheory_Heights__Heights_isSmoothHerm_cons_expLine_97c9cbe268f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:48:01.44749+00:00
 -- url     : https://prove2.me/theorems/3ccca5f9-74bc-435e-bd97-7fb3a229f7fb

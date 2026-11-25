@@ -63580,8 +63580,8 @@
 {"parent": "QMCSub_Bridge1", "child": "QuantumMaxCutFiniteNumericRuntime", "via": ["statement"]}
 {"parent": "BlockOrthoCSP.Decide.theorem_F_5_8", "child": "BlockOrthoCSP_Decide_Codes", "via": ["statement"]}
 {"parent": "BlockOrthoCSP.Decide.theorem_F_5_8", "child": "BlockOrthoCSP_Decide_Instance", "via": ["statement"]}
-{"parent": "DynLZ77.Main.lemma_1_2", "child": "DynLZ77_Main_Structure", "via": ["statement"]}
-{"parent": "DynLZ77.Main.lemma_1_2", "child": "DynLZ77_Main_Strings", "via": ["statement"]}
+{"parent": "DynLZ77.Main.lemma_1_2", "child": "DynLZ77_Main_Structure", "via": ["solution", "statement"]}
+{"parent": "DynLZ77.Main.lemma_1_2", "child": "DynLZ77_Main_Strings", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.localRowValue_mul", "child": "OAI_NumberTheory_DirichletL_RowCompletion_SupportBounds", "via": ["solution", "statement"]}
 {"parent": "OAI.CanonicalRowCompletion.localRowValue_mul", "child": "OAI_NumberTheory_DirichletL_Eisenstein_CompactEnergyFamilies", "via": ["solution", "statement"]}
 {"parent": "OAI.TotientAsymptotic.small_terminal_row_count", "child": "OAIQ233A000", "via": ["solution", "statement"]}

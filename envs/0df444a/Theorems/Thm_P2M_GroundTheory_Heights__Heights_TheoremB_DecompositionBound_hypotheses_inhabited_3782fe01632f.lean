@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TheoremB_DecompositionBound_hypotheses_inhabited_3782fe01632f
 -- name    : P2M_GroundTheory_Heights__Heights_TheoremB_DecompositionBound_hypotheses_inhabited_3782fe01632f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:27.963941+00:00
 -- url     : https://prove2.me/theorems/115ce0c6-748b-4aa0-813b-819e5ef2610a

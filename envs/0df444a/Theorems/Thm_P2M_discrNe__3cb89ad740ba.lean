@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_discrNe__3cb89ad740ba
 -- name    : P2M_discrNe__3cb89ad740ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:22:48.037398+00:00
 -- url     : https://prove2.me/theorems/576922b3-8a03-41e2-9ee1-665f5809b6c5
