@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_TateS_prim_lift
 -- name    : GlobalTheory.Cyc.TateS.prim_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:11:20.832744+00:00
 -- url     : https://prove2.me/theorems/54deafa6-f47e-56db-9c09-14c021ee97b3

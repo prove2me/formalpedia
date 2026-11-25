@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Model_algebraMap_mem_iff
 -- name    : GlobalTheory.HL.Model.algebraMap_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:09:07.760609+00:00
 -- url     : https://prove2.me/theorems/91adf55b-6230-53e0-8492-7122f060981b

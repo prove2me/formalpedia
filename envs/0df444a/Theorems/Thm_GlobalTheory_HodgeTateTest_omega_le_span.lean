@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateTest_omega_le_span
 -- name    : GlobalTheory.HodgeTateTest.omega_le_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:56:30.212805+00:00
 -- url     : https://prove2.me/theorems/00ea3e60-1c78-4ef3-80e6-040a3058a81c

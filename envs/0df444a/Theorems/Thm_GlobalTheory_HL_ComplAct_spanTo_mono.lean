@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ComplAct_spanTo_mono
 -- name    : GlobalTheory.HL.ComplAct.spanTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:23:20.205429+00:00
 -- url     : https://prove2.me/theorems/10fe50f6-ecb5-47bc-98b9-a4a60acfb2d8

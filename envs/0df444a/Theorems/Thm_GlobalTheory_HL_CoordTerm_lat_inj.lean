@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordTerm_lat_inj
 -- name    : GlobalTheory.HL.CoordTerm.lat_inj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:13:56.89313+00:00
 -- url     : https://prove2.me/theorems/aab3b0eb-6d39-563c-a0d5-501ff126004b

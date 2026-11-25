@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainStatements_RankOne_KD_int_smul
 -- name    : Formalism.MainStatements.RankOne.KD.int_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:27:15.389812+00:00
 -- url     : https://prove2.me/theorems/bbe80375-d414-5e64-9a2e-41050b869caa

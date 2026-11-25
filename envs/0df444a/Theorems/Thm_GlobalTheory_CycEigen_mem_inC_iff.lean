@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_mem_inC_iff
 -- name    : GlobalTheory.CycEigen.mem_inC_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:24:16.334389+00:00
 -- url     : https://prove2.me/theorems/452fa7e4-ef04-4771-8bb4-1ee12547797a

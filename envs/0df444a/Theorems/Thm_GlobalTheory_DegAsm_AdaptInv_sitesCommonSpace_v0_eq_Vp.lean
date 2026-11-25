@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_AdaptInv_sitesCommonSpace_v0_eq_Vp
 -- name    : GlobalTheory.DegAsm.AdaptInv.sitesCommonSpace_v0_eq_Vp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:26:38.915206+00:00
 -- url     : https://prove2.me/theorems/030006fd-4c87-4cc1-92bf-b6c6646fa8af

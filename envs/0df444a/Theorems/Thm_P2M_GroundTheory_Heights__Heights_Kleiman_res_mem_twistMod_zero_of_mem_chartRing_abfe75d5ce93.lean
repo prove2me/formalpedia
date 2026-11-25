@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_res_mem_twistMod_zero_of_mem_chartRing_abfe75d5ce93
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_res_mem_twistMod_zero_of_mem_chartRing_abfe75d5ce93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:24:49.672069+00:00
 -- url     : https://prove2.me/theorems/d515e386-2f83-49fe-b86c-8e78487c6c48

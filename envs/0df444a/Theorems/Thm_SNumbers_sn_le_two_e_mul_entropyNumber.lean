@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sn_le_two_e_mul_entropyNumber
 -- name    : SNumbers.sn_le_two_e_mul_entropyNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:23:16.065817+00:00
 -- url     : https://prove2.me/theorems/f0853f15-1c19-4e70-9e2b-1a896887d458

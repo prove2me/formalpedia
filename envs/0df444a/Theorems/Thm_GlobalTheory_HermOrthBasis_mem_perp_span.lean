@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_mem_perp_span
 -- name    : GlobalTheory.HermOrthBasis.mem_perp_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:08:54.772962+00:00
 -- url     : https://prove2.me/theorems/efddea5d-3222-4cac-b829-cf571605f962

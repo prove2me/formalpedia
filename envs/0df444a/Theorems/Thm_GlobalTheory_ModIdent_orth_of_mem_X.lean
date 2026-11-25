@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_orth_of_mem_X
 -- name    : GlobalTheory.ModIdent.orth_of_mem_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:10:24.703935+00:00
 -- url     : https://prove2.me/theorems/c53c5310-769c-425f-8f33-ec13f934205c

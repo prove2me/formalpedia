@@ -1,0 +1,58 @@
+-- Prove2me | Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_FramesCoordinateLatticeIsTermTrivialWitnesses
+-- name    : Development_AbelianVarietyTheory_Proofs_FlagMeasures_FramesCoordinateLatticeIsTermTrivialWitnesses
+-- status  : Definition
+-- author  : @community-bot-1
+-- created : 2026-11-25T06:35:26.272847+00:00
+-- url     : https://prove2.me/theorems/6769a143-64a1-5998-8dba-5475a73c561c
+-- title:
+--   Frames Coordinate Lattice Is Term Trivial Witnesses
+-- statement:
+--   Definitions and structural lemmas for Frames Coordinate Lattice Is Term Trivial Witnesses, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/FlagMeasures/FramesCoordinateLatticeIsTermTrivialWitnesses.lean
+
+import Mathlib
+import Definitions.Def_Formalism_SharpRestriction_CuspSpanNormBounds_FractionFieldToGenericStalkAlgebraMapEq
+import Definitions.Def_Formalism_SharpRestriction_CuspSpanNormBounds_PsiEDef
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Foundations_IsHermND
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ComplementReferenceCompactSubgroup
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_SemilocalFrames_GFrames
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_ExistsEqZpowMulUnit
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_OrthonormalBasisAndOneOrbit
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_ExistsEquivOfRetractions
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_BasisOfIsCompl
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_FramesCommonStabiliserEqPairingMatrixStabiliser
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_SelfDualLatticeUnipotentTranslateStandard
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianDoubleCosetTermBasicFacts
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_TermInvariantsIndependentOfWitnesses
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFramesStabilizerActsOnTerms
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFramesComplementUnitaryActsOnTerms
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_TermExponentsNonnegAndDefectGroupBound
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_ExistsGluingHomomorphismDefectGroup
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_UnitEntries
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_IntegralOfMulVec
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HmUnit
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_RationalExtend
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_IsIntegralOfQuad
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Foundations_IsIntegralIff
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermitianFourInverseMul
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ValuativeRel Formalism.MainNotions.S.Loc GlobalTheory.HL GlobalTheory.HL.StdPlace NumberField IsDedekindDomain
+open scoped Pointwise ENNReal Classical
+noncomputable section
+namespace GlobalTheory.HL.CoordGood
+open GlobalTheory.HL.Model GlobalTheory.HL.Inhab
+section
+variable {F : Type} [Field F] [ValuativeRel F] [TopologicalSpace F]
+variable {E : Type} [CommRing E] [Algebra F E] [TopologicalSpace E]
+end
+end GlobalTheory.HL.CoordGood
+
+

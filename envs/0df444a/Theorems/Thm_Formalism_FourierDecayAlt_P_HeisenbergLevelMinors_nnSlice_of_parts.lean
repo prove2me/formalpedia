@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HeisenbergLevelMinors_nnSlice_of_parts
 -- name    : Formalism.FourierDecayAlt.P.HeisenbergLevelMinors.nnSlice_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:03:10.270873+00:00
 -- url     : https://prove2.me/theorems/da315f7e-31ab-5591-94fd-3e9e68d344e2

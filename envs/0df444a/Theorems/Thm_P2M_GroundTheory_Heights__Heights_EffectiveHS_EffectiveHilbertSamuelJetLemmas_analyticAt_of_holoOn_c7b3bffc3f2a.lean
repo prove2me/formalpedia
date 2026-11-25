@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_EffectiveHilbertSamuelJetLemmas_analyticAt_of_holoOn_c7b3bffc3f2a
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_EffectiveHilbertSamuelJetLemmas_analyticAt_of_holoOn_c7b3bffc3f2a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:18:36.008984+00:00
 -- url     : https://prove2.me/theorems/b9bb7fdc-909c-4e20-a02e-41e0392d88cf

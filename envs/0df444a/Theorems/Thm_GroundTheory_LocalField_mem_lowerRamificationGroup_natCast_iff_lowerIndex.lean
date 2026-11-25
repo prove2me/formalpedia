@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_lowerRamificationGroup_natCast_iff_lowerIndex
 -- name    : GroundTheory.LocalField.mem_lowerRamificationGroup_natCast_iff_lowerIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:17:36.7298+00:00
 -- url     : https://prove2.me/theorems/443b8e36-eb6e-5c6a-82ae-40bb89cf00f0

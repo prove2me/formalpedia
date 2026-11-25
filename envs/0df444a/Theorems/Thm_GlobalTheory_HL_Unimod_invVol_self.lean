@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Unimod_invVol_self
 -- name    : GlobalTheory.HL.Unimod.invVol_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:25:10.295856+00:00
 -- url     : https://prove2.me/theorems/b3b0caf6-e98b-4266-86f8-c03a9874efe3

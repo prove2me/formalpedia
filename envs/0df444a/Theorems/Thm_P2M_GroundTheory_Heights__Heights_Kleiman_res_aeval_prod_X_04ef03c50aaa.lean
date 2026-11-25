@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_res_aeval_prod_X_04ef03c50aaa
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_res_aeval_prod_X_04ef03c50aaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:24:19.795729+00:00
 -- url     : https://prove2.me/theorems/848c63eb-ebd3-4a64-863c-4581b9a7c7b3

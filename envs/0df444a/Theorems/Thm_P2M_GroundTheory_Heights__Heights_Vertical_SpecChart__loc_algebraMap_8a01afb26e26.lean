@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Vertical_SpecChart__loc_algebraMap_8a01afb26e26
 -- name    : P2M_GroundTheory_Heights__Heights_Vertical_SpecChart__loc_algebraMap_8a01afb26e26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:13:07.418449+00:00
 -- url     : https://prove2.me/theorems/2df38bd9-27a6-43b5-928f-9f67719d686f

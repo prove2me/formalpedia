@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_capelli_eigenvalue_transfer
 -- name    : CompanionTheory.CapEig.capelli_eigenvalue_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:56:51.625605+00:00
 -- url     : https://prove2.me/theorems/d29c263b-883c-52f7-89fa-a493c2c40a1f

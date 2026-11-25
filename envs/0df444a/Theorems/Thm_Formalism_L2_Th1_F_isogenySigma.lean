@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_isogenySigma
 -- name    : Formalism.L2.Th1.F.isogenySigma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:59:45.166263+00:00
 -- url     : https://prove2.me/theorems/4470f1e0-a64e-406a-bb30-30980bdd1f64

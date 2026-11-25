@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_FacPresentation_isSplitEpi_of_isUnit_component
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.FacPresentation.isSplitEpi_of_isUnit_component
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:13:57.979128+00:00
 -- url     : https://prove2.me/theorems/1a74aed4-8129-4f92-b694-4c0c3cbe2a86

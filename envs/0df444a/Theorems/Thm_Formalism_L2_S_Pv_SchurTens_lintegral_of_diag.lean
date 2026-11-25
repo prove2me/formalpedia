@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_lintegral_of_diag
 -- name    : Formalism.L2.S.Pv.SchurTens.lintegral_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:14:14.225954+00:00
 -- url     : https://prove2.me/theorems/8267a6f7-f7ed-4f94-9b05-fd2d3f21257b

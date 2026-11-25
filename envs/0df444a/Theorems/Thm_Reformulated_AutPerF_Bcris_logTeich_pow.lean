@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Bcris_logTeich_pow
 -- name    : Reformulated.AutPerF.Bcris.logTeich_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:21:14.682306+00:00
 -- url     : https://prove2.me/theorems/ae8f50b0-06a7-4144-9f55-33ea8c3c5b02

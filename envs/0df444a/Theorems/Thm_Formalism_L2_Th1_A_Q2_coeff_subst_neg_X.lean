@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q2_coeff_subst_neg_X
 -- name    : Formalism.L2.Th1.A.Q2.coeff_subst_neg_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:26:11.297809+00:00
 -- url     : https://prove2.me/theorems/f444b1a9-00d7-4ae9-8ef8-feaf9948d357

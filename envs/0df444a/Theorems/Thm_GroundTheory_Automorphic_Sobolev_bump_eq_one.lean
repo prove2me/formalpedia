@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_bump_eq_one
 -- name    : GroundTheory.Automorphic.Sobolev.bump_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:19:08.720171+00:00
 -- url     : https://prove2.me/theorems/1fc0a664-fa45-5bbb-b3ff-026b63a6cd70

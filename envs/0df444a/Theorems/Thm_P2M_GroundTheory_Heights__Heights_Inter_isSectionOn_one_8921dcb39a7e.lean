@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isSectionOn_one_8921dcb39a7e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isSectionOn_one_8921dcb39a7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:16:43.423593+00:00
 -- url     : https://prove2.me/theorems/f56af09b-a222-4bb7-8513-043d2c05faf0

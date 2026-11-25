@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_cong_iff
 -- name    : GlobalTheory.HL.FrameClass.cong_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:14:06.961785+00:00
 -- url     : https://prove2.me/theorems/b4da9fb6-ba18-451a-8c7a-25c144db1777

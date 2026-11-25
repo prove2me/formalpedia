@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_mul_hilbertNumber_le_gelfandNumber
 -- name    : SNumbers.L1Linf.mul_hilbertNumber_le_gelfandNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:39:28.266796+00:00
 -- url     : https://prove2.me/theorems/a3487128-8dcd-425b-812d-9f1dd510ce94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coe_integerUnitsAddEquiv
 -- name    : GroundTheory.Global.coe_integerUnitsAddEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:27:18.1449+00:00
 -- url     : https://prove2.me/theorems/36508adf-2eef-5691-95bc-6756b702af8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SurjectiveClosed_mem_bdry_of_subsingleton_9fd4ef684c7c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SurjectiveClosed_mem_bdry_of_subsingleton_9fd4ef684c7c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:28:55.567307+00:00
 -- url     : https://prove2.me/theorems/2f6278a9-1700-5b8f-985e-7c9f46ef39e4

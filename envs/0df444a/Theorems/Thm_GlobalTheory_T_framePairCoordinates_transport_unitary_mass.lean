@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_framePairCoordinates_transport_unitary_mass
 -- name    : GlobalTheory.T.framePairCoordinates_transport_unitary_mass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:19:05.761499+00:00
 -- url     : https://prove2.me/theorems/fd5eb85b-62aa-4c7f-b2d9-519aa618939e

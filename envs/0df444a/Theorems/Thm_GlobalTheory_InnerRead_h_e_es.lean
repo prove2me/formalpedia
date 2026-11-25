@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_h_e_es
 -- name    : GlobalTheory.InnerRead.h_e_es
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:15:56.474719+00:00
 -- url     : https://prove2.me/theorems/1d41ec20-cb53-508b-b03a-9394186b29bb

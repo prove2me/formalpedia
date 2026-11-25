@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_ZuckHomCat_sum_nonneg__c895c5f25bf0
 -- name    : P2M_GlobalTheory_CompanionTheory_ZuckHomCat_sum_nonneg__c895c5f25bf0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:27:50.03342+00:00
 -- url     : https://prove2.me/theorems/5f70361a-a956-4bd3-823d-b97554019995

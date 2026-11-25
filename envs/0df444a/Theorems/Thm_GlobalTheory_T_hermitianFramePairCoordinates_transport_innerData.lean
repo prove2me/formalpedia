@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianFramePairCoordinates_transport_innerData
 -- name    : GlobalTheory.T.hermitianFramePairCoordinates_transport_innerData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:18:42.980511+00:00
 -- url     : https://prove2.me/theorems/cc3575fd-43bb-5fe0-9942-6eee99dac9d8

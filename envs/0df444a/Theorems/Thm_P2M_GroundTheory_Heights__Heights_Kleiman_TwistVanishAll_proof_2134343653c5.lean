@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TwistVanishAll_proof_2134343653c5
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TwistVanishAll_proof_2134343653c5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:22:08.24705+00:00
 -- url     : https://prove2.me/theorems/434a3fe7-74ca-4837-92e2-5eebf7409686

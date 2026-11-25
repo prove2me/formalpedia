@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_MoveChar_coords
 -- name    : GlobalTheory.HL.MoveChar.coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:12:58.291516+00:00
 -- url     : https://prove2.me/theorems/4d72246c-a8a1-420d-b8b8-6eb1d85b7fd0

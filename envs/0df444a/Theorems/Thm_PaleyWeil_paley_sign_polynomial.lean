@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_paley_sign_polynomial
 -- name    : PaleyWeil.paley_sign_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:19:39.430542+00:00
 -- url     : https://prove2.me/theorems/48a8efa4-a2c4-4bad-b181-481992b81045

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassOrth_main
 -- name    : GlobalTheory.MassOrth.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:33:14.195677+00:00
 -- url     : https://prove2.me/theorems/5d8b7f97-5cb2-49a2-a536-480c30796a1c

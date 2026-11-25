@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ComplAct_mem_smul
 -- name    : GlobalTheory.HL.ComplAct.mem_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:23:06.1427+00:00
 -- url     : https://prove2.me/theorems/61c07d7b-7aea-5fb5-aee6-6e31f8428582

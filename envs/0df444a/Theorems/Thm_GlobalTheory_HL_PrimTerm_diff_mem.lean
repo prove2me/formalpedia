@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PrimTerm_diff_mem
 -- name    : GlobalTheory.HL.PrimTerm.diff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:12:27.507911+00:00
 -- url     : https://prove2.me/theorems/adc50342-78c0-5b2c-8c08-4f219170e8a0

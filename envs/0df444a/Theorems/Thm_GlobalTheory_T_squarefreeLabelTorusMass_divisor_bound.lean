@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_squarefreeLabelTorusMass_divisor_bound
 -- name    : GlobalTheory.T.squarefreeLabelTorusMass_divisor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:49:25.01582+00:00
 -- url     : https://prove2.me/theorems/e1879981-482b-48c3-ab94-97993aeb3f8c

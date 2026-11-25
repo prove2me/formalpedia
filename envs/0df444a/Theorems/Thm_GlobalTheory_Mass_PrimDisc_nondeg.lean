@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimDisc_nondeg
 -- name    : GlobalTheory.Mass.PrimDisc.nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:17:28.953984+00:00
 -- url     : https://prove2.me/theorems/ce826f5f-ad9a-4e83-b07d-f7a7cded82b1

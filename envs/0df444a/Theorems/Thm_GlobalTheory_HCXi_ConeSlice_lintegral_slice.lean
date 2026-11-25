@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeSlice_lintegral_slice
 -- name    : GlobalTheory.HCXi.ConeSlice.lintegral_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:32:31.565717+00:00
 -- url     : https://prove2.me/theorems/73904029-6873-499d-ad3c-84dbc211f775

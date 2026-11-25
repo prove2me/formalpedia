@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_norm_inclL2Linf_le
 -- name    : SNumbers.L1Linf.norm_inclL2Linf_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:29:15.209921+00:00
 -- url     : https://prove2.me/theorems/fc92faee-05de-4a62-9c90-de95e53e3184

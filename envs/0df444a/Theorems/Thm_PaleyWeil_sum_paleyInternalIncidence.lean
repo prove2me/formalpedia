@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_sum_paleyInternalIncidence
 -- name    : PaleyWeil.sum_paleyInternalIncidence
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:19:35.284873+00:00
 -- url     : https://prove2.me/theorems/65afc2fe-ce8f-410d-bfb5-e400f9ce17b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_trans_apply
 -- name    : GlobalTheory.DegCnt.LiftS.trans_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:21:20.958917+00:00
 -- url     : https://prove2.me/theorems/7c955cec-e747-41f1-84aa-1928435945a2

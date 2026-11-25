@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ComplAct_inv_fix
 -- name    : GlobalTheory.HL.ComplAct.inv_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:23:54.027566+00:00
 -- url     : https://prove2.me/theorems/3d6232f6-7e5e-59f6-bb84-09e10096bbed

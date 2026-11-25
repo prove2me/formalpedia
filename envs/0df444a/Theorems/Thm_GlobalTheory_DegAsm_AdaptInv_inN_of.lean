@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_AdaptInv_inN_of
 -- name    : GlobalTheory.DegAsm.AdaptInv.inN_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:27:15.387606+00:00
 -- url     : https://prove2.me/theorems/74c3011f-e611-4b03-be61-2d86ddfc96ae

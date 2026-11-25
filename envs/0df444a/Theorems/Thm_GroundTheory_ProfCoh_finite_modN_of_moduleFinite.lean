@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_modN_of_moduleFinite
 -- name    : GroundTheory.ProfCoh.finite_modN_of_moduleFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:22:45.472648+00:00
 -- url     : https://prove2.me/theorems/01c9a5b6-9124-4b76-8c32-65e98b95e6c2

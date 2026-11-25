@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_splitCharacterSum_even_reduction
 -- name    : PaleyWeil.splitCharacterSum_even_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:23.933249+00:00
 -- url     : https://prove2.me/theorems/ceee8e3d-f9d6-4446-a0f9-06adf19c25e6

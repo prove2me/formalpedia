@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SubmoduleCount_card_submodule_and_hom_le
 -- name    : GlobalTheory.SubmoduleCount.card_submodule_and_hom_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:15:15.210822+00:00
 -- url     : https://prove2.me/theorems/ac09b2cd-6cb9-417e-8b40-0436063c885b

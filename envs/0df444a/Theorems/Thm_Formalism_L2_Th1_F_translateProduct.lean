@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_translateProduct
 -- name    : Formalism.L2.Th1.F.translateProduct
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:27:39.559558+00:00
 -- url     : https://prove2.me/theorems/978ba2b9-06ba-4fc4-a927-75291786f5b1

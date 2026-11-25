@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_isPrimitive_of_isCuspChar
 -- name    : GlobalTheory.CuspGL.isPrimitive_of_isCuspChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:21:22.391537+00:00
 -- url     : https://prove2.me/theorems/8fb813c0-e151-54db-a5e1-53f8c8feadc1

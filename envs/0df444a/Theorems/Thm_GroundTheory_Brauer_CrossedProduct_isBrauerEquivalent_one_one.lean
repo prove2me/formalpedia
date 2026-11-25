@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_isBrauerEquivalent_one_one
 -- name    : GroundTheory.Brauer.CrossedProduct.isBrauerEquivalent_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:15:54.315043+00:00
 -- url     : https://prove2.me/theorems/a4c6dddd-447a-4c4e-beab-d8cd345d6d15

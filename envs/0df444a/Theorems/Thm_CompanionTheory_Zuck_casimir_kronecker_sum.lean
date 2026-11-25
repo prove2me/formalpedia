@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_casimir_kronecker_sum
 -- name    : CompanionTheory.Zuck.casimir_kronecker_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:01:52.359079+00:00
 -- url     : https://prove2.me/theorems/87dd5479-3fb1-44bf-81d3-02efdc5a307f

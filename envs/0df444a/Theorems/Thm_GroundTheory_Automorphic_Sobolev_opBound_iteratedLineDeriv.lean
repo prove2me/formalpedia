@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_opBound_iteratedLineDeriv
 -- name    : GroundTheory.Automorphic.Sobolev.opBound_iteratedLineDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:20:48.010295+00:00
 -- url     : https://prove2.me/theorems/e094a640-9e9e-49de-8811-5956eb9de4b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_good_perp
 -- name    : GlobalTheory.InnerRead.good_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:15:23.679544+00:00
 -- url     : https://prove2.me/theorems/04337bbe-e15a-4025-9625-f368b2af3321

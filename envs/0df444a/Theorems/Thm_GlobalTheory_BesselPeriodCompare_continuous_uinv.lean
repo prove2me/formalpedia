@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_continuous_uinv
 -- name    : GlobalTheory.BesselPeriodCompare.continuous_uinv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:22:35.036097+00:00
 -- url     : https://prove2.me/theorems/8414b005-f670-55fb-848a-444032d58e81

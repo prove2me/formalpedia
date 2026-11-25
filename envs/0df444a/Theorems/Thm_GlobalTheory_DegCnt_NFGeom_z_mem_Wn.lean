@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NFGeom_z_mem_Wn
 -- name    : GlobalTheory.DegCnt.NFGeom.z_mem_Wn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:44:44.387142+00:00
 -- url     : https://prove2.me/theorems/6fd53224-6029-4c26-94ba-79a75da2b0bb

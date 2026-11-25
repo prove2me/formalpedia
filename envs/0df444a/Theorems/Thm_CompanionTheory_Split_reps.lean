@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_reps
 -- name    : CompanionTheory.Split.reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:32:08.457023+00:00
 -- url     : https://prove2.me/theorems/be84e379-9e38-43f9-a0fc-56bef1425d97

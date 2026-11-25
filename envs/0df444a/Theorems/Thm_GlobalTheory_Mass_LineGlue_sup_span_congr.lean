@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LineGlue_sup_span_congr
 -- name    : GlobalTheory.Mass.LineGlue.sup_span_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:27:50.730872+00:00
 -- url     : https://prove2.me/theorems/1033cc94-2e18-54f8-b609-3a43f246b076

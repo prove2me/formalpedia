@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_realF_zero
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.realF_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:18:58.755158+00:00
 -- url     : https://prove2.me/theorems/ce45befe-1696-5c2d-9ae3-5ad9c7f81b57

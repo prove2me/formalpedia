@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_AdaptInv_isFramed_iff
 -- name    : GlobalTheory.DegAsm.AdaptInv.isFramed_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:26:07.970941+00:00
 -- url     : https://prove2.me/theorems/4ed7efcb-95b9-5a44-a665-1692121fd19b

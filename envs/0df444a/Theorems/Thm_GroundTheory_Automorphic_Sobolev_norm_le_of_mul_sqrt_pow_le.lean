@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_le_of_mul_sqrt_pow_le
 -- name    : GroundTheory.Automorphic.Sobolev.norm_le_of_mul_sqrt_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:19:39.371354+00:00
 -- url     : https://prove2.me/theorems/467f1556-d9a8-486a-810e-87602c4e1f8e

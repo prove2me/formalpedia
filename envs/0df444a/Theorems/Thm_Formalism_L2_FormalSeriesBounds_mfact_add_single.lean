@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_mfact_add_single
 -- name    : Formalism.L2.FormalSeriesBounds.mfact_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:59:13.09686+00:00
 -- url     : https://prove2.me/theorems/4b662877-a895-5b6e-bbbf-5118b5ec35d6

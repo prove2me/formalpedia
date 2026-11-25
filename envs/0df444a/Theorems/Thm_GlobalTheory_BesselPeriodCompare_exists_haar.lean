@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BesselPeriodCompare_exists_haar
 -- name    : GlobalTheory.BesselPeriodCompare.exists_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:13:46.398833+00:00
 -- url     : https://prove2.me/theorems/b2588537-5e3c-4b26-898f-59fef2bc544a

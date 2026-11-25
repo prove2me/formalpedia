@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameLift_sum_mem_O
 -- name    : GlobalTheory.HL.FrameLift.sum_mem_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:17:34.832308+00:00
 -- url     : https://prove2.me/theorems/f854b3a1-b27b-5247-b79d-ca15c1291893

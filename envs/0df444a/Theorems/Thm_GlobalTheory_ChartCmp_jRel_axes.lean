@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_jRel_axes
 -- name    : GlobalTheory.ChartCmp.jRel_axes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:26:55.166663+00:00
 -- url     : https://prove2.me/theorems/f59a08c9-8f27-4c37-b947-dd83c516659a

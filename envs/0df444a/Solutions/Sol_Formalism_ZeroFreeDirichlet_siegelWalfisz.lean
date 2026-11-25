@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.ZeroFreeDirichlet.siegelWalfisz
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T06:36:41.664133+00:00
+-- url     : https://prove2.me/submissions/31cf4b38-215c-4b7a-9212-4a1697e72eaf
+
+import Definitions.Def_Formalism_LandauZeroFreeBounds_NoZeroComplex
+import Definitions.Def_Formalism_LandauZeroFreeBounds_FinalSiegel
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LandauLocal3
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PerronChi
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_RectShiftChi
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LogDerivRegionChiOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SmoothChiOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_PsiChiBoundOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_LDerivNearOne
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_ExcBoundOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszOf
+import Definitions.Def_Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_SiegelWalfiszAPOf
+import Definitions.Def_Formalism_ZeroFreeRegion_LogDerivRegion
+import Definitions.Def_Formalism_LandauZeroFreeBounds_SiegelWalfiszAPOfSiegelLower
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_siegelWalfisz_of_siegelLower
+import Theorems.Thm_Formalism_ZeroFreeDirichlet_siegelLower
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.ZeroFreeDirichlet
+namespace Formalism.ZeroFreeDirichlet
+theorem _root_.solution : SiegelWalfisz := siegelWalfisz_of_siegelLower siegelLower
+end Formalism.ZeroFreeDirichlet

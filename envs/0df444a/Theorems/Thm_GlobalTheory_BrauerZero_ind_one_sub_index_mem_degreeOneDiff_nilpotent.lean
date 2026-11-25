@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_ind_one_sub_index_mem_degreeOneDiff_nilpotent
 -- name    : GlobalTheory.BrauerZero.ind_one_sub_index_mem_degreeOneDiff_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:58:04.861926+00:00
 -- url     : https://prove2.me/theorems/bea11406-1228-5c51-b462-0369e719b47b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvTruncatedDerivativeUniformV1
 -- name    : Kyprianou.Ch04.bvTruncatedDerivativeUniformV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:33:02.540475+00:00
 -- url     : https://prove2.me/theorems/d5f967d9-bd1a-4463-b148-fafd8d78c18b

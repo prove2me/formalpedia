@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Domination_chartRing_eq_ampleBase_278a900ad2c3
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Domination_chartRing_eq_ampleBase_278a900ad2c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:21:40.505782+00:00
 -- url     : https://prove2.me/theorems/dfe8bd7b-d443-4815-8143-7116b5ce2940

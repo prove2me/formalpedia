@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_bump_le
 -- name    : GroundTheory.Automorphic.Sobolev.norm_bump_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:20:27.804667+00:00
 -- url     : https://prove2.me/theorems/37116ff2-6061-436f-844e-c898532d901c

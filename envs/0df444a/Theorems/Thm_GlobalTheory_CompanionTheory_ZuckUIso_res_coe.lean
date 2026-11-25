@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckUIso_res_coe
 -- name    : GlobalTheory.CompanionTheory.ZuckUIso.res_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:02:34.560149+00:00
 -- url     : https://prove2.me/theorems/77443ba3-e278-45ba-a7d7-ca95fbae881a

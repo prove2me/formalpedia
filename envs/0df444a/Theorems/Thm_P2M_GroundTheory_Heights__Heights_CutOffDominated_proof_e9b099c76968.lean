@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffDominated_proof_e9b099c76968
 -- name    : P2M_GroundTheory_Heights__Heights_CutOffDominated_proof_e9b099c76968
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:23.798569+00:00
 -- url     : https://prove2.me/theorems/e93081d1-31a1-5c14-8457-c69e36379d06

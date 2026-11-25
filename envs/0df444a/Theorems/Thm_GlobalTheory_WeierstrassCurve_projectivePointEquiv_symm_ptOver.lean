@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_projectivePointEquiv_symm_ptOver
 -- name    : GlobalTheory.WeierstrassCurve.projectivePointEquiv_symm_ptOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:24:20.54533+00:00
 -- url     : https://prove2.me/theorems/ba6652cf-9fff-552c-ba6c-5440ae029b47

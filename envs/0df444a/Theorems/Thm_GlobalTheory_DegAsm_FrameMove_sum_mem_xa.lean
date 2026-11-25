@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_FrameMove_sum_mem_xa
 -- name    : GlobalTheory.DegAsm.FrameMove.sum_mem_xa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:13:44.561014+00:00
 -- url     : https://prove2.me/theorems/9bac49c1-67d4-47b1-acbc-e6cad0358f47

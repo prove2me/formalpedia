@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_symm0
 -- name    : GlobalTheory.DegCnt.LiftS.symm0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:10:01.912495+00:00
 -- url     : https://prove2.me/theorems/49977d1f-fedd-5697-9c36-732d732cbb36

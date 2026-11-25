@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_classList_length_of_mem_support_fe70f044d187
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_classList_length_of_mem_support_fe70f044d187
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:27:41.343666+00:00
 -- url     : https://prove2.me/theorems/19c273a9-0945-5671-ad9b-258540c630ed

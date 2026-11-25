@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.F.isogenySigma
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T06:37:29.510985+00:00
+-- url     : https://prove2.me/submissions/8ab2b04e-2fb9-43da-82c5-e42b1b517642
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EllipticOnePole
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_MulStableIntegral
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_IsogenyP
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_WeierstrassPSecondDerivative
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_CmAlternatingForm
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_IsogenySigma
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_LatticeOnly
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_MulStableIntegral
+import Theorems.Thm_Formalism_L2_Th1_F_kerRepsCard
+import Theorems.Thm_Formalism_L2_Th1_F_ellipticNoPole
+import Theorems.Thm_Formalism_L2_Th1_F_isogenySigma_of
+import Theorems.Thm_Formalism_L2_Th1_F_sgStarAdd
+import Theorems.Thm_Formalism_L2_Th1_F_sgStarBasic
+import Theorems.Thm_Formalism_L2_Th1_F_sgStarQuasi
+import Theorems.Thm_Formalism_L2_Th1_F_sigmaEntire
+import Theorems.Thm_Formalism_L2_Th1_F_sigmaOrder
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.F
+namespace Formalism.L2.Th1.F
+theorem _root_.solution : IsogenySigma :=
+  isogenySigma_of ellipticNoPole sigmaOrder sgStarAdd sgStarQuasi sgStarBasic kerRepsCard sigmaEntire
+end Formalism.L2.Th1.F

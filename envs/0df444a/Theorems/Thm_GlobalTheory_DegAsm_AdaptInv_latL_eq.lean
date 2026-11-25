@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_AdaptInv_latL_eq
 -- name    : GlobalTheory.DegAsm.AdaptInv.latL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:27:09.129913+00:00
 -- url     : https://prove2.me/theorems/e8b84fc1-7309-43da-87b9-9246a5dc1968

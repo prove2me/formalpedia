@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_Adapted_isJumpV_iff
 -- name    : GlobalTheory.DRFil.Adapted.isJumpV_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:19:46.471795+00:00
 -- url     : https://prove2.me/theorems/bb94e33a-c334-400f-974f-09065d026496

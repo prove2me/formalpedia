@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_min_le_lowerIndex_mul
 -- name    : GroundTheory.LocalField.min_le_lowerIndex_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:18:32.247524+00:00
 -- url     : https://prove2.me/theorems/0707a2aa-e13c-4b64-b5b1-7e6efb819da9

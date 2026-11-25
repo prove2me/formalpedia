@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckDecOfTrace_dec_of_gen
 -- name    : GlobalTheory.CompanionTheory.ZuckDecOfTrace.dec_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:59:19.85294+00:00
 -- url     : https://prove2.me/theorems/a0347359-48ee-4379-9b51-e2c54a0bfdb1

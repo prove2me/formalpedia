@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameClass_intM_mul
 -- name    : GlobalTheory.HL.FrameClass.intM_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:17:37.101666+00:00
 -- url     : https://prove2.me/theorems/7e08ebb9-b84f-47f6-9bd4-a7b225ee62b9

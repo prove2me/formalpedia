@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_jf_radAdj_of_parts
 -- name    : Formalism.FourierDecayAlt.P.jf_radAdj_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:34:49.701561+00:00
 -- url     : https://prove2.me/theorems/cbcd75f3-693a-4cd9-8efe-be6c0d173643

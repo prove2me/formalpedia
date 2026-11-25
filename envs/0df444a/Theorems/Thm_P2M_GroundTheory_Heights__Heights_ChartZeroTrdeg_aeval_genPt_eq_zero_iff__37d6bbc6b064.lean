@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartZeroTrdeg_aeval_genPt_eq_zero_iff__37d6bbc6b064
 -- name    : P2M_GroundTheory_Heights__Heights_ChartZeroTrdeg_aeval_genPt_eq_zero_iff__37d6bbc6b064
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:19:00.652912+00:00
 -- url     : https://prove2.me/theorems/76fada08-4530-4abc-9dd0-f9287565740d

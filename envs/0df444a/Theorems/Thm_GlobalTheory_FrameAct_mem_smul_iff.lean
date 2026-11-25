@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameAct_mem_smul_iff
 -- name    : GlobalTheory.FrameAct.mem_smul_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:28:14.874483+00:00
 -- url     : https://prove2.me/theorems/21a1b112-3810-483d-8abd-49fc655569fa

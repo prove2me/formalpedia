@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_ipow_mul
 -- name    : GlobalTheory.DegCnt.LiftS.ipow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:25:16.644396+00:00
 -- url     : https://prove2.me/theorems/717b57e4-e261-4697-b23c-290d3044e89b

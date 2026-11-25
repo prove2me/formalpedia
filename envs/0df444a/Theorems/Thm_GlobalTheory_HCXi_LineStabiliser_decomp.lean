@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_LineStabiliser_decomp
 -- name    : GlobalTheory.HCXi.LineStabiliser.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:18:28.601797+00:00
 -- url     : https://prove2.me/theorems/f522893e-5332-5e92-9ecf-61adcee6ada4

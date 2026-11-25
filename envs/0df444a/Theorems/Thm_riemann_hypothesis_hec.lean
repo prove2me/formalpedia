@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_riemann_hypothesis_hec
 -- name    : riemann_hypothesis_hec
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:34:17.734482+00:00
 -- url     : https://prove2.me/theorems/a554bcec-01af-4ced-baa3-c226d79af38b

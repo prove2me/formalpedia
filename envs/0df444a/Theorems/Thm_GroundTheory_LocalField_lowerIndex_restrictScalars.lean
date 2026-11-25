@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_lowerIndex_restrictScalars
 -- name    : GroundTheory.LocalField.lowerIndex_restrictScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:06:34.835463+00:00
 -- url     : https://prove2.me/theorems/cf635019-4723-4f44-bdc9-2f3811307260

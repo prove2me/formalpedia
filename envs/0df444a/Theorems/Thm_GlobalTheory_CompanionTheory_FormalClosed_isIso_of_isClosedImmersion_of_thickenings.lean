@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FormalClosed_isIso_of_isClosedImmersion_of_thickenings
 -- name    : GlobalTheory.CompanionTheory.FormalClosed.isIso_of_isClosedImmersion_of_thickenings
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:03:54.000829+00:00
 -- url     : https://prove2.me/theorems/b8e825be-723d-580e-90ce-0f73619db278

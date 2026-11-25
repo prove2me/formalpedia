@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Domination_exists_clear_7e98f59cc546
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Domination_exists_clear_7e98f59cc546
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:21:43.374276+00:00
 -- url     : https://prove2.me/theorems/8fed4689-f2ad-4a34-988f-7fa96e751833

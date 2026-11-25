@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_coe_decomposition_smul_integerUnits
 -- name    : GroundTheory.Global.coe_decomposition_smul_integerUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:26:24.132109+00:00
 -- url     : https://prove2.me/theorems/188f1600-a449-548a-bcf1-618cd6e7cf2c

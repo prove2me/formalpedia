@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Th1_D_CohomologyFunctoriality__norm_iter_c6ab79c48f38
 -- name    : P2M_Formalism_L2_Th1_D_CohomologyFunctoriality__norm_iter_c6ab79c48f38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:17:44.367284+00:00
 -- url     : https://prove2.me/theorems/1e62802b-49b8-4a05-8103-63b975c8f259

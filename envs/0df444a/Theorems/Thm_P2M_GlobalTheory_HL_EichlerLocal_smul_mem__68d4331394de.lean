@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_EichlerLocal_smul_mem__68d4331394de
 -- name    : P2M_GlobalTheory_HL_EichlerLocal_smul_mem__68d4331394de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:22:13.859738+00:00
 -- url     : https://prove2.me/theorems/f0bc9abe-b214-485c-a908-cb4c8a337033

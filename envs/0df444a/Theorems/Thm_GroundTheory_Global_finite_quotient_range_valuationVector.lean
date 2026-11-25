@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_quotient_range_valuationVector
 -- name    : GroundTheory.Global.finite_quotient_range_valuationVector
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:14:38.791049+00:00
 -- url     : https://prove2.me/theorems/f5af1827-f494-5248-a97e-3afa475d939b

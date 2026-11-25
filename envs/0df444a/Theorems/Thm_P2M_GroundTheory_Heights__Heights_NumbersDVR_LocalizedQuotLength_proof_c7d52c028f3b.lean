@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_LocalizedQuotLength_proof_c7d52c028f3b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_LocalizedQuotLength_proof_c7d52c028f3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:16:06.661305+00:00
 -- url     : https://prove2.me/theorems/c64bd04b-68f0-534d-b57d-f590d0e06e73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PlacesInt_mem_int_iff
 -- name    : GlobalTheory.HL.PlacesInt.mem_int_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:06:44.872878+00:00
 -- url     : https://prove2.me/theorems/9499863f-f78b-47e8-a5d7-be2eb466b2d2

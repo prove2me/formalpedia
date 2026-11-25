@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.bvTruncatedDerivativeUniformV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T00:42:33.082242+00:00
 -- url     : https://prove2.me/submissions/a0b1bd7d-a15e-4ad8-ad2a-66ce14b97e94
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_bvTruncatedPathsUniformV1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ncard_stabilizer_orbit
 -- name    : GlobalTheory.HL.ncard_stabilizer_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:14:55.126901+00:00
 -- url     : https://prove2.me/theorems/d9774e56-a719-4b9e-b642-e46e10bdf0d1

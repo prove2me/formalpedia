@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finite_torsN_of_moduleFinite
 -- name    : GroundTheory.ProfCoh.finite_torsN_of_moduleFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:24:11.072259+00:00
 -- url     : https://prove2.me/theorems/64a90003-a589-401f-831f-24e5deacf174

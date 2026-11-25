@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_VLev_fvec_zero
 -- name    : GlobalTheory.HCXi.VLev.fvec_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:20:23.732801+00:00
 -- url     : https://prove2.me/theorems/4a67c656-56c0-44eb-9a0c-d5fb164620fb

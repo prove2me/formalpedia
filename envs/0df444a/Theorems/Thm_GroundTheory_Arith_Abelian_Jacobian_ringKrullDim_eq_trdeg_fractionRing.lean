@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_Jacobian_ringKrullDim_eq_trdeg_fractionRing
 -- name    : GroundTheory.Arith.Abelian.Jacobian.ringKrullDim_eq_trdeg_fractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:52:02.932838+00:00
 -- url     : https://prove2.me/theorems/f6dc5e48-00b3-4d10-84de-87617f684d86

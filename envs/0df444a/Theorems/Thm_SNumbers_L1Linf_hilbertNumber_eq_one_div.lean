@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_hilbertNumber_eq_one_div
 -- name    : SNumbers.L1Linf.hilbertNumber_eq_one_div
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:18:13.453685+00:00
 -- url     : https://prove2.me/theorems/3899f730-891b-4b72-a7ed-8fe003eff0a0

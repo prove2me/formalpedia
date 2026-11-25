@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_max_gelfandNumber_kolmogorovNumber_le_e_mul_bernsteinNumber
 -- name    : SNumbers.max_gelfandNumber_kolmogorovNumber_le_e_mul_bernsteinNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:21:29.969466+00:00
 -- url     : https://prove2.me/theorems/1870ef2f-12b1-498a-96db-ced3f6197f19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_continuous_diagUnits
 -- name    : GroundTheory.Automorphic.Reduction.continuous_diagUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:25:34.254373+00:00
 -- url     : https://prove2.me/theorems/3291ffb9-31c8-4c51-8709-08861cf24bc3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Transp_img_smul
 -- name    : GlobalTheory.Mass.Transp.img_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:08:29.865455+00:00
 -- url     : https://prove2.me/theorems/a1a2b9c6-314c-54da-b4ac-45a19f846e2f

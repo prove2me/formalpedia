@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_FourierDecayAlt_P_CutMP_En_om_sub__2fc4dbc9d380
 -- name    : P2M_Formalism_FourierDecayAlt_P_CutMP_En_om_sub__2fc4dbc9d380
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:56:02.547868+00:00
 -- url     : https://prove2.me/theorems/098be11d-0229-417d-8fbe-1a84496f92aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_act_inC
 -- name    : GlobalTheory.CycEigen.act_inC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:23:44.497799+00:00
 -- url     : https://prove2.me/theorems/64a79c41-098b-4af5-aba7-554e0d23e7a8

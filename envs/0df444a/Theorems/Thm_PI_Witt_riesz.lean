@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_Witt_riesz
 -- name    : PI.Witt.riesz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:23:25.703927+00:00
 -- url     : https://prove2.me/theorems/e9864a54-0a75-434b-8f67-d2775032cace

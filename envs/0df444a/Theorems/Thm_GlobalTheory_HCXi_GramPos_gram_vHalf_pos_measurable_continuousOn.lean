@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_GramPos_gram_vHalf_pos_measurable_continuousOn
 -- name    : GlobalTheory.HCXi.GramPos.gram_vHalf_pos_measurable_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:52:07.039986+00:00
 -- url     : https://prove2.me/theorems/1264238f-37fc-4b45-a1c1-0df4c8e351af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_WeierstrassCurveSeries_rescale_neg_one_of_even
 -- name    : Formalism.L2.Th1.G.WeierstrassCurveSeries.rescale_neg_one_of_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:10:52.348126+00:00
 -- url     : https://prove2.me/theorems/8b819dd2-8017-4a9d-b709-a59ff2183d6e

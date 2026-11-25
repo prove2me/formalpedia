@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_InnerLat_e_mem_X
 -- name    : GlobalTheory.DegCnt.InnerLat.e_mem_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:08:06.176635+00:00
 -- url     : https://prove2.me/theorems/029774a7-1163-51c8-aa3a-8e3b79176a0f

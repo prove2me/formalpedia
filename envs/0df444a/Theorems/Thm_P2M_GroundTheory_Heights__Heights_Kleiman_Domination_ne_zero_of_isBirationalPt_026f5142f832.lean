@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Domination_ne_zero_of_isBirationalPt_026f5142f832
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Domination_ne_zero_of_isBirationalPt_026f5142f832
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:21:31.510485+00:00
 -- url     : https://prove2.me/theorems/064126ea-1873-54b3-8e86-c300f3b8f2b9

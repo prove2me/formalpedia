@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_exists_frac_7b843acc1ee2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_exists_frac_7b843acc1ee2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:13.955582+00:00
 -- url     : https://prove2.me/theorems/d708c32e-304f-42c0-967b-82f1ab3b1991

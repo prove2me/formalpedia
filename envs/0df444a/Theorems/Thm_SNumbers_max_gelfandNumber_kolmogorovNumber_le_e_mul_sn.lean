@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_max_gelfandNumber_kolmogorovNumber_le_e_mul_sn
 -- name    : SNumbers.max_gelfandNumber_kolmogorovNumber_le_e_mul_sn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:46:56.12344+00:00
 -- url     : https://prove2.me/theorems/d6c43455-49ff-429e-9edf-e2ae3f2ee3f4

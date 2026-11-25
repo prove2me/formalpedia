@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_StrongApprox_O_of_int
 -- name    : GlobalTheory.HL.StrongApprox.O_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:14:23.722968+00:00
 -- url     : https://prove2.me/theorems/27ea6363-3b3b-4624-89cc-3c7a8b1dc380

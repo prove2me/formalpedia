@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_interlaces_of_OK
 -- name    : CompanionTheory.WaveGrid.interlaces_of_OK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:23:23.020867+00:00
 -- url     : https://prove2.me/theorems/4bae6512-eb8c-4d5b-b62d-6bfd1f342e26

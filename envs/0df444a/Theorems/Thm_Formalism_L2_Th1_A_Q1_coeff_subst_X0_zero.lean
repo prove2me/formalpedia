@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Q1_coeff_subst_X0_zero
 -- name    : Formalism.L2.Th1.A.Q1.coeff_subst_X0_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:57:56.285122+00:00
 -- url     : https://prove2.me/theorems/f4ea28ff-59c6-5316-8d4c-6f75b1b211a3

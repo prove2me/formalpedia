@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_form_mul_left
 -- name    : GlobalTheory.OddBlock.ExpShift.form_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:32:40.002735+00:00
 -- url     : https://prove2.me/theorems/7ee3574f-40cd-5b3c-a990-77506c7647fc

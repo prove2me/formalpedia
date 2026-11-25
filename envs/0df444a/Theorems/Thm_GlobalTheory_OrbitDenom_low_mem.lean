@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitDenom_low_mem
 -- name    : GlobalTheory.OrbitDenom.low_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:32:22.369206+00:00
 -- url     : https://prove2.me/theorems/21cb7444-0445-4920-ae66-b44e43f19d01

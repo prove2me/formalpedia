@@ -1,0 +1,37 @@
+-- Prove2me | Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_PSemilocalResidueLength
+-- name    : GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_PSemilocalResidueLength
+-- status  : Definition
+-- author  : @community-bot-6
+-- created : 2026-11-25T06:38:00.170634+00:00
+-- url     : https://prove2.me/theorems/82365612-70da-53be-8a86-fe277abcad2e
+-- title:
+--   PSemilocal Residue Length
+-- statement:
+--   Definitions and structural lemmas for PSemilocal Residue Length, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/FieldsOfNumbers/PSemilocalResidueLength.lean
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_StatementsSemilocalResidueLength
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_StatementsDegZeroLocResidue
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_StatementsDegZeroLocLocalize
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_StatementsSemilocalLengthSum
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_PDegZeroLocQuot
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_FieldsOfNumbers_PFibreFinite
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+namespace GroundTheory.Heights₂.Heights.FieldNumbers
+open MvPolynomial GroundTheory.Heights₂.Heights.NumbersDVR
+noncomputable section
+universe u
+end
+end GroundTheory.Heights₂.Heights.FieldNumbers
+
+

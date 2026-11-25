@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_GaugeExists_prod_linear
 -- name    : GroundTheory.BlockD.FourierDecayAlt.GaugeExists.prod_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:15:37.614933+00:00
 -- url     : https://prove2.me/theorems/bf34679c-b608-4e0c-bc6d-910c8d2331c0

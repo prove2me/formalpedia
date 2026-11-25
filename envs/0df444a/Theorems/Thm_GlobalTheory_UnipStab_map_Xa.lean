@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipStab_map_Xa
 -- name    : GlobalTheory.UnipStab.map_Xa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:55:07.20505+00:00
 -- url     : https://prove2.me/theorems/d7eb4b02-aecd-5f59-bc15-aaaba1646033

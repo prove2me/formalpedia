@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_FixedSub_dual_smul
 -- name    : GlobalTheory.Mass.FixedSub.dual_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:22:08.444286+00:00
 -- url     : https://prove2.me/theorems/04a00c28-4085-4577-a6b3-7890216efdd1

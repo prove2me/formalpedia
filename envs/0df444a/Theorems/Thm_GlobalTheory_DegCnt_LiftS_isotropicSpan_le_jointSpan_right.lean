@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_LiftS_isotropicSpan_le_jointSpan_right
 -- name    : GlobalTheory.DegCnt.LiftS.isotropicSpan_le_jointSpan_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:26:32.3154+00:00
 -- url     : https://prove2.me/theorems/b397c714-1276-5d38-a637-0163f6c61dbc

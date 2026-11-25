@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_integrable_of_mem_schwartzBruhat
 -- name    : GroundTheory.LocalField.integrable_of_mem_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:17:24.710868+00:00
 -- url     : https://prove2.me/theorems/db289dbf-3ae3-5595-9a7b-e095339357bc

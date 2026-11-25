@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_decomp_pointwise
 -- name    : GlobalTheory.DI.decomp_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:36:32.31067+00:00
 -- url     : https://prove2.me/theorems/eb28ef7c-8598-4c03-a453-ad0e589052ac

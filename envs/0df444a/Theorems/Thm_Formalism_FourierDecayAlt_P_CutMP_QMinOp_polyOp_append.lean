@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_QMinOp_polyOp_append
 -- name    : Formalism.FourierDecayAlt.P.CutMP.QMinOp.polyOp_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:15:31.876889+00:00
 -- url     : https://prove2.me/theorems/f9360e5f-9fbe-5f8b-b7b7-020b82bcd2c2

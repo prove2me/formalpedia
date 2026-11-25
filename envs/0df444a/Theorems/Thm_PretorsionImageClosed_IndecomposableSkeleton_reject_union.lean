@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_reject_union
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.reject_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:13:39.074262+00:00
 -- url     : https://prove2.me/theorems/40f2699a-0bc5-42e7-894c-799fe83f04af

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_LimSh_letters_pow_succ
 -- name    : CompanionTheory.WaveGrid.LimSh.letters_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:58:43.863061+00:00
 -- url     : https://prove2.me/theorems/05b261ab-9352-5ca2-89c8-fc0bb0fb3018

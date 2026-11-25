@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvTruncatedPathCompactBoundV1
 -- name    : Kyprianou.Ch04.bvTruncatedPathCompactBoundV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:32:03.295494+00:00
 -- url     : https://prove2.me/theorems/bd9fe417-4c17-48e8-87a6-737854c48835

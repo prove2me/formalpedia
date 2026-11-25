@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_toZ_subst_X
 -- name    : Formalism.L2.Th1.G.toZ_subst_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:21:03.112557+00:00
 -- url     : https://prove2.me/theorems/fa6dea6e-4bc6-52b3-bb44-1e2513c962e9

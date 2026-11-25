@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_EnergyAbs_ratio_le_one
 -- name    : Formalism.L2.S.Pv.EnergyAbs.ratio_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:26:28.639383+00:00
 -- url     : https://prove2.me/theorems/4345950c-ab33-453c-a9fd-8f6f0938bc8b

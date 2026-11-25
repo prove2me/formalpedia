@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_root_mem_inC
 -- name    : GlobalTheory.CycEigen.root_mem_inC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:23:52.998455+00:00
 -- url     : https://prove2.me/theorems/3ad1e55e-4313-4514-a97b-e54619e082a1

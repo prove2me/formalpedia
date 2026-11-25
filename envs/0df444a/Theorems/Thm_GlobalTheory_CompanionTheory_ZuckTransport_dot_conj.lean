@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckTransport_dot_conj
 -- name    : GlobalTheory.CompanionTheory.ZuckTransport.dot_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:56:59.679223+00:00
 -- url     : https://prove2.me/theorems/13b485ae-8a30-46a6-b3e0-d819560d8594

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_UnimodularLocalization_inv_mem_locF_one
 -- name    : Formalism.HermitianLattices.Ext.L3.UnimodularLocalization.inv_mem_locF_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:24:47.885938+00:00
 -- url     : https://prove2.me/theorems/73ed729c-87f4-4578-b9dd-7800793aa441

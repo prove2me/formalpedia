@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_discNeZero
 -- name    : Formalism.L2.Th1.F.discNeZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:46.614351+00:00
 -- url     : https://prove2.me/theorems/f09615d9-3d49-45ba-b0a7-80b7ac42072f

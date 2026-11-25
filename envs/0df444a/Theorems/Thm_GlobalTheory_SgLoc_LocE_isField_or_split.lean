@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_LocE_isField_or_split
 -- name    : GlobalTheory.SgLoc.LocE_isField_or_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:14:48.193668+00:00
 -- url     : https://prove2.me/theorems/48fa0be9-2480-4e9c-8ff6-5aac172792d7

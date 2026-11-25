@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_quantum_minor_level_eq_hat
 -- name    : Formalism.FourierDecayAlt.P.PBG.quantum_minor_level_eq_hat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:59:00.51274+00:00
 -- url     : https://prove2.me/theorems/516fb2ab-d363-4d4a-9f1d-184ed00c5991

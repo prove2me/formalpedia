@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_eq_zero_of_isZero
 -- name    : GroundTheory.GroupCoh.eq_zero_of_isZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:29:01.519969+00:00
 -- url     : https://prove2.me/theorems/769863d1-18d6-5a6f-9194-1722e7921791

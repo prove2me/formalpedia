@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_rho_lt_one
 -- name    : GlobalTheory.CycSeries.rho_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:25:36.760941+00:00
 -- url     : https://prove2.me/theorems/e282516c-a5c5-493a-bb55-b572000a9e6a

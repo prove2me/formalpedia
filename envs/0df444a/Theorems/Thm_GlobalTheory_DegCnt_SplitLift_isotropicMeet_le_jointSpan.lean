@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_SplitLift_isotropicMeet_le_jointSpan
 -- name    : GlobalTheory.DegCnt.SplitLift.isotropicMeet_le_jointSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:22:59.372354+00:00
 -- url     : https://prove2.me/theorems/e1f13714-a6d4-5a9c-89d5-edeeede226ce

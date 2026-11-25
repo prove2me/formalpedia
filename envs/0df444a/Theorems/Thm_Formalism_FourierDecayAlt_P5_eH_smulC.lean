@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_eH_smulC
 -- name    : Formalism.FourierDecayAlt.P5.eH_smulC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:30:44.55981+00:00
 -- url     : https://prove2.me/theorems/25bb144b-367f-59ca-8bce-6633e94b9978

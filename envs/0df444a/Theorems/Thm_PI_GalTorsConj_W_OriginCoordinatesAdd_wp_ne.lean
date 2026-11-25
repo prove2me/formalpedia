@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_OriginCoordinatesAdd_wp_ne
 -- name    : PI.GalTorsConj.W.OriginCoordinatesAdd.wp_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:46:25.083795+00:00
 -- url     : https://prove2.me/theorems/bafc38be-d541-4eb7-8c02-7857a22ed5bb

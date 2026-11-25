@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexProd_invVol_eq_inf_mul_sup_and_mono
 -- name    : GlobalTheory.IndexProd.invVol_eq_inf_mul_sup_and_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:48:24.316409+00:00
 -- url     : https://prove2.me/theorems/888a86dd-ce8e-463e-a8e6-3f5e0b1db357

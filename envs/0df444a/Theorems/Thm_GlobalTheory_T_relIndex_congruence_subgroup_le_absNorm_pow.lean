@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_relIndex_congruence_subgroup_le_absNorm_pow
 -- name    : GlobalTheory.T.relIndex_congruence_subgroup_le_absNorm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:04:35.059802+00:00
 -- url     : https://prove2.me/theorems/2b41edb7-1ead-403c-a12d-deba31281c54

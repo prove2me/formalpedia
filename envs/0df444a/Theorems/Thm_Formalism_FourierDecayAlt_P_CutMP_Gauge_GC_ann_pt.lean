@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_ann_pt
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.ann_pt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:15:24.644806+00:00
 -- url     : https://prove2.me/theorems/a2b6cb03-b455-40d4-bdf0-f831b900ae5d

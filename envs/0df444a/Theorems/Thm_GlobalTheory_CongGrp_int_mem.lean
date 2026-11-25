@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongGrp_int_mem
 -- name    : GlobalTheory.CongGrp.int_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:12:00.893159+00:00
 -- url     : https://prove2.me/theorems/a38bcef2-ad4d-4bce-8d3d-d949f8531387

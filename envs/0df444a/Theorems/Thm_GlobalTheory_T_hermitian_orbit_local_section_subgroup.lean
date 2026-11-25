@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_orbit_local_section_subgroup
 -- name    : GlobalTheory.T.hermitian_orbit_local_section_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:49:37.267797+00:00
 -- url     : https://prove2.me/theorems/408c5756-1ad7-4176-b26f-0b83d2b8cfdc

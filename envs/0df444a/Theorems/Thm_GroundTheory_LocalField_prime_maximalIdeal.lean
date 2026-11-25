@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_prime_maximalIdeal
 -- name    : GroundTheory.LocalField.prime_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:17:21.17606+00:00
 -- url     : https://prove2.me/theorems/e31772c2-c9e3-513b-9f1c-1f08eef15f3d

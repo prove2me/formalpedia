@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_compact_extremePoints_basis
 -- name    : PretorsionImageClosed.SetClosure.compact_extremePoints_basis
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T06:06:19.185713+00:00
 -- url     : https://prove2.me/theorems/3d7e0d02-63cb-4495-a328-3b0ec1582cd5

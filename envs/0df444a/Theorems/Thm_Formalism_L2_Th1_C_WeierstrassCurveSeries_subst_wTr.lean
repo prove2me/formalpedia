@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_WeierstrassCurveSeries_subst_wTr
 -- name    : Formalism.L2.Th1.C.WeierstrassCurveSeries.subst_wTr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:48:31.732548+00:00
 -- url     : https://prove2.me/theorems/1880c02c-a759-5737-9142-3e6a8866c9cd

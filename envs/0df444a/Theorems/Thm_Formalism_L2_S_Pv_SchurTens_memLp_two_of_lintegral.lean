@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_S_Pv_SchurTens_memLp_two_of_lintegral
 -- name    : Formalism.L2.S.Pv.SchurTens.memLp_two_of_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:13:40.358809+00:00
 -- url     : https://prove2.me/theorems/f816350f-ba8f-438f-beb6-a8464fe8f91a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_th0Line
 -- name    : Formalism.L2.Th1.F.th0Line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:03:08.946056+00:00
 -- url     : https://prove2.me/theorems/3232542b-a7f4-4b81-8264-3486336e2b9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegulatorClassBound_exists_mem_box
 -- name    : GlobalTheory.RegulatorClassBound.exists_mem_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:15:07.321697+00:00
 -- url     : https://prove2.me/theorems/e10355c7-e8da-5aa2-9b6a-7eb20b917baf

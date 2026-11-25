@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SlocCong_stab_of_flag
 -- name    : GlobalTheory.SlocCong.stab_of_flag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:15:15.288564+00:00
 -- url     : https://prove2.me/theorems/63c07fec-f6fb-4c1e-8826-e93633080fe9

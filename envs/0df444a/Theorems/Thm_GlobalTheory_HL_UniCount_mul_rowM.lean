@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_UniCount_mul_rowM
 -- name    : GlobalTheory.HL.UniCount.mul_rowM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:15:18.126276+00:00
 -- url     : https://prove2.me/theorems/3e8e995b-f2a0-4179-b285-38d5ca4867f7

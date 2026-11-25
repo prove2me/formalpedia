@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_mem_inC_iff
 -- name    : GlobalTheory.CycPerturb.mem_inC_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:23:48.716276+00:00
 -- url     : https://prove2.me/theorems/035b32b6-97d1-4b52-a559-14ba9b95e428

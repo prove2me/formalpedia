@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_WitIndep_coords_mem
 -- name    : GlobalTheory.HL.WitIndep.coords_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:15:16.367226+00:00
 -- url     : https://prove2.me/theorems/4494dd0a-e0ef-4aa4-ae0c-3436724886c6

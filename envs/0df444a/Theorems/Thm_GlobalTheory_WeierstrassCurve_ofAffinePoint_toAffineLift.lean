@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_ofAffinePoint_toAffineLift
 -- name    : GlobalTheory.WeierstrassCurve.ofAffinePoint_toAffineLift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:29:50.946854+00:00
 -- url     : https://prove2.me/theorems/cfa0676b-980a-416f-9c82-f83a8a0ccde2

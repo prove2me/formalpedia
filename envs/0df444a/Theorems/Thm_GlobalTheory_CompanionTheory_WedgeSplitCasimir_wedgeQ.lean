@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeSplitCasimir_wedgeQ
 -- name    : GlobalTheory.CompanionTheory.WedgeSplitCasimir.wedgeQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:26:57.41692+00:00
 -- url     : https://prove2.me/theorems/29e256cd-aa44-44f0-a94f-eb65098f973a

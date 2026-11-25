@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Transp_img_img_symm
 -- name    : GlobalTheory.Mass.Transp.img_img_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:09:28.136105+00:00
 -- url     : https://prove2.me/theorems/17000174-7dfe-4577-b438-84080e79240f

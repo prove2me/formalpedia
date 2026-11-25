@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_EffectiveHilbertSamuelJetLemmas_chart_sum_eq_8fb30277a532
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_EffectiveHilbertSamuelJetLemmas_chart_sum_eq_8fb30277a532
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:16:20.614605+00:00
 -- url     : https://prove2.me/theorems/e85fdab2-be34-44bb-b17e-f1888ebf0acd

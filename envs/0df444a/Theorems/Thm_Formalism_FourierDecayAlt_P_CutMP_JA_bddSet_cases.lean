@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_JA_bddSet_cases
 -- name    : Formalism.FourierDecayAlt.P.CutMP.JA.bddSet_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:23:37.429456+00:00
 -- url     : https://prove2.me/theorems/9a8f71d4-efda-5c41-9177-ee334f72d513

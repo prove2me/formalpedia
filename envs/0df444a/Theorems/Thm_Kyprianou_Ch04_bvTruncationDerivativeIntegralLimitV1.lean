@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvTruncationDerivativeIntegralLimitV1
 -- name    : Kyprianou.Ch04.bvTruncationDerivativeIntegralLimitV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:28:35.060038+00:00
 -- url     : https://prove2.me/theorems/d4703554-9a2c-4036-b187-76a1845d6f04

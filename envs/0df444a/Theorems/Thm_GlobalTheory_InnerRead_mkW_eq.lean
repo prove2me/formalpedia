@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_mkW_eq
 -- name    : GlobalTheory.InnerRead.mkW_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:16:04.654807+00:00
 -- url     : https://prove2.me/theorems/4201a837-fbba-4387-b5bc-7befcceb53f7

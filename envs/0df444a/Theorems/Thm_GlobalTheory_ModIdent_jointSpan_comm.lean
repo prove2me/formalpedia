@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_jointSpan_comm
 -- name    : GlobalTheory.ModIdent.jointSpan_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:18:08.720471+00:00
 -- url     : https://prove2.me/theorems/9e5ed28a-48f8-58c8-8a87-bd46febd419d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_ThKR_Mp_hasDerivAt_det
 -- name    : CompanionTheory.ThKR.Mp.hasDerivAt_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:18:30.749003+00:00
 -- url     : https://prove2.me/theorems/0e7f9941-d539-47ba-a8d9-a151f47bfda7

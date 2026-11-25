@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_FixDisc_lattice_map
 -- name    : GlobalTheory.DegCnt.FixDisc.lattice_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:16:24.829833+00:00
 -- url     : https://prove2.me/theorems/5b8c0773-7a69-5b96-b834-ee13518d3ecb

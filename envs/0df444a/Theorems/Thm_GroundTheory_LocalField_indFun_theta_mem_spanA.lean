@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_indFun_theta_mem_spanA
 -- name    : GroundTheory.LocalField.indFun_theta_mem_spanA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:19:55.854573+00:00
 -- url     : https://prove2.me/theorems/5f2f707b-c283-5755-8492-c044f3eb191a

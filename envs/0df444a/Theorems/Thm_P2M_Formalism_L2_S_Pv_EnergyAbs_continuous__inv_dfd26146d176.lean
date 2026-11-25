@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_S_Pv_EnergyAbs_continuous__inv_dfd26146d176
 -- name    : P2M_Formalism_L2_S_Pv_EnergyAbs_continuous__inv_dfd26146d176
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:19:00.993646+00:00
 -- url     : https://prove2.me/theorems/45596f8d-8d74-46a0-bf06-5fedb3e080c2

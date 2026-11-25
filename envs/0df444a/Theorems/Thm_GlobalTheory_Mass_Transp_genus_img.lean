@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Transp_genus_img
 -- name    : GlobalTheory.Mass.Transp.genus_img
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:04:02.228687+00:00
 -- url     : https://prove2.me/theorems/dcc644cd-a864-5b6e-9f31-af8a7cf047d0

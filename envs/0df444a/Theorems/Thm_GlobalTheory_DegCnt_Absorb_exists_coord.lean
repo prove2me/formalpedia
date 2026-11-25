@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Absorb_exists_coord
 -- name    : GlobalTheory.DegCnt.Absorb.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:17:06.441698+00:00
 -- url     : https://prove2.me/theorems/bcb220da-d5f6-5efc-bd0e-2342d6459299

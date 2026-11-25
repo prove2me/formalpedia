@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_PairingClass_diag_mul
 -- name    : GlobalTheory.HL.PairingClass.diag_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:11:50.892042+00:00
 -- url     : https://prove2.me/theorems/635836b9-c0d5-5db1-8b35-ea5425a7a9f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_mulN_sub
 -- name    : Formalism.L2.Th1.B.Mul.mulN_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:55:18.505117+00:00
 -- url     : https://prove2.me/theorems/11dc8049-d7c5-5c5d-86e4-aaf7e3a9834c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_jdh_pd_star
 -- name    : Formalism.FourierDecayAlt.P.CutMP.jdh_pd_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:12:12.184522+00:00
 -- url     : https://prove2.me/theorems/ff25865f-1c67-59f9-bfe2-03158c8da026

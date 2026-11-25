@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycSeries_root_mem_inC
 -- name    : GlobalTheory.CycSeries.root_mem_inC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:24:07.135575+00:00
 -- url     : https://prove2.me/theorems/ed1019e6-f071-54ec-9723-f758803f9bb8

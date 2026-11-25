@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_unramified_top
 -- name    : Formalism.L2.Th1.D.unramified_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:09:27.979183+00:00
 -- url     : https://prove2.me/theorems/fe288375-6588-4a97-994e-90309d2a445a

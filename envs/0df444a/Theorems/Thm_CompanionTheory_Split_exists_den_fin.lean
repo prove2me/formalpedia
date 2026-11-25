@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_exists_den_fin
 -- name    : CompanionTheory.Split.exists_den_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:25:57.252964+00:00
 -- url     : https://prove2.me/theorems/a558aa51-19cd-4341-8cbf-21314add8b5e

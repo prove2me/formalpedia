@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sn_le_e_mul_tn
 -- name    : SNumbers.sn_le_e_mul_tn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:02:06.45405+00:00
 -- url     : https://prove2.me/theorems/8ae61bfd-af66-5f41-a136-b7080175831f

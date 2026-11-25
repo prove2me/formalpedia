@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_hasOrder_comm_iteratedLineDeriv
 -- name    : GroundTheory.Automorphic.Sobolev.hasOrder_comm_iteratedLineDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:59:35.901482+00:00
 -- url     : https://prove2.me/theorems/e4a7c58a-cc12-5cd6-8cc9-608d5d666964

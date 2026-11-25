@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_frBor_calculus
 -- name    : GlobalTheory.Frames.frBor_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:38:16.979466+00:00
 -- url     : https://prove2.me/theorems/0045c252-55a0-4ba1-ac4e-b9bec2fc8582

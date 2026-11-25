@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermOrthBasis_hf_sub_left
 -- name    : GlobalTheory.HermOrthBasis.hf_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:14:54.790585+00:00
 -- url     : https://prove2.me/theorems/17321a7e-6c32-4995-a443-55e1f0895acd

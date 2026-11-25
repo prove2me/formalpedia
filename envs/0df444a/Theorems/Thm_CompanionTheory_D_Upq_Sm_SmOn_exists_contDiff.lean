@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Sm_SmOn_exists_contDiff
 -- name    : CompanionTheory.D.Upq.Sm.SmOn.exists_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:01:29.674015+00:00
 -- url     : https://prove2.me/theorems/af187211-41cf-4655-b694-56bbb7e822f8

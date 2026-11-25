@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_image_mk_eq_preimage_of_le
 -- name    : GlobalTheory.HL.image_mk_eq_preimage_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:14:55.710636+00:00
 -- url     : https://prove2.me/theorems/6afa4e2d-3571-487f-af1c-0a1099a6a46b

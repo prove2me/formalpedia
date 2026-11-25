@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_integral_norm_cvec_sq
 -- name    : Formalism.FourierDecayAlt.P.PBK.integral_norm_cvec_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:22:43.196864+00:00
 -- url     : https://prove2.me/theorems/a1670465-9a18-48da-bf6a-bcaebf67bdcf

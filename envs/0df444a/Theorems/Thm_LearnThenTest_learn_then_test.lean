@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnThenTest_learn_then_test
 -- name    : LearnThenTest.learn_then_test
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T00:13:31.346945+00:00
 -- url     : https://prove2.me/theorems/7a77a5d0-79ee-456a-858e-f392cc85672f

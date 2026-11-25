@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_reject_singleton_eq_pointReject
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.reject_singleton_eq_pointReject
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:13:25.711646+00:00
 -- url     : https://prove2.me/theorems/35c8ad23-ca52-4e70-b640-e7253df406f6

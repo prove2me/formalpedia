@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_Ph_isOpen_annT
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.Ph.isOpen_annT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:29:04.580964+00:00
 -- url     : https://prove2.me/theorems/a61cb2d7-7216-4e2a-9567-cd663aec77c9

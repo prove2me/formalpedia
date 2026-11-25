@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_GalTorsConj_W_ZetaDoubling_derivWeierstrassP_ne_zero
 -- name    : PI.GalTorsConj.W.ZetaDoubling.derivWeierstrassP_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:48:57.455702+00:00
 -- url     : https://prove2.me/theorems/4f8f702f-9b51-40e5-adfb-bc95c2f559f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SegreFlagClosureModel_exists_flag_ne_zero_7e490c4f9b6d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SegreFlagClosureModel_exists_flag_ne_zero_7e490c4f9b6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:17:13.824158+00:00
 -- url     : https://prove2.me/theorems/e95e61a4-0d49-5651-b838-200d9cf574da

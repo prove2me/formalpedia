@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Defect_vE_pow_mul
 -- name    : GlobalTheory.HL.Defect.vE_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:21:20.375694+00:00
 -- url     : https://prove2.me/theorems/8ab96534-87d1-41cc-84df-e8ba106e6cff

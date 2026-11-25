@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_D2_IA_unif_ne_zero
 -- name    : Formalism.HermitianLattices.Ext.L3.D2.IA.unif_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:57:06.226516+00:00
 -- url     : https://prove2.me/theorems/df619e0d-3ec3-5520-acbb-921878725d3b

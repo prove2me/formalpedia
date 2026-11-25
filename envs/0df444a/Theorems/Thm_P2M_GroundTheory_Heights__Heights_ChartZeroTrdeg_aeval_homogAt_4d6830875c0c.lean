@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartZeroTrdeg_aeval_homogAt_4d6830875c0c
 -- name    : P2M_GroundTheory_Heights__Heights_ChartZeroTrdeg_aeval_homogAt_4d6830875c0c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:18:53.071054+00:00
 -- url     : https://prove2.me/theorems/f6174c8b-269c-4001-b49f-53bc87e322e1

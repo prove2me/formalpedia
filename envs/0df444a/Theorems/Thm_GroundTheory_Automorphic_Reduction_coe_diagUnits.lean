@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_coe_diagUnits
 -- name    : GroundTheory.Automorphic.Reduction.coe_diagUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:25:30.900739+00:00
 -- url     : https://prove2.me/theorems/2dd9f015-bb8e-4cc1-962b-08f59aedb2f2

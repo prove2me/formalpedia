@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_siegelWalfisz
 -- name    : Formalism.ZeroFreeDirichlet.siegelWalfisz
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:59:31.818989+00:00
 -- url     : https://prove2.me/theorems/74397764-1690-414e-9d32-cf4ab3be4ef3

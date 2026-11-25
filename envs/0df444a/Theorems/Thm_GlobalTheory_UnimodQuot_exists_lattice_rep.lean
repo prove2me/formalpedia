@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodQuot_exists_lattice_rep
 -- name    : GlobalTheory.UnimodQuot.exists_lattice_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:59.225923+00:00
 -- url     : https://prove2.me/theorems/5e7de134-af97-532d-8087-f6dede19f1f9

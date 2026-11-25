@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_Ph_circleMap_mem_annT
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.Ph.circleMap_mem_annT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:16:17.803366+00:00
 -- url     : https://prove2.me/theorems/8dc82daa-8d89-53c6-90a3-fd2044882b8c

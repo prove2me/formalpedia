@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_max_gelfandNumber_kolmogorovNumber_le_e_mul_hilbertNumber
 -- name    : SNumbers.max_gelfandNumber_kolmogorovNumber_le_e_mul_hilbertNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:21:21.379652+00:00
 -- url     : https://prove2.me/theorems/22f541f3-ba0d-4679-940a-13e5102e0004

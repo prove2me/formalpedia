@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitianLatticeDiscriminantOrder_ne_zero_unimodular
 -- name    : GlobalTheory.T.hermitianLatticeDiscriminantOrder_ne_zero_unimodular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:08:22.100197+00:00
 -- url     : https://prove2.me/theorems/0f028aa6-b8e0-5de3-a5a8-60f1d2ef360c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatDet_mem_locR_iff_le
 -- name    : GlobalTheory.MaxLatDet.mem_locR_iff_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:10:11.52506+00:00
 -- url     : https://prove2.me/theorems/8f300bcb-638d-4b0d-9a1c-c3597bff18c0

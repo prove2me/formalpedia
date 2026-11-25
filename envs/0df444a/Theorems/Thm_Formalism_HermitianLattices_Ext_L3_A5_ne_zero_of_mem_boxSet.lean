@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_ne_zero_of_mem_boxSet
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.ne_zero_of_mem_boxSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:26:20.518453+00:00
 -- url     : https://prove2.me/theorems/3d8e75fc-f246-4d3c-a703-24a146c10905

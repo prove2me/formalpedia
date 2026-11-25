@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_Ann_base_point_mem_half_plane
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.Ann.base_point_mem_half_plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:23:27.216697+00:00
 -- url     : https://prove2.me/theorems/9b818315-2ecc-4687-9718-e0fcacbd035b

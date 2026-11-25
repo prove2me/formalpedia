@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InnerRead_h_sum_left
 -- name    : GlobalTheory.InnerRead.h_sum_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:16:08.770536+00:00
 -- url     : https://prove2.me/theorems/3949901f-3d46-44b9-867c-f5536e556852

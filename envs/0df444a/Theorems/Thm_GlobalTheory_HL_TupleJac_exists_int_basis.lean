@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_TupleJac_exists_int_basis
 -- name    : GlobalTheory.HL.TupleJac.exists_int_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:30:05.459953+00:00
 -- url     : https://prove2.me/theorems/a6c24e50-3e7f-559d-9316-60a065e43d98

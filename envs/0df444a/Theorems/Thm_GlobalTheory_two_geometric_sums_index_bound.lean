@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_two_geometric_sums_index_bound
 -- name    : GlobalTheory.two_geometric_sums_index_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:14:55.770287+00:00
 -- url     : https://prove2.me/theorems/db6d903b-7586-57c6-ac0b-4b707cc46860

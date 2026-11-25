@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_sum_paleyPlusProduct
 -- name    : PaleyWeil.sum_paleyPlusProduct
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:19:30.11164+00:00
 -- url     : https://prove2.me/theorems/4df002da-02da-4888-8163-32f04a35909a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_isChar_psi_rootSum_of_regular
 -- name    : GlobalTheory.CuspGL.isChar_psi_rootSum_of_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:43:44.021345+00:00
 -- url     : https://prove2.me/theorems/b2916f42-9cf2-4385-9a9f-3c1d7d3cdfad

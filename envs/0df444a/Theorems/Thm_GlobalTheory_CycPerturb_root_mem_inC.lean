@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_root_mem_inC
 -- name    : GlobalTheory.CycPerturb.root_mem_inC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:24:32.471807+00:00
 -- url     : https://prove2.me/theorems/deb9bf99-4db2-4fab-bd8c-5920e4b0124e

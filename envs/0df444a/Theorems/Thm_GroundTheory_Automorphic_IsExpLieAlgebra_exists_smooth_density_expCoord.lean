@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_exists_smooth_density_expCoord
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.exists_smooth_density_expCoord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:11:35.14033+00:00
 -- url     : https://prove2.me/theorems/a5605ddd-814e-486f-b716-a42b78f4f24d

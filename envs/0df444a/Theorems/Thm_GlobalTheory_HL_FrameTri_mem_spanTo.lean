@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameTri_mem_spanTo
 -- name    : GlobalTheory.HL.FrameTri.mem_spanTo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:12:14.415549+00:00
 -- url     : https://prove2.me/theorems/acc78d3b-d863-5334-bd13-83d99ded1d4b

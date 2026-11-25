@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DatumStab_smul_eq_iff
 -- name    : GlobalTheory.HL.DatumStab.smul_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:09:09.574991+00:00
 -- url     : https://prove2.me/theorems/ccbc3b8e-63ac-4e7c-94b6-749466c656af

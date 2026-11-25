@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_add_negIndex
 -- name    : GlobalTheory.Inertia.posIndex_add_negIndex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:33:57.314467+00:00
 -- url     : https://prove2.me/theorems/2965525b-0fb8-484b-8080-0d73883c18b3

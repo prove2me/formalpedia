@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_oneParam_diff
 -- name    : Formalism.FourierDecayAlt.P.Qx8.oneParam_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:30:10.60553+00:00
 -- url     : https://prove2.me/theorems/147eb94f-88c6-436b-9921-be49c48d0105

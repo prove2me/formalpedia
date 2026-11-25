@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ordGE_finsupp_prod
 -- name    : Formalism.L2.FormalSeriesBounds.ordGE_finsupp_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:00:07.092084+00:00
 -- url     : https://prove2.me/theorems/f96e1c32-a671-597e-a60b-7d8ebd7494b3

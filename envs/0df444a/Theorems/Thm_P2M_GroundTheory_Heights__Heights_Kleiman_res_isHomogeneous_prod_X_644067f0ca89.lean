@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_res_isHomogeneous_prod_X_644067f0ca89
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_res_isHomogeneous_prod_X_644067f0ca89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:24:24.153801+00:00
 -- url     : https://prove2.me/theorems/7bea26fb-a845-479a-9de4-c40b8dd8fdb8

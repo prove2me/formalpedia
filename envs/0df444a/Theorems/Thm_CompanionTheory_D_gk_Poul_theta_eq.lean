@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_theta_eq
 -- name    : CompanionTheory.D.gk.Poul.theta_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:37:43.220846+00:00
 -- url     : https://prove2.me/theorems/f00d3ff3-ca9d-4e9b-a22a-61c780c0c0b1

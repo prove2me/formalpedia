@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CloseTuples_rk_mem
 -- name    : GlobalTheory.HL.CloseTuples.rk_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:16:42.862167+00:00
 -- url     : https://prove2.me/theorems/90b2c3df-cdaa-55f3-bd30-ceba090ed543

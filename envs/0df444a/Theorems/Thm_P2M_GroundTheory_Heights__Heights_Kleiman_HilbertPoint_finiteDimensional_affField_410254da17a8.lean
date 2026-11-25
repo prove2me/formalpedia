@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_finiteDimensional_affField_410254da17a8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_HilbertPoint_finiteDimensional_affField_410254da17a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:22:01.656697+00:00
 -- url     : https://prove2.me/theorems/85280ab5-43dc-5f0d-b084-2537565e8dbf

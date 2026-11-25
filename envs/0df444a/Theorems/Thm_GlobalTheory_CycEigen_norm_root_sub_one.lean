@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_norm_root_sub_one
 -- name    : GlobalTheory.CycEigen.norm_root_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:24:08.817797+00:00
 -- url     : https://prove2.me/theorems/dd0332a6-83cb-4004-b275-5490b11a3a94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_lowerIndex_eq_top_iff
 -- name    : GroundTheory.LocalField.lowerIndex_eq_top_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:27:07.097784+00:00
 -- url     : https://prove2.me/theorems/952e324b-581f-4f4c-a079-7f79eea05047

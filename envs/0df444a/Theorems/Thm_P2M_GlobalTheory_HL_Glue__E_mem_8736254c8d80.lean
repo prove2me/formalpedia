@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_Glue__E_mem_8736254c8d80
 -- name    : P2M_GlobalTheory_HL_Glue__E_mem_8736254c8d80
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:17:57.785157+00:00
 -- url     : https://prove2.me/theorems/46c20ac7-3e1c-44cd-86c4-77e397b328e3

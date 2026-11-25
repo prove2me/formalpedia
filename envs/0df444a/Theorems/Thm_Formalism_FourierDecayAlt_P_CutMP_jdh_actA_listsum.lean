@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_jdh_actA_listsum
 -- name    : Formalism.FourierDecayAlt.P.CutMP.jdh_actA_listsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:07:28.558943+00:00
 -- url     : https://prove2.me/theorems/52f665cb-3c80-53b5-bc4b-6627ca68fcd7

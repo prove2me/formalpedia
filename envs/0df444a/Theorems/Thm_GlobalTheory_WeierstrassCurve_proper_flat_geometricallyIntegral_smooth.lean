@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_proper_flat_geometricallyIntegral_smooth
 -- name    : GlobalTheory.WeierstrassCurve.proper_flat_geometricallyIntegral_smooth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:21:56.673738+00:00
 -- url     : https://prove2.me/theorems/60323512-48dd-5206-a5db-833ea6edf687

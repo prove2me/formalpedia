@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isIntegral_modularJ_of_ringOfIntegers
 -- name    : GlobalTheory.isIntegral_modularJ_of_ringOfIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:14:44.342622+00:00
 -- url     : https://prove2.me/theorems/bc228839-ddbc-4715-a2df-da32c3179eb1

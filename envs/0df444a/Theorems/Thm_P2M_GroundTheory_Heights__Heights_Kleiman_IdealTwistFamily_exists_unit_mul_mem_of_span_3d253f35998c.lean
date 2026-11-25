@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_IdealTwistFamily_exists_unit_mul_mem_of_span_3d253f35998c
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_IdealTwistFamily_exists_unit_mul_mem_of_span_3d253f35998c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:16:56.115978+00:00
 -- url     : https://prove2.me/theorems/5bb55cd3-a91e-4bdc-8f6b-731a4d790f1a

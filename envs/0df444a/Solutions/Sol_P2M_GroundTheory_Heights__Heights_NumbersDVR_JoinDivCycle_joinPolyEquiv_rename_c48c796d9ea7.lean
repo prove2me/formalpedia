@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinDivCycle_joinPolyEquiv_rename_c48c796d9ea7
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T06:34:24.293684+00:00
+-- url     : https://prove2.me/submissions/dbae1902-b14c-47bb-ba2c-8ca340b8a096
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_StatementsJoinDivCycle
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PPolynomialLocalizedLength
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_OrbitLimits_PExistsUniqueRelabel
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_DiscreteValuationNumbers_PJoinDivCycle
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinDivCycle_joinPolyEquiv_comp_rename_dddcabe485d5
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.NumbersDVR
+open MvPolynomial
+open IndefiniteRowSideFullHecke.NumbersDVR.Bundles (ptIdx liftVar)
+noncomputable section
+open GroundTheory.Heights₂.Heights.NumbersDVR.JoinDivCycle
+variable {R : Type} [CommRing R] {K : Type} [Fintype K] {ι : K → Type} [∀ k, Fintype (ι k)]
+local notation "ψ" => joinPolyEquiv (R := R) (ι := ι)
+local notation "ε" => rename (R := R) (liftVar (ι := ι) ptIdx)
+namespace GroundTheory.Heights₂.Heights.NumbersDVR.JoinDivCycle
+theorem _root_.solution (x : MRing ι R) : joinPolyEquiv (ε x) = Polynomial.C x :=
+  RingHom.congr_fun joinPolyEquiv_comp_rename x
+end GroundTheory.Heights₂.Heights.NumbersDVR.JoinDivCycle

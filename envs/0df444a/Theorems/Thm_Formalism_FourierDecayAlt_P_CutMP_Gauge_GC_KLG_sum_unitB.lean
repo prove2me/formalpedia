@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutMP_Gauge_GC_KLG_sum_unitB
 -- name    : Formalism.FourierDecayAlt.P.CutMP.Gauge.GC.KLG.sum_unitB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:25:47.034062+00:00
 -- url     : https://prove2.me/theorems/0459dd0d-1d24-522e-b0cc-8ff4da0c226d

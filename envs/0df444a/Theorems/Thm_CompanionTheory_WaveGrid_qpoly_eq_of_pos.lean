@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_qpoly_eq_of_pos
 -- name    : CompanionTheory.WaveGrid.qpoly_eq_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:28:16.063882+00:00
 -- url     : https://prove2.me/theorems/d3c9397a-4ab6-5c03-9ae2-6d3e20140a68

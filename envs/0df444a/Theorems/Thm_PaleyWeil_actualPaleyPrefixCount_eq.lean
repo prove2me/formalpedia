@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaleyWeil_actualPaleyPrefixCount_eq
 -- name    : PaleyWeil.actualPaleyPrefixCount_eq
--- status  : Open
+-- status  : Proved
 -- author  : @yousofy
 -- created : 2026-11-24T15:19:45.628849+00:00
 -- url     : https://prove2.me/theorems/54869df8-43f7-4141-96ac-829380962ff2

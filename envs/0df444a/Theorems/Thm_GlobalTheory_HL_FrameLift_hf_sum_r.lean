@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameLift_hf_sum_r
 -- name    : GlobalTheory.HL.FrameLift.hf_sum_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:17:27.989958+00:00
 -- url     : https://prove2.me/theorems/9bae7ead-db57-4da2-90b9-648cf47fe4a1

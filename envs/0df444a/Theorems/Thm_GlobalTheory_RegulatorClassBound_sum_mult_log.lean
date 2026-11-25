@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegulatorClassBound_sum_mult_log
 -- name    : GlobalTheory.RegulatorClassBound.sum_mult_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:15:10.576803+00:00
 -- url     : https://prove2.me/theorems/9d59e71d-8962-489f-8ce6-26a737d954d9

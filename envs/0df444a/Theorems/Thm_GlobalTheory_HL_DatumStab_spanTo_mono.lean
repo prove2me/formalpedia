@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_DatumStab_spanTo_mono
 -- name    : GlobalTheory.HL.DatumStab.spanTo_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:14:29.069958+00:00
 -- url     : https://prove2.me/theorems/2452f636-7437-45fa-a0f4-3a7be5ab6eec

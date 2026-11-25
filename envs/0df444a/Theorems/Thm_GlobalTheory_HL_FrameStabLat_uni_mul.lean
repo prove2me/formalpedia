@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_FrameStabLat_uni_mul
 -- name    : GlobalTheory.HL.FrameStabLat.uni_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:17:52.593461+00:00
 -- url     : https://prove2.me/theorems/16fd7f0b-0dea-4d96-8aee-531669135a45

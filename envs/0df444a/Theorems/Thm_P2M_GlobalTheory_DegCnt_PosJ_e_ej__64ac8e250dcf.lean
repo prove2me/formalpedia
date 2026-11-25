@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DegCnt_PosJ_e_ej__64ac8e250dcf
 -- name    : P2M_GlobalTheory_DegCnt_PosJ_e_ej__64ac8e250dcf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:53:45.281225+00:00
 -- url     : https://prove2.me/theorems/149927be-7799-4c8a-bac9-fe45c6cbd0e3

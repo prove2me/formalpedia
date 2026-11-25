@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_Defect_det_mem
 -- name    : GlobalTheory.HL.Defect.det_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:20:43.423224+00:00
 -- url     : https://prove2.me/theorems/0a9de8a4-8d82-4fd0-bf93-71df0a605ff9

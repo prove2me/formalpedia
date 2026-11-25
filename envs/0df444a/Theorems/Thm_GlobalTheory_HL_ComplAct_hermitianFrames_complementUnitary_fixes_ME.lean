@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_ComplAct_hermitianFrames_complementUnitary_fixes_ME
 -- name    : GlobalTheory.HL.ComplAct.hermitianFrames_complementUnitary_fixes_ME
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:23:32.64805+00:00
 -- url     : https://prove2.me/theorems/047c6e2a-31b1-4f8e-a0bf-a6a4a81bed07

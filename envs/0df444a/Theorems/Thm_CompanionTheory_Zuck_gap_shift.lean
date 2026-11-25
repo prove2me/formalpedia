@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Zuck_gap_shift
 -- name    : CompanionTheory.Zuck.gap_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:29:41.733393+00:00
 -- url     : https://prove2.me/theorems/699e59dc-0f33-5358-ada4-c5ea19191c65

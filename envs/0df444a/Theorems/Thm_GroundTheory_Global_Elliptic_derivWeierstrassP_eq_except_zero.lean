@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_derivWeierstrassP_eq_except_zero
 -- name    : GroundTheory.Global.Elliptic.derivWeierstrassP_eq_except_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:14:50.335985+00:00
 -- url     : https://prove2.me/theorems/458f2736-36bb-5117-91bf-34e8b11097f1

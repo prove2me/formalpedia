@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongGrp_intM_add
 -- name    : GlobalTheory.CongGrp.intM_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:20:52.203816+00:00
 -- url     : https://prove2.me/theorems/e94349db-877c-4eb0-880e-b8a743f17293

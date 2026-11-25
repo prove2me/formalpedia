@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycPerturb_norm_root_sub_one
 -- name    : GlobalTheory.CycPerturb.norm_root_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:24:20.265795+00:00
 -- url     : https://prove2.me/theorems/e284e377-4a99-4976-b3f1-f595a54bb205

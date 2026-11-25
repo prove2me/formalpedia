@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegAsm_DatMove_push_X
 -- name    : GlobalTheory.DegAsm.DatMove.push_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:09:41.579005+00:00
 -- url     : https://prove2.me/theorems/35691a3c-d2ec-5acd-a343-ec6cd82efc9e

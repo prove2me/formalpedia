@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NFGeom_II_le_uPerp
 -- name    : GlobalTheory.DegCnt.NFGeom.II_le_uPerp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:44:45.635824+00:00
 -- url     : https://prove2.me/theorems/ff0bcac1-2a19-4b5a-892e-e0352dc1733d

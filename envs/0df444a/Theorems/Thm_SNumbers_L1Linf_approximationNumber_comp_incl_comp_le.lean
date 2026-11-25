@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_approximationNumber_comp_incl_comp_le
 -- name    : SNumbers.L1Linf.approximationNumber_comp_incl_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T05:16:09.224834+00:00
 -- url     : https://prove2.me/theorems/b4ee4343-709d-53a4-8933-494ce07f6871

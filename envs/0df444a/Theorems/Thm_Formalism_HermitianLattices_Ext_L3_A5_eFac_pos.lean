@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_A5_eFac_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.A5.eFac_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:12:43.033873+00:00
 -- url     : https://prove2.me/theorems/f0bb1cf0-dac3-5ed2-9a34-f86877756cdf

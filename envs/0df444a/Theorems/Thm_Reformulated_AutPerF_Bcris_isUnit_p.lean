@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Reformulated_AutPerF_Bcris_isUnit_p
 -- name    : Reformulated.AutPerF.Bcris.isUnit_p
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:21:26.657189+00:00
 -- url     : https://prove2.me/theorems/cba03ee7-93c1-4d77-b1af-a77ccd8f232a

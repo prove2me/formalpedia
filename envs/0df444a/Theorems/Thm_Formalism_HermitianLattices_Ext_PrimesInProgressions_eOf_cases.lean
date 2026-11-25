@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_eOf_cases
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.eOf_cases
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T06:29:33.984604+00:00
 -- url     : https://prove2.me/theorems/6c6d80a7-f949-4451-b08c-38522fa1ba65

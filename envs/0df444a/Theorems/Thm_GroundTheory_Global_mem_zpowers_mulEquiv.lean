@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_zpowers_mulEquiv
 -- name    : GroundTheory.Global.mem_zpowers_mulEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:27:04.674956+00:00
 -- url     : https://prove2.me/theorems/712841f4-4f5b-5fa8-a476-e0246051b498

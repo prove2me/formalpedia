@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_admissible_list_of_word
 -- name    : Formalism.FourierDecayAlt.P.PBD.admissible_list_of_word
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:56:29.755275+00:00
 -- url     : https://prove2.me/theorems/53617133-de37-5def-a49b-84befdfd33a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModIdent_isotropicSpan_le_jointSpan_left
 -- name    : GlobalTheory.ModIdent.isotropicSpan_le_jointSpan_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:12:21.910708+00:00
 -- url     : https://prove2.me/theorems/10394920-8fb4-4877-86c1-22b139c168c8

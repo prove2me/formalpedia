@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_muRoot_eq_one_iff
 -- name    : GlobalTheory.PDivGroup.muRoot_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:54:14.881873+00:00
 -- url     : https://prove2.me/theorems/3af73795-161b-4e52-b9ed-2161acc4184c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CutBP_LimitNormalForms_sgs_gv
 -- name    : Formalism.FourierDecayAlt.P.CutBP.LimitNormalForms.sgs_gv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:14:31.276617+00:00
 -- url     : https://prove2.me/theorems/3fb6d7ff-b7e5-5843-a0be-75e1c77f2fcf

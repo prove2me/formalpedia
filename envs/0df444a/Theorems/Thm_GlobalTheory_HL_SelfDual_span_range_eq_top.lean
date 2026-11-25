@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_SelfDual_span_range_eq_top
 -- name    : GlobalTheory.HL.SelfDual.span_range_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:13:28.59191+00:00
 -- url     : https://prove2.me/theorems/01daf163-291e-58e6-a297-d8e516670f58

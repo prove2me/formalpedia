@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_pullSys_self_aa64784590c1
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_pullSys_self_aa64784590c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:15:23.635119+00:00
 -- url     : https://prove2.me/theorems/9dc659b9-2464-5fc5-b109-0a6e0f4bfdf3

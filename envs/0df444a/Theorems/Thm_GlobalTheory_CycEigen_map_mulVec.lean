@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycEigen_map_mulVec
 -- name    : GlobalTheory.CycEigen.map_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:23:19.849802+00:00
 -- url     : https://prove2.me/theorems/8335464f-9a40-5396-9d34-e9be98832f11

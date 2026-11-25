@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_exact_app_iff_surjective_lift
 -- name    : GlobalTheory.QCoh.exact_app_iff_surjective_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:17:25.897737+00:00
 -- url     : https://prove2.me/theorems/b5b0d14a-a82e-46b3-9e2a-53cc6158f542

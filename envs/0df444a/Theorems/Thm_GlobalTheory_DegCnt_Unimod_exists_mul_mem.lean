@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_Unimod_exists_mul_mem
 -- name    : GlobalTheory.DegCnt.Unimod.exists_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:45:12.942446+00:00
 -- url     : https://prove2.me/theorems/5e84d266-4892-514d-a556-b6cb2d75efcb

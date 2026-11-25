@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_multV_congr
 -- name    : Formalism.MainNotions.N.K.Norm.multV_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:24:34.769561+00:00
 -- url     : https://prove2.me/theorems/a0f54549-5c37-418c-bfef-69bcec5d2807

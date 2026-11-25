@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBL_kc_scal
 -- name    : Formalism.FourierDecayAlt.P.PBL.kc_scal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:52:35.742972+00:00
 -- url     : https://prove2.me/theorems/e1b93ea9-2004-52e9-853c-58b74c5b3824

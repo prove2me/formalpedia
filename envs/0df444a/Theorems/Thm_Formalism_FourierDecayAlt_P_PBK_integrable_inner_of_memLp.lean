@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_integrable_inner_of_memLp
 -- name    : Formalism.FourierDecayAlt.P.PBK.integrable_inner_of_memLp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T06:01:15.429903+00:00
 -- url     : https://prove2.me/theorems/6356cd7f-3ce3-4b58-9059-cc5755ab7669
