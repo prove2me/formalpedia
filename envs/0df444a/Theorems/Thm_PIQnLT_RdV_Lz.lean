@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_RdV_Lz
 -- name    : PIQnLT.RdV_Lz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:56.57809+00:00
 -- url     : https://prove2.me/theorems/fa4b64f9-3244-45d6-a67a-88d12221a936

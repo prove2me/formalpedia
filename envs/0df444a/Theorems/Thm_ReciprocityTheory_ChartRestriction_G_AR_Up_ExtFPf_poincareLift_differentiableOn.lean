@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExtFPf_poincareLift_differentiableOn
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExtFPf.poincareLift_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:58:57.272982+00:00
 -- url     : https://prove2.me/theorems/c009129e-d42b-568c-8f5c-58be7e647ee9

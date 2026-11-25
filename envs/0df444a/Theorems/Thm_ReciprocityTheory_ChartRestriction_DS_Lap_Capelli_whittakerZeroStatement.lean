@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_whittakerZeroStatement
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.whittakerZeroStatement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:47.723598+00:00
 -- url     : https://prove2.me/theorems/c6963fac-8d9a-4d03-b13d-5ae346f9825e

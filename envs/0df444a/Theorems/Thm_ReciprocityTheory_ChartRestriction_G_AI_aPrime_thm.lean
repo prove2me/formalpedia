@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_aPrime_thm
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.aPrime_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:56:28.712442+00:00
 -- url     : https://prove2.me/theorems/9a772b77-8dcc-4f81-8557-cecf389995b0

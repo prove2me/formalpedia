@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_sign_prod
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.sign_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:28.774802+00:00
 -- url     : https://prove2.me/theorems/f4661a68-0bee-47c0-8169-891996ed77b3

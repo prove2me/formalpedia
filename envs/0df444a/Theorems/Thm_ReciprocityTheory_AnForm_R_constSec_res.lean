@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_constSec_res
 -- name    : ReciprocityTheory.AnForm.R.constSec_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:36:59.037994+00:00
 -- url     : https://prove2.me/theorems/c1a52b0a-1cfe-5947-b17b-fb1eec707b7f

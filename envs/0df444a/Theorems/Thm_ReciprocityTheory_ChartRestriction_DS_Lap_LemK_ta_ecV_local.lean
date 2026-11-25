@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_ta_ecV_local
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.ta_ecV_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:03:17.049559+00:00
 -- url     : https://prove2.me/theorems/abf56c65-e1e9-4d46-907d-a2575975bca8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_stepChar_of
 -- name    : PositivityTheory.Rg.Cz.stepChar_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:54:51.414505+00:00
 -- url     : https://prove2.me/theorems/6ab5e878-6f21-4491-b8f4-cf76dd0dcda0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_bAct_isKUnitary
 -- name    : ReciprocityTheory.ChartRestriction.DS.bAct_isKUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:44:57.008803+00:00
 -- url     : https://prove2.me/theorems/e1f803a3-56b2-430a-979c-aabfc35065c6

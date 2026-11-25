@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_sum_levelExponents_shifted
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.sum_levelExponents_shifted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:53:14.412632+00:00
 -- url     : https://prove2.me/theorems/a981a868-6be8-5a3e-bd35-a5388cd9510c

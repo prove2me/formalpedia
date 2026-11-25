@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PDich_map_Th_Fe
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PDich.map_Th_Fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:05.548684+00:00
 -- url     : https://prove2.me/theorems/5f668bad-5e8d-4025-b15e-105010f484b3

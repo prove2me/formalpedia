@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_representing_monomial_mem_first_family
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.representing_monomial_mem_first_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:58:14.134683+00:00
 -- url     : https://prove2.me/theorems/d4d4c932-85e8-50c1-8d8d-2eb640c22c65

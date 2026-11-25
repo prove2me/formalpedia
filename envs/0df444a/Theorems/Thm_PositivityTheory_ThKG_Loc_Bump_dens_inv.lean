@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_dens_inv
 -- name    : PositivityTheory.ThKG.Loc.Bump.dens_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:04:24.223293+00:00
 -- url     : https://prove2.me/theorems/bb84d29d-4556-4931-b337-a3145cff65f6

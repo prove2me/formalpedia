@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_subMeanPolydisc_thm
 -- name    : ReciprocityTheory.AnForm.A.subMeanPolydisc_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:44.924995+00:00
 -- url     : https://prove2.me/theorems/13e02e51-c24b-4ff8-b1fe-fc7ca222db77

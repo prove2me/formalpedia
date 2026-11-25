@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_valHom_spec
 -- name    : ReciprocityTheory.AnForm.R.valHom_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:46:52.164849+00:00
 -- url     : https://prove2.me/theorems/a023b4d4-7867-4c18-ba9b-6857bc30e91a

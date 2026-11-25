@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_ennreal_le_one_of_pow_le
 -- name    : QPK.ennreal_le_one_of_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:17.027595+00:00
 -- url     : https://prove2.me/theorems/c9bb00a0-80f9-4eac-86d6-d47adefb3df0

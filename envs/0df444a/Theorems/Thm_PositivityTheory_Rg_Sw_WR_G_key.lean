@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_key
 -- name    : PositivityTheory.Rg.Sw.WR.G.key
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:25:20.4618+00:00
 -- url     : https://prove2.me/theorems/12876ed0-9ae2-49ed-8ea5-953757d462c5

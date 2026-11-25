@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_ringKrullDim_mvPoly_fin_int
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.ringKrullDim_mvPoly_fin_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:09:56.449261+00:00
 -- url     : https://prove2.me/theorems/fd099c8a-b576-5cfb-9dd2-cc42471977f1

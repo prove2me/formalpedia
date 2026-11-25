@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefLam_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefLam_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:50:10.957932+00:00
 -- url     : https://prove2.me/theorems/695af79c-c485-4ee2-b637-b49d4b6c37e4

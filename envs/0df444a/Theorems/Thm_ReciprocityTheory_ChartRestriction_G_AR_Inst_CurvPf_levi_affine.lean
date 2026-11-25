@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_levi_affine
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.levi_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:11:58.029371+00:00
 -- url     : https://prove2.me/theorems/77311eb6-6e73-5d92-8ade-fa41aed5e2db

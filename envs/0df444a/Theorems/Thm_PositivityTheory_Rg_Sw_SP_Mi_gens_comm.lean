@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_Mi_gens_comm
 -- name    : PositivityTheory.Rg.Sw.SP.Mi.gens_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:17:18.142887+00:00
 -- url     : https://prove2.me/theorems/9e2ad33c-209b-47b6-9894-1e8c77bb781c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_contr_X_mul
 -- name    : PositivityTheory.Rg.Sw.LC.contr_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:58:02.725906+00:00
 -- url     : https://prove2.me/theorems/ccc353b8-e168-581e-9e0d-432ba9f87152

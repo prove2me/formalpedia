@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_lie_relation_diag_b_lower
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.lie_relation_diag_b_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:45:09.422177+00:00
 -- url     : https://prove2.me/theorems/34230244-36c5-4d67-a406-e69f66a6b810

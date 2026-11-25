@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KLI_integrable_gaussian_moment
 -- name    : PositivityTheory.SiegelWeilFormula.KLI.integrable_gaussian_moment
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:10.386516+00:00
 -- url     : https://prove2.me/theorems/f1677afd-c868-4250-8c44-e7af03e47687

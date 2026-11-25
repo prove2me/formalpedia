@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_IntegralModuleBases_norm_fB_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.IntegralModuleBases.norm_fB_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:56:40.8393+00:00
 -- url     : https://prove2.me/theorems/092e49bd-58e6-440b-9934-44c446708bfa

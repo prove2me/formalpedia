@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_equivariant_divisibility
 -- name    : PI.WGL.equivariant_divisibility
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:45:00.546354+00:00
 -- url     : https://prove2.me/theorems/ed897efb-16e5-5ddf-ab47-9fb55052578f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_pm_mdisc_gram_sum_nonneg
 -- name    : ReciprocityTheory.AnForm.A.pm_mdisc_gram_sum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:19:27.551079+00:00
 -- url     : https://prove2.me/theorems/977c5e38-b7a1-4379-b362-48e791a646c2

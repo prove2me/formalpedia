@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_coef_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.coef_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:56:45.961864+00:00
 -- url     : https://prove2.me/theorems/eab4b415-f8c6-56cb-9c4e-5046215fbd0b

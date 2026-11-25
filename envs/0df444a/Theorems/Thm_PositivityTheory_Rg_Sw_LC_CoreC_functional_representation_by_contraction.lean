@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_functional_representation_by_contraction
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.functional_representation_by_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:57:21.358205+00:00
 -- url     : https://prove2.me/theorems/5648d526-440a-463c-802d-9ff8689dda90

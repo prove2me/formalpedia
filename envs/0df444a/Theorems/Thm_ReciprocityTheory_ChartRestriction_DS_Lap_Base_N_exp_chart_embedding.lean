@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_exp_chart_embedding
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.exp_chart_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:02:08.1046+00:00
 -- url     : https://prove2.me/theorems/6e53feeb-8dd0-48fd-802d-e5a603f4017d

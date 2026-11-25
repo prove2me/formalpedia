@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_psi_mem_sq
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.psi_mem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:35:24.167078+00:00
 -- url     : https://prove2.me/theorems/8e0df695-22d1-5a61-b9e4-1544a5b8e969

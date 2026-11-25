@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RPA_Qm_integral
 -- name    : PI.VolStabW.RPA.Qm_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:38:14.063948+00:00
 -- url     : https://prove2.me/theorems/07c700b4-a3a9-43af-8c0d-3e4a2ef26002

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_box_lattice_point_bound
 -- name    : PI.UnitaryGroupMassFormula.LCG.box_lattice_point_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:40:49.88202+00:00
 -- url     : https://prove2.me/theorems/7c2eb814-56f8-425f-bb09-3de0e23ecf3a

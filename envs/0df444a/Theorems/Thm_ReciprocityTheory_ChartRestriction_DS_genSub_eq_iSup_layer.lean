@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_genSub_eq_iSup_layer
 -- name    : ReciprocityTheory.ChartRestriction.DS.genSub_eq_iSup_layer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:57:11.244154+00:00
 -- url     : https://prove2.me/theorems/b0cc1d83-2610-4dcb-bf5a-9899efcc2b05

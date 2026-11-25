@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_kirr_eq_of_ps
 -- name    : ReciprocityTheory.ChartRestriction.DS.kirr_eq_of_ps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:52:00.427314+00:00
 -- url     : https://prove2.me/theorems/2fcc6c3e-769b-4630-b284-634398a549e3

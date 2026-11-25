@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_conj_of_frames
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.conj_of_frames
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:08.258575+00:00
 -- url     : https://prove2.me/theorems/e1486938-b822-419d-ad17-46a78f7c71dd

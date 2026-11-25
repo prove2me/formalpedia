@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_repr_centralizer_eq_zero
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.repr_centralizer_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:02:58.725853+00:00
 -- url     : https://prove2.me/theorems/2a47eb9c-3c5c-54d0-a7d2-7e79effdf202

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_gp_closure_singleton
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.gp_closure_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:33:02.743337+00:00
 -- url     : https://prove2.me/theorems/cd724124-ab23-4a20-86b0-c7095c147f70

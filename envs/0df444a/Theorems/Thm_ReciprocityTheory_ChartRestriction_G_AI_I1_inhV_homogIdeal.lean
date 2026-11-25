@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_inhV_homogIdeal
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.inhV_homogIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:54:44.187788+00:00
 -- url     : https://prove2.me/theorems/59c24e4e-b4bf-4363-9e16-a42d187d442c

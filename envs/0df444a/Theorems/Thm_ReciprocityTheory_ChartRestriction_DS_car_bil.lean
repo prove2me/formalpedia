@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_car_bil
 -- name    : ReciprocityTheory.ChartRestriction.DS.car_bil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:51:06.162224+00:00
 -- url     : https://prove2.me/theorems/ffbf066c-5bf2-54f2-95e9-64a690f5daa9

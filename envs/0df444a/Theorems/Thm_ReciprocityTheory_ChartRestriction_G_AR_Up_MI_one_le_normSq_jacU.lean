@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_one_le_normSq_jacU
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.one_le_normSq_jacU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:59:36.197371+00:00
 -- url     : https://prove2.me/theorems/7915d23d-f446-5c15-8c1a-a90d57753e4e

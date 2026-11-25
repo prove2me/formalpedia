@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_norm_zcoeff_incl_le_one
 -- name    : GroundTheory.PAdicHodge.WittTilt.norm_zcoeff_incl_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:47:29.10923+00:00
 -- url     : https://prove2.me/theorems/db39594e-bbb7-4ae3-b3b6-46e86e81bc2c

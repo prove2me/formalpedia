@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_chartTheta_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.chartTheta_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:55:08.904533+00:00
 -- url     : https://prove2.me/theorems/36599533-3c17-41b8-b576-3891f95b7fb6

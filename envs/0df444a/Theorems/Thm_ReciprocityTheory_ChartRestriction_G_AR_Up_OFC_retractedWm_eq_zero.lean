@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OFC_retractedWm_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OFC.retractedWm_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:08:32.053796+00:00
 -- url     : https://prove2.me/theorems/c40785bb-744c-5546-b1f3-d6a766735bca

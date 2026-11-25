@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_chain_of
 -- name    : PositivityTheory.Rg.Cz.chain_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:49:37.489393+00:00
 -- url     : https://prove2.me/theorems/e54444ee-1aeb-4993-92b8-9c5e6e6ec7d2

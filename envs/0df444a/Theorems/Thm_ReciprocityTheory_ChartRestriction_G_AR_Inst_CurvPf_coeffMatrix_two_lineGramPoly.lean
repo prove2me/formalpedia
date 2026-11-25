@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_coeffMatrix_two_lineGramPoly
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.coeffMatrix_two_lineGramPoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:55:26.662145+00:00
 -- url     : https://prove2.me/theorems/2293c296-f2fa-42a5-a621-1aec91526981

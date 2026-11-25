@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_HE_log_gap_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.HE.log_gap_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:04:04.404437+00:00
 -- url     : https://prove2.me/theorems/671a2bff-93ca-55b3-b7e3-bf8abfbcf5a6

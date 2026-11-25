@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_noetherNormalization_primitive
 -- name    : GlobalTheory.noetherNormalization_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:09.162353+00:00
 -- url     : https://prove2.me/theorems/41f2af78-facf-4c47-9bf1-869e76941313

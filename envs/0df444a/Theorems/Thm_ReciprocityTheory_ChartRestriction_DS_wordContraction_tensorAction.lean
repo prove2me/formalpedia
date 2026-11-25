@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_wordContraction_tensorAction
 -- name    : ReciprocityTheory.ChartRestriction.DS.wordContraction_tensorAction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:13:18.911061+00:00
 -- url     : https://prove2.me/theorems/73d64dce-e053-4feb-a28c-6f6495417b35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_pieri_sum_finset_neg
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.pieri_sum_finset_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:40:28.600059+00:00
 -- url     : https://prove2.me/theorems/3d087641-55ff-5e7b-89a1-e2a5a4050eb0

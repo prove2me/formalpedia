@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFPB_line_poly
 -- name    : PositivityTheory.SiegelWeilFormula.KFPB.line_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:03:19.566086+00:00
 -- url     : https://prove2.me/theorems/9dcefbec-3414-5d4a-93a0-219fbeac9ec1

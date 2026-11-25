@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_fderiv_FP_apply
 -- name    : PositivityTheory.Rg.Sw.WR.D.fderiv_FP_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:19:28.420904+00:00
 -- url     : https://prove2.me/theorems/ba232934-85cd-426b-a2b5-a0b4c61811e0

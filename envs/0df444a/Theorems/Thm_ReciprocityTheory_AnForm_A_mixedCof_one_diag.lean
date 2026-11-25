@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mixedCof_one_diag
 -- name    : ReciprocityTheory.AnForm.A.mixedCof_one_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:21:09.674213+00:00
 -- url     : https://prove2.me/theorems/901486f2-7e47-5868-8ffe-c81838d7b5b2

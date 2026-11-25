@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_contDiff_detV
 -- name    : PositivityTheory.Rg.Sw.WR.B.contDiff_detV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:14.464708+00:00
 -- url     : https://prove2.me/theorems/9d5ce81f-9c0c-4c23-901a-397c65e592bd

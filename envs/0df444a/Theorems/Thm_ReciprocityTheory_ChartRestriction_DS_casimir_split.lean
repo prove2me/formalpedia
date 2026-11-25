@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_casimir_split
 -- name    : ReciprocityTheory.ChartRestriction.DS.casimir_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:51:38.316273+00:00
 -- url     : https://prove2.me/theorems/003cb346-aa27-5b2a-8f9b-0dfc2aadc5da

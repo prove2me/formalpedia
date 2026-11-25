@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_aeval_linSub
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.aeval_linSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:02:23.929956+00:00
 -- url     : https://prove2.me/theorems/d3461fe7-24c3-42f9-a08b-d48bc4375d3e

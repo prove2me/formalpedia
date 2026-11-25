@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_piu_tendsto
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.piu_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:44.807807+00:00
 -- url     : https://prove2.me/theorems/acf596e6-dd1d-5e63-91ff-8076f625c20f

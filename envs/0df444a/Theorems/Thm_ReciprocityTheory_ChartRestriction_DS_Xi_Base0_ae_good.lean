@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_ae_good
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.ae_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:46:10.881709+00:00
 -- url     : https://prove2.me/theorems/6fdadebd-fb06-4d97-9349-a4d229a97549

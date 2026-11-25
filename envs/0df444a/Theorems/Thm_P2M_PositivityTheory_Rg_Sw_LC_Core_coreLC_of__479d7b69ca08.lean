@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_LC_Core_coreLC_of__479d7b69ca08
 -- name    : P2M_PositivityTheory_Rg_Sw_LC_Core_coreLC_of__479d7b69ca08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:10:22.212934+00:00
 -- url     : https://prove2.me/theorems/164c8460-097d-4f65-ac99-fd5c190ff085

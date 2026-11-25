@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cauchyCoord_differentiableAt
 -- name    : GlobalTheory.cauchyCoord_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:08:00.910946+00:00
 -- url     : https://prove2.me/theorems/f287106a-21da-4384-8d73-5651865b77dc

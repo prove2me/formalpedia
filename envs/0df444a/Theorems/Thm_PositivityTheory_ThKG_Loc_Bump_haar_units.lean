@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_haar_units
 -- name    : PositivityTheory.ThKG.Loc.Bump.haar_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:04:45.099995+00:00
 -- url     : https://prove2.me/theorems/2b4690a4-45cb-4ee5-806e-3b8101220710

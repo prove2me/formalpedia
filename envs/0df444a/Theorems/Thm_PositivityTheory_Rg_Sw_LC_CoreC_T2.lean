@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_T2
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.T2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:26:42.166018+00:00
 -- url     : https://prove2.me/theorems/e7c5e598-01f1-4780-bdf8-a5886181c3e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_KapPf_hasFDerivAt_nmat
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.KapPf.hasFDerivAt_nmat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:56:25.425+00:00
 -- url     : https://prove2.me/theorems/44493537-d59d-426e-91d8-e60f698b7db9

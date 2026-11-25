@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_KapPf_vecL_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.KapPf.vecL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:57:15.093222+00:00
 -- url     : https://prove2.me/theorems/058d3c39-fb71-4c25-bdb1-4bf227bf9972

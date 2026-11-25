@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_pm_sum_gram_apply
 -- name    : ReciprocityTheory.AnForm.A.pm_sum_gram_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:20:24.787318+00:00
 -- url     : https://prove2.me/theorems/53517793-9d05-55eb-90b1-7fd4718d2635

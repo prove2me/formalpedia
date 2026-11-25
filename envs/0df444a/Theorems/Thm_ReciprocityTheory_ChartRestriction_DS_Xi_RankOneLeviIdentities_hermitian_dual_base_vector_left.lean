@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_hermitian_dual_base_vector_left
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RankOneLeviIdentities.hermitian_dual_base_vector_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:48:31.927918+00:00
 -- url     : https://prove2.me/theorems/676da204-0454-5e76-bcf4-8ad11d5cc3b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_IsImp_law_res
 -- name    : PositivityTheory.ThKF0.Chr.IsImp.law_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:04:44.1348+00:00
 -- url     : https://prove2.me/theorems/e8d7345c-55ab-5e1d-b1c1-ad963dfb12a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_continuous_onepCurve
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.continuous_onepCurve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:40:37.149628+00:00
 -- url     : https://prove2.me/theorems/01baa04b-99fb-52b7-b2b1-82643b2e4fe5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_moment_fibre
 -- name    : ReciprocityTheory.ChartRestriction.DS.moment_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:58:21.205833+00:00
 -- url     : https://prove2.me/theorems/5fa48009-2b16-49cf-9752-153ae08d37fb

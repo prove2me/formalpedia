@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_bracket_eq
 -- name    : ReciprocityTheory.AnForm.P.bracket_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:33:15.258627+00:00
 -- url     : https://prove2.me/theorems/697b376b-6154-482d-a2b3-202d7845d9ff

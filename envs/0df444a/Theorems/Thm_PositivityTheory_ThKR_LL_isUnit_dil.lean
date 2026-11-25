@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_isUnit_dil
 -- name    : PositivityTheory.ThKR.LL.isUnit_dil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:06:17.625914+00:00
 -- url     : https://prove2.me/theorems/7442b93c-3ae4-4291-b21b-f9cbdcdf3ee3

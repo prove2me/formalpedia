@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_UnitA_int_norm_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.UnitA.int_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:45:19.9349+00:00
 -- url     : https://prove2.me/theorems/ed0060c1-c736-4139-82a3-d7a72526d510

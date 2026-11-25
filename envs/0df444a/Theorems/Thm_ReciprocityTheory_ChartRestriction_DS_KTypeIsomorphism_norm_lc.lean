@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_KTypeIsomorphism_norm_lc
 -- name    : ReciprocityTheory.ChartRestriction.DS.KTypeIsomorphism.norm_lc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:41:29.948879+00:00
 -- url     : https://prove2.me/theorems/62e2887d-9f55-4c4d-a6ae-6fc046eb0055

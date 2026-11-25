@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_sum_castLE
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.sum_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:44.956064+00:00
 -- url     : https://prove2.me/theorems/31df29ae-e1f4-59d6-8267-d8330a8a04a4

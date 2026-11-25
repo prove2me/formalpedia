@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_lcA_exp_strict
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.lcA_exp_strict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:45:31.884892+00:00
 -- url     : https://prove2.me/theorems/b3f9cf7c-bc1b-4886-91b2-a5d05b215428

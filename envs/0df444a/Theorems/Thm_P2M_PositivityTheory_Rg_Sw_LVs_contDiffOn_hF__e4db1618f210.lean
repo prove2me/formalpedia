@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Sw_LVs_contDiffOn_hF__e4db1618f210
 -- name    : P2M_PositivityTheory_Rg_Sw_LVs_contDiffOn_hF__e4db1618f210
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:10:27.207286+00:00
 -- url     : https://prove2.me/theorems/e94ef613-7582-4320-a06d-ce95ac258ccc

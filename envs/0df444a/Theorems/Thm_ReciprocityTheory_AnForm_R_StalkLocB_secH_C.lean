@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_StalkLocB_secH_C
 -- name    : ReciprocityTheory.AnForm.R.StalkLocB.secH_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:36:15.578354+00:00
 -- url     : https://prove2.me/theorems/e1db8f5d-3b4b-5ddd-a75e-2ef829f3e3d4

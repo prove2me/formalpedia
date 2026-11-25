@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_maDens_cons_continuous
 -- name    : ReciprocityTheory.AnForm.A.maDens_cons_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:16.644867+00:00
 -- url     : https://prove2.me/theorems/85337f95-3e65-40c8-9fdd-f7f0f8812cb1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_fderiv_xZx_skew
 -- name    : PositivityTheory.Rg.Sw.LVs.II.fderiv_xZx_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:58:22.208932+00:00
 -- url     : https://prove2.me/theorems/089d89ef-3dca-43a1-ace6-396ddd86f78a

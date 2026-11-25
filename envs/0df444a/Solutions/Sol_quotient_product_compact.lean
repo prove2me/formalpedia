@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for quotient_product_compact
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T12:38:31.201855+00:00
+-- url     : https://prove2.me/submissions/142d972d-8727-4984-9024-74fa5a8b5d87
+
+import Definitions.Def_Formalism_PeriodIntegrals_QuotProdK
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilQuotientHaar_QuotProdKOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilQuotientHaar_WeilQuotientGlobalAssumptions
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilQuotientHaar_ProdSetIsClosed
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilQuotientHaar_HaarMeasureUniqueness
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilQuotientHaar_ConjugationInvariantMeasure
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilQuotientHaar_SiegelMeasureDefinition
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilQuotientHaar_BruhatDecomposition
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilQuotientHaar_LocalWeilRepresentation
+import Definitions.Def_Formalism_PeriodIntegrals_OrbitalBoundsConclusion_QuotProdK
+import Theorems.Thm_P2M_QPK_bruhat_decomposition__ef6a7602566e
+import Theorems.Thm_QPK_conjugation_invariant_measure
+import Theorems.Thm_QPK_haar_measure_existence
+import Theorems.Thm_QPK_haar_measure_uniqueness
+import Theorems.Thm_QPK_locPack_of
+import Theorems.Thm_QPK_local_weil_representation
+import Theorems.Thm_QPK_quotProdK_of
+import Theorems.Thm_QPK_siegel_measure_definition
+import Theorems.Thm_QPK_weil_quotient_global_assumptions
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+theorem _root_.solution : PI.QuotProdK.QuotProdK :=
+  QPK.quotProdK_of QPK.weil_quotient_global_assumptions QPK.haar_measure_uniqueness
+    (QPK.locPack_of QPK.haar_measure_existence QPK.conjugation_invariant_measure QPK.siegel_measure_definition QPK.bruhat_decomposition'
+      QPK.local_weil_representation)

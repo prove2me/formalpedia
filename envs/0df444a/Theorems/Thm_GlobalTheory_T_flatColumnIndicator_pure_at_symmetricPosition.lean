@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flatColumnIndicator_pure_at_symmetricPosition
 -- name    : GlobalTheory.T.flatColumnIndicator_pure_at_symmetricPosition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:20:36.183938+00:00
 -- url     : https://prove2.me/theorems/816740e3-27eb-4dc3-a28e-b538c269b369

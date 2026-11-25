@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_XI_cont_ga
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.XI.cont_ga
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:49:47.084815+00:00
 -- url     : https://prove2.me/theorems/32b88a6a-ade0-4d49-82d9-5cc160f5d802

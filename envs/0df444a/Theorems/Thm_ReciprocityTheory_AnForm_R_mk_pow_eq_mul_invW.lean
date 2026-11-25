@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_mk_pow_eq_mul_invW
 -- name    : ReciprocityTheory.AnForm.R.mk_pow_eq_mul_invW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:38:03.606562+00:00
 -- url     : https://prove2.me/theorems/0b704c5c-63ea-5419-8569-59673df43d96

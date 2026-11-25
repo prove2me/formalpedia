@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_lieExponentialMajorant_holds
 -- name    : PositivityTheory.CWB.lieExponentialMajorant_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:01:57.208389+00:00
 -- url     : https://prove2.me/theorems/de491727-271b-4608-ade6-6eeb42af4bae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_deriv2_line
 -- name    : ReciprocityTheory.AnForm.P.deriv2_line
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:25.468088+00:00
 -- url     : https://prove2.me/theorems/d348d482-a587-4f29-bc03-a3813bee61cf

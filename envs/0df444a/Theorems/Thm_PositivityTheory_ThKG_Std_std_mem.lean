@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_std_mem
 -- name    : PositivityTheory.ThKG.Std.std_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:04:59.581528+00:00
 -- url     : https://prove2.me/theorems/595b1ea1-204e-4624-8306-b78237360256

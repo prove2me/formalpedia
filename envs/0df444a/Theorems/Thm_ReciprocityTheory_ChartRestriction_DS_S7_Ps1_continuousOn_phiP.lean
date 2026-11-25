@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_Ps1_continuousOn_phiP
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.Ps1.continuousOn_phiP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:45:04.264729+00:00
 -- url     : https://prove2.me/theorems/f7b15c05-c41a-4c19-880e-e99f47125f0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_ds_local
 -- name    : ReciprocityTheory.AnForm.R.ds_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:37:00.864262+00:00
 -- url     : https://prove2.me/theorems/1ee8fb50-62c8-5ae1-b4d2-57441e3247de

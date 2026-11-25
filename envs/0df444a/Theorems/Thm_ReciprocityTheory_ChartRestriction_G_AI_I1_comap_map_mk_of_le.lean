@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_comap_map_mk_of_le
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.comap_map_mk_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:54:39.294215+00:00
 -- url     : https://prove2.me/theorems/9a158179-614e-4b96-85d7-205014c8b3b2

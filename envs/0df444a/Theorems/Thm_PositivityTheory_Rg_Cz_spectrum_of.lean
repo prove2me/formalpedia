@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_spectrum_of
 -- name    : PositivityTheory.Rg.Cz.spectrum_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:57:18.172037+00:00
 -- url     : https://prove2.me/theorems/bf1c5d4b-1c7e-5b53-a407-c799b99d6347

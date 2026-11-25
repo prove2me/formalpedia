@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_lcA_exists_klog
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.lcA_exists_klog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:45:27.512867+00:00
 -- url     : https://prove2.me/theorems/7f0a6db2-7b55-41bc-8307-55370af9aca4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_right_step_integral_converges
 -- name    : Kyprianou.Ch04.kw47_right_step_integral_converges
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T11:40:19.896584+00:00
 -- url     : https://prove2.me/theorems/32f9f505-abc3-43bc-a78b-dfa6dbd7ecc1

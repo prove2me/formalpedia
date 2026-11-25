@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_k2mMulRight_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.k2mMulRight_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:44:54.346459+00:00
 -- url     : https://prove2.me/theorems/3bd05b7b-e29c-5391-9703-b07c0994f1b5

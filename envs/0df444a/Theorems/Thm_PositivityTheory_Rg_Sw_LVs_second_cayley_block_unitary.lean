@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_second_cayley_block_unitary
 -- name    : PositivityTheory.Rg.Sw.LVs.second_cayley_block_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:09.320279+00:00
 -- url     : https://prove2.me/theorems/13c4451a-20fb-43fc-aa0f-64508897330f

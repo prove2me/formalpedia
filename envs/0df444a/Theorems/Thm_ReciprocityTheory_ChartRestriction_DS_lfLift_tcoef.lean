@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lfLift_tcoef
 -- name    : ReciprocityTheory.ChartRestriction.DS.lfLift_tcoef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:59:30.103144+00:00
 -- url     : https://prove2.me/theorems/7baaf670-c1bb-456d-9e2f-d44e5de58bcf

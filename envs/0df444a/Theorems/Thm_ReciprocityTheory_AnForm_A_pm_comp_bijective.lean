@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_pm_comp_bijective
 -- name    : ReciprocityTheory.AnForm.A.pm_comp_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:19:19.292796+00:00
 -- url     : https://prove2.me/theorems/65d62c84-0cde-440c-86f0-135fe8a80612

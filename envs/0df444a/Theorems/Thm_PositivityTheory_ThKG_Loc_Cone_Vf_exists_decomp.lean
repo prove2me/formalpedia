@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Cone_Vf_exists_decomp
 -- name    : PositivityTheory.ThKG.Loc.Cone.Vf.exists_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:05:56.00581+00:00
 -- url     : https://prove2.me/theorems/5104fc1d-c004-50f3-9af1-635b5e664104

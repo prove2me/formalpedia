@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_interlaces_u_lt
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.interlaces_u_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:43:09.511898+00:00
 -- url     : https://prove2.me/theorems/05d8581b-dc24-4911-b92f-8f277cfb1168

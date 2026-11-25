@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_ArchimedeanConeVolume_norm_eq_sqrt_coord
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.ArchimedeanConeVolume.norm_eq_sqrt_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:54:20.153287+00:00
 -- url     : https://prove2.me/theorems/449ab866-eec0-5bbd-96c2-a6e8d4b738ab

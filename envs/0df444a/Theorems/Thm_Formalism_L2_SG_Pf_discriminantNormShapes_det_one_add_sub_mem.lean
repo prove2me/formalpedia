@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_det_one_add_sub_mem
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.det_one_add_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:57:22.476262+00:00
 -- url     : https://prove2.me/theorems/287d11f8-c936-5893-b1f3-7611f385dceb

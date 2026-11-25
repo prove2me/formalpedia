@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_summable_prod_mul_pow_div_factorial
 -- name    : ReciprocityTheory.ChartRestriction.DS.summable_prod_mul_pow_div_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:54:19.161194+00:00
 -- url     : https://prove2.me/theorems/cfb1c0fa-2f88-5374-be9d-ddf1ddf27a29

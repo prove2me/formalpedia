@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_dualHV_holds
 -- name    : PI.VolStabW.dualHV_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:42:27.1153+00:00
 -- url     : https://prove2.me/theorems/4460d908-b4d0-44a2-a73c-d6083d350332

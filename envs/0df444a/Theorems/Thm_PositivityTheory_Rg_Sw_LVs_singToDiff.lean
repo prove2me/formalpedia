@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_singToDiff
 -- name    : PositivityTheory.Rg.Sw.LVs.singToDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:12.923378+00:00
 -- url     : https://prove2.me/theorems/cb405f00-de22-4ef5-84d1-17af980691f3

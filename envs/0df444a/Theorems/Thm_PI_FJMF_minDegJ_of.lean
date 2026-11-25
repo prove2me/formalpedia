@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_minDegJ_of
 -- name    : PI.FJMF.minDegJ_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:29:52.294915+00:00
 -- url     : https://prove2.me/theorems/7d419fa8-7f0c-4f4b-a234-83ff5e0b26b9

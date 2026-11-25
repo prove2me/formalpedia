@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_det_second_cayley_block_ne_zero
 -- name    : PositivityTheory.Rg.Sw.LVs.det_second_cayley_block_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:14:47.80154+00:00
 -- url     : https://prove2.me/theorems/475b727d-f016-4ff3-9036-615439dd6403

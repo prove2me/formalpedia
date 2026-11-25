@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_coeffMatrix_two_gramPoly_diag
 -- name    : ReciprocityTheory.AnForm.P.coeffMatrix_two_gramPoly_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:32:49.585268+00:00
 -- url     : https://prove2.me/theorems/38f2e900-502e-4e8c-a919-c98ec669c131

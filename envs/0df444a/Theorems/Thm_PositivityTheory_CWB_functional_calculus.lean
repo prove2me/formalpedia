@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_functional_calculus
 -- name    : PositivityTheory.CWB.functional_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:41:48.517804+00:00
 -- url     : https://prove2.me/theorems/c6d8848b-803e-4372-89f7-ebf7e4adc4ae

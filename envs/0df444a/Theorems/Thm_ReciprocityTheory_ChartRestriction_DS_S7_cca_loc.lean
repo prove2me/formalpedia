@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_cca_loc
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.cca_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:25.658017+00:00
 -- url     : https://prove2.me/theorems/4807cb29-487b-5306-960b-73a566c9d4b4

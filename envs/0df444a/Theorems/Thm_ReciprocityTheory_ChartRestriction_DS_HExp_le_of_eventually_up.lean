@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_le_of_eventually_up
 -- name    : ReciprocityTheory.ChartRestriction.DS.HExp.le_of_eventually_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:38:57.573908+00:00
 -- url     : https://prove2.me/theorems/6bd7237a-f5f4-5ab7-b263-4d730ee82488

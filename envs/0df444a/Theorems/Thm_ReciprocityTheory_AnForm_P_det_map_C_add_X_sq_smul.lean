@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_det_map_C_add_X_sq_smul
 -- name    : ReciprocityTheory.AnForm.P.det_map_C_add_X_sq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:54.46783+00:00
 -- url     : https://prove2.me/theorems/3324b418-b37b-5899-bbca-d416692dc960

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_fderiv_phiM_lower
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.fderiv_phiM_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:49:33.299248+00:00
 -- url     : https://prove2.me/theorems/4e407357-b933-5775-becf-0786474e7dbe

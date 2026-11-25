@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_pert_submean
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.pert_submean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:02.674829+00:00
 -- url     : https://prove2.me/theorems/8dc7391e-bc91-4d73-b5be-ff4faa6efdd9

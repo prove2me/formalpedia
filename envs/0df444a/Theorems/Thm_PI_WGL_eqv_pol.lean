@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_eqv_pol
 -- name    : PI.WGL.eqv_pol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:52:12.054326+00:00
 -- url     : https://prove2.me/theorems/db2657cf-399e-4249-a9b0-102c72f5ef72

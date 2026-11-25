@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_diag_apply_of_weight
 -- name    : ReciprocityTheory.ChartRestriction.DS.diag_apply_of_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:51:41.344442+00:00
 -- url     : https://prove2.me/theorems/184d3db6-a1d1-50c6-8bb0-5eeb1c578b91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_kdNu_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.kdNu_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:51:33.217181+00:00
 -- url     : https://prove2.me/theorems/55f38529-85f2-4cfd-b781-b6b2cf70e6a5

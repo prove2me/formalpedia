@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_ccb_cpart_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.ccb_cpart_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:43.547327+00:00
 -- url     : https://prove2.me/theorems/892ed2f3-0e94-4843-b818-dd1bcf208161

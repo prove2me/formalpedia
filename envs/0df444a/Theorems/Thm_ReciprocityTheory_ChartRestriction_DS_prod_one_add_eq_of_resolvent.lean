@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_prod_one_add_eq_of_resolvent
 -- name    : ReciprocityTheory.ChartRestriction.DS.prod_one_add_eq_of_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:54:17.634965+00:00
 -- url     : https://prove2.me/theorems/9b9b67ae-66d8-4a09-8b73-b9a00352311e

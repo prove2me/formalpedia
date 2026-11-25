@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gaap_setLIntegral_translate
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gaap_setLIntegral_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:11:10.274874+00:00
 -- url     : https://prove2.me/theorems/1e9f86a9-4657-40f4-8a5b-8c00a7ca0544

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_UnitA_pr_eq_inner
 -- name    : ReciprocityTheory.ChartRestriction.DS.UnitA.pr_eq_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:45:18.060851+00:00
 -- url     : https://prove2.me/theorems/df866779-bf52-54d8-aa5e-1cab19527dc3

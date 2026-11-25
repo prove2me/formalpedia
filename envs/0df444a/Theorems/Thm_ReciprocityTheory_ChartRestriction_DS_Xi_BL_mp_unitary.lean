@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_mp_unitary
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.mp_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:47:36.46086+00:00
 -- url     : https://prove2.me/theorems/7c10f0c5-ee80-53af-9ba3-01cb62b7aa49

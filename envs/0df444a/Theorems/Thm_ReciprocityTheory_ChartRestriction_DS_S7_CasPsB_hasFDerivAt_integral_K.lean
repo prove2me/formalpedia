@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CasPsB_hasFDerivAt_integral_K
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CasPsB.hasFDerivAt_integral_K
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:44:32.792928+00:00
 -- url     : https://prove2.me/theorems/6d6604a6-e7c7-430e-a8ba-73a972e31784

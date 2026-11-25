@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Laplace_mono_pow
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Laplace.mono_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:42:22.359694+00:00
 -- url     : https://prove2.me/theorems/f467602b-fbd1-42e1-bb8d-bd667f557bd5

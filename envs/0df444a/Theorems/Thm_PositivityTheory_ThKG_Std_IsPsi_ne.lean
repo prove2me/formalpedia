@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_IsPsi_ne
 -- name    : PositivityTheory.ThKG.Std.IsPsi.ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:05:42.689322+00:00
 -- url     : https://prove2.me/theorems/365cd3cd-a8f3-46eb-8140-512eded7014a

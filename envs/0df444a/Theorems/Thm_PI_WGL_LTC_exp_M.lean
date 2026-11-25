@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTC_exp_M
 -- name    : PI.WGL.LTC.exp_M
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:50:44.108574+00:00
 -- url     : https://prove2.me/theorems/21a61d99-0281-4e97-ba58-6cf7b90b125d

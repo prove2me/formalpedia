@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_kT_nonneg
 -- name    : PositivityTheory.Rg.Cz.kT_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:53:21.543484+00:00
 -- url     : https://prove2.me/theorems/faf988e4-4ae4-5f87-85cd-0e5a06497104

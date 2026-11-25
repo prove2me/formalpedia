@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ReciprocityTheory.AnForm.M.mdisc_cons_smul
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:06:48.324802+00:00
 -- url     : https://prove2.me/submissions/434765d7-b55a-4bc3-a7ea-0ed7c4319291
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_ReciprocityTheory_AnalyticForms_MaIntEmpty
 import Definitions.Def_ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_MdiscSt

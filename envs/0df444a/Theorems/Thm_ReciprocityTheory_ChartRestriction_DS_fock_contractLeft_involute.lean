@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_fock_contractLeft_involute
 -- name    : ReciprocityTheory.ChartRestriction.DS.fock_contractLeft_involute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:52:32.534395+00:00
 -- url     : https://prove2.me/theorems/5e5a992a-79d3-4b19-9cb0-ac0a1137f0c9

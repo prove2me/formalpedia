@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_rowAct_diag_homog
 -- name    : PI.WGB.rowAct_diag_homog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:14.1788+00:00
 -- url     : https://prove2.me/theorems/ada9b375-0f36-4374-a860-d18dad0cae45

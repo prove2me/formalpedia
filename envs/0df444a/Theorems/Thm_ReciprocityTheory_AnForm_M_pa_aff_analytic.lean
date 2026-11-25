@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pa_aff_analytic
 -- name    : ReciprocityTheory.AnForm.M.pa_aff_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:33:14.273201+00:00
 -- url     : https://prove2.me/theorems/973327b9-b5fa-400e-aef8-922e1c196130

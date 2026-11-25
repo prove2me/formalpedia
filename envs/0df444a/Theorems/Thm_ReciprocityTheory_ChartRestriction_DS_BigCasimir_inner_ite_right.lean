@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_BigCasimir_inner_ite_right
 -- name    : ReciprocityTheory.ChartRestriction.DS.BigCasimir.inner_ite_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:38:51.830629+00:00
 -- url     : https://prove2.me/theorems/49958271-cf4e-4925-a615-ca0b3b1714ee

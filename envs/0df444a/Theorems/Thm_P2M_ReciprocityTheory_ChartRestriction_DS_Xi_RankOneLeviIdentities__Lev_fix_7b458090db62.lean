@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities__Lev_fix_7b458090db62
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities__Lev_fix_7b458090db62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:38:44.165565+00:00
 -- url     : https://prove2.me/theorems/99d63b5b-3b54-4662-8ac5-93e9c019f786

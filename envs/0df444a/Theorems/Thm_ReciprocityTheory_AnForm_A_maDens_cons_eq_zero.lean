@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_maDens_cons_eq_zero
 -- name    : ReciprocityTheory.AnForm.A.maDens_cons_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:44:56.700867+00:00
 -- url     : https://prove2.me/theorems/a21d3852-6a6c-46d5-8ac3-7ed41e81f9f7

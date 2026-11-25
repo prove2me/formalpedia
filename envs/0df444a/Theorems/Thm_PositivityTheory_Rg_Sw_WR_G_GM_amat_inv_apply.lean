@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GM_amat_inv_apply
 -- name    : PositivityTheory.Rg.Sw.WR.G.GM.amat_inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:04.075132+00:00
 -- url     : https://prove2.me/theorems/e8547848-d010-5904-9e06-4319c59345d1

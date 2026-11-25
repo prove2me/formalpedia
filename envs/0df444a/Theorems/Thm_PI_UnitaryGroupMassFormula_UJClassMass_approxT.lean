@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_approxT
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.approxT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:45:35.636052+00:00
 -- url     : https://prove2.me/theorems/70a5c5a2-cb8e-49a1-a6cb-a77459084168

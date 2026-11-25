@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_maDens_fs
 -- name    : ReciprocityTheory.AnForm.maDens_fs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:42:03.265915+00:00
 -- url     : https://prove2.me/theorems/204b2400-121b-4d0e-be62-ac34478bb7ab

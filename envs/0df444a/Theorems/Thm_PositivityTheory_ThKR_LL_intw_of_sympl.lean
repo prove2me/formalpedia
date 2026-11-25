@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_intw_of_sympl
 -- name    : PositivityTheory.ThKR.LL.intw_of_sympl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:21.947502+00:00
 -- url     : https://prove2.me/theorems/4d103372-33e0-4a0c-8bc7-b8c52b8353fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IntegerToRational_chZero_comap
 -- name    : ReciprocityTheory.AnForm.R.IntegerToRational.chZero_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:51.970234+00:00
 -- url     : https://prove2.me/theorems/d5d629fe-49cf-4eb3-bdee-36c2919fe1ea

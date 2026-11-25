@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_kirrPs_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.kirrPs_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:27:39.487339+00:00
 -- url     : https://prove2.me/theorems/49d39a14-8e15-4e55-abd2-602d335c51ac

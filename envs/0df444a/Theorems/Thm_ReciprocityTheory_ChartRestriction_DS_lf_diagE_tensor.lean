@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lf_diagE_tensor
 -- name    : ReciprocityTheory.ChartRestriction.DS.lf_diagE_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:56:24.107665+00:00
 -- url     : https://prove2.me/theorems/a70eb396-abfc-540e-a935-29e234105d72

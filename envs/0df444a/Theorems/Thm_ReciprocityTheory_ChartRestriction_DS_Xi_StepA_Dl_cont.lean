@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_Dl_cont
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.Dl_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:49:20.255736+00:00
 -- url     : https://prove2.me/theorems/005047c4-93eb-4311-b72b-682e28d28a42

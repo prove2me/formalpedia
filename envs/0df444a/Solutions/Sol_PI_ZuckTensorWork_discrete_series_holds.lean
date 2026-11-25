@@ -1,0 +1,43 @@
+-- Prove2me | solution 1 for PI.ZuckTensorWork.discrete_series_holds
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T12:09:53.417574+00:00
+-- url     : https://prove2.me/submissions/b8b0fbc4-5fac-447f-ab91-f10a8b0f4f5e
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_ZuckTensor
+import Definitions.Def_Formalism_PeriodIntegrals_DSExist
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ZuckDualOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualDefs
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualChoice
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DualTop
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_RevNum
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_ConjRep
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_SquareIntegrableConj
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ZuckermanTensor_DiscreteSeriesHolds
+import Theorems.Thm_PI_ZuckTensorWork_compact_dominant_holds
+import Theorems.Thm_PI_ZuckTensorWork_dsConj_of
+import Theorems.Thm_PI_ZuckTensorWork_irreducible_conjecture_holds
+import Theorems.Thm_PI_ZuckTensorWork_kTypeConjInv_of
+import Theorems.Thm_PI_ZuckTensorWork_kTypeConj_of
+import Theorems.Thm_PI_ZuckTensorWork_lowest_k_type_holds
+import Theorems.Thm_PI_ZuckTensorWork_square_integrable_conj
+import Theorems.Thm_PI_ZuckTensorWork_unitary_representation_holds
+import Theorems.Thm_PI_ZuckTensorWork_vector_norm_holds
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PI PI.ZuckTensorWork
+open PI.ZuckTensor
+namespace PI.ZuckTensorWork
+theorem _root_.solution : DSConj :=
+  dsConj_of unitary_representation_holds irreducible_conjecture_holds square_integrable_conj (kTypeConj_of compact_dominant_holds) (kTypeConjInv_of compact_dominant_holds)
+    lowest_k_type_holds vector_norm_holds
+end PI.ZuckTensorWork

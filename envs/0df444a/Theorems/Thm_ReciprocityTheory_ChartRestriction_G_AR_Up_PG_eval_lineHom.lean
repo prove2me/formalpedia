@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PG_eval_lineHom
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PG.eval_lineHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:59:12.591445+00:00
 -- url     : https://prove2.me/theorems/79c8c218-dd1f-49e2-ab3b-5be18839ffbc

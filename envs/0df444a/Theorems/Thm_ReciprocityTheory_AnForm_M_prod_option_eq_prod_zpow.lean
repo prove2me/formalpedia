@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_prod_option_eq_prod_zpow
 -- name    : ReciprocityTheory.AnForm.M.prod_option_eq_prod_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:33:14.899397+00:00
 -- url     : https://prove2.me/theorems/754d1283-89ff-4585-a2b9-a8ed6f539839

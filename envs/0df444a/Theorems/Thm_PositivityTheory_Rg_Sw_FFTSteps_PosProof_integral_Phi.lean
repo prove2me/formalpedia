@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PosProof_integral_Phi
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PosProof.integral_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:14.684478+00:00
 -- url     : https://prove2.me/theorems/53d83038-108d-5968-b89a-399241a9db6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hasFiniteLength_of_coinvariants
 -- name    : GroundTheory.Automorphic.hasFiniteLength_of_coinvariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:55:01.068701+00:00
 -- url     : https://prove2.me/theorems/1d723a96-802f-5315-a01b-2b0a917cd201

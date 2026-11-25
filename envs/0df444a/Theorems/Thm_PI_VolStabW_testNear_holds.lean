@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_testNear_holds
 -- name    : PI.VolStabW.testNear_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:45:19.209094+00:00
 -- url     : https://prove2.me/theorems/7612684d-8b26-45ba-a0ae-6456dcb8dafb

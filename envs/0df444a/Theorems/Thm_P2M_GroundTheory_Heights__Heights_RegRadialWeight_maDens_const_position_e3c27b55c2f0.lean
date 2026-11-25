@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegRadialWeight_maDens_const_position_e3c27b55c2f0
 -- name    : P2M_GroundTheory_Heights__Heights_RegRadialWeight_maDens_const_position_e3c27b55c2f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:19:08.058416+00:00
 -- url     : https://prove2.me/theorems/a3fbe589-71f1-4dc0-9a40-20443990e719

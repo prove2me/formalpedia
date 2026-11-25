@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_kType_twist
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.kType_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:40:13.869042+00:00
 -- url     : https://prove2.me/theorems/8fbd52cd-b1d4-48e2-9bf6-447b464f8931

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_orbital_commutes_on_open_set
 -- name    : Formalism.FourierDecayAlt.P.orbital_commutes_on_open_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:20:27.500233+00:00
 -- url     : https://prove2.me/theorems/e06bd7b3-4879-4403-af63-02ce709d4a07

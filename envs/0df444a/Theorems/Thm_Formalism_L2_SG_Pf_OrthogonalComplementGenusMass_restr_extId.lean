@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_OrthogonalComplementGenusMass_restr_extId
 -- name    : Formalism.L2.SG.Pf.OrthogonalComplementGenusMass.restr_extId
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:21:22.511713+00:00
 -- url     : https://prove2.me/theorems/a7e7b990-f276-41c2-9a5b-329d4e223804

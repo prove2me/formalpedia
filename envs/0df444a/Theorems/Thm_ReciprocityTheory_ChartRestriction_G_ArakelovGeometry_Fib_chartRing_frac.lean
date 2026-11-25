@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_chartRing_frac
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.chartRing_frac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:01:00.585186+00:00
 -- url     : https://prove2.me/theorems/02709a14-4f54-5f52-bdbd-981a4bad0789

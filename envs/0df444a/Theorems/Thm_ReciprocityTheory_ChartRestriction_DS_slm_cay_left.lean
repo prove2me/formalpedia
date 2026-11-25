@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slm_cay_left
 -- name    : ReciprocityTheory.ChartRestriction.DS.slm_cay_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:53:56.298337+00:00
 -- url     : https://prove2.me/theorems/b9160588-b999-46d2-83e8-f91a5b2c0eac

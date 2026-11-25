@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_regMax_eq_of_dom
 -- name    : ReciprocityTheory.AnForm.A.regMax_eq_of_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:19:35.925111+00:00
 -- url     : https://prove2.me/theorems/800c35e9-bc96-42c7-aa82-e156572409c5

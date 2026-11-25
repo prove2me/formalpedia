@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_csq_two_rhoHol_plus
 -- name    : ReciprocityTheory.ChartRestriction.DS.csq_two_rhoHol_plus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:49:15.636184+00:00
 -- url     : https://prove2.me/theorems/28ed110d-ba89-42e3-9d31-30f664da3b51

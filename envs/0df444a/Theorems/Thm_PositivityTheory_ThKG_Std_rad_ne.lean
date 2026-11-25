@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_rad_ne
 -- name    : PositivityTheory.ThKG.Std.rad_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:26.201779+00:00
 -- url     : https://prove2.me/theorems/67327ac8-94ca-4354-b4ed-a62d967e5a64

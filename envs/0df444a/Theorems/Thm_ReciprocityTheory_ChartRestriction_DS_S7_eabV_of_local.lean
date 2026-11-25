@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_eabV_of_local
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.eabV_of_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:44.857814+00:00
 -- url     : https://prove2.me/theorems/15c516de-64a9-4bfc-a8cd-281fc122772d

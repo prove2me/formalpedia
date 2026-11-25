@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_sum_pow_eq_aeval_psumQ
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.sum_pow_eq_aeval_psumQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:01:03.111255+00:00
 -- url     : https://prove2.me/theorems/e57b2fb0-987e-5a2e-b141-dc2707a7a16a

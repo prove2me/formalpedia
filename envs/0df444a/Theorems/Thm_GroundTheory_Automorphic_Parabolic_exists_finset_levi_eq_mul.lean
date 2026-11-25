@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_finset_levi_eq_mul
 -- name    : GroundTheory.Automorphic.Parabolic.exists_finset_levi_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:47:06.275579+00:00
 -- url     : https://prove2.me/theorems/2a735f56-dacb-5d54-b713-89b30ccc457e

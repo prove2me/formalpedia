@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_BaseChangeC_isDomain_tensor_of_isFractionRing
 -- name    : ReciprocityTheory.AnForm.R.BaseChangeC.isDomain_tensor_of_isFractionRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:11.509209+00:00
 -- url     : https://prove2.me/theorems/94c98582-6a89-4d0a-917f-a9d305022640

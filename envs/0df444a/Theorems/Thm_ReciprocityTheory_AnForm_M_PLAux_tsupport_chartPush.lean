@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLAux_tsupport_chartPush
 -- name    : ReciprocityTheory.AnForm.M.PLAux.tsupport_chartPush
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:19:27.575576+00:00
 -- url     : https://prove2.me/theorems/0495c44b-f500-4edc-b6c8-9ae539ca077a

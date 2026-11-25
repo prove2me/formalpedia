@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_algebraMap_quot_mk
 -- name    : ReciprocityTheory.AnForm.R.algebraMap_quot_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:36:25.065121+00:00
 -- url     : https://prove2.me/theorems/29b98e1e-3114-4538-8100-a7a66cad0fb9

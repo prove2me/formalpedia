@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_weil_id
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.weil_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:51:51.31883+00:00
 -- url     : https://prove2.me/theorems/5cc3274a-c6ba-5ae3-8582-599933ec421a

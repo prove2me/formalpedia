@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_dex_block_frame
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.dex_block_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:17.741296+00:00
 -- url     : https://prove2.me/theorems/7c8d69be-c77a-5e94-8e71-fcf6afa55b50

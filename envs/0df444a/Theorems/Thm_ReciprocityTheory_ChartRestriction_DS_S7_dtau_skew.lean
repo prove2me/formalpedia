@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_dtau_skew
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.dtau_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:45:31.220799+00:00
 -- url     : https://prove2.me/theorems/919e4dca-cab1-4e89-8fb1-d470242236a9

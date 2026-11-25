@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdTestInfW_testEx_of_homeo
 -- name    : PI.VolStabW.SdTestInfW.testEx_of_homeo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:39:09.250599+00:00
 -- url     : https://prove2.me/theorems/b64ccad8-82be-4c84-a810-f7a53f7237a8

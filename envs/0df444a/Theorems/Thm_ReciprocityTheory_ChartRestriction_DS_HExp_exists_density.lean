@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_exists_density
 -- name    : ReciprocityTheory.ChartRestriction.DS.HExp.exists_density
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:41.700231+00:00
 -- url     : https://prove2.me/theorems/ea310599-79d5-402a-8cad-775318c11f87

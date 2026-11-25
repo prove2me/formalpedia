@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_IntegralModuleBases_det_gram_fB
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.IntegralModuleBases.det_gram_fB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:56:37.959788+00:00
 -- url     : https://prove2.me/theorems/5153f466-e5fe-47c5-be64-35674c18a562

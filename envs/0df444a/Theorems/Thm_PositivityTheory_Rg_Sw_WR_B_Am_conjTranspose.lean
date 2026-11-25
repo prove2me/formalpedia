@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_Am_conjTranspose
 -- name    : PositivityTheory.Rg.Sw.WR.B.Am_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:43.664806+00:00
 -- url     : https://prove2.me/theorems/97bf80a1-b068-4815-8621-ab6ca47597bd

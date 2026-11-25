@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_ktint_exp_apply_of_eig
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.ktint_exp_apply_of_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:41:49.868987+00:00
 -- url     : https://prove2.me/theorems/a6cb1a35-f671-4664-afb2-ad9da1669e6c

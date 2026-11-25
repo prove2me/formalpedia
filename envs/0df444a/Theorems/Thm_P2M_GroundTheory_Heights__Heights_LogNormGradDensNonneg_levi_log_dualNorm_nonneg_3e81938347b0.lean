@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogNormGradDensNonneg_levi_log_dualNorm_nonneg_3e81938347b0
 -- name    : P2M_GroundTheory_Heights__Heights_LogNormGradDensNonneg_levi_log_dualNorm_nonneg_3e81938347b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:28:49.339307+00:00
 -- url     : https://prove2.me/theorems/4696de40-835e-4e46-9c06-a2573575f370

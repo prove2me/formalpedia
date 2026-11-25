@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_rankDrop
 -- name    : ReciprocityTheory.AnForm.M.rankDrop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:22.824895+00:00
 -- url     : https://prove2.me/theorems/3ad4878a-fd9e-49de-ada1-c703d5364a90

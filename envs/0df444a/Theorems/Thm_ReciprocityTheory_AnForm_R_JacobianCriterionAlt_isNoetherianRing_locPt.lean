@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_isNoetherianRing_locPt
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.isNoetherianRing_locPt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:35:40.547796+00:00
 -- url     : https://prove2.me/theorems/649e443a-d5d5-4308-b51e-d747777dc601

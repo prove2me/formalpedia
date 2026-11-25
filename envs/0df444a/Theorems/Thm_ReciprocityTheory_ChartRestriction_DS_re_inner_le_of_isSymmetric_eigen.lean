@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_re_inner_le_of_isSymmetric_eigen
 -- name    : ReciprocityTheory.ChartRestriction.DS.re_inner_le_of_isSymmetric_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:52:56.394433+00:00
 -- url     : https://prove2.me/theorems/b3e99544-5de5-4ddb-91f5-b9bfaab2009c

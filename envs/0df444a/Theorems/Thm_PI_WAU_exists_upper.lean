@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_exists_upper
 -- name    : PI.WAU.exists_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:44:18.560538+00:00
 -- url     : https://prove2.me/theorems/349a1cf8-1825-5ea4-ab31-951a16db755c

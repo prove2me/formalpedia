@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_second_contraction_adapted
 -- name    : Formalism.FourierDecayAlt.P.second_contraction_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:50:52.121343+00:00
 -- url     : https://prove2.me/theorems/7ac149ce-5592-42a7-b6ec-58ca9b95e2d0

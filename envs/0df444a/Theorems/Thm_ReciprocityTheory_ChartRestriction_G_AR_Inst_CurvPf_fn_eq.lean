@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_fn_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.fn_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:56:02.66249+00:00
 -- url     : https://prove2.me/theorems/b0127795-2d53-40c0-88f7-72f5bbf8f63b

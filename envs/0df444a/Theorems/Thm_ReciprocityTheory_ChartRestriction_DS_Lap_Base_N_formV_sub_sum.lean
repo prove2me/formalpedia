@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_formV_sub_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.formV_sub_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:17.096941+00:00
 -- url     : https://prove2.me/theorems/296a89ae-5ab9-571d-a7f7-fecda721e04a

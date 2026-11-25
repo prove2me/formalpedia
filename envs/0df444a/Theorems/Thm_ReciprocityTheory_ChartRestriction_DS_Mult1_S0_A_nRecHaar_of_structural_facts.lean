@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_S0_A_nRecHaar_of_structural_facts
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.S0.A.nRecHaar_of_structural_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:25.135241+00:00
 -- url     : https://prove2.me/theorems/8330cac1-6310-42f6-8c5f-ff8f9b1c56b1

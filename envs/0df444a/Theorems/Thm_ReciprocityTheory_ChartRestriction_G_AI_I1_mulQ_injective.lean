@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_mulQ_injective
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.mulQ_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:55:20.623686+00:00
 -- url     : https://prove2.me/theorems/bc160b48-b8c5-517c-8e72-fa4a6db6eae4

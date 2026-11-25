@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_tset_casVal_sub
 -- name    : ReciprocityTheory.ChartRestriction.DS.tset_casVal_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:01:23.766829+00:00
 -- url     : https://prove2.me/theorems/0a026c90-91b0-5cec-ba2f-db883cd4b770

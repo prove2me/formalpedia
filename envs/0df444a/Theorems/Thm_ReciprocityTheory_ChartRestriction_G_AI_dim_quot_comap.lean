@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_dim_quot_comap
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.dim_quot_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:56:10.589662+00:00
 -- url     : https://prove2.me/theorems/0f20d8f1-352a-4f61-b387-2ce63ec6d4bd

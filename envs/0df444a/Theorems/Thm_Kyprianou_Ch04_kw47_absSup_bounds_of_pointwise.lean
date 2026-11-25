@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_absSup_bounds_of_pointwise
 -- name    : Kyprianou.Ch04.kw47_absSup_bounds_of_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T10:12:13.001049+00:00
 -- url     : https://prove2.me/theorems/ebc7908c-7468-5f6f-badd-10b20a11a325

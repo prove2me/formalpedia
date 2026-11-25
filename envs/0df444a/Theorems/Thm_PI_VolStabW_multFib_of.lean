@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_multFib_of
 -- name    : PI.VolStabW.multFib_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:03.694136+00:00
 -- url     : https://prove2.me/theorems/92c81049-6b88-42d7-9723-af5e41b12f94

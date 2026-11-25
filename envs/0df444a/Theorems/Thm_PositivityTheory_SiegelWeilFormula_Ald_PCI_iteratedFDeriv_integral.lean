@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Ald_PCI_iteratedFDeriv_integral
 -- name    : PositivityTheory.SiegelWeilFormula.Ald.PCI.iteratedFDeriv_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:11:11.493976+00:00
 -- url     : https://prove2.me/theorems/2dcc0530-b56a-414d-ba3c-0d2f85b6d960

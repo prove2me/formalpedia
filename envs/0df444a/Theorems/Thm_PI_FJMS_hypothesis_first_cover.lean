@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMS_hypothesis_first_cover
 -- name    : PI.FJMS.hypothesis_first_cover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:02.546698+00:00
 -- url     : https://prove2.me/theorems/0a0dc1bf-14bc-4ece-875f-30111cfa0e6d

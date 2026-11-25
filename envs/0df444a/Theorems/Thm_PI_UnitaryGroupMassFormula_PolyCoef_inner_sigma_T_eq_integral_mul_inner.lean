@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PolyCoef_inner_sigma_T_eq_integral_mul_inner
 -- name    : PI.UnitaryGroupMassFormula.PolyCoef.inner_sigma_T_eq_integral_mul_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:12:22.561066+00:00
 -- url     : https://prove2.me/theorems/64258fd2-596a-4e9e-b049-370947bfab6a

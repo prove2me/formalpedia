@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_monge_ampere_density_cofactor
 -- name    : ReciprocityTheory.AnForm.A.monge_ampere_density_cofactor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:19:35.042136+00:00
 -- url     : https://prove2.me/theorems/9ac0d21c-be0f-43e9-a68a-6350462c7b4f

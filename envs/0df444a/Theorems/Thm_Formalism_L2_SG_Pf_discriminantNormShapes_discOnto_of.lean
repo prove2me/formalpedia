@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_discOnto_of
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.discOnto_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:48:30.245993+00:00
 -- url     : https://prove2.me/theorems/37b9ec35-1dc2-5851-adcb-2e032de16516

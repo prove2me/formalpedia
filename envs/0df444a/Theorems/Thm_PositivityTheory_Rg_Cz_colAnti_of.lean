@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_colAnti_of
 -- name    : PositivityTheory.Rg.Cz.colAnti_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:01.238801+00:00
 -- url     : https://prove2.me/theorems/07c6bfbb-9f6a-4b83-abbd-aa8362e4135e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_qdet_eq_sum_words
 -- name    : ReciprocityTheory.ChartRestriction.DS.qdet_eq_sum_words
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:53:59.883921+00:00
 -- url     : https://prove2.me/theorems/00342179-0c0e-5537-8327-2ee9909e4274

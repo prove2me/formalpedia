@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_gradT_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.gradT_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:52:03.737473+00:00
 -- url     : https://prove2.me/theorems/98df7117-5c62-4960-a098-add1862fc8e5

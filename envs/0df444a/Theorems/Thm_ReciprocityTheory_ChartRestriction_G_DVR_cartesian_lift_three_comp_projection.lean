@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_cartesian_lift_three_comp_projection
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.cartesian_lift_three_comp_projection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:12:22.827115+00:00
 -- url     : https://prove2.me/theorems/670321c6-9792-5212-9d18-edb3e098ce22

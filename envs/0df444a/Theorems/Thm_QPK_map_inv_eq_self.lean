@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_map_inv_eq_self
 -- name    : QPK.map_inv_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:10.8725+00:00
 -- url     : https://prove2.me/theorems/c3d0a9cb-bdcb-48d1-9e6c-c48fff85d716

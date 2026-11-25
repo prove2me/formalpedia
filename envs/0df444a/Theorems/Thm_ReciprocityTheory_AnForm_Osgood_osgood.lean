@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_Osgood_osgood
 -- name    : ReciprocityTheory.AnForm.Osgood.osgood
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:57:56.54732+00:00
 -- url     : https://prove2.me/theorems/8a1c63c5-a121-49a2-b679-cbe2c84f564e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_fderiv_detAm
 -- name    : PositivityTheory.Rg.Sw.WR.B.fderiv_detAm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:05:52.746864+00:00
 -- url     : https://prove2.me/theorems/81ce0c06-8c7d-5238-9ee6-48e8a241e03b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_ccb_path_left
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.ccb_path_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:44:29.754747+00:00
 -- url     : https://prove2.me/theorems/730916df-90e3-4a7f-a1fa-17e76bd8355a

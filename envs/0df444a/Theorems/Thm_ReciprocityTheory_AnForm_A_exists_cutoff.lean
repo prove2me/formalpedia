@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_exists_cutoff
 -- name    : ReciprocityTheory.AnForm.A.exists_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:58.282427+00:00
 -- url     : https://prove2.me/theorems/a58238b0-d584-435e-9d79-605bd931e437

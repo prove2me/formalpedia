@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CntFormula_UG_exists_isom_selfDual
 -- name    : PI.UnitaryGroupMassFormula.CntFormula.UG.exists_isom_selfDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:36:02.545892+00:00
 -- url     : https://prove2.me/theorems/fcbf7300-04d8-4144-8cf5-8c6ef38c7555

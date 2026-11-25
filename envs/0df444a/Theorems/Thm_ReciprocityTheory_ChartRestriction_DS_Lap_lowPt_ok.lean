@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_lowPt_ok
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.lowPt_ok
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:45:56.96795+00:00
 -- url     : https://prove2.me/theorems/c677ff71-af0d-5b70-bc4d-141b3dcf9c02

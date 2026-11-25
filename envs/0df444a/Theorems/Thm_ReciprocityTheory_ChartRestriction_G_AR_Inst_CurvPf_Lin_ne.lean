@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_Lin_ne
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.Lin_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:56:53.422049+00:00
 -- url     : https://prove2.me/theorems/50a17eac-4eba-4383-9632-7c840d488992

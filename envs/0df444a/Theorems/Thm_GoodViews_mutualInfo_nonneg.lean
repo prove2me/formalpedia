@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodViews_mutualInfo_nonneg
 -- name    : GoodViews.mutualInfo_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T05:38:49.731465+00:00
 -- url     : https://prove2.me/theorems/e91ab817-1343-470c-b5bc-7d34a91f5edd

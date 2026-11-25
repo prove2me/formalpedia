@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_ker_Phi
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.ker_Phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:35:31.345046+00:00
 -- url     : https://prove2.me/theorems/a5bab66e-bfd7-4da0-b726-698a5666ef63

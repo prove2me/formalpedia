@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliAbstractCharacter_covUp_succ
 -- name    : Formalism.FourierDecayAlt.P.CapelliAbstractCharacter.covUp_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T18:54:56.41975+00:00
 -- url     : https://prove2.me/theorems/f75094af-f08e-48ee-98f7-49420677aa83

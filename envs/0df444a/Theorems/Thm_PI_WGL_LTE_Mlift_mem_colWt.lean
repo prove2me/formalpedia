@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTE_Mlift_mem_colWt
 -- name    : PI.WGL.LTE.Mlift_mem_colWt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:57:51.358989+00:00
 -- url     : https://prove2.me/theorems/bcf13ef5-b338-5a27-8d9b-fd79b1d03096

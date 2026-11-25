@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_scalar_section_mul_block_unipotent
 -- name    : PositivityTheory.Rg.Sw.LVs.scalar_section_mul_block_unipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:01:10.636047+00:00
 -- url     : https://prove2.me/theorems/24b0dd34-fb6a-5f97-84ee-6c465c9f02e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_gTBranch_of_steps
 -- name    : PI.WGB.gTBranch_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:57:22.431844+00:00
 -- url     : https://prove2.me/theorems/0305f112-f6e7-4209-a4c9-1557903cfb4f

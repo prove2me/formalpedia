@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_IsFil_log_growth
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.IsFil.log_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:19.376714+00:00
 -- url     : https://prove2.me/theorems/46f2f716-c3b0-54c5-b767-cf226bfd397f

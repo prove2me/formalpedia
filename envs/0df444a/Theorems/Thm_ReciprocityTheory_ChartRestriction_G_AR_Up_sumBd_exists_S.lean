@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_exists_S
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_exists_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:00:57.030842+00:00
 -- url     : https://prove2.me/theorems/2ef09daa-1068-4cd7-afd9-b23ea433eb6d

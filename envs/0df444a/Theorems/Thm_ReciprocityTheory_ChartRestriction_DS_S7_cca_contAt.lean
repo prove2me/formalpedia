@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_cca_contAt
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.cca_contAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:44:31.914354+00:00
 -- url     : https://prove2.me/theorems/d7cc340a-d5dd-5580-a2d1-2d640aab4bd2

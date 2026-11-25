@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_ArchimedeanConeVolume_lintegral_cylindrical
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.ArchimedeanConeVolume.lintegral_cylindrical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:55:09.577795+00:00
 -- url     : https://prove2.me/theorems/fbf32cbc-f0f4-4d04-9b4d-aa4b4d1c9bbc

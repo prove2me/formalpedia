@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_hasDerivAt_Gint
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.hasDerivAt_Gint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:50:16.829964+00:00
 -- url     : https://prove2.me/theorems/e875e299-d071-5752-94d9-6594632a66c0

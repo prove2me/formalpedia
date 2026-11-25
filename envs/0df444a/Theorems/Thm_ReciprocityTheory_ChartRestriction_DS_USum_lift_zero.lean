@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_USum_lift_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.USum.lift_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:45:25.090145+00:00
 -- url     : https://prove2.me/theorems/8a9cb193-5fcc-4d74-b945-0c96a063b1c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_maDens_comp_eq_zero_of_rank_lt
 -- name    : ReciprocityTheory.AnForm.maDens_comp_eq_zero_of_rank_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:46.82423+00:00
 -- url     : https://prove2.me/theorems/22f0d689-65ff-423e-908e-7a5de73af5ab

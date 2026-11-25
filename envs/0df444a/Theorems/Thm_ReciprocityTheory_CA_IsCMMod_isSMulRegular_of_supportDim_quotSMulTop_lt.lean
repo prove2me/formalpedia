@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCMMod_isSMulRegular_of_supportDim_quotSMulTop_lt
 -- name    : ReciprocityTheory.CA.IsCMMod.isSMulRegular_of_supportDim_quotSMulTop_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:37:36.611657+00:00
 -- url     : https://prove2.me/theorems/558c41de-af58-43f7-96db-81ac1d9764c6

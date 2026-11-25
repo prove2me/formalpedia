@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_avg
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:48:52.769397+00:00
 -- url     : https://prove2.me/theorems/a331e4d9-c487-5f5f-ba41-fb09a6389f32

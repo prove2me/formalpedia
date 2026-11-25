@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Geo_exists_coord
 -- name    : PositivityTheory.ThKF0.Geo.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:03:49.707193+00:00
 -- url     : https://prove2.me/theorems/cf206973-6cbc-5577-a652-ac5543d1b2c5

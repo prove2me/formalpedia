@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Aut_adic_le_one_of_poly
 -- name    : ReciprocityTheory.Aut.adic_le_one_of_poly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:37:26.321141+00:00
 -- url     : https://prove2.me/theorems/4423eb62-53e6-4927-9372-1e09aff0830c

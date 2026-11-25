@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_extC_isRadical
 -- name    : ReciprocityTheory.AnForm.R.extC_isRadical
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:23:26.305395+00:00
 -- url     : https://prove2.me/theorems/7dad8bfb-62b9-4acd-b000-c513c1a9d456

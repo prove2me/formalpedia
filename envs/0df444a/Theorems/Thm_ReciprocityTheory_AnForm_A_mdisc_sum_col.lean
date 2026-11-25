@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mdisc_sum_col
 -- name    : ReciprocityTheory.AnForm.A.mdisc_sum_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:19:47.197886+00:00
 -- url     : https://prove2.me/theorems/b76ab16c-60ac-461d-a651-20472409c26d

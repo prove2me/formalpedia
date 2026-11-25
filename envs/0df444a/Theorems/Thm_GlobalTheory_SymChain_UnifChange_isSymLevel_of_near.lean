@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_UnifChange_isSymLevel_of_near
 -- name    : GlobalTheory.SymChain.UnifChange.isSymLevel_of_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:31:27.358233+00:00
 -- url     : https://prove2.me/theorems/c79f4f33-723d-4326-b1ba-2d43275fb438

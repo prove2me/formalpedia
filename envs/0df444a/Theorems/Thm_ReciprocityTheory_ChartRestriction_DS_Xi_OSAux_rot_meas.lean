@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_rot_meas
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.rot_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:47:53.265661+00:00
 -- url     : https://prove2.me/theorems/b7829dda-39e9-493c-b3dc-2cfd64576a42

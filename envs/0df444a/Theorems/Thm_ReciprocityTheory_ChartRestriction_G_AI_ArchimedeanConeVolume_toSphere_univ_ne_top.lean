@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_ArchimedeanConeVolume_toSphere_univ_ne_top
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.ArchimedeanConeVolume.toSphere_univ_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:54:31.244802+00:00
 -- url     : https://prove2.me/theorems/eb0f2b6a-bcfc-4907-9903-1f8380fc7e0c

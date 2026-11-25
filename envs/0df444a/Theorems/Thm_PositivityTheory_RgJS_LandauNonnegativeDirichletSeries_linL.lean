@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_LandauNonnegativeDirichletSeries_linL
 -- name    : PositivityTheory.RgJS.LandauNonnegativeDirichletSeries.linL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:02:56.865433+00:00
 -- url     : https://prove2.me/theorems/705feac7-8b4d-4fce-a25e-1f87b897b923

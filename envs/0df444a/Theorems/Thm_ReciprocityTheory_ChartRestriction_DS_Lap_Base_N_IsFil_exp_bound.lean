@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_IsFil_exp_bound
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.IsFil.exp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:42:04.626254+00:00
 -- url     : https://prove2.me/theorems/47d20055-a177-4118-9926-aed39de28e90

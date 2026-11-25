@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_delSq_le_dual
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.delSq_le_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:28:06.347438+00:00
 -- url     : https://prove2.me/theorems/12c7ede9-d7d8-4d0b-a977-de5fb7ff9542

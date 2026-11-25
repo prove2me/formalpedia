@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_fnTrace_coe
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.fnTrace_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:01:53.713872+00:00
 -- url     : https://prove2.me/theorems/173f2298-e78f-5359-a237-fbd0062deb57

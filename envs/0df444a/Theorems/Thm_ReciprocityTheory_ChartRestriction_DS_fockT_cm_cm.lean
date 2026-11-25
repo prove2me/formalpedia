@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_fockT_cm_cm
 -- name    : ReciprocityTheory.ChartRestriction.DS.fockT_cm_cm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:53:44.784373+00:00
 -- url     : https://prove2.me/theorems/8550d6d8-24b9-52d9-be8c-99cb1ca4b837

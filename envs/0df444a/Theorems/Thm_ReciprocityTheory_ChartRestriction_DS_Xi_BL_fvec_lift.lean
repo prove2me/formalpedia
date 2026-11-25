@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_fvec_lift
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.fvec_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:47:04.810014+00:00
 -- url     : https://prove2.me/theorems/333d69b5-4704-5ec7-b79f-60cc0289db10

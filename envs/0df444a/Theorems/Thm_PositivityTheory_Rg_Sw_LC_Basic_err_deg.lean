@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_err_deg
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.err_deg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:41:04.309681+00:00
 -- url     : https://prove2.me/theorems/960aac4a-ebee-430e-a737-90c192a2923c

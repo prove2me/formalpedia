@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_KType_op_inv
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.KType.op_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:39:54.061236+00:00
 -- url     : https://prove2.me/theorems/bf95426c-e359-4338-88e6-5a70901c248b

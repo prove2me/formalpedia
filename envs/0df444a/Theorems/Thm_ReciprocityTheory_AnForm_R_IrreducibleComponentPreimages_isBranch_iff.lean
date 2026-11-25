@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_isBranch_iff
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.isBranch_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:28.356459+00:00
 -- url     : https://prove2.me/theorems/12b216b2-2e90-453a-8731-d288572ad766

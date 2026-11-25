@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJM_jointHarmonicsIffLaplacians
 -- name    : PI.FJM.jointHarmonicsIffLaplacians
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:08:14.570095+00:00
 -- url     : https://prove2.me/theorems/3e68253a-2bcf-428a-a441-024c4b8c7b80

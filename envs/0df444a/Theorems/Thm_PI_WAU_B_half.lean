@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_half
 -- name    : PI.WAU.B.half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:45:21.21195+00:00
 -- url     : https://prove2.me/theorems/89617241-83da-4d8f-b728-ef44d31aca15

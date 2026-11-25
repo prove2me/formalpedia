@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFPB_K_eq_sum
 -- name    : PositivityTheory.SiegelWeilFormula.KFPB.K_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:28.991237+00:00
 -- url     : https://prove2.me/theorems/9a530d56-98e4-5a4b-8dcf-baacfc0a7546

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_tsgPoly_coeff_odd
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.tsgPoly_coeff_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:55:19.651599+00:00
 -- url     : https://prove2.me/theorems/0cd7a09d-c3b9-58a9-9fc8-bb57a575b43f

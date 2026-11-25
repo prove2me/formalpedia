@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_ga_unit
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.ga_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:47:09.520868+00:00
 -- url     : https://prove2.me/theorems/aca0b325-fe96-5661-a2d0-b6d600d77088

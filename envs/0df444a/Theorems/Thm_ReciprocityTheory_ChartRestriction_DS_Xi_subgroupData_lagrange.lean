@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_subgroupData_lagrange
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.subgroupData.lagrange
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:48:51.371831+00:00
 -- url     : https://prove2.me/theorems/43d518be-3bac-4ee8-b844-5ef7b7ef0830

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_le_circleAverage_of_lap_nonneg
 -- name    : ReciprocityTheory.AnForm.A.PshLap.le_circleAverage_of_lap_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:05:01.911812+00:00
 -- url     : https://prove2.me/theorems/124a9706-eb3a-4843-b2de-25b9dc87be64

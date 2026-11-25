@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_TraceNormBounds_fnField_eq_adjoin
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.TraceNormBounds.fnField_eq_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:00:41.998255+00:00
 -- url     : https://prove2.me/theorems/7d3ca5b6-7f39-58f6-be68-78233ac54c76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_HSt_MI_hasDerivAt_curve
 -- name    : PositivityTheory.Rg.Sw.HSt.MI.hasDerivAt_curve
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:50.796631+00:00
 -- url     : https://prove2.me/theorems/d4f828eb-74d1-464f-b9e7-8a3560fe1d07

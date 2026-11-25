@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExhC_isClosed_psd
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExhC.isClosed_psd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:56:54.86129+00:00
 -- url     : https://prove2.me/theorems/7bd33eb4-482d-502f-ab64-82fecf97937e

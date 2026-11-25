@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_contract_of
 -- name    : PositivityTheory.Rg.Cz.contract_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:48:45.663807+00:00
 -- url     : https://prove2.me/theorems/e32e0e75-c05b-5e1d-a685-be2db625eb75

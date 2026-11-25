@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_JMA_xJ_comm
 -- name    : PositivityTheory.Rg.Cz.JMA.xJ_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:11.069048+00:00
 -- url     : https://prove2.me/theorems/596d0504-b340-4996-a63f-e05bbf769d81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_resid_poleV
 -- name    : ReciprocityTheory.ChartRestriction.DS.resid_poleV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:03.533948+00:00
 -- url     : https://prove2.me/theorems/b9d6357d-f0b6-48ce-a587-c793d76c6b90

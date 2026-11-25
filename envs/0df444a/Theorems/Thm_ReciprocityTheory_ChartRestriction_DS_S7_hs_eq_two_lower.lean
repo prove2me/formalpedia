@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_hs_eq_two_lower
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.hs_eq_two_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:51:03.124411+00:00
 -- url     : https://prove2.me/theorems/5c63dec7-11d7-5c5c-abdc-7067c1abd006

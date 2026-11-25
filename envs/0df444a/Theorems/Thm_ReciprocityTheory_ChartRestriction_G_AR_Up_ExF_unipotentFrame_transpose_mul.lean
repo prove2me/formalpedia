@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExF_unipotentFrame_transpose_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExF.unipotentFrame_transpose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:05:09.866172+00:00
 -- url     : https://prove2.me/theorems/ab8772d0-0117-54ad-820d-8a61bfdd0321

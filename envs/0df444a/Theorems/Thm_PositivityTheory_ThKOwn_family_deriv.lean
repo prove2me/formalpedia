@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_family_deriv
 -- name    : PositivityTheory.ThKOwn.family_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:05:38.262532+00:00
 -- url     : https://prove2.me/theorems/e1b280d8-d70d-4355-93a2-3fb894a1ba28

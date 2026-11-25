@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_segreRing_finiteType
 -- name    : ReciprocityTheory.AnForm.R.segreRing_finiteType
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:56.623565+00:00
 -- url     : https://prove2.me/theorems/7f43509a-e2f2-542c-a68c-104652a79d20

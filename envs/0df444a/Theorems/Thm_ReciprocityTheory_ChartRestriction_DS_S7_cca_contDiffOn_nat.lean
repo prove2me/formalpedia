@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_cca_contDiffOn_nat
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.cca_contDiffOn_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:16.569884+00:00
 -- url     : https://prove2.me/theorems/0bf3cf90-93cc-5638-bbba-cdf53a826194

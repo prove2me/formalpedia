@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_setIntegral_coset
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.setIntegral_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:07.334498+00:00
 -- url     : https://prove2.me/theorems/b92b997a-031b-4796-bfcc-d47b74ee2f53

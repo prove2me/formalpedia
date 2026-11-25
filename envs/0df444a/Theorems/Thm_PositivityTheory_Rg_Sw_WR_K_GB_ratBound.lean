@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_ratBound
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.ratBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:52.154417+00:00
 -- url     : https://prove2.me/theorems/7a250a0a-9fcc-42da-b19d-ee10c259aade

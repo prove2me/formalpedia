@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_quad_eq
 -- name    : PositivityTheory.ThKR.LL.quad_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:09.304997+00:00
 -- url     : https://prove2.me/theorems/865c85ba-e5d9-40fd-8e88-8760caf2dade

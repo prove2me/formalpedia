@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_CS_Dual_eq_zero
 -- name    : PositivityTheory.ThKEst.CS.Dual.eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:41.374141+00:00
 -- url     : https://prove2.me/theorems/2d858e7d-c705-42b1-98ad-28b16b12c776

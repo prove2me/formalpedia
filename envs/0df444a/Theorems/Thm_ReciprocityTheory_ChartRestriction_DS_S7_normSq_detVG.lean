@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_normSq_detVG
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.normSq_detVG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:49:43.303697+00:00
 -- url     : https://prove2.me/theorems/1a56d1bc-134a-56cb-989c-a5e8fef2bdce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_cosetInt_congr
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.cosetInt_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:51:35.541292+00:00
 -- url     : https://prove2.me/theorems/66993a9b-850e-43fc-9037-80bfb5cdc73a

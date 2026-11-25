@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_continuous_FT
 -- name    : PositivityTheory.ThKG.Loc.Bump.continuous_FT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:04:28.353745+00:00
 -- url     : https://prove2.me/theorems/224a39eb-d265-5684-a028-646f8d4e0a3f

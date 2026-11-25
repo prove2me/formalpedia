@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_LTC_polarization_of_constant
 -- name    : PI.WGL.LTC.polarization_of_constant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:45:47.105622+00:00
 -- url     : https://prove2.me/theorems/eb00b199-3449-5c1b-8c2c-4ab8d806e6ff

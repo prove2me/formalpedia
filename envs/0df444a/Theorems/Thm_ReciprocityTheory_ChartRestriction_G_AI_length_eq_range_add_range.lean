@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_length_eq_range_add_range
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.length_eq_range_add_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:54:44.260023+00:00
 -- url     : https://prove2.me/theorems/d07a64ab-3d35-5843-a28e-39da985330d1

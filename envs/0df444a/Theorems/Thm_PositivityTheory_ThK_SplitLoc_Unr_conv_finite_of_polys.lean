@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_conv_finite_of_polys
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.conv_finite_of_polys
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:41.476091+00:00
 -- url     : https://prove2.me/theorems/5af702f4-39f0-4658-b4b1-fafb6c4d0fc0

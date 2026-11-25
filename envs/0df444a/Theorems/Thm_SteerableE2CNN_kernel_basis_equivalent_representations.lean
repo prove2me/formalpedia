@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteerableE2CNN_kernel_basis_equivalent_representations
 -- name    : SteerableE2CNN.kernel_basis_equivalent_representations
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:38:43.546281+00:00
 -- url     : https://prove2.me/theorems/aad99e1c-e630-4614-a9e3-4252e49555fe

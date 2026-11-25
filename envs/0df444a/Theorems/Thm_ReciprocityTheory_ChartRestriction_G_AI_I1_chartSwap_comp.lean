@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_chartSwap_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.chartSwap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:54:40.826427+00:00
 -- url     : https://prove2.me/theorems/930ef7f0-670b-4a8b-a97d-65fede39514a

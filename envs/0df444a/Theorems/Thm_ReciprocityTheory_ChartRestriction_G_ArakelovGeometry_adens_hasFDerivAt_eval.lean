@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adens_hasFDerivAt_eval
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adens_hasFDerivAt_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:02:28.146874+00:00
 -- url     : https://prove2.me/theorems/a0ea1612-6bbd-5e21-b119-3921fe95c49b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_rightHol_commutator
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.rightHol_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:45:50.31882+00:00
 -- url     : https://prove2.me/theorems/4cb01cd3-dd11-5412-aa26-a82541d1c263

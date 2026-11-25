@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_algA
 -- name    : PositivityTheory.Rg.Sw.WR.D.algA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:46.262251+00:00
 -- url     : https://prove2.me/theorems/b7703c5c-0df6-4e6f-8dcb-88d9f8f9def5

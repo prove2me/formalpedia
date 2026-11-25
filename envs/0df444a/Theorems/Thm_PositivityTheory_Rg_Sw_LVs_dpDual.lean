@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_dpDual
 -- name    : PositivityTheory.Rg.Sw.LVs.dpDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:59:46.893984+00:00
 -- url     : https://prove2.me/theorems/3ace16dc-e444-4b08-93c2-2cf94344c14a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lfa_basis_list
 -- name    : ReciprocityTheory.ChartRestriction.DS.lfa_basis_list
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:54:38.463054+00:00
 -- url     : https://prove2.me/theorems/3a0d0987-56ce-55be-9ca5-dc59f1169a29

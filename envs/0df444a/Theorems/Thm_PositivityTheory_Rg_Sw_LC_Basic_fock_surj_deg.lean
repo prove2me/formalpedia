@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_fock_surj_deg
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.fock_surj_deg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:55:23.224672+00:00
 -- url     : https://prove2.me/theorems/dc7742cc-9c47-49d9-8d2e-844e8301c8a3

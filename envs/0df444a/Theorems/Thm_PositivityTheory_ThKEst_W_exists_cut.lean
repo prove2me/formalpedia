@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_W_exists_cut
 -- name    : PositivityTheory.ThKEst.W.exists_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:23.358879+00:00
 -- url     : https://prove2.me/theorems/d82322ae-03fb-46b6-abac-de4132152c3f

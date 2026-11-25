@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefC_exp_entry_summable
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefC_exp_entry_summable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:10:00.902806+00:00
 -- url     : https://prove2.me/theorems/abe79c51-7ff3-4912-b004-3569f3968d5b

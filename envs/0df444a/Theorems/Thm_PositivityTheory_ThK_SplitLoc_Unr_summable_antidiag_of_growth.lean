@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_summable_antidiag_of_growth
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.summable_antidiag_of_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:52:01.566075+00:00
 -- url     : https://prove2.me/theorems/548edd7c-ac73-48bc-b6b5-e5f17265325e

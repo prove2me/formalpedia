@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsSubquotient_of_surjective
 -- name    : GroundTheory.Automorphic.IsSubquotient.of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:12.097901+00:00
 -- url     : https://prove2.me/theorems/4a159622-9d49-5ff3-90ee-7420737b0a7d

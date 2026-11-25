@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_fubini_step
 -- name    : PositivityTheory.Rg.Sw.LVs.fubini_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:59:23.682404+00:00
 -- url     : https://prove2.me/theorems/1d017ea4-09e8-4295-81ab-d9c536bd1925

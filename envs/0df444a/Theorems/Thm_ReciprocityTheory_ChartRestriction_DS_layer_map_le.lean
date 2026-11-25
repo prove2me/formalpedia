@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_layer_map_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.layer_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:54:05.893807+00:00
 -- url     : https://prove2.me/theorems/e55ce8b4-5dae-5018-a477-891bc50b44b5

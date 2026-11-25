@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_det_one_add_ge
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_det_one_add_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:47:09.377976+00:00
 -- url     : https://prove2.me/theorems/5cf1c54b-727e-479e-bf2a-04b936425975

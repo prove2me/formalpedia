@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_det_Y_ne
 -- name    : PositivityTheory.Rg.Sw.WR.Z.det_Y_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:09:15.735796+00:00
 -- url     : https://prove2.me/theorems/1063e541-2726-502a-aa9e-3486cee6d36a

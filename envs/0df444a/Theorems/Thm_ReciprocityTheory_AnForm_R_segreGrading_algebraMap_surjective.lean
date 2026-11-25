@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_segreGrading_algebraMap_surjective
 -- name    : ReciprocityTheory.AnForm.R.segreGrading_algebraMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:12.033546+00:00
 -- url     : https://prove2.me/theorems/ddc9628b-4611-525f-96c5-dfd83088c58b

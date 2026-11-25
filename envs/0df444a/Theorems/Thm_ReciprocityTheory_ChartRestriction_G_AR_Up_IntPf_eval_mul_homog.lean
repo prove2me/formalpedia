@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_IntPf_eval_mul_homog
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.IntPf.eval_mul_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:57:13.232913+00:00
 -- url     : https://prove2.me/theorems/cfa29b4c-4173-49f8-a680-67b3c267eb33

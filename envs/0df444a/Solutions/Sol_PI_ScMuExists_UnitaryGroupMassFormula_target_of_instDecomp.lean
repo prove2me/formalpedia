@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for PI.ScMuExists.UnitaryGroupMassFormula.target_of_instDecomp
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T12:10:03.409989+00:00
+-- url     : https://prove2.me/submissions/cec226a7-ed3f-42ac-9ffe-82180d600e3c
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_ScMuExists
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_InstDecomp
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_InstLeftInvMuInf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_GenericWeilRepresentation
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_HaarSub
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_GenSemiOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_ModOne
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_ContinuousUMatApply
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_Proper
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MeasureDecomposition_TargetOfInstDecomp
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_genModOne_of
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_genSemi_of
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_generic_haar_subgroup
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_generic_weil_representation
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_measure_subFacts
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_proper_action_instance
+import Theorems.Thm_PI_ScMuExists_UnitaryGroupMassFormula_target_of_steps
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PI PI.ScMuExists PI.ScMuExists.UnitaryGroupMassFormula
+namespace PI.ScMuExists.UnitaryGroupMassFormula
+theorem _root_.solution (hd : InstDecomp) : PI.ScMuExists.Target :=
+  target_of_steps generic_haar_subgroup (genSemi_of generic_haar_subgroup) generic_weil_representation measure_subFacts
+    (genModOne_of generic_haar_subgroup) hd proper_action_instance
+end PI.ScMuExists.UnitaryGroupMassFormula

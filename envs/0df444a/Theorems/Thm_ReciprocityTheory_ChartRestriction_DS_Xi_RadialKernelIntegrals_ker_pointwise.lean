@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RadialKernelIntegrals_ker_pointwise
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RadialKernelIntegrals.ker_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:49:16.245438+00:00
 -- url     : https://prove2.me/theorems/0e07425c-1ec9-5cee-b335-405166b7fb83

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_fieldGen
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.fieldGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:52.742993+00:00
 -- url     : https://prove2.me/theorems/56ece0a7-bf4d-43f3-8ea6-c8df2aa962fa

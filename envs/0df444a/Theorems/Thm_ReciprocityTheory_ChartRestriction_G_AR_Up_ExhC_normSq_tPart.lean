@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExhC_normSq_tPart
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExhC.normSq_tPart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:13:48.38646+00:00
 -- url     : https://prove2.me/theorems/f9b7ae4d-9b6c-43de-93d2-81bad13ca7c2

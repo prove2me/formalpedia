@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_locDens_congr_phi
 -- name    : ReciprocityTheory.AnForm.M.PLC.locDens_congr_phi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:21:15.181807+00:00
 -- url     : https://prove2.me/theorems/5dc75416-bb6d-4560-9c4a-8e171c9e4a2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_coeff2_det_of
 -- name    : ReciprocityTheory.AnForm.P.coeff2_det_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:58:21.724798+00:00
 -- url     : https://prove2.me/theorems/0854abdb-dc67-419d-92c0-2021567b21a6

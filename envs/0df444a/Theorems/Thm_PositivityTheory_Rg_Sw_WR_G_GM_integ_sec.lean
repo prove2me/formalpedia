@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GM_integ_sec
 -- name    : PositivityTheory.Rg.Sw.WR.G.GM.integ_sec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:06:36.000801+00:00
 -- url     : https://prove2.me/theorems/b19d4ed2-b0c4-5bc8-af23-d5760d4eeadb

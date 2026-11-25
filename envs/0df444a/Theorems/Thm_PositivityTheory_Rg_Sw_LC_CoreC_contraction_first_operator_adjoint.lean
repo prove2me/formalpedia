@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_CoreC_contraction_first_operator_adjoint
 -- name    : PositivityTheory.Rg.Sw.LC.CoreC.contraction_first_operator_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:56:37.16285+00:00
 -- url     : https://prove2.me/theorems/07bc37cd-f52e-4454-856b-d7e93f119f8c

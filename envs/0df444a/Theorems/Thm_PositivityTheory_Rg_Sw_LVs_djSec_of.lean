@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_djSec_of
 -- name    : PositivityTheory.Rg.Sw.LVs.djSec_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:59:07.571887+00:00
 -- url     : https://prove2.me/theorems/105de852-8b7f-47b9-8ef7-3801334ed40c

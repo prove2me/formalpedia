@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUPf_row_sys
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUPf.row_sys
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:59:48.266151+00:00
 -- url     : https://prove2.me/theorems/f54c150c-7970-529c-83cd-709bc482678b

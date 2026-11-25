@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_pm_sum_perm_reindex
 -- name    : ReciprocityTheory.AnForm.A.pm_sum_perm_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:19:47.522048+00:00
 -- url     : https://prove2.me/theorems/5a5b4b90-01e1-47f8-82c2-3dfb97e2966e

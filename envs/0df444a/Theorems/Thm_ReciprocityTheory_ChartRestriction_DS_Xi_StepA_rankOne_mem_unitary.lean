@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_rankOne_mem_unitary
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.rankOne_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:25:17.780423+00:00
 -- url     : https://prove2.me/theorems/d999ed30-4f54-4e93-b817-7a72ca04a83b

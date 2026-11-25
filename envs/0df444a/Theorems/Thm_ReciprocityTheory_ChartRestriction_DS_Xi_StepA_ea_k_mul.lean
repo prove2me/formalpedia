@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_ea_k_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.ea_k_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:49:50.503111+00:00
 -- url     : https://prove2.me/theorems/a8f2ab2f-f7d9-4ba5-84eb-508a1b066d2e

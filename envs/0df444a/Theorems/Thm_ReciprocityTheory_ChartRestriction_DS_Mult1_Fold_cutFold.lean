@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_Fold_cutFold
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.Fold.cutFold
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:42:50.811423+00:00
 -- url     : https://prove2.me/theorems/b2448289-ce93-4386-9bdd-91d2f7bc47a5

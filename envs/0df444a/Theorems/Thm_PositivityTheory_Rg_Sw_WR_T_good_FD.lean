@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_T_good_FD
 -- name    : PositivityTheory.Rg.Sw.WR.T.good_FD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:09:01.503689+00:00
 -- url     : https://prove2.me/theorems/9ec34189-00ed-5cfb-a61a-131c46b9518e

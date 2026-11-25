@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_segreMap_aeval_update
 -- name    : ReciprocityTheory.AnForm.R.segreMap_aeval_update
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:22.655959+00:00
 -- url     : https://prove2.me/theorems/4ca10ae4-cddb-43c8-9e64-723fedc6d3ba

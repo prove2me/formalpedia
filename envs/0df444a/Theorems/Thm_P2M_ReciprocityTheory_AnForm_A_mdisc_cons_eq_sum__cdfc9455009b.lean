@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_A_mdisc_cons_eq_sum__cdfc9455009b
 -- name    : P2M_ReciprocityTheory_AnForm_A_mdisc_cons_eq_sum__cdfc9455009b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:11:26.126938+00:00
 -- url     : https://prove2.me/theorems/eadda427-a31f-44b9-9162-58562657bfeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_weylSum_card_pIdx
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.weylSum_card_pIdx
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:43:54.970104+00:00
 -- url     : https://prove2.me/theorems/4d0ac936-44a8-51b9-989a-1dc2eb6109f3

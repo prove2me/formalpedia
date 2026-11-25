@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_kfa_toMK
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.kfa_toMK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:50:31.449059+00:00
 -- url     : https://prove2.me/theorems/39773f6a-e5ac-5e99-b1de-bbaab02dd8b1

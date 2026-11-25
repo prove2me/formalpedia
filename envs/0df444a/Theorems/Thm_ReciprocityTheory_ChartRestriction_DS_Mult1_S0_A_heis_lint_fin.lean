@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_S0_A_heis_lint_fin
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.S0.A.heis_lint_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:42:48.864204+00:00
 -- url     : https://prove2.me/theorems/67b9fe44-f9c4-5b82-9ad3-21472f3dc33d

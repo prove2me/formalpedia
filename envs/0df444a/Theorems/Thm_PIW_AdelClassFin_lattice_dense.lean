@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_lattice_dense
 -- name    : PIW.AdelClassFin.lattice_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:48:30.886411+00:00
 -- url     : https://prove2.me/theorems/66237b1f-6d89-4f5f-bd9c-e0c99d4bd351

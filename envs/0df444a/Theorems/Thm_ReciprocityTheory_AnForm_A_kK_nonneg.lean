@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_kK_nonneg
 -- name    : ReciprocityTheory.AnForm.A.kK_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:06:17.736794+00:00
 -- url     : https://prove2.me/theorems/a1c931f2-a10d-5a4d-b90a-1df7118a874a

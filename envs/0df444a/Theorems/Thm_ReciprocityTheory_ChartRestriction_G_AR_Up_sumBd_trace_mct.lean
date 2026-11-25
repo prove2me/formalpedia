@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_trace_mct
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_trace_mct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:02:41.837654+00:00
 -- url     : https://prove2.me/theorems/914b1d70-e4db-5c7b-9970-0b9daa5eda6e

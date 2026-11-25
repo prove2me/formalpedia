@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_add_height_Ici_le
 -- name    : ReciprocityTheory.CA.height_add_height_Ici_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:38:50.56643+00:00
 -- url     : https://prove2.me/theorems/039e68ab-770a-48d4-b5df-eaa4075e431e

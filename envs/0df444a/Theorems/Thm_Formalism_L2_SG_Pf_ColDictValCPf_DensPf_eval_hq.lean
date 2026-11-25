@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_DensPf_eval_hq
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.DensPf.eval_hq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:37:54.816169+00:00
 -- url     : https://prove2.me/theorems/10a9928e-fa80-46c2-a2f7-3fe7df5514a4

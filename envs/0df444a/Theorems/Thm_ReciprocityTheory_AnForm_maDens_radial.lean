@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_maDens_radial
 -- name    : ReciprocityTheory.AnForm.maDens_radial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:42:01.991366+00:00
 -- url     : https://prove2.me/theorems/653a3dc2-63f6-403e-8ffc-52cb7622064b

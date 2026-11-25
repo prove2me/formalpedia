@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_delta_herm
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.delta_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:02:38.933494+00:00
 -- url     : https://prove2.me/theorems/2fe00800-c380-4f1d-8fae-b6d8f3e6e4b2

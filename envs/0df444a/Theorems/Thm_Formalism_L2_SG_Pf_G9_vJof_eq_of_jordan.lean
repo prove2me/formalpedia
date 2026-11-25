@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G9_vJof_eq_of_jordan
 -- name    : Formalism.L2.SG.Pf.G9.vJof_eq_of_jordan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:37:05.239789+00:00
 -- url     : https://prove2.me/theorems/ea0fd471-388b-54a8-bb5a-d401e580a5b7

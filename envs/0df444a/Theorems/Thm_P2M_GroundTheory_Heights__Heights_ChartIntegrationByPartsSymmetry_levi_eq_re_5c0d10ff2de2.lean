@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_levi_eq_re_5c0d10ff2de2
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_levi_eq_re_5c0d10ff2de2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:29:31.345867+00:00
 -- url     : https://prove2.me/theorems/5a804a08-ff86-49cb-a49d-c4458abdf541

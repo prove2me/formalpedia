@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mdisc_swap_row
 -- name    : ReciprocityTheory.AnForm.A.mdisc_swap_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:19:42.995883+00:00
 -- url     : https://prove2.me/theorems/4b35081a-18be-46fc-b401-66245ab71559

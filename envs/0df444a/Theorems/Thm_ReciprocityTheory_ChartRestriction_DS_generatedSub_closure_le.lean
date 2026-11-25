@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_generatedSub_closure_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.generatedSub_closure_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:53:21.877909+00:00
 -- url     : https://prove2.me/theorems/48e0f1ed-3399-559e-ac40-b42b172fef72

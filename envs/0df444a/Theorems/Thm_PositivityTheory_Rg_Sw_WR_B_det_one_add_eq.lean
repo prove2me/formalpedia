@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_det_one_add_eq
 -- name    : PositivityTheory.Rg.Sw.WR.B.det_one_add_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:50:12.061484+00:00
 -- url     : https://prove2.me/theorems/39f9e565-372c-4872-b204-9b7d06e1b3e6

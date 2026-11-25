@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pushA_sum_finsum
 -- name    : ReciprocityTheory.AnForm.M.pushA_sum_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:14.422134+00:00
 -- url     : https://prove2.me/theorems/ddd3a466-3aff-4da0-bd5c-d83419e8e977

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_frame
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:17.034256+00:00
 -- url     : https://prove2.me/theorems/f57fd138-6a3b-53dd-8adc-47d9da51b94a

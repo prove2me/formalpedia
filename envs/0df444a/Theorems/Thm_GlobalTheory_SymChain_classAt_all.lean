@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymChain_classAt_all
 -- name    : GlobalTheory.SymChain.classAt_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:37:24.455621+00:00
 -- url     : https://prove2.me/theorems/95f49623-1f6d-44bd-977b-347f53dff716

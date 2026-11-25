@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WickFormula_Gen_powXL_holds
 -- name    : PI.WickFormula.Gen.powXL_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:46:36.962554+00:00
 -- url     : https://prove2.me/theorems/a1cf43c4-1e73-494c-8b41-993299ac5fd5

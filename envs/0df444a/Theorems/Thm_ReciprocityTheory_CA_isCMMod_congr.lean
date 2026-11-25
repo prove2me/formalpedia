@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_isCMMod_congr
 -- name    : ReciprocityTheory.CA.isCMMod_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:03:09.622976+00:00
 -- url     : https://prove2.me/theorems/b8e7ab7a-15a7-4c04-923e-255939a3e187

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_card_quot_chain
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.card_quot_chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:04:34.952862+00:00
 -- url     : https://prove2.me/theorems/3bec1e3e-50a7-4349-af0f-47f1b9491c1b

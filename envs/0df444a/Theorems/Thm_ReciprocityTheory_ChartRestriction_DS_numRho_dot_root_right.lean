@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_numRho_dot_root_right
 -- name    : ReciprocityTheory.ChartRestriction.DS.numRho_dot_root_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:54:35.014191+00:00
 -- url     : https://prove2.me/theorems/56abc859-56b2-597b-92a1-16105c3370f6

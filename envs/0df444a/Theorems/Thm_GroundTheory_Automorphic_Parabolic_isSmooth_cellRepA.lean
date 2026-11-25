@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isSmooth_cellRepA
 -- name    : GroundTheory.Automorphic.Parabolic.isSmooth_cellRepA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:48:42.3469+00:00
 -- url     : https://prove2.me/theorems/dc59dc48-a0aa-467a-aa50-91ac72a2191c

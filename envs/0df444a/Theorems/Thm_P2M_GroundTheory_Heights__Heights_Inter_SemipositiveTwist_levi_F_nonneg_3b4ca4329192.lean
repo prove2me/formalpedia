@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemipositiveTwist_levi_F_nonneg_3b4ca4329192
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemipositiveTwist_levi_F_nonneg_3b4ca4329192
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:27:59.67394+00:00
 -- url     : https://prove2.me/theorems/52683951-3e49-5697-a7fb-86ef56333a39

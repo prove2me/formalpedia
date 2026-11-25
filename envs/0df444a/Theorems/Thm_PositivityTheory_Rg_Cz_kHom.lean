@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_kHom
 -- name    : PositivityTheory.Rg.Cz.kHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:53:53.938325+00:00
 -- url     : https://prove2.me/theorems/4f36c3ab-e959-4329-9cb4-aa0bec6cdfe4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_pre_op_curve
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.pre_op_curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T14:14:37.375332+00:00
 -- url     : https://prove2.me/theorems/d1bf403e-5530-4709-a26e-c1f4eb3acb3d

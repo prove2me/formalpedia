@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_rankOneMatrix_lift
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.rankOneMatrix_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:56:34.459794+00:00
 -- url     : https://prove2.me/theorems/a89d1ea6-d62b-423b-b1c3-eb5ec852625e

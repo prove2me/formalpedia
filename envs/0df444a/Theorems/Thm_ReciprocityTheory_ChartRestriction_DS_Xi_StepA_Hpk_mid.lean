@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_Hpk_mid
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.Hpk_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:49:58.186959+00:00
 -- url     : https://prove2.me/theorems/4ce2b3ff-a7fd-432e-b88a-b50d5af1c6fd

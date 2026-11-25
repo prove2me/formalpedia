@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_eq_of_mem_parPrime
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.eq_of_mem_parPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:40.250915+00:00
 -- url     : https://prove2.me/theorems/d3f6e87e-dde7-4bc8-a1b3-13ba88e0cc16

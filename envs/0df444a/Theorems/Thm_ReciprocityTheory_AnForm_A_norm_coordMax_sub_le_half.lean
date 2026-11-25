@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_norm_coordMax_sub_le_half
 -- name    : ReciprocityTheory.AnForm.A.norm_coordMax_sub_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:56.059515+00:00
 -- url     : https://prove2.me/theorems/35abfad1-57e8-557d-b1d4-92309461a8cc

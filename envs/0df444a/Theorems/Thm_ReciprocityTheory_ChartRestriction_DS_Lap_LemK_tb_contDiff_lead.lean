@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_tb_contDiff_lead
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.tb_contDiff_lead
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:15.645649+00:00
 -- url     : https://prove2.me/theorems/faf6cc5b-6a2a-5e22-8cf3-b27fae0e6732

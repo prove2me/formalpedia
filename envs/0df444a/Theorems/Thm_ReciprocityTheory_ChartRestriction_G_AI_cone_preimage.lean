@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_cone_preimage
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.cone_preimage
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:50.032944+00:00
 -- url     : https://prove2.me/theorems/4038930e-12c5-5f7f-a462-ae58c750ad46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_OmFibG_gramFilt_all
 -- name    : PI.VolStabSW.OmFibG.gramFilt_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:05:04.909997+00:00
 -- url     : https://prove2.me/theorems/77bf65e0-4145-4e8c-93ee-cbb396ff39a2

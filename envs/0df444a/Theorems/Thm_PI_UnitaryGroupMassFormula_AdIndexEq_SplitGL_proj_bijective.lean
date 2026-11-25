@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_SplitGL_proj_bijective
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.SplitGL.proj_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:51:28.430619+00:00
 -- url     : https://prove2.me/theorems/619792e1-57e6-4c58-a905-124e6d21b1f6

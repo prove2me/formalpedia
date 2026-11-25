@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_differentiable_fderiv_apply
 -- name    : GlobalTheory.ThetaGauss.differentiable_fderiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:48:46.299866+00:00
 -- url     : https://prove2.me/theorems/0214f3bd-b780-425b-80bb-04fca7320b0a

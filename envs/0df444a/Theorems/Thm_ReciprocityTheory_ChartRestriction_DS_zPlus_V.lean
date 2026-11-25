@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_zPlus_V
 -- name    : ReciprocityTheory.ChartRestriction.DS.zPlus_V
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:57:32.763039+00:00
 -- url     : https://prove2.me/theorems/217f76fd-57bb-5bff-9128-5b3bdc0d00e1

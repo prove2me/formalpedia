@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_B3_closure_prop
 -- name    : PositivityTheory.Rg.Sw.LC.B3.closure_prop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:55:03.641094+00:00
 -- url     : https://prove2.me/theorems/87eea9be-fbf3-532b-9584-46af4e25a428

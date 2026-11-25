@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_prho_sub_kron
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.prho_sub_kron
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:41:29.753581+00:00
 -- url     : https://prove2.me/theorems/65affa50-d419-472f-a948-abfa672bedb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_oneMom
 -- name    : PositivityTheory.Rg.Sw.LC.oneMom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:03.228749+00:00
 -- url     : https://prove2.me/theorems/0f164dab-21bb-4f48-8686-2d091faeaf9b

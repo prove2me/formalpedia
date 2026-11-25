@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrProdA_rpTail_gen
 -- name    : PI.VolStabW.RestrProdA.rpTail_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:44:54.710238+00:00
 -- url     : https://prove2.me/theorems/ef62b180-44a2-41f4-b7fb-61bc114e49e6

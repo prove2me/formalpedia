@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_successive_vector_majorant_e
 -- name    : PIW.AdelClassFin.successive_vector_majorant_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:47.200586+00:00
 -- url     : https://prove2.me/theorems/5eaffa51-421f-4489-831b-9aafcbefafe1

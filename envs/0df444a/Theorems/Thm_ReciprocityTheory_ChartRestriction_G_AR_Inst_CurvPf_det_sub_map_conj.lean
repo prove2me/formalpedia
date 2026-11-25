@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_det_sub_map_conj
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.det_sub_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:05:33.131539+00:00
 -- url     : https://prove2.me/theorems/3620e098-f647-5ef8-ae15-88611cc23251

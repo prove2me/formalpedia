@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_lattice_denominator
 -- name    : PIW.AdelClassFin.lattice_denominator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:47:45.674385+00:00
 -- url     : https://prove2.me/theorems/6ae83064-5fef-4e0f-856e-bc30efc0e7eb

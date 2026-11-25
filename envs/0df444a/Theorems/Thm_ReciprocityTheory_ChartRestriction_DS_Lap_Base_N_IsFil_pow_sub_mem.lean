@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_IsFil_pow_sub_mem
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.IsFil.pow_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:46.503873+00:00
 -- url     : https://prove2.me/theorems/e2b49f09-035a-470d-b6e4-53b32a812a62

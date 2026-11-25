@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_c1
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:50:33.428364+00:00
 -- url     : https://prove2.me/theorems/e697ec08-8cbf-54be-a448-adefe120c999

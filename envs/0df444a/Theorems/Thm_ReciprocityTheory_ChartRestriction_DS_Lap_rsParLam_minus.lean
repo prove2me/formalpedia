@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_rsParLam_minus
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.rsParLam_minus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:59.177307+00:00
 -- url     : https://prove2.me/theorems/d3b40f96-4380-523f-8057-f63473532221

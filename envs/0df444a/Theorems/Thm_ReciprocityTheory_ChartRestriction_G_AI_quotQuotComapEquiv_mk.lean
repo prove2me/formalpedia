@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_quotQuotComapEquiv_mk
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.quotQuotComapEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:24.958191+00:00
 -- url     : https://prove2.me/theorems/605c1548-8a7a-44b9-b5fc-1cfed079eb8b

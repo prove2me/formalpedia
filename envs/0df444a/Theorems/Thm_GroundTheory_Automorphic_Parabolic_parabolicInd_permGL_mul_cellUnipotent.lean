@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_parabolicInd_permGL_mul_cellUnipotent
 -- name    : GroundTheory.Automorphic.Parabolic.parabolicInd_permGL_mul_cellUnipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:48:12.232038+00:00
 -- url     : https://prove2.me/theorems/4c5c359a-6d11-5f4c-8c98-96c8cb056363

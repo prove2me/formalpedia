@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KLI_mom1
 -- name    : PositivityTheory.SiegelWeilFormula.KLI.mom1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:16.959471+00:00
 -- url     : https://prove2.me/theorems/cd521bd4-878e-4cfc-98b9-d3cd8b5558a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_TopClm_opNorm_le_one_of_isometry
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.TopClm.opNorm_le_one_of_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:43:06.542717+00:00
 -- url     : https://prove2.me/theorems/6096d76f-d632-4fc4-a1b8-a986a79b609c

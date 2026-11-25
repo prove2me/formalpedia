@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_posDef_one_add
 -- name    : PositivityTheory.Rg.Sw.WR.B.posDef_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:50:27.81548+00:00
 -- url     : https://prove2.me/theorems/416f7404-835e-47c2-aed4-4698e500f925

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_shifted_mem_weightSpace
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.shifted_mem_weightSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:48:21.321065+00:00
 -- url     : https://prove2.me/theorems/7dd77cb5-780a-45f1-85a8-a90ae170a7e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_rhoC_eMi
 -- name    : PI.WeylForKWork.rhoC_eMi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:46:42.744661+00:00
 -- url     : https://prove2.me/theorems/927f6eff-e7e8-536e-9064-ee8831cfe98a

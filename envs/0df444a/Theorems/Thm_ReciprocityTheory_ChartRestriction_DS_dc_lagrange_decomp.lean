@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_dc_lagrange_decomp
 -- name    : ReciprocityTheory.ChartRestriction.DS.dc_lagrange_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:36:59.819882+00:00
 -- url     : https://prove2.me/theorems/07052286-8e59-4afe-99d8-d57abacd9ac8

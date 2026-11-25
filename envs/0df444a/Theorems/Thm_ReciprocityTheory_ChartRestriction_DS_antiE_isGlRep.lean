@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_antiE_isGlRep
 -- name    : ReciprocityTheory.ChartRestriction.DS.antiE_isGlRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:50:59.789804+00:00
 -- url     : https://prove2.me/theorems/aebf173b-4390-5b2d-97aa-c0fdf715e7b0

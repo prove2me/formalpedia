@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_jset_hc
 -- name    : PI.FJMF.jset_hc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:22.260465+00:00
 -- url     : https://prove2.me/theorems/462acf90-6814-4b6f-802d-6f2efbc5670a

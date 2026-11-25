@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_hop_tr_false
 -- name    : PositivityTheory.Rg.Sw.LC.hop_tr_false
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:45.492898+00:00
 -- url     : https://prove2.me/theorems/ed63234e-ebd1-4995-a8f4-bb8f74352e1e

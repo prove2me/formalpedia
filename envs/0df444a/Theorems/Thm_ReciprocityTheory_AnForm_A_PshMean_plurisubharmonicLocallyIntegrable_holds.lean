@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshMean_plurisubharmonicLocallyIntegrable_holds
 -- name    : ReciprocityTheory.AnForm.A.PshMean.plurisubharmonicLocallyIntegrable_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:17.922981+00:00
 -- url     : https://prove2.me/theorems/54e59f5a-bcd9-4833-b087-49c2437b5e28

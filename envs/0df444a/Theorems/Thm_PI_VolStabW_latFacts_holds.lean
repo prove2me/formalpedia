@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_latFacts_holds
 -- name    : PI.VolStabW.latFacts_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:38:54.386613+00:00
 -- url     : https://prove2.me/theorems/690a0762-207a-47d6-8040-62871c677cc2

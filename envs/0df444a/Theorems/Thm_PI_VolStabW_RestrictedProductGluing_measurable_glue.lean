@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RestrictedProductGluing_measurable_glue
 -- name    : PI.VolStabW.RestrictedProductGluing.measurable_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:40:55.250243+00:00
 -- url     : https://prove2.me/theorems/dd87321f-0d9d-5fa8-891f-38b9d9806239

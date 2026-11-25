@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUB_cell_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUB.cell_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:07:56.690579+00:00
 -- url     : https://prove2.me/theorems/6ea622e7-77a2-5d8d-9a4f-602a21b69e73

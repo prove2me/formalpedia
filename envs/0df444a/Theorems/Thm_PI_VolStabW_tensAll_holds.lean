@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_tensAll_holds
 -- name    : PI.VolStabW.tensAll_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:15:39.728616+00:00
 -- url     : https://prove2.me/theorems/75c01ecf-d7b0-4d99-b23e-6ded9c1c9247

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_potSmoothOn
 -- name    : ReciprocityTheory.AnForm.M.potSmoothOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:32:35.973386+00:00
 -- url     : https://prove2.me/theorems/7f6282e3-e1d9-5719-b092-6638dc883159

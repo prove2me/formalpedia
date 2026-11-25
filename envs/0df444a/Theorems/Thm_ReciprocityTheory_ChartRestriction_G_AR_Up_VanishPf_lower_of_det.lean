@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_VanishPf_lower_of_det
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.VanishPf.lower_of_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:04:02.048166+00:00
 -- url     : https://prove2.me/theorems/6d42726b-a63a-55fa-b4a7-d32bb1d6a483

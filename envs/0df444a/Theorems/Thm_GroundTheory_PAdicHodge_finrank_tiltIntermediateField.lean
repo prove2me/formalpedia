@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_finrank_tiltIntermediateField
 -- name    : GroundTheory.PAdicHodge.finrank_tiltIntermediateField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:42:31.156802+00:00
 -- url     : https://prove2.me/theorems/c5aaf0d8-947c-4e0b-9c18-dd2b0a23dbbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_KTypeIsomorphism_gns_extend
 -- name    : ReciprocityTheory.ChartRestriction.DS.KTypeIsomorphism.gns_extend
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:01:45.180726+00:00
 -- url     : https://prove2.me/theorems/a02a7e94-e457-4325-a58d-5b7b03518621

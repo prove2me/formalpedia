@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_Jm_eq_sum
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.Jm_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:13:27.990442+00:00
 -- url     : https://prove2.me/theorems/7a96819f-7ff7-4093-afd3-69897aeeae6a

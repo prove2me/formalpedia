@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_lowest_k_type_formula
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.lowest_k_type_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:40:51.928885+00:00
 -- url     : https://prove2.me/theorems/3461b789-1400-425e-84f9-0055c1f85c57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_weylRatio_ell_ne
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.weylRatio_ell_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:41:47.17813+00:00
 -- url     : https://prove2.me/theorems/6eabf05e-7924-4f7e-9c07-476c399eecff

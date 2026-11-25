@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_ThFin_lsq_cont
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.ThFin.lsq_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:52:00.479112+00:00
 -- url     : https://prove2.me/theorems/774305d2-ef19-5ec9-aefc-f588c4da76f8

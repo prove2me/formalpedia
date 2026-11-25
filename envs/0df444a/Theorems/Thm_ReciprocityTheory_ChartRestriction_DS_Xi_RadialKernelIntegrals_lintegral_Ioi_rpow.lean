@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RadialKernelIntegrals_lintegral_Ioi_rpow
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RadialKernelIntegrals.lintegral_Ioi_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:47:39.910862+00:00
 -- url     : https://prove2.me/theorems/6c0a5f65-63de-49dc-b5c4-a2132249899a

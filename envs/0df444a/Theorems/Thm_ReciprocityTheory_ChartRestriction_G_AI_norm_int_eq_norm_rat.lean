@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_norm_int_eq_norm_rat
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.norm_int_eq_norm_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:11.018927+00:00
 -- url     : https://prove2.me/theorems/afa147ad-55e2-52ef-af69-8097024df645

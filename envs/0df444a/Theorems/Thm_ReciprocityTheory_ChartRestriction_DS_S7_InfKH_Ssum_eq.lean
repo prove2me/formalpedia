@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InfKH_Ssum_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InfKH.Ssum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:44:33.914157+00:00
 -- url     : https://prove2.me/theorems/d35581a2-4180-4405-aebf-ed8e25ad658d

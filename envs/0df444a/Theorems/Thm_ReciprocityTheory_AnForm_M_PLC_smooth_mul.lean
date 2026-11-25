@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_smooth_mul
 -- name    : ReciprocityTheory.AnForm.M.PLC.smooth_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:20:51.067917+00:00
 -- url     : https://prove2.me/theorems/abed90ac-4733-5bdf-b741-ab16eb17bca9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slt_inner_eq_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.slt_inner_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:07:59.128505+00:00
 -- url     : https://prove2.me/theorems/5d45fa6d-783f-4e77-9938-a76282dbddab

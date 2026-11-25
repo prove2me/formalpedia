@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_toCot_psi
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.toCot_psi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:00:21.273389+00:00
 -- url     : https://prove2.me/theorems/899a23db-511b-439e-b015-b5c6fcd85338

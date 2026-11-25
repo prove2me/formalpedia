@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_dzbEntry_symm
 -- name    : ReciprocityTheory.AnForm.A.dzbEntry_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:21.950073+00:00
 -- url     : https://prove2.me/theorems/4c645300-07d8-475e-8eac-775c7fbffe0b

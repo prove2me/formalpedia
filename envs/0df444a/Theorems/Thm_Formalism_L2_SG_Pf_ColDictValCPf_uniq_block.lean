@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_uniq_block
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.uniq_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:38:17.481849+00:00
 -- url     : https://prove2.me/theorems/ecbd2bd2-ab3e-5f8e-8aba-a15551a92106

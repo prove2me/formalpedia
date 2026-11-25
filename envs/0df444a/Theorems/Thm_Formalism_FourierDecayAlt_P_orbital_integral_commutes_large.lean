@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_orbital_integral_commutes_large
 -- name    : Formalism.FourierDecayAlt.P.orbital_integral_commutes_large
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:36:25.150615+00:00
 -- url     : https://prove2.me/theorems/c19b71ac-0dcd-4f8d-83ea-7ff0022e508b

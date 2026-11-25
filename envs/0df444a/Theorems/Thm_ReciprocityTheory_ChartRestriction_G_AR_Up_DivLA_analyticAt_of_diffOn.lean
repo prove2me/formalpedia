@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_DivLA_analyticAt_of_diffOn
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.DivLA.analyticAt_of_diffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:57:26.96004+00:00
 -- url     : https://prove2.me/theorems/5ab50cad-c1a3-5ff4-a474-207846e64324

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_mem_support_iff_stalkId
 -- name    : ReciprocityTheory.AnForm.R.mem_support_iff_stalkId
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:58.370313+00:00
 -- url     : https://prove2.me/theorems/a84d5ff8-fa88-4e7f-96a1-3c39debe3999

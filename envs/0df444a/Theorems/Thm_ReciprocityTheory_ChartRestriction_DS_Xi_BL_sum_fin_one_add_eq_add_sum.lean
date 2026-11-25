@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_sum_fin_one_add_eq_add_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.sum_fin_one_add_eq_add_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:51:12.887008+00:00
 -- url     : https://prove2.me/theorems/f6c0998f-0b07-5aed-a67c-4231e5ab9e26

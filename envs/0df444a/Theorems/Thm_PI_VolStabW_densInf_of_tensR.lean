@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_densInf_of_tensR
 -- name    : PI.VolStabW.densInf_of_tensR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:42:40.820335+00:00
 -- url     : https://prove2.me/theorems/7c153024-8431-5366-990c-548d65e20e5b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_levi_eq_lines
 -- name    : ReciprocityTheory.AnForm.P.levi_eq_lines
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:58.751216+00:00
 -- url     : https://prove2.me/theorems/639ffe25-35b1-4d24-9f73-3b4f03b759d0

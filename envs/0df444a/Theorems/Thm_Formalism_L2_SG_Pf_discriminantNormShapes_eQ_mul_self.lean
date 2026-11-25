@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_eQ_mul_self
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.eQ_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:56:31.06942+00:00
 -- url     : https://prove2.me/theorems/15c39908-2850-5b53-9235-97f1321acb02

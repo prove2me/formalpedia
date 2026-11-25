@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefB_sum_ite_left
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefB_sum_ite_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:52:41.150969+00:00
 -- url     : https://prove2.me/theorems/a43d0702-16bb-5fe6-9eb1-a8c3126f7ac5

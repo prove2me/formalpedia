@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_bicomm
 -- name    : PositivityTheory.Rg.Sw.LC.bicomm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:57.853811+00:00
 -- url     : https://prove2.me/theorems/ee1fa072-05e7-54cc-97ea-4b9fd6f9605b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_prod_ofFn_split_adj
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.prod_ofFn_split_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:43:22.487036+00:00
 -- url     : https://prove2.me/theorems/812413a7-3ce8-595a-9c0f-4a7f83510547

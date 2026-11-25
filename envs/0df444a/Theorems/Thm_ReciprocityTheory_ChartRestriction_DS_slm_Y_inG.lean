@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slm_Y_inG
 -- name    : ReciprocityTheory.ChartRestriction.DS.slm_Y_inG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:53:46.504949+00:00
 -- url     : https://prove2.me/theorems/0d5fb38f-6348-5881-bd79-b00fff26df32

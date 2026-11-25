@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_eval_cpP
 -- name    : ReciprocityTheory.AnForm.P.eval_cpP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:52:00.136362+00:00
 -- url     : https://prove2.me/theorems/538a5c98-58ab-5997-a59a-970dfcdb2f6c

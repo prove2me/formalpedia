@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_differentiable_lact
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.differentiable_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:07:29.964904+00:00
 -- url     : https://prove2.me/theorems/ff76a6e5-dc5f-5777-91a9-3f1233a1eebd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IntegerToRational_eQ_lt
 -- name    : ReciprocityTheory.AnForm.R.IntegerToRational.eQ_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:29.260016+00:00
 -- url     : https://prove2.me/theorems/c56df7ba-62d8-4161-9979-911461038bde

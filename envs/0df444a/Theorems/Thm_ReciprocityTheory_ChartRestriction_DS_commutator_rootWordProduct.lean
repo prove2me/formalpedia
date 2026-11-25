@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_commutator_rootWordProduct
 -- name    : ReciprocityTheory.ChartRestriction.DS.commutator_rootWordProduct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:49:16.465301+00:00
 -- url     : https://prove2.me/theorems/e7f64eac-b0da-4644-b96e-52b891ff3509

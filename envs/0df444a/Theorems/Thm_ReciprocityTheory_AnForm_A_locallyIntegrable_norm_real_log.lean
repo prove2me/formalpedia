@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_locallyIntegrable_norm_real_log
 -- name    : ReciprocityTheory.AnForm.A.locallyIntegrable_norm_real_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:06:02.915681+00:00
 -- url     : https://prove2.me/theorems/df46a0b5-338f-5e09-aa9f-11e34e056485

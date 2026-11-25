@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Laplace_simdiag
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Laplace.simdiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:42:23.016066+00:00
 -- url     : https://prove2.me/theorems/faf3e93b-4c53-5119-aa49-50946736e915

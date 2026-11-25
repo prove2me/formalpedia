@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_adDFull_zero_out
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.adDFull_zero_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:40:16.801038+00:00
 -- url     : https://prove2.me/theorems/21662577-d287-5ddc-978e-96c07b11e7c0

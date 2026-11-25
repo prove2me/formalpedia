@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefPm_pow
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefPm_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:52:19.297574+00:00
 -- url     : https://prove2.me/theorems/25902bda-3cc6-4718-95c4-5a0639b3e8a6

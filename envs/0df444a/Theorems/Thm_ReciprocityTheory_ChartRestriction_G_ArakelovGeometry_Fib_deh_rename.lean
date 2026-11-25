@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_deh_rename
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.deh_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:00:44.990339+00:00
 -- url     : https://prove2.me/theorems/01f93451-d1e1-5813-98c8-9929cceb9527

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_laplacian_line_eq_levi_a835370ca665
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_laplacian_line_eq_levi_a835370ca665
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:03:45.265028+00:00
 -- url     : https://prove2.me/theorems/58813557-4475-5dc8-a796-d4fb44b82bee

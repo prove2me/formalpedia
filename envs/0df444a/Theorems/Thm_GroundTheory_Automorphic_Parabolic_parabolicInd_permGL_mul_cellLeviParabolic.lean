@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_parabolicInd_permGL_mul_cellLeviParabolic
 -- name    : GroundTheory.Automorphic.Parabolic.parabolicInd_permGL_mul_cellLeviParabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:48:06.657306+00:00
 -- url     : https://prove2.me/theorems/53a8e414-feba-5d77-acfd-a6089e7dfd94

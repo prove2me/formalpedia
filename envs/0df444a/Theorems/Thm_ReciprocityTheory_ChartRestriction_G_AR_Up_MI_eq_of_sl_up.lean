@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_eq_of_sl_up
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.eq_of_sl_up
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:58:18.838399+00:00
 -- url     : https://prove2.me/theorems/dddc46a5-80a3-4286-922a-2efd8ab2cf1d

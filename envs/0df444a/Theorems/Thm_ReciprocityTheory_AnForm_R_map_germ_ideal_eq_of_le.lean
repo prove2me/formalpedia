@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_map_germ_ideal_eq_of_le
 -- name    : ReciprocityTheory.AnForm.R.map_germ_ideal_eq_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:20.198509+00:00
 -- url     : https://prove2.me/theorems/c01ac92a-9887-5bbd-8a16-6287f73a4af8

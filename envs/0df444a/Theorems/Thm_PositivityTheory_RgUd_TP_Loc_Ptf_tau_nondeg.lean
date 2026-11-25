@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Loc_Ptf_tau_nondeg
 -- name    : PositivityTheory.RgUd.TP.Loc.Ptf.tau_nondeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:18.708513+00:00
 -- url     : https://prove2.me/theorems/71a0e3d3-b8a7-5a9f-8d73-bc05f0a93e9a

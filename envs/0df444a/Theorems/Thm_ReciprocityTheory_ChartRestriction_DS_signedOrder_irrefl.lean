@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_signedOrder_irrefl
 -- name    : ReciprocityTheory.ChartRestriction.DS.signedOrder_irrefl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:57:08.981533+00:00
 -- url     : https://prove2.me/theorems/6301fc55-6668-5eb5-88a7-1641f2544035

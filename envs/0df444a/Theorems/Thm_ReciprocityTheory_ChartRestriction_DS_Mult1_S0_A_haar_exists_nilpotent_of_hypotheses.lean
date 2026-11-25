@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_S0_A_haar_exists_nilpotent_of_hypotheses
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.S0.A.haar_exists_nilpotent_of_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:43:32.662241+00:00
 -- url     : https://prove2.me/theorems/4b31a7d1-a7ea-4781-a3a5-4c3101940406

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_val_ringHom
 -- name    : ReciprocityTheory.AnForm.R.val_ringHom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:09.808019+00:00
 -- url     : https://prove2.me/theorems/849ed4ae-d551-4168-ac95-8e8cfdcb4d2d

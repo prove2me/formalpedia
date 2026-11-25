@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slm_sq_lintegral_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.slm_sq_lintegral_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:29.804023+00:00
 -- url     : https://prove2.me/theorems/5431ddd7-5dc2-4cf0-9474-63ebda18f937

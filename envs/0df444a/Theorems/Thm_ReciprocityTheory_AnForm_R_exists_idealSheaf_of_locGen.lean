@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_exists_idealSheaf_of_locGen
 -- name    : ReciprocityTheory.AnForm.R.exists_idealSheaf_of_locGen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:37:14.436524+00:00
 -- url     : https://prove2.me/theorems/2adf57be-12b8-51dc-b987-709d994eb85b

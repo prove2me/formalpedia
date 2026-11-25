@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LocalDenominators_val_unit
 -- name    : Formalism.L2.SG.Pf.LocalDenominators.val_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:38:04.594972+00:00
 -- url     : https://prove2.me/theorems/6dd027ff-f3fa-5922-94e4-075adae44d15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualLineSemipositive_proof_e177cbc37e01
 -- name    : P2M_GroundTheory_Heights__Heights_DualLineSemipositive_proof_e177cbc37e01
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:11:04.698828+00:00
 -- url     : https://prove2.me/theorems/edf2c745-9dc0-4e0d-9f5f-3bfaffd5d206

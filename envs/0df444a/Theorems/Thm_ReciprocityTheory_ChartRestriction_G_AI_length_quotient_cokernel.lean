@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_length_quotient_cokernel
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.length_quotient_cokernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:55:39.255546+00:00
 -- url     : https://prove2.me/theorems/3b30db43-7d98-5a56-a346-26646ebe1627

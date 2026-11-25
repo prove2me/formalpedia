@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefD_tensGrp_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefD_tensGrp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:52:27.12759+00:00
 -- url     : https://prove2.me/theorems/92829633-38ab-47bb-9249-ac487b56c951

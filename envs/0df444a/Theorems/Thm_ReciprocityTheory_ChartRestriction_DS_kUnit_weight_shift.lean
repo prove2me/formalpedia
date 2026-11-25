@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_kUnit_weight_shift
 -- name    : ReciprocityTheory.ChartRestriction.DS.kUnit_weight_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:52:41.264856+00:00
 -- url     : https://prove2.me/theorems/d9138bf5-eb91-5dfa-a230-96fee2569ad6

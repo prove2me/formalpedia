@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_heisenberg_first_basis
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.heisenberg_first_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:56:01.244838+00:00
 -- url     : https://prove2.me/theorems/37b91704-d892-4fcf-96d9-10245aee5f09

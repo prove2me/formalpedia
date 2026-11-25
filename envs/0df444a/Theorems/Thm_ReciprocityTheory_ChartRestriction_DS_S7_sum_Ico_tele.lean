@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_sum_Ico_tele
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.sum_Ico_tele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:51:08.90262+00:00
 -- url     : https://prove2.me/theorems/2ae3b446-53ac-5024-9501-44df731ff0a2

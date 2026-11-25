@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapAd_coef_det
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapAd.coef_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:44:24.802238+00:00
 -- url     : https://prove2.me/theorems/c8109b9b-6701-46f2-97ab-7da6454f4801

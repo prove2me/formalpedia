@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_continuousOn_normSq
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.continuousOn_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:05:43.538253+00:00
 -- url     : https://prove2.me/theorems/3a1f2881-cf14-5caa-a728-5ddc1906d284

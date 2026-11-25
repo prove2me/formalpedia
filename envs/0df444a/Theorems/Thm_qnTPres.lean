@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_qnTPres
 -- name    : qnTPres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:56:12.604283+00:00
 -- url     : https://prove2.me/theorems/2b084e0b-b614-492c-8749-23f187f55609

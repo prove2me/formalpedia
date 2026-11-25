@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_differentiableAt_oneParam
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.differentiableAt_oneParam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:41:11.60144+00:00
 -- url     : https://prove2.me/theorems/56809794-3d8f-57ab-b9d6-7f052221ce4d

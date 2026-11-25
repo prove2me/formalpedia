@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_projQ_zero
 -- name    : ReciprocityTheory.AnForm.R.projQ_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:37:28.4822+00:00
 -- url     : https://prove2.me/theorems/297231cf-6702-4f3f-a632-10c950993ab5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_exp_mem_UH
 -- name    : QnRdSkewW.exp_mem_UH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:06:03.813034+00:00
 -- url     : https://prove2.me/theorems/98e1d7af-a930-44d9-9745-01397f006a1f

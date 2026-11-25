@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_sumR_ins_succ
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.sumR_ins_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:48:02.419455+00:00
 -- url     : https://prove2.me/theorems/8a460983-a3ac-5df4-996c-11b69931633f

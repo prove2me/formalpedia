@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_PolynomialGrowthIntegrals_slowWeight_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.PolynomialGrowthIntegrals.slowWeight_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:49:39.898307+00:00
 -- url     : https://prove2.me/theorems/ef798670-377b-5287-a2f6-71928466ccaa

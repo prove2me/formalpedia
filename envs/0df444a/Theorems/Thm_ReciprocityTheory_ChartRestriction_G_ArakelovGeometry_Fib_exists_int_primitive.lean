@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_exists_int_primitive
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.exists_int_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:01:42.009193+00:00
 -- url     : https://prove2.me/theorems/545cbdde-9c3b-4435-a462-6aac80efb5a7

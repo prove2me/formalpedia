@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_mem_conePts_iff_chartIdeal
 -- name    : ReciprocityTheory.AnForm.R.mem_conePts_iff_chartIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:52:35.10798+00:00
 -- url     : https://prove2.me/theorems/c1dfcf18-caf7-4dea-b651-bd8c32b2b3e5

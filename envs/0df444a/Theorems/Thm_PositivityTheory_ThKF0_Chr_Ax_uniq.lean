@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_Ax_uniq
 -- name    : PositivityTheory.ThKF0.Chr.Ax.uniq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:22:31.902363+00:00
 -- url     : https://prove2.me/theorems/e14e928c-1cf9-4884-88bd-558bd6e8b7a3

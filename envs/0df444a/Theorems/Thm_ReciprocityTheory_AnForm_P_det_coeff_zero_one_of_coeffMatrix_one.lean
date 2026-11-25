@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_det_coeff_zero_one_of_coeffMatrix_one
 -- name    : ReciprocityTheory.AnForm.P.det_coeff_zero_one_of_coeffMatrix_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:07.876811+00:00
 -- url     : https://prove2.me/theorems/04ac25cf-161c-45ff-b916-5b4f20f68e04

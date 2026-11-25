@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_piMat_eq
 -- name    : PI.VolSemiDirect.W.piMat_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:01:17.901147+00:00
 -- url     : https://prove2.me/theorems/d0e6376b-867f-5c6a-b9fb-a0fdc48257df

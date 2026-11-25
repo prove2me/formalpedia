@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IntegerToRational_coheight_eQ_add_one_le
 -- name    : ReciprocityTheory.AnForm.R.IntegerToRational.coheight_eQ_add_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:04:36.639039+00:00
 -- url     : https://prove2.me/theorems/49e9650a-a3ad-43d1-b40f-81d82391745f

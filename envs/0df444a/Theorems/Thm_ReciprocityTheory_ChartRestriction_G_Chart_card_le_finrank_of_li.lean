@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_card_le_finrank_of_li
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.card_le_finrank_of_li
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:09:16.312291+00:00
 -- url     : https://prove2.me/theorems/a370d713-3f9c-5e86-b9ca-69989f10d676

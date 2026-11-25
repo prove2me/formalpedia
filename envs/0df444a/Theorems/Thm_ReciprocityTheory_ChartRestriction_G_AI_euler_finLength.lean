@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_euler_finLength
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.euler_finLength
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:44.088852+00:00
 -- url     : https://prove2.me/theorems/b2625af6-61ee-5e5b-884c-5d3fb742cee7

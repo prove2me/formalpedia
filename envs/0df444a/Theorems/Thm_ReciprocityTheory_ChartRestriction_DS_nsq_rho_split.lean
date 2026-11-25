@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_nsq_rho_split
 -- name    : ReciprocityTheory.ChartRestriction.DS.nsq_rho_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:53:36.770645+00:00
 -- url     : https://prove2.me/theorems/9d37ba29-0b5b-4956-819a-68b3e1a60cb4

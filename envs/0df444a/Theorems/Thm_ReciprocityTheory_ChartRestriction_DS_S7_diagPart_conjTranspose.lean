@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_diagPart_conjTranspose
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.diagPart_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:44:27.574499+00:00
 -- url     : https://prove2.me/theorems/b7b6b647-a6cf-4028-b610-31593ec37330

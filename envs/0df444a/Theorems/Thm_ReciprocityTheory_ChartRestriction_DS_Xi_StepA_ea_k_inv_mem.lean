@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_ea_k_inv_mem
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.ea_k_inv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:49:38.486563+00:00
 -- url     : https://prove2.me/theorems/04bcc258-40bc-4cd7-9a9e-c015b0b05f90

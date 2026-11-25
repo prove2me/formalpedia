@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_RPA_kap_integral
 -- name    : PI.VolStabW.RPA.kap_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:40:07.12877+00:00
 -- url     : https://prove2.me/theorems/e7a24c1f-c16b-4fe0-97bc-15f9b86bdcfc

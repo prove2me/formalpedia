@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_integralWith_extendRight
 -- name    : ReciprocityTheory.AnForm.M.integralWith_extendRight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:19:53.191448+00:00
 -- url     : https://prove2.me/theorems/d15f04cc-9e67-4146-a518-6d447afe90f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_USum_casimir_diagSub
 -- name    : ReciprocityTheory.ChartRestriction.DS.USum.casimir_diagSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:06:47.305772+00:00
 -- url     : https://prove2.me/theorems/cd530488-455b-40d4-b240-489e8b2e0c7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_locSplitChi_of
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.locSplitChi_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:45:10.578187+00:00
 -- url     : https://prove2.me/theorems/3a7981d9-f9cc-5034-b24d-257666d67ac1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_cminor_intertwine
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.cminor_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:02:15.339904+00:00
 -- url     : https://prove2.me/theorems/c9ae748d-9a0f-4653-af0d-c2c4ee899c69

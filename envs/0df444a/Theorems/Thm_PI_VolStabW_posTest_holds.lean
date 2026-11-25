@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_posTest_holds
 -- name    : PI.VolStabW.posTest_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:44:28.442959+00:00
 -- url     : https://prove2.me/theorems/3ff963a8-b42b-499a-9e85-14e2e1a726fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_sb_indicator_sq
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.sb_indicator_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:05:16.1007+00:00
 -- url     : https://prove2.me/theorems/1a65a4f6-94d8-4e57-86b4-ba48f7c99299

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_actM_rsM
 -- name    : ReciprocityTheory.ChartRestriction.DS.actM_rsM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:50:52.050204+00:00
 -- url     : https://prove2.me/theorems/e8b7d006-22e3-5585-b6c2-c73cb0454312

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_FundSetPf_R_trans
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.FundSetPf.R_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:06:20.546649+00:00
 -- url     : https://prove2.me/theorems/2655d865-14f7-5001-a22e-b020f34fa2f5

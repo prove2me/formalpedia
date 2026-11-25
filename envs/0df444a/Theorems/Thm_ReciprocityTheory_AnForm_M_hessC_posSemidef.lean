@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_hessC_posSemidef
 -- name    : ReciprocityTheory.AnForm.M.hessC_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:56:17.926519+00:00
 -- url     : https://prove2.me/theorems/df559bd7-0674-4fa6-b9c5-f4235e857e36

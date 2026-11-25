@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExhC_coord_le_one
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExhC.coord_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:56:21.182069+00:00
 -- url     : https://prove2.me/theorems/8eb55835-3c73-48b6-882a-aa60b706f0dd

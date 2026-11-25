@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_differentiable_highest_weight_fn
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.differentiable_highest_weight_fn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:33:41.65171+00:00
 -- url     : https://prove2.me/theorems/98437079-96c1-43f3-83d4-b2d003ed0af0

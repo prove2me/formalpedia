@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_BigCasimir_factorAd_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.BigCasimir.factorAd_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:41:26.75477+00:00
 -- url     : https://prove2.me/theorems/cb00a34a-a559-4b17-962d-98574acc782d

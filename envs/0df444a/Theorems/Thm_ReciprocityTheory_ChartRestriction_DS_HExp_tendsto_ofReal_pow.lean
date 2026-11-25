@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_tendsto_ofReal_pow
 -- name    : ReciprocityTheory.ChartRestriction.DS.HExp.tendsto_ofReal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:28.7848+00:00
 -- url     : https://prove2.me/theorems/ab96744b-387f-5110-91bf-0bab3b955046

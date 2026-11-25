@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_capelli_transport
 -- name    : CompanionTheory.CapEig.capelli_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:45:17.490023+00:00
 -- url     : https://prove2.me/theorems/b33acd8b-9a10-4424-bd99-a019b851d80e

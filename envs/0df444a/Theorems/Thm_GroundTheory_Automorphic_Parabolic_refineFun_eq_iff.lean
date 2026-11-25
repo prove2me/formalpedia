@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_refineFun_eq_iff
 -- name    : GroundTheory.Automorphic.Parabolic.refineFun_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:46:49.583908+00:00
 -- url     : https://prove2.me/theorems/27ac0d57-94fa-4196-b166-5d579ef60434

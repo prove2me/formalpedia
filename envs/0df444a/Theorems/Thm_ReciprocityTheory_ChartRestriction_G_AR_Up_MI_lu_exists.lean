@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_lu_exists
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.lu_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:58:38.423208+00:00
 -- url     : https://prove2.me/theorems/377fa417-4b57-4194-bafa-d781631d4f4e

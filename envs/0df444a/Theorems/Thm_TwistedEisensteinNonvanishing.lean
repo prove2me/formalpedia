@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwistedEisensteinNonvanishing
 -- name    : TwistedEisensteinNonvanishing
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:55:47.838279+00:00
 -- url     : https://prove2.me/theorems/cbe4a02f-80a9-46ff-bac5-d0613eb7cecb

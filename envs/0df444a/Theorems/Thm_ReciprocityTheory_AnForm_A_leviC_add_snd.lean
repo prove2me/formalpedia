@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_leviC_add_snd
 -- name    : ReciprocityTheory.AnForm.A.leviC_add_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:06:51.331471+00:00
 -- url     : https://prove2.me/theorems/461c6b0b-a2b6-5256-9327-4b8d62aacd27

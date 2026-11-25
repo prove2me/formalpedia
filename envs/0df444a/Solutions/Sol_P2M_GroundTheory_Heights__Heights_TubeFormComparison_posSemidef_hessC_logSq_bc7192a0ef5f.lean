@@ -1,0 +1,58 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_TubeFormComparison_posSemidef_hessC_logSq_bc7192a0ef5f
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T12:32:17.429251+00:00
+-- url     : https://prove2.me/submissions/4d91ab44-bb2b-4ec0-b20f-b3aabb92b48d
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_LintegralImageEqLintegralNormSqDetMul
+import Definitions.Def_ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_MdiscSt
+import Definitions.Def_ReciprocityTheory_AnalyticForms_PotentialTheory_HessCIsHermitian
+import Definitions.Def_ReciprocityTheory_AnalyticForms_PotentialTheory_PshShiftA
+import Definitions.Def_ReciprocityTheory_AnalyticForms_AnalyticCharts_Osgood
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_StTubeFormCompare
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_LogIntegrableOnOfLogIntegrable
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PTubeFormCompare
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_levi_eq_re_bde4222f82b2
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_levi_sq_half_fff74164f88e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_analyticAt_eval_3f0f1a9d1eb0
+import Theorems.Thm_P2M_ReciprocityTheory_AnForm_M_hessC_const_mul__03a5d330ff52
+import Theorems.Thm_ReciprocityTheory_AnForm_A_hessC_log_norm
+import Theorems.Thm_ReciprocityTheory_AnForm_M_hessC_posSemidef
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open MvPolynomial Matrix Filter Topology ReciprocityTheory.AnForm ComplexSets
+open scoped ContDiff ComplexOrder
+noncomputable section
+open GroundTheory.Heights₂.Heights.TubeFormComparison
+namespace GroundTheory.Heights₂.Heights.TubeFormComparison
+theorem _root_.solution {m : ℕ} (P : MvPolynomial (Fin m) ℂ) (y : Fin m → ℂ)
+    (hP : eval y P ≠ 0) : (hessC (fun z => logAbsSq P z ^ 2 / 2) y).PosSemidef := by
+  have hg := analyticAt_eval P y
+  have hv : ContDiffAt ℝ 2 (logAbsSq P) y := by
+    have h1 : ContDiffAt ℝ 2 (fun z => ‖eval z P‖ ^ 2) y :=
+      ((hg.contDiffAt (n := 2)).restrict_scalars ℝ).norm_sq ℝ
+    exact h1.log (by positivity)
+  have hv0 : hessC (logAbsSq P) y = 0 := by
+    have h : logAbsSq P = fun z => (2 : ℝ) * Real.log ‖eval z P‖ := by
+      funext z
+      rw [logAbsSq, Real.log_pow]
+      norm_num
+    rw [h, ReciprocityTheory.AnForm.M.hessC_const_mul', ReciprocityTheory.AnForm.A.hessC_log_norm _ y hg hP, smul_zero]
+  have hl : ∀ w, levi (logAbsSq P) y w = 0 := fun w => by
+    rw [levi_eq_re, hv0]
+    simp
+  refine ReciprocityTheory.AnForm.M.hessC_posSemidef _ y ((hv.pow 2).div_const 2) fun w => ?_
+  rw [levi_sq_half hv w, hl w, mul_zero, add_zero]
+  positivity
+end GroundTheory.Heights₂.Heights.TubeFormComparison

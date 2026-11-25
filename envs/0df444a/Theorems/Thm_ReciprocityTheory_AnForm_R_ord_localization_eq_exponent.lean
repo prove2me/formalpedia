@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_ord_localization_eq_exponent
 -- name    : ReciprocityTheory.AnForm.R.ord_localization_eq_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:37:18.044472+00:00
 -- url     : https://prove2.me/theorems/44d7175b-f7f3-4385-b156-eb5650c98f70

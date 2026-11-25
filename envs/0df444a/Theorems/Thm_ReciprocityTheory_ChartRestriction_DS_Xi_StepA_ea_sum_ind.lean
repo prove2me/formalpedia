@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_ea_sum_ind
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.ea_sum_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:49:10.819176+00:00
 -- url     : https://prove2.me/theorems/041989f9-fc5e-4075-bb17-70d917734442

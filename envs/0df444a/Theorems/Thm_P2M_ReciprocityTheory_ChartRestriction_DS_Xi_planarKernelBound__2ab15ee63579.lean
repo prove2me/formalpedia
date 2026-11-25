@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_planarKernelBound__2ab15ee63579
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_planarKernelBound__2ab15ee63579
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:12:06.024561+00:00
 -- url     : https://prove2.me/theorems/6a93dd05-3097-585a-bf59-6a6817d2a5ce

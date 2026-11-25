@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_IntegralModuleBases_det_toMatrix_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.IntegralModuleBases.det_toMatrix_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:56:46.772541+00:00
 -- url     : https://prove2.me/theorems/e3118df6-5105-551e-8e5a-bd8007d041a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_DetB_hermForm_phi_le_bound
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.DetB.hermForm_phi_le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:48:20.813285+00:00
 -- url     : https://prove2.me/theorems/f945877e-61d7-42c2-b1f2-9efef8f245f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_mem_ker_subrep_of_mem_ker
 -- name    : GroundTheory.Automorphic.mem_ker_subrep_of_mem_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:56:58.100016+00:00
 -- url     : https://prove2.me/theorems/37b0c2bd-61ff-4baf-b58d-71dedd930e56

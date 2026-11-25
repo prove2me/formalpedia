@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pushA_cover
 -- name    : ReciprocityTheory.AnForm.M.pushA_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:33:19.256442+00:00
 -- url     : https://prove2.me/theorems/cafee01c-f4e3-4b2a-bdba-cfe9c978b1e4

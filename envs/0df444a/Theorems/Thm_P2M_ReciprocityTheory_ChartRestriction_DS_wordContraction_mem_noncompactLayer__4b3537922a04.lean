@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_wordContraction_mem_noncompactLayer__4b3537922a04
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_wordContraction_mem_noncompactLayer__4b3537922a04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:14:46.26098+00:00
 -- url     : https://prove2.me/theorems/ef57df95-732b-517d-9935-4c08d1411db5

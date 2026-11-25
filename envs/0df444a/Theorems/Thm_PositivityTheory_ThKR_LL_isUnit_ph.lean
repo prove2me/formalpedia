@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_isUnit_ph
 -- name    : PositivityTheory.ThKR.LL.isUnit_ph
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:17.945445+00:00
 -- url     : https://prove2.me/theorems/7df29bf1-26df-46a8-a5cd-bd58849a42c1

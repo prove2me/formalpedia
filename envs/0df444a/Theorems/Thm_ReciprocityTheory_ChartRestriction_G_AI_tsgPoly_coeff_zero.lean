@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_tsgPoly_coeff_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.tsgPoly_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:55:41.347042+00:00
 -- url     : https://prove2.me/theorems/7dd49710-27ef-4ea4-9150-a61b0599b590

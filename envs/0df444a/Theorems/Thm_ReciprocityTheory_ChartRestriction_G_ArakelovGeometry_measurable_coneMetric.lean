@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_measurable_coneMetric
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.measurable_coneMetric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:11:47.251944+00:00
 -- url     : https://prove2.me/theorems/5c67e2fa-6ce6-477b-88f5-c4670dc7d846

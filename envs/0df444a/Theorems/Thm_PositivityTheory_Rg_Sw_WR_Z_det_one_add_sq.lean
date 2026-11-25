@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_det_one_add_sq
 -- name    : PositivityTheory.Rg.Sw.WR.Z.det_one_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:15.48181+00:00
 -- url     : https://prove2.me/theorems/499ed9ac-6fd1-4140-be2c-278e5b42f131

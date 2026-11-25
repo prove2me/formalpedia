@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_card_quot_eq_natAbs_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.card_quot_eq_natAbs_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:47.577811+00:00
 -- url     : https://prove2.me/theorems/a2796dd3-8144-5a69-9886-8c3ee598cf57

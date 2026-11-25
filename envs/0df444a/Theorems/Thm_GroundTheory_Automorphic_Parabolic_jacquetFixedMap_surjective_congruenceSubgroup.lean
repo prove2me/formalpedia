@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_jacquetFixedMap_surjective_congruenceSubgroup
 -- name    : GroundTheory.Automorphic.Parabolic.jacquetFixedMap_surjective_congruenceSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:20:45.824286+00:00
 -- url     : https://prove2.me/theorems/9a484d1d-4a74-4c9d-9956-50e60e9466dc

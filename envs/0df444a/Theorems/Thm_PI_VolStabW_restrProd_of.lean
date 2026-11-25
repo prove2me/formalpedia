@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_restrProd_of
 -- name    : PI.VolStabW.restrProd_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:54:27.912051+00:00
 -- url     : https://prove2.me/theorems/6d4c0ae9-928f-5c63-a7c6-6a024f277518

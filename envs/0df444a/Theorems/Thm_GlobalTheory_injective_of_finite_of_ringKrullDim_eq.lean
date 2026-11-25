@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_injective_of_finite_of_ringKrullDim_eq
 -- name    : GlobalTheory.injective_of_finite_of_ringKrullDim_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:55:31.357903+00:00
 -- url     : https://prove2.me/theorems/2e62b328-852f-48d4-8667-eea14dd2861f

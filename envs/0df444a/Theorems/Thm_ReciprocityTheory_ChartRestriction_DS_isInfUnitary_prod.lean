@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_isInfUnitary_prod
 -- name    : ReciprocityTheory.ChartRestriction.DS.isInfUnitary_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:52:55.591163+00:00
 -- url     : https://prove2.me/theorems/098f7d30-99ec-5a4a-bb38-94c34d4aea6e

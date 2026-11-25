@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoS_stab_mat
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OntoS.stab_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:01:32.319324+00:00
 -- url     : https://prove2.me/theorems/3f127643-fbc1-5050-9cf9-378d4b437000

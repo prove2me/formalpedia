@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_adDFull_bracket
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.adDFull_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:41:08.744798+00:00
 -- url     : https://prove2.me/theorems/ba3f8bf9-12ca-4971-8c73-052ff47d3b4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_levi_comp
 -- name    : ReciprocityTheory.AnForm.levi_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:26.934797+00:00
 -- url     : https://prove2.me/theorems/7ecded61-abe9-4354-b71c-2f060dc2d5f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_IsSecBasis_card_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.IsSecBasis.card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:02:01.785034+00:00
 -- url     : https://prove2.me/theorems/24206c3e-e03d-5c95-a11a-6a73d6509d04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_levi_euclPot_ff6b1ef3877d
 -- name    : P2M_GroundTheory_Heights__Heights_TubeFormComparison_levi_euclPot_ff6b1ef3877d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:41.11475+00:00
 -- url     : https://prove2.me/theorems/92aad9f8-9fb3-4d7e-a6a1-bd96256c72c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_TW_TDelta_supp
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.TW.TDelta_supp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:02:23.37659+00:00
 -- url     : https://prove2.me/theorems/4bfd74f8-feda-4709-8672-ce3639c4a0c5

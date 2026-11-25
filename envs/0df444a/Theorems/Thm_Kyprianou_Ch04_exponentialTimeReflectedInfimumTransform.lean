@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exponentialTimeReflectedInfimumTransform
 -- name    : Kyprianou.Ch04.exponentialTimeReflectedInfimumTransform
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-14T22:25:25.343027+00:00
 -- url     : https://prove2.me/theorems/969da264-b9bf-4ec3-8d46-dd5e18f9c486

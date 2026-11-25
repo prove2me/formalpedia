@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_integrable_log_coord_mul
 -- name    : ReciprocityTheory.AnForm.A.integrable_log_coord_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:37:52.533142+00:00
 -- url     : https://prove2.me/theorems/8e3cf1ac-2d9c-45d8-bf39-4ace4f231195

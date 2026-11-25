@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_integral_scaled
 -- name    : ReciprocityTheory.AnForm.A.integral_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:22:09.755437+00:00
 -- url     : https://prove2.me/theorems/d347dc5d-add8-4390-895a-9304a3892b58

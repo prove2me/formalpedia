@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_entry_le_fsq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_entry_le_fsq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:00:02.954829+00:00
 -- url     : https://prove2.me/theorems/661be65b-48bf-5036-b20a-42fa51419ec9

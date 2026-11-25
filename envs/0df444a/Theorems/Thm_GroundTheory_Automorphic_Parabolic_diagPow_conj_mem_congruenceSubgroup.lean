@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_diagPow_conj_mem_congruenceSubgroup
 -- name    : GroundTheory.Automorphic.Parabolic.diagPow_conj_mem_congruenceSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:44:47.673093+00:00
 -- url     : https://prove2.me/theorems/f28bcc6c-c0fa-5687-b425-88a885cf55eb

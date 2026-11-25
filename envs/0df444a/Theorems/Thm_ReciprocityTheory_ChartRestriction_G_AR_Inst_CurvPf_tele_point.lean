@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_tele_point
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.tele_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:57:22.68215+00:00
 -- url     : https://prove2.me/theorems/e8904c3a-4e17-4c1e-aedf-3c74d7bfab2a

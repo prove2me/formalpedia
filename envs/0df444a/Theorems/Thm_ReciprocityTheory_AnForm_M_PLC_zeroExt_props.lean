@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_zeroExt_props
 -- name    : ReciprocityTheory.AnForm.M.PLC.zeroExt_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:21:31.966705+00:00
 -- url     : https://prove2.me/theorems/c941e715-3fd1-513a-9a3b-ed244596fba6

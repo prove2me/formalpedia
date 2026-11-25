@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_sdE_eq
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.sdE_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:07:37.501808+00:00
 -- url     : https://prove2.me/theorems/7212969c-5a54-4830-bfd1-ee64b9b6f780

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_logSumExp_lower
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.logSumExp_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:45:44.683799+00:00
 -- url     : https://prove2.me/theorems/fd3a2bd9-fe32-4573-85f6-be8fc86b4b7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_hasFDerivAt_evX
 -- name    : PositivityTheory.Rg.Sw.WR.G.hasFDerivAt_evX
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:50:42.286458+00:00
 -- url     : https://prove2.me/theorems/5cdcc005-dc23-4f14-b6b4-7b5d7f2061ef

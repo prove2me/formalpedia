@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradDensSheetBound_hessC_pm_posSemidef_6dd07111738d
 -- name    : P2M_GroundTheory_Heights__Heights_GradDensSheetBound_hessC_pm_posSemidef_6dd07111738d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:52.606601+00:00
 -- url     : https://prove2.me/theorems/a9b45fc7-8090-40a6-aa51-a9d355f342ad

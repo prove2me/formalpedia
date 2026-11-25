@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_hasFDerivAt_Fi
 -- name    : PositivityTheory.Rg.Sw.WR.D.hasFDerivAt_Fi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:01:42.78321+00:00
 -- url     : https://prove2.me/theorems/b73e5898-28ef-42a5-88ea-895e7ace18ab

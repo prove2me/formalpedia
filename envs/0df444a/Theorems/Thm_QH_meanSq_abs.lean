@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_meanSq_abs
 -- name    : QH.meanSq_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:07:19.433855+00:00
 -- url     : https://prove2.me/theorems/5a65a36a-d28f-4fa5-8a09-c2236f766e96

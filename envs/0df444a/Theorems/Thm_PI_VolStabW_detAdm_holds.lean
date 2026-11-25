@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_detAdm_holds
 -- name    : PI.VolStabW.detAdm_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:47:29.082466+00:00
 -- url     : https://prove2.me/theorems/2a63e664-64e0-53f8-8826-883a8eb0e67d

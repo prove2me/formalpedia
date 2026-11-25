@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_S0_A_exists_haar_W_of_structural_facts
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.S0.A.exists_haar_W_of_structural_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:43:31.319218+00:00
 -- url     : https://prove2.me/theorems/5cc65993-df35-53b8-9f52-f0caf9d6a146

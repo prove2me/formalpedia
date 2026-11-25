@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_weylRatio_rhoC_sub_ge_one
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.weylRatio_rhoC_sub_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:41:19.937448+00:00
 -- url     : https://prove2.me/theorems/9b181318-843e-49f5-b9e3-d4b1eb01ae00

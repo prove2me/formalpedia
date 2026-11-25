@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_cf_cpP
 -- name    : ReciprocityTheory.AnForm.P.cf_cpP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:53:51.103721+00:00
 -- url     : https://prove2.me/theorems/86b0f267-6616-4feb-abf0-c983585e019c

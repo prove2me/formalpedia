@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_coeff_eq_of_eqv
 -- name    : PI.WGL.EqvWt.coeff_eq_of_eqv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:57:32.250803+00:00
 -- url     : https://prove2.me/theorems/f6edf789-2f38-4461-98b5-82ae9645f91b

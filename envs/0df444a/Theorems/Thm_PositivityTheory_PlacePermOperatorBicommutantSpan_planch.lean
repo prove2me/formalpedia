@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_planch
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.planch
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:51:38.930906+00:00
 -- url     : https://prove2.me/theorems/8f0006a1-c7b4-44d3-86c9-a6ddedb65302

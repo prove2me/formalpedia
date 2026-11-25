@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_DivisorCycleSwap_mem_minimalPrimes_sup_of_le
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.DivisorCycleSwap.mem_minimalPrimes_sup_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:54:59.934816+00:00
 -- url     : https://prove2.me/theorems/c5d6e727-2de2-57e0-b28b-685fcd0dc09d

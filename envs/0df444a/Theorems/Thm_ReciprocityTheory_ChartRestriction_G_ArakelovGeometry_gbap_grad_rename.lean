@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gbap_grad_rename
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbap_grad_rename
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:08:56.093347+00:00
 -- url     : https://prove2.me/theorems/d9d90b48-c967-5d56-9b4f-44a2c46f4d4d

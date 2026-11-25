@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_W_isOpen_rank
 -- name    : PositivityTheory.ThKEst.W.isOpen_rank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:25.715942+00:00
 -- url     : https://prove2.me/theorems/7e8e3185-861a-445e-9cdb-8967631cec5c

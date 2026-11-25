@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_isWeaklyRegular_map_ringEquiv
 -- name    : ReciprocityTheory.CA.isWeaklyRegular_map_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:24.275+00:00
 -- url     : https://prove2.me/theorems/9b23e9d0-d700-46bb-a894-93e394041074

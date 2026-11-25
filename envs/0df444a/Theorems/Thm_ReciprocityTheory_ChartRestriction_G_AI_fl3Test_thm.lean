@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_fl3Test_thm
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.fl3Test_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:55:03.796275+00:00
 -- url     : https://prove2.me/theorems/8dc3fcbb-dbd5-4f1c-b2b8-f223b93720ef

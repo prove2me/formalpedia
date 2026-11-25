@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_young_holds
 -- name    : PositivityTheory.Rg.Cz.young_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:41.497016+00:00
 -- url     : https://prove2.me/theorems/ea653ba4-6831-41d7-abbd-6c6cf9f6be67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForUWork_weylForU_of
 -- name    : PI.WeylForUWork.weylForU_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:36:56.05047+00:00
 -- url     : https://prove2.me/theorems/156672dc-8212-4e6a-ab23-2032c2815378

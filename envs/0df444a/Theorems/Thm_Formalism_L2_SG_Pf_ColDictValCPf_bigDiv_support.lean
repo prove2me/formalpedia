@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_bigDiv_support
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.bigDiv_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:33:18.405599+00:00
 -- url     : https://prove2.me/theorems/e69e8f85-1ebf-4d2b-81ee-413c1a6d4e52

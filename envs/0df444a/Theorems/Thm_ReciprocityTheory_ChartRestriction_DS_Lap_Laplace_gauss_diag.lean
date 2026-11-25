@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Laplace_gauss_diag
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Laplace.gauss_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:42:20.321802+00:00
 -- url     : https://prove2.me/theorems/204f0883-409d-4a95-bc87-2561fa1eeec7

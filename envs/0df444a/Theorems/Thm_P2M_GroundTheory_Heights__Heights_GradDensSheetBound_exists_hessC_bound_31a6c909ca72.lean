@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradDensSheetBound_exists_hessC_bound_31a6c909ca72
 -- name    : P2M_GroundTheory_Heights__Heights_GradDensSheetBound_exists_hessC_bound_31a6c909ca72
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:56.524406+00:00
 -- url     : https://prove2.me/theorems/67108958-6f3f-43da-aca8-b8a354d44394

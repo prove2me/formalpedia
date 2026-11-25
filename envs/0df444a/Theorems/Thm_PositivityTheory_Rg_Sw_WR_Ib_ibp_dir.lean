@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Ib_ibp_dir
 -- name    : PositivityTheory.Rg.Sw.WR.Ib.ibp_dir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:01:50.316264+00:00
 -- url     : https://prove2.me/theorems/10b6bbc3-b992-4799-9705-bf024ab36334

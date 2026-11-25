@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_int_thin
 -- name    : QH.int_thin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:05:42.746747+00:00
 -- url     : https://prove2.me/theorems/9076b3b8-4029-52f2-a333-8890a1728e9d

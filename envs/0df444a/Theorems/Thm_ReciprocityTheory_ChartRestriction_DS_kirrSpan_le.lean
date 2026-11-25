@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_kirrSpan_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.kirrSpan_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:52:10.420092+00:00
 -- url     : https://prove2.me/theorems/918b9b8e-7d7f-4bd7-af0d-6960c10848c2

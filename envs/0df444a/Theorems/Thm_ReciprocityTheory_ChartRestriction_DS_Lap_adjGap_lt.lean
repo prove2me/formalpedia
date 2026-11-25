@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_adjGap_lt
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.adjGap_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:42:45.611027+00:00
 -- url     : https://prove2.me/theorems/4867f846-21ec-4138-adb3-c65dd5d8214e

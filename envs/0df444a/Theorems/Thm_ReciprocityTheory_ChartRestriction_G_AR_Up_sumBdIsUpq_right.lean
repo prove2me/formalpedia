@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBdIsUpq_right
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBdIsUpq_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:00:01.869011+00:00
 -- url     : https://prove2.me/theorems/06e9954a-40c7-53e5-8dcd-7c65a0676614

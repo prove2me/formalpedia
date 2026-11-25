@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.kw47_compactSup_envelope
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T10:21:04.032857+00:00
 -- url     : https://prove2.me/submissions/9edd63ce-2a90-4cca-91e7-839fc3508c32
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_kw47_pointwise_envelope

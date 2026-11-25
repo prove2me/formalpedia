@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Split_continuous_splitE
 -- name    : PositivityTheory.ThKF0.Split.continuous_splitE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:34:18.37771+00:00
 -- url     : https://prove2.me/theorems/5e64ccd3-eda2-4836-bc66-c91a52c8d8e0

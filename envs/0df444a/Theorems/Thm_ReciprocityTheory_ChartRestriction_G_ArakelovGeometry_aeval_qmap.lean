@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_aeval_qmap
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.aeval_qmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:02:34.445811+00:00
 -- url     : https://prove2.me/theorems/d33630dd-61cc-4063-b36a-388d765f3b44

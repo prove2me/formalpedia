@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HodgeComputer.FourPlusTwoResidual.exists_ratio_chart_t4_witness
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @pageman
 -- created : 2026-11-25T11:59:14.464328+00:00
 -- url     : https://prove2.me/submissions/a0b1f13e-82da-4328-b967-26d94fd448dc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HodgeComputer_FourPlusTwoResidual_exists_hermite_pade_flat_moment_section_e3
 import Theorems.Thm_HodgeComputer_FourPlusTwoResidual_ratio_chart_t4_of_flat_moment_section_e3

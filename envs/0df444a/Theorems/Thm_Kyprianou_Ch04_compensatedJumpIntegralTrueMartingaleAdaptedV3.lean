@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_compensatedJumpIntegralTrueMartingaleAdaptedV3
 -- name    : Kyprianou.Ch04.compensatedJumpIntegralTrueMartingaleAdaptedV3
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:25:31.82881+00:00
 -- url     : https://prove2.me/theorems/f71d50ee-61f1-4695-a41b-641c2cbe0b89

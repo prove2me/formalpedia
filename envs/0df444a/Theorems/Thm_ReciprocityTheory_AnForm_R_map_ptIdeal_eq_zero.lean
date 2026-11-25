@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_map_ptIdeal_eq_zero
 -- name    : ReciprocityTheory.AnForm.R.map_ptIdeal_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:37:26.906425+00:00
 -- url     : https://prove2.me/theorems/a4f95e40-9031-5f5c-bef0-9af92f55a342

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_A_mixedCof_diag__b2efbf315574
 -- name    : P2M_ReciprocityTheory_AnForm_A_mixedCof_diag__b2efbf315574
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:56:04.671905+00:00
 -- url     : https://prove2.me/theorems/1181ca0f-ff03-4688-b8f2-f0c63a526864

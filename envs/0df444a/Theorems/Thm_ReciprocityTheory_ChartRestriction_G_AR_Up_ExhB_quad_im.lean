@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExhB_quad_im
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExhB.quad_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:57:15.187942+00:00
 -- url     : https://prove2.me/theorems/21393493-9944-576d-8c45-ec8fcc42a451

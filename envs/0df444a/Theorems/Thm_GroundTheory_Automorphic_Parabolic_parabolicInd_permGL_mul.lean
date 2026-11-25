@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_parabolicInd_permGL_mul
 -- name    : GroundTheory.Automorphic.Parabolic.parabolicInd_permGL_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:02:29.02164+00:00
 -- url     : https://prove2.me/theorems/4e4ee482-788b-5c75-a51e-eacf25a65432

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pushA_piece_norm
 -- name    : ReciprocityTheory.AnForm.M.pushA_piece_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T06:04:19.515834+00:00
 -- url     : https://prove2.me/theorems/b6609dd4-fb36-58eb-b161-69be881c9d4f

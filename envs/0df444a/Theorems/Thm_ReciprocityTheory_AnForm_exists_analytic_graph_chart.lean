@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_exists_analytic_graph_chart
 -- name    : ReciprocityTheory.AnForm.exists_analytic_graph_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:06.47469+00:00
 -- url     : https://prove2.me/theorems/7527c8e3-c600-525f-8e34-7866443c4709

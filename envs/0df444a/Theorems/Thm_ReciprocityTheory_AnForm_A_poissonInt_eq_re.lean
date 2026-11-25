@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_poissonInt_eq_re
 -- name    : ReciprocityTheory.AnForm.A.poissonInt_eq_re
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:19:25.177401+00:00
 -- url     : https://prove2.me/theorems/812ebe29-3fed-4e2b-b887-04043ae56ec8

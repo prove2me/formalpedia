@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_step_c
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.step_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:07:14.327053+00:00
 -- url     : https://prove2.me/theorems/9ee6b837-238d-5dac-8ddd-7bcc5069cb11

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_DivLA_multilinear_expand
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.DivLA.multilinear_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:58:43.669777+00:00
 -- url     : https://prove2.me/theorems/453425ac-abb8-42b8-a37f-b79432134d81

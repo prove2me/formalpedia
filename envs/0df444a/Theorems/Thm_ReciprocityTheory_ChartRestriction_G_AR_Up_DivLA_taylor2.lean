@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_DivLA_taylor2
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.DivLA.taylor2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:59:08.176699+00:00
 -- url     : https://prove2.me/theorems/6a5d4b3c-1a6b-4766-8560-43705e4fbcaa

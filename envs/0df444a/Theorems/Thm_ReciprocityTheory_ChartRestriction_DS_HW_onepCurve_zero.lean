@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_onepCurve_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.onepCurve_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:40:48.844323+00:00
 -- url     : https://prove2.me/theorems/59779702-9726-5b1f-a8e0-64e568ea8582

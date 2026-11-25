@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_lint_lmul
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.lint_lmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:55:08.49724+00:00
 -- url     : https://prove2.me/theorems/d9c6a1da-64bc-5e52-9ee4-62a1e42df032

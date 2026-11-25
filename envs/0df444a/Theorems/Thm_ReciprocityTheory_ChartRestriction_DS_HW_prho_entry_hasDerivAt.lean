@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_prho_entry_hasDerivAt
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.prho_entry_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:42:58.978432+00:00
 -- url     : https://prove2.me/theorems/47a98574-2f54-58f5-a55e-98ab758df5c6

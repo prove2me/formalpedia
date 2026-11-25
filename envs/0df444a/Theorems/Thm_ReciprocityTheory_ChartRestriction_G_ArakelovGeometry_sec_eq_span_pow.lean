@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_sec_eq_span_pow
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.sec_eq_span_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:10:47.226867+00:00
 -- url     : https://prove2.me/theorems/bd5c8021-f17b-54f7-8c75-237637609ac0

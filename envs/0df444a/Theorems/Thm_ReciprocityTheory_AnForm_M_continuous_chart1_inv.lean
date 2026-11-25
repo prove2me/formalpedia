@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_continuous_chart1_inv
 -- name    : ReciprocityTheory.AnForm.M.continuous_chart1_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:19:12.4839+00:00
 -- url     : https://prove2.me/theorems/39ba7975-0473-53be-8689-8fcba7febc97

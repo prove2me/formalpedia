@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_snd_affine
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.snd_affine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:55:57.813151+00:00
 -- url     : https://prove2.me/theorems/07324797-8353-546c-b0d4-eb9676b6b292

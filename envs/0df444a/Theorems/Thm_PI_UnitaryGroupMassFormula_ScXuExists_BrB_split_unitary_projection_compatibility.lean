@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_ScXuExists_BrB_split_unitary_projection_compatibility
 -- name    : PI.UnitaryGroupMassFormula.ScXuExists.BrB.split_unitary_projection_compatibility
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:03:13.071709+00:00
 -- url     : https://prove2.me/theorems/71d56519-8ad6-4883-91e4-40cf129cee94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_eval_eq_zero_of_isLocalRing
 -- name    : ReciprocityTheory.AnForm.R.eval_eq_zero_of_isLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:37:14.17924+00:00
 -- url     : https://prove2.me/theorems/e945ff79-fcd1-4028-bfa2-240f36701069

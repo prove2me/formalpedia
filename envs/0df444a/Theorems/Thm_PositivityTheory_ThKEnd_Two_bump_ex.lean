@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_bump_ex
 -- name    : PositivityTheory.ThKEnd.Two.bump_ex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:23.27514+00:00
 -- url     : https://prove2.me/theorems/146dfbf0-d455-4fea-8204-32e65477f6ee

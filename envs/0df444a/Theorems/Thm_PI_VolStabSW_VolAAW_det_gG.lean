@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_VolAAW_det_gG
 -- name    : PI.VolStabSW.VolAAW.det_gG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:04:17.242161+00:00
 -- url     : https://prove2.me/theorems/8e9d2085-5054-4389-8455-fc69644daaa3

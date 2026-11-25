@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_abs_prod_sub_prod_sub_lin_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.abs_prod_sub_prod_sub_lin_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:02:44.764467+00:00
 -- url     : https://prove2.me/theorems/7a383def-e1a8-48a8-9c09-bc2edb944979

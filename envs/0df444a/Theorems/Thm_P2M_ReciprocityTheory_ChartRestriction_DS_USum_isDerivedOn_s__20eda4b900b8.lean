@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_USum_isDerivedOn_s__20eda4b900b8
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_USum_isDerivedOn_s__20eda4b900b8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:08.790323+00:00
 -- url     : https://prove2.me/theorems/595e6188-ab88-4f10-9787-09f30512e959

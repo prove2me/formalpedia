@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_first_basis_middle_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.first_basis_middle_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:52:14.264664+00:00
 -- url     : https://prove2.me/theorems/5b83c376-c1ba-597f-90db-6df1f9989dc6

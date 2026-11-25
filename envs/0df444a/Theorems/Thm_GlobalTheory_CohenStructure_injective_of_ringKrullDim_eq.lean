@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CohenStructure_injective_of_ringKrullDim_eq
 -- name    : GlobalTheory.CohenStructure.injective_of_ringKrullDim_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:07:45.332718+00:00
 -- url     : https://prove2.me/theorems/c9924d36-157c-4485-8081-2ff80f0dabad

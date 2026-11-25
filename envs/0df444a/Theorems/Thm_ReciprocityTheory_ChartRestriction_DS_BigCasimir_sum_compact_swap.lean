@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_BigCasimir_sum_compact_swap
 -- name    : ReciprocityTheory.ChartRestriction.DS.BigCasimir.sum_compact_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:38:50.93087+00:00
 -- url     : https://prove2.me/theorems/2f81dd44-c320-4a5e-a923-a7b406b82093

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_theta_single
 -- name    : ReciprocityTheory.ChartRestriction.DS.theta_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:56:19.379468+00:00
 -- url     : https://prove2.me/theorems/85662199-c0b6-5b8d-87af-5f0413d57e94

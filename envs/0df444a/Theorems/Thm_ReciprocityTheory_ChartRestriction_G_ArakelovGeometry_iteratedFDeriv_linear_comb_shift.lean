@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_iteratedFDeriv_linear_comb_shift
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.iteratedFDeriv_linear_comb_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:17:17.82781+00:00
 -- url     : https://prove2.me/theorems/ebfc24af-0597-5633-8b7a-27dc9d8f83be

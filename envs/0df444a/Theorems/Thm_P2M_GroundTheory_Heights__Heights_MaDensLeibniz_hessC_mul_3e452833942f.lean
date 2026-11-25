@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensLeibniz_hessC_mul_3e452833942f
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensLeibniz_hessC_mul_3e452833942f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:48:08.367511+00:00
 -- url     : https://prove2.me/theorems/48610c8b-0d8e-510c-903d-fcbdc3fa6e03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_contDiff_uM_entry
 -- name    : PositivityTheory.Rg.Sw.WR.B.contDiff_uM_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:02:14.419723+00:00
 -- url     : https://prove2.me/theorems/296936c5-29aa-50f8-b7cb-b6b362f518b7

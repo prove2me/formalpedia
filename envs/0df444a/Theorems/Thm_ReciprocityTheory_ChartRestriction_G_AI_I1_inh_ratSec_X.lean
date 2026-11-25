@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_inh_ratSec_X
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.inh_ratSec_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:54:35.003543+00:00
 -- url     : https://prove2.me/theorems/ce8732e1-0c51-46ee-a403-a55a8f396183

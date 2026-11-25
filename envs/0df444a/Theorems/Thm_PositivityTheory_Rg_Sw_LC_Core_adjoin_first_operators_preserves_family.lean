@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Core_adjoin_first_operators_preserves_family
 -- name    : PositivityTheory.Rg.Sw.LC.Core.adjoin_first_operators_preserves_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:55:37.485563+00:00
 -- url     : https://prove2.me/theorems/5a8ef316-4fb2-4047-b4e0-9d99a13a24a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_plurisubharmonicShift_proof
 -- name    : ReciprocityTheory.AnForm.M.plurisubharmonicShift_proof
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:32:33.113386+00:00
 -- url     : https://prove2.me/theorems/5b6feb37-f221-5895-b71c-48b6a6f72d10

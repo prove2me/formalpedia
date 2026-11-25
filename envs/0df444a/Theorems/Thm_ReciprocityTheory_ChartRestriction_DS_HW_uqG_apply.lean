@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_uqG_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.uqG_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:41:22.186235+00:00
 -- url     : https://prove2.me/theorems/1b1185b3-1c9b-5bbd-bc6a-e6f743079b1e

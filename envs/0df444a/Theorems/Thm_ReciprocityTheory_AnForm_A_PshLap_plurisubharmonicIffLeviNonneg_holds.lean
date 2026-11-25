@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_plurisubharmonicIffLeviNonneg_holds
 -- name    : ReciprocityTheory.AnForm.A.PshLap.plurisubharmonicIffLeviNonneg_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:40:12.41009+00:00
 -- url     : https://prove2.me/theorems/872d3463-9162-4545-96e4-d0c84e24387e

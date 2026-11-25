@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_count
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:01:34.876902+00:00
 -- url     : https://prove2.me/theorems/e8852050-af90-44fb-96f1-18804fd1c5f4

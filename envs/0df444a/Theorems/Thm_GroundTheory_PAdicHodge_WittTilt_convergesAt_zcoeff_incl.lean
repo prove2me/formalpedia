@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_convergesAt_zcoeff_incl
 -- name    : GroundTheory.PAdicHodge.WittTilt.convergesAt_zcoeff_incl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:46:55.099031+00:00
 -- url     : https://prove2.me/theorems/84ff9847-a5e2-445f-85c8-32ccaad336e8

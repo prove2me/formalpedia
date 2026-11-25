@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantGroupCounts_kerCount_main
 -- name    : Formalism.L2.SG.Pf.discriminantGroupCounts.kerCount_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:46:51.377485+00:00
 -- url     : https://prove2.me/theorems/f237a0b1-1570-40a5-8916-c2ccb12a129c

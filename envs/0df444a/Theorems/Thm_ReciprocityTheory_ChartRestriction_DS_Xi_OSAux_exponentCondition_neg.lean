@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_exponentCondition_neg
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.exponentCondition_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:49:43.067915+00:00
 -- url     : https://prove2.me/theorems/fca96fa8-2707-4a85-b3f9-098df2081578

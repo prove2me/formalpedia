@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_singleV_zero
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.singleV_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:09:55.588849+00:00
 -- url     : https://prove2.me/theorems/24c6b3f5-03ca-469f-8e3a-af663e53ec23

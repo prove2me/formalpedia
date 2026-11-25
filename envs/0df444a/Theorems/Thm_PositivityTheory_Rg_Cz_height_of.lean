@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_height_of
 -- name    : PositivityTheory.Rg.Cz.height_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:54:06.392042+00:00
 -- url     : https://prove2.me/theorems/b66f3580-264e-4a16-989e-5c9643a9a1bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_length_ne_top_of_killed
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.length_ne_top_of_killed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:55:07.572521+00:00
 -- url     : https://prove2.me/theorems/27c51c53-ed98-4a63-9a8d-3be009d23a44

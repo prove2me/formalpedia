@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_length_localization_bot_eq_finrank
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.length_localization_bot_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:55:03.173136+00:00
 -- url     : https://prove2.me/theorems/f53a7ff1-e16a-48f0-8622-e1922953ebd3

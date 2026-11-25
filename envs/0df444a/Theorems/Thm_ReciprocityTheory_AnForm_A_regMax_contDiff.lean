@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_regMax_contDiff
 -- name    : ReciprocityTheory.AnForm.A.regMax_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:32:48.931796+00:00
 -- url     : https://prove2.me/theorems/f2d450c7-9f13-4ffe-8bcd-186374976dd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pushA_hasSum_ind
 -- name    : ReciprocityTheory.AnForm.M.pushA_hasSum_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:53.980801+00:00
 -- url     : https://prove2.me/theorems/c2fcc972-1501-4c54-a4f3-2a23aecf9313

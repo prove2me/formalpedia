@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HodgeComputer_FourPlusTwoResidual_exists_affine_dehomogenized_swept_support
 -- name    : HodgeComputer.FourPlusTwoResidual.exists_affine_dehomogenized_swept_support
--- status  : Open
+-- status  : Proved
 -- author  : @pageman
 -- created : 2026-11-25T11:57:23.194902+00:00
 -- url     : https://prove2.me/theorems/0c5f4451-c61a-4c3d-bda6-8eb7b169378f

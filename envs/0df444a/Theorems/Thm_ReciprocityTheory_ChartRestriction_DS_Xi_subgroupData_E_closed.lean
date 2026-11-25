@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_subgroupData_E_closed
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.subgroupData.E_closed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:29.834751+00:00
 -- url     : https://prove2.me/theorems/54e4d00b-ff98-46b7-8266-9bdb7803f4a6

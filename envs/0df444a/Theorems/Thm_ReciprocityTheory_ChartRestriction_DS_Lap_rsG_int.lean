@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_rsG_int
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.rsG_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:16.92389+00:00
 -- url     : https://prove2.me/theorems/b0446443-c3ee-5cb3-a0a4-56b151ac9715

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_eq_integral_radial_second
 -- name    : ReciprocityTheory.AnForm.A.PshLap.eq_integral_radial_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:04:56.521286+00:00
 -- url     : https://prove2.me/theorems/48047cbe-ef6d-48ca-a07d-198ac04c8130

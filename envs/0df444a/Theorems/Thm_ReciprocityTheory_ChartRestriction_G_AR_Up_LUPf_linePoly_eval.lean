@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUPf_linePoly_eval
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUPf.linePoly_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:01:37.906032+00:00
 -- url     : https://prove2.me/theorems/5deb7faf-ad3e-5f3c-8833-3908edc83a10

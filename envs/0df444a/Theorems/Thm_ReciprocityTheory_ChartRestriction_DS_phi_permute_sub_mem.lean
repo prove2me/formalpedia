@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_phi_permute_sub_mem
 -- name    : ReciprocityTheory.ChartRestriction.DS.phi_permute_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:57.10249+00:00
 -- url     : https://prove2.me/theorems/699d9ecc-7302-4ece-98e6-e36a735b9559

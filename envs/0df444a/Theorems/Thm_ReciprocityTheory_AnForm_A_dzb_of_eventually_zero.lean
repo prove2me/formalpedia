@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_dzb_of_eventually_zero
 -- name    : ReciprocityTheory.AnForm.A.dzb_of_eventually_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:56.606106+00:00
 -- url     : https://prove2.me/theorems/7d0c23a3-bfeb-41fe-a540-b4fa5a5056a8

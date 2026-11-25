@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_dominated_event_zero
 -- name    : Kyprianou.Ch04.kw47_dominated_event_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T11:40:10.067592+00:00
 -- url     : https://prove2.me/theorems/d549e21e-dcf3-5555-bc38-63d11392c54a

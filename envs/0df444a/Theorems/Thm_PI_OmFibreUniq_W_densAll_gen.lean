@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_OmFibreUniq_W_densAll_gen
 -- name    : PI.OmFibreUniq.W.densAll_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:16:32.045316+00:00
 -- url     : https://prove2.me/theorems/ff803670-cb32-4cee-a6a3-315600029f63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_contDiffOn_scalar_section
 -- name    : PositivityTheory.Rg.Sw.LVs.contDiffOn_scalar_section
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:12.983802+00:00
 -- url     : https://prove2.me/theorems/18fc1d14-32f4-4c9e-a403-4e38d08c9d29

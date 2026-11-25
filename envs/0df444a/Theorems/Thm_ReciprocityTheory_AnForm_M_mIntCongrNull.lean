@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_mIntCongrNull
 -- name    : ReciprocityTheory.AnForm.M.mIntCongrNull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:31:43.889802+00:00
 -- url     : https://prove2.me/theorems/d77b41bd-57f7-47a1-b247-2b046358eaae

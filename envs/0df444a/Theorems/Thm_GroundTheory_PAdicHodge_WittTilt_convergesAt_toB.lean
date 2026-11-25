@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_convergesAt_toB
 -- name    : GroundTheory.PAdicHodge.WittTilt.convergesAt_toB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:45:59.05183+00:00
 -- url     : https://prove2.me/theorems/02721d07-0391-5e3a-87a5-7fec51832f51

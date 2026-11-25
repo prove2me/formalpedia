@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CasPsB_hasFDerivAt_DPhi
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CasPsB.hasFDerivAt_DPhi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:51.279967+00:00
 -- url     : https://prove2.me/theorems/5b65c936-a311-5d7d-9f53-9f5f9ef94453

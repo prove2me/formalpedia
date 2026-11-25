@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_hasStrictFDerivAt_translateLog
 -- name    : ReciprocityTheory.ChartRestriction.DS.HExp.hasStrictFDerivAt_translateLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:39:00.621912+00:00
 -- url     : https://prove2.me/theorems/8f5643c8-695d-4418-81ad-f25aafd64cb6

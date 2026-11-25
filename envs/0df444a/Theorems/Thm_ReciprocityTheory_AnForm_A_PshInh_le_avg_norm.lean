@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshInh_le_avg_norm
 -- name    : ReciprocityTheory.AnForm.A.PshInh.le_avg_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:11.789207+00:00
 -- url     : https://prove2.me/theorems/b2f44cfe-3d0f-419e-aa30-381196daa02f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_decA_lead_last
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.decA_lead_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:49:05.027347+00:00
 -- url     : https://prove2.me/theorems/acae625c-d561-5bf7-b85c-f4516e19459a

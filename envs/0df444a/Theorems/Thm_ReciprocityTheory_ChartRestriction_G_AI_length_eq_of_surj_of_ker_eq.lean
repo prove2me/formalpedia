@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_length_eq_of_surj_of_ker_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.length_eq_of_surj_of_ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:17.294138+00:00
 -- url     : https://prove2.me/theorems/ddbf1429-99cd-583b-b3bf-9556f8f1af04

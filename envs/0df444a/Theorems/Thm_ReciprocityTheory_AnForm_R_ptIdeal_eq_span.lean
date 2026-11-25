@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_ptIdeal_eq_span
 -- name    : ReciprocityTheory.AnForm.R.ptIdeal_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:37:37.793802+00:00
 -- url     : https://prove2.me/theorems/e5f39d1d-436f-402a-9a2f-224b68064164

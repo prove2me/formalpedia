@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slm_inG_of_curve
 -- name    : ReciprocityTheory.ChartRestriction.DS.slm_inG_of_curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:54:22.392255+00:00
 -- url     : https://prove2.me/theorems/4d155aa3-0dcf-438b-8428-4c8cbe047c0d

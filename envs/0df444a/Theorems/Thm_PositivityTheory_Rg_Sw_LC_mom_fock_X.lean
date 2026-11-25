@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_mom_fock_X
 -- name    : PositivityTheory.Rg.Sw.LC.mom_fock_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:09.728207+00:00
 -- url     : https://prove2.me/theorems/36430040-b75a-4ac7-a06a-7c42c2e738dc

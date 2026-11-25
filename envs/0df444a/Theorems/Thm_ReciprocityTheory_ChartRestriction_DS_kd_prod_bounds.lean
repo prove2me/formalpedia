@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_kd_prod_bounds
 -- name    : ReciprocityTheory.ChartRestriction.DS.kd_prod_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:51:21.933603+00:00
 -- url     : https://prove2.me/theorems/b47a7c9d-6a9e-5848-a2c1-dc1b057978c8

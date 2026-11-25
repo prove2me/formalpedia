@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_HermitianLiftIdentities_hpk_mid
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.HermitianLiftIdentities.hpk_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:48:40.156806+00:00
 -- url     : https://prove2.me/theorems/35c3260d-aa61-4f00-9b0f-fa8a1861e7a9

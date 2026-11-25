@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_lowComp_tensAct_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.lowComp_tensAct_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:42:10.468916+00:00
 -- url     : https://prove2.me/theorems/93f0efbe-3f26-5eb6-ab09-6cc2941e87a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_derivExists_of
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.derivExists_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:40:27.846515+00:00
 -- url     : https://prove2.me/theorems/b7fbbfc7-8eae-4047-b411-d783a6dad59f

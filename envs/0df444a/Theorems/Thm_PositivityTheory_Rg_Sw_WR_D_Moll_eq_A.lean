@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Moll_eq_A
 -- name    : PositivityTheory.Rg.Sw.WR.D.Moll.eq_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:01:26.388989+00:00
 -- url     : https://prove2.me/theorems/d97f62d9-2794-44d4-a2a8-dd2f476ed886

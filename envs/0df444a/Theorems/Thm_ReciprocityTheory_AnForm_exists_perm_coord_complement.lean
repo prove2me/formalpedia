@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_exists_perm_coord_complement
 -- name    : ReciprocityTheory.AnForm.exists_perm_coord_complement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:19.535614+00:00
 -- url     : https://prove2.me/theorems/45fcc372-a5c8-577f-967e-2b27f15be059

@@ -35258,7 +35258,7 @@
 {"parent": "AvramDividend.Classical.avram_gbB44_original_admissible_finitecap_postpayment_terminal_corner_gap", "child": "AvramDividend.Classical.capped_postPaymentReserve_ofReal_le_cap", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_gbB44_original_admissible_finitecap_postpayment_terminal_corner_gap", "child": "AvramDividend.Classical.avram_gbB43_original_finitecap_terminal_caplinear_gap_bounded_by_corner", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLowSlabThirteenthCell04", "child": "row23_rh_supp_RHLowSlabThirteenthPilot", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exponentialTimeReflectedInfimumTransform", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exponentialTimeReflectedInfimumTransform", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_a116_original_intrinsic_gaussian_physical_jump_joint_charfun_20261114", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
 {"parent": "AvramDividend.Classical.avram_a116_original_intrinsic_gaussian_physical_jump_joint_charfun_20261114", "child": "AvramDividend_Classical_avram_p4_h_gaussian_intrinsic_truncated_residual", "via": ["statement"]}
 {"parent": "APFPaper1.Source.card_needed_le_familyCost", "child": "APFPaper1_FamilyCost", "via": ["solution", "statement"]}
@@ -52901,7 +52901,7 @@
 {"parent": "GaussPart.Supplement.theorem_1_11", "child": "GaussMixHH_Machine", "via": ["statement"]}
 {"parent": "BatchMaxService.Metric.Supplement.hidden_request_lower_bounds", "child": "BatchMaxService_Metric_Supplement_LowerBounds", "via": ["statement"]}
 {"parent": "RankCutFacility.Shifted.Supplement.osrc_tight", "child": "RankCutFacility_Shifted_Supplement_Runs", "via": ["statement"]}
-{"parent": "Kyprianou.Ch04.exercise_4_6_ii_goalV2", "child": "Kyprianou_Ch04_Exercise4_6Certification", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise_4_6_ii_goalV2", "child": "Kyprianou_Ch04_Exercise4_6Certification", "via": ["solution", "statement"]}
 {"parent": "GreedyRegionGrowing.Layouts.Supplement.lemma_6_8", "child": "GreedyRegionGrowing_Layouts_Foundation", "via": ["statement"]}
 {"parent": "IntervalMaxCutEPTAS.Scheme.Supplement.theorem_1_2", "child": "IntervalMaxCutEPTAS_Scheme_Supplement_WidthMachine", "via": ["statement"]}
 {"parent": "MatMulDS.Supplement.theorem_8_8", "child": "MatMulDS_Supplement_AdmissibleSaving", "via": ["statement"]}

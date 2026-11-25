@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_aeval_eq_pow_mul_deh
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.aeval_eq_pow_mul_deh
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:41.150835+00:00
 -- url     : https://prove2.me/theorems/f8127e8e-a7ec-41d7-acce-6edf3231e31e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mdisc_cons_smul_fst
 -- name    : ReciprocityTheory.AnForm.A.mdisc_cons_smul_fst
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:54:13.204141+00:00
 -- url     : https://prove2.me/theorems/d44bbdc5-819c-4a44-81e6-a36309866c81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_quadraticSublevelDecay__420e02ea6103
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_quadraticSublevelDecay__420e02ea6103
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:12:35.246411+00:00
 -- url     : https://prove2.me/theorems/621a181f-546f-464b-8fd4-f89b16f02689

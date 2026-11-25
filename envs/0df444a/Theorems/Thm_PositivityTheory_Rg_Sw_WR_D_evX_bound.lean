@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_evX_bound
 -- name    : PositivityTheory.Rg.Sw.WR.D.evX_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:01:48.263038+00:00
 -- url     : https://prove2.me/theorems/e4c181f7-bdf5-46f5-9182-d335a28d5360

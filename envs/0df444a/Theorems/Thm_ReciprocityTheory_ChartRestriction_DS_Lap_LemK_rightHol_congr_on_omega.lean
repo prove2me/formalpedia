@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_rightHol_congr_on_omega
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.rightHol_congr_on_omega
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:03:23.947809+00:00
 -- url     : https://prove2.me/theorems/8d77ad33-32a7-44c6-b03d-341f04dd9a1f

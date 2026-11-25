@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PolydiscLelongLimit_logReg_contDiffOn_bc10d91e3661
 -- name    : P2M_GroundTheory_Heights__Heights_PolydiscLelongLimit_logReg_contDiffOn_bc10d91e3661
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:16:06.112838+00:00
 -- url     : https://prove2.me/theorems/664f05cd-2158-4eb3-a15b-9001d9795bd2

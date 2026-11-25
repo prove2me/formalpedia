@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_pol_eq_rowDiv
 -- name    : PI.WGL.pol_eq_rowDiv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:01:11.873246+00:00
 -- url     : https://prove2.me/theorems/0b19f1c5-c49e-4412-be3e-ee235b730000

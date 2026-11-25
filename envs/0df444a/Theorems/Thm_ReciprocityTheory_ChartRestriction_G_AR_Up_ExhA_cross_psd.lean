@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExhA_cross_psd
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExhA.cross_psd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:56:48.852032+00:00
 -- url     : https://prove2.me/theorems/5187980d-62d1-41de-a5f9-a60f9bee4343

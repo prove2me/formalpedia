@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_symm_piecewise_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.symm_piecewise_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:55:11.192087+00:00
 -- url     : https://prove2.me/theorems/7c6504ef-29ad-5539-b827-58dfd9766604

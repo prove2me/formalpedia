@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_capelli_determinant_integer_rising
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.capelli_determinant_integer_rising
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:09.606801+00:00
 -- url     : https://prove2.me/theorems/d4959646-bebc-44b8-a899-276385175858

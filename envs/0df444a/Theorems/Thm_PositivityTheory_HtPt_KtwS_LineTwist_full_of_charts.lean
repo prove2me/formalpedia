@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_HtPt_KtwS_LineTwist_full_of_charts
 -- name    : PositivityTheory.HtPt.KtwS.LineTwist.full_of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:54:05.606618+00:00
 -- url     : https://prove2.me/theorems/17d02dc4-6b36-5b93-9c6d-0de7f241d15b

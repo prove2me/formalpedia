@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_mem_polys_of_coeff
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.mem_polys_of_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:21.390146+00:00
 -- url     : https://prove2.me/theorems/0aaa3691-875b-490c-99ab-4516c5ba9a98

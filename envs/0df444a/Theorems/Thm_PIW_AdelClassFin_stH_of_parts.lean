@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_stH_of_parts
 -- name    : PIW.AdelClassFin.stH_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:50:52.321006+00:00
 -- url     : https://prove2.me/theorems/d23db0bb-1691-5f6a-9531-5d557bfe583b

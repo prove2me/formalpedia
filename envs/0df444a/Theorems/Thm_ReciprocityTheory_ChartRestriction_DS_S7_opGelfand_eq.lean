@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_opGelfand_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.opGelfand_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:49:30.245334+00:00
 -- url     : https://prove2.me/theorems/d0b63866-52c0-57fb-bb54-8d28201e7154

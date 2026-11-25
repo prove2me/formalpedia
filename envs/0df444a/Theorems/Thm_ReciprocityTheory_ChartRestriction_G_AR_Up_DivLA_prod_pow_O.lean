@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_DivLA_prod_pow_O
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.DivLA.prod_pow_O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:57:13.75239+00:00
 -- url     : https://prove2.me/theorems/296f3282-0dbf-56e3-a5ca-65100fa600e8

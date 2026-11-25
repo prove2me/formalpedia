@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_isMultiHomog_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.isMultiHomog_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:25.865809+00:00
 -- url     : https://prove2.me/theorems/e74b7d85-4738-40b4-ab9d-90d1efc3d4fa

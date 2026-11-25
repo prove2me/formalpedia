@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_Osgood_cauchy_polydisc
 -- name    : ReciprocityTheory.AnForm.Osgood.cauchy_polydisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:32:36.156348+00:00
 -- url     : https://prove2.me/theorems/3b1fb8d8-2526-5ebc-b736-5f445f3c91e1

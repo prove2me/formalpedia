@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_SchI_taylor
 -- name    : PositivityTheory.ThKOwn.SchI.taylor
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:23.325855+00:00
 -- url     : https://prove2.me/theorems/4eb19355-aba5-48ae-9ec1-15222cb5ab54

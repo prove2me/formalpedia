@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PairUnfoldPf_enorm_ind_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PairUnfoldPf.enorm_ind_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:07:37.765672+00:00
 -- url     : https://prove2.me/theorems/47f7bbf4-8932-456b-8d7d-88f9d4c5a76a

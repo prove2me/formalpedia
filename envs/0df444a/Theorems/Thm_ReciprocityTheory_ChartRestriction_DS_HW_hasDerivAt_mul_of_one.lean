@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_hasDerivAt_mul_of_one
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.hasDerivAt_mul_of_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:40:14.827409+00:00
 -- url     : https://prove2.me/theorems/bc0ff991-2d6d-4f07-81a6-71c2ad7f8fb9

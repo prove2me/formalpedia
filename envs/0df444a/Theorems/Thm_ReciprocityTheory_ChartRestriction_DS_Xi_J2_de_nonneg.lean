@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_J2_de_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.J2.de_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:47:15.377018+00:00
 -- url     : https://prove2.me/theorems/969ffd08-1dcc-5d75-a0a7-7e44eda6a526

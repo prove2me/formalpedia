@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_bvUnitMarginalRealExponentialMoment
 -- name    : Kyprianou.Ch04.bvUnitMarginalRealExponentialMoment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T00:30:24.85538+00:00
 -- url     : https://prove2.me/theorems/66add565-ed22-46c7-a5a0-4708738a9300

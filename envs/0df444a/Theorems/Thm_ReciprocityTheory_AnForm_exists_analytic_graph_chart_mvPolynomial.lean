@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_exists_analytic_graph_chart_mvPolynomial
 -- name    : ReciprocityTheory.AnForm.exists_analytic_graph_chart_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:10.782802+00:00
 -- url     : https://prove2.me/theorems/33cbdc11-9d1b-5db2-a550-45b27dc145c2

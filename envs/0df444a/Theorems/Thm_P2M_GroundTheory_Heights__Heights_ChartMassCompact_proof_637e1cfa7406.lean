@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMassCompact_proof_637e1cfa7406
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMassCompact_proof_637e1cfa7406
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:27:47.866343+00:00
 -- url     : https://prove2.me/theorems/161393ab-7311-4ed3-b8f6-512de4be6225

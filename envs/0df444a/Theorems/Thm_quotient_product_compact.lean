@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_quotient_product_compact
 -- name    : quotient_product_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:38:56.740228+00:00
 -- url     : https://prove2.me/theorems/c0b56d18-bd60-40a6-96da-752ed463b085

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_CS_Dual_series
 -- name    : PositivityTheory.ThKEst.CS.Dual.series
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:18.979842+00:00
 -- url     : https://prove2.me/theorems/289b9dd3-22a2-4827-9dfb-22412a202d91

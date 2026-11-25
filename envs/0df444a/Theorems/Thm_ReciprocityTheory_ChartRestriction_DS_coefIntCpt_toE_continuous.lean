@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefIntCpt_toE_continuous
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefIntCpt_toE_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:51:21.885345+00:00
 -- url     : https://prove2.me/theorems/5e11bac5-8af2-43e6-bec2-3bf28f3df0b1

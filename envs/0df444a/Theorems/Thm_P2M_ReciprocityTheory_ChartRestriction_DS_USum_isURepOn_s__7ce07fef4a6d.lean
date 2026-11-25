@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_USum_isURepOn_s__7ce07fef4a6d
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_USum_isURepOn_s__7ce07fef4a6d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:13.701809+00:00
 -- url     : https://prove2.me/theorems/3a330d40-fa62-4b77-a20c-94cc4328c55c

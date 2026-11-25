@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_T_contDiff_FD
 -- name    : PositivityTheory.Rg.Sw.WR.T.contDiff_FD
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:53:58.846415+00:00
 -- url     : https://prove2.me/theorems/6ea3994a-a917-4c35-8e68-1d5177c3781d

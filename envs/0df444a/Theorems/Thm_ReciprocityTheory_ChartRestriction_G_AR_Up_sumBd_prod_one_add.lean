@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_prod_one_add
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_prod_one_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:05:04.591699+00:00
 -- url     : https://prove2.me/theorems/b61870df-0af3-46ad-ba63-654e067166e2

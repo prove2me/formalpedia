@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G3_uni_part
 -- name    : Formalism.L2.SG.Pf.G3.uni_part
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:35:23.643793+00:00
 -- url     : https://prove2.me/theorems/e0912816-51f2-4408-a8c1-a3b353131367

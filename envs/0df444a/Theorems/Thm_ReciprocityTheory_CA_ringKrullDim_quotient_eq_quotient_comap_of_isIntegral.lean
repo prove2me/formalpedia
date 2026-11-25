@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_ringKrullDim_quotient_eq_quotient_comap_of_isIntegral
 -- name    : ReciprocityTheory.CA.ringKrullDim_quotient_eq_quotient_comap_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:16:30.533068+00:00
 -- url     : https://prove2.me/theorems/2a8e1b1d-5e89-407a-a40c-07b48995b3f9

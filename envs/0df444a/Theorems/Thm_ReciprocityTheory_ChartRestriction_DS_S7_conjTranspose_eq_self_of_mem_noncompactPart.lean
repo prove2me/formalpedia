@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_conjTranspose_eq_self_of_mem_noncompactPart
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.conjTranspose_eq_self_of_mem_noncompactPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:49:39.185864+00:00
 -- url     : https://prove2.me/theorems/2c27ee36-9e6d-5618-bdd4-831889c3574f

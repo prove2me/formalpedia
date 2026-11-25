@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slm_le_inf
 -- name    : ReciprocityTheory.ChartRestriction.DS.slm_le_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:54:52.619747+00:00
 -- url     : https://prove2.me/theorems/f788e661-e817-5993-804d-159588929c7b

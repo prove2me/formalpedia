@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_DivSt_chi_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.DivSt.chi_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:06:05.73169+00:00
 -- url     : https://prove2.me/theorems/cecde84e-3a1b-5206-aedd-578e336a3426

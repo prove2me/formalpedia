@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_kRepPiece_of
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.kRepPiece_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:40:50.345835+00:00
 -- url     : https://prove2.me/theorems/d150c43a-7024-43a3-9add-ee5217b39b09

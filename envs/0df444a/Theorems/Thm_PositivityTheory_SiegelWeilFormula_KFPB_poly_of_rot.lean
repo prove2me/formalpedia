@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KFPB_poly_of_rot
 -- name    : PositivityTheory.SiegelWeilFormula.KFPB.poly_of_rot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:10.496825+00:00
 -- url     : https://prove2.me/theorems/f13f4a0e-1e8c-4d0a-a59b-436ac9e4deef

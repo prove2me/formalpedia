@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_iteratedDeriv_orbit
 -- name    : ReciprocityTheory.ChartRestriction.DS.iteratedDeriv_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:51:21.883044+00:00
 -- url     : https://prove2.me/theorems/03b7b449-e6d9-5184-8f8b-ff11675ea642

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_firstVector_apply_succ
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.firstVector_apply_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:47:01.333706+00:00
 -- url     : https://prove2.me/theorems/10704302-e268-4b44-8a20-9f4377e9c61e

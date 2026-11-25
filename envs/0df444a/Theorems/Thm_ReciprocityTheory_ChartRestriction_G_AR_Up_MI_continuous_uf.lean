@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_continuous_uf
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.continuous_uf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:08:28.600799+00:00
 -- url     : https://prove2.me/theorems/34c2b0de-94fe-5512-8f10-ee87f4d730dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_dual_intersection
 -- name    : PIW.AdelClassFin.dual_intersection
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:28:58.400245+00:00
 -- url     : https://prove2.me/theorems/18a4be57-834f-4e6e-83f6-020a94dc9b27

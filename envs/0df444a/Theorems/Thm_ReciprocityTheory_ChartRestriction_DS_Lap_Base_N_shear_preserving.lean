@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_shear_preserving
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.shear_preserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:19.168533+00:00
 -- url     : https://prove2.me/theorems/617c505d-d430-4191-9ba8-7c0e8546e4d0

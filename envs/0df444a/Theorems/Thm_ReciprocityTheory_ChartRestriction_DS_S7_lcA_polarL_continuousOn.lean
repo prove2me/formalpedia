@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_lcA_polarL_continuousOn
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.lcA_polarL_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:06:21.663046+00:00
 -- url     : https://prove2.me/theorems/33a5e4b1-f700-4e65-ad3a-2b90c7d38f00

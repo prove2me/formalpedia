@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_mulQ_exact
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.mulQ_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:54:51.78191+00:00
 -- url     : https://prove2.me/theorems/99f2a945-5682-5e5f-a95c-4a724fbf8561

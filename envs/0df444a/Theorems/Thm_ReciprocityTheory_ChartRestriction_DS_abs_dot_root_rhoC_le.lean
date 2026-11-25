@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_abs_dot_root_rhoC_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.abs_dot_root_rhoC_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:49:47.26904+00:00
 -- url     : https://prove2.me/theorems/1e56c235-b545-4ccb-8ca1-bbecd6109ecf

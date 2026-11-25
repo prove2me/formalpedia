@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_gramFilt_of
 -- name    : PI.VolStabW.gramFilt_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:54:50.1547+00:00
 -- url     : https://prove2.me/theorems/9e4dea21-a921-440a-a2d3-4cf5a0c701ed

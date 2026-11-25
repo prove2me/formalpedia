@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_kDel_kD
 -- name    : PositivityTheory.Rg.Cz.kDel_kD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:09:10.919852+00:00
 -- url     : https://prove2.me/theorems/e156d2b3-eea3-52f0-8f5b-442900bde28f

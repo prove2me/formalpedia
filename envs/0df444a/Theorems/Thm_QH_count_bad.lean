@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_count_bad
 -- name    : QH.count_bad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:06:48.634207+00:00
 -- url     : https://prove2.me/theorems/aece8fae-d80c-4fa2-9ee6-c8d289887c39

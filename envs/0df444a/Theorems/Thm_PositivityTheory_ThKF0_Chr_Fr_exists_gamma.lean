@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_Fr_exists_gamma
 -- name    : PositivityTheory.ThKF0.Chr.Fr.exists_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:23:43.549111+00:00
 -- url     : https://prove2.me/theorems/faf4b460-314e-4c32-ac7a-3da7456f9e31

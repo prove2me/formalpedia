@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DeterminantAdmissible_detAdm_gen
 -- name    : PI.VolStabW.DeterminantAdmissible.detAdm_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:43:26.904987+00:00
 -- url     : https://prove2.me/theorems/a983fb60-efca-4c90-9477-aa9a96d39a3b

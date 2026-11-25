@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_lipschitz_tmax
 -- name    : ReciprocityTheory.AnForm.A.lipschitz_tmax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:05:48.445584+00:00
 -- url     : https://prove2.me/theorems/359002b8-4a84-5ae9-a549-0aab19d4105b

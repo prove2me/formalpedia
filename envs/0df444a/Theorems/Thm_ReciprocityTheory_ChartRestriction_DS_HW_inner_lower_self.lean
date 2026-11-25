@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_inner_lower_self
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.inner_lower_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:40:41.116521+00:00
 -- url     : https://prove2.me/theorems/fbf934e7-67fa-4936-85e7-869631e688bd

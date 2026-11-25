@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_mem_lowerWedge_iff
 -- name    : ReciprocityTheory.ChartRestriction.DS.mem_lowerWedge_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:53:54.689975+00:00
 -- url     : https://prove2.me/theorems/8a6005cb-9e2a-4a74-989a-ba7740b52e9b

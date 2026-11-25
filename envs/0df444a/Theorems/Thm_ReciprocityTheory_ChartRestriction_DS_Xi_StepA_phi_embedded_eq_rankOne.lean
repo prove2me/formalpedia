@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_phi_embedded_eq_rankOne
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.phi_embedded_eq_rankOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:54:19.20042+00:00
 -- url     : https://prove2.me/theorems/a51a4230-a18f-57ab-bd11-06707167cbb7

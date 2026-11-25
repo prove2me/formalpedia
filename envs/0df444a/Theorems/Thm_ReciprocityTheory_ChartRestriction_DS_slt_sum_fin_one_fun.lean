@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slt_sum_fin_one_fun
 -- name    : ReciprocityTheory.ChartRestriction.DS.slt_sum_fin_one_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:00:04.567982+00:00
 -- url     : https://prove2.me/theorems/53fb1e9c-1b9a-58c4-a6e1-2a6c047c331f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassMass_surjStep_of_F
 -- name    : PI.UnitaryGroupMassFormula.UJClassMass.surjStep_of_F
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:42:25.164601+00:00
 -- url     : https://prove2.me/theorems/59793caa-103d-4a2c-92e2-80c750c4611f

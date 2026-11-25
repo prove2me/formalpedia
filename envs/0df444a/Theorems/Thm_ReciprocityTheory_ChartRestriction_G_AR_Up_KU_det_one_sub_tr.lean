@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_KU_det_one_sub_tr
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.KU.det_one_sub_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:59:52.490315+00:00
 -- url     : https://prove2.me/theorems/37db5fe8-bec5-4aa0-a490-05ec343e4ccd

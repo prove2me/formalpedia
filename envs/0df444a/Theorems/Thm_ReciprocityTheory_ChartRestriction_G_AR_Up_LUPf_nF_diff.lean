@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUPf_nF_diff
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUPf.nF_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:00:45.66495+00:00
 -- url     : https://prove2.me/theorems/a7ed7d90-14d8-5703-abbf-c140843acc87

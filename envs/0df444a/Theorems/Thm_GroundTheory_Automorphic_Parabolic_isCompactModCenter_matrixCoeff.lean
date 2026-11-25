@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isCompactModCenter_matrixCoeff
 -- name    : GroundTheory.Automorphic.Parabolic.isCompactModCenter_matrixCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:53:47.350961+00:00
 -- url     : https://prove2.me/theorems/62baa634-2a83-4ec0-8942-1296ec984125

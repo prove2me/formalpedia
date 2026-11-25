@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_cauchyBinet
 -- name    : ReciprocityTheory.ChartRestriction.DS.cauchyBinet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:49:05.610804+00:00
 -- url     : https://prove2.me/theorems/702b04e3-5cff-4078-bf1e-5fe615149c6f

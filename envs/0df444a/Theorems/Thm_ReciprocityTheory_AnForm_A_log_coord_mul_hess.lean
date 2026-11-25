@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_log_coord_mul_hess
 -- name    : ReciprocityTheory.AnForm.A.log_coord_mul_hess
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:19:38.57364+00:00
 -- url     : https://prove2.me/theorems/c4aa7379-e957-4dca-a06d-88d8d5da00d0

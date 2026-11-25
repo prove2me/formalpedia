@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hDens_props
 -- name    : ReciprocityTheory.AnForm.A.hDens_props
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:45:47.784925+00:00
 -- url     : https://prove2.me/theorems/7f62de58-f0cf-4cff-9a08-fd0b4939d0c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_exists_regular_sequence_cons
 -- name    : ReciprocityTheory.CA.exists_regular_sequence_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:39:19.945813+00:00
 -- url     : https://prove2.me/theorems/6a5d0a1f-53c6-5b20-996d-053da9f2bc87

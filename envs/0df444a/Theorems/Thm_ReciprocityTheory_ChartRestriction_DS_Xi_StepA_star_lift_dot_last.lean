@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_star_lift_dot_last
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.star_lift_dot_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:12.112068+00:00
 -- url     : https://prove2.me/theorems/213e1f35-174f-57ac-8e2c-6f76be6a3df7

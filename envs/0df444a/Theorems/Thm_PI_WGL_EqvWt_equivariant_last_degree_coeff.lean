@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_EqvWt_equivariant_last_degree_coeff
 -- name    : PI.WGL.EqvWt.equivariant_last_degree_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:57:25.910892+00:00
 -- url     : https://prove2.me/theorems/3472a29a-b03e-4021-820b-c4e88ade0a19

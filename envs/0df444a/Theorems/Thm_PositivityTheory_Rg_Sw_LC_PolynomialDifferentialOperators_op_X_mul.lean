@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialDifferentialOperators_op_X_mul
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.op_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:57:27.30744+00:00
 -- url     : https://prove2.me/theorems/21347a2e-0f54-40d9-b5c4-3d16b059400f

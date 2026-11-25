@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_inv_blockTriangular
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.inv_blockTriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:58:25.748313+00:00
 -- url     : https://prove2.me/theorems/b7a8f564-6621-432e-af42-a9a6859cc86f

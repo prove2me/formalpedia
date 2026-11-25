@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_integralWith_congr_null
 -- name    : ReciprocityTheory.AnForm.M.integralWith_congr_null
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:19:22.28706+00:00
 -- url     : https://prove2.me/theorems/7fedd4a9-8409-535e-b0c8-8478679f8375

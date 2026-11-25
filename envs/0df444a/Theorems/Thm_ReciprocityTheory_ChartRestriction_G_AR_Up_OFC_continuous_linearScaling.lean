@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OFC_continuous_linearScaling
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OFC.continuous_linearScaling
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:02:33.787719+00:00
 -- url     : https://prove2.me/theorems/1cdf63b2-8452-5cb4-84c4-10507de45ded

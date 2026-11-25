@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_length_le_of_isRegular_of_mem_associatedPrimes
 -- name    : ReciprocityTheory.CA.length_le_of_isRegular_of_mem_associatedPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:39:33.037166+00:00
 -- url     : https://prove2.me/theorems/02993c18-d881-5a52-87a5-fcaccd6ec858

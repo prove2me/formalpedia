@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_contDiffOn_hF
 -- name    : PositivityTheory.Rg.Sw.LVs.contDiffOn_hF
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:25.026403+00:00
 -- url     : https://prove2.me/theorems/ca9a115b-02d3-40ee-a410-29d9753ea2ec

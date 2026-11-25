@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshMol_circleInvariantMollifierExists_holds
 -- name    : ReciprocityTheory.AnForm.A.PshMol.circleInvariantMollifierExists_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:14.509858+00:00
 -- url     : https://prove2.me/theorems/fce8a2a0-8922-47df-9806-66e44d6a4628

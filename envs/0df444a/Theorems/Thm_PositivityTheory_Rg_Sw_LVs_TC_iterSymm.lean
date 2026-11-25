@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_iterSymm
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.iterSymm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:00:15.36888+00:00
 -- url     : https://prove2.me/theorems/76cc05ea-7540-4699-8df7-5b9f358ff3ee

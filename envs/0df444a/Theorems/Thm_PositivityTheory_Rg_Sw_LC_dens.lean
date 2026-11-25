@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_dens
 -- name    : PositivityTheory.Rg.Sw.LC.dens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:58:19.858823+00:00
 -- url     : https://prove2.me/theorems/c063f538-905f-596f-8060-2d4a45c819c4

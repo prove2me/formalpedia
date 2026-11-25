@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_graded_B
 -- name    : PI.WGB.graded_B
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:02.981819+00:00
 -- url     : https://prove2.me/theorems/0a30b2f8-42af-4829-8a33-64785b0dc8eb

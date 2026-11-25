@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_isOpen_unitHerm
 -- name    : PI.VolStabW.isOpen_unitHerm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:14:43.266875+00:00
 -- url     : https://prove2.me/theorems/a578d3a6-e768-41e1-8b94-6e4bde40b5e6

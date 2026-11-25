@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_map_genAct
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.map_genAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:43:40.120344+00:00
 -- url     : https://prove2.me/theorems/acd03e60-ceeb-52a8-ab1f-b7116b5dc328

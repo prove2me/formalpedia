@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_VolAAW_adele_character_trivial_open
 -- name    : PI.VolStabW.VolAAW.adele_character_trivial_open
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:52:45.453637+00:00
 -- url     : https://prove2.me/theorems/68b9416b-6b7e-5968-ae16-0af16499877e

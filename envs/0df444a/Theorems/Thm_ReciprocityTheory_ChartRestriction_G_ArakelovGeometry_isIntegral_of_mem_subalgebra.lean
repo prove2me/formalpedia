@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isIntegral_of_mem_subalgebra
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isIntegral_of_mem_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:09:49.672702+00:00
 -- url     : https://prove2.me/theorems/252ae19d-bed4-423e-ac80-bed8a97dff49

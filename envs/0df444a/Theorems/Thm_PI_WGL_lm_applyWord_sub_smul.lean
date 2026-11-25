@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_lm_applyWord_sub_smul
 -- name    : PI.WGL.lm_applyWord_sub_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T08:46:19.352422+00:00
 -- url     : https://prove2.me/theorems/523a39f6-eb6a-420b-808c-04eca47f3b69

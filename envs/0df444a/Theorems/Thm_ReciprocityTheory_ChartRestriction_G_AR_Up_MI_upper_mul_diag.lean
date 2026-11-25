@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_upper_mul_diag
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.upper_mul_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:00:54.233385+00:00
 -- url     : https://prove2.me/theorems/b7c878a7-5f4f-4ea4-bf18-f82fd2bbdd8c

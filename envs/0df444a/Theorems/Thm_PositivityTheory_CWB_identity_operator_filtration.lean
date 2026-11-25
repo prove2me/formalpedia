@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_identity_operator_filtration
 -- name    : PositivityTheory.CWB.identity_operator_filtration
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:43:34.116826+00:00
 -- url     : https://prove2.me/theorems/9178ad09-809f-4d29-b81d-c7039bf5b4a7

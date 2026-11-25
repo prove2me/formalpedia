@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InfKA_contDiffAt_phiM
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InfKA.contDiffAt_phiM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:04:56.389087+00:00
 -- url     : https://prove2.me/theorems/59107982-bb03-48c6-a173-83c77527c8d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hessC_posSemidef_of_levi
 -- name    : ReciprocityTheory.AnForm.A.hessC_posSemidef_of_levi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:33:01.196652+00:00
 -- url     : https://prove2.me/theorems/a02b9262-87aa-46d5-a73f-62cdb6a5b54f

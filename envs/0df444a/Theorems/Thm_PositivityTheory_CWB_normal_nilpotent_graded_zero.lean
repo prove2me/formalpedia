@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_normal_nilpotent_graded_zero
 -- name    : PositivityTheory.CWB.normal_nilpotent_graded_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:44.933697+00:00
 -- url     : https://prove2.me/theorems/988411c7-7e0a-4007-a709-75b4f2ee2108

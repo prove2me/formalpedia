@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_lead_tri_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.lead_tri_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:49:54.527259+00:00
 -- url     : https://prove2.me/theorems/b6daafbd-e29b-537e-86ff-8f068491d223

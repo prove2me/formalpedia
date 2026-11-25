@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_trace_comboN
 -- name    : PositivityTheory.Rg.Sw.WR.B.trace_comboN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:00:41.511674+00:00
 -- url     : https://prove2.me/theorems/ba0bf731-0db4-4803-997a-b4087a539505

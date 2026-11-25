@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hessC_add_re_analytic
 -- name    : ReciprocityTheory.AnForm.A.hessC_add_re_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:01:08.175609+00:00
 -- url     : https://prove2.me/theorems/9e5c698a-34e2-41eb-a5d4-d89e15e4750d

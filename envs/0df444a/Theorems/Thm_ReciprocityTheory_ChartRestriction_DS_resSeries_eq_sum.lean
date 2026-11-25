@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_resSeries_eq_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.resSeries_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:53:46.079402+00:00
 -- url     : https://prove2.me/theorems/46c5f09c-a8d3-4e63-95de-2d6bf7fab9ae

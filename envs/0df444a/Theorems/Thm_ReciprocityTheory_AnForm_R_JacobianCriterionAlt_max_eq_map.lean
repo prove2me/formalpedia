@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_max_eq_map
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.max_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:59:30.818843+00:00
 -- url     : https://prove2.me/theorems/27af5170-9157-49a7-888a-27dceb4939b4

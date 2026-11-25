@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_Jm_indicator
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.Jm_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:04:26.988571+00:00
 -- url     : https://prove2.me/theorems/ed981d61-7395-5c9a-851b-b76338fa0119

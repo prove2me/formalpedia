@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_DiscreteGroups_fibOfDens_holds
 -- name    : PI.VolStabW.DiscreteGroups.fibOfDens_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:42:23.55803+00:00
 -- url     : https://prove2.me/theorems/52bdb4db-d72d-4b30-a5dc-bb3048195674

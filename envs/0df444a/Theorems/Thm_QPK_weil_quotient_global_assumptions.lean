@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_weil_quotient_global_assumptions
 -- name    : QPK.weil_quotient_global_assumptions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:12.938796+00:00
 -- url     : https://prove2.me/theorems/03736500-1c32-4b9d-b0b8-3afc5e75a106

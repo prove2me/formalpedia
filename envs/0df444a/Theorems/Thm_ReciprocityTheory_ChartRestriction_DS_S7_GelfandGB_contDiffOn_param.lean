@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GelfandGB_contDiffOn_param
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GelfandGB.contDiffOn_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:44:04.964374+00:00
 -- url     : https://prove2.me/theorems/49608eaf-35fa-5337-9ddf-3bf028e24d19

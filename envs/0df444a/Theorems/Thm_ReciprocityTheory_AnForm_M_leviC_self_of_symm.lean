@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_leviC_self_of_symm
 -- name    : ReciprocityTheory.AnForm.M.leviC_self_of_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:19:44.058647+00:00
 -- url     : https://prove2.me/theorems/07dc0572-703f-4940-968b-388952f793f8

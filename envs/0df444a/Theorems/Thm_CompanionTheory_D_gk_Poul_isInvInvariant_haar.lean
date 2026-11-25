@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_isInvInvariant_haar
 -- name    : CompanionTheory.D.gk.Poul.isInvInvariant_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:37:07.837777+00:00
 -- url     : https://prove2.me/theorems/b7411bc2-35f3-4eb0-bd74-329ce67bad46

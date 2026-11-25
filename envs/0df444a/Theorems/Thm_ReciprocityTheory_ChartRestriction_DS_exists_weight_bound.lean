@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_exists_weight_bound
 -- name    : ReciprocityTheory.ChartRestriction.DS.exists_weight_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:54:22.726265+00:00
 -- url     : https://prove2.me/theorems/a2d3466f-7f0d-5d2b-bd6f-7a2025d65f5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_S0_A_heis_pointwise
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.S0.A.heis_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:02.297817+00:00
 -- url     : https://prove2.me/theorems/b98c7d16-9f6d-4852-9a83-4fd3d8715736

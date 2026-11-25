@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_locRing_isLocalRing_isNoetherian__d126a3dea4d3
 -- name    : P2M_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_locRing_isLocalRing_isNoetherian__d126a3dea4d3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:12:37.433839+00:00
 -- url     : https://prove2.me/theorems/96efe673-79d3-4077-85ad-05db0627acfb

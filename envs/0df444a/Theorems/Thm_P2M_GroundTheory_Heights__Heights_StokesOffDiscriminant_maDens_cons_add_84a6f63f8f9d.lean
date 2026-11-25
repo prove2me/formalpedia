@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_maDens_cons_add_84a6f63f8f9d
 -- name    : P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_maDens_cons_add_84a6f63f8f9d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:39:09.540334+00:00
 -- url     : https://prove2.me/theorems/1ce2601b-ffb1-4354-93a4-834ecdf09d57

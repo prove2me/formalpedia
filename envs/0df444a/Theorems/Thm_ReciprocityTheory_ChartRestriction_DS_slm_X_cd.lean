@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slm_X_cd
 -- name    : ReciprocityTheory.ChartRestriction.DS.slm_X_cd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:12:50.815543+00:00
 -- url     : https://prove2.me/theorems/51179a78-35e2-4f47-9a3d-3e30b9013955

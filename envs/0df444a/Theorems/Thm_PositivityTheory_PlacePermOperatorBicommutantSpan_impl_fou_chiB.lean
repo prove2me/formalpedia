@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PlacePermOperatorBicommutantSpan_impl_fou_chiB
 -- name    : PositivityTheory.PlacePermOperatorBicommutantSpan.impl_fou_chiB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:46:17.364489+00:00
 -- url     : https://prove2.me/theorems/ebec2dac-86d6-4990-ae15-88af4b2a299d

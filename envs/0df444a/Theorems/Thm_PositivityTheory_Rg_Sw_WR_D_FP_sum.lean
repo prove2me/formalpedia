@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_FP_sum
 -- name    : PositivityTheory.Rg.Sw.WR.D.FP_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:00:45.992604+00:00
 -- url     : https://prove2.me/theorems/150d0228-da34-4d28-934c-8e776d298f9f

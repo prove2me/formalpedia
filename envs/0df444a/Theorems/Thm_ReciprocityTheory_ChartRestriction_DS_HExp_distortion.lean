@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_distortion
 -- name    : ReciprocityTheory.ChartRestriction.DS.HExp.distortion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:39:03.592856+00:00
 -- url     : https://prove2.me/theorems/1567668a-124b-49d9-88f3-473684a4e190

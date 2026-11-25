@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_quotSum_mul_left
 -- name    : GroundTheory.Automorphic.Parabolic.quotSum_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:01:37.278934+00:00
 -- url     : https://prove2.me/theorems/d12cb121-c180-43ca-9d80-8eaf6b66d8b9

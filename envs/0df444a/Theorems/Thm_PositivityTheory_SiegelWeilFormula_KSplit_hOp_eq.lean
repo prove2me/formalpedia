@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KSplit_hOp_eq
 -- name    : PositivityTheory.SiegelWeilFormula.KSplit.hOp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:39.756414+00:00
 -- url     : https://prove2.me/theorems/50d6156c-ba31-46d9-9a32-66d2ae4b594e

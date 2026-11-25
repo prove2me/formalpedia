@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_QF_coeff_qdetPoly_top
 -- name    : PositivityTheory.Rg.Cz.QF.coeff_qdetPoly_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:48:23.352224+00:00
 -- url     : https://prove2.me/theorems/b58168a9-fb62-56d9-8de5-a3c820ed676e

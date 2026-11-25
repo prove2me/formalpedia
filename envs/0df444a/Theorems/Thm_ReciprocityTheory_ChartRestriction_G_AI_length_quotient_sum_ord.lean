@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_length_quotient_sum_ord
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.length_quotient_sum_ord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:55:14.774743+00:00
 -- url     : https://prove2.me/theorems/e48f03b8-503e-4491-897d-66b9024039fb

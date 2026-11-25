@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_UnitA_ftc
 -- name    : ReciprocityTheory.ChartRestriction.DS.UnitA.ftc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:45:31.181657+00:00
 -- url     : https://prove2.me/theorems/f0ef6288-4dfd-46d9-b09b-5fea710567ed

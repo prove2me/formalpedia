@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_sc_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.sc_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:56:47.258913+00:00
 -- url     : https://prove2.me/theorems/98d94731-7c24-5d2c-8d0a-a81ec8ae5a42

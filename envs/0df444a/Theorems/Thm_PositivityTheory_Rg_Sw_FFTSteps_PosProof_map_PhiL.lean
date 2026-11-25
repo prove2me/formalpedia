@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PosProof_map_PhiL
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PosProof.map_PhiL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:55:21.795155+00:00
 -- url     : https://prove2.me/theorems/a3e2bce1-7aa7-4fe2-a52e-f828ade13d17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefIntCpt_hs
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefIntCpt_hs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:51:07.851416+00:00
 -- url     : https://prove2.me/theorems/fb24f300-18eb-55c9-9fc7-f6cb28b624fd

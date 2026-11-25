@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_TraceNormBounds_X_pow_dvd_homogeneous_one_var
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.TraceNormBounds.X_pow_dvd_homogeneous_one_var
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:05:31.328835+00:00
 -- url     : https://prove2.me/theorems/8e23bac9-fda4-57d3-bafd-43b4a05e1273

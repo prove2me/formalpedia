@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_exists_assoc_step
 -- name    : ReciprocityTheory.CA.exists_assoc_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:38:47.168623+00:00
 -- url     : https://prove2.me/theorems/306d7ff7-dcd1-4c91-ba65-baf1efb8b418

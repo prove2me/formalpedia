@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_IdB_quad_norm_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.IdB.quad_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:44:13.853731+00:00
 -- url     : https://prove2.me/theorems/5538bec0-78df-5e7b-9245-7db118b9b37f

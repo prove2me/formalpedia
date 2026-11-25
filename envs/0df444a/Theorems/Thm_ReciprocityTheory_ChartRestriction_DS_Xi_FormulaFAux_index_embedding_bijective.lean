@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_FormulaFAux_index_embedding_bijective
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.FormulaFAux.index_embedding_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:48:04.254241+00:00
 -- url     : https://prove2.me/theorems/0f369818-7b49-4a2b-a48e-a1ecad45d8f1

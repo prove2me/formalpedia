@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_integrable_Fi_mul
 -- name    : PositivityTheory.Rg.Sw.WR.D.integrable_Fi_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:30.572389+00:00
 -- url     : https://prove2.me/theorems/ef5b0bb8-2b0c-51f4-a2b3-9567c5903d60

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_toSphere_measurePreserving
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.toSphere_measurePreserving
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:55:53.486019+00:00
 -- url     : https://prove2.me/theorems/02cc5e9f-5fde-4429-ac83-5e20d51956e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_lg_spec
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.lg_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:02:07.0947+00:00
 -- url     : https://prove2.me/theorems/2be21fcf-ddb0-4cf4-b76a-2c27f972a309

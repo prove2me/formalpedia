@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassFin_rational_points_dense
 -- name    : PI.UnitaryGroupMassFormula.UJClassFin.rational_points_dense
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:09:04.653829+00:00
 -- url     : https://prove2.me/theorems/4cb16ced-9048-4df0-9c75-10e62c606f90

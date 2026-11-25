@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GSB_linA_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GSB.linA_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:48:02.254601+00:00
 -- url     : https://prove2.me/theorems/4e8f04f0-9cc8-480d-99be-a6cb52801b62

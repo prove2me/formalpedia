@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_gN_unitary
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.gN_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:06:55.619385+00:00
 -- url     : https://prove2.me/theorems/623ea9b5-fe19-4b0f-b05f-830c0b0975fc

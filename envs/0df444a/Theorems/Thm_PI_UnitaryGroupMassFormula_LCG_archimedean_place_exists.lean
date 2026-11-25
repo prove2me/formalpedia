@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LCG_archimedean_place_exists
 -- name    : PI.UnitaryGroupMassFormula.LCG.archimedean_place_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:39:50.930052+00:00
 -- url     : https://prove2.me/theorems/9ed21cc3-c4d0-4f08-a343-63edb2c6918a

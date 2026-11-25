@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_cE_continuous
 -- name    : PositivityTheory.Rg.Sw.LVs.II.cE_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:38:50.157984+00:00
 -- url     : https://prove2.me/theorems/3d6a7869-c161-4c7a-b067-790f0b7bf0d6

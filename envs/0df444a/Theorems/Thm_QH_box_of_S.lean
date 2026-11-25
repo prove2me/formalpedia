@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QH_box_of_S
 -- name    : QH.box_of_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:06:00.431263+00:00
 -- url     : https://prove2.me/theorems/20b0345d-1a05-53cf-91ab-eefb8311d459

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_psiPos_integral_isPositive
 -- name    : ReciprocityTheory.ChartRestriction.DS.psiPos_integral_isPositive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:53:46.694326+00:00
 -- url     : https://prove2.me/theorems/f923459f-d6b2-5f30-807c-9c827295fe21

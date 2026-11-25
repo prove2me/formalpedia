@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slm_coeFn_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.slm_coeFn_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:59:39.615726+00:00
 -- url     : https://prove2.me/theorems/f2902dcd-2537-4aa2-acb8-2d3d7914ad47

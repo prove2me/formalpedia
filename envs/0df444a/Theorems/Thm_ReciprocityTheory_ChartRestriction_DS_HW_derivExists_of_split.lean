@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_derivExists_of_split
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.derivExists_of_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:41:17.939793+00:00
 -- url     : https://prove2.me/theorems/b33640c4-f601-43d9-a1cc-dbd108ca5673

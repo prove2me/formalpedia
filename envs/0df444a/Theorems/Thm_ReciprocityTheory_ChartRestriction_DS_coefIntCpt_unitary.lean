@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefIntCpt_unitary
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefIntCpt_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:49:48.210112+00:00
 -- url     : https://prove2.me/theorems/cfab0ba6-23d2-4c3c-bfd8-46cc578b9250

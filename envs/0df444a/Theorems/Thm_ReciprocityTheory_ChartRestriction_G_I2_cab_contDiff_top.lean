@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_cab_contDiff_top
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.cab_contDiff_top
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:08:16.980558+00:00
 -- url     : https://prove2.me/theorems/db19a2c8-57e9-49bb-a4ef-0e3f5fbd1b98

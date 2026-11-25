@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefC_choose_coef
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefC_choose_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:51:13.115639+00:00
 -- url     : https://prove2.me/theorems/83159faa-fcf6-4934-8a44-14811985a39d

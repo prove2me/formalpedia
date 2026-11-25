@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lfLift_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.lfLift_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:46.196359+00:00
 -- url     : https://prove2.me/theorems/0fd273a1-68d1-5f09-9113-73c67dcf70c0

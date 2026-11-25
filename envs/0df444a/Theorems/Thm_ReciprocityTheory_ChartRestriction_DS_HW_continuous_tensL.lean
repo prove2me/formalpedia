@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_continuous_tensL
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.continuous_tensL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:40:02.604957+00:00
 -- url     : https://prove2.me/theorems/e3c094ea-fa23-5c92-91eb-c5da883335ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_exists_good
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.exists_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:02.133269+00:00
 -- url     : https://prove2.me/theorems/3cf6cb01-2373-45b0-80ee-af96c979cb46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_TransM_exists_transpose_mat
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.TransM.exists_transpose_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:06.261749+00:00
 -- url     : https://prove2.me/theorems/9f3365ee-21fe-5369-9401-0fc4ce8f371c

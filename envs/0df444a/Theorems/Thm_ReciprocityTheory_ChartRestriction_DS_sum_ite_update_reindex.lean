@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_sum_ite_update_reindex
 -- name    : ReciprocityTheory.ChartRestriction.DS.sum_ite_update_reindex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:57:20.988906+00:00
 -- url     : https://prove2.me/theorems/3edc9bab-69e7-51ac-803c-4e678fa45b32

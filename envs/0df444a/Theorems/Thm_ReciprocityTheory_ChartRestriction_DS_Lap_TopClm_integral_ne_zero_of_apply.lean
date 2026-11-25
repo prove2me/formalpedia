@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_TopClm_integral_ne_zero_of_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.TopClm.integral_ne_zero_of_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:42:53.752512+00:00
 -- url     : https://prove2.me/theorems/b3e08d97-7258-5ad9-9f47-a35bb22d020c

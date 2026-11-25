@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_psiM_kexp
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.psiM_kexp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:20:02.663061+00:00
 -- url     : https://prove2.me/theorems/8319362f-0be6-4aaa-81c6-4aecbe31e677

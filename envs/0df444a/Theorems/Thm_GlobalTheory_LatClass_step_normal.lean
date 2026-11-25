@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatClass_step_normal
 -- name    : GlobalTheory.LatClass.step_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:54:43.439455+00:00
 -- url     : https://prove2.me/theorems/17e27ddf-b41a-58d5-978d-d09839269c0e

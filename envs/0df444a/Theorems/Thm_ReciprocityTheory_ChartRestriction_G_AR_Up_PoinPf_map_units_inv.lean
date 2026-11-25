@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_map_units_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.map_units_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:03:37.803979+00:00
 -- url     : https://prove2.me/theorems/57da84a5-1c17-59b4-9806-5a49ab18e30a

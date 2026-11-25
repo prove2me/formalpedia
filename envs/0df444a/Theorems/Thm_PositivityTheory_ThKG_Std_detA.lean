@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_detA
 -- name    : PositivityTheory.ThKG.Std.detA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:06:39.590606+00:00
 -- url     : https://prove2.me/theorems/847907c4-312d-4c99-af95-0ffd1076bb53

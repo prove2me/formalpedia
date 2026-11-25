@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_locEvalPt_algebraMap
 -- name    : ReciprocityTheory.AnForm.R.locEvalPt_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:38:23.572088+00:00
 -- url     : https://prove2.me/theorems/f8cbfac5-6ca0-5c10-bd92-b7c141a19d0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_urepHom_mem_unitary
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.urepHom_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:43:48.80028+00:00
 -- url     : https://prove2.me/theorems/579f1fac-293a-5a4f-bb2f-03a9c8cbeb88

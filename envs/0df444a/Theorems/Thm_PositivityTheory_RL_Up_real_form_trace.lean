@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RL_Up_real_form_trace
 -- name    : PositivityTheory.RL.Up.real_form_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:07:36.432488+00:00
 -- url     : https://prove2.me/theorems/e59ee5e6-6731-43a6-99cb-9f2a7e39fbcb

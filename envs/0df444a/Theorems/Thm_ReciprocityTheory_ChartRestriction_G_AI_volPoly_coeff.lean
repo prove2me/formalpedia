@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_volPoly_coeff
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.volPoly_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:55:59.153218+00:00
 -- url     : https://prove2.me/theorems/ca9b2310-4a6f-48af-8d86-b120270ab81d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefE_tensGrp_one
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefE_tensGrp_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:58:04.14296+00:00
 -- url     : https://prove2.me/theorems/178d1cdf-ae6a-5503-afaa-a0e75f3050dc

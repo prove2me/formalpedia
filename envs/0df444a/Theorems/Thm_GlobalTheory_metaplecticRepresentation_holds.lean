@@ -1,0 +1,40 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_metaplecticRepresentation_holds
+-- name    : GlobalTheory.metaplecticRepresentation_holds
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T12:49:39.790568+00:00
+-- url     : https://prove2.me/theorems/cecf5492-c242-5f1b-a8cc-7e18bad9d11a
+-- title:
+--   Global Theory: metaplectic Representation holds
+-- statement:
+--   The Global Theory construction uses the metaplectic Representation holds property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/MetaplecticRepresentationHolds.lean#L17-L106
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/MetaplecticRepresentationHolds.lean#L17-L106
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_PublishedTheorems_TwistedTraceFormula_MetaplecticRepresentation
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_TwistedOperators_IteratedLineDerivMemWeylAlg
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_ExistsEqTransposeMulDiagonalMul
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_VacuumMatrixCoefficientSqStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_OrthogonalSymplecticFixesSiegelPointIStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_MetaplecticCoverWeilRepresentationStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_SchrodingerProductEuclideanModelsAgreeStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_IsSiegelUpperHalfSpaceNegMulInvSymplecticStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_SymplecticHolPartDetNeZeroAndIsSymmStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_SchwartzL2EuclideanIdentificationStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_MetaplecticRepresentationHolds
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open MeasureTheory Matrix Complex GlobalTheory.RealWeil
+open scoped Real SchwartzMap ComplexConjugate
+open GlobalTheory
+
+theorem GlobalTheory.metaplecticRepresentation_holds : GlobalTheory.Published.MetaplecticRepresentation := by sorry

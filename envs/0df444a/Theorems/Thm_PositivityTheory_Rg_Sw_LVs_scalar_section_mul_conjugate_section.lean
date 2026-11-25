@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_scalar_section_mul_conjugate_section
 -- name    : PositivityTheory.Rg.Sw.LVs.scalar_section_mul_conjugate_section
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:42.456314+00:00
 -- url     : https://prove2.me/theorems/fb80a38b-b8c9-430b-b632-5aa263f6ffe8

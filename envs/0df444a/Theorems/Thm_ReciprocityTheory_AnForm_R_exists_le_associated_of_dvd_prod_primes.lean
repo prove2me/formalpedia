@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_exists_le_associated_of_dvd_prod_primes
 -- name    : ReciprocityTheory.AnForm.R.exists_le_associated_of_dvd_prod_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:37:03.622747+00:00
 -- url     : https://prove2.me/theorems/e73dff7b-b306-5e17-be3c-94ab84ec0d71

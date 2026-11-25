@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_det_adLeviPar_of_diagonal
 -- name    : GroundTheory.Automorphic.Parabolic.det_adLeviPar_of_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:49:47.832485+00:00
 -- url     : https://prove2.me/theorems/6f56db58-febb-58f6-aa32-7510817d121d

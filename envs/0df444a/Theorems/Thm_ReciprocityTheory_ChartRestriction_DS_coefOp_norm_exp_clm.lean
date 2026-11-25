@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefOp_norm_exp_clm
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefOp_norm_exp_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:51:35.58318+00:00
 -- url     : https://prove2.me/theorems/f2c6ea53-1ee1-5731-83fd-c1333c1744c0

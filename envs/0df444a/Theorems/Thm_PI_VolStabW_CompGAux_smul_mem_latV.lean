@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_CompGAux_smul_mem_latV
 -- name    : PI.VolStabW.CompGAux.smul_mem_latV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:44:55.860905+00:00
 -- url     : https://prove2.me/theorems/abbf7820-e12a-4d43-b9dc-d59006b55598

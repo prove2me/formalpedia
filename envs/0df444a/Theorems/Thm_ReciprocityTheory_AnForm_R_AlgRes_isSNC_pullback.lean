@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AlgRes_isSNC_pullback
 -- name    : ReciprocityTheory.AnForm.R.AlgRes.isSNC_pullback
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:27.281124+00:00
 -- url     : https://prove2.me/theorems/decd8120-1f75-427d-a792-bf82d5e0fae5

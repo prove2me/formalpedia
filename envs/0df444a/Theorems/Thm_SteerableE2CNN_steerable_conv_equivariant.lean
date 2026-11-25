@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteerableE2CNN_steerable_conv_equivariant
 -- name    : SteerableE2CNN.steerable_conv_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:37:45.669297+00:00
 -- url     : https://prove2.me/theorems/20442767-5f8a-4280-84c7-30701a5cbf20

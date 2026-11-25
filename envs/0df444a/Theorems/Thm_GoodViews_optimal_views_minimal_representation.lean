@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoodViews_optimal_views_minimal_representation
 -- name    : GoodViews.optimal_views_minimal_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T05:42:24.494151+00:00
 -- url     : https://prove2.me/theorems/b99eabf1-a27a-4a1e-bbc2-ea4468ed76a1

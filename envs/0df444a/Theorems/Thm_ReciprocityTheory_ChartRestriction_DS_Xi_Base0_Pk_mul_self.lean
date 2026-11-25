@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_Pk_mul_self
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.Pk_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:50:37.572092+00:00
 -- url     : https://prove2.me/theorems/be354f08-b347-5f8b-8221-75202aaf6521

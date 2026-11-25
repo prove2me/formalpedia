@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_levi_insertNth
 -- name    : ReciprocityTheory.AnForm.A.levi_insertNth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:06:01.883293+00:00
 -- url     : https://prove2.me/theorems/b70cf820-afbc-49c3-a3a4-e154634ef3fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_effCartier_of_stalkId
 -- name    : ReciprocityTheory.AnForm.R.effCartier_of_stalkId
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:37:04.930573+00:00
 -- url     : https://prove2.me/theorems/925fc890-152e-5ab2-85a5-6da80c7b82b8

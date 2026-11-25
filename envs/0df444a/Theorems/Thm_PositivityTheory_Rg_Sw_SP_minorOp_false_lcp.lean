@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_minorOp_false_lcp
 -- name    : PositivityTheory.Rg.Sw.SP.minorOp_false_lcp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:59:56.827798+00:00
 -- url     : https://prove2.me/theorems/f61dd33d-b171-44e5-badc-76396af19a12

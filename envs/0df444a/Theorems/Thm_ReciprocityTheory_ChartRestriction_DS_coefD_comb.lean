@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefD_comb
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefD_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:20.630421+00:00
 -- url     : https://prove2.me/theorems/7c8e68ed-e036-439b-9bc2-a1ba47048efd

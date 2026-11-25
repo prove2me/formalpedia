@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_isCompact_shellSet
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.isCompact_shellSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T06:06:19.094154+00:00
 -- url     : https://prove2.me/theorems/c21ac352-3d8d-489c-a71b-50abc345b9f4

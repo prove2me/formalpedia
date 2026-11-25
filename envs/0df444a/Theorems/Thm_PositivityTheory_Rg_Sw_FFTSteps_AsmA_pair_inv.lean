@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AsmA_pair_inv
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AsmA.pair_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:08:33.273374+00:00
 -- url     : https://prove2.me/theorems/3907c833-d765-455d-b829-70e3f5b68fdc

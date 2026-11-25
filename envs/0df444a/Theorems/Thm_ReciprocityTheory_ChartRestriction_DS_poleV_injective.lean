@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_poleV_injective
 -- name    : ReciprocityTheory.ChartRestriction.DS.poleV_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:53:54.812524+00:00
 -- url     : https://prove2.me/theorems/9deb445f-7c22-44be-99c2-2355b889eae7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Top_realSplit
 -- name    : UpperTheory.Top.realSplit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:37:40.780567+00:00
 -- url     : https://prove2.me/theorems/8abb51cb-a02f-4705-bf97-a4012efc7d34

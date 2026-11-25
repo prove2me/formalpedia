@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_kLowSpan_low_stable
 -- name    : ReciprocityTheory.ChartRestriction.DS.kLowSpan_low_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:53:05.571969+00:00
 -- url     : https://prove2.me/theorems/cf6a86f0-8c2a-5a20-b5d7-9736410c8cb4

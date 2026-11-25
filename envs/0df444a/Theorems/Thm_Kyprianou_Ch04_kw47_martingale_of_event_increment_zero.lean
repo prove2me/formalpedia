@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_martingale_of_event_increment_zero
 -- name    : Kyprianou.Ch04.kw47_martingale_of_event_increment_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T11:40:19.113899+00:00
 -- url     : https://prove2.me/theorems/3e7a731b-3708-4548-a456-521a6400d01b

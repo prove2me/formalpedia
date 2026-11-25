@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_sqAct_oneC
 -- name    : PI.WGB.sqAct_oneC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:48.374917+00:00
 -- url     : https://prove2.me/theorems/e5dcb9b4-3f7a-48ff-9f5e-23b8185347f2

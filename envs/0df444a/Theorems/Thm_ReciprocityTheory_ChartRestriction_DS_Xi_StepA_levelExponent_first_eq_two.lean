@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_levelExponent_first_eq_two
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.levelExponent_first_eq_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:09:55.730162+00:00
 -- url     : https://prove2.me/theorems/237114e2-12e0-52f7-b055-3229f56a90ac

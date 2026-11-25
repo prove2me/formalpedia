@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_vecMul_hessC_comp_eq_zero
 -- name    : ReciprocityTheory.AnForm.vecMul_hessC_comp_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:37:29.538141+00:00
 -- url     : https://prove2.me/theorems/a185d816-751b-48be-8f23-06491f454e5a

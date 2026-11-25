@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_props_A
 -- name    : PI.WGB.props_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:46:04.335921+00:00
 -- url     : https://prove2.me/theorems/3b1e1851-18d2-4e2d-834f-501e579a7361

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_S0_A_haar_unique_of_hypotheses
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.S0.A.haar_unique_of_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:43:47.320239+00:00
 -- url     : https://prove2.me/theorems/a73c7c51-ed4b-4a38-befe-e5b1aef2eadd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_Abs_eq_bot
 -- name    : PositivityTheory.ThKF.Abs.eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:40.75413+00:00
 -- url     : https://prove2.me/theorems/83fd7596-a43c-47d9-9e47-81e6f6df8323

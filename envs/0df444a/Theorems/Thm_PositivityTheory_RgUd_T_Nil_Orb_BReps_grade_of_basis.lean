@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_grade_of_basis
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.grade_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:03:31.742314+00:00
 -- url     : https://prove2.me/theorems/b7f4e835-f956-5436-94ca-6d47a96abfdd

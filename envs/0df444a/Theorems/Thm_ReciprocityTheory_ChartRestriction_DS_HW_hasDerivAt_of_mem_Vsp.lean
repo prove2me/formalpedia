@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_hasDerivAt_of_mem_Vsp
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.hasDerivAt_of_mem_Vsp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:35.396716+00:00
 -- url     : https://prove2.me/theorems/aa1c72b3-e3a5-4406-8509-0016e0e53055

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_prod_min_range
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.prod_min_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:06:22.702908+00:00
 -- url     : https://prove2.me/theorems/5761fa85-3d46-4826-9c71-22f2269a63e8

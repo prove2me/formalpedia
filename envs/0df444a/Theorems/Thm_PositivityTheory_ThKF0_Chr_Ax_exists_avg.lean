@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_Ax_exists_avg
 -- name    : PositivityTheory.ThKF0.Chr.Ax.exists_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:04:01.270196+00:00
 -- url     : https://prove2.me/theorems/3915a484-58dd-4ab2-9111-640f8a6a853f

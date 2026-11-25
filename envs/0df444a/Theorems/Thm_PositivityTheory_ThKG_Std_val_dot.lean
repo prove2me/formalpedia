@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Std_val_dot
 -- name    : PositivityTheory.ThKG.Std.val_dot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:07:07.417272+00:00
 -- url     : https://prove2.me/theorems/8165384d-65d0-57a8-8a88-29bd5721da5e

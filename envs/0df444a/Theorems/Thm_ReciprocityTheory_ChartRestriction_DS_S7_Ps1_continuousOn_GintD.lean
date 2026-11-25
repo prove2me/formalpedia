@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_Ps1_continuousOn_GintD
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.Ps1.continuousOn_GintD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:49:44.595901+00:00
 -- url     : https://prove2.me/theorems/6def79ef-d086-564b-9a58-3ae7a7232d94

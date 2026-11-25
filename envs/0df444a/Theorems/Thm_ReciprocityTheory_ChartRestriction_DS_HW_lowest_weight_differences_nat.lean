@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_lowest_weight_differences_nat
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.lowest_weight_differences_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:41:34.497574+00:00
 -- url     : https://prove2.me/theorems/6aeb6137-1a51-59f4-bd31-1051fb8901fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_RgC_levi_quad_nonpos
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.RgC.levi_quad_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:03:06.890804+00:00
 -- url     : https://prove2.me/theorems/ce792062-714f-537d-a865-b47f2a6594b7

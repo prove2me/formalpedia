@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_isBlock_diagPart
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.isBlock_diagPart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:45:41.606222+00:00
 -- url     : https://prove2.me/theorems/ad1f29fe-f03a-46b1-897d-b199b5437e65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_cca_continuousOn_fderiv
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.cca_continuousOn_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:16.189864+00:00
 -- url     : https://prove2.me/theorems/b043735a-225d-562a-8bec-b306cdf6f87e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mixedDisc_transpose
 -- name    : ReciprocityTheory.AnForm.A.mixedDisc_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:19:36.182241+00:00
 -- url     : https://prove2.me/theorems/7f4503c7-e6f8-46e5-b808-062378498b68

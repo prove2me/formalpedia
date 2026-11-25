@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PairUnfoldPf_measurable_unfoldedDensity
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PairUnfoldPf.measurable_unfoldedDensity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:01:47.508895+00:00
 -- url     : https://prove2.me/theorems/5d6e061c-cb6b-5122-a5a9-5dfd9a13937a

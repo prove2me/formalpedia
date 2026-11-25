@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiB_xi_torus
 -- name    : PI.WGL.XiB.xi_torus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:41.119748+00:00
 -- url     : https://prove2.me/theorems/4fc2bdc7-531f-4b92-bb01-99d1a3c70e71

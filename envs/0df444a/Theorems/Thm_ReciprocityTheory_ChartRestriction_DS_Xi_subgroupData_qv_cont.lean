@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_subgroupData_qv_cont
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.subgroupData.qv_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:48:41.416879+00:00
 -- url     : https://prove2.me/theorems/7ec30e54-e7ff-4ebb-b3df-d6e883102b82

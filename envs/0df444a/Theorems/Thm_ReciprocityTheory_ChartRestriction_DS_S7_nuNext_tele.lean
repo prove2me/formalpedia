@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_nuNext_tele
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.nuNext_tele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:49:49.226903+00:00
 -- url     : https://prove2.me/theorems/15d03870-725c-55fc-ac44-6c13d0c57b79

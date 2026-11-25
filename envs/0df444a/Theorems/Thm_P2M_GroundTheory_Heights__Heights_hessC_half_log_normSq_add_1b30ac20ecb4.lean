@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_hessC_half_log_normSq_add_1b30ac20ecb4
 -- name    : P2M_GroundTheory_Heights__Heights_hessC_half_log_normSq_add_1b30ac20ecb4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:47:37.580515+00:00
 -- url     : https://prove2.me/theorems/9d65595a-4e4e-456c-97a8-4056411a994c

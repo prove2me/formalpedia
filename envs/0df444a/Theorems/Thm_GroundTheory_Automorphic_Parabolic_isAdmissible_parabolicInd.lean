@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isAdmissible_parabolicInd
 -- name    : GroundTheory.Automorphic.Parabolic.isAdmissible_parabolicInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:22:34.467871+00:00
 -- url     : https://prove2.me/theorems/eabb30a0-842a-4f2e-97a3-a1c62ac6e848

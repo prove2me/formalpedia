@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_KRep_op_eq_exp
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.KRep.op_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:40:34.609507+00:00
 -- url     : https://prove2.me/theorems/749e1eee-7645-4cea-a6a0-10c70fa7cf06

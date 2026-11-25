@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_layer_khw_decomp
 -- name    : ReciprocityTheory.ChartRestriction.DS.layer_khw_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:58:54.345134+00:00
 -- url     : https://prove2.me/theorems/fa777196-e7dd-4c2b-87d8-5658738ff1bc

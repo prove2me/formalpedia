@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_generation_holds
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.generation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:34:18.040622+00:00
 -- url     : https://prove2.me/theorems/8e598539-609e-5d6a-80ca-a5ab0312ca7e

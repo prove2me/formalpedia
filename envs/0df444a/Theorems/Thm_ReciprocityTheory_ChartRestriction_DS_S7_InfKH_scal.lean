@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InfKH_scal
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InfKH.scal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:49:10.265402+00:00
 -- url     : https://prove2.me/theorems/fe0d16f7-563e-5d17-8a16-52c131069880

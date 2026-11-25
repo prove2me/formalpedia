@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_smg
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.smg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:05.345051+00:00
 -- url     : https://prove2.me/theorems/9a69c251-f454-411d-b874-15c3624957db

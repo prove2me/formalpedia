@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_contDiffOn_fubiniStudyProfileInv_normSqFirst
 -- name    : ReciprocityTheory.AnForm.M.contDiffOn_fubiniStudyProfileInv_normSqFirst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:19:14.90842+00:00
 -- url     : https://prove2.me/theorems/d813ed3c-fe52-528d-84b8-91764b4f4a48

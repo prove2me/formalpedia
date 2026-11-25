@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_second_derivative_sum_squares
 -- name    : PositivityTheory.CWB.second_derivative_sum_squares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:31.846073+00:00
 -- url     : https://prove2.me/theorems/46eaea6d-3ade-486c-9880-b3567e163fe4

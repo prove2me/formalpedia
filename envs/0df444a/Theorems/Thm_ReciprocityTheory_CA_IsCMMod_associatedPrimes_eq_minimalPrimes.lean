@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCMMod_associatedPrimes_eq_minimalPrimes
 -- name    : ReciprocityTheory.CA.IsCMMod.associatedPrimes_eq_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:12.653799+00:00
 -- url     : https://prove2.me/theorems/73b0c6d8-f864-4001-bd75-6f1c1a27b848

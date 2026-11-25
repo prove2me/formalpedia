@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_one_add_sl_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.one_add_sl_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:58:12.861248+00:00
 -- url     : https://prove2.me/theorems/a453a8f4-1fd5-52f4-844f-d3eab3e8e8a5

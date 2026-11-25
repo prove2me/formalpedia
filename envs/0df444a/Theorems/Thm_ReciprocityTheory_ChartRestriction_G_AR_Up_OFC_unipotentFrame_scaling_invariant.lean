@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OFC_unipotentFrame_scaling_invariant
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OFC.unipotentFrame_scaling_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:01:11.974588+00:00
 -- url     : https://prove2.me/theorems/3840f7a6-3098-4789-b849-1d032abc9975

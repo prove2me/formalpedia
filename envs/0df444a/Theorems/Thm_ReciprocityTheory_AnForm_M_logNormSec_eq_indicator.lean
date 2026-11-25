@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_logNormSec_eq_indicator
 -- name    : ReciprocityTheory.AnForm.M.logNormSec_eq_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:33:18.994786+00:00
 -- url     : https://prove2.me/theorems/0bc76985-5a7d-40d8-9684-dc39d3ca583e

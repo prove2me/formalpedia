@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pushA_det_comp
 -- name    : ReciprocityTheory.AnForm.M.pushA_det_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:27.050412+00:00
 -- url     : https://prove2.me/theorems/cfe68159-653c-4e78-a6ed-db5c6b16e306

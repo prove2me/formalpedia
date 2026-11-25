@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_ball_subset_Cy
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.ball_subset_Cy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:58:48.691389+00:00
 -- url     : https://prove2.me/theorems/8baad821-c2c4-4f99-9e62-cf890c290bf9

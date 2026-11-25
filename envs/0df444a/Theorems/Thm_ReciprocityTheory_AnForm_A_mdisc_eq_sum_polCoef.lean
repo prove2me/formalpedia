@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mdisc_eq_sum_polCoef
 -- name    : ReciprocityTheory.AnForm.A.mdisc_eq_sum_polCoef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:42.874278+00:00
 -- url     : https://prove2.me/theorems/6b36e290-7657-4fd9-872c-725b0e839209

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_comap_extC
 -- name    : ReciprocityTheory.AnForm.R.comap_extC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:42:27.524481+00:00
 -- url     : https://prove2.me/theorems/68d41fe4-e35b-5533-b9a8-545c2b7fdb99

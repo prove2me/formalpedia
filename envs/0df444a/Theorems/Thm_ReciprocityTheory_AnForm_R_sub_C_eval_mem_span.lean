@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_sub_C_eval_mem_span
 -- name    : ReciprocityTheory.AnForm.R.sub_C_eval_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:38:16.066883+00:00
 -- url     : https://prove2.me/theorems/da6a14c6-d865-5a90-863d-7e1241e0833c

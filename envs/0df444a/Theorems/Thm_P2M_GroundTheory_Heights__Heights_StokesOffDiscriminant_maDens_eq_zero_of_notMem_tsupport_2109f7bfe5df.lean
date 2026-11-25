@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_maDens_eq_zero_of_notMem_tsupport_2109f7bfe5df
 -- name    : P2M_GroundTheory_Heights__Heights_StokesOffDiscriminant_maDens_eq_zero_of_notMem_tsupport_2109f7bfe5df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:39:23.993803+00:00
 -- url     : https://prove2.me/theorems/dbcc2eea-9411-4477-b671-d30519cdf467

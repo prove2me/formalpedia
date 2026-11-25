@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefOp_le_sqrt_hs
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefOp_le_sqrt_hs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:26:36.812995+00:00
 -- url     : https://prove2.me/theorems/c8ada2a5-b585-42c9-8053-477bc7546f08

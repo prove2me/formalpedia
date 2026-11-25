@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_update_transpose
 -- name    : ReciprocityTheory.AnForm.A.update_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:20:38.650055+00:00
 -- url     : https://prove2.me/theorems/1125ee73-f7d3-5270-8194-537e16374ba9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_doubleStep_of_pureCol_pureRow
 -- name    : GlobalTheory.LocFlat.doubleStep_of_pureCol_pureRow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:30:18.365054+00:00
 -- url     : https://prove2.me/theorems/399b78bf-7bf1-5bd2-a503-cf551981a338

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mdisc_transpose_mul_mul_conj
 -- name    : ReciprocityTheory.AnForm.A.mdisc_transpose_mul_mul_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:19:41.82196+00:00
 -- url     : https://prove2.me/theorems/adc37298-f2d0-4c1f-9edc-e19591edda08

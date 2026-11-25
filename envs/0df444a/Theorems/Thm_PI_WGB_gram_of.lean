@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_gram_of
 -- name    : PI.WGB.gram_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:45:22.120318+00:00
 -- url     : https://prove2.me/theorems/439c2e27-78f2-4be4-b140-fdd3c73d18d7

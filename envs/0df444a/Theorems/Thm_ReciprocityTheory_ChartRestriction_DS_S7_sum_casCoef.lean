@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_sum_casCoef
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.sum_casCoef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:50:33.699118+00:00
 -- url     : https://prove2.me/theorems/11b4a73d-8a78-50bc-8f0c-0b045dea790b

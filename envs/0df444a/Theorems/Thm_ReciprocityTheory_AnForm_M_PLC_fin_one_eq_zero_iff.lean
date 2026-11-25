@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_fin_one_eq_zero_iff
 -- name    : ReciprocityTheory.AnForm.M.PLC.fin_one_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:34:36.840244+00:00
 -- url     : https://prove2.me/theorems/ce177335-58a1-423e-9c8c-3fc5e079ede9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_cca_fderiv_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.cca_fderiv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:25.213895+00:00
 -- url     : https://prove2.me/theorems/1576b318-b2aa-5bdc-bba5-a437fe3c5f4e

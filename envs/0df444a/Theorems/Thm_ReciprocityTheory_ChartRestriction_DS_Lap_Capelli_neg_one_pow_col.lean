@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_neg_one_pow_col
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.neg_one_pow_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:43:19.725269+00:00
 -- url     : https://prove2.me/theorems/8771e404-65d9-5128-bbfd-29485cbb9caa

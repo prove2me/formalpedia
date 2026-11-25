@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_de_scl
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.de_scl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:49:52.065172+00:00
 -- url     : https://prove2.me/theorems/729432fb-cbf4-589e-a4a3-07aa7a7bab70

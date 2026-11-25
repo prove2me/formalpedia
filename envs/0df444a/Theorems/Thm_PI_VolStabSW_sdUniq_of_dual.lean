@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_sdUniq_of_dual
 -- name    : PI.VolStabSW.sdUniq_of_dual
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:40:22.425942+00:00
 -- url     : https://prove2.me/theorems/e600f8b1-3f74-4b95-b770-bc9e5e9aca75

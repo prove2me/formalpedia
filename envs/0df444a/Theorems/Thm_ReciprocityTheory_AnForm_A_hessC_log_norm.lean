@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hessC_log_norm
 -- name    : ReciprocityTheory.AnForm.A.hessC_log_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:51.333217+00:00
 -- url     : https://prove2.me/theorems/3bd3d9f7-692c-42fa-af03-1f44ea7b0aae

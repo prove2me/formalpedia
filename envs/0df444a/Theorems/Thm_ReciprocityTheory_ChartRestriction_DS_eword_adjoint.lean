@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_eword_adjoint
 -- name    : ReciprocityTheory.ChartRestriction.DS.eword_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:50:55.404222+00:00
 -- url     : https://prove2.me/theorems/500cc3a8-ee23-4143-b827-ae386d8adcd7

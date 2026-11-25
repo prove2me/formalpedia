@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gbap_surj_of_li
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gbap_surj_of_li
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:09:07.261906+00:00
 -- url     : https://prove2.me/theorems/b790b8ec-45ce-5ffa-8eb4-ec805579f662

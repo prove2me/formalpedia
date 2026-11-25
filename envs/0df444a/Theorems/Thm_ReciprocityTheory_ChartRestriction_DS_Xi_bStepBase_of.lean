@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_bStepBase_of
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.bStepBase_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:50:09.337941+00:00
 -- url     : https://prove2.me/theorems/9b97d338-7450-4e39-926b-9807646e17dc

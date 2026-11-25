@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hessEntry_apply
 -- name    : ReciprocityTheory.AnForm.A.hessEntry_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:32.11027+00:00
 -- url     : https://prove2.me/theorems/00d115b9-5c92-4300-bcf8-0c4fcabf7683

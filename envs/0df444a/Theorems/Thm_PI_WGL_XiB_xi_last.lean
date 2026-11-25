@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiB_xi_last
 -- name    : PI.WGL.XiB.xi_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:46:17.657799+00:00
 -- url     : https://prove2.me/theorems/12447688-33cc-439f-99f6-fdd0adffb58c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_norm_one_unit_shift
 -- name    : GlobalTheory.T.exists_norm_one_unit_shift
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:16.805082+00:00
 -- url     : https://prove2.me/theorems/3a5cad3a-dc4d-45f8-9b1d-aeaca67aab0f

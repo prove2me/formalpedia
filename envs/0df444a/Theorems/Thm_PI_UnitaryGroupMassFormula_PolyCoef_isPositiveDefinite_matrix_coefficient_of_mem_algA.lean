@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_PolyCoef_isPositiveDefinite_matrix_coefficient_of_mem_algA
 -- name    : PI.UnitaryGroupMassFormula.PolyCoef.isPositiveDefinite_matrix_coefficient_of_mem_algA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:13:02.733505+00:00
 -- url     : https://prove2.me/theorems/14d33078-f385-4f5c-a9c9-9707e596f534

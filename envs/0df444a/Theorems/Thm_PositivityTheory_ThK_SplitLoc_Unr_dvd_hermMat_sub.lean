@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_dvd_hermMat_sub
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.dvd_hermMat_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:56:17.462411+00:00
 -- url     : https://prove2.me/theorems/35e8d3bf-4859-5a68-9a97-a51ee7f84b30

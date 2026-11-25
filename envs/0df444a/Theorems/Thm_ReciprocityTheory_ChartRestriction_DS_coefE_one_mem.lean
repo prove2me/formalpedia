@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefE_one_mem
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefE_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:00:37.383337+00:00
 -- url     : https://prove2.me/theorems/215eab0d-e9c2-47dd-a5e7-7cf2b3ad8477

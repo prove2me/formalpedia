@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_add_one_le_height_comap_of_surjective
 -- name    : ReciprocityTheory.CA.height_add_one_le_height_comap_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:39:27.328329+00:00
 -- url     : https://prove2.me/theorems/a63ebac6-4f00-50d1-9a26-bb839dd55310

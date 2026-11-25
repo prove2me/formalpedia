@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_hwmf_diff_blkMinor
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.hwmf_diff_blkMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:41:29.31552+00:00
 -- url     : https://prove2.me/theorems/cbec8a98-97a8-4bc6-b2f0-c815a3ccd7b5

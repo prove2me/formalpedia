@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchSheetAE_volume_preimage_null_9a44d12a3b9a
 -- name    : P2M_GroundTheory_Heights__Heights_BranchSheetAE_volume_preimage_null_9a44d12a3b9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:17:26.236788+00:00
 -- url     : https://prove2.me/theorems/078f7045-539b-477c-b1e4-ccb8986eda04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_inhV_relevant
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.inhV_relevant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:54:10.795291+00:00
 -- url     : https://prove2.me/theorems/cb2ae66a-8348-4b73-81ec-9a364cbecef4

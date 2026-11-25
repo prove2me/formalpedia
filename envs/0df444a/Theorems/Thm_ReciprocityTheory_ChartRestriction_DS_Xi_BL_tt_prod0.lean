@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_tt_prod0
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.tt_prod0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:48:05.708805+00:00
 -- url     : https://prove2.me/theorems/cf63e8a8-ead3-4330-be1d-08ec2dcde1a1

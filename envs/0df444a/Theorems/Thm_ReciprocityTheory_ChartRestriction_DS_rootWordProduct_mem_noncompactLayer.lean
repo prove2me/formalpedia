@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_rootWordProduct_mem_noncompactLayer
 -- name    : ReciprocityTheory.ChartRestriction.DS.rootWordProduct_mem_noncompactLayer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:53:23.381885+00:00
 -- url     : https://prove2.me/theorems/fca3c2c8-1f24-4ddb-ad27-241e6e4a12d6

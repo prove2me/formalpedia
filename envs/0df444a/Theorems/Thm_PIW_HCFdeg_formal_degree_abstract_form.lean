@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_HCFdeg_formal_degree_abstract_form
 -- name    : PIW.HCFdeg.formal_degree_abstract_form
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:29:22.250132+00:00
 -- url     : https://prove2.me/theorems/3376f330-c503-4d2d-8bc1-a172c94a43e3

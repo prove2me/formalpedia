@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_Bru_bf_meas
 -- name    : QPK.Bru.bf_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:50:57.454263+00:00
 -- url     : https://prove2.me/theorems/713f22dc-9391-45e1-81c0-9c16bde14903

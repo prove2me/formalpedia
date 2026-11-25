@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_norm_sq_ge
 -- name    : PositivityTheory.Rg.Sw.WR.B.norm_sq_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:01:25.490479+00:00
 -- url     : https://prove2.me/theorems/1cc21431-9847-46fa-a041-4845fb68a925

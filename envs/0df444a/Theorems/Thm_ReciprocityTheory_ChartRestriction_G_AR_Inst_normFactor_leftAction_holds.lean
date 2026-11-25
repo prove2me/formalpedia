@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_normFactor_leftAction_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.normFactor_leftAction_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:58:02.355208+00:00
 -- url     : https://prove2.me/theorems/1beeac6e-7950-5e05-b992-f2cc162939c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_Ax_E_cyc
 -- name    : PositivityTheory.ThKF0.Chr.Ax.E_cyc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:09.356705+00:00
 -- url     : https://prove2.me/theorems/646c1345-e979-486b-a9a1-439a2866d291

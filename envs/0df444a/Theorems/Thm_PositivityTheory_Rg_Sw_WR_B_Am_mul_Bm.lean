@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_Am_mul_Bm
 -- name    : PositivityTheory.Rg.Sw.WR.B.Am_mul_Bm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:00:19.88581+00:00
 -- url     : https://prove2.me/theorems/d057f74b-9b5e-4ca8-a1fe-86aa6d39fc8c

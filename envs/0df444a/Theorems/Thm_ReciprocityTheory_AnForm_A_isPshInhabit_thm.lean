@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_isPshInhabit_thm
 -- name    : ReciprocityTheory.AnForm.A.isPshInhabit_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:01:12.604711+00:00
 -- url     : https://prove2.me/theorems/d62a98ab-c9a6-40b3-88d7-64f4e6c6205d

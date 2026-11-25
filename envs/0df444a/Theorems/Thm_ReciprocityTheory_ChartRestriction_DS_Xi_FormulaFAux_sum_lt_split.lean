@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_FormulaFAux_sum_lt_split
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.FormulaFAux.sum_lt_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:48:48.477167+00:00
 -- url     : https://prove2.me/theorems/93d35d45-b8c4-42dd-9d96-4a29a35755fe

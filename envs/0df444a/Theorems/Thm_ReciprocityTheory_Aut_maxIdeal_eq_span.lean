@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_Aut_maxIdeal_eq_span
 -- name    : ReciprocityTheory.Aut.maxIdeal_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:37:25.965928+00:00
 -- url     : https://prove2.me/theorems/7d997f3c-df1d-57d3-b2ea-ec8b18369b67

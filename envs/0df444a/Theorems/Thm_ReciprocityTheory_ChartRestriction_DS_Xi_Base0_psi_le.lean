@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_psi_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.psi_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:49.878806+00:00
 -- url     : https://prove2.me/theorems/d7699522-2f2c-4b13-9100-0a10a1f726f0

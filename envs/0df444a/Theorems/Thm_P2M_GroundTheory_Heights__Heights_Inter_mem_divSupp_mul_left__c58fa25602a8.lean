@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_mem_divSupp_mul_left__c58fa25602a8
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_mem_divSupp_mul_left__c58fa25602a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:24:27.140168+00:00
 -- url     : https://prove2.me/theorems/81929ca9-ef23-4545-9660-49b35095825e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_iso_dil
 -- name    : PositivityTheory.ThKR.LL.iso_dil
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:36.480802+00:00
 -- url     : https://prove2.me/theorems/23e63baf-c271-4571-85b5-1c75ce866827

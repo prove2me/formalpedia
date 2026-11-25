@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_KH_KrullDimensionPrincipalIdeal_lt_of_add_one_le_fin
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.KH.KrullDimensionPrincipalIdeal.lt_of_add_one_le_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:01:01.705568+00:00
 -- url     : https://prove2.me/theorems/64ae1f8d-3da8-51e6-bc8d-7638405e7367

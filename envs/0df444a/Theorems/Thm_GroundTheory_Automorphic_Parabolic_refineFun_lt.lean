@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_refineFun_lt
 -- name    : GroundTheory.Automorphic.Parabolic.refineFun_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:48:14.185408+00:00
 -- url     : https://prove2.me/theorems/1f66d6b4-2e15-449b-9d9f-b91e0871f5d0

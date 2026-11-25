@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AlgRes_analyticOnNhd_comp_symm
 -- name    : ReciprocityTheory.AnForm.R.AlgRes.analyticOnNhd_comp_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:04:42.850811+00:00
 -- url     : https://prove2.me/theorems/17a312bb-6c85-5a7e-ac53-38be4d7880be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lfLift_mem_tensFock
 -- name    : ReciprocityTheory.ChartRestriction.DS.lfLift_mem_tensFock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:56:21.772894+00:00
 -- url     : https://prove2.me/theorems/da4e838c-6c56-58b8-bf16-17e639d1c259

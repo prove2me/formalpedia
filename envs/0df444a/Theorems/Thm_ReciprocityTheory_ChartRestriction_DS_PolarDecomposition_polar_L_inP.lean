@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_PolarDecomposition_polar_L_inP
 -- name    : ReciprocityTheory.ChartRestriction.DS.PolarDecomposition.polar_L_inP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T06:46:26.008321+00:00
 -- url     : https://prove2.me/theorems/022f29bd-bd64-42f2-bbe1-967ed40467fe

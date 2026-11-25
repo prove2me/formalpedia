@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isHomogeneous_linSub
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isHomogeneous_linSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:10:38.676224+00:00
 -- url     : https://prove2.me/theorems/1a524fd9-86aa-465b-8301-b86fba932f9a

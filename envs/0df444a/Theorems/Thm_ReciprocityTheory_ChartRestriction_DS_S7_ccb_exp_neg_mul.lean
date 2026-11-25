@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_ccb_exp_neg_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.ccb_exp_neg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:48:22.574063+00:00
 -- url     : https://prove2.me/theorems/2a8ce8ff-3b1f-53c9-b6d0-2503ce7ad322

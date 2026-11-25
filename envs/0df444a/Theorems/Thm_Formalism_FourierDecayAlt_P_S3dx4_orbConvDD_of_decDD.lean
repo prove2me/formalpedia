@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_orbConvDD_of_decDD
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.orbConvDD_of_decDD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:56:57.474948+00:00
 -- url     : https://prove2.me/theorems/7378f00a-f787-4ebe-b7c7-f61439a3d2ae

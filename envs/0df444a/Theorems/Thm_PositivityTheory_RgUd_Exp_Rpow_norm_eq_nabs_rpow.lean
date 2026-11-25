@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_Exp_Rpow_norm_eq_nabs_rpow
 -- name    : PositivityTheory.RgUd.Exp.Rpow.norm_eq_nabs_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:02.152368+00:00
 -- url     : https://prove2.me/theorems/4ee10296-0a40-4bd9-b074-b408e610ae9c

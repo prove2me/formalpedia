@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_fibVEx_of_core
 -- name    : PI.VolStabSW.fibVEx_of_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:44:17.120846+00:00
 -- url     : https://prove2.me/theorems/40bddf5d-f63f-4c85-8a2f-740abde57145

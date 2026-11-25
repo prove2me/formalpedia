@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_WeakDominationWordBounds_orbital_derivative_words_weak
 -- name    : Formalism.FourierDecayAlt.P.WeakDominationWordBounds.orbital_derivative_words_weak
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:21:04.317827+00:00
 -- url     : https://prove2.me/theorems/118823c4-c6d5-4d4a-8956-c89f603cb22a

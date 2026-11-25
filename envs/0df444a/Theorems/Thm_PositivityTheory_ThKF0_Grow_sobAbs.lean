@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Grow_sobAbs
 -- name    : PositivityTheory.ThKF0.Grow.sobAbs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:03:58.722806+00:00
 -- url     : https://prove2.me/theorems/3c55d602-9c3e-4e8c-9dc1-084f80b90fae

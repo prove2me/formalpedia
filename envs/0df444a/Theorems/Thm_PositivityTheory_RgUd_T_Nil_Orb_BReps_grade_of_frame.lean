@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T_Nil_Orb_BReps_grade_of_frame
 -- name    : PositivityTheory.RgUd.T.Nil.Orb.BReps.grade_of_frame
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:57.734168+00:00
 -- url     : https://prove2.me/theorems/23665307-21c4-4c24-aef1-45dd36fc34bd

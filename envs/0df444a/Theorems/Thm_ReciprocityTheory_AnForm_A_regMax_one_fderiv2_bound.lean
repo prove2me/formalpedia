@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_regMax_one_fderiv2_bound
 -- name    : ReciprocityTheory.AnForm.A.regMax_one_fderiv2_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:44:45.694536+00:00
 -- url     : https://prove2.me/theorems/497be6c3-f867-4ee9-9222-1f6189cb2824

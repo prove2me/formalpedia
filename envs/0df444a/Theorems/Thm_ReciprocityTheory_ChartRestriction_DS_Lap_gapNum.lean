@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_gapNum
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.gapNum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:42:42.645041+00:00
 -- url     : https://prove2.me/theorems/6ef81933-1137-5865-b250-fd15a736c7a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_gradDens_leibniz
 -- name    : ReciprocityTheory.AnForm.M.st_gradDens_leibniz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:43.570797+00:00
 -- url     : https://prove2.me/theorems/e397c210-502c-4227-8b82-5dc99f4774b1

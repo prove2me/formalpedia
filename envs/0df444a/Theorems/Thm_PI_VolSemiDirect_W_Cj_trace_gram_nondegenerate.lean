@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_trace_gram_nondegenerate
 -- name    : PI.VolSemiDirect.W.Cj.trace_gram_nondegenerate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:04:42.662259+00:00
 -- url     : https://prove2.me/theorems/279bac56-a2e8-4a55-946c-6627386a781e

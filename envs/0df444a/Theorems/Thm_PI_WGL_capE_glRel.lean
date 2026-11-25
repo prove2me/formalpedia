@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_capE_glRel
 -- name    : PI.WGL.capE_glRel
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:58:12.647246+00:00
 -- url     : https://prove2.me/theorems/6e696290-6ce3-4d07-8949-bd5bb8ade6bf

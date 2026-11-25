@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_geoNum_expand
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.geoNum_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:09:28.900394+00:00
 -- url     : https://prove2.me/theorems/6c65b193-abde-4bf3-b319-4068e7466280

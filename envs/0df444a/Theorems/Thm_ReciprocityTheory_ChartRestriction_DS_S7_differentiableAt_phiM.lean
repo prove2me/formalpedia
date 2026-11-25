@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_differentiableAt_phiM
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.differentiableAt_phiM
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:05:38.521774+00:00
 -- url     : https://prove2.me/theorems/847c92ca-8946-448a-ace1-e2635aef44a8

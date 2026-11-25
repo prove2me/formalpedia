@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_wM_mem_unitary
 -- name    : PositivityTheory.Rg.Sw.LVs.wM_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:59:32.625428+00:00
 -- url     : https://prove2.me/theorems/84f9c0f2-3182-4886-b153-74c9403b7696

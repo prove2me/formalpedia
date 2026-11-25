@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_logCoordLocInt_thm
 -- name    : ReciprocityTheory.AnForm.A.logCoordLocInt_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:38:07.585984+00:00
 -- url     : https://prove2.me/theorems/3ee6fcfa-dd53-4de2-a22c-87f9ddef34f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_abs_norm_eq_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.abs_norm_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:56:18.299388+00:00
 -- url     : https://prove2.me/theorems/bfceeb83-563c-5d9e-8a76-d8ccae204485

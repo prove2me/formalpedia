@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_isGlRep_tensV
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.isGlRep_tensV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:43:04.737808+00:00
 -- url     : https://prove2.me/theorems/0efc81da-94eb-49ee-8175-dd9efebf6ee3

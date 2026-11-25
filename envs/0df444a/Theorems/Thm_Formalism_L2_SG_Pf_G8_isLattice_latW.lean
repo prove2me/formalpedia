@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_isLattice_latW
 -- name    : Formalism.L2.SG.Pf.G8.isLattice_latW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:07:26.157389+00:00
 -- url     : https://prove2.me/theorems/1ec72866-7da1-5db7-8ec4-c99eb1ee2cb5

@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for P2M_PIW_AdelClassFin_lattice_intersection__c78dcf3d0364
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T12:40:56.216957+00:00
+-- url     : https://prove2.me/submissions/609b8ad9-bc8f-4957-ac2f-d0b800c89062
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_AdelClassFin
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_StGenusOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictPlan
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictRing
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictInter
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictLat
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictGen
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictTop
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictAll
+import Theorems.Thm_PIW_AdelClassFin_dual_intersection
+import Theorems.Thm_PIW_AdelClassFin_lInter_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PIW PIW.AdelClassFin
+namespace PIW.AdelClassFin
+theorem _root_.solution : LInter := lInter_of dual_intersection
+end PIW.AdelClassFin

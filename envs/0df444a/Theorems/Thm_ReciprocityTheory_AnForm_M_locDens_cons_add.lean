@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_locDens_cons_add
 -- name    : ReciprocityTheory.AnForm.M.locDens_cons_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:22:56.064797+00:00
 -- url     : https://prove2.me/theorems/b4f03c86-34d8-4c76-b33c-d0dea1170710

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_quotient_mk_mul_congr_colon
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.quotient_mk_mul_congr_colon
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:10:26.803574+00:00
 -- url     : https://prove2.me/theorems/e2ffc33a-050d-4dc9-b341-aa465e8b421c

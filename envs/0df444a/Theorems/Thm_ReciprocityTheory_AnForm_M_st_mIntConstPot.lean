@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_mIntConstPot
 -- name    : ReciprocityTheory.AnForm.M.st_mIntConstPot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:56.653254+00:00
 -- url     : https://prove2.me/theorems/fddaae99-0674-4c74-8ed0-d16446ea9cd8

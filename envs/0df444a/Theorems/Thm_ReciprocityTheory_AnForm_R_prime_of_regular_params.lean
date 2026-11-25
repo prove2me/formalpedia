@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_prime_of_regular_params
 -- name    : ReciprocityTheory.AnForm.R.prime_of_regular_params
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:21:04.374276+00:00
 -- url     : https://prove2.me/theorems/70d86785-2d9d-4500-9243-203dc47df7f7

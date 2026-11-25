@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_positionTensorAction_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.positionTensorAction_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:53:12.419807+00:00
 -- url     : https://prove2.me/theorems/62fdb955-e254-44d7-8965-96dffc4f09db

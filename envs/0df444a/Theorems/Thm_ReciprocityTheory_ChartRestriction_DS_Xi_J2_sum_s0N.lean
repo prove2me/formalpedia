@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_J2_sum_s0N
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.J2.sum_s0N
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:48:45.302662+00:00
 -- url     : https://prove2.me/theorems/49d431e1-ff3d-5781-bb8f-4dd2015f466c

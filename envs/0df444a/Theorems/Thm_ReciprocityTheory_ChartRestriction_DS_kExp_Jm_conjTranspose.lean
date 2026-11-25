@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_kExp_Jm_conjTranspose
 -- name    : ReciprocityTheory.ChartRestriction.DS.kExp_Jm_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:50:55.031888+00:00
 -- url     : https://prove2.me/theorems/c701925c-1841-4337-bed5-a3482a8f474e

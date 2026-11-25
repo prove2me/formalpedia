@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_hasDerivAt_tensL
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.hasDerivAt_tensL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:40:56.080055+00:00
 -- url     : https://prove2.me/theorems/2909d1b3-7253-4bea-84b7-0f6e31e3dd5e

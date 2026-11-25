@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_DoubleStepProof_hat_box
 -- name    : GlobalTheory.LocFlat.DoubleStepProof.hat_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:32:00.655033+00:00
 -- url     : https://prove2.me/theorems/6471775f-b770-590f-a857-47cac0837a7b

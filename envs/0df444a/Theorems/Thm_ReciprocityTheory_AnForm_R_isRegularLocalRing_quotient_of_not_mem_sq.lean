@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isRegularLocalRing_quotient_of_not_mem_sq
 -- name    : ReciprocityTheory.AnForm.R.isRegularLocalRing_quotient_of_not_mem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:13.798356+00:00
 -- url     : https://prove2.me/theorems/f2aecdf7-3a95-5919-8bf3-3f9b0ce7e2af

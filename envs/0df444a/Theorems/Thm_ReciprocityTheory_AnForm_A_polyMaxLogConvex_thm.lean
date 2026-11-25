@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_polyMaxLogConvex_thm
 -- name    : ReciprocityTheory.AnForm.A.polyMaxLogConvex_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:36:24.852489+00:00
 -- url     : https://prove2.me/theorems/f06936a5-1212-4e7c-8d62-84fe70466b30

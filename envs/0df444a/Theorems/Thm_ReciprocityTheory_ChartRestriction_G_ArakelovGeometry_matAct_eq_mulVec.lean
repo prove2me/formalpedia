@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_matAct_eq_mulVec
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.matAct_eq_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:09:36.416799+00:00
 -- url     : https://prove2.me/theorems/a9b846b7-18b3-513d-ac57-533a7c44178e

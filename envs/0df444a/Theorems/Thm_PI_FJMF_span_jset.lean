@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_FJMF_span_jset
 -- name    : PI.FJMF.span_jset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:59:06.819209+00:00
 -- url     : https://prove2.me/theorems/1bcf850d-c369-4822-b0ee-3debc70babae

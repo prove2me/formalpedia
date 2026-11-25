@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_exStab_of_nu
 -- name    : PI.VolStabW.exStab_of_nu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:31.674996+00:00
 -- url     : https://prove2.me/theorems/d9bdadc3-7976-4cc6-a316-1188c4e48ca4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_hermitianForm_mulVec_basisSum
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RankOneLeviIdentities.hermitianForm_mulVec_basisSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:48:47.142181+00:00
 -- url     : https://prove2.me/theorems/b513a6bf-ee23-4f49-9f14-cca2b980f3e2

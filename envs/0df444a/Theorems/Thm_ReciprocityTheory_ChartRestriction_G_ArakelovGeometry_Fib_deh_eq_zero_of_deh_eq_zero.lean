@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_deh_eq_zero_of_deh_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.deh_eq_zero_of_deh_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:01:08.121657+00:00
 -- url     : https://prove2.me/theorems/4561e7ca-f7e1-504c-bcb7-75b383ff0266

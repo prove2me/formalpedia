@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_clsGainB_of
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.clsGainB_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:06:16.737241+00:00
 -- url     : https://prove2.me/theorems/02d00eb1-9c24-51af-a33d-20ad349c49c5

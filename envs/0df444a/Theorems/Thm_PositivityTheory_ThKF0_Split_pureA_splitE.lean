@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Split_pureA_splitE
 -- name    : PositivityTheory.ThKF0.Split.pureA_splitE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:44:28.904917+00:00
 -- url     : https://prove2.me/theorems/1e9f27fa-ef40-40cc-8fcb-270f7a946484

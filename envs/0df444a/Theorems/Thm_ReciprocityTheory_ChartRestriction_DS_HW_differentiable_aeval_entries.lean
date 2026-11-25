@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_differentiable_aeval_entries
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.differentiable_aeval_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:40:18.800336+00:00
 -- url     : https://prove2.me/theorems/b1ba37ca-dbab-560d-9868-f81a3f6af959

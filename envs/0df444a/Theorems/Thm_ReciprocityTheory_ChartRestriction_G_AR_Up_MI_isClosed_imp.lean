@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_isClosed_imp
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.isClosed_imp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:05:17.696026+00:00
 -- url     : https://prove2.me/theorems/3cc26b06-cbdf-5a6a-b00e-8a0dea87c010

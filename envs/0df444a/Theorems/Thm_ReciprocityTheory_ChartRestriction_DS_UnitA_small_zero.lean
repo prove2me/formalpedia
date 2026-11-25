@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_UnitA_small_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.UnitA.small_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:45:22.901144+00:00
 -- url     : https://prove2.me/theorems/6be4fcc5-9dbc-5fd1-9784-e373b6420b9d

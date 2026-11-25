@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_skewAdjointPart_isSkewAdjoint
 -- name    : ReciprocityTheory.ChartRestriction.DS.skewAdjointPart_isSkewAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:53:57.108194+00:00
 -- url     : https://prove2.me/theorems/db67ac59-d02d-43ec-9cd1-441ca8b868bf

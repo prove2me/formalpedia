@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Loc_Ptf_exists_tau
 -- name    : PositivityTheory.RgUd.TP.Loc.Ptf.exists_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:03:23.614288+00:00
 -- url     : https://prove2.me/theorems/fb15a593-e76b-4128-816f-887d7835f309

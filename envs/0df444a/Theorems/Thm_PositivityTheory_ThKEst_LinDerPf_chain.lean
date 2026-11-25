@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_LinDerPf_chain
 -- name    : PositivityTheory.ThKEst.LinDerPf.chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:11.630094+00:00
 -- url     : https://prove2.me/theorems/4be1ab8b-2f7d-58ff-9b37-20ab6908b6f9

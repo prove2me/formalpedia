@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_hsRV_cont
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.hsRV_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:45:50.384107+00:00
 -- url     : https://prove2.me/theorems/558a6996-c68d-4d55-a3f1-9b948f2d0359

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InjHol_analyticAt_of_differentiableOn_euclidean
 -- name    : GlobalTheory.InjHol.analyticAt_of_differentiableOn_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:30.100868+00:00
 -- url     : https://prove2.me/theorems/09b95e3d-cc99-4506-981f-742ca87b775a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_Gen_P_ne_one
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.Gen.P_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:00:24.907106+00:00
 -- url     : https://prove2.me/theorems/c4fa508e-7c77-559e-ac5a-959d64b0ed47

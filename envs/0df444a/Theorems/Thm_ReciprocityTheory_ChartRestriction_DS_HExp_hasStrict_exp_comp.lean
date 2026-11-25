@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_hasStrict_exp_comp
 -- name    : ReciprocityTheory.ChartRestriction.DS.HExp.hasStrict_exp_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:38:50.65898+00:00
 -- url     : https://prove2.me/theorems/8cda8eaa-531a-5a14-bfdd-b9c444a32d15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_support_of_equiv
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.support_of_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:55:55.055153+00:00
 -- url     : https://prove2.me/theorems/c1592ecc-25d4-5edf-a67e-e774474cd21d

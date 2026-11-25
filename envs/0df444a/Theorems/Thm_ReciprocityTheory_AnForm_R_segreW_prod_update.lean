@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_segreW_prod_update
 -- name    : ReciprocityTheory.AnForm.R.segreW_prod_update
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:58.115315+00:00
 -- url     : https://prove2.me/theorems/b1d700dd-ba80-4ecc-97ce-6ce5bcd6c240

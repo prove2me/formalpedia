@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_aeval_int_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.aeval_int_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:02:07.604684+00:00
 -- url     : https://prove2.me/theorems/54798195-3f9e-561f-9d63-aee4ef79f5b9

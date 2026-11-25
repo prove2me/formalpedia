@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_psiV_ballK
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.psiV_ballK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:15.657647+00:00
 -- url     : https://prove2.me/theorems/73918b9c-6069-44e7-9ed6-4b5d1652ca9f

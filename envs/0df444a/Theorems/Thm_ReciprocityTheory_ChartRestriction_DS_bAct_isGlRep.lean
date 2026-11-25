@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_bAct_isGlRep
 -- name    : ReciprocityTheory.ChartRestriction.DS.bAct_isGlRep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:52:18.674377+00:00
 -- url     : https://prove2.me/theorems/e1d86049-d35e-44eb-a967-7bd35a39928a

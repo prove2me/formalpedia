@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_oev_sigR
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.oev_sigR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:06:17.802616+00:00
 -- url     : https://prove2.me/theorems/dbf166b4-d2e6-5d35-8a8a-54c987df72e4

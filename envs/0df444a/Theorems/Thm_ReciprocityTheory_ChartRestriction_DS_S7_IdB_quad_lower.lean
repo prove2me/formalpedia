@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_IdB_quad_lower
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.IdB.quad_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:44:16.348156+00:00
 -- url     : https://prove2.me/theorems/3c0f30f9-7c91-403e-a774-334c53cd35b4

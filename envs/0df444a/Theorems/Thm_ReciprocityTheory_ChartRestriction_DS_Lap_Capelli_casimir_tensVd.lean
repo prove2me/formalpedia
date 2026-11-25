@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_casimir_tensVd
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.casimir_tensVd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:42:35.245231+00:00
 -- url     : https://prove2.me/theorems/0e259402-f9ee-430e-a946-f3459d12e8b2

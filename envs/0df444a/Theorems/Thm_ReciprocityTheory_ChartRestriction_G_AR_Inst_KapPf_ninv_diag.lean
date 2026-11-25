@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_KapPf_ninv_diag
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.KapPf.ninv_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:03:44.745726+00:00
 -- url     : https://prove2.me/theorems/ff128b4e-71e8-5364-ade3-7baea19fef68

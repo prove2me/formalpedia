@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_SpecA_cl_all
 -- name    : PositivityTheory.Rg.Cz.SpecA.cl_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T08:53:35.669985+00:00
 -- url     : https://prove2.me/theorems/9b05414c-a57e-547d-a966-464f199a0348

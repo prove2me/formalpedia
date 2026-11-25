@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_B3_iop_extEmb
 -- name    : ReciprocityTheory.ChartRestriction.B3.iop_extEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:39:30.31586+00:00
 -- url     : https://prove2.me/theorems/abd2f051-b59e-4e6e-8c63-3f1b29615a1c

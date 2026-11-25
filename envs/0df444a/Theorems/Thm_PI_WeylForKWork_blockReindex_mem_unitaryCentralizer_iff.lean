@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_blockReindex_mem_unitaryCentralizer_iff
 -- name    : PI.WeylForKWork.blockReindex_mem_unitaryCentralizer_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:17:31.36982+00:00
 -- url     : https://prove2.me/theorems/a3d6c29e-36a9-4788-8334-9db87f640d5f

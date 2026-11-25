@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_z_lift
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.z_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:54:42.905845+00:00
 -- url     : https://prove2.me/theorems/2019a95f-0193-5308-afe6-01361494fa77

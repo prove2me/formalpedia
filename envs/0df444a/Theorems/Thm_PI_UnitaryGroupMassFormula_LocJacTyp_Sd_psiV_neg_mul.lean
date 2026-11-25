@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_psiV_neg_mul
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.psiV_neg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:59:44.713542+00:00
 -- url     : https://prove2.me/theorems/124f492a-5186-4efd-9c30-be2dfd67fea7

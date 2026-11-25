@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_hessC_logAbsSq_sq_half_b80bf96c7606
 -- name    : P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_hessC_logAbsSq_sq_half_b80bf96c7606
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:42:02.351506+00:00
 -- url     : https://prove2.me/theorems/babd17f5-2ecb-4862-be98-8ef24d5c3585

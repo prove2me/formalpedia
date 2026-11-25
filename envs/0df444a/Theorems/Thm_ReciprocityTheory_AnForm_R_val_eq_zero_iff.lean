@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_val_eq_zero_iff
 -- name    : ReciprocityTheory.AnForm.R.val_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:57.63697+00:00
 -- url     : https://prove2.me/theorems/7a66c355-37ef-4af3-a786-d1f1a43535f8

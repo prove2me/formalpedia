@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefA_decomp
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefA_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:49:02.819556+00:00
 -- url     : https://prove2.me/theorems/a1bd71c8-983f-41c1-9116-c043a5503630

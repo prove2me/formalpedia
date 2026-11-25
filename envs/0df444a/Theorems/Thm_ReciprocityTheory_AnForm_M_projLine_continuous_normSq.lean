@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_projLine_continuous_normSq
 -- name    : ReciprocityTheory.AnForm.M.projLine_continuous_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:32:51.984342+00:00
 -- url     : https://prove2.me/theorems/7da267f1-6645-4967-b30a-6373e61a80b5

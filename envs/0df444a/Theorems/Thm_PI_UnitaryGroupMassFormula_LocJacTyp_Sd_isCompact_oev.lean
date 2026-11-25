@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_isCompact_oev
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.isCompact_oev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:45:27.55481+00:00
 -- url     : https://prove2.me/theorems/7a1f0987-5c94-4ff9-bfa1-29e2718a764b

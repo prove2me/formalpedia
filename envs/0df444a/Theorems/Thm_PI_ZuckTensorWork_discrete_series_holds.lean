@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ZuckTensorWork_discrete_series_holds
 -- name    : PI.ZuckTensorWork.discrete_series_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:47:57.970165+00:00
 -- url     : https://prove2.me/theorems/b1c2c88d-adf4-5fcc-897e-b83b448b1269

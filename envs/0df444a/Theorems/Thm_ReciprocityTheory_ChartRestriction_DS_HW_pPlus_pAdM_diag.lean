@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_pPlus_pAdM_diag
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.pPlus_pAdM_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:42:49.488329+00:00
 -- url     : https://prove2.me/theorems/1cc2ce3f-affd-5639-ba4c-e6991bf94165

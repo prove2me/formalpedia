@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_chiV_props
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.chiV_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:52:39.81288+00:00
 -- url     : https://prove2.me/theorems/153d8318-f2f4-47fa-87b2-9a967e7cfa14

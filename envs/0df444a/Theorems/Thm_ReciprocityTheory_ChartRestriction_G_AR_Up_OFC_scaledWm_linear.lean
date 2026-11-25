@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OFC_scaledWm_linear
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OFC.scaledWm_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:03:19.303902+00:00
 -- url     : https://prove2.me/theorems/0feba1f3-b849-5b55-9572-051b5a33ac4a

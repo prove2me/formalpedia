@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_ta_curve
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.ta_curve
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:43:05.093409+00:00
 -- url     : https://prove2.me/theorems/8aca358e-43aa-4cb8-a627-3a15664591dd

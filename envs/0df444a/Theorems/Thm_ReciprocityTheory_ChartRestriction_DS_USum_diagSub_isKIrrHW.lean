@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_USum_diagSub_isKIrrHW
 -- name    : ReciprocityTheory.ChartRestriction.DS.USum.diagSub_isKIrrHW
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:06:23.441536+00:00
 -- url     : https://prove2.me/theorems/5aaae747-9ef9-4275-8601-2d8e30498f96

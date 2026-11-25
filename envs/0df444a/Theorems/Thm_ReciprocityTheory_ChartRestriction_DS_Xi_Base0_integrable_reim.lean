@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_integrable_reim
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.integrable_reim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:44.338584+00:00
 -- url     : https://prove2.me/theorems/d1361cc7-7fee-45ec-922e-a936874d8d67

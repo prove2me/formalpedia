@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_norm_exp_tr
 -- name    : PositivityTheory.Rg.Sw.WR.G.norm_exp_tr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:02:13.738805+00:00
 -- url     : https://prove2.me/theorems/50a0342e-df32-42d7-aacd-cb2ba2989cd9

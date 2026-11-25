@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_exists_poly_of_locRing_eq
 -- name    : ReciprocityTheory.AnForm.R.exists_poly_of_locRing_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:38:15.469578+00:00
 -- url     : https://prove2.me/theorems/f6f452f5-f2d6-5177-97ac-1b5c4cf110e7

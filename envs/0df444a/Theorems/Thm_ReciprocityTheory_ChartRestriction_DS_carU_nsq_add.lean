@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_carU_nsq_add
 -- name    : ReciprocityTheory.ChartRestriction.DS.carU_nsq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:49:17.369814+00:00
 -- url     : https://prove2.me/theorems/912f383b-1f0e-49b6-8dcd-ee230c5d9fa0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_hasFDerivAt_entry2
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.hasFDerivAt_entry2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:57:56.601097+00:00
 -- url     : https://prove2.me/theorems/68a81736-ca74-460c-a1b4-3d7cfdcbc6fc

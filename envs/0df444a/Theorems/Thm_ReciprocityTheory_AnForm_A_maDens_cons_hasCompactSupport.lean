@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_maDens_cons_hasCompactSupport
 -- name    : ReciprocityTheory.AnForm.A.maDens_cons_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:16.77774+00:00
 -- url     : https://prove2.me/theorems/928c7fb9-880a-4c9a-bfb5-d68b14a2ab6f

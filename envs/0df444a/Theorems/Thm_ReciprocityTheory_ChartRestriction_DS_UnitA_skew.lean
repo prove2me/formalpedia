@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_UnitA_skew
 -- name    : ReciprocityTheory.ChartRestriction.DS.UnitA.skew
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:06:44.6398+00:00
 -- url     : https://prove2.me/theorems/12a75de8-080e-493b-8d49-87b96764f49e

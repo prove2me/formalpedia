@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_TraceNormBounds_aeval_mem_subring
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.TraceNormBounds.aeval_mem_subring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:01:03.678612+00:00
 -- url     : https://prove2.me/theorems/138fd396-3717-4243-92cb-80b4f61a4a4e

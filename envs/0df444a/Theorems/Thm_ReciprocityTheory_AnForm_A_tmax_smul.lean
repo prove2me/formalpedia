@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_tmax_smul
 -- name    : ReciprocityTheory.AnForm.A.tmax_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:19:29.678963+00:00
 -- url     : https://prove2.me/theorems/51c93da3-bbe6-4ff3-af0c-1582f20d4c49

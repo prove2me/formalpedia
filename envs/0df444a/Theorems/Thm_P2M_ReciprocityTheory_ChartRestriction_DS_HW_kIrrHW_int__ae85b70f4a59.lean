@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_HW_kIrrHW_int__ae85b70f4a59
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_HW_kIrrHW_int__ae85b70f4a59
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:11:39.337588+00:00
 -- url     : https://prove2.me/theorems/3280c07e-b102-4b4f-b880-2580c584350e

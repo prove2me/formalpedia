@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pshShift
 -- name    : ReciprocityTheory.AnForm.M.pshShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:33:07.113595+00:00
 -- url     : https://prove2.me/theorems/d2b82196-b843-509d-b334-3be3a485a840

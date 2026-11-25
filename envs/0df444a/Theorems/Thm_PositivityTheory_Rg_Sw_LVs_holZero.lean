@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_holZero
 -- name    : PositivityTheory.Rg.Sw.LVs.holZero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:44:41.582303+00:00
 -- url     : https://prove2.me/theorems/aaf6f1c1-b198-4897-b0d6-04960d667052

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InfKH_lowMinusUp_expand
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InfKH.lowMinusUp_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:46:14.351748+00:00
 -- url     : https://prove2.me/theorems/f134c085-5b69-4047-a40f-0c313075d03e

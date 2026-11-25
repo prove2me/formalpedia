@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIW_AdelClassFin_DictInter_mem_tSet
 -- name    : PIW.AdelClassFin.DictInter.mem_tSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:47:59.185182+00:00
 -- url     : https://prove2.me/theorems/5deaaa4c-a0ee-445d-b2a6-0f80013f79fe

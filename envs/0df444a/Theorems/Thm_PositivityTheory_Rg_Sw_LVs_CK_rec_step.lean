@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_CK_rec_step
 -- name    : PositivityTheory.Rg.Sw.LVs.CK.rec_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:14.128921+00:00
 -- url     : https://prove2.me/theorems/b861935d-4d7e-5c26-9a45-8fcf6dadc385

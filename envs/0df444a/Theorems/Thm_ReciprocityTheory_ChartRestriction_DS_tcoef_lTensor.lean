@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_tcoef_lTensor
 -- name    : ReciprocityTheory.ChartRestriction.DS.tcoef_lTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:57:57.403134+00:00
 -- url     : https://prove2.me/theorems/f6fd90e4-93df-566c-bacb-4515a84f8300

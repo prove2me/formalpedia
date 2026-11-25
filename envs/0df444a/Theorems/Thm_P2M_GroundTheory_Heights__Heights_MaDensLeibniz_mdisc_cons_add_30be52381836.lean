@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensLeibniz_mdisc_cons_add_30be52381836
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensLeibniz_mdisc_cons_add_30be52381836
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:48:56.58516+00:00
 -- url     : https://prove2.me/theorems/d164bec8-1157-406a-84de-8961b01c645c

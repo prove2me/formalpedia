@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_integral_Bang_eq_zero
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.integral_Bang_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:47.414599+00:00
 -- url     : https://prove2.me/theorems/ccafcbdb-b120-4cbf-bf6a-6cdcb3ef3276

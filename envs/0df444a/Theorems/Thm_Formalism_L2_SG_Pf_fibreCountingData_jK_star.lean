@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_fibreCountingData_jK_star
 -- name    : Formalism.L2.SG.Pf.fibreCountingData.jK_star
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:48:13.975685+00:00
 -- url     : https://prove2.me/theorems/645550d8-ca42-5b66-a88a-074d92cdcb73

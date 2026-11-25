@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PairUnfoldPf_T_split
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PairUnfoldPf.T_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:01:04.553255+00:00
 -- url     : https://prove2.me/theorems/da951fda-448c-5dc1-a070-99624d4e7a7f

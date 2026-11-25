@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_exists_basis_zero_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.exists_basis_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:40.370022+00:00
 -- url     : https://prove2.me/theorems/1f3670a7-1659-5b5c-82e0-32df576cfd26

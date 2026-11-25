@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_raiseStep
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.raiseStep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:43:09.055381+00:00
 -- url     : https://prove2.me/theorems/da36308d-adbc-4e90-94ce-37fcfea34400

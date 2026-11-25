@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_IdB_line_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.IdB.line_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:44:11.841296+00:00
 -- url     : https://prove2.me/theorems/830ffb27-b373-43cc-bcae-600a35b22f10

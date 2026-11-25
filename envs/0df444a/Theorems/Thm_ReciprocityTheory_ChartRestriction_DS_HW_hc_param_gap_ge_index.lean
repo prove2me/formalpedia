@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_hc_param_gap_ge_index
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.hc_param_gap_ge_index
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:39:45.784902+00:00
 -- url     : https://prove2.me/theorems/dc72529b-c4f4-5624-8704-34d9e22efdf9

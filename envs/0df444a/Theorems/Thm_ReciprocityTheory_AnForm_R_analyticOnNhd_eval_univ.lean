@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_analyticOnNhd_eval_univ
 -- name    : ReciprocityTheory.AnForm.R.analyticOnNhd_eval_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:36:10.601806+00:00
 -- url     : https://prove2.me/theorems/19d7c548-d037-5372-b5b3-c98aef35444a

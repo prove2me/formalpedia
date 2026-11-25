@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_chartAbsDens_indicator_eq_f674260ff31b
 -- name    : P2M_GroundTheory_Heights__Heights_SliceFormLelongCompact_chartAbsDens_indicator_eq_f674260ff31b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:38:54.405909+00:00
 -- url     : https://prove2.me/theorems/6891fbde-165d-5538-bd9e-230f00905cfe

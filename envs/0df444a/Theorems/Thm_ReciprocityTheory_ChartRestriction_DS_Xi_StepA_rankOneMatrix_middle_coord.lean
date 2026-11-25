@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_rankOneMatrix_middle_coord
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.rankOneMatrix_middle_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:53:57.135945+00:00
 -- url     : https://prove2.me/theorems/2004b38f-cf97-5a1d-8a51-99bf4521bf6b

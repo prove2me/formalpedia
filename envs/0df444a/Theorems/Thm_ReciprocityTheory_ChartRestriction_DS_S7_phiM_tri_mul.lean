@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_phiM_tri_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.phiM_tri_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:10:15.904503+00:00
 -- url     : https://prove2.me/theorems/3b85b1ce-e00b-49fb-87f4-e6a4d0e278c7

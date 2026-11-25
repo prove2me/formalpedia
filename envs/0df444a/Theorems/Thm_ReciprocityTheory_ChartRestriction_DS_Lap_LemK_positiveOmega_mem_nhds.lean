@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_positiveOmega_mem_nhds
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.positiveOmega_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:45:02.464502+00:00
 -- url     : https://prove2.me/theorems/00e4dc91-af8f-5bf6-b6ca-34695d35d7e0

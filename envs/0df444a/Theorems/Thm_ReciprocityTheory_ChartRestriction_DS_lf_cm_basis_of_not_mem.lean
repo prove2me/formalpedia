@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lf_cm_basis_of_not_mem
 -- name    : ReciprocityTheory.ChartRestriction.DS.lf_cm_basis_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:56:59.590442+00:00
 -- url     : https://prove2.me/theorems/976182ce-cfc4-4241-a43f-7ea7b58859d9

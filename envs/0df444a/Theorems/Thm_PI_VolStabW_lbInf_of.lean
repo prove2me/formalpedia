@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_lbInf_of
 -- name    : PI.VolStabW.lbInf_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:44:58.753894+00:00
 -- url     : https://prove2.me/theorems/26e5b028-2c91-4c21-abd1-52857261e0da

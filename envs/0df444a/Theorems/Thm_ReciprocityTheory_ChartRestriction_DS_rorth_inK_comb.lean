@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_rorth_inK_comb
 -- name    : ReciprocityTheory.ChartRestriction.DS.rorth_inK_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:57:07.289568+00:00
 -- url     : https://prove2.me/theorems/7c0a38fb-430a-5314-b12d-b88b312b53ad

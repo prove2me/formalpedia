@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_leviForm_half_log_abs_of_fderiv_eq_zero
 -- name    : ReciprocityTheory.AnForm.P.leviForm_half_log_abs_of_fderiv_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:40.067877+00:00
 -- url     : https://prove2.me/theorems/5c14f8e7-e440-41d4-9251-39ac4cdbb060

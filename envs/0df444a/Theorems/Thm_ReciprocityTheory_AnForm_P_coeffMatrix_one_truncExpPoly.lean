@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_coeffMatrix_one_truncExpPoly
 -- name    : ReciprocityTheory.AnForm.P.coeffMatrix_one_truncExpPoly
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:58:34.418794+00:00
 -- url     : https://prove2.me/theorems/f8791234-a109-4b07-b2e2-1a35882fc27a

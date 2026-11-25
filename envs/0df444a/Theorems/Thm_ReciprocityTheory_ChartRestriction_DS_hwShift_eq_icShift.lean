@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_hwShift_eq_icShift
 -- name    : ReciprocityTheory.ChartRestriction.DS.hwShift_eq_icShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:51:14.905791+00:00
 -- url     : https://prove2.me/theorems/9cd5ae82-d6d9-5e0c-b156-110cf70d281c

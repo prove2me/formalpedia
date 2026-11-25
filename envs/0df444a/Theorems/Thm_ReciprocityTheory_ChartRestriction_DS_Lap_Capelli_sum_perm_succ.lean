@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_sum_perm_succ
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.sum_perm_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:02:38.749902+00:00
 -- url     : https://prove2.me/theorems/41b788cb-29ac-40a1-b5e3-7654183e9c48

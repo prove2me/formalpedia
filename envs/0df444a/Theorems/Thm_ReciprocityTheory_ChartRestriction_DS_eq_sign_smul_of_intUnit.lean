@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_eq_sign_smul_of_intUnit
 -- name    : ReciprocityTheory.ChartRestriction.DS.eq_sign_smul_of_intUnit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:52:09.16304+00:00
 -- url     : https://prove2.me/theorems/f447cc90-125a-579c-82b9-1b1b14a773ea

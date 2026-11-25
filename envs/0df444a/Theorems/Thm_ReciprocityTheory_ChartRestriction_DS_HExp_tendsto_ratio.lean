@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_tendsto_ratio
 -- name    : ReciprocityTheory.ChartRestriction.DS.HExp.tendsto_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:36.293992+00:00
 -- url     : https://prove2.me/theorems/37c5fe87-fc0b-510d-95ec-a6dc2ddba36a

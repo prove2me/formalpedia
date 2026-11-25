@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_rescale_neg_one_geometric_inv
 -- name    : ReciprocityTheory.ChartRestriction.DS.rescale_neg_one_geometric_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:01.3719+00:00
 -- url     : https://prove2.me/theorems/707f5793-c1ef-4954-8358-6c66fbbe8e4c

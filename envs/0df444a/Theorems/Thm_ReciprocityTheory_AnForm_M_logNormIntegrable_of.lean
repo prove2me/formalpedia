@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_logNormIntegrable_of
 -- name    : ReciprocityTheory.AnForm.M.logNormIntegrable_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:47.02356+00:00
 -- url     : https://prove2.me/theorems/41d12460-e9c0-41a5-89a8-23fcb3727b7f

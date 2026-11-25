@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_isPotential_mul
 -- name    : ReciprocityTheory.AnForm.M.isPotential_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:38:10.130699+00:00
 -- url     : https://prove2.me/theorems/ec66f130-4457-4927-a07c-71410f3960ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mul_coord_bounds
 -- name    : ReciprocityTheory.AnForm.A.mul_coord_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:35:45.559775+00:00
 -- url     : https://prove2.me/theorems/44c2d089-e54a-40f1-a1d7-fd928dad835a

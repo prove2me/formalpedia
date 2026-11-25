@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Isolate_abstract_density
 -- name    : GlobalTheory.CompanionTheory.Isolate.abstract_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:03:19.389147+00:00
 -- url     : https://prove2.me/theorems/e29010ca-982c-5671-8f46-fc9203df0bac

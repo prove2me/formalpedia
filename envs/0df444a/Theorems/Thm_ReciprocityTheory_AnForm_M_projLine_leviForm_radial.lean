@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_projLine_leviForm_radial
 -- name    : ReciprocityTheory.AnForm.M.projLine_leviForm_radial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:38:49.132738+00:00
 -- url     : https://prove2.me/theorems/c9693a07-511c-4fbd-bacb-43485494f0d6

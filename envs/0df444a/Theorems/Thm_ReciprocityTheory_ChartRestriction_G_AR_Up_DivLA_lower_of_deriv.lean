@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_DivLA_lower_of_deriv
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.DivLA.lower_of_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:57:38.177317+00:00
 -- url     : https://prove2.me/theorems/2b506563-817c-5bd3-8de5-83a9cc85c3ac

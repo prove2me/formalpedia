@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_IsFil_exp_shear
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.IsFil.exp_shear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:53.525624+00:00
 -- url     : https://prove2.me/theorems/875d3998-3929-4442-8226-659ff0830bc5

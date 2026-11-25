@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_Ax_comp_ne
 -- name    : PositivityTheory.ThKF0.Chr.Ax.comp_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:31:18.680608+00:00
 -- url     : https://prove2.me/theorems/85a1956f-932d-4ea2-838b-a275c7e148bd

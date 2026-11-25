@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_pow_single_of_mat
 -- name    : ReciprocityTheory.ChartRestriction.DS.pow_single_of_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:53:40.819729+00:00
 -- url     : https://prove2.me/theorems/dabb0f84-2261-4c78-8ec4-4e2dc9ed9b30

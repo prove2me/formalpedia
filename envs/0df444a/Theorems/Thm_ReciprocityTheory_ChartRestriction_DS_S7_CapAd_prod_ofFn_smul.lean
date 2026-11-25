@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapAd_prod_ofFn_smul
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapAd.prod_ofFn_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:44:18.774899+00:00
 -- url     : https://prove2.me/theorems/779eedf8-06c1-454c-8218-9f3b4564144a

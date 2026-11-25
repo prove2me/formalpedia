@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_commutator_mul_right
 -- name    : ReciprocityTheory.ChartRestriction.DS.commutator_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:49:36.684909+00:00
 -- url     : https://prove2.me/theorems/8ba6f6e5-df81-4991-86f5-25205f3cee91

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_isPotentialZsmul
 -- name    : ReciprocityTheory.AnForm.M.isPotentialZsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:19:12.111042+00:00
 -- url     : https://prove2.me/theorems/3903b32a-e807-4097-bb8a-6e6ef4cb21f3

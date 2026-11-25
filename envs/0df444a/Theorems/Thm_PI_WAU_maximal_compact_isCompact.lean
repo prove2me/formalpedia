@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_maximal_compact_isCompact
 -- name    : PI.WAU.maximal_compact_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:32:37.046408+00:00
 -- url     : https://prove2.me/theorems/153238fe-d768-474b-ab93-7c4059747d5d

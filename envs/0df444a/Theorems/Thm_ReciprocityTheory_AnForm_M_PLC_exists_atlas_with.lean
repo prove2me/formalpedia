@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_exists_atlas_with
 -- name    : ReciprocityTheory.AnForm.M.PLC.exists_atlas_with
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:21:38.067944+00:00
 -- url     : https://prove2.me/theorems/e82ea184-f02d-5c89-94b5-b24611e32271

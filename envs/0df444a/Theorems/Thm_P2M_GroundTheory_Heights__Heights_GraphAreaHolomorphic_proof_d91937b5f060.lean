@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GraphAreaHolomorphic_proof_d91937b5f060
 -- name    : P2M_GroundTheory_Heights__Heights_GraphAreaHolomorphic_proof_d91937b5f060
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:32:06.427515+00:00
 -- url     : https://prove2.me/theorems/a884d260-2388-47b7-b880-a35771bbf955

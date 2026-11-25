@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Unit_trace_faithful
 -- name    : PositivityTheory.PfBern.Unit.trace_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T08:51:32.035268+00:00
 -- url     : https://prove2.me/theorems/1cd0271e-f3fe-596d-a094-598f9467ca91

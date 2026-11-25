@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_hpk_invol
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.hpk_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:48:27.84857+00:00
 -- url     : https://prove2.me/theorems/7c0ef8c2-6787-4fe7-9796-a05998cc1cfd

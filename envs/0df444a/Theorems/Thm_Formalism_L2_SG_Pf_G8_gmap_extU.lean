@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_gmap_extU
 -- name    : Formalism.L2.SG.Pf.G8.gmap_extU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:59:56.857671+00:00
 -- url     : https://prove2.me/theorems/1d1b5aba-4940-5a08-b50f-275d1fca4ec2

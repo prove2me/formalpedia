@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_locLen_self
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.locLen_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:59:54.806585+00:00
 -- url     : https://prove2.me/theorems/5272650a-4716-55e7-a3ce-427c872e0578

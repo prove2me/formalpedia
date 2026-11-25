@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_isPotential_of_compatible
 -- name    : ReciprocityTheory.AnForm.M.isPotential_of_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:39:08.520211+00:00
 -- url     : https://prove2.me/theorems/ee77e43e-a636-48cc-b263-ab004e25a44b

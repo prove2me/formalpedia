@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_Ax_exists_diag
 -- name    : PositivityTheory.ThKF0.Chr.Ax.exists_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:52:59.445703+00:00
 -- url     : https://prove2.me/theorems/dd157c0e-db91-4831-9902-c3d1c2c812ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_TraceNormBounds_X_zero_pow_dvd_of_isHomogeneous_aeval
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.TraceNormBounds.X_zero_pow_dvd_of_isHomogeneous_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:01:21.495271+00:00
 -- url     : https://prove2.me/theorems/9e706d82-1c8a-43b4-a269-7a7cb7a8b808

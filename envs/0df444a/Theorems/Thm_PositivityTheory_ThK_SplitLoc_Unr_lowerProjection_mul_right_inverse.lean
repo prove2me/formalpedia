@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_lowerProjection_mul_right_inverse
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.lowerProjection_mul_right_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:13:20.655219+00:00
 -- url     : https://prove2.me/theorems/5c9b12f9-5952-48d4-8009-f802c84eb1b2

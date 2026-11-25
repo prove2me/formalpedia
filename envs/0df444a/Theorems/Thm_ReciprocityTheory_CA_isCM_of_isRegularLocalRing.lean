@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_isCM_of_isRegularLocalRing
 -- name    : ReciprocityTheory.CA.isCM_of_isRegularLocalRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:20.877871+00:00
 -- url     : https://prove2.me/theorems/9c6701c8-349d-4edf-961a-8b87c1b91d47

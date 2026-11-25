@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_Mi_core
 -- name    : PositivityTheory.Rg.Sw.SP.Mi.core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:04.842553+00:00
 -- url     : https://prove2.me/theorems/a302fe3d-b8b4-42ff-b853-d02c767087e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OFC_continuous_radialRetraction
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OFC.continuous_radialRetraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:11:47.681885+00:00
 -- url     : https://prove2.me/theorems/ced7a6b8-90e8-4ed9-8c51-b78a16d5704a

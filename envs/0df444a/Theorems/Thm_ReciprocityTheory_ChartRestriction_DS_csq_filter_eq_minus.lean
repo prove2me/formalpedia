@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_csq_filter_eq_minus
 -- name    : ReciprocityTheory.ChartRestriction.DS.csq_filter_eq_minus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:50:10.016284+00:00
 -- url     : https://prove2.me/theorems/1c115ef5-a57b-5e6b-ac8e-f4979eb969d6

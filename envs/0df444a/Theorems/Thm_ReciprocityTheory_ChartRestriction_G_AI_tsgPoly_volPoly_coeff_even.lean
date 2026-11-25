@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_tsgPoly_volPoly_coeff_even
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.tsgPoly_volPoly_coeff_even
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:55:35.567862+00:00
 -- url     : https://prove2.me/theorems/a98b9ba2-c309-4492-9975-991fc29ab12a

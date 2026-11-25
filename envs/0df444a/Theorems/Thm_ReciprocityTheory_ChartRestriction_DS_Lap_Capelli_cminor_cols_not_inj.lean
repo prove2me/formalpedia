@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_cminor_cols_not_inj
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.cminor_cols_not_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:42:06.994796+00:00
 -- url     : https://prove2.me/theorems/4057dd49-4638-4ad3-be3e-a15de970c6eb

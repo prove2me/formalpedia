@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_T2_HaarDistr_eq_const_mul_integral_char
 -- name    : PositivityTheory.RgUd.T2.HaarDistr.eq_const_mul_integral_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:20:10.106665+00:00
 -- url     : https://prove2.me/theorems/df4d5e7d-3d09-52fe-a203-2e2aff7748b6

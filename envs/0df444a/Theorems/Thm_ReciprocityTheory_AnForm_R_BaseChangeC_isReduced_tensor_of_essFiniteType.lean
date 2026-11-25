@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_BaseChangeC_isReduced_tensor_of_essFiniteType
 -- name    : ReciprocityTheory.AnForm.R.BaseChangeC.isReduced_tensor_of_essFiniteType
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:16:53.82988+00:00
 -- url     : https://prove2.me/theorems/54c9daec-ed81-4089-81b9-07bc556dd021

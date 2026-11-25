@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_HermitianLiftIdentities_sub_tri_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.HermitianLiftIdentities.sub_tri_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:50:12.189218+00:00
 -- url     : https://prove2.me/theorems/f99addcc-93f2-556b-b304-076f3aa61c79

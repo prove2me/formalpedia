@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_hasFDerivAt_lu
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.hasFDerivAt_lu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:57:42.310998+00:00
 -- url     : https://prove2.me/theorems/deae7769-46a6-560e-aaa1-0bd498ac4721

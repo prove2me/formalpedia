@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_chartTheta_eq_zero_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.chartTheta_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:08:35.301346+00:00
 -- url     : https://prove2.me/theorems/2c2efb70-1fa1-4f9b-8132-d16cccb7be04

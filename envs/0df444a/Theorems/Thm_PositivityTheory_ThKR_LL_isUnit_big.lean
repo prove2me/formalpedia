@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_isUnit_big
 -- name    : PositivityTheory.ThKR.LL.isUnit_big
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:30.789902+00:00
 -- url     : https://prove2.me/theorems/b404a501-ebf7-43f5-ba5f-d849f92d9b73

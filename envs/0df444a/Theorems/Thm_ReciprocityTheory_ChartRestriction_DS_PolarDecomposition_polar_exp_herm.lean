@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_PolarDecomposition_polar_exp_herm
 -- name    : ReciprocityTheory.ChartRestriction.DS.PolarDecomposition.polar_exp_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:13.834436+00:00
 -- url     : https://prove2.me/theorems/21c022c2-f476-4fc6-9e56-6f13017f695b

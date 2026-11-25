@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MinorPolynomials_step_eq
 -- name    : Formalism.FourierDecayAlt.P.MinorPolynomials.step_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:26.416372+00:00
 -- url     : https://prove2.me/theorems/a8bb514c-ef14-5ca0-85c4-cf3d31259caf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_locPack_of
 -- name    : QPK.locPack_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:56:39.951791+00:00
 -- url     : https://prove2.me/theorems/a645e2c2-87c3-417d-9881-e2a048c5df9c

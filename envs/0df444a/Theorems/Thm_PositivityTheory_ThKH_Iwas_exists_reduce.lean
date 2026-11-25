@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Iwas_exists_reduce
 -- name    : PositivityTheory.ThKH.Iwas.exists_reduce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:05:20.261018+00:00
 -- url     : https://prove2.me/theorems/0ca5cc7f-f2db-4158-a869-9486e163d511

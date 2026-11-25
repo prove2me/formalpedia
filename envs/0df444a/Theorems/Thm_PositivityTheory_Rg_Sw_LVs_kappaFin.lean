@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_kappaFin
 -- name    : PositivityTheory.Rg.Sw.LVs.kappaFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:00:18.55497+00:00
 -- url     : https://prove2.me/theorems/174dff0a-25db-42e4-b3b4-2a9e0f168a7c

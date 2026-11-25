@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_projLine_hasFDerivAt_normSq
 -- name    : ReciprocityTheory.AnForm.M.projLine_hasFDerivAt_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:33:02.169272+00:00
 -- url     : https://prove2.me/theorems/7d9b09d5-95f5-4a80-ad28-7dbb7fdafcc0

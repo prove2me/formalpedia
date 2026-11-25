@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_logNormLocIntC_thm
 -- name    : ReciprocityTheory.AnForm.A.logNormLocIntC_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:37:53.181075+00:00
 -- url     : https://prove2.me/theorems/25878cc6-77ed-4473-8560-0ca65d1a217f

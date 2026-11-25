@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_slowWeightBound__2fa23c37e40b
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_slowWeightBound__2fa23c37e40b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:12:19.67088+00:00
 -- url     : https://prove2.me/theorems/74b242c8-b875-43a4-9ee6-0154e84256f0

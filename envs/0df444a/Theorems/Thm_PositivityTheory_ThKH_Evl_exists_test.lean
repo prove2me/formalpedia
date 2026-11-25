@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Evl_exists_test
 -- name    : PositivityTheory.ThKH.Evl.exists_test
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:06:00.422729+00:00
 -- url     : https://prove2.me/theorems/d878b253-e908-461e-8a5d-446eb454c367

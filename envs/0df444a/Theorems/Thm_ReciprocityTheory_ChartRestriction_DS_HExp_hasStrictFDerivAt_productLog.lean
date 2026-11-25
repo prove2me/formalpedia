@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_hasStrictFDerivAt_productLog
 -- name    : ReciprocityTheory.ChartRestriction.DS.HExp.hasStrictFDerivAt_productLog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:38:45.448996+00:00
 -- url     : https://prove2.me/theorems/6da6d3e3-8624-4afe-93e2-39fadfd1a5ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KSplit_kill_herm
 -- name    : PositivityTheory.SiegelWeilFormula.KSplit.kill_herm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:03:39.629262+00:00
 -- url     : https://prove2.me/theorems/6e3d7242-71b1-4471-a789-703faadce7f4

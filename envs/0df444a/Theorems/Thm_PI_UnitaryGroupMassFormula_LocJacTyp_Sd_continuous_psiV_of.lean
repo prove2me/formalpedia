@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_continuous_psiV_of
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.continuous_psiV_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:04:48.715514+00:00
 -- url     : https://prove2.me/theorems/7520df97-8f60-59a0-aa8a-7acb4ef2b05c

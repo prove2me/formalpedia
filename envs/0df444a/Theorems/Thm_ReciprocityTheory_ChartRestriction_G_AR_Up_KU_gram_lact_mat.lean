@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_KU_gram_lact_mat
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.KU.gram_lact_mat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:01:41.189036+00:00
 -- url     : https://prove2.me/theorems/9313cec4-9905-4a4e-9618-0731bd505b8a

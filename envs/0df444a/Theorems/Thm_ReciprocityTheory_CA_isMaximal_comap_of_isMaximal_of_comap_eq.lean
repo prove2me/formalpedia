@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_isMaximal_comap_of_isMaximal_of_comap_eq
 -- name    : ReciprocityTheory.CA.isMaximal_comap_of_isMaximal_of_comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:39:15.270273+00:00
 -- url     : https://prove2.me/theorems/7da4ce8e-5770-5ea7-bab5-dea961e79986

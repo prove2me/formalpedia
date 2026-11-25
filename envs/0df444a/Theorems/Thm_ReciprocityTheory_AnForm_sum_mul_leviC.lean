@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_sum_mul_leviC
 -- name    : ReciprocityTheory.AnForm.sum_mul_leviC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:15:13.971066+00:00
 -- url     : https://prove2.me/theorems/8699c072-b26e-440a-a5f2-989f77f64f31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lf_toMatrix_cp
 -- name    : ReciprocityTheory.ChartRestriction.DS.lf_toMatrix_cp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:56:03.62182+00:00
 -- url     : https://prove2.me/theorems/2b29066c-1ced-537e-b1c2-7695c8e8b891

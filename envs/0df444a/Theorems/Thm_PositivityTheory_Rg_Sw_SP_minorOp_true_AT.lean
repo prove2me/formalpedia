@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_minorOp_true_AT
 -- name    : PositivityTheory.Rg.Sw.SP.minorOp_true_AT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:00:03.491455+00:00
 -- url     : https://prove2.me/theorems/9bffa9f3-2cec-4e5d-8ff2-ec4333cfdd63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_contDiffOn_powerDet
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.contDiffOn_powerDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:44:45.868094+00:00
 -- url     : https://prove2.me/theorems/4708bd53-c831-52ce-b29a-0030aad0e4d6

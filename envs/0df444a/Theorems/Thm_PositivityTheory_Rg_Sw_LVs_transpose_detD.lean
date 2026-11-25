@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_transpose_detD
 -- name    : PositivityTheory.Rg.Sw.LVs.transpose_detD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:01:13.404794+00:00
 -- url     : https://prove2.me/theorems/a4ef3f5e-8359-4c94-8970-5c1f8d84899e

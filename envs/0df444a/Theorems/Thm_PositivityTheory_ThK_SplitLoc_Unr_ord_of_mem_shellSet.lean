@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_ord_of_mem_shellSet
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.ord_of_mem_shellSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:13:11.785091+00:00
 -- url     : https://prove2.me/theorems/108ad357-704e-48af-8815-3c3a9e8591b1

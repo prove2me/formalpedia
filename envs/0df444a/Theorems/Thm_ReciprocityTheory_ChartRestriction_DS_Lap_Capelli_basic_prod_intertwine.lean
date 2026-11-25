@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_basic_prod_intertwine
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.basic_prod_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:42:36.448323+00:00
 -- url     : https://prove2.me/theorems/5d322093-70bd-4ff4-ad4d-e7389aa9b3e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_OrthogonalComplementGenusMass_isLatIn_push_iff_isLattice
 -- name    : Formalism.L2.SG.Pf.OrthogonalComplementGenusMass.isLatIn_push_iff_isLattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:23:04.648476+00:00
 -- url     : https://prove2.me/theorems/239e7aed-0443-4039-973f-d4211d24a789

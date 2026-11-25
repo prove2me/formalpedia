@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_lowComp_entry_wt
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.lowComp_entry_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:41:43.614805+00:00
 -- url     : https://prove2.me/theorems/42d256d1-d7a3-5386-9a70-1d59b80c481d

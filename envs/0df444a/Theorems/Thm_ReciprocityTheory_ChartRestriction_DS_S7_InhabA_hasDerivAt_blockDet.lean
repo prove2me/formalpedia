@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InhabA_hasDerivAt_blockDet
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InhabA.hasDerivAt_blockDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:48:12.612207+00:00
 -- url     : https://prove2.me/theorems/df888245-a2d8-5757-aa52-9748b513b3c5

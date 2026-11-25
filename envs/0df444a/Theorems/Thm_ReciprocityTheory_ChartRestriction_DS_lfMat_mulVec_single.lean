@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lfMat_mulVec_single
 -- name    : ReciprocityTheory.ChartRestriction.DS.lfMat_mulVec_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:53:51.420477+00:00
 -- url     : https://prove2.me/theorems/7ef25f8e-d9cb-4503-888f-ce873c426b36

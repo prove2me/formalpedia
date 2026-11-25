@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_exp_injOn
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.exp_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:55.53325+00:00
 -- url     : https://prove2.me/theorems/e6ca4487-5428-42b5-b764-75837763cc2f

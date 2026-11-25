@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_heisenberg_dual_base_vector_formula
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RankOneLeviIdentities.heisenberg_dual_base_vector_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:18:11.58952+00:00
 -- url     : https://prove2.me/theorems/76e01f0f-ab26-4723-a715-fd9d04748587

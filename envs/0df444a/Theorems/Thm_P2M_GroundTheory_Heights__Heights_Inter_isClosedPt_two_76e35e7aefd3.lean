@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isClosedPt_two_76e35e7aefd3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isClosedPt_two_76e35e7aefd3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:23:29.976529+00:00
 -- url     : https://prove2.me/theorems/e11758cd-bbb4-45c4-b1ad-950f7d4083cd

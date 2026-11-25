@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_E_Impl_scalar
 -- name    : PositivityTheory.ThKF.E.Impl.scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T03:57:43.144299+00:00
 -- url     : https://prove2.me/theorems/6f528416-a133-4eda-bad4-20db436f4f3c

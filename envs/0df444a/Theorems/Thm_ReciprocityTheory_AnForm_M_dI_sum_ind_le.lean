@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_dI_sum_ind_le
 -- name    : ReciprocityTheory.AnForm.M.dI_sum_ind_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:11.421888+00:00
 -- url     : https://prove2.me/theorems/d52971b7-f770-562f-a358-0af9406b8f42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_krullDim_quotient_eq_one_iff_eq_bot
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.krullDim_quotient_eq_one_iff_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:55:15.879016+00:00
 -- url     : https://prove2.me/theorems/9545abc0-cdbc-5bac-b4a2-72608ad5ebb4

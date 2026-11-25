@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_PolynomialGrowthIntegrals_int_pos_rpow
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.PolynomialGrowthIntegrals.int_pos_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:49:32.539017+00:00
 -- url     : https://prove2.me/theorems/90422a9c-a060-5db1-b02f-d322f4f3ac1d

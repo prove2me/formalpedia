@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_lagY_iso
 -- name    : PositivityTheory.ThK.LinAct.lagY_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:39:22.945728+00:00
 -- url     : https://prove2.me/theorems/b2f205e6-15a9-4d27-b856-50a81ef1bc75

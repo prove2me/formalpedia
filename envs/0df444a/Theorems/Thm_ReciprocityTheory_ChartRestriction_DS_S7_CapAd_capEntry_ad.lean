@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapAd_capEntry_ad
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapAd.capEntry_ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:44:24.352732+00:00
 -- url     : https://prove2.me/theorems/1838dd4b-6d11-43dc-a744-48cdb3f2c825

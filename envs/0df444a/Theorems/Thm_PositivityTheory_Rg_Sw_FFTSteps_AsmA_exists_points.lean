@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AsmA_exists_points
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AsmA.exists_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:08:54.237488+00:00
 -- url     : https://prove2.me/theorems/faff12ab-8a17-4d09-95a6-107cb1685685

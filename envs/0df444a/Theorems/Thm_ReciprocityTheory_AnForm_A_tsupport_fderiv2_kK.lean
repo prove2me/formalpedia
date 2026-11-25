@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_tsupport_fderiv2_kK
 -- name    : ReciprocityTheory.AnForm.A.tsupport_fderiv2_kK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:19:17.68396+00:00
 -- url     : https://prove2.me/theorems/f093d208-0f09-5616-9dfd-acd971b0075f

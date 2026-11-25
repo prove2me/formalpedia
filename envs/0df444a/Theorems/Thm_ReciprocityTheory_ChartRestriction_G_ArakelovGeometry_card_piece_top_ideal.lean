@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_card_piece_top_ideal
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.card_piece_top_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:03:20.800703+00:00
 -- url     : https://prove2.me/theorems/106a43fb-8d9c-5ad3-9623-1b7e22735913

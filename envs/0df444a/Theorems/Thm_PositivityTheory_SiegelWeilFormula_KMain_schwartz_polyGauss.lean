@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_KMain_schwartz_polyGauss
 -- name    : PositivityTheory.SiegelWeilFormula.KMain.schwartz_polyGauss
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:52:48.769828+00:00
 -- url     : https://prove2.me/theorems/84176302-ca42-5798-a5a2-4e9292eacc59

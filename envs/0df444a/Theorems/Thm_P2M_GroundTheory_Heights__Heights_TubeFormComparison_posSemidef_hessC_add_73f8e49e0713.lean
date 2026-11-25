@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_posSemidef_hessC_add_73f8e49e0713
 -- name    : P2M_GroundTheory_Heights__Heights_TubeFormComparison_posSemidef_hessC_add_73f8e49e0713
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:41:51.119077+00:00
 -- url     : https://prove2.me/theorems/268e7215-1ce9-4742-b075-2c85360814be

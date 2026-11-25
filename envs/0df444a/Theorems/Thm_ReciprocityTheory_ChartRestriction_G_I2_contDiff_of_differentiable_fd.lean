@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_contDiff_of_differentiable_fd
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.contDiff_of_differentiable_fd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:03:42.314945+00:00
 -- url     : https://prove2.me/theorems/73962a53-b568-41cd-9be4-36ea0085d46c

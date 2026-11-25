@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_coeff_charpoly_normGL_fixed
 -- name    : PositivityTheory.Rg.Tf.Loc.coeff_charpoly_normGL_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:02:20.531005+00:00
 -- url     : https://prove2.me/theorems/e839d903-4786-5afa-96a1-d64f009a95f8

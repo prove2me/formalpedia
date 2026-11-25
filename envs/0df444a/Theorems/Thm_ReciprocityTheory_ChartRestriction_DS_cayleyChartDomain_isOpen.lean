@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_cayleyChartDomain_isOpen
 -- name    : ReciprocityTheory.ChartRestriction.DS.cayleyChartDomain_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:50:40.23305+00:00
 -- url     : https://prove2.me/theorems/f2bb50db-6d22-5c27-aeea-f84abbb7a06c

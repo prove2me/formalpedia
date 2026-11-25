@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_sum_erase0
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.sum_erase0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:02:39.879176+00:00
 -- url     : https://prove2.me/theorems/dbf657ac-e661-5e07-af6c-7cc8ab22e608

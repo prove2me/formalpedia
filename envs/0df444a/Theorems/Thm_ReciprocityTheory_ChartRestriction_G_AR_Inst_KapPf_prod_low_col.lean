@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_KapPf_prod_low_col
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.KapPf.prod_low_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:57:03.532037+00:00
 -- url     : https://prove2.me/theorems/5ad7af36-4c0b-59a3-b50b-3bc2a6eb03fa

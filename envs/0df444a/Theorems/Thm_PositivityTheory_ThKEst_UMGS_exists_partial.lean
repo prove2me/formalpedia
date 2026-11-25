@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_UMGS_exists_partial
 -- name    : PositivityTheory.ThKEst.UMGS.exists_partial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:22.138112+00:00
 -- url     : https://prove2.me/theorems/0e33e86d-b819-4b5d-af70-6873e3a0ecae

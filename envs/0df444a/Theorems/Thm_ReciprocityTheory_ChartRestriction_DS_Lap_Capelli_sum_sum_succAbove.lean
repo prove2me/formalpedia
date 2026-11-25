@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_sum_sum_succAbove
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.sum_sum_succAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:42:43.435181+00:00
 -- url     : https://prove2.me/theorems/4d9d86b9-9108-59d0-a7e9-69c256da6a8f

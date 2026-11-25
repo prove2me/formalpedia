@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLAux_ae_coord_ne_zero
 -- name    : ReciprocityTheory.AnForm.M.PLAux.ae_coord_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:20:32.262284+00:00
 -- url     : https://prove2.me/theorems/056f951e-6068-5718-a92a-9a40638a311a

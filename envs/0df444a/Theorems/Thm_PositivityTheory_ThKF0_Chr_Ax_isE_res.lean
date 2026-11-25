@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_Ax_isE_res
 -- name    : PositivityTheory.ThKF0.Chr.Ax.isE_res
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:20.156986+00:00
 -- url     : https://prove2.me/theorems/fa3f2163-54a2-42b5-b811-e0b96bd4960b

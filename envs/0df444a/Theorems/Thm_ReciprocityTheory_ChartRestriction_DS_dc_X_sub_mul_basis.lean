@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_dc_X_sub_mul_basis
 -- name    : ReciprocityTheory.ChartRestriction.DS.dc_X_sub_mul_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:49:37.01751+00:00
 -- url     : https://prove2.me/theorems/90ed961f-d1d4-4d6e-84d2-45c5d91fbf45

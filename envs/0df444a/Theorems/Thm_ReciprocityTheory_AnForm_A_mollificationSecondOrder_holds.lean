@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mollificationSecondOrder_holds
 -- name    : ReciprocityTheory.AnForm.A.mollificationSecondOrder_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:19:46.338001+00:00
 -- url     : https://prove2.me/theorems/c3c74d39-15d5-5347-9575-a12033a163bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_measurable_indicator_usc
 -- name    : ReciprocityTheory.AnForm.A.measurable_indicator_usc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:19:40.994737+00:00
 -- url     : https://prove2.me/theorems/6418b93e-5913-4801-b4cf-216d8c22cbde

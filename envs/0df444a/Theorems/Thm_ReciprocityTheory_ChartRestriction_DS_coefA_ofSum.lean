@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefA_ofSum
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefA_ofSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:43.314733+00:00
 -- url     : https://prove2.me/theorems/c6317ad9-55cc-41c1-bdfa-8235fa3d65c8

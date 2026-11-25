@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_weylSum_card_split
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.weylSum_card_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:43:57.459637+00:00
 -- url     : https://prove2.me/theorems/75886f5c-0dcf-4aa1-829e-2a3da195fba8

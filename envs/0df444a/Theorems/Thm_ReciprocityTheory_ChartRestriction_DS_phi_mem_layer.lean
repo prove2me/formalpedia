@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_phi_mem_layer
 -- name    : ReciprocityTheory.ChartRestriction.DS.phi_mem_layer
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:57.457869+00:00
 -- url     : https://prove2.me/theorems/55443207-7fd8-4f79-bf7e-7ccd54b5cfbb

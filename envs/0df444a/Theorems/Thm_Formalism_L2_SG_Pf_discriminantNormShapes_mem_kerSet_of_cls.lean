@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_mem_kerSet_of_cls
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.mem_kerSet_of_cls
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:09:41.591412+00:00
 -- url     : https://prove2.me/theorems/94acf30d-f8ce-5a74-8b00-9c23acefcba3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_OSAux_splitE_mp
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.OSAux.splitE_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:49:20.770233+00:00
 -- url     : https://prove2.me/theorems/df4ca9de-389e-51b3-8349-5b128c75e260

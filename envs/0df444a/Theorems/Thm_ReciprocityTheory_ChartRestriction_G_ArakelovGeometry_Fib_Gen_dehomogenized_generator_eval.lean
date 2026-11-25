@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_Gen_dehomogenized_generator_eval
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.Gen.dehomogenized_generator_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:00:26.340827+00:00
 -- url     : https://prove2.me/theorems/700fbdd5-c784-51ee-9fff-7cf64a7d4cd8

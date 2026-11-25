@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_RegGens_exists_regular_gens
 -- name    : ReciprocityTheory.CA.RegGens.exists_regular_gens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:38:39.049934+00:00
 -- url     : https://prove2.me/theorems/4d8e67ca-bf41-400b-b866-e5ef1746957e

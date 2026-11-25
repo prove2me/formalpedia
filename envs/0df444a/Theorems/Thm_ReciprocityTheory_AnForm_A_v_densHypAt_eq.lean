@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_v_densHypAt_eq
 -- name    : ReciprocityTheory.AnForm.A.v_densHypAt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:20:24.856358+00:00
 -- url     : https://prove2.me/theorems/fd9c34e9-3b64-4b4b-b810-866813c9176c

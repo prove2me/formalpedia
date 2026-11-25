@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_RankOneLeviIdentities_heisenberg_map_continuous
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.RankOneLeviIdentities.heisenberg_map_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:30:15.127658+00:00
 -- url     : https://prove2.me/theorems/4a069fea-3afa-462b-b230-927250b52f4a

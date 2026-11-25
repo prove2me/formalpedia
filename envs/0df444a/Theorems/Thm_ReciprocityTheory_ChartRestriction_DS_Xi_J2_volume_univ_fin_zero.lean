@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_J2_volume_univ_fin_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.J2.volume_univ_fin_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:48:40.186986+00:00
 -- url     : https://prove2.me/theorems/2935db33-0105-5df2-89b3-f2fcb0b3db28

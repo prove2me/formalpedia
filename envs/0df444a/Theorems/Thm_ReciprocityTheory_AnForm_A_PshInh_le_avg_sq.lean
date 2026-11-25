@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshInh_le_avg_sq
 -- name    : ReciprocityTheory.AnForm.A.PshInh.le_avg_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:18.806821+00:00
 -- url     : https://prove2.me/theorems/85781301-9f35-58a0-acc4-4598e34aaf58

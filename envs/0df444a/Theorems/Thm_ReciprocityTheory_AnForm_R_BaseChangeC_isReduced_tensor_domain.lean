@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_BaseChangeC_isReduced_tensor_domain
 -- name    : ReciprocityTheory.AnForm.R.BaseChangeC.isReduced_tensor_domain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:12.038969+00:00
 -- url     : https://prove2.me/theorems/e40ed3cc-e394-48e1-99d1-6536bded092e

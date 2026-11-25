@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxGoodProj_mem_conePts
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxGoodProj.mem_conePts
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:32:44.247048+00:00
 -- url     : https://prove2.me/theorems/553057ce-dd3f-4b22-b222-eeda2ae0b2d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_rowDiv_succ
 -- name    : PI.WGL.rowDiv_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:58:18.954427+00:00
 -- url     : https://prove2.me/theorems/4e700f25-f6d5-4f3d-a235-a9365b92fbc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_isUnit_mk_chartIdeal_X
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.isUnit_mk_chartIdeal_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:55:08.279808+00:00
 -- url     : https://prove2.me/theorems/310f88f4-666d-49a4-a4b1-9467b43a8d02

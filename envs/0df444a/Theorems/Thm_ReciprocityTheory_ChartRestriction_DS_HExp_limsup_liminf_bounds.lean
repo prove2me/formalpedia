@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_limsup_liminf_bounds
 -- name    : ReciprocityTheory.ChartRestriction.DS.HExp.limsup_liminf_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:27.993434+00:00
 -- url     : https://prove2.me/theorems/144ed5d1-50fc-4f9b-8dc8-285b26a810ec

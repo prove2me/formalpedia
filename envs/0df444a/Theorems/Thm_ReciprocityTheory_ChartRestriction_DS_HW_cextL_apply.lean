@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_cextL_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.cextL_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:40:09.309194+00:00
 -- url     : https://prove2.me/theorems/34fcfec7-6864-5572-bd13-666943739f6e

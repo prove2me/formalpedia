@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_volume_axes
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.volume_axes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:43.892171+00:00
 -- url     : https://prove2.me/theorems/0b414884-7041-4d80-8000-8a6f4aee98b2

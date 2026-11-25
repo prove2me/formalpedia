@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Chart_exists_li_of_submodule
 -- name    : ReciprocityTheory.ChartRestriction.G.Chart.exists_li_of_submodule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:09:28.33149+00:00
 -- url     : https://prove2.me/theorems/11ef6a42-f1c9-4bc7-9b78-cb9a50835ebe

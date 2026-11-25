@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_TraceNormBounds_projective_frame_coord_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.TraceNormBounds.projective_frame_coord_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:02:17.889783+00:00
 -- url     : https://prove2.me/theorems/020cc6ae-da5d-5733-8c14-bc735feb02f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_KapPf_rmulL_entry
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.KapPf.rmulL_entry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:02:20.962026+00:00
 -- url     : https://prove2.me/theorems/bec37b7f-bdf7-4a75-a1b0-14c15794edb7

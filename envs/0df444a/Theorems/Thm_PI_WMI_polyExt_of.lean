@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_polyExt_of
 -- name    : PI.WMI.polyExt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:50:23.30944+00:00
 -- url     : https://prove2.me/theorems/61552936-8583-430b-ae1e-778d04c4f665

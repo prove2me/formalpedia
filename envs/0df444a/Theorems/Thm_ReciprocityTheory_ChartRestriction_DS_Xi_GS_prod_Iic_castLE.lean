@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_GS_prod_Iic_castLE
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.GS.prod_Iic_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:56:26.330629+00:00
 -- url     : https://prove2.me/theorems/2922b86d-5f4b-5d1a-9ab4-f41852d917b3

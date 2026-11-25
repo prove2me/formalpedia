@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_cdo_of_three
 -- name    : ReciprocityTheory.AnForm.A.cdo_of_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:03.901095+00:00
 -- url     : https://prove2.me/theorems/42418c43-3817-58ba-82a2-95ca49c51f2b

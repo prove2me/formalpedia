@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_comap_C_eq_maximalIdeal_field
 -- name    : ReciprocityTheory.CA.comap_C_eq_maximalIdeal_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:38:43.119577+00:00
 -- url     : https://prove2.me/theorems/e70eb433-b0d4-5ebe-9bc6-f164c0c91a4a

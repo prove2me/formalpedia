@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCMMod_of_quotSMulTop
 -- name    : ReciprocityTheory.CA.IsCMMod.of_quotSMulTop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:39:00.83372+00:00
 -- url     : https://prove2.me/theorems/338a4b5b-1c1e-5f28-9c01-223ef0da4551

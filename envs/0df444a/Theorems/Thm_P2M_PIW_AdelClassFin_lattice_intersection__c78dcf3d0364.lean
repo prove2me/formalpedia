@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PIW_AdelClassFin_lattice_intersection__c78dcf3d0364
 -- name    : P2M_PIW_AdelClassFin_lattice_intersection__c78dcf3d0364
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:47:55.689474+00:00
 -- url     : https://prove2.me/theorems/91515b3c-ad38-430d-915b-15b24773fe75

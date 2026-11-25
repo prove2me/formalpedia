@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_TorusInvLevi_proof_7fb2d2bd56ad
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_TorusInvLevi_proof_7fb2d2bd56ad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:20:42.321396+00:00
 -- url     : https://prove2.me/theorems/b9a548b4-542b-45f3-a088-95f43376b9ba

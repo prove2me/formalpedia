@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshMol_integral_radialBump_pos
 -- name    : ReciprocityTheory.AnForm.A.PshMol.integral_radialBump_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:17.803872+00:00
 -- url     : https://prove2.me/theorems/541c9b79-8d57-4f99-a011-1b6799f5f3bb

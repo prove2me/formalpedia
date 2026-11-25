@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteerableE2CNN_irrep_decomposition_kernel_constraint
 -- name    : SteerableE2CNN.irrep_decomposition_kernel_constraint
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T09:38:17.12928+00:00
 -- url     : https://prove2.me/theorems/2435e2d8-ad0a-40f2-a67b-d46e6dc15c53

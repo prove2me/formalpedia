@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Tf_Loc_twCent_commute_twNorm
 -- name    : PositivityTheory.Rg.Tf.Loc.twCent_commute_twNorm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:32:35.836022+00:00
 -- url     : https://prove2.me/theorems/ae86d34b-cdaa-4fb8-bd96-37fecbb8fd14

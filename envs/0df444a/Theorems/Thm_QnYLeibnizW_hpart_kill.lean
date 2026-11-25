@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_hpart_kill
 -- name    : QnYLeibnizW.hpart_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:52:21.531934+00:00
 -- url     : https://prove2.me/theorems/aee81a8e-c61f-4f9e-90b3-586b689e12f0

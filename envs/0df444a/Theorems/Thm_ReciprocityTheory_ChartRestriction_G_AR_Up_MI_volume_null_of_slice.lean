@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_volume_null_of_slice
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.volume_null_of_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:59:41.430148+00:00
 -- url     : https://prove2.me/theorems/f73c0390-b6ec-508a-ab5b-fb7697cd25f2

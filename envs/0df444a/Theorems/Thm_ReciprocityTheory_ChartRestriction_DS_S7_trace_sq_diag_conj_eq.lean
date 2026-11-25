@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_trace_sq_diag_conj_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.trace_sq_diag_conj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:45:56.515255+00:00
 -- url     : https://prove2.me/theorems/cb968476-c70b-4aca-9adb-ca0c13725dd6

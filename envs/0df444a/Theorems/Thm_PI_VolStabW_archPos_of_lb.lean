@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_archPos_of_lb
 -- name    : PI.VolStabW.archPos_of_lb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:44:17.807982+00:00
 -- url     : https://prove2.me/theorems/ea8166f8-eaf3-4427-b4a6-5712c1c0b65a

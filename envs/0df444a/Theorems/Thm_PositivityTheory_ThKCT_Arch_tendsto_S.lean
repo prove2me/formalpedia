@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Arch_tendsto_S
 -- name    : PositivityTheory.ThKCT.Arch.tendsto_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:27.493077+00:00
 -- url     : https://prove2.me/theorems/1f179af4-fa5d-4bb9-9814-f0c2a7a2effe

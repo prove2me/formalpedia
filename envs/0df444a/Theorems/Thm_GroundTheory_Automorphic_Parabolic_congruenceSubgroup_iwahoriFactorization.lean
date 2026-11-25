@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_congruenceSubgroup_iwahoriFactorization
 -- name    : GroundTheory.Automorphic.Parabolic.congruenceSubgroup_iwahoriFactorization
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:19:28.264153+00:00
 -- url     : https://prove2.me/theorems/e20cc05b-12fb-4015-a943-9ef214a49110

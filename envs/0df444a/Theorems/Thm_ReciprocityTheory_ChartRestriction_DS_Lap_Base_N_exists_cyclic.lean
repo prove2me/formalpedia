@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_exists_cyclic
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.exists_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:24.859745+00:00
 -- url     : https://prove2.me/theorems/5563ebea-2b6d-4ac0-bee8-3112aa48c9db

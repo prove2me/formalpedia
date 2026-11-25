@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_commutator_adjoint_lower_order
 -- name    : PositivityTheory.CWB.commutator_adjoint_lower_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:51:51.703503+00:00
 -- url     : https://prove2.me/theorems/ecbb6455-4cd2-478e-9356-689f40d59080

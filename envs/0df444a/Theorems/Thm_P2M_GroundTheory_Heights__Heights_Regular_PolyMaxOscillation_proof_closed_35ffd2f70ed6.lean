@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_PolyMaxOscillation_proof_closed_35ffd2f70ed6
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_PolyMaxOscillation_proof_closed_35ffd2f70ed6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:17:32.357232+00:00
 -- url     : https://prove2.me/theorems/a8b68e77-b79b-407e-8811-960d372b4b5a

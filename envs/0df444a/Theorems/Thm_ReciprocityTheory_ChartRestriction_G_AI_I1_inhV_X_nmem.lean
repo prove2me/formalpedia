@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_inhV_X_nmem
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.inhV_X_nmem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:54:24.752774+00:00
 -- url     : https://prove2.me/theorems/6b04c255-f525-41cd-b204-1472d6cb0aeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_unitIndicator_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.unitIndicator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:43.031804+00:00
 -- url     : https://prove2.me/theorems/853e3de6-1c72-4d5b-86ea-56e530ee77f9

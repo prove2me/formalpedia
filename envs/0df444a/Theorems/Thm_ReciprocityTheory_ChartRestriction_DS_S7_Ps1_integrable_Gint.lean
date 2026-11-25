@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_Ps1_integrable_Gint
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.Ps1.integrable_Gint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:48:46.186026+00:00
 -- url     : https://prove2.me/theorems/3b90f3ca-b13b-5da4-ac67-a2a73e2b117e

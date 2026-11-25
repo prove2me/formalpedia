@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_aeval_eq_zero_of_mem_coordIdeal
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.aeval_eq_zero_of_mem_coordIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:02:16.104842+00:00
 -- url     : https://prove2.me/theorems/0b4adc33-5fc2-5458-8c8c-337636cd31e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_isCM_field
 -- name    : ReciprocityTheory.CA.isCM_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:39:03.622684+00:00
 -- url     : https://prove2.me/theorems/fa271686-5030-4c56-9bee-20b37d444e17

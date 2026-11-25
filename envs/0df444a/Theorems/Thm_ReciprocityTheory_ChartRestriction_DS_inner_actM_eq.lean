@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_inner_actM_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.inner_actM_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:51:16.028672+00:00
 -- url     : https://prove2.me/theorems/419bebc1-39d2-4db0-b9ee-db2f2adedd37

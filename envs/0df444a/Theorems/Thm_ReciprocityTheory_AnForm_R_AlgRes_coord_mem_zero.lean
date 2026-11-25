@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_AlgRes_coord_mem_zero
 -- name    : ReciprocityTheory.AnForm.R.AlgRes.coord_mem_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T06:05:36.990294+00:00
 -- url     : https://prove2.me/theorems/8e6d553f-0dac-43a9-b026-f46284bbf52e

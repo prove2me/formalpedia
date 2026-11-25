@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Unf_eq_smul
 -- name    : PositivityTheory.ThKCT.Unf.eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:19.27654+00:00
 -- url     : https://prove2.me/theorems/2d1fbc3e-818e-5469-ab36-2be012273163

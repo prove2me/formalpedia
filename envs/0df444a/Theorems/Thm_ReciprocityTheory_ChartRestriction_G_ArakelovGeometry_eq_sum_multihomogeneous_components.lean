@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_eq_sum_multihomogeneous_components
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.eq_sum_multihomogeneous_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:06:33.561236+00:00
 -- url     : https://prove2.me/theorems/755699a1-5bd4-5919-86ba-410339908d71

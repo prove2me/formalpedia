@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_GI_prodG
 -- name    : PositivityTheory.Rg.Sw.WR.G.GI.prodG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:01:14.772798+00:00
 -- url     : https://prove2.me/theorems/ea349573-68b4-493a-bc01-1a02e9f0179e

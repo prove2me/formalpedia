@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_logUnitMonoLocInt_thm
 -- name    : ReciprocityTheory.AnForm.A.logUnitMonoLocInt_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:19:27.197509+00:00
 -- url     : https://prove2.me/theorems/e3363805-0d30-41d3-93ef-b892c41f05f6

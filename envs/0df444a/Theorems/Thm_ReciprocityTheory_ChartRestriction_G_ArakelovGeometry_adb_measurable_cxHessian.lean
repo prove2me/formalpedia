@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adb_measurable_cxHessian
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adb_measurable_cxHessian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:02:22.309968+00:00
 -- url     : https://prove2.me/theorems/8ae7e529-a8d6-5159-ad79-c17a06fe0746

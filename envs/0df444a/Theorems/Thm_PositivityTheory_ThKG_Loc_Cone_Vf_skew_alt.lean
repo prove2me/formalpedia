@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Cone_Vf_skew_alt
 -- name    : PositivityTheory.ThKG.Loc.Cone.Vf.skew_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:20.007825+00:00
 -- url     : https://prove2.me/theorems/ad74f733-15df-490d-a7a5-976da4c4e6a9

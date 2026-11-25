@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_Rg_Cz_cas_expand__f6d0025b418e
 -- name    : P2M_PositivityTheory_Rg_Cz_cas_expand__f6d0025b418e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:10:19.742898+00:00
 -- url     : https://prove2.me/theorems/d2948c36-4c3b-44d1-85ad-d75358245719

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_ccb_inUJ_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.ccb_inUJ_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:45:13.15313+00:00
 -- url     : https://prove2.me/theorems/8aa3bef4-b3a7-4e88-8f01-d30907427c83

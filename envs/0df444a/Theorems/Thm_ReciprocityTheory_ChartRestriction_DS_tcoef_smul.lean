@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_tcoef_smul
 -- name    : ReciprocityTheory.ChartRestriction.DS.tcoef_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:57:26.927498+00:00
 -- url     : https://prove2.me/theorems/0d1cbaf2-c75c-5e35-994b-71279cd1d05b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefC_hasSum_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefC_hasSum_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:51:01.035987+00:00
 -- url     : https://prove2.me/theorems/dc9f0167-4880-5dff-b0d0-d06b2d0f0a1d

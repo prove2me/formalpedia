@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_etale_cohomology_vanishing_negative_degree_zero
 -- name    : PositivityTheory.CWB.etale_cohomology_vanishing_negative_degree_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:57:32.623182+00:00
 -- url     : https://prove2.me/theorems/37726743-ee71-4d05-955d-1c76d4764306

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_rP_formula
 -- name    : ReciprocityTheory.AnForm.A.PshLap.rP_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:08.044109+00:00
 -- url     : https://prove2.me/theorems/346ff7af-ab09-4592-bf0f-22351755ee73

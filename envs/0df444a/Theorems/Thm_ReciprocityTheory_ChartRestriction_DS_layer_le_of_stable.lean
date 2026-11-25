@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_layer_le_of_stable
 -- name    : ReciprocityTheory.ChartRestriction.DS.layer_le_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:51:53.691597+00:00
 -- url     : https://prove2.me/theorems/f65d5866-b243-48ae-9c32-bfc3d1970c8c

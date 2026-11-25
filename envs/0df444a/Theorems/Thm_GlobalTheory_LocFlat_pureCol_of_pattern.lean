@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocFlat_pureCol_of_pattern
 -- name    : GlobalTheory.LocFlat.pureCol_of_pattern
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T11:10:23.851918+00:00
 -- url     : https://prove2.me/theorems/af112c58-bec8-5f93-bb05-bfc7d4fb9c20

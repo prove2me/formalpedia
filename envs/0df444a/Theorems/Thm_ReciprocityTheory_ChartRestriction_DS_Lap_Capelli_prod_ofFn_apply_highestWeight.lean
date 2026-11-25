@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_prod_ofFn_apply_highestWeight
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.prod_ofFn_apply_highestWeight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:41:46.749641+00:00
 -- url     : https://prove2.me/theorems/89e12705-370b-43bd-998b-591e2e0cd9cc

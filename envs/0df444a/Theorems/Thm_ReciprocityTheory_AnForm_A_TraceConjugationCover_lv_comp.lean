@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_TraceConjugationCover_lv_comp
 -- name    : ReciprocityTheory.AnForm.A.TraceConjugationCover.lv_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:05:39.432389+00:00
 -- url     : https://prove2.me/theorems/b1f2c340-508d-4560-8296-f3728569ade4

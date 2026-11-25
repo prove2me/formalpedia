@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_FM_measurable_fI
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.FM.measurable_fI
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:17:12.766013+00:00
 -- url     : https://prove2.me/theorems/13460250-81bf-4f30-b546-47f3a2250577

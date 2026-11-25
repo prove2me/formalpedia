@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_powIndicator_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.powIndicator_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:48.23082+00:00
 -- url     : https://prove2.me/theorems/e3595902-3c30-43ed-850d-27ea405bc2f5

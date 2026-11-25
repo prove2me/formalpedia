@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_formFacts
 -- name    : PositivityTheory.Rg.Sw.LC.formFacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:00:37.465988+00:00
 -- url     : https://prove2.me/theorems/bc115e70-36d6-58e0-928d-10b6df160bb1

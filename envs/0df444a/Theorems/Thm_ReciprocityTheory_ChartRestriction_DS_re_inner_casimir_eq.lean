@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_re_inner_casimir_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.re_inner_casimir_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:12:26.42547+00:00
 -- url     : https://prove2.me/theorems/4a460b5a-790b-43ea-b16a-699e60747efb

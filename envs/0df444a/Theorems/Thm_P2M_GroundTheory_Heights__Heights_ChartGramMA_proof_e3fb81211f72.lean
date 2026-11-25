@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartGramMA_proof_e3fb81211f72
 -- name    : P2M_GroundTheory_Heights__Heights_ChartGramMA_proof_e3fb81211f72
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:49:35.202638+00:00
 -- url     : https://prove2.me/theorems/a2a2b6b4-874d-4bf1-a7b7-eda46e309d8f

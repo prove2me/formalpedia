@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_PolynomialGrowthIntegrals_fac_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.PolynomialGrowthIntegrals.fac_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:49:10.070465+00:00
 -- url     : https://prove2.me/theorems/c0f061e2-37e8-5326-8a34-7c591cfd7bee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_mem_of_mem_divSupp
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.mem_of_mem_divSupp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:55:04.225184+00:00
 -- url     : https://prove2.me/theorems/05ed03d8-b7ec-5e37-bf5c-8f67af3201e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_Cpt_isCompact_Cset
 -- name    : PI.WAU.Cpt.isCompact_Cset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:44:38.49487+00:00
 -- url     : https://prove2.me/theorems/9d04cff0-26b2-47dd-a890-c66552957c99

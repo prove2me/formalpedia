@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_val_const
 -- name    : ReciprocityTheory.AnForm.R.val_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:27:44.493352+00:00
 -- url     : https://prove2.me/theorems/8c9cabcd-caab-420a-a132-072bb51b95b1

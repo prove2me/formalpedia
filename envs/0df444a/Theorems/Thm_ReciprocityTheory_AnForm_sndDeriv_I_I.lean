@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_sndDeriv_I_I
 -- name    : ReciprocityTheory.AnForm.sndDeriv_I_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:37:29.115182+00:00
 -- url     : https://prove2.me/theorems/e173924e-ab69-431b-8ea4-990195b92655

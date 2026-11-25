@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_box
 -- name    : PositivityTheory.ThKEnd.Two.box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:14.170914+00:00
 -- url     : https://prove2.me/theorems/4ad7f5a1-287f-51b6-840e-1a54e95e8eaf

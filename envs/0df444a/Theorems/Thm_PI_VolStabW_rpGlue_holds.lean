@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_rpGlue_holds
 -- name    : PI.VolStabW.rpGlue_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:45:37.318899+00:00
 -- url     : https://prove2.me/theorems/7ad9c22d-bf7d-4a68-8da6-4a162091baf0

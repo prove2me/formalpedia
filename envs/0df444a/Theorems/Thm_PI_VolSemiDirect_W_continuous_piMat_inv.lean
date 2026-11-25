@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_continuous_piMat_inv
 -- name    : PI.VolSemiDirect.W.continuous_piMat_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T11:57:16.84889+00:00
 -- url     : https://prove2.me/theorems/fbf23b62-379f-4db1-bba7-8105ed77ad40

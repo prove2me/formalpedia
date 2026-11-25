@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_QPK_bruhat_decomposition__ef6a7602566e
 -- name    : P2M_QPK_bruhat_decomposition__ef6a7602566e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:56:37.017882+00:00
 -- url     : https://prove2.me/theorems/b15ceedc-2575-43d1-a74e-798d4f0089fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_detGram_line
 -- name    : ReciprocityTheory.AnForm.P.detGram_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:14.239372+00:00
 -- url     : https://prove2.me/theorems/eb0b41c2-abe5-451c-bd15-d556704e606e

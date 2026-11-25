@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_norm_log_norm_le
 -- name    : ReciprocityTheory.AnForm.A.norm_log_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:19:47.40614+00:00
 -- url     : https://prove2.me/theorems/6e2642d8-d3ef-4f2c-b1bc-55de9ff7eb14

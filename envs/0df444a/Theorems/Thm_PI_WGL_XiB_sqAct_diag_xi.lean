@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiB_sqAct_diag_xi
 -- name    : PI.WGL.XiB.sqAct_diag_xi
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:58:07.24768+00:00
 -- url     : https://prove2.me/theorems/bf3fe11e-6ff9-4dfc-81b2-7f8e0e595901

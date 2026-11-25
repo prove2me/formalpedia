@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_det_tL_lower
 -- name    : ReciprocityTheory.AnForm.P.det_tL_lower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:22.791136+00:00
 -- url     : https://prove2.me/theorems/d9004f35-af12-4c8e-b79a-82798234497a

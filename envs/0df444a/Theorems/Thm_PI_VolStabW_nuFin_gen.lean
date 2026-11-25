@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_nuFin_gen
 -- name    : PI.VolStabW.nuFin_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:43:54.931822+00:00
 -- url     : https://prove2.me/theorems/cb5964f2-948f-43c9-90c7-15523497001c

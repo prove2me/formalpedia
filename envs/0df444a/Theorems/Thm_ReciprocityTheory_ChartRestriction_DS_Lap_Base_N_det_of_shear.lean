@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_det_of_shear
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.det_of_shear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:29.7378+00:00
 -- url     : https://prove2.me/theorems/73c3bc33-3589-4857-aac3-c95d490b50e8

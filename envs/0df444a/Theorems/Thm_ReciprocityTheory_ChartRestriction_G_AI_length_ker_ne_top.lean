@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_length_ker_ne_top
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.length_ker_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:23.919493+00:00
 -- url     : https://prove2.me/theorems/0984e50a-2824-5334-8bfb-e577c7891da8

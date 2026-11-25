@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_lift_bvec
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.lift_bvec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:57:21.285433+00:00
 -- url     : https://prove2.me/theorems/0bc7040f-0ad4-50fc-95b0-bdb2ff6d8054

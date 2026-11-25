@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_tensHW_mem_khwSub
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.tensHW_mem_khwSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:41:35.808629+00:00
 -- url     : https://prove2.me/theorems/bc9f3d3e-c6cf-595c-b256-240ef0472b3c

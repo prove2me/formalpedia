@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_isPotentialAdd
 -- name    : ReciprocityTheory.AnForm.M.isPotentialAdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:52:15.607746+00:00
 -- url     : https://prove2.me/theorems/ff380185-5ff6-42e0-808d-179594aeb583

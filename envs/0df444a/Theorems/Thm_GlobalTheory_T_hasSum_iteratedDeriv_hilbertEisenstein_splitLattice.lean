@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_T_hasSum_iteratedDeriv_hilbertEisenstein_splitLattice
+-- name    : GlobalTheory.T.hasSum_iteratedDeriv_hilbertEisenstein_splitLattice
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-25T12:34:14.403026+00:00
+-- url     : https://prove2.me/theorems/f4c05607-d27f-4c6e-bced-0bde5fa1d75e
+-- title:
+--   T: has Sum iterated Deriv hilbert Eisenstein split Lattice
+-- statement:
+--   The T construction uses the has Sum iterated Deriv hilbert Eisenstein split Lattice property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/HasSumIteratedDerivHilbertEisensteinSplitLatticeStatement.lean#L10-L11
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/DivisorProofs/HasSumIteratedDerivHilbertEisensteinSplitLatticeStatement.lean#L10-L11
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_HasSumIteratedDerivHilbertEisensteinSplitLattice
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Divisors_HasLevelStd
+import Definitions.Def_Development_AbelianVarietyTheory_Definitions_Divisors_HasQIff
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_HasSumIteratedDerivHilbertEisensteinSplitLatticeStatement
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField UpperHalfPlane GlobalTheory.HilbFam GlobalTheory.QFam
+open GlobalTheory.IndefiniteRowSideFullHecke.OmegaFactorization (Emb Frac latM qPow upperHalf cK omegaFactor IsPartialZeta HasExpansion)
+open GlobalTheory.IndefiniteRowSideFullHecke.DefiningCoordinates (iterD partialD)
+open scoped Classical MatrixGroups nonZeroDivisors
+set_option maxHeartbeats 1000000
+
+theorem GlobalTheory.T.hasSum_iteratedDeriv_hilbertEisenstein_splitLattice : ∀ (F : Type) [Field F] [NumberField F] [IsTotallyReal F] (k : ℕ) (𝔞 𝔟 : Frac F) (a₀ : ℂ) (a : F → ℂ) (x : F) (τ c t : ℂ) (u : List (Emb F)), Even k → IsCoef k 𝔞 𝔟 a₀ a → 0 < τ.im → HasSum (fun ξ : F ↦ a ξ * eTr (ξ * x) * Complex.exp ((2 * Real.pi * Complex.I) * ((Algebra.trace ℚ F ξ : ℚ) : ℂ) * τ) * ∏ i : Emb F, lag k (u.count i) c ((2 * Real.pi * Complex.I) * (i ξ : ℂ) * t)) (iterD u (fun z ↦ (cK F k : ℂ) * gval k (split 𝔞 𝔟 x) (fun i ↦ τ + z i * (c * τ + t)) (fun i ↦ 1 + z i * c)) 0 / ((2 * Real.pi * Complex.I) ^ Module.finrank ℚ F * (omegaFactor 𝔞 : ℂ)) ^ k) := by sorry

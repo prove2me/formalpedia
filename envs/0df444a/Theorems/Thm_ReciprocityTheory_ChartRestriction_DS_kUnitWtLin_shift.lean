@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_kUnitWtLin_shift
 -- name    : ReciprocityTheory.ChartRestriction.DS.kUnitWtLin_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:52:33.953217+00:00
 -- url     : https://prove2.me/theorems/b20e9af8-8b6c-5a94-8320-f21e938c8fa6

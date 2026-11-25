@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gb_conj_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gb_conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:08:35.674261+00:00
 -- url     : https://prove2.me/theorems/17da8eff-91a8-51ea-a220-aa672a8a0c5a

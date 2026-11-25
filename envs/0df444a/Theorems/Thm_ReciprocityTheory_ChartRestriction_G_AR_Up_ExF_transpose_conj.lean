@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExF_transpose_conj
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExF.transpose_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:58:09.483237+00:00
 -- url     : https://prove2.me/theorems/263457ca-8432-5b0b-8b43-1185effae1e5

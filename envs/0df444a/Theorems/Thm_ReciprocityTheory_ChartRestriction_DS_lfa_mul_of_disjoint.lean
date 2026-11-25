@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_lfa_mul_of_disjoint
 -- name    : ReciprocityTheory.ChartRestriction.DS.lfa_mul_of_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:54:46.094657+00:00
 -- url     : https://prove2.me/theorems/fd45cf55-159e-5496-9d31-328610eff13e

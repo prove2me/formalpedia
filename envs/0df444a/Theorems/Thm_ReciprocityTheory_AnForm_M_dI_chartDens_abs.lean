@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_dI_chartDens_abs
 -- name    : ReciprocityTheory.AnForm.M.dI_chartDens_abs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:19:39.272913+00:00
 -- url     : https://prove2.me/theorems/23461451-1bc9-589d-bf3d-943a1853afe6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_measurable_PsiF
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.measurable_PsiF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:48:11.491573+00:00
 -- url     : https://prove2.me/theorems/a6f55fa9-d4cf-4169-aba9-0fa88274b550

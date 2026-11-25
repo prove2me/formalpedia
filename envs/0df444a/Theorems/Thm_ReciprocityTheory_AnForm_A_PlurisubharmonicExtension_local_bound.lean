@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PlurisubharmonicExtension_local_bound
 -- name    : ReciprocityTheory.AnForm.A.PlurisubharmonicExtension.local_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:00:16.111711+00:00
 -- url     : https://prove2.me/theorems/a0bb6afe-54b0-4e41-8dbf-5d50e29ea37e

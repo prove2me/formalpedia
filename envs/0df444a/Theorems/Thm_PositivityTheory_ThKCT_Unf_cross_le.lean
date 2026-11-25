@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Unf_cross_le
 -- name    : PositivityTheory.ThKCT.Unf.cross_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:41.355466+00:00
 -- url     : https://prove2.me/theorems/5c906f32-90f8-4553-a017-64313e763b88

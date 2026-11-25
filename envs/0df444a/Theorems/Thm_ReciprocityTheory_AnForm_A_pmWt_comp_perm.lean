@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_pmWt_comp_perm
 -- name    : ReciprocityTheory.AnForm.A.pmWt_comp_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:19:44.803876+00:00
 -- url     : https://prove2.me/theorems/67834083-a524-57ca-adfe-c306624bb2d0

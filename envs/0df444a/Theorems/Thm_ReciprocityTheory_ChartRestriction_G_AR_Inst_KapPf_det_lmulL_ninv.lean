@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_KapPf_det_lmulL_ninv
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.KapPf.det_lmulL_ninv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:56:03.219805+00:00
 -- url     : https://prove2.me/theorems/0508bc77-dc17-54a8-a54a-f234b9f0be26

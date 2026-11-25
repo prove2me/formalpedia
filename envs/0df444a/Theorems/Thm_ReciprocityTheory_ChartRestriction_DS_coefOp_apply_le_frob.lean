@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefOp_apply_le_frob
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefOp_apply_le_frob
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:49:55.081923+00:00
 -- url     : https://prove2.me/theorems/2959db75-392a-4a72-8e98-4a0713a515fd

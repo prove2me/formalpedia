@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isLocalRing_locRing
 -- name    : ReciprocityTheory.AnForm.R.isLocalRing_locRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:37:38.576776+00:00
 -- url     : https://prove2.me/theorems/117b7c5d-0c6b-593d-9c54-10d0092f055c

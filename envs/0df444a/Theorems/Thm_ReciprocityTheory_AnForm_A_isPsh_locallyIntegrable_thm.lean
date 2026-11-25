@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_isPsh_locallyIntegrable_thm
 -- name    : ReciprocityTheory.AnForm.A.isPsh_locallyIntegrable_thm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:07:04.210465+00:00
 -- url     : https://prove2.me/theorems/4df6929f-6ea1-5aa1-af78-9236db30c707

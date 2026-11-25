@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormComparison_levi_eq_re_bde4222f82b2
 -- name    : P2M_GroundTheory_Heights__Heights_TubeFormComparison_levi_eq_re_bde4222f82b2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:42:32.723802+00:00
 -- url     : https://prove2.me/theorems/160ac769-7bcb-43d5-a008-72ee7843005c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_nuNeZero_of_dens
 -- name    : PI.VolStabW.nuNeZero_of_dens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:44:46.310331+00:00
 -- url     : https://prove2.me/theorems/e7c2a68d-e4dd-4ae3-9bbf-4c375ec303b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_gset_sub_dom
 -- name    : PositivityTheory.Rg.Sw.LVs.gset_sub_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:24:01.902074+00:00
 -- url     : https://prove2.me/theorems/cfa61145-e04f-4efd-bde7-a0903f6bcbc2

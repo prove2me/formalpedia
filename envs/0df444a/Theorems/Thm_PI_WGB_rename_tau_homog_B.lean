@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_rename_tau_homog_B
 -- name    : PI.WGB.rename_tau_homog_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:23.943859+00:00
 -- url     : https://prove2.me/theorems/a2f0dafd-36b1-4a58-b4f9-2a28f6f9e849

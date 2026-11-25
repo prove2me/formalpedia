@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_sncInducedAtlas
 -- name    : ReciprocityTheory.AnForm.M.sncInducedAtlas
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:40:00.631625+00:00
 -- url     : https://prove2.me/theorems/63900b00-37fd-4cfe-9940-00fcad5360e5

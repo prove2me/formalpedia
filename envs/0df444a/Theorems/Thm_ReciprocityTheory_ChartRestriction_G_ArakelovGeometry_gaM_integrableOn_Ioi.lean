@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gaM_integrableOn_Ioi
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gaM_integrableOn_Ioi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:08:51.567781+00:00
 -- url     : https://prove2.me/theorems/0e5a44bb-09f4-5bb2-8e3a-1b5002f93e4c

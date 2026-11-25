@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_tW_mulVec
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.tW_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:44.244953+00:00
 -- url     : https://prove2.me/theorems/d2a93807-1cd4-4014-9af7-15cb8addf920

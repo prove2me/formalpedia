@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QmCapCommW_foldr_rep
 -- name    : QmCapCommW.foldr_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:05:55.667678+00:00
 -- url     : https://prove2.me/theorems/922d8afe-e360-4de8-9e77-cb88df89c12f

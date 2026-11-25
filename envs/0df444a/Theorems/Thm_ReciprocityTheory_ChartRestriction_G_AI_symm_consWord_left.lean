@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_symm_consWord_left
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.symm_consWord_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:55:08.681311+00:00
 -- url     : https://prove2.me/theorems/df8d47ec-faf6-5574-bd03-aa2c5dd8c7f7

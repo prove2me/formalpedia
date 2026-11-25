@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_mX_eq
 -- name    : PositivityTheory.Rg.Sw.LVs.mX_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:29.316304+00:00
 -- url     : https://prove2.me/theorems/ac78a62a-5bd2-45e1-8dbb-845689d77bb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemiPosTwist_proof_9e1542759b69
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemiPosTwist_proof_9e1542759b69
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:23:12.234649+00:00
 -- url     : https://prove2.me/theorems/ef2abf4c-b9bf-473b-8542-6c67f6502bda

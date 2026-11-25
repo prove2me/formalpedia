@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluingBases_glueVecs_of
 -- name    : Formalism.L2.SG.Pf.GluingBases.glueVecs_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:03:53.937032+00:00
 -- url     : https://prove2.me/theorems/b0585443-200b-4931-9c41-a2cdefd42b62

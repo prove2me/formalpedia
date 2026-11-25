@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_smooth_sum
 -- name    : ReciprocityTheory.AnForm.M.PLC.smooth_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:33:22.106256+00:00
 -- url     : https://prove2.me/theorems/d16fccb6-1486-5152-80e2-4fae6336098e

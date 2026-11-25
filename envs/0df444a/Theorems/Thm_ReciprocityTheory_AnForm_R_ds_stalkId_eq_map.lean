@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_ds_stalkId_eq_map
 -- name    : ReciprocityTheory.AnForm.R.ds_stalkId_eq_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:57:34.225802+00:00
 -- url     : https://prove2.me/theorems/f54ab115-c2cc-4079-8040-42e60a5e6cf7

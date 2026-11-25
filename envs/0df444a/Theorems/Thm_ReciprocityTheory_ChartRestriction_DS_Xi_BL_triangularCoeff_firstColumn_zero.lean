@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_triangularCoeff_firstColumn_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.triangularCoeff_firstColumn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:48:08.175436+00:00
 -- url     : https://prove2.me/theorems/50372124-6d90-48d5-ae5b-65e12143b786

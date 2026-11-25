@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_StalkLocB_isClosed_of_comap_eq
 -- name    : ReciprocityTheory.AnForm.R.StalkLocB.isClosed_of_comap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:37:13.554803+00:00
 -- url     : https://prove2.me/theorems/a2434c30-a01f-44f5-9714-8231b771b21a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_evX_eq
 -- name    : PositivityTheory.Rg.Sw.WR.G.evX_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:25:15.091287+00:00
 -- url     : https://prove2.me/theorems/44c4602c-370e-47d6-8af3-63ca2b3612ac

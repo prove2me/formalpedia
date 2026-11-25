@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefC_pow_entry_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefC_pow_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:50:10.119394+00:00
 -- url     : https://prove2.me/theorems/5c1b1dce-8b03-4a7d-870c-362255dd8567

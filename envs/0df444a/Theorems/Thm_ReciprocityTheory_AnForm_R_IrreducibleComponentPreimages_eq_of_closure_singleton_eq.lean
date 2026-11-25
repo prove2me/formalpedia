@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_eq_of_closure_singleton_eq
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.eq_of_closure_singleton_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:45.953303+00:00
 -- url     : https://prove2.me/theorems/d118726e-aa6a-4772-8c32-3c9c58095dea

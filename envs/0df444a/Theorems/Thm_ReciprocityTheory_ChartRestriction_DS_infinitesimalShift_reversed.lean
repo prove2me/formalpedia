@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_infinitesimalShift_reversed
 -- name    : ReciprocityTheory.ChartRestriction.DS.infinitesimalShift_reversed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:51:23.536811+00:00
 -- url     : https://prove2.me/theorems/ec90c915-1498-49db-ad17-13c8a563a698

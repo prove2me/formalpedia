@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_conjugation_invariant_measure
 -- name    : QPK.conjugation_invariant_measure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:12:16.375944+00:00
 -- url     : https://prove2.me/theorems/c45df000-5534-4f03-9b21-7dd38a17e8d9

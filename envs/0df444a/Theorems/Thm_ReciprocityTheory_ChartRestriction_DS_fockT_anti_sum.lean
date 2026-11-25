@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_fockT_anti_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.fockT_anti_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:53:27.197916+00:00
 -- url     : https://prove2.me/theorems/0c600345-b2ae-5acf-849e-21926d6d7e49

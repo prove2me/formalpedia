@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_forms_algebraicIndependent_finite
 -- name    : GlobalTheory.exists_forms_algebraicIndependent_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:32:23.035783+00:00
 -- url     : https://prove2.me/theorems/0ac2a4e7-2e86-4fa0-92a4-f61b719e3015

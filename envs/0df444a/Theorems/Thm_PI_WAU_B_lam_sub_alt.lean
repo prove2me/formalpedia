@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WAU_B_lam_sub_alt
 -- name    : PI.WAU.B.lam_sub_alt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:41:06.593605+00:00
 -- url     : https://prove2.me/theorems/c236048c-173b-44df-bf3c-62f901340629

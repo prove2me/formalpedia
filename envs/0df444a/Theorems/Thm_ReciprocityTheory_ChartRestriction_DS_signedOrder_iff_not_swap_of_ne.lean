@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_signedOrder_iff_not_swap_of_ne
 -- name    : ReciprocityTheory.ChartRestriction.DS.signedOrder_iff_not_swap_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:23.976+00:00
 -- url     : https://prove2.me/theorems/9d590c9b-d407-4495-86f2-9e5aba09603d

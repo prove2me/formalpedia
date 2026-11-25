@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_ioExists_of_cap
 -- name    : PI.WGL.ioExists_of_cap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:51:45.38613+00:00
 -- url     : https://prove2.me/theorems/e4eeb428-6edf-5160-beb5-ddfaff5ff657

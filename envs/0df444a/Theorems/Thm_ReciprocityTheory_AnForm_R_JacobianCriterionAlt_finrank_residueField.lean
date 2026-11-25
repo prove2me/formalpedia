@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_finrank_residueField
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.finrank_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:32:43.86315+00:00
 -- url     : https://prove2.me/theorems/856607dd-e8c2-4912-bf9e-52834a440344

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PI_VolStabW_exOmT_of_steps__237885209129
 -- name    : P2M_PI_VolStabW_exOmT_of_steps__237885209129
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:02:20.729637+00:00
 -- url     : https://prove2.me/theorems/1584f0d9-8034-5b81-bd6b-5db774fafd55

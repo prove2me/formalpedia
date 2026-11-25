@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_exp_mem_grpN
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.exp_mem_grpN
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:20.303703+00:00
 -- url     : https://prove2.me/theorems/7300a0fa-3cf3-48e9-b448-d54b7cebadb8

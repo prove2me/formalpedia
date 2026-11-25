@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_exists_parPrimes
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.exists_parPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:28:25.532649+00:00
 -- url     : https://prove2.me/theorems/6136dbb6-db53-4ec4-b62d-69632196278b

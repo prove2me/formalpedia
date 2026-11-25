@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_lcB_hasDerivAt
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.lcB_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:02.483006+00:00
 -- url     : https://prove2.me/theorems/8c268c40-0b89-4246-9589-89eaf20c3951

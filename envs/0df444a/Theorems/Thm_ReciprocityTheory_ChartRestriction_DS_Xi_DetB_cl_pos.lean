@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_DetB_cl_pos
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.DetB.cl_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:48:03.856037+00:00
 -- url     : https://prove2.me/theorems/c455fe3b-3970-4b89-8313-b70dc2e1f7e9

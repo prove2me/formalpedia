@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slt_crossOp_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.slt_crossOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:59:54.760803+00:00
 -- url     : https://prove2.me/theorems/84536349-c2c0-5101-8691-7b7220acf8c6

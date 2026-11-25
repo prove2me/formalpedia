@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_analytic_of_diff
 -- name    : GlobalTheory.ThetaGauss.analytic_of_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:43:41.615225+00:00
 -- url     : https://prove2.me/theorems/2507fc89-c7d8-4907-900a-c638b0d8153a

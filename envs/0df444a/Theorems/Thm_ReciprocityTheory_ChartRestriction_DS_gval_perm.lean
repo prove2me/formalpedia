@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_gval_perm
 -- name    : ReciprocityTheory.ChartRestriction.DS.gval_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:51:06.484618+00:00
 -- url     : https://prove2.me/theorems/8da9ae32-0113-4c3c-b811-8dfc9618c00d

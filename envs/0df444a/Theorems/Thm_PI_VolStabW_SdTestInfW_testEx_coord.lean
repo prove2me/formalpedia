@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_SdTestInfW_testEx_coord
 -- name    : PI.VolStabW.SdTestInfW.testEx_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:42:13.582168+00:00
 -- url     : https://prove2.me/theorems/e5825051-d128-5392-a167-757ba09308b0

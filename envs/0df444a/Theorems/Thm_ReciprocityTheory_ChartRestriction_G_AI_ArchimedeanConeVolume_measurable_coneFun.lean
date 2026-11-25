@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_ArchimedeanConeVolume_measurable_coneFun
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.ArchimedeanConeVolume.measurable_coneFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:54:40.350202+00:00
 -- url     : https://prove2.me/theorems/d91a89a3-a61e-4e00-9bf7-567010590600

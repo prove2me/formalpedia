@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_update_eq_slRest
 -- name    : ReciprocityTheory.ChartRestriction.DS.update_eq_slRest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:55:53.194819+00:00
 -- url     : https://prove2.me/theorems/d4fc7196-1338-4dbf-9728-24a9d1ea108d

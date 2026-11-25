@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_le_span_weightVecs
 -- name    : ReciprocityTheory.ChartRestriction.DS.le_span_weightVecs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:52:38.853546+00:00
 -- url     : https://prove2.me/theorems/c7b8650a-e048-4e3d-b3fe-8b350cf76226

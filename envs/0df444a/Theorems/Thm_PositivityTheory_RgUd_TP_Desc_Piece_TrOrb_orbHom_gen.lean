@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_TrOrb_orbHom_gen
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.TrOrb.orbHom_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:55:44.234546+00:00
 -- url     : https://prove2.me/theorems/fd22b262-98e9-4c52-bb35-a40ba2d9920a

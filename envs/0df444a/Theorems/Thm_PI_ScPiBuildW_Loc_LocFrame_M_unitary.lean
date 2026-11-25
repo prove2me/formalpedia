@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_LocFrame_M_unitary
 -- name    : PI.ScPiBuildW.Loc.LocFrame.M_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:37:49.896114+00:00
 -- url     : https://prove2.me/theorems/4e53f615-d44a-4fcc-b83b-59614975d96b

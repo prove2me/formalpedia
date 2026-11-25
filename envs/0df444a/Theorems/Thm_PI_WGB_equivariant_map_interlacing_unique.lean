@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_equivariant_map_interlacing_unique
 -- name    : PI.WGB.equivariant_map_interlacing_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:45:21.939954+00:00
 -- url     : https://prove2.me/theorems/4f02cfc2-de12-4bb6-bf27-94505209fe80

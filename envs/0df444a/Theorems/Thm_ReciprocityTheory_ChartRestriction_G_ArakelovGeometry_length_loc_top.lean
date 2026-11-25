@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_length_loc_top
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.length_loc_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:09:47.603395+00:00
 -- url     : https://prove2.me/theorems/a448b65f-8ae6-471b-9dc4-b2d017308eea

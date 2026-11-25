@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedConj0Pf_Lw_decomp
 -- name    : Formalism.L2.SG.Pf.RedConj0Pf.Lw_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:28:18.3138+00:00
 -- url     : https://prove2.me/theorems/51395255-3024-4f32-899f-0398a6e94cce

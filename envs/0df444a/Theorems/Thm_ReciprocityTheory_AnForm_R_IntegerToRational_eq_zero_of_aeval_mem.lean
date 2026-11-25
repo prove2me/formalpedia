@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IntegerToRational_eq_zero_of_aeval_mem
 -- name    : ReciprocityTheory.AnForm.R.IntegerToRational.eq_zero_of_aeval_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:37.523446+00:00
 -- url     : https://prove2.me/theorems/2fdd9320-6f03-48d8-bdcd-1bdb57e10bdd

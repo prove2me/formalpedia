@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_crossVal_pos
 -- name    : ReciprocityTheory.ChartRestriction.DS.crossVal_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:10:13.961034+00:00
 -- url     : https://prove2.me/theorems/b8e81ceb-18de-4f0e-9f77-efcaacc02157

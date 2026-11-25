@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Iwas_antiJ_submatrix
 -- name    : PositivityTheory.ThKH.Iwas.antiJ_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:06:21.385598+00:00
 -- url     : https://prove2.me/theorems/c061d345-52e9-5d8f-935a-5162f857e112

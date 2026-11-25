@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_exists_fixedUnitary_sending_basis
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.exists_fixedUnitary_sending_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:47:42.787057+00:00
 -- url     : https://prove2.me/theorems/0874d7fe-a410-5e01-90f3-73031afb0b25

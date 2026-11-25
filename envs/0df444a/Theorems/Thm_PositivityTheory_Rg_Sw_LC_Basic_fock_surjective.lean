@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_fock_surjective
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.fock_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:55:22.131026+00:00
 -- url     : https://prove2.me/theorems/bc6f010f-85c4-4b09-8d73-9eb7206714dd

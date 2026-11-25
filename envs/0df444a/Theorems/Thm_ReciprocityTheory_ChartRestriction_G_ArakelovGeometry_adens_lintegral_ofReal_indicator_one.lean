@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adens_lintegral_ofReal_indicator_one
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adens_lintegral_ofReal_indicator_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:02:38.550228+00:00
 -- url     : https://prove2.me/theorems/39c3634d-b421-5564-9b9a-644ff8c43b14

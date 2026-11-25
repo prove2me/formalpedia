@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_TC_rot_inG
 -- name    : PositivityTheory.Rg.Sw.LVs.TC.rot_inG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:00.452955+00:00
 -- url     : https://prove2.me/theorems/b7627dc3-af43-443f-97b3-d4001395df28

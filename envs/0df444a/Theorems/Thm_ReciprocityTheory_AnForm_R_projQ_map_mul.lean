@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_projQ_map_mul
 -- name    : ReciprocityTheory.AnForm.R.projQ_map_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:37:47.367093+00:00
 -- url     : https://prove2.me/theorems/af6a4425-5834-5102-9ed1-2642e8458599

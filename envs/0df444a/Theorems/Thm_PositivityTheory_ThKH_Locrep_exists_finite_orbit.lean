@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Locrep_exists_finite_orbit
 -- name    : PositivityTheory.ThKH.Locrep.exists_finite_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:04:55.728845+00:00
 -- url     : https://prove2.me/theorems/a7462a63-aec1-5e6a-b064-fdfcbae2f825

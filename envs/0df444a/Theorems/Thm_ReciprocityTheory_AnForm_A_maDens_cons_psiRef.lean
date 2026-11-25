@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_maDens_cons_psiRef
 -- name    : ReciprocityTheory.AnForm.A.maDens_cons_psiRef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:21:14.708706+00:00
 -- url     : https://prove2.me/theorems/677eb1bb-8af1-55b4-bd04-396c8b5dc23f

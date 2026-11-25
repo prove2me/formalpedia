@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_RgC_leviV_const
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.RgC.leviV_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:02:28.609952+00:00
 -- url     : https://prove2.me/theorems/d12c72ab-721d-5b02-8cf7-93d112e992fe

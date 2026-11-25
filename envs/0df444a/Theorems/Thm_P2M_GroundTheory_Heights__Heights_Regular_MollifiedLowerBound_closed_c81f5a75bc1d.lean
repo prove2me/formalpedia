@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_MollifiedLowerBound_closed_c81f5a75bc1d
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_MollifiedLowerBound_closed_c81f5a75bc1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:17:51.861795+00:00
 -- url     : https://prove2.me/theorems/52035204-52a3-4a40-9eda-bb6fb1823e6e

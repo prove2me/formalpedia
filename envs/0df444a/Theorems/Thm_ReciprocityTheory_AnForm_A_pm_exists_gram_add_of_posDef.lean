@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_pm_exists_gram_add_of_posDef
 -- name    : ReciprocityTheory.AnForm.A.pm_exists_gram_add_of_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:19:26.381342+00:00
 -- url     : https://prove2.me/theorems/69ac8320-f492-4073-99a5-dd7875a77a43

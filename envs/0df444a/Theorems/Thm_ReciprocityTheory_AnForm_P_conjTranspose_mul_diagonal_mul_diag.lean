@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_conjTranspose_mul_diagonal_mul_diag
 -- name    : ReciprocityTheory.AnForm.P.conjTranspose_mul_diagonal_mul_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:52:11.803544+00:00
 -- url     : https://prove2.me/theorems/4325190d-1b93-4e16-b6c3-c366d202184f

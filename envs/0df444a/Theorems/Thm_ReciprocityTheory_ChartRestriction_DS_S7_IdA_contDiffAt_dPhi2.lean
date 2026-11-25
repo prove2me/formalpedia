@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_IdA_contDiffAt_dPhi2
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.IdA.contDiffAt_dPhi2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:13:32.296274+00:00
 -- url     : https://prove2.me/theorems/948a35b7-b985-4819-8514-6542a63b85bc

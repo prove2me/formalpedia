@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_dimFormula_arith
 -- name    : ReciprocityTheory.CA.dimFormula_arith
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:39:34.494789+00:00
 -- url     : https://prove2.me/theorems/b961770e-6ba6-5649-b02c-1074c98bf285

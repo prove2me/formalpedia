@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapAd_sum_fun_perm
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapAd.sum_fun_perm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:46:53.914566+00:00
 -- url     : https://prove2.me/theorems/af95d4d0-d548-5505-bb2c-601fa4d31ff7

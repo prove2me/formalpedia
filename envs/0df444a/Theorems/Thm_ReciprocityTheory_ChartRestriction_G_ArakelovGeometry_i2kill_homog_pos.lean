@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_i2kill_homog_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.i2kill_homog_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:19:23.444622+00:00
 -- url     : https://prove2.me/theorems/680b98fb-c8b7-4679-8390-dcaffeb6f9c9

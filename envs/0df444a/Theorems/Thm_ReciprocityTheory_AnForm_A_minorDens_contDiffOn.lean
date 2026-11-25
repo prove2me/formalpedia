@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_minorDens_contDiffOn
 -- name    : ReciprocityTheory.AnForm.A.minorDens_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:19:45.837332+00:00
 -- url     : https://prove2.me/theorems/ae178421-3abf-4226-9c39-442511e1374c

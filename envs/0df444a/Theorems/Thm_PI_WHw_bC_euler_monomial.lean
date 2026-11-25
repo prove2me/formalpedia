@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_bC_euler_monomial
 -- name    : PI.WHw.bC_euler_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:58:57.544104+00:00
 -- url     : https://prove2.me/theorems/17187c00-2f17-5751-89f6-e4599406efd0

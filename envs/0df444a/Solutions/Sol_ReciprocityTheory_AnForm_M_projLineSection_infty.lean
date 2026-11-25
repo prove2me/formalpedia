@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for ReciprocityTheory.AnForm.M.projLineSection_infty
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T12:25:03.820126+00:00
+-- url     : https://prove2.me/submissions/8650d27a-ae41-4aa5-bdde-d7524f228456
+
+import Definitions.Def_ReciprocityTheory_AnalyticForms_PotentialTheory_ContDiffOnFubiniStudyProfileInvNormSqFirst
+import Definitions.Def_ReciprocityTheory_AnalyticForms_PotentialTheory_ContDiffFubiniStudyRatioCompChart0
+import Theorems.Thm_ReciprocityTheory_AnForm_M_ima_apply
+import Theorems.Thm_ReciprocityTheory_AnForm_M_rea_apply
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+attribute [local simp] ReciprocityTheory.AnForm.M.ima_apply
+attribute [local simp] ReciprocityTheory.AnForm.M.rea_apply
+
+
+
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.AnForm ReciprocityTheory.AnForm.M
+open MeasureTheory OnePoint Filter Topology
+noncomputable section
+namespace ReciprocityTheory.AnForm.M
+theorem _root_.solution : projectiveLinePairSection ∞ = crd1 := by
+  funext y
+  simp [projectiveLinePairSection]
+end ReciprocityTheory.AnForm.M

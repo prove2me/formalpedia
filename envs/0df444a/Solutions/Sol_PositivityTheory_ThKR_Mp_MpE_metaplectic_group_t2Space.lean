@@ -1,0 +1,42 @@
+-- Prove2me | solution 1 for PositivityTheory.ThKR.Mp.MpE.metaplectic_group_t2Space
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T12:41:28.642808+00:00
+-- url     : https://prove2.me/submissions/c8a15d08-36aa-49a0-bf88-ce72103bdd2f
+
+import Definitions.Def_Development_WeilBound_ThetaLifts_Reductions_MetaplecticDerivatives_ContinuousPair
+import Definitions.Def_Development_WeilBound_ThetaLifts_Reductions_MetaplecticDerivatives_MetaplecticGroupT2Space
+import Theorems.Thm_PositivityTheory_ThKR_Mp_MpE_isInducing_F
+import Theorems.Thm_PositivityTheory_ThKF_E_Impl_continuous
+import Theorems.Thm_PositivityTheory_ThKR_Mp_om_sch
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open MeasureTheory Complex SchwartzMap Matrix GlobalTheory.RealWeil PositivityTheory.ThKF.E Filter Topology PositivityTheory.ThKR.LL
+open scoped Real ContDiff
+open PositivityTheory PositivityTheory.ThKR PositivityTheory.ThKR.Mp
+variable {l : Type} [Fintype l] [DecidableEq l]
+open MpE
+open PositivityTheory.ThKR.Mp.MpE
+namespace PositivityTheory.ThKR.Mp.MpE
+theorem _root_.solution : T2Space (G l) := by
+  refine T2Space.of_injective_continuous (f := fun g : G l => ((pr g, fun f => om g f) : Sp l × (L2 l → L2 l)))
+    ?_ isInducing_F.continuous
+  intro g h hgh
+  simp only [Prod.mk.injEq] at hgh
+  obtain ⟨h1, h2⟩ := hgh
+  have hu : om g = om h := LinearIsometryEquiv.ext fun f => congrFun h2 f
+  have hU : omS g = omS h := ContinuousLinearMap.ext fun f => by
+    apply injective_toLp 2 volume
+    show schwartzToL2 l (omS g f) = schwartzToL2 l (omS h f)
+    rw [← om_sch, ← om_sch, hu]
+  exact Subtype.ext (p := (· ∈ sub l)) (Prod.ext h1 (Prod.ext hu (Units.ext hU)))
+end PositivityTheory.ThKR.Mp.MpE

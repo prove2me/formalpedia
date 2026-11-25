@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_EabH_lev
 -- name    : PIQnLT.EabH_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:47.615488+00:00
 -- url     : https://prove2.me/theorems/0ae338cd-225d-4fa8-9c0f-4f1fc21f1957

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_sW_pairs
 -- name    : ReciprocityTheory.AnForm.P.sW_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:35.647882+00:00
 -- url     : https://prove2.me/theorems/89453f8d-9d14-4bd1-a866-c3be172b13e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_psiPos_inner_P
 -- name    : ReciprocityTheory.ChartRestriction.DS.psiPos_inner_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:57:09.299874+00:00
 -- url     : https://prove2.me/theorems/d5c81ae3-08a0-443e-b7e4-b6558c5260cf

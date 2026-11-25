@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_layerWtVecs_mono
 -- name    : ReciprocityTheory.ChartRestriction.DS.layerWtVecs_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:52:21.622098+00:00
 -- url     : https://prove2.me/theorems/a3e85730-387a-4fa7-97db-94102d116fa3

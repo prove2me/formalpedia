@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_IrreducibleComponentPreimages_compsH_pre_isPreirreducible
 -- name    : ReciprocityTheory.AnForm.R.IrreducibleComponentPreimages.compsH_pre_isPreirreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:42.92565+00:00
 -- url     : https://prove2.me/theorems/550a9500-606a-419b-ab8b-99641b62f66b

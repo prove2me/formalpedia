@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_coeff_mem
 -- name    : PositivityTheory.ThK.LinAct.coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:08.799799+00:00
 -- url     : https://prove2.me/theorems/2abbe472-be70-4d63-8b30-203ce6d38748

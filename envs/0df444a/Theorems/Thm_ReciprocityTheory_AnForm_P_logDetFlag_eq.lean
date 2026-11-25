@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_logDetFlag_eq
 -- name    : ReciprocityTheory.AnForm.P.logDetFlag_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:41.093842+00:00
 -- url     : https://prove2.me/theorems/048a1bee-2a02-4d87-aca0-332409392618

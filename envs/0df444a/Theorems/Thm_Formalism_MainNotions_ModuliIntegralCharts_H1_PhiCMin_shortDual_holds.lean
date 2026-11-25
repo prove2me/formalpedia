@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_PhiCMin_shortDual_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.PhiCMin.shortDual_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:06:40.223382+00:00
 -- url     : https://prove2.me/theorems/d2aac418-33c4-48c0-a032-ee7ee312b186

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_transFin_of
 -- name    : PositivityTheory.Rg.Cz.transFin_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:49:20.619371+00:00
 -- url     : https://prove2.me/theorems/69c8cb32-c8bb-4315-834d-caf54698a6fc

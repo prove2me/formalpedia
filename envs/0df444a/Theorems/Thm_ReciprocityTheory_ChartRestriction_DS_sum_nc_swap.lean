@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_sum_nc_swap
 -- name    : ReciprocityTheory.ChartRestriction.DS.sum_nc_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:56:48.540746+00:00
 -- url     : https://prove2.me/theorems/5a9ba46a-3284-4d19-aa2d-5290de06e387

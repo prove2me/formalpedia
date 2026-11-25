@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_HE_isOpen_punct
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.HE.isOpen_punct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:03:58.219237+00:00
 -- url     : https://prove2.me/theorems/d689f679-c39e-5230-b66d-bf292d96da3f

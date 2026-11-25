@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CWB_basis_sum_form_values
 -- name    : PositivityTheory.CWB.basis_sum_form_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T08:52:07.842807+00:00
 -- url     : https://prove2.me/theorems/118c2fa5-68dd-555d-a4e1-52a49a92a51d

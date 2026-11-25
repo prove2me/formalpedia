@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_leviHalfLogAbs
 -- name    : ReciprocityTheory.AnForm.P.leviHalfLogAbs
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:25.518808+00:00
 -- url     : https://prove2.me/theorems/a38f3761-63b0-4b2c-be41-638f552e0e40

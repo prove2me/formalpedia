@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExtFPf_norm_poincareLift_sq_le
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExtFPf.norm_poincareLift_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:58:12.879096+00:00
 -- url     : https://prove2.me/theorems/92d68c2f-66ec-5008-b641-54d4ab34bc9c

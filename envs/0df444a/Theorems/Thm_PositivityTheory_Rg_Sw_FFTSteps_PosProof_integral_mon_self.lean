@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_PosProof_integral_mon_self
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.PosProof.integral_mon_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:41:45.481493+00:00
 -- url     : https://prove2.me/theorems/df0d5322-dc06-444d-a9b4-e70f544f4d8e

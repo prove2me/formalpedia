@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_isCM_quotient_iff
 -- name    : ReciprocityTheory.CA.isCM_quotient_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:03:19.849258+00:00
 -- url     : https://prove2.me/theorems/a4ae8d1e-4d0e-4384-bcac-04cc2bc04698

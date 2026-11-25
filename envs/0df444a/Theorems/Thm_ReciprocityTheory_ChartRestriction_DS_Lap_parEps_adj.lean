@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_parEps_adj
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.parEps_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:42:54.37608+00:00
 -- url     : https://prove2.me/theorems/cce5756d-bdc7-4162-84fb-afb2ef5a7807

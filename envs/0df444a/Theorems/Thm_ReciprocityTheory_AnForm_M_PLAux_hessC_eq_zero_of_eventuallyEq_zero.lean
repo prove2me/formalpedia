@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLAux_hessC_eq_zero_of_eventuallyEq_zero
 -- name    : ReciprocityTheory.AnForm.M.PLAux.hessC_eq_zero_of_eventuallyEq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:19:18.060202+00:00
 -- url     : https://prove2.me/theorems/2578de29-1f48-5e05-aed2-1b0488253f32

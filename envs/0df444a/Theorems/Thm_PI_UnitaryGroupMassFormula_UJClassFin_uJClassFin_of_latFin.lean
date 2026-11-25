@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_UJClassFin_uJClassFin_of_latFin
 -- name    : PI.UnitaryGroupMassFormula.UJClassFin.uJClassFin_of_latFin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:42:33.453859+00:00
 -- url     : https://prove2.me/theorems/27b2c2e3-7dfd-4b71-b34a-c4e4e738e8ca

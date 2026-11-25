@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_normSq_sum_eq_trace
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.normSq_sum_eq_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:03:35.879615+00:00
 -- url     : https://prove2.me/theorems/ccd7e338-8b01-470d-a131-051e9babc5fd

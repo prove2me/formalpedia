@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_rorth_inK_of_skew
 -- name    : ReciprocityTheory.ChartRestriction.DS.rorth_inK_of_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:55:07.57089+00:00
 -- url     : https://prove2.me/theorems/aa53d39f-0afe-49b3-8cec-9038c001c50b

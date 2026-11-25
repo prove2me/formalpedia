@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_ringKrullDim_eq_of_isIntegral_of_injective
 -- name    : ReciprocityTheory.CA.ringKrullDim_eq_of_isIntegral_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:01:24.45467+00:00
 -- url     : https://prove2.me/theorems/8be66424-c1e1-4ed9-b5a3-0bac1606cb39

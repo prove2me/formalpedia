@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_adjointBr_of
 -- name    : PI.WGL.adjointBr_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:47:20.171056+00:00
 -- url     : https://prove2.me/theorems/b6dcc8ab-6a2d-4af2-b2d8-d79e06683fc2

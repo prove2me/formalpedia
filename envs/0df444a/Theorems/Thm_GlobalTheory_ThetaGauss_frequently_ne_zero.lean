@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_frequently_ne_zero
 -- name    : GlobalTheory.ThetaGauss.frequently_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:44:48.158803+00:00
 -- url     : https://prove2.me/theorems/3f6fd665-cb99-4fd3-bfb8-714f951c9466

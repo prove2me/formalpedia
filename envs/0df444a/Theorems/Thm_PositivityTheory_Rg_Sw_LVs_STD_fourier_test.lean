@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_STD_fourier_test
 -- name    : PositivityTheory.Rg.Sw.LVs.STD.fourier_test
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:22.862152+00:00
 -- url     : https://prove2.me/theorems/167b3791-99e4-4180-93e4-d817be1a15c5

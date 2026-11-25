@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKCT_Arch_lip
 -- name    : PositivityTheory.ThKCT.Arch.lip
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:59.950368+00:00
 -- url     : https://prove2.me/theorems/b1e2b499-16d6-4eb4-9e72-35c60f9d485b

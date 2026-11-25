@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_ThFin_tm_mp
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.ThFin.tm_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:49:22.081127+00:00
 -- url     : https://prove2.me/theorems/3ff0a3a4-6871-408a-bead-1d842d925f64

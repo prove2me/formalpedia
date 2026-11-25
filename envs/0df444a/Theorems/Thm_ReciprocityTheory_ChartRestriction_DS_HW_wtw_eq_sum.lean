@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_wtw_eq_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.wtw_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:41:54.106601+00:00
 -- url     : https://prove2.me/theorems/64a1c8bc-48aa-46b6-ba62-b040f3ada715

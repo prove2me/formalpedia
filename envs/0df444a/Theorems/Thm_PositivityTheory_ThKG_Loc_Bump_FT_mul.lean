@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKG_Loc_Bump_FT_mul
 -- name    : PositivityTheory.ThKG.Loc.Bump.FT_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:04:20.684799+00:00
 -- url     : https://prove2.me/theorems/2cb135be-cf85-58b1-a13e-7a6ad2926232

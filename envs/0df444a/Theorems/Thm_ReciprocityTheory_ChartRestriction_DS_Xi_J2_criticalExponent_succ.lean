@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_J2_criticalExponent_succ
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.J2.criticalExponent_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:47:46.630944+00:00
 -- url     : https://prove2.me/theorems/9f1573ff-c574-4b68-acd2-4f51c290b1cd

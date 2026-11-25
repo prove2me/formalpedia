@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QmCapCommW_EE_gl
 -- name    : QmCapCommW.EE_gl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:05:44.888646+00:00
 -- url     : https://prove2.me/theorems/f6a73ec5-f302-4019-b235-d5e36345411e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_ddcCoordDens_insertNth
 -- name    : ReciprocityTheory.AnForm.A.ddcCoordDens_insertNth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:51:23.833043+00:00
 -- url     : https://prove2.me/theorems/d7eb2e7c-b562-428a-bd5a-b40f05b74f22

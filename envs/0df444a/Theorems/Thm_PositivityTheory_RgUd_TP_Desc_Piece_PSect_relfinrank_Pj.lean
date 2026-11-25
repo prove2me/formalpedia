@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Desc_Piece_PSect_relfinrank_Pj
 -- name    : PositivityTheory.RgUd.TP.Desc.Piece.PSect.relfinrank_Pj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:49:49.761546+00:00
 -- url     : https://prove2.me/theorems/0bc00697-7e7d-5ac5-a761-4063d2cad7f0

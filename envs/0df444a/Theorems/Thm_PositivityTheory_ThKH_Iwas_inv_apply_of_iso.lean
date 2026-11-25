@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKH_Iwas_inv_apply_of_iso
 -- name    : PositivityTheory.ThKH.Iwas.inv_apply_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:06:37.117379+00:00
 -- url     : https://prove2.me/theorems/559c02f3-5934-5b30-9e4e-231ed5d64fa5

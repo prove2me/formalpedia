@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WSF_schurOrth_of
 -- name    : PI.WSF.schurOrth_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:47:07.983643+00:00
 -- url     : https://prove2.me/theorems/3c73342e-3bba-49a0-9e99-1ba8f6dee51d

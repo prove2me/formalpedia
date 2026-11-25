@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Isolate_unitFn_mul_right
 -- name    : GlobalTheory.CompanionTheory.Isolate.unitFn_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:01:52.091286+00:00
 -- url     : https://prove2.me/theorems/cbbc75db-15c4-417c-8c2a-ed320793725b

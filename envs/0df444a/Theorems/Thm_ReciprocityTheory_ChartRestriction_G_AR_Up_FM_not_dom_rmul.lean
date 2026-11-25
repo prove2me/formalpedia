@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_FM_not_dom_rmul
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.FM.not_dom_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:58:32.135127+00:00
 -- url     : https://prove2.me/theorems/9e1260ee-a3bd-5177-9f45-68d14a45dcf0

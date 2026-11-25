@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_Ps1_hasFDerivAt_intG
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.Ps1.hasFDerivAt_intG
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:38:47.288824+00:00
 -- url     : https://prove2.me/theorems/b19d8262-1b78-4757-8bb3-592a6c165e0a

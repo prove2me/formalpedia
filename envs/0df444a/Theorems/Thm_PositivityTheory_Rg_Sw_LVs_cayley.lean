@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_cayley
 -- name    : PositivityTheory.Rg.Sw.LVs.cayley
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:00:00.430741+00:00
 -- url     : https://prove2.me/theorems/dca3872c-7d79-44ce-9a93-b78527907107

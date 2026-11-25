@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLAux_maDens_cons_eq_zero
 -- name    : ReciprocityTheory.AnForm.M.PLAux.maDens_cons_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:26.630743+00:00
 -- url     : https://prove2.me/theorems/49bcd3e5-7ef6-4802-8b2b-3943b91db399

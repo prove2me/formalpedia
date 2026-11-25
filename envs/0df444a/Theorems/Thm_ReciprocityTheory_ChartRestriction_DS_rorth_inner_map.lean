@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_rorth_inner_map
 -- name    : ReciprocityTheory.ChartRestriction.DS.rorth_inner_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:55:03.848157+00:00
 -- url     : https://prove2.me/theorems/185724f4-dce1-45ab-be05-f69cf0e49697

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WMI_determinant_splitting_formula
 -- name    : PI.WMI.determinant_splitting_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:48:01.698799+00:00
 -- url     : https://prove2.me/theorems/ae60156d-5b3d-4b18-b3ac-8eeb97584224

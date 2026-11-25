@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_PolarDecomposition_polar_isSelfAdjoint_isUnit_spectrum_pos
 -- name    : ReciprocityTheory.ChartRestriction.DS.PolarDecomposition.polar_isSelfAdjoint_isUnit_spectrum_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:45:14.335639+00:00
 -- url     : https://prove2.me/theorems/f0783fb9-1dc8-4f03-93ba-f48107374a89

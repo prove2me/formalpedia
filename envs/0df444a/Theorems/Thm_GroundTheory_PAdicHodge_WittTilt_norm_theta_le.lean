@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_norm_theta_le
 -- name    : GroundTheory.PAdicHodge.WittTilt.norm_theta_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T11:47:32.087434+00:00
 -- url     : https://prove2.me/theorems/385ff4c5-5d8e-407a-b4ee-5c65746d68f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_analyticNull
 -- name    : ReciprocityTheory.AnForm.M.analyticNull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:07.515235+00:00
 -- url     : https://prove2.me/theorems/7042569a-7aeb-4ae9-9ad0-f1d1722cd4dd

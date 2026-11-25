@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_PsW_hasFDerivAt_G
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.PsW.hasFDerivAt_G
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:45:46.522008+00:00
 -- url     : https://prove2.me/theorems/01224398-4dfa-5fc5-827a-a0622f080bf3

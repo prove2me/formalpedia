@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_IdA_cline_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.IdA.cline_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:44:35.926825+00:00
 -- url     : https://prove2.me/theorems/fda23696-665d-4fc3-9bf1-d8625fd553a2

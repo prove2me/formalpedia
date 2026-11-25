@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_FM_lintegral_ufC
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.FM.lintegral_ufC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:59:03.580796+00:00
 -- url     : https://prove2.me/theorems/9cce86c4-15c8-5b5b-89d3-e078f9b6ee6c

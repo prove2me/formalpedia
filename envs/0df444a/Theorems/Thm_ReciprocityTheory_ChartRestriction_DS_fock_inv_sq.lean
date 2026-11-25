@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_fock_inv_sq
 -- name    : ReciprocityTheory.ChartRestriction.DS.fock_inv_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:53:37.332191+00:00
 -- url     : https://prove2.me/theorems/1278faf6-1d6b-5021-9fce-d85897a75af6

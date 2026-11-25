@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_orbTup_holds
 -- name    : PI.VolStabW.orbTup_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:54:52.079386+00:00
 -- url     : https://prove2.me/theorems/07b1a11d-04d3-5ff0-aa53-bf0254ee79bc

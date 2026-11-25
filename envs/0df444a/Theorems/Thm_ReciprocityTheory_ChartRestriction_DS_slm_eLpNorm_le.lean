@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slm_eLpNorm_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.slm_eLpNorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:54:12.592562+00:00
 -- url     : https://prove2.me/theorems/8e171906-5ac9-455d-941a-e81bf08a695f

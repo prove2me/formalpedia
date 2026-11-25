@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_not_mem_of_mem_divSupp_swap
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.not_mem_of_mem_divSupp_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:56:21.711012+00:00
 -- url     : https://prove2.me/theorems/de9730dc-af5f-4c23-9ec5-5ace0ffe543d

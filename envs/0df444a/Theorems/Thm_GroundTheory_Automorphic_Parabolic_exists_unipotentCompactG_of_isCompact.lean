@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_unipotentCompactG_of_isCompact
 -- name    : GroundTheory.Automorphic.Parabolic.exists_unipotentCompactG_of_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:48:06.818445+00:00
 -- url     : https://prove2.me/theorems/32710a1c-c7cf-4000-a3ee-e7c354641370

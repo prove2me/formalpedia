@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_fderiv_eq_zero_of_vanish
 -- name    : PositivityTheory.Rg.Sw.LVs.fderiv_eq_zero_of_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:01:21.053831+00:00
 -- url     : https://prove2.me/theorems/5339f031-0a2b-5c19-b944-99525a9e4000

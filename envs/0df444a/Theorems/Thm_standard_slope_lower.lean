@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_standard_slope_lower
 -- name    : standard_slope_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:41:15.2772+00:00
 -- url     : https://prove2.me/theorems/fe51f6e5-a93a-4bc9-8357-935513184e9f

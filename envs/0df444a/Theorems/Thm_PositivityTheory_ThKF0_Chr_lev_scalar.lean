@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_lev_scalar
 -- name    : PositivityTheory.ThKF0.Chr.lev_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:54.007044+00:00
 -- url     : https://prove2.me/theorems/74c7c2dc-5637-4800-874c-2bd66973356f

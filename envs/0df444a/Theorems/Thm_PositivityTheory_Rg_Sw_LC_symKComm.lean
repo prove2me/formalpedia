@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_symKComm
 -- name    : PositivityTheory.Rg.Sw.LC.symKComm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:49:18.488194+00:00
 -- url     : https://prove2.me/theorems/31254c03-cdce-4065-bbf9-68c12890a302

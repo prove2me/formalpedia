@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_det_Gn
 -- name    : ReciprocityTheory.AnForm.P.det_Gn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:01:09.996414+00:00
 -- url     : https://prove2.me/theorems/38f32857-ec99-4859-9da0-52c33dddf6f3

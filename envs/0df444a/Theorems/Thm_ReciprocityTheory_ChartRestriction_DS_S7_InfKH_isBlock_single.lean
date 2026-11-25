@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InfKH_isBlock_single
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InfKH.isBlock_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:48:11.568231+00:00
 -- url     : https://prove2.me/theorems/b66b8b5a-028e-55d7-9bfc-bd922ce10ac0

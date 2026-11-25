@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_aeval_smul_of_isHomogeneous
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.aeval_smul_of_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:01:04.141804+00:00
 -- url     : https://prove2.me/theorems/4b70115d-86da-4323-85ab-ead8728d2fa3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_phi__dot_d29ba0cfc144
 -- name    : P2M_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_phi__dot_d29ba0cfc144
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:14:29.882805+00:00
 -- url     : https://prove2.me/theorems/ef210eb7-d87a-4f35-a065-76a5bbfcee4b

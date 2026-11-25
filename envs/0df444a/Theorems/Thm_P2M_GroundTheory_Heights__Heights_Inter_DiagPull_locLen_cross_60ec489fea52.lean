@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagPull_locLen_cross_60ec489fea52
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagPull_locLen_cross_60ec489fea52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:23:31.547363+00:00
 -- url     : https://prove2.me/theorems/6b06f3b7-f06e-4245-b7a4-b3cc1fa61c94

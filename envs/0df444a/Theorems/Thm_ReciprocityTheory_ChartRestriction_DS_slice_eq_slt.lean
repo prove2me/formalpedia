@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_slice_eq_slt
 -- name    : ReciprocityTheory.ChartRestriction.DS.slice_eq_slt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:32.308887+00:00
 -- url     : https://prove2.me/theorems/38a24723-98f7-40ab-a132-b7e7bce3ae4c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_rankOne_conjTranspose
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.rankOne_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:57:35.680723+00:00
 -- url     : https://prove2.me/theorems/2484b6d8-d537-4002-9895-58f66fca8918

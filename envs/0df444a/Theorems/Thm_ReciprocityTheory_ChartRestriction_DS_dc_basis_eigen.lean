@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_dc_basis_eigen
 -- name    : ReciprocityTheory.ChartRestriction.DS.dc_basis_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:10:43.643244+00:00
 -- url     : https://prove2.me/theorems/82485138-019c-476c-a693-57fa0cb84b89

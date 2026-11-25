@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_tset_conj_single
 -- name    : ReciprocityTheory.ChartRestriction.DS.tset_conj_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:06:58.907032+00:00
 -- url     : https://prove2.me/theorems/c1c64602-d422-5eb2-b14a-d508945af9b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_normSq_le_tW
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.normSq_le_tW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:48.219578+00:00
 -- url     : https://prove2.me/theorems/738e0ecd-bb56-4a67-93b6-7a6d896d77e0

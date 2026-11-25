@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_hess_comp_of_ker
 -- name    : ReciprocityTheory.AnForm.hess_comp_of_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:37:48.374638+00:00
 -- url     : https://prove2.me/theorems/f2dbb30a-e645-5f73-9759-afe144ec8088

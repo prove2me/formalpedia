@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_tens_ker_nontrivial
 -- name    : ReciprocityTheory.ChartRestriction.DS.tens_ker_nontrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:57:33.21444+00:00
 -- url     : https://prove2.me/theorems/1339707b-e718-54f8-aa53-e8dbe69ac4f0

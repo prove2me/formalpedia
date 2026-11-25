@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_lintegral_comp_LA
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.lintegral_comp_LA
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:11.472723+00:00
 -- url     : https://prove2.me/theorems/1a581e79-c49c-4d4b-b0d2-5fea3ebdd14f

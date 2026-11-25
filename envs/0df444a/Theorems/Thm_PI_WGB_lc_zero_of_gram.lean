@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_lc_zero_of_gram
 -- name    : PI.WGB.lc_zero_of_gram
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:45:33.925907+00:00
 -- url     : https://prove2.me/theorems/9043770c-cf3a-4841-903b-f90042d75a2b

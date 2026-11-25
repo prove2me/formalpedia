@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_levi_F_nonneg_d0a17bf941a0
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_levi_F_nonneg_d0a17bf941a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:31:21.855295+00:00
 -- url     : https://prove2.me/theorems/34ebc571-7268-562b-903e-8c55f55ebd41

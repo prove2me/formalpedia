@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_exists_oneParam
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.exists_oneParam
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:11:42.34078+00:00
 -- url     : https://prove2.me/theorems/cb902def-0475-425f-b6aa-0d2f13eeb008

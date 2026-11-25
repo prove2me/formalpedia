@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Isolate_exists_hk_avg
 -- name    : GlobalTheory.CompanionTheory.Isolate.exists_hk_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:02:27.571258+00:00
 -- url     : https://prove2.me/theorems/a1387971-cddb-4eff-a346-f4338aafe174

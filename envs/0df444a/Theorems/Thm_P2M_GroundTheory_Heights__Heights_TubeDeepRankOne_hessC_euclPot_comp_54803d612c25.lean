@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_hessC_euclPot_comp_54803d612c25
 -- name    : P2M_GroundTheory_Heights__Heights_TubeDeepRankOne_hessC_euclPot_comp_54803d612c25
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:41:50.725539+00:00
 -- url     : https://prove2.me/theorems/c693e601-5ef3-4b20-8d8d-aaae66bec6e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_residueSeries_neg
 -- name    : ReciprocityTheory.ChartRestriction.DS.residueSeries_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:57:15.009693+00:00
 -- url     : https://prove2.me/theorems/8fe5e8b6-296b-55c6-a5bb-724ff6bbe887

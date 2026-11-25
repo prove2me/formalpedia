@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExhC_continuous_torusCharacter
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExhC.continuous_torusCharacter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:56:49.555796+00:00
 -- url     : https://prove2.me/theorems/f037c1c4-718b-443d-b1ab-102a2f192818

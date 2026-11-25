@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LVs_II_core
 -- name    : PositivityTheory.Rg.Sw.LVs.II.core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:58:58.718292+00:00
 -- url     : https://prove2.me/theorems/8a776493-2c2a-48cf-be3b-e5d33261b00f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_IdA_hasDerivAt_cline
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.IdA.hasDerivAt_cline
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:44:46.823731+00:00
 -- url     : https://prove2.me/theorems/a0a99793-c2ae-4bf0-8a75-35e42a9a50b2

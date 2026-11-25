@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_regMax_one_eq_conv_sub
 -- name    : ReciprocityTheory.AnForm.A.regMax_one_eq_conv_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:19:49.993622+00:00
 -- url     : https://prove2.me/theorems/b566442a-1b5b-4f6d-acd3-e25888eb715f

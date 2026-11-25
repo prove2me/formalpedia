@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_hasDerivAt_shift
 -- name    : QnRdSkewW.hasDerivAt_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:05:04.273354+00:00
 -- url     : https://prove2.me/theorems/c06749b7-1516-59ce-88e4-67179a99a785

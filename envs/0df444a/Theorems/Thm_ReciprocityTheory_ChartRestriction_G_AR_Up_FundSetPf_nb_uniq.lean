@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_FundSetPf_nb_uniq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.FundSetPf.nb_uniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:59:20.831946+00:00
 -- url     : https://prove2.me/theorems/b92f2086-e587-5e8e-a77c-2635064b49ed

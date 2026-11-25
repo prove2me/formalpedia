@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_inv_apply_of_diagonal
 -- name    : GroundTheory.Automorphic.Parabolic.inv_apply_of_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:47:18.554441+00:00
 -- url     : https://prove2.me/theorems/eec54963-fd60-5633-b3ce-22d8c0261d0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_isWeaklyRegular_map_C_append_monic
 -- name    : ReciprocityTheory.CA.isWeaklyRegular_map_C_append_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:20.015769+00:00
 -- url     : https://prove2.me/theorems/ed5b60ea-a00f-45e7-a2f0-8e9f6c5a9912

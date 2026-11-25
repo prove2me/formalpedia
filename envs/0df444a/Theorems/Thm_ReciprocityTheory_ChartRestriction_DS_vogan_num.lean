@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_vogan_num
 -- name    : ReciprocityTheory.ChartRestriction.DS.vogan_num
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:13:21.250372+00:00
 -- url     : https://prove2.me/theorems/d0c331fb-ccae-4c14-81a5-cca6dcfa5995

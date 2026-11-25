@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_dc_lagProj_props
 -- name    : ReciprocityTheory.ChartRestriction.DS.dc_lagProj_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:36:55.335647+00:00
 -- url     : https://prove2.me/theorems/f9b18ff2-5aaa-4cbb-8e92-8beff6c1aa9b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_CW_eigenspaces_orthogonal_of_calculus
 -- name    : PositivityTheory.CW.eigenspaces_orthogonal_of_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:47:37.518928+00:00
 -- url     : https://prove2.me/theorems/5d356c8a-9301-5549-95af-8dbac9152c83

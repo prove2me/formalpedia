@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_hasDerivAt_schwartz_to_L2
 -- name    : PositivityTheory.ThKR.LL.hasDerivAt_schwartz_to_L2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:05:15.942837+00:00
 -- url     : https://prove2.me/theorems/044cd527-5914-44ff-b939-a934171c94cd

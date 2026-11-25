@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PairUnfoldPf_conj_chi
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PairUnfoldPf.conj_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:01:20.106638+00:00
 -- url     : https://prove2.me/theorems/dff0248d-b460-4199-acdf-3bdd5e892f31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_sqrt_sub_le_add
 -- name    : ReciprocityTheory.ChartRestriction.DS.sqrt_sub_le_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:54:37.869942+00:00
 -- url     : https://prove2.me/theorems/059c1a72-e27c-4942-970e-dc3962cba645

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_casimir_apply_eq_casimirK_add
 -- name    : ReciprocityTheory.ChartRestriction.DS.casimir_apply_eq_casimirK_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:49:33.824126+00:00
 -- url     : https://prove2.me/theorems/22075720-15e6-408a-8d23-4bc3ada8198b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLAux_locDens_cons_ofFun_eq_zero
 -- name    : ReciprocityTheory.AnForm.M.PLAux.locDens_cons_ofFun_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:19:19.114307+00:00
 -- url     : https://prove2.me/theorems/0d6dfb62-82f4-4295-9add-81351ed688d1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_bchar_contAt
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.bchar_contAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:02:19.438931+00:00
 -- url     : https://prove2.me/theorems/e2d4a3f0-93df-5ac7-9d14-02a2954a09b2

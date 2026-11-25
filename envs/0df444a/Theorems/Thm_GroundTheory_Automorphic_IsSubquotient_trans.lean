@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsSubquotient_trans
 -- name    : GroundTheory.Automorphic.IsSubquotient.trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:55:53.658969+00:00
 -- url     : https://prove2.me/theorems/9a9d834c-a548-45ec-aa80-80daaf7a8a3b

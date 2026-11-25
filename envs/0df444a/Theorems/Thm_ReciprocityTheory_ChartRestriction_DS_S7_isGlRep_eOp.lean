@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_isGlRep_eOp
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.isGlRep_eOp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:06:47.040371+00:00
 -- url     : https://prove2.me/theorems/b20dfab8-d062-400c-bc61-c2a4d40bfc7b

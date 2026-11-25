@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adens_measurableSet_pts
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adens_measurableSet_pts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:09:23.265156+00:00
 -- url     : https://prove2.me/theorems/70ed072c-fb68-5df4-a219-4d4ac150bf59

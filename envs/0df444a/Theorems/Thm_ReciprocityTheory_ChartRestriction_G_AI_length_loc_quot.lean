@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_length_loc_quot
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.length_loc_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:55:29.436792+00:00
 -- url     : https://prove2.me/theorems/ced15d03-e390-5914-9cfe-e04afef1ca96

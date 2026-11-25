@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefB_tensSub_kStable
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefB_tensSub_kStable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:42.690477+00:00
 -- url     : https://prove2.me/theorems/d82ccbac-c9a6-50e4-9b8f-aa43a3fb848d

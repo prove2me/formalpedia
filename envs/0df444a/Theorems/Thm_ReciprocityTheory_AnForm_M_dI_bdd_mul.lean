@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_dI_bdd_mul
 -- name    : ReciprocityTheory.AnForm.M.dI_bdd_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:19.046889+00:00
 -- url     : https://prove2.me/theorems/968a16ea-70fc-4dcc-911c-fc31b6eb519e

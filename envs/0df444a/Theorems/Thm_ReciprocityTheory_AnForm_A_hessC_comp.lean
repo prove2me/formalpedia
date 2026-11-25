@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hessC_comp
 -- name    : ReciprocityTheory.AnForm.A.hessC_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:29.64067+00:00
 -- url     : https://prove2.me/theorems/9d882c48-df19-426d-88b5-73a86c04322b

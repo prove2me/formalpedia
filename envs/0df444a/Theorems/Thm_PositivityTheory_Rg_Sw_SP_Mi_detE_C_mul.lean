@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_SP_Mi_detE_C_mul
 -- name    : PositivityTheory.Rg.Sw.SP.Mi.detE_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T08:59:10.7819+00:00
 -- url     : https://prove2.me/theorems/f8134f0b-1eed-557d-87ee-3d2a83b7db97

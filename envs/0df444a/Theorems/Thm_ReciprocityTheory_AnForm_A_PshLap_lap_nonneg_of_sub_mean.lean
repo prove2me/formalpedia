@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshLap_lap_nonneg_of_sub_mean
 -- name    : ReciprocityTheory.AnForm.A.PshLap.lap_nonneg_of_sub_mean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:04:53.089875+00:00
 -- url     : https://prove2.me/theorems/3c920b49-c097-4a31-8633-68fb11fe1d23

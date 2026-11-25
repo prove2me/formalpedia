@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_totalDegree_rsub
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.totalDegree_rsub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:41:32.565851+00:00
 -- url     : https://prove2.me/theorems/7947227e-4ea2-4276-9ea8-2cd3be16e17b

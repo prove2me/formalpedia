@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefOp_unitary_le_one
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefOp_unitary_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:50:32.024828+00:00
 -- url     : https://prove2.me/theorems/48677895-4848-5d32-97b2-c6c34003d901

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_sdTestInf_holds
 -- name    : PI.VolStabW.sdTestInf_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:46:54.806519+00:00
 -- url     : https://prove2.me/theorems/f78128c7-9657-4a8b-bb92-9d36ec5c1952

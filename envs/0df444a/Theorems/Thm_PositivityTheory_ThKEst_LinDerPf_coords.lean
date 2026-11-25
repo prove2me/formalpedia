@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_LinDerPf_coords
 -- name    : PositivityTheory.ThKEst.LinDerPf.coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:50:29.3371+00:00
 -- url     : https://prove2.me/theorems/b28c4ebf-e8b7-427d-bd5a-496382fe3cff

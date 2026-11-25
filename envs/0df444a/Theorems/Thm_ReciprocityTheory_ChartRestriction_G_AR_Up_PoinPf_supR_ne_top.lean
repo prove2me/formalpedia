@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_supR_ne_top
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.supR_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:07:15.611859+00:00
 -- url     : https://prove2.me/theorems/85f36333-908c-5467-a3d7-1de3993badca

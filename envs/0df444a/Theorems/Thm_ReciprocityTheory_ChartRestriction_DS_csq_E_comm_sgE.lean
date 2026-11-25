@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_csq_E_comm_sgE
 -- name    : ReciprocityTheory.ChartRestriction.DS.csq_E_comm_sgE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:49:08.277599+00:00
 -- url     : https://prove2.me/theorems/af306afb-f33a-499d-be49-d6a34786afb7

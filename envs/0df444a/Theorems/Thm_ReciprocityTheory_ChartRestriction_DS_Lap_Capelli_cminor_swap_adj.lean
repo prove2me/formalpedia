@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_cminor_swap_adj
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.cminor_swap_adj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:42:32.454811+00:00
 -- url     : https://prove2.me/theorems/0ef6ab0d-b55e-4566-b7ef-e3afe623394e

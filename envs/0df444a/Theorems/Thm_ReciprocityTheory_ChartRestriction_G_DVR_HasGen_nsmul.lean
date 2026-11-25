@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_HasGen_nsmul
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.HasGen.nsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:11:20.93532+00:00
 -- url     : https://prove2.me/theorems/bdfbcd39-1da3-44ca-bdb4-12df984fbcd6

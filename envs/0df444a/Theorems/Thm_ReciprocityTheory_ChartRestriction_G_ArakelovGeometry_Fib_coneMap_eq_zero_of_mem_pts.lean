@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_Fib_coneMap_eq_zero_of_mem_pts
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.Fib.coneMap_eq_zero_of_mem_pts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:00:30.978228+00:00
 -- url     : https://prove2.me/theorems/7d3ce450-7fd0-57d1-8a62-55619101cd4a

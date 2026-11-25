@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_lint_Bset_lt_top
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.lint_Bset_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:46:43.43794+00:00
 -- url     : https://prove2.me/theorems/c3b4e4bd-ee35-45e7-a500-09beb82dfda7

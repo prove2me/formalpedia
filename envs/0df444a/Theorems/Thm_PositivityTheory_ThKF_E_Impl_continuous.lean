@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF_E_Impl_continuous
 -- name    : PositivityTheory.ThKF.E.Impl.continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:17:23.235529+00:00
 -- url     : https://prove2.me/theorems/49364233-24b5-4642-9607-0711e5e1d685

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_AdIndexEq_ksub_isOpen
 -- name    : PI.UnitaryGroupMassFormula.AdIndexEq.ksub_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:39:48.834354+00:00
 -- url     : https://prove2.me/theorems/045d862d-cd17-42b1-b51f-598d96cb75e4

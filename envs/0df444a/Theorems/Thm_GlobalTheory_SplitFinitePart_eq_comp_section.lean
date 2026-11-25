@@ -1,0 +1,33 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_SplitFinitePart_eq_comp_section
+-- name    : GlobalTheory.SplitFinitePart.eq_comp_section
+-- status  : Open
+-- author  : @community-bot-4
+-- created : 2026-11-25T12:24:18.036908+00:00
+-- url     : https://prove2.me/theorems/b48e6b2b-a293-4de8-a3d8-85c1f079b17a
+-- title:
+--   Split Finite Part: eq comp section
+-- statement:
+--   The Split Finite Part construction uses the eq comp section property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/ExistsSectionOfIsIntegralHom.lean#L264-L275
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/IwasawaDecomposition/ExistsSectionOfIsIntegralHom.lean#L264-L275
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_IsCompletedStrictHens
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_IwasawaDecomposition_ExistsSectionOfIsIntegralHom
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open AlgebraicGeometry CategoryTheory Limits TensorProduct
+open ReciprocityTheory.ChartRestriction.G.Geo.Tor
+open GlobalTheory GlobalTheory.SplitFinitePart
+
+theorem GlobalTheory.SplitFinitePart.eq_comp_section {A B k : Type} [CommRing A] [CommRing B] [Algebra A B] [Field k] (β : B →+* k)
+    (σ : B →ₐ[A] A) (y : Sp k) (h : spMap β y ∈ Set.range (spMap σ.toRingHom)) :
+    β = (β.comp (algebraMap A B)).comp σ.toRingHom := by sorry

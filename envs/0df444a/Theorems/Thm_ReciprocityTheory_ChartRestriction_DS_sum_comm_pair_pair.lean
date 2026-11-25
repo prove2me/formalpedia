@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_sum_comm_pair_pair
 -- name    : ReciprocityTheory.ChartRestriction.DS.sum_comm_pair_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:55:15.510673+00:00
 -- url     : https://prove2.me/theorems/6fe776d0-8a88-5f01-951f-f088f6cba114

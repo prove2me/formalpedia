@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_dsJ_basicOpen
 -- name    : ReciprocityTheory.AnForm.R.dsJ_basicOpen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:09:02.003858+00:00
 -- url     : https://prove2.me/theorems/4623267b-08ef-46e0-ad0c-bff6c2d8448b

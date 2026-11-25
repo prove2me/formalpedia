@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEst_UMGS_contDiff_pr
 -- name    : PositivityTheory.ThKEst.UMGS.contDiff_pr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:08.767843+00:00
 -- url     : https://prove2.me/theorems/2da79508-cb90-4e61-8047-d5f9b6809612

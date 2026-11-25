@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_PshMean_subMeanValuePolydisc_holds
 -- name    : ReciprocityTheory.AnForm.A.PshMean.subMeanValuePolydisc_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:40:12.375661+00:00
 -- url     : https://prove2.me/theorems/22bff0fd-9cb5-4c91-a6b1-848bf66d8d98

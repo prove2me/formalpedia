@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_USum_toPrimitive_ofPrimitive
 -- name    : ReciprocityTheory.ChartRestriction.DS.USum.toPrimitive_ofPrimitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:45:55.683723+00:00
 -- url     : https://prove2.me/theorems/0fbdff1c-66df-447c-961a-287c7f992b36

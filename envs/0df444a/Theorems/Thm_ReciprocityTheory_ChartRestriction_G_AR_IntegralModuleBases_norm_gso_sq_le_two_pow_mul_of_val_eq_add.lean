@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_IntegralModuleBases_norm_gso_sq_le_two_pow_mul_of_val_eq_add
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.IntegralModuleBases.norm_gso_sq_le_two_pow_mul_of_val_eq_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:56:19.275888+00:00
 -- url     : https://prove2.me/theorems/4786f5ab-2ad0-5cba-9522-d276e3a1aa28

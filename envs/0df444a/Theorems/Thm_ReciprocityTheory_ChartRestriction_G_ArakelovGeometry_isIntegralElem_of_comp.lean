@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isIntegralElem_of_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isIntegralElem_of_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:14:05.906238+00:00
 -- url     : https://prove2.me/theorems/7bef86f2-853f-5dec-8063-518792064280

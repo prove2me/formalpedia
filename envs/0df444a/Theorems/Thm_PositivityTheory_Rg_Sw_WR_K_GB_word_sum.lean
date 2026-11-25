@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_word_sum
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.word_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:02:11.29509+00:00
 -- url     : https://prove2.me/theorems/01c67517-2f89-43af-8bf2-020df1fb7275

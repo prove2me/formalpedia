@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_height_one_iff_dim_one
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.height_one_iff_dim_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:55:12.804312+00:00
 -- url     : https://prove2.me/theorems/9f858684-7e4f-5e97-9997-eaf5353c3930

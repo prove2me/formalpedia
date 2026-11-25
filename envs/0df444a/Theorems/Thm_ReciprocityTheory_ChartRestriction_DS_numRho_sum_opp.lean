@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_numRho_sum_opp
 -- name    : ReciprocityTheory.ChartRestriction.DS.numRho_sum_opp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:41.974845+00:00
 -- url     : https://prove2.me/theorems/4d5f266f-c5d3-5b5c-9b67-afc2e1fac6c8

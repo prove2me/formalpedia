@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_highest_weight_fn_mem_space
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.highest_weight_fn_mem_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:14.489725+00:00
 -- url     : https://prove2.me/theorems/cd72409f-f071-51d1-a204-a832c1506b67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_fock_injective
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.fock_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:55:36.224862+00:00
 -- url     : https://prove2.me/theorems/a5a78ff2-0094-44ce-b47b-bfb79d2e32f2

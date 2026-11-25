@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_G_dEv_apply
 -- name    : PositivityTheory.Rg.Sw.WR.G.dEv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:04:46.058905+00:00
 -- url     : https://prove2.me/theorems/c67fff61-3551-517f-90ce-3ffc8450f67b

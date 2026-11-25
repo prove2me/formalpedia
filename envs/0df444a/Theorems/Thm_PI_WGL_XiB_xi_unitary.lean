@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGL_XiB_xi_unitary
 -- name    : PI.WGL.XiB.xi_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:46:18.366467+00:00
 -- url     : https://prove2.me/theorems/edb0a553-337b-414d-9599-03adac5d91b2

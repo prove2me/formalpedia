@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKOwn_SchI_eval_int
 -- name    : PositivityTheory.ThKOwn.SchI.eval_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:04:47.665803+00:00
 -- url     : https://prove2.me/theorems/a2b63188-894d-5d61-83b0-d0bcaf85c4d8

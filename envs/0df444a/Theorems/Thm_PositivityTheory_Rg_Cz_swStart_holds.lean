@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_swStart_holds
 -- name    : PositivityTheory.Rg.Cz.swStart_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:48:49.801973+00:00
 -- url     : https://prove2.me/theorems/701acc21-4ba5-4538-8cd6-2327798786ac

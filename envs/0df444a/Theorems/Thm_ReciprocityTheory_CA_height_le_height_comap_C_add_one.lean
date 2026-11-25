@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_le_height_comap_C_add_one
 -- name    : ReciprocityTheory.CA.height_le_height_comap_C_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:38:37.095987+00:00
 -- url     : https://prove2.me/theorems/d7411a6e-1fa7-40cb-9daa-aa83ed8d9889

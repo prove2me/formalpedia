@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_sum_SgIxV
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.sum_SgIxV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:50:27.845421+00:00
 -- url     : https://prove2.me/theorems/bdfc9452-7b9a-554a-935a-0f0c2f8272a8

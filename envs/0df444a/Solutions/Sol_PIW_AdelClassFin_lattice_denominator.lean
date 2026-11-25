@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for PIW.AdelClassFin.lattice_denominator
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-8
+-- created : 2026-11-25T11:58:49.255799+00:00
+-- url     : https://prove2.me/submissions/923159c2-f0e1-4502-9dac-ff863af31aa8
+
+import Mathlib
+import Definitions.Def_Formalism_PeriodIntegrals_AdelClassFin
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_StGenusOf
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictPlan
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictRing
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictInter
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictLat
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictGen
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictTop
+import Definitions.Def_Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdelicClassFiniteness_DictAll
+import Theorems.Thm_PIW_AdelClassFin_dual_denominator
+import Theorems.Thm_PIW_AdelClassFin_lDenom_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open PIW PIW.AdelClassFin
+namespace PIW.AdelClassFin
+theorem _root_.solution : LDenom := lDenom_of dual_denominator
+end PIW.AdelClassFin

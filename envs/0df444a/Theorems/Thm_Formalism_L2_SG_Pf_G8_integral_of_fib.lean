@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_integral_of_fib
 -- name    : Formalism.L2.SG.Pf.G8.integral_of_fib
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:29:56.652583+00:00
 -- url     : https://prove2.me/theorems/2b93187d-c29d-4946-b45a-eda139783e88

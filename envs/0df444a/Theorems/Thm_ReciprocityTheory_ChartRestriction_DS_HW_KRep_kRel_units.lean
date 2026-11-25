@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_KRep_kRel_units
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.KRep.kRel_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:45:12.746895+00:00
 -- url     : https://prove2.me/theorems/6546a82c-16ae-4852-8668-5a117ee48401

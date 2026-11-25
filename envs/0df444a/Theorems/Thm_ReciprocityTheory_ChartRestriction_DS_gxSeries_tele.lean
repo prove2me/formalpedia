@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_gxSeries_tele
 -- name    : ReciprocityTheory.ChartRestriction.DS.gxSeries_tele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:51:08.767681+00:00
 -- url     : https://prove2.me/theorems/c4b039dc-f961-470c-a41a-cc41461580a9

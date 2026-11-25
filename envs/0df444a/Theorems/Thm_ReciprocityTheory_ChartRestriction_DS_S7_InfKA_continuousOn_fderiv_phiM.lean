@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InfKA_continuousOn_fderiv_phiM
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InfKA.continuousOn_fderiv_phiM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:44:42.823745+00:00
 -- url     : https://prove2.me/theorems/6e1fe558-3c2b-4f8c-8f7f-48858281ea81

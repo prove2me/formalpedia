@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_ratioVd_add_single_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.ratioVd_add_single_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:54:32.164798+00:00
 -- url     : https://prove2.me/theorems/dab4bd95-44f8-5398-b56e-5f7d39db5fd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WeylForKWork_plusBlock_mem_unitaryCentralizer
 -- name    : PI.WeylForKWork.plusBlock_mem_unitaryCentralizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T08:44:41.788196+00:00
 -- url     : https://prove2.me/theorems/3bcbb263-b1d9-4286-a212-a9322b9131a4

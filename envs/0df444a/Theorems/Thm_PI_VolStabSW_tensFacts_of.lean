@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_tensFacts_of
 -- name    : PI.VolStabSW.tensFacts_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:34:16.987694+00:00
 -- url     : https://prove2.me/theorems/73768eb7-9fb5-476b-85b6-cef32ea03dac

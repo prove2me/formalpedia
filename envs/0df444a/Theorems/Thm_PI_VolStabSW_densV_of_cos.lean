@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabSW_densV_of_cos
 -- name    : PI.VolStabSW.densV_of_cos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:43:39.347657+00:00
 -- url     : https://prove2.me/theorems/451d4e35-0728-4385-85fa-50f6a7d6a89b

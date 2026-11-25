@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_pushA_finsum_inter
 -- name    : ReciprocityTheory.AnForm.M.pushA_finsum_inter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:51:41.557797+00:00
 -- url     : https://prove2.me/theorems/a10246b7-9102-474f-9c0f-fdad04f79a55

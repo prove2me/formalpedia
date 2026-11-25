@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_herm_last_lift_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.herm_last_lift_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:49:33.328103+00:00
 -- url     : https://prove2.me/theorems/824c7cda-93a4-4afe-bea2-99037ae2e7c3

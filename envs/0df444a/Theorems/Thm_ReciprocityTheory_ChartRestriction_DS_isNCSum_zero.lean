@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_isNCSum_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.isNCSum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:50:53.631697+00:00
 -- url     : https://prove2.me/theorems/083376a1-e50a-47cf-b550-89404c949995

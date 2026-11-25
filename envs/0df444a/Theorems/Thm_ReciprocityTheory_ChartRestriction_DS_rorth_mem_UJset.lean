@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_rorth_mem_UJset
 -- name    : ReciprocityTheory.ChartRestriction.DS.rorth_mem_UJset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:56:46.417894+00:00
 -- url     : https://prove2.me/theorems/5ea4b721-2b25-5113-94d5-1cf8aae07d8a

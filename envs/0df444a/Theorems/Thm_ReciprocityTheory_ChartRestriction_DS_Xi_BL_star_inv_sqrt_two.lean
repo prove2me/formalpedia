@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_star_inv_sqrt_two
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.star_inv_sqrt_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:51:38.270421+00:00
 -- url     : https://prove2.me/theorems/5867ee79-7821-5cd9-a033-5a1b2aefcc27

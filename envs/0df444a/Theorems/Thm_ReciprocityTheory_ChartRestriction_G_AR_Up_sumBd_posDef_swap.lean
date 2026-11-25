@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_posDef_swap
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_posDef_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:06:05.02046+00:00
 -- url     : https://prove2.me/theorems/44a35ad8-412f-57aa-979c-b4e65d06bb07

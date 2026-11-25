@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_USum_sop_comp
 -- name    : ReciprocityTheory.ChartRestriction.DS.USum.sop_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:45:35.936259+00:00
 -- url     : https://prove2.me/theorems/a515a745-1276-43cb-81b2-02a8c074a66a

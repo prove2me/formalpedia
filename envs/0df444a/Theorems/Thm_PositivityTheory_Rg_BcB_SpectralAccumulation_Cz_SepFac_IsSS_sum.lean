@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_SpectralAccumulation_Cz_SepFac_IsSS_sum
 -- name    : PositivityTheory.Rg.BcB.SpectralAccumulation.Cz.SepFac.IsSS.sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:47:58.93309+00:00
 -- url     : https://prove2.me/theorems/fde2d2c6-197a-4126-859e-99811f83dd60

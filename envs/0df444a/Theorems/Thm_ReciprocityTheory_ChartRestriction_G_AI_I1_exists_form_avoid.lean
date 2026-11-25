@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_exists_form_avoid
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.exists_form_avoid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:54:26.897648+00:00
 -- url     : https://prove2.me/theorems/549f5d84-09ac-5be7-b4d9-a18ec8686b79

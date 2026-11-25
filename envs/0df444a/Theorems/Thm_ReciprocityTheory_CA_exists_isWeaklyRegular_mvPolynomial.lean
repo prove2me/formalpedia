@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_exists_isWeaklyRegular_mvPolynomial
 -- name    : ReciprocityTheory.CA.exists_isWeaklyRegular_mvPolynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:38:14.832967+00:00
 -- url     : https://prove2.me/theorems/3c9dff1c-a2c9-5180-9be9-6c3a34e28aa4

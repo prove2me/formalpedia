@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_tgood_aeval_monomial
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.tgood_aeval_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:44:40.424196+00:00
 -- url     : https://prove2.me/theorems/0802581d-fa29-53b0-bf42-edd623c6ab3b

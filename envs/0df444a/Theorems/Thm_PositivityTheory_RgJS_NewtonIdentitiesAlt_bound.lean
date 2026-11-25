@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgJS_NewtonIdentitiesAlt_bound
 -- name    : PositivityTheory.RgJS.NewtonIdentitiesAlt.bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:02:51.16113+00:00
 -- url     : https://prove2.me/theorems/866a77c4-0b06-5c76-934a-02cc6e215ddc

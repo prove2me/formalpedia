@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_eval_eq_zero_of_smul
 -- name    : ReciprocityTheory.AnForm.R.eval_eq_zero_of_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:36:07.555326+00:00
 -- url     : https://prove2.me/theorems/2d706139-3679-42aa-8a35-455c872cc04f

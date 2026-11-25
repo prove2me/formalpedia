@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_fnField_le_of_eq_ratMul
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.fnField_le_of_eq_ratMul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:08:51.554121+00:00
 -- url     : https://prove2.me/theorems/86de61ed-7afb-4c4f-a566-be5ef56dfb59

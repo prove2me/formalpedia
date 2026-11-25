@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_ScPiBuildW_Loc_LocFrame_gw_decomp
 -- name    : PI.ScPiBuildW.Loc.LocFrame.gw_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:55:51.184079+00:00
 -- url     : https://prove2.me/theorems/e6931503-3cb4-4e99-b975-1f4e19a5aabb

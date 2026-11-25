@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_wd_term
 -- name    : ReciprocityTheory.ChartRestriction.DS.wd_term
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:55:08.676692+00:00
 -- url     : https://prove2.me/theorems/3f5b22e9-b4b9-505f-b23a-204fbf3777b7

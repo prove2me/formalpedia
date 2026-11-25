@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapAd_prod_ofFn_sum
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapAd.prod_ofFn_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:46:46.756396+00:00
 -- url     : https://prove2.me/theorems/17c9c2dd-6e38-5879-8bfa-3992274890d3

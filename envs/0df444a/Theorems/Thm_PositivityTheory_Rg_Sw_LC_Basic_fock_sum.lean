@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_fock_sum
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.fock_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:56:11.121005+00:00
 -- url     : https://prove2.me/theorems/3f98238f-2a5e-51be-baab-40224790d266

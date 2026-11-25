@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_FM_Jp_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.FM.Jp_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:05:47.612221+00:00
 -- url     : https://prove2.me/theorems/9fac59e1-8cb8-5375-9514-f658b513fc3c

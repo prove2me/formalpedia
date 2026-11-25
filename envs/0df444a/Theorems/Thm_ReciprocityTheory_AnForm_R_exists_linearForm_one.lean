@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_exists_linearForm_one
 -- name    : ReciprocityTheory.AnForm.R.exists_linearForm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:37:27.722658+00:00
 -- url     : https://prove2.me/theorems/e3f954ed-c93c-4c08-bff5-424670a10d3e

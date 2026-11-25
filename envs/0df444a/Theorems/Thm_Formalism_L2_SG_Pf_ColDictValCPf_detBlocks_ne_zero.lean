@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_detBlocks_ne_zero
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.detBlocks_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:39:02.046966+00:00
 -- url     : https://prove2.me/theorems/6577ee7d-262b-4145-8e30-4b9e70ab0b51

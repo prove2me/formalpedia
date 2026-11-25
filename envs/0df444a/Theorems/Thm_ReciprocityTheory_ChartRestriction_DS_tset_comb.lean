@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_tset_comb
 -- name    : ReciprocityTheory.ChartRestriction.DS.tset_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:56:39.787165+00:00
 -- url     : https://prove2.me/theorems/7bf770fc-9668-5adb-a410-9b4fc5ea1370

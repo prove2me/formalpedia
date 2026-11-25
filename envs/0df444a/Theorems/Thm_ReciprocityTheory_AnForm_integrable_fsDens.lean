@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_integrable_fsDens
 -- name    : ReciprocityTheory.AnForm.integrable_fsDens
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:09.688686+00:00
 -- url     : https://prove2.me/theorems/6db1a92f-40ff-4183-b304-195eef31f70f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKF0_Chr_Ax_box_E
 -- name    : PositivityTheory.ThKF0.Chr.Ax.box_E
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:53:02.912792+00:00
 -- url     : https://prove2.me/theorems/02f9fd45-ec6e-48f6-81a6-7fa6c45110ef

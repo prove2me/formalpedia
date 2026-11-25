@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GelfandGB_hasFDerivAt_param
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GelfandGB.hasFDerivAt_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:43:57.153847+00:00
 -- url     : https://prove2.me/theorems/042d745e-59d6-5d9b-9fb1-4ac1ceeda80e

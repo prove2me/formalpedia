@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_listProd_perm_sub_mem
 -- name    : ReciprocityTheory.ChartRestriction.DS.listProd_perm_sub_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:54:56.612525+00:00
 -- url     : https://prove2.me/theorems/b89bac7b-1c20-5937-9258-17481eb0f39a

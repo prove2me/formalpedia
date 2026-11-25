@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_re_mul_add_im_mul_I
 -- name    : ReciprocityTheory.ChartRestriction.DS.re_mul_add_im_mul_I
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:53:30.950703+00:00
 -- url     : https://prove2.me/theorems/cff457d7-b6ba-58fb-91c3-aded6dd126a8

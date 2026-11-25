@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_BL_herm_smul_r
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.BL.herm_smul_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:00:24.637883+00:00
 -- url     : https://prove2.me/theorems/4e61c4fd-6769-5f34-964a-e422f08179c1

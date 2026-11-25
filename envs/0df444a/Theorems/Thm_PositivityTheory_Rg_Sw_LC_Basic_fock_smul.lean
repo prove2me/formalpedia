@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_Basic_fock_smul
 -- name    : PositivityTheory.Rg.Sw.LC.Basic.fock_smul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:41:03.017614+00:00
 -- url     : https://prove2.me/theorems/23ffb1ff-e9e3-4cbb-b119-fe445e03b4b5

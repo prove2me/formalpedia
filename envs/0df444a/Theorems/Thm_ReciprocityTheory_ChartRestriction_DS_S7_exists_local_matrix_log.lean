@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_exists_local_matrix_log
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.exists_local_matrix_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:45:02.328428+00:00
 -- url     : https://prove2.me/theorems/0f4134d7-2373-4e81-bc67-a141862f2f9a

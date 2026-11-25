@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_SiegelWeilFormula_Act_UnfoldingIntegralSum_unf_sum
 -- name    : PositivityTheory.SiegelWeilFormula.Act.UnfoldingIntegralSum.unf_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:33.001241+00:00
 -- url     : https://prove2.me/theorems/8f21639b-394a-5d3c-bb18-97f00b47a0c8

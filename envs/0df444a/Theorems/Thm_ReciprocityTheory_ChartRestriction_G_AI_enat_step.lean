@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_enat_step
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.enat_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:50.421351+00:00
 -- url     : https://prove2.me/theorems/8df9aefe-d46e-44ac-898c-de8f3f61454b

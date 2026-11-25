@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_mollifierInhabit_thm
 -- name    : ReciprocityTheory.AnForm.A.mollifierInhabit_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:58.908969+00:00
 -- url     : https://prove2.me/theorems/d95f50c2-d40f-4d18-a4e1-f35a42eb066f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_exp_blkDiag
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.exp_blkDiag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:40:06.641587+00:00
 -- url     : https://prove2.me/theorems/ecd53631-4ea8-43ca-b196-c683f48b7ee8

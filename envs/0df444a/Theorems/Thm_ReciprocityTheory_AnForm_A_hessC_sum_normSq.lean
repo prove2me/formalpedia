@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_hessC_sum_normSq
 -- name    : ReciprocityTheory.AnForm.A.hessC_sum_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:57:15.868312+00:00
 -- url     : https://prove2.me/theorems/86a1b495-56d0-43ba-b5c8-40b5dde0edbf

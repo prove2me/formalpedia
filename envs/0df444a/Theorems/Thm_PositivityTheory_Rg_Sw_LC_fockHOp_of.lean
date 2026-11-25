@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_fockHOp_of
 -- name    : PositivityTheory.Rg.Sw.LC.fockHOp_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:57:23.668804+00:00
 -- url     : https://prove2.me/theorems/fee7bf92-984b-452e-ba3f-2041cc0df599

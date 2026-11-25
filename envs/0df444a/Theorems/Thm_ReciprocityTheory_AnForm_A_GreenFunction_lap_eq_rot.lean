@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_lap_eq_rot
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.lap_eq_rot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:50:50.579664+00:00
 -- url     : https://prove2.me/theorems/6f9e6984-dbcc-4138-98ec-abf0284d8b04

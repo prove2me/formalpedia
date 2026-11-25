@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_dP_pos
 -- name    : PositivityTheory.Rg.Sw.WR.Z.dP_pos
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:47.090019+00:00
 -- url     : https://prove2.me/theorems/b4292b7c-c789-425c-8e4f-51cde7903e58

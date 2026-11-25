@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_aeval_support
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.aeval_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:32:59.389988+00:00
 -- url     : https://prove2.me/theorems/b7020037-5532-4d39-8e6a-440deb639e2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_chi_le_one
 -- name    : ReciprocityTheory.AnForm.M.chi_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:19:43.490545+00:00
 -- url     : https://prove2.me/theorems/f47b5cd7-db21-455a-a04c-f6264d9ebaca

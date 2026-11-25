@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Ib_integrable_mul_chr
 -- name    : PositivityTheory.Rg.Sw.WR.Ib.integrable_mul_chr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:27:15.651058+00:00
 -- url     : https://prove2.me/theorems/ec61abf3-fbcc-4068-ae96-dd6bbf3b23ce

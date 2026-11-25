@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_IsSheetParamB_isSheet
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.IsSheetParamB.isSheet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:02:06.600802+00:00
 -- url     : https://prove2.me/theorems/b81d5fad-a8d8-418c-98f1-f9a3f4a6905b

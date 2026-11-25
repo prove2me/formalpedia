@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_gs_pderiv_facts
 -- name    : ReciprocityTheory.AnForm.R.gs_pderiv_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:37:16.440507+00:00
 -- url     : https://prove2.me/theorems/607e2983-cd54-5fde-be77-bf2b25871335

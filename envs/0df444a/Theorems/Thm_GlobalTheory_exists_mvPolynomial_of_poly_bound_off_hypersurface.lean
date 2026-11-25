@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_mvPolynomial_of_poly_bound_off_hypersurface
 -- name    : GlobalTheory.exists_mvPolynomial_of_poly_bound_off_hypersurface
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:58:15.474078+00:00
 -- url     : https://prove2.me/theorems/b403a7a6-4650-4eab-937e-c3f47288b7f2

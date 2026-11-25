@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_rpFib_holds
 -- name    : PI.VolStabW.rpFib_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:43:40.975532+00:00
 -- url     : https://prove2.me/theorems/378e3949-acce-4e78-b89c-1a5978311bc9

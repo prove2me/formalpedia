@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JEPAGeneralization_empirical_jepa_risk_unbiased
 -- name    : JEPAGeneralization.empirical_jepa_risk_unbiased
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T04:43:38.867876+00:00
 -- url     : https://prove2.me/theorems/d8d19925-f8cd-4604-89fe-1ec0df4b8e0c

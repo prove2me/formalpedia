@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_RgUd_TP_Nil_Asm_bez2
 -- name    : PositivityTheory.RgUd.TP.Nil.Asm.bez2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:03:32.189717+00:00
 -- url     : https://prove2.me/theorems/e08d79b1-5cfb-5c73-83f4-0cbdd829ab57

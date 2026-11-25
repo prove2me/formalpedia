@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_JacobianCriterionAlt_Phi_surjective
 -- name    : ReciprocityTheory.AnForm.R.JacobianCriterionAlt.Phi_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:32:46.471152+00:00
 -- url     : https://prove2.me/theorems/7d72a4ba-04b3-56e4-8d52-e85b3f9492c5

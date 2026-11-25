@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_modDepthGE_congr
 -- name    : ReciprocityTheory.CA.modDepthGE_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:46.884993+00:00
 -- url     : https://prove2.me/theorems/0bb1050e-5cb5-4120-ab23-390d21640fd1

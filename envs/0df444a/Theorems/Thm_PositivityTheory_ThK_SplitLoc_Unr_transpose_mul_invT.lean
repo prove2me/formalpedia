@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_transpose_mul_invT
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.transpose_mul_invT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:04:46.635635+00:00
 -- url     : https://prove2.me/theorems/7766f9ae-41d3-516a-a006-9d9f20c36130

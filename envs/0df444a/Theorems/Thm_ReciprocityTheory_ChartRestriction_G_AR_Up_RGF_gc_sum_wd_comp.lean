@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_RGF_gc_sum_wd_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.RGF.gc_sum_wd_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:00:49.94719+00:00
 -- url     : https://prove2.me/theorems/a27736fc-7d39-48d9-af33-4b46516666ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_sum_finset_fin_succ
 -- name    : ReciprocityTheory.AnForm.A.sum_finset_fin_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:19:18.743734+00:00
 -- url     : https://prove2.me/theorems/e7017938-0d40-4c39-8dc9-be9cd84cd7bd

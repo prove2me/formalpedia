@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DegenerateSiegelWeil_Scale_fib_map_mulTup
 -- name    : PI.DegenerateSiegelWeil.Scale.fib_map_mulTup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:59:52.777419+00:00
 -- url     : https://prove2.me/theorems/35fab22f-7113-5da6-8177-bb403682ec7c

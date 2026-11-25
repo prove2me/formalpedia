@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_normSq_Mq
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.normSq_Mq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:03:49.115901+00:00
 -- url     : https://prove2.me/theorems/e5fb782d-75c1-527d-9762-b175ee4528b7

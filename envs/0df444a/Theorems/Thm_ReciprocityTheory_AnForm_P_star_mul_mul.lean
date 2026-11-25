@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_P_star_mul_mul
 -- name    : ReciprocityTheory.AnForm.P.star_mul_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:52.126105+00:00
 -- url     : https://prove2.me/theorems/26fc8db4-dbc4-47a0-a1b3-e7261a53d0a7

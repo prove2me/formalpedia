@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_map_mk_mem_minimalPrimes
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.map_mk_mem_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:54:52.897806+00:00
 -- url     : https://prove2.me/theorems/f5e0e5e1-130e-50bd-9c92-90c7313e6ebc

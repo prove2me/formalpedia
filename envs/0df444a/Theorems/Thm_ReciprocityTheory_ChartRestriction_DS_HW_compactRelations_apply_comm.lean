@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_compactRelations_apply_comm
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.compactRelations_apply_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:39:25.08793+00:00
 -- url     : https://prove2.me/theorems/5ea15970-277a-5ace-a780-8c48e38f35ab

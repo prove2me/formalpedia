@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_cminor_perm_cols
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.cminor_perm_cols
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:41:39.840041+00:00
 -- url     : https://prove2.me/theorems/202394b5-6590-4e29-a03f-d8810ff28574

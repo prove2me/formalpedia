@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_whB_c_val_self
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.whB_c_val_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:44:36.505282+00:00
 -- url     : https://prove2.me/theorems/de86ee12-5f4c-5abc-8a8b-502e17dad523

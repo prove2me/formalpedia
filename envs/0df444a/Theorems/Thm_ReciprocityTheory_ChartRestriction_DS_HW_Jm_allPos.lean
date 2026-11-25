@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_Jm_allPos
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.Jm_allPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:42.263559+00:00
 -- url     : https://prove2.me/theorems/c3b89cf9-debf-5405-a54c-44060039549e

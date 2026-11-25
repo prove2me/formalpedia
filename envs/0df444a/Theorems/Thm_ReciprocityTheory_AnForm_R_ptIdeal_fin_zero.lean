@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_ptIdeal_fin_zero
 -- name    : ReciprocityTheory.AnForm.R.ptIdeal_fin_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:38:06.153028+00:00
 -- url     : https://prove2.me/theorems/75e95018-ad15-5565-b823-40058f1a65d0

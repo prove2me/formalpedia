@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_eq_zero_of_sum_tmul
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.eq_zero_of_sum_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:06:43.411937+00:00
 -- url     : https://prove2.me/theorems/98f669da-0d06-5000-8c31-db657fa40467

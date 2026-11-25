@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_LinAct_exists_avg
 -- name    : PositivityTheory.ThK.LinAct.exists_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:05:14.16174+00:00
 -- url     : https://prove2.me/theorems/bb57fbb7-7da5-4167-8ba2-d49ad6c96cd8

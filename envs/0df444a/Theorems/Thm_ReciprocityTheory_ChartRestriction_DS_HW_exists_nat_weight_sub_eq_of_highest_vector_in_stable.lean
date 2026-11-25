@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_exists_nat_weight_sub_eq_of_highest_vector_in_stable
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.exists_nat_weight_sub_eq_of_highest_vector_in_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:58:30.890536+00:00
 -- url     : https://prove2.me/theorems/80fcb6d4-3eb3-4fcb-9ca4-75e6a2aa0833

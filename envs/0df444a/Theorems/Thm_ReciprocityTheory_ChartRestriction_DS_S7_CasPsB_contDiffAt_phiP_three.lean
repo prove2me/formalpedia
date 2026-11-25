@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CasPsB_contDiffAt_phiP_three
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CasPsB.contDiffAt_phiP_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:47:47.784597+00:00
 -- url     : https://prove2.me/theorems/dde2258a-813b-5cf6-bdac-ff7295c6d702

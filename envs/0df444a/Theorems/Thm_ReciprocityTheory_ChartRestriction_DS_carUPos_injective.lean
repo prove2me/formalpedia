@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_carUPos_injective
 -- name    : ReciprocityTheory.ChartRestriction.DS.carUPos_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:49:43.345897+00:00
 -- url     : https://prove2.me/theorems/a8545e83-4d36-4116-890f-6a2ee4eaf38e

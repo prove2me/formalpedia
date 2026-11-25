@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_continuous_blkEmbed
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.continuous_blkEmbed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:39:24.963892+00:00
 -- url     : https://prove2.me/theorems/7ed9def4-008d-52c7-aa56-27e1952b601f

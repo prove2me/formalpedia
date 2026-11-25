@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_mem_ker_lsmul_mk
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.mem_ker_lsmul_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:55:36.014078+00:00
 -- url     : https://prove2.me/theorems/cc84efa0-7494-4384-978c-b28f309c9c74

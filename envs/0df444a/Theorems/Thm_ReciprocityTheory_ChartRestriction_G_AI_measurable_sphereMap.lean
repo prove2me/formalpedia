@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_measurable_sphereMap
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.measurable_sphereMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:55:25.612737+00:00
 -- url     : https://prove2.me/theorems/3b4079ea-4015-4559-8abc-5371b3323447

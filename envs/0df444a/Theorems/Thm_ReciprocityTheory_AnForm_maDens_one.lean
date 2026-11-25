@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_maDens_one
 -- name    : ReciprocityTheory.AnForm.maDens_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:38:06.643514+00:00
 -- url     : https://prove2.me/theorems/29fc5949-240a-5351-85d2-653f25f1fabb

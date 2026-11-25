@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_det_lowerUni
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.det_lowerUni
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:58:03.784166+00:00
 -- url     : https://prove2.me/theorems/3a6cea0a-d233-4758-aa08-dad8da8a3a3e

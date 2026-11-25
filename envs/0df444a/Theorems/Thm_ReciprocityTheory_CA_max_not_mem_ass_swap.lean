@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_max_not_mem_ass_swap
 -- name    : ReciprocityTheory.CA.max_not_mem_ass_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:35.955908+00:00
 -- url     : https://prove2.me/theorems/d0e2d762-3697-41cd-9573-0add82f523a5

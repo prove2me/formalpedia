@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_ColDictValCPf_fnOfV_injective
 -- name    : Formalism.L2.SG.Pf.ColDictValCPf.fnOfV_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:38:50.86137+00:00
 -- url     : https://prove2.me/theorems/8bd1f44f-1467-4ee8-949a-ab828db80b40

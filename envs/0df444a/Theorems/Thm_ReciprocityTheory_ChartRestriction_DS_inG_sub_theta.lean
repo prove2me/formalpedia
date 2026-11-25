@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_inG_sub_theta
 -- name    : ReciprocityTheory.ChartRestriction.DS.inG_sub_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:51:15.417036+00:00
 -- url     : https://prove2.me/theorems/8faa0044-c94e-4698-b995-8d06f43bfb34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_GreenFunction_decomp
 -- name    : ReciprocityTheory.AnForm.A.GreenFunction.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:50:50.957286+00:00
 -- url     : https://prove2.me/theorems/391d19c0-0c45-4fd2-9526-1c628d885bb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_rescale_neg_one_const
 -- name    : ReciprocityTheory.ChartRestriction.DS.rescale_neg_one_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:55:32.896586+00:00
 -- url     : https://prove2.me/theorems/bf8d97f6-7007-54d9-8087-acad06b2357f

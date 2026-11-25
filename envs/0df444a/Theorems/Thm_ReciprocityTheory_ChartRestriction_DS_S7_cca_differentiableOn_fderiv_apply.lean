@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_cca_differentiableOn_fderiv_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.cca_differentiableOn_fderiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:19.361996+00:00
 -- url     : https://prove2.me/theorems/9329f8e4-07df-5874-8e40-3bb380d9b677

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_ArchimedeanConeVolume_lintegral_Ioi_ofReal_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.ArchimedeanConeVolume.lintegral_Ioi_ofReal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:54:47.204826+00:00
 -- url     : https://prove2.me/theorems/0243ef6e-d4f1-491f-b9ab-c0ba6e3f0cbd

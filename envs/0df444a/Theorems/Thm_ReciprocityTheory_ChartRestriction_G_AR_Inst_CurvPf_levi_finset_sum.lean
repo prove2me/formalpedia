@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_levi_finset_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.levi_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:56:37.514222+00:00
 -- url     : https://prove2.me/theorems/502cfc37-3df9-5d00-939b-20fa3535f1b6

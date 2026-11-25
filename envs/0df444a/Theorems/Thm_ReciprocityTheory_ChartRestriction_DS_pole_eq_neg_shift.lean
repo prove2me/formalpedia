@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_pole_eq_neg_shift
 -- name    : ReciprocityTheory.ChartRestriction.DS.pole_eq_neg_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:11.687405+00:00
 -- url     : https://prove2.me/theorems/6bf0a355-39e0-5606-9dcc-be1ebf8750d3

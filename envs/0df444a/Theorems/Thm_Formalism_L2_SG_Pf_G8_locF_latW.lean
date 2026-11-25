@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_G8_locF_latW
 -- name    : Formalism.L2.SG.Pf.G8.locF_latW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:09:47.821892+00:00
 -- url     : https://prove2.me/theorems/7dacf651-4100-415b-8aa8-38dd28b2e41a

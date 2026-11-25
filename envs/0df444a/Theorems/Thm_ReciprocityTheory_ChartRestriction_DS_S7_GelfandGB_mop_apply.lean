@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GelfandGB_mop_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GelfandGB.mop_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:44:01.262172+00:00
 -- url     : https://prove2.me/theorems/ed72a5c4-ed94-4457-980e-a67adf8de10f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_listProd_mem_layer
 -- name    : ReciprocityTheory.ChartRestriction.DS.listProd_mem_layer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:54:54.255234+00:00
 -- url     : https://prove2.me/theorems/436db897-a39c-5f43-9497-fca0b6bc330b

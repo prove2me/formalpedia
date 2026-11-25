@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_summable_geom_coeff
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.summable_geom_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T06:06:06.767031+00:00
 -- url     : https://prove2.me/theorems/ffd68e25-0fa3-424b-bf9e-bf17863a9512

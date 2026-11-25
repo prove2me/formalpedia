@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_phiC
 -- name    : ReciprocityTheory.AnForm.A.phiC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:21:12.036809+00:00
 -- url     : https://prove2.me/theorems/ff40580b-a3d1-4463-b6bd-18e38d407af0

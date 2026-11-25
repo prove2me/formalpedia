@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_hs_eq_traceVG
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.hs_eq_traceVG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:46:05.294916+00:00
 -- url     : https://prove2.me/theorems/8c479de6-5877-4d24-bb4b-38bf731151c1

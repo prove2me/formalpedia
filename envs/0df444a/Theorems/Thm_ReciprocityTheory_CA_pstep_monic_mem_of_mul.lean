@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_pstep_monic_mem_of_mul
 -- name    : ReciprocityTheory.CA.pstep_monic_mem_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:38:42.965737+00:00
 -- url     : https://prove2.me/theorems/9430fa50-e5a9-4f09-97b5-4ae57ee58869

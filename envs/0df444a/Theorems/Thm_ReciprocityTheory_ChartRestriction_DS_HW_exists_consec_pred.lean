@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_exists_consec_pred
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.exists_consec_pred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:54:11.719608+00:00
 -- url     : https://prove2.me/theorems/45bd0c80-3faf-52b9-b36f-5b796babf761

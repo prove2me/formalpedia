@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_inv_one_sub_C_mul_X
 -- name    : ReciprocityTheory.ChartRestriction.DS.inv_one_sub_C_mul_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:53:16.424796+00:00
 -- url     : https://prove2.me/theorems/042b5965-2272-5950-a440-6dc781ed904a

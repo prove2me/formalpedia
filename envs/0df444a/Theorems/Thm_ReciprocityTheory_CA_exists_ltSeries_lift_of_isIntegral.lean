@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_exists_ltSeries_lift_of_isIntegral
 -- name    : ReciprocityTheory.CA.exists_ltSeries_lift_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:38:30.957388+00:00
 -- url     : https://prove2.me/theorems/848c123d-df9c-4ec9-a373-7477d4762aac

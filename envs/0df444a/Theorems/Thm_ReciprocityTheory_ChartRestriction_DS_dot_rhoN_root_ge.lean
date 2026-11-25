@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_dot_rhoN_root_ge
 -- name    : ReciprocityTheory.ChartRestriction.DS.dot_rhoN_root_ge
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:10:25.245696+00:00
 -- url     : https://prove2.me/theorems/683a23c8-8b1b-4526-a50f-1b4a354ec1fd

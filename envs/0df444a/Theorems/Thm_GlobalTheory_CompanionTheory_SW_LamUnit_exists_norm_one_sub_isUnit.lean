@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_LamUnit_exists_norm_one_sub_isUnit
 -- name    : GlobalTheory.CompanionTheory.SW.LamUnit.exists_norm_one_sub_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:29:40.830598+00:00
 -- url     : https://prove2.me/theorems/62f72b71-1502-429c-a47f-f424a194e666

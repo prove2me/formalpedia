@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_iter_differentiable
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.iter_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:18.959642+00:00
 -- url     : https://prove2.me/theorems/89ccd4fc-53c7-51fb-bad2-9bd51b5ec2fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HExp_hasStrict_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.HExp.hasStrict_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:01:13.250469+00:00
 -- url     : https://prove2.me/theorems/288ee980-89ff-4d99-a876-93289c556159

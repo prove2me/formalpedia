@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_Top_lev
 -- name    : PIQnLT.Top_lev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:47:44.861942+00:00
 -- url     : https://prove2.me/theorems/f83e0b2c-9692-4bf5-b557-a763ed5a003c

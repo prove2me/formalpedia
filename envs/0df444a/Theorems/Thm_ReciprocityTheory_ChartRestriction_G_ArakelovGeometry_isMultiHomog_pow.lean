@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isMultiHomog_pow
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isMultiHomog_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:15:17.102124+00:00
 -- url     : https://prove2.me/theorems/70e25fd2-c867-56b3-8ee7-420b47594c58

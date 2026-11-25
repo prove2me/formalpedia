@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_USum_inK_zM
 -- name    : ReciprocityTheory.ChartRestriction.DS.USum.inK_zM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:45:15.529435+00:00
 -- url     : https://prove2.me/theorems/08a6e1ca-9b2c-491b-8e30-63f7a626af4c

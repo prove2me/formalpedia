@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_exp_ge_one_add_add_sq_div_three
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.exp_ge_one_add_add_sq_div_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:44:57.742358+00:00
 -- url     : https://prove2.me/theorems/728125f0-7e50-4eb3-94bc-fc4535b451f6

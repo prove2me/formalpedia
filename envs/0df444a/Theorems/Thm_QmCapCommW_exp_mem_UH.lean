@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QmCapCommW_exp_mem_UH
 -- name    : QmCapCommW.exp_mem_UH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T05:51:13.989967+00:00
 -- url     : https://prove2.me/theorems/ee407132-858d-5aa9-995b-157dc834da8c

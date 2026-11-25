@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_LL_differentiableAt_det
 -- name    : PositivityTheory.ThKR.LL.differentiableAt_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:06:24.261463+00:00
 -- url     : https://prove2.me/theorems/6c6e1f56-7adc-4f01-9035-3171e7bf818b

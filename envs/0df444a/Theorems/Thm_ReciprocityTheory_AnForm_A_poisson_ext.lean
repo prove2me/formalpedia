@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_poisson_ext
 -- name    : ReciprocityTheory.AnForm.A.poisson_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:19:07.748402+00:00
 -- url     : https://prove2.me/theorems/f32d1884-49d4-58b8-a21a-285390bbe61c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_commutator_add_sum_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.commutator_add_sum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:50:20.276186+00:00
 -- url     : https://prove2.me/theorems/63946108-9ed3-4620-bffd-b14979fce060

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_gradDensSymm_thm
 -- name    : ReciprocityTheory.AnForm.A.gradDensSymm_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:01:11.646401+00:00
 -- url     : https://prove2.me/theorems/fec731c7-3511-4863-8fdf-0e677411758c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_forms_algebraicIndependent_smul_sub_sum_mem
 -- name    : GlobalTheory.exists_forms_algebraicIndependent_smul_sub_sum_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:32:38.797536+00:00
 -- url     : https://prove2.me/theorems/4a63b443-e816-4283-822d-5125a2396dc5

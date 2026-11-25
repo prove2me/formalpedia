@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_Inv_invar_iter
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.Inv.invar_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:50:50.738633+00:00
 -- url     : https://prove2.me/theorems/d9435e46-d0ee-4a65-916f-2b7bad489e2e

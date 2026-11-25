@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_cls_eq_iff
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.cls_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:33:07.005223+00:00
 -- url     : https://prove2.me/theorems/5005c7c7-74db-5369-ae09-7408a477865e

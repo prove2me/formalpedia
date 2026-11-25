@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_cauchy_gen
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.cauchy_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:08:39.889646+00:00
 -- url     : https://prove2.me/theorems/6577f70d-c4d8-5556-aa2d-5f7bd8343659

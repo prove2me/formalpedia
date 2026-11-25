@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_BaseChangeC_fracTensor_exists_den
 -- name    : ReciprocityTheory.AnForm.R.BaseChangeC.fracTensor_exists_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:51:12.41773+00:00
 -- url     : https://prove2.me/theorems/3329c7ee-957e-4a2a-8880-b26333d9ae1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_residueFieldMap_constRes
 -- name    : ReciprocityTheory.AnForm.R.residueFieldMap_constRes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:37:27.452613+00:00
 -- url     : https://prove2.me/theorems/fbb58276-10ef-57d3-aa0e-0cbbffe820a9

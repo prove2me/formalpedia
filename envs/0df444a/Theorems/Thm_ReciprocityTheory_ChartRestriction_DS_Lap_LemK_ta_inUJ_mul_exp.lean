@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_ta_inUJ_mul_exp
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.ta_inUJ_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:07:33.688967+00:00
 -- url     : https://prove2.me/theorems/0c41af50-5094-43a4-a228-26fa5fba1360

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_blockSum_plus
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.blockSum_plus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:01:39.659825+00:00
 -- url     : https://prove2.me/theorems/07d380cf-b7f3-4796-8706-7979b61c77a8

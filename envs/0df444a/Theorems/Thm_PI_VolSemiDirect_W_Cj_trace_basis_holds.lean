@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolSemiDirect_W_Cj_trace_basis_holds
 -- name    : PI.VolSemiDirect.W.Cj.trace_basis_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T11:58:25.456249+00:00
 -- url     : https://prove2.me/theorems/276856c2-c61e-4aac-99fa-01ac48966ba7

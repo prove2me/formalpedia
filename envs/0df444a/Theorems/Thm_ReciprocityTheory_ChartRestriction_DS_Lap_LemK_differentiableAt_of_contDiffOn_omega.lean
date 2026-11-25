@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_differentiableAt_of_contDiffOn_omega
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.differentiableAt_of_contDiffOn_omega
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:42:58.034789+00:00
 -- url     : https://prove2.me/theorems/1154c9b5-101c-4de3-ad7a-7e5f6332b24d

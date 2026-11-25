@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_factorCasimir_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.DS.factorCasimir_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:10:56.804929+00:00
 -- url     : https://prove2.me/theorems/5637c0ff-1d15-4dc3-9de9-3af959fd5b7d

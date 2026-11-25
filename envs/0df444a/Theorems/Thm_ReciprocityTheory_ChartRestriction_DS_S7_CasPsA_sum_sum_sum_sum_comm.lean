@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CasPsA_sum_sum_sum_sum_comm
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CasPsA.sum_sum_sum_sum_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:47:41.173702+00:00
 -- url     : https://prove2.me/theorems/9212a45e-4098-5a67-9f54-eaa2d12f8647

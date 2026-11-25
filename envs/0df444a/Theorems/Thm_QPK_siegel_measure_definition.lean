@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QPK_siegel_measure_definition
 -- name    : QPK.siegel_measure_definition
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:10:38.900806+00:00
 -- url     : https://prove2.me/theorems/b5fc24a0-fb18-4ee1-9c47-4d9ea7fe76b7

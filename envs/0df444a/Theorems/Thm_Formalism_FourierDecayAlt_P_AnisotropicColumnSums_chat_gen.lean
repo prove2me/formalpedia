@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_AnisotropicColumnSums_chat_gen
 -- name    : Formalism.FourierDecayAlt.P.AnisotropicColumnSums.chat_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:29:15.699801+00:00
 -- url     : https://prove2.me/theorems/b64f8128-8a5d-431e-a738-f2898030efbb

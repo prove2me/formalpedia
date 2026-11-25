@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_minorDens_psiRef
 -- name    : ReciprocityTheory.AnForm.A.minorDens_psiRef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:20:37.6171+00:00
 -- url     : https://prove2.me/theorems/c85a90ab-7df1-5bc1-aad2-32d11ef62475

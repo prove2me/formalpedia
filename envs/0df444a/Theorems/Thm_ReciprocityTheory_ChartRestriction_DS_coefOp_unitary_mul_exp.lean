@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefOp_unitary_mul_exp
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefOp_unitary_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:52:11.247403+00:00
 -- url     : https://prove2.me/theorems/1b0efcd8-83ac-5761-9baf-be2948c41a1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_SDiffGram_block_simeq
 -- name    : PI.UnitaryGroupMassFormula.SDiffGram.block_simeq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T11:44:33.533508+00:00
 -- url     : https://prove2.me/theorems/ff02d602-7a7f-4693-ab49-f1bdd288a340

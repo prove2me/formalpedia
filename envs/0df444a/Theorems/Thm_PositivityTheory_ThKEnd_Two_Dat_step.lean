@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKEnd_Two_Dat_step
 -- name    : PositivityTheory.ThKEnd.Two.Dat.step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:17.245472+00:00
 -- url     : https://prove2.me/theorems/d34c6998-7cda-4b42-8baa-9814a824f625

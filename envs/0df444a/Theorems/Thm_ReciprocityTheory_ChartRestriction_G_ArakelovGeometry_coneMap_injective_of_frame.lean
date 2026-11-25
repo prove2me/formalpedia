@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_coneMap_injective_of_frame
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.coneMap_injective_of_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:05:06.017047+00:00
 -- url     : https://prove2.me/theorems/b70bc179-a3f3-53f5-a627-50d44b430868

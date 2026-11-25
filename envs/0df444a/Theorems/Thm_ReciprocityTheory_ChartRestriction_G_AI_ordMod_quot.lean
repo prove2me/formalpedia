@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_ordMod_quot
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.ordMod_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:55:32.291912+00:00
 -- url     : https://prove2.me/theorems/4d676786-21ce-4bf5-bcbb-b03855cf8cc6

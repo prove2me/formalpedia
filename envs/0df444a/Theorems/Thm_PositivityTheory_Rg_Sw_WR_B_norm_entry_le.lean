@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_norm_entry_le
 -- name    : PositivityTheory.Rg.Sw.WR.B.norm_entry_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:49:41.09808+00:00
 -- url     : https://prove2.me/theorems/989a02ad-a54c-4211-8752-57e8abeab7be

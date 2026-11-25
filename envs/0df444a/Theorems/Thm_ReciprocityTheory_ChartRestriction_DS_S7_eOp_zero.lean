@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_eOp_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.eOp_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:45:20.478324+00:00
 -- url     : https://prove2.me/theorems/a0248b98-138f-4f53-8a2e-735e5b26884a

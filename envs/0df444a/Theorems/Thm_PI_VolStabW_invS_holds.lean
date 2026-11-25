@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_invS_holds
 -- name    : PI.VolStabW.invS_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:44:30.740852+00:00
 -- url     : https://prove2.me/theorems/b6ee10f4-8c3a-4c40-be9f-66c2ae93ccd4

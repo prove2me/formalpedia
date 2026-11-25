@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_dc_symm_nodal
 -- name    : ReciprocityTheory.ChartRestriction.DS.dc_symm_nodal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:36:38.707855+00:00
 -- url     : https://prove2.me/theorems/09e66fb2-90ac-485f-bcb4-34c0424b1cd3

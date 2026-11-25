@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_isInfUnitary_of_isDerivedOn
 -- name    : ReciprocityTheory.ChartRestriction.DS.isInfUnitary_of_isDerivedOn
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:01:00.068808+00:00
 -- url     : https://prove2.me/theorems/2b6a2cd8-ff0a-408e-8e48-454f93cbef70

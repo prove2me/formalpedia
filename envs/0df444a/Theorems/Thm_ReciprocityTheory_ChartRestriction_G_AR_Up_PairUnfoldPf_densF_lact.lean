@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PairUnfoldPf_densF_lact
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PairUnfoldPf.densF_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:01:21.554657+00:00
 -- url     : https://prove2.me/theorems/138eefe8-a4c8-51c5-870a-89134dd34e88

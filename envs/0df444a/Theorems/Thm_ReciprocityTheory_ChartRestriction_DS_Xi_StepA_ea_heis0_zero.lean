@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_ea_heis0_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.ea_heis0_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:23:35.4838+00:00
 -- url     : https://prove2.me/theorems/117ce83c-b150-4f81-bdac-8d1c2f471ad6

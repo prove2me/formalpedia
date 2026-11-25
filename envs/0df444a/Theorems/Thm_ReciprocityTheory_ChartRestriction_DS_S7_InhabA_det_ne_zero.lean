@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InhabA_det_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InhabA.det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:44:32.920542+00:00
 -- url     : https://prove2.me/theorems/55514add-3b20-46d0-865a-ac0e4322767b

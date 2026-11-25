@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_inh_divCycle_one
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.inh_divCycle_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:55:03.351422+00:00
 -- url     : https://prove2.me/theorems/80c69c5e-781b-4101-be46-8af9f875cbd5

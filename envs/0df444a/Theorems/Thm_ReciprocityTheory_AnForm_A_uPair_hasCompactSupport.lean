@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_uPair_hasCompactSupport
 -- name    : ReciprocityTheory.AnForm.A.uPair_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:19:51.9808+00:00
 -- url     : https://prove2.me/theorems/94ce9b19-2a00-41ab-84ce-00952a28921c

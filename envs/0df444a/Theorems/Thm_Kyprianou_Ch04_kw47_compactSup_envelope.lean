@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_kw47_compactSup_envelope
 -- name    : Kyprianou.Ch04.kw47_compactSup_envelope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:24:35.426384+00:00
 -- url     : https://prove2.me/theorems/5f0cfafc-d152-5bfa-a3ba-81b985897524

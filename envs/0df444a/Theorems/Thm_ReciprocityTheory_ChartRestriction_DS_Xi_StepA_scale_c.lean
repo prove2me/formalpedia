@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_scale_c
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.scale_c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:54:25.833995+00:00
 -- url     : https://prove2.me/theorems/896d7142-38b6-5738-83c7-fb4cdfd4043b

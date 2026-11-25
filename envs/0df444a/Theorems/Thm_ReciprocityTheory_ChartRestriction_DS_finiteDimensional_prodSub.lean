@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_finiteDimensional_prodSub
 -- name    : ReciprocityTheory.ChartRestriction.DS.finiteDimensional_prodSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:52:26.862224+00:00
 -- url     : https://prove2.me/theorems/7ee13a1d-8325-5037-a929-7f369c810dd3

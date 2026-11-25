@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_rowMinor_eq_unop
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.rowMinor_eq_unop
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:42:35.620587+00:00
 -- url     : https://prove2.me/theorems/5fc54719-4eeb-5035-9ef6-dd3c173f4ddd

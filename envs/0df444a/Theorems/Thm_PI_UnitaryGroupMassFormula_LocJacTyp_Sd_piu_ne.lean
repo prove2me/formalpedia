@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_piu_ne
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.piu_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:05:53.650425+00:00
 -- url     : https://prove2.me/theorems/f6b1d28b-7742-4435-b1f1-1cac942bd370

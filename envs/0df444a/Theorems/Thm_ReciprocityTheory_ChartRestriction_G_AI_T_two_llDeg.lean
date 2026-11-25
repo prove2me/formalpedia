@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_T_two_llDeg
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.T.two_llDeg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:55:39.596555+00:00
 -- url     : https://prove2.me/theorems/0530287d-c370-51f4-ad87-22ffd2bef6e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliTwoByTwo_capelli_two_general_frame
 -- name    : Formalism.FourierDecayAlt.P.CapelliTwoByTwo.capelli_two_general_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:48:18.854836+00:00
 -- url     : https://prove2.me/theorems/72d70d71-107a-48f7-aa8a-6c8b0797b801

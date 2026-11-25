@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_onto_of_irred
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.onto_of_irred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:50:49.120244+00:00
 -- url     : https://prove2.me/theorems/173bbbe4-66c0-402f-a3d2-a45a143dfb67

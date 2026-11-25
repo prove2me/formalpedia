@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_sqrt_nsq_sum_le
 -- name    : ReciprocityTheory.ChartRestriction.DS.sqrt_nsq_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:57:26.968473+00:00
 -- url     : https://prove2.me/theorems/fb98918c-d123-51a2-b89f-7c82cbf8a14e

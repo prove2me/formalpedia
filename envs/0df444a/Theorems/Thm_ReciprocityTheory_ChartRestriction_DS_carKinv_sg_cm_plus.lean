@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_carKinv_sg_cm_plus
 -- name    : ReciprocityTheory.ChartRestriction.DS.carKinv_sg_cm_plus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:49:03.014976+00:00
 -- url     : https://prove2.me/theorems/8fae5b88-daee-4a35-8c72-725b6363c3e6

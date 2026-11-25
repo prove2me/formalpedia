@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_integral_Ioi_fsDens_radial
 -- name    : ReciprocityTheory.AnForm.integral_Ioi_fsDens_radial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:37:25.903395+00:00
 -- url     : https://prove2.me/theorems/781fef3a-c179-4ddf-9ced-b1bbfaf7f276

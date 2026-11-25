@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_contr_C
 -- name    : PositivityTheory.Rg.Sw.LC.contr_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:58:37.909797+00:00
 -- url     : https://prove2.me/theorems/fcb6e007-2361-5a02-a283-65bae14d7a07

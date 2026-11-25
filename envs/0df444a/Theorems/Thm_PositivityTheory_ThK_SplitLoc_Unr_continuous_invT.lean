@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_continuous_invT
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.continuous_invT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:51:35.694073+00:00
 -- url     : https://prove2.me/theorems/248fe72d-a27d-45da-abd5-2e42abc3937c

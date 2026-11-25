@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Mult1_S0_A_norm_lower_bound_of_hypotheses
 -- name    : ReciprocityTheory.ChartRestriction.DS.Mult1.S0.A.norm_lower_bound_of_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:44:25.285339+00:00
 -- url     : https://prove2.me/theorems/a7dca070-ca03-5eb6-852d-efbbe9d9d4f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_length_self_ringEquiv
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.length_self_ringEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:55:47.591609+00:00
 -- url     : https://prove2.me/theorems/003e2905-3837-5e0c-acfe-fc9f3b3b3eba

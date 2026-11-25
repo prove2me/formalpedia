@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_PolarDecomposition_polar_JLJ
 -- name    : ReciprocityTheory.ChartRestriction.DS.PolarDecomposition.polar_JLJ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:03:39.646266+00:00
 -- url     : https://prove2.me/theorems/51f4bc06-a5a2-4cdc-822d-cdb75b5b81a6

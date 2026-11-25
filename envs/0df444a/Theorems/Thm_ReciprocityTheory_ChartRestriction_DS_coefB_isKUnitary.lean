@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coefB_isKUnitary
 -- name    : ReciprocityTheory.ChartRestriction.DS.coefB_isKUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:09:56.971279+00:00
 -- url     : https://prove2.me/theorems/ec6337dd-0b6c-440e-9b75-a9b212ccc5f0

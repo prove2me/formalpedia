@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_K_GB_Inv_wd_expand
 -- name    : PositivityTheory.Rg.Sw.WR.K.GB.Inv.wd_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:52:09.625602+00:00
 -- url     : https://prove2.me/theorems/95a399a8-db54-5ae6-8f68-c327a09f32a0

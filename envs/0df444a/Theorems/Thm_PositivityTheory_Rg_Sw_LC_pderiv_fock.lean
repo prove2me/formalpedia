@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_pderiv_fock
 -- name    : PositivityTheory.Rg.Sw.LC.pderiv_fock
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:50:04.139823+00:00
 -- url     : https://prove2.me/theorems/db9f27d7-51af-414e-bf2c-282f1be3bb20

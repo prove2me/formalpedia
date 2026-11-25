@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Base_N_ode_bound
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Base.N.ode_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:41:33.148205+00:00
 -- url     : https://prove2.me/theorems/331a91de-0cf4-43eb-8c8c-989b3de95858

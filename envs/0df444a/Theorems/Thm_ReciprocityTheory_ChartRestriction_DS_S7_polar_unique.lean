@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_polar_unique
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.polar_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:08:27.042233+00:00
 -- url     : https://prove2.me/theorems/69653a00-9332-427f-9bf7-010de5adc92a

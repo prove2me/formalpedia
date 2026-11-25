@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_count_real
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_count_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:06:43.404526+00:00
 -- url     : https://prove2.me/theorems/9fff0643-8182-5cbb-9340-10698fc551f0

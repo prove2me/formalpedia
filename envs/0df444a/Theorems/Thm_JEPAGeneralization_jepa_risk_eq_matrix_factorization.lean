@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JEPAGeneralization_jepa_risk_eq_matrix_factorization
 -- name    : JEPAGeneralization.jepa_risk_eq_matrix_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T04:41:44.332596+00:00
 -- url     : https://prove2.me/theorems/d441f5f2-eb7c-4bff-9f82-f3bf489e9a4c

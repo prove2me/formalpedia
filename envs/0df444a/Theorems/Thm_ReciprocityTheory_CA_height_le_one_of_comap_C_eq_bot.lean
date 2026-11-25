@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_height_le_one_of_comap_C_eq_bot
 -- name    : ReciprocityTheory.CA.height_le_one_of_comap_C_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:39:12.531869+00:00
 -- url     : https://prove2.me/theorems/43e0f4b1-12a1-5e99-91b3-04939e71ee97

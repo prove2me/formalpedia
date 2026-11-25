@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_exists_reg_both
 -- name    : ReciprocityTheory.CA.exists_reg_both
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:39:23.855448+00:00
 -- url     : https://prove2.me/theorems/a14d605b-17a1-5a3b-a65e-141a6bfb0adb
