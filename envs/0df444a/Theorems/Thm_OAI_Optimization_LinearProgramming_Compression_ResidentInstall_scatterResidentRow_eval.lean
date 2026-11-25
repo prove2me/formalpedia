@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_ResidentInstall_scatterResidentRow_eval
 -- name    : OAI.Optimization.LinearProgramming.Compression.ResidentInstall.scatterResidentRow_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:38:58.962828+00:00
 -- url     : https://prove2.me/theorems/2c9b0429-514f-4e52-a03d-ae342dd1c498

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_dot_basis_basisPrefixProjection_eq_origProjCoords_mul_normSq
 -- name    : Hex.GramSchmidt.Int.dot_basis_basisPrefixProjection_eq_origProjCoords_mul_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:38:43.016792+00:00
 -- url     : https://prove2.me/theorems/b31a77a5-056d-5d69-8396-65a381d49e3b

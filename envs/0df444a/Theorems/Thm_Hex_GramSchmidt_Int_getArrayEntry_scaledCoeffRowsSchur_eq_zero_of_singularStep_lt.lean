@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_getArrayEntry_scaledCoeffRowsSchur_eq_zero_of_singularStep_lt
 -- name    : Hex.GramSchmidt.Int.getArrayEntry_scaledCoeffRowsSchur_eq_zero_of_singularStep_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:36:12.587163+00:00
 -- url     : https://prove2.me/theorems/c29b9a1c-4b39-4d9d-b715-ab5b44f121e0

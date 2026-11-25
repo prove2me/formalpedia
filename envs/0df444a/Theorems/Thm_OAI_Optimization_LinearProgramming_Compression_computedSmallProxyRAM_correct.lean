@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_computedSmallProxyRAM_correct
 -- name    : OAI.Optimization.LinearProgramming.Compression.computedSmallProxyRAM_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:56.595939+00:00
 -- url     : https://prove2.me/theorems/c9afa929-a0dc-4492-a95f-5ca1928fd375

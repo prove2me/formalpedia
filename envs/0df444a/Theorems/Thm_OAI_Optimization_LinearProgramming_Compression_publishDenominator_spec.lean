@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_publishDenominator_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.publishDenominator_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:46:56.539987+00:00
 -- url     : https://prove2.me/theorems/f6165472-ade1-5c5b-8ab9-910d035da898

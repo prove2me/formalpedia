@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_dot_castIntRow_castIntRow_eq
 -- name    : Hex.GramSchmidt.Int.dot_castIntRow_castIntRow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:41:00.166958+00:00
 -- url     : https://prove2.me/theorems/eeaaad3e-cd4a-4b7d-8c8f-2db9b2bd1148

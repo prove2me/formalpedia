@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_RequestTrace_replay_invariants
 -- name    : OAI.Optimization.LinearProgramming.Compression.RequestTrace.replay_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:46:54.325549+00:00
 -- url     : https://prove2.me/theorems/60bfc0df-239c-5474-a5de-fd0c14888144

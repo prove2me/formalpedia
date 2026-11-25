@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_canonicalRationalBitsBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.canonicalRationalBitsBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:11.972155+00:00
 -- url     : https://prove2.me/theorems/9e8e9c49-a838-4f6e-9949-34d3f53f8392

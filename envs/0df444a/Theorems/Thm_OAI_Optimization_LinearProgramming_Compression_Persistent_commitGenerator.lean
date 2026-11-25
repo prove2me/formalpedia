@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_Persistent_commitGenerator
 -- name    : OAI.Optimization.LinearProgramming.Compression.Persistent.commitGenerator
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:11.200981+00:00
 -- url     : https://prove2.me/theorems/4af40368-a706-539d-803c-345f78f4ca4e

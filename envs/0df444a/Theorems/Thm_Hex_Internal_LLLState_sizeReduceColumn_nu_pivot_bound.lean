@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Internal_LLLState_sizeReduceColumn_nu_pivot_bound
 -- name    : Hex.Internal.LLLState.sizeReduceColumn_nu_pivot_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:49:08.786344+00:00
 -- url     : https://prove2.me/theorems/c89c2a5d-7228-5a02-9783-5d1dc5bbadd5

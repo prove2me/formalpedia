@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_writeAddressDigit_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.writeAddressDigit_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:32.132677+00:00
 -- url     : https://prove2.me/theorems/26906cc9-e653-4ef6-bd38-447c95a298ca

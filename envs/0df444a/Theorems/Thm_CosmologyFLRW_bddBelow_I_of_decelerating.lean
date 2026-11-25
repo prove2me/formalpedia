@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyFLRW_bddBelow_I_of_decelerating
 -- name    : CosmologyFLRW.bddBelow_I_of_decelerating
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T02:10:29.127812+00:00
 -- url     : https://prove2.me/theorems/dc910934-b64e-4220-b759-e22e400f23a3

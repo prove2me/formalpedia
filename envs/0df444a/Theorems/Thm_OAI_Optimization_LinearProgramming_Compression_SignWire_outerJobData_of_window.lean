@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_outerJobData_of_window
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.outerJobData_of_window
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:41:07.0968+00:00
 -- url     : https://prove2.me/theorems/d997377c-5cbb-5c22-b19d-1dec586e4a26

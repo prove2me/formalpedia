@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_prepareExponentSignBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.prepareExponentSignBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:33.916797+00:00
 -- url     : https://prove2.me/theorems/784d8cbc-8e6d-57b2-8ecd-8cfdb565a837

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_computedProxyLiteralRAM_correct
 -- name    : OAI.Optimization.LinearProgramming.Compression.computedProxyLiteralRAM_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:07.998922+00:00
 -- url     : https://prove2.me/theorems/607b5449-96a0-4186-9402-dcf2112bc97c

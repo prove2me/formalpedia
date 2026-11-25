@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_isolatedSign_window_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.isolatedSign_window_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:58.433894+00:00
 -- url     : https://prove2.me/theorems/60f88b3c-cefc-4316-bc12-222682f905ca

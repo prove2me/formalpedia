@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicOscillator1D_schrodingerOperator_parity
 -- name    : HarmonicOscillator1D.schrodingerOperator_parity
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T02:01:13.498873+00:00
 -- url     : https://prove2.me/theorems/b8a8e38f-a5a3-4a79-93b2-7ce93a27a740

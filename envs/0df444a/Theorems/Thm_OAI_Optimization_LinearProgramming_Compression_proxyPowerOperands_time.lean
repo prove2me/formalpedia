@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_proxyPowerOperands_time
 -- name    : OAI.Optimization.LinearProgramming.Compression.proxyPowerOperands_time
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:54.761149+00:00
 -- url     : https://prove2.me/theorems/95ba2950-d782-4567-8cd8-9540ea78aad8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_logProxyProgram_bounded_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.logProxyProgram_bounded_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:37:37.460651+00:00
 -- url     : https://prove2.me/theorems/3d4a3a83-6b89-443b-9e28-045f7d555eb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_dot_basis_rowSwap_curr_prev_eq_normSq
 -- name    : Hex.GramSchmidt.Int.dot_basis_rowSwap_curr_prev_eq_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:44.217527+00:00
 -- url     : https://prove2.me/theorems/36d90066-b368-4e30-aa2b-72332e342ac5

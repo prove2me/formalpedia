@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_ServiceClean_clearEven_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.ServiceClean.clearEven_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:54.810662+00:00
 -- url     : https://prove2.me/theorems/1b9658bd-3602-4545-bbf2-d901cba5f819

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_smallProxyScalarTape_of_cells
 -- name    : OAI.Optimization.LinearProgramming.Compression.smallProxyScalarTape_of_cells
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:58.593382+00:00
 -- url     : https://prove2.me/theorems/6ccaffab-364f-4736-bf77-fd12e5e946c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_countDoubledHeader_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.countDoubledHeader_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:07.653553+00:00
 -- url     : https://prove2.me/theorems/eb1f965d-0587-452d-8de7-0927acab34d4

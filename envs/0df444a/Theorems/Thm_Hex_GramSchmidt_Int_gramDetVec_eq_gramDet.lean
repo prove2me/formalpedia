@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_gramDetVec_eq_gramDet
 -- name    : Hex.GramSchmidt.Int.gramDetVec_eq_gramDet
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:36:31.587951+00:00
 -- url     : https://prove2.me/theorems/c5d71300-78ce-4179-9f05-f73ab6107f59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_numericProxyCacheSteps_le
 -- name    : OAI.Optimization.LinearProgramming.Compression.numericProxyCacheSteps_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:17.609518+00:00
 -- url     : https://prove2.me/theorems/5b1ac401-5ca7-4a40-9a41-7a7082c45c40

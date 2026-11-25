@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_signedFieldBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.signedFieldBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:14.216623+00:00
 -- url     : https://prove2.me/theorems/bfca4eae-e0c8-565e-982e-991d5cb8a0fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_symbolicQueryTime_le_poly
 -- name    : OAI.Optimization.LinearProgramming.Compression.symbolicQueryTime_le_poly
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:25.180719+00:00
 -- url     : https://prove2.me/theorems/62a98147-7afb-4a3c-85e5-662999fc915c

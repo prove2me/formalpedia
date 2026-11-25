@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_relocate_power_execution
 -- name    : OAI.Optimization.LinearProgramming.Compression.relocate_power_execution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:42:53.504813+00:00
 -- url     : https://prove2.me/theorems/d74fc28f-ca7e-4fc9-81a1-e95e9e75a49d

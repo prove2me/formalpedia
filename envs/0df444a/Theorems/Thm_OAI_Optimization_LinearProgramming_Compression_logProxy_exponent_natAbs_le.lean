@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_logProxy_exponent_natAbs_le
 -- name    : OAI.Optimization.LinearProgramming.Compression.logProxy_exponent_natAbs_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:34.655113+00:00
 -- url     : https://prove2.me/theorems/7504d228-3adf-4090-859c-a7052bb3ad16

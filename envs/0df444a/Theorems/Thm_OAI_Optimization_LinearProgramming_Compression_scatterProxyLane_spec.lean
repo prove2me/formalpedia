@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_scatterProxyLane_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.scatterProxyLane_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:50.281407+00:00
 -- url     : https://prove2.me/theorems/43d6bfc6-13a0-4665-966b-98d6af3bae6f

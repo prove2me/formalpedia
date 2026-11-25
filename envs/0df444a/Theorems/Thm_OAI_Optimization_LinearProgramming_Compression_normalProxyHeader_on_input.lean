@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_normalProxyHeader_on_input
 -- name    : OAI.Optimization.LinearProgramming.Compression.normalProxyHeader_on_input
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:38:53.115805+00:00
 -- url     : https://prove2.me/theorems/c959e92b-03b0-5dc1-b72a-def9419064e0

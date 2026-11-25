@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_installResident_frames
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.installResident_frames
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:38:51.631991+00:00
 -- url     : https://prove2.me/theorems/701c44e4-2b33-44d2-9703-3cf781acf521

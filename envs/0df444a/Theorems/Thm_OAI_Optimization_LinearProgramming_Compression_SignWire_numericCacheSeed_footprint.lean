@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_numericCacheSeed_footprint
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.numericCacheSeed_footprint
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:42:10.517558+00:00
 -- url     : https://prove2.me/theorems/39f5408c-fa1b-4b9d-8e2d-39bacb8e97a4

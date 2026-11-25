@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_patchSmallProxyHeader_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.patchSmallProxyHeader_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:53.526198+00:00
 -- url     : https://prove2.me/theorems/036ccac3-d1c6-52ac-b2ad-9a55e8dcfec6

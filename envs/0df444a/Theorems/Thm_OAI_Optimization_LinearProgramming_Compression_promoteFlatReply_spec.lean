@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_promoteFlatReply_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.promoteFlatReply_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:19.535682+00:00
 -- url     : https://prove2.me/theorems/535e137e-5b36-4341-93c1-b89abd21206e

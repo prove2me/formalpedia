@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Internal_LLLState_nearestQuotient_residue_bound
 -- name    : Hex.Internal.LLLState.nearestQuotient_residue_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:04.951549+00:00
 -- url     : https://prove2.me/theorems/0d525327-ad28-438d-b552-64858bc618bb

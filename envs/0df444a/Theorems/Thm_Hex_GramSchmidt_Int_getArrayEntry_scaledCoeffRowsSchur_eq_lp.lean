@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_getArrayEntry_scaledCoeffRowsSchur_eq_lp
 -- name    : Hex.GramSchmidt.Int.getArrayEntry_scaledCoeffRowsSchur_eq_lp
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:36:35.579804+00:00
 -- url     : https://prove2.me/theorems/cbf64e5b-1325-4e1c-8f1d-f6eb5d095db3

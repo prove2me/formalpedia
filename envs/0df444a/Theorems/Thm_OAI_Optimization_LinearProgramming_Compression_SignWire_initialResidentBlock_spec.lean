@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_initialResidentBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.initialResidentBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:13.660383+00:00
 -- url     : https://prove2.me/theorems/3e201e1a-df9b-4c68-b216-41349f6244fb

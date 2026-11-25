@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_NativePrice_ratBlock_bit_conditions
 -- name    : OAI.Optimization.LinearProgramming.NativePrice.ratBlock_bit_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:53.409701+00:00
 -- url     : https://prove2.me/theorems/b5db49f3-bd46-4927-a8a9-d670f42d53db

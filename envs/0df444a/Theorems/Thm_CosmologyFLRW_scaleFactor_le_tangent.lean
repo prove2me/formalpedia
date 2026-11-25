@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyFLRW_scaleFactor_le_tangent
 -- name    : CosmologyFLRW.scaleFactor_le_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T02:03:34.059788+00:00
 -- url     : https://prove2.me/theorems/c55c9a88-d88b-4e69-a894-18c6ec3f875c

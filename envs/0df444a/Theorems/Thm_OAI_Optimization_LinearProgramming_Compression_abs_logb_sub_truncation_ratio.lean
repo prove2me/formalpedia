@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_abs_logb_sub_truncation_ratio
 -- name    : OAI.Optimization.LinearProgramming.Compression.abs_logb_sub_truncation_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:02.8298+00:00
 -- url     : https://prove2.me/theorems/e8216f78-b09d-586f-a70a-4dcb3872ced3

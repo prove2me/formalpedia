@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_one_exponent
 -- name    : OAI.Optimization.LinearProgramming.Compression.one_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:57.208077+00:00
 -- url     : https://prove2.me/theorems/3521eb57-44ba-599d-a80a-e69a26de2cf3

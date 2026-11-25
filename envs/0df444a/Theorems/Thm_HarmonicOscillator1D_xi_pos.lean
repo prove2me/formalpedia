@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicOscillator1D_xi_pos
 -- name    : HarmonicOscillator1D.xi_pos
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:24:11.533+00:00
 -- url     : https://prove2.me/theorems/728fb6ab-0472-4d74-8810-12f5a0eedf1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_auxMatrix_diag
 -- name    : Hex.GramSchmidt.Int.auxMatrix_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:39:44.083851+00:00
 -- url     : https://prove2.me/theorems/96eb430a-9929-410c-ac90-19fdd19443fe

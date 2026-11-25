@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_unpackDigitBody_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.unpackDigitBody_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:08.420159+00:00
 -- url     : https://prove2.me/theorems/3efbc1e3-ad64-408d-a9da-f95f5b83e564

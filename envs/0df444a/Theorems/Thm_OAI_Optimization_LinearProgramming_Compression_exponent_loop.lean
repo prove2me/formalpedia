@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_exponent_loop
 -- name    : OAI.Optimization.LinearProgramming.Compression.exponent_loop
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:54.986924+00:00
 -- url     : https://prove2.me/theorems/14dc61ac-224b-5ef2-8a4f-e04cfe26a84b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_replyMark_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.replyMark_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:22.621696+00:00
 -- url     : https://prove2.me/theorems/76236080-161b-4e6a-99f6-1b555719c411

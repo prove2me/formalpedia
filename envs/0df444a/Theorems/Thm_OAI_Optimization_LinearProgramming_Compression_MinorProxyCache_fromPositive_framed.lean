@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_MinorProxyCache_fromPositive_framed
 -- name    : OAI.Optimization.LinearProgramming.Compression.MinorProxyCache.fromPositive_framed
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:37:22.504302+00:00
 -- url     : https://prove2.me/theorems/20fc7721-41a2-5d0c-92cd-28b5c3f990e7

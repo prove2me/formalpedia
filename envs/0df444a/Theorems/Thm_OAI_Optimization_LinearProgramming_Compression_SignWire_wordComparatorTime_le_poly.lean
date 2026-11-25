@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_wordComparatorTime_le_poly
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.wordComparatorTime_le_poly
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:41:45.923366+00:00
 -- url     : https://prove2.me/theorems/e0a25c5f-4e9f-470a-834d-b89feb2aa0a5

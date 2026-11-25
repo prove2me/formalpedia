@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_canonicalProxyPowerOperands_width
 -- name    : OAI.Optimization.LinearProgramming.Compression.canonicalProxyPowerOperands_width
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:51.615139+00:00
 -- url     : https://prove2.me/theorems/2dbe8b56-9880-4775-bf8c-a0c0682243e5

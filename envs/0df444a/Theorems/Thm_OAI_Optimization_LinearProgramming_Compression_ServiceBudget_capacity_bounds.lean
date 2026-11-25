@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_ServiceBudget_capacity_bounds
 -- name    : OAI.Optimization.LinearProgramming.Compression.ServiceBudget.capacity_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:49:49.649809+00:00
 -- url     : https://prove2.me/theorems/fb750957-7207-5285-9b73-a93ad801930c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_addressDigitsBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.addressDigitsBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:05.611983+00:00
 -- url     : https://prove2.me/theorems/f2d3e110-8b11-4bbf-99e4-5882ff790c79

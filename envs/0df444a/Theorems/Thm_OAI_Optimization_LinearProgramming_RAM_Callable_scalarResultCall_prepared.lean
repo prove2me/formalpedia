@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_RAM_Callable_scalarResultCall_prepared
 -- name    : OAI.Optimization.LinearProgramming.RAM.Callable.scalarResultCall_prepared
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:28.907819+00:00
 -- url     : https://prove2.me/theorems/7714ff71-3e16-4496-beff-fab88fbdb8f1

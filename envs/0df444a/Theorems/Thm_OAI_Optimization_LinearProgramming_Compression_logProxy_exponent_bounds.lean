@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_logProxy_exponent_bounds
 -- name    : OAI.Optimization.LinearProgramming.Compression.logProxy_exponent_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:14.745418+00:00
 -- url     : https://prove2.me/theorems/39f84357-ba89-50bc-bf29-0c10e9e940f9

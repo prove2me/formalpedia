@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_computedProxy_operand_bounds
 -- name    : OAI.Optimization.LinearProgramming.Compression.computedProxy_operand_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:51.809891+00:00
 -- url     : https://prove2.me/theorems/dc536b05-8ccb-4e24-bc24-18e4345abc33

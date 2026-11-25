@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_ratBits_affine_partial_sum
 -- name    : OAI.Optimization.LinearProgramming.Compression.ratBits_affine_partial_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:30.114565+00:00
 -- url     : https://prove2.me/theorems/a227bc2b-2e3e-5dce-a559-ee689524d32d

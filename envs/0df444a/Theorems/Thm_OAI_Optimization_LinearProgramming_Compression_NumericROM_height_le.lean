@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_NumericROM_height_le
 -- name    : OAI.Optimization.LinearProgramming.Compression.NumericROM.height_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:25.421021+00:00
 -- url     : https://prove2.me/theorems/baf9ca45-9580-487d-9da9-ed8d6251de8c

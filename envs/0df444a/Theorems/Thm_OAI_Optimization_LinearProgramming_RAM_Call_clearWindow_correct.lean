@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_RAM_Call_clearWindow_correct
 -- name    : OAI.Optimization.LinearProgramming.RAM.Call.clearWindow_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:45.935996+00:00
 -- url     : https://prove2.me/theorems/aa0c4c06-e047-4daa-831f-4b30dbe4de12

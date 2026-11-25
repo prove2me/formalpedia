@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_proxyPowerOperands_budget
 -- name    : OAI.Optimization.LinearProgramming.Compression.proxyPowerOperands_budget
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:23.959807+00:00
 -- url     : https://prove2.me/theorems/9a1b6287-6c77-46a3-8b21-b97e455c8fe1

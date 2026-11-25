@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_gramDet_rat_eq_progressMatrix_zero_det
 -- name    : Hex.GramSchmidt.Int.gramDet_rat_eq_progressMatrix_zero_det
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:24.393523+00:00
 -- url     : https://prove2.me/theorems/b8c3a6f0-1ec0-4dfa-9437-f2064c9400e8

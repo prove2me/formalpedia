@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_widthScanBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.widthScanBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:02.586454+00:00
 -- url     : https://prove2.me/theorems/2fca12d5-71f9-49d1-a309-c7ebe6f4f692

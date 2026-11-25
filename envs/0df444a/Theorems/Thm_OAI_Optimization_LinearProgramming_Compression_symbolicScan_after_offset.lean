@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_symbolicScan_after_offset
 -- name    : OAI.Optimization.LinearProgramming.Compression.symbolicScan_after_offset
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:27.074994+00:00
 -- url     : https://prove2.me/theorems/6369bd8a-dd02-4808-ae6f-7664fc191a02

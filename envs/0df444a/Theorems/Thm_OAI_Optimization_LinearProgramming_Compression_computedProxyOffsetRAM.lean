@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_computedProxyOffsetRAM
 -- name    : OAI.Optimization.LinearProgramming.Compression.computedProxyOffsetRAM
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:45.788375+00:00
 -- url     : https://prove2.me/theorems/40862941-b14b-5af2-805e-4550f38c203b

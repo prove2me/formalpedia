@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_affineVector_eval_trace
 -- name    : OAI.Optimization.LinearProgramming.Compression.affineVector_eval_trace
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:30.903541+00:00
 -- url     : https://prove2.me/theorems/183f800f-3cee-4c82-ab90-92acab6e9d56

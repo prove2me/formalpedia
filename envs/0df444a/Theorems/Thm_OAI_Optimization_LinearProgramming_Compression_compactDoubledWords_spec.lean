@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_compactDoubledWords_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.compactDoubledWords_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:27.798678+00:00
 -- url     : https://prove2.me/theorems/73b5994a-a8b7-4b69-b163-5727d2862daf

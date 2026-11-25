@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_captureFlatTag_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.captureFlatTag_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:35.67816+00:00
 -- url     : https://prove2.me/theorems/80dbb12b-937a-4e14-a99d-3bf865037e6b

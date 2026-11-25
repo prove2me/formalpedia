@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Internal_LLLState_sizeReduce_independent
 -- name    : Hex.Internal.LLLState.sizeReduce_independent
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:53.337199+00:00
 -- url     : https://prove2.me/theorems/d42c93c0-a0b9-509a-9084-6542e34cfc2c

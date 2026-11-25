@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_divisionStage_eval
 -- name    : OAI.Optimization.LinearProgramming.Compression.divisionStage_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:13.054973+00:00
 -- url     : https://prove2.me/theorems/0a08089e-fed5-46e9-96c4-f1bab7f2ccf0

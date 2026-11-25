@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_rational_minor_bits
 -- name    : OAI.Optimization.LinearProgramming.Compression.rational_minor_bits
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:45.971669+00:00
 -- url     : https://prove2.me/theorems/a3366932-b585-5702-a373-93b0d3b7d41e

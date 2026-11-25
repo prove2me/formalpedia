@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_serializeNaturalBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.serializeNaturalBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:06.946466+00:00
 -- url     : https://prove2.me/theorems/b96631fd-a32a-5fe4-9c3f-21508f0955a0

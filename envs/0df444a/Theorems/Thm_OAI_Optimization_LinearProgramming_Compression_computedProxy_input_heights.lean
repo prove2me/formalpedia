@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_computedProxy_input_heights
 -- name    : OAI.Optimization.LinearProgramming.Compression.computedProxy_input_heights
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:41:20.607867+00:00
 -- url     : https://prove2.me/theorems/9aeefb65-64e6-4fdf-9f6a-31696cdac48d

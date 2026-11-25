@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_copyPowerDigitsBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.copyPowerDigitsBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:02.165732+00:00
 -- url     : https://prove2.me/theorems/f63a10f8-65e8-519f-b2d8-e5d9fcdddd60

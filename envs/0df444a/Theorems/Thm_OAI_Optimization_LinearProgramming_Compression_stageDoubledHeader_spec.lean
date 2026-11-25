@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_stageDoubledHeader_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.stageDoubledHeader_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:42.411326+00:00
 -- url     : https://prove2.me/theorems/3230f60a-91fa-5700-b2ef-10ae6b37b058

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_pushAddressWords_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.pushAddressWords_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:11.47728+00:00
 -- url     : https://prove2.me/theorems/2fe0222a-f1d9-4f5f-9c5e-927ce63d8c93

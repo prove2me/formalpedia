@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_publishNumerator_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.publishNumerator_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:19.529851+00:00
 -- url     : https://prove2.me/theorems/aaf2242a-baba-46a0-9ec5-c8537b6e971d

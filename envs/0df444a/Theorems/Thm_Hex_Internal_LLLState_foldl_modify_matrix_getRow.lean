@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_Internal_LLLState_foldl_modify_matrix_getRow
 -- name    : Hex.Internal.LLLState.foldl_modify_matrix_getRow
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:45.767809+00:00
 -- url     : https://prove2.me/theorems/c19bd542-2173-5e93-a749-c6c4e704e0fb

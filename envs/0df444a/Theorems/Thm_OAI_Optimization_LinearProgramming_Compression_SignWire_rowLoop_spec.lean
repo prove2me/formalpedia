@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_rowLoop_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.rowLoop_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:20.248083+00:00
 -- url     : https://prove2.me/theorems/0c7c13e6-90b6-568d-bac9-09a9ca181e90

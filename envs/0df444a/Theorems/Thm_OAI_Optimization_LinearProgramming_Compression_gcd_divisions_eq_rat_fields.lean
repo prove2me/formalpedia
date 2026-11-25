@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_gcd_divisions_eq_rat_fields
 -- name    : OAI.Optimization.LinearProgramming.Compression.gcd_divisions_eq_rat_fields
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:12.339603+00:00
 -- url     : https://prove2.me/theorems/38a50b44-3323-486f-9718-b4f6f49dda29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2011_11825_output_intensity_expansion
 -- name    : Arxiv2011_11825.output_intensity_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:16:15.625452+00:00
 -- url     : https://prove2.me/theorems/5b64657c-f3cc-5aa5-bc5f-b444302ade9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_restoreScalarFrameBlock_on
 -- name    : OAI.Optimization.LinearProgramming.Compression.restoreScalarFrameBlock_on
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:41.591592+00:00
 -- url     : https://prove2.me/theorems/697f72e4-4cc2-5435-8ed4-fcba65b885c4

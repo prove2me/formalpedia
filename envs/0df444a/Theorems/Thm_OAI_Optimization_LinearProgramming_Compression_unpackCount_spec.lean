@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_unpackCount_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.unpackCount_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:33.825113+00:00
 -- url     : https://prove2.me/theorems/03959dd6-7a18-568b-a940-5ecc17fc4433

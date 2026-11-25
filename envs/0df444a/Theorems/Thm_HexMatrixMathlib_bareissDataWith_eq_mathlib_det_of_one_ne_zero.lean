@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HexMatrixMathlib_bareissDataWith_eq_mathlib_det_of_one_ne_zero
 -- name    : HexMatrixMathlib.bareissDataWith_eq_mathlib_det_of_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:35:13.185181+00:00
 -- url     : https://prove2.me/theorems/32cbc809-f59c-4dd4-b443-cd55d7c720a4

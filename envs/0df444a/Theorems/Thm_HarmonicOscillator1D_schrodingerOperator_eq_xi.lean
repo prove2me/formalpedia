@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicOscillator1D_schrodingerOperator_eq_xi
 -- name    : HarmonicOscillator1D.schrodingerOperator_eq_xi
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:45:22.114867+00:00
 -- url     : https://prove2.me/theorems/325c8f4c-b100-59f0-b15e-38bdc74cf45f

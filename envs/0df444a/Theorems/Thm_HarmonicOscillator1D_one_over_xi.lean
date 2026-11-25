@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicOscillator1D_one_over_xi
 -- name    : HarmonicOscillator1D.one_over_xi
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:33:32.347734+00:00
 -- url     : https://prove2.me/theorems/d59e3f98-32ac-4d89-8190-17d8ce1fecd5

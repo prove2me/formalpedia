@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_replace_halt
 -- name    : OAI.Optimization.LinearProgramming.Compression.replace_halt
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:25.018383+00:00
 -- url     : https://prove2.me/theorems/11a7239e-0586-55b0-923b-4f6f7db33258

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_signReplyBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.signReplyBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:46:54.242345+00:00
 -- url     : https://prove2.me/theorems/42ec6f53-61b6-5324-ac2a-1566512bb155

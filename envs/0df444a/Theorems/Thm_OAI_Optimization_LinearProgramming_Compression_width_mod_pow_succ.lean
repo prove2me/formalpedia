@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_width_mod_pow_succ
 -- name    : OAI.Optimization.LinearProgramming.Compression.width_mod_pow_succ
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:46:55.869552+00:00
 -- url     : https://prove2.me/theorems/cd92d7d4-e3a3-522f-963b-fb6390117807

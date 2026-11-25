@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_handler_execution
 -- name    : OAI.Optimization.LinearProgramming.Compression.handler_execution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:29.429844+00:00
 -- url     : https://prove2.me/theorems/4d3195e2-5771-4cbf-b4bb-806b62a31476

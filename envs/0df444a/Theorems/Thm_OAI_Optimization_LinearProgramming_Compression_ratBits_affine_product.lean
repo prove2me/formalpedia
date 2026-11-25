@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_ratBits_affine_product
 -- name    : OAI.Optimization.LinearProgramming.Compression.ratBits_affine_product
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:31.401081+00:00
 -- url     : https://prove2.me/theorems/83edae3b-3027-4b9a-a5f3-88313d4076e3

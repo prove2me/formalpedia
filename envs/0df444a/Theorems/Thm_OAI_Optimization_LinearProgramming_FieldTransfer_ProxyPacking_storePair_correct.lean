@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_FieldTransfer_ProxyPacking_storePair_correct
 -- name    : OAI.Optimization.LinearProgramming.FieldTransfer.ProxyPacking.storePair_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:05.634533+00:00
 -- url     : https://prove2.me/theorems/c6d0d558-f4e4-4040-a52f-5c6c1d266fbc

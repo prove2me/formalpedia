@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_tagReturning_callerBound
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.tagReturning_callerBound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:26.839966+00:00
 -- url     : https://prove2.me/theorems/6d33a871-e982-51e8-807b-38b67bc667d2

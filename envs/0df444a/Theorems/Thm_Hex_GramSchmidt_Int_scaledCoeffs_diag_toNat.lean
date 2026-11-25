@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_scaledCoeffs_diag_toNat
 -- name    : Hex.GramSchmidt.Int.scaledCoeffs_diag_toNat
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:36:41.393061+00:00
 -- url     : https://prove2.me/theorems/78b3e81f-aabe-46fc-8238-834959b78d2d

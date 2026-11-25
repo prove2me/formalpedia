@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_finishTaggedFragment_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.finishTaggedFragment_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:20.583677+00:00
 -- url     : https://prove2.me/theorems/d83ea191-55ed-57d7-93df-9db1876ebd8e

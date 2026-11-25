@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_ServiceReturn_mark_spec_field
 -- name    : OAI.Optimization.LinearProgramming.Compression.ServiceReturn.mark_spec_field
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:47.714501+00:00
 -- url     : https://prove2.me/theorems/d4f5c9be-525d-5024-95f7-bd8601368a32

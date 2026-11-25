@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_dot_basis_rowSwap_curr_castRow_eq
 -- name    : Hex.GramSchmidt.Int.dot_basis_rowSwap_curr_castRow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:54.051784+00:00
 -- url     : https://prove2.me/theorems/77f3a93e-8192-4bad-bb12-5b20e8579f99

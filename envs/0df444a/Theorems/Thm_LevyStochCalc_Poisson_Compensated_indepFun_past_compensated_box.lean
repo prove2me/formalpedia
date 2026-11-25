@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LevyStochCalc_Poisson_Compensated_indepFun_past_compensated_box
 -- name    : LevyStochCalc.Poisson.Compensated.indepFun_past_compensated_box
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-19T17:04:57.979149+00:00
 -- url     : https://prove2.me/theorems/db9885bb-f1d7-4614-ad02-f345ee53901c

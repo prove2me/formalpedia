@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_scalarWidthBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.scalarWidthBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:45:06.255163+00:00
 -- url     : https://prove2.me/theorems/fbab8e1d-2011-417d-8161-eb120e7cf3fe

@@ -62163,7 +62163,7 @@
 {"parent": "ReciprocityTheory.AnForm.M.locDens_cons_rsmul", "child": "ReciprocityTheory_AnalyticForms_PotentialTheory_IsPotentialPullbackStatement", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_LocalFields_AbstractLocalReciprocity_FunctorialityTransfer", "child": "GroundTheory.LocalField.Abstract.galRestrict_mk", "via": ["statement"]}
 {"parent": "GroundTheory_LocalFields_AbstractLocalReciprocity_FunctorialityTransfer", "child": "GroundTheory_LocalFields_AbstractLocalReciprocity_FunctorialityNorm", "via": ["statement"]}
-{"parent": "Arxiv2011_11825.output_intensity_expansion", "child": "Arxiv2011_11825_Basic", "via": ["statement"]}
+{"parent": "Arxiv2011_11825.output_intensity_expansion", "child": "Arxiv2011_11825_Basic", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.submatrix_finsetSum", "child": "ReciprocityTheory_AnalyticForms_MaIntEmpty", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.submatrix_finsetSum", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_PartsSt", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.M.PLC.plc_local", "child": "ReciprocityTheory_AnalyticForms_PotentialTheory_PLCurveB", "via": ["statement"]}
@@ -62607,7 +62607,7 @@
 {"parent": "ReciprocityTheory.AnForm.A.uPair_contDiff", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_LogInt", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.uPair_contDiff", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_GreenCoord", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.uPair_contDiff", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_LeviOneEqLaplacianThm", "via": ["solution", "statement"]}
-{"parent": "Arxiv2011_11825.output_intensity_segment_regrouping", "child": "Arxiv2011_11825_Basic", "via": ["statement"]}
+{"parent": "Arxiv2011_11825.output_intensity_segment_regrouping", "child": "Arxiv2011_11825_Basic", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.pm_exists_gram_add_of_posDef", "child": "ReciprocityTheory_AnalyticForms_MaIntEmpty", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.A.pm_exists_gram_add_of_posDef", "child": "ReciprocityTheory_AnalyticForms_PlurisubharmonicFunctions_MdiscPos", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.LocalField.ratCircleChar_eq_one_iff", "child": "GroundTheory_LocalFields_LocalFourier", "via": ["solution", "statement"]}
@@ -62893,7 +62893,7 @@
 {"parent": "PI.RhsWLim.W.one_of_le", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeightedLimitGauge_ConstCut", "via": ["solution", "statement"]}
 {"parent": "PI.RhsWLim.W.one_of_le", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeightedLimitGauge_HaarUniq", "via": ["solution", "statement"]}
 {"parent": "PI.RhsWLim.W.one_of_le", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeightedLimitGauge_Unimod", "via": ["solution", "statement"]}
-{"parent": "Arxiv2011_11825.output_intensity_four_regions", "child": "Arxiv2011_11825_Basic", "via": ["statement"]}
+{"parent": "Arxiv2011_11825.output_intensity_four_regions", "child": "Arxiv2011_11825_Basic", "via": ["solution", "statement"]}
 {"parent": "HatGuessing_PalomarSolution", "child": "HatAffineFullTheorem_GeneralNoGo", "via": ["statement"]}
 {"parent": "ReciprocityTheory.AnForm.M.dI_sum_ind_le", "child": "ReciprocityTheory_AnalyticForms_PotentialTheory_DegreeIntA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.AnForm.M.dI_sum_ind_le", "child": "ReciprocityTheory_AnalyticForms_PotentialTheory_DegreeIntB", "via": ["solution", "statement"]}

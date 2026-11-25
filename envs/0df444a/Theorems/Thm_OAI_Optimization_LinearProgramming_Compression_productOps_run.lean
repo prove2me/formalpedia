@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_productOps_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.productOps_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:35.10836+00:00
 -- url     : https://prove2.me/theorems/1714a74c-34ba-4f66-b258-e0d937bb7a71

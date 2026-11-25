@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgebraicGeometry_Scheme_etale_cohomology_affineLine_of_isAlgClosed
 -- name    : AlgebraicGeometry.Scheme.etale_cohomology_affineLine_of_isAlgClosed
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-24T23:04:06.966908+00:00
 -- url     : https://prove2.me/theorems/0a485bf0-0df2-4ddc-b68a-4b19ef8cfe13

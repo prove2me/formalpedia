@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_packetRationalParts_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.packetRationalParts_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:47:46.644487+00:00
 -- url     : https://prove2.me/theorems/b86bb449-1d88-4ae1-868b-e7671042a0a5

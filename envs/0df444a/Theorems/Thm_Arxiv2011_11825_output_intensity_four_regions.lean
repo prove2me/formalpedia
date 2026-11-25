@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2011_11825_output_intensity_four_regions
 -- name    : Arxiv2011_11825.output_intensity_four_regions
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:17:21.169601+00:00
 -- url     : https://prove2.me/theorems/d50162e2-c84b-5822-b442-580d1b7a05a4

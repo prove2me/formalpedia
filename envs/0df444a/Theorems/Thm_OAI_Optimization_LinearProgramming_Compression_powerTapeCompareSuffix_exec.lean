@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_powerTapeCompareSuffix_exec
 -- name    : OAI.Optimization.LinearProgramming.Compression.powerTapeCompareSuffix_exec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:11.497614+00:00
 -- url     : https://prove2.me/theorems/c223f626-f648-44d5-b679-6e163e34b577

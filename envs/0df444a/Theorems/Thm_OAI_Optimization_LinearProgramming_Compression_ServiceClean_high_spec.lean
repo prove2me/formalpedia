@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_ServiceClean_high_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.ServiceClean.high_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:48:50.395708+00:00
 -- url     : https://prove2.me/theorems/4f795e80-9d9d-5b9c-a371-aa8bc9eb186c

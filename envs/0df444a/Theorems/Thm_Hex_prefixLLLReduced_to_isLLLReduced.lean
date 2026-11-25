@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_prefixLLLReduced_to_isLLLReduced
 -- name    : Hex.prefixLLLReduced_to_isLLLReduced
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:49:19.33589+00:00
 -- url     : https://prove2.me/theorems/004dff48-7f4c-53db-bf79-1fbcc12096e2

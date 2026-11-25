@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_smallProxyPackBlock_spec
 -- name    : OAI.Optimization.LinearProgramming.Compression.smallProxyPackBlock_spec
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:48.447804+00:00
 -- url     : https://prove2.me/theorems/ae061ee0-5fe1-5b3a-a3cd-43e444493bee

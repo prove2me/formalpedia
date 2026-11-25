@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CosmologyFLRW_lt_of_mem_I_of_decelerating
 -- name    : CosmologyFLRW.lt_of_mem_I_of_decelerating
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T02:07:21.058621+00:00
 -- url     : https://prove2.me/theorems/034dc434-f8b5-43f1-a2db-e278912b7e86

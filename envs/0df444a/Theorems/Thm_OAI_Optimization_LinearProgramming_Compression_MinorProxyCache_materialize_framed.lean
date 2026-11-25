@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_MinorProxyCache_materialize_framed
 -- name    : OAI.Optimization.LinearProgramming.Compression.MinorProxyCache.materialize_framed
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:37:20.09749+00:00
 -- url     : https://prove2.me/theorems/253c8e4c-da24-56c7-80ab-8d8ceabbd2c6

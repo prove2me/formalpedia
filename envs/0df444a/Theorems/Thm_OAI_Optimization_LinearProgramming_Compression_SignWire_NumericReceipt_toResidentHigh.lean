@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_SignWire_NumericReceipt_toResidentHigh
 -- name    : OAI.Optimization.LinearProgramming.Compression.SignWire.NumericReceipt.toResidentHigh
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:32.269207+00:00
 -- url     : https://prove2.me/theorems/3ddb0c83-727e-5d72-b87a-45f72e71d71b

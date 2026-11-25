@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv2011_11825_output_intensity_segment_regrouping
 -- name    : Arxiv2011_11825.output_intensity_segment_regrouping
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T09:16:52.10926+00:00
 -- url     : https://prove2.me/theorems/69a98980-6aa4-40c7-968a-ef3e443090dd

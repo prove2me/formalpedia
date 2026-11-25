@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hex_GramSchmidt_Int_gramDet_rowAdd_earlier
 -- name    : Hex.GramSchmidt.Int.gramDet_rowAdd_earlier
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:43:11.257812+00:00
 -- url     : https://prove2.me/theorems/ade59f44-79d5-4af9-81ed-33b0b71bde2c

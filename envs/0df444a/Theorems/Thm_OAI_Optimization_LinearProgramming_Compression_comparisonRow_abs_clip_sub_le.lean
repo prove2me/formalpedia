@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_comparisonRow_abs_clip_sub_le
 -- name    : OAI.Optimization.LinearProgramming.Compression.comparisonRow_abs_clip_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:06.591231+00:00
 -- url     : https://prove2.me/theorems/60e0180f-3603-450a-bab6-297c96194050

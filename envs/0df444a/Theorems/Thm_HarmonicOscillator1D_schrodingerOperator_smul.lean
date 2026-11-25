@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicOscillator1D_schrodingerOperator_smul
 -- name    : HarmonicOscillator1D.schrodingerOperator_smul
--- status  : Open
+-- status  : Proved
 -- author  : @LG
 -- created : 2026-11-25T01:56:03.648255+00:00
 -- url     : https://prove2.me/theorems/b681edab-ad0f-5109-8722-16296b43fa6f

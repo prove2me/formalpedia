@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_logProxyProgram_cached_scalarBound
 -- name    : OAI.Optimization.LinearProgramming.Compression.logProxyProgram_cached_scalarBound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:37:53.793357+00:00
 -- url     : https://prove2.me/theorems/9d4e5faf-2951-4b2f-928b-6cc7a4304a92

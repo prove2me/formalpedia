@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_loopStep
 -- name    : OAI.Optimization.LinearProgramming.Compression.loopStep
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:40:19.635963+00:00
 -- url     : https://prove2.me/theorems/f38ee1b6-6630-5447-aeb2-24c35b6a407a

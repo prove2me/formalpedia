@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_boundedSum_bounds
 -- name    : OAI.Optimization.LinearProgramming.Compression.boundedSum_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:50:04.806813+00:00
 -- url     : https://prove2.me/theorems/25d953d6-61ee-560a-b503-831d794e0eb9

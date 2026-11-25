@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_FieldTransfer_ProxyPacking_emitRow_correct
 -- name    : OAI.Optimization.LinearProgramming.FieldTransfer.ProxyPacking.emitRow_correct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:46:41.418191+00:00
 -- url     : https://prove2.me/theorems/79477bee-5b95-5842-b09b-7cdb5ebb0920

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_prepared_raw_shape
 -- name    : OAI.Optimization.LinearProgramming.Compression.prepared_raw_shape
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:39.460672+00:00
 -- url     : https://prove2.me/theorems/b6facde3-51f2-5301-8cfa-874dc4eb7172

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_symbolicCache_nonempty
 -- name    : OAI.Optimization.LinearProgramming.Compression.symbolicCache_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:44:11.356356+00:00
 -- url     : https://prove2.me/theorems/118398a4-0b9c-53b0-9b17-07b27d047106

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_ResidentInstall_scatterResidentLoop_eval
 -- name    : OAI.Optimization.LinearProgramming.Compression.ResidentInstall.scatterResidentLoop_eval
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:38:53.046252+00:00
 -- url     : https://prove2.me/theorems/28d7a98c-2b74-4985-bfbe-4bde7707a0ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_MinorProxyCache_visit_run
 -- name    : OAI.Optimization.LinearProgramming.Compression.MinorProxyCache.visit_run
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:37:49.990324+00:00
 -- url     : https://prove2.me/theorems/5b9685bc-685c-4a1a-93d5-0b4b61c1e12e

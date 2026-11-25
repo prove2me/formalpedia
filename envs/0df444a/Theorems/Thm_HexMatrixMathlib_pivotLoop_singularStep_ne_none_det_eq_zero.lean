@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HexMatrixMathlib_pivotLoop_singularStep_ne_none_det_eq_zero
 -- name    : HexMatrixMathlib.pivotLoop_singularStep_ne_none_det_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:35:45.573805+00:00
 -- url     : https://prove2.me/theorems/8828ee2b-670c-4bd8-9362-0b1e80a87e4e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_Compression_logProxyProgram_field_exec_from
 -- name    : OAI.Optimization.LinearProgramming.Compression.logProxyProgram_field_exec_from
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T18:37:14.681169+00:00
 -- url     : https://prove2.me/theorems/e5748d28-c913-5072-820a-89eb10b56dc7
