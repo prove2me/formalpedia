@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_mem_sClosure_iff_reject_eq_bot
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.mem_sClosure_iff_reject_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:38:50.670741+00:00
 -- url     : https://prove2.me/theorems/f6d21e3a-cfc8-47ae-94c1-5f725cebcd73

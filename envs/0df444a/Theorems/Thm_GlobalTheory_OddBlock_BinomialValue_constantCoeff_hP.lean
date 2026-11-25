@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BinomialValue_constantCoeff_hP
 -- name    : GlobalTheory.OddBlock.BinomialValue.constantCoeff_hP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:34:23.280675+00:00
 -- url     : https://prove2.me/theorems/f3337c38-d242-4ed2-88b7-cb8cca78d30c

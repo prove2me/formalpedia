@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_joinClosureForm_natAdd_7163a214e1b9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_joinClosureForm_natAdd_7163a214e1b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:12:08.502028+00:00
 -- url     : https://prove2.me/theorems/bc1f1467-62c9-42ed-b382-2a8d8b131aa4

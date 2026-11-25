@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_MinkowskiCovolumeBound_full_9862e88ed44a
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_MinkowskiCovolumeBound_full_9862e88ed44a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:09:09.471728+00:00
 -- url     : https://prove2.me/theorems/9dbb1141-9526-4b7a-ba3b-811e0df68d17

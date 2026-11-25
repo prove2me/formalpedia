@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_locProb_push
 -- name    : Formalism.FourierDecayAlt.P.PBD.locProb_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:57:33.647686+00:00
 -- url     : https://prove2.me/theorems/d46ad83f-6ded-4938-8063-fd0635bd3bd4

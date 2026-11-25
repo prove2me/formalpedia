@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_colSq
 -- name    : PositivityTheory.Rg.BcB.E1.colSq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:24:42.572281+00:00
 -- url     : https://prove2.me/theorems/b2e8be37-12bb-4c8a-9ecd-f3d040dca3ad

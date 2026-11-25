@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_mem_DcrisL
 -- name    : GlobalTheory.FontCmp.mem_DcrisL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:28:57.650801+00:00
 -- url     : https://prove2.me/theorems/d7d361d6-6eb7-46fb-a18c-c23769e895c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetPowPairing_pair_X_mul
 -- name    : GlobalTheory.DetPowPairing.pair_X_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:33:13.138255+00:00
 -- url     : https://prove2.me/theorems/69fdb056-1d43-4e8f-823f-dd8161bfaac3

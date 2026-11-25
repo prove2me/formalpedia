@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicScaling_pairing_right_8c8b388a4a3d
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicScaling_pairing_right_8c8b388a4a3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:18:23.049289+00:00
 -- url     : https://prove2.me/theorems/f53c4206-8d82-4467-a3a2-ea76f46d3385

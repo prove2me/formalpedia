@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_character_of_facts
 -- name    : Formalism.LFunctionChainParameters.LBr2.character_of_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:39:53.930307+00:00
 -- url     : https://prove2.me/theorems/f58b8815-9e7f-4e02-9535-19d0b86d05f8

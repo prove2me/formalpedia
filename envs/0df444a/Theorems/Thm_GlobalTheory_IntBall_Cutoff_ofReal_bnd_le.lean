@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_Cutoff_ofReal_bnd_le
 -- name    : GlobalTheory.IntBall.Cutoff.ofReal_bnd_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:45:42.802026+00:00
 -- url     : https://prove2.me/theorems/ff524ff5-8a65-429e-81b4-fd716d9dc541

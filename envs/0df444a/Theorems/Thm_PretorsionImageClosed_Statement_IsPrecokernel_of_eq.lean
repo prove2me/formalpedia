@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsPrecokernel_of_eq
 -- name    : PretorsionImageClosed.Statement.IsPrecokernel.of_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:24:42.432944+00:00
 -- url     : https://prove2.me/theorems/d423fc85-cf7e-46d1-963d-774783d8c59c

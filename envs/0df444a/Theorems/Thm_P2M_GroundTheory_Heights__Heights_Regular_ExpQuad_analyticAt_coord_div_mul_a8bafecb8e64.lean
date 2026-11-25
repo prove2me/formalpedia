@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_analyticAt_coord_div_mul_a8bafecb8e64
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_analyticAt_coord_div_mul_a8bafecb8e64
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:04.665865+00:00
 -- url     : https://prove2.me/theorems/0fdd9926-1faf-4f59-90cc-e575cdde57c1

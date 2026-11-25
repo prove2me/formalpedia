@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedLocSec_cdm_qrefl
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedLocSec.cdm_qrefl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:46:43.581125+00:00
 -- url     : https://prove2.me/theorems/8d169fa6-bfb6-4345-a2bf-ceeada9bb424

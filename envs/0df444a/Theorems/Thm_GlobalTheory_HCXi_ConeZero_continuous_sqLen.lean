@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeZero_continuous_sqLen
 -- name    : GlobalTheory.HCXi.ConeZero.continuous_sqLen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:33:30.367166+00:00
 -- url     : https://prove2.me/theorems/5cf639e6-2e2f-5d58-9405-64512382096a

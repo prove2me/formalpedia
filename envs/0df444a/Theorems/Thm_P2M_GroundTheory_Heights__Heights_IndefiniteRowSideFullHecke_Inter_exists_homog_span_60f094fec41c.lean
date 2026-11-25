@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_exists_homog_span_60f094fec41c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_exists_homog_span_60f094fec41c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:22:39.357407+00:00
 -- url     : https://prove2.me/theorems/6159d8cc-6693-4af1-ae85-ddddcfe6cd38

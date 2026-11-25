@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_aeval_memI_576bd686c249
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_aeval_memI_576bd686c249
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:48:36.427968+00:00
 -- url     : https://prove2.me/theorems/0500ac41-1a5f-4ae1-9fe3-52aa9350679e

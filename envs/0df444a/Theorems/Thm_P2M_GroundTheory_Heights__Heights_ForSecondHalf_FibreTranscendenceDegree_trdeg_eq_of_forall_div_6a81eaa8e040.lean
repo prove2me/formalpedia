@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreTranscendenceDegree_trdeg_eq_of_forall_div_6a81eaa8e040
 -- name    : P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreTranscendenceDegree_trdeg_eq_of_forall_div_6a81eaa8e040
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:48:55.768707+00:00
 -- url     : https://prove2.me/theorems/d034fc77-c9e4-501c-8500-f43f855ec40d

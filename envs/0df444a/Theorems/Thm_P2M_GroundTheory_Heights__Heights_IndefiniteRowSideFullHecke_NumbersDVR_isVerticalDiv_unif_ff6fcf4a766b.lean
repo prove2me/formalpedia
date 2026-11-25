@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_isVerticalDiv_unif_ff6fcf4a766b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_NumbersDVR_isVerticalDiv_unif_ff6fcf4a766b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:02:53.258122+00:00
 -- url     : https://prove2.me/theorems/799bd120-0687-50f1-b5b1-01c332118991

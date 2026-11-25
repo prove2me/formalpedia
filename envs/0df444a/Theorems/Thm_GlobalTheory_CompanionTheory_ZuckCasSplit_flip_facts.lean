@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ZuckCasSplit_flip_facts
 -- name    : GlobalTheory.CompanionTheory.ZuckCasSplit.flip_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:23:10.813522+00:00
 -- url     : https://prove2.me/theorems/993354ec-625f-59ae-a2ba-414efaa4ded1

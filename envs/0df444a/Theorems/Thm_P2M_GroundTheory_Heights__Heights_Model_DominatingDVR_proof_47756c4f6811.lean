@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_DominatingDVR_proof_47756c4f6811
 -- name    : P2M_GroundTheory_Heights__Heights_Model_DominatingDVR_proof_47756c4f6811
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:38.143808+00:00
 -- url     : https://prove2.me/theorems/dff7fbaa-27f4-4b03-b1f4-99f3726cf294

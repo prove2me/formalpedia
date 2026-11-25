@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_analytic_third_to_second
 -- name    : Formalism.LFunctionChainParameters.LChain6.analytic_third_to_second
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:45:57.271778+00:00
 -- url     : https://prove2.me/theorems/800dc3f6-1c2f-551b-86cf-c7bb80271d19

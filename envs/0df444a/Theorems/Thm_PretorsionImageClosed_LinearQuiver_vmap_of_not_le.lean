@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_vmap_of_not_le
 -- name    : PretorsionImageClosed.LinearQuiver.vmap_of_not_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:00:14.29617+00:00
 -- url     : https://prove2.me/theorems/94bfba03-f31c-5cf5-819c-b8fa0176c03a

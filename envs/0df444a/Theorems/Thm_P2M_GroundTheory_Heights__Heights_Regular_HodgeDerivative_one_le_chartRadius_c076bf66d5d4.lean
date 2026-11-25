@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_one_le_chartRadius_c076bf66d5d4
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_one_le_chartRadius_c076bf66d5d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:18:36.940558+00:00
 -- url     : https://prove2.me/theorems/a37cf3b6-d882-48e2-a230-17f2071c9129

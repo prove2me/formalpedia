@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_FibreMultiHomogeneous_component_mem_d0b72ecac493
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_FibreMultiHomogeneous_component_mem_d0b72ecac493
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:02:34.773149+00:00
 -- url     : https://prove2.me/theorems/903a1b4a-f390-4e59-8fc5-5f7d9cc7c725

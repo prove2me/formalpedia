@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_NGCut_SplitEmbedding_box_fundT
 -- name    : Formalism.L2.SG.NGCut.SplitEmbedding.box_fundT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:31:46.5328+00:00
 -- url     : https://prove2.me/theorems/00fef3a5-a9e2-4a8d-b2b9-464da6ab5dd1

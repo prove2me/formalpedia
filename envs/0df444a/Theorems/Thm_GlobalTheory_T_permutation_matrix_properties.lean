@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_permutation_matrix_properties
 -- name    : GlobalTheory.T.permutation_matrix_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:19:25.913333+00:00
 -- url     : https://prove2.me/theorems/38c05ce8-f1b2-4d96-8f5b-c846560db442

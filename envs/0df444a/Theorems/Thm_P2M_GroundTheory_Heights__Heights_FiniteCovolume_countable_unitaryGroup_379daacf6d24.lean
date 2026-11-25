@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_countable_unitaryGroup_379daacf6d24
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_countable_unitaryGroup_379daacf6d24
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:19:28.495039+00:00
 -- url     : https://prove2.me/theorems/5b59e00a-07d4-4944-beb2-2849bd2708ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_psumIdeal_le_ker_3e0fba5eabdb
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_psumIdeal_le_ker_3e0fba5eabdb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:18:47.697802+00:00
 -- url     : https://prove2.me/theorems/5a1a453d-49b5-4f5e-adea-dd4be6a25740

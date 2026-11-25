@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sgStarBasic
 -- name    : Formalism.L2.Th1.F.sgStarBasic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:46:44.507738+00:00
 -- url     : https://prove2.me/theorems/dde73aa4-107c-474c-96ec-ea5703b8e94a

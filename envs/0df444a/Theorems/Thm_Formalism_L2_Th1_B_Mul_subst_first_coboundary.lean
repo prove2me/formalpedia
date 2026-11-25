@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_subst_first_coboundary
 -- name    : Formalism.L2.Th1.B.Mul.subst_first_coboundary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:27:47.74481+00:00
 -- url     : https://prove2.me/theorems/82e3379b-ea25-533d-8ebb-751365675f44

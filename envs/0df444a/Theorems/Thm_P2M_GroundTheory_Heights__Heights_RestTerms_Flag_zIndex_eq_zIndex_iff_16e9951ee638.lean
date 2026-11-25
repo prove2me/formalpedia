@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_zIndex_eq_zIndex_iff_16e9951ee638
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_zIndex_eq_zIndex_iff_16e9951ee638
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:19:57.614592+00:00
 -- url     : https://prove2.me/theorems/da9208d4-f81e-46d9-8e2a-684f235209a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitLemma_residuallyUnipotent_cayleyTransform
 -- name    : GlobalTheory.T.unitLemma_residuallyUnipotent_cayleyTransform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:08:47.303213+00:00
 -- url     : https://prove2.me/theorems/6cb45075-7eb6-41b1-a255-5164d79ed14d

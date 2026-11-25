@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegRadialWeight_hasCompactSupport_radial_9dbe1033b1d5
 -- name    : P2M_GroundTheory_Heights__Heights_RegRadialWeight_hasCompactSupport_radial_9dbe1033b1d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:17:41.04017+00:00
 -- url     : https://prove2.me/theorems/4574f6b3-7ab9-586b-b69a-30adbfa69848

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_HookSum_card_hookShape_20885ef91065
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_HookSum_card_hookShape_20885ef91065
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:10.343817+00:00
 -- url     : https://prove2.me/theorems/3aa19eae-8a74-4be0-a838-f61872b5fa47

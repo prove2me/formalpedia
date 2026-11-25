@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_measurable_polarIntegrand_e6a977039675
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_measurable_polarIntegrand_e6a977039675
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:27.066327+00:00
 -- url     : https://prove2.me/theorems/9cb1bae3-72d6-478f-9106-1a92ee87ba09

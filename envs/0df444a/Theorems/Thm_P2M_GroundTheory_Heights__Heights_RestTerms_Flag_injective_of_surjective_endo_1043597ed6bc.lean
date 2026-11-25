@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_injective_of_surjective_endo_1043597ed6bc
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_injective_of_surjective_endo_1043597ed6bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:53.23717+00:00
 -- url     : https://prove2.me/theorems/519b3c32-d4c0-5e16-9825-cc26a77f46d8

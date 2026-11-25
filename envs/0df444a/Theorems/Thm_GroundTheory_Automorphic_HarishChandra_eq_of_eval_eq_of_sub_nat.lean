@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_eq_of_eval_eq_of_sub_nat
 -- name    : GroundTheory.Automorphic.HarishChandra.eq_of_eval_eq_of_sub_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:04:13.207681+00:00
 -- url     : https://prove2.me/theorems/25a28a76-132b-4d28-babf-faa32022e221

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_PeriodPolydisc_tau_shifted_transpose_3683cff9c7b5
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_PeriodPolydisc_tau_shifted_transpose_3683cff9c7b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:17:40.607928+00:00
 -- url     : https://prove2.me/theorems/dbae05e1-c280-59b7-aabe-3f6dabe0faa2

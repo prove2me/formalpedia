@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_fSum_succ_eq
 -- name    : PretorsionImageClosed.LinearQuiver.fSum_succ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:22:08.249449+00:00
 -- url     : https://prove2.me/theorems/11f02b44-7adb-536b-99dc-27f8a9483a52

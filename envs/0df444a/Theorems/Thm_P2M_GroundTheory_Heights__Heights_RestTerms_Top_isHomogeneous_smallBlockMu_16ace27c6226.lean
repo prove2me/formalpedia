@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_isHomogeneous_smallBlockMu_16ace27c6226
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_isHomogeneous_smallBlockMu_16ace27c6226
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:39.345213+00:00
 -- url     : https://prove2.me/theorems/476f9b9d-5676-5c4f-9a22-d0146ce1bff3

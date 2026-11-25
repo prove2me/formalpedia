@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_logNorm_hasFDerivAt_5a4ea0d5a7ec
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_logNorm_hasFDerivAt_5a4ea0d5a7ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:17:57.748664+00:00
 -- url     : https://prove2.me/theorems/99092fc0-2cbe-43e5-823d-d72b3b34265b

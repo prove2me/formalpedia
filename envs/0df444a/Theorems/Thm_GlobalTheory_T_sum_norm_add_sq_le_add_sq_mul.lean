@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sum_norm_add_sq_le_add_sq_mul
 -- name    : GlobalTheory.T.sum_norm_add_sq_le_add_sq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:40:09.159972+00:00
 -- url     : https://prove2.me/theorems/99c1972c-f79d-4154-b3cf-6e03ebcac76a

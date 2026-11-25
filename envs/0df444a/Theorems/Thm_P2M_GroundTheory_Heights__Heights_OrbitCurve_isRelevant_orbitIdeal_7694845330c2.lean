@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCurve_isRelevant_orbitIdeal_7694845330c2
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCurve_isRelevant_orbitIdeal_7694845330c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:15:30.834355+00:00
 -- url     : https://prove2.me/theorems/37365c29-58d3-4025-9626-565cec8a94ec

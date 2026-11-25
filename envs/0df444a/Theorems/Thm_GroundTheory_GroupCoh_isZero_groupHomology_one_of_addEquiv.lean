@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_groupHomology_one_of_addEquiv
 -- name    : GroundTheory.GroupCoh.isZero_groupHomology_one_of_addEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:26.742861+00:00
 -- url     : https://prove2.me/theorems/36a835c6-3020-4551-8924-ee351b80c258

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleChartSection_eval_eq_zero_of_mem_projIdeal_423451969e42
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleChartSection_eval_eq_zero_of_mem_projIdeal_423451969e42
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:12:25.396429+00:00
 -- url     : https://prove2.me/theorems/ba004c0b-7313-5f58-b73c-a19f02a6a80c

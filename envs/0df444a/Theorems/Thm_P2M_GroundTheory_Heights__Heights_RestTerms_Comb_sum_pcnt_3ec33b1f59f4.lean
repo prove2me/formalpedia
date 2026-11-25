@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_sum_pcnt_3ec33b1f59f4
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_sum_pcnt_3ec33b1f59f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:19:09.317964+00:00
 -- url     : https://prove2.me/theorems/d7bcbed3-5254-5f50-a547-3ee161163266

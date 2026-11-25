@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectiveStandardMassAtPoint_h_eq_68d4caf462fc
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectiveStandardMassAtPoint_h_eq_68d4caf462fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:16:29.029796+00:00
 -- url     : https://prove2.me/theorems/6875131d-1887-4e65-beae-bc1444e09d98

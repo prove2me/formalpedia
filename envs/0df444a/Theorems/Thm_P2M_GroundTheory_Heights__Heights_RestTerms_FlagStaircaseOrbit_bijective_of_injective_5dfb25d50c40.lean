@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagStaircaseOrbit_bijective_of_injective_5dfb25d50c40
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagStaircaseOrbit_bijective_of_injective_5dfb25d50c40
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:19:47.841004+00:00
 -- url     : https://prove2.me/theorems/66d58886-57d4-453c-9d20-51f7ffeff3f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_isOpen_punctured_dcac2e073bda
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_isOpen_punctured_dcac2e073bda
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:17:13.824096+00:00
 -- url     : https://prove2.me/theorems/9784e319-3c63-46dc-93d5-4a16a0846a47

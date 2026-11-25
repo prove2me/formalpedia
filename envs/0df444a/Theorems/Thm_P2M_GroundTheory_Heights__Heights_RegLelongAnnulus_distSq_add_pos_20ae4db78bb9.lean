@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_distSq_add_pos_20ae4db78bb9
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_distSq_add_pos_20ae4db78bb9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:16:22.503802+00:00
 -- url     : https://prove2.me/theorems/ad08f484-2c3f-5593-b12e-edff56f9d5b0

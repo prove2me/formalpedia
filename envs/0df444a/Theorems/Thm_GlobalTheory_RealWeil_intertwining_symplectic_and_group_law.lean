@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_intertwining_symplectic_and_group_law
 -- name    : GlobalTheory.RealWeil.intertwining_symplectic_and_group_law
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:16:28.052485+00:00
 -- url     : https://prove2.me/theorems/f6ed4a72-05bc-4aa0-bbd4-a1f57535edf1

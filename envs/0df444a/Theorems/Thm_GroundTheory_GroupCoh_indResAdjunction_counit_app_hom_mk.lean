@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_indResAdjunction_counit_app_hom_mk
 -- name    : GroundTheory.GroupCoh.indResAdjunction_counit_app_hom_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:29:05.524085+00:00
 -- url     : https://prove2.me/theorems/95f0714e-430c-4a7c-aa01-b5d11877b784

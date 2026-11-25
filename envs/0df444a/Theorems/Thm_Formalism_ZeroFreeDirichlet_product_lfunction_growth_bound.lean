@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_product_lfunction_growth_bound
 -- name    : Formalism.ZeroFreeDirichlet.product_lfunction_growth_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T10:44:16.174799+00:00
 -- url     : https://prove2.me/theorems/359e9eeb-871a-438a-a951-3bffb1b87492

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingPow_component_mul_right_0c0b5ca4a739
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingPow_component_mul_right_0c0b5ca4a739
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:41:33.713923+00:00
 -- url     : https://prove2.me/theorems/4732d247-6883-4e3a-ac37-12e06c273af5

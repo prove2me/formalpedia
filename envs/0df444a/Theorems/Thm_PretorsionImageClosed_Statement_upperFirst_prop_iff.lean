@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_upperFirst_prop_iff
 -- name    : PretorsionImageClosed.Statement.upperFirst_prop_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:14:42.029038+00:00
 -- url     : https://prove2.me/theorems/28a89737-68a1-59a9-9679-4bdfea302ae5

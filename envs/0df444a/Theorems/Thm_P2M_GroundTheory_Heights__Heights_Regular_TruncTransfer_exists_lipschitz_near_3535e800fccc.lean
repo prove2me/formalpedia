@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_exists_lipschitz_near_3535e800fccc
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_exists_lipschitz_near_3535e800fccc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:19:36.373796+00:00
 -- url     : https://prove2.me/theorems/330d8b89-9ed8-4233-ac5d-b61d502d7187

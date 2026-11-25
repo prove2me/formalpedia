@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_wigner_extreme_ne_zero
 -- name    : GlobalTheory.WigSh.wigner_extreme_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:39:26.239659+00:00
 -- url     : https://prove2.me/theorems/411093b1-b111-5489-b520-db909b823400

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_levi_lower_bound_of_isCompact_bb98515e5025
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_levi_lower_bound_of_isCompact_bb98515e5025
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:18:38.640285+00:00
 -- url     : https://prove2.me/theorems/38edf1cd-1407-4984-bf6d-7961357555d2

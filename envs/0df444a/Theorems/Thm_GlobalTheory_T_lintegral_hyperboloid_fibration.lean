@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_lintegral_hyperboloid_fibration
 -- name    : GlobalTheory.T.lintegral_hyperboloid_fibration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:56:22.08943+00:00
 -- url     : https://prove2.me/theorems/0329c861-5b93-585b-80a4-52744ebeb0e4

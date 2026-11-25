@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplReduceConj_ends_rank_three_of_local_467a38211808
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplReduceConj_ends_rank_three_of_local_467a38211808
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:13:50.943366+00:00
 -- url     : https://prove2.me/theorems/758d1d32-9e8b-49d9-b69c-05fda82fc36b

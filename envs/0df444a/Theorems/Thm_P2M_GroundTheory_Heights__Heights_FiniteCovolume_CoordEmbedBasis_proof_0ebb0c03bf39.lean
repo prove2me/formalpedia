@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_CoordEmbedBasis_proof_0ebb0c03bf39
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_CoordEmbedBasis_proof_0ebb0c03bf39
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:53:50.091959+00:00
 -- url     : https://prove2.me/theorems/3bd662ee-acfa-442b-9a4a-2184a1550788

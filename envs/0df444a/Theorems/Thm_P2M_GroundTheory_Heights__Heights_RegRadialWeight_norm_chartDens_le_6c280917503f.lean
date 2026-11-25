@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegRadialWeight_norm_chartDens_le_6c280917503f
 -- name    : P2M_GroundTheory_Heights__Heights_RegRadialWeight_norm_chartDens_le_6c280917503f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:19:28.888261+00:00
 -- url     : https://prove2.me/theorems/400d05ff-7394-4cae-894b-30f8d46c8354

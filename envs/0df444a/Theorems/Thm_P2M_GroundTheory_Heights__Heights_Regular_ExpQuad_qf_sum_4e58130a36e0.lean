@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_qf_sum_4e58130a36e0
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_qf_sum_4e58130a36e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:17:19.675638+00:00
 -- url     : https://prove2.me/theorems/b5091d70-1f81-48cc-b829-f0be1b5b8bf5

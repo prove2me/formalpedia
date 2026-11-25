@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_s_points_kpt
 -- name    : GlobalTheory.s_points_kpt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:21:26.063469+00:00
 -- url     : https://prove2.me/theorems/ddef95a4-ae00-41d4-a76e-8504dd2f0c18

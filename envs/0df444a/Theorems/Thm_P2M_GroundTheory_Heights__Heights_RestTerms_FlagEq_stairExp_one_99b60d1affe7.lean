@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_stairExp_one_99b60d1affe7
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_stairExp_one_99b60d1affe7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:19:42.403847+00:00
 -- url     : https://prove2.me/theorems/14e8e819-8c24-4350-b09f-e019cc67a695

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_quasiReflection_mulVec_eq
 -- name    : GlobalTheory.exists_quasiReflection_mulVec_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:33:20.39094+00:00
 -- url     : https://prove2.me/theorems/4164375d-e980-5acf-b012-ec6a82b3103e

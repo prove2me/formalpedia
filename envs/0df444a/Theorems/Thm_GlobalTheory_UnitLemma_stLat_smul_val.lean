@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_stLat_smul_val
 -- name    : GlobalTheory.UnitLemma.stLat_smul_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:29:15.643557+00:00
 -- url     : https://prove2.me/theorems/21d969e1-8e95-5c96-bb2c-31a69af1949a

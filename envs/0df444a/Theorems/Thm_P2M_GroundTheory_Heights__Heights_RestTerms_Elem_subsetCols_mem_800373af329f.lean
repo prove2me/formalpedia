@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_subsetCols_mem_800373af329f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_subsetCols_mem_800373af329f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:19:00.706151+00:00
 -- url     : https://prove2.me/theorems/9e0c2364-3329-45b2-bd10-b2185441e607

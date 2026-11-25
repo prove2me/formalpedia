@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_abs_annWeight_le_408cf7b69dc2
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_abs_annWeight_le_408cf7b69dc2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:27.291077+00:00
 -- url     : https://prove2.me/theorems/b591078c-bc43-4773-a337-c462ca710d0f

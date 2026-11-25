@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCInvEntryDeriv_differentiableAt_inv_entry_edb20586853c
 -- name    : P2M_GroundTheory_Heights__Heights_MCInvEntryDeriv_differentiableAt_inv_entry_edb20586853c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:46:30.733833+00:00
 -- url     : https://prove2.me/theorems/87942c0c-01f6-4a80-b2ce-73d93e9c7090

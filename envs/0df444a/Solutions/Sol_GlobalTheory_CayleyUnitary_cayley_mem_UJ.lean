@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for GlobalTheory.CayleyUnitary.cayley_mem_UJ
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:48:11.399337+00:00
 -- url     : https://prove2.me/submissions/2dc45b5d-63c6-4a8b-8489-1817484df96c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Formalism_SatakeDualWeyl_Statement

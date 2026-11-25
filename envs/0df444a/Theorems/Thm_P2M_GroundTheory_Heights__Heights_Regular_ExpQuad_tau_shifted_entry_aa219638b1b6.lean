@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_tau_shifted_entry_aa219638b1b6
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_tau_shifted_entry_aa219638b1b6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:17:22.317832+00:00
 -- url     : https://prove2.me/theorems/27ba5b16-eb7a-5782-937f-56cc00989a5a

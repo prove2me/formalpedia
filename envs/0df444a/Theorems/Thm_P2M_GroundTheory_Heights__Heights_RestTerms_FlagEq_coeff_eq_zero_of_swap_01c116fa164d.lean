@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_coeff_eq_zero_of_swap_01c116fa164d
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_coeff_eq_zero_of_swap_01c116fa164d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:30.451371+00:00
 -- url     : https://prove2.me/theorems/9cdf10f8-ed09-4ece-8858-c55e28e32221

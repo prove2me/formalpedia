@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_hasDD_add_23cf9d873983
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_hasDD_add_23cf9d873983
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:32.741538+00:00
 -- url     : https://prove2.me/theorems/abd1cec6-9c83-4cba-a780-7536242285b0

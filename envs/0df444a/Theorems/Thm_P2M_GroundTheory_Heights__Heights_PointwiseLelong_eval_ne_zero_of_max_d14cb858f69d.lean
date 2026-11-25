@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_eval_ne_zero_of_max_d14cb858f69d
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_eval_ne_zero_of_max_d14cb858f69d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:16:36.27628+00:00
 -- url     : https://prove2.me/theorems/c6308c13-5d50-41e9-88af-974c4e6346ac

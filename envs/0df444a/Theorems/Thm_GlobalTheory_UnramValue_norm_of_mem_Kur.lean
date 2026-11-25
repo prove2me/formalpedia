@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramValue_norm_of_mem_Kur
 -- name    : GlobalTheory.UnramValue.norm_of_mem_Kur
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:49:25.997317+00:00
 -- url     : https://prove2.me/theorems/0a74e63f-d5f1-4e5b-988c-03c49178c99d

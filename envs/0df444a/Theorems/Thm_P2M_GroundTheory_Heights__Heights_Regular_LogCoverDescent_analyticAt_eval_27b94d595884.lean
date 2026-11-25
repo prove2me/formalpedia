@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_analyticAt_eval_27b94d595884
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_analyticAt_eval_27b94d595884
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:13.92253+00:00
 -- url     : https://prove2.me/theorems/0e98979c-22fc-4fee-9b20-d00ddaf8fdd8

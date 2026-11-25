@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_orbSum_eq_sum_reps
 -- name    : GlobalTheory.Mass.orbSum_eq_sum_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:33:41.786681+00:00
 -- url     : https://prove2.me/theorems/b51e4bfd-f175-42c7-a4df-4fe3912b0b2d

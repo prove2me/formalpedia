@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchPowerSumAtRootsOfUnity_rootOfUnity_isPrimitiveRoot_1a8214c21b13
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchPowerSumAtRootsOfUnity_rootOfUnity_isPrimitiveRoot_1a8214c21b13
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:20:51.867405+00:00
 -- url     : https://prove2.me/theorems/a388502e-7202-4e5f-bc80-d57be6884a2f

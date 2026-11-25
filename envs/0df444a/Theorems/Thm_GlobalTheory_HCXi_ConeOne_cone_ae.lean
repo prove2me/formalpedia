@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeOne_cone_ae
 -- name    : GlobalTheory.HCXi.ConeOne.cone_ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:49:59.71058+00:00
 -- url     : https://prove2.me/theorems/c0b04ffd-ba75-4057-8d41-5ef2a4714b24

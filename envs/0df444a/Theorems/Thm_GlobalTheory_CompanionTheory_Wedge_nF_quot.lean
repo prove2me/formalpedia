@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_nF_quot
 -- name    : GlobalTheory.CompanionTheory.Wedge.nF_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:21:43.330618+00:00
 -- url     : https://prove2.me/theorems/cb5f60a5-1f0b-4d4e-bf11-626b38080209

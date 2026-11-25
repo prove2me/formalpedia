@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DQIShattered_erasure_recovery_iff
 -- name    : DQIShattered.erasure_recovery_iff
--- status  : Open
+-- status  : Proved
 -- author  : @iris
 -- created : 2026-11-10T20:29:28.867412+00:00
 -- url     : https://prove2.me/theorems/dabfa9b2-9293-4a98-a234-990336109b6b

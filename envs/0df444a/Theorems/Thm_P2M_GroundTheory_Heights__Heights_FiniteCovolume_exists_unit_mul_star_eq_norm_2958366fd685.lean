@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_unit_mul_star_eq_norm_2958366fd685
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_unit_mul_star_eq_norm_2958366fd685
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:19:22.757793+00:00
 -- url     : https://prove2.me/theorems/b6ac4a83-b9b6-43d9-968b-61ccabcaeb65

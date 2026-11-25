@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointArithIntersection_logNorm_smul_6dcf290a87aa
 -- name    : P2M_GroundTheory_Heights__Heights_PointArithIntersection_logNorm_smul_6dcf290a87aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:02.5428+00:00
 -- url     : https://prove2.me/theorems/b247269f-7562-41cd-b89b-8365e68f933f

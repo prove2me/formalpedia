@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_f1O
 -- name    : Formalism.L2.Th1.B.f1O
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:16:41.802835+00:00
 -- url     : https://prove2.me/theorems/b134932d-32dd-49b5-b0c1-329bb83b0339

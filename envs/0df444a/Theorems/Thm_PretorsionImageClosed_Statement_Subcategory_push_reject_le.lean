@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_push_reject_le
 -- name    : PretorsionImageClosed.Statement.Subcategory.push_reject_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:54:48.297434+00:00
 -- url     : https://prove2.me/theorems/4cc6e8d8-5b64-4cda-8a5f-6e2de24ec457

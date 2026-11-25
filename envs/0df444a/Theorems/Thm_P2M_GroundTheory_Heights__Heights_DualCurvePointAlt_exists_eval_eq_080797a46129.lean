@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_exists_eval_eq_080797a46129
 -- name    : P2M_GroundTheory_Heights__Heights_DualCurvePointAlt_exists_eval_eq_080797a46129
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:39:04.036943+00:00
 -- url     : https://prove2.me/theorems/330fa540-13ff-4236-9302-7d0529aad630

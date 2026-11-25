@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WtOrth_wtNear_orth_decomp
 -- name    : GlobalTheory.WtOrth.wtNear_orth_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:56.484004+00:00
 -- url     : https://prove2.me/theorems/0a867f31-3ba5-46cf-ba12-a83fff6a6717

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_intNum_eq_zero_of_eventually_fcf290f727c4
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_intNum_eq_zero_of_eventually_fcf290f727c4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:39:11.500102+00:00
 -- url     : https://prove2.me/theorems/02a7f2fe-f18d-5308-af6c-6ca6041baf80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliWordSumExpansion_cvWordSumG
 -- name    : Formalism.FourierDecayAlt.P.CapelliWordSumExpansion.cvWordSumG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T15:29:16.356367+00:00
 -- url     : https://prove2.me/theorems/847c5efb-424f-47ea-a896-485fde31e13e

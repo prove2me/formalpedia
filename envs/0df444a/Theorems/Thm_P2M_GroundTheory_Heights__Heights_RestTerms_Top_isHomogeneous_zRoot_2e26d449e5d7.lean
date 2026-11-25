@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_isHomogeneous_zRoot_2e26d449e5d7
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_isHomogeneous_zRoot_2e26d449e5d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:43.62887+00:00
 -- url     : https://prove2.me/theorems/a2ef8506-7b3a-44ec-b43e-92f5a1fe3c23

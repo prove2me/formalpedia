@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_z_series_map_spec
 -- name    : Formalism.L2.Th1.A.z_series_map_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:08:19.258744+00:00
 -- url     : https://prove2.me/theorems/5cf6158c-7335-4a50-b83c-9857e117e29b

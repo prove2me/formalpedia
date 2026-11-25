@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_measurable_roots_enumeration
 -- name    : GlobalTheory.exists_measurable_roots_enumeration
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:55:19.808482+00:00
 -- url     : https://prove2.me/theorems/56973b1d-532d-56f4-9e7e-d5388e9ae001

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_Shuffle_shuffle_cup
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.Shuffle.shuffle_cup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:16.098139+00:00
 -- url     : https://prove2.me/theorems/1d001d76-1d08-4c07-bf6a-050bf0b8bcbb

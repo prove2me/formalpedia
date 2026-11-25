@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_convex_diff_isPreconnected_6dbd81d3253b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_convex_diff_isPreconnected_6dbd81d3253b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:20:29.157665+00:00
 -- url     : https://prove2.me/theorems/60315b41-d05a-5b59-805a-8f4238b78d17

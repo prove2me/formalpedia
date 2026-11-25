@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Quot_finiteOnCompacts_of_sigmaFinite
 -- name    : CompanionTheory.D.Upq.Quot.finiteOnCompacts_of_sigmaFinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:30:31.114718+00:00
 -- url     : https://prove2.me/theorems/028f30e1-77cc-47a0-b87f-cd066a08b109

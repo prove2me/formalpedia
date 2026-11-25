@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FramePlaneGraph_dim_sup_span_lt_659941234b1e
 -- name    : P2M_GroundTheory_Heights__Heights_FramePlaneGraph_dim_sup_span_lt_659941234b1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:59.386318+00:00
 -- url     : https://prove2.me/theorems/244ccad9-7179-4a50-99c3-92ea475a1827

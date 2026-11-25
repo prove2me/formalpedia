@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegRadialWeight_hessC_const_9ad8a3d7caf1
 -- name    : P2M_GroundTheory_Heights__Heights_RegRadialWeight_hessC_const_9ad8a3d7caf1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:17:46.565034+00:00
 -- url     : https://prove2.me/theorems/00aef08b-a0eb-59aa-8136-75fea1c908fe

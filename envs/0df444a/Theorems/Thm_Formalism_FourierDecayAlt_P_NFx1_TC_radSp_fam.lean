@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx1_TC_radSp_fam
 -- name    : Formalism.FourierDecayAlt.P.NFx1.TC.radSp_fam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:21:34.427795+00:00
 -- url     : https://prove2.me/theorems/70c9d6a1-1151-4b22-99fb-a02fdfb191bc

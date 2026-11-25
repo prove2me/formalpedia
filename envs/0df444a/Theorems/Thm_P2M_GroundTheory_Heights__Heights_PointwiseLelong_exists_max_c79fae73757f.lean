@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_exists_max_c79fae73757f
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_exists_max_c79fae73757f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:15:39.578148+00:00
 -- url     : https://prove2.me/theorems/20e6abfc-8350-4878-b72a-0459188e97ca

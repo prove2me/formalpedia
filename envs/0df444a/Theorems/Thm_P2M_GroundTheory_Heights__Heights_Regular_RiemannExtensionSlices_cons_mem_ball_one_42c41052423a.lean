@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_cons_mem_ball_one_42c41052423a
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_cons_mem_ball_one_42c41052423a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:17:21.659795+00:00
 -- url     : https://prove2.me/theorems/e3245930-0bdc-4ad2-8440-28bd0c6127ad

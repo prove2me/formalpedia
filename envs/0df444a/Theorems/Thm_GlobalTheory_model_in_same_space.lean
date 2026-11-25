@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_model_in_same_space
 -- name    : GlobalTheory.model_in_same_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:18:05.798181+00:00
 -- url     : https://prove2.me/theorems/22951721-cb28-4499-99db-d72932b1f8a6

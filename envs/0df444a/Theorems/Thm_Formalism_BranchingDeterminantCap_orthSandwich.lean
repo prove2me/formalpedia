@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_orthSandwich
 -- name    : Formalism.BranchingDeterminantCap.orthSandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:09.044018+00:00
 -- url     : https://prove2.me/theorems/eceeac09-123a-43a7-b9a5-95b74799c927

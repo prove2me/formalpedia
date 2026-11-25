@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointLine_pairing_dvd_of_vanish_9f2009f89a61
 -- name    : P2M_GroundTheory_Heights__Heights_PointLine_pairing_dvd_of_vanish_9f2009f89a61
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:14:34.417603+00:00
 -- url     : https://prove2.me/theorems/00ebda2b-decf-4406-a2b1-c50ed0d9a9b0

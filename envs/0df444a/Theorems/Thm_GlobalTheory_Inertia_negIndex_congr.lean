@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_negIndex_congr
 -- name    : GlobalTheory.Inertia.negIndex_congr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:35:24.477656+00:00
 -- url     : https://prove2.me/theorems/7c3810ac-52d9-455d-a27a-850e392a1792

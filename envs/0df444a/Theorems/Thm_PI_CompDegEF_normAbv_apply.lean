@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_normAbv_apply
 -- name    : PI.CompDegEF.normAbv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:30:48.361975+00:00
 -- url     : https://prove2.me/theorems/986769e3-5a80-4f77-a602-4d802d96dc5f

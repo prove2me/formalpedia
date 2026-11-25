@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectiveArithmeticVariety_coord_eq_6fdaee643af6
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectiveArithmeticVariety_coord_eq_6fdaee643af6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:07.10618+00:00
 -- url     : https://prove2.me/theorems/7a48b7f1-29fc-492d-8e71-8f0730a296c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_ringKrullDim_quot_map_549fa04de7a1
 -- name    : P2M_GroundTheory_Heights__Heights_Targets_ExistsUniqueRelabel_ringKrullDim_quot_map_549fa04de7a1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:26:36.625052+00:00
 -- url     : https://prove2.me/theorems/43283ad2-5f57-4144-adc2-d8f89d259478

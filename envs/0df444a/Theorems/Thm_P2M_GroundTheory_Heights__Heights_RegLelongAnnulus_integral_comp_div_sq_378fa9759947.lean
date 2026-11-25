@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_integral_comp_div_sq_378fa9759947
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_integral_comp_div_sq_378fa9759947
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:17:31.469154+00:00
 -- url     : https://prove2.me/theorems/98e65b15-c1fd-4461-b3bd-e44458b99b32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_LineStabiliser_e0_eq
 -- name    : GlobalTheory.HCXi.LineStabiliser.e0_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:19:02.828235+00:00
 -- url     : https://prove2.me/theorems/e3b46d6a-f579-4f84-b532-c522b9cd90aa

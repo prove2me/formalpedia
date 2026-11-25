@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_flagGram_density_inequality_complex
 -- name    : GlobalTheory.T.flagGram_density_inequality_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:53:17.205846+00:00
 -- url     : https://prove2.me/theorems/5fbf2140-2ef3-40dd-b288-e9a6cd1ba17a

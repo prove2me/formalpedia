@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_repr_chain_b243eed5817a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_repr_chain_b243eed5817a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:12:00.582521+00:00
 -- url     : https://prove2.me/theorems/6f66c176-f09a-47a8-8491-5f3c51d69d9e

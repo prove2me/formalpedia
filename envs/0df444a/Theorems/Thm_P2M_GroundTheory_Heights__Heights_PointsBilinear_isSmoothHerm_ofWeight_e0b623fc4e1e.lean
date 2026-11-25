@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointsBilinear_isSmoothHerm_ofWeight_e0b623fc4e1e
 -- name    : P2M_GroundTheory_Heights__Heights_PointsBilinear_isSmoothHerm_ofWeight_e0b623fc4e1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:16:29.0938+00:00
 -- url     : https://prove2.me/theorems/9a9d4467-ed48-492d-b9c7-f20f75fdfb44

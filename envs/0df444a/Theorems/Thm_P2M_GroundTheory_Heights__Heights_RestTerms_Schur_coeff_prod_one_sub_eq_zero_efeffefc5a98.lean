@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Schur_coeff_prod_one_sub_eq_zero_efeffefc5a98
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Schur_coeff_prod_one_sub_eq_zero_efeffefc5a98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:20:58.549813+00:00
 -- url     : https://prove2.me/theorems/84063e44-913e-5598-bca7-2721be2b9a0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hasUnitLeadingExpansion_sub
 -- name    : GlobalTheory.hasUnitLeadingExpansion_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:54:15.206815+00:00
 -- url     : https://prove2.me/theorems/91638764-df52-44ac-b67f-6d3c98c5deb5

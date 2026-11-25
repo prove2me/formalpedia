@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_map_Xj
 -- name    : GlobalTheory.TateDecomp.map_Xj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:54:51.046359+00:00
 -- url     : https://prove2.me/theorems/ea86b59b-e570-4218-9a42-70e5a39320ec

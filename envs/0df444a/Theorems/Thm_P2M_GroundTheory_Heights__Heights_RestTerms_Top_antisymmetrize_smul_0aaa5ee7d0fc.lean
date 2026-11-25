@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_antisymmetrize_smul_0aaa5ee7d0fc
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_antisymmetrize_smul_0aaa5ee7d0fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:20:32.978017+00:00
 -- url     : https://prove2.me/theorems/2c162acf-e8d9-4dc3-b7fb-1caeef462777

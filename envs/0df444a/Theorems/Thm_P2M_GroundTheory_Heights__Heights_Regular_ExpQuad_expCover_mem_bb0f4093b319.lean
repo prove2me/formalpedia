@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_expCover_mem_bb0f4093b319
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_expCover_mem_bb0f4093b319
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:18:25.565868+00:00
 -- url     : https://prove2.me/theorems/08ee8f96-12c1-4fc1-a763-fa86a2323bb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_zeta_norm_le_on_circle
 -- name    : Formalism.ZeroFreeDirichlet.zeta_norm_le_on_circle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:44:39.888556+00:00
 -- url     : https://prove2.me/theorems/819a2ac3-13fa-4af4-896c-d29d5e4c52b1

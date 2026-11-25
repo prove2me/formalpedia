@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Circle_noSmallSubgroups
 -- name    : GroundTheory.Global.Circle.noSmallSubgroups
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:23:49.573916+00:00
 -- url     : https://prove2.me/theorems/9dd9d59f-2720-4fb5-a8a0-65d265d91565

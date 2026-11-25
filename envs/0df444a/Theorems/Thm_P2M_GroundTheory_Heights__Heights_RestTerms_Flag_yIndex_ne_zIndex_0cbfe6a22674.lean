@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_yIndex_ne_zIndex_0cbfe6a22674
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_yIndex_ne_zIndex_0cbfe6a22674
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:20:05.258649+00:00
 -- url     : https://prove2.me/theorems/07dde4bd-a669-5b3b-a193-3d661fa54ed3

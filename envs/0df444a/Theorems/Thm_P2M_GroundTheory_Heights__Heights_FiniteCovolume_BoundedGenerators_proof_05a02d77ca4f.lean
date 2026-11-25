@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_BoundedGenerators_proof_05a02d77ca4f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_BoundedGenerators_proof_05a02d77ca4f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:00:48.992879+00:00
 -- url     : https://prove2.me/theorems/56a37f06-88ca-5c2f-80c3-4169843c8a6b

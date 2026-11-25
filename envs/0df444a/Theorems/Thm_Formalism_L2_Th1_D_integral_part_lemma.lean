@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_integral_part_lemma
 -- name    : Formalism.L2.Th1.D.integral_part_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:14:56.240903+00:00
 -- url     : https://prove2.me/theorems/4185e6bd-7717-461b-a601-f8b622909049

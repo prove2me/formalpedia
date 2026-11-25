@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_rank_comp_le_of_euclidean
 -- name    : SNumbers.rank_comp_le_of_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:37:45.746711+00:00
 -- url     : https://prove2.me/theorems/29a82edd-2374-4862-9a7c-e7cd0957c71c

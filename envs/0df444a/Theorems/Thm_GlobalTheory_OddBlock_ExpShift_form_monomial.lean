@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpShift_form_monomial
 -- name    : GlobalTheory.OddBlock.ExpShift.form_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:31:48.341342+00:00
 -- url     : https://prove2.me/theorems/75adff98-ecd7-533f-b000-5ffcacfa0926

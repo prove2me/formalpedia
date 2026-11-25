@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_rowIdx_self
 -- name    : Formalism.L2.FormalSeriesBounds.rowIdx_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:26:12.245588+00:00
 -- url     : https://prove2.me/theorems/b985e1d9-d9fc-5947-a6de-23b53404819b

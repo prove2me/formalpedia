@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_archEmbed_injective_6d08bfcd17b3
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_archEmbed_injective_6d08bfcd17b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:40:33.138454+00:00
 -- url     : https://prove2.me/theorems/b56514ac-640f-4d65-bd3a-7d35e1dbec9f

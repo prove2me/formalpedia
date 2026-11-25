@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_length_localizedQuot_eq_of_mul_le_8d87d4368795
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_length_localizedQuot_eq_of_mul_le_8d87d4368795
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:11:32.14902+00:00
 -- url     : https://prove2.me/theorems/f2c8c65c-babb-4fd6-a79c-13bce05a1fdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_integral_k__4854bf227994
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_integral_k__4854bf227994
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:18:01.097193+00:00
 -- url     : https://prove2.me/theorems/5abd4f1e-5c08-5488-a6ee-578e098e6b0d

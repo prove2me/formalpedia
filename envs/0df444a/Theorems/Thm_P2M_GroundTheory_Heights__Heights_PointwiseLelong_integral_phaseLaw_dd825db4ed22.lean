@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_integral_phaseLaw_dd825db4ed22
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_integral_phaseLaw_dd825db4ed22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:15:58.634869+00:00
 -- url     : https://prove2.me/theorems/e6ce4f80-aeb5-41b3-9d45-ee4a0fb441a9

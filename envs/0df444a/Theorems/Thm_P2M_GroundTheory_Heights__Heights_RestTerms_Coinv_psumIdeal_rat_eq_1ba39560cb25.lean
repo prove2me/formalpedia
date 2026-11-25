@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_psumIdeal_rat_eq_1ba39560cb25
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_psumIdeal_rat_eq_1ba39560cb25
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:19:09.964173+00:00
 -- url     : https://prove2.me/theorems/9d4e1e55-a2e7-4298-a30d-8001d43ac986

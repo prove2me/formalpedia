@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_rename_psum_aae3244de93b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_rename_psum_aae3244de93b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:18:41.338314+00:00
 -- url     : https://prove2.me/theorems/fcf45889-280d-4fc2-a841-d2502e38191d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KSp_isKW_isSmoothRep
 -- name    : GlobalTheory.KSp.isKW_isSmoothRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:42:52.724521+00:00
 -- url     : https://prove2.me/theorems/d11b9861-d323-42af-86df-5294904771f7

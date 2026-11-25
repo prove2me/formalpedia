@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GramEntryDeriv_proof_6d21669f8b15
 -- name    : P2M_GroundTheory_Heights__Heights_GramEntryDeriv_proof_6d21669f8b15
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:44:33.047616+00:00
 -- url     : https://prove2.me/theorems/aaa64c4c-ea4a-4d0b-b433-dc0f27f023a1

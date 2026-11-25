@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionHorizontal_isRelevant_of_le_ea828c116e8a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionHorizontal_isRelevant_of_le_ea828c116e8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:20:36.45769+00:00
 -- url     : https://prove2.me/theorems/f3beca34-6fe5-4bdd-8642-741f82e54d9c

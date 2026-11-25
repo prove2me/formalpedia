@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_coordinates_no_homogeneous_relation_of_generic_zero
 -- name    : GlobalTheory.exists_coordinates_no_homogeneous_relation_of_generic_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:57:03.093071+00:00
 -- url     : https://prove2.me/theorems/5ade1977-54d0-4239-8eb6-400769b4c197

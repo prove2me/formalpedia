@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjSecDegree_projVar_ne_zero_598ff16a16a8
 -- name    : P2M_GroundTheory_Heights__Heights_ProjSecDegree_projVar_ne_zero_598ff16a16a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:44.31094+00:00
 -- url     : https://prove2.me/theorems/a9b3fb22-7244-4ec2-9082-6bddbc8171bb

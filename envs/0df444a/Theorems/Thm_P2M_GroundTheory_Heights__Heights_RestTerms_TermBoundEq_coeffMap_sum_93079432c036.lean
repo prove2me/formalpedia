@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_TermBoundEq_coeffMap_sum_93079432c036
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_TermBoundEq_coeffMap_sum_93079432c036
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:21:38.044821+00:00
 -- url     : https://prove2.me/theorems/f32c0fbd-c290-4476-a490-4b21cef6ad3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_exists_subsetCols_eq_c3757fb2533e
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_exists_subsetCols_eq_c3757fb2533e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:19:10.105058+00:00
 -- url     : https://prove2.me/theorems/51070b73-4f3a-4617-9f48-878a9c4a3950

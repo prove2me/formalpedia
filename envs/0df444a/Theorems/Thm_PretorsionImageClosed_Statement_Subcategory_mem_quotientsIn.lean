@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_mem_quotientsIn
 -- name    : PretorsionImageClosed.Statement.Subcategory.mem_quotientsIn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:48:45.70018+00:00
 -- url     : https://prove2.me/theorems/f33145e1-9261-4b8d-a154-a5a7e118b265

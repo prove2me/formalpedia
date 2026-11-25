@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SgLoc_PtAlg_det_snoc_eq
 -- name    : GlobalTheory.SgLoc.PtAlg.det_snoc_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:30:07.029806+00:00
 -- url     : https://prove2.me/theorems/015d9cb2-5749-4a4b-9df7-7fae1204a817

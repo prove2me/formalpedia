@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_card_filter_pair_8f784f72c70f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_card_filter_pair_8f784f72c70f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:56.76482+00:00
 -- url     : https://prove2.me/theorems/6c189a38-d2bf-446f-ab4f-bfa33c85f9fc

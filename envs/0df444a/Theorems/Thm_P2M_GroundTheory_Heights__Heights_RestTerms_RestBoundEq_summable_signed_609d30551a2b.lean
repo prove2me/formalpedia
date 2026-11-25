@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_summable_signed_609d30551a2b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_summable_signed_609d30551a2b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:20:59.124479+00:00
 -- url     : https://prove2.me/theorems/ad6341fc-fd1f-4353-a6d6-1f6f6746b717

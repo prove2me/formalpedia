@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchurSignCoefficient_aeval_smul_powerSumHom_dece80d62ad1
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchurSignCoefficient_aeval_smul_powerSumHom_dece80d62ad1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:20:51.37021+00:00
 -- url     : https://prove2.me/theorems/6af6d45e-c649-4af5-bbc8-d48e834f2c55

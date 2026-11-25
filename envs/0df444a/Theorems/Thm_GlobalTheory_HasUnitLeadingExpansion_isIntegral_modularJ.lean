@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HasUnitLeadingExpansion_isIntegral_modularJ
 -- name    : GlobalTheory.HasUnitLeadingExpansion.isIntegral_modularJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:02:03.140586+00:00
 -- url     : https://prove2.me/theorems/a3ef458c-b620-4233-bd7c-76d995e81075

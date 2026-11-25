@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_isOpen_puncturedChart_cd0b4adc3a14
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_LogCoverDescent_isOpen_puncturedChart_cd0b4adc3a14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:17:43.969163+00:00
 -- url     : https://prove2.me/theorems/0b65d814-3af5-4352-8df9-f858cb153f93

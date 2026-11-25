@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_curve_weierstrass_series_eq
 -- name    : Formalism.L2.Th1.F.curve_weierstrass_series_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:59:29.412225+00:00
 -- url     : https://prove2.me/theorems/eb604bdd-24da-4a3d-a20c-d71674d30a18

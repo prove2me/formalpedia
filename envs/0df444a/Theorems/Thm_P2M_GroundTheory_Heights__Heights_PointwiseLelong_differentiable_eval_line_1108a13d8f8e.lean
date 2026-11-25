@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_differentiable_eval_line_1108a13d8f8e
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_differentiable_eval_line_1108a13d8f8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:15:20.4568+00:00
 -- url     : https://prove2.me/theorems/b0f07531-c210-4543-ae9c-2f2c846b5fd4

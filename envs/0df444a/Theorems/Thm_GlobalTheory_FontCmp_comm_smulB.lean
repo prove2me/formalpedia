@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_comm_smulB
 -- name    : GlobalTheory.FontCmp.comm_smulB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:28:52.391173+00:00
 -- url     : https://prove2.me/theorems/d42b267e-ecc4-45e2-849d-3c02b2fc2cbd

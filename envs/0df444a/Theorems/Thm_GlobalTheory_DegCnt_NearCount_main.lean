@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NearCount_main
 -- name    : GlobalTheory.DegCnt.NearCount.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:22.904816+00:00
 -- url     : https://prove2.me/theorems/e3f936d8-4558-44af-b5d3-f8f28c9d2b2c

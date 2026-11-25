@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_CombAfterPower_sum_fdb7801f7f4d
 -- name    : P2M_GroundTheory_Heights__Heights_GenericNoetherNormalisation_CombAfterPower_sum_fdb7801f7f4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:18:14.584132+00:00
 -- url     : https://prove2.me/theorems/3c4c23e0-0df2-4ab4-8cfc-3bcdc17963dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlaceCentredSum_sum_fibre_6093e33d2f1f
 -- name    : P2M_GroundTheory_Heights__Heights_PlaceCentredSum_sum_fibre_6093e33d2f1f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:15:55.682111+00:00
 -- url     : https://prove2.me/theorems/b0703037-b3ea-405c-bca0-6ede4fcba41e

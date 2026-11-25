@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_blockPermute_blockPermute_98b261a82348
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_blockPermute_blockPermute_98b261a82348
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:48.804828+00:00
 -- url     : https://prove2.me/theorems/71fc7e11-710d-4bae-a149-e8c6588c61ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_compQ_neg
 -- name    : Formalism.LFunctionChainParameters.LBr2.compQ_neg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:45:55.288052+00:00
 -- url     : https://prove2.me/theorems/3404404f-f98c-447d-a08b-10496a4d81c3

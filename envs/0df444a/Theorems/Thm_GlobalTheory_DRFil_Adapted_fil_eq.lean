@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_Adapted_fil_eq
 -- name    : GlobalTheory.DRFil.Adapted.fil_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:02:44.198496+00:00
 -- url     : https://prove2.me/theorems/b6bd9d1a-d8fb-4b2d-9172-eccc37ef41fd

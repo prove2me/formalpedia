@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RankAdjoinFrac_finrank_eq_finrank_algebraAdjoin_f7378cb62581
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RankAdjoinFrac_finrank_eq_finrank_algebraAdjoin_f7378cb62581
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:41:26.000983+00:00
 -- url     : https://prove2.me/theorems/eeaec6e2-85bd-4aec-8926-a714667c1d58

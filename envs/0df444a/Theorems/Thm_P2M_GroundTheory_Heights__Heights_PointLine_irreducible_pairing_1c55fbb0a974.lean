@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointLine_irreducible_pairing_1c55fbb0a974
 -- name    : P2M_GroundTheory_Heights__Heights_PointLine_irreducible_pairing_1c55fbb0a974
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:14:44.499076+00:00
 -- url     : https://prove2.me/theorems/3ab0e961-2b04-4231-954f-c4e613037cf7

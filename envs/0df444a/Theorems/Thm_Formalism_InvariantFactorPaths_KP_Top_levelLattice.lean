@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_levelLattice
 -- name    : Formalism.InvariantFactorPaths.KP.Top.levelLattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:39:56.760803+00:00
 -- url     : https://prove2.me/theorems/1573131f-0988-4681-9b26-1ed9b529fa5e

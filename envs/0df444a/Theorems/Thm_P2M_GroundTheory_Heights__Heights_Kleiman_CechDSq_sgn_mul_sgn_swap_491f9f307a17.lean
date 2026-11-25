@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechDSq_sgn_mul_sgn_swap_491f9f307a17
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CechDSq_sgn_mul_sgn_swap_491f9f307a17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:27:12.484073+00:00
 -- url     : https://prove2.me/theorems/6769ef00-de62-49c3-a988-8f77684f2132

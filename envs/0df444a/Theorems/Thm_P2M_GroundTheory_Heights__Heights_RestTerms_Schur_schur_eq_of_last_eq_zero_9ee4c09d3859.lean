@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Schur_schur_eq_of_last_eq_zero_9ee4c09d3859
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Schur_schur_eq_of_last_eq_zero_9ee4c09d3859
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:20:39.959956+00:00
 -- url     : https://prove2.me/theorems/916beaaa-0daf-41fa-ac4b-e1fb131139e3

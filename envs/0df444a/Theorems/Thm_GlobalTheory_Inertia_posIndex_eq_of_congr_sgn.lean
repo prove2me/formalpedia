@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_eq_of_congr_sgn
 -- name    : GlobalTheory.Inertia.posIndex_eq_of_congr_sgn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:14.7358+00:00
 -- url     : https://prove2.me/theorems/ea77172c-ebd0-41d8-99b9-e40d18e94df5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_trdeg_semigroupAlgebra_top
 -- name    : GroundTheory.Arith.Toric.trdeg_semigroupAlgebra_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:55:18.505341+00:00
 -- url     : https://prove2.me/theorems/d7793e95-be3f-504e-a195-0b8b50d93c2b

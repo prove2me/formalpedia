@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_tensor_iff
 -- name    : GlobalTheory.FontCmp.tensor_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:32:34.072876+00:00
 -- url     : https://prove2.me/theorems/81544f76-bd02-5509-bb94-132af5b5cd4a

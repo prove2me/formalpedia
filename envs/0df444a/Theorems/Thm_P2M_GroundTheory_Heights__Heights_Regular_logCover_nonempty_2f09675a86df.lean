@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_logCover_nonempty_2f09675a86df
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_logCover_nonempty_2f09675a86df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:18:04.292269+00:00
 -- url     : https://prove2.me/theorems/1f23376a-1338-5e29-8c7b-7bc7135665db

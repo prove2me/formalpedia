@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_sep_grid
 -- name    : Formalism.FourierDecayAlt.P.PBD.sep_grid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:56:27.614008+00:00
 -- url     : https://prove2.me/theorems/16bdc3d1-2a0a-4cdb-82da-8722570f0bf0

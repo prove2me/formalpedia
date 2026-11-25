@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitConjSum_exists_int_mul_3eff43bbc16e
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitConjSum_exists_int_mul_3eff43bbc16e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:15:10.220245+00:00
 -- url     : https://prove2.me/theorems/e7eb9152-8212-4265-b077-3eee44a97444

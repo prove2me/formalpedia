@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_flagIntegral_add_smul_15ff1eab2e68
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_flagIntegral_add_smul_15ff1eab2e68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:51.144295+00:00
 -- url     : https://prove2.me/theorems/7c3e1fce-ca5f-4605-bd93-fb8723d6d149

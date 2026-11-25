@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_NodeGapNoncompact_le_sub_of_nodeGapGe
 -- name    : GlobalTheory.Proof.NodeGapNoncompact.le_sub_of_nodeGapGe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:50:29.362187+00:00
 -- url     : https://prove2.me/theorems/71d67e9a-e025-5029-a896-23b1f059fd80

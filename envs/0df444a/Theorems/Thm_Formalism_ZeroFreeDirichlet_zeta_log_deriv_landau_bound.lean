@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_zeta_log_deriv_landau_bound
 -- name    : Formalism.ZeroFreeDirichlet.zeta_log_deriv_landau_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:45:06.648467+00:00
 -- url     : https://prove2.me/theorems/693eaf26-001b-4db2-a5cd-706d7f0972c8

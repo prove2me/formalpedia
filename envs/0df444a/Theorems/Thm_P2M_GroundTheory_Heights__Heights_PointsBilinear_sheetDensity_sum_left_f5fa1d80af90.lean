@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointsBilinear_sheetDensity_sum_left_f5fa1d80af90
 -- name    : P2M_GroundTheory_Heights__Heights_PointsBilinear_sheetDensity_sum_left_f5fa1d80af90
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:16:25.573795+00:00
 -- url     : https://prove2.me/theorems/c508a7cd-0a51-4519-85e5-d5e4fe21bb7c

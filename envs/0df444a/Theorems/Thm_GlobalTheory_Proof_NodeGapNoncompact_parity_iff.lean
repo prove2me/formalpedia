@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Proof_NodeGapNoncompact_parity_iff
 -- name    : GlobalTheory.Proof.NodeGapNoncompact.parity_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:29:45.084538+00:00
 -- url     : https://prove2.me/theorems/d2ccc3dd-49cf-4be7-ac16-9d58dbdc12fe

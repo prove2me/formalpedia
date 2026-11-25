@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowCasShift_rhoC_bd
 -- name    : GlobalTheory.LowCasShift.rhoC_bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:59:46.340362+00:00
 -- url     : https://prove2.me/theorems/dd45db4e-8fd0-46c1-8f90-cac170eaf78e

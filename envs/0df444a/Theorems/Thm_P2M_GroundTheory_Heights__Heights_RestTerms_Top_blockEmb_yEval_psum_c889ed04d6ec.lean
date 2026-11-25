@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_blockEmb_yEval_psum_c889ed04d6ec
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_blockEmb_yEval_psum_c889ed04d6ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:20:47.928809+00:00
 -- url     : https://prove2.me/theorems/f4d40e3e-706a-4e83-b16a-30e9554119d4

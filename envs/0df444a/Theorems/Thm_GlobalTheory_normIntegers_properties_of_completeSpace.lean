@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normIntegers_properties_of_completeSpace
 -- name    : GlobalTheory.normIntegers_properties_of_completeSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:12:19.345638+00:00
 -- url     : https://prove2.me/theorems/17a8e89a-90fd-43fb-953d-d73e57cf74ed

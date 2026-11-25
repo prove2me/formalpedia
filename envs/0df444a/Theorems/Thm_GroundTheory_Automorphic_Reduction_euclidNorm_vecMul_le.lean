@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_euclidNorm_vecMul_le
 -- name    : GroundTheory.Automorphic.Reduction.euclidNorm_vecMul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:53:04.34987+00:00
 -- url     : https://prove2.me/theorems/acc44488-b034-4318-8ed5-1d0d46a38edd

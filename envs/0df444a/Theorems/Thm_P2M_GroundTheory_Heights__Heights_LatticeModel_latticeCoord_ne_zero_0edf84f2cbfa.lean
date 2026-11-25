@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_latticeCoord_ne_zero_0edf84f2cbfa
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_latticeCoord_ne_zero_0edf84f2cbfa
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:37.238624+00:00
 -- url     : https://prove2.me/theorems/5e45cef8-a90a-41bc-ae83-ba8437560113

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_divCycle_eq_toNat_multAt_3727a3dc8d68
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_divCycle_eq_toNat_multAt_3727a3dc8d68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:09:46.111539+00:00
 -- url     : https://prove2.me/theorems/0bc29e40-a366-4db3-8b63-e11911652ab4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_grad_mem_span_406acfd04172
 -- name    : P2M_GroundTheory_Heights__Heights_JacobianRankOffHypersurface_grad_mem_span_406acfd04172
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:49:05.824615+00:00
 -- url     : https://prove2.me/theorems/8e45fe76-c28f-5d70-93a9-f44926d9597d

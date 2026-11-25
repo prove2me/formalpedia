@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegRadialWeight_maDens_swap_79fd7ac86743
 -- name    : P2M_GroundTheory_Heights__Heights_RegRadialWeight_maDens_swap_79fd7ac86743
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:20:06.796456+00:00
 -- url     : https://prove2.me/theorems/04661717-3681-424d-9f36-3d02e87eb5b2

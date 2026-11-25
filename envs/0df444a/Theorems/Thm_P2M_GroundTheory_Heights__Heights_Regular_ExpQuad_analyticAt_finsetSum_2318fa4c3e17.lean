@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_analyticAt_finsetSum_2318fa4c3e17
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_analyticAt_finsetSum_2318fa4c3e17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:09.352728+00:00
 -- url     : https://prove2.me/theorems/fc262519-dbf2-42d4-b69f-6f2d3325b620

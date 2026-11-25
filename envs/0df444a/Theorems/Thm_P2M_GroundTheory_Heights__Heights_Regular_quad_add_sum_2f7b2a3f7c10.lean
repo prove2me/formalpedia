@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_quad_add_sum_2f7b2a3f7c10
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_quad_add_sum_2f7b2a3f7c10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:58.482817+00:00
 -- url     : https://prove2.me/theorems/888e1de1-5975-4714-9c1b-0d5af00fec15

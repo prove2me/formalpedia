@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjChowNonzero_aeval_smul_eq_zero_f2ed159614e3
 -- name    : P2M_GroundTheory_Heights__Heights_ProjChowNonzero_aeval_smul_eq_zero_f2ed159614e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:20.757365+00:00
 -- url     : https://prove2.me/theorems/d70ea87f-9a25-59f6-bdc3-f4ad48a6d033

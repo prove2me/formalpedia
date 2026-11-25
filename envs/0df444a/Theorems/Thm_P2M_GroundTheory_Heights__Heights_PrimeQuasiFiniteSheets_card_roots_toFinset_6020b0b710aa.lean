@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimeQuasiFiniteSheets_card_roots_toFinset_6020b0b710aa
 -- name    : P2M_GroundTheory_Heights__Heights_PrimeQuasiFiniteSheets_card_roots_toFinset_6020b0b710aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:15:10.207791+00:00
 -- url     : https://prove2.me/theorems/103d1e2d-3e55-4a03-9b6d-880d75c575d5

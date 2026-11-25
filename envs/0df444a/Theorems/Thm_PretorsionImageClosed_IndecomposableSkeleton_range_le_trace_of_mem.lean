@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_range_le_trace_of_mem
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.range_le_trace_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:08:40.266918+00:00
 -- url     : https://prove2.me/theorems/21d4a74b-2f34-4340-ac27-7022b9cfa2d2

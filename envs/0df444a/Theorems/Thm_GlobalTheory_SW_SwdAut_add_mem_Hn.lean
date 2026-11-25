@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_SwdAut_add_mem_Hn
 -- name    : GlobalTheory.SW.SwdAut.add_mem_Hn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:41:09.755381+00:00
 -- url     : https://prove2.me/theorems/8cc7759e-3d1a-45dd-b4d1-b30160a38693

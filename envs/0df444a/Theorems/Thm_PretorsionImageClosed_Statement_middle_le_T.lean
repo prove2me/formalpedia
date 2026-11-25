@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_middle_le_T
 -- name    : PretorsionImageClosed.Statement.middle_le_T
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:14:55.570895+00:00
 -- url     : https://prove2.me/theorems/c149af4e-cf7e-4a3b-9096-2a39d41c8486

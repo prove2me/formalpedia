@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_rigOfOmega_injective_of_eq_zero
 -- name    : GlobalTheory.PDivGroup.rigOfOmega_injective_of_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:50:13.904438+00:00
 -- url     : https://prove2.me/theorems/040ef264-2560-5963-b65e-501337a2f0f1

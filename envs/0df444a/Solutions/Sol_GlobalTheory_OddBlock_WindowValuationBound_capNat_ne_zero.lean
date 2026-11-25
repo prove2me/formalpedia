@@ -1,0 +1,44 @@
+-- Prove2me | solution 1 for GlobalTheory.OddBlock.WindowValuationBound.capNat_ne_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T05:07:22.238488+00:00
+-- url     : https://prove2.me/submissions/c9af758c-40e1-4146-9e4e-e25b260aa063
+
+import Mathlib
+import Definitions.Def_Formalism_FormalGroupLog_FormalGroupLogProofs_ChainRule
+import Definitions.Def_ReciprocityTheory_DualLattices_DetPolyMulCayleyOmegaPow
+import Definitions.Def_ReciprocityTheory_DualLattices_VEqZeroOfPowEqOne
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_WeightedSumBounds_PeriodValuation
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_TaylorDiscriminants_WickVanishing_CalcExp
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_LegendreBoundsFactorialMultiIndexCapelliStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_DetFrobeniusSubPowSupportStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_WeightNonnegExpOfWeightGeInvPrimeSubOneStatement
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_BiadditiveInSingleVariables
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_FactorialWeightedPairingDetPowProportionalStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_DeterminantPairingQuotientValuationLowerBoundStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_ProdIccMulFactorial
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_LegendreAndCapelli
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_RadiiValuationDifferences
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_NewtonBoundPosAndNewtonStep
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_BlockValueOnRowsEqStatement
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_UnramifiedDepth_SumEqOfIsHomogeneous
+import Theorems.Thm_GlobalTheory_LegendreFacts_capNat_mul
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism.L2.FormalSeriesBounds
+open GlobalTheory GlobalTheory.OddBlock GlobalTheory.OddBlock.WindowValuationBound
+open Formalism.IncomingBounds (capNat LamP detL detR jetAt0 mvExp mfact hP expE PVar gam)
+namespace GlobalTheory.OddBlock.WindowValuationBound
+theorem _root_.solution (n0 x : ℕ) : capNat n0 x ≠ 0 := fun h0 => by
+  have hq : ∏ c ∈ Finset.range n0, (x + c).factorial ≠ 0 :=
+    Finset.prod_ne_zero_iff.2 fun _ _ => Nat.factorial_ne_zero _
+  exact hq (by rw [← GlobalTheory.LegendreFacts.capNat_mul, h0, zero_mul])
+end GlobalTheory.OddBlock.WindowValuationBound

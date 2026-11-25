@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_blockSign_mul_51072d07ff72
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_blockSign_mul_51072d07ff72
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:46.016325+00:00
 -- url     : https://prove2.me/theorems/d8e46b58-a676-5949-b7f3-5c947e92fc7a

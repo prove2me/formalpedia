@@ -77433,16 +77433,16 @@
 {"parent": "Formalism.CountingSumsFrames.weylDim_pos_of_antitone", "child": "Formalism_PolynomialDimension_DigitClassSize", "via": ["solution", "statement"]}
 {"parent": "Formalism.ZeroFreeDirichlet.vonMangoldt_div_rpow_nonneg", "child": "Formalism_LandauZeroFreeBounds_ExceptionalZeroBounds_Positivity", "via": ["solution", "statement"]}
 {"parent": "Formalism.ZeroFreeDirichlet.vonMangoldt_div_rpow_nonneg", "child": "Formalism_LandauZeroFreeBounds_NoZeroComplexOf", "via": ["solution", "statement"]}
-{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ThreeFourOne", "via": ["statement"]}
-{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZeroFreeOf", "via": ["statement"]}
-{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_SmallHeight", "via": ["statement"]}
-{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZetaGrowth", "via": ["statement"]}
-{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LogDerivRight", "via": ["statement"]}
-{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LogDerivBound", "via": ["statement"]}
-{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LandauLocalOf", "via": ["statement"]}
-{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZeroFactor", "via": ["statement"]}
-{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZetaInvBound", "via": ["statement"]}
-{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_FinalZFR", "via": ["statement"]}
+{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ThreeFourOne", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZeroFreeOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_SmallHeight", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZetaGrowth", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LogDerivRight", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LogDerivBound", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LandauLocalOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZeroFactor", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZetaInvBound", "via": ["solution", "statement"]}
+{"parent": "Formalism.ZF.zeroFreeRegion", "child": "Formalism_ZeroFreeRegion_FinalZFR", "via": ["solution", "statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteRepSetOfOrtho", "child": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteDimensionalOfOrtho", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteRepSetOfOrtho", "child": "Formalism_HermitianLattices_HermitianLatticesProofs_AutFinite", "via": ["statement"]}
 {"parent": "Formalism_GL3MeanSquares_GenusMeanAsymptotics_UnimodularClassRepresentatives_FiniteRepSetOfOrtho", "child": "Formalism.H.dualEquiv_apply", "via": ["statement"]}
@@ -96858,12 +96858,12 @@
 {"parent": "Formalism.FourierDecayAlt.P.G1.hasDerivAt_inv_lin", "child": "Formalism_HermitianCurvature_StatementG", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassMass_Reduce", "child": "Formalism_PeriodIntegrals_UJClassMass", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_UnitaryClassMass_Reduce", "child": "Formalism_ThetaLiftIndependence_ThetaOrbitSums_LatLiftIndep", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SgStar", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_QuasiPeriodConstUniqueOf", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_OperatorUComm", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_QuasiPeriodConstUnique", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_HermHalfRight", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_SigmaLogDeriv2", "via": ["statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SgStar", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_QuasiPeriodConstUniqueOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_OperatorUComm", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_QuasiPeriodConstUnique", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_HermHalfRight", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_SigmaLogDeriv2", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13_D079_3", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_EtaleIntegralityFacts", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdditiveCharacterPsi", "via": ["statement"]}
 {"parent": "Formalism_HermitianCurvature_HermitianCurvatureProofs_EtaleIntegralityFacts", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_WeakApproximationGL", "via": ["statement"]}
@@ -97896,12 +97896,12 @@
 {"parent": "Formalism_LocalToGlobal_Columns_GFamS", "child": "Formalism_LocalToGlobal_Columns_RhoEqOfSmulEq", "via": ["statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.LEx2.epStep6", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_ThetaLimit", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.LEx2.epStep6", "child": "Formalism_HermitianCurvature_StatementLE", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_IpNormPowSubPowLe", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Lemmata_GeneralBFactUpper_Imports", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Formalism.InvariantFactorPaths.G7.frobVar_eq_expand", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_LetterShift", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Formalism_FormalGroupWitt_WeightInvariance", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_TopsChoicePartA", "via": ["statement"]}
+{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_KummerThetaLogarithms_IpNormPowSubPowLe", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Lemmata_GeneralBFactUpper_Imports", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Formalism.InvariantFactorPaths.G7.frobVar_eq_expand", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Formalism_LocalToGlobal_TorsionIntegrality_GaussSumParity_LetterShift", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Formalism_FormalGroupWitt_WeightInvariance", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.D.integral_part_lemma", "child": "Formalism_ThetaLogCoordinates_UniformThetaSubstitution_FrobeniusLiftNorms_TopsChoicePartA", "via": ["solution", "statement"]}
 {"parent": "RH1E6S13_D088_1", "child": "ArdaRS_BandSharp", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ThetaSeriesUniqueness_CoefShift", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ThetaSeriesUniqueness_Complete", "via": ["statement"]}
 {"parent": "Formalism.ELL.FormalGroupPointsTorsion.dom", "child": "Formalism_EllipticTorsion_EllipticTorsionProofs_FormalGroupPointsNoPrimeToPTorsion", "via": ["solution", "statement"]}

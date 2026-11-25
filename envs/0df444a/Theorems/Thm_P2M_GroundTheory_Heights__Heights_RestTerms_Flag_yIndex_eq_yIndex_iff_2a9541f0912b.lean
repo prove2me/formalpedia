@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_yIndex_eq_yIndex_iff_2a9541f0912b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_yIndex_eq_yIndex_iff_2a9541f0912b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:20:03.066784+00:00
 -- url     : https://prove2.me/theorems/97e3ef1b-ec85-5529-82fc-cf2ba9b9364d

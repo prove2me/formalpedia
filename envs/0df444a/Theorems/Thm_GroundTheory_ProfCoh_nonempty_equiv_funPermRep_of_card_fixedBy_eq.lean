@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_nonempty_equiv_funPermRep_of_card_fixedBy_eq
 -- name    : GroundTheory.ProfCoh.nonempty_equiv_funPermRep_of_card_fixedBy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:36:03.0062+00:00
 -- url     : https://prove2.me/theorems/34689687-b524-4589-81ec-35b303250e93

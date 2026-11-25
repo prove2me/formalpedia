@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PuncturedBranchSameOrder_factor_of_punctured_43801c6296a6
 -- name    : P2M_GroundTheory_Heights__Heights_PuncturedBranchSameOrder_factor_of_punctured_43801c6296a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:16:24.187503+00:00
 -- url     : https://prove2.me/theorems/779cfefa-56a5-4da8-a036-af755b297ff2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Axes_jEq_mul_right
 -- name    : GlobalTheory.ChartCmp.Axes.jEq_mul_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:14:28.477913+00:00
 -- url     : https://prove2.me/theorems/71e78c15-e4fc-5dfb-aa4f-de4661c9f509

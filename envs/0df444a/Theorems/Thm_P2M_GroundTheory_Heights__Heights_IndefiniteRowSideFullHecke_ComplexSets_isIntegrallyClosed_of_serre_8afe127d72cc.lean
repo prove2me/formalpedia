@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isIntegrallyClosed_of_serre_8afe127d72cc
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isIntegrallyClosed_of_serre_8afe127d72cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:13:32.02163+00:00
 -- url     : https://prove2.me/theorems/d38aaad9-819a-420f-a21a-4a95428d0320

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_quad_smul_092261aee0d1
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_quad_smul_092261aee0d1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:29.9186+00:00
 -- url     : https://prove2.me/theorems/e3994359-0264-4d12-9c96-55e52e449ff4

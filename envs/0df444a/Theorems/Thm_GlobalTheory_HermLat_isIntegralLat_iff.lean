@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermLat_isIntegralLat_iff
 -- name    : GlobalTheory.HermLat.isIntegralLat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:37.752871+00:00
 -- url     : https://prove2.me/theorems/a680c36a-806e-4f55-ae91-7d239990e02e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsIntegralZeroLowerNEAux_maDensity_zero_2fd3328216c0
 -- name    : P2M_GroundTheory_Heights__Heights_PtsIntegralZeroLowerNEAux_maDensity_zero_2fd3328216c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:16:15.95022+00:00
 -- url     : https://prove2.me/theorems/9f7d386b-1074-4bfa-b454-e41c1c4600a2

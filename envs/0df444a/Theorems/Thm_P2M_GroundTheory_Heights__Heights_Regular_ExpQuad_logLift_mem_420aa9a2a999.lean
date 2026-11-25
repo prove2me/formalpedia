@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_logLift_mem_420aa9a2a999
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_logLift_mem_420aa9a2a999
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:11.5438+00:00
 -- url     : https://prove2.me/theorems/ef27ea02-de1b-4d9f-bf01-14d44a38d5d2

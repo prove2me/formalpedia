@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagDiffPrime_dvd_sub_collapse_fbe7a1eb7559
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagDiffPrime_dvd_sub_collapse_fbe7a1eb7559
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:36.875512+00:00
 -- url     : https://prove2.me/theorems/32fb308d-6f4e-5ffe-8b93-3c281474afab

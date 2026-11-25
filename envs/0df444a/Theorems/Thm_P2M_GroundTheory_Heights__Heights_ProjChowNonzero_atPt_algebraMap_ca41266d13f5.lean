@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjChowNonzero_atPt_algebraMap_ca41266d13f5
 -- name    : P2M_GroundTheory_Heights__Heights_ProjChowNonzero_atPt_algebraMap_ca41266d13f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:43.215211+00:00
 -- url     : https://prove2.me/theorems/c4011676-2a3d-4f00-b275-d4c6c5fb3c8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnfoldOrbit_proof_05a8d999f3c7
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnfoldOrbit_proof_05a8d999f3c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:42:26.940044+00:00
 -- url     : https://prove2.me/theorems/f51b78b0-9a8d-5f2e-8edd-1f0917a0fc33

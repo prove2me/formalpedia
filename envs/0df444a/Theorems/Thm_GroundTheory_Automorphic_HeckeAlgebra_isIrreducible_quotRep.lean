@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_isIrreducible_quotRep
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.isIrreducible_quotRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:59:09.817272+00:00
 -- url     : https://prove2.me/theorems/c99dd002-49ed-44db-87ea-b0f919b0cd35

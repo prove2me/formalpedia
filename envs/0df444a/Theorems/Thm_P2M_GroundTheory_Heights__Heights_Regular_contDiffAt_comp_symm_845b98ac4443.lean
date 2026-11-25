@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_contDiffAt_comp_symm_845b98ac4443
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_contDiffAt_comp_symm_845b98ac4443
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:18:25.394589+00:00
 -- url     : https://prove2.me/theorems/351aa836-b5e6-4530-9098-b5f72dd2b08c

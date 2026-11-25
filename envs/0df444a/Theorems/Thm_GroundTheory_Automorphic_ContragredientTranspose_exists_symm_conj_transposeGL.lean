@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_exists_symm_conj_transposeGL
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.exists_symm_conj_transposeGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:25:25.858799+00:00
 -- url     : https://prove2.me/theorems/3b08e3b4-cf3f-51b5-b181-2d7919fd67b8

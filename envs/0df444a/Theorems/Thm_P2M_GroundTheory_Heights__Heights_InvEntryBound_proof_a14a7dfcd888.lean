@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_InvEntryBound_proof_a14a7dfcd888
 -- name    : P2M_GroundTheory_Heights__Heights_InvEntryBound_proof_a14a7dfcd888
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:44:40.76384+00:00
 -- url     : https://prove2.me/theorems/6c4cff19-4a58-4452-9ea7-0a3821ae645e

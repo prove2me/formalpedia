@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_chartDens_const_mul_2440ea3a0ba2
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_chartDens_const_mul_2440ea3a0ba2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:17:07.834944+00:00
 -- url     : https://prove2.me/theorems/ae86b2d3-19a9-4e21-90b4-b7d56d8df761

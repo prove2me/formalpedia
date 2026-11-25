@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_evLoc_spec_e16d5efc3bff
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocResidueFrac_evLoc_spec_e16d5efc3bff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:50:42.114806+00:00
 -- url     : https://prove2.me/theorems/42c86fb8-058b-4ec5-98fd-235ff1c40546

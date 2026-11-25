@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectivePointsOnPlane_embComp_recon_1ea4fa5bd66c
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectivePointsOnPlane_embComp_recon_1ea4fa5bd66c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:58.33622+00:00
 -- url     : https://prove2.me/theorems/fa287645-9c01-4bd7-8c50-098c70eee2e0

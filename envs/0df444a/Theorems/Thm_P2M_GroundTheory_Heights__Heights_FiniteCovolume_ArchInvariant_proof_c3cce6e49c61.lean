@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ArchInvariant_proof_c3cce6e49c61
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ArchInvariant_proof_c3cce6e49c61
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:41:11.655319+00:00
 -- url     : https://prove2.me/theorems/5c87d523-0e10-409e-a1b6-01ec7d35b337

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_k_sub_one_le_0ea464919331
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_k_sub_one_le_0ea464919331
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:49.286726+00:00
 -- url     : https://prove2.me/theorems/b86d5146-a17b-5b68-a95c-a5f9c0a242c2

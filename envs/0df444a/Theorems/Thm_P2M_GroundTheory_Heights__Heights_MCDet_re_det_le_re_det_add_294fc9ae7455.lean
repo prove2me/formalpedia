@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCDet_re_det_le_re_det_add_294fc9ae7455
 -- name    : P2M_GroundTheory_Heights__Heights_MCDet_re_det_le_re_det_add_294fc9ae7455
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:11:32.303298+00:00
 -- url     : https://prove2.me/theorems/3455188d-66d3-4970-a92a-5a7e0e8facac

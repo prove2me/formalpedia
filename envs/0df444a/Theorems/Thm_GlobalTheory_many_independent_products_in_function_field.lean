@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_many_independent_products_in_function_field
 -- name    : GlobalTheory.many_independent_products_in_function_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:10:07.709771+00:00
 -- url     : https://prove2.me/theorems/e44f91b3-1019-45fa-b316-96e2428f41cd

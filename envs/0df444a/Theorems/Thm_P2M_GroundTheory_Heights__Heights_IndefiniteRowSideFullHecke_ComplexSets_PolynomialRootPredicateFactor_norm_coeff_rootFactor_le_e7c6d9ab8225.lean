@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_norm_coeff_rootFactor_le_e7c6d9ab8225
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialRootPredicateFactor_norm_coeff_rootFactor_le_e7c6d9ab8225
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:41.416031+00:00
 -- url     : https://prove2.me/theorems/e7c1d8e8-867e-47ff-9b4a-b25cf960f5b1

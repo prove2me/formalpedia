@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_one_sub_ne
 -- name    : Formalism.L2.FormalSeriesBounds.one_sub_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:25:48.549378+00:00
 -- url     : https://prove2.me/theorems/17dc9416-f7cd-4f75-8fe3-c53c42a3bfe5

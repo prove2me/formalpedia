@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eq_smul_of_commute_heisenberg_linearModel_schwartzBruhat
 -- name    : GlobalTheory.T.eq_smul_of_commute_heisenberg_linearModel_schwartzBruhat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:33:06.227821+00:00
 -- url     : https://prove2.me/theorems/536be727-36e7-424e-9128-8c8bad913274

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SublatCount_smul_quot
 -- name    : GlobalTheory.SublatCount.smul_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:32:09.116147+00:00
 -- url     : https://prove2.me/theorems/73b69c36-696f-5ae8-91bc-cf4de3666639

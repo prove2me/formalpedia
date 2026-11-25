@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartKernel_aeval_genSubst_scale_287273e9ddd5
 -- name    : P2M_GroundTheory_Heights__Heights_ChartKernel_aeval_genSubst_scale_287273e9ddd5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:14:52.367973+00:00
 -- url     : https://prove2.me/theorems/3f93c318-9b02-5f70-b5de-486a7d2e511c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_weierstrass_remainder_eq_zero_e4d63f335f60
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_weierstrass_remainder_eq_zero_e4d63f335f60
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:21:50.259569+00:00
 -- url     : https://prove2.me/theorems/eb653d5c-0400-4e11-9c36-371160fd0220

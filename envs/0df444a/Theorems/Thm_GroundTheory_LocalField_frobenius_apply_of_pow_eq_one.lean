@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_frobenius_apply_of_pow_eq_one
 -- name    : GroundTheory.LocalField.frobenius_apply_of_pow_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:40:27.675919+00:00
 -- url     : https://prove2.me/theorems/ce67cde6-132f-44f6-822d-2e42f83e7287

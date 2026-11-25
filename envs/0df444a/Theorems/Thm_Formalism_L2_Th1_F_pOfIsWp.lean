@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_pOfIsWp
 -- name    : Formalism.L2.Th1.F.pOfIsWp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:52:48.289557+00:00
 -- url     : https://prove2.me/theorems/fe6e345c-c8fa-4870-8452-27e15422afb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PivotBounds_qf_submatrix_castLE_b2a7fe345f16
 -- name    : P2M_GroundTheory_Heights__Heights_PivotBounds_qf_submatrix_castLE_b2a7fe345f16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:14:20.943687+00:00
 -- url     : https://prove2.me/theorems/9fc5339f-9103-4008-bbce-df082ad439fd

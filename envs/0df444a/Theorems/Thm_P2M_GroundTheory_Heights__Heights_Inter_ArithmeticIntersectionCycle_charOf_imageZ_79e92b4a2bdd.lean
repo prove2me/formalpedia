@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionCycle_charOf_imageZ_79e92b4a2bdd
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionCycle_charOf_imageZ_79e92b4a2bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:41:41.07026+00:00
 -- url     : https://prove2.me/theorems/e0ba4738-1515-4e79-a791-4704d2f06572

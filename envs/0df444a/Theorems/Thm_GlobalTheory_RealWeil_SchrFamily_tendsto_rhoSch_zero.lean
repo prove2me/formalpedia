@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_SchrFamily_tendsto_rhoSch_zero
 -- name    : GlobalTheory.RealWeil.SchrFamily.tendsto_rhoSch_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:17:36.562327+00:00
 -- url     : https://prove2.me/theorems/7b78dee2-da28-42f9-a433-f0e7727ec943

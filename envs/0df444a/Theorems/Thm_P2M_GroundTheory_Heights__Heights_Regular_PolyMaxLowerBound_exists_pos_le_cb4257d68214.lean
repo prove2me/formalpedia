@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_PolyMaxLowerBound_exists_pos_le_cb4257d68214
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_PolyMaxLowerBound_exists_pos_le_cb4257d68214
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:17:50.446469+00:00
 -- url     : https://prove2.me/theorems/f705513d-4fcd-59b3-bf35-1279be7f8eb1

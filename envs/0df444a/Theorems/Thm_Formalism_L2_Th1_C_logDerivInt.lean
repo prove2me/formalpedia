@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_logDerivInt
 -- name    : Formalism.L2.Th1.C.logDerivInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:00:58.653537+00:00
 -- url     : https://prove2.me/theorems/0dae3c69-a4a5-4a01-b9d5-df25d72bb485

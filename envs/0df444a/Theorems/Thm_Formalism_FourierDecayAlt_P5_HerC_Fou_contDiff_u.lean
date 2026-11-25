@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_contDiff_u
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.contDiff_u
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:18:42.866504+00:00
 -- url     : https://prove2.me/theorems/c32b3020-2381-4084-9fc4-535f861d4646

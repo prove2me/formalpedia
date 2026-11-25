@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_primeIdealZetaSum_primesAbove
 -- name    : GroundTheory.Global.primeIdealZetaSum_primesAbove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:14:50.167321+00:00
 -- url     : https://prove2.me/theorems/f9babc86-b8e3-4772-9c03-cb2440eebd5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchSmallBlockProduct_vandermondeOf_X_eq_alternant_004e7763e2b2
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchSmallBlockProduct_vandermondeOf_X_eq_alternant_004e7763e2b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:20:38.369903+00:00
 -- url     : https://prove2.me/theorems/8bfd3e74-94aa-4840-ade4-ed100f64ea28

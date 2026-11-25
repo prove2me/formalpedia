@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlueckerNormSqAlt_rowsOf_conjTranspose_e6b7b0baa3b1
 -- name    : P2M_GroundTheory_Heights__Heights_PlueckerNormSqAlt_rowsOf_conjTranspose_e6b7b0baa3b1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:14:26.869839+00:00
 -- url     : https://prove2.me/theorems/6d553db7-0ce2-598e-9fcf-1bb16768031d

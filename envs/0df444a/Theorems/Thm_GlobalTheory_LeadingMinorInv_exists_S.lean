@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadingMinorInv_exists_S
 -- name    : GlobalTheory.LeadingMinorInv.exists_S
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:42:44.9235+00:00
 -- url     : https://prove2.me/theorems/d927983f-16d3-47c7-a9da-53c2095c57bf

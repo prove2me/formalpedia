@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantExists_proof_4b92f33fe38c
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantExists_proof_4b92f33fe38c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:40:29.539177+00:00
 -- url     : https://prove2.me/theorems/c314606e-4e18-53fb-a168-e609c7747816

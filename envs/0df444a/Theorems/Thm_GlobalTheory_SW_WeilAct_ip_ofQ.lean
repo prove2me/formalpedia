@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_WeilAct_ip_ofQ
 -- name    : GlobalTheory.SW.WeilAct.ip_ofQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:45:38.803847+00:00
 -- url     : https://prove2.me/theorems/cc0f5d73-f008-46e2-a04a-5d6332208958

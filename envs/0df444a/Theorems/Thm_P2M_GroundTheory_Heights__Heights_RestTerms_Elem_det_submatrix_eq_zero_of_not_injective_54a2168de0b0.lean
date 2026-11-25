@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_det_submatrix_eq_zero_of_not_injective_54a2168de0b0
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_det_submatrix_eq_zero_of_not_injective_54a2168de0b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:18:58.992635+00:00
 -- url     : https://prove2.me/theorems/3e9dc96f-62d2-45a7-964a-d56e636ba41e

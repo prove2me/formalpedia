@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HaarDensityUpq_mat_mul
 -- name    : GlobalTheory.HaarDensityUpq.mat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:49:20.854417+00:00
 -- url     : https://prove2.me/theorems/9e3aa1a2-7fa7-4674-aad3-7e68a44f4817

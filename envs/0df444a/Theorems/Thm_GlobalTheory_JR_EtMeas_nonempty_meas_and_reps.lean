@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtMeas_nonempty_meas_and_reps
 -- name    : GlobalTheory.JR.EtMeas.nonempty_meas_and_reps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:31:51.02381+00:00
 -- url     : https://prove2.me/theorems/553c5ffa-944b-4dc6-baaa-e78acb66f590

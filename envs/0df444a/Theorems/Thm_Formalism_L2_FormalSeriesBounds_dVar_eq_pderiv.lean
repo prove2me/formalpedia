@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_dVar_eq_pderiv
 -- name    : Formalism.L2.FormalSeriesBounds.dVar_eq_pderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:27:16.21857+00:00
 -- url     : https://prove2.me/theorems/67628b4c-ce29-46b2-ab2b-4b31d9d5a6e8

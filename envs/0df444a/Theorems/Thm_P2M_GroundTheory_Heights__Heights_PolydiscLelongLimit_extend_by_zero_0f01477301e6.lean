@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PolydiscLelongLimit_extend_by_zero_0f01477301e6
 -- name    : P2M_GroundTheory_Heights__Heights_PolydiscLelongLimit_extend_by_zero_0f01477301e6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:20.268461+00:00
 -- url     : https://prove2.me/theorems/d3f834e7-2176-48d8-87b3-f329461581f9

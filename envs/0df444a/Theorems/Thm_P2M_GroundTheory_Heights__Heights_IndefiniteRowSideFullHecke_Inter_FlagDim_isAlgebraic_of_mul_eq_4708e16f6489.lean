@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_isAlgebraic_of_mul_eq_4708e16f6489
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_isAlgebraic_of_mul_eq_4708e16f6489
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:40:34.04537+00:00
 -- url     : https://prove2.me/theorems/04d478ad-b341-41d2-bad4-77c8f67bb600

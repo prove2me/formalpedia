@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_closed_of_conn
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.closed_of_conn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:23:10.617123+00:00
 -- url     : https://prove2.me/theorems/e8a745e8-2d40-496d-a633-d378298da133

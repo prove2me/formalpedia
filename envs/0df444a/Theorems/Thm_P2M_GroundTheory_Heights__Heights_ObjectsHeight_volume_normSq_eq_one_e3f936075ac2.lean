@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_volume_normSq_eq_one_e3f936075ac2
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_volume_normSq_eq_one_e3f936075ac2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:13:09.504531+00:00
 -- url     : https://prove2.me/theorems/1e0601f2-ebda-447b-b33c-f906c087b6cb

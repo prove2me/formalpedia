@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_rowInt
 -- name    : PositivityTheory.Rg.BcB.E1.rowInt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:24:25.862878+00:00
 -- url     : https://prove2.me/theorems/061ef7c9-6bdd-4821-a9ee-abda12942d6a

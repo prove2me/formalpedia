@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_blockEmb_blockVandermonde_e3beae7d792c
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_blockEmb_blockVandermonde_e3beae7d792c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:20:36.453844+00:00
 -- url     : https://prove2.me/theorems/9a665dba-ba1c-4775-aad7-1529a4c80d24

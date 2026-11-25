@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_tau_shifted_periodic_411cd6442807
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_tau_shifted_periodic_411cd6442807
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:17:26.24055+00:00
 -- url     : https://prove2.me/theorems/09a0dd14-f5f0-44e8-a178-35313798e9c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeightsFromJumpsCompare_heightsFromJumps_iff
 -- name    : GlobalTheory.HeightsFromJumpsCompare.heightsFromJumps_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:33:10.996803+00:00
 -- url     : https://prove2.me/theorems/d03a6ecb-34e4-543a-b72d-16f2ef3d97e1

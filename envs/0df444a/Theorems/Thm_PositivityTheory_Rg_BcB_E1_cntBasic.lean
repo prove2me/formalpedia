@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_cntBasic
 -- name    : PositivityTheory.Rg.BcB.E1.cntBasic
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:21:51.186371+00:00
 -- url     : https://prove2.me/theorems/eac13ad1-c02f-4065-8207-12d9a83208ce

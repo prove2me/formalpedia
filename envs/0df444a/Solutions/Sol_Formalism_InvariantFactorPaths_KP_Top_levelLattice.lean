@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.KP.Top.levelLattice
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T04:55:21.346409+00:00
+-- url     : https://prove2.me/submissions/6b6462bc-eefd-4ebb-bf54-f874191a5067
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_PstScalMem
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_PlusOp
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_LatticeLinearHolds
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_StepTie
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_StepPlus
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_LevelLatticeOf
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_FinalLL
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_midTop
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_midPEq
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_stepTie
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_stepPlus
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_LevelLattice_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.KP Formalism.InvariantFactorPaths.KP.Top
+open Formalism.InvariantFactorPaths.KP.LL
+namespace Formalism.InvariantFactorPaths.KP.Top
+theorem _root_.solution : Formalism.GM.M.LevelLattice := LevelLattice_of midTop midPEq stepTie stepPlus
+end Formalism.InvariantFactorPaths.KP.Top

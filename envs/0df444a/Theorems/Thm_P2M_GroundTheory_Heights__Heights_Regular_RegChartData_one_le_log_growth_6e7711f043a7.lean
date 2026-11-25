@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_RegChartData_one_le_log_growth_6e7711f043a7
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_RegChartData_one_le_log_growth_6e7711f043a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:17:38.969794+00:00
 -- url     : https://prove2.me/theorems/8afc2427-bdba-4748-bb10-fca34e44fc46

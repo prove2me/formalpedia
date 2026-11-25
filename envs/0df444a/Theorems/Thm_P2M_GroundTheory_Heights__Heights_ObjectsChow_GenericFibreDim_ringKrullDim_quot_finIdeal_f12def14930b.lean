@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreDim_ringKrullDim_quot_finIdeal_f12def14930b
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreDim_ringKrullDim_quot_finIdeal_f12def14930b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:13:03.0834+00:00
 -- url     : https://prove2.me/theorems/38fefd73-a97e-4b14-a6d8-3be6cbe80ec9

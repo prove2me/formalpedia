@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsIntegralZeroLowerNEAux_segre_ne_zero_dd2ca74dbc07
 -- name    : P2M_GroundTheory_Heights__Heights_PtsIntegralZeroLowerNEAux_segre_ne_zero_dd2ca74dbc07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:21:14.379888+00:00
 -- url     : https://prove2.me/theorems/9fe3b69e-33e5-533c-a9cf-01fa5d19be2d

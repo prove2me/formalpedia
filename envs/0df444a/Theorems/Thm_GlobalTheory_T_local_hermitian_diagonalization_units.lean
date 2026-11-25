@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_hermitian_diagonalization_units
 -- name    : GlobalTheory.T.local_hermitian_diagonalization_units
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:52:41.16499+00:00
 -- url     : https://prove2.me/theorems/ce8784fa-4cff-4726-ae55-c85a31e3ca6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_isotropic_to_std_subst_degree
 -- name    : Formalism.L2.FormalSeriesBounds.RF.isotropic_to_std_subst_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:17:57.922096+00:00
 -- url     : https://prove2.me/theorems/9385688d-2576-432d-bdc7-fb9845fa6476

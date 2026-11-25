@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartDualRational_proof_f55d5375991d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartDualRational_proof_f55d5375991d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:41:23.139655+00:00
 -- url     : https://prove2.me/theorems/496e4f9e-4557-4c13-bc99-a3198a92efb6

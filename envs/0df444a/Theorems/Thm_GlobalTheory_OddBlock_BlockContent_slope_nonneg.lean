@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_BlockContent_slope_nonneg
 -- name    : GlobalTheory.OddBlock.BlockContent.slope_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:34:59.38886+00:00
 -- url     : https://prove2.me/theorems/8c85434c-f125-4ae6-b5a9-88a3d3e15bf2

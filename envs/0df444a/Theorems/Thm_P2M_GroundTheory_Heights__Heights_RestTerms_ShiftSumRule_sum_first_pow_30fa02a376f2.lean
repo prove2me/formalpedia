@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_ShiftSumRule_sum_first_pow_30fa02a376f2
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_ShiftSumRule_sum_first_pow_30fa02a376f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:53.042838+00:00
 -- url     : https://prove2.me/theorems/57ccc846-b798-4a01-b968-db4823bc6a8f

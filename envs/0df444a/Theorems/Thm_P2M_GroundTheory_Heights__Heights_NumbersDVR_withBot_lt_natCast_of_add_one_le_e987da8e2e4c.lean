@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_withBot_lt_natCast_of_add_one_le_e987da8e2e4c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_withBot_lt_natCast_of_add_one_le_e987da8e2e4c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:12:52.373693+00:00
 -- url     : https://prove2.me/theorems/69a085d5-55c5-4746-af20-edeb8f48b07e

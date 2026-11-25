@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_quasi_finite_polynomial_map
 -- name    : GlobalTheory.T.exists_quasi_finite_polynomial_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:38:20.223888+00:00
 -- url     : https://prove2.me/theorems/1b0f9d72-cc1f-4c91-bc40-500259c3974d

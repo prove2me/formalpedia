@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectiveStandardMassAtPoint_repr_sum_de623f64b805
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectiveStandardMassAtPoint_repr_sum_de623f64b805
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:53.02285+00:00
 -- url     : https://prove2.me/theorems/9ee97255-c5ac-465e-be99-86b783d6be9b

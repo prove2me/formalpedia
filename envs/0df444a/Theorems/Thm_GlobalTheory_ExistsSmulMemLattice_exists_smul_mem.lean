@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExistsSmulMemLattice_exists_smul_mem
 -- name    : GlobalTheory.ExistsSmulMemLattice.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:32:47.813798+00:00
 -- url     : https://prove2.me/theorems/a9ae8dba-ad63-4582-8190-f0f8dccca117

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegerMultipleIntegral_exists_int_smul_le
 -- name    : GlobalTheory.IntegerMultipleIntegral.exists_int_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:08:24.087401+00:00
 -- url     : https://prove2.me/theorems/ebda9372-f890-4511-b604-f39a065f324a

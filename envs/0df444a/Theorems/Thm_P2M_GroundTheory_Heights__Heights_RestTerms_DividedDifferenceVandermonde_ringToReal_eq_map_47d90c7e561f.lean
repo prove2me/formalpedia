@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_DividedDifferenceVandermonde_ringToReal_eq_map_47d90c7e561f
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_DividedDifferenceVandermonde_ringToReal_eq_map_47d90c7e561f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:20:23.524718+00:00
 -- url     : https://prove2.me/theorems/2d42e2e7-0f4b-4336-b07e-322a63ea9407

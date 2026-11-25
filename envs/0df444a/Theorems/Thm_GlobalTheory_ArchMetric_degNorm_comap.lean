@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_degNorm_comap
 -- name    : GlobalTheory.ArchMetric.degNorm_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:53:05.657593+00:00
 -- url     : https://prove2.me/theorems/cb87c66a-b58c-48bf-8fe9-512f65596e73

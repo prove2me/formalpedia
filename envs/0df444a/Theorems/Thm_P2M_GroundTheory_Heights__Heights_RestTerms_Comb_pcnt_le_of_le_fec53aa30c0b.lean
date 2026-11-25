@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_pcnt_le_of_le_fec53aa30c0b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_pcnt_le_of_le_fec53aa30c0b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:18:55.965842+00:00
 -- url     : https://prove2.me/theorems/0a58ad66-61e8-5d7e-883c-3f5a6565f585

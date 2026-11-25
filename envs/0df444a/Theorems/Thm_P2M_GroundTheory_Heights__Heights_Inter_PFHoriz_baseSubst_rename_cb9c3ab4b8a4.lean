@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PFHoriz_baseSubst_rename_cb9c3ab4b8a4
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PFHoriz_baseSubst_rename_cb9c3ab4b8a4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:42:34.619901+00:00
 -- url     : https://prove2.me/theorems/9f85ff79-b7cf-41ae-aba1-82b941f06560

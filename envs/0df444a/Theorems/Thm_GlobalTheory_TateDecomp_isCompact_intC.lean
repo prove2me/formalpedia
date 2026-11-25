@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_isCompact_intC
 -- name    : GlobalTheory.TateDecomp.isCompact_intC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:01:52.258063+00:00
 -- url     : https://prove2.me/theorems/c6690926-21f3-5245-a047-e444dd692f35

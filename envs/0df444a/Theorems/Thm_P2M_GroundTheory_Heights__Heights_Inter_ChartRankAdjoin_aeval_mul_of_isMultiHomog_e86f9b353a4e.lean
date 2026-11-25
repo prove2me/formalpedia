@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartRankAdjoin_aeval_mul_of_isMultiHomog_e86f9b353a4e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartRankAdjoin_aeval_mul_of_isMultiHomog_e86f9b353a4e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:27:34.100157+00:00
 -- url     : https://prove2.me/theorems/7930572c-1a9a-4c78-8ccc-28a0c55b0296

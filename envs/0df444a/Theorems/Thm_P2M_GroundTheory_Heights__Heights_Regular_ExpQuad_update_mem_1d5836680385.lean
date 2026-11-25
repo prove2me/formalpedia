@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_update_mem_1d5836680385
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_update_mem_1d5836680385
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:17:39.38797+00:00
 -- url     : https://prove2.me/theorems/63205abd-2fe9-4b7d-9949-0cd62c8129fd

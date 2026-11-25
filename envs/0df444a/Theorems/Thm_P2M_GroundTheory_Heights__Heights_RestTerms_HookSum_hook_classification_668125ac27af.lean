@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_HookSum_hook_classification_668125ac27af
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_HookSum_hook_classification_668125ac27af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:23.265025+00:00
 -- url     : https://prove2.me/theorems/3560f9af-385a-4b7f-9cca-5141290e265f

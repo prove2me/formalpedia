@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_GenSect_gs_indep
 -- name    : Formalism.L2.Pj.GenSect.gs_indep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:29:55.570851+00:00
 -- url     : https://prove2.me/theorems/8e73f499-2d94-4f08-9ed0-055fefa68384

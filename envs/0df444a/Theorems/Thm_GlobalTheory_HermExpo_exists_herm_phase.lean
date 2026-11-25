@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermExpo_exists_herm_phase
 -- name    : GlobalTheory.HermExpo.exists_herm_phase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:47:31.233065+00:00
 -- url     : https://prove2.me/theorems/60de51a1-ba6e-4bcd-843e-cba3064583af

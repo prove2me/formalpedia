@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointSliceMass_isMultiHomog_pairing_11b476f2c29b
 -- name    : P2M_GroundTheory_Heights__Heights_PointSliceMass_isMultiHomog_pairing_11b476f2c29b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:11.97852+00:00
 -- url     : https://prove2.me/theorems/d104abde-ae94-47bc-9b9d-ff56be5ba686

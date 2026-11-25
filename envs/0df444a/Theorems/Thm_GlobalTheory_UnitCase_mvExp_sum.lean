@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_mvExp_sum
 -- name    : GlobalTheory.UnitCase.mvExp_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:41:18.619388+00:00
 -- url     : https://prove2.me/theorems/a46dfbe9-2580-426c-a58e-972d1229fb42

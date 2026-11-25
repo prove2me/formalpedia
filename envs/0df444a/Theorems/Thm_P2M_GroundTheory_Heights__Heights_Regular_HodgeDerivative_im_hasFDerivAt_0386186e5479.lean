@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_im_hasFDerivAt_0386186e5479
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_im_hasFDerivAt_0386186e5479
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:17:05.951137+00:00
 -- url     : https://prove2.me/theorems/8d7496a7-4904-4e1a-8338-7734347d13ec

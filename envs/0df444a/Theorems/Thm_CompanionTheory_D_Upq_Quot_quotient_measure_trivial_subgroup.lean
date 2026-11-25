@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Quot_quotient_measure_trivial_subgroup
 -- name    : CompanionTheory.D.Upq.Quot.quotient_measure_trivial_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:55:05.867246+00:00
 -- url     : https://prove2.me/theorems/f0b50492-8efe-55e2-a36d-22f19874829e

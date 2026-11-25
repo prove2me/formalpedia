@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CayleyUnitary_cayley_mem_UJ
 -- name    : GlobalTheory.CayleyUnitary.cayley_mem_UJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:02:40.651402+00:00
 -- url     : https://prove2.me/theorems/34486e64-3003-4967-bb67-11aed6146ed0

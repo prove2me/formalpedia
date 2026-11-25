@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointIntegral_isFiniteProjection_f9667751e3c9
 -- name    : P2M_GroundTheory_Heights__Heights_PointIntegral_isFiniteProjection_f9667751e3c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:14:40.106378+00:00
 -- url     : https://prove2.me/theorems/f6fece71-10e3-4d53-8667-6d5c4dc46a8c

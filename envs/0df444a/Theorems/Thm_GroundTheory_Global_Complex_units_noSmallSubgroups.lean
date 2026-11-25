@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Complex_units_noSmallSubgroups
 -- name    : GroundTheory.Global.Complex.units_noSmallSubgroups
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:44:20.926253+00:00
 -- url     : https://prove2.me/theorems/feff3089-69c5-4454-8c36-b47a50f3b00c

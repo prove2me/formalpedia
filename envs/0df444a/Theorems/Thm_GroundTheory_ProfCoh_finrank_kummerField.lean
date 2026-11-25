@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finrank_kummerField
 -- name    : GroundTheory.ProfCoh.finrank_kummerField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:31.733591+00:00
 -- url     : https://prove2.me/theorems/98281007-fdbb-4749-9105-3cdfba39d319

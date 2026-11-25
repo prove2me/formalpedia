@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_KTransitive_proof_f512545d214c
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_KTransitive_proof_f512545d214c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:54:53.031385+00:00
 -- url     : https://prove2.me/theorems/1ad0d948-a5cb-5580-9120-fbcfdb69d7e3

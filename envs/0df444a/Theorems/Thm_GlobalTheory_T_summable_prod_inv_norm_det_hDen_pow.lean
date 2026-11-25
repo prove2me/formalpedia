@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_summable_prod_inv_norm_det_hDen_pow
 -- name    : GlobalTheory.T.summable_prod_inv_norm_det_hDen_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:34:14.446352+00:00
 -- url     : https://prove2.me/theorems/64f60420-adf3-47eb-9880-e40e426d6952

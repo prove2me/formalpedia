@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_OtherFactorBound_add_le_mul_add_one_a38988a5c202
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_OtherFactorBound_add_le_mul_add_one_a38988a5c202
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:56.495241+00:00
 -- url     : https://prove2.me/theorems/5fbb7fa3-8c26-46c6-b1ef-645dcde9ecf3

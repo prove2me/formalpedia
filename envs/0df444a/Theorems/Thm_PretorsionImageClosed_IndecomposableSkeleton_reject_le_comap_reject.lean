@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_reject_le_comap_reject
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.reject_le_comap_reject
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:39:49.970627+00:00
 -- url     : https://prove2.me/theorems/59cade28-bb27-45d3-ae6c-480a6098b3b6

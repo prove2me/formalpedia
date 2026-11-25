@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_WachLettersCompare__D_smulA_438e85c0a6c8
 -- name    : P2M_GlobalTheory_WachLettersCompare__D_smulA_438e85c0a6c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:27:08.041036+00:00
 -- url     : https://prove2.me/theorems/e402b895-708e-50df-b4c7-ce5fd9d6973f

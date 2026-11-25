@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for Formalism.ZF.zeroFreeRegion
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T04:51:18.545795+00:00
+-- url     : https://prove2.me/submissions/124ad73b-2417-4ca2-9a0a-685664eef4fa
+
+import Definitions.Def_Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LogDerivBound
+import Definitions.Def_Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZeroFactor
+import Definitions.Def_Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LandauLocalOf
+import Definitions.Def_Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ThreeFourOne
+import Definitions.Def_Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_LogDerivRight
+import Definitions.Def_Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZetaGrowth
+import Definitions.Def_Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZetaInvBound
+import Definitions.Def_Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_SmallHeight
+import Definitions.Def_Formalism_ZeroFreeRegion_ZetaLogDerivativeBounds_ZeroFreeOf
+import Definitions.Def_Formalism_ZeroFreeRegion_FinalZFR
+import Theorems.Thm_Formalism_ZF_landauLocal
+import Theorems.Thm_Formalism_ZF_classicalZeroFreeRegionOfBounds
+import Theorems.Thm_Formalism_ZF_growthBound
+import Theorems.Thm_Formalism_ZF_logDerivBoundRightHalfPlane
+import Theorems.Thm_Formalism_ZF_mertensInequality
+import Theorems.Thm_Formalism_ZF_zeroFreeBoundedHeight
+import Theorems.Thm_Formalism_ZF_zetaInvBound_statement
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open Formalism Formalism.ZF
+namespace Formalism.ZF
+theorem _root_.solution : ZeroFreeRegion :=
+  classicalZeroFreeRegionOfBounds mertensInequality logDerivBoundRightHalfPlane growthBound zetaInvBound_statement
+    zeroFreeBoundedHeight landauLocal
+end Formalism.ZF

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_next_vector
 -- name    : SNumbers.exists_next_vector
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:27:52.631787+00:00
 -- url     : https://prove2.me/theorems/2feca69e-dc97-50b7-badc-ab81ce4469bd

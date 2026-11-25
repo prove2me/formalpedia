@@ -71591,8 +71591,8 @@
 {"parent": "QEC.Coding.BDL26PaidRowsComposition.composedStageQuery_intermediate", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_PaidRowsComposition", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26PaidRowsComposition.composedStageQuery_intermediate", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_ReplacementMaterialization", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26PaidRowsComposition.composedStageQuery_intermediate", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_IncomingRowsExecution", "via": ["solution", "statement"]}
-{"parent": "DynLZ77.Main.lemma_8_4", "child": "DynLZ77_Main_Structure", "via": ["statement"]}
-{"parent": "DynLZ77.Main.lemma_8_4", "child": "DynLZ77_Main_Strings", "via": ["statement"]}
+{"parent": "DynLZ77.Main.lemma_8_4", "child": "DynLZ77_Main_Structure", "via": ["solution", "statement"]}
+{"parent": "DynLZ77.Main.lemma_8_4", "child": "DynLZ77_Main_Strings", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26IncomingRowsExecution.rowStageCost_castSucc", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_FiniteExperimentCost", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26IncomingRowsExecution.rowStageCost_castSucc", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_IncomingRowsExecution", "via": ["solution", "statement"]}
 {"parent": "QEC.Coding.BDL26IncomingRowsExecution.rowStageCost_castSucc", "child": "QEC_Coding_FiniteAlternatingConstruction_RandomPerturbation_CountableExperimentGeometry", "via": ["solution", "statement"]}
@@ -81233,7 +81233,7 @@
 {"parent": "EqualSubsetSum.Faster.theorem_1_1", "child": "SubsetSumPartialMatch_SubsetSum_RAM", "via": ["statement"]}
 {"parent": "EqualSubsetSum.Faster.theorem_1_1", "child": "EqualSubsetSum_Faster_Problem", "via": ["statement"]}
 {"parent": "SemiStreamReach_Main_PositiveOracle", "child": "SemiStreamReach_Main_Distances", "via": ["statement"]}
-{"parent": "DQIShattered.erasure_recovery_iff", "child": "DQIShattered_Decoding", "via": ["statement"]}
+{"parent": "DQIShattered.erasure_recovery_iff", "child": "DQIShattered_Decoding", "via": ["solution", "statement"]}
 {"parent": "OptQJunta.corollary_4_6", "child": "QAlgorithms_Defs_Query", "via": ["statement"]}
 {"parent": "OptQJunta.corollary_4_6", "child": "OptQJunta_infl", "via": ["statement"]}
 {"parent": "GlobalUpdatesFO.Upper.lemma_3_11", "child": "GlobalUpdatesFO_Upper_Flattening", "via": ["statement"]}

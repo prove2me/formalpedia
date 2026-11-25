@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExh_Check_iso_char
 -- name    : GlobalTheory.ThetaExh.Check.iso_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:22:55.36495+00:00
 -- url     : https://prove2.me/theorems/1b0bbea6-7fb6-4441-a925-704f7cda838a

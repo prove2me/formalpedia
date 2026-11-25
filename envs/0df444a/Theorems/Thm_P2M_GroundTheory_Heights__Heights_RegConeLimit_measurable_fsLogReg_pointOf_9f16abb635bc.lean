@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegConeLimit_measurable_fsLogReg_pointOf_9f16abb635bc
 -- name    : P2M_GroundTheory_Heights__Heights_RegConeLimit_measurable_fsLogReg_pointOf_9f16abb635bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:15:42.031808+00:00
 -- url     : https://prove2.me/theorems/d4b6ca4f-e948-48a1-9590-ec3b071255cd

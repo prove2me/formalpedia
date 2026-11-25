@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_frChg_refl_and_comp
 -- name    : GlobalTheory.Frames.frChg_refl_and_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:01.566404+00:00
 -- url     : https://prove2.me/theorems/e563d7ee-b919-4740-b7c0-e63ab242bbbd

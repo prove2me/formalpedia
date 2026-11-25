@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_Xlev_form
 -- name    : GlobalTheory.TateDecomp.Xlev_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:02:37.227826+00:00
 -- url     : https://prove2.me/theorems/0293341b-48ef-4016-89f2-03315da7599c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_exists_level
 -- name    : GlobalTheory.TateDecomp.exists_level
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:01:46.336336+00:00
 -- url     : https://prove2.me/theorems/132945b2-d845-51bf-bd52-c0c478cadddc

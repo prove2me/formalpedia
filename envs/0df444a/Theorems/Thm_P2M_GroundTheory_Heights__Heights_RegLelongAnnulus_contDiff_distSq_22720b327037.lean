@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_contDiff_distSq_22720b327037
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_contDiff_distSq_22720b327037
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:34.279815+00:00
 -- url     : https://prove2.me/theorems/2cff5718-ae33-45df-b23f-529731373688

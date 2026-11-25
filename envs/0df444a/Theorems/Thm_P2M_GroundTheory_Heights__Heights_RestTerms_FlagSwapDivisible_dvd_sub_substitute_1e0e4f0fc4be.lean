@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagSwapDivisible_dvd_sub_substitute_1e0e4f0fc4be
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagSwapDivisible_dvd_sub_substitute_1e0e4f0fc4be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:19:52.353057+00:00
 -- url     : https://prove2.me/theorems/749d0e5b-3870-4ae7-b2f0-d45d3c69302f

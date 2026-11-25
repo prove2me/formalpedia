@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_QuasiFiniteSheets_hasSheetsOff_union_47b1eb91459a
 -- name    : P2M_GroundTheory_Heights__Heights_QuasiFiniteSheets_hasSheetsOff_union_47b1eb91459a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:16:08.040798+00:00
 -- url     : https://prove2.me/theorems/690661fd-257f-49ec-901f-25c52f7462ad

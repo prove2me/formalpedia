@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_perm_eq_one_of_strictAnti_b6a2e97b94d9
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_perm_eq_one_of_strictAnti_b6a2e97b94d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:19:06.975487+00:00
 -- url     : https://prove2.me/theorems/2f75c308-8ce6-45f8-9e13-1ac20c451cf2

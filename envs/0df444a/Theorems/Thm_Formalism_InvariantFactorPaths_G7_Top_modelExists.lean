@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_Top_modelExists
 -- name    : Formalism.InvariantFactorPaths.G7.Top.modelExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:31:47.545538+00:00
 -- url     : https://prove2.me/theorems/794630e0-0af0-461e-b1b8-af669a4ee76e

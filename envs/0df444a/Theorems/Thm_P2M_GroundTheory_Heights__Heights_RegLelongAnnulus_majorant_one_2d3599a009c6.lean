@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_majorant_one_2d3599a009c6
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_majorant_one_2d3599a009c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:16:40.579326+00:00
 -- url     : https://prove2.me/theorems/551a790e-b226-4d44-8a5e-af1bc8ff92c6

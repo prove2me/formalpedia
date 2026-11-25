@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_FrameOrth_frame_orthonormal_isotropic
 -- name    : GlobalTheory.HCXi.FrameOrth.frame_orthonormal_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:46:43.224936+00:00
 -- url     : https://prove2.me/theorems/abd507fb-c5a4-4c16-b25e-006314e49d15

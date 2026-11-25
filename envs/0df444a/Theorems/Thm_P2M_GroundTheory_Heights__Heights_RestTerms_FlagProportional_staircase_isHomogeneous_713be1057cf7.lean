@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagProportional_staircase_isHomogeneous_713be1057cf7
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagProportional_staircase_isHomogeneous_713be1057cf7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:19:59.31443+00:00
 -- url     : https://prove2.me/theorems/f3b77497-614e-41a3-9571-df5528a6ae8d

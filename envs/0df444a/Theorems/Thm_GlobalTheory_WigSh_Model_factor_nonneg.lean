@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_Model_factor_nonneg
 -- name    : GlobalTheory.WigSh.Model.factor_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:53:40.780783+00:00
 -- url     : https://prove2.me/theorems/2a7539ae-d04a-46d3-8004-71c81bb2ae44

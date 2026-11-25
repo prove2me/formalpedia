@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_integral_comp_mul_C
 -- name    : Formalism.FourierDecayAlt.P.PBK.integral_comp_mul_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:52:00.503531+00:00
 -- url     : https://prove2.me/theorems/e637905c-b4e7-41ee-9629-1728219a9a1a

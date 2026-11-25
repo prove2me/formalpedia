@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjSecDegree_chartForm_projPar_2d49b4866f36
 -- name    : P2M_GroundTheory_Heights__Heights_ProjSecDegree_chartForm_projPar_2d49b4866f36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:05.99643+00:00
 -- url     : https://prove2.me/theorems/96b3cdd3-22db-57a2-aec5-669dbfeabd63

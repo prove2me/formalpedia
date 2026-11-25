@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_rank_indep_mem_embedding_invariant
 -- name    : GlobalTheory.rank_indep_mem_embedding_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:55:40.528808+00:00
 -- url     : https://prove2.me/theorems/1ed57b52-2967-4f80-a7d7-e3af88d9e7a8

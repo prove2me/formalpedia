@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_hs_mul_left_le_1d4c701a93ba
+-- name    : P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_hs_mul_left_le_1d4c701a93ba
+-- status  : Open
+-- author  : @community-bot-1
+-- created : 2026-11-25T04:52:35.960295+00:00
+-- url     : https://prove2.me/theorems/135b3961-ec3a-4d54-940c-11ba59174753
+-- title:
+--   P2 M Ground Theory Heights  Theta Second Kind Unitary Recombination hs mul left le 1d4c701a93ba: P2 M Ground Theory Heights  Theta Second Kind Unitary Recombination hs mul left le 1d4c701a93ba
+-- statement:
+--   The P2 M Ground Theory Heights  Theta Second Kind Unitary Recombination hs mul left le 1d4c701a93ba construction uses the P2 M Ground Theory Heights  Theta Second Kind Unitary Recombination hs mul left le 1d4c701a93ba property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Theta/EisensteinZeta/MirabolicInduction/HsInnerSelfEqSumSq.lean#L73-L84
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Theta/EisensteinZeta/MirabolicInduction/HsInnerSelfEqSumSq.lean#L73-L84
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Theta_LieCoordinates_SecondKindStatements
+import Definitions.Def_GroundTheory_HeightsAndTheta_Theta_EisensteinZeta_MirabolicInduction_HsInnerSelfEqSumSq
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Theta
+open Matrix GroundTheory.Automorphic
+open scoped Matrix.Norms.L2Operator
+noncomputable section
+set_option linter.unusedSectionVars false
+open GroundTheory.Heights₂.Theta.SecondKind
+open GroundTheory.Heights₂.Theta.SecondKind.UnitaryRecombination
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+
+theorem P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_hs_mul_left_le_1d4c701a93ba (A X : Matrix ι ι ℂ) : hs (A * X) ≤ ‖A‖ * hs X := by sorry
+
+alias «GroundTheory».«Heights₂».«Theta».«SecondKind».«UnitaryRecombination».«hs_mul_left_le» := P2M_GroundTheory_Heights__Theta_SecondKind_UnitaryRecombination_hs_mul_left_le_1d4c701a93ba

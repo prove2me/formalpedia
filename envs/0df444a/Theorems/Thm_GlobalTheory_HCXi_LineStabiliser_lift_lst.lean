@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_LineStabiliser_lift_lst
 -- name    : GlobalTheory.HCXi.LineStabiliser.lift_lst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:18:58.792287+00:00
 -- url     : https://prove2.me/theorems/39f1865b-be83-4e2b-be3c-834bfc56dec1

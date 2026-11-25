@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_isGandhiSecond_gandhiSecondOf
 -- name    : PretorsionImageClosed.LinearQuiver.isGandhiSecond_gandhiSecondOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:14:02.814413+00:00
 -- url     : https://prove2.me/theorems/749752f6-f079-4812-a4e9-02699ed84b0c

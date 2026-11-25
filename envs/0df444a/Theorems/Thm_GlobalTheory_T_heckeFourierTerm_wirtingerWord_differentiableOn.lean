@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeFourierTerm_wirtingerWord_differentiableOn
 -- name    : GlobalTheory.T.heckeFourierTerm_wirtingerWord_differentiableOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:43:50.64083+00:00
 -- url     : https://prove2.me/theorems/e65223f4-058d-41b2-9f41-124deb340b7d

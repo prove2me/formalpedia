@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_tendsto_shift_ne
 -- name    : Formalism.FourierDecayAlt.P.PBK.tendsto_shift_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:31.742175+00:00
 -- url     : https://prove2.me/theorems/e7ed49d6-7696-4840-a9f1-6ab42681e5e4

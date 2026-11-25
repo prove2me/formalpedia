@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjChowNonzero_toK_invSelf_f00771d14dee
 -- name    : P2M_GroundTheory_Heights__Heights_ProjChowNonzero_toK_invSelf_f00771d14dee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:16:23.47808+00:00
 -- url     : https://prove2.me/theorems/46c1099b-6a9c-4056-bf7e-18c219f303ea

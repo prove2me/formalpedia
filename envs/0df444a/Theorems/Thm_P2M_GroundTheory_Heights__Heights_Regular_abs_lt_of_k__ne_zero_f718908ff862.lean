@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_abs_lt_of_k__ne_zero_f718908ff862
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_abs_lt_of_k__ne_zero_f718908ff862
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:18:11.028227+00:00
 -- url     : https://prove2.me/theorems/bba44a76-c07f-41d3-86df-c4c56fc4a7b4

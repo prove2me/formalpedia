@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_psum_mem_range_c0a256d7f214
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_psum_mem_range_c0a256d7f214
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:55.407002+00:00
 -- url     : https://prove2.me/theorems/dca13a57-f1bb-42a0-9c79-aced9b3591a5

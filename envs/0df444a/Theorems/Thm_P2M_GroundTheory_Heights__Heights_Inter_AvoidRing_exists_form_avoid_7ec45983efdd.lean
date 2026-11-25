@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_AvoidRing_exists_form_avoid_7ec45983efdd
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_AvoidRing_exists_form_avoid_7ec45983efdd
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:20:28.089079+00:00
 -- url     : https://prove2.me/theorems/e4c147cf-7afe-4076-b946-1e79e7dc42e6

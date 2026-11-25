@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensLeibniz_dzb_cplx_sq_half_cccea07f6850
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensLeibniz_dzb_cplx_sq_half_cccea07f6850
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:49:13.459914+00:00
 -- url     : https://prove2.me/theorems/87216469-eadc-4efb-b6a2-796965e5ea18

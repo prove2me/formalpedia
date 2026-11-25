@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_TermBoundEq_flagIntegralReal_rootRingToReal_7e4d0bc52d89
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_TermBoundEq_flagIntegralReal_rootRingToReal_7e4d0bc52d89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:21:28.711869+00:00
 -- url     : https://prove2.me/theorems/5a26dfa2-94be-45e1-928b-af7cc52c6ff9

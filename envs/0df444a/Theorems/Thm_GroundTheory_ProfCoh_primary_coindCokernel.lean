@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_primary_coindCokernel
 -- name    : GroundTheory.ProfCoh.primary_coindCokernel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:36:10.026834+00:00
 -- url     : https://prove2.me/theorems/40e2ffea-b035-4072-9081-ec1dab528511

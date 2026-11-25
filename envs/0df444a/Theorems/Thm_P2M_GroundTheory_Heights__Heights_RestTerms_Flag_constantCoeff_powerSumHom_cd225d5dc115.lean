@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_constantCoeff_powerSumHom_cd225d5dc115
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_constantCoeff_powerSumHom_cd225d5dc115
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:50.063685+00:00
 -- url     : https://prove2.me/theorems/9cf4a64a-2430-571c-84ba-f4d673354e7a

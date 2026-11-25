@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_compound_injective_e33b2c31042c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_compound_injective_e33b2c31042c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:22:25.369415+00:00
 -- url     : https://prove2.me/theorems/db4a0d7d-00c3-4824-a24a-d0c3b2d45e4d

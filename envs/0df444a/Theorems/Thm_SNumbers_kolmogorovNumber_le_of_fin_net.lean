@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_kolmogorovNumber_le_of_fin_net
 -- name    : SNumbers.kolmogorovNumber_le_of_fin_net
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:46:59.917042+00:00
 -- url     : https://prove2.me/theorems/bc69bd80-c8c6-4f99-9840-7a983091ffc1

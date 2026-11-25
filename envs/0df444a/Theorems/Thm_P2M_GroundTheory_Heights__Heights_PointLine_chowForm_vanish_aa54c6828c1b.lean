@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointLine_chowForm_vanish_aa54c6828c1b
 -- name    : P2M_GroundTheory_Heights__Heights_PointLine_chowForm_vanish_aa54c6828c1b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:14:53.472809+00:00
 -- url     : https://prove2.me/theorems/f1a1d332-48dc-4378-87f4-5c2ce6cb782a

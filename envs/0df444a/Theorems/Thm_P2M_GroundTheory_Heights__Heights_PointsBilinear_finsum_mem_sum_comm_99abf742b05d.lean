@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointsBilinear_finsum_mem_sum_comm_99abf742b05d
 -- name    : P2M_GroundTheory_Heights__Heights_PointsBilinear_finsum_mem_sum_comm_99abf742b05d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:49.001482+00:00
 -- url     : https://prove2.me/theorems/9a8fc69d-2dce-43df-b71a-12da043407b5

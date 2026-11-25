@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_constantCoeff_aeval_of_zero_d253147093f5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_constantCoeff_aeval_of_zero_d253147093f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:21:12.282894+00:00
 -- url     : https://prove2.me/theorems/8f4ea546-3a19-5672-9b41-eb2ab46a8865

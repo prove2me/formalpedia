@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionIntegral_isMultiHomog_rename_f5aaf99b3a76
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ArithmeticIntersectionIntegral_isMultiHomog_rename_f5aaf99b3a76
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:28:06.351027+00:00
 -- url     : https://prove2.me/theorems/be5e2a1b-124b-4e48-bb0f-6490e217090e

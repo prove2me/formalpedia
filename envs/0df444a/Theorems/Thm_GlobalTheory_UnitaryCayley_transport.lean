@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryCayley_transport
 -- name    : GlobalTheory.UnitaryCayley.transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:01.716285+00:00
 -- url     : https://prove2.me/theorems/74d2e291-11ea-4ae5-a863-1e8c6c70e53e

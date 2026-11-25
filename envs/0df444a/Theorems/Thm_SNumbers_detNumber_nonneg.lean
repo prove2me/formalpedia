@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_detNumber_nonneg
 -- name    : SNumbers.detNumber_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:36:15.611887+00:00
 -- url     : https://prove2.me/theorems/d980b087-ca08-5ba8-abcd-291b75ecf24b

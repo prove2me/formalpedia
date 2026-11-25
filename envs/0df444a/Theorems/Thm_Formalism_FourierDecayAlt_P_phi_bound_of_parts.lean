@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_phi_bound_of_parts
 -- name    : Formalism.FourierDecayAlt.P.phi_bound_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:40:07.111833+00:00
 -- url     : https://prove2.me/theorems/e54bb25c-2994-4b93-ab32-90db4e240708

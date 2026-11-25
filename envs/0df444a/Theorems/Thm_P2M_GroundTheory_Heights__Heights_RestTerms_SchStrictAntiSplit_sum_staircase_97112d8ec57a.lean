@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchStrictAntiSplit_sum_staircase_97112d8ec57a
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchStrictAntiSplit_sum_staircase_97112d8ec57a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:21:15.893801+00:00
 -- url     : https://prove2.me/theorems/660ebf39-0133-44ba-b75d-49661875172d

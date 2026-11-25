@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplShortPrim_qf_smul_5c62df27a8af
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplShortPrim_qf_smul_5c62df27a8af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:27.055808+00:00
 -- url     : https://prove2.me/theorems/4aab4ad9-3fcc-421c-a272-8c828cbf9f2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_UnimodularLocalization_localFactor_localField
 -- name    : Formalism.HermitianLattices.Ext.L3.UnimodularLocalization.localFactor_localField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:24:34.986408+00:00
 -- url     : https://prove2.me/theorems/a9c4a7cf-c2a6-4cf8-87d9-f8911c01ba27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_cycHerbrand_integerUnits_eq_one
 -- name    : GroundTheory.LocalField.cycHerbrand_integerUnits_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:26:49.800808+00:00
 -- url     : https://prove2.me/theorems/9eaad7a0-aeae-46e6-8c16-bdf25907caed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_UnimodularLocalization_isIntegralLat_cut
 -- name    : Formalism.HermitianLattices.Ext.L3.UnimodularLocalization.isIntegralLat_cut
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:25:03.073899+00:00
 -- url     : https://prove2.me/theorems/c88f8d1f-deb0-477b-aeca-641dd3aa7d3c

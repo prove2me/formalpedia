@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_formal_multiplication_exists
 -- name    : Formalism.L2.Th1.B.Mul.formal_multiplication_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:27:41.701111+00:00
 -- url     : https://prove2.me/theorems/f9161e21-6700-5d27-868f-81cfc0ebb3b9

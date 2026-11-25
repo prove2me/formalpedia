@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_leftSmoothing_prodExp_smooth_commute
 -- name    : GlobalTheory.T.leftSmoothing_prodExp_smooth_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:25:29.976519+00:00
 -- url     : https://prove2.me/theorems/196ccea8-c97c-5d96-9ea8-de74d5f91e1e

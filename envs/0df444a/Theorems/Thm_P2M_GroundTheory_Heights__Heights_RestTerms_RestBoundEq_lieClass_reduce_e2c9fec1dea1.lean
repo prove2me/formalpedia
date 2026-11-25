@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_lieClass_reduce_e2c9fec1dea1
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_lieClass_reduce_e2c9fec1dea1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:28.294258+00:00
 -- url     : https://prove2.me/theorems/01ab7fca-5ae3-47fb-8fa3-54d07da6a027

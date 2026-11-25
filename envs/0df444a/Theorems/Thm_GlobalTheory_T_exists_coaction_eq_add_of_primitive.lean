@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_coaction_eq_add_of_primitive
 -- name    : GlobalTheory.T.exists_coaction_eq_add_of_primitive
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:44:22.045175+00:00
 -- url     : https://prove2.me/theorems/3a0d127c-6e94-4a0f-b2a9-83a61a8acb32

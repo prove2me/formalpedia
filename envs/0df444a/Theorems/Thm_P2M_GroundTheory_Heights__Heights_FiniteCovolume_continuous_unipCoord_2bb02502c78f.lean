@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_continuous_unipCoord_2bb02502c78f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_continuous_unipCoord_2bb02502c78f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:19:47.755001+00:00
 -- url     : https://prove2.me/theorems/1fd339fe-a659-4ccf-af90-acebf0353456

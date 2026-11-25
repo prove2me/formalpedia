@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreIncompressibility_comap_C_imageZ_7619ff6e0cce
 -- name    : P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreIncompressibility_comap_C_imageZ_7619ff6e0cce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:20:00.491949+00:00
 -- url     : https://prove2.me/theorems/09a4a153-1719-466f-894c-4aa2de18d680

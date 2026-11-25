@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_half_le_entropyNumber_id
 -- name    : SNumbers.half_le_entropyNumber_id
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:49:38.292246+00:00
 -- url     : https://prove2.me/theorems/04ad5632-034c-4537-a5f2-417960a6874d

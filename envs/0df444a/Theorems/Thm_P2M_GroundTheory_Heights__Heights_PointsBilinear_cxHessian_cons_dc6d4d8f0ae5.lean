@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointsBilinear_cxHessian_cons_dc6d4d8f0ae5
 -- name    : P2M_GroundTheory_Heights__Heights_PointsBilinear_cxHessian_cons_dc6d4d8f0ae5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:28.755667+00:00
 -- url     : https://prove2.me/theorems/0c73b007-7155-4be4-a4dd-ea704f6b41d7

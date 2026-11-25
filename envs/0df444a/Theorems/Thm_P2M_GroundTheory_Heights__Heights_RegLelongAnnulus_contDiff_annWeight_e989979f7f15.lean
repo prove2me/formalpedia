@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_contDiff_annWeight_e989979f7f15
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_contDiff_annWeight_e989979f7f15
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:43.350743+00:00
 -- url     : https://prove2.me/theorems/d47d132e-33eb-4806-8661-046c6e9ed917

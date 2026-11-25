@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_constantCoeff_completeSymmetric_010966416004
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_constantCoeff_completeSymmetric_010966416004
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:21:21.506257+00:00
 -- url     : https://prove2.me/theorems/ef407d72-b73f-435e-9102-71d9df334785

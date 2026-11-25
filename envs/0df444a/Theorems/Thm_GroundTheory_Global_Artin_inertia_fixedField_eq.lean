@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_inertia_fixedField_eq
 -- name    : GroundTheory.Global.Artin.inertia_fixedField_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:46:13.145437+00:00
 -- url     : https://prove2.me/theorems/4c564064-4941-5730-bcb1-ba85b7977943

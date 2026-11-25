@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_Scene_BlockRows_fill_membership_row
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.BlockRows.fill_membership_row
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-25T04:48:45.895556+00:00
 -- url     : https://prove2.me/theorems/9b8f5add-4aca-4363-9f53-b6888d543343

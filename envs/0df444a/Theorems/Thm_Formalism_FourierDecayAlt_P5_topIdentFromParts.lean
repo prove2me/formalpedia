@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_topIdentFromParts
 -- name    : Formalism.FourierDecayAlt.P5.topIdentFromParts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:53:59.420083+00:00
 -- url     : https://prove2.me/theorems/6b0f15cb-c43f-5306-a86d-3e9862693a22

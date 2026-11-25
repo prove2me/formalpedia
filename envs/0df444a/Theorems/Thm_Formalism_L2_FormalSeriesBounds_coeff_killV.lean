@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_killV
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_killV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:25:25.52926+00:00
 -- url     : https://prove2.me/theorems/3ca13893-ebd2-59cc-b976-bab552ae0b04

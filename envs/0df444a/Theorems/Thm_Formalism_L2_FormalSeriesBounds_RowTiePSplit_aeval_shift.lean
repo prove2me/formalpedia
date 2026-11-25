@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RowTiePSplit_aeval_shift
 -- name    : Formalism.L2.FormalSeriesBounds.RowTiePSplit.aeval_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:30:10.651114+00:00
 -- url     : https://prove2.me/theorems/36a24f81-79a7-4ebc-8a15-ea308c7ef46e

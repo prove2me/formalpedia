@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_mulDcris_tmul
 -- name    : GlobalTheory.FontCmp.mulDcris_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:28:26.289802+00:00
 -- url     : https://prove2.me/theorems/c361410f-0fea-5c3c-a322-c391e8c6451e

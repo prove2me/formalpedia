@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointSliceMass_line_sup_eq_ker_6fb74c079fa9
 -- name    : P2M_GroundTheory_Heights__Heights_PointSliceMass_line_sup_eq_ker_6fb74c079fa9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:07.442003+00:00
 -- url     : https://prove2.me/theorems/996f84be-214e-434c-95b5-ae85f35f510d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_DivCycleGeneric_genericIdeal_eq_ab3f42321e11
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_DivCycleGeneric_genericIdeal_eq_ab3f42321e11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:13:18.644799+00:00
 -- url     : https://prove2.me/theorems/0796b1c2-2d00-446b-b2df-2eed068923c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_herm_add_r
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.herm_add_r
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:14:08.330496+00:00
 -- url     : https://prove2.me/theorems/db908b7c-bd9a-4d70-8306-570f579323a3

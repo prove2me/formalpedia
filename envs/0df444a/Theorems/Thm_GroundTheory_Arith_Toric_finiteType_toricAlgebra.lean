@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_finiteType_toricAlgebra
 -- name    : GroundTheory.Arith.Toric.finiteType_toricAlgebra
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:56:11.926814+00:00
 -- url     : https://prove2.me/theorems/7d06e341-ce76-4598-8687-0b36c7376910

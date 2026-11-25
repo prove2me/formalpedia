@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Elem_det_mul_expand_87daf8b7a418
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Elem_det_mul_expand_87daf8b7a418
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:19:01.843875+00:00
 -- url     : https://prove2.me/theorems/c79ab2fc-dcdc-418b-99f6-87569a46baa2

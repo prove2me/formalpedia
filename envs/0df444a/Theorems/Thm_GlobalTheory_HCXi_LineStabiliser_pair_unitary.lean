@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_LineStabiliser_pair_unitary
 -- name    : GlobalTheory.HCXi.LineStabiliser.pair_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:58.815683+00:00
 -- url     : https://prove2.me/theorems/a6ba3c51-d477-4eb8-b760-41aa7f7bb392

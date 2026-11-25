@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchurSignCoefficient_coeff_aeval_diagonal_0e15d31de021
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchurSignCoefficient_coeff_aeval_diagonal_0e15d31de021
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:20:54.028909+00:00
 -- url     : https://prove2.me/theorems/12658067-af6d-551a-92e9-8875a138f50c

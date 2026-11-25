@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_translation_fixing_bundle_artin_point_eq_one
 -- name    : GlobalTheory.T.translation_fixing_bundle_artin_point_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:03.265335+00:00
 -- url     : https://prove2.me/theorems/ab07d2c1-0771-40c4-ac4c-6a046c408ab9

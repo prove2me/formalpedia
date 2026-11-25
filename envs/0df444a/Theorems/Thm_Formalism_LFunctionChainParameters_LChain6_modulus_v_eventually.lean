@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_modulus_v_eventually
 -- name    : Formalism.LFunctionChainParameters.LChain6.modulus_v_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:02:30.401674+00:00
 -- url     : https://prove2.me/theorems/150931aa-be1f-5af3-8b39-9eec0b703bfc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_exists_smooth_bump_of_isCompact_d659e4202a0f
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_exists_smooth_bump_of_isCompact_d659e4202a0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:18:52.221467+00:00
 -- url     : https://prove2.me/theorems/2f6909d6-27fb-4726-a550-27794987b239

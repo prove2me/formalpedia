@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_FirstOrderNbhd_mul_eq_zero_of_lift
 -- name    : GlobalTheory.CompanionTheory.FirstOrderNbhd.mul_eq_zero_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:09:47.742466+00:00
 -- url     : https://prove2.me/theorems/406d9305-7fbd-4491-905d-67de2e0b69ea

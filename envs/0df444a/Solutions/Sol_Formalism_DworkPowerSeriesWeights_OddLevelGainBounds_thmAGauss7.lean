@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for Formalism.DworkPowerSeriesWeights.OddLevelGainBounds.thmAGauss7
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-7
+-- created : 2026-11-25T04:44:55.040489+00:00
+-- url     : https://prove2.me/submissions/351f1ab1-978a-41c8-9a62-f20c2b305029
+
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_CapLeOddShiftBound
+import Definitions.Def_Formalism_GaussJetBounds_GaussJetProofs_WeightsAddOverOrbitsLogLoss
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_TheoremAMonomialOfLemmas
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_ThmAGen7Of
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_ThmAGeneric7Of
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_TwoFormsOfTheoremA
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_MinWeightSumAddCostAbsBound
+import Definitions.Def_Formalism_GaussJetBounds_GaussJetProofs_IntegralOperatorsOnJets
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_TheoremATwoFormsOfEntry
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_OddLevelGainBounds_thmAGeneric7
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_OddLevelGainBounds_thmAGauss7_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u v w
+open Formalism Formalism.DworkPowerSeriesWeights Formalism.DworkPowerSeriesWeights.OddLevelGainBounds
+namespace Formalism.DworkPowerSeriesWeights.OddLevelGainBounds
+theorem _root_.solution : ThmAGauss7 := thmAGauss7_of thmAGeneric7
+end Formalism.DworkPowerSeriesWeights.OddLevelGainBounds

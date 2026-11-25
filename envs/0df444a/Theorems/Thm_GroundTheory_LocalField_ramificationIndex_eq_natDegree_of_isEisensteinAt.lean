@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ramificationIndex_eq_natDegree_of_isEisensteinAt
 -- name    : GroundTheory.LocalField.ramificationIndex_eq_natDegree_of_isEisensteinAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:15:37.703737+00:00
 -- url     : https://prove2.me/theorems/c090aaf7-fc58-567c-8a28-d51f88c232cf

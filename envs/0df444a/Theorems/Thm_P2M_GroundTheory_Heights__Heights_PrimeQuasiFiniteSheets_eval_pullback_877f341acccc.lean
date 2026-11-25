@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PrimeQuasiFiniteSheets_eval_pullback_877f341acccc
 -- name    : P2M_GroundTheory_Heights__Heights_PrimeQuasiFiniteSheets_eval_pullback_877f341acccc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:16:09.304268+00:00
 -- url     : https://prove2.me/theorems/47fb9514-9dd9-4c44-a1a9-7d7c3acf6ba2

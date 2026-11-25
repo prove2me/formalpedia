@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RatChartChangeVar_ratPosDens_split_c1d7b98829fe
 -- name    : P2M_GroundTheory_Heights__Heights_RatChartChangeVar_ratPosDens_split_c1d7b98829fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:17:52.694829+00:00
 -- url     : https://prove2.me/theorems/6abb44cf-b422-4c4b-a904-51a91d5efcc1

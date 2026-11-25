@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_prod_factorial_stairExp_0101bfdf00e6
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_prod_factorial_stairExp_0101bfdf00e6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:19:27.09436+00:00
 -- url     : https://prove2.me/theorems/b8304307-48bd-4a8a-a12f-5a89c3570771

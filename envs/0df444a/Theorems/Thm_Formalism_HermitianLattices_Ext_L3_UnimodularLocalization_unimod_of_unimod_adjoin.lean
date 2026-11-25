@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_UnimodularLocalization_unimod_of_unimod_adjoin
 -- name    : Formalism.HermitianLattices.Ext.L3.UnimodularLocalization.unimod_of_unimod_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:24:36.229564+00:00
 -- url     : https://prove2.me/theorems/ac807451-9c20-497a-a0d0-2da7b29226b8

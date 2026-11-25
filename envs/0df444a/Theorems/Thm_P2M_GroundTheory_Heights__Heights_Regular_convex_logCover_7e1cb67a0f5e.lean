@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_convex_logCover_7e1cb67a0f5e
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_convex_logCover_7e1cb67a0f5e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:19:50.731746+00:00
 -- url     : https://prove2.me/theorems/362ac246-4d77-45da-8e7e-cf5bf3e19188

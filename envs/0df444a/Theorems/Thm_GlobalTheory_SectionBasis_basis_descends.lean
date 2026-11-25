@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_basis_descends
 -- name    : GlobalTheory.SectionBasis.basis_descends
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:52:13.973828+00:00
 -- url     : https://prove2.me/theorems/d531b000-1107-4f3a-876f-6e507c5a41d5

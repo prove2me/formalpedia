@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_slice_noncusp_f59f6f6ffc67
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_slice_noncusp_f59f6f6ffc67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:17:25.002986+00:00
 -- url     : https://prove2.me/theorems/ff68176a-16fe-4f18-a6a2-4b047d4ac3fc

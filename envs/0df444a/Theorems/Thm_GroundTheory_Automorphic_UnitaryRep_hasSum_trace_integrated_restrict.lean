@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_hasSum_trace_integrated_restrict
 -- name    : GroundTheory.Automorphic.UnitaryRep.hasSum_trace_integrated_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:58:25.105835+00:00
 -- url     : https://prove2.me/theorems/8faf4698-36c8-49d8-95c4-0e6e6479875c

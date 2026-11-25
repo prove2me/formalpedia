@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_blowUpOf_isPrime_f9d5f4560679
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_blowUpOf_isPrime_f9d5f4560679
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:09:46.765854+00:00
 -- url     : https://prove2.me/theorems/4945b1e8-164e-4457-9c17-39625f65348f

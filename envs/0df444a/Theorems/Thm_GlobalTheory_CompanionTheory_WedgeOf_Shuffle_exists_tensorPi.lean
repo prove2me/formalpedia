@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_Shuffle_exists_tensorPi
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.Shuffle.exists_tensorPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:53:01.580854+00:00
 -- url     : https://prove2.me/theorems/55592a11-4cc1-45c2-baf1-649248881944

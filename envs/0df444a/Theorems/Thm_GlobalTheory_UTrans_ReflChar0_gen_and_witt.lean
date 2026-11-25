@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UTrans_ReflChar0_gen_and_witt
 -- name    : GlobalTheory.UTrans.ReflChar0.gen_and_witt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:58:43.262274+00:00
 -- url     : https://prove2.me/theorems/5a3049f7-a833-4e6d-bd27-7be586cf4992

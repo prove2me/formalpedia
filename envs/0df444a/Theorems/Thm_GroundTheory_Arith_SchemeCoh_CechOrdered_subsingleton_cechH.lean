@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_CechOrdered_subsingleton_cechH
 -- name    : GroundTheory.Arith.SchemeCoh.CechOrdered.subsingleton_cechH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:30:38.907735+00:00
 -- url     : https://prove2.me/theorems/766a40bc-2730-4e3c-b7d8-3cfa2e5563e5

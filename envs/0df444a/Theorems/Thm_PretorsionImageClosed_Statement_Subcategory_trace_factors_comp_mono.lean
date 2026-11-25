@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_trace_factors_comp_mono
 -- name    : PretorsionImageClosed.Statement.Subcategory.trace_factors_comp_mono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:51:12.578149+00:00
 -- url     : https://prove2.me/theorems/7b104b52-a5b7-59bc-a105-35d07c060e63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_cDom_iff
 -- name    : GlobalTheory.KTypeCompare.cDom_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:15.221726+00:00
 -- url     : https://prove2.me/theorems/1e1fff39-7264-47cf-8bf6-5dbc55ba22e5

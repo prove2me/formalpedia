@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RecQOfRecursion_logFormNorm_eq_bab2e108a793
 -- name    : P2M_GroundTheory_Heights__Heights_RecQOfRecursion_logFormNorm_eq_bab2e108a793
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:16:55.847889+00:00
 -- url     : https://prove2.me/theorems/6a9d7089-67fb-43e4-8edc-6e4cb31e7c78

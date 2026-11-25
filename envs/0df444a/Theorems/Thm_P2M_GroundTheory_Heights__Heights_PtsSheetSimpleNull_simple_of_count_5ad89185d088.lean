@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsSheetSimpleNull_simple_of_count_5ad89185d088
 -- name    : P2M_GroundTheory_Heights__Heights_PtsSheetSimpleNull_simple_of_count_5ad89185d088
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:23:27.465547+00:00
 -- url     : https://prove2.me/theorems/e765c88a-b37b-5aae-8e17-fa1777e06008

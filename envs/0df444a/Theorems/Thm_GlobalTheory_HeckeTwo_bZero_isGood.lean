@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwo_bZero_isGood
 -- name    : GlobalTheory.HeckeTwo.bZero_isGood
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T14:07:11.85353+00:00
 -- url     : https://prove2.me/theorems/8fb80a9c-66a1-4b06-97ba-dcb72e48d0d4

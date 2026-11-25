@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_PolyMaxLowerBound_log_inv_half_sq_80bf2af2ba69
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_PolyMaxLowerBound_log_inv_half_sq_80bf2af2ba69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:17:47.839805+00:00
 -- url     : https://prove2.me/theorems/38c55963-9b81-4ba7-89b3-7fa3bb92133e

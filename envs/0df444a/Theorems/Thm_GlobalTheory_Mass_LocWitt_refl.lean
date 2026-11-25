@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LocWitt_refl
 -- name    : GlobalTheory.Mass.LocWitt.refl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:00:06.797219+00:00
 -- url     : https://prove2.me/theorems/61d5d1c1-1847-51e9-837e-ca7ac010da6f

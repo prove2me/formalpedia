@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_gmap_injective
 -- name    : GlobalTheory.TripInv.gmap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:33:15.293156+00:00
 -- url     : https://prove2.me/theorems/16d8452f-c783-51e5-aa38-f7da1521c8aa

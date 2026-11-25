@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisHeat_eventually_posDef
 -- name    : GlobalTheory.SW.EisHeat.eventually_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:28:07.369985+00:00
 -- url     : https://prove2.me/theorems/e58cc9f8-91a6-4e8b-bf38-68cbd81f8a5e

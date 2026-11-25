@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_simeq_iff_cl
 -- name    : Formalism.L2.Th1.B.Mul.simeq_iff_cl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:27:24.630825+00:00
 -- url     : https://prove2.me/theorems/5841ce34-af69-5ca0-a0f8-68e3380246d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_tmax_comp_equiv_31ff04f21355
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_tmax_comp_equiv_31ff04f21355
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:19:20.265277+00:00
 -- url     : https://prove2.me/theorems/5b941bab-6217-472e-833b-c622aa364fc9

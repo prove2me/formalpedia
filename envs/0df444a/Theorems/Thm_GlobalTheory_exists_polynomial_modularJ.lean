@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_polynomial_modularJ
 -- name    : GlobalTheory.exists_polynomial_modularJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:36:13.318882+00:00
 -- url     : https://prove2.me/theorems/ae5ce259-9711-4c36-8873-7d83cc08a848

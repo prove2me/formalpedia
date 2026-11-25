@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagPairCharacterisation_flag_mono_135fd2cc50e5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagPairCharacterisation_flag_mono_135fd2cc50e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:12:55.665177+00:00
 -- url     : https://prove2.me/theorems/454eff21-1ab1-5fe1-ae0e-52fb012d9698

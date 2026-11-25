@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L1Linf_inner_row
 -- name    : SNumbers.L1Linf.inner_row
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:42:32.857173+00:00
 -- url     : https://prove2.me/theorems/2f9e5643-4a05-440b-a49e-8fbd2aa79aec

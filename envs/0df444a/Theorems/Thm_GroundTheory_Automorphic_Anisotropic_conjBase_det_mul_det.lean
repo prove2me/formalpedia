@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_conjBase_det_mul_det
 -- name    : GroundTheory.Automorphic.Anisotropic.conjBase_det_mul_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:26:11.846836+00:00
 -- url     : https://prove2.me/theorems/bf44fcd6-4020-47d5-8827-c758f90af382

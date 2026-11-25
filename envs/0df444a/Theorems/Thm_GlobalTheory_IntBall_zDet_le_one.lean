@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_zDet_le_one
 -- name    : GlobalTheory.IntBall.zDet_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:46:01.076084+00:00
 -- url     : https://prove2.me/theorems/c1f46f69-5b14-401c-9ae3-04250e27f909

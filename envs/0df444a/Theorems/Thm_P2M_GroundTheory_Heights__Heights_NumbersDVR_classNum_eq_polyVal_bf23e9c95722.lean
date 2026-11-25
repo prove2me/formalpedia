@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_classNum_eq_polyVal_bf23e9c95722
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_classNum_eq_polyVal_bf23e9c95722
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:09:48.760835+00:00
 -- url     : https://prove2.me/theorems/937ef740-3273-4a91-9ba8-2cbaaa423ed2

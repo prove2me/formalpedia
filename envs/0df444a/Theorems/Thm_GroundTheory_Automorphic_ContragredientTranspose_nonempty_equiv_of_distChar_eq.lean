@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_nonempty_equiv_of_distChar_eq
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.nonempty_equiv_of_distChar_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:56:03.56348+00:00
 -- url     : https://prove2.me/theorems/925de001-9795-575b-9cec-4dda37b03d7e

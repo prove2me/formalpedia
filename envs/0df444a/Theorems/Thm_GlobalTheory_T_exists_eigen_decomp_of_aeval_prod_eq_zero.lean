@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_eigen_decomp_of_aeval_prod_eq_zero
 -- name    : GlobalTheory.T.exists_eigen_decomp_of_aeval_prod_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:25.060085+00:00
 -- url     : https://prove2.me/theorems/6584daaa-ccff-475d-8c3f-f77ef52a26ce

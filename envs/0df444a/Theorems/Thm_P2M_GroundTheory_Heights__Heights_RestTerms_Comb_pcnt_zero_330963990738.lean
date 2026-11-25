@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Comb_pcnt_zero_330963990738
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Comb_pcnt_zero_330963990738
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:18:55.853094+00:00
 -- url     : https://prove2.me/theorems/ceaaa301-eb9a-4d75-b0e1-e522d83899c3

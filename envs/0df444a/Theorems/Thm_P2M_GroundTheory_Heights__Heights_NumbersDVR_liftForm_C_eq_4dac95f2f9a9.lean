@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_liftForm_C_eq_4dac95f2f9a9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_liftForm_C_eq_4dac95f2f9a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:11:04.117971+00:00
 -- url     : https://prove2.me/theorems/aaf7c519-86a4-4493-b481-f814575c11c0

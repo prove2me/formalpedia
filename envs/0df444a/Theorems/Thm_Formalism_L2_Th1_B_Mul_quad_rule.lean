@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_quad_rule
 -- name    : Formalism.L2.Th1.B.Mul.quad_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:27:35.740801+00:00
 -- url     : https://prove2.me/theorems/feda49dc-5132-5a42-9481-4535ce9977fc

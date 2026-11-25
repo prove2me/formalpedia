@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjChowNonzero_toK_injective_619b1b6f8180
 -- name    : P2M_GroundTheory_Heights__Heights_ProjChowNonzero_toK_injective_619b1b6f8180
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:15:34.901844+00:00
 -- url     : https://prove2.me/theorems/d4aa5930-4a8c-50a9-9d67-8e2cd57ee15b

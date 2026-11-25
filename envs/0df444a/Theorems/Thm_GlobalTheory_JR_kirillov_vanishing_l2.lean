@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_kirillov_vanishing_l2
 -- name    : GlobalTheory.JR.kirillov_vanishing_l2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:40:08.153911+00:00
 -- url     : https://prove2.me/theorems/1638db5a-2d88-4545-8a8b-e031e5817146

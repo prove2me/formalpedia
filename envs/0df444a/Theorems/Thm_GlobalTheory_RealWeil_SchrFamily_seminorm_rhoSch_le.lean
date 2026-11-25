@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_SchrFamily_seminorm_rhoSch_le
 -- name    : GlobalTheory.RealWeil.SchrFamily.seminorm_rhoSch_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:18:33.150247+00:00
 -- url     : https://prove2.me/theorems/f9242ac6-229a-4ec0-bbd7-0446b00f2a65

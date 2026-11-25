@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBL_gramLoc_setC
 -- name    : Formalism.FourierDecayAlt.P.PBL.gramLoc_setC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:42:48.247816+00:00
 -- url     : https://prove2.me/theorems/662a817e-83c4-561e-99ae-fe7350b69ca6

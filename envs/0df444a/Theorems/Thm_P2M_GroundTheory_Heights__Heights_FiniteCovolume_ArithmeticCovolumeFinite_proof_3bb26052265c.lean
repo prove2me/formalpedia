@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_ArithmeticCovolumeFinite_proof_3bb26052265c
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_ArithmeticCovolumeFinite_proof_3bb26052265c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:14:55.797492+00:00
 -- url     : https://prove2.me/theorems/46695297-3de0-419e-aaeb-6bce67370593

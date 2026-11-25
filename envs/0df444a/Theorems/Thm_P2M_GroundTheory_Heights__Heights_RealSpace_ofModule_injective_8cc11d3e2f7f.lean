@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RealSpace_ofModule_injective_8cc11d3e2f7f
 -- name    : P2M_GroundTheory_Heights__Heights_RealSpace_ofModule_injective_8cc11d3e2f7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:15:37.862567+00:00
 -- url     : https://prove2.me/theorems/b611a5ed-2e58-4cbd-8574-6f0f511c21b2

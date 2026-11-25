@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchSchurEvalMatrix_aeval_completeSymmetric_753585198774
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchSchurEvalMatrix_aeval_completeSymmetric_753585198774
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:20:19.472033+00:00
 -- url     : https://prove2.me/theorems/089eeb99-db8e-47c6-b630-e922a1e2f7cb

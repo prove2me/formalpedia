@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_real_mono
 -- name    : Formalism.GM.leadingTermLemmas.real_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:50:50.753089+00:00
 -- url     : https://prove2.me/theorems/1ff50bc2-5647-4cfb-bf6b-ce72b0bdbf9e

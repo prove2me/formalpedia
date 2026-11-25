@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MatrixDetDeriv_proof_956b2a556dd4
 -- name    : P2M_GroundTheory_Heights__Heights_MatrixDetDeriv_proof_956b2a556dd4
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:47:14.618993+00:00
 -- url     : https://prove2.me/theorems/9e6262e2-7523-461a-9fad-875e60f53a93

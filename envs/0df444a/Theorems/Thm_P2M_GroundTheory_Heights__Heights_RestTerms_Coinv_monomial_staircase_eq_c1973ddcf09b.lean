@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_monomial_staircase_eq_c1973ddcf09b
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_monomial_staircase_eq_c1973ddcf09b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:19:02.790804+00:00
 -- url     : https://prove2.me/theorems/08cd37a3-d52a-4dbe-b79b-b7e5aa66e2d4

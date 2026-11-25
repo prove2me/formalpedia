@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechTop_proof_df941c76f478
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CechTop_proof_df941c76f478
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:34:19.683378+00:00
 -- url     : https://prove2.me/theorems/136b02d5-9cc1-4ac7-a5f8-294d0008f3f6

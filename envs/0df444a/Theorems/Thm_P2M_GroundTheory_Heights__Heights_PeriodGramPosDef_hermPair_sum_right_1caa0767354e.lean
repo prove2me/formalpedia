@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PeriodGramPosDef_hermPair_sum_right_1caa0767354e
 -- name    : P2M_GroundTheory_Heights__Heights_PeriodGramPosDef_hermPair_sum_right_1caa0767354e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:39.075779+00:00
 -- url     : https://prove2.me/theorems/c81e491d-3c89-45a1-a4f6-763b3eb87179

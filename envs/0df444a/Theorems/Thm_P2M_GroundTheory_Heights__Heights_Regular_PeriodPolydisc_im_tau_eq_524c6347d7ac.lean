@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_PeriodPolydisc_im_tau_eq_524c6347d7ac
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_PeriodPolydisc_im_tau_eq_524c6347d7ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:17:40.864876+00:00
 -- url     : https://prove2.me/theorems/a1cfc123-d6da-4abe-81f0-f732214caba0

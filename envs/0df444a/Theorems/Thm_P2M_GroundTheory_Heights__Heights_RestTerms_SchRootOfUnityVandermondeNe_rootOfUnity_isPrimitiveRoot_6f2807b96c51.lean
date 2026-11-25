@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchRootOfUnityVandermondeNe_rootOfUnity_isPrimitiveRoot_6f2807b96c51
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchRootOfUnityVandermondeNe_rootOfUnity_isPrimitiveRoot_6f2807b96c51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:20:51.184117+00:00
 -- url     : https://prove2.me/theorems/1b438e0a-2a92-48f0-945d-62718e9f9137

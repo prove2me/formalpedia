@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_TermBoundEq_dual_flagIntegralReal_b52c6bfda3fc
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_TermBoundEq_dual_flagIntegralReal_b52c6bfda3fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:21:04.488817+00:00
 -- url     : https://prove2.me/theorems/dd16415f-ad39-483f-9a1b-f34c8be65347

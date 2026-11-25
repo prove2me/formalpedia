@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegFixedBallMass_chartDens_weight_mono_807676a64ee3
 -- name    : P2M_GroundTheory_Heights__Heights_RegFixedBallMass_chartDens_weight_mono_807676a64ee3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:13.599269+00:00
 -- url     : https://prove2.me/theorems/2575c741-880a-5a67-b660-8b8a69d98375

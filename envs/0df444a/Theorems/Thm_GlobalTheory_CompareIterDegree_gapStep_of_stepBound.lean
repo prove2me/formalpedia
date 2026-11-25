@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_gapStep_of_stepBound
 -- name    : GlobalTheory.CompareIterDegree.gapStep_of_stepBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:57:44.791394+00:00
 -- url     : https://prove2.me/theorems/c85de3a4-f1cf-479e-9928-619a36a8688a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_antisymmetrize_one_eq_721afeca8374
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_antisymmetrize_one_eq_721afeca8374
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:35.942164+00:00
 -- url     : https://prove2.me/theorems/b59fad82-a45e-4a38-ad30-d79534fee22d

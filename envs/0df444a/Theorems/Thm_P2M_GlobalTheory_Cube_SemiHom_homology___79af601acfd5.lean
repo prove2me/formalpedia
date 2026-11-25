@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Cube_SemiHom_homology___79af601acfd5
 -- name    : P2M_GlobalTheory_Cube_SemiHom_homology___79af601acfd5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:40:47.997885+00:00
 -- url     : https://prove2.me/theorems/7910aa7f-77a8-460e-99ee-548ba122b00b

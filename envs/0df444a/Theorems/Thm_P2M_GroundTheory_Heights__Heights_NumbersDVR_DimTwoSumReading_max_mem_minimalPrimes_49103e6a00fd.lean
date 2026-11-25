@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DimTwoSumReading_max_mem_minimalPrimes_49103e6a00fd
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DimTwoSumReading_max_mem_minimalPrimes_49103e6a00fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:06:03.341987+00:00
 -- url     : https://prove2.me/theorems/160b67d1-baa1-4b17-8cf0-05f48d45e035

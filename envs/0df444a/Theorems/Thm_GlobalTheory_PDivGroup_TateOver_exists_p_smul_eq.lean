@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_TateOver_exists_p_smul_eq
 -- name    : GlobalTheory.PDivGroup.TateOver.exists_p_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:58:30.850807+00:00
 -- url     : https://prove2.me/theorems/58a1dd3c-1103-4542-8203-b120b6d3141b

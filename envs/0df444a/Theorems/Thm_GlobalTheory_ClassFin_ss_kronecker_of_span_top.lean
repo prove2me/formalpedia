@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ClassFin_ss_kronecker_of_span_top
 -- name    : GlobalTheory.ClassFin.ss_kronecker_of_span_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:11:54.472272+00:00
 -- url     : https://prove2.me/theorems/92ce675c-267d-4112-b698-5626f0296b23

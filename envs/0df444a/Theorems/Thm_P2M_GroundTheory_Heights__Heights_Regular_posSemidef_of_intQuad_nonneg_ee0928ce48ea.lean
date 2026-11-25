@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_posSemidef_of_intQuad_nonneg_ee0928ce48ea
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_posSemidef_of_intQuad_nonneg_ee0928ce48ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:27.041534+00:00
 -- url     : https://prove2.me/theorems/8af566b0-39a8-405f-abc9-63a442591934

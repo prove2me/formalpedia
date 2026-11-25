@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_measurableSet_euclBall_b78b99940d0d
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_measurableSet_euclBall_b78b99940d0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:17:39.479237+00:00
 -- url     : https://prove2.me/theorems/19dac696-2d32-437d-a2ff-38e4ed6a4279

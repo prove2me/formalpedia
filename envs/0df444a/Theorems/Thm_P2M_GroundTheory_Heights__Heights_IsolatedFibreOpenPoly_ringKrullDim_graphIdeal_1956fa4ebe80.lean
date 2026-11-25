@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_ringKrullDim_graphIdeal_1956fa4ebe80
 -- name    : P2M_GroundTheory_Heights__Heights_IsolatedFibreOpenPoly_ringKrullDim_graphIdeal_1956fa4ebe80
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:45:34.194888+00:00
 -- url     : https://prove2.me/theorems/846e8f79-4a53-4f8f-b1e8-5c131d41cec5

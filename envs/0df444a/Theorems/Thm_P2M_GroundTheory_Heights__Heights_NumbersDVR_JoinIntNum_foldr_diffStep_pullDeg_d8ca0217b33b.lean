@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_foldr_diffStep_pullDeg_d8ca0217b33b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_foldr_diffStep_pullDeg_d8ca0217b33b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:06:47.464451+00:00
 -- url     : https://prove2.me/theorems/4b1a035f-127c-4d45-a019-438a10d2662a

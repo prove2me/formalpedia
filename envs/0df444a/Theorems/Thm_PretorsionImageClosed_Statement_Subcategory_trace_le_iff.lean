@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_trace_le_iff
 -- name    : PretorsionImageClosed.Statement.Subcategory.trace_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:51:42.588504+00:00
 -- url     : https://prove2.me/theorems/c5a2fca6-14e2-4e5a-82c8-83af718db6bd

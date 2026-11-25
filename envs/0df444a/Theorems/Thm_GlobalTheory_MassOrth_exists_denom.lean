@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassOrth_exists_denom
 -- name    : GlobalTheory.MassOrth.exists_denom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:32:19.847318+00:00
 -- url     : https://prove2.me/theorems/cf25a63b-4470-4e84-8b6f-78a0e9573a46

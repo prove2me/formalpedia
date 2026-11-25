@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectivePointsOfPlane_eval__formPoly_18eb8109d79c
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectivePointsOfPlane_eval__formPoly_18eb8109d79c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:15:50.577151+00:00
 -- url     : https://prove2.me/theorems/a700ea18-4084-4831-8a08-10944561c232

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_exists_coordRel_of_isUnivJ
 -- name    : GlobalTheory.ChartCmp.exists_coordRel_of_isUnivJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:37:56.671807+00:00
 -- url     : https://prove2.me/theorems/9ad54ecf-9351-4885-a82a-7391603efd0a

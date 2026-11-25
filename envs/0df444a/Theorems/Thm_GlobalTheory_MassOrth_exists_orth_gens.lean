@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MassOrth_exists_orth_gens
 -- name    : GlobalTheory.MassOrth.exists_orth_gens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:32:12.954558+00:00
 -- url     : https://prove2.me/theorems/5a9d8ac7-f7fd-4e58-8ad8-a4b0299dcbb0

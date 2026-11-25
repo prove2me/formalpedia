@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OddBlock_ExpBinomial_act_monomial
 -- name    : GlobalTheory.OddBlock.ExpBinomial.act_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:31:41.500007+00:00
 -- url     : https://prove2.me/theorems/de72d1a9-dbb2-5e66-88fb-1049a018c13c

@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Theta_projectiveLineClassData_eltToLattice_bijective_a2eb0a9320c3
+-- name    : P2M_GroundTheory_Heights__Theta_projectiveLineClassData_eltToLattice_bijective_a2eb0a9320c3
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-25T04:55:05.513899+00:00
+-- url     : https://prove2.me/theorems/bf965aee-8c23-4aab-8c90-7971223f7e56
+-- title:
+--   P2 M Ground Theory Heights  Theta projective Line Class Data elt To Lattice bijective a2eb0a9320c3: P2 M Ground Theory Heights  Theta projective Line Class Data elt To Lattice bijective a2eb0a9320c3
+-- statement:
+--   The P2 M Ground Theory Heights  Theta projective Line Class Data elt To Lattice bijective a2eb0a9320c3 construction uses the P2 M Ground Theory Heights  Theta projective Line Class Data elt To Lattice bijective a2eb0a9320c3 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Theta/EisensteinZeta/MirabolicInduction/DedekindZetaEqSumRealEisenstein.lean#L309-L320
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Theta/EisensteinZeta/MirabolicInduction/DedekindZetaEqSumRealEisenstein.lean#L309-L320
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Theta_EisensteinZeta_MirabolicInduction_DiscrNegAndAbsNormMul
+import Definitions.Def_GroundTheory_HeightsAndTheta_Theta_EisensteinZeta_DedekindZetaSeries_SummableDedekindZetaTerm
+import Definitions.Def_GroundTheory_HeightsAndTheta_Theta_EisensteinZeta_MirabolicInduction_DedekindZetaEqSumRealEisenstein
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Theta
+open GroundTheory.Heights₂.Theta.projectiveLineClassData
+open NumberField UpperHalfPlane
+open scoped nonZeroDivisors
+variable {K : Type} [Field K] [NumberField K]
+open FractionalIdeal EtaPeriodLatticeClass
+local notation "↑ᶠ" J => ((J : (FractionalIdeal (𝓞 K)⁰ K)ˣ) : FractionalIdeal (𝓞 K)⁰ K)
+
+theorem P2M_GroundTheory_Heights__Theta_projectiveLineClassData_eltToLattice_bijective_a2eb0a9320c3 (σ : K →+* ℂ) (J : (FractionalIdeal (𝓞 K)⁰ K)ˣ) (τ : ℍ) (c : ℂ)
+    (hc : c ≠ 0) (himg : (fun z => c * z) '' (σ '' ((↑ᶠ J) : Set K)) = latticeOf (τ : ℂ)) :
+    Function.Bijective (eltToLattice σ J τ c hc himg) := by sorry
+
+alias «GroundTheory».«Heights₂».«Theta».«projectiveLineClassData».«eltToLattice_bijective» := P2M_GroundTheory_Heights__Theta_projectiveLineClassData_eltToLattice_bijective_a2eb0a9320c3

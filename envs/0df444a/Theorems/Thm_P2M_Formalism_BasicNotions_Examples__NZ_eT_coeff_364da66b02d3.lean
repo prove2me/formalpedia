@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_eT_coeff_364da66b02d3
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_eT_coeff_364da66b02d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:33:54.456096+00:00
 -- url     : https://prove2.me/theorems/c2ee923a-ca61-423d-927b-9d4a47e5fe8f

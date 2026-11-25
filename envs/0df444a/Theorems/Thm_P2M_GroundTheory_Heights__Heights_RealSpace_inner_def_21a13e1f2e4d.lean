@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RealSpace_inner_def_21a13e1f2e4d
 -- name    : P2M_GroundTheory_Heights__Heights_RealSpace_inner_def_21a13e1f2e4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:15:47.998859+00:00
 -- url     : https://prove2.me/theorems/915c840a-c517-4135-9028-7c2bc5deb02a

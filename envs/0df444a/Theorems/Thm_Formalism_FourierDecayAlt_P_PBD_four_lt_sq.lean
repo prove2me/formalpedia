@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBD_four_lt_sq
 -- name    : Formalism.FourierDecayAlt.P.PBD.four_lt_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:57:30.456701+00:00
 -- url     : https://prove2.me/theorems/29b0c6f6-bf8e-46f2-b71f-94e2528b3bcf

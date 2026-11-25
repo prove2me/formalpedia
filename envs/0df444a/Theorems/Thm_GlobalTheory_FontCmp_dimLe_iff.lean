@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_dimLe_iff
 -- name    : GlobalTheory.FontCmp.dimLe_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:31:39.596147+00:00
 -- url     : https://prove2.me/theorems/8996ec19-9ab3-5cca-a9bc-807c23b5fd2f

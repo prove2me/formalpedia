@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SymmetricSpanHsymm_exists_hsymmPart_of_mem_closure_1203a1441377
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SymmetricSpanHsymm_exists_hsymmPart_of_mem_closure_1203a1441377
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:10:24.81667+00:00
 -- url     : https://prove2.me/theorems/22babb4e-39f4-4c72-ae23-1afb2dec4733

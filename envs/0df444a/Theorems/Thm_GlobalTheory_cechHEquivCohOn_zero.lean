@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cechHEquivCohOn_zero
 -- name    : GlobalTheory.cechHEquivCohOn_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:38:00.827035+00:00
 -- url     : https://prove2.me/theorems/b1483aaf-6b0a-42f2-9a24-6d6a3e26a67f

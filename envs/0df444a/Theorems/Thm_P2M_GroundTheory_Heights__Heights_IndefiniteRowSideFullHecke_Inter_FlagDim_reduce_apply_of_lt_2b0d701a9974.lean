@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_reduce_apply_of_lt_2b0d701a9974
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagDim_reduce_apply_of_lt_2b0d701a9974
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:40:32.461491+00:00
 -- url     : https://prove2.me/theorems/e49af9a5-bcd1-48e6-ab55-2fa63bbd5825

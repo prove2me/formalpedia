@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RatChartChangeVar_ratPosDens_nonneg_662d6e890f87
 -- name    : P2M_GroundTheory_Heights__Heights_RatChartChangeVar_ratPosDens_nonneg_662d6e890f87
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:21:43.66362+00:00
 -- url     : https://prove2.me/theorems/d01c7c43-b6f4-5ba4-bc35-89c0251a6217

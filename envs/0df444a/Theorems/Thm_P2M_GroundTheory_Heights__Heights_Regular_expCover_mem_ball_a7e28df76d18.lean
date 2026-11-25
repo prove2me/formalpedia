@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_expCover_mem_ball_a7e28df76d18
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_expCover_mem_ball_a7e28df76d18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:17:55.520599+00:00
 -- url     : https://prove2.me/theorems/8f687edd-ce5b-4aa2-bf94-8cb5996b10a5

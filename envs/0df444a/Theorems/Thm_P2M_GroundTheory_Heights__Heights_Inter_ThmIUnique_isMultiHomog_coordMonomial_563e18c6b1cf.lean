@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIUnique_isMultiHomog_coordMonomial_563e18c6b1cf
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIUnique_isMultiHomog_coordMonomial_563e18c6b1cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:25:36.580955+00:00
 -- url     : https://prove2.me/theorems/d63495f7-ccab-4397-a8a0-f836bf325f78

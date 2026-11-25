@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosDens_exists_bound_208a4b055f2a
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosDens_exists_bound_208a4b055f2a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:22:49.966383+00:00
 -- url     : https://prove2.me/theorems/d553bb12-42fa-5630-9a4f-f5dd213a8fde

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_Cech_longExact_09831fd84e20
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_Cech_longExact_09831fd84e20
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:57:26.239709+00:00
 -- url     : https://prove2.me/theorems/a049347b-ed1e-4c5d-81d3-9ebc7c3e492e

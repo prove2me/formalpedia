@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowCasShift_rhoN_bd
 -- name    : GlobalTheory.LowCasShift.rhoN_bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:59:58.024592+00:00
 -- url     : https://prove2.me/theorems/0e7bd888-a356-4472-8d31-d70adc4cf34a

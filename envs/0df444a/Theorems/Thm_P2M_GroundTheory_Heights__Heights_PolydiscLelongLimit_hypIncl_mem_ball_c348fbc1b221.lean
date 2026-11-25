@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PolydiscLelongLimit_hypIncl_mem_ball_c348fbc1b221
 -- name    : P2M_GroundTheory_Heights__Heights_PolydiscLelongLimit_hypIncl_mem_ball_c348fbc1b221
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:21.105294+00:00
 -- url     : https://prove2.me/theorems/6eed1bba-608a-4ad6-96d8-bec16774ae32

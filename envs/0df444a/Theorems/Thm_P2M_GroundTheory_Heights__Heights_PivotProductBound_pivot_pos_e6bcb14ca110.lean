@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PivotProductBound_pivot_pos_e6bcb14ca110
 -- name    : P2M_GroundTheory_Heights__Heights_PivotProductBound_pivot_pos_e6bcb14ca110
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:14:26.138819+00:00
 -- url     : https://prove2.me/theorems/79ec4f3b-ff79-4cdc-821c-4cfb835613b3

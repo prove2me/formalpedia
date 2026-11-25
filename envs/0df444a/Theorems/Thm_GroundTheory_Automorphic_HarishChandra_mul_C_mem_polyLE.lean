@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_mul_C_mem_polyLE
 -- name    : GroundTheory.Automorphic.HarishChandra.mul_C_mem_polyLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:03:16.18342+00:00
 -- url     : https://prove2.me/theorems/464cdee6-56aa-54c9-a42e-4fe90002df45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_tupleWeight_nonneg
 -- name    : GlobalTheory.BadShare.tupleWeight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:30:02.080059+00:00
 -- url     : https://prove2.me/theorems/ab0aea2d-79c2-4e76-8960-1516b83368a4

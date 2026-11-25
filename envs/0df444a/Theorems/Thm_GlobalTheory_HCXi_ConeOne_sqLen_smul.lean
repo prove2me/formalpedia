@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeOne_sqLen_smul
 -- name    : GlobalTheory.HCXi.ConeOne.sqLen_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:09:29.585993+00:00
 -- url     : https://prove2.me/theorems/f077dd0f-dc75-5d17-a2b4-518798e9efc1

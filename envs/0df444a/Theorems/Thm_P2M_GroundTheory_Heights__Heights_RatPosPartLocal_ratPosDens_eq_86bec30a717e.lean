@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RatPosPartLocal_ratPosDens_eq_86bec30a717e
 -- name    : P2M_GroundTheory_Heights__Heights_RatPosPartLocal_ratPosDens_eq_86bec30a717e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:16:50.665927+00:00
 -- url     : https://prove2.me/theorems/2feee8ab-c4ca-47b8-9fb0-590b8d927904

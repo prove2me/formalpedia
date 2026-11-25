@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_polarise_1454c871b39d
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_polarise_1454c871b39d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:36.171036+00:00
 -- url     : https://prove2.me/theorems/f3ef2ccc-e025-47a5-9e89-dbff61cfe9ba

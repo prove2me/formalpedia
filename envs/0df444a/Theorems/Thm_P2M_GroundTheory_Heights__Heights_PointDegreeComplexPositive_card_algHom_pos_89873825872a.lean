@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointDegreeComplexPositive_card_algHom_pos_89873825872a
 -- name    : P2M_GroundTheory_Heights__Heights_PointDegreeComplexPositive_card_algHom_pos_89873825872a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:15:32.60374+00:00
 -- url     : https://prove2.me/theorems/4b1a56f4-b076-4ac4-86f6-86fecf0f1fc5

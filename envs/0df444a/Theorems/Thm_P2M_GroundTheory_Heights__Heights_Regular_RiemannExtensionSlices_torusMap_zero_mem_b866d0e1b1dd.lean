@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_torusMap_zero_mem_b866d0e1b1dd
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_RiemannExtensionSlices_torusMap_zero_mem_b866d0e1b1dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:17:54.844052+00:00
 -- url     : https://prove2.me/theorems/48861e63-fc8c-4ae7-a093-7ae2bf45aee7

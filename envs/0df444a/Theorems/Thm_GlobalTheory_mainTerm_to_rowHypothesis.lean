@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_mainTerm_to_rowHypothesis
 -- name    : GlobalTheory.mainTerm_to_rowHypothesis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:26:46.266502+00:00
 -- url     : https://prove2.me/theorems/c67b4a24-e5ae-4bc3-a456-5e1db138c99e

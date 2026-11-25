@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_vandermondeOf_perm_3aea40e9f6fb
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_vandermondeOf_perm_3aea40e9f6fb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:56.449813+00:00
 -- url     : https://prove2.me/theorems/9be78161-cc4f-43d6-b348-4a7f10485ba8

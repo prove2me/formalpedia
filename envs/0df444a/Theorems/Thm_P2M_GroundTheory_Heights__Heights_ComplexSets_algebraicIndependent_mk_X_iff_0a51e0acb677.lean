@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_algebraicIndependent_mk_X_iff_0a51e0acb677
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_algebraicIndependent_mk_X_iff_0a51e0acb677
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:38.557275+00:00
 -- url     : https://prove2.me/theorems/cfe42d01-41b4-4d9f-9421-6dc410575016

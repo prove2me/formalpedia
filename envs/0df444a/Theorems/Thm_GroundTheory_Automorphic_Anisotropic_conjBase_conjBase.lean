@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Anisotropic_conjBase_conjBase
 -- name    : GroundTheory.Automorphic.Anisotropic.conjBase_conjBase
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:58:39.476016+00:00
 -- url     : https://prove2.me/theorems/44b2db0d-5ae6-4a7b-9270-5d9c6b5cf6a9

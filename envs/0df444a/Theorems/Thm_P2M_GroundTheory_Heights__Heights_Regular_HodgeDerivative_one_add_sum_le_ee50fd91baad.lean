@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_one_add_sum_le_ee50fd91baad
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_HodgeDerivative_one_add_sum_le_ee50fd91baad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:18:19.593021+00:00
 -- url     : https://prove2.me/theorems/6f70b71e-05de-4908-a9db-d9a07b4caf2d

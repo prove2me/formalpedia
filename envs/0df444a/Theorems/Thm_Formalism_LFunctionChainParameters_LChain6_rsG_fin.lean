@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_rsG_fin
 -- name    : Formalism.LFunctionChainParameters.LChain6.rsG_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:47:32.98168+00:00
 -- url     : https://prove2.me/theorems/2aaf194c-5275-451e-a20d-4a929f0596f4

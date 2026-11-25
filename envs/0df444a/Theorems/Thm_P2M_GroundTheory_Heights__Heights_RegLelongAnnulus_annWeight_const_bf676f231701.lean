@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_annWeight_const_bf676f231701
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_annWeight_const_bf676f231701
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:17:22.580817+00:00
 -- url     : https://prove2.me/theorems/cc327cb8-b43a-4a03-963d-2e086b19de83

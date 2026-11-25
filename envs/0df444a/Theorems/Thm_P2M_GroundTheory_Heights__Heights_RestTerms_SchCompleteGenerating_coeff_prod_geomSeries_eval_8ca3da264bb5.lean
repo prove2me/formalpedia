@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_SchCompleteGenerating_coeff_prod_geomSeries_eval_8ca3da264bb5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_SchCompleteGenerating_coeff_prod_geomSeries_eval_8ca3da264bb5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:20:47.156433+00:00
 -- url     : https://prove2.me/theorems/2342826f-fc2d-4e1f-8b3e-8cc1c3945d8c

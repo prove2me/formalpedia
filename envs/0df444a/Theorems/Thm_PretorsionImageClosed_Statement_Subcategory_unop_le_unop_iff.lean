@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_unop_le_unop_iff
 -- name    : PretorsionImageClosed.Statement.Subcategory.unop_le_unop_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:25:32.953604+00:00
 -- url     : https://prove2.me/theorems/eb107978-7a58-584e-90ee-0be77099c36a

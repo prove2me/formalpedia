@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreIdeal_finIdeal_isPrime_disjoint_5dfc671a0d1a
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreIdeal_finIdeal_isPrime_disjoint_5dfc671a0d1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:13:31.282324+00:00
 -- url     : https://prove2.me/theorems/5e639555-77aa-432d-a70e-e6fa2341ad1e

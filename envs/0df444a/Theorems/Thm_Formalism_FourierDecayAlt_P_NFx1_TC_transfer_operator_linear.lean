@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx1_TC_transfer_operator_linear
 -- name    : Formalism.FourierDecayAlt.P.NFx1.TC.transfer_operator_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:05.245281+00:00
 -- url     : https://prove2.me/theorems/c4b8ed98-beb0-55d9-a8ba-93a6fe21cdb5

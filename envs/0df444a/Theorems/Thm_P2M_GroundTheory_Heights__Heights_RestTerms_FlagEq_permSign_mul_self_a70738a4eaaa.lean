@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_permSign_mul_self_a70738a4eaaa
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_permSign_mul_self_a70738a4eaaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:19:07.117476+00:00
 -- url     : https://prove2.me/theorems/6e6ec14b-365d-59b2-8e0b-6c564609a4ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_map_normOneSplitting_eq_prod_at
 -- name    : GroundTheory.Global.map_normOneSplitting_eq_prod_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:07:49.713668+00:00
 -- url     : https://prove2.me/theorems/9ae6cc89-498c-427e-a5d7-2607ae4d2abb

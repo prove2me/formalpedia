@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubsetSum_prod_sub_subset_sum_eq_zero_complex
 -- name    : GlobalTheory.CompanionTheory.SubsetSum.prod_sub_subset_sum_eq_zero_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:16:22.903147+00:00
 -- url     : https://prove2.me/theorems/488905c1-091b-471e-bfcd-638287d1c681

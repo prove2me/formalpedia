@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_ordGE_linS
 -- name    : Formalism.L2.FormalSeriesBounds.ordGE_linS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:25:14.445341+00:00
 -- url     : https://prove2.me/theorems/e454cde3-da40-4be8-b4b2-40bc7f57d0ff

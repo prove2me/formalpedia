@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_inv_sq_le
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.inv_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:18:39.894921+00:00
 -- url     : https://prove2.me/theorems/5b54c2bf-d644-428f-8051-b47ca38e1dfe

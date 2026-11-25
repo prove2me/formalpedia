@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx1_TC_CW_coef
 -- name    : Formalism.FourierDecayAlt.P.NFx1.TC.CW.coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:22:00.813711+00:00
 -- url     : https://prove2.me/theorems/f60044bb-57fb-4ce9-81e7-cb3bdb041051

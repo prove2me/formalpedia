@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PullBdd_isBddSec_transport
 -- name    : GlobalTheory.PullBdd.isBddSec_transport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:00:25.695551+00:00
 -- url     : https://prove2.me/theorems/5627980f-fbb9-569a-bede-7da850cc794a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_theorem_A_matrix_entries
 -- name    : Formalism.DworkPowerSeriesWeights.theorem_A_matrix_entries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:09:36.837141+00:00
 -- url     : https://prove2.me/theorems/5a9aac3a-090c-42a3-a3ec-2139ed9ae5a2

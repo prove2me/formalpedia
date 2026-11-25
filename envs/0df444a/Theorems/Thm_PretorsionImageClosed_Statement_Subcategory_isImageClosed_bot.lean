@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_isImageClosed_bot
 -- name    : PretorsionImageClosed.Statement.Subcategory.isImageClosed_bot
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:01.411809+00:00
 -- url     : https://prove2.me/theorems/7f0633c1-b2a1-536b-b33d-c4848c193333

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_prod_other_neighbour_raise
 -- name    : GlobalTheory.WigSh.prod_other_neighbour_raise
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:34:20.546696+00:00
 -- url     : https://prove2.me/theorems/a8f7adc3-f7ee-598f-8e1c-a51d61e363ed

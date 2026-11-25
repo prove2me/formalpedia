@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_map_trace_le_trace
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.map_trace_le_trace
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:39:21.932312+00:00
 -- url     : https://prove2.me/theorems/8da50416-6559-4c44-8105-fe557a10cbe5

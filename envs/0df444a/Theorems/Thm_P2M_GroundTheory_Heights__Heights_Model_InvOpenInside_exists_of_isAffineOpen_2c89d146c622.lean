@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_InvOpenInside_exists_of_isAffineOpen_2c89d146c622
 -- name    : P2M_GroundTheory_Heights__Heights_Model_InvOpenInside_exists_of_isAffineOpen_2c89d146c622
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:30:34.900587+00:00
 -- url     : https://prove2.me/theorems/8ef0799c-84f5-4127-9fd7-c0ec12634629

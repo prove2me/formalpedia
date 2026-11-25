@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_fixLat_pmap
 -- name    : GlobalTheory.TripInv.fixLat_pmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:34:02.450027+00:00
 -- url     : https://prove2.me/theorems/e47bf398-a35f-4dcd-b890-cec8e38a62cb

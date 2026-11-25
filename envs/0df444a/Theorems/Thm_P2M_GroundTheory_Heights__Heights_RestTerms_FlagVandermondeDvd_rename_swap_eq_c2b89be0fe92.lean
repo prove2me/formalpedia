@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagVandermondeDvd_rename_swap_eq_c2b89be0fe92
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagVandermondeDvd_rename_swap_eq_c2b89be0fe92
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:59.348256+00:00
 -- url     : https://prove2.me/theorems/fb75c6b7-b2b1-4858-808b-f51f97f466bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_dual_gmap
 -- name    : GlobalTheory.TripInv.dual_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:33:54.023183+00:00
 -- url     : https://prove2.me/theorems/aaeec044-39ca-48b7-8070-b00baf035d24

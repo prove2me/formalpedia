@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_augSES_decomp
 -- name    : GroundTheory.GroupCoh.augSES_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:55.559915+00:00
 -- url     : https://prove2.me/theorems/b43ff2af-1077-5e5d-80f7-6fa1bdca7064

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Height_OrderTieGuards_zero_of_unit
 -- name    : GlobalTheory.Height.OrderTieGuards.zero_of_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:43:10.099898+00:00
 -- url     : https://prove2.me/theorems/57ef4313-7284-4da9-b3eb-50ff25d08528

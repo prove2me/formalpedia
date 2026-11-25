@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_isStart_pair
 -- name    : Formalism.FourierDecayAlt.P.Qx8.isStart_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:32:26.728709+00:00
 -- url     : https://prove2.me/theorems/3504bdcc-3547-49b5-b32e-8d5bffa021f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussShellSum_exp_neg_nat_4b21dec2f2be
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussShellSum_exp_neg_nat_4b21dec2f2be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:14:05.52208+00:00
 -- url     : https://prove2.me/theorems/35000633-862d-4ac7-abce-b3b29553e7d0

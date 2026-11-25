@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_mPlus_of_good_tangents
 -- name    : GlobalTheory.MainTerm.mPlus_of_good_tangents
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:09:33.054743+00:00
 -- url     : https://prove2.me/theorems/1fb0c79e-8876-4a45-87b6-7eddae4fc973

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjDimSpread_hasProjectiveDimensionLE_zero_iff_bc36fa0f4b8b
 -- name    : P2M_GroundTheory_Heights__Heights_ProjDimSpread_hasProjectiveDimensionLE_zero_iff_bc36fa0f4b8b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:08.683032+00:00
 -- url     : https://prove2.me/theorems/01d6c136-7bd8-4740-b8ac-f632a7d778df

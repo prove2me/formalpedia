@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableMSR_Recovery_NativeWriter_Production_Candidates_IntegerGeometry_Canonical_CandidateRAM_Logical_Scene_BlockRows_distinct_block_representatives
 -- name    : StableMSR.Recovery.NativeWriter.Production.Candidates.IntegerGeometry.Canonical.CandidateRAM.Logical.Scene.BlockRows.distinct_block_representatives
--- status  : Open
+-- status  : Proved
 -- author  : @lreyzin
 -- created : 2026-11-25T04:48:30.025858+00:00
 -- url     : https://prove2.me/theorems/ca4b4afd-5aa6-45e1-8188-7ccce4bd82ec

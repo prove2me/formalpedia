@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_intNumL_eq_9d5a3e5ca313
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_intNumL_eq_9d5a3e5ca313
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:15:57.509565+00:00
 -- url     : https://prove2.me/theorems/a5df540d-a4fd-5d9b-aa47-6922e2740d98

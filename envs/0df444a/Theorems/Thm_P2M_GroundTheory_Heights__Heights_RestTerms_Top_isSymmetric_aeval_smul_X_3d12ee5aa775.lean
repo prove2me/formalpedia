@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_isSymmetric_aeval_smul_X_3d12ee5aa775
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_isSymmetric_aeval_smul_X_3d12ee5aa775
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:59.561522+00:00
 -- url     : https://prove2.me/theorems/ef713e93-f186-4cff-8763-1d72c3c5499c

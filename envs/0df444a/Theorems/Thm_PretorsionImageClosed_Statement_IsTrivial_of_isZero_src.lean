@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_IsTrivial_of_isZero_src
 -- name    : PretorsionImageClosed.Statement.IsTrivial.of_isZero_src
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:23:54.28178+00:00
 -- url     : https://prove2.me/theorems/45bd2075-8fd2-55ee-ab1f-e14a9456aa5f

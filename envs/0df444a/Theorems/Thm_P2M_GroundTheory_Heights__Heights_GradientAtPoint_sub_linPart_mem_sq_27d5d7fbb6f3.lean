@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradientAtPoint_sub_linPart_mem_sq_27d5d7fbb6f3
 -- name    : P2M_GroundTheory_Heights__Heights_GradientAtPoint_sub_linPart_mem_sq_27d5d7fbb6f3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:03.245609+00:00
 -- url     : https://prove2.me/theorems/90c9922e-5a85-4430-a34a-64530fdbfe24

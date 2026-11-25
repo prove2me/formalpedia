@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_contract_cocycle_0f3cdad47278
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHCombCyclic_contract_cocycle_0f3cdad47278
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:31:25.415292+00:00
 -- url     : https://prove2.me/theorems/6bf12261-ba50-42f8-845f-b88d43104d29

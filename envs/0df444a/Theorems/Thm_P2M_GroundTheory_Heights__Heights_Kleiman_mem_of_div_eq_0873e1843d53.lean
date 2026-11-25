@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_mem_of_div_eq_0873e1843d53
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_mem_of_div_eq_0873e1843d53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:42:21.766262+00:00
 -- url     : https://prove2.me/theorems/5b2be107-a687-5cd4-b620-0244a9767920

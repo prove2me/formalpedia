@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectivePointsOnPlane_eval_quad_8c9d4f136892
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectivePointsOnPlane_eval_quad_8c9d4f136892
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:21:01.580254+00:00
 -- url     : https://prove2.me/theorems/f6ef2827-e0db-592c-8124-9f48288fb68a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConvSmooth_isSmoothFun_density
 -- name    : GlobalTheory.ConvSmooth.isSmoothFun_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:38:48.913397+00:00
 -- url     : https://prove2.me/theorems/672264bd-095a-49e2-9fdf-8e8bc833e031

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_volume_real_closedBall_polydisc_62cb1afa7f98
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_volume_real_closedBall_polydisc_62cb1afa7f98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:18:47.114632+00:00
 -- url     : https://prove2.me/theorems/96228b6f-f577-54cc-8534-97ce32d45413

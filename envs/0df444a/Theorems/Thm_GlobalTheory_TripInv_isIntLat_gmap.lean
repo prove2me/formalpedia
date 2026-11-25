@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TripInv_isIntLat_gmap
 -- name    : GlobalTheory.TripInv.isIntLat_gmap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:34:43.95344+00:00
 -- url     : https://prove2.me/theorems/07e03f51-1be2-4515-b329-43235bb2a888

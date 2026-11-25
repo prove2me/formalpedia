@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_relT_le
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.relT_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:57:36.765993+00:00
 -- url     : https://prove2.me/theorems/2e74c0d8-8cba-4507-a657-46738ce9a6c3

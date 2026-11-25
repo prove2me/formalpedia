@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_norm_eigenvalue_le_one_of_integral_matrix_ultrametric
 -- name    : GlobalTheory.T.norm_eigenvalue_le_one_of_integral_matrix_ultrametric
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:52:32.208852+00:00
 -- url     : https://prove2.me/theorems/8fb3550b-4eb9-43e3-8e55-5f6c1b181c2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_locCoord_of_secCoord
 -- name    : GlobalTheory.RepUniq.locCoord_of_secCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:57:09.2668+00:00
 -- url     : https://prove2.me/theorems/38a3c6cb-64e1-42ab-b731-311e35ebe04f

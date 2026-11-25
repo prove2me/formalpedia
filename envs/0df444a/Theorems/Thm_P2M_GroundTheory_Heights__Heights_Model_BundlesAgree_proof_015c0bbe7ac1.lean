@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_BundlesAgree_proof_015c0bbe7ac1
 -- name    : P2M_GroundTheory_Heights__Heights_Model_BundlesAgree_proof_015c0bbe7ac1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:37.590687+00:00
 -- url     : https://prove2.me/theorems/07bfc9ff-4f64-4afe-b48a-5220f4a0bc54

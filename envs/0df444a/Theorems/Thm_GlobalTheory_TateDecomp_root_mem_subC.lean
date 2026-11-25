@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_root_mem_subC
 -- name    : GlobalTheory.TateDecomp.root_mem_subC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:01:40.370057+00:00
 -- url     : https://prove2.me/theorems/e59a02c7-6f70-5aac-b5c0-9a4eab7112cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicScaling_scalingMap_mem_2f9ce7653ab7
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_IsotropicScaling_scalingMap_mem_2f9ce7653ab7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:40:19.29436+00:00
 -- url     : https://prove2.me/theorems/30a395ef-bb55-4e1e-b75d-401ce7c0df33

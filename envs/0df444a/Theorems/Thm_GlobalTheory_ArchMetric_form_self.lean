@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_form_self
 -- name    : GlobalTheory.ArchMetric.form_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:31:26.633435+00:00
 -- url     : https://prove2.me/theorems/bbbe3f64-b86c-4b2d-8858-6cb026f1514d

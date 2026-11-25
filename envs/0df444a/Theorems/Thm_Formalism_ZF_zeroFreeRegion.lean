@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_zeroFreeRegion
 -- name    : Formalism.ZF.zeroFreeRegion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:12:17.664822+00:00
 -- url     : https://prove2.me/theorems/545c68fe-f2aa-40c6-a00d-262110e43a96

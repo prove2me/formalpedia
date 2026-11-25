@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AffineChartTrdeg_transcendental_bb27ef9817ff
 -- name    : P2M_GroundTheory_Heights__Heights_AffineChartTrdeg_transcendental_bb27ef9817ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:38:17.824803+00:00
 -- url     : https://prove2.me/theorems/c389065b-cddc-493b-8627-bd2179ce0e29

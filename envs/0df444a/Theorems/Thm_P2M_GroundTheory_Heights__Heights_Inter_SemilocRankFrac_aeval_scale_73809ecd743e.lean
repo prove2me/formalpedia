@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocRankFrac_aeval_scale_73809ecd743e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocRankFrac_aeval_scale_73809ecd743e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:48:33.890396+00:00
 -- url     : https://prove2.me/theorems/ce470f1b-30f5-59aa-8d01-127715afc171

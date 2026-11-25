@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_cl_int
 -- name    : Formalism.L2.Th1.B.Mul.cl_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:27:07.796842+00:00
 -- url     : https://prove2.me/theorems/cf05b5ba-1d24-51dc-a108-629742f780bf

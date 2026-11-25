@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagVandermondeDvd_blockVandermonde_eq_prod_643e36086d8c
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagVandermondeDvd_blockVandermonde_eq_prod_643e36086d8c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:19:55.485538+00:00
 -- url     : https://prove2.me/theorems/40c0c8df-508e-4761-bf11-ead079fc0d47

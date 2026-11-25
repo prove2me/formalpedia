@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Cusp_hFac_levi
 -- name    : GlobalTheory.SW.Cusp.hFac_levi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:23.607691+00:00
 -- url     : https://prove2.me/theorems/18d61aa2-63c1-467c-8783-56d70ca0ae5f

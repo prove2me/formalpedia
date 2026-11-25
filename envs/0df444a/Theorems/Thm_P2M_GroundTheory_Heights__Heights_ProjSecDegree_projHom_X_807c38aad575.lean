@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjSecDegree_projHom_X_807c38aad575
 -- name    : P2M_GroundTheory_Heights__Heights_ProjSecDegree_projHom_X_807c38aad575
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:15:32.468751+00:00
 -- url     : https://prove2.me/theorems/f5fe130c-56c5-41a4-b6e5-67de0c9c3cc9

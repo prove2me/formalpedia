@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlueckerUnitBoundAlt_posSemidef_one_add_2384f25ff10d
 -- name    : P2M_GroundTheory_Heights__Heights_PlueckerUnitBoundAlt_posSemidef_one_add_2384f25ff10d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:14:22.518864+00:00
 -- url     : https://prove2.me/theorems/17b913de-ecf4-5af4-ad28-928b8b6009a4

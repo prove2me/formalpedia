@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_norm_exp_quad_le_0dcc304a5f99
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_ExpQuad_norm_exp_quad_le_0dcc304a5f99
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:16:51.695255+00:00
 -- url     : https://prove2.me/theorems/b85f16aa-1a58-4356-8004-680b70fe1331

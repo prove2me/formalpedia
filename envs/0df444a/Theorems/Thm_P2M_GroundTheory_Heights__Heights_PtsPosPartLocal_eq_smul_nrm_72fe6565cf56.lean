@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_eq_smul_nrm_72fe6565cf56
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosPartLocal_eq_smul_nrm_72fe6565cf56
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:16:57.7482+00:00
 -- url     : https://prove2.me/theorems/bdda0848-9480-4140-9488-c33d39a4bc28

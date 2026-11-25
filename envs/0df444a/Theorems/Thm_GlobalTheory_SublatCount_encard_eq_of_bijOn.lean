@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SublatCount_encard_eq_of_bijOn
 -- name    : GlobalTheory.SublatCount.encard_eq_of_bijOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:53:56.033644+00:00
 -- url     : https://prove2.me/theorems/a8b719b7-8109-4152-9a12-fcae81a4b5e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_f1E
 -- name    : Formalism.L2.Th1.B.f1E
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:15:42.143562+00:00
 -- url     : https://prove2.me/theorems/9ae7eed8-caeb-47d4-8b35-7ef93b2f44ff

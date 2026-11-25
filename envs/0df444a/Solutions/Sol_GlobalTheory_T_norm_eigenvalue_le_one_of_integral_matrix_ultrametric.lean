@@ -1,0 +1,27 @@
+-- Prove2me | solution 1 for GlobalTheory.T.norm_eigenvalue_le_one_of_integral_matrix_ultrametric
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T04:56:09.305277+00:00
+-- url     : https://prove2.me/submissions/0ed1fb77-ddb4-4c45-be7e-c50cd3cf965f
+
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_NormEigenvalueLeOneOfIntegralMatrixUltrametric
+import Mathlib
+import Definitions.Def_Development_AbelianVarietyTheory_Proofs_DivisorProofs_NormEigenvalueLeOneOfIntegralMatrixUltrametricStatement
+import Theorems.Thm_GlobalTheory_eigenvalue_integral_matrix_norm_le_one
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+
+set_option maxHeartbeats 1000000
+namespace _root_.GlobalTheory.T
+theorem _root_.solution : ∀ (O K : Type) [CommRing O] [NormedField K] [IsUltrametricDist K] (emb : O →+* K), (∀ c, ‖emb c‖ ≤ 1) → ∀ (n : ℕ) (M : Matrix (Fin n) (Fin n) O) (μ : K) (c : Fin n → K), c ≠ 0 → (M.map emb).mulVec c = μ • c → ‖μ‖ ≤ 1 := by
+  first | exact @GlobalTheory.eigenvalue_integral_matrix_norm_le_one | exact GlobalTheory.eigenvalue_integral_matrix_norm_le_one | (intros; apply GlobalTheory.eigenvalue_integral_matrix_norm_le_one <;> assumption)
+end _root_.GlobalTheory.T

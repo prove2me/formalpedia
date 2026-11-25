@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_mem_subobjectsIn
 -- name    : PretorsionImageClosed.Statement.Subcategory.mem_subobjectsIn
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:48:30.99728+00:00
 -- url     : https://prove2.me/theorems/fd39b152-a8df-4112-8257-1c3b0754fcc1

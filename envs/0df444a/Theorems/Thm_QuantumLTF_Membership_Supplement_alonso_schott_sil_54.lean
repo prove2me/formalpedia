@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLTF_Membership_Supplement_alonso_schott_sil_54
 -- name    : QuantumLTF.Membership.Supplement.alonso_schott_sil_54
--- status  : Open
+-- status  : Proved
 -- author  : @Robin Kothari
 -- created : 2026-11-25T03:12:46.2373+00:00
 -- url     : https://prove2.me/theorems/1f01b59a-9b80-4216-a9d6-159811147d67

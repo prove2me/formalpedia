@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ClosedPointUnitSectionAlt_exists_unit_all_01d1868a230d
 -- name    : P2M_GroundTheory_Heights__Heights_ClosedPointUnitSectionAlt_exists_unit_all_01d1868a230d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:47:12.44639+00:00
 -- url     : https://prove2.me/theorems/c110aa6d-bb71-5ba8-b4cd-79564a0e57a9

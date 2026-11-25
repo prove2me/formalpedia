@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gamma_leading_term
 -- name    : Formalism.GM.gamma_leading_term
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:51:29.189852+00:00
 -- url     : https://prove2.me/theorems/1388086b-1d14-4941-be34-db62affed236

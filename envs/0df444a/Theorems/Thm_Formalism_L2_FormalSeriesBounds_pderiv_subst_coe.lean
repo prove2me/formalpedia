@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_pderiv_subst_coe
 -- name    : Formalism.L2.FormalSeriesBounds.pderiv_subst_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:27:09.324828+00:00
 -- url     : https://prove2.me/theorems/0a99f6ed-fd7e-4b3e-9b7f-9604033b1884

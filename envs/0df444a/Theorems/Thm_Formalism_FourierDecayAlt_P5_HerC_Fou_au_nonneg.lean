@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_HerC_Fou_au_nonneg
 -- name    : Formalism.FourierDecayAlt.P5.HerC.Fou.au_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:18:33.74581+00:00
 -- url     : https://prove2.me/theorems/930c50c7-3cca-5bcc-bdd3-c4936ffcd864

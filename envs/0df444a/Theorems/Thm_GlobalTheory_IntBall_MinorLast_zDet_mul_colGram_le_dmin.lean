@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntBall_MinorLast_zDet_mul_colGram_le_dmin
 -- name    : GlobalTheory.IntBall.MinorLast.zDet_mul_colGram_le_dmin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:44:45.984916+00:00
 -- url     : https://prove2.me/theorems/1ff5077d-4916-5869-9168-01d653e66e2e

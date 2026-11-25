@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ChartScalingIndep_coeff_eq_zero_674c17c17c2e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ChartScalingIndep_coeff_eq_zero_674c17c17c2e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:41:44.674649+00:00
 -- url     : https://prove2.me/theorems/39b98766-3d8e-41a7-8e8d-022bfe4e18eb

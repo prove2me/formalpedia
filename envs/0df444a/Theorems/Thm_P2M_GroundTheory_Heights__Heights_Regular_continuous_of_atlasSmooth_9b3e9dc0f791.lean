@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_continuous_of_atlasSmooth_9b3e9dc0f791
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_continuous_of_atlasSmooth_9b3e9dc0f791
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:18:29.186892+00:00
 -- url     : https://prove2.me/theorems/b336b6a4-ab40-4c30-b360-b8538e9b4f1e

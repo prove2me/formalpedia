@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsLogBounded_comp
 -- name    : GlobalTheory.IsLogBounded.comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:55:05.888402+00:00
 -- url     : https://prove2.me/theorems/6cc9cf1f-200e-45d6-bdef-f44b34054a64

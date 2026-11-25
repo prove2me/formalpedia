@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointArithIntersection_sum_ringHom_restrict_c82ad83b448b
 -- name    : P2M_GroundTheory_Heights__Heights_PointArithIntersection_sum_ringHom_restrict_c82ad83b448b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:15:48.22562+00:00
 -- url     : https://prove2.me/theorems/a518e1fd-7d5f-4a33-a6a2-1a53eef0bfc3

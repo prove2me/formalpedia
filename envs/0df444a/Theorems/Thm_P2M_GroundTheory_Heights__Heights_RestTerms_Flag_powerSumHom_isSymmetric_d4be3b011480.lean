@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Flag_powerSumHom_isSymmetric_d4be3b011480
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Flag_powerSumHom_isSymmetric_d4be3b011480
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:19:55.909379+00:00
 -- url     : https://prove2.me/theorems/9c12c3df-7bcf-4de2-b2cf-fe0f9d514fe7

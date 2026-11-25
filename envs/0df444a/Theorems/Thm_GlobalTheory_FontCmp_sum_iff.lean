@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FontCmp_sum_iff
 -- name    : GlobalTheory.FontCmp.sum_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:33:27.625524+00:00
 -- url     : https://prove2.me/theorems/6b2e86a7-67ec-4b7d-a0f5-ee220ad6f665

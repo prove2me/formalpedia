@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_pk_le_one_bc32229bb89c
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_pk_le_one_bc32229bb89c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:16:31.666804+00:00
 -- url     : https://prove2.me/theorems/00b25a2c-7784-4377-9708-5e5809b0302a

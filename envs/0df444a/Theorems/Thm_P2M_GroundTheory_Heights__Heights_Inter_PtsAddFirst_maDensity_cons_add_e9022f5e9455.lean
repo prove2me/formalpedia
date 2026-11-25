@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PtsAddFirst_maDensity_cons_add_e9022f5e9455
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PtsAddFirst_maDensity_cons_add_e9022f5e9455
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:43:13.94554+00:00
 -- url     : https://prove2.me/theorems/ffc35bad-833c-4dbf-a9d8-fcc132a1c303

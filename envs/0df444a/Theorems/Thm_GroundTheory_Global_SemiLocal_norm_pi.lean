@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_SemiLocal_norm_pi
 -- name    : GroundTheory.Global.SemiLocal.norm_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:19:28.864994+00:00
 -- url     : https://prove2.me/theorems/06ad1ded-6852-4dd7-9d66-94d8e61af7ba

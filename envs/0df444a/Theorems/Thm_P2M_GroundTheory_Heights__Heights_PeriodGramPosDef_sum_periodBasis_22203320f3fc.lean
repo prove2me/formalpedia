@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PeriodGramPosDef_sum_periodBasis_22203320f3fc
 -- name    : P2M_GroundTheory_Heights__Heights_PeriodGramPosDef_sum_periodBasis_22203320f3fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:14:27.440315+00:00
 -- url     : https://prove2.me/theorems/4f3ea882-74c2-473c-813d-fffe4daaa629

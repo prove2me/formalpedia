@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointLine_eval_smul_of_isHomogeneous_b8676a5b40e2
 -- name    : P2M_GroundTheory_Heights__Heights_PointLine_eval_smul_of_isHomogeneous_b8676a5b40e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:14:34.293284+00:00
 -- url     : https://prove2.me/theorems/392f62bf-3735-464b-9ac0-772951bb15c0

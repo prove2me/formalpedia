@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HodgeTateTest_dlogT_mem
 -- name    : GlobalTheory.HodgeTateTest.dlogT_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:57:51.681924+00:00
 -- url     : https://prove2.me/theorems/b77ff106-2f3a-413b-afed-40009a374f6b

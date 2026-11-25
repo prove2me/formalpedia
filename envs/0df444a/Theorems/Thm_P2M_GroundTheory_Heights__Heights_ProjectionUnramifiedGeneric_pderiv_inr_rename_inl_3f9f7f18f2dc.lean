@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjectionUnramifiedGeneric_pderiv_inr_rename_inl_3f9f7f18f2dc
 -- name    : P2M_GroundTheory_Heights__Heights_ProjectionUnramifiedGeneric_pderiv_inr_rename_inl_3f9f7f18f2dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:16:00.300142+00:00
 -- url     : https://prove2.me/theorems/e8ccd4ba-1e6f-436b-bd43-5ed8f8278fd6

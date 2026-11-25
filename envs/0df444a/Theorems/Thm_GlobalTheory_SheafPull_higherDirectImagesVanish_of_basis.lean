@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SheafPull_higherDirectImagesVanish_of_basis
 -- name    : GlobalTheory.SheafPull.higherDirectImagesVanish_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:34:12.885921+00:00
 -- url     : https://prove2.me/theorems/81b0bc57-8d5a-5e77-8c67-e12764c09ff8

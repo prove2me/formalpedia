@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogDetGramDeriv_proof_744363b5faa9
 -- name    : P2M_GroundTheory_Heights__Heights_LogDetGramDeriv_proof_744363b5faa9
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:44:54.055194+00:00
 -- url     : https://prove2.me/theorems/7d8110c8-4330-494c-9857-f42fc330ade0

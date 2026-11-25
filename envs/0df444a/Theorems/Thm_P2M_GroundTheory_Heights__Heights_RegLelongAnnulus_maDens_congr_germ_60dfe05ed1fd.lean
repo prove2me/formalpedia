@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_maDens_congr_germ_60dfe05ed1fd
 -- name    : P2M_GroundTheory_Heights__Heights_RegLelongAnnulus_maDens_congr_germ_60dfe05ed1fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:17:04.461811+00:00
 -- url     : https://prove2.me/theorems/3bc36d7e-816a-41b4-977e-130f93872e1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_analyticAt_of_exp_eq_f1c35840ad06
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_analyticAt_of_exp_eq_f1c35840ad06
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:18:39.071947+00:00
 -- url     : https://prove2.me/theorems/98d121be-37bf-4a84-8e7d-b44e6a277f1b

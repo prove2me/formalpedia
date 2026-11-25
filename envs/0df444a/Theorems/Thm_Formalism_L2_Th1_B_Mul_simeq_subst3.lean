@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Mul_simeq_subst3
 -- name    : Formalism.L2.Th1.B.Mul.simeq_subst3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:27:41.349796+00:00
 -- url     : https://prove2.me/theorems/37458c45-f573-5276-97f3-d1d3cc99e4b8

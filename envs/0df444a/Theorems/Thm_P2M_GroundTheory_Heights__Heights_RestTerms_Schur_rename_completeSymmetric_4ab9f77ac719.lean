@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Schur_rename_completeSymmetric_4ab9f77ac719
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Schur_rename_completeSymmetric_4ab9f77ac719
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:20:33.224344+00:00
 -- url     : https://prove2.me/theorems/22655c54-ea4a-4878-bc11-a939dd595577

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointwiseLelong_log_norm_le_circleAverage_d54a5c877eaa
 -- name    : P2M_GroundTheory_Heights__Heights_PointwiseLelong_log_norm_le_circleAverage_d54a5c877eaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:50.295068+00:00
 -- url     : https://prove2.me/theorems/18727a89-85e8-5686-b9d0-d01527cb41eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_one_sub_two_div_le_squarefreeLabelMass
 -- name    : GlobalTheory.T.one_sub_two_div_le_squarefreeLabelMass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:09:39.866636+00:00
 -- url     : https://prove2.me/theorems/02caca7b-187b-4b12-b514-226ba1f81155

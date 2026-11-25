@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_bps_isHomogeneous_ce8782615597
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Coinv_bps_isHomogeneous_ce8782615597
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:18:37.369876+00:00
 -- url     : https://prove2.me/theorems/a4e82afe-45e1-4523-b138-9cceec04a54a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitDenom_sub_three
 -- name    : GlobalTheory.OrbitDenom.sub_three
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:24.985392+00:00
 -- url     : https://prove2.me/theorems/9aba44ff-52b5-4de9-b87e-75c0e5bbe1d1

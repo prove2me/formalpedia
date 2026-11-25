@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogLinear_formalGroup_log_endomorphism_linear
 -- name    : GlobalTheory.LogLinear.formalGroup_log_endomorphism_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:03:27.364014+00:00
 -- url     : https://prove2.me/theorems/8ec28a4e-6256-4530-a467-be6cce4d25d2

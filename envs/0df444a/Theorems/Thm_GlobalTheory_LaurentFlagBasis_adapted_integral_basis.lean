@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LaurentFlagBasis_adapted_integral_basis
 -- name    : GlobalTheory.LaurentFlagBasis.adapted_integral_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:45:23.082074+00:00
 -- url     : https://prove2.me/theorems/8b0b79b3-79e3-47e5-93c6-d84ca0b0b02f

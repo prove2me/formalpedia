@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerInhabit_euclid_ne_zero_e36561b6c92a
 -- name    : P2M_GroundTheory_Heights__Heights_MahlerInhabit_euclid_ne_zero_e36561b6c92a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:48:30.19945+00:00
 -- url     : https://prove2.me/theorems/fabb1f29-3d87-49f5-aacc-26f670272f36

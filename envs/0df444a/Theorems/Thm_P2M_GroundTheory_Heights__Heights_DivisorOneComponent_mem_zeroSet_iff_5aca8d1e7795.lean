@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DivisorOneComponent_mem_zeroSet_iff_5aca8d1e7795
 -- name    : P2M_GroundTheory_Heights__Heights_DivisorOneComponent_mem_zeroSet_iff_5aca8d1e7795
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:09.011905+00:00
 -- url     : https://prove2.me/theorems/3b0019c7-abed-49f5-ae3d-ccad64d7e238

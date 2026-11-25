@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cycHerbrand_funPermRep
 -- name    : GroundTheory.Global.cycHerbrand_funPermRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:47:14.795228+00:00
 -- url     : https://prove2.me/theorems/c85f08f4-44a1-4b70-b01a-4d232d4e92bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointLine_eq_smul_of_associated_bbcd2cbe6ce3
 -- name    : P2M_GroundTheory_Heights__Heights_PointLine_eq_smul_of_associated_bbcd2cbe6ce3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:14:42.513964+00:00
 -- url     : https://prove2.me/theorems/78e02d62-015c-460a-abf9-24b41fb479d2

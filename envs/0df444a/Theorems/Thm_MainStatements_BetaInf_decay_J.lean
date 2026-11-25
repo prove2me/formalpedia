@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_BetaInf_decay_J
 -- name    : MainStatements.BetaInf.decay_J
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:37:10.328873+00:00
 -- url     : https://prove2.me/theorems/81f3b252-506c-55a4-8d22-f4a2b048c110

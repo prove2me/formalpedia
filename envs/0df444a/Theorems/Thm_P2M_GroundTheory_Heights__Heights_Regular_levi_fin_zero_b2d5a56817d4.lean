@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_levi_fin_zero_b2d5a56817d4
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_levi_fin_zero_b2d5a56817d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:18:33.414955+00:00
 -- url     : https://prove2.me/theorems/ab860591-e6cf-48b0-95b4-d09f6d9d68fc

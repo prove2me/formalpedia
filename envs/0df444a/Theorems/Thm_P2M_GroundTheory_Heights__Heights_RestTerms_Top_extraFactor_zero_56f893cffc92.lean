@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Top_extraFactor_zero_56f893cffc92
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Top_extraFactor_zero_56f893cffc92
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:49.324421+00:00
 -- url     : https://prove2.me/theorems/9b884c34-64f3-49b1-848c-8c07d884fd7c

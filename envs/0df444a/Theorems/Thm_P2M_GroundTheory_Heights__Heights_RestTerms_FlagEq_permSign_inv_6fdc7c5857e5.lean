@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_permSign_inv_6fdc7c5857e5
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagEq_permSign_inv_6fdc7c5857e5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:19:17.963292+00:00
 -- url     : https://prove2.me/theorems/fff95834-ba87-4667-9f38-287e0ce0a897

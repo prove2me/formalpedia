@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RecQOfRecursion_map_genericIdeal_90ec9b2dcad1
 -- name    : P2M_GroundTheory_Heights__Heights_RecQOfRecursion_map_genericIdeal_90ec9b2dcad1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:21:38.436796+00:00
 -- url     : https://prove2.me/theorems/0340c094-bf86-50c1-af69-85f49d0bf776

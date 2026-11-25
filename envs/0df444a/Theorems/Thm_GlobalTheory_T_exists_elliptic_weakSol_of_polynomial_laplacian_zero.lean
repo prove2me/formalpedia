@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_elliptic_weakSol_of_polynomial_laplacian_zero
 -- name    : GlobalTheory.T.exists_elliptic_weakSol_of_polynomial_laplacian_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:08.17593+00:00
 -- url     : https://prove2.me/theorems/4b129a95-5e3b-59ee-bd55-491fa98a35db

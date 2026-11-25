@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFx1_TC_diff_of_pres
 -- name    : Formalism.FourierDecayAlt.P.NFx1.TC.diff_of_pres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:21:48.084247+00:00
 -- url     : https://prove2.me/theorems/9d440cad-f779-469f-b915-3e65f43a2aa3

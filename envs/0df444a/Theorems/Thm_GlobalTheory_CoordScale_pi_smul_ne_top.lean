@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordScale_pi_smul_ne_top
 -- name    : GlobalTheory.CoordScale.pi_smul_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:58:06.224882+00:00
 -- url     : https://prove2.me/theorems/22bcbce6-06a3-5e0b-9c25-9d688a6eb917

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_lieSign_cases_f1c7f4a12339
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_RestBoundEq_lieSign_cases_f1c7f4a12339
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:20:33.557386+00:00
 -- url     : https://prove2.me/theorems/252b23e3-3b77-48e1-b14a-6b582149e79b

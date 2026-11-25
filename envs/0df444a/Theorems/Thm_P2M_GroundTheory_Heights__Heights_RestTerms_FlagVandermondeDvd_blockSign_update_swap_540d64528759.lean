@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_FlagVandermondeDvd_blockSign_update_swap_540d64528759
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_FlagVandermondeDvd_blockSign_update_swap_540d64528759
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:20:29.405109+00:00
 -- url     : https://prove2.me/theorems/373dda52-40fb-4ea8-b35c-85a75556a277

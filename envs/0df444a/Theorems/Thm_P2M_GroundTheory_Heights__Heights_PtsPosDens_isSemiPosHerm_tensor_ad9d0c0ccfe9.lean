@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PtsPosDens_isSemiPosHerm_tensor_ad9d0c0ccfe9
 -- name    : P2M_GroundTheory_Heights__Heights_PtsPosDens_isSemiPosHerm_tensor_ad9d0c0ccfe9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:22:56.948894+00:00
 -- url     : https://prove2.me/theorems/e9746a45-3b39-5b55-915b-895dcc6577f8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_RestTerms_Schur_coeff_prod_geomSeries_45d4c16fbfb2
 -- name    : P2M_GroundTheory_Heights__Heights_RestTerms_Schur_coeff_prod_geomSeries_45d4c16fbfb2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:20:34.257887+00:00
 -- url     : https://prove2.me/theorems/389f9047-ffcf-4824-b492-6ad70b49729d

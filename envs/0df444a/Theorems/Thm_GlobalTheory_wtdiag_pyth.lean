@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_wtdiag_pyth
 -- name    : GlobalTheory.wtdiag_pyth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:18:46.557087+00:00
 -- url     : https://prove2.me/theorems/7aed68c4-7725-5dd8-a222-fe0a5848b983

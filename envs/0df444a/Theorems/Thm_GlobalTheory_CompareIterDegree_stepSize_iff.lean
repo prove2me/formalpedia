@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_stepSize_iff
 -- name    : GlobalTheory.CompareIterDegree.stepSize_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:58:02.818713+00:00
 -- url     : https://prove2.me/theorems/2379f14f-b081-4eda-b798-903ed4fc8495

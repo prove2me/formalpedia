@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PuncturedBranchSameOrder_const_mem_ball_iff_5c748a61eaf1
 -- name    : P2M_GroundTheory_Heights__Heights_PuncturedBranchSameOrder_const_mem_ball_iff_5c748a61eaf1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:16:48.418712+00:00
 -- url     : https://prove2.me/theorems/6be96974-6c4b-4061-ba1d-8e9aab4c00d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PointsBilinear_mixedDisc_update_sum_ae519e6d25de
 -- name    : P2M_GroundTheory_Heights__Heights_PointsBilinear_mixedDisc_update_sum_ae519e6d25de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:15:29.645082+00:00
 -- url     : https://prove2.me/theorems/3129160a-b401-4225-affc-e5b09e5f67ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_valuationVector_sUnitRep
 -- name    : GroundTheory.Global.valuationVector_sUnitRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:58:55.168502+00:00
 -- url     : https://prove2.me/theorems/6a1ad9cc-7a7e-47d9-a05b-da2886afaf9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_PolyMaxLowerBound_exists_far_point_77b620157daf
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_PolyMaxLowerBound_exists_far_point_77b620157daf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:18:01.8758+00:00
 -- url     : https://prove2.me/theorems/2b3ffa84-3544-4ce2-8f47-bf72d351962a

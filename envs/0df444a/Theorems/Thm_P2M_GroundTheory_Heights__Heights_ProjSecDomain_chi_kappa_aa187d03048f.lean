@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjSecDomain_chi_kappa_aa187d03048f
 -- name    : P2M_GroundTheory_Heights__Heights_ProjSecDomain_chi_kappa_aa187d03048f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:15:31.856807+00:00
 -- url     : https://prove2.me/theorems/cca9be12-71d2-4698-842f-af5451fcec66

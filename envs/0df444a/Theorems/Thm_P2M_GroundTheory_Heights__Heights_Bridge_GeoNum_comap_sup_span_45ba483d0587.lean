@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_comap_sup_span_45ba483d0587
 -- name    : P2M_GroundTheory_Heights__Heights_Bridge_GeoNum_comap_sup_span_45ba483d0587
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:09:30.715128+00:00
 -- url     : https://prove2.me/theorems/8b31feed-ad44-42d1-ab34-6f51e9c5cdfc
