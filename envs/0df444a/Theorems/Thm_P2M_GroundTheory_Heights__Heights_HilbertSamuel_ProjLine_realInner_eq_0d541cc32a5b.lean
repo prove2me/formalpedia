@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_realInner_eq_0d541cc32a5b
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_realInner_eq_0d541cc32a5b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:49.680832+00:00
 -- url     : https://prove2.me/theorems/764a8242-d55e-5bc0-b749-76f71daaac92

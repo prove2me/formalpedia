@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesQuotGramLog_basis_eq_elim_c623a59c968c
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesQuotGramLog_basis_eq_elim_c623a59c968c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:08.466501+00:00
 -- url     : https://prove2.me/theorems/7052e1bd-2559-43cf-afb0-0ad755def536

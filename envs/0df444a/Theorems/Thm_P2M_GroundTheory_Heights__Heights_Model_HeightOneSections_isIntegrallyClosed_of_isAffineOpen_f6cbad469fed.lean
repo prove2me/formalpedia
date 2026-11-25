@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_HeightOneSections_isIntegrallyClosed_of_isAffineOpen_f6cbad469fed
 -- name    : P2M_GroundTheory_Heights__Heights_Model_HeightOneSections_isIntegrallyClosed_of_isAffineOpen_f6cbad469fed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:30:52.782929+00:00
 -- url     : https://prove2.me/theorems/6ce1097a-f741-4870-ad0a-9ea21325bc83

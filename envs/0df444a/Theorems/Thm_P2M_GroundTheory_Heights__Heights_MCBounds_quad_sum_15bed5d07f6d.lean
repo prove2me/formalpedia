@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_quad_sum_15bed5d07f6d
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_quad_sum_15bed5d07f6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:58.260625+00:00
 -- url     : https://prove2.me/theorems/046c9c94-93ba-4ef2-9514-32020fb8ca55

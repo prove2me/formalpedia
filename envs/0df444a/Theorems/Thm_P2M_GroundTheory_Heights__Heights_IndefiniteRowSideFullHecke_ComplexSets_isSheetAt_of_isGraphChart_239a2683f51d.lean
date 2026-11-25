@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isSheetAt_of_isGraphChart_239a2683f51d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_isSheetAt_of_isGraphChart_239a2683f51d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:21:17.643817+00:00
 -- url     : https://prove2.me/theorems/b6bd783f-32ab-4210-af8e-94452a576f5d

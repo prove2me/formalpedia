@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_pair_mem_of_fibG
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.pair_mem_of_fibG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:59:51.518355+00:00
 -- url     : https://prove2.me/theorems/8d071744-e4f5-4c02-b4e4-5662234cc4ac

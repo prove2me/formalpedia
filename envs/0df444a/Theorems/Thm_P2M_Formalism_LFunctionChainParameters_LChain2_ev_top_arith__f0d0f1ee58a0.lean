@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LFunctionChainParameters_LChain2_ev_top_arith__f0d0f1ee58a0
 -- name    : P2M_Formalism_LFunctionChainParameters_LChain2_ev_top_arith__f0d0f1ee58a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:38:04.827311+00:00
 -- url     : https://prove2.me/theorems/3bd2ed1f-cd19-4106-940b-480dcfd8f4cc

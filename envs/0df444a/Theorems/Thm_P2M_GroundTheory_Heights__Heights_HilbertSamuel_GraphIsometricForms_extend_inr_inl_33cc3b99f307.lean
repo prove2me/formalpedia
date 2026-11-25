@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_extend_inr_inl_33cc3b99f307
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_extend_inr_inl_33cc3b99f307
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:22:29.260018+00:00
 -- url     : https://prove2.me/theorems/5655518e-6052-51b9-99ac-a0444f5f9de7

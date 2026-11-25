@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tate_natTrans_eq_of_eq_zero
 -- name    : GroundTheory.GroupCoh.tate_natTrans_eq_of_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:52.918304+00:00
 -- url     : https://prove2.me/theorems/af1b2fa7-9314-4dcf-a091-5f7ba9412afb

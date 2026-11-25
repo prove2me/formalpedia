@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_sub_hcEmb_mem
 -- name    : GroundTheory.Automorphic.HarishChandra.sub_hcEmb_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:17.500123+00:00
 -- url     : https://prove2.me/theorems/ae862221-c3af-4c55-9178-58f437d1e508

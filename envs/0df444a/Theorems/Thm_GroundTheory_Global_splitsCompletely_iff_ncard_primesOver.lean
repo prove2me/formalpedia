@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_splitsCompletely_iff_ncard_primesOver
 -- name    : GroundTheory.Global.splitsCompletely_iff_ncard_primesOver
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:14:58.793821+00:00
 -- url     : https://prove2.me/theorems/fccd98b9-f6f2-57de-adae-1a1cdaeddc33

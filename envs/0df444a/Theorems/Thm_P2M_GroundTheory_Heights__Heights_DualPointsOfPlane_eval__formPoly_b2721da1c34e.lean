@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualPointsOfPlane_eval__formPoly_b2721da1c34e
 -- name    : P2M_GroundTheory_Heights__Heights_DualPointsOfPlane_eval__formPoly_b2721da1c34e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:35.67423+00:00
 -- url     : https://prove2.me/theorems/c1de88ca-19be-4ae2-b4e4-1c0233cc1343

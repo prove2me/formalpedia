@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_pullback_one_b525a2fbfb79
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_pullback_one_b525a2fbfb79
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:27.568561+00:00
 -- url     : https://prove2.me/theorems/c2114200-d02b-4645-a7e7-e582ea8fc4d0

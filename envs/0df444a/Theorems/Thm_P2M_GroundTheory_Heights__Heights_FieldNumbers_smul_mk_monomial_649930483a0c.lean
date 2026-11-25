@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_smul_mk_monomial_649930483a0c
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_smul_mk_monomial_649930483a0c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:00.504625+00:00
 -- url     : https://prove2.me/theorems/603e72e6-ae6f-43ab-a8e0-a332bc5e2941

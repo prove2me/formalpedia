@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_preirreducibleSpace_fibre_standardEtale_spreads
 -- name    : GlobalTheory.preirreducibleSpace_fibre_standardEtale_spreads
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:15:52.211959+00:00
 -- url     : https://prove2.me/theorems/74e25660-c4bb-46ec-96d2-3d7e5ecfca7e

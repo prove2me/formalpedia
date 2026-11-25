@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_rename_mul_rename_16588cb6d067
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_rename_mul_rename_16588cb6d067
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:46.13792+00:00
 -- url     : https://prove2.me/theorems/d86801f6-4b36-561a-8527-b07484e05ce2

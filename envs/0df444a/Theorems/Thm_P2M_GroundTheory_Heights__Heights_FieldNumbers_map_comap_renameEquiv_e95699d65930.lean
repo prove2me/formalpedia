@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_map_comap_renameEquiv_e95699d65930
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_map_comap_renameEquiv_e95699d65930
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:16.733006+00:00
 -- url     : https://prove2.me/theorems/a71cdabb-4112-408f-86be-fd9d3faa2ecd

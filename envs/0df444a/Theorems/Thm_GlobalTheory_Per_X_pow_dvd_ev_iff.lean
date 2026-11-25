@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Per_X_pow_dvd_ev_iff
 -- name    : GlobalTheory.Per.X_pow_dvd_ev_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:49:53.806926+00:00
 -- url     : https://prove2.me/theorems/c2bdd3bf-58fd-4b1b-b96e-f59745feac45

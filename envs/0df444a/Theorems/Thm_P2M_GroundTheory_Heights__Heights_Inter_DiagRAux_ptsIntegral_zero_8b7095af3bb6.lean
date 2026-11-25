@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_ptsIntegral_zero_8b7095af3bb6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_ptsIntegral_zero_8b7095af3bb6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:06.184241+00:00
 -- url     : https://prove2.me/theorems/0d42e7e1-f4f2-4185-a1ae-400ab357fd7d

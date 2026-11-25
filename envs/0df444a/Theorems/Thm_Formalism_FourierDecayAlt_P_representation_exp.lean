@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_representation_exp
 -- name    : Formalism.FourierDecayAlt.P.representation_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:16:26.115223+00:00
 -- url     : https://prove2.me/theorems/9edf4300-c98f-52f9-8ae6-9113d898afe1

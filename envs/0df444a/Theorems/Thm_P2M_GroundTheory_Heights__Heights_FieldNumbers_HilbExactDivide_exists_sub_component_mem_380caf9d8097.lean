@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbExactDivide_exists_sub_component_mem_380caf9d8097
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbExactDivide_exists_sub_component_mem_380caf9d8097
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:15.458022+00:00
 -- url     : https://prove2.me/theorems/a5f46327-c7e5-5234-9ecf-89bf6ded3b69

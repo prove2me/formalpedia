@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HessCCompPluri_fderiv_fderiv_comp_apply_52a7820e256e
 -- name    : P2M_GroundTheory_Heights__Heights_HessCCompPluri_fderiv_fderiv_comp_apply_52a7820e256e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:35.657802+00:00
 -- url     : https://prove2.me/theorems/343afa10-a698-4c9d-beb2-f89995fc918f

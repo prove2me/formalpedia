@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_exists_maximal_isSeparable
 -- name    : GroundTheory.Brauer.exists_maximal_isSeparable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:14:39.825895+00:00
 -- url     : https://prove2.me/theorems/69e177ab-2ce8-44a0-813b-b5a51801c53b

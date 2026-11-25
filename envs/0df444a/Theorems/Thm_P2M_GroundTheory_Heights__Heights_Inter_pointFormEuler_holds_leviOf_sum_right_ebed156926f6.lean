@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_leviOf_sum_right_ebed156926f6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_leviOf_sum_right_ebed156926f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:32:34.516531+00:00
 -- url     : https://prove2.me/theorems/50c1521c-8302-55b1-873f-560bd15d065e

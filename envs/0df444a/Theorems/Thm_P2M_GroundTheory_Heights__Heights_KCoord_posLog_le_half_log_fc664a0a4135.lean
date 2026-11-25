@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KCoord_posLog_le_half_log_fc664a0a4135
 -- name    : P2M_GroundTheory_Heights__Heights_KCoord_posLog_le_half_log_fc664a0a4135
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:12.237174+00:00
 -- url     : https://prove2.me/theorems/5981eb2f-56e7-425e-9d92-e4f4625378e0

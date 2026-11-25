@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_kummerCorrespondence_symm_apply
 -- name    : GroundTheory.ProfCoh.kummerCorrespondence_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:59.273724+00:00
 -- url     : https://prove2.me/theorems/f76ce1b0-5c65-4852-816f-77e39effea8c

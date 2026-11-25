@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_image_openClosed_section
 -- name    : GlobalTheory.JR.image_openClosed_section
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T17:38:30.63174+00:00
 -- url     : https://prove2.me/theorems/416109b3-c6b6-442b-b573-0b22eeac7c3b

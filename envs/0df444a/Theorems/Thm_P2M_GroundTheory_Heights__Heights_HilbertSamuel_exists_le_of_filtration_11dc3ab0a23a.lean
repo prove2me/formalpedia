@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_exists_le_of_filtration_11dc3ab0a23a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_exists_le_of_filtration_11dc3ab0a23a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:15.350892+00:00
 -- url     : https://prove2.me/theorems/0f12921a-9c20-56e1-b507-5f934c26932e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesQuotGramLog_diag_posDef_5ddf34fbf3d3
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesQuotGramLog_diag_posDef_5ddf34fbf3d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:28.587825+00:00
 -- url     : https://prove2.me/theorems/f7bb73aa-9430-4e0d-92b6-9cf389e4f3a0

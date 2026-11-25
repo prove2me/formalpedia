@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdmLoc_exData_sg
 -- name    : GlobalTheory.AdmLoc.exData_sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:42.913135+00:00
 -- url     : https://prove2.me/theorems/3a2f7793-b72f-48b4-99c9-01a166617e3a

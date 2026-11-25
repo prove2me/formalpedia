@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_fibreOf_comap_19b9dcd15aa3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_fibreOf_comap_19b9dcd15aa3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:33:00.02325+00:00
 -- url     : https://prove2.me/theorems/ac2693fb-0028-5dc0-acad-2a2d4e513323

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartFirstGroupDvd_exists_injective_880cc7794019
 -- name    : P2M_GroundTheory_Heights__Heights_ChartFirstGroupDvd_exists_injective_880cc7794019
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:18:27.616843+00:00
 -- url     : https://prove2.me/theorems/1dcb3cbe-7a0b-41f8-b21e-020978e446a5

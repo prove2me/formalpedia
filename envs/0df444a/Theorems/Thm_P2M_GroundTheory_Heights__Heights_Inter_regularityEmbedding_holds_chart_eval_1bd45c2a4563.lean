@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityEmbedding_holds_chart_eval_1bd45c2a4563
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityEmbedding_holds_chart_eval_1bd45c2a4563
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:25:39.782866+00:00
 -- url     : https://prove2.me/theorems/20ae164b-acaf-4f69-b9f3-506c717b039b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_mixedDisc_mul_right_35066f68a6cf
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_mixedDisc_mul_right_35066f68a6cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:35:00.053796+00:00
 -- url     : https://prove2.me/theorems/9b993547-5e93-553c-bc82-652551dc06f9

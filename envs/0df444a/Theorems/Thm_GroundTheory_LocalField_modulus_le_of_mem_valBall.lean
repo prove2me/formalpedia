@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_modulus_le_of_mem_valBall
 -- name    : GroundTheory.LocalField.modulus_le_of_mem_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:18.221047+00:00
 -- url     : https://prove2.me/theorems/ce2b91c7-93e7-41da-8315-8e963fba2d53

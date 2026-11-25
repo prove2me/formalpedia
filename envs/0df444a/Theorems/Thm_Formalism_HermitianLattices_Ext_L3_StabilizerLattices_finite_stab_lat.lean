@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_finite_stab_lat
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.finite_stab_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:47:43.137169+00:00
 -- url     : https://prove2.me/theorems/344c0e4f-df42-42c4-931c-672b04f33587

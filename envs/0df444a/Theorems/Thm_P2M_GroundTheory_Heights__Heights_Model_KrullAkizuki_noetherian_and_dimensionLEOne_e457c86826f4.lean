@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_KrullAkizuki_noetherian_and_dimensionLEOne_e457c86826f4
 -- name    : P2M_GroundTheory_Heights__Heights_Model_KrullAkizuki_noetherian_and_dimensionLEOne_e457c86826f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:11.431127+00:00
 -- url     : https://prove2.me/theorems/736795df-0af1-482c-9bd7-60b0d289395d

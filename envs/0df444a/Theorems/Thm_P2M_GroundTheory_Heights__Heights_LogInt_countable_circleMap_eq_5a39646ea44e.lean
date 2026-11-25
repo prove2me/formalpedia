@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_countable_circleMap_eq_5a39646ea44e
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_countable_circleMap_eq_5a39646ea44e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:50.521365+00:00
 -- url     : https://prove2.me/theorems/265d6d23-6e5b-40b2-bf79-a71b7cc61d34

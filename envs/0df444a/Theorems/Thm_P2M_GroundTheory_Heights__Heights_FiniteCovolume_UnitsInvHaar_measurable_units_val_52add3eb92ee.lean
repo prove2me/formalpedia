@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnitsInvHaar_measurable_units_val_52add3eb92ee
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_UnitsInvHaar_measurable_units_val_52add3eb92ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:07.555917+00:00
 -- url     : https://prove2.me/theorems/7acb9492-f44c-43b5-9d80-edcfce81cd33

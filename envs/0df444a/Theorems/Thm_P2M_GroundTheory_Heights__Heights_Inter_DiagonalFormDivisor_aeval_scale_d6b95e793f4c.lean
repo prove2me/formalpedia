@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_aeval_scale_d6b95e793f4c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_aeval_scale_d6b95e793f4c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:51.84873+00:00
 -- url     : https://prove2.me/theorems/29902bc8-774c-5bec-91cd-1f653ccb7c02

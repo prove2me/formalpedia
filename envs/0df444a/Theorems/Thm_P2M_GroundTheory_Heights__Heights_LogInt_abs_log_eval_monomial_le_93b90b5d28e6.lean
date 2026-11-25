@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_abs_log_eval_monomial_le_93b90b5d28e6
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_abs_log_eval_monomial_le_93b90b5d28e6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:43.964039+00:00
 -- url     : https://prove2.me/theorems/f9c6c058-1a11-4214-ad7a-8b0107fffa39

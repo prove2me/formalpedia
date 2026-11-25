@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolynomial_listDiff_replicate_0a9c60c52f49
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolynomial_listDiff_replicate_0a9c60c52f49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:19:09.918176+00:00
 -- url     : https://prove2.me/theorems/2aee5d46-6846-499a-9ee2-309d5b53dd2b

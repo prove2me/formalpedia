@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadJets_nmat_zero_mem_Bor
 -- name    : GlobalTheory.LeadJets.nmat_zero_mem_Bor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:48:05.654734+00:00
 -- url     : https://prove2.me/theorems/d8fa7c39-265e-4959-b31e-9199ee56aa95

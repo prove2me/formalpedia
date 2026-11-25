@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_chain_weighted_mean_to_unit_weight
 -- name    : Formalism.LFunctionChainParameters.LChain.chain_weighted_mean_to_unit_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:30:28.431152+00:00
 -- url     : https://prove2.me/theorems/6ddbc91d-ed38-4a25-8095-eab33e787741

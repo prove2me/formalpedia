@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesCoordDet_toBlocks___eq_1b8652055f7a
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesCoordDet_toBlocks___eq_1b8652055f7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:20.567401+00:00
 -- url     : https://prove2.me/theorems/f2111b77-d229-4da0-83c5-f275f9e0b2a6

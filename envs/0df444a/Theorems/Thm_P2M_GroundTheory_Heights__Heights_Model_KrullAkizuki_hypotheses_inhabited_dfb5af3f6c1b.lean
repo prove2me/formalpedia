@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_KrullAkizuki_hypotheses_inhabited_dfb5af3f6c1b
 -- name    : P2M_GroundTheory_Heights__Heights_Model_KrullAkizuki_hypotheses_inhabited_dfb5af3f6c1b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:11.886381+00:00
 -- url     : https://prove2.me/theorems/54fa0d08-723d-4617-b3a6-963dabcf73e7

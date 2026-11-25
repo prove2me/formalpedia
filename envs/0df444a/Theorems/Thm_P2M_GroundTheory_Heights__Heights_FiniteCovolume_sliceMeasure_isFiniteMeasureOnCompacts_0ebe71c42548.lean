@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_sliceMeasure_isFiniteMeasureOnCompacts_0ebe71c42548
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_sliceMeasure_isFiniteMeasureOnCompacts_0ebe71c42548
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:56.246774+00:00
 -- url     : https://prove2.me/theorems/d008c1d5-3706-42cd-8678-1bde794aa566

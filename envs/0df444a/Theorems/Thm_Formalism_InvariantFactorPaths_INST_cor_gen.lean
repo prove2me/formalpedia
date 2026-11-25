@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_cor_gen
 -- name    : Formalism.InvariantFactorPaths.INST.cor_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:00:18.606148+00:00
 -- url     : https://prove2.me/theorems/219fd80f-c3f4-4d8f-8a19-5e5d5af559b7

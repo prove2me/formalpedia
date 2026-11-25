@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ofFn_update_64c49455c3c2
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ofFn_update_64c49455c3c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:48.118204+00:00
 -- url     : https://prove2.me/theorems/95b32953-9e03-57b5-b7d2-a4c614e27b0d

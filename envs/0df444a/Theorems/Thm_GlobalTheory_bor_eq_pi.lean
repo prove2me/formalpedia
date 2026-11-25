@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bor_eq_pi
 -- name    : GlobalTheory.bor_eq_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:07:02.513875+00:00
 -- url     : https://prove2.me/theorems/3baa570c-a783-49e5-82ce-93f37cfd656a

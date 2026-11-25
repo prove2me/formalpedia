@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_half_period_standard_CM
 -- name    : Formalism.L2.Ker.KS.half_period_standard_CM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:05:54.361261+00:00
 -- url     : https://prove2.me/theorems/bcc16723-0688-4db2-bf48-570a6e3130f9

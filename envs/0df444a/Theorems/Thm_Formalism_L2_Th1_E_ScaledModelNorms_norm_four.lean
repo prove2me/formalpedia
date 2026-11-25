@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_ScaledModelNorms_norm_four
 -- name    : Formalism.L2.Th1.E.ScaledModelNorms.norm_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:52:23.761799+00:00
 -- url     : https://prove2.me/theorems/7c8f6098-6978-460d-a056-8aadb67c157d

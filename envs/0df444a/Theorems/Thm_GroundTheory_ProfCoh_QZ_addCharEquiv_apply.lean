@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_QZ_addCharEquiv_apply
 -- name    : GroundTheory.ProfCoh.QZ.addCharEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:12.478774+00:00
 -- url     : https://prove2.me/theorems/7eb34b1a-8616-53f3-9d13-630b12fa4c43

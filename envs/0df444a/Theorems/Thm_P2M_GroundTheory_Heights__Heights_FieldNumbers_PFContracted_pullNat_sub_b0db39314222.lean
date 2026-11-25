@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_pullNat_sub_b0db39314222
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_pullNat_sub_b0db39314222
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:15.411088+00:00
 -- url     : https://prove2.me/theorems/5ab3a9a7-c3f2-45a6-b7ef-59bec62ece93

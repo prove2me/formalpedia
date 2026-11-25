@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_VerticalDegreeAfterAdjoining_chart_congr_8f517aba47f5
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_VerticalDegreeAfterAdjoining_chart_congr_8f517aba47f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:57.728436+00:00
 -- url     : https://prove2.me/theorems/e25de6a9-ffeb-44ab-a6cc-1e0db25ac7af

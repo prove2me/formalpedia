@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_withBot_le_two_of_add_one_le_755902c62a52
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_withBot_le_two_of_add_one_le_755902c62a52
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:06.19875+00:00
 -- url     : https://prove2.me/theorems/2eadbe89-65e5-5665-9170-418f18fbffdd

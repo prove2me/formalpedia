@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_scale_inGroup_apply_of_ne_6de922e60143
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_scale_inGroup_apply_of_ne_6de922e60143
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:28:05.225426+00:00
 -- url     : https://prove2.me/theorems/88285a1f-7dcb-416c-9950-204439ca80f9

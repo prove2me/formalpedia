@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_coeffForm_monomial_6aa346b05c3c
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_coeffForm_monomial_6aa346b05c3c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:25.696444+00:00
 -- url     : https://prove2.me/theorems/631f7c81-f76f-4641-be01-380390e88d6e

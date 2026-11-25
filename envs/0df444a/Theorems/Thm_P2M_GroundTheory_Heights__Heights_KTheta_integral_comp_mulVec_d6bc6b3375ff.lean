@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KTheta_integral_comp_mulVec_d6bc6b3375ff
 -- name    : P2M_GroundTheory_Heights__Heights_KTheta_integral_comp_mulVec_d6bc6b3375ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:26:02.464811+00:00
 -- url     : https://prove2.me/theorems/9576f2ca-9333-53fd-8dcd-671305d440ac

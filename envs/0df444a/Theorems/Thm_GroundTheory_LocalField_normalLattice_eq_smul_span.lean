@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_normalLattice_eq_smul_span
 -- name    : GroundTheory.LocalField.normalLattice_eq_smul_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:15:06.387217+00:00
 -- url     : https://prove2.me/theorems/f7e86251-c8be-58d4-af89-d52ac01dbc30

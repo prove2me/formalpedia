@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameExtension_prod_Icc_fin
 -- name    : Formalism.FourierDecayAlt.P.FrameExtension.prod_Icc_fin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:09:20.033788+00:00
 -- url     : https://prove2.me/theorems/ba67721c-17e3-478e-a958-b9a0f34ea09b

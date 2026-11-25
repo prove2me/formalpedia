@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_isLocalHom_localization_dd364b87de03
 -- name    : P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_isLocalHom_localization_dd364b87de03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:25.322943+00:00
 -- url     : https://prove2.me/theorems/84e29fea-dc7c-568e-a7f5-0bf9c113b488

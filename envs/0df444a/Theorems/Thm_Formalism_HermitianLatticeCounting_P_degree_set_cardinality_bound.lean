@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_degree_set_cardinality_bound
 -- name    : Formalism.HermitianLatticeCounting.P.degree_set_cardinality_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:11.047057+00:00
 -- url     : https://prove2.me/theorems/02d66b4b-b8fe-4c90-b082-60248512770c

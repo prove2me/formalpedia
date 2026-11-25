@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesProductFormula_prod_norm_embeddings_5b2a354076b7
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesProductFormula_prod_norm_embeddings_5b2a354076b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:39.728828+00:00
 -- url     : https://prove2.me/theorems/eff3b951-f76c-550f-b86c-a11ec09e3056

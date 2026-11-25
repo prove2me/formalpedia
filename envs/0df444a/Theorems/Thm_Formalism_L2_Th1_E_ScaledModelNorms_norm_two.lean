@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_ScaledModelNorms_norm_two
 -- name    : Formalism.L2.Th1.E.ScaledModelNorms.norm_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:28:31.84886+00:00
 -- url     : https://prove2.me/theorems/fa96a07f-2a6e-5d63-9503-539f02ea408a

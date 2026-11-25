@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L2Linf_exists_mem_apply_eq_norm_sq
 -- name    : SNumbers.L2Linf.exists_mem_apply_eq_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:59:27.729426+00:00
 -- url     : https://prove2.me/theorems/0069755d-285b-4f70-9186-93c4017af53d

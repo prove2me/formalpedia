@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeOne_ball_compact
 -- name    : GlobalTheory.HCXi.ConeOne.ball_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:09:41.333477+00:00
 -- url     : https://prove2.me/theorems/c8b216fe-1b15-592e-a1f2-06d318341f23

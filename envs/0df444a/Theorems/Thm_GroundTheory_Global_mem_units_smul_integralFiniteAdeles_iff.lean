@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_units_smul_integralFiniteAdeles_iff
 -- name    : GroundTheory.Global.mem_units_smul_integralFiniteAdeles_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:23.235478+00:00
 -- url     : https://prove2.me/theorems/34e35887-8e34-597a-8f46-14c504f1fccd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_comp_conjNormal_eq_iff
 -- name    : GroundTheory.LocalField.comp_conjNormal_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:30:58.12505+00:00
 -- url     : https://prove2.me/theorems/a0980547-5a6b-4921-8f93-07dac5785bd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MixedDiffConst_sum_eq_73cf2fba62b3
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MixedDiffConst_sum_eq_73cf2fba62b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:19.818632+00:00
 -- url     : https://prove2.me/theorems/4f0119bd-44d8-5ae5-a86c-5be781ce475a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropyNumber_multiplicative
 -- name    : SNumbers.entropyNumber_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:18:44.308516+00:00
 -- url     : https://prove2.me/theorems/51e8ec1b-f9fe-5fc2-9c33-bc728b5cdb5e

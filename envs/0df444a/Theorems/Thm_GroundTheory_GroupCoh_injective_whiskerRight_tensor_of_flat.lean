@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_injective_whiskerRight_tensor_of_flat
 -- name    : GroundTheory.GroupCoh.injective_whiskerRight_tensor_of_flat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:44.554221+00:00
 -- url     : https://prove2.me/theorems/fb653303-bb4b-492e-b788-9a4aa4f510d5

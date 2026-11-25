@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_isMultiHomog_iff_98f435e2c05f
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_isMultiHomog_iff_98f435e2c05f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:38.486992+00:00
 -- url     : https://prove2.me/theorems/ea6d0e3d-928d-4b20-a492-7e4b4ba36214

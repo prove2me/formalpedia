@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_comm_sum
 -- name    : GroundTheory.Automorphic.Sobolev.comm_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:13:22.731416+00:00
 -- url     : https://prove2.me/theorems/4b16f2ac-4c08-44b9-aa49-eea2f9b9fbd5

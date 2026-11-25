@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_card_eq_card_residueField_of_isSimpleModule_83467b0fb3cd
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_card_eq_card_residueField_of_isSimpleModule_83467b0fb3cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:23:41.909135+00:00
 -- url     : https://prove2.me/theorems/26002954-49a3-4e36-b4d2-5f01d5219589

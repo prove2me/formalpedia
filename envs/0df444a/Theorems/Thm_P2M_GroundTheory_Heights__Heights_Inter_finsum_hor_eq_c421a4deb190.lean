@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_finsum_hor_eq_c421a4deb190
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_finsum_hor_eq_c421a4deb190
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:29.343599+00:00
 -- url     : https://prove2.me/theorems/5022d8fa-f130-4b06-aa77-f31ac13d8f16

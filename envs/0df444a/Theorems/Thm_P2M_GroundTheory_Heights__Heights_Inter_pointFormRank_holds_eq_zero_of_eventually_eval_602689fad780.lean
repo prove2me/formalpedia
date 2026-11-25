@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pointFormRank_holds_eq_zero_of_eventually_eval_602689fad780
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pointFormRank_holds_eq_zero_of_eventually_eval_602689fad780
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:27:37.564861+00:00
 -- url     : https://prove2.me/theorems/787393b6-c1cc-46ca-b299-25a088f1c2f3

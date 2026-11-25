@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_nsmul_eq_zero_of_surjective
 -- name    : GroundTheory.GroupCoh.nsmul_eq_zero_of_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:12.042091+00:00
 -- url     : https://prove2.me/theorems/3b4d9c5a-04f4-5184-916d-00603afe2f46

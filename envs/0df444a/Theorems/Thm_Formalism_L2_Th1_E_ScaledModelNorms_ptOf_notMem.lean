@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_ScaledModelNorms_ptOf_notMem
 -- name    : Formalism.L2.Th1.E.ScaledModelNorms.ptOf_notMem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:43:29.738165+00:00
 -- url     : https://prove2.me/theorems/1c61a6b6-9404-4428-82c5-1ba7211f0092

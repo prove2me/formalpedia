@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_log_rho_eq_phi_a87fea3648ce
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_log_rho_eq_phi_a87fea3648ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:22:57.606498+00:00
 -- url     : https://prove2.me/theorems/efab47ac-0e3b-4042-a58c-739f7ad928fb

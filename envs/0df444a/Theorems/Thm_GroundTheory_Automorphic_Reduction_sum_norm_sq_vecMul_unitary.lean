@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_sum_norm_sq_vecMul_unitary
 -- name    : GroundTheory.Automorphic.Reduction.sum_norm_sq_vecMul_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:24.53521+00:00
 -- url     : https://prove2.me/theorems/eb3061f3-3f51-4c78-9e50-5548ebc54b93

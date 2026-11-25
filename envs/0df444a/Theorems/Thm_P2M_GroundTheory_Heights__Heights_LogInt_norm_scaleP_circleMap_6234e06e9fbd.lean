@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_norm_scaleP_circleMap_6234e06e9fbd
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_norm_scaleP_circleMap_6234e06e9fbd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:27:52.106287+00:00
 -- url     : https://prove2.me/theorems/edc5bf20-3dbd-4df6-bb5e-b562028abf67

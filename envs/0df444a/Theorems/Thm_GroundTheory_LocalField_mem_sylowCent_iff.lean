@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_sylowCent_iff
 -- name    : GroundTheory.LocalField.mem_sylowCent_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:23.795233+00:00
 -- url     : https://prove2.me/theorems/6cb4a53d-8574-4d55-a107-9f3e7a12d90e

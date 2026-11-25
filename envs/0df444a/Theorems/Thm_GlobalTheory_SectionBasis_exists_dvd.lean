@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SectionBasis_exists_dvd
 -- name    : GlobalTheory.SectionBasis.exists_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:52:22.476171+00:00
 -- url     : https://prove2.me/theorems/b1f76b6c-34bd-42d5-aa2a-e8f56052a96f

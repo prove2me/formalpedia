@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ideal_eq_of_isHomogeneous_48fc59908dff
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ideal_eq_of_isHomogeneous_48fc59908dff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:19.606059+00:00
 -- url     : https://prove2.me/theorems/e7d4b5e4-7fba-4e8b-839d-b66f6589b033

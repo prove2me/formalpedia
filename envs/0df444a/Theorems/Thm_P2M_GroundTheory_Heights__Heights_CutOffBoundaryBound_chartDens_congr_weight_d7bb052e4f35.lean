@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_chartDens_congr_weight_d7bb052e4f35
 -- name    : P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_chartDens_congr_weight_d7bb052e4f35
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:27.516106+00:00
 -- url     : https://prove2.me/theorems/f2047c2e-9ee9-5807-80a5-393d3603824a

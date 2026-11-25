@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrder_multAt_eq_zero_of_not_le_a33d6d2519c2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrder_multAt_eq_zero_of_not_le_a33d6d2519c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:29:31.244809+00:00
 -- url     : https://prove2.me/theorems/ddb21e99-ea26-50c3-8465-9795c576b338

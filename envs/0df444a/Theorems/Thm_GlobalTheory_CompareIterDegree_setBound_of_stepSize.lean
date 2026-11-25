@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_setBound_of_stepSize
 -- name    : GlobalTheory.CompareIterDegree.setBound_of_stepSize
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:57:53.008442+00:00
 -- url     : https://prove2.me/theorems/fe1edf03-fa0e-4a82-a68d-e8b457500b1c

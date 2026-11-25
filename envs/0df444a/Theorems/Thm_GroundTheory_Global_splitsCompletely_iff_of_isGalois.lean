@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_splitsCompletely_iff_of_isGalois
 -- name    : GroundTheory.Global.splitsCompletely_iff_of_isGalois
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:39.521154+00:00
 -- url     : https://prove2.me/theorems/65aac152-0178-4f49-a432-f0c5fee02960

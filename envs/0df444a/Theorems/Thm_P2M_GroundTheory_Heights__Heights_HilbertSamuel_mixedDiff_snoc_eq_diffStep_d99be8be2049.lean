@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_mixedDiff_snoc_eq_diffStep_d99be8be2049
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_mixedDiff_snoc_eq_diffStep_d99be8be2049
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:22:47.666081+00:00
 -- url     : https://prove2.me/theorems/0494f265-bf3c-5757-9cdb-4d8cd411dfaa

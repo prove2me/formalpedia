@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeFsLog_sum_mul_pointOf_e015eaf40c49
 -- name    : P2M_GroundTheory_Heights__Heights_ConeFsLog_sum_mul_pointOf_e015eaf40c49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:45.385652+00:00
 -- url     : https://prove2.me/theorems/be8ec5e6-64f4-4373-a5c6-4d2504bec37e

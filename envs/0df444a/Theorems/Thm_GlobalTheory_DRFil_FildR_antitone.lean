@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_FildR_antitone
 -- name    : GlobalTheory.DRFil.FildR_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:15:16.49102+00:00
 -- url     : https://prove2.me/theorems/2c6f6228-a5d3-4729-bb60-410d96e01e5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_pullDeg_split_8ca83a496a75
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_pullDeg_split_8ca83a496a75
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:59.233537+00:00
 -- url     : https://prove2.me/theorems/1359ae4d-8d50-5197-92f4-b33061fc3476

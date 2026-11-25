@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalGraphProjectionMass_lintegral_count_le_0c5dc6a305d6
 -- name    : P2M_GroundTheory_Heights__Heights_LocalGraphProjectionMass_lintegral_count_le_0c5dc6a305d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:55.693578+00:00
 -- url     : https://prove2.me/theorems/bdedd584-9fd6-4ca4-a1f1-58b5118e5257

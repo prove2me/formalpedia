@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L2Linf_sum_sum_norm_sq_apply
 -- name    : SNumbers.L2Linf.sum_sum_norm_sq_apply
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:59:37.596943+00:00
 -- url     : https://prove2.me/theorems/576daaaa-3558-4a91-8cbb-145c6611ada1

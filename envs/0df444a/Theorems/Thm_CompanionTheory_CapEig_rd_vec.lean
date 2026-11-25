@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_rd_vec
 -- name    : CompanionTheory.CapEig.rd_vec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:04:45.062375+00:00
 -- url     : https://prove2.me/theorems/8e30f88d-65c6-4cbd-9870-8b5a344d8ee7

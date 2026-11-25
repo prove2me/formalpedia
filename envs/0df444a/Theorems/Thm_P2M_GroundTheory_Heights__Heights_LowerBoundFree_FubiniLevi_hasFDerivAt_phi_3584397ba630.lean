@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_FubiniLevi_hasFDerivAt_phi_3584397ba630
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_FubiniLevi_hasFDerivAt_phi_3584397ba630
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:30:19.680627+00:00
 -- url     : https://prove2.me/theorems/9387cda1-d74c-4c44-8a0f-8d68c4f18211

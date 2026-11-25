@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_re_dot_complexQuadMatrix_d68800a2e786
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_re_dot_complexQuadMatrix_d68800a2e786
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:53.065943+00:00
 -- url     : https://prove2.me/theorems/bc9e251e-d2a5-4531-a3aa-4fafe8649adc

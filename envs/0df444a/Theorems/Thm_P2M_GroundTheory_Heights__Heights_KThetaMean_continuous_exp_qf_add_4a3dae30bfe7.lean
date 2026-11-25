@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KThetaMean_continuous_exp_qf_add_4a3dae30bfe7
 -- name    : P2M_GroundTheory_Heights__Heights_KThetaMean_continuous_exp_qf_add_4a3dae30bfe7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:59.871177+00:00
 -- url     : https://prove2.me/theorems/2f1c4f72-5393-406b-94f5-2e2d3ca5a9ce

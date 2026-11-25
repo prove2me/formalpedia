@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_isPrimitive_detForm_4b3032f592e8
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_isPrimitive_detForm_4b3032f592e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:29.543646+00:00
 -- url     : https://prove2.me/theorems/542aec4d-b33b-4106-9271-fae43e07e5cc

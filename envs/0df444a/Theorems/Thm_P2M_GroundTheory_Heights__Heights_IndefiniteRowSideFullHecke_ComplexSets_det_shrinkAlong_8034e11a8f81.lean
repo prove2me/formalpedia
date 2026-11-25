@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_det_shrinkAlong_8034e11a8f81
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_det_shrinkAlong_8034e11a8f81
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:20:37.788433+00:00
 -- url     : https://prove2.me/theorems/94d9f9ef-a3f3-4aff-bed1-7d86eaf8906c

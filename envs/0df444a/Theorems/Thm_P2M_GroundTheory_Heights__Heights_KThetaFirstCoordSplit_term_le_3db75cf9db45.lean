@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KThetaFirstCoordSplit_term_le_3db75cf9db45
 -- name    : P2M_GroundTheory_Heights__Heights_KThetaFirstCoordSplit_term_le_3db75cf9db45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:10.129401+00:00
 -- url     : https://prove2.me/theorems/308fbb44-c788-406f-8370-6485bf7efb74

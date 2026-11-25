@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_LengthSumLocalizations_length_eq_sum_of_isFiniteLength_31a97d0ec527
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_LengthSumLocalizations_length_eq_sum_of_isFiniteLength_31a97d0ec527
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:50.42982+00:00
 -- url     : https://prove2.me/theorems/cdc23288-8ff9-4abd-a34d-8783b4b8fa31

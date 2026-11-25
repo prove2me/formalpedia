@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_norm_mem_integer
 -- name    : GroundTheory.LocalField.norm_mem_integer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:14:41.649174+00:00
 -- url     : https://prove2.me/theorems/06d6e549-4ec2-51f2-b59a-28b343eb2b96

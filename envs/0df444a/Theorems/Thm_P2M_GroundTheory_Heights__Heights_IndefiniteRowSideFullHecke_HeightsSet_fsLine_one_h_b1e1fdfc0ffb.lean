@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_fsLine_one_h_b1e1fdfc0ffb
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_fsLine_one_h_b1e1fdfc0ffb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:21:55.565459+00:00
 -- url     : https://prove2.me/theorems/d1070bd3-73cc-490b-951e-d425b838f406

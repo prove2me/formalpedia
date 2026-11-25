@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__lintegral_fibS_of_mem_f476bf11a504
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__lintegral_fibS_of_mem_f476bf11a504
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:23.79759+00:00
 -- url     : https://prove2.me/theorems/847540ac-6ddc-4b53-aa21-538417bf0964

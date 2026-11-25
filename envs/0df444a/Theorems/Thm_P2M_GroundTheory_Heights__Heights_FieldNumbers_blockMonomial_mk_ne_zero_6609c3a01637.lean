@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_blockMonomial_mk_ne_zero_6609c3a01637
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_blockMonomial_mk_ne_zero_6609c3a01637
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:31.048945+00:00
 -- url     : https://prove2.me/theorems/11d833a7-3332-4f8e-b0c7-1523b3e56152

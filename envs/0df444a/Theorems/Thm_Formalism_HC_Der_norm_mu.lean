@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_Der_norm_mu
 -- name    : Formalism.HC.Der.norm_mu
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:06:33.371966+00:00
 -- url     : https://prove2.me/theorems/0b552ff7-fb4a-5e34-b7d2-a8949acae7f0

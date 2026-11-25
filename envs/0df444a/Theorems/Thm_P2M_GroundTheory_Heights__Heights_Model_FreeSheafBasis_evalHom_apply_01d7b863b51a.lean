@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_FreeSheafBasis_evalHom_apply_01d7b863b51a
 -- name    : P2M_GroundTheory_Heights__Heights_Model_FreeSheafBasis_evalHom_apply_01d7b863b51a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:59.023835+00:00
 -- url     : https://prove2.me/theorems/e2ad342c-507e-4b35-a78d-99b20b7d0993

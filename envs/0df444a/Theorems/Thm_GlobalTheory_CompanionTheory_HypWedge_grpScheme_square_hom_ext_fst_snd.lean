@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HypWedge_grpScheme_square_hom_ext_fst_snd
 -- name    : GlobalTheory.CompanionTheory.HypWedge.grpScheme_square_hom_ext_fst_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:21:23.908799+00:00
 -- url     : https://prove2.me/theorems/3f08c075-838c-4546-988f-690585ec8e35

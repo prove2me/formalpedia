@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceGeneric_aeval_eq_zero_of_mem_incIdeal_ca256b480e30
 -- name    : P2M_GroundTheory_Heights__Heights_IncidenceGeneric_aeval_eq_zero_of_mem_incIdeal_ca256b480e30
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:31.785254+00:00
 -- url     : https://prove2.me/theorems/f7da51b3-3317-4d7c-87f8-677b1e4d389b

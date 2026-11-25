@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DehomogOrd_ord_atPrime_mul_of_notMem_ddcfc676d20e
 -- name    : P2M_GroundTheory_Heights__Heights_DehomogOrd_ord_atPrime_mul_of_notMem_ddcfc676d20e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:21.515347+00:00
 -- url     : https://prove2.me/theorems/1a6d857d-5f73-5316-8f54-dbbb001ea059

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolynomial_eval_binomPoly_aa54a0e3201d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolynomial_eval_binomPoly_aa54a0e3201d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:19:28.996796+00:00
 -- url     : https://prove2.me/theorems/7e69f6d6-2aad-4f7c-ba0e-ffd0c908b1d9

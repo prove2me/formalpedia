@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PolyOfDiffs_exists_pow_antideriv_69ad4af11f37
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PolyOfDiffs_exists_pow_antideriv_69ad4af11f37
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:08.261326+00:00
 -- url     : https://prove2.me/theorems/ae7e2d92-c83b-5adc-8608-f16379e80c05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HadamardGramBound_det_gram_le_prod_norm_sq_08823bc1ad4b
 -- name    : P2M_GroundTheory_Heights__Heights_HadamardGramBound_det_gram_le_prod_norm_sq_08823bc1ad4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:19:00.688039+00:00
 -- url     : https://prove2.me/theorems/fb0476cf-1b44-4fde-870b-18cfe70d9342

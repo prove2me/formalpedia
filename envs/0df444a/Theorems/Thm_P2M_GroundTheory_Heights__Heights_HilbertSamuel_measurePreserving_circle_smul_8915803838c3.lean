@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_measurePreserving_circle_smul_8915803838c3
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_measurePreserving_circle_smul_8915803838c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:35.810659+00:00
 -- url     : https://prove2.me/theorems/c2c6ffe7-9dcd-49d2-97e2-13c3bc45a93c

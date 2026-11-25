@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SplitEmbSep_one_le_norm_intCast
 -- name    : GlobalTheory.SplitEmbSep.one_le_norm_intCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:30:11.730808+00:00
 -- url     : https://prove2.me/theorems/24303a2e-ce52-4241-bf3b-32e9042fac61

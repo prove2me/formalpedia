@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_product_slope_sum
 -- name    : Formalism.HN.product_slope_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:25.416423+00:00
 -- url     : https://prove2.me/theorems/6342cdd9-fe05-4be3-b054-ece7d7436bd5

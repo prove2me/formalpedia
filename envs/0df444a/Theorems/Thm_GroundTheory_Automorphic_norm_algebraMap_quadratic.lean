@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_norm_algebraMap_quadratic
 -- name    : GroundTheory.Automorphic.norm_algebraMap_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:07.457886+00:00
 -- url     : https://prove2.me/theorems/96751d6d-8f69-43b5-a9a6-03632ab64118

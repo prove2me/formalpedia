@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_cycR_sub_eq_d7d83be416a3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_cycR_sub_eq_d7d83be416a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:25:31.270562+00:00
 -- url     : https://prove2.me/theorems/22d1c818-6e91-4f2f-bf45-7e61ae11f535

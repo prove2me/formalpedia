@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBCut_cutInside_of_built
 -- name    : Formalism.FourierDecayAlt.P.PBCut.cutInside_of_built
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:45:20.26408+00:00
 -- url     : https://prove2.me/theorems/da8d90db-0196-5290-9881-32237d588b89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_card_extensions_d233ebd0ffff
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_card_extensions_d233ebd0ffff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:48.913268+00:00
 -- url     : https://prove2.me/theorems/a6985b72-6ed1-4e17-8a3d-38d12cca61e0

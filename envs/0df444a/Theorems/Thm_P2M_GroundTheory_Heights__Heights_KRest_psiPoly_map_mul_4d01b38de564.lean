@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KRest_psiPoly_map_mul_4d01b38de564
 -- name    : P2M_GroundTheory_Heights__Heights_KRest_psiPoly_map_mul_4d01b38de564
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:59.008806+00:00
 -- url     : https://prove2.me/theorems/afab86f5-761c-436e-bf3b-1afa2fd40db1

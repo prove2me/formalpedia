@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_sum_localCoord
 -- name    : GroundTheory.Global.AdeleBaseChange.sum_localCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:15:56.242914+00:00
 -- url     : https://prove2.me/theorems/bc501c1a-fd98-41b0-a7bc-b9324215cee9

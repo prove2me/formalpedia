@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIUnique_isMultiHomog_pow__5a8a11fb4ddf
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIUnique_isMultiHomog_pow__5a8a11fb4ddf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:55.512106+00:00
 -- url     : https://prove2.me/theorems/15a5e78b-485b-5cbe-acd0-24c843f99c9f

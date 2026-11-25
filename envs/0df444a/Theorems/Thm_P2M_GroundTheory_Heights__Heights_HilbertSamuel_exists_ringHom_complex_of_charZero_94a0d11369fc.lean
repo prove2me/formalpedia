@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_exists_ringHom_complex_of_charZero_94a0d11369fc
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_exists_ringHom_complex_of_charZero_94a0d11369fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:25.240808+00:00
 -- url     : https://prove2.me/theorems/95313800-a5ed-5f44-a764-86158488b291

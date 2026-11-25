@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Conservation_C_not_mem_17885ec104a3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Conservation_C_not_mem_17885ec104a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:18.622438+00:00
 -- url     : https://prove2.me/theorems/c996f464-73dc-42ce-a6ff-f6a4b0520a11

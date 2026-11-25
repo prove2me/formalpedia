@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_LatticePointCount_log_error_le_303c1986598d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_LatticePointCount_log_error_le_303c1986598d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:19:40.671371+00:00
 -- url     : https://prove2.me/theorems/4258a0fe-dfbe-4f7d-93a6-ce2b5b971818

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalGraphProjectionMass_frameFibreCount_image_repr_map_e35b58a6ec96
 -- name    : P2M_GroundTheory_Heights__Heights_LocalGraphProjectionMass_frameFibreCount_image_repr_map_e35b58a6ec96
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:41.536741+00:00
 -- url     : https://prove2.me/theorems/7db8a4b2-726f-4dfb-9e24-3062271c56d9

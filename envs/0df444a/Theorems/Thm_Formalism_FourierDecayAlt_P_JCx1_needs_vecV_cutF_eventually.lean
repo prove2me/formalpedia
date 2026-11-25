@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_vecV_cutF_eventually
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.vecV_cutF_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:45:24.169276+00:00
 -- url     : https://prove2.me/theorems/905fad98-e194-4fc0-9a07-873029ba31d4

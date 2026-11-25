@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushChart_prod_ofFn_comp
 -- name    : GlobalTheory.PushChart.prod_ofFn_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:51:23.426404+00:00
 -- url     : https://prove2.me/theorems/c2e6c662-ce67-5d22-ae1f-ff8b8c0be524

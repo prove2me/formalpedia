@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DehomogOrd_isPrime_map_C_2b9d3db6148a
 -- name    : P2M_GroundTheory_Heights__Heights_DehomogOrd_isPrime_map_C_2b9d3db6148a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:42.672787+00:00
 -- url     : https://prove2.me/theorems/49e93d6e-4dba-57bb-9dc9-85847ad3b427

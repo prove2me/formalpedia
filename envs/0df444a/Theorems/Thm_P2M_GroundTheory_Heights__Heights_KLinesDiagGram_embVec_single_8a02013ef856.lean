@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesDiagGram_embVec_single_8a02013ef856
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesDiagGram_embVec_single_8a02013ef856
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:27:33.844806+00:00
 -- url     : https://prove2.me/theorems/d30072c5-7ba8-463f-83bd-0de5a116c571

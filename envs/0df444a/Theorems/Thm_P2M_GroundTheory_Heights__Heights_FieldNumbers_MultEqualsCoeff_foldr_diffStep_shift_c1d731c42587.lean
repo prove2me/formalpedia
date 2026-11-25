@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MultEqualsCoeff_foldr_diffStep_shift_c1d731c42587
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MultEqualsCoeff_foldr_diffStep_shift_c1d731c42587
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:20.280052+00:00
 -- url     : https://prove2.me/theorems/4e214ba4-68da-5f27-ab93-60b84efc896d

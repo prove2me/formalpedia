@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentLoc_toL_mul_iotaP_a8c240395230
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentLoc_toL_mul_iotaP_a8c240395230
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:30:03.765377+00:00
 -- url     : https://prove2.me/theorems/c826ac38-685e-4175-a943-d2f69200bb72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistVertex_firstVertex_twist
 -- name    : GlobalTheory.TwistVertex.firstVertex_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:11:15.163063+00:00
 -- url     : https://prove2.me/theorems/128fa515-81ce-472f-bf36-eefe92587ab1

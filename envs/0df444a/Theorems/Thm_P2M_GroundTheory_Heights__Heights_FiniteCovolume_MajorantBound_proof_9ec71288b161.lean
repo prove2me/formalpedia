@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantBound_proof_9ec71288b161
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_MajorantBound_proof_9ec71288b161
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:58:22.169706+00:00
 -- url     : https://prove2.me/theorems/71268e79-438d-4dbc-9ebd-d68ae7e0cf67

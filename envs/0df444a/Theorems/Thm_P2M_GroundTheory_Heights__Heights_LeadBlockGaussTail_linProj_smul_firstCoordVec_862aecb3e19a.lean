@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_linProj_smul_firstCoordVec_862aecb3e19a
 -- name    : P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_linProj_smul_firstCoordVec_862aecb3e19a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:41.806887+00:00
 -- url     : https://prove2.me/theorems/eccd2db6-5e96-4215-9595-f3f58dbb8643

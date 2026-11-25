@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_MinpolyHeightCount_exists_ncard_mulHeight__le_8108ec29db74
 -- name    : P2M_GlobalTheory_MinpolyHeightCount_exists_ncard_mulHeight__le_8108ec29db74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:07:14.177793+00:00
 -- url     : https://prove2.me/theorems/b93f4829-1578-42e4-a7d8-dafa3b7443b8

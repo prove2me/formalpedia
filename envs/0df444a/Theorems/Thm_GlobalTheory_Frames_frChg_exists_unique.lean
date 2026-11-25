@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Frames_frChg_exists_unique
 -- name    : GlobalTheory.Frames.frChg_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:46:25.658053+00:00
 -- url     : https://prove2.me/theorems/16b8c51b-a3aa-4c2f-a74c-824c33acec8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_CechDSq_sgn_mul_sgn_of_lt_ec68d02ba4cc
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_CechDSq_sgn_mul_sgn_of_lt_ec68d02ba4cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:31:17.187517+00:00
 -- url     : https://prove2.me/theorems/ad8712d6-f21b-4396-9d0d-8bfa1197854e

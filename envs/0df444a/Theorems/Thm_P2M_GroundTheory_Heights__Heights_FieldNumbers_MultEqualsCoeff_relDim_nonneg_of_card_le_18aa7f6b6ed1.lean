@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MultEqualsCoeff_relDim_nonneg_of_card_le_18aa7f6b6ed1
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MultEqualsCoeff_relDim_nonneg_of_card_le_18aa7f6b6ed1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:37.99091+00:00
 -- url     : https://prove2.me/theorems/b690f4b5-d76c-54a4-9c98-f91ba898b3f7

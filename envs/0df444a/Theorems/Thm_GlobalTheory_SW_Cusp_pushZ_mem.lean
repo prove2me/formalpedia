@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Cusp_pushZ_mem
 -- name    : GlobalTheory.SW.Cusp.pushZ_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:51:17.614738+00:00
 -- url     : https://prove2.me/theorems/a505f60e-d4b7-5cd4-83d7-5f2c55f9afa5

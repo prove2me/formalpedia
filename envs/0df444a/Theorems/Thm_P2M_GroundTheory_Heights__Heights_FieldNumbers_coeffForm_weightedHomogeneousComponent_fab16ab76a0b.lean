@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_coeffForm_weightedHomogeneousComponent_fab16ab76a0b
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_coeffForm_weightedHomogeneousComponent_fab16ab76a0b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:06.273487+00:00
 -- url     : https://prove2.me/theorems/65321684-8d86-47ee-9405-c7b12b40150a

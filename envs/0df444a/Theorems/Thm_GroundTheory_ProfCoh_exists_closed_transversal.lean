@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_closed_transversal
 -- name    : GroundTheory.ProfCoh.exists_closed_transversal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:49:42.457235+00:00
 -- url     : https://prove2.me/theorems/8000b964-92b7-44fa-a5cc-4e807aee0d6c

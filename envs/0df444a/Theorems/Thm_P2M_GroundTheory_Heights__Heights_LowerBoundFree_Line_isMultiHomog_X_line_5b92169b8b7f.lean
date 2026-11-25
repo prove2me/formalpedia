@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_isMultiHomog_X_line_5b92169b8b7f
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_isMultiHomog_X_line_5b92169b8b7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:37:27.430807+00:00
 -- url     : https://prove2.me/theorems/13e9fcfb-994a-50f1-83c5-1fdce67132ca

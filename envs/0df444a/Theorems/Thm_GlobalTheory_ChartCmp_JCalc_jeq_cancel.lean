@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_JCalc_jeq_cancel
 -- name    : GlobalTheory.ChartCmp.JCalc.jeq_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:28:09.964193+00:00
 -- url     : https://prove2.me/theorems/eadf52cf-2fe2-571f-89c7-69fc01350da3

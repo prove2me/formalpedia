@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_integrable_wK
 -- name    : GroundTheory.Automorphic.Sobolev.integrable_wK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:13:12.553545+00:00
 -- url     : https://prove2.me/theorems/e0e86c2f-b54c-51c8-bcc1-b93b065fd0d0

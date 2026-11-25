@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_isIndecomposableModule_of_forall_isIdempotentElem
 -- name    : PretorsionImageClosed.isIndecomposableModule_of_forall_isIdempotentElem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:33:19.107927+00:00
 -- url     : https://prove2.me/theorems/28c45908-12b9-48cf-a68d-dfb36e80af70

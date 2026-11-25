@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Ux10_phi_bound_parts_of_radical_and_slice
 -- name    : Formalism.FourierDecayAlt.P.Ux10.phi_bound_parts_of_radical_and_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:24:50.615638+00:00
 -- url     : https://prove2.me/theorems/8ce982c3-e7d2-409f-aca1-0b532e9fc2e2

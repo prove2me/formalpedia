@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_maDensity_fin_zero_654c67a7d74a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_maDensity_fin_zero_654c67a7d74a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:00.611952+00:00
 -- url     : https://prove2.me/theorems/f6187f27-98df-46bd-93f9-54610b1cb3da

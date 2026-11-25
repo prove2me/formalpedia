@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_fam_snoc_zpow_nat_a2c113a363b2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_fam_snoc_zpow_nat_a2c113a363b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:23:44.900228+00:00
 -- url     : https://prove2.me/theorems/6f8d3b3c-f3c8-435a-be1f-430569b274a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_eval_smul_of_isHomogeneous_a2658f884797
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_eval_smul_of_isHomogeneous_a2658f884797
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:16:13.238877+00:00
 -- url     : https://prove2.me/theorems/aed9dd7c-1df2-4485-9334-e14c79a7f74c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_OpenNormalSubgroup_hasBasis_nhds_one_pi
 -- name    : GroundTheory.ProfCoh.OpenNormalSubgroup.hasBasis_nhds_one_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:48:01.976806+00:00
 -- url     : https://prove2.me/theorems/6078eeab-c1af-4743-957b-4bee81b1ab72

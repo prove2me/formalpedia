@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesStdIndexDet_span_toAddSubgroup_eq_closure_4928e3faf5ca
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesStdIndexDet_span_toAddSubgroup_eq_closure_4928e3faf5ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:01.265992+00:00
 -- url     : https://prove2.me/theorems/6f3cc32b-0262-412b-b8b3-20615b077fd1

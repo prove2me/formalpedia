@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellHeight_of_mem_doubleCoset
 -- name    : GroundTheory.Automorphic.Parabolic.cellHeight_of_mem_doubleCoset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:43:42.381062+00:00
 -- url     : https://prove2.me/theorems/d06c430b-e5d8-44de-b443-ca781ab95714

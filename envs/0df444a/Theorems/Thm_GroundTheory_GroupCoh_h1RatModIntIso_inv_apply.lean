@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_h1RatModIntIso_inv_apply
 -- name    : GroundTheory.GroupCoh.h1RatModIntIso_inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:52.767145+00:00
 -- url     : https://prove2.me/theorems/8f3978b8-8721-5c48-938a-e99e01199959

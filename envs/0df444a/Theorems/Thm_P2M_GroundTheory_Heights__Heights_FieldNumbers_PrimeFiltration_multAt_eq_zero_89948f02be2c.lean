@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_multAt_eq_zero_89948f02be2c
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_multAt_eq_zero_89948f02be2c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:13.972285+00:00
 -- url     : https://prove2.me/theorems/220bb90c-7d9b-5d50-a857-4e5ce40921c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_cosetSurj_of_leviExists
 -- name    : GlobalTheory.InertZeta.cosetSurj_of_leviExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:19:41.744087+00:00
 -- url     : https://prove2.me/theorems/fe83a98c-1a43-4953-a426-f5dc09782f7d

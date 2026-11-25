@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_linSub_C
 -- name    : Formalism.L2.Th1.G.linSub_C
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:44:03.669168+00:00
 -- url     : https://prove2.me/theorems/ab04e182-99d0-4606-8982-d00baa5a7a99

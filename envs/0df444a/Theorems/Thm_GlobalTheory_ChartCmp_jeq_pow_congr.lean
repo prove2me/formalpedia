@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_jeq_pow_congr
 -- name    : GlobalTheory.ChartCmp.jeq_pow_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:00:10.277424+00:00
 -- url     : https://prove2.me/theorems/2edcfb23-488e-4ef0-82d6-d900c5892a4f

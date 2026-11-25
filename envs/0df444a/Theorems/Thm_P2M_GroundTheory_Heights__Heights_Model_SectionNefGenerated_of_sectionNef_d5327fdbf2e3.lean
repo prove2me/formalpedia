@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SectionNefGenerated_of_sectionNef_d5327fdbf2e3
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SectionNefGenerated_of_sectionNef_d5327fdbf2e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:18.848528+00:00
 -- url     : https://prove2.me/theorems/3bfe1be8-5fc8-488b-8259-d8f570b1f1a4

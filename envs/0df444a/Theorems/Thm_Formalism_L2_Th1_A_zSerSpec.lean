@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_zSerSpec
 -- name    : Formalism.L2.Th1.A.zSerSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:55:56.019691+00:00
 -- url     : https://prove2.me/theorems/34e7fda3-cecd-4bc7-85dd-d9f4b123c6d4

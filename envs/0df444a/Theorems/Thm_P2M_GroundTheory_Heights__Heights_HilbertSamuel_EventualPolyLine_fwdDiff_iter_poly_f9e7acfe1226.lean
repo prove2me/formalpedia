@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolyLine_fwdDiff_iter_poly_f9e7acfe1226
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolyLine_fwdDiff_iter_poly_f9e7acfe1226
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:21:06.571168+00:00
 -- url     : https://prove2.me/theorems/00779dd9-bfa0-5b0b-8421-9b238487db89

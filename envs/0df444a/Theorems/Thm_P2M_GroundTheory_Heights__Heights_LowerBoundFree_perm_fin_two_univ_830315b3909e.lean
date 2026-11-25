@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_perm_fin_two_univ_830315b3909e
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_perm_fin_two_univ_830315b3909e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:27:56.408547+00:00
 -- url     : https://prove2.me/theorems/d9defe95-0549-5883-9f74-5799b17616e0

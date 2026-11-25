@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_mCoordIdeal_latticeCoord_f0c94eca4f56
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_mCoordIdeal_latticeCoord_f0c94eca4f56
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:37:37.750617+00:00
 -- url     : https://prove2.me/theorems/b86ee854-ab20-592f-bf10-e2af5bc4b05d

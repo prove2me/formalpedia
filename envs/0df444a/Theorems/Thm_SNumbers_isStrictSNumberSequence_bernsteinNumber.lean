@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isStrictSNumberSequence_bernsteinNumber
 -- name    : SNumbers.isStrictSNumberSequence_bernsteinNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:33:15.615564+00:00
 -- url     : https://prove2.me/theorems/0b7764b0-9e07-483d-9dd3-2822e533befe

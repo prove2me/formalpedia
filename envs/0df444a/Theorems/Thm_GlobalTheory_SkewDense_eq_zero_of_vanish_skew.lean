@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SkewDense_eq_zero_of_vanish_skew
 -- name    : GlobalTheory.SkewDense.eq_zero_of_vanish_skew
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:52:13.812888+00:00
 -- url     : https://prove2.me/theorems/b4bd7ce4-562d-4623-a04c-e05d470d935e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_homog_sub_e0c49124b765
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_PluckerAffineCover_homog_sub_e0c49124b765
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:15.467264+00:00
 -- url     : https://prove2.me/theorems/eecfb4cf-b34a-4026-9be2-af74ab81b6d3

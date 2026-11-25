@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_RationalSymbol_cycCharacter_cycRestrict
 -- name    : GroundTheory.Global.RationalSymbol.cycCharacter_cycRestrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:17.077908+00:00
 -- url     : https://prove2.me/theorems/1378f0d9-d489-520f-94fb-7fba6dff6c62

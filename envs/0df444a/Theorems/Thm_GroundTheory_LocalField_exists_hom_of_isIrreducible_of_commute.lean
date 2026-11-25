@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_hom_of_isIrreducible_of_commute
 -- name    : GroundTheory.LocalField.exists_hom_of_isIrreducible_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:30:53.946085+00:00
 -- url     : https://prove2.me/theorems/13d75624-b8d5-46a2-bebf-51efee274f60

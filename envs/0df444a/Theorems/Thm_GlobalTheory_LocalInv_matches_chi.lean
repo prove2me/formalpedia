@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_matches_chi
 -- name    : GlobalTheory.LocalInv.matches_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:24:04.952815+00:00
 -- url     : https://prove2.me/theorems/e5fcf217-d5f4-49dc-ab72-677a4f384969

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialFrame_homogeneousComponent_totalDegree_ne_zero_8d37d44c0148
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialFrame_homogeneousComponent_totalDegree_ne_zero_8d37d44c0148
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:00.639712+00:00
 -- url     : https://prove2.me/theorems/b30bc36f-df7f-4b81-8827-47ba04761fb1

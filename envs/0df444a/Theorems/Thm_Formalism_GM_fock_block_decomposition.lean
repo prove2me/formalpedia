@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_fock_block_decomposition
 -- name    : Formalism.GM.fock_block_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:42:45.796193+00:00
 -- url     : https://prove2.me/theorems/7db53cad-6f40-40d8-a1a1-9e5add5b0a3d

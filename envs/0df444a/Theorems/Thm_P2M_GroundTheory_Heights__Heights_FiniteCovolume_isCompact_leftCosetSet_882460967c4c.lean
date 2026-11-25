@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_isCompact_leftCosetSet_882460967c4c
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_isCompact_leftCosetSet_882460967c4c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:52.782873+00:00
 -- url     : https://prove2.me/theorems/9092fa42-d168-4ebe-97f0-3c7569491553

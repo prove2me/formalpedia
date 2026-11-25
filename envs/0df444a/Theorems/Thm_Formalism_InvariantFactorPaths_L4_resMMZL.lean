@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_resMMZL
 -- name    : Formalism.InvariantFactorPaths.L4.resMMZL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:09:09.516688+00:00
 -- url     : https://prove2.me/theorems/2858fdcd-a605-5515-a0cb-7d01447c50ac

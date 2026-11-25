@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_LengthSumLocalizations_isSimpleModule_quot_maximalIdeal_1dd42758d047
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_LengthSumLocalizations_isSimpleModule_quot_maximalIdeal_1dd42758d047
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:52.823204+00:00
 -- url     : https://prove2.me/theorems/ee82414f-4227-465c-9b5c-b0013b5ea040

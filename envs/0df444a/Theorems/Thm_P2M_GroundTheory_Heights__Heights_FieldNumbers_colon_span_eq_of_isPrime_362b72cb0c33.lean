@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_colon_span_eq_of_isPrime_362b72cb0c33
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_colon_span_eq_of_isPrime_362b72cb0c33
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:24.912697+00:00
 -- url     : https://prove2.me/theorems/01c4d8f0-b384-4877-bf19-922245ba1799

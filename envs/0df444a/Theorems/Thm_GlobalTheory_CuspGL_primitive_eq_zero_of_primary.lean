@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_primitive_eq_zero_of_primary
 -- name    : GlobalTheory.CuspGL.primitive_eq_zero_of_primary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:34:13.657694+00:00
 -- url     : https://prove2.me/theorems/8b063711-2388-43a1-83fe-7d595f95568e

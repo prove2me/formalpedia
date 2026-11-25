@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertiaEigenvalues_isActC_galActC
 -- name    : GlobalTheory.InertiaEigenvalues.isActC_galActC
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:08:31.22788+00:00
 -- url     : https://prove2.me/theorems/1e9bc8df-97b4-4b39-8fd8-c3185cd19659

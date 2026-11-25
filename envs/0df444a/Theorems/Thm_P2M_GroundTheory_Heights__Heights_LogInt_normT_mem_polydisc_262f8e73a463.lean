@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_normT_mem_polydisc_262f8e73a463
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_normT_mem_polydisc_262f8e73a463
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:28:05.363182+00:00
 -- url     : https://prove2.me/theorems/ea183872-5cf1-4a2b-a28a-c61df5ca6651

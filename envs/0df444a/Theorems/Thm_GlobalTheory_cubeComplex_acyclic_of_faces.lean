@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cubeComplex_acyclic_of_faces
 -- name    : GlobalTheory.cubeComplex_acyclic_of_faces
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:14:32.524197+00:00
 -- url     : https://prove2.me/theorems/3e866dd9-760e-49c4-a3d9-224f8316130e

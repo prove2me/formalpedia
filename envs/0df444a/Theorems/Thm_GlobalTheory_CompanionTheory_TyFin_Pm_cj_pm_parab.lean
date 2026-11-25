@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Pm_cj_pm_parab
 -- name    : GlobalTheory.CompanionTheory.TyFin.Pm.cj_pm_parab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:18:51.528948+00:00
 -- url     : https://prove2.me/theorems/7e30f833-1556-4bcd-b337-9ff95d944aab

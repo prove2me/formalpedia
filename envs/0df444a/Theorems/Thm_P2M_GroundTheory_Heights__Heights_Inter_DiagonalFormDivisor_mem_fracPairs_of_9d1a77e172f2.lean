@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_mem_fracPairs_of_9d1a77e172f2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_mem_fracPairs_of_9d1a77e172f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:25:01.951402+00:00
 -- url     : https://prove2.me/theorems/acd97948-27cd-4443-acfd-fe3d69d21de1

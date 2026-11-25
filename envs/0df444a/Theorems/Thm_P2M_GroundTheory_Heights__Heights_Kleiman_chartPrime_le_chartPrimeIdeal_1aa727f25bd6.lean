@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_chartPrime_le_chartPrimeIdeal_1aa727f25bd6
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_chartPrime_le_chartPrimeIdeal_1aa727f25bd6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:54.134545+00:00
 -- url     : https://prove2.me/theorems/5245f027-1ffd-44cb-b89b-c29c29ad6989

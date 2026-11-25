@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_matrix_adjoint_action_holds
 -- name    : Formalism.HermitianLatticeCounting.P.matrix_adjoint_action_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:31:51.930524+00:00
 -- url     : https://prove2.me/theorems/f1c3aa71-c840-5355-a4f8-bd63f0f0d9c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_isHeat_thH
 -- name    : GlobalTheory.SW.isHeat_thH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:45:50.337878+00:00
 -- url     : https://prove2.me/theorems/3cba56f8-cb6d-48fd-a5b9-1599df835468

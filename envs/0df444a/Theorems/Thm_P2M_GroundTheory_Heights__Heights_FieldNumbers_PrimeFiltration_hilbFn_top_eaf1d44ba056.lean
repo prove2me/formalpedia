@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_hilbFn_top_eaf1d44ba056
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_hilbFn_top_eaf1d44ba056
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:01.898239+00:00
 -- url     : https://prove2.me/theorems/7543383c-3c8a-51b9-8a67-6c6f0bd9b3ac

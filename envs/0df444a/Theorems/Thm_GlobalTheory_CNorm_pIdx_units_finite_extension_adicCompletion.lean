@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CNorm_pIdx_units_finite_extension_adicCompletion
 -- name    : GlobalTheory.CNorm.pIdx_units_finite_extension_adicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T13:29:12.317812+00:00
 -- url     : https://prove2.me/theorems/ec78bd03-b01d-45d5-87e0-b3e0975036c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_MC_partnerMX_of_parts
 -- name    : Formalism.InvariantFactorPaths.MC.partnerMX_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:14:34.509854+00:00
 -- url     : https://prove2.me/theorems/218aed53-7603-5ffc-9016-a8eab6569a35

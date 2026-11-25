@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiltrationHilbSum_comp_mem_span_ab747a8f951f
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiltrationHilbSum_comp_mem_span_ab747a8f951f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:21:58.614173+00:00
 -- url     : https://prove2.me/theorems/1accda7e-841c-558a-99a8-c6c36daf0b8c

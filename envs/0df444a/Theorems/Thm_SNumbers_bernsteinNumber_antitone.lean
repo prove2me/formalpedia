@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_antitone
 -- name    : SNumbers.bernsteinNumber_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:33:32.478778+00:00
 -- url     : https://prove2.me/theorems/33df1ebe-21e1-474b-acdb-1a1e9b0160c6

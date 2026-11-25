@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesIdealIndexPos_fg_and_span_c3c03cd61257
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesIdealIndexPos_fg_and_span_c3c03cd61257
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:27:02.700297+00:00
 -- url     : https://prove2.me/theorems/c1f268b1-39de-44ba-b09f-e2bcb14e0def

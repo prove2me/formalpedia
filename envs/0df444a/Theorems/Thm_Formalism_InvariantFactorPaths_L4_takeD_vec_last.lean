@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_takeD_vec_last
 -- name    : Formalism.InvariantFactorPaths.L4.takeD_vec_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:10:09.256095+00:00
 -- url     : https://prove2.me/theorems/b5c9a65c-6dc6-4614-a9c6-46738d077e81

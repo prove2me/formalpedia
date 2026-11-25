@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_cast_multAt_e7f6e9977867
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_cast_multAt_e7f6e9977867
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:30:41.492462+00:00
 -- url     : https://prove2.me/theorems/83944395-cef0-4046-870d-b27f3717f766

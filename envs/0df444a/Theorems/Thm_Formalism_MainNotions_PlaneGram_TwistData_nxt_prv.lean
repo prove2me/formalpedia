@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_nxt_prv
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.nxt_prv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:48:41.337956+00:00
 -- url     : https://prove2.me/theorems/59337467-6fcb-48ac-b193-ecd96d0f67a7

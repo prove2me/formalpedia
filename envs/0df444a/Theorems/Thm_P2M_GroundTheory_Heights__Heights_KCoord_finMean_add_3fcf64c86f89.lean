@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KCoord_finMean_add_3fcf64c86f89
 -- name    : P2M_GroundTheory_Heights__Heights_KCoord_finMean_add_3fcf64c86f89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:07.326273+00:00
 -- url     : https://prove2.me/theorems/34cd4205-3f6c-4321-a655-2c4cae09e750

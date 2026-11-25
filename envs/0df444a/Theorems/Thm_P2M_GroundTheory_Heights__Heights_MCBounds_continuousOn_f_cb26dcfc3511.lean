@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_continuousOn_f_cb26dcfc3511
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_continuousOn_f_cb26dcfc3511
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:55.438333+00:00
 -- url     : https://prove2.me/theorems/9831ec41-8ded-4c2c-901e-2b20aab87bdf

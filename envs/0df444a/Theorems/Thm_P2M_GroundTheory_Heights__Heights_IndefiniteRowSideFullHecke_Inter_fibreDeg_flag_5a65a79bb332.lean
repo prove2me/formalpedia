@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_fibreDeg_flag_5a65a79bb332
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_fibreDeg_flag_5a65a79bb332
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:23:43.340478+00:00
 -- url     : https://prove2.me/theorems/654c55ff-ed57-5dd4-b077-b6a8f4dbdb11

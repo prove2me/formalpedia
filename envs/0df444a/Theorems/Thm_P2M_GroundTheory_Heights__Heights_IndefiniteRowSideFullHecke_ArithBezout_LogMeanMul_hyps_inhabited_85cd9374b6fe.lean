@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_LogMeanMul_hyps_inhabited_85cd9374b6fe
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_LogMeanMul_hyps_inhabited_85cd9374b6fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:25:05.906262+00:00
 -- url     : https://prove2.me/theorems/6dc0aebc-ce04-59a0-b9ba-2a1b3734eb7b

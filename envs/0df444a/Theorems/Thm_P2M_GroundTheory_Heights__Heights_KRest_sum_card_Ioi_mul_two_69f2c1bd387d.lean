@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KRest_sum_card_Ioi_mul_two_69f2c1bd387d
 -- name    : P2M_GroundTheory_Heights__Heights_KRest_sum_card_Ioi_mul_two_69f2c1bd387d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:44.093671+00:00
 -- url     : https://prove2.me/theorems/a84171a1-72e7-4e2f-9b88-37882f577d66

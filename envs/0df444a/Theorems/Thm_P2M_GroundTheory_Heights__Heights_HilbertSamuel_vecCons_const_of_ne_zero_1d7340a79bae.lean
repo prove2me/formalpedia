@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_vecCons_const_of_ne_zero_1d7340a79bae
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_vecCons_const_of_ne_zero_1d7340a79bae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:23:41.018192+00:00
 -- url     : https://prove2.me/theorems/89d71c10-7f0b-5fe3-879a-2e6a0ef90015

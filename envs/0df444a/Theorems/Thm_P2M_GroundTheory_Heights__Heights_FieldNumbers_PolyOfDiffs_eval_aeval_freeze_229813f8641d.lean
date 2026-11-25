@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PolyOfDiffs_eval_aeval_freeze_229813f8641d
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PolyOfDiffs_eval_aeval_freeze_229813f8641d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:17.524226+00:00
 -- url     : https://prove2.me/theorems/adda9944-b826-4c57-9257-6fc9d13649e0

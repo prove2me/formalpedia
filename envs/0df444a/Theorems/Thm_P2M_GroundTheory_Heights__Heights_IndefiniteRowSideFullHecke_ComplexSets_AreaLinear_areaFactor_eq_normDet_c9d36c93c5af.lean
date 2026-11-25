@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_AreaLinear_areaFactor_eq_normDet_c9d36c93c5af
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_AreaLinear_areaFactor_eq_normDet_c9d36c93c5af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:20:04.809222+00:00
 -- url     : https://prove2.me/theorems/9a179d2f-b00f-4246-85e1-294314a444d1

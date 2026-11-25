@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isArithVar_specZ_eeb304758483
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isArithVar_specZ_eeb304758483
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:07.918803+00:00
 -- url     : https://prove2.me/theorems/2e0ffad5-df7e-452a-8786-4b29a36d7524

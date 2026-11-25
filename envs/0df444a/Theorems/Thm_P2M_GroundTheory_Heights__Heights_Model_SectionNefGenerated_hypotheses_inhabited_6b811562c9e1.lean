@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SectionNefGenerated_hypotheses_inhabited_6b811562c9e1
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SectionNefGenerated_hypotheses_inhabited_6b811562c9e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:19.293134+00:00
 -- url     : https://prove2.me/theorems/c4688cab-8020-4c3f-bb6b-ca6fed49b01b

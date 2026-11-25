@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_sub_le_max
 -- name    : GroundTheory.PAdicHodge.nrm_sub_le_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:23.13738+00:00
 -- url     : https://prove2.me/theorems/87c997a9-4bd8-4a97-9794-7f0902f66842

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regRing_exists_coe_9e66cd078dd3
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regRing_exists_coe_9e66cd078dd3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:34:53.550518+00:00
 -- url     : https://prove2.me/theorems/47b3ca3a-a52e-534f-aef8-5c580a68030a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_localizedModule_map_coe_667f891edde9
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_localizedModule_map_coe_667f891edde9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:22:17.061481+00:00
 -- url     : https://prove2.me/theorems/f99954e2-4e02-4f04-8a9c-53660f57abc6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesStdPi_eq_sum_smul_single_4110bfe45e19
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesStdPi_eq_sum_smul_single_4110bfe45e19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:45.674947+00:00
 -- url     : https://prove2.me/theorems/4e3a1bca-c8eb-4194-aaa2-1470f6a86389

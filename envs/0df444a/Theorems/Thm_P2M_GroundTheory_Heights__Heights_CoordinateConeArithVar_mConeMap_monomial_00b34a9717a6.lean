@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_mConeMap_monomial_00b34a9717a6
 -- name    : P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_mConeMap_monomial_00b34a9717a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:32.223476+00:00
 -- url     : https://prove2.me/theorems/6efbf181-8ea9-49bd-8817-87779213c04d

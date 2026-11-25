@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_isHomogeneous_of_isMultiHomogIdeal_b4975a788844
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_isHomogeneous_of_isMultiHomogIdeal_b4975a788844
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:31.166925+00:00
 -- url     : https://prove2.me/theorems/adfc395d-f14d-4ba9-89c4-eedc8ea8593f

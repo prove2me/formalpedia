@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KThetaCharIntegral_integral_Icc_exp_b28c0fec4769
 -- name    : P2M_GroundTheory_Heights__Heights_KThetaCharIntegral_integral_Icc_exp_b28c0fec4769
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:21.243242+00:00
 -- url     : https://prove2.me/theorems/da711c16-ec37-5e9c-927f-599858ba58d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualCokernelFlat_mem_sup_of_exact_fibres
 -- name    : GlobalTheory.DualCokernelFlat.mem_sup_of_exact_fibres
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:19:15.848943+00:00
 -- url     : https://prove2.me/theorems/234a39d9-a109-48b4-8258-82a5121ec531

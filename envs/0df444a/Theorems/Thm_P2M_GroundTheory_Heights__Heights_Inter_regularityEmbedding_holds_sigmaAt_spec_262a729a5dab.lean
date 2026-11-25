@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityEmbedding_holds_sigmaAt_spec_262a729a5dab
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityEmbedding_holds_sigmaAt_spec_262a729a5dab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:02.339991+00:00
 -- url     : https://prove2.me/theorems/e5f2154c-2006-4256-ada2-443ba6e252a9

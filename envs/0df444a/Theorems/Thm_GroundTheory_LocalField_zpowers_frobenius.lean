@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_zpowers_frobenius
 -- name    : GroundTheory.LocalField.zpowers_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:42.223107+00:00
 -- url     : https://prove2.me/theorems/ed58b4eb-dcbf-4f0a-a000-7d3bb6af130d

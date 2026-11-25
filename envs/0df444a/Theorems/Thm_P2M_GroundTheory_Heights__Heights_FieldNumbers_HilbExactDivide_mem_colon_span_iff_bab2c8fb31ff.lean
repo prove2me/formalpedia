@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbExactDivide_mem_colon_span_iff_bab2c8fb31ff
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbExactDivide_mem_colon_span_iff_bab2c8fb31ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:21.539373+00:00
 -- url     : https://prove2.me/theorems/1f652cf2-1b13-5c9d-8430-21646205e6a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_agree_on_adjoin_74205cd88afe
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_agree_on_adjoin_74205cd88afe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:52.576421+00:00
 -- url     : https://prove2.me/theorems/3a2d4ca4-66ac-47e8-bde3-19d596192c24

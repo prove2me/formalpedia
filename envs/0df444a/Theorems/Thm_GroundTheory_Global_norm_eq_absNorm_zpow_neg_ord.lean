@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_norm_eq_absNorm_zpow_neg_ord
 -- name    : GroundTheory.Global.norm_eq_absNorm_zpow_neg_ord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:41:58.181231+00:00
 -- url     : https://prove2.me/theorems/434d092f-fe6e-4cc1-a7d2-90f1f410ea9c

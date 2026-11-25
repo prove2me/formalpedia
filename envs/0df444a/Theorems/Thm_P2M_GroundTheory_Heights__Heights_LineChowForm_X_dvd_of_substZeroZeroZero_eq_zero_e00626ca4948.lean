@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LineChowForm_X_dvd_of_substZeroZeroZero_eq_zero_e00626ca4948
 -- name    : P2M_GroundTheory_Heights__Heights_LineChowForm_X_dvd_of_substZeroZeroZero_eq_zero_e00626ca4948
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:27.529818+00:00
 -- url     : https://prove2.me/theorems/8d90f45d-16ac-5407-ad4a-92f5b727788c

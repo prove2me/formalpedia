@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KShort_cube_eq_a38c3022fb97
 -- name    : P2M_GroundTheory_Heights__Heights_KShort_cube_eq_a38c3022fb97
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:53.860532+00:00
 -- url     : https://prove2.me/theorems/4ca3e9bf-aed8-571e-bd7e-60add100ec69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_PolynomialProperness_ut_det
 -- name    : PI.PolynomialProperness.ut_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:54.882245+00:00
 -- url     : https://prove2.me/theorems/3c70a03e-f31e-4aaa-8a84-a209343586f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_eval_scale_of_isWeightedHomogeneous_eec11ba8ff5b
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_eval_scale_of_isWeightedHomogeneous_eec11ba8ff5b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:02.254711+00:00
 -- url     : https://prove2.me/theorems/2fbf016e-d5b3-444f-aec9-d85e33caff00

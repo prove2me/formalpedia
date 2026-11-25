@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualGeometricDegreePositive_isGoodProj_9122b7c98d31
 -- name    : P2M_GroundTheory_Heights__Heights_DualGeometricDegreePositive_isGoodProj_9122b7c98d31
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:15.721293+00:00
 -- url     : https://prove2.me/theorems/dae448e2-2e56-4783-84e1-2bc488a97e0c

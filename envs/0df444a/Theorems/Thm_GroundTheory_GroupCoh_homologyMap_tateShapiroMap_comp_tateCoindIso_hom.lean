@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_homologyMap_tateShapiroMap_comp_tateCoindIso_hom
 -- name    : GroundTheory.GroupCoh.homologyMap_tateShapiroMap_comp_tateCoindIso_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:09.586961+00:00
 -- url     : https://prove2.me/theorems/2450656a-da53-56ad-812c-b5f5ab03975e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbEventuallyPoly_cast_single_504a09db5994
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbEventuallyPoly_cast_single_504a09db5994
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:24.039913+00:00
 -- url     : https://prove2.me/theorems/469802ce-401a-42e5-b9ae-6c0d286f8cfc

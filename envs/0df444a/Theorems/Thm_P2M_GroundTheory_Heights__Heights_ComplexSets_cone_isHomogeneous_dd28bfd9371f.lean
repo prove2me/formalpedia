@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_cone_isHomogeneous_dd28bfd9371f
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_cone_isHomogeneous_dd28bfd9371f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:16:00.90853+00:00
 -- url     : https://prove2.me/theorems/313a293b-5675-58da-82c0-608dab5614dd

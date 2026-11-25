@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_isSNumberSequence_bernsteinNumber
 -- name    : SNumbers.isSNumberSequence_bernsteinNumber
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:17:28.064722+00:00
 -- url     : https://prove2.me/theorems/6df650c5-8d30-4afc-859c-b0f37895250b

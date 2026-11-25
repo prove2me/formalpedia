@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_CrossedProduct_isUnit_u
 -- name    : GroundTheory.Brauer.CrossedProduct.isUnit_u
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:55:17.688898+00:00
 -- url     : https://prove2.me/theorems/aa11f46a-e8a0-41d0-8727-ac04da8f8215

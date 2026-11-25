@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_LocalIndex_div_unif
 -- name    : GlobalTheory.Nef.LocalIndex.div_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:47:50.611593+00:00
 -- url     : https://prove2.me/theorems/bbaf0bc7-de1d-47e1-9aa7-f581b0b4a1bf

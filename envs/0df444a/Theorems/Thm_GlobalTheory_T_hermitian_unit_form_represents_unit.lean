@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_hermitian_unit_form_represents_unit
 -- name    : GlobalTheory.T.hermitian_unit_form_represents_unit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:48:43.408934+00:00
 -- url     : https://prove2.me/theorems/50647626-8530-4e4c-857f-d8bd14376166

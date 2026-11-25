@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMassCompact_hessC_eq_zero_of_eventuallyEq_589be8fe8118
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMassCompact_hessC_eq_zero_of_eventuallyEq_589be8fe8118
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:11.564997+00:00
 -- url     : https://prove2.me/theorems/15474dc4-27e7-41eb-b798-6b7c7a772538

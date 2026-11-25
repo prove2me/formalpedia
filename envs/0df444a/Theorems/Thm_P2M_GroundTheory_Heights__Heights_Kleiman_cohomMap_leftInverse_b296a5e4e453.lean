@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_cohomMap_leftInverse_b296a5e4e453
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_cohomMap_leftInverse_b296a5e4e453
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:29:37.188518+00:00
 -- url     : https://prove2.me/theorems/d3250f33-e4c6-4ea6-aadb-7d35895f45e9

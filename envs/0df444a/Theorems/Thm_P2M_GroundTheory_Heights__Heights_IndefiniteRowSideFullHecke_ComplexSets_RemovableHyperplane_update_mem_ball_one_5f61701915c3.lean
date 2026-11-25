@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RemovableHyperplane_update_mem_ball_one_5f61701915c3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RemovableHyperplane_update_mem_ball_one_5f61701915c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:37.253823+00:00
 -- url     : https://prove2.me/theorems/7aafde56-bbb6-4956-8bb9-4000bc459250

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_mem_map_of_coeffForm_538bf3f530b9
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_mem_map_of_coeffForm_538bf3f530b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:07.233727+00:00
 -- url     : https://prove2.me/theorems/212c4445-4d99-478e-81b7-57807dc3ace2

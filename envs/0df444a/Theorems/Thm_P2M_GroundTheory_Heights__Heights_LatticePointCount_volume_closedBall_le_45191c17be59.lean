@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticePointCount_volume_closedBall_le_45191c17be59
 -- name    : P2M_GroundTheory_Heights__Heights_LatticePointCount_volume_closedBall_le_45191c17be59
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:09.562273+00:00
 -- url     : https://prove2.me/theorems/919e9c7e-88b2-4e69-98f7-87711fa09d46

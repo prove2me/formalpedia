@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_congr_symm_tmul
 -- name    : Formalism.MainNotions.N.K.Norm.congr_symm_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:10:53.651409+00:00
 -- url     : https://prove2.me/theorems/ce86fb65-3699-462f-a025-a58b80b1d017

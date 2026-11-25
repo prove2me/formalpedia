@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_degLoc_locMap_mem_b2b662503dcb
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_degLoc_locMap_mem_b2b662503dcb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:29:50.372424+00:00
 -- url     : https://prove2.me/theorems/090edf7a-3cc7-4e69-b843-ebc428407af3

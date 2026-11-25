@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_isZariskiOpen_of_local_8b9b0416d030
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_isZariskiOpen_of_local_8b9b0416d030
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:16:14.532598+00:00
 -- url     : https://prove2.me/theorems/487f8726-2cae-4c3b-a4f8-1fc599888850

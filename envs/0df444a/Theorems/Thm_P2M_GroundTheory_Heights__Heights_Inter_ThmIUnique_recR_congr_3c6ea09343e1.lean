@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIUnique_recR_congr_3c6ea09343e1
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIUnique_recR_congr_3c6ea09343e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:30:43.53183+00:00
 -- url     : https://prove2.me/theorems/d8250341-bf95-547e-ab5c-b61c407d2ccd

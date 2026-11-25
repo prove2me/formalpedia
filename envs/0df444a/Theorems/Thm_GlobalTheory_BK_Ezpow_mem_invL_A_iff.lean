@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_Ezpow_mem_invL_A_iff
 -- name    : GlobalTheory.BK.Ezpow_mem_invL_A_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:06:06.57021+00:00
 -- url     : https://prove2.me/theorems/bec7fc0d-15ca-51f8-bfd6-b1518b69a88b

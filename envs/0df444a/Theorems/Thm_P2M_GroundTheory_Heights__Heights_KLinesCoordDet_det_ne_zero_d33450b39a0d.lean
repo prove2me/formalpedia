@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesCoordDet_det_ne_zero_d33450b39a0d
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesCoordDet_det_ne_zero_d33450b39a0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:25:58.847076+00:00
 -- url     : https://prove2.me/theorems/58ddbfcb-a3f8-4a70-abed-0b08fa1348d1

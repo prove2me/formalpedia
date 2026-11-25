@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_sum_tau
 -- name    : Formalism.LFunctionChainParameters.LChain2.sum_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:32:43.247433+00:00
 -- url     : https://prove2.me/theorems/a5377df1-767e-4ae8-a90f-2b3dbb3da86c

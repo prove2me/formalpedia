@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagFormDiv_mem_diag_of_quot_d965dd32f5f5
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagFormDiv_mem_diag_of_quot_d965dd32f5f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:05.804258+00:00
 -- url     : https://prove2.me/theorems/e5879b86-e271-431d-9039-442847955633

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_K_Norm_IsConjM_smul
 -- name    : Formalism.MainNotions.N.K.Norm.IsConjM.smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:09:18.088165+00:00
 -- url     : https://prove2.me/theorems/086cc6ae-c01b-50ef-b619-f46df182ffc5

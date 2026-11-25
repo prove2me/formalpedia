@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_eq_monomial_of_isMultiHomog_point_043f9fbc675f
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_eq_monomial_of_isMultiHomog_point_043f9fbc675f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:14.937627+00:00
 -- url     : https://prove2.me/theorems/aaf627ca-b329-4c10-9433-c51c8c42d010

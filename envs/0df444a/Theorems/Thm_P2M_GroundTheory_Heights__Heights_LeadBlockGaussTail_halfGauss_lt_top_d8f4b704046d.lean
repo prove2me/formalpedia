@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_halfGauss_lt_top_d8f4b704046d
 -- name    : P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_halfGauss_lt_top_d8f4b704046d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:26.867043+00:00
 -- url     : https://prove2.me/theorems/dd327c41-12a9-5151-8cc9-06663ce1f30b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FibreBound_exists_linear_injOn_5abfc7a649f0
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_FibreBound_exists_linear_injOn_5abfc7a649f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:12.335517+00:00
 -- url     : https://prove2.me/theorems/6a6c6ad7-b45e-461d-9043-7a997610f600

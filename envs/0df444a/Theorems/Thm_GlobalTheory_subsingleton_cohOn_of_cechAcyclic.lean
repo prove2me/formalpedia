@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_subsingleton_cohOn_of_cechAcyclic
 -- name    : GlobalTheory.subsingleton_cohOn_of_cechAcyclic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:26:22.565807+00:00
 -- url     : https://prove2.me/theorems/0be05142-fdd3-4e2e-8f19-310f2ba4693f

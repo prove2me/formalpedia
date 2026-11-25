@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_permSign_inv__c2e72e289cc8
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_permSign_inv__c2e72e289cc8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:48.033819+00:00
 -- url     : https://prove2.me/theorems/46fdfab3-fbc6-4e2c-b1f4-b1572d0238e3

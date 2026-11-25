@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothPointFamily_exists_holomorphic_family
 -- name    : GlobalTheory.SmoothPointFamily.exists_holomorphic_family
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:29:15.129817+00:00
 -- url     : https://prove2.me/theorems/7346d920-752f-4b2d-9da7-13c875659c63

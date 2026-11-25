@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesLineDegree_span_line_c2140cf00a12
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesLineDegree_span_line_c2140cf00a12
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:12.732805+00:00
 -- url     : https://prove2.me/theorems/1d45ee01-1bcf-4268-a672-bfb82f21b299

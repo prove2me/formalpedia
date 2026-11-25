@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_iCocycles_cocyclesMap__90e7f21ea7a9
 -- name    : P2M_GroundTheory_GroupCoh_iCocycles_cocyclesMap__90e7f21ea7a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:56.420583+00:00
 -- url     : https://prove2.me/theorems/e3935993-c3c2-4bc7-b0f7-6c0e52992d31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_coneProj_mem_orthoRows_4bca22bd21ba
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_coneProj_mem_orthoRows_4bca22bd21ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:48.769134+00:00
 -- url     : https://prove2.me/theorems/9f89b89b-ffd4-5076-ba2c-31f31fd2e71a

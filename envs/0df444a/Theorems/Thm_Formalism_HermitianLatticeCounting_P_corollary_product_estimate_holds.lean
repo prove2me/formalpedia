@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_corollary_product_estimate_holds
 -- name    : Formalism.HermitianLatticeCounting.P.corollary_product_estimate_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:12.956422+00:00
 -- url     : https://prove2.me/theorems/e54beb4b-6a4a-40ae-af89-9242dcc5e412

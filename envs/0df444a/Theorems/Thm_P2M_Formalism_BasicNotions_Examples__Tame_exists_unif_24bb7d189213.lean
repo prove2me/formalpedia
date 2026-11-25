@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__Tame_exists_unif_24bb7d189213
 -- name    : P2M_Formalism_BasicNotions_Examples__Tame_exists_unif_24bb7d189213
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:14:59.435181+00:00
 -- url     : https://prove2.me/theorems/d3e94ccd-0b4d-49ab-badb-70024ab48399

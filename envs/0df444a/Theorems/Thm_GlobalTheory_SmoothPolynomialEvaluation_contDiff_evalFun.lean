@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothPolynomialEvaluation_contDiff_evalFun
 -- name    : GlobalTheory.SmoothPolynomialEvaluation.contDiff_evalFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:52:25.424809+00:00
 -- url     : https://prove2.me/theorems/99df97bb-6fdc-4220-8f06-7978de49a00d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_More_map_derivative
 -- name    : Formalism.L2.Th1.A.More.map_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:07:00.165704+00:00
 -- url     : https://prove2.me/theorems/250d9896-c88a-408f-9de0-a2f00e1e7ea0

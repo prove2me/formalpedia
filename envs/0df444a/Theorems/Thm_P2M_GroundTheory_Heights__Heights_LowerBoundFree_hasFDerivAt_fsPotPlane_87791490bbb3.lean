@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_hasFDerivAt_fsPotPlane_87791490bbb3
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_hasFDerivAt_fsPotPlane_87791490bbb3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:29:01.534608+00:00
 -- url     : https://prove2.me/theorems/d29dec92-5489-4dba-99ce-8bde5048ab04

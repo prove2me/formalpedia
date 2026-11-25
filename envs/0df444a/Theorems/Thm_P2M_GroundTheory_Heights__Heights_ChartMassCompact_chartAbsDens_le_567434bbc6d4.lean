@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMassCompact_chartAbsDens_le_567434bbc6d4
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMassCompact_chartAbsDens_le_567434bbc6d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:46.136999+00:00
 -- url     : https://prove2.me/theorems/5b696696-dd07-5f45-9804-e9b27f7e8e1a

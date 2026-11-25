@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_ep_sq
 -- name    : Formalism.FourierDecayAlt.P.PBG.ep_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:04:16.489228+00:00
 -- url     : https://prove2.me/theorems/90c06da9-ac22-4a61-ba25-41bb89038a31

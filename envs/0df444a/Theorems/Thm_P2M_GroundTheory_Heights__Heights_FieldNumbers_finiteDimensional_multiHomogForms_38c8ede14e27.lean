@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_finiteDimensional_multiHomogForms_38c8ede14e27
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_finiteDimensional_multiHomogForms_38c8ede14e27
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:28.656259+00:00
 -- url     : https://prove2.me/theorems/597e2e7b-7069-4949-856e-9ae273140c4f

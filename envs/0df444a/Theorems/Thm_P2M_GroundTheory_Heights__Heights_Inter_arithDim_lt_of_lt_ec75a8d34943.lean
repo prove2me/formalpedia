@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_arithDim_lt_of_lt_ec75a8d34943
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_arithDim_lt_of_lt_ec75a8d34943
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:28:27.985573+00:00
 -- url     : https://prove2.me/theorems/7052d3b9-a1cf-4726-9181-f37eaa3ea648

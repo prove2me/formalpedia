@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_tendsto_primeIdealZetaSum_univ_div_neg_log
 -- name    : GroundTheory.Global.tendsto_primeIdealZetaSum_univ_div_neg_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:16:45.01795+00:00
 -- url     : https://prove2.me/theorems/dc6c48dc-c23d-4e50-a02e-ab84cdf49904

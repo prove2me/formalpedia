@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_tendsto_integral_psi_conv
 -- name    : Formalism.FourierDecayAlt.P.PBK.tendsto_integral_psi_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:21.719599+00:00
 -- url     : https://prove2.me/theorems/2166fb50-409e-4ba5-9566-16b41c8a8d85

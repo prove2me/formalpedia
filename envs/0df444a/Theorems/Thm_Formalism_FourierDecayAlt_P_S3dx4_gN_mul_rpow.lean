@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_gN_mul_rpow
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.gN_mul_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:12:39.112834+00:00
 -- url     : https://prove2.me/theorems/44ad4579-aa84-44db-b4f3-35989bf38092

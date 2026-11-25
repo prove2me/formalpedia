@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_trace_mem_adicCompletionIntegers
 -- name    : GroundTheory.Global.AdeleBaseChange.trace_mem_adicCompletionIntegers
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:14:47.554858+00:00
 -- url     : https://prove2.me/theorems/c697a318-e1f7-4fd1-90ea-bfdc6cb1cb28

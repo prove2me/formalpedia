@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_rootSet_mul_eq
 -- name    : Formalism.FourierDecayAlt.P.PBK.rootSet_mul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:53:12.92441+00:00
 -- url     : https://prove2.me/theorems/36644db1-b04b-469e-ac0f-c0eaf0f83d24

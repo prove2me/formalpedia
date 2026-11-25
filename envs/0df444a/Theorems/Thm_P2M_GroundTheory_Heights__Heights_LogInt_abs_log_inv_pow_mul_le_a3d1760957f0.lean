@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_abs_log_inv_pow_mul_le_a3d1760957f0
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_abs_log_inv_pow_mul_le_a3d1760957f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:43.728326+00:00
 -- url     : https://prove2.me/theorems/ad392226-dce0-4b03-917e-b7d934006b8d

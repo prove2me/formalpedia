@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesProjIndexLower_stdLattice_span_7d21086f80d2
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesProjIndexLower_stdLattice_span_7d21086f80d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:03.14617+00:00
 -- url     : https://prove2.me/theorems/6797b8ba-5aa3-5223-b31a-c5893b6881ef

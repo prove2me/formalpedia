@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_Split_biextension_formal_mul_mul
 -- name    : Formalism.L2.Th1.B.Split.biextension_formal_mul_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:56:08.321429+00:00
 -- url     : https://prove2.me/theorems/81fa58e8-ee65-53b0-8963-fe88f4ddf4ce

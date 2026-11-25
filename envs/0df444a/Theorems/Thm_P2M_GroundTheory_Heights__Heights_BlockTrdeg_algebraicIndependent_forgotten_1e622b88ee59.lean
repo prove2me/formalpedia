@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockTrdeg_algebraicIndependent_forgotten_1e622b88ee59
 -- name    : P2M_GroundTheory_Heights__Heights_BlockTrdeg_algebraicIndependent_forgotten_1e622b88ee59
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:16:24.675607+00:00
 -- url     : https://prove2.me/theorems/5786bd24-7a11-4a92-8ebe-92967829dea7

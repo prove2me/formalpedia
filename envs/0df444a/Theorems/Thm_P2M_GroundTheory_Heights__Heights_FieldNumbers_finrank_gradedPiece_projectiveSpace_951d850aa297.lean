@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_finrank_gradedPiece_projectiveSpace_951d850aa297
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_finrank_gradedPiece_projectiveSpace_951d850aa297
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:17.094587+00:00
 -- url     : https://prove2.me/theorems/5a6af7ff-cc2a-4805-b109-8248d512aa1e

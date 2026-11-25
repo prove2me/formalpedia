@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KCoord_diagInv_mem_ff8cc4ad4488
 -- name    : P2M_GroundTheory_Heights__Heights_KCoord_diagInv_mem_ff8cc4ad4488
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:25:01.095209+00:00
 -- url     : https://prove2.me/theorems/d4b4b307-4e3b-4ecf-a7d4-f9fd72419c6a

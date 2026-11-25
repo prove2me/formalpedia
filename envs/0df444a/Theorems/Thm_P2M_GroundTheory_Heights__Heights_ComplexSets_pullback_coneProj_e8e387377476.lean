@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_pullback_coneProj_e8e387377476
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_pullback_coneProj_e8e387377476
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:07.879778+00:00
 -- url     : https://prove2.me/theorems/185102e0-3145-463c-a042-dfcff2393d1c

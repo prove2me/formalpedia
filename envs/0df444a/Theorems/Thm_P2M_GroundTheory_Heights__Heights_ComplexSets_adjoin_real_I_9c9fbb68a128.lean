@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_adjoin_real_I_9c9fbb68a128
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_adjoin_real_I_9c9fbb68a128
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:50.725671+00:00
 -- url     : https://prove2.me/theorems/0327d216-5062-5dd9-a87c-a3b2f6b8b41b

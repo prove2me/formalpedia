@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_points_nonempty_iff_cc5ca15a244b
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_points_nonempty_iff_cc5ca15a244b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:31.337564+00:00
 -- url     : https://prove2.me/theorems/d026f8f1-ca06-4605-9221-89b0379d64e3

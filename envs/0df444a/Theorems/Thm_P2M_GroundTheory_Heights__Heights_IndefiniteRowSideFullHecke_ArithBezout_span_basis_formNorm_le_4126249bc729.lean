@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_span_basis_formNorm_le_4126249bc729
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_span_basis_formNorm_le_4126249bc729
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:19:38.481639+00:00
 -- url     : https://prove2.me/theorems/bb303c6c-0ef1-44fb-88d0-96b23f89e22d

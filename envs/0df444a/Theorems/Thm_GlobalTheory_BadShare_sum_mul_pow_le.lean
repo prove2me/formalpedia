@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_sum_mul_pow_le
 -- name    : GlobalTheory.BadShare.sum_mul_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:12:49.718504+00:00
 -- url     : https://prove2.me/theorems/f2408fd6-7c7d-5bd0-8000-b729f5babff9

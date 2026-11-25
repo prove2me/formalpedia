@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_diffStep_single_natCast_044387e002a6
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_diffStep_single_natCast_044387e002a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:24.395799+00:00
 -- url     : https://prove2.me/theorems/f2d5106e-9b56-5b21-a2cc-8af3af3ebde0

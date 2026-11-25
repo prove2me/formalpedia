@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_integral_sum_rootSet
 -- name    : Formalism.FourierDecayAlt.P.PBK.integral_sum_rootSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:20:33.473363+00:00
 -- url     : https://prove2.me/theorems/54999d61-9197-4669-9d04-27f0ecdce8df

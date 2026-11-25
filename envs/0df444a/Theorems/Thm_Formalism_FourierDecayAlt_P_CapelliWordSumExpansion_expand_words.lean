@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliWordSumExpansion_expand_words
 -- name    : Formalism.FourierDecayAlt.P.CapelliWordSumExpansion.expand_words
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:49:28.316013+00:00
 -- url     : https://prove2.me/theorems/b01bcf33-3d7d-4726-a765-a7135f7f55c3

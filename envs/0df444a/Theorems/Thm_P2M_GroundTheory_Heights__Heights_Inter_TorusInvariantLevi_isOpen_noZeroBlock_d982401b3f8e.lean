@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_isOpen_noZeroBlock_d982401b3f8e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_isOpen_noZeroBlock_d982401b3f8e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:22:54.777517+00:00
 -- url     : https://prove2.me/theorems/db8beb43-188b-4f2b-abf1-952b713c7af3

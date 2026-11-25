@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_multiConeMap_ww_comp_yyEmb_462137751444
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_multiConeMap_ww_comp_yyEmb_462137751444
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:24:46.56027+00:00
 -- url     : https://prove2.me/theorems/5081cf6d-18ca-41a1-a7f8-12b83143bd9e

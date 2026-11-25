@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_mem_range_algebraMap_of_surjective_pi
 -- name    : GroundTheory.Global.mem_range_algebraMap_of_surjective_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:22.023541+00:00
 -- url     : https://prove2.me/theorems/5b7e9ba6-2143-4a45-bdd2-32a6f89cf326

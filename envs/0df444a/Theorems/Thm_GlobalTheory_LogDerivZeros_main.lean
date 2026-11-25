@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LogDerivZeros_main
 -- name    : GlobalTheory.LogDerivZeros.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:00:19.434669+00:00
 -- url     : https://prove2.me/theorems/655999c5-cf60-4283-941b-4d7fa37f95a7

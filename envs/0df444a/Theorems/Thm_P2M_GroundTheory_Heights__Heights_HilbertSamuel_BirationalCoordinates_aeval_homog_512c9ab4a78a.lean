@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_BirationalCoordinates_aeval_homog_512c9ab4a78a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_BirationalCoordinates_aeval_homog_512c9ab4a78a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:44.261229+00:00
 -- url     : https://prove2.me/theorems/e1039bf1-9636-4e90-9892-247c8afd164f

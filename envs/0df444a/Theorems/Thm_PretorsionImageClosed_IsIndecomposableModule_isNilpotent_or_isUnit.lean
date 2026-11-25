@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IsIndecomposableModule_isNilpotent_or_isUnit
 -- name    : PretorsionImageClosed.IsIndecomposableModule.isNilpotent_or_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:34:18.086134+00:00
 -- url     : https://prove2.me/theorems/63cd4037-bfe3-44d0-8169-ab2ef16aa998

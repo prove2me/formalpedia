@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_finrank_integers_770829070650
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_finrank_integers_770829070650
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:50.805073+00:00
 -- url     : https://prove2.me/theorems/462d40af-4ecf-450a-992f-80b17a940445

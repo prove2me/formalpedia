@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_h2IntAddEquiv_symm_apply
 -- name    : GroundTheory.GroupCoh.h2IntAddEquiv_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:29.108243+00:00
 -- url     : https://prove2.me/theorems/345b7efa-569f-524a-aa6d-57be3bc2a4a7

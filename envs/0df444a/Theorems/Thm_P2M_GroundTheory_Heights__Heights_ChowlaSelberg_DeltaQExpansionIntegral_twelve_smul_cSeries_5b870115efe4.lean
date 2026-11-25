@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_DeltaQExpansionIntegral_twelve_smul_cSeries_5b870115efe4
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_DeltaQExpansionIntegral_twelve_smul_cSeries_5b870115efe4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:21.352707+00:00
 -- url     : https://prove2.me/theorems/0577d1d4-0d6e-4732-8e51-5e254d3c2db2

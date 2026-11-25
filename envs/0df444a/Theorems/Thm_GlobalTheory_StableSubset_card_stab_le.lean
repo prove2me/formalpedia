@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableSubset_card_stab_le
 -- name    : GlobalTheory.StableSubset.card_stab_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:52:19.710803+00:00
 -- url     : https://prove2.me/theorems/4f9e9ea6-d7ac-46b5-8e32-8aaa5b5d543e

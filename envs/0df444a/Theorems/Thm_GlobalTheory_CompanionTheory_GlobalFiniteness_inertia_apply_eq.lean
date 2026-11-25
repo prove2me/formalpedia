@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GlobalFiniteness_inertia_apply_eq
 -- name    : GlobalTheory.CompanionTheory.GlobalFiniteness.inertia_apply_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:09:02.44418+00:00
 -- url     : https://prove2.me/theorems/64c69d3f-fbc3-491e-85f2-88e4abca1649

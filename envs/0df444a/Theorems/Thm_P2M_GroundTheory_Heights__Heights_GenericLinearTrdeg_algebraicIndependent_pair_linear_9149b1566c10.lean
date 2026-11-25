@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericLinearTrdeg_algebraicIndependent_pair_linear_9149b1566c10
 -- name    : P2M_GroundTheory_Heights__Heights_GenericLinearTrdeg_algebraicIndependent_pair_linear_9149b1566c10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:55.287084+00:00
 -- url     : https://prove2.me/theorems/8dd7e60d-8800-4214-9ff1-27bd80e144f5

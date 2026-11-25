@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_highest_dominant
 -- name    : GlobalTheory.KTypeCompare.highest_dominant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:58:23.395048+00:00
 -- url     : https://prove2.me/theorems/b3b261af-718f-44ab-9e73-37955658521b

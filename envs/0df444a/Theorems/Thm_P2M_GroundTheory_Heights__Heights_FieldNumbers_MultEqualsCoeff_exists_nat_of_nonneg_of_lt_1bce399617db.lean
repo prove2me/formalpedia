@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MultEqualsCoeff_exists_nat_of_nonneg_of_lt_1bce399617db
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MultEqualsCoeff_exists_nat_of_nonneg_of_lt_1bce399617db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:16.370032+00:00
 -- url     : https://prove2.me/theorems/8180e082-8138-47b6-a6ae-0c1217e4acee

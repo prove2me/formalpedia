@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_ratio_pos
 -- name    : GlobalTheory.ProperImmersionPoint.ratio_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:42:15.961369+00:00
 -- url     : https://prove2.me/theorems/96cf4aaa-c127-54d0-b697-7c1b064b60db

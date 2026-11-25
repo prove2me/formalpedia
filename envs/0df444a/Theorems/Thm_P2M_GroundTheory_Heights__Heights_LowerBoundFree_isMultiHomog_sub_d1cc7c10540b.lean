@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_isMultiHomog_sub_d1cc7c10540b
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_isMultiHomog_sub_d1cc7c10540b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:19.61958+00:00
 -- url     : https://prove2.me/theorems/d586dd38-0b14-4a98-a403-62797c85be57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_factorial_mul_le_79581543a245
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_factorial_mul_le_79581543a245
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:37.580006+00:00
 -- url     : https://prove2.me/theorems/10de3ad8-3cca-403d-a214-74e8dc968f95

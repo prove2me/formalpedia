@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_ballSet_subset_polydisc_628419bd91dd
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_ballSet_subset_polydisc_628419bd91dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:52.693266+00:00
 -- url     : https://prove2.me/theorems/d735c17f-27f2-4618-b6ae-d9217574e7c7

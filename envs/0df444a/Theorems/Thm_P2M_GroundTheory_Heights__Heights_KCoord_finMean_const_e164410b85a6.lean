@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KCoord_finMean_const_e164410b85a6
 -- name    : P2M_GroundTheory_Heights__Heights_KCoord_finMean_const_e164410b85a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:39.30997+00:00
 -- url     : https://prove2.me/theorems/d2396cc2-4a8b-4895-9076-53d7e4d95f32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExplicitRect_residue_identity
 -- name    : GlobalTheory.ExplicitRect.residue_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T13:06:55.985105+00:00
 -- url     : https://prove2.me/theorems/6f76010a-68a0-4c86-91bd-045df3723583

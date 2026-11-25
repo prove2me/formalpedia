@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_prod_pow_add_single_6c948aa5d4ea
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_prod_pow_add_single_6c948aa5d4ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:44.87725+00:00
 -- url     : https://prove2.me/theorems/84230503-326c-5d80-bf2a-6265ba1ac145

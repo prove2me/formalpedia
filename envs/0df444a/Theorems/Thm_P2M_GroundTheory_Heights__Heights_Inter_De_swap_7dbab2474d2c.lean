@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_De_swap_7dbab2474d2c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_De_swap_7dbab2474d2c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:01.016806+00:00
 -- url     : https://prove2.me/theorems/2b3e3e71-07d9-4f48-9c34-ad4d97afafed

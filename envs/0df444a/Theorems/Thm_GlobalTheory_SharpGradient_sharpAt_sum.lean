@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_sharpAt_sum
 -- name    : GlobalTheory.SharpGradient.sharpAt_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:41:42.030687+00:00
 -- url     : https://prove2.me/theorems/fa70eb29-4d67-419e-a205-547fdb7e5751

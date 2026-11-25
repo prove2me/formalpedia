@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_partialProd_last_revInv
 -- name    : GroundTheory.GroupCoh.partialProd_last_revInv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:57.967549+00:00
 -- url     : https://prove2.me/theorems/6e9c74dc-2555-4898-9057-974864437ebd

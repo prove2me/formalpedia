@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_ch_core
 -- name    : Deduction.ch_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:35:27.016624+00:00
 -- url     : https://prove2.me/theorems/3ee8ec9b-c992-4ec7-8344-bfa1f33689ca

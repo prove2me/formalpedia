@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_exists_isSheet_fin_zero_107768734baa
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_exists_isSheet_fin_zero_107768734baa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:17.784639+00:00
 -- url     : https://prove2.me/theorems/9b36c181-3da8-4fdb-9343-e1079e92da2c

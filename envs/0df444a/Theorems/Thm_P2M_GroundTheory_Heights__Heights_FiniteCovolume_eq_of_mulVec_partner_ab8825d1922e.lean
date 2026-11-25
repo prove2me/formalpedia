@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_eq_of_mulVec_partner_ab8825d1922e
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_eq_of_mulVec_partner_ab8825d1922e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:41.988912+00:00
 -- url     : https://prove2.me/theorems/3cc7179b-232b-4987-b623-5df328115288

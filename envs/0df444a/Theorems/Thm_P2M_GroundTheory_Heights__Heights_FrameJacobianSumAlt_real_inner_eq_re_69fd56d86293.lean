@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameJacobianSumAlt_real_inner_eq_re_69fd56d86293
 -- name    : P2M_GroundTheory_Heights__Heights_FrameJacobianSumAlt_real_inner_eq_re_69fd56d86293
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:24.815736+00:00
 -- url     : https://prove2.me/theorems/c2932656-117e-49cb-b96b-086f868c2575

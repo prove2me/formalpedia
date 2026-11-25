@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ExtensionProof_monos_insert_decomp_76fccd14e8e8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ExtensionProof_monos_insert_decomp_76fccd14e8e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:27:18.560535+00:00
 -- url     : https://prove2.me/theorems/35ce7375-6310-4491-9512-aa97d34e091b

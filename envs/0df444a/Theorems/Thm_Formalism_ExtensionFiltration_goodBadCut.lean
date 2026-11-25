@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_goodBadCut
 -- name    : Formalism.ExtensionFiltration.goodBadCut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:33:40.546883+00:00
 -- url     : https://prove2.me/theorems/4d0d3c7c-e884-4a04-a6bd-04d4708e14f1

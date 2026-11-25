@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbEventuallyPoly_weightedHomogeneousComponent_mul_X_1e67a7f0ce90
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbEventuallyPoly_weightedHomogeneousComponent_mul_X_1e67a7f0ce90
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:08.964501+00:00
 -- url     : https://prove2.me/theorems/54e96e6a-b012-51dd-b2de-54e56f810f05

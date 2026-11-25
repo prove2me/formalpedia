@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_gen_top
 -- name    : GlobalTheory.RegBound.gen_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:30:02.991612+00:00
 -- url     : https://prove2.me/theorems/6964eb79-a1b6-4f3e-9663-ee977e321d29

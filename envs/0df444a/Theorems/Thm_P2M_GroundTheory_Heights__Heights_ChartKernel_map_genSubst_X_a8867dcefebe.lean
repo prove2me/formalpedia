@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartKernel_map_genSubst_X_a8867dcefebe
 -- name    : P2M_GroundTheory_Heights__Heights_ChartKernel_map_genSubst_X_a8867dcefebe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:13.6258+00:00
 -- url     : https://prove2.me/theorems/1fe39aa7-23a6-4e5f-a92e-f9d77934007d

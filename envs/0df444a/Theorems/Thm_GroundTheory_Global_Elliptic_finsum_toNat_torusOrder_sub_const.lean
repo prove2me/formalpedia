@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_finsum_toNat_torusOrder_sub_const
 -- name    : GroundTheory.Global.Elliptic.finsum_toNat_torusOrder_sub_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:19.809969+00:00
 -- url     : https://prove2.me/theorems/240b3faf-3bb9-41b4-912f-bcaf57ddf453

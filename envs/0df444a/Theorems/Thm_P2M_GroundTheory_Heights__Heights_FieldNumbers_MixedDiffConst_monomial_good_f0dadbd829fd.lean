@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MixedDiffConst_monomial_good_f0dadbd829fd
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MixedDiffConst_monomial_good_f0dadbd829fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:59.158168+00:00
 -- url     : https://prove2.me/theorems/1916e674-b108-418c-aa55-989cfac06cab

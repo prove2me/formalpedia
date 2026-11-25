@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pullDeg_add_22e9381938f4
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pullDeg_add_22e9381938f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:27:43.555927+00:00
 -- url     : https://prove2.me/theorems/03c14243-c117-4c92-afeb-fbcdbf3b7bcf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_finiteIndex_of_isOpen_integerUnits
 -- name    : GroundTheory.LocalField.finiteIndex_of_isOpen_integerUnits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:20.406629+00:00
 -- url     : https://prove2.me/theorems/319ad68c-e0ea-4382-bb01-6770461e421a

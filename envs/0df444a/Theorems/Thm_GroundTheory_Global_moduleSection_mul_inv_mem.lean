@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_moduleSection_mul_inv_mem
 -- name    : GroundTheory.Global.moduleSection_mul_inv_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:13.869947+00:00
 -- url     : https://prove2.me/theorems/961179c3-7eff-4c1e-bffc-f203965da6bf

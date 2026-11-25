@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl2_inv_field
 -- name    : Formalism.L2.Th1.A.Fgl2.inv_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:44:26.044253+00:00
 -- url     : https://prove2.me/theorems/048363f0-6b2d-40c6-8a5f-2c21275f094c

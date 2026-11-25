@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_isSmoothHerm_fs_f584938e162c
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_isSmoothHerm_fs_f584938e162c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:17.651625+00:00
 -- url     : https://prove2.me/theorems/377d2e33-7f91-405d-aca2-7dda58dd08b3

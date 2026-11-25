@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SigmaDefect_main
 -- name    : GlobalTheory.SigmaDefect.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:14:42.984802+00:00
 -- url     : https://prove2.me/theorems/c32f194c-00fd-4fce-939a-002f934fab3d

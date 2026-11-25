@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_prod_wblk_dd968f239759
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_prod_wblk_dd968f239759
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:25.821318+00:00
 -- url     : https://prove2.me/theorems/8d4b7d3c-03d6-4f86-b289-d48fc78f12a3

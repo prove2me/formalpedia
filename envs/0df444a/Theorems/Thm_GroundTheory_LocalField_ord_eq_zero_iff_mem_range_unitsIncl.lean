@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ord_eq_zero_iff_mem_range_unitsIncl
 -- name    : GroundTheory.LocalField.ord_eq_zero_iff_mem_range_unitsIncl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:15:17.903787+00:00
 -- url     : https://prove2.me/theorems/b82de536-4a8f-59e7-89af-ebe41ad1b0f7

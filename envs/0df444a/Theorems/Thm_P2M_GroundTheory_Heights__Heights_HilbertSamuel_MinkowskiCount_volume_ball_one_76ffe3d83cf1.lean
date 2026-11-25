@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MinkowskiCount_volume_ball_one_76ffe3d83cf1
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MinkowskiCount_volume_ball_one_76ffe3d83cf1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:18.564873+00:00
 -- url     : https://prove2.me/theorems/a2f95895-0fb6-42e9-803c-ee1fcf4dd474

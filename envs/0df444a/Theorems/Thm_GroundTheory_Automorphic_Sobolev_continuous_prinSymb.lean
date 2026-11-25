@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_continuous_prinSymb
 -- name    : GroundTheory.Automorphic.Sobolev.continuous_prinSymb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:13:10.59305+00:00
 -- url     : https://prove2.me/theorems/f4d46c18-1741-5750-b5c8-16dbc97dcddc

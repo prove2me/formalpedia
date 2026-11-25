@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_mk_eq_e60e9069aaa5
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_mk_eq_e60e9069aaa5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:17.21626+00:00
 -- url     : https://prove2.me/theorems/e7e328d6-6f90-48cd-88a5-ba8d99b4a0bb

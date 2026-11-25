@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_sat_of_mem_y
 -- name    : Formalism.InvariantFactorPaths.L4.sat_of_mem_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:12:46.051557+00:00
 -- url     : https://prove2.me/theorems/e81831a2-eca4-4d4e-af08-1821a3be51fe

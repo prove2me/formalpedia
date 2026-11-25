@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.DworkPowerSeriesWeights.OddLevelGainBounds.thmAOp7
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T03:58:38.928816+00:00
+-- url     : https://prove2.me/submissions/ab3a8f9c-8def-44c4-ad98-7ba1ff81268d
+
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_CapLeOddShiftBound
+import Definitions.Def_Formalism_GaussJetBounds_GaussJetProofs_WeightsAddOverOrbitsLogLoss
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_TheoremAMonomialOfLemmas
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_ThmAGen7Of
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_ThmAGeneric7Of
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_OneLetterGaussProofs_TwoFormsOfTheoremA
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_MinWeightSumAddCostAbsBound
+import Definitions.Def_Formalism_GaussJetBounds_GaussJetProofs_IntegralOperatorsOnJets
+import Definitions.Def_Formalism_GaussJetBounds_OneLetterGaussJets_TheoremATwoFormsOfEntry
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_OddLevelGainBounds_thmAJet7
+import Theorems.Thm_Formalism_DworkPowerSeriesWeights_OddLevelGainBounds_thmAOp7_of
+import Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qi22_homW_prod__0e07eaea3260
+import Theorems.Thm_P2M_UpperTheory_Reformulated_B_Qk29_wtGe_prod__77285e911b46
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+universe u v w
+open Formalism Formalism.DworkPowerSeriesWeights Formalism.DworkPowerSeriesWeights.OddLevelGainBounds
+namespace Formalism.DworkPowerSeriesWeights.OddLevelGainBounds
+theorem _root_.solution : ThmAOp7.{u} := thmAOp7_of thmAJet7
+end Formalism.DworkPowerSeriesWeights.OddLevelGainBounds

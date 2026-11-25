@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_sob_toDistribution
 -- name    : GroundTheory.Automorphic.Sobolev.sob_toDistribution
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:49:59.980572+00:00
 -- url     : https://prove2.me/theorems/a92da9e1-2d99-4627-a719-5a76ef35ae13

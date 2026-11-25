@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_good_twisted_lattice
 -- name    : Formalism.DivisionValues.good_twisted_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:09.896981+00:00
 -- url     : https://prove2.me/theorems/9e93545e-aa21-43c3-90db-40b370fd0748

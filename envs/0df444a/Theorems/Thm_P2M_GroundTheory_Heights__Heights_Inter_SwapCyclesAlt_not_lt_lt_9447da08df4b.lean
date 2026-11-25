@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_not_lt_lt_9447da08df4b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SwapCyclesAlt_not_lt_lt_9447da08df4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:31:35.678804+00:00
 -- url     : https://prove2.me/theorems/ec3fe66f-5fed-5af7-9bae-3fda80889a74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KThetaSummandNorm_im_dot_real_fce10366cc3b
 -- name    : P2M_GroundTheory_Heights__Heights_KThetaSummandNorm_im_dot_real_fce10366cc3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:26:17.202515+00:00
 -- url     : https://prove2.me/theorems/bb736a67-4855-4591-9a35-a55cda0dbc84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_exists_covers_fam
 -- name    : GlobalTheory.Reg.exists_covers_fam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:31:17.544934+00:00
 -- url     : https://prove2.me/theorems/b5698f61-bf80-4d7a-803f-3cde39395adb

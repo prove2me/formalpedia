@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_yEval_C_mul_390f53e7d566
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_yEval_C_mul_390f53e7d566
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:08.229988+00:00
 -- url     : https://prove2.me/theorems/cda319c9-3cb2-4d04-89f0-e242c4ab5373

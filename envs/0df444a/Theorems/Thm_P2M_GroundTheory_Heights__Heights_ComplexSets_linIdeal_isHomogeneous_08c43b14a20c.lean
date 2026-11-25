@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_linIdeal_isHomogeneous_08c43b14a20c
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_linIdeal_isHomogeneous_08c43b14a20c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:16:35.315525+00:00
 -- url     : https://prove2.me/theorems/8afc2bcd-a49b-51b1-9b53-aad49597bc74

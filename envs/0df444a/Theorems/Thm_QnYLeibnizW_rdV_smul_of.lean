@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnYLeibnizW_rdV_smul_of
 -- name    : QnYLeibnizW.rdV_smul_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:31:43.192296+00:00
 -- url     : https://prove2.me/theorems/1190bdc4-3bdd-42a8-b1a1-8add32d61191

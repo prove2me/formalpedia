@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalResidue_holds_comap_map_eq_1f7d21450244
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalResidue_holds_comap_map_eq_1f7d21450244
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:34:38.656897+00:00
 -- url     : https://prove2.me/theorems/ce648829-e9a1-5976-a6db-fdd9e6f0c61a

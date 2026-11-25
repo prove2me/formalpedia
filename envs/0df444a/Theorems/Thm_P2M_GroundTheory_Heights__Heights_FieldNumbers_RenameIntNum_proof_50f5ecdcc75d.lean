@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_RenameIntNum_proof_50f5ecdcc75d
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_RenameIntNum_proof_50f5ecdcc75d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:41:30.848096+00:00
 -- url     : https://prove2.me/theorems/2d5a210a-d1a0-43b4-a325-f22977b94da1

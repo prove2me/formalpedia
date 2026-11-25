@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_TateOver_pow_smul_conv
 -- name    : GlobalTheory.PDivGroup.TateOver.pow_smul_conv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:10:54.501879+00:00
 -- url     : https://prove2.me/theorems/c8eee2ea-cf38-4981-95cb-53f58b931eb1

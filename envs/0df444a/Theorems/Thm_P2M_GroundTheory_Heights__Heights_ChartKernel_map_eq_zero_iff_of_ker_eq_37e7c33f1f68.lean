@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartKernel_map_eq_zero_iff_of_ker_eq_37e7c33f1f68
 -- name    : P2M_GroundTheory_Heights__Heights_ChartKernel_map_eq_zero_iff_of_ker_eq_37e7c33f1f68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:15:56.549902+00:00
 -- url     : https://prove2.me/theorems/3b1cb10f-f002-4c95-a3bf-8512d328b954

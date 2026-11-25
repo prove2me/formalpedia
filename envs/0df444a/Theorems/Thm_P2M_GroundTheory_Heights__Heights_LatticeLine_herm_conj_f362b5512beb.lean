@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLine_herm_conj_f362b5512beb
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLine_herm_conj_f362b5512beb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:35.477316+00:00
 -- url     : https://prove2.me/theorems/f72aa028-7bc8-4ef0-aea8-e3c9eb640585

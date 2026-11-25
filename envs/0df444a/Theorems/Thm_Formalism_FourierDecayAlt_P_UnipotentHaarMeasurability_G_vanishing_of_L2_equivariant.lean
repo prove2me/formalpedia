@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_UnipotentHaarMeasurability_G_vanishing_of_L2_equivariant
 -- name    : Formalism.FourierDecayAlt.P.UnipotentHaarMeasurability.G.vanishing_of_L2_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:57:26.664831+00:00
 -- url     : https://prove2.me/theorems/328a5786-2268-5491-adc9-0954ecf6e055

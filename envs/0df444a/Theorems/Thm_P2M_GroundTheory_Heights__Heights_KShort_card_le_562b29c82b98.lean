@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KShort_card_le_562b29c82b98
 -- name    : P2M_GroundTheory_Heights__Heights_KShort_card_le_562b29c82b98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:25:52.647916+00:00
 -- url     : https://prove2.me/theorems/e33599af-5e67-4bc8-9f23-2f3787993103

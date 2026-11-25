@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_mConeMap_eq_scale_ee6593a6f5ce
 -- name    : P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_mConeMap_eq_scale_ee6593a6f5ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:46.263429+00:00
 -- url     : https://prove2.me/theorems/e33b118b-43ab-4eeb-b047-0fadbf0b3bee

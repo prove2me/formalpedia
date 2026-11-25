@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MinkowskiCount_cube_le_unitBallVolume_6eea6a272945
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MinkowskiCount_cube_le_unitBallVolume_6eea6a272945
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:52.607654+00:00
 -- url     : https://prove2.me/theorems/42c5bdaa-c22e-5b47-99be-8a2c5244949c

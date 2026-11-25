@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_mixedDisc_map_star_fe2e95513fb5
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_mixedDisc_map_star_fe2e95513fb5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:34:54.109012+00:00
 -- url     : https://prove2.me/theorems/8889ee54-c3ba-5818-933a-b892ad3b8643

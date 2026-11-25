@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMax_prod_inv_pow_ne_zero_0d43fbb80b93
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMax_prod_inv_pow_ne_zero_0d43fbb80b93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:31:43.17637+00:00
 -- url     : https://prove2.me/theorems/20320490-5996-5eff-964a-bd5475c89075

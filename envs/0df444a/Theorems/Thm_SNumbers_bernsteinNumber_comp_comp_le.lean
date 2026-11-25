@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_comp_comp_le
 -- name    : SNumbers.bernsteinNumber_comp_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:16:58.85741+00:00
 -- url     : https://prove2.me/theorems/1fc9057e-2a5d-4609-8568-1cb9519bd147

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_ExtensionProof_gen_mem_ofGens_4d3cdc5867bd
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_ExtensionProof_gen_mem_ofGens_4d3cdc5867bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:11.765741+00:00
 -- url     : https://prove2.me/theorems/20e1fc1e-39de-453e-9074-0a1f3f4ce000

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_monomial_smul_mem_cf15e5d2941f
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MultigradedFiltration_monomial_smul_mem_cf15e5d2941f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:40.81098+00:00
 -- url     : https://prove2.me/theorems/5b8fac17-2335-4484-a42f-916d7df36ea7

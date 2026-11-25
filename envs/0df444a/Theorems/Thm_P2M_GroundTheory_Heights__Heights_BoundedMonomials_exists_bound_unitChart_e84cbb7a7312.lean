@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BoundedMonomials_exists_bound_unitChart_e84cbb7a7312
 -- name    : P2M_GroundTheory_Heights__Heights_BoundedMonomials_exists_bound_unitChart_e84cbb7a7312
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:16:54.477268+00:00
 -- url     : https://prove2.me/theorems/e9492a84-6eb4-4679-88f8-19bd6d4b8368

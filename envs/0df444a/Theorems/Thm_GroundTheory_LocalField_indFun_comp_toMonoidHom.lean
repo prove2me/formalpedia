@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_indFun_comp_toMonoidHom
 -- name    : GroundTheory.LocalField.indFun_comp_toMonoidHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:40.415124+00:00
 -- url     : https://prove2.me/theorems/040dcdda-88e7-47aa-b952-8f96cad3c29f

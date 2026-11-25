@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_evalHom_mk
 -- name    : GlobalTheory.WeierstrassCurve.evalHom_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:12:56.14092+00:00
 -- url     : https://prove2.me/theorems/799ad3dd-23dd-4707-86a0-9e896f8a2b61

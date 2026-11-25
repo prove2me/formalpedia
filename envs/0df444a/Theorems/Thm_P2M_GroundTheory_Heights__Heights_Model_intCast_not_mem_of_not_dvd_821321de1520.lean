@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_intCast_not_mem_of_not_dvd_821321de1520
 -- name    : P2M_GroundTheory_Heights__Heights_Model_intCast_not_mem_of_not_dvd_821321de1520
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:14.383804+00:00
 -- url     : https://prove2.me/theorems/7b8a0ba5-f5ff-4acb-b10b-157f22d6f9fb

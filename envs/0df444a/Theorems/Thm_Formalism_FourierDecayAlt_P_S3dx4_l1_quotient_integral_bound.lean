@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_l1_quotient_integral_bound
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.l1_quotient_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:21:26.32102+00:00
 -- url     : https://prove2.me/theorems/48b68aa1-7b59-4fec-b23d-3d2ed3a51afa

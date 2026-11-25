@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_OddLevelGainBounds_one_letter_gauss_bound
 -- name    : Formalism.DworkPowerSeriesWeights.OddLevelGainBounds.one_letter_gauss_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:53:47.325148+00:00
 -- url     : https://prove2.me/theorems/e122e619-c26d-4c34-bf4b-c0387d78d491

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GradedPres_genMap_basis_f97c744f41c8
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GradedPres_genMap_basis_f97c744f41c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:45.161059+00:00
 -- url     : https://prove2.me/theorems/51b1a933-f5c7-5582-84a8-0cbc7f08b4ec

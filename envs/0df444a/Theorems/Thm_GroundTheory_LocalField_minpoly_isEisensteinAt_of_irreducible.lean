@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_minpoly_isEisensteinAt_of_irreducible
 -- name    : GroundTheory.LocalField.minpoly_isEisensteinAt_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:15:13.376496+00:00
 -- url     : https://prove2.me/theorems/4b63e4a2-63c6-4ec6-afa0-9160341aeb50

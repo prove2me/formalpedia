@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_EffectiveHS_JetOfMonomialSum_iteratedFDeriv_fderiv_diag_af2eaa2d2298
 -- name    : P2M_GroundTheory_Heights__Heights_EffectiveHS_JetOfMonomialSum_iteratedFDeriv_fderiv_diag_af2eaa2d2298
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:56:16.132284+00:00
 -- url     : https://prove2.me/theorems/ed6e83b4-49b4-452e-ae84-1a43afe7a585

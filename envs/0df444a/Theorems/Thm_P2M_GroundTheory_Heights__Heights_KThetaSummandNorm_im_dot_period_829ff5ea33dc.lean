@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KThetaSummandNorm_im_dot_period_829ff5ea33dc
 -- name    : P2M_GroundTheory_Heights__Heights_KThetaSummandNorm_im_dot_period_829ff5ea33dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:25:54.883447+00:00
 -- url     : https://prove2.me/theorems/3c09e1a6-d9d9-47ff-a680-36f7340dca5f

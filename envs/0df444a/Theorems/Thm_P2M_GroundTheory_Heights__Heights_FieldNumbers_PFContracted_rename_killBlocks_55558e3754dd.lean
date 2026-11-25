@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_rename_killBlocks_55558e3754dd
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_rename_killBlocks_55558e3754dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:03.753449+00:00
 -- url     : https://prove2.me/theorems/bb702a20-2dd3-4435-a032-e77f285d0011

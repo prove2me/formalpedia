@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualLineConjugation_recover_conj_9765c37a03f9
 -- name    : P2M_GroundTheory_Heights__Heights_DualLineConjugation_recover_conj_9765c37a03f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:28.069424+00:00
 -- url     : https://prove2.me/theorems/f7cb9002-60ed-5fe2-895f-a2cf9f79a9df

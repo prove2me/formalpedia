@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_telescope_enat_094d3f3ee57a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_telescope_enat_094d3f3ee57a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:03.674209+00:00
 -- url     : https://prove2.me/theorems/2cef3f3e-37e4-5c0d-aeca-c5f32c1deea5

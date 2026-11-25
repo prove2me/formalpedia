@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LineChowForm_substZeroOneOne_X_of_ne_0b3fd90d8c9f
 -- name    : P2M_GroundTheory_Heights__Heights_LineChowForm_substZeroOneOne_X_of_ne_0b3fd90d8c9f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:01.397583+00:00
 -- url     : https://prove2.me/theorems/76cd1582-5f2c-48fd-9168-7f50f02c56c9

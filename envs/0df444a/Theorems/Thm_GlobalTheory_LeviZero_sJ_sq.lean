@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeviZero_sJ_sq
 -- name    : GlobalTheory.LeviZero.sJ_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:49:09.241272+00:00
 -- url     : https://prove2.me/theorems/d791d3a7-5981-4a30-9902-5ab2d0cc167b

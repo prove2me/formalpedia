@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_AdeleBaseChange_trace_mul_traceDual
 -- name    : GroundTheory.Global.AdeleBaseChange.trace_mul_traceDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:15:00.298478+00:00
 -- url     : https://prove2.me/theorems/97ee6b5a-5612-56d1-8c1a-29f4437628e7

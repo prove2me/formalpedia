@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_setLIntegral_rot_7dac8de6a7df
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_setLIntegral_rot_7dac8de6a7df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:27:53.386146+00:00
 -- url     : https://prove2.me/theorems/16482d89-d099-476e-8211-eb47bdb7c7f7

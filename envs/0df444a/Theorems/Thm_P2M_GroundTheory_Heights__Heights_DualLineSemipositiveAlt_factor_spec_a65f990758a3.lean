@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualLineSemipositiveAlt_factor_spec_a65f990758a3
 -- name    : P2M_GroundTheory_Heights__Heights_DualLineSemipositiveAlt_factor_spec_a65f990758a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:46.51838+00:00
 -- url     : https://prove2.me/theorems/6befa252-1757-42d0-a175-3a6b0156b8d2

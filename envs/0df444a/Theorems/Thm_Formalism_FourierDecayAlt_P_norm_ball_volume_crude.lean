@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_norm_ball_volume_crude
 -- name    : Formalism.FourierDecayAlt.P.norm_ball_volume_crude
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:41:19.297407+00:00
 -- url     : https://prove2.me/theorems/0d5a5740-86aa-431f-9231-e1f29883ad21

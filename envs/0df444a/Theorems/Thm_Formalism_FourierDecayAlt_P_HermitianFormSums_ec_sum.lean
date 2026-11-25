@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormSums_ec_sum
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormSums.ec_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:09:39.544485+00:00
 -- url     : https://prove2.me/theorems/f6b86d97-11af-4647-a3fc-9ad9f8d75716

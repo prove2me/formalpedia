@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lattice_determined_by_invariants
 -- name    : GlobalTheory.lattice_determined_by_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:02:22.726257+00:00
 -- url     : https://prove2.me/theorems/b8f80c33-38c7-4143-932f-0278b22a9457

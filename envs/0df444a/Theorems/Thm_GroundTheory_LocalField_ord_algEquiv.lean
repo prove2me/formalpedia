@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ord_algEquiv
 -- name    : GroundTheory.LocalField.ord_algEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:02.140632+00:00
 -- url     : https://prove2.me/theorems/f77ab544-1fcf-4b69-aa56-5e382bb08130

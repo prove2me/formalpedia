@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceZeroLocus_exists_det_submatrix_ne_zero_613386e27c04
 -- name    : P2M_GroundTheory_Heights__Heights_IncidenceZeroLocus_exists_det_submatrix_ne_zero_613386e27c04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:08.909702+00:00
 -- url     : https://prove2.me/theorems/033ee5ff-a633-4fe1-9755-662f62a6e7a7

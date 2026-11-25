@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_norm_det_sq_le_fb621fa6f07e
 -- name    : P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_norm_det_sq_le_fb621fa6f07e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:27:44.326422+00:00
 -- url     : https://prove2.me/theorems/d3d68fd2-98a7-4dff-bfe0-13cc3472c043

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_homog_monomial_63dfd050d1ea
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_homog_monomial_63dfd050d1ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:23:55.44686+00:00
 -- url     : https://prove2.me/theorems/ecdb87ee-f45a-4663-983a-f868571fec67

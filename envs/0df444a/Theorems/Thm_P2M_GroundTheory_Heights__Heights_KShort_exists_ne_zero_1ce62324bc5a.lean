@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KShort_exists_ne_zero_1ce62324bc5a
 -- name    : P2M_GroundTheory_Heights__Heights_KShort_exists_ne_zero_1ce62324bc5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:22.603335+00:00
 -- url     : https://prove2.me/theorems/819138cd-03a5-4345-b198-1f8b779f0cff

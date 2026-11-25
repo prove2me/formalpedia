@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartVanishing_mkF_chartMonomial_mul_chartPow_b6a65f1ac349
 -- name    : P2M_GroundTheory_Heights__Heights_ChartVanishing_mkF_chartMonomial_mul_chartPow_b6a65f1ac349
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:16:45.387207+00:00
 -- url     : https://prove2.me/theorems/4c2ab038-07ed-4069-8dd7-837b769b9958

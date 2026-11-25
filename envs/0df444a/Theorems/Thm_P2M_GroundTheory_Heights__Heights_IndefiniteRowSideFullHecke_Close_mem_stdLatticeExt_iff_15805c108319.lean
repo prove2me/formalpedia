@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_mem_stdLatticeExt_iff_15805c108319
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_mem_stdLatticeExt_iff_15805c108319
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:12.885296+00:00
 -- url     : https://prove2.me/theorems/f5937cd4-7686-46e0-8227-ea0b5f5832c5

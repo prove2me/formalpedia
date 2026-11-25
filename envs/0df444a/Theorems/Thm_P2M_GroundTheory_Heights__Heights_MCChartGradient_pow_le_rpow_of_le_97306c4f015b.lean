@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCChartGradient_pow_le_rpow_of_le_97306c4f015b
 -- name    : P2M_GroundTheory_Heights__Heights_MCChartGradient_pow_le_rpow_of_le_97306c4f015b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:18.058883+00:00
 -- url     : https://prove2.me/theorems/fe6e853f-c2ae-4b34-aaee-c7705ab6039e

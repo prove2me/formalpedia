@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_locMap_comp_locResS_e33ebeba7576
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_locMap_comp_locResS_e33ebeba7576
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:33:51.668799+00:00
 -- url     : https://prove2.me/theorems/26ba3e62-9320-4bb7-93ce-5cbbda2c7185

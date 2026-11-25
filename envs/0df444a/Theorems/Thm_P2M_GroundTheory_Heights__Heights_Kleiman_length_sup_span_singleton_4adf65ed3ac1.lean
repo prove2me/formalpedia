@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_length_sup_span_singleton_4adf65ed3ac1
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_length_sup_span_singleton_4adf65ed3ac1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:54.192162+00:00
 -- url     : https://prove2.me/theorems/f8d6f03e-4094-4577-9b75-df40a7e40427

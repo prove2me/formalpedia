@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_module_finite_of_semilinear_0775f0fbfa71
 -- name    : P2M_GroundTheory_Heights__Heights_Model_module_finite_of_semilinear_0775f0fbfa71
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:56.153682+00:00
 -- url     : https://prove2.me/theorems/f97f3c33-5244-4ce6-8048-361c6576a25f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLocDomain_linForm_not_mem_sup_ef32ee3b11da
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLocDomain_linForm_not_mem_sup_ef32ee3b11da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:47.792906+00:00
 -- url     : https://prove2.me/theorems/9b4217c3-324b-4ac2-8a32-26a986690e28

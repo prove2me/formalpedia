@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_length_localization_quotient_a5622d7b17c9
 -- name    : P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_length_localization_quotient_a5622d7b17c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:34.970505+00:00
 -- url     : https://prove2.me/theorems/daeb358d-7c73-432c-926b-96d7409847b5

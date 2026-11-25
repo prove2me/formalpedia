@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_TwistData_ChOK_ddiv_all
 -- name    : Formalism.MainNotions.PlaneGram.TwistData.ChOK.ddiv_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:48:33.226468+00:00
 -- url     : https://prove2.me/theorems/17b78657-f022-4904-8842-281c355ec7c2

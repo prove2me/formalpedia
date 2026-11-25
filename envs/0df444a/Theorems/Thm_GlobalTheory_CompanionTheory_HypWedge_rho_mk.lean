@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HypWedge_rho_mk
 -- name    : GlobalTheory.CompanionTheory.HypWedge.rho_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:25:50.804318+00:00
 -- url     : https://prove2.me/theorems/48cced00-354d-4d99-9f8e-049b5b5d54cb

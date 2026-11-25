@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_int_charInner_of_mem_spanZ
 -- name    : GroundTheory.LocalField.exists_int_charInner_of_mem_spanZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:20.988656+00:00
 -- url     : https://prove2.me/theorems/b958430e-15eb-46c7-a846-81dd43d09eff

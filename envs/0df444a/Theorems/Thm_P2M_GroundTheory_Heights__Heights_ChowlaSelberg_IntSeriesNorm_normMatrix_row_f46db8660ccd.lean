@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesNorm_normMatrix_row_f46db8660ccd
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_IntSeriesNorm_normMatrix_row_f46db8660ccd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:43.308905+00:00
 -- url     : https://prove2.me/theorems/e94a8139-7fa6-4f8a-92e7-9e9e339ff332

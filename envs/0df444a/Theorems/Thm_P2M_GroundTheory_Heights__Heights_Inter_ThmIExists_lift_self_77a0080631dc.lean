@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_lift_self_77a0080631dc
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_lift_self_77a0080631dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:29.546798+00:00
 -- url     : https://prove2.me/theorems/43c5738f-eb6a-4f86-a7ce-5aec28033b93

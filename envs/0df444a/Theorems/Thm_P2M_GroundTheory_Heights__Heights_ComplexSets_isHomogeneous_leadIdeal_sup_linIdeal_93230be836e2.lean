@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_isHomogeneous_leadIdeal_sup_linIdeal_93230be836e2
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_isHomogeneous_leadIdeal_sup_linIdeal_93230be836e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:16:32.910231+00:00
 -- url     : https://prove2.me/theorems/7940ec69-1dd8-4fa5-ae40-4630708b992b

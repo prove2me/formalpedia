@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SA_TransvG_det_updateRow_last
 -- name    : GlobalTheory.SA.TransvG.det_updateRow_last
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:45:59.209794+00:00
 -- url     : https://prove2.me/theorems/1b8a60f6-0c8b-402c-8ea1-0e95b860c0c8

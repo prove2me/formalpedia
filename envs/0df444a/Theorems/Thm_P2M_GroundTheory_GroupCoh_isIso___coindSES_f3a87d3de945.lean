@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_isIso___coindSES_f3a87d3de945
 -- name    : P2M_GroundTheory_GroupCoh_isIso___coindSES_f3a87d3de945
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:51.363112+00:00
 -- url     : https://prove2.me/theorems/8345c254-5fdb-45de-84a0-bc0d0a6636f6

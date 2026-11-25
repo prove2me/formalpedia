@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegularQuotient_quot_regular
 -- name    : GlobalTheory.RegularQuotient.quot_regular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:30:00.742246+00:00
 -- url     : https://prove2.me/theorems/ad06d0e4-318b-4204-ae21-bda8f0ae37a1

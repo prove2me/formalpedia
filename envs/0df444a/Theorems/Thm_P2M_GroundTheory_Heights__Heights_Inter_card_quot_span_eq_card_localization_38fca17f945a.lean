@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_card_quot_span_eq_card_localization_38fca17f945a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_card_quot_span_eq_card_localization_38fca17f945a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:23:18.771812+00:00
 -- url     : https://prove2.me/theorems/6fdc9550-c4b3-453d-b532-e5c03c32684a

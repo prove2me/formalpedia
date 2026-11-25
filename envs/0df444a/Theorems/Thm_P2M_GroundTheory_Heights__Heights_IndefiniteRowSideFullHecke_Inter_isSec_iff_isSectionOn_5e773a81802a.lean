@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isSec_iff_isSectionOn_5e773a81802a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isSec_iff_isSectionOn_5e773a81802a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:22:28.409211+00:00
 -- url     : https://prove2.me/theorems/0f2da6c8-460e-40c2-82cb-a19495bc6b6a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_JCalc_coeff_psTrunc_ite
 -- name    : GlobalTheory.ChartCmp.JCalc.coeff_psTrunc_ite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:10:18.644891+00:00
 -- url     : https://prove2.me/theorems/8ee0f111-c6cf-4b73-9783-ca035f8b9d07

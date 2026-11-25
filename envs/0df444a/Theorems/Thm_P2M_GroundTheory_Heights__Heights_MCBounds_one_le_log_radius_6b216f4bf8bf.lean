@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_one_le_log_radius_6b216f4bf8bf
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_one_le_log_radius_6b216f4bf8bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:43.734068+00:00
 -- url     : https://prove2.me/theorems/2dae88a6-555b-4dee-a46c-7844fab781a9

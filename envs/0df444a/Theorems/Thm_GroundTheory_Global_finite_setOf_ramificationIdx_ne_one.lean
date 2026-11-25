@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_setOf_ramificationIdx_ne_one
 -- name    : GroundTheory.Global.finite_setOf_ramificationIdx_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:14:48.2001+00:00
 -- url     : https://prove2.me/theorems/8d223c4a-6add-4ad8-a980-c5f6527219fa

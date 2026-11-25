@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateCohomologyZeroIso_inv_mk
 -- name    : GroundTheory.GroupCoh.tateCohomologyZeroIso_inv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:51:25.467141+00:00
 -- url     : https://prove2.me/theorems/d3e09559-4ffd-4ec3-86d0-2f97c020b3d0

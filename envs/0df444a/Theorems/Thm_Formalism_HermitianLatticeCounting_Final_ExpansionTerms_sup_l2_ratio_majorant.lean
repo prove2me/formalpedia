@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_ExpansionTerms_sup_l2_ratio_majorant
 -- name    : Formalism.HermitianLatticeCounting.Final.ExpansionTerms.sup_l2_ratio_majorant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:34.979156+00:00
 -- url     : https://prove2.me/theorems/bd52f799-d2d4-4592-8908-0b76446299f8

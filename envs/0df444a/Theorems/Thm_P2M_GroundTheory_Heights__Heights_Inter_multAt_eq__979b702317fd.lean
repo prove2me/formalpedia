@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_multAt_eq__979b702317fd
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_multAt_eq__979b702317fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:37:12.062247+00:00
 -- url     : https://prove2.me/theorems/e163635e-1ed0-5d5a-b459-fefe56141244

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_MC_GI_term_valE
 -- name    : Formalism.InvariantFactorPaths.MC.GI.term_valE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:58:55.664241+00:00
 -- url     : https://prove2.me/theorems/54e1e1a1-ca10-5f81-820c-324ca94d965a

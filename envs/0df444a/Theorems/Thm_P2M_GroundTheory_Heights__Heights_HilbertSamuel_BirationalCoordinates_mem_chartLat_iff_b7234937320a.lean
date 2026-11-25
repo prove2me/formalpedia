@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_BirationalCoordinates_mem_chartLat_iff_b7234937320a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_BirationalCoordinates_mem_chartLat_iff_b7234937320a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:20:38.33223+00:00
 -- url     : https://prove2.me/theorems/248592ad-a7a9-5758-a117-c9bcb1a6aadc

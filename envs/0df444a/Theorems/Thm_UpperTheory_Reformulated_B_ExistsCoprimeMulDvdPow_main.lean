@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Reformulated_B_ExistsCoprimeMulDvdPow_main
 -- name    : UpperTheory.Reformulated.B.ExistsCoprimeMulDvdPow.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:24:11.162853+00:00
 -- url     : https://prove2.me/theorems/6e901334-54b8-5b8b-9008-b0e889e5edb6

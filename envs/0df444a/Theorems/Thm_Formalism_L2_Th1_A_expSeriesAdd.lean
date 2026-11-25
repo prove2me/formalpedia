@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_expSeriesAdd
 -- name    : Formalism.L2.Th1.A.expSeriesAdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:37:07.807412+00:00
 -- url     : https://prove2.me/theorems/ee64e0fb-ffd5-40d3-9c7d-319a2e1f35a0

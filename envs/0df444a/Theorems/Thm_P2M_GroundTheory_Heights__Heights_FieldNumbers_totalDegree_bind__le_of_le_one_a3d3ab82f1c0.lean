@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_totalDegree_bind__le_of_le_one_a3d3ab82f1c0
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_totalDegree_bind__le_of_le_one_a3d3ab82f1c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:17:58.343628+00:00
 -- url     : https://prove2.me/theorems/8292bc9d-1552-4e48-b5ae-c5b12ec59321

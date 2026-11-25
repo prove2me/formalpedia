@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushFirstLaw_lift_cubeMap
 -- name    : GlobalTheory.PushFirstLaw.lift_cubeMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:51:42.641286+00:00
 -- url     : https://prove2.me/theorems/8256e381-e758-537f-94ac-f1d0a911906e

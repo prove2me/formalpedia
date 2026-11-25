@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_dense_eval_ne_zero_e105dbe94462
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_dense_eval_ne_zero_e105dbe94462
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:49.162994+00:00
 -- url     : https://prove2.me/theorems/bb62a115-cbf7-4c79-9593-9104a40b3d14

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_mem_UJ_one
 -- name    : CompanionTheory.Split.mem_UJ_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:28.990336+00:00
 -- url     : https://prove2.me/theorems/5dee3e79-07ac-476f-a826-f210342e03a3

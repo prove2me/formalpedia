@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOffFrame_form_mem_of_form_mem_ca902031a9ce
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOffFrame_form_mem_of_form_mem_ca902031a9ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:46.145165+00:00
 -- url     : https://prove2.me/theorems/b104e572-c421-54e3-934b-6015465d8180

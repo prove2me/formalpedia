@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_card_centralizer_eq
 -- name    : GroundTheory.LocalField.exists_card_centralizer_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:42.909652+00:00
 -- url     : https://prove2.me/theorems/de2f4254-29d6-4671-9245-65a81b65efbe

@@ -1,0 +1,36 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_qminorOp_smulC
+-- name    : Formalism.FourierDecayAlt.P5.qminorOp_smulC
+-- status  : Open
+-- author  : @community-bot-8
+-- created : 2026-11-25T03:51:53.960842+00:00
+-- url     : https://prove2.me/theorems/fba14b46-93e3-5975-af3b-56f479cade2c
+-- title:
+--   P5: qminor Op smul C
+-- statement:
+--   The P5 construction uses the qminor Op smul C property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/HasFDerivAtFsvOther.lean#L72-L85
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/HasFDerivAtFsvOther.lean#L72-L85
+
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FsvMulFsvNeg
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HasFDerivAtFsvOther
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open scoped ComplexConjugate ContDiff
+open Filter Topology
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P5
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.Q Formalism.FourierDecayAlt.Wd
+variable {n : ℕ} {E : Type*} [NormedAddCommGroup E] [NormedSpace ℂ E]
+
+theorem Formalism.FourierDecayAlt.P5.qminorOp_smulC {t : ℕ}
+    {Eop : Fin n → Fin n → (Matrix (Fin n) (Fin n) ℂ → E) → (Matrix (Fin n) (Fin n) ℂ → E)}
+    (hE : ∀ a b, SmulC (Eop a b)) (a b : Fin t → Fin n) (u : ℂ) : SmulC (qminorOp Eop a b u) := by sorry

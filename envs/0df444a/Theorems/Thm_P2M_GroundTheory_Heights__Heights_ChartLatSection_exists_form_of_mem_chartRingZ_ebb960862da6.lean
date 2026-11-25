@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLatSection_exists_form_of_mem_chartRingZ_ebb960862da6
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLatSection_exists_form_of_mem_chartRingZ_ebb960862da6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:35.650388+00:00
 -- url     : https://prove2.me/theorems/212047a3-1df4-52f0-b062-01b270da36b5

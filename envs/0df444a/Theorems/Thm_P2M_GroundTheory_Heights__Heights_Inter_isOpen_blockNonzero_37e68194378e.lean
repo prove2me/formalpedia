@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isOpen_blockNonzero_37e68194378e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isOpen_blockNonzero_37e68194378e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:27:17.709826+00:00
 -- url     : https://prove2.me/theorems/609545f8-d46a-4fd8-84d5-dcfbf335ffb9

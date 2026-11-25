@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisConv_summable_embAll
 -- name    : GlobalTheory.SW.EisConv.summable_embAll
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:26:52.572483+00:00
 -- url     : https://prove2.me/theorems/772dba00-4f01-420d-9649-c7fdc67101e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConeSlice_continuous_sqLen
 -- name    : GlobalTheory.HCXi.ConeSlice.continuous_sqLen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:14:54.022054+00:00
 -- url     : https://prove2.me/theorems/d752d4db-1c8a-5c62-9aec-ed57d4df97d5

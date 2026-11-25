@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_isAlgebraic_int_977159973bad
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_isAlgebraic_int_977159973bad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:26.334705+00:00
 -- url     : https://prove2.me/theorems/f737bb16-f92c-4dd0-85d4-ca0330a1b66a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_module_finite_of_forall_isMaximal_5580b993f60a
 -- name    : P2M_GroundTheory_Heights__Heights_Model_module_finite_of_forall_isMaximal_5580b993f60a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:41.217627+00:00
 -- url     : https://prove2.me/theorems/74d8c22a-73e8-5439-9c65-329d52c9eab2

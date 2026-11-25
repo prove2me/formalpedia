@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_eventualValue_eq_zero_12cccfe72c95
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_eventualValue_eq_zero_12cccfe72c95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:49.204548+00:00
 -- url     : https://prove2.me/theorems/a7379203-a9e7-4482-bf23-98264161d6cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_exists_eq_smul_orbitRep_d4893c86613a
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_exists_eq_smul_orbitRep_d4893c86613a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:30:08.000138+00:00
 -- url     : https://prove2.me/theorems/a8fbe967-f1f8-4932-a261-c519d161083d

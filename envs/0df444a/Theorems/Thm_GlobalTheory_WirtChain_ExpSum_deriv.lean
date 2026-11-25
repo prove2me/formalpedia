@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WirtChain_ExpSum_deriv
 -- name    : GlobalTheory.WirtChain.ExpSum.deriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:55:57.159801+00:00
 -- url     : https://prove2.me/theorems/e46a44de-7819-469d-aacb-085b764b655d

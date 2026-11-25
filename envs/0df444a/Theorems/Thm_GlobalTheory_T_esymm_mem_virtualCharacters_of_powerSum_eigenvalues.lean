@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_esymm_mem_virtualCharacters_of_powerSum_eigenvalues
 -- name    : GlobalTheory.T.esymm_mem_virtualCharacters_of_powerSum_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:52:47.468517+00:00
 -- url     : https://prove2.me/theorems/561d6d42-5864-4e0f-b884-e8e89e094be9

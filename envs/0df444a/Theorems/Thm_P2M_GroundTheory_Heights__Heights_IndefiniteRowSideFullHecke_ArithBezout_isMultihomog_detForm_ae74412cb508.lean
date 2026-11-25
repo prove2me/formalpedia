@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_isMultihomog_detForm_ae74412cb508
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_isMultihomog_detForm_ae74412cb508
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:28.82127+00:00
 -- url     : https://prove2.me/theorems/a7024387-5f75-4084-b024-16ea65df63b3

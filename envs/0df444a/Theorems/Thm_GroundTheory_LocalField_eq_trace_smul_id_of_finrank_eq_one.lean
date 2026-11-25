@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_trace_smul_id_of_finrank_eq_one
 -- name    : GroundTheory.LocalField.eq_trace_smul_id_of_finrank_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:12.086503+00:00
 -- url     : https://prove2.me/theorems/4a93d777-711c-4cf1-86e9-f5a25604838d

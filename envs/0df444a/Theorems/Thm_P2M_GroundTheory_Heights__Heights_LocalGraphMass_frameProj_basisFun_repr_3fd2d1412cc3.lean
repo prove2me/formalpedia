@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalGraphMass_frameProj_basisFun_repr_3fd2d1412cc3
 -- name    : P2M_GroundTheory_Heights__Heights_LocalGraphMass_frameProj_basisFun_repr_3fd2d1412cc3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:21.616507+00:00
 -- url     : https://prove2.me/theorems/ea9cfbeb-dc89-4a4c-91ed-aea5a7bd0da9

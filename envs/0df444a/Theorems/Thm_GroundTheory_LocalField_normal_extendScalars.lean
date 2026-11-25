@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_normal_extendScalars
 -- name    : GroundTheory.LocalField.normal_extendScalars
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:56.306123+00:00
 -- url     : https://prove2.me/theorems/569177f7-0faf-467b-a0b5-a44b51ab655c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Pm_blkGL_glEquiv
 -- name    : GlobalTheory.CompanionTheory.TyFin.Pm.blkGL_glEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:19:34.973642+00:00
 -- url     : https://prove2.me/theorems/48e9bcdb-8d8b-45fb-bbe4-16a3a13a4af1

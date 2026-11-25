@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_yEval_eq_5a232bddc35c
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_yEval_eq_5a232bddc35c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:01.582905+00:00
 -- url     : https://prove2.me/theorems/8875f737-3488-41a8-8828-00be1347e7f1

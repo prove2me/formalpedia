@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KThetaConstants_log_lhs_83081ab9a686
 -- name    : P2M_GroundTheory_Heights__Heights_KThetaConstants_log_lhs_83081ab9a686
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:42.454798+00:00
 -- url     : https://prove2.me/theorems/c0ed46b1-b4d3-4dec-8fac-b22b08224920

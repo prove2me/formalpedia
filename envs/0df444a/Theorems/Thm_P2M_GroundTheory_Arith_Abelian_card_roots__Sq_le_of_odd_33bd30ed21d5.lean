@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_Abelian_card_roots__Sq_le_of_odd_33bd30ed21d5
 -- name    : P2M_GroundTheory_Arith_Abelian_card_roots__Sq_le_of_odd_33bd30ed21d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:29.995795+00:00
 -- url     : https://prove2.me/theorems/a11e8543-667b-59e9-99c9-fe3db2d7bf90

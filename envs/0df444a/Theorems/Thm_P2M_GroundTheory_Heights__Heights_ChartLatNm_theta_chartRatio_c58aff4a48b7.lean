@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLatNm_theta_chartRatio_c58aff4a48b7
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLatNm_theta_chartRatio_c58aff4a48b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:10.397822+00:00
 -- url     : https://prove2.me/theorems/7d2330ee-6586-4239-9a10-026bbd260586

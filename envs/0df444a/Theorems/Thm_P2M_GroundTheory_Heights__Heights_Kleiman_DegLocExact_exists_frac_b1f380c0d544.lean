@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DegLocExact_exists_frac_b1f380c0d544
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DegLocExact_exists_frac_b1f380c0d544
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:26:53.79753+00:00
 -- url     : https://prove2.me/theorems/6d0b068e-a541-4fcd-9580-5e0a17b4fe6a

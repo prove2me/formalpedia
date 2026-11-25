@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_hasDerivAt_eval_cons_14db9463b806
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_hasDerivAt_eval_cons_14db9463b806
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:48.024647+00:00
 -- url     : https://prove2.me/theorems/d571e9d4-4e7e-482e-b105-afb5d8a4464a

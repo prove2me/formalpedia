@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_not_lt_lt_of_mem_minimalPrimes__7de09ae16e16
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_not_lt_lt_of_mem_minimalPrimes__7de09ae16e16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:25:05.885203+00:00
 -- url     : https://prove2.me/theorems/93f95655-0ceb-4cfc-ad04-c9ffe69dad5a

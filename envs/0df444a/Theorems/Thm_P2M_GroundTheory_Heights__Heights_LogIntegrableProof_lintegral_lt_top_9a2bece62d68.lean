@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogIntegrableProof_lintegral_lt_top_9a2bece62d68
 -- name    : P2M_GroundTheory_Heights__Heights_LogIntegrableProof_lintegral_lt_top_9a2bece62d68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:28:13.561953+00:00
 -- url     : https://prove2.me/theorems/8cc3a710-b9fa-47f6-86c7-6590a46dc79d

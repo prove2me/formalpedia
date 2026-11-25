@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_exists_primitive_9418c28bff33
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_exists_primitive_9418c28bff33
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:45.000828+00:00
 -- url     : https://prove2.me/theorems/567503ac-5573-466e-933d-eba5cc82e4a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_toSub_comp_algebraMap_bed52a5ed15c
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_toSub_comp_algebraMap_bed52a5ed15c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:37.513716+00:00
 -- url     : https://prove2.me/theorems/9893739f-da91-482d-a838-bcd47548e5bb

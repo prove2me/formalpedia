@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_finrank_real_fin_complex_38f03af1dd53
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_finrank_real_fin_complex_38f03af1dd53
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:22:46.70198+00:00
 -- url     : https://prove2.me/theorems/7c726e35-e6e6-5dbe-a95d-a0fb627a5a21

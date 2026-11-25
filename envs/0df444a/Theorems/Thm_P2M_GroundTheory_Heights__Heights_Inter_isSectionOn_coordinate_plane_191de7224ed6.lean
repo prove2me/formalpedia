@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isSectionOn_coordinate_plane_191de7224ed6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isSectionOn_coordinate_plane_191de7224ed6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:34:38.085508+00:00
 -- url     : https://prove2.me/theorems/658a0ad1-4b16-5a87-a2a8-4429958831f0

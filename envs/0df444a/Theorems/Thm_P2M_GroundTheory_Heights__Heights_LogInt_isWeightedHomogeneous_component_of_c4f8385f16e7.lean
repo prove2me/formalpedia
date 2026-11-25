@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_isWeightedHomogeneous_component_of_c4f8385f16e7
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_isWeightedHomogeneous_component_of_c4f8385f16e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:29.581481+00:00
 -- url     : https://prove2.me/theorems/c3718b75-08b0-4149-b703-df7374fc0eee

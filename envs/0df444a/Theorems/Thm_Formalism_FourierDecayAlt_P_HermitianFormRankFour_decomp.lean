@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormRankFour_decomp
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormRankFour.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:10:19.698269+00:00
 -- url     : https://prove2.me/theorems/4a40b5f2-1260-46fe-84f6-05b752d6966e

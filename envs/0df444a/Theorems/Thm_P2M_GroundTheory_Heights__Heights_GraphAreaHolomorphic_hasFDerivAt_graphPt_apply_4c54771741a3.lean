@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GraphAreaHolomorphic_hasFDerivAt_graphPt_apply_4c54771741a3
 -- name    : P2M_GroundTheory_Heights__Heights_GraphAreaHolomorphic_hasFDerivAt_graphPt_apply_4c54771741a3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:43.637136+00:00
 -- url     : https://prove2.me/theorems/bcc285a5-90e4-554d-8d71-42c550b9fc7c

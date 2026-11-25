@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_levi_add_sum_d4ff2f3317d8
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_levi_add_sum_d4ff2f3317d8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:24:28.512323+00:00
 -- url     : https://prove2.me/theorems/32175835-f372-43b7-a6a2-1a548fbf6dc4

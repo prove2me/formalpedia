@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_injective_of_rank_3ea88de2b0c7
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_injective_of_rank_3ea88de2b0c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:43.645429+00:00
 -- url     : https://prove2.me/theorems/5469fac1-cef4-4e6d-940c-dabd8de17cf4

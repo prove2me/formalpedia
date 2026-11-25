@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_zeroSet_sup_span_be5eee703857
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_zeroSet_sup_span_be5eee703857
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:01.950266+00:00
 -- url     : https://prove2.me/theorems/e19d9cf3-e141-513e-bf1b-51faeb3fa85b

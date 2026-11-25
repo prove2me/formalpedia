@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_weierstrass_uniformisation
 -- name    : GlobalTheory.weierstrass_uniformisation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:10:02.867349+00:00
 -- url     : https://prove2.me/theorems/7c83ebd8-9ccb-4400-851e-5d72f1e176c2

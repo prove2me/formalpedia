@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_dot_lift
 -- name    : PI.QnLevBasicsW.dot_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:43.356521+00:00
 -- url     : https://prove2.me/theorems/87efcb09-2f11-4f7b-96bd-f735f13b7bd9

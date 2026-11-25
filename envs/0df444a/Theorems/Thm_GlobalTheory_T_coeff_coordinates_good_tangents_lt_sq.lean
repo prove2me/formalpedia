@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coeff_coordinates_good_tangents_lt_sq
 -- name    : GlobalTheory.T.coeff_coordinates_good_tangents_lt_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:01:40.02837+00:00
 -- url     : https://prove2.me/theorems/d6bbd43f-e4f2-4a6d-b634-0ad639799579

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesIdealStdIndex_idealLattice_toAddSubgroup_d2db4e91f501
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesIdealStdIndex_idealLattice_toAddSubgroup_d2db4e91f501
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:54.915731+00:00
 -- url     : https://prove2.me/theorems/45e0caf3-9977-439e-8f2d-fc4941088cd4

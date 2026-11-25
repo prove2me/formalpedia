@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_Y_transpose_d3179c735349
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_Y_transpose_d3179c735349
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:42.345586+00:00
 -- url     : https://prove2.me/theorems/733941db-d4da-4cab-8a0f-620cab9706c3

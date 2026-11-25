@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_cechHc_one_subsingleton_0d6516e3ebc0
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_cechHc_one_subsingleton_0d6516e3ebc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:22.184083+00:00
 -- url     : https://prove2.me/theorems/dd26a24d-35ff-4679-976c-0a444a77c067

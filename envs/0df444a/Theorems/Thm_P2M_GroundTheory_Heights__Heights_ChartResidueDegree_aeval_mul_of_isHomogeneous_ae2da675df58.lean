@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartResidueDegree_aeval_mul_of_isHomogeneous_ae2da675df58
 -- name    : P2M_GroundTheory_Heights__Heights_ChartResidueDegree_aeval_mul_of_isHomogeneous_ae2da675df58
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:58.22092+00:00
 -- url     : https://prove2.me/theorems/b5cc8acb-5836-4b4e-a296-bac793784fc9

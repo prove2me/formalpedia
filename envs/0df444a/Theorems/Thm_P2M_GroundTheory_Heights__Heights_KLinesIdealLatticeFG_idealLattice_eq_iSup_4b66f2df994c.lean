@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesIdealLatticeFG_idealLattice_eq_iSup_4b66f2df994c
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesIdealLatticeFG_idealLattice_eq_iSup_4b66f2df994c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:32.62684+00:00
 -- url     : https://prove2.me/theorems/1f5d1bf1-a164-4697-a772-c8cc66cd5610

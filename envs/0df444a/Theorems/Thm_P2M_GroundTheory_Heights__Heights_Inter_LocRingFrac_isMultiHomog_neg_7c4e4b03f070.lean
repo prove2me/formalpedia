@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_LocRingFrac_isMultiHomog_neg_7c4e4b03f070
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_LocRingFrac_isMultiHomog_neg_7c4e4b03f070
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:07.87416+00:00
 -- url     : https://prove2.me/theorems/104bacdc-6b63-4daa-b447-3f3e3ac7161b

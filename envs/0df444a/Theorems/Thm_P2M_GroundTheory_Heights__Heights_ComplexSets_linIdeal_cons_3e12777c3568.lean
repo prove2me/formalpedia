@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_linIdeal_cons_3e12777c3568
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_linIdeal_cons_3e12777c3568
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:16:35.310396+00:00
 -- url     : https://prove2.me/theorems/c74b4306-3974-4206-9c7c-a853939ce147

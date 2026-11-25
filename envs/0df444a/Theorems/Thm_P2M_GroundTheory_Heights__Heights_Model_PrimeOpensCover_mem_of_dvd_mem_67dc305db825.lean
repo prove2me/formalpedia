@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_PrimeOpensCover_mem_of_dvd_mem_67dc305db825
 -- name    : P2M_GroundTheory_Heights__Heights_Model_PrimeOpensCover_mem_of_dvd_mem_67dc305db825
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:30:06.876503+00:00
 -- url     : https://prove2.me/theorems/16eb41d3-70be-49d5-bccb-3114b1499094

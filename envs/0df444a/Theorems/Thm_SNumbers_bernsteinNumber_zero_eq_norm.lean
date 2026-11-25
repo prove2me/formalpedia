@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_zero_eq_norm
 -- name    : SNumbers.bernsteinNumber_zero_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:48:18.016008+00:00
 -- url     : https://prove2.me/theorems/ea47e8a4-9593-4533-84bc-f95662e24603

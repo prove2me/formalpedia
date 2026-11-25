@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_twist_hyps_bc69208ec540
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_twist_hyps_bc69208ec540
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:31:09.534805+00:00
 -- url     : https://prove2.me/theorems/ac13ff29-7a83-4d5a-94ed-054f2ddb7fcc

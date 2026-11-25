@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_slopes_of_places
 -- name    : Formalism.LFunctionChainParameters.LChain2.slopes_of_places
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:00:02.378286+00:00
 -- url     : https://prove2.me/theorems/449c9a54-e5a2-5d52-ac02-55beea9cd8cb

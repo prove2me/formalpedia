@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_LineDegreeBundle_cardQuot_span_singleton_4f89c053a314
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_LineDegreeBundle_cardQuot_span_singleton_4f89c053a314
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:20:05.852907+00:00
 -- url     : https://prove2.me/theorems/09b0fb7c-abb9-4363-a597-76d3d8eb7bdf

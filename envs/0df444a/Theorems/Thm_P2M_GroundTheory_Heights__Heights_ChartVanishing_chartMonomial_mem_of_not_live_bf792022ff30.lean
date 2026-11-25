@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartVanishing_chartMonomial_mem_of_not_live_bf792022ff30
 -- name    : P2M_GroundTheory_Heights__Heights_ChartVanishing_chartMonomial_mem_of_not_live_bf792022ff30
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:45.882408+00:00
 -- url     : https://prove2.me/theorems/8be0159a-dd3f-5af1-a839-3eca7f987076

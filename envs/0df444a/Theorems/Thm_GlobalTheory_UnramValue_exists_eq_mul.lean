@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramValue_exists_eq_mul
 -- name    : GlobalTheory.UnramValue.exists_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:59.729787+00:00
 -- url     : https://prove2.me/theorems/56d63930-845f-41ee-99c1-c33507762763

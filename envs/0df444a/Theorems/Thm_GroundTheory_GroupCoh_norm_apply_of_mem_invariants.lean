@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_norm_apply_of_mem_invariants
 -- name    : GroundTheory.GroupCoh.norm_apply_of_mem_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:10.479783+00:00
 -- url     : https://prove2.me/theorems/791e435d-a19a-488f-87f2-de816fd382aa

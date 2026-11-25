@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_two_mul_le_add_div_264c0a734aca
 -- name    : P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_two_mul_le_add_div_264c0a734aca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:41.126926+00:00
 -- url     : https://prove2.me/theorems/d872a6a1-1ca1-535a-94b2-5dd74de83de4

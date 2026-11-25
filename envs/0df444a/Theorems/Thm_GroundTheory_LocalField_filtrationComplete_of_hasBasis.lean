@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_filtrationComplete_of_hasBasis
 -- name    : GroundTheory.LocalField.filtrationComplete_of_hasBasis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:44:22.075277+00:00
 -- url     : https://prove2.me/theorems/ce41f865-4f83-4fd7-8ab1-59cabdf58039

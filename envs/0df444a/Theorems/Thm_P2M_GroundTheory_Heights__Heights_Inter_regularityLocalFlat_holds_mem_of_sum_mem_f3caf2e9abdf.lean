@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_mem_of_sum_mem_f3caf2e9abdf
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_mem_of_sum_mem_f3caf2e9abdf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:29.666491+00:00
 -- url     : https://prove2.me/theorems/b042d38b-2956-4239-b842-b5d7188e0ddb

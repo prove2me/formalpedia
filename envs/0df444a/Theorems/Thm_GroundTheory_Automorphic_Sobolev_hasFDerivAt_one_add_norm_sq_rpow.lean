@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_hasFDerivAt_one_add_norm_sq_rpow
 -- name    : GroundTheory.Automorphic.Sobolev.hasFDerivAt_one_add_norm_sq_rpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:13:47.869608+00:00
 -- url     : https://prove2.me/theorems/d025fcac-8ab2-42fd-a6e5-42a41211793f

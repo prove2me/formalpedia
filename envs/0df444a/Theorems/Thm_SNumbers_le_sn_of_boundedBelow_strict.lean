@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_le_sn_of_boundedBelow_strict
 -- name    : SNumbers.le_sn_of_boundedBelow_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:12:12.565213+00:00
 -- url     : https://prove2.me/theorems/2b419e05-794a-463b-98dc-1dcda8848d71

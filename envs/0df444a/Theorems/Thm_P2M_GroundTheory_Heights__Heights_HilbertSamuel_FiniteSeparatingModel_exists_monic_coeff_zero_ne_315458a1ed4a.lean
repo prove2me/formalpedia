@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiniteSeparatingModel_exists_monic_coeff_zero_ne_315458a1ed4a
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiniteSeparatingModel_exists_monic_coeff_zero_ne_315458a1ed4a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:00.219719+00:00
 -- url     : https://prove2.me/theorems/fe63be05-8d2f-43e9-b103-3736dc02e60c

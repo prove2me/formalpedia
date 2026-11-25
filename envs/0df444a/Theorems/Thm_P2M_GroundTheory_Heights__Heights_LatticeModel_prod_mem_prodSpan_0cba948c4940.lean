@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_prod_mem_prodSpan_0cba948c4940
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_prod_mem_prodSpan_0cba948c4940
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:25.329982+00:00
 -- url     : https://prove2.me/theorems/c87184e2-8ab1-43eb-86b2-da3ad529b779

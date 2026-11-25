@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticePointCount_volume_fundamentalDomain_eq_9e5c19851b44
 -- name    : P2M_GroundTheory_Heights__Heights_LatticePointCount_volume_fundamentalDomain_eq_9e5c19851b44
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:37.109498+00:00
 -- url     : https://prove2.me/theorems/12ff780a-102f-49c5-9eea-d22d4a8842c8

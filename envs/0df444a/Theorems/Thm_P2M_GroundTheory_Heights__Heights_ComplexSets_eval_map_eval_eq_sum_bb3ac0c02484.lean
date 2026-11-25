@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_eval_map_eval_eq_sum_bb3ac0c02484
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_eval_map_eval_eq_sum_bb3ac0c02484
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:54.905799+00:00
 -- url     : https://prove2.me/theorems/a03e8565-0dc7-5226-ab45-4b44711fa5e8

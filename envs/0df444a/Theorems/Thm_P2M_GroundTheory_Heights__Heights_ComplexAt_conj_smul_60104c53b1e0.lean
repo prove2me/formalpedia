@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexAt_conj_smul_60104c53b1e0
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexAt_conj_smul_60104c53b1e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:56.882803+00:00
 -- url     : https://prove2.me/theorems/a402a97e-bab0-5fee-930c-07a052f9dd56

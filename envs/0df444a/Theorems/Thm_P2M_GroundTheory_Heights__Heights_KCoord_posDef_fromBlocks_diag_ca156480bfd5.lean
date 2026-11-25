@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KCoord_posDef_fromBlocks_diag_ca156480bfd5
 -- name    : P2M_GroundTheory_Heights__Heights_KCoord_posDef_fromBlocks_diag_ca156480bfd5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:24.549508+00:00
 -- url     : https://prove2.me/theorems/d2735d16-a0e3-4ae8-911f-ac13afd69a6f

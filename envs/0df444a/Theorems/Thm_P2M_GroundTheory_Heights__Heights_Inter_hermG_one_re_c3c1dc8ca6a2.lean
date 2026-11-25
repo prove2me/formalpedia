@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_hermG_one_re_c3c1dc8ca6a2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_hermG_one_re_c3c1dc8ca6a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:23:15.218643+00:00
 -- url     : https://prove2.me/theorems/4e8814f5-dd32-44ea-ae29-5998012e4ef3

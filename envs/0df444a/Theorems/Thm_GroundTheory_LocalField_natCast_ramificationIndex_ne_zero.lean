@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_natCast_ramificationIndex_ne_zero
 -- name    : GroundTheory.LocalField.natCast_ramificationIndex_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:15:07.865863+00:00
 -- url     : https://prove2.me/theorems/61c03560-ec22-5229-9f29-7fc82c23f1d4

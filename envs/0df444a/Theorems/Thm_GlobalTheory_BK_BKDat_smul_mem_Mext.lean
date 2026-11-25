@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_BKDat_smul_mem_Mext
 -- name    : GlobalTheory.BK.BKDat.smul_mem_Mext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:41:26.969475+00:00
 -- url     : https://prove2.me/theorems/12d85ea3-1e4e-4d9e-92e6-43b14bc77211

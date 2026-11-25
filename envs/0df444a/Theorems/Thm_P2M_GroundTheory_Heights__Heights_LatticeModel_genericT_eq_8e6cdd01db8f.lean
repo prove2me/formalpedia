@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_genericT_eq_8e6cdd01db8f
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_genericT_eq_8e6cdd01db8f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:28:57.9378+00:00
 -- url     : https://prove2.me/theorems/4fda80cc-59c1-4cf6-afb4-8083c03e53af

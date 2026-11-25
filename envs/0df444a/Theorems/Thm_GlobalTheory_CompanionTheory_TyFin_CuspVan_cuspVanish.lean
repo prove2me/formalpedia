@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_CuspVan_cuspVanish
 -- name    : GlobalTheory.CompanionTheory.TyFin.CuspVan.cuspVanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:17:35.471032+00:00
 -- url     : https://prove2.me/theorems/aaa54dbe-bfc6-484f-add8-7203b5ba4997

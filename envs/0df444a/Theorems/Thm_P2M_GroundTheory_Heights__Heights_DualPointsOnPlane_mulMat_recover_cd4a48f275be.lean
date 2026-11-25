@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualPointsOnPlane_mulMat_recover_cd4a48f275be
 -- name    : P2M_GroundTheory_Heights__Heights_DualPointsOnPlane_mulMat_recover_cd4a48f275be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:17.159172+00:00
 -- url     : https://prove2.me/theorems/617df17d-8528-4a14-9300-251ce69e9e0b

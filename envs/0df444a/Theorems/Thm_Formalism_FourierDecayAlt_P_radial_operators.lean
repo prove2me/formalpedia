@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_radial_operators
 -- name    : Formalism.FourierDecayAlt.P.radial_operators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:48:02.534001+00:00
 -- url     : https://prove2.me/theorems/f4127295-9393-4840-9b76-c9b31976653c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_linearIndependent_alt_363dd652fbe0
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_linearIndependent_alt_363dd652fbe0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:17.91005+00:00
 -- url     : https://prove2.me/theorems/ffc3e64b-781a-5c77-afd3-5574c3291939

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagPull_exists_line_prop_543201ba58eb
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagPull_exists_line_prop_543201ba58eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:23:39.46883+00:00
 -- url     : https://prove2.me/theorems/2dcf7c0c-5108-4801-b5d4-8e364cc712cb

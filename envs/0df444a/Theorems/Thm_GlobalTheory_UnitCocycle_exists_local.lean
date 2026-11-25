@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCocycle_exists_local
 -- name    : GlobalTheory.UnitCocycle.exists_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:25:23.15636+00:00
 -- url     : https://prove2.me/theorems/3b31e371-48d0-46ad-a9f4-dbbc51139bb3

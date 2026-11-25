@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HeisenbergLevelMinors_heisLev_mid
 -- name    : Formalism.FourierDecayAlt.P.HeisenbergLevelMinors.heisLev_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:46:13.182209+00:00
 -- url     : https://prove2.me/theorems/65f09e06-718b-4bd7-8389-d4b5fbd3b52d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_ne_zero_smul_mem_of_span_eq_top_cc22f24e7b75
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_ne_zero_smul_mem_of_span_eq_top_cc22f24e7b75
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:30:29.528396+00:00
 -- url     : https://prove2.me/theorems/13c4cf5d-14ef-4931-9733-954bc7571078

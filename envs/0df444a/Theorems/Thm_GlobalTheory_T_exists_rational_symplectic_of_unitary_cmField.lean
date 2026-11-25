@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_rational_symplectic_of_unitary_cmField
 -- name    : GlobalTheory.T.exists_rational_symplectic_of_unitary_cmField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:38:53.731205+00:00
 -- url     : https://prove2.me/theorems/d7cd584e-09e2-4b01-8846-1dbd0ee10eb4

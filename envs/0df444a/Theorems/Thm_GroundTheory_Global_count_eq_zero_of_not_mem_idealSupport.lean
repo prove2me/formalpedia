@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_count_eq_zero_of_not_mem_idealSupport
 -- name    : GroundTheory.Global.count_eq_zero_of_not_mem_idealSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:15:17.483953+00:00
 -- url     : https://prove2.me/theorems/d03d42b8-fafc-470f-9dae-2b1d56de1c3b

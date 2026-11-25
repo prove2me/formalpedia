@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SumCp_hypotheses_inhabited_4ffa720a0d9f
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SumCp_hypotheses_inhabited_4ffa720a0d9f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:31:17.730542+00:00
 -- url     : https://prove2.me/theorems/53a3b845-3cf4-4ee7-a053-be311ef2ea06

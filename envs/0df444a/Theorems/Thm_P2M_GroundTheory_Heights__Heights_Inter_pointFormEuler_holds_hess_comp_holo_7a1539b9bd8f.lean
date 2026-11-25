@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_hess_comp_holo_7a1539b9bd8f
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_hess_comp_holo_7a1539b9bd8f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:51.165783+00:00
 -- url     : https://prove2.me/theorems/eaf8801c-bbdb-5c9a-89f3-a03bde321b94

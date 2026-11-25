@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_L2Linf_bernsteinNumber_idEmbed_two_infty_le
 -- name    : SNumbers.L2Linf.bernsteinNumber_idEmbed_two_infty_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:43:06.254187+00:00
 -- url     : https://prove2.me/theorems/242d73e9-f7a9-49e3-bfb5-dd459c9ad435

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_twistScalar_zero
 -- name    : GroundTheory.PAdicHodge.twistScalar_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:13.171154+00:00
 -- url     : https://prove2.me/theorems/2d5d1113-b0a6-52ac-bf22-752d5e2bffad

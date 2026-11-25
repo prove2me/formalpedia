@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KernelProjMeasurable_mul_norm_le_norm_shifted_939dcb386ee8
 -- name    : P2M_GroundTheory_Heights__Heights_KernelProjMeasurable_mul_norm_le_norm_shifted_939dcb386ee8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:27:13.847078+00:00
 -- url     : https://prove2.me/theorems/d213fbe7-41f2-49cb-bc29-362bebc24a51

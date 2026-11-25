@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_exists_nat_mul_mem_09250f2c5a61
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_exists_nat_mul_mem_09250f2c5a61
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:19:00.194239+00:00
 -- url     : https://prove2.me/theorems/f4a419f0-9718-41b5-9514-c6c0afb302b0

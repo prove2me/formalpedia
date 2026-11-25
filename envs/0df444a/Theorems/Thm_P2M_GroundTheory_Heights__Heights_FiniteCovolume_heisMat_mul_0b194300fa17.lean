@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_heisMat_mul_0b194300fa17
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_heisMat_mul_0b194300fa17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:37.826597+00:00
 -- url     : https://prove2.me/theorems/2351d472-0e63-44b5-b4a6-f00a02a33f36

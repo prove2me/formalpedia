@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_fourierInv_smulLeft_fourier_apply
 -- name    : GroundTheory.Automorphic.Sobolev.fourierInv_smulLeft_fourier_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:13:37.766379+00:00
 -- url     : https://prove2.me/theorems/304ec796-7c9f-4e74-9e74-fbf890be774a

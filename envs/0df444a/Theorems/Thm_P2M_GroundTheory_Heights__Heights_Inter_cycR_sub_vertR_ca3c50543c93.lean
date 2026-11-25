@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_cycR_sub_vertR_ca3c50543c93
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_cycR_sub_vertR_ca3c50543c93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:24:38.728969+00:00
 -- url     : https://prove2.me/theorems/2ea80e31-a12e-4765-86e8-ebd20e8a99a3

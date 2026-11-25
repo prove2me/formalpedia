@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLatNm_mkF_eq_theta_db33ba30db37
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLatNm_mkF_eq_theta_db33ba30db37
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:33.313399+00:00
 -- url     : https://prove2.me/theorems/b936977c-ca17-480b-83a9-a75f6488de9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeFibreDegree_fibreCount_eq_a532f67c3e3e
 -- name    : P2M_GroundTheory_Heights__Heights_ConeFibreDegree_fibreCount_eq_a532f67c3e3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:11.514117+00:00
 -- url     : https://prove2.me/theorems/9884c562-4296-5a2b-a7fb-24805f7346ba

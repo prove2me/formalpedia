@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_revHom_naturality
 -- name    : GroundTheory.GroupCoh.revHom_naturality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:32.031854+00:00
 -- url     : https://prove2.me/theorems/af6e68ff-f4c6-45d2-a06b-8599d286c1b1

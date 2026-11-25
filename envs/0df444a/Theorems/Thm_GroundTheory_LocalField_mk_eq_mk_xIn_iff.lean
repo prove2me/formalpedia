@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mk_eq_mk_xIn_iff
 -- name    : GroundTheory.LocalField.mk_eq_mk_xIn_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:54.159937+00:00
 -- url     : https://prove2.me/theorems/ca2e9332-9d1a-41c4-9070-09b16ce5493b

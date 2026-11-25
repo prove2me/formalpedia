@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isScalarTower_residueField
 -- name    : GroundTheory.LocalField.isScalarTower_residueField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:15:13.241947+00:00
 -- url     : https://prove2.me/theorems/0c651b53-305f-4781-835e-08318524e4e6

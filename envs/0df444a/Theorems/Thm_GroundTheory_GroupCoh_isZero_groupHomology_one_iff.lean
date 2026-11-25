@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_isZero_groupHomology_one_iff
 -- name    : GroundTheory.GroupCoh.isZero_groupHomology_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:21.646452+00:00
 -- url     : https://prove2.me/theorems/32db773e-eade-57cc-abba-82cd4b1537c6

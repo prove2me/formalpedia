@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KShort_norm_lt_of_mem_cube_d47b19df4675
 -- name    : P2M_GroundTheory_Heights__Heights_KShort_norm_lt_of_mem_cube_d47b19df4675
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:11.254742+00:00
 -- url     : https://prove2.me/theorems/00099c27-bb4f-4a6f-aa43-86a6318e3e77

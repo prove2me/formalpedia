@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WrongSignGauss_vanish
 -- name    : GlobalTheory.WrongSignGauss.vanish
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:57:46.808779+00:00
 -- url     : https://prove2.me/theorems/e6aeba0e-f22f-4407-9b2d-f207b9fc409c

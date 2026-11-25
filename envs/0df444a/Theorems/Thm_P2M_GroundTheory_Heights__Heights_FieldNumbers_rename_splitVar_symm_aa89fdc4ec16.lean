@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_rename_splitVar_symm_aa89fdc4ec16
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_rename_splitVar_symm_aa89fdc4ec16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:58.242489+00:00
 -- url     : https://prove2.me/theorems/dd0ad10c-0b3d-4dbe-80fc-80f27b789a47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertRecip_sq_mem_sqr
 -- name    : GlobalTheory.HilbertRecip.sq_mem_sqr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:16:23.527492+00:00
 -- url     : https://prove2.me/theorems/1e836718-6b1e-4e37-b97b-cbe3c9c6e4be

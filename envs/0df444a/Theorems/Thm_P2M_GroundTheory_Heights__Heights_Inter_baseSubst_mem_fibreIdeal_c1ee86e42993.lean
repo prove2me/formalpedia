@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_baseSubst_mem_fibreIdeal_c1ee86e42993
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_baseSubst_mem_fibreIdeal_c1ee86e42993
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:33:48.693284+00:00
 -- url     : https://prove2.me/theorems/2c9255d9-cad4-57eb-9344-9c6435e2659f

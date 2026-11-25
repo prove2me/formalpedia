@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceSum_finsum_le_sum_primes
 -- name    : GlobalTheory.PlaceSum.finsum_le_sum_primes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:49:57.417638+00:00
 -- url     : https://prove2.me/theorems/81754cf8-c6eb-4725-a40c-9bc5d6696f8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_indFun_comp_subtype_eq_sum
 -- name    : GroundTheory.Global.Artin.indFun_comp_subtype_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:13:32.513914+00:00
 -- url     : https://prove2.me/theorems/66b95ec9-b4af-509a-8ed0-ba370ad654ec

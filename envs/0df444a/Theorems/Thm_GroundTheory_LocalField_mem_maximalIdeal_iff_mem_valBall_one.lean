@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_maximalIdeal_iff_mem_valBall_one
 -- name    : GroundTheory.LocalField.mem_maximalIdeal_iff_mem_valBall_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:33:49.446375+00:00
 -- url     : https://prove2.me/theorems/c44d5bad-6555-4256-8fd3-9e2f1fb1a239

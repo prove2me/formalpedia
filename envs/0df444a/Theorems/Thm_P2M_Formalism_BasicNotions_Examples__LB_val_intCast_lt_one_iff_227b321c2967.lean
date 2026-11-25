@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_val_intCast_lt_one_iff_227b321c2967
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_val_intCast_lt_one_iff_227b321c2967
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:44.771991+00:00
 -- url     : https://prove2.me/theorems/447b1459-8837-4dde-8452-e11dbe286ad1

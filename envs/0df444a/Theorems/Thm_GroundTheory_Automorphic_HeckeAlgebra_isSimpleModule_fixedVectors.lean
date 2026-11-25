@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_isSimpleModule_fixedVectors
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.isSimpleModule_fixedVectors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:44:46.074663+00:00
 -- url     : https://prove2.me/theorems/4420c770-598b-419b-842e-370477e7ad82

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_BallSum_exists_mem_boxSet
 -- name    : Formalism.HermitianLattices.Ext.L3.BallSum.exists_mem_boxSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:58:12.707251+00:00
 -- url     : https://prove2.me/theorems/432ca73d-88d3-52aa-bfd4-b37e2c87d0c3

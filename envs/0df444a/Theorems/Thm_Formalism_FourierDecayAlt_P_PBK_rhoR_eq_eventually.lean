@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_rhoR_eq_eventually
 -- name    : Formalism.FourierDecayAlt.P.PBK.rhoR_eq_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:53:43.397882+00:00
 -- url     : https://prove2.me/theorems/f4732285-f3d7-4f1f-83c9-85edaedd8e3d

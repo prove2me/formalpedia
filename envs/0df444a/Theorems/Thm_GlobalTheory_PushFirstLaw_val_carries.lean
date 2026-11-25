@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushFirstLaw_val_carries
 -- name    : GlobalTheory.PushFirstLaw.val_carries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:50:44.683268+00:00
 -- url     : https://prove2.me/theorems/d50e2e8a-2952-53a5-941b-5f42ba750eb8

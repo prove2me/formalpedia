@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_SerreGraded_coeff_mem_afe1aca3377d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_SerreGraded_coeff_mem_afe1aca3377d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:34.861318+00:00
 -- url     : https://prove2.me/theorems/90ec30fc-5dd2-48e6-8c82-c984d01fbaf3

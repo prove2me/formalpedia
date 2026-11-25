@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_flagIdealOver_isPrime_1a971e341cc7
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_flagIdealOver_isPrime_1a971e341cc7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:29:44.315191+00:00
 -- url     : https://prove2.me/theorems/7faafb8c-aa3b-4375-8b8f-732b2285e390

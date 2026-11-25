@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_isSmoothHerm_of_isPullHerm__2060c364192b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_isSmoothHerm_of_isPullHerm__2060c364192b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:33:14.815338+00:00
 -- url     : https://prove2.me/theorems/eda76314-8fe4-51d6-a900-cd6879f4948f

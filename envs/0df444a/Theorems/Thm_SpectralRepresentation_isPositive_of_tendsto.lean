@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpectralRepresentation_isPositive_of_tendsto
 -- name    : SpectralRepresentation.isPositive_of_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:14:01.849016+00:00
 -- url     : https://prove2.me/theorems/3ae80bff-6393-5b93-b9b7-4360b9d96b63

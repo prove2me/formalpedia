@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_schwartzBruhat_rationalCoords_integral_proportional
 -- name    : GlobalTheory.T.schwartzBruhat_rationalCoords_integral_proportional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:57:34.360789+00:00
 -- url     : https://prove2.me/theorems/372adb0d-4603-4255-8df2-bdcb766a9968

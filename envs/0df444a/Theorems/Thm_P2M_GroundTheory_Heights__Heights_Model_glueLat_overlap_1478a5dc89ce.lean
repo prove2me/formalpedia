@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_glueLat_overlap_1478a5dc89ce
 -- name    : P2M_GroundTheory_Heights__Heights_Model_glueLat_overlap_1478a5dc89ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:44:23.806127+00:00
 -- url     : https://prove2.me/theorems/ac9b1394-09fa-5da9-938c-7b029bcc88f3

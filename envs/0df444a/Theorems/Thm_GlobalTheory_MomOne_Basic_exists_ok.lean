@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MomOne_Basic_exists_ok
 -- name    : GlobalTheory.MomOne.Basic.exists_ok
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:55:45.330982+00:00
 -- url     : https://prove2.me/theorems/170959c2-fec7-4f03-86a5-c7f847c96f5e

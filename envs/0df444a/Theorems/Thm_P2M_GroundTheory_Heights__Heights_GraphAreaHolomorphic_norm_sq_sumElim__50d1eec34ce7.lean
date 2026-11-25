@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GraphAreaHolomorphic_norm_sq_sumElim__50d1eec34ce7
 -- name    : P2M_GroundTheory_Heights__Heights_GraphAreaHolomorphic_norm_sq_sumElim__50d1eec34ce7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:34.984075+00:00
 -- url     : https://prove2.me/theorems/e2ce675c-b67b-4c6b-8a08-022ae2f72a35

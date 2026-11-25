@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_tops_choice_part_a
 -- name    : Formalism.G0.tops_choice_part_a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:13:10.096996+00:00
 -- url     : https://prove2.me/theorems/7d25c584-1600-4e65-a47e-cd1fc93055a7

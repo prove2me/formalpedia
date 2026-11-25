@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_exists_ringHom_of_root_e8ffa89b6ad9
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConstantsDescend_exists_ringHom_of_root_e8ffa89b6ad9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:50.189732+00:00
 -- url     : https://prove2.me/theorems/752ce862-b930-4cd5-a03d-ff36c6d3ab31

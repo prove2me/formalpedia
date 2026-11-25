@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_heckeAct_contragredient_apply
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.heckeAct_contragredient_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:57:15.463979+00:00
 -- url     : https://prove2.me/theorems/6260c6d2-3435-4a46-9a70-4de6d6259ef3

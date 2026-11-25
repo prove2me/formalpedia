@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isClassFun_of_mem_spanA
 -- name    : GroundTheory.LocalField.isClassFun_of_mem_spanA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:56:04.984971+00:00
 -- url     : https://prove2.me/theorems/fb53eb1d-1bf0-4636-99f3-689b0f5a9eb0

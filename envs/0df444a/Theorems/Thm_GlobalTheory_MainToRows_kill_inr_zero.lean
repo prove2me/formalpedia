@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainToRows_kill_inr_zero
 -- name    : GlobalTheory.MainToRows.kill_inr_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:06:34.76316+00:00
 -- url     : https://prove2.me/theorems/0166a587-bf38-4b00-a230-24654a93decc

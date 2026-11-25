@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Nef_InfScale_rescale_C__71b0224c35f6
 -- name    : P2M_GlobalTheory_Nef_InfScale_rescale_C__71b0224c35f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:16.719107+00:00
 -- url     : https://prove2.me/theorems/d213f2ca-4ae3-5ba9-959c-a04814b1d9f4

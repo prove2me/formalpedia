@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_CohTrivial_of_iso
 -- name    : GroundTheory.GroupCoh.CohTrivial.of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:18:29.920156+00:00
 -- url     : https://prove2.me/theorems/b3231719-5ef5-4ea5-a6f7-84c4c543c989

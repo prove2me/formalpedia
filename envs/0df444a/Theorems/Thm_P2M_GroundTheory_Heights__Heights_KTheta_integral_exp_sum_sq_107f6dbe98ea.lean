@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KTheta_integral_exp_sum_sq_107f6dbe98ea
 -- name    : P2M_GroundTheory_Heights__Heights_KTheta_integral_exp_sum_sq_107f6dbe98ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:26:28.673816+00:00
 -- url     : https://prove2.me/theorems/77c24143-d81e-4156-a6a5-067831029d6e

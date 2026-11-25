@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisSiegel_det_growth
 -- name    : GlobalTheory.SW.EisSiegel.det_growth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:51:50.755424+00:00
 -- url     : https://prove2.me/theorems/5510bde6-4961-5369-aee5-dff002b8a679

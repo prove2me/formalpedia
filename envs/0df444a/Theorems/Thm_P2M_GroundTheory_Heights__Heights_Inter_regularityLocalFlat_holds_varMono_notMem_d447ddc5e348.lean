@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_varMono_notMem_d447ddc5e348
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_varMono_notMem_d447ddc5e348
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:36.09995+00:00
 -- url     : https://prove2.me/theorems/b2a12070-c270-42da-bf94-d94d336ef090

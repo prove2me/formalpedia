@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pointFormRank_holds_exists_surj_coords_daf28fd29804
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pointFormRank_holds_exists_surj_coords_daf28fd29804
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:59.846331+00:00
 -- url     : https://prove2.me/theorems/9f9ff078-1e7a-4d2b-a1de-7ed53ac82008

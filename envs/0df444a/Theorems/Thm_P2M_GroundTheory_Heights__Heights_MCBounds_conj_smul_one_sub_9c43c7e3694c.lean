@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_conj_smul_one_sub_9c43c7e3694c
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_conj_smul_one_sub_9c43c7e3694c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:38.939125+00:00
 -- url     : https://prove2.me/theorems/609273ad-f8e9-4e32-a672-e3238759b6f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_monicOf_injective_4015bdca9fef
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_monicOf_injective_4015bdca9fef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:19:09.68154+00:00
 -- url     : https://prove2.me/theorems/e72b6cec-bd3a-4416-bff7-36b1611c964f

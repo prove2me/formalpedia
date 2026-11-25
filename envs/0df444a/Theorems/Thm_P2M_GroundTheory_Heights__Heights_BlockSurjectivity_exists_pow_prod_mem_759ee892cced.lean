@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockSurjectivity_exists_pow_prod_mem_759ee892cced
 -- name    : P2M_GroundTheory_Heights__Heights_BlockSurjectivity_exists_pow_prod_mem_759ee892cced
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:17:20.186333+00:00
 -- url     : https://prove2.me/theorems/81ed4db6-80ff-4a57-8fa1-e7d61127c03f

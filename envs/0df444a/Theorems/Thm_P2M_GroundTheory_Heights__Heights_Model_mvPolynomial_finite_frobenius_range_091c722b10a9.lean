@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_mvPolynomial_finite_frobenius_range_091c722b10a9
 -- name    : P2M_GroundTheory_Heights__Heights_Model_mvPolynomial_finite_frobenius_range_091c722b10a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:55.921668+00:00
 -- url     : https://prove2.me/theorems/d85973a5-d0c3-4ab2-a608-ba6cf7860ad6

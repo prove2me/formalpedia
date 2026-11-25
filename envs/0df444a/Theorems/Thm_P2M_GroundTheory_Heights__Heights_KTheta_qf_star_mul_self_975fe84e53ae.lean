@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KTheta_qf_star_mul_self_975fe84e53ae
 -- name    : P2M_GroundTheory_Heights__Heights_KTheta_qf_star_mul_self_975fe84e53ae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:26:42.166749+00:00
 -- url     : https://prove2.me/theorems/d8e4aaaf-ded3-4540-8f3a-62913dafe0f3

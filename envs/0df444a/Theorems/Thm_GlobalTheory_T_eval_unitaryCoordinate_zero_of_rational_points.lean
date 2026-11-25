@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eval_unitaryCoordinate_zero_of_rational_points
 -- name    : GlobalTheory.T.eval_unitaryCoordinate_zero_of_rational_points
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:32:46.562803+00:00
 -- url     : https://prove2.me/theorems/5752e08e-43aa-4781-9825-6e6aa07ca33d

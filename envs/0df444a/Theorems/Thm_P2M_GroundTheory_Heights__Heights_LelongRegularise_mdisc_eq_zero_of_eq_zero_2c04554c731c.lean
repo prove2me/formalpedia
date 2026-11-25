@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LelongRegularise_mdisc_eq_zero_of_eq_zero_2c04554c731c
 -- name    : P2M_GroundTheory_Heights__Heights_LelongRegularise_mdisc_eq_zero_of_eq_zero_2c04554c731c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:27:57.96215+00:00
 -- url     : https://prove2.me/theorems/3da0edf1-5e5f-490c-8318-31cdbf9de874

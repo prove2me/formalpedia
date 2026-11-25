@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_norm_mul_self_le_sum_96ee2cbc5748
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_TorusInvariantLevi_norm_mul_self_le_sum_96ee2cbc5748
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:22:53.881781+00:00
 -- url     : https://prove2.me/theorems/a24d90de-83b8-4452-956a-828dde895d2b

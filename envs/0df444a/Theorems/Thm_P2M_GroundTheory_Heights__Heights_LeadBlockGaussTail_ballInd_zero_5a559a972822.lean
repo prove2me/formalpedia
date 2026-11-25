@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_ballInd_zero_5a559a972822
 -- name    : P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_ballInd_zero_5a559a972822
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:17.492419+00:00
 -- url     : https://prove2.me/theorems/41ed2c0f-0741-4c8e-a7d1-9bc2e49dd57a

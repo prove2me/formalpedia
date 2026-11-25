@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_scaleT_inv_cd75bf8c9ee9
 -- name    : P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_scaleT_inv_cd75bf8c9ee9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:35.366991+00:00
 -- url     : https://prove2.me/theorems/f0dd5b10-242a-4442-9327-520821ea4b5d

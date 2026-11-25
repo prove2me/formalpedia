@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesGenIndexMono_genIndex_nonneg_9f837cd075ce
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesGenIndexMono_genIndex_nonneg_9f837cd075ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:25.708396+00:00
 -- url     : https://prove2.me/theorems/ff8f93cb-8e9f-43b9-9581-b26c130babd6

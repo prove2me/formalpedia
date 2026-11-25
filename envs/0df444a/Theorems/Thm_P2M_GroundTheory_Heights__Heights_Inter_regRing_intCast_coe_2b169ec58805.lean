@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regRing_intCast_coe_2b169ec58805
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regRing_intCast_coe_2b169ec58805
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:29:43.058228+00:00
 -- url     : https://prove2.me/theorems/820adf19-5667-48e9-992a-e3a7417e2b69

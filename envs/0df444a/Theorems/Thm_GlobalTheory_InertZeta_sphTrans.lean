@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_InertZeta_sphTrans
 -- name    : GlobalTheory.InertZeta.sphTrans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:19:20.351856+00:00
 -- url     : https://prove2.me/theorems/581bae2b-839c-4dd3-84d2-bde0b667e46a

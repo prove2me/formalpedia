@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Cusp_admissibleLatticeFamily_restrictFirstColumnZero
 -- name    : GlobalTheory.SW.Cusp.admissibleLatticeFamily_restrictFirstColumnZero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:15.127101+00:00
 -- url     : https://prove2.me/theorems/415c2e43-278f-4d54-b3fd-42d6f4fd838f

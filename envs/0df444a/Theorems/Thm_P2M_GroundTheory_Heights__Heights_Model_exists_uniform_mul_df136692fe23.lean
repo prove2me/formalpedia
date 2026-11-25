@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_uniform_mul_df136692fe23
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_uniform_mul_df136692fe23
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:58.234611+00:00
 -- url     : https://prove2.me/theorems/1b7dfb6e-320b-4244-a794-77b1f0e6ab3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualEmbeddingBijective_pairing_single_4a952709d21e
 -- name    : P2M_GroundTheory_Heights__Heights_DualEmbeddingBijective_pairing_single_4a952709d21e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:40.914719+00:00
 -- url     : https://prove2.me/theorems/742d55f2-fd6f-4eeb-a8f4-92fb2e046287

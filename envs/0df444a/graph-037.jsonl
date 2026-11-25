@@ -77682,10 +77682,10 @@
 {"parent": "Csg.skirmish_univ_le_LFV_safe_safe_safe_home", "child": "Csg_QualitativeSure", "via": ["solution", "statement"]}
 {"parent": "Csg.skirmish_univ_le_LFV_safe_safe_safe_home", "child": "Csg_SkirmishProperties", "via": ["solution", "statement"]}
 {"parent": "Bl.general_b_fact_second_version.goal1", "child": "Lemmata_GeneralBFactSecondVersion_Imports", "via": ["solution", "statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.OrthogonalSumAlt.deg_bot", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MapScale", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.OrthogonalSumAlt.deg_bot", "child": "Formalism_HarderNarasimhan_ShiftInvariance", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.OrthogonalSumAlt.deg_bot", "child": "Formalism_BranchSandwichDivisors_StatementL", "via": ["statement"]}
-{"parent": "Formalism.BranchingDeterminantCap.OrthogonalSumAlt.deg_bot", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_OrthSum", "via": ["statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.OrthogonalSumAlt.deg_bot", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_MapScale", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.OrthogonalSumAlt.deg_bot", "child": "Formalism_HarderNarasimhan_ShiftInvariance", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.OrthogonalSumAlt.deg_bot", "child": "Formalism_BranchSandwichDivisors_StatementL", "via": ["solution", "statement"]}
+{"parent": "Formalism.BranchingDeterminantCap.OrthogonalSumAlt.deg_bot", "child": "Formalism_BranchSandwichDivisors_BranchIsometryProofs_OrthSum", "via": ["solution", "statement"]}
 {"parent": "Formalism.LogFactorialBounds.sum_primesLE_log_div_le", "child": "Formalism_LogFactorialBounds_LocalFactorSplitDv", "via": ["solution", "statement"]}
 {"parent": "Formalism.LogFactorialBounds.sum_primesLE_log_div_le", "child": "Formalism_LogFactorialBounds_LogFactorialProofs_PrimeSum", "via": ["solution", "statement"]}
 {"parent": "Formalism.G0.TopsChoiceProbabilityLemmas.prob_le_card_eq_binUpper", "child": "Formalism_SubspaceCounting_SubspaceCountingProofs_ChoiceOfTopsRefined", "via": ["solution", "statement"]}
@@ -92865,9 +92865,9 @@
 {"parent": "PI.VolStabW.TensAllW.lip_field", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_PosNear", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.TensAllW.lip_field", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_TensAll", "via": ["solution", "statement"]}
 {"parent": "PI.VolStabW.TensAllW.lip_field", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensFibV", "via": ["solution", "statement"]}
-{"parent": "Formalism.DivisorInequality.boundsMu", "child": "Formalism_DivisorInequality_DivisorInequalityProofs_BaseLevelBoundsWithCovolumeHolds", "via": ["statement"]}
-{"parent": "Formalism.DivisorInequality.boundsMu", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_YoungDiagramTopExact", "via": ["statement"]}
-{"parent": "Formalism.DivisorInequality.boundsMu", "child": "Formalism_DivisorInequality_BaseLevelBoundsWithCovolume", "via": ["statement"]}
+{"parent": "Formalism.DivisorInequality.boundsMu", "child": "Formalism_DivisorInequality_DivisorInequalityProofs_BaseLevelBoundsWithCovolumeHolds", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisorInequality.boundsMu", "child": "Formalism_QuotientMetricDivisors_HermitianTwistDivisors_YoungDiagramTopExact", "via": ["solution", "statement"]}
+{"parent": "Formalism.DivisorInequality.boundsMu", "child": "Formalism_DivisorInequality_BaseLevelBoundsWithCovolume", "via": ["solution", "statement"]}
 {"parent": "Csg.skirmish_hide_mem_AFG_safe", "child": "Csg_Skirmish", "via": ["solution", "statement"]}
 {"parent": "Csg.skirmish_hide_mem_AFG_safe", "child": "Csg_QualitativeLimitSure", "via": ["solution", "statement"]}
 {"parent": "Csg.skirmish_hide_mem_AFG_safe", "child": "Csg_QualitativeAlmostSure", "via": ["solution", "statement"]}
@@ -95063,12 +95063,12 @@
 {"parent": "Formalism.FourierDecayAlt.P.InverseBoundedFixedPoint.I_anti", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SubmoduleMultiplication", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensInfTR", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_WeilStabilizerVolume_DensInfSS", "via": ["statement"]}
 {"parent": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_SemiCharBasic", "child": "Formalism_LocalToGlobal_TorsionIntegrality_QuadraticSemicharacters_IsSemiChar", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SgStar", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_QuasiPeriodConstUniqueOf", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_OperatorUComm", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_QuasiPeriodConstUnique", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_HermHalfRight", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_SigmaLogDeriv2", "via": ["statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SgStar", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_QuasiPeriodConstUniqueOf", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_OperatorUComm", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_QuasiPeriodConstUnique", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_HermHalfRight", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sgStarQuasi", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_SigmaLogDeriv2", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.GlobalTheoryTheory.FiltrationBoundaryCriterion.CompactFixesLatticeTheory.exists_sub_mem_intAd", "child": "Formalism_LocalToGlobal_GlobalTheory_GL1_CompactFixesLattice_AdeleIntA", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.GlobalTheoryTheory.FiltrationBoundaryCriterion.CompactFixesLatticeTheory.exists_sub_mem_intAd", "child": "Formalism_LocalToGlobal_GlobalTheory_GL1_CompactFixesLattice_CompactFixesLattice", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.GlobalTheoryTheory.FiltrationBoundaryCriterion.CompactFixesLatticeTheory.exists_sub_mem_intAd", "child": "Formalism_LocalToGlobal_GlobalTheory_GL1_CompactFixesLattice_ExistsDenOfIsCompactAdele", "via": ["solution", "statement"]}
@@ -99314,15 +99314,15 @@
 {"parent": "Formalism.ELL.FormalGroupCubeJets.Dj_const", "child": "Formalism_FormalGroupLog_LogDeterminesLaw", "via": ["solution", "statement"]}
 {"parent": "Formalism.ELL.FormalGroupCubeJets.Dj_const", "child": "Formalism_EllipticTorsion_JetsCube", "via": ["solution", "statement"]}
 {"parent": "Formalism.ELL.FormalGroupCubeJets.Dj_const", "child": "Formalism_EllipticTorsion_EllipticTorsionProofs_JetsCube", "via": ["solution", "statement"]}
-{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_EtaEis", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaQuasi", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_AnalyticIdentityTheoremsZetaFacts", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_SigmaLogDeriv2", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaConv", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_Legendre", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaLog", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaBasic", "via": ["statement"]}
-{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_ZetaQuasi", "via": ["statement"]}
+{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_EtaEis", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaQuasi", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_AnalyticIdentityTheoremsZetaFacts", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_SigmaLogDeriv2", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaConv", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_Legendre", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaLog", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaBasic", "via": ["solution", "statement"]}
+{"parent": "Formalism.L2.Th1.F.sigmaSimple", "child": "Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_ZetaQuasi", "via": ["solution", "statement"]}
 {"parent": "Formalism.Schi_eq_Sa", "child": "Formalism_DefsOC", "via": ["solution", "statement"]}
 {"parent": "Formalism.Schi_eq_Sa", "child": "Formalism_ZetaNonvanishing_Assembly", "via": ["solution", "statement"]}
 {"parent": "Formalism.Schi_eq_Sa", "child": "Formalism_ZetaNonvanishing_MeasurableGchi", "via": ["solution", "statement"]}

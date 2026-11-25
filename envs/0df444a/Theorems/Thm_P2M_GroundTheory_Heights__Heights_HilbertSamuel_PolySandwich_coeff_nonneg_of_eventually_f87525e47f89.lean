@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PolySandwich_coeff_nonneg_of_eventually_f87525e47f89
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PolySandwich_coeff_nonneg_of_eventually_f87525e47f89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:52.576072+00:00
 -- url     : https://prove2.me/theorems/f0dc914a-5df5-4470-9b10-e549e81a4d51

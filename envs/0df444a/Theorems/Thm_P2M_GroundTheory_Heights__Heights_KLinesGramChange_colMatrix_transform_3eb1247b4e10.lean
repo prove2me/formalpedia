@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesGramChange_colMatrix_transform_3eb1247b4e10
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesGramChange_colMatrix_transform_3eb1247b4e10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:54.944977+00:00
 -- url     : https://prove2.me/theorems/912ca162-6e45-4368-8c6e-7d42746673c4

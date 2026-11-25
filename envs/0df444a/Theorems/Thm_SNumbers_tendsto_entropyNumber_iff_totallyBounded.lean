@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_tendsto_entropyNumber_iff_totallyBounded
 -- name    : SNumbers.tendsto_entropyNumber_iff_totallyBounded
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:03.177812+00:00
 -- url     : https://prove2.me/theorems/ba0b07e0-7669-4dd2-8b24-29c0a64e63f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isProSylow_iff
 -- name    : GroundTheory.ProfCoh.isProSylow_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:32.518668+00:00
 -- url     : https://prove2.me/theorems/7f00ab8a-e3a2-54e9-a4f0-aa3334325caf

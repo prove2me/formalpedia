@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_LineDegreeBundle_index_span_smul_210a9f4dbdea
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_LineDegreeBundle_index_span_smul_210a9f4dbdea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:32.025737+00:00
 -- url     : https://prove2.me/theorems/d676f14e-da3b-5279-8171-2c03a744a83d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_sum_pow_prime_pow_eq
 -- name    : GroundTheory.LocalField.exists_sum_pow_prime_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:22.16805+00:00
 -- url     : https://prove2.me/theorems/d9985b29-e5f0-4453-afba-abc3dfd3689b

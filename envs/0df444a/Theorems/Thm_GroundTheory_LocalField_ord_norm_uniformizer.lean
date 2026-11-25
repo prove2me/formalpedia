@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ord_norm_uniformizer
 -- name    : GroundTheory.LocalField.ord_norm_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:15:12.353581+00:00
 -- url     : https://prove2.me/theorems/18cb55c9-82ce-5493-b56f-ca3b05748630

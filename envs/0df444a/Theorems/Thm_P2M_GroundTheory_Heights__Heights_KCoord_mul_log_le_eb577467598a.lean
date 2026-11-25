@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KCoord_mul_log_le_eb577467598a
 -- name    : P2M_GroundTheory_Heights__Heights_KCoord_mul_log_le_eb577467598a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:32.702854+00:00
 -- url     : https://prove2.me/theorems/63b789dd-5c2f-451d-9d4c-fbc70f4b133f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogNormGradDensNonneg_log_fs_eq_std_2b91042fd6ef
 -- name    : P2M_GroundTheory_Heights__Heights_LogNormGradDensNonneg_log_fs_eq_std_2b91042fd6ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:28:47.911006+00:00
 -- url     : https://prove2.me/theorems/7c1fc9e6-b9a6-4c7d-9e93-d2c94aa2993a

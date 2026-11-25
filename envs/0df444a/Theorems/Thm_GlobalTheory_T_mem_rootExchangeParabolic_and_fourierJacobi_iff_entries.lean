@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_rootExchangeParabolic_and_fourierJacobi_iff_entries
 -- name    : GlobalTheory.T.mem_rootExchangeParabolic_and_fourierJacobi_iff_entries
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:31:54.621978+00:00
 -- url     : https://prove2.me/theorems/913f2bbf-3aa3-4c22-a45c-96c51e5946a1

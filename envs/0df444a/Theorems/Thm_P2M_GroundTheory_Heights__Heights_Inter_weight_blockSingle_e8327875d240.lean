@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_weight_blockSingle_e8327875d240
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_weight_blockSingle_e8327875d240
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:28:48.956879+00:00
 -- url     : https://prove2.me/theorems/78bc4d53-cd95-403b-8b88-d6b64a47a27a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GridSum_choose_range_8f1b7a26fca2
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GridSum_choose_range_8f1b7a26fca2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:19:34.658125+00:00
 -- url     : https://prove2.me/theorems/5b0e0ba7-fe11-504f-973a-721e595d4b6c

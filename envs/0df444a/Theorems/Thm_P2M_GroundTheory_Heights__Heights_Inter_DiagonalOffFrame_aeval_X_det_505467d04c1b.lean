@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOffFrame_aeval_X_det_505467d04c1b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOffFrame_aeval_X_det_505467d04c1b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:25:33.606797+00:00
 -- url     : https://prove2.me/theorems/64236269-4182-4bd7-8ca9-f21733b59d57

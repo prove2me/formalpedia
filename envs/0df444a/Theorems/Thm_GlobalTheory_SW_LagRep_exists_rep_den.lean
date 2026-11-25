@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_LagRep_exists_rep_den
 -- name    : GlobalTheory.SW.LagRep.exists_rep_den
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:41:38.397278+00:00
 -- url     : https://prove2.me/theorems/6c68cc09-c525-4525-9e61-1dd5d00635b5

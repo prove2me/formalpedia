@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KTypeCompare_root_eq
 -- name    : GlobalTheory.KTypeCompare.root_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:09:57.519635+00:00
 -- url     : https://prove2.me/theorems/2e410b9e-5cbf-58b7-9b8d-952452057ea0

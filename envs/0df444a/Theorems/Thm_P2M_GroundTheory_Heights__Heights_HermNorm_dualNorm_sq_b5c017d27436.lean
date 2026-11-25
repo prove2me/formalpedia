@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermNorm_dualNorm_sq_b5c017d27436
 -- name    : P2M_GroundTheory_Heights__Heights_HermNorm_dualNorm_sq_b5c017d27436
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:26.251409+00:00
 -- url     : https://prove2.me/theorems/9ab35814-8714-4d5e-a534-8842c89190a1

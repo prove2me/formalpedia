@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeierstrassCurve_isPullback_chartZ
 -- name    : GlobalTheory.WeierstrassCurve.isPullback_chartZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:14:23.562928+00:00
 -- url     : https://prove2.me/theorems/746f85be-cf76-4f8b-96e3-2949098e9c1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_cutoff_eq_one
 -- name    : GroundTheory.Automorphic.Sobolev.cutoff_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:13:38.049048+00:00
 -- url     : https://prove2.me/theorems/a9c36dcd-e013-49a6-a9c8-25395ff42c8e

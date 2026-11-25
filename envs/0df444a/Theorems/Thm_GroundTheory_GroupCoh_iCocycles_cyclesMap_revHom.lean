@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_iCocycles_cyclesMap_revHom
 -- name    : GroundTheory.GroupCoh.iCocycles_cyclesMap_revHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:14:57.364259+00:00
 -- url     : https://prove2.me/theorems/c4112af1-5cba-4277-aa6d-3d0e2fab0d3c

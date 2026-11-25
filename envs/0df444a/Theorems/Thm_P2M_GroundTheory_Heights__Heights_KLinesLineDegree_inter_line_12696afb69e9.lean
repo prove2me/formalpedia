@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesLineDegree_inter_line_12696afb69e9
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesLineDegree_inter_line_12696afb69e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:24.619265+00:00
 -- url     : https://prove2.me/theorems/de5ed24c-d8d4-50a5-a650-1d40f6f4d7db

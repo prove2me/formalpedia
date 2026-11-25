@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCube_HasVal_exists_unit
 -- name    : GlobalTheory.TorusCube.HasVal.exists_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:25:55.543222+00:00
 -- url     : https://prove2.me/theorems/86eaabed-1c4e-4120-9437-5577829299b3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_measurePreserving_prodEquiv
 -- name    : GroundTheory.Global.measurePreserving_prodEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:14:52.346224+00:00
 -- url     : https://prove2.me/theorems/cbdcf513-fc86-5f36-9c71-2633de1d59e4

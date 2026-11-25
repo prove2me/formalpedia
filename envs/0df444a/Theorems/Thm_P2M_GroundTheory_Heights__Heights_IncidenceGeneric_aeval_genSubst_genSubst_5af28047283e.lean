@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceGeneric_aeval_genSubst_genSubst_5af28047283e
 -- name    : P2M_GroundTheory_Heights__Heights_IncidenceGeneric_aeval_genSubst_genSubst_5af28047283e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:44.015032+00:00
 -- url     : https://prove2.me/theorems/eabd6eb5-56eb-4fb2-8080-7884f3ee8800

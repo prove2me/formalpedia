@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianExtension_card_quotient_sumElim_19b0155624ac
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianExtension_card_quotient_sumElim_19b0155624ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:55.127412+00:00
 -- url     : https://prove2.me/theorems/16f0e5e3-1573-421d-b463-1568eb5d9be0

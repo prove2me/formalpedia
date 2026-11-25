@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelevant_extend_zero_inj_2eeca3831901
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelevant_extend_zero_inj_2eeca3831901
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:43.04173+00:00
 -- url     : https://prove2.me/theorems/3b5df08e-d517-44c6-9421-e48ffe0f5906

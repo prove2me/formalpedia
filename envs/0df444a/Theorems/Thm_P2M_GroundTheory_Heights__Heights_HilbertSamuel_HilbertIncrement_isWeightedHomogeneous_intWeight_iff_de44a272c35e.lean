@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertIncrement_isWeightedHomogeneous_intWeight_iff_de44a272c35e
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertIncrement_isWeightedHomogeneous_intWeight_iff_de44a272c35e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:21:47.298073+00:00
 -- url     : https://prove2.me/theorems/77056cee-5784-5d3f-96d7-4c6056b71bdf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integral_ideleMeasure
 -- name    : GroundTheory.Global.integral_ideleMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:14:22.418799+00:00
 -- url     : https://prove2.me/theorems/c9d1fb87-c0f5-560e-8f6a-6630ead1d176

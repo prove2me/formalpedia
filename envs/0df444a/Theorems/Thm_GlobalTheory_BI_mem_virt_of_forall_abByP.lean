@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_mem_virt_of_forall_abByP
 -- name    : GlobalTheory.BI.mem_virt_of_forall_abByP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:01:23.333911+00:00
 -- url     : https://prove2.me/theorems/527dc3f7-6c1d-4c7e-b014-9f18e51c11ce

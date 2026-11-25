@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_unitsToTateZero_surjective
 -- name    : GroundTheory.LocalField.unitsToTateZero_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:40.777413+00:00
 -- url     : https://prove2.me/theorems/907a5c16-ac4b-4250-9b2a-d90b1e3a181c

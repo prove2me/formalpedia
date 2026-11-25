@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_siegelTheta_transformation_siegelParabolic
 -- name    : GlobalTheory.T.siegelTheta_transformation_siegelParabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:57:09.886112+00:00
 -- url     : https://prove2.me/theorems/fd75e2e9-21a2-4cb1-a80e-cd2cde588f74

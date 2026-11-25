@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_isPrime_map_polynomial_6eef1ef7fe50
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_isPrime_map_polynomial_6eef1ef7fe50
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:28.165894+00:00
 -- url     : https://prove2.me/theorems/2b607589-0d92-4ef6-a629-3737c18aab54

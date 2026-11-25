@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableSubset_eight_le_sum_wt
 -- name    : GlobalTheory.StableSubset.eight_le_sum_wt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:52:31.686392+00:00
 -- url     : https://prove2.me/theorems/85b7e360-8f66-4bf4-be7e-a5a25a72c480

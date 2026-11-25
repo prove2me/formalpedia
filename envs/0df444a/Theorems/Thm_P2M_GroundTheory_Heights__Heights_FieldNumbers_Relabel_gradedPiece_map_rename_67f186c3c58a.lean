@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_Relabel_gradedPiece_map_rename_67f186c3c58a
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_Relabel_gradedPiece_map_rename_67f186c3c58a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:25.015204+00:00
 -- url     : https://prove2.me/theorems/9eab07e9-599b-4ae0-8f3b-9fd2e3704f91

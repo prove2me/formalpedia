@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_natDegree_mul_addVal_eq_ramificationIndex
 -- name    : GroundTheory.LocalField.natDegree_mul_addVal_eq_ramificationIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:14:53.602863+00:00
 -- url     : https://prove2.me/theorems/1c90f29c-84ef-499f-b41e-e4b14cc093c0

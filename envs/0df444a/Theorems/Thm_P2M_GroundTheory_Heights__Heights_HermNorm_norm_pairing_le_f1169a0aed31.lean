@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermNorm_norm_pairing_le_f1169a0aed31
 -- name    : P2M_GroundTheory_Heights__Heights_HermNorm_norm_pairing_le_f1169a0aed31
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:23.432867+00:00
 -- url     : https://prove2.me/theorems/4c7ce535-7eb1-41ea-9033-200794b87fa3

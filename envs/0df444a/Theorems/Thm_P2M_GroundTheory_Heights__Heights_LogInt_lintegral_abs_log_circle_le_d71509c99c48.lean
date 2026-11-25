@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_lintegral_abs_log_circle_le_d71509c99c48
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_lintegral_abs_log_circle_le_d71509c99c48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:24.482182+00:00
 -- url     : https://prove2.me/theorems/4d0aa49d-e627-4b8b-8363-e37b2caf52bb

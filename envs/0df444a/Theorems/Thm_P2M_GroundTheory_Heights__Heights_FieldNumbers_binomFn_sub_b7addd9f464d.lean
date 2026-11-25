@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_binomFn_sub_b7addd9f464d
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_binomFn_sub_b7addd9f464d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:05.452253+00:00
 -- url     : https://prove2.me/theorems/0340b33d-e0a5-4686-9667-a8b866caaae1

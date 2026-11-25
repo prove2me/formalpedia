@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mk_classRep
 -- name    : GroundTheory.LocalField.mk_classRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:32:40.980018+00:00
 -- url     : https://prove2.me/theorems/ea89468d-c0fc-47eb-9cc7-e4b97bd7a40f

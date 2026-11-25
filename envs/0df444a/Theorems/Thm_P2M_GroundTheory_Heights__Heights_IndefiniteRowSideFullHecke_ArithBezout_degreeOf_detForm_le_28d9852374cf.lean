@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_degreeOf_detForm_le_28d9852374cf
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_degreeOf_detForm_le_28d9852374cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:23.877257+00:00
 -- url     : https://prove2.me/theorems/fc0fc1d8-0055-4e3c-a54f-57029e8162d7

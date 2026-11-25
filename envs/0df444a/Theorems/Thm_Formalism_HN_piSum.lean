@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_piSum
 -- name    : Formalism.HN.piSum
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:13:10.668934+00:00
 -- url     : https://prove2.me/theorems/e7bf6b0b-74f4-46a1-ab85-49c1dd9a3a88

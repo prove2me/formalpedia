@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradDensSheetBound_abs_le_of_forall_pos_19b8f3740a14
 -- name    : P2M_GroundTheory_Heights__Heights_GradDensSheetBound_abs_le_of_forall_pos_19b8f3740a14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:19:37.789516+00:00
 -- url     : https://prove2.me/theorems/b5bb470b-9bfd-4c04-bb47-8b3145fd6985

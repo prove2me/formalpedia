@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_divSupp_X_disjoint_74521f1af0e6
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_divSupp_X_disjoint_74521f1af0e6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:13.814889+00:00
 -- url     : https://prove2.me/theorems/a2ddd992-5347-4243-881f-54c5578cf3d2

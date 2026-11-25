@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_KGroup_comm_hpk
 -- name    : GlobalTheory.HCXi.KGroup.comm_hpk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:56:45.890883+00:00
 -- url     : https://prove2.me/theorems/e8788ba0-fe93-4261-a625-501236aa2526

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isUnit_det_of_bicharacter_of_dvd_trace
 -- name    : GlobalTheory.isUnit_det_of_bicharacter_of_dvd_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:34:29.917804+00:00
 -- url     : https://prove2.me/theorems/c853721c-f288-4ba8-a0df-fc71af38c4dd

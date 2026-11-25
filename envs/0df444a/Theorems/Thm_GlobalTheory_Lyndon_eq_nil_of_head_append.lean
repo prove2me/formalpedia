@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Lyndon_eq_nil_of_head_append
 -- name    : GlobalTheory.Lyndon.eq_nil_of_head_append
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:19:42.932863+00:00
 -- url     : https://prove2.me/theorems/2fc67a48-d3a3-42c3-b2c6-0039a85711e2

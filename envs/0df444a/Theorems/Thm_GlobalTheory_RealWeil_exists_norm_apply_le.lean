@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_exists_norm_apply_le
 -- name    : GlobalTheory.RealWeil.exists_norm_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:16:04.075074+00:00
 -- url     : https://prove2.me/theorems/a2bcf5bb-6571-4835-aec1-3abd315780f6

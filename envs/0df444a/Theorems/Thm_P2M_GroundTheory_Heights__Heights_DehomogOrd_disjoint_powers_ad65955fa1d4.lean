@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DehomogOrd_disjoint_powers_ad65955fa1d4
 -- name    : P2M_GroundTheory_Heights__Heights_DehomogOrd_disjoint_powers_ad65955fa1d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:36.852936+00:00
 -- url     : https://prove2.me/theorems/2379f2a6-b75a-5125-8c86-4cab55c5f14f

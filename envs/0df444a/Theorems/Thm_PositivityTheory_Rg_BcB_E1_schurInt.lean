@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_BcB_E1_schurInt
 -- name    : PositivityTheory.Rg.BcB.E1.schurInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:06:07.782796+00:00
 -- url     : https://prove2.me/theorems/86192de6-1a0d-52d1-bee4-de978eb00150

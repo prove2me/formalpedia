@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_tendsto_restrict_2aee757d54c1
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_tendsto_restrict_2aee757d54c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:19.838949+00:00
 -- url     : https://prove2.me/theorems/83f294a5-01c2-5bd9-9e43-fadc1be6c683

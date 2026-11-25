@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain6_slopes_from_size_and_count
 -- name    : Formalism.LFunctionChainParameters.LChain6.slopes_from_size_and_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:02:32.646252+00:00
 -- url     : https://prove2.me/theorems/84bffd4c-158e-59a9-9926-ed6762c79971

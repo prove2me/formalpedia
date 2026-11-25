@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_isSmoothHerm_fs_e2b758fa739a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_isSmoothHerm_fs_e2b758fa739a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:23:23.794739+00:00
 -- url     : https://prove2.me/theorems/5d40a814-affc-40a4-b2ef-8a4a4e657b0b

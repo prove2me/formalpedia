@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_hom_zero_apply
 -- name    : GroundTheory.GroupCoh.hom_zero_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:49.361347+00:00
 -- url     : https://prove2.me/theorems/ba847eda-73bf-4fd1-8228-82b39c8ba135

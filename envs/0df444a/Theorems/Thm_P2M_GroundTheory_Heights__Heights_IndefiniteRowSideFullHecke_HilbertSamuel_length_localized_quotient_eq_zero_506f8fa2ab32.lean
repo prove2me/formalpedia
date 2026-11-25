@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_length_localized_quotient_eq_zero_506f8fa2ab32
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_length_localized_quotient_eq_zero_506f8fa2ab32
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:25:26.726247+00:00
 -- url     : https://prove2.me/theorems/8932ac3c-bd0d-58b0-a02a-5daff2f525e8

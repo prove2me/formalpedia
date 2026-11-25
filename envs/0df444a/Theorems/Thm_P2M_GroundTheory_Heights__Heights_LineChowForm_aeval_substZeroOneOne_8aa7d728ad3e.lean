@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LineChowForm_aeval_substZeroOneOne_8aa7d728ad3e
 -- name    : P2M_GroundTheory_Heights__Heights_LineChowForm_aeval_substZeroOneOne_8aa7d728ad3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:39.800308+00:00
 -- url     : https://prove2.me/theorems/6d6902ca-1376-478f-8e68-bd0ea6ca4c78

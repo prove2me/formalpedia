@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Cocycles_injective_out_cocycleKer
 -- name    : GlobalTheory.CompanionTheory.Cocycles.injective_out_cocycleKer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:38.957575+00:00
 -- url     : https://prove2.me/theorems/10b15236-4e90-5267-a289-2e4b7a2fcc52

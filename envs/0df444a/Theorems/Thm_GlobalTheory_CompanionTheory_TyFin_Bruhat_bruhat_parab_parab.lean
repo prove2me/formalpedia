@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Bruhat_bruhat_parab_parab
 -- name    : GlobalTheory.CompanionTheory.TyFin.Bruhat.bruhat_parab_parab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:17:30.144676+00:00
 -- url     : https://prove2.me/theorems/7edfb7ee-5587-46c1-a72d-cc98b431f7a3

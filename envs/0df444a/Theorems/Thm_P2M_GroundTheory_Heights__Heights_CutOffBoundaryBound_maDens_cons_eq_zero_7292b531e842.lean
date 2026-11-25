@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_maDens_cons_eq_zero_7292b531e842
 -- name    : P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_maDens_cons_eq_zero_7292b531e842
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:02.490677+00:00
 -- url     : https://prove2.me/theorems/6bbe3fbb-2e55-435a-8a41-a3c1c32b9f2b

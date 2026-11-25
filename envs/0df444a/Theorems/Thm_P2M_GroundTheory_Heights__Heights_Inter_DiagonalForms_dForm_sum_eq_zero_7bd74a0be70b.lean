@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_dForm_sum_eq_zero_7bd74a0be70b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalForms_dForm_sum_eq_zero_7bd74a0be70b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:23:34.141232+00:00
 -- url     : https://prove2.me/theorems/934544e1-d8f5-4b50-b170-3dfa8214f48c

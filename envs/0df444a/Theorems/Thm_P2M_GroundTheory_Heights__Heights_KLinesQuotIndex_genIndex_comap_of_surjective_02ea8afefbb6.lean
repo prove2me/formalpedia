@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesQuotIndex_genIndex_comap_of_surjective_02ea8afefbb6
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesQuotIndex_genIndex_comap_of_surjective_02ea8afefbb6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:40.580367+00:00
 -- url     : https://prove2.me/theorems/9068c976-ed1a-4be3-9b30-9b3bc6c1bd64

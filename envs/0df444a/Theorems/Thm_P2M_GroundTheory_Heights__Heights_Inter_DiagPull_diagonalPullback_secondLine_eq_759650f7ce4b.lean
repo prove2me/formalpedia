@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagPull_diagonalPullback_secondLine_eq_759650f7ce4b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagPull_diagonalPullback_secondLine_eq_759650f7ce4b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:19.212963+00:00
 -- url     : https://prove2.me/theorems/d2f6ef62-e2d2-490d-acb5-f0aa781c70c6

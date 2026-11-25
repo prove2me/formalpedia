@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConjIntNum_quotEquiv_mk_bea9a232f8f0
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ConjIntNum_quotEquiv_mk_bea9a232f8f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:20:53.305074+00:00
 -- url     : https://prove2.me/theorems/16e46759-2f2d-5bf6-ad1a-2848a85f981f

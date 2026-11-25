@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BoundedMonomials_evalCone_scale_eb4d8d40fcab
 -- name    : P2M_GroundTheory_Heights__Heights_BoundedMonomials_evalCone_scale_eb4d8d40fcab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:16:04.402885+00:00
 -- url     : https://prove2.me/theorems/184e9b45-60f4-4c30-9ffd-d412da4ac71f

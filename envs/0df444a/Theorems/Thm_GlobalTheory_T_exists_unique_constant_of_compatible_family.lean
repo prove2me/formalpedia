@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_unique_constant_of_compatible_family
 -- name    : GlobalTheory.T.exists_unique_constant_of_compatible_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:29:07.36234+00:00
 -- url     : https://prove2.me/theorems/630b5cec-b296-4cf0-9f71-0c53e474d682

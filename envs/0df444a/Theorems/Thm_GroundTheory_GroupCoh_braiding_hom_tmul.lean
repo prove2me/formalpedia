@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_braiding_hom_tmul
 -- name    : GroundTheory.GroupCoh.braiding_hom_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:59.24864+00:00
 -- url     : https://prove2.me/theorems/1d19683b-6330-413e-a884-c316ff5e7103

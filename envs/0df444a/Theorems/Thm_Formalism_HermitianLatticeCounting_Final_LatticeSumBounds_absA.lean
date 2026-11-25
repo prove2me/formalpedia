@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_absA
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.absA
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:10.565433+00:00
 -- url     : https://prove2.me/theorems/528797cf-43cc-4950-9618-c21a44ba9590

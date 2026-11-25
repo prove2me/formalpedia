@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_isPull2_pullHH2
 -- name    : GlobalTheory.CechDR.isPull2_pullHH2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:16:18.769606+00:00
 -- url     : https://prove2.me/theorems/279f1e97-7e48-4d66-9116-2fdd6d22d591

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMetric_den_scale_816ca627b582
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMetric_den_scale_816ca627b582
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:15:48.712992+00:00
 -- url     : https://prove2.me/theorems/1c0cb3c6-8501-497b-8185-6af6dd70ad9f

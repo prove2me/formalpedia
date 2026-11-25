@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_snoc_cons_comp_swap_455fd8fb2d41
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_snoc_cons_comp_swap_455fd8fb2d41
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:14.627429+00:00
 -- url     : https://prove2.me/theorems/d98513da-b827-44d1-a081-9f1a93acaa8c

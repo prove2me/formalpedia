@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_isHomogeneous_of_isWeightedHomogeneous_one_b668b222bb4f
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_isHomogeneous_of_isWeightedHomogeneous_one_b668b222bb4f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:42:48.038911+00:00
 -- url     : https://prove2.me/theorems/8990cc3c-c059-5ef8-b3ef-d3a55b5169e5

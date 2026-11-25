@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Conservation_charOf_eq_fb1e6fa2063a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Conservation_charOf_eq_fb1e6fa2063a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:23:19.687813+00:00
 -- url     : https://prove2.me/theorems/832d587e-74d1-44bd-a5c0-387ebc971a65

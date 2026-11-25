@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_whiskerRight_hom_eq_rTensor
 -- name    : GroundTheory.GroupCoh.whiskerRight_hom_eq_rTensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:59.492158+00:00
 -- url     : https://prove2.me/theorems/fdcc5b66-9fbe-5928-83dd-051f7af79d89

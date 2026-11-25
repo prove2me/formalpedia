@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_nsmul_id_hom_apply
 -- name    : GroundTheory.GroupCoh.nsmul_id_hom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:39.733418+00:00
 -- url     : https://prove2.me/theorems/b74aff6e-6f06-46b6-a05a-e029b57aefde

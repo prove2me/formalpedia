@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_comap_eq_of_vertical_211dcfa04a62
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_comap_eq_of_vertical_211dcfa04a62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:24:41.197209+00:00
 -- url     : https://prove2.me/theorems/05b8b2c6-c37b-43c5-b658-1bf58eb15beb

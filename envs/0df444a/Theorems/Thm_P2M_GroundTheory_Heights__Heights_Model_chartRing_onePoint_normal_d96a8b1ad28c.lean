@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_chartRing_onePoint_normal_d96a8b1ad28c
 -- name    : P2M_GroundTheory_Heights__Heights_Model_chartRing_onePoint_normal_d96a8b1ad28c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:27.794792+00:00
 -- url     : https://prove2.me/theorems/3d39a789-2ff0-429f-af88-3f7f86087aff

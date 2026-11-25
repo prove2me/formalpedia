@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_extP
 -- name    : Formalism.InvariantFactorPaths.PW.Top.extP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:48:31.787717+00:00
 -- url     : https://prove2.me/theorems/4f8c03cf-f1f1-4cdf-bf6e-433ef6eeacec

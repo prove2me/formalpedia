@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesGramPosDef_mulVec_injective_e49fb1fd6f50
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesGramPosDef_mulVec_injective_e49fb1fd6f50
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:57.78838+00:00
 -- url     : https://prove2.me/theorems/1178da11-f6b9-46c8-a21a-f64925600a23

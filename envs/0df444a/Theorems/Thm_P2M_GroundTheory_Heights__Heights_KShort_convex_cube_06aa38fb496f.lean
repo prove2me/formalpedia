@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KShort_convex_cube_06aa38fb496f
 -- name    : P2M_GroundTheory_Heights__Heights_KShort_convex_cube_06aa38fb496f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:39.358905+00:00
 -- url     : https://prove2.me/theorems/17ac3e31-038e-4f71-acdc-2632348265b6

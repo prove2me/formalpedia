@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KCoord_unip_isUnit_17db654cb6d4
 -- name    : P2M_GroundTheory_Heights__Heights_KCoord_unip_isUnit_17db654cb6d4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:25:58.171813+00:00
 -- url     : https://prove2.me/theorems/7b1abd31-116e-4318-8101-8a73a3751381

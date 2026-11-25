@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_RationalSymbol_unitPart_surjective
 -- name    : GroundTheory.Global.RationalSymbol.unitPart_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:19.346635+00:00
 -- url     : https://prove2.me/theorems/3261e3ba-95bb-5e9a-8103-3b39b0d53516

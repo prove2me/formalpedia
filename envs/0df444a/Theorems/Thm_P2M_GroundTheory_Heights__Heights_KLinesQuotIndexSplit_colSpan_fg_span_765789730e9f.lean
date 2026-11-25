@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesQuotIndexSplit_colSpan_fg_span_765789730e9f
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesQuotIndexSplit_colSpan_fg_span_765789730e9f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:34.968391+00:00
 -- url     : https://prove2.me/theorems/84e89a46-d2d1-408c-971f-4bc468ce9afd

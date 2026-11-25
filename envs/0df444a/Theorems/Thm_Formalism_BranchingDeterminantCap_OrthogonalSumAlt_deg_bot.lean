@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_OrthogonalSumAlt_deg_bot
 -- name    : Formalism.BranchingDeterminantCap.OrthogonalSumAlt.deg_bot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:21:14.638172+00:00
 -- url     : https://prove2.me/theorems/37b208bd-2f54-4b0e-b931-c527cb75dd5b

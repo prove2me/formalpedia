@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HeightOfPointAlt_adicAbv_intToField_le_one_e530369dfcdb
 -- name    : P2M_GroundTheory_Heights__Heights_HeightOfPointAlt_adicAbv_intToField_le_one_e530369dfcdb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:47.156505+00:00
 -- url     : https://prove2.me/theorems/07b3172d-a03a-5697-b0f3-470e7c72ac1e

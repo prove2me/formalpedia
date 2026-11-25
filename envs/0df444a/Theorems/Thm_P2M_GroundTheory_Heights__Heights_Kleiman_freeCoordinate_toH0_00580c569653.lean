@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_freeCoordinate_toH0_00580c569653
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_freeCoordinate_toH0_00580c569653
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:42:34.592725+00:00
 -- url     : https://prove2.me/theorems/c1d468a7-5717-55b6-b3ab-871474d1cc54

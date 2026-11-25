@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_RenameMultiHomog_proof_0a47e7848016
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_RenameMultiHomog_proof_0a47e7848016
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:40:40.856106+00:00
 -- url     : https://prove2.me/theorems/eb079688-37e3-41cd-8e6d-4a850998edba

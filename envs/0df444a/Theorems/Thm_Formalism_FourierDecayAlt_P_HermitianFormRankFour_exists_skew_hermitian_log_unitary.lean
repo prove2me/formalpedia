@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormRankFour_exists_skew_hermitian_log_unitary
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormRankFour.exists_skew_hermitian_log_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:13:00.331941+00:00
 -- url     : https://prove2.me/theorems/b8e5ab47-f2bc-4a8a-bf06-feb546ac993e

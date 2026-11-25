@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_measurePreserving_mul_circleMap_a47a1e5d7020
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_measurePreserving_mul_circleMap_a47a1e5d7020
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:59.15281+00:00
 -- url     : https://prove2.me/theorems/1bd1550d-42da-4438-8e34-2a055cb5777d

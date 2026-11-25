@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_epsI_mul_self
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.epsI_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:08.315796+00:00
 -- url     : https://prove2.me/theorems/bf719539-9441-5ed6-b3ed-b1740483616e

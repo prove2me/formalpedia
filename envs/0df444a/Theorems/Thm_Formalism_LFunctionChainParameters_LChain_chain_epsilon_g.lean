@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain_chain_epsilon_g
 -- name    : Formalism.LFunctionChainParameters.LChain.chain_epsilon_g
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:41.691678+00:00
 -- url     : https://prove2.me/theorems/0b9d579e-806a-4d80-9174-2dbc835ada3c

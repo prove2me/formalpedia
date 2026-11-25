@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IsIndecomposableModule_isNilpotent_or_bijective
 -- name    : PretorsionImageClosed.IsIndecomposableModule.isNilpotent_or_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:15:40.795805+00:00
 -- url     : https://prove2.me/theorems/85c0d5b6-dbb4-44de-93f5-23a318085604

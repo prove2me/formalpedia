@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_log_fs_eq_ac18298d50c2
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_log_fs_eq_ac18298d50c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:31.112223+00:00
 -- url     : https://prove2.me/theorems/f9b4970a-6261-44b3-91b3-2dee9d388dc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_prime_mem_of_isMaximal_5d839b2c56a0
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_prime_mem_of_isMaximal_5d839b2c56a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:29.171228+00:00
 -- url     : https://prove2.me/theorems/544b65e8-8544-4e9c-a6ef-67118b540b49

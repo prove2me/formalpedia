@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_Abelian_finrank_adjoin_rat___60f1bb1f96c8
 -- name    : P2M_GroundTheory_Arith_Abelian_finrank_adjoin_rat___60f1bb1f96c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:54.957678+00:00
 -- url     : https://prove2.me/theorems/70490610-f577-40c9-a3f0-b0f521494164

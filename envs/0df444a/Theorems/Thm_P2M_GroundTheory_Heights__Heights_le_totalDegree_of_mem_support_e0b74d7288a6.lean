@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_le_totalDegree_of_mem_support_e0b74d7288a6
 -- name    : P2M_GroundTheory_Heights__Heights_le_totalDegree_of_mem_support_e0b74d7288a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:39:16.524427+00:00
 -- url     : https://prove2.me/theorems/60affcbc-cfba-4826-aa3d-97efefb19499

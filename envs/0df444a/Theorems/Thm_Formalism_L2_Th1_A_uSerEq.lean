@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_uSerEq
 -- name    : Formalism.L2.Th1.A.uSerEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:20:14.276109+00:00
 -- url     : https://prove2.me/theorems/ab0bd300-31b2-42fe-9d95-29a51de73620

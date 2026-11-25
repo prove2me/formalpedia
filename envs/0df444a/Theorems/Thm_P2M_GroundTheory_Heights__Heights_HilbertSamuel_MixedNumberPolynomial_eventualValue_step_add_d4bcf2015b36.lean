@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedNumberPolynomial_eventualValue_step_add_d4bcf2015b36
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MixedNumberPolynomial_eventualValue_step_add_d4bcf2015b36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:23:11.308106+00:00
 -- url     : https://prove2.me/theorems/c42d62e3-c9dd-58fa-8796-e3bc9015c8aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_sSup_eq_of_upperBounds_eq_56a7107924cc
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_sSup_eq_of_upperBounds_eq_56a7107924cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:20:08.93639+00:00
 -- url     : https://prove2.me/theorems/f86238e1-58d0-423b-a73a-5f91d724f849

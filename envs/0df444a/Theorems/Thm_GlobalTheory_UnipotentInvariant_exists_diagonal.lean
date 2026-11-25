@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_exists_diagonal
 -- name    : GlobalTheory.UnipotentInvariant.exists_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:25:30.464796+00:00
 -- url     : https://prove2.me/theorems/6f057af0-3d83-4bb6-86aa-78ebe2cca7bd

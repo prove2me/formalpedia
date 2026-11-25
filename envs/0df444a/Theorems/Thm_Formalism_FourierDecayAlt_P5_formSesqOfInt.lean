@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_formSesqOfInt
 -- name    : Formalism.FourierDecayAlt.P5.formSesqOfInt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:24:20.253097+00:00
 -- url     : https://prove2.me/theorems/ce017ebb-e1f6-4c4f-86eb-657e0c736ea4

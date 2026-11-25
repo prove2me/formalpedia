@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IsIndecomposableModule_of_linearEquiv
 -- name    : PretorsionImageClosed.IsIndecomposableModule.of_linearEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:15:04.017811+00:00
 -- url     : https://prove2.me/theorems/4f8287ad-8484-44bf-8c86-9f8e7d120138

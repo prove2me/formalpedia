@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_HostRaw_image_mem_of_roots
 -- name    : Formalism.HC.HostRaw.image_mem_of_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:59:55.980502+00:00
 -- url     : https://prove2.me/theorems/c224a94b-bddf-462a-9e86-5c0bee8cbe9f

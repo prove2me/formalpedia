@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolyLine_foldr_diffStep_replicate_c134cf47ff40
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolyLine_foldr_diffStep_replicate_c134cf47ff40
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:19:49.870375+00:00
 -- url     : https://prove2.me/theorems/dbde165e-dd9e-5131-80e2-94903a046be2

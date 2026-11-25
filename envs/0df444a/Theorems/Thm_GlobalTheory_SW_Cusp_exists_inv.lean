@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_Cusp_exists_inv
 -- name    : GlobalTheory.SW.Cusp.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:50:36.209865+00:00
 -- url     : https://prove2.me/theorems/fd0adad7-bec9-55d2-b2ef-7cdf7d072402

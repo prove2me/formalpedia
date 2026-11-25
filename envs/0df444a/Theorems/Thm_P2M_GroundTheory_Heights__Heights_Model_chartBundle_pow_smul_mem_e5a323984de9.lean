@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_chartBundle_pow_smul_mem_e5a323984de9
 -- name    : P2M_GroundTheory_Heights__Heights_Model_chartBundle_pow_smul_mem_e5a323984de9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:38:48.758011+00:00
 -- url     : https://prove2.me/theorems/b7633968-e693-518f-b697-3fb3a9383f00

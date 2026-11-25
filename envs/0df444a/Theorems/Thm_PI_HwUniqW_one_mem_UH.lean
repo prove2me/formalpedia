@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_one_mem_UH
 -- name    : PI.HwUniqW.one_mem_UH
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:06.570828+00:00
 -- url     : https://prove2.me/theorems/54398497-7a35-4ad8-916a-7700c0db0e2d

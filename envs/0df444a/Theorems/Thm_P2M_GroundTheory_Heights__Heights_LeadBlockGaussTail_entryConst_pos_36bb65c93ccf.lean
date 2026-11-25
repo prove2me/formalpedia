@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_entryConst_pos_36bb65c93ccf
 -- name    : P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_entryConst_pos_36bb65c93ccf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:29:20.512145+00:00
 -- url     : https://prove2.me/theorems/e009b661-9d1b-4d4a-bc0a-32aa55bef157

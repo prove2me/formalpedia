@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrderOne_length_eq_one_of_sat_49a382efb70e
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrderOne_length_eq_one_of_sat_49a382efb70e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:54.654856+00:00
 -- url     : https://prove2.me/theorems/44b5cf84-4b31-41af-91da-7b6e12fa7488

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_le_of_sup_le_ee37547a7a26
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_le_of_sup_le_ee37547a7a26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:33.739465+00:00
 -- url     : https://prove2.me/theorems/5a21f1b1-2d8c-41d4-96bd-4dce9e7c4bf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_frac_unit_locRing_ee3966325a70
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_frac_unit_locRing_ee3966325a70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:33:33.750919+00:00
 -- url     : https://prove2.me/theorems/08018ec9-1864-5835-87b6-fb156a044d76

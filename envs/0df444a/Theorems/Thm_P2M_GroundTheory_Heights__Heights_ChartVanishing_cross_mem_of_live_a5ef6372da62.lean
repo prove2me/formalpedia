@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartVanishing_cross_mem_of_live_a5ef6372da62
 -- name    : P2M_GroundTheory_Heights__Heights_ChartVanishing_cross_mem_of_live_a5ef6372da62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:51.557893+00:00
 -- url     : https://prove2.me/theorems/73994a57-ee23-517b-b0fb-45967fcfbfa1

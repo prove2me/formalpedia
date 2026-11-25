@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UniformSerre_isHomogeneous_sub__7c16f7263714
 -- name    : P2M_GlobalTheory_UniformSerre_isHomogeneous_sub__7c16f7263714
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:17:22.435343+00:00
 -- url     : https://prove2.me/theorems/abc32751-826c-5ea5-b812-6d672e677705

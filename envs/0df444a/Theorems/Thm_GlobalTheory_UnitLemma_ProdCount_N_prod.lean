@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_ProdCount_N_prod
 -- name    : GlobalTheory.UnitLemma.ProdCount.N_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:29:03.701725+00:00
 -- url     : https://prove2.me/theorems/d8e2c7f6-1c5b-440a-bbed-d2f338adae41

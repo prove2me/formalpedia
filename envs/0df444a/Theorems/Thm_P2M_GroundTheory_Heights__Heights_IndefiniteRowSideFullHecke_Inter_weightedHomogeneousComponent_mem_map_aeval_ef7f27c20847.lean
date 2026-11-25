@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_weightedHomogeneousComponent_mem_map_aeval_ef7f27c20847
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_weightedHomogeneousComponent_mem_map_aeval_ef7f27c20847
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:21:58.993054+00:00
 -- url     : https://prove2.me/theorems/3022fb74-842b-4dbd-a137-7973a704b2c7

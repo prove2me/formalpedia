@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_integral_nonneg_complex
 -- name    : Formalism.FourierDecayAlt.P5.integral_nonneg_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:08:43.625743+00:00
 -- url     : https://prove2.me/theorems/953901f4-3cbe-5b95-b87f-c1329d5fa610

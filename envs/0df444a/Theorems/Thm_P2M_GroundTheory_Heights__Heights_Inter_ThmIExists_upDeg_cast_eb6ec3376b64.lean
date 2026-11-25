@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_upDeg_cast_eb6ec3376b64
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_upDeg_cast_eb6ec3376b64
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:51.49453+00:00
 -- url     : https://prove2.me/theorems/07c1b323-81a6-43a8-8599-2470f167c86f

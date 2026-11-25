@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SpreadHomSectionsLoc_map_eqToHom_symm_7dbc8b2d0c3e
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SpreadHomSectionsLoc_map_eqToHom_symm_7dbc8b2d0c3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:49.962147+00:00
 -- url     : https://prove2.me/theorems/6338b007-0621-4f8a-b766-7f138765da14

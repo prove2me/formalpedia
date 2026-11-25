@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__CD_Chart_exists_density_1ad0f7fa557c
 -- name    : P2M_Formalism_BasicNotions_Examples__CD_Chart_exists_density_1ad0f7fa557c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:10.76366+00:00
 -- url     : https://prove2.me/theorems/257cebcb-b713-484e-9048-e0390f1b9c05

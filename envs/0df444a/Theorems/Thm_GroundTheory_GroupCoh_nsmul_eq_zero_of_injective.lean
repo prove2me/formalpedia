@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_nsmul_eq_zero_of_injective
 -- name    : GroundTheory.GroupCoh.nsmul_eq_zero_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:35.527116+00:00
 -- url     : https://prove2.me/theorems/0d1f029e-c60f-583c-ad20-1173f8270195

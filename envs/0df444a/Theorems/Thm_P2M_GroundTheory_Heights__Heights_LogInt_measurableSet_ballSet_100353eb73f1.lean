@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_measurableSet_ballSet_100353eb73f1
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_measurableSet_ballSet_100353eb73f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:34.475981+00:00
 -- url     : https://prove2.me/theorems/a96863e0-f665-5595-9498-6ba7e43fb1fc

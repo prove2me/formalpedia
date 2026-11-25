@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_relDim_splitPrime_1aec8e01fe69
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_relDim_splitPrime_1aec8e01fe69
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:11.520633+00:00
 -- url     : https://prove2.me/theorems/98cc37a1-3e61-572f-8e68-7492c83286a8

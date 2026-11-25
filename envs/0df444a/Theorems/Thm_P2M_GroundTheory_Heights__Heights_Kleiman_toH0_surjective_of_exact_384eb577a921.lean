@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_toH0_surjective_of_exact_384eb577a921
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_toH0_surjective_of_exact_384eb577a921
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:44.26353+00:00
 -- url     : https://prove2.me/theorems/b3ae0c4b-20ed-4749-a799-ce672d3a26d0

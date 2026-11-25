@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_log_pi_sub_log_latticeNormDisc
 -- name    : GlobalTheory.log_pi_sub_log_latticeNormDisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:10:08.976028+00:00
 -- url     : https://prove2.me/theorems/c51cf5ae-f47d-4113-bf45-0e8b6ca58e36

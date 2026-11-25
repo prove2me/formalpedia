@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GradedSubquot_span_monTimes_le_d973d73a9be6
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GradedSubquot_span_monTimes_le_d973d73a9be6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:40.680886+00:00
 -- url     : https://prove2.me/theorems/f5f8ac1a-3187-4ffd-84bc-00545a0e7f1d

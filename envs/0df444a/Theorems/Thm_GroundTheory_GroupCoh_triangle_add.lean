@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_triangle_add
 -- name    : GroundTheory.GroupCoh.triangle_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:08.612231+00:00
 -- url     : https://prove2.me/theorems/1dbab848-aee4-42b1-b5f2-176285700bd2

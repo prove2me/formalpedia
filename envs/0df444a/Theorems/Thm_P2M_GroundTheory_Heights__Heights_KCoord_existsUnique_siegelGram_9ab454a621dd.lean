@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KCoord_existsUnique_siegelGram_9ab454a621dd
 -- name    : P2M_GroundTheory_Heights__Heights_KCoord_existsUnique_siegelGram_9ab454a621dd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:25:02.222122+00:00
 -- url     : https://prove2.me/theorems/583a768e-c178-4d79-bfeb-398397e1652f

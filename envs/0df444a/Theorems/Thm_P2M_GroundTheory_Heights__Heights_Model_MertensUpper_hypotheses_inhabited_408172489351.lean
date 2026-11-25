@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_MertensUpper_hypotheses_inhabited_408172489351
 -- name    : P2M_GroundTheory_Heights__Heights_Model_MertensUpper_hypotheses_inhabited_408172489351
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:38:43.5065+00:00
 -- url     : https://prove2.me/theorems/7f4c2c73-7df0-58f2-af98-8d68b45929da

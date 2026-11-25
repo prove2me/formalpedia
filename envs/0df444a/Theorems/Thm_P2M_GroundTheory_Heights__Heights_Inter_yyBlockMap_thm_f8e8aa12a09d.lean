@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_yyBlockMap_thm_f8e8aa12a09d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_yyBlockMap_thm_f8e8aa12a09d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:25:39.743256+00:00
 -- url     : https://prove2.me/theorems/e25c6bcb-3fde-45f3-853c-65772c04998d

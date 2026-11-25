@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_log_norm_pluriharmonic_feca3f777c61
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_log_norm_pluriharmonic_feca3f777c61
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:27:34.506805+00:00
 -- url     : https://prove2.me/theorems/5a6d9ea5-b1a9-42ce-9ae5-a043e5d72af4

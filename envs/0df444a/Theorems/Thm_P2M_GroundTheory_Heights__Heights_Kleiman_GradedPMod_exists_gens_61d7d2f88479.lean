@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GradedPMod_exists_gens_61d7d2f88479
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GradedPMod_exists_gens_61d7d2f88479
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:30:18.486456+00:00
 -- url     : https://prove2.me/theorems/07aeb645-9f0c-42dd-b1a3-e167799fc077

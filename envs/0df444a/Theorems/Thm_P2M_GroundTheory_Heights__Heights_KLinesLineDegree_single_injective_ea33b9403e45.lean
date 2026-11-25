@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesLineDegree_single_injective_ea33b9403e45
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesLineDegree_single_injective_ea33b9403e45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:56.102156+00:00
 -- url     : https://prove2.me/theorems/4dfee5f8-6d21-584b-96ca-03fa5b2297e5

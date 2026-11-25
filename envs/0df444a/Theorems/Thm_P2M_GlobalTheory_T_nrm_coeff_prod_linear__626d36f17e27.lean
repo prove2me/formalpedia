@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_nrm_coeff_prod_linear__626d36f17e27
 -- name    : P2M_GlobalTheory_T_nrm_coeff_prod_linear__626d36f17e27
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:22.800443+00:00
 -- url     : https://prove2.me/theorems/fd6ea74e-b327-54a8-8687-ffe1a946ef96

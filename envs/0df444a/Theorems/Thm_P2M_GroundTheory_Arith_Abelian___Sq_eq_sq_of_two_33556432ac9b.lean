@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_Abelian___Sq_eq_sq_of_two_33556432ac9b
 -- name    : P2M_GroundTheory_Arith_Abelian___Sq_eq_sq_of_two_33556432ac9b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:28.325846+00:00
 -- url     : https://prove2.me/theorems/0f34ffb9-90ff-4344-b21a-7ba10bb56167

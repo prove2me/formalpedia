@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_CapEig_capelli_clm
 -- name    : CompanionTheory.CapEig.capelli_clm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:42:55.082371+00:00
 -- url     : https://prove2.me/theorems/db67fa0d-6511-5778-af42-664cc8bafc4b

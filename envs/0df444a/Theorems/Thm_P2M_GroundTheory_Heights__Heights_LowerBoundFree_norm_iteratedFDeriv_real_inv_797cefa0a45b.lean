@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_norm_iteratedFDeriv_real_inv_797cefa0a45b
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_norm_iteratedFDeriv_real_inv_797cefa0a45b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:23.933187+00:00
 -- url     : https://prove2.me/theorems/16f8dc2c-6e8c-403f-8944-793e6078a8f1

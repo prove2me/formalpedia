@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasDirichletDensity_univ
 -- name    : GroundTheory.Global.hasDirichletDensity_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:15:17.7878+00:00
 -- url     : https://prove2.me/theorems/08cb649a-1606-4e84-b68b-77864589e643

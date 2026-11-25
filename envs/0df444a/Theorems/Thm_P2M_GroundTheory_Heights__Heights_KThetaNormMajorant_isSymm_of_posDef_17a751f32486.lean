@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KThetaNormMajorant_isSymm_of_posDef_17a751f32486
 -- name    : P2M_GroundTheory_Heights__Heights_KThetaNormMajorant_isSymm_of_posDef_17a751f32486
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:26:03.439663+00:00
 -- url     : https://prove2.me/theorems/44a265dc-71cd-4579-ad70-826d18d7b317

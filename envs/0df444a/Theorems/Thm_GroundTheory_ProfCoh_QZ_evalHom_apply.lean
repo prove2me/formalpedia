@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_QZ_evalHom_apply
 -- name    : GroundTheory.ProfCoh.QZ.evalHom_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:05.167982+00:00
 -- url     : https://prove2.me/theorems/431dd0e6-78b3-524a-bc57-6173244cee14

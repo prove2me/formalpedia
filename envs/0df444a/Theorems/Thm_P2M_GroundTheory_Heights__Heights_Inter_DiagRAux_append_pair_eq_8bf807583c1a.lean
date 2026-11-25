@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_append_pair_eq_8bf807583c1a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_append_pair_eq_8bf807583c1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:54.511803+00:00
 -- url     : https://prove2.me/theorems/51b9ca48-7b7c-445c-a7db-4267390df28a

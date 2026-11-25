@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_killBlocks_monomial_of_mem_58776ae9e633
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_killBlocks_monomial_of_mem_58776ae9e633
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:36:01.568178+00:00
 -- url     : https://prove2.me/theorems/f6c578bc-b811-5a79-8a27-5b2475a057d8

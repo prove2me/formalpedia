@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbEventuallyPoly_hilbFn_eq_zero_of_block_4ff705798091
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbEventuallyPoly_hilbFn_eq_zero_of_block_4ff705798091
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:45.603558+00:00
 -- url     : https://prove2.me/theorems/171a27c4-2ea2-5be1-b847-6342559b9cdf

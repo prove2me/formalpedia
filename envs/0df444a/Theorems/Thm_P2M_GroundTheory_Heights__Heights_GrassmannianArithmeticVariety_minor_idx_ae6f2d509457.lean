@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassmannianArithmeticVariety_minor_idx_ae6f2d509457
 -- name    : P2M_GroundTheory_Heights__Heights_GrassmannianArithmeticVariety_minor_idx_ae6f2d509457
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:09.461461+00:00
 -- url     : https://prove2.me/theorems/a0a6c409-59a2-47e6-afa4-9d5f0afeab1e

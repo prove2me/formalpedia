@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbAddBlock_splitEquiv_rename_newVar_f0df36e5915f
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbAddBlock_splitEquiv_rename_newVar_f0df36e5915f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:09.385449+00:00
 -- url     : https://prove2.me/theorems/50e1b609-db54-4cb7-be10-209e75f51489

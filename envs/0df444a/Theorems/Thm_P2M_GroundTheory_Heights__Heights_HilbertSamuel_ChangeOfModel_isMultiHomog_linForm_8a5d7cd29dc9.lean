@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ChangeOfModel_isMultiHomog_linForm_8a5d7cd29dc9
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ChangeOfModel_isMultiHomog_linForm_8a5d7cd29dc9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:22:07.621815+00:00
 -- url     : https://prove2.me/theorems/56d81c14-8d2e-5ead-ad35-f4522455abef

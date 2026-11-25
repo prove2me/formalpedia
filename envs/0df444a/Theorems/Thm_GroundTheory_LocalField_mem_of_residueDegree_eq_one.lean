@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_of_residueDegree_eq_one
 -- name    : GroundTheory.LocalField.mem_of_residueDegree_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:14:41.130921+00:00
 -- url     : https://prove2.me/theorems/b5ae8b4c-a09c-5793-a081-9423ec4216f7

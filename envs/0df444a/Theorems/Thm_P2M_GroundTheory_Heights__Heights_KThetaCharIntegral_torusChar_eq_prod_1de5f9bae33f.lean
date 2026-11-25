@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KThetaCharIntegral_torusChar_eq_prod_1de5f9bae33f
 -- name    : P2M_GroundTheory_Heights__Heights_KThetaCharIntegral_torusChar_eq_prod_1de5f9bae33f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:16.976184+00:00
 -- url     : https://prove2.me/theorems/cbe9f09a-da33-5948-9e82-4acf237305e1

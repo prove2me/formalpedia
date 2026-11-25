@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_good_top_level_zero
 -- name    : Formalism.FourierDecayAlt.P.PBG.good_top_level_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:57:05.830051+00:00
 -- url     : https://prove2.me/theorems/a47da36b-725a-5b76-9d2e-f924b445acac

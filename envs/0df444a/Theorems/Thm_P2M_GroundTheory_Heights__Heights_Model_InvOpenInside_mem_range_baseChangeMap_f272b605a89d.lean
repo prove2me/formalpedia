@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_InvOpenInside_mem_range_baseChangeMap_f272b605a89d
 -- name    : P2M_GroundTheory_Heights__Heights_Model_InvOpenInside_mem_range_baseChangeMap_f272b605a89d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:48.521808+00:00
 -- url     : https://prove2.me/theorems/f155dfe5-2558-46bf-b65c-aa4f670ca481

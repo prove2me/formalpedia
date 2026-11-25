@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_norm_uniformizerUnit_zpow
 -- name    : GroundTheory.Global.norm_uniformizerUnit_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:20.773593+00:00
 -- url     : https://prove2.me/theorems/8d869106-7227-4c4d-8310-a5becbd79693

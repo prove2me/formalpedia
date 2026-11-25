@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_LaplacianDecayZero_integral_line_eq_zero_d86e5e301ac3
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_LaplacianDecayZero_integral_line_eq_zero_d86e5e301ac3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:28:03.081296+00:00
 -- url     : https://prove2.me/theorems/51abd7d8-4d34-4b8e-99f1-b6c9d252bb31

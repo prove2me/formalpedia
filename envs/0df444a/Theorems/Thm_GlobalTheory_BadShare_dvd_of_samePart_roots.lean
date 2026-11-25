@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_dvd_of_samePart_roots
 -- name    : GlobalTheory.BadShare.dvd_of_samePart_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:13:51.505196+00:00
 -- url     : https://prove2.me/theorems/c86d9e4c-5639-4e0f-9742-0804e04ba088

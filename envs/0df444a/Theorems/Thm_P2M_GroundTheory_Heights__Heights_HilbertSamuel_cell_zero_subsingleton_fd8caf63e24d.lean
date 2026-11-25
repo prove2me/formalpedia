@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_cell_zero_subsingleton_fd8caf63e24d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_cell_zero_subsingleton_fd8caf63e24d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:31.99285+00:00
 -- url     : https://prove2.me/theorems/f13b0399-d4bf-4e9b-bb72-57287f8d5204

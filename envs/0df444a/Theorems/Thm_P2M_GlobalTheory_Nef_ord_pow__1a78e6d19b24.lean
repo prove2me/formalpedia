@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Nef_ord_pow__1a78e6d19b24
 -- name    : P2M_GlobalTheory_Nef_ord_pow__1a78e6d19b24
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:16:21.243+00:00
 -- url     : https://prove2.me/theorems/a9d06559-656b-4405-84a9-05f6aff3770c

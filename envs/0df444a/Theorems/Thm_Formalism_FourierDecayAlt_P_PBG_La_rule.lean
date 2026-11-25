@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_La_rule
 -- name    : Formalism.FourierDecayAlt.P.PBG.La_rule
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:59:32.589709+00:00
 -- url     : https://prove2.me/theorems/af9972d3-e4a9-4a32-ae81-0204f58c7579

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_QuotSetU_cdiag_conj_WB
 -- name    : CompanionTheory.D.Upq.QuotSetU.cdiag_conj_WB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:42:33.774092+00:00
 -- url     : https://prove2.me/theorems/c9f4b660-ce3b-41a1-ad29-68f539dd8441

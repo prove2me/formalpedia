@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_eq_zero_of_rank_le
 -- name    : SNumbers.bernsteinNumber_eq_zero_of_rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:11:45.674932+00:00
 -- url     : https://prove2.me/theorems/82f33785-4c03-43bf-92f2-12155ab94371

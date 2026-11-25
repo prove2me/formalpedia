@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_OrthogonalSumAlt_degD_eq
 -- name    : Formalism.BranchingDeterminantCap.OrthogonalSumAlt.degD_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:19:06.370515+00:00
 -- url     : https://prove2.me/theorems/d6944f4b-e45d-45fc-8e75-9f5bc5951073

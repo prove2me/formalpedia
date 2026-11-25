@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisorInequality_boundsMu
 -- name    : Formalism.DivisorInequality.boundsMu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:23:35.262032+00:00
 -- url     : https://prove2.me/theorems/70edb806-8645-48f0-9c2f-0809948f2373

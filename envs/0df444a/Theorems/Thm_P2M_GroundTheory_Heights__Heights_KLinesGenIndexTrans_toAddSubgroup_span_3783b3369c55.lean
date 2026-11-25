@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesGenIndexTrans_toAddSubgroup_span_3783b3369c55
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesGenIndexTrans_toAddSubgroup_span_3783b3369c55
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:56.759885+00:00
 -- url     : https://prove2.me/theorems/20938072-18aa-4dfe-b0f9-d581157c3243

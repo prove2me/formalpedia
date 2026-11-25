@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_coeff_killBlocks_263d92e57432
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_coeff_killBlocks_263d92e57432
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:25.915321+00:00
 -- url     : https://prove2.me/theorems/329021e5-4f84-52c7-993a-b9d2c36e0f56

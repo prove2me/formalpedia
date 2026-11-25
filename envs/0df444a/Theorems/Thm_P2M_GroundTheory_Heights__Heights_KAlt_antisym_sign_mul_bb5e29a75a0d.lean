@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_antisym_sign_mul_bb5e29a75a0d
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_antisym_sign_mul_bb5e29a75a0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:33.301543+00:00
 -- url     : https://prove2.me/theorems/6256cfde-3db5-564a-a7d8-ed1fe3220a55

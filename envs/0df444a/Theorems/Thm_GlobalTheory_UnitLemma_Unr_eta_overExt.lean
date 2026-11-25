@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unr_eta_overExt
 -- name    : GlobalTheory.UnitLemma.Unr.eta_overExt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:36:19.628815+00:00
 -- url     : https://prove2.me/theorems/297d2e57-0095-4d13-b7b5-5495aa5ea0cb

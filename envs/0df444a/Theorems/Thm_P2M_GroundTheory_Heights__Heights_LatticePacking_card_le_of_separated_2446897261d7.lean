@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticePacking_card_le_of_separated_2446897261d7
 -- name    : P2M_GroundTheory_Heights__Heights_LatticePacking_card_le_of_separated_2446897261d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:57.451083+00:00
 -- url     : https://prove2.me/theorems/c0a28a2e-086a-469d-be50-4437a5f675f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_eventualValue_eq_zero_9297a58f17ee
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_eventualValue_eq_zero_9297a58f17ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:37.088128+00:00
 -- url     : https://prove2.me/theorems/c4495813-a052-52b0-8cbf-6482f5de83f3

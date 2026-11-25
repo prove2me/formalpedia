@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalResidue_holds_chartMap_form_f055cef6c4da
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalResidue_holds_chartMap_form_f055cef6c4da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:25:56.699902+00:00
 -- url     : https://prove2.me/theorems/37a2fea7-afe3-4642-90f0-b1d1de91698f

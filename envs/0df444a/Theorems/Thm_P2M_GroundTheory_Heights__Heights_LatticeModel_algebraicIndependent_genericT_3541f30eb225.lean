@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_algebraicIndependent_genericT_3541f30eb225
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_algebraicIndependent_genericT_3541f30eb225
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:31:36.07258+00:00
 -- url     : https://prove2.me/theorems/e37ff10c-8e97-4752-9402-3225f29ecccb

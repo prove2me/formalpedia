@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_schwartz_pow_mul_iteratedFDeriv_le_sqrt_sum_weighted_sq
 -- name    : GlobalTheory.schwartz_pow_mul_iteratedFDeriv_le_sqrt_sum_weighted_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:20:51.15+00:00
 -- url     : https://prove2.me/theorems/b6a52578-b6f1-4116-b3d7-04d266b276e7

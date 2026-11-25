@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_ConePolar_plane
 -- name    : GlobalTheory.HCXi.ConePolar.plane
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:51:13.41031+00:00
 -- url     : https://prove2.me/theorems/5a42720a-8c5c-432d-8602-53bbf533280d

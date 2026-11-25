@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_isLocalRing_end_of_isIndecomposable
 -- name    : PretorsionImageClosed.isLocalRing_end_of_isIndecomposable
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:08:35.067578+00:00
 -- url     : https://prove2.me/theorems/ccdd009d-f691-4cd6-8081-2d4865f844fa

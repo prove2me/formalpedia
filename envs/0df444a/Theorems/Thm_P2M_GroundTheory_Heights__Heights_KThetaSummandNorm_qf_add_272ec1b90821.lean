@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KThetaSummandNorm_qf_add_272ec1b90821
 -- name    : P2M_GroundTheory_Heights__Heights_KThetaSummandNorm_qf_add_272ec1b90821
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:26:15.465929+00:00
 -- url     : https://prove2.me/theorems/617d5fc8-9e85-4a6a-a1fc-14719b40b0a4

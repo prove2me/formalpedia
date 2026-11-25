@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermitianBundle_normDegree_le_rank_mul_39ef423f891f
 -- name    : P2M_GroundTheory_Heights__Heights_HermitianBundle_normDegree_le_rank_mul_39ef423f891f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:19:46.804086+00:00
 -- url     : https://prove2.me/theorems/b78fcf01-b100-4cf0-bdeb-9fc433a405e6

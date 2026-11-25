@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GradedSubquot_iSupIndep_comap_c20b593583ec
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GradedSubquot_iSupIndep_comap_c20b593583ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:53.672614+00:00
 -- url     : https://prove2.me/theorems/7e7f463f-7e9b-5d7f-9a30-bd4e8a3172d9

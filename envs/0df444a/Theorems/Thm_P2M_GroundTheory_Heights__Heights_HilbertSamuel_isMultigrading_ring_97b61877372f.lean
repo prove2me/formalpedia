@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_isMultigrading_ring_97b61877372f
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_isMultigrading_ring_97b61877372f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:16.874191+00:00
 -- url     : https://prove2.me/theorems/e1f6c4e0-5c99-413b-96f2-2fd647159f65

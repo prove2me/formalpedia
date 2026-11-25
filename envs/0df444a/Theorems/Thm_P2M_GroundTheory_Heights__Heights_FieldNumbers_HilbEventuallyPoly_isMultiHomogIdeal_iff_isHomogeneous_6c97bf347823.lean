@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbEventuallyPoly_isMultiHomogIdeal_iff_isHomogeneous_6c97bf347823
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbEventuallyPoly_isMultiHomogIdeal_iff_isHomogeneous_6c97bf347823
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:51.057125+00:00
 -- url     : https://prove2.me/theorems/3b64f230-cf5a-56fb-b747-50c4844714a6

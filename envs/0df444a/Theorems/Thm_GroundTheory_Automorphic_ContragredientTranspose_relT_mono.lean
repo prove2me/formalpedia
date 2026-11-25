@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_ContragredientTranspose_relT_mono
 -- name    : GroundTheory.Automorphic.ContragredientTranspose.relT_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:57:53.489357+00:00
 -- url     : https://prove2.me/theorems/6947fb15-f448-43a0-9389-1f07471076f2

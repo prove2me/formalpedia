@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemipositiveTwist_levi_zero_fun_1d97ee7a5fc5
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemipositiveTwist_levi_zero_fun_1d97ee7a5fc5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:31:20.860434+00:00
 -- url     : https://prove2.me/theorems/7e3cf31a-2266-5dfe-abf2-cf3a5b90d696

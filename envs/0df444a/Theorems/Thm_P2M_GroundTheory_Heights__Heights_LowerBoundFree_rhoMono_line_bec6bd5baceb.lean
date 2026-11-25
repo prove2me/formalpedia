@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_rhoMono_line_bec6bd5baceb
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_rhoMono_line_bec6bd5baceb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:07.081553+00:00
 -- url     : https://prove2.me/theorems/5cd826c6-dcee-55e9-8cab-ca6f3da61c9e

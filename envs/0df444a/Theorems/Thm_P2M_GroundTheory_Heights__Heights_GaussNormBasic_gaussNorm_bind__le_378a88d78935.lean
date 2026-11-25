@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussNormBasic_gaussNorm_bind__le_378a88d78935
 -- name    : P2M_GroundTheory_Heights__Heights_GaussNormBasic_gaussNorm_bind__le_378a88d78935
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:10.462257+00:00
 -- url     : https://prove2.me/theorems/f2d684c4-6282-457a-823a-c6d45b729161

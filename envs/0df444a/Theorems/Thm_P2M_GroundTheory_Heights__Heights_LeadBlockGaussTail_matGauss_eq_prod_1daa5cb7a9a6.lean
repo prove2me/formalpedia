@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_matGauss_eq_prod_1daa5cb7a9a6
 -- name    : P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_matGauss_eq_prod_1daa5cb7a9a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:29:03.579411+00:00
 -- url     : https://prove2.me/theorems/e41bad31-f2b2-47af-9aec-a79a4aeb6296

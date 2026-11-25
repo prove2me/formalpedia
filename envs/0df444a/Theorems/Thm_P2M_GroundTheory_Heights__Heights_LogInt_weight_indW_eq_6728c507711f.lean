@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_weight_indW_eq_6728c507711f
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_weight_indW_eq_6728c507711f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:27:58.800636+00:00
 -- url     : https://prove2.me/theorems/1b862ba4-9cca-434c-9ef9-dcb1cc22554f

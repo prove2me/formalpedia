@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLine_conj_point_933b0adfa5ff
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLine_conj_point_933b0adfa5ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:29:06.366041+00:00
 -- url     : https://prove2.me/theorems/1e8a9e23-ca91-42f2-ab2c-eb6aef310215

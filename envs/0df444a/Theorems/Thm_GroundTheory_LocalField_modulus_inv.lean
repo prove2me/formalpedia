@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_modulus_inv
 -- name    : GroundTheory.LocalField.modulus_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:33:04.770424+00:00
 -- url     : https://prove2.me/theorems/c107f41a-8ecd-4e2a-8435-d13ce32803be

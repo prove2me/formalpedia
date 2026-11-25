@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bernsteinNumber_add_le
 -- name    : SNumbers.bernsteinNumber_add_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T03:48:41.959229+00:00
 -- url     : https://prove2.me/theorems/20ac71d5-8a86-4d93-ab46-b2a3ccf6c39b

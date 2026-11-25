@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiniteSeparatingModel_exists_minpoly_426ccccab7a9
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_FiniteSeparatingModel_exists_minpoly_426ccccab7a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:45.114324+00:00
 -- url     : https://prove2.me/theorems/45cf1ff0-0715-4ba8-aacb-c0b8487673d3

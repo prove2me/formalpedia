@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_entropyNumber_comp_comp_le
 -- name    : SNumbers.entropyNumber_comp_comp_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:19.803265+00:00
 -- url     : https://prove2.me/theorems/9d2621ce-85da-4127-ac7f-143bce11c14a

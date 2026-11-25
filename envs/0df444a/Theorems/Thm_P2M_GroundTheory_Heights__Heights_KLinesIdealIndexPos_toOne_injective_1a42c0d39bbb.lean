@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesIdealIndexPos_toOne_injective_1a42c0d39bbb
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesIdealIndexPos_toOne_injective_1a42c0d39bbb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:06.085051+00:00
 -- url     : https://prove2.me/theorems/adb96cca-a461-4d74-a9d9-20c948502cdb

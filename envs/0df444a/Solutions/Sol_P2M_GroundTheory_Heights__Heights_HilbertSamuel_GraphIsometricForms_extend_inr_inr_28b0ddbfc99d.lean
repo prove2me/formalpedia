@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_extend_inr_inr_28b0ddbfc99d
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T03:55:48.721432+00:00
+-- url     : https://prove2.me/submissions/b8e956ac-5cf4-4336-a1be-ff657e20127b
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_Intersections_StatementsSemilocRing
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_PGraphIsometric
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_PGraphChangeOfModel
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_StatementsGraphIsometricForms
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_PGraphIsometricForms
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+set_option linter.unusedSectionVars false
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.HilbertSamuel
+open MvPolynomial ReciprocityTheory.ChartRestriction.G.Geo ReciprocityTheory.ChartRestriction.G.AI.I1 ReciprocityTheory.ChartRestriction.G.AI.I4
+open GroundTheory.Heights₂.Heights.HilbertSamuel.GraphIsometricForms
+variable {K K₂ M : Type*} [Zero M]
+namespace GroundTheory.Heights₂.Heights.HilbertSamuel.GraphIsometricForms
+theorem _root_.solution (f : K₂ → M) (k : K₂) : Function.extend (Sum.inr : K₂ → K ⊕ K₂) f 0 (Sum.inr k) = f k :=
+  Sum.inr_injective.extend_apply _ _ _
+end GroundTheory.Heights₂.Heights.HilbertSamuel.GraphIsometricForms

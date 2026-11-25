@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tateIsoH___zero_apply_fafde24824b4
 -- name    : P2M_GroundTheory_GroupCoh_tateIsoH___zero_apply_fafde24824b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:21.545446+00:00
 -- url     : https://prove2.me/theorems/071f249e-f6d9-46d8-bc1e-340efec087df

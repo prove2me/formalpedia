@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbAddBlock_comb_decomp_d0a17f4bc2c8
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbAddBlock_comb_decomp_d0a17f4bc2c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:49.42722+00:00
 -- url     : https://prove2.me/theorems/5e7eada1-4fd7-568c-97df-e79a924bde3f

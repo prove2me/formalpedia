@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussNormBasic_norm_sum_le_one_2f0d05efeaa4
 -- name    : P2M_GroundTheory_Heights__Heights_GaussNormBasic_norm_sum_le_one_2f0d05efeaa4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:08.051801+00:00
 -- url     : https://prove2.me/theorems/9a71b591-6b37-42fd-8d23-50b64d0013e4

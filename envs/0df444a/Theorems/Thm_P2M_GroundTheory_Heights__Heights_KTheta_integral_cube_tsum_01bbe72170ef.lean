@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KTheta_integral_cube_tsum_01bbe72170ef
 -- name    : P2M_GroundTheory_Heights__Heights_KTheta_integral_cube_tsum_01bbe72170ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:26:29.871429+00:00
 -- url     : https://prove2.me/theorems/cbb24b7c-6a00-4272-8a8e-85af12cae78f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_smulQuotient_mk_eq_mk_iff
 -- name    : GroundTheory.Global.IdeleGroup.smulQuotient_mk_eq_mk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:53:37.048079+00:00
 -- url     : https://prove2.me/theorems/ee14044d-263b-5350-863a-7a716a70b1f4

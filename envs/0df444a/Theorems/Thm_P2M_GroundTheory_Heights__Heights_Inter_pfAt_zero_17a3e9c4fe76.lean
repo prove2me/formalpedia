@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pfAt_zero_17a3e9c4fe76
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pfAt_zero_17a3e9c4fe76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:25.403812+00:00
 -- url     : https://prove2.me/theorems/29780b6a-3cff-48c5-aa6f-8d0ddd82f4e1

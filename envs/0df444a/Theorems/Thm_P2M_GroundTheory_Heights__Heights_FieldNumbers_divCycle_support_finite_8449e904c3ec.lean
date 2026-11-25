@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_divCycle_support_finite_8449e904c3ec
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_divCycle_support_finite_8449e904c3ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:42.668359+00:00
 -- url     : https://prove2.me/theorems/9654f1c8-e661-5b53-8c07-b458dcf625f3

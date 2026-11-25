@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__ContTwo_cont_double_f57828b407eb
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__ContTwo_cont_double_f57828b407eb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:03:36.717617+00:00
 -- url     : https://prove2.me/theorems/58ebf5d4-e81b-4592-8aa1-b94c4b2c2af4

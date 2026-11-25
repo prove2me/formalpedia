@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_sClosure_isFinitary
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.sClosure_isFinitary
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:16:50.049543+00:00
 -- url     : https://prove2.me/theorems/545d9509-162d-4cd1-a744-971dda6a3505

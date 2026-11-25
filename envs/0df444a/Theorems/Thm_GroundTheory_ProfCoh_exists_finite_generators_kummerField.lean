@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_finite_generators_kummerField
 -- name    : GroundTheory.ProfCoh.exists_finite_generators_kummerField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:43.669484+00:00
 -- url     : https://prove2.me/theorems/8ff29bdc-5678-4839-b7eb-1faf882f6c3a

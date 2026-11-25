@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_memLp_two_prod_mul
 -- name    : GroundTheory.Automorphic.Sobolev.memLp_two_prod_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:14:51.017209+00:00
 -- url     : https://prove2.me/theorems/6dd3fad2-364d-4507-9c4f-630f55a29bf3

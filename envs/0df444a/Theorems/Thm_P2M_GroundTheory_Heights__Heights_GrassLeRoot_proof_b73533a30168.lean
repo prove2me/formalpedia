@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GrassLeRoot_proof_b73533a30168
 -- name    : P2M_GroundTheory_Heights__Heights_GrassLeRoot_proof_b73533a30168
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:11:42.313103+00:00
 -- url     : https://prove2.me/theorems/2a1cd961-8a9f-4e13-bd94-a2372290af29

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GradedPres_freeBasis_mem_820eb7053f2b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GradedPres_freeBasis_mem_820eb7053f2b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:30:52.07242+00:00
 -- url     : https://prove2.me/theorems/146ebeed-50f4-4a7e-89ba-77fe243884db

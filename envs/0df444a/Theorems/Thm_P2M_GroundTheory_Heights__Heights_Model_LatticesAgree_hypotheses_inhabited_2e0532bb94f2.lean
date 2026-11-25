@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_LatticesAgree_hypotheses_inhabited_2e0532bb94f2
 -- name    : P2M_GroundTheory_Heights__Heights_Model_LatticesAgree_hypotheses_inhabited_2e0532bb94f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:29:00.993961+00:00
 -- url     : https://prove2.me/theorems/a60bc356-2e3a-4fec-be9b-4dfa2beb0c57

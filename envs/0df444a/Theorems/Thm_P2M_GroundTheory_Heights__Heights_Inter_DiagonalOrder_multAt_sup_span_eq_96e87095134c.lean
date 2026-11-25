@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrder_multAt_sup_span_eq_96e87095134c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOrder_multAt_sup_span_eq_96e87095134c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:51.496111+00:00
 -- url     : https://prove2.me/theorems/1e5f0d35-e169-5e91-9bd7-12d64ff4d366

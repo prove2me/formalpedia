@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_mem_maximalIdeal_iff_2f60d05acc3b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_mem_maximalIdeal_iff_2f60d05acc3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:25:54.230249+00:00
 -- url     : https://prove2.me/theorems/40b35290-d14e-4edd-a232-356147d657e3

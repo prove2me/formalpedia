@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_CechOrdered_exists_d_eq_sub_altProj
 -- name    : GroundTheory.Arith.SchemeCoh.CechOrdered.exists_d_eq_sub_altProj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:02:47.093026+00:00
 -- url     : https://prove2.me/theorems/76c9b854-98c5-4616-82bd-1c2db0990add

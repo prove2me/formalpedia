@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ModelSquareFunctions_isProper_genericFibre
 -- name    : GlobalTheory.ModelSquareFunctions.isProper_genericFibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:52:43.124505+00:00
 -- url     : https://prove2.me/theorems/ea773c92-da9a-4fdc-a554-3ef8e8998d02

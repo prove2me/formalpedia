@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_normDiscrete_isDiscreteValuationRing
 -- name    : GlobalTheory.normDiscrete_isDiscreteValuationRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:56:25.444654+00:00
 -- url     : https://prove2.me/theorems/ab619b5c-2dd9-46bd-964a-203ae2676f25

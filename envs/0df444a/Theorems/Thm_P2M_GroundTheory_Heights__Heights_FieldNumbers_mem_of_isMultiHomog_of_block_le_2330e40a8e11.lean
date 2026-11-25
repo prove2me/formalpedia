@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_mem_of_isMultiHomog_of_block_le_2330e40a8e11
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_mem_of_isMultiHomog_of_block_le_2330e40a8e11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:19.565109+00:00
 -- url     : https://prove2.me/theorems/e7b5f296-30dc-42fb-8f51-e7e4b8db30f5

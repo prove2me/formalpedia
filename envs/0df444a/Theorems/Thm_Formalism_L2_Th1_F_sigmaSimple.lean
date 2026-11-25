@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sigmaSimple
 -- name    : Formalism.L2.Th1.F.sigmaSimple
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:05.297701+00:00
 -- url     : https://prove2.me/theorems/4c339649-8e51-42b1-a54a-b3485e17f718

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalOffMinor_map_comp_subst_dde6ca6167d5
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalOffMinor_map_comp_subst_dde6ca6167d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:25:51.185861+00:00
 -- url     : https://prove2.me/theorems/30e61ee6-4d71-4d05-ad1c-5c40f77e0822

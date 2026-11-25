@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Nef_PlaceResiduePowerBound_pow_le_one_iff__b5da8e0cef6d
 -- name    : P2M_GlobalTheory_Nef_PlaceResiduePowerBound_pow_le_one_iff__b5da8e0cef6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:41.974934+00:00
 -- url     : https://prove2.me/theorems/aea6aa1b-4caf-4acf-9c52-f7733fb16110

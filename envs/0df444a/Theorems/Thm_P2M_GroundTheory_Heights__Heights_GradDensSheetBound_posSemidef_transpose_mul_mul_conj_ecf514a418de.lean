@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradDensSheetBound_posSemidef_transpose_mul_mul_conj_ecf514a418de
 -- name    : P2M_GroundTheory_Heights__Heights_GradDensSheetBound_posSemidef_transpose_mul_mul_conj_ecf514a418de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:36.236347+00:00
 -- url     : https://prove2.me/theorems/92a21673-bb58-4e55-9089-f4e90708319a

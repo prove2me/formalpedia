@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_homologyMap_eq_id_of_f_eq_id
 -- name    : GroundTheory.GroupCoh.homologyMap_eq_id_of_f_eq_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:47.970439+00:00
 -- url     : https://prove2.me/theorems/cd2543ee-8ef6-5f26-a9a1-4d00dea31a33

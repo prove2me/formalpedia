@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_sum_eq_sum_quotient_sum
 -- name    : GroundTheory.GroupCoh.sum_eq_sum_quotient_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:08.354812+00:00
 -- url     : https://prove2.me/theorems/70959e60-4ed2-4b6f-8fc5-fa4e1b9a2eb9

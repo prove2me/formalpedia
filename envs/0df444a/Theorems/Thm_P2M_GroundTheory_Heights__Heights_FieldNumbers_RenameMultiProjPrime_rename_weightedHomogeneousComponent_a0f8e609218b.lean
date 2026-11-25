@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_RenameMultiProjPrime_rename_weightedHomogeneousComponent_a0f8e609218b
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_RenameMultiProjPrime_rename_weightedHomogeneousComponent_a0f8e609218b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:01:37.675384+00:00
 -- url     : https://prove2.me/theorems/5368b251-8e85-4b75-a4f3-18d7297e76d4

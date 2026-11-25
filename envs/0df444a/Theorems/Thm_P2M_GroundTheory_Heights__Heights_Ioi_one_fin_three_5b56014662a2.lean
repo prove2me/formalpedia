@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Ioi_one_fin_three_5b56014662a2
 -- name    : P2M_GroundTheory_Heights__Heights_Ioi_one_fin_three_5b56014662a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:25:03.007338+00:00
 -- url     : https://prove2.me/theorems/ba9ff6e1-8257-4895-afcf-f8f84b9dca2b

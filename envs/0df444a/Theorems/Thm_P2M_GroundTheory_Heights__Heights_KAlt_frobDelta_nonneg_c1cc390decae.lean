@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_frobDelta_nonneg_c1cc390decae
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_frobDelta_nonneg_c1cc390decae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:44.711981+00:00
 -- url     : https://prove2.me/theorems/9f3651bd-872b-4fb8-94a6-5cbdd57ade80

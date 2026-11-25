@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_omega_eq_zero_of_p_smul_eq_zero
 -- name    : GlobalTheory.omega_eq_zero_of_p_smul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:56:01.46399+00:00
 -- url     : https://prove2.me/theorems/2ec7addc-6c22-58f8-a740-87faf3e30fa1

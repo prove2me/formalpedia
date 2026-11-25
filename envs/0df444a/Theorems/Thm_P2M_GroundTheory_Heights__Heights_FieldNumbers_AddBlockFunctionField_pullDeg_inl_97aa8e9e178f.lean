@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_AddBlockFunctionField_pullDeg_inl_97aa8e9e178f
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_AddBlockFunctionField_pullDeg_inl_97aa8e9e178f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:56.762251+00:00
 -- url     : https://prove2.me/theorems/064c999b-725a-50ca-862f-71f4447aaffa

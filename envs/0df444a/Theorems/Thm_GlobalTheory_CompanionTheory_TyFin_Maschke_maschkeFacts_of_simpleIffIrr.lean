@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Maschke_maschkeFacts_of_simpleIffIrr
 -- name    : GlobalTheory.CompanionTheory.TyFin.Maschke.maschkeFacts_of_simpleIffIrr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:18:43.840794+00:00
 -- url     : https://prove2.me/theorems/c29172e0-4c4e-4d37-a376-52986aa554c9

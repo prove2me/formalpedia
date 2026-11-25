@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_backwardDifference_eq_zero_of_eventually_const_cf126017d8d7
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_backwardDifference_eq_zero_of_eventually_const_cf126017d8d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:19:08.8105+00:00
 -- url     : https://prove2.me/theorems/bdd1d95c-f224-4dca-9139-c0d64aa7d7f9

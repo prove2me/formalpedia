@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_leviOf_real_smul_right_41833679cb9c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_leviOf_real_smul_right_41833679cb9c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:25:47.142912+00:00
 -- url     : https://prove2.me/theorems/d0b7e091-6df2-466c-b3c7-bcae59d9eae6

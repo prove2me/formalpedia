@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_finrank_ker_aeval_eq_natDegree_mul_finrank_eigenspace__bb7ee37dbac7
 -- name    : P2M_GlobalTheory_T_finrank_ker_aeval_eq_natDegree_mul_finrank_eigenspace__bb7ee37dbac7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:10:06.632147+00:00
 -- url     : https://prove2.me/theorems/66c448db-68a3-429e-b232-3f7621d999ec

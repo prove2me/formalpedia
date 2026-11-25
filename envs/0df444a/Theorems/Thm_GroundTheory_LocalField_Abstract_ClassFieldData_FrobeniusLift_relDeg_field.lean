@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_FrobeniusLift_relDeg_field
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.FrobeniusLift.relDeg_field
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:20.793389+00:00
 -- url     : https://prove2.me/theorems/f0cf7db3-f184-41ba-beb3-66d39d879201

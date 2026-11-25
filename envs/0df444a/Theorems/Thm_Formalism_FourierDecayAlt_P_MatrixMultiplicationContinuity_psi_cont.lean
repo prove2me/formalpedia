@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_psi_cont
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.psi_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:07.577734+00:00
 -- url     : https://prove2.me/theorems/78847117-2470-56ec-97b5-d90bf9e995b8

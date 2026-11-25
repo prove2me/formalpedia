@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GradDensSheetBound_vecMulVec_real_smul_897eed499e88
 -- name    : P2M_GroundTheory_Heights__Heights_GradDensSheetBound_vecMulVec_real_smul_897eed499e88
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:22.844866+00:00
 -- url     : https://prove2.me/theorems/09279f27-d8fc-4616-89d4-50f6bbea3389

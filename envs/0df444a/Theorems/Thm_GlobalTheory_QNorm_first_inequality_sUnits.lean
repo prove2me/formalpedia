@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QNorm_first_inequality_sUnits
 -- name    : GlobalTheory.QNorm.first_inequality_sUnits
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:44:09.8248+00:00
 -- url     : https://prove2.me/theorems/f0e6b5da-cc1e-4953-9285-bce1636c8be6

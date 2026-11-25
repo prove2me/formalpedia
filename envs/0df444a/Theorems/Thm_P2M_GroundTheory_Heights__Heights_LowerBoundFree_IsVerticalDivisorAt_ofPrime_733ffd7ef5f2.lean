@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_IsVerticalDivisorAt_ofPrime_733ffd7ef5f2
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_IsVerticalDivisorAt_ofPrime_733ffd7ef5f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:28:41.268104+00:00
 -- url     : https://prove2.me/theorems/aff59d32-f76d-424e-bb8a-1fa39483b244

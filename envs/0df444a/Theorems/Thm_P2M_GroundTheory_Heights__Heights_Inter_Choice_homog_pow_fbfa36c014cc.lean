@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Choice_homog_pow_fbfa36c014cc
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Choice_homog_pow_fbfa36c014cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:22:48.306185+00:00
 -- url     : https://prove2.me/theorems/57dcfafb-5acf-4ae3-93c6-fabf41ccbd32

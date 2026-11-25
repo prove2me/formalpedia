@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_termCountNorm_of
 -- name    : GlobalTheory.CompareIterDegree.termCountNorm_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:58:53.10732+00:00
 -- url     : https://prove2.me/theorems/0fdeddd7-f1c1-5af1-922d-699e5adfdb73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_fracPairs_div_c2105d6455a7
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_fracPairs_div_c2105d6455a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:17.449376+00:00
 -- url     : https://prove2.me/theorems/e2082859-3f3f-4a77-80b5-67670c0fe650

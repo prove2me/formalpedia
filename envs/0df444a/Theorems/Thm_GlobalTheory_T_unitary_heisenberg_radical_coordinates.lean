@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitary_heisenberg_radical_coordinates
 -- name    : GlobalTheory.T.unitary_heisenberg_radical_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:02:13.418502+00:00
 -- url     : https://prove2.me/theorems/61f1b98c-016c-46c9-aa7a-15a8607ecda8

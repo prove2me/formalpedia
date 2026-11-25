@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_isOpen_leftCosetSet_d0ad5d875986
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_isOpen_leftCosetSet_d0ad5d875986
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:02.248177+00:00
 -- url     : https://prove2.me/theorems/77c2f07d-6fc6-4b8b-8f67-aea5cb9e1ca9

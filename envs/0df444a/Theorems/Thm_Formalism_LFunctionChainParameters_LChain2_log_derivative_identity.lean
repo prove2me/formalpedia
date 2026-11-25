@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_log_derivative_identity
 -- name    : Formalism.LFunctionChainParameters.LChain2.log_derivative_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:50:12.097161+00:00
 -- url     : https://prove2.me/theorems/7c35de6b-69a0-427f-9c72-b2724d45c5b8

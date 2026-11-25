@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_chartAbsDens_indicator_le_4689caedb961
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_chartAbsDens_indicator_le_4689caedb961
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:22:51.972447+00:00
 -- url     : https://prove2.me/theorems/bb775b91-c96c-428c-b356-30da545b7dd0

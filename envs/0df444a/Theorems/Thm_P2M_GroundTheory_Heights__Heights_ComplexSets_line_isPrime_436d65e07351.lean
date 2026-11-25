@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_line_isPrime_436d65e07351
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_line_isPrime_436d65e07351
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:28.650491+00:00
 -- url     : https://prove2.me/theorems/0602b9d1-3cf1-47ac-ae91-64ab1ca87aad

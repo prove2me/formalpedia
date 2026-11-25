@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bes_torusDiag_mid
 -- name    : GlobalTheory.CompanionTheory.Bes.torusDiag_mid
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:44:15.667956+00:00
 -- url     : https://prove2.me/theorems/272a53ac-3db9-4a63-8add-3a4b57e19086

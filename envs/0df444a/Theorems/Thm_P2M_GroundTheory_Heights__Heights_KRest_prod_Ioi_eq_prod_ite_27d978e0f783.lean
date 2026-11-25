@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KRest_prod_Ioi_eq_prod_ite_27d978e0f783
 -- name    : P2M_GroundTheory_Heights__Heights_KRest_prod_Ioi_eq_prod_ite_27d978e0f783
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:26:59.599716+00:00
 -- url     : https://prove2.me/theorems/3776e093-47c0-4dee-ad9f-2a916c1dedea

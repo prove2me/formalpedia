@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_OddLevelGainBounds_one_letter_unramified_bound
 -- name    : Formalism.DworkPowerSeriesWeights.OddLevelGainBounds.one_letter_unramified_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:55:23.926932+00:00
 -- url     : https://prove2.me/theorems/93ac58af-a7bb-4261-a864-6140df5fa5b7

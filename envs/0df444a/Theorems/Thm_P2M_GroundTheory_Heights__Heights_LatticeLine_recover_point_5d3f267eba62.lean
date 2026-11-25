@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLine_recover_point_5d3f267eba62
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLine_recover_point_5d3f267eba62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:36.361453+00:00
 -- url     : https://prove2.me/theorems/921d1607-e288-4392-abaf-4cf81f370b78

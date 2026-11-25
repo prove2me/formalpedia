@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_normT_insert_8552103f74e9
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_normT_insert_8552103f74e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:27:36.668681+00:00
 -- url     : https://prove2.me/theorems/ae37f47e-2e53-4b59-ab2a-0591ef192bdb

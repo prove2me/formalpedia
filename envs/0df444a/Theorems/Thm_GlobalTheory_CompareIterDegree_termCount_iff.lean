@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_termCount_iff
 -- name    : GlobalTheory.CompareIterDegree.termCount_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:59:50.819976+00:00
 -- url     : https://prove2.me/theorems/afad5ffc-7f90-5ca4-8803-2e103110ddc0

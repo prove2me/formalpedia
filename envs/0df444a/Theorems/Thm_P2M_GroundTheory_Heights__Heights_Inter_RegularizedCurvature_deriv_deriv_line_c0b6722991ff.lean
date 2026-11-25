@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_deriv_deriv_line_c0b6722991ff
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_deriv_deriv_line_c0b6722991ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:25:04.092992+00:00
 -- url     : https://prove2.me/theorems/74357959-3e92-45f2-9b51-becc99b7c040

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussNormBasic_gaussNorm_linearForm_le_d8b2dd900305
 -- name    : P2M_GroundTheory_Heights__Heights_GaussNormBasic_gaussNorm_linearForm_le_d8b2dd900305
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:08.965309+00:00
 -- url     : https://prove2.me/theorems/fff4bf17-f488-4f44-a1af-358ebb4f9dc6

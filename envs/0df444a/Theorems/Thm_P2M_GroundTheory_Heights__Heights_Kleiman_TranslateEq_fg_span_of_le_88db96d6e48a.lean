@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_fg_span_of_le_88db96d6e48a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_fg_span_of_le_88db96d6e48a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:55.452469+00:00
 -- url     : https://prove2.me/theorems/eee34efa-2e43-4319-80d2-c62933c9f8fb

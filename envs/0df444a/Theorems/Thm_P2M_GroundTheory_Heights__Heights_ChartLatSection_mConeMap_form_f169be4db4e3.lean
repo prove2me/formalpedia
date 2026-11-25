@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLatSection_mConeMap_form_f169be4db4e3
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLatSection_mConeMap_form_f169be4db4e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:56.950872+00:00
 -- url     : https://prove2.me/theorems/96824c5d-0937-4c6b-bf3d-5087b8ebd9ed

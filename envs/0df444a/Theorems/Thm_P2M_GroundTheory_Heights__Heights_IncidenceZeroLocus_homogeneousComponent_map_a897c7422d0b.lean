@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceZeroLocus_homogeneousComponent_map_a897c7422d0b
 -- name    : P2M_GroundTheory_Heights__Heights_IncidenceZeroLocus_homogeneousComponent_map_a897c7422d0b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:06.289608+00:00
 -- url     : https://prove2.me/theorems/6fe44423-29c5-46fc-bda7-882aadbebb5b

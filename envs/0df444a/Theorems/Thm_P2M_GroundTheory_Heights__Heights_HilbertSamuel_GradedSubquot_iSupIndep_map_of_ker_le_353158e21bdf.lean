@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GradedSubquot_iSupIndep_map_of_ker_le_353158e21bdf
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GradedSubquot_iSupIndep_map_of_ker_le_353158e21bdf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:18:58.716552+00:00
 -- url     : https://prove2.me/theorems/653e51fb-8ac8-50b4-a8f7-105f53f47d20

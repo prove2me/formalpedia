@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_heckeWeightTwo_poisson_summation_fractionalIdeal
 -- name    : GlobalTheory.T.heckeWeightTwo_poisson_summation_fractionalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:46:54.752012+00:00
 -- url     : https://prove2.me/theorems/3d7d4882-1833-4e31-b156-35cab27a9e54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_rho_pos_fa482035c771
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_RegularizedCurvature_rho_pos_fa482035c771
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:24:09.085189+00:00
 -- url     : https://prove2.me/theorems/b895c52f-37f8-4de6-b8a4-a17b27f821ea

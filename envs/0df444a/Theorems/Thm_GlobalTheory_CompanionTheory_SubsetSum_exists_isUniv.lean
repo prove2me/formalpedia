@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubsetSum_exists_isUniv
 -- name    : GlobalTheory.CompanionTheory.SubsetSum.exists_isUniv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:14:38.525275+00:00
 -- url     : https://prove2.me/theorems/45e2d16a-f9cb-4900-8596-245bfba6b5c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_field_frob_of
 -- name    : Formalism.LFunctionChainParameters.LHost.field_frob_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:50:10.414397+00:00
 -- url     : https://prove2.me/theorems/ff169353-1cba-45b9-b84c-cdd05a2753c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SkewHermitianParts_inLie_zero
 -- name    : Formalism.FourierDecayAlt.P.SkewHermitianParts.inLie_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:29:04.757521+00:00
 -- url     : https://prove2.me/theorems/6cc0a2c7-135f-5535-b53f-f91811f7db30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PolyOfDiffs_totalDegree_freeze_le_431705d6eba7
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PolyOfDiffs_totalDegree_freeze_le_431705d6eba7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:37.039975+00:00
 -- url     : https://prove2.me/theorems/7a79f4e2-9088-4e67-b6d8-6d50a6244fc9

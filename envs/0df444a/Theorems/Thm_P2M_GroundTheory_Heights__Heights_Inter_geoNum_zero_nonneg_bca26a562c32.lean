@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_geoNum_zero_nonneg_bca26a562c32
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_geoNum_zero_nonneg_bca26a562c32
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:08.380823+00:00
 -- url     : https://prove2.me/theorems/87f44e88-4703-475c-b628-9b2e2c9f7394

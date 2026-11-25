@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_prod_sub_eq_prod_factorial_80b5f99ca249
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_prod_sub_eq_prod_factorial_80b5f99ca249
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:56.639406+00:00
 -- url     : https://prove2.me/theorems/9416b8d8-7a65-47ed-b5d9-fc6a471b3bd0

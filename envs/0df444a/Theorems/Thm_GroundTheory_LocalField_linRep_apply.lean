@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_linRep_apply
 -- name    : GroundTheory.LocalField.linRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:31:55.874848+00:00
 -- url     : https://prove2.me/theorems/75541ad0-c4e7-5762-899c-ba3c13771b66

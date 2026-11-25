@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_component_blockDeg_of_isMultiHomog_bfebfe40735a
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_component_blockDeg_of_isMultiHomog_bfebfe40735a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:55.370565+00:00
 -- url     : https://prove2.me/theorems/4719390a-b867-5dfc-82b7-ea6f124bc91a
