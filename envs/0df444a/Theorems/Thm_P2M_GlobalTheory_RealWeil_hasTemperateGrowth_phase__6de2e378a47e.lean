@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_RealWeil_hasTemperateGrowth_phase__6de2e378a47e
 -- name    : P2M_GlobalTheory_RealWeil_hasTemperateGrowth_phase__6de2e378a47e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:09:19.376705+00:00
 -- url     : https://prove2.me/theorems/764cd87b-248b-4cb1-b507-c50c2c81aa93

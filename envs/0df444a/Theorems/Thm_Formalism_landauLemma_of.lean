@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_landauLemma_of
 -- name    : Formalism.landauLemma_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T10:46:18.254893+00:00
 -- url     : https://prove2.me/theorems/97375d79-aa89-42fa-82dc-39f5c58d6989

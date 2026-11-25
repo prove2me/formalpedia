@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LagSplit_beta_secH_secL__253c2586de05
 -- name    : P2M_GlobalTheory_LagSplit_beta_secH_secL__253c2586de05
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:07:05.201609+00:00
 -- url     : https://prove2.me/theorems/47cc5d0f-abd1-4fe4-8329-a6c1d70141b6

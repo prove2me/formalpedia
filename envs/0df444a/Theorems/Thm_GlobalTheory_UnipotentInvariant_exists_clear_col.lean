@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_exists_clear_col
 -- name    : GlobalTheory.UnipotentInvariant.exists_clear_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:25:35.542776+00:00
 -- url     : https://prove2.me/theorems/3c341092-0e3d-4c9f-aa2f-f0b075cd2791

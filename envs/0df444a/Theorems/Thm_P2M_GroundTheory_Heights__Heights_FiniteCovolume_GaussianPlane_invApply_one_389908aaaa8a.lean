@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_invApply_one_389908aaaa8a
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_invApply_one_389908aaaa8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:23:49.525669+00:00
 -- url     : https://prove2.me/theorems/f76486b3-c404-497b-adef-7ddd74fee61d

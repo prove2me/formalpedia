@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_SizeOne_unitMatch_zero
 -- name    : GlobalTheory.JR.SizeOne.unitMatch_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:37:07.584076+00:00
 -- url     : https://prove2.me/theorems/0a12f345-ff4c-4e44-92f6-16f8aa4a5c21

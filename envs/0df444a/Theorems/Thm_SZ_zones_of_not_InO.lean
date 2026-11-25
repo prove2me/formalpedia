@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_zones_of_not_InO
 -- name    : SZ.zones_of_not_InO
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:17:00.26834+00:00
 -- url     : https://prove2.me/theorems/bf01ef17-48aa-419a-80bc-7cfc7701beb9

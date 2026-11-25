@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_EX_zero_zero
 -- name    : Formalism.InvariantFactorPaths.L4.EX_zero_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:06:29.929262+00:00
 -- url     : https://prove2.me/theorems/5fd124be-36e1-4f63-b389-ef05dc961ab5

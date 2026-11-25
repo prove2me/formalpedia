@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_IdeleGroup_continuous_monoidHom_ext
 -- name    : GroundTheory.Global.IdeleGroup.continuous_monoidHom_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:14:32.297895+00:00
 -- url     : https://prove2.me/theorems/16356f94-a74d-4419-857d-e305debb905b

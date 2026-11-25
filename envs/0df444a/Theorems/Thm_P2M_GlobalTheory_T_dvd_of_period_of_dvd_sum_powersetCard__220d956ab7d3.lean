@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_dvd_of_period_of_dvd_sum_powersetCard__220d956ab7d3
 -- name    : P2M_GlobalTheory_T_dvd_of_period_of_dvd_sum_powersetCard__220d956ab7d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:09:48.885202+00:00
 -- url     : https://prove2.me/theorems/ab4419ff-8e4b-4ae1-bb90-272cb85a5522

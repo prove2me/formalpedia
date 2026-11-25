@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndefiniteRowSideFullHecke_CompleteLocalNormalRings_RawDeg___isGen_8ccbc68b0b48
 -- name    : P2M_GlobalTheory_IndefiniteRowSideFullHecke_CompleteLocalNormalRings_RawDeg___isGen_8ccbc68b0b48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:43.796209+00:00
 -- url     : https://prove2.me/theorems/99a33749-9f1f-472c-9457-6a0eea4891f9

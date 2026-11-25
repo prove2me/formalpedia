@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_aemeasurable_triple_product_add_ennreal
 -- name    : Newton.aemeasurable_triple_product_add_ennreal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:22:31.556366+00:00
 -- url     : https://prove2.me/theorems/3b54f37e-787f-49d5-ba28-a9cd9e6f6b0c

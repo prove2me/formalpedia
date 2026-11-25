@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__isHermND_blockOne_algebraMap_4c79e73c2c38
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__isHermND_blockOne_algebraMap_4c79e73c2c38
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:07:56.257845+00:00
 -- url     : https://prove2.me/theorems/0fef63eb-8313-4b86-90ff-b0b96eb9fe80

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_primePowRoots_finite_ncard
 -- name    : GlobalTheory.BadShare.primePowRoots_finite_ncard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:59:17.865866+00:00
 -- url     : https://prove2.me/theorems/1b0f67e2-8b21-4c39-bf09-f84545adcc41

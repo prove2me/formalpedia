@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrimesToPts_primes_to_pts
 -- name    : GlobalTheory.CompanionTheory.PrimesToPts.primes_to_pts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T11:55:08.453808+00:00
 -- url     : https://prove2.me/theorems/aeecb745-e430-4966-beb7-b8ebc6be235c

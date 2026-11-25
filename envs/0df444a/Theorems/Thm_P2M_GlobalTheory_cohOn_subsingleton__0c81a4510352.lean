@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_cohOn_subsingleton__0c81a4510352
 -- name    : P2M_GlobalTheory_cohOn_subsingleton__0c81a4510352
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:12:07.203501+00:00
 -- url     : https://prove2.me/theorems/0f7216b6-4d48-4afa-ba37-328bfc19c91f

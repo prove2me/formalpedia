@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__corner_half_trace_of_pure_tensor_c407ddf04396
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__corner_half_trace_of_pure_tensor_c407ddf04396
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:06:17.30473+00:00
 -- url     : https://prove2.me/theorems/866d7cd7-b54e-442a-8991-7b46e9c3f11f

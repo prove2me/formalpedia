@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntCountAdd_sheetSum_mono_8368eee2d608
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntCountAdd_sheetSum_mono_8368eee2d608
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:28:26.615811+00:00
 -- url     : https://prove2.me/theorems/a2055b9f-a43f-4ed2-9c8d-67cfff0988af

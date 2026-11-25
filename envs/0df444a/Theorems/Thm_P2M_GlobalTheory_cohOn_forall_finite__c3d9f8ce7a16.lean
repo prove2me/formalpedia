@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_cohOn_forall_finite__c3d9f8ce7a16
 -- name    : P2M_GlobalTheory_cohOn_forall_finite__c3d9f8ce7a16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:12:04.577495+00:00
 -- url     : https://prove2.me/theorems/041c7ded-c448-4995-b9e0-eeab6a8fbde0

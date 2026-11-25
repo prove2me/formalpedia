@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ExistsNatMulIsIntegral__main_38cfb947c5e1
 -- name    : P2M_GlobalTheory_ExistsNatMulIsIntegral__main_38cfb947c5e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:07:42.591805+00:00
 -- url     : https://prove2.me/theorems/55a3a2a5-b30d-4668-a5a3-e3001f8858a0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_schwartz_iteratedFDeriv_tendsto_zero_cocompact__0b179d73d980
 -- name    : P2M_GlobalTheory_T_schwartz_iteratedFDeriv_tendsto_zero_cocompact__0b179d73d980
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:10:57.326728+00:00
 -- url     : https://prove2.me/theorems/c5a9374c-7833-498d-9e07-c9edbad47422

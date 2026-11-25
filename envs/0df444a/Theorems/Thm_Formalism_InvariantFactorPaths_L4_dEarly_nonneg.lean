@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_dEarly_nonneg
 -- name    : Formalism.InvariantFactorPaths.L4.dEarly_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:54:07.976532+00:00
 -- url     : https://prove2.me/theorems/6c4807db-f3ee-5134-984e-14dfd472d275

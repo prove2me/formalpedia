@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SiegLoc_NuDiag_red_one__e5dbbbbc4a56
 -- name    : P2M_GlobalTheory_CompanionTheory_SiegLoc_NuDiag_red_one__e5dbbbbc4a56
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:05:45.919437+00:00
 -- url     : https://prove2.me/theorems/d7ec6691-bb8a-458f-92cf-82c4d88a1027

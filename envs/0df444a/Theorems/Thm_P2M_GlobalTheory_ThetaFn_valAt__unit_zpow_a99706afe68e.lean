@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaFn_valAt__unit_zpow_a99706afe68e
 -- name    : P2M_GlobalTheory_ThetaFn_valAt__unit_zpow_a99706afe68e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:12:08.419123+00:00
 -- url     : https://prove2.me/theorems/401b737e-9122-4f00-9905-3a8cc675f0d0

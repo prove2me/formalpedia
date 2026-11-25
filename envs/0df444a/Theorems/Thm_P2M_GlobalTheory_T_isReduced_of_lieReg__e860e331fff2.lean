@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_isReduced_of_lieReg__e860e331fff2
 -- name    : P2M_GlobalTheory_T_isReduced_of_lieReg__e860e331fff2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:11:10.186495+00:00
 -- url     : https://prove2.me/theorems/4cede30a-fd80-46d1-9ae5-b02280e50041

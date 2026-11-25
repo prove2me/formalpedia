@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_NormPrimes_exists_prime_norm
 -- name    : GlobalTheory.Mem.NormPrimes.exists_prime_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:03:30.856163+00:00
 -- url     : https://prove2.me/theorems/a2f76b5c-902a-4e0b-b408-5c413890d39e

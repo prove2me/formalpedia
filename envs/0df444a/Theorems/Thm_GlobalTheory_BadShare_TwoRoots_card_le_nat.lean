@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_TwoRoots_card_le_nat
 -- name    : GlobalTheory.BadShare.TwoRoots.card_le_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:56:43.524875+00:00
 -- url     : https://prove2.me/theorems/f58e361d-516f-4b9d-b2bd-61160bba5077

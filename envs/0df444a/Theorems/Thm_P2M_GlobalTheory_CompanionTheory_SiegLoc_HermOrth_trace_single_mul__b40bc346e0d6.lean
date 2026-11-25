@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SiegLoc_HermOrth_trace_single_mul__b40bc346e0d6
 -- name    : P2M_GlobalTheory_CompanionTheory_SiegLoc_HermOrth_trace_single_mul__b40bc346e0d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:05:37.700993+00:00
 -- url     : https://prove2.me/theorems/fbd74417-5e01-487d-a93b-e26fa0d0b37a

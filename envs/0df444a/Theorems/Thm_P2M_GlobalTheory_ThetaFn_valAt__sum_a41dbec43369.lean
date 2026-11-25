@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaFn_valAt__sum_a41dbec43369
 -- name    : P2M_GlobalTheory_ThetaFn_valAt__sum_a41dbec43369
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:11:07.918671+00:00
 -- url     : https://prove2.me/theorems/654d6315-c9bc-44eb-86fc-3d72dbca73fe

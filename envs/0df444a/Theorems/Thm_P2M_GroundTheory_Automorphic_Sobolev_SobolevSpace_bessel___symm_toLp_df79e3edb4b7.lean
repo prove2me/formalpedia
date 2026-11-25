@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_Sobolev_SobolevSpace_bessel___symm_toLp_df79e3edb4b7
 -- name    : P2M_GroundTheory_Automorphic_Sobolev_SobolevSpace_bessel___symm_toLp_df79e3edb4b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:12:58.063836+00:00
 -- url     : https://prove2.me/theorems/2e3aaa79-c85f-4c30-9b2e-6b4b02e0463e

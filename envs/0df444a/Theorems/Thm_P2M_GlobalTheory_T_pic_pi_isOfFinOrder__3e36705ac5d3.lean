@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_pic_pi_isOfFinOrder__3e36705ac5d3
 -- name    : P2M_GlobalTheory_T_pic_pi_isOfFinOrder__3e36705ac5d3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:11:34.915867+00:00
 -- url     : https://prove2.me/theorems/de987b04-eb0b-4036-a1b3-aa60c568b5b1

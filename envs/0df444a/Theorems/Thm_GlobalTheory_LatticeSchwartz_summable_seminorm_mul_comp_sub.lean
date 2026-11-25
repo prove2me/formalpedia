@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatticeSchwartz_summable_seminorm_mul_comp_sub
 -- name    : GlobalTheory.LatticeSchwartz.summable_seminorm_mul_comp_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T18:01:32.691915+00:00
 -- url     : https://prove2.me/theorems/f8864d3f-4505-4524-bd77-8e0a03bffc87

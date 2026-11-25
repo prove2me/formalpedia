@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitLemma_OrthBasis_herm_smul_right__c57101fb1dc8
 -- name    : P2M_GlobalTheory_UnitLemma_OrthBasis_herm_smul_right__c57101fb1dc8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:18.974443+00:00
 -- url     : https://prove2.me/theorems/3d32aa89-23f0-46e2-80d8-021b30b29ed3

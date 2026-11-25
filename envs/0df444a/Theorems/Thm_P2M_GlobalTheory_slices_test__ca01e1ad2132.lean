@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_slices_test__ca01e1ad2132
 -- name    : P2M_GlobalTheory_slices_test__ca01e1ad2132
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:12:55.510795+00:00
 -- url     : https://prove2.me/theorems/6aaa933c-5300-4e25-a808-4a96d5894892

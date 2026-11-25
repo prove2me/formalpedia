@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LatticeSchwartz_summable_one_add_norm_inv_pow__c8dc6aa3141a
 -- name    : P2M_GlobalTheory_LatticeSchwartz_summable_one_add_norm_inv_pow__c8dc6aa3141a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:07:12.212966+00:00
 -- url     : https://prove2.me/theorems/25544cd1-2bcf-4a47-8638-cb17fcdf6ae2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DualFrameSpan_dual_frame
 -- name    : GlobalTheory.DualFrameSpan.dual_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:51:43.801265+00:00
 -- url     : https://prove2.me/theorems/026f458f-45af-4235-bb59-b4e317628436

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_scaleSandwich
 -- name    : Formalism.BranchingDeterminantCap.scaleSandwich
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:14.849342+00:00
 -- url     : https://prove2.me/theorems/1289af92-ef42-4fa2-86d2-6658642edf44

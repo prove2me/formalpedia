@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_adjFromNorm
 -- name    : Formalism.L2.Th1.C.adjFromNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:39:48.702156+00:00
 -- url     : https://prove2.me/theorems/2924b66e-c5c2-449f-a270-74b40a633202

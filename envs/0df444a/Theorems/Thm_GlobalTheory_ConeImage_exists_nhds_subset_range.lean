@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ConeImage_exists_nhds_subset_range
 -- name    : GlobalTheory.ConeImage.exists_nhds_subset_range
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:25:45.685137+00:00
 -- url     : https://prove2.me/theorems/95519991-e25b-4bd3-9813-b0cfbec2e638

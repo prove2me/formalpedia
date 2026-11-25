@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_RootEx_ParabolicEntries_toBlocks___mul_ddd2957152e4
 -- name    : P2M_GlobalTheory_RootEx_ParabolicEntries_toBlocks___mul_ddd2957152e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:08:49.394021+00:00
 -- url     : https://prove2.me/theorems/228faeb3-4a11-4885-bd82-4c0c56d0e130

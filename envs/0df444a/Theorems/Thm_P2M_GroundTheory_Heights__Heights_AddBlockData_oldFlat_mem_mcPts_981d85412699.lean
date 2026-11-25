@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockData_oldFlat_mem_mcPts_981d85412699
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockData_oldFlat_mem_mcPts_981d85412699
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:15:22.038402+00:00
 -- url     : https://prove2.me/theorems/014db763-8b47-4299-872a-9c21bc9e9bc8

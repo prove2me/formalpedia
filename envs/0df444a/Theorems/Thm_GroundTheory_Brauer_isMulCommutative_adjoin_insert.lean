@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_isMulCommutative_adjoin_insert
 -- name    : GroundTheory.Brauer.isMulCommutative_adjoin_insert
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:29:27.273921+00:00
 -- url     : https://prove2.me/theorems/2b6b493c-ca4a-5a03-8f32-98cfb19249b8

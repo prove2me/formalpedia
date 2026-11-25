@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_homologyFunctorIso__moduleLeftHomologyData_apply_b9da34f1dace
 -- name    : P2M_GroundTheory_GroupCoh_homologyFunctorIso__moduleLeftHomologyData_apply_b9da34f1dace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:08:51.538051+00:00
 -- url     : https://prove2.me/theorems/a52abc13-2287-4d7d-8277-f500dbe0caea

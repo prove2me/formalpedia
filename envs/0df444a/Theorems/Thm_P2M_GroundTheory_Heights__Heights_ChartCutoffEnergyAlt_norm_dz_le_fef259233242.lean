@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_norm_dz_le_fef259233242
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_norm_dz_le_fef259233242
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:57.058816+00:00
 -- url     : https://prove2.me/theorems/22caf3ed-86be-4405-8195-d7d7dab29838

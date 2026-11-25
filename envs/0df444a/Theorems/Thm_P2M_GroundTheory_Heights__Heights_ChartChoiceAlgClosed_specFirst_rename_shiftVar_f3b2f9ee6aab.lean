@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartChoiceAlgClosed_specFirst_rename_shiftVar_f3b2f9ee6aab
 -- name    : P2M_GroundTheory_Heights__Heights_ChartChoiceAlgClosed_specFirst_rename_shiftVar_f3b2f9ee6aab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:17:42.714522+00:00
 -- url     : https://prove2.me/theorems/e9144c8c-c7d5-4be4-b4df-e84a9ad695ed

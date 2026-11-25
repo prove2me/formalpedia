@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_residue_degree_one_of_linear_mem__c7226ed25061
 -- name    : P2M_GlobalTheory_T_residue_degree_one_of_linear_mem__c7226ed25061
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:11:06.561213+00:00
 -- url     : https://prove2.me/theorems/432d463b-0a1e-42aa-997d-351a51770412

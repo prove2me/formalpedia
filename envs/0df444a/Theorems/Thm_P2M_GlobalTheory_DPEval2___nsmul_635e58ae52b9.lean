@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DPEval2___nsmul_635e58ae52b9
 -- name    : P2M_GlobalTheory_DPEval2___nsmul_635e58ae52b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:05:11.046913+00:00
 -- url     : https://prove2.me/theorems/78ce0a42-ab43-471e-b1c6-0d0719027b70

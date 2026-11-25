@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymDivisible_homogeneousComponent_mul_of_isHomogeneous_7d8e3d96fdd1
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymDivisible_homogeneousComponent_mul_of_isHomogeneous_7d8e3d96fdd1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:15:44.299501+00:00
 -- url     : https://prove2.me/theorems/cb664468-3f10-40d5-8708-3928c41d3814

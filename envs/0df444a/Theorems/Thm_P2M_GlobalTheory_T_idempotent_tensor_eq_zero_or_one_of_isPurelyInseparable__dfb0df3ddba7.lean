@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_idempotent_tensor_eq_zero_or_one_of_isPurelyInseparable__dfb0df3ddba7
 -- name    : P2M_GlobalTheory_T_idempotent_tensor_eq_zero_or_one_of_isPurelyInseparable__dfb0df3ddba7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:10:22.551794+00:00
 -- url     : https://prove2.me/theorems/801d634e-5e30-4662-bed6-d55e271f9ed5

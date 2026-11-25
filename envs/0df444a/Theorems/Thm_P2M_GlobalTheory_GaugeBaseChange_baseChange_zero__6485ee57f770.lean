@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_GaugeBaseChange_baseChange_zero__6485ee57f770
 -- name    : P2M_GlobalTheory_GaugeBaseChange_baseChange_zero__6485ee57f770
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:07:01.887512+00:00
 -- url     : https://prove2.me/theorems/d9df0663-b34d-487f-a89a-e372ba04e343

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_HaarProp_haar_comp
 -- name    : GlobalTheory.SW.HaarProp.haar_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:40:15.78809+00:00
 -- url     : https://prove2.me/theorems/79fa30ab-0843-4c57-a94c-2a475ee20e61

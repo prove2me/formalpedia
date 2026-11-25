@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_levi_comp_real_4d15d05546d6
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_levi_comp_real_4d15d05546d6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:43:53.235893+00:00
 -- url     : https://prove2.me/theorems/840128ea-a67c-4545-8f75-dedf9714ad88

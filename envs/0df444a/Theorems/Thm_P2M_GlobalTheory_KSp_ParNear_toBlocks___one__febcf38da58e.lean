@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_KSp_ParNear_toBlocks___one__febcf38da58e
 -- name    : P2M_GlobalTheory_KSp_ParNear_toBlocks___one__febcf38da58e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:07:44.990521+00:00
 -- url     : https://prove2.me/theorems/8016a981-433a-4590-95d1-2258f3146226

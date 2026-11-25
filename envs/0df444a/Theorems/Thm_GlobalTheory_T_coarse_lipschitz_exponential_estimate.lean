@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coarse_lipschitz_exponential_estimate
 -- name    : GlobalTheory.T.coarse_lipschitz_exponential_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:30:49.156407+00:00
 -- url     : https://prove2.me/theorems/be2ab15d-2f16-4787-aae8-b636ba0485a5

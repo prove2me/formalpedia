@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_id_euclidean
 -- name    : SNumbers.approximationNumber_id_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:39.717535+00:00
 -- url     : https://prove2.me/theorems/8a8a0507-26e2-4ed7-9971-d0ffb52abd51

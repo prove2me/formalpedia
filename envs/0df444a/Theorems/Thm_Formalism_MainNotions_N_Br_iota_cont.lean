@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_N_Br_iota_cont
 -- name    : Formalism.MainNotions.N.Br.iota_cont
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:50:06.322279+00:00
 -- url     : https://prove2.me/theorems/3b7c9d1a-e0c7-4cb0-b1ac-f8842332e2b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_actual_operators_from_parts
 -- name    : Formalism.FourierDecayAlt.P.actual_operators_from_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:48:42.923625+00:00
 -- url     : https://prove2.me/theorems/4ac70f40-8b00-4d43-b549-bcbd97de6964

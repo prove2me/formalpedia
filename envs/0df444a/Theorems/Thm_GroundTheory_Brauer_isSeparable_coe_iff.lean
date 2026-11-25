@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_isSeparable_coe_iff
 -- name    : GroundTheory.Brauer.isSeparable_coe_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:28:59.648278+00:00
 -- url     : https://prove2.me/theorems/e823cb8d-6d5f-5ddf-8fd5-e48864fdc34d

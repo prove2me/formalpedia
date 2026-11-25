@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HodgeTateTest_unitOf_one__c9598b6cdeb7
 -- name    : P2M_GlobalTheory_HodgeTateTest_unitOf_one__c9598b6cdeb7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:06:34.934697+00:00
 -- url     : https://prove2.me/theorems/a9a742a5-d4eb-4dc9-8791-3a86c320935a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_ShortStep_exists_span
 -- name    : GlobalTheory.SW.ShortStep.exists_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T19:44:42.427543+00:00
 -- url     : https://prove2.me/theorems/25c690d4-fc1a-45c8-b651-3449904fec5c

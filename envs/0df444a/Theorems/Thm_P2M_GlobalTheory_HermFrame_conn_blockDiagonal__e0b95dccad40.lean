@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermFrame_conn_blockDiagonal__e0b95dccad40
 -- name    : P2M_GlobalTheory_HermFrame_conn_blockDiagonal__e0b95dccad40
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:08.193067+00:00
 -- url     : https://prove2.me/theorems/31e8c7c3-b70a-4428-876d-95e179700781

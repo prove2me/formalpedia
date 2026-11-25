@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartChange_zOf_zOf
 -- name    : GlobalTheory.ChartChange.zOf_zOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:08:58.542631+00:00
 -- url     : https://prove2.me/theorems/8e8dc728-9062-4fc5-97e6-0b7b255978d2

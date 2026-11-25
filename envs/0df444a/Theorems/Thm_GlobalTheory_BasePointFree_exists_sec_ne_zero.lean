@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BasePointFree_exists_sec_ne_zero
 -- name    : GlobalTheory.BasePointFree.exists_sec_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:59:46.162799+00:00
 -- url     : https://prove2.me/theorems/bd98890e-1cad-4259-a025-017e68152d87

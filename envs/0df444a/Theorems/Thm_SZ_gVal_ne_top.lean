@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_gVal_ne_top
 -- name    : SZ.gVal_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:33:58.6263+00:00
 -- url     : https://prove2.me/theorems/5d232fd1-099d-4733-83cd-230d140d11de

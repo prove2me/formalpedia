@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TLC_omp_adj_pd
 -- name    : Formalism.FourierDecayAlt.P.TLC.omp_adj_pd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:26:48.420276+00:00
 -- url     : https://prove2.me/theorems/2b03f8bf-703e-4012-96ac-eb9de427b901

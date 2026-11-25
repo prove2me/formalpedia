@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_adjoin_mem_of_away_localization__6f8afc424f7c
 -- name    : P2M_GlobalTheory_adjoin_mem_of_away_localization__6f8afc424f7c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:12:06.587373+00:00
 -- url     : https://prove2.me/theorems/acec56a7-a7e9-4335-ac34-10a37c6686d8

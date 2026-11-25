@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TwistVertex_toBlocks___eq_one_7440c14eaaa2
 -- name    : P2M_GlobalTheory_TwistVertex_toBlocks___eq_one_7440c14eaaa2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:11:02.179528+00:00
 -- url     : https://prove2.me/theorems/d808b9fe-c873-4ca5-8856-9d748825a911

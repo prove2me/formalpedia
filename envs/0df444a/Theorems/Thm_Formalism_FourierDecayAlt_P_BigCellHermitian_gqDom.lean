@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_BigCellHermitian_gqDom
 -- name    : Formalism.FourierDecayAlt.P.BigCellHermitian.gqDom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T15:44:23.738868+00:00
 -- url     : https://prove2.me/theorems/70ea0a8a-0697-42c0-871f-24b0039ca85e

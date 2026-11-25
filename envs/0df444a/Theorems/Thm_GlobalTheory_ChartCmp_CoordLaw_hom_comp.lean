@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_CoordLaw_hom_comp
 -- name    : GlobalTheory.ChartCmp.CoordLaw.hom_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:06:32.83798+00:00
 -- url     : https://prove2.me/theorems/9ee64ea2-f8c3-53a4-800f-a92ce5aea761

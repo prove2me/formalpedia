@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LocFlat_ch_basePt__a303e0cc4855
 -- name    : P2M_GlobalTheory_LocFlat_ch_basePt__a303e0cc4855
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:07:27.61681+00:00
 -- url     : https://prove2.me/theorems/bf32c836-8ed8-43ad-9234-977e99e50ef2

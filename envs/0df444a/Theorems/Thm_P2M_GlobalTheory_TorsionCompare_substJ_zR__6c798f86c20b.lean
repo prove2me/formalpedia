@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_TorsionCompare_substJ_zR__6c798f86c20b
 -- name    : P2M_GlobalTheory_TorsionCompare_substJ_zR__6c798f86c20b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:11:28.876697+00:00
 -- url     : https://prove2.me/theorems/0490be4e-8b22-4af2-a9f9-428826b478e9

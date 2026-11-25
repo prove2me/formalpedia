@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__BsetUnit_isUnit_det_of_mem_Bset_709514adee71
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__BsetUnit_isUnit_det_of_mem_Bset_709514adee71
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:03:25.489942+00:00
 -- url     : https://prove2.me/theorems/4f614f2f-50a5-4fca-9022-f92f5f484b77

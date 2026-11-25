@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitaryZariskiDense_conj_c__61702cfdeecf
 -- name    : P2M_GlobalTheory_UnitaryZariskiDense_conj_c__61702cfdeecf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:11:17.653803+00:00
 -- url     : https://prove2.me/theorems/d7682a23-42a0-4c6b-8ba7-f56901f838aa

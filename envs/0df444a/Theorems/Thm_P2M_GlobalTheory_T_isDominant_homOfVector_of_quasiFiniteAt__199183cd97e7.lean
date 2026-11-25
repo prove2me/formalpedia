@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_isDominant_homOfVector_of_quasiFiniteAt__199183cd97e7
 -- name    : P2M_GlobalTheory_T_isDominant_homOfVector_of_quasiFiniteAt__199183cd97e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:11:09.156663+00:00
 -- url     : https://prove2.me/theorems/8b97d122-3e34-4102-94f1-1d2161939d58

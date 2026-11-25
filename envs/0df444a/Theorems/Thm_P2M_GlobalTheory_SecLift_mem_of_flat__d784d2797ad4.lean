@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SecLift_mem_of_flat__d784d2797ad4
 -- name    : P2M_GlobalTheory_SecLift_mem_of_flat__d784d2797ad4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:10:07.44257+00:00
 -- url     : https://prove2.me/theorems/364a4aeb-1202-495d-8ad6-d1fa7468d3da

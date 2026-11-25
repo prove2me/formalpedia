@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_weylFun
 -- name    : Formalism.QuantumDeterminants.weylFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:47:21.257801+00:00
 -- url     : https://prove2.me/theorems/d76947c5-e7a1-40dc-8776-fa7e62c0c644

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_locPrincipal_of_cartAt_2a84a79b84c2
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_locPrincipal_of_cartAt_2a84a79b84c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:12.278451+00:00
 -- url     : https://prove2.me/theorems/05bd070b-2ded-4956-ac3c-4c951699b083

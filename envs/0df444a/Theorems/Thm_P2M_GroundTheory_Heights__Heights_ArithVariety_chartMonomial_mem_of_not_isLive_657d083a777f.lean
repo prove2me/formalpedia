@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_chartMonomial_mem_of_not_isLive_657d083a777f
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_chartMonomial_mem_of_not_isLive_657d083a777f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:16:04.28149+00:00
 -- url     : https://prove2.me/theorems/0e22fd8f-a6b3-4dfd-9b4f-7c1c612aec07

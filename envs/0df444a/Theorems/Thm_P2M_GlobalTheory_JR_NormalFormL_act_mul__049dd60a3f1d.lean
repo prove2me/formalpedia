@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_JR_NormalFormL_act_mul__049dd60a3f1d
 -- name    : P2M_GlobalTheory_JR_NormalFormL_act_mul__049dd60a3f1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:06:55.67041+00:00
 -- url     : https://prove2.me/theorems/42f5705d-f071-45c4-a898-e18500863ce9

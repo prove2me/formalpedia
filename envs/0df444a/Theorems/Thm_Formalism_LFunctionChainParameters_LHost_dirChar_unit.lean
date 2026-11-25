@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_dirChar_unit
 -- name    : Formalism.LFunctionChainParameters.LHost.dirChar_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:24:41.028406+00:00
 -- url     : https://prove2.me/theorems/fe32d31f-4966-4c93-a01f-6dcfa4e82309

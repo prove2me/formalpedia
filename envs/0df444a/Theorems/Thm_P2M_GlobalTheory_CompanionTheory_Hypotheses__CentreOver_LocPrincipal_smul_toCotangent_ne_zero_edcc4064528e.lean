@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_LocPrincipal_smul_toCotangent_ne_zero_edcc4064528e
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_LocPrincipal_smul_toCotangent_ne_zero_edcc4064528e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:03:15.18742+00:00
 -- url     : https://prove2.me/theorems/adf78670-5ded-4146-a91e-acf3a3837870

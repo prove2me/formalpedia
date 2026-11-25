@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SchwartzTranslateSum_summable_one_add_norm_inv_pow__68b39a97649f
 -- name    : P2M_GlobalTheory_SchwartzTranslateSum_summable_one_add_norm_inv_pow__68b39a97649f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:08:49.835212+00:00
 -- url     : https://prove2.me/theorems/bfe5e99b-df12-4b01-aa96-3262dbbf144e

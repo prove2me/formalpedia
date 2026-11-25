@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaAmple_valAt__linComb_g_c2c02d34e6d0
 -- name    : P2M_GlobalTheory_ThetaAmple_valAt__linComb_g_c2c02d34e6d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:11:51.988067+00:00
 -- url     : https://prove2.me/theorems/979be23a-6aeb-4ee7-89fc-d4bb81f436de

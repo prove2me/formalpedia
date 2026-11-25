@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchInComponent_differentiable_eval_a74d15f8973d
 -- name    : P2M_GroundTheory_Heights__Heights_BranchInComponent_differentiable_eval_a74d15f8973d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:16:30.996793+00:00
 -- url     : https://prove2.me/theorems/bb5e1032-9a8e-4c13-9b29-4ce3cb95fd8b

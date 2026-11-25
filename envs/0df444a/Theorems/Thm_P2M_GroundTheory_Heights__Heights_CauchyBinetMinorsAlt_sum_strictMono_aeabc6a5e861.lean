@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CauchyBinetMinorsAlt_sum_strictMono_aeabc6a5e861
 -- name    : P2M_GroundTheory_Heights__Heights_CauchyBinetMinorsAlt_sum_strictMono_aeabc6a5e861
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:18:36.656944+00:00
 -- url     : https://prove2.me/theorems/5abe9426-bcd8-486d-ad57-c0e679cf71e9

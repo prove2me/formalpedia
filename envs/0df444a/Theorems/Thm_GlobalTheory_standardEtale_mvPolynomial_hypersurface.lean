@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_standardEtale_mvPolynomial_hypersurface
 -- name    : GlobalTheory.standardEtale_mvPolynomial_hypersurface
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:21:38.463803+00:00
 -- url     : https://prove2.me/theorems/65be3e97-1fa5-4792-ae67-3d9dc0e95412

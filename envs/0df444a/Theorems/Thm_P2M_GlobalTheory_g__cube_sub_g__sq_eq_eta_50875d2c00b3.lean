@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_g__cube_sub_g__sq_eq_eta_50875d2c00b3
 -- name    : P2M_GlobalTheory_g__cube_sub_g__sq_eq_eta_50875d2c00b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:41.190532+00:00
 -- url     : https://prove2.me/theorems/e311dd9c-8b32-4e08-8a3f-7329d446bb93

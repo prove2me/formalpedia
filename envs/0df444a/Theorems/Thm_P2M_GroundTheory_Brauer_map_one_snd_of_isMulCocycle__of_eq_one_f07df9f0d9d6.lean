@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Brauer_map_one_snd_of_isMulCocycle__of_eq_one_f07df9f0d9d6
 -- name    : P2M_GroundTheory_Brauer_map_one_snd_of_isMulCocycle__of_eq_one_f07df9f0d9d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:14:42.011808+00:00
 -- url     : https://prove2.me/theorems/16c7f858-4b6b-4724-b3fb-ce7199e90810

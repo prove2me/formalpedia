@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_LocalPerfect_locPerfect
 -- name    : GlobalTheory.CompanionTheory.LocalPerfect.locPerfect
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:52:16.041255+00:00
 -- url     : https://prove2.me/theorems/bea03a88-f637-4914-90f9-262e09dba753

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_mul_mem_identityComponent_of_rational__c555fc7d5940
 -- name    : P2M_GlobalTheory_T_mul_mem_identityComponent_of_rational__c555fc7d5940
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:09:38.322634+00:00
 -- url     : https://prove2.me/theorems/d93457fc-934d-497d-8836-8ee18589e882

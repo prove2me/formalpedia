@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_W_ne_val
 -- name    : SZ.Slice.W_ne_val
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:33.490784+00:00
 -- url     : https://prove2.me/theorems/51b00566-0904-497d-ab4e-806730196141

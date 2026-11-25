@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_qExpansion_E__5e6e9facd55b
 -- name    : P2M_GlobalTheory_qExpansion_E__5e6e9facd55b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:12:40.162921+00:00
 -- url     : https://prove2.me/theorems/6dcf4592-c31c-48bc-ad80-311f97fdf349

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LocalFiniteOddFixed_norm_prod__35ea87ad5dd5
 -- name    : P2M_GlobalTheory_LocalFiniteOddFixed_norm_prod__35ea87ad5dd5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:51.316569+00:00
 -- url     : https://prove2.me/theorems/74da61bc-928d-4f2a-9517-9b8045f6aa92

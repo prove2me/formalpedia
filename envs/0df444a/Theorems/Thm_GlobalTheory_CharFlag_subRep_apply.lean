@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CharFlag_subRep_apply
 -- name    : GlobalTheory.CharFlag.subRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:03:00.504196+00:00
 -- url     : https://prove2.me/theorems/6249d1dd-ceee-4d79-8436-d4e9b972408b

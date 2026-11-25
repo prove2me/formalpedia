@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AdmissibleAE_linForm_single_be165f805885
 -- name    : P2M_GroundTheory_Heights__Heights_AdmissibleAE_linForm_single_be165f805885
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:15:22.562776+00:00
 -- url     : https://prove2.me/theorems/13423b6e-91c7-437a-a388-b8245d1c1ddd

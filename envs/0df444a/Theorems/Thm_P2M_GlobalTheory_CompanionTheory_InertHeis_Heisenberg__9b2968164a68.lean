@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_InertHeis_Heisenberg__9b2968164a68
 -- name    : P2M_GlobalTheory_CompanionTheory_InertHeis_Heisenberg__9b2968164a68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:03:57.560885+00:00
 -- url     : https://prove2.me/theorems/a5536c0f-be18-4c51-bc74-e2e4e071e683

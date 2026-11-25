@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_baseIndexConstant_injective
 -- name    : Formalism.FourierDecayAlt.P.PBG.baseIndexConstant_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:56:54.438632+00:00
 -- url     : https://prove2.me/theorems/683e9746-4b94-55a1-ae25-2d03ab998f69

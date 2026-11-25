@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_trace_pos
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.trace_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:57:44.157819+00:00
 -- url     : https://prove2.me/theorems/338744c2-b476-4640-824b-e9dd5bf5d533

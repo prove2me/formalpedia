@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QCoh_isQuasicoherent_of_affineCover
 -- name    : GlobalTheory.QCoh.isQuasicoherent_of_affineCover
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:37:52.736077+00:00
 -- url     : https://prove2.me/theorems/2ca94d7b-6931-4349-b31b-be1c1cdad8bc

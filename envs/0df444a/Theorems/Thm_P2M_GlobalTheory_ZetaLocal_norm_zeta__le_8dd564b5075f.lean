@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZetaLocal_norm_zeta__le_8dd564b5075f
 -- name    : P2M_GlobalTheory_ZetaLocal_norm_zeta__le_8dd564b5075f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:11:44.598183+00:00
 -- url     : https://prove2.me/theorems/14d97e58-5d66-4d39-885b-0a100742dd29

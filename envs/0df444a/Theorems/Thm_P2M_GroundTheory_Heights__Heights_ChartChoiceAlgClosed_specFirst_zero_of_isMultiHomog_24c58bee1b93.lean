@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartChoiceAlgClosed_specFirst_zero_of_isMultiHomog_24c58bee1b93
 -- name    : P2M_GroundTheory_Heights__Heights_ChartChoiceAlgClosed_specFirst_zero_of_isMultiHomog_24c58bee1b93
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:17:23.332005+00:00
 -- url     : https://prove2.me/theorems/ebc1988f-5410-481f-9244-8315a76501e0

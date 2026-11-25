@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_LK_free_module_induction
 -- name    : CompanionTheory.D.LK.free_module_induction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:27:42.291221+00:00
 -- url     : https://prove2.me/theorems/3b29ea94-566f-4ffd-9908-1f1d691226b3

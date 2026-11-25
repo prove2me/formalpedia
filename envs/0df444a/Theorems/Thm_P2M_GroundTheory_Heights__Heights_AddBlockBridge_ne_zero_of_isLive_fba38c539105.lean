@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockBridge_ne_zero_of_isLive_fba38c539105
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockBridge_ne_zero_of_isLive_fba38c539105
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:15:43.51631+00:00
 -- url     : https://prove2.me/theorems/f2e01d7e-a4b2-42a0-a4b9-492daec82438

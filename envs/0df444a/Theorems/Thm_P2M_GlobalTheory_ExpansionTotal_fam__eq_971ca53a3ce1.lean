@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ExpansionTotal_fam__eq_971ca53a3ce1
 -- name    : P2M_GlobalTheory_ExpansionTotal_fam__eq_971ca53a3ce1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:05:34.548956+00:00
 -- url     : https://prove2.me/theorems/98334e87-41cc-4d86-882c-c1bcd3ecf15f

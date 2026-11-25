@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CentredRingNormal_exists_place_of_valuationSubring_ca02ac74434f
 -- name    : P2M_GroundTheory_Heights__Heights_CentredRingNormal_exists_place_of_valuationSubring_ca02ac74434f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:18:22.340944+00:00
 -- url     : https://prove2.me/theorems/20ad59f0-41db-4617-8abc-2b585da62fc5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartChange_measurableSet_preimage_inter_72d7464be96d
 -- name    : P2M_GroundTheory_Heights__Heights_ChartChange_measurableSet_preimage_inter_72d7464be96d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:17:06.260454+00:00
 -- url     : https://prove2.me/theorems/c4acb1bc-94f4-4124-88a5-6c1d5533b2ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_realSmallT
 -- name    : Formalism.ZeroFreeDirichlet.realSmallT
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:46:04.316163+00:00
 -- url     : https://prove2.me/theorems/f618339f-d3ea-4953-9208-2b062e8ef3d0

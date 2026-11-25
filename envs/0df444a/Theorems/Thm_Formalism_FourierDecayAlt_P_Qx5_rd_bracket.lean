@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_rd_bracket
 -- name    : Formalism.FourierDecayAlt.P.Qx5.rd_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:49:14.421827+00:00
 -- url     : https://prove2.me/theorems/132576be-b6d6-42ba-917e-9513a89e249d

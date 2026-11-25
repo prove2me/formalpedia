@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_GeneratorMatrix_coeff_tensor4
 -- name    : Formalism.L2.Th1.E.GeneratorMatrix.coeff_tensor4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:49:22.571928+00:00
 -- url     : https://prove2.me/theorems/dd34bb41-7c56-5fa8-ad9e-6491683b8364

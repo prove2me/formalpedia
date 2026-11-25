@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaMultiplicityWeight_setLIntegral_comp_mul_abs_det__9fe19be68ccf
 -- name    : P2M_GroundTheory_Heights__Heights_AreaMultiplicityWeight_setLIntegral_comp_mul_abs_det__9fe19be68ccf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:15:17.496454+00:00
 -- url     : https://prove2.me/theorems/b67fa485-fbdc-480f-900b-1befaccd8200

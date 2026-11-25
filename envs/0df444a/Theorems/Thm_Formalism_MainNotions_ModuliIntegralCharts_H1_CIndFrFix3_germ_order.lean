@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_CIndFrFix3_germ_order
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.CIndFrFix3.germ_order
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:59:09.244655+00:00
 -- url     : https://prove2.me/theorems/c5095d65-d9ce-4499-bd81-f5ecb07b93e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergyIntegrableAlt_quad_pos_39af722e88fa
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergyIntegrableAlt_quad_pos_39af722e88fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:19:01.103634+00:00
 -- url     : https://prove2.me/theorems/10ffe9e6-afcf-4c1b-b8ed-b88b9219a415

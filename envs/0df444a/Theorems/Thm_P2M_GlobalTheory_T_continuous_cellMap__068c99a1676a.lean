@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_continuous_cellMap__068c99a1676a
 -- name    : P2M_GlobalTheory_T_continuous_cellMap__068c99a1676a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:51.166978+00:00
 -- url     : https://prove2.me/theorems/9d480401-5a91-40a8-9164-d687cdbe2ecc

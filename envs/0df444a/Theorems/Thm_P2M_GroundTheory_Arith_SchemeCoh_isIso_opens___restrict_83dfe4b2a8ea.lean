@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_SchemeCoh_isIso_opens___restrict_83dfe4b2a8ea
 -- name    : P2M_GroundTheory_Arith_SchemeCoh_isIso_opens___restrict_83dfe4b2a8ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:40.976047+00:00
 -- url     : https://prove2.me/theorems/47e980de-7e58-4439-b789-db5b65db28c1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitGrowth_main
 -- name    : GlobalTheory.OrbitGrowth.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T10:49:41.419785+00:00
 -- url     : https://prove2.me/theorems/dcb043ea-999d-4e5a-9810-905b6cddb965

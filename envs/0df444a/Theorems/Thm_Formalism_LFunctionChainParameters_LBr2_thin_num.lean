@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_thin_num
 -- name    : Formalism.LFunctionChainParameters.LBr2.thin_num
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:48:24.906745+00:00
 -- url     : https://prove2.me/theorems/3ac75f11-acfd-5c11-9f40-00a5a3b51646

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZetaLocal_order_zeta__e3d6133bc940
 -- name    : P2M_GlobalTheory_ZetaLocal_order_zeta__e3d6133bc940
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:12:23.817082+00:00
 -- url     : https://prove2.me/theorems/eedca16d-10c7-4285-8d6e-3ba9cd99a1ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_clm_of_gram_eq_smul__61358ba6bfef
 -- name    : P2M_GlobalTheory_T_exists_clm_of_gram_eq_smul__61358ba6bfef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:26:26.076328+00:00
 -- url     : https://prove2.me/theorems/fdaff0d6-6d81-4c8a-9564-9377cb0b99b6

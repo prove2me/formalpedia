@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_QCoh_nonempty_presentation_restrict___3b59af861bdd
 -- name    : P2M_GlobalTheory_QCoh_nonempty_presentation_restrict___3b59af861bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:08:53.382795+00:00
 -- url     : https://prove2.me/theorems/7beb0524-c4c2-496b-981b-eea2a511f99f

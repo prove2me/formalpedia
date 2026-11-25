@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_HeightVAux_main
 -- name    : Formalism.FG.HeightVAux.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:40:43.147594+00:00
 -- url     : https://prove2.me/theorems/5787c5e0-1f41-456e-8c6a-1368b7ea8faf

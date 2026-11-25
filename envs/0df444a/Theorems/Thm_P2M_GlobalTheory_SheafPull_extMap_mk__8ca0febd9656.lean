@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SheafPull_extMap_mk__8ca0febd9656
 -- name    : P2M_GlobalTheory_SheafPull_extMap_mk__8ca0febd9656
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:08:46.271153+00:00
 -- url     : https://prove2.me/theorems/55a9acd5-ba4e-49dc-8058-ee3a83685557

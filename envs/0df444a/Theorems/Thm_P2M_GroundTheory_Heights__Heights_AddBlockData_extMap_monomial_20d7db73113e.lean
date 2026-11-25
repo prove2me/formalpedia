@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockData_extMap_monomial_20d7db73113e
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockData_extMap_monomial_20d7db73113e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:15:35.34399+00:00
 -- url     : https://prove2.me/theorems/1a67ac95-2c0a-460d-b632-c53bf1f4cffd

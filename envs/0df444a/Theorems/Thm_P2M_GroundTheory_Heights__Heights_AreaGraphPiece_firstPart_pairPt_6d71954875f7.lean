@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaGraphPiece_firstPart_pairPt_6d71954875f7
 -- name    : P2M_GroundTheory_Heights__Heights_AreaGraphPiece_firstPart_pairPt_6d71954875f7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:16:01.121133+00:00
 -- url     : https://prove2.me/theorems/d20b9c6f-8a85-492e-9829-e2762299ac0c

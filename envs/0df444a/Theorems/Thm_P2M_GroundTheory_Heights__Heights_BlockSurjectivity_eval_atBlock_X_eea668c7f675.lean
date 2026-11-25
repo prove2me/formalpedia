@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockSurjectivity_eval_atBlock_X_eea668c7f675
 -- name    : P2M_GroundTheory_Heights__Heights_BlockSurjectivity_eval_atBlock_X_eea668c7f675
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:16:01.161861+00:00
 -- url     : https://prove2.me/theorems/330b5ea0-4d89-4e5b-9717-8c0940b36c8e

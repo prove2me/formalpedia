@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_nat_mul_mem_range_pi_quotient_minimalPrimes__7a270af932d6
 -- name    : P2M_GlobalTheory_T_exists_nat_mul_mem_range_pi_quotient_minimalPrimes__7a270af932d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:05.744516+00:00
 -- url     : https://prove2.me/theorems/1383cc63-99ac-44d6-a537-24aaf55f3425

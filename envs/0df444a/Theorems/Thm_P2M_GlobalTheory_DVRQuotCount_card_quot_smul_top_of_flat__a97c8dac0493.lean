@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DVRQuotCount_card_quot_smul_top_of_flat__a97c8dac0493
 -- name    : P2M_GlobalTheory_DVRQuotCount_card_quot_smul_top_of_flat__a97c8dac0493
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:13.670955+00:00
 -- url     : https://prove2.me/theorems/f2e41c4b-b6ff-43a3-88af-06187e7ad073

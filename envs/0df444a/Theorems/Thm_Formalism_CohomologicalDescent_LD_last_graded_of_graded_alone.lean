@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_last_graded_of_graded_alone
 -- name    : Formalism.CohomologicalDescent.LD.last_graded_of_graded_alone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:06:35.210507+00:00
 -- url     : https://prove2.me/theorems/da48ad95-24d1-4f32-b171-fe78b29a670f

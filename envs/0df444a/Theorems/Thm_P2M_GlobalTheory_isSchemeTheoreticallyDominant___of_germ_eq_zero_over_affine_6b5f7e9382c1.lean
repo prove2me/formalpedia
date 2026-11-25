@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_isSchemeTheoreticallyDominant___of_germ_eq_zero_over_affine_6b5f7e9382c1
 -- name    : P2M_GlobalTheory_isSchemeTheoreticallyDominant___of_germ_eq_zero_over_affine_6b5f7e9382c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:51.343898+00:00
 -- url     : https://prove2.me/theorems/8ae2bc23-fe31-40cf-b1df-e8e7eb1d51e7

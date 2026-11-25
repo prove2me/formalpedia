@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_isRegularLocalRing_adicCompletion__0bd02646f3a5
 -- name    : P2M_GlobalTheory_T_isRegularLocalRing_adicCompletion__0bd02646f3a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:10:30.39135+00:00
 -- url     : https://prove2.me/theorems/d6f89461-89f8-45f2-9963-3f66b4878397

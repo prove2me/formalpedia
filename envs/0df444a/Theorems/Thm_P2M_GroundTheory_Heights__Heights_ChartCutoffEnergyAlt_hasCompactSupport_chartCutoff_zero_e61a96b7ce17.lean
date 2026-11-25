@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_hasCompactSupport_chartCutoff_zero_e61a96b7ce17
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_hasCompactSupport_chartCutoff_zero_e61a96b7ce17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:19:38.965423+00:00
 -- url     : https://prove2.me/theorems/653db5bb-8f72-4839-9c2d-c0a30591e33a

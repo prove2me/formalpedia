@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_prime_element_congruent
 -- name    : GlobalTheory.T.exists_prime_element_congruent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:12:07.445078+00:00
 -- url     : https://prove2.me/theorems/37df957a-43bf-469c-afca-dc82a097ccb6

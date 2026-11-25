@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_pow_mul_mem_adjoin_of_localizationAway
 -- name    : GlobalTheory.T.exists_pow_mul_mem_adjoin_of_localizationAway
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:37:12.268105+00:00
 -- url     : https://prove2.me/theorems/06c87ed8-3823-4170-b264-bfc64610dd00

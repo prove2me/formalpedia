@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_isUnit_apply_self_of_mem_adelicBorel
 -- name    : GroundTheory.Automorphic.Reduction.isUnit_apply_self_of_mem_adelicBorel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:50:12.32891+00:00
 -- url     : https://prove2.me/theorems/5a81cda3-a934-5510-b0b6-f64a376b3b6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ProjPoint_ofHom_eq_away__d7d4db5ef24f
 -- name    : P2M_GlobalTheory_ProjPoint_ofHom_eq_away__d7d4db5ef24f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:09:17.594108+00:00
 -- url     : https://prove2.me/theorems/d5794660-6a78-4bf7-8fe9-ac2b3f3bc139

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuotientMapComposition_main
 -- name    : GlobalTheory.QuotientMapComposition.main
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:03:24.900839+00:00
 -- url     : https://prove2.me/theorems/36db2e4a-7041-4dc5-8699-950248ce2c0b

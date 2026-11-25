@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartDensityIntegrableAlt_integrable_comp_affine_04c215816f18
 -- name    : P2M_GroundTheory_Heights__Heights_ChartDensityIntegrableAlt_integrable_comp_affine_04c215816f18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:18:34.305177+00:00
 -- url     : https://prove2.me/theorems/b1f9ef74-3542-465c-b5f1-c348029c788e

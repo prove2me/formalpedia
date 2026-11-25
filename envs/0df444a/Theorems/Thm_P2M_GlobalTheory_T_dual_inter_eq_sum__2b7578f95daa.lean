@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_dual_inter_eq_sum__2b7578f95daa
 -- name    : P2M_GlobalTheory_T_dual_inter_eq_sum__2b7578f95daa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:10:43.467671+00:00
 -- url     : https://prove2.me/theorems/3927ae13-529b-4e22-b628-fb695695aa85

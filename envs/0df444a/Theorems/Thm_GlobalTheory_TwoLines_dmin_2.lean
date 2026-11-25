@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_dmin_2
 -- name    : GlobalTheory.TwoLines.dmin_2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:04:19.360272+00:00
 -- url     : https://prove2.me/theorems/16790096-e525-41b1-a467-a3018eb0ec2f

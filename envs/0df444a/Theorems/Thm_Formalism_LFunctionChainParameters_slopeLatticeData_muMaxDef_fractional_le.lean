@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_muMaxDef_fractional_le
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.muMaxDef_fractional_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:28:37.562296+00:00
 -- url     : https://prove2.me/theorems/3cbbde91-7fdd-4921-9257-3c8fb54f2e2f

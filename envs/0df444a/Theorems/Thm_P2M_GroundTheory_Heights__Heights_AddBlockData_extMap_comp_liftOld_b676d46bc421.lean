@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockData_extMap_comp_liftOld_b676d46bc421
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockData_extMap_comp_liftOld_b676d46bc421
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:15:17.659285+00:00
 -- url     : https://prove2.me/theorems/9dd7edfe-a4e1-4efe-81ae-cdc57a57d415

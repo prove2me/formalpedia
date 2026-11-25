@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_kappa_invariance
 -- name    : Formalism.DivisionValues.kappa_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:03.820069+00:00
 -- url     : https://prove2.me/theorems/2a8291e4-c238-4368-ad61-ef3bc3f5bd91

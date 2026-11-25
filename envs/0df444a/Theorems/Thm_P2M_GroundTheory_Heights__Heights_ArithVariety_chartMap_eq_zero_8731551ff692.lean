@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_chartMap_eq_zero_8731551ff692
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_chartMap_eq_zero_8731551ff692
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:15:14.672802+00:00
 -- url     : https://prove2.me/theorems/2185bb56-a864-4706-a989-3429ab6abad9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockTrdeg_isWeightedHomogeneous_forgetMonomial_49694bee7116
 -- name    : P2M_GroundTheory_Heights__Heights_BlockTrdeg_isWeightedHomogeneous_forgetMonomial_49694bee7116
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:18:42.485079+00:00
 -- url     : https://prove2.me/theorems/7a201d36-3b5a-466f-879d-9b79d6a70d8a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedS_qr_of_dp
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedS.qr_of_dp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:06:52.457326+00:00
 -- url     : https://prove2.me/theorems/66599c5e-05be-5ff9-bafe-defc6b4672dc

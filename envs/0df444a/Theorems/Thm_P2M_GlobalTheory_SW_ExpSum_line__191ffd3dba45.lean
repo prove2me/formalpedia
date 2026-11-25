@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_ExpSum_line__191ffd3dba45
 -- name    : P2M_GlobalTheory_SW_ExpSum_line__191ffd3dba45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:09:05.890007+00:00
 -- url     : https://prove2.me/theorems/ac0f4136-56f7-42ca-91c8-71873fd03179

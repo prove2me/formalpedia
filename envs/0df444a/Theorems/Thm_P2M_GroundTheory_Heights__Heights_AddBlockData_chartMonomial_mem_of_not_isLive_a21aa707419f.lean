@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockData_chartMonomial_mem_of_not_isLive_a21aa707419f
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockData_chartMonomial_mem_of_not_isLive_a21aa707419f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:15:17.147989+00:00
 -- url     : https://prove2.me/theorems/7604ab7c-5cd3-4d3b-b9d6-aaa9d18e8dd2

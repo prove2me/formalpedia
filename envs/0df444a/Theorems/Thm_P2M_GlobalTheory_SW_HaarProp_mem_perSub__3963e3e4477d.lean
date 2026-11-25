@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_HaarProp_mem_perSub__3963e3e4477d
 -- name    : P2M_GlobalTheory_SW_HaarProp_mem_perSub__3963e3e4477d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:08:58.133203+00:00
 -- url     : https://prove2.me/theorems/f269284d-5fc1-46f0-bdcc-3ac02e1dd001

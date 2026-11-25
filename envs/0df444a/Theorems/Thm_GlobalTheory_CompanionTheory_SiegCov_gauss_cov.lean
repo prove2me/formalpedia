@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegCov_gauss_cov
 -- name    : GlobalTheory.CompanionTheory.SiegCov.gauss_cov
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:13:17.696011+00:00
 -- url     : https://prove2.me/theorems/d238fea1-e6ae-4772-8882-5ba0082de772

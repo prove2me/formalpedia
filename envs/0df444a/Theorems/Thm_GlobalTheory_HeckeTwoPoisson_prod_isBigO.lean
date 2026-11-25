@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HeckeTwoPoisson_prod_isBigO
 -- name    : GlobalTheory.HeckeTwoPoisson.prod_isBigO
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:15:43.105795+00:00
 -- url     : https://prove2.me/theorems/acebfce4-5f5b-4c59-83f4-ac235e66e0ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockSurjectivity_le_weight_coordDeg_646f6af81263
 -- name    : P2M_GroundTheory_Heights__Heights_BlockSurjectivity_le_weight_coordDeg_646f6af81263
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:04.706831+00:00
 -- url     : https://prove2.me/theorems/b7c3c50d-b09c-4304-b8a4-aca5f3cb77bd

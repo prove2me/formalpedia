@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_RawFrameBC_c__comp_985ef5b88959
 -- name    : P2M_GlobalTheory_RawFrameBC_c__comp_985ef5b88959
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:09:16.395799+00:00
 -- url     : https://prove2.me/theorems/9cf92080-f758-47e5-8a82-64af043ec608

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_ev_prime
 -- name    : Formalism.LFunctionChainParameters.LChain2.ev_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:50:46.060008+00:00
 -- url     : https://prove2.me/theorems/30af56c7-33bc-407d-8287-f4f2998d9ea5

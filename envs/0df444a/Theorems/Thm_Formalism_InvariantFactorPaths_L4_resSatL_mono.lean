@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_resSatL_mono
 -- name    : Formalism.InvariantFactorPaths.L4.resSatL_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:07:10.929809+00:00
 -- url     : https://prove2.me/theorems/36c53112-3a19-5f87-8122-d2f4ee2e9cec

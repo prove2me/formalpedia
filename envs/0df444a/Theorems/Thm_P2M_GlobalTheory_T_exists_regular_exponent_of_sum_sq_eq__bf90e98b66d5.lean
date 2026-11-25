@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_regular_exponent_of_sum_sq_eq__bf90e98b66d5
 -- name    : P2M_GlobalTheory_T_exists_regular_exponent_of_sum_sq_eq__bf90e98b66d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:10:00.402202+00:00
 -- url     : https://prove2.me/theorems/3d56ccb1-2da3-40d9-9d5d-509ad56fc765

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_UnitaryLeft_sum_rows_unitary__05b53fb98137
 -- name    : P2M_GlobalTheory_SW_UnitaryLeft_sum_rows_unitary__05b53fb98137
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:09:38.326771+00:00
 -- url     : https://prove2.me/theorems/49a7d432-5168-4f37-b9cc-efdd77823821

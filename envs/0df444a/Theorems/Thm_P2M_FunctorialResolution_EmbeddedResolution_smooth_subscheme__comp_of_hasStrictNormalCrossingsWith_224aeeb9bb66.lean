@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_smooth_subscheme__comp_of_hasStrictNormalCrossingsWith_224aeeb9bb66
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_smooth_subscheme__comp_of_hasStrictNormalCrossingsWith_224aeeb9bb66
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T15:54:53.12375+00:00
 -- url     : https://prove2.me/theorems/3b2bfd36-782c-4eb9-b09e-d40516be2c34

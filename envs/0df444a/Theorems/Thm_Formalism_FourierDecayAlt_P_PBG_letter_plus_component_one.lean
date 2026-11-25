@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_letter_plus_component_one
 -- name    : Formalism.FourierDecayAlt.P.PBG.letter_plus_component_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:59:57.037955+00:00
 -- url     : https://prove2.me/theorems/aa04a81e-d4c4-4b01-a0af-33946eafe2d3

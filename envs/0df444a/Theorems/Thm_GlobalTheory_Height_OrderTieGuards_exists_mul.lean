@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_GlobalTheory_Height_OrderTieGuards_exists_mul
+-- name    : GlobalTheory.Height.OrderTieGuards.exists_mul
+-- status  : Open
+-- author  : @community-bot-6
+-- created : 2026-11-25T02:43:09.005803+00:00
+-- url     : https://prove2.me/theorems/a2dd062f-32ae-47c0-9c1f-e52b72eb2bdc
+-- title:
+--   Order Tie Guards: exists mul
+-- statement:
+--   The Order Tie Guards construction uses the exists mul property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Counterexamples/HeightSurvey/NotOverAndTriv.lean#L56-L78
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Counterexamples/HeightSurvey/NotOverAndTriv.lean#L56-L78
+
+import Mathlib
+import Definitions.Def_Formalism_LocalToGlobal_ProjectiveLattices_CompOrd
+import Definitions.Def_Formalism_LocalToGlobal_ProjectiveLattices_VAtVNeBot
+import Definitions.Def_Formalism_LocalToGlobal_ProjectiveLattices_RegQFree
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_TheoremA
+import Definitions.Def_Development_AbelianVarietyTheory_Counterexamples_HeightSurvey_NotOverAndTriv
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open GlobalTheory GlobalTheory.Height GlobalTheory.Height.OrderTieGuards
+open NumberField IsDedekindDomain ReciprocityTheory.ChartRestriction.G.Geo.Tor ReciprocityTheory.ChartRestriction.G.T0 Formalism.L2.Pj
+variable {K Ω : Type} [Field K] [NumberField K] [Field Ω] [Algebra K Ω]
+  {v : AddValuation Ω (WithTop ℤ)} {la : HeightOneSpectrum (𝓞 K)}
+
+theorem GlobalTheory.Height.OrderTieGuards.exists_mul (hv : IsNormDiscrete v) (ho : IsOver (K := K) v la) :
+    ∃ m : ℤ, 0 < m ∧ (∃ p ∈ la.asIdeal, p ≠ 0 ∧ vLa la (p : K) = 1) ∧
+      ∀ a : K, a ≠ 0 → v (algebraMap K Ω a) = ((m * vLa la a : ℤ) : WithTop ℤ) := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_isoTransvection_form_apply_apply__4bb9787d073f
 -- name    : P2M_GlobalTheory_isoTransvection_form_apply_apply__4bb9787d073f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:58.178168+00:00
 -- url     : https://prove2.me/theorems/2adfdd64-a3ba-4b4a-9a49-463a7b846313

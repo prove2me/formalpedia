@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymDivisible_prime_X_sub_X_9d4656d4106e
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymDivisible_prime_X_sub_X_9d4656d4106e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:15:15.23888+00:00
 -- url     : https://prove2.me/theorems/3ddc5814-5131-417d-be4a-5bee732624a6

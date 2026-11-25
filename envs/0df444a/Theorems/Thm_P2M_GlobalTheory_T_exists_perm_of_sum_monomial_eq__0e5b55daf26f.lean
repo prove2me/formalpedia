@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_perm_of_sum_monomial_eq__0e5b55daf26f
 -- name    : P2M_GlobalTheory_T_exists_perm_of_sum_monomial_eq__0e5b55daf26f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:07.474913+00:00
 -- url     : https://prove2.me/theorems/6af468ad-f5db-4daf-8389-08c8d1eef1ee

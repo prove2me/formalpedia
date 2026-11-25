@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockDimension_ker_oldMap_e83711f0f9ca
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockDimension_ker_oldMap_e83711f0f9ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:15:34.136699+00:00
 -- url     : https://prove2.me/theorems/c078c0c9-376a-4b16-ae02-94a79de296fe

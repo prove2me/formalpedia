@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DenseSec_factor__comp_factor__7e1aebb4d17b
 -- name    : P2M_GlobalTheory_DenseSec_factor__comp_factor__7e1aebb4d17b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:44.629479+00:00
 -- url     : https://prove2.me/theorems/3ea09749-2a3f-4b32-9378-340f2a771276

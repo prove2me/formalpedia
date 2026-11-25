@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedA_uwb_glev
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedA.uwb_glev
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:55:18.375184+00:00
 -- url     : https://prove2.me/theorems/c77398d7-0189-57c7-8d13-36446a1a1fd5

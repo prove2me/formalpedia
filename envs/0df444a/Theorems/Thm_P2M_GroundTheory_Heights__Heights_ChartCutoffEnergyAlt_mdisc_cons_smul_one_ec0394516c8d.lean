@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_mdisc_cons_smul_one_ec0394516c8d
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_mdisc_cons_smul_one_ec0394516c8d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:52.924805+00:00
 -- url     : https://prove2.me/theorems/67fc04dc-850c-4532-8838-4870c7f8baae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NFOne_unitary_P
 -- name    : NFOne.unitary_P
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:37:43.413925+00:00
 -- url     : https://prove2.me/theorems/db6b4cc5-c6dd-412b-b258-be035e66ae5a

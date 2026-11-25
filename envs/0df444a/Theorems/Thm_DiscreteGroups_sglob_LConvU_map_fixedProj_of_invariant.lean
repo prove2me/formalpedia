@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvU_map_fixedProj_of_invariant
 -- name    : DiscreteGroups.sglob.LConvU.map_fixedProj_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:53:51.765171+00:00
 -- url     : https://prove2.me/theorems/08ff8a0a-a825-457f-bd6d-aa28626979c4

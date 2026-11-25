@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIncOrd_ord_atPrime_ringEquiv_765759cdd22c
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIncOrd_ord_atPrime_ringEquiv_765759cdd22c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:28:03.750344+00:00
 -- url     : https://prove2.me/theorems/a31241c5-0ce9-40dd-ad9e-4bd2f1d70cf2

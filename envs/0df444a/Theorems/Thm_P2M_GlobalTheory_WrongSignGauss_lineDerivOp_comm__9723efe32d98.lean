@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_WrongSignGauss_lineDerivOp_comm__9723efe32d98
 -- name    : P2M_GlobalTheory_WrongSignGauss_lineDerivOp_comm__9723efe32d98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:11:57.84754+00:00
 -- url     : https://prove2.me/theorems/9f82108d-c119-42a0-979d-8ab3c16886c2

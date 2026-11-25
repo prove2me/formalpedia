@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockSurjectivity_joinBlock_sepBlock_1ead804a3c0d
 -- name    : P2M_GroundTheory_Heights__Heights_BlockSurjectivity_joinBlock_sepBlock_1ead804a3c0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:16:09.940129+00:00
 -- url     : https://prove2.me/theorems/b6bc9308-2568-4202-b37b-b092782455ec

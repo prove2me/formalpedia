@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowerExtensionEvaluation_exists_extension
 -- name    : GlobalTheory.PowerExtensionEvaluation.exists_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:15:41.349495+00:00
 -- url     : https://prove2.me/theorems/09318546-0d51-4d12-a2a2-5c2f176fd516

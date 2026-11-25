@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_isHW_of_mem_gSall
 -- name    : Formalism.InvariantFactorPaths.PW.isHW_of_mem_gSall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:44:50.0664+00:00
 -- url     : https://prove2.me/theorems/32ba2cb3-1837-40f7-a596-842b38fe5cd9

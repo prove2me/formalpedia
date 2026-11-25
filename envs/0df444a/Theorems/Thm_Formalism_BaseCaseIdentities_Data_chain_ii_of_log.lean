@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_chain_ii_of_log
 -- name    : Formalism.BaseCaseIdentities.Data.chain_ii_of_log
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:56:52.594196+00:00
 -- url     : https://prove2.me/theorems/447ea349-7040-4a9b-9860-576a68c6b343

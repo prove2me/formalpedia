@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_corner_half_trace_gram_cons_dc016762720f
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_corner_half_trace_gram_cons_dc016762720f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:04:58.621377+00:00
 -- url     : https://prove2.me/theorems/776a8951-bbb4-4f3c-9c1a-2530d4ea9c85

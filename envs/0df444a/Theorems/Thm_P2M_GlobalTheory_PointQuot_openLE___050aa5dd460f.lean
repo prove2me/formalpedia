@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_PointQuot_openLE___050aa5dd460f
 -- name    : P2M_GlobalTheory_PointQuot_openLE___050aa5dd460f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:58.800929+00:00
 -- url     : https://prove2.me/theorems/3bff0312-8755-4dbf-9941-35f53f0b4799

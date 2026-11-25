@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LocSpan_isIntegral__E_a7279f9601bd
 -- name    : P2M_GlobalTheory_LocSpan_isIntegral__E_a7279f9601bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:47.686993+00:00
 -- url     : https://prove2.me/theorems/127df340-977f-4459-bc8f-9a4d8f0f451e

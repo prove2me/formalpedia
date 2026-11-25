@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_rdVPair
 -- name    : Formalism.REAL.rdVPair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:28:43.606445+00:00
 -- url     : https://prove2.me/theorems/6d944525-a82f-4c58-8df3-63de203f7b12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymPerturbation_image_comp_perm_eb7e77f1dfa2
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymPerturbation_image_comp_perm_eb7e77f1dfa2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:15:26.08446+00:00
 -- url     : https://prove2.me/theorems/a8bde11d-5006-4186-9f66-9d93cbdb1c55

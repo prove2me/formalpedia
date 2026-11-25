@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_autFactor_ne_zero__b91261d44755
 -- name    : P2M_GlobalTheory_autFactor_ne_zero__b91261d44755
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:12:03.831895+00:00
 -- url     : https://prove2.me/theorems/d9a67816-e774-4d47-8b77-5c1f91e7343a

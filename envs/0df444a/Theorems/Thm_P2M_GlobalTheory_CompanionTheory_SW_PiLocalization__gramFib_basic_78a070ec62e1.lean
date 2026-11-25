@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__gramFib_basic_78a070ec62e1
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__gramFib_basic_78a070ec62e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:04:19.615019+00:00
 -- url     : https://prove2.me/theorems/3aa3dc1a-ca0e-424e-8685-671bc8227a1f

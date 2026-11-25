@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_posSemidef_sub_vecMulVec_fa5c3756139b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_posSemidef_sub_vecMulVec_fa5c3756139b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:19:32.921243+00:00
 -- url     : https://prove2.me/theorems/d9ab2f6c-d74a-4e07-9ce9-a7980f02f99e

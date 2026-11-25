@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DI_forms_mul_smul_mono
 -- name    : GlobalTheory.DI.forms_mul_smul_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:36:00.252407+00:00
 -- url     : https://prove2.me/theorems/9a02d8c1-6fb4-4122-a75a-45d9d7ce2b0b

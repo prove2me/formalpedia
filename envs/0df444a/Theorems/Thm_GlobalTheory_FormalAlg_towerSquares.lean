@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FormalAlg_towerSquares
 -- name    : GlobalTheory.FormalAlg.towerSquares
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:34:17.457835+00:00
 -- url     : https://prove2.me/theorems/39bc238a-9eb2-4686-b6fd-71b2c6c04ea2

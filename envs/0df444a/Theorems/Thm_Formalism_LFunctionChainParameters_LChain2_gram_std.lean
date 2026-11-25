@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_gram_std
 -- name    : Formalism.LFunctionChainParameters.LChain2.gram_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:51:27.000328+00:00
 -- url     : https://prove2.me/theorems/c6652de7-ec8c-4926-b65e-b94717cfacc9

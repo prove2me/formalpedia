@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZH_ConePrime_eval__coneHom_6d55f7ae70cd
 -- name    : P2M_GlobalTheory_ZH_ConePrime_eval__coneHom_6d55f7ae70cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:12:59.182803+00:00
 -- url     : https://prove2.me/theorems/89de2554-291f-42bd-86ef-a400f46a43b9

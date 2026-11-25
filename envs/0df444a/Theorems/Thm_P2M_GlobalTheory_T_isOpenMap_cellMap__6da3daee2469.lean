@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_isOpenMap_cellMap__6da3daee2469
 -- name    : P2M_GlobalTheory_T_isOpenMap_cellMap__6da3daee2469
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:10:30.356387+00:00
 -- url     : https://prove2.me/theorems/d32842aa-b423-4ee5-8994-c38cead2132a

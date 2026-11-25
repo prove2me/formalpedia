@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIncOrd_equiv_apply_ca034950f9d6
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIncOrd_equiv_apply_ca034950f9d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:28:25.63442+00:00
 -- url     : https://prove2.me/theorems/2e27edc8-74b7-47ad-bff5-c28f3673867d

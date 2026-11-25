@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_measurable_fin_cons_fc68d0337b48
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_measurable_fin_cons_fc68d0337b48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:04:33.968915+00:00
 -- url     : https://prove2.me/theorems/a0289f87-c29a-498e-8bf2-101aebfe53d9

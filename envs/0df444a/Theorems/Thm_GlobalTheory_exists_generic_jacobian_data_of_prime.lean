@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_generic_jacobian_data_of_prime
 -- name    : GlobalTheory.exists_generic_jacobian_data_of_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T22:32:28.740286+00:00
 -- url     : https://prove2.me/theorems/17bc9217-7283-4b31-9d6e-adc7796297fa

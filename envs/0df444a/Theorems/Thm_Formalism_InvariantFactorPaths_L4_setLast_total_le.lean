@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_setLast_total_le
 -- name    : Formalism.InvariantFactorPaths.L4.setLast_total_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:25:48.879723+00:00
 -- url     : https://prove2.me/theorems/edfc0ed1-3c82-582f-a3fb-3b39ec8b3ddb

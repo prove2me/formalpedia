@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_finiteDimensional_ker_aeval_of_eigenspaces__1c38240932a5
 -- name    : P2M_GlobalTheory_T_finiteDimensional_ker_aeval_of_eigenspaces__1c38240932a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:10:21.190239+00:00
 -- url     : https://prove2.me/theorems/a6cf2f5a-25b0-4602-b2fa-85986a56933b

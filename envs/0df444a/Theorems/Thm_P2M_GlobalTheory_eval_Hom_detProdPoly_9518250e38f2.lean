@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_eval_Hom_detProdPoly_9518250e38f2
 -- name    : P2M_GlobalTheory_eval_Hom_detProdPoly_9518250e38f2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:15.839164+00:00
 -- url     : https://prove2.me/theorems/a6be9c4e-e65f-43f3-bc77-fd02f90b40d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FiniteSumLocalExpansion_col_zero
 -- name    : Formalism.FourierDecayAlt.P.FiniteSumLocalExpansion.col_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:01:33.923749+00:00
 -- url     : https://prove2.me/theorems/c469b6a0-9fbb-43db-a6ec-e375d046c9bd

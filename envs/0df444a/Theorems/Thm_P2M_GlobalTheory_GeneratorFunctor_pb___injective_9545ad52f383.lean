@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_GeneratorFunctor_pb___injective_9545ad52f383
 -- name    : P2M_GlobalTheory_GeneratorFunctor_pb___injective_9545ad52f383
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:07:18.03315+00:00
 -- url     : https://prove2.me/theorems/4157c6a9-1515-478b-b33f-9b1b2c70ef02

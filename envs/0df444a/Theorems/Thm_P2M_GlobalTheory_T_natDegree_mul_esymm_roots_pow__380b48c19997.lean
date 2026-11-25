@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_natDegree_mul_esymm_roots_pow__380b48c19997
 -- name    : P2M_GlobalTheory_T_natDegree_mul_esymm_roots_pow__380b48c19997
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:10:23.017016+00:00
 -- url     : https://prove2.me/theorems/0c92104c-1b3a-4fbd-a35c-6180e9841b7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__FreeQuot_IsFppfTorsor_isFppfQuotient_3e882fd20688
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__FreeQuot_IsFppfTorsor_isFppfQuotient_3e882fd20688
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:48.486988+00:00
 -- url     : https://prove2.me/theorems/8c389203-97f0-479f-a743-5c96ff362670

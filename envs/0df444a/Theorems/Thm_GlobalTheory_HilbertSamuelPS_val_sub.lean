@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertSamuelPS_val_sub
 -- name    : GlobalTheory.HilbertSamuelPS.val_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:21:48.316431+00:00
 -- url     : https://prove2.me/theorems/26802177-66e6-402a-ad19-12552e059af0

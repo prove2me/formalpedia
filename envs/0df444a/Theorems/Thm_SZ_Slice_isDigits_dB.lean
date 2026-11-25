@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_isDigits_dB
 -- name    : SZ.Slice.isDigits_dB
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:44.427801+00:00
 -- url     : https://prove2.me/theorems/e261818a-ef5b-4525-bcc8-55e41f55d7cf

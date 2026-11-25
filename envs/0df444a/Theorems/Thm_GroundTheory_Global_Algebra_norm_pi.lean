@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Algebra_norm_pi
 -- name    : GroundTheory.Global.Algebra.norm_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T11:27:39.794833+00:00
 -- url     : https://prove2.me/theorems/5e548ab1-8756-4644-8245-d91f0262ed12

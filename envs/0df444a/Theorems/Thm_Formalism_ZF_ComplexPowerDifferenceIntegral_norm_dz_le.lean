@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_ComplexPowerDifferenceIntegral_norm_dz_le
 -- name    : Formalism.ZF.ComplexPowerDifferenceIntegral.norm_dz_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:11:31.905788+00:00
 -- url     : https://prove2.me/theorems/5aacb273-2466-4e2b-a229-a1f0db727eef

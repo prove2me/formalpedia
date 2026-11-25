@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__hR_blockOne_cons_7313ef7402fc
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__hR_blockOne_cons_7313ef7402fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:11.353375+00:00
 -- url     : https://prove2.me/theorems/b7a8c049-2396-4fa9-b3f4-b960d5e94261

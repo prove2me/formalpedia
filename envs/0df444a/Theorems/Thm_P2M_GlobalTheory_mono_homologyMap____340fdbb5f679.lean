@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_mono_homologyMap____340fdbb5f679
 -- name    : P2M_GlobalTheory_mono_homologyMap____340fdbb5f679
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:12:35.746582+00:00
 -- url     : https://prove2.me/theorems/7c1def22-379f-49cc-93eb-7700d4208208

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_gram_one
 -- name    : GlobalTheory.TwoLines.gram_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:51:09.938941+00:00
 -- url     : https://prove2.me/theorems/2a9623b7-893e-4ff0-8b6b-d5ed31706059

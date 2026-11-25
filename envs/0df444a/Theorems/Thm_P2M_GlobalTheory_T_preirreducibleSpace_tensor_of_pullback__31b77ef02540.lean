@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_preirreducibleSpace_tensor_of_pullback__31b77ef02540
 -- name    : P2M_GlobalTheory_T_preirreducibleSpace_tensor_of_pullback__31b77ef02540
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:11:35.453596+00:00
 -- url     : https://prove2.me/theorems/04ea32b6-b511-4470-adb2-8c4d886f3ff6

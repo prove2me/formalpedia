@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockBridge_funHom_chartPow_8a3ea357af65
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockBridge_funHom_chartPow_8a3ea357af65
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:15:37.566321+00:00
 -- url     : https://prove2.me/theorems/bde29f08-077e-4c93-ab7a-4a88b788eb9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_posDef_exists_conjTranspose_mul_mul_eq_one__8e8d5f32be89
 -- name    : P2M_GlobalTheory_T_posDef_exists_conjTranspose_mul_mul_eq_one__8e8d5f32be89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:11:28.82537+00:00
 -- url     : https://prove2.me/theorems/7da8f31b-8b88-441c-9529-e7927cc0058e

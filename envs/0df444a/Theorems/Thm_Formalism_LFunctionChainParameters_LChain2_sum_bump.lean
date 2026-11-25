@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_sum_bump
 -- name    : Formalism.LFunctionChainParameters.LChain2.sum_bump
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:33:21.960525+00:00
 -- url     : https://prove2.me/theorems/1d239bfb-b551-4c0b-94da-65d24e0f1ce2

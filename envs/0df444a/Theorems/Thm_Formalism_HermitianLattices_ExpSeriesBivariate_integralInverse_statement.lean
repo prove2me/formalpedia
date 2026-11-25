@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_ExpSeriesBivariate_integralInverse_statement
 -- name    : Formalism.HermitianLattices.ExpSeriesBivariate.integralInverse_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:10:28.802825+00:00
 -- url     : https://prove2.me/theorems/8e5a3488-eff9-4779-b4ee-48af861ef7e7

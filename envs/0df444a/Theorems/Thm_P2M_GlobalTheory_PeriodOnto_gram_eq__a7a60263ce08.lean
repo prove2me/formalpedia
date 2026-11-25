@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_PeriodOnto_gram_eq__a7a60263ce08
 -- name    : P2M_GlobalTheory_PeriodOnto_gram_eq__a7a60263ce08
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:07:21.711091+00:00
 -- url     : https://prove2.me/theorems/88e74b26-69dc-4728-aad3-f15644112441

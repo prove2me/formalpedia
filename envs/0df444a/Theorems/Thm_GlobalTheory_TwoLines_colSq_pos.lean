@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_colSq_pos
 -- name    : GlobalTheory.TwoLines.colSq_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:50:23.496405+00:00
 -- url     : https://prove2.me/theorems/31d24635-dfc9-40e0-b708-7050781fdc72

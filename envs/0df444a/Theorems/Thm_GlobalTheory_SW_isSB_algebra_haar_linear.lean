@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_isSB_algebra_haar_linear
 -- name    : GlobalTheory.SW.isSB_algebra_haar_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:10:39.88332+00:00
 -- url     : https://prove2.me/theorems/12231e68-d883-4b72-a1be-d3ef20218d83

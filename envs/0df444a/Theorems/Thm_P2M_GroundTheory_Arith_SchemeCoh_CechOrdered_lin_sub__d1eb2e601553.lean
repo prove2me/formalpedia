@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_SchemeCoh_CechOrdered_lin_sub__d1eb2e601553
 -- name    : P2M_GroundTheory_Arith_SchemeCoh_CechOrdered_lin_sub__d1eb2e601553
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:38.190217+00:00
 -- url     : https://prove2.me/theorems/3cb432e3-8b46-4acd-abd4-2938700b08dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_Top_ascentDomain
 -- name    : Formalism.InvariantFactorPaths.INST.Top.ascentDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:13:36.399802+00:00
 -- url     : https://prove2.me/theorems/f9a1438d-30ba-4a64-8310-288fb61c38c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Coord_aug_comp_subst
 -- name    : GlobalTheory.ChartCmp.Coord.aug_comp_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:05:30.987815+00:00
 -- url     : https://prove2.me/theorems/6fb9a316-18c5-58ce-93ea-e71ba6369833

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_evalCone_chartPoint_cf5b16f39004
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_evalCone_chartPoint_cf5b16f39004
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:16:12.929837+00:00
 -- url     : https://prove2.me/theorems/32fa98b7-9918-44e3-ad68-5601e1a26575

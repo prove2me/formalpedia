@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_norm_sq_mul_integral_ball_le_of_circle_invariant__a7c52195cdb0
 -- name    : P2M_GlobalTheory_T_norm_sq_mul_integral_ball_le_of_circle_invariant__a7c52195cdb0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:11:15.978075+00:00
 -- url     : https://prove2.me/theorems/abfb66c5-c794-4a98-b633-b20fdca4aef6

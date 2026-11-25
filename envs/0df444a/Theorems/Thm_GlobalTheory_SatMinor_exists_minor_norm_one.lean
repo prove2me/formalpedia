@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SatMinor_exists_minor_norm_one
 -- name    : GlobalTheory.SatMinor.exists_minor_norm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T19:44:48.56712+00:00
 -- url     : https://prove2.me/theorems/638b65a8-51ff-4b34-b64b-ee2b89e19c81

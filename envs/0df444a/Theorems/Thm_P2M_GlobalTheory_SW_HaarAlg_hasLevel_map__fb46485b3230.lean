@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_HaarAlg_hasLevel_map__fb46485b3230
 -- name    : P2M_GlobalTheory_SW_HaarAlg_hasLevel_map__fb46485b3230
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:08:54.200894+00:00
 -- url     : https://prove2.me/theorems/04039e95-4bc7-4cc6-adb8-f6072599282d

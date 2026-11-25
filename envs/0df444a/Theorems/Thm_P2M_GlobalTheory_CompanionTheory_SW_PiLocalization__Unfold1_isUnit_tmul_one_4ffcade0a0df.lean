@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_isUnit_tmul_one_4ffcade0a0df
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold1_isUnit_tmul_one_4ffcade0a0df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:23.162793+00:00
 -- url     : https://prove2.me/theorems/aa4f5351-c461-4420-862e-5aed2ae9b40e

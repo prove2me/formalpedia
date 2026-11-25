@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_ExpSum_line__4a86a48c988e
 -- name    : P2M_GlobalTheory_SW_ExpSum_line__4a86a48c988e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:08:59.961596+00:00
 -- url     : https://prove2.me/theorems/642803cf-07aa-4f25-a95b-b48f0d925806

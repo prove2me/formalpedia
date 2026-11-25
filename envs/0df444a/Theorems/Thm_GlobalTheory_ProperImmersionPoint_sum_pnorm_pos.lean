@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ProperImmersionPoint_sum_pnorm_pos
 -- name    : GlobalTheory.ProperImmersionPoint.sum_pnorm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:49:45.186806+00:00
 -- url     : https://prove2.me/theorems/ca261cc9-d1e5-57d7-80b0-2812f5139364

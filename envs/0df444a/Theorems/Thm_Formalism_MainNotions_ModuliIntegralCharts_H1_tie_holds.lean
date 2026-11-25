@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_tie_holds
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.tie_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:03:26.529462+00:00
 -- url     : https://prove2.me/theorems/85d607df-9f1d-400f-b380-6b2a3bffdf46

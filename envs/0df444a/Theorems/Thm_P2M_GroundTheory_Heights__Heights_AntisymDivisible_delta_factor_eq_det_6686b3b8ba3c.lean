@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymDivisible_delta_factor_eq_det_6686b3b8ba3c
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymDivisible_delta_factor_eq_det_6686b3b8ba3c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:15:33.347987+00:00
 -- url     : https://prove2.me/theorems/0c96e3b8-2cd9-4265-8a43-0e0cdb0a2541

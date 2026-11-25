@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_whittaker_vanishes_of_radical_sums
 -- name    : GlobalTheory.T.whittaker_vanishes_of_radical_sums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:01:13.900504+00:00
 -- url     : https://prove2.me/theorems/e904ab43-27f9-45db-abd5-d082426ce906

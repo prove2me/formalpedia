@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndLine_Iwasawa_map_star_mul__5f024dfe3853
 -- name    : P2M_GlobalTheory_IndLine_Iwasawa_map_star_mul__5f024dfe3853
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:50.246826+00:00
 -- url     : https://prove2.me/theorems/224d2f76-e3a6-4c71-88f4-d5c783584bb8

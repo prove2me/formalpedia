@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_glAct_y
 -- name    : Formalism.InvariantFactorPaths.L4.glAct_y
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:00:08.302925+00:00
 -- url     : https://prove2.me/theorems/9d6770d0-f961-4aba-8581-a243276849b3

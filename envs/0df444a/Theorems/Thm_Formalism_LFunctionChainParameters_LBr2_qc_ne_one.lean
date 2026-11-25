@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_qc_ne_one
 -- name    : Formalism.LFunctionChainParameters.LBr2.qc_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:00:07.665992+00:00
 -- url     : https://prove2.me/theorems/63a0fb3d-5707-458f-bf77-6d186bb2ce13

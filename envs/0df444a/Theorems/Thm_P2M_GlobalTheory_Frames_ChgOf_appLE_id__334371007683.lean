@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Frames_ChgOf_appLE_id__334371007683
 -- name    : P2M_GlobalTheory_Frames_ChgOf_appLE_id__334371007683
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:05:09.103081+00:00
 -- url     : https://prove2.me/theorems/06effeb0-db85-419d-9953-bc23e89568c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_PullUnifHom_valAt__pull_g__975f6bbd66e3
 -- name    : P2M_GlobalTheory_PullUnifHom_valAt__pull_g__975f6bbd66e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:09:44.297245+00:00
 -- url     : https://prove2.me/theorems/f13b9c21-1831-429f-92a5-da81b0c50555

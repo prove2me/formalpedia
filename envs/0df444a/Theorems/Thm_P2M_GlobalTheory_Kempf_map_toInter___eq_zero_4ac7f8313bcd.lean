@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Kempf_map_toInter___eq_zero_4ac7f8313bcd
 -- name    : P2M_GlobalTheory_Kempf_map_toInter___eq_zero_4ac7f8313bcd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:07:25.18252+00:00
 -- url     : https://prove2.me/theorems/525a4bc6-23d7-4dc2-a3fd-330787d8a13b

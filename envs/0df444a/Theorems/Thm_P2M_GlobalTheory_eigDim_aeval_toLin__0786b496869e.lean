@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_eigDim_aeval_toLin__0786b496869e
 -- name    : P2M_GlobalTheory_eigDim_aeval_toLin__0786b496869e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:12:14.183579+00:00
 -- url     : https://prove2.me/theorems/1552de15-7ff1-4507-b76f-318c16f93825

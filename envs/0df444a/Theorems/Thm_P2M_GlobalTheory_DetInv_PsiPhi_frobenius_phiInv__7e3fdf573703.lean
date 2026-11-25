@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DetInv_PsiPhi_frobenius_phiInv__7e3fdf573703
 -- name    : P2M_GlobalTheory_DetInv_PsiPhi_frobenius_phiInv__7e3fdf573703
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:24.85257+00:00
 -- url     : https://prove2.me/theorems/0514bd13-b0ee-4ecd-a4e8-48b3fb312bda

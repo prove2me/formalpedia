@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frobenius_polydisc_windows_surjective_bounds_zero
 -- name    : GlobalTheory.T.frobenius_polydisc_windows_surjective_bounds_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:42:02.378956+00:00
 -- url     : https://prove2.me/theorems/243ba7cd-f25f-4513-803b-3682e95f9142

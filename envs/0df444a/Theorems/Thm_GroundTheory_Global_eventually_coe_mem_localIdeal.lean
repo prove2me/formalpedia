@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eventually_coe_mem_localIdeal
 -- name    : GroundTheory.Global.eventually_coe_mem_localIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:12:37.711167+00:00
 -- url     : https://prove2.me/theorems/72f04d44-28fa-46ad-bece-bf59b8518444

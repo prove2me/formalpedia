@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DPEval2___zero_cec7b4073406
 -- name    : P2M_GlobalTheory_DPEval2___zero_cec7b4073406
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:05:21.473206+00:00
 -- url     : https://prove2.me/theorems/99509257-c26e-418e-9acd-976e77aca3ea

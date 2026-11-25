@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_DvRows_degL_eq_neg_lcv
 -- name    : PI.DvRows.degL_eq_neg_lcv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:22:46.281378+00:00
 -- url     : https://prove2.me/theorems/2356db82-15b0-4489-bda2-a54d13191859

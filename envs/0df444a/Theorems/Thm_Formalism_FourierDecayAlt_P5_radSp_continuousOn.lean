@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_radSp_continuousOn
 -- name    : Formalism.FourierDecayAlt.P5.radSp_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:56:37.55775+00:00
 -- url     : https://prove2.me/theorems/48c05f05-2bbe-4479-9117-bdf111997f13

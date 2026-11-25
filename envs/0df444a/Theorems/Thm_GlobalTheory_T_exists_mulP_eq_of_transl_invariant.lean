@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_mulP_eq_of_transl_invariant
 -- name    : GlobalTheory.T.exists_mulP_eq_of_transl_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:53:47.358313+00:00
 -- url     : https://prove2.me/theorems/ff689db0-68dd-4703-aa81-7d88e0f36faa

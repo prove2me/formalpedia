@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_CapelliEig_unitary_Hecke_group
 -- name    : PI.UnitaryGroupMassFormula.CapelliEig.unitary_Hecke_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:29:16.200713+00:00
 -- url     : https://prove2.me/theorems/c7961ec2-3b0e-4dd0-b72b-ed72a986eb80

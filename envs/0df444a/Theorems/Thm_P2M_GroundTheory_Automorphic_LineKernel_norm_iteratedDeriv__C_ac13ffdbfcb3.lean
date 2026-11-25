@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_LineKernel_norm_iteratedDeriv__C_ac13ffdbfcb3
 -- name    : P2M_GroundTheory_Automorphic_LineKernel_norm_iteratedDeriv__C_ac13ffdbfcb3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:12:54.469933+00:00
 -- url     : https://prove2.me/theorems/9de471b4-a197-4e78-af3c-82a81db7df84

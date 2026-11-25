@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergyInvariance_invariantUnder_mul_89536a09261f
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergyInvariance_invariantUnder_mul_89536a09261f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:18:20.527619+00:00
 -- url     : https://prove2.me/theorems/07e2b05f-e65b-4fd2-ae6f-1b17885eac0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartFirstGroupDvd_dvd_sub_aeval_73ee1f5d5857
 -- name    : P2M_GroundTheory_Heights__Heights_ChartFirstGroupDvd_dvd_sub_aeval_73ee1f5d5857
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:18:48.144862+00:00
 -- url     : https://prove2.me/theorems/a558b713-65e7-4d14-a318-40b3126b9069

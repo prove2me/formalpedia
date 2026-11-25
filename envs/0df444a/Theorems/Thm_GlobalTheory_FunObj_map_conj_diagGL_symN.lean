@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FunObj_map_conj_diagGL_symN
 -- name    : GlobalTheory.FunObj.map_conj_diagGL_symN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:41:27.011667+00:00
 -- url     : https://prove2.me/theorems/f2248c07-57a6-408f-9429-c84c4901d20f

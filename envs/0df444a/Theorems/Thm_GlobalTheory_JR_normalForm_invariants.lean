@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_normalForm_invariants
 -- name    : GlobalTheory.JR.normalForm_invariants
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:40:20.0663+00:00
 -- url     : https://prove2.me/theorems/1a890fbb-b822-4fd6-a390-a79870aa26a3

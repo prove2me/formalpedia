@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_mul_log_eq_neg_log_mul__1ff42444a818
 -- name    : P2M_GlobalTheory_T_mul_log_eq_neg_log_mul__1ff42444a818
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:09:42.049059+00:00
 -- url     : https://prove2.me/theorems/9403491e-0ff2-4afa-9ab1-009324260a0f

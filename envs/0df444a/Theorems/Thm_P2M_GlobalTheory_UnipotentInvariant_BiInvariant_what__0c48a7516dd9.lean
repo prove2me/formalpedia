@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnipotentInvariant_BiInvariant_what__0c48a7516dd9
 -- name    : P2M_GlobalTheory_UnipotentInvariant_BiInvariant_what__0c48a7516dd9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:40.476413+00:00
 -- url     : https://prove2.me/theorems/bc2afccd-4d5e-4f74-b75c-11eed6fbf92d

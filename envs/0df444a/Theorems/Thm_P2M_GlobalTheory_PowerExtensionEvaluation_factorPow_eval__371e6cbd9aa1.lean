@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_PowerExtensionEvaluation_factorPow_eval__371e6cbd9aa1
 -- name    : P2M_GlobalTheory_PowerExtensionEvaluation_factorPow_eval__371e6cbd9aa1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:01.310286+00:00
 -- url     : https://prove2.me/theorems/b1ff8348-e64b-4991-834b-e3dae8959281

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwoLines_univ_two
 -- name    : GlobalTheory.TwoLines.univ_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:14:09.303379+00:00
 -- url     : https://prove2.me/theorems/3eb1eaf5-247c-5ced-8a88-feb519ab6e15

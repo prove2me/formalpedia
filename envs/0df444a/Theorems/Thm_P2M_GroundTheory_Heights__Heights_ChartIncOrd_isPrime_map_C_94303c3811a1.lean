@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIncOrd_isPrime_map_C_94303c3811a1
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIncOrd_isPrime_map_C_94303c3811a1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:27:55.794363+00:00
 -- url     : https://prove2.me/theorems/c9be75a8-585b-4ed8-871e-2b6d05ae38c0

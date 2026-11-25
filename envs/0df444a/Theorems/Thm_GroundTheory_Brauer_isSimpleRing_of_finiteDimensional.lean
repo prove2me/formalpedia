@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_isSimpleRing_of_finiteDimensional
 -- name    : GroundTheory.Brauer.isSimpleRing_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:29:26.522807+00:00
 -- url     : https://prove2.me/theorems/a9ee12c0-a12c-5de4-a86c-3dc4ea64df43

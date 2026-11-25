@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HC_D7_principal_stable
 -- name    : Formalism.HC.D7.principal_stable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:40:45.525835+00:00
 -- url     : https://prove2.me/theorems/996c6254-c4ec-4f8a-ae92-1df1543e5247

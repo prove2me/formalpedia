@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZetaLocal_logDeriv_zeta__3de425497bdd
 -- name    : P2M_GlobalTheory_ZetaLocal_logDeriv_zeta__3de425497bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:12:06.818483+00:00
 -- url     : https://prove2.me/theorems/a9c07365-ab5f-4c33-b10f-bdd002acb300

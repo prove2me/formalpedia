@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CubeLift_um_tri_del
 -- name    : GlobalTheory.CubeLift.um_tri_del
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:50:49.734557+00:00
 -- url     : https://prove2.me/theorems/65c5b329-9aec-4719-88b2-41728a8d1188

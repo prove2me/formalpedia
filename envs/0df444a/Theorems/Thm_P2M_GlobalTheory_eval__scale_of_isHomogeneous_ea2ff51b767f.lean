@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_eval__scale_of_isHomogeneous_ea2ff51b767f
 -- name    : P2M_GlobalTheory_eval__scale_of_isHomogeneous_ea2ff51b767f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:31.646538+00:00
 -- url     : https://prove2.me/theorems/f1baa54c-085c-4fbd-8565-6ac37552bf2a

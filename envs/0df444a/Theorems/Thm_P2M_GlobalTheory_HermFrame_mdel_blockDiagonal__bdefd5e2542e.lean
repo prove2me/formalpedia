@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermFrame_mdel_blockDiagonal__bdefd5e2542e
 -- name    : P2M_GlobalTheory_HermFrame_mdel_blockDiagonal__bdefd5e2542e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:05:59.80488+00:00
 -- url     : https://prove2.me/theorems/47af6802-a22f-4710-8d87-c606e4730b1b

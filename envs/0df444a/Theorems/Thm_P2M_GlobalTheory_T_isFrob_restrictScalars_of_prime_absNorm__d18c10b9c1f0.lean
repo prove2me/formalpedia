@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_isFrob_restrictScalars_of_prime_absNorm__d18c10b9c1f0
 -- name    : P2M_GlobalTheory_T_isFrob_restrictScalars_of_prime_absNorm__d18c10b9c1f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:10:38.278551+00:00
 -- url     : https://prove2.me/theorems/4049d982-e8e3-4ffa-a618-37d85fb9c0fb

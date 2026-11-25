@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_projP
 -- name    : Formalism.InvariantFactorPaths.PW.Top.projP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:16:30.778519+00:00
 -- url     : https://prove2.me/theorems/70416635-a460-4de6-88b3-c89bc9d65ddc

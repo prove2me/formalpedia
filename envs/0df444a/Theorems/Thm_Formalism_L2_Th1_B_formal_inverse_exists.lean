@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_B_formal_inverse_exists
 -- name    : Formalism.L2.Th1.B.formal_inverse_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:52.943807+00:00
 -- url     : https://prove2.me/theorems/a69b0d5e-d362-4cbe-8268-5963329d0cb9

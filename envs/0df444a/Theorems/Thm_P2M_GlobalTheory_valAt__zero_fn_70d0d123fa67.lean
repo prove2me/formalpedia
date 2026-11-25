@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_valAt__zero_fn_70d0d123fa67
 -- name    : P2M_GlobalTheory_valAt__zero_fn_70d0d123fa67
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:13:05.835824+00:00
 -- url     : https://prove2.me/theorems/780627a2-f815-45b8-b38f-d4c69e1156fd

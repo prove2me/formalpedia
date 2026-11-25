@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_limit_family_of_finite_coefficients__30b8e32805e7
 -- name    : P2M_GlobalTheory_T_exists_limit_family_of_finite_coefficients__30b8e32805e7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:05.478467+00:00
 -- url     : https://prove2.me/theorems/75f9f50d-b872-4de9-b184-334b47bf4d2d

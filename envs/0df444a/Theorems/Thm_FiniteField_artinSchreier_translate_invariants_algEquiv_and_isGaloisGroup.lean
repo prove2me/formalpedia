@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FiniteField_artinSchreier_translate_invariants_algEquiv_and_isGaloisGroup
 -- name    : FiniteField.artinSchreier_translate_invariants_algEquiv_and_isGaloisGroup
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T02:25:40.84437+00:00
 -- url     : https://prove2.me/theorems/2f12de1f-aa2f-4094-936b-41368b483590

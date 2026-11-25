@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_cumulant_lower_bound_of_bounded_centred
 -- name    : GlobalTheory.cumulant_lower_bound_of_bounded_centred
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:14:53.027774+00:00
 -- url     : https://prove2.me/theorems/4e51790c-1046-4e30-a891-29fe09ef3b24

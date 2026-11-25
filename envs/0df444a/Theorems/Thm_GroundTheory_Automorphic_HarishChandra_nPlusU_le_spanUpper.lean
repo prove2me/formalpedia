@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_nPlusU_le_spanUpper
 -- name    : GroundTheory.Automorphic.HarishChandra.nPlusU_le_spanUpper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:07:34.310797+00:00
 -- url     : https://prove2.me/theorems/55064d44-7ab6-4450-8795-b9586dfa1432

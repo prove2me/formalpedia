@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_hessC_eq_cxHessian_ae8a5d56a517
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_hessC_eq_cxHessian_ae8a5d56a517
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:18:47.874318+00:00
 -- url     : https://prove2.me/theorems/16f8d0bc-ffe6-4165-81c2-cc560f34749a

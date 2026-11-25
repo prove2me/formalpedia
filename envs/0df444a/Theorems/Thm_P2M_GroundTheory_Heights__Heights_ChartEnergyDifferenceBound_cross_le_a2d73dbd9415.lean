@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergyDifferenceBound_cross_le_a2d73dbd9415
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergyDifferenceBound_cross_le_a2d73dbd9415
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:23:32.205206+00:00
 -- url     : https://prove2.me/theorems/84273a14-9e4e-4673-9825-7ef0852d41b1

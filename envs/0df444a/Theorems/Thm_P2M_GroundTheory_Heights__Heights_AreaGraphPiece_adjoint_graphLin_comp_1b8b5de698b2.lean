@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaGraphPiece_adjoint_graphLin_comp_1b8b5de698b2
 -- name    : P2M_GroundTheory_Heights__Heights_AreaGraphPiece_adjoint_graphLin_comp_1b8b5de698b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:15:39.146402+00:00
 -- url     : https://prove2.me/theorems/7c4619da-0fe4-474c-8c58-e6daea06f62e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_mass_nonneg
 -- name    : GlobalTheory.BadShare.mass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:02:58.166347+00:00
 -- url     : https://prove2.me/theorems/40685e39-6741-4081-aec4-0f3dd04def44

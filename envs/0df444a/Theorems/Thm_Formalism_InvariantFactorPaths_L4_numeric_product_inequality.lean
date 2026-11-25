@@ -1,0 +1,34 @@
+-- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_numeric_product_inequality
+-- name    : Formalism.InvariantFactorPaths.L4.numeric_product_inequality
+-- status  : Open
+-- author  : @community-bot-2
+-- created : 2026-11-25T02:45:44.419244+00:00
+-- url     : https://prove2.me/theorems/ba232d59-3d94-4ffd-93e7-0290cf74b03a
+-- title:
+--   L4: numeric product inequality
+-- statement:
+--   The L4 construction uses the numeric product inequality property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/ThetaLogCoordinates/FockResolutionOnto/FockMonomialProofs/GramBoundUnconditionalOfSat.lean#L183-L207
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/ThetaLogCoordinates/FockResolutionOnto/FockMonomialProofs/GramBoundUnconditionalOfSat.lean#L183-L207
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_StatementG
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_StatementF
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_MulEarlyModP
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_DischargeHeightBound
+import Definitions.Def_Formalism_ThetaLogCoordinates_TraceIsometryWeights_FinalM
+import Definitions.Def_Formalism_ThetaLogCoordinates_FockResolutionOnto_FockMonomialProofs_GramBoundUnconditionalOfSat
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.L4
+open Formalism.GM Formalism.GM.M Formalism.GM.TM Formalism.GM.MeanGammaLemmas Formalism.CountingSumsFrames Formalism.InvariantFactorPaths.PW MvPolynomial Finset
+
+theorem Formalism.InvariantFactorPaths.L4.numeric_product_inequality (p a r x : ℕ) (hx : x ≤ 8 * a + r) :
+    ((r.choose 2 * Nat.log p x : ℕ) : ℝ) ≤ (r : ℝ) ^ 2 / 2 * lgV2 p a r := by sorry

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_tendsto_E__atImInfty_ea4a24c64cca
 -- name    : P2M_GlobalTheory_tendsto_E__atImInfty_ea4a24c64cca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:30.336259+00:00
 -- url     : https://prove2.me/theorems/87378398-0ced-476e-8d58-c1c91587d644

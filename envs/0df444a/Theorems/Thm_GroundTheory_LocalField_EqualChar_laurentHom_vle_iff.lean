@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_EqualChar_laurentHom_vle_iff
 -- name    : GroundTheory.LocalField.EqualChar.laurentHom_vle_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:13:21.924282+00:00
 -- url     : https://prove2.me/theorems/5c976c56-c6f5-4ccb-beb6-9b8a17604308

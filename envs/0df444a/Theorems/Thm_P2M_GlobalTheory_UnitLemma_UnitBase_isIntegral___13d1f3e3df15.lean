@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitLemma_UnitBase_isIntegral___13d1f3e3df15
 -- name    : P2M_GlobalTheory_UnitLemma_UnitBase_isIntegral___13d1f3e3df15
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:09.855567+00:00
 -- url     : https://prove2.me/theorems/625eea42-bbd6-4d3d-ad03-043e6aca5bd1

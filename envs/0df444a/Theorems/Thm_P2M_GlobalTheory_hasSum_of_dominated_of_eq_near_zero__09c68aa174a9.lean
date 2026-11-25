@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_hasSum_of_dominated_of_eq_near_zero__09c68aa174a9
 -- name    : P2M_GlobalTheory_hasSum_of_dominated_of_eq_near_zero__09c68aa174a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:42.833269+00:00
 -- url     : https://prove2.me/theorems/302b4439-3ed7-4a6a-b758-0a842f2b84a1

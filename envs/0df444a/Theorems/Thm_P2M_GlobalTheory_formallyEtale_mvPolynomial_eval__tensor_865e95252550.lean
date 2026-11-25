@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_formallyEtale_mvPolynomial_eval__tensor_865e95252550
 -- name    : P2M_GlobalTheory_formallyEtale_mvPolynomial_eval__tensor_865e95252550
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:12.872503+00:00
 -- url     : https://prove2.me/theorems/745736b1-4c66-4cdf-830b-819aa1373453

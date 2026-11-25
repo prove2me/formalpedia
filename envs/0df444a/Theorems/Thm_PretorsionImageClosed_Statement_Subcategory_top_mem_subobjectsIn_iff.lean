@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_top_mem_subobjectsIn_iff
 -- name    : PretorsionImageClosed.Statement.Subcategory.top_mem_subobjectsIn_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:29:09.000492+00:00
 -- url     : https://prove2.me/theorems/5bc1a679-fc90-50de-b7b0-75f71bc8a119

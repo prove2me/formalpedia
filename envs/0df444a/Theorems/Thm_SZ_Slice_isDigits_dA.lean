@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_isDigits_dA
 -- name    : SZ.Slice.isDigits_dA
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:19:20.573873+00:00
 -- url     : https://prove2.me/theorems/26ce2ba3-5135-4acd-947a-d4c078b7cdb6

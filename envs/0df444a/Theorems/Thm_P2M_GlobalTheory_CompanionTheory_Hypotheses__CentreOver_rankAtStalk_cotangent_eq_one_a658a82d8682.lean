@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_rankAtStalk_cotangent_eq_one_a658a82d8682
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_rankAtStalk_cotangent_eq_one_a658a82d8682
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:32.245817+00:00
 -- url     : https://prove2.me/theorems/a3927e2e-4af5-4106-87d6-f2748fa2d2f9

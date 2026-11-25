@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_JR_SizeOne_eta_one__51f296a13ac9
 -- name    : P2M_GlobalTheory_JR_SizeOne_eta_one__51f296a13ac9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:07:05.946357+00:00
 -- url     : https://prove2.me/theorems/2a9452d0-0c9d-4231-abd5-36e53c0baae5

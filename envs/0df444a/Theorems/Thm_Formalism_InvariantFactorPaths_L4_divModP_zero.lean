@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_divModP_zero
 -- name    : Formalism.InvariantFactorPaths.L4.divModP_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:08:19.910878+00:00
 -- url     : https://prove2.me/theorems/a6f19cd1-ddd4-5439-bbfb-dea4d5fed059

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_exists_l2_section
 -- name    : SNumbers.exists_l2_section
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:40:34.561441+00:00
 -- url     : https://prove2.me/theorems/e601b87d-7b0a-4aa2-8ad2-2311135a0026

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Cyclotomic_isClosed_ker_degree
 -- name    : GroundTheory.Global.Cyclotomic.isClosed_ker_degree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:18:17.345737+00:00
 -- url     : https://prove2.me/theorems/c49f2453-c01f-4e80-b108-b9eebe53deda

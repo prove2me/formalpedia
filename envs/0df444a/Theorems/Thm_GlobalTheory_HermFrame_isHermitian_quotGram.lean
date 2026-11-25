@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermFrame_isHermitian_quotGram
 -- name    : GlobalTheory.HermFrame.isHermitian_quotGram
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:08:41.825799+00:00
 -- url     : https://prove2.me/theorems/f4126a48-5c99-4ae1-93de-50b5f2864381

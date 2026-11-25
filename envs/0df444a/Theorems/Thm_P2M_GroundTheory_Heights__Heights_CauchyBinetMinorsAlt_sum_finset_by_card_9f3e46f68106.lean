@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CauchyBinetMinorsAlt_sum_finset_by_card_9f3e46f68106
 -- name    : P2M_GroundTheory_Heights__Heights_CauchyBinetMinorsAlt_sum_finset_by_card_9f3e46f68106
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:18:34.097797+00:00
 -- url     : https://prove2.me/theorems/791d1a14-6c7b-4b2a-9ae8-f0afdacef5e1

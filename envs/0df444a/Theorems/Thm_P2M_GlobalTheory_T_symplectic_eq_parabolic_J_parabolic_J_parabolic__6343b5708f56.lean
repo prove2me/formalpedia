@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_symplectic_eq_parabolic_J_parabolic_J_parabolic__6343b5708f56
 -- name    : P2M_GlobalTheory_T_symplectic_eq_parabolic_J_parabolic_J_parabolic__6343b5708f56
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:11:00.549268+00:00
 -- url     : https://prove2.me/theorems/0a10a51d-4198-4568-8223-72d0cba18130

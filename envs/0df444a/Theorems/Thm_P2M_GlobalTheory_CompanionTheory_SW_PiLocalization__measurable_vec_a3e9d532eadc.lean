@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__measurable_vec_a3e9d532eadc
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__measurable_vec_a3e9d532eadc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:05:02.045481+00:00
 -- url     : https://prove2.me/theorems/c60ec774-6155-49f6-9308-b92887105de2

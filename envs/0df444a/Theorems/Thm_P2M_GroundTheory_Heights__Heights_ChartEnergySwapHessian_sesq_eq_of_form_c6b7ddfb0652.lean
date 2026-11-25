@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_sesq_eq_of_form_c6b7ddfb0652
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_sesq_eq_of_form_c6b7ddfb0652
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:18:20.401192+00:00
 -- url     : https://prove2.me/theorems/ec2968ed-17aa-45fb-b00d-4c28bca573fb

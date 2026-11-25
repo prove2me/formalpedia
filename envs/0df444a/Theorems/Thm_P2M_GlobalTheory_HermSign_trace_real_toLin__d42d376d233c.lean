@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermSign_trace_real_toLin__d42d376d233c
 -- name    : P2M_GlobalTheory_HermSign_trace_real_toLin__d42d376d233c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:07.260733+00:00
 -- url     : https://prove2.me/theorems/305cda73-f206-42ec-9346-ade15e04900e

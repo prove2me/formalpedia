@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiscConductor_exists_conductor_of_fractionFields
 -- name    : GlobalTheory.DiscConductor.exists_conductor_of_fractionFields
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:48:57.442893+00:00
 -- url     : https://prove2.me/theorems/76fd21e1-6afe-4470-b4ce-00ab81b9dfab

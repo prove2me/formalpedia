@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZMTFin_exists_basicOpen_cover
 -- name    : GlobalTheory.ZMTFin.exists_basicOpen_cover
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T22:05:44.954725+00:00
 -- url     : https://prove2.me/theorems/6be31934-0a3c-492d-b9cd-3bd7ae0fab96

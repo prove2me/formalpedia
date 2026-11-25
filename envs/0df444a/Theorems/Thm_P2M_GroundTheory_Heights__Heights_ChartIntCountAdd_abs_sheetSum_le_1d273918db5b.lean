@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntCountAdd_abs_sheetSum_le_1d273918db5b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntCountAdd_abs_sheetSum_le_1d273918db5b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:27:54.097227+00:00
 -- url     : https://prove2.me/theorems/b9bd3c5d-2711-4bb0-beae-7c7da80003bf

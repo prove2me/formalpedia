@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZetaWide_order_zeta__eq_8b737bca923c
 -- name    : P2M_GlobalTheory_ZetaWide_order_zeta__eq_8b737bca923c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:11:50.646866+00:00
 -- url     : https://prove2.me/theorems/26127fd8-52b1-4ad1-8792-d598da998303

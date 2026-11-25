@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_eval_map_eq_eval__optionEquivLeft_d3ed124a9ef8
 -- name    : P2M_GlobalTheory_eval_map_eq_eval__optionEquivLeft_d3ed124a9ef8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:04.031712+00:00
 -- url     : https://prove2.me/theorems/58a9cd16-82a4-4e90-8143-aff04b1773a8

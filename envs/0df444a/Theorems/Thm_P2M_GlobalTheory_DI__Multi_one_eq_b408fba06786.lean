@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DI__Multi_one_eq_b408fba06786
 -- name    : P2M_GlobalTheory_DI__Multi_one_eq_b408fba06786
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:04:56.572513+00:00
 -- url     : https://prove2.me/theorems/5ec74736-8359-4680-bb15-8ea5ec07dc73

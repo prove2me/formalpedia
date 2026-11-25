@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_SchemeCoh_H__equiv__naturality_4575878c8334
 -- name    : P2M_GroundTheory_Arith_SchemeCoh_H__equiv__naturality_4575878c8334
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:24.52801+00:00
 -- url     : https://prove2.me/theorems/9f8ee0e9-d47d-4679-87dd-c112e3afffea

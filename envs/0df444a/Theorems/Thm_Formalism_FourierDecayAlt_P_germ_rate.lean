@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_germ_rate
 -- name    : Formalism.FourierDecayAlt.P.germ_rate
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T01:59:08.909142+00:00
 -- url     : https://prove2.me/theorems/e93bbe6c-5a8d-4dc7-8bbb-d9640bd53729

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_funEqHomV
 -- name    : Formalism.FG.funEqHomV
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:20:13.162674+00:00
 -- url     : https://prove2.me/theorems/017979ac-509d-459a-8f8d-7c02cc887228

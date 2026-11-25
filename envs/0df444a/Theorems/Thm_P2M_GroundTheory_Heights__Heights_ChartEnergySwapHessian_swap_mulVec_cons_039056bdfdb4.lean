@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_swap_mulVec_cons_039056bdfdb4
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_swap_mulVec_cons_039056bdfdb4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:18:58.818804+00:00
 -- url     : https://prove2.me/theorems/d80a7ac1-d168-4573-8966-42432175bfd7

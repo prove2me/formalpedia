@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_DimFac_HasComp_exists_op
 -- name    : GlobalTheory.BCT.DimFac.HasComp.exists_op
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:58:43.8553+00:00
 -- url     : https://prove2.me/theorems/21c68c30-8c26-4fa9-96c9-dab9e4cccb9a

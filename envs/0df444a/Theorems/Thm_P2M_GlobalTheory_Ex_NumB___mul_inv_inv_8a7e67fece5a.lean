@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Ex_NumB___mul_inv_inv_8a7e67fece5a
 -- name    : P2M_GlobalTheory_Ex_NumB___mul_inv_inv_8a7e67fece5a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:05:05.863065+00:00
 -- url     : https://prove2.me/theorems/cfd3b08b-2b1d-438c-a844-adda72058a84

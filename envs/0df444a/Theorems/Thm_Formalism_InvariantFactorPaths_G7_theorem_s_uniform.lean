@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_theorem_s_uniform
 -- name    : Formalism.InvariantFactorPaths.G7.theorem_s_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:25:12.916516+00:00
 -- url     : https://prove2.me/theorems/89da7c6f-1cb0-4ba4-8979-282fed917a1c

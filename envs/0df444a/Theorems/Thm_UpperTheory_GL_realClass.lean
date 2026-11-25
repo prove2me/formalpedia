@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_GL_realClass
 -- name    : UpperTheory.GL.realClass
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:13:56.004587+00:00
 -- url     : https://prove2.me/theorems/e68300cc-cefe-5ddd-9ed6-18d9815d7364

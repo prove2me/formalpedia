@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_W_ne_top
 -- name    : SZ.W_ne_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:10:29.79525+00:00
 -- url     : https://prove2.me/theorems/5679cd86-fe1d-46c1-af7d-d58ea1cd29e4

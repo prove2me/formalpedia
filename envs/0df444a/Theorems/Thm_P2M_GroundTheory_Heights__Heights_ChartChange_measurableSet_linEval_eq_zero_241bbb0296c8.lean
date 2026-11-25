@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartChange_measurableSet_linEval_eq_zero_241bbb0296c8
 -- name    : P2M_GroundTheory_Heights__Heights_ChartChange_measurableSet_linEval_eq_zero_241bbb0296c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:17:36.050802+00:00
 -- url     : https://prove2.me/theorems/e27d1d10-9d62-4ce4-8818-afe9921b9e87

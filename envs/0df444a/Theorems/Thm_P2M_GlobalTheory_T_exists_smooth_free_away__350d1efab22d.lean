@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_smooth_free_away__350d1efab22d
 -- name    : P2M_GlobalTheory_T_exists_smooth_free_away__350d1efab22d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:09:59.227998+00:00
 -- url     : https://prove2.me/theorems/aa3b8adc-6332-4406-b783-c8843d2d4953

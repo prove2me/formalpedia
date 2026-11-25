@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartHessianComparison_gramHess_isHermitian_5b0daf937066
 -- name    : P2M_GroundTheory_Heights__Heights_ChartHessianComparison_gramHess_isHermitian_5b0daf937066
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:27:36.050886+00:00
 -- url     : https://prove2.me/theorems/f375474e-bae8-4755-88d8-66b3ff13a868

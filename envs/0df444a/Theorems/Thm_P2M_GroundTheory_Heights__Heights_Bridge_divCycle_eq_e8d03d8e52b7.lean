@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Bridge_divCycle_eq_e8d03d8e52b7
 -- name    : P2M_GroundTheory_Heights__Heights_Bridge_divCycle_eq_e8d03d8e52b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:16:01.035248+00:00
 -- url     : https://prove2.me/theorems/617b5ad6-a55f-442e-9322-9437adf6a1ed

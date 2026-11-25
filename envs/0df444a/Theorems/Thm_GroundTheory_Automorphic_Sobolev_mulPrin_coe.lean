@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_mulPrin_coe
 -- name    : GroundTheory.Automorphic.Sobolev.mulPrin_coe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:50:49.31447+00:00
 -- url     : https://prove2.me/theorems/66c9667f-3480-419a-ba5c-b2938e270775

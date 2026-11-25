@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_modulus_eq_one_iff
 -- name    : GroundTheory.LocalField.modulus_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:27:59.67931+00:00
 -- url     : https://prove2.me/theorems/66b13417-02ca-491c-8ffa-7f0fe992a2f5

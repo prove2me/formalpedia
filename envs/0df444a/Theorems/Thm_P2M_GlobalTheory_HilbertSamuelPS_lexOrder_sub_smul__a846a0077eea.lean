@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HilbertSamuelPS_lexOrder_sub_smul__a846a0077eea
 -- name    : P2M_GlobalTheory_HilbertSamuelPS_lexOrder_sub_smul__a846a0077eea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:05:52.411058+00:00
 -- url     : https://prove2.me/theorems/67fc982c-5408-4c93-a0b2-fa17771113ee

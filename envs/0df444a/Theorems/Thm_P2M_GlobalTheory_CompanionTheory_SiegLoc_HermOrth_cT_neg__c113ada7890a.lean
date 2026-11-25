@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SiegLoc_HermOrth_cT_neg__c113ada7890a
 -- name    : P2M_GlobalTheory_CompanionTheory_SiegLoc_HermOrth_cT_neg__c113ada7890a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:05:48.034715+00:00
 -- url     : https://prove2.me/theorems/0d5088db-6f83-442d-9b9e-9b7c56f58ef5

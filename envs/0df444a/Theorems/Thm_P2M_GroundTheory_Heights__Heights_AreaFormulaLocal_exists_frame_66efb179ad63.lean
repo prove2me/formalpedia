@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaFormulaLocal_exists_frame_66efb179ad63
 -- name    : P2M_GroundTheory_Heights__Heights_AreaFormulaLocal_exists_frame_66efb179ad63
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:18:00.463876+00:00
 -- url     : https://prove2.me/theorems/30580de7-1692-4960-a15b-8e79bcc1ec6b

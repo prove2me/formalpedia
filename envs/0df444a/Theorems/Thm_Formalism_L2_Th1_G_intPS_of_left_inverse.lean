@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_intPS_of_left_inverse
 -- name    : Formalism.L2.Th1.G.intPS_of_left_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:09:25.563186+00:00
 -- url     : https://prove2.me/theorems/a254fe1d-96b6-5643-a19b-64a8a9c6bfea

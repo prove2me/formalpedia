@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_theorem_S_ring
 -- name    : Formalism.FourierDecayAlt.P.theorem_S_ring
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:40:01.095179+00:00
 -- url     : https://prove2.me/theorems/2cc0969b-33b2-4ff1-8636-50b48741b3cb

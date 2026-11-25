@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_det_restrictScalars_toLin__6aa316170093
 -- name    : P2M_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_det_restrictScalars_toLin__6aa316170093
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:05:45.032136+00:00
 -- url     : https://prove2.me/theorems/dedb4516-c964-426f-8576-9e8274b55324

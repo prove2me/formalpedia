@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_SqCount_card_not_squarefree
 -- name    : GlobalTheory.BadShare.SqCount.card_not_squarefree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:56:53.346893+00:00
 -- url     : https://prove2.me/theorems/8427ff0e-ee02-4e66-a349-ff09d3298608

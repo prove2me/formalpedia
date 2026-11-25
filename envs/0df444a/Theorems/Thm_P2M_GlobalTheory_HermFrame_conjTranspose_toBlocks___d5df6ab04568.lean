@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermFrame_conjTranspose_toBlocks___d5df6ab04568
 -- name    : P2M_GlobalTheory_HermFrame_conjTranspose_toBlocks___d5df6ab04568
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:08.396255+00:00
 -- url     : https://prove2.me/theorems/0e163816-a794-41f1-b99b-2d3a8c78657f

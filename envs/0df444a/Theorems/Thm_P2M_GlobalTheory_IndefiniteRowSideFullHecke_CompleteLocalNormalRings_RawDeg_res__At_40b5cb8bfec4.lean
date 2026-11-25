@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndefiniteRowSideFullHecke_CompleteLocalNormalRings_RawDeg_res__At_40b5cb8bfec4
 -- name    : P2M_GlobalTheory_IndefiniteRowSideFullHecke_CompleteLocalNormalRings_RawDeg_res__At_40b5cb8bfec4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:06:13.19454+00:00
 -- url     : https://prove2.me/theorems/0d27095b-dd33-4132-b7a9-6dbeac624cb6

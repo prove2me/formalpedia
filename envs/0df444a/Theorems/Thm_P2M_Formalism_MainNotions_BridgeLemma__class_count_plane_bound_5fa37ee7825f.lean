@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__class_count_plane_bound_5fa37ee7825f
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__class_count_plane_bound_5fa37ee7825f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:01:27.417201+00:00
 -- url     : https://prove2.me/theorems/be955132-df70-4f6c-acd8-6f7e353fdd0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockSurjectivity_monomial_mem_of_pow_prod_mem_be9e9091dbb8
 -- name    : P2M_GroundTheory_Heights__Heights_BlockSurjectivity_monomial_mem_of_pow_prod_mem_be9e9091dbb8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:15:51.114461+00:00
 -- url     : https://prove2.me/theorems/872813a5-eeed-447c-9aa4-ef82edaefbf2

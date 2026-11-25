@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BoundedMonomials_evalCone_chartMonomial__4bb3055a91f9
 -- name    : P2M_GroundTheory_Heights__Heights_BoundedMonomials_evalCone_chartMonomial__4bb3055a91f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:17:51.168451+00:00
 -- url     : https://prove2.me/theorems/ebe9cd37-4766-4340-9886-107dda9565b1

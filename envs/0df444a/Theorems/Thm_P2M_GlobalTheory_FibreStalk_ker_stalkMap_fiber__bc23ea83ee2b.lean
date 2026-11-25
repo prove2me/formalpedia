@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FibreStalk_ker_stalkMap_fiber__bc23ea83ee2b
 -- name    : P2M_GlobalTheory_FibreStalk_ker_stalkMap_fiber__bc23ea83ee2b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:59.366417+00:00
 -- url     : https://prove2.me/theorems/3b206cb9-770a-4598-b7b7-6c15766a2288

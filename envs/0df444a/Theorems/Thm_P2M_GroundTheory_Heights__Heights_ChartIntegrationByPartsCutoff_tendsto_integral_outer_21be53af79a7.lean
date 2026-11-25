@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsCutoff_tendsto_integral_outer_21be53af79a7
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsCutoff_tendsto_integral_outer_21be53af79a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:28:25.342405+00:00
 -- url     : https://prove2.me/theorems/bf00ebb6-1f3e-4d7b-855e-98fe4c2934f8

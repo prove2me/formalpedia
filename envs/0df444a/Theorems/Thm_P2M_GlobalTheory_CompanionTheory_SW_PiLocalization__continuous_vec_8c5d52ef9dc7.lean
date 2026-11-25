@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__continuous_vec_8c5d52ef9dc7
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__continuous_vec_8c5d52ef9dc7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:04:06.838451+00:00
 -- url     : https://prove2.me/theorems/5793faff-5da3-46d0-9792-8b85eaafc7d7

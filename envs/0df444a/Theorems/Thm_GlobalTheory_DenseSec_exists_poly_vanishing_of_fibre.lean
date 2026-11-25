@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseSec_exists_poly_vanishing_of_fibre
 -- name    : GlobalTheory.DenseSec.exists_poly_vanishing_of_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:44:02.62858+00:00
 -- url     : https://prove2.me/theorems/7a2b3eae-f7a6-4f5d-bffd-4bf6d2fd301e

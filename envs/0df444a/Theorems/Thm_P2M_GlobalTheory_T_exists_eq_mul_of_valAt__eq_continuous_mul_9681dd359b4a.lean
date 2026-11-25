@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_eq_mul_of_valAt__eq_continuous_mul_9681dd359b4a
 -- name    : P2M_GlobalTheory_T_exists_eq_mul_of_valAt__eq_continuous_mul_9681dd359b4a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:32.288645+00:00
 -- url     : https://prove2.me/theorems/5ebdd073-7ee4-487c-8e8d-d7618e6b39e8

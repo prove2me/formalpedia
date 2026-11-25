@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_dirichlet_logDeriv_reflection_formula
 -- name    : GlobalTheory.T.dirichlet_logDeriv_reflection_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:31:50.328981+00:00
 -- url     : https://prove2.me/theorems/bee5bd0b-6d87-485e-ba25-797a5a4501c6

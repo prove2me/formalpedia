@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_mem_localUnits_iff
 -- name    : Formalism.LFunctionChainParameters.LHost.mem_localUnits_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:24:18.081816+00:00
 -- url     : https://prove2.me/theorems/8148e332-8333-4091-bbd9-1eea1ef90816

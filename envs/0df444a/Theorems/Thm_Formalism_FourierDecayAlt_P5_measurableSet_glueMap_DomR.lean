@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_measurableSet_glueMap_DomR
 -- name    : Formalism.FourierDecayAlt.P5.measurableSet_glueMap_DomR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:54:04.041322+00:00
 -- url     : https://prove2.me/theorems/efb7f567-f4ce-5de3-9a9d-ab1780424a4a

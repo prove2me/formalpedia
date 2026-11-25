@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaFn_ext_of_valAt__of_isIso_e7119e5be6b9
 -- name    : P2M_GlobalTheory_ThetaFn_ext_of_valAt__of_isIso_e7119e5be6b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:11:53.974596+00:00
 -- url     : https://prove2.me/theorems/4a3d09ff-4c4a-429c-8878-1a3f3c69e602

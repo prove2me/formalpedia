@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_IsApproximable_of_rank_le
 -- name    : SVD.IsApproximable.of_rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:22:28.246849+00:00
 -- url     : https://prove2.me/theorems/806ec1df-362d-4bfd-a8f4-b35d98057c46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_NormCompat_RatioClose_norm_one_tmul__0e587e6c05b4
 -- name    : P2M_GlobalTheory_NormCompat_RatioClose_norm_one_tmul__0e587e6c05b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:07:15.233249+00:00
 -- url     : https://prove2.me/theorems/4c7784df-61d4-4c62-a42f-54cc142065d7

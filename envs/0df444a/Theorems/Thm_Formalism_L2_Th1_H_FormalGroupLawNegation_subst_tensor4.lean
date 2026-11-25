@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_FormalGroupLawNegation_subst_tensor4
 -- name    : Formalism.L2.Th1.H.FormalGroupLawNegation.subst_tensor4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:28:52.27634+00:00
 -- url     : https://prove2.me/theorems/c8b4a5d3-5de5-5589-a8f0-2ac675199d00

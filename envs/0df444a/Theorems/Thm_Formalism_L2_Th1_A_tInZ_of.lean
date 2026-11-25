@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_tInZ_of
 -- name    : Formalism.L2.Th1.A.tInZ_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:45:51.86506+00:00
 -- url     : https://prove2.me/theorems/78c4a3df-fd0a-49eb-8d29-3116e98ff7f7

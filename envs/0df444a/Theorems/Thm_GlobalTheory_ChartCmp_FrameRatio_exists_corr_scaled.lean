@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_FrameRatio_exists_corr_scaled
 -- name    : GlobalTheory.ChartCmp.FrameRatio.exists_corr_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:09:50.092302+00:00
 -- url     : https://prove2.me/theorems/8af69136-8780-47de-b291-7f2c36d82a1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitLemma_UnitBase_mem_adjoin_of_mul_eq_one__921c5f9af334
 -- name    : P2M_GlobalTheory_UnitLemma_UnitBase_mem_adjoin_of_mul_eq_one__921c5f9af334
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:18.1008+00:00
 -- url     : https://prove2.me/theorems/14adacd2-91b3-4fa2-a820-6b9ee3fb45f6

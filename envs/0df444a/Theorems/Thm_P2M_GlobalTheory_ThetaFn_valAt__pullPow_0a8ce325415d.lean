@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaFn_valAt__pullPow_0a8ce325415d
 -- name    : P2M_GlobalTheory_ThetaFn_valAt__pullPow_0a8ce325415d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:10:57.698393+00:00
 -- url     : https://prove2.me/theorems/ece65b4d-daf3-406e-9f62-e1b0906c2e92

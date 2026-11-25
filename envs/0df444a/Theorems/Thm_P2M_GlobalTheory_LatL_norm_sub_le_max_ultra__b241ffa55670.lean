@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LatL_norm_sub_le_max_ultra__b241ffa55670
 -- name    : P2M_GlobalTheory_LatL_norm_sub_le_max_ultra__b241ffa55670
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:07:09.460958+00:00
 -- url     : https://prove2.me/theorems/ece1ee2c-d613-4158-ac8e-14e606d07d55

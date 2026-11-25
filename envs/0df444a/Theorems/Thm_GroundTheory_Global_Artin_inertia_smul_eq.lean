@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_inertia_smul_eq
 -- name    : GroundTheory.Global.Artin.inertia_smul_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:29:59.741643+00:00
 -- url     : https://prove2.me/theorems/d595bff2-5a40-475b-a124-91ab709f9474

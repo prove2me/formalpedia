@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_sqrtTwo_mem_S
 -- name    : SZ.sqrtTwo_mem_S
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:53.114048+00:00
 -- url     : https://prove2.me/theorems/5fe8df6f-014d-4189-a9bd-499581a58a80

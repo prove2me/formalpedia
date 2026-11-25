@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ValCompletion_eval__eq_zero_iff_d5cce42156da
 -- name    : P2M_GlobalTheory_ValCompletion_eval__eq_zero_iff_d5cce42156da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:10:57.132467+00:00
 -- url     : https://prove2.me/theorems/daa0dd63-7621-4e00-b708-d040c1239c17

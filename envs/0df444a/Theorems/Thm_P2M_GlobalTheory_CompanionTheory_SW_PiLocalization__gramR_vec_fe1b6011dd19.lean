@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__gramR_vec_fe1b6011dd19
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__gramR_vec_fe1b6011dd19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:06.499536+00:00
 -- url     : https://prove2.me/theorems/e04f4696-ff45-41d3-aa96-37c743d13d98

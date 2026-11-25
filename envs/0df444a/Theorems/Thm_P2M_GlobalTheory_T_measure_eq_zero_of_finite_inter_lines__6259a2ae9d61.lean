@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_measure_eq_zero_of_finite_inter_lines__6259a2ae9d61
 -- name    : P2M_GlobalTheory_T_measure_eq_zero_of_finite_inter_lines__6259a2ae9d61
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:10:01.317857+00:00
 -- url     : https://prove2.me/theorems/7c64553c-8c43-453a-ad5f-94b3962fd9a5

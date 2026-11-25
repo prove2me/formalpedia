@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaGraphPiece_realGraphPt_eq_dbcda1298a2f
 -- name    : P2M_GroundTheory_Heights__Heights_AreaGraphPiece_realGraphPt_eq_dbcda1298a2f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:15:11.383004+00:00
 -- url     : https://prove2.me/theorems/b53fd3a7-7917-4cd6-9c09-e06321a6b8f2

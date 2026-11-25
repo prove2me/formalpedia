@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_relIndex_oneUnits_mul_eq_card_quotient__e71c35adc924
 -- name    : P2M_GlobalTheory_T_relIndex_oneUnits_mul_eq_card_quotient__e71c35adc924
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:11:12.164915+00:00
 -- url     : https://prove2.me/theorems/6af21b3f-eec4-4984-8857-aa810bdca960

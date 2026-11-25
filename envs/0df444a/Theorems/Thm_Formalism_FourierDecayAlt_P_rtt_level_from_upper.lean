@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_rtt_level_from_upper
 -- name    : Formalism.FourierDecayAlt.P.rtt_level_from_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:41:28.922352+00:00
 -- url     : https://prove2.me/theorems/bfd242e1-7f76-468b-8282-c3cb3c4dba5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteGroups_sglob_LConvU_hop_one
 -- name    : DiscreteGroups.sglob.LConvU.hop_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:53:17.65229+00:00
 -- url     : https://prove2.me/theorems/01a273ac-ff19-4f5c-8178-868d71aa944b

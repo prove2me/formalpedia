@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_height_diagonal_mul
 -- name    : GroundTheory.Automorphic.Reduction.height_diagonal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:09:07.167784+00:00
 -- url     : https://prove2.me/theorems/fa4e1afc-6bca-4068-86ae-2f8c5de416b6

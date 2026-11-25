@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ZetaLocal_zeta__eq_zero_iff_add5a3d0a04d
 -- name    : P2M_GlobalTheory_ZetaLocal_zeta__eq_zero_iff_add5a3d0a04d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:11:57.981121+00:00
 -- url     : https://prove2.me/theorems/05ce1283-b105-428c-96a0-5fc3ce10dd34

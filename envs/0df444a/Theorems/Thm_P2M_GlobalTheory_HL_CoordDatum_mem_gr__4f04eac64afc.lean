@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HL_CoordDatum_mem_gr__4f04eac64afc
 -- name    : P2M_GlobalTheory_HL_CoordDatum_mem_gr__4f04eac64afc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:06:51.124351+00:00
 -- url     : https://prove2.me/theorems/93e4bb23-4c31-489d-abc1-536db072236f

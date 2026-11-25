@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CubeLift_tri_p__a6636054534f
 -- name    : P2M_GlobalTheory_CubeLift_tri_p__a6636054534f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:05:00.093205+00:00
 -- url     : https://prove2.me/theorems/c348e607-96b3-4371-80ec-de41af72667a

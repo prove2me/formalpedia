@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_chartCutoff_eq_zero_29e9bf4eeaae
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntegrationByPartsSymmetry_chartCutoff_eq_zero_29e9bf4eeaae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:30:19.400321+00:00
 -- url     : https://prove2.me/theorems/daf167c0-765d-4611-8781-6b4811dac6f0

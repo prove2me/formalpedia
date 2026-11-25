@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitLemma_ProdCount_relIndex_prod__970088dce797
 -- name    : P2M_GlobalTheory_UnitLemma_ProdCount_relIndex_prod__970088dce797
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:10:54.127953+00:00
 -- url     : https://prove2.me/theorems/4e39832a-e098-4aca-8368-c6223b0efb80

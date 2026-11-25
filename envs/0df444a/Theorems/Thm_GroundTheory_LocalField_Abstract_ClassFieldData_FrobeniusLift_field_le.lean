@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_FrobeniusLift_field_le
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.FrobeniusLift.field_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:28:23.345258+00:00
 -- url     : https://prove2.me/theorems/62cc8ba8-9098-45eb-96cf-1a0f3cf3a9ab

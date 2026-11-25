@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_isZero_interval_obj_of_not_mem
 -- name    : PretorsionImageClosed.LinearQuiver.isZero_interval_obj_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:18:30.799123+00:00
 -- url     : https://prove2.me/theorems/c5785e8f-47e9-4053-9bb7-8c5de70df3d0

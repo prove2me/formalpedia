@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_eq_intCast_of_even_floors
 -- name    : SZ.eq_intCast_of_even_floors
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:00.676703+00:00
 -- url     : https://prove2.me/theorems/56492746-4015-4ad7-94a4-3f9c2180342a

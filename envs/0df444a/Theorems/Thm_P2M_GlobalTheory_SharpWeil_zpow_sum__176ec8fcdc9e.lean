@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SharpWeil_zpow_sum__176ec8fcdc9e
 -- name    : P2M_GlobalTheory_SharpWeil_zpow_sum__176ec8fcdc9e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:10:03.119914+00:00
 -- url     : https://prove2.me/theorems/7408351f-264b-4a34-811a-13482da9d519

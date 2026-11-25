@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymDivisible_vanish_of_swap_c2b194cb1d66
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymDivisible_vanish_of_swap_c2b194cb1d66
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:15:20.841391+00:00
 -- url     : https://prove2.me/theorems/9b5cb64b-79ca-4098-9418-64f641afd406

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_prime_not_mem_forall_gt_eq_maximalIdeal__e41b815ea9d1
 -- name    : P2M_GlobalTheory_T_exists_prime_not_mem_forall_gt_eq_maximalIdeal__e41b815ea9d1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:32.291497+00:00
 -- url     : https://prove2.me/theorems/402ac33e-2540-4571-a8a1-d9fbe61c6d97

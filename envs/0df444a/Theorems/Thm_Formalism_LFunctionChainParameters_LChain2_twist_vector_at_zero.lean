@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_twist_vector_at_zero
 -- name    : Formalism.LFunctionChainParameters.LChain2.twist_vector_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:35:01.076794+00:00
 -- url     : https://prove2.me/theorems/bd556569-10de-41aa-8a4e-32b323104242

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_IndLine_Iwasawa_Hyp_r__88144f190e49
 -- name    : P2M_GlobalTheory_IndLine_Iwasawa_Hyp_r__88144f190e49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:06:06.654138+00:00
 -- url     : https://prove2.me/theorems/06809943-39ea-4861-848d-7ea5f83f681c

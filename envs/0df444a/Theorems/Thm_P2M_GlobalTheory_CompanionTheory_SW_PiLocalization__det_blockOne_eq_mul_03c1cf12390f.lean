@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__det_blockOne_eq_mul_03c1cf12390f
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__det_blockOne_eq_mul_03c1cf12390f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:03:58.282355+00:00
 -- url     : https://prove2.me/theorems/371c3181-0ca9-48b4-a39c-6e8c70f9104a

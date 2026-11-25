@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_LagRep_ccT_mul__96963e977bb1
 -- name    : P2M_GlobalTheory_SW_LagRep_ccT_mul__96963e977bb1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:09:25.904807+00:00
 -- url     : https://prove2.me/theorems/91b6e677-09cb-4e90-84de-d85cbdb4217c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_commFun
 -- name    : Formalism.QuantumDeterminants.commFun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:47:17.550265+00:00
 -- url     : https://prove2.me/theorems/50afe929-2917-4d7e-a21c-1a206c339f15

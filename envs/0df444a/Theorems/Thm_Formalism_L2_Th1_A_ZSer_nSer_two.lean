@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_ZSer_nSer_two
 -- name    : Formalism.L2.Th1.A.ZSer.nSer_two
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:17.191732+00:00
 -- url     : https://prove2.me/theorems/3831fdfa-f403-4410-b330-acd94af3dd05

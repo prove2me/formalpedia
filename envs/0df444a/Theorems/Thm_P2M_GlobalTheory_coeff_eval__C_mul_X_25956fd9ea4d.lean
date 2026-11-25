@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_coeff_eval__C_mul_X_25956fd9ea4d
 -- name    : P2M_GlobalTheory_coeff_eval__C_mul_X_25956fd9ea4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:12:01.778136+00:00
 -- url     : https://prove2.me/theorems/7d38a9d2-2133-484f-af32-e33da63d3d0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_orderAt_monomialFactorIdeal_genericPoint
 -- name    : FunctorialResolution.EmbeddedResolution.orderAt_monomialFactorIdeal_genericPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:03:17.378956+00:00
 -- url     : https://prove2.me/theorems/a84fbec8-1fb5-4cd6-9530-df0c963aebf6

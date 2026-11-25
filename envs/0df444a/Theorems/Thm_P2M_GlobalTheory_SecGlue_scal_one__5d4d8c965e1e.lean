@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SecGlue_scal_one__5d4d8c965e1e
 -- name    : P2M_GlobalTheory_SecGlue_scal_one__5d4d8c965e1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:09:16.351788+00:00
 -- url     : https://prove2.me/theorems/0ff02480-0020-438a-b46d-54de63192c8a

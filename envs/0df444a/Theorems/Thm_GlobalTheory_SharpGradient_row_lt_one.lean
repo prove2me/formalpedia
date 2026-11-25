@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SharpGradient_row_lt_one
 -- name    : GlobalTheory.SharpGradient.row_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:40:11.688798+00:00
 -- url     : https://prove2.me/theorems/6003df9f-65e1-5ac7-84e7-fc566b7921b6

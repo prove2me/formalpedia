@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CMCurves_finite_latticeJ
 -- name    : GlobalTheory.CMCurves.finite_latticeJ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:03:40.272116+00:00
 -- url     : https://prove2.me/theorems/13234889-93cd-4a3b-8845-0193aaf11bc9

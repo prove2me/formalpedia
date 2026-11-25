@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_iSup_isoC_eq
 -- name    : Formalism.InvariantFactorPaths.PW.iSup_isoC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:44:28.105223+00:00
 -- url     : https://prove2.me/theorems/6ddda0b3-616a-5596-980a-ef63eb7910ff

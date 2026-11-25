@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_card_sqSet_ge
 -- name    : GlobalTheory.BadShare.card_sqSet_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:59:41.102311+00:00
 -- url     : https://prove2.me/theorems/c750a641-c38d-49fa-ace3-1de28f4153d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Coord_coords_7539cd3187dc
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Coord_coords_7539cd3187dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:03:27.82296+00:00
 -- url     : https://prove2.me/theorems/0b90bd29-ee58-4945-8e6a-e0ffa175f40d

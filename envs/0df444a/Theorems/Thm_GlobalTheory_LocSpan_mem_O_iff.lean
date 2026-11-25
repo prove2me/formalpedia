@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocSpan_mem_O_iff
 -- name    : GlobalTheory.LocSpan.mem_O_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:14:28.844172+00:00
 -- url     : https://prove2.me/theorems/9095d3ed-0061-4c14-91bf-d3b6bd95f594

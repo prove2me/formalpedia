@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Coord_uniq
 -- name    : GlobalTheory.ChartCmp.Coord.uniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:00:16.301949+00:00
 -- url     : https://prove2.me/theorems/184f8dab-01f5-428d-af16-70ab4e04e53b

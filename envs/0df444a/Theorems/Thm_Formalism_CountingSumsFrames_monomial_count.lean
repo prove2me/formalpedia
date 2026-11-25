@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_monomial_count
 -- name    : Formalism.CountingSumsFrames.monomial_count
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:36:45.567803+00:00
 -- url     : https://prove2.me/theorems/133995f4-36b9-432c-b112-fb5f7b7e01e4

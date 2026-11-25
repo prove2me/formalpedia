@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_kolmogorovSet_subset
 -- name    : SNumbers.kolmogorovSet_subset
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:57.009117+00:00
 -- url     : https://prove2.me/theorems/20fee3dd-de5e-4156-8207-f384e8c857c5

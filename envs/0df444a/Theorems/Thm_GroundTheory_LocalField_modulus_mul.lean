@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_modulus_mul
 -- name    : GroundTheory.LocalField.modulus_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:27:10.352813+00:00
 -- url     : https://prove2.me/theorems/559dd3e1-9639-4538-91c9-2bfd40506ec8

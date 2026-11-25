@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_BridgeLemma__genus_orthonormal_integral_unimodular_0fe520ecdeca
 -- name    : P2M_Formalism_MainNotions_BridgeLemma__genus_orthonormal_integral_unimodular_0fe520ecdeca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:00:21.284021+00:00
 -- url     : https://prove2.me/theorems/71240c21-efc3-4d66-9499-6a4d9d86403c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_SNumbers_kolmogorovNumber_antitone__3770f44bf8b3
 -- name    : P2M_SNumbers_kolmogorovNumber_antitone__3770f44bf8b3
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:16:03.863887+00:00
 -- url     : https://prove2.me/theorems/195f7055-34c9-44b3-8ee6-77c5278edd5c

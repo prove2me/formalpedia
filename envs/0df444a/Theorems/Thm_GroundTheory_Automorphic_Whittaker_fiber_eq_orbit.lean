@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_fiber_eq_orbit
 -- name    : GroundTheory.Automorphic.Whittaker.fiber_eq_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:37:06.094994+00:00
 -- url     : https://prove2.me/theorems/dd6f7b45-1842-4b15-8f66-3c0f56a2746e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_runVal_ne
 -- name    : SZ.runVal_ne
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:15:32.506587+00:00
 -- url     : https://prove2.me/theorems/590cae02-5963-4244-ae29-9db9ceb5b1b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BoundedMonomials_continuous_evalCone_7b41833d48e0
 -- name    : P2M_GroundTheory_Heights__Heights_BoundedMonomials_continuous_evalCone_7b41833d48e0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:18:28.930303+00:00
 -- url     : https://prove2.me/theorems/8e1f292f-cbf7-42d2-b145-b291f997834f

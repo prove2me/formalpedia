@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SchemeHomsFromPoints_valAt__eq_3efc08fdb597
 -- name    : P2M_GlobalTheory_SchemeHomsFromPoints_valAt__eq_3efc08fdb597
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:08:55.065802+00:00
 -- url     : https://prove2.me/theorems/da26f919-3dd0-49f3-a18c-dd0b88fb2f6e

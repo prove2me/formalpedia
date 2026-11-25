@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HeckeTwoC_norm_G__1a9e454f2caf
 -- name    : P2M_GlobalTheory_HeckeTwoC_norm_G__1a9e454f2caf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:05:53.158671+00:00
 -- url     : https://prove2.me/theorems/99a7b780-503a-4f74-aed4-8b0ac78c2592

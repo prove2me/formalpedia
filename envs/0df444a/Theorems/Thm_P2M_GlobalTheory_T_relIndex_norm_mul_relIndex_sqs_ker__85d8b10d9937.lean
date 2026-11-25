@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_relIndex_norm_mul_relIndex_sqs_ker__85d8b10d9937
 -- name    : P2M_GlobalTheory_T_relIndex_norm_mul_relIndex_sqs_ker__85d8b10d9937
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:11:21.580388+00:00
 -- url     : https://prove2.me/theorems/2acfe24f-9205-4771-86ab-bec3944daca2

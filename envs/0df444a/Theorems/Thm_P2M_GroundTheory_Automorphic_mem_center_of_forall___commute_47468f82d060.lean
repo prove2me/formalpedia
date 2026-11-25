@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_mem_center_of_forall___commute_47468f82d060
 -- name    : P2M_GroundTheory_Automorphic_mem_center_of_forall___commute_47468f82d060
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:15:20.418328+00:00
 -- url     : https://prove2.me/theorems/7db9ba68-ba27-4813-a3f4-6b1414d77be6

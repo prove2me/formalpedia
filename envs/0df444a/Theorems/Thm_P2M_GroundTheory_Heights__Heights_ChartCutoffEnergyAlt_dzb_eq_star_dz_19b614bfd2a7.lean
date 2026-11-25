@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_dzb_eq_star_dz_19b614bfd2a7
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_dzb_eq_star_dz_19b614bfd2a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:17:37.192665+00:00
 -- url     : https://prove2.me/theorems/ece5bcb7-4ada-4dc4-ab71-f63115c9899d

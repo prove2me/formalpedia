@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_isSmoothDivisor_of_locally_coordIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.isSmoothDivisor_of_locally_coordIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T15:35:56.208645+00:00
 -- url     : https://prove2.me/theorems/bc50bb72-008e-47fb-baa1-733d5c9507ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_slope_mu
 -- name    : Formalism.DivisionValues.shift_slope_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:28.91013+00:00
 -- url     : https://prove2.me/theorems/c9e20135-fbe5-4441-9667-b669d56710c9

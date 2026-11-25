@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_minkowski_integral_inequality
 -- name    : Newton.minkowski_integral_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:37:54.559173+00:00
 -- url     : https://prove2.me/theorems/59f95c4e-8eca-4715-b20a-394b57f0f1c4

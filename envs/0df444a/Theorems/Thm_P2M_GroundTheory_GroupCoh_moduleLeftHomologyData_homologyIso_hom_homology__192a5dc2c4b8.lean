@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_moduleLeftHomologyData_homologyIso_hom_homology__192a5dc2c4b8
 -- name    : P2M_GroundTheory_GroupCoh_moduleLeftHomologyData_homologyIso_hom_homology__192a5dc2c4b8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:14:30.874291+00:00
 -- url     : https://prove2.me/theorems/8b396ab6-1a07-4a2c-aac7-13c4541d4de1

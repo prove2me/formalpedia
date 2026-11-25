@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HeckeTwoAB_continuous_F__ed6efc273c97
 -- name    : P2M_GlobalTheory_HeckeTwoAB_continuous_F__ed6efc273c97
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:05:59.74726+00:00
 -- url     : https://prove2.me/theorems/a79713c3-18ae-4c42-ae22-57623cbf496f

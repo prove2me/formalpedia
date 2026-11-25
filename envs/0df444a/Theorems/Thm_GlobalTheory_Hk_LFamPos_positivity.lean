@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Hk_LFamPos_positivity
 -- name    : GlobalTheory.Hk.LFamPos.positivity
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:12:02.677794+00:00
 -- url     : https://prove2.me/theorems/7ba70aa9-2537-4eea-92c5-2f4b42246ab3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HolTorsion_valAt__eq_of_pow_eq_one_6fce98a090c1
 -- name    : P2M_GlobalTheory_HolTorsion_valAt__eq_of_pow_eq_one_6fce98a090c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:06:25.881802+00:00
 -- url     : https://prove2.me/theorems/b8630730-d80b-4ae0-92e5-e5f76aa645d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_KS_Sym_res__3f1ad26b3930
 -- name    : P2M_GlobalTheory_KS_Sym_res__3f1ad26b3930
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:07:00.492087+00:00
 -- url     : https://prove2.me/theorems/6b855f1e-c404-4393-855c-3821d6196db6

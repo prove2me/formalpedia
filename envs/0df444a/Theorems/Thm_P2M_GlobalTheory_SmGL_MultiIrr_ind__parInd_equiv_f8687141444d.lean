@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SmGL_MultiIrr_ind__parInd_equiv_f8687141444d
 -- name    : P2M_GlobalTheory_SmGL_MultiIrr_ind__parInd_equiv_f8687141444d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:09:07.845809+00:00
 -- url     : https://prove2.me/theorems/d7dccde7-1870-4a16-b834-035fba9e9f84

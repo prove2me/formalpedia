@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_decay_right_side_bound
 -- name    : Formalism.HermitianLatticeCounting.P.decay_right_side_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:28:48.246045+00:00
 -- url     : https://prove2.me/theorems/bc903400-251d-4805-9a5a-5c778e7f239e

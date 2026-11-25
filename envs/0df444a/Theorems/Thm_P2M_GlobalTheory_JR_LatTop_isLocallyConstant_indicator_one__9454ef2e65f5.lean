@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_JR_LatTop_isLocallyConstant_indicator_one__9454ef2e65f5
 -- name    : P2M_GlobalTheory_JR_LatTop_isLocallyConstant_indicator_one__9454ef2e65f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:08:05.153135+00:00
 -- url     : https://prove2.me/theorems/3951b4aa-ba0d-4f4f-810a-56386a1d860f

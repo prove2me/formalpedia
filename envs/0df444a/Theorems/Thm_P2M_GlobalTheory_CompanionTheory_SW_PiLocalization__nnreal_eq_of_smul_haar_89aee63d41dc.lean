@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__nnreal_eq_of_smul_haar_89aee63d41dc
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__nnreal_eq_of_smul_haar_89aee63d41dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:04:17.370008+00:00
 -- url     : https://prove2.me/theorems/882814b4-dc52-45a9-a4df-d9a25d83bd7d

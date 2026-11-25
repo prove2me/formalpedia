@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedS_contDiff_clm_comp
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedS.contDiff_clm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:18:11.717857+00:00
 -- url     : https://prove2.me/theorems/05e51cdc-b3b1-5ed7-858f-0ccbe6e81a89

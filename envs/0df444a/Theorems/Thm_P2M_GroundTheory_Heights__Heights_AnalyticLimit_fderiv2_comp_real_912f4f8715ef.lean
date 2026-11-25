@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_fderiv2_comp_real_912f4f8715ef
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_fderiv2_comp_real_912f4f8715ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:15:24.312911+00:00
 -- url     : https://prove2.me/theorems/73086910-85af-4e1f-a5d5-13e8c2ebce45

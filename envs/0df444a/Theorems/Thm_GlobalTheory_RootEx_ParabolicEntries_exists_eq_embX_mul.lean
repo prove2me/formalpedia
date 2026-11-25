@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RootEx_ParabolicEntries_exists_eq_embX_mul
 -- name    : GlobalTheory.RootEx.ParabolicEntries.exists_eq_embX_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T19:25:59.240818+00:00
 -- url     : https://prove2.me/theorems/5b33b3b9-303e-4e7c-b3e1-4d30d6a7d827

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_cyclicVector_of_separable_charpoly__05aee84c212b
 -- name    : P2M_GlobalTheory_T_exists_cyclicVector_of_separable_charpoly__05aee84c212b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:09:56.571068+00:00
 -- url     : https://prove2.me/theorems/ad6a96f0-4c56-4609-853e-908e11bc1143

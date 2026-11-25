@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BoundedMonomials_isCompact_unitChart_862e6b4bfb8b
 -- name    : P2M_GroundTheory_Heights__Heights_BoundedMonomials_isCompact_unitChart_862e6b4bfb8b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:16:15.969321+00:00
 -- url     : https://prove2.me/theorems/e52a5f48-e86a-4b7d-8213-64b2a5be86ed

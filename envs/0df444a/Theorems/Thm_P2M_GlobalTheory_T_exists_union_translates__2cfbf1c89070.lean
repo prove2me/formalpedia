@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_union_translates__2cfbf1c89070
 -- name    : P2M_GlobalTheory_T_exists_union_translates__2cfbf1c89070
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:44.568677+00:00
 -- url     : https://prove2.me/theorems/0ddab22d-9249-4a55-9f39-ac2471f357dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_apOp_add_smul__30a907229398
 -- name    : P2M_GlobalTheory_T_exists_apOp_add_smul__30a907229398
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:11:12.584898+00:00
 -- url     : https://prove2.me/theorems/46e9f32f-38f4-44cc-9047-0f64bc8ecad0

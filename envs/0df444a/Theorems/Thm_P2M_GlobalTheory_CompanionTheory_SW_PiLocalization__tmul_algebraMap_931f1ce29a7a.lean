@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__tmul_algebraMap_931f1ce29a7a
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__tmul_algebraMap_931f1ce29a7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:04:55.534114+00:00
 -- url     : https://prove2.me/theorems/0d6aae06-e105-4477-9c4e-f3418ccd0f18

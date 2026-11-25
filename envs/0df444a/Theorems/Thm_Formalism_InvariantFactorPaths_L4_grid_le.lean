@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_grid_le
 -- name    : Formalism.InvariantFactorPaths.L4.grid_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:23:41.939143+00:00
 -- url     : https://prove2.me/theorems/208efbed-4cd5-52db-bd3c-f3ccdc09f404

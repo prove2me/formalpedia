@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchInComponent_exists_open_prod_ne_zero_3bcf5e18f9ac
 -- name    : P2M_GroundTheory_Heights__Heights_BranchInComponent_exists_open_prod_ne_zero_3bcf5e18f9ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:16:45.452213+00:00
 -- url     : https://prove2.me/theorems/e64cb264-ca22-4daa-95ea-2ddb0197d002

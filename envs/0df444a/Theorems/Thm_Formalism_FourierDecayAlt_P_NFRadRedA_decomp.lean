@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedA_decomp
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedA.decomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:55:51.82206+00:00
 -- url     : https://prove2.me/theorems/ab5680e3-c94e-40ee-a343-73d30073386d

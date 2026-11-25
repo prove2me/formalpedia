@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CauchyBinetMinorsAlt_minor_reindex_26cf196fa7b9
 -- name    : P2M_GroundTheory_Heights__Heights_CauchyBinetMinorsAlt_minor_reindex_26cf196fa7b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:17:52.346269+00:00
 -- url     : https://prove2.me/theorems/cb17e19e-b6ad-4025-927f-ffdfd424a71c

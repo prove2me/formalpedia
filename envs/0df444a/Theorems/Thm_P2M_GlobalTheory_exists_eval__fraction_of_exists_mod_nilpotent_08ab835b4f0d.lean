@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_exists_eval__fraction_of_exists_mod_nilpotent_08ab835b4f0d
 -- name    : P2M_GlobalTheory_exists_eval__fraction_of_exists_mod_nilpotent_08ab835b4f0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:10.831604+00:00
 -- url     : https://prove2.me/theorems/5f35664b-4c24-47c3-b9e8-a5ae9df549a5

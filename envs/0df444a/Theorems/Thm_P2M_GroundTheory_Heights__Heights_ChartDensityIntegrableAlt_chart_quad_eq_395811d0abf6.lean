@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartDensityIntegrableAlt_chart_quad_eq_395811d0abf6
 -- name    : P2M_GroundTheory_Heights__Heights_ChartDensityIntegrableAlt_chart_quad_eq_395811d0abf6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:19:19.969043+00:00
 -- url     : https://prove2.me/theorems/0a445269-e9ea-44e8-956c-89ea6cde9681

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaModelGroup_valAt__eval__5710659469e1
 -- name    : P2M_GlobalTheory_ThetaModelGroup_valAt__eval__5710659469e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:11:07.188271+00:00
 -- url     : https://prove2.me/theorems/d88194d4-5ec4-4920-889a-a70c76683da0

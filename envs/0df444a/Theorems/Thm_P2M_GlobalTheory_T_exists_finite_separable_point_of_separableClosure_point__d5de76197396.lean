@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_finite_separable_point_of_separableClosure_point__d5de76197396
 -- name    : P2M_GlobalTheory_T_exists_finite_separable_point_of_separableClosure_point__d5de76197396
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:09:50.027792+00:00
 -- url     : https://prove2.me/theorems/3cee0613-e838-45ed-a357-8d7f4975302d

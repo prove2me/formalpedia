@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WrongSignGauss_twD_comm
 -- name    : GlobalTheory.WrongSignGauss.twD_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:57:34.815269+00:00
 -- url     : https://prove2.me/theorems/8c55dbba-53ea-42bf-9746-023dc8a70d37

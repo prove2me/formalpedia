@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartGram_fderiv_half_log_apply_b1700aa98f9b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartGram_fderiv_half_log_apply_b1700aa98f9b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:26:56.548092+00:00
 -- url     : https://prove2.me/theorems/1b587a96-8259-4c36-8834-ec4883705e15

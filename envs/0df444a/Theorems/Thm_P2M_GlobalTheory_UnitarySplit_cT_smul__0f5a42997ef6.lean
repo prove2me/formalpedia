@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitarySplit_cT_smul__0f5a42997ef6
 -- name    : P2M_GlobalTheory_UnitarySplit_cT_smul__0f5a42997ef6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:11:33.3358+00:00
 -- url     : https://prove2.me/theorems/8dccb42a-3c6b-4c01-afa4-e45562d4c850

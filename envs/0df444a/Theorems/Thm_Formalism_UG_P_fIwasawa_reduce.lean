@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fIwasawa_reduce
 -- name    : Formalism.UG.P.fIwasawa_reduce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:32:28.912577+00:00
 -- url     : https://prove2.me/theorems/a701a68a-bed5-4c94-bbd4-8bacf3f9069f

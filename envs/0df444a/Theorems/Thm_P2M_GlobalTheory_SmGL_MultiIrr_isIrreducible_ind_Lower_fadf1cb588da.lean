@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SmGL_MultiIrr_isIrreducible_ind_Lower_fadf1cb588da
 -- name    : P2M_GlobalTheory_SmGL_MultiIrr_isIrreducible_ind_Lower_fadf1cb588da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:09:01.907454+00:00
 -- url     : https://prove2.me/theorems/06fd35be-9d42-4a09-8dd1-6d1980b00c06

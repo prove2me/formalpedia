@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_finsum_torusResidue_eq_zero
 -- name    : GroundTheory.Global.Elliptic.finsum_torusResidue_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:39:16.584336+00:00
 -- url     : https://prove2.me/theorems/bc6677a9-7870-45d8-8acc-3b6d1f61b592

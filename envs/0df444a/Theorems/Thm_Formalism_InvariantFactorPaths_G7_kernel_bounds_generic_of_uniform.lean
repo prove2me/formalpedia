@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_kernel_bounds_generic_of_uniform
 -- name    : Formalism.InvariantFactorPaths.G7.kernel_bounds_generic_of_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:25:08.884816+00:00
 -- url     : https://prove2.me/theorems/c23b4968-ce3e-57c2-b50e-0768181ca72f

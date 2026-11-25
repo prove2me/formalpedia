@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_UG_P_fIwasawa_exists_max_pivot
 -- name    : Formalism.UG.P.fIwasawa_exists_max_pivot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T10:31:53.081046+00:00
 -- url     : https://prove2.me/theorems/ab23875c-4f0d-44db-b9ce-fd2c080d9efa

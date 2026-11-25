@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_WirtChain_fderiv_eq_sum_wirt__25170e863539
 -- name    : P2M_GlobalTheory_WirtChain_fderiv_eq_sum_wirt__25170e863539
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:12:06.845138+00:00
 -- url     : https://prove2.me/theorems/88996aa9-cc6a-4ac1-b6bc-8f5b5abcdca1

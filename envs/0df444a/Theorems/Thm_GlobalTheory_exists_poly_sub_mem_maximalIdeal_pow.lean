@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_poly_sub_mem_maximalIdeal_pow
 -- name    : GlobalTheory.exists_poly_sub_mem_maximalIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T22:36:00.222783+00:00
 -- url     : https://prove2.me/theorems/516906c2-114f-4f28-8a53-e7643dfb10df

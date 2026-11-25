@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_cell_irrelevant
 -- name    : GroundTheory.Automorphic.Whittaker.cell_irrelevant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:42:29.083845+00:00
 -- url     : https://prove2.me/theorems/09bf62f1-a95a-416f-bf20-2b09ed32274c

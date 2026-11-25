@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FormalAlg_TowerSq_mono_thick__4223908ece3e
 -- name    : P2M_GlobalTheory_FormalAlg_TowerSq_mono_thick__4223908ece3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:54.040159+00:00
 -- url     : https://prove2.me/theorems/0f4ae425-e198-48bf-9702-f6c910ea2026

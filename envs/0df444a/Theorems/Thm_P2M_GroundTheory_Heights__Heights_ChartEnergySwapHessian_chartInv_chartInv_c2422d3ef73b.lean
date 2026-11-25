@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_chartInv_chartInv_c2422d3ef73b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_chartInv_chartInv_c2422d3ef73b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:18:22.561379+00:00
 -- url     : https://prove2.me/theorems/f4627447-5e22-4edf-8da9-50c7c035b11b

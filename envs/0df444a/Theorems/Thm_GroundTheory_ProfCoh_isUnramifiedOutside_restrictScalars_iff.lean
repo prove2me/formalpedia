@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_isUnramifiedOutside_restrictScalars_iff
 -- name    : GroundTheory.ProfCoh.isUnramifiedOutside_restrictScalars_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:29:00.303883+00:00
 -- url     : https://prove2.me/theorems/46b6730a-2567-5392-9f4e-a64497543fe3

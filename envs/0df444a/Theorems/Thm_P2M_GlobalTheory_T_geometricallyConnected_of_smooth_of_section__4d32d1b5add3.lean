@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_geometricallyConnected_of_smooth_of_section__4d32d1b5add3
 -- name    : P2M_GlobalTheory_T_geometricallyConnected_of_smooth_of_section__4d32d1b5add3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:10:30.146743+00:00
 -- url     : https://prove2.me/theorems/69e4cc5e-583b-428e-9802-bbf946c9e06d

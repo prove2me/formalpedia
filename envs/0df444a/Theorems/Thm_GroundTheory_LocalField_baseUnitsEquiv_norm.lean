@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_baseUnitsEquiv_norm
 -- name    : GroundTheory.LocalField.baseUnitsEquiv_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:17:24.013941+00:00
 -- url     : https://prove2.me/theorems/82774bd2-ced6-4d21-a8d0-808702ea5528

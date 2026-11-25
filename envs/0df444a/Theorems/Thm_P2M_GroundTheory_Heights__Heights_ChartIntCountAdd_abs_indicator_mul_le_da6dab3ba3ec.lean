@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntCountAdd_abs_indicator_mul_le_da6dab3ba3ec
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntCountAdd_abs_indicator_mul_le_da6dab3ba3ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:28:41.664116+00:00
 -- url     : https://prove2.me/theorems/a0b09c78-b629-4107-a0b9-262f3ade66c8

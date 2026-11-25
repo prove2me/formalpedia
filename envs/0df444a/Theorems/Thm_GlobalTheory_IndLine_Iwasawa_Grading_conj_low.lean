@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndLine_Iwasawa_Grading_conj_low
 -- name    : GlobalTheory.IndLine.Iwasawa.Grading.conj_low
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:12:52.135093+00:00
 -- url     : https://prove2.me/theorems/a2901042-00ff-4688-bf79-7f4e0c00a7c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PMonE_winThm
 -- name    : GlobalTheory.PMonE.winThm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:42:04.783773+00:00
 -- url     : https://prove2.me/theorems/3dabb98f-301c-4815-bead-9e61ca50519d

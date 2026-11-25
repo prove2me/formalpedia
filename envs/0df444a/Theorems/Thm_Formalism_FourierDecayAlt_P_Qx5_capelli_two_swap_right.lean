@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_capelli_two_swap_right
 -- name    : Formalism.FourierDecayAlt.P.Qx5.capelli_two_swap_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:54:15.43105+00:00
 -- url     : https://prove2.me/theorems/089309c2-b90f-4a93-ac58-f79a75b768a8

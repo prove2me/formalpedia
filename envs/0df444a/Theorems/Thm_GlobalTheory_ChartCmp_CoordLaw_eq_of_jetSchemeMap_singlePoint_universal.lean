@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_CoordLaw_eq_of_jetSchemeMap_singlePoint_universal
 -- name    : GlobalTheory.ChartCmp.CoordLaw.eq_of_jetSchemeMap_singlePoint_universal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:09:47.188802+00:00
 -- url     : https://prove2.me/theorems/00464e47-71a2-55f3-aa33-efa4c0a6e5d1

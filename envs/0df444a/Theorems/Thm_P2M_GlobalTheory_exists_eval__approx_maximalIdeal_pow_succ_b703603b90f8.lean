@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_exists_eval__approx_maximalIdeal_pow_succ_b703603b90f8
 -- name    : P2M_GlobalTheory_exists_eval__approx_maximalIdeal_pow_succ_b703603b90f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:00.080136+00:00
 -- url     : https://prove2.me/theorems/55611430-f8a1-46e8-a3cb-48c5ff08a2fd

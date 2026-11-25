@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_gamma__functional_constant_even_09b1a7e7e598
 -- name    : P2M_GlobalTheory_gamma__functional_constant_even_09b1a7e7e598
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:55.377347+00:00
 -- url     : https://prove2.me/theorems/9e9860f6-0f42-414e-90cd-378ecf9caaef

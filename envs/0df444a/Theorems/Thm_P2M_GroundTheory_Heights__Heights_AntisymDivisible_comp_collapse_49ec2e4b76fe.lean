@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymDivisible_comp_collapse_49ec2e4b76fe
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymDivisible_comp_collapse_49ec2e4b76fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:15:08.123274+00:00
 -- url     : https://prove2.me/theorems/c940dca9-5365-4531-86a9-ef48c2c40603

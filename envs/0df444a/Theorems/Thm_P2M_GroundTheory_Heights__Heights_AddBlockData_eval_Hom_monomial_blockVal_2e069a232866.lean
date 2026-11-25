@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockData_eval_Hom_monomial_blockVal_2e069a232866
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockData_eval_Hom_monomial_blockVal_2e069a232866
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:16:09.368682+00:00
 -- url     : https://prove2.me/theorems/0065b693-aaef-4ceb-bc09-ef40ad3690c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymPerturbation_rename_swap_eq_or_neg_9ae4b8a333fd
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymPerturbation_rename_swap_eq_or_neg_9ae4b8a333fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:15:30.608911+00:00
 -- url     : https://prove2.me/theorems/65153d55-087d-4f40-8086-1b835df23562

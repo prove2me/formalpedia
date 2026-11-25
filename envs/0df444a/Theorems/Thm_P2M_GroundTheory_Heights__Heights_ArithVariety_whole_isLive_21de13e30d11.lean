@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_whole_isLive_21de13e30d11
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_whole_isLive_21de13e30d11
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:15:48.492506+00:00
 -- url     : https://prove2.me/theorems/565d1d48-1919-4233-bd58-b35022380d84

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_fderiv_chartCutoff_zero_eq_zero_d2cd05d3850b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_fderiv_chartCutoff_zero_eq_zero_d2cd05d3850b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:17:21.835473+00:00
 -- url     : https://prove2.me/theorems/367c083d-c8be-40e8-b992-074c178d75a7

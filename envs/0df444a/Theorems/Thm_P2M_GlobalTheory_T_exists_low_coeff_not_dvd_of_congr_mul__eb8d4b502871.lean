@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_low_coeff_not_dvd_of_congr_mul__eb8d4b502871
 -- name    : P2M_GlobalTheory_T_exists_low_coeff_not_dvd_of_congr_mul__eb8d4b502871
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:09.421518+00:00
 -- url     : https://prove2.me/theorems/d79d7933-4491-465c-85e6-c6825bd7c9ae

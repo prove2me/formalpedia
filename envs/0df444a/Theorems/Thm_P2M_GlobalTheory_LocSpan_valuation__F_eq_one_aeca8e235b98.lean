@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LocSpan_valuation__F_eq_one_aeca8e235b98
 -- name    : P2M_GlobalTheory_LocSpan_valuation__F_eq_one_aeca8e235b98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:53.107978+00:00
 -- url     : https://prove2.me/theorems/28321dff-cc12-4166-8c67-8e70d64f9891

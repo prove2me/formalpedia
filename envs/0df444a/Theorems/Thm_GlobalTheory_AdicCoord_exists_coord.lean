@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AdicCoord_exists_coord
 -- name    : GlobalTheory.AdicCoord.exists_coord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:57:06.336293+00:00
 -- url     : https://prove2.me/theorems/2fbf393c-a784-4490-b03c-04b4ddb8dec0

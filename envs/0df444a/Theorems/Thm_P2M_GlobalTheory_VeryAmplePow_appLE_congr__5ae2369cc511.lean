@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_VeryAmplePow_appLE_congr__5ae2369cc511
 -- name    : P2M_GlobalTheory_VeryAmplePow_appLE_congr__5ae2369cc511
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:12:14.489671+00:00
 -- url     : https://prove2.me/theorems/4379e040-c026-48ea-8574-1bcc439b5577

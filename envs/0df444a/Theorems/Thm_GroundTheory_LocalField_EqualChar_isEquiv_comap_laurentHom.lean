@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_EqualChar_isEquiv_comap_laurentHom
 -- name    : GroundTheory.LocalField.EqualChar.isEquiv_comap_laurentHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:13:19.085246+00:00
 -- url     : https://prove2.me/theorems/2720fc40-23c5-4f9f-a9af-a60a0b2e731e

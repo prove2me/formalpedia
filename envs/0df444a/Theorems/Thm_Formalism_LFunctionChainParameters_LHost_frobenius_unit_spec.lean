@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_frobenius_unit_spec
 -- name    : Formalism.LFunctionChainParameters.LHost.frobenius_unit_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:24:50.909009+00:00
 -- url     : https://prove2.me/theorems/4bc299ed-9988-4363-bca4-4f473376440d

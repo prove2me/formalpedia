@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LatL_exists_glO_pair
 -- name    : GlobalTheory.LatL.exists_glO_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:57:14.867794+00:00
 -- url     : https://prove2.me/theorems/1435c8a8-60a7-4de1-b12b-9df36b1f8cee

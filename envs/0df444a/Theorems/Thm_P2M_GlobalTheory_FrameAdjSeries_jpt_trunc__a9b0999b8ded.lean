@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FrameAdjSeries_jpt_trunc__a9b0999b8ded
 -- name    : P2M_GlobalTheory_FrameAdjSeries_jpt_trunc__a9b0999b8ded
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:05:32.654836+00:00
 -- url     : https://prove2.me/theorems/3ee5c334-cb5c-4523-8c24-fd4567a34edc

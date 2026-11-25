@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermFrame_mdbar_blockDiagonal__573a2ef87000
 -- name    : P2M_GlobalTheory_HermFrame_mdbar_blockDiagonal__573a2ef87000
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:19.23926+00:00
 -- url     : https://prove2.me/theorems/bf22d82c-e8a8-4988-9b5a-973599db4305

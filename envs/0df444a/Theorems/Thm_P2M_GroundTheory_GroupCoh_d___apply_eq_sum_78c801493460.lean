@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_d___apply_eq_sum_78c801493460
 -- name    : P2M_GroundTheory_GroupCoh_d___apply_eq_sum_78c801493460
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:14:53.331742+00:00
 -- url     : https://prove2.me/theorems/4f2624df-0ca8-4baf-b289-394fb879531e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_cor_W_le_pol
 -- name    : Formalism.InvariantFactorPaths.INST.cor_W_le_pol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:00:05.464372+00:00
 -- url     : https://prove2.me/theorems/604bfd58-6e92-4695-b2ae-bfc130d8bde9

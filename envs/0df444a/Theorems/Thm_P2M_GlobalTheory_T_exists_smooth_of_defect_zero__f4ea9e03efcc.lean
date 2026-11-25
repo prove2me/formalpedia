@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_smooth_of_defect_zero__f4ea9e03efcc
 -- name    : P2M_GlobalTheory_T_exists_smooth_of_defect_zero__f4ea9e03efcc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:10:25.850746+00:00
 -- url     : https://prove2.me/theorems/dbbec229-f888-4b80-a399-ad881e1260f6

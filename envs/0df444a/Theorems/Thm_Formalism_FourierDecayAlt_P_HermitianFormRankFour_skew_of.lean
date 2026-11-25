@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormRankFour_skew_of
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormRankFour.skew_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:14:37.118101+00:00
 -- url     : https://prove2.me/theorems/ccf3e5f7-2a22-5c71-b65e-964dc153207f

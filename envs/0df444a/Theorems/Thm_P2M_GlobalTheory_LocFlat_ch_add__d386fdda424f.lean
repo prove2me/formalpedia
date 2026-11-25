@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LocFlat_ch_add__d386fdda424f
 -- name    : P2M_GlobalTheory_LocFlat_ch_add__d386fdda424f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:07:28.938108+00:00
 -- url     : https://prove2.me/theorems/e03c1e5c-cab1-431a-acca-9c1280835caf

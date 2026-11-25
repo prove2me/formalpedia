@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_dT_nonneg
 -- name    : Formalism.LFunctionChainParameters.LChain2.dT_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:49:59.912278+00:00
 -- url     : https://prove2.me/theorems/8009c094-1bc1-4ef1-941a-3ff6a2e43363

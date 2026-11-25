@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_gl_action_preserves_space
 -- name    : Formalism.InvariantFactorPaths.L4.gl_action_preserves_space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:54:02.259825+00:00
 -- url     : https://prove2.me/theorems/53ba53f8-5336-57c2-b21e-70f936290f58

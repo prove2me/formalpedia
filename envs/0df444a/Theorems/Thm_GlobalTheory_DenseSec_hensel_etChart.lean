@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DenseSec_hensel_etChart
 -- name    : GlobalTheory.DenseSec.hensel_etChart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:43:04.375679+00:00
 -- url     : https://prove2.me/theorems/cae402b4-5a2b-4f30-a36d-eae93aadd31a

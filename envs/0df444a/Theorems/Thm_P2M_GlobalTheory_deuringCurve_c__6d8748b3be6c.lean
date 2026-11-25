@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_deuringCurve_c__6d8748b3be6c
 -- name    : P2M_GlobalTheory_deuringCurve_c__6d8748b3be6c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:11:58.115023+00:00
 -- url     : https://prove2.me/theorems/5f49652c-f2f2-4a28-8fef-71fe034c223e

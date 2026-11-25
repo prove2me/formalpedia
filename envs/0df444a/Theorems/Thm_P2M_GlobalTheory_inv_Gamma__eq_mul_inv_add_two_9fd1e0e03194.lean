@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_inv_Gamma__eq_mul_inv_add_two_9fd1e0e03194
 -- name    : P2M_GlobalTheory_inv_Gamma__eq_mul_inv_add_two_9fd1e0e03194
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:54.966337+00:00
 -- url     : https://prove2.me/theorems/a64cd581-6303-4163-a7a4-efdd01f59d7b

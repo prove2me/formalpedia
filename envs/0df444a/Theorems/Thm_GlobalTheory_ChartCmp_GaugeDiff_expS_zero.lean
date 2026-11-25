@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_GaugeDiff_expS_zero
 -- name    : GlobalTheory.ChartCmp.GaugeDiff.expS_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:28:03.888221+00:00
 -- url     : https://prove2.me/theorems/3260ad6d-5cd8-505e-872e-4a77023aba6f

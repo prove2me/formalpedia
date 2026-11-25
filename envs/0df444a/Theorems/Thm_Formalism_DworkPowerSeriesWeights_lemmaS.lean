@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_lemmaS
 -- name    : Formalism.DworkPowerSeriesWeights.lemmaS
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:39:55.816405+00:00
 -- url     : https://prove2.me/theorems/0d540e37-3709-4f90-affa-89002c167179

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_HC_Landau_logDerivResidue__a43bb3aa1b21
 -- name    : P2M_Formalism_HC_Landau_logDerivResidue__a43bb3aa1b21
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:56:24.572982+00:00
 -- url     : https://prove2.me/theorems/a2861e2e-a733-439b-8f43-a23ba9aa609b

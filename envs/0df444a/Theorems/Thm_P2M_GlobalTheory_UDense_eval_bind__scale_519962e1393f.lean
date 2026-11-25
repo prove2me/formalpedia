@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UDense_eval_bind__scale_519962e1393f
 -- name    : P2M_GlobalTheory_UDense_eval_bind__scale_519962e1393f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:48.388618+00:00
 -- url     : https://prove2.me/theorems/cd8b97d8-63b1-4b81-9881-1c31dd932362

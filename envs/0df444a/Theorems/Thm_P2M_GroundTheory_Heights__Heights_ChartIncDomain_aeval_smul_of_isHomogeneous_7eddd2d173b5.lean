@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIncDomain_aeval_smul_of_isHomogeneous_7eddd2d173b5
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIncDomain_aeval_smul_of_isHomogeneous_7eddd2d173b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:27:49.044991+00:00
 -- url     : https://prove2.me/theorems/9e5cb5bd-2044-403e-b8cd-e22149263a94

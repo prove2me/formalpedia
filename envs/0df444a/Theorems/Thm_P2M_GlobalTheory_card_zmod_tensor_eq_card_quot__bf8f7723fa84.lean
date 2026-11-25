@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_card_zmod_tensor_eq_card_quot__bf8f7723fa84
 -- name    : P2M_GlobalTheory_card_zmod_tensor_eq_card_quot__bf8f7723fa84
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:11:52.044791+00:00
 -- url     : https://prove2.me/theorems/397e2874-d2bb-4a69-a423-cf7f4e777339

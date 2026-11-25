@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold_swap_through_fibres_059170bddefa
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__Unfold_swap_through_fibres_059170bddefa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:06:26.239801+00:00
 -- url     : https://prove2.me/theorems/0c7cfd12-6333-4ef6-b6d6-291b1512d5a3

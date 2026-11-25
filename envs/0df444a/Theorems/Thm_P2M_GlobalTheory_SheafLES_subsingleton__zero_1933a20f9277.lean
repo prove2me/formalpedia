@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SheafLES_subsingleton__zero_1933a20f9277
 -- name    : P2M_GlobalTheory_SheafLES_subsingleton__zero_1933a20f9277
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:09:00.616695+00:00
 -- url     : https://prove2.me/theorems/10afe187-ff3e-47d3-b6b6-02a760e62f2d

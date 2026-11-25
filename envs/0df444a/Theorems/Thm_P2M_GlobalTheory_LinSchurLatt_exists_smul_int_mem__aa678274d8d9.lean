@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LinSchurLatt_exists_smul_int_mem__aa678274d8d9
 -- name    : P2M_GlobalTheory_LinSchurLatt_exists_smul_int_mem__aa678274d8d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:06:45.054781+00:00
 -- url     : https://prove2.me/theorems/5aa61ce6-7e15-429b-b502-c5be15b72d3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_tendsto_finePart_avgProj
 -- name    : GroundTheory.Automorphic.tendsto_finePart_avgProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:11:39.425733+00:00
 -- url     : https://prove2.me/theorems/695869a6-6b10-4841-b48c-5a35a1441c32

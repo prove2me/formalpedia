@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Avoid_exists_minor_ne_zero_of_span
 -- name    : GlobalTheory.Avoid.exists_minor_ne_zero_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T10:58:11.400864+00:00
 -- url     : https://prove2.me/theorems/f0fb0ef0-07af-427c-9ba0-8df9ef9a7a88

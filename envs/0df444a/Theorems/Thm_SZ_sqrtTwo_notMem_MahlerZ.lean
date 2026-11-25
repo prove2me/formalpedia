@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_sqrtTwo_notMem_MahlerZ
 -- name    : SZ.sqrtTwo_notMem_MahlerZ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:06:55.421107+00:00
 -- url     : https://prove2.me/theorems/e2f02fd1-5fa9-412e-968f-fdfed6d1db86

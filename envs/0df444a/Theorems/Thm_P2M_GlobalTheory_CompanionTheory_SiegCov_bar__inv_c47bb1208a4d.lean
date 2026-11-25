@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SiegCov_bar__inv_c47bb1208a4d
 -- name    : P2M_GlobalTheory_CompanionTheory_SiegCov_bar__inv_c47bb1208a4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:04:21.60485+00:00
 -- url     : https://prove2.me/theorems/967106c2-3459-4129-b62f-48b1a6770ce6

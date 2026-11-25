@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_FunctorialResolution_EmbeddedResolution_ker_comp_subscheme__ideal_eq_span_coord_17965e032dc1
 -- name    : P2M_FunctorialResolution_EmbeddedResolution_ker_comp_subscheme__ideal_eq_span_coord_17965e032dc1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:02:34.251511+00:00
 -- url     : https://prove2.me/theorems/44e361ca-22f4-4940-b723-5841b53fb7fe

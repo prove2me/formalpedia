@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_isArithVar_of_ringKrullDim_af9eacdfcf1b
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_isArithVar_of_ringKrullDim_af9eacdfcf1b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:15:37.175468+00:00
 -- url     : https://prove2.me/theorems/6064a3fb-5ce8-4a00-a91f-1cd566e5df59

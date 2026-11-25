@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SplitRow_IdxV_relIndex_pi__f86b704c6d51
 -- name    : P2M_GlobalTheory_CompanionTheory_SplitRow_IdxV_relIndex_pi__f86b704c6d51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:05:19.510687+00:00
 -- url     : https://prove2.me/theorems/fe779c5e-bdb5-4342-8ce2-a4b6160ed602

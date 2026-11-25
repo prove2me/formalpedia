@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_decay_nst_diag_nonneg
 -- name    : Formalism.FourierDecayAlt.P.JCx1.decay.nst_diag_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:46:14.745844+00:00
 -- url     : https://prove2.me/theorems/8ef0ede6-0e9d-40e8-b713-32aaa979f0d4

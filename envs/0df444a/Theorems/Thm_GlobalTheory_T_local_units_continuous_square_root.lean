@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_local_units_continuous_square_root
 -- name    : GlobalTheory.T.local_units_continuous_square_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:52:38.654089+00:00
 -- url     : https://prove2.me/theorems/1a231608-113f-421d-b24a-e0cbee364e3f

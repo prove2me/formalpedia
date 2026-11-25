@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_SelfConjugatePlaceSetting_inv_bi
 -- name    : Formalism.L2.FormalSeriesBounds.RF.SelfConjugatePlaceSetting.inv_bi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:28:48.471821+00:00
 -- url     : https://prove2.me/theorems/97544930-df23-43a4-94ea-96fe49c17a08

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_AbstractGermZero_one_group
 -- name    : Formalism.L2.FormalSeriesBounds.AbstractGermZero.one_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:35:57.125402+00:00
 -- url     : https://prove2.me/theorems/a8a84439-f2ab-40ef-9bd8-448d419cb9ec

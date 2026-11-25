@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AuslanderBuchsbaumDepthLower_subsingleton_ext_of_flat_d04da1f78642
 -- name    : P2M_GroundTheory_Heights__Heights_AuslanderBuchsbaumDepthLower_subsingleton_ext_of_flat_d04da1f78642
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:14:59.944196+00:00
 -- url     : https://prove2.me/theorems/58af263e-e191-4429-b38d-1378be7f5660

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_length_quotient_range_toLin__eq_addVal_det_47182fff4b59
 -- name    : P2M_GlobalTheory_length_quotient_range_toLin__eq_addVal_det_47182fff4b59
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:12:25.28418+00:00
 -- url     : https://prove2.me/theorems/32c8df36-886b-4738-824b-8861ee061b1f

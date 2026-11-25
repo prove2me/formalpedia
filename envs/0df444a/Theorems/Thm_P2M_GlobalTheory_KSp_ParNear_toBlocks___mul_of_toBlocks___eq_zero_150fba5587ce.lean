@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_KSp_ParNear_toBlocks___mul_of_toBlocks___eq_zero_150fba5587ce
 -- name    : P2M_GlobalTheory_KSp_ParNear_toBlocks___mul_of_toBlocks___eq_zero_150fba5587ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:06:53.589582+00:00
 -- url     : https://prove2.me/theorems/d7aa5167-95a9-458c-af8f-80fadf9e1613

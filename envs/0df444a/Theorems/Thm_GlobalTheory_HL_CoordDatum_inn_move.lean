@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CoordDatum_inn_move
 -- name    : GlobalTheory.HL.CoordDatum.inn_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:59:47.730807+00:00
 -- url     : https://prove2.me/theorems/6643bde2-c166-46de-9a84-3e87c55ed6d6

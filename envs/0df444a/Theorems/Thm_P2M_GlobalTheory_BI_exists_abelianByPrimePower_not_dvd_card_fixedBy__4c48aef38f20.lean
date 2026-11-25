@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_BI_exists_abelianByPrimePower_not_dvd_card_fixedBy__4c48aef38f20
 -- name    : P2M_GlobalTheory_BI_exists_abelianByPrimePower_not_dvd_card_fixedBy__4c48aef38f20
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:02:28.052873+00:00
 -- url     : https://prove2.me/theorems/c0dfe13a-b936-41bb-9c44-2d21b7a5592b

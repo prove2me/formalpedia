@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_Matrix_det_blockDiagonal__9aefd9cf488d
 -- name    : P2M_GroundTheory_Global_Matrix_det_blockDiagonal__9aefd9cf488d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:14:17.203142+00:00
 -- url     : https://prove2.me/theorems/8d64a165-f0f7-4d10-917e-2a9727201ca2

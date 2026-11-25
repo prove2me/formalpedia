@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_std_deg_eq
 -- name    : Formalism.LFunctionChainParameters.LChain2.std_deg_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:49:40.473294+00:00
 -- url     : https://prove2.me/theorems/51d7a751-7129-5da5-8322-2080c96ebf47

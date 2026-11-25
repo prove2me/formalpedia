@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_KaScale_gs_cst__c938e238df74
 -- name    : P2M_GlobalTheory_KaScale_gs_cst__c938e238df74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:07:37.070622+00:00
 -- url     : https://prove2.me/theorems/4f694e71-69d1-4d65-9d6e-aec7a2b7726a

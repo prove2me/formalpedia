@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_dB_mem
 -- name    : SZ.Slice.dB_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:48:17.910732+00:00
 -- url     : https://prove2.me/theorems/a670f153-23f5-4ac3-94ae-61eb097321a7

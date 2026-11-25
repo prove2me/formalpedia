@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockTrdeg_weight_forgetWeight_0c5211fd4348
 -- name    : P2M_GroundTheory_Heights__Heights_BlockTrdeg_weight_forgetWeight_0c5211fd4348
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:16:19.259856+00:00
 -- url     : https://prove2.me/theorems/5242cb24-43d5-46b3-8a88-a30ade74916d

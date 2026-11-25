@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_sectionsOn_to__mapOver_3feea3d5df06
 -- name    : P2M_GlobalTheory_sectionsOn_to__mapOver_3feea3d5df06
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:13:55.771255+00:00
 -- url     : https://prove2.me/theorems/e16bc810-fad3-4d34-b1c1-916d92020b14

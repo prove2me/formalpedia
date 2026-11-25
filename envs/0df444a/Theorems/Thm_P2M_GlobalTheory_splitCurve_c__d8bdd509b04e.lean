@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_splitCurve_c__d8bdd509b04e
 -- name    : P2M_GlobalTheory_splitCurve_c__d8bdd509b04e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:12:44.19631+00:00
 -- url     : https://prove2.me/theorems/024bdc43-7099-4770-882c-426169f8619e

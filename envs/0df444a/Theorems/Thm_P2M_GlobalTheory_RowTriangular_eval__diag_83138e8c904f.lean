@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_RowTriangular_eval__diag_83138e8c904f
 -- name    : P2M_GlobalTheory_RowTriangular_eval__diag_83138e8c904f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:07.088581+00:00
 -- url     : https://prove2.me/theorems/ddea0726-348d-4e72-bdcd-45193fca2ce2

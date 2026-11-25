@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_norm_sq_mul_exp_neg_trace_le__62d642795fe7
 -- name    : P2M_GlobalTheory_T_norm_sq_mul_exp_neg_trace_le__62d642795fe7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:11:03.28236+00:00
 -- url     : https://prove2.me/theorems/666dee42-3cfe-4e26-a50c-89612db44e3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_LeanPool_Vizing_PEC_Extends_rfl__b0701dcd179b
 -- name    : P2M_LeanPool_Vizing_PEC_Extends_rfl__b0701dcd179b
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:29:15.728114+00:00
 -- url     : https://prove2.me/theorems/0a0a4cfc-ad70-4e0c-9f5f-a172a111fa8a

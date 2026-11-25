@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_YangianSpanCharacter_P_transpose_j_transpose_real
 -- name    : Formalism.YangianSpanCharacter.P.transpose_j_transpose_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:15:36.001804+00:00
 -- url     : https://prove2.me/theorems/bc3e79af-451e-400b-b951-da63cb8b2b4b

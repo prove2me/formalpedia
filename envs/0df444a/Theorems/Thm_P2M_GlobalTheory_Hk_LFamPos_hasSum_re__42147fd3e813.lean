@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Hk_LFamPos_hasSum_re__42147fd3e813
 -- name    : P2M_GlobalTheory_Hk_LFamPos_hasSum_re__42147fd3e813
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:06:03.543444+00:00
 -- url     : https://prove2.me/theorems/3aa82c27-3c51-4066-ab59-ad535e2a1d93

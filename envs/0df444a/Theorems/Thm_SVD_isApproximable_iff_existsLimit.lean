@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_isApproximable_iff_existsLimit
 -- name    : SVD.isApproximable_iff_existsLimit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:42.097303+00:00
 -- url     : https://prove2.me/theorems/76c53500-bf21-485c-81ee-facf5aef23bc

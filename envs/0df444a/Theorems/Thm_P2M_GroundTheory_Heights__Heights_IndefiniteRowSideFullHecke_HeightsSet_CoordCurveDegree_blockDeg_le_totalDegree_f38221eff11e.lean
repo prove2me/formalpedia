@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_blockDeg_le_totalDegree_f38221eff11e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_CoordCurveDegree_blockDeg_le_totalDegree_f38221eff11e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:29:44.940956+00:00
 -- url     : https://prove2.me/theorems/255c42dd-a770-51a6-8d67-4690de64a2b5

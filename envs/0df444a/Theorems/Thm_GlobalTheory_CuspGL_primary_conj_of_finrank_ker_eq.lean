@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CuspGL_primary_conj_of_finrank_ker_eq
 -- name    : GlobalTheory.CuspGL.primary_conj_of_finrank_ker_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:33:09.235796+00:00
 -- url     : https://prove2.me/theorems/31689bbc-c41f-4226-8a64-ee5ee9bb2312

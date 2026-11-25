@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CuspGL_exists_conj_of_aeval__equiv_6dd8055a4950
 -- name    : P2M_GlobalTheory_CuspGL_exists_conj_of_aeval__equiv_6dd8055a4950
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:05:03.194803+00:00
 -- url     : https://prove2.me/theorems/8bf0c35d-a4d3-4d61-9d1b-b20dc97311da

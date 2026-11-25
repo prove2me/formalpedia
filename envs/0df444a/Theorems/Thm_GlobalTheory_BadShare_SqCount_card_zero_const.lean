@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_SqCount_card_zero_const
 -- name    : GlobalTheory.BadShare.SqCount.card_zero_const
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:06:26.757554+00:00
 -- url     : https://prove2.me/theorems/d5464ddb-0afe-4444-a735-ca41ad84be11

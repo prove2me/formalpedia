@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_eventually_fderiv_I_smul_cb450053cee6
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_eventually_fderiv_I_smul_cb450053cee6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:18:17.467248+00:00
 -- url     : https://prove2.me/theorems/4b7d262d-084e-45cf-99cd-c60aff8969b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_witXi_pos
 -- name    : SZ.witXi_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:11:56.906937+00:00
 -- url     : https://prove2.me/theorems/4093228b-1b7c-52df-bbff-96c9e08faabe

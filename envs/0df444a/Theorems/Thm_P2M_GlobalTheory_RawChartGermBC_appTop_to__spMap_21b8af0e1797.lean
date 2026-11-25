@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_RawChartGermBC_appTop_to__spMap_21b8af0e1797
 -- name    : P2M_GlobalTheory_RawChartGermBC_appTop_to__spMap_21b8af0e1797
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:09:43.409396+00:00
 -- url     : https://prove2.me/theorems/12310950-bec1-4d22-8aee-ca062942c96e

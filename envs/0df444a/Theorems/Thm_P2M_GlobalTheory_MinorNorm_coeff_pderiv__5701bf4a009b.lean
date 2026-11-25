@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_MinorNorm_coeff_pderiv__5701bf4a009b
 -- name    : P2M_GlobalTheory_MinorNorm_coeff_pderiv__5701bf4a009b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:07:07.662774+00:00
 -- url     : https://prove2.me/theorems/4e1df6d9-cf69-43f5-89da-ac97fc3064c9

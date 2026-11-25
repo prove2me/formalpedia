@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_HeightSquareIntegrable_height_sq_lintegral_lt_top
 -- name    : GlobalTheory.JR.HeightSquareIntegrable.height_sq_lintegral_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:32:14.639325+00:00
 -- url     : https://prove2.me/theorems/3b3da318-4fba-467a-87bf-cf19e6a562eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FibreStalk_nonempty_ringEquiv_stalk_fiber
 -- name    : GlobalTheory.FibreStalk.nonempty_ringEquiv_stalk_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:24:12.296509+00:00
 -- url     : https://prove2.me/theorems/1cbd46c2-099b-4c68-9a0a-bd4f80283f8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LamBiext_formEq__87630df18372
 -- name    : P2M_GlobalTheory_LamBiext_formEq__87630df18372
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:07:52.675794+00:00
 -- url     : https://prove2.me/theorems/773134e1-84c4-4cc3-96a6-e206898a9841

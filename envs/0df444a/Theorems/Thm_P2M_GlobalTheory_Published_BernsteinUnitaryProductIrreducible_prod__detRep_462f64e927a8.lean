@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Published_BernsteinUnitaryProductIrreducible_prod__detRep_462f64e927a8
 -- name    : P2M_GlobalTheory_Published_BernsteinUnitaryProductIrreducible_prod__detRep_462f64e927a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:08:54.520116+00:00
 -- url     : https://prove2.me/theorems/0b54b7d0-97d1-4b57-815f-10845aaed606

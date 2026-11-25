@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_PhiGam_ModPG_span___b6f5a61103e8
 -- name    : P2M_GlobalTheory_PhiGam_ModPG_span___b6f5a61103e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:05.639364+00:00
 -- url     : https://prove2.me/theorems/ac453b03-adf0-47aa-bfa8-29b7636f0b66

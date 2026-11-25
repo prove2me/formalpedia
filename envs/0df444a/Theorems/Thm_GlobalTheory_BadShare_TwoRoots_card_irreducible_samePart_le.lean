@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_TwoRoots_card_irreducible_samePart_le
 -- name    : GlobalTheory.BadShare.TwoRoots.card_irreducible_samePart_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:56:53.828631+00:00
 -- url     : https://prove2.me/theorems/77ff737c-c4e0-4d89-aa76-e22d7b6e31b7

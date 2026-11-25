@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_strict
 -- name    : SNumbers.approximationNumber_strict
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:21:12.618818+00:00
 -- url     : https://prove2.me/theorems/5d537fe3-9074-48cd-b482-1c661770a258

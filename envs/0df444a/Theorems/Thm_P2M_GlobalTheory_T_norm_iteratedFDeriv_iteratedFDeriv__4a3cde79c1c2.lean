@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_norm_iteratedFDeriv_iteratedFDeriv__4a3cde79c1c2
 -- name    : P2M_GlobalTheory_T_norm_iteratedFDeriv_iteratedFDeriv__4a3cde79c1c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:10:14.8995+00:00
 -- url     : https://prove2.me/theorems/7c205eaa-ab90-4978-aee4-2a46fac794fd

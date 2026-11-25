@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_twistP
 -- name    : Formalism.LFunctionChainParameters.LChain2.twistP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:53:09.155307+00:00
 -- url     : https://prove2.me/theorems/20e1eb7e-6b8d-479e-aab2-f9fd6bfdb178

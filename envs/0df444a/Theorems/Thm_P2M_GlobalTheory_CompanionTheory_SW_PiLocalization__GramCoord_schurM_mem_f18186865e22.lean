@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__GramCoord_schurM_mem_f18186865e22
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__GramCoord_schurM_mem_f18186865e22
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:04:36.540979+00:00
 -- url     : https://prove2.me/theorems/d1881c48-5cf2-41a6-b994-a0575cca735d

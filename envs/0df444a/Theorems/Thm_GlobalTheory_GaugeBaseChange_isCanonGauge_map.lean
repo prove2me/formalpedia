@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeBaseChange_isCanonGauge_map
 -- name    : GlobalTheory.GaugeBaseChange.isCanonGauge_map
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:16:05.853801+00:00
 -- url     : https://prove2.me/theorems/5d91a4f4-fadd-46e3-b9dd-8a330a86473c

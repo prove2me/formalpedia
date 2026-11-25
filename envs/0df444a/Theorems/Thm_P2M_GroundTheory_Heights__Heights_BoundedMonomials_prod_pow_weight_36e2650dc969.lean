@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BoundedMonomials_prod_pow_weight_36e2650dc969
 -- name    : P2M_GroundTheory_Heights__Heights_BoundedMonomials_prod_pow_weight_36e2650dc969
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:18:15.674448+00:00
 -- url     : https://prove2.me/theorems/d9443e8f-3842-4ff2-90c8-25e9a0b5361e

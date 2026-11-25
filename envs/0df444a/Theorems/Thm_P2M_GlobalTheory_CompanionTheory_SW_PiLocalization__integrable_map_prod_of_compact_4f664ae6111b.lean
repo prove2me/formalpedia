@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__integrable_map_prod_of_compact_4f664ae6111b
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__integrable_map_prod_of_compact_4f664ae6111b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:05:40.116602+00:00
 -- url     : https://prove2.me/theorems/e3c5f837-0e0d-4e39-a378-3b9420fe2b74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_JR_HeightSquareIntegrable_tsum_pi_prod_le__f38cf3f9f8ef
 -- name    : P2M_GlobalTheory_JR_HeightSquareIntegrable_tsum_pi_prod_le__f38cf3f9f8ef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:48.198805+00:00
 -- url     : https://prove2.me/theorems/7f00aa93-e383-4243-ad39-8672ae618cf3

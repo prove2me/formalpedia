@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_HAct_det_den__4c81421ae817
 -- name    : P2M_GlobalTheory_SW_HAct_det_den__4c81421ae817
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:08:47.836516+00:00
 -- url     : https://prove2.me/theorems/cfe895f5-1547-4ec3-8b04-2758593f827c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermFrame_mContDiffAt_blockDiagonal__bc50d51f27b0
 -- name    : P2M_GlobalTheory_HermFrame_mContDiffAt_blockDiagonal__bc50d51f27b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:18.408961+00:00
 -- url     : https://prove2.me/theorems/4b12ad65-0805-4b9a-9e86-d634a42758d7

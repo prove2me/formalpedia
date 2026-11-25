@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HilbertSamuelPS_lexOrder_prod_X_pow__790a47b3fadf
 -- name    : P2M_GlobalTheory_HilbertSamuelPS_lexOrder_prod_X_pow__790a47b3fadf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:06:21.217695+00:00
 -- url     : https://prove2.me/theorems/feba1a4c-3723-4f62-817b-befc0c8dbe10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockData_elt_div_elt_eac7066069af
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockData_elt_div_elt_eac7066069af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:15:37.447642+00:00
 -- url     : https://prove2.me/theorems/3722ed92-2471-4a71-b05f-9d9ea78c58f7

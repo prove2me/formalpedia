@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_sum_prime_pow_le_of_dvd
 -- name    : GlobalTheory.BadShare.sum_prime_pow_le_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:59:49.14736+00:00
 -- url     : https://prove2.me/theorems/9418aebf-a8cd-40e1-8107-0ab5ff8cbf4e

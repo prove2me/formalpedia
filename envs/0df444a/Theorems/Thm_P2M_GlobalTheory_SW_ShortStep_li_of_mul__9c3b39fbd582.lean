@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_ShortStep_li_of_mul__9c3b39fbd582
 -- name    : P2M_GlobalTheory_SW_ShortStep_li_of_mul__9c3b39fbd582
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:08:56.082508+00:00
 -- url     : https://prove2.me/theorems/e18bb80d-750b-47c0-92d4-9fbbc461fe35

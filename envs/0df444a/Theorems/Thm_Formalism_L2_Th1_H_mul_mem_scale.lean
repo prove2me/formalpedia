@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_H_mul_mem_scale
 -- name    : Formalism.L2.Th1.H.mul_mem_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:42:28.129667+00:00
 -- url     : https://prove2.me/theorems/6b1c8b90-b9d7-4ad0-9fc4-9ae38057974b

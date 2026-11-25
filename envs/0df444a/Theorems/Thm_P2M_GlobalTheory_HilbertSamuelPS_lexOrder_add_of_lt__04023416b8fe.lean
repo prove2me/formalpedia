@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HilbertSamuelPS_lexOrder_add_of_lt__04023416b8fe
 -- name    : P2M_GlobalTheory_HilbertSamuelPS_lexOrder_add_of_lt__04023416b8fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:06:20.653795+00:00
 -- url     : https://prove2.me/theorems/6db4f270-bf50-4dd8-960e-f1315a999d29

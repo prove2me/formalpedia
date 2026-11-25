@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_good_foldr
 -- name    : Formalism.FourierDecayAlt.P.PBG.good_foldr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:58:11.097806+00:00
 -- url     : https://prove2.me/theorems/7e148904-cdd7-45e7-a7a7-3b12ae2aa929

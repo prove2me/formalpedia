@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_antitone
 -- name    : SNumbers.gelfandNumber_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:23:38.066359+00:00
 -- url     : https://prove2.me/theorems/09da6062-2c08-4a5d-bbfa-0857a028138a

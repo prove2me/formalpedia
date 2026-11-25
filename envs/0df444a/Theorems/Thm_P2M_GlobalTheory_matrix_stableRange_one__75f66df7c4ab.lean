@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_matrix_stableRange_one__75f66df7c4ab
 -- name    : P2M_GlobalTheory_matrix_stableRange_one__75f66df7c4ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:12:42.687631+00:00
 -- url     : https://prove2.me/theorems/27171b05-dd3e-42be-823c-8439dd72502e

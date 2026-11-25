@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_CapelliCoordinates_unitB_expand
 -- name    : Formalism.FourierDecayAlt.P.CapelliCoordinates.unitB_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:26:30.322118+00:00
 -- url     : https://prove2.me/theorems/ee2c6b3e-fc13-59a4-a7c9-552c87a0820d

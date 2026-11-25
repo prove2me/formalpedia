@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_GaussDerivBound_exists_bound_poly_mul_exp__b46fcb63c6bf
 -- name    : P2M_GlobalTheory_GaussDerivBound_exists_bound_poly_mul_exp__b46fcb63c6bf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:06:03.972437+00:00
 -- url     : https://prove2.me/theorems/d3075609-f652-4fb7-9451-c9a192f25687

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_chartCutoff_scale_7a59cb9c493b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_chartCutoff_scale_7a59cb9c493b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:17:40.392475+00:00
 -- url     : https://prove2.me/theorems/f526c3fd-cfe1-4609-8c88-7ae3a459291e

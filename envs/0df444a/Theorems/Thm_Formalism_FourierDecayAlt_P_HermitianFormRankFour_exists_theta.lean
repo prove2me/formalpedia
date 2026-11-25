@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormRankFour_exists_theta
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormRankFour.exists_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:07:19.320351+00:00
 -- url     : https://prove2.me/theorems/914a0401-97aa-567e-9baa-119577120600

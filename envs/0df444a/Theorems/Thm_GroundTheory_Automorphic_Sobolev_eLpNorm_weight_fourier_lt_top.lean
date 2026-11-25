@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_eLpNorm_weight_fourier_lt_top
 -- name    : GroundTheory.Automorphic.Sobolev.eLpNorm_weight_fourier_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:49:59.279744+00:00
 -- url     : https://prove2.me/theorems/a2770828-6c94-4677-98c8-9f8881c8fdd6

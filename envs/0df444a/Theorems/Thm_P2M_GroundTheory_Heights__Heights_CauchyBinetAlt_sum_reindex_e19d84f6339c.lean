@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CauchyBinetAlt_sum_reindex_e19d84f6339c
 -- name    : P2M_GroundTheory_Heights__Heights_CauchyBinetAlt_sum_reindex_e19d84f6339c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:15:59.409361+00:00
 -- url     : https://prove2.me/theorems/0dafe3ba-5c8f-488f-b727-2c7043c4b63a

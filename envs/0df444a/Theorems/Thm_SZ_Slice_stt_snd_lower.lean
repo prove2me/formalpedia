@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_stt_snd_lower
 -- name    : SZ.Slice.stt_snd_lower
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:01:08.563335+00:00
 -- url     : https://prove2.me/theorems/68a4d326-4d9f-4ce9-b0b7-b8e51bad1037

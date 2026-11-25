@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_half_valuation_holds
 -- name    : Formalism.L2.Th1.G.half_valuation_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:29:04.110201+00:00
 -- url     : https://prove2.me/theorems/b1e83af9-035b-5a74-b1d3-ac70646bceb6

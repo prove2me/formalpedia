@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymDivisible_swap_pair_f5c9f49b9aee
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymDivisible_swap_pair_f5c9f49b9aee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:15:33.961816+00:00
 -- url     : https://prove2.me/theorems/bc07528a-bd8a-4b47-ab32-c6adebe186c8

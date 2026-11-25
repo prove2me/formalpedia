@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegLoc_NuDiag_nuAt_eq_prod
 -- name    : GlobalTheory.CompanionTheory.SiegLoc.NuDiag.nuAt_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:13:11.355019+00:00
 -- url     : https://prove2.me/theorems/d34a8cf8-c4c7-4527-80ec-0e3afb7f7bff

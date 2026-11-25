@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_EpsProj_sum_eps_chi
 -- name    : GlobalTheory.BadShare.EpsProj.sum_eps_chi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:47:43.646728+00:00
 -- url     : https://prove2.me/theorems/54819004-91a6-4440-b1d3-d4ac153097a7

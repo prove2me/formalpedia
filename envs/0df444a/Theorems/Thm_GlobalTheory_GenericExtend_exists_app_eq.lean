@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericExtend_exists_app_eq
 -- name    : GlobalTheory.GenericExtend.exists_app_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:00:58.091059+00:00
 -- url     : https://prove2.me/theorems/104733ad-3c62-47ae-8636-6f42fbe6399e

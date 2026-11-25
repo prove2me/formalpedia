@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_NormalLatticeData_subsingleton_tateZero_gr
 -- name    : GroundTheory.LocalField.NormalLatticeData.subsingleton_tateZero_gr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:13:26.320628+00:00
 -- url     : https://prove2.me/theorems/98cac03f-2f6a-430b-8551-5544824ec186

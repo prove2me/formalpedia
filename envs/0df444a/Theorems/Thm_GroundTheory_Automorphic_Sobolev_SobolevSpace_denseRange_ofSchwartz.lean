@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_SobolevSpace_denseRange_ofSchwartz
 -- name    : GroundTheory.Automorphic.Sobolev.SobolevSpace.denseRange_ofSchwartz
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:33:28.800653+00:00
 -- url     : https://prove2.me/theorems/9f18add4-32ab-4d9a-bd2c-416d88df0ff4

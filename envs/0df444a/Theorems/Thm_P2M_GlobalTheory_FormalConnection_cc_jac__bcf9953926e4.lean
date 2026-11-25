@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FormalConnection_cc_jac__bcf9953926e4
 -- name    : P2M_GlobalTheory_FormalConnection_cc_jac__bcf9953926e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:25.582878+00:00
 -- url     : https://prove2.me/theorems/d299cb1e-408e-46d8-9244-48a9803b3b6a

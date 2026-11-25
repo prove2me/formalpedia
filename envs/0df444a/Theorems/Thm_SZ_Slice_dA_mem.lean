@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_dA_mem
 -- name    : SZ.Slice.dA_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:57:08.241411+00:00
 -- url     : https://prove2.me/theorems/0921e629-bd70-443f-a7be-4cb19a582373

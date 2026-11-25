@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_FrameRatio_psJet_surj
 -- name    : GlobalTheory.ChartCmp.FrameRatio.psJet_surj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:14:43.413706+00:00
 -- url     : https://prove2.me/theorems/73584a64-a1f8-4ed3-a8ca-38597a04ac85

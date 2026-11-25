@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_RowTriangular_eval__unip_450ff3a92c12
 -- name    : P2M_GlobalTheory_RowTriangular_eval__unip_450ff3a92c12
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:00.73144+00:00
 -- url     : https://prove2.me/theorems/1705fd00-3dc8-4394-b759-57fb96943a72

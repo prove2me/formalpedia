@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitLemma_Unr_ResVal_val_mul__6c19df7bd17f
 -- name    : P2M_GlobalTheory_UnitLemma_Unr_ResVal_val_mul__6c19df7bd17f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:10:39.026364+00:00
 -- url     : https://prove2.me/theorems/3b0e30b1-2f5f-4306-b091-6883563abfbd

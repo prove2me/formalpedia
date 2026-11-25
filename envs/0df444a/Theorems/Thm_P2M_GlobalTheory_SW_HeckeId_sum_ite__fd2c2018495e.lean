@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_HeckeId_sum_ite__fd2c2018495e
 -- name    : P2M_GlobalTheory_SW_HeckeId_sum_ite__fd2c2018495e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:09:21.166826+00:00
 -- url     : https://prove2.me/theorems/2a8cd6e4-c722-4aec-a331-2adddcc07925

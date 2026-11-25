@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_More_iterate_derivative_subst
 -- name    : Formalism.L2.Th1.A.More.iterate_derivative_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:08:29.895508+00:00
 -- url     : https://prove2.me/theorems/b983366d-1b50-4927-9604-c525e04a9f0a

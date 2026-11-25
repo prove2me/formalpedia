@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CycFr_constantCoeff_act
 -- name    : GlobalTheory.CycFr.constantCoeff_act
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:01:30.601482+00:00
 -- url     : https://prove2.me/theorems/bd514b1a-cd46-503d-9d39-3758be464adc

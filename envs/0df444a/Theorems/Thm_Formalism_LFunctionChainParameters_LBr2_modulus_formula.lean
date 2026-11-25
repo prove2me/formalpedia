@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_modulus_formula
 -- name    : Formalism.LFunctionChainParameters.LBr2.modulus_formula
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:59:56.655248+00:00
 -- url     : https://prove2.me/theorems/1983782c-1922-5dcd-844e-363048ff5557

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuousOn_schur_coordinates_and_isOpen_Bset
 -- name    : GlobalTheory.T.continuousOn_schur_coordinates_and_isOpen_Bset
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:59:21.100798+00:00
 -- url     : https://prove2.me/theorems/cc197ee0-67b5-4fb9-a357-4a7291d88a99

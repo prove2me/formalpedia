@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_gStart_gState
 -- name    : SZ.gStart_gState
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:15:18.456379+00:00
 -- url     : https://prove2.me/theorems/87ebf29e-2ada-4644-b7ff-e1953a7d8472

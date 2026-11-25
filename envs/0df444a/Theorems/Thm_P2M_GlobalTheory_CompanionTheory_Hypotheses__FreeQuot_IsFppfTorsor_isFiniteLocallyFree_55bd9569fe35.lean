@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__FreeQuot_IsFppfTorsor_isFiniteLocallyFree_55bd9569fe35
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__FreeQuot_IsFppfTorsor_isFiniteLocallyFree_55bd9569fe35
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:06:29.770799+00:00
 -- url     : https://prove2.me/theorems/69c767e8-a3dc-4a95-b922-60d707b38351

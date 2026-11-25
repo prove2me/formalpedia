@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartChange_lintegral_split_22e51e01810a
 -- name    : P2M_GroundTheory_Heights__Heights_ChartChange_lintegral_split_22e51e01810a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:17:44.685661+00:00
 -- url     : https://prove2.me/theorems/333e2f2d-b32d-4e22-9174-d76ce4879ec3

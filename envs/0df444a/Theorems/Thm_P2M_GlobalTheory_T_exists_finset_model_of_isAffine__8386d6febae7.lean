@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_finset_model_of_isAffine__8386d6febae7
 -- name    : P2M_GlobalTheory_T_exists_finset_model_of_isAffine__8386d6febae7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:34.038426+00:00
 -- url     : https://prove2.me/theorems/7f10c8ae-079e-46f1-89da-7b2ba56b879e

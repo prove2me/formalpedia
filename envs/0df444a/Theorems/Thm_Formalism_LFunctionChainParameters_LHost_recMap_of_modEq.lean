@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LHost_recMap_of_modEq
 -- name    : Formalism.LFunctionChainParameters.LHost.recMap_of_modEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:23:56.809016+00:00
 -- url     : https://prove2.me/theorems/3fa9f16f-3d15-4a9c-b3f7-d8048672925c

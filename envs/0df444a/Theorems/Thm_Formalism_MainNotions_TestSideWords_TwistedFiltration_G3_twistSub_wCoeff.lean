@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_TestSideWords_TwistedFiltration_G3_twistSub_wCoeff
 -- name    : Formalism.MainNotions.TestSideWords.TwistedFiltration.G3.twistSub_wCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:54:30.317864+00:00
 -- url     : https://prove2.me/theorems/3b95b375-d656-4a9d-b8e7-dab2597c6cd2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_adicCompletion_eval__of_val_d9e9ae8e3d9e
 -- name    : P2M_GlobalTheory_adicCompletion_eval__of_val_d9e9ae8e3d9e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:11:56.319302+00:00
 -- url     : https://prove2.me/theorems/4414d669-7206-41e7-93cd-816568dfc9a1

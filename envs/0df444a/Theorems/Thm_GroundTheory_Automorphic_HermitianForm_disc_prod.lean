@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_disc_prod
 -- name    : GroundTheory.Automorphic.HermitianForm.disc_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:16:08.536354+00:00
 -- url     : https://prove2.me/theorems/2e2819f2-6317-4ca8-828c-95c39ada99ac

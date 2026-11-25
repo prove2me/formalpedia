@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_zSerMap
 -- name    : Formalism.L2.Th1.A.zSerMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:02:36.069231+00:00
 -- url     : https://prove2.me/theorems/2ff01bba-2824-46a5-a5b9-002ccbf5964c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DI___mul__Multi_eq_ef862d3d0758
 -- name    : P2M_GlobalTheory_DI___mul__Multi_eq_ef862d3d0758
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:05:00.524222+00:00
 -- url     : https://prove2.me/theorems/ecae7e5b-dbfe-4597-9389-856bf54b19cf

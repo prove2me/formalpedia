@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorsionCompare_law_iff
 -- name    : GlobalTheory.TorsionCompare.law_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:09:39.539+00:00
 -- url     : https://prove2.me/theorems/b8f1bdad-c4ea-40a9-9231-4612bc9bcfb0

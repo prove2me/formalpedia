@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__isSFiniteKernel_of_forall_univ_lt_top_f4df5b9f1781
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__isSFiniteKernel_of_forall_univ_lt_top_f4df5b9f1781
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:33.812853+00:00
 -- url     : https://prove2.me/theorems/7b833afa-f2cc-41bb-832c-40c4c5754a7c

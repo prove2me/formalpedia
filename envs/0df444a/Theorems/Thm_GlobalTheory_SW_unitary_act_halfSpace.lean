@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_unitary_act_halfSpace
 -- name    : GlobalTheory.SW.unitary_act_halfSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:44:27.991943+00:00
 -- url     : https://prove2.me/theorems/b22a3bb0-5150-4876-adf9-403d4ddee6c0

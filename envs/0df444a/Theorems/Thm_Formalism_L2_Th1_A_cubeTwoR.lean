@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_cubeTwoR
 -- name    : Formalism.L2.Th1.A.cubeTwoR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:09:44.286468+00:00
 -- url     : https://prove2.me/theorems/47ddd984-90fc-4d32-aac5-35d717899bc9

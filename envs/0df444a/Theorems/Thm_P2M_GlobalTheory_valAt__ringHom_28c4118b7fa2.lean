@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_valAt__ringHom_28c4118b7fa2
 -- name    : P2M_GlobalTheory_valAt__ringHom_28c4118b7fa2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:12:42.018539+00:00
 -- url     : https://prove2.me/theorems/cbaf3f71-378e-43b0-821f-1901606bbb72

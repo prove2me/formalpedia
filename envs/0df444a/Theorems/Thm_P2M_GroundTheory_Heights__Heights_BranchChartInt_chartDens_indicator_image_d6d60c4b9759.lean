@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BranchChartInt_chartDens_indicator_image_d6d60c4b9759
 -- name    : P2M_GroundTheory_Heights__Heights_BranchChartInt_chartDens_indicator_image_d6d60c4b9759
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:16:33.38828+00:00
 -- url     : https://prove2.me/theorems/5b8b067d-fcb5-49f5-8320-2c4acfa34e8c

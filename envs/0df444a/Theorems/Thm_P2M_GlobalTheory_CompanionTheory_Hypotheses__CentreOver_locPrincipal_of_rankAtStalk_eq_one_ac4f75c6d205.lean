@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_locPrincipal_of_rankAtStalk_eq_one_ac4f75c6d205
 -- name    : P2M_GlobalTheory_CompanionTheory_Hypotheses__CentreOver_locPrincipal_of_rankAtStalk_eq_one_ac4f75c6d205
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:03:15.980227+00:00
 -- url     : https://prove2.me/theorems/6dd32cf9-3424-4d39-8f7c-b20b5a9bd772

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_card_mem_cycleType_mul
 -- name    : GlobalTheory.BadShare.card_mem_cycleType_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:59:39.236388+00:00
 -- url     : https://prove2.me/theorems/a312d8e1-d992-497e-b9af-7083a7111614

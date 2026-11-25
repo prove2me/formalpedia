@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_subfieldPlaceEquiv_mk
 -- name    : GroundTheory.Global.Artin.subfieldPlaceEquiv_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:27:54.47007+00:00
 -- url     : https://prove2.me/theorems/e4b9c029-9555-47c2-8f6d-53eef6bebfc3

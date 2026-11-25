@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SchemeHomsFromPoints_lift_toSpec__4f4f7e528988
 -- name    : P2M_GlobalTheory_SchemeHomsFromPoints_lift_toSpec__4f4f7e528988
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:08:49.024681+00:00
 -- url     : https://prove2.me/theorems/19666755-8646-4d10-ad3b-1607fce5d2e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_ExpChartJet_isExpChart_of_expOf
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.ExpChartJet.isExpChart_of_expOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:59:15.089905+00:00
 -- url     : https://prove2.me/theorems/1a52710c-efb8-4e73-82ae-f812c7e36d6f

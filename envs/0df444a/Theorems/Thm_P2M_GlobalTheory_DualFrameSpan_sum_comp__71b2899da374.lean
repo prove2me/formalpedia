@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DualFrameSpan_sum_comp__71b2899da374
 -- name    : P2M_GlobalTheory_DualFrameSpan_sum_comp__71b2899da374
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:28.814813+00:00
 -- url     : https://prove2.me/theorems/9abb37ff-dc3d-4181-8cf5-db38b4d39cb4

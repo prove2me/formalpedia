@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_HeckeId_exists_mult__e6066571aebc
 -- name    : P2M_GlobalTheory_SW_HeckeId_exists_mult__e6066571aebc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:09:35.659886+00:00
 -- url     : https://prove2.me/theorems/9379dae3-0bb3-4f2c-9bfa-8c31ecdc5d9f

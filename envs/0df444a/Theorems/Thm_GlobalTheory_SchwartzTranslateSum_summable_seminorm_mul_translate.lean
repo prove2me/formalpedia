@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SchwartzTranslateSum_summable_seminorm_mul_translate
 -- name    : GlobalTheory.SchwartzTranslateSum.summable_seminorm_mul_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T19:47:49.657588+00:00
 -- url     : https://prove2.me/theorems/f5c71b93-3012-4f87-8fd4-46c9294d553e

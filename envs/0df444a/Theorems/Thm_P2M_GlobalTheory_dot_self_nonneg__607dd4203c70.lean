@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_dot_self_nonneg__607dd4203c70
 -- name    : P2M_GlobalTheory_dot_self_nonneg__607dd4203c70
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:12:06.97297+00:00
 -- url     : https://prove2.me/theorems/f3273186-4fbe-4fba-8a35-5de8797d3d22

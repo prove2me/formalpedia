@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_JCalc_jeq_map
 -- name    : GlobalTheory.ChartCmp.JCalc.jeq_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:09:15.540555+00:00
 -- url     : https://prove2.me/theorems/afaa2d6a-479d-460e-8ce7-8c066e8137fb

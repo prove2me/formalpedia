@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySymmetry_cxHessian_sub_832eb10b8be0
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySymmetry_cxHessian_sub_832eb10b8be0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:18:46.711745+00:00
 -- url     : https://prove2.me/theorems/01554461-1709-4823-8ec2-1792272aa667

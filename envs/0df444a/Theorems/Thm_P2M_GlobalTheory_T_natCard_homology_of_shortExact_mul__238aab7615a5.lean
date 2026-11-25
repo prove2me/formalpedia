@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_natCard_homology_of_shortExact_mul__238aab7615a5
 -- name    : P2M_GlobalTheory_T_natCard_homology_of_shortExact_mul__238aab7615a5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:10:09.843682+00:00
 -- url     : https://prove2.me/theorems/51b055cf-d299-4848-b8c9-35de0bf0c47c

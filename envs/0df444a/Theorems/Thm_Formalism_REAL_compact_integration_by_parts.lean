@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_REAL_compact_integration_by_parts
 -- name    : Formalism.REAL.compact_integration_by_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:02:12.423372+00:00
 -- url     : https://prove2.me/theorems/c361857c-b1c6-4dd2-838c-2aa65ada8617

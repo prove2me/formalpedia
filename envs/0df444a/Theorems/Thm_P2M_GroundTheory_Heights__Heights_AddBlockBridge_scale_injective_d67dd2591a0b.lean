@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockBridge_scale_injective_d67dd2591a0b
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockBridge_scale_injective_d67dd2591a0b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:16:49.717009+00:00
 -- url     : https://prove2.me/theorems/97089113-001a-46f6-b5df-0f5d297db299

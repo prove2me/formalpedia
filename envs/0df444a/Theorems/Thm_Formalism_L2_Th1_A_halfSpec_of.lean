@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_halfSpec_of
 -- name    : Formalism.L2.Th1.A.halfSpec_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:44.051877+00:00
 -- url     : https://prove2.me/theorems/8881701b-855c-49b9-b9de-2d038abe7c9f

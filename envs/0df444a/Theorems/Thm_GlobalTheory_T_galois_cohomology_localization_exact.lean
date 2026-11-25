@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_galois_cohomology_localization_exact
 -- name    : GlobalTheory.T.galois_cohomology_localization_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:40:50.776689+00:00
 -- url     : https://prove2.me/theorems/efbc6bfb-9e2f-46ac-b4bf-6a2a6312b2b3

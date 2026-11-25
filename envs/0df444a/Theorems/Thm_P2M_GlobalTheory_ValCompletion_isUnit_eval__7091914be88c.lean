@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ValCompletion_isUnit_eval__7091914be88c
 -- name    : P2M_GlobalTheory_ValCompletion_isUnit_eval__7091914be88c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:10:46.113925+00:00
 -- url     : https://prove2.me/theorems/82c55df3-2390-461f-9dd9-8dcc72431b18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_EtaleFamily_analyticAt_eval_Hom_fee2a9f1ec8a
 -- name    : P2M_GlobalTheory_EtaleFamily_analyticAt_eval_Hom_fee2a9f1ec8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:05:30.08102+00:00
 -- url     : https://prove2.me/theorems/0ff2afa8-d8b0-476b-841a-10bb30664e8e

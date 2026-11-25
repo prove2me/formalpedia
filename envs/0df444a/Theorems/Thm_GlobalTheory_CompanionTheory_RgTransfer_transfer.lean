@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgTransfer_transfer
 -- name    : GlobalTheory.CompanionTheory.RgTransfer.transfer
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T12:01:32.273523+00:00
 -- url     : https://prove2.me/theorems/3689babe-9c64-43b4-ae8d-6218a7cfb66c

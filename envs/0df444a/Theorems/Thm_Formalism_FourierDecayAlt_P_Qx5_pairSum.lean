@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_pairSum
 -- name    : Formalism.FourierDecayAlt.P.Qx5.pairSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:43:50.598061+00:00
 -- url     : https://prove2.me/theorems/2a1ea28d-671a-579c-8329-e35a2ab12ced

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__GramCoord_unit_tmul_7668c6c4ee16
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__GramCoord_unit_tmul_7668c6c4ee16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:06:34.375497+00:00
 -- url     : https://prove2.me/theorems/b636b07a-78e6-4cb2-a878-39334fa6ec98

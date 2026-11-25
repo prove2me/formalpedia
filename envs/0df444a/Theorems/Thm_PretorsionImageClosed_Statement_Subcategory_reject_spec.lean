@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_reject_spec
 -- name    : PretorsionImageClosed.Statement.Subcategory.reject_spec
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:28:18.606292+00:00
 -- url     : https://prove2.me/theorems/579b8cb9-d377-4524-ada4-6e50b39e3f06

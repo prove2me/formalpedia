@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_star_dotProduct_self_eq_691e76ba67ec
 -- name    : P2M_GroundTheory_Heights__Heights_ChartCutoffEnergyAlt_star_dotProduct_self_eq_691e76ba67ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:18:42.287144+00:00
 -- url     : https://prove2.me/theorems/de12d5c5-941a-4598-ae3f-09a38cff31b1

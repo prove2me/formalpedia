@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_one_le_ringKrullDim_quot_e6e3f847a053
 -- name    : P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_one_le_ringKrullDim_quot_e6e3f847a053
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:28:03.092861+00:00
 -- url     : https://prove2.me/theorems/be113b54-e43d-4ab7-a0a5-8aa983dc69d9

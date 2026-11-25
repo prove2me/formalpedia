@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_landauEq
 -- name    : Formalism.landauEq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:07:49.124352+00:00
 -- url     : https://prove2.me/theorems/75f9e96c-691f-4c7d-b1e7-9a27e11184be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_ExpSum_form_dir__6e51053e4c16
 -- name    : P2M_GlobalTheory_SW_ExpSum_form_dir__6e51053e4c16
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:09:03.23286+00:00
 -- url     : https://prove2.me/theorems/e6a3e972-597d-447e-8f01-847c91d9c31c

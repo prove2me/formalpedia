@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_RankFibre_stdSum_rfl__782d855e1287
 -- name    : P2M_GlobalTheory_RankFibre_stdSum_rfl__782d855e1287
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:09:20.959319+00:00
 -- url     : https://prove2.me/theorems/d335a5b3-3a18-4f13-9dc4-1c307ab49dbb

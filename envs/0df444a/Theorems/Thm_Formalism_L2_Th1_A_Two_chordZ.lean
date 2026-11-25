@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Two_chordZ
 -- name    : Formalism.L2.Th1.A.Two.chordZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:47:16.18157+00:00
 -- url     : https://prove2.me/theorems/14dfce14-5d8a-4fc5-91e0-dc7f5291c3d7

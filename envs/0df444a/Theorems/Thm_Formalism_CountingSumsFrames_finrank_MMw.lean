@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_finrank_MMw
 -- name    : Formalism.CountingSumsFrames.finrank_MMw
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:40:41.521693+00:00
 -- url     : https://prove2.me/theorems/c5406b52-e79d-4038-aa63-dc28335c201a

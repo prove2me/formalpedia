@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BCT_DimFac_finrank_fixed_split
 -- name    : GlobalTheory.BCT.DimFac.finrank_fixed_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:58:20.788087+00:00
 -- url     : https://prove2.me/theorems/4ac793d6-d4cd-4715-b039-99dde6fc21ac

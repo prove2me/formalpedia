@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_isProper_map_inf_subscheme__35c749836b7f
 -- name    : P2M_GlobalTheory_isProper_map_inf_subscheme__35c749836b7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:57.696524+00:00
 -- url     : https://prove2.me/theorems/9de062b6-4ed1-4426-94ce-766667e867d1

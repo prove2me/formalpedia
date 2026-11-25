@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_Decay_norm_e__f0075b22bc10
 -- name    : P2M_GlobalTheory_SW_Decay_norm_e__f0075b22bc10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:09:09.508842+00:00
 -- url     : https://prove2.me/theorems/3377e1a5-2316-49a5-bae8-89342be03a1d

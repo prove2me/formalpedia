@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_j_invariant_scale
 -- name    : Formalism.L2.Th1.F.j_invariant_scale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:18:34.507222+00:00
 -- url     : https://prove2.me/theorems/7607a978-f39d-41c3-acaf-29cb4993ec4d

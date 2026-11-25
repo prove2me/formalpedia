@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_GlobalFiniteness_mem_cutPrime_iff
 -- name    : GlobalTheory.CompanionTheory.GlobalFiniteness.mem_cutPrime_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:29:12.317217+00:00
 -- url     : https://prove2.me/theorems/3a051c61-d805-5f04-b3e4-faaafdd69072

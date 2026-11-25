@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DetBound_exists_wedge_generator
 -- name    : GlobalTheory.DetBound.exists_wedge_generator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T12:44:02.628034+00:00
 -- url     : https://prove2.me/theorems/f7c8aee3-5b6b-49a2-a3eb-3e4b701a296d

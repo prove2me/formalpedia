@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgEisLeviQUnit_levi_pullback_iwasawa_unitary
 -- name    : GlobalTheory.CompanionTheory.RgEisLeviQUnit.levi_pullback_iwasawa_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T11:59:38.245809+00:00
 -- url     : https://prove2.me/theorems/e4cf95f9-29d7-4a83-9be7-558a5b24d850

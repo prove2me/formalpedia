@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HermFrame_gnorm_blockDiagonal__sq_8b738351c48d
 -- name    : P2M_GlobalTheory_HermFrame_gnorm_blockDiagonal__sq_8b738351c48d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:08.371116+00:00
 -- url     : https://prove2.me/theorems/15e3fa2e-8415-419d-a11c-5cc8f9a23372

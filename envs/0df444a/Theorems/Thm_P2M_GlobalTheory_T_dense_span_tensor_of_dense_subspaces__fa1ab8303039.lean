@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_dense_span_tensor_of_dense_subspaces__fa1ab8303039
 -- name    : P2M_GlobalTheory_T_dense_span_tensor_of_dense_subspaces__fa1ab8303039
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:26:17.48488+00:00
 -- url     : https://prove2.me/theorems/182b2f79-6da7-442d-a757-61347241e38d

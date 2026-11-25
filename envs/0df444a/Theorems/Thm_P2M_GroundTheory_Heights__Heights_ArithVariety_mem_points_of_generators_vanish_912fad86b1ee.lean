@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ArithVariety_mem_points_of_generators_vanish_912fad86b1ee
 -- name    : P2M_GroundTheory_Heights__Heights_ArithVariety_mem_points_of_generators_vanish_912fad86b1ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:15:20.950515+00:00
 -- url     : https://prove2.me/theorems/5c0e6d8d-6481-4e36-9585-d4e106f27b52

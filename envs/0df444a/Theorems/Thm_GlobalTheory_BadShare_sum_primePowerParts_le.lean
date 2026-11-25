@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_sum_primePowerParts_le
 -- name    : GlobalTheory.BadShare.sum_primePowerParts_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:59:31.457935+00:00
 -- url     : https://prove2.me/theorems/9fc62198-0242-4deb-b86d-ccb068d97344

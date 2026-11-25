@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_GroupGeneratedByExp_diff_hasDerivAt
 -- name    : Formalism.FourierDecayAlt.P.GroupGeneratedByExp.diff_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:25:49.356649+00:00
 -- url     : https://prove2.me/theorems/042e1521-833d-5560-b115-616b586c2ca0

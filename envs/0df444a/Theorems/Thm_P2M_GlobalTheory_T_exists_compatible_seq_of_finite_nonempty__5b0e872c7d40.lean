@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_compatible_seq_of_finite_nonempty__5b0e872c7d40
 -- name    : P2M_GlobalTheory_T_exists_compatible_seq_of_finite_nonempty__5b0e872c7d40
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:10:20.962495+00:00
 -- url     : https://prove2.me/theorems/b834fad8-4341-48a0-befc-2c4997db5ffc

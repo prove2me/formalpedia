@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_StepData_Model_opE_ne_zero__77ad6a831e75
 -- name    : P2M_GlobalTheory_StepData_Model_opE_ne_zero__77ad6a831e75
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:09:12.773679+00:00
 -- url     : https://prove2.me/theorems/c753ca77-aee3-481f-b6b1-5e9d8f48a716

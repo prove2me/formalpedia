@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_LatTop_lattice_isTest
 -- name    : GlobalTheory.JR.LatTop.lattice_isTest
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T17:33:43.230167+00:00
 -- url     : https://prove2.me/theorems/5a833259-51fe-4e74-85f3-fbb17c6bc9fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_HasRationalTorsion_exists_pow_twelve_eq___43dcc7f916ee
 -- name    : P2M_GlobalTheory_HasRationalTorsion_exists_pow_twelve_eq___43dcc7f916ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:06:18.108831+00:00
 -- url     : https://prove2.me/theorems/533ad8f3-35a4-4f75-95bd-8d63dc1de2ca

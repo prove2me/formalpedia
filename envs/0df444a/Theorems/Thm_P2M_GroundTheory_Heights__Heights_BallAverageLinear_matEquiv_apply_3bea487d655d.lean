@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BallAverageLinear_matEquiv_apply_3bea487d655d
 -- name    : P2M_GroundTheory_Heights__Heights_BallAverageLinear_matEquiv_apply_3bea487d655d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:15:21.62065+00:00
 -- url     : https://prove2.me/theorems/4a357371-2cb2-4602-85f0-328ba6639a98

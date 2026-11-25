@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SiegelND_Integ_Arch_HuaInt_lintegral_eq_normSq_det_mul_lintegral_mulVec
 -- name    : GlobalTheory.CompanionTheory.SiegelND.Integ.Arch.HuaInt.lintegral_eq_normSq_det_mul_lintegral_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T12:13:40.642716+00:00
 -- url     : https://prove2.me/theorems/6bcaee15-544f-4856-acf3-76ce84c1346d

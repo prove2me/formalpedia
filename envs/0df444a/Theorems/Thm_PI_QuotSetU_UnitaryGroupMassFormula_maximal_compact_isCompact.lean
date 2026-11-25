@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_maximal_compact_isCompact
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.maximal_compact_isCompact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:29:42.58799+00:00
 -- url     : https://prove2.me/theorems/1cdccaa9-25b6-4547-8ad6-0dd105fa0efb

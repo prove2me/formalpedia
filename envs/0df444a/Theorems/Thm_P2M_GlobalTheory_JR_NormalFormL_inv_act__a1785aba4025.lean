@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_JR_NormalFormL_inv_act__a1785aba4025
 -- name    : P2M_GlobalTheory_JR_NormalFormL_inv_act__a1785aba4025
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:06:47.293035+00:00
 -- url     : https://prove2.me/theorems/afd001df-35ed-4d41-9da5-7bbe7139f01c

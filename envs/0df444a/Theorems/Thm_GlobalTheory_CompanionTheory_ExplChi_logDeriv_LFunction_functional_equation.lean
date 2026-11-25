@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ExplChi_logDeriv_LFunction_functional_equation
 -- name    : GlobalTheory.CompanionTheory.ExplChi.logDeriv_LFunction_functional_equation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T11:38:18.297243+00:00
 -- url     : https://prove2.me/theorems/5c78038b-8cb3-4cb7-ac03-266c82b1ae34

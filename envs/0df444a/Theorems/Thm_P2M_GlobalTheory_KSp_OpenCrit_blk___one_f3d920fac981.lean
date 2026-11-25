@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_KSp_OpenCrit_blk___one_f3d920fac981
 -- name    : P2M_GlobalTheory_KSp_OpenCrit_blk___one_f3d920fac981
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:07:04.666726+00:00
 -- url     : https://prove2.me/theorems/d11dca79-6bb3-419d-a748-e9ebe4e266e0

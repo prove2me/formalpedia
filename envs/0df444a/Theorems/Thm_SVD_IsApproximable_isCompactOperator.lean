@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_IsApproximable_isCompactOperator
 -- name    : SVD.IsApproximable.isCompactOperator
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:22:48.995116+00:00
 -- url     : https://prove2.me/theorems/f3c363fb-e6b7-4d1f-b085-1c2dce8ed19f

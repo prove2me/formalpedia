@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__unitTens_coe_14584c718462
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__unitTens_coe_14584c718462
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:05:50.152598+00:00
 -- url     : https://prove2.me/theorems/3dbab52a-36a7-4953-9a9a-4bf24ee638b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_nonempty_equiv_quotRep
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.nonempty_equiv_quotRep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:46:42.892165+00:00
 -- url     : https://prove2.me/theorems/542a9e5f-dcd1-4399-bbd9-953a5b45654a

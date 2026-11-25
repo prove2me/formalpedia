@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitLemma_Unr_NormVal_val_inv__f61eb60cc841
 -- name    : P2M_GlobalTheory_UnitLemma_Unr_NormVal_val_inv__f61eb60cc841
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:27.862261+00:00
 -- url     : https://prove2.me/theorems/f0a05abe-82c0-4cab-ab4c-7b9f48626f61

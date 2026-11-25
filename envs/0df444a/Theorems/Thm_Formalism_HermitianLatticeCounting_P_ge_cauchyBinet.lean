@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_ge_cauchyBinet
 -- name    : Formalism.HermitianLatticeCounting.P.ge_cauchyBinet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:29:58.19631+00:00
 -- url     : https://prove2.me/theorems/1ef7acbc-7074-5108-8bd7-c94e6a3957e3

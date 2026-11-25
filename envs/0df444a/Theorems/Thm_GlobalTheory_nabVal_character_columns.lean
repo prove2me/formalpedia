@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_nabVal_character_columns
 -- name    : GlobalTheory.nabVal_character_columns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:57:59.82983+00:00
 -- url     : https://prove2.me/theorems/f406c04b-a2b2-40d2-a829-e63e0151392f

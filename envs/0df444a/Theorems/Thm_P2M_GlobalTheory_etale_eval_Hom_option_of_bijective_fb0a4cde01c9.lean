@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_etale_eval_Hom_option_of_bijective_fb0a4cde01c9
 -- name    : P2M_GlobalTheory_etale_eval_Hom_option_of_bijective_fb0a4cde01c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:11:50.71988+00:00
 -- url     : https://prove2.me/theorems/9f3425d2-e5d5-4eef-b318-9d5850f494b6

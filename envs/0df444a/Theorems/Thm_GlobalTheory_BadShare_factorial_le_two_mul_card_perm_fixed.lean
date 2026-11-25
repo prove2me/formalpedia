@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_factorial_le_two_mul_card_perm_fixed
 -- name    : GlobalTheory.BadShare.factorial_le_two_mul_card_perm_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:58:49.622204+00:00
 -- url     : https://prove2.me/theorems/1f5f59af-b01f-4c25-a9da-e1df0a3e37c9

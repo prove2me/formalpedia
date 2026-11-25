@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_entries_bounded_of_conj_spanning_bounded__a0549da12fe9
 -- name    : P2M_GlobalTheory_T_entries_bounded_of_conj_spanning_bounded__a0549da12fe9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:09:45.384558+00:00
 -- url     : https://prove2.me/theorems/8531eb4a-6f88-45c8-a9c5-0360d8f0b5c0

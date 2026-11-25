@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Frames_ChgOf_scal_mul__7ddbdceead04
 -- name    : P2M_GlobalTheory_Frames_ChgOf_scal_mul__7ddbdceead04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:05:38.728881+00:00
 -- url     : https://prove2.me/theorems/f1597102-9e6a-4381-ba19-16ea0c17f482

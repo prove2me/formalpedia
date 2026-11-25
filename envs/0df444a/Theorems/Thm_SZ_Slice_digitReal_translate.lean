@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_digitReal_translate
 -- name    : SZ.Slice.digitReal_translate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:54:30.989934+00:00
 -- url     : https://prove2.me/theorems/1ad600a9-0dc2-45bd-8dbd-e7f0b630358d

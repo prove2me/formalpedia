@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LSmall_node_sizes_explicit
 -- name    : Formalism.LFunctionChainParameters.LSmall.node_sizes_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:56:12.474029+00:00
 -- url     : https://prove2.me/theorems/d2cb8720-aad1-4cc6-8ab7-faf5797dfe1f

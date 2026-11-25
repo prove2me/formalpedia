@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_prop_cokernel_kernelSubobject
+-- name    : PretorsionImageClosed.Statement.Subcategory.prop_cokernel_kernelSubobject
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-11-25T02:31:39.961826+00:00
+-- url     : https://prove2.me/theorems/b117f580-4818-4c51-8f32-f6391e407e21
+-- title:
+--   Subcategory: prop cokernel kernel Subobject
+-- statement:
+--   The quotient `X/ker g` embeds into `Y`, so it lies in `F` whenever `Y` does.
+--
+--   Source: https://github.com/haruhisa-enomoto/pretorsion-image-closed/blob/e803b5d1325bc1ce2b779efbff157b6cd3234bc8/PretorsionImageClosed/Subcategories/Trace.lean#L128-L134
+-- source:
+--   https://github.com/haruhisa-enomoto/pretorsion-image-closed/blob/e803b5d1325bc1ce2b779efbff157b6cd3234bc8/PretorsionImageClosed/Subcategories/Trace.lean#L128-L134
+
+module
+public import Definitions.Def_PretorsionImageClosed_Subcategories_Basic
+public import Definitions.Def_PretorsionImageClosed_Length_Basic
+public import Definitions.Def_PretorsionImageClosed_Subobjects_Preimage
+public import Mathlib.CategoryTheory.Abelian.Exact
+public import Mathlib.CategoryTheory.Subobject.Limits
+public import Mathlib.Algebra.Homology.ShortComplex.Exact
+public import Definitions.Def_PretorsionImageClosed_Subcategories_Trace
+set_option autoImplicit true
+@[expose] public section
+public section
+set_option autoImplicit false
+noncomputable section
+open PretorsionImageClosed
+open CategoryTheory Limits Statement ZeroObject
+variable {C : Type*} [Category C] [Abelian C]
+open PretorsionImageClosed.Statement PretorsionImageClosed.Statement.Subcategory
+variable (T : Subcategory C) (X : C)
+variable (F : Subcategory C)
+variable {F X}
+
+theorem PretorsionImageClosed.Statement.Subcategory.prop_cokernel_kernelSubobject (hF : F.IsSubobjectClosed) {Y : C} (g : X ⟶ Y)
+    (hY : F.prop Y) : F.prop (cokernel (kernelSubobject g).arrow) := by sorry

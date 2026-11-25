@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitLemma_TwistUnit_trace___3993ddab228e
 -- name    : P2M_GlobalTheory_UnitLemma_TwistUnit_trace___3993ddab228e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:11:30.59549+00:00
 -- url     : https://prove2.me/theorems/28997ee4-0963-4ba5-981f-6437961dae69

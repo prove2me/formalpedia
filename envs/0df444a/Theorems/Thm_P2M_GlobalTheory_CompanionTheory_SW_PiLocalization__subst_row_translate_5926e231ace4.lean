@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__subst_row_translate_5926e231ace4
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_PiLocalization__subst_row_translate_5926e231ace4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:04:09.926152+00:00
 -- url     : https://prove2.me/theorems/c063f477-7525-4091-9b81-2a61b27d9c10

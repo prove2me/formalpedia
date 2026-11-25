@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_Coord_jetSubstP_trunc
 -- name    : GlobalTheory.ChartCmp.Coord.jetSubstP_trunc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:08:58.210504+00:00
 -- url     : https://prove2.me/theorems/ed5d0d9b-0921-4037-90c9-db029f0c7514

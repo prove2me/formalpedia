@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_SW_UnitRep_hform_smul_right__dc8b27524d6b
 -- name    : P2M_GlobalTheory_CompanionTheory_SW_UnitRep_hform_smul_right__dc8b27524d6b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:05:35.976475+00:00
 -- url     : https://prove2.me/theorems/378a9904-51ef-4c53-807a-bba266ecb94d

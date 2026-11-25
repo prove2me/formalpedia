@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx8_coord_es
 -- name    : Formalism.FourierDecayAlt.P.Qx8.coord_es
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:20:53.201266+00:00
 -- url     : https://prove2.me/theorems/98c71957-ae21-4524-be59-6d23c1b16301

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DVRQuotCount_card_quot_pow_smul_bounds
 -- name    : GlobalTheory.DVRQuotCount.card_quot_pow_smul_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T12:35:19.143085+00:00
 -- url     : https://prove2.me/theorems/68551c80-f4c2-4332-b383-cae5b7e8a255

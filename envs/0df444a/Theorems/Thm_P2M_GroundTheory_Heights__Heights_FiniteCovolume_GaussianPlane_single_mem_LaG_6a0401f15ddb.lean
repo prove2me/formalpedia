@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_single_mem_LaG_6a0401f15ddb
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_GaussianPlane_single_mem_LaG_6a0401f15ddb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:14:37.245839+00:00
 -- url     : https://prove2.me/theorems/731efef5-dda1-406c-977b-22cd1cb1b69b

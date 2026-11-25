@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LinSchurLatt_nhdsNE_neBot__3c322a3c9c48
 -- name    : P2M_GlobalTheory_LinSchurLatt_nhdsNE_neBot__3c322a3c9c48
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:06:33.269386+00:00
 -- url     : https://prove2.me/theorems/a66af166-6832-40d6-af3f-b61521817361

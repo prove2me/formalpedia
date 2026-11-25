@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_coverState_snd_ge_nine
 -- name    : SZ.coverState_snd_ge_nine
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:09:27.105421+00:00
 -- url     : https://prove2.me/theorems/398177b1-061c-4c31-80f0-16f0f6d4edc3

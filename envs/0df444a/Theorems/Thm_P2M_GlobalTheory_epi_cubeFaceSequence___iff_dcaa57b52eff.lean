@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_epi_cubeFaceSequence___iff_dcaa57b52eff
 -- name    : P2M_GlobalTheory_epi_cubeFaceSequence___iff_dcaa57b52eff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:11:59.963401+00:00
 -- url     : https://prove2.me/theorems/f5412003-96e5-4118-828a-4008f642f8cb

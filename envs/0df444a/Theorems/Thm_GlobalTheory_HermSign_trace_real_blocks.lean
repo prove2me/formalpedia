@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HermSign_trace_real_blocks
 -- name    : GlobalTheory.HermSign.trace_real_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:19:57.500876+00:00
 -- url     : https://prove2.me/theorems/1c815ccb-6bdc-40db-b14a-db8c3cce908c

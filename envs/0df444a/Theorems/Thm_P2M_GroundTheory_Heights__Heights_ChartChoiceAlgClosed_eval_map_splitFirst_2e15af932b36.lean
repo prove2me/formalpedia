@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartChoiceAlgClosed_eval_map_splitFirst_2e15af932b36
 -- name    : P2M_GroundTheory_Heights__Heights_ChartChoiceAlgClosed_eval_map_splitFirst_2e15af932b36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:17:55.094445+00:00
 -- url     : https://prove2.me/theorems/9ea8849b-d6ce-46d9-8115-7ef1224398e9

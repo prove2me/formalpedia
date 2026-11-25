@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_transfer_linear_local
 -- name    : Formalism.FourierDecayAlt.P.transfer_linear_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T15:11:19.583908+00:00
 -- url     : https://prove2.me/theorems/0f6a9dab-cc09-4725-b06e-fa9f99520bf0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitCocycle_lmul__eq_one_7cd501a29069
 -- name    : P2M_GlobalTheory_UnitCocycle_lmul__eq_one_7cd501a29069
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:11:32.022458+00:00
 -- url     : https://prove2.me/theorems/5d44ec90-8966-4750-b055-9f4467f0d6db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_UnitarySplit_cT_add__9947e56985ad
 -- name    : P2M_GlobalTheory_UnitarySplit_cT_add__9947e56985ad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:11:35.403029+00:00
 -- url     : https://prove2.me/theorems/3d1eab5d-de3d-4848-b0e2-cbeb5f17faf8

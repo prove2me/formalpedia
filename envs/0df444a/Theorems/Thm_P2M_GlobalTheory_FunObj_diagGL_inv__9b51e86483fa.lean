@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_FunObj_diagGL_inv__9b51e86483fa
 -- name    : P2M_GlobalTheory_FunObj_diagGL_inv__9b51e86483fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:06:14.227721+00:00
 -- url     : https://prove2.me/theorems/89ac7108-43db-44e5-83ce-52bc34405847

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_SchemeCoh_towerComp_comp_of_comm__9e39104e9438
 -- name    : P2M_GroundTheory_Arith_SchemeCoh_towerComp_comp_of_comm__9e39104e9438
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:12:50.776328+00:00
 -- url     : https://prove2.me/theorems/00566dcb-162b-4d22-a35b-aa891c1678a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_InertDoubling_cT_sub__36510c354772
 -- name    : P2M_GlobalTheory_CompanionTheory_InertDoubling_cT_sub__36510c354772
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:04:10.149591+00:00
 -- url     : https://prove2.me/theorems/bfe0b662-aff3-4d81-9ed6-c79365792209

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockTrdeg_isWeightedHomogeneous_rename_3526478ad33d
 -- name    : P2M_GroundTheory_Heights__Heights_BlockTrdeg_isWeightedHomogeneous_rename_3526478ad33d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:17:56.176265+00:00
 -- url     : https://prove2.me/theorems/a40e0ec7-4e7c-40bf-9431-892785941a76

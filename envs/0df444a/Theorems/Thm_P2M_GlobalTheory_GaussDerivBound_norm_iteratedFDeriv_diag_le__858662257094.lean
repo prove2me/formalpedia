@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_GaussDerivBound_norm_iteratedFDeriv_diag_le__858662257094
 -- name    : P2M_GlobalTheory_GaussDerivBound_norm_iteratedFDeriv_diag_le__858662257094
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:06:18.929329+00:00
 -- url     : https://prove2.me/theorems/7487643e-4048-4b3e-8e18-27628f7a0f8e

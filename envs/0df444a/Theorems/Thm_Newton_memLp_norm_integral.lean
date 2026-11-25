@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_memLp_norm_integral
 -- name    : Newton.memLp_norm_integral
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:12:03.237222+00:00
 -- url     : https://prove2.me/theorems/90e36625-9c54-4f3f-b665-05c9e5a4b4d1

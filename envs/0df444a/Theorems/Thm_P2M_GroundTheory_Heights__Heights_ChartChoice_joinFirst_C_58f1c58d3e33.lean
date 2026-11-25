@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartChoice_joinFirst_C_58f1c58d3e33
 -- name    : P2M_GroundTheory_Heights__Heights_ChartChoice_joinFirst_C_58f1c58d3e33
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:17:16.404198+00:00
 -- url     : https://prove2.me/theorems/f039cd82-61ac-459a-8c12-0e7ce098e1a9

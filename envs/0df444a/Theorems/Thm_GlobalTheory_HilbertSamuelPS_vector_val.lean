@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HilbertSamuelPS_vector_val
 -- name    : GlobalTheory.HilbertSamuelPS.vector_val
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T14:21:13.24824+00:00
 -- url     : https://prove2.me/theorems/58533399-cbe8-495a-ace7-7d496466a71d

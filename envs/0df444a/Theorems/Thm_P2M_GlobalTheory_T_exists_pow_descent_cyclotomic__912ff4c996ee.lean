@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_pow_descent_cyclotomic__912ff4c996ee
 -- name    : P2M_GlobalTheory_T_exists_pow_descent_cyclotomic__912ff4c996ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:19.305805+00:00
 -- url     : https://prove2.me/theorems/07a3ca24-5679-417b-96ee-04d377adb68d

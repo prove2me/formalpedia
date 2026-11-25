@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_splitTorus_hom_eq_one_of_no_cocharacter__c47c05e33d03
 -- name    : P2M_GlobalTheory_T_splitTorus_hom_eq_one_of_no_cocharacter__c47c05e33d03
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:11:23.483065+00:00
 -- url     : https://prove2.me/theorems/6c385239-0729-4315-8880-b44e39ff9abb

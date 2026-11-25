@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ConeImage_map_eval___93a91e452ef8
 -- name    : P2M_GlobalTheory_ConeImage_map_eval___93a91e452ef8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:04:59.542469+00:00
 -- url     : https://prove2.me/theorems/8b1c8cd7-d264-46a0-86fe-51a7a57bb2fe

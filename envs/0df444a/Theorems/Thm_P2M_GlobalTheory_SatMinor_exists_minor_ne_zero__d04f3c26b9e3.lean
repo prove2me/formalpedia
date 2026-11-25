@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SatMinor_exists_minor_ne_zero__d04f3c26b9e3
 -- name    : P2M_GlobalTheory_SatMinor_exists_minor_ne_zero__d04f3c26b9e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:08:50.009098+00:00
 -- url     : https://prove2.me/theorems/ffc3a253-8a2d-4dab-a685-32c0a2f8e3e3

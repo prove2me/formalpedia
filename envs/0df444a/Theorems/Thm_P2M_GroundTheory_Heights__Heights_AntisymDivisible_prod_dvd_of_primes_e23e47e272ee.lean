@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AntisymDivisible_prod_dvd_of_primes_e23e47e272ee
 -- name    : P2M_GroundTheory_Heights__Heights_AntisymDivisible_prod_dvd_of_primes_e23e47e272ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:15:24.661996+00:00
 -- url     : https://prove2.me/theorems/73e4bbf1-d535-402a-9dff-f72c41fc5c35

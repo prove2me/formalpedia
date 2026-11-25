@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_branchDigit_even
 -- name    : SZ.branchDigit_even
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:17:28.405888+00:00
 -- url     : https://prove2.me/theorems/ff0afbb9-e2c3-5ba2-bdd2-2473abf82781

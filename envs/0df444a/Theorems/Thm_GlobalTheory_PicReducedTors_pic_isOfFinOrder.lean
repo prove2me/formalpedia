@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PicReducedTors_pic_isOfFinOrder
 -- name    : GlobalTheory.PicReducedTors.pic_isOfFinOrder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:44:34.906531+00:00
 -- url     : https://prove2.me/theorems/d6a817e3-d8eb-4d8c-b335-1857a15f3881

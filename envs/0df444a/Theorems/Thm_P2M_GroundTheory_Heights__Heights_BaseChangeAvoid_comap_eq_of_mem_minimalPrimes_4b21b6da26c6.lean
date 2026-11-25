@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BaseChangeAvoid_comap_eq_of_mem_minimalPrimes_4b21b6da26c6
 -- name    : P2M_GroundTheory_Heights__Heights_BaseChangeAvoid_comap_eq_of_mem_minimalPrimes_4b21b6da26c6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:15:27.813894+00:00
 -- url     : https://prove2.me/theorems/9ecddc0a-5e41-453e-b324-95e0d5eb8cdc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_top_regBound
 -- name    : Formalism.FourierDecayAlt.P.B6.top_regBound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:05:35.063435+00:00
 -- url     : https://prove2.me/theorems/1d693023-ca44-4be3-a7c8-174b6f76930f

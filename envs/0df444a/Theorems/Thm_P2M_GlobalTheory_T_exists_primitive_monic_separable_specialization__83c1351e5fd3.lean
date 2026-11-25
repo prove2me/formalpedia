@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_primitive_monic_separable_specialization__83c1351e5fd3
 -- name    : P2M_GlobalTheory_T_exists_primitive_monic_separable_specialization__83c1351e5fd3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:09:34.879394+00:00
 -- url     : https://prove2.me/theorems/4c77b780-6fc3-421d-9d40-5a869a4bd1bb

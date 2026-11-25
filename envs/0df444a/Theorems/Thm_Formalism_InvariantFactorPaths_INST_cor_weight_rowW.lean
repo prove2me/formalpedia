@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_INST_cor_weight_rowW
 -- name    : Formalism.InvariantFactorPaths.INST.cor_weight_rowW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:58:29.677819+00:00
 -- url     : https://prove2.me/theorems/01794c05-bff5-5d08-a261-814888e3f07e

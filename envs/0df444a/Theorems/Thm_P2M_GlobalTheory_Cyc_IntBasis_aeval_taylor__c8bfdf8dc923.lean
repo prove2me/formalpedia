@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Cyc_IntBasis_aeval_taylor__c8bfdf8dc923
 -- name    : P2M_GlobalTheory_Cyc_IntBasis_aeval_taylor__c8bfdf8dc923
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:07:01.819068+00:00
 -- url     : https://prove2.me/theorems/40813070-4ed0-48ff-9a45-75018ccd59c8

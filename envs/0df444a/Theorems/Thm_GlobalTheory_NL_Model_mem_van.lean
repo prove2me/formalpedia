@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NL_Model_mem_van
 -- name    : GlobalTheory.NL.Model.mem_van
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:09:31.060528+00:00
 -- url     : https://prove2.me/theorems/40d52952-6286-40da-9fad-a3051aba1811

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_cohOn_finrank__zero_le_97f092806451
 -- name    : P2M_GlobalTheory_cohOn_finrank__zero_le_97f092806451
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:11:51.138364+00:00
 -- url     : https://prove2.me/theorems/89c6e729-a6b7-4809-a8d9-59e22d7a1090

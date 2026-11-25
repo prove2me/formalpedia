@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_exists_ne_zero_algebraMap_eq_mul_of_formallyUnramified__2991a8b24817
 -- name    : P2M_GlobalTheory_T_exists_ne_zero_algebraMap_eq_mul_of_formallyUnramified__2991a8b24817
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:10:00.895125+00:00
 -- url     : https://prove2.me/theorems/d07ed945-bbca-4138-a7c0-4a7d0083328b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Automorphic_prodExpVal_zero__e9258f5d17f4
 -- name    : P2M_GroundTheory_Automorphic_prodExpVal_zero__e9258f5d17f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:12:39.915961+00:00
 -- url     : https://prove2.me/theorems/fbb9c041-7cbf-48cf-83b5-4f8f2ecbf78c

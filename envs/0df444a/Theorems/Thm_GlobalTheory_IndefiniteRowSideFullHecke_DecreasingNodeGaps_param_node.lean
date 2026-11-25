@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndefiniteRowSideFullHecke_DecreasingNodeGaps_param_node
 -- name    : GlobalTheory.IndefiniteRowSideFullHecke.DecreasingNodeGaps.param_node
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:12:02.374525+00:00
 -- url     : https://prove2.me/theorems/abab8cf5-2b3a-5c6e-a32b-985a47410e09

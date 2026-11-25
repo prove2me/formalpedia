@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaLinear_sqrt_det_adjoint_comp_eq_normDet_0d5987244845
 -- name    : P2M_GroundTheory_Heights__Heights_AreaLinear_sqrt_det_adjoint_comp_eq_normDet_0d5987244845
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:15:33.66343+00:00
 -- url     : https://prove2.me/theorems/23aa1896-d68d-4f7a-9290-af02c13bd4c2

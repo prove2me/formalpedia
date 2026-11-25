@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BadShare_samePart_roots_finite_ncard
 -- name    : GlobalTheory.BadShare.samePart_roots_finite_ncard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:52:44.761432+00:00
 -- url     : https://prove2.me/theorems/251c1fad-b214-5c14-b7c6-4697d2ebec38

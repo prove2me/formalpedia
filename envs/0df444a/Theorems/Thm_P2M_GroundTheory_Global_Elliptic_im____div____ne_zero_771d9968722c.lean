@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Global_Elliptic_im____div____ne_zero_771d9968722c
 -- name    : P2M_GroundTheory_Global_Elliptic_im____div____ne_zero_771d9968722c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:14:18.247099+00:00
 -- url     : https://prove2.me/theorems/87459530-faf8-4384-9a35-cf56e6dc0e9e

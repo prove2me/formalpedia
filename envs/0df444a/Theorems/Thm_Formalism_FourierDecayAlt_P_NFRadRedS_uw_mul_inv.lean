@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_NFRadRedS_uw_mul_inv
 -- name    : Formalism.FourierDecayAlt.P.NFRadRedS.uw_mul_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:14:23.397417+00:00
 -- url     : https://prove2.me/theorems/a6380300-41fa-5dee-a99f-88c77d771d8d

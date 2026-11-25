@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_T_isNilpotent_residue_toMatrix_mulLeft__dcffb2968fa7
 -- name    : P2M_GlobalTheory_T_isNilpotent_residue_toMatrix_mulLeft__dcffb2968fa7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:10:26.973247+00:00
 -- url     : https://prove2.me/theorems/087c0eee-b212-4b40-a94b-1615bbf4bc31

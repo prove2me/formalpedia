@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_NoetherInt_quasiFinite_of_eval__eq_zero_2e2ddb8bdce6
 -- name    : P2M_GlobalTheory_NoetherInt_quasiFinite_of_eval__eq_zero_2e2ddb8bdce6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:07:04.189351+00:00
 -- url     : https://prove2.me/theorems/a1d3b7dc-6ee5-47a1-9031-04e1232d3665

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIntCountAdd_hasSum_sheetSum_5ea7d9e12fbf
 -- name    : P2M_GroundTheory_Heights__Heights_ChartIntCountAdd_hasSum_sheetSum_5ea7d9e12fbf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:28:18.942438+00:00
 -- url     : https://prove2.me/theorems/25374c10-a4c7-4d0e-955d-b4df1d4fcb67

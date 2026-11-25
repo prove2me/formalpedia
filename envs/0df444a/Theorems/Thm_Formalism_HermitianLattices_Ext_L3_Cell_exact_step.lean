@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_exact_step
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.exact_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:28:22.265178+00:00
 -- url     : https://prove2.me/theorems/58474c16-036d-50af-9cdb-64fb339c9bd4

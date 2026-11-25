@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SiteCoh_equiv__terminalEquiv_79b4d00cc8cf
 -- name    : P2M_GlobalTheory_SiteCoh_equiv__terminalEquiv_79b4d00cc8cf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:08:56.437372+00:00
 -- url     : https://prove2.me/theorems/5abe2175-b663-41c1-80ff-da7aa2afe136

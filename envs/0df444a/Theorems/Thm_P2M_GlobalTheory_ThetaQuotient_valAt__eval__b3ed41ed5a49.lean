@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_ThetaQuotient_valAt__eval__b3ed41ed5a49
 -- name    : P2M_GlobalTheory_ThetaQuotient_valAt__eval__b3ed41ed5a49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:11:22.417334+00:00
 -- url     : https://prove2.me/theorems/a120995f-4ed0-4de5-8d22-03a978c3bfe3

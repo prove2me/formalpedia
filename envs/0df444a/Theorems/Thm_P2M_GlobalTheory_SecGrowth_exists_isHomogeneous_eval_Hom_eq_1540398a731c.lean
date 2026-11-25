@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SecGrowth_exists_isHomogeneous_eval_Hom_eq_1540398a731c
 -- name    : P2M_GlobalTheory_SecGrowth_exists_isHomogeneous_eval_Hom_eq_1540398a731c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:09:27.528931+00:00
 -- url     : https://prove2.me/theorems/49c28623-dc0b-4d56-8c1f-af2571d2c158

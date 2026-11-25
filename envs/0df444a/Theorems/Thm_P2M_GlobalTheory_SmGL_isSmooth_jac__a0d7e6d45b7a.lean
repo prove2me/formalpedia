@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SmGL_isSmooth_jac__a0d7e6d45b7a
 -- name    : P2M_GlobalTheory_SmGL_isSmooth_jac__a0d7e6d45b7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:08:55.557244+00:00
 -- url     : https://prove2.me/theorems/8a34c28e-d20c-4587-b040-4b402bb570f6

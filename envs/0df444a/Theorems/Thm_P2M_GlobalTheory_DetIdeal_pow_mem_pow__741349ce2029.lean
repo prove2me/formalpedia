@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_DetIdeal_pow_mem_pow__741349ce2029
 -- name    : P2M_GlobalTheory_DetIdeal_pow_mem_pow__741349ce2029
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:05:27.995695+00:00
 -- url     : https://prove2.me/theorems/a678aaa9-818d-44db-8a42-cceab38a24d9

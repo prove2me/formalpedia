@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_FoldPermutation_dofN_vf
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.FoldPermutation.dofN_vf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:52:50.934056+00:00
 -- url     : https://prove2.me/theorems/a67edfb4-38d5-4657-a955-b37721404098

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_SW_ExpSum_line__e28282a1a7ca
 -- name    : P2M_GlobalTheory_SW_ExpSum_line__e28282a1a7ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:08:53.669516+00:00
 -- url     : https://prove2.me/theorems/10f71352-493c-4af3-bead-61195068274d

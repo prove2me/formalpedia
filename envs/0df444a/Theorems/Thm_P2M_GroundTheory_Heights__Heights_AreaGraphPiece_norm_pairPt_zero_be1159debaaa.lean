@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AreaGraphPiece_norm_pairPt_zero_be1159debaaa
 -- name    : P2M_GroundTheory_Heights__Heights_AreaGraphPiece_norm_pairPt_zero_be1159debaaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:15:55.234009+00:00
 -- url     : https://prove2.me/theorems/68055278-cae6-469d-be9e-8c327c318db4

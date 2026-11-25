@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Frames_ChgOf_spMap_id__05da0a6ac2da
 -- name    : P2M_GlobalTheory_Frames_ChgOf_spMap_id__05da0a6ac2da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:05:51.17183+00:00
 -- url     : https://prove2.me/theorems/2b8feb75-4a7d-4b33-a030-9a44bf69d5cc

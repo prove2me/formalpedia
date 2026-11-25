@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartDensityIntegrableAlt_re_star_dotProduct_self_cd96284eeba4
 -- name    : P2M_GroundTheory_Heights__Heights_ChartDensityIntegrableAlt_re_star_dotProduct_self_cd96284eeba4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:18:40.524497+00:00
 -- url     : https://prove2.me/theorems/98e6fc88-2fa2-4ebf-9f02-58ed5c6d3c00

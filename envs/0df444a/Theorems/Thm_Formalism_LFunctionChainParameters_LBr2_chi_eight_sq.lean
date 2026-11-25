@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_chi_eight_sq
 -- name    : Formalism.LFunctionChainParameters.LBr2.chi_eight_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:50:24.937864+00:00
 -- url     : https://prove2.me/theorems/2daa1ef9-9322-4c77-bcd9-674f963c3c18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartGram_det_eq_corner_mul_schur_1edb5dadec12
 -- name    : P2M_GroundTheory_Heights__Heights_ChartGram_det_eq_corner_mul_schur_1edb5dadec12
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:18:32.034731+00:00
 -- url     : https://prove2.me/theorems/522854a0-b8a7-4e06-be2e-2a66c7e6aee4

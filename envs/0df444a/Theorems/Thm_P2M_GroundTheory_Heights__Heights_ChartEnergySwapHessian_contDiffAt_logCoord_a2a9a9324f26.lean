@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_contDiffAt_logCoord_a2a9a9324f26
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySwapHessian_contDiffAt_logCoord_a2a9a9324f26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:23:26.403488+00:00
 -- url     : https://prove2.me/theorems/e0663ca8-ad83-4510-acae-2c09c7164aab

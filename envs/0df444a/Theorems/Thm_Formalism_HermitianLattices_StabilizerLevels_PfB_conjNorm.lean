@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_StabilizerLevels_PfB_conjNorm
 -- name    : Formalism.HermitianLattices.StabilizerLevels.PfB.conjNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:15:11.63256+00:00
 -- url     : https://prove2.me/theorems/003de350-eada-4e5c-b6c4-a570e512f8f3

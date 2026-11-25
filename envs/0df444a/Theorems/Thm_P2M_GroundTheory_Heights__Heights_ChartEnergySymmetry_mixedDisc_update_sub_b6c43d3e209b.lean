@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartEnergySymmetry_mixedDisc_update_sub_b6c43d3e209b
 -- name    : P2M_GroundTheory_Heights__Heights_ChartEnergySymmetry_mixedDisc_update_sub_b6c43d3e209b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:19:29.702673+00:00
 -- url     : https://prove2.me/theorems/1bb8d5d5-ecdd-4f20-825b-683c733c5432

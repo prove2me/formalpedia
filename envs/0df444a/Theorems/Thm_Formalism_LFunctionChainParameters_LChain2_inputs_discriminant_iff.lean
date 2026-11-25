@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_inputs_discriminant_iff
 -- name    : Formalism.LFunctionChainParameters.LChain2.inputs_discriminant_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:06:40.379086+00:00
 -- url     : https://prove2.me/theorems/a4b7542a-c605-4204-af06-2cd3fe320dba

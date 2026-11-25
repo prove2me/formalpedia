@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_additive
 -- name    : SNumbers.gelfandNumber_additive
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:24:51.173624+00:00
 -- url     : https://prove2.me/theorems/bf439308-e004-4ee0-86be-59dc47b5cb80

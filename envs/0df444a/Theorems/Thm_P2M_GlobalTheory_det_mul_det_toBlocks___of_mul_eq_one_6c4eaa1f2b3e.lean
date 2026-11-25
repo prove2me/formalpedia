@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_det_mul_det_toBlocks___of_mul_eq_one_6c4eaa1f2b3e
 -- name    : P2M_GlobalTheory_det_mul_det_toBlocks___of_mul_eq_one_6c4eaa1f2b3e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:12:11.655425+00:00
 -- url     : https://prove2.me/theorems/1acf2e84-bb1a-4046-b11e-5709b13b3324

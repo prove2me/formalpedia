@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_QuantumDeterminants_weylRel_end
 -- name    : Formalism.QuantumDeterminants.weylRel_end
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T11:47:16.945991+00:00
 -- url     : https://prove2.me/theorems/6e27a096-72e2-4e19-9ac8-f8cd542d4255

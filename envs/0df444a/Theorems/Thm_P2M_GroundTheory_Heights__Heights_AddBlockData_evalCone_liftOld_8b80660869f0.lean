@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AddBlockData_evalCone_liftOld_8b80660869f0
 -- name    : P2M_GroundTheory_Heights__Heights_AddBlockData_evalCone_liftOld_8b80660869f0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:15:39.944734+00:00
 -- url     : https://prove2.me/theorems/a0e2239e-5782-4846-ac39-e2c65c99003d

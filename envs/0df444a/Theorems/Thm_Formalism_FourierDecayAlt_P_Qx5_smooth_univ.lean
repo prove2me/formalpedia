@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_smooth_univ
 -- name    : Formalism.FourierDecayAlt.P.Qx5.smooth_univ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:49:12.866046+00:00
 -- url     : https://prove2.me/theorems/a8186703-103f-4e5c-a52e-f1a7ad742a44

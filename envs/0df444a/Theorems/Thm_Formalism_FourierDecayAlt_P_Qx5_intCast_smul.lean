@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Qx5_intCast_smul
 -- name    : Formalism.FourierDecayAlt.P.Qx5.intCast_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:53:18.700622+00:00
 -- url     : https://prove2.me/theorems/2d27a7e5-08b1-4e60-b940-2d6a797f81f6

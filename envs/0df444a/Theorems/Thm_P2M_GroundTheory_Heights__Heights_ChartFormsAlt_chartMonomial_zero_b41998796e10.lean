@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartFormsAlt_chartMonomial_zero_b41998796e10
 -- name    : P2M_GroundTheory_Heights__Heights_ChartFormsAlt_chartMonomial_zero_b41998796e10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:18:35.663301+00:00
 -- url     : https://prove2.me/theorems/6570a1fc-4c63-4f74-a8f7-c75a5fa8a747

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_BilAdd_hasSubst_pts
 -- name    : GlobalTheory.ChartCmp.BilAdd.hasSubst_pts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:24:28.946302+00:00
 -- url     : https://prove2.me/theorems/6d289a94-1d7f-5940-874e-242c5154df02
