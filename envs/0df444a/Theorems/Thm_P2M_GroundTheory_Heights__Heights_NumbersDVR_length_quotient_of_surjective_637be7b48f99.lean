@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_length_quotient_of_surjective_637be7b48f99
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_length_quotient_of_surjective_637be7b48f99
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:17:52.081279+00:00
 -- url     : https://prove2.me/theorems/17c5c066-129d-5733-b9bc-d749ed50175b

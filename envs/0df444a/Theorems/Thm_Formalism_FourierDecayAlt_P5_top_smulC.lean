@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_top_smulC
 -- name    : Formalism.FourierDecayAlt.P5.top_smulC
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:56:49.141351+00:00
 -- url     : https://prove2.me/theorems/a201963e-03b3-4bee-9519-cee2fbcf0735

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HessCCompPluri_proof_738153eeeb36
 -- name    : P2M_GroundTheory_Heights__Heights_HessCCompPluri_proof_738153eeeb36
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:55:31.336449+00:00
 -- url     : https://prove2.me/theorems/583b373b-8e1f-4f75-8d19-3b1bed75d30c

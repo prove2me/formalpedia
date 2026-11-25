@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_compHom_tower
 -- name    : GlobalTheory.CompanionTheory.CotLoc.compHom_tower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:59:06.042793+00:00
 -- url     : https://prove2.me/theorems/4c828d54-ed59-4917-8b42-cc2862bcefdd

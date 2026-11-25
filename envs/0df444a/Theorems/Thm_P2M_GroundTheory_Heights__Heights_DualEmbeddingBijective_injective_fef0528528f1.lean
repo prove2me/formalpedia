@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualEmbeddingBijective_injective_fef0528528f1
 -- name    : P2M_GroundTheory_Heights__Heights_DualEmbeddingBijective_injective_fef0528528f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:20.645898+00:00
 -- url     : https://prove2.me/theorems/3c3a8857-9980-4df5-94c2-e88c994f9ecd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_stepE_of
 -- name    : Formalism.MainNotions.PlaneGram.stepE_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:48:06.607838+00:00
 -- url     : https://prove2.me/theorems/d1817242-e8cb-42b2-a209-e1e0a703601f

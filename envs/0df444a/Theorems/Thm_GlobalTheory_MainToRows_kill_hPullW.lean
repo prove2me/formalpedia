@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainToRows_kill_hPullW
 -- name    : GlobalTheory.MainToRows.kill_hPullW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:25:36.47642+00:00
 -- url     : https://prove2.me/theorems/5182b8e9-d199-425b-847c-bc90248d121e

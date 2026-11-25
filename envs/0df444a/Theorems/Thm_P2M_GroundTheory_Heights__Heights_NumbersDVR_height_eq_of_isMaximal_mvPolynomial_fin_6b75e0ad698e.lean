@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_height_eq_of_isMaximal_mvPolynomial_fin_6b75e0ad698e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_height_eq_of_isMaximal_mvPolynomial_fin_6b75e0ad698e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:10:41.625453+00:00
 -- url     : https://prove2.me/theorems/504631b5-259c-45d2-a8dd-96d4b6186386

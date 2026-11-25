@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_blockDeg_component_mem_56f385ad8a51
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_blockDeg_component_mem_56f385ad8a51
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:57.159621+00:00
 -- url     : https://prove2.me/theorems/892f0c90-8e00-4a66-a48d-61f357acf8ab

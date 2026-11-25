@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_step_exists_gt_commutators_le
 -- name    : GlobalTheory.BrauerZero.step_exists_gt_commutators_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:59:33.30045+00:00
 -- url     : https://prove2.me/theorems/6b693ebe-2354-4d1a-a7c5-91c886429f34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootGridLower_of_pos_62bab9c7db63
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_RootGridLower_of_pos_62bab9c7db63
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:51.627881+00:00
 -- url     : https://prove2.me/theorems/af60bdd2-32c5-55ce-957b-d58e5f0e28f0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_abs_weight_sub_le
 -- name    : GroundTheory.Automorphic.Sobolev.abs_weight_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:12:57.636227+00:00
 -- url     : https://prove2.me/theorems/54baf599-5cd9-5bef-91c2-e813db928671

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointFlagModel_fnField_join_e0160102ab7a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointFlagModel_fnField_join_e0160102ab7a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:07:36.890717+00:00
 -- url     : https://prove2.me/theorems/b2c35469-14af-4a07-8def-09b2180d5688

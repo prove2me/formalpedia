@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isFlagFrame_scaledTriv_9910a8ec665d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isFlagFrame_scaledTriv_9910a8ec665d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:11:28.386799+00:00
 -- url     : https://prove2.me/theorems/2a244fdf-79d2-45d6-accd-492c91395de4

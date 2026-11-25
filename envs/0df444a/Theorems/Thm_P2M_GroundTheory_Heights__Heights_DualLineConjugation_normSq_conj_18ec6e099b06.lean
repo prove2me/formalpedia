@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualLineConjugation_normSq_conj_18ec6e099b06
 -- name    : P2M_GroundTheory_Heights__Heights_DualLineConjugation_normSq_conj_18ec6e099b06
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:22.019968+00:00
 -- url     : https://prove2.me/theorems/9c646961-fc8d-4788-91e1-554168679dc1

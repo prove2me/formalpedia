@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_squarefree_detForm_5f14a536d456
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ArithBezout_squarefree_detForm_5f14a536d456
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:23:57.610969+00:00
 -- url     : https://prove2.me/theorems/83ea7a9e-3b01-5542-a181-20a56ed50fc7

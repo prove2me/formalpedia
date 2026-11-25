@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sectionComponents_preimage_of_isPullback
 -- name    : GlobalTheory.sectionComponents_preimage_of_isPullback
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:20:58.875961+00:00
 -- url     : https://prove2.me/theorems/29e8f913-18a1-4b85-b7c6-5c6e1d8e0c40

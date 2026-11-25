@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingNoetherian_component_form_mul_76a1836436b5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingNoetherian_component_form_mul_76a1836436b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:13:12.579592+00:00
 -- url     : https://prove2.me/theorems/1d99a732-2b8b-563f-8006-5a993d9862e6

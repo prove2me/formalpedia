@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_entire_eq_of_eq_on_reals
 -- name    : GlobalTheory.entire_eq_of_eq_on_reals
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:02:59.38389+00:00
 -- url     : https://prove2.me/theorems/2ae89b03-13c3-476e-9084-79769d4f51d8

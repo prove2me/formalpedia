@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericFreeness_IsGenericallyFree_of_injective_29d662892878
 -- name    : P2M_GroundTheory_Heights__Heights_GenericFreeness_IsGenericallyFree_of_injective_29d662892878
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:46.52298+00:00
 -- url     : https://prove2.me/theorems/5c8baa5d-da03-4f7b-b4ce-7d44e15c0cb1

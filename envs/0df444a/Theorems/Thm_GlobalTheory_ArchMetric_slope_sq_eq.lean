@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_slope_sq_eq
 -- name    : GlobalTheory.ArchMetric.slope_sq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:57:02.997704+00:00
 -- url     : https://prove2.me/theorems/35432094-9f19-5f57-96fa-36f2640d241e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_InvDerivDecay_proof_df326dbb8b19
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_InvDerivDecay_proof_df326dbb8b19
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:32.539776+00:00
 -- url     : https://prove2.me/theorems/46909a7b-4ef1-50fe-aa88-4602c61ba7eb

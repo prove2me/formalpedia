@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_int_coords_of_regular_param
 -- name    : GlobalTheory.exists_int_coords_of_regular_param
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:01:57.889632+00:00
 -- url     : https://prove2.me/theorems/e6a7eafd-23b9-4029-971d-03064b2bb9d9

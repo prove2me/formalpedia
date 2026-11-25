@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_finite_setOf_weight_blockWeight_eq_d003e8a029f8
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_finite_setOf_weight_blockWeight_eq_d003e8a029f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:10:39.751016+00:00
 -- url     : https://prove2.me/theorems/f8fe66c9-b1a6-4cdd-bd59-4b093c9808b2

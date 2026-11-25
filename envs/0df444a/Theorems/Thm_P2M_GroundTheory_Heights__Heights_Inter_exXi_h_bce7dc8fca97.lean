@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_exXi_h_bce7dc8fca97
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_exXi_h_bce7dc8fca97
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:50.731401+00:00
 -- url     : https://prove2.me/theorems/5a95c89d-766b-4b9b-9599-dc712250d7fe

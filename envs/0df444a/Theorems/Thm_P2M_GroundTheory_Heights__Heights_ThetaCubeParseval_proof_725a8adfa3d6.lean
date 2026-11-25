@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ThetaCubeParseval_proof_725a8adfa3d6
 -- name    : P2M_GroundTheory_Heights__Heights_ThetaCubeParseval_proof_725a8adfa3d6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:50.751947+00:00
 -- url     : https://prove2.me/theorems/83b347ce-6b70-497e-828d-bd6ab7dfbc96

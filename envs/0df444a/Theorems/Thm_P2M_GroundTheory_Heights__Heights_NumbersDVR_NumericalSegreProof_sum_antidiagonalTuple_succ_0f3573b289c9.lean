@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_sum_antidiagonalTuple_succ_0f3573b289c9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_sum_antidiagonalTuple_succ_0f3573b289c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:09:37.303962+00:00
 -- url     : https://prove2.me/theorems/fa19f2df-2dcd-4d80-91f0-72e216f87cd2

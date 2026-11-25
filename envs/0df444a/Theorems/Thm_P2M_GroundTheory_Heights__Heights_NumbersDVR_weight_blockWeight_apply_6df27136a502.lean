@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_weight_blockWeight_apply_6df27136a502
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_weight_blockWeight_apply_6df27136a502
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:12:40.456041+00:00
 -- url     : https://prove2.me/theorems/52e2cfd4-2a3a-414d-afc1-70d5d342e553

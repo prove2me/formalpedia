@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LChain2_standard_lattice_semistable
 -- name    : Formalism.LFunctionChainParameters.LChain2.standard_lattice_semistable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:51:39.406787+00:00
 -- url     : https://prove2.me/theorems/8de322aa-dc41-4f4d-b113-aa31ce9a7836

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_idem_notMem_FilV_one
 -- name    : GlobalTheory.DRFil.idem_notMem_FilV_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:35:45.458698+00:00
 -- url     : https://prove2.me/theorems/2cad64fe-6c0d-416a-8717-031f82b7364a

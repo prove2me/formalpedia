@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_newVar_not_mem_blowUpOf_60e69689759f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_newVar_not_mem_blowUpOf_60e69689759f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:12:39.206332+00:00
 -- url     : https://prove2.me/theorems/7432b87c-1667-489c-9462-6d189db085a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LatticeGens_card_map_mkQ
 -- name    : GlobalTheory.Mass.LatticeGens.card_map_mkQ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:59:40.932878+00:00
 -- url     : https://prove2.me/theorems/426ad42c-a040-56ab-ba8b-5f4c59a714b7

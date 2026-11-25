@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_setIntegral_circle_smul_19f89149fa7e
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_setIntegral_circle_smul_19f89149fa7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:20:05.017339+00:00
 -- url     : https://prove2.me/theorems/6a789770-08a7-485f-abfd-3b2a0e77a159

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_euclidNorm_pi_single_one
 -- name    : GroundTheory.Automorphic.Reduction.euclidNorm_pi_single_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:04:23.323689+00:00
 -- url     : https://prove2.me/theorems/7cfc911c-bdd7-4b63-b21b-59dbe553e642

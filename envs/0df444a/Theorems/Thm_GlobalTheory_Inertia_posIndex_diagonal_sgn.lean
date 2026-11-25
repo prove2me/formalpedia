@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Inertia_posIndex_diagonal_sgn
 -- name    : GlobalTheory.Inertia.posIndex_diagonal_sgn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T17:23:14.82008+00:00
 -- url     : https://prove2.me/theorems/4859d29c-6b47-4c87-8a19-153858357857

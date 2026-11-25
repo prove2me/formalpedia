@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_chartLength_quotient_self_e2208786fc77
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_chartLength_quotient_self_e2208786fc77
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:10:46.932903+00:00
 -- url     : https://prove2.me/theorems/ba6ecff9-66d5-4329-82d1-475fd230dfbb

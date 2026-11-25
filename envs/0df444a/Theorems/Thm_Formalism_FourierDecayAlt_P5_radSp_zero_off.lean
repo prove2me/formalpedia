@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_radSp_zero_off
 -- name    : Formalism.FourierDecayAlt.P5.radSp_zero_off
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:09:38.733421+00:00
 -- url     : https://prove2.me/theorems/fb55ba01-225f-458f-9519-880d1c7e1fd9

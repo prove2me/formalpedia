@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerInhabit_line_prime_pair_30334369fc3b
 -- name    : P2M_GroundTheory_Heights__Heights_MahlerInhabit_line_prime_pair_30334369fc3b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:47:55.862205+00:00
 -- url     : https://prove2.me/theorems/ecb8d62a-c50f-5328-b55e-e2feb4d462e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_smul_iSup
 -- name    : GlobalTheory.DegMove.smul_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:00:01.676681+00:00
 -- url     : https://prove2.me/theorems/1b181cad-3bc7-41e6-b9cd-c4a3e5debfd9

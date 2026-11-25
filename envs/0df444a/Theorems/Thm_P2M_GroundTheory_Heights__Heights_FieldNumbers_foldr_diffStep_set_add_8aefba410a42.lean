@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_foldr_diffStep_set_add_8aefba410a42
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_foldr_diffStep_set_add_8aefba410a42
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:18:31.708732+00:00
 -- url     : https://prove2.me/theorems/9a190651-564d-5856-b38d-5f7fa5533332

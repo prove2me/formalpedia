@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesLineDegree_proof_b34aa47f42dc
 -- name    : P2M_GroundTheory_Heights__Heights_LinesLineDegree_proof_b34aa47f42dc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:18:12.604388+00:00
 -- url     : https://prove2.me/theorems/722b0687-2f80-40cb-8f7c-9b140b6a2783

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_snocMeasurableEquiv_apply
 -- name    : GlobalTheory.snocMeasurableEquiv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:02:13.991143+00:00
 -- url     : https://prove2.me/theorems/a4d93923-e7a6-4fb9-a171-d36cf347e0a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_ord_mul_length_4198e6736b99
 -- name    : P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_ord_mul_length_4198e6736b99
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:01.898516+00:00
 -- url     : https://prove2.me/theorems/d0d9e941-bf8e-4912-b4eb-e4574c214624

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_divCycle_support_finite_d90d2125fc12
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_divCycle_support_finite_d90d2125fc12
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:16:28.224611+00:00
 -- url     : https://prove2.me/theorems/e050d918-cea4-5dea-9923-9101f61f8979

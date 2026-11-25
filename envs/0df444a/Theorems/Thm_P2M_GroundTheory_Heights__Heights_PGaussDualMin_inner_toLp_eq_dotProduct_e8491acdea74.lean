@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussDualMin_inner_toLp_eq_dotProduct_e8491acdea74
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussDualMin_inner_toLp_eq_dotProduct_e8491acdea74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:57.635751+00:00
 -- url     : https://prove2.me/theorems/5fa700d7-9b13-4659-9690-bf1f58ddfb58

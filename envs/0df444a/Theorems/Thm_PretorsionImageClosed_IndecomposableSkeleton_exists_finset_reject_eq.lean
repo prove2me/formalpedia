@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_exists_finset_reject_eq
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.exists_finset_reject_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:17:57.908513+00:00
 -- url     : https://prove2.me/theorems/6c40bddf-956a-4fa1-a88d-33c8fd6cbd15

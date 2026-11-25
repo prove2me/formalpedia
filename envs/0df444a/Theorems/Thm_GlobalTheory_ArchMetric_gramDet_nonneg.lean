@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_gramDet_nonneg
 -- name    : GlobalTheory.ArchMetric.gramDet_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:57:07.635643+00:00
 -- url     : https://prove2.me/theorems/c6a28bc0-1e3b-4872-886f-5f63d1488ad6

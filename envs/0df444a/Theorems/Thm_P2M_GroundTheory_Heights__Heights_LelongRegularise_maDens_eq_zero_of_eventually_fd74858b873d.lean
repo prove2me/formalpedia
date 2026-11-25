@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LelongRegularise_maDens_eq_zero_of_eventually_fd74858b873d
 -- name    : P2M_GroundTheory_Heights__Heights_LelongRegularise_maDens_eq_zero_of_eventually_fd74858b873d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:28:48.595521+00:00
 -- url     : https://prove2.me/theorems/ab8fe5bf-0ff1-4a53-a7e8-3b32fab238d0

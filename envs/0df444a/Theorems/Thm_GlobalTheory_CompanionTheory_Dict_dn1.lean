@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dict_dn1
 -- name    : GlobalTheory.CompanionTheory.Dict.dn1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:58:50.546842+00:00
 -- url     : https://prove2.me/theorems/44651a63-214e-432a-a795-201e9aff55ae

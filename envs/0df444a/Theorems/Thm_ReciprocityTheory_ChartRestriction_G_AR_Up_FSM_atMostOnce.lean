@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_FSM_atMostOnce
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.FSM.atMostOnce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:08:15.204316+00:00
 -- url     : https://prove2.me/theorems/31140f57-72b0-4fd8-ae62-da3dbf25253a

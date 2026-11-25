@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_Hodge_Pf_AXO_composite_restriction_pull_injective
 -- name    : MainStatements.Hodge.Pf.AXO.composite_restriction_pull_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:00:01.546259+00:00
 -- url     : https://prove2.me/theorems/0d1b8ff1-8316-41cd-bef4-eef4ac99d4f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitConjSum_mem_orbitIdeal_of_homog_7800250f67a6
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitConjSum_mem_orbitIdeal_of_homog_7800250f67a6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:16.18415+00:00
 -- url     : https://prove2.me/theorems/997edd0c-f17b-45ad-bb10-b9e704ba739e

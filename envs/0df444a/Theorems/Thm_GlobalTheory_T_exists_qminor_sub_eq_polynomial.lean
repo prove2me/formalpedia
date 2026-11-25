@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_qminor_sub_eq_polynomial
 -- name    : GlobalTheory.T.exists_qminor_sub_eq_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:15.9118+00:00
 -- url     : https://prove2.me/theorems/a7d3d3c8-af47-5480-911c-5fb21bb5d2ae

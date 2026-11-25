@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_herm_lift
 -- name    : PI.QnLevBasicsW.herm_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T14:08:00.664993+00:00
 -- url     : https://prove2.me/theorems/c4d2f737-25ac-4533-91e2-31a18b739aab

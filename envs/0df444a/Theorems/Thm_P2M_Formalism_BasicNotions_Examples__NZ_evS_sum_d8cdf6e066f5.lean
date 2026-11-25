@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_evS_sum_d8cdf6e066f5
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_evS_sum_d8cdf6e066f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:56:42.442371+00:00
 -- url     : https://prove2.me/theorems/179f7aa9-5a5a-5ade-8517-da827117e9d2

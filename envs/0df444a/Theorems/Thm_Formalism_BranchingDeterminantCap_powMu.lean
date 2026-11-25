@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_powMu
 -- name    : Formalism.BranchingDeterminantCap.powMu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:26:16.740033+00:00
 -- url     : https://prove2.me/theorems/eb7388a9-3d2e-418d-82f9-413f76df3db7

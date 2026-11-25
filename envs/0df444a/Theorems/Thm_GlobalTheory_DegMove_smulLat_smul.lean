@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_smulLat_smul
 -- name    : GlobalTheory.DegMove.smulLat_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:53:55.163329+00:00
 -- url     : https://prove2.me/theorems/575b3322-75c3-4325-9fe4-698370989bf6

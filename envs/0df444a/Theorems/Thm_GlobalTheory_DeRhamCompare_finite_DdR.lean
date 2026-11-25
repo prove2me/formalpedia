@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeRhamCompare_finite_DdR
 -- name    : GlobalTheory.DeRhamCompare.finite_DdR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:37.712234+00:00
 -- url     : https://prove2.me/theorems/83a8090c-6664-4a5b-9e3a-878010095a83

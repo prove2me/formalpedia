@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_h2IntAddEquiv_symm_apply_eq_H2_class
 -- name    : GroundTheory.GroupCoh.h2IntAddEquiv_symm_apply_eq_H2_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:59.755419+00:00
 -- url     : https://prove2.me/theorems/b68f2ddc-3d3b-547f-a774-80985268233d

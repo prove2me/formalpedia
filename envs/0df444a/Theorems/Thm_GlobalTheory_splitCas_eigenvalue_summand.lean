@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_splitCas_eigenvalue_summand
 -- name    : GlobalTheory.splitCas_eigenvalue_summand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:53:46.078017+00:00
 -- url     : https://prove2.me/theorems/cc8ea159-90dd-4c4d-9059-bbf13dc2f9aa

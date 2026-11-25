@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_norm_pi_single_one
 -- name    : GroundTheory.Automorphic.Reduction.norm_pi_single_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:05:05.288215+00:00
 -- url     : https://prove2.me/theorems/59662e00-6222-4093-b504-360b20ecdd49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_tsz_inl
 -- name    : GlobalTheory.CompanionTheory.CotLoc.tsz_inl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:58:15.274128+00:00
 -- url     : https://prove2.me/theorems/2eb41f96-a3c7-46cb-82e2-df7929b79bb1

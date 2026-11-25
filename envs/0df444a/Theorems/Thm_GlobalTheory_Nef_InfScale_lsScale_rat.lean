@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_InfScale_lsScale_rat
 -- name    : GlobalTheory.Nef.InfScale.lsScale_rat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:02:55.188504+00:00
 -- url     : https://prove2.me/theorems/fe2efba9-a410-4c90-8b0e-a77e359b09e7

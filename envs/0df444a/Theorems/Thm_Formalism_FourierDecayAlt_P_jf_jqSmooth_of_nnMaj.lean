@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_jf_jqSmooth_of_nnMaj
 -- name    : Formalism.FourierDecayAlt.P.jf_jqSmooth_of_nnMaj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:33:02.410003+00:00
 -- url     : https://prove2.me/theorems/6acfc8d3-ddbd-5422-a25b-3d27dfdc91bd

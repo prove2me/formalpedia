@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_exists_sum_eq_subgroup
 -- name    : GroundTheory.GroupCoh.exists_sum_eq_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:14.207815+00:00
 -- url     : https://prove2.me/theorems/c3c4ad14-84e1-48a5-bd34-1e58c182932e

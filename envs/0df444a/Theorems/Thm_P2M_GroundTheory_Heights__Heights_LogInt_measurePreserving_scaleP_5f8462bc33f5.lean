@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_measurePreserving_scaleP_5f8462bc33f5
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_measurePreserving_scaleP_5f8462bc33f5
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:19.490769+00:00
 -- url     : https://prove2.me/theorems/a0cf690c-705e-481c-875f-9ad47890e490

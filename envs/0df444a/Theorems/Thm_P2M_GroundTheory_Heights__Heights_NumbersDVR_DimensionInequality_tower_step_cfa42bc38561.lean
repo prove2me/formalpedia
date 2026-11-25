@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DimensionInequality_tower_step_cfa42bc38561
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DimensionInequality_tower_step_cfa42bc38561
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:20.478163+00:00
 -- url     : https://prove2.me/theorems/83f00474-ea56-5a17-8388-c7219b48597f

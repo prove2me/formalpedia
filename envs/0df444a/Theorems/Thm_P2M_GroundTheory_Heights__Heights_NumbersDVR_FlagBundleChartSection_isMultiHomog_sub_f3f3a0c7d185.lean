@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleChartSection_isMultiHomog_sub_f3f3a0c7d185
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleChartSection_isMultiHomog_sub_f3f3a0c7d185
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:06:50.554706+00:00
 -- url     : https://prove2.me/theorems/b1e6c694-9786-4de6-9118-920cb273d21d

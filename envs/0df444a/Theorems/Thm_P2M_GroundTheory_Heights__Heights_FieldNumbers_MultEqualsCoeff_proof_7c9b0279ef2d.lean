@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MultEqualsCoeff_proof_7c9b0279ef2d
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MultEqualsCoeff_proof_7c9b0279ef2d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:41:00.257948+00:00
 -- url     : https://prove2.me/theorems/a846265f-84d6-4221-9736-35e2f63f075e

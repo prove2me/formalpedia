@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_PrimeFilt_card_prime_eq_length_c94425c30737
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_PrimeFilt_card_prime_eq_length_c94425c30737
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:29:17.745686+00:00
 -- url     : https://prove2.me/theorems/86d13132-04f2-4dc0-8718-b7e619ba7f96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_openNormalSubgroup_pi_of_isLocallyConstant
 -- name    : GroundTheory.ProfCoh.exists_openNormalSubgroup_pi_of_isLocallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:01:11.448486+00:00
 -- url     : https://prove2.me/theorems/1dac1d4c-be92-4032-803d-0ffc0d2b2661

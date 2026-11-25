@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_sum_conj_coset
 -- name    : GroundTheory.Global.Artin.sum_conj_coset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:31.269186+00:00
 -- url     : https://prove2.me/theorems/4ec0e15f-2b19-417a-b4f4-8266c9e4af6c

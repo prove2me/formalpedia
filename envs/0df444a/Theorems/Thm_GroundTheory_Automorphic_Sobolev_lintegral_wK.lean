@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_lintegral_wK
 -- name    : GroundTheory.Automorphic.Sobolev.lintegral_wK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:50:27.225235+00:00
 -- url     : https://prove2.me/theorems/481f5adc-f1f8-58cd-907c-d2371552567f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplReduceStep_symplExt_map_f6dcba10a721
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplReduceStep_symplExt_map_f6dcba10a721
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:14:11.487887+00:00
 -- url     : https://prove2.me/theorems/929505a5-1314-4a43-b111-755e3a8fa671

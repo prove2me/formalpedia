@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongIndex_quot_smul_top_span_card
 -- name    : GlobalTheory.CongIndex.quot_smul_top_span_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:59:26.497795+00:00
 -- url     : https://prove2.me/theorems/4a5a5a5b-ef2a-4348-afea-506e5be66ec1

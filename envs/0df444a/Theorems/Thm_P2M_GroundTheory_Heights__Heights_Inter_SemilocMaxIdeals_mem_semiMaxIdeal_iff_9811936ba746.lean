@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_mem_semiMaxIdeal_iff_9811936ba746
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemilocMaxIdeals_mem_semiMaxIdeal_iff_9811936ba746
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:03:59.944267+00:00
 -- url     : https://prove2.me/theorems/e85cc2a4-b34a-4481-84cb-bd2aa1bf4101

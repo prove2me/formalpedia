@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormOfDividedForm_algebraMap_det_mulLeft_4b3ad50f41f6
 -- name    : P2M_GroundTheory_Heights__Heights_NormOfDividedForm_algebraMap_det_mulLeft_4b3ad50f41f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:04:57.903471+00:00
 -- url     : https://prove2.me/theorems/6772c3bc-6887-4279-869a-b0e99cfc3b0f

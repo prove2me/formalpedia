@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_CompDegEF_isEquiv_adicAbv_normAbv
 -- name    : PI.CompDegEF.isEquiv_adicAbv_normAbv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:57:23.541135+00:00
 -- url     : https://prove2.me/theorems/04adb09b-cff9-4439-a616-ddd3b4732840

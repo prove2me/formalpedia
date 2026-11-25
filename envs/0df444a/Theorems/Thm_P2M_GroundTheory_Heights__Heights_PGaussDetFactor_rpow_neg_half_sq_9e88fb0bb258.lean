@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussDetFactor_rpow_neg_half_sq_9e88fb0bb258
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussDetFactor_rpow_neg_half_sq_9e88fb0bb258
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:58.508478+00:00
 -- url     : https://prove2.me/theorems/b56cadc9-ca3d-4202-a969-edaac898431b

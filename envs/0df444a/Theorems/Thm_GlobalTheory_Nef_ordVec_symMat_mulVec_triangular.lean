@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_ordVec_symMat_mulVec_triangular
 -- name    : GlobalTheory.Nef.ordVec_symMat_mulVec_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:48:43.118433+00:00
 -- url     : https://prove2.me/theorems/995f2dfe-21da-5cfd-a69c-0d41b7b09035

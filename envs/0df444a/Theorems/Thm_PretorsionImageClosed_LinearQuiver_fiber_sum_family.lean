@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_fiber_sum_family
 -- name    : PretorsionImageClosed.LinearQuiver.fiber_sum_family
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:10:02.201232+00:00
 -- url     : https://prove2.me/theorems/5f41d019-d384-4e89-91cc-58b40ee7ad25

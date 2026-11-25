@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_ClearDenominators_proof_2cf1ed1069ad
 -- name    : P2M_GroundTheory_Heights__Heights_Model_ClearDenominators_proof_2cf1ed1069ad
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:46:52.4027+00:00
 -- url     : https://prove2.me/theorems/96acdeae-e467-4a25-9912-b1f286c866c5

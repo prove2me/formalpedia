@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_coneEq_prime_b18251f83221
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_coneEq_prime_b18251f83221
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:12.393122+00:00
 -- url     : https://prove2.me/theorems/86beb99a-3559-4b61-bc2d-96714f0e73a0

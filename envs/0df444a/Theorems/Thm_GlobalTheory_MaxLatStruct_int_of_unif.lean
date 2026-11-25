@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatStruct_int_of_unif
 -- name    : GlobalTheory.MaxLatStruct.int_of_unif
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:54:30.554261+00:00
 -- url     : https://prove2.me/theorems/323ac2d7-1af3-4d01-8262-9e8b35d9629e

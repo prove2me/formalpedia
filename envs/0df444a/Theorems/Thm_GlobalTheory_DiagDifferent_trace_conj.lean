@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DiagDifferent_trace_conj
 -- name    : GlobalTheory.DiagDifferent.trace_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:48.155129+00:00
 -- url     : https://prove2.me/theorems/eb89ca10-7609-43b2-bb2c-4328dff00052

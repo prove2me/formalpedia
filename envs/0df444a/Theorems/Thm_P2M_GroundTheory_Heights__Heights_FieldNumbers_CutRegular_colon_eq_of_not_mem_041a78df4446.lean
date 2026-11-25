@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_colon_eq_of_not_mem_041a78df4446
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_CutRegular_colon_eq_of_not_mem_041a78df4446
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:38:51.920329+00:00
 -- url     : https://prove2.me/theorems/b03807da-07a1-4cfe-80e8-f5a4a756a3b2

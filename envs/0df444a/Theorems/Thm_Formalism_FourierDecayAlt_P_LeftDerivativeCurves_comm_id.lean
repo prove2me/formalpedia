@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftDerivativeCurves_comm_id
 -- name    : Formalism.FourierDecayAlt.P.LeftDerivativeCurves.comm_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:56:20.6429+00:00
 -- url     : https://prove2.me/theorems/f7285d16-018e-49c8-a8e7-55f416e6454a

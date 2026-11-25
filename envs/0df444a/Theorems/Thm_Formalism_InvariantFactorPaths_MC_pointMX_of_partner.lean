@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_MC_pointMX_of_partner
 -- name    : Formalism.InvariantFactorPaths.MC.pointMX_of_partner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:14:28.487061+00:00
 -- url     : https://prove2.me/theorems/d6a657d3-d7eb-5f8c-9674-ee7879ae7e15

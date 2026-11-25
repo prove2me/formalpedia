@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_natCast_mul_mem
 -- name    : GlobalTheory.TateDecomp.natCast_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:03:13.810426+00:00
 -- url     : https://prove2.me/theorems/5b581e0e-50e1-41fa-a1fa-637f0e4603ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AlternantRowRule_intersectionNumber_baseChange_d9cfcb79419a
 -- name    : P2M_GroundTheory_Heights__Heights_AlternantRowRule_intersectionNumber_baseChange_d9cfcb79419a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:15:29.186629+00:00
 -- url     : https://prove2.me/theorems/1a5edc99-f69f-4ec2-b1aa-a969294c6656

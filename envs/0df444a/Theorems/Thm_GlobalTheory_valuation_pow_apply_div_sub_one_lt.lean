@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_valuation_pow_apply_div_sub_one_lt
 -- name    : GlobalTheory.valuation_pow_apply_div_sub_one_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:02:58.954378+00:00
 -- url     : https://prove2.me/theorems/6a5fa26c-44bf-46ed-bb97-a0933e5b0137

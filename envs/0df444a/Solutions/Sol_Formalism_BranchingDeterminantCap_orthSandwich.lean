@@ -1,0 +1,37 @@
+-- Prove2me | solution 1 for Formalism.BranchingDeterminantCap.orthSandwich
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T04:46:28.446392+00:00
+-- url     : https://prove2.me/submissions/bab1dbba-3a59-4e2f-9f69-62cb348a74bc
+
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_BoundsIVal
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchScale
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_BranchMap
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_XiNorm
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_MemBranchRangeOfDefectEq
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_GoodDual
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_Interlace
+import Definitions.Def_Formalism_BranchSandwichDivisors_StatementJ
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_MapScale
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_Numeric
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_OrthSum
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_StepDiii
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_Transfer
+import Definitions.Def_Formalism_BranchSandwichDivisors_BranchIsometryProofs_TransferMean
+import Definitions.Def_Formalism_BranchSandwichDivisors_DivFromPassageAndNorm
+import Theorems.Thm_Formalism_BranchingDeterminantCap_orthogonal_sandwich_bound
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.BranchingDeterminantCap
+namespace Formalism.BranchingDeterminantCap
+theorem _root_.solution : OrthSandwich := orthogonal_sandwich_bound
+end Formalism.BranchingDeterminantCap

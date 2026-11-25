@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SideCompare_Mexp_eq
 -- name    : GlobalTheory.SideCompare.Mexp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:01:41.864784+00:00
 -- url     : https://prove2.me/theorems/b605a77c-0ec8-4e68-a90e-62b83643150b

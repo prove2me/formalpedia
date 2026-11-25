@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesDiagGram_proof_07411a99c86a
 -- name    : P2M_GroundTheory_Heights__Heights_LinesDiagGram_proof_07411a99c86a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:38.493418+00:00
 -- url     : https://prove2.me/theorems/709d3ed3-d72c-4007-89ba-0b5d946319a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_weight_newBlock_8970a1a2384f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_weight_newBlock_8970a1a2384f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:06:31.903593+00:00
 -- url     : https://prove2.me/theorems/6180dbe2-8e05-4817-a59a-712a6248b20e

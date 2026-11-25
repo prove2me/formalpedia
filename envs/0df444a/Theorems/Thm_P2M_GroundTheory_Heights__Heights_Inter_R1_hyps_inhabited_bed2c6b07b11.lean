@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_R1_hyps_inhabited_bed2c6b07b11
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_R1_hyps_inhabited_bed2c6b07b11
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:29:12.48416+00:00
 -- url     : https://prove2.me/theorems/c20ab6e4-cc0c-4065-b00d-5e9aed5eca1f

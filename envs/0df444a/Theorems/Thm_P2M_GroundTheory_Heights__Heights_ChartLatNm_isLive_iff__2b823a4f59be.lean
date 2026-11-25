@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLatNm_isLive_iff__2b823a4f59be
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLatNm_isLive_iff__2b823a4f59be
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:57:16.667699+00:00
 -- url     : https://prove2.me/theorems/93296276-7d6c-447f-a54f-7468bdf91164

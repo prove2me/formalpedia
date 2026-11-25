@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_SpanBundleTrdegGe_injective_aeval_mul_X_80cf88eaa3b4
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_SpanBundleTrdegGe_injective_aeval_mul_X_80cf88eaa3b4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:08:44.550324+00:00
 -- url     : https://prove2.me/theorems/ca5a2e99-1a93-40a6-9dae-f0756d55b039

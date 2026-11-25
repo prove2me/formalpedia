@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_StableSubset_sum_wt_le
 -- name    : GlobalTheory.StableSubset.sum_wt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:52:26.475183+00:00
 -- url     : https://prove2.me/theorems/0106b6c2-6915-44e1-aa6f-243f39c9a531

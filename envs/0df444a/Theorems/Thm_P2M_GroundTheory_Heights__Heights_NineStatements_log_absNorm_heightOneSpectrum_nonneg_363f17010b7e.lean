@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_log_absNorm_heightOneSpectrum_nonneg_363f17010b7e
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_log_absNorm_heightOneSpectrum_nonneg_363f17010b7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:04:40.473052+00:00
 -- url     : https://prove2.me/theorems/e4ff9f07-b5d8-42ce-8ebf-49f6eb71cfbb

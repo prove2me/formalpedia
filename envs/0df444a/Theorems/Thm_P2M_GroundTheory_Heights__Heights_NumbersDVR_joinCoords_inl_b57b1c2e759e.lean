@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_joinCoords_inl_b57b1c2e759e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_joinCoords_inl_b57b1c2e759e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:11:38.75027+00:00
 -- url     : https://prove2.me/theorems/01f13231-e229-4ad5-91c2-989a1eab66c6

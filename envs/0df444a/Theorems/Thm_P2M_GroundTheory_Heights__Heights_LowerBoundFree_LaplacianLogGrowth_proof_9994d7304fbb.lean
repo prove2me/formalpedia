@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_LaplacianLogGrowth_proof_9994d7304fbb
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_LaplacianLogGrowth_proof_9994d7304fbb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:28:11.615816+00:00
 -- url     : https://prove2.me/theorems/28ccb9a1-c639-4c84-a519-801e847632af

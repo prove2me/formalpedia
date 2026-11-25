@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_finComp_ne_zero_of_adelicNorm_pos
 -- name    : GroundTheory.Automorphic.Reduction.finComp_ne_zero_of_adelicNorm_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:03:43.475914+00:00
 -- url     : https://prove2.me/theorems/f9ed3843-d31e-54d3-a166-7791b93569e5

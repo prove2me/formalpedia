@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SVD_svd_sigma_eq_approx
 -- name    : SVD.svd_sigma_eq_approx
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:03:25.470827+00:00
 -- url     : https://prove2.me/theorems/0c1bbfff-4f82-5aa9-8b15-cf7e749da5ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_mixedDisc_eq_zero_of_cols_6dbf82d8b420
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_mixedDisc_eq_zero_of_cols_6dbf82d8b420
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:23:56.737448+00:00
 -- url     : https://prove2.me/theorems/9397ddda-2da1-4a98-9d13-bb5fd99f1909

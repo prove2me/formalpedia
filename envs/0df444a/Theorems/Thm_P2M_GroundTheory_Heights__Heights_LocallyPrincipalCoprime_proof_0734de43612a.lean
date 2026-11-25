@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocallyPrincipalCoprime_proof_0734de43612a
 -- name    : P2M_GroundTheory_Heights__Heights_LocallyPrincipalCoprime_proof_0734de43612a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:01.950521+00:00
 -- url     : https://prove2.me/theorems/c0172e09-676e-4ca5-9bc9-c709b998a730

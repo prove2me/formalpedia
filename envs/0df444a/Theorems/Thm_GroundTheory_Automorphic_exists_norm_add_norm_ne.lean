@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_norm_add_norm_ne
 -- name    : GroundTheory.Automorphic.exists_norm_add_norm_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:14:01.650875+00:00
 -- url     : https://prove2.me/theorems/0474d5be-29e4-5097-a3a2-c2da05696a38

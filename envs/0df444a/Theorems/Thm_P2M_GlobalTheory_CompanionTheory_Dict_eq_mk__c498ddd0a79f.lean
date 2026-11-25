@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_CompanionTheory_Dict_eq_mk__c498ddd0a79f
 -- name    : P2M_GlobalTheory_CompanionTheory_Dict_eq_mk__c498ddd0a79f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:53:40.755847+00:00
 -- url     : https://prove2.me/theorems/45f0abc6-59c3-4d41-9ae3-9f089fb2135c

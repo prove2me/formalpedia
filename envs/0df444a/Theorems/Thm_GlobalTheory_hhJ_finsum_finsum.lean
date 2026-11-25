@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hhJ_finsum_finsum
 -- name    : GlobalTheory.hhJ_finsum_finsum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:59.197419+00:00
 -- url     : https://prove2.me/theorems/6b94fca3-14c6-4e40-99c3-9d1ac9cbd56f

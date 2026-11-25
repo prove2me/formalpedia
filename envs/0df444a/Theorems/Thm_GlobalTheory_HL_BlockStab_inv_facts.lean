@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_BlockStab_inv_facts
 -- name    : GlobalTheory.HL.BlockStab.inv_facts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:06.367872+00:00
 -- url     : https://prove2.me/theorems/e67e8963-4eba-4400-bb5b-e30cb8e35079

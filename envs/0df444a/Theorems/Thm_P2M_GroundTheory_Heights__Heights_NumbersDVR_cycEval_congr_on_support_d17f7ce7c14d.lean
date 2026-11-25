@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_cycEval_congr_on_support_d17f7ce7c14d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_cycEval_congr_on_support_d17f7ce7c14d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:10:10.359019+00:00
 -- url     : https://prove2.me/theorems/f2739816-e596-41e6-9bdf-d760d2782b2c

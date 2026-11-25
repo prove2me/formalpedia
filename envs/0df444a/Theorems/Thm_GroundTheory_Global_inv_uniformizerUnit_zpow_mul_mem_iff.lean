@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_inv_uniformizerUnit_zpow_mul_mem_iff
 -- name    : GroundTheory.Global.inv_uniformizerUnit_zpow_mul_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:14:59.69095+00:00
 -- url     : https://prove2.me/theorems/cbd4a96c-0128-4c00-8df2-192fea626363

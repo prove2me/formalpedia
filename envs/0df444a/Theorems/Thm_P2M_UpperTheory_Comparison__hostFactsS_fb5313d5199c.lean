@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_UpperTheory_Comparison__hostFactsS_fb5313d5199c
 -- name    : P2M_UpperTheory_Comparison__hostFactsS_fb5313d5199c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:54:51.145655+00:00
 -- url     : https://prove2.me/theorems/bf0eb5e8-5bd9-51e3-88ba-5e83f39da1e3

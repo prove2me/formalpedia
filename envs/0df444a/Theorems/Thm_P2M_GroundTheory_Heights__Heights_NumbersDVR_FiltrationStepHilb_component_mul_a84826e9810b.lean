@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FiltrationStepHilb_component_mul_a84826e9810b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FiltrationStepHilb_component_mul_a84826e9810b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:27.180178+00:00
 -- url     : https://prove2.me/theorems/4f59f8a2-1a56-413e-829f-567a50597ce2

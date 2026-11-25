@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_exists_isProSylow_le
 -- name    : GroundTheory.ProfCoh.exists_isProSylow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:38.541208+00:00
 -- url     : https://prove2.me/theorems/e4b18dff-6a57-4afd-96b0-bba29eba28c3

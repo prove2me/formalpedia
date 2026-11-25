@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_one_add_projection_mem_isotropic_set
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.one_add_projection_mem_isotropic_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:59:01.212161+00:00
 -- url     : https://prove2.me/theorems/d7d53a6e-470f-5cd6-9251-7ea24a1df3ea

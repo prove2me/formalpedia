@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_sob_lineDeriv_le
 -- name    : GroundTheory.Automorphic.Sobolev.sob_lineDeriv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:18:24.450672+00:00
 -- url     : https://prove2.me/theorems/7c5b6b90-09a2-5e69-9efc-c28d29d43199

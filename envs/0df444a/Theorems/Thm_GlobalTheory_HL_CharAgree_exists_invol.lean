@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_CharAgree_exists_invol
 -- name    : GlobalTheory.HL.CharAgree.exists_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:21.288016+00:00
 -- url     : https://prove2.me/theorems/24b34b5d-108f-5153-94bb-22f09d71dbc3

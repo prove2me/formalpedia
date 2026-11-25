@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_cuspidal_vanishing
 -- name    : GlobalTheory.T.cuspidal_vanishing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:31:39.515085+00:00
 -- url     : https://prove2.me/theorems/218e271c-9688-46b8-b5a0-42a454af2890

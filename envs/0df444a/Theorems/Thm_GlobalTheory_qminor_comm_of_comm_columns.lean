@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_qminor_comm_of_comm_columns
 -- name    : GlobalTheory.qminor_comm_of_comm_columns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:26.598997+00:00
 -- url     : https://prove2.me/theorems/6e75e205-d1bc-4462-8841-71074b120549

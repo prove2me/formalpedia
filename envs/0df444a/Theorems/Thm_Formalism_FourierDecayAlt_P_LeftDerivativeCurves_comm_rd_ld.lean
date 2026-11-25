@@ -1,0 +1,38 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftDerivativeCurves_comm_rd_ld
+-- name    : Formalism.FourierDecayAlt.P.LeftDerivativeCurves.comm_rd_ld
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-25T04:36:24.595719+00:00
+-- url     : https://prove2.me/theorems/7e9d762d-899c-5145-8c1c-5b4eaf30d13a
+-- title:
+--   Left Derivative Curves: comm rd ld
+-- statement:
+--   The Left Derivative Curves construction uses the comm rd ld property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LeftDerivativeCurves.lean#L232-L233
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/LeftDerivativeCurves.lean#L232-L233
+
+import Definitions.Def_Formalism_HermitianCurvature_StatementQr
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_RestrictionIrrelevantDoubleLevelOperator
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_LeftDerivativeCurves
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Matrix Finset Filter Topology
+open scoped ContDiff
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt Formalism.FourierDecayAlt.Q
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+open Formalism.FourierDecayAlt.P.LeftDerivativeCurves
+open Qx2 (Good)
+variable {k r : ℕ} {E : Type*} [NormedAddCommGroup E] [NormedSpace ℂ E] {i : Fin (r + 1)} {D : Set (Mx k r)}
+
+theorem Formalism.FourierDecayAlt.P.LeftDerivativeCurves.comm_rd_ld {X Y : Mx k r} (hX : inLieLev k r i X) (hY : inLieLev k r i Y) :
+    Comm (E := E) k r i D (fun f => RdV Y f) (fun f => LdV X f) := by sorry

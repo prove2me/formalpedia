@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_polyNum_eq_classNum_8d89639b44f4
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_polyNum_eq_classNum_8d89639b44f4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:39.446942+00:00
 -- url     : https://prove2.me/theorems/b5bc4612-7c75-48dc-bc60-6cb32a6a3959

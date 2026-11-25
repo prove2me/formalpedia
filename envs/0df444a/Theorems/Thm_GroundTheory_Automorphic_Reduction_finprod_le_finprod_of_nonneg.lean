@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_finprod_le_finprod_of_nonneg
 -- name    : GroundTheory.Automorphic.Reduction.finprod_le_finprod_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:06:01.19405+00:00
 -- url     : https://prove2.me/theorems/63c989ff-d8da-4754-8f57-b3868036c264

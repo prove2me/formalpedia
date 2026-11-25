@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_two_mul_relIndex_normSub_sUnits_le
 -- name    : GlobalTheory.T.two_mul_relIndex_normSub_sUnits_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:59:39.34619+00:00
 -- url     : https://prove2.me/theorems/7857b03e-709e-483a-b8ba-e8b0cea0c61f

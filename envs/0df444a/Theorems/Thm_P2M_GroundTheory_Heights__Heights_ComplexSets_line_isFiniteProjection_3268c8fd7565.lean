@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_line_isFiniteProjection_3268c8fd7565
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_line_isFiniteProjection_3268c8fd7565
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:16:28.625297+00:00
 -- url     : https://prove2.me/theorems/0c5c7451-c2eb-4ab5-9b27-ebc025f2f90d

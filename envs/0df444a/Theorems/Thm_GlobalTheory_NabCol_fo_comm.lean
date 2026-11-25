@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NabCol_fo_comm
 -- name    : GlobalTheory.NabCol.fo_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:56:08.278+00:00
 -- url     : https://prove2.me/theorems/94b94e79-716b-4c17-b105-a8f251836661

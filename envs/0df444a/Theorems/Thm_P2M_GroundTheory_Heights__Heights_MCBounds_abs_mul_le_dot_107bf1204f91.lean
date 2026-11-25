@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_abs_mul_le_dot_107bf1204f91
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_abs_mul_le_dot_107bf1204f91
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:28:52.110502+00:00
 -- url     : https://prove2.me/theorems/58b6537c-c920-40d3-ae83-a4e73251e4da

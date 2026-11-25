@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_latticeCount_prod_of_idempotent_separable
 -- name    : GlobalTheory.T.latticeCount_prod_of_idempotent_separable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:25:37.221789+00:00
 -- url     : https://prove2.me/theorems/b3bbc4a5-0036-4268-9f4b-f2ac3bd91faf

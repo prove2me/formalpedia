@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormRankFour_exp_lift
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormRankFour.exp_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:11:12.84698+00:00
 -- url     : https://prove2.me/theorems/3b753439-e6f8-5421-9849-df2c96a48333

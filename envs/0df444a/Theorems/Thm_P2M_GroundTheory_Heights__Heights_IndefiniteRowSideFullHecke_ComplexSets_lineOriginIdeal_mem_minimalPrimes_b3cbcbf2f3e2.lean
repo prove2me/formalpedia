@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_lineOriginIdeal_mem_minimalPrimes_b3cbcbf2f3e2
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_lineOriginIdeal_mem_minimalPrimes_b3cbcbf2f3e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:21:20.834672+00:00
 -- url     : https://prove2.me/theorems/b982bbfd-5b31-4a6b-9326-099d2e739a1c

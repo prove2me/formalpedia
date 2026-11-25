@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleChartSection_bind__sub_mem_1ef7404e28f6
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagBundleChartSection_bind__sub_mem_1ef7404e28f6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:05:34.980255+00:00
 -- url     : https://prove2.me/theorems/b9eda276-383d-4051-b8e8-ec439169c3a8

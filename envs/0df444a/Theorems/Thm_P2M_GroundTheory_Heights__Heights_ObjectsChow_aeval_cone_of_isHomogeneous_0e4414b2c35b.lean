@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_aeval_cone_of_isHomogeneous_0e4414b2c35b
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_aeval_cone_of_isHomogeneous_0e4414b2c35b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:13:09.703297+00:00
 -- url     : https://prove2.me/theorems/29a499d1-3834-41bb-aa7b-c900cb970e2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_liftForm_mem_blowUpOf_iff_1286dd372173
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_liftForm_mem_blowUpOf_iff_1286dd372173
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:12:12.715364+00:00
 -- url     : https://prove2.me/theorems/af98bbe0-39a8-465f-b1ec-8fd557731e29

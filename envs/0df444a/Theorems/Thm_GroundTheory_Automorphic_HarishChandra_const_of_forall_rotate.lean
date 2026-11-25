@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_const_of_forall_rotate
 -- name    : GroundTheory.Automorphic.HarishChandra.const_of_forall_rotate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:02:34.834217+00:00
 -- url     : https://prove2.me/theorems/96f4a79a-e35f-5bf6-b2e0-075b9f2180d2

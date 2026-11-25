@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_residue_frobenius_apply
 -- name    : GroundTheory.LocalField.residue_frobenius_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:40:23.363485+00:00
 -- url     : https://prove2.me/theorems/ec50c2a1-90de-4654-b00e-e31b346bdfae

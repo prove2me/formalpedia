@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_prop_of_splitMono
 -- name    : PretorsionImageClosed.Statement.Subcategory.prop_of_splitMono
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:21:35.341976+00:00
 -- url     : https://prove2.me/theorems/b1ad5812-c384-4327-bc77-e1e4eed12314

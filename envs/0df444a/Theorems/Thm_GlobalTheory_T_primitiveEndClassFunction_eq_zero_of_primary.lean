@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_primitiveEndClassFunction_eq_zero_of_primary
 -- name    : GlobalTheory.T.primitiveEndClassFunction_eq_zero_of_primary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:55:28.110807+00:00
 -- url     : https://prove2.me/theorems/2e4b40b4-6a30-4408-96b3-ead35de7e2fa

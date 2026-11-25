@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_isIso_of_epi_of_length_le
 -- name    : PretorsionImageClosed.isIso_of_epi_of_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:19:40.580496+00:00
 -- url     : https://prove2.me/theorems/ee37cb39-fa83-445f-a030-806af2d1960d

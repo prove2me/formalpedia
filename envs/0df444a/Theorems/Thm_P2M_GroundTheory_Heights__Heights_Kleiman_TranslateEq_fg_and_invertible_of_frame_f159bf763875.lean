@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_fg_and_invertible_of_frame_f159bf763875
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_TranslateEq_fg_and_invertible_of_frame_f159bf763875
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:27:36.755052+00:00
 -- url     : https://prove2.me/theorems/aed14ccc-ce4d-4f9d-b870-e88690a6d1a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartVanishing_exists_common_denom_0a204d048bb4
 -- name    : P2M_GroundTheory_Heights__Heights_ChartVanishing_exists_common_denom_0a204d048bb4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:16:04.00513+00:00
 -- url     : https://prove2.me/theorems/3733702b-afce-53ed-89e8-cd83801ea2fb

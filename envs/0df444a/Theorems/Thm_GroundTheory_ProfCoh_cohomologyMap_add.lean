@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_cohomologyMap_add
 -- name    : GroundTheory.ProfCoh.cohomologyMap_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:35:16.346689+00:00
 -- url     : https://prove2.me/theorems/57342e26-34c8-46ce-98c7-3297a6b445c8

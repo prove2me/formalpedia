@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finrank_eq_one_of_surjective_pi
 -- name    : GroundTheory.Global.finrank_eq_one_of_surjective_pi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:14:20.145447+00:00
 -- url     : https://prove2.me/theorems/ff49435d-efa1-5b90-b481-ec84f4eacf2e

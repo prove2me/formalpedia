@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_cxHessian_mulVec_star_3f977e456929
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_pointFormEuler_holds_cxHessian_mulVec_star_3f977e456929
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:59.730186+00:00
 -- url     : https://prove2.me/theorems/db89abf6-2479-4f4e-abce-5e74ad998ae9

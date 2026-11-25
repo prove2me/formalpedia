@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_firstVertex_parahoricLevelChain_twist
 -- name    : GlobalTheory.T.firstVertex_parahoricLevelChain_twist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:20:31.479709+00:00
 -- url     : https://prove2.me/theorems/2727362a-70b6-4b89-b5fd-2ffd7033bc40

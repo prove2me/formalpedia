@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_smoothChi
 -- name    : Formalism.ZeroFreeDirichlet.smoothChi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:44:50.510478+00:00
 -- url     : https://prove2.me/theorems/a413705f-def6-4c55-a451-8a9bc9cb37ba

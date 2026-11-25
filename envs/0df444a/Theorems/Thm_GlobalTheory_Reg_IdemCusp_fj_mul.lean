@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_IdemCusp_fj_mul
 -- name    : GlobalTheory.Reg.IdemCusp.fj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:19:24.623802+00:00
 -- url     : https://prove2.me/theorems/bea624c1-b49e-4f6b-b46a-287feeed9b3a

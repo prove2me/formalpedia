@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_entry_bound_ba231565ac76
 -- name    : P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_entry_bound_ba231565ac76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:29:04.173816+00:00
 -- url     : https://prove2.me/theorems/7bf99ee1-4a39-42a2-80fe-0d5f429f8b03

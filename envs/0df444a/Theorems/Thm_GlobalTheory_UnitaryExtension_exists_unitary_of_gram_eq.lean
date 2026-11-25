@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitaryExtension_exists_unitary_of_gram_eq
 -- name    : GlobalTheory.UnitaryExtension.exists_unitary_of_gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:59:06.317706+00:00
 -- url     : https://prove2.me/theorems/5716141a-0e3f-4be5-a34e-d703e6c5250e

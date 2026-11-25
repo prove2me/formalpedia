@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_hermOfFun_h_a7599544ae10
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_hermOfFun_h_a7599544ae10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:30:20.486673+00:00
 -- url     : https://prove2.me/theorems/03989bcf-2bcc-4fc1-8a2e-ab20ab644253

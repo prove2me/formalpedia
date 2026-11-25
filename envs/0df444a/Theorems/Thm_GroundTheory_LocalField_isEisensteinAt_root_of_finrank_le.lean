@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isEisensteinAt_root_of_finrank_le
 -- name    : GroundTheory.LocalField.isEisensteinAt_root_of_finrank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:59:52.083972+00:00
 -- url     : https://prove2.me/theorems/aaadfb42-86ba-480a-a98a-88e6ad81ec1a

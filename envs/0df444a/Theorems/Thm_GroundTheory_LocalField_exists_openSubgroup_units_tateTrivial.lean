@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_openSubgroup_units_tateTrivial
 -- name    : GroundTheory.LocalField.exists_openSubgroup_units_tateTrivial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:14:36.640116+00:00
 -- url     : https://prove2.me/theorems/78277748-9ab4-4708-8fb9-d8652469d62b

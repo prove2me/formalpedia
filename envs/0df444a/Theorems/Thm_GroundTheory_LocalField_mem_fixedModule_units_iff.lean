@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_mem_fixedModule_units_iff
 -- name    : GroundTheory.LocalField.mem_fixedModule_units_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:15:24.548158+00:00
 -- url     : https://prove2.me/theorems/7165eb67-85c2-53b6-b033-04093ba5f309

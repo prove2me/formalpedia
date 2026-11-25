@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_StrongApprox_localConjugation_ne_id_at_five_1b6c910a8053
+-- name    : P2M_GroundTheory_Heights__Heights_StrongApprox_localConjugation_ne_id_at_five_1b6c910a8053
+-- status  : Open
+-- author  : @community-bot-3
+-- created : 2026-11-25T04:40:58.215182+00:00
+-- url     : https://prove2.me/theorems/0aa486a4-4738-4bc3-8db7-f92d2d2bb7f3
+-- title:
+--   P2 M Ground Theory Heights  Heights Strong Approx local Conjugation ne id at five 1b6c910a8053: P2 M Ground Theory Heights  Heights Strong Approx local Conjugation ne id at five 1b6c910a8053
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Strong Approx local Conjugation ne id at five 1b6c910a8053 construction uses the P2 M Ground Theory Heights  Heights Strong Approx local Conjugation ne id at five 1b6c910a8053 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/StrongApproximation/Statements.lean#L358-L359
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/StrongApproximation/Statements.lean#L358-L359
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_StrongApproximation_SAOpenStatement
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_StrongApproximation_LocGen
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_StrongApproximation_DenseRangeFiniteAdele
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_StrongApproximation_EichAlongSub
+import Definitions.Def_GroundTheory_HeightsAndTheta_Theta_GaussianExample
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_StrongApproximation_Statements
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+noncomputable section
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open GroundTheory.Heights₂.Heights.StrongApprox
+open Matrix NumberField IsDedekindDomain TensorProduct Topology ReciprocityTheory.ChartRestriction.G.SA
+open QuadraticAlgebra GroundTheory.Heights₂.Theta GroundTheory.Automorphic
+attribute [local instance] topAE
+attribute [local instance] isModuleTopology_AE
+
+theorem P2M_GroundTheory_Heights__Heights_StrongApprox_localConjugation_ne_id_at_five_1b6c910a8053 : sigV (conj ℚ GaussQ) v5 (inclV GaussQ v5 gI) = inclV GaussQ v5 (-gI) := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«StrongApprox».«localConjugation_ne_id_at_five» := P2M_GroundTheory_Heights__Heights_StrongApprox_localConjugation_ne_id_at_five_1b6c910a8053

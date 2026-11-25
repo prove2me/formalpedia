@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_PrimeLogSum_block_le_1a9b559a39d2
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_PrimeLogSum_block_le_1a9b559a39d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:04:28.676942+00:00
 -- url     : https://prove2.me/theorems/1e059cc1-f5a8-42d5-9a66-074f2374ad61

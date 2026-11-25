@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_powerUnitCount_of_root_23151f316edc
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_powerUnitCount_of_root_23151f316edc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:22:00.609021+00:00
 -- url     : https://prove2.me/theorems/66a58777-ca83-4944-8b98-7e9f7c552f98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_tensor_right_comm_a627b498d6de
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_tensor_right_comm_a627b498d6de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:02:40.132341+00:00
 -- url     : https://prove2.me/theorems/192070cd-0178-5db6-b56e-73991c477beb

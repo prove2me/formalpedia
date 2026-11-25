@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_log_absNorm_mul_inv_eecafab33dac
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_log_absNorm_mul_inv_eecafab33dac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:04:24.224834+00:00
 -- url     : https://prove2.me/theorems/800db035-45d8-5b74-ae19-00590a6080ca

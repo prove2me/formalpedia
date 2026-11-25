@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_PrimMove_discN_congr
 -- name    : GlobalTheory.Mass.PrimMove.discN_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:00:21.404883+00:00
 -- url     : https://prove2.me/theorems/7ff1116f-f121-4d0d-b1b5-1d49011ede0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitConjSum_chart_ne_zero_10cb68d2f03b
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitConjSum_chart_ne_zero_10cb68d2f03b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:21:33.127612+00:00
 -- url     : https://prove2.me/theorems/df377c80-c65e-515a-904b-208a41bed897

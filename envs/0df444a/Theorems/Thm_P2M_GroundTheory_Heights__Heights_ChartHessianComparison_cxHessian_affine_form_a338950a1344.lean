@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartHessianComparison_cxHessian_affine_form_a338950a1344
 -- name    : P2M_GroundTheory_Heights__Heights_ChartHessianComparison_cxHessian_affine_form_a338950a1344
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:27:39.060551+00:00
 -- url     : https://prove2.me/theorems/90784757-70f2-4c4f-895a-1cb457eb5146

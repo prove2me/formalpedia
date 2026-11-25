@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellLocEval_mk_eq_zero_of_aeval_3bb4237fc002
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_SectionsOverLocalization_CellLocEval_mk_eq_zero_of_aeval_3bb4237fc002
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:28:49.381177+00:00
 -- url     : https://prove2.me/theorems/48866119-bf5b-4ef0-a32f-41ace1c42bc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_finrank_mul_degNorm
 -- name    : GlobalTheory.ArchMetric.finrank_mul_degNorm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:58:13.732199+00:00
 -- url     : https://prove2.me/theorems/bdc21bed-b676-4871-917e-5e516f47eed2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlockAdjoinPrime_killB_monomial_211997d7462a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlockAdjoinPrime_killB_monomial_211997d7462a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:14.158806+00:00
 -- url     : https://prove2.me/theorems/34c951b5-21ef-4786-9de5-c09f5b11728f

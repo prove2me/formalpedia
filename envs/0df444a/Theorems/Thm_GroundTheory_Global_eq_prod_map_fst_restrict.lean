@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_eq_prod_map_fst_restrict
 -- name    : GroundTheory.Global.eq_prod_map_fst_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:15:42.233682+00:00
 -- url     : https://prove2.me/theorems/85273978-9e7d-5b85-8ae9-12200fb6bbb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplBoxVolume_set_eq_preimage_c34e58dd3381
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplBoxVolume_set_eq_preimage_c34e58dd3381
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:13:38.042491+00:00
 -- url     : https://prove2.me/theorems/76e9d7e5-af31-4850-be10-9cf053c38f73

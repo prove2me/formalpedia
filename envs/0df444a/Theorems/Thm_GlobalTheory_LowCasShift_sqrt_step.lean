@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowCasShift_sqrt_step
 -- name    : GlobalTheory.LowCasShift.sqrt_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:00:28.104799+00:00
 -- url     : https://prove2.me/theorems/c53a40d7-c578-57c8-a9da-2b94b7580dab

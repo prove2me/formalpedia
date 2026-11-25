@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HypWedge_form_component_of_cup_class_zero
 -- name    : GlobalTheory.CompanionTheory.HypWedge.form_component_of_cup_class_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:25:06.153313+00:00
 -- url     : https://prove2.me/theorems/eefb28b3-152f-5c6d-8ffa-837dcf11899f

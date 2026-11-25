@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_PrimeLogSum_natLog_mul_log_two_le_171220f6ad14
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_PrimeLogSum_natLog_mul_log_two_le_171220f6ad14
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:04:17.212966+00:00
 -- url     : https://prove2.me/theorems/fde8266a-eb1e-57f6-b0ee-3a26dd98fd32

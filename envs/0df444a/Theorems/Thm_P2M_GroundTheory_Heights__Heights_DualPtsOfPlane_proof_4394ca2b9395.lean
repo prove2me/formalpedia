@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DualPtsOfPlane_proof_4394ca2b9395
 -- name    : P2M_GroundTheory_Heights__Heights_DualPtsOfPlane_proof_4394ca2b9395
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:29.377783+00:00
 -- url     : https://prove2.me/theorems/2b6b65e4-8aa8-41a4-b9f3-c2d5aef7bf96

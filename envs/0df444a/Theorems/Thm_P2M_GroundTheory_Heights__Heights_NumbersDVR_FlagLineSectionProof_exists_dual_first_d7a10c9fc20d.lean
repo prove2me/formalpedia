@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_exists_dual_first_d7a10c9fc20d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_exists_dual_first_d7a10c9fc20d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:30:14.764486+00:00
 -- url     : https://prove2.me/theorems/8633922a-908e-434f-b7b8-8e4cde02db7c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplOrbit_smul_symplCons_a513fc6e72e3
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplOrbit_smul_symplCons_a513fc6e72e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:14:00.665195+00:00
 -- url     : https://prove2.me/theorems/5a4dfd0c-dcb7-4d86-805a-a6a02fd6a0a2

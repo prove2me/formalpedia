@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitChartMax_aeval_genPt_55ccb4e49f3f
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitChartMax_aeval_genPt_55ccb4e49f3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:11.124044+00:00
 -- url     : https://prove2.me/theorems/a4de4892-1be3-48e2-8b1d-48eb7f9c6b27

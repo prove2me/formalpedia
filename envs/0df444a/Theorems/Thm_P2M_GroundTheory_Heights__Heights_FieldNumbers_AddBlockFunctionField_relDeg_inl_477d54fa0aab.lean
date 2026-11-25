@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_AddBlockFunctionField_relDeg_inl_477d54fa0aab
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_AddBlockFunctionField_relDeg_inl_477d54fa0aab
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:59:29.281855+00:00
 -- url     : https://prove2.me/theorems/d1d91bde-6b68-4adf-9501-afcc02d72c18

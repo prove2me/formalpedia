@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hhJ_self_im_eq_zero
 -- name    : GlobalTheory.hhJ_self_im_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:06.591655+00:00
 -- url     : https://prove2.me/theorems/3afd6cb1-c3a9-5ea4-a386-9ef13294bf50

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCurve_algebraicIndependent_C_mul_X_46ec521998de
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCurve_algebraicIndependent_C_mul_X_46ec521998de
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:14.335916+00:00
 -- url     : https://prove2.me/theorems/4816f77b-0c79-4c98-ae70-9b5fd05b16b5

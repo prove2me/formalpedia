@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_finiteDimensional_kummerField
 -- name    : GroundTheory.ProfCoh.finiteDimensional_kummerField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:51:15.402724+00:00
 -- url     : https://prove2.me/theorems/b3faf336-cdd5-4eb8-bd7c-8e3b850af305

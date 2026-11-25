@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_L4_takeD_total_le
 -- name    : Formalism.InvariantFactorPaths.L4.takeD_total_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:06:20.376063+00:00
 -- url     : https://prove2.me/theorems/79bff855-1103-5dc5-94ff-3bdf1250cdb9

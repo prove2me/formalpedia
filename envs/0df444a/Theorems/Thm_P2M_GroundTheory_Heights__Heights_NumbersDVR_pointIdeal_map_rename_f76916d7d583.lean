@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_pointIdeal_map_rename_f76916d7d583
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_pointIdeal_map_rename_f76916d7d583
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:12:33.616345+00:00
 -- url     : https://prove2.me/theorems/e2b39612-a2e5-40d8-a487-69256894a4ab

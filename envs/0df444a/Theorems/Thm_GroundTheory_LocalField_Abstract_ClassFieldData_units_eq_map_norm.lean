@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_units_eq_map_norm
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.units_eq_map_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:14:13.696986+00:00
 -- url     : https://prove2.me/theorems/9633d786-0437-4a65-ba2b-02720e4cb414

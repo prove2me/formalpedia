@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sphericalInductionTransitivity_of_leviExists
 -- name    : GlobalTheory.T.sphericalInductionTransitivity_of_leviExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:59:46.442954+00:00
 -- url     : https://prove2.me/theorems/2af08b25-3a64-431b-b982-4a9e49b49998

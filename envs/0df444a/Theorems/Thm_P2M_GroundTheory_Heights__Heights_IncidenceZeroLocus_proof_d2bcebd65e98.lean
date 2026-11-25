@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceZeroLocus_proof_d2bcebd65e98
 -- name    : P2M_GroundTheory_Heights__Heights_IncidenceZeroLocus_proof_d2bcebd65e98
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:52:49.676039+00:00
 -- url     : https://prove2.me/theorems/0947bae4-135f-473c-809f-c8388b16ebec

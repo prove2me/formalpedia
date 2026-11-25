@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_shift_coeff_of_eval_identity
 -- name    : GlobalTheory.shift_coeff_of_eval_identity
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:02:33.908487+00:00
 -- url     : https://prove2.me/theorems/c814c1a7-d0d8-5b84-8d8b-0daa73a8662f

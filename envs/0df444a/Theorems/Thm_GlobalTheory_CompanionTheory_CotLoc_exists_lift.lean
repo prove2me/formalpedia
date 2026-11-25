@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_exists_lift
 -- name    : GlobalTheory.CompanionTheory.CotLoc.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:58:12.833542+00:00
 -- url     : https://prove2.me/theorems/c571149d-d458-47c0-bb2c-96cda072f215

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Slice_card_stabilizer_smul
 -- name    : GlobalTheory.Mass.Slice.card_stabilizer_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:48.47144+00:00
 -- url     : https://prove2.me/theorems/f1a29527-4a93-458e-95aa-ecd1c6cad7c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_AdditivityInDivisor_cycEval_add_cycle_ad3e7e5b4611
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_AdditivityInDivisor_cycEval_add_cycle_ad3e7e5b4611
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:05:40.165107+00:00
 -- url     : https://prove2.me/theorems/9f57ac9f-a557-4758-80cd-b74fce14ace8

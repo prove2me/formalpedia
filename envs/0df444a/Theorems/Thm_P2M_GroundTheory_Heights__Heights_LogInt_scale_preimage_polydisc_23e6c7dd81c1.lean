@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LogInt_scale_preimage_polydisc_23e6c7dd81c1
 -- name    : P2M_GroundTheory_Heights__Heights_LogInt_scale_preimage_polydisc_23e6c7dd81c1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:21.328353+00:00
 -- url     : https://prove2.me/theorems/f4f26a09-0567-459d-982d-36c78c1ca442

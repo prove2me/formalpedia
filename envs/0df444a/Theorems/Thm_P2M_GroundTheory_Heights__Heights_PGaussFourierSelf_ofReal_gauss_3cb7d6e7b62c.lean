@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussFourierSelf_ofReal_gauss_3cb7d6e7b62c
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussFourierSelf_ofReal_gauss_3cb7d6e7b62c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:46.301841+00:00
 -- url     : https://prove2.me/theorems/db8a327b-991e-4944-84a4-295dba5aa04b

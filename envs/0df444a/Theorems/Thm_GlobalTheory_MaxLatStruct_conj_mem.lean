@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatStruct_conj_mem
 -- name    : GlobalTheory.MaxLatStruct.conj_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:52:12.875253+00:00
 -- url     : https://prove2.me/theorems/601b000c-7d4e-460b-8a84-a17da60d5932

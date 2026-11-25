@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_mem_ringMultiples_c7c1b299c311
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_mem_ringMultiples_c7c1b299c311
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:54:53.31741+00:00
 -- url     : https://prove2.me/theorems/7b1a7ed7-7d82-5ad1-8097-077906df96c6

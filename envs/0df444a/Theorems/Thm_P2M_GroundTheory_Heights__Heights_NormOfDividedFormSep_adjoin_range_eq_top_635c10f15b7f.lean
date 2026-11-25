@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormOfDividedFormSep_adjoin_range_eq_top_635c10f15b7f
 -- name    : P2M_GroundTheory_Heights__Heights_NormOfDividedFormSep_adjoin_range_eq_top_635c10f15b7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:05:02.452099+00:00
 -- url     : https://prove2.me/theorems/bb3762ab-dae4-4d2a-8f5a-10936fd77ef4

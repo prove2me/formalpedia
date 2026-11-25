@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_l1_shift_single_le
 -- name    : GlobalTheory.l1_shift_single_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:30.676427+00:00
 -- url     : https://prove2.me/theorems/68ea590f-60d3-4392-97c2-7f399f2aa2a5

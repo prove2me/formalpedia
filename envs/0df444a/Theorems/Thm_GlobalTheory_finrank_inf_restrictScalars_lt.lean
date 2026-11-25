@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_finrank_inf_restrictScalars_lt
 -- name    : GlobalTheory.finrank_inf_restrictScalars_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:53:09.324873+00:00
 -- url     : https://prove2.me/theorems/4479879b-aa77-5f11-8bd2-bba2dc01ef45

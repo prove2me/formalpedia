@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_stepPlus
 -- name    : Formalism.InvariantFactorPaths.KP.Top.stepPlus
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:20.25495+00:00
 -- url     : https://prove2.me/theorems/626111cc-df88-4863-981a-61cf46773ada

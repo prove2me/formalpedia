@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplReduceConj_sum_symplCons_7f444f4725ab
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplReduceConj_sum_symplCons_7f444f4725ab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:14:07.064292+00:00
 -- url     : https://prove2.me/theorems/327f79f6-e29d-4113-9eec-dc7afaf95e9a

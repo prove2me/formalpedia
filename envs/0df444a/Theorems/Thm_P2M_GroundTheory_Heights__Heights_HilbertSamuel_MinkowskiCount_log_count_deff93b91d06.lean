@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_MinkowskiCount_log_count_deff93b91d06
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_MinkowskiCount_log_count_deff93b91d06
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:54.251561+00:00
 -- url     : https://prove2.me/theorems/3d4093d1-c2f8-4168-aa0a-00f654e29cf1

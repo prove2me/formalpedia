@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_sum_embeddings_eq_1d9d079e577f
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_sum_embeddings_eq_1d9d079e577f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:13:06.856128+00:00
 -- url     : https://prove2.me/theorems/adc4d2c7-6002-4123-b113-9e63d7c03bc9

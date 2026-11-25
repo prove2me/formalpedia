@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_finrank_mul_slope
 -- name    : GlobalTheory.ArchMetric.finrank_mul_slope
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:56:32.169404+00:00
 -- url     : https://prove2.me/theorems/44a09faf-a598-5c8b-a6bf-72403fee0780

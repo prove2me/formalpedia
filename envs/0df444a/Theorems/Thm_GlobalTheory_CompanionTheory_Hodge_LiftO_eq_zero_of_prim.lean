@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Hodge_LiftO_eq_zero_of_prim
 -- name    : GlobalTheory.CompanionTheory.Hodge.LiftO.eq_zero_of_prim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T22:22:48.006305+00:00
 -- url     : https://prove2.me/theorems/795ab633-07cc-4820-8c0e-6a5e2ccb6367

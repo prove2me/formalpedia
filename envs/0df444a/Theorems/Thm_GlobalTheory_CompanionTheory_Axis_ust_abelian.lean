@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Axis_ust_abelian
 -- name    : GlobalTheory.CompanionTheory.Axis.ust_abelian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:04:34.081035+00:00
 -- url     : https://prove2.me/theorems/35fcf6e0-edea-4b07-bba8-c1fc938678ec

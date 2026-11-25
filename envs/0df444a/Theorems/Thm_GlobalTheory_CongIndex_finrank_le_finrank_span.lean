@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CongIndex_finrank_le_finrank_span
 -- name    : GlobalTheory.CongIndex.finrank_le_finrank_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:58:28.142817+00:00
 -- url     : https://prove2.me/theorems/ad69294a-b6cd-55df-8042-6d0dbb9c7c44

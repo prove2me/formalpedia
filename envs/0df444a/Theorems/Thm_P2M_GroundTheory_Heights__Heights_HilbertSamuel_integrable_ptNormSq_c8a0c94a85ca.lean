@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_integrable_ptNormSq_c8a0c94a85ca
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_integrable_ptNormSq_c8a0c94a85ca
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:02.255191+00:00
 -- url     : https://prove2.me/theorems/7625dc68-2786-49dc-bfe5-acbfe31e8b64

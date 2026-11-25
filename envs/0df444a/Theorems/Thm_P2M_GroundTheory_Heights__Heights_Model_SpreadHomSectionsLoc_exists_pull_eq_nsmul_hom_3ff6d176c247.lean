@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_SpreadHomSectionsLoc_exists_pull_eq_nsmul_hom_3ff6d176c247
 -- name    : P2M_GroundTheory_Heights__Heights_Model_SpreadHomSectionsLoc_exists_pull_eq_nsmul_hom_3ff6d176c247
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:19.595836+00:00
 -- url     : https://prove2.me/theorems/97907f66-7d90-48c8-acbd-80d9d1e2d36c

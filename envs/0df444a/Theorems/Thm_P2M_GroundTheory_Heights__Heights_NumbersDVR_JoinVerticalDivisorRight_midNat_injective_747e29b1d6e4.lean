@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinVerticalDivisorRight_midNat_injective_747e29b1d6e4
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinVerticalDivisorRight_midNat_injective_747e29b1d6e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:09:19.193985+00:00
 -- url     : https://prove2.me/theorems/ad5a9417-71a4-4a91-9c22-79a28c393f8c

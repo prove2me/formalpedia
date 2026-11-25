@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_exists_sum_induced_characters_of_mem_degreeOneDiff
 -- name    : GlobalTheory.BrauerZero.exists_sum_induced_characters_of_mem_degreeOneDiff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:57:52.667606+00:00
 -- url     : https://prove2.me/theorems/7db5b217-59a3-5ad3-a3a4-e2993a4af27c

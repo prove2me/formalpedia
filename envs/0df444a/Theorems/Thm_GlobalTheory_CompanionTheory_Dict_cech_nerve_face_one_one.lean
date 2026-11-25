@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dict_cech_nerve_face_one_one
 -- name    : GlobalTheory.CompanionTheory.Dict.cech_nerve_face_one_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:58:45.463823+00:00
 -- url     : https://prove2.me/theorems/b362025b-e283-45e0-88cc-807bccc5dce8

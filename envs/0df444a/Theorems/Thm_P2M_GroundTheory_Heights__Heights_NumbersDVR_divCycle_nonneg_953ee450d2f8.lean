@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_divCycle_nonneg_953ee450d2f8
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_divCycle_nonneg_953ee450d2f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:10:20.210875+00:00
 -- url     : https://prove2.me/theorems/75d52cb1-b717-4b2b-bae8-0b521cdba88d

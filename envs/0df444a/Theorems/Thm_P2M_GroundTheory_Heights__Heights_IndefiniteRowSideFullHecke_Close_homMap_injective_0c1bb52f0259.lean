@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_homMap_injective_0c1bb52f0259
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_homMap_injective_0c1bb52f0259
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:25:33.334235+00:00
 -- url     : https://prove2.me/theorems/490bdbcd-539a-5d64-8ea0-50f7a18740c8

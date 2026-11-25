@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BigCellUnitary_col_e
 -- name    : GlobalTheory.BigCellUnitary.col_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:57:34.646402+00:00
 -- url     : https://prove2.me/theorems/69d2c756-c099-4dbc-b4af-c017547e6261

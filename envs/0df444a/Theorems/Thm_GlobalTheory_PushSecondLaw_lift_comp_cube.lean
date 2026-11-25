@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PushSecondLaw_lift_comp_cube
 -- name    : GlobalTheory.PushSecondLaw.lift_comp_cube
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:55:48.718808+00:00
 -- url     : https://prove2.me/theorems/ecbdc58a-75cd-5552-9179-60c97fd317e9

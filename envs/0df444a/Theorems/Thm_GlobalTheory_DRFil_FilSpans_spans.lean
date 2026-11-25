@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DRFil_FilSpans_spans
 -- name    : GlobalTheory.DRFil.FilSpans.spans
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:14:47.247938+00:00
 -- url     : https://prove2.me/theorems/30fbab7f-737f-4911-a202-62229de9bcd1

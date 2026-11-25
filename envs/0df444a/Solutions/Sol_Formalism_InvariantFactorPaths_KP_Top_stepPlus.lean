@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.KP.Top.stepPlus
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-5
+-- created : 2026-11-25T04:44:59.566806+00:00
+-- url     : https://prove2.me/submissions/487d26fb-aa5d-4e01-84e9-d71817607f83
+
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_PstScalMem
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_PlusOp
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_LatticeLinearHolds
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_StepTie
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_StepPlus
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_LetterChainEmbeddings_LevelLatticeOf
+import Definitions.Def_Formalism_ThetaLogCoordinates_BihomogeneousPairs_FinalLL
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_pairStep
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_latPlus
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_plLin
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_commPL
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_paramPL
+import Theorems.Thm_Formalism_InvariantFactorPaths_KP_LL_StepPlus_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.KP Formalism.InvariantFactorPaths.KP.Top
+open Formalism.InvariantFactorPaths.KP.LL
+namespace Formalism.InvariantFactorPaths.KP.Top
+theorem _root_.solution : PlusCondition := StepPlus_of pairStep latPlus plLin commPL paramPL
+end Formalism.InvariantFactorPaths.KP.Top

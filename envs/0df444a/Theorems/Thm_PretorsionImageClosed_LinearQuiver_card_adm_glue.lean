@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_card_adm_glue
 -- name    : PretorsionImageClosed.LinearQuiver.card_adm_glue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:21:42.62918+00:00
 -- url     : https://prove2.me/theorems/064a59d2-c99d-4328-9cef-84dd8c524b78

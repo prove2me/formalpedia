@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QuadraticValuationIndexTwo_exists_subgroup_index_two
 -- name    : GlobalTheory.QuadraticValuationIndexTwo.exists_subgroup_index_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T19:13:27.078187+00:00
 -- url     : https://prove2.me/theorems/8f7e95ea-ad52-4343-897d-57ffaf521fa2

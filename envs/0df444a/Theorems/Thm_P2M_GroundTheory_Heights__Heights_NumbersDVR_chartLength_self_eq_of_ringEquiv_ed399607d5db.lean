@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_chartLength_self_eq_of_ringEquiv_ed399607d5db
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_chartLength_self_eq_of_ringEquiv_ed399607d5db
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:10:59.364424+00:00
 -- url     : https://prove2.me/theorems/3bf28dcb-c762-4279-b45c-9db0e7a6b3f7

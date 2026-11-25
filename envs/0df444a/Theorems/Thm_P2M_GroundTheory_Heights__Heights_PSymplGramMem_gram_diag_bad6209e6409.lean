@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplGramMem_gram_diag_bad6209e6409
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplGramMem_gram_diag_bad6209e6409
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:16.875885+00:00
 -- url     : https://prove2.me/theorems/442f88e1-d615-4917-8f9a-b5a4fef2ccd4

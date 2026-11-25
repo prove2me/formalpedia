@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_exists_mcPts_not_mem_mcPts_dd9f6b21ff26
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_exists_mcPts_not_mem_mcPts_dd9f6b21ff26
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:37.824801+00:00
 -- url     : https://prove2.me/theorems/026e53d1-1ccf-4d21-bfbd-620eb1a97da7

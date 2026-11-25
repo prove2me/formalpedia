@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_generic_elements_exist
 -- name    : Formalism.InvariantFactorPaths.G7.generic_elements_exist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:14:48.433988+00:00
 -- url     : https://prove2.me/theorems/673a181c-24bf-47fd-ac73-cac3345599c0

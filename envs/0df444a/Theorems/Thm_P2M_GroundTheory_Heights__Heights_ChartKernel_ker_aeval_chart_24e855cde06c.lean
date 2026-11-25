@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartKernel_ker_aeval_chart_24e855cde06c
 -- name    : P2M_GroundTheory_Heights__Heights_ChartKernel_ker_aeval_chart_24e855cde06c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:05.616569+00:00
 -- url     : https://prove2.me/theorems/b310187c-87ed-5b5a-a775-7d67a52d8701

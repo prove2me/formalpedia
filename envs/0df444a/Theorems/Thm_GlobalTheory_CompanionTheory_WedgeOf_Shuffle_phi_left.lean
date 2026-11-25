@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_Shuffle_phi_left
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.Shuffle.phi_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:58:44.317068+00:00
 -- url     : https://prove2.me/theorems/f024900a-559f-458f-97b7-1b39c5cccce4

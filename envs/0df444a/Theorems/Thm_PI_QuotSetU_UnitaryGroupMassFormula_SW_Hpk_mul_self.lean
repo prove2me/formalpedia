@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QuotSetU_UnitaryGroupMassFormula_SW_Hpk_mul_self
 -- name    : PI.QuotSetU.UnitaryGroupMassFormula.SW.Hpk_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:30:42.264302+00:00
 -- url     : https://prove2.me/theorems/bb69741c-b8b3-49c2-8cd3-39425d0395b8

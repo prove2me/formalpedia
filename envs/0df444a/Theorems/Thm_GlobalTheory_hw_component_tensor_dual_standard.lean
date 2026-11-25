@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hw_component_tensor_dual_standard
 -- name    : GlobalTheory.hw_component_tensor_dual_standard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:15.396724+00:00
 -- url     : https://prove2.me/theorems/cf42c0e1-6446-56a7-968d-33e1483ec074

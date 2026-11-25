@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_isChowFormCycle_iff_a7991db0b825
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_isChowFormCycle_iff_a7991db0b825
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:13:46.723488+00:00
 -- url     : https://prove2.me/theorems/1afdaa7e-137e-4330-bf55-226b73f335b0

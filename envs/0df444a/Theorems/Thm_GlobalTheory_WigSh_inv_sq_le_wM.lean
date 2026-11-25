@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_inv_sq_le_wM
 -- name    : GlobalTheory.WigSh.inv_sq_le_wM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:02:07.379992+00:00
 -- url     : https://prove2.me/theorems/7700e08f-492f-4200-b78b-81b8508d5802

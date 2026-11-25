@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumOfFiltration_eventually_mixedDiff_sum_b0957ba4a222
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumOfFiltration_eventually_mixedDiff_sum_b0957ba4a222
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:09:11.342501+00:00
 -- url     : https://prove2.me/theorems/ab54273e-719a-4597-9dce-481cd44c238f

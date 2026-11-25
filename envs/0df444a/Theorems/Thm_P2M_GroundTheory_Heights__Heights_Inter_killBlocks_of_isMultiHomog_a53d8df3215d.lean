@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_killBlocks_of_isMultiHomog_a53d8df3215d
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_killBlocks_of_isMultiHomog_a53d8df3215d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:27:18.769456+00:00
 -- url     : https://prove2.me/theorems/aa2d8ce3-d054-4d21-8863-10146f4a23d0

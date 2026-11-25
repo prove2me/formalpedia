@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_zetaDeg_split_66f428df64d0
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_zetaDeg_split_66f428df64d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:16:04.349483+00:00
 -- url     : https://prove2.me/theorems/64cb8b96-c614-5cc5-9e25-803364ab8805

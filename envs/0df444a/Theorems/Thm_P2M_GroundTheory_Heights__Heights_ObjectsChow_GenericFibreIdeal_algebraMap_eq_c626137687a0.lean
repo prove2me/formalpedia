@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreIdeal_algebraMap_eq_c626137687a0
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreIdeal_algebraMap_eq_c626137687a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:19:40.829849+00:00
 -- url     : https://prove2.me/theorems/e1ac92c1-dc32-515f-927a-8f213470e15f

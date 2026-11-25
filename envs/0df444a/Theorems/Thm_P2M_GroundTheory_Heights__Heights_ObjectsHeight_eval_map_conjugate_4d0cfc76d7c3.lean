@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_eval_map_conjugate_4d0cfc76d7c3
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_eval_map_conjugate_4d0cfc76d7c3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:12:57.455666+00:00
 -- url     : https://prove2.me/theorems/86769cdd-6b89-417d-9c6b-388f1aa84bdc

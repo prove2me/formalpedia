@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_weight_comp_addMonoidHom_apply_89a8859bc25e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_weight_comp_addMonoidHom_apply_89a8859bc25e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:13:02.580696+00:00
 -- url     : https://prove2.me/theorems/8267f75d-15e8-48a6-b90f-851b12903750

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isFlagPair_refl_eac4f8848e7e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isFlagPair_refl_eac4f8848e7e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:11:48.634794+00:00
 -- url     : https://prove2.me/theorems/a9a80d12-01f5-4abc-9fc1-03e3a47bc79f

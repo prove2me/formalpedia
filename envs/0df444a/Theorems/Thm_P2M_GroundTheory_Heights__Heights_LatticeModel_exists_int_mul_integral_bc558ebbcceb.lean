@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeModel_exists_int_mul_integral_bc558ebbcceb
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeModel_exists_int_mul_integral_bc558ebbcceb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:27:31.66581+00:00
 -- url     : https://prove2.me/theorems/49ad43ad-93f1-425d-8881-65c89d9bc399

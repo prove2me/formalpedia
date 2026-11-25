@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_BadSetSmaller_proof_2a2d0eb10d77
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_BadSetSmaller_proof_2a2d0eb10d77
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:58:35.895954+00:00
 -- url     : https://prove2.me/theorems/78d808b3-9451-46c7-b5d9-fdee9baa8133

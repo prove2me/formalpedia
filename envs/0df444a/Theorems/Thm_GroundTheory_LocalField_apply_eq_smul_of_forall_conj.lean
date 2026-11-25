@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_apply_eq_smul_of_forall_conj
 -- name    : GroundTheory.LocalField.apply_eq_smul_of_forall_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:34:45.576474+00:00
 -- url     : https://prove2.me/theorems/36f2a412-6de8-5b40-b78b-374cddccaac3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Brauer_centralizer_eq_iff_finrank_sq
 -- name    : GroundTheory.Brauer.centralizer_eq_iff_finrank_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:15:30.151432+00:00
 -- url     : https://prove2.me/theorems/c9a49bea-612c-4312-8471-196e6d6132a6

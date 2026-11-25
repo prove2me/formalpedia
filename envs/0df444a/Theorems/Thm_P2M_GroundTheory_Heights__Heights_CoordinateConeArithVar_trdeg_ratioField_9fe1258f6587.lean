@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_trdeg_ratioField_9fe1258f6587
 -- name    : P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_trdeg_ratioField_9fe1258f6587
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:56:56.521272+00:00
 -- url     : https://prove2.me/theorems/7c53e571-b537-4eea-a16b-3afd66d86c69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EquivariantSubspace_smoothOnH_zero
 -- name    : GlobalTheory.EquivariantSubspace.smoothOnH_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:59:51.495913+00:00
 -- url     : https://prove2.me/theorems/32f377c3-659b-4a6e-9af5-71e06b4faddf

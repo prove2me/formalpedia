@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplGramMem_det_map_cast_e51410544caf
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplGramMem_det_map_cast_e51410544caf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:05.798804+00:00
 -- url     : https://prove2.me/theorems/ee55a4c8-c0e1-5d85-9133-85a57d596273

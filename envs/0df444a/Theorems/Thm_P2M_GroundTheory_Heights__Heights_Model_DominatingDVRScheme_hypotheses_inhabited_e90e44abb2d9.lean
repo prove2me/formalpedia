@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_DominatingDVRScheme_hypotheses_inhabited_e90e44abb2d9
 -- name    : P2M_GroundTheory_Heights__Heights_Model_DominatingDVRScheme_hypotheses_inhabited_e90e44abb2d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:49:34.185469+00:00
 -- url     : https://prove2.me/theorems/8fe6a834-fa7b-449d-a71b-546770b3fbd6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_CongrData_exists_pow_eq
 -- name    : GroundTheory.LocalField.CongrData.exists_pow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:35:35.377417+00:00
 -- url     : https://prove2.me/theorems/aa430e91-229e-4f23-9f4d-0f35ff8f629b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_finite_blockWeight_eq_7d351ef1e570
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_finite_blockWeight_eq_7d351ef1e570
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:10:39.245289+00:00
 -- url     : https://prove2.me/theorems/48986bd8-1763-4423-b586-1e761d63a3e8

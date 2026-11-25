@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Conservation_statement_holds_b1c9a6f1060b
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Conservation_statement_holds_b1c9a6f1060b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:57.334106+00:00
 -- url     : https://prove2.me/theorems/f14cdbb8-7f34-422f-aa4f-c18503b91b03

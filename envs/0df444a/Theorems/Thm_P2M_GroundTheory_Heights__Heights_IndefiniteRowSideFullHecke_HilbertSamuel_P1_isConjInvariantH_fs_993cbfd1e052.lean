@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_isConjInvariantH_fs_993cbfd1e052
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_isConjInvariantH_fs_993cbfd1e052
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:41.513046+00:00
 -- url     : https://prove2.me/theorems/3f56ff52-0dc7-46d0-b0e8-9ab7dd129ea1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Arith_Abelian_card_roots__Sq_le_of_two_39a1c37b6e0f
 -- name    : P2M_GroundTheory_Arith_Abelian_card_roots__Sq_le_of_two_39a1c37b6e0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:16:42.983815+00:00
 -- url     : https://prove2.me/theorems/2b897467-804a-4604-8104-cc192677e524

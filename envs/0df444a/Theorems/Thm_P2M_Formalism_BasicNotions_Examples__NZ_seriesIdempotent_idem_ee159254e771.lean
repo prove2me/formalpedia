@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_seriesIdempotent_idem_ee159254e771
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_seriesIdempotent_idem_ee159254e771
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:32:35.370289+00:00
 -- url     : https://prove2.me/theorems/73e38cda-9706-483c-a228-e467cbc4b47b

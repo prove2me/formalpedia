@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesCoordDet_det_eq_89a8912c4c84
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesCoordDet_det_eq_89a8912c4c84
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:31.156004+00:00
 -- url     : https://prove2.me/theorems/5c6da612-26b1-4a21-b597-a70d2dd8011c

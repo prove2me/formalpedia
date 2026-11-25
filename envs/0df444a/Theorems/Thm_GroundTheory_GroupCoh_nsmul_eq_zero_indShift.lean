@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_nsmul_eq_zero_indShift
 -- name    : GroundTheory.GroupCoh.nsmul_eq_zero_indShift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:27.405882+00:00
 -- url     : https://prove2.me/theorems/0253e5bb-a848-48e3-b10d-ec832b93cd44

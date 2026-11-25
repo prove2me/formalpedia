@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_decompose_blockWeight_8e63e41e72c9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_decompose_blockWeight_8e63e41e72c9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:11:37.240598+00:00
 -- url     : https://prove2.me/theorems/2d5c2a2c-ee62-4901-a687-7c4b3a7ca334

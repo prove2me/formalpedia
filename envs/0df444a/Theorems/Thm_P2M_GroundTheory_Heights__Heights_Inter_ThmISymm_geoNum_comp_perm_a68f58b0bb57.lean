@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmISymm_geoNum_comp_perm_a68f58b0bb57
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmISymm_geoNum_comp_perm_a68f58b0bb57
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:02:47.337829+00:00
 -- url     : https://prove2.me/theorems/ee330073-8093-540d-97b9-87fac0be736c

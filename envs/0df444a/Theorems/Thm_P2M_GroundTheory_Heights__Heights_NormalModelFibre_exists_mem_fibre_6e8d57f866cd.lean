@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelFibre_exists_mem_fibre_6e8d57f866cd
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelFibre_exists_mem_fibre_6e8d57f866cd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:05:15.6968+00:00
 -- url     : https://prove2.me/theorems/9d7fdd7e-0a47-491e-ae40-a21d421eee35

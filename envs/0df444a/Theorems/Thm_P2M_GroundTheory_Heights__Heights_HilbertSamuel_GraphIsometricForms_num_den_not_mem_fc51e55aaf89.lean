@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_num_den_not_mem_fc51e55aaf89
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_num_den_not_mem_fc51e55aaf89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:20:10.289737+00:00
 -- url     : https://prove2.me/theorems/4f4ceac0-6f68-45e3-bf5e-11a906732bc2

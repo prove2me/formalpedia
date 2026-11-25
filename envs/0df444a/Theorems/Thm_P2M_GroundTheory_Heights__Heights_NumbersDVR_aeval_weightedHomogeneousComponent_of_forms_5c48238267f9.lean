@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_aeval_weightedHomogeneousComponent_of_forms_5c48238267f9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_aeval_weightedHomogeneousComponent_of_forms_5c48238267f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:09:50.434911+00:00
 -- url     : https://prove2.me/theorems/5545b878-ced8-4384-9030-31a0978770ed

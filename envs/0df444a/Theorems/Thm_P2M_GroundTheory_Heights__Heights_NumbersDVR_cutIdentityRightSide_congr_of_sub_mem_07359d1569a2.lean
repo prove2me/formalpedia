@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_cutIdentityRightSide_congr_of_sub_mem_07359d1569a2
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_cutIdentityRightSide_congr_of_sub_mem_07359d1569a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:09:20.168235+00:00
 -- url     : https://prove2.me/theorems/5668e2d7-3a52-4616-9e86-864370120900

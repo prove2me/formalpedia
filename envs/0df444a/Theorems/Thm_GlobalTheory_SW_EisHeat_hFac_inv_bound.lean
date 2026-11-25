@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisHeat_hFac_inv_bound
 -- name    : GlobalTheory.SW.EisHeat.hFac_inv_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:50:02.817784+00:00
 -- url     : https://prove2.me/theorems/36f30403-fce8-5da4-8742-389bf2fb0ef1

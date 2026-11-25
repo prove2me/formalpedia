@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThreeFam_linearIndependent_5353412cd3cf
 -- name    : P2M_GroundTheory_Heights__Heights_KeyFormula_thetaThreeFam_linearIndependent_5353412cd3cf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:35.932695+00:00
 -- url     : https://prove2.me/theorems/2e39c0fc-e05a-4485-adf5-c7ddcdd3179e

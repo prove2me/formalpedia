@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplShortPrim_intVec_smul_63230d9938e4
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplShortPrim_intVec_smul_63230d9938e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:14:04.722556+00:00
 -- url     : https://prove2.me/theorems/abf6d41f-5816-5789-b573-ff9db8b3265a

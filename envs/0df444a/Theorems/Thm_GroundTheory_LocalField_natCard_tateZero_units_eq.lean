@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_natCard_tateZero_units_eq
 -- name    : GroundTheory.LocalField.natCard_tateZero_units_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:15.825834+00:00
 -- url     : https://prove2.me/theorems/af4b7220-be24-433f-a1cc-9ce8dc6bfaac

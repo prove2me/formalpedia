@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_adjoin_eq_top_of_irreducible
 -- name    : GroundTheory.LocalField.adjoin_eq_top_of_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:14:36.721291+00:00
 -- url     : https://prove2.me/theorems/b91fc7e3-69bd-4272-8fd3-19dda64bc2b0

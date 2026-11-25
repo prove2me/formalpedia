@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_leadingTermLemmas_core
 -- name    : Formalism.GM.leadingTermLemmas.core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:24:45.780795+00:00
 -- url     : https://prove2.me/theorems/c60f96af-241b-4f87-b962-f29a34e0caac

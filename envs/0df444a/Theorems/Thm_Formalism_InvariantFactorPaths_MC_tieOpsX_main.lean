@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_MC_tieOpsX_main
 -- name    : Formalism.InvariantFactorPaths.MC.tieOpsX_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:13:31.326438+00:00
 -- url     : https://prove2.me/theorems/33b9ffb7-fa90-561a-8550-899ce6849835

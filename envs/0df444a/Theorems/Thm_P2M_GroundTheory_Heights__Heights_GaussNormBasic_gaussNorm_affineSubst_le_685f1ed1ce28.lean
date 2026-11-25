@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GaussNormBasic_gaussNorm_affineSubst_le_685f1ed1ce28
 -- name    : P2M_GroundTheory_Heights__Heights_GaussNormBasic_gaussNorm_affineSubst_le_685f1ed1ce28
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:34.557731+00:00
 -- url     : https://prove2.me/theorems/3a13da0d-d440-4361-9bec-458d926c1886

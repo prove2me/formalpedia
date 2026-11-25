@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_absNorm_extDifferent_0c7e900f3013
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_absNorm_extDifferent_0c7e900f3013
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:05:10.268151+00:00
 -- url     : https://prove2.me/theorems/aed09dbf-694b-4ec2-8fe3-85280755e2bd

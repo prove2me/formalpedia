@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isHeat_thH_of_isSB
 -- name    : GlobalTheory.T.isHeat_thH_of_isSB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:48:39.478215+00:00
 -- url     : https://prove2.me/theorems/4d20d127-4ddd-4fb1-8bd3-09144b6d7683

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_form_map_residue_eq_bed448458014
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_form_map_residue_eq_bed448458014
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:09:51.420521+00:00
 -- url     : https://prove2.me/theorems/f73c5a7f-531e-5d9f-be13-1ce2385345ea

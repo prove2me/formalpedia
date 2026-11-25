@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_cohomMap_retract_fad49f66fb1a
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_cohomMap_retract_fad49f66fb1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:28:52.657334+00:00
 -- url     : https://prove2.me/theorems/10335c71-9938-44db-a30b-f020416819ca

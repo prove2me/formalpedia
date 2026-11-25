@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Witt_exists_isom_move
 -- name    : GlobalTheory.Mass.Witt.exists_isom_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:00:02.022915+00:00
 -- url     : https://prove2.me/theorems/03f226f2-6082-44ec-8e67-6945b7f14022

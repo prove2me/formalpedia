@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramSelfDual_selfDualLattices
 -- name    : GlobalTheory.UnramSelfDual.selfDualLattices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:47:29.327432+00:00
 -- url     : https://prove2.me/theorems/60f78eb0-afa1-41ee-98d2-98ca8a939c1e

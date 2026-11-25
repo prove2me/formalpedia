@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_weightedHomogeneousComponent_monomial__48ac7adff2ee
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_weightedHomogeneousComponent_monomial__48ac7adff2ee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:57.743741+00:00
 -- url     : https://prove2.me/theorems/ad51c376-a65f-5e94-8d74-3bc1f2ac332d

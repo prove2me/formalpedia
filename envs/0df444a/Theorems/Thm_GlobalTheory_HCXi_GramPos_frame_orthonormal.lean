@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_GramPos_frame_orthonormal
 -- name    : GlobalTheory.HCXi.GramPos.frame_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:50:15.394802+00:00
 -- url     : https://prove2.me/theorems/ebb17c57-f070-4e4c-8e91-7a7bbc4928c5

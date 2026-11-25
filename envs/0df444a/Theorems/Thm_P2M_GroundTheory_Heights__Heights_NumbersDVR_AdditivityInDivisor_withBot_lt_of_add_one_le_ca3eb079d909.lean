@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_AdditivityInDivisor_withBot_lt_of_add_one_le_ca3eb079d909
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_AdditivityInDivisor_withBot_lt_of_add_one_le_ca3eb079d909
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:05:19.646807+00:00
 -- url     : https://prove2.me/theorems/6bc6d149-8963-4316-95c7-5f1dec1c046b

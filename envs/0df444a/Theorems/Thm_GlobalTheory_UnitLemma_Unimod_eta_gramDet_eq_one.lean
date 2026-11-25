@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_Unimod_eta_gramDet_eq_one
 -- name    : GlobalTheory.UnitLemma.Unimod.eta_gramDet_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:01:56.314456+00:00
 -- url     : https://prove2.me/theorems/a8a1ce46-b43b-56b2-8385-afd51c259abd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ComplexChowFormToChowForm_vanishes_zero_iff_dvd_e8d9621446a8
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ComplexChowFormToChowForm_vanishes_zero_iff_dvd_e8d9621446a8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:12:56.325801+00:00
 -- url     : https://prove2.me/theorems/97ccac40-be3b-4c2a-b19f-602cff1965fa

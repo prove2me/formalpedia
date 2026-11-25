@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_Ks_le_Kinf
 -- name    : GlobalTheory.TateDecomp.Ks_le_Kinf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:52:58.352028+00:00
 -- url     : https://prove2.me/theorems/4a176867-c603-41a7-928d-70b902474ca7

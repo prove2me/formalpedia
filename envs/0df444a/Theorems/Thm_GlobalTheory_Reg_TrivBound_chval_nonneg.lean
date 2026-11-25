@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Reg_TrivBound_chval_nonneg
 -- name    : GlobalTheory.Reg.TrivBound.chval_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T11:30:08.652805+00:00
 -- url     : https://prove2.me/theorems/83d68286-9914-4b8a-81ac-9f31d0ce7820

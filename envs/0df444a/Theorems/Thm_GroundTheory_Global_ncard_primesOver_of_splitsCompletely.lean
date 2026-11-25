@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_ncard_primesOver_of_splitsCompletely
 -- name    : GroundTheory.Global.ncard_primesOver_of_splitsCompletely
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:17.851307+00:00
 -- url     : https://prove2.me/theorems/4ad7db19-c1b1-4344-8cb4-81c9f81b14e0

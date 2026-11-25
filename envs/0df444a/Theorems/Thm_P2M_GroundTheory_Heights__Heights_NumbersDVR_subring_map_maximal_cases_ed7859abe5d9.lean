@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_subring_map_maximal_cases_ed7859abe5d9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_subring_map_maximal_cases_ed7859abe5d9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:13:29.563062+00:00
 -- url     : https://prove2.me/theorems/d9fbe0f9-7181-461c-9860-9ef8fa4c10a3

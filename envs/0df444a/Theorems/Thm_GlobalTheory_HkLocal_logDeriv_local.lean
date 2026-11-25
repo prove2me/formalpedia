@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HkLocal_logDeriv_local
 -- name    : GlobalTheory.HkLocal.logDeriv_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:37:40.028587+00:00
 -- url     : https://prove2.me/theorems/a621e7ab-d1b2-4e74-91f2-86fbb2c9d306

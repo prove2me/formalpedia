@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_form_smul_left
 -- name    : GlobalTheory.ArchMetric.form_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:57:27.222489+00:00
 -- url     : https://prove2.me/theorems/bdd869cb-0623-4bc0-b7d0-23ffc3ca82f5

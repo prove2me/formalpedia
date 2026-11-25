@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LBr2_g_psi_at_modulus
 -- name    : Formalism.LFunctionChainParameters.LBr2.g_psi_at_modulus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:39:10.866418+00:00
 -- url     : https://prove2.me/theorems/7e26d3f7-71e5-4b8f-af8e-6cfdab38b238

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_sliceMeasure_eq_smul_haar_b8209152515f
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_sliceMeasure_eq_smul_haar_b8209152515f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:29.715801+00:00
 -- url     : https://prove2.me/theorems/89cb2cb5-1fb5-4dce-8f1b-0cb31cd8982b

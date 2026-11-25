@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_two_mem_primesB_38317b996a21
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_two_mem_primesB_38317b996a21
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:05:25.979773+00:00
 -- url     : https://prove2.me/theorems/e3453df8-b5b9-4aff-a663-457a44180344

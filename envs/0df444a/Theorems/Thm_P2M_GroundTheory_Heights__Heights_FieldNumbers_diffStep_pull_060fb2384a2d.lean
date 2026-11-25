@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_diffStep_pull_060fb2384a2d
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_diffStep_pull_060fb2384a2d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:17:49.493811+00:00
 -- url     : https://prove2.me/theorems/4ccc4a02-ecf5-493b-9281-7009d6174c84

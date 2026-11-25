@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HeisenbergLevelMinors_dmin_inv
 -- name    : Formalism.FourierDecayAlt.P.HeisenbergLevelMinors.dmin_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:45:13.97482+00:00
 -- url     : https://prove2.me/theorems/0e1f13b6-2b2a-4ab2-a13f-e48bd8851232

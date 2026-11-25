@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentLoc_toL_injective_4902110fbee0
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentLoc_toL_injective_4902110fbee0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:34:51.568906+00:00
 -- url     : https://prove2.me/theorems/f6f08312-9acb-4840-8e87-b58f76a71196

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_divCycle_eq_zero_of_not_mem_09583eadab34
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_divCycle_eq_zero_of_not_mem_09583eadab34
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:09:55.047248+00:00
 -- url     : https://prove2.me/theorems/01cbe2ad-be9d-4c78-aabd-20cd90470bc7

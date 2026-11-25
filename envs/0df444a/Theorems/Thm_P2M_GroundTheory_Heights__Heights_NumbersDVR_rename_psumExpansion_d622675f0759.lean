@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_rename_psumExpansion_d622675f0759
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_rename_psumExpansion_d622675f0759
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:12:03.858592+00:00
 -- url     : https://prove2.me/theorems/1af66bd2-ff09-45c7-88a2-d8d52b0da47a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LineChowForm_pseudo_db09f682ed74
 -- name    : P2M_GroundTheory_Heights__Heights_LineChowForm_pseudo_db09f682ed74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:53.93325+00:00
 -- url     : https://prove2.me/theorems/d3e877c5-103d-4a5e-9457-b5bd0de34ad7

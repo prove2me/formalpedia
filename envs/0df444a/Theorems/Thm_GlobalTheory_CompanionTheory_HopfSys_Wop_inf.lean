@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HopfSys_Wop_inf
 -- name    : GlobalTheory.CompanionTheory.HopfSys.Wop_inf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:11:12.015402+00:00
 -- url     : https://prove2.me/theorems/d8708f71-736a-5731-a6aa-3e91d2eef267

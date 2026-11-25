@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_infiniteProj_posIdele
 -- name    : GroundTheory.Automorphic.Reduction.infiniteProj_posIdele
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:56:24.135377+00:00
 -- url     : https://prove2.me/theorems/f7d37c8f-c2a8-42f3-bddb-ea98f7fbd3d1

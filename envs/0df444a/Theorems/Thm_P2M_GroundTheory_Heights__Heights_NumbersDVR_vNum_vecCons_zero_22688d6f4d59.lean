@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_vNum_vecCons_zero_22688d6f4d59
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_vNum_vecCons_zero_22688d6f4d59
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:12:58.657796+00:00
 -- url     : https://prove2.me/theorems/ac75afe6-44ad-4c29-8abc-0cd7f322498b

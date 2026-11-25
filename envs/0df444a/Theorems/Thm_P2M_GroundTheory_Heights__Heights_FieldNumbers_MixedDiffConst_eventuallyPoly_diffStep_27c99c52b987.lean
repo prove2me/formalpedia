@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_MixedDiffConst_eventuallyPoly_diffStep_27c99c52b987
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_MixedDiffConst_eventuallyPoly_diffStep_27c99c52b987
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:57:09.095204+00:00
 -- url     : https://prove2.me/theorems/6e894a2b-4b8e-418b-97f0-ef6c0f57cb1d

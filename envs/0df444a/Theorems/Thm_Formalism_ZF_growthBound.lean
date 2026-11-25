@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZF_growthBound
 -- name    : Formalism.ZF.growthBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:58:47.534539+00:00
 -- url     : https://prove2.me/theorems/e969771e-3da7-4c4e-9730-ccc3a3c99a6f

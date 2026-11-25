@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HermNorm_li_eq_zero_of_norm_eq_zero_6c76e467f5e9
 -- name    : P2M_GroundTheory_Heights__Heights_HermNorm_li_eq_zero_of_norm_eq_zero_6c76e467f5e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:59.105358+00:00
 -- url     : https://prove2.me/theorems/e762c736-bbd8-4104-8f83-848eee2af360

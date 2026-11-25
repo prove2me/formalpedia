@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplMinExists_continuous_qf_a86f9130f63a
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplMinExists_continuous_qf_a86f9130f63a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:23.087923+00:00
 -- url     : https://prove2.me/theorems/2cce433a-404b-45ad-9b5d-c197e05a61d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_logRd_nonneg_4800b4fb3388
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_logRd_nonneg_4800b4fb3388
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:05:00.302257+00:00
 -- url     : https://prove2.me/theorems/ab2731e6-8161-4e3a-a874-f0ec7eff9fb3

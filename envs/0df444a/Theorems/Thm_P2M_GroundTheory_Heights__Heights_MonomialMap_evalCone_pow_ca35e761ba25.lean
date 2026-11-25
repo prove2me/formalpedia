@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MonomialMap_evalCone_pow_ca35e761ba25
 -- name    : P2M_GroundTheory_Heights__Heights_MonomialMap_evalCone_pow_ca35e761ba25
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:49:53.066265+00:00
 -- url     : https://prove2.me/theorems/899ea14b-adc3-434e-acb5-251c9e210b91

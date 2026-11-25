@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_TateAcyclic_of_shortExact_X__8e70e005e54b
 -- name    : P2M_GroundTheory_GroupCoh_TateAcyclic_of_shortExact_X__8e70e005e54b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:21:09.064491+00:00
 -- url     : https://prove2.me/theorems/f12255ba-39c1-4f37-9eab-7f74a2f5a86f

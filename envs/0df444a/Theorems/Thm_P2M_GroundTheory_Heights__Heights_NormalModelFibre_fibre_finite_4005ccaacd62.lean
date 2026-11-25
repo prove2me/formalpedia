@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelFibre_fibre_finite_4005ccaacd62
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelFibre_fibre_finite_4005ccaacd62
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:05:17.65202+00:00
 -- url     : https://prove2.me/theorems/1d5b74e7-ae7f-466f-ab29-c94d95090c49

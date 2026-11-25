@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatStruct_finite_field_invol
 -- name    : GlobalTheory.MaxLatStruct.finite_field_invol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:00:30.590293+00:00
 -- url     : https://prove2.me/theorems/0bfbfef0-66b0-4b90-ac42-bd6419473f50

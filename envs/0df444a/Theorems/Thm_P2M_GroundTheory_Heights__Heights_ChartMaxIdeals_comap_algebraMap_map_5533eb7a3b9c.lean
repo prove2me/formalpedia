@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_comap_algebraMap_map_5533eb7a3b9c
 -- name    : P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_comap_algebraMap_map_5533eb7a3b9c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:16:10.385897+00:00
 -- url     : https://prove2.me/theorems/2f818a91-4bb8-5dfb-85e8-b063c300a8c8

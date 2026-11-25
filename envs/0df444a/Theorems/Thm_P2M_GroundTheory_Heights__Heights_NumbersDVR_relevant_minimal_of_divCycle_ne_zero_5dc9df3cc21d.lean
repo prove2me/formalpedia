@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_relevant_minimal_of_divCycle_ne_zero_5dc9df3cc21d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_relevant_minimal_of_divCycle_ne_zero_5dc9df3cc21d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:12:13.481904+00:00
 -- url     : https://prove2.me/theorems/e8ae3522-487a-4dfb-b5ca-0159a0658fee

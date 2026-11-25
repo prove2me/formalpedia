@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatStruct_star_one_mem
 -- name    : GlobalTheory.MaxLatStruct.star_one_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:53:43.991218+00:00
 -- url     : https://prove2.me/theorems/7a30fd98-afbd-4f89-a55a-291c5e7aa3ed

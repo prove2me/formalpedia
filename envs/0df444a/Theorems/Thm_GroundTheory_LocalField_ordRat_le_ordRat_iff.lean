@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ordRat_le_ordRat_iff
 -- name    : GroundTheory.LocalField.ordRat_le_ordRat_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:04.429159+00:00
 -- url     : https://prove2.me/theorems/b6659dd3-e169-5cea-aaa9-334490970eac

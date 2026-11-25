@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_Model_Box_strictAnti
 -- name    : GlobalTheory.WigSh.Model.Box.strictAnti
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:53:31.479632+00:00
 -- url     : https://prove2.me/theorems/7f51d647-92a2-5268-b537-87913c8366cd

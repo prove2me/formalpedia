@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_pullSectionOn_injective_of_app_69a59355bfc7
 -- name    : P2M_GroundTheory_Heights__Heights_Model_pullSectionOn_injective_of_app_69a59355bfc7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:29:46.480796+00:00
 -- url     : https://prove2.me/theorems/187a8dce-6204-4394-b62c-8b6b2bea7736

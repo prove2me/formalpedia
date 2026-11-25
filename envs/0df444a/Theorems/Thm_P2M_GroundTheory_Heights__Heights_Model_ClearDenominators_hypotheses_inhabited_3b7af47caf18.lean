@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_ClearDenominators_hypotheses_inhabited_3b7af47caf18
 -- name    : P2M_GroundTheory_Heights__Heights_Model_ClearDenominators_hypotheses_inhabited_3b7af47caf18
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:49:01.97817+00:00
 -- url     : https://prove2.me/theorems/8c9a96a9-9fee-4b36-bd52-2386277cdb99

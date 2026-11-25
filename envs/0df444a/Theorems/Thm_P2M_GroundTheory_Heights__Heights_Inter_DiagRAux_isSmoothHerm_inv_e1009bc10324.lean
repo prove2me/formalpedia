@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_isSmoothHerm_inv_e1009bc10324
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_isSmoothHerm_inv_e1009bc10324
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:11.221862+00:00
 -- url     : https://prove2.me/theorems/4c8b0f47-2747-4f93-97dc-656c35e5de7f

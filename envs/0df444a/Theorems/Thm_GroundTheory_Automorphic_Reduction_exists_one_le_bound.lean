@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_one_le_bound
 -- name    : GroundTheory.Automorphic.Reduction.exists_one_le_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:05:55.866522+00:00
 -- url     : https://prove2.me/theorems/98537a3b-7868-4a9b-83c1-8f3cba766cf0

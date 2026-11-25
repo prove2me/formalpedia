@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_killBlocks_of_isMultiHomog_d5143d61805c
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PFContracted_killBlocks_of_isMultiHomog_d5143d61805c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:17:07.693444+00:00
 -- url     : https://prove2.me/theorems/18e7121d-64d8-58f6-9a16-e54e30d38f55

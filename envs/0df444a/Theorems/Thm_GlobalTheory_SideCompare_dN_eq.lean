@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SideCompare_dN_eq
 -- name    : GlobalTheory.SideCompare.dN_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:01:25.234305+00:00
 -- url     : https://prove2.me/theorems/e31a5fff-d5f0-4903-80c2-f1c8b52b0c15

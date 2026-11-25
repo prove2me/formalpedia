@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionsGeneric_rowsPoly_ne_zero_3cd0323fbce7
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_FiniteProjectionsGeneric_rowsPoly_ne_zero_3cd0323fbce7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:16:41.551337+00:00
 -- url     : https://prove2.me/theorems/974b4db7-dc2f-4a65-83db-348fb304898e

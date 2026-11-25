@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_withBot_lt_of_add_one_lt_6fdcb3f5460f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_withBot_lt_of_add_one_lt_6fdcb3f5460f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:12:50.662283+00:00
 -- url     : https://prove2.me/theorems/4a73016f-e8dd-42d2-a3c7-19bf5cfef029

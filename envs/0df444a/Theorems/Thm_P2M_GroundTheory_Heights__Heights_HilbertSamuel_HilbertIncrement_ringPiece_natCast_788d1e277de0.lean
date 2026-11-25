@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertIncrement_ringPiece_natCast_788d1e277de0
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_HilbertIncrement_ringPiece_natCast_788d1e277de0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:18:54.278794+00:00
 -- url     : https://prove2.me/theorems/bd47c64c-c827-40a8-a309-e2bc8cabc65f

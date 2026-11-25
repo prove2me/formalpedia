@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NormOneCount_le_totient_sq
 -- name    : GlobalTheory.DegCnt.NormOneCount.le_totient_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:01:03.231159+00:00
 -- url     : https://prove2.me/theorems/8d5d6916-ccbc-41d1-bc94-18a18fecc459

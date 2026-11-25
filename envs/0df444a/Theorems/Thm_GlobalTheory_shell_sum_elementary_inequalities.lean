@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_shell_sum_elementary_inequalities
 -- name    : GlobalTheory.shell_sum_elementary_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:02:23.173447+00:00
 -- url     : https://prove2.me/theorems/5a65b138-114f-48f8-8cb0-add2c9b09443

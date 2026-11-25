@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreDim_eq_natCast_of_add_one_eq_8a51e7536497
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreDim_eq_natCast_of_add_one_eq_8a51e7536497
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:12:52.461136+00:00
 -- url     : https://prove2.me/theorems/aa1c9d67-c8d7-40b0-aeba-e3bcc511b0cc

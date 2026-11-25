@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_cycEval_eq_sum_finite_081710c89ed3
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_cycEval_eq_sum_finite_081710c89ed3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:09:15.446544+00:00
 -- url     : https://prove2.me/theorems/f8c92c9f-d59c-471e-9fbb-edf32e749f74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_gram_fiber_cons_lintegral_eq_scale_mul_Pint
 -- name    : GlobalTheory.T.gram_fiber_cons_lintegral_eq_scale_mul_Pint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:42:41.321982+00:00
 -- url     : https://prove2.me/theorems/b30960f3-3285-49ec-8376-a87659d73641

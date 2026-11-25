@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_covolume_eq_relIndex_mul_of_haar
 -- name    : GlobalTheory.covolume_eq_relIndex_mul_of_haar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:08:37.987863+00:00
 -- url     : https://prove2.me/theorems/824aa75e-fc81-4d35-9fec-e2389e392159

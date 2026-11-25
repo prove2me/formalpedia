@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_LocCoord_of_same
 -- name    : GlobalTheory.RepUniq.LocCoord.of_same
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:01:02.049976+00:00
 -- url     : https://prove2.me/theorems/ef2a019c-1b8f-4d6d-ab61-f03ece8a1827

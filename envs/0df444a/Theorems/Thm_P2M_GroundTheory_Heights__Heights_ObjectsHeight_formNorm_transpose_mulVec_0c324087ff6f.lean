@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_formNorm_transpose_mulVec_0c324087ff6f
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_formNorm_transpose_mulVec_0c324087ff6f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:13:17.812858+00:00
 -- url     : https://prove2.me/theorems/7f75f49d-7f11-4114-8d3a-25340ae97b99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_antisym_permTerm_76dab284b23e
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_antisym_permTerm_76dab284b23e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:34.309642+00:00
 -- url     : https://prove2.me/theorems/194f62ee-0134-4be6-a9dd-a79121c11d84

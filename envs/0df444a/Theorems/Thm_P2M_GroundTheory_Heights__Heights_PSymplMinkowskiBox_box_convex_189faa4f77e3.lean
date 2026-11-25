@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplMinkowskiBox_box_convex_189faa4f77e3
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplMinkowskiBox_box_convex_189faa4f77e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:36.104323+00:00
 -- url     : https://prove2.me/theorems/511ebc8a-1103-4d35-ac6b-822a913d7782

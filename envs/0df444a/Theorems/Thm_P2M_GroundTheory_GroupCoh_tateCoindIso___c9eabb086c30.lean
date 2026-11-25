@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh_tateCoindIso___c9eabb086c30
 -- name    : P2M_GroundTheory_GroupCoh_tateCoindIso___c9eabb086c30
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:31:03.047142+00:00
 -- url     : https://prove2.me/theorems/a84b7c8a-51b2-5993-819c-2bc02d45c175

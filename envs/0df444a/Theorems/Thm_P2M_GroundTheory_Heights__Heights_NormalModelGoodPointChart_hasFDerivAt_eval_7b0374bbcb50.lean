@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelGoodPointChart_hasFDerivAt_eval_7b0374bbcb50
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelGoodPointChart_hasFDerivAt_eval_7b0374bbcb50
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:05:02.104342+00:00
 -- url     : https://prove2.me/theorems/aaae2f32-598a-41df-aef4-aa04f5d84150

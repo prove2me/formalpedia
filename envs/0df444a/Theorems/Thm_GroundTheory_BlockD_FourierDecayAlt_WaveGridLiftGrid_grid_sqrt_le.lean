@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_grid_sqrt_le
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.grid_sqrt_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:03:45.594905+00:00
 -- url     : https://prove2.me/theorems/f2af47b2-68dd-427f-9652-6b8ceecc537a

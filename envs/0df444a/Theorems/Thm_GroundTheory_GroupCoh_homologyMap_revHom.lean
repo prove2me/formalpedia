@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_homologyMap_revHom
 -- name    : GroundTheory.GroupCoh.homologyMap_revHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:37.977293+00:00
 -- url     : https://prove2.me/theorems/34294da5-2e63-53fc-aee0-ab73d9ed2ec0

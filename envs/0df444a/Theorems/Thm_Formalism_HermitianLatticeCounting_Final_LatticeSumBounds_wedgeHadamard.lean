@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_wedgeHadamard
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.wedgeHadamard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:45.355822+00:00
 -- url     : https://prove2.me/theorems/5ae2a89d-f1c8-476f-a6e6-d2d3df17d6af

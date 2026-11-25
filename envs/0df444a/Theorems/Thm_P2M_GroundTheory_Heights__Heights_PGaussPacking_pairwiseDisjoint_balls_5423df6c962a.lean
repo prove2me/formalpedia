@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussPacking_pairwiseDisjoint_balls_5423df6c962a
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussPacking_pairwiseDisjoint_balls_5423df6c962a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:13:41.094711+00:00
 -- url     : https://prove2.me/theorems/5d09f065-d87c-4b00-aa30-c99e3e343966

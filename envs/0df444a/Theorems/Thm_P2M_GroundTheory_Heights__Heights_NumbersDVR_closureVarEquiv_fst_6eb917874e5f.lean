@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_closureVarEquiv_fst_6eb917874e5f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_closureVarEquiv_fst_6eb917874e5f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:09:27.423366+00:00
 -- url     : https://prove2.me/theorems/6afea8aa-59b4-4037-97de-7ed7230a05bc

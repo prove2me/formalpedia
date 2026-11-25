@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_step_ind_ind
 -- name    : GlobalTheory.BrauerZero.step_ind_ind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:57:25.771984+00:00
 -- url     : https://prove2.me/theorems/5f9be5aa-7438-51b5-a62a-c8e40094f3c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplReduceMem_omega_sub_smul_c8100a0683da
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplReduceMem_omega_sub_smul_c8100a0683da
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:14:29.089882+00:00
 -- url     : https://prove2.me/theorems/44c63159-361e-46c7-ac8c-4e870afe9a6a

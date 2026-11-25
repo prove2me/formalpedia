@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_E_ScaledModelNorms_intCurve_short
 -- name    : Formalism.L2.Th1.E.ScaledModelNorms.intCurve_short
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:40:57.495066+00:00
 -- url     : https://prove2.me/theorems/f70925cd-1079-5d07-bb3b-beaf1b384c6b

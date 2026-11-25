@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_length_localized_eq_of_le_39c21971b573
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_length_localized_eq_of_le_39c21971b573
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:11:07.466258+00:00
 -- url     : https://prove2.me/theorems/12993da2-f0da-46d5-a393-89d55615e557

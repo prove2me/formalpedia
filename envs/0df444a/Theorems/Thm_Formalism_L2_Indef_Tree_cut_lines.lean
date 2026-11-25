@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Indef_Tree_cut_lines
 -- name    : Formalism.L2.Indef.Tree.cut_lines
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:52:02.651242+00:00
 -- url     : https://prove2.me/theorems/121c2771-083a-44dd-b5f5-fe03ba10f450

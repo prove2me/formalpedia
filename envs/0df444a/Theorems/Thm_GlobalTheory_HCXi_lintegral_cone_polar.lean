@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_lintegral_cone_polar
 -- name    : GlobalTheory.HCXi.lintegral_cone_polar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:50:28.802655+00:00
 -- url     : https://prove2.me/theorems/c7c6a7f6-68af-45a5-a2ce-c04504efe57f

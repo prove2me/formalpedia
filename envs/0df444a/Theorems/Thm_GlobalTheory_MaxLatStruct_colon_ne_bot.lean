@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MaxLatStruct_colon_ne_bot
 -- name    : GlobalTheory.MaxLatStruct.colon_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:00:41.9819+00:00
 -- url     : https://prove2.me/theorems/339a129e-f7d5-46cf-9dce-8f263ee166fa

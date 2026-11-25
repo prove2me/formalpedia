@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DegLTEventuallyConst_proof_42eb709a2798
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DegLTEventuallyConst_proof_42eb709a2798
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:27:32.061821+00:00
 -- url     : https://prove2.me/theorems/131e471c-cb78-422f-a3ce-735370297c79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensor_dual_standard_rel
 -- name    : GlobalTheory.tensor_dual_standard_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:51:46.768167+00:00
 -- url     : https://prove2.me/theorems/16b130b2-5411-58a8-bd45-caf6604e868e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PeriodLatticeCovolume_hermPair_comb_de07ed4153bc
 -- name    : P2M_GroundTheory_Heights__Heights_PeriodLatticeCovolume_hermPair_comb_de07ed4153bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:14:29.075918+00:00
 -- url     : https://prove2.me/theorems/b5393775-efb4-4fc6-b4d5-5ddcc301cef1

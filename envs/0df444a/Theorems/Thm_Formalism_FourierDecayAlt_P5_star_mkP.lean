@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_star_mkP
 -- name    : Formalism.FourierDecayAlt.P5.star_mkP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:57:13.087802+00:00
 -- url     : https://prove2.me/theorems/60d3b9f3-2e59-4c59-835f-1e18ef2dfb93

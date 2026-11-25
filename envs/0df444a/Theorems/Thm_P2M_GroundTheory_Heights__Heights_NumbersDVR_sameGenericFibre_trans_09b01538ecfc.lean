@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_sameGenericFibre_trans_09b01538ecfc
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_sameGenericFibre_trans_09b01538ecfc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:12:25.964805+00:00
 -- url     : https://prove2.me/theorems/6f1032cc-225a-48ae-bec0-9009862772dc

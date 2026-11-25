@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Cyc_LiftExp_one_add_pow_expand
 -- name    : GlobalTheory.Cyc.LiftExp.one_add_pow_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:58:39.525113+00:00
 -- url     : https://prove2.me/theorems/6050e32d-fb3a-40de-b2a5-7be967c84675

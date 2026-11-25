@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_LengthSumLocalizations_isFiniteLength_of_atPrime_355534cb01cc
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_LengthSumLocalizations_isFiniteLength_of_atPrime_355534cb01cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:32.136278+00:00
 -- url     : https://prove2.me/theorems/79327e70-53ca-5c45-950f-5e48142261e1

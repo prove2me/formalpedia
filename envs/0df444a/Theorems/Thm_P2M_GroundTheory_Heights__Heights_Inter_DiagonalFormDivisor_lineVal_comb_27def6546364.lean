@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_lineVal_comb_27def6546364
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalFormDivisor_lineVal_comb_27def6546364
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:04:19.479838+00:00
 -- url     : https://prove2.me/theorems/8623c0e9-bd3c-41e4-937f-d4b753df9afb

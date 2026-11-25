@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplReduceConj_entry_b4d702cfc77f
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplReduceConj_entry_b4d702cfc77f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:14:00.893878+00:00
 -- url     : https://prove2.me/theorems/4789f6c0-6e72-4052-b9f4-e648a825c384

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_fourier_bessel_inclusion_eq
 -- name    : GroundTheory.Automorphic.Sobolev.fourier_bessel_inclusion_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:13:32.314394+00:00
 -- url     : https://prove2.me/theorems/c4372030-a521-4696-8d8e-2eba35249c22

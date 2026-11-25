@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_dehom_monomial_mul_874b10e5036f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_dehom_monomial_mul_874b10e5036f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:06:17.400669+00:00
 -- url     : https://prove2.me/theorems/496201f6-3a2d-4f47-8663-c0c6b694495e

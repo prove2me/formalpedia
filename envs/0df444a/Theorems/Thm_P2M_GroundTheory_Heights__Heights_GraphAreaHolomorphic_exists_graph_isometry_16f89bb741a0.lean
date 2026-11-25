@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GraphAreaHolomorphic_exists_graph_isometry_16f89bb741a0
 -- name    : P2M_GroundTheory_Heights__Heights_GraphAreaHolomorphic_exists_graph_isometry_16f89bb741a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:41.492823+00:00
 -- url     : https://prove2.me/theorems/19ae09c7-eeb3-40be-998b-8abe74105d73

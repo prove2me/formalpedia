@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_mem_of_C_pow_mul_mem_62fd3ae53f2d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_mem_of_C_pow_mul_mem_62fd3ae53f2d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:11:21.716527+00:00
 -- url     : https://prove2.me/theorems/7ffe7ddd-8a40-4c1b-a0ff-78f86da11dad

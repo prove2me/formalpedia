@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PeriodGramPosDef_hermPair_symm_5f1a589f163b
 -- name    : P2M_GroundTheory_Heights__Heights_PeriodGramPosDef_hermPair_symm_5f1a589f163b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:37.102669+00:00
 -- url     : https://prove2.me/theorems/c8ef2fde-fd80-4d3c-8a0e-2eceeefe5b4f

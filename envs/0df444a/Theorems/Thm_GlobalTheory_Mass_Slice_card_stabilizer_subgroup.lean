@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Slice_card_stabilizer_subgroup
 -- name    : GlobalTheory.Mass.Slice.card_stabilizer_subgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:56.959268+00:00
 -- url     : https://prove2.me/theorems/f9a72586-a1a4-5f73-8fd3-5427ad3a7924

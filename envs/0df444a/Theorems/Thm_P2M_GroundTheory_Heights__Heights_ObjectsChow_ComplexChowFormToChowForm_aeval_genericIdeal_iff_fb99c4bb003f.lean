@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ComplexChowFormToChowForm_aeval_genericIdeal_iff_fb99c4bb003f
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ComplexChowFormToChowForm_aeval_genericIdeal_iff_fb99c4bb003f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:12:45.390871+00:00
 -- url     : https://prove2.me/theorems/d2048f6f-4b4e-4a4b-adfe-56b3f91ca223

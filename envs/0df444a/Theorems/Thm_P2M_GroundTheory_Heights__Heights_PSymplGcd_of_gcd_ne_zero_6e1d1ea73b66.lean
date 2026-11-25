@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplGcd_of_gcd_ne_zero_6e1d1ea73b66
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplGcd_of_gcd_ne_zero_6e1d1ea73b66
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:12.455567+00:00
 -- url     : https://prove2.me/theorems/7efbded1-09c6-457c-9f0b-88b4b3e8cd4f

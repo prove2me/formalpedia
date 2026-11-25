@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_eta_gramDet_invAlgBaseChangeUnramified_odd
 -- name    : GlobalTheory.T.eta_gramDet_invAlgBaseChangeUnramified_odd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:48:18.234668+00:00
 -- url     : https://prove2.me/theorems/aa094d24-03db-462c-8fa9-ab97175c60d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussConstant_exp_part_e2cb8cc4f20f
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussConstant_exp_part_e2cb8cc4f20f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:17.151871+00:00
 -- url     : https://prove2.me/theorems/7f994370-f795-55df-acba-0315582ae549

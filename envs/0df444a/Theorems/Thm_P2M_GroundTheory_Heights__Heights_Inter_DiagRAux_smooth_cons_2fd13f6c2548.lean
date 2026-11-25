@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_smooth_cons_2fd13f6c2548
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagRAux_smooth_cons_2fd13f6c2548
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:19.297797+00:00
 -- url     : https://prove2.me/theorems/ddcce6c7-a195-458e-870b-f544d22fde73

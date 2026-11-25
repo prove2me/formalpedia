@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_originIdeal_pow_le_92c638b6f9b3
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_originIdeal_pow_le_92c638b6f9b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:16:18.950911+00:00
 -- url     : https://prove2.me/theorems/9b973bbb-c427-4b2b-8843-fc07ce0cc856

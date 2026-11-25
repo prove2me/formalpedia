@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_GenericPrimitive_proof_eb00a83c5a8e
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_GenericPrimitive_proof_eb00a83c5a8e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:28.712143+00:00
 -- url     : https://prove2.me/theorems/5703ef3b-4c25-462c-9878-cea2ac283ba7

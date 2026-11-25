@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_truncCoord_of_le_bb68e2da1b41
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_truncCoord_of_le_bb68e2da1b41
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:07:55.387171+00:00
 -- url     : https://prove2.me/theorems/b1b76dbd-81f6-46a2-bd4a-e6a59a06a361

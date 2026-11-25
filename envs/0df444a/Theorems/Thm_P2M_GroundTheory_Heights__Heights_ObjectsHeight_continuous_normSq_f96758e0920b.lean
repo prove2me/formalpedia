@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_continuous_normSq_f96758e0920b
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_continuous_normSq_f96758e0920b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:14:05.750276+00:00
 -- url     : https://prove2.me/theorems/136b8722-a97a-4b3a-8ad8-a029cab3761a

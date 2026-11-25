@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_length_pos_of_not_isZero
 -- name    : PretorsionImageClosed.length_pos_of_not_isZero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:19:25.49082+00:00
 -- url     : https://prove2.me/theorems/06720c3b-bb0c-4305-8579-d9189aafa2b0

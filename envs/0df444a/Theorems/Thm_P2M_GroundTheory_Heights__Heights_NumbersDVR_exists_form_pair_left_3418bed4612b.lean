@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_form_pair_left_3418bed4612b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_form_pair_left_3418bed4612b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:10:34.773817+00:00
 -- url     : https://prove2.me/theorems/44b4ecaa-d3ab-41fb-af83-2e26fdfa5af7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplQuadDiag_abs_det_eq_one_of_mul_transpose_83dc71c1c9f8
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplQuadDiag_abs_det_eq_one_of_mul_transpose_83dc71c1c9f8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:14:09.333413+00:00
 -- url     : https://prove2.me/theorems/b9eb5a80-db7a-4dfe-baf4-0b0dec223c85

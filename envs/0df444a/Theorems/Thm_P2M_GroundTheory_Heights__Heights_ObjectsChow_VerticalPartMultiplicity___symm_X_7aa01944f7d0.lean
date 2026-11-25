@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity___symm_X_7aa01944f7d0
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity___symm_X_7aa01944f7d0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:13:47.907871+00:00
 -- url     : https://prove2.me/theorems/b52398b2-8c5b-4edf-8180-34387ffbf968

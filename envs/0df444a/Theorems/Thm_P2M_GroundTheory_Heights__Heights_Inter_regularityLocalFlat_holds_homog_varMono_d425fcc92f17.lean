@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_homog_varMono_d425fcc92f17
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regularityLocalFlat_holds_homog_varMono_d425fcc92f17
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:35:05.098533+00:00
 -- url     : https://prove2.me/theorems/6c76b3bf-9a21-5e3b-82e7-929e4c869190

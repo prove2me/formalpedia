@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordScale_measurePreserving_inv_mul
 -- name    : GlobalTheory.CoordScale.measurePreserving_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:58:10.484967+00:00
 -- url     : https://prove2.me/theorems/697d93bc-24ff-44ac-ac2b-efed66511141

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_arDeg_sub_arDeg_of_span_eq
 -- name    : GlobalTheory.ArchMetric.arDeg_sub_arDeg_of_span_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:57:09.262825+00:00
 -- url     : https://prove2.me/theorems/40703784-f549-5417-9713-c05b8840d6ae

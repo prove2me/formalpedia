@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_CechOrdered_exists_d_eq_of_card_le
 -- name    : GroundTheory.Arith.SchemeCoh.CechOrdered.exists_d_eq_of_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:27:00.114806+00:00
 -- url     : https://prove2.me/theorems/fe33c489-ce50-46b9-b4da-5cd5d5d83a2c

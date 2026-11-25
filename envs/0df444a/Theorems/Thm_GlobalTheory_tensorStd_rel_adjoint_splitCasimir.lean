@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_tensorStd_rel_adjoint_splitCasimir
 -- name    : GlobalTheory.tensorStd_rel_adjoint_splitCasimir
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:53:51.903701+00:00
 -- url     : https://prove2.me/theorems/b1e9db70-fbd4-58a1-b7b1-c9b5b2f2b935

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ofFn_prod_intertwine
 -- name    : GlobalTheory.ofFn_prod_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:34.872477+00:00
 -- url     : https://prove2.me/theorems/e0582a3f-8e8c-4136-9aab-6f02aa3c87df

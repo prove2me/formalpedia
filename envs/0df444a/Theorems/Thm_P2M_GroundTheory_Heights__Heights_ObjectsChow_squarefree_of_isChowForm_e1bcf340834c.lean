@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_squarefree_of_isChowForm_e1bcf340834c
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_squarefree_of_isChowForm_e1bcf340834c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:13:36.287809+00:00
 -- url     : https://prove2.me/theorems/71829d3a-c361-4323-bde6-82c41c27e6e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_norm_root
 -- name    : GlobalTheory.TateDecomp.norm_root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:02:58.003192+00:00
 -- url     : https://prove2.me/theorems/264ae49f-8cb9-42dd-8d20-57028cab13e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LWide_disc
 -- name    : GlobalTheory.LWide.disc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:33.003796+00:00
 -- url     : https://prove2.me/theorems/4569fd93-b7b4-4207-b213-5ca92bffbf6e

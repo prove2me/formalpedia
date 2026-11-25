@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NullSmaller_zeroSetEuc_eq_preimage_equiv_ef6ab39c7d9a
 -- name    : P2M_GroundTheory_Heights__Heights_NullSmaller_zeroSetEuc_eq_preimage_equiv_ef6ab39c7d9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:05:00.03685+00:00
 -- url     : https://prove2.me/theorems/6a6cd07f-ca44-4393-9aa9-019eaa3d7b2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnramValue_norm_rootRing
 -- name    : GlobalTheory.UnramValue.norm_rootRing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T21:49:00.142719+00:00
 -- url     : https://prove2.me/theorems/4c07d306-f6bc-44ec-a6c6-1c7464058980

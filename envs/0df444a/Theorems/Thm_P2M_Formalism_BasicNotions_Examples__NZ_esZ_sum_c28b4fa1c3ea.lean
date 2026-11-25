@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__NZ_esZ_sum_c28b4fa1c3ea
 -- name    : P2M_Formalism_BasicNotions_Examples__NZ_esZ_sum_c28b4fa1c3ea
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:05:04.986837+00:00
 -- url     : https://prove2.me/theorems/607dc1fe-f49d-4acd-b88d-2301abbdec9a

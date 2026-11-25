@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesExtendBasis_proof_8fa7f46600b3
 -- name    : P2M_GroundTheory_Heights__Heights_LinesExtendBasis_proof_8fa7f46600b3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:53.933798+00:00
 -- url     : https://prove2.me/theorems/17908e16-374c-4564-8de2-29d69e80d90c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_Same_symm
 -- name    : GlobalTheory.RepUniq.Same.symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:54:13.3264+00:00
 -- url     : https://prove2.me/theorems/136f1ffb-2d84-4b4b-b9bc-7f60562dc342

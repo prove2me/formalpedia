@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodQuot_exists_smul_mem
 -- name    : GlobalTheory.UnimodQuot.exists_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:56:21.535987+00:00
 -- url     : https://prove2.me/theorems/9663da26-7dea-5788-8cf2-9a86a85e188d

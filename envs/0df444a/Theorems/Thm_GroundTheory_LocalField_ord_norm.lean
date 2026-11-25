@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ord_norm
 -- name    : GroundTheory.LocalField.ord_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:43:14.650166+00:00
 -- url     : https://prove2.me/theorems/d5b28f25-7aab-4599-a555-0d47f8e4237c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagPairCharacterisation_eval_ne_zero_c36d901ca082
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagPairCharacterisation_eval_ne_zero_c36d901ca082
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:05:59.34945+00:00
 -- url     : https://prove2.me/theorems/d2a11c19-5728-4505-8b34-d4f4de1fa588

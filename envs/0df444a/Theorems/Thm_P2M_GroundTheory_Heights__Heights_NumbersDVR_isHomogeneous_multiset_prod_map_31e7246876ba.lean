@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isHomogeneous_multiset_prod_map_31e7246876ba
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isHomogeneous_multiset_prod_map_31e7246876ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:10:43.083369+00:00
 -- url     : https://prove2.me/theorems/cf2e7f17-d46f-4062-a973-9b3ff42ff4e0

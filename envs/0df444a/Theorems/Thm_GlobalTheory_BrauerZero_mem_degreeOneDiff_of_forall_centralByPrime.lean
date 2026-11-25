@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BrauerZero_mem_degreeOneDiff_of_forall_centralByPrime
 -- name    : GlobalTheory.BrauerZero.mem_degreeOneDiff_of_forall_centralByPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:58:27.437571+00:00
 -- url     : https://prove2.me/theorems/9123d89f-a918-4363-81b8-b9b4f06c6304

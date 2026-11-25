@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isOpen_subgroup_of_siegel_and_opposite_nhds
 -- name    : GlobalTheory.T.isOpen_subgroup_of_siegel_and_opposite_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T22:17:31.447875+00:00
 -- url     : https://prove2.me/theorems/9c15a082-d293-4555-838d-3eafd4a8b595

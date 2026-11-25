@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_comap_fibreOf_e23ffdb2b160
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_comap_fibreOf_e23ffdb2b160
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:14.660173+00:00
 -- url     : https://prove2.me/theorems/f990578b-3b3b-47a2-9096-03886d032797

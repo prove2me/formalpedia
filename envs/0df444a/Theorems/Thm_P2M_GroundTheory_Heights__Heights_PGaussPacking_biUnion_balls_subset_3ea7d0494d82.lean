@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussPacking_biUnion_balls_subset_3ea7d0494d82
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussPacking_biUnion_balls_subset_3ea7d0494d82
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:13:27.031837+00:00
 -- url     : https://prove2.me/theorems/72e853f4-60e2-44c7-8ede-a6552b1c4796

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_nrm_algebraMap_lt
 -- name    : GroundTheory.PAdicHodge.exists_nrm_algebraMap_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:15:31.093306+00:00
 -- url     : https://prove2.me/theorems/a9749177-e61b-53b2-9813-255945162678

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RealWeil_exists_seminorm_le
 -- name    : GlobalTheory.RealWeil.exists_seminorm_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:30:15.718797+00:00
 -- url     : https://prove2.me/theorems/c0f1ac08-848a-4f0c-96f6-5603dbfdfbad

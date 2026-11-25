@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_mem_range_sub_one_discreteCoind
 -- name    : GroundTheory.ProfCoh.mem_range_sub_one_discreteCoind
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:59:50.945397+00:00
 -- url     : https://prove2.me/theorems/a95676b6-11d2-49e4-a568-8c18db3d4a02

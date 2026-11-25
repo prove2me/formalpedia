@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowerOps_lower_commute_and_mul_eq_zero
 -- name    : GlobalTheory.LowerOps.lower_commute_and_mul_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:18:48.060867+00:00
 -- url     : https://prove2.me/theorems/d0c9364d-825a-448b-9184-8e648a54e5f0

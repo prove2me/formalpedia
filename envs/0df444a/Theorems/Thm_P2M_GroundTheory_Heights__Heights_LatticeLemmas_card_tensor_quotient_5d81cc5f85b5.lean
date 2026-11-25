@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_card_tensor_quotient_5d81cc5f85b5
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_card_tensor_quotient_5d81cc5f85b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:51.300828+00:00
 -- url     : https://prove2.me/theorems/837bccb1-8d33-47ce-890d-a545fbd74498

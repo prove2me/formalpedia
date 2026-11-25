@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_DescendHom_res_injective_of_eq_88f22234c1ac
 -- name    : P2M_GroundTheory_Heights__Heights_Model_DescendHom_res_injective_of_eq_88f22234c1ac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:49:56.619272+00:00
 -- url     : https://prove2.me/theorems/fa0a51b1-352f-4e6c-a760-4038faa01a13

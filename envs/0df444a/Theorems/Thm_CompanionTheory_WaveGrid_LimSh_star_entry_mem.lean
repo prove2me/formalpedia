@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_LimSh_star_entry_mem
 -- name    : CompanionTheory.WaveGrid.LimSh.star_entry_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:59:00.748612+00:00
 -- url     : https://prove2.me/theorems/75ea9b5f-63bd-51d1-be50-ab57b52c9d30

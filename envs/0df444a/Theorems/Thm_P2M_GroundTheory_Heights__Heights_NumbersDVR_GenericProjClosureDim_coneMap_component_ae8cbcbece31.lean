@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDim_coneMap_component_ae8cbcbece31
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericProjClosureDim_coneMap_component_ae8cbcbece31
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:08:55.749777+00:00
 -- url     : https://prove2.me/theorems/faa95283-c574-471a-be74-075dfe866169

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_euclidNorm_vecMul_unitary
 -- name    : GroundTheory.Automorphic.Reduction.euclidNorm_vecMul_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:57:41.82242+00:00
 -- url     : https://prove2.me/theorems/33ea74a1-e96b-5ab1-acf3-385ad7c05026

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MonomialMapNorm_isLive_of_point_532e268d2994
 -- name    : P2M_GroundTheory_Heights__Heights_MonomialMapNorm_isLive_of_point_532e268d2994
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:50:19.876428+00:00
 -- url     : https://prove2.me/theorems/662f1206-48c5-487f-bf32-71068beb3bbf

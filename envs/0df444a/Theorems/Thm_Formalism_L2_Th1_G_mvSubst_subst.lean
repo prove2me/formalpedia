@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_mvSubst_subst
 -- name    : Formalism.L2.Th1.G.mvSubst_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:59:32.505443+00:00
 -- url     : https://prove2.me/theorems/74a8896d-3bb3-460f-aab3-ba3187cfb69c

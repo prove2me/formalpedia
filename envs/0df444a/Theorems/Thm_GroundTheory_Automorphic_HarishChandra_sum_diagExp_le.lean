@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_sum_diagExp_le
 -- name    : GroundTheory.Automorphic.HarishChandra.sum_diagExp_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:04:21.623949+00:00
 -- url     : https://prove2.me/theorems/9db87e1e-7364-41a2-9b50-907f7b7e7f21

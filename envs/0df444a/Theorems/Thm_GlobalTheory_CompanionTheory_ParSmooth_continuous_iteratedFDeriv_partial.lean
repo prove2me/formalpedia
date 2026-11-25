@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_ParSmooth_continuous_iteratedFDeriv_partial
 -- name    : GlobalTheory.CompanionTheory.ParSmooth.continuous_iteratedFDeriv_partial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:58:11.330996+00:00
 -- url     : https://prove2.me/theorems/9b033539-ba12-4a56-9b43-4438ad5a394a

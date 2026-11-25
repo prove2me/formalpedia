@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_line_smul
 -- name    : GlobalTheory.DegMove.line_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:00:48.32203+00:00
 -- url     : https://prove2.me/theorems/014df350-245a-5367-accc-45e4fb21e4eb

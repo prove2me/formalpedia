@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointFlagModel_isPull_pullBundle_6568c45e093c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointFlagModel_isPull_pullBundle_6568c45e093c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:07:08.370851+00:00
 -- url     : https://prove2.me/theorems/a3d4a074-5cff-4f86-bd05-cb6e28e638df

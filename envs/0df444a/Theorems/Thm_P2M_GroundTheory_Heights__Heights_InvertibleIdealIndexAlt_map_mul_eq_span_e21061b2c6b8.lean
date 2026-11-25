@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_map_mul_eq_span_e21061b2c6b8
 -- name    : P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_map_mul_eq_span_e21061b2c6b8
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:34:31.951796+00:00
 -- url     : https://prove2.me/theorems/e226d2b3-2219-45d8-b9bf-0b39fc39eb8e

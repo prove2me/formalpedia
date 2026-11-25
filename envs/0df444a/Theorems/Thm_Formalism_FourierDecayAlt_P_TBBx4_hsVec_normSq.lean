@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_TBBx4_hsVec_normSq
 -- name    : Formalism.FourierDecayAlt.P.TBBx4.hsVec_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:56:37.251802+00:00
 -- url     : https://prove2.me/theorems/75e38e9f-9859-43da-82a9-8a80e672f930

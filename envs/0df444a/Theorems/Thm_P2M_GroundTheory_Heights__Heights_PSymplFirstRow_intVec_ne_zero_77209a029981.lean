@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplFirstRow_intVec_ne_zero_77209a029981
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplFirstRow_intVec_ne_zero_77209a029981
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:22.285848+00:00
 -- url     : https://prove2.me/theorems/2a45813e-d704-4ad1-b3f2-99613da4a231

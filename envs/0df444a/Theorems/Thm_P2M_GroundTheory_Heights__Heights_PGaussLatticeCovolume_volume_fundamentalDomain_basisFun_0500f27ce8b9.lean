@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussLatticeCovolume_volume_fundamentalDomain_basisFun_0500f27ce8b9
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussLatticeCovolume_volume_fundamentalDomain_basisFun_0500f27ce8b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:36.437856+00:00
 -- url     : https://prove2.me/theorems/efce1102-4803-465d-aba3-6d65f5979a24

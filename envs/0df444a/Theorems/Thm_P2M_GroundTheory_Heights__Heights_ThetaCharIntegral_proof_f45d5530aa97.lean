@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ThetaCharIntegral_proof_f45d5530aa97
 -- name    : P2M_GroundTheory_Heights__Heights_ThetaCharIntegral_proof_f45d5530aa97
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:14.504633+00:00
 -- url     : https://prove2.me/theorems/8900f763-0b87-4934-b2a6-00e71078a086

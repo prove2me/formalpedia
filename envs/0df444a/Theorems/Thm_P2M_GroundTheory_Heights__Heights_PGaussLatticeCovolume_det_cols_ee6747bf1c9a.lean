@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussLatticeCovolume_det_cols_ee6747bf1c9a
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussLatticeCovolume_det_cols_ee6747bf1c9a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:38.027935+00:00
 -- url     : https://prove2.me/theorems/f219eba1-40f6-48a2-af98-0e58de2204b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_coe_aeval_ratioPtL_ffa96add92ff
 -- name    : P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_coe_aeval_ratioPtL_ffa96add92ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:58.838429+00:00
 -- url     : https://prove2.me/theorems/cb5cc882-07da-4a00-8d52-097de0854c24

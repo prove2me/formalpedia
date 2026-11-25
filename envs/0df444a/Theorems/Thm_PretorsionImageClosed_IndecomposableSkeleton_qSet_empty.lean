@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_qSet_empty
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.qSet_empty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:47:16.518837+00:00
 -- url     : https://prove2.me/theorems/35bcf057-fcb1-438e-ad6b-9fb33eaf7af4

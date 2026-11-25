@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_mvN_Ist
 -- name    : GlobalTheory.DegMove.mvN_Ist
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:59:24.187664+00:00
 -- url     : https://prove2.me/theorems/ecf14885-bf5b-512e-8293-7074e2f33202

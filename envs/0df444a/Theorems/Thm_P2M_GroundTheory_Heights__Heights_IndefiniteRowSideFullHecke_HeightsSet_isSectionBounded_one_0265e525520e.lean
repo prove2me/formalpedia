@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_isSectionBounded_one_0265e525520e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_isSectionBounded_one_0265e525520e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:00:08.639263+00:00
 -- url     : https://prove2.me/theorems/3143ed0e-9e34-41b2-8843-daea3e411115

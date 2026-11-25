@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WirtChain_differentiableOn_wirtWord_mul_exp_comp
 -- name    : GlobalTheory.WirtChain.differentiableOn_wirtWord_mul_exp_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:56:41.856192+00:00
 -- url     : https://prove2.me/theorems/f160e318-8dcc-4c58-bbc2-e0cb4ee7d6bc

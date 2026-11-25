@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Bes_torusDiag_tau
 -- name    : GlobalTheory.CompanionTheory.Bes.torusDiag_tau
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:48:37.188589+00:00
 -- url     : https://prove2.me/theorems/84d53b6b-1c11-49d8-8335-6a39e0fa1bef

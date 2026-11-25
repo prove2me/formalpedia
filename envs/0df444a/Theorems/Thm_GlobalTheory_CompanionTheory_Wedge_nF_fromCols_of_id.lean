@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Wedge_nF_fromCols_of_id
 -- name    : GlobalTheory.CompanionTheory.Wedge.nF_fromCols_of_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T12:21:20.611796+00:00
 -- url     : https://prove2.me/theorems/c3a93e61-2716-4f8c-8c45-e4d7d2f3e5e4

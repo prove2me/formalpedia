@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_GradedPMod_smul_mem_int_382e083d6e10
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_GradedPMod_smul_mem_int_382e083d6e10
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:39:06.659332+00:00
 -- url     : https://prove2.me/theorems/11a2eb3d-306b-5894-af9d-135b7669179a

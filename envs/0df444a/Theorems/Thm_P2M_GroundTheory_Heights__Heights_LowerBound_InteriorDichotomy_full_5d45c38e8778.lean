@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBound_InteriorDichotomy_full_5d45c38e8778
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBound_InteriorDichotomy_full_5d45c38e8778
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:08:51.796104+00:00
 -- url     : https://prove2.me/theorems/fe618f91-df3c-4fad-b567-2561980cb066

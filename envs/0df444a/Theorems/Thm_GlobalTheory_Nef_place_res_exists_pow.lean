@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_place_res_exists_pow
 -- name    : GlobalTheory.Nef.place_res_exists_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:01:53.422156+00:00
 -- url     : https://prove2.me/theorems/2f548a12-8fc0-46c0-b5f0-c09acf9a248f

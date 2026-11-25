@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_projMap_X_none_3cab59bf1f36
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_projMap_X_none_3cab59bf1f36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:06:03.009963+00:00
 -- url     : https://prove2.me/theorems/16815a93-8f6a-4984-9f55-13914521daab

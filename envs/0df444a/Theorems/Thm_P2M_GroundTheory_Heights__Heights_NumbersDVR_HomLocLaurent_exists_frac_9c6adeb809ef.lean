@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_exists_frac_9c6adeb809ef
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocLaurent_exists_frac_9c6adeb809ef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:29:13.702056+00:00
 -- url     : https://prove2.me/theorems/11610c25-98eb-4bd8-94fb-52971dea2994

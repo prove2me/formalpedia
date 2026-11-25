@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_exists_pos_le_norm_prinSymb
 -- name    : GroundTheory.Automorphic.Sobolev.exists_pos_le_norm_prinSymb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:14:06.808856+00:00
 -- url     : https://prove2.me/theorems/08605047-3e22-4add-be4f-5e9f3e66220a

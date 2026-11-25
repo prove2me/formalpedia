@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalGraphMass_frameFibreCount_ball_le_26a4f9913696
 -- name    : P2M_GroundTheory_Heights__Heights_LocalGraphMass_frameFibreCount_ball_le_26a4f9913696
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:30.15378+00:00
 -- url     : https://prove2.me/theorems/27a907aa-18e1-453c-8eeb-521bc3ce363e

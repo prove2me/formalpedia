@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_finite_Ks
 -- name    : GlobalTheory.TateDecomp.finite_Ks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:01:47.015075+00:00
 -- url     : https://prove2.me/theorems/23a962fc-a52a-5a8c-9556-2b8f392cc552

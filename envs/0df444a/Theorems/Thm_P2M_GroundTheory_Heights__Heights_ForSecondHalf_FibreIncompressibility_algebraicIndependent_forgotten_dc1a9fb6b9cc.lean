@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreIncompressibility_algebraicIndependent_forgotten_dc1a9fb6b9cc
 -- name    : P2M_GroundTheory_Heights__Heights_ForSecondHalf_FibreIncompressibility_algebraicIndependent_forgotten_dc1a9fb6b9cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:56.935296+00:00
 -- url     : https://prove2.me/theorems/cc842e7f-4be8-4ecf-957e-630fba98056d

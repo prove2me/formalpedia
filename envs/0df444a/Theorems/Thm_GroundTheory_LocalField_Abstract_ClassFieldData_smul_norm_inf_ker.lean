@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_smul_norm_inf_ker
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.smul_norm_inf_ker
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:45:48.92113+00:00
 -- url     : https://prove2.me/theorems/bd4da527-b110-44de-8a1f-f015c32a9f05

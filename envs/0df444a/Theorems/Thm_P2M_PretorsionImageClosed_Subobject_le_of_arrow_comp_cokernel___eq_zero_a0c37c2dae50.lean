@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PretorsionImageClosed_Subobject_le_of_arrow_comp_cokernel___eq_zero_a0c37c2dae50
 -- name    : P2M_PretorsionImageClosed_Subobject_le_of_arrow_comp_cokernel___eq_zero_a0c37c2dae50
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:20:05.575165+00:00
 -- url     : https://prove2.me/theorems/70a859fd-ae6e-42be-90c1-6d14a77084bf

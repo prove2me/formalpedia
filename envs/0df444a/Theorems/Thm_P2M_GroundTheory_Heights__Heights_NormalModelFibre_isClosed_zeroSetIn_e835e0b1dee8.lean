@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelFibre_isClosed_zeroSetIn_e835e0b1dee8
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelFibre_isClosed_zeroSetIn_e835e0b1dee8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:06:22.43994+00:00
 -- url     : https://prove2.me/theorems/80bf8833-8481-452f-86a9-994c91330927

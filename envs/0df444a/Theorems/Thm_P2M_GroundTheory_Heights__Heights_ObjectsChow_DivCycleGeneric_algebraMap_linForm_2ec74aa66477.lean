@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_DivCycleGeneric_algebraMap_linForm_2ec74aa66477
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_DivCycleGeneric_algebraMap_linForm_2ec74aa66477
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:12:56.96454+00:00
 -- url     : https://prove2.me/theorems/7c785369-9247-42b1-b532-99dfa918584c

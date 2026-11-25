@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_card_smul_tateCohomology_zero
 -- name    : GroundTheory.GroupCoh.card_smul_tateCohomology_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:15:13.721219+00:00
 -- url     : https://prove2.me/theorems/b3eb5e8e-1f03-4635-a7de-8024cae93eee

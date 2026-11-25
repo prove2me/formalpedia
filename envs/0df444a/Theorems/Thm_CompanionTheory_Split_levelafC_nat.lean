@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_levelafC_nat
 -- name    : CompanionTheory.Split.levelafC_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:00:59.993377+00:00
 -- url     : https://prove2.me/theorems/17d5a8bf-d0f0-50c5-8fca-0ae3d1dd6129

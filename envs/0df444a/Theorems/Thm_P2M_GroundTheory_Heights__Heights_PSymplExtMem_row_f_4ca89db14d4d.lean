@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplExtMem_row_f_4ca89db14d4d
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplExtMem_row_f_4ca89db14d4d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:13:30.320606+00:00
 -- url     : https://prove2.me/theorems/2d03bacb-0f78-4a79-badf-f6e908872090

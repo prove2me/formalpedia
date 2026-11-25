@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_card_mul_indFun_theta
 -- name    : GroundTheory.LocalField.card_mul_indFun_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:14:51.706525+00:00
 -- url     : https://prove2.me/theorems/fcf1a172-01ed-4aa8-9236-714f0b3007b6

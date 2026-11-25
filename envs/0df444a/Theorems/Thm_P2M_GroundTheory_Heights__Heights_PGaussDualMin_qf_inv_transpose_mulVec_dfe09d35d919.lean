@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussDualMin_qf_inv_transpose_mulVec_dfe09d35d919
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussDualMin_qf_inv_transpose_mulVec_dfe09d35d919
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:47.378657+00:00
 -- url     : https://prove2.me/theorems/f624d646-d98b-4d5e-b8eb-ef4f75ec134e

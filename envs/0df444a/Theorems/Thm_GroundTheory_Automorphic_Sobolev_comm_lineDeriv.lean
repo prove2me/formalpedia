@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_comm_lineDeriv
 -- name    : GroundTheory.Automorphic.Sobolev.comm_lineDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:13:04.213731+00:00
 -- url     : https://prove2.me/theorems/5601e6fc-9517-5773-8435-01856796b027

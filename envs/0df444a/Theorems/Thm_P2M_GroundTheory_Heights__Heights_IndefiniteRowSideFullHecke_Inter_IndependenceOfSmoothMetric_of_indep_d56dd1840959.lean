@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_IndependenceOfSmoothMetric_of_indep_d56dd1840959
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_IndependenceOfSmoothMetric_of_indep_d56dd1840959
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:01:17.063881+00:00
 -- url     : https://prove2.me/theorems/d38a7a54-3ab4-4b16-a289-b3d936e38756

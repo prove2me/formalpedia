@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HCXi_KGroup_star_mem
 -- name    : GlobalTheory.HCXi.KGroup.star_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:49:31.705457+00:00
 -- url     : https://prove2.me/theorems/55f23a04-7ac3-5dec-abf1-584ba4b65b5f

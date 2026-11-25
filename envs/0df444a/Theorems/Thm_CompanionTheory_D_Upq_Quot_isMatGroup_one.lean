@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Quot_isMatGroup_one
 -- name    : CompanionTheory.D.Upq.Quot.isMatGroup_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:55:33.736173+00:00
 -- url     : https://prove2.me/theorems/69c84273-c2d6-4227-86c9-883a6f1564fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_commPL
 -- name    : Formalism.InvariantFactorPaths.KP.Top.commPL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:59:11.169504+00:00
 -- url     : https://prove2.me/theorems/6f6933f4-254d-41d6-b6d5-381215e0ba89

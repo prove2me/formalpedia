@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DominantPrimitiveFibres_exists_point_of_root_3aa5c5de68d6
 -- name    : P2M_GroundTheory_Heights__Heights_DominantPrimitiveFibres_exists_point_of_root_3aa5c5de68d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:05.440272+00:00
 -- url     : https://prove2.me/theorems/29248031-4231-56d3-b89d-fd79fa9de1b5

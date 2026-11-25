@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_whiskerLeft_retract
 -- name    : GroundTheory.GroupCoh.whiskerLeft_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:53.289535+00:00
 -- url     : https://prove2.me/theorems/48fd426e-a9d9-5827-aa81-78e23a186621

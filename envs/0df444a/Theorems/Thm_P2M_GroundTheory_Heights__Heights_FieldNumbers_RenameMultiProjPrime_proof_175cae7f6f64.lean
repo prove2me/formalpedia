@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_RenameMultiProjPrime_proof_175cae7f6f64
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_RenameMultiProjPrime_proof_175cae7f6f64
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:41:30.849097+00:00
 -- url     : https://prove2.me/theorems/04d7749b-f99e-4b56-b15c-d61b470f788a

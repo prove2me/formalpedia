@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_gal_smul_teichmuller
 -- name    : GroundTheory.PAdicHodge.AInf.gal_smul_teichmuller
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:17.77981+00:00
 -- url     : https://prove2.me/theorems/4b94f35c-028a-4d71-ba8b-096b8dbeadc1

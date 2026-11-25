@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JFxE_hp_of_parts
 -- name    : Formalism.FourierDecayAlt.P.JFxE.hp_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:34:30.862898+00:00
 -- url     : https://prove2.me/theorems/575c09b2-5b26-4eb5-86d3-6e26f2de9819

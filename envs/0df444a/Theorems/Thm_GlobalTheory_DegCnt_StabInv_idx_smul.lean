@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_idx_smul
 -- name    : GlobalTheory.DegCnt.StabInv.idx_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:59:22.834001+00:00
 -- url     : https://prove2.me/theorems/7bea4ba9-4fd9-4357-83f9-cf3886ea9623

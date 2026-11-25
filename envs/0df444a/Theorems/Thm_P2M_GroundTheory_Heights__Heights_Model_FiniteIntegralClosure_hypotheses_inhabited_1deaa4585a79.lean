@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_FiniteIntegralClosure_hypotheses_inhabited_1deaa4585a79
 -- name    : P2M_GroundTheory_Heights__Heights_Model_FiniteIntegralClosure_hypotheses_inhabited_1deaa4585a79
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:49:28.939362+00:00
 -- url     : https://prove2.me/theorems/9e3733fe-ba8b-4216-8b3d-135bdabe6289

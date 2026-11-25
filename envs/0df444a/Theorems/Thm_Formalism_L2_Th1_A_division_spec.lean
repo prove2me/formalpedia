@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_division_spec
 -- name    : Formalism.L2.Th1.A.division_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:28:07.726088+00:00
 -- url     : https://prove2.me/theorems/2d7e43c3-93a8-5298-87ea-fbaa835652a8

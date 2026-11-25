@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_isUnit_det_pairing_of_bicharacter_of_dvd_trace
 -- name    : GlobalTheory.T.isUnit_det_pairing_of_bicharacter_of_dvd_trace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:39:46.49557+00:00
 -- url     : https://prove2.me/theorems/5cd2d54b-9761-435d-9acc-6415dcf2461b

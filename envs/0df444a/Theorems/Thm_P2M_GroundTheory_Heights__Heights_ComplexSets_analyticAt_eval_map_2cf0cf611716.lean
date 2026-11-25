@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_analyticAt_eval_map_2cf0cf611716
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_analyticAt_eval_map_2cf0cf611716
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:23.557365+00:00
 -- url     : https://prove2.me/theorems/e42ed86a-0fc7-4b8b-b12b-1d6b0ba2b725

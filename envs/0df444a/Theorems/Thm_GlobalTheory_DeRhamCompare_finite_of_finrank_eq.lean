@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DeRhamCompare_finite_of_finrank_eq
 -- name    : GlobalTheory.DeRhamCompare.finite_of_finrank_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:11.748038+00:00
 -- url     : https://prove2.me/theorems/950d84b3-08af-53e3-b101-2d500d9b2208

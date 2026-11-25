@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_sum_truncCoord_one_d40575ce1942
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_sum_truncCoord_one_d40575ce1942
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:09:29.496861+00:00
 -- url     : https://prove2.me/theorems/011fea39-b3f6-41f9-89b3-1ced5296e948

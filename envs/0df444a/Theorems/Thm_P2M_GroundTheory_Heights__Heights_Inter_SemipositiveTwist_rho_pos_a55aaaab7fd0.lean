@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_SemipositiveTwist_rho_pos_a55aaaab7fd0
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_SemipositiveTwist_rho_pos_a55aaaab7fd0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:03:40.746275+00:00
 -- url     : https://prove2.me/theorems/7daf5128-9b49-4fb0-bde4-475677cbda0b

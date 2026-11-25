@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RegularLocusDense_proof_ee86a3a1f765
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_RegularLocusDense_proof_ee86a3a1f765
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:15.331332+00:00
 -- url     : https://prove2.me/theorems/5eb4561d-a118-464b-9128-6924a8c6d035

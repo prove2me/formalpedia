@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_PlaneGram_plane_gram_theorem_of_five_lemmas
 -- name    : Formalism.MainNotions.PlaneGram.plane_gram_theorem_of_five_lemmas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:49:42.337413+00:00
 -- url     : https://prove2.me/theorems/cbff2a87-ad5a-492e-889c-ffe0972cc4a8

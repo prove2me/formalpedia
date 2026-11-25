@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialFrame_exists_eval_line_ne_zero_0db500c9f83d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_PolynomialFrame_exists_eval_line_ne_zero_0db500c9f83d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:20:10.575176+00:00
 -- url     : https://prove2.me/theorems/ee521ef4-3d30-539c-a94a-ee9d697b8a6a

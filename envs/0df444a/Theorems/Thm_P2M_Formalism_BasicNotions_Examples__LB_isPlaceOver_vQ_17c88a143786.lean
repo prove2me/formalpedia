@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__LB_isPlaceOver_vQ_17c88a143786
 -- name    : P2M_Formalism_BasicNotions_Examples__LB_isPlaceOver_vQ_17c88a143786
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:52:24.992018+00:00
 -- url     : https://prove2.me/theorems/54e7943c-34a0-4909-bd95-8b9d93020277

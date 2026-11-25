@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_orthogonal_sandwich_bound
 -- name    : Formalism.BranchingDeterminantCap.orthogonal_sandwich_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:27:22.704515+00:00
 -- url     : https://prove2.me/theorems/398dfc0c-b4f1-4c5f-b085-9f9d7061bdac

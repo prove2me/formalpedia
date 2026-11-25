@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GramPivotProduct_main_cb7868b60e1a
 -- name    : P2M_GroundTheory_Heights__Heights_GramPivotProduct_main_cb7868b60e1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:18:44.407456+00:00
 -- url     : https://prove2.me/theorems/fe54d6bb-3566-4de3-9ca5-8d3995003a13

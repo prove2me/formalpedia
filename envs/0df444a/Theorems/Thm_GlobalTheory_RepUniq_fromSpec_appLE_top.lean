@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_fromSpec_appLE_top
 -- name    : GlobalTheory.RepUniq.fromSpec_appLE_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:01:30.71194+00:00
 -- url     : https://prove2.me/theorems/6fe27a6c-5ff9-49f2-80cd-cd9f0b77731a

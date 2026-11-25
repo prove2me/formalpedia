@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_unitary_smul_smul_8d91b88346f9
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_unitary_smul_smul_8d91b88346f9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:04:55.638631+00:00
 -- url     : https://prove2.me/theorems/90d521b2-bce4-4407-8373-1f015c240dc0

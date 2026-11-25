@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_mk_X_chart_705df892b54f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_mk_X_chart_705df892b54f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:09:18.59971+00:00
 -- url     : https://prove2.me/theorems/7848a1c2-3cf5-4b4e-9d6a-8ab658c05682

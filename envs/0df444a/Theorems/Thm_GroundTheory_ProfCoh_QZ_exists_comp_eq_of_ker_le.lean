@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_QZ_exists_comp_eq_of_ker_le
 -- name    : GroundTheory.ProfCoh.QZ.exists_comp_eq_of_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:33:41.915961+00:00
 -- url     : https://prove2.me/theorems/d4dc407d-b1f5-574b-91da-4cc09867fcd2

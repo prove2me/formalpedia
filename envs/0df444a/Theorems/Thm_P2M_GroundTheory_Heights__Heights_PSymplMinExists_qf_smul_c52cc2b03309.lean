@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplMinExists_qf_smul_c52cc2b03309
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplMinExists_qf_smul_c52cc2b03309
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:21.818175+00:00
 -- url     : https://prove2.me/theorems/44a02bc5-842b-4d83-8f94-7ff1ca2692f7

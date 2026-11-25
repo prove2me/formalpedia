@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_Swap_hyps_inhabited_30a7ad7515a0
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_Swap_hyps_inhabited_30a7ad7515a0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:49.003617+00:00
 -- url     : https://prove2.me/theorems/13d4b589-c762-4c91-99ff-3a2f35bdc713

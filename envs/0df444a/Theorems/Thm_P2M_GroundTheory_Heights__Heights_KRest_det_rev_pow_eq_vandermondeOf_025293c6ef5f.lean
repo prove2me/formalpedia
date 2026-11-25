@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KRest_det_rev_pow_eq_vandermondeOf_025293c6ef5f
 -- name    : P2M_GroundTheory_Heights__Heights_KRest_det_rev_pow_eq_vandermondeOf_025293c6ef5f
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:23.193947+00:00
 -- url     : https://prove2.me/theorems/02c78bc9-fcbd-45f7-ba84-7e4f87a0fa57

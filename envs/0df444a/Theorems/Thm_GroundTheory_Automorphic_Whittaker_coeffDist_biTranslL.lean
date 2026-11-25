@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_coeffDist_biTranslL
 -- name    : GroundTheory.Automorphic.Whittaker.coeffDist_biTranslL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:04:51.366268+00:00
 -- url     : https://prove2.me/theorems/aa4fcfb6-2aa2-4925-b1dc-f299514a048e

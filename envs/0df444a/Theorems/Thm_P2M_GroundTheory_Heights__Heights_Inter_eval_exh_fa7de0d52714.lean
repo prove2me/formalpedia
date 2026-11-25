@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_eval_exh_fa7de0d52714
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_eval_exh_fa7de0d52714
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:02:21.960037+00:00
 -- url     : https://prove2.me/theorems/f2cdbf61-56d7-4e08-83eb-8490abf38b6d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NullSmaller_ringKrullDim_le_of_lt_succ_dc2eac2098d2
 -- name    : P2M_GroundTheory_Heights__Heights_NullSmaller_ringKrullDim_le_of_lt_succ_dc2eac2098d2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:05:23.30258+00:00
 -- url     : https://prove2.me/theorems/a02f9cc6-1659-4869-b0a0-ea92845e344b

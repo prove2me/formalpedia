@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_classList_diag_22aec79530dc
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_classList_diag_22aec79530dc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:09:15.820141+00:00
 -- url     : https://prove2.me/theorems/e89c65ee-6de3-4ef8-8701-c73896cff69c

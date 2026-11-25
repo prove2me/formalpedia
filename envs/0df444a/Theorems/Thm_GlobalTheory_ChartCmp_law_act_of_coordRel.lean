@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_law_act_of_coordRel
 -- name    : GlobalTheory.ChartCmp.law_act_of_coordRel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T02:36:55.154802+00:00
 -- url     : https://prove2.me/theorems/dd9e30c8-05bb-4556-b690-4e56bcef515d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MajNear_isom_of_gram_eq
 -- name    : GlobalTheory.MajNear.isom_of_gram_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:01:51.814202+00:00
 -- url     : https://prove2.me/theorems/59331316-1bcb-58bc-b6a2-98a56d0503e2

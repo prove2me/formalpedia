@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PeriodChartData_Y_posDef_267bfd399814
 -- name    : P2M_GroundTheory_Heights__Heights_PeriodChartData_Y_posDef_267bfd399814
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:20.668813+00:00
 -- url     : https://prove2.me/theorems/e832165e-2862-47dd-8927-89d1f9c5a0a2

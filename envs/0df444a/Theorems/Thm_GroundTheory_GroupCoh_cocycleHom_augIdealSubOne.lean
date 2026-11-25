@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_cocycleHom_augIdealSubOne
 -- name    : GroundTheory.GroupCoh.cocycleHom_augIdealSubOne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:16:06.141963+00:00
 -- url     : https://prove2.me/theorems/68d079a0-a272-582e-b2ed-174d58263eb9

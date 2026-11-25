@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_localizedQuot_map_bijective_of_saturated_276e2f64ac24
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_localizedQuot_map_bijective_of_saturated_276e2f64ac24
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:11:33.901852+00:00
 -- url     : https://prove2.me/theorems/43818370-8945-4136-93f3-de49c96ff947

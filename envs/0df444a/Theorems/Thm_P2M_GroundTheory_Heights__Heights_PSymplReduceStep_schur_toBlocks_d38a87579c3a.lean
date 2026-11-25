@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplReduceStep_schur_toBlocks_d38a87579c3a
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplReduceStep_schur_toBlocks_d38a87579c3a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:13:53.033073+00:00
 -- url     : https://prove2.me/theorems/f52056d5-127a-5f0f-913d-119287146968

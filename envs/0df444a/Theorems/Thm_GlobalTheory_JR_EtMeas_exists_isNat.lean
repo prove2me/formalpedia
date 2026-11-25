@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JR_EtMeas_exists_isNat
 -- name    : GlobalTheory.JR.EtMeas.exists_isNat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:23:40.481208+00:00
 -- url     : https://prove2.me/theorems/3b4f1a90-6117-4f21-b82f-38e3869655aa

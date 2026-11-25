@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_lexEmb_injective_2e035ab13206
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_lexEmb_injective_2e035ab13206
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:59:44.558206+00:00
 -- url     : https://prove2.me/theorems/8dbef08d-1157-404d-ad88-8b27d175deb6

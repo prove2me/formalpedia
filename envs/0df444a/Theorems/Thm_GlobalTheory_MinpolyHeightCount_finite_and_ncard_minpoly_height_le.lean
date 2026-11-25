@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinpolyHeightCount_finite_and_ncard_minpoly_height_le
 -- name    : GlobalTheory.MinpolyHeightCount.finite_and_ncard_minpoly_height_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:24:49.968893+00:00
 -- url     : https://prove2.me/theorems/425fc041-6b68-42a5-b86d-0dc5c276a65e

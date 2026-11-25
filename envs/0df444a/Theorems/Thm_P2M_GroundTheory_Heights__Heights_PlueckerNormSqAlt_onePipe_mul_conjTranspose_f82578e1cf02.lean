@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PlueckerNormSqAlt_onePipe_mul_conjTranspose_f82578e1cf02
 -- name    : P2M_GroundTheory_Heights__Heights_PlueckerNormSqAlt_onePipe_mul_conjTranspose_f82578e1cf02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:14:35.42072+00:00
 -- url     : https://prove2.me/theorems/fd87ad58-443c-49ba-90d7-2abb328970e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexProd_relIndex_eq_of_forall_mul
 -- name    : GlobalTheory.IndexProd.relIndex_eq_of_forall_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:00:41.661237+00:00
 -- url     : https://prove2.me/theorems/71be269d-d840-41f2-81b3-2b409048485f

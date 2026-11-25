@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_classNum_rename_e13bf3796dec
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_classNum_rename_e13bf3796dec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:09:35.010479+00:00
 -- url     : https://prove2.me/theorems/1ec71f9c-1ced-4f31-b8ee-6b36d19cc257

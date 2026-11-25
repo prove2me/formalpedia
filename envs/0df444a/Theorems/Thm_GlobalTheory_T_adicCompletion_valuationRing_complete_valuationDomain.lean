@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_adicCompletion_valuationRing_complete_valuationDomain
 -- name    : GlobalTheory.T.adicCompletion_valuationRing_complete_valuationDomain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:26:44.562115+00:00
 -- url     : https://prove2.me/theorems/9d1ae68d-5303-4532-8a5f-2c9c976f948d

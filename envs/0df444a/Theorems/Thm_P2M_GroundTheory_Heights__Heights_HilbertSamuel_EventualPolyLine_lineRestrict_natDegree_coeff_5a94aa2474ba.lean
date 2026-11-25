@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolyLine_lineRestrict_natDegree_coeff_5a94aa2474ba
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_EventualPolyLine_lineRestrict_natDegree_coeff_5a94aa2474ba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:19:06.261988+00:00
 -- url     : https://prove2.me/theorems/0b3b32e7-4f1d-4201-a854-2acb93cfaed4

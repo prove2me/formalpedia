@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EabClass_rdV_class
 -- name    : GlobalTheory.EabClass.rdV_class
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:00:04.55399+00:00
 -- url     : https://prove2.me/theorems/1ba90319-bc59-568e-ae67-c89b877927e0

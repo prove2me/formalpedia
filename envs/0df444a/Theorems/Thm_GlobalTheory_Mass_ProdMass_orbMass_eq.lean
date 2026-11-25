@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_ProdMass_orbMass_eq
 -- name    : GlobalTheory.Mass.ProdMass.orbMass_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:00:01.218501+00:00
 -- url     : https://prove2.me/theorems/8cb78ff9-9ce1-4bc3-a42c-0e5c457ae54b

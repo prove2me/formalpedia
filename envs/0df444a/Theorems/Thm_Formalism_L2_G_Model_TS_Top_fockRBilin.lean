@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_G_Model_TS_Top_fockRBilin
 -- name    : Formalism.L2.G.Model.TS.Top.fockRBilin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:47:57.188224+00:00
 -- url     : https://prove2.me/theorems/1e3d1d84-7deb-4f08-8970-9a596a5747b9

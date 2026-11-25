@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_mul_mem_sup_span_of_sub_mem_409f1971e60c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_mul_mem_sup_span_of_sub_mem_409f1971e60c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:20:30.143314+00:00
 -- url     : https://prove2.me/theorems/03878b22-9ad4-517c-b1fb-49fcdcc88e65

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_map_withDensity_integrable_integral
 -- name    : ReciprocityTheory.AnForm.M.map_withDensity_integrable_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:52:15.604521+00:00
 -- url     : https://prove2.me/theorems/0032b175-7fbb-51b9-87d5-39f74d37a8d5

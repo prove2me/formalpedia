@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_Upq_Quot_quotient_measure_self
 -- name    : CompanionTheory.D.Upq.Quot.quotient_measure_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:56:29.62751+00:00
 -- url     : https://prove2.me/theorems/8d93649a-4753-4aba-801f-8a0891e15e50

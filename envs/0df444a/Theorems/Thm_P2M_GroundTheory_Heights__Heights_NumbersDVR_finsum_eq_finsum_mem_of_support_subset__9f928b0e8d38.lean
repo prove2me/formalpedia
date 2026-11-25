@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_finsum_eq_finsum_mem_of_support_subset__9f928b0e8d38
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_finsum_eq_finsum_mem_of_support_subset__9f928b0e8d38
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:11:13.089479+00:00
 -- url     : https://prove2.me/theorems/4af4fda9-4ce4-4100-bcf6-83aa1796bfc5

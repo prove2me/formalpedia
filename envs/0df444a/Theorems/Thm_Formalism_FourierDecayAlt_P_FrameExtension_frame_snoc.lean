@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameExtension_frame_snoc
 -- name    : Formalism.FourierDecayAlt.P.FrameExtension.frame_snoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:10:18.065986+00:00
 -- url     : https://prove2.me/theorems/06ee8430-a1d0-4cbd-aab0-792dfb201175

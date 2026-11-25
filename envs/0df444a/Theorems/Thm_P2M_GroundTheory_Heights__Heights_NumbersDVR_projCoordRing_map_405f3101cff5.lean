@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_projCoordRing_map_405f3101cff5
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_projCoordRing_map_405f3101cff5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:12:15.440518+00:00
 -- url     : https://prove2.me/theorems/dac0f078-83ed-442f-a080-7bded36b6a1a

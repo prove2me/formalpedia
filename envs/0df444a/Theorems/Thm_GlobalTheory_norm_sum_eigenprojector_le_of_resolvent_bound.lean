@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_norm_sum_eigenprojector_le_of_resolvent_bound
 -- name    : GlobalTheory.norm_sum_eigenprojector_le_of_resolvent_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:25.017466+00:00
 -- url     : https://prove2.me/theorems/de6b1403-2a96-425a-8282-821df291f75e

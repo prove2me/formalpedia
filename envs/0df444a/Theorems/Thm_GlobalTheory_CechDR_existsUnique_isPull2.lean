@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CechDR_existsUnique_isPull2
 -- name    : GlobalTheory.CechDR.existsUnique_isPull2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:10:23.680593+00:00
 -- url     : https://prove2.me/theorems/98fd1d57-f4c0-5534-9a27-5b909cda68a6

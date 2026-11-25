@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_HyperbolicPairTransitive_exists_unitary_of_preserves_bd77755a0330
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_HyperbolicPairTransitive_exists_unitary_of_preserves_bd77755a0330
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:50:27.022224+00:00
 -- url     : https://prove2.me/theorems/08d5adf6-5387-56be-bd8b-c3c530d64ae7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_phiOf_good
 -- name    : GlobalTheory.CompanionTheory.CotLoc.phiOf_good
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:57:46.930793+00:00
 -- url     : https://prove2.me/theorems/c9a9f13f-28e2-4722-90da-cfbe2ecb33d5

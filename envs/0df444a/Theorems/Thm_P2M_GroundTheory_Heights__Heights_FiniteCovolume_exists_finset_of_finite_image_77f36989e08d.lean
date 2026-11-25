@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_finset_of_finite_image_77f36989e08d
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_exists_finset_of_finite_image_77f36989e08d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:22.232296+00:00
 -- url     : https://prove2.me/theorems/e50ecd71-4d0e-41b5-b3af-5a3332c7ee89

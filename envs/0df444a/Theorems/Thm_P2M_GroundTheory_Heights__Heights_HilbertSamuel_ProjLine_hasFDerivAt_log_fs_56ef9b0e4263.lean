@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_hasFDerivAt_log_fs_56ef9b0e4263
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_ProjLine_hasFDerivAt_log_fs_56ef9b0e4263
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:21:42.218802+00:00
 -- url     : https://prove2.me/theorems/b62ebce3-a6cc-58c5-8290-853081ccc019

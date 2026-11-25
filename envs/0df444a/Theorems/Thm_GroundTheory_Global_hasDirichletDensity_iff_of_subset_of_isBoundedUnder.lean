@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_hasDirichletDensity_iff_of_subset_of_isBoundedUnder
 -- name    : GroundTheory.Global.hasDirichletDensity_iff_of_subset_of_isBoundedUnder
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:53:41.349078+00:00
 -- url     : https://prove2.me/theorems/b1965317-27da-49c8-9a27-78666bd0882a

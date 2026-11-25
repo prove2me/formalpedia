@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_cobOne_transl_invariant
 -- name    : GlobalTheory.PDivGroup.cobOne_transl_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:51:45.684664+00:00
 -- url     : https://prove2.me/theorems/da89130c-73b2-4cc5-8c07-489c1dbd52c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_span_smul
 -- name    : GlobalTheory.DegMove.span_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:56:11.145263+00:00
 -- url     : https://prove2.me/theorems/ba19e00e-c903-4569-b3ee-40f3c58a741d

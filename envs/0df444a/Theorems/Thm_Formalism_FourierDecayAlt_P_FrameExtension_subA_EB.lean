@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_FrameExtension_subA_EB
 -- name    : Formalism.FourierDecayAlt.P.FrameExtension.subA_EB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:09:42.213274+00:00
 -- url     : https://prove2.me/theorems/282a8f5f-e739-4e3a-9f2d-b56bb89e4dfc

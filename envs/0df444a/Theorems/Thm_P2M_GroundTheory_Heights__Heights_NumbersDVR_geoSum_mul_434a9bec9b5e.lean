@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_geoSum_mul_434a9bec9b5e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_geoSum_mul_434a9bec9b5e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:10:32.457498+00:00
 -- url     : https://prove2.me/theorems/b6631d2c-69ae-4ec7-a90b-4704ad1c14f3

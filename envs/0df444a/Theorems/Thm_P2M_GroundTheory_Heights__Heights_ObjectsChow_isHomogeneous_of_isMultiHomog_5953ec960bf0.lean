@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_isHomogeneous_of_isMultiHomog_5953ec960bf0
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_isHomogeneous_of_isMultiHomog_5953ec960bf0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:13:32.22245+00:00
 -- url     : https://prove2.me/theorems/3982839d-21d5-4c90-b316-f8d2dbea6f46

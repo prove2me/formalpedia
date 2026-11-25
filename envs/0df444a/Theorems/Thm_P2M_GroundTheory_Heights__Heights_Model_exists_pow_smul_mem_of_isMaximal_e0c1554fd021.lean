@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_pow_smul_mem_of_isMaximal_e0c1554fd021
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_pow_smul_mem_of_isMaximal_e0c1554fd021
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:17.39484+00:00
 -- url     : https://prove2.me/theorems/69d6944f-900a-487c-a00c-e516e25bdbd1

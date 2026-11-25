@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitCenterMemIff_weightedHomogeneousComponent_X_mul_0b047dbd7110
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitCenterMemIff_weightedHomogeneousComponent_X_mul_0b047dbd7110
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:13.687315+00:00
 -- url     : https://prove2.me/theorems/96b6fc4a-35d9-4120-85ee-8a2a67fef50b

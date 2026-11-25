@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_MainNotions_N_PreambleDegrees_Loc__Q_succ_0177c17f8f15
 -- name    : P2M_Formalism_MainNotions_N_PreambleDegrees_Loc__Q_succ_0177c17f8f15
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:14:44.045701+00:00
 -- url     : https://prove2.me/theorems/07ef1d72-eff3-5511-92e3-92d52820eb21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_sum_partC_72f412671d36
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentCohomProof_sum_partC_72f412671d36
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:19.644071+00:00
 -- url     : https://prove2.me/theorems/de0fab3e-83ee-4f62-947a-89beac85135f

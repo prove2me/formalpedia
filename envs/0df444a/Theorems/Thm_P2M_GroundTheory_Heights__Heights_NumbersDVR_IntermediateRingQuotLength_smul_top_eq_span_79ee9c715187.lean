@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntermediateRingQuotLength_smul_top_eq_span_79ee9c715187
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntermediateRingQuotLength_smul_top_eq_span_79ee9c715187
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:08:57.207573+00:00
 -- url     : https://prove2.me/theorems/097a7051-3f4a-4e32-8be7-aadb8502237a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_exists_refined_covering_chart_family
 -- name    : GlobalTheory.T.exists_refined_covering_chart_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:39:27.525899+00:00
 -- url     : https://prove2.me/theorems/24066f6d-4720-429e-b649-b6a255360997

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_ProfCoh_subsingleton_cohomology_of_primary_of_finite
 -- name    : GroundTheory.ProfCoh.subsingleton_cohomology_of_primary_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:47:13.175232+00:00
 -- url     : https://prove2.me/theorems/9fd6599b-b939-4d21-bce9-24d69876dea6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_withBot_eq_of_le_of_add_one_le_d3b6d7c67625
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_withBot_eq_of_le_of_add_one_le_d3b6d7c67625
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:13:35.318003+00:00
 -- url     : https://prove2.me/theorems/451b9c37-1720-479a-b1f0-7ad3694a788f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_pullbackCompIso_comp__3ff0e312897d
 -- name    : P2M_GroundTheory_Heights__Heights_Model_pullbackCompIso_comp__3ff0e312897d
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:23:40.895865+00:00
 -- url     : https://prove2.me/theorems/0c827068-fd93-4fdc-a88e-7a0e5646df67

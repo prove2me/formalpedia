@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLatNm_reads_readElt_97ddeb3ac6cc
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLatNm_reads_readElt_97ddeb3ac6cc
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:50:15.963837+00:00
 -- url     : https://prove2.me/theorems/f77a79aa-f71b-43dd-9881-d7c1131e5212

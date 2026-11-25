@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_abs_sub_lt_one_of_floor_eq
 -- name    : GroundTheory.Automorphic.Reduction.abs_sub_lt_one_of_floor_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:05:09.75487+00:00
 -- url     : https://prove2.me/theorems/359c7e9c-03b7-40c6-b090-5d974bffc91a

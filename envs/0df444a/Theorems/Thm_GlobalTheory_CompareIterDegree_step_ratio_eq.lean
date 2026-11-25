@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_step_ratio_eq
 -- name    : GlobalTheory.CompareIterDegree.step_ratio_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:58:11.375832+00:00
 -- url     : https://prove2.me/theorems/118ce455-a283-4f4d-828b-f0fd9c46f254

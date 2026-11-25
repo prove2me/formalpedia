@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_DescendHom_pullSectionOn_openImmersion_0ea89070b545
 -- name    : P2M_GroundTheory_Heights__Heights_Model_DescendHom_pullSectionOn_openImmersion_0ea89070b545
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:51:04.374192+00:00
 -- url     : https://prove2.me/theorems/bc134c11-c005-53a4-98b2-ccbbc06a0881

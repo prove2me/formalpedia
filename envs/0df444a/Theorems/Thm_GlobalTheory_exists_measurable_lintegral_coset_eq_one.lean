@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_measurable_lintegral_coset_eq_one
 -- name    : GlobalTheory.exists_measurable_lintegral_coset_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:01:55.883513+00:00
 -- url     : https://prove2.me/theorems/5e81ea6d-49b4-4379-9503-0905e661eb4b

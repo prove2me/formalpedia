@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaExh_Check_speh_char
 -- name    : GlobalTheory.ThetaExh.Check.speh_char
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:05:16.095023+00:00
 -- url     : https://prove2.me/theorems/c6c8f801-6f40-4631-8247-d5899bfb0259

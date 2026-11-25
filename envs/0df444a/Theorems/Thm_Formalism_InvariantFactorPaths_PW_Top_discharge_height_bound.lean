@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_Top_discharge_height_bound
 -- name    : Formalism.InvariantFactorPaths.PW.Top.discharge_height_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:47:05.996121+00:00
 -- url     : https://prove2.me/theorems/1c3bd4ac-68e9-530b-a65a-9d534c581258

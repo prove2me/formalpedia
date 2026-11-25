@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_monic_sub_eq_mul_sum_0b542fb0941c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_monic_sub_eq_mul_sum_0b542fb0941c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:21:18.754799+00:00
 -- url     : https://prove2.me/theorems/4be86789-32da-48e4-bbe6-493c5b564e72

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_ProdMass_wt_rel
 -- name    : GlobalTheory.Mass.ProdMass.wt_rel
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:01:29.957442+00:00
 -- url     : https://prove2.me/theorems/ed1507ff-b90b-539f-b073-26782af8ec92

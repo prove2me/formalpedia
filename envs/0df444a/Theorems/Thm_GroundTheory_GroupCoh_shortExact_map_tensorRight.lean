@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_shortExact_map_tensorRight
 -- name    : GroundTheory.GroupCoh.shortExact_map_tensorRight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:32:58.281499+00:00
 -- url     : https://prove2.me/theorems/0328ab81-f35e-4a1d-95b1-d40131de03a4

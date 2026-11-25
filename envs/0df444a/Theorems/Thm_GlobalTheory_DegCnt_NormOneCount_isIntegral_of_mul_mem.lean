@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_NormOneCount_isIntegral_of_mul_mem
 -- name    : GlobalTheory.DegCnt.NormOneCount.isIntegral_of_mul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:00:19.779136+00:00
 -- url     : https://prove2.me/theorems/9fab17c3-c9bb-4e41-a251-7aadfea2778f

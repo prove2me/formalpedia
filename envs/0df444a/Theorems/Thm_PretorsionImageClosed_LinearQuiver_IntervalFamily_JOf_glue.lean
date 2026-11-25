@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_LinearQuiver_IntervalFamily_JOf_glue
 -- name    : PretorsionImageClosed.LinearQuiver.IntervalFamily.JOf_glue
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:14:11.928896+00:00
 -- url     : https://prove2.me/theorems/5e0a1c8e-8543-4ccc-a80a-e9bbb2ab98ca

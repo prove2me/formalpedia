@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SubsetSum_prod_sub_subset_sum_eq_zero
 -- name    : GlobalTheory.CompanionTheory.SubsetSum.prod_sub_subset_sum_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T12:16:27.254574+00:00
 -- url     : https://prove2.me/theorems/cae6db0f-1543-4175-aa25-7e37d4dfa1b9

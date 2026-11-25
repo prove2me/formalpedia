@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_positioned_map_facW
 -- name    : CompanionTheory.WaveGrid.positioned_map_facW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:58:16.846561+00:00
 -- url     : https://prove2.me/theorems/969d3b97-5c48-5320-974c-8f6661965113

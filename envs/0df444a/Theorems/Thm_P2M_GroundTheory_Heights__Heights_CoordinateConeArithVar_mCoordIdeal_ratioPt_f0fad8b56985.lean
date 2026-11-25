@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_mCoordIdeal_ratioPt_f0fad8b56985
 -- name    : P2M_GroundTheory_Heights__Heights_CoordinateConeArithVar_mCoordIdeal_ratioPt_f0fad8b56985
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:04.758748+00:00
 -- url     : https://prove2.me/theorems/1faa41d9-b0eb-4216-bc29-f8a78d76be03

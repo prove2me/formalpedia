@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_PrimeLogSum_large_le_8775b716dccb
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_PrimeLogSum_large_le_8775b716dccb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:04:34.879296+00:00
 -- url     : https://prove2.me/theorems/7f0dde9d-a9b0-4bb4-b641-61f3dcf0ef0d

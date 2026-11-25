@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ae_eq_of_dense_of_local_sq_bound
 -- name    : GlobalTheory.ae_eq_of_dense_of_local_sq_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:01:57.445797+00:00
 -- url     : https://prove2.me/theorems/3320f41b-2281-4c64-936c-7233e10cc2f8

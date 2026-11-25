@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_cramerUpper
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.cramerUpper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:08:20.762537+00:00
 -- url     : https://prove2.me/theorems/5a19026d-a82e-46e1-b904-7b65c15806b2

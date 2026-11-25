@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DehomogOrd_ord_X_pow_mul_C_f5945d70f93b
 -- name    : P2M_GroundTheory_Heights__Heights_DehomogOrd_ord_X_pow_mul_C_f5945d70f93b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:17:14.813233+00:00
 -- url     : https://prove2.me/theorems/b8f3e917-f378-5425-be54-ce6ab44ecef5

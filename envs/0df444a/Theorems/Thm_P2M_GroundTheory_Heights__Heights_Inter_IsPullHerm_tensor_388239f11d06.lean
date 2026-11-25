@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_IsPullHerm_tensor_388239f11d06
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_IsPullHerm_tensor_388239f11d06
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:22:41.41615+00:00
 -- url     : https://prove2.me/theorems/7c940398-a7c5-4316-9ab3-9feaa24bbf0f

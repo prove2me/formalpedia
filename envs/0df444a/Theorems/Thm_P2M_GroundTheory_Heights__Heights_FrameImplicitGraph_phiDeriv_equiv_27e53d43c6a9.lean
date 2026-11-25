@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_phiDeriv_equiv_27e53d43c6a9
 -- name    : P2M_GroundTheory_Heights__Heights_FrameImplicitGraph_phiDeriv_equiv_27e53d43c6a9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:18:28.141145+00:00
 -- url     : https://prove2.me/theorems/359bd0f1-e0b2-52a8-869a-e11bae9318b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_mem_virtualCharacters_of_abelianByPrimePower
 -- name    : GlobalTheory.T.mem_virtualCharacters_of_abelianByPrimePower
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:53:15.875719+00:00
 -- url     : https://prove2.me/theorems/9c12426b-44fd-46e1-97d5-be1e34c71af4

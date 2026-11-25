@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_term_bound_3573df0163f5
 -- name    : P2M_GroundTheory_Heights__Heights_CutOffBoundaryBound_term_bound_3573df0163f5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:58:30.835155+00:00
 -- url     : https://prove2.me/theorems/74d23d0d-8766-4800-8226-394cd0aa572a

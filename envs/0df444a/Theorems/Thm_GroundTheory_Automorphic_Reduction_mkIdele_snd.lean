@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_mkIdele_snd
 -- name    : GroundTheory.Automorphic.Reduction.mkIdele_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:05:25.093801+00:00
 -- url     : https://prove2.me/theorems/1b77ae97-8dca-4bb5-867e-e328408358c2

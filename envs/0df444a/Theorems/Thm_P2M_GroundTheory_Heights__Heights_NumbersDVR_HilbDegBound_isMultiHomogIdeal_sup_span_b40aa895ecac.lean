@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbDegBound_isMultiHomogIdeal_sup_span_b40aa895ecac
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HilbDegBound_isMultiHomogIdeal_sup_span_b40aa895ecac
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:28.989413+00:00
 -- url     : https://prove2.me/theorems/7d32d100-230a-4704-863e-d70e94dc845b

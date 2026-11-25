@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCBounds_gram_posDef_179fcbfd6c04
 -- name    : P2M_GroundTheory_Heights__Heights_MCBounds_gram_posDef_179fcbfd6c04
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:35:16.371971+00:00
 -- url     : https://prove2.me/theorems/5279c5e0-ea6c-4d16-a663-2cfd552f27b6

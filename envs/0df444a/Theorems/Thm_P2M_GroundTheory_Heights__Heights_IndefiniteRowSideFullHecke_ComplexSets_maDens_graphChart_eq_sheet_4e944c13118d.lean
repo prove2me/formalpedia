@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_maDens_graphChart_eq_sheet_4e944c13118d
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_maDens_graphChart_eq_sheet_4e944c13118d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:21:19.67803+00:00
 -- url     : https://prove2.me/theorems/0346c75b-95be-46ee-9fa1-4255841bb625

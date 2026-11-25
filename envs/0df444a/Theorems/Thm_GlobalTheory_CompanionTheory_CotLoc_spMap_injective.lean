@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_spMap_injective
 -- name    : GlobalTheory.CompanionTheory.CotLoc.spMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:53:59.64946+00:00
 -- url     : https://prove2.me/theorems/61ee8c14-2af2-4022-95a6-32890bfdd822

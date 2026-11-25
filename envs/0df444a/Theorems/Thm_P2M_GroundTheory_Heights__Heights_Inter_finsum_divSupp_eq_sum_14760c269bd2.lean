@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_finsum_divSupp_eq_sum_14760c269bd2
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_finsum_divSupp_eq_sum_14760c269bd2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:26.539304+00:00
 -- url     : https://prove2.me/theorems/2218d5a6-0307-4748-b012-4dba42689738

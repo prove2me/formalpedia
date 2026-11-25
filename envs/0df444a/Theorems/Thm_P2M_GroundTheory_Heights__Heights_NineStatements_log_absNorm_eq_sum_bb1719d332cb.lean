@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_log_absNorm_eq_sum_bb1719d332cb
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_log_absNorm_eq_sum_bb1719d332cb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:04:33.700866+00:00
 -- url     : https://prove2.me/theorems/d64bc656-2db1-4bfe-a1c0-2dde309c6acc

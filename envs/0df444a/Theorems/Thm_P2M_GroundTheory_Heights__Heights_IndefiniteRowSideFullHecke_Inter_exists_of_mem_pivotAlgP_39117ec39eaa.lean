@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_exists_of_mem_pivotAlgP_39117ec39eaa
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_exists_of_mem_pivotAlgP_39117ec39eaa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:44:55.509706+00:00
 -- url     : https://prove2.me/theorems/2aff2804-37e7-5288-9614-7431635767dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_prod_mem_pow
 -- name    : CompanionTheory.LimBd.Main.prod_mem_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:56:20.469642+00:00
 -- url     : https://prove2.me/theorems/1309f973-c96b-4070-b32f-7abad79a615f

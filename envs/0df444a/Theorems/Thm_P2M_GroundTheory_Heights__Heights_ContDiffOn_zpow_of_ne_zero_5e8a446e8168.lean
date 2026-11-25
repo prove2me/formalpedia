@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ContDiffOn_zpow_of_ne_zero_5e8a446e8168
 -- name    : P2M_GroundTheory_Heights__Heights_ContDiffOn_zpow_of_ne_zero_5e8a446e8168
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:56:48.91985+00:00
 -- url     : https://prove2.me/theorems/8c8aeb1b-84b5-45ce-879b-50cc0afc54f3

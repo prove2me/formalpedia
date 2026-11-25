@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_gradedPiece_eq_bot_of_not_isRelevant_05c8187c8ccb
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_gradedPiece_eq_bot_of_not_isRelevant_05c8187c8ccb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:17:46.399015+00:00
 -- url     : https://prove2.me/theorems/babf6dc4-8afd-439f-8aa8-61045f48a8a4

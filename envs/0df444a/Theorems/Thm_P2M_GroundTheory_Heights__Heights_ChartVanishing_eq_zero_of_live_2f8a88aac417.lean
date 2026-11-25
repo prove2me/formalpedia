@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartVanishing_eq_zero_of_live_2f8a88aac417
 -- name    : P2M_GroundTheory_Heights__Heights_ChartVanishing_eq_zero_of_live_2f8a88aac417
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:57:46.183248+00:00
 -- url     : https://prove2.me/theorems/edbc3873-8346-5123-98e3-53a6e6cf875b

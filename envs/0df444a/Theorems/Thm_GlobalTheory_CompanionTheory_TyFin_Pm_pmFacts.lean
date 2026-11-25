@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_TyFin_Pm_pmFacts
 -- name    : GlobalTheory.CompanionTheory.TyFin.Pm.pmFacts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T12:18:38.721082+00:00
 -- url     : https://prove2.me/theorems/7ed0c42e-5d93-4a17-ad99-66c151f8f03b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_BlockStab_mul_mono
 -- name    : GlobalTheory.HL.BlockStab.mul_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:03.881863+00:00
 -- url     : https://prove2.me/theorems/67da0fe3-f26f-5577-ad70-9ee4c82b7d0d

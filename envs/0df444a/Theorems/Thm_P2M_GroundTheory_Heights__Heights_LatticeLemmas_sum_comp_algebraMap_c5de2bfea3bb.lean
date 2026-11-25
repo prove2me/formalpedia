@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LatticeLemmas_sum_comp_algebraMap_c5de2bfea3bb
 -- name    : P2M_GroundTheory_Heights__Heights_LatticeLemmas_sum_comp_algebraMap_c5de2bfea3bb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:27:59.243129+00:00
 -- url     : https://prove2.me/theorems/3ae3438a-01a6-4960-bc46-a733ed564a7f

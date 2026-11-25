@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelGoodPointChart_exists_coordChart_fe9e1808ce1e
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelGoodPointChart_exists_coordChart_fe9e1808ce1e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:04:50.688818+00:00
 -- url     : https://prove2.me/theorems/510c7f64-1205-5ea6-a7c8-089241f70854

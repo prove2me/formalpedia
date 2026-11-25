@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_regToLoc_coe_e35c08fdab1a
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_regToLoc_coe_e35c08fdab1a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:45:58.276847+00:00
 -- url     : https://prove2.me/theorems/77c56d5a-4e00-5c56-9dce-98412a458d91

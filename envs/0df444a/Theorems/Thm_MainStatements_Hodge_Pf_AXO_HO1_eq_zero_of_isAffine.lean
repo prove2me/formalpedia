@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MainStatements_Hodge_Pf_AXO_HO1_eq_zero_of_isAffine
 -- name    : MainStatements.Hodge.Pf.AXO.HO1_eq_zero_of_isAffine
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:58:58.471215+00:00
 -- url     : https://prove2.me/theorems/0a8c451e-c503-49d6-aa26-a825fa6f9768

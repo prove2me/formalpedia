@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Models_one_le_w_and_wst
 -- name    : GlobalTheory.Models.one_le_w_and_wst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:11:32.317298+00:00
 -- url     : https://prove2.me/theorems/bc4a10b5-521d-400a-ad44-349779e658d3

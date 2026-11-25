@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_countable_quotient_of_isOpen
 -- name    : GroundTheory.Global.countable_quotient_of_isOpen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:14:45.608434+00:00
 -- url     : https://prove2.me/theorems/6286e064-da0c-547e-98e1-e361cec08ab6

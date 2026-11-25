@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_frame_chart
 -- name    : GlobalTheory.RepUniq.frame_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:52:55.799836+00:00
 -- url     : https://prove2.me/theorems/52106d59-fd82-5b20-9305-e05701fbc1e2

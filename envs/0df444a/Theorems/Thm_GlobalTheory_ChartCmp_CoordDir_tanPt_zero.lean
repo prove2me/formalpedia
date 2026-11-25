@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_CoordDir_tanPt_zero
 -- name    : GlobalTheory.ChartCmp.CoordDir.tanPt_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:04:31.784107+00:00
 -- url     : https://prove2.me/theorems/461185fb-a1d3-5847-a489-f691950ef055

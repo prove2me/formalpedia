@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumAssoc_list_sum_finset_sum_1a44e1bea062
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumAssoc_list_sum_finset_sum_1a44e1bea062
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:06:39.509015+00:00
 -- url     : https://prove2.me/theorems/8a4feaa1-51a7-4b86-9ea3-eedb51aa9b3d

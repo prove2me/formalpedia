@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_mem_span_of_local_c35ca71026c1
 -- name    : P2M_GroundTheory_Heights__Heights_InvertibleIdealIndexAlt_mem_span_of_local_c35ca71026c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:26:52.273615+00:00
 -- url     : https://prove2.me/theorems/53dd56f2-f043-4c0d-980a-670238956020

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_card_filter_fin_bounds
 -- name    : GlobalTheory.card_filter_fin_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:01:56.139431+00:00
 -- url     : https://prove2.me/theorems/37c3dd63-d9a8-459c-a034-dcfd7d8fc571

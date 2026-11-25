@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_minor_mem_9d3fc2e3a119
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_minor_mem_9d3fc2e3a119
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:08:46.111888+00:00
 -- url     : https://prove2.me/theorems/18378b62-ef91-41d7-a8cd-d07b50c78cc0

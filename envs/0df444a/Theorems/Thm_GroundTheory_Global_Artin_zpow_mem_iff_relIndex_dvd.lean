@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Artin_zpow_mem_iff_relIndex_dvd
 -- name    : GroundTheory.Global.Artin.zpow_mem_iff_relIndex_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:14:13.899144+00:00
 -- url     : https://prove2.me/theorems/4c1fee6d-09c7-5df0-aa7d-753cd5ed2238

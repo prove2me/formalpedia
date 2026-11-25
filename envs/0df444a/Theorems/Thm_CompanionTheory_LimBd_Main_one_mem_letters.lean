@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_LimBd_Main_one_mem_letters
 -- name    : CompanionTheory.LimBd.Main.one_mem_letters
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:56:59.542062+00:00
 -- url     : https://prove2.me/theorems/91a5c3fc-15ee-47f5-85bb-6efe25ecdef9

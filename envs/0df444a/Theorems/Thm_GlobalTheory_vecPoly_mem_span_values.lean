@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_vecPoly_mem_span_values
 -- name    : GlobalTheory.vecPoly_mem_span_values
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:53:23.58733+00:00
 -- url     : https://prove2.me/theorems/c0a87f33-4ce1-43bc-9c72-28e2c0e4348b

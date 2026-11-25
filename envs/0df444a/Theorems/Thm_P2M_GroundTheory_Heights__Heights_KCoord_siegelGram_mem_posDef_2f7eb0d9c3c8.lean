@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KCoord_siegelGram_mem_posDef_2f7eb0d9c3c8
 -- name    : P2M_GroundTheory_Heights__Heights_KCoord_siegelGram_mem_posDef_2f7eb0d9c3c8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:25:55.551215+00:00
 -- url     : https://prove2.me/theorems/5efbb58e-84b1-4142-a2ac-473357539e45

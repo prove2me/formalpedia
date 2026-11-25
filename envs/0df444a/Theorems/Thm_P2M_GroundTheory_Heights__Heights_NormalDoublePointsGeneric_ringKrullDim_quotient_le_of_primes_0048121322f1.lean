@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalDoublePointsGeneric_ringKrullDim_quotient_le_of_primes_0048121322f1
 -- name    : P2M_GroundTheory_Heights__Heights_NormalDoublePointsGeneric_ringKrullDim_quotient_le_of_primes_0048121322f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:05:08.074952+00:00
 -- url     : https://prove2.me/theorems/b950692a-02ed-48a1-b44f-933855256eae

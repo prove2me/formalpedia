@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingMem_algebraMap_mk_ne_zero_c9b8b026c1a2
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingMem_algebraMap_mk_ne_zero_c9b8b026c1a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:06:40.779837+00:00
 -- url     : https://prove2.me/theorems/bc19a478-5e65-454e-afb1-37e808a60205

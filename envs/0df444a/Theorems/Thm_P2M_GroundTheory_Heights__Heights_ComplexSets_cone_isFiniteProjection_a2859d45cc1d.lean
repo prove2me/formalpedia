@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_cone_isFiniteProjection_a2859d45cc1d
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_cone_isFiniteProjection_a2859d45cc1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:15:54.655687+00:00
 -- url     : https://prove2.me/theorems/dfe64d7e-587c-5a94-b7ad-88ef70d03096

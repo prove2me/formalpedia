@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_log_absNorm_primeFrac_1bb1ff15a839
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_log_absNorm_primeFrac_1bb1ff15a839
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:04:49.879748+00:00
 -- url     : https://prove2.me/theorems/601f0a69-2da3-4d83-acc0-ef4227eda0ce

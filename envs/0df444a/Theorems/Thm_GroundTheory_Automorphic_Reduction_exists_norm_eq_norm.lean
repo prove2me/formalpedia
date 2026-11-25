@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_exists_norm_eq_norm
 -- name    : GroundTheory.Automorphic.Reduction.exists_norm_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:05:53.83293+00:00
 -- url     : https://prove2.me/theorems/83cf9ca5-0673-464b-b87a-a7b48ddb79ac

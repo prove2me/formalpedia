@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_unitaryIwasawaCosetSurj_of_leviElementExists
 -- name    : GlobalTheory.T.unitaryIwasawaCosetSurj_of_leviElementExists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:01:46.727606+00:00
 -- url     : https://prove2.me/theorems/b9578509-76c5-49d4-ac45-09096cf0e27e

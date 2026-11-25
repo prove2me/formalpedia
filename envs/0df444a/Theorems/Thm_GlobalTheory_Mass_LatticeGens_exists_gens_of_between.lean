@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LatticeGens_exists_gens_of_between
 -- name    : GlobalTheory.Mass.LatticeGens.exists_gens_of_between
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:59:23.856347+00:00
 -- url     : https://prove2.me/theorems/80fd90ae-d708-4a17-9b8b-c0849639175f

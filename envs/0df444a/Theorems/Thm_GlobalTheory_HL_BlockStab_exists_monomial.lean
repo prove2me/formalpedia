@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_BlockStab_exists_monomial
 -- name    : GlobalTheory.HL.BlockStab.exists_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:02.346929+00:00
 -- url     : https://prove2.me/theorems/1f5fd6d4-d23b-475b-a8bf-9af1a7d10272

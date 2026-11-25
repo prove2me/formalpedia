@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_fontaineTheta_gal_smul
 -- name    : GroundTheory.PAdicHodge.AInf.fontaineTheta_gal_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:39:25.142234+00:00
 -- url     : https://prove2.me/theorems/342eae2b-aa8e-487d-8346-2200d2e66040

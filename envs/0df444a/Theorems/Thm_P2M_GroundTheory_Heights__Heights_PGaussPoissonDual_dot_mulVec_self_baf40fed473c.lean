@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussPoissonDual_dot_mulVec_self_baf40fed473c
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussPoissonDual_dot_mulVec_self_baf40fed473c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:13:58.243259+00:00
 -- url     : https://prove2.me/theorems/0bf8c16c-1c9e-477d-b542-fb06a3e384fb

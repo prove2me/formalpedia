@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_vecCons_liftMDeg_0832671ae59b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_vecCons_liftMDeg_0832671ae59b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:13:53.403303+00:00
 -- url     : https://prove2.me/theorems/a5cbf61e-3e8e-4abd-b2b9-db4046dc8749

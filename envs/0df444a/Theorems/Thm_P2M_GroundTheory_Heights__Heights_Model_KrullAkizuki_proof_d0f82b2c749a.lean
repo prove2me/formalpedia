@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_KrullAkizuki_proof_d0f82b2c749a
 -- name    : P2M_GroundTheory_Heights__Heights_Model_KrullAkizuki_proof_d0f82b2c749a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:00:51.752225+00:00
 -- url     : https://prove2.me/theorems/9478a8f6-657d-4893-abb4-0bae668c9ee2

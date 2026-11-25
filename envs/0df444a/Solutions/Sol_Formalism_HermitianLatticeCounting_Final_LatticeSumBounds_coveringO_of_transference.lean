@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.coveringO_of_transference
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T04:26:59.702373+00:00
+-- url     : https://prove2.me/submissions/a7b25f42-4d69-46ab-9be4-7b5bfad8faac
+
+import Definitions.Def_Formalism_FlagUnipotentLattices_CardSubmodulesAndLinearEquivBounds
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_LatticeSumBounds
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_DetMulEqSumProdMulDetSubmatrix
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_IdealsOfNormEqIndexSet
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SchurAverage
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_ExponentInequalityNondegenerateMid
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_MeasurePreservingPiCompProd
+import Definitions.Def_Formalism_FlagUnipotentLattices_MinkowskiFactorialBounds_SumComplexEmbeddingsEqSumInfinitePlace
+import Definitions.Def_Formalism_FlagUnipotentLattices_CardSubgroupsOfIndexLe
+import Theorems.Thm_Formalism_HermitianLatticeCounting_P_coveringO_of_transference
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.HermitianLatticeCounting Formalism.HermitianLatticeCounting.Final Formalism.HermitianLatticeCounting.Final.LatticeSumBounds
+namespace Formalism.HermitianLatticeCounting.Final.LatticeSumBounds
+theorem _root_.solution (h : Formalism.HermitianLatticeCounting.LatticeSumBounds.Transference) :
+    Formalism.HermitianLatticeCounting.LatticeSumBounds.CoveringO := Formalism.HermitianLatticeCounting.P.coveringO_of_transference h
+end Formalism.HermitianLatticeCounting.Final.LatticeSumBounds

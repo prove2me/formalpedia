@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_opAct_central
 -- name    : GlobalTheory.CompanionTheory.CotLoc.opAct_central
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:57:37.062935+00:00
 -- url     : https://prove2.me/theorems/46c81ce8-39a3-567f-ba16-70c09e40f73a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isFlagFrame_join_fbb3c079eb15
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isFlagFrame_join_fbb3c079eb15
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:11:21.184104+00:00
 -- url     : https://prove2.me/theorems/f9b5f00f-073c-4ca2-885a-6d75c14e337f

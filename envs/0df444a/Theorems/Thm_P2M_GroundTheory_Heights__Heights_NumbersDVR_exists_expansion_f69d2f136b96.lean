@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_expansion_f69d2f136b96
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_exists_expansion_f69d2f136b96
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:10:44.243783+00:00
 -- url     : https://prove2.me/theorems/ebedc8f1-6cdf-4bef-b17d-ccf5f645550e

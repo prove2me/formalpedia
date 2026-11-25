@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_rootList_snoc_zero_45b941bb4a84
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_NumericalSegreProof_rootList_snoc_zero_45b941bb4a84
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:08:57.727031+00:00
 -- url     : https://prove2.me/theorems/d1bd9542-e908-4ded-803f-819c0e50bb38

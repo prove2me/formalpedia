@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CoordScale_sigmaFinite_smul
 -- name    : GlobalTheory.CoordScale.sigmaFinite_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:52:42.603456+00:00
 -- url     : https://prove2.me/theorems/10f86cca-a800-4cbe-bbb1-7f7088a042da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WigSh_Model_prod_erase_eq
 -- name    : GlobalTheory.WigSh.Model.prod_erase_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:53:36.79949+00:00
 -- url     : https://prove2.me/theorems/5e55af77-efa5-432c-bcc8-1529599f5c06

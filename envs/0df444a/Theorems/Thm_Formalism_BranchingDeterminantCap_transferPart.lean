@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_transferPart
 -- name    : Formalism.BranchingDeterminantCap.transferPart
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:25:47.49472+00:00
 -- url     : https://prove2.me/theorems/b7007523-97cb-4809-99ab-6fd68329fd4c

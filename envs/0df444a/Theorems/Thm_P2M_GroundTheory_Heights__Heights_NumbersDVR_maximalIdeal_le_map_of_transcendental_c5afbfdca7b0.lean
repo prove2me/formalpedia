@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_maximalIdeal_le_map_of_transcendental_c5afbfdca7b0
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_maximalIdeal_le_map_of_transcendental_c5afbfdca7b0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:12:57.372854+00:00
 -- url     : https://prove2.me/theorems/639f4f02-14ba-40ac-b4a8-5c8d59920dbd

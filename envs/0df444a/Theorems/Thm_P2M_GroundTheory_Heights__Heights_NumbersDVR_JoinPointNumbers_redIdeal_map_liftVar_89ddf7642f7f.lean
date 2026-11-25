@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointNumbers_redIdeal_map_liftVar_89ddf7642f7f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointNumbers_redIdeal_map_liftVar_89ddf7642f7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:10:09.593915+00:00
 -- url     : https://prove2.me/theorems/ac43ae50-d008-4054-9a4d-0093242397ae

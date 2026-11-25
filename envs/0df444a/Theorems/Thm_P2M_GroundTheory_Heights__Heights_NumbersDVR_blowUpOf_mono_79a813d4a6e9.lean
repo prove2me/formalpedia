@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_blowUpOf_mono_79a813d4a6e9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_blowUpOf_mono_79a813d4a6e9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:10:00.600263+00:00
 -- url     : https://prove2.me/theorems/158b5b0b-a3a7-4e17-8668-53e1800b9949

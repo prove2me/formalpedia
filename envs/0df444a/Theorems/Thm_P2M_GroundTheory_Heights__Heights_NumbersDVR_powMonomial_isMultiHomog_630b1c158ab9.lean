@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_powMonomial_isMultiHomog_630b1c158ab9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_powMonomial_isMultiHomog_630b1c158ab9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:12:25.077466+00:00
 -- url     : https://prove2.me/theorems/be716e9c-912f-42f0-9df6-0377777db1cb

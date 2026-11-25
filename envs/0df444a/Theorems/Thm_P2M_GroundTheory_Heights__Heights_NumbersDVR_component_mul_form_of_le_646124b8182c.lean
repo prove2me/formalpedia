@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_component_mul_form_of_le_646124b8182c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_component_mul_form_of_le_646124b8182c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:10:57.467379+00:00
 -- url     : https://prove2.me/theorems/d6dc4c7d-20c0-4095-baa1-1e4392c09efc

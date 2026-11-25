@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlockAdjoinPrime_sub_killB_mem_a8bd36cb094e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlockAdjoinPrime_sub_killB_mem_a8bd36cb094e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:27.922101+00:00
 -- url     : https://prove2.me/theorems/833eb695-655e-4548-a12d-abbe56f2b65d

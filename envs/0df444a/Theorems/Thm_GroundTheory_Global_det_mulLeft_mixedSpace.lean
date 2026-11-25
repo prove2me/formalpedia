@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_det_mulLeft_mixedSpace
 -- name    : GroundTheory.Global.det_mulLeft_mixedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:08.681015+00:00
 -- url     : https://prove2.me/theorems/524d1e92-0f44-42e1-846b-18104c24b8cc

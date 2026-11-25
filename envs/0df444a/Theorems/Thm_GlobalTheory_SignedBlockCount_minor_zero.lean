@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SignedBlockCount_minor_zero
 -- name    : GlobalTheory.SignedBlockCount.minor_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:02:34.256671+00:00
 -- url     : https://prove2.me/theorems/0bb1c3c8-96ed-4538-957e-1c7ab5df32ad

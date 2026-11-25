@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_Mass_LocWitt_symm__0e7d45bf81cc
 -- name    : P2M_GlobalTheory_Mass_LocWitt_symm__0e7d45bf81cc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:54:43.259859+00:00
 -- url     : https://prove2.me/theorems/5fcb2547-f4b2-426c-b197-7f1fd3816861

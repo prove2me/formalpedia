@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_flagIdealOver_map_6cb9b06c5951
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_flagIdealOver_map_6cb9b06c5951
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:29:34.139318+00:00
 -- url     : https://prove2.me/theorems/949fcf61-21ed-5b3e-ab1c-cf7cd33a74b0

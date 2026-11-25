@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_BlockSurjectivity_exists_point_over_42653c081ab0
 -- name    : P2M_GroundTheory_Heights__Heights_BlockSurjectivity_exists_point_over_42653c081ab0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:15:49.386016+00:00
 -- url     : https://prove2.me/theorems/9ff67706-33c9-4ede-950c-52c470ed2e94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_subC_mono
 -- name    : GlobalTheory.TateDecomp.subC_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:52:08.506238+00:00
 -- url     : https://prove2.me/theorems/2d877752-f89e-5b8b-b4cd-b7dc9a4d4316

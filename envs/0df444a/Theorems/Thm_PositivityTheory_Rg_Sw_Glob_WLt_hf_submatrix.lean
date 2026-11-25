@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_Glob_WLt_hf_submatrix
 -- name    : PositivityTheory.Rg.Sw.Glob.WLt.hf_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:57:32.674351+00:00
 -- url     : https://prove2.me/theorems/3f131298-1f9b-4af1-b787-4cc8505eb31a

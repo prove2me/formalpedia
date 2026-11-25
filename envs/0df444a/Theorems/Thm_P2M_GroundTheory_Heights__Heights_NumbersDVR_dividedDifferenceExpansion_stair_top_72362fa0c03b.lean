@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_dividedDifferenceExpansion_stair_top_72362fa0c03b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_dividedDifferenceExpansion_stair_top_72362fa0c03b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:09:57.321814+00:00
 -- url     : https://prove2.me/theorems/edd57270-465b-4aa6-a3d3-817880f66cfe

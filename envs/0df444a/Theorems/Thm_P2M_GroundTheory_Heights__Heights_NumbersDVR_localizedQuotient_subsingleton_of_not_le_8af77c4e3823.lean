@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_localizedQuotient_subsingleton_of_not_le_8af77c4e3823
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_localizedQuotient_subsingleton_of_not_le_8af77c4e3823
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:17:03.243121+00:00
 -- url     : https://prove2.me/theorems/745a4e4d-6631-5300-8cef-5fe1297015c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ringKrullDim_quotient_le_comap_add_one_3910e19a999a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ringKrullDim_quotient_le_comap_add_one_3910e19a999a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:12:32.414804+00:00
 -- url     : https://prove2.me/theorems/c8dad2f1-d89f-4174-83ec-797d07ab8023

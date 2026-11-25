@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagPivotIdentity_pivotMatrix_rows_ddb0ef3043fc
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_FlagPivotIdentity_pivotMatrix_rows_ddb0ef3043fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:27:59.089606+00:00
 -- url     : https://prove2.me/theorems/2199aa52-f60f-53a7-92e3-e5aaf584039d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_BlockD_FourierDecayAlt_WaveGridLiftGrid_progY_injective
 -- name    : GroundTheory.BlockD.FourierDecayAlt.WaveGridLiftGrid.progY_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:03:39.756266+00:00
 -- url     : https://prove2.me/theorems/911b65a9-7152-54b5-8f90-9465633222c1

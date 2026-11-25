@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_capelli_left_comatrix
 -- name    : GlobalTheory.capelli_left_comatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:02:08.476436+00:00
 -- url     : https://prove2.me/theorems/a6397cc8-3b05-47e1-af65-f38f6ad5df9d

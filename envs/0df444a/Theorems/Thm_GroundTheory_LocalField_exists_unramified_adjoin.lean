@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_exists_unramified_adjoin
 -- name    : GroundTheory.LocalField.exists_unramified_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:01:12.875805+00:00
 -- url     : https://prove2.me/theorems/73ac8e00-84d0-4ca8-9dce-56bb80373bc8

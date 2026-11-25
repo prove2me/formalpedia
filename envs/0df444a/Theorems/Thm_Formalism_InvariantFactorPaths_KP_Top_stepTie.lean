@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_KP_Top_stepTie
 -- name    : Formalism.InvariantFactorPaths.KP.Top.stepTie
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:40:29.6218+00:00
 -- url     : https://prove2.me/theorems/afd1b386-661c-4f59-b330-e94d2a82947a

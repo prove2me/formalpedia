@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LatticeGens_exists_scaled_span
 -- name    : GlobalTheory.Mass.LatticeGens.exists_scaled_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:59:37.46494+00:00
 -- url     : https://prove2.me/theorems/74d498f6-60d1-4a94-ac5f-d9036c0ff016

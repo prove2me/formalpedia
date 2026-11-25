@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_mv_inN
 -- name    : GlobalTheory.DegMove.mv_inN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:01:39.921471+00:00
 -- url     : https://prove2.me/theorems/697d56fa-ca28-4807-993b-9677f34b1bb3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_AdditivityInDivisor_ratDiv_mul_mul_0239d507d543
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_AdditivityInDivisor_ratDiv_mul_mul_0239d507d543
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:09:05.969404+00:00
 -- url     : https://prove2.me/theorems/12403556-0f55-467b-ab99-e2ca563ef5dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BlockAdjoinPrime_weight_eq_zero_iff_afa85398de02
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BlockAdjoinPrime_weight_eq_zero_iff_afa85398de02
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:22.338724+00:00
 -- url     : https://prove2.me/theorems/a74fccfa-ca0b-4812-a663-c478a01a6583

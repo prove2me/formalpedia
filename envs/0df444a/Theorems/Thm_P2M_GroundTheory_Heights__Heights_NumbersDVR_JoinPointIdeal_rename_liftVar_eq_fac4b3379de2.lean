@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointIdeal_rename_liftVar_eq_fac4b3379de2
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointIdeal_rename_liftVar_eq_fac4b3379de2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:07:00.36588+00:00
 -- url     : https://prove2.me/theorems/4a78b525-ff49-470c-8cd1-6b707469b9c1

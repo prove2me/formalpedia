@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_card_eq_pow_of_length_eq_89617ad0f5d7
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_card_eq_pow_of_length_eq_89617ad0f5d7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:22:58.597815+00:00
 -- url     : https://prove2.me/theorems/aa546a92-a0ee-433f-857a-630cffe695a8

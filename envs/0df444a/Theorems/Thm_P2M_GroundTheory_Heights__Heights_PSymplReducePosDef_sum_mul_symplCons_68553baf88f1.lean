@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplReducePosDef_sum_mul_symplCons_68553baf88f1
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplReducePosDef_sum_mul_symplCons_68553baf88f1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:14:08.054927+00:00
 -- url     : https://prove2.me/theorems/660b6009-29b5-496e-9cdd-7fd7dfdcd089

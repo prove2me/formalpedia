@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_gramHadamard
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.gramHadamard
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:45.924984+00:00
 -- url     : https://prove2.me/theorems/da5130d5-4343-46bb-af0d-fe1fe43cd4c4

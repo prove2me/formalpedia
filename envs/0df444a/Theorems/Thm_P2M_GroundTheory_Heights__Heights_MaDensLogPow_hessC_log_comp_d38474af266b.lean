@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MaDensLogPow_hessC_log_comp_d38474af266b
 -- name    : P2M_GroundTheory_Heights__Heights_MaDensLogPow_hessC_log_comp_d38474af266b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:49:25.855257+00:00
 -- url     : https://prove2.me/theorems/32937354-fa56-4e14-9f45-19373ad9dcc4

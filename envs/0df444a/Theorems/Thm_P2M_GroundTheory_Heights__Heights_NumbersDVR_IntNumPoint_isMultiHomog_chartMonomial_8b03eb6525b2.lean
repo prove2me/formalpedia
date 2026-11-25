@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_isMultiHomog_chartMonomial_8b03eb6525b2
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_IntNumPoint_isMultiHomog_chartMonomial_8b03eb6525b2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:07:28.8488+00:00
 -- url     : https://prove2.me/theorems/e50a45d4-2a7b-4c8c-95c0-53e9a3c60806

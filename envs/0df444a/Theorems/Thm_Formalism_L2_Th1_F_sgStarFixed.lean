@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_sgStarFixed
 -- name    : Formalism.L2.Th1.F.sgStarFixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:02:43.849436+00:00
 -- url     : https://prove2.me/theorems/66662206-f1a7-4c27-9de6-704bf163cbf4

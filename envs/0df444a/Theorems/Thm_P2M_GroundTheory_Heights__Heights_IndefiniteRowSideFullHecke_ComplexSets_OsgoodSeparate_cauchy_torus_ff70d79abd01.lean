@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_OsgoodSeparate_cauchy_torus_ff70d79abd01
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_OsgoodSeparate_cauchy_torus_ff70d79abd01
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:20:30.84084+00:00
 -- url     : https://prove2.me/theorems/ed5c9aad-90a0-57a4-a731-de4cdce2ff56

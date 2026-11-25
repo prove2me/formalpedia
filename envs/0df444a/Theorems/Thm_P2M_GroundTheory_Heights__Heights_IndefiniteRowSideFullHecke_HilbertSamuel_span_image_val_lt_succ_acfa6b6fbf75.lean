@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_span_image_val_lt_succ_acfa6b6fbf75
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_span_image_val_lt_succ_acfa6b6fbf75
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:28.142981+00:00
 -- url     : https://prove2.me/theorems/ed363824-a3f5-4d0b-8374-edd263c09cc5

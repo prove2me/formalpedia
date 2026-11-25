@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BigCellUnitary_gram_submatrix
 -- name    : GlobalTheory.BigCellUnitary.gram_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:56:55.699135+00:00
 -- url     : https://prove2.me/theorems/47172ba6-a02c-4e7b-a41e-f4e177acea68

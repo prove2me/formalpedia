@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MassFinite_count_le_f36dcc717830
 -- name    : P2M_GroundTheory_Heights__Heights_MassFinite_count_le_f36dcc717830
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:48:10.16244+00:00
 -- url     : https://prove2.me/theorems/9d7d19e8-2d46-5b85-a367-11b15416728e

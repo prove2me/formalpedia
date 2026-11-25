@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_fibG_smul
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.fibG_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:55:38.441809+00:00
 -- url     : https://prove2.me/theorems/cee1d117-075c-538d-9dc9-bc634b14ce00

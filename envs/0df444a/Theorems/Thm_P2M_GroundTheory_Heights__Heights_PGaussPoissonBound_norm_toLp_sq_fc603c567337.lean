@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussPoissonBound_norm_toLp_sq_fc603c567337
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussPoissonBound_norm_toLp_sq_fc603c567337
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:14:35.243736+00:00
 -- url     : https://prove2.me/theorems/3916fe8f-3224-4665-9f65-ddd7e7b7e507

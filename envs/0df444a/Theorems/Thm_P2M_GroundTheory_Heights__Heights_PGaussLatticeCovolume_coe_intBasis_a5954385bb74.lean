@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussLatticeCovolume_coe_intBasis_a5954385bb74
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussLatticeCovolume_coe_intBasis_a5954385bb74
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:31.160911+00:00
 -- url     : https://prove2.me/theorems/c46dddf0-0cd4-44a9-8991-cba28cf7c1b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Monic_dvd_of_dvd_C_pow_mul_pow_15cde19839a2
 -- name    : P2M_GroundTheory_Heights__Heights_Monic_dvd_of_dvd_C_pow_mul_pow_15cde19839a2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:49:16.813856+00:00
 -- url     : https://prove2.me/theorems/912048e6-6e65-40cb-b684-603413200270

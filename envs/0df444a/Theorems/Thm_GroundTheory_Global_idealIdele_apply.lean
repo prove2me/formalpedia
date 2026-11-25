@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_idealIdele_apply
 -- name    : GroundTheory.Global.idealIdele_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:26:49.788917+00:00
 -- url     : https://prove2.me/theorems/1bc188c8-83b1-4efc-8c94-ba9f8dcfb2d9

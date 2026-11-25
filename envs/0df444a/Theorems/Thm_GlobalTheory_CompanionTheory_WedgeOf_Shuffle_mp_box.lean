@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_Shuffle_mp_box
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.Shuffle.mp_box
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:54:04.613248+00:00
 -- url     : https://prove2.me/theorems/b09dd9ea-bd98-4291-825c-f9d058c5c866

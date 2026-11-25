@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_TwistedDualGensSpan_sum_mul_mem_localized_eeeb4b33e5e4
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_TwistedDualGensSpan_sum_mul_mem_localized_eeeb4b33e5e4
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:11:47.18526+00:00
 -- url     : https://prove2.me/theorems/8a86910e-3b64-43b3-a6e4-c6562971d94a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_hilbFn_projectiveSpace_2488abe8fe91
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_hilbFn_projectiveSpace_2488abe8fe91
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:01:37.619915+00:00
 -- url     : https://prove2.me/theorems/7c916c7e-a826-4fbc-a0e6-81000b09f521

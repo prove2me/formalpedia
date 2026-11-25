@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Subobject_lt_length_of_lt
 -- name    : PretorsionImageClosed.Subobject.lt_length_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:19:55.928379+00:00
 -- url     : https://prove2.me/theorems/56402eab-4861-45db-8609-b2f21050e757

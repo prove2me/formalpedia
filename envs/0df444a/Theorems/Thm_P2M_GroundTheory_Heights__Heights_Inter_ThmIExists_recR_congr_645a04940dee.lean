@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_recR_congr_645a04940dee
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_ThmIExists_recR_congr_645a04940dee
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:02:53.409677+00:00
 -- url     : https://prove2.me/theorems/7f810b13-75b6-4185-890a-dca983b304ee

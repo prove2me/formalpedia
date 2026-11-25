@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HypWedge_exterior_square_map_apply
 -- name    : GlobalTheory.CompanionTheory.HypWedge.exterior_square_map_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:00:26.121389+00:00
 -- url     : https://prove2.me/theorems/5a5b5b77-8a51-4c5c-a73c-3d7f21e9f7bd

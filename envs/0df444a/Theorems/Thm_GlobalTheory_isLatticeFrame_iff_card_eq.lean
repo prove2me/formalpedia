@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_isLatticeFrame_iff_card_eq
 -- name    : GlobalTheory.isLatticeFrame_iff_card_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:03.875442+00:00
 -- url     : https://prove2.me/theorems/4216a274-cbe5-5258-893e-0bb9e917d7e6

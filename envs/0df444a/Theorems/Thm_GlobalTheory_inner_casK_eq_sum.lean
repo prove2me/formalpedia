@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_inner_casK_eq_sum
 -- name    : GlobalTheory.inner_casK_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:22.114551+00:00
 -- url     : https://prove2.me/theorems/c570547a-973f-4c8d-92a1-2b12f2b21dc0

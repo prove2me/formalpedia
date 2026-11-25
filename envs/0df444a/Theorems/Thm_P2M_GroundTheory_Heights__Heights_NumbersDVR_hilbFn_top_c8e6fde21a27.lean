@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_hilbFn_top_c8e6fde21a27
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_hilbFn_top_c8e6fde21a27
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:10:21.452353+00:00
 -- url     : https://prove2.me/theorems/d571f9b5-a16f-4e2f-93a4-c7a2f4852d0b

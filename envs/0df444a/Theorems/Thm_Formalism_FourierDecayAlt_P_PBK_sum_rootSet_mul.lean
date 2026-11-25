@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_sum_rootSet_mul
 -- name    : Formalism.FourierDecayAlt.P.PBK.sum_rootSet_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:34:28.752789+00:00
 -- url     : https://prove2.me/theorems/c4096c13-ce02-4e67-b421-3906e680c58b

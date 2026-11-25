@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_isReduced_tensor_domain_of_perfectField_8e0a08624854
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_isReduced_tensor_domain_of_perfectField_8e0a08624854
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:19:15.048093+00:00
 -- url     : https://prove2.me/theorems/f2706043-89ba-4b4f-8da5-f39e464b3fbc

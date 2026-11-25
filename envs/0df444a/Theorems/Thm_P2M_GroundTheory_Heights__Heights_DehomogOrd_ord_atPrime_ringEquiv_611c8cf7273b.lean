@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_DehomogOrd_ord_atPrime_ringEquiv_611c8cf7273b
 -- name    : P2M_GroundTheory_Heights__Heights_DehomogOrd_ord_atPrime_ringEquiv_611c8cf7273b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:57:40.89137+00:00
 -- url     : https://prove2.me/theorems/7c09b857-00b2-5935-a5af-b52f9fa2fcae

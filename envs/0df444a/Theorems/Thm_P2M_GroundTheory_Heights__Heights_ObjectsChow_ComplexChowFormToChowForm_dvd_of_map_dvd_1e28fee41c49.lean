@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_ComplexChowFormToChowForm_dvd_of_map_dvd_1e28fee41c49
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_ComplexChowFormToChowForm_dvd_of_map_dvd_1e28fee41c49
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:13:51.064074+00:00
 -- url     : https://prove2.me/theorems/13c3f19d-8a23-4abf-b70a-e38192043e04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodQuot_exists_rep
 -- name    : GlobalTheory.UnimodQuot.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:53:59.946796+00:00
 -- url     : https://prove2.me/theorems/c9cf5cbe-d1f7-5d9c-a8b7-3bd596e1fe3e

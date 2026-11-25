@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_continuousOn_preal_units_of_hasCompactSupport
 -- name    : GlobalTheory.T.continuousOn_preal_units_of_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T20:33:11.707077+00:00
 -- url     : https://prove2.me/theorems/e1f0fbfb-d8f5-4886-b774-d211fb24ede4

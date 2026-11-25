@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_S3dx4_inner_bound
 -- name    : Formalism.FourierDecayAlt.P.S3dx4.inner_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:07:10.289629+00:00
 -- url     : https://prove2.me/theorems/a350852c-29f3-5a8f-a384-77dfa1b75cc8

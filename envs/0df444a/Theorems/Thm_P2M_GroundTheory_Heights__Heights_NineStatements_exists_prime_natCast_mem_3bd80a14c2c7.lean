@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_exists_prime_natCast_mem_3bd80a14c2c7
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_exists_prime_natCast_mem_3bd80a14c2c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:04:59.390971+00:00
 -- url     : https://prove2.me/theorems/bd43278a-0bb8-41b9-9c51-c493a7099ec0

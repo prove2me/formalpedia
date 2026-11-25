@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_alternating_product_integral
 -- name    : GlobalTheory.T.alternating_product_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:27:41.914363+00:00
 -- url     : https://prove2.me/theorems/95de3cfb-e791-430b-8eab-9b6729e9c113

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_gal_smul_frobeniusEquiv
 -- name    : GroundTheory.PAdicHodge.AInf.gal_smul_frobeniusEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:05.388428+00:00
 -- url     : https://prove2.me/theorems/a5de24ee-e4e4-47d3-a6d2-04e240158d15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalDoublePointsGeneric_le_belowNat_of_add_two_le_aedb9d1a4179
 -- name    : P2M_GroundTheory_Heights__Heights_NormalDoublePointsGeneric_le_belowNat_of_add_two_le_aedb9d1a4179
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:05:00.84363+00:00
 -- url     : https://prove2.me/theorems/3ed328b8-b71a-4087-989c-420e3a1da3be

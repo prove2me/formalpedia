@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_span_forms_of_isMultiHomogIdeal_934319068e0f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_span_forms_of_isMultiHomogIdeal_934319068e0f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:12:30.156948+00:00
 -- url     : https://prove2.me/theorems/bf3ac0a0-311f-4f20-a04e-1eab4842a4b5

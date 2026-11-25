@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussShellSum_inv_one_sub_exp_neg_one_le_two_90229429a320
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussShellSum_inv_one_sub_exp_neg_one_le_two_90229429a320
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:13:55.677841+00:00
 -- url     : https://prove2.me/theorems/976cd6cb-7d99-4715-88b7-f313b474daf8

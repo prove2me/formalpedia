@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_ringKrullDim_quot_add_one_le_978fb20ae9e3
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_ringKrullDim_quot_add_one_le_978fb20ae9e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:01:27.956503+00:00
 -- url     : https://prove2.me/theorems/eb94cd3d-d36f-4f20-8737-9a58c7c66cbc

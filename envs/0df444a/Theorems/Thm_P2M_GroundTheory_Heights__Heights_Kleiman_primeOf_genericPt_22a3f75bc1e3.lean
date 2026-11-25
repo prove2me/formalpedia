@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_primeOf_genericPt_22a3f75bc1e3
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_primeOf_genericPt_22a3f75bc1e3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:28:38.059808+00:00
 -- url     : https://prove2.me/theorems/700b31fb-e741-4645-8ee9-8e6c7f1d3e0f

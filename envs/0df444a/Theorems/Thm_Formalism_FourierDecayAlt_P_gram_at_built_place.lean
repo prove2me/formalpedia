@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_gram_at_built_place
 -- name    : Formalism.FourierDecayAlt.P.gram_at_built_place
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T17:58:47.019426+00:00
 -- url     : https://prove2.me/theorems/af4ad75f-e5a7-4546-81b5-1f6f852a2a0a

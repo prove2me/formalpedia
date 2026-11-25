@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BK_mem_shiftE_of_le
 -- name    : GlobalTheory.BK.mem_shiftE_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:40:16.896266+00:00
 -- url     : https://prove2.me/theorems/04a6a231-9f30-49c4-8f4b-6905e742e557

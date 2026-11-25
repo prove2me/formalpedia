@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_JCalc_jeq_iff_psJet
 -- name    : GlobalTheory.ChartCmp.JCalc.jeq_iff_psJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T02:28:15.73335+00:00
 -- url     : https://prove2.me/theorems/e1eec5b7-f477-59f0-8807-ae9c4244acc3

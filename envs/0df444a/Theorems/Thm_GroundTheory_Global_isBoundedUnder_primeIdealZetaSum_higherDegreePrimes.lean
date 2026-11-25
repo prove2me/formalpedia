@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_isBoundedUnder_primeIdealZetaSum_higherDegreePrimes
 -- name    : GroundTheory.Global.isBoundedUnder_primeIdealZetaSum_higherDegreePrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T23:42:17.5704+00:00
 -- url     : https://prove2.me/theorems/ba332cbf-4039-437d-877b-874966c3527c

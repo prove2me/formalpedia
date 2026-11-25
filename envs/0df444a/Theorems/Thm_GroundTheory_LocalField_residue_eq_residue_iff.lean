@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_residue_eq_residue_iff
 -- name    : GroundTheory.LocalField.residue_eq_residue_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:27:45.959666+00:00
 -- url     : https://prove2.me/theorems/4eab4f0b-54c4-44f9-93f5-03b186338a28

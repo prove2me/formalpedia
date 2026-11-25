@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_mem_minimalPrimes_sup_span_of_mem_387b2b7fe174
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_mem_minimalPrimes_sup_span_of_mem_387b2b7fe174
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:20:23.049356+00:00
 -- url     : https://prove2.me/theorems/e998d0b7-7dbb-56a3-86d8-943d03c7538e

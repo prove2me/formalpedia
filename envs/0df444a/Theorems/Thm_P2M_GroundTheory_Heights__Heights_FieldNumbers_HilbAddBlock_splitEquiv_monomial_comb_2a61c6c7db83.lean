@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbAddBlock_splitEquiv_monomial_comb_2a61c6c7db83
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_HilbAddBlock_splitEquiv_monomial_comb_2a61c6c7db83
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:43.384601+00:00
 -- url     : https://prove2.me/theorems/6a3fd027-30a1-4a57-b552-20df841dd6a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_InfinitePlace_cyclicHerbrand_unitsRep_eq_finrank
 -- name    : GroundTheory.Global.InfinitePlace.cyclicHerbrand_unitsRep_eq_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:40:01.434824+00:00
 -- url     : https://prove2.me/theorems/152c198d-3b5e-4876-95c5-0141af525364

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_isMultiHomog_liftForm_0010deaac07c
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_isMultiHomog_liftForm_0010deaac07c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:11:03.005799+00:00
 -- url     : https://prove2.me/theorems/ca24f255-6c4f-4cf4-8389-c6db7caf0506

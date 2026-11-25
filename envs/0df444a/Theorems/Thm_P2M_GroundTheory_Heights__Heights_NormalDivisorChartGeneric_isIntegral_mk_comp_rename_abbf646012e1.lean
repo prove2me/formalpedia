@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalDivisorChartGeneric_isIntegral_mk_comp_rename_abbf646012e1
 -- name    : P2M_GroundTheory_Heights__Heights_NormalDivisorChartGeneric_isIntegral_mk_comp_rename_abbf646012e1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:04:55.235424+00:00
 -- url     : https://prove2.me/theorems/5c64994e-65c0-5629-abad-18f5820150f8

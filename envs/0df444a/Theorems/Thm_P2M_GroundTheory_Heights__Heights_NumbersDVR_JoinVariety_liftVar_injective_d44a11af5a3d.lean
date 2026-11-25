@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinVariety_liftVar_injective_d44a11af5a3d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinVariety_liftVar_injective_d44a11af5a3d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:07:35.714801+00:00
 -- url     : https://prove2.me/theorems/1520be1d-6c3f-4b87-97c4-4fab59ede739

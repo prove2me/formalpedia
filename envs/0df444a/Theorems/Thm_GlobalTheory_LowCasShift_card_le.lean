@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowCasShift_card_le
 -- name    : GlobalTheory.LowCasShift.card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:53:27.469792+00:00
 -- url     : https://prove2.me/theorems/1271c0d9-f2fa-4315-936b-8ea233a7c752

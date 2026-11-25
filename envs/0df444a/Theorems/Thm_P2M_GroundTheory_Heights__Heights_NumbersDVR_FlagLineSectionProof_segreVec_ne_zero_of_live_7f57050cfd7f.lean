@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_segreVec_ne_zero_of_live_7f57050cfd7f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_FlagLineSectionProof_segreVec_ne_zero_of_live_7f57050cfd7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:07:30.207166+00:00
 -- url     : https://prove2.me/theorems/ed0cd3a1-9b95-45d2-9add-f8d9516c506c

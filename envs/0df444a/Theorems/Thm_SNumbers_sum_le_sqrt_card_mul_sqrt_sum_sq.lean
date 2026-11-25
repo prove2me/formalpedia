@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_sum_le_sqrt_card_mul_sqrt_sum_sq
 -- name    : SNumbers.sum_le_sqrt_card_mul_sqrt_sum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T04:21:41.010743+00:00
 -- url     : https://prove2.me/theorems/1e9e0565-5fbc-40ee-8901-d087d02938d2

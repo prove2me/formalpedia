@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLocDomain_proof_34872f657b6a
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLocDomain_proof_34872f657b6a
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:41.589532+00:00
 -- url     : https://prove2.me/theorems/b6bf8a9d-4cea-456b-86b6-c70916b59f5f

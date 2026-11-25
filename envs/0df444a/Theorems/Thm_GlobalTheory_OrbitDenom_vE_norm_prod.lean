@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_OrbitDenom_vE_norm_prod
 -- name    : GlobalTheory.OrbitDenom.vE_norm_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:30:12.086819+00:00
 -- url     : https://prove2.me/theorems/abbe7e24-79eb-4f11-9ec3-f4ac4bac1490

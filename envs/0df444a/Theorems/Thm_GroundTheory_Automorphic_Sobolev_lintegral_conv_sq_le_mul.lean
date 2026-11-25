@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_lintegral_conv_sq_le_mul
 -- name    : GroundTheory.Automorphic.Sobolev.lintegral_conv_sq_le_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:14:14.165831+00:00
 -- url     : https://prove2.me/theorems/59c242d3-09bf-5db6-80a8-aeb7383ad77e

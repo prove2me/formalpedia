@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalDoublePointsGeneric_ringKrullDim_quotient_anti_daa7b5be1ca9
 -- name    : P2M_GroundTheory_Heights__Heights_NormalDoublePointsGeneric_ringKrullDim_quotient_anti_daa7b5be1ca9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:05:10.477882+00:00
 -- url     : https://prove2.me/theorems/263e5b5d-4f8c-5df8-975b-4d4fec7c5bca

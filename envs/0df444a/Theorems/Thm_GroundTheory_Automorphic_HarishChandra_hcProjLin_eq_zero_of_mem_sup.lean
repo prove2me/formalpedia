@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_hcProjLin_eq_zero_of_mem_sup
 -- name    : GroundTheory.Automorphic.HarishChandra.hcProjLin_eq_zero_of_mem_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:24:21.94115+00:00
 -- url     : https://prove2.me/theorems/5f4d39e7-684e-4f5f-b8be-4794c0446ed2

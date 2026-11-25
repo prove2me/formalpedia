@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalDoublePointsGeneric_ringKrullDim_quot_sup_span_add_one_le_1de9644a92aa
 -- name    : P2M_GroundTheory_Heights__Heights_NormalDoublePointsGeneric_ringKrullDim_quot_sup_span_add_one_le_1de9644a92aa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:05:04.262215+00:00
 -- url     : https://prove2.me/theorems/0288d836-7194-4d97-94aa-b36656db6633

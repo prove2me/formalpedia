@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_lexRelabel_surjective_57cbea4d2428
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_lexRelabel_surjective_57cbea4d2428
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:11:04.3438+00:00
 -- url     : https://prove2.me/theorems/2fe45ef5-0149-4bf3-bb8b-d621f16c7570

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_LaplacianDecayZero_proof_0954bde49798
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_LaplacianDecayZero_proof_0954bde49798
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:57.784542+00:00
 -- url     : https://prove2.me/theorems/c2987c29-c526-4a54-b972-e8d26a1e7b93

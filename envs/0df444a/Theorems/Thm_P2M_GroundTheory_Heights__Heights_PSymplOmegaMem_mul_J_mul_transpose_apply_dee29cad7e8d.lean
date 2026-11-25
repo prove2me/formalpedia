@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplOmegaMem_mul_J_mul_transpose_apply_dee29cad7e8d
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplOmegaMem_mul_J_mul_transpose_apply_dee29cad7e8d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:14:09.18885+00:00
 -- url     : https://prove2.me/theorems/f0856aed-7040-47e6-abb2-e9a60707637d

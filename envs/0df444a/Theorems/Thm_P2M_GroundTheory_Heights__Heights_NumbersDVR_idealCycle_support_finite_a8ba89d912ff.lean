@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_idealCycle_support_finite_a8ba89d912ff
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_idealCycle_support_finite_a8ba89d912ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:11:51.260004+00:00
 -- url     : https://prove2.me/theorems/4ee2dc9d-ed63-4d5e-87f3-6002f01e7126

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_mem_conePoints_projIdeal_iff_3dd345e4b6b5
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_mem_conePoints_projIdeal_iff_3dd345e4b6b5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:21:08.750898+00:00
 -- url     : https://prove2.me/theorems/8b8ca3c8-cf6a-4fcb-b290-43c494e40bcc

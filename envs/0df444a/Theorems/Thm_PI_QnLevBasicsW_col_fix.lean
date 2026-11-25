@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_QnLevBasicsW_col_fix
 -- name    : PI.QnLevBasicsW.col_fix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:24:33.431397+00:00
 -- url     : https://prove2.me/theorems/85a02d7e-1f1c-467f-8300-a73e1a4a0d57

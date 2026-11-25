@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLatSection_exists_chartForm_22a5052f5383
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLatSection_exists_chartForm_22a5052f5383
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:15:54.035002+00:00
 -- url     : https://prove2.me/theorems/00e45858-29ba-4d5d-8013-fe0928191665

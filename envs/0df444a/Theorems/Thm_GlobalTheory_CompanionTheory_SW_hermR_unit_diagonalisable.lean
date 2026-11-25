@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_hermR_unit_diagonalisable
 -- name    : GlobalTheory.CompanionTheory.SW.hermR_unit_diagonalisable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T12:12:04.087145+00:00
 -- url     : https://prove2.me/theorems/05d86a8e-ded2-40c4-9482-fd7a95ca1fe6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_vermaCoord_canon_of_hasUpper
 -- name    : GroundTheory.Automorphic.HarishChandra.vermaCoord_canon_of_hasUpper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:03:35.282525+00:00
 -- url     : https://prove2.me/theorems/8fde28c6-9e7d-55cd-8a27-f1eebdbf92bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_invariant_image_openClosed_local_sections
 -- name    : GlobalTheory.T.invariant_image_openClosed_local_sections
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:48:01.688263+00:00
 -- url     : https://prove2.me/theorems/dbd7449e-900e-4d33-b298-ea4fb1606088

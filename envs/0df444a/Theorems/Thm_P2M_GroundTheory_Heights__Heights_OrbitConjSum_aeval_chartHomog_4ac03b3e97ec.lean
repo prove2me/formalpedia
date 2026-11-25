@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitConjSum_aeval_chartHomog_4ac03b3e97ec
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitConjSum_aeval_chartHomog_4ac03b3e97ec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:13:21.953623+00:00
 -- url     : https://prove2.me/theorems/98f681f5-7256-45a2-b0a7-f4492e7a8ce5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_eq_zero_of_mk_eq_zero_3891394ab216
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_KHFreeIndep_eq_zero_of_mk_eq_zero_3891394ab216
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:28:07.005631+00:00
 -- url     : https://prove2.me/theorems/70e37057-c095-4b29-82fb-307314287827

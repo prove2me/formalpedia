@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_norm_add_sq
 -- name    : GlobalTheory.ArchMetric.norm_add_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:57:36.834574+00:00
 -- url     : https://prove2.me/theorems/6542893a-bb7b-42a9-b40d-cfac39b64e87

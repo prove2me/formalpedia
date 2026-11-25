@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NineStatements_sum_primesB_le_b85d75dee8d5
 -- name    : P2M_GroundTheory_Heights__Heights_NineStatements_sum_primesB_le_b85d75dee8d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:04:28.48202+00:00
 -- url     : https://prove2.me/theorems/161f97b9-2d8d-5da2-9dc8-cf02f8b3e014

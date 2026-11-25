@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericCycleCorresp_disjoint_nonZeroDivisors_549f4b0b165b
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_GenericCycleCorresp_disjoint_nonZeroDivisors_549f4b0b165b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:05:50.764799+00:00
 -- url     : https://prove2.me/theorems/00acfebb-4348-465f-8388-9dae16526c23

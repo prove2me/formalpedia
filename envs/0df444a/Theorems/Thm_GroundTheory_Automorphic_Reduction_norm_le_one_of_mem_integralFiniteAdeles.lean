@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_norm_le_one_of_mem_integralFiniteAdeles
 -- name    : GroundTheory.Automorphic.Reduction.norm_le_one_of_mem_integralFiniteAdeles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:06:49.515878+00:00
 -- url     : https://prove2.me/theorems/e5457cb3-649d-40e8-ab6a-94c50263368a

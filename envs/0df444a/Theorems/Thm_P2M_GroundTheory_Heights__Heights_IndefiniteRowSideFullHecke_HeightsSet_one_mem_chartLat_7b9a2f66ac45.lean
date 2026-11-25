@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_one_mem_chartLat_7b9a2f66ac45
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HeightsSet_one_mem_chartLat_7b9a2f66ac45
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:00:34.766552+00:00
 -- url     : https://prove2.me/theorems/211269de-4e00-46eb-97f2-b2428c044c49

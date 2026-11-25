@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_sum_smul_mk_monomial_4718e7a55a19
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_sum_smul_mk_monomial_4718e7a55a19
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:03:00.563523+00:00
 -- url     : https://prove2.me/theorems/9d848d65-1f99-415d-af08-7ac3c63e6c9d

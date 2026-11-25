@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_IndecomposableSkeleton_SelectedMapFrom_ker_flattenFinset_le
 -- name    : PretorsionImageClosed.IndecomposableSkeleton.SelectedMapFrom.ker_flattenFinset_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:17:53.814631+00:00
 -- url     : https://prove2.me/theorems/24f7808d-da9d-4b7d-adc1-c0133d447924

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_De_eq_zero_of_semiPos_5482b118f49c
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_De_eq_zero_of_semiPos_5482b118f49c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:23:08.829114+00:00
 -- url     : https://prove2.me/theorems/513c6df1-05b9-4414-96f3-2cedda94066e

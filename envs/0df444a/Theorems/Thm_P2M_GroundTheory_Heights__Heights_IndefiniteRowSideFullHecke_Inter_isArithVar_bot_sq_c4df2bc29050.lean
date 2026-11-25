@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isArithVar_bot_sq_c4df2bc29050
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_isArithVar_bot_sq_c4df2bc29050
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:01:10.424277+00:00
 -- url     : https://prove2.me/theorems/b60e6b6e-d312-49fd-a54e-54160d6ea7c7

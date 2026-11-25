@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_WedgeOf_Shuffle_mk_crossZ
 -- name    : GlobalTheory.CompanionTheory.WedgeOf.Shuffle.mk_crossZ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:58:33.424333+00:00
 -- url     : https://prove2.me/theorems/e4ec2951-300a-5ff9-8bce-bbf204c61095

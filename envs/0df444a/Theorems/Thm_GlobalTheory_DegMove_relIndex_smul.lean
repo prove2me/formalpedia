@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegMove_relIndex_smul
 -- name    : GlobalTheory.DegMove.relIndex_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:59:48.266571+00:00
 -- url     : https://prove2.me/theorems/f23b3150-40c2-4d8f-82e0-756bec728d5e

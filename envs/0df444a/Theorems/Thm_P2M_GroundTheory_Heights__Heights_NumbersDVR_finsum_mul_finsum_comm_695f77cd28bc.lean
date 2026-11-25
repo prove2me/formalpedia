@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_finsum_mul_finsum_comm_695f77cd28bc
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_finsum_mul_finsum_comm_695f77cd28bc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:10:55.707567+00:00
 -- url     : https://prove2.me/theorems/49ffefc0-e0bb-4531-b60e-29d43334fd19

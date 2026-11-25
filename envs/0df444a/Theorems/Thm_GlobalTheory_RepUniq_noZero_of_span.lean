@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_noZero_of_span
 -- name    : GlobalTheory.RepUniq.noZero_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:53:41.077135+00:00
 -- url     : https://prove2.me/theorems/5105800b-af4b-545c-ace2-dd77172935c5

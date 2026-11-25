@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_relDim_cases_459ef14bf8c1
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_relDim_cases_459ef14bf8c1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:12.777151+00:00
 -- url     : https://prove2.me/theorems/b1ee4040-61c7-41d5-a732-857613d86a99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinVariety_retr_rename_761b76ddf8af
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinVariety_retr_rename_761b76ddf8af
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:09:51.39166+00:00
 -- url     : https://prove2.me/theorems/761865ae-ff45-45ef-bfac-21ff588ade73

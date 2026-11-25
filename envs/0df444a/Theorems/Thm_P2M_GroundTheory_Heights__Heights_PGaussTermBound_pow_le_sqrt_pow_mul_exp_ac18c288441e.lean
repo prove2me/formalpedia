@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussTermBound_pow_le_sqrt_pow_mul_exp_ac18c288441e
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussTermBound_pow_le_sqrt_pow_mul_exp_ac18c288441e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:13:44.437283+00:00
 -- url     : https://prove2.me/theorems/3ae6f78e-e90f-43c6-a09c-bc6726333de1

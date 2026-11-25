@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalModelFibre_firstCoords_mem_zeroSet_92c58088a2c7
 -- name    : P2M_GroundTheory_Heights__Heights_NormalModelFibre_firstCoords_mem_zeroSet_92c58088a2c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:05:26.462563+00:00
 -- url     : https://prove2.me/theorems/c7b8c244-6d77-47bd-ad5f-f275642649bb

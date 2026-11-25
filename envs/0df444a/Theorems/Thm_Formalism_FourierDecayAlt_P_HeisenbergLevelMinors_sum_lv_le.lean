@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HeisenbergLevelMinors_sum_lv_le
 -- name    : Formalism.FourierDecayAlt.P.HeisenbergLevelMinors.sum_lv_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:47:20.473406+00:00
 -- url     : https://prove2.me/theorems/7d1c3143-0484-524f-9f96-bc3ab35dbbbe

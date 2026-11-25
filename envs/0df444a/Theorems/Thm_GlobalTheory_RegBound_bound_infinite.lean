@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RegBound_bound_infinite
 -- name    : GlobalTheory.RegBound.bound_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:20:18.435026+00:00
 -- url     : https://prove2.me/theorems/411575df-0c80-4dca-8ec1-1c0bc799fa9f

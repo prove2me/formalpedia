@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_pullFS_metric_eq_l2Norm_ff823a80b6e2
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Close_pullFS_metric_eq_l2Norm_ff823a80b6e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:16.150678+00:00
 -- url     : https://prove2.me/theorems/08879443-16f3-4f87-9451-2d47067598ff

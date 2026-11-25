@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_continuous_infiniteComponent
 -- name    : GroundTheory.Automorphic.Reduction.continuous_infiniteComponent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:05:43.8197+00:00
 -- url     : https://prove2.me/theorems/808975a0-cf33-468f-ada7-a83c755ad9d1

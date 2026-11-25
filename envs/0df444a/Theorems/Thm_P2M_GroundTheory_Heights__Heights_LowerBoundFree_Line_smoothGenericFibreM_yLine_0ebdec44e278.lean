@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_smoothGenericFibreM_yLine_0ebdec44e278
 -- name    : P2M_GroundTheory_Heights__Heights_LowerBoundFree_Line_smoothGenericFibreM_yLine_0ebdec44e278
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:30:03.795546+00:00
 -- url     : https://prove2.me/theorems/27d62a7c-47af-46c2-b61e-f1e7b2b74f07

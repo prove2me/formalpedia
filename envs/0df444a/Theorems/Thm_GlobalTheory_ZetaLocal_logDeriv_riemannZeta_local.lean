@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ZetaLocal_logDeriv_riemannZeta_local
 -- name    : GlobalTheory.ZetaLocal.logDeriv_riemannZeta_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:50:39.881452+00:00
 -- url     : https://prove2.me/theorems/a8018197-9dd8-476c-9c92-86cbf3e42c10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_LaurentLoc_single_mem_map_fd3a6c454df1
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_LaurentLoc_single_mem_map_fd3a6c454df1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:27:23.805633+00:00
 -- url     : https://prove2.me/theorems/77b3ae2b-11b9-4047-a777-7ebf0655a6d7

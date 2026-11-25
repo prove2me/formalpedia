@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassDataIdxCore_ker_fwd
 -- name    : MassDataIdxCore.ker_fwd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:20:35.084603+00:00
 -- url     : https://prove2.me/theorems/afc0123e-8f8b-430a-8251-7d9e945a1538

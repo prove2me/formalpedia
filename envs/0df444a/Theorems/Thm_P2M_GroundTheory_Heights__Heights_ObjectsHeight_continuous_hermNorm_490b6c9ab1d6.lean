@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsHeight_continuous_hermNorm_490b6c9ab1d6
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsHeight_continuous_hermNorm_490b6c9ab1d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:14:13.471808+00:00
 -- url     : https://prove2.me/theorems/58eeb2e0-943d-4250-a020-2feaea0a141f

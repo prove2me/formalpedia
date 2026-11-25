@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_indFun_top_hom
 -- name    : GroundTheory.LocalField.indFun_top_hom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:35:30.349395+00:00
 -- url     : https://prove2.me/theorems/8d090940-04c3-4458-a96c-3147ee7fc081

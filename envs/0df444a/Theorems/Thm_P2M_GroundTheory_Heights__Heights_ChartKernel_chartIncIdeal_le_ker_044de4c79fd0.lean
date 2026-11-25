@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartKernel_chartIncIdeal_le_ker_044de4c79fd0
 -- name    : P2M_GroundTheory_Heights__Heights_ChartKernel_chartIncIdeal_le_ker_044de4c79fd0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:15:51.60697+00:00
 -- url     : https://prove2.me/theorems/fd455664-397b-5291-8ca3-d59b8a48f259

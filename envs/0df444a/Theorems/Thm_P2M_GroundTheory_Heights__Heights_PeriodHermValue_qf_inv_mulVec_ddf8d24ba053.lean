@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PeriodHermValue_qf_inv_mulVec_ddf8d24ba053
 -- name    : P2M_GroundTheory_Heights__Heights_PeriodHermValue_qf_inv_mulVec_ddf8d24ba053
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:14:21.4556+00:00
 -- url     : https://prove2.me/theorems/f2c4c1af-d339-4a9b-b02b-eb3d703a6237

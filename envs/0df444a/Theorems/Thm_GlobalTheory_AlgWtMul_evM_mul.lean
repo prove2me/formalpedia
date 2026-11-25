@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AlgWtMul_evM_mul
 -- name    : GlobalTheory.AlgWtMul.evM_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T10:57:47.358414+00:00
 -- url     : https://prove2.me/theorems/7f133c69-80c3-45b1-beea-17593df38055

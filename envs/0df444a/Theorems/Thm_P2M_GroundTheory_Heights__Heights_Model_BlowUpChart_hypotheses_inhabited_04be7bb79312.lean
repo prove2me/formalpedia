@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_BlowUpChart_hypotheses_inhabited_04be7bb79312
 -- name    : P2M_GroundTheory_Heights__Heights_Model_BlowUpChart_hypotheses_inhabited_04be7bb79312
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:48:32.200644+00:00
 -- url     : https://prove2.me/theorems/e07a14c6-b6ff-4de5-b82e-a65cd844c203

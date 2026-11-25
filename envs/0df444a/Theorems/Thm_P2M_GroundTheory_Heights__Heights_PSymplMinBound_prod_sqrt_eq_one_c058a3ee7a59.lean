@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplMinBound_prod_sqrt_eq_one_c058a3ee7a59
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplMinBound_prod_sqrt_eq_one_c058a3ee7a59
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:22.20675+00:00
 -- url     : https://prove2.me/theorems/cb7ad215-1c32-4586-9209-143f988542a6

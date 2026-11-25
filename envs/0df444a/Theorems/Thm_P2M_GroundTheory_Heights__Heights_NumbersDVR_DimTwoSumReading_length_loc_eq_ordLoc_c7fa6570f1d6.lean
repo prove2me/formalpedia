@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DimTwoSumReading_length_loc_eq_ordLoc_c7fa6570f1d6
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DimTwoSumReading_length_loc_eq_ordLoc_c7fa6570f1d6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:05:54.130051+00:00
 -- url     : https://prove2.me/theorems/0d8fcc7b-d2b8-414f-ab82-12f56220f02c

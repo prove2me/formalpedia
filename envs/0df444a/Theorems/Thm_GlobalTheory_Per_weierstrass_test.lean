@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Per_weierstrass_test
 -- name    : GlobalTheory.Per.weierstrass_test
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T02:49:57.476602+00:00
 -- url     : https://prove2.me/theorems/5f1ad08f-8d47-5cf9-bba5-331feb8c78ba

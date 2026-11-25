@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitConjSum_restrict_eq_iff_7898508957a0
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitConjSum_restrict_eq_iff_7898508957a0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:32.103732+00:00
 -- url     : https://prove2.me/theorems/08d05497-47ff-428b-b7b8-b3a85bdf4ac6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KShort_volume_cube_3a64e2ae9337
 -- name    : P2M_GroundTheory_Heights__Heights_KShort_volume_cube_3a64e2ae9337
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:26:25.35841+00:00
 -- url     : https://prove2.me/theorems/6484a152-9e11-40f7-bace-53b3c7d67c32

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_degLT_diffStep_of_degLT_succ_1dbb35a03f6d
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_degLT_diffStep_of_degLT_succ_1dbb35a03f6d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:05.376812+00:00
 -- url     : https://prove2.me/theorems/d549d914-cdb7-4d97-a7dd-83eeb721f7ff

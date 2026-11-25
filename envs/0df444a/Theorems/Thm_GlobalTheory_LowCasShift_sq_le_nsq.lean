@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LowCasShift_sq_le_nsq
 -- name    : GlobalTheory.LowCasShift.sq_le_nsq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:00:05.126838+00:00
 -- url     : https://prove2.me/theorems/fa10c63a-b236-4f17-9321-7fb3cb387d36

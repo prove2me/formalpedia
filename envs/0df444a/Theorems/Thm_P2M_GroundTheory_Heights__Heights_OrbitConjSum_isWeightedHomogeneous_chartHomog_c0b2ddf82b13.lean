@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrbitConjSum_isWeightedHomogeneous_chartHomog_c0b2ddf82b13
 -- name    : P2M_GroundTheory_Heights__Heights_OrbitConjSum_isWeightedHomogeneous_chartHomog_c0b2ddf82b13
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:59.030014+00:00
 -- url     : https://prove2.me/theorems/dfc47915-5af4-40cf-ad13-e9a7dff9a17f

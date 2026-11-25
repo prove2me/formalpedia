@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HypWedge_characterExtensionRep_apply
 -- name    : GlobalTheory.CompanionTheory.HypWedge.characterExtensionRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:00:27.056152+00:00
 -- url     : https://prove2.me/theorems/eb1fbdf4-d0b8-4317-8275-ff5d4c29a596

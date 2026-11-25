@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity_finIdeal_comap_C_e18d6e2b5341
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_VerticalPartMultiplicity_finIdeal_comap_C_e18d6e2b5341
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:14:20.643943+00:00
 -- url     : https://prove2.me/theorems/07067fd9-1453-4c48-9d84-aeda6d4a41da

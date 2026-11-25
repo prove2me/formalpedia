@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_unitary_of_hForm_1ab14222c8c7
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_unitary_of_hForm_1ab14222c8c7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:53.761501+00:00
 -- url     : https://prove2.me/theorems/4222225e-338c-429a-85ff-28d7ee8c0706

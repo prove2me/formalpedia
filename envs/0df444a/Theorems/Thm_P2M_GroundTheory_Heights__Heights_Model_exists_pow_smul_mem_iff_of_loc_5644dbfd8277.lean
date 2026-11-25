@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_pow_smul_mem_iff_of_loc_5644dbfd8277
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_pow_smul_mem_iff_of_loc_5644dbfd8277
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:09.797703+00:00
 -- url     : https://prove2.me/theorems/3b83fb7f-b6d5-4bd1-a612-e509ebf4bd11

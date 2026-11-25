@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelevant_rename_weightedHomogeneousComponent_550dd4a17607
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_ContractRelevant_rename_weightedHomogeneousComponent_550dd4a17607
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:05:48.023169+00:00
 -- url     : https://prove2.me/theorems/0ee28ea0-5215-4ca6-a712-937e884e916d

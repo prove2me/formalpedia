@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NormalDivisorChartGeneric_ringKrullDim_le_of_injective_isIntegral_893eb26f2a3f
 -- name    : P2M_GroundTheory_Heights__Heights_NormalDivisorChartGeneric_ringKrullDim_le_of_injective_isIntegral_893eb26f2a3f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:05:07.158708+00:00
 -- url     : https://prove2.me/theorems/38c297bd-ce3b-4091-9928-8c0a4bdd227f

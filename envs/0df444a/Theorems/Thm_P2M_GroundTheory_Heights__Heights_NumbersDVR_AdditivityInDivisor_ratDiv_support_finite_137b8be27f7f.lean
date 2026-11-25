@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_AdditivityInDivisor_ratDiv_support_finite_137b8be27f7f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_AdditivityInDivisor_ratDiv_support_finite_137b8be27f7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:11:46.350803+00:00
 -- url     : https://prove2.me/theorems/60d79fa1-a2ce-564a-9cef-c18b42089657

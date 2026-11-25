@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplDetBound_step_bound_847aa8cffc89
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplDetBound_step_bound_847aa8cffc89
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:13:42.157531+00:00
 -- url     : https://prove2.me/theorems/d00720d1-fc09-4089-a02f-aea5d45dac07

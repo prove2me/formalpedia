@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_ball_indicator_le_6727de79cc83
 -- name    : P2M_GroundTheory_Heights__Heights_LeadBlockGaussTail_ball_indicator_le_6727de79cc83
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:28:31.893827+00:00
 -- url     : https://prove2.me/theorems/1d4234f5-fe4f-44eb-8f86-01114038d056

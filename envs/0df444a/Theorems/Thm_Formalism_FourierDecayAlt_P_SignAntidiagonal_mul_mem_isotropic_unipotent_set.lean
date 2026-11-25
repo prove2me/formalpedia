@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_SignAntidiagonal_mul_mem_isotropic_unipotent_set
 -- name    : Formalism.FourierDecayAlt.P.SignAntidiagonal.mul_mem_isotropic_unipotent_set
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:58:03.642416+00:00
 -- url     : https://prove2.me/theorems/d645a627-1efa-4a8a-8225-86d434fc721f

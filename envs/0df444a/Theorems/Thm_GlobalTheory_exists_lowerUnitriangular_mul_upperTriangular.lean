@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_lowerUnitriangular_mul_upperTriangular
 -- name    : GlobalTheory.exists_lowerUnitriangular_mul_upperTriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:03:48.928038+00:00
 -- url     : https://prove2.me/theorems/168a78d9-e99d-4a1b-8b86-e8d418510fc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingDimLe_valIn_change_9fd10f331b07
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingDimLe_valIn_change_9fd10f331b07
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:08:33.543359+00:00
 -- url     : https://prove2.me/theorems/b8a521bc-ddc4-4c51-9c62-9996f8b36b6e

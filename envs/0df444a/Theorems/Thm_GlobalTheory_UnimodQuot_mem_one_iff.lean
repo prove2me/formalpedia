@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodQuot_mem_one_iff
 -- name    : GlobalTheory.UnimodQuot.mem_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:56:20.02158+00:00
 -- url     : https://prove2.me/theorems/00eb4c35-0f9e-48de-8a39-b8a5eec44386

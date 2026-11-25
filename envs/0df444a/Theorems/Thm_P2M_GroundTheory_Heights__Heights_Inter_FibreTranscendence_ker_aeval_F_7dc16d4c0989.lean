@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_FibreTranscendence_ker_aeval_F_7dc16d4c0989
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_FibreTranscendence_ker_aeval_F_7dc16d4c0989
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:26:33.2249+00:00
 -- url     : https://prove2.me/theorems/6dbdee7a-5916-46c9-bacd-120883dd3de8

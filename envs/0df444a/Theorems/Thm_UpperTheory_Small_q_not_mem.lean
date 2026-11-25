@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UpperTheory_Small_q_not_mem
 -- name    : UpperTheory.Small.q_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:48:27.783717+00:00
 -- url     : https://prove2.me/theorems/e44cf5a9-706f-4f9b-83fc-01b0dca184e8

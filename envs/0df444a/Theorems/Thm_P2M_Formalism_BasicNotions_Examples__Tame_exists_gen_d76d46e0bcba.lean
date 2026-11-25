@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_BasicNotions_Examples__Tame_exists_gen_d76d46e0bcba
 -- name    : P2M_Formalism_BasicNotions_Examples__Tame_exists_gen_d76d46e0bcba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:06:03.576913+00:00
 -- url     : https://prove2.me/theorems/11353451-3966-5c91-9e71-1ca7142117bb

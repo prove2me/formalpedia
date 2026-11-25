@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Dict_L2_bijective_cochain
 -- name    : GlobalTheory.CompanionTheory.Dict.L2_bijective_cochain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:57:59.076924+00:00
 -- url     : https://prove2.me/theorems/1e195611-0c52-5b1b-95a1-2e6b4c37237f

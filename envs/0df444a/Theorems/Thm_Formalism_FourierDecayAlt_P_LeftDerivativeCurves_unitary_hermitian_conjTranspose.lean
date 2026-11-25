@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftDerivativeCurves_unitary_hermitian_conjTranspose
 -- name    : Formalism.FourierDecayAlt.P.LeftDerivativeCurves.unitary_hermitian_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:58:34.40919+00:00
 -- url     : https://prove2.me/theorems/7a458e72-7960-5eb3-8523-69971986bb80

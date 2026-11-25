@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Cell_exists_family
 -- name    : Formalism.HermitianLattices.Ext.L3.Cell.exists_family
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T09:45:52.003898+00:00
 -- url     : https://prove2.me/theorems/70f93d88-eeb8-48c3-8466-b4a0cc9d6226

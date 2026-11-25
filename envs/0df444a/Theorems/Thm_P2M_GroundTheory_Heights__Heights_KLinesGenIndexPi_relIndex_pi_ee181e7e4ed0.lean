@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesGenIndexPi_relIndex_pi_ee181e7e4ed0
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesGenIndexPi_relIndex_pi_ee181e7e4ed0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:26:44.772532+00:00
 -- url     : https://prove2.me/theorems/e27e8295-6132-491a-ae84-64058ed097c9

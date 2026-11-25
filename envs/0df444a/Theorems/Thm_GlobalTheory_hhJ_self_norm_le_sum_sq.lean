@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hhJ_self_norm_le_sum_sq
 -- name    : GlobalTheory.hhJ_self_norm_le_sum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:02:06.976381+00:00
 -- url     : https://prove2.me/theorems/b8e6fb6f-47ac-4ef9-9cb6-95347db1752f

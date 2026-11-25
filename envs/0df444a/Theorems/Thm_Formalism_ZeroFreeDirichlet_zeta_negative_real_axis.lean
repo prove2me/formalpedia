@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ZeroFreeDirichlet_zeta_negative_real_axis
 -- name    : Formalism.ZeroFreeDirichlet.zeta_negative_real_axis
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:38:43.081736+00:00
 -- url     : https://prove2.me/theorems/a8254b49-74f6-4752-b8b2-652b8714cead

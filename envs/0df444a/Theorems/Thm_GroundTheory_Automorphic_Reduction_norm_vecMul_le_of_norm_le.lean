@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_norm_vecMul_le_of_norm_le
 -- name    : GroundTheory.Automorphic.Reduction.norm_vecMul_le_of_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:03:51.757486+00:00
 -- url     : https://prove2.me/theorems/d55258c5-dd8d-5a22-a476-7b28d57419cd

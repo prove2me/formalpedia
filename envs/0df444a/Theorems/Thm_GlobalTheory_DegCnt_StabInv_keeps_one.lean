@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_keeps_one
 -- name    : GlobalTheory.DegCnt.StabInv.keeps_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:00:36.583677+00:00
 -- url     : https://prove2.me/theorems/64f1f28a-3648-5d1b-95c4-3bfa5c4b68f7

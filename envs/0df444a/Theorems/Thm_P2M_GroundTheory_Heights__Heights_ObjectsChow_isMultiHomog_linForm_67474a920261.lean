@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_isMultiHomog_linForm_67474a920261
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_isMultiHomog_linForm_67474a920261
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:13:08.655803+00:00
 -- url     : https://prove2.me/theorems/cb198f96-932d-448b-9901-8e15d58fa45e

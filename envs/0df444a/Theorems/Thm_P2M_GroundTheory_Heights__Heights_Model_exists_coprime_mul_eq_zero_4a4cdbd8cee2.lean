@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_exists_coprime_mul_eq_zero_4a4cdbd8cee2
 -- name    : P2M_GroundTheory_Heights__Heights_Model_exists_coprime_mul_eq_zero_4a4cdbd8cee2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:31:09.104362+00:00
 -- url     : https://prove2.me/theorems/76a7526c-8973-4e86-8351-0934137c712e

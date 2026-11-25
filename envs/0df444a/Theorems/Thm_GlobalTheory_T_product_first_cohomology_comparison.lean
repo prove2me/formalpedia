@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_product_first_cohomology_comparison
 -- name    : GlobalTheory.T.product_first_cohomology_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:29:17.097979+00:00
 -- url     : https://prove2.me/theorems/3b6206b7-b8cf-4baf-8b8e-e1e6a61976f0

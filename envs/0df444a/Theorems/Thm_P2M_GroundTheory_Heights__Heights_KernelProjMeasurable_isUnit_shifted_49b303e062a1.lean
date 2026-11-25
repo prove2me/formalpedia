@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KernelProjMeasurable_isUnit_shifted_49b303e062a1
 -- name    : P2M_GroundTheory_Heights__Heights_KernelProjMeasurable_isUnit_shifted_49b303e062a1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:33:28.304168+00:00
 -- url     : https://prove2.me/theorems/1a80a2f3-4486-43c7-ba64-25c1cb651d7c

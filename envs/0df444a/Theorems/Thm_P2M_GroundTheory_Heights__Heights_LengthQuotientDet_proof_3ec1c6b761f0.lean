@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthQuotientDet_proof_3ec1c6b761f0
 -- name    : P2M_GroundTheory_Heights__Heights_LengthQuotientDet_proof_3ec1c6b761f0
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:41:30.279167+00:00
 -- url     : https://prove2.me/theorems/09d9db23-db68-4fb6-adf4-6bdd992caa67

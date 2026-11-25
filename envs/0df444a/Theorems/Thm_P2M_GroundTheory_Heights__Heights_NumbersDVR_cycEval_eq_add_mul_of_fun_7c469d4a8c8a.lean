@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_cycEval_eq_add_mul_of_fun_7c469d4a8c8a
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_cycEval_eq_add_mul_of_fun_7c469d4a8c8a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:08:55.10919+00:00
 -- url     : https://prove2.me/theorems/c1b27f5c-b7e8-424a-8011-ca9e2471d4a3

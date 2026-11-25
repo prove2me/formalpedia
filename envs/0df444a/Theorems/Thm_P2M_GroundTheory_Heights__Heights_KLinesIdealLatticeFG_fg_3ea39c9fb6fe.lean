@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KLinesIdealLatticeFG_fg_3ea39c9fb6fe
 -- name    : P2M_GroundTheory_Heights__Heights_KLinesIdealLatticeFG_fg_3ea39c9fb6fe
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:58:15.884798+00:00
 -- url     : https://prove2.me/theorems/20bb61b6-807c-437b-bd04-234c6d796d72

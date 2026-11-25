@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericLinearTrdeg_algebraicIndependent_rows_8439d4126368
 -- name    : P2M_GroundTheory_Heights__Heights_GenericLinearTrdeg_algebraicIndependent_rows_8439d4126368
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:18:16.920314+00:00
 -- url     : https://prove2.me/theorems/f1935e7a-4b44-53e7-af82-26e05064a688

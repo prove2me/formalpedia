@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_multilinear_step_8d3b99047953
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_multilinear_step_8d3b99047953
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:24:29.671097+00:00
 -- url     : https://prove2.me/theorems/a19d066b-3305-4f7a-8c6a-d194a85df4c2

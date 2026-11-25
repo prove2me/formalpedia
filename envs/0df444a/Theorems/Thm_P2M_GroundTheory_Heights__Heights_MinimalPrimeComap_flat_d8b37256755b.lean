@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MinimalPrimeComap_flat_d8b37256755b
 -- name    : P2M_GroundTheory_Heights__Heights_MinimalPrimeComap_flat_d8b37256755b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:48:12.804992+00:00
 -- url     : https://prove2.me/theorems/80105e53-c286-40c2-a8b7-6482a8dc0dec

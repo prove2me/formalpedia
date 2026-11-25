@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_StabilizerLattices_sum_pairs_eq_rep
 -- name    : Formalism.HermitianLattices.Ext.L3.StabilizerLattices.sum_pairs_eq_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:43:48.460445+00:00
 -- url     : https://prove2.me/theorems/7bb6a6ac-954b-425d-8e00-6a9f284d472a

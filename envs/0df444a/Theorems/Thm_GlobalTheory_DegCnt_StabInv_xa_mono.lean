@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_xa_mono
 -- name    : GlobalTheory.DegCnt.StabInv.xa_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:00:42.304008+00:00
 -- url     : https://prove2.me/theorems/964ecf08-a703-5628-9ab9-c9257010cf20

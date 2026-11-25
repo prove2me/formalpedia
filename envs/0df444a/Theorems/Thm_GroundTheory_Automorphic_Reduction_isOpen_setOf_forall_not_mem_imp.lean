@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_isOpen_setOf_forall_not_mem_imp
 -- name    : GroundTheory.Automorphic.Reduction.isOpen_setOf_forall_not_mem_imp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:04:46.76286+00:00
 -- url     : https://prove2.me/theorems/d927b675-bd71-4091-bd34-45bc7e3a89ef

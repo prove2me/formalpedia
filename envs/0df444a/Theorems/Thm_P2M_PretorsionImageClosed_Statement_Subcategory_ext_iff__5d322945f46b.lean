@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PretorsionImageClosed_Statement_Subcategory_ext_iff__5d322945f46b
 -- name    : P2M_PretorsionImageClosed_Statement_Subcategory_ext_iff__5d322945f46b
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T02:22:05.840227+00:00
 -- url     : https://prove2.me/theorems/995fe92e-613c-59b5-ac66-9edbdc976500

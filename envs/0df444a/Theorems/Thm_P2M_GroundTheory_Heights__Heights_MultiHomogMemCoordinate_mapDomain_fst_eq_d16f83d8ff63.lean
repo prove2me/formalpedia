@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MultiHomogMemCoordinate_mapDomain_fst_eq_d16f83d8ff63
 -- name    : P2M_GroundTheory_Heights__Heights_MultiHomogMemCoordinate_mapDomain_fst_eq_d16f83d8ff63
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:04:33.36081+00:00
 -- url     : https://prove2.me/theorems/02b2b4f9-5a23-42ad-9cad-7b0bc5d69a68

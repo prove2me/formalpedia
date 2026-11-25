@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_Final_LatticeSumBounds_coveringO_of_transference
 -- name    : Formalism.HermitianLatticeCounting.Final.LatticeSumBounds.coveringO_of_transference
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:56:49.47626+00:00
 -- url     : https://prove2.me/theorems/2ae16d1f-a9c9-4d4b-b234-c2c2253faa14

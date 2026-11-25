@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SublatCount_mem_ker_iff
 -- name    : GlobalTheory.SublatCount.mem_ker_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:00:54.356404+00:00
 -- url     : https://prove2.me/theorems/e21ca644-f334-530b-b2cd-eadf5486ec77

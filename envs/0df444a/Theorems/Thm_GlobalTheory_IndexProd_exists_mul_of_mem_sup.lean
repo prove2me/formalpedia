@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IndexProd_exists_mul_of_mem_sup
 -- name    : GlobalTheory.IndexProd.exists_mul_of_mem_sup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:48.865361+00:00
 -- url     : https://prove2.me/theorems/bebb123b-3f17-45c8-9415-0fb6a4df8738

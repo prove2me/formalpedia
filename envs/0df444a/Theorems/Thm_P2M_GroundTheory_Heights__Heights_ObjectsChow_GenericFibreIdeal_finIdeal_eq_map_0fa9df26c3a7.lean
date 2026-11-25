@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreIdeal_finIdeal_eq_map_0fa9df26c3a7
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_GenericFibreIdeal_finIdeal_eq_map_0fa9df26c3a7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:13:30.758753+00:00
 -- url     : https://prove2.me/theorems/d765866d-3f89-4b46-a3f7-249b86165d31

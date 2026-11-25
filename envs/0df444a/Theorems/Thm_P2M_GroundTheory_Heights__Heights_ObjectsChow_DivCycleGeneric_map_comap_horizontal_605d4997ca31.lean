@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ObjectsChow_DivCycleGeneric_map_comap_horizontal_605d4997ca31
 -- name    : P2M_GroundTheory_Heights__Heights_ObjectsChow_DivCycleGeneric_map_comap_horizontal_605d4997ca31
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:13:00.929321+00:00
 -- url     : https://prove2.me/theorems/754804de-3f59-4c0c-9259-500f783e933a

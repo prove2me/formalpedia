@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesQuotIndexSplit_proof_7a44e3708281
 -- name    : P2M_GroundTheory_Heights__Heights_LinesQuotIndexSplit_proof_7a44e3708281
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:19:50.751151+00:00
 -- url     : https://prove2.me/theorems/f757ee8e-4ef4-469b-af15-9253c5d2e135

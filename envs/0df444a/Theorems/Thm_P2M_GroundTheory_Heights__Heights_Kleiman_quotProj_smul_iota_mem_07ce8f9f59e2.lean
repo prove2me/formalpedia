@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_quotProj_smul_iota_mem_07ce8f9f59e2
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_quotProj_smul_iota_mem_07ce8f9f59e2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:30:19.739129+00:00
 -- url     : https://prove2.me/theorems/17baa9f8-91e6-4e96-a922-4ceecdddb265

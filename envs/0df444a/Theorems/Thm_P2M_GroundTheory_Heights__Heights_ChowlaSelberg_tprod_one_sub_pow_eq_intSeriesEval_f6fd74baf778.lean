@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowlaSelberg_tprod_one_sub_pow_eq_intSeriesEval_f6fd74baf778
 -- name    : P2M_GroundTheory_Heights__Heights_ChowlaSelberg_tprod_one_sub_pow_eq_intSeriesEval_f6fd74baf778
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:16:54.821096+00:00
 -- url     : https://prove2.me/theorems/1f194509-caa4-4e6f-9754-ea3c017159cb

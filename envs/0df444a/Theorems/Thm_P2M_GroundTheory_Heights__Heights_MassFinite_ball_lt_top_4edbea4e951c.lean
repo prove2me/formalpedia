@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MassFinite_ball_lt_top_4edbea4e951c
 -- name    : P2M_GroundTheory_Heights__Heights_MassFinite_ball_lt_top_4edbea4e951c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:48:19.656233+00:00
 -- url     : https://prove2.me/theorems/93b3465f-094f-4375-bbed-2d4ced9b7f3d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnipotentInvariant_BiInvariant_eq_mul_prod
 -- name    : GlobalTheory.UnipotentInvariant.BiInvariant.eq_mul_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T21:25:27.956856+00:00
 -- url     : https://prove2.me/theorems/d08e81ae-60bc-4295-aa41-832554b5ce19

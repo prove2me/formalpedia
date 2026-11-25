@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrdPolynomialLocalization_comap_C_map_C_664793546d1d
 -- name    : P2M_GroundTheory_Heights__Heights_OrdPolynomialLocalization_comap_C_map_C_664793546d1d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:13:13.090498+00:00
 -- url     : https://prove2.me/theorems/3dfd4fb4-c487-4b03-9a16-169a20e7b9e3

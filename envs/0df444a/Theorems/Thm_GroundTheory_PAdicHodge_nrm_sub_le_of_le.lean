@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_sub_le_of_le
 -- name    : GroundTheory.PAdicHodge.nrm_sub_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:05:55.874591+00:00
 -- url     : https://prove2.me/theorems/87fe585c-5b9f-4050-9611-601f29b2a24b

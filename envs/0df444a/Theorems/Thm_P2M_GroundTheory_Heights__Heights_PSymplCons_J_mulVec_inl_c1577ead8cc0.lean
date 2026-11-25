@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplCons_J_mulVec_inl_c1577ead8cc0
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplCons_J_mulVec_inl_c1577ead8cc0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:13:24.351954+00:00
 -- url     : https://prove2.me/theorems/da5acb69-d3b8-46d5-92cf-3fdf54a0ec6a

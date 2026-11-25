@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PolyNorm_exists_ext
 -- name    : GlobalTheory.PolyNorm.exists_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:50:44.884073+00:00
 -- url     : https://prove2.me/theorems/75fc1c35-ec76-41ab-8252-79a78c6da8eb

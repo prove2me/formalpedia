@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LocWitt_Rel_trans
 -- name    : GlobalTheory.Mass.LocWitt.Rel.trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:59:24.949046+00:00
 -- url     : https://prove2.me/theorems/05816ae1-89cd-4fe5-9859-58e2970997fb

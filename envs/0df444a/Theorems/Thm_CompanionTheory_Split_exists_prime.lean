@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_Split_exists_prime
 -- name    : CompanionTheory.Split.exists_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:01:39.063847+00:00
 -- url     : https://prove2.me/theorems/0d59e659-4bb6-4be0-aad4-3d6833951ba4

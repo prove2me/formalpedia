@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_Objects_isFiniteProjection_iff_6a65007f0610
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_Objects_isFiniteProjection_iff_6a65007f0610
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:20:11.45351+00:00
 -- url     : https://prove2.me/theorems/58c42f54-18fa-450d-8176-7e9a9e6f51e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lastComatrixRow_inverts_dual
 -- name    : GlobalTheory.lastComatrixRow_inverts_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:53:58.119334+00:00
 -- url     : https://prove2.me/theorems/8bd7eef9-8ccb-4a21-9482-08997f54e46c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Kleiman_DegLocExact_proof_44434063569b
 -- name    : P2M_GroundTheory_Heights__Heights_Kleiman_DegLocExact_proof_44434063569b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:31:01.071023+00:00
 -- url     : https://prove2.me/theorems/7ba8fe25-b248-4134-9bdf-e58c3da585e6

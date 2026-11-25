@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MCPsh_continuous_gram_a2087d2140df
 -- name    : P2M_GroundTheory_Heights__Heights_MCPsh_continuous_gram_a2087d2140df
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:47:19.141492+00:00
 -- url     : https://prove2.me/theorems/214674e1-967f-4ef6-bb77-8cd33c41fd1d

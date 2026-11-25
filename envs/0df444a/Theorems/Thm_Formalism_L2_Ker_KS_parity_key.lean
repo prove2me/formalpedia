@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Ker_KS_parity_key
 -- name    : Formalism.L2.Ker.KS.parity_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:56:17.502785+00:00
 -- url     : https://prove2.me/theorems/d5a76604-bf41-49d9-bba0-ff7c7c6e6c65

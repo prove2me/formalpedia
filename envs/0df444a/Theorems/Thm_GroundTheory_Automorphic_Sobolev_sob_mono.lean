@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_sob_mono
 -- name    : GroundTheory.Automorphic.Sobolev.sob_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:19:08.783279+00:00
 -- url     : https://prove2.me/theorems/a559e322-58a3-478d-808f-64c22e7c17cb

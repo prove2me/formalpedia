@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SublatCount_finrank_lattice
 -- name    : GlobalTheory.SublatCount.finrank_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:01:12.890839+00:00
 -- url     : https://prove2.me/theorems/e6bf6fae-a3bf-485a-be5c-f2dc84e18926

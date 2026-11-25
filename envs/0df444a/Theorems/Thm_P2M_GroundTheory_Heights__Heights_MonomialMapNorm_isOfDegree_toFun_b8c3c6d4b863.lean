@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MonomialMapNorm_isOfDegree_toFun_b8c3c6d4b863
 -- name    : P2M_GroundTheory_Heights__Heights_MonomialMapNorm_isOfDegree_toFun_b8c3c6d4b863
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:51:14.080471+00:00
 -- url     : https://prove2.me/theorems/af17a0c6-b451-5d48-aace-93b2cfd1aeb6

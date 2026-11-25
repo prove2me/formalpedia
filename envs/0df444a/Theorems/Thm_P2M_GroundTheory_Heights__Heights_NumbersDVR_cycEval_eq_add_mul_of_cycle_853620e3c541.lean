@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_cycEval_eq_add_mul_of_cycle_853620e3c541
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_cycEval_eq_add_mul_of_cycle_853620e3c541
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:09:48.674796+00:00
 -- url     : https://prove2.me/theorems/2633f199-d124-43bc-bab6-7ef550d156c2

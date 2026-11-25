@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_norm_apply_le_norm_homeomorphMixedSpace
 -- name    : GroundTheory.Automorphic.Reduction.norm_apply_le_norm_homeomorphMixedSpace
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:04:37.570594+00:00
 -- url     : https://prove2.me/theorems/5fefba1f-1634-4b66-98ff-a713c8cc44d7

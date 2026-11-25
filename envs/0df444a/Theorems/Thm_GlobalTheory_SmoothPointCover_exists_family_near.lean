@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SmoothPointCover_exists_family_near
 -- name    : GlobalTheory.SmoothPointCover.exists_family_near
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T20:19:39.17625+00:00
 -- url     : https://prove2.me/theorems/382f2f23-40eb-42fe-9d66-b6cadcd7ae3c

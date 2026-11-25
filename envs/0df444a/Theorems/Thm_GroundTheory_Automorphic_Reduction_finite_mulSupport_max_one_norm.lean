@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_finite_mulSupport_max_one_norm
 -- name    : GroundTheory.Automorphic.Reduction.finite_mulSupport_max_one_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:05:20.338433+00:00
 -- url     : https://prove2.me/theorems/64439cbd-afb2-4637-bd39-5c755a122cd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_MatrixMultiplicationContinuity_aesm_of_contOn
 -- name    : Formalism.FourierDecayAlt.P.MatrixMultiplicationContinuity.aesm_of_contOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:01:18.742279+00:00
 -- url     : https://prove2.me/theorems/b990f0c6-56b5-44fd-a69b-67d7c6469651

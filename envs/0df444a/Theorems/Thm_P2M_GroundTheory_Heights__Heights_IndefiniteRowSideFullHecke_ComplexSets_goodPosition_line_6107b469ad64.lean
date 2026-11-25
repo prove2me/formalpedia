@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_goodPosition_line_6107b469ad64
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_goodPosition_line_6107b469ad64
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:20:33.843217+00:00
 -- url     : https://prove2.me/theorems/a1d6e2c4-e2e4-5c7f-8fc6-ee4a0a769bc9

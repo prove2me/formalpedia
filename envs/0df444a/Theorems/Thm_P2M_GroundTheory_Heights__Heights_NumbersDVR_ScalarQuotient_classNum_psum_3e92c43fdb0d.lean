@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_classNum_psum_3e92c43fdb0d
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ScalarQuotient_classNum_psum_3e92c43fdb0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:08:10.639984+00:00
 -- url     : https://prove2.me/theorems/e781c5ad-d8b0-43c2-ad48-f1a5f61cffe5

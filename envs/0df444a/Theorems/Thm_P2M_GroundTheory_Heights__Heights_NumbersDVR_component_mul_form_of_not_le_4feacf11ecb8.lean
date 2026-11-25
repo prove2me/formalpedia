@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_component_mul_form_of_not_le_4feacf11ecb8
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_component_mul_form_of_not_le_4feacf11ecb8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:10:01.098736+00:00
 -- url     : https://prove2.me/theorems/d4f6f557-291d-47f8-92c1-b3074e81e0a7

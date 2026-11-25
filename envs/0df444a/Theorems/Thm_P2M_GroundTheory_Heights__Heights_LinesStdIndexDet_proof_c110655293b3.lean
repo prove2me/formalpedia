@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_LinesStdIndexDet_proof_c110655293b3
 -- name    : P2M_GroundTheory_Heights__Heights_LinesStdIndexDet_proof_c110655293b3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:20:19.567972+00:00
 -- url     : https://prove2.me/theorems/f0c0af59-db01-4ba9-a55c-090e0700c0ef

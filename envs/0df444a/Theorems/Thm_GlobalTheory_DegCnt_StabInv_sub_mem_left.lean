@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DegCnt_StabInv_sub_mem_left
 -- name    : GlobalTheory.DegCnt.StabInv.sub_mem_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:54:25.081158+00:00
 -- url     : https://prove2.me/theorems/cf9711b2-684e-4569-91d6-488a1371233c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LeftDerivativeCurves_unitary_hermitian_inv
 -- name    : Formalism.FourierDecayAlt.P.LeftDerivativeCurves.unitary_hermitian_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:57:34.01927+00:00
 -- url     : https://prove2.me/theorems/f6df2196-a0ee-4598-876a-87d68a2cbe2d

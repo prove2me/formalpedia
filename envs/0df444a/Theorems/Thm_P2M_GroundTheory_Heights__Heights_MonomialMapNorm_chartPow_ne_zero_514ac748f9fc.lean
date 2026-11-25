@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_MonomialMapNorm_chartPow_ne_zero_514ac748f9fc
 -- name    : P2M_GroundTheory_Heights__Heights_MonomialMapNorm_chartPow_ne_zero_514ac748f9fc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:50:21.089905+00:00
 -- url     : https://prove2.me/theorems/09db2135-fb4b-4afc-858c-60f7db9f1480

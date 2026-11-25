@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingDimLe_primeAbove_multiHomog_c779affea215
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_HomLocRingDimLe_primeAbove_multiHomog_c779affea215
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T04:07:34.411094+00:00
 -- url     : https://prove2.me/theorems/5b9d7931-5b48-4831-b95c-07a828d3252f

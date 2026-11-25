@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_qw_eq_prod
 -- name    : CompanionTheory.WaveGrid.qw_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:57:32.877813+00:00
 -- url     : https://prove2.me/theorems/af7c6874-9412-469e-8cb9-a87a8abe4094

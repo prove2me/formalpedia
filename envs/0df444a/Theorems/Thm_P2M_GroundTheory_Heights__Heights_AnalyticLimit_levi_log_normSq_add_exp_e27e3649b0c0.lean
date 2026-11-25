@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_AnalyticLimit_levi_log_normSq_add_exp_e27e3649b0c0
 -- name    : P2M_GroundTheory_Heights__Heights_AnalyticLimit_levi_log_normSq_add_exp_e27e3649b0c0
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:15:34.403117+00:00
 -- url     : https://prove2.me/theorems/2a8473f5-7c68-4e76-b54a-6116e64df08d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_BlockStab_cT_mul_eq_one
 -- name    : GlobalTheory.HL.BlockStab.cT_mul_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:59:25.953453+00:00
 -- url     : https://prove2.me/theorems/2ddf2649-c6d3-4cf9-ab32-e2117e0961a2

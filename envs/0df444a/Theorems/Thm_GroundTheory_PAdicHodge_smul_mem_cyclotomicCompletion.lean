@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_smul_mem_cyclotomicCompletion
 -- name    : GroundTheory.PAdicHodge.smul_mem_cyclotomicCompletion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:33:52.076322+00:00
 -- url     : https://prove2.me/theorems/3124453b-7657-4844-bf51-2d9309bb0184

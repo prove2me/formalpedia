@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_KAlt_prod_factorial_le_ed8781dc790b
 -- name    : P2M_GroundTheory_Heights__Heights_KAlt_prod_factorial_le_ed8781dc790b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:24:52.253706+00:00
 -- url     : https://prove2.me/theorems/bbf71d28-46c8-4952-bb8e-5281f73ef733

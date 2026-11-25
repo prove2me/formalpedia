@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_famPh1_push
 -- name    : GlobalTheory.famPh1_push
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T02:56:50.863144+00:00
 -- url     : https://prove2.me/theorems/dcc966c1-9ac7-5e47-958f-f2f066a5380a

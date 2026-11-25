@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplDetSchur_clearCol_mul_succ_26c7717bd404
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplDetSchur_clearCol_mul_succ_26c7717bd404
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:13:36.161835+00:00
 -- url     : https://prove2.me/theorems/f6e105bb-f56f-5aa6-8b71-e281243b9ff5

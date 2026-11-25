@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_mem_minimalPrimes_of_mem_e470b56afc04
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_mem_minimalPrimes_of_mem_e470b56afc04
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:34:44.572011+00:00
 -- url     : https://prove2.me/theorems/3a19c741-1818-5110-a41f-9c9d646892a0

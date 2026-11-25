@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_sob_fourierMultiplier_le
 -- name    : GroundTheory.Automorphic.Sobolev.sob_fourierMultiplier_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:49:26.865837+00:00
 -- url     : https://prove2.me/theorems/07c7d4f4-6bd2-5669-b2a4-9d9cee563a26

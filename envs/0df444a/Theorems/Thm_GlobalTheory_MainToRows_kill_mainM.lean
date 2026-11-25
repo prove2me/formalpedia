@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainToRows_kill_mainM
 -- name    : GlobalTheory.MainToRows.kill_mainM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:25:51.843989+00:00
 -- url     : https://prove2.me/theorems/6d4af130-3220-4f3e-893e-38dfeeebb8bc

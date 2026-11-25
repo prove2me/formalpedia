@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ae_coords_ne_zero
 -- name    : GlobalTheory.ae_coords_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:01:51.306523+00:00
 -- url     : https://prove2.me/theorems/ffdc54ee-2d08-583c-a6f9-2ee011238f38

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_HL_BlockStab_cj_mem_iff
 -- name    : GlobalTheory.HL.BlockStab.cj_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:07.387851+00:00
 -- url     : https://prove2.me/theorems/e4231293-293e-4103-8ab9-45e6ff32948d

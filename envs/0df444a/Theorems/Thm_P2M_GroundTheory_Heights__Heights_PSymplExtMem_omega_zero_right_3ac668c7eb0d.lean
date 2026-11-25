@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplExtMem_omega_zero_right_3ac668c7eb0d
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplExtMem_omega_zero_right_3ac668c7eb0d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:13:53.546834+00:00
 -- url     : https://prove2.me/theorems/69fe000c-a6b9-43e5-ba95-75da63c00ebd

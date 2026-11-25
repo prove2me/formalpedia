@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLatNm_isIntegral_theta_iff_fe641e3ebc90
 -- name    : P2M_GroundTheory_Heights__Heights_ChartLatNm_isIntegral_theta_iff_fe641e3ebc90
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:16:45.053175+00:00
 -- url     : https://prove2.me/theorems/c001bb3b-4fa0-48ca-b793-f0c07dff0fd8

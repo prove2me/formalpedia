@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_arDeg_comap
 -- name    : GlobalTheory.ArchMetric.arDeg_comap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:53:00.551857+00:00
 -- url     : https://prove2.me/theorems/26288780-59ff-4a13-aeca-d2a2c9955352

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_CotLoc_landing
 -- name    : GlobalTheory.CompanionTheory.CotLoc.landing
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:57:37.250075+00:00
 -- url     : https://prove2.me/theorems/78d1a64a-2993-5915-9491-95961164aca6

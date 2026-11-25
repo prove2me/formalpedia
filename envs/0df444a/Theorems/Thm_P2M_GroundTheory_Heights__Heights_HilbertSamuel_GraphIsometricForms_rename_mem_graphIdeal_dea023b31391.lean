@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_rename_mem_graphIdeal_dea023b31391
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_GraphIsometricForms_rename_mem_graphIdeal_dea023b31391
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:08:27.086495+00:00
 -- url     : https://prove2.me/theorems/e3b62b99-bcc1-4ff9-9834-5b5952d7bdaf

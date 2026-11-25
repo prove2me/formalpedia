@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_spreadNbhd_of_isEmpty_9b72b381a6b7
 -- name    : P2M_GroundTheory_Heights__Heights_Model_spreadNbhd_of_isEmpty_9b72b381a6b7
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:50:38.658953+00:00
 -- url     : https://prove2.me/theorems/5df4ff57-781c-5188-91a9-55204d56632d

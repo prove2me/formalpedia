@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_G_IntMvZ_of
 -- name    : Formalism.L2.Th1.G.IntMvZ_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:35:18.513595+00:00
 -- url     : https://prove2.me/theorems/b48cfd03-4d4d-4a0b-ba14-ae6f6197d337

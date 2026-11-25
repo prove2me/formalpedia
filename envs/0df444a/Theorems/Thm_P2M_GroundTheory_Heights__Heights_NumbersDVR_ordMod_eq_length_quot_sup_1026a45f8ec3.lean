@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_ordMod_eq_length_quot_sup_1026a45f8ec3
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_ordMod_eq_length_quot_sup_1026a45f8ec3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:13:23.084803+00:00
 -- url     : https://prove2.me/theorems/2a59628d-770e-4ea0-8b2b-dfaa79fdfd11

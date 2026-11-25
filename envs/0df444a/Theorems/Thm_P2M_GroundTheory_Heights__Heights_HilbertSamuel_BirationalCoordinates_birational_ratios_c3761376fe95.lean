@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_BirationalCoordinates_birational_ratios_c3761376fe95
 -- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_BirationalCoordinates_birational_ratios_c3761376fe95
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T03:18:22.562331+00:00
 -- url     : https://prove2.me/theorems/159694e6-f6fe-43fe-84f0-cc1f025e78aa

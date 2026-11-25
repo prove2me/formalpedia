@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompareIterDegree_real_step
 -- name    : GlobalTheory.CompareIterDegree.real_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T02:57:55.521336+00:00
 -- url     : https://prove2.me/theorems/152bc988-be37-44b8-bdbb-d10ddbbaad20

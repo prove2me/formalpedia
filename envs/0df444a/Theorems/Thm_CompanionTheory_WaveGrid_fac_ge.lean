@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_fac_ge
 -- name    : CompanionTheory.WaveGrid.fac_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:56:45.915918+00:00
 -- url     : https://prove2.me/theorems/1d59b8da-fd6a-4715-893a-ec8f492e3ffc

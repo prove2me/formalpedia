@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_multiHomog_colon_ca90d2ed2e72
 -- name    : P2M_GroundTheory_Heights__Heights_FieldNumbers_PrimeFiltration_multiHomog_colon_ca90d2ed2e72
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:17:01.782779+00:00
 -- url     : https://prove2.me/theorems/48516951-b85d-43c2-8235-306a7b3f3345

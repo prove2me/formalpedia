@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_dropPt_rename_b30606b9ed68
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinIntNum_dropPt_rename_b30606b9ed68
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:07:36.558296+00:00
 -- url     : https://prove2.me/theorems/546574b3-9808-4e9e-b777-4d4099418de7

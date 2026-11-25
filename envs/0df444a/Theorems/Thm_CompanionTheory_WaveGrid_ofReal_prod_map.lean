@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_WaveGrid_ofReal_prod_map
 -- name    : CompanionTheory.WaveGrid.ofReal_prod_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:58:11.110283+00:00
 -- url     : https://prove2.me/theorems/e08a6587-8ca5-50ab-a158-b66b00dd0900

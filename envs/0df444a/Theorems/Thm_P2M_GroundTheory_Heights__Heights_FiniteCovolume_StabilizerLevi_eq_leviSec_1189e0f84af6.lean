@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FiniteCovolume_StabilizerLevi_eq_leviSec_1189e0f84af6
 -- name    : P2M_GroundTheory_Heights__Heights_FiniteCovolume_StabilizerLevi_eq_leviSec_1189e0f84af6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:17:30.077733+00:00
 -- url     : https://prove2.me/theorems/c08ceb83-a10f-4d77-af03-7dd4437e8cc7

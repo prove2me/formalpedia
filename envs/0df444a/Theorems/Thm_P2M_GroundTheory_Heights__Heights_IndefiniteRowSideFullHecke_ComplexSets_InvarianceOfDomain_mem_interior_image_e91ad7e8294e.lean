@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_InvarianceOfDomain_mem_interior_image_e91ad7e8294e
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_InvarianceOfDomain_mem_interior_image_e91ad7e8294e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:20:07.680514+00:00
 -- url     : https://prove2.me/theorems/1b6df7ad-dc1d-5cab-a407-b2e662ea7f6e

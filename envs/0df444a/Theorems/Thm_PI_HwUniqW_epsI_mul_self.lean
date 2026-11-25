@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_HwUniqW_epsI_mul_self
 -- name    : PI.HwUniqW.epsI_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:08:09.579034+00:00
 -- url     : https://prove2.me/theorems/e24f0a22-5a93-43fe-9e8b-c8bbcc41c20d

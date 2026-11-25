@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBG_qminorOp_loc
 -- name    : Formalism.FourierDecayAlt.P.PBG.qminorOp_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:59:59.724058+00:00
 -- url     : https://prove2.me/theorems/e4792f74-6c6f-43ac-8bcf-873a34b3753f

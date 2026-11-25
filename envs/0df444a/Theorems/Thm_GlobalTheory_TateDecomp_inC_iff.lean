@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateDecomp_inC_iff
 -- name    : GlobalTheory.TateDecomp.inC_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:03:09.022798+00:00
 -- url     : https://prove2.me/theorems/e611c5b3-0455-4c76-a6a4-df2cccf07fd3

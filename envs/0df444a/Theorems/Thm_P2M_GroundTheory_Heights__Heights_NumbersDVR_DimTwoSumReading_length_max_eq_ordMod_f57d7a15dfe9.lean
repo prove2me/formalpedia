@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_DimTwoSumReading_length_max_eq_ordMod_f57d7a15dfe9
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_DimTwoSumReading_length_max_eq_ordMod_f57d7a15dfe9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:11:23.508798+00:00
 -- url     : https://prove2.me/theorems/74cb4e29-258b-5d9c-b302-47075958aa79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Inter_DiagonalDivisor_divCycle_eq_ite_b6e2753e1eda
 -- name    : P2M_GroundTheory_Heights__Heights_Inter_DiagonalDivisor_divCycle_eq_ite_b6e2753e1eda
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:24:37.60879+00:00
 -- url     : https://prove2.me/theorems/a38dba03-08f0-4bac-a85c-4c5a28a8385e

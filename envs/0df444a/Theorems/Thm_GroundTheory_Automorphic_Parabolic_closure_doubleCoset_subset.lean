@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_closure_doubleCoset_subset
 -- name    : GroundTheory.Automorphic.Parabolic.closure_doubleCoset_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T09:44:31.007693+00:00
 -- url     : https://prove2.me/theorems/4f090a41-49f7-47c6-92bb-bdf709891562

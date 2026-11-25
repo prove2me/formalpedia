@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointNumbers_intCycle_join_893811496ad6
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_JoinPointNumbers_intCycle_join_893811496ad6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:08:12.573492+00:00
 -- url     : https://prove2.me/theorems/cadbd435-4c5e-450f-b2ff-1e83f41ed6ac

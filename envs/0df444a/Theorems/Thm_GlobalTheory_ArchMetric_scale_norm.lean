@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ArchMetric_scale_norm
 -- name    : GlobalTheory.ArchMetric.scale_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:57:42.091702+00:00
 -- url     : https://prove2.me/theorems/fd4eb18e-30ff-415d-9c16-f4a1ffaa07ee

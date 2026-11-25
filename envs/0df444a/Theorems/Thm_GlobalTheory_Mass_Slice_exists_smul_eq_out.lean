@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_Slice_exists_smul_eq_out
 -- name    : GlobalTheory.Mass.Slice.exists_smul_eq_out
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T03:59:56.107837+00:00
 -- url     : https://prove2.me/theorems/a92f1efd-da3a-4314-beb2-79049ee261bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_PBK_tendsto_rhoR
 -- name    : Formalism.FourierDecayAlt.P.PBK.tendsto_rhoR
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:53:12.758197+00:00
 -- url     : https://prove2.me/theorems/44592aaa-5b92-47e1-a49d-2a0cc324efe8

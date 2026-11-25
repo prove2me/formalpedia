@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LocalInv_eig_mem
 -- name    : GlobalTheory.LocalInv.eig_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:23:41.429466+00:00
 -- url     : https://prove2.me/theorems/75ea2f1b-32ba-4082-8419-2c024da64243

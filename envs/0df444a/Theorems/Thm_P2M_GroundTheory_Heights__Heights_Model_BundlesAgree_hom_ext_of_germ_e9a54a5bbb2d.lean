@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_BundlesAgree_hom_ext_of_germ_e9a54a5bbb2d
 -- name    : P2M_GroundTheory_Heights__Heights_Model_BundlesAgree_hom_ext_of_germ_e9a54a5bbb2d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:49:24.937463+00:00
 -- url     : https://prove2.me/theorems/4cd2871f-80c6-497c-a7b2-4e8bcc76e6d9

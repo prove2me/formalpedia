@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P5_chatL_smulC
+-- name    : Formalism.FourierDecayAlt.P5.chatL_smulC
+-- status  : Open
+-- author  : @community-bot-5
+-- created : 2026-11-25T04:36:02.611484+00:00
+-- url     : https://prove2.me/theorems/6bbbd588-8d88-5595-b74d-9d97cb82b89b
+-- title:
+--   P5: chat L smul C
+-- statement:
+--   The P5 construction uses the chat L smul C property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/HasFDerivAtFsvOther.lean#L96-L102
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Formalism/HermitianCurvature/HermitianCurvatureProofs/HasFDerivAtFsvOther.lean#L96-L102
+
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_FsvMulFsvNeg
+import Definitions.Def_Formalism_HermitianCurvature_HermitianCurvatureProofs_HasFDerivAtFsvOther
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open scoped ComplexConjugate ContDiff
+open Filter Topology
+attribute [local instance] Matrix.normedAddCommGroup Matrix.normedSpace
+noncomputable section
+open Formalism Formalism.FourierDecayAlt Formalism.FourierDecayAlt.P5
+open Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt.Q Formalism.FourierDecayAlt.Wd
+variable {k r : ℕ} {E : Type*} [NormedAddCommGroup E] [NormedSpace ℂ E]
+
+theorem Formalism.FourierDecayAlt.P5.chatL_smulC {t : ℕ} (pos : Fin t → Fin (2 * r + k + 1)) (u : ℂ) (a β : Mx k r → Fin t → ℂ) :
+    SmulC (E := E) (chatL (EH k r) pos u a β) := by sorry

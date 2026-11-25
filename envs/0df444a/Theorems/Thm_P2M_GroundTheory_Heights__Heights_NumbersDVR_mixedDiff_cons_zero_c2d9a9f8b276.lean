@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_mixedDiff_cons_zero_c2d9a9f8b276
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_mixedDiff_cons_zero_c2d9a9f8b276
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T04:11:32.388795+00:00
 -- url     : https://prove2.me/theorems/0d9154b4-6596-45d7-8f6a-ba87f1176591

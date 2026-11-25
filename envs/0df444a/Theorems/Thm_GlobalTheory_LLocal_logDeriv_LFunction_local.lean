@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LLocal_logDeriv_LFunction_local
 -- name    : GlobalTheory.LLocal.logDeriv_LFunction_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:39:32.494654+00:00
 -- url     : https://prove2.me/theorems/4e2f6f34-4ab0-42fe-8682-d226e425f85e

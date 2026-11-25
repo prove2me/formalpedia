@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnimodQuot_exists_extension
 -- name    : GlobalTheory.UnimodQuot.exists_extension
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T04:03:02.967077+00:00
 -- url     : https://prove2.me/theorems/44914621-558b-51ed-b9cf-953565c98850

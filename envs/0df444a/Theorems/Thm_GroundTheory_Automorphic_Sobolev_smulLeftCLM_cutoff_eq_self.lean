@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_smulLeftCLM_cutoff_eq_self
 -- name    : GroundTheory.Automorphic.Sobolev.smulLeftCLM_cutoff_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:15:28.228666+00:00
 -- url     : https://prove2.me/theorems/5a9dadb9-6f00-4ca8-8f0d-320fd08b149c

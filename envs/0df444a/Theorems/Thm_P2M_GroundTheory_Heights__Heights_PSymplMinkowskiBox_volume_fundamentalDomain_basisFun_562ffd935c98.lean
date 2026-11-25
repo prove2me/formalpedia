@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplMinkowskiBox_volume_fundamentalDomain_basisFun_562ffd935c98
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplMinkowskiBox_volume_fundamentalDomain_basisFun_562ffd935c98
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T04:14:32.444208+00:00
 -- url     : https://prove2.me/theorems/2aa44475-b0da-4b85-be6e-a7fc01688ac2

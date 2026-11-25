@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_group_measure_from_diagonal
 -- name    : Formalism.FourierDecayAlt.P.group_measure_from_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:38:57.062253+00:00
 -- url     : https://prove2.me/theorems/4fb70649-fdb7-40b0-9706-d4ea33bfc40e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_finite_integralClosure_mvPolynomial_a1f9e8023895
 -- name    : P2M_GroundTheory_Heights__Heights_Model_finite_integralClosure_mvPolynomial_a1f9e8023895
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:29:13.473063+00:00
 -- url     : https://prove2.me/theorems/3d9e74dc-4c68-4808-992e-56c0a0f64a45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RepUniq_isoSpec_hom_fromSpec
 -- name    : GlobalTheory.RepUniq.isoSpec_hom_fromSpec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:55:44.884956+00:00
 -- url     : https://prove2.me/theorems/5920f8ac-5e3f-4a6c-9396-f4e5a69643aa

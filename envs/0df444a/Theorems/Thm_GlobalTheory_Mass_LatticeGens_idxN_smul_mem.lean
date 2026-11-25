@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mass_LatticeGens_idxN_smul_mem
 -- name    : GlobalTheory.Mass.LatticeGens.idxN_smul_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:59:49.79761+00:00
 -- url     : https://prove2.me/theorems/ffcce681-a76e-4d04-a439-696b7718761e

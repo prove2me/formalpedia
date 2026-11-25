@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PSymplTwoRow_twoBlock_mul_transpose_ada040d03966
 -- name    : P2M_GroundTheory_Heights__Heights_PSymplTwoRow_twoBlock_mul_transpose_ada040d03966
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:14:46.756174+00:00
 -- url     : https://prove2.me/theorems/c72c8506-2e2e-4d75-962e-73d61de201b9

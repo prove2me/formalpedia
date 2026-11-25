@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_GroupCoh___cupH_right__2107ab6fbbba
 -- name    : P2M_GroundTheory_GroupCoh___cupH_right__2107ab6fbbba
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T03:55:27.36091+00:00
 -- url     : https://prove2.me/theorems/62ce5d07-825b-4ed5-a3e6-c3917b041d92

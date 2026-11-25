@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_MC_gamma_zero_integral
 -- name    : Formalism.InvariantFactorPaths.MC.gamma_zero_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:03:21.606685+00:00
 -- url     : https://prove2.me/theorems/64f68a6d-4bfc-4287-ac10-c56c41acdfb9

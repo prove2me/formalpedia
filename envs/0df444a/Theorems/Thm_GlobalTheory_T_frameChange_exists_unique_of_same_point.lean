@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_frameChange_exists_unique_of_same_point
 -- name    : GlobalTheory.T.frameChange_exists_unique_of_same_point
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:01:04.673998+00:00
 -- url     : https://prove2.me/theorems/876ca94b-d549-4da4-bbd1-f50fb32faee9

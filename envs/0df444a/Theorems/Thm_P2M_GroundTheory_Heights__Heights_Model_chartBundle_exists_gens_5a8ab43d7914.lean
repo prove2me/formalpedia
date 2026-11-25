@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Model_chartBundle_exists_gens_5a8ab43d7914
 -- name    : P2M_GroundTheory_Heights__Heights_Model_chartBundle_exists_gens_5a8ab43d7914
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:29:01.800496+00:00
 -- url     : https://prove2.me/theorems/499022e4-0878-4c65-b5dc-418d5fe964aa

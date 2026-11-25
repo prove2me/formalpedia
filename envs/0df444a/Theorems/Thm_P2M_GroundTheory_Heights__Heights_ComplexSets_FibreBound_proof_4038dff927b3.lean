@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FibreBound_proof_4038dff927b3
 -- name    : P2M_GroundTheory_Heights__Heights_ComplexSets_FibreBound_proof_4038dff927b3
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:53:02.376857+00:00
 -- url     : https://prove2.me/theorems/09b41727-2e64-4fc9-b462-a3427a0bd7e7

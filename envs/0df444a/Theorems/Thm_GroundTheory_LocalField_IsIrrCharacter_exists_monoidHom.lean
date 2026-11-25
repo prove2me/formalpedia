@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_IsIrrCharacter_exists_monoidHom
 -- name    : GroundTheory.LocalField.IsIrrCharacter.exists_monoidHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:45:27.000705+00:00
 -- url     : https://prove2.me/theorems/c8f65b78-7966-5414-b7ff-91e487c872c1

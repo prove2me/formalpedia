@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_PGaussTermBound_exponent_le_07f83f46813d
 -- name    : P2M_GroundTheory_Heights__Heights_PGaussTermBound_exponent_le_07f83f46813d
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:13:51.459123+00:00
 -- url     : https://prove2.me/theorems/7fd25421-8ae6-4674-ad0c-6df162a217a8

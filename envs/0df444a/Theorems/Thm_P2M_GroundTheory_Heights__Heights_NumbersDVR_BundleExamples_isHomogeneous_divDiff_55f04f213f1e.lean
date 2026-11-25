@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_isHomogeneous_divDiff_55f04f213f1e
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_BundleExamples_isHomogeneous_divDiff_55f04f213f1e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:33:20.421498+00:00
 -- url     : https://prove2.me/theorems/85f58ef7-4f4b-4d00-845b-239187e11c17

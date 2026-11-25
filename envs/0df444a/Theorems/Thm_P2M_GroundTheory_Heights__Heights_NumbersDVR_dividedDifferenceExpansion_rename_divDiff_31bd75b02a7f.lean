@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_dividedDifferenceExpansion_rename_divDiff_31bd75b02a7f
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_dividedDifferenceExpansion_rename_divDiff_31bd75b02a7f
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:16:22.106351+00:00
 -- url     : https://prove2.me/theorems/99f4e9ea-339a-5fbc-b5db-08b7438f47ba
