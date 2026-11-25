@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TubeSummability_hline_diff
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TubeSummability.hline_diff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:17.880712+00:00
 -- url     : https://prove2.me/theorems/c5770d4e-2d08-4525-b443-5445d333f236

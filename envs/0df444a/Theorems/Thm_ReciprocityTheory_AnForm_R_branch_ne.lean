@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_branch_ne
 -- name    : ReciprocityTheory.AnForm.R.branch_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:48:14.950804+00:00
 -- url     : https://prove2.me/theorems/f2f3f9dd-f3ab-4357-9640-49bc292c3aec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingLevels_Rep_theta
 -- name    : GlobalTheory.PairingLevels.Rep.theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:42:03.676568+00:00
 -- url     : https://prove2.me/theorems/7e56ee9f-08ff-4a71-b09b-a6f2c80c7cd1

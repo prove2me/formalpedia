@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_tset_kV
 -- name    : ReciprocityTheory.ChartRestriction.DS.tset_kV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:01:30.576798+00:00
 -- url     : https://prove2.me/theorems/a1472b5e-5196-588a-b280-9880c05680fb

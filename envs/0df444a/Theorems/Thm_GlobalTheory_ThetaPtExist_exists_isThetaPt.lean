@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaPtExist_exists_isThetaPt
 -- name    : GlobalTheory.ThetaPtExist.exists_isThetaPt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:00:24.803478+00:00
 -- url     : https://prove2.me/theorems/c648f3c5-0304-4c2b-b56d-5c4da3863bf5

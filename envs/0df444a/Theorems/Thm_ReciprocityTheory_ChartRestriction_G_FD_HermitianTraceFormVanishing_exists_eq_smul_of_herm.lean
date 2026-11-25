@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_HermitianTraceFormVanishing_exists_eq_smul_of_herm
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.HermitianTraceFormVanishing.exists_eq_smul_of_herm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:17:59.390914+00:00
 -- url     : https://prove2.me/theorems/e724ede8-402d-4f47-a30a-5f2e81755a22

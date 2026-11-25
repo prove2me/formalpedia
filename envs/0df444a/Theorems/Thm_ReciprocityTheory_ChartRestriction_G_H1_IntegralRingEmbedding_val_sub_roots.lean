@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_IntegralRingEmbedding_val_sub_roots
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.IntegralRingEmbedding.val_sub_roots
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:26:01.736523+00:00
 -- url     : https://prove2.me/theorems/526f7256-3874-4c66-9899-6328d1246f1a

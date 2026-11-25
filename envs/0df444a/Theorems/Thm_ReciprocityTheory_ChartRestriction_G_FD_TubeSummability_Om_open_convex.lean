@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TubeSummability_Om_open_convex
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TubeSummability.Om_open_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:02.413277+00:00
 -- url     : https://prove2.me/theorems/513460c2-096b-4a6f-b60a-21c34a40ebe9

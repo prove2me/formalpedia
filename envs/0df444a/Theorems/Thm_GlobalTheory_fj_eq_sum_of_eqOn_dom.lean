@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_fj_eq_sum_of_eqOn_dom
 -- name    : GlobalTheory.fj_eq_sum_of_eqOn_dom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T02:56:09.417829+00:00
 -- url     : https://prove2.me/theorems/98f445bf-aeff-435a-872c-444c0e478665

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_ne_zero_of_gen
 -- name    : PositivityTheory.KReal.ne_zero_of_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:03:32.457953+00:00
 -- url     : https://prove2.me/theorems/2944db56-0f31-58a3-b21d-feabed3ee10a

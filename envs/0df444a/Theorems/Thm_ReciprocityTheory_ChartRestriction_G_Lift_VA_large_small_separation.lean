@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_large_small_separation
 -- name    : ReciprocityTheory.ChartRestriction.G.Lift.VA.large_small_separation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:31:29.272824+00:00
 -- url     : https://prove2.me/theorems/37cf9c1d-80ce-4c51-a87d-ec2176d1022f

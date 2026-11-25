@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_chiTr_Eab
 -- name    : PositivityTheory.KReal.chiTr_Eab
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:03:57.975452+00:00
 -- url     : https://prove2.me/theorems/99a6300c-c6b4-4733-a64d-9508c145fb09

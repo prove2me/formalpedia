@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_gramPos_posDef
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.gramPos_posDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:34:40.630962+00:00
 -- url     : https://prove2.me/theorems/f9abee8d-e2a4-4a96-86a9-6e999f1b2022

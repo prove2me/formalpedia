@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_fderiv_logFs_eventuallyEq
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.fderiv_logFs_eventuallyEq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:23:12.3408+00:00
 -- url     : https://prove2.me/theorems/afe58404-9e40-532d-9a3c-e3ccf76fbb85

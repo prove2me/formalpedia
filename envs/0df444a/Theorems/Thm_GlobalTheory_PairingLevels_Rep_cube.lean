@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairingLevels_Rep_cube
 -- name    : GlobalTheory.PairingLevels.Rep.cube
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:35:15.78057+00:00
 -- url     : https://prove2.me/theorems/3e0060ff-7461-4c77-a9dc-4fdb569e77b0

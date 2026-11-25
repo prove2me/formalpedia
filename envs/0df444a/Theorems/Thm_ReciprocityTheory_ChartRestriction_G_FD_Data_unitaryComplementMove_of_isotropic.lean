@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_unitaryComplementMove_of_isotropic
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.unitaryComplementMove_of_isotropic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:12:04.965432+00:00
 -- url     : https://prove2.me/theorems/a32c5e6d-4f09-52cf-a088-98fc2a906087

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_invOp
 -- name    : PositivityTheory.Rg.Sw.LC.invOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T05:49:20.224798+00:00
 -- url     : https://prove2.me/theorems/befec8d3-a28d-47e4-8949-e663faee3401

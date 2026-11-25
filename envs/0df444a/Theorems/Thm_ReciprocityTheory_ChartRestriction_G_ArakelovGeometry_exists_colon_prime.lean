@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_exists_colon_prime
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_colon_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:05:05.3828+00:00
 -- url     : https://prove2.me/theorems/55d9d70e-c039-5ae4-bb3d-6d6b0ff2c0dc

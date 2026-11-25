@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_fa1Rot_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.fa1Rot_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:29:19.6058+00:00
 -- url     : https://prove2.me/theorems/61ff5bc2-d037-4fc1-9d48-85fb73741a61

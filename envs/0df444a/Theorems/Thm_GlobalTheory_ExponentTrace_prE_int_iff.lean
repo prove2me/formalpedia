@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExponentTrace_prE_int_iff
 -- name    : GlobalTheory.ExponentTrace.prE_int_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T19:35:29.359812+00:00
 -- url     : https://prove2.me/theorems/6daa32ba-9866-4537-9a15-04514f24b74c

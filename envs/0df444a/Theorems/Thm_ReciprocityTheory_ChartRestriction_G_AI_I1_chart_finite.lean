@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_chart_finite
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.chart_finite
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:30.761391+00:00
 -- url     : https://prove2.me/theorems/6f3039fc-1ccc-49b6-95fd-094dd0faa74a

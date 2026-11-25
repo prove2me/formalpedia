@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_ct_avg_trans
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.ct_avg_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:29:30.400802+00:00
 -- url     : https://prove2.me/theorems/a2847336-1f01-44ef-8de6-2c855b7aba1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_UUA_cubN_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.UUA.cubN_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:12:25.073342+00:00
 -- url     : https://prove2.me/theorems/c3339505-1a33-4d9e-b37c-837a8cb2cbf0

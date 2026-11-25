@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_smul_mem_differentIdeal
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.smul_mem_differentIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:33:30.438143+00:00
 -- url     : https://prove2.me/theorems/b12cae23-0105-4f27-ad7f-8fb1f536d338

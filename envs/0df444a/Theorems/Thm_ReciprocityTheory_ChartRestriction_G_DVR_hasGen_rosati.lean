@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_hasGen_rosati
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.hasGen_rosati
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:09.425244+00:00
 -- url     : https://prove2.me/theorems/2950b9a8-6f3d-4789-b652-e91665e8ef89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_quotientMap_bijective_of_loc
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.quotientMap_bijective_of_loc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:29:51.741064+00:00
 -- url     : https://prove2.me/theorems/cda56706-f561-55bf-89e5-26b203356a31

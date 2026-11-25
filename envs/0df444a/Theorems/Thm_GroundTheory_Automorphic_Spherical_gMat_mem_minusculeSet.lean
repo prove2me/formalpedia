@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_gMat_mem_minusculeSet
 -- name    : GroundTheory.Automorphic.Spherical.gMat_mem_minusculeSet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:36:08.97785+00:00
 -- url     : https://prove2.me/theorems/9973d55a-867d-5002-be57-d9faba0990bc

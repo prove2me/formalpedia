@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_fa1Mono_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.fa1Mono_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:29:25.617845+00:00
 -- url     : https://prove2.me/theorems/ddeeab3e-e7f2-5d32-bca3-a5abbc81c6de

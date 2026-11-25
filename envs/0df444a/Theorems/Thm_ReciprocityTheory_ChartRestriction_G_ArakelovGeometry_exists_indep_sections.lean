@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_exists_indep_sections
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_indep_sections
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:12:36.245684+00:00
 -- url     : https://prove2.me/theorems/098e2690-8a21-4412-972c-e59953c9ff6d

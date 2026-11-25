@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Spherical_det_submatrix_tailEmb
 -- name    : GroundTheory.Automorphic.Spherical.det_submatrix_tailEmb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:27:45.709804+00:00
 -- url     : https://prove2.me/theorems/476b281e-4bf7-51c9-ae71-93f404414318

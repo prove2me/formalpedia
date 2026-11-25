@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_compSt
 -- name    : PositivityTheory.Rg.Sw.LC.compSt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T05:49:18.084615+00:00
 -- url     : https://prove2.me/theorems/3fae9f4f-6968-4747-b91b-c096782306fa

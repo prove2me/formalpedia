@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_ClosedPointWeilPower_top_of_closedPoint
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.ClosedPointWeilPower.top_of_closedPoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:26:32.908866+00:00
 -- url     : https://prove2.me/theorems/5e05d12c-43a2-40ca-a8e5-7074d53557e9

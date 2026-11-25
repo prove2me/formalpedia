@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_symGen_isGen
 -- name    : GlobalTheory.SymLiftOdd.symGen_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:04:46.950278+00:00
 -- url     : https://prove2.me/theorems/4a364a39-c2fb-4283-ac8c-13dbebb98858

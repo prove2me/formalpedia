@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_normalisation_adjoin_finset_dvr
 -- name    : GlobalTheory.exists_normalisation_adjoin_finset_dvr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:05:54.676962+00:00
 -- url     : https://prove2.me/theorems/9baee433-71da-470c-9de9-b910f3ef21ed

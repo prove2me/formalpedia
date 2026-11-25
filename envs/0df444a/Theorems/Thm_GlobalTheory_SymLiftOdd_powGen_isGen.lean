@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_powGen_isGen
 -- name    : GlobalTheory.SymLiftOdd.powGen_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:07.723656+00:00
 -- url     : https://prove2.me/theorems/22b7c75a-de11-4d32-9aac-19bc3e915f6c

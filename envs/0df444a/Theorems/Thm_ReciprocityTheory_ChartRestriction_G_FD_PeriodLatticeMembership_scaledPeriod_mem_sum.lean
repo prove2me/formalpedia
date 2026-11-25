@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodLatticeMembership_scaledPeriod_mem_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodLatticeMembership.scaledPeriod_mem_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:22:59.069236+00:00
 -- url     : https://prove2.me/theorems/cff297ec-8764-5fb7-b673-6783d912a113

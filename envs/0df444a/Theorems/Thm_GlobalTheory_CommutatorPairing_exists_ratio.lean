@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPairing_exists_ratio
 -- name    : GlobalTheory.CommutatorPairing.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:35:37.068636+00:00
 -- url     : https://prove2.me/theorems/fe83b95c-1334-46a2-9601-5aa5956f58ee

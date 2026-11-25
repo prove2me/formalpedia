@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_sign_col
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.sign_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:31:03.203872+00:00
 -- url     : https://prove2.me/theorems/7a908f6a-4b0a-4975-99db-95a242c3aa3c

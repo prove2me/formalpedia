@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_QHolo_qholo
 -- name    : GlobalTheory.QHolo.qholo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T19:04:27.156309+00:00
 -- url     : https://prove2.me/theorems/92189e00-bb9e-484a-a64d-44c1ce51c332

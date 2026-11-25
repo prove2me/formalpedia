@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapPs_chainH_succ
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapPs.chainH_succ
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:04:59.349459+00:00
 -- url     : https://prove2.me/theorems/e3b6e7ff-c281-5b70-a5cb-6f77d0c799bc

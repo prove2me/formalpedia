@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_FrequencyIndexing_eq__k_307b28da5f4e
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_FrequencyIndexing_eq__k_307b28da5f4e
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:18:36.393789+00:00
 -- url     : https://prove2.me/theorems/b0084931-de32-4f4e-b6df-b2801bb37e8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAct_exists_mul
 -- name    : GlobalTheory.ThetaAct.exists_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:02:06.281144+00:00
 -- url     : https://prove2.me/theorems/0126e874-3d3b-4d9e-8e3e-723e5a33b8e7

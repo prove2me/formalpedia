@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_star_inj_quot
 -- name    : PositivityTheory.KReal.star_inj_quot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:07:32.023383+00:00
 -- url     : https://prove2.me/theorems/11f7e11c-4c24-5370-8961-4deec0998b18

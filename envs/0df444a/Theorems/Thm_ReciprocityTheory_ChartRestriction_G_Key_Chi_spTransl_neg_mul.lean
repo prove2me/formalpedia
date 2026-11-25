@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_spTransl_neg_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.spTransl_neg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:31:17.09356+00:00
 -- url     : https://prove2.me/theorems/9e5ed5b2-9ba8-5e35-9df6-9c2fd2fedb33

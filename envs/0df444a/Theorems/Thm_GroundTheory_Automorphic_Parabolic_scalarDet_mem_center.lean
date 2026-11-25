@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_scalarDet_mem_center
 -- name    : GroundTheory.Automorphic.Parabolic.scalarDet_mem_center
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:24.18536+00:00
 -- url     : https://prove2.me/theorems/6798d1ed-0ed7-584b-9fec-c06135b2584e

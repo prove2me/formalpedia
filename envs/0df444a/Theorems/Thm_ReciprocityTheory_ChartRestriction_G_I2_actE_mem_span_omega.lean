@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_actE_mem_span_omega
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.actE_mem_span_omega
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:27:47.188009+00:00
 -- url     : https://prove2.me/theorems/6b23ab0f-2729-4794-86ff-dc418d72144c

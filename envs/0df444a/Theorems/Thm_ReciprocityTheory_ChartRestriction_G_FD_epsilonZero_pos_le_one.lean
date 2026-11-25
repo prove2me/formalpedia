@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_epsilonZero_pos_le_one
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.epsilonZero_pos_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:23:47.584382+00:00
 -- url     : https://prove2.me/theorems/e3802bbb-282e-5340-90f2-9d96d34f3dd8

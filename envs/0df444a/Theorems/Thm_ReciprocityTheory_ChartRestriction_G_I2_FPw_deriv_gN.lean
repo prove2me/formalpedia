@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_FPw_deriv_gN
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.FPw.deriv_gN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:32:03.137072+00:00
 -- url     : https://prove2.me/theorems/d757f03b-102d-5a04-bf8a-ef119beee480

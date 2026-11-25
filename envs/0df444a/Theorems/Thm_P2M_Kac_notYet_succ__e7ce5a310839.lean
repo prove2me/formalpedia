@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Kac_notYet_succ__e7ce5a310839
 -- name    : P2M_Kac_notYet_succ__e7ce5a310839
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:04:36.384904+00:00
 -- url     : https://prove2.me/theorems/cdc20d82-a68b-46be-96b3-720bfc14305a

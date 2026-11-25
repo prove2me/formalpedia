@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PoincareAssembly_isOrth_lact
 -- name    : GlobalTheory.PoincareAssembly.isOrth_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T02:49:35.017553+00:00
 -- url     : https://prove2.me/theorems/ae88d0e2-3250-5bd4-a748-6dd03362047b

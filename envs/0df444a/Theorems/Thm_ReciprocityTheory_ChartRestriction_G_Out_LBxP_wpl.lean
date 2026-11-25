@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_LBxP_wpl
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.LBxP.wpl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:37:16.420124+00:00
 -- url     : https://prove2.me/theorems/ddff9916-675d-47b9-b755-4099cf544663

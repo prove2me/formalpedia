@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_coe_scalarDet
 -- name    : GroundTheory.Automorphic.Parabolic.coe_scalarDet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:09:18.889637+00:00
 -- url     : https://prove2.me/theorems/cf5c455a-5eb1-50dc-8a23-80c895c9bb47

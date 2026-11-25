@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_star_casK_mem
 -- name    : PositivityTheory.KReal.star_casK_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:07:27.272572+00:00
 -- url     : https://prove2.me/theorems/97f106e3-5b34-5491-81b4-18246c6e91ea

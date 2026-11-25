@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_im_eq_zero_of_lt
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.im_eq_zero_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:30:09.407668+00:00
 -- url     : https://prove2.me/theorems/32176f5f-303d-529e-9359-35fae3b808ef

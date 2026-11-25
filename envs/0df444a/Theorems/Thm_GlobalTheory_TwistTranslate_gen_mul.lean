@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TwistTranslate_gen_mul
 -- name    : GlobalTheory.TwistTranslate.gen_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:13:51.288849+00:00
 -- url     : https://prove2.me/theorems/798e1556-0fcf-4d47-8b50-7261517d1a0c

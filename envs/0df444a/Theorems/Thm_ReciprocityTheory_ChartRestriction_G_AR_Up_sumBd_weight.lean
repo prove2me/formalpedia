@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_weight
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_weight
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:32:57.855205+00:00
 -- url     : https://prove2.me/theorems/706f5bbb-edf9-4851-8dc5-c6f3b904b1b8

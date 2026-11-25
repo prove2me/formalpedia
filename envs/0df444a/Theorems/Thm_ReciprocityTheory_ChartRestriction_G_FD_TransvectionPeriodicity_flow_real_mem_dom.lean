@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TransvectionPeriodicity_flow_real_mem_dom
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TransvectionPeriodicity.flow_real_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:30.998829+00:00
 -- url     : https://prove2.me/theorems/1d8a2a8c-3273-4c7e-ab24-3545744b5cd3

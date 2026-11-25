@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_conjugate_ne
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.conjugate_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:28:42.381014+00:00
 -- url     : https://prove2.me/theorems/ea852a37-bba4-42fe-8f42-be89f163273e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpleGraph_exists_cliqueNum_eq_two_chromaticNumber_eq
 -- name    : SimpleGraph.exists_cliqueNum_eq_two_chromaticNumber_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:00:51.122043+00:00
 -- url     : https://prove2.me/theorems/012b9057-d8f7-460e-91d7-de9ae4df4d51

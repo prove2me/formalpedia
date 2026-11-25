@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_CubePf_CubeCoordinateSums_swapFirstTwo_fiber_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.CubePf.CubeCoordinateSums.swapFirstTwo_fiber_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:36:55.617685+00:00
 -- url     : https://prove2.me/theorems/ac46b38b-7b8e-5d1e-8d39-7b4fea0555bb

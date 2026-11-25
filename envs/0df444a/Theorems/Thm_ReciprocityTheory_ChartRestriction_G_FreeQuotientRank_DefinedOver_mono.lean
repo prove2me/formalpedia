@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_DefinedOver_mono
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.DefinedOver.mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:28:40.180984+00:00
 -- url     : https://prove2.me/theorems/d23aff48-2b88-45f8-acde-b36a97e677d8

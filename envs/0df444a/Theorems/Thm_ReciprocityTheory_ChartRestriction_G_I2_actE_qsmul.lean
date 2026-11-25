@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_actE_qsmul
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.actE_qsmul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:27:44.115791+00:00
 -- url     : https://prove2.me/theorems/c6d9cd2f-977c-49d0-b0e7-66fd23c08e28

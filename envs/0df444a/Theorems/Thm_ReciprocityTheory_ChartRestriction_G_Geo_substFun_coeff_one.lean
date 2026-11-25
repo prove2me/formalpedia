@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_substFun_coeff_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.substFun_coeff_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:25:08.896317+00:00
 -- url     : https://prove2.me/theorems/2a1a56ea-60cb-547e-99a3-340a9ccfbe6b

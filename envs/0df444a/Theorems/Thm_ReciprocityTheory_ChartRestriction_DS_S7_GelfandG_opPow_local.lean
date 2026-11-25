@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GelfandG_opPow_local
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GelfandG.opPow_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:08:49.58395+00:00
 -- url     : https://prove2.me/theorems/e06328e6-cabb-5551-bd8d-1b8ddd0b2eae

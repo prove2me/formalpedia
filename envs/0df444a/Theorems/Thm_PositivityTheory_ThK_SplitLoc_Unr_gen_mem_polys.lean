@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_gen_mem_polys
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.gen_mem_polys
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T06:06:23.495808+00:00
 -- url     : https://prove2.me/theorems/a3d279ec-aa21-45dd-9475-f612bf22f3f2

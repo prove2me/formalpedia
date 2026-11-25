@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_counting_exponential_sum_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.counting_exponential_sum_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:21:10.937824+00:00
 -- url     : https://prove2.me/theorems/0e7410a5-6f6c-4e11-9afb-eef24ad4d1a9

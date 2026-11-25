@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExF_det_gramPos
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExF.det_gramPos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:57:00.326021+00:00
 -- url     : https://prove2.me/theorems/1a6c09fa-c7a7-4451-b6fd-cd94a31f0c97

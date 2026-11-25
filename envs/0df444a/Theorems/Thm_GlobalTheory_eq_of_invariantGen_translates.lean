@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_eq_of_invariantGen_translates
 -- name    : GlobalTheory.eq_of_invariantGen_translates
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:17:43.286752+00:00
 -- url     : https://prove2.me/theorems/87d6a0ba-86a5-4471-883d-6f796846065f

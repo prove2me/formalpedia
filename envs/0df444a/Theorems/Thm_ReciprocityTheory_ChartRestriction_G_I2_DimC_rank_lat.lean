@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimC_rank_lat
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimC.rank_lat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:27:42.376178+00:00
 -- url     : https://prove2.me/theorems/4178e6db-21af-48fb-b4f2-90ec792225da

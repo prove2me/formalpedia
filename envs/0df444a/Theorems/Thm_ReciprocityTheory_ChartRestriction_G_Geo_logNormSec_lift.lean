@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_logNormSec_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.logNormSec_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:24:17.324169+00:00
 -- url     : https://prove2.me/theorems/4f1c9d9b-c044-5bd1-8677-6422c8b09226

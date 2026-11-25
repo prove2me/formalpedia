@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_card_pos_le
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.card_pos_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:30:44.977948+00:00
 -- url     : https://prove2.me/theorems/50a6d467-3a5a-5edc-bd7d-f2ed202bf6f6

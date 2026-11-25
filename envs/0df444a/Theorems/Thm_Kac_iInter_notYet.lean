@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_iInter_notYet
 -- name    : Kac.iInter_notYet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:04:15.473811+00:00
 -- url     : https://prove2.me/theorems/fa7d9746-2a3f-5cd3-82ae-3e4f72664395

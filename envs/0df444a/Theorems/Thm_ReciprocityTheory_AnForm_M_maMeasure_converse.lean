@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_maMeasure_converse
 -- name    : ReciprocityTheory.AnForm.M.maMeasure_converse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:32:50.515821+00:00
 -- url     : https://prove2.me/theorems/a740bb74-47ac-5c22-a54f-5ec6c2b28574

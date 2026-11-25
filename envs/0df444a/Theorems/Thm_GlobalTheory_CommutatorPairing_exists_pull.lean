@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommutatorPairing_exists_pull
 -- name    : GlobalTheory.CommutatorPairing.exists_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:36:06.315077+00:00
 -- url     : https://prove2.me/theorems/4028490d-6e1b-4a1c-98ce-475f24914522

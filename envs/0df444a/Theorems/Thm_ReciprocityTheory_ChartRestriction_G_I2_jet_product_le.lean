@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_jet_product_le
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.jet_product_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:28:45.156324+00:00
 -- url     : https://prove2.me/theorems/7bef53cf-8ef3-5d3c-8b42-2a28dea838c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeFormCompare_proof_7cb0acb45373
 -- name    : P2M_GroundTheory_Heights__Heights_TubeFormCompare_proof_7cb0acb45373
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:10:21.980279+00:00
 -- url     : https://prove2.me/theorems/188452c8-e880-4e42-bd2c-2a0225e9d92f

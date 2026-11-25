@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_owner_none_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.owner_none_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:56.3364+00:00
 -- url     : https://prove2.me/theorems/f4cdc29e-0080-4440-85b7-9a633dd9ab7b

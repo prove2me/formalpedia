@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_Gp_np
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.Gp_np
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:21:05.312115+00:00
 -- url     : https://prove2.me/theorems/9fb2c73e-3204-57ea-8420-25fcadef39d6

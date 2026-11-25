@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_weylK_shift
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.weylK_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T14:28:59.880168+00:00
 -- url     : https://prove2.me/theorems/23351067-c3bf-4cb7-8e42-b0fda20444d8

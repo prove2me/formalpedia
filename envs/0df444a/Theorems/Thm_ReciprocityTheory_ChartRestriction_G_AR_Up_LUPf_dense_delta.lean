@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUPf_dense_delta
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUPf.dense_delta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:00:16.266142+00:00
 -- url     : https://prove2.me/theorems/12c2f0ca-9807-5f36-9be9-2c7b5b9fa279

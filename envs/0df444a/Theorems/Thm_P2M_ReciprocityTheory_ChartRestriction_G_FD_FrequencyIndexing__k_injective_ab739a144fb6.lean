@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_FrequencyIndexing__k_injective_ab739a144fb6
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_FrequencyIndexing__k_injective_ab739a144fb6
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:18:07.250088+00:00
 -- url     : https://prove2.me/theorems/49c5b70c-2e08-456a-be91-98f3c95716f3

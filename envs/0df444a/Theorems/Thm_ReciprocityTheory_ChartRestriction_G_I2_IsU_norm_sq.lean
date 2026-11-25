@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_IsU_norm_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.IsU.norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:28:36.176834+00:00
 -- url     : https://prove2.me/theorems/f48d9be8-f991-5f0f-b03b-24beb6cc76ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Inst_CurvPf_diagonal_curvature_coefficient
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Inst.CurvPf.diagonal_curvature_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:55:34.114143+00:00
 -- url     : https://prove2.me/theorems/11ae91c2-3756-5a43-957f-51d556b13475

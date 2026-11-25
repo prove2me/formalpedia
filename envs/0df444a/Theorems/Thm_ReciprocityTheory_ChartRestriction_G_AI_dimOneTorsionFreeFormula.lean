@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_dimOneTorsionFreeFormula
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.dimOneTorsionFreeFormula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:55.651597+00:00
 -- url     : https://prove2.me/theorems/5cf52562-316f-43b5-b1a2-5503cadf02cd

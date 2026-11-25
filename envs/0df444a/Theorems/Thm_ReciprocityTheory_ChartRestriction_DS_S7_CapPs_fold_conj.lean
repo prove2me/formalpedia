@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapPs_fold_conj
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapPs.fold_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:04:27.920491+00:00
 -- url     : https://prove2.me/theorems/41e7dfcf-f36a-5d20-88c3-755053bd20cd

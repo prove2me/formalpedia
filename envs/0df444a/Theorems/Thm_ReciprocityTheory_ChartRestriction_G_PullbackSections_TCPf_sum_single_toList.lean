@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_TCPf_sum_single_toList
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.TCPf.sum_single_toList
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:33:37.588222+00:00
 -- url     : https://prove2.me/theorems/70215516-f855-459a-8db7-1934fbbf9ca4

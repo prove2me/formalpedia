@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_sum_mul_pow_div_eq_one
 -- name    : GlobalTheory.exists_sum_mul_pow_div_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:05:00.68105+00:00
 -- url     : https://prove2.me/theorems/3f9e23ac-aab7-4a06-a1e7-dcce6a91f754

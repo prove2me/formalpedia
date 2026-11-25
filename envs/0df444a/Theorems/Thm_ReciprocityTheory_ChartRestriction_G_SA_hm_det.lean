@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_hm_det
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.hm_det
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:44.5801+00:00
 -- url     : https://prove2.me/theorems/8ee2c8cc-694e-4d97-92e1-76a97167ffd7

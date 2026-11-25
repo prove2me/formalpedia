@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_discriminantNormShapes_orbitCount_of_lift
 -- name    : Formalism.L2.SG.Pf.discriminantNormShapes.orbitCount_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T11:10:24.936303+00:00
 -- url     : https://prove2.me/theorems/4b0c8c60-5027-46be-a1bb-5a9439e8b2c0

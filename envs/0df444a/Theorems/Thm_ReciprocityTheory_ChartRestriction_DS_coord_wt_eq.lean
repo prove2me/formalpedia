@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_coord_wt_eq
 -- name    : ReciprocityTheory.ChartRestriction.DS.coord_wt_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T09:50:29.945718+00:00
 -- url     : https://prove2.me/theorems/617474c6-b5e2-4325-8e60-e0862d006467

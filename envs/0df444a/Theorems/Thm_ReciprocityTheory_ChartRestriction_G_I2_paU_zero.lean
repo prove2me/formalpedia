@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_paU_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.paU_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:36:43.787369+00:00
 -- url     : https://prove2.me/theorems/7ed37e17-118d-48f9-8126-bce89ede08b2

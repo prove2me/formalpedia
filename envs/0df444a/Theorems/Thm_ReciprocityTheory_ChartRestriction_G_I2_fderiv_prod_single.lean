@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_fderiv_prod_single
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.fderiv_prod_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:30:27.116152+00:00
 -- url     : https://prove2.me/theorems/5a862947-3abf-548a-b71d-1daee119b8d2

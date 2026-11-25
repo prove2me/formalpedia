@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_count_span_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.count_span_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:32:59.395202+00:00
 -- url     : https://prove2.me/theorems/b505821f-a149-4e39-8c17-b62c97f3a825

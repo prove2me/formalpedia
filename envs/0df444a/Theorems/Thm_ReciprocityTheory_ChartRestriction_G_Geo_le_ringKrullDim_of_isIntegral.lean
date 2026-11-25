@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_le_ringKrullDim_of_isIntegral
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.le_ringKrullDim_of_isIntegral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:31:49.926735+00:00
 -- url     : https://prove2.me/theorems/b3adc315-be02-4d7f-a3d0-647dad0cda6e

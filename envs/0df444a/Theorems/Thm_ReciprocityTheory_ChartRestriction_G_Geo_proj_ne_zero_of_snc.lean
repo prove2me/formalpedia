@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_proj_ne_zero_of_snc
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.proj_ne_zero_of_snc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:27:08.716981+00:00
 -- url     : https://prove2.me/theorems/d19b2bb2-24f9-4c60-a74b-b012209d5dd2

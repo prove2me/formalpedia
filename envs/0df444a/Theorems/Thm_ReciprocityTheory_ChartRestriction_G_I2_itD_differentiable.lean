@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_itD_differentiable
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.itD_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:29:25.586902+00:00
 -- url     : https://prove2.me/theorems/8fa95851-9470-54b7-96c6-4794c479d330

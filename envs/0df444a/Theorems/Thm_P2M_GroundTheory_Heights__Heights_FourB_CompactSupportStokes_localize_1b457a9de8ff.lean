@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_CompactSupportStokes_localize_1b457a9de8ff
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_CompactSupportStokes_localize_1b457a9de8ff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T03:34:48.227273+00:00
 -- url     : https://prove2.me/theorems/bb8e6211-bf0c-48a4-85da-384b31f612cb

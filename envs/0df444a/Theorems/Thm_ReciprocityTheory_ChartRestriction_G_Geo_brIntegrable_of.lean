@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_brIntegrable_of
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.brIntegrable_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:18.095259+00:00
 -- url     : https://prove2.me/theorems/f02da135-8ee5-5121-ac6b-379058ce0230

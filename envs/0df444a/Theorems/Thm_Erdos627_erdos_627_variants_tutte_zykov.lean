@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos627_erdos_627_variants_tutte_zykov
 -- name    : Erdos627.erdos_627.variants.tutte_zykov
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:07:12.875486+00:00
 -- url     : https://prove2.me/theorems/f8565950-24b3-43cb-81e2-204c6a3355a3

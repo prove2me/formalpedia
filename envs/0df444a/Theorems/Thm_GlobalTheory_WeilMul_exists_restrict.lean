@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilMul_exists_restrict
 -- name    : GlobalTheory.WeilMul.exists_restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T21:56:10.313901+00:00
 -- url     : https://prove2.me/theorems/f26066b6-a8ea-4698-a996-3a8690764b18

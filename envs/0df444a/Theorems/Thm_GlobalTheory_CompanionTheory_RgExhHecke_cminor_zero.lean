@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_cminor_zero
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.cminor_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:48:33.890074+00:00
 -- url     : https://prove2.me/theorems/86f669fd-7422-5c26-8805-54b7a6efc800

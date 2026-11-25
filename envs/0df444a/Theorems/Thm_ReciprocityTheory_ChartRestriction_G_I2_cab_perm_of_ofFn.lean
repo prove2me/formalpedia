@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_cab_perm_of_ofFn
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.cab_perm_of_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:29:27.842867+00:00
 -- url     : https://prove2.me/theorems/9c86d19e-5cda-54e6-91ba-3758c42c5ea6

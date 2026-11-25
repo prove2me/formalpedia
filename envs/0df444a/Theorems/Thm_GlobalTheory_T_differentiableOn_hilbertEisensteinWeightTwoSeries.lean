@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_differentiableOn_hilbertEisensteinWeightTwoSeries
 -- name    : GlobalTheory.T.differentiableOn_hilbertEisensteinWeightTwoSeries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:32:17.370688+00:00
 -- url     : https://prove2.me/theorems/78ebc548-eece-4a78-b699-178d5814a2bf

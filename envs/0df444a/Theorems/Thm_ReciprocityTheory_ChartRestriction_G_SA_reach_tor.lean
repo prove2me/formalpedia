@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_reach_tor
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.reach_tor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:59.617871+00:00
 -- url     : https://prove2.me/theorems/54c2695f-5d17-46ae-8bbd-bcedb64a031b

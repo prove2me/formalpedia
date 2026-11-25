@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_torus_std
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.torus_std
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:26:37.488168+00:00
 -- url     : https://prove2.me/theorems/fc880263-18d9-5893-a122-f302a16ec95f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_FlatBC_exists_glue
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.FlatBC.exists_glue
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:10:20.6978+00:00
 -- url     : https://prove2.me/theorems/d009c005-aa04-5a88-9c10-3ff4f123768c

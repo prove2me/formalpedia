@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_chartMeasure_finite
 -- name    : ReciprocityTheory.AnForm.M.chartMeasure_finite
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:19:33.302578+00:00
 -- url     : https://prove2.me/theorems/5522938c-1dc9-572c-82bd-e589a3e08601

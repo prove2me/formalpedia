@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Col_uc_sep
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Col.uc_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:27:02.130807+00:00
 -- url     : https://prove2.me/theorems/19f092a2-f958-5bef-9192-4adef9abae4b

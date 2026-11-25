@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_ct_degree_toFinsupp_ofFn
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.ct_degree_toFinsupp_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:29:13.16211+00:00
 -- url     : https://prove2.me/theorems/9b141979-69d8-47e6-ad7a-038553de9a54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantOperators_ucomp_of_mem
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantOperators.ucomp_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:19:08.900741+00:00
 -- url     : https://prove2.me/theorems/eca14fae-0e30-55c9-b66e-4f6f07a6765e

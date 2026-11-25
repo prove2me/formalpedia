@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_F6ConvexWindow_totalAntichains_le_48
 -- name    : F6ConvexWindow.totalAntichains_le_48
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T09:40:40.919362+00:00
 -- url     : https://prove2.me/theorems/4c0f31c5-7355-5053-85ad-2f4c5aa868d5

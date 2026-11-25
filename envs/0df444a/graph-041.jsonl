@@ -286,9 +286,9 @@
 {"parent": "GlobalTheory.CosetCrit.norm_txT_le", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_TxCosetCriterion", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CosetCrit.norm_txT_le", "child": "Development_AbelianVarietyTheory_Proofs_DegenerationProofs_ThetaConstantTermRepresentativeDependenceStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CosetCrit.norm_txT_le", "child": "Development_AbelianVarietyTheory_Definitions_Degenerations_SepticCharacterInjective", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FD.MajorantFamilyNorms.maj_flow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_MajorantFamilyNorms", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FD.MajorantFamilyNorms.maj_flow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_ModerateCoefficientPositivity", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FD.MajorantFamilyNorms.maj_flow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_GramFlowTransform", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FD.MajorantFamilyNorms.maj_flow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_MajorantFamilyNorms", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FD.MajorantFamilyNorms.maj_flow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_ModerateCoefficientPositivity", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FD.MajorantFamilyNorms.maj_flow", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FundamentalDomains_GramFlowTransform", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.fsLp_apply", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_FsMetricFinIsSemipositive", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.fsLp_apply", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_IsSemipositiveOn", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.ldlat_isWH_map", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDlatLemmas", "via": ["solution", "statement"]}
@@ -320,9 +320,9 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_isParam", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_AParamSt", "via": ["statement"]}
 {"parent": "GlobalTheory.IndefiniteRowSideFullHecke.CompletedLStripBounds.archFactor_two_mul", "child": "Development_AbelianVarietyTheory_Definitions_Divisors_IsFinSetSplitPlacesCoprimeConductor", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.IndefiniteRowSideFullHecke.CompletedLStripBounds.archFactor_two_mul", "child": "Development_AbelianVarietyTheory_BlockTheory_DivisorBase_CompletedLStripBounds", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.DVR.hasGen_rosati", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_CartesianLiftThreeCompProjection", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.DVR.hasGen_rosati", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_RosatiAdj", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.DVR.hasGen_rosati", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_HasGen", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.DVR.hasGen_rosati", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_CartesianLiftThreeCompProjection", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.DVR.hasGen_rosati", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_RosatiAdj", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.DVR.hasGen_rosati", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_HasGen", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.maDens_congr", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterRedA", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.maDens_congr", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterRes", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.PGsh.cayOp_linSub", "child": "ReciprocityTheory_DualLattices_FischerAdjointStatement", "via": ["statement"]}
@@ -416,8 +416,8 @@
 {"parent": "Formalism.HN.rescaleCovol", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DualPl", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.rescaleCovol", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.rescaleCovol", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_HtGram", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_indep_sections", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_EqZeroOfSecTraceMulEqZero", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_indep_sections", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_XZeroPowDvdOfIsHomogeneousAeval", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_indep_sections", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_EqZeroOfSecTraceMulEqZero", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.exists_indep_sections", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_XZeroPowDvdOfIsHomogeneousAeval", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.lhwline_pivot_ne", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.lhwline_pivot_ne", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwrowLemmas", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.lhwline_pivot_ne", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["solution", "statement"]}
@@ -956,9 +956,9 @@
 {"parent": "Formalism.HN.place_part_orthogonal", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.place_part_orthogonal", "child": "Formalism_HarderNarasimhan_StatementPl", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.place_part_orthogonal", "child": "Formalism_HarderNarasimhan_DefsPl", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.jAut_spDiag_inv", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_SubConjTransposeOfSymm", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.jAut_spDiag_inv", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_OfRealVecHalfVec", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.jAut_spDiag_inv", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_GenBase", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.jAut_spDiag_inv", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_SubConjTransposeOfSymm", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.jAut_spDiag_inv", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_OfRealVecHalfVec", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Key.Chi.jAut_spDiag_inv", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SymplecticGenerators_SymplecticCharacters_GenBase", "via": ["solution", "statement"]}
 {"parent": "Formalism.HC.Der.rd_le", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_InertiaGaloisSymmetry_RdBound", "via": ["solution", "statement"]}
 {"parent": "Formalism.HC.Der.rd_le", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_InertiaGaloisSymmetry_DvdDiscrOfInertia", "via": ["solution", "statement"]}
 {"parent": "Formalism.HC.Der.rd_le", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_InertiaGaloisSymmetry_DecompTypeI", "via": ["solution", "statement"]}
@@ -1577,8 +1577,8 @@
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.DimF.height_eq_of_isMaximal_int", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterGoodA", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.DimF.height_eq_of_isMaximal_int", "child": "ReciprocityTheory_CommutativeAlgebra_SaturatedChains_RingKrullDimLocalizationQuotientEqHeight", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.exists_gt_of_comap_int_eq_bot", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterGoodA", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_sum", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_SumBoundStatementPfB", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_sum", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_SumBoundStatementPfC", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_sum", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_SumBoundStatementPfB", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_sum", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_SumBoundStatementPfC", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_homog_zero_fd50f88d740d", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_FderivFderivLogRho", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_homog_zero_fd50f88d740d", "child": "GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_FirstPointNeSecondPoint", "via": ["solution", "statement"]}
 {"parent": "P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_HilbertSamuel_P1_homog_zero_fd50f88d740d", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_LemCone", "via": ["solution", "statement"]}
@@ -2083,9 +2083,9 @@
 {"parent": "Formalism.GradedWeylDivisibility.rowDiv_homog", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LRowdivLemmas", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.rowDiv_homog", "child": "Formalism_GradedWeylDivisibility_StatementA", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.rowDiv_homog", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_RowDivStable", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.detCT_ne_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_QCoreH", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.detCT_ne_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_LocalQuotientRank", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.detCT_ne_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_FreeQuotPf", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.detCT_ne_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_QCoreH", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.detCT_ne_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_LocalQuotientRank", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.detCT_ne_zero", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_FreeQuotPf", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.DualPolygon.realize_eval", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.DualPolygon.realize_eval", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.DualPolygon.realize_eval", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermodZ", "via": ["solution", "statement"]}
@@ -2110,10 +2110,10 @@
 {"parent": "EisTube.gaussInt", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_ContourShiftParametrisedIntegralStatement", "via": ["solution", "statement"]}
 {"parent": "EisTube.gaussInt", "child": "GlobalTheory.CompanionTheory.EisTube.gaussInt", "via": ["statement"]}
 {"parent": "EisTube.gaussInt", "child": "Development_AutomorphicSpectrum_Proofs_BlockDecomposition_GaussianIntegrableFiniteDimStatement", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridgeL", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridgeK", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridgeE", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB", "child": "ReciprocityTheory_AnalyticForms_AnalyticCharts_NullZero", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridgeL", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridgeK", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterBridgeE", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.isOpen_chart_notB", "child": "ReciprocityTheory_AnalyticForms_AnalyticCharts_NullZero", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.lhwline_eval_colAdd", "child": "Formalism_GradedWeylDivisibility_StatementB", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.lhwline_eval_colAdd", "child": "Formalism_GradedWeylDivisibility_FockSpaceTableaux_LHwrowLemmas", "via": ["solution", "statement"]}
 {"parent": "Formalism.GradedWeylDivisibility.lhwline_eval_colAdd", "child": "Formalism_GradedWeylDivisibility_DualWeylDominanceOf", "via": ["solution", "statement"]}
@@ -2187,8 +2187,8 @@
 {"parent": "Formalism.MainNotions.ModuliIntegralCharts.H1.ExpGF.psJet_coe", "child": "Formalism_SharpRestriction_Divisibility_GeneratorPowers_FBIdJet", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.Cheb.splitA_finite_not_coprime", "child": "ReciprocityTheory_Chebotarev_SplitA", "via": ["statement"]}
 {"parent": "ReciprocityTheory.Cheb.splitA_finite_not_coprime", "child": "ReciprocityTheory_Chebotarev_SplitDef", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.I2.iter_step_bound", "child": "ReciprocityTheory_AnalyticForms_AnalyticCharts_Osgood", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.I2.iter_step_bound", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_RCauchy", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.I2.iter_step_bound", "child": "ReciprocityTheory_AnalyticForms_AnalyticCharts_Osgood", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.I2.iter_step_bound", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_RCauchy", "via": ["solution", "statement"]}
 {"parent": "Bl.FirstLemmaK.goal1", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_CapelliComplements_FirstLemmaK", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.QuotientRealization.pv_le", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.QuotientRealization.pv_le", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SlopeIneqMean", "via": ["solution", "statement"]}
@@ -2678,11 +2678,11 @@
 {"parent": "EisTube.cz_re_im", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_EisensteinSeriesG2_TubeDomainExtension_TubeExtendsFarCone", "via": ["solution", "statement"]}
 {"parent": "EisTube.cz_re_im", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_EisensteinSeriesG2_TubeDomainExtension_Statement", "via": ["solution", "statement"]}
 {"parent": "EisTube.cz_re_im", "child": "Development_WeilBound_CoreStatements_AutomorphicKernels_EisensteinSeriesG2_TubeDomainExtension_Lemmas", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PoinStatementPfF", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PoinStatementPfG", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PairUnfoldPf", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_MeasInvStatementPf", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_LUStatementPf", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PoinStatementPfF", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PoinStatementPfG", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PairUnfoldPf", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_MeasInvStatementPf", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_LUStatementPf", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_f_smul", "child": "ReciprocityTheory_GeometryOfNumbers_SphericalMonomials_MonomStA", "via": ["statement"]}
 {"parent": "ReciprocityTheory.GeometryOfNumbersTheory.sphMonom_f_smul", "child": "ReciprocityTheory_GeometryOfNumbers_SphericalMonomials_GaussSt", "via": ["statement"]}
 {"parent": "Formalism.HC.Der.Rd.SS_le", "child": "Formalism_SharpRestriction_RamificationFrobenius_TotientGaloisClasses_InertiaGaloisSymmetry_RdBound", "via": ["solution", "statement"]}
@@ -2699,8 +2699,8 @@
 {"parent": "Formalism.HN.HeightGram.zl_mono", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.HeightGram.zl_mono", "child": "Formalism_HarderNarasimhan_StatementPl", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.HeightGram.zl_mono", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_HtGram", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.I2.owner_none_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_OwnerNoneIff", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.I2.owner_none_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_PolyDerivDeterminantPolyTensor", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.I2.owner_none_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_OwnerNoneIff", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.I2.owner_none_iff", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_PolyDerivDeterminantPolyTensor", "via": ["solution", "statement"]}
 {"parent": "Formalism.HF.P.hasDerivAt_term", "child": "Formalism_DirichletDensity_DirichletDensityProofs_LogToDir", "via": ["solution", "statement"]}
 {"parent": "Formalism.HF.P.hasDerivAt_term", "child": "Formalism_DirichletDensity_Statement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.Geo.Tor.res_eq_of_gm", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_AdmissibleBasePowerSeries", "via": ["solution", "statement"]}
@@ -2720,10 +2720,10 @@
 {"parent": "Formalism.HN.PlaceLattice.discrete_span_of_linIndep", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.PW.kapC_le_real", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_StatementF", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.PW.kapC_le_real", "child": "Formalism_ThetaLogCoordinates_TraceIsometryWeights_SchurTraceProofs_Discharge", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.kaY_cpt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_ExhaustFStatementPfC", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.kaY_cpt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_SumBoundStatementPf", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.kaY_cpt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PoinStatementPfE", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.kaY_cpt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PoinStatementPfF", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.kaY_cpt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_ExhaustFStatementPfC", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.kaY_cpt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_SumBoundStatementPf", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.kaY_cpt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PoinStatementPfE", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.kaY_cpt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_PoinStatementPfF", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.htImage_map_norm", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.htImage_map_norm", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_GramBlock", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.htImage_map_norm", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep", "via": ["solution", "statement"]}
@@ -2806,9 +2806,9 @@
 {"parent": "GlobalTheory.ClassMin.shifted_zsmul", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_EqOfIsMinInClassTwoOfSameClassFour", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ClassMin.shifted_zsmul", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsShiftedLtClassMin", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ClassMin.shifted_zsmul", "child": "Development_AbelianVarietyTheory_Proofs_FoundationProofs_ExistsReducedBasisOfLinearIndependent", "via": ["solution", "statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.quot_finrank", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_QCoreH", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.quot_finrank", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_LocalQuotientRank", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.quot_finrank", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_FreeQuotPf", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.quot_finrank", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_QCoreH", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.quot_finrank", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_LocalQuotientRank", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.quot_finrank", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_Rationality_FreeQuotPf", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.frameB_share", "child": "Formalism_CorankShare_CorankShareProofs_LayerCakeFormula", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.frameB_share", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_FinSup", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.frameB_share", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_HNSlopes", "via": ["solution", "statement"]}
@@ -3125,8 +3125,8 @@
 {"parent": "Formalism.HF.mqDiscr_of", "child": "Formalism_DirichletDensity_Statement", "via": ["solution", "statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.card_mPiece_step", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_IsHomogeneousGrL", "via": ["statement"]}
 {"parent": "ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.card_mPiece_step", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovGeometry_ExistsPrimeFiltrationOfIsMultiHomogIdeal", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.contDiffOn_potOf", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterRedA", "via": ["statement"]}
-{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.contDiffOn_potOf", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterRes", "via": ["statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.contDiffOn_potOf", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterRedA", "via": ["solution", "statement"]}
+{"parent": "ReciprocityTheory.ChartRestriction.G.Geo.contDiffOn_potOf", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterRes", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.slopeIneqMean_of", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_SlopeIneq", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.slopeIneqMean_of", "child": "Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax", "via": ["solution", "statement"]}
 {"parent": "Formalism.HN.slopeIneqMean_of", "child": "Formalism_HarderNarasimhan_HarderNarasimhanProofs_RescaleCovol", "via": ["solution", "statement"]}
@@ -35478,10 +35478,10 @@
 {"parent": "Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.wge_hom", "child": "Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_ValuationProductsComponents", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.wge_hom", "child": "Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_PathProductHighestWeight", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.wge_hom", "child": "Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_ExistsSuppOfEvalNe", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.SymLiftOdd.symGen_isGen", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_ConstPullback", "via": ["statement"]}
-{"parent": "GlobalTheory.SymLiftOdd.symGen_isGen", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_SymmetricLiftOddOrderExistsUnique", "via": ["statement"]}
-{"parent": "GlobalTheory.SymLiftOdd.symGen_isGen", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["statement"]}
-{"parent": "GlobalTheory.SymLiftOdd.symGen_isGen", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["statement"]}
+{"parent": "GlobalTheory.SymLiftOdd.symGen_isGen", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_TangentLinearity_ConstPullback", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SymLiftOdd.symGen_isGen", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_SymmetricLiftOddOrderExistsUnique", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SymLiftOdd.symGen_isGen", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.SymLiftOdd.symGen_isGen", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.RealObj.InfCut.ProductExactness.PiM.factor_ne", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_ClosedLocalOrbits_GaugeLatticeShifts_PiMapMulRight", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.SG.RealObj.InfCut.ProductExactness.PiM.factor_ne", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_ClosedLocalOrbits_GaugeLatticeShifts_ExistsBox", "via": ["solution", "statement"]}
 {"parent": "Formalism.InvariantFactorPaths.GelfandTsetlinBases.A0.pathWord_congr", "child": "Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_ActFormContract", "via": ["solution", "statement"]}
@@ -38337,13 +38337,13 @@
 {"parent": "Formalism.L2.Pj.FundamentalDomainD5.h_qsmul_right", "child": "Formalism_LocalToGlobal_ProjectiveLattices_ArchimedeanQuadraticData_HQsmulRight", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Pj.FundamentalDomainD5.h_qsmul_right", "child": "ReciprocityTheory_SemistableReduction_TorsionNonvanishStatement", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.Pj.FundamentalDomainD5.h_qsmul_right", "child": "Formalism_LocalToGlobal_ProjectiveLattices_ArchimedeanQuadraticData_RhoDotSelf", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ThetaGrpActsLinearly", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_SectionArithmetic", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "Development_AbelianVarietyTheory_Statements_TorsionEndomorphisms_ExistsGeneratorOfIsField", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsUniqueSecEqMulGen", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_PhiGenPf", "via": ["statement"]}
-{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_WeilIsIffCommIsOfAndLiftSubsingleton", "via": ["statement"]}
+{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ThetaGrpActsLinearly", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_SectionArithmetic", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "Development_AbelianVarietyTheory_Statements_TorsionEndomorphisms_ExistsGeneratorOfIsField", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsUniqueSecEqMulGen", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_PhiGenPf", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ThetaPtExist.exists_isThetaPt", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_WeilIsIffCommIsOfAndLiftSubsingleton", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.DIV.pairP_apply", "child": "Formalism_LocalToGlobal_Divisibility_CoefModLemmas", "via": ["solution", "statement"]}
 {"parent": "Formalism.L2.DIV.pairP_apply", "child": "Formalism_LocalToGlobal_Divisibility_CoefMod", "via": ["solution", "statement"]}
 {"parent": "ValueAwareRR.nine_mul_filteredSum_table", "child": "ValueAwareRR_ProxyCounterexample", "via": ["solution", "statement"]}
@@ -67878,14 +67878,14 @@
 {"parent": "GlobalTheory.AwaySubalgebraEmbedding.exists_away_subalgebra_embedding", "child": "Development_AbelianVarietyTheory_Proofs_UnitaryExistence_ExistsAwaySubalgebraEmbedding", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BruhatRep.t_th", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_Sl2PresentationRelations", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BruhatRep.t_th", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IsStableGauss", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_SplitTorusHomProperTrivialLocal", "via": ["statement"]}
-{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "ReciprocityTheory_ThetaQuasiPeriods_ThetaQuasiPeriodStatement", "via": ["statement"]}
-{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["statement"]}
-{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBPull", "via": ["statement"]}
-{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_KrullDimLEAndIsLocalRingQuotientPow", "via": ["statement"]}
-{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "ReciprocityTheory_ThetaQuasiPeriods_Transl", "via": ["statement"]}
-{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_EqZeroOfMemPowMaximal", "via": ["statement"]}
-{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["statement"]}
+{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_SplitTorusHomProperTrivialLocal", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "ReciprocityTheory_ThetaQuasiPeriods_ThetaQuasiPeriodStatement", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_GlobalSectionsRankAlgClosed", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBPull", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_KrullDimLEAndIsLocalRingQuotientPow", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "ReciprocityTheory_ThetaQuasiPeriods_Transl", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "Development_AbelianVarietyTheory_Proofs_ToricGeometry_EqZeroOfMemPowMaximal", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ArtinReduction.exists_isGen_translDiff_comp", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ThetaUnifAV", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.ChartRing.isAdicComplete_comap_constantCoeff", "child": "Development_AbelianVarietyTheory_Proofs_HomogeneousIdeals_IsAdicCompleteComapConstantCoeff", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BSP.DiscDomain.isDomain_disc", "child": "Development_AbelianVarietyTheory_Proofs_InertiaEigenvalues_IsDomainClosedDiscGaugeCompletionOfEquivNorm", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.BSP.DiscDomain.isDomain_disc", "child": "Development_AbelianVarietyTheory_Definitions_NonGaloisDescent_MemBallOfGaugeLt", "via": ["solution", "statement"]}
@@ -72481,10 +72481,10 @@
 {"parent": "GroundTheory.Global.Algebra.norm_pi", "child": "GroundTheory_GlobalFields_SemilocalAlgebras_Infinite", "via": ["solution", "statement"]}
 {"parent": "ChromaticReconstruction.pairSum_mk", "child": "RequestProject_RecoverP", "via": ["solution", "statement"]}
 {"parent": "ChromaticReconstruction.pairSum_mk", "child": "RequestProject_Theta", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.CommPairing.tval_div", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_WeilIsAlternatingSkewNatural", "via": ["statement"]}
-{"parent": "GlobalTheory.CommPairing.tval_div", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["statement"]}
-{"parent": "GlobalTheory.CommPairing.tval_div", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_ThetaMove", "via": ["statement"]}
-{"parent": "GlobalTheory.CommPairing.tval_div", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_CubeVal", "via": ["statement"]}
+{"parent": "GlobalTheory.CommPairing.tval_div", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_WeilIsAlternatingSkewNatural", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CommPairing.tval_div", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CommPairing.tval_div", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_ThetaMove", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.CommPairing.tval_div", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_CubeVal", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Ar.Pub.isMultiHomog_redMap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_BlowupProjections_BlowupProjStatement", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Ar.Pub.isMultiHomog_redMap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterNamed", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Ar.Pub.isMultiHomog_redMap", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_InterDivSupp", "via": ["solution", "statement"]}
@@ -73066,10 +73066,10 @@
 {"parent": "Development_AutomorphicSpectrum_Proofs_AlgebraProofs_FinitePresentationOfFaithfullyFlat", "child": "Development_AutomorphicArithmetic_IntegralCasts_CapelliIdentities_ExistsRetr", "via": ["statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Ar.RT.CellSplit.char_trivial_first", "child": "Development_AutomorphicSpectrum_Proofs_DivisibilityProofs_FiniteNonunitMatrix", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.CompanionTheory.Ar.RT.CellSplit.char_trivial_first", "child": "Development_AutomorphicSpectrum_Proofs_DivisibilityProofs_HermitianDarbouxSplitProduct", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.ChartUniv.isUnivChart_ren", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_PlaceDivisors_StChartFH", "via": ["statement"]}
-{"parent": "GlobalTheory.ChartUniv.isUnivChart_ren", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_IsUniversalChartOfFormalGroupChart", "via": ["statement"]}
-{"parent": "GlobalTheory.ChartUniv.isUnivChart_ren", "child": "Development_AbelianVarietyTheory_Definitions_TwoChartAtlas_TwoChartSt", "via": ["statement"]}
-{"parent": "GlobalTheory.ChartUniv.isUnivChart_ren", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_UniversalCharts_UnivChartLoc", "via": ["statement"]}
+{"parent": "GlobalTheory.ChartUniv.isUnivChart_ren", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_PlaceDivisors_StChartFH", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ChartUniv.isUnivChart_ren", "child": "Development_AbelianVarietyTheory_Proofs_FormalGroupCharts_IsUniversalChartOfFormalGroupChart", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ChartUniv.isUnivChart_ren", "child": "Development_AbelianVarietyTheory_Definitions_TwoChartAtlas_TwoChartSt", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.ChartUniv.isUnivChart_ren", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_ChartPullbacks_UniversalCharts_UnivChartLoc", "via": ["solution", "statement"]}
 {"parent": "IntConeFPT.section_3_6_driver", "child": "IntConeFPT_Machine", "via": ["statement"]}
 {"parent": "IntConeFPT.section_3_6_driver", "child": "IntConeFPT_Homogenized", "via": ["solution", "statement"]}
 {"parent": "IntConeFPT.section_3_6_driver", "child": "OnlineCRS_Combine_Sym", "via": ["statement"]}
@@ -98570,12 +98570,12 @@
 {"parent": "FunctorialResolution.EmbeddedResolution.derivIdealSheaf_mul_le", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdeal", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.derivIdealSheaf_mul_le", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealLocalization", "via": ["solution", "statement"]}
 {"parent": "FunctorialResolution.EmbeddedResolution.derivIdealSheaf_mul_le", "child": "Development_ResolutionOfSingularities_EmbeddedResolution_DerivativeIdeal_DerivativeIdealSheaf", "via": ["solution", "statement"]}
-{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["statement"]}
-{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_MemRangeOfSumEqZero", "via": ["statement"]}
-{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBLocal", "via": ["statement"]}
-{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsGenOfLocalOnBase", "via": ["statement"]}
-{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_SectionArithmetic", "via": ["statement"]}
-{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["statement"]}
+{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ExtensionDescent_SecBaseChangeAnySt", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_MemRangeOfSumEqZero", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_DiscreteValuationRings_LBLocal", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "Development_AbelianVarietyTheory_Proofs_AbelianSchemeLawProofs_ExistsGenOfLocalOnBase", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_FirstCohomology_SectionArithmetic", "via": ["solution", "statement"]}
+{"parent": "GlobalTheory.EndDivisible.exists_monomials", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MaximalCompactConjugacy_Assembly", "child": "Formalism_LocalToGlobal_SiegelLatticeTheory_FundamentalEquivalence_AdBridge", "via": ["statement"]}
 {"parent": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_MaximalCompactConjugacy_Assembly", "child": "Formalism_PeriodIntegrals_AdBridgeSteps", "via": ["statement"]}
 {"parent": "P2M_Formalism_FourierDecayAlt_P_Fr9_m_b_c2aaaddc0865", "child": "Formalism_YangianSpanCharacter_YangianRelationFirst", "via": ["solution", "statement"]}

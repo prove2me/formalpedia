@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_exists_frames_eL
 -- name    : GlobalTheory.PowGerm.exists_frames_eL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:48:25.242144+00:00
 -- url     : https://prove2.me/theorems/091e434a-ac78-4170-8d40-567fdf5afade

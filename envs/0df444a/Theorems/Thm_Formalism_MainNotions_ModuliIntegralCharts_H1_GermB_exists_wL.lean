@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_exists_wL
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.exists_wL
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:29:28.316408+00:00
 -- url     : https://prove2.me/theorems/16cbbb43-f2cd-45e7-9d9a-5b189e312f7e

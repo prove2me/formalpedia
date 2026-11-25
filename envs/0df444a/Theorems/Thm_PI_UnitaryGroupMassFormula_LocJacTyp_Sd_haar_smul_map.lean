@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_haar_smul_map
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.haar_smul_map
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:04:25.899473+00:00
 -- url     : https://prove2.me/theorems/acba87a8-b560-58a0-8087-6412c1da6fb8

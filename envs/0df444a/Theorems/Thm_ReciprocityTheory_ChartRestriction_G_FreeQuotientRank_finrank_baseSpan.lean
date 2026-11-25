@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_finrank_baseSpan
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.finrank_baseSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:22:16.707086+00:00
 -- url     : https://prove2.me/theorems/023bfc4a-d996-4646-b6e1-f7c58789e835

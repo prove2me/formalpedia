@@ -1,0 +1,39 @@
+-- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.I2.Ext.all
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T13:07:41.963571+00:00
+-- url     : https://prove2.me/submissions/b086b8cc-1d4e-4d42-a549-e87cf2f75b04
+
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_GaussianTailBound
+import Definitions.Def_Formalism_FilteredPoleLength_LocalDescentLevels_IntegralMulExpNegSq
+import Definitions.Def_Formalism_FilteredPoleLength_LocalDescentLevels_ExistsSumOfMemSpanImage
+import Definitions.Def_Formalism_FilteredPoleLength_LocalDescentLevels_MinimumChainBounds
+import Definitions.Def_Formalism_FilteredPoleLength_LocalDescentLevels_DetMulEqSumPrincipal
+import Definitions.Def_Formalism_FilteredPoleLength_LocalDescentLevels_GAdjugateNormBound
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_ExtProof
+import Theorems.Thm_Formalism_LatticeBaseChangeAlt_ballVolume
+import Theorems.Thm_Formalism_LatticeBaseChangeAlt_cauchyBinetMax
+import Theorems.Thm_Formalism_LatticeBaseChangeAlt_detPerturbNumeric
+import Theorems.Thm_Formalism_LatticeBaseChangeAlt_detPerturbation
+import Theorems.Thm_Formalism_LatticeBaseChangeAlt_detProductRest
+import Theorems.Thm_Formalism_LatticeBaseChangeAlt_gHadamard
+import Theorems.Thm_Formalism_LatticeBaseChangeAlt_gaussian_tail_bound
+import Theorems.Thm_Formalism_LatticeBaseChangeAlt_nearestPlane
+import Theorems.Thm_Formalism_LatticeBaseChangeAlt_packingCount
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.I2 ReciprocityTheory.ChartRestriction.G.I2.Ext
+namespace ReciprocityTheory.ChartRestriction.G.I2.Ext
+theorem _root_.solution : All :=
+  ⟨Formalism.LatticeBaseChangeAlt.packingCount, Formalism.LatticeBaseChangeAlt.gaussian_tail_bound, Formalism.LatticeBaseChangeAlt.ballVolume, Formalism.LatticeBaseChangeAlt.gHadamard,
+    Formalism.LatticeBaseChangeAlt.nearestPlane, Formalism.LatticeBaseChangeAlt.cauchyBinetMax, Formalism.LatticeBaseChangeAlt.detPerturbation,
+    Formalism.LatticeBaseChangeAlt.detPerturbNumeric, Formalism.LatticeBaseChangeAlt.detProductRest⟩
+end ReciprocityTheory.ChartRestriction.G.I2.Ext

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_FPw_gaussianInner_zero_right
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.FPw.gaussianInner_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:28:48.231137+00:00
 -- url     : https://prove2.me/theorems/270ad946-7519-44b9-a079-02d30e2798b8

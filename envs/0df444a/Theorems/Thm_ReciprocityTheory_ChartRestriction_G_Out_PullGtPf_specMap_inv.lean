@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_PullGtPf_specMap_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.PullGtPf.specMap_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:32:34.325265+00:00
 -- url     : https://prove2.me/theorems/49611f9e-bc89-5086-9b13-4cda75f3f556

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_HasCentralChar_inv_mul
 -- name    : GroundTheory.Automorphic.Parabolic.HasCentralChar.inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:54:16.3078+00:00
 -- url     : https://prove2.me/theorems/083eac96-af0c-4d62-9bc3-35300c98c785

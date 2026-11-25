@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_projIntegrable_iff_fd71fe26c6a1
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_projIntegrable_iff_fd71fe26c6a1
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:26:16.864508+00:00
 -- url     : https://prove2.me/theorems/a52b94dc-e372-4e19-bcc2-42bc928dcb31

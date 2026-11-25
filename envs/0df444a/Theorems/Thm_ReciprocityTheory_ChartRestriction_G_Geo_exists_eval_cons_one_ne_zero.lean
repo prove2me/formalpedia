@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_exists_eval_cons_one_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.exists_eval_cons_one_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:11.175923+00:00
 -- url     : https://prove2.me/theorems/82c0eda9-493f-421c-984d-4237e29901bd

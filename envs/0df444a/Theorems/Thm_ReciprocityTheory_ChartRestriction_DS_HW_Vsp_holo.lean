@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_Vsp_holo
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.Vsp_holo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T15:52:27.034193+00:00
 -- url     : https://prove2.me/theorems/d3145125-b87b-4b12-934c-78f845cc581c

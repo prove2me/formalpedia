@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_PT_fd_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.PT.fd_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:28:46.376267+00:00
 -- url     : https://prove2.me/theorems/577370b8-7ca2-5da7-b6bc-a3398b34e8dc

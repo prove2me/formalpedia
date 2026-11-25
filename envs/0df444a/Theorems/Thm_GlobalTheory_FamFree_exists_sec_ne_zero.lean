@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FamFree_exists_sec_ne_zero
 -- name    : GlobalTheory.FamFree.exists_sec_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:49:42.524615+00:00
 -- url     : https://prove2.me/theorems/3190c7e5-bd0f-4ca9-be99-ea91906b2daa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_LinEmbed_injective_of_isField_020813170944
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Inter_LinEmbed_injective_of_isField_020813170944
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:03:10.049652+00:00
 -- url     : https://prove2.me/theorems/756c6034-faed-4c9d-a5d1-e3006ecff293

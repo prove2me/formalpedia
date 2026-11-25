@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_indep_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.indep_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:24:26.805976+00:00
 -- url     : https://prove2.me/theorems/517b9b0a-5c74-4d2d-aaab-28f33b6fde33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_abs_log_div_le
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.abs_log_div_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:23:24.095926+00:00
 -- url     : https://prove2.me/theorems/970c2b84-b5a0-5ca5-b31a-f39044427331

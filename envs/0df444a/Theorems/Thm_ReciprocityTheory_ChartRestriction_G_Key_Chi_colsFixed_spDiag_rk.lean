@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_colsFixed_spDiag_rk
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.colsFixed_spDiag_rk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:30:39.822316+00:00
 -- url     : https://prove2.me/theorems/575d235a-0abe-4c31-a4f3-65141c5cd9f2

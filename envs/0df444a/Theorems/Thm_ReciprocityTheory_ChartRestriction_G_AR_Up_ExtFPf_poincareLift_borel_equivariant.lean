@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExtFPf_poincareLift_borel_equivariant
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExtFPf.poincareLift_borel_equivariant
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:19:02.290155+00:00
 -- url     : https://prove2.me/theorems/c854e13c-0e2c-4d0d-a439-b39ff48ec58d

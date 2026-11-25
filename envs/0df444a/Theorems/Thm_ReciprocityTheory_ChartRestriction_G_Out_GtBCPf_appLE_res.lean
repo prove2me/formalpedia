@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_GtBCPf_appLE_res
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.appLE_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:30:54.490461+00:00
 -- url     : https://prove2.me/theorems/2ce08d8d-649b-52b1-a447-4faaa45638f6

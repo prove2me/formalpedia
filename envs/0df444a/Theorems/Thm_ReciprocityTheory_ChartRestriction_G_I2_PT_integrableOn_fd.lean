@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_PT_integrableOn_fd
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.PT.integrableOn_fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:27:57.498472+00:00
 -- url     : https://prove2.me/theorems/e331c6ad-2f62-4648-961b-b795d22bfba6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TorusCube_HasVal_inv
 -- name    : GlobalTheory.TorusCube.HasVal.inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T03:19:12.171221+00:00
 -- url     : https://prove2.me/theorems/079d376e-634a-41e8-94fa-12c2f101cfb3

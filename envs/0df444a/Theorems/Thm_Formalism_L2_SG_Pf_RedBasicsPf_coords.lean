@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_RedBasicsPf_coords
 -- name    : Formalism.L2.SG.Pf.RedBasicsPf.coords
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T18:28:18.546361+00:00
 -- url     : https://prove2.me/theorems/c8c2ee3d-d107-4650-b38e-e3da80badb64

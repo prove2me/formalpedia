@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_one_eq_spTransl_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.one_eq_spTransl_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:30:44.061733+00:00
 -- url     : https://prove2.me/theorems/f9ff264c-ec0f-5261-aa64-a9ec4cc90a82

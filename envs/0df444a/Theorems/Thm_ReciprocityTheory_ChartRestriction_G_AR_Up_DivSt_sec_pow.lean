@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_DivSt_sec_pow
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.DivSt.sec_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:58:17.125953+00:00
 -- url     : https://prove2.me/theorems/d114366d-b169-54df-bff8-2db73146d71c

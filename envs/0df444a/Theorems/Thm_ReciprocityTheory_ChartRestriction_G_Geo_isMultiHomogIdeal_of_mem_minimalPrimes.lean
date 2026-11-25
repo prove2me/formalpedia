@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isMultiHomogIdeal_of_mem_minimalPrimes
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isMultiHomogIdeal_of_mem_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T23:59:14.602986+00:00
 -- url     : https://prove2.me/theorems/d168db98-3a40-4b00-a66c-360b94ff4c9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_isHomogeneous_grL
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.isHomogeneous_grL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:10:40.934369+00:00
 -- url     : https://prove2.me/theorems/985fe9cf-515f-5e7c-afae-9b3a0a8eaadc

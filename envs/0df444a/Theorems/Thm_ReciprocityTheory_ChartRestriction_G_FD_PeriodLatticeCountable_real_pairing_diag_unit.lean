@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodLatticeCountable_real_pairing_diag_unit
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodLatticeCountable.real_pairing_diag_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:21:12.050861+00:00
 -- url     : https://prove2.me/theorems/c3968c6b-7789-44b7-839d-1464cbd701ca

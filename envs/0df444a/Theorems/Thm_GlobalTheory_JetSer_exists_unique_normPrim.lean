@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetSer_exists_unique_normPrim
 -- name    : GlobalTheory.JetSer.exists_unique_normPrim
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T17:41:48.750779+00:00
 -- url     : https://prove2.me/theorems/3e357253-f9bb-492f-af77-da6994d93a1b

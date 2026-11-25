@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_ratHom_isLocalization
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.ratHom_isLocalization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:23.625988+00:00
 -- url     : https://prove2.me/theorems/be54d311-e338-4bd2-9c62-39a26b328ed2

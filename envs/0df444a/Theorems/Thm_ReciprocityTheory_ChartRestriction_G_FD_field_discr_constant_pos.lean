@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_field_discr_constant_pos
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.field_discr_constant_pos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:23:38.498559+00:00
 -- url     : https://prove2.me/theorems/ec3fcd6b-92d8-54d1-94f8-fbffd368e8e0

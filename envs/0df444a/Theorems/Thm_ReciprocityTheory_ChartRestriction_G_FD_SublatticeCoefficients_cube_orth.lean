@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_SublatticeCoefficients_cube_orth
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.SublatticeCoefficients.cube_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:22:27.779523+00:00
 -- url     : https://prove2.me/theorems/32a7a73c-2b70-406f-9080-44112614acf0

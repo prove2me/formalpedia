@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimB_box_shift
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimB.box_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:27:16.009061+00:00
 -- url     : https://prove2.me/theorems/3a2163f4-bfe8-4e0a-9126-8103d14f8b5d

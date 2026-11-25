@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaAct_exists_inv
 -- name    : GlobalTheory.ThetaAct.exists_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:04:30.993861+00:00
 -- url     : https://prove2.me/theorems/55300c41-7645-4b9f-b295-22658befb78f

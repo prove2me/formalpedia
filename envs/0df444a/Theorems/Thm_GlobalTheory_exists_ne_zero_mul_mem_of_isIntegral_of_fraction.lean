@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_ne_zero_mul_mem_of_isIntegral_of_fraction
 -- name    : GlobalTheory.exists_ne_zero_mul_mem_of_isIntegral_of_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:05:20.586923+00:00
 -- url     : https://prove2.me/theorems/44076364-6ad7-585b-88ae-b2e6b065b224

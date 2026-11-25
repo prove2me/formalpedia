@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_dI_target_of_mIntegrable
 -- name    : ReciprocityTheory.AnForm.M.dI_target_of_mIntegrable
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:43:52.753894+00:00
 -- url     : https://prove2.me/theorems/4ead8665-9614-4052-a6c1-ad4eaee7d9f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_TraceNormBounds_projDeg_pos__112c2c1082c2
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_TraceNormBounds_projDeg_pos__112c2c1082c2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:14:45.954192+00:00
 -- url     : https://prove2.me/theorems/5d168f8c-7b18-4d9f-b9f1-7b73027f5dfa

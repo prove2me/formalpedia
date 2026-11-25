@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_determinantPoly_expand
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.determinantPoly_expand
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:29:23.280605+00:00
 -- url     : https://prove2.me/theorems/7a590836-208b-4d8d-9fc1-cfc2d93c8ac2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimB_line_cauchy
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimB.line_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:27:14.135412+00:00
 -- url     : https://prove2.me/theorems/0a0dc80d-6084-5c05-9ca8-999d2c0ab07d

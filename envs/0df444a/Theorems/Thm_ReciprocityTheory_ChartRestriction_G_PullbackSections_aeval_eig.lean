@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_aeval_eig
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.aeval_eig
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:32:37.205235+00:00
 -- url     : https://prove2.me/theorems/b723f7c9-9f99-41af-b230-88f07de62cc0

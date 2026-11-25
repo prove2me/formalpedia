@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_ExtFPf_bchar_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.ExtFPf.bchar_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:37:35.022536+00:00
 -- url     : https://prove2.me/theorems/008e4815-d8b0-4c40-a3ab-c3d1bd2b2a7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_card_support_le_and_sum_two_pow_le
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.card_support_le_and_sum_two_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:28:16.74751+00:00
 -- url     : https://prove2.me/theorems/7ec39263-3c93-5169-9a13-172e87eccfa7

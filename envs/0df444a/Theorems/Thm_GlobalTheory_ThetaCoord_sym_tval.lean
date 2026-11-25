@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_sym_tval
 -- name    : GlobalTheory.ThetaCoord.sym_tval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T20:17:52.443802+00:00
 -- url     : https://prove2.me/theorems/7a0d822b-2d53-4719-b7a1-f20343ff0063

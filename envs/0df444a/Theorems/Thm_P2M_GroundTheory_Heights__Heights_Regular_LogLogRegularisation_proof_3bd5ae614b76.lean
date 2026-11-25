@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_LogLogRegularisation_proof_3bd5ae614b76
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_LogLogRegularisation_proof_3bd5ae614b76
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:55:55.798265+00:00
 -- url     : https://prove2.me/theorems/e798b056-77a4-48d8-8022-59e0315b454e

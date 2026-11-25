@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_toENNReal_eq_tsum
 -- name    : Kac.toENNReal_eq_tsum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:07:44.900678+00:00
 -- url     : https://prove2.me/theorems/7bef83be-b6cd-4844-a202-597231279421

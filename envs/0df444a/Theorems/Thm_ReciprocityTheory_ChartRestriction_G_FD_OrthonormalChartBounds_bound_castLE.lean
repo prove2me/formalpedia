@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_bound_castLE
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.bound_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:18:14.830796+00:00
 -- url     : https://prove2.me/theorems/3fb56267-31f1-448e-aebd-939bb34416ef

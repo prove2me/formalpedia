@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AsmT_Mk_psd
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AsmT.Mk_psd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:09:59.771041+00:00
 -- url     : https://prove2.me/theorems/696f0ba5-2bcd-5153-a4b5-a5da0cb422b4

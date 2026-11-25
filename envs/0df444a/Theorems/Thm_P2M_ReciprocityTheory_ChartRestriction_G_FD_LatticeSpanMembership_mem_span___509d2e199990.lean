@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_FD_LatticeSpanMembership_mem_span___509d2e199990
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_FD_LatticeSpanMembership_mem_span___509d2e199990
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:14:58.959811+00:00
 -- url     : https://prove2.me/theorems/cd1044da-e4be-5f72-8823-0ee850c69306

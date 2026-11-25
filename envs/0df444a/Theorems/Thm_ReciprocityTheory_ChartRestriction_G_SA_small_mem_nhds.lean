@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_small_mem_nhds
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.small_mem_nhds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:34:53.823911+00:00
 -- url     : https://prove2.me/theorems/dc362eab-30a3-47d1-80dc-a326e4fd8218

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealPlaceEmbeddings_card_qb
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealPlaceEmbeddings.card_qb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:20:28.513181+00:00
 -- url     : https://prove2.me/theorems/83b61304-cbf7-4dbb-934c-d1adcbe5390e

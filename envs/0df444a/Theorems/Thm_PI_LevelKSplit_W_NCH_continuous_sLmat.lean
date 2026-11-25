@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCH_continuous_sLmat
 -- name    : PI.LevelKSplit.W.NCH.continuous_sLmat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:21:32.886518+00:00
 -- url     : https://prove2.me/theorems/2a45f76f-521e-54e6-9a8c-075265ce686b

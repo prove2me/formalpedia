@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_PT_isBounded_fd
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.PT.isBounded_fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:27:58.443702+00:00
 -- url     : https://prove2.me/theorems/371ab2af-faf3-412e-afe7-47fc06feaa59

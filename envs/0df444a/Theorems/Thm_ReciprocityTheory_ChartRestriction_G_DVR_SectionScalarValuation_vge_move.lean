@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_SectionScalarValuation_vge_move
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.SectionScalarValuation.vge_move
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:27:37.906427+00:00
 -- url     : https://prove2.me/theorems/6c37c262-c84b-46a1-b4bf-cd3653842bf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_homogeneous_stable_first_action
 -- name    : PositivityTheory.KReal.homogeneous_stable_first_action
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:38:00.747383+00:00
 -- url     : https://prove2.me/theorems/7c468d96-eae4-5597-8f4a-fbff5459be5d

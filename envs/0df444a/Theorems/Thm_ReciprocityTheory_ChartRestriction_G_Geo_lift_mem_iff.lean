@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_lift_mem_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.lift_mem_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:29:00.203716+00:00
 -- url     : https://prove2.me/theorems/2b02cb3f-0959-5a26-8231-f6f9bfaa2f03

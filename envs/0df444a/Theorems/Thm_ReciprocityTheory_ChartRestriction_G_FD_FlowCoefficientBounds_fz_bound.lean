@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlowCoefficientBounds_fz_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlowCoefficientBounds.fz_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:13:40.501051+00:00
 -- url     : https://prove2.me/theorems/fda2f60f-3de2-570b-8460-8b418693edd6

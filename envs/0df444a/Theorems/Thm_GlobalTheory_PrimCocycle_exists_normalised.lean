@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimCocycle_exists_normalised
 -- name    : GlobalTheory.PrimCocycle.exists_normalised
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T18:56:36.238898+00:00
 -- url     : https://prove2.me/theorems/3793816b-0c23-4f47-ab42-85dc6b29c466

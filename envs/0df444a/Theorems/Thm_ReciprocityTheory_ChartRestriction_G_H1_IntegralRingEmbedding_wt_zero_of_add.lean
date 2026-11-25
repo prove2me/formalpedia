@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_IntegralRingEmbedding_wt_zero_of_add
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.IntegralRingEmbedding.wt_zero_of_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:25:32.132803+00:00
 -- url     : https://prove2.me/theorems/14b62b20-738b-5399-8183-6798de6fdd9c

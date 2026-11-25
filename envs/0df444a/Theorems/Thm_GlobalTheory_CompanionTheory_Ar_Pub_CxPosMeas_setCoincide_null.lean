@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_Ar_Pub_CxPosMeas_setCoincide_null
 -- name    : GlobalTheory.CompanionTheory.Ar.Pub.CxPosMeas.setCoincide_null
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:32:20.44771+00:00
 -- url     : https://prove2.me/theorems/b1ea579b-2252-49fe-b9d0-137bec4ba7ac

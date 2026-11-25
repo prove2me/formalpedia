@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_exists_delta_count
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.exists_delta_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:32:49.688571+00:00
 -- url     : https://prove2.me/theorems/d478826c-48a1-59e9-a383-fd4acef227e3

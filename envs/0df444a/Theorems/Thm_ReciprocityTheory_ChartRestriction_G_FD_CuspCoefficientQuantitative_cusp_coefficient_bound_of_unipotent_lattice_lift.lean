@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_CuspCoefficientQuantitative_cusp_coefficient_bound_of_unipotent_lattice_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.CuspCoefficientQuantitative.cusp_coefficient_bound_of_unipotent_lattice_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:17:04.292018+00:00
 -- url     : https://prove2.me/theorems/bd256e10-c30a-4639-857c-dd367210d675

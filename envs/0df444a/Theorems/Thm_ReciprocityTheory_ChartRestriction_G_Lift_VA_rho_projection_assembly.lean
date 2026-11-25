@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_rho_projection_assembly
 -- name    : ReciprocityTheory.ChartRestriction.G.Lift.VA.rho_projection_assembly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:30:57.108962+00:00
 -- url     : https://prove2.me/theorems/024f5bf9-84b2-512b-8f7b-1e9a1279dee2

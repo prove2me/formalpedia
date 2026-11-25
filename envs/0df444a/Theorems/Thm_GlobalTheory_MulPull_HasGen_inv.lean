@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MulPull_HasGen_inv
 -- name    : GlobalTheory.MulPull.HasGen.inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:32:17.933941+00:00
 -- url     : https://prove2.me/theorems/b544c9f9-0f51-4d3a-bfed-1570fa311f52

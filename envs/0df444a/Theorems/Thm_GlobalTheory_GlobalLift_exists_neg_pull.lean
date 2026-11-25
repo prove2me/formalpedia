@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GlobalLift_exists_neg_pull
 -- name    : GlobalTheory.GlobalLift.exists_neg_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:38:24.922338+00:00
 -- url     : https://prove2.me/theorems/f57ea44e-ed41-4f93-8d51-253a22ad20c5

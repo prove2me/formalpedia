@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FrameLoc_contDiff_theta
 -- name    : GlobalTheory.FrameLoc.contDiff_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T13:38:12.609058+00:00
 -- url     : https://prove2.me/theorems/368a33e7-c0c7-457e-aa50-3d83f34747f1

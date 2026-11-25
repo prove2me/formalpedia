@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibreAbsSum_eq_chartAbsDens_8110f0be6eae
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_ComplexSets_fibreAbsSum_eq_chartAbsDens_8110f0be6eae
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T03:20:48.359741+00:00
 -- url     : https://prove2.me/theorems/b4e59ed3-2f37-45ef-9aea-53e831e2e293

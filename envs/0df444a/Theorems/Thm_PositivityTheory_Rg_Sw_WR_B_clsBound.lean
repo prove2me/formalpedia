@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_B_clsBound
 -- name    : PositivityTheory.Rg.Sw.WR.B.clsBound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T04:59:36.17681+00:00
 -- url     : https://prove2.me/theorems/e871e685-d3a3-4a66-8481-86119a0d7ddd

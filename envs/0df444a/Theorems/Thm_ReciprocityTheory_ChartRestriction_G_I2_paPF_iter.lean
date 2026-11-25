@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_paPF_iter
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.paPF_iter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:30:57.932641+00:00
 -- url     : https://prove2.me/theorems/11a584e5-2f64-5d4b-b876-05486336dddf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_finiteDimensional_Vsp
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.finiteDimensional_Vsp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T09:41:06.224193+00:00
 -- url     : https://prove2.me/theorems/b72f757d-c12e-59ca-9d82-90c8365370fa

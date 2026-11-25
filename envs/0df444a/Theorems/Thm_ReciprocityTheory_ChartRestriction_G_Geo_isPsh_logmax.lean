@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isPsh_logmax
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isPsh_logmax
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:24:14.174557+00:00
 -- url     : https://prove2.me/theorems/7d47e398-1175-4f11-9414-cae07aab7eb1

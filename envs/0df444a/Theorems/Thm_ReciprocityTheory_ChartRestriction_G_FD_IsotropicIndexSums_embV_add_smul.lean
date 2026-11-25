@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicIndexSums_embV_add_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicIndexSums.embV_add_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:20:54.663152+00:00
 -- url     : https://prove2.me/theorems/a546ae48-4395-5aed-9087-aba1732fc4eb

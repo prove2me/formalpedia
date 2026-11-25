@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_multAt_eq_count
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.multAt_eq_count
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:14:11.974986+00:00
 -- url     : https://prove2.me/theorems/ba154eb1-75c9-5c1a-a6fe-e75d2dd09bfe

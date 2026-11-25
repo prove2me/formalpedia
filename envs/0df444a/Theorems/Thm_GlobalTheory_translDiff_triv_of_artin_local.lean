@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_translDiff_triv_of_artin_local
 -- name    : GlobalTheory.translDiff_triv_of_artin_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T05:59:17.430901+00:00
 -- url     : https://prove2.me/theorems/d991c9de-8739-436c-b00b-04c9fc06e9e6

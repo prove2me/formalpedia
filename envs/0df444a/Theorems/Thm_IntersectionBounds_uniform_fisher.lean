@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntersectionBounds_uniform_fisher
 -- name    : IntersectionBounds.uniform_fisher
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T12:53:51.266991+00:00
 -- url     : https://prove2.me/theorems/3ab0470a-bdf5-5d6a-ac84-303475d9c1c5

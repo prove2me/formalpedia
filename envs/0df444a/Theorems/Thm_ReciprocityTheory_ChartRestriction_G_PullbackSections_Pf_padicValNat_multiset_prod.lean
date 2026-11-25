@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_padicValNat_multiset_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.padicValNat_multiset_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:32:47.301904+00:00
 -- url     : https://prove2.me/theorems/65dd1f65-5ae9-5fe2-8fd7-39884b39f16f

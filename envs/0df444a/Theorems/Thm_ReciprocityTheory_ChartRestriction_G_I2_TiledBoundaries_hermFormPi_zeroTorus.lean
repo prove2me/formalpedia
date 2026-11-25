@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_hermFormPi_zeroTorus
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.hermFormPi_zeroTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:27:38.578548+00:00
 -- url     : https://prove2.me/theorems/a300b72b-2df0-45b0-88f0-25425b32b076

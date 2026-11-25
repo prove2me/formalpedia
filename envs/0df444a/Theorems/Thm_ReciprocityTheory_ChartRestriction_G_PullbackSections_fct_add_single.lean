@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_fct_add_single
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.fct_add_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:33:02.505035+00:00
 -- url     : https://prove2.me/theorems/3a29138b-debd-568b-aa4f-cdd3bfc3cfb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_iteratedDeriv_list_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.iteratedDeriv_list_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:30:15.285798+00:00
 -- url     : https://prove2.me/theorems/c8a51aab-f9f9-5111-a672-35048c78f30b

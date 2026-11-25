@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isHomogeneous_of_mem_minimalPrimes
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isHomogeneous_of_mem_minimalPrimes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:24:32.337067+00:00
 -- url     : https://prove2.me/theorems/9d372454-98cc-476f-9655-9b45694f1595

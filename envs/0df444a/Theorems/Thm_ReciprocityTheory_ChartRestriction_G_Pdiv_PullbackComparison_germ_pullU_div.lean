@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Pdiv_PullbackComparison_germ_pullU_div
 -- name    : ReciprocityTheory.ChartRestriction.G.Pdiv.PullbackComparison.germ_pullU_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:33:22.766855+00:00
 -- url     : https://prove2.me/theorems/cc8f6fb7-c33c-51d7-b957-e9bc87af503f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_omE_adj_gen
 -- name    : PositivityTheory.KReal.omE_adj_gen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T12:30:59.001615+00:00
 -- url     : https://prove2.me/theorems/b2f2b52d-3f03-5593-b64b-aa8cc05a0683

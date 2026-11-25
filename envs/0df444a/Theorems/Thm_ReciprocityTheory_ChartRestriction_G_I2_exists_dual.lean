@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_exists_dual
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.exists_dual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:28:42.313941+00:00
 -- url     : https://prove2.me/theorems/ad8b76c9-d511-488c-b9f8-3e4911899294

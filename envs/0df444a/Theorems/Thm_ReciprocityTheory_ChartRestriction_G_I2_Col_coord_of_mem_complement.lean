@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Col_coord_of_mem_complement
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Col.coord_of_mem_complement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:26:33.374694+00:00
 -- url     : https://prove2.me/theorems/4819a5f0-b0cf-4754-98ae-eb2419a142c9

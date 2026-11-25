@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicIndexSums_hC_comb
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicIndexSums.hC_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:25:07.133609+00:00
 -- url     : https://prove2.me/theorems/e60591a5-0a00-5ee6-ae79-005116dd4d1e

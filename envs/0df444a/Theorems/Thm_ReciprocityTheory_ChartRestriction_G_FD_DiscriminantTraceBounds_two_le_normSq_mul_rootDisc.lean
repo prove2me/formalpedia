@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_DiscriminantTraceBounds_two_le_normSq_mul_rootDisc
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.DiscriminantTraceBounds.two_le_normSq_mul_rootDisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:13:29.675704+00:00
 -- url     : https://prove2.me/theorems/48f343ff-3c18-4ee4-848d-232816bff597

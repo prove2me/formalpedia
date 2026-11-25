@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_GtBCPf_isPullback_resLE
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.isPullback_resLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:31:00.750908+00:00
 -- url     : https://prove2.me/theorems/64ec2445-9c01-5851-a137-1ad7911c9d9a

@@ -1,0 +1,24 @@
+-- Prove2me | solution 1 for ReciprocityTheory.ChartRestriction.G.T0.MHF.bw_add
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T13:29:05.524854+00:00
+-- url     : https://prove2.me/submissions/77593ef6-f96b-489d-8862-2f981f5a6740
+
+import Definitions.Def_ReciprocityTheory_SemistableReduction_SphereLogIntegrableStatement
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_CoeffPsiBNeZero
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open ReciprocityTheory ReciprocityTheory.ChartRestriction ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.T0 ReciprocityTheory.ChartRestriction.G.T0.MHF
+open MvPolynomial ReciprocityTheory.MultiplicativeHeights
+variable {K : Type*} [Field K] {B n : ℕ}
+namespace ReciprocityTheory.ChartRestriction.G.T0.MHF
+theorem _root_.solution (b : Fin B) (s t : Fin B × Fin n →₀ ℕ) : bw b (s + t) = bw b s + bw b t := by
+  simp [bw, Finset.sum_add_distrib]
+end ReciprocityTheory.ChartRestriction.G.T0.MHF

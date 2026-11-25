@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_holoOn_eval_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.holoOn_eval_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:42.720808+00:00
 -- url     : https://prove2.me/theorems/a682539d-009f-5d0f-8304-a0418d01147b

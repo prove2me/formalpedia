@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_avgOver_mul_right_of_normalizes
 -- name    : GroundTheory.Automorphic.Parabolic.avgOver_mul_right_of_normalizes
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:03:25.05936+00:00
 -- url     : https://prove2.me/theorems/a63fb6bb-5d27-58e5-9520-a347333157ce

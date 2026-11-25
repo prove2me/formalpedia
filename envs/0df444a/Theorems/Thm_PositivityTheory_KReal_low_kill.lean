@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_low_kill
 -- name    : PositivityTheory.KReal.low_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:27:11.372787+00:00
 -- url     : https://prove2.me/theorems/0fbf528d-9964-44c9-9d61-cd6557c769a2

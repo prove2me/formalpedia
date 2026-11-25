@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adens_density_compare
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adens_density_compare
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:03:03.280227+00:00
 -- url     : https://prove2.me/theorems/316754dd-641c-539a-b6a4-27a4e4a37f45

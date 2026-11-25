@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_eq_of_commMap
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.eq_of_commMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:28:50.51478+00:00
 -- url     : https://prove2.me/theorems/44182032-11d9-49d7-adea-c31685073712

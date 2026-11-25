@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_tensD_apply
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.tensD_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:57:27.272523+00:00
 -- url     : https://prove2.me/theorems/f464bd15-a26d-5f35-9b2a-8f786d40526d

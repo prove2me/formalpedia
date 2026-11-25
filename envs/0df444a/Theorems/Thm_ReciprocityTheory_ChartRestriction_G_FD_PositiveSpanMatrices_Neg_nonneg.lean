@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PositiveSpanMatrices_Neg_nonneg
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PositiveSpanMatrices.Neg_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:21:46.419054+00:00
 -- url     : https://prove2.me/theorems/7610ac13-7107-5702-ba77-ed64ad251814

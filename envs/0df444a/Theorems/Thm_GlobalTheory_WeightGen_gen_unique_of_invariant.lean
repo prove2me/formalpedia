@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeightGen_gen_unique_of_invariant
 -- name    : GlobalTheory.WeightGen.gen_unique_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T21:52:03.753932+00:00
 -- url     : https://prove2.me/theorems/2969659f-ec3f-4751-98a0-01b5d14717b3

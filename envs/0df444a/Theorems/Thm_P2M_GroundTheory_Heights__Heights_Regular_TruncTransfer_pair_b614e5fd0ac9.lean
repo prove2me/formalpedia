@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_pair_b614e5fd0ac9
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_TruncTransfer_pair_b614e5fd0ac9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T04:18:36.386393+00:00
 -- url     : https://prove2.me/theorems/db69c97f-df14-5c93-9221-94a5afd242a0

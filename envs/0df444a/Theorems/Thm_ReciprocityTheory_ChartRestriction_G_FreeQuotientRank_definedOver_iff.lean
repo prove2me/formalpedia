@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_definedOver_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.definedOver_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:22:22.99315+00:00
 -- url     : https://prove2.me/theorems/3182f9a0-4ce1-49a6-a6ee-2ecb64429f69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_GoodB_homog
 -- name    : PI.WGB.GoodB_homog
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T05:45:09.286127+00:00
 -- url     : https://prove2.me/theorems/25f2799e-d680-42f7-a74e-b4a66bd833f5

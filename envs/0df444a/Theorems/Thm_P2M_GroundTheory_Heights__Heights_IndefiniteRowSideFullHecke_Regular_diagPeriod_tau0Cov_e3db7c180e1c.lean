@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_diagPeriod_tau0Cov_e3db7c180e1c
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_diagPeriod_tau0Cov_e3db7c180e1c
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:08:55.875071+00:00
 -- url     : https://prove2.me/theorems/f1583d0d-0616-4f42-898d-3a91b8f1ba48

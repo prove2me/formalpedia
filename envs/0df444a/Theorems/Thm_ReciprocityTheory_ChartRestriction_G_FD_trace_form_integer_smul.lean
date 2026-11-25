@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_trace_form_integer_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.trace_form_integer_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:22:00.10481+00:00
 -- url     : https://prove2.me/theorems/0d3f810c-e50e-4c8d-9f59-10ef4174c851

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_FFTSteps_AsmT_continuous_Mk
 -- name    : PositivityTheory.Rg.Sw.FFTSteps.AsmT.continuous_Mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T13:09:40.595817+00:00
 -- url     : https://prove2.me/theorems/f4c07d46-a9e8-5b80-ac4a-ca284196e8fc

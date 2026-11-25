@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WGB_extremalFacts_of_A
 -- name    : PI.WGB.extremalFacts_of_A
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T05:48:06.177661+00:00
 -- url     : https://prove2.me/theorems/7d348eb7-5b62-4a22-9033-04a598fed1b7

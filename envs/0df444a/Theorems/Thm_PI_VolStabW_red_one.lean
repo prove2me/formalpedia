@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_red_one
 -- name    : PI.VolStabW.red_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T05:45:44.142639+00:00
 -- url     : https://prove2.me/theorems/fd2ee29f-4231-41e0-b040-a1eb20436653

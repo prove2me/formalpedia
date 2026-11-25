@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrinSumP_colDet_sub
 -- name    : GlobalTheory.CompanionTheory.PrinSumP.colDet_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:55:46.801445+00:00
 -- url     : https://prove2.me/theorems/5ad691ab-37a8-498a-9095-a6aaf8103d89

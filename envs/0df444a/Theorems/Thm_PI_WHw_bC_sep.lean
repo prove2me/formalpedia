@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_WHw_bC_sep
 -- name    : PI.WHw.bC_sep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T05:46:42.177793+00:00
 -- url     : https://prove2.me/theorems/922bd30d-4768-4dc7-abfd-b77f4ddec193

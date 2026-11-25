@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_nA_Hf_sub_right
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.nA_Hf_sub_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:30:03.923302+00:00
 -- url     : https://prove2.me/theorems/cad53190-b51e-5286-8b91-33543766cdc7

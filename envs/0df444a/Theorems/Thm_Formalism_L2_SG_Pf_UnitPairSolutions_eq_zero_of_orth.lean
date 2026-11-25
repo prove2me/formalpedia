@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_UnitPairSolutions_eq_zero_of_orth
 -- name    : Formalism.L2.SG.Pf.UnitPairSolutions.eq_zero_of_orth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:05:11.385795+00:00
 -- url     : https://prove2.me/theorems/95f1cb5f-0842-5642-874e-fc9a29094855

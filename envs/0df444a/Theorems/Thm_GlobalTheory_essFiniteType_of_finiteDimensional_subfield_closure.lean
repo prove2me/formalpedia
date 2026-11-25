@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_essFiniteType_of_finiteDimensional_subfield_closure
 -- name    : GlobalTheory.essFiniteType_of_finiteDimensional_subfield_closure
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:04:51.955495+00:00
 -- url     : https://prove2.me/theorems/95c9da6b-b232-55c5-a549-cba3d1708cf2

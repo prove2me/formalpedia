@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_gradDensNonneg_thm
 -- name    : ReciprocityTheory.AnForm.A.gradDensNonneg_thm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:47:48.647429+00:00
 -- url     : https://prove2.me/theorems/ee407a45-af31-409f-a37b-3f4bfcaf89b6

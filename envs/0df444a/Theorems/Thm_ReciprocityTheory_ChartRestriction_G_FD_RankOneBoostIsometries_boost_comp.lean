@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RankOneBoostIsometries_boost_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RankOneBoostIsometries.boost_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:10.288596+00:00
 -- url     : https://prove2.me/theorems/dbaee42b-b5c3-483d-bf6a-c0d4ef7b9a8e

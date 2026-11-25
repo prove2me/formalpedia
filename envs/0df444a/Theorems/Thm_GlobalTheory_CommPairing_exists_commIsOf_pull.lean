@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommPairing_exists_commIsOf_pull
 -- name    : GlobalTheory.CommPairing.exists_commIsOf_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:21:33.141715+00:00
 -- url     : https://prove2.me/theorems/4b91de72-86f6-4161-a0ff-4e77a3898497

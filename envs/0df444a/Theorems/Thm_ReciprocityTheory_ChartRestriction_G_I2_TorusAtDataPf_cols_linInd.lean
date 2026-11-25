@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TorusAtDataPf_cols_linInd
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TorusAtDataPf.cols_linInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:28:26.788809+00:00
 -- url     : https://prove2.me/theorems/3763828b-943f-485a-a74c-55823bc9b7e5

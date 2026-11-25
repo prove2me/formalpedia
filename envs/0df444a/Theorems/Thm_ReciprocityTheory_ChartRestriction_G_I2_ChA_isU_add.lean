@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_ChA_isU_add
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.ChA.isU_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:25:57.290438+00:00
 -- url     : https://prove2.me/theorems/660e0e1a-b0ef-5123-abf8-a1063b181fdc

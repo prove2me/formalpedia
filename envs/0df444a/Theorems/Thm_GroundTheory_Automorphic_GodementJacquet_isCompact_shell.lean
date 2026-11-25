@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_isCompact_shell
 -- name    : GroundTheory.Automorphic.GodementJacquet.isCompact_shell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:27:31.773665+00:00
 -- url     : https://prove2.me/theorems/fcb3b562-d448-435d-ba89-cdafe56b0109

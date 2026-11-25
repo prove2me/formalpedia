@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_fibreCountingData_mem_B
 -- name    : Formalism.L2.SG.Pf.fibreCountingData.mem_B
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:58:18.498668+00:00
 -- url     : https://prove2.me/theorems/c8a5c6b0-2092-58c6-ba92-5cd842d78924

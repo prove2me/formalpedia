@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_gaM_integral_fsDens
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.gaM_integral_fsDens
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:08:51.282515+00:00
 -- url     : https://prove2.me/theorems/bd4f57ab-0d92-57d5-a3fb-fd142e541b54

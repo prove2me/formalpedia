@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_ct_iter_eq_itD_ofFn
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.ct_iter_eq_itD_ofFn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:31:00.680595+00:00
 -- url     : https://prove2.me/theorems/c50f60b7-2559-5b93-9a45-f23aac40ad61

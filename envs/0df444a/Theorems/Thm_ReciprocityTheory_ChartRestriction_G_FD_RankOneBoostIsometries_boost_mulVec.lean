@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RankOneBoostIsometries_boost_mulVec
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RankOneBoostIsometries.boost_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:32:42.478958+00:00
 -- url     : https://prove2.me/theorems/0572a8ae-eb28-4673-b200-b8208e4adfa5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_cab_key
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.cab_key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:28:22.441861+00:00
 -- url     : https://prove2.me/theorems/ef9575c8-2436-4ad2-966b-4a4c86f52e6f

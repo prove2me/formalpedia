@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_GtBCPf_cmap_comp
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.cmap_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:31:12.462035+00:00
 -- url     : https://prove2.me/theorems/cda643bc-7478-4592-ae37-ed18db45ddde

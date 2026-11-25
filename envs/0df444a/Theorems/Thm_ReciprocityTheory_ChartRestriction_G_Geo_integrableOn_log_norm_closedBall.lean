@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_integrableOn_log_norm_closedBall
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.integrableOn_log_norm_closedBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:53.347905+00:00
 -- url     : https://prove2.me/theorems/be1ccf88-f051-4bc4-85db-978f974ce08b

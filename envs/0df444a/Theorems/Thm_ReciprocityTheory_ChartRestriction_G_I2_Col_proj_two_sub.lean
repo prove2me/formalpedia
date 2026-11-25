@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Col_proj_two_sub
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Col.proj_two_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:27:09.455701+00:00
 -- url     : https://prove2.me/theorems/67c614ab-3fbb-4eb2-a184-0a88eb1feafb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KernelEigen_exists_kernel_lift
 -- name    : GlobalTheory.KernelEigen.exists_kernel_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T17:49:21.740383+00:00
 -- url     : https://prove2.me/theorems/4c7f8dcd-40a1-4c67-90ce-f28845187309

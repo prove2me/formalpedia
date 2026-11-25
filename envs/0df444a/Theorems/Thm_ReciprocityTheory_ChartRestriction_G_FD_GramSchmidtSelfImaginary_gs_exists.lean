@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_GramSchmidtSelfImaginary_gs_exists
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.GramSchmidtSelfImaginary.gs_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:18:10.708931+00:00
 -- url     : https://prove2.me/theorems/37092732-0084-5220-9503-970706610226

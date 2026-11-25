@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_comap_kill_variables_le
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.comap_kill_variables_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:10:34.757012+00:00
 -- url     : https://prove2.me/theorems/e950550b-7a3c-5eeb-8a5a-93c2b3d95e8f

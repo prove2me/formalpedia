@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilIsogeny_exists_theta_pull
 -- name    : GlobalTheory.WeilIsogeny.exists_theta_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:54:15.331797+00:00
 -- url     : https://prove2.me/theorems/b3f14da3-cc13-4d3e-8a6f-02a457d45d28

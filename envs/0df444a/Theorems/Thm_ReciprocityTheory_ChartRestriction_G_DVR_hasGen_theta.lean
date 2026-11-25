@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_hasGen_theta
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.hasGen_theta
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:11:12.497929+00:00
 -- url     : https://prove2.me/theorems/6698f63e-c18a-5d98-ba03-ee77b444241b

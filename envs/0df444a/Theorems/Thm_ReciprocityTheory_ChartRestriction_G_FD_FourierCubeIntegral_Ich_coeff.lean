@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCubeIntegral_Ich_coeff
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCubeIntegral.Ich_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:17:29.420449+00:00
 -- url     : https://prove2.me/theorems/b5d53a8d-7cda-5f5d-87f0-4861acca0df1

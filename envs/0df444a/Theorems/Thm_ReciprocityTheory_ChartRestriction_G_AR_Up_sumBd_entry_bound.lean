@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_sumBd_entry_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.sumBd_entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:00:45.229009+00:00
 -- url     : https://prove2.me/theorems/0c31ce55-cb55-5894-ba07-19755e092b99

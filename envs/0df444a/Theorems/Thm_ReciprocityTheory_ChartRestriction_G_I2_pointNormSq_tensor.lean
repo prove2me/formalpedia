@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_pointNormSq_tensor
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.pointNormSq_tensor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:30:13.250613+00:00
 -- url     : https://prove2.me/theorems/1a353158-0941-4f82-b60b-f8017018a98e

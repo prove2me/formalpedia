@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_card_piece_colon_exact
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.card_piece_colon_exact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:04:28.050332+00:00
 -- url     : https://prove2.me/theorems/8deca70f-96bd-4a0b-b4e4-eccb03b7a7fd

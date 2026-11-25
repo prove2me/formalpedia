@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_exists_zero_fderiv_ne_zero
 -- name    : GlobalTheory.ThetaGauss.exists_zero_fderiv_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:48:02.639276+00:00
 -- url     : https://prove2.me/theorems/ecbf87c5-2f5c-407e-95d7-b8d9264ff722

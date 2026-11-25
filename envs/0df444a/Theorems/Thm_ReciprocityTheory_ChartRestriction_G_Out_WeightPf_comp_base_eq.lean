@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_WeightPf_comp_base_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.WeightPf.comp_base_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:36:55.636914+00:00
 -- url     : https://prove2.me/theorems/de410d71-69f9-4cd9-bb87-708b782ba1fe

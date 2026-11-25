@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_A_fTerm_props
 -- name    : ReciprocityTheory.AnForm.A.fTerm_props
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:51:40.032023+00:00
 -- url     : https://prove2.me/theorems/845e47fa-2846-4435-8fba-9a3b0a577b3a

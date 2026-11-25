@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_isHermFam_real_linear_comb
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.isHermFam_real_linear_comb
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:45.507819+00:00
 -- url     : https://prove2.me/theorems/9ca2a509-e6cf-5f0a-ac71-f7e696ef82cc

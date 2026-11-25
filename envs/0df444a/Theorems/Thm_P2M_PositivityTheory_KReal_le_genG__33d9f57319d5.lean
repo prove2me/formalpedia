@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PositivityTheory_KReal_le_genG__33d9f57319d5
 -- name    : P2M_PositivityTheory_KReal_le_genG__33d9f57319d5
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:08:12.641551+00:00
 -- url     : https://prove2.me/theorems/bfcdc9ba-9141-5eef-a982-a8af4ff58945

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimC_Phi_single
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimC.Phi_single
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:27:50.270607+00:00
 -- url     : https://prove2.me/theorems/c47d4922-fc99-4fb1-a9cc-0c8d4d23b300

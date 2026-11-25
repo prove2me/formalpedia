@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_dom_of_hw
 -- name    : PositivityTheory.KReal.dom_of_hw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:35:51.829186+00:00
 -- url     : https://prove2.me/theorems/70d577d4-7093-4e03-851f-d8621c23ca24

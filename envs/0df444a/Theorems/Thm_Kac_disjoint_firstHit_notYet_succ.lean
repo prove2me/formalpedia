@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_disjoint_firstHit_notYet_succ
 -- name    : Kac.disjoint_firstHit_notYet_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:07:56.785418+00:00
 -- url     : https://prove2.me/theorems/a0a5b3c2-b01a-5310-9249-02614adf8784

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_inner_crossOp_eig_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.inner_crossOp_eig_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:56:39.673087+00:00
 -- url     : https://prove2.me/theorems/0e763ed4-1786-4ee4-b144-07a2f0b76d81

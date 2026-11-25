@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_ct_iter_cexp_apply
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.ct_iter_cexp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:30:03.916125+00:00
 -- url     : https://prove2.me/theorems/606f433e-10a4-5ce8-8ddd-87dcfbdb7b03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_lt_returnTime_iff
 -- name    : Kac.lt_returnTime_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:07:33.019377+00:00
 -- url     : https://prove2.me/theorems/7cc1636d-c230-5fa9-b7fc-f1becb7d0f65

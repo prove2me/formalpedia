@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LatDictZ_Z5_descent
 -- name    : Formalism.L2.SG.Pf.LatDictZ.Z5.descent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T14:35:41.026193+00:00
 -- url     : https://prove2.me/theorems/ee9f4026-e561-4620-8a3f-a1966d29812c

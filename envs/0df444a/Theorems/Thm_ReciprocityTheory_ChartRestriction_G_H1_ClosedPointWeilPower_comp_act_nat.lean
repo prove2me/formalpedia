@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_ClosedPointWeilPower_comp_act_nat
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.ClosedPointWeilPower.comp_act_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:27:00.702455+00:00
 -- url     : https://prove2.me/theorems/7badcb9b-f412-4e9d-a797-459d35cf5e07

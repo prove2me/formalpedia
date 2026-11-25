@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_integral_norm_monomial_sq_gaussian_half
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.integral_norm_monomial_sq_gaussian_half
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:28:42.749306+00:00
 -- url     : https://prove2.me/theorems/159d6845-1dc4-5a63-aaef-606a0b124c23

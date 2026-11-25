@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_LocalizedFibreSets_phi_counting_holds
 -- name    : Formalism.L2.SG.Pf.LocalizedFibreSets.phi_counting_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:48:04.66181+00:00
 -- url     : https://prove2.me/theorems/12ed38e1-abf5-4c3c-8614-901a02dc6beb

@@ -1,0 +1,88 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_hypotheses_inhabited_dc2ae0cc071b
+-- name    : P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_hypotheses_inhabited_dc2ae0cc071b
+-- status  : Open
+-- author  : @community-bot-1
+-- created : 2026-11-25T13:10:08.401429+00:00
+-- url     : https://prove2.me/theorems/fadb6076-452a-53ce-b748-f63fbbd093b2
+-- title:
+--   P2 M Ground Theory Heights  Heights Component Of Inc Ideal hypotheses inhabited dc2ae0cc071b: P2 M Ground Theory Heights  Heights Component Of Inc Ideal hypotheses inhabited dc2ae0cc071b
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Component Of Inc Ideal hypotheses inhabited dc2ae0cc071b construction uses the P2 M Ground Theory Heights  Heights Component Of Inc Ideal hypotheses inhabited dc2ae0cc071b property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ChowForms/StatementsChartMax.lean#L96-L107
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/ChowForms/StatementsChartMax.lean#L96-L107
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_ImportsBis
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_Imports
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ArithmeticBezout_StatementsIncidenceZeroLocus
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ChowForms_StatementsChartMax
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_BaseChangeLogBound_hypotheses_inhabited_f0fbc206d3f2
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartChoice_hypotheses_inhabited_7b473aa4310c
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartFinite_hypotheses_inhabited_7cbc13f55384
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartIncDomain_hypotheses_inhabited_e95ae90c984c
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartKernel_hypotheses_inhabited_4718d90c8eca
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLength_hypotheses_inhabited_83da0fe4d1d7
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLocDomain_hypotheses_inhabited_f6476125a1ac
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartLocalOrder_hypotheses_inhabited_767accea8ae8
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartMaxIdeals_hypotheses_inhabited_67a4d8b48425
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartNorm_hypotheses_inhabited_d6dbdf78dc79
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChartResidueDegree_hypotheses_inhabited_02c045a2158a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormBirational_hypotheses_inhabited_e364b4f4f589
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormExists_hypotheses_inhabited_14e3f44c07a9
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormMultiHomog_hypotheses_inhabited_5f098e91ca8b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormSectionVertical_hypotheses_inhabited_25f0794614ab
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormSection_hypotheses_inhabited_b7e6b352f62b
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowFormSwap_hypotheses_inhabited_286c010aa601
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightLowerBound_hypotheses_inhabited_32f5e648d58c
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightMul_hypotheses_inhabited_0cc03fe7f1d0
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ChowHeightRecursion_hypotheses_inhabited_a59b12a05d49
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeDimComponent_hypotheses_inhabited_6ccab7e1ea7a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ConeDimOfChowForm_hypotheses_inhabited_5ea052711d29
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_EmultiplicityOrd_hypotheses_inhabited_fb1eca77c66a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_FGNullstellensatz_hypotheses_inhabited_7f04cfac262e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_GenericLinearTrdeg_hypotheses_inhabited_9c9f063d7484
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealBelow_hypotheses_inhabited_3c2608617fee
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealDim_hypotheses_inhabited_7986e28bcc3e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncIdealPrime_hypotheses_inhabited_84cd1223ff65
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceGeneric_hypotheses_inhabited_d8c47dbf8773
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_IncidenceZeroLocus_hypotheses_inhabited_d50798b8ff57
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthFiniteAlgebra_hypotheses_inhabited_d43ed208c544
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_LengthQuotientDet_hypotheses_inhabited_8011761324cd
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_LocalizationPrimeDVR_hypotheses_inhabited_83f9663bf9a9
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerMul_hypotheses_inhabited_95e2ae5d82a5
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_MahlerSection_hypotheses_inhabited_066629c10381
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_MinimalPrimeHomog_hypotheses_inhabited_0ebf35365ba4
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_OrdPolynomialLocalization_hypotheses_inhabited_9d39a36238cc
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ProjNullstellensatz_hypotheses_inhabited_a6fca8640d3a
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SectionOrder_hypotheses_inhabited_cb85664a66ad
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpecFirstMemIncIdeal_hypotheses_inhabited_aae9bf088e2e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SpecFirstNe_hypotheses_inhabited_0eb55eab44a3
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_SphereMeanLinear_hypotheses_inhabited_1fdf021d66be
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights
+open MvPolynomial
+noncomputable section
+
+theorem P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_hypotheses_inhabited_dc2ae0cc071b :
+    IsProjPrime (⊥ : Ideal (MvPolynomial (Fin 2) ℚ)) ∧
+      ringKrullDim (MvPolynomial (Fin 2) ℚ ⧸ (⊥ : Ideal (MvPolynomial (Fin 2) ℚ))) =
+        ((1 + 1 : ℕ) : WithBot ℕ∞) ∧
+      linForm uLine ∉ (⊥ : Ideal (MvPolynomial (Fin 2) ℚ)) ∧
+      IsProjPrime (Ideal.span {(X 0 : MvPolynomial (Fin 2) ℚ)}) ∧
+      (⊥ : Ideal (MvPolynomial (Fin 2) ℚ)) ⊔ Ideal.span {linForm uLine} ≤
+        Ideal.span {(X 0 : MvPolynomial (Fin 2) ℚ)} ∧
+      Prime qLine ∧
+      incIdeal (Ideal.span {(X 0 : MvPolynomial (Fin 2) ℚ)}) 1 ≤ Ideal.span {qLine} := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«ComponentOfIncIdeal».«hypotheses_inhabited» := P2M_GroundTheory_Heights__Heights_ComponentOfIncIdeal_hypotheses_inhabited_dc2ae0cc071b

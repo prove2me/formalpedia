@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_pairwise_disjoint_firstHit
 -- name    : Kac.pairwise_disjoint_firstHit
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:08:09.707807+00:00
 -- url     : https://prove2.me/theorems/90d0412d-f22f-49cc-b6e5-d4b2f9579ec4

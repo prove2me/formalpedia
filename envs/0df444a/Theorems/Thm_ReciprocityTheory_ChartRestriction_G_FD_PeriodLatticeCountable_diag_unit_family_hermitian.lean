@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodLatticeCountable_diag_unit_family_hermitian
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodLatticeCountable.diag_unit_family_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:25:09.455784+00:00
 -- url     : https://prove2.me/theorems/426bd808-dad5-4ee0-80b1-7fca112d2f8a

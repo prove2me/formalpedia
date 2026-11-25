@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_potOf_cons
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.potOf_cons
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:25:40.789122+00:00
 -- url     : https://prove2.me/theorems/163bcfc4-25da-4f35-8d01-7938d1ea412e

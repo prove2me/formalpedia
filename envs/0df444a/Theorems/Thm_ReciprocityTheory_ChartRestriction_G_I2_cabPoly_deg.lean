@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_cabPoly_deg
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.cabPoly_deg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:27:40.217094+00:00
 -- url     : https://prove2.me/theorems/681ea28a-0130-47e5-a1db-4ebba9339956

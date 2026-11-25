@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_mem_lattice_zeroTorus
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.mem_lattice_zeroTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:27:34.163811+00:00
 -- url     : https://prove2.me/theorems/e21074ea-82ad-4eec-8388-c0627b9ce12d

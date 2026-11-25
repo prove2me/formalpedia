@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FixedPointImaginarySpan_span_Lc
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FixedPointImaginarySpan.span_Lc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:13:49.135302+00:00
 -- url     : https://prove2.me/theorems/390fe775-d783-4cbb-a9ce-09e3ab91901d

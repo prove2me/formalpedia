@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_qdetFacts_holds
 -- name    : PositivityTheory.Rg.Cz.qdetFacts_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:57:34.681139+00:00
 -- url     : https://prove2.me/theorems/9f70481b-ff1f-575c-84ba-c3691a886e88

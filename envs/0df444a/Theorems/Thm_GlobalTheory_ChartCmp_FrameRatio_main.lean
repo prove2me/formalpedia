@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChartCmp_FrameRatio_main
 -- name    : GlobalTheory.ChartCmp.FrameRatio.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T03:10:17.826042+00:00
 -- url     : https://prove2.me/theorems/a742d0d1-c792-5efb-bb8e-ef4cf1e8f3c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnipMove_MajH_en_mulVec_le
 -- name    : UnipMove.MajH.en_mulVec_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:17:44.78593+00:00
 -- url     : https://prove2.me/theorems/b6e06582-bc65-4df1-a4dc-148de672a0fe

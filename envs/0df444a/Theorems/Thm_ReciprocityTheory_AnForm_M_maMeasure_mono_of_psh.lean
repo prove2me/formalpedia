@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_maMeasure_mono_of_psh
 -- name    : ReciprocityTheory.AnForm.M.maMeasure_mono_of_psh
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:33:14.509424+00:00
 -- url     : https://prove2.me/theorems/b3693c43-0652-488f-9059-ef00bbbcae1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_Tor_isGt_of_iso
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.Tor.isGt_of_iso
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:08:59.781866+00:00
 -- url     : https://prove2.me/theorems/796ed3b7-2de5-4ae1-9c95-c494aafe4811

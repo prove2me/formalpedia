@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_linearIndependent_of_eigen
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.linearIndependent_of_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:25:39.758244+00:00
 -- url     : https://prove2.me/theorems/70377616-ee5d-57e8-9088-7950e52d1590

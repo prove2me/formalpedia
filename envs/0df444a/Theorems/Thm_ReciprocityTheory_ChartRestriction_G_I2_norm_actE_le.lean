@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_norm_actE_le
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.norm_actE_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:31:56.652967+00:00
 -- url     : https://prove2.me/theorems/b2b12915-b143-50a8-a14c-7d54e6c75dc5

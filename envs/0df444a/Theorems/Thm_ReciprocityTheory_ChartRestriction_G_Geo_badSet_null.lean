@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_badSet_null
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.badSet_null
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:23:03.485032+00:00
 -- url     : https://prove2.me/theorems/539e689a-cc6f-5b5d-89dc-e6f6f824e953

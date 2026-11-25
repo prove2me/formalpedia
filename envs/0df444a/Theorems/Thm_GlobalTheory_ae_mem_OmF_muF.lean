@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ae_mem_OmF_muF
 -- name    : GlobalTheory.ae_mem_OmF_muF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:12:11.928108+00:00
 -- url     : https://prove2.me/theorems/5bf912c4-fc7d-57c4-8711-e117a16ced6d

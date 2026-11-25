@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimB_descend
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimB.descend
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:19:24.958315+00:00
 -- url     : https://prove2.me/theorems/68efbc92-c6c0-4047-b514-64f9b33e6743

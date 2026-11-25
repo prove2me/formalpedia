@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_inner_sq_add_inner_I_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.inner_sq_add_inner_I_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:24:08.244982+00:00
 -- url     : https://prove2.me/theorems/21c1eb71-dd3c-4e23-a79d-946c623af9ac

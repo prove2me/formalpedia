@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Pdiv_PullbackComparison_lift_swap
 -- name    : ReciprocityTheory.ChartRestriction.G.Pdiv.PullbackComparison.lift_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:33:39.866941+00:00
 -- url     : https://prove2.me/theorems/416b04fd-b43c-4b91-a766-6c094fe754b8

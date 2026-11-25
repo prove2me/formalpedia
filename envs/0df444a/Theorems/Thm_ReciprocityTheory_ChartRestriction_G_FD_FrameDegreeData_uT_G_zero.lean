@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FrameDegreeData_uT_G_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FrameDegreeData.uT_G_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:18:18.824698+00:00
 -- url     : https://prove2.me/theorems/0ee29279-3bf8-599a-89e6-079a82166dc6

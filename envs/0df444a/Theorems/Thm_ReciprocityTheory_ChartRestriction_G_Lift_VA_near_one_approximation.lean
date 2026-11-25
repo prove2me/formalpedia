@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_near_one_approximation
 -- name    : ReciprocityTheory.ChartRestriction.G.Lift.VA.near_one_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:31:13.789402+00:00
 -- url     : https://prove2.me/theorems/d1deebf1-bc58-4cee-9b7c-905a9e1e9ea6

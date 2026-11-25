@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_unitaryComplementMove
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.unitaryComplementMove
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:33.450829+00:00
 -- url     : https://prove2.me/theorems/1acf94d5-4dd3-4140-be38-cbe22fb07d0b

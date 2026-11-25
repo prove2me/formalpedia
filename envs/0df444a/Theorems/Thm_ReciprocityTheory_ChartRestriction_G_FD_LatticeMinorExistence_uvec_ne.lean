@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LatticeMinorExistence_uvec_ne
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LatticeMinorExistence.uvec_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:18:57.00119+00:00
 -- url     : https://prove2.me/theorems/19103d78-ec53-5d1b-b661-c91939f62c56

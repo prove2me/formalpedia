@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_InfKA_integral_Ek_block
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.InfKA.integral_Ek_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:47:25.495555+00:00
 -- url     : https://prove2.me/theorems/2719970d-2306-54b5-ab05-ce4cf141a5ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_integral_mul_coeff_eq
 -- name    : GroundTheory.Automorphic.GodementJacquet.integral_mul_coeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:45:37.380927+00:00
 -- url     : https://prove2.me/theorems/17043d24-0dd1-5cef-bfa4-445a118113e0

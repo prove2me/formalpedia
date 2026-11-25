@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_CVA_biext_change_first_factor
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.CVA.biext_change_first_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:33:58.080635+00:00
 -- url     : https://prove2.me/theorems/ae9f679e-0fc4-5207-8528-1136a18356c6

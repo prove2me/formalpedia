@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_nA_pi_diff
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.nA_pi_diff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:30:07.473419+00:00
 -- url     : https://prove2.me/theorems/6fd3f975-52d4-4ac4-b9e9-2aa51dcc9a39

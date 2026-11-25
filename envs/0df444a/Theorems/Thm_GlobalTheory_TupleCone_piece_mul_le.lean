@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TupleCone_piece_mul_le
 -- name    : GlobalTheory.TupleCone.piece_mul_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:02:25.133332+00:00
 -- url     : https://prove2.me/theorems/f23563c6-dd05-5d33-9b06-87a5228c2f99

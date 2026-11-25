@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_firstMinimum_le_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.firstMinimum_le_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:29:24.743059+00:00
 -- url     : https://prove2.me/theorems/0be5622e-a5e0-489f-bc9c-a241cd7559ad

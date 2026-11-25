@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_contDiffOn_lift
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.contDiffOn_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:23:28.906555+00:00
 -- url     : https://prove2.me/theorems/2fdc82a3-7cbd-4966-b105-9c06bc300b50

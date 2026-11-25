@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_SublatticeCoefficients_freq_of_basis
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.SublatticeCoefficients.freq_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:21:18.826464+00:00
 -- url     : https://prove2.me/theorems/4002f169-69ab-4a86-931c-7be5d8bb8238

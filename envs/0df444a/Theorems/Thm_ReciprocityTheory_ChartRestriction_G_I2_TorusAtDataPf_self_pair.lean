@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TorusAtDataPf_self_pair
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TorusAtDataPf.self_pair
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:31:55.763795+00:00
 -- url     : https://prove2.me/theorems/f02d3b57-7581-4fb6-a3d3-06e565a57abb

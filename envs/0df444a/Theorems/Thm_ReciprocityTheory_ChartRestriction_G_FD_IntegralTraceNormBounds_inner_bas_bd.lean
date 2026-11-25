@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IntegralTraceNormBounds_inner_bas_bd
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IntegralTraceNormBounds.inner_bas_bd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:18:28.640577+00:00
 -- url     : https://prove2.me/theorems/efeac10a-98b4-47a7-b9c0-a945b8d0cdb7

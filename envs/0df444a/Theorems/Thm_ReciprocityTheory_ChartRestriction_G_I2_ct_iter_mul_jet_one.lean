@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_ct_iter_mul_jet_one
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.ct_iter_mul_jet_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:28:56.682127+00:00
 -- url     : https://prove2.me/theorems/bb5d45df-4787-4716-9946-09bac1a25329

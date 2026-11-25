@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_exists_symLift_mulPull
 -- name    : GlobalTheory.ThetaCoord.exists_symLift_mulPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T20:16:56.312149+00:00
 -- url     : https://prove2.me/theorems/7341875e-6ad6-4ca5-a098-03fea50e837a

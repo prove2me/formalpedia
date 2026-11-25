@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_sum_omDF_omF
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.sum_omDF_omF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:41:42.459438+00:00
 -- url     : https://prove2.me/theorems/8a05cfd0-0d76-453e-8c67-e86d1ca56abf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_WMult_rsp_of_sncData
 -- name    : ReciprocityTheory.AnForm.R.WMult.rsp_of_sncData
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:09:38.084165+00:00
 -- url     : https://prove2.me/theorems/ed59b7d6-3570-576a-ad98-b6029c187cdd

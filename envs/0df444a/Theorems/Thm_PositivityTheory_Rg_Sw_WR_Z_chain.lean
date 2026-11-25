@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_Z_chain
 -- name    : PositivityTheory.Rg.Sw.WR.Z.chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T09:02:27.071709+00:00
 -- url     : https://prove2.me/theorems/98c37de2-dc36-4fdd-a7b0-43ecfbaa091f

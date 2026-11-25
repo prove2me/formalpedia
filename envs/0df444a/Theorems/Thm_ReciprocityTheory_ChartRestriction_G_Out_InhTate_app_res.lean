@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_InhTate_app_res
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.InhTate.app_res
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:31:32.084883+00:00
 -- url     : https://prove2.me/theorems/15032879-78c5-56d8-a874-5b1a6a81a3cf

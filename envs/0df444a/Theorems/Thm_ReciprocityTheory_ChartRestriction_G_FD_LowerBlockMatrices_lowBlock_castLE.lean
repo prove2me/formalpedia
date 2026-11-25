@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LowerBlockMatrices_lowBlock_castLE
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LowerBlockMatrices.lowBlock_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:19:50.256639+00:00
 -- url     : https://prove2.me/theorems/b0d55e40-fbef-4c18-91d1-6fe786e3424f

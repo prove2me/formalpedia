@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_valApprox_of
 -- name    : ReciprocityTheory.ChartRestriction.G.Lift.VA.valApprox_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:31:34.339149+00:00
 -- url     : https://prove2.me/theorems/8cfa5dee-56b4-4c70-b852-d9545af00e9f

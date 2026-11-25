@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_khw_lowK_sub_root_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.khw_lowK_sub_root_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:52:00.007412+00:00
 -- url     : https://prove2.me/theorems/258b92c3-d1cc-4e73-815e-41415a5e43ba

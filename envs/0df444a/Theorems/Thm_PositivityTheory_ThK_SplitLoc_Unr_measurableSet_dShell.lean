@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThK_SplitLoc_Unr_measurableSet_dShell
 -- name    : PositivityTheory.ThK.SplitLoc.Unr.measurableSet_dShell
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:13:21.187822+00:00
 -- url     : https://prove2.me/theorems/888407c5-dd5b-430a-80a6-fef28e2f188c

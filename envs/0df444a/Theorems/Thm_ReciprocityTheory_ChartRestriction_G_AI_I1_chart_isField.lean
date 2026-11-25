@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_I1_chart_isField
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.I1.chart_isField
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:24:41.159526+00:00
 -- url     : https://prove2.me/theorems/18017454-97e0-46a1-8045-03c5400eb50d

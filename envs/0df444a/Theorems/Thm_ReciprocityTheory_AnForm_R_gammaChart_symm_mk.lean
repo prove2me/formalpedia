@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_gammaChart_symm_mk
 -- name    : ReciprocityTheory.AnForm.R.gammaChart_symm_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:04:25.333882+00:00
 -- url     : https://prove2.me/theorems/581f913e-3a04-586b-a220-0a0e3821d743

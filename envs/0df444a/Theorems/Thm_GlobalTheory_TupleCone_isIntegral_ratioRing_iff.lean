@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TupleCone_isIntegral_ratioRing_iff
 -- name    : GlobalTheory.TupleCone.isIntegral_ratioRing_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:02:24.287631+00:00
 -- url     : https://prove2.me/theorems/68e606ec-7a48-51da-b2c2-2fdcef0a97fe

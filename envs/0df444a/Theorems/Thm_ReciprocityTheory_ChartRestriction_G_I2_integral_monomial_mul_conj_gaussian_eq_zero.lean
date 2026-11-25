@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_integral_monomial_mul_conj_gaussian_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.integral_monomial_mul_conj_gaussian_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:28:36.312857+00:00
 -- url     : https://prove2.me/theorems/e0cd234c-2851-5080-9ce6-0f036dd5cd6a

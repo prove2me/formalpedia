@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_exists_gen_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.exists_gen_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:35.10884+00:00
 -- url     : https://prove2.me/theorems/e90c0337-94d9-4bdb-a3fa-da6283f5adc2

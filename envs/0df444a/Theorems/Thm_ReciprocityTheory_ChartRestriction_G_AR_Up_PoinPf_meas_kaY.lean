@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_meas_kaY
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.meas_kaY
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:20:11.496938+00:00
 -- url     : https://prove2.me/theorems/d497e1fc-ca4d-44c4-8741-3e6036ec62fb

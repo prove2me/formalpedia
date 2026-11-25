@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sections_mulPull_split
 -- name    : GlobalTheory.sections_mulPull_split
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T23:21:13.771612+00:00
 -- url     : https://prove2.me/theorems/be72c42d-1fbb-49aa-834a-dd359e4a9d8a

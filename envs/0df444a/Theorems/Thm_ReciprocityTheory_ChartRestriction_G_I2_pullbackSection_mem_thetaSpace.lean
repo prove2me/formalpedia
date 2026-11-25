@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_pullbackSection_mem_thetaSpace
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.pullbackSection_mem_thetaSpace
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:34:03.291832+00:00
 -- url     : https://prove2.me/theorems/5642a433-1cc5-44a9-b42c-de6916bbc622

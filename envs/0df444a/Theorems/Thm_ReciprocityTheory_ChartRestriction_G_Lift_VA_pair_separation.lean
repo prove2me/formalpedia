@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_pair_separation
 -- name    : ReciprocityTheory.ChartRestriction.G.Lift.VA.pair_separation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:31:25.784411+00:00
 -- url     : https://prove2.me/theorems/8879c3e0-33c7-446c-aa58-d5fdd483a963

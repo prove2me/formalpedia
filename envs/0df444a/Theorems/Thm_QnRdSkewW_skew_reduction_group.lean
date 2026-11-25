@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QnRdSkewW_skew_reduction_group
 -- name    : QnRdSkewW.skew_reduction_group
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T06:17:23.372998+00:00
 -- url     : https://prove2.me/theorems/2de130bb-e6eb-5901-9cce-8eaf5164704e

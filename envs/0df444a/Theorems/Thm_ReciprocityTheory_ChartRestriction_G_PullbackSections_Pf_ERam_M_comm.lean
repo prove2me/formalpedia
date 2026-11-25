@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_M_comm
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.M_comm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:33:57.768144+00:00
 -- url     : https://prove2.me/theorems/bd9fdc4e-2b12-48a7-87c0-2916c23d57e9

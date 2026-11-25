@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_symLift_unique
 -- name    : GlobalTheory.SymLiftOdd.symLift_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:41:27.43357+00:00
 -- url     : https://prove2.me/theorems/7b3489e5-599a-459d-b79b-6835b505cfde

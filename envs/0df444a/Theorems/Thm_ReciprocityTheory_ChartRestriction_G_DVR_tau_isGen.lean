@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_tau_isGen
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.tau_isGen
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:44:21.725916+00:00
 -- url     : https://prove2.me/theorems/bffd6a3c-3e3b-4134-89d4-46982de398fb

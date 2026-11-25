@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_bdd_trans
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.bdd_trans
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:27:38.937748+00:00
 -- url     : https://prove2.me/theorems/aa57ad95-96e0-5570-b14b-e46ec769c0a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_maDens_congr_fderiv
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.maDens_congr_fderiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:25:11.544384+00:00
 -- url     : https://prove2.me/theorems/15b40414-b6ea-4e3b-b512-41851c79a5e3

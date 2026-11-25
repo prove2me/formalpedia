@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_eval_eq_zero_of_mul
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.eval_eq_zero_of_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:37:59.879797+00:00
 -- url     : https://prove2.me/theorems/6bd06272-6b6d-4c86-9f75-62fbffa16033

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lib_AdeleIntA_exists_den_local
 -- name    : ReciprocityTheory.ChartRestriction.G.Lib.AdeleIntA.exists_den_local
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:30:50.602798+00:00
 -- url     : https://prove2.me/theorems/bc0d52ab-be9d-5f59-9841-bb1c0ca72d94

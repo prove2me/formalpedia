@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_maMeasureMono
 -- name    : ReciprocityTheory.AnForm.M.maMeasureMono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:32:47.721158+00:00
 -- url     : https://prove2.me/theorems/a164aef7-d6e9-5847-b852-81697e3299e7

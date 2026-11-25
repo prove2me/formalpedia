@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_integralWith_localize_support
 -- name    : ReciprocityTheory.AnForm.M.integralWith_localize_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:20:09.38428+00:00
 -- url     : https://prove2.me/theorems/07fdea5a-5edf-52d6-a31d-fa76d5d0f680

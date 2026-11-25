@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_CompanionTheory_RgExh_Hk_hecke_of__b333356e2fe6
 -- name    : P2M_CompanionTheory_RgExh_Hk_hecke_of__b333356e2fe6
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:52:20.149357+00:00
 -- url     : https://prove2.me/theorems/f003ebb6-ea0d-5ccb-8213-da3f22223ac9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_rk_act_natCast
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.rk_act_natCast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:30:27.425196+00:00
 -- url     : https://prove2.me/theorems/7a1b6aff-3250-409e-a8d2-ad748190ceb7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormRos_exists_isNormRos
 -- name    : GlobalTheory.NormRos.exists_isNormRos
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:36:33.575999+00:00
 -- url     : https://prove2.me/theorems/48f41a84-5f30-4504-adb6-25f9edf68b04

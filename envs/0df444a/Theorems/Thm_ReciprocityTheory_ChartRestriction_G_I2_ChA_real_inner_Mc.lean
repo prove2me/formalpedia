@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_ChA_real_inner_Mc
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.ChA.real_inner_Mc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:26:42.081465+00:00
 -- url     : https://prove2.me/theorems/095eb085-abfa-49e0-a27f-412929c541c7

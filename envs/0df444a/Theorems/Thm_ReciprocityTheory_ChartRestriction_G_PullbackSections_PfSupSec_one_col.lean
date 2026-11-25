@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_PfSupSec_one_col
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.PfSupSec.one_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:34:18.325191+00:00
 -- url     : https://prove2.me/theorems/cc234458-88ea-4f35-a6fe-5853ee06fb40

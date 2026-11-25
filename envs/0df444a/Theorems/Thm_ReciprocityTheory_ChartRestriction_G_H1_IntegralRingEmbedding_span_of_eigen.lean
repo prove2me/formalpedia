@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_IntegralRingEmbedding_span_of_eigen
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.IntegralRingEmbedding.span_of_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:25:18.381564+00:00
 -- url     : https://prove2.me/theorems/95df0dd9-2c39-42a6-b93f-d7c0c2358c5e

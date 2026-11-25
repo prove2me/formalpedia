@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_so_li_complex
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.so_li_complex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:36:26.125859+00:00
 -- url     : https://prove2.me/theorems/5ef22cb9-689a-53c9-a873-149d67c7a660

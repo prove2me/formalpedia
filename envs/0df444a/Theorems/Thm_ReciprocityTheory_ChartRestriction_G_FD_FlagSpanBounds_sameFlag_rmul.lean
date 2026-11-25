@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FlagSpanBounds_sameFlag_rmul
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FlagSpanBounds.sameFlag_rmul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:44:03.848288+00:00
 -- url     : https://prove2.me/theorems/e44b3472-0bec-45cf-bb9d-d07ec29d7ea1

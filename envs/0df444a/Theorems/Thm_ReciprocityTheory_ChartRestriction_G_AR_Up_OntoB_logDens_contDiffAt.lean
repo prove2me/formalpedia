@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoB_logDens_contDiffAt
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB.logDens_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:01:45.022694+00:00
 -- url     : https://prove2.me/theorems/ee94e28f-53e1-584c-becd-80a0850665ea

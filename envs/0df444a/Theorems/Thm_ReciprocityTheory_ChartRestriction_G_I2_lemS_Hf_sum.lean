@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_lemS_Hf_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.lemS_Hf_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:28:54.906596+00:00
 -- url     : https://prove2.me/theorems/ca1db162-e472-4b3a-8ae8-bae468c51780

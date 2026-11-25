@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_UnipotentCoefficientShift_ucomp_shift
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.UnipotentCoefficientShift.ucomp_shift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:22:47.778424+00:00
 -- url     : https://prove2.me/theorems/9d6e19a7-d00f-5beb-b483-47dbfcf85001

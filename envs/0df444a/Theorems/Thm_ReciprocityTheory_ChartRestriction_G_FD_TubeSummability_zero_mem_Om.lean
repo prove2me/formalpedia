@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TubeSummability_zero_mem_Om
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TubeSummability.zero_mem_Om
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:44.081329+00:00
 -- url     : https://prove2.me/theorems/1e567d79-4b8f-4312-a70b-e4323bcb1fad

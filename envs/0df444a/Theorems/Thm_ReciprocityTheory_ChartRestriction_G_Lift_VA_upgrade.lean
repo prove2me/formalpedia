@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Lift_VA_upgrade
 -- name    : ReciprocityTheory.ChartRestriction.G.Lift.VA.upgrade
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:31:46.824521+00:00
 -- url     : https://prove2.me/theorems/20894cee-d5e9-46e2-b3bc-c87001cef503

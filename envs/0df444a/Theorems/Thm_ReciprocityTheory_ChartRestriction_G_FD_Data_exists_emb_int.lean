@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_Data_exists_emb_int
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.Data.exists_emb_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:12:05.387997+00:00
 -- url     : https://prove2.me/theorems/ee34e94d-46e3-5e7b-ba98-c9fe6dc5c284

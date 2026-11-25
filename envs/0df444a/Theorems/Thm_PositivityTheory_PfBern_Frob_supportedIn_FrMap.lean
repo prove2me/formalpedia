@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_supportedIn_FrMap
 -- name    : PositivityTheory.PfBern.Frob.supportedIn_FrMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:41:13.227918+00:00
 -- url     : https://prove2.me/theorems/3a503659-f653-44f8-8295-757e28dda533

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_polar_exists
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.polar_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:26:29.681382+00:00
 -- url     : https://prove2.me/theorems/7823b545-8ef1-44d3-b5e7-6f2276bc7937

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_LowerBlockMatrices_lowBlock_kap
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.LowerBlockMatrices.lowBlock_kap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:20:28.766748+00:00
 -- url     : https://prove2.me/theorems/5ff48a05-fc16-5680-9c7a-3311adbfbc19

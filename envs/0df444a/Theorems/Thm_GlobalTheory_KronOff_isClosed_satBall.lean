@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KronOff_isClosed_satBall
 -- name    : GlobalTheory.KronOff.isClosed_satBall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T02:46:34.160127+00:00
 -- url     : https://prove2.me/theorems/b2a8859a-6aa1-4375-b18b-1d245b5fa5e0

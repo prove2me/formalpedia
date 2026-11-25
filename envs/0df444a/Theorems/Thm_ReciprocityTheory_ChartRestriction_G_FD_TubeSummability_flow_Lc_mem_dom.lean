@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_TubeSummability_flow_Lc_mem_dom
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.TubeSummability.flow_Lc_mem_dom
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:36:37.596885+00:00
 -- url     : https://prove2.me/theorems/0b93fd93-acc4-4b2d-93d5-847c37a9d7c8

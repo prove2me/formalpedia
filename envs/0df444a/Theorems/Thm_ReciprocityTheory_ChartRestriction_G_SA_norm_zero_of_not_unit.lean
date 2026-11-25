@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_norm_zero_of_not_unit
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.norm_zero_of_not_unit
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:34:44.205574+00:00
 -- url     : https://prove2.me/theorems/69e515b1-f7f9-45c6-a8ec-9e1f8b80ecca

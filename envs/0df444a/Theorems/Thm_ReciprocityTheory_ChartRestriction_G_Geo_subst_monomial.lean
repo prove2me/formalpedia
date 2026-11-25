@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_subst_monomial
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.subst_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:26.084944+00:00
 -- url     : https://prove2.me/theorems/551ef929-ecc3-4db2-bf50-c21dd78d0558

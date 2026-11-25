@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_target_diff_goodT_subset
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.target_diff_goodT_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:25:24.415899+00:00
 -- url     : https://prove2.me/theorems/29a4c660-82ed-5a7b-8b9f-41c924e69694

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FramePotential_one_le_minor_of_isOrth
 -- name    : GlobalTheory.FramePotential.one_le_minor_of_isOrth
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T13:40:04.624518+00:00
 -- url     : https://prove2.me/theorems/af169086-5ead-4591-ae2a-efbeb70ddeeb

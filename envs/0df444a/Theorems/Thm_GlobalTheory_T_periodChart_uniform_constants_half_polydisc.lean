@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_periodChart_uniform_constants_half_polydisc
 -- name    : GlobalTheory.T.periodChart_uniform_constants_half_polydisc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:56:43.193411+00:00
 -- url     : https://prove2.me/theorems/09e1a3fa-5970-4e9b-8a02-f23bdf3cd34a

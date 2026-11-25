@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_antitone_notYet
 -- name    : Kac.antitone_notYet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:07:30.766201+00:00
 -- url     : https://prove2.me/theorems/280e74b2-5c01-4b92-9453-633def189bec

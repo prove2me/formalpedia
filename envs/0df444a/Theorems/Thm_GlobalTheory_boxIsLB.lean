@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_boxIsLB
 -- name    : GlobalTheory.boxIsLB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:55:36.205889+00:00
 -- url     : https://prove2.me/theorems/d2f3542d-6cfa-4449-a496-df45c7000ea0

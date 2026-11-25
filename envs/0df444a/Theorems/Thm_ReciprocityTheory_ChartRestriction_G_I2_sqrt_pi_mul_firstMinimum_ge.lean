@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_sqrt_pi_mul_firstMinimum_ge
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.sqrt_pi_mul_firstMinimum_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:32:50.909222+00:00
 -- url     : https://prove2.me/theorems/1dfe7b0a-44d8-5541-8448-404e9e9251f1

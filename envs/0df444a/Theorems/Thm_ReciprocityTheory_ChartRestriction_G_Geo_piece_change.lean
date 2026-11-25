@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_piece_change
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.piece_change
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:24:12.940944+00:00
 -- url     : https://prove2.me/theorems/84828a73-6691-5af9-9d9c-86fcb893f794

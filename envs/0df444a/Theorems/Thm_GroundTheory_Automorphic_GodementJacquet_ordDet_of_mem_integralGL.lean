@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GodementJacquet_ordDet_of_mem_integralGL
 -- name    : GroundTheory.Automorphic.GodementJacquet.ordDet_of_mem_integralGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:24:09.762179+00:00
 -- url     : https://prove2.me/theorems/194bcf9f-12cf-526e-b4d8-785dc28766df

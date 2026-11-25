@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_LocalQuotientRank_detCT_ne_zero
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalQuotientRank.detCT_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:15:02.259257+00:00
 -- url     : https://prove2.me/theorems/7c120138-c212-475a-a533-e2fb585d53e3

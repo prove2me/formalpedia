@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_low_entries
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.low_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:30:21.896426+00:00
 -- url     : https://prove2.me/theorems/569b1348-8630-5ecb-81d3-80dac3982d0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_integrable_of_norm_le_gaussian
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.integrable_of_norm_le_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:57:33.50808+00:00
 -- url     : https://prove2.me/theorems/fec6b856-3198-4ebf-b622-0c2569da85d7

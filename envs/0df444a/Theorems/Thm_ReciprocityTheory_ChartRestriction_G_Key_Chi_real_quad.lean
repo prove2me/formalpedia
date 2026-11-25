@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_real_quad
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.real_quad
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:30:58.278651+00:00
 -- url     : https://prove2.me/theorems/f3e4624e-d764-55f5-98e0-393df097be35

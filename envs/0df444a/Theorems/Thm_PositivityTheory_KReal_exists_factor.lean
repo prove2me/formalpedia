@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_exists_factor
 -- name    : PositivityTheory.KReal.exists_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:03:08.537162+00:00
 -- url     : https://prove2.me/theorems/257c23f0-f785-5bd2-82ef-6d172aa7330d

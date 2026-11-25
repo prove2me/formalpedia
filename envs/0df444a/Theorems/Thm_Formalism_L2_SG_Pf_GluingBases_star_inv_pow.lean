@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_SG_Pf_GluingBases_star_inv_pow
 -- name    : Formalism.L2.SG.Pf.GluingBases.star_inv_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:37:01.79491+00:00
 -- url     : https://prove2.me/theorems/480608f8-f8a3-55ce-bae0-956ccf08a940

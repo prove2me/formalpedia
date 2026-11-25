@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_exists_homog_of_cone
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.exists_homog_of_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:23:34.671874+00:00
 -- url     : https://prove2.me/theorems/25e2b2d3-74f6-5e69-87ef-4c66e4378f19

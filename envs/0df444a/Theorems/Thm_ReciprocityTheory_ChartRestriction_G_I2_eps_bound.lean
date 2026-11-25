@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_eps_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.eps_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:28:43.950828+00:00
 -- url     : https://prove2.me/theorems/e2a5c386-31a4-4434-b0d1-71eda1dc5d41

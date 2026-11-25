@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_IntegralPointOfAlgebraicDomain_finiteDimensional_of_isFractionRing_922184a718b9
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_IntegralPointOfAlgebraicDomain_finiteDimensional_of_isFractionRing_922184a718b9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:01:06.488024+00:00
 -- url     : https://prove2.me/theorems/8c2b5e92-151d-5ff4-a17e-b456887f80f7

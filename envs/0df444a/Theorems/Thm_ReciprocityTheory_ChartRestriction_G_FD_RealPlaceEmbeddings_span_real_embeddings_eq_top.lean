@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_RealPlaceEmbeddings_span_real_embeddings_eq_top
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.RealPlaceEmbeddings.span_real_embeddings_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:08.027549+00:00
 -- url     : https://prove2.me/theorems/6f799565-ef16-5fbb-a1d0-f3b5648a8e76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_mIntegrable_of_compatible
 -- name    : ReciprocityTheory.AnForm.M.mIntegrable_of_compatible
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T09:33:23.949228+00:00
 -- url     : https://prove2.me/theorems/b41f526b-4185-43a1-ae6f-db9b73a13df6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_grade_step_exists
 -- name    : ReciprocityTheory.CA.grade_step_exists
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:38:44.729367+00:00
 -- url     : https://prove2.me/theorems/96fa4c21-593e-4c86-97ad-fc33813bd053

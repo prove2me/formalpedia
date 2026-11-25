@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_RB_indep_of_flag
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.RB.indep_of_flag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:18.851843+00:00
 -- url     : https://prove2.me/theorems/222fca3e-c462-4d93-9f40-1363f43b66c2

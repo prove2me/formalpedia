@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_avgFinite_comp_mul_left
 -- name    : GroundTheory.Automorphic.Parabolic.avgFinite_comp_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:09:35.541184+00:00
 -- url     : https://prove2.me/theorems/c8de2cf0-39c5-5427-9bcd-72eaf06ff85f

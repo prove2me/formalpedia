@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_le_gn_of_ker_eq_span
 -- name    : GroundTheory.PAdicHodge.WittTilt.le_gn_of_ker_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:10:27.702837+00:00
 -- url     : https://prove2.me/theorems/16c058de-df45-4b40-9a7d-71d79e453530

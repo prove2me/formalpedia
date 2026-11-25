@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_filter_positions
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.filter_positions
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:29:52.901428+00:00
 -- url     : https://prove2.me/theorems/3a1b777b-6f80-44cc-a138-a14b13f45c0f

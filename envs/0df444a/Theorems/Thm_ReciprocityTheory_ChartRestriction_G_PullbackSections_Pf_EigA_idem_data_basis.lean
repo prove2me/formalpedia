@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_EigA_idem_data_basis
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.EigA.idem_data_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:33:02.429608+00:00
 -- url     : https://prove2.me/theorems/d60f4e82-c74c-5e78-b14e-dde42492e54b

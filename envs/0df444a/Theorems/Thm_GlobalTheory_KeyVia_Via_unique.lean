@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KeyVia_Via_unique
 -- name    : GlobalTheory.KeyVia.Via.unique
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:34:16.631485+00:00
 -- url     : https://prove2.me/theorems/65fb7794-7be8-45e9-b406-c54face5f8aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_OFam_proj_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.OFam.proj_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:33:10.962302+00:00
 -- url     : https://prove2.me/theorems/c0e2af6b-6f30-4ccd-8842-6494d1476ad7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_FPw_paPoly_translate
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.FPw.paPoly_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:27:49.084313+00:00
 -- url     : https://prove2.me/theorems/dd5f8dd4-0878-541b-b080-287ce4e555ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_contDiffOn_potOf
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.contDiffOn_potOf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:16:11.883568+00:00
 -- url     : https://prove2.me/theorems/ccfe6a6f-c930-4fb7-8456-8582c3bc6312

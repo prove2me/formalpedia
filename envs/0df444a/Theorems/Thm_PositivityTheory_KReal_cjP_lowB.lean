@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_cjP_lowB
 -- name    : PositivityTheory.KReal.cjP_lowB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T12:57:46.511284+00:00
 -- url     : https://prove2.me/theorems/3104c171-52b7-5525-b547-f1035e17a6ed

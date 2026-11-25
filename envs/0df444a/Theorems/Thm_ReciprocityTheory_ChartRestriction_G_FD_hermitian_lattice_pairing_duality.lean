@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_hermitian_lattice_pairing_duality
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.hermitian_lattice_pairing_duality
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:21:21.71431+00:00
 -- url     : https://prove2.me/theorems/27d4e0be-78e0-4ea3-b114-9a667f37f583

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaCoord_exists_conj
 -- name    : GlobalTheory.ThetaCoord.exists_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:05:52.696566+00:00
 -- url     : https://prove2.me/theorems/2689c296-f26b-4066-8be7-d0f125a08a10

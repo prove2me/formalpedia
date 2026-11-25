@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PairUnfold_kaF_meas
 -- name    : GlobalTheory.PairUnfold.kaF_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T03:02:25.851322+00:00
 -- url     : https://prove2.me/theorems/68b983ab-d486-4ae0-80d7-74de1453ba9f

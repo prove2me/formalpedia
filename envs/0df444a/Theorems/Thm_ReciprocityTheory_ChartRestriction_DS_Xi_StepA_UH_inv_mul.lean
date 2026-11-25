@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_StepA_UH_inv_mul
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.StepA.UH_inv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T15:09:20.824823+00:00
 -- url     : https://prove2.me/theorems/49ff5e8e-ee67-4002-a746-2be6a9b59122

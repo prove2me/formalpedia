@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_pa_cd_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.pa_cd_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:31:39.524475+00:00
 -- url     : https://prove2.me/theorems/c51f3cd8-a67d-4b78-8f32-ef7ff0cc15c5

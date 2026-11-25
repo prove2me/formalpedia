@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_qIdeal_isHomogeneous
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.qIdeal_isHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:25:25.278023+00:00
 -- url     : https://prove2.me/theorems/b126bb70-017f-5edc-91de-1c408bac632f

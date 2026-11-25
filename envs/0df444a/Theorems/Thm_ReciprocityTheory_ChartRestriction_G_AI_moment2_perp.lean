@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AI_moment2_perp
 -- name    : ReciprocityTheory.ChartRestriction.G.AI.moment2_perp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:00:20.725206+00:00
 -- url     : https://prove2.me/theorems/79691916-32ff-4d4c-ba5a-1c528086bb80

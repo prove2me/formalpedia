@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_Regular_regMax_bounds_7e37d99f8d7b
 -- name    : P2M_GroundTheory_Heights__Heights_Regular_regMax_bounds_7e37d99f8d7b
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T04:18:35.739821+00:00
 -- url     : https://prove2.me/theorems/7ac6d3f1-380c-4c67-82fe-1b07a892d0bd

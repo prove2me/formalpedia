@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_MI_measurableSet_SW
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.MI.measurableSet_SW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:00:52.808061+00:00
 -- url     : https://prove2.me/theorems/88236ed0-8884-5d92-a7ca-cde65cb1c32a

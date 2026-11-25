@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_iSup_chartOpen_eq_top
 -- name    : ReciprocityTheory.AnForm.R.iSup_chartOpen_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:09:27.797103+00:00
 -- url     : https://prove2.me/theorems/c1cf7835-26ea-4da1-bd2a-3bb945f489d5

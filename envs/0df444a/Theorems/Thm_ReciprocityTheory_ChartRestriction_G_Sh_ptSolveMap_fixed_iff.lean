@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Sh_ptSolveMap_fixed_iff
 -- name    : ReciprocityTheory.ChartRestriction.G.Sh.ptSolveMap_fixed_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:35:18.748347+00:00
 -- url     : https://prove2.me/theorems/dd95d682-7ed4-452d-a541-581f644dcf70

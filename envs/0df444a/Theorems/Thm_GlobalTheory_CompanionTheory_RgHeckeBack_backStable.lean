@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgHeckeBack_backStable
 -- name    : GlobalTheory.CompanionTheory.RgHeckeBack.backStable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:48:28.608801+00:00
 -- url     : https://prove2.me/theorems/ed8af53b-5d2a-5772-9551-26b897ccc372

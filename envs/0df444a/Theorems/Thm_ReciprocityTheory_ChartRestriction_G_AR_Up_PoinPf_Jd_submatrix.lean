@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_PoinPf_Jd_submatrix
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf.Jd_submatrix
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:08:04.369621+00:00
 -- url     : https://prove2.me/theorems/a9f4bd35-bb50-4f85-aab4-6485ac27c357

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_SectionDivision_exists_div
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.SectionDivision.exists_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:43.018972+00:00
 -- url     : https://prove2.me/theorems/8cff87f0-f43d-4147-8272-7ee74cf1bfec

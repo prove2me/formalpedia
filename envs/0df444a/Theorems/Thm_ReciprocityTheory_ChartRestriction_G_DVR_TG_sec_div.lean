@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_DVR_TG_sec_div
 -- name    : ReciprocityTheory.ChartRestriction.G.DVR.TG.sec_div
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:08:02.808813+00:00
 -- url     : https://prove2.me/theorems/19bd12f5-1a85-4b83-ab90-7cfe83e3d93e

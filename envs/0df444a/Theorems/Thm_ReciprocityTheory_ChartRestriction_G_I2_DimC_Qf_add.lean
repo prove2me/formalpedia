@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimC_Qf_add
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimC.Qf_add
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:29:22.983714+00:00
 -- url     : https://prove2.me/theorems/3a9aa009-ceb6-4117-a753-805c667f7302

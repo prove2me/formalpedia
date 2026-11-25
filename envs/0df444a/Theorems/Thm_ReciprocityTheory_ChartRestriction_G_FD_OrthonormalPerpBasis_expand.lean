@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalPerpBasis_expand
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalPerpBasis.expand
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:17:25.82944+00:00
 -- url     : https://prove2.me/theorems/16bfc7a0-f38b-444d-bdc3-4f7e352d41df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_GtBCPf_GluingInclusion_cm_nat
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.GluingInclusion.cm_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:31:02.497916+00:00
 -- url     : https://prove2.me/theorems/7e1d7963-da4a-44bc-b6d2-97f231b8bf05

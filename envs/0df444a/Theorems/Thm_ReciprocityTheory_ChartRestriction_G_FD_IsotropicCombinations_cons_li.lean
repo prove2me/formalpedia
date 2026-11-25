@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicCombinations_cons_li
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicCombinations.cons_li
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:59.854915+00:00
 -- url     : https://prove2.me/theorems/733a1acd-86aa-4909-b844-89c193ea55e2

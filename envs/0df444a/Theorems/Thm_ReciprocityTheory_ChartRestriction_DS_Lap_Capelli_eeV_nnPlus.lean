@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_Capelli_eeV_nnPlus
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.Capelli.eeV_nnPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:43:02.607611+00:00
 -- url     : https://prove2.me/theorems/73bbb765-2d79-5415-8c22-c87cf232cdae

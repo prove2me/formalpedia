@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_NumbersDVR_NumbersBirationalInvariance_proof_77cfc377e683
 -- name    : P2M_GroundTheory_Heights__Heights_NumbersDVR_NumbersBirationalInvariance_proof_77cfc377e683
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T04:07:56.891799+00:00
 -- url     : https://prove2.me/theorems/f965fb5c-ab88-4317-b839-c0bfd01013e6

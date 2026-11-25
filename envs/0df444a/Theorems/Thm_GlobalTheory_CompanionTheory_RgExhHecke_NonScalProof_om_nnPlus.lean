@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_NonScalProof_om_nnPlus
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.NonScalProof.om_nnPlus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:48:16.707886+00:00
 -- url     : https://prove2.me/theorems/a453501f-6027-5799-a9cd-824e30dfc255

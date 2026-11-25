@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Unfold_isOrth_lact
 -- name    : GlobalTheory.Unfold.isOrth_lact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:24:29.52012+00:00
 -- url     : https://prove2.me/theorems/3d0e2a90-7906-42c4-99b9-2cabda762b2e

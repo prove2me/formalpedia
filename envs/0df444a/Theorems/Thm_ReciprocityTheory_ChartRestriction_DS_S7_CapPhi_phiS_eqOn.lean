@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapPhi_phiS_eqOn
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapPhi.phiS_eqOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:49:38.939816+00:00
 -- url     : https://prove2.me/theorems/10ead496-56c4-5ef3-89b3-525b916d4a9b

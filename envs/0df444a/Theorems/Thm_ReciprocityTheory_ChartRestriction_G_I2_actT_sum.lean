@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_actT_sum
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.actT_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:28:52.086207+00:00
 -- url     : https://prove2.me/theorems/b55117c3-51ff-5a8c-915e-ccde9ab5248f

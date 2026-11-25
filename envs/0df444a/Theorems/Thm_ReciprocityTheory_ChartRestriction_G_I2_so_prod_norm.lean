@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_so_prod_norm
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.so_prod_norm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:30:55.687461+00:00
 -- url     : https://prove2.me/theorems/160ff5d1-6593-4ede-aa89-185ae5f5389d

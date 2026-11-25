@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_WMult_isUnit_algebraMap_of_eval_ne_zero
 -- name    : ReciprocityTheory.AnForm.R.WMult.isUnit_algebraMap_of_eval_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T13:03:54.694551+00:00
 -- url     : https://prove2.me/theorems/a10f6898-9431-56ae-94a8-8557068d04b4

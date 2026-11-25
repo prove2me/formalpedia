@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_tsum_finsum_disjointed
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.tsum_finsum_disjointed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:25:31.292328+00:00
 -- url     : https://prove2.me/theorems/399b89cf-b662-41d8-ae37-df8692630769

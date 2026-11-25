@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_SA_exists_max_of_not_coprime
 -- name    : ReciprocityTheory.ChartRestriction.G.SA.exists_max_of_not_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:33:19.325811+00:00
 -- url     : https://prove2.me/theorems/02c8e6c7-c497-4ccf-b048-6ce31e49acc6

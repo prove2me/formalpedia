@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_exists_jacobian_cut
 -- name    : ReciprocityTheory.AnForm.R.exists_jacobian_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:06:10.205073+00:00
 -- url     : https://prove2.me/theorems/63894469-89fb-4691-b011-46f6d1a79784

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_RawFrameBC_exists_reindexed_pull
 -- name    : GlobalTheory.RawFrameBC.exists_reindexed_pull
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:24:23.605797+00:00
 -- url     : https://prove2.me/theorems/c93b20e4-f39a-4e85-b912-37f8ca9036ef

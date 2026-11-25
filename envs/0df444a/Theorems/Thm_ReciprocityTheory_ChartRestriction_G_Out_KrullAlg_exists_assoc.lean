@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_KrullAlg_exists_assoc
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.KrullAlg.exists_assoc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:31:20.735019+00:00
 -- url     : https://prove2.me/theorems/7ef945be-a3d4-4a50-87b1-f10391def295

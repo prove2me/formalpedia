@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_paFock_cv
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.paFock_cv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:30:13.961504+00:00
 -- url     : https://prove2.me/theorems/1da957ef-3166-59d0-b512-ed88d5740e5d

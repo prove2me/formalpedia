@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_epsilonZero_spec
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.epsilonZero_spec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:26:38.319603+00:00
 -- url     : https://prove2.me/theorems/627bb1bb-9faf-490f-87c7-0416431668ea

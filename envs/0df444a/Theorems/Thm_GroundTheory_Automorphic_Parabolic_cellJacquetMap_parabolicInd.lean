@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_cellJacquetMap_parabolicInd
 -- name    : GroundTheory.Automorphic.Parabolic.cellJacquetMap_parabolicInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:01:06.396789+00:00
 -- url     : https://prove2.me/theorems/6a6e7b50-0b3b-473d-8975-2a343b682935

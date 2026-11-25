@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_polynomial_coefficients
 -- name    : polynomial_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T11:22:20.755418+00:00
 -- url     : https://prove2.me/theorems/80b49663-8705-4f4a-8796-5cf4f04a5c92

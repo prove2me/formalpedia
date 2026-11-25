@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_H1_finOrdExists_of
 -- name    : ReciprocityTheory.ChartRestriction.G.H1.finOrdExists_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:26:12.863462+00:00
 -- url     : https://prove2.me/theorems/133514b1-45ef-4e26-abee-f344c9236ca1

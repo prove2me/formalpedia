@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_IW_logDens_cdAt
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.IW.logDens_cdAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:01:00.783488+00:00
 -- url     : https://prove2.me/theorems/d07df021-8681-5544-94a6-cee8b25b11a5

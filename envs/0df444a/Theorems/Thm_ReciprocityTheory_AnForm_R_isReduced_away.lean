@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isReduced_away
 -- name    : ReciprocityTheory.AnForm.R.isReduced_away
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:08:45.473167+00:00
 -- url     : https://prove2.me/theorems/89e2b1bb-09d1-58d4-b274-a8a3ded7c989

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_crossOp_eig_gap
 -- name    : ReciprocityTheory.ChartRestriction.DS.crossOp_eig_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:02:05.991422+00:00
 -- url     : https://prove2.me/theorems/3635f493-922b-4382-b060-f5a5d65e509c

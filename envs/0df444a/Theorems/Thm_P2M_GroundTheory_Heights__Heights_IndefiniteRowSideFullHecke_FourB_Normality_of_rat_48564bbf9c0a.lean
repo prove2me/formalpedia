@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_Normality_of_rat_48564bbf9c0a
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_FourB_Normality_of_rat_48564bbf9c0a
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:38:44.537488+00:00
 -- url     : https://prove2.me/theorems/1accf432-d61c-5a5b-9181-539d8c202dff

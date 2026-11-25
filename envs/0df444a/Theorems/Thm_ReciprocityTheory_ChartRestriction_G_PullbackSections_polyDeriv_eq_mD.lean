@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_polyDeriv_eq_mD
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.polyDeriv_eq_mD
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:33:08.641956+00:00
 -- url     : https://prove2.me/theorems/db734294-192c-4a4a-8171-b6a0f784c465

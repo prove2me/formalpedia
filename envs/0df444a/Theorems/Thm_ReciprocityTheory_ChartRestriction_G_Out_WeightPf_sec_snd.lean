@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_WeightPf_sec_snd
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.WeightPf.sec_snd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:32:15.080135+00:00
 -- url     : https://prove2.me/theorems/84d3831c-c30a-4802-b344-2d11be7944d9

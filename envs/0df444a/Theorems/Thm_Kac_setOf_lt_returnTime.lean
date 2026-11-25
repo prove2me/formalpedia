@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_setOf_lt_returnTime
 -- name    : Kac.setOf_lt_returnTime
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:04:40.833989+00:00
 -- url     : https://prove2.me/theorems/f3609303-ca37-4392-86b8-d68598f1000e

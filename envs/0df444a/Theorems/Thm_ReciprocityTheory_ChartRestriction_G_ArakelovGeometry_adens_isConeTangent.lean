@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_ArakelovGeometry_adens_isConeTangent
 -- name    : ReciprocityTheory.ChartRestriction.G.ArakelovGeometry.adens_isConeTangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:08:43.805294+00:00
 -- url     : https://prove2.me/theorems/329b38e0-1531-5783-9a7a-56875da27d93

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_iter_step_bound
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.iter_step_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:14:23.84615+00:00
 -- url     : https://prove2.me/theorems/ad53df2d-f2d8-481d-b4b0-40b7534d9c50

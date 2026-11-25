@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_LUB___diffOn_a7027ba2f598
 -- name    : P2M_ReciprocityTheory_ChartRestriction_G_AR_Up_LUB___diffOn_a7027ba2f598
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:05:22.69862+00:00
 -- url     : https://prove2.me/theorems/f11653e5-713f-4f2f-a871-82b1070f0c96

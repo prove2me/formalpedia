@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_firstHit_succ
 -- name    : Kac.firstHit_succ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:08:11.288334+00:00
 -- url     : https://prove2.me/theorems/e56c935a-d266-447b-ad79-0ab4b14aa3b0

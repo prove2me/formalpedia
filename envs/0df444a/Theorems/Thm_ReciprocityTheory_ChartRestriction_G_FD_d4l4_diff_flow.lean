@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_d4l4_diff_flow
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.d4l4_diff_flow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:22:10.84547+00:00
 -- url     : https://prove2.me/theorems/8261155d-f44c-42e6-a215-aa29b3370016

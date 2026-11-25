@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_sq_le_pow_four_div_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.sq_le_pow_four_div_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:33:11.572116+00:00
 -- url     : https://prove2.me/theorems/c6b9f47a-6341-574a-829e-ecbe4f465bc4

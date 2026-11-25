@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_RgExh_Hk_fwdPath
 -- name    : CompanionTheory.RgExh.Hk.fwdPath
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:51:30.322785+00:00
 -- url     : https://prove2.me/theorems/8336c5b3-08d5-4760-bb13-cb1477a84a10

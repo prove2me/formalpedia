@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_R_isUnit_mapId_mk_iff
 -- name    : ReciprocityTheory.AnForm.R.isUnit_mapId_mk_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:08:53.70706+00:00
 -- url     : https://prove2.me/theorems/4360abeb-ef05-58fa-8622-93c5b590e9a9

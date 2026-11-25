@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_UH_hermForm_sub_mat
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.UH.hermForm_sub_mat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:33:26.429589+00:00
 -- url     : https://prove2.me/theorems/d3eb4693-c84b-5d0a-a134-dd3cdf7239ea

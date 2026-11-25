@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TupleCone_finite_integralClosure_cone
 -- name    : GlobalTheory.TupleCone.finite_integralClosure_cone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T13:03:44.238378+00:00
 -- url     : https://prove2.me/theorems/2ec249fd-5c10-4e16-bd59-40cac1d43a07

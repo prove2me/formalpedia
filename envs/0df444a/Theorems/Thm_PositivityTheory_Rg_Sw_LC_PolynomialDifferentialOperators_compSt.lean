@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_LC_PolynomialDifferentialOperators_compSt
 -- name    : PositivityTheory.Rg.Sw.LC.PolynomialDifferentialOperators.compSt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:44:28.982241+00:00
 -- url     : https://prove2.me/theorems/b1af040b-1247-451d-a333-425d87f83a79

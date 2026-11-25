@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Good_IR_iso
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Good.IR_iso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:27:39.9627+00:00
 -- url     : https://prove2.me/theorems/db799a60-2d34-4438-bed1-5bd677d76b81

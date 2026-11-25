@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_count_smul
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.count_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:32:56.487082+00:00
 -- url     : https://prove2.me/theorems/68931d5b-1751-5bb0-a776-61e6a9d8780a

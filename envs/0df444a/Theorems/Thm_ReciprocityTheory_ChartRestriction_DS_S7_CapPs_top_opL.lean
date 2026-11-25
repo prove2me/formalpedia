@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_CapPs_top_opL
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.CapPs.top_opL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:09:47.253004+00:00
 -- url     : https://prove2.me/theorems/53ca9ac3-48c1-5be7-a942-cf08034e5835

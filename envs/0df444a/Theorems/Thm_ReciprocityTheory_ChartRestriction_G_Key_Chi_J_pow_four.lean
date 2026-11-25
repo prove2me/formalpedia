@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_J_pow_four
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.J_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:30:28.247296+00:00
 -- url     : https://prove2.me/theorems/d52de0e0-01f2-430b-a8ab-828529bbddd2

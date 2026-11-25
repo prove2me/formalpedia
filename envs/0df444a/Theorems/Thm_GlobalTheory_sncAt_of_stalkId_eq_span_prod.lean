@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_sncAt_of_stalkId_eq_span_prod
 -- name    : GlobalTheory.sncAt_of_stalkId_eq_span_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:04:13.188346+00:00
 -- url     : https://prove2.me/theorems/e4812dde-90d1-433e-b2bd-b4936266a114

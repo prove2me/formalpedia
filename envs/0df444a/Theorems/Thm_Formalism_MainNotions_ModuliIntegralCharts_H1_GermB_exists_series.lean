@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_MainNotions_ModuliIntegralCharts_H1_GermB_exists_series
 -- name    : Formalism.MainNotions.ModuliIntegralCharts.H1.GermB.exists_series
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:07:15.75815+00:00
 -- url     : https://prove2.me/theorems/10a3ea32-31a4-4add-9468-f2cfe925218a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_LUB_densF_meas
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.LUB.densF_meas
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:00:12.943149+00:00
 -- url     : https://prove2.me/theorems/7dae55ec-9bf6-41f3-bbc2-f6400c333d2c

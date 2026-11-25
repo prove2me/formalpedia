@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_nuInv_of_steps
 -- name    : PI.VolStabW.nuInv_of_steps
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:48:01.270712+00:00
 -- url     : https://prove2.me/theorems/dca8f8c2-b1fd-43e9-bf0b-fa8d1b35a2ba

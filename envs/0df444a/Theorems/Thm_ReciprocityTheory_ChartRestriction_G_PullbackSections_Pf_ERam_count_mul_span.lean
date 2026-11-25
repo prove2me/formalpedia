@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_count_mul_span
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.count_mul_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:32:36.409021+00:00
 -- url     : https://prove2.me/theorems/228815d6-a318-4f46-a448-bc1f3b765031

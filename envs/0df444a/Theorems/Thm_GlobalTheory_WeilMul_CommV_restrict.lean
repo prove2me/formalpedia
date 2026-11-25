@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilMul_CommV_restrict
 -- name    : GlobalTheory.WeilMul.CommV.restrict
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:55:15.080482+00:00
 -- url     : https://prove2.me/theorems/6bd5f0d3-489a-4740-86b1-ab278203820e

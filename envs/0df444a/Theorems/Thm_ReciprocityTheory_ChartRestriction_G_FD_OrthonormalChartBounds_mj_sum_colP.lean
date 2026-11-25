@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthonormalChartBounds_mj_sum_colP
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthonormalChartBounds.mj_sum_colP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:23.02701+00:00
 -- url     : https://prove2.me/theorems/2ea90cb8-a196-4079-9d0e-1e96653b6b0f

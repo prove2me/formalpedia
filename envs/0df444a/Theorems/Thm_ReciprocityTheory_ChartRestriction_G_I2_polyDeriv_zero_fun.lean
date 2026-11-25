@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_polyDeriv_zero_fun
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.polyDeriv_zero_fun
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:30:59.281263+00:00
 -- url     : https://prove2.me/theorems/1a64ebfe-8945-5c68-a9b0-9dc768dfa594

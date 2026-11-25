@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Xi_Base0_fixedUnitary_mulVec_fixedIndex
 -- name    : ReciprocityTheory.ChartRestriction.DS.Xi.Base0.fixedUnitary_mulVec_fixedIndex
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:54:37.856916+00:00
 -- url     : https://prove2.me/theorems/fdf0a41a-97ba-5188-8c19-8152d8e2fbd9

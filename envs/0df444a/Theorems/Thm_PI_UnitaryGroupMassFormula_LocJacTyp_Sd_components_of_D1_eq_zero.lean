@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_UnitaryGroupMassFormula_LocJacTyp_Sd_components_of_D1_eq_zero
 -- name    : PI.UnitaryGroupMassFormula.LocJacTyp.Sd.components_of_D1_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T12:19:23.869994+00:00
 -- url     : https://prove2.me/theorems/8a7c0a79-683e-5381-8cc2-ba9ae3a9c402

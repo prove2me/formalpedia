@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_CA_IsCM_quotient_span_singleton
 -- name    : ReciprocityTheory.CA.IsCM.quotient_span_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:38:44.928605+00:00
 -- url     : https://prove2.me/theorems/5c3c68a5-2392-5878-af55-8791f4bfbc5e

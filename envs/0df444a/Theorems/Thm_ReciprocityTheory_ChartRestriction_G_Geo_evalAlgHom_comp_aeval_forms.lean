@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_evalAlgHom_comp_aeval_forms
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.evalAlgHom_comp_aeval_forms
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:39:26.359115+00:00
 -- url     : https://prove2.me/theorems/aa19bac0-f9b6-49d6-a3a8-6e24db467422

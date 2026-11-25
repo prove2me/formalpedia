@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_mul_le_sqrt_mul_sqrt_mul_avg
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.mul_le_sqrt_mul_sqrt_mul_avg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:29:14.046473+00:00
 -- url     : https://prove2.me/theorems/5df90093-7243-5033-8c57-69e5aea4c5aa

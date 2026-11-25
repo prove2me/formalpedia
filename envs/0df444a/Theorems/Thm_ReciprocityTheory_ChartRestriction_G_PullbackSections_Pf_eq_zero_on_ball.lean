@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_eq_zero_on_ball
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.eq_zero_on_ball
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:33:20.66015+00:00
 -- url     : https://prove2.me/theorems/846f2d6f-c82b-4210-a3ed-3e911ac6132e

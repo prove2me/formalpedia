@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_PLC_plDefect_add
 -- name    : ReciprocityTheory.AnForm.M.PLC.plDefect_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:20:45.097392+00:00
 -- url     : https://prove2.me/theorems/9bbac9bd-c5ca-5399-b273-c2e0919168f0

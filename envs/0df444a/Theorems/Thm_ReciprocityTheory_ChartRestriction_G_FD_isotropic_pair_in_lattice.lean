@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_isotropic_pair_in_lattice
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.isotropic_pair_in_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:21:19.589052+00:00
 -- url     : https://prove2.me/theorems/606b8a8d-d08f-4a75-936e-59337d0d3ba8

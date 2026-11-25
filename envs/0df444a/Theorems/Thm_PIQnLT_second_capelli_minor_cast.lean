@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PIQnLT_second_capelli_minor_cast
 -- name    : PIQnLT.second_capelli_minor_cast
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T08:48:02.884869+00:00
 -- url     : https://prove2.me/theorems/08a73c92-0f5d-5477-a28e-1acbaa3bee2f

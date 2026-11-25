@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_rsm_gauss_integrable
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.rsm_gauss_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:29:48.967659+00:00
 -- url     : https://prove2.me/theorems/2bfa4166-5dc1-5596-9773-e72747ef936e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_FourB_MongeAmpereComparison_maMeasure_compact_eq_d1a3cdb552e8
 -- name    : P2M_GroundTheory_Heights__Heights_FourB_MongeAmpereComparison_maMeasure_compact_eq_d1a3cdb552e8
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:35:22.097962+00:00
 -- url     : https://prove2.me/theorems/b10e1714-9201-43cc-8f69-e8c71fa815c6

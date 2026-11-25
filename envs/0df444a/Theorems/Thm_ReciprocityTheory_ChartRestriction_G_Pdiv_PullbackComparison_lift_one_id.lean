@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Pdiv_PullbackComparison_lift_one_id
 -- name    : ReciprocityTheory.ChartRestriction.G.Pdiv.PullbackComparison.lift_one_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:33:09.997135+00:00
 -- url     : https://prove2.me/theorems/a32106c8-bac5-4be9-a3c9-82217fae2138

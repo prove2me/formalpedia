@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_st_mInt_cons_finset_sum
 -- name    : ReciprocityTheory.AnForm.M.st_mInt_cons_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T09:33:29.067884+00:00
 -- url     : https://prove2.me/theorems/0fac2cf7-0767-599f-9b7a-76c0b6ec9e97

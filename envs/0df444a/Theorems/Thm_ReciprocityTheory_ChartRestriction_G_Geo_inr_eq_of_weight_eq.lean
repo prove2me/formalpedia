@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_inr_eq_of_weight_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.inr_eq_of_weight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T01:32:17.734419+00:00
 -- url     : https://prove2.me/theorems/1692a21b-b581-49ac-86c4-27c51ec91f5c

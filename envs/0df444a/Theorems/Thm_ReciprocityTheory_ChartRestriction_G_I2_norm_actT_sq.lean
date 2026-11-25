@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_norm_actT_sq
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.norm_actT_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:30:42.505809+00:00
 -- url     : https://prove2.me/theorems/bf267d9c-28a3-4a1a-b510-0cc988b2fcc3

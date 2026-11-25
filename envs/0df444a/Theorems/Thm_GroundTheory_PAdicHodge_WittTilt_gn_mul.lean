@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_WittTilt_gn_mul
 -- name    : GroundTheory.PAdicHodge.WittTilt.gn_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T11:46:26.21407+00:00
 -- url     : https://prove2.me/theorems/a875facc-bc8a-4bf8-bce3-6d74532b2b4b

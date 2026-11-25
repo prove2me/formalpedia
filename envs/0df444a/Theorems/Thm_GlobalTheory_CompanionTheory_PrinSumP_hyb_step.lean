@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_PrinSumP_hyb_step
 -- name    : GlobalTheory.CompanionTheory.PrinSumP.hyb_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:51:25.088314+00:00
 -- url     : https://prove2.me/theorems/d92c4353-3935-5738-acd0-1ee3d2157c71

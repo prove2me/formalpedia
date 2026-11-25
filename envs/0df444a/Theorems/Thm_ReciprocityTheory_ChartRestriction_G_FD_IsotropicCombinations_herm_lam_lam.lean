@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicCombinations_herm_lam_lam
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicCombinations.herm_lam_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:31:50.537022+00:00
 -- url     : https://prove2.me/theorems/7c3dc568-5fb6-52dd-8565-a5c93689db24

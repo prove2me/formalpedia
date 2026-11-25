@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantFamilyNorms_maj_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantFamilyNorms.maj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:16:32.759362+00:00
 -- url     : https://prove2.me/theorems/e6df3c09-3b79-4841-a1eb-8d6cc48941ef

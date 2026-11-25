@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TupleCone_span_pow_le_piece
 -- name    : GlobalTheory.TupleCone.span_pow_le_piece
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:03:56.965803+00:00
 -- url     : https://prove2.me/theorems/d0c96c0c-b4d1-467e-aaa3-20691d7888c7

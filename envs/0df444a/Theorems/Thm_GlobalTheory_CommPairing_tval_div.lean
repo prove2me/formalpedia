@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CommPairing_tval_div
 -- name    : GlobalTheory.CommPairing.tval_div
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T11:15:31.324911+00:00
 -- url     : https://prove2.me/theorems/2d954151-1ced-40f7-819b-2cdd6ef5b775

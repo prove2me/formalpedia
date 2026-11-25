@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_conjSymm_canonical
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.conjSymm_canonical
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:28:42.57591+00:00
 -- url     : https://prove2.me/theorems/8fa19951-4ab6-4360-8fc8-957fe33ff903

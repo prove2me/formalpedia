@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_lemS_finrank
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.lemS_finrank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:29:12.563495+00:00
 -- url     : https://prove2.me/theorems/7e1dacfb-e0cc-4856-aed9-c1a452d58688

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimB_torus_unique
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimB.torus_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:27:21.005368+00:00
 -- url     : https://prove2.me/theorems/05f7778c-142f-5d2e-be4a-53145e30df48

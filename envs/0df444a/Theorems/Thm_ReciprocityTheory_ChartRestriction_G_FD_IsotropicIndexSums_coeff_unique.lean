@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_IsotropicIndexSums_coeff_unique
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.IsotropicIndexSums.coeff_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T10:33:14.315944+00:00
 -- url     : https://prove2.me/theorems/5e4d3158-cc5c-528d-9ee4-a808772cbeba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_mem_L_of_int
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.mem_L_of_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:30:32.978671+00:00
 -- url     : https://prove2.me/theorems/a894df6d-2a4c-410c-9b36-364b223fb4b6

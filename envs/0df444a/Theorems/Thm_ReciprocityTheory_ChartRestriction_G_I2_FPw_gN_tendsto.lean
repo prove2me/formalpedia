@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_FPw_gN_tendsto
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.FPw.gN_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:28:08.143904+00:00
 -- url     : https://prove2.me/theorems/23fe3d00-6cde-4a2a-8e06-d6638237b8e2

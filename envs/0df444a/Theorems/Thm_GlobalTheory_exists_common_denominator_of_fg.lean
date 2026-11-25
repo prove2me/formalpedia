@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_common_denominator_of_fg
 -- name    : GlobalTheory.exists_common_denominator_of_fg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T13:05:13.621641+00:00
 -- url     : https://prove2.me/theorems/71531602-49a2-5e53-8498-37173c3d1f97

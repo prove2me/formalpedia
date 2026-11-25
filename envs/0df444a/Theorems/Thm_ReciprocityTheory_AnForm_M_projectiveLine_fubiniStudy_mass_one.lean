@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_AnForm_M_projectiveLine_fubiniStudy_mass_one
 -- name    : ReciprocityTheory.AnForm.M.projectiveLine_fubiniStudy_mass_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T12:29:17.389813+00:00
 -- url     : https://prove2.me/theorems/56861071-ee01-41f0-b8f2-b0493540aeaa

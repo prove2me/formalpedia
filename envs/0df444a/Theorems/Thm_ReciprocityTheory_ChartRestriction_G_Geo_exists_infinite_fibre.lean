@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_exists_infinite_fibre
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.exists_infinite_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T00:36:21.832435+00:00
 -- url     : https://prove2.me/theorems/c66c4c79-69c3-40b9-b8dc-9eb1f4975178

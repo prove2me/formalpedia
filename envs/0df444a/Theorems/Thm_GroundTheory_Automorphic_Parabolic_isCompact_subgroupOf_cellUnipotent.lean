@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_isCompact_subgroupOf_cellUnipotent
 -- name    : GroundTheory.Automorphic.Parabolic.isCompact_subgroupOf_cellUnipotent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T13:02:43.289459+00:00
 -- url     : https://prove2.me/theorems/5af931ae-8947-542f-a4d8-9f31faae7a22

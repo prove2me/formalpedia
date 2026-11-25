@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_KReal_cjP_raiB
 -- name    : PositivityTheory.KReal.cjP_raiB
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:56:43.215611+00:00
 -- url     : https://prove2.me/theorems/4ab5053f-001f-59db-9206-722b669d4833

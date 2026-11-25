@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_ineq_self_0ba56674a6fa
 -- name    : P2M_GroundTheory_Heights__Heights_IndefiniteRowSideFullHecke_Regular_ineq_self_0ba56674a6fa
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:07:52.914584+00:00
 -- url     : https://prove2.me/theorems/b313b841-cbbb-5c24-b0b5-26ae92f4c734

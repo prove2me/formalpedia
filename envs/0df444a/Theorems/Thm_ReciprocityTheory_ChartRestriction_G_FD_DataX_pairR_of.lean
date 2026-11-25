@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_DataX_pairR_of
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.DataX.pairR_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:12:56.616545+00:00
 -- url     : https://prove2.me/theorems/4544e8cf-f6c4-445d-a5d6-31836252b59e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_Lap_LemK_rightHol_powerDet_lower_eq_zero
 -- name    : ReciprocityTheory.ChartRestriction.DS.Lap.LemK.rightHol_powerDet_lower_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T09:46:11.804415+00:00
 -- url     : https://prove2.me/theorems/9e3f71b1-09cf-5d8a-90c0-6122b2bfcb6d

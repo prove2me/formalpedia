@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_diag_of_homog
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.diag_of_homog
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:07:34.158646+00:00
 -- url     : https://prove2.me/theorems/cd2496c9-0cb3-4643-b932-b0107edb4435

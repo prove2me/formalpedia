@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_spDiag_rk_mul_inr
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.spDiag_rk_mul_inr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:31:05.760478+00:00
 -- url     : https://prove2.me/theorems/fed5700f-60a4-50c4-a71d-b0493c7d910b

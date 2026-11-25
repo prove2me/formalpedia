@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TiledBoundaries_tile_integral
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TiledBoundaries.tile_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:18:30.999192+00:00
 -- url     : https://prove2.me/theorems/6aa3d368-5a5b-4a34-894f-5659fee293d6

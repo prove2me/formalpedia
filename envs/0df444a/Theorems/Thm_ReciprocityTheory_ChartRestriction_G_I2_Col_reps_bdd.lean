@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Col_reps_bdd
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Col.reps_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:31:21.479887+00:00
 -- url     : https://prove2.me/theorems/9369b560-aec2-48a1-a1f1-215032ea6832

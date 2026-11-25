@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_MajorantNormalForms_gram_normal
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.MajorantNormalForms.gram_normal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T10:24:42.808856+00:00
 -- url     : https://prove2.me/theorems/c0b6f563-a502-5bef-b27f-07cc47e700fa

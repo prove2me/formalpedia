@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnifLieBasis_isDiff_add
 -- name    : GlobalTheory.UnifLieBasis.isDiff_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:25:02.268262+00:00
 -- url     : https://prove2.me/theorems/618ceafa-91d5-4e82-90c4-6ebabea01f6e

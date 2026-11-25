@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_TorusAtDataPf_sgn_castLE
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.TorusAtDataPf.sgn_castLE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T10:27:55.67074+00:00
 -- url     : https://prove2.me/theorems/d19c33dd-2f82-4ff8-9655-d888c7d1f913

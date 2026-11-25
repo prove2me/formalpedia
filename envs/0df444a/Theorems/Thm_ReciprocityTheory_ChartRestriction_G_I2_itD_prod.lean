@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_itD_prod
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.itD_prod
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:57:16.152896+00:00
 -- url     : https://prove2.me/theorems/b77fed37-1699-4c77-b646-564e657ab9e3

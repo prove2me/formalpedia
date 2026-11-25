@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_GtBCPf_bijective_liftNC_of_isPushout
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.bijective_liftNC_of_isPushout
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:30:54.248191+00:00
 -- url     : https://prove2.me/theorems/3c8d3d76-eee0-507c-ab81-69538ad0618b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_mixedDisc_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.mixedDisc_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:24:24.976383+00:00
 -- url     : https://prove2.me/theorems/0182dc7a-e103-417a-8b98-e7a8b7512f8a

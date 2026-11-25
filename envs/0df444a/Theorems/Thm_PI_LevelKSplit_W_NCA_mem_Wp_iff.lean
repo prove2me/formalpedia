@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_LevelKSplit_W_NCA_mem_Wp_iff
 -- name    : PI.LevelKSplit.W.NCA.mem_Wp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:23:15.98887+00:00
 -- url     : https://prove2.me/theorems/c9c529c8-a094-4df0-82c4-574b09a0b56d

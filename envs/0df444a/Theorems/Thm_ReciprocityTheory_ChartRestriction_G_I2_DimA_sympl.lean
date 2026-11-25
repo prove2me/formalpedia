@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_DimA_sympl
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.DimA.sympl
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:27:33.413399+00:00
 -- url     : https://prove2.me/theorems/5a0ee04c-c292-4542-8fa6-d705e5730b13

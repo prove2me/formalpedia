@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_sum_ge_of_prod_ge
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.sum_ge_of_prod_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:30:34.763309+00:00
 -- url     : https://prove2.me/theorems/d43321bb-298c-49aa-a6ac-6b03fc724880

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_finsum_divSupp_eq
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.finsum_divSupp_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:25:28.352749+00:00
 -- url     : https://prove2.me/theorems/223bbd38-c6c1-4b43-a21b-5050f074acbc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_coeffSum_eq_smul
 -- name    : GroundTheory.Automorphic.Parabolic.exists_coeffSum_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T13:03:10.924717+00:00
 -- url     : https://prove2.me/theorems/28b6e601-2248-5b67-9041-ea2182209401

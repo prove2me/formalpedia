@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kac_notYet_eq_union
 -- name    : Kac.notYet_eq_union
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T13:07:50.266871+00:00
 -- url     : https://prove2.me/theorems/39473c4e-5a0b-51db-88d9-597b484b9c88

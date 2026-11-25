@@ -52100,7 +52100,7 @@
 {"parent": "SP4Mission.homotopy_4sphere_punctured_is_euclidean", "child": "SP4Mission.punctured_almost_smooth_homotopy_sphere_homeomorph_euclidean", "via": ["solution"]}
 {"parent": "SP4Mission.homotopy_4sphere_punctured_is_euclidean", "child": "SP4Mission.punctured_homotopy_sphere_smoothable", "via": ["solution"]}
 {"parent": "SP4Mission.homotopy_4sphere_punctured_is_euclidean", "child": "SP4Sphere", "via": ["solution", "statement"]}
-{"parent": "SP4Mission.hurewicz", "child": "SP4Homology", "via": ["statement"]}
+{"parent": "SP4Mission.hurewicz", "child": "SP4Homology", "via": ["solution", "statement"]}
 {"parent": "SP4Mission.hurewicz", "child": "SP4HomologyMap", "via": ["statement"]}
 {"parent": "SP4Mission.hurewicz", "child": "SP4Sphere", "via": ["statement"]}
 {"parent": "SP4Mission.hurewicz", "child": "SP4WeakHomotopy", "via": ["statement"]}

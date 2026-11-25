@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NormFactor_dmin_lact
 -- name    : GlobalTheory.NormFactor.dmin_lact
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T15:13:23.094896+00:00
 -- url     : https://prove2.me/theorems/94d3e62d-aa6a-497c-959a-683b6af5131b

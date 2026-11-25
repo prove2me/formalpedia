@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isMultiHomog_secOf
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isMultiHomog_secOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:33:35.37474+00:00
 -- url     : https://prove2.me/theorems/009a2cf4-6f3e-4f68-87a9-e3f162b7e797

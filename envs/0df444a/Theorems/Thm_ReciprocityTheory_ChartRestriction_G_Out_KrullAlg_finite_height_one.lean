@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_KrullAlg_finite_height_one
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.KrullAlg.finite_height_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:31:16.579364+00:00
 -- url     : https://prove2.me/theorems/a6b86e4d-ced8-50cb-b291-c92b7059e225

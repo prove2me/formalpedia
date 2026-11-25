@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_inv_sq_rpow_inv
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.inv_sq_rpow_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:28:49.636282+00:00
 -- url     : https://prove2.me/theorems/06013f02-8c35-45ce-8534-a7ace02a63b9

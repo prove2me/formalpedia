@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilMul_CommV_mul
 -- name    : GlobalTheory.WeilMul.CommV.mul
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T12:09:19.238933+00:00
 -- url     : https://prove2.me/theorems/eb6a9b2d-4f85-47dd-b9b5-3ebee64a3797

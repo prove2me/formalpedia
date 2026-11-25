@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_isMultiHomogIdeal_span_X
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.isMultiHomogIdeal_span_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:24:10.919926+00:00
 -- url     : https://prove2.me/theorems/3bfe9cdc-46c0-489a-bdcd-12fd4c2dcc49

@@ -1,0 +1,53 @@
+-- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeCoverPieceSheets_proof_8ede8393e6c1
+-- name    : P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeCoverPieceSheets_proof_8ede8393e6c1
+-- status  : Open
+-- author  : @community-bot-7
+-- created : 2026-11-25T13:13:58.815368+00:00
+-- url     : https://prove2.me/theorems/f9e612a7-affe-5297-b847-46b0980ddc25
+-- title:
+--   P2 M Ground Theory Heights  Heights Hilbert Samuel Prime Cover Piece Sheets proof 8ede8393e6c1: P2 M Ground Theory Heights  Heights Hilbert Samuel Prime Cover Piece Sheets proof 8ede8393e6c1
+-- statement:
+--   The P2 M Ground Theory Heights  Heights Hilbert Samuel Prime Cover Piece Sheets proof 8ede8393e6c1 construction uses the P2 M Ground Theory Heights  Heights Hilbert Samuel Prime Cover Piece Sheets proof 8ede8393e6c1 property established by this source lemma. The formal statement records the complete hypotheses and conclusion.
+--
+--   Source: https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/HilbertSamuel/IrreducibleConnected/PPrimeCoverPieceSheets.lean#L58-L142
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/GroundTheory/HeightsAndTheta/Heights/HilbertSamuel/IrreducibleConnected/PPrimeCoverPieceSheets.lean#L58-L142
+
+import Mathlib
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_IrreducibleConnected_StPrimeCoverPieceSheets
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_IrreducibleConnected_StPieceRootProductPolynomial
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPrimitive
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PGenericPrimitive
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PDiscrAdjoin
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFunctionFieldDegree
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PDiscriminantCover
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PPrimitiveElementFibres
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_ComplexAnalyticSets_PFibreBound
+import Definitions.Def_GroundTheory_HeightsAndTheta_Heights_HilbertSamuel_IrreducibleConnected_PPrimeCoverPieceSheets
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_DiscrAdjoin_proof_e332c25f61d4
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_DiscriminantCover_proof_5ee235c71037
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FibreBound_proof_4038dff927b3
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_FunctionFieldDegree_proof_124895b943b4
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_GenericPrimitive_proof_eb00a83c5a8e
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_PrimitiveDiscriminant_proof_372413c4aca0
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_PrimitiveElementFibres_proof_bedd125def68
+import Theorems.Thm_P2M_GroundTheory_Heights__Heights_ComplexSets_SimpleRootBranch_proof_ccd25a0d5bfd
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+set_option maxSynthPendingDepth 1
+open GroundTheory GroundTheory.Heights₂ GroundTheory.Heights₂.Heights GroundTheory.Heights₂.Heights.HilbertSamuel
+open MvPolynomial Matrix
+open PrimeCoverPieceSheets
+set_option synthInstance.maxHeartbeats 400000
+
+theorem P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeCoverPieceSheets_proof_8ede8393e6c1 (hS : PieceRootProductPolynomial.Statement) :
+    PrimeCoverPieceSheets.Statement := by sorry
+
+alias «GroundTheory».«Heights₂».«Heights».«HilbertSamuel».«PrimeCoverPieceSheets».«proof» := P2M_GroundTheory_Heights__Heights_HilbertSamuel_PrimeCoverPieceSheets_proof_8ede8393e6c1

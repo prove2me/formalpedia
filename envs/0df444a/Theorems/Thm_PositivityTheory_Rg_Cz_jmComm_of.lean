@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Cz_jmComm_of
 -- name    : PositivityTheory.Rg.Cz.jmComm_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T08:57:28.440241+00:00
 -- url     : https://prove2.me/theorems/245a4c86-d2b2-5d90-8691-a544b8126c70

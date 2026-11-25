@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_Col_mem_Ip
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.Col.mem_Ip
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:26:44.497222+00:00
 -- url     : https://prove2.me/theorems/bfe42aa6-68f6-5671-91da-98fc6f8b2f3a

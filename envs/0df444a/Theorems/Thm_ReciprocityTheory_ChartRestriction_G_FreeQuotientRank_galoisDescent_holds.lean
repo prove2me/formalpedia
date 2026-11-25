@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_galoisDescent_holds
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.galoisDescent_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:29:12.878404+00:00
 -- url     : https://prove2.me/theorems/04c28b65-7617-48e1-bba4-695019e5bab7

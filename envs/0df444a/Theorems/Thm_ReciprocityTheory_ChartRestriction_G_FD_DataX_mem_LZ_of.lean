@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_DataX_mem_LZ_of
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.DataX.mem_LZ_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:13:27.641024+00:00
 -- url     : https://prove2.me/theorems/493c45fb-c2a3-4419-9ec5-8e11e3798ae0

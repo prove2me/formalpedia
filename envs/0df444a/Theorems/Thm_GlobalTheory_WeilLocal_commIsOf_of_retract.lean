@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WeilLocal_commIsOf_of_retract
 -- name    : GlobalTheory.WeilLocal.commIsOf_of_retract
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T21:54:50.493894+00:00
 -- url     : https://prove2.me/theorems/95436180-a446-4c60-8ab3-e8c2603ab033

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Parabolic_exists_of_bumpFun_ne_zero
 -- name    : GroundTheory.Automorphic.Parabolic.exists_of_bumpFun_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T12:59:38.010063+00:00
 -- url     : https://prove2.me/theorems/5008644e-6658-5e6e-b666-a97a926929ba

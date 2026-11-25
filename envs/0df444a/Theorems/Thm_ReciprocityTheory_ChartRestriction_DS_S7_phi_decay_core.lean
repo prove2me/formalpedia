@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_phi_decay_core
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.phi_decay_core
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:46:04.881642+00:00
 -- url     : https://prove2.me/theorems/b4ec94a2-6c78-4d61-a764-f752681be3ef

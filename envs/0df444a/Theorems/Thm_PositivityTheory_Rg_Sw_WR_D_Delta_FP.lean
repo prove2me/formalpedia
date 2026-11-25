@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_Rg_Sw_WR_D_Delta_FP
 -- name    : PositivityTheory.Rg.Sw.WR.D.Delta_FP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T09:06:19.640635+00:00
 -- url     : https://prove2.me/theorems/0fa676d6-524e-5d3b-885c-a5a8c6bd1e43

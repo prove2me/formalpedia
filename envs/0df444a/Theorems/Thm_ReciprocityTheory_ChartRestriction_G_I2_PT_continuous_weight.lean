@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_PT_continuous_weight
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.PT.continuous_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:27:51.743096+00:00
 -- url     : https://prove2.me/theorems/b08c6a03-1291-49e4-86e5-9380525a2c21

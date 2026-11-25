@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_AR_Up_OntoB_rhF_contDiffAt
 -- name    : ReciprocityTheory.ChartRestriction.G.AR.Up.OntoB.rhF_contDiffAt
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:21:19.535206+00:00
 -- url     : https://prove2.me/theorems/bff35bd9-68e8-4e55-98b6-c00827d3c316

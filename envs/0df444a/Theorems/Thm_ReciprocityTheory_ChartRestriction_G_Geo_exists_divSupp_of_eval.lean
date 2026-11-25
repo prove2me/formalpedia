@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Geo_exists_divSupp_of_eval
 -- name    : ReciprocityTheory.ChartRestriction.G.Geo.exists_divSupp_of_eval
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T10:28:39.553224+00:00
 -- url     : https://prove2.me/theorems/6ebc88b4-9c3f-513a-9d9c-8f5cf8fb54e2

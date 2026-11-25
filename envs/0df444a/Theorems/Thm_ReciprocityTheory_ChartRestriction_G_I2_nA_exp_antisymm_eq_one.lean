@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_nA_exp_antisymm_eq_one
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.nA_exp_antisymm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:30:45.260799+00:00
 -- url     : https://prove2.me/theorems/5a54520a-63f5-5928-b337-06bc4b9b8216

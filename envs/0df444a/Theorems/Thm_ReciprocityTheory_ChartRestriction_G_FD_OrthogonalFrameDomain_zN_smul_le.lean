@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_OrthogonalFrameDomain_zN_smul_le
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.OrthogonalFrameDomain.zN_smul_le
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:48:23.049453+00:00
 -- url     : https://prove2.me/theorems/6d79d635-6fbb-4343-8e4d-0d68d5e84331

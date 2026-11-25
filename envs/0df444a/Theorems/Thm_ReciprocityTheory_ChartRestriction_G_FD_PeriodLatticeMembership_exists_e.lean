@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_PeriodLatticeMembership_exists_e
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.PeriodLatticeMembership.exists_e
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:22:24.43879+00:00
 -- url     : https://prove2.me/theorems/339195c3-dd67-5c89-9c88-0fe349868840

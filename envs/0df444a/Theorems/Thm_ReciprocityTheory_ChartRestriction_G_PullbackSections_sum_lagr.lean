@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_sum_lagr
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.sum_lagr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:33:18.004317+00:00
 -- url     : https://prove2.me/theorems/f699f725-dfe7-4457-bb77-62cdb0f1c975

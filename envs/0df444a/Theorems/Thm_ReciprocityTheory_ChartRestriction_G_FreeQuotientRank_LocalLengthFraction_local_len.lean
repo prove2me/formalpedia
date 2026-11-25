@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_LocalLengthFraction_local_len
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.LocalLengthFraction.local_len
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:22:19.402944+00:00
 -- url     : https://prove2.me/theorems/b7bc23a6-3a00-4227-b9f1-b08984a3177b

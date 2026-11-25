@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_rsm_rot_int
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.rsm_rot_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:29:58.805407+00:00
 -- url     : https://prove2.me/theorems/ec94f2c7-e04c-5522-90dc-833132b0daf4

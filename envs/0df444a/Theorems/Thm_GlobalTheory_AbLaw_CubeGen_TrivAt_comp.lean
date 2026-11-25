@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_AbLaw_CubeGen_TrivAt_comp
 -- name    : GlobalTheory.AbLaw.CubeGen.TrivAt.comp
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T03:39:33.481374+00:00
 -- url     : https://prove2.me/theorems/57e87ec7-a697-48ea-ab2c-a0d5efdf591d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_RgExhHecke_NonScalProof_isPolynomial_capelliMinor
 -- name    : GlobalTheory.CompanionTheory.RgExhHecke.NonScalProof.isPolynomial_capelliMinor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T12:48:23.752936+00:00
 -- url     : https://prove2.me/theorems/113cd854-1b87-5bf6-8a11-eaad3e2df7f8

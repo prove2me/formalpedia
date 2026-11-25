@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_integrable_norm_pow_mul_exp_neg_mul_norm_sq_euclidean
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.integrable_norm_pow_mul_exp_neg_mul_norm_sq_euclidean
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:28:44.988001+00:00
 -- url     : https://prove2.me/theorems/3244bd48-1e02-4b9b-b93b-fd64d4594a4f

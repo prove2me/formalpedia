@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_WeightPf_map_act_pG
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.WeightPf.map_act_pG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:33:05.192307+00:00
 -- url     : https://prove2.me/theorems/cddc1e98-475a-5132-bbd2-27616b16a290

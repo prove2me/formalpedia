@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymLiftOdd_exists_ratio
 -- name    : GlobalTheory.SymLiftOdd.exists_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T11:56:14.940603+00:00
 -- url     : https://prove2.me/theorems/640e9d74-1cbe-4a08-97a8-eb8d2bb488a0

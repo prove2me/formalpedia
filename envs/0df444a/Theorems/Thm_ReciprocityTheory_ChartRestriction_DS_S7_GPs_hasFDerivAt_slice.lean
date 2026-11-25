@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_S7_GPs_hasFDerivAt_slice
 -- name    : ReciprocityTheory.ChartRestriction.DS.S7.GPs.hasFDerivAt_slice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T13:04:32.554536+00:00
 -- url     : https://prove2.me/theorems/9873e454-a751-40bc-a7c4-6a01c3bcd943

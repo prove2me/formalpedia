@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FD_FourierCubeVolume_cube_compact
 -- name    : ReciprocityTheory.ChartRestriction.G.FD.FourierCubeVolume.cube_compact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T10:17:46.504397+00:00
 -- url     : https://prove2.me/theorems/0c8c7ca4-dde3-4b53-b2df-3aa85c577205

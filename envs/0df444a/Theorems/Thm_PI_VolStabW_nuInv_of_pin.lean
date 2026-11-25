@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PI_VolStabW_nuInv_of_pin
 -- name    : PI.VolStabW.nuInv_of_pin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T05:45:11.447059+00:00
 -- url     : https://prove2.me/theorems/ca9e3a87-73ff-4b35-bc38-94e471fd3207

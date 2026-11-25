@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Frob_span_fap
 -- name    : PositivityTheory.PfBern.Frob.span_fap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T12:46:54.284735+00:00
 -- url     : https://prove2.me/theorems/014af6a4-7658-40af-a076-de036b95d55f

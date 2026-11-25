@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_I2_pointNormSq_periodic
 -- name    : ReciprocityTheory.ChartRestriction.G.I2.pointNormSq_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:34:30.00699+00:00
 -- url     : https://prove2.me/theorems/7e176851-827e-4d9a-8687-05597dd861ce

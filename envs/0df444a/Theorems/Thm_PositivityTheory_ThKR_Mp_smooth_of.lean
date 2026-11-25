@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_ThKR_Mp_smooth_of
 -- name    : PositivityTheory.ThKR.Mp.smooth_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T12:37:50.944224+00:00
 -- url     : https://prove2.me/theorems/1c348e42-0443-5e9d-b5af-7adc57d9fac4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TupleCone_coeff_mem_span_pow
 -- name    : GlobalTheory.TupleCone.coeff_mem_span_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T13:02:34.183778+00:00
 -- url     : https://prove2.me/theorems/c7468152-e362-5c1c-a0fc-6dc7432ea0aa

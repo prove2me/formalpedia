@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Out_GtBCPf_trans_pull
 -- name    : ReciprocityTheory.ChartRestriction.G.Out.GtBCPf.trans_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T10:32:38.40092+00:00
 -- url     : https://prove2.me/theorems/98da228f-95e5-5d01-913a-816d48e6489f

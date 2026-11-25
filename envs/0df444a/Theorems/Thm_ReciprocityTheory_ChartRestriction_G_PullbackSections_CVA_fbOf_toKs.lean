@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_CVA_fbOf_toKs
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.CVA.fbOf_toKs
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T10:33:22.290293+00:00
 -- url     : https://prove2.me/theorems/e7ea3938-9880-401e-aa03-c3f8bba64a49

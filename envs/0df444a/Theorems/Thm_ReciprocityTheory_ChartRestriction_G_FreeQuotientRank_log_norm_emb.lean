@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_FreeQuotientRank_log_norm_emb
 -- name    : ReciprocityTheory.ChartRestriction.G.FreeQuotientRank.log_norm_emb
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:23:33.34981+00:00
 -- url     : https://prove2.me/theorems/55e9892e-852b-43d1-b5ec-8a362e3f0aa7

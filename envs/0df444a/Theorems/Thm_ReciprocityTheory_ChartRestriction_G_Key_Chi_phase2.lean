@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_Key_Chi_phase2
 -- name    : ReciprocityTheory.ChartRestriction.G.Key.Chi.phase2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T10:30:37.54082+00:00
 -- url     : https://prove2.me/theorems/f358a94c-a9c6-5b6d-a887-19ad9c385fda

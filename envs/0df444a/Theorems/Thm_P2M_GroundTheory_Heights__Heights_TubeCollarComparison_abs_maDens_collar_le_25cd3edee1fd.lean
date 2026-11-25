@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_Heights__Heights_TubeCollarComparison_abs_maDens_collar_le_25cd3edee1fd
 -- name    : P2M_GroundTheory_Heights__Heights_TubeCollarComparison_abs_maDens_collar_le_25cd3edee1fd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T04:41:17.921638+00:00
 -- url     : https://prove2.me/theorems/13b7e291-9689-4a05-b70e-7347dbed2321

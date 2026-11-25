@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_DS_HW_cext_of_inK
 -- name    : ReciprocityTheory.ChartRestriction.DS.HW.cext_of_inK
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T09:40:11.040067+00:00
 -- url     : https://prove2.me/theorems/fe54834c-d583-49af-bde9-8166e0bda1e7
