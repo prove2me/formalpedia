@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_eq_of_prod_bottomRows_eq
 -- name    : GroundTheory.Automorphic.Whittaker.eq_of_prod_bottomRows_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:41:13.362933+00:00
 -- url     : https://prove2.me/theorems/d2e2566d-1a35-4195-b534-d76c5fc5d0f5

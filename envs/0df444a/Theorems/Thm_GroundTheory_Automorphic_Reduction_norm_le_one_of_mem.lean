@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_norm_le_one_of_mem
 -- name    : GroundTheory.Automorphic.Reduction.norm_le_one_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:08:17.738157+00:00
 -- url     : https://prove2.me/theorems/e83145e9-51e7-4062-9df3-15e8814e5e5d

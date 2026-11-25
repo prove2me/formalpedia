@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_AdelicGLn_isCompact_integralFiniteMatrices
 -- name    : GroundTheory.Automorphic.AdelicGLn.isCompact_integralFiniteMatrices
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:05:36.49285+00:00
 -- url     : https://prove2.me/theorems/51249e1a-c1f7-4742-9b46-8b3be156114d

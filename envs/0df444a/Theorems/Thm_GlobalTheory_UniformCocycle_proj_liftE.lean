@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformCocycle_proj_liftE
 -- name    : GlobalTheory.UniformCocycle.proj_liftE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:54:15.590454+00:00
 -- url     : https://prove2.me/theorems/65f903ab-9792-49cf-a540-7f615e537a0c

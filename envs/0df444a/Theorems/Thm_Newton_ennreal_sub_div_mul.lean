@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_ennreal_sub_div_mul
 -- name    : Newton.ennreal_sub_div_mul
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:59:59.617835+00:00
 -- url     : https://prove2.me/theorems/30ac43cc-99ed-4540-b3b2-77021a5aa17e

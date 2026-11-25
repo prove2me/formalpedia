@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_TraceNormBounds_coboundary_commutes_homomorphism
 -- name    : Formalism.L2.Th1.D.TraceNormBounds.coboundary_commutes_homomorphism
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:57:38.614806+00:00
 -- url     : https://prove2.me/theorems/12b0c88e-17db-412d-9c6d-aa8a939daaf9

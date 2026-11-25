@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_swapTheta_inv
 -- name    : GroundTheory.Automorphic.Whittaker.swapTheta_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:07:43.966923+00:00
 -- url     : https://prove2.me/theorems/368b998c-33d7-4374-9126-a5b263a8c0ab

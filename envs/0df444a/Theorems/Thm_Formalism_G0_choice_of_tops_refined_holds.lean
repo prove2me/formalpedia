@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_G0_choice_of_tops_refined_holds
 -- name    : Formalism.G0.choice_of_tops_refined_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:12:51.761919+00:00
 -- url     : https://prove2.me/theorems/f9c0d7ee-02f7-4894-8417-024188a882ec

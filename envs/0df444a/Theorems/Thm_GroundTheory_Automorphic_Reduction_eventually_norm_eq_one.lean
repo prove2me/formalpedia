@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_eventually_norm_eq_one
 -- name    : GroundTheory.Automorphic.Reduction.eventually_norm_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:06:45.647265+00:00
 -- url     : https://prove2.me/theorems/349f218d-3b28-4ad7-a3cd-e4fc7d00c5a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_rank_le
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.rank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:46:44.792059+00:00
 -- url     : https://prove2.me/theorems/03ba6b25-4e26-4792-92c1-10c92760f523

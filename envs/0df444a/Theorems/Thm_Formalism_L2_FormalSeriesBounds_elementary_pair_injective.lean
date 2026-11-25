@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_elementary_pair_injective
 -- name    : Formalism.L2.FormalSeriesBounds.elementary_pair_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:47:54.59916+00:00
 -- url     : https://prove2.me/theorems/9e5030df-1b92-4d6f-84f9-715cd19ed961

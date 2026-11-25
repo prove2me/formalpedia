@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_subst_singlePointUncurry
 -- name    : Formalism.L2.FormalSeriesBounds.subst_singlePointUncurry
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:37:34.241805+00:00
 -- url     : https://prove2.me/theorems/dfc35982-7321-4a37-8b7a-0dce1bbb0be8

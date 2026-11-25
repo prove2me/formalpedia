@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_AltInv_image_eq_int
 -- name    : Formalism.L2.FormalSeriesBounds.AltInv.image_eq_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:19:11.305472+00:00
 -- url     : https://prove2.me/theorems/9231eaee-e5ad-40dd-9541-c78e448f9926

@@ -1,0 +1,42 @@
+-- Prove2me | solution 1 for Formalism.LT.funEqHom
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T01:09:53.257485+00:00
+-- url     : https://prove2.me/submissions/0deaebd0-77fb-44e0-aaa2-98df6d6b967b
+
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_SolveExistsProof
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_InvInt
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_SigmaNormLeOne
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_MemSpanOfNormLe
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_NormSigmaLeOne
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_MapSubtypeInjective
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_CoeffSubstAddCMulXPow
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_IsHomOfSubstEqSmul
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_TorsionNormIterProof
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_NormNatCastOfNotDvd
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_LTLemma
+import Definitions.Def_Formalism_TorsionNormIteration_LubinTateExample
+import Theorems.Thm_Formalism_LT_funEqSubst
+import Theorems.Thm_Formalism_LT_FunEqHom_of
+import Theorems.Thm_Formalism_LT_FunEqLowCoeff_proof
+import Theorems.Thm_Formalism_LT_InvIntP_FunEqLowCoeff_proof
+import Theorems.Thm_Formalism_LT_InvIntP_InvIntegralOfClass_proof
+import Theorems.Thm_Formalism_LT_InvIntegralOfClass_proof
+import Theorems.Thm_Formalism_LT_SolveExists_proof
+import Theorems.Thm_Formalism_LT_SolveP_SolveExists_proof
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.LT
+universe u v
+namespace Formalism.LT
+theorem _root_.solution : Formalism.G.FunEqHom.{u} :=
+  FunEqHom_of SolveExists_proof InvIntegralOfClass_proof FunEqLowCoeff_proof funEqSubst
+end Formalism.LT

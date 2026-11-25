@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_coS_lam
 -- name    : Formalism.L2.FormalSeriesBounds.RF.coS_lam
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:02:13.604074+00:00
 -- url     : https://prove2.me/theorems/b0fca1fa-78ae-4cb7-8773-5fc664803f62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_memLp_rpow_of_integrable
 -- name    : GroundTheory.Automorphic.Sobolev.memLp_rpow_of_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:57:15.670675+00:00
 -- url     : https://prove2.me/theorems/71242eaa-cea7-4aff-ae73-f3e6e54a8882

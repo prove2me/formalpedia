@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_LatticePoisson_summable_mFourierCoeff_perTorus
 -- name    : GroundTheory.Global.LatticePoisson.summable_mFourierCoeff_perTorus
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:28:10.463984+00:00
 -- url     : https://prove2.me/theorems/617b312e-8610-43a0-90e6-e4030629b69a

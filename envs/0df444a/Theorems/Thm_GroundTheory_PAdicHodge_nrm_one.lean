@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_one
 -- name    : GroundTheory.PAdicHodge.nrm_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:05:35.932605+00:00
 -- url     : https://prove2.me/theorems/3738cb7b-6d37-4889-bcff-8c3f5a59a795

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FormalGermZero_lg_addS
 -- name    : Formalism.L2.FormalSeriesBounds.FormalGermZero.lg_addS
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:56:50.771801+00:00
 -- url     : https://prove2.me/theorems/02636cf0-e3f0-4053-b689-0265d17189fb

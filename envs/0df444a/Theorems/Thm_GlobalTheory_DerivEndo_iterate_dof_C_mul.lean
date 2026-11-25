@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEndo_iterate_dof_C_mul
 -- name    : GlobalTheory.DerivEndo.iterate_dof_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:18:03.254832+00:00
 -- url     : https://prove2.me/theorems/c254249f-2e5d-4e7e-9b8b-24868320a224

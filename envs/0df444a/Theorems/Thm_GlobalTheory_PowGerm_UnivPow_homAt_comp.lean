@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivPow_homAt_comp
 -- name    : GlobalTheory.PowGerm.UnivPow.homAt_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:02:33.344147+00:00
 -- url     : https://prove2.me/theorems/765b184c-4f70-4b2f-a69a-922fc056eec8

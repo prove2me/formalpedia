@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_isUpper_of_mem_support
 -- name    : GroundTheory.Automorphic.HarishChandra.isUpper_of_mem_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:07:47.015891+00:00
 -- url     : https://prove2.me/theorems/69110d7f-0fc7-4865-bdcf-c7ec7c97c75a

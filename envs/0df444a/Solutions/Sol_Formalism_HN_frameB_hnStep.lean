@@ -1,0 +1,48 @@
+-- Prove2me | solution 1 for Formalism.HN.frameB_hnStep
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T01:20:51.54016+00:00
+-- url     : https://prove2.me/submissions/d9305463-f4c9-4ca2-bb11-2fc8fccc503f
+
+import Definitions.Def_Formalism_HarderNarasimhan_StatementFrame
+import Definitions.Def_Formalism_LatticeSlopes_ExistsSaturatedSlopeEqMuMax
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_DiscreteSpanOfLinIndep
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_PlaceSplit
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_SlopeIneqMean
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_HNSlopes
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_HNExtreme
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_HNStep
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_DegSupermod
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_MuChar
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_RatioMax
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_FinSup
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_ExistsSmulMemOfFinrankEq
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_SatBasic
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_TwistFinrankEq
+import Definitions.Def_Formalism_CorankShare_CorankShareProofs_LayerCakeFormula
+import Definitions.Def_Formalism_CorankShare_CorankShareProofs_SumNormSqLeHilbertSchmidt
+import Definitions.Def_Formalism_HarderNarasimhan_HarderNarasimhanProofs_FrameHermSharpB
+import Theorems.Thm_Formalism_HN_degree_supermodular
+import Theorems.Thm_Formalism_HN_finite_supremum_slopes
+import Theorems.Thm_Formalism_HN_hnStep_of
+import Theorems.Thm_Formalism_HN_maximal_slope_ratio
+import Theorems.Thm_Formalism_HN_real_saturation_property
+import Theorems.Thm_Formalism_HN_saturation_basic_properties
+import Theorems.Thm_Formalism_HN_slope_characterization
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module NumberField Finset Formalism.CorankShareLayerCake.FR
+noncomputable section
+open Formalism Formalism.HN
+namespace Formalism.HN
+theorem _root_.solution : HNStep.{0, 0, 0} :=
+  hnStep_of degree_supermodular slope_characterization maximal_slope_ratio finite_supremum_slopes real_saturation_property saturation_basic_properties
+end Formalism.HN

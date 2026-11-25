@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_hasSum_inner_comp_finProj
 -- name    : GroundTheory.Automorphic.hasSum_inner_comp_finProj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:08:13.686809+00:00
 -- url     : https://prove2.me/theorems/e91b9966-08ed-48d3-abc3-dc02e2e79027

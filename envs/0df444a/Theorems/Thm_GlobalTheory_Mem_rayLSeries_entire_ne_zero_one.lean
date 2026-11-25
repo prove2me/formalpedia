@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Mem_rayLSeries_entire_ne_zero_one
 -- name    : GlobalTheory.Mem.rayLSeries_entire_ne_zero_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T18:25:14.18856+00:00
 -- url     : https://prove2.me/theorems/f446ffe1-5941-4a42-a1b2-c24e506b5647

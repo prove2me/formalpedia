@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeierstrassCurve_Affine_tate_origin_addOrderOf_eq_four_five_six_seven_iff
 -- name    : WeierstrassCurve.Affine.tate_origin_addOrderOf_eq_four_five_six_seven_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-11-25T00:56:36.115261+00:00
 -- url     : https://prove2.me/theorems/9ebde9cb-4053-46db-a4bd-b106a99142aa

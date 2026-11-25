@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.path_basis_theorem
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-6
+-- created : 2026-11-25T01:20:58.208159+00:00
+-- url     : https://prove2.me/submissions/c96aef34-cfc5-42ca-8db7-64c508fbb1e7
+
+import Mathlib
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_FinalP
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_IndexWeightsDominance
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_LemmaA2indepOf
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_JacobiMinorProof
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_PathBasisOfCount
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_GoodWOfWeight
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_JacobiMinorProofs_FactSplit
+import Definitions.Def_Formalism_ThetaLogCoordinates_JacobiPathWeights_PathBasisTheorem
+import Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_polBRank
+import Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_pathIdxFinite
+import Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_lemmaA2indep
+import Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_path_basis_of_count
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.InvariantFactorPaths Formalism.InvariantFactorPaths.GelfandTsetlinBases Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top
+open Formalism.InvariantFactorPaths.GelfandTsetlinBases
+namespace Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top
+theorem _root_.solution : PathBasisOfCount := path_basis_of_count lemmaA2indep pathIdxFinite polBRank
+end Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top

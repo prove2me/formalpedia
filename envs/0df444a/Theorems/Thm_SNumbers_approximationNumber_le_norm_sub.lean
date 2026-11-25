@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_approximationNumber_le_norm_sub
 -- name    : SNumbers.approximationNumber_le_norm_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:43:53.316744+00:00
 -- url     : https://prove2.me/theorems/3e40404c-784d-4fe6-8b11-b21aeaf9788d

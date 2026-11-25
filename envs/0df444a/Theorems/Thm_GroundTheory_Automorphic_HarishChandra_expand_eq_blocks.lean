@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_expand_eq_blocks
 -- name    : GroundTheory.Automorphic.HarishChandra.expand_eq_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:07:49.77259+00:00
 -- url     : https://prove2.me/theorems/224a3380-e1af-4cb9-be0f-2de9d6eb1054

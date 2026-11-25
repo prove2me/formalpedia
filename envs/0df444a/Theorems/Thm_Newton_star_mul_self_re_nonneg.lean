@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_star_mul_self_re_nonneg
 -- name    : Newton.star_mul_self_re_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:51:42.939804+00:00
 -- url     : https://prove2.me/theorems/31c8a654-5e17-4c33-991f-1f34224928d6

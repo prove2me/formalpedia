@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FBChart_raw_sg
 -- name    : Formalism.L2.FormalSeriesBounds.FBChart.raw_sg
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:46:19.552796+00:00
 -- url     : https://prove2.me/theorems/4627bbd3-5a7e-44fe-8f16-962808b38969

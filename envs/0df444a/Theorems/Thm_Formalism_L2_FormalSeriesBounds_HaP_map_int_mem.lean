@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_HaP_map_int_mem
 -- name    : Formalism.L2.FormalSeriesBounds.HaP.map_int_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:47:45.32722+00:00
 -- url     : https://prove2.me/theorems/15274e81-334e-4571-ada3-6cc82335a011

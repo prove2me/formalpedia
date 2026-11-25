@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_IsDigits_cast_ne_zero
 -- name    : SZ.IsDigits.cast_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:23.84131+00:00
 -- url     : https://prove2.me/theorems/d6f63084-8448-4ccb-8fbc-7b8123113bff

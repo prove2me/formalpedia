@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_imageSubobject_epi_comp
 -- name    : PretorsionImageClosed.imageSubobject_epi_comp
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:00:53.211638+00:00
 -- url     : https://prove2.me/theorems/d1eb8357-fd89-4054-8b07-779cf5a086eb

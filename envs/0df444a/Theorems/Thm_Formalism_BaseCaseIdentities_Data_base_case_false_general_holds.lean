@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_base_case_false_general_holds
 -- name    : Formalism.BaseCaseIdentities.Data.base_case_false_general_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:51:41.735798+00:00
 -- url     : https://prove2.me/theorems/d91c659a-426c-4f7b-a5d9-3180f9f24698

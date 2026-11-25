@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_short_independent_isU
 -- name    : GlobalTheory.exists_short_independent_isU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:01:54.345964+00:00
 -- url     : https://prove2.me/theorems/e7298145-5898-4686-b364-91470756cc3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_convolution_integrand_decomposition
 -- name    : Newton.convolution_integrand_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:00:08.350429+00:00
 -- url     : https://prove2.me/theorems/1ac9dd8a-c477-42f7-99d3-1f8250483790

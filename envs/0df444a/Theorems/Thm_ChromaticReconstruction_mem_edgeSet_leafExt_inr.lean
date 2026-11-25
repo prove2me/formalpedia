@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_mem_edgeSet_leafExt_inr
 -- name    : ChromaticReconstruction.mem_edgeSet_leafExt_inr
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:13:03.404565+00:00
 -- url     : https://prove2.me/theorems/27f85fed-a130-4eb8-99f8-ddf9100febae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_finiteDimensional_zkSpan
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.finiteDimensional_zkSpan
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:08:18.327878+00:00
 -- url     : https://prove2.me/theorems/ba88cebd-411f-4550-bab7-f5680cee6c20

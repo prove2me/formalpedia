@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_holder_inequality_one_infty
 -- name    : Newton.holder_inequality_one_infty
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:01:15.669258+00:00
 -- url     : https://prove2.me/theorems/6b82d082-9412-47a7-88b5-456594c343e8

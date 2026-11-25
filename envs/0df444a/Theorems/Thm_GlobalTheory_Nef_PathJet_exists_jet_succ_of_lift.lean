@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_PathJet_exists_jet_succ_of_lift
 -- name    : GlobalTheory.Nef.PathJet.exists_jet_succ_of_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:08:49.090249+00:00
 -- url     : https://prove2.me/theorems/196fe6cf-4c65-4d7c-b311-325ad8524a82

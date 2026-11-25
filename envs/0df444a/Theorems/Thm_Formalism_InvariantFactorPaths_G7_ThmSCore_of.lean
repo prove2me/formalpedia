@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_ThmSCore_of
 -- name    : Formalism.InvariantFactorPaths.G7.ThmSCore_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:33:15.621694+00:00
 -- url     : https://prove2.me/theorems/e2087e32-4056-4ce6-997f-770ed1ae3cf7

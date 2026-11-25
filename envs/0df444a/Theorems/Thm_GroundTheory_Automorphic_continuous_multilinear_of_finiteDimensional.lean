@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_continuous_multilinear_of_finiteDimensional
 -- name    : GroundTheory.Automorphic.continuous_multilinear_of_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:07:49.60963+00:00
 -- url     : https://prove2.me/theorems/389f6f54-4694-4f65-a245-1ad04322c968

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_shift_add
 -- name    : Formalism.L2.FormalSeriesBounds.RF.shift_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:02:10.058274+00:00
 -- url     : https://prove2.me/theorems/b86d4946-5048-4ac1-8e39-ed2d8e4a9a4e

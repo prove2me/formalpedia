@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_InfScale_ratScale_X
 -- name    : GlobalTheory.Nef.InfScale.ratScale_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:00:20.243543+00:00
 -- url     : https://prove2.me/theorems/7c1a7bf2-fb67-4178-a7e9-a437b091508b

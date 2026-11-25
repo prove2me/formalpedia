@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsIrreducibleComponentOfSupport_disjoint
 -- name    : FunctorialResolution.EmbeddedResolution.IsIrreducibleComponentOfSupport.disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:55:44.581161+00:00
 -- url     : https://prove2.me/theorems/8945578f-2efe-42e1-8c0c-99050681c39d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_gelfandNumber_nonneg
 -- name    : SNumbers.gelfandNumber_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:08:22.756979+00:00
 -- url     : https://prove2.me/theorems/41060baa-2d7d-4ba7-a51f-715160dbdd1b

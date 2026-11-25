@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_piSum_single_mu
 -- name    : Formalism.HN.piSum_single_mu
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:21.969797+00:00
 -- url     : https://prove2.me/theorems/e17216db-8574-4466-8d41-78eec554c525

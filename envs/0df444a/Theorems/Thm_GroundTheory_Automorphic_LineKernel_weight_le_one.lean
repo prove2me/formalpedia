@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_weight_le_one
 -- name    : GroundTheory.Automorphic.LineKernel.weight_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:04:06.411748+00:00
 -- url     : https://prove2.me/theorems/1027917a-9d2f-43b7-a33d-09c4081d395b

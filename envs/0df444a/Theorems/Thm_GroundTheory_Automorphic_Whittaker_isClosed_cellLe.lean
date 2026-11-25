@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isClosed_cellLe
 -- name    : GroundTheory.Automorphic.Whittaker.isClosed_cellLe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:36:47.59881+00:00
 -- url     : https://prove2.me/theorems/e0a3ba5f-fb31-4c99-81b9-c4e4c928ada9

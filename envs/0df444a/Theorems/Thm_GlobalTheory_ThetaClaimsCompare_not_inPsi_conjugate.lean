@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaClaimsCompare_not_inPsi_conjugate
 -- name    : GlobalTheory.ThetaClaimsCompare.not_inPsi_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:54:22.660106+00:00
 -- url     : https://prove2.me/theorems/bd842dba-4f6e-4dfc-9271-c41103bbfd76

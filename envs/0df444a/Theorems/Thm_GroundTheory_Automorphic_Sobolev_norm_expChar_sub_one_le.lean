@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_norm_expChar_sub_one_le
 -- name    : GroundTheory.Automorphic.Sobolev.norm_expChar_sub_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:55:49.184854+00:00
 -- url     : https://prove2.me/theorems/b3435860-a7cd-44a3-ae73-4ab5087af958

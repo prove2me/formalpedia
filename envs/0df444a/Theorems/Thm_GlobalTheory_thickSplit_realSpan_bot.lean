@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thickSplit_realSpan_bot
 -- name    : GlobalTheory.thickSplit_realSpan_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:03:44.730512+00:00
 -- url     : https://prove2.me/theorems/de5828c6-3f01-462d-8405-41bc450c1cb0

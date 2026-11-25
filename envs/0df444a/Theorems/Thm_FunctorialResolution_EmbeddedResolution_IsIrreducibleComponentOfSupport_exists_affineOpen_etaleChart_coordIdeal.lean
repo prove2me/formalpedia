@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_IsIrreducibleComponentOfSupport_exists_affineOpen_etaleChart_coordIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.IsIrreducibleComponentOfSupport.exists_affineOpen_etaleChart_coordIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:55:47.519368+00:00
 -- url     : https://prove2.me/theorems/d9907a66-7888-4aee-96fb-ee3bf1e814c8

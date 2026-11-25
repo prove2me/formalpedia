@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_WeightHomogeneousMinors_wRow_letter
 -- name    : Formalism.L2.FormalSeriesBounds.RF.WeightHomogeneousMinors.wRow_letter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:01:23.750092+00:00
 -- url     : https://prove2.me/theorems/8c1ddf64-601b-4422-abc1-77f9fb934d21

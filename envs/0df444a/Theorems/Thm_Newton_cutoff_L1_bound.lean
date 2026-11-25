@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_cutoff_L1_bound
 -- name    : Newton.cutoff_L1_bound
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:52:18.944668+00:00
 -- url     : https://prove2.me/theorems/650c3b9e-f74a-4e3b-a374-d5dfebdf9215

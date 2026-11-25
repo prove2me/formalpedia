@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_mem_doubleCoset_iff_normalForm
 -- name    : GroundTheory.Automorphic.Whittaker.mem_doubleCoset_iff_normalForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:29:31.317424+00:00
 -- url     : https://prove2.me/theorems/3b2014f8-8228-4c02-bad3-28be678b1d94

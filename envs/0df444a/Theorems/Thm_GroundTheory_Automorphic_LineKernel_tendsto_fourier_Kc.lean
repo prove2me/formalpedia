@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_tendsto_fourier_Kc
 -- name    : GroundTheory.Automorphic.LineKernel.tendsto_fourier_Kc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:04:18.795471+00:00
 -- url     : https://prove2.me/theorems/d0d59b34-31e6-492d-b828-430c7db83c02

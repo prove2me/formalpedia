@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericExtend_appLE_inv_eq
 -- name    : GlobalTheory.GenericExtend.appLE_inv_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:01:38.492006+00:00
 -- url     : https://prove2.me/theorems/ff41a5e4-eae5-4f08-b63b-3fa4c402b49d

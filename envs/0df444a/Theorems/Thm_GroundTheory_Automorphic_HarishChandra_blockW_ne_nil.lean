@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_blockW_ne_nil
 -- name    : GroundTheory.Automorphic.HarishChandra.blockW_ne_nil
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:07:03.561616+00:00
 -- url     : https://prove2.me/theorems/893c999b-81d9-4fd6-97a3-7df83895834a

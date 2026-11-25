@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HaarUniquenessConjugation_haar_unique
 -- name    : Formalism.FourierDecayAlt.P.HaarUniquenessConjugation.haar_unique
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:16:43.550683+00:00
 -- url     : https://prove2.me/theorems/09885661-9f94-4c1d-a122-bbe2afdd5b1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PrimaryCharacter_exists_factor_of_ker_le
 -- name    : GlobalTheory.PrimaryCharacter.exists_factor_of_ker_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:56:08.940601+00:00
 -- url     : https://prove2.me/theorems/8c79e0da-962f-4b62-8fad-59270cc54009

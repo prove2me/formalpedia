@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IsotropicCounts_isoCount_one
 -- name    : Formalism.HermitianLattices.Ext.L3.IsotropicCounts.isoCount_one
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:27.866799+00:00
 -- url     : https://prove2.me/theorems/3e0b3e05-7199-45af-9757-f64ee9e52002

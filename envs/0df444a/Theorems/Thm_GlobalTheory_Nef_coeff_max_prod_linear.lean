@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_coeff_max_prod_linear
 -- name    : GlobalTheory.Nef.coeff_max_prod_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:01:36.802474+00:00
 -- url     : https://prove2.me/theorems/62051a63-f873-45c1-9e17-733be46afba8

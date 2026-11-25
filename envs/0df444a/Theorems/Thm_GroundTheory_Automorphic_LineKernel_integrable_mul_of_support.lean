@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_integrable_mul_of_support
 -- name    : GroundTheory.Automorphic.LineKernel.integrable_mul_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:04:25.686824+00:00
 -- url     : https://prove2.me/theorems/abda4883-6b74-443f-8429-616b4bb1251c

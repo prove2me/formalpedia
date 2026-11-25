@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_IndependenceBoundPlain_independence_bound_raw
 -- name    : Formalism.L2.FormalSeriesBounds.IndependenceBoundPlain.independence_bound_raw
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:29:35.921349+00:00
 -- url     : https://prove2.me/theorems/c08b975b-48bf-4d5f-a094-b6d2673750f7

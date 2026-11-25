@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_lbIsoPull_eq
 -- name    : GlobalTheory.existsUnique_lbIsoPull_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:43:39.354423+00:00
 -- url     : https://prove2.me/theorems/7b51f536-5822-4931-a491-25d34fa117cf

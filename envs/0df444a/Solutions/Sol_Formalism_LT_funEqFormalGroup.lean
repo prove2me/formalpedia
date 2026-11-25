@@ -1,0 +1,35 @@
+-- Prove2me | solution 1 for Formalism.LT.funEqFormalGroup
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-3
+-- created : 2026-11-25T01:21:02.710053+00:00
+-- url     : https://prove2.me/submissions/9c462959-064c-4bb2-9f48-cc72827af0ec
+
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_SolveExistsProof
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_InvInt
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_SigmaNormLeOne
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_MemSpanOfNormLe
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_NormSigmaLeOne
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_MapSubtypeInjective
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_CoeffSubstAddCMulXPow
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_IsHomOfSubstEqSmul
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_TorsionNormIterProof
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_NormNatCastOfNotDvd
+import Definitions.Def_Formalism_TorsionNormIteration_InverseIntegralClasses_LTLemma
+import Definitions.Def_Formalism_TorsionNormIteration_LubinTateExample
+import Theorems.Thm_Formalism_LT_funEqGroup
+import Theorems.Thm_Formalism_LT_FunEqFormalGroup_of
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.LT
+universe u v
+namespace Formalism.LT
+theorem _root_.solution : Formalism.G.FunEqFormalGroup.{u} := FunEqFormalGroup_of funEqGroup
+end Formalism.LT

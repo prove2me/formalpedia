@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_norm_deriv_sq_le
 -- name    : GlobalTheory.ThetaGauss.norm_deriv_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:48:25.851908+00:00
 -- url     : https://prove2.me/theorems/878677d9-ef5d-43d6-8542-0053efe06d83

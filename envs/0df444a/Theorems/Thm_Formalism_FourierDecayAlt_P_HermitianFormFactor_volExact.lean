@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_HermitianFormFactor_volExact
 -- name    : Formalism.FourierDecayAlt.P.HermitianFormFactor.volExact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T15:19:24.787839+00:00
 -- url     : https://prove2.me/theorems/8f755f00-566a-4c51-9034-e7acd2c9da34

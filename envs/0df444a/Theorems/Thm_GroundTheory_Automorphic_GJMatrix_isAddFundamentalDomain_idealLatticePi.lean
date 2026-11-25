@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_isAddFundamentalDomain_idealLatticePi
 -- name    : GroundTheory.Automorphic.GJMatrix.isAddFundamentalDomain_idealLatticePi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:56:37.932303+00:00
 -- url     : https://prove2.me/theorems/3b733711-bbee-475b-a518-6162aaca5149

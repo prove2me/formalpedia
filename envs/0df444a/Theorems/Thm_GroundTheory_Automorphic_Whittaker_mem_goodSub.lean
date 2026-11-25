@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_mem_goodSub
 -- name    : GroundTheory.Automorphic.Whittaker.mem_goodSub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:58:04.850111+00:00
 -- url     : https://prove2.me/theorems/603b54d4-f40c-4b49-be3a-73fde90d79d9

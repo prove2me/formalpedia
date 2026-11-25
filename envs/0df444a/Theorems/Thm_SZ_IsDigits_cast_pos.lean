@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_IsDigits_cast_pos
 -- name    : SZ.IsDigits.cast_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:38:59.923245+00:00
 -- url     : https://prove2.me/theorems/4e6c5eb2-763a-477e-a100-a0055c0b670f

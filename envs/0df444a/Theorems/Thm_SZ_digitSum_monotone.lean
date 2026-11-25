@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitSum_monotone
 -- name    : SZ.digitSum_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:39:07.761986+00:00
 -- url     : https://prove2.me/theorems/f192896d-9dc8-46c3-a823-8b67e0f4400b

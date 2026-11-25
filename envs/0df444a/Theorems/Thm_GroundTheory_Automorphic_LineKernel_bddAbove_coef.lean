@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_bddAbove_coef
 -- name    : GroundTheory.Automorphic.LineKernel.bddAbove_coef
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:57:47.626624+00:00
 -- url     : https://prove2.me/theorems/8a608206-fe17-4bcb-81ec-28866f765efe

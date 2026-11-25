@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_perm_eq_of_llRank
 -- name    : GroundTheory.Automorphic.Whittaker.perm_eq_of_llRank
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:56:55.600846+00:00
 -- url     : https://prove2.me/theorems/0799f5ca-790e-4257-843f-d25ed5502b60

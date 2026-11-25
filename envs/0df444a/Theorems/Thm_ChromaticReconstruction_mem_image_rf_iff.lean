@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_mem_image_rf_iff
 -- name    : ChromaticReconstruction.mem_image_rf_iff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:58:07.417682+00:00
 -- url     : https://prove2.me/theorems/b3f3e508-a04f-409c-9fee-08ced32e2205

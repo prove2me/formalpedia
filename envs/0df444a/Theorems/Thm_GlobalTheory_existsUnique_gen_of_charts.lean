@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_gen_of_charts
 -- name    : GlobalTheory.existsUnique_gen_of_charts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:44:53.025531+00:00
 -- url     : https://prove2.me/theorems/e7a0a1d7-d6ff-4360-a0e6-3e3f40013533

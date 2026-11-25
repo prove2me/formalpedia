@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeadingMinors_coeff_prod_leading_minors
 -- name    : GlobalTheory.LeadingMinors.coeff_prod_leading_minors
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:50:05.656325+00:00
 -- url     : https://prove2.me/theorems/a2dcb6cd-51d9-417a-9752-c4a264147a83

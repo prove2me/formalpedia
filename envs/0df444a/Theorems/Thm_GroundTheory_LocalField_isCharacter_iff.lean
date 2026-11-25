@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_isCharacter_iff
 -- name    : GroundTheory.LocalField.isCharacter_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:59:34.191301+00:00
 -- url     : https://prove2.me/theorems/6622565a-22ca-4d29-8cb4-f78bee00ae74

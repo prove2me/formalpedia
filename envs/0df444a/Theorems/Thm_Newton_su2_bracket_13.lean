@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_su2_bracket_13
 -- name    : Newton.su2_bracket_13
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:56:42.95845+00:00
 -- url     : https://prove2.me/theorems/d1dbacbc-7dde-49ce-9bb6-c02ff0ce54f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_relDeg_eq_iff
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.relDeg_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:03:51.425332+00:00
 -- url     : https://prove2.me/theorems/2591681e-822f-4c6e-ace7-d4dcf07c7fd1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_coverRadius_sq
 -- name    : Formalism.HermitianLatticeCounting.P.coverRadius_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:28:43.036271+00:00
 -- url     : https://prove2.me/theorems/0d990aea-d7be-4f8f-988e-12f2ea280905

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_mul_inv_borelDiag_mem
 -- name    : GroundTheory.Automorphic.Whittaker.mul_inv_borelDiag_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:57:16.642726+00:00
 -- url     : https://prove2.me/theorems/0f6017b6-b821-405b-aa07-565a50c4626c

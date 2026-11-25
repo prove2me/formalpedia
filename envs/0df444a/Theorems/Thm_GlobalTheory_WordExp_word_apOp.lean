@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_WordExp_word_apOp
 -- name    : GlobalTheory.WordExp.word_apOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:48:21.237923+00:00
 -- url     : https://prove2.me/theorems/d5c3488d-1ca5-4567-9048-1dd0985b9362

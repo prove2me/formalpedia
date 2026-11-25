@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_genericPoint_eq_maximalIdeal
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_genericPoint_eq_maximalIdeal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:03:32.08781+00:00
 -- url     : https://prove2.me/theorems/4da55b54-1b0e-46a9-a571-da30f9ccef6a

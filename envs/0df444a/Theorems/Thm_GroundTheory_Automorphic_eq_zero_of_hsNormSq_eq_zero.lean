@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_eq_zero_of_hsNormSq_eq_zero
 -- name    : GroundTheory.Automorphic.eq_zero_of_hsNormSq_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:07:20.809472+00:00
 -- url     : https://prove2.me/theorems/421f09e2-83bf-427f-8675-61c9f691b26d

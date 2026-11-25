@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_block_ideal_at
 -- name    : Formalism.CohomologicalDescent.DepthNonnegative.block_ideal_at
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:11:07.525213+00:00
 -- url     : https://prove2.me/theorems/bf493583-9f14-4ab4-a60a-3891035b1819

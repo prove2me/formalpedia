@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_eval_second_zero
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_eval_second_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:46:41.359306+00:00
 -- url     : https://prove2.me/theorems/0b7e1bc1-7ef8-41a0-8e10-c8d142d4fde7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_vanishing_of_budget_and_density
 -- name    : Formalism.FourierDecayAlt.P.vanishing_of_budget_and_density
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:39:42.026408+00:00
 -- url     : https://prove2.me/theorems/560208ef-4b7b-45bd-85c2-15cf2debb698

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_capelli_under_integral_of_parts
 -- name    : Formalism.FourierDecayAlt.P.capelli_under_integral_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T16:38:55.394048+00:00
 -- url     : https://prove2.me/theorems/d9dbbd90-bc7f-4aec-b6ef-f8c69f90b9ab

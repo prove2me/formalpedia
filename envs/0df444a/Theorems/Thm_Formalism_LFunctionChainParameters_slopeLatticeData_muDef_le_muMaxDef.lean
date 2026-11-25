@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_slopeLatticeData_muDef_le_muMaxDef
 -- name    : Formalism.LFunctionChainParameters.slopeLatticeData.muDef_le_muMaxDef
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:37:41.251656+00:00
 -- url     : https://prove2.me/theorems/f97a63f8-6db0-4666-a57a-4db0440b93b8

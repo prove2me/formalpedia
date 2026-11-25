@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_directions_in_parabolic
 -- name    : Formalism.FourierDecayAlt.P.directions_in_parabolic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T14:57:41.834826+00:00
 -- url     : https://prove2.me/theorems/9000fa4d-4416-46ee-bcd5-bcbbd70f61af

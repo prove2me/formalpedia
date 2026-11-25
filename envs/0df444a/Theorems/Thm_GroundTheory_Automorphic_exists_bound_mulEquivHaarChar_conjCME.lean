@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_exists_bound_mulEquivHaarChar_conjCME
 -- name    : GroundTheory.Automorphic.exists_bound_mulEquivHaarChar_conjCME
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:07:30.722216+00:00
 -- url     : https://prove2.me/theorems/e07f347b-453e-4a71-a5e7-3a7bccacc73a

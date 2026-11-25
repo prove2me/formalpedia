@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformSerre_comp_lift
 -- name    : GlobalTheory.UniformSerre.comp_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:53:38.597378+00:00
 -- url     : https://prove2.me/theorems/ad36bb46-32df-4bac-9784-7031710d337e

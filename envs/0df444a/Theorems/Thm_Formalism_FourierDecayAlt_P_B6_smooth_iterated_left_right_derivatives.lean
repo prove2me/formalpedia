@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_smooth_iterated_left_right_derivatives
 -- name    : Formalism.FourierDecayAlt.P.B6.smooth_iterated_left_right_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T16:06:18.386438+00:00
 -- url     : https://prove2.me/theorems/5987e616-9c80-45f9-8dfe-048d13cc2c80

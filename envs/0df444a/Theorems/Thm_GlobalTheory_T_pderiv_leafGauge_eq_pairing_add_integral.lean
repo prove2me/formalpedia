@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_pderiv_leafGauge_eq_pairing_add_integral
 -- name    : GlobalTheory.T.pderiv_leafGauge_eq_pairing_add_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:38:46.651046+00:00
 -- url     : https://prove2.me/theorems/ea067344-d953-475e-b204-d74cf485c211

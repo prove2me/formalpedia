@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BlockValue_Lead_prod
 -- name    : GlobalTheory.BlockValue.Lead.prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:50:14.467994+00:00
 -- url     : https://prove2.me/theorems/729f82e1-55d2-4bb0-b60b-818eb687930f

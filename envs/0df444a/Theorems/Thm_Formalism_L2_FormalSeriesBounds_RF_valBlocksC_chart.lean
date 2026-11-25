@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_valBlocksC_chart
 -- name    : Formalism.L2.FormalSeriesBounds.RF.valBlocksC_chart
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:46:16.992427+00:00
 -- url     : https://prove2.me/theorems/bf832f17-6c02-42b5-8a5c-f0e9b17996bc

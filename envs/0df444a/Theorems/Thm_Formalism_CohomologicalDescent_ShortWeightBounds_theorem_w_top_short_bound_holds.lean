@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_ShortWeightBounds_theorem_w_top_short_bound_holds
 -- name    : Formalism.CohomologicalDescent.ShortWeightBounds.theorem_w_top_short_bound_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:28:52.666294+00:00
 -- url     : https://prove2.me/theorems/ec9d9e21-bc71-4391-b74f-7b8ae456c8d8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CayleyCase_stable_iff
 -- name    : GlobalTheory.UnitLemma.CayleyCase.stable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:51:21.115527+00:00
 -- url     : https://prove2.me/theorems/ea379568-980c-450d-9ecb-bc3dd8a492b8

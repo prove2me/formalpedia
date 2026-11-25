@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_OrthogonalBases_sup_eq_top_of_mem_hcompl
 -- name    : Formalism.HermitianLattices.Ext.L3.OrthogonalBases.sup_eq_top_of_mem_hcompl
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:48.554801+00:00
 -- url     : https://prove2.me/theorems/a847381d-4b1d-4f03-8558-c35c5ec41dda

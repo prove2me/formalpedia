@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_lintegral_mul_mul_le_three_holder
 -- name    : Newton.lintegral_mul_mul_le_three_holder
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:56:58.594882+00:00
 -- url     : https://prove2.me/theorems/00494d22-3532-48af-8f63-1626369b2026

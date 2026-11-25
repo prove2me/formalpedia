@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_compHomeoL_symm_apply
 -- name    : GroundTheory.Automorphic.Whittaker.compHomeoL_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:05:28.35334+00:00
 -- url     : https://prove2.me/theorems/843ae552-882a-44e6-bdfb-ba50aacb2993

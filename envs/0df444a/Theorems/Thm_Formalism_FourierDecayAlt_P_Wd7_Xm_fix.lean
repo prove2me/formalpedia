@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd7_Xm_fix
 -- name    : Formalism.FourierDecayAlt.P.Wd7.Xm_fix
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:34:12.306611+00:00
 -- url     : https://prove2.me/theorems/1791ebdf-cc46-4a6c-a967-34d90f42aa0b

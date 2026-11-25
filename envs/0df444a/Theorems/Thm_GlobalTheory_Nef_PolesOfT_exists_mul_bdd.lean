@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_PolesOfT_exists_mul_bdd
 -- name    : GlobalTheory.Nef.PolesOfT.exists_mul_bdd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:01:46.508585+00:00
 -- url     : https://prove2.me/theorems/d65362db-e279-4bbf-aa3a-aae44d12b45a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactRep_exists_kProj_eq_self
 -- name    : GroundTheory.Automorphic.CompactRep.exists_kProj_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:08:15.4738+00:00
 -- url     : https://prove2.me/theorems/23c0b6ab-9300-4b70-935e-08eacdba39b7

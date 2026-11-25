@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_SW_QuadIso_measure_quad_Fv
 -- name    : GlobalTheory.CompanionTheory.SW.QuadIso.measure_quad_Fv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T20:50:55.147374+00:00
 -- url     : https://prove2.me/theorems/6368a61b-1368-42d1-8fc6-f286e3b7f36b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_discr_eq_det_sq_of_card
 -- name    : GlobalTheory.algebraMap_discr_eq_det_sq_of_card
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:18:00.420828+00:00
 -- url     : https://prove2.me/theorems/5304ce3b-7cc2-4e83-935c-f8e0ead6df86

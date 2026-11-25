@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BI_isChar_esymm_roots_charpoly
 -- name    : GlobalTheory.BI.isChar_esymm_roots_charpoly
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:06:55.220155+00:00
 -- url     : https://prove2.me/theorems/5be2aecb-9639-4732-bf7e-9ba1e8f6efdb

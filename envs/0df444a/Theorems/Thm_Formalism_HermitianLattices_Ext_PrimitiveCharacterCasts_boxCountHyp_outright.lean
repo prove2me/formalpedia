@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimitiveCharacterCasts_boxCountHyp_outright
 -- name    : Formalism.HermitianLattices.Ext.PrimitiveCharacterCasts.boxCountHyp_outright
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:18.804161+00:00
 -- url     : https://prove2.me/theorems/6e224aae-e188-43bf-9912-034f28bd3d13

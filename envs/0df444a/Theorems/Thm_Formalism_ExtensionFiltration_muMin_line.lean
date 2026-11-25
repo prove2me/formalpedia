@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_muMin_line
 -- name    : Formalism.ExtensionFiltration.muMin_line
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:35.286869+00:00
 -- url     : https://prove2.me/theorems/1054051d-912d-4fb3-b0a6-a98f6ff1a6c7

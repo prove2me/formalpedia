@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_LT_LTL_key__07a773ad9047
 -- name    : P2M_Formalism_LT_LTL_key__07a773ad9047
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:38:16.975522+00:00
 -- url     : https://prove2.me/theorems/e3ca629c-260b-4514-af79-0dd4007a4822

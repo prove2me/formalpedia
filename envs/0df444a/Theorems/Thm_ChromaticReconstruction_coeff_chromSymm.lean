@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_coeff_chromSymm
 -- name    : ChromaticReconstruction.coeff_chromSymm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:26:48.574572+00:00
 -- url     : https://prove2.me/theorems/96a0888b-12d0-41e4-871b-eeb3b2d0843c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompanionTheory_D_gk_Poul_IsInv_exists_rep
 -- name    : CompanionTheory.D.gk.Poul.IsInv.exists_rep
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T13:33:57.294808+00:00
 -- url     : https://prove2.me/theorems/7df7bc64-dd70-4525-a197-60f6d15c3698

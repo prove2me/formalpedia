@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Lp_coeFn_finsetSum
 -- name    : GroundTheory.Automorphic.Lp.coeFn_finsetSum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:03:58.561278+00:00
 -- url     : https://prove2.me/theorems/be010753-92c1-4a52-ab04-b5bd428d60f9

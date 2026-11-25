@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_exists_isHilbertSum_isMinimal
 -- name    : GroundTheory.Automorphic.UnitaryRep.exists_isHilbertSum_isMinimal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:41:53.609413+00:00
 -- url     : https://prove2.me/theorems/d7b7d42d-62e9-4a81-a6d3-8fc490c9c479

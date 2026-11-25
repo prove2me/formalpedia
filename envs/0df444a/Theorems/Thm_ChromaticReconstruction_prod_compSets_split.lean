@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_prod_compSets_split
 -- name    : ChromaticReconstruction.prod_compSets_split
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:07:03.389992+00:00
 -- url     : https://prove2.me/theorems/9f31f19b-cb46-4191-9b85-b5a03e3bb6a9

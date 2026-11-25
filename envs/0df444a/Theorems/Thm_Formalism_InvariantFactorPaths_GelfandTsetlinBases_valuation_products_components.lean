@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_valuation_products_components
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.valuation_products_components
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:46:52.228801+00:00
 -- url     : https://prove2.me/theorems/fec69da5-2f89-4c9f-b852-7290f712bb96

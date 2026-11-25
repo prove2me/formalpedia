@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_norm_eq_one_of_isIntegralUnitAt
 -- name    : GroundTheory.Global.norm_eq_one_of_isIntegralUnitAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:09:36.365381+00:00
 -- url     : https://prove2.me/theorems/3aec04ce-e60f-4f8e-ad45-a62a7bc323e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_coeff_mul_mfact
 -- name    : GlobalTheory.UnitCase.coeff_mul_mfact
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:38:38.840072+00:00
 -- url     : https://prove2.me/theorems/8f4d1380-8a51-414d-ae01-61a145af99bc

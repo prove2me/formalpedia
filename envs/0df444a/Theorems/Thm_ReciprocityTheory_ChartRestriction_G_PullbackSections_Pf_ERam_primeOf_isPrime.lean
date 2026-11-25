@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_primeOf_isPrime
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.primeOf_isPrime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:03:17.440702+00:00
 -- url     : https://prove2.me/theorems/926b2a05-068c-4f3d-8440-e1a419605f65

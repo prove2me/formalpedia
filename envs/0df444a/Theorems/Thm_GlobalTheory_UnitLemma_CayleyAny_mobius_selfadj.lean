@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CayleyAny_mobius_selfadj
 -- name    : GlobalTheory.UnitLemma.CayleyAny.mobius_selfadj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:03:24.684567+00:00
 -- url     : https://prove2.me/theorems/69ef743c-da00-47f6-9937-7a42e3e2849e

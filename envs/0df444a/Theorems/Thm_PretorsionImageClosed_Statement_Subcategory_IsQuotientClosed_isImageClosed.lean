@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_IsQuotientClosed_isImageClosed
 -- name    : PretorsionImageClosed.Statement.Subcategory.IsQuotientClosed.isImageClosed
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:04:31.139591+00:00
 -- url     : https://prove2.me/theorems/6e94668f-f21d-4a99-b93d-b1d2d6e304dc

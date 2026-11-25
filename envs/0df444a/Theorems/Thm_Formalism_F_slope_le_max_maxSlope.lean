@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_slope_le_max_maxSlope
 -- name    : Formalism.F.slope_le_max_maxSlope
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:37:07.584801+00:00
 -- url     : https://prove2.me/theorems/5237c0e2-6c58-4fa8-9641-7c0f7f621814

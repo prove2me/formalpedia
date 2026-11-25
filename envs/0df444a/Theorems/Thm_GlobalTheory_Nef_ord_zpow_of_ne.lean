@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_ord_zpow_of_ne
 -- name    : GlobalTheory.Nef.ord_zpow_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:06:51.33515+00:00
 -- url     : https://prove2.me/theorems/d11f4a7d-ccc5-48f3-b29e-765c1617da2c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_LongWeylElement_assembleIter
 -- name    : Formalism.FourierDecayAlt.P.LongWeylElement.assembleIter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T16:16:07.759155+00:00
 -- url     : https://prove2.me/theorems/19675b14-01f9-4c95-8d47-5add333446fd

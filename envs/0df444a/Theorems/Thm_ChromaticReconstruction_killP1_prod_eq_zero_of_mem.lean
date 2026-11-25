@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_killP1_prod_eq_zero_of_mem
 -- name    : ChromaticReconstruction.killP1_prod_eq_zero_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:01:54.268509+00:00
 -- url     : https://prove2.me/theorems/0b3acc36-8565-401b-b6e5-78951449115f

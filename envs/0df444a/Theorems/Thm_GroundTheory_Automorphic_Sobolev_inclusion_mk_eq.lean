@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_inclusion_mk_eq
 -- name    : GroundTheory.Automorphic.Sobolev.inclusion_mk_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:55:49.57541+00:00
 -- url     : https://prove2.me/theorems/0c07ae25-2533-4dbc-8c87-08ce8bc9f812

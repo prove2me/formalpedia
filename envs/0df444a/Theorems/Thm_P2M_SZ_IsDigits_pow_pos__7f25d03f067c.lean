@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_SZ_IsDigits_pow_pos__7f25d03f067c
 -- name    : P2M_SZ_IsDigits_pow_pos__7f25d03f067c
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:38:53.845385+00:00
 -- url     : https://prove2.me/theorems/1ab82ddb-b9dc-407d-ac08-cdc9b7eea5e3

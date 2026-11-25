@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_binary_form_splits
 -- name    : GlobalTheory.Nef.binary_form_splits
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:01:55.777428+00:00
 -- url     : https://prove2.me/theorems/67d832c3-97f5-4dd6-baf2-2c96b7b5d1e3

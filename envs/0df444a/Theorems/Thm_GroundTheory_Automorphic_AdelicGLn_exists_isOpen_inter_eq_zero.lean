@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_AdelicGLn_exists_isOpen_inter_eq_zero
 -- name    : GroundTheory.Automorphic.AdelicGLn.exists_isOpen_inter_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:04:50.230211+00:00
 -- url     : https://prove2.me/theorems/9b89aca1-b5f4-43be-8055-2ba758ab71c3

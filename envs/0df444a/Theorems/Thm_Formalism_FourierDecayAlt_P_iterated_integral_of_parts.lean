@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_iterated_integral_of_parts
 -- name    : Formalism.FourierDecayAlt.P.iterated_integral_of_parts
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:38:25.766257+00:00
 -- url     : https://prove2.me/theorems/94271524-9176-4617-acb4-e0e13efa76c1

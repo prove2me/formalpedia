@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_measurePreserving_matrixCoord
 -- name    : GroundTheory.Automorphic.GJMatrix.measurePreserving_matrixCoord
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:56:07.300561+00:00
 -- url     : https://prove2.me/theorems/42d894da-aea1-41a3-a00b-60345e51ccc0

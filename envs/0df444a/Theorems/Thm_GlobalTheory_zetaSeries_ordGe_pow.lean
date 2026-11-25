@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_zetaSeries_ordGe_pow
 -- name    : GlobalTheory.zetaSeries_ordGe_pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:54:40.978668+00:00
 -- url     : https://prove2.me/theorems/19497720-a22b-4e59-a6e6-7d6111b1c60c

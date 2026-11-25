@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_PolesOfT_val_aeval_le
 -- name    : GlobalTheory.Nef.PolesOfT.val_aeval_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:01:32.792206+00:00
 -- url     : https://prove2.me/theorems/c9d52a41-972c-4274-8c10-2c7f7ade07dd

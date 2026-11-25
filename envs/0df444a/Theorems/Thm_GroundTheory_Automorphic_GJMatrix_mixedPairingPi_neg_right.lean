@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_mixedPairingPi_neg_right
 -- name    : GroundTheory.Automorphic.GJMatrix.mixedPairingPi_neg_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:55:41.937019+00:00
 -- url     : https://prove2.me/theorems/0565f0d8-0e2d-4d1f-bbcf-a935992b6dcc

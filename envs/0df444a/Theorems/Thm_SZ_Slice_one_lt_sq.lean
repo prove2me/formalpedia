@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_one_lt_sq
 -- name    : SZ.Slice.one_lt_sq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:04:34.204093+00:00
 -- url     : https://prove2.me/theorems/3ea9e0df-a1c3-4cdb-920d-eacaf6a184d7

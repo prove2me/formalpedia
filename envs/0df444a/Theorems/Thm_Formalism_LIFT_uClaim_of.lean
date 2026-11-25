@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LIFT_uClaim_of
 -- name    : Formalism.LIFT.uClaim_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:50:00.804531+00:00
 -- url     : https://prove2.me/theorems/1f2c6c38-5b3a-4faa-8010-c799de5bbba7

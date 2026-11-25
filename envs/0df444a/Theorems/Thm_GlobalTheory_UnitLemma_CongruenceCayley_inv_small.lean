@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CongruenceCayley_inv_small
 -- name    : GlobalTheory.UnitLemma.CongruenceCayley.inv_small
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:05:40.802042+00:00
 -- url     : https://prove2.me/theorems/134946f3-c59e-446c-bb95-eaeb5303a627

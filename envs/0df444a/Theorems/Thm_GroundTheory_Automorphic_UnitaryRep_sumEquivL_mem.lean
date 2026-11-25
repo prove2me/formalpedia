@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_sumEquivL_mem
 -- name    : GroundTheory.Automorphic.UnitaryRep.sumEquivL_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:04:18.74149+00:00
 -- url     : https://prove2.me/theorems/9112507d-3030-4d53-8ff9-9e242a0ef908

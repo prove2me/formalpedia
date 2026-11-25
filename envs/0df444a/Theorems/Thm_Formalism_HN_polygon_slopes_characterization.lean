@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_polygon_slopes_characterization
 -- name    : Formalism.HN.polygon_slopes_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:07:46.748348+00:00
 -- url     : https://prove2.me/theorems/19ff9e6f-19e5-4629-90cc-9ed1d6325ed5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_CompactRep_kProj_apply_eq_self_iff
 -- name    : GroundTheory.Automorphic.CompactRep.kProj_apply_eq_self_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:07:08.22905+00:00
 -- url     : https://prove2.me/theorems/1009245b-be54-423b-a2a3-f3011111b97b

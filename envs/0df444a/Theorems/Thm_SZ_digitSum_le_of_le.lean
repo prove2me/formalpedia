@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_digitSum_le_of_le
 -- name    : SZ.digitSum_le_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:23.35182+00:00
 -- url     : https://prove2.me/theorems/db22d20c-6d11-49a1-a805-d6eec46d46e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_shift_idx_smulLat
 -- name    : Formalism.DivisionValues.shift_idx_smulLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:49:27.215798+00:00
 -- url     : https://prove2.me/theorems/66488325-4871-43a7-906d-68c1cdc9fecb

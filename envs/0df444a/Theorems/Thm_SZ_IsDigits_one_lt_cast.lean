@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_IsDigits_one_lt_cast
 -- name    : SZ.IsDigits.one_lt_cast
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:39:05.674014+00:00
 -- url     : https://prove2.me/theorems/372c09a3-078f-4735-b524-764fc70f2b05

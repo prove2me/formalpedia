@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_Low_pow
 -- name    : GlobalTheory.MinorGerm.Low.pow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:44:30.886772+00:00
 -- url     : https://prove2.me/theorems/d1b30b3f-4b2b-46f5-84b3-a1965f9bcd4f

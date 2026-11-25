@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenCongruence_dof_step
 -- name    : GlobalTheory.EigenCongruence.dof_step
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:39:26.165966+00:00
 -- url     : https://prove2.me/theorems/9b7aa4b9-43a0-48d4-b270-c97b54924fea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_GeneralGermZero_pairK_int
 -- name    : Formalism.L2.FormalSeriesBounds.GeneralGermZero.pairK_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:03:50.259913+00:00
 -- url     : https://prove2.me/theorems/2f90bd25-7d75-406d-adb9-a8c060832e4d

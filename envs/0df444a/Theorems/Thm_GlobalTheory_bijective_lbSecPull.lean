@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_lbSecPull
 -- name    : GlobalTheory.bijective_lbSecPull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:51:59.37261+00:00
 -- url     : https://prove2.me/theorems/94323e72-347c-4643-a272-3ee02c6a768b

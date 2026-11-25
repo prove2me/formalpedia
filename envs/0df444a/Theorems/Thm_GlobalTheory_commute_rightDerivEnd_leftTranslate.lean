@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_commute_rightDerivEnd_leftTranslate
 -- name    : GlobalTheory.commute_rightDerivEnd_leftTranslate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:56:24.53605+00:00
 -- url     : https://prove2.me/theorems/fae91b1e-6f7b-4dd3-a002-e4e1523b26a9

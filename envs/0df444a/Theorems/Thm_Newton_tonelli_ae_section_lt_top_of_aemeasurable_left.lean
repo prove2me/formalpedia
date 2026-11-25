@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_tonelli_ae_section_lt_top_of_aemeasurable_left
 -- name    : Newton.tonelli_ae_section_lt_top_of_aemeasurable_left
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:34:58.510743+00:00
 -- url     : https://prove2.me/theorems/3c299bd7-fbcd-4cf0-b7bf-6686ae59e44b

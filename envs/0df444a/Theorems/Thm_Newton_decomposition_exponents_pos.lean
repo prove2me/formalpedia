@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_decomposition_exponents_pos
 -- name    : Newton.decomposition_exponents_pos
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:00:05.782293+00:00
 -- url     : https://prove2.me/theorems/3354b33d-551c-451a-9f3c-287bf3857d28

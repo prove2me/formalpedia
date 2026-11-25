@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CayleyAny_isUnit_of_conj
 -- name    : GlobalTheory.UnitLemma.CayleyAny.isUnit_of_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:06:36.100605+00:00
 -- url     : https://prove2.me/theorems/5a55f853-b848-4099-9b2c-ea4a5bb43ed4

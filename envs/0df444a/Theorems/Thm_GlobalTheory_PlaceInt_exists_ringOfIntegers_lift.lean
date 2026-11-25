@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PlaceInt_exists_ringOfIntegers_lift
 -- name    : GlobalTheory.PlaceInt.exists_ringOfIntegers_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:03:21.377284+00:00
 -- url     : https://prove2.me/theorems/b4096852-7476-4910-97c3-f165f920fe23

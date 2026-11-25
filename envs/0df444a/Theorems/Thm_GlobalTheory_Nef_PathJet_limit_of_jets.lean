@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_PathJet_limit_of_jets
 -- name    : GlobalTheory.Nef.PathJet.limit_of_jets
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:08:33.954225+00:00
 -- url     : https://prove2.me/theorems/860f3210-647a-4d7d-897f-4b8ffb4d8c6a

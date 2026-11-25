@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_isSmoothContinuous_of_continuous
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.isSmoothContinuous_of_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:04:40.19041+00:00
 -- url     : https://prove2.me/theorems/03734041-3933-45b5-83b3-26c55108c456

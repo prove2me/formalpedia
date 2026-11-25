@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_head_reduction_lemma
 -- name    : Formalism.FourierDecayAlt.P.head_reduction_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:24:10.236305+00:00
 -- url     : https://prove2.me/theorems/e87208ab-3ce0-4769-823c-544f2b599fac

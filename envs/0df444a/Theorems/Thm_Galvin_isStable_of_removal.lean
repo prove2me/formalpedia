@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_isStable_of_removal
 -- name    : Galvin.isStable_of_removal
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:55:18.672194+00:00
 -- url     : https://prove2.me/theorems/5856c142-42cb-4fcf-9ec2-91e46f196cf1

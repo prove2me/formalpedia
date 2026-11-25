@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Adele2_covolume_euclidLattice2
 -- name    : GroundTheory.Automorphic.Adele2.covolume_euclidLattice2
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:47:52.104097+00:00
 -- url     : https://prove2.me/theorems/2d86d1fb-3fd9-4d68-8911-768eb0c1f5a3

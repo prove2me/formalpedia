@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_secOn_of_pull
 -- name    : GlobalTheory.existsUnique_secOn_of_pull
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:44:40.851721+00:00
 -- url     : https://prove2.me/theorems/f2353871-c272-4ae5-8b97-19846af099e8

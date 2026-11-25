@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_etaF_comap
 -- name    : Formalism.HermitianLattices.Ext.L3.etaF_comap
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T00:01:45.366099+00:00
 -- url     : https://prove2.me/theorems/db5e5301-19a7-45c7-ad55-a232b7cfcba8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymbolCols_exists_col
 -- name    : GlobalTheory.SymbolCols.exists_col
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:57:23.084043+00:00
 -- url     : https://prove2.me/theorems/285e7463-b974-4563-93e4-fa2a8c3850c1

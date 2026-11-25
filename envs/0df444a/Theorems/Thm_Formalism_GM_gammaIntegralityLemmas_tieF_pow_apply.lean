@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_tieF_pow_apply
 -- name    : Formalism.GM.gammaIntegralityLemmas.tieF_pow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:23:17.213166+00:00
 -- url     : https://prove2.me/theorems/be38cf89-c7d3-4ac9-b68f-c1aa94f085a6

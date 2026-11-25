@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_negative_word_fixed
 -- name    : Formalism.FourierDecayAlt.P.negative_word_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:37:31.325635+00:00
 -- url     : https://prove2.me/theorems/1cc8271b-ccc1-4c2f-b3d8-7f6eaae6c4f1

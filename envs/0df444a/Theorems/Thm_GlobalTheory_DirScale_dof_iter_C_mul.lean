@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DirScale_dof_iter_C_mul
 -- name    : GlobalTheory.DirScale.dof_iter_C_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:49:57.17588+00:00
 -- url     : https://prove2.me/theorems/243b2e2c-ff6b-4f26-a172-5e760646ed76

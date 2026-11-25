@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_ZSer_log_inj
 -- name    : Formalism.L2.Th1.A.ZSer.log_inj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:13:55.854486+00:00
 -- url     : https://prove2.me/theorems/4d330bb7-afd0-4cad-94ea-2fbabc35c799

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_hankel_integral
 -- name    : GlobalTheory.Nef.hankel_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:02:06.322959+00:00
 -- url     : https://prove2.me/theorems/b58cd886-4da7-4ffc-a5ca-ccfd84b02cf3

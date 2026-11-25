@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_prodFrom_eq_mul
 -- name    : GroundTheory.Automorphic.Whittaker.prodFrom_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:56:49.947486+00:00
 -- url     : https://prove2.me/theorems/02ca5cd1-7b72-4c7b-af52-460d06724436

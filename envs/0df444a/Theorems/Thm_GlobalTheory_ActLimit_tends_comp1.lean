@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActLimit_tends_comp1
 -- name    : GlobalTheory.ActLimit.tends_comp1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:14:11.544118+00:00
 -- url     : https://prove2.me/theorems/749cfd7f-fb77-4ce9-8e66-b5e076425350

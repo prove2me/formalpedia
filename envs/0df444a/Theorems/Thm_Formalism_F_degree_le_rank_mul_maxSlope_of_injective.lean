@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_F_degree_le_rank_mul_maxSlope_of_injective
 -- name    : Formalism.F.degree_le_rank_mul_maxSlope_of_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:37.449115+00:00
 -- url     : https://prove2.me/theorems/00e6c1fb-7576-4afe-ab1f-da0e135ba245

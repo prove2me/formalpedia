@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Homog_quasiPeriodConst_scale
 -- name    : Formalism.L2.Th1.F.Homog.quasiPeriodConst_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:25:19.62514+00:00
 -- url     : https://prove2.me/theorems/87538d99-c796-4ad7-8aa0-3ae5c896aef2

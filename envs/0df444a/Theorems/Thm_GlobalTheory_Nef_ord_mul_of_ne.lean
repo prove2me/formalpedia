@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_ord_mul_of_ne
 -- name    : GlobalTheory.Nef.ord_mul_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:07:10.985409+00:00
 -- url     : https://prove2.me/theorems/adf4d3b2-4f3e-4b17-8677-2d267a5a16d4

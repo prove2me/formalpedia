@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_PullbackSections_Pf_ERam_mem_primeOf
 -- name    : ReciprocityTheory.ChartRestriction.G.PullbackSections.Pf.ERam.mem_primeOf
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:03:03.458869+00:00
 -- url     : https://prove2.me/theorems/b504f9a1-a805-4ab1-84b6-ea66f0daa202

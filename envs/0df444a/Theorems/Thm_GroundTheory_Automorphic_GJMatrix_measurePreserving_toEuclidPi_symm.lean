@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_measurePreserving_toEuclidPi_symm
 -- name    : GroundTheory.Automorphic.GJMatrix.measurePreserving_toEuclidPi_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:57:22.987801+00:00
 -- url     : https://prove2.me/theorems/acbb43be-e7a6-47f4-90b6-014b3b279e30

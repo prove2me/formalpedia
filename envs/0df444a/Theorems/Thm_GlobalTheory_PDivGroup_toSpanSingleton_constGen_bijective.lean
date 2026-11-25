@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_toSpanSingleton_constGen_bijective
 -- name    : GlobalTheory.PDivGroup.toSpanSingleton_constGen_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:38:50.657859+00:00
 -- url     : https://prove2.me/theorems/41eee619-97eb-4968-af3a-9096983f184f

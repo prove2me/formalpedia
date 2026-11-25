@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_Gchi_conj
 -- name    : Deduction.Gchi_conj
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:07.198022+00:00
 -- url     : https://prove2.me/theorems/1783be04-697a-477a-96d8-ed449683a0d9

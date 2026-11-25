@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_defect_divBy
 -- name    : Formalism.LT.LTL.defect_divBy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T09:50:51.400075+00:00
 -- url     : https://prove2.me/theorems/4c8a9795-86d2-4b25-bd73-b6d134b8f338

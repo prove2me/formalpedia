@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_discr_eq_det_sq_of_basis
 -- name    : GlobalTheory.algebraMap_discr_eq_det_sq_of_basis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:18:12.155982+00:00
 -- url     : https://prove2.me/theorems/2989906b-1c42-409f-91e3-13a5c0a7155a

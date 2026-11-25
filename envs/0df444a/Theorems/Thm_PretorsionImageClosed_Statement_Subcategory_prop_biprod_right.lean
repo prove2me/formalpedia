@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_Statement_Subcategory_prop_biprod_right
 -- name    : PretorsionImageClosed.Statement.Subcategory.prop_biprod_right
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:04:22.245829+00:00
 -- url     : https://prove2.me/theorems/ac156cd5-ac51-4de5-998a-ec80e7bda96b

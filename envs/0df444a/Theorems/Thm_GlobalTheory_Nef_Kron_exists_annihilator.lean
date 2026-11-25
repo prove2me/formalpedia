@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_Kron_exists_annihilator
 -- name    : GlobalTheory.Nef.Kron.exists_annihilator
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:01:01.579523+00:00
 -- url     : https://prove2.me/theorems/006603c1-3e82-4b1f-b633-b975c9c06e73

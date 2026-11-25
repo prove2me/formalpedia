@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_latticeHerglotzBound_statement
 -- name    : Formalism.FourierDecayAlt.P.latticeHerglotzBound_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:13:26.075595+00:00
 -- url     : https://prove2.me/theorems/8489985b-8d2c-48e3-b875-97e4e289bd48

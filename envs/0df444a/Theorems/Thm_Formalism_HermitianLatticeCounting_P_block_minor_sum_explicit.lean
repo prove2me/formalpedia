@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLatticeCounting_P_block_minor_sum_explicit
 -- name    : Formalism.HermitianLatticeCounting.P.block_minor_sum_explicit
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:34:58.176773+00:00
 -- url     : https://prove2.me/theorems/71a9f27e-a133-468a-9635-35bd7b7ee63e

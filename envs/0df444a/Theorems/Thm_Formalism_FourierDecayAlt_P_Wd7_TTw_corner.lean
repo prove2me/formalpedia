@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_Wd7_TTw_corner
 -- name    : Formalism.FourierDecayAlt.P.Wd7.TTw_corner
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:46:13.301216+00:00
 -- url     : https://prove2.me/theorems/be6afd5e-11bc-4da1-8306-cc26ea079acb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_finEval_apply
 -- name    : GroundTheory.Automorphic.Reduction.finEval_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:07:46.555808+00:00
 -- url     : https://prove2.me/theorems/a032c5a1-38cf-417d-8a04-b1d446f65efb

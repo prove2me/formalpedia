@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_GroupCoh_tateCyclesMk_iCycles
 -- name    : GroundTheory.GroupCoh.tateCyclesMk_iCycles
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:55:41.266953+00:00
 -- url     : https://prove2.me/theorems/fb762bdd-0593-4508-9c62-31dd3355d369

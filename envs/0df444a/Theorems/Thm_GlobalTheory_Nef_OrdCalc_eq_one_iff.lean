@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_OrdCalc_eq_one_iff
 -- name    : GlobalTheory.Nef.OrdCalc.eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:00:38.548801+00:00
 -- url     : https://prove2.me/theorems/0249a9a1-abbe-48d9-bc94-a761224e726d

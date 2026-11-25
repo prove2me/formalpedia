@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_subst_oneVariableUncurry_eq_subst
 -- name    : Formalism.L2.FormalSeriesBounds.subst_oneVariableUncurry_eq_subst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:38:22.924329+00:00
 -- url     : https://prove2.me/theorems/cfce6526-13d3-49bd-9976-9b358adcedf8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_pick_eq_00
 -- name    : SZ.pick_eq_00
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:08:29.543413+00:00
 -- url     : https://prove2.me/theorems/c8663990-1b58-446a-9bf8-b0354f761224

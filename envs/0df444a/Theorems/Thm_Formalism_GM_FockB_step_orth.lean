@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_FockB_step_orth
 -- name    : Formalism.GM.FockB.step_orth
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T22:13:54.648609+00:00
 -- url     : https://prove2.me/theorems/67d4ca4e-2f42-4272-b330-6c1c68385431

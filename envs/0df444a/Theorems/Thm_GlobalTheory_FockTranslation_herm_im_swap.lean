@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockTranslation_herm_im_swap
 -- name    : GlobalTheory.FockTranslation.herm_im_swap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:02:58.072025+00:00
 -- url     : https://prove2.me/theorems/8d35d682-d314-4cc8-aa53-91e9ca8e0c33

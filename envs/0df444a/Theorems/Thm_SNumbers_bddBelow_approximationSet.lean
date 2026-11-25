@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SNumbers_bddBelow_approximationSet
 -- name    : SNumbers.bddBelow_approximationSet
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:38.419852+00:00
 -- url     : https://prove2.me/theorems/46b2294c-647d-4b38-b0d6-a9d8068e4536

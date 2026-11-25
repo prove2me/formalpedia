@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_vCorr_contDiffOn
 -- name    : RoughSurfaceScattering.vCorr_contDiffOn
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-25T00:31:57.509681+00:00
 -- url     : https://prove2.me/theorems/686323ff-7e76-4a3d-839a-bc5cba5ed77f

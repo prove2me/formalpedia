@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_chainLemma_multivariatePowerSeries_coordinate_form
 -- name    : GlobalTheory.T.chainLemma_multivariatePowerSeries_coordinate_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:48:10.576195+00:00
 -- url     : https://prove2.me/theorems/36a5b4b4-312a-4620-b2da-010baad35ce3

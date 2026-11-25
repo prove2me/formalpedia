@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_LogIffFix_statement
 -- name    : Formalism.BaseCaseIdentities.Data.LogIffFix_statement
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:57:08.607927+00:00
 -- url     : https://prove2.me/theorems/02f824dd-a8dd-487d-acb5-783d9967e063

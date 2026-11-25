@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_PlaceResiduePowerBound_root
 -- name    : GlobalTheory.Nef.PlaceResiduePowerBound.root
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:03:09.900984+00:00
 -- url     : https://prove2.me/theorems/ee05ac96-a604-4e7c-a5af-e13794e420ca

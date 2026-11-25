@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_collectedHilbertBasis_apply
 -- name    : GroundTheory.Automorphic.UnitaryRep.collectedHilbertBasis_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:56:53.97265+00:00
 -- url     : https://prove2.me/theorems/b07c1951-41ca-408b-bb17-779fdd86df20

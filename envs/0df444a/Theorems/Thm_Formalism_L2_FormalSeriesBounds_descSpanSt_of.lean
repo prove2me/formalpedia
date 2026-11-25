@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_descSpanSt_of
 -- name    : Formalism.L2.FormalSeriesBounds.descSpanSt_of
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:39:19.039153+00:00
 -- url     : https://prove2.me/theorems/ae3b59f5-31aa-4a0b-8503-01d57ea3b457

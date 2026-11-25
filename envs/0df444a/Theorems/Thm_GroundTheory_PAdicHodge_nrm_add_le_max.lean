@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_add_le_max
 -- name    : GroundTheory.PAdicHodge.nrm_add_le_max
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:05:50.254229+00:00
 -- url     : https://prove2.me/theorems/10bb718c-68a5-4598-b109-50cdb8480939

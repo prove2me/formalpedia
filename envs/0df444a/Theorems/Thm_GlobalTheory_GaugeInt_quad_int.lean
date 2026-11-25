@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeInt_quad_int
 -- name    : GlobalTheory.GaugeInt.quad_int
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:58:54.283855+00:00
 -- url     : https://prove2.me/theorems/31e00a49-756d-42a0-b105-82202934d2f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FunctorialResolution_EmbeddedResolution_stalkIdeal_eq_maximalIdeal_of_minimal
 -- name    : FunctorialResolution.EmbeddedResolution.stalkIdeal_eq_maximalIdeal_of_minimal
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T16:02:44.893095+00:00
 -- url     : https://prove2.me/theorems/7cea98d5-dc41-49aa-b7f9-dcc98eec85d2

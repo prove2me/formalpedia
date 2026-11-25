@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_flat_of_isRegularRing_of_isCM
 -- name    : GlobalTheory.flat_of_isRegularRing_of_isCM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T23:55:57.390798+00:00
 -- url     : https://prove2.me/theorems/1473b4c0-387b-4b9f-8339-afba6c7d9013

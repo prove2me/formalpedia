@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_TorusE_ext
 -- name    : GroundTheory.Automorphic.TorusE.ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:00:10.719698+00:00
 -- url     : https://prove2.me/theorems/66d755df-1283-4ecc-9042-957882f35ee2

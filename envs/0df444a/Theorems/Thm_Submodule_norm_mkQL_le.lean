@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Submodule_norm_mkQL_le
 -- name    : Submodule.norm_mkQL_le
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:10:04.087644+00:00
 -- url     : https://prove2.me/theorems/3581239f-8111-4118-af0a-ff198047603f

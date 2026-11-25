@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_submatrix_mul_of_isUpperTriangular
 -- name    : GroundTheory.Automorphic.Whittaker.submatrix_mul_of_isUpperTriangular
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:07:59.515783+00:00
 -- url     : https://prove2.me/theorems/17a65642-3a71-499b-b8f8-fb3d67b072b0

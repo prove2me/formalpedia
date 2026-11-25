@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_eq_zero
 -- name    : GroundTheory.PAdicHodge.nrm_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:05:41.820307+00:00
 -- url     : https://prove2.me/theorems/8cbad387-94af-47f9-9a5e-1de7033705f6

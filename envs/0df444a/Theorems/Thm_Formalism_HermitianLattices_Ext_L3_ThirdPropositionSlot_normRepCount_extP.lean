@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_ThirdPropositionSlot_normRepCount_extP
 -- name    : Formalism.HermitianLattices.Ext.L3.ThirdPropositionSlot.normRepCount_extP
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:43:02.532118+00:00
 -- url     : https://prove2.me/theorems/0f3573c7-a822-4fc4-aa01-f0f0a6b46e76

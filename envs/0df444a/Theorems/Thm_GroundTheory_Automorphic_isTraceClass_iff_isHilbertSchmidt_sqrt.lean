@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isTraceClass_iff_isHilbertSchmidt_sqrt
 -- name    : GroundTheory.Automorphic.isTraceClass_iff_isHilbertSchmidt_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:07:38.661454+00:00
 -- url     : https://prove2.me/theorems/85eb030f-6dd5-40f8-a005-2b1f5fbb8e41

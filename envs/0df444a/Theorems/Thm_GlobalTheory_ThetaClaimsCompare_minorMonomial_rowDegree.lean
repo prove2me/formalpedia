@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaClaimsCompare_minorMonomial_rowDegree
 -- name    : GlobalTheory.ThetaClaimsCompare.minorMonomial_rowDegree
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:53:27.728351+00:00
 -- url     : https://prove2.me/theorems/5b4d7688-8a77-4f30-961d-703d37b2d30c

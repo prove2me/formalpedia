@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_WeightHomogeneousMinors_isWH_minorK_row
 -- name    : Formalism.L2.FormalSeriesBounds.RF.WeightHomogeneousMinors.isWH_minorK_row
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:50:26.895407+00:00
 -- url     : https://prove2.me/theorems/3333266c-3036-44b5-b470-2cecef689a77

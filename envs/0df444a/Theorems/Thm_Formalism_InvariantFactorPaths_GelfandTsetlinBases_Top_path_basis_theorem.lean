@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_Top_path_basis_theorem
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.Top.path_basis_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:16:04.235809+00:00
 -- url     : https://prove2.me/theorems/d05ade7e-1093-46a3-b02b-fbcc8b053cf1

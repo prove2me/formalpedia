@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_integerAlgEquiv_mem_maximalIdeal_iff
 -- name    : GroundTheory.Global.integerAlgEquiv_mem_maximalIdeal_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:02:25.856482+00:00
 -- url     : https://prove2.me/theorems/d3ae85f5-5ab6-4cbb-bb5d-ce23d2db7460

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_diag_mem
 -- name    : GlobalTheory.UnitCase.diag_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:40:38.014803+00:00
 -- url     : https://prove2.me/theorems/2c7858c0-2bd7-46ad-a49e-89dcf989471e

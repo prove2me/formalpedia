@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_funEqHom
 -- name    : Formalism.LT.funEqHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:52:17.925089+00:00
 -- url     : https://prove2.me/theorems/f2011ecb-0a81-455b-a9a9-c36311e58b0e

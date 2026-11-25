@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_exists_isTop
 -- name    : Galvin.exists_isTop
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:51:42.790777+00:00
 -- url     : https://prove2.me/theorems/746d0f8e-61c3-4b05-be4a-20c454c9fb4b

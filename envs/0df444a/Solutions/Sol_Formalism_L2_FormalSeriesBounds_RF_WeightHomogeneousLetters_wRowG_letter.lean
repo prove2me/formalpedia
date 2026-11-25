@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for Formalism.L2.FormalSeriesBounds.RF.WeightHomogeneousLetters.wRowG_letter
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T01:13:56.525088+00:00
+-- url     : https://prove2.me/submissions/5af3a040-6d84-49a2-a940-db5fd4b16343
+
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_RowTieMemCInv
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_NormOneRowDegrees
+import Definitions.Def_Formalism_LocalToGlobal_CharacterGerms_IsWHLetterMinorK
+import Theorems.Thm_Formalism_BaseCaseIdentities_OrdGE_X
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open scoped BigOperators
+open Classical
+open Formalism Formalism.L2 Formalism.L2.FormalSeriesBounds Formalism.L2.FormalSeriesBounds.RF
+open Formalism.IncomingBounds Formalism.L2.Pj MvPolynomial
+open Formalism.L2.FormalSeriesBounds.RF.WeightHomogeneousLetters
+open WeightHomogeneousMinors
+variable {C : Type} [Field C] {V : VF C} {d : ℕ} [NeZero d] {I J : Fin 2 → Type} [∀ g, Fintype (I g)] [∀ g, Fintype (J g)]
+  (X : RowData C V d I J) (F : Flag X) (idx : ∀ g, I g → ℕ) (std : ∀ g t (c : Fin (X.rkF g t)), idx g (F.en g t c) = c.val)
+include std
+namespace Formalism.L2.FormalSeriesBounds.RF.WeightHomogeneousLetters
+theorem _root_.solution {N : ℕ} (g0 : Fin 2) (t0 : ZMod d) (c0 : ℕ) (g : Fin 2) (t : ZMod d)
+    (x : Fin N × Fin (X.rkF g t)) :
+    wRowG X idx g0 t0 c0 (F.letter g t x) = if (g = g0 ∧ t = t0) ∧ (x.2 : ℕ) = c0 then 1 else 0 := by
+  simp only [wRowG, Flag.letter, F.en_ty, std, and_assoc]
+end Formalism.L2.FormalSeriesBounds.RF.WeightHomogeneousLetters

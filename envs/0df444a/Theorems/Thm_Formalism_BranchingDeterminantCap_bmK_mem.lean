@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BranchingDeterminantCap_bmK_mem
 -- name    : Formalism.BranchingDeterminantCap.bmK_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T10:24:40.89343+00:00
 -- url     : https://prove2.me/theorems/8f2fbf80-6ef2-4ef1-9b5f-e2ba24425fb2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_logSeries_mem_valBall
 -- name    : GroundTheory.LocalField.logSeries_mem_valBall
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:09:56.327081+00:00
 -- url     : https://prove2.me/theorems/aaeb9b41-2412-4cc5-aadc-a4c6a8610191

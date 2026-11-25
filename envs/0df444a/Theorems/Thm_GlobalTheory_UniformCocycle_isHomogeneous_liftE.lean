@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformCocycle_isHomogeneous_liftE
 -- name    : GlobalTheory.UniformCocycle.isHomogeneous_liftE
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:54:23.53464+00:00
 -- url     : https://prove2.me/theorems/44ae56b1-8c1e-4fc6-a9c9-3db7ebfbc984

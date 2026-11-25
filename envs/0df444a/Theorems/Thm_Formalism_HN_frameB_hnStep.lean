@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_frameB_hnStep
 -- name    : Formalism.HN.frameB_hnStep
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:28:19.930364+00:00
 -- url     : https://prove2.me/theorems/dfee7d4a-a992-4443-951c-bcf169737df6

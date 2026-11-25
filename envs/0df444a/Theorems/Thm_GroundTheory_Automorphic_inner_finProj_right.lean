@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_inner_finProj_right
 -- name    : GroundTheory.Automorphic.inner_finProj_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:08:09.619816+00:00
 -- url     : https://prove2.me/theorems/dee38776-aae6-4676-adc5-934baa97f836

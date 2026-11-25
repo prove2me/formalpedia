@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowScaling_fScale
 -- name    : GlobalTheory.FlowScaling.fScale
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:23:31.553638+00:00
 -- url     : https://prove2.me/theorems/68c6607d-806c-40b1-9aae-5981886677f2

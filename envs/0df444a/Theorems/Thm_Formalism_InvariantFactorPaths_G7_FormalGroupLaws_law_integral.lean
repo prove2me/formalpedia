@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_FormalGroupLaws_law_integral
 -- name    : Formalism.InvariantFactorPaths.G7.FormalGroupLaws.law_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:27:53.783562+00:00
 -- url     : https://prove2.me/theorems/adb21a36-65d5-4783-9c5f-be60e6d97484

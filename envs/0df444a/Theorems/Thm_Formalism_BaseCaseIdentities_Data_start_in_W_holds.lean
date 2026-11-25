@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_start_in_W_holds
 -- name    : Formalism.BaseCaseIdentities.Data.start_in_W_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:43:33.101595+00:00
 -- url     : https://prove2.me/theorems/d79a4f69-9ef5-4de1-a642-802cc94cd2c1

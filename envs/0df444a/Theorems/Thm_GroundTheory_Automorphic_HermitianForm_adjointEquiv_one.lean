@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_adjointEquiv_one
 -- name    : GroundTheory.Automorphic.HermitianForm.adjointEquiv_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:59:50.160149+00:00
 -- url     : https://prove2.me/theorems/269d4fa5-a6b3-4e99-ab67-9b5d252d94b3

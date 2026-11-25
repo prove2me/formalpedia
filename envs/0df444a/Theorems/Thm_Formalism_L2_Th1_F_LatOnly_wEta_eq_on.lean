@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_LatOnly_wEta_eq_on
 -- name    : Formalism.L2.Th1.F.LatOnly.wEta_eq_on
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:57:32.364924+00:00
 -- url     : https://prove2.me/theorems/7a618067-1f9e-4089-8a43-d37a3f08988c

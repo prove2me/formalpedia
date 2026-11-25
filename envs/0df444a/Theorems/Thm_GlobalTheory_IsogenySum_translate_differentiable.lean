@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsogenySum_translate_differentiable
 -- name    : GlobalTheory.IsogenySum.translate_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:08:43.726193+00:00
 -- url     : https://prove2.me/theorems/842a3ae0-9d54-42ad-b7a4-6fa63e88ec26

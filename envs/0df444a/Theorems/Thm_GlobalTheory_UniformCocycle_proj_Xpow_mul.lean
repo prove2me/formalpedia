@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformCocycle_proj_Xpow_mul
 -- name    : GlobalTheory.UniformCocycle.proj_Xpow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:54:05.853079+00:00
 -- url     : https://prove2.me/theorems/53097fb6-d5cc-4a5f-b8c0-35f8a26e878c

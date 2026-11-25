@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_phi_eq_sum_phiTerm
 -- name    : ChromaticReconstruction.phi_eq_sum_phiTerm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:00:33.078372+00:00
 -- url     : https://prove2.me/theorems/8350519d-ee9a-48e7-b804-21ec861ecf52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkSec_diagSub_one
 -- name    : GlobalTheory.LinkSec.diagSub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:58:55.196032+00:00
 -- url     : https://prove2.me/theorems/ac47544d-af74-40e0-94f0-ec0bdaee08e2

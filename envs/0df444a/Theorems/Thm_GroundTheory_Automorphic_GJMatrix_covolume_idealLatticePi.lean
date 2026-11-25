@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_covolume_idealLatticePi
 -- name    : GroundTheory.Automorphic.GJMatrix.covolume_idealLatticePi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:56:13.77792+00:00
 -- url     : https://prove2.me/theorems/13f4b957-dded-46fd-a78d-c098747b1095

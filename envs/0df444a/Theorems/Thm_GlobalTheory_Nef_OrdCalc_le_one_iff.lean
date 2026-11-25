@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_OrdCalc_le_one_iff
 -- name    : GlobalTheory.Nef.OrdCalc.le_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:00:59.97323+00:00
 -- url     : https://prove2.me/theorems/1a67d0dd-91e5-4e54-a9f5-55b21636ff8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_exists_isMinimal_le
 -- name    : GroundTheory.Automorphic.UnitaryRep.exists_isMinimal_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:41:57.3302+00:00
 -- url     : https://prove2.me/theorems/8277b7ed-799b-4147-898b-24f12a357e5a

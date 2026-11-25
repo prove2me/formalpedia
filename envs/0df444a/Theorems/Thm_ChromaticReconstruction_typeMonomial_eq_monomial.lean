@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_typeMonomial_eq_monomial
 -- name    : ChromaticReconstruction.typeMonomial_eq_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:08:58.75308+00:00
 -- url     : https://prove2.me/theorems/27e2ee90-649e-4a08-8de4-f096e829f6d8

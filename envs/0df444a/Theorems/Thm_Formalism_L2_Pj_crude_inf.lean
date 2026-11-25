@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Pj_crude_inf
 -- name    : Formalism.L2.Pj.crude_inf
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:40:50.194882+00:00
 -- url     : https://prove2.me/theorems/970e3209-79e0-47a5-8680-2cd0542fa850

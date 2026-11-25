@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FormalGermZero_coeff_single_subst_lin
 -- name    : Formalism.L2.FormalSeriesBounds.FormalGermZero.coeff_single_subst_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:55:56.579005+00:00
 -- url     : https://prove2.me/theorems/0b87d427-9dc1-4679-a889-31ca68035d95

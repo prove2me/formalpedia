@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_BoxCountUnconditional_boxCountAll_statement
 -- name    : Formalism.HermitianLattices.BoxCountUnconditional.boxCountAll_statement
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:14.855862+00:00
 -- url     : https://prove2.me/theorems/443830aa-af83-42c3-88ad-70a8d8aead81

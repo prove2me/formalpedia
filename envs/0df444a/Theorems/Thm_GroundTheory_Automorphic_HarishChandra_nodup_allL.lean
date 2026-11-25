@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_nodup_allL
 -- name    : GroundTheory.Automorphic.HarishChandra.nodup_allL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:08:02.574218+00:00
 -- url     : https://prove2.me/theorems/4a7da1cc-c948-4629-bd4d-78088cef77a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_WeightHomogeneousLetters_wRowG_letter
 -- name    : Formalism.L2.FormalSeriesBounds.RF.WeightHomogeneousLetters.wRowG_letter
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:09:05.03231+00:00
 -- url     : https://prove2.me/theorems/579d9ddf-14f1-4715-8232-76d118b77ee4

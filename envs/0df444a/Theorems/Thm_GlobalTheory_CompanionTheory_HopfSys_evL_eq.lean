@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CompanionTheory_HopfSys_evL_eq
 -- name    : GlobalTheory.CompanionTheory.HopfSys.evL_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:34:27.113557+00:00
 -- url     : https://prove2.me/theorems/afcad142-29a3-4e54-b59f-ad0ad84ad848

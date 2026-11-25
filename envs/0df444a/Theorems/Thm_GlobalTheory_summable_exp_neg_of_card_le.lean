@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_summable_exp_neg_of_card_le
 -- name    : GlobalTheory.summable_exp_neg_of_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:57:06.000107+00:00
 -- url     : https://prove2.me/theorems/bebb84ca-2131-40d0-9f4b-131ec0a424b9

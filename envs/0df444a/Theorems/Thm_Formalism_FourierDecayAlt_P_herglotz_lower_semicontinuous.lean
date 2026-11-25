@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_herglotz_lower_semicontinuous
 -- name    : Formalism.FourierDecayAlt.P.herglotz_lower_semicontinuous
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:56:11.891813+00:00
 -- url     : https://prove2.me/theorems/ba91b4b3-447c-43c5-9333-398e36b698f8

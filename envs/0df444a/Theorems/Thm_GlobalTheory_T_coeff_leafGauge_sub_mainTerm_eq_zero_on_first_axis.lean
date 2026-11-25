@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_coeff_leafGauge_sub_mainTerm_eq_zero_on_first_axis
 -- name    : GlobalTheory.T.coeff_leafGauge_sub_mainTerm_eq_zero_on_first_axis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:40:37.421214+00:00
 -- url     : https://prove2.me/theorems/7fb9e938-d19d-4bd0-bb89-1ecc7423e90c

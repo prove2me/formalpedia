@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_Kron_ev_top
 -- name    : GlobalTheory.Nef.Kron.ev_top
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:00:28.881026+00:00
 -- url     : https://prove2.me/theorems/73c20e52-d5eb-4aa4-bc30-42e0d8ad9139

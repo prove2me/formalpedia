@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LeafCoordWeight_chain_data
 -- name    : GlobalTheory.LeafCoordWeight.chain_data
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:47:39.677528+00:00
 -- url     : https://prove2.me/theorems/9c67c14a-5dc8-4eca-94a2-aabb5e54e14b

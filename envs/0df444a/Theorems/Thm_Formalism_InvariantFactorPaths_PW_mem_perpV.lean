@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_mem_perpV
 -- name    : Formalism.InvariantFactorPaths.PW.mem_perpV
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:08:43.523957+00:00
 -- url     : https://prove2.me/theorems/8a81d6b5-3297-4f74-9dc8-0c83736536f3

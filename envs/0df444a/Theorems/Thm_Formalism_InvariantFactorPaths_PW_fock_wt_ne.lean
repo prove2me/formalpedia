@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_fock_wt_ne
 -- name    : Formalism.InvariantFactorPaths.PW.fock_wt_ne
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:06:39.595786+00:00
 -- url     : https://prove2.me/theorems/346b0ff2-0339-4afc-98ae-f894447d6630

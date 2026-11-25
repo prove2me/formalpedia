@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FiniteQuotOmega_derivation_apply_eq_sum
 -- name    : GlobalTheory.FiniteQuotOmega.derivation_apply_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:09:26.67759+00:00
 -- url     : https://prove2.me/theorems/8c94b5b9-a8ef-46ef-9aea-0138ef89d436

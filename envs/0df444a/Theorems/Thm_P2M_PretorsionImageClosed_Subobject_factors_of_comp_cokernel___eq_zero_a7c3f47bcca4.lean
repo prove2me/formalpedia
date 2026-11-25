@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_PretorsionImageClosed_Subobject_factors_of_comp_cokernel___eq_zero_a7c3f47bcca4
 -- name    : P2M_PretorsionImageClosed_Subobject_factors_of_comp_cokernel___eq_zero_a7c3f47bcca4
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:00:00.55189+00:00
 -- url     : https://prove2.me/theorems/155b6429-456d-4a35-9372-80d27a4aa33c

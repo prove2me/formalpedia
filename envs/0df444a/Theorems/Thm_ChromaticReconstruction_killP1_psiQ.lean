@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_killP1_psiQ
 -- name    : ChromaticReconstruction.killP1_psiQ
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:35:11.796469+00:00
 -- url     : https://prove2.me/theorems/374944e8-f778-43f3-b29d-070b29c62d5f

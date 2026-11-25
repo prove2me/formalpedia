@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_bijective_app_of_coheight_eq_one
 -- name    : GlobalTheory.bijective_app_of_coheight_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:48:01.711922+00:00
 -- url     : https://prove2.me/theorems/d9a0a1bd-09f2-4a30-bef4-e0bded72b8dc

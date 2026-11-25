@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_Kron_ev_zero_of_lt
 -- name    : GlobalTheory.Nef.Kron.ev_zero_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:00:54.084275+00:00
 -- url     : https://prove2.me/theorems/bf122444-215b-4551-87f8-2861f539eec2

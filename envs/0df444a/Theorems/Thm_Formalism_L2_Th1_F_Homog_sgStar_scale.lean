@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_Homog_sgStar_scale
 -- name    : Formalism.L2.Th1.F.Homog.sgStar_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:25:42.638171+00:00
 -- url     : https://prove2.me/theorems/65b147d5-cf10-440a-9fd6-ecbef2db1866

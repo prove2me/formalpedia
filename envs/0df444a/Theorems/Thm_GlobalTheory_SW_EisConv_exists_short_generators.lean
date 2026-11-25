@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_EisConv_exists_short_generators
 -- name    : GlobalTheory.SW.EisConv.exists_short_generators
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:26:49.250625+00:00
 -- url     : https://prove2.me/theorems/e503045b-f444-4f6c-bbe6-1477101085a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MainTerm_linPull_coord_int_of_degree_lt
 -- name    : GlobalTheory.MainTerm.linPull_coord_int_of_degree_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:53:05.690749+00:00
 -- url     : https://prove2.me/theorems/77fd3919-d15e-4db0-98a8-8237fdecdd2b

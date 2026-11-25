@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ColumnValue_dmonOf_smul
 -- name    : GlobalTheory.ColumnValue.dmonOf_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:52:34.090793+00:00
 -- url     : https://prove2.me/theorems/71d04b57-bc95-4068-8a48-9cbc66b10e96

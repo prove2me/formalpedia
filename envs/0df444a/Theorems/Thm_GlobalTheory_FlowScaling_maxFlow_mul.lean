@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FlowScaling_maxFlow_mul
 -- name    : GlobalTheory.FlowScaling.maxFlow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:25:48.767242+00:00
 -- url     : https://prove2.me/theorems/11f33044-87fa-4fe2-b0c9-3e96722a0bed

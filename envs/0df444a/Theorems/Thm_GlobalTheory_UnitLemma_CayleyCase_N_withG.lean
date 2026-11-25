@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CayleyCase_N_withG
 -- name    : GlobalTheory.UnitLemma.CayleyCase.N_withG
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:50:08.822598+00:00
 -- url     : https://prove2.me/theorems/f15ad057-af4a-4522-a178-8871a12919be

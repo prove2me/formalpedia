@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GalvinMultigraph_Local_stable_matching_multi
 -- name    : GalvinMultigraph.Local.stable_matching_multi
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:50:40.794166+00:00
 -- url     : https://prove2.me/theorems/3c688350-a639-432e-a038-3e60099d91a8

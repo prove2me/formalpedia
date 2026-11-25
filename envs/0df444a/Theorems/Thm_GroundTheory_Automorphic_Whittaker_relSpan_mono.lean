@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_relSpan_mono
 -- name    : GroundTheory.Automorphic.Whittaker.relSpan_mono
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:57:51.111803+00:00
 -- url     : https://prove2.me/theorems/16728c8e-d138-4d6c-871c-cb85e5154203

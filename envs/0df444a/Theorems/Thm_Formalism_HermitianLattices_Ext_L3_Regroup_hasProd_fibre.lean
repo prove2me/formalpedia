@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_Regroup_hasProd_fibre
 -- name    : Formalism.HermitianLattices.Ext.L3.Regroup.hasProd_fibre
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:18:19.364824+00:00
 -- url     : https://prove2.me/theorems/9c0881c7-d4c2-4d5f-9ea7-b55530cdada2

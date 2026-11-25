@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameAllCompare_vV_zpow
 -- name    : GlobalTheory.IntegralFrameAllCompare.vV_zpow
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:06:40.124496+00:00
 -- url     : https://prove2.me/theorems/640b7ad2-21ef-4602-ab16-15aec23cb37c

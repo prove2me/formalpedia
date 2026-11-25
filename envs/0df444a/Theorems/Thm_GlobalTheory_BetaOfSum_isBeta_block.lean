@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_BetaOfSum_isBeta_block
 -- name    : GlobalTheory.BetaOfSum.isBeta_block
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:33:58.220918+00:00
 -- url     : https://prove2.me/theorems/1f0cd142-4e3d-45ab-9bcd-76486174ecc8

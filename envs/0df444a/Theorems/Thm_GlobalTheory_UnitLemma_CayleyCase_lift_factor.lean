@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CayleyCase_lift_factor
 -- name    : GlobalTheory.UnitLemma.CayleyCase.lift_factor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:51:54.44094+00:00
 -- url     : https://prove2.me/theorems/2a40e9cf-3daf-4e30-ac8e-4dce14e6027e

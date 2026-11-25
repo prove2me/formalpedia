@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HeckeAlgebra_heckeRep_apply
 -- name    : GroundTheory.Automorphic.HeckeAlgebra.heckeRep_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:05:25.489826+00:00
 -- url     : https://prove2.me/theorems/f26ed985-0e10-49b6-8f4a-3b31cb9d50b6

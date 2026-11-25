@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_JetOnly_coeff_foldr_Dof_congr
 -- name    : GlobalTheory.JetOnly.coeff_foldr_Dof_congr
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:52:24.405206+00:00
 -- url     : https://prove2.me/theorems/535fcf0e-b6ab-4c99-a758-2ee566a2e74c

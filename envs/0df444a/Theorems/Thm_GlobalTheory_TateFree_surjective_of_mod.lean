@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_TateFree_surjective_of_mod
 -- name    : GlobalTheory.TateFree.surjective_of_mod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:52:01.595786+00:00
 -- url     : https://prove2.me/theorems/a812568c-d10d-43a0-965c-3080e12549d4

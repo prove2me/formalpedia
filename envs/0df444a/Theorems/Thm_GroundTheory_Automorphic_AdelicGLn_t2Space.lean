@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_AdelicGLn_t2Space
 -- name    : GroundTheory.Automorphic.AdelicGLn.t2Space
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:04:33.591426+00:00
 -- url     : https://prove2.me/theorems/fe827a54-bccb-42dd-8a56-86aa79cfbd31

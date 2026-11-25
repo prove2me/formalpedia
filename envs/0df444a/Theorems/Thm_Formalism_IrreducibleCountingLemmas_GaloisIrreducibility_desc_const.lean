@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_desc_const
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.desc_const
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:44:40.018914+00:00
 -- url     : https://prove2.me/theorems/bfe1ad71-205e-43c5-bb64-c20b0641d7c6

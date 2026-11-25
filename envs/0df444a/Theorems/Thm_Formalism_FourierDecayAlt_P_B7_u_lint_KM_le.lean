@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_u_lint_KM_le
 -- name    : Formalism.FourierDecayAlt.P.B7.u_lint_KM_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:08:06.625077+00:00
 -- url     : https://prove2.me/theorems/0609cbeb-f866-4bf0-8b32-766134c894c5

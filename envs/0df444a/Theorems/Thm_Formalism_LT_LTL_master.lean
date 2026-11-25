@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_master
 -- name    : Formalism.LT.LTL.master
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:01:30.850677+00:00
 -- url     : https://prove2.me/theorems/ae3d3604-ccf3-4ab1-a3de-b1741e94dc81

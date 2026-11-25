@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_sizeData_small_bound
 -- name    : GlobalTheory.T.sizeData_small_bound
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:38:49.832432+00:00
 -- url     : https://prove2.me/theorems/61158ef9-ac70-4f18-b199-ab4e0481cb57

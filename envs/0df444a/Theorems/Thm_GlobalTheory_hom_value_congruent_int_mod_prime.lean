@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hom_value_congruent_int_mod_prime
 -- name    : GlobalTheory.hom_value_congruent_int_mod_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:50:02.881036+00:00
 -- url     : https://prove2.me/theorems/f871982f-c1d0-4abe-8f4a-31beb368997c

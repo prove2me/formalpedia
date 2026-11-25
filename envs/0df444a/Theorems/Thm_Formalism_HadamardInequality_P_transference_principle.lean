@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HadamardInequality_P_transference_principle
 -- name    : Formalism.HadamardInequality.P.transference_principle
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-24T13:10:31.670117+00:00
 -- url     : https://prove2.me/theorems/3dfeb8e2-8b2d-47dd-b908-82b60a9ff7c1

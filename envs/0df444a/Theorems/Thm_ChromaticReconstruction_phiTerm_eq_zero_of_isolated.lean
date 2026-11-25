@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_phiTerm_eq_zero_of_isolated
 -- name    : ChromaticReconstruction.phiTerm_eq_zero_of_isolated
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:29:42.564257+00:00
 -- url     : https://prove2.me/theorems/8b22dbc7-7011-464f-8116-9e627b2c4c5a

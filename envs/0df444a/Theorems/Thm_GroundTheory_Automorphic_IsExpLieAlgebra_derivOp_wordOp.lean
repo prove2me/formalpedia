@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_derivOp_wordOp
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.derivOp_wordOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:39:45.876314+00:00
 -- url     : https://prove2.me/theorems/f421d78a-e38c-4955-8e86-f0933389fc0f

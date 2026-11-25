@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Deduction_Gchi_conj_LFunction
 -- name    : Deduction.Gchi_conj_LFunction
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T09:34:35.476793+00:00
 -- url     : https://prove2.me/theorems/1b4ded79-9f29-4f45-a386-d2d3b6f8c826

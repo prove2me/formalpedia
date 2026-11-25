@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_heckeAct_normInd
 -- name    : GroundTheory.Automorphic.Whittaker.heckeAct_normInd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:09:56.99559+00:00
 -- url     : https://prove2.me/theorems/f75c82ba-9608-408e-953f-597148d3b61c

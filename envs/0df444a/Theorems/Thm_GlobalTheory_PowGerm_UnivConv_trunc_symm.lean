@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivConv_trunc_symm
 -- name    : GlobalTheory.PowGerm.UnivConv.trunc_symm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:55:18.506027+00:00
 -- url     : https://prove2.me/theorems/ef847a2d-37e2-4bd5-99df-9805d568bf3c

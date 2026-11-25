@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_poly_mem_ZP
 -- name    : Formalism.L2.FormalSeriesBounds.RF.poly_mem_ZP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:47:46.951776+00:00
 -- url     : https://prove2.me/theorems/ee6d887c-04b4-4a67-828f-7bef31c3fbcb

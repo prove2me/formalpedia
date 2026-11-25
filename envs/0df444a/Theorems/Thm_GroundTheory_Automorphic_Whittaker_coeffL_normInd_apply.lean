@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_coeffL_normInd_apply
 -- name    : GroundTheory.Automorphic.Whittaker.coeffL_normInd_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:02:17.508634+00:00
 -- url     : https://prove2.me/theorems/4dca5d4f-a894-4c76-b97b-a1f0b6127d59

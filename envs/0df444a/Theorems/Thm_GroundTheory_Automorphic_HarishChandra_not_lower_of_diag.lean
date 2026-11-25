@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_not_lower_of_diag
 -- name    : GroundTheory.Automorphic.HarishChandra.not_lower_of_diag
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:07:31.78651+00:00
 -- url     : https://prove2.me/theorems/b3296ce1-af4e-485f-99b5-e5a1fd3950da

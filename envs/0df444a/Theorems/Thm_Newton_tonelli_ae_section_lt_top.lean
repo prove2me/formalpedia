@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_tonelli_ae_section_lt_top
 -- name    : Newton.tonelli_ae_section_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:30:38.940139+00:00
 -- url     : https://prove2.me/theorems/8e09fd96-a525-481d-9605-94006a71e769

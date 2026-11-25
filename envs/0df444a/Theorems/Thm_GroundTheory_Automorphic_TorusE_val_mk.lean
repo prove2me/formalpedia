@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_TorusE_val_mk
 -- name    : GroundTheory.Automorphic.TorusE.val_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:59:07.742041+00:00
 -- url     : https://prove2.me/theorems/a772371a-f1f9-440f-9835-88e9cbf049b4

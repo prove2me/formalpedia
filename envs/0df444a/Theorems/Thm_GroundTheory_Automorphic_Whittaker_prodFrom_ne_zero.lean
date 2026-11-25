@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_prodFrom_ne_zero
 -- name    : GroundTheory.Automorphic.Whittaker.prodFrom_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:56:53.160689+00:00
 -- url     : https://prove2.me/theorems/a363d9cc-4c7f-4cca-a1fe-c1b41fcd98e6

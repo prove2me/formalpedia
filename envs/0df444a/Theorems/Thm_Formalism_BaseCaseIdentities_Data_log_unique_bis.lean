@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_log_unique_bis
 -- name    : Formalism.BaseCaseIdentities.Data.log_unique_bis
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:57:50.198832+00:00
 -- url     : https://prove2.me/theorems/dc21d5a6-49fa-4f71-9cca-646622cfab0e

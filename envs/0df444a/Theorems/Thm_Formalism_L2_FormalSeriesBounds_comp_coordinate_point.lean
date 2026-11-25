@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_comp_coordinate_point
 -- name    : Formalism.L2.FormalSeriesBounds.comp_coordinate_point
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:45:05.530815+00:00
 -- url     : https://prove2.me/theorems/a2089e80-ee46-43a5-b5c8-755c03194aa3

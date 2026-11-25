@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_StationaryPhaseModel_model_integral_first_error
 -- name    : Formalism.FourierDecayAlt.P.StationaryPhaseModel.model_integral_first_error
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T21:35:18.14725+00:00
 -- url     : https://prove2.me/theorems/a8c4f0cc-ae4b-4cea-810b-a59b0822562e

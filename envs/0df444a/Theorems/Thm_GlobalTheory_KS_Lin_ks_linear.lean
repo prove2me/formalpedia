@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_KS_Lin_ks_linear
 -- name    : GlobalTheory.KS.Lin.ks_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T21:15:47.535624+00:00
 -- url     : https://prove2.me/theorems/fe670791-9997-42c6-9629-60f77c514ef8

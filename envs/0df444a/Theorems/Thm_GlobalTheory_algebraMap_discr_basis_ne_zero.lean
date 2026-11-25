@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_algebraMap_discr_basis_ne_zero
 -- name    : GlobalTheory.algebraMap_discr_basis_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:18:26.895054+00:00
 -- url     : https://prove2.me/theorems/02ef66d3-896c-49f8-9f25-746ea4adcd76

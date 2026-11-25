@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_inv_lin
 -- name    : Formalism.LT.LTL.inv_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T09:51:28.128176+00:00
 -- url     : https://prove2.me/theorems/25d7b857-0f25-4fca-aa4f-1348ee0566f9

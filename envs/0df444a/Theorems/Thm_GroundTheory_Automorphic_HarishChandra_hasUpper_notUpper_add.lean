@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_hasUpper_notUpper_add
 -- name    : GroundTheory.Automorphic.HarishChandra.hasUpper_notUpper_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:08:14.641473+00:00
 -- url     : https://prove2.me/theorems/c804db5a-8cfb-4ae8-b9d2-4082fda57652

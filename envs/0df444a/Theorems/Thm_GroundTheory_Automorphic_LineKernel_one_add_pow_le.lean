@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_one_add_pow_le
 -- name    : GroundTheory.Automorphic.LineKernel.one_add_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:03:54.566217+00:00
 -- url     : https://prove2.me/theorems/465db8ba-9919-4933-ba86-fa1bffca97db

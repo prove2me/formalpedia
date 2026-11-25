@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_HasFiniteContent_finite_mulSupport
 -- name    : GroundTheory.Automorphic.Reduction.HasFiniteContent.finite_mulSupport
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:07:38.987144+00:00
 -- url     : https://prove2.me/theorems/ea0f4651-a626-447e-955a-7e6d50fc772b

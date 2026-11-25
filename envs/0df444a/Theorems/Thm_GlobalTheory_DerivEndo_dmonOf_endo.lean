@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_DerivEndo_dmonOf_endo
 -- name    : GlobalTheory.DerivEndo.dmonOf_endo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:17:49.872215+00:00
 -- url     : https://prove2.me/theorems/46255741-6fab-4b93-bdb0-d51687e9d360

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_memSobolev_add_one_of_lintegral
 -- name    : GroundTheory.Automorphic.Sobolev.memSobolev_add_one_of_lintegral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:46:09.015109+00:00
 -- url     : https://prove2.me/theorems/03a9ab4f-ebf8-4606-b27c-608cb1174f2a

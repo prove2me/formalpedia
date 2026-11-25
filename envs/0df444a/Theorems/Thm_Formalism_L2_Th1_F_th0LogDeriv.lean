@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_F_th0LogDeriv
 -- name    : Formalism.L2.Th1.F.th0LogDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T21:05:37.997059+00:00
 -- url     : https://prove2.me/theorems/9b403ad6-3a76-4491-a073-267088aac18d

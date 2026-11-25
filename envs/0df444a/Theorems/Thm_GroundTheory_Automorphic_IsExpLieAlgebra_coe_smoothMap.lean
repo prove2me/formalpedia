@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_coe_smoothMap
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.coe_smoothMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:04:16.449318+00:00
 -- url     : https://prove2.me/theorems/ec67eafe-7dd9-4d2e-be33-741f28d6ed4c

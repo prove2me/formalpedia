@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_reduction_second_step
 -- name    : Formalism.DivisionValues.reduction_second_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:46.230848+00:00
 -- url     : https://prove2.me/theorems/44e3cc04-296d-4903-9153-a367d98da53c

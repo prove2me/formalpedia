@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IntegralFrameAllCompare_vV_nonneg_iff_le_one
 -- name    : GlobalTheory.IntegralFrameAllCompare.vV_nonneg_iff_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:06:42.634466+00:00
 -- url     : https://prove2.me/theorems/4688c245-66fa-42bd-9726-dc7ad6ba9ae8

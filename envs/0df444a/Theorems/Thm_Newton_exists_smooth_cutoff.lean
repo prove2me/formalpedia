@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_exists_smooth_cutoff
 -- name    : Newton.exists_smooth_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:52:16.350403+00:00
 -- url     : https://prove2.me/theorems/206d25a9-ff99-4735-895a-86e5ba1ddf63

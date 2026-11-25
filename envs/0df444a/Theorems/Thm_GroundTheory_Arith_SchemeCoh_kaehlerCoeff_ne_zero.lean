@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_kaehlerCoeff_ne_zero
 -- name    : GroundTheory.Arith.SchemeCoh.kaehlerCoeff_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:48:40.092795+00:00
 -- url     : https://prove2.me/theorems/aa88ac2b-0f93-4069-8eb3-5640ef679880

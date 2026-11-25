@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_FockTranslation_herm_self_im
 -- name    : GlobalTheory.FockTranslation.herm_self_im
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:03:25.471881+00:00
 -- url     : https://prove2.me/theorems/8d9a21ee-8025-4c09-b847-491cdfd4eec8

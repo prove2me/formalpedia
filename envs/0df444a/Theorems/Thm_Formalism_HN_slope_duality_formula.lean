@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_slope_duality_formula
 -- name    : Formalism.HN.slope_duality_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:29:32.198922+00:00
 -- url     : https://prove2.me/theorems/a8069af2-e485-4de7-94ed-626e1e904ac5

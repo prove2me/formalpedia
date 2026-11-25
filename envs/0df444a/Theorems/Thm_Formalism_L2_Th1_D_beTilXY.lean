@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_D_beTilXY
 -- name    : Formalism.L2.Th1.D.beTilXY
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T11:14:35.00248+00:00
 -- url     : https://prove2.me/theorems/054d47b3-b2ed-4c09-8688-9df8c4d6b69d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_gram_matrix_mul_left
 -- name    : Formalism.L2.FormalSeriesBounds.RF.gram_matrix_mul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:00:46.851409+00:00
 -- url     : https://prove2.me/theorems/46398348-6da6-4ece-a6f6-9950e5c7e824

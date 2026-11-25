@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_val_nat
 -- name    : GlobalTheory.MinorGerm.val_nat
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:44:28.837321+00:00
 -- url     : https://prove2.me/theorems/cd0fd05d-a62c-4cd3-9984-d5963c8ba17b

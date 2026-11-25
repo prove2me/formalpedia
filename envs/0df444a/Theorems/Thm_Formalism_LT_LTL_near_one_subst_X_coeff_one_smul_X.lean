@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_near_one_subst_X_coeff_one_smul_X
 -- name    : Formalism.LT.LTL.near_one_subst_X_coeff_one_smul_X
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:13:57.432805+00:00
 -- url     : https://prove2.me/theorems/7510d12b-fc2f-4b10-94be-4957903e3a1c

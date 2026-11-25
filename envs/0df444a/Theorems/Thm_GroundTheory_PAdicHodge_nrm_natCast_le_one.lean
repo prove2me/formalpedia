@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_nrm_natCast_le_one
 -- name    : GroundTheory.PAdicHodge.nrm_natCast_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:05:40.534847+00:00
 -- url     : https://prove2.me/theorems/63aab5bf-9ee9-467f-8e96-802df66bc78a

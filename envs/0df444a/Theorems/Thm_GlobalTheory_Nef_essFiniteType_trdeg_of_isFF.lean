@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_essFiniteType_trdeg_of_isFF
 -- name    : GlobalTheory.Nef.essFiniteType_trdeg_of_isFF
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:01:47.05225+00:00
 -- url     : https://prove2.me/theorems/b1d4c471-cb73-45df-b8c1-3b65318fe4c3

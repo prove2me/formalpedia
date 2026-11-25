@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_hyperbolic_element_inverse
 -- name    : Formalism.FourierDecayAlt.P.hyperbolic_element_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:38:05.948819+00:00
 -- url     : https://prove2.me/theorems/1c128c57-cba1-49de-a19e-a4e1a3142c8d

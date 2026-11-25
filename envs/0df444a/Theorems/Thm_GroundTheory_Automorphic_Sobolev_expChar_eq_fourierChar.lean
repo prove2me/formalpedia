@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_expChar_eq_fourierChar
 -- name    : GroundTheory.Automorphic.Sobolev.expChar_eq_fourierChar
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:56:18.146185+00:00
 -- url     : https://prove2.me/theorems/4c08532c-b942-44a2-8f59-636563960e15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformSerre_isHomogeneous_comp
 -- name    : GlobalTheory.UniformSerre.isHomogeneous_comp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:55:23.313015+00:00
 -- url     : https://prove2.me/theorems/74bbcb84-ae99-444a-a7eb-642621a22fc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_finAt_mul
 -- name    : GroundTheory.Automorphic.Reduction.finAt_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:06:19.531992+00:00
 -- url     : https://prove2.me/theorems/358f2ab2-ee2e-4b16-82a1-9be3c12d65cf

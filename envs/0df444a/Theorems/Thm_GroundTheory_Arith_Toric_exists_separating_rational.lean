@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Toric_exists_separating_rational
 -- name    : GroundTheory.Arith.Toric.exists_separating_rational
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:56:20.907245+00:00
 -- url     : https://prove2.me/theorems/9b1513ac-faad-48b5-a477-b9bc754528b8

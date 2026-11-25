@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_map_update_id_mul
 -- name    : GroundTheory.Automorphic.RestrictedTensor.map_update_id_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:56:32.784802+00:00
 -- url     : https://prove2.me/theorems/09aef4b4-ad88-49da-84db-ffddf5517704

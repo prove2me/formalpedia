@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_ConjugatePairPlaceSetting_no_conj
 -- name    : Formalism.L2.FormalSeriesBounds.RF.ConjugatePairPlaceSetting.no_conj
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:47:26.480583+00:00
 -- url     : https://prove2.me/theorems/26cfc97f-4419-4999-bef7-342911def15f

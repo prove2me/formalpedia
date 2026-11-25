@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_exists_ne_zero_contragredient
 -- name    : GroundTheory.Automorphic.Whittaker.exists_ne_zero_contragredient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:06:20.617079+00:00
 -- url     : https://prove2.me/theorems/125e0d34-c699-4bb6-90d9-20394baa1b0a

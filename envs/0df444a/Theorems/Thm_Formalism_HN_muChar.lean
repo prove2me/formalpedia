@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_muChar
 -- name    : Formalism.HN.muChar
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:28:08.413818+00:00
 -- url     : https://prove2.me/theorems/43d1ba68-01c7-404c-86d0-92af65196947

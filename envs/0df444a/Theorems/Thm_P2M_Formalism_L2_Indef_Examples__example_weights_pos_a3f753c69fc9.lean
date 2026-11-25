@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__example_weights_pos_a3f753c69fc9
 -- name    : P2M_Formalism_L2_Indef_Examples__example_weights_pos_a3f753c69fc9
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:07:56.102853+00:00
 -- url     : https://prove2.me/theorems/364e5f7e-2a9e-442b-a91e-9a8c6a1f5c05

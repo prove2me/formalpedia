@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_AInf_weakTopology_eq_adicTopology
 -- name    : GroundTheory.PAdicHodge.AInf.weakTopology_eq_adicTopology
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:52:40.170749+00:00
 -- url     : https://prove2.me/theorems/78f2da6f-b2ec-4ea9-8a35-17dd0ce60865

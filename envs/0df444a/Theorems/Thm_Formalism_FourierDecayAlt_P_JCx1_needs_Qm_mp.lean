@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_JCx1_needs_Qm_mp
 -- name    : Formalism.FourierDecayAlt.P.JCx1.needs.Qm_mp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T18:02:39.027922+00:00
 -- url     : https://prove2.me/theorems/3be79a33-d4ce-45fb-9656-378de23d9722

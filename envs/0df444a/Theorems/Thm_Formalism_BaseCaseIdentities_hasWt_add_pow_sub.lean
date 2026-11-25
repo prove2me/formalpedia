@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_hasWt_add_pow_sub
 -- name    : Formalism.BaseCaseIdentities.hasWt_add_pow_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:30:42.034015+00:00
 -- url     : https://prove2.me/theorems/49ec42e1-f780-4b66-b28b-3329bc3f14fc

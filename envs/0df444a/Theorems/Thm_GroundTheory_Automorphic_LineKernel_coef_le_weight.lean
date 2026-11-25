@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_coef_le_weight
 -- name    : GroundTheory.Automorphic.LineKernel.coef_le_weight
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:58:24.850889+00:00
 -- url     : https://prove2.me/theorems/477a0d57-d666-4852-8c20-6e652daed21a

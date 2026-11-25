@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivPow_jetAug_X
 -- name    : GlobalTheory.PowGerm.UnivPow.jetAug_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:02:46.455563+00:00
 -- url     : https://prove2.me/theorems/73142728-4e30-4d8a-ab31-c290aae883b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceIdentity
 -- name    : TraceIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:06:49.000807+00:00
 -- url     : https://prove2.me/theorems/f250adff-5e12-4c13-bb1e-412345b783ce

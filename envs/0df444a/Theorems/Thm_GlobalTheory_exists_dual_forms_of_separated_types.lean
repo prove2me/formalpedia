@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_dual_forms_of_separated_types
 -- name    : GlobalTheory.exists_dual_forms_of_separated_types
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:54:54.569797+00:00
 -- url     : https://prove2.me/theorems/28b8f534-b87e-4f99-9491-7845e49385f2

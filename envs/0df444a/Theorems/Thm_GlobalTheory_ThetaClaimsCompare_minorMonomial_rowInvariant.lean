@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaClaimsCompare_minorMonomial_rowInvariant
 -- name    : GlobalTheory.ThetaClaimsCompare.minorMonomial_rowInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:53:41.444798+00:00
 -- url     : https://prove2.me/theorems/64e45bb2-b587-45e2-b0af-c5c05a563238

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SymbolCols_sum_degree_colM
 -- name    : GlobalTheory.SymbolCols.sum_degree_colM
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:57:45.679416+00:00
 -- url     : https://prove2.me/theorems/99d7e879-5d20-47f5-9947-bfcd2d4776f1

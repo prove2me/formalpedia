@@ -1,0 +1,34 @@
+-- Prove2me | solution 1 for Formalism.L2.Th1.F.ellipticOnePole
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T01:22:38.90477+00:00
+-- url     : https://prove2.me/submissions/de6e0ec4-18c4-4513-afa7-4d37de5d61d8
+
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_QuasiPeriodConstUnique
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_Elliptic
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_OnePole
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaOrder
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_SigmaAdd
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_PDeriv
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_AnalyticIdentityTheorems_ThreeTermNumEqTwistedGammaOfSigmaZero
+import Definitions.Def_Formalism_LocalToGlobal_TorsionIntegrality_EisensteinTranslationProducts_EllipticOnePole
+import Theorems.Thm_Formalism_L2_Th1_F_ellipticEntire
+import Theorems.Thm_Formalism_L2_Th1_F_ellipticNoPole
+import Theorems.Thm_Formalism_L2_Th1_F_ellipticOnePole_of
+import Theorems.Thm_Formalism_L2_Th1_F_legendre
+import Theorems.Thm_Formalism_L2_Th1_F_zetaQuasi
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Formalism Formalism.L2 Formalism.L2.Th1 Formalism.L2.Th1.F
+namespace Formalism.L2.Th1.F
+theorem _root_.solution : EllipticOnePole :=
+  ellipticOnePole_of ellipticNoPole ellipticEntire zetaQuasi legendre
+end Formalism.L2.Th1.F

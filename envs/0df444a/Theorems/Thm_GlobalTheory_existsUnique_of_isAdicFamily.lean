@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_existsUnique_of_isAdicFamily
 -- name    : GlobalTheory.existsUnique_of_isAdicFamily
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T22:29:28.737993+00:00
 -- url     : https://prove2.me/theorems/e7300033-3bf2-4cae-a1b6-d10c86788384

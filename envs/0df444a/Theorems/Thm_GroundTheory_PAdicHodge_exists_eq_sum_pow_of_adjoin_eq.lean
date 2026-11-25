@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_exists_eq_sum_pow_of_adjoin_eq
 -- name    : GroundTheory.PAdicHodge.exists_eq_sum_pow_of_adjoin_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:36.984822+00:00
 -- url     : https://prove2.me/theorems/a35a57c9-6b60-4c3a-985e-f5643609cec8

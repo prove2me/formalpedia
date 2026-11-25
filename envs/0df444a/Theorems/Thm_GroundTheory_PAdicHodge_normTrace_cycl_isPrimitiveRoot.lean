@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_PAdicHodge_normTrace_cycl_isPrimitiveRoot
 -- name    : GroundTheory.PAdicHodge.normTrace_cycl_isPrimitiveRoot
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:42:04.093219+00:00
 -- url     : https://prove2.me/theorems/b173394c-acb3-4db8-a4dd-a3615e0ed44c

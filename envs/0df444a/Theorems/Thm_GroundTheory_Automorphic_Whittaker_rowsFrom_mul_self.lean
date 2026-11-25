@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_rowsFrom_mul_self
 -- name    : GroundTheory.Automorphic.Whittaker.rowsFrom_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:07:39.159103+00:00
 -- url     : https://prove2.me/theorems/2195e588-85fc-4150-ae34-f087b160483f

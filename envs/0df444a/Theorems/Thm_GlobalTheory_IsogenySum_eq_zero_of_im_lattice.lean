@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsogenySum_eq_zero_of_im_lattice
 -- name    : GlobalTheory.IsogenySum.eq_zero_of_im_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:09:23.836584+00:00
 -- url     : https://prove2.me/theorems/269f5808-6dd1-4952-918b-27d8a2853406

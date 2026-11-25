@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ActLimit_tendsToCoeffwise_germEvalTwo
 -- name    : GlobalTheory.ActLimit.tendsToCoeffwise_germEvalTwo
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:14:31.662802+00:00
 -- url     : https://prove2.me/theorems/368e4746-77e3-4f8b-8d43-57dea16c26eb

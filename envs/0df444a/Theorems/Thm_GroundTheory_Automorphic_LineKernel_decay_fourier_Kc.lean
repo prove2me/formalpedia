@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_decay_fourier_Kc
 -- name    : GroundTheory.Automorphic.LineKernel.decay_fourier_Kc
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:03:37.82563+00:00
 -- url     : https://prove2.me/theorems/d8d4c90d-8aff-4f75-87c6-b31331fb0e7e

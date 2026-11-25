@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfN_not_cm_eq_of_conj_smul_prime
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.not_cm_eq_of_conj_smul_prime
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T18:58:17.152814+00:00
 -- url     : https://prove2.me/theorems/299290d0-033a-48dc-bd4e-fad74bc4a27a

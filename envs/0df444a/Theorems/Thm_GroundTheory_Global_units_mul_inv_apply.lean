@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_units_mul_inv_apply
 -- name    : GroundTheory.Global.units_mul_inv_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:10:02.852961+00:00
 -- url     : https://prove2.me/theorems/bc9cd7d2-2157-4bad-8d4c-ac018e652eee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_step_inv
 -- name    : Formalism.LT.LTL.step_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T04:39:14.504073+00:00
 -- url     : https://prove2.me/theorems/f3d9eed9-a8f6-444b-895b-ad5b177aea47

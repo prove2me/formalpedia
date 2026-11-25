@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_rel_le
 -- name    : GroundTheory.Automorphic.Whittaker.rel_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:57:37.838798+00:00
 -- url     : https://prove2.me/theorems/7ba39766-bf01-49bd-97c9-ed66e3decc7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_LTL_uniq
 -- name    : Formalism.LT.LTL.uniq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T09:51:56.761673+00:00
 -- url     : https://prove2.me/theorems/d853961f-f521-480a-89d1-e83a13e280fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DworkPowerSeriesWeights_theorem_B_gauss_sums
 -- name    : Formalism.DworkPowerSeriesWeights.theorem_B_gauss_sums
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T22:03:32.417512+00:00
 -- url     : https://prove2.me/theorems/9b13bf87-e4a4-48a1-b606-f7427a501826

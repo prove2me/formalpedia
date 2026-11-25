@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_uncurry_X
 -- name    : Formalism.L2.FormalSeriesBounds.uncurry_X
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:37:14.55562+00:00
 -- url     : https://prove2.me/theorems/eb3fbb11-199f-4fb4-bc0e-8e7d4765d902

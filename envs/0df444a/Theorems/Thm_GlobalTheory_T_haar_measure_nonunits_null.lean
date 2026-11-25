@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_haar_measure_nonunits_null
 -- name    : GlobalTheory.T.haar_measure_nonunits_null
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T20:43:02.245627+00:00
 -- url     : https://prove2.me/theorems/1899a619-de1c-4feb-a5b7-2c1ef09a3136

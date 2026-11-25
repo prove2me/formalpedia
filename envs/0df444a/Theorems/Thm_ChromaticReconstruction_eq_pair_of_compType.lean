@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_eq_pair_of_compType
 -- name    : ChromaticReconstruction.eq_pair_of_compType
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:10:42.270815+00:00
 -- url     : https://prove2.me/theorems/7d8ac845-657d-4658-a430-e7441f4b4d7b

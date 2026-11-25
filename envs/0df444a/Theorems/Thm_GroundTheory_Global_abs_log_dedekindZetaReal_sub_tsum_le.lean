@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_abs_log_dedekindZetaReal_sub_tsum_le
 -- name    : GroundTheory.Global.abs_log_dedekindZetaReal_sub_tsum_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:41:04.805415+00:00
 -- url     : https://prove2.me/theorems/f1064eae-5d67-4376-a24b-26845d032fda

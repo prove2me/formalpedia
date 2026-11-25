@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericExtend_exists_normalised
 -- name    : GlobalTheory.GenericExtend.exists_normalised
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:01:41.951812+00:00
 -- url     : https://prove2.me/theorems/60a2ff5f-149e-43be-94f4-136e41dabba4

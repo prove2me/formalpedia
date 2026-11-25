@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_MeasurablePartition_inner_avgVec_contKernelOp
 -- name    : GroundTheory.Automorphic.MeasurablePartition.inner_avgVec_contKernelOp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:04:31.973018+00:00
 -- url     : https://prove2.me/theorems/9a00f4c7-0885-4f9a-89ce-d05839337806

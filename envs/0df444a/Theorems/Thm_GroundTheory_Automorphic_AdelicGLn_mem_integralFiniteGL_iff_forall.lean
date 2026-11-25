@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_AdelicGLn_mem_integralFiniteGL_iff_forall
 -- name    : GroundTheory.Automorphic.AdelicGLn.mem_integralFiniteGL_iff_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:59:12.055416+00:00
 -- url     : https://prove2.me/theorems/d79e3610-0012-483b-b694-ab0657c9c164

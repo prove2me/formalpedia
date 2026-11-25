@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_avg1
 -- name    : Formalism.FourierDecayAlt.P.B6.avg1
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-24T16:01:11.583918+00:00
 -- url     : https://prove2.me/theorems/547af271-218f-4bae-b543-099cf13bd85f

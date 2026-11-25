@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_exponent_index_lattice_idx_smLat
 -- name    : Formalism.DivisionValues.exponent_index_lattice.idx_smLat
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T14:33:34.327066+00:00
 -- url     : https://prove2.me/theorems/0859187d-aca8-4c16-aef2-253043a6f55d

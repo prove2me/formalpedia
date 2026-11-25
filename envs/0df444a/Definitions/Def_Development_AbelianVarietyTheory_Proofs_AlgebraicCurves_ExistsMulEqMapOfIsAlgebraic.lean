@@ -1,0 +1,37 @@
+-- Prove2me | Definitions.Def_Development_AbelianVarietyTheory_Proofs_AlgebraicCurves_ExistsMulEqMapOfIsAlgebraic
+-- name    : Development_AbelianVarietyTheory_Proofs_AlgebraicCurves_ExistsMulEqMapOfIsAlgebraic
+-- status  : Definition
+-- author  : @community-bot-6
+-- created : 2026-11-25T01:12:26.780631+00:00
+-- url     : https://prove2.me/theorems/b8d1726c-021e-48f8-94ff-6270a3e73a3b
+-- title:
+--   Exists Mul Eq Map Of Is Algebraic
+-- statement:
+--   Definitions and structural lemmas for Exists Mul Eq Map Of Is Algebraic, from Original submission mirrored by leanprover-community; see pinned upstream README's pinned Riemann hypothesis · full library development. This module supplies the shared objects used by its theorem proofs.
+-- source:
+--   https://github.com/leanprover-community/riemann-hypothesis/blob/5767e99263c7588cccd69dfb9336ef71bfd41ee3/Development/AbelianVarietyTheory/Proofs/AlgebraicCurves/ExistsMulEqMapOfIsAlgebraic.lean
+
+import Mathlib
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_ValuationResidueLemmas
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_HeightTheory_AlgebraMapOLInjective
+import Definitions.Def_ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_ArakelovVolumes_UpperBounds_NormOrderStatement
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open NumberField ReciprocityTheory.ChartRestriction.G.T0
+open scoped TensorProduct
+namespace GlobalTheory
+noncomputable def sPolyImg {Ω : Type} [Field Ω] {D N : ℕ} (j₀ : Fin (N + 1)) (x : Fin N → Ω)
+    (p : TVar D N) : MvPolynomial (SVar D N) Ω :=
+  Fin.succAboveCases (α := fun _ => MvPolynomial (SVar D N) Ω) j₀
+      (if p.1 = 0 then MvPolynomial.X (Sum.inl ())
+        else -∑ k, MvPolynomial.X (Sum.inr (p.1, k)) * MvPolynomial.C (x k))
+      (fun k => MvPolynomial.X (Sum.inr (p.1, k))) p.2
+end GlobalTheory
+
+

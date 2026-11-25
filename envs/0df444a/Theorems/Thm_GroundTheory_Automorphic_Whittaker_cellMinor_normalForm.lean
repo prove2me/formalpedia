@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_cellMinor_normalForm
 -- name    : GroundTheory.Automorphic.Whittaker.cellMinor_normalForm
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:28:44.714686+00:00
 -- url     : https://prove2.me/theorems/4c4ea55a-1aab-4b08-b12d-078009ebc955

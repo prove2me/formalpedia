@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_coe_windowEmbedFixed
 -- name    : GroundTheory.Automorphic.RestrictedTensor.coe_windowEmbedFixed
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:56:27.158208+00:00
 -- url     : https://prove2.me/theorems/5e4e2fb1-4526-4048-a65d-723f4b8a0b58

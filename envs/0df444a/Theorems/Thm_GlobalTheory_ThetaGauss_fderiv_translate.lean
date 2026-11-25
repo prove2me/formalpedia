@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaGauss_fderiv_translate
 -- name    : GlobalTheory.ThetaGauss.fderiv_translate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:48:04.289393+00:00
 -- url     : https://prove2.me/theorems/176c0200-aaaa-41af-b066-6f3cc75d0829

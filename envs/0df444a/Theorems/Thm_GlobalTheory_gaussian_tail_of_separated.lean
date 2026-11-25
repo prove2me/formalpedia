@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussian_tail_of_separated
 -- name    : GlobalTheory.gaussian_tail_of_separated
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:56:53.327949+00:00
 -- url     : https://prove2.me/theorems/3f86b5cb-b308-46c3-91a5-d6bb3ff9b529

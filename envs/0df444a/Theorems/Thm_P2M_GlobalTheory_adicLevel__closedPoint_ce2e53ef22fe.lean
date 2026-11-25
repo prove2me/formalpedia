@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_adicLevel__closedPoint_ce2e53ef22fe
 -- name    : P2M_GlobalTheory_adicLevel__closedPoint_ce2e53ef22fe
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:11:48.965794+00:00
 -- url     : https://prove2.me/theorems/827b2b4e-463e-4b0a-827c-bb7d86573d2e

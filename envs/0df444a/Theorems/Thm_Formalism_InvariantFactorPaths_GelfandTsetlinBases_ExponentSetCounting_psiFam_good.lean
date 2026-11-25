@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_GelfandTsetlinBases_ExponentSetCounting_psiFam_good
 -- name    : Formalism.InvariantFactorPaths.GelfandTsetlinBases.ExponentSetCounting.psiFam_good
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:56.780271+00:00
 -- url     : https://prove2.me/theorems/0f30f72c-fa5c-4b24-bf4e-da1448769d56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_linearSubst_coordinate_integral_of_degree_lt
 -- name    : GlobalTheory.T.linearSubst_coordinate_integral_of_degree_lt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:01:53.084423+00:00
 -- url     : https://prove2.me/theorems/b5450b27-933b-410d-be35-55ec969cf442

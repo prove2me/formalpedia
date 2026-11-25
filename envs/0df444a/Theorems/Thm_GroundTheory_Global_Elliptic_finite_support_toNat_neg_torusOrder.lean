@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Elliptic_finite_support_toNat_neg_torusOrder
 -- name    : GroundTheory.Global.Elliptic.finite_support_toNat_neg_torusOrder
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T16:25:48.548099+00:00
 -- url     : https://prove2.me/theorems/76655f31-8dcf-45ad-ba67-b06305eb6020

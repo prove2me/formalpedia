@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_PrimeWindowSizeBounds_size_sharp_bound
 -- name    : Formalism.LFunctionChainParameters.PrimeWindowSizeBounds.size_sharp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:09:29.561807+00:00
 -- url     : https://prove2.me/theorems/f299a322-4c2a-4b39-adc0-df75f6ce502f

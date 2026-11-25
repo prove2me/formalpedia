@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_jf_psiOnto_of_cellDecomp
 -- name    : Formalism.FourierDecayAlt.P.jf_psiOnto_of_cellDecomp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T16:37:28.134963+00:00
 -- url     : https://prove2.me/theorems/17bedf93-bee4-4d2c-9b8f-39e68c3b6512

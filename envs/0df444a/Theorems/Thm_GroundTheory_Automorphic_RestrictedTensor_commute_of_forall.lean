@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_commute_of_forall
 -- name    : GroundTheory.Automorphic.RestrictedTensor.commute_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:55:59.890056+00:00
 -- url     : https://prove2.me/theorems/33665152-f506-4642-9a22-3a192ec2ec53

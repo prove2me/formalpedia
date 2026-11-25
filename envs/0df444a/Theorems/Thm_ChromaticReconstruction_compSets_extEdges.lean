@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_compSets_extEdges
 -- name    : ChromaticReconstruction.compSets_extEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:11:55.662324+00:00
 -- url     : https://prove2.me/theorems/bec5eb44-bc21-4cd1-b99f-144684bc5a19

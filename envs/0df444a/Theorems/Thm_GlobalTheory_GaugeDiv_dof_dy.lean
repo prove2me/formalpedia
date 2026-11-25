@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GaugeDiv_dof_dy
 -- name    : GlobalTheory.GaugeDiv.dof_dy
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:46:50.322821+00:00
 -- url     : https://prove2.me/theorems/0b2d772e-e37f-4090-b904-174206c64056

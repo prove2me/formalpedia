@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_finite_setOf_not_isIntegralUnitAt
 -- name    : GroundTheory.Global.finite_setOf_not_isIntegralUnitAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:09:24.161811+00:00
 -- url     : https://prove2.me/theorems/be275ef2-66d4-4434-93ad-61005bb842de

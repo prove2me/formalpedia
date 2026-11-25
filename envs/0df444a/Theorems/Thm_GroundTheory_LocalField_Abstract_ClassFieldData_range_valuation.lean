@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_Abstract_ClassFieldData_range_valuation
 -- name    : GroundTheory.LocalField.Abstract.ClassFieldData.range_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:03:06.680204+00:00
 -- url     : https://prove2.me/theorems/38b0124f-4059-4679-a1ce-9beaaab06157

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_isCompact_unitaryGroup_entries
 -- name    : GroundTheory.Automorphic.isCompact_unitaryGroup_entries
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:08:14.857378+00:00
 -- url     : https://prove2.me/theorems/77ce1f1a-6c55-4278-a0d6-57f9b6d27966

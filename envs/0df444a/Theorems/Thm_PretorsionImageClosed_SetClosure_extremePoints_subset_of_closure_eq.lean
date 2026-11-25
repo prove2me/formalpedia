@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PretorsionImageClosed_SetClosure_extremePoints_subset_of_closure_eq
 -- name    : PretorsionImageClosed.SetClosure.extremePoints_subset_of_closure_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:08:20.791958+00:00
 -- url     : https://prove2.me/theorems/8b54c38b-badf-46e4-b937-cc40490d05a0

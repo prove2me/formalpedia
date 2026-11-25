@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_PathJet_ker_factor_sq
 -- name    : GlobalTheory.Nef.PathJet.ker_factor_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:08:31.165498+00:00
 -- url     : https://prove2.me/theorems/77350bb5-6a27-4446-9d6e-543fadd14dc9

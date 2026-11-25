@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivPow_jetTrunc_mk
 -- name    : GlobalTheory.PowGerm.UnivPow.jetTrunc_mk
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:02:38.829993+00:00
 -- url     : https://prove2.me/theorems/9b1594d9-2d3e-4c58-803f-f6ecf8c95851

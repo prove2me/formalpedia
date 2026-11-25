@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitCase_jetAt0_rename_mul
 -- name    : GlobalTheory.UnitCase.jetAt0_rename_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:39:39.9502+00:00
 -- url     : https://prove2.me/theorems/b7cb5c87-9528-4363-ad38-9ac8d9fc0910

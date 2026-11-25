@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_m_eq_zero
 -- name    : Formalism.BaseCaseIdentities.Data.m_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:38:13.830236+00:00
 -- url     : https://prove2.me/theorems/66edb9d1-db09-4ab1-8bf9-3bad50131389

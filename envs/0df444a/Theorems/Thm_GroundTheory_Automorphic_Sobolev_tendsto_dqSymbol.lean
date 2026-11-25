@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_tendsto_dqSymbol
 -- name    : GroundTheory.Automorphic.Sobolev.tendsto_dqSymbol
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:56:15.593938+00:00
 -- url     : https://prove2.me/theorems/cc0689bc-5990-490d-bdc4-c9249713e574

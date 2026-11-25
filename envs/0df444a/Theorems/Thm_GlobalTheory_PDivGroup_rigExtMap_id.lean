@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_rigExtMap_id
 -- name    : GlobalTheory.PDivGroup.rigExtMap_id
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:59:04.970627+00:00
 -- url     : https://prove2.me/theorems/5ece2dd5-b465-47d0-9e59-ef2651d04f07

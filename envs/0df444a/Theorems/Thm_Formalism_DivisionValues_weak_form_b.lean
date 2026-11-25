@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_weak_form_b
 -- name    : Formalism.DivisionValues.weak_form_b
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:43.869991+00:00
 -- url     : https://prove2.me/theorems/74dc77eb-6948-44f2-a23c-72a0cf5b77fd

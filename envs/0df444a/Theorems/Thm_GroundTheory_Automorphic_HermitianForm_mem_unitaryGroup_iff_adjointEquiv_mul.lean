@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_mem_unitaryGroup_iff_adjointEquiv_mul
 -- name    : GroundTheory.Automorphic.HermitianForm.mem_unitaryGroup_iff_adjointEquiv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:59:38.450804+00:00
 -- url     : https://prove2.me/theorems/2a6efed6-6e51-4075-ab09-2cabe6879301

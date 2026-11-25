@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_rowShift_minor
 -- name    : Formalism.L2.FormalSeriesBounds.RF.rowShift_minor
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:46:04.173782+00:00
 -- url     : https://prove2.me/theorems/598b3c89-9047-4f44-961d-82d44533c6a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenDer_subst_tanPair_fst
 -- name    : GlobalTheory.EigenDer.subst_tanPair_fst
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:58:49.574127+00:00
 -- url     : https://prove2.me/theorems/df95a5ef-2622-45b2-857d-5cd45e6b3f4a

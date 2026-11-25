@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GlobalTheory_LinkSec_gs_to__eq_9fe3707169ce
 -- name    : P2M_GlobalTheory_LinkSec_gs_to__eq_9fe3707169ce
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:01:22.350221+00:00
 -- url     : https://prove2.me/theorems/059e3c73-4d54-4645-a331-08900c22ea47

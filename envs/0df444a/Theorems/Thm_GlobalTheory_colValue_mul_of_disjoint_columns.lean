@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_colValue_mul_of_disjoint_columns
 -- name    : GlobalTheory.colValue_mul_of_disjoint_columns
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:02:59.374849+00:00
 -- url     : https://prove2.me/theorems/e1c9ff34-e759-4b2a-a2ac-b781c2711d61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_prod_bottomRows_eq_prodFrom
 -- name    : GroundTheory.Automorphic.Whittaker.prod_bottomRows_eq_prodFrom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:56:59.152794+00:00
 -- url     : https://prove2.me/theorems/182b0760-edca-450b-8d36-b7b1c8525643

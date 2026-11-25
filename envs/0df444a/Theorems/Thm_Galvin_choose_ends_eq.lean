@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Galvin_choose_ends_eq
 -- name    : Galvin.choose_ends_eq
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:50:37.031656+00:00
 -- url     : https://prove2.me/theorems/f661e83c-f137-4705-adbf-03e8b1731f6a

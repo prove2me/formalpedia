@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_logSeries_sub_self_mem
 -- name    : GroundTheory.LocalField.logSeries_sub_self_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T08:10:13.091923+00:00
 -- url     : https://prove2.me/theorems/92e370f6-af4b-4b72-bf8d-f76be532ac83

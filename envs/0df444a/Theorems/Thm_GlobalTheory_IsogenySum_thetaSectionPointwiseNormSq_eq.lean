@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsogenySum_thetaSectionPointwiseNormSq_eq
 -- name    : GlobalTheory.IsogenySum.thetaSectionPointwiseNormSq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:09:27.628119+00:00
 -- url     : https://prove2.me/theorems/5ba73d68-e1e9-4d93-b16d-9013f5511059

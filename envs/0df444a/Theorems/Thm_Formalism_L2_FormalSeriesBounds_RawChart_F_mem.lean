@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RawChart_F_mem
 -- name    : Formalism.L2.FormalSeriesBounds.RawChart.F_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:31:16.146844+00:00
 -- url     : https://prove2.me/theorems/d65c6569-3f73-463b-8c9a-701aa30b3a28

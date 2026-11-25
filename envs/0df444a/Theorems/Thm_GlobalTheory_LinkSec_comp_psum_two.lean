@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_LinkSec_comp_psum_two
 -- name    : GlobalTheory.LinkSec.comp_psum_two
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:59:10.793004+00:00
 -- url     : https://prove2.me/theorems/146bff86-a136-47a0-9c3e-0f984a4682f7

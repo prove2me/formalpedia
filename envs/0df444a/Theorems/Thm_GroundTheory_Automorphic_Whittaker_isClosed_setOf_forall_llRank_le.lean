@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isClosed_setOf_forall_llRank_le
 -- name    : GroundTheory.Automorphic.Whittaker.isClosed_setOf_forall_llRank_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:41:05.663798+00:00
 -- url     : https://prove2.me/theorems/c3e56141-e5e7-42c4-8186-19c4457f767b

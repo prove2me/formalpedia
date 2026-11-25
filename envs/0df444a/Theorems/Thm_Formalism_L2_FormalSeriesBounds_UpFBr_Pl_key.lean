@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_UpFBr_Pl_key
 -- name    : Formalism.L2.FormalSeriesBounds.UpFBr.Pl.key
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:35:57.503592+00:00
 -- url     : https://prove2.me/theorems/45c9661b-e0b9-490b-bbad-cf752e93b13a

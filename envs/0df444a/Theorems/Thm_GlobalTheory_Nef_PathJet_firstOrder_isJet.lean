@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_PathJet_firstOrder_isJet
 -- name    : GlobalTheory.Nef.PathJet.firstOrder_isJet
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:06:41.413359+00:00
 -- url     : https://prove2.me/theorems/1348f8f3-a9bb-48ed-88e4-242545248b9b

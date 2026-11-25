@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_independence_bound_of_span
 -- name    : Formalism.L2.FormalSeriesBounds.independence_bound_of_span
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:19:14.892593+00:00
 -- url     : https://prove2.me/theorems/b0bd96e3-1970-4891-ae01-97d792837a46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_isMulRightInvariant_of_isInvInvariant
 -- name    : GroundTheory.Automorphic.Whittaker.isMulRightInvariant_of_isInvInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:02:50.981831+00:00
 -- url     : https://prove2.me/theorems/88c49018-a064-4a23-a0de-40bd4f5cc69d

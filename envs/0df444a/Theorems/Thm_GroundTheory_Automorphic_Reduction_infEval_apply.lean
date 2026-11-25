@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_infEval_apply
 -- name    : GroundTheory.Automorphic.Reduction.infEval_apply
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:08:10.029638+00:00
 -- url     : https://prove2.me/theorems/d1450eb4-b6f5-4f4a-9cfd-4479a2fbdc77

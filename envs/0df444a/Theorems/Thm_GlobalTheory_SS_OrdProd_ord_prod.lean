@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SS_OrdProd_ord_prod
 -- name    : GlobalTheory.SS.OrdProd.ord_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-24T20:30:39.777412+00:00
 -- url     : https://prove2.me/theorems/06113412-e29c-4794-adab-02f3083068dd

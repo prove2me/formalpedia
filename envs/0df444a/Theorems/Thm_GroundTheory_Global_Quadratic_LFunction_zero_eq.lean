@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_Quadratic_LFunction_zero_eq
 -- name    : GroundTheory.Global.Quadratic.LFunction_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T23:39:37.615437+00:00
 -- url     : https://prove2.me/theorems/6bb67cca-cb3c-4113-a311-157e08e62ff9

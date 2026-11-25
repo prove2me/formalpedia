@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_exponent_index_local
 -- name    : Formalism.DivisionValues.exponent_index_local
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:23:11.894812+00:00
 -- url     : https://prove2.me/theorems/569f5421-574b-4480-8d4d-d3e848b99727

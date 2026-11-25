@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_mixedPairingPi_eq_inner
 -- name    : GroundTheory.Automorphic.GJMatrix.mixedPairingPi_eq_inner
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:42:24.217935+00:00
 -- url     : https://prove2.me/theorems/cee33e26-12fa-4b37-bb82-e76fe1bf0d80

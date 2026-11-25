@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_LLcv_muMin_fractional_ge
 -- name    : Formalism.LFunctionChainParameters.LLcv.muMin_fractional_ge
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T09:48:48.968055+00:00
 -- url     : https://prove2.me/theorems/3ba5e69e-fe5b-4b3f-9f11-13d56d8726f1

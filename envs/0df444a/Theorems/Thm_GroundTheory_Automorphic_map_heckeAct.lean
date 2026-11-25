@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_map_heckeAct
 -- name    : GroundTheory.Automorphic.map_heckeAct
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:08:28.351895+00:00
 -- url     : https://prove2.me/theorems/904baf41-e6ed-49f1-8fe1-efaf4589805d

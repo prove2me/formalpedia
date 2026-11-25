@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_su2_noncommutative
 -- name    : Newton.su2_noncommutative
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:47:12.825846+00:00
 -- url     : https://prove2.me/theorems/5cffbaf2-c6ed-4f13-b482-5523e7ddf297

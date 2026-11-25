@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_Formalism_L2_Indef_Examples__singleton_grading_independent_46e3c14d8336
 -- name    : P2M_Formalism_L2_Indef_Examples__singleton_grading_independent_46e3c14d8336
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:08:02.34518+00:00
 -- url     : https://prove2.me/theorems/2d70a440-e22d-4134-8524-258663434bf7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_NablaExpConj_main
 -- name    : GlobalTheory.NablaExpConj.main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:48:05.066079+00:00
 -- url     : https://prove2.me/theorems/f2929d5c-c0a8-4995-ab92-df4f05ae473c

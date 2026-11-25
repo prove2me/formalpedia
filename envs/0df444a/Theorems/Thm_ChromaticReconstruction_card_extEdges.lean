@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_extEdges
 -- name    : ChromaticReconstruction.card_extEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:21:47.91778+00:00
 -- url     : https://prove2.me/theorems/7ad5abb6-1eee-4b9a-8207-7dfc5e11e3cb

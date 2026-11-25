@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_adjointEquiv_inv
 -- name    : GroundTheory.Automorphic.HermitianForm.adjointEquiv_inv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:59:22.974802+00:00
 -- url     : https://prove2.me/theorems/17ee785b-7c48-4991-830a-6cb10d25fa2c

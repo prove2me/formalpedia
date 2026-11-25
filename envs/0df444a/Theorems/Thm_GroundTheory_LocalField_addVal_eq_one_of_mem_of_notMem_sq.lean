@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_addVal_eq_one_of_mem_of_notMem_sq
 -- name    : GroundTheory.LocalField.addVal_eq_one_of_mem_of_notMem_sq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:59:35.152633+00:00
 -- url     : https://prove2.me/theorems/0b1882dc-befb-46a2-be81-7ba5a17ec46f

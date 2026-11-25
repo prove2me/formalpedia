@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_eraseAt_mem_boxSubgroup
 -- name    : GroundTheory.Automorphic.RestrictedTensor.eraseAt_mem_boxSubgroup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:51:16.283493+00:00
 -- url     : https://prove2.me/theorems/1db349ed-6695-4e0f-9ba8-a9c93715c05b

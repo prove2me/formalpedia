@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_finrank_powField
 -- name    : GroundTheory.Arith.Abelian.finrank_powField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:39:37.597805+00:00
 -- url     : https://prove2.me/theorems/597ef7ae-5e70-4972-82f4-5a71dd7b60f9

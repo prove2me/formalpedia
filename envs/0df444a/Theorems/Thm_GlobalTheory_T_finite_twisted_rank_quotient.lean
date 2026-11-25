@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_finite_twisted_rank_quotient
 -- name    : GlobalTheory.T.finite_twisted_rank_quotient
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T23:48:32.603509+00:00
 -- url     : https://prove2.me/theorems/09b2bf77-cb02-4f63-93b3-6c4baa9e25b5

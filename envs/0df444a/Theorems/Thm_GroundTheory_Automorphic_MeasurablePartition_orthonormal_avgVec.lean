@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_MeasurablePartition_orthonormal_avgVec
 -- name    : GroundTheory.Automorphic.MeasurablePartition.orthonormal_avgVec
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:00:22.654372+00:00
 -- url     : https://prove2.me/theorems/006372b8-9b5e-4bbc-9ee8-bfc43c430b92

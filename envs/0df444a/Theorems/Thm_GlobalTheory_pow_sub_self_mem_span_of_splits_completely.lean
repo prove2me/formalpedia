@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_pow_sub_self_mem_span_of_splits_completely
 -- name    : GlobalTheory.pow_sub_self_mem_span_of_splits_completely
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:54:41.400843+00:00
 -- url     : https://prove2.me/theorems/128335bc-99e1-41f0-9bfa-c08ac904c5c3

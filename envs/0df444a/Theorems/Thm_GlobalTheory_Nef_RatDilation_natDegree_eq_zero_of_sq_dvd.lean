@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_RatDilation_natDegree_eq_zero_of_sq_dvd
 -- name    : GlobalTheory.Nef.RatDilation.natDegree_eq_zero_of_sq_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:01:59.91355+00:00
 -- url     : https://prove2.me/theorems/a98f602e-c2ea-4075-87a4-85e73769d8a4

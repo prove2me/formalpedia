@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_euclidNorm_smul
 -- name    : GroundTheory.Automorphic.Reduction.euclidNorm_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:09:47.272639+00:00
 -- url     : https://prove2.me/theorems/9b195f8c-ce2f-4072-8ec8-2c100284b20d

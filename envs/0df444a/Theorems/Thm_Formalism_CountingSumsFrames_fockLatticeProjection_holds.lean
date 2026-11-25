@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CountingSumsFrames_fockLatticeProjection_holds
 -- name    : Formalism.CountingSumsFrames.fockLatticeProjection_holds
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:46:26.706282+00:00
 -- url     : https://prove2.me/theorems/460de1b1-dfa6-4c3a-83dd-9c2c84a36c3c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_biUnion_compOf
 -- name    : ChromaticReconstruction.biUnion_compOf
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:47:27.350656+00:00
 -- url     : https://prove2.me/theorems/faac4137-df69-45aa-9ce7-c645f99b4385

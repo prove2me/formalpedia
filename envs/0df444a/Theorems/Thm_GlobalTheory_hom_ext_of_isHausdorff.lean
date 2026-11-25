@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_hom_ext_of_isHausdorff
 -- name    : GlobalTheory.hom_ext_of_isHausdorff
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T07:52:15.00152+00:00
 -- url     : https://prove2.me/theorems/83624e1c-b7bd-4fae-ba70-f508d0532c03

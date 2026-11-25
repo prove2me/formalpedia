@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_conjCME_mul
 -- name    : GroundTheory.Automorphic.conjCME_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:08:04.516205+00:00
 -- url     : https://prove2.me/theorems/f0168fdb-5ec0-43dc-ace7-f2459d4191b2

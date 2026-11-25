@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_support_remSum_subset
 -- name    : GroundTheory.Automorphic.LineKernel.support_remSum_subset
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:04:39.16397+00:00
 -- url     : https://prove2.me/theorems/2cd27e01-6deb-4be1-9161-e3b6408e6894

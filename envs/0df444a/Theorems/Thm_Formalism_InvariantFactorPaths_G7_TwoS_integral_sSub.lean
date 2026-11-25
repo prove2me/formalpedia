@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_G7_TwoS_integral_sSub
 -- name    : Formalism.InvariantFactorPaths.G7.TwoS.integral_sSub
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:54:09.996+00:00
 -- url     : https://prove2.me/theorems/d00b61b8-475e-457a-9fff-e711f230ffa1

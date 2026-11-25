@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_sum_sigma_const_fin
 -- name    : ChromaticReconstruction.sum_sigma_const_fin
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:30:51.699236+00:00
 -- url     : https://prove2.me/theorems/fa19d866-054c-4489-b8c9-3f89d17d51d5

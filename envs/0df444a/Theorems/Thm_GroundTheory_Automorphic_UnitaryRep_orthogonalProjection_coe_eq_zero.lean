@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_orthogonalProjection_coe_eq_zero
 -- name    : GroundTheory.Automorphic.UnitaryRep.orthogonalProjection_coe_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:04:07.9143+00:00
 -- url     : https://prove2.me/theorems/3c84d657-3abb-4b24-9473-5e0db84c9229

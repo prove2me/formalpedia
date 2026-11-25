@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_thickSplit_bot
 -- name    : GlobalTheory.thickSplit_bot
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:02:58.988801+00:00
 -- url     : https://prove2.me/theorems/ae179e60-eff3-4342-ae77-d30cd58ad815

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_smooth_cutoff_compactSupport_Lp_aux
 -- name    : Newton.smooth_cutoff_compactSupport_Lp_aux
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:28.407007+00:00
 -- url     : https://prove2.me/theorems/bc61b04e-8e99-496c-ae2c-75b0a0bfaad9

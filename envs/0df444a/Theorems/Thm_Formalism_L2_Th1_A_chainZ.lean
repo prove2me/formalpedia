@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_chainZ
 -- name    : Formalism.L2.Th1.A.chainZ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:15:27.543838+00:00
 -- url     : https://prove2.me/theorems/c3f2afd5-86aa-4cbe-a053-b17f4c573554

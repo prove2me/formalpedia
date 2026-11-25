@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_pow_rule_two_holds
 -- name    : Formalism.BaseCaseIdentities.pow_rule_two_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:51:12.86716+00:00
 -- url     : https://prove2.me/theorems/f858d6c1-986b-4189-9cf2-9f1ba2ddd7c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_CrudeValue_constantCoeff_hL
 -- name    : GlobalTheory.CrudeValue.constantCoeff_hL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:03:00.535658+00:00
 -- url     : https://prove2.me/theorems/c3e6a239-e6a9-42d5-97b9-afed934356e8

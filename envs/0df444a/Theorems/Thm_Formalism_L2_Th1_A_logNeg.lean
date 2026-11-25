@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_logNeg
 -- name    : Formalism.L2.Th1.A.logNeg
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:38.092808+00:00
 -- url     : https://prove2.me/theorems/5c1d1e36-5dce-4ea7-a4b1-3e6c133cbe1a

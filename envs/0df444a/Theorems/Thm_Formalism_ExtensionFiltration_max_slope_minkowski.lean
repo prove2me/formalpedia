@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_ExtensionFiltration_max_slope_minkowski
 -- name    : Formalism.ExtensionFiltration.max_slope_minkowski
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:36:26.985713+00:00
 -- url     : https://prove2.me/theorems/2fbdfa9a-93ee-4571-9fd2-a2dbd5e64b53

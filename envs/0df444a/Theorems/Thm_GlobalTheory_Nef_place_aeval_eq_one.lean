@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_place_aeval_eq_one
 -- name    : GlobalTheory.Nef.place_aeval_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:02:10.912836+00:00
 -- url     : https://prove2.me/theorems/c81cb938-22bb-42f8-a8e8-bbfca2c9916d

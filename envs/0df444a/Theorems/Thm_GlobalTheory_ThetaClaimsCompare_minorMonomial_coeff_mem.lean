@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ThetaClaimsCompare_minorMonomial_coeff_mem
 -- name    : GlobalTheory.ThetaClaimsCompare.minorMonomial_coeff_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:54:37.145304+00:00
 -- url     : https://prove2.me/theorems/3760d827-7d1d-4066-bd75-4e74ca1e790d

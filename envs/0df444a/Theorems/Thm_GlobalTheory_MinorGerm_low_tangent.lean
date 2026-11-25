@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_MinorGerm_low_tangent
 -- name    : GlobalTheory.MinorGerm.low_tangent
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:47:38.365791+00:00
 -- url     : https://prove2.me/theorems/1531f5eb-bcc1-42ad-bc59-46eb7c22185f

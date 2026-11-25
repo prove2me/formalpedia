@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_nonempty_equiv_of_restrictedTensorRep_equiv
 -- name    : GroundTheory.Automorphic.RestrictedTensor.nonempty_equiv_of_restrictedTensorRep_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:05:59.944454+00:00
 -- url     : https://prove2.me/theorems/45703e78-7637-4170-b95f-fefb6b3481cd

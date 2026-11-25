@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_endoAll_of
 -- name    : Formalism.L2.Th1.C.endoAll_of
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:50:36.725748+00:00
 -- url     : https://prove2.me/theorems/a6a7fa28-d968-41e5-b4ab-ece8b99ef7a5

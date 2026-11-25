@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpCoordFrame_leftInvariant_frame
 -- name    : GlobalTheory.ExpCoordFrame.leftInvariant_frame
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:47:21.224265+00:00
 -- url     : https://prove2.me/theorems/06ff9917-0ccc-4f7b-8078-a365247a4a44

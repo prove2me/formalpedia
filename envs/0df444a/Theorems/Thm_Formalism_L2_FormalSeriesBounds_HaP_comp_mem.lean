@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_HaP_comp_mem
 -- name    : Formalism.L2.FormalSeriesBounds.HaP.comp_mem
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:45:36.608826+00:00
 -- url     : https://prove2.me/theorems/f979f716-df60-4b93-a838-b146e57867c9

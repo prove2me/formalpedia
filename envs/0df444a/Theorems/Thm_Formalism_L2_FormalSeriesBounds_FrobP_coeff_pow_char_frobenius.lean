@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FrobP_coeff_pow_char_frobenius
 -- name    : Formalism.L2.FormalSeriesBounds.FrobP.coeff_pow_char_frobenius
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:35:49.530888+00:00
 -- url     : https://prove2.me/theorems/c572e8c2-48b5-46d4-935d-b8862b4e77f6

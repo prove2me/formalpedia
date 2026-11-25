@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_mem_MahlerZ_of_dvd
 -- name    : SZ.Slice.mem_MahlerZ_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:08:23.300526+00:00
 -- url     : https://prove2.me/theorems/c24abb80-8b32-4bfa-a695-55d4bbaf55bb

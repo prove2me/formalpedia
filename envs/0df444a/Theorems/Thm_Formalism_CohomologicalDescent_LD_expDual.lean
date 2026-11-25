@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_CohomologicalDescent_LD_expDual
 -- name    : Formalism.CohomologicalDescent.LD.expDual
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T23:05:50.078477+00:00
 -- url     : https://prove2.me/theorems/ed475bbb-5941-4cc3-b3fc-b48c9ad55a8d

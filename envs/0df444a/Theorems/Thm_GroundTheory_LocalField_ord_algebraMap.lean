@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_ord_algebraMap
 -- name    : GroundTheory.LocalField.ord_algebraMap
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:43:26.169753+00:00
 -- url     : https://prove2.me/theorems/ed735287-0019-46f8-9876-87e6f108ea35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_convolution_sub
 -- name    : Newton.convolution_sub
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:51:55.505091+00:00
 -- url     : https://prove2.me/theorems/b1e9dda5-63df-4bf3-ac60-28607312a147

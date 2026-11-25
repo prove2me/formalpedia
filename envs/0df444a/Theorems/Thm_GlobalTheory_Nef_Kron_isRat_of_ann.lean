@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_Kron_isRat_of_ann
 -- name    : GlobalTheory.Nef.Kron.isRat_of_ann
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:00:50.642713+00:00
 -- url     : https://prove2.me/theorems/fecfa7ab-36e7-43a5-84b6-b3e8fac4f233

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_idxTransport
 -- name    : Formalism.EigenvalueLevelCeiling.idxTransport
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:32:30.911625+00:00
 -- url     : https://prove2.me/theorems/2b64f869-8109-41b3-9677-3eaf433aa94c

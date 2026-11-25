@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_nrm_coeff_prod_linear
 -- name    : GlobalTheory.Nef.nrm_coeff_prod_linear
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:01:59.106998+00:00
 -- url     : https://prove2.me/theorems/d3957fd0-8dd0-4a82-b118-801dc4d32dbb

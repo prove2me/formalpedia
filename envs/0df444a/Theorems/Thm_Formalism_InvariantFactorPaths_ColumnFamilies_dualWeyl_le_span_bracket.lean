@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_dualWeyl_le_span_bracket
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.dualWeyl_le_span_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:53:48.185295+00:00
 -- url     : https://prove2.me/theorems/7fcbae97-4e1f-41f5-a7f5-ec1f2da63e56

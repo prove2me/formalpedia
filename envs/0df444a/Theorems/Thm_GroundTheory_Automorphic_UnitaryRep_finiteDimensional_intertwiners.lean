@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_UnitaryRep_finiteDimensional_intertwiners
 -- name    : GroundTheory.Automorphic.UnitaryRep.finiteDimensional_intertwiners
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:41:15.432945+00:00
 -- url     : https://prove2.me/theorems/f7295f13-9994-4bf6-8946-7c88ddff1416

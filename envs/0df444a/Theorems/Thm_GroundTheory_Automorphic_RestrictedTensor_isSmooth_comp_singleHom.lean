@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_RestrictedTensor_isSmooth_comp_singleHom
 -- name    : GroundTheory.Automorphic.RestrictedTensor.isSmooth_comp_singleHom
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:05:01.834856+00:00
 -- url     : https://prove2.me/theorems/f6ff0e63-ea02-43b9-a42e-4d27eaa2fe6c

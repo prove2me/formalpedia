@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericExtend_exists_lift
 -- name    : GlobalTheory.GenericExtend.exists_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:01:36.561033+00:00
 -- url     : https://prove2.me/theorems/873a865c-618e-4a8d-9ca8-e4516a213fbb

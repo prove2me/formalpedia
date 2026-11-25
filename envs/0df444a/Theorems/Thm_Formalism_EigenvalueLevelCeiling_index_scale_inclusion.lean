@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_EigenvalueLevelCeiling_index_scale_inclusion
 -- name    : Formalism.EigenvalueLevelCeiling.index_scale_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T21:52:19.808056+00:00
 -- url     : https://prove2.me/theorems/991dd869-fe8a-4748-8341-fda7c3a8b8d4

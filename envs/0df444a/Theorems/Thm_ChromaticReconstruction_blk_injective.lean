@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_blk_injective
 -- name    : ChromaticReconstruction.blk_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:22:11.917094+00:00
 -- url     : https://prove2.me/theorems/4eeeeb6f-aba5-41ef-8f4a-a7439f1c73a2

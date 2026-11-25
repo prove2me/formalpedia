@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HN_slope_characterization
 -- name    : Formalism.HN.slope_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T20:34:26.782796+00:00
 -- url     : https://prove2.me/theorems/70a99ef8-9272-4d98-b876-4b331cd4304b

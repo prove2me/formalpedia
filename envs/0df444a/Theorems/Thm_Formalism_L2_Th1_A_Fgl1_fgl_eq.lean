@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_Fgl1_fgl_eq
 -- name    : Formalism.L2.Th1.A.Fgl1.fgl_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:09:54.832052+00:00
 -- url     : https://prove2.me/theorems/d950f5bc-c1d5-4f99-9a17-951573cab900

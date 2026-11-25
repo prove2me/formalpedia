@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_letters_eq_blocks
 -- name    : GroundTheory.Automorphic.HarishChandra.letters_eq_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:07:03.354271+00:00
 -- url     : https://prove2.me/theorems/6970d4eb-94be-496d-8ce6-e9eee706168a

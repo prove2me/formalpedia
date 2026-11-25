@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_PW_pol_le_iSup
 -- name    : Formalism.InvariantFactorPaths.PW.pol_le_iSup
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:09:05.370132+00:00
 -- url     : https://prove2.me/theorems/89ccba01-cc63-4261-9dc4-0c0f625c1838

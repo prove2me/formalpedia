@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_Complex_re_finset_sum
 -- name    : Newton.Complex.re_finset_sum
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:52:51.015799+00:00
 -- url     : https://prove2.me/theorems/b5f34a42-026a-41e9-bb1a-a182231662b9

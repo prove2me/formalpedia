@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_P2M_GroundTheory_PAdicHodge_NormTower___nonneg_2e425604b7b3
 -- name    : P2M_GroundTheory_PAdicHodge_NormTower___nonneg_2e425604b7b3
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:05:50.22047+00:00
 -- url     : https://prove2.me/theorems/fd21553b-093f-4249-82ad-7ade7fdadc62

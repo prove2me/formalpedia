@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_coeffL_smul_left
 -- name    : GroundTheory.Automorphic.Whittaker.coeffL_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:06:06.713006+00:00
 -- url     : https://prove2.me/theorems/7e42b8a7-d91f-47a8-9fe0-865e52aaf16c

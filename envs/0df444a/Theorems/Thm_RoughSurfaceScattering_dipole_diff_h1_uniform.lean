@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RoughSurfaceScattering_dipole_diff_h1_uniform
 -- name    : RoughSurfaceScattering.dipole_diff_h1_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @もち
 -- created : 2026-11-25T00:31:55.610393+00:00
 -- url     : https://prove2.me/theorems/9e8af8d8-05a5-40c1-b8fc-bd7e7100ac7a

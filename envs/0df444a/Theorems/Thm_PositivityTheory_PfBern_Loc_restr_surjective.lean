@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PositivityTheory_PfBern_Loc_restr_surjective
 -- name    : PositivityTheory.PfBern.Loc.restr_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T01:08:04.417355+00:00
 -- url     : https://prove2.me/theorems/27560d15-ad7b-460c-84c4-b9a13961f8eb

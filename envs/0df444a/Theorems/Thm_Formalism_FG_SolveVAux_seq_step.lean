@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FG_SolveVAux_seq_step
 -- name    : Formalism.FG.SolveVAux.seq_step
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T18:41:20.011072+00:00
 -- url     : https://prove2.me/theorems/95963bdd-7b29-47fe-885e-8fc47f4a9ee5

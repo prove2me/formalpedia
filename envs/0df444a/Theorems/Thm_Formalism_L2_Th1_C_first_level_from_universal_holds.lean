@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_C_first_level_from_universal_holds
 -- name    : Formalism.L2.Th1.C.first_level_from_universal_holds
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T21:38:27.414886+00:00
 -- url     : https://prove2.me/theorems/f39c28ad-9dc1-45aa-b7df-542a79fd1367

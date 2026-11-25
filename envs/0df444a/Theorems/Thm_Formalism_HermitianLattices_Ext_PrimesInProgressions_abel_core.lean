@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_PrimesInProgressions_abel_core
 -- name    : Formalism.HermitianLattices.Ext.PrimesInProgressions.abel_core
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:53:13.552669+00:00
 -- url     : https://prove2.me/theorems/17f9ec6c-36c4-4c49-bab5-455973a7f0e3

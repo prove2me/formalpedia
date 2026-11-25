@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReciprocityTheory_ChartRestriction_G_T0_ValPl_placesOver_bij
 -- name    : ReciprocityTheory.ChartRestriction.G.T0.ValPl.placesOver_bij
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T13:28:06.354422+00:00
 -- url     : https://prove2.me/theorems/692bb802-6653-4f03-8a00-520a72b322c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformSerre_isHomogeneous_lift
 -- name    : GlobalTheory.UniformSerre.isHomogeneous_lift
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:54:29.129794+00:00
 -- url     : https://prove2.me/theorems/59de8a13-7ecb-4820-850b-1329c795ca98

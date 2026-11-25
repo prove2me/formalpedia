@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Global_cyclicHerbrand_ofMulAction
 -- name    : GroundTheory.Global.cyclicHerbrand_ofMulAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T23:40:28.206794+00:00
 -- url     : https://prove2.me/theorems/4f3d83e0-d106-4e38-b1fb-82a725516c3d

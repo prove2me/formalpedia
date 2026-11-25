@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B6_tau_integral_fourier_form
 -- name    : Formalism.FourierDecayAlt.P.B6.tau_integral_fourier_form
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T16:05:37.450978+00:00
 -- url     : https://prove2.me/theorems/93bb5732-a27d-4640-8dc8-0ae3e4f7e830

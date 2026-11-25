@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_isFF_main
 -- name    : GlobalTheory.Nef.isFF_main
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:02:52.742142+00:00
 -- url     : https://prove2.me/theorems/61ecdf0f-0bf1-4daf-8afe-a63a424c74c0

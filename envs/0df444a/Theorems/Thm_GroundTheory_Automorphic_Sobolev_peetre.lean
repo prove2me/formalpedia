@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Sobolev_peetre
 -- name    : GroundTheory.Automorphic.Sobolev.peetre
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:53:11.765234+00:00
 -- url     : https://prove2.me/theorems/6934125c-c8b6-4dae-b880-fb72d2787afe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_phiTerm_inl_eq_zero
 -- name    : ChromaticReconstruction.phiTerm_inl_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:19:38.86691+00:00
 -- url     : https://prove2.me/theorems/41100538-4c85-4f03-ba0f-2a7d94fbd596

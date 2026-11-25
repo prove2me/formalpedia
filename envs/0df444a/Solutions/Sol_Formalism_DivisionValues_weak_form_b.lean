@@ -1,0 +1,47 @@
+-- Prove2me | solution 1 for Formalism.DivisionValues.weak_form_b
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T01:19:35.459586+00:00
+-- url     : https://prove2.me/submissions/9ebec134-afac-4b9a-9dc2-84d67476ebc6
+
+import Mathlib
+import Definitions.Def_Formalism_QuotientMetricDivisors_RatHermLcvTwist
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DivIntoDual
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_BoundsChain
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_JwConj
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_DualMu
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_TheoremDivIneq
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ConjugateWeightLatticeOfGeneral
+import Theorems.Thm_Formalism_DivisionValues_conjugate_weight_gram_general
+import Theorems.Thm_Formalism_DivisionValues_stepBW_of
+import Theorems.Thm_Formalism_DivisionValues_covolume_via_basis
+import Theorems.Thm_Formalism_DivisionValues_finite_sum_conjugation
+import Theorems.Thm_Formalism_DivisionValues_idxLcv_of
+import Theorems.Thm_Formalism_DivisionValues_imageLcv_of
+import Theorems.Thm_Formalism_DivisionValues_index_change_formula
+import Theorems.Thm_Formalism_DivisionValues_ratHermLcv_of
+import Theorems.Thm_Formalism_DivisionValues_semilocal_basis_exists
+import Theorems.Thm_Formalism_DivisionValues_valuation_basic_properties
+import Theorems.Thm_P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module NumberField IsDedekindDomain
+open scoped Matrix ComplexOrder
+noncomputable section
+open Formalism Formalism.DivisionValues
+open RationalHermitianForm
+namespace Formalism.DivisionValues
+theorem _root_.solution : StepBW :=
+  stepBW_of prod_formula' covolume_via_basis index_change_formula valuation_basic_properties
+    (imageLcv_of covolume_via_basis) (idxLcv_of covolume_via_basis)
+    (ratHermLcv_of covolume_via_basis index_change_formula semilocal_basis_exists) conjugate_weight_gram_general
+    finite_sum_conjugation semilocal_basis_exists
+end Formalism.DivisionValues

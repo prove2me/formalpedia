@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_exists_resG_eq_of_secOn
 -- name    : GlobalTheory.exists_resG_eq_of_secOn
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:45:04.957804+00:00
 -- url     : https://prove2.me/theorems/6da150ee-67b6-42ce-b833-d11c664bab75

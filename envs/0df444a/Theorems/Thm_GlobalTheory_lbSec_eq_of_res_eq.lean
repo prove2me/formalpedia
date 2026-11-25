@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_lbSec_eq_of_res_eq
 -- name    : GlobalTheory.lbSec_eq_of_res_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:49:57.891075+00:00
 -- url     : https://prove2.me/theorems/a7115d03-2be1-46f8-887c-18a435e0ef3f

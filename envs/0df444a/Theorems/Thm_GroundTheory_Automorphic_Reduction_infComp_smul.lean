@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Reduction_infComp_smul
 -- name    : GroundTheory.Automorphic.Reduction.infComp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:09:13.213564+00:00
 -- url     : https://prove2.me/theorems/c0ff32d6-cf63-450e-9fc7-a9fc1f6dfae1

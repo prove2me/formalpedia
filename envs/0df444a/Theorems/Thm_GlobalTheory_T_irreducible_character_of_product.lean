@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_irreducible_character_of_product
 -- name    : GlobalTheory.T.irreducible_character_of_product
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-24T20:48:17.97019+00:00
 -- url     : https://prove2.me/theorems/6a935a19-5c58-4621-b95b-270c39ca6d5d

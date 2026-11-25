@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_Kron_exists_kill
 -- name    : GlobalTheory.Nef.Kron.exists_kill
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:00:42.55151+00:00
 -- url     : https://prove2.me/theorems/cb964078-70af-4fba-87ba-dd2521ab1bb9

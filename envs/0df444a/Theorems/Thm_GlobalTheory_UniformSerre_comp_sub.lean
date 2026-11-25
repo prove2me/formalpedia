@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UniformSerre_comp_sub
 -- name    : GlobalTheory.UniformSerre.comp_sub
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:55:24.775043+00:00
 -- url     : https://prove2.me/theorems/b12552b5-14c1-4e89-a9f9-9e28abe7f6a4

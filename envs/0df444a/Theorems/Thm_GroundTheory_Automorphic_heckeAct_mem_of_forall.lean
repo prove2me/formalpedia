@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_heckeAct_mem_of_forall
 -- name    : GroundTheory.Automorphic.heckeAct_mem_of_forall
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:08:33.908022+00:00
 -- url     : https://prove2.me/theorems/ab235ee0-7654-491a-9034-23bd453e61dd

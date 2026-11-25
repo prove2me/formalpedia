@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_conjLeft_comp_rightUAction
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.conjLeft_comp_rightUAction
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:41:05.590411+00:00
 -- url     : https://prove2.me/theorems/b00af25f-04d5-4882-a6e2-0a6967c6c36d

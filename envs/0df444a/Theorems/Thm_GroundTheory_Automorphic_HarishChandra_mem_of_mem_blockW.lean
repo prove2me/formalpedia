@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HarishChandra_mem_of_mem_blockW
 -- name    : GroundTheory.Automorphic.HarishChandra.mem_of_mem_blockW
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:08:31.195327+00:00
 -- url     : https://prove2.me/theorems/8fa9c2cf-daba-4b4b-ad2d-837dd759b767

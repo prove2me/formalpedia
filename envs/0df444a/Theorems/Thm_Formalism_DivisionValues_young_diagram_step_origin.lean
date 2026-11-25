@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_DivisionValues_young_diagram_step_origin
 -- name    : Formalism.DivisionValues.young_diagram_step_origin
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T17:50:23.486214+00:00
 -- url     : https://prove2.me/theorems/c283eb9e-3bf4-42b7-b02c-a24969387f2c

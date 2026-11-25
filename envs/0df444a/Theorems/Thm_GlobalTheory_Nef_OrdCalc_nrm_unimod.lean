@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_OrdCalc_nrm_unimod
 -- name    : GlobalTheory.Nef.OrdCalc.nrm_unimod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:02:14.821511+00:00
 -- url     : https://prove2.me/theorems/50ce299d-f728-4dcc-a25d-83e094e02c1d

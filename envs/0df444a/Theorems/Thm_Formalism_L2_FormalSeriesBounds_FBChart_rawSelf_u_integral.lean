@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_FBChart_rawSelf_u_integral
 -- name    : Formalism.L2.FormalSeriesBounds.FBChart.rawSelf_u_integral
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:46:15.009996+00:00
 -- url     : https://prove2.me/theorems/bd5e98e1-a6eb-44bf-998e-7ad543c5889b

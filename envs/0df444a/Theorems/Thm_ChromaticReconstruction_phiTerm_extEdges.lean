@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_phiTerm_extEdges
 -- name    : ChromaticReconstruction.phiTerm_extEdges
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:24:01.114366+00:00
 -- url     : https://prove2.me/theorems/89cc6ea3-2f05-49ef-b8f0-b05d3ca73c4d

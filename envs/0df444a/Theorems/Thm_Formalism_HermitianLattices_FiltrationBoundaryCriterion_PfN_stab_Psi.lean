@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_FiltrationBoundaryCriterion_PfN_stab_Psi
 -- name    : Formalism.HermitianLattices.FiltrationBoundaryCriterion.PfN.stab_Psi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T18:48:22.968838+00:00
 -- url     : https://prove2.me/theorems/39f17e33-6340-49dd-b1e1-3b791578639a

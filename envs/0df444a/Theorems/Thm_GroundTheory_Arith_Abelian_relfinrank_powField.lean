@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_Abelian_relfinrank_powField
 -- name    : GroundTheory.Arith.Abelian.relfinrank_powField
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:40:32.504324+00:00
 -- url     : https://prove2.me/theorems/56e2da2d-eff1-40d1-8afe-78097d651286

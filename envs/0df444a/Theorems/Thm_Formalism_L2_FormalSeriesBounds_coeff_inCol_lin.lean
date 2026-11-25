@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_coeff_inCol_lin
 -- name    : Formalism.L2.FormalSeriesBounds.coeff_inCol_lin
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:48:50.730844+00:00
 -- url     : https://prove2.me/theorems/9a746add-356c-4d68-9f15-aa30552a4716

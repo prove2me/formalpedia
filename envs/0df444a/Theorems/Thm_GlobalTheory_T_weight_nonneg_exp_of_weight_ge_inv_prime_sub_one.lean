@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_T_weight_nonneg_exp_of_weight_ge_inv_prime_sub_one
 -- name    : GlobalTheory.T.weight_nonneg_exp_of_weight_ge_inv_prime_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:54:07.282719+00:00
 -- url     : https://prove2.me/theorems/2b12dfa9-10a4-4d10-9323-1aecb575dc52

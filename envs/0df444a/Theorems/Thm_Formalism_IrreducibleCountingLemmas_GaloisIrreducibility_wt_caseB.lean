@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_wt_caseB
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.wt_caseB
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:48:48.311312+00:00
 -- url     : https://prove2.me/theorems/95b6e490-b7e4-48c5-9aad-a0a1303636a2

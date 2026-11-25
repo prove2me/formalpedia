@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_young_exponent_r_ge_one
 -- name    : Newton.young_exponent_r_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T00:57:33.86882+00:00
 -- url     : https://prove2.me/theorems/7018e150-0ced-4e02-b881-d106587e8208

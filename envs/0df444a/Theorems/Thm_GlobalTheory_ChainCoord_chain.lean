@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ChainCoord_chain
 -- name    : GlobalTheory.ChainCoord.chain
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T00:37:25.482803+00:00
 -- url     : https://prove2.me/theorems/124a9306-66a8-42bf-94e8-14481b75b2a2

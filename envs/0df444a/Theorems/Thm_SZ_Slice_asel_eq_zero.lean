@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SZ_Slice_asel_eq_zero
 -- name    : SZ.Slice.asel_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:07:15.861215+00:00
 -- url     : https://prove2.me/theorems/532dd65a-d0de-4081-ab6b-4afcc4a2011e

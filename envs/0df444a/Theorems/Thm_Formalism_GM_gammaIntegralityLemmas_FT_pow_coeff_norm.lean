@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_GM_gammaIntegralityLemmas_FT_pow_coeff_norm
 -- name    : Formalism.GM.gammaIntegralityLemmas.FT_pow_coeff_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T02:49:47.890208+00:00
 -- url     : https://prove2.me/theorems/5d9d6c6c-fa8d-478a-ab02-e702229ae7f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_opD_chromSymm
 -- name    : ChromaticReconstruction.opD_chromSymm
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:33:53.937232+00:00
 -- url     : https://prove2.me/theorems/b776937d-5a08-482b-9ec6-12a5ff8c0951

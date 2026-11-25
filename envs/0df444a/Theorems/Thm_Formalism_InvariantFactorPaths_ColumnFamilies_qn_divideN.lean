@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_InvariantFactorPaths_ColumnFamilies_qn_divideN
 -- name    : Formalism.InvariantFactorPaths.ColumnFamilies.qn_divideN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-24T10:53:25.136382+00:00
 -- url     : https://prove2.me/theorems/02c8f729-8bca-4b5f-a363-0b8125ca2ae7

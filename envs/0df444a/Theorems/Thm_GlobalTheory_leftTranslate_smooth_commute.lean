@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_leftTranslate_smooth_commute
 -- name    : GlobalTheory.leftTranslate_smooth_commute
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:56:33.173363+00:00
 -- url     : https://prove2.me/theorems/63400f20-82f6-4945-871c-aff44ce3f272

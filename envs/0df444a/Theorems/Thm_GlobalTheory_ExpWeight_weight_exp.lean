@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_ExpWeight_weight_exp
 -- name    : GlobalTheory.ExpWeight.weight_exp
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:38:59.912652+00:00
 -- url     : https://prove2.me/theorems/ebc276d5-5712-4399-bee0-5ebbcd7a08ee

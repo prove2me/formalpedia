@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_extEdges_injective
 -- name    : ChromaticReconstruction.extEdges_injective
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:20:43.009079+00:00
 -- url     : https://prove2.me/theorems/e247724d-40f6-43d7-8f54-b0d2db5cdb21

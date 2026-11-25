@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_CubeR_three_univ
 -- name    : Formalism.L2.Th1.A.CubeR.three_univ
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T08:42:31.525576+00:00
 -- url     : https://prove2.me/theorems/9367878d-334e-4ad6-9323-938f0cbd21e7

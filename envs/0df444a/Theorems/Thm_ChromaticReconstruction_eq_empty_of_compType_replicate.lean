@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_eq_empty_of_compType_replicate
 -- name    : ChromaticReconstruction.eq_empty_of_compType_replicate
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:09:19.007711+00:00
 -- url     : https://prove2.me/theorems/df7aaa73-b95a-4fc8-ab57-70eb32d8c3d9

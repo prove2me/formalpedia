@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsogenySum_pairing_density_add
 -- name    : GlobalTheory.IsogenySum.pairing_density_add
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:09:10.393519+00:00
 -- url     : https://prove2.me/theorems/013c1b2c-36ee-47f7-9e21-b5bc7bbb5afc

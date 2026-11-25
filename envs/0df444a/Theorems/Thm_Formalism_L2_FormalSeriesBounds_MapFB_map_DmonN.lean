@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_MapFB_map_DmonN
 -- name    : Formalism.L2.FormalSeriesBounds.MapFB.map_DmonN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:48:09.246732+00:00
 -- url     : https://prove2.me/theorems/b9389152-9ece-4be0-be54-628bcb7904fd

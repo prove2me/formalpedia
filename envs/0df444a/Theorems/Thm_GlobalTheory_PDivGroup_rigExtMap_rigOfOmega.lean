@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PDivGroup_rigExtMap_rigOfOmega
 -- name    : GlobalTheory.PDivGroup.rigExtMap_rigOfOmega
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:02:23.176061+00:00
 -- url     : https://prove2.me/theorems/02ae70e6-a875-4d47-a958-cda0909f0bc5

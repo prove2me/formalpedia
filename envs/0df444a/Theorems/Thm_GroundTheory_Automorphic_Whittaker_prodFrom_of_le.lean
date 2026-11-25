@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_prodFrom_of_le
 -- name    : GroundTheory.Automorphic.Whittaker.prodFrom_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T00:56:54.179839+00:00
 -- url     : https://prove2.me/theorems/f37fd6cf-09f0-4647-8b82-81a1ed7acb55

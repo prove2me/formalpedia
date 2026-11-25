@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_quad_round_sum
 -- name    : GlobalTheory.quad_round_sum
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:54:21.161243+00:00
 -- url     : https://prove2.me/theorems/846e7342-05eb-4ce3-9e72-22c9101c3f8b

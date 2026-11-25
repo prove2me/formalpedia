@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_IsogenySum_exists_common_sublattice
 -- name    : GlobalTheory.IsogenySum.exists_common_sublattice
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:09:52.652051+00:00
 -- url     : https://prove2.me/theorems/31cbd188-7bc1-4fd9-9213-2e0c1b42e174

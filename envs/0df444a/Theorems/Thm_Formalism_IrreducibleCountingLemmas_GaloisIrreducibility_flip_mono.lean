@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_IrreducibleCountingLemmas_GaloisIrreducibility_flip_mono
 -- name    : Formalism.IrreducibleCountingLemmas.GaloisIrreducibility.flip_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:43:55.532681+00:00
 -- url     : https://prove2.me/theorems/ba8bcc38-024e-4067-9ac1-b60c15f63aae

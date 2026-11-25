@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_B7_u_enorm_KM_le
 -- name    : Formalism.FourierDecayAlt.P.B7.u_enorm_KM_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:07:53.829558+00:00
 -- url     : https://prove2.me/theorems/b6f7e95e-73c2-47ca-8f00-181662c059f7

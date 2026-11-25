@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_hyperbolic_plane_split
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.hyperbolic_plane_split
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T07:03:59.838376+00:00
 -- url     : https://prove2.me/theorems/2a0721aa-a2a1-4a32-bbb7-38f2ac3a35a6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LT_CongrP_funEqCongr
 -- name    : Formalism.LT.CongrP.funEqCongr
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-22T23:00:05.040463+00:00
 -- url     : https://prove2.me/theorems/c30abc12-4f8f-4aa7-b22d-6b4c6edd9e51

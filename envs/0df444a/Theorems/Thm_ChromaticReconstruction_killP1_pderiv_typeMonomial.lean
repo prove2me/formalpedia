@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_killP1_pderiv_typeMonomial
 -- name    : ChromaticReconstruction.killP1_pderiv_typeMonomial
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T11:59:15.001821+00:00
 -- url     : https://prove2.me/theorems/2ce0ad50-8cc7-4237-913e-92c53beb8946

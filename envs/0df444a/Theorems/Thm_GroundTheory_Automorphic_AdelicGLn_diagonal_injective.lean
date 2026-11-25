@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_AdelicGLn_diagonal_injective
 -- name    : GroundTheory.Automorphic.AdelicGLn.diagonal_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:04:59.449793+00:00
 -- url     : https://prove2.me/theorems/40679859-5f66-47e3-a6d6-d221d8952ef5

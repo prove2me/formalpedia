@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_LineKernel_integral_norm_le_of_support
 -- name    : GroundTheory.Automorphic.LineKernel.integral_norm_le_of_support
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T01:04:11.93921+00:00
 -- url     : https://prove2.me/theorems/255238ef-b3b2-4f50-b515-173ca2942ad8

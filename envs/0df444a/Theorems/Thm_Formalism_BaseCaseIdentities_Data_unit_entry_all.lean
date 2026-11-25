@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_BaseCaseIdentities_Data_unit_entry_all
 -- name    : Formalism.BaseCaseIdentities.Data.unit_entry_all
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T00:57:40.176437+00:00
 -- url     : https://prove2.me/theorems/8474d333-fe43-400c-8c45-10d915467e7e

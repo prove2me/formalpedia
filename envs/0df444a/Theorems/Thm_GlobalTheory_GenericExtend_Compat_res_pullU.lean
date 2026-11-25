@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenericExtend_Compat_res_pullU
 -- name    : GlobalTheory.GenericExtend.Compat.res_pullU
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:01:10.091817+00:00
 -- url     : https://prove2.me/theorems/5fb1dc8d-e2cf-473d-b5d4-dde63f095ba1

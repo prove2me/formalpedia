@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_GenExtendNormal_mem_range_of_preimmersion
 -- name    : GlobalTheory.GenExtendNormal.mem_range_of_preimmersion
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:52:52.764801+00:00
 -- url     : https://prove2.me/theorems/604a5ec7-f63f-45ac-bd90-d73bec629389

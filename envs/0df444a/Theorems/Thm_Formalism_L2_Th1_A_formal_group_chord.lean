@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_Th1_A_formal_group_chord
 -- name    : Formalism.L2.Th1.A.formal_group_chord
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T19:19:24.698542+00:00
 -- url     : https://prove2.me/theorems/7c89785b-ad88-4aca-9f91-e35595d52eee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_IntegralLatticeDensity_unitary_invariance
 -- name    : Formalism.HermitianLattices.IntegralLatticeDensity.unitary_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:58:43.38522+00:00
 -- url     : https://prove2.me/theorems/02701ba6-e0b8-44a7-83e8-b8d11cdc94a2

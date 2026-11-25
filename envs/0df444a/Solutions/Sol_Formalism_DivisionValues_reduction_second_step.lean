@@ -1,0 +1,50 @@
+-- Prove2me | solution 1 for Formalism.DivisionValues.reduction_second_step
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-4
+-- created : 2026-11-25T01:17:59.194797+00:00
+-- url     : https://prove2.me/submissions/0eafd4bd-3940-4508-b49c-9e19c49da0c6
+
+import Mathlib
+import Definitions.Def_Formalism_QuotientMetricDivisors_ProdFormula
+import Definitions.Def_Formalism_HarderNarasimhan_ShiftInvariance
+import Definitions.Def_Formalism_HermitianLattices_HermitianLatticesProofs_IndexBasic
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ProdFormula
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LcvBasis
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_IdxChange
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ValBasic
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ImageLcv
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_RatHerm
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_LocBasis
+import Definitions.Def_Formalism_QuotientMetricDivisors_HermitianTwistDivisors_ReductionSecondStep
+import Theorems.Thm_Formalism_DivisionValues_stepB_of
+import Theorems.Thm_Formalism_DivisionValues_covolume_via_basis
+import Theorems.Thm_Formalism_DivisionValues_finite_sum_conjugation
+import Theorems.Thm_Formalism_DivisionValues_idxLcv_of
+import Theorems.Thm_Formalism_DivisionValues_imageLcv_of
+import Theorems.Thm_Formalism_DivisionValues_index_change_formula
+import Theorems.Thm_Formalism_DivisionValues_jwGram_of
+import Theorems.Thm_Formalism_DivisionValues_ratHermLcv_of
+import Theorems.Thm_Formalism_DivisionValues_semilocal_basis_exists
+import Theorems.Thm_Formalism_DivisionValues_valuation_basic_properties
+import Theorems.Thm_P2M_Formalism_DivisionValues_prod_formula__ad6919c95c2d
+
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+open Module NumberField IsDedekindDomain
+open scoped Matrix ComplexOrder
+noncomputable section
+open Formalism Formalism.DivisionValues
+namespace Formalism.DivisionValues
+theorem _root_.solution : StepB :=
+  stepB_of prod_formula' covolume_via_basis index_change_formula valuation_basic_properties
+    (imageLcv_of covolume_via_basis) (idxLcv_of covolume_via_basis)
+    (ratHermLcv_of covolume_via_basis index_change_formula semilocal_basis_exists) (jwGram_of index_change_formula)
+    finite_sum_conjugation semilocal_basis_exists
+end Formalism.DivisionValues

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_GJMatrix_summable_norm_iff_and_tsum_eq_cosetPi
 -- name    : GroundTheory.Automorphic.GJMatrix.summable_norm_iff_and_tsum_eq_cosetPi
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:55:52.935304+00:00
 -- url     : https://prove2.me/theorems/c49c1040-0482-4f12-a690-046daf2ff9ec

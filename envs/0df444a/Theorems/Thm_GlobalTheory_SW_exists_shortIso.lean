@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_SW_exists_shortIso
 -- name    : GlobalTheory.SW.exists_shortIso
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-24T19:45:53.344521+00:00
 -- url     : https://prove2.me/theorems/97dde558-f337-408d-99d4-24b9d13d6ccf

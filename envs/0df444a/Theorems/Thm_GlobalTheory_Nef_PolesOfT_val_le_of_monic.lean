@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_PolesOfT_val_le_of_monic
 -- name    : GlobalTheory.Nef.PolesOfT.val_le_of_monic
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:01:38.48581+00:00
 -- url     : https://prove2.me/theorems/76d13a40-af40-4b30-b4ad-a4e8ac229dfa

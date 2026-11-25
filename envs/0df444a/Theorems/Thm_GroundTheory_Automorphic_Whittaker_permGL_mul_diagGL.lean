@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_Whittaker_permGL_mul_diagGL
 -- name    : GroundTheory.Automorphic.Whittaker.permGL_mul_diagGL
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T00:57:22.294028+00:00
 -- url     : https://prove2.me/theorems/25c3f0ab-6f09-4c66-8344-b56ac6c9849b

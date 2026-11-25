@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_HermitianLattices_Ext_L3_IsotropicCounts_isoCount_eq_pow
 -- name    : Formalism.HermitianLattices.Ext.L3.IsotropicCounts.isoCount_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T06:50:24.118685+00:00
 -- url     : https://prove2.me/theorems/69bbb0a1-f4ed-488e-96d8-6ecef3a09584

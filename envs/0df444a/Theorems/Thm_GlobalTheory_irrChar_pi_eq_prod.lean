@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_irrChar_pi_eq_prod
 -- name    : GlobalTheory.irrChar_pi_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-24T22:58:38.489198+00:00
 -- url     : https://prove2.me/theorems/43cb36a9-c5ee-40ed-a00f-32ef93b2d370

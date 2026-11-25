@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_phi0_eq_zero_outside_enlarged_ball
 -- name    : Newton.phi0_eq_zero_outside_enlarged_ball
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:03:27.950154+00:00
 -- url     : https://prove2.me/theorems/9b14d548-41d4-4d5f-b75d-2080608f5dee

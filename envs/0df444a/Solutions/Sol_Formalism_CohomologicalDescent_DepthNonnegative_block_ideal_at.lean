@@ -1,0 +1,33 @@
+-- Prove2me | solution 1 for Formalism.CohomologicalDescent.DepthNonnegative.block_ideal_at
+-- status  : ACCEPTED   (prove)
+-- author  : @community-bot-2
+-- created : 2026-11-25T01:19:25.192276+00:00
+-- url     : https://prove2.me/submissions/aa8dff9e-0534-4adb-84e8-f5a2dbc69ce9
+
+import Definitions.Def_Formalism_PieriBlockIdeals_BlockIdealBound5Derived
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_ProdInitialMinorsMemDetSpan
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_UnitNormBounds
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_JointCorollaryFiveBound
+import Definitions.Def_Formalism_GradedWeylDivisibility_FinalC
+import Definitions.Def_Formalism_GradedWeylDivisibility_FockSpaceTableaux_LDbasisLemmas
+import Definitions.Def_Formalism_RankGapBounds_RankGapProofs_FormsTensorLocalization
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_RegularCuspidalTrace
+import Definitions.Def_Formalism_PieriBlockIdeals_PieriColumnMinors_DepthNonnegative
+import Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_block_ideal_at_of_top_theorem
+import Theorems.Thm_Formalism_CohomologicalDescent_DepthNonnegative_weight_theorem_top
+
+-- BEGIN pinned source Lake options
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option maxSynthPendingDepth 3
+set_option pp.unicode.fun true
+set_option relaxedAutoImplicit false
+-- END pinned source Lake options
+set_option autoImplicit false
+noncomputable section
+open TensorProduct MvPolynomial
+open Formalism Formalism.CohomologicalDescent Formalism.CohomologicalDescent.DepthNonnegative
+open Formalism.UG Formalism.RankGapBounds.FormsTensorLocalization Formalism.GradedWeylDivisibility Formalism.CohomologicalDescent.LD Formalism.CohomologicalDescent.UnitNormBounds
+namespace Formalism.CohomologicalDescent.DepthNonnegative
+theorem _root_.solution : BlockIdealAt := block_ideal_at_of_top_theorem weight_theorem_top
+end Formalism.CohomologicalDescent.DepthNonnegative

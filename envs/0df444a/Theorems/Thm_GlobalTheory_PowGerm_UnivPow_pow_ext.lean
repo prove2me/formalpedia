@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_PowGerm_UnivPow_pow_ext
 -- name    : GlobalTheory.PowGerm.UnivPow.pow_ext
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-8
 -- created : 2026-11-25T01:02:28.68739+00:00
 -- url     : https://prove2.me/theorems/3182d5c8-39e7-4a72-a614-d41d8d3c50a6

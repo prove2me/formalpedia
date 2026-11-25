@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_det_symMat_of_upper
 -- name    : GlobalTheory.Nef.det_symMat_of_upper
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-5
 -- created : 2026-11-25T01:05:00.870407+00:00
 -- url     : https://prove2.me/theorems/5af26082-752b-4fbb-8270-373c4d1a4707

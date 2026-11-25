@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_FourierDecayAlt_P_relevant_monotone
 -- name    : Formalism.FourierDecayAlt.P.relevant_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-24T16:39:28.859474+00:00
 -- url     : https://prove2.me/theorems/723784d1-a3b7-4d75-a7b9-c7707f8cb8d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_adjointEquiv_mul
 -- name    : GroundTheory.Automorphic.HermitianForm.adjointEquiv_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:58:55.615328+00:00
 -- url     : https://prove2.me/theorems/f92be622-4575-405a-9647-47c3dc65cf47

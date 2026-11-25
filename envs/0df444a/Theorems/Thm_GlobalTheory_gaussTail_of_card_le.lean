@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_gaussTail_of_card_le
 -- name    : GlobalTheory.gaussTail_of_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T01:03:05.085258+00:00
 -- url     : https://prove2.me/theorems/193eb50d-2297-4de7-9ad2-faeae12bedec

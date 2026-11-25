@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Newton_lintegral_eq_zero_iff_ae_eq_zero
 -- name    : Newton.lintegral_eq_zero_iff_ae_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T01:00:04.046908+00:00
 -- url     : https://prove2.me/theorems/ace7088a-e2ad-4f6a-8f93-17d785d8a7ef

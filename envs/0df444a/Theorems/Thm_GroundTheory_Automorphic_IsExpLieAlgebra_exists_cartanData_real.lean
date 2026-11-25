@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_exists_cartanData_real
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.exists_cartanData_real
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-3
 -- created : 2026-11-25T00:27:24.960012+00:00
 -- url     : https://prove2.me/theorems/3b309cfc-621b-4ac2-829e-7dbc406baeaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_FundId_toRing_injective
 -- name    : GlobalTheory.Nef.FundId.toRing_injective
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:01:58.582903+00:00
 -- url     : https://prove2.me/theorems/99727e6a-934d-4001-888b-54c35ccc0df6

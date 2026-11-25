@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_minorMonomial_mem_ZP
 -- name    : Formalism.L2.FormalSeriesBounds.RF.minorMonomial_mem_ZP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:46:29.371685+00:00
 -- url     : https://prove2.me/theorems/af285abe-a5ff-46fa-9f14-f2cf2fead3fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_HermitianForm_toSesq_adjointEquiv_right
 -- name    : GroundTheory.Automorphic.HermitianForm.toSesq_adjointEquiv_right
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-4
 -- created : 2026-11-25T01:04:36.876401+00:00
 -- url     : https://prove2.me/theorems/2b80c1b5-4b23-40ea-a9c9-e1fa12e9867a

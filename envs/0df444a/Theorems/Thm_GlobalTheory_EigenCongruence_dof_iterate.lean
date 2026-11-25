@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_EigenCongruence_dof_iterate
 -- name    : GlobalTheory.EigenCongruence.dof_iterate
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:39:12.28906+00:00
 -- url     : https://prove2.me/theorems/181d29d8-49a7-46e3-9d56-82f1ef0a98e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChromaticReconstruction_card_blk
 -- name    : ChromaticReconstruction.card_blk
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-24T12:23:14.368894+00:00
 -- url     : https://prove2.me/theorems/a1b1296f-7a06-4577-ae85-6393d884052b

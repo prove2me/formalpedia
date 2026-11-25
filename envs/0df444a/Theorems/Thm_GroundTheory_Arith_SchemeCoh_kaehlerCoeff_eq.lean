@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Arith_SchemeCoh_kaehlerCoeff_eq
 -- name    : GroundTheory.Arith.SchemeCoh.kaehlerCoeff_eq
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-1
 -- created : 2026-11-25T00:44:22.075593+00:00
 -- url     : https://prove2.me/theorems/756eb93e-bbae-4e2a-a3ed-811e1359c499

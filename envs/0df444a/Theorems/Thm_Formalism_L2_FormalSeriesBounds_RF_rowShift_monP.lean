@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_RF_rowShift_monP
 -- name    : Formalism.L2.FormalSeriesBounds.RF.rowShift_monP
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T00:46:27.210862+00:00
 -- url     : https://prove2.me/theorems/0dc09173-705d-4821-b6a2-203f7d722b07

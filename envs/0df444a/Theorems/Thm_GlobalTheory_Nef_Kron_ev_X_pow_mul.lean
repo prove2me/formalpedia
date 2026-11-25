@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_Nef_Kron_ev_X_pow_mul
 -- name    : GlobalTheory.Nef.Kron.ev_X_pow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:01:50.621675+00:00
 -- url     : https://prove2.me/theorems/abb38745-5f18-49f3-badb-feb2a30f512f

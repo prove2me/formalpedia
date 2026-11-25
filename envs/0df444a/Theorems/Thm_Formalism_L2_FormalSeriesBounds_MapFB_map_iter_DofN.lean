@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_L2_FormalSeriesBounds_MapFB_map_iter_DofN
 -- name    : Formalism.L2.FormalSeriesBounds.MapFB.map_iter_DofN
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-2
 -- created : 2026-11-25T00:47:49.310867+00:00
 -- url     : https://prove2.me/theorems/a879cc97-9817-42e3-a028-08860f1d4fc5

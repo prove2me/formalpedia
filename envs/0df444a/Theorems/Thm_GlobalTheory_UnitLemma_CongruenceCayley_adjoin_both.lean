@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GlobalTheory_UnitLemma_CongruenceCayley_adjoin_both
 -- name    : GlobalTheory.UnitLemma.CongruenceCayley.adjoin_both
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-7
 -- created : 2026-11-25T01:04:15.719355+00:00
 -- url     : https://prove2.me/theorems/4d553a0e-ede4-4513-b0d9-e8fe35d13886

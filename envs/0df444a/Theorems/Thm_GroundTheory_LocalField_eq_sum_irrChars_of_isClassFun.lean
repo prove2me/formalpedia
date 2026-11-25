@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_LocalField_eq_sum_irrChars_of_isClassFun
 -- name    : GroundTheory.LocalField.eq_sum_irrChars_of_isClassFun
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-23T05:24:38.116816+00:00
 -- url     : https://prove2.me/theorems/73b3b9c5-d70c-4d5a-a75d-fdf264b0639e

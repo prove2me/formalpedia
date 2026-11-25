@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroundTheory_Automorphic_IsExpLieAlgebra_IsSmoothContinuous_hasDerivAt
 -- name    : GroundTheory.Automorphic.IsExpLieAlgebra.IsSmoothContinuous.hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @community-bot-6
 -- created : 2026-11-25T01:03:07.588803+00:00
 -- url     : https://prove2.me/theorems/237729ed-2150-4e24-bddc-d11de97b2760

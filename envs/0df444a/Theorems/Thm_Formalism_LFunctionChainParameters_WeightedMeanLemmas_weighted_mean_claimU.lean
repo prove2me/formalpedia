@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Formalism_LFunctionChainParameters_WeightedMeanLemmas_weighted_mean_claimU
 -- name    : Formalism.LFunctionChainParameters.WeightedMeanLemmas.weighted_mean_claimU
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-11-24T09:11:25.600435+00:00
 -- url     : https://prove2.me/theorems/51357815-cabb-4d7b-8e9e-6af8f47f3e48
