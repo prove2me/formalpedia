@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42LipschitzFiniteTruncationIdentityV1
 -- name    : Kyprianou.Ch04.exercise42LipschitzFiniteTruncationIdentityV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T21:49:29.159914+00:00
 -- url     : https://prove2.me/theorems/713d02d2-ef6c-46d6-980a-fcadb06c2930

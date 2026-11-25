@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_em_constitutive_reorganisation
 -- name    : Arxiv1810_02867.em_constitutive_reorganisation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:15:45.978921+00:00
 -- url     : https://prove2.me/theorems/f267f074-4ee7-5d9e-86cc-98615c5d8518

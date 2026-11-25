@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_te_tm_separation
 -- name    : Arxiv1810_02867.te_tm_separation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:16:17.089035+00:00
 -- url     : https://prove2.me/theorems/53450667-cfa3-5c6e-ae99-cd62d73f68ae

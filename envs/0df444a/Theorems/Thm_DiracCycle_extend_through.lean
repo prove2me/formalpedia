@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiracCycle_extend_through
 -- name    : DiracCycle.extend_through
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:48:40.76588+00:00
 -- url     : https://prove2.me/theorems/247a8edc-2659-47a9-85c0-c7daa2358493

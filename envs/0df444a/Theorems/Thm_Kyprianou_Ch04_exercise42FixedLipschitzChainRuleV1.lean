@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42FixedLipschitzChainRuleV1
 -- name    : Kyprianou.Ch04.exercise42FixedLipschitzChainRuleV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:33:31.399878+00:00
 -- url     : https://prove2.me/theorems/275ca2d4-dda1-4893-bf00-61f5cb18f4ff

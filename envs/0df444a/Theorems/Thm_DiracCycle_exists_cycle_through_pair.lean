@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiracCycle_exists_cycle_through_pair
 -- name    : DiracCycle.exists_cycle_through_pair
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:46:32.839281+00:00
 -- url     : https://prove2.me/theorems/b7b1231e-f971-5e3d-8ece-fddb756448c0

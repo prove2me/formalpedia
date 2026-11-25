@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_acoustic_constitutive_reorganisation
 -- name    : Arxiv1810_02867.acoustic_constitutive_reorganisation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:18:26.819275+00:00
 -- url     : https://prove2.me/theorems/a4f13721-bae7-543d-bc62-25d445c347cc

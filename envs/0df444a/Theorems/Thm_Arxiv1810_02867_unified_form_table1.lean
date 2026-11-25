@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_unified_form_table1
 -- name    : Arxiv1810_02867.unified_form_table1
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:20:05.59119+00:00
 -- url     : https://prove2.me/theorems/baac9634-1378-4aee-bc57-7021c73d8adf

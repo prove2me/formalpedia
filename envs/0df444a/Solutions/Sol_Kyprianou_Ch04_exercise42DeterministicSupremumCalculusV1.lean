@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Kyprianou.Ch04.exercise42DeterministicSupremumCalculusV1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-11-25T16:05:26.031132+00:00
 -- url     : https://prove2.me/submissions/250b69cd-040d-4371-a693-1100c760eb10
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Kyprianou_Ch04_exercise42SupremumIncrementBoundsV1

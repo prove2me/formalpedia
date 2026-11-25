@@ -85544,7 +85544,7 @@
 {"parent": "GlobalTheory.LinDescent.section_eq_one_of_isReduced", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_ValCalc", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LinDescent.section_eq_one_of_isReduced", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_UniformisationConclusion", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.LinDescent.section_eq_one_of_isReduced", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_BirationalGeometry_ToroidalCompactification_HeckeKer", "via": ["solution", "statement"]}
-{"parent": "SSLMultiView.determinism_cond_indep", "child": "SSLMultiView_Basic", "via": ["statement"]}
+{"parent": "SSLMultiView.determinism_cond_indep", "child": "SSLMultiView_Basic", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBA.ptSize_loc", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_AdmissibleOfPlaces", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.PBA.ptSize_loc", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_SizeAtNonneg", "via": ["solution", "statement"]}
 {"parent": "Development_ResolutionOfSingularities_EmbeddedResolution_IdealPrincipalization_MonomialCase_MonomialSplittingUniqueness", "child": "Development_ResolutionOfSingularities_Foundations_Schemes_AffineOpens", "via": ["statement"]}

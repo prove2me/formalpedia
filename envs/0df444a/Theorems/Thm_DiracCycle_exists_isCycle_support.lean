@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiracCycle_exists_isCycle_support
 -- name    : DiracCycle.exists_isCycle_support
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:48:04.126072+00:00
 -- url     : https://prove2.me/theorems/72f889d2-02cb-5568-96c9-22529e38f1d5

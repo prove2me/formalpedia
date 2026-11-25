@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Arxiv1810_02867_willis_constitutive_reorganisation
 -- name    : Arxiv1810_02867.willis_constitutive_reorganisation
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-25T05:17:12.850306+00:00
 -- url     : https://prove2.me/theorems/4f21c354-287e-4c3a-8f43-3b56725ce4ed

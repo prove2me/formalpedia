@@ -32267,7 +32267,7 @@
 {"parent": "APFPaper5.K3.built_preserves_totalCost", "child": "APFPaper5.K3.unseen_of_fixed_by_records", "via": ["solution", "statement"]}
 {"parent": "row23_rh_supp_RHLowSlabSixthCell01", "child": "row23_rh_supp_RHLowSlabSixthPilot", "via": ["statement"]}
 {"parent": "DiazModulus.fv_theorem_2_1_general", "child": "DiazModulus", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise46MM1StationaryWorkload", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise46MM1StationaryWorkload", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a327_original_true_large_combined_positive_expected_L1_vanish", "child": "AvramDividend.Classical.avram_ga_a315_eventual_ae_two_error_expected_L1_squeeze", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a327_original_true_large_combined_positive_expected_L1_vanish", "child": "AvramDividend.Classical.avram_ga_a319_original_true_fullcell_rare_positive_two_source_all_mesh_bound", "via": ["solution", "statement"]}
 {"parent": "AvramDividend.Classical.avram_ga_a327_original_true_large_combined_positive_expected_L1_vanish", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
@@ -35938,7 +35938,7 @@
 {"parent": "PrimeLocal.not_dvd_discr_iff_hasGoodReduction", "child": "EllipticCurve_ZeroComponentAt", "via": ["solution", "statement"]}
 {"parent": "PrimeLocal.not_dvd_discr_iff_hasGoodReduction", "child": "FLTPrelim_Ramification", "via": ["solution", "statement"]}
 {"parent": "StableVotingDistortion.Lemma9Reduction.coveredCells136To142", "child": "StableVotingDistortion_Lemma9IntervalArithmetic", "via": ["solution", "statement"]}
-{"parent": "Kyprianou.Ch04.exercise41ZeroVisitCounterCadlag", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
+{"parent": "Kyprianou.Ch04.exercise41ZeroVisitCounterCadlag", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.cadlag_runningSup_bddAbove", "child": "AvramDividend.Classical.one_sided_limits_bddAbove_Icc", "via": ["solution", "statement"]}
 {"parent": "Kyprianou.Ch01.cadlag_runningSup_bddAbove", "child": "LeanLevy_Processes_Cadlag", "via": ["solution", "statement"]}
 {"parent": "DiazModulus.fv_finite_approx", "child": "DiazModulus", "via": ["solution", "statement"]}

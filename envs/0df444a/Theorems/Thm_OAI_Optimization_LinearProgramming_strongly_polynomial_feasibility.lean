@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Optimization_LinearProgramming_strongly_polynomial_feasibility
 -- name    : OAI.Optimization.LinearProgramming.strongly_polynomial_feasibility
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-11-25T20:53:47.777382+00:00
 -- url     : https://prove2.me/theorems/1ca55215-6bbe-5c1f-924f-f5d46dee7772

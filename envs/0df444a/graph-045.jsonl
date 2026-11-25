@@ -40409,7 +40409,7 @@
 {"parent": "GlobalTheory.DegAsm.AdaptInv.e_mem_xa", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_AdaptSelf", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DegAsm.AdaptInv.e_mem_xa", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_HermFramePairNormalFormGeometrySummary", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DegAsm.AdaptInv.e_mem_xa", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_FlagFramesSameGradedDefinitePartLatticeEq", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.te_tm_separation", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.te_tm_separation", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "PI.BeConjNormW.InverseCommuting.coeff_pow_int", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ConjugateNormBound_Development", "via": ["solution", "statement"]}
 {"parent": "PI.BeConjNormW.InverseCommuting.coeff_pow_int", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ConjugateNormBound_MemIntegerRingIffNormLeOne", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.DegCnt.FixDisc.exists_proj_aut", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ChartGen", "via": ["solution", "statement"]}
@@ -41575,7 +41575,7 @@
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_L1_wpDen_const__5e7138a2c865", "child": "ReciprocityTheory_ReductiveGroups_UnramifiedIntegrals_CoeffOneSubstOfConstantCoeffEqZero", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.eq_zero_of_add_eq_zero", "child": "GroundTheory_AutomorphicForms_PartialDifferential_EllipticLocal", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.eq_zero_of_add_eq_zero", "child": "GroundTheory_AutomorphicForms_PartialDifferential_EllipticOperators", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.willis_constitutive_reorganisation", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.willis_constitutive_reorganisation", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_PGsh_L2_fourier__surjective_1bda25901bf1", "child": "ReciprocityTheory_DualLattices_TransposeMulSelf", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_PGsh_L2_fourier__surjective_1bda25901bf1", "child": "ReciprocityTheory_DualLattices_MemDualLatMapFourier", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_PGsh_L2_fourier__surjective_1bda25901bf1", "child": "ReciprocityTheory_DualLattices_CharTableIsUnit", "via": ["solution", "statement"]}
@@ -42335,7 +42335,7 @@
 {"parent": "PI.AddIntG.Wk.rt_G_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdditiveIntegralGroups_SubstMem", "via": ["solution", "statement"]}
 {"parent": "PI.AddIntG.Wk.rt_G_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdditiveIntegralGroups_CoeffWSeriesVarZero", "via": ["solution", "statement"]}
 {"parent": "PI.AddIntG.Wk.rt_G_map", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_AdditiveIntegralGroups_ThirdRootSubVarZeroNeZero", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.acoustic_constitutive_reorganisation", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.acoustic_constitutive_reorganisation", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Mass.Hyperplane.exists_refl", "child": "Development_AbelianVarietyTheory_Definitions_SemilocalFrames_ChartGen", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Mass.Hyperplane.exists_refl", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_IsLocalizedModuleSubtype", "via": ["solution", "statement"]}
 {"parent": "GlobalTheory.Mass.Hyperplane.exists_refl", "child": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_StarMemLocR", "via": ["solution", "statement"]}
@@ -43188,7 +43188,7 @@
 {"parent": "Formalism.FourierDecayAlt.P.LeftDerivativeCurves.lie_conj", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_LeftDerivativeCurves", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.LeftDerivativeCurves.lie_conj", "child": "Formalism_HermitianCurvature_StatementQr", "via": ["solution", "statement"]}
 {"parent": "Formalism.FourierDecayAlt.P.LeftDerivativeCurves.lie_conj", "child": "Formalism_HermitianCurvature_HermitianCurvatureProofs_RestrictionIrrelevantDoubleLevelOperator", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.unified_form_table1", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.unified_form_table1", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_G_I2_Hf_im_eq__c00dd98ec76c", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_SplitA", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_ChartRestriction_G_I2_Hf_im_eq__c00dd98ec76c", "child": "ReciprocityTheory_ReductiveGroups_ArithmeticGeometry_SquareIntegrability_SplitSt", "via": ["solution", "statement"]}
 {"parent": "P2M_ReciprocityTheory_Cheb_casimirPower_surjective_symmetric__d64ad7ac444a", "child": "ReciprocityTheory_Chebotarev_CasimirPowerSurjectiveSymmetric", "via": ["solution", "statement"]}
@@ -43883,7 +43883,7 @@
 {"parent": "PI.ET.HornW.norm_det_conj_exp", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExponentialTriangular_NormDetConjExp", "via": ["solution", "statement"]}
 {"parent": "PI.ET.HornW.norm_det_conj_exp", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ExponentialTriangular_SortedSpec", "via": ["solution", "statement"]}
 {"parent": "PI.DIP.Loc.surjK", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_DeterminantIdentity_SmulMemOfMemSpan", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.em_constitutive_reorganisation", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.em_constitutive_reorganisation", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.one_le_sqrt_one_add_norm_sq", "child": "GroundTheory_AutomorphicForms_PartialDifferential_EllipticLocal", "via": ["solution", "statement"]}
 {"parent": "GroundTheory.Automorphic.Sobolev.one_le_sqrt_one_add_norm_sq", "child": "GroundTheory_AutomorphicForms_PartialDifferential_EllipticOperators", "via": ["solution", "statement"]}
 {"parent": "GroundTheory_HeightsAndTheta_Heights_Intersections_StPtsMonoSemiPos", "child": "GroundTheory_HeightsAndTheta_Heights_Intersections_RegLine", "via": ["statement"]}
@@ -44481,7 +44481,7 @@
 {"parent": "PI.Dv.ProjGramW.dvProjGram_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProjectionGramMatrices_AlgebraMapNeZeroOfNotMem", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.ProjGramW.dvProjGram_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProjectionGramMatrices_IdxDet", "via": ["solution", "statement"]}
 {"parent": "PI.Dv.ProjGramW.dvProjGram_of", "child": "Formalism_PeriodIntegrals_UnitaryGroupMassFormula_ProjectionGramMatrices_DvProjGramOf", "via": ["solution", "statement"]}
-{"parent": "Arxiv1810_02867.sh_system", "child": "Arxiv1810_02867_Basic", "via": ["statement"]}
+{"parent": "Arxiv1810_02867.sh_system", "child": "Arxiv1810_02867_Basic", "via": ["solution", "statement"]}
 {"parent": "P2M_RH_AlgebraicGeometry_Scheme_IdealSheafData_ofIdealTop_mul_690258dfc4cf6c74", "child": "Development_ResolutionOfSingularities_Foundations_Schemes_IdealSheafData", "via": ["solution", "statement"]}
 {"parent": "P2M_RH_AlgebraicGeometry_Scheme_IdealSheafData_ofIdealTop_mul_690258dfc4cf6c74", "child": "Development_ResolutionOfSingularities_Foundations_Schemes_AffineOpens", "via": ["solution", "statement"]}
 {"parent": "Development_AbelianVarietyTheory_Proofs_FlagMeasures_CardSubmoduleAndHomLe", "child": "Development_AbelianVarietyTheory_Definitions_Foundations_IsHermND", "via": ["statement"]}

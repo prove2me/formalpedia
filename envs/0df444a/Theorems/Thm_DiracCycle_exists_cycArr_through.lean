@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiracCycle_exists_cycArr_through
 -- name    : DiracCycle.exists_cycArr_through
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:49:01.986814+00:00
 -- url     : https://prove2.me/theorems/6c0271ed-b1e5-4f7d-b8e2-2785ecb108ad

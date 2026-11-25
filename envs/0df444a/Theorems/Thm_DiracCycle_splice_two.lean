@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiracCycle_splice_two
 -- name    : DiracCycle.splice_two
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:47:55.580684+00:00
 -- url     : https://prove2.me/theorems/51f4a407-d3c0-5a11-8286-737f687ba0a6

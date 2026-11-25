@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalColouring_isFracColouring_mycielskiColouring
 -- name    : FractionalColouring.isFracColouring_mycielskiColouring
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:34:19.26292+00:00
 -- url     : https://prove2.me/theorems/14e5e916-3f37-5de7-a63a-a28753f80802

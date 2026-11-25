@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kyprianou_Ch04_exercise42DeterministicSupremumCalculusV1
 -- name    : Kyprianou.Ch04.exercise42DeterministicSupremumCalculusV1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-11-25T08:23:08.549548+00:00
 -- url     : https://prove2.me/theorems/4f929453-4ce9-42eb-885d-5765e84491a8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSLMultiView_determinism_cond_indep
 -- name    : SSLMultiView.determinism_cond_indep
--- status  : Open
+-- status  : Proved
 -- author  : @Xeroth
 -- created : 2026-11-24T18:02:29.690136+00:00
 -- url     : https://prove2.me/theorems/6b0dd777-2b0e-409c-8d38-275398814df3

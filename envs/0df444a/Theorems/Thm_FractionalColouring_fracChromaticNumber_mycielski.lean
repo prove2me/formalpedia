@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FractionalColouring_fracChromaticNumber_mycielski
 -- name    : FractionalColouring.fracChromaticNumber_mycielski
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-11-25T21:36:28.641186+00:00
 -- url     : https://prove2.me/theorems/73d453f8-f98c-4020-9509-6ac0d40f5ec0
